@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/02/meta-describes-how-ai-will-unlock
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/meta-describes-how-ai-will-unlock-the-metaverse/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 110
 published: true
 
 provider:

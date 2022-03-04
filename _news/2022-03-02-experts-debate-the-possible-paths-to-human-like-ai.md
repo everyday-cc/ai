@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-01T17:21:00Z
 originalUrl: "https://physicsworld.com/a/experts-debate-the-possible-paths-to-human-like-ai/"
 webUrl: "https://physicsworld.com/a/experts-debate-the-possible-paths-to-human-like-ai/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://physicsworld.com/wp-content/uploads/2022/02/brain-computer-intelligence-concept-landscape-1027941874-Shutterstock_Jackie-Niam.jpg"

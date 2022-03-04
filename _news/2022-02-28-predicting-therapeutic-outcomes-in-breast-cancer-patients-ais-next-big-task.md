@@ -24,22 +24,6 @@ images:
     height: 483
     isCached: true
 
-related:
-  - title: "Chiropractors Embrace Artificial Intelligence and Create Future Patient Journey"
-    excerpt: "However, Chiropractors have not always been on the forefront in the adoption of new technology or marketing methods – until now. New York Medical Group incorporated innovative technologies into their design and operations to improve the patient journey,"
-    publishedDateTime: 2022-02-27T08:01:00Z
-    webUrl: "https://www.digitaljournal.com/pr/chiropractors-embrace-artificial-intelligence-and-create-future-patient-journey"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 35
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Ukraine-Stop-War-Protests-AFP-1K-02-e1645941090514-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-
 secured: "twuvn4eqQmiX2CThUgeZ64HcwuURijhuyc6coJbRzOl2tWCKdvK7RBQ2H4FJhYl4ZpbIwYYmpNSeetv3mO/ORQaff6/DH61wiljTbxkfxVOYQXibOldPXsHGS5vs93swKCGIPwuX5KNa1TLCWrpe9WJemn2SfWoVEQAFflmAznudKj0WbBuZ4gRsLqODT4HTxI3rGU7ZNZ8lkSaBMRbdQCKzs1Lt92AcHObXvdn3Moi7nQtdRmm0+9LVDC8qH9K9DNt2KAK+bEQdscW3NW+JoZksfCOg3CwTtim9/fHWIMpfs0YPcbmtdGQ7UdacWPXh28LSuHzG1IoPDWt5+gIk3ksL3kSWRV1iGRh9TGY9M9pWg+mPvwoDTiCgu/OA6Nlg+/9ZqAzgZ6HF+OktVvRjRlTKurYFYSBTag41J/YJvypJ9LM3B4dwgvB8gKECUFK4mURg/g0245/g3nqon1tyjVeBoLwvj88ik2nqLoApn/hd2ogmtD/oKEWa5juabecPWAXVplotnRz873i0jhG5eQ==;KQ4OmchhhRxVLHp7yxY4fQ=="
 ---
 

@@ -55,20 +55,6 @@ related:
         width: 1050
         height: 700
         isCached: true
-  - title: "Meta to develop Universal speech translator"
-    excerpt: "Meta says it is making an AI-powered universal speech translation system that offers speech-to-speech translation in real-time for 100s of languages."
-    publishedDateTime: 2022-02-27T08:32:00Z
-    webUrl: "https://techstory.in/meta-to-develop-universal-speech-translator/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 24
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/02/meta-facebook-2-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
 
 secured: "/5jCJMkiQafSGa/y5oouXZof9zED7t6GRPk2nQwCwQW9xKEvakzO/WHfCYsJTR3JtlvRbtmY2TqIx4ItJaFh4JNZbifpSVtEzR/P7edZ0Bi2X8yuv9kdajsRPVtTDwPfvoVD7GD03HxIib4wwonYVbO8TdaEW5DTEfV2WOhC9wdXSrwkiW3Wo7Ws4l1VSigQ5sPJg34rBehD26xE8/qgFKcoP1vGuUCpyxim6np4/bm2dtZAd5vKWLtsV6jymv3mPHyCGCI072+5Ym9uKiVPkON4ajBPntuwPnoG9mfLbCAzwz+v7gmNnYEE5AP1lv9QXFBdOU7UO5jhonlVlY0dE0mwUL88JYmYjwcTz3ZLBZckf8BaEDbl/rcc0YnQChONVJrZw8BOto1N0sgGSv1Sbdx0eeL8d2SgjYt9c6117qjUHTOx6jDV+2LZSfVGfZfCRjPUpnICJtuDzO3P1PCfuvbu4FcU49oZOTaAEdHX6OiUmyKxLKYVdprxfiSASTSGDmgn8VOpUszwxtbkXVfClg==;xXCLNKo/m/lr4z0F1IsA/A=="
 ---

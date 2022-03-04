@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/baby-cry-translator-ai"
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/baby-cry-translator-ai"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://www.bbntimes.com/images/articles/global-economy/How_Deep_Learning_Can_Transform_the_Transportation_Sector.jpeg"
         width: 1000
         height: 595
-        isCached: true
-  - title: "Meta to develop Universal speech translator"
-    excerpt: "Meta says it is making an AI-powered universal speech translation system that offers speech-to-speech translation in real-time for 100s of languages."
-    publishedDateTime: 2022-02-27T08:32:00Z
-    webUrl: "https://techstory.in/meta-to-develop-universal-speech-translator/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 24
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/02/meta-facebook-2-300x225.jpg"
-        width: 300
-        height: 225
         isCached: true
 
 secured: "zk8JAeTSGpz6OlMB7AYsEes8dans80nOvZ0m+mQh1eSBvz1o6kKdB5L4mGpVr0yL+X2WHD/HFxboclggtHl9PHBKQdLVFDwsFFMGWEAT6RquzIKvYaPa7rTB9R1hiyX5R3KbtUdtZEoOKkUpSrX4f5avujV+SgvQsVuDNCVtRDHXBRao1d1Bn5oHrt3NisaxwV9o6Gwl/tnM/KZ9nEWv4J3gcnrVpKYPkbBKIPGbiKqUtSIo+lANwqQuHvtyX52uBMsd+0B9wCA5jtHGjIGiJkcPqFnQwrxFwqsRbmWGYrubrrawUPnnXCaAtZFaJWPcRn/Xa6AEXw+nkfdCk3PJgrJ8sgIRnCe7JhisECoMWYCnCUbke+rYzz6cU0NGBoXyRVXnr+Z/HIEjExEpAC7io8+3g1v/8opxoKf0aFp9YaKO6lAW5Vo1SeTIzJVgySehpXUF+5dV1eLd7p7DBSk28wNrzcw++KxrpLia30dN+Gg1wByUbbd8OzCs3Z62KkoQed0Dh3GJ7lKDvBWEfD8N3w==;LUUw/F3/fWkOalIuQqoN3A=="

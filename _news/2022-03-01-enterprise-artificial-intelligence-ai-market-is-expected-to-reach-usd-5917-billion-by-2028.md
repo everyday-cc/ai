@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-01T11:31:00Z
 originalUrl: "https://menafn.com/1103781763/Enterprise-Artificial-Intelligence-AI-Market-is-Expected-To-Reach-USD-5917-Billion-By-2028"
 webUrl: "https://menafn.com/1103781763/Enterprise-Artificial-Intelligence-AI-Market-is-Expected-To-Reach-USD-5917-Billion-By-2028"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://menafn.com/updates/pr/2022-03/01/EP_7d5d0image_story.jpeg"

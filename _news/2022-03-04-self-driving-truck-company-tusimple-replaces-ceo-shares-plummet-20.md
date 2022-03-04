@@ -1,27 +1,41 @@
 ---
 category: news
-title: "Self-Driving Truck Company TuSimple Replaces CEO, Shares Plummet 20%"
-excerpt: "Lu had been at the helm of the self-driving company since 2018 and led TuSimple during its IPO. He will serve as an adviser to the new CEO until March 2023 to ensure an effective"
-publishedDateTime: 2022-03-03T20:44:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2022-03-03/self-driving-truck-company-tusimple-replaces-ceo-shares-plummet-20"
-webUrl: "https://www.usnews.com/news/technology/articles/2022-03-03/self-driving-truck-company-tusimple-replaces-ceo-shares-plummet-20"
+title: "Self-driving truck company TuSimple replaces CEO, shares plummet 20%"
+excerpt: "TuSimple Holdings Inc on Thursday said it was replacing its Chief Executive Officer in a decision it called part of a \"planned executive succession,\" but which took Wall Street by surprise and caused its shares to plummet more than 20%."
+publishedDateTime: 2022-03-03T19:19:00Z
+originalUrl: "https://www.nasdaq.com/articles/self-driving-truck-company-tusimple-replaces-ceo-shares-plummet-20"
+webUrl: "https://www.nasdaq.com/articles/self-driving-truck-company-tusimple-replaces-ceo-shares-plummet-20"
+ampWebUrl: "https://www.nasdaq.com/articles/self-driving-truck-company-tusimple-replaces-ceo-shares-plummet-20?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-truck-company-tusimple-replaces-ceo-shares-plummet-20?amp"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 64
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "NNBJcm/bZLP+SUDJLDRlrQmIyDWHOchyzxLfMX1GxLpIVZUOAn2Lz3JWpIbaXcVM4EPGwMVHYMHOGxep5kYbLJ0YZBbP6y1jJAH/gDdVHb+OQZ28GMd+rCROdNMwU+5wsMVE2NzMDGluo4TlfcuU3qCB+/jxgO2O5eQxawU6icVsqN4ThptQ2VOLs1SeekVFva0S3YSNhf4AycTzPdhpJyDQNz8itW60XmePwzIu+tMuWQFOn1ZNHxv/+LBF5mxOOks/UKiEjnyZMlnrCvgYyHQWoWvsdNo05Ej3CSTBNeZFNM96qxoqeSQxbWrBKKLoJ6MLrF71gP5rBbXUya9SQI9X90RQlDrocjHWVN7t5gs=;CeTpxQkciMQus6/TUM2ImA=="
+related:
+  - title: "Self-driving truck company TuSimple replaces CEO, shares plummet 20per cent"
+    excerpt: "TuSimple Holdings Inc on Thursday said it was replacing its Chief Executive Officer in a decision it called part of a \"planned executive succession,\" but which took Wall Street by surprise and caused its shares to plummet more than 20per cent."
+    publishedDateTime: 2022-03-03T20:44:00Z
+    webUrl: "https://www.channelnewsasia.com/business/self-driving-truck-company-tusimple-replaces-ceo-shares-plummet-20per-cent-2537486"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 22
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
+        width: 1200
+        height: 676
+        isCached: true
+
+secured: "mCyEfXbYo6HtxQDrJuAm0zqk+bU7ekmLYnkCy2qrynWyzJC3gp0zXscr0gbCxvnmirVuFKmxfhH6PWTZOdxrD1m9t54nBUmdiZw6U3cgdjqrU0wCUuUUwH8fx1akzKiHpooyEhh6tuNb57LwSkXO4RRwqfD710oAm+uLVnv5z3EwgIl2++VLqM22VLr1VlYRMHd7foBqAihukB6fQHTyV/CpxCjCVd+YqFb6tIDezMut0M/6b/xjn2z0OeoOtDQHDfBfJlyA7npCfsrVnc7ox7hDBAG7L00LKBqcJ+YLxDnolk/VQZht6W67zYkFUFN2FC2buDGWiCJnJLigvOFHuRUF4CK7VV7IQ00C8Q4DOWwzbhChp45mk9YwuBDxy4H298vHuGNgn5PtE6GMnVLsquivzgPk0c6chkQxdAJGvhfFeHkJH9hrcMiZPXczp33EsbCTve5jX8zZV4IDVEHE2UXkH6p6QTC2F8liz9z66Yk72FgyfWIbJb9PmTELpFO+bBXeO3qDyDvnk6UT5uuJzw==;PwOfsoUeWdhIkMG6Z051FQ=="
 ---
 

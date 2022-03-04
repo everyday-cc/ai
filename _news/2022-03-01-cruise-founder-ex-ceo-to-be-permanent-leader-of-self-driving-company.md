@@ -26,22 +26,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Self-driving truck company TuSimple replaces CEO, shares plummet 20per cent"
-    excerpt: "TuSimple Holdings Inc on Thursday said it was replacing its Chief Executive Officer in a decision it called part of a \"planned executive succession,\" but which took Wall Street by surprise and caused its shares to plummet more than 20per cent."
-    publishedDateTime: 2022-03-03T20:44:00Z
-    webUrl: "https://www.channelnewsasia.com/business/self-driving-truck-company-tusimple-replaces-ceo-shares-plummet-20per-cent-2537486"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 22
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-        width: 1200
-        height: 676
-        isCached: true
-
 secured: "fd2QHOtFZXrnrYH4wlfATsxQXmhRe3pvBmqXMy7sxfa9Q3TlonwfFtPLHP8gNzldgzn2uqa/RoFVSNSxmGiugh6hBzqlPzyacDBqi6hIRxHmkmxDrpdOVSj3Dx4thaM9EoESJGIu9Fne5Q1/isU35iCi/D1UR8hq+bOqh6XExYmmUhD05GDd0z1B50JW+WWjS7GVz0dL8SKRRf/SBBaPFGAY4fVVZF2tvkV/AyjWKDeR5Wqq+XYkUgvzkbsrsEHvUoyH2llZXzY8mcOaRWvdGLuoptLb4AtQtw/HtXBCUL9d1E9U/fAjGp8C+DWzEkcySQ7CmfF6dPnvZhO6wLjdIPPqMWUsL+xxY2txB7MyQ7T1Dz/t+tzxV00KGehHpDk5k80gHkSywZsJEYoaXlEqMIU6lOBySjgyz994y7+Uodwx3UYzkpk2V46heBhH0ezUwdzOM1wqFVW0wGdE9Qyix0s4Tb2JLJacOwUvmlbswcucVpr3NgJ5vBe1Fi7vHZ0zVGxA6D1QWUs6pn4bv51naw==;e9kcja1vxNoAge74s/FeHQ=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-02T13:43:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-bfsi-market-growth-analysis-share-company-profiles-and-forecast-by-2028"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-bfsi-market-growth-analysis-share-company-profiles-and-forecast-by-2028"
 type: article
-quality: 22
+quality: 24
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/6f36adb06597c8add3e517ea4970f7781a732f19-600x337.jpg"

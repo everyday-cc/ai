@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/03/ai-powered-intelligent-security-m
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/ai-powered-intelligent-security-makes-the-hybrid-enterprise-possible/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -78,7 +78,21 @@ related:
         width: 800
         height: 453
         isCached: true
+  - title: "SXSW 2022 Round-up: Cybersecurity, Artificial Intelligence, and Quantum Computing"
+    excerpt: "With the potential for increased cyberattacks and possible cyber warfare sweeping the headlines, business and government leaders alike are renewing their focus on cybersecurity. They are paying partic"
+    publishedDateTime: 2022-03-03T21:58:00Z
+    webUrl: "https://www.linkedin.com/pulse/sxsw-2022-round-up-cybersecurity-artificial-quantum-jay-mcguire"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 32
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHDRZC5By0iSQ/article-cover_image-shrink_720_1280/0/1646335261752?e=1651708800&v=beta&t=FgDdpVZ3WM6XbAtx9Zq7xQkDbSpeC61GhX4H2hj-6nQ"
+        width: 720
+        height: 720
+        isCached: true
 
-secured: "qTik00Y7cxlWdcUapyfbSEUm0H7i75MQcfQmgBNrN7pZAi4jkLk7zTfncZhxx3yozRUNQ0G3LfNLsZF3cYSq2AF3de1YD7iMQj+EnJw6ruUUDzjgsVACFI0WHrctsjMh6jA+bxrSB0F62PHAfdCJZSYPJUPSZcIRNjUuzR1eKr6smWaO5mbcfftSEV4AbjZMUDFaVDTjmGhVQZfnqJMKM0aama36PywHdmabInz+a7bffOqP0fAgGTPGAcg5aGuEctTXsMHn6NAsXNHqI0QCUqJy3Mg1Vs3oAtBdWfu6dIKNHulPSLy9ZQ3+JAHdjn9sv2mADKD6zGdJtPcYtrCT4jAXDRL2bVG+zJ87vgCYGXI=;0wHAnWKu3HIj9kYvCqrQSA=="
+secured: "qA1hFlzB2ZsSZZZYyrq1/6ZUHipdDdmYCcwLj3sruq2CGO4jYnkYIg1ADdZk2HcWW9nN3L8w8ZBjOer99ZNbmuQOSAvdNglWjNORvsrJvt649HOKWMIzFtNulaOV2BcyILNXFUAXLBRjP/nvf3T7yesvd//DgoUCQfH7gfFTgC2d0AGSxLd1us8NUcmZBBK8tQuZnRWnxlvHThtaeEvdnJBEEZ0nP3UphPUhxT/e1vnfmw4BgmCrV3FrKSYaaqaIceQ7vtV7E8LmTbwkj5oxSOU91grpe9FKYVTHOhRYVipZJj0ujKyZ/65keHBmkS/WghviZYPreeNfbLfwc5VSmK8JL0hRe/1oq8h8P+eqw2gc9kB+Tp2iiQXoiZ2JbsQTZXmwzzR+AaQqy6u67uxJzGITvIJwt9Yn5y1YC1onF7SpP6PpDp1PbINiF98qxU6hibEcs1fTsF/b2QsqR2bvkhnMv+QbToRGjmEgcEHN8qcj8IRXiSOmmBwT1krvmCPlWLRJ3xn1y+VNzXxXH9pKcA==;UTKlvE/JrWJIYc9dRhduXw=="
 ---
 

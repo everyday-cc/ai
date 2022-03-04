@@ -76,7 +76,7 @@ related:
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://menafn.com/updates/pr/2022-03/01/EP_7d5d0image_story.jpeg"
         width: 300

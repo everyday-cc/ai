@@ -78,6 +78,20 @@ related:
         width: 800
         height: 453
         isCached: true
+  - title: "SXSW 2022 Round-up: Cybersecurity, Artificial Intelligence, and Quantum Computing"
+    excerpt: "With the potential for increased cyberattacks and possible cyber warfare sweeping the headlines, business and government leaders alike are renewing their focus on cybersecurity. They are paying partic"
+    publishedDateTime: 2022-03-03T21:58:00Z
+    webUrl: "https://www.linkedin.com/pulse/sxsw-2022-round-up-cybersecurity-artificial-quantum-jay-mcguire"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 32
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHDRZC5By0iSQ/article-cover_image-shrink_720_1280/0/1646335261752?e=1651708800&v=beta&t=FgDdpVZ3WM6XbAtx9Zq7xQkDbSpeC61GhX4H2hj-6nQ"
+        width: 720
+        height: 720
+        isCached: true
 
 secured: "JF9CQ3cIIbn+91MWgSVMTumRAAS3xH76nql+jbs5QnydsRn5DHZltJn12SeOMyk8yDXJxgnr15eZKG8YWl475kNMCBIyvqkH+8OTV3fT+Dcb6mTGGSWIFgD0ihS8z5Lec7tu1GZ7J9bATZ37f2Cw+Js+nK7LHhQ4tvG0bDz8XlzWH8F9r6Vt/0hiHkNVbtR5ixVH9fn4vsTnfW7Cd9YS40nnKJ8vsMfFqGWJNzNDBDfsolZp925HioYAD1mS9njVUM+yKSACUWwKEIlPD9lS2wZBSySETiqfhcThbodd+nCtbePkr+fTYgxQfQHs4iLWPXB5wl2/+TXqSfCZA8l5n7vFlqnve5IP0ovmE5mB+GU=;77izMQd9mCEHKcAsD2LU3A=="
 ---

@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Hugh Chambers, Better Known as The Growr, to Launch Innovative Self-Driving Car Rental Company and Mentor Young and Upcoming Entrepreneurs"
-excerpt: "The phenomenal businessman born in St. Elizabeth and grew up in Christiana, Manchester, Jamaica is a computer programming and web development expert. The"
-publishedDateTime: 2022-03-02T20:15:00Z
-originalUrl: "https://www.digitaljournal.com/pr/hugh-chambers-better-known-as-the-growr-to-launch-innovative-self-driving-car-rental-company-and-mentor-young-and-upcoming-entrepreneurs"
-webUrl: "https://www.digitaljournal.com/pr/hugh-chambers-better-known-as-the-growr-to-launch-innovative-self-driving-car-rental-company-and-mentor-young-and-upcoming-entrepreneurs"
+excerpt: "The phenomenal businessman born in St. Elizabeth and grew up in Christiana, Manchester, Jamaica is a computer programming and web development expert. The Growr is a"
+publishedDateTime: 2022-03-02T19:21:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/03/ab25948496/hugh-chambers-better-known-as-the-growr-to-launch-innovative-self-driving-car-rental-company-and-"
+webUrl: "https://www.benzinga.com/pressreleases/22/03/ab25948496/hugh-chambers-better-known-as-the-growr-to-launch-innovative-self-driving-car-rental-company-and-"
+ampWebUrl: "https://www.benzinga.com/amp/content/25948496"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25948496"
 type: article
-quality: 0
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Ukraine-Zelensky-AFP-1K-04-e1646160877914-600x337.jpg"
-    width: 600
-    height: 337
+  - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/_mg_6380_0.jpg?crop=smart&height=100?optimize=medium&dpr=2&auto=webp&width=256"
+    width: 512
+    height: 384
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 480
         isCached: true
 
-secured: "r9HKyAslVKUmRQwDRr1fXrNWbuM3Y6LFaFOdH5KqJnAluUvE3XfUQRvwBuDYugEOB84e1XTUhOAC69Ey6Da8QRgJ80ZvI/l0WFTfatNB+epRgtyErN3Y3LknJ3ONIVMq67s/o68GfxxgV9WTzhyAL1ifUsJ46kg9hSmhKgGAjiqnrfA55BE0KIfMv83dbU8qDoi7r1cqaLdJSn5c7EeE+ydPQqYf854t1O794WTw4b8TgYDQj/ob9OiQfV5j3aLKaKY9iB1tHwQ5YOTVzDo7IOT+vN/He5LU9Y+h5Ni3AHM8RlJDr0FzFCx6NLzuqQsM2PZCfX9Yl4bEvCKu/UA0IXbCFHTCgW1b6NNAbrr+4IhM5zCYKUHiBMTeJfLMLBfVJ+Znv9HYWvEGIPxzCi2s3M5cKdPhMKO7E0zrmyl6mMSNl9N7FbI/DLQN6TK7XFO1V4Kqdf7fPu3WJniUb2CscgR7J0tti8Iw/KtGdsKpTpcptmvzxWDQ1qUF7lHNEFN+8+zbIVRmaf1Insunl8R3VQ==;O/b4P7AqNnVVTKw/uaV3QQ=="
+secured: "pb29f67sZJPRs6VOEJ9F4EfnzcRuFCRujI/hV8mAYBvqaxE+yRIPHnN5GSYfDgJCVD5MqgyfI77zWqRMPCT0fEePivcCNS167VKzL7M5PBVzQ0r7iEDLepp1DlRxKWtSt0e0tzmulXvOP3nYPKoOqj3qdRUh20f3/qd2RTHs/8ra4tfGl62VyGNXBQyX7owuej/m6/VxVKOR0sRaOH9Wz7+4FsK16PSYhEpiqW2XjsKjX9oh7xmC3UtXluYlD8HZVHSfVqshNcXAQQ8HSWiRyu1vAFMeCfhz3UdIE9ZBV+sVp5icudW/soQVY38lR4AvNMqAAa30qg4dvD+SJCr6WGgkFeM05MdkpsFmgn45JMI=;qcd1b02SDvmiriMhuy+pfg=="
 ---
 

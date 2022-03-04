@@ -32,7 +32,7 @@ related:
     provider:
       name: Physics World
       domain: physicsworld.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://physicsworld.com/wp-content/uploads/2022/02/brain-computer-intelligence-concept-landscape-1027941874-Shutterstock_Jackie-Niam.jpg"
         width: 1200
