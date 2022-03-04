@@ -21,7 +21,7 @@ website: http://andrewng.org
 twitter:
   username: AndrewYNg
   url: https://twitter.com/AndrewYNg
-  followers: 642860
+  followers: 642864
 
 linkedin:
   url: https://www.linkedin.com/in/andrewyng/
