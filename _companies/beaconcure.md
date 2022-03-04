@@ -2,7 +2,7 @@
 name: "BeaconCure"
 overview: "Beaconcure developed an automated solution supported by ML for clinical data validation. It is designed to support regulatory submissions in drug development"
 type: "profile"
-heat: 57
+heat: 50
 
 website: https://www.beaconcure.com/
 
@@ -31,6 +31,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=kag2mOw2Tj0"
 
-secured: "vkzjCA9HLhQWwbY8EZoA3NzpiM3HdAG+jIzbMhc2qw9F8CjbzOR5IW1xQceOHB48XFIzYM5iQrY/Yu/9ny8BBy7aaabg/Lls1yewZ3B/OnLr4xeRcPv8Ad4KYlDoWh9s1PNtlAArebrMlQqP02QH9pjSpGe3e9ZHl4rUF32CxaVrrhpS6JQEFq/SPZbIG/wXx1f31d5q21+leP3wtNcDeW5m/DZCQ0e2WY9bGWQTxuTaP1ORXopKprRznredrFh0TbgMpATqb54SqHMrOKKQ3QBCoL5RgG11EPFf1/UkpBkMEz2ubkQh1Bc2+zEzXtecI3xY69wIClWeS4M+QO3If1azZQ4EFeqN706rk0jFMDeO4Qc6VpGdfX/32N2NEQCn/6m+qhiZEQTGH9XNEKYDew==;RaMRdplCtROnjIo1JeacIg=="
+secured: "z+OikRRxokyrQbAK8MF1eN5cUSNdoNcu5LnuR/KMDl3kKo5/U3LgOOEDlvAriDNOwRsqPBHegbxVNjv+iI1ehhp47Grm/GFvHClRpVKcdxeMaR+VMHKWl2t/Gs9gLfaDK5nhIW124iID+YcfktV9Jue9jqC3IFsP3OU8VmfhbVuffIFDxhWwQ1ADK77iyWUiux1akXn1e1wcZ184cGLOCz/rDJLVVv9X4uzGvGuj/NxCHN2CtyMaBoJmd3zZtmJhemM4V/IEaRvKlvDh8HlVB4GQ/mH4oi9FbVxRgQB2BKJ2QsOyCrmINNso7gOYJquEFxqzrkHSlO8XQ2lD9bpPh16Qs5GbvM3g8cAAFt3+Suzp4Nv+mLU4LGBWloVp/LBjqqxoJk7AuJlGaxXpkCxJFQ==;Yb5WVofIDSPmKaXcphzp6Q=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Luminous Computing"
 overview: "MAPEGY is organizing the world’s information on innovation to answer questions about what technologies, markets, companies and experts to invest in. @pwalde"
 type: "profile"
-heat: 71
+heat: 176
 
 website: https://www.luminouscomputing.com/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=mzAX5DS3xYw"
 
-secured: "JtfoFHYdmkcwObc3Nua4N8JBUs/vocIZi4nOzwYfY5KdFzzpkFLLlV83l0MK4d0PU5P017x2GO50zy4GGsg2gp0QxFCbPDBMTzjxwcs7uSGak180uYSW3YLHHfFNAecf7uOuTz6IqlVWoVydsBvI53waAT+ypav+2XCZlAIiMWOaMkdZDKa2MyhGzHCOTauC6vLAII43zvRgBVWpDO0r3lstcp/PDH9o16LvuJ/hTYS4p2FVI6fxQ1BQNVzaNC74ChwJQuXv5PtfVFg7r3+3p4rCx7EC7sPyV1HxoHOxJ3rZ/3/wEDIeX2c44B8zPHe1+YoSXVe0S7PGUK/WLTpDUdvJKG9oFyQavVWEiaVIHjZCOTrfcQpt/D2l7LONPU5Bqi6QwbD3YX5NYVKZSAvYi7n5MiBPiBEXqXYm7q6Lxxs=;ajL00SpLROOwMLkPIa195A=="
+secured: "Yld4cv0A/Tk+p8C9a7te+WEJTJz4M2BUg5NC2EecMMzjMQQg11hmKlS6D3emAMm3qxKpBS3QB01jWFeCJPvE47jfCI5cToM5FI54/RxrtlJxMJXfFxenaywTsPE/PAn03QNKRie4ZJoS4W9W265JVUObh29Kbcp99l6tMG8GWiVaw3Ou/UO7JXqwkmzRLnYgollnSElKA5SMSEoKsn4j2y0+WPSQg/OpVW+QATiYU6sEtBC2AY7uPzTa1CsaIXhqLbj//rMDrqiE31zTkJ5E2sAX49tfkYhq6x7tD+XAlzuagCWIXWu/44f5fkq/lNbHfnrT9WMkG9UuUOI+CLcz0FcKEt7O8+Qs6Uettl1Z1CmquBXKQNRJ4Vciu1pB+NVXmCvtjxxSRhik/LcH8oaSbRsPO2WOo9YccMs9LfJQSiI=;txw5c2E0uuiCcEvcSIYnDw=="
 ---
 
