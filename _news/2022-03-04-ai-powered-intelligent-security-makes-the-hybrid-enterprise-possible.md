@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/03/ai-powered-intelligent-security-m
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/ai-powered-intelligent-security-makes-the-hybrid-enterprise-possible/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 106
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2022/02/3-VPN-vs-zero-trust-network-access.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
+        isCached: true
+  - title: "How AI-powered XDR can secure the hybrid workforce"
+    excerpt: "XDR's overall aim is to integrate and correlate data from numerous security tools to help customers prioritize the biggest threats."
+    publishedDateTime: 2022-03-04T04:02:00Z
+    webUrl: "https://venturebeat.com/2022/03/03/how-ai-powered-xdr-can-secure-the-hybrid-workforce/"
+    ampWebUrl: "https://venturebeat.com/2022/03/03/how-ai-powered-xdr-can-secure-the-hybrid-workforce/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/how-ai-powered-xdr-can-secure-the-hybrid-workforce/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/2-Why-XDR-is-worth-considering.jpg?w=1200&strip=all"
         width: 1200
         height: 598
         isCached: true

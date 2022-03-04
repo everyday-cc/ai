@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Genomics Artificial Intelligence Market Research Report 2022 - Global Outlook & Forecasts to 2027 - ResearchAndMarkets.com"
-excerpt: "The \"Artificial Intelligence in Genomics Market - Global Outlook & Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence in genomics market to grow at a CAGR of 48."
-publishedDateTime: 2022-03-03T16:08:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=626092"
-webUrl: "https://us.acrofan.com/detail.php?number=626092"
+excerpt: "The “Artificial Intelligence in Genomics Market - Global Outlook & Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. The artificial intelligence in genomics market to grow at a CAGR of 48."
+publishedDateTime: 2022-03-03T17:08:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/science-technology-health-business-genetics-299e1a8e05de4483823a3d0dc80c0299"
+webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-health-business-genetics-299e1a8e05de4483823a3d0dc80c0299"
 type: article
-quality: 13
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -166,6 +165,6 @@ related:
         height: 339
         isCached: true
 
-secured: "mw1ro2+MI3OEBMO981Xyt+quKsGDk9rPXNIkl7mSFUjOSbVTXmZBXJipl+qOdlq+0TEC4ZkI0hWy1yTSum5jrijPq0eBvnNLEK/ZeV74VZstdZAmfcKlGfrLPIkCSWydqN6YqzZ+axFhKb2/QUPK82BCNCiNy6ig4vlgLuOdDda99M1Brm55cXNCuEGS2Csj2Bj6BTEINZEihGvybO08G6HFwrNFWsMfWOQgOdWw8IdXN93yAdtnX1H1KWr/yxzlDRHLgVXls4VohpKWUosHtRR1ohfFADafMBbBUE/9wmvT6P3AZj2x4GGQY5OkrVxI5n6V12exyDJBzmT9f+wBsNip1vdP0qkDZTC89zIBiYQ=;TrN2N8/0T/EP2otvsi2QWA=="
+secured: "Om26+rbzV3Il/pvCdG+L+HLYSAE1wfhYKGdsbUPTWsVHghuRAmZBPLwwO/aRSTD0htqOFHfi9k/J/KavhlZsPiX2MbtcNjmViRNnWcWvErwbVedFENWQKo4SzAi+XUQEvTAl4qqIG6H0a/ZLz8rR1mr6mheyempneGgzTABrsetVDYGqJtj8vbHOKq9aU+t7xnlLRM4AKYDArGW7RJ6lwI8dfMz6gQstwDDl4NFHXrJ5SttGXx4VZx9v89iUlJLaiF8V8OWVpa9yXMz3C52DAdufy27J4LPzpWT8zkmUXeq11kF55JvVnCvJ7FkLDeh1ydFR7xjoJhDpoxlhzXrnEfD18GS+YfaccM1eBotIG4M=;9bKtnGbpDJinWv5xzeuINw=="
 ---
 

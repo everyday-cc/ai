@@ -2,21 +2,27 @@
 category: news
 title: "MyHeritage Releases LiveStory, A Groundbreaking Feature That Automatically Creates Video Biographies, Using D-ID Pioneered AI Technology"
 excerpt: "MyHeritage, the leading global service for discovering your past and empowering your future, and Creative Reality™ startup D-ID, announced today the release of LiveStory, a groundbreaking new feature that creates captivating video biographies."
-publishedDateTime: 2022-03-03T21:41:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-myheritage-releases-livestory-groundbreaking-feature-that-automatically-creates-/2022/03/03/9557220.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-myheritage-releases-livestory-groundbreaking-feature-that-automatically-creates-/2022/03/03/9557220.htm"
+publishedDateTime: 2022-03-03T21:36:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-middle-east-israel-tel-aviv-eaa633ff2d5545b99f7cab42f677fb21"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-middle-east-israel-tel-aviv-eaa633ff2d5545b99f7cab42f677fb21"
 type: article
-quality: 0
-heat: 0
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "RBGuLIvFCxRzzr0ecjH8icl+9lxOWygpjsYiOmtx3NZ/3NeD7od1bscgKwzWgJ3R8tvkQhSommizFqfwUEM3Fp+tvH+qgcktn17+1zgES/VKO4rPZQ81sCpd8sPTN+ZwGEMtf1FOmXHcQhusk5+7FquUmJzmfcOV+/tTAc8eu4kuL/XyL98YS322wW5lVGi9yRhjFBB10XbkMtJj1jdZ5PnaR98QcnaOCt7S+gQZUNUZQU5lCzxlRu8eOUsDTIY178fCHhZWwZOEyabid5Oz7fz3NS5HiLDOSEulaN6K2pRv/h92ZaLf96WogAZ6vek9annW++4NVU0lk3ENI/KxRxTTkphDGjZfLo0VJ794Lzc=;cYTcrEd9V3dc01iWE/uMjQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "JxVe0lfXE3TelzSDV+HaeA4PjzbOjpk1KKnAzjqoJ1r8vy7P35tHR5KM/8nFR35VRvmUKHdZt522VTnq7Gxl2isVAnNqA4PeRIjzFmEo2bEymYPXRVuj55y08u7ydPoDdpVPASXn7K3+e7zkVtN5FyL+QVPP8jpgN/ijiaz+ZxsZHHjVmlNW7oIciC8AceXshBDFMLdaAs4LAkY+ROOSBAE1UF3s/oYtmUJnSNu2ICIIVK1/zj5AxNljfvzvzlpXezWjoRHoc5ZwnfgmpLjS3Rtgl2OlqIYiAkXGYERSQli+jrTN9oVUOzdZvSqA8mT0U82OrhzUi6KOOrraHaGD9B5q+ApJApeOcz9MFE/y9qI=;fr/Cd6wqzn65+xdiu197gw=="
 ---
 

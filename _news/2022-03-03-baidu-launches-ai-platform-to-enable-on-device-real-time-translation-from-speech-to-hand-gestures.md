@@ -3,8 +3,8 @@ category: news
 title: "Baidu Launches AI Platform to Enable on-Device, Real-Time Translation from Speech to Hand Gestures"
 excerpt: "Baidu AI Cloud, a leading AI cloud provider, launched an AI sign language platform able to generate digital avatars for sign language translation and live interpretation within minutes. Released as a new offering of Baidu AI Cloud’s digital avatar platform XiLing,"
 publishedDateTime: 2022-03-03T15:11:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/winter-olympics-technology-business-sports-beijing-9eb1fa4b9af75efea8f4fc18149c62f7"
-webUrl: "https://apnews.com/press-release/pr-newswire/winter-olympics-technology-business-sports-beijing-9eb1fa4b9af75efea8f4fc18149c62f7"
+originalUrl: "https://apnews.com/press-release/PRNewswire/winter-olympics-technology-business-sports-beijing-9eb1fa4b9af75efea8f4fc18149c62f7"
+webUrl: "https://apnews.com/press-release/PRNewswire/winter-olympics-technology-business-sports-beijing-9eb1fa4b9af75efea8f4fc18149c62f7"
 type: article
 quality: 25
 heat: -1
@@ -146,6 +146,6 @@ related:
         height: 480
         isCached: true
 
-secured: "Mn9YXvBloBxJpzMgza/tw7AvRt15W/LMcCEzxHRelQL4L2jaQbUl6BljBl1v4RuEdFguuyFKyV7ySyGcKbOmehXYUbRxw/qdk+yD5io2g2RybhgLO+ufLQJu0SKPqBr9NBrqSt70cJoFpvA95jKWtcHPW3nB3aZf50q/yOGp0cebczECBLRXNxgvmC3KKHumMPTSPVFqsV4mOH4vhU1oBNu48EHK2ukZqct9uDTB55Y/mlpbbOBwgDl0plvT8GiryIssYNiJi6Z90eEHsG+IoMJs6nfLlt3vHlGqwjXZNQXcQ2e9q+DZyzmF0/mMmjcol5thuImA/UGdVoXmKEVJbiL4ba4K0KOMo9g2H2yMa8o=;jAiQo6PVA1j1JrLr3xBFrQ=="
+secured: "JhxnxdgIwJuT49QS/7de5HdvNs/09ioAMhdBOuzJshv1jG2bnf5mU50Cy75cCFQ2wp8LUakxebjTIQ1csSBAPjyRsPQspiGqiQJocSlT3xuj5bdwqUtminF004KD7GoghE6KqNoKR26iQecyUkXlV4wquPZqS+ViEogPNhWBm6LWxUO0309SYXsTBhfmW1zva58pmv0ud13R68sMRIW5fYdNWjTrXfMQb/6Nd+u+lP+tK8JIgZusk/P3PL+rsFBqLWS1mZkqFdtoZP8+8K5Q2cAkkCo3kHUaAZzYpP/w/B6/JvQE+He4x5cNOR1Ivq2nm3B6SU3ZexQ/49U8aoMEuIdQchoFzT7ScJ1b259SS0E=;IjupCBE9Lk96SHCqxh/iqg=="
 ---
 

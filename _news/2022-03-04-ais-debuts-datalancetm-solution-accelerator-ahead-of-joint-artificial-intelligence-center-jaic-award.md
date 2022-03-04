@@ -1,21 +1,27 @@
 ---
 category: news
 title: "AIS Debuts DatalanceTM Solution Accelerator Ahead of Joint Artificial Intelligence Center (JAIC) Award"
-excerpt: "AIS (Applied Information Sciences), a leading enterprise solution provider for transformative cloud and data solutions, announced today its new solution accelerator offering, Datalance, ahead of the award of the Joint Artificial Intelligence Center's (JAIC) Test and Evaluation (T&E) Blanket Purchase Agreement."
-publishedDateTime: 2022-03-03T16:29:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ais-debuts-datalancetm-solution-accelerator-ahead-joint-artificial-/2022/03/03/9556979.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ais-debuts-datalancetm-solution-accelerator-ahead-joint-artificial-/2022/03/03/9556979.htm"
+excerpt: "AIS (Applied Information Sciences), a leading enterprise solution provider for transformative cloud and data solutions, announced today its new solution accelerator offering, Datalance, ahead of the award of the Joint Artificial Intelligence Center’s (JAIC) Test and Evaluation (T&E) Blanket Purchase Agreement."
+publishedDateTime: 2022-03-03T16:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-e8d36c32a139459bba28d558572b8c96"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-e8d36c32a139459bba28d558572b8c96"
 type: article
-quality: 16
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AIS Debuts DatalanceTM Solution Accelerator Ahead of Joint Artificial Intelligence Center (JAIC) Award"
@@ -33,6 +39,6 @@ related:
         height: 250
         isCached: true
 
-secured: "OOt/v5L5Ghw9xGTu/euaVEafWC5LW75RDV1hO/SBpAhMYdlunbuilGTiv6MACCGo73cUeSmxuYOcWJ3Sm3RuunNxFzybrA6s5Hyd9Ab+vh2Om4BE908ZOKwPlsWEBKjTDvToRLhvzjRDemQyXq+uWi4c7xeCVt5s5IuUVTvRgcFa8Cxpw6SGU5gtqBrsDkB3GFjqSeqAlVNDwE/s42jcBa1ZCWzEhSCEvAnxITu33j8U29egsbj5MvDf+BEKMwXBi+aOCAh9P8nZk5n+xQQprD5pMooH6vj9+3NI3UwTUZBaevzGsHDtqzxStX0SFByWlEFiEYsGn6oGBCOO+dKDYcwm9vgTGlBQRaQ5GBVJ3rQ=;aVosfn/bOM4hjal/lgPOjg=="
+secured: "kUQtMLEunRJ9SjMFQdwQi59CtIfN/6ABeLxi4tg977imiOpFnG59yGFdACar8QqIwe7kLFVL50Sl8SdbHV8zfg9ZGc1QaJJA7koj9o1WtbYCkFcrSybkHwSnE2iQ8/p7GRzih+211no4UvCyEIK0w8x3535gf3AjcnSZfQz8dBv0EYNmumZf2vgsHlQxgLPH+y7eySYncQD5iIJZ5+FQO2w2mU2RMFmGCcUIHNlSBPsfvFzPefd19OjZgyshI715Jo1A+RC+mVg2L4qM4XmUFxQWBSoV2q/U9SErXa2XKWm8SvbLfnQZJs0xzUW9wWlJ4EYcs8J1enRStQVWxQQ0BWiFfVpgDZdZnHzVQwlWwsY=;yDdMnCrdrmJhIS+NNPpM8w=="
 ---
 

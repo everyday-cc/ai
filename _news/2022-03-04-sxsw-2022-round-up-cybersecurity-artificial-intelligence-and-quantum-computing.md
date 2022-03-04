@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 598
         isCached: true
+  - title: "How AI-powered XDR can secure the hybrid workforce"
+    excerpt: "XDR's overall aim is to integrate and correlate data from numerous security tools to help customers prioritize the biggest threats."
+    publishedDateTime: 2022-03-04T04:02:00Z
+    webUrl: "https://venturebeat.com/2022/03/03/how-ai-powered-xdr-can-secure-the-hybrid-workforce/"
+    ampWebUrl: "https://venturebeat.com/2022/03/03/how-ai-powered-xdr-can-secure-the-hybrid-workforce/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/how-ai-powered-xdr-can-secure-the-hybrid-workforce/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/2-Why-XDR-is-worth-considering.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
+        isCached: true
   - title: "10 enterprise AI trends for 2022"
     excerpt: "Enterprise AI is maturing quickly, with companies shifting to business-first AI strategies and AI benefits being sought out across the organzation."
     publishedDateTime: 2022-03-03T10:00:00Z

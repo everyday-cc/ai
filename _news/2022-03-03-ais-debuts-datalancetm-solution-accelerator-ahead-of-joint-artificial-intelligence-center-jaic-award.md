@@ -25,14 +25,19 @@ images:
 
 related:
   - title: "AIS Debuts DatalanceTM Solution Accelerator Ahead of Joint Artificial Intelligence Center (JAIC) Award"
-    excerpt: "AIS (Applied Information Sciences), a leading enterprise solution provider for transformative cloud and data solutions, announced today its new solution accelerator offering, Datalance, ahead of the award of the Joint Artificial Intelligence Center's (JAIC) Test and Evaluation (T&E) Blanket Purchase Agreement."
-    publishedDateTime: 2022-03-03T16:29:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ais-debuts-datalancetm-solution-accelerator-ahead-joint-artificial-/2022/03/03/9556979.htm"
+    excerpt: "AIS (Applied Information Sciences), a leading enterprise solution provider for transformative cloud and data solutions, announced today its new solution accelerator offering, Datalance, ahead of the award of the Joint Artificial Intelligence Center’s (JAIC) Test and Evaluation (T&E) Blanket Purchase Agreement."
+    publishedDateTime: 2022-03-03T16:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-e8d36c32a139459bba28d558572b8c96"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "6sZ2kEcfD8XgbBQxrJI9mv78KBljFXsyM4NO/ZKWuRjuJGoIzi+em4MiwRnko2wRledv2okcVl1k7QfXyi5TfsT0NNbtJdLhtiKIu9NG9bbl9S5+P4BpQIai7aTzCiaCWLcvWLvg7v6bZz5Rr59WDzvkhqdULuSRXghS3ap4A/E8BlR5oRlPazoBcHOWgVsxCWbEIZE/yspkT9zeanaIT4/Wwzkh4V9TAtSL5ajNRJkm+4/zDhc7yQVDxSCVH5vXFAN8uv/slV+tXF2tEH3vUMEDsC1v70oDVAcEIoRVdIuxrqHl5tTeFCDS7pgYqg6I6iDSd2KeqQ/n/GFpuul5l8sNOGWD3r8f8i+bXxCUsluDbgyxWQj1/EV5hJu+2u0TFBWGc+hUJ3HV7dVWPSyDS/ezte1oAJGxwZpiXjWPd1CWwmXMo6R4JtxvKPFft/OdMWXaGBlYSAmM6LuR5yVqZY78i+M2OMb6HcUpKrcnJw6wRyxD06ICOwrKp5qVIOa98JqzmqCuRwdXH9r4JCAzFw==;0YIIIdkw8vrVYkdaLviwSA=="
 ---
