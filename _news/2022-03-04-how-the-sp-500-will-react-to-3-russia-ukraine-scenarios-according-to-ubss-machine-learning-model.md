@@ -7,8 +7,8 @@ originalUrl: "https://www.cnbc.com/2022/03/03/ubs-how-the-sp-500-will-react-to-3
 webUrl: "https://www.cnbc.com/2022/03/03/ubs-how-the-sp-500-will-react-to-3-russia-ukraine-scenarios.html"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNBC
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Weekly: The Russia-Ukraine conflict is a test case for AI in warfare"
+    excerpt: "The Russia-Ukraine conflict is a proving ground for AI technologies applied to warfare. Already, the impacts are coming into clear view."
+    publishedDateTime: 2022-03-04T15:34:00Z
+    webUrl: "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/"
+    ampWebUrl: "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-534144629-1.jpg?fit=800%2C532&strip=all"
+        width: 799
+        height: 532
+        isCached: true
   - title: "Intelligence, information warfare, cyber warfare, electronic warfare – what they are and how Russia is using them in Ukraine"
     excerpt: "... collect vast amounts of data from open-source intelligence (OSINT) – information collected from news, social media and other publicly available sources – as well as secret sources, and use artificial intelligence to analyze the information. Russia ..."
     publishedDateTime: 2022-03-01T15:50:00Z

@@ -159,20 +159,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Electrocardiograph Market Size, Share, By End Use, Share & Revenue, and Region, Forecast to 2028"
-    excerpt: "The global electrocardiograph market size is expected to reach USD 9.44 Billion in 2028 and register a CAGR of 5.8%, according to the latest report by"
-    publishedDateTime: 2022-02-27T23:19:00Z
-    webUrl: "https://www.digitaljournal.com/pr/electrocardiograph-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 11
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "North America Deep Learning In Machine Vision Market Growth Overview, Technological Advancements And Competitors Analysis Forecast By 2029"
     excerpt: "The North America Deep Learning In Machine Vision Market analysis provides a high-level summary of classification, competition, and strategic actions"
     publishedDateTime: 2022-02-28T08:06:00Z

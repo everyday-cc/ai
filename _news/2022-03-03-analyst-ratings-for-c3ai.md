@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/analyst-ratings-fo
 webUrl: "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1031248762"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "4 Analysts Lower Price Target On C3.AI After Earnings: Here's Why"
+    excerpt: "Artificial intelligence software company C3.ai Inc (NYSE: AI) reported quarterly results and guidance on Thursday. Here’s the reaction from analysts. The C3.AI Analysts: Morgan Stanley analyst Sanjit Singh issued an Underperform rating and price target of $31."
+    publishedDateTime: 2022-03-04T15:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/4-analysts-lower-price-target-on-c3-ai-after-earnings-here-s-why-1031255676"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/artificial-intelligence-3382507_1920_8.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Mike Tyson Might Have Given the Best Analysis of C3.ai"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Having no position in data analytics and artificial intelligence specialist"
     publishedDateTime: 2022-03-01T11:00:00Z

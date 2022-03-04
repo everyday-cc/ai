@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Weekly: The Russia-Ukraine conflict is a test case for AI in warfare"
+    excerpt: "The Russia-Ukraine conflict is a proving ground for AI technologies applied to warfare. Already, the impacts are coming into clear view."
+    publishedDateTime: 2022-03-04T15:34:00Z
+    webUrl: "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/"
+    ampWebUrl: "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-534144629-1.jpg?fit=800%2C532&strip=all"
+        width: 799
+        height: 532
+        isCached: true
   - title: "How the S&P 500 will react to 3 Russia-Ukraine scenarios, according to UBS's machine-learning model"
     excerpt: "Russia's invasion of Ukraine entered its second week Thursday."
     publishedDateTime: 2022-03-03T17:27:00Z

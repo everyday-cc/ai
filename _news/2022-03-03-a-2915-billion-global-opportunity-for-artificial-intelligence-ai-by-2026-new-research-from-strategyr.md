@@ -2,19 +2,20 @@
 category: news
 title: "A $291.5 Billion Global Opportunity for Artificial Intelligence (AI) by 2026 - New Research from StrategyR"
 excerpt: "Artificial Intelligence (AI) is emerging as one of the promising technologies, against the backdrop of fast paced digitalization and rapidly evolving technology landscape globally. AI technology is associated with making machines and related processes intelligent through the use of advanced computer programming solutions."
-publishedDateTime: 2022-03-03T14:00:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/03/03/9556425.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2022/03/03/9556425.htm"
+publishedDateTime: 2022-03-03T12:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-2915-billion-global-opportunity-artificial-intelligence-ai-2026-/2022/03/03/9556425.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-2915-billion-global-opportunity-artificial-intelligence-ai-2026-/2022/03/03/9556425.htm"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -23,6 +24,6 @@ images:
     height: 274
     isCached: true
 
-secured: "ryUgvXbeKh0c6JH1M63W7MAoMxoBjbHvlhHFCWMLgrTj2fs8mE8rToUgkG6R6UIrILfwZzAqhZVV50JU5M9CLwu6JejF6z2UokYU3HXRsYQSMToXU/G0Wy6N9NP/JTcKG4/C/sEGmxS9887PUVOt/Y6ufehYuH2REiUUVvg/j2G8c9cCzm80fqpx8dIAb3LBBkKf1CoAOC/GN80UUxsnuuKQkFvNojVEgP/UpEBmXbrJi6H9qI3kBlgecK7V9USMMONxMjvCZ+ZPPA+mzxtYkKkYXhhcaYbOM+uvK59tk831K0oO6FBJ2YTETnlvxcbVLAjis2HDV9Zl6m8pNkM5QbciG6vd/yxAD9Fpob/OsLE=;nMrYM6BAGNhyBd2eKQRyqQ=="
+secured: "G/jejIPlXP/G7aek6RzyAzbuXZTKcBclBPwdqtv/bAGLy4gPxOjNKkGzgHtXWhw3IRJHrPQ0G0FSxHWzJBxlvFmKBHhna3xUuV2odFHPcVZVxpRi/JxfPjpSVMSdk5WNAYZgish0TU6tJepvnVK/VuHT8fDoi9Xn4Byvrb5sao/a2BDTLwNpYHDHsK4s0QIwzWZA39OtKJVrayLGCQQUt6sOJ1fl2qXuWm/QPsnmioxmT4zTS4bgGQzbHcgeLIPBQRBPegtoLLT3a+jlbwrJs2Cmzhjw8HcW2/eVi27ckS4+z6zXeHtnHalkEWJOfqkvw6aeeqfTUOGZ7fQNmDx0+/twYMPT+O+rEPgNSeNS7lk=;SpO1RZtcPXckiQEWVDUEpA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/03/Faros2.png?w=680"
         width: 679
         height: 366
+        isCached: true
+  - title: "How to Scale AI in Your Organization"
+    excerpt: "AI is embedding itself into the products and processes of virtually every industry. But implementing AI at scale remains an unresolved, frustrating issue for most organizations. Businesses can help ensure success of their AI efforts by scaling teams,"
+    publishedDateTime: 2022-03-04T15:21:00Z
+    webUrl: "https://hbr.org/2022/03/how-to-scale-ai-in-your-organization"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 39
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2022/02/Mar22_04_520116940.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "3 Ways AI is Changing Food and Beverage Manufacturing"
     excerpt: "Learn how utilizing AI can bring improvements to a company's product quality, maintenance procedures, and data analysis."

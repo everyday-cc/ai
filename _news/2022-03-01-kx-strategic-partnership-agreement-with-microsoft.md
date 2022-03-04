@@ -240,20 +240,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 41
-  - title: "Why Amazon, Alphabet and Microsoft are undervalued"
-    excerpt: "The cloud computing oligopoly just delivered another set of extraordinary quarterly numbers. But this fund manager says the best is yet to come."
-    publishedDateTime: 2022-02-28T00:58:00Z
-    webUrl: "https://www.afr.com/chanticleer/why-amazon-alphabet-and-microsoft-are-undervalued-20220222-p59yjj"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_56%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/df797ec8ea07fe3ad70113e77b6afaa5e3fde39f"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Sonata Software named Microsoft Azure Expert Managed Service Provider"
     excerpt: "Sonata Software, a global IT Services and Technology Solutions Company, today announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP), in recognition of its demonstrated expertise in providing world-class solutions on Microsoft Azure."
     publishedDateTime: 2022-03-03T02:23:00Z

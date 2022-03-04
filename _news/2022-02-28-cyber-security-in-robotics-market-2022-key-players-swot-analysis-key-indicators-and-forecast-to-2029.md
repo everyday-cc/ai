@@ -40,6 +40,20 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "Global Artificial Intelligence in Manufacturing Market Size, Segmentation, 2022: Analysis Top Key Player, Supplier, Vendor, in the Overall Market"
+    excerpt: "Industry research.co has introduced a new market study on” Artificial Intelligence in Manufacturing Market” 2022-2028"
+    publishedDateTime: 2022-03-03T06:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-manufacturing-market-size-segmentation-2022-analysis-top-key-player-supplier-vendor-in-the-overall-market-2022-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "tkc1RhsKcbVFqs0mblxh01x1ZcJ1dE+XyNjbBMA25WXt2bVpm51bf6oWVTOVeg/ggaCW1Pd0jAIHROrQwHHxKWdM3ka2zxZkgTakQzmZVmsrDSdGwlTR3n+nXqnz4oKHB6s6XMGdRdCNl3vHohrZoLvarpDjAfrSPGE+62INoVGNZMxEK+h6XCaa16dTXrsqcNZRJHOcMHcGr/FK/QjlkRvh5ZHhwCGbaiSXQZddAEyKCGEYKDTH/bJqPdy6q7nRr7/o+gPi4rX4xO9i/h+JQkwPRf8lGayh8V9jQnFspqGXMAb8tnL0ESrJT/qmgVx425ni6HV0U67QhEbwdNp5ZmRR6L35mZtzIrnooQcPNf0Pt8lPf27C4zXXkFaDsQHgbYLFw9uBhb7UHRvZdUVjLnU/DJvVwFJEUwimDxbg4lGEsWx8ncj7e5/6UvYwG72Z++HfZVl4y6Lli/ZR4SAYdGaLuemAkLyDFUuHSouhaQIhuYQsAHRideisSOLUKTLog1olZZ7ywt5TPaFYXrFi+Q==;XcJCFW/doqV1AVx2Csv3rQ=="
 ---

@@ -231,20 +231,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 41
-  - title: "Why Amazon, Alphabet and Microsoft are undervalued"
-    excerpt: "The cloud computing oligopoly just delivered another set of extraordinary quarterly numbers. But this fund manager says the best is yet to come."
-    publishedDateTime: 2022-02-28T00:58:00Z
-    webUrl: "https://www.afr.com/chanticleer/why-amazon-alphabet-and-microsoft-are-undervalued-20220222-p59yjj"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_56%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/df797ec8ea07fe3ad70113e77b6afaa5e3fde39f"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "KX Strategic Partnership Agreement with Microsoft"
     excerpt: "KX Insights on Azure will enable customers to store and access their data using complex event processing, high-performance analytics and machine learning interfaces on one unified and easy-to-use platform. Tightly integrated within Microsoft's intelligent ..."
     publishedDateTime: 2022-03-01T08:54:00Z
@@ -269,6 +255,6 @@ related:
       domain: webindia123.com
     quality: 34
 
-secured: "Tudsmavn7sbZevgZXnojkjbeBo5fYh7zJ7XFKqI3NPMTQn5YF8iA4DwDCK1ppyD4BEDeMb7eKDioH7evyZ3U8vqKL8DBRNXgXDip8CxpsmFJzP3rGR6dWUjYpQ8nWhTnrEWqO1cENF3RJ3IrxEgcaEpW+YEu7b5VuZTA77gkOTELw88Qw0a6IGUC096La3KH4qaiz7xMrRfw8h9/jLLdXuADBfjBn+sRzY/VtFIVdGkNPDJ19th9412Mq59t2Ajd0mg0nCUbXCn52r4Pg3U0WrdOyHVkuTzTZObCmz8ljKTdLYXABc2IZjqH3sGIxtkmQP6q52auikvX9MrXGd9+wZUCInQRPZJV2SQC7Kv8uLw=;Qj0ziJoWBASnmOyne3d1fA=="
+secured: "DzXk8Q0jELN3cNEi729u/dlHdcuHren1Dw9aUkE/bb0e+kNAet93dMAg14KXpOvKYQ/U3Ow2dWUDdfSSO2SSTHomqhMcyBO7hpcD1YS8EEtiRZ/yBTL9WtK/vzR87Zz936x/gfjOMUUJqSNzZbfRM5QdHFks3gcb3KtRg/FRcTP265CzpJsBaN8Cr4JmKW86trGvCpCNRF8Rujtb6ylmji87bLcUAjl61T/INACV0Snqx/2Yc/8Ya4qGvN/nLgO8ydt7A8u/vT7sANTwWPLUEzNwuPIYtT7QBBrq3uEDb44KIxlDjJmTvwvPYVkkYA22HQlqUuDyIW7BOIIsynbsKzpjnxqKllYMBFR+ztTMLvzNneMWl/AOczCf74C7TK9Hmxqn91M7FiPZFiJFerG2+Y+6/81hsAyPaONX1NQUru+OrtdJu+aNur6M/sO/RNrc/cr0DIW8p5/kIen1STFBs5g+3pnbZxJSXYFMa5zBnb2b6sHtxK1O0G9YrU+dKUZtYE8nR1T3oXsVygkonWCc3Q==;5xHNsTmnFWoGneG5zaCAnA=="
 ---
 
