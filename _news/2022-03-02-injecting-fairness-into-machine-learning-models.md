@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-03-fairness-machine-learning.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-fairness-machine-learning.amp"
 type: article
 quality: 59
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Detecting plant leaf disease using deep learning on a mobile device"
+    excerpt: "The visual and tactile examination of plant leaves is a standard method for identifying disease in crops and horticultural products. However, such an approach can be highly subjective and is dependent on the skills of the examiners."
+    publishedDateTime: 2022-03-04T12:28:00Z
+    webUrl: "https://phys.org/news/2022-03-leaf-disease-deep-mobile-device.html"
+    ampWebUrl: "https://phys.org/news/2022-03-leaf-disease-deep-mobile-device.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-03-leaf-disease-deep-mobile-device.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/diseased-leaf.jpg"
+        width: 1920
+        height: 1440
+        isCached: true
   - title: "New MIT Technique Aims to Boost Fairness Within Machine-Learning Models"
     excerpt: "Recognizing the harm that unbalanced data can bring to the creation of machine-learning models, a study shows how Massachusetts Institute of Technology (MIT) researchers attempted to increase fairness in these models through a new technique,"
     publishedDateTime: 2022-03-03T17:15:00Z
@@ -42,6 +58,20 @@ related:
       - url: "https://healthitanalytics.com/images/sized/GettyImages-861104740-1-e4b00c1efb9503a805928b101c78b499.jpg"
         width: 480
         height: 278
+        isCached: true
+  - title: "Reinforcement learning: How rewards create intelligent machines"
+    excerpt: "The researchers suggested that we could reach artificial general intelligence (AGI) using one single approach: reinforcement learning. They titled their paper on the subject: “Reward is Enough.” The team argued that AGI could emerge through an incentive mechanism known as a reward function."
+    publishedDateTime: 2022-03-02T16:11:00Z
+    webUrl: "https://thenextweb.com/news/how-rewards-work-in-reinforcement-learning-deepmind"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FUntitled-design-1.jpg&signature=840670943ed2cc84f53f7265c443186a"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Zest AI Releases New Race Prediction Model To Reduce Systemic Bias In Lending"
     excerpt: "Zest AI, a leader in software for AI-driven lending, today announced the launch of Zest Race Predictor (ZRP). This open-source machine-learning algorithm estimates the race/ethnicity of an individual using only their full name and home address as inputs."

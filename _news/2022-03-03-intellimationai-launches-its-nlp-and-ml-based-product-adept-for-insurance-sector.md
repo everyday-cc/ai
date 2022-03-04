@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/intellimationai-launche
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/intellimationai-launches-its-nlp-and-ml-based-product-adept-for-insurance-sector"
 type: article
 quality: 88
-heat: 98
+heat: 99
 published: true
 
 provider:

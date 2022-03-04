@@ -43,6 +43,36 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "In the metaverse, responsible AI must be a priority"
+    excerpt: "Language technology powered by AI can perpetuate bias if we are not careful. We need to be sure that language AI is trained to be ethical as well."
+    publishedDateTime: 2022-03-04T20:52:00Z
+    webUrl: "https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/"
+    ampWebUrl: "https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1351539611.jpg?w=1024"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Inworld AI Raises Investment from BITKRAFT Ventures, to Bring AI-Powered Virtual Characters to Metaverse and Games"
+    excerpt: "Inworld AI, offering a platform to create AI-powered characters for virtual worlds, including VR/AR, games and metaverse applications, today announced a $10 million strategic funding led by BITKRAFT Ventures,"
+    publishedDateTime: 2022-03-04T20:37:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-lifestyle-virtual-worlds-facebook-478b2fb1f73415cfca5b09ad3970a91c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "CONte/8GljYTZM4cdR7LnTlBhTT9WQjVij8VcBIQ7dFapq3hbrc9YgkkPuu5tmtG7ivfMXUq4NmSjb00wTLWLnTWcZ5XDnOEkACWxfWG3CWbvHl1Z6qc+HFm8hqrME4widfxEQrVkTnfkoSHvNRNqEHLqn0akl+Jm9aQx29eAnNdAK3Hcfy6UXWNswUC0aze/LRN6ii5K2nQunGUq/gUEdknQzbBeIxadM9k0u8InkBkXDwwsQd8nCkpiV1ay+Z1Wax414i3jTtsIdWlOvl8sug2JNQRE1HdFkr90kUoFEGCbK9TT2totJs/sdrHSsC84cOh/btL8xQGgw1VkQIshSo+AFcXaa4gGAmVQ8tKK6Q=;v4HHEXfCAOWSZY4RTyTtWQ=="
 ---

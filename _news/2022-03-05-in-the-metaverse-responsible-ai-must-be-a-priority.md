@@ -1,0 +1,83 @@
+---
+category: news
+title: "In the metaverse, responsible AI must be a priority"
+excerpt: "Language technology powered by AI can perpetuate bias if we are not careful. We need to be sure that language AI is trained to be ethical as well."
+publishedDateTime: 2022-03-04T20:52:00Z
+originalUrl: "https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/"
+webUrl: "https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/"
+ampWebUrl: "https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/amp/"
+type: article
+quality: 89
+heat: -1
+published: false
+
+provider:
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1351539611.jpg?w=1024"
+    width: 1024
+    height: 768
+    isCached: true
+
+related:
+  - title: "Meta describes how AI will unlock the metaverse"
+    excerpt: "Zuckerberg says the metaverse will require advances across a whole range of areas, and AI is the key to unlocking a lot of these advances."
+    publishedDateTime: 2022-03-02T22:59:00Z
+    webUrl: "https://venturebeat.com/2022/03/02/meta-describes-how-ai-will-unlock-the-metaverse/"
+    ampWebUrl: "https://venturebeat.com/2022/03/02/meta-describes-how-ai-will-unlock-the-metaverse/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/meta-describes-how-ai-will-unlock-the-metaverse/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1353722877-e1646248329892.jpg?fit=800%2C594&strip=all"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Chip geopolitics — A call to ban predictive policing — Building the Metaverse"
+    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
+    publishedDateTime: 2022-03-02T10:00:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/chip-geopolitics-a-call-to-ban-predictive-policing-building-the-metaverse-2/"
+    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/chip-geopolitics-a-call-to-ban-predictive-policing-building-the-metaverse-2/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/chip-geopolitics-a-call-to-ban-predictive-policing-building-the-metaverse-2/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 56
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Inworld AI Raises Investment from BITKRAFT Ventures, to Bring AI-Powered Virtual Characters to Metaverse and Games"
+    excerpt: "Inworld AI, offering a platform to create AI-powered characters for virtual worlds, including VR/AR, games and metaverse applications, today announced a $10 million strategic funding led by BITKRAFT Ventures,"
+    publishedDateTime: 2022-03-04T20:37:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-lifestyle-virtual-worlds-facebook-478b2fb1f73415cfca5b09ad3970a91c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "AQCHqr04yreVBVqcNjyfqOugmCEi8DgEXy/LxoOAKdMC3ECZDe6t/PiLdjQnDUWaQ1wUvNBpIWIyIp7WXCatl+5PYutGsTpQtoAag20dmrtmDHy3XKEAY9J1WgouTs5eqgNNS9xIupg4JsQiRDfva2u432FqGLvkZwGUy/sKJqILw/WFTQyTJVbDrtcIqMKJnnoF7etyyFivePSx2EJqPs3GPjhl/7tLm+kk4oA98OAsQkiIiEJPOT4yheEv5HOSzvDnqGCZwgyXLHNCrD/WdrAFvlOxqww0js4WmPIuELBu9w0Zh6u8+zgsMJIQ9KgqWb7OTEUMl9Ssm9t7CBTXXQiiSiyfYDsTxg6isjc+L7g=;PASiXT8TMG49uCxcmhXCNg=="
+---
+

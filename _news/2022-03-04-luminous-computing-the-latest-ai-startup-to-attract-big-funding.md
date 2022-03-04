@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Luminous Computing The Latest AI-Startup To Attract Big Funding"
-excerpt: "Luminous Computing is one—and investors seem intrigued with its promise. The Mountain View, California-based supercomputer company closed a $105 million Series A Thursday from investors including Microsoft co-founder Bill Gates."
-publishedDateTime: 2022-03-03T16:46:00Z
-originalUrl: "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding"
-webUrl: "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding"
-ampWebUrl: "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding?amp"
+excerpt: "Mountain View, California-based Luminous Computing closed a $105 million Series A Thursday from investors including Microsoft co-founder Bill Gates as AI takes off again"
+publishedDateTime: 2022-03-03T17:46:00Z
+originalUrl: "https://news.crunchbase.com/news/luminous-computing-vc-funding-cerebra-bill-gates/"
+webUrl: "https://news.crunchbase.com/news/luminous-computing-vc-funding-cerebra-bill-gates/"
 type: article
-quality: 67
+quality: 137
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: crunchbase
+  domain: crunchbase.com
 
 topics:
   - AI
+
+images:
+  - url: "https://news.crunchbase.com/wp-content/uploads/2020/12/ai.png"
+    width: 900
+    height: 506
+    isCached: true
 
 related:
   - title: "Luminous Computing, which is developing a light-based AI accelerator chip, raises $105M"
@@ -90,6 +94,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "d11M1jOlCtAaPYIbboExwmGutuAvWX83QbNHJhSpV5gOX8SsUR6yeT0hva/R5EKTNVhHst2yXk+oT3aq1ZTx5X8VGwLGYXXzONSWbh6GN/UnCvmIo9Qwh+TLJHwXmB98l4zcu+tlgM4YKi98Nkro+gP57LQF2hayXPz5ZN1GXX4izkhC3qFImZQ5pQhXFElyn3zw/KBqmXDQFmioBvkZRK7MKfj/bjl4yuCflTy9qb87yvNI9syrq5XdHAep/VUTDd6pw8FxfHSfFFJSLYVa9efs3yL/0+HPLd/VAXqsOPn8YWJnoAstW1BOw96dytn4z0LsYUgeAUI92BNqhLHD0TGUVJUMvyHDlZ1UrD1P+9hXwS0zvFbZ/qLVyYL/G1QabAQl5z/janj0ZKb7Ns9cCWz4nLve7MA6wRXqWBHohZgFs9SGOEBrNp8bLbyH/WVE1prlaJmzULDe0XXyyLLSK5dSj1MEsLOr8fShHz70dRshahY9n1B311+i+nvHXFDW325lCf4ZTexk0hDaqeVX/g==;qvrnAHsb96wp2jvgxfbp1Q=="
+secured: "LlEIWIqSHKV9f68JnKtn+zLg8KX8Da1baPiWgAGsEZu4fo0SOTL/VFeSVj54ijeW5tdc8XwVp6Ju65j2BQQVhp/xlI/Jo+8Vy0Z00Lb+UJxwn2c7ET5aEKepcuq9VyweAgfeoVmbA/Yw1YkoiPKn3APmr3Yied5m90B1eh8znq6NxumpcvQWxGXFtDfV9dRhpE3PBAZCjZp2h66gNz5x+LTv1vGq8wHACPMO/9Qigtk2zEdBZYGmY5NPhP+cTwgZEAb4gt5DDlaPpJNrAFJncrekbRwDd/h0iGuvdZFYOiLnTi6G0/TuLiiyKw6BW+cEA/J+atLJM+CXo2iosdzMUyBgqL581CkdqwIEr3TKmz4=;v6PAL8YhZ7UxZNcZ8ZRsvg=="
 ---
 

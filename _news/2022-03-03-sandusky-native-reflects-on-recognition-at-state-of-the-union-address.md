@@ -26,22 +26,6 @@ images:
     height: 641
     isCached: true
 
-related:
-  - title: "When Recognition Is Reckless"
-    excerpt: "Argument: When Recognition Is Reckless When Recognition Is Reckless... | View Comments () A major land war looms over Europe. More on this topic Russia pounced on Ukraine even as Russian President Vladimir Putin’s rambling speech denying Ukraine’s sovereignty was still reverberating."
-    publishedDateTime: 2022-02-28T03:17:00Z
-    webUrl: "https://foreignpolicy.com/2022/02/28/putin-ukraine-donetsk-luhansk-georgia-recognitio-reckless-sovereignty/"
-    type: article
-    provider:
-      name: Foreign Policy
-      domain: foreignpolicy.com
-    quality: 24
-    images:
-      - url: "https://foreignpolicy.com/wp-content/uploads/2022/02/putin-donetsk-luhansk-recognition.jpg?w=1000"
-        width: 1000
-        height: 666
-        isCached: true
-
 secured: "FDO/GVyJ5QWLa5vwJdLCX+/0SCmVBdejs5NhDufeS29Cecmgyfe5Dj26YuCxEcDB0dzycBmLKfnKfcMuEsJFaozuDSbSwXbmPs6EC4I7wJ3nJZ99n5sRMNOnne0A/GC2Oy4fOzqJoXTjT96FxdrvRjBtUNbw2EBw8LXKKHRNwb3h54Gaz1mBD6TdJE358bwzvZ/DEJ5SSUIZX2RpOAuQuTxLWplb72q3oW0m5J7hjQZnQvH84fFnO9a/3ev3zWL4HF5wRanEw7uLDSnMVFYPnt4TBNVKGkQb7gNzk74C9xB5y1YbCA5mnUwMykB5PthUWtITq4p+OGv5TbrHbq7fWrq9kP8piQjwMEZVU9gTsJ199m0KaBcUMjq1g7u5FK/51xh+3y9NOLsbgWDVGaQdqd48zuxkqVMHV+aiUx4vd6s09+ojYmIic/bTVrkNf5QDFYu1UJ8Zlg8VhDP9ZBy35h43fN95t9/4rvI7/Y40mG7NlHc+GBmYaTNXF5PpHooGSC8MU5kVF6b6RRCqgm0ZmA==;UNohTOGkR7OVNCqdzxYxOA=="
 ---
 

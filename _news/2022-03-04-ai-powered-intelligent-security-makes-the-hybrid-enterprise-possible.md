@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/03/ai-powered-intelligent-security-m
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/ai-powered-intelligent-security-makes-the-hybrid-enterprise-possible/amp/"
 type: article
 quality: 106
-heat: 157
+heat: 156
 published: true
 
 provider:

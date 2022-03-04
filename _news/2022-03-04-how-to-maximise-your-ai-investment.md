@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/brandfeature/the-business-reporter/technol
 webUrl: "https://www.reuters.com/brandfeature/the-business-reporter/technology-hub/how-to-maximise-your-ai-investment"
 type: article
 quality: 67
-heat: 78
+heat: 77
 published: true
 
 provider:

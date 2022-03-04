@@ -42,6 +42,20 @@ related:
         width: 1250
         height: 625
         isCached: true
+  - title: "Russian autonomous-driving company Yandex idles U.S. operations amid Ukraine invasion"
+    excerpt: "Self-driving tech company Yandex said it paused operation of its robotaxis in Ann Arbor, Mich., and ended a delivery partnership with Grubhub."
+    publishedDateTime: 2022-03-04T19:27:00Z
+    webUrl: "https://www.autonews.com/mobility-report/russian-autonomous-driving-company-yandex-idles-us-operations-amid-ukraine-invasion"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 32
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Yandex-MAIN_i_0.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Russian Invasion Highlights Growing Importance of Open Source Intelligence"
     excerpt: "During a morning political opinion show on March 2, Marc Polymeropoulos, a retired CIA field agent and supervisor, said he is sure his former employer is scouring its intelligence sources for signs of cracks in the walls of oligarchs and military supporters of Russian President Vladimir Putin as the invasion of Ukraine grinds on."
     publishedDateTime: 2022-03-04T14:00:00Z

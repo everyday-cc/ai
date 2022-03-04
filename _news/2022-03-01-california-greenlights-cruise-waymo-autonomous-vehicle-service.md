@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/california-greenlights-cruise-waymo-auton
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/california-greenlights-cruise-waymo-autonomous-vehicle-service?amp=true"
 type: article
 quality: 189
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1120
     height: 630
     isCached: true
-
-related:
-  - title: "Firefighters relying on artificial intelligence to fight California wildfires"
-    excerpt: "Artificial intelligence is quickly becoming part of our daily lives. We talk to smart speakers to get weather updates, chat bots answer our customer service questions, and soon, self-driving taxis will begin operating in San Francisco."
-    publishedDateTime: 2022-02-28T03:47:00Z
-    webUrl: "https://abc7news.com/california-wildfires-artificial-intelligence-wifire-lab-burnpro-3d/11596528/"
-    ampWebUrl: "https://abc7news.com/amp/california-wildfires-artificial-intelligence-wifire-lab-burnpro-3d/11596528/"
-    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/california-wildfires-artificial-intelligence-wifire-lab-burnpro-3d/11596528/"
-    type: article
-    provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 56
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/11596509_WEB3_AI.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "BYIUM7SgDICUgZg6moAHtFkDZRlruBRcaxBBGL9c/YNGUtPivCMwBl/K/fduj2woWbd/iDSPE8wFEosb6r8MGFSvUGqDcrUxgenEkQ86452MplHOPdUtwOxx2U2Slwm1nCesWruhvokvgYJMAXTLxm1OMd9vbkM+9um3iHi0eP57ExmkoadSI4VUEbPWol9ijeIDe0H9DELNwa/etcTdneDI1VxFaV5Qb9acKJvgur/flWjnvJbIm2Vj5QgLdoJYtlKalM03KjGJRAYaqlzzQpoPfiWnBMbfJVgreVZZ/gS/K6WFsfMje/mZGEaeCmDYhXfTA+RZrfws65cQ0tbq8w+YMogcXTMhiYoFZHEOVnxUb55OXXgQuWNBh6LufO1yUZuqlGj6NJ0O3uZLWZtRKM0zy29CbITOZVEybyf4+TwIZMDyiFiBW8BlZO6Ud2KFoJo8sKW9pXUzxYB9UT0zJCSZ1/LFe4NiBp7r8NwIYKdn/Rw6gUIPqzVt1ENYDbyiZQ2XoemM/ghJ9vCwhNrneAcBYj9f2tQ9NzH9xuLfeL0=;kzwV9NPpmErazarfv0ywew=="
 ---

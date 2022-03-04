@@ -8,8 +8,8 @@ webUrl: "https://news.vanderbilt.edu/2022/03/04/wikswo-and-viibre-team-on-track-
 ampWebUrl: "https://news.vanderbilt.edu/2022/03/04/wikswo-and-viibre-team-on-track-to-build-third-gen-self-driving-lab-with-1m-from-national-science-foundation/amp/"
 cdnAmpWebUrl: "https://news-vanderbilt-edu.cdn.ampproject.org/c/s/news.vanderbilt.edu/2022/03/04/wikswo-and-viibre-team-on-track-to-build-third-gen-self-driving-lab-with-1m-from-national-science-foundation/amp/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://news.vanderbilt.edu/manage/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"

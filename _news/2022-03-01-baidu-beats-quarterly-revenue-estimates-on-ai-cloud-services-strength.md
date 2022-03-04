@@ -2,31 +2,33 @@
 category: news
 title: "Baidu beats quarterly revenue estimates on AI, cloud services strength"
 excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has been ..."
-publishedDateTime: 2022-03-01T08:55:00Z
-originalUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-strength-2528766"
-webUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-strength-2528766"
+publishedDateTime: 2022-03-01T10:43:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
+webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: cio.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--uSFnJqlG--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-03-01t085407z_2_lynxmpei201qj_rtroptp_3_baidu-results.jpg?itok=cYQJyey9"
+  - url: "https://etimg.etb2bimg.com/thumb/msid-89923039,imgsize-62329,width-1200,height-628,overlay-etcio/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength.jpg"
     width: 1200
-    height: 676
+    height: 628
     isCached: true
 
 related:
   - title: "Baidu beats quarterly revenue estimates"
-    excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. March 1 (Reuters ..."
+    excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. March 1 (Reuters) - Chinese search engine giant Baidu Inc BIDU.O reported ..."
     publishedDateTime: 2022-03-01T08:53:00Z
     webUrl: "https://www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates"
     ampWebUrl: "https://www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates?amp"
@@ -135,6 +137,6 @@ related:
         height: 480
         isCached: true
 
-secured: "m0noNJNg3MgyLQGEvaBAPsplB1TZnit+b67Ay1WeZWDwzdG34kPQXLVbq/b0GFSaCbVMRpusl+ZibgPH0AyIK8zaCYMknlV2zgIFEGwddYXUjl0xkiZJkdF70BTP/yMKbwySpst12EQZzhQ4c5gJsyZjlpTA8Kpb1qiI+GOoFSmr8xmu/kgkkz0wxxNaSTir+cAfwBJsh5nP5sVsWzs8JYlg16XO752JoBbd0567OuEHn9wBQltlBfScaf5JzQo59wh4I0zg5NvMP8Kl4200/HnPT2YzLJ3DUcc4J56QreWOHZ4gO6NnahUfQkJtusBkVmXgj0z2pb4W5aGPhOhGy6hfMQ63uZ9LTC/JmVZ5zD0=;iCkf95zddtXvyrE0E8RZew=="
+secured: "uwiMf6K3TZmYvr6nMTAjxvYLlzX1YCz6lGLfkx3sJWIRhdNMexbBZn5ugYmW172rSxtvTHeL/9vNAysu8oOnXS25OOYVwXxXPA0A/YRSRlytQqHV1VX7FKkF3bma327X14QRR0ktiB/PRY23Jm9ZSHAHu5oDZir+cf+BzMQgCpw1mfRt0VCWViS7xWCYlGd8Gvh0SG+wnR3526TTDhgELcIt0WxPVQHFXafx5sKUKQPp9gdVRvClHSAV+4fNS1n8pC9C0kC1rpAK7k0wMyf7uZ6mhgSiH83u/p1N3LhJ4XNKABkVBxeSrATS2OeMq/epuHeBy51P2wQYcqTHMqKAUdcEsqsGQOkUngjbWIdc+lU=;eMfkvrhMdenKdOliaD4Xng=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Baidu beats quarterly revenue estimates"
-excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. March 1 (Reuters ..."
+excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. March 1 (Reuters) - Chinese search engine giant Baidu Inc BIDU.O reported ..."
 publishedDateTime: 2022-03-01T08:53:00Z
 originalUrl: "https://www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates"
 webUrl: "https://www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates"
@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Baidu beats quarterly revenue estimates on AI, cloud services strength"
+    excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has been ..."
+    publishedDateTime: 2022-03-01T10:43:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-89923039,imgsize-62329,width-1200,height-628,overlay-etcio/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Baidu Revenue Beats After Cloud Sales Offset Ad Slowdown"
     excerpt: "Baidu Inc.’s revenue beat estimates after efforts to monetize artificial intelligence technology helped offset losses in ad sales triggered by China’s economic slowdown. Revenue for the December quarter came in at 33."
     publishedDateTime: 2022-03-01T15:39:00Z
@@ -48,20 +64,6 @@ related:
       - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Baidu beats quarterly revenue estimates on AI, cloud services strength"
-    excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has been ..."
-    publishedDateTime: 2022-03-01T08:55:00Z
-    webUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-strength-2528766"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--uSFnJqlG--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-03-01t085407z_2_lynxmpei201qj_rtroptp_3_baidu-results.jpg?itok=cYQJyey9"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Baidu beats quarterly revenue estimates on AI, cloud services"
     excerpt: "Chinese search engine giant Baidu Inc beat quarterly revenue Wall Street estimates on Tuesday powered by growth in its artificial intelligence (AI) cloud business. Revenue grew to 33.09 billion yuan ($5."
@@ -134,6 +136,6 @@ related:
         height: 480
         isCached: true
 
-secured: "pIpjyt3VIoKMPc6Pf4vrs1iZT58UJ0Vgi70GSJWOdHm7GfXPIli3ba8NIp1N1O6ulEogNJRCdMTloAwaPXo3NR2sYI0ALwYb8rasZXsIn1NfCf7TqEPnxpU+YoWgI5gWCijr8+3Kek5idgVJFJeAFk+eLx310892OB9KoLW5pQICgt/oMW9qVL92kxDnLfIyFD6VHbUU86Z7PY46rVAVDkvKu5FPNsds8thqF+Q9r/tDMWQ9joCUjA9MlEYiWb5ILdcGcji0l1k8CY2p3wA7klgdjrpy+a9p0D2iI1gQ12J98mN+YHonjmHsL/QuYf9MEWgSuc/hlkIVVeVnflL2WzLkIyoBPHWJ1ocvuskmgHQ=;/Pri9okdCNathWDFkj/H8w=="
+secured: "JivbgPb79VjYZtaJbBx+K9zi1cWa77Nl7moujHCJk2GdV7llnzAezqCzC5YvYF6z3gj8r5RQAnjXeI2ugbsSMqzZMSC0crRUmwi2UStkqj2p/P24t3pfJGgcL57Hjh9K4Ve+yscjm91NaBDMNvfX0X2s1MSEblDfBYNVIvvjIulqXlVeME4Gi+eSHX69YdTGIbQ6767x8OzFT8JBEKr5Prf9obO51daQjfqC0RIv8WiebEfVfrQStlfpvNhCdUaWEw9HkLSaR4rfuMZfeGyrHzQ/BtgX/VjsUuGD3xzdDN7DK5ljsq1tRFpf0ZVqWYqJ6L4gG5TJokrffBMdW6yRYHHRI4CMZBL5CkIkB4DWWYo=;RVzIeL16pk3LueOrn49cww=="
 ---
 
