@@ -18,6 +18,8 @@ topics:
   - AI in Autos
   - AI
   - Microsoft AI
+  - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/2b5ce7f68fd37f90ffb8890d66feb1a81c0b7d44-600x337.jpg"

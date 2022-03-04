@@ -1,56 +1,20 @@
 ---
 category: news
 title: "Energy-efficient AI Semiconductor Company EdgeCortix Closes Series A Funding"
-excerpt: "EdgeCortix® the AI-focused fabless semiconductor company today announced that it has closed over $8 Million USD in series A"
+excerpt: "EdgeCortix® the AI-focused fabless semiconductor company today announced that it has closed over $8 Million USD in series A funding. EdgeCortix’s reconfigurable Dynamic Neural Accelerator® processor architecture and AI acceleration SoC SAKURA™ brings best-in-class power-efficiency with near cloud-level performance across infrastructure and embedded edge devices."
 publishedDateTime: 2022-03-01T01:00:00Z
-originalUrl: "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding"
-webUrl: "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding"
-ampWebUrl: "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding?amp"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-8660a0c26b1dca4027c1a4c1143c0f8e"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-8660a0c26b1dca4027c1a4c1143c0f8e"
 type: article
-quality: 56
-heat: 76
-published: true
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Mar2022/pr-newswire_500_4_37.jpg?itok=bxgOz32L"
-    width: 763
-    height: 509
-    isCached: true
-
-related:
-  - title: "Energy-efficient AI Semiconductor Company EdgeCortix Closes Series A Funding"
-    excerpt: "EdgeCortix® the AI-focused fabless semiconductor company today announced that it has closed over $8 Million USD in series A funding. EdgeCortix's reconfigurable Dynamic Neural Accelerator® processor architecture and AI acceleration SoC SAKURA™ brings best-in-class power-efficiency with near cloud-level performance across infrastructure."
-    publishedDateTime: 2022-03-01T16:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=623655"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 36
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
-  - title: "Energy-efficient AI Semiconductor Company EdgeCortix Closes Series A Funding | Morningstar"
-    excerpt: "EdgeCortix® the AI-focused fabless semiconductor company today announced that it has closed over $8 Million USD in series A funding.  EdgeCortix's reconfigurable Dynamic Neural Accelerator® processor architecture and AI acceleration SoC SAKURA™ brings best-in-class power-efficiency with near cloud-level performance across infrastructure and embedded edge devices."
-    publishedDateTime: 2022-03-01T01:00:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20220228cn75316/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-a-funding"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 9
-
-secured: "43EQPSR3dyQciypQxd2jVnw6IlXGT13nuHvSbfYG/1sQ0TzT95r8bW2LYhOm3RMCG2AYWPfMGPnzov76kbD1rJLhCefshURXj2dgLQU68iTnyJxDrXT5Ph9WICS2RZDZpf18H4XeU7nVL7cyTV3qkIXaC4sBSF+6ff/ZiayF4mDCFKa7FF0IlxWQMYoY7/6udAXoJquNGmhMq1hJDK3/3TYBOMssWs02KhDU71wjxvqtdwBOYye0BUfLCcak8I/Dhc6AmS9i689fzYSKT+sSTyjWdloPMQC64eWLHQBZXFOOO9WS4iuHEaf74VIAlNovzPWqxndWv0GqPW98QlKnfQwMgyPxVjmRzGBPg9DsMCg=;CzGl1WbSdkNv1GQ/ggZl2Q=="
+secured: "yJqDvKp07Dpb12Qdc2CiOUoHxAlpL+BE10C4Db1UGMyrkekPNC03bLU1tVuP8u9FRn4KbdnZ6HWNDfAd0hg3tnLofh4Q+JWLXA+8K5oA2Txh2KrYCk53AvwXW7j6ET2lw9H4zhTbQyNrvTFRA3zeGI3WA1GEfDVT87tq+phWGlsEyIyVY1J8lK1Qy6bkr+MWm7kTFHNVaqwFVzx9l7VVxhKHsywTI0xof7V7QrXkBIMGaxFjKyLaKlAATVzukPWiTbypiO0Oh4k/uF+Cb/B3bvVoAUlVVcjlmAOJ++p3eO3Tf5Gf3lhvtMuSy2jmVgaDH1RtM++AclN56sB2usNfxSjeYxNgKCZlyC/PwenDYI4=;V59A5U5bMAhbb0f/t0twiA=="
 ---
 
