@@ -40,23 +40,26 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 98
+    quality: 198
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1294874384.jpg?w=1200&strip=all"
         width: 1200
         height: 602
         isCached: true
   - title: "Luminous Computing The Latest AI-Startup To Attract Big Funding"
-    excerpt: "Luminous Computing is one—and investors seem intrigued with its promise. The Mountain View, California-based supercomputer company closed a $105 million Series A Thursday from investors including Microsoft co-founder Bill Gates."
-    publishedDateTime: 2022-03-03T16:46:00Z
-    webUrl: "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding"
-    ampWebUrl: "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding?amp"
+    excerpt: "Mountain View, California-based Luminous Computing closed a $105 million Series A Thursday from investors including Microsoft co-founder Bill Gates as AI takes off again"
+    publishedDateTime: 2022-03-03T17:46:00Z
+    webUrl: "https://news.crunchbase.com/news/luminous-computing-vc-funding-cerebra-bill-gates/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 137
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/2020/12/ai.png"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Luminous Computing raises $105M to build a photonics-powered AI supercomputer"
     excerpt: "Startup Luminous Computing Inc., which is developing a new kind of supercomputer for running artificial intelligence models, today said that it has closed a $105 million funding round. The Series A round included the participation of more than a half-dozen investors."
     publishedDateTime: 2022-03-03T19:05:00Z

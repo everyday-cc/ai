@@ -35,11 +35,25 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 98
+    quality: 198
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1294874384.jpg?w=1200&strip=all"
         width: 1200
         height: 602
+        isCached: true
+  - title: "Luminous Computing The Latest AI-Startup To Attract Big Funding"
+    excerpt: "Mountain View, California-based Luminous Computing closed a $105 million Series A Thursday from investors including Microsoft co-founder Bill Gates as AI takes off again"
+    publishedDateTime: 2022-03-03T17:46:00Z
+    webUrl: "https://news.crunchbase.com/news/luminous-computing-vc-funding-cerebra-bill-gates/"
+    type: article
+    provider:
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 137
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/2020/12/ai.png"
+        width: 900
+        height: 506
         isCached: true
   - title: "Inworld AI raises $10M to develop AI- powered virtual characters for games"
     excerpt: "Inworld AI has raised $10 million to help scale its team as it prepares to launch its AI character creation platform later this year."
@@ -57,17 +71,6 @@ related:
         width: 1199
         height: 871
         isCached: true
-  - title: "Luminous Computing The Latest AI-Startup To Attract Big Funding"
-    excerpt: "Luminous Computing is one—and investors seem intrigued with its promise. The Mountain View, California-based supercomputer company closed a $105 million Series A Thursday from investors including Microsoft co-founder Bill Gates."
-    publishedDateTime: 2022-03-03T16:46:00Z
-    webUrl: "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding"
-    ampWebUrl: "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
   - title: "Luminous Computing Raises $105M in Series A Round to Build World’s Most Powerful AI Supercomputer"
     excerpt: "Luminous Computing announced today that it raised $105M in a Series A round, with participation from investors including Gigafund, Bill Gates, 8090 Partners, Neo, Third Kind Venture Capital, Alumni Ventures Group,"
     publishedDateTime: 2022-03-03T12:02:00Z

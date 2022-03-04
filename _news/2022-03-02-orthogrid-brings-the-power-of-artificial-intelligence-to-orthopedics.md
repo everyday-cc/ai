@@ -1,24 +1,30 @@
 ---
 category: news
 title: "OrthoGrid Brings the Power of Artificial Intelligence to Orthopedics!"
-excerpt: "With AI and data at its core, OrthoGrid technology redefines orthopedic navigation and improves the surgeon's efficiency, accuracy, and reproducibility. \"Surgeons are risk-averse"
-publishedDateTime: 2022-03-02T13:29:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-orthogrid-brings-power-artificial-intelligence-orthopedics-/2022/03/02/9555592.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-orthogrid-brings-power-artificial-intelligence-orthopedics-/2022/03/02/9555592.htm"
+excerpt: "OrthoGrid® Systems, Inc., is pleased to announce the OrthoGrid Hip AI application. Powered by artificial intelligence"
+publishedDateTime: 2022-03-02T12:17:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/03/n25933720/orthogrid-brings-the-power-of-artificial-intelligence-to-orthopedics"
+webUrl: "https://www.benzinga.com/pressreleases/22/03/n25933720/orthogrid-brings-the-power-of-artificial-intelligence-to-orthopedics"
+ampWebUrl: "https://www.benzinga.com/amp/content/25933720"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25933720"
 type: article
-quality: 21
-heat: 21
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Healthcare
   - AI
-  - AI in Robotics
 
-secured: "YzvQj7nVmEbkycSxHEYT7OauuZnJXJBR4tdgx7xxKrBPkZyWhrrEPo/6JX9+pGo5qduyzETED4Ux15xNCt0qCU3bT5KzUOK9uLGYzgM14gKe35m1kP/4pTLv7tBN8xDiV/9veY6PwmPuHFL9xuEPc/HNKJPFG9iuqc8W+RjGL1Ih8R2/qT1aC4r5L2knFwwAmut4UlCoa+flkPM3AHR9zdKpSlAm8hCGoZtSo1mzOfQtuoVBNTWAq1W6U2xC8VjKqyNHkE+M8h0qpnw7l3eCjZNEBeEyMN8QlrJDm9gYGYKXPcfaomztTr4oSVeCDKg6lx0+D4XyUIoyP9vyzN5fEcAoMZAXeRDRXX7Aj9KcGNI=;4wvnU7F2e6X5afTlERDWRQ=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "I6FnKqA4eaFSvMG/bnR+4NlVIHy/kPQWBZBNEprPvFkoyLi8sv4thLe2stus3SGb1KPIGeMap/PxpSWCpFk3eXSQTVGfLmI1TlWOdqdhjtWyMCEE+9IsMYP24xdFk8f5zPdQtPfwiWPnPQuk1scecZ2OzeL6Bz+0bnGIG3IWRhw4XJZIX903WKP8fMFlHpSGub6gbzRFzs4QX9ad1uZ99nT3xg1CYAlnl9fx0E77adIwv+fpfosyIDZhX7H2Rf6uUxgocHHmM3y/aHtheuc6VU1loqPslhAyM+swhLValo4kgCxpsfcrofswV+BDQC/NGOz6OY9Skoc4gqi6zHSu4j3tjRUp6qQS6Q/bqmD/4Do=;2QXCK6j4m0l8F2KnT9Ja2g=="
 ---
 

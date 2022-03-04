@@ -22,18 +22,16 @@ related:
   - title: "AI model detects mental disorders based on web posts"
     excerpt: "Dartmouth researchers have built an artificial intelligence model for detecting mental disorders using conversations on Reddit, part of an emerging wave of screening tools that use computers to analyze social media posts and gain an insight into people's mental states."
     publishedDateTime: 2022-03-02T14:51:00Z
-    webUrl: "https://techxplore.com/news/2022-03-ai-mental-disorders-based-web.html"
-    ampWebUrl: "https://techxplore.com/news/2022-03-ai-mental-disorders-based-web.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ai-mental-disorders-based-web.amp"
+    webUrl: "https://home.dartmouth.edu/news/2022/03/ai-model-detects-mental-disorders-based-web-posts"
     type: article
     provider:
       name: techxplore.com
       domain: techxplore.com
-    quality: 57
+    quality: 137
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/reddit-and-twitter.jpg"
-        width: 2880
-        height: 2160
+      - url: "https://home.dartmouth.edu/sites/home/files/styles/max_width_720px/public/2022-03/20220225_computer_science_rg_008.jpg?itok=-Qsb_hC4"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "ucW7nW6ayHcdW44nXOwFoXLyDLKp96zKoQGsGVZ6DAaxMkK5AUbsAQ+Dq3Fe80PmQZwLPbA5EjPUD9ETj8Tbr2zt3msLmbhaVnVzn6mCdBFugIdh2H/h8uoJOrix5sBm+yL1nKympPy2/e6uQIFZcq7S7vNjYKAHTcQwGyy//O5HacRGxi0Q9nlmQ0FMycKNzwaPOz0sn4evRg5UM+CDiteJZfZNhMLxqbFbFyQenokihqoaAoeY1WP2wWBicANoN6eIc5ghHMOZnNgGjPyzuzivp59hh2k32MDDVBofquEbgcF/+6ikESVw23+v3g76QcrRV5XpNVbx6Lb/FdfkwANhv9icT0bQmN9lJLawtbg=;fw0POCsYgJVf06R4Ijkfxw=="

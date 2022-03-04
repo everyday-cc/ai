@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/ai-in-healthcare-market-is-proje
 webUrl: "https://www.digitaljournal.com/pr/ai-in-healthcare-market-is-projected-to-reach-194-4-billion-by-2030"
 type: article
 quality: 54
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 32
-  - title: "Healthcare Virtual Assistant Market To Reach USD 2.83 Billion By 2027 | Reports And Data"
-    excerpt: "The rising integration of artificial intelligence in healthcare, growing demand to improve healthcare facilities and increasing funding for improvement in"
-    publishedDateTime: 2022-02-27T22:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/healthcare-virtual-assistant-market-to-reach-usd-2-83-billion-by-2027-reports-and-data"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 30
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AI Governance Market size is Projected To Reach USD 116.3 Million By 2028 At A CAGR of 25.1% - Valuates Reports"
     excerpt: "BANGALORE, India, March 1, 2022 /PRNewswire/ -- AI Governance Market is Segmented By Type - Software, Service, Others, Market By Application - BFSI, Healthcare and Life Sciences, Government and Defense, Retail and Car. Global Opportunity Analysis and ..."
     publishedDateTime: 2022-03-01T13:08:00Z

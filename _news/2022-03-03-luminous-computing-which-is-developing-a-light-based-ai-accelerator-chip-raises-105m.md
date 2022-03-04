@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/03/03/luminous-computing-which-is-developi
 ampWebUrl: "https://venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/amp/"
 type: article
-quality: 98
-heat: 148
+quality: 198
+heat: 248
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Luminous Computing The Latest AI-Startup To Attract Big Funding"
+    excerpt: "Mountain View, California-based Luminous Computing closed a $105 million Series A Thursday from investors including Microsoft co-founder Bill Gates as AI takes off again"
+    publishedDateTime: 2022-03-03T17:46:00Z
+    webUrl: "https://news.crunchbase.com/news/luminous-computing-vc-funding-cerebra-bill-gates/"
+    type: article
+    provider:
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 137
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/2020/12/ai.png"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Inworld AI raises $10M to develop AI- powered virtual characters for games"
     excerpt: "Inworld AI has raised $10 million to help scale its team as it prepares to launch its AI character creation platform later this year."
     publishedDateTime: 2022-03-03T16:49:00Z
@@ -48,17 +62,6 @@ related:
         width: 1199
         height: 871
         isCached: true
-  - title: "Luminous Computing The Latest AI-Startup To Attract Big Funding"
-    excerpt: "Luminous Computing is one—and investors seem intrigued with its promise. The Mountain View, California-based supercomputer company closed a $105 million Series A Thursday from investors including Microsoft co-founder Bill Gates."
-    publishedDateTime: 2022-03-03T16:46:00Z
-    webUrl: "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding"
-    ampWebUrl: "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
   - title: "Luminous Computing raises $105M to build a photonics-powered AI supercomputer"
     excerpt: "Startup Luminous Computing Inc., which is developing a new kind of supercomputer for running artificial intelligence models, today said that it has closed a $105 million funding round. The Series A round included the participation of more than a half-dozen investors."
     publishedDateTime: 2022-03-03T19:05:00Z
@@ -97,6 +100,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "RO0EZ+16Sk6SHcmoEu4d4ORDanAM0MY7bL8EHJfHB4te7+tCSOZER1noWheZpOByE/1SP5WURZm0jMs5wekjCthPHk+9T7BI+M42LW+W1PCVTLrVvify6AnhNNPi7AIFK9TVI3/pOaHzTsJfRPJmxKLN5ENBp0LbId57d5YlpNoVNvxJhoAyMpRS3wWTnmS/04mYYwWI5x/8IqcxPSFncV/2QoJjakL3un6tKjJdEjXXGXLPs67Sa1z+Jl36rffphryu1rQsiy9ORZ1s7C3kk7/E9Qumeh+OddMcMbBMJFA7L9U6P4NF27S0pSi7To4ScK1efqyOSn3pLtJiwz/OjIbQ0maRR/gk6JsG9BvXxGhH2pCqK8toxoSO5mnA1NXTlo6SM1hZ9q5qPs/mSJAsUF91ysuNjLIMfIaGFONeeDpYYL8OWPnY4lSQo3ygKzgNM53SlBTp4ytjLMBxTAb6bQD3M1cze3ImU0Z5m+JflVglPac0fqv4+AyoMmFFfnHW/vrcOSURG3Q2kc+DyjCIQg==;CE2pFpBdP7hts172PQl0lw=="
+secured: "IYdaW94fuSyMR/570xUrJUtdkIwONyrw34jYy3HqJgfg4y9H+68mn93DnquduFTp9/hXt1AHfNv0WPfVHk/pQyz3Oa4+R/xUkGJYMQI0sV+Iky1Pd/rUJhiTMyC/feA+kUBOXxMp9lBfvfPA4LGRT+T3Qy3hx4ih66uQAPNAjE6BnBQDED/kh3UJHEiXnDAIcmYD6dGNR7j73wZtA1+nJKmuX2lnv7vJjvbpPQRNpEFbPP9xaPx+zx1nSZLCTMFFYwAMsklVmGrMJ95cOBk5tiKeDVZniRSQbX2qkDljwwIyKAsicj82zx3Yg+zFuitUtt86HBpG8BlPzdIWdMYnm9/P0dsI66P1GA1q4zL+rhweixguvoKgQX53xzMgtPhVWWPWmEwn1XV9WO+2phrOdyZkAyjxoVdZ71GbEx+d1YhuE2i4bvIj14fYcOICzOpEEws5QbJ2Xg4VBiHfk5Sk8QdGydYC/yL85XFTKZt0I93UCRwZ5aqi3392znwZh7ZIaTvy7fZC/rl3VOpUp+Q5zFexF8gUR3qd2ZneCcbk/1Y=;6VrAa0gP+GgHEy5IKhDnLA=="
 ---
 

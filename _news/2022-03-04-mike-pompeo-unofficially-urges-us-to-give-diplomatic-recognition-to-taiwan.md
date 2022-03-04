@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/international/mike-pom
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/mike-pompeo-unofficially-urges-us-to-give-diplomatic-recognition-to-taiwan-122030400415_1.html"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pompeo In Taiwan Urges US Diplomatic Recognition"
+    excerpt: "Former US Secretary of State Mike Pompeo in a speech on Friday on a non-official visit to Taiwan called for the US to give diplomatic recognition to the self-ruled island China claims as its own territory."
+    publishedDateTime: 2022-03-04T13:29:00Z
+    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/pompeo-in-taiwan-urges-us-diplomatic-recognition-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/world-news/rest-of-the-world-news/pompeo-in-taiwan-urges-us-diplomatic-recognition-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/rest-of-the-world-news/pompeo-in-taiwan-urges-us-diplomatic-recognition-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 59
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/478trcpoez6o1bgm_1646400516.jpeg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "In unofficial capacity, Pompeo urges US to recognize Taiwan"
     excerpt: "Former U.S. Secretary of State Mike Pompeo in a speech Friday on a non-official visit to Taiwan called for the U.S. to give diplomatic recognition to the self-ruled island China claims as its own territory."
     publishedDateTime: 2022-03-04T06:18:00Z

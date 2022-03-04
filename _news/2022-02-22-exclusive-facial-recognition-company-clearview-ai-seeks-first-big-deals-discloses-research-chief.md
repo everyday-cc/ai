@@ -1,51 +1,26 @@
 ---
 category: news
-title: "EXCLUSIVE Facial recognition company Clearview AI seeks first big deals, discloses research chief"
-excerpt: "NEW YORK, Feb 22 (Reuters) - Clearview AI, whose search engine for faces has become an unrivaled police tool, this year is aiming to win its first big U.S. government ... about $50,000 to research augmented reality glasses with facial recognition to ..."
-publishedDateTime: 2022-02-22T14:39:00Z
-originalUrl: "https://www.reuters.com/technology/exclusive-facial-recognition-company-clearview-ai-seeks-first-big-deals-2022-02-22/"
-webUrl: "https://www.reuters.com/technology/exclusive-facial-recognition-company-clearview-ai-seeks-first-big-deals-2022-02-22/"
+title: "Exclusive-Facial Recognition Company Clearview AI Seeks First Big Deals, Discloses Research Chief"
+excerpt: "Clearview has become one of the highest-profile developers of facial recognition over the last two years because it sends authorities matches from an ever-growing database of over 10 billion photos that it finds posted publicly on the internet. Results ..."
+publishedDateTime: 2022-02-22T15:00:00Z
+originalUrl: "https://www.ibtimes.com/exclusive-facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-3409221"
+webUrl: "https://www.ibtimes.com/exclusive-facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-3409221"
 type: article
-quality: 171
-heat: 181
-published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/x9Xv4WHnWsA3bDJ6NeR-osPKdjg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5NRTHXIADJIIFDENH5RTEPHAGA.jpg"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/22/an-illustration-picture-shows-a-projection-of-text.jpg"
     width: 1200
-    height: 628
+    height: 826
     isCached: true
 
-related:
-  - title: "Facial recognition company Clearview AI seeks first big deals, discloses research chief"
-    excerpt: "Clearview AI, whose search engine for faces has become an unrivaled police tool, this year is aiming to win its first big U.S. government contracts and expand its team by a third even as the startup fights challenges in the courts and Congress, its chief ..."
-    publishedDateTime: 2022-02-22T16:00:00Z
-    webUrl: "https://www.cnbc.com/2022/02/22/facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-research-chief.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/02/22/facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-research-chief.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/22/facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-research-chief.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 96
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104409576-GettyImages-522170209.jpg?v=1645552466"
-        width: 2000
-        height: 1333
-        isCached: true
-
-secured: "+IbP4tjBs8nUagXacGRX3bKRQByt+Kl+c7RvCJmVgqC7xZzfRDgwceAWlR9lpKe2jsdLSe6BnlGZ/iMH6h3mkCj7pPY+8tXXB5fn0hMMITWYfFMpSMkNXzPlGSdiri6YTLGVCmEvcCFBYCSlYCkShCSElLqH7kJbwvv/KevFjZqRqxqjQOEm+FSLtnjr/va+CAMZ9VGeNKHM/kpvf+mylHIJysdOo/KYAGkeg3zZV1ky0V2TNQfLk/VvZgFKsgDYB5SBtZA6VMj9cGwuGMfru7DGKa/ORD5FkrUhq3NOy8OuznDljc7kqR01NelRc8DGinEJsrdwE7S1EFienD7qgnBc6n/WeHiIgXrJLxvs+0E=;ZPblBcHcXeDZHfXjHQzniw=="
+secured: "WEc1tuIAeVmE9c4i69OKu7OegTDL5GfCMAn6MRls03JubWzr5JstGy3Dqw0w/amIIO22D8xbHZxvKY7IZrDDnTFT/NZDWf7oST6PEH5i83FzlMKX73sp5E8XaDpQO2bEGfpfK936qSV97qpEAuYBxqwG9b+cam4V5KW/ZLEkaSJRgQt+Y5iv3OhihHoSA9BD4o4xwvXL2+lNdRoJPLSTgi4UZvhzk4DupQF3BytWs53vZ62thLJWMuXWeqOHnNk9ymUOFA6KI22LRdCNbY9/WnPJKwk4UG8lfvtWBU/vxpDckX5lagGDak97UhgO10IVfdBJ8DvVJndNIpiKU+ge5eWmFZzxDMS5N5EVC03NqVI=;FVknh3lUdtMtTxOf+Ai37g=="
 ---
 

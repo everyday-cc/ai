@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-03-deep-learning-ai-covid-smartwatc
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-deep-learning-ai-covid-smartwatch-sensors.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "AI helped protect businesses from COVID-19 risks"
+    excerpt: "A new study has found that artificial intelligence (AI) apps helped protect small and medium-sized businesses against many of the risks that emerged during the COVID-19 pandemic – yet only a quarter of small firms currently use them."
+    publishedDateTime: 2022-03-04T14:19:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/945362"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 17
 
 secured: "rsHVCJIHI6EUou5Qd4/jF8hB2ynd4qHAw0i6j7wmOImBgFe3LljrdX7aBaSvPNxHVDqqgkBxKoBP6HUuEGP7jaERCHl1MH+dLFv4dXAaQrXIi0eyUY369dwRKUqHKOb5MXD6jww9ECzuUp00elAoKRNgiE1IZj+geiHOXrA/UIYJYKxTpfaNjgPAbFu8mR3u4odKAMCOz4kUicIx0EDvESZ4GDKHPOJnpCDW4kS537XN98MRjyzbPC5prpkJrMH2+aodbNjvIRoU4VBa99aSgqTO1xg8HAvx1H6EeBx/uXO7ajF02U4LWjnCg/axRB/E4wlwnc2NmWfsGDSjY5Ml8Rr5CsfCDbEh2KAgAHzSvqFULuMmNQGENgOECEeIUoy2Cd4D09cQy/YV/h6jDs8u16xywlxr8MRoHsftzttIl2CwVcrLLSFqWXK+InMbjXei3vkiHOsLJCyZF2VF5rAawO+gi/+HY/XLJsU+Nhd+9S8HpdZDbewOO23bunTIWrnTPaovggJk9+UqY+VyuidL2w==;RcaHWl7L5LAm1RLY5AFD8Q=="
 ---

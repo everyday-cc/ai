@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2022/03/03/cardinalops-raises-17-5-million
 webUrl: "https://venturebeat.com/2022/03/03/cardinalops-raises-17-5-million-for-ai-threat-detection-solution/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/cardinalops.png"
         width: 772
         height: 399
+        isCached: true
+  - title: "Visionary.ai Raises $2.5M in Funding"
+    excerpt: "Courtesy of Visionary.ai Visionary.ai, a Jerusalem, Israel-based computer vision startup, raised $2.5M in funding. The round, which brought the total amount raised to date to $7M, was led by Ibex Investors,"
+    publishedDateTime: 2022-03-04T13:28:00Z
+    webUrl: "https://www.finsmes.com/2022/03/visionary-ai-raises-2-5m-in-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/03/Visionary_ai.jpg"
+        width: 2048
+        height: 1363
         isCached: true
   - title: "Document AI Startup Docsumo Raises $3.5M Seed, Eyes Expansion in North American Market"
     excerpt: "Singapore-headquartered Docsumo, a document AI startup that helps enterprises make automated decisions from customer documents, recently raised $3.5 Million in seed capital. The round was led by Common Ocean with participation from Fifth Wall,"

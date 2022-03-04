@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-more-5g-cent
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/"
 type: article
 quality: 104
-heat: 264
+heat: 274
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/Uptake-Fusion-to-Support-Microsoft-Azure-Data-Explorer-01.jpg"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Microsoft Vaults Further Into Health-Care Services With Closing of Nuance Deal"
+    excerpt: "Microsoft Corp. completed its acquisition of Nuance Communications Inc., pushing the software giant deeper into the market for health-care services and artificial intelligence. The $19.6 billion deal, announced last April, lets Microsoft add cloud ..."
+    publishedDateTime: 2022-03-04T14:19:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-03-04/microsoft-vaults-further-into-health-care-services-with-closing-of-nuance-deal"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_kArmrVfd_E/v1/1200x801.jpg"
+        width: 1200
+        height: 801
         isCached: true
   - title: "TCS Partners With Microsoft Azure To Leverage Software For Smart Cities And Customer Analytics"
     excerpt: "TCS won the 2021 Microsoft Partner of the Year Awards for Azure Intelligent Cloud in France and Dynamics 365 Field Service in the US."

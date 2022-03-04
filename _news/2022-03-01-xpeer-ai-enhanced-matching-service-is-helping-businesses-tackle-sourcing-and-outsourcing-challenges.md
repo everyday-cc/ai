@@ -24,34 +24,45 @@ images:
     isCached: true
 
 related:
-  - title: "New Partnership Brings Online Machine Learning Resources to HBCUs"
-    excerpt: "Georgia Tech and Meta have launched a new co-teaching initiative, the Artificial Intelligence Learning Alliance (AILA), with the goal of bringing elite graduate machine learning education to historically black colleges and universities (HBCUs) and other minority-serving institutions (MSIs)."
-    publishedDateTime: 2022-02-28T12:00:00Z
-    webUrl: "https://www.cc.gatech.edu/news/new-partnership-brings-online-machine-learning-resources-hbcus"
+  - title: "Distributed Sensing and Machine Learning Hone Seismic Listening"
+    excerpt: "Fiber-optic cables can provide a wealth of detailed data on subsurface vibrations from a wide range of sources. Machine learning offers a means to make sense of it all."
+    publishedDateTime: 2022-03-04T13:05:00Z
+    webUrl: "https://eos.org/features/distributed-sensing-and-machine-learning-hone-seismic-listening"
+    ampWebUrl: "https://eos.org/features/distributed-sensing-and-machine-learning-hone-seismic-listening"
+    cdnAmpWebUrl: "https://eos-org.cdn.ampproject.org/c/s/eos.org/features/distributed-sensing-and-machine-learning-hone-seismic-listening"
     type: article
     provider:
-      name: Georgia Tech News Center
-      domain: gatech.edu
-    quality: 39
+      name: Eos
+      domain: eos.org
+    quality: 59
     images:
-      - url: "https://www.cc.gatech.edu/sites/default/files/images/news-default-image%20-%20New.png"
-        width: 750
-        height: 422
+      - url: "https://eos.org/wp-content/uploads/2022/03/fiber-optic-cable-street-manhattan.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Partnership with Meta Brings New Online Machine Learning Resources to HBCUs"
-    excerpt: "Georgia Tech and Meta have launched a new co-teaching initiative, the Artificial Intelligence Learning Alliance (AILA), with the goal of bringing graduate-level machine learning educational opportunities to historically black colleges and universities (HBCUs) and other minority-serving institutions (MSIs)."
-    publishedDateTime: 2022-03-02T12:00:00Z
-    webUrl: "https://www.cc.gatech.edu/index.php/news/partnership-meta-brings-new-online-machine-learning-resources-hbcus"
+  - title: "Kanverse Delivers Industry Leading Autolearning Capabilities, Delivers End-to-End Insurance Document Processing Offering, and Much More!"
+    excerpt: "Kanverse, a Hyperautomation company, has announced the global launch of the Hematite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprise. Hematite release brings industry leading Autolearning to help organizations process new document types with up to 99."
+    publishedDateTime: 2022-03-01T10:37:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_1585e046-4cf2-514c-b641-215823c98c3d.html?block_id=531919"
     type: article
     provider:
-      name: Georgia Tech News Center
-      domain: gatech.edu
-    quality: 37
+      name: Daily News
+      domain: galvnews.com
+    quality: 0
     images:
-      - url: "https://www.cc.gatech.edu/sites/default/files/images/news-default-image%20-%20New.png"
-        width: 750
-        height: 422
+      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
+  - title: "SpongeTraining: Achieving High Efficiency and Accuracy for Wireless Edge-assisted Online Distributed Learning"
+    excerpt: "Edge-assisted Distributed Learning (EDL) is a popular machine learning paradigm that uses a set of distributed edge nodes to collaboratively train a machine learning model using training data. Most of existing works implicitly assume that the fixed amount of training data is pre-collected and dispatched from user devices to edge nodes."
+    publishedDateTime: 2022-03-03T13:31:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/9721661"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 0
 
 secured: "FQxtxK6qVTM/C1PKtDZqU/v10m6myjqgbk/oaSz9Gt3EEdaHz/fx9GBaa+oLg3leAKKVjPhxM8+7HJcWNzIF0kgA6odevwNgrabS+63LOEfjg9eP9u+FGg6qeKC7ywWj3SbsZvIApUBdT4srIOeLJtcztng0Ny3llTz4AvHCdKPLyTkpWNAg4677G3SQhN/1JdmWzgxyAIlWo1lmSV8H+6/sLpI0nS65frM/u9Qc4XBzEbpogaTMsZms0eVn6SZ4gqQpVkBFV37OXG+e7yfiRz/YTwtOUekXEJNl4oNfSEU3WTTb3zKWKX59/a0ZM0PkbWApWzKTgn0uCTLGd9A9XstT0VfJeXcGHzNVvWt+GBs=;8q/8nFZ7dIStRD2il0D3Ng=="
 ---

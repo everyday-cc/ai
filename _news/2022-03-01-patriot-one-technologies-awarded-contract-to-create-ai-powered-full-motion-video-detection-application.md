@@ -39,15 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Support Vector Machine based prediction of Work Life Balance among Women in Information Technology Organizations"
-    excerpt: "Supervised Machine Learning has been used in this study to create prediction model for the degree of Work-life balance (on a scale of 1-5) of Information Technology (IT) women professionals. 425 women working in the IT industry participated in this study."
-    publishedDateTime: 2022-02-27T22:20:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9716861/authors"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 0
 
 secured: "VSe/OZXebsC9ksZGb3vOJ9Rx5P3pp4dxHVAderIn0QoA7VRFfydYTVbKr4vsTfEauJ9M9NVmq2SpzPMr8e2515FNTOj+1+erx5Ck7WkdcbSoMkWohTQo/viR3Rz/3Aowqk2a3N3641ucqKXnCxq+E3weoER57AR+wUvlTyimH6HxHm3Lfjm8CwN3SPSuj3RapjHmviS5dvPvpN7KMP7Q1yyrISBLqJD7NYO8dDImt0xBtXeAdmIscmefYHFaxGiGc87GO5+c1suH1urstPPhksRte/GHoG0+iOto/YnSNKVHIzw8/1l3nsfEl1TqKxn+plrSgQ27Wd6p6OpKv4YK9bByGO4UTwvevcLIHq2kgY6Y0T50fCDQ/lSvMPfMiLBoVBbtyNmdKkhG0xBsW4vxIBovzk8k1prmgm1xBmFqlPgj0lAF9gmQMX114Js+OHLLz8Vax52aug06ROer9qU+0YSx5uXe86F+M7/JscoqDh73xH9hwzr3va8ajzxTSz4AecyhAv+voQ/MPPedwUu1yw==;vJei2IYTMmwpqou6cOkrLA=="
 ---

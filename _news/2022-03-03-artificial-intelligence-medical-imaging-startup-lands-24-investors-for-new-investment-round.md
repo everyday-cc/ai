@@ -4,13 +4,11 @@ title: "Artificial intelligence-medical imaging startup lands 24 investors for n
 excerpt: "Gradient Health, a startup aiming to improve medical imaging through the use of artificial intelligence, is finding plenty of investors for a new round of capital."
 publishedDateTime: 2022-03-03T13:56:00Z
 originalUrl: "https://wraltechwire.com/2022/03/03/artificial-intelligence-medical-imaging-startup-lands-24-investors-for-new-investment-round/"
-webUrl: "https://wraltechwire.com/2022/03/03/artificial-intelligence-medical-imaging-startup-lands-24-investors-for-new-investment-round/"
-ampWebUrl: "https://wraltechwire.com/2022/03/03/artificial-intelligence-medical-imaging-startup-lands-24-investors-for-new-investment-round/?amp=1"
-cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/03/03/artificial-intelligence-medical-imaging-startup-lands-24-investors-for-new-investment-round/?amp=1"
+webUrl: "https://www.cedars-sinai.org/newsroom/cedars-sinai-establishes-new-division-artificial--intelligence-in-medicine/"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 127
+heat: 137
+published: true
 
 provider:
   name: WRAL TechWire
@@ -20,9 +18,9 @@ topics:
   - AI
 
 images:
-  - url: "https://wraltechwire.com/wp-content/uploads/2018/04/artificial-intelligence-3.jpg"
-    width: 960
-    height: 640
+  - url: "https://content.presspage.com/uploads/2110/1920_ai-cedarsp-sinai.jpeg?10000"
+    width: 1799
+    height: 1200
     isCached: true
 
 related:
@@ -41,6 +39,6 @@ related:
         height: 345
         isCached: true
 
-secured: "H8j3cmKbmPeucPg1hzJXc+OHs4xyfD1ZPyBmhdZUoIvAd9tcHUocrtIUTeac3vfTbBVhjC6r07v4wlrARMbTajmmjKpq3b4DZvlS/KAdyQU5fGsLppctFa6BNGlOn1CoBnEICfOxrPzA6iGr13BzhEaIteofeLKFbL96VFlGmjgCqNKILQLYrY2cUz7Z3gttShNmlSCWgzUhxEVvV35dvvosss6O0ExLkg4ccoErWeK6lv1UkvyFVVScQnkoboyOQUeItrkcYg8Lwb74w22GdZ91eS5CULgaupBLIjcsQ4RpQjLr3W0Yuy/0h/a9KBpt+Y4/0hiSBS+uqn+sn9UWK32ZMGFH2RQiqKA33EWtHbX/wQa1okAHox6SfGs1BAkToIR8xYNakSAFhbB+xA1FcMUTOOIhqmUqkgnSLMVq6KcCzmx0o9Uc3aczTYtRqwFOzWLXE/WZvjNbDy6MiNkVZuvRU0iD8WOjpFO+R5nwugBsYKVFdeh9fJc/mg1Ogi5tzn8By1NJcyQFxm4c+WiqYQ==;DDl6zp6aN/Ue0/wggA+RFw=="
+secured: "pO5qn+XYfZ0GwlAHAkCfVSLFeugI8T3F2H4CvETnFmwluMKW/zHDqgOU/sKWNQmG8b5ESRvkXuwDBJIcgJjocwddgYgtiADGJyGkzksCEzT4nubnX4ttGxSnsNLUnXyV+imPVDp1Kt6MEe5bdNUXmfiTGnhlcyUr10prAa11858rY4WvuRXU+ZXi+cDyC04zn8YVzhGeDp3CYcn4DKd4fCQKcwAEPFDQ2Kk8q5ejIb6zLCv02szvKR1stywa4zj8q6NkKdFnhLkNSEOZwc5y6Yb3cIdC/61qSUDtVy+p8zdB6wYdx4bRdgVJPlkwZbsuybNdHe8c9pPwq3XCoA9LXI8zN4pMgohHuJcFkyhbgo4=;3NomGlMO6d9tEMlywfZM0Q=="
 ---
 

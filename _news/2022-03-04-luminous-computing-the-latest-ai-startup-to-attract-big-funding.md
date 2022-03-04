@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Luminous Computing The Latest AI-Startup To Attract Big Funding"
-excerpt: "Luminous Computing is one—and investors seem intrigued with its promise. The Mountain View, California-based supercomputer company closed a $105 million Series A Thursday from investors including Microsoft co-founder Bill Gates."
-publishedDateTime: 2022-03-03T16:46:00Z
-originalUrl: "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding"
-webUrl: "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding"
-ampWebUrl: "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding?amp"
+excerpt: "Mountain View, California-based Luminous Computing closed a $105 million Series A Thursday from investors including Microsoft co-founder Bill Gates as AI takes off again"
+publishedDateTime: 2022-03-03T17:46:00Z
+originalUrl: "https://news.crunchbase.com/news/luminous-computing-vc-funding-cerebra-bill-gates/"
+webUrl: "https://news.crunchbase.com/news/luminous-computing-vc-funding-cerebra-bill-gates/"
 type: article
-quality: 67
+quality: 137
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: crunchbase
+  domain: crunchbase.com
 
 topics:
   - AI
+
+images:
+  - url: "https://news.crunchbase.com/wp-content/uploads/2020/12/ai.png"
+    width: 900
+    height: 506
+    isCached: true
 
 related:
   - title: "Luminous Computing, which is developing a light-based AI accelerator chip, raises $105M"
@@ -30,7 +34,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 98
+    quality: 198
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1294874384.jpg?w=1200&strip=all"
         width: 1200
@@ -90,6 +94,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "oeOEaU9Bn8anKspjxDoCEmJGvp8Flx7IAd7SIi9Otpguhob2bWbzLKBmNg+5+/dynGNQb0YFtitu2RbWYiy2vrpHYD2pd31qEcRTYwJXCX7sMJL3LrhO0dMet/LRXQ4FzO21SyPF98lHdsAxh0WaPjLEZRR+4utZMzfnYCVCbspUFYoYwtubd4WOJkLtgtIAub2ESPaB7KHL5k581h2yRE9r3H8P1NWmzZpc2QfNyovn8HAtaYJjORuEw8X2k+vDumDu+RqcVAL0FQA5cV1VXomqK6ft9Vb1H41TDp+PGXcnaUpEaGY+sVtI/rRKGohAQlbsLMiotavSoWp3JkNPvDsSl0SA98d1XTmT4FrtGvyw5R+jeWH8KB3zWlTZp1qko3TRuQVqw44d1MFaKuUgQ66xX+O7d0RtPvsiuk01HfASLR+LD1nLne8o3qmOAYnz18V7m9qcyOaB0banfqXrFQDSUypJYoGvc6osTQQLKNpt3+TYwiWOYl1k4UlflK/isJqEc/FbwSgSbjvUgL08Uw==;c6VKhY9ptUQVHOv/et3B5Q=="
+secured: "YT+bY9/JRl+DeRTMcgNvafG2PYk4DqjXj9MmOeJqFtOEd/LGPNFniYAjAH5CNPp088+/sIYaY7H/ZvwL7FHveLe8g+4YYogGm9JPEBSvPgoFOseN1DJ8OYksy9HU4RQeA9DekJ+EX2sTlbtI3DDeKh49AtcvFgrufgWrJnsyABBKpKzvjXS443867tjuIxSHRNORp7bIGgzGxoL+cJDcIDkx3PKrTyqe/z3QCyxI8uYzgPHI+hpJ6Ym+G0A4lhtH8qArRkDMVFZ8x58kAHumU6hwzO92xy9l+8C4sN8lts4KEndJEFmPYQKG9gvngAOkbv33z+dPO6nsyKo0HPMIIyjGanVos25oGxZ1A2NpXDY=;wPxF/qPKUsYI/UWiOz4OmA=="
 ---
 

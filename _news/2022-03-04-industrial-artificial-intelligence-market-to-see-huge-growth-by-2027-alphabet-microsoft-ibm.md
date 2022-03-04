@@ -28,19 +28,93 @@ images:
     isCached: true
 
 related:
-  - title: "Get Microsoft 365 Under Control with CoreView, Now Available through Azure Marketplace"
-    excerpt: "CoreView today announced it is now the first and only Microsoft 365 Management Platform available for purchase via the trusted Azure Marketplace, allowing IT teams to purchase CoreView through Microsoft."
-    publishedDateTime: 2022-03-03T18:19:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=626148"
+  - title: "Microsoft completes acquisition of Nuance, ushering in new era of outcomes-based AI"
+    excerpt: "Microsoft Corp (Nasdaq: MSFT) on Friday announced the completion of its acquisition of Nuance Communications Inc. (Nasdaq: NUAN), a leader in conversational AI and ambient intelligence across industries including healthcare,"
+    publishedDateTime: 2022-03-04T14:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-completes-acquisition-of-nuance-ushering-in-new-era-of-outcomes-based-ai-1031255368"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 61
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://mma.prnewswire.com/media/1759379/msft_nuance_social_tile_0_0_1__1.jpg"
+        width: 400
+        height: 209
+        isCached: true
+  - title: "Microsoft’s new service helps health care organizations analyze multiple data types simultaneously"
+    excerpt: "The goal of Azure Health Data Services is to help organizations discover insights by bringing disparate data together and connecting it with tools for machine learning, analytics, and AI ..."
+    publishedDateTime: 2022-03-01T14:30:00Z
+    webUrl: "https://venturebeat.com/2022/03/01/microsofts-new-service-helps-health-care-organizations-analyze-multiple-data-types-simultaneously/"
+    ampWebUrl: "https://venturebeat.com/2022/03/01/microsofts-new-service-helps-health-care-organizations-analyze-multiple-data-types-simultaneously/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/01/microsofts-new-service-helps-health-care-organizations-analyze-multiple-data-types-simultaneously/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 75
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/How-healthcare-will-become-a-democratized-on-demand-service-01-e1618816638837.jpg?w=1200&strip=all"
+        width: 1200
+        height: 599
+        isCached: true
+  - title: "Wipro steady after earning Analytics on Microsoft Azure Advanced Specialization"
+    excerpt: "Wipro Limited on Tuesday announced that it has earned the Analytics on Microsoft Azure advanced specialization ... the value of data through insights and Artificial Intelligence (AI). At Wipro, we have been helping customers build an intelligent ecosystem ..."
+    publishedDateTime: 2022-03-02T07:55:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 70
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2021-04/30/full/1619762965-0815.png"
+        width: 350
+        height: 233
+        isCached: true
+  - title: "AI in Healthcare Market Next Big Thing | Major Giants Google, Microsoft, General Vision"
+    excerpt: "Advance Market Analytics published a new research publication on “Global AI in Healthcare Market Insights ... ai-in-healthcare-market Scope of the Report of AI in Healthcare Artificial intelligence (AI) in healthcare is the use of algorithms to manage ..."
+    publishedDateTime: 2022-03-01T07:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-healthcare-market-next-big-thing-major-giants-google-microsoft-general-vision"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 63
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Microsoft closes $16B acquisition of Nuance, launching a bold experiment in health AI"
+    excerpt: "Microsoft closed on a $16 billion acquisition of Nuance Communications Friday, and now AI’s next big health care experiment can begin."
+    publishedDateTime: 2022-03-04T14:00:00Z
+    webUrl: "https://www.statnews.com/2022/03/04/microsoft-closes-16-billion-acquisition-nuance-communications/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 47
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2022/03/GettyImages-1238869000-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Machine Learning in Communication Market Is Likely to Experience a Tremendous Growth in Near Future | Amazon, IBM, Microsoft, Google"
+    excerpt: "Global Machine Learning in Communication Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report"
+    publishedDateTime: 2022-02-28T03:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-in-communication-market-is-likely-to-experience-a-tremendous-growth-in-near-future-amazon-ibm-microsoft-google-2"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 25
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "JU9TpqAJ4AZEyK6spc6ToLWM3Wp5TFDIsZQVCak5sNxDw2JZukcDZwuMRYtwePFdKQs+TqxTS8w4d/lyKZ5Ht89yNIl3lvahFNsPTVmuKST15a3pA7Kp3W3hVDh5NG336lJpb3KOLh6V8m9VIxZIPX8+xMQB8kvSPZTj+p4rUrH22ZF005Z/lMYrgEvcOoQe7DCmtv53J+dsthrcYEGu1KqtsbjvcCFwlXeZvYSJgAHprWQAotW1YEHxC+LMS1eqgsvhUTj3VnlR89dS8vkyn05kXPxMPXWLtz+NvywFgjSdp9FdBPalermIQxqx73AFoz30L4vwM4djOfMLWvs7N9OFGZcjrlq0HINfEeFAv+Q=;mkpLKYPcmiLOxPR6Xr/SNw=="

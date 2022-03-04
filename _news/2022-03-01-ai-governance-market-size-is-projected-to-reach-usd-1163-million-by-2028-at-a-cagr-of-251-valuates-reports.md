@@ -75,20 +75,6 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 32
-  - title: "Healthcare Virtual Assistant Market To Reach USD 2.83 Billion By 2027 | Reports And Data"
-    excerpt: "The rising integration of artificial intelligence in healthcare, growing demand to improve healthcare facilities and increasing funding for improvement in"
-    publishedDateTime: 2022-02-27T22:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/healthcare-virtual-assistant-market-to-reach-usd-2-83-billion-by-2027-reports-and-data"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 30
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Computer Vision Market Size is expected to reach USD 19.75 billion by 2027. Computer Vision Market In depth Analysis Report"
     excerpt: "The latest report Global Computer Vision Market gives an essential review of the business including definitions, groupings, applications, and industry"
     publishedDateTime: 2022-02-28T11:24:00Z

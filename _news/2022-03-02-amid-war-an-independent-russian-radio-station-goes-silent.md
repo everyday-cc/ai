@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artif
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/amp/"
 type: article
 quality: 142
-heat: 152
+heat: 162
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/220228073436-meta-headquarters-020222-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Russian Invasion Highlights Growing Importance of Open Source Intelligence"
+    excerpt: "During a morning political opinion show on March 2, Marc Polymeropoulos, a retired CIA field agent and supervisor, said he is sure his former employer is scouring its intelligence sources for signs of cracks in the walls of oligarchs and military supporters of Russian President Vladimir Putin as the invasion of Ukraine grinds on."
+    publishedDateTime: 2022-03-04T14:00:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2022/03/russian-invasion-highlights-growing-importance-open-source-intelligence/362749/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 20
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/03/03/030322opensourceintelNG/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "jjCS4hXbQmjrN9XkiJ3YBO8nfv0utukpU1k3nvx5s63LdIf8SEPYkYB9AmmG5AHl0hc43/qQb2tdAQ1GepNvjxYKDv7jyia9Vdrat3gskdFv9TQpvuyag5vU+ZIznJhLSSrWfYanv6INSoRjS/dhyhHkDujwYqAS5wUHLpXV52ECaEArIKoEf+l2iia0igeaPNqkFl10IN8v+tcBubrvSfrQRKu23B6qA8eJHecEt5JKmb6GrkSydTip6RZqU2vawwy9dhSvuOCNQC5694UhhGeKWZhS3HOe49HQPb2QFkiOAMWHilZUrFboDHKun+beO9QyslHsPOqdOSpjlIMlPqf03Vr9yrb6298K0bK00v0DlUqW1OR/Pfepm3bMDWLSYZ1iWhYWNQ0M7vHXVjiLOHg4yj4Y9b1hGr/3CvJFp3QkpVXhKwoTQW70JjXFlqhydHcfb6ncdSWorCrYBNAVUH5mMVBuLbfGHj3306NKaZpH4FwvhiJZCb6pSamtvAMrWi46GSAe5WzqKclqv3ivKE3eofF6heQmnMN3GJenQ4k=;wOStlKWJdChdgMoEpVNv3w=="

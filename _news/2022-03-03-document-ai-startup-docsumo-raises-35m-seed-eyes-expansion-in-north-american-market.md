@@ -52,6 +52,20 @@ related:
         width: 772
         height: 399
         isCached: true
+  - title: "Visionary.ai Raises $2.5M in Funding"
+    excerpt: "Courtesy of Visionary.ai Visionary.ai, a Jerusalem, Israel-based computer vision startup, raised $2.5M in funding. The round, which brought the total amount raised to date to $7M, was led by Ibex Investors,"
+    publishedDateTime: 2022-03-04T13:28:00Z
+    webUrl: "https://www.finsmes.com/2022/03/visionary-ai-raises-2-5m-in-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/03/Visionary_ai.jpg"
+        width: 2048
+        height: 1363
+        isCached: true
 
 secured: "DxSjG04NSICwajWz9REni/KnG02pVDYg7y1jGkxghWwB8CDuWJKixM4YGXSsonwPLqPoJsC5Mdnpi7luIsCBPGtGSZh4ANqzLIHH00ZG3y6DOA94ZUNCx6RRbMA51h1hXl/QB+3ofPWlk4VQWKq7M6pjlfuVnuv3qsuhskbpwbH0i3tne9SAvmqPNIACT+/U2XDI93mZsn3axEUvN8XQxlJ7M7sjetUrY8tr4KTGTApsAP9KBqB3miIvc0PR+pelP5nfauwSANGpnJx8CL/wsm5vljzITo0sgltWOXaj4OrzKHkR8ySJJ0qjy16X12X1tnMbJlH/HZUA1pP4Vu6J123l3IlsK2JS3hPuEniwOjI=;BCCYa059buiXY8j2FFTx7g=="
 ---

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Baidu beats quarterly revenue estimates"
-excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. March 1 (Reuters) - Chinese search engine giant Baidu Inc BIDU.O reported ..."
+excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. March 1 (Reuters ..."
 publishedDateTime: 2022-03-01T08:53:00Z
 originalUrl: "https://www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates"
 webUrl: "https://www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates"
@@ -134,6 +134,6 @@ related:
         height: 480
         isCached: true
 
-secured: "EqMG7ZQiNFg3cb7ndC0b6TIe2241wuQb1aQtKN3RO7ycyd1PJ9CPjxdY71Ngs+PkkWarT1x0lcsR/DNE9Yh+DnFc/7LoRlwzy7z9UpYzFXrDC2ompb85Xygwo48WaSo+wryUyBXVHpklbHq+JL5ynXAA2WaVEM6Elzh+GfdMzyymxBsSlRsWtlk/liOrgOmPtoVUdC7WEGjVd4LbC5i3xUvFx2aBz9zE79wWGEXUhjBXyVul8Rk/L6idIioOnSyRQpDd4QMCPrsJqYj05pcoJtFW4YBAy82AEYSjFLUuwSBsSqqFuT/BAUOOWqifP9SYHdH1zqeX5mSGoEhS2BSbNfIQPtIPMVd/O1X7MvZna3E=;v9jjXywTphqoRdiHWn9MIA=="
+secured: "C5m/AzFMudiG88iJ8T7wcOI/t86kOsEYq+64tUWH8oUarRbOAAXyGdMRLglh2KcD///4f+miJIi0PlSPfjAEBhqNNhBdhroniuRAeEKjVIVWgyl9pvxIM+IlKRlEdtYogmqi7dZlQ7bEMcQ9Tn6p7hNnsSR35lYB1YTvfI1xOLW49WkEhxcpw6hKY3vpfyHxsxrnEvpB+2we3QOWhXsAf4ZYd5TXGnDJuRGHhsxqbHXgRMeqOft86R/+t1ihtVxsvfaXXC8/2/0Y8JdJMrpA5hbphWYopFei8duSxCwryyKHPDO8ryxmS264TwrirDk2I/5UjQqVsbA8iEd2t4E20E/XRPqHpoYpX1BO1Mq1GCg=;V7NsdUl17cDA4qxWlVfv1w=="
 ---
 

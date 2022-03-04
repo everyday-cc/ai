@@ -53,48 +53,6 @@ related:
         width: 327
         height: 432
         isCached: true
-  - title: "Smart Robot Market: Report Analysis, Share, Revenue, Growth Rate With Forecast Overview 2022-2031"
-    excerpt: "Comserve / -- The Smart Robot Market is expected to be around US$ 17 Billion by 2031 at a CAGR of 24% in the given forecast period. A smart robot is an artificial intelligence (AI) system that can learn from its environment and its experience and build on its capabilities based on that knowledge."
-    publishedDateTime: 2022-03-02T06:42:00Z
-    webUrl: "https://menafn.com/1103786468/Smart-Robot-Market-Report-Analysis-Share-Revenue-Growth-Rate-With-Forecast-Overview-2022-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 26
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?734142"
-        width: 374
-        height: 250
-        isCached: true
-  - title: "Military Robots Market Analysis by Trends, Size, Share, Company Overview, Growth and Forecast by 2027"
-    excerpt: "AM ''According to the study, the global military robots market size was USD 13.87 billion in 2019. The global impact of COVID"
-    publishedDateTime: 2022-02-28T10:41:00Z
-    webUrl: "https://menafn.com/1103773940/Military-Robots-Market-Analysis-by-Trends-Size-Share-Company-Overview-Growth-and-Forecast-by-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?749209"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "Artificial Intelligence in BFSI Market Growth, Analysis, Share, Company Profiles and Forecast by 2028"
-    excerpt: "AI in BFSI makes overall banking process easy on both ends; bank employees and customers, and also reduce cyber risks, money laundering, and frauds. AI"
-    publishedDateTime: 2022-03-02T13:43:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-bfsi-market-growth-analysis-share-company-profiles-and-forecast-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/6f36adb06597c8add3e517ea4970f7781a732f19-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "xof2THGpa4DMe7AQikonWU/dbZShq/VSL87UWfJVvKRhnwpYHetMfOyW74SmI/z9r/mztu+ANx95osy/XB6/11rtaFrNmtcmol9+ExrGxUk6moczxfInYncLsFBspxNB2rxc1+08rt8uGXXbos70lrRAn2zc43ee/Y5tFI31ZoGHajh6JYjAUnHVLUaqSsymIBXyr67AL2dmZJ+skDdjojICN6Z91CU0sCD0UtnwNGa7J/HponJbbTrlqhUsAXiWiPkXlSLjSP8943L+jXWfHe7eEkglVKdkrisT635wDlRe+1DRJ7mFVhbflZuNeqRcQFoesnRB70j62YRTmndxWZ9l7R6VAD7QweHDCZrxeSI=;5HUWW+znWtCDhJkUSVXkmQ=="
 ---

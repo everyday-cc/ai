@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning in Communication Market Is Likely to Experience a Tremendous Growth in Near Future | Amazon, IBM, Microsoft, Google"
-    excerpt: "Global Machine Learning in Communication Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report"
-    publishedDateTime: 2022-02-28T03:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-in-communication-market-is-likely-to-experience-a-tremendous-growth-in-near-future-amazon-ibm-microsoft-google-2"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 25
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Machine Learning in Manufacturing Market Is Likely to Experience a Tremendous Growth in Near Future | Intel, IBM, Siemens, GE, Google"
     excerpt: "Global Machine Learning in Manufacturing Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report"
     publishedDateTime: 2022-02-28T04:59:00Z

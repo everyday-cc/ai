@@ -9,8 +9,8 @@ ampWebUrl: "https://indiaeducationdiary.in/university-of-oxford-deepmind-donatio
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: India Education Diary
@@ -26,22 +26,6 @@ images:
     width: 400
     height: 400
     isCached: true
-
-related:
-  - title: "Swiss Plasma Center and DeepMind Use AI To Control Plasmas for Nuclear Fusion"
-    excerpt: "Scientists at EPFL’s Swiss Plasma Center and DeepMind have jointly developed a new method for controlling plasma configurations for use in nuclear fusion research. EPFL’s Swiss Plasma Center (SPC) has decades of experience in plasma physics and plasma control methods."
-    publishedDateTime: 2022-02-27T22:19:00Z
-    webUrl: "https://scitechdaily.com/swiss-plasma-center-and-deepmind-use-ai-to-control-plasmas-for-nuclear-fusion/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 51
-    images:
-      - url: "https://scitechdaily.com/images/Plasma-Inside-TCV-Tokamak.jpg"
-        width: 2214
-        height: 1244
-        isCached: true
 
 secured: "7E6cKavuuf6pOyqDyVobazZafo7bceMOCmzoj/+r8DAcmhJO8111bIBjv7M3ZWTGAHc4w256nicj2hT/gMhfF9zIuJK3IawdTli3dOAYX4r1o0FkPjDFr5ONgfhHSRuigDy8N6lu33X37Kn9lzCOIvHFQCiVNExkRM0gCGr3gndhVPJB1eAPY+TeaFnbKPDXn55+zFMQaH/tDiUYEVLN4lQ172tiAWaHtbV0grPm0L3lSE7/IbxBwfgUHnFrVffUU0DbDpxdhG+FM2ifo3zGJ+MH7xBJ5HYrV9PO3OpUjR8uWgHTTDLcappHkorgLlzg5xL7ginQDEf3rZfcLpptrcgzu1d7QaUgqsEx7bjFxUWU6bApukVbZUXUt7NqgDhwe1RQNQEPSdymwTYxi/3nvJhHcD0KnsiLTkbyjueR8eqleOn3Ygwsgf6S+me3A8/fd2wyfKq2Mw5IWnMKXhocMKGagieltPWkhZdAD5BzbjsPNk5y71Qzdqw3UvDHPwUP1ba/MdgxisFrJg8EfH2QyQ==;8/PxW1Z9Y7MYDnW38LI37A=="
 ---

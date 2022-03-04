@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pompeo In Taiwan Urges US Diplomatic Recognition"
+    excerpt: "Former US Secretary of State Mike Pompeo in a speech on Friday on a non-official visit to Taiwan called for the US to give diplomatic recognition to the self-ruled island China claims as its own territory."
+    publishedDateTime: 2022-03-04T13:29:00Z
+    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/pompeo-in-taiwan-urges-us-diplomatic-recognition-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/world-news/rest-of-the-world-news/pompeo-in-taiwan-urges-us-diplomatic-recognition-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/rest-of-the-world-news/pompeo-in-taiwan-urges-us-diplomatic-recognition-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 59
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/478trcpoez6o1bgm_1646400516.jpeg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "Mike Pompeo unofficially urges US to give diplomatic recognition to Taiwan"
     excerpt: "Former US Secretary of State Mike Pompeo on a non-official visit to Taiwan called for the US to give diplomatic recognition to the self-ruled island China claims as its own territory"
     publishedDateTime: 2022-03-04T07:53:00Z
