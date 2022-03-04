@@ -25,52 +25,97 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft’s new service helps health care organizations analyze multiple data types simultaneously"
-    excerpt: "The goal of Azure Health Data Services is to help organizations discover insights by bringing disparate data together and connecting it with tools for machine learning, analytics, and AI ..."
-    publishedDateTime: 2022-03-01T14:30:00Z
-    webUrl: "https://venturebeat.com/2022/03/01/microsofts-new-service-helps-health-care-organizations-analyze-multiple-data-types-simultaneously/"
-    ampWebUrl: "https://venturebeat.com/2022/03/01/microsofts-new-service-helps-health-care-organizations-analyze-multiple-data-types-simultaneously/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/01/microsofts-new-service-helps-health-care-organizations-analyze-multiple-data-types-simultaneously/amp/"
+  - title: "Predicting the future of AI and analytics in endpoint security"
+    excerpt: "Endpoint security is accelerating thanks to the aggressive use of AI and ML by bad actors intent on wreaking havoc for financial gain."
+    publishedDateTime: 2022-03-03T21:02:00Z
+    webUrl: "https://venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-analytics-in-endpoint-security/"
+    ampWebUrl: "https://venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-analytics-in-endpoint-security/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-analytics-in-endpoint-security/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 75
+    quality: 104
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/How-healthcare-will-become-a-democratized-on-demand-service-01-e1618816638837.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/8-Predicting-The-Future-AI-and-Analytics-In-Endpoint-Security.jpg?w=1200&strip=all"
         width: 1200
-        height: 599
+        height: 598
         isCached: true
-  - title: "Wipro steady after earning Analytics on Microsoft Azure Advanced Specialization"
-    excerpt: "Wipro Limited on Tuesday announced that it has earned the Analytics on Microsoft Azure advanced specialization ... the value of data through insights and Artificial Intelligence (AI). At Wipro, we have been helping customers build an intelligent ecosystem ..."
-    publishedDateTime: 2022-03-02T07:55:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html"
+  - title: "TCS AI-powered software for smart cities and customer analytics now on Azure Marketplace; Stock jumps"
+    excerpt: "TCS is a Microsoft Gold Partner with over 1,000 successful Azure engagements for more than 225 global customers."
+    publishedDateTime: 2022-02-28T06:16:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps-122022800032_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps-122022800032_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-ai-powered-software-for-smart-cities-and-customer-analytics-now-on-azure-marketplace-stock-jumps-122022800032_1.html"
     type: article
     provider:
       name: India Infoline
       domain: indiainfoline.com
-    quality: 70
+    quality: 59
     images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2021-04/30/full/1619762965-0815.png"
+      - url: "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tata-consultancy-services1-1421320501-007300.jpg"
         width: 350
         height: 233
         isCached: true
-  - title: "AI in Healthcare Market Next Big Thing | Major Giants Google, Microsoft, General Vision"
-    excerpt: "Advance Market Analytics published a new research publication on “Global AI in Healthcare Market Insights ... ai-in-healthcare-market Scope of the Report of AI in Healthcare Artificial intelligence (AI) in healthcare is the use of algorithms to manage ..."
-    publishedDateTime: 2022-03-01T07:59:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-healthcare-market-next-big-thing-major-giants-google-microsoft-general-vision"
+  - title: "Sonar announces the launch of Social Sentiment AI Analysis"
+    excerpt: "Sonar has announced the release of its Social Sentiment AI feature, scheduled to go live this week. It seeks to compete with other sentiment analysis services currently on the market, such as LunarCrush."
+    publishedDateTime: 2022-03-01T16:45:00Z
+    webUrl: "https://cointelegraph.com/press-releases/sonar-announces-the-launch-of-social-sentiment-ai-analysis"
+    ampWebUrl: "https://cointelegraph.com/press-releases/sonar-announces-the-launch-of-social-sentiment-ai-analysis/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/sonar-announces-the-launch-of-social-sentiment-ai-analysis/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 57
+    images:
+      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83Mjg5MGMxZjg3NDFkM2IxZTg1OTg2ZDQ3NDBmOTFhOS5qcGc=.jpg"
+        width: 740
+        height: 493
+        isCached: true
+  - title: "Ban predictive policing systems in EU AI Act, says civil society"
+    excerpt: "“I do not think you can solve this issue by tweaking the technology or trying to find AI to spot bias.” Speaking to the HAJC in October 2021, Karen Yeung – an interdisciplinary professorial fellow in law, ethics and informatics at Birmingham Law ..."
+    publishedDateTime: 2022-03-03T17:05:00Z
+    webUrl: "https://www.computerweekly.com/news/252514030/Ban-predictive-policing-systems-in-EU-AI-Act-says-civil-society?asrc=EM_EDA_208821168"
+    ampWebUrl: "https://www.computerweekly.com/news/252514030/Ban-predictive-policing-systems-in-EU-AI-Act-says-civil-society?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252514030/Ban-predictive-policing-systems-in-EU-AI-Act-says-civil-society?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+  - title: "Artificial Intelligence in Real Estate Market to Eyewitness Huge Growth by 2026 | IBM, Cape Analytics, Baidu Inc., Engel & Volkers"
+    excerpt: "Latest Released Artificial Intelligence (AI) in Real Estate market study has evaluated the future growth potential of Artificial Intelligence (AI) in Real Estate market and provides information and useful stats on market structure and size. The report is ..."
+    publishedDateTime: 2022-03-01T15:35:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-real-estate-market-to-eyewitness-huge-growth-by-2026-ibm-cape-analytics-baidu-inc-engel-volkers"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 63
+    quality: 22
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Ukraine-No-capitulation-AFP-1K-01-600x337.jpg"
         width: 600
         height: 337
         isCached: true
+  - title: "Cypriot fintech first to use AI-powered analytics tool"
+    excerpt: "Cyprus-based financial technology company SquaredFinancial announced on Tuesday that it will be the first organisation to utilise iQbyQi, an advanced retail trading analytics tool. “SquaredFinancial,"
+    publishedDateTime: 2022-03-02T06:30:00Z
+    webUrl: "https://cyprus-mail.com/2022/03/02/cypriot-fintech-first-to-use-ai-powered-analytics-tool/"
+    type: article
+    provider:
+      name: Cyprus Mail
+      domain: cyprus-mail.com
+    quality: 19
+  - title: "Syndigo Announces Strategic Partnership with Predica to Deliver Expanded Portfolio of Cloud-based Data Analytics Services"
+    excerpt: "Predica's Data & AI expertise extends across building highly scalable, cloud-based data warehousing solutions; implementing intelligent applications using Machine Learning techniques, and creating ..."
+    publishedDateTime: 2022-03-03T18:39:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1238738&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "tBzxhtQKkEwlt3NlW25oBUE6aMjn1zMPIXUVlR/64xPnHZWKylZMvASMipq43jMYDuAvUSsJ1NOkFum0Z6v/5y3AFDkHt9qYXVmERDhagg/kncPyNXWWDUTWLQ7Ans0q7x8Z07Efh6MuBdR66uA4stYqTr5WlVbTXrJngOT62H+wyMHOZdimjTDAkOsnkpnSXqlyegZ7OD9lnj5Gp7DcsjTEI7jNTA9J3N/51+61yYjP8Mj6g8IUo37fwhMZpN0Vvg7ekRB93l4/8eI6vgTlU2Z2SWpBJADb3DODA/yNaEVw+KDHCEZg4s0GoletVOBi8ZapqBxX1ZjsO7kc3KAwVTLwyDlYSNNHhi0FqSt/7exWNe49fJIE+4/vVyVrWThsj6OyteKuhtI5A02fCJ8KdsEySuM5wdWzA7vLkVVlzP+a7TXtEr7Ba5lqnxTbAp3QhnR4iq1gxhSoqXbT5ixt2PQpGkp/HgWuiHHXF3xXiMql0wx6iz60wzq2ljxjRRaL/IKI9uUPI4xtFrwnY/aYHw==;J1UrOdN3GJ8aLGdfRMHgUg=="
 ---

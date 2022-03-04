@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Global Call Centers Artificial Intelligence (AI) Market Report 2022: Market to Reach $3.5 Billion by 2026 from $1.1 Billion in 2020"
-excerpt: "The \"Artificial Intelligence (AI) in Call Centers - Global Market Trajectory & Analytics\" report has been added"
-publishedDateTime: 2022-03-02T09:23:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/03/g25930031/global-call-centers-artificial-intelligence-ai-market-report-2022-market-to-reach-3-5-billion-by-2"
-webUrl: "https://www.benzinga.com/pressreleases/22/03/g25930031/global-call-centers-artificial-intelligence-ai-market-report-2022-market-to-reach-3-5-billion-by-2"
-ampWebUrl: "https://www.benzinga.com/amp/content/25930031"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25930031"
+title: "Significance Of Ethical Artificial Intelligence (AI) Solutions"
+excerpt: "Solutions In recent years, Artificial Intelligence (AI) development has increased rapidly. Technology has steadily been integrated into the economic and industrial worlds and everyday life in South Af"
+publishedDateTime: 2022-03-02T12:21:00Z
+originalUrl: "https://www.linkedin.com/pulse/significance-ethical-artificial-intelligence-ai-solutions-mori-"
+webUrl: "https://www.linkedin.com/pulse/significance-ethical-artificial-intelligence-ai-solutions-mori-"
 type: article
-quality: 44
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: LinkedIn
+  domain: linkedin.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFwVY0KxvjkJA/article-cover_image-shrink_720_1280/0/1646223391635?e=1651708800&v=beta&t=fMFnMQ8xIPS63fJqndF-yZ4zQtXfeyjA6GPRYZBRXVU"
+    width: 720
+    height: 720
     isCached: true
 
 related:
@@ -42,20 +44,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "Significance Of Ethical Artificial Intelligence (AI) Solutions"
-    excerpt: "Solutions In recent years, Artificial Intelligence (AI) development has increased rapidly. Technology has steadily been integrated into the economic and industrial worlds and everyday life in South Af"
-    publishedDateTime: 2022-03-02T12:21:00Z
-    webUrl: "https://www.linkedin.com/pulse/significance-ethical-artificial-intelligence-ai-solutions-mori-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 69
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFwVY0KxvjkJA/article-cover_image-shrink_720_1280/0/1646223391635?e=1651708800&v=beta&t=fMFnMQ8xIPS63fJqndF-yZ4zQtXfeyjA6GPRYZBRXVU"
-        width: 720
-        height: 720
         isCached: true
   - title: "C3.ai (AI) to Report Q3 Earnings: What's in the Offing?"
     excerpt: "C3.ai AI is set to report third-quarter fiscal 2022 results on Mar 2. For the quarter, C3.ai expects revenues between $66 million and $68 million. The Zacks Consensus Estimate for revenues is currently pegged at $67."
@@ -84,6 +72,22 @@ related:
         width: 650
         height: 325
         isCached: true
+  - title: "Global Call Centers Artificial Intelligence (AI) Market Report 2022: Market to Reach $3.5 Billion by 2026 from $1.1 Billion in 2020"
+    excerpt: "The \"Artificial Intelligence (AI) in Call Centers - Global Market Trajectory & Analytics\" report has been added"
+    publishedDateTime: 2022-03-02T09:23:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/03/g25930031/global-call-centers-artificial-intelligence-ai-market-report-2022-market-to-reach-3-5-billion-by-2"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25930031"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25930031"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Enterprise Artificial Intelligence (AI) Market is Expected To Reach USD 59.17 Billion By 2028"
     excerpt: "USD 2,879.5 Million in 2020, Market Growth - CAGR of 45.3%, Market Trends – a Digitalization of enterprises. NEW YORK, NY, UNITED STATES, March 1, 2022 /EINPresswire.com / -- The global enterprise artificial intelligence (AI) market is forecast to reach USD 59."
     publishedDateTime: 2022-03-01T11:31:00Z
@@ -99,6 +103,6 @@ related:
         height: 300
         isCached: true
 
-secured: "nL/0d78r43og5B2cNyIvKRKM+2mI/0DlEBXInrWn1JgT1pAaCrsn+ZzkxY8i9iuyLsLgSfsvX+O890EbTowGLQaHwSbQfaVWEpsOxHdlgHI1EiNhqCpWvroDHtLVpFA+v0Jz/sTK1Sgf2y6o1WMVFF48ncYAjXvc78UrVG0DYFlf4ZcEOk5HFrRxV8eU4gtylgU1Jko5qUG0fDDfQqG6wos/Gg0uSl1PN7ZadClUlNGEzmXAU36iuRT77/Gi1beD4cS5JC2FeqqcXlqcDslnZLNUCmJVtxSznl0YpRCTMAdjihO/rGUJDYVIQPLZTV0148BGhEkw5x5vg2w+AajV+IGmhdv4mOp3CZJGfy5lSzs=;F12U/bI5ZX9dhw+c4UsSDQ=="
+secured: "TnNh6xZDQD7oXaO0BXkf8EOimIRLMwwqq2nCB0LCpZk3qsJdRJ3ZrSVHtlVImhizjWhYxrh9xdbMSbAayE17qWgJ5WBJK876NFYY1laaqtg4hM2jroPpZPlVgzUQ5dGSLGhzxuaPg6Iyr82rnUvBbaBuwfYWvtSEe3YcAhxhHz5VXCGeqYvjZCakMYnwlHEpwiREqa81hwUEZ6pEAvxpWXv5LzpoxVzVS4lPdZ1vRf96LQtGiJi0ZdVw249XzXF8d/FPB2gNuk7ERLM2Mm+S2O711UxrMNDf32AXzwlws+vU+P3TdsAlhNmQSDCPNK5hGdMGJrrPD9QH4oPvgWcEd+fPh02dnnE4mkL/ZX4OnFY=;/IHPJ1yCedthkQxPouQ+dA=="
 ---
 

@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu Beats Quarterly Revenue Estimates on AI, Cloud Services Strength"
+    excerpt: "Baidu has been doubling down on self-driving vehicles by leveraging the company's capabilities in artificial intelligence as it looks for alternative revenue streams to maintain its blistering ..."
+    publishedDateTime: 2022-03-01T09:11:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 69
   - title: "Baidu beats quarterly revenue estimates"
     excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. March 1 (Reuters) - Chinese search engine giant Baidu Inc BIDU.O reported ..."
     publishedDateTime: 2022-03-01T08:53:00Z
@@ -48,22 +59,6 @@ related:
     quality: 65
     images:
       - url: "https://www.reuters.com/resizer/b5ky09qDpXo-154NBC2uMt2xODA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R5CCSMV27FJZZG4ZP7ZY57QJIM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Baidu beats quarterly revenue estimates on AI, cloud services strength"
-    excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has been ..."
-    publishedDateTime: 2022-03-01T10:43:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-89923039,imgsize-62329,width-1200,height-628,overlay-etcio/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength.jpg"
         width: 1200
         height: 628
         isCached: true
@@ -136,6 +131,20 @@ related:
       - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-12-20/f989268d-b4f3-4488-8c8a-368ae807bc8d.jpeg"
         width: 800
         height: 480
+        isCached: true
+  - title: "Baidu Launches AI Platform to Enable on-Device, Real-Time Translation from Speech to Hand Gestures"
+    excerpt: "Baidu AI Cloud, a leading AI cloud provider, launched an AI sign language platform able to generate digital avatars for sign language translation and live interpretation within minutes. Released as a new offering of Baidu AI Cloud’s digital avatar platform XiLing,"
+    publishedDateTime: 2022-03-03T15:11:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/winter-olympics-technology-business-sports-beijing-9eb1fa4b9af75efea8f4fc18149c62f7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "dPITkh8OTNttSituvcduO7QdQuB6j6Wnj/HJn7f58ZO+9+wvw8eg0zvBausXViNQh+yWBJY2LZnz/T67hbxdJ0IEZZxxRDFeFSiTjxAmWdfJ+WzTPNU9+Nz+xoMtiO4Fgs+r0exhIaFnSVy4XTikQ/V2yqMrFUH2FHkxhqetbaUQvnlVtJejbKDIz2G4ToLGY6jzQjIlsnmvGG37pB5+wtWOqP8/fzz1glJBOgWrCEIAg6VoYQYXomLOZH6IXgbGCat0rZYA07dK0Uh9xkp68/zxABmWq2JgBIRTdGWtRDxS0HwnUEzND2F/2AWBT7p6+fRiLTlO0/yMv92XflnuyXVD0TnA7hVflE0U8vjb60c=;MYDPJ7kYB3CTr01iW/a4YQ=="

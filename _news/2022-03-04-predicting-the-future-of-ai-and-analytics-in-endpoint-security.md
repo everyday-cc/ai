@@ -1,40 +1,36 @@
 ---
 category: news
-title: "Cypriot fintech first to use AI-powered analytics tool"
-excerpt: "Cyprus-based financial technology company SquaredFinancial announced on Tuesday that it will be the first organisation to utilise iQbyQi, an advanced retail trading analytics tool. “SquaredFinancial,"
-publishedDateTime: 2022-03-02T06:30:00Z
-originalUrl: "https://cyprus-mail.com/2022/03/02/cypriot-fintech-first-to-use-ai-powered-analytics-tool/"
-webUrl: "https://cyprus-mail.com/2022/03/02/cypriot-fintech-first-to-use-ai-powered-analytics-tool/"
+title: "Predicting the future of AI and analytics in endpoint security"
+excerpt: "Endpoint security is accelerating thanks to the aggressive use of AI and ML by bad actors intent on wreaking havoc for financial gain."
+publishedDateTime: 2022-03-03T21:02:00Z
+originalUrl: "https://venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-analytics-in-endpoint-security/"
+webUrl: "https://venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-analytics-in-endpoint-security/"
+ampWebUrl: "https://venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-analytics-in-endpoint-security/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-analytics-in-endpoint-security/amp/"
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 104
+heat: 174
+published: true
 
 provider:
-  name: Cyprus Mail
-  domain: cyprus-mail.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
   - AI
+  - AI in Security
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/03/8-Predicting-The-Future-AI-and-Analytics-In-Endpoint-Security.jpg?w=1200&strip=all"
+    width: 1200
+    height: 598
+    isCached: true
 
 related:
-  - title: "Predicting the future of AI and analytics in endpoint security"
-    excerpt: "Endpoint security is accelerating thanks to the aggressive use of AI and ML by bad actors intent on wreaking havoc for financial gain."
-    publishedDateTime: 2022-03-03T21:02:00Z
-    webUrl: "https://venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-analytics-in-endpoint-security/"
-    ampWebUrl: "https://venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-analytics-in-endpoint-security/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-analytics-in-endpoint-security/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/8-Predicting-The-Future-AI-and-Analytics-In-Endpoint-Security.jpg?w=1200&strip=all"
-        width: 1200
-        height: 598
-        isCached: true
   - title: "TCS AI-powered software for smart cities and customer analytics now on Azure Marketplace; Stock jumps"
     excerpt: "TCS is a Microsoft Gold Partner with over 1,000 successful Azure engagements for more than 225 global customers."
     publishedDateTime: 2022-02-28T06:16:00Z
@@ -106,6 +102,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Cypriot fintech first to use AI-powered analytics tool"
+    excerpt: "Cyprus-based financial technology company SquaredFinancial announced on Tuesday that it will be the first organisation to utilise iQbyQi, an advanced retail trading analytics tool. “SquaredFinancial,"
+    publishedDateTime: 2022-03-02T06:30:00Z
+    webUrl: "https://cyprus-mail.com/2022/03/02/cypriot-fintech-first-to-use-ai-powered-analytics-tool/"
+    type: article
+    provider:
+      name: Cyprus Mail
+      domain: cyprus-mail.com
+    quality: 19
   - title: "Syndigo Announces Strategic Partnership with Predica to Deliver Expanded Portfolio of Cloud-based Data Analytics Services"
     excerpt: "Predica's Data & AI expertise extends across building highly scalable, cloud-based data warehousing solutions; implementing intelligent applications using Machine Learning techniques, and creating ..."
     publishedDateTime: 2022-03-03T18:39:00Z
@@ -116,6 +121,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "BxrnlxwNESixt5OpJGM3pSrU/V+UxTYpnMp3vYRNXYHSqYNNDhvn0gABv7WYpjxYaor/JXKhOFRHsxpKpSN596vmvU+Ipj6EpR55r0tmURIZCHp/X8W0n7HTTnvOUS7mbPsesOcsB4Nn2xbXRMnu/gFXdac/5jb2cESb3H7+7GcpG5YI6o6j2QhRXmul+M6a1wcHTRPzNY88W3qPv+om2U/T7FOcx6DgKzuJtrl8ngUcHq4LgzNua2u4LBUCz0gsWxGkTcuQIrjj+8wEoLt+jViZB2zzkgtf0JhZWpwnUKkesZgXkzhqVSWuN5ACF0pGVTypswcFYZ5GmcjJ4gsE+pSVDaKGwqEylAWWDOoUkz8=;JyL02IDuCGBurFKZpmYWCw=="
+secured: "qjzhsTGnZfEAMPhBy5wdMbe6rC+QEkQlU8Ph1PSvlSDqn5hNf00bSI9YNNFaoltJCLc4VQfuGTiVpLC6Vrv3+qx2jYXR457ZkcZn4cXDIp5fiCawf6f7ldd2rFIU/1wd/JYfDXwi7uRvmhMEVVi6qfYtUz/BwMvGM8elqfTN85HBOjMdJXOm7dEeSnYndGTV9J8PJFOp4eGtOc1TwKkqi14kH0STdAKYiHFpxQPrsyMgZmxQAoR1IciMQWj16D7sNAiecC1xYU7JInW4VkwrO2PJgdl7Kf8nfQtqyUkYEOYlgyicXIqAZjOH10GhCmKQqENhlOH65nWrhI8hvDim9OgIjfibCiSX2k3WV7cLRac=;UI7RBlj+JUUwDDi97UhKFQ=="
 ---
 

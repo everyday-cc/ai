@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/01/microsofts-new-service-helps-heal
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/01/microsofts-new-service-helps-health-care-organizations-analyze-multiple-data-types-simultaneously/amp/"
 type: article
 quality: 75
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png"
         width: 600
         height: 337
-        isCached: true
-  - title: "KX Insights to power Microsoft Azure customers with real-time analytics"
-    excerpt: "FD Technologies has announced a strategic partnership with Microsoft, to expand the reach of KX Insights to Azure customers"
-    publishedDateTime: 2022-03-02T12:24:00Z
-    webUrl: "https://www.information-age.com/kx-insights-to-power-microsoft-azure-customers-with-real-time-analytics-123498878/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 54
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2022/03/kx-insights-to-power-microsoft-azure-customers-with-real-time-analytics.jpeg.optimal.jpeg"
-        width: 1080
-        height: 486
         isCached: true
 
 secured: "Y6ZlWYvqPRoJ7wK9611/ZWNSldVZia8FGHlS07OGuIk3uI1eNlv2Q+Wj8oeOyebtifDKJapLmaoVLwq9JuJPqMvmud7KZAp5YOpz2eFWf0/cgevlvWkkdOQS1xIzOA3mVAVDigVqVDCcG22x4HuzcVCDSw+ON4PXrKoJgcuQvxiWfN4KNG7jlnUSLe3z/1/LR5qY6gIwOzwhHQ9JOnEbwmwDZe0JivbP66WqYMa2eULQelWmF6L/qMUpZ1OnzXktgbxaMCQDuCzNsnKYRd01AiuatQMqwbYa9d5+GJu274C+iEJh23YQonlrA7w+1KOBZb2VDT3vIYvro5aC5tz0rWt4CfyztUyzfGK+da3QwgoCis727jYzhATdJ1Sax7TuzJFdqjgRkCr643rNWwBzbJdDYpgjQot2lGLJoVJ/OX4yTGZFjmcWtEfCVcRIEeyNet9yKOxv/SNma8EJTJ2GkmqAKN1GnBq1QJH2ucLA4Ot2WN4oO2t2o6U1ruguTMsHSRpDkmgPLKh2aiNEvLXfDg==;PvAIP+E20lbsx0movbFgbw=="

@@ -42,6 +42,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Significance Of Ethical Artificial Intelligence (AI) Solutions"
+    excerpt: "Solutions In recent years, Artificial Intelligence (AI) development has increased rapidly. Technology has steadily been integrated into the economic and industrial worlds and everyday life in South Af"
+    publishedDateTime: 2022-03-02T12:21:00Z
+    webUrl: "https://www.linkedin.com/pulse/significance-ethical-artificial-intelligence-ai-solutions-mori-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 69
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFwVY0KxvjkJA/article-cover_image-shrink_720_1280/0/1646223391635?e=1651708800&v=beta&t=fMFnMQ8xIPS63fJqndF-yZ4zQtXfeyjA6GPRYZBRXVU"
+        width: 720
+        height: 720
+        isCached: true
   - title: "C3.ai (AI) to Report Q3 Earnings: What's in the Offing?"
     excerpt: "C3.ai AI is set to report third-quarter fiscal 2022 results on Mar 2. For the quarter, C3.ai expects revenues between $66 million and $68 million. The Zacks Consensus Estimate for revenues is currently pegged at $67."
     publishedDateTime: 2022-02-28T12:59:00Z

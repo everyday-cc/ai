@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-03T21:58:00Z
 originalUrl: "https://www.linkedin.com/pulse/sxsw-2022-round-up-cybersecurity-artificial-quantum-jay-mcguire"
 webUrl: "https://www.linkedin.com/pulse/sxsw-2022-round-up-cybersecurity-artificial-quantum-jay-mcguire"
 type: article
-quality: 32
+quality: 36
 heat: -1
 published: false
 
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQHDRZC5By0iSQ/article-cover_image-shrink_720_1280/0/1646335261752?e=1651708800&v=beta&t=FgDdpVZ3WM6XbAtx9Zq7xQkDbSpeC61GhX4H2hj-6nQ"
