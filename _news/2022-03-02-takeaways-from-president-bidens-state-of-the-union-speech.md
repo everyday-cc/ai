@@ -43,17 +43,6 @@ related:
         width: 1067
         height: 711
         isCached: true
-  - title: "On cusp of Biden speech, a state of disunity, funk and peril"
-    excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades."
-    publishedDateTime: 2022-03-01T04:30:00Z
-    webUrl: "https://www.theolympian.com/news/business/article258845368.html"
-    ampWebUrl: "https://amp.theolympian.com/news/business/article258845368.html"
-    cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/news/business/article258845368.html"
-    type: article
-    provider:
-      name: The Olympian
-      domain: theolympian.com
-    quality: 24
   - title: "Watch live: Biden addresses the nation in 1st State of the Union speech"
     excerpt: "President Joe Biden will vow to make Vladimir Putin “pay a price” for Russia’s invasion of Ukraine in his first State of the Union address, rallying allies abroad while also outlining his plans at home to fight inflation and the fading but still dangerous coronavirus."
     publishedDateTime: 2022-03-02T02:08:00Z

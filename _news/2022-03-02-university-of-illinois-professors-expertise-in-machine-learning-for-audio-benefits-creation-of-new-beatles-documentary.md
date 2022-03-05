@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "University of Illinois Professor’s Expertise in Machine Learning for Audio Benefits Creation of New Beatles Documentary"
-    excerpt: "From the first time he used a synthesizer, Illinois Computer Science professor Paris Smaragdis knew that he wanted to learn how technology could make or alter music. What's followed is a career in academia that centered his Artificial Intelligence research on the question: What does it mean to take a stream of sound and then break it down into its individual components?"
+    excerpt: "From the first time he used a synthesizer, Illinois Computer Science professor Paris Smaragdis knew that he wanted to learn how technology could make or alter music. What’s foll"
     publishedDateTime: 2022-03-05T14:00:00Z
-    webUrl: "https://insidebigdata.com/2022/03/05/university-of-illinois-professors-expertise-in-machine-learning-for-audio-benefits-creation-of-new-beatles-documentary/"
+    webUrl: "https://insidebigdata.com/tag/beatles/"
     type: article
     provider:
       name: insidebigdata.com
       domain: insidebigdata.com
-    quality: 15
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2022/03/UIllinois_Beatles.jpg"
-        width: 512
-        height: 284
-        isCached: true
+    quality: 0
 
 secured: "9GC+W+GVb0fvh2f61vlKTgfpV6eHoV/S0WtbtSVfWSi+cGhdGt9mazqGvRthzm7VCb/9tkFYkIGVYKP6XU2zonADcBku1p/KxMc1VDeqepLTZ9LYSGlxfciI92KFfFmzyvudHef9lUhUdafN/zvHK3vrXg8sJk5PkXm7A18qtc8dhIT9RSUJoCByW8Zj+fzJcbaKLg2VfpSC83RZjm6VMQbV5B9N7JW5/pLxKbC+WTy1p03At7NKzmBnPGu7Rj4QdMchh8D/RHNiHcO6pbpI7izwqCtyHfYewmp5qgT4y4xwYgBMR00Z0j6cOm8EmOjD4bwZLDtv0qnYPAxn9tFv0Ccj2hXfDrDeCjcMPlVC7GFD295j/y2DzPgnaIG9dl+X/JQKhtcc6ZAbTCTUiWweirkA1e0EcEGoVZZ+Gx84dNrCSwLGO38vVii+oJdKhqjOvXgXYUJ1IC0ugac0qazPJVwh/vesX2F4oPdcHbFiVFPEziRgyWINd1xmDYKyr8e03nq9KjgphT7bjnxbsA84iA==;atQ6gSNWE1CrULnSguxjxw=="
 ---

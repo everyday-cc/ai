@@ -1,28 +1,32 @@
 ---
 category: news
 title: "VMware, Nvidia team up on AI-powered hybrid cloud platform"
-excerpt: "To make the move, VMWare has partnered with Nvidia, the processor maker with a market share of 80% graphics processing unit (GPU). Nividia has become the most successful chip maker to use AI in silicon, thanks to its long history of making game chips."
-publishedDateTime: 2022-02-15T12:03:00Z
-originalUrl: "https://enterprisetalk.com/quick-bytes/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/"
-webUrl: "https://enterprisetalk.com/quick-bytes/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/"
-ampWebUrl: "https://enterprisetalk.com/quick-bytes/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/"
-cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/"
+excerpt: "With this integration of platforms, VMware claims that VCF 4.4 brings improved AI and ML workload support and the capability to share virtual GPU’s — a relatively recent advancement — across ..."
+publishedDateTime: 2022-02-15T08:01:00Z
+originalUrl: "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/"
+webUrl: "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/"
+ampWebUrl: "https://venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/14/vmware-nvidia-team-up-on-ai-powered-hybrid-cloud-platform/amp/"
 type: article
 
 provider:
-  name: enterprisetalk
-  domain: enterprisetalk.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/VMware_-Nvidia-team-up-on-AI-powered-hybrid-cloud-platform-01.jpg"
-    width: 1200
-    height: 676
+  - url: "https://venturebeat.com/wp-content/uploads/2013/09/hybrid.jpg?w=1200&strip=all"
+    width: 708
+    height: 472
     isCached: true
 
-secured: "g7/jQTIwwm65/9WFEE7+XK8dxji5qZAKw49yJIn0oBlsgdYkd/ARpPM2ffIIPiV6EPPypWBdjmC+Vx48iFRBb5K5IOAJrVuBeeI/2Q1ADtfhFe3WwAK/8FvNmvW0UyTvsECv1HcJjNAC6qADEwW+Y3qHm8j38m820FQBoWIQID2DZQu2fW7SW9YKIE96+VdMn7LFUCuJS1ZEWK5nBP2SDbOrOdnxaZO3N4Ds7eFzp8wQv2yjRbhNhQY2pjn9ThySpGtsuuy0W3nJT5J5OPgYJEYSQ31ZzFUFNeJAJytZOQKXPcsn1Ys4QnsxztfeEKCNL44gXacimYSu/SL0R+MGtfgkDWX1kxwpI35Jh5+EdYsFMpA7QMo5iq8AvNgf+c4LDnURWv1RML1YeWqP/ut20cMNZj0LOcPQMiBB0LZQMICvzO7LKYSgXqAB0bTTH45l1CGUpHedgs5WHQlDXphmMBYr3+KKBus++mRRZLOY02ids76zlFrzFazzLNeKM/OgxGHUtIXQ48puGujjOdowqA==;S3LbG+IVs+dBUoULPND65g=="
+secured: "YdFXH+JIVy9rRZoKWc6/c3PafqndU6DQMKnlJQ6HFnAiXUKJYcgmel7IdBtffcf5EOI4HDeJ2WuiRlbLfMc6n2IvCCpW2zIR+vip5fHDiVqEP2YMScIKK+Rd7NDviLJkz8qQ6Z8hw2KWCpKhuKSPvzGw2xaSDOb1Q/Rr67H0fS3F8Vx6S5LJeO7y7h1p8SfP/zw1A4WVHoj8LK5vrgHnowqCs+dozU1acEttLs2ONWJyeBtQNO6KfIsfrwICnPK22SQsqfY9rcj8OE5VQeQ6RTngigOME3eR8zumuppRLANQC09+9d+HfAF7dv1HWAQzy+JYb/uuxe1mK+HwEn7TGH5j6Q2hm+UkdFayL3Z08MY=;Sn59XJkKmFhZsVZbSN3cOw=="
 ---
 

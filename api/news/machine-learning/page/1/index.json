@@ -48,49 +48,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-04-distributed-sensing-and-machine-learning-hone-seismic-listening.md",
-      "title": "Distributed Sensing and Machine Learning Hone Seismic Listening",
-      "excerpt": "Fiber-optic cables can provide a wealth of detailed data on subsurface vibrations from a wide range of sources. Machine learning offers a means to make sense of it all.",
-      "sourceUrl": null,
-      "webUrl": "https://eos.org/features/distributed-sensing-and-machine-learning-hone-seismic-listening",
-      "originalUrl": "https://eos.org/features/distributed-sensing-and-machine-learning-hone-seismic-listening",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eos.org/wp-content/uploads/2022/03/fiber-optic-cable-street-manhattan.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://eos.org/features/distributed-sensing-and-machine-learning-hone-seismic-listening",
-      "cdnAmpWebUrl": "https://eos-org.cdn.ampproject.org/c/s/eos.org/features/distributed-sensing-and-machine-learning-hone-seismic-listening",
-      "publishedDateTime": "2022-03-04T05:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eos",
-        "domain": "eos.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-04-fingerprint-machine-learning-technique-identifies-different-bacteria-in-seconds.md",
       "title": "'Fingerprint' machine learning technique identifies different bacteria in seconds",
       "excerpt": "There may be a quicker, more accurate process according to researchers at KAIST. By teaching a deep learning algorithm to identify the \"fingerprint\" spectra of the molecular components of various ...",
@@ -1414,6 +1371,50 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-paving-the-way-for-ai-and-machine-learning-success.md",
+      "title": "Paving the way for AI and Machine Learning success",
+      "excerpt": "Simith Nambiar, Practice Lead, Emerging Tech, APJ, Rackspace Technology, tells us how businesses can overcome the challenges they experience with their Artificial Intelligence/Machine Learning efforts ... Program in Finance, financial institutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/",
+      "originalUrl": "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/02/AdobeStock_295768020.jpg",
+          "width": 1000,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "intelligentcio.com",
+        "domain": "intelligentcio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI",
         "Machine Learning"
       ]

@@ -9,8 +9,8 @@ ampWebUrl: "https://eos.org/features/distributed-sensing-and-machine-learning-ho
 cdnAmpWebUrl: "https://eos-org.cdn.ampproject.org/c/s/eos.org/features/distributed-sensing-and-machine-learning-hone-seismic-listening"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Eos
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Xpeer AI-Enhanced Matching Service is Helping Businesses Tackle Sourcing and Outsourcing Challenges"
-    excerpt: "Across a broad range of services, the Xpeer AI adopts a new technological approach in assisting business executives make winning decisions, limiting the"
-    publishedDateTime: 2022-03-01T03:35:00Z
-    webUrl: "https://www.digitaljournal.com/pr/xpeer-ai-enhanced-matching-service-is-helping-businesses-tackle-sourcing-and-outsourcing-challenges"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "SpongeTraining: Achieving High Efficiency and Accuracy for Wireless Edge-assisted Online Distributed Learning"
     excerpt: "Edge-assisted Distributed Learning (EDL) is a popular machine learning paradigm that uses a set of distributed edge nodes to collaboratively train a machine learning model using training data. Most of existing works implicitly assume that the fixed amount of training data is pre-collected and dispatched from user devices to edge nodes."
     publishedDateTime: 2022-03-03T13:31:00Z

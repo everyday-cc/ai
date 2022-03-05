@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/mobile/5g/364038/att-and-ibm-co-develop-ai
 webUrl: "https://www.itpro.co.uk/mobile/5g/364038/att-and-ibm-co-develop-ai-5g-and-hybrid-cloud-simulation-center"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
     quality: 59
     images:
       - url: "https://assets.telecomtv.com/assets/telecomtv/microsoft-azure-azure-operator-distributed-services-13819.jpeg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AT&T and IBM Bring the Power of 5G, Hybrid Cloud and AI to Drive Innovation for Clients Across Industries"
-    excerpt: "AT&T and IBM have been co-innovating and helping enterprise clients transform for more than 20 years. Most recently, the two companies announced plans to"
-    publishedDateTime: 2022-03-01T04:44:00Z
-    webUrl: "https://www.telecomtv.com/content/5g/at-t-and-ibm-bring-the-power-of-5g-hybrid-cloud-and-ai-to-drive-innovation-for-clients-across-industries-43777/"
-    ampWebUrl: "https://www.telecomtv.com/content/5g/at-t-and-ibm-bring-the-power-of-5g-hybrid-cloud-and-ai-to-drive-innovation-for-clients-across-industries-43777/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/5g/at-t-and-ibm-bring-the-power-of-5g-hybrid-cloud-and-ai-to-drive-innovation-for-clients-across-industries-43777/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 40
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
         width: 1200
         height: 675
         isCached: true

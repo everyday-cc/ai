@@ -1,29 +1,27 @@
 ---
 category: news
-title: "AWS and Bundesliga Debut Two New Match Facts Giving Fans Insight into Germany's Top Football Players and Teams"
-excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
-publishedDateTime: 2022-03-02T09:40:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/03/b25929444/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-player"
-webUrl: "https://www.benzinga.com/pressreleases/22/03/b25929444/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-player"
-ampWebUrl: "https://www.benzinga.com/amp/content/25929444"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25929444"
+title: "AWS and Bundesliga Debut Two New Match Facts Giving Fans Insight into Germany’s Top Football Players and Teams"
+excerpt: "(NASDAQ: AMZN), and the Bundesliga, Germany’s top national football league, today announced two new Bundesliga Match Facts powered by AWS to give fans deeper insights into action on the pitch. The new Match Facts,"
+publishedDateTime: 2022-03-02T09:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-soccer-sports-business-europe-8d35b980b6f3406aba67c246c5169b5c"
+webUrl: "https://apnews.com/press-release/business-wire/technology-soccer-sports-business-europe-8d35b980b6f3406aba67c246c5169b5c"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -72,6 +70,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "KuATey1fRXxozBZ72aymGh5soOik2ZmLDOBTK/anX9K5afSFLZKDq7epTPIXtllKYiUGQJ99zVJMcxdnQwKjqWKsDnZjM3mMMEgKxlEVVbYaokDbjaXEfj2I5v7w2IiQUZY3rJY7aWcYhSycvzPEO9X1h+k9fTFOJnvdPa7vq67R+UXlmnDa+GD/UeCWGctgSwzSNX8G4h0pmrhGawxKChmO20EPHM+pcWUfxOFh6ZQIf1+/KFSeGic8j517njMv8cnjjq71dGgrDdk73YIivaiCJlPmNJ6QiiwxONVXak3rqjnkBrGZx7PDhlHJXXXeridBj/QHKZ9DAwRCGvliIG+gkuSTsY5qz3hvL9TrJMc=;P552RXJ8AXHlt/v2ssKEqQ=="
+secured: "iDrvFL3aNrwTW/2IUxw3IqHp/gL7GCA3Asw4idwPsBmle7HT18EmmPf5n82Q77QmlJZMRP9hffcQPDYdjlycivEOKlcZhDsvIThh12wshUr27jyI2YlTq+OfuPJalkCkWd6P7t34zq5Q4YY/fzbdnaYsuyzthd2/4FwHFbLgtJ27XyE7CeoSCqibT3kRYkzMlBiKLXvgGoad2PM75vdtFgb5EGGyKpCoYP3iW+3vA5AzTM7+QtgsixRUzuNhDpK3gNMLrwMlKbASOIIoH/nyKRwjQMYaJHRF47LcjVMfJWE08jn3tJ2ApKS1vStfgRR25V12hChTtkisuF7335SAR9f34tkaEFVENdrWwAt1YwQ=;9B06aHuYjICa2gF3H5ErfQ=="
 ---
 

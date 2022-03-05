@@ -637,49 +637,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-04-distributed-sensing-and-machine-learning-hone-seismic-listening.md",
-      "title": "Distributed Sensing and Machine Learning Hone Seismic Listening",
-      "excerpt": "Fiber-optic cables can provide a wealth of detailed data on subsurface vibrations from a wide range of sources. Machine learning offers a means to make sense of it all.",
-      "sourceUrl": null,
-      "webUrl": "https://eos.org/features/distributed-sensing-and-machine-learning-hone-seismic-listening",
-      "originalUrl": "https://eos.org/features/distributed-sensing-and-machine-learning-hone-seismic-listening",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eos.org/wp-content/uploads/2022/03/fiber-optic-cable-street-manhattan.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://eos.org/features/distributed-sensing-and-machine-learning-hone-seismic-listening",
-      "cdnAmpWebUrl": "https://eos-org.cdn.ampproject.org/c/s/eos.org/features/distributed-sensing-and-machine-learning-hone-seismic-listening",
-      "publishedDateTime": "2022-03-04T05:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eos",
-        "domain": "eos.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-04-fingerprint-machine-learning-technique-identifies-different-bacteria-in-seconds.md",
       "title": "'Fingerprint' machine learning technique identifies different bacteria in seconds",
       "excerpt": "There may be a quicker, more accurate process according to researchers at KAIST. By teaching a deep learning algorithm to identify the \"fingerprint\" spectra of the molecular components of various ...",
@@ -1212,6 +1169,49 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-04-prescription-for-advancing-healthcare-artificial-intelligence.md",
+      "title": "Prescription for Advancing Healthcare: Artificial Intelligence",
+      "excerpt": "From Drug Discovery to Triage, AI Deployed Against Top Challenges",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/305679/prescription-for-advancing-healthcare-artificial-intelligence.html",
+      "originalUrl": "https://www.cio.com/article/305679/prescription-for-advancing-healthcare-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/03/research_biology_microscope_healthcare_science_1200x800-1.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/305679/prescription-for-advancing-healthcare-artificial-intelligence.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/305679/prescription-for-advancing-healthcare-artificial-intelligence.html/amp",
+      "publishedDateTime": "2022-03-03T10:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

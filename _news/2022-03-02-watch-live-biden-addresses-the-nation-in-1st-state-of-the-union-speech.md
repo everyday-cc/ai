@@ -58,17 +58,6 @@ related:
         height: 675
         isCached: true
   - title: "On cusp of Biden speech, a state of disunity, funk and peril"
-    excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades."
-    publishedDateTime: 2022-03-01T04:30:00Z
-    webUrl: "https://www.theolympian.com/news/business/article258845368.html"
-    ampWebUrl: "https://amp.theolympian.com/news/business/article258845368.html"
-    cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/news/business/article258845368.html"
-    type: article
-    provider:
-      name: The Olympian
-      domain: theolympian.com
-    quality: 24
-  - title: "On cusp of Biden speech, a state of disunity, funk and peril"
     excerpt: "President Joe Biden's fellow Americans, though, have other ideas about the state they're in and little hope his State of the Union address Tuesday night can turn anything around."
     publishedDateTime: 2022-03-02T18:51:00Z
     webUrl: "https://www.cleburnetimesreview.com/news/on-cusp-of-biden-speech-a-state-of-disunity-funk-and-peril/article_217555f6-9a62-11ec-8953-37fc1559d215.html"

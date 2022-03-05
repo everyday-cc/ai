@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Xpeer AI-Enhanced Matching Service is Helping Businesses Tackle Sourcing and Outsourcing Challenges"
-    excerpt: "Across a broad range of services, the Xpeer AI adopts a new technological approach in assisting business executives make winning decisions, limiting the"
-    publishedDateTime: 2022-03-01T03:35:00Z
-    webUrl: "https://www.digitaljournal.com/pr/xpeer-ai-enhanced-matching-service-is-helping-businesses-tackle-sourcing-and-outsourcing-challenges"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "sO9bhgWCDPQzYrt9x0e+txorZa9HFE4rm1r+jwr39BVcoflaHZEPAUvd0Sft42/6hq0icDFlTD6SGglKrVcBVmkTBSoHdC20kgOABWRtwFyKANrKpQhMBSTilVekxTTkJnDWFoEaFB+8lYx1smXAMb2oWDqsqSz+szQ2kpOmKGrJcTPXo5NjYjvrcwzAyivqpD9HZ9d4l8fufjbxDQZjUD/6xApHy2ffNdsBG9eGRX2+SBFNSh3R9B9DYHo7JMh+KrVoQ/kXDJnryqrWfGzrTsb9VKjnep87Up65LzQsFS61AFkOAIXlMCivZuI+WV03P0OgiUxY9P102AaVHKtxnOOAmh0fPCG0mVWkV4zSJok=;Z6STF8x2earx9+bCZfrfag=="
 ---
