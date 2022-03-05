@@ -41,22 +41,6 @@ related:
         width: 1536
         height: 864
         isCached: true
-  - title: "New AI Tool Helps Detect Hard-to-Diagnose Heart Disease"
-    excerpt: "A new artificial intelligence (AI) tool created by physician-scientists in the Smidt Heart Institute at Cedars-Sinai was able to detect two types of heart disease that are typically hard to diagnose,"
-    publishedDateTime: 2022-02-28T15:12:00Z
-    webUrl: "https://healthitanalytics.com/news/new-ai-tool-helps-detect-hard-to-diagnose-heart-disease"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/new-ai-tool-helps-detect-hard-to-diagnose-heart-disease"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/new-ai-tool-helps-detect-hard-to-diagnose-heart-disease"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 57
-    images:
-      - url: "https://healthitanalytics.com/images/sized/AI_Imaging_Techniques-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 276
-        isCached: true
   - title: "AI helped protect businesses from COVID-19 risks"
     excerpt: "A new study has found that artificial intelligence (AI) apps helped protect small and medium-sized businesses against many of the risks that emerged during the COVID-19 pandemic—yet only a quarter of small firms currently use them."
     publishedDateTime: 2022-03-04T15:34:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-se
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://kuow-prod.imgix.net/store/6023b3dacd9aac14703ea05a20f4c3e4.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
         width: 942
         height: 628
-        isCached: true
-  - title: "Tesla Full Self-Driving Beta Is Now Available To Drivers In Canada"
-    excerpt: "Tesla Full Self-Driving beta is now available to drivers in Canada. Here is everything you need to know about this."
-    publishedDateTime: 2022-02-28T15:25:00Z
-    webUrl: "https://www.redmondpie.com/tesla-full-self-driving-beta-is-now-available-to-drivers-in-canada/"
-    type: article
-    provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 54
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "You can catch a ride with a self-driving car in SF"
     excerpt: "Now you can catch a ride with a self-driving car. It’s similar to using other ride shares, except this time no one is driving the car that’s getting y"

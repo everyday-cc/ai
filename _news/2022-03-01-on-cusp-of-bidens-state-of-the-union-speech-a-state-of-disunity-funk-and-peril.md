@@ -70,20 +70,6 @@ related:
       name: The Olympian
       domain: theolympian.com
     quality: 24
-  - title: "On cusp of Biden speech, a state of disunity, funk, peril"
-    excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades. In their State of the Union speeches, they declare “the state of our union is strong” or words very much like it."
-    publishedDateTime: 2022-02-28T16:35:00Z
-    webUrl: "https://www.mauinews.com/uncategorized/2022/02/on-cusp-of-biden-speech-a-state-of-disunity-funk-peril/"
-    type: article
-    provider:
-      name: The Maui News
-      domain: mauinews.com
-    quality: 24
-    images:
-      - url: "https://s3.amazonaws.com/ogden_images/www.mauinews.com/images/2018/02/20104449/fb.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Watch live: Biden addresses the nation in 1st State of the Union speech"
     excerpt: "President Joe Biden will vow to make Vladimir Putin “pay a price” for Russia’s invasion of Ukraine in his first State of the Union address, rallying allies abroad while also outlining his plans at home to fight inflation and the fading but still dangerous coronavirus."
     publishedDateTime: 2022-03-02T02:08:00Z

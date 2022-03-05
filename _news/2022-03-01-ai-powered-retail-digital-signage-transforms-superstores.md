@@ -7,7 +7,7 @@ originalUrl: "https://www.computerworld.com/resources/231362/ai-powered-retail-d
 webUrl: "https://www.computerworld.com/resources/231362/ai-powered-retail-digital-signage-transforms-superstores"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 300
     height: 300
     isCached: true
+
+related:
+  - title: "Why AI and Robotics are the Key to True Digital Transformation"
+    excerpt: "Artificial Intelligence (AI) and robotics are terms used to describe machines with human-like abilities, or the simulation of natural intelligence in machines, that is programmed to learn and mimic the actions of humans."
+    publishedDateTime: 2022-03-03T11:40:00Z
+    webUrl: "https://za.investing.com/news/why-ai-and-robotics-are-the-key-to-true-digital-transformation-2515818"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 71
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
+        isCached: true
 
 secured: "99ctrpwJYVOgL0EKCQbI6XeVZ+dL0k9fggEk4iGNrtaUst8/TjgyPaWfux93KNsK5IPANsJwRWiKaqNUeAZrXpxSzYMS49OqO1dR//ZWY1zN7FBqVzu4wlVpZa7a5Wtr2p8Kwk3ulNFJmxX/g/b9bS6O7HFTc2estggrua2GmB6SyvLvZAuCRaA3Lsx6iFwFH6AC3v8T46mXw1IfpoMJOCsJt+lFzu9FPl7WJ4zelsBgyGD6XhLNc7kK7rVm+Tt8O4fL+dmJmQ1L9+EEgXrUrfxRCQfL+wvpyFGr3uUgUt7sKanPCxqwqY2mVyvCIA7pNKeI5kHdvkGTNWqFRvphv5pTjGAz/GNf8zCdbRw2vV9Mhow5QiTe4qiWCuv7CpotG2aJ3iPzgta4Yrex0Ab2W7yd0G7hVDrOnNSNg8Opga4Tu4YLTFb18De4N0LXp5KHLbxLw0eaj4KGJhhmzcAGoxTMACiZ2kZGvf7/etLoFJeE7snATzmZkXu3a7Qu3TnR861/pJsF1npWlQt23JdHIg==;dLHkpnEWT3qAWCoK5hh5nQ=="
 ---

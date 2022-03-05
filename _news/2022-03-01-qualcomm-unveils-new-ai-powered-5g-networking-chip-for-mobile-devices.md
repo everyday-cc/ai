@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 713
         isCached: true
-  - title: "Snapdragon X70 5G modem packs an AI processor to improve signal strength and power efficiency"
-    excerpt: "The AI suite in the new Snapdragon X70 5G modem-RF system will assist ... It’s no slouch in the speed department, either, as the chip is capable of theoretical download speeds of up to 10 Gbps to offer “fiber-like browsing speeds and latency.”"
-    publishedDateTime: 2022-02-28T16:19:00Z
-    webUrl: "https://www.techspot.com/news/93581-snapdragon-x70-5g-modem-packs-ai-processor-improve.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/93581-snapdragon-x70-5g-modem-packs-ai-processor-improve.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93581-snapdragon-x70-5g-modem-packs-ai-processor-improve.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 78
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/02/2022-02-28-image-19.jpg"
-        width: 2434
-        height: 1447
-        isCached: true
   - title: "Qualcomm Announces X70 Modem, Joining AI & 5G For Better Connections"
     excerpt: "Qualcomm has now officially announced its next-generation 5G modem chip empowered with AI, the Snapdragon X70. The modem is the first reported to be built"
     publishedDateTime: 2022-02-28T19:22:00Z
@@ -150,20 +134,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/qualcomm-Ai-investments.jpeg"
         width: 770
         height: 577
-        isCached: true
-  - title: "Qualcomm X70 5G Modem Announced With Dedicated AI Processor for Better Reach"
-    excerpt: "Since 5G uses a very broad range of network spectrum as compared to 4G, this new AI chip shall help your device to stay on the most efficient band using antenna tuning. Today, Qualcomm has just ..."
-    publishedDateTime: 2022-02-28T16:05:00Z
-    webUrl: "https://techpp.com/2022/02/28/qualcomm-x70-5g-modem/"
-    type: article
-    provider:
-      name: Techno-Science.net
-      domain: techpp.com
-    quality: 36
-    images:
-      - url: "https://media.techpp.com/wp-content/uploads/2022/02/Qualcomm-X70-5G-Modem.jpg"
-        width: 1364
-        height: 767
         isCached: true
   - title: "Qualcomm & Samsung have worked to make LPDDR5X memory compatible with Snapdragon chips"
     excerpt: "Samsung has announced that its LPDDR5X memory is now compatible with Qualcomm Snapdragon chips. Learn more about the chipset and data speeds here."

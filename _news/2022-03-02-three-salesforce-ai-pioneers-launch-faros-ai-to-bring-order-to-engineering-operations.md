@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How to Scale AI in Your Organization"
-    excerpt: "AI is embedding itself into the products and processes of virtually every industry. But implementing AI at scale remains an unresolved, frustrating issue for most organizations. Businesses can help ensure success of their AI efforts by scaling teams,"
-    publishedDateTime: 2022-03-04T15:21:00Z
-    webUrl: "https://hbr.org/2022/03/how-to-scale-ai-in-your-organization"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 39
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2022/02/Mar22_04_520116940.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "3 Ways AI is Changing Food and Beverage Manufacturing"
     excerpt: "Learn how utilizing AI can bring improvements to a company's product quality, maintenance procedures, and data analysis."
     publishedDateTime: 2022-03-01T14:00:00Z
@@ -73,6 +59,20 @@ related:
       - url: "https://img.automationworld.com/files/base/pmmi/all/image/2022/02/pfw_41481_garethwilliamsweb_0.619daecacce95.621c2ed8d5fda.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200
         height: 729
+        isCached: true
+  - title: "How to Scale AI in Your Organization"
+    excerpt: "AI is embedding itself into the products and processes of virtually every industry. But implementing AI at scale remains an unresolved, frustrating issue for most organizations. Businesses can help ensure success of their AI efforts by scaling teams,"
+    publishedDateTime: 2022-03-04T15:21:00Z
+    webUrl: "https://hbr.org/2022/03/how-to-scale-ai-in-your-organization?ab=hero-subleft-2"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2022/02/Mar22_04_520116940.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "XjmZ6YzKt2iuRC8YFA0O0Ri8/rajrsCTOCrusD/vL9HJ1yQnO65y+q62T8o3O2pxjnaqetkgG4Uf5MxbIXqJJUXht7BBENuBtQPNjgE/GndEfM5k2uyQ67m3O3RsnkKWcg3ikPPNY4mdADZ3ob02ZZz64u7si1kwbQN4aa1bcRZ82cK0VM/8rV8+1QB5MoKf9iX435aKAVzp7OQd4pTuZ+lyOVGRnZR7TVsgplDK5Ba8WglrORzYjUm/yP1EZ+X7SKdl6PS1j1EOYAp3hXjZ08EZ44Ebc3BJGG4INGGDwbstazlJVotQuQyFHZS7Pb/w60ae7s+tVsqxxklBSk1FZ8ZjDs7uj5wa18dOprhWC8EZCkapdxIX4fTiILjOV7RctdLVRFUYJih11P4eJGWNsfmIWsWOG454eatP3sX5CG2tp88Ogex4pdQfyjdJN+aGMqL3Az7MQQnmGQTFOA0H0FMplMHE3FOqRgH0DNybIvbif7btMocxPFR5N4uaO6uLaipLsBiLUyWAWV7avqfG8A==;0wU1SyaZHmSlJ5+CGwJocQ=="

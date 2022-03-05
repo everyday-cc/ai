@@ -3,21 +3,18 @@ category: news
 title: "This machine-learning model can pinpoint failing or hacked power grid components"
 excerpt: "Machine learning could one day help energy providers better pinpoint failing or compromised components in power grids, or better identify traffic congestion for local authorities, according to a study."
 publishedDateTime: 2022-02-26T11:28:00Z
-originalUrl: "https://www.theregister.com/2022/02/26/machine_learning_power/"
-webUrl: "https://www.theregister.com/2022/02/26/machine_learning_power/"
+originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/02/26/machine_learning_power/"
+webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/02/26/machine_learning_power/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/02/26/machine_learning_power/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/26/machine_learning_power/"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
   name: theregister
   domain: theregister.com
 
 topics:
-  - Machine Learning
+  - IBM AI
   - AI
 
 images:
@@ -26,6 +23,6 @@ images:
     height: 432
     isCached: true
 
-secured: "kwdNKApkVhzyLVi4AxqDe0RoiZiQxdZOUckl9/eD0TQGz/kCRNzPvpN5OpHIRpI6+lljXDFfV5AWfvHHUrtYpWsYf4dK36ic5Q2hTA7XsxQQw4fxyVI7dyrX+1LkjRY5m/m+XbspSnCFZwgW7vOYVluAXzMG+huuLVW4te54NwfUfP/jUHJykXH5iwLQDZxM6USjG+SqwlD86v8c/gkgvA352skd8UDJq6ToX2/7wCgeMcc02IaDRChTp+HYA35aSwkFfprRZL20l88GGwQ10LraJrJHYMw/TVp72K5GWQ6ox+7oc1FQA47hPDmPAxWpnsoL6HDsRC1lHA5jSfPrQ+lamSBzeuItU11/zB39oy4eX/HQfSzFDDIidxcGxyUr/xDsZI5a3kT+1zcbJ7/i4UEQSy9vcek96s18dTQB8wdZsA3cReITu+DHZ4PtqhLCaXROriudociCaVwmenNtgmQpvdXUC0I9LF4S8BhcOKOOxKZi2ZmHCq2bTOxLrtOyLkrgXorogrChwe/QlhvuPA==;AR1Vvkyk3LDWZXPeQEE0XA=="
+secured: "eteWFV+DbU+GD+d4J2+qtWius2iwoLg8AtEAB80+/DG8fWZRxjsZS8qBPRrz8rarH2hwqUc4keorkbrbdfZW8UjUP59xoMdLVLCClNKu8ao+Vco9awVjjZoTPKKHwPwlFMCWpOWjFnStjvfYiJtGHZ37Mk9eJsJ79l2JBoeaM11pUIu+K9Udn599VbzNkaAt0KmqQsAqg4lWmVf7+Pj6bcTFQWAE5XZCdrT3JG0kE4GDMl/qUaejl8iSICQy7rVzERwxgTu/3bPDDKlxHUbC9bK07pN+JmEE4Rmt4+rkQtTDMJBDw+lhtoy795WFeUVT4jw7Py/n16lwTu3CcJbK7t8wg07IsgRJmPGwW98m/p0=;oJ2swDGLoaDcXB3BbtJfoA=="
 ---
 
