@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in drug discovery market Size is Anticipated to Reach USD 2,015.1 MN by 2025 at 4.8% CAGR"
-    excerpt: "Overview The AI in drug discovery market is growing continually. Artificial intelligence technology has the potential to"
-    publishedDateTime: 2022-02-28T12:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-size-is-anticipated-to-reach-usd-2015-1-mn-by-2025-at-4-8-cagr"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "IoT in Healthcare Market to hit USD 135.87 Billion, Globally, by 2025 at 21.2 % CAGR: The Insight Partners"
     excerpt: "The IoT in healthcare market was valued at US$ 20.15 billion in 2015 and it is projected to reach US$ 135.87 billion in 2025; it is expected to grow at a"
     publishedDateTime: 2022-03-03T17:29:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/mwc-qualcomms-new-5g-modem-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mwc-qualcomms-new-5g-modem-is-the-first-with-built-in-ai/"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -138,22 +138,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/qualcomm.png"
         width: 850
         height: 505
-        isCached: true
-  - title: "Qualcomm Snapdragon X70 Harnesses AI Processing For Breakthrough 5G Experiences"
-    excerpt: "Qualcomm today is adding to its growing stack of 5G modem-RF systems with a new flagship model, the Snapdragon X70."
-    publishedDateTime: 2022-02-28T12:35:00Z
-    webUrl: "https://hothardware.com/news/qualcomm-snapdragon-x70-ai-processing-breakthrough-5g"
-    ampWebUrl: "https://amp.hothardware.com/news/qualcomm-snapdragon-x70-ai-processing-breakthrough-5g"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/qualcomm-snapdragon-x70-ai-processing-breakthrough-5g"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 53
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/57813/content/small_qualcomm_snapdragon_x70_hero.jpg"
-        width: 708
-        height: 421
         isCached: true
   - title: "Qualcomm embeds artificial intelligence into latest 5G processor to boost speeds and signal coverage"
     excerpt: "At Mobile World Congress, San Diego wireless technology firm looks to the next phase of 5G, which expands use cases beyond smartphones"

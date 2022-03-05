@@ -42,20 +42,6 @@ related:
         width: 2461
         height: 1641
         isCached: true
-  - title: "Chinese Self-Driving Taxis Are Headed to California. Here’s Why."
-    excerpt: "AutoX – one of China’s biggest autonomous ride-share companies – recently announced it’s setting up shop in San Francisco, where Waymo and Cruise operate. It’s"
-    publishedDateTime: 2022-02-28T12:02:00Z
-    webUrl: "https://www.wsj.com/video/series/george-downs/chinese-self-driving-taxis-are-headed-to-california-heres-why/1D55EEAB-2F6C-4ADA-A14E-B3E48A829989"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
-    images:
-      - url: "http://images.wsj.net/im-493761?width=1280&height=720"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Self-driving truck startup Inceptio raises $188 million in Series B+"
     excerpt: "Chinese self-driving truck startup Inceptio announced on Monday that it raised $188 million in a Series B+ which was co-led by Sequoia Capital China and Lenovo’s corporate venture capital arm, Legend Capital."
     publishedDateTime: 2022-03-01T10:16:00Z

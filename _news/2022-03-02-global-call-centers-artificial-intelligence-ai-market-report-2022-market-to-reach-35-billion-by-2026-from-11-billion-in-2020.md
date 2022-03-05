@@ -57,17 +57,6 @@ related:
         width: 720
         height: 720
         isCached: true
-  - title: "C3.ai (AI) to Report Q3 Earnings: What's in the Offing?"
-    excerpt: "C3.ai AI is set to report third-quarter fiscal 2022 results on Mar 2. For the quarter, C3.ai expects revenues between $66 million and $68 million. The Zacks Consensus Estimate for revenues is currently pegged at $67."
-    publishedDateTime: 2022-02-28T12:59:00Z
-    webUrl: "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q3-earnings%3A-whats-in-the-offing"
-    ampWebUrl: "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q3-earnings%3A-whats-in-the-offing?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-ai-to-report-q3-earnings%3A-whats-in-the-offing?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
   - title: "Enterprise Artificial Intelligence (AI) Market is Expected To Reach USD 59.17 Billion By 2028"
     excerpt: "USD 2,879.5 Million in 2020, Market Growth - CAGR of 45.3%, Market Trends – a Digitalization of enterprises. NEW YORK, NY, UNITED STATES, March 1, 2022 /EINPresswire.com / -- The global enterprise artificial intelligence (AI) market is forecast to reach USD 59."
     publishedDateTime: 2022-03-01T11:31:00Z

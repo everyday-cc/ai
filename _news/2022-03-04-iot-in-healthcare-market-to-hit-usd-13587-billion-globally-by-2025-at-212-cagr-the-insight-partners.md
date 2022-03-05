@@ -39,20 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI in drug discovery market Size is Anticipated to Reach USD 2,015.1 MN by 2025 at 4.8% CAGR"
-    excerpt: "Overview The AI in drug discovery market is growing continually. Artificial intelligence technology has the potential to"
-    publishedDateTime: 2022-02-28T12:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-size-is-anticipated-to-reach-usd-2015-1-mn-by-2025-at-4-8-cagr"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "hYzSHFQFnQLQoRNcJ/6TRbz3cvfb7ObbkBGMeVB9TdnlBXumN8nJVPOB/oMB1y0miFqSUVtjh0s96x5HS8BCFOJpJml/zDqkzjxM1V43LmEqtrA4fE1MqBiSmGVhk136TkiDFHRmgJn+7In9X3YhBz5UTbG0j7B0phMKXRaWQgGofGntNZ6thOIuVqw1HTIhcuFLbIbJI4Jws/9xKirllh2XuX/O9mxXFwokvFoU10eqG8/IxMUL0LBQJaAqYydQ5KAMWNc0cSHXeob7gj5SVx5eWTsGZI7Os31mB+io0jNWJhabmc8bCvbZpxL4MtAKvtPXyNG2d/9nWgmpIfXUkrzNMA4VSTU5lxOK33LZ6Iw=;buOOA4Wy8yeWW4t37fBpjQ=="
 ---

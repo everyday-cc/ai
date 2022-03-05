@@ -53,20 +53,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Voice and Speech Recognition Market Estimated to Reach US$ 22.2 Billion Globally By 2027"
-    excerpt: "As per the latest report by IMARC Group, titled “Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and"
-    publishedDateTime: 2022-02-28T12:52:00Z
-    webUrl: "https://www.digitaljournal.com/pr/voice-and-speech-recognition-market-estimated-to-reach-us-22-2-billion-globally-by-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 30
-    images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEgTByXnnkMzvH1pIAhUUxSWf-qJEcrSX2EMCIxM4NpHJl3XXuoEL1X17bGdyQpPUFTaKQMYKWW3B6JpHAGX2N6GCC8gT50NmntzyY49KErhD10mNiJMk-s6yKH6jAPsW3SWqfDP7gMtK-5ixyEVCZ4TdmLXRteX9CuvtBy7ITFhqFvHuk0ffOz-MxY=w510-h339"
-        width: 508
-        height: 339
-        isCached: true
   - title: "State of the Market Update: Speech and Voice Recognition"
     excerpt: "UC analyst shares how AI-driven speech tech has brought new forms of value to the workplace in this Enterprise Connect 2022 session preview."
     publishedDateTime: 2022-03-01T14:00:00Z

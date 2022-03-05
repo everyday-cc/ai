@@ -24,22 +24,6 @@ images:
     height: 338
     isCached: true
 
-related:
-  - title: "Butterfly Network Introduces Butterfly Blueprint and World's First FDA-Cleared AI Guidance & Interpretation Software to Support the Practical App"
-    excerpt: "System-Wide Ultrasound Platform, Blueprint, Works with Hospital and Health Systems’ Clinical and Administrative Infrastructures to Drive Point-of-Care Diagnostic TransformationIntegration with Caption Health’s Platform Brings FDA-cleared AI Guidance to Blueprint Workflow,"
-    publishedDateTime: 2022-02-28T11:45:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=623033"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 2
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-
 secured: "UvG0gsrAIdI4M4Y6POKH+88gHfV0ZJT8AAP39wwxZyOfASk0r94OviTHdWT1Gfk8odS26lbxqbuYrj9RsJk00wnP1+lNynAC6jcF/BOCqf9RFbSgUGm1drcXlOZFsGTHlTbOpoMLjzYx9SnjgfuiEgcbus+XPRnmKXF5Bz5bgZ8a+va6LUWkvw3C+RC3Em9BkQFFLRwKD5Fd8FHo5qwb2QoEqGe7f76ODFeykMmYOyjWc5O2Vlf2Gu8XTy/+x19HwMgnxI847jWbHwfnSamYcnLUSJEbCKbxE45/YQ1Z6nIrvemEnEzYW40p+936ld/VNcdRqKbRMX3IRlqqdYLmMw3Qmx+/RtdY3YvTO3PLh6w3ruLiZVASSSgpcaMfTUv3rF17IfBcuSATJ9ZSVafg1QVHfUVlhsJ6PtfilP8gUDC8uRGnMYe6exqtA0Y1UvgJ8vTF1YK8Bu5FgUv8c/neAP7Y1h+7ANdf6VY//NnicqhbUseWG0QR/DgRGiPYsScTiHAGdJEZhcN0EYNTdAvFLQ==;Fwoc1hx3iQuEt8rQk1xpMg=="
 ---
 

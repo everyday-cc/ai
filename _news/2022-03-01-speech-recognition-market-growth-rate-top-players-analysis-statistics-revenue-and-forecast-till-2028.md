@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/speech-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-growth-rate-top-players-analysis-statistics-revenue-and-forecast-till-2028-2022-02-28"
 type: article
 quality: 53
-heat: 173
+heat: 163
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/6f36adb06597c8add3e517ea4970f7781a732f19-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Voice and Speech Recognition Market Estimated to Reach US$ 22.2 Billion Globally By 2027"
-    excerpt: "As per the latest report by IMARC Group, titled “Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and"
-    publishedDateTime: 2022-02-28T12:52:00Z
-    webUrl: "https://www.digitaljournal.com/pr/voice-and-speech-recognition-market-estimated-to-reach-us-22-2-billion-globally-by-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 30
-    images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEgTByXnnkMzvH1pIAhUUxSWf-qJEcrSX2EMCIxM4NpHJl3XXuoEL1X17bGdyQpPUFTaKQMYKWW3B6JpHAGX2N6GCC8gT50NmntzyY49KErhD10mNiJMk-s6yKH6jAPsW3SWqfDP7gMtK-5ixyEVCZ4TdmLXRteX9CuvtBy7ITFhqFvHuk0ffOz-MxY=w510-h339"
-        width: 508
-        height: 339
         isCached: true
   - title: "Smart Robot Market: Report Analysis, Share, Revenue, Growth Rate With Forecast Overview 2022-2031"
     excerpt: "Comserve / -- The Smart Robot Market is expected to be around US$ 17 Billion by 2031 at a CAGR of 24% in the given forecast period. A smart robot is an artificial intelligence (AI) system that can learn from its environment and its experience and build on its capabilities based on that knowledge."

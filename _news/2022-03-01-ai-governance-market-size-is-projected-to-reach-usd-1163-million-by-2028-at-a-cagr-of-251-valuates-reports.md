@@ -52,38 +52,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Global AI in Healthcare Diagnosis Market Is Expected To Grow At 20.2% CAGR"
-    excerpt: "The size of the global AI in the healthcare diagnosis market is estimated to be growing at a CAGR of 20.2% from 2021 to 2026 and worth USD 5.8 billion by 2026. COVID-19 wrecked the healthcare system,"
-    publishedDateTime: 2022-02-28T11:34:00Z
-    webUrl: "https://www.medgadget.com/2022/02/global-ai-in-healthcare-diagnosis-market-is-expected-to-grow-at-20-2-cagr.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 32
-  - title: "Computer Vision Market Size is expected to reach USD 19.75 billion by 2027. Computer Vision Market In depth Analysis Report"
-    excerpt: "The latest report Global Computer Vision Market gives an essential review of the business including definitions, groupings, applications, and industry"
-    publishedDateTime: 2022-02-28T11:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-size-is-expected-to-reach-usd-19-75-billion-by-2027-computer-vision-market-in-depth-analysis-report"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 13
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Healthcare Artificial Intelligence Market Trends, Future Growth, Share Value, Regional Insights and Size Projection by 2027"
-    excerpt: "Healthcare Artificial Intelligence Market Overview. The healthcare artificial intelligence market is anticipated to reach USD 12.22 Billion at 51.9% CAGR during the forecast perio"
-    publishedDateTime: 2022-02-28T12:46:00Z
-    webUrl: "https://www.medgadget.com/2022/02/healthcare-artificial-intelligence-market-trends-future-growth-share-value-regional-insights-and-size-projection-by-2027.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 12
 
 secured: "3T4nzDp3MeL9KOkQP+Y9r+UsJL0Yl7u7hqgs8/u/jya/Mh+27Nu7RHbhSGU3rPUiRkly31E123dlgNIwmLgWrSPPx5QY2JNYBOuTzUyDOvDWopFPUVP8NPqPor0vz4pRRAjUJBmsCm8Hw3b/ebUmggVAWXgllmf0HE8gtscKflknx8wbMSRYERK0NMeomDg6ZPy6owZz3bhmAUtFHPVyr+3eKkRGrNFDjWrCbK4E5uoltK2gECEPmEEPNJYawwSZHidrNkOWuUUNiu4ln4CtUrgQYgcqblxKLqTG4dfnjTidWzM9J4uonsgobVkI4i39KLQw4ZqFlzHOqfEn6fhjRzi0346pnGebsY/TO+1rWCA=;xxbpx/wF/HTPUHYI0FW5qA=="
 ---

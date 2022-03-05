@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/washington-to-roll-out-facial-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/washington-to-roll-out-facial-recognition-dropped-by-irs?_amp=true"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/03/bigstock_Facial_Recognition_Security_Sy_295494367.62212a53e624f.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Florida DEO stands by controversial facial recognition technology to verify IDs as the IRS drops ID.me"
-    excerpt: "NEW PORT RICHEY, Fla. — Concerns the ABC Action News I-Team first revealed a year ago about ID.me's facial recognition blocking legitimate applicants from collecting unemployment have now sparked a national debate over privacy, access and oversight of ..."
-    publishedDateTime: 2022-02-28T11:06:00Z
-    webUrl: "https://www.abcactionnews.com/news/full-circle/florida-deo-stands-by-controversial-facial-recognition-technology-to-verify-ids-as-the-irs-drops-id-me"
-    ampWebUrl: "https://www.abcactionnews.com/news/full-circle/florida-deo-stands-by-controversial-facial-recognition-technology-to-verify-ids-as-the-irs-drops-id-me?_amp=true"
-    cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/full-circle/florida-deo-stands-by-controversial-facial-recognition-technology-to-verify-ids-as-the-irs-drops-id-me?_amp=true"
-    type: article
-    provider:
-      name: ABC Action News
-      domain: abcactionnews.com
-    quality: 43
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/46af351/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fcc%2Feb%2F8b66c61340519e962eee608b8946%2Ffull-circle-florida-deo-id.me%20I-Team.png"
-        width: 1280
-        height: 720
         isCached: true
   - title: "IRS has dropped ID.me's facial recognition tech after backlash, but Washington state will roll it out in June"
     excerpt: "Washington state is getting ready to roll out the ID.me facial recognition system dropped by the IRS last month over privacy and equity concerns."

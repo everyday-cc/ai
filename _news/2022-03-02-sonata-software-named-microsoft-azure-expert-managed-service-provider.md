@@ -59,22 +59,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "TCS makes available two AI-powered software on Microsoft Azure Marketplace"
-    excerpt: "Tata Consultancy Services (TCS) announced the availability of its TCS Intelligent Urban Exchange? (IUX) and TCS Customer Intelligence & Insights? (CI&I) software in the Microsoft Azure Marketplace. CI&I customer analytics helps banks,"
-    publishedDateTime: 2022-02-28T11:42:00Z
-    webUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800106_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800106_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800106_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 87
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
-        width: 350
-        height: 233
-        isCached: true
   - title: "Microsoft completes acquisition of Nuance, ushering in new era of outcomes-based AI"
     excerpt: "Microsoft Corp (Nasdaq: MSFT) on Friday announced the completion of its acquisition of Nuance Communications Inc. (Nasdaq: NUAN), a leader in conversational AI and ambient intelligence across industries including healthcare,"
     publishedDateTime: 2022-03-04T14:08:00Z

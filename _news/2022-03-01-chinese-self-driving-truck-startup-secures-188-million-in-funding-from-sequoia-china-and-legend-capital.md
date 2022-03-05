@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/catherinewang/2022/03/01/chinese-self-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/catherinewang/2022/03/01/chinese-self-driving-truck-startup-secures-188-million-in-funding-from-sequoia-china-and-legend-capital/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese Self-Driving Taxis Are Headed to California. Here’s Why."
-    excerpt: "AutoX – one of China’s biggest autonomous ride-share companies – recently announced it’s setting up shop in San Francisco, where Waymo and Cruise operate. It’s"
-    publishedDateTime: 2022-02-28T12:02:00Z
-    webUrl: "https://www.wsj.com/video/series/george-downs/chinese-self-driving-taxis-are-headed-to-california-heres-why/1D55EEAB-2F6C-4ADA-A14E-B3E48A829989"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
-    images:
-      - url: "http://images.wsj.net/im-493761?width=1280&height=720"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Chinese Self-Driving Chip Startup EVAS Raises Almost USD31.7 Million in Seed Funding"
     excerpt: "EVAS Intelligence, a Chinese autonomous driving chip startup founded less than two months ago, has raised almost CNY200 million (USD31.7 million) in angel round financing led by private equity firms CTC Capital and Sunic Capital."
     publishedDateTime: 2022-03-01T12:29:00Z

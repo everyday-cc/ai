@@ -51,22 +51,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "TCS makes available two AI-powered software on Microsoft Azure Marketplace"
-    excerpt: "Tata Consultancy Services (TCS) announced the availability of its TCS Intelligent Urban Exchange? (IUX) and TCS Customer Intelligence & Insights? (CI&I) software in the Microsoft Azure Marketplace. CI&I customer analytics helps banks,"
-    publishedDateTime: 2022-02-28T11:42:00Z
-    webUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800106_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800106_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/tcs-makes-available-two-ai-powered-software-on-microsoft-azure-marketplace-122022800106_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 87
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
-        width: 350
-        height: 233
-        isCached: true
   - title: "Sonata Software Named Microsoft Azure Expert Managed Service Provider"
     excerpt: "Sonata Software, a global IT Services and Technology Solutions Company, today announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP), in recognition of its demonstrated expertise in providing world-class solutions on Microsoft Azure."
     publishedDateTime: 2022-03-02T11:03:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/25957282"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25957282"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -41,17 +41,6 @@ related:
         width: 720
         height: 720
         isCached: true
-  - title: "C3.ai (AI) to Report Q3 Earnings: What's in the Offing?"
-    excerpt: "C3.ai AI is set to report third-quarter fiscal 2022 results on Mar 2. For the quarter, C3.ai expects revenues between $66 million and $68 million. The Zacks Consensus Estimate for revenues is currently pegged at $67."
-    publishedDateTime: 2022-02-28T12:59:00Z
-    webUrl: "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q3-earnings%3A-whats-in-the-offing"
-    ampWebUrl: "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q3-earnings%3A-whats-in-the-offing?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-ai-to-report-q3-earnings%3A-whats-in-the-offing?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
   - title: "Global Call Centers Artificial Intelligence (AI) Market Report 2022: Market to Reach $3.5 Billion by 2026 from $1.1 Billion in 2020"
     excerpt: "The \"Artificial Intelligence (AI) in Call Centers - Global Market Trajectory & Analytics\" report has been added"
     publishedDateTime: 2022-03-02T09:23:00Z

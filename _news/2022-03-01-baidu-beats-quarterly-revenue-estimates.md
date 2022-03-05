@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Baidu beats quarterly revenue estimates"
-excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. March 1 (Reuters ..."
-publishedDateTime: 2022-03-01T08:53:00Z
+excerpt: "Chinese search engine giant Baidu Inc BIDU.O reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-d"
+publishedDateTime: 2022-03-01T07:41:00Z
 originalUrl: "https://www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates"
 webUrl: "https://www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates"
 ampWebUrl: "https://www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates?amp"
@@ -50,18 +50,18 @@ related:
         height: 630
         isCached: true
   - title: "Baidu beats quarterly revenue estimates on AI, cloud services strength"
-    excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has been ..."
-    publishedDateTime: 2022-03-01T08:55:00Z
-    webUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-strength-2528766"
+    excerpt: "(Reuters) -Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has ..."
+    publishedDateTime: 2022-03-01T08:58:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/03/01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
+      name: The Star
+      domain: thestar.com.my
     quality: 39
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--uSFnJqlG--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-03-01t085407z_2_lynxmpei201qj_rtroptp_3_baidu-results.jpg?itok=cYQJyey9"
-        width: 1200
-        height: 676
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/03/01/1498688.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Baidu beats quarterly revenue estimates on AI, cloud services"
     excerpt: "Chinese search engine giant Baidu Inc beat quarterly revenue Wall Street estimates on Tuesday powered by growth in its artificial intelligence (AI) cloud business. Revenue grew to 33.09 billion yuan ($5."
@@ -134,6 +134,6 @@ related:
         height: 480
         isCached: true
 
-secured: "qX2110iirgYoWsLb37daFDAj3RX7R+ZOXu05CnrvboabSGvvxfMVKYt/F4TZs5ThgHNt4/cKnzU/Nw55ASuLMJ05EIlHO7m+rfiX9t3qSUP5/wnJWecrM6bVqYFb3Gvxttn2iI1+j/vfpnFTulgQ/Lkh9JyGqRZLP8+/TsG7sO6FJF4zKAjmGO37a9PFtbg7Cp7Y+YdxQBq3WZvZfeRM/F6MqgfJBpHuLW7OlovYO/YrC9vwGnFLazrCkfXXiDvSkboNpwtEpjmYIA9dq14Sm+VeB+9Xj6G66mGi7nHM5/3/58ZeL80/LtmtLvqjTUljoYa9FmR1J82ViOAsPOX6QmE9QqstG4iaj8DyYdky2/4=;YL4Xu8wyV3cOtxwBJ4WnnA=="
+secured: "8D0Vfhh9w81QMuQzuEOppRUmM1kEakzCPNOy6mWzL0M9W2IC9sa6n3jPm8TAFa1g5LS4Vgq6DKUGr0X1GWYTulXPbzhWFWk+ci1zrh91ur05itMm0W3U6I1XaTTZmGbsdIKt0W5eopPDNX3pHqj9U59tQxP6cCKEfngkkDaaDh8Xuj+BHAeMMbq+h6DPanNsZSxzvGbhFNCZhOg3rR71P+mkmnflsXIRRg/L5B9JL9SKBoJ0joL5MuLkbBjlUhwgqkIBMcQdav0N6yY81EEiplCgjxOj+r4UxyCjztmEZmXS0tlvLxeplNq+yBAQ1dx+8NJS+B8reeAMlFbs5Ai29L+fGxHTj7sMBpQt/YuGjOI=;gXnlEBRYAEFD1qOX2HvUIA=="
 ---
 
