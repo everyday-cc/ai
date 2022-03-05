@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "infermedica"
   url: "https://twitter.com/infermedica"
-  followers: 2652
+  followers: 2653
 
 size: 51-200 employees
 yearFounded: 2012
