@@ -2,28 +2,26 @@
 category: news
 title: "Baidu beats quarterly revenue estimates on AI, cloud services strength"
 excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has been ..."
-publishedDateTime: 2022-03-01T10:43:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
-webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
-ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
-cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
+publishedDateTime: 2022-03-01T08:55:00Z
+originalUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-strength-2528766"
+webUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-strength-2528766"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: cio.economictimes.indiatimes
-  domain: indiatimes.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-89923039,imgsize-62329,width-1200,height-628,overlay-etcio/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength.jpg"
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--uSFnJqlG--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-03-01t085407z_2_lynxmpei201qj_rtroptp_3_baidu-results.jpg?itok=cYQJyey9"
     width: 1200
-    height: 628
+    height: 676
     isCached: true
 
 related:
@@ -137,6 +135,6 @@ related:
         height: 480
         isCached: true
 
-secured: "VVcbmimzHr+VnJo7sIobdvbN99jcjbMxUPI7D30Hq3+UmcrRIGsk7HY92C2aLTOl5NVPvQ2EsClkrQ+IhPy1LhjeyDCawvlo80x6S6RJm6GF4o/cS3B38kapc7LBMV7hmt6NKCoht6NBL90nkba+dsGdTmB6s7gE+AtTIygTGIS9bmVuNsadzQg/IC63q1bBHwsgcYt8IzQ6y9CJAeuP0yXEsDtGwIL1qwxm1HflYE3vVHx9hJZsW4yOL1QU+x6RO66jPneuMAjJP1Q6eUvDnQzjNqOVc6xSBPt/yOGn9TRey20g2FQgZbBL6FmSxWqotdmr7D90Cm03Mt9fY4L7KsDbpcXUaGPF2+vMSFYlE5A=;P08fxVQ9LtbfzjPF3tjPOw=="
+secured: "gYzXo0QbMOmNf9pYx26YNSsLNlAxYvMYncimvsHDWYG2j1ICUEvm17hVcWZ7booByfPUrwdMBEVSLHaW/wirnhtZswGyC7f0YH8vN8Kx3Nzeijgz7KLWiCCyhU3xrIGok9FAKQxKd95BTtzGNiMkQLGZ3fhVzjzRc28FAbew+8Mw5+iG0hQdAqcwRVaA3nAz2TLVxJYI8CoXeX+u5fSsZe9N3YmtMlTRLDvjHxPfFziXj55wdjihIpSshq2naLM1SxwdxmhKTQ1glsprmU6lzOnjEn9/iTQC0GWEcMkB3VhJN8bX7ZaTvn8CMpumo0x1zbMAXHRAeOhZuY178p6ZccWyj/8GqcMB5tzovw+ij4M=;VSJQFsPAHZhdjOCfybUA0A=="
 ---
 

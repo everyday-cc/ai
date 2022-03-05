@@ -7,7 +7,7 @@ originalUrl: "https://www.siliconindia.com/news/general/oppo-to-ally-indian-star
 webUrl: "https://www.siliconindia.com/news/general/oppo-to-ally-indian-startups-working-on-camera-ai-battery-nid-218220-cid-1.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "AIM Long Reads: Best Indian cities to launch AI startups"
-    excerpt: "The Indian tech startup space exploded in 2021 with over 2,250 tech startups and 42 unicorns added in a year’s span. India is now the third largest startup ecosystem in the world after the US and China."
-    publishedDateTime: 2022-02-28T09:18:00Z
-    webUrl: "https://analyticsindiamag.com/aim-long-reads-best-indian-cities-to-launch-ai-startups/"
+  - title: "Appscale Academy Debuts its 1st Cohort of 100 Indian Startups with Google & MeitY Startup Hub"
+    excerpt: "Appscale Academy Debuts its 1st Cohort of 100 Indian Startups with Google & MeitY Startup Hub - According to a top Google executive, India is gradually transitioning into an app-first country and is"
+    publishedDateTime: 2022-03-02T08:50:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/appscale-academy-debuts-its-1st-cohort-of-100-indian-startups-with-google--meity-startup-hub-nid-218227-cid-19.html"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 11
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Ai-startup-b_11zon-1.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.siliconindia.com/news/newsimages/dgTPbLZ7.jpg"
+        width: 570
+        height: 367
         isCached: true
 
 secured: "kodTCU6na9D5F7NqGOuFhMNPZnAcc8KW9r+R850GjwkWLYLdoPa0AUb6DmLR5qc+U2qG77YJ0yr3fYQrqwz3+oFy5/C/NnaPT2NW28kiRjHz04kJKIJwkQf7zpeJ4wZqUvEDkpixJz0CmtDI1XhuObjNwbn7x5Z+oHO2R22x95IRGCzf3XQRvrTItVx+mTtLuXGkbGIhOcM/Pg0wbiiCZ8CVsKdxTAO1LO8krRz6Iei5mykwfIXH2hDwRYYa+v3AjeuOtI3vXy2pxr0VBszIuPUzsvAYGxa3fl2vG7LioqxsLnGuRKrcl172DNHHjwbpn4CAZhflbG1B76UAOFQ1O15AJOf7/6ZNM7tn3RwzlaU=;D+nS78+L9vR962HN4wRcZQ=="

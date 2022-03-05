@@ -108,20 +108,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "The fintech sentiment: The Kalifa Review’s scorecard one year on"
-    excerpt: "“In particular, the likes of Buy Now Pay Later, Request to Pay and using emerging technology such as AI are set to define the year ahead – it’s incredibly an exciting time to be in FinTech right now. That said, the industry is facing a massive skills ga"
-    publishedDateTime: 2022-02-28T09:15:00Z
-    webUrl: "https://www.finextra.com/the-long-read/354/the-fintech-sentiment-the-kalifa-reviews-scorecard-one-year-on"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/354.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "WEX Inc. to Present at the Wolfe Research FinTech Forum 2022"
     excerpt: "WEX Inc. (NYSE: WEX), the global commerce platform that simplifies the business of running a business, today announced that its Chair and Chief Executive Officer, Melissa Smith, will present at the Wolfe Research FinTech Forum 2022 on Wednesday,"
     publishedDateTime: 2022-03-02T20:15:00Z

@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Luminous Computing Raises $105M in Series A Round to Build World’s Most Powerful AI Supercomputer"
-excerpt: "Luminous Computing announced today that it raised $105M in a Series A round, with participation from investors including Gigafund, Bill Gates, 8090 Partners, Neo, Third Kind Venture Capital, Alumni Ventures Group,"
-publishedDateTime: 2022-03-03T12:02:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/luminous-computing-raises-105m-in-series-a-round-to-build-world-s-most-powerful-ai/article_185ec743-7266-54fa-a0a2-0241c799b8db.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/luminous-computing-raises-105m-in-series-a-round-to-build-world-s-most-powerful-ai/article_185ec743-7266-54fa-a0a2-0241c799b8db.html"
+title: "Photonics startup Luminous Computing bags $105m"
+excerpt: "Luminous Computing, a startup using photonics to drive artificial intelligence, has raised venture capital backing, pulling in $105m in Series A funding from a range of investors that includes Microsoft co-founder Bill Gates."
+publishedDateTime: 2022-03-05T01:27:00Z
+originalUrl: "https://www.theregister.com/2022/03/05/luminous-ai-supercomputer-photonics/"
+webUrl: "https://www.theregister.com/2022/03/05/luminous-ai-supercomputer-photonics/"
+ampWebUrl: "https://www.theregister.com/AMP/2022/03/05/luminous-ai-supercomputer-photonics/"
+cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/05/luminous-ai-supercomputer-photonics/"
 type: article
-quality: 26
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: theregister
+  domain: theregister.com
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-    width: 300
-    height: 250
+  - url: "https://regmedia.co.uk/2022/03/04/photonics_shutterstock.jpg"
+    width: 1000
+    height: 750
     isCached: true
 
 related:
@@ -68,22 +69,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "Photonics startup Luminous Computing bags $105m"
-    excerpt: "Luminous Computing, a startup using photonics to drive artificial intelligence, has raised venture capital backing, pulling in $105m in Series A funding from a range of investors that includes Microsoft co-founder Bill Gates."
-    publishedDateTime: 2022-03-05T01:27:00Z
-    webUrl: "https://www.theregister.com/2022/03/05/luminous-ai-supercomputer-photonics/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/03/05/luminous-ai-supercomputer-photonics/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/05/luminous-ai-supercomputer-photonics/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 42
-    images:
-      - url: "https://regmedia.co.uk/2022/03/04/photonics_shutterstock.jpg"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "Luminous Computing raises $105M to build a photonics-powered AI supercomputer"
     excerpt: "Startup Luminous Computing Inc., which is developing a new kind of supercomputer for running artificial intelligence models, today said that it has closed a $105 million funding round. The Series A round included the participation of more than a half-dozen investors."
     publishedDateTime: 2022-03-03T19:05:00Z
@@ -98,6 +83,20 @@ related:
         width: 870
         height: 500
         isCached: true
+  - title: "Luminous Computing Raises $105M in Series A Round to Build World’s Most Powerful AI Supercomputer"
+    excerpt: "Luminous Computing announced today that it raised $105M in a Series A round, with participation from investors including Gigafund, Bill Gates, 8090 Partners, Neo, Third Kind Venture Capital, Alumni Ventures Group,"
+    publishedDateTime: 2022-03-03T12:02:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/luminous-computing-raises-105m-in-series-a-round-to-build-world-s-most-powerful-ai/article_185ec743-7266-54fa-a0a2-0241c799b8db.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 26
+    images:
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
+        isCached: true
   - title: "AI supercomputer startup Luminous lands $105M in Series A funding"
     excerpt: "LuminousAI lands $105M to tackle big #AI supercomputing problems. #SiliconValley #supercomputer #tech #Luminous #venture #startups"
     publishedDateTime: 2022-03-03T12:00:00Z
@@ -108,6 +107,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "t71KeQt0DnPEsFWYY6FOMyqZIaaahIqDjbOYIxLan1cCud48VKpMXt1ksuhH0EQgOvZR9JN9IOo6XutYrQNQRmdCTUekcI0kQU5UQJe19zUok6CznAXFc7tqBG9begpk1c1nMtpj49eF557Dor2YPjbe9o5grXaL/27xHHWt30GoGX0OxABSJ1fzr8O6LVi3mjPGGKcBrnO2TXkkhHXMXevdNAjfXU9ezNYY9txnN2/2jlKbvjATCfaFo+muGoYvCJrek8Ez3yHi2B88Rbsadu5mZ6YZunG/Y3aNm+siaMx5Vw7cLn/UAgwYQ3+W9u2FywaJgst1cnu38IgL9ZwdwysQ0FkaYBpVj4xPmi8NQOpxACJWcWIQbkDCdRdmJ8qLNawz29ysTtR6jCe9ZTfQwlIARQbzVmzplOAsrujBqRZu1mK8pMPhM0bEBmFUloeeXz8X4Fw+k/aLXCIa0MqF//sH3fag9rkZoJrpLwKwGExttTbKUtJb7gN0ejggmwczO42yN9MhUzjza5OYlO+uzA==;e759x+0rnxCwToPNPiIJyg=="
+secured: "yQgJgC8HZnxoR/aU6VKND880GydbRaPeN/SiO6dQmin10ExC0PKNFfG96U6ZLjx0QdzPaN9QF2fAhx3AMxSRcRqaFnh11zA7IOUy6MZ9dTsuTmE0k03FymP+n1T7ncwEVw1JsVNDYYwQ2xMbrqq3H9389H6nuPHCXuSwZk7g6ry8vF9o8tNyF0v1APYocsNGA2WAkpEuCDDdFX2WBiTdl6eyI9dzCzaHEP4EDhf0gPS+MAh36LGvvm4Tm0sVJAtYYtv1zSaCD9IbuhpWsQAi6ShNX6FMpzdMuOGEoV3K2hNXST1WNeDgvaqtdMsNNljf7dp3q9Yhz+mtakCXTF18wN8MuLQwcyQU/9DmQraK1uw=;X/df/OwjAO4SBgJ8OP/O3w=="
 ---
 

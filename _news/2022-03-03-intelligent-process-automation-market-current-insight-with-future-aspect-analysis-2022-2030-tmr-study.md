@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-02T18:33:00Z
 originalUrl: "https://www.digitaljournal.com/pr/intelligent-process-automation-market-current-insight-with-future-aspect-analysis-2022-2030-tmr-study"
 webUrl: "https://www.digitaljournal.com/pr/intelligent-process-automation-market-current-insight-with-future-aspect-analysis-2022-2030-tmr-study"
 type: article
-quality: 7
-heat: 7
+quality: 9
+heat: 9
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Ukraine-Zelensky-AFP-1K-04-e1646160877914-600x337.jpg"

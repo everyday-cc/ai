@@ -68,6 +68,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "Photonics startup Luminous Computing bags $105m"
+    excerpt: "Luminous Computing, a startup using photonics to drive artificial intelligence, has raised venture capital backing, pulling in $105m in Series A funding from a range of investors that includes Microsoft co-founder Bill Gates."
+    publishedDateTime: 2022-03-05T01:27:00Z
+    webUrl: "https://www.theregister.com/2022/03/05/luminous-ai-supercomputer-photonics/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/03/05/luminous-ai-supercomputer-photonics/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/05/luminous-ai-supercomputer-photonics/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 42
+    images:
+      - url: "https://regmedia.co.uk/2022/03/04/photonics_shutterstock.jpg"
+        width: 1000
+        height: 750
+        isCached: true
   - title: "Luminous Computing Raises $105M in Series A Round to Build World’s Most Powerful AI Supercomputer"
     excerpt: "Luminous Computing announced today that it raised $105M in a Series A round, with participation from investors including Gigafund, Bill Gates, 8090 Partners, Neo, Third Kind Venture Capital, Alumni Ventures Group,"
     publishedDateTime: 2022-03-03T12:02:00Z
