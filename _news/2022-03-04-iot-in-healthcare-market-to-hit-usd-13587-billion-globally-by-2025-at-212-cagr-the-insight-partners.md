@@ -53,20 +53,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Exoskeleton Market to reach USD 7.93 Billion by 2028 | Reports and Data"
-    excerpt: "The global exoskeleton market to reach USD 7.93 Billion by 2028 at a CAGR of 43.4%, according to the latest report by Reports and Data. Rising number of"
-    publishedDateTime: 2022-02-28T07:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/exoskeleton-market-to-reach-usd-7-93-billion-by-2028-reports-and-data"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "hYzSHFQFnQLQoRNcJ/6TRbz3cvfb7ObbkBGMeVB9TdnlBXumN8nJVPOB/oMB1y0miFqSUVtjh0s96x5HS8BCFOJpJml/zDqkzjxM1V43LmEqtrA4fE1MqBiSmGVhk136TkiDFHRmgJn+7In9X3YhBz5UTbG0j7B0phMKXRaWQgGofGntNZ6thOIuVqw1HTIhcuFLbIbJI4Jws/9xKirllh2XuX/O9mxXFwokvFoU10eqG8/IxMUL0LBQJaAqYydQ5KAMWNc0cSHXeob7gj5SVx5eWTsGZI7Os31mB+io0jNWJhabmc8bCvbZpxL4MtAKvtPXyNG2d/9nWgmpIfXUkrzNMA4VSTU5lxOK33LZ6Iw=;buOOA4Wy8yeWW4t37fBpjQ=="
 ---

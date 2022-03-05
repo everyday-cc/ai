@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/5yONPvEgj6OMXWrb"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/5yONPvEgj6OMXWrb"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: ITWeb
@@ -40,20 +40,6 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2022/03/Leslie-TurinTech.jpg"
         width: 500
         height: 749
-        isCached: true
-  - title: "Ai Insurance Organization helps traditional brokerages navigate changing world"
-    excerpt: "Ai Insurance Organization partners with and assumes operations of Dream Insurance to help the traditional insurance brokerage navigate the ever-changing"
-    publishedDateTime: 2022-02-28T08:01:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-insurance-organization-helps-traditional-brokerages-navigate-changing-world"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "3PyPwdiGnR3PqHNmo+YGBqDBJbyYIyf/eoIdjh7LeUajxqCsbnjD6TB/Yak/rqx/wKy70FxrWCrul5TrNOI4U2y+5F/e4sCDM3ZFRPX0qHnDc1JCj0D/apKzPS5pg8QVtZzgHr/LUTCVYX3X/Q0eGQKCl+Eyzkw/MLzIg+bPm3P8ZkKFVwLDDyWeRFLoCcCH6cfPFcbsyHwZucsXTd9OJWBpvkoCHSY6Btq2T8c4BYHdpOxkqvqY4cAOU1C8F+tHqDqk/1tKcS1s6LwQ9RAF6JmKzmcIaSMmzpowkcVSenr1fcFkFxu5iMOUFLjX8rC4ffjes2WPZOQdFvOGNYAsmGMkC279u52eIL37poul5b0=;qlQL9eLmdzWYZBXFvAQAEw=="

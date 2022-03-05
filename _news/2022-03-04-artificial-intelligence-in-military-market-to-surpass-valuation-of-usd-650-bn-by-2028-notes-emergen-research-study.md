@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-milit
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-military-market-to-surpass-valuation-of-usd-6-50-bn-by-2028-notes-emergen-research-study"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "Data Exchange Platform Services Market To Reach Valuation Of US$ 1.3 Bn By 2031"
-    excerpt: "Transparency Market Research delivers key insights on the global data exchange platform services market. In terms of revenue, the global data"
-    publishedDateTime: 2022-02-28T08:37:00Z
-    webUrl: "https://www.digitaljournal.com/pr/data-exchange-platform-services-market-to-reach-valuation-of-us-1-3-bn-by-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 20
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "fP+Znog2jnpS3mGYZ/dXxqNeH/llm7FzcYfYpjaf1Eyd/btJ4oCLgCcLNNi4d2u6+LBCbyFGt+vu2xyfh55ML0FAQIO6Mwvsk/8EKGXSnrl1wRDKaol8zj1K2sWWMlfE90prY4xJavqn+Q45WNtDPROkyzXmEZZ7v+NDPm1Nj/PzgjMlffhjidde+iHWjA7B+5D83KxCvH/q1Q43yt7xiOSKwXN0M7ybTHDYk5O/pw1UA1R1T0EUJhcl7DN9JQd7FupbQVOsuXyFPYbGKCapPxIxLCmdAFUM4GOu8gsJFdBYLw43DmDqJ99dH/RTSdKhd63Nn8beCvj0MBSK/A+wG+TuAkpBH7YLKcQ4JVYzRTA=;k2671ouIDGECag9GJl6FJQ=="
 ---

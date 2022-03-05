@@ -41,20 +41,6 @@ related:
         width: 761
         height: 428
         isCached: true
-  - title: "Ai Insurance Organization helps traditional brokerages navigate changing world"
-    excerpt: "Ai Insurance Organization partners with and assumes operations of Dream Insurance to help the traditional insurance brokerage navigate the ever-changing"
-    publishedDateTime: 2022-02-28T08:01:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-insurance-organization-helps-traditional-brokerages-navigate-changing-world"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "ujpALaDBc/Qxwn11hwpFlfZtEPh8v8STiEbp6OZspW1bttB4j0B/U+vquatM0hoX9sn7YEEgLg5GqztbM3l/rwMkc3VDgOos8IyUPD9+v3G+51HhH6UTtoj4Ix5PvglHo8PTHn5TYo9yEFxgpd0MEme0MfpiVkj/dGbCXFqYjrCbvlcS9t1N9dQzqGjJv1xLi4HVFBYPKqYaKTrg4/6LwE4A1WC/m1ro26lg3xsaQFaouea0svG+1vTfazgKNICJ3uI8O5oyMB97SAyYOgfKwGTmWX7vhJpUqo0UyuAXIeUIiK/gIY6g+K4s0QS/wkPmRQ5SOQ44F9bBtjxQ8+GENZkx2hO9yxkt0+yg9QV6vyo=;aI5Ch2ScJAuzUKZYeDridw=="
 ---

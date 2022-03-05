@@ -160,20 +160,6 @@ related:
       name: Eclectic Northeast
       domain: eclecticnortheast.in
     quality: 8
-  - title: "North America Deep Learning In Machine Vision Market Growth Overview, Technological Advancements And Competitors Analysis Forecast By 2029"
-    excerpt: "The North America Deep Learning In Machine Vision Market analysis provides a high-level summary of classification, competition, and strategic actions"
-    publishedDateTime: 2022-02-28T08:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/north-america-deep-learning-in-machine-vision-market-growth-overview-technological-advancements-and-competitors-analysis-forecast-by-2029"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 5
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/7532f50e62f545776b7097a9222361c43cd6749b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "image recognition Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report"
     excerpt: "The global image recognition market size is expected to reach USD 80.29 Billion at a steady CAGR of 15.3% in 2028, according to latest analysis by Emergen"
     publishedDateTime: 2022-03-02T14:03:00Z

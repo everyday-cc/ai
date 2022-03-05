@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/california-greenlights-cruise-waymo-auton
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/california-greenlights-cruise-waymo-autonomous-vehicle-service?amp=true"
 type: article
 quality: 189
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1120
     height: 630
     isCached: true
+
+related:
+  - title: "California OKs Self-Driving Ridehail Car Tests with Paying Customers in 2 Counties"
+    excerpt: "The California Public Utilities Commission issued permits to self-driving units of General Motors and Google to allow for passenger service in autonomous vehicles with safety drivers present."
+    publishedDateTime: 2022-03-04T22:47:00Z
+    webUrl: "https://timesofsandiego.com/tech/2022/03/04/california-oks-self-driving-ridehail-car-tests-with-paying-customers-in-2-counties/"
+    type: article
+    provider:
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 33
+    images:
+      - url: "https://timesofsandiego.com/wp-content/uploads/2022/03/Self-Driving-Car.jpg"
+        width: 1000
+        height: 643
+        isCached: true
 
 secured: "BYIUM7SgDICUgZg6moAHtFkDZRlruBRcaxBBGL9c/YNGUtPivCMwBl/K/fduj2woWbd/iDSPE8wFEosb6r8MGFSvUGqDcrUxgenEkQ86452MplHOPdUtwOxx2U2Slwm1nCesWruhvokvgYJMAXTLxm1OMd9vbkM+9um3iHi0eP57ExmkoadSI4VUEbPWol9ijeIDe0H9DELNwa/etcTdneDI1VxFaV5Qb9acKJvgur/flWjnvJbIm2Vj5QgLdoJYtlKalM03KjGJRAYaqlzzQpoPfiWnBMbfJVgreVZZ/gS/K6WFsfMje/mZGEaeCmDYhXfTA+RZrfws65cQ0tbq8w+YMogcXTMhiYoFZHEOVnxUb55OXXgQuWNBh6LufO1yUZuqlGj6NJ0O3uZLWZtRKM0zy29CbITOZVEybyf4+TwIZMDyiFiBW8BlZO6Ud2KFoJo8sKW9pXUzxYB9UT0zJCSZ1/LFe4NiBp7r8NwIYKdn/Rw6gUIPqzVt1ENYDbyiZQ2XoemM/ghJ9vCwhNrneAcBYj9f2tQ9NzH9xuLfeL0=;kzwV9NPpmErazarfv0ywew=="
 ---
