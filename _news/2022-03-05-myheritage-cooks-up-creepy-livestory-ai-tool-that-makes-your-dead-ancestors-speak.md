@@ -9,8 +9,8 @@ ampWebUrl: "https://www.androidpolice.com/myheritage-livestory-ai-dead-ancestors
 cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/myheritage-livestory-ai-dead-ancestors/amp/"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Android Police
@@ -40,6 +40,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "MyHeritage Releases LiveStory, A Groundbreaking Feature That Automatically Creates Video Biographies, Using D-ID Pioneered AI Technology"
+    excerpt: "MyHeritage, the leading global service for discovering your past and empowering your future, and Creative Reality™ startup D-ID, announced today the release of LiveStory, a groundbreaking new feature that creates captivating video biographies."
+    publishedDateTime: 2022-03-03T15:36:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220303005566/myheritage-releases-livestory-a-groundbreaking-feature-that-automatically-creates-video-biographies-using-d-id-pioneered-ai-technology"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "GL6l5BvT7GPd8SwHajkObKQMzvBUSWvP2DhbTaNvKPDtMBXeVJwcuPuYwmO9t2PPMPh9tqEL2pDcfz4z4EdWLxqr9BsIwafiW8A46NBlPR/HmzEHjgnSQGAoZRAk9r9FRr8VHrUdI9IuKS/yRGvFXDb53oxpBoR+yEFLlvA3sE6cjOgdFFA2C/02uP0be2wuexL7shG6GcoHp0G1mLlKNoPQvSTBmwvg6YpP+rQaHZkU3QXC97xQjcg2kAgqyQMv+diukAdUByj2/PnmX+6bXKqx1Zvnc4t/8zf5uYqKDKo2Owuez5Xc2sDxCazB3BWIi81JURcHuBjcVl5GCcwbMog1vECg99tjavVG7XgqwQE=;IaBsKgIum//vkqpMSZ+avQ=="
 ---

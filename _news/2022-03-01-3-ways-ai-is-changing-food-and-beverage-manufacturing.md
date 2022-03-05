@@ -64,7 +64,7 @@ related:
     provider:
       name: Harvard Business Review
       domain: hbr.org
-    quality: 37
+    quality: 39
     images:
       - url: "https://hbr.org/resources/images/article_assets/2022/02/Mar22_04_520116940.jpg"
         width: 1200

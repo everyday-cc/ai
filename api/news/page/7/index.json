@@ -2,6 +2,100 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-02-25-how-ai-technology-can-tackle-future-pandemics.md",
+      "title": "How AI Technology Can Tackle Future Pandemics",
+      "excerpt": "Artificial intelligence (AI) has come to bear on many of our responses to SARS-CoV-2 (COVID-19), and will continue to help us tackle future pandemics",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/Article.aspx?ArticleID=480",
+      "originalUrl": "https://www.azorobotics.com/Article.aspx?ArticleID=480",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/Article_Images/ImageForArticle_480_16457846554832959.jpg",
+          "width": 1000,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/article.aspx?ArticleID=480",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/article.aspx?ArticleID=480",
+      "publishedDateTime": "2022-02-25T02:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-25-moving-ai-from-detection-to-decisioning-in-cybersecurity.md",
+      "title": "Moving AI From Detection To Decisioning In Cybersecurity",
+      "excerpt": "The two partners — human and machine — must work in tandem, with each augmenting the other. Then and only then will AI realize its full promise as a major defense against the digital dark arts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-from-detection-to-decisioning-in-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-from-detection-to-decisioning-in-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60a2963f177a3e9f63eec918/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-from-detection-to-decisioning-in-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/25/moving-ai-from-detection-to-decisioning-in-cybersecurity/amp/",
+      "publishedDateTime": "2022-02-25T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-25-first-wholly-ai-developed-drug-enters-phase-1-trials.md",
       "title": "First Wholly AI-Developed Drug Enters Phase 1 Trials",
       "excerpt": "Insilico Medicine today announces the start of the world’s first Phase 1 clinical trial of a drug developed from scratch using Artificial Intelligence (AI).",
@@ -256,6 +350,48 @@
       ]
     },
     {
+      "path": "_news/2022-02-25-ai-powered-martech-startup-intelligent-relations-announces-acquisition-of-net-positive-agency.md",
+      "title": "AI-Powered MarTech Startup Intelligent Relations Announces Acquisition of Net Positive Agency",
+      "excerpt": "BOSTON, MA / ACCESSWIRE / February 24, 2022 / Intelligent Relations today announces the acquisition of specialist PR and SEO agency the Net",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-martech-startup-intelligent-relations-announces-acquisition-of-net-positive-agency-1031228263",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-martech-startup-intelligent-relations-announces-acquisition-of-net-positive-agency-1031228263",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-24T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-25-companies-improve-their-supply-chains-with-artificial-intelligence.md",
       "title": "Companies Improve Their Supply Chains With Artificial Intelligence",
       "excerpt": "Supply chain vendors have been touting their investments in artificial intelligence (AI) for years. But the number of places AI is being employed, really is increasing.",
@@ -407,48 +543,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-ai-powered-martech-startup-intelligent-relations-announces-acquisition-of-net-positive-agency.md",
-      "title": "AI-Powered MarTech Startup Intelligent Relations Announces Acquisition of Net Positive Agency",
-      "excerpt": "BOSTON, MA / ACCESSWIRE / February 24, 2022 / Intelligent Relations today announces the acquisition of specialist PR and SEO agency the Net Positive Agency for a mix of cash and equity. The acquisition will enable Intelligent Relations to bolster its existing artificial intelligence powered PR platform with new services and capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-business-boston-artificial-intelligence-8499951b72af857155bf6e8ef91c3d7d",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-business-boston-artificial-intelligence-8499951b72af857155bf6e8ef91c3d7d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T10:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1094,108 +1188,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade.md",
-      "title": "Report: A majority of consumers believe AI will have a positive impact in the next decade",
-      "excerpt": "While consumers have become more comfortable with giving up data to reap the benefits of AI, communication and transparency are still key.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/24/report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade/",
-      "originalUrl": "https://venturebeat.com/2022/02/24/report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1208151395-e1645639894269.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/24/report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/24/report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade/amp/",
-      "publishedDateTime": "2022-02-24T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022.md",
-      "title": "The Top Five Sectors Where AI Is Poised To Make Huge Industrial Impacts In 2022",
-      "excerpt": "There’s no denying AI made immense progress in 2021. Moving into 2022, as the CEO of a global AI company creating industrial-grade solutions, it’s looking as though, while innovation will endure, critical advancements won’t necessarily be from the technology itself but more in the way it’s utilized and operationalized.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6216521a02453bb63285909a/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 841,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/amp/",
-      "publishedDateTime": "2022-02-24T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/science-technology-h
 webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-health-business-genetics-299e1a8e05de4483823a3d0dc80c0299"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Insights on the Artificial Intelligence In Diagnostics Global Market to 2027 - Implementation of Cloud-based Technologies Presents Opportunities - Res"
-    excerpt: "The \"Artificial Intelligence In Diagnostics Market Research Report by Component, by Type, by Region - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-03-01T12:19:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=624056"
+  - title: "Smart Robot Market Report 2022-2027 | Industry Trends, Size, Share and Forecast"
+    excerpt: "According to the latest report by IMARC Group, titled, “Smart Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    publishedDateTime: 2022-03-03T12:17:00Z
+    webUrl: "https://www.digitaljournal.com/pr/smart-robot-market-report-2022-2027-industry-trends-size-share-and-forecast"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 35
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEhsLpc1JaYzKNoB35rqXxC2v0Ar7fE3gGpcMA045BA_BLCSkh9-tHZUTxjI_t-JGWpPtcH0r0W_CG4PsvQFO0FZT5XYbJUp0nArVh0IqYHToRgzSPbz6p_JDNnIbb5EXMHaHCZnZwwRN0Ii3QwxlPgtq4jwJznNmmWLRwVA9n4ZNaP3lYHhyNQrey8=w377-h432"
+        width: 327
+        height: 432
+        isCached: true
+  - title: "Artificial Intelligence Market Trends 2022 | Growth, Share, Size, Demand and Future Scope 2027"
+    excerpt: "According to IMARC Group’s latest report, titled “Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    publishedDateTime: 2022-03-03T08:42:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-trends-2022-growth-share-size-demand-and-future-scope-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 27
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/2dc6109d10f9c7cb3e53b861d7a9f851d454174b-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "Om26+rbzV3Il/pvCdG+L+HLYSAE1wfhYKGdsbUPTWsVHghuRAmZBPLwwO/aRSTD0htqOFHfi9k/J/KavhlZsPiX2MbtcNjmViRNnWcWvErwbVedFENWQKo4SzAi+XUQEvTAl4qqIG6H0a/ZLz8rR1mr6mheyempneGgzTABrsetVDYGqJtj8vbHOKq9aU+t7xnlLRM4AKYDArGW7RJ6lwI8dfMz6gQstwDDl4NFHXrJ5SttGXx4VZx9v89iUlJLaiF8V8OWVpa9yXMz3C52DAdufy27J4LPzpWT8zkmUXeq11kF55JvVnCvJ7FkLDeh1ydFR7xjoJhDpoxlhzXrnEfD18GS+YfaccM1eBotIG4M=;9bKtnGbpDJinWv5xzeuINw=="

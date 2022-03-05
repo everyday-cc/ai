@@ -1,20 +1,18 @@
 ---
 category: news
-title: "Microsoft acquires speech recognition company Nuance for $16 billion"
-excerpt: "Microsoft has closed on its approximately $16 billion acquisition of speech recognition company Nuance. The deal, which was announced last year, helps Microsoft Corp. get more entrenched into hospitals and the health care industry through Nuance's widely used medical dictation and transcription tools."
-publishedDateTime: 2022-03-04T16:22:00Z
-originalUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651"
-webUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651"
-ampWebUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651?amp"
-cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651?amp"
+title: "Microsoft Buys Speech Recognition Company for $16 Billion"
+excerpt: "Microsoft has closed on its approximately $16 billion acquisition of speech recognition company Nuance. The deal, which was announced last year, helps Microsoft Corp. get more ent"
+publishedDateTime: 2022-03-04T16:14:00Z
+originalUrl: "https://www.manufacturing.net/software/news/22093769/microsoft-buys-speech-recognition-company-for-16-billion"
+webUrl: "https://www.manufacturing.net/software/news/22093769/microsoft-buys-speech-recognition-company-for-16-billion"
 type: article
-quality: 76
-heat: 156
-published: true
+quality: 56
+heat: -1
+published: false
 
 provider:
-  name: The Daily Star
-  domain: thedailystar.net
+  name: Manufacturing
+  domain: manufacturing.net
 
 topics:
   - Natural Language Processing
@@ -22,12 +20,28 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/01/27/microsoft.jpg?itok=wzEj5a81"
-    width: 750
-    height: 393
+  - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/03/16x9/AP22063541785508.62223ac030364.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+    width: 1200
+    height: 673
     isCached: true
 
 related:
+  - title: "Microsoft acquires speech recognition company Nuance for $16 billion"
+    excerpt: "Microsoft has closed on its approximately $16 billion acquisition of speech recognition company Nuance. The deal, which was announced last year, helps Microsoft Corp. get more entrenched into hospitals and the health care industry through Nuance's widely used medical dictation and transcription tools."
+    publishedDateTime: 2022-03-04T16:22:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 76
+    images:
+      - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/01/27/microsoft.jpg?itok=wzEj5a81"
+        width: 750
+        height: 393
+        isCached: true
   - title: "Microsoft updates Azure for Operators, adds private 5G"
     excerpt: "Azure Operator Distributed Services designed to let telcos run workloads on a single carrier-grade hybrid platform"
     publishedDateTime: 2022-03-01T09:30:00Z
@@ -92,20 +106,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Microsoft Buys Speech Recognition Company for $16 Billion"
-    excerpt: "Microsoft has closed on its approximately $16 billion acquisition of speech recognition company Nuance. The deal, which was announced last year, helps Microsoft Corp. get more ent"
-    publishedDateTime: 2022-03-04T16:14:00Z
-    webUrl: "https://www.manufacturing.net/software/news/22093769/microsoft-buys-speech-recognition-company-for-16-billion"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 56
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/03/16x9/AP22063541785508.62223ac030364.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 673
-        isCached: true
   - title: "Speech recognition startup raises $400,000 for next-generation transcription technology"
     excerpt: "London-based AI startup Alchemy Machines has raised $400,000 in pre-seed funding. The round was led by SFC Capital and saw the participation of Innovate UK. The new funds will support further development of the platform and expansion of the team."
     publishedDateTime: 2022-03-03T14:20:00Z
@@ -146,6 +146,6 @@ related:
         height: 240
         isCached: true
 
-secured: "hykrjk32+N5gkzRY5U3Sj685/xYDlPiuHR9Ow+qdZi4fJmaRiegza4Y9jhtop0wU0mw38/JlvaQkPiSsXzkvgnuO5qVAA1DHGG9hwth/BkVrmPLl/n59uaRGkUPRLQBreAtVdlH3H3Ly8rTsNzqlHU5JhCs86zb6ZbZChmFSAvnQa1yxJh4JVAJIw+heLvsEHqu22wxPShm77nr6TrmS4Gs3zgKV/bGGWwn1kFjBKpXdW+wdyc2xkvICfyc67y4GwNchIjgVRTnhDYqUoS4a7vX1SYaJVHC9fUK3dRK4+N5DojhHu5kQ4q+Nj1rFRiE61tGkEVvRyEccAoFroik/b+b2KeasWKUP/jEgEoBjeQA=;1dvff5H9q7eLVs1t1jgmqw=="
+secured: "H98OIzwTUpxX/TPf5KpCMjK2vgr1ETSXzRXFW7Y9EZ6L3se1cIc+OxlQ+kXke3VC2HJCkK4sY5042X2Mjp09nShzQBKv3e4ObGEkgC4mkT2tflWKgf/GclCFEjbTB2kQxPxC0GLd9NLe5tGtv1yIw9naczfJa5K1ITSx6EPDvBdDTx5cGU6T+XSQl+bcPsLVkRgJsdLokiwyL337AGWFOLeF5/ZWEa6c55gIdGqpufpGiER2JvO9eJaDz81/RENQ2TF0yWtk7Mb1DvjLMOYor8t1/eHiyDcnxlsGHpQmcspRjBwGRadzbSRkRdjVdSxxsrHtCW65hCoVDwvyEIINbxd8CBVpkS1IN7D3+tXH03k=;0BG29pVeFLUjzZSs8rj3lA=="
 ---
 

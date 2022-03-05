@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=624056"
 webUrl: "https://us.acrofan.com/detail.php?number=624056"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Genomics Artificial Intelligence Market Research Report 2022 - Global Outlook & Forecasts to 2027 - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence in Genomics Market - Global Outlook & Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. The artificial intelligence in genomics market to grow at a CAGR of 48."
-    publishedDateTime: 2022-03-03T17:08:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-health-business-genetics-299e1a8e05de4483823a3d0dc80c0299"
+  - title: "Evotec Presents Strategic Roadmap Towards Precision Medicine and Confirms Goals of Action Plan 2025 at Capital Markets Day"
+    excerpt: "LAUNCH OF E.MPD, THE LEADING GLOBAL MOLECULAR PATIENT DATABASE; ROLL-OUT AND ACCELERATION OF AI/ML PRECISION TECHNOLOGIES TO INCREASE PROBABILITY OF SUCCESS (“POS”) IN RESEARC"
+    publishedDateTime: 2022-03-02T06:51:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-science-business-health-artificial-intelligence-f309279ef5eec74487003b68d609aac9"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 11
+    quality: 0
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

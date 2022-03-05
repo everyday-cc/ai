@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-04T15:21:00Z
 originalUrl: "https://hbr.org/2022/03/how-to-scale-ai-in-your-organization?ab=hero-subleft-2"
 webUrl: "https://hbr.org/2022/03/how-to-scale-ai-in-your-organization?ab=hero-subleft-2"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://hbr.org/resources/images/article_assets/2022/02/Mar22_04_520116940.jpg"
@@ -71,6 +72,6 @@ related:
         height: 729
         isCached: true
 
-secured: "j/FDrbMUYKTvN9my7rzWXlNA+gu4Y9w27LzO1NnmC4oArCCO6YDpUEEH0u3lOd0+/jQiitRTr4juBHNcqP+y+c3ud6fHpPw8S4A7IjyDL71tsEisZkj0yCTgurmjn3FnqIGqQiGWc/RIbfs/Krliz+dh5RCeDeduV+ZBQtKqLCqsWJgJEAo9KbKAk4+QWwFHLXZNsKhufiowvaB1rrT3f18bE0hZImgOoSsuWXDA8G6f9t/hBuBxQucGRCEkp41Lqp9ZA1C9IqyXaC+5AlaW60QaGFuirf3Jyv4NSECDj7K6l62YNnoomBwOlTC/KgErZbDHK772/wInobd5GujVT0szKu9MHGOvu5g34e04WK0=;lIViXt/ndMa6wUf5ikKg7g=="
+secured: "giWtBA+fTDXdLiDJtcLOPw/aTcJwCsRHZMgNovlgjdyCPRqJl2QDJABvL5Dz7Pd8B4HAXIgo8pr99JqBRSecXzL/24YMmmXt7udVkUUJaY4AiLrD4eCNjkXGEx5HT2kcR8lxn8lxhu1wHRW4L1bSy7GmU36/NzmzetTd+7Xot3ABlWpp6QW+7B74cR4N+jdOfZvYtBoGT6ZCE9pRn2KSYKMemwuwKMEOfkDDHQ4IzGQI2YsndWEIKa4OZ4hBQhCpf4rB3Z5jbQl4GkJRiBMATxQ45M7iLfnGrYJ76/S1ayA1nxcTDhdBD7ijcQZOIqkSiB6axQMS+tlA4yurX3HDokWYgfensZ0MDH7jfSqOf3AwUDhlIyQop0U7JvnPpyorutd3yzc9iJBml+DoyYmmwBbZlFKKA1K+DrWQYAg71jlXzthz/PcvXKbHyOqdXSaTYKaYhaFH/Q9hKQXw7VZaYNH65IAm2x07/pqg1/zlTqp5V8e8gec7eQBOXEZvT25Vd5hOF1SBT6bFQjQMZOouaQ==;StMMIvvS8vy5ZfJrUpRhBA=="
 ---
 

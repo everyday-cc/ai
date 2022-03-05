@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Microsoft Buys Speech Recognition Company for $16 Billion"
+    excerpt: "Microsoft has closed on its approximately $16 billion acquisition of speech recognition company Nuance. The deal, which was announced last year, helps Microsoft Corp. get more ent"
+    publishedDateTime: 2022-03-04T16:14:00Z
+    webUrl: "https://www.manufacturing.net/software/news/22093769/microsoft-buys-speech-recognition-company-for-16-billion"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 56
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/03/16x9/AP22063541785508.62223ac030364.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 673
+        isCached: true
   - title: "ASOS commits to keep using Microsoft Azure for another five years to support business growth push"
     excerpt: "Since then, Asos has continued to dig into the Microsoft Azure portfolio of cloud products to underpin its forays into artificial intelligence (AI) and support the roll-out of its other data-led customer-facing offerings. “Over the past few years ..."
     publishedDateTime: 2022-03-01T12:41:00Z

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-03-sanctuary-cognitive-systems-closes-c755-million-us58.md",
+      "title": "Sanctuary Cognitive Systems Closes C$75.5 Million (US$58.…",
+      "excerpt": "Sanctuary Cognitive Systems Corporation, a company focused on creating the world's first human-like intelligence in general-purpose robots, today announced the successful closing of an oversubscribed C$75.",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/sanctuary-cognitive-systems-closes-c75-5-million-us58-5-million-series-a-funding-accelerating-its-mission-to-create-the-worlds-first-human-like-intelligence-in-general-purpose-robots-to-address-labour-shortages-around-the-wo-301493034.html",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-sanctuary-cognitive-systems-closes-c755-million-us585-million-/2022/03/02/9555699.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1756088/Sanctuary_Cognitive_Systems_Corporation.jpg?p=facebook",
+          "width": 2104,
+          "height": 1102,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-02T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-03-03-the-ethics-of-computational-language-processing.md",
       "title": "The ethics of computational language processing",
       "excerpt": "Ethical considerations in language processing—and in machine learning—are becoming more important, as technology increases in scope and skill.    The Association of Computational Linguistics (ACL) is an organization which",
@@ -1171,59 +1214,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25.md",
-      "title": "ML inferencing at the edge with Amazon SageMaker Edge and Ambarella CV25",
-      "excerpt": "Ambarella builds computer vision SoCs (system on chips) based on a very efficient AI chip architecture and CVflow that provides the Deep Neural Network (DNN) processing required for edge inferencing use cases like intelligent home monitoring and smart surveillance cameras. Developers convert models trained",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/18/ML-7753-image001.png",
-          "width": 1232,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T09:34:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

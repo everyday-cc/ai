@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/5yONPvEgj6OMXWrb"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/5yONPvEgj6OMXWrb"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: ITWeb
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Telefónica drives energy consumption optimisation through solutions based on Artificial Intelligence and Machine Learning"
+    excerpt: "Finalist project in the GLOMO Awards at MWC 2022 ·The company was shortlisted in the \"Best Mobile Innovation for Climate Action\" category together with Ericsson, thanks to the joint project \"Green Radio - Intelligent software solution for Energy optimization\"."
+    publishedDateTime: 2022-03-02T13:25:00Z
+    webUrl: "https://www.telefonica.com/en/communication-room/telefonica-drives-energy-consumption-optimisation-through-solutions-based-on-artificial-intelligence-and-machine-learning/"
+    ampWebUrl: "https://www.telefonica.com/en/communication-room/telefonica-drives-energy-consumption-optimisation-through-solutions-based-on-artificial-intelligence-and-machine-learning/amp/"
+    cdnAmpWebUrl: "https://www-telefonica-com.cdn.ampproject.org/c/s/www.telefonica.com/en/communication-room/telefonica-drives-energy-consumption-optimisation-through-solutions-based-on-artificial-intelligence-and-machine-learning/amp/"
+    type: article
+    provider:
+      name: Telefonica
+      domain: telefonica.com
+    quality: 49
+    images:
+      - url: "https://www.telefonica.com/en/wp-content/uploads/sites/5/2022/03/imagen-glomo-awards-telefonica-mwc.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "3 ways AI optimisation can revolutionise the financial sector"
     excerpt: "Financial services are increasingly implementing AI technologies in order to help analyse massive volumes of data and identify market trends."
     publishedDateTime: 2022-03-04T10:57:00Z

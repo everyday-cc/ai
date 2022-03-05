@@ -91,6 +91,20 @@ related:
         width: 350
         height: 233
         isCached: true
+  - title: "Microsoft Buys Speech Recognition Company for $16 Billion"
+    excerpt: "Microsoft has closed on its approximately $16 billion acquisition of speech recognition company Nuance. The deal, which was announced last year, helps Microsoft Corp. get more ent"
+    publishedDateTime: 2022-03-04T16:14:00Z
+    webUrl: "https://www.manufacturing.net/software/news/22093769/microsoft-buys-speech-recognition-company-for-16-billion"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 56
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/03/16x9/AP22063541785508.62223ac030364.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 673
+        isCached: true
   - title: "Speech recognition startup raises $400,000 for next-generation transcription technology"
     excerpt: "London-based AI startup Alchemy Machines has raised $400,000 in pre-seed funding. The round was led by SFC Capital and saw the participation of Innovate UK. The new funds will support further development of the platform and expansion of the team."
     publishedDateTime: 2022-03-03T14:20:00Z

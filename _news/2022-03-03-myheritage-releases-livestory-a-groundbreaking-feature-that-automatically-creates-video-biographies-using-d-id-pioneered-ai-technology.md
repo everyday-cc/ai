@@ -2,26 +2,20 @@
 category: news
 title: "MyHeritage Releases LiveStory, A Groundbreaking Feature That Automatically Creates Video Biographies, Using D-ID Pioneered AI Technology"
 excerpt: "MyHeritage, the leading global service for discovering your past and empowering your future, and Creative Reality™ startup D-ID, announced today the release of LiveStory, a groundbreaking new feature that creates captivating video biographies."
-publishedDateTime: 2022-03-03T21:36:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-middle-east-israel-tel-aviv-eaa633ff2d5545b99f7cab42f677fb21"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-middle-east-israel-tel-aviv-eaa633ff2d5545b99f7cab42f677fb21"
+publishedDateTime: 2022-03-03T15:36:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220303005566/myheritage-releases-livestory-a-groundbreaking-feature-that-automatically-creates-video-biographies-using-d-id-pioneered-ai-technology"
+webUrl: "https://www.morningstar.com/news/business-wire/20220303005566/myheritage-releases-livestory-a-groundbreaking-feature-that-automatically-creates-video-biographies-using-d-id-pioneered-ai-technology"
 type: article
-quality: 4
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "MyHeritage cooks up creepy LiveStory AI tool that makes your dead ancestors speak"
@@ -42,14 +36,19 @@ related:
         isCached: true
   - title: "MyHeritage Releases LiveStory, A Groundbreaking Feature That Automatically Creates Video Biographies, Using D-ID Pioneered AI Technology"
     excerpt: "MyHeritage, the leading global service for discovering your past and empowering your future, and Creative Reality™ startup D-ID, announced today the release of LiveStory, a groundbreaking new feature that creates captivating video biographies."
-    publishedDateTime: 2022-03-03T15:36:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20220303005566/myheritage-releases-livestory-a-groundbreaking-feature-that-automatically-creates-video-biographies-using-d-id-pioneered-ai-technology"
+    publishedDateTime: 2022-03-03T21:36:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-middle-east-israel-tel-aviv-eaa633ff2d5545b99f7cab42f677fb21"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "JxVe0lfXE3TelzSDV+HaeA4PjzbOjpk1KKnAzjqoJ1r8vy7P35tHR5KM/8nFR35VRvmUKHdZt522VTnq7Gxl2isVAnNqA4PeRIjzFmEo2bEymYPXRVuj55y08u7ydPoDdpVPASXn7K3+e7zkVtN5FyL+QVPP8jpgN/ijiaz+ZxsZHHjVmlNW7oIciC8AceXshBDFMLdaAs4LAkY+ROOSBAE1UF3s/oYtmUJnSNu2ICIIVK1/zj5AxNljfvzvzlpXezWjoRHoc5ZwnfgmpLjS3Rtgl2OlqIYiAkXGYERSQli+jrTN9oVUOzdZvSqA8mT0U82OrhzUi6KOOrraHaGD9B5q+ApJApeOcz9MFE/y9qI=;fr/Cd6wqzn65+xdiu197gw=="
+secured: "7gOKEN86mclagBpTRpHqTDUKfJbEmhqb1mPTcOI8ClhzhYRN7FRMLGiY6aofhTAP+57HwyNz18r9Q6cMgfJqFeGSw7z2+zp4mgvGyflJj2MqZsrhPWvDS+Ktwbrm+EcWEOftynrVaJHB3HYkEu/fR2/LEU5k2sp+MHjHNdtC49hq6Mug9CWCh0kA2iPcHOBGQGWz0rZ546nLx+LxNREh5y4xx65EPuNTLPLhmXRL6a3j94P2RQ+NhwDdd+f+CfSatnjuh1HOAbLJdTUrleOJwJNOGU2nDvWzCw7Gk+mXDM9HuFsz/GOjTZ/Y76rfeA88+GfG0x/+gT3otCv7fvAd+Cc513HKGhltYxknKWaOaBU=;pWtKwxEOmrvgt3BdROoHQA=="
 ---
 

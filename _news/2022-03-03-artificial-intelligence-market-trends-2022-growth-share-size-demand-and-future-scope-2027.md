@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Agriculture Robots Market – Industry Analysis, Size, Share, Growth, Trends 2024"
-    excerpt: "The global agriculture market is anticipated to be intensified in the years to come owing to the entry of new vendors in the market with highly advanced"
-    publishedDateTime: 2022-02-28T18:22:00Z
-    webUrl: "https://www.digitaljournal.com/pr/agriculture-robots-market-industry-analysis-size-share-growth-trends-2024"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 35
-    images:
-      - url: "https://www.transparencymarketresearch.com/images/agriculture-robots-market.jpg"
-        width: 620
-        height: 380
-        isCached: true
   - title: "Smart Robot Market Report 2022-2027 | Industry Trends, Size, Share and Forecast"
     excerpt: "According to the latest report by IMARC Group, titled, “Smart Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
     publishedDateTime: 2022-03-03T12:17:00Z
@@ -52,6 +38,20 @@ related:
       - url: "https://blogger.googleusercontent.com/img/a/AVvXsEhsLpc1JaYzKNoB35rqXxC2v0Ar7fE3gGpcMA045BA_BLCSkh9-tHZUTxjI_t-JGWpPtcH0r0W_CG4PsvQFO0FZT5XYbJUp0nArVh0IqYHToRgzSPbz6p_JDNnIbb5EXMHaHCZnZwwRN0Ii3QwxlPgtq4jwJznNmmWLRwVA9n4ZNaP3lYHhyNQrey8=w377-h432"
         width: 327
         height: 432
+        isCached: true
+  - title: "Genomics Artificial Intelligence Market Research Report 2022 - Global Outlook & Forecasts to 2027 - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence in Genomics Market - Global Outlook & Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. The artificial intelligence in genomics market to grow at a CAGR of 48."
+    publishedDateTime: 2022-03-03T17:08:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-health-business-genetics-299e1a8e05de4483823a3d0dc80c0299"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 11
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "xof2THGpa4DMe7AQikonWU/dbZShq/VSL87UWfJVvKRhnwpYHetMfOyW74SmI/z9r/mztu+ANx95osy/XB6/11rtaFrNmtcmol9+ExrGxUk6moczxfInYncLsFBspxNB2rxc1+08rt8uGXXbos70lrRAn2zc43ee/Y5tFI31ZoGHajh6JYjAUnHVLUaqSsymIBXyr67AL2dmZJ+skDdjojICN6Z91CU0sCD0UtnwNGa7J/HponJbbTrlqhUsAXiWiPkXlSLjSP8943L+jXWfHe7eEkglVKdkrisT635wDlRe+1DRJ7mFVhbflZuNeqRcQFoesnRB70j62YRTmndxWZ9l7R6VAD7QweHDCZrxeSI=;5HUWW+znWtCDhJkUSVXkmQ=="

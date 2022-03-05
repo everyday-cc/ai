@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-01-qualcomm-announces-ai-powered-snapdragon-x70-5g-modem-with-up-to-10gbps-download-speed.md",
+      "title": "Qualcomm announces AI-powered Snapdragon X70 5G modem with up to 10Gbps download speed",
+      "excerpt": "At the ongoing Mobile World Congress, Qualcomm has announced its latest next-generation modem for smartphones –Qualcomm Snapdragon X70 5G. It comes with increased uplink and downlink speed as well as new features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/",
+      "originalUrl": "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/03/Qualcomm-Snapdragon-X70-Modem.jpg",
+          "width": 1200,
+          "height": 713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/?amp=1",
+      "publishedDateTime": "2022-02-28T18:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-energy-efficient-ai-semiconductor-company-edgecortix-closes-series-a-funding.md",
+      "title": "Energy-efficient AI Semiconductor Company EdgeCortix Closes Series A Funding",
+      "excerpt": "EdgeCortix® the AI-focused fabless semiconductor company today announced that it has closed over $8 Million USD in series A",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding",
+      "originalUrl": "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Mar2022/pr-newswire_500_4_37.jpg?itok=bxgOz32L",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/energy-efficient-ai-semiconductor-company-edgecortix-closes-series-funding?amp",
+      "publishedDateTime": "2022-02-28T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-chinese-self-driving-truck-startup-secures-188-million-in-funding-from-sequoia-china-and-legend-capital.md",
       "title": "Chinese Self-Driving Truck Startup Secures $188 Million In Funding From Sequoia China And Legend Capital",
       "excerpt": "China’s Ministry of Industry and Information Technology rolled out guidelines for autonomous vehicles last April, encouraging local governments to open highways and roads for testing self-driving cars.",
@@ -1101,83 +1196,6 @@
         "AI Hardware",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-27-nasscom-coe-iot-ai-launches-third-edition-of-healthcare-innovation-challenge.md",
-      "title": "NASSCOM CoE- IOT & AI launches third edition of Healthcare Innovation Challenge",
-      "excerpt": "In this program, there is participation from hospitals, diagnostic chains, insurance players, pharma companies and government delegates, technology enterprises and deeptech start-ups",
-      "sourceUrl": null,
-      "webUrl": "https://www.expresshealthcare.in/news/nasscom-coe-iot-ai-launches-third-edition-of-healthcare-innovation-challenge/433791/",
-      "originalUrl": "https://www.expresshealthcare.in/news/nasscom-coe-iot-ai-launches-third-edition-of-healthcare-innovation-challenge/433791/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.expresshealthcare.in/wp-content/uploads/2022/02/27202523/98148b81-8f28-4b5c-a222-55b360195244.jpg",
-          "width": 750,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/nasscom-coe-iot-ai-launches-third-edition-of-healthcare-innovation-challenge/433791/",
-      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/nasscom-coe-iot-ai-launches-third-edition-of-healthcare-innovation-challenge/433791/",
-      "publishedDateTime": "2022-02-27T06:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "expresshealthcare",
-        "domain": "expresshealthcare.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-27-cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist.md",
-      "title": "Cheap Stocks To Buy Now? 5 Fintech Stocks For Your March Watchlist",
-      "excerpt": "Do You Have These 5 Fintech Stocks On Your List Going Into March 2022? Those who invested in fintech stocks have been on a roller coaster ride over the past few years. Many fintech companies skyrocketed during the pandemic due to the increasing adoption of their products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist",
-      "originalUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist?amp",
-      "publishedDateTime": "2022-02-27T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

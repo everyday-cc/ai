@@ -2,6 +2,110 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-02-19-deci-simplifies-deep-learning-apps-on-cpus.md",
+      "title": "Deci simplifies deep learning apps on CPUs",
+      "excerpt": "Deci, has positioned itself as a deep-learning software provider that uses AI to build AI-powered apps, classification models, dubbed DeciNets, specifically for servers using Intel Cascade Lake ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-on-cpus/",
+      "originalUrl": "https://venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-on-cpus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2012/07/cpu.jpg?w=1200&strip=all",
+          "width": 665,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-on-cpus/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-on-cpus/amp/",
+      "publishedDateTime": "2022-02-18T09:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-02-19-walmart-is-expanding-autonomous-delivery-pilot-with-gms-cruise-this-year.md",
+      "title": "Walmart is expanding autonomous delivery pilot with GM’s Cruise this year",
+      "excerpt": "Cruise plans to expand the self-driving delivery pilot it has with Walmart in Arizona ... state legislators. The autonomous vehicle company, which is a subsidiary of GM, is mostly focused on ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/18/gms-self-driving-car-unit-cruise-walmart-pilot/",
+      "originalUrl": "https://techcrunch.com/2022/02/18/gms-self-driving-car-unit-cruise-walmart-pilot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/cruise-av-gif.gif",
+          "width": 674,
+          "height": 379,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/18/gms-self-driving-car-unit-cruise-walmart-pilot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/18/gms-self-driving-car-unit-cruise-walmart-pilot/amp/",
+      "publishedDateTime": "2022-02-18T09:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-19-ai-weekly-eric-schmidts-new-ai-fund-points-to-the-challenge-of-financing-basic-ai-research.md",
       "title": "AI Weekly: Eric Schmidt’s new AI fund points to the challenge of financing basic AI research",
       "excerpt": "like Meta (formerly Facebook), as largely toothless and ineffective. A number of experts, speaking to Wired for a 2020 piece, point out that corporate AI research can lead to an “unscientific ...",
@@ -1144,91 +1248,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-idaho-lawmakers-introduce-a-new-bill-that-would-bar-animals-and-ai-from-personhood.md",
-      "title": "Idaho lawmakers introduce a new bill that would bar animals and AI from ‘personhood’",
-      "excerpt": "Idaho ... bill that would prevent animals, natural resources and artificial intelligence from gaining “personhood status” in Idaho, the Idaho State Journal reports. What’s happening: Idaho’s House State Affairs Committee on Tuesday introduced new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.deseret.com/u-s-world/2022/2/17/22939000/idaho-lawmakers-new-bill-animals-personhood",
-      "originalUrl": "https://www.msn.com/en-us/news/politics/idaho-lawmakers-introduce-a-new-bill-that-would-bar-animals-and-ai-from-e2-80-98personhood-e2-80-99/ar-AAU0qRB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/HTz6hZFtz94Up4QZx7Gb5gQ-Chw=/0x0:1024x683/1400x1050/filters:focal(431x261:593x423):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70522752/AP22011796683524.0.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.deseret.com/platform/amp/u-s-world/2022/2/17/22939000/idaho-lawmakers-new-bill-animals-personhood",
-      "cdnAmpWebUrl": "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/u-s-world/2022/2/17/22939000/idaho-lawmakers-new-bill-animals-personhood",
-      "publishedDateTime": "2022-02-17T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "deseret.com/u-s-world/2022/2/17/22939000/idaho-lawmakers-new-bill-animals-personhood",
-        "domain": "deseret.com/u-s-world/2022/2/17/22939000/idaho-lawmakers-new-bill-animals-personhood",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-ethics-waiver-for-biden-digital-officer-scrutinized-after-stock-sale.md",
-      "title": "Ethics waiver for Biden digital officer scrutinized after stock sale",
-      "excerpt": "The Project on Government Oversight is calling on the Biden administration to rescind ethics waivers after ... she sold her interest in an artificial intelligence defense contractor called ...",
-      "sourceUrl": null,
-      "webUrl": "https://gazette.com/news/ethics-waiver-for-biden-digital-officer-scrutinized-after-stock-sale/article_3897312f-377a-5f19-bf7f-8a9d747d3785.html",
-      "originalUrl": "https://gazette.com/news/ethics-waiver-for-biden-digital-officer-scrutinized-after-stock-sale/article_3897312f-377a-5f19-bf7f-8a9d747d3785.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.prcdn.co/img?cid=9YMC&page=1&width=300",
-          "width": 293,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-17T13:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Gazette",
-        "domain": "gazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
