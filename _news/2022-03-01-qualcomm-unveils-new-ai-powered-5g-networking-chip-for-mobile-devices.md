@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/qualcomm-unveils-new-ai-power
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/qualcomm-unveils-new-ai-powered-5g-networking-chip-for-mobile-devices/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: enterprisetalk
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm announces AI-powered Snapdragon X70 5G modem with up to 10Gbps download speed"
-    excerpt: "At the ongoing Mobile World Congress, Qualcomm has announced its latest next-generation modem for smartphones –Qualcomm Snapdragon X70 5G. It comes with increased uplink and downlink speed as well as new features."
-    publishedDateTime: 2022-03-01T02:53:00Z
-    webUrl: "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/"
-    ampWebUrl: "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/?amp=1"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 81
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2022/03/Qualcomm-Snapdragon-X70-Modem.jpg"
-        width: 1200
-        height: 713
-        isCached: true
   - title: "Qualcomm's Snapdragon X70 modem with AI could arrive in 'iPhone 15'"
     excerpt: "Qualcomm has introduced its Snapdragon X70, a 5G modem that uses AI to increase performance, and it could appear in a future update to the iPhone."
     publishedDateTime: 2022-03-01T12:10:00Z
@@ -105,15 +89,6 @@ related:
         width: 770
         height: 577
         isCached: true
-  - title: "Qualcomm & Samsung have worked to make LPDDR5X memory compatible with Snapdragon chips"
-    excerpt: "Samsung has announced that its LPDDR5X memory is now compatible with Qualcomm Snapdragon chips. Learn more about the chipset and data speeds here."
-    publishedDateTime: 2022-03-03T06:21:00Z
-    webUrl: "https://pocketnow.com/qualcomm-samsung-lpddr5x-memory-snapdragon-chips"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 11
 
 secured: "uE2lFh4l3XY1vnqSW0neSkyZYXo3s5RRKN6u3SqJKWd4Ez8Dv7aHvK730Mrxw5qY9jZR2VWwiVTIM9cBQuKvX+MTw5QSDIgYVJTwUFIMoRiY2R/eHZhYepdhDey25PM+E/U9m+ygR19o4Te47DfDmeb4tjGoobIaUB6RMjjmRVgiuLNBPkxyekz5ndHXLhPX0ZOF1hENrbl59End8JZTwQipAdUP/Mh1fxrPmCz/JEoikfUh+EPG4CGSEkNKechQZuY7h0LSlhup6191XGMDkWLlfECG0oCl4V13ouCj7LxakSm9o2sN8CeVSCqgh+VMNZuPL2oadvVhRbcp5rNez7xtZb+0BrgPrlmiZj3Vzb3nnm3taQT4yfuG3Tv42L2WdUPTwcGoCEogCGPoxnmQcwwXfU28HK+kkGZ90cEtWZOd9CQxeFsK1YWBe8rjxu43ZawktsmWGwk1Wx7WGP6l8YRBzjQrrTRZWLQBFNWz3wQNANFk8TlRbRMsb75Zozkc5OSkHyOdPiMUlHlsjurP+w==;MtF8v+z9uWoVqo7fEJ1Nwg=="
 ---

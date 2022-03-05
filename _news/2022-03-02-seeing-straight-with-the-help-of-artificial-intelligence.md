@@ -29,8 +29,8 @@ images:
 related:
   - title: "Big Regulations That Will Have to Change With the Rise of AI"
     excerpt: "I was going to say the only way to make these laws come out faster would probably be to use AI to make these laws work with the current technology. [laughs] Bordelon: Theoretically, you could do that."
-    publishedDateTime: 2022-03-05T12:45:00Z
-    webUrl: "https://www.nasdaq.com/articles/big-regulations-that-will-have-to-change-with-the-rise-of-ai?time=1646484301"
+    publishedDateTime: 2022-03-05T11:45:00Z
+    webUrl: "https://www.nasdaq.com/articles/big-regulations-that-will-have-to-change-with-the-rise-of-ai"
     ampWebUrl: "https://www.nasdaq.com/articles/big-regulations-that-will-have-to-change-with-the-rise-of-ai?amp"
     cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/big-regulations-that-will-have-to-change-with-the-rise-of-ai?amp"
     type: article

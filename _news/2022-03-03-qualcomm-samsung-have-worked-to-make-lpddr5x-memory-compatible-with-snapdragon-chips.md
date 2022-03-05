@@ -19,99 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Qualcomm announces AI-powered Snapdragon X70 5G modem with up to 10Gbps download speed"
-    excerpt: "At the ongoing Mobile World Congress, Qualcomm has announced its latest next-generation modem for smartphones –Qualcomm Snapdragon X70 5G. It comes with increased uplink and downlink speed as well as new features."
-    publishedDateTime: 2022-03-01T02:53:00Z
-    webUrl: "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/"
-    ampWebUrl: "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/?amp=1"
+  - title: "Next-Gen Snapdragon Chips May Use Samsung's LPDDR5X DRAM"
+    excerpt: "Qualcomm has validated the 14nm 16Gb LPDDR5X DRAM solution that Samsung announced in November last year for use in Snapdragon chips."
+    publishedDateTime: 2022-03-03T15:57:00Z
+    webUrl: "https://www.androidheadlines.com/2022/03/next-gen-snapdragon-chips-may-use-samsungs-lpddr5x-dram.html"
+    ampWebUrl: "https://www.androidheadlines.com/2022/03/next-gen-snapdragon-chips-may-use-samsungs-lpddr5x-dram.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/03/next-gen-snapdragon-chips-may-use-samsungs-lpddr5x-dram.html/amp"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 81
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2022/03/Qualcomm-Snapdragon-X70-Modem.jpg"
-        width: 1200
-        height: 713
-        isCached: true
-  - title: "Qualcomm unveils new AI-powered 5G networking chip for mobile devices"
-    excerpt: "Qualcomm Inc. has released a new chip that mobile devices can use to connect to 5G network networks. The 5G chip, called the Snapdragon X70, integrates the modem with the RF front end into a single package."
-    publishedDateTime: 2022-03-01T14:58:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/qualcomm-unveils-new-ai-powered-5g-networking-chip-for-mobile-devices/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/qualcomm-unveils-new-ai-powered-5g-networking-chip-for-mobile-devices/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/qualcomm-unveils-new-ai-powered-5g-networking-chip-for-mobile-devices/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 74
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/Qualcomm-unveils-new-AI-powered-5G-networking-chip-for-mobile-devices-01-1-1024x577.jpg"
-        width: 1024
-        height: 577
-        isCached: true
-  - title: "Qualcomm's Snapdragon X70 modem with AI could arrive in 'iPhone 15'"
-    excerpt: "Qualcomm has introduced its Snapdragon X70, a 5G modem that uses AI to increase performance, and it could appear in a future update to the iPhone."
-    publishedDateTime: 2022-03-01T12:10:00Z
-    webUrl: "https://appleinsider.com/articles/22/03/01/qualcomms-snapdragon-x70-modem-with-ai-could-arrive-in-iphone-15"
-    ampWebUrl: "https://appleinsider.com/articles/22/03/01/qualcomms-snapdragon-x70-modem-with-ai-could-arrive-in-iphone-15/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/03/01/qualcomms-snapdragon-x70-modem-with-ai-could-arrive-in-iphone-15/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
+      name: Android
+      domain: androidheadlines.com
     quality: 59
     images:
-      - url: "https://photos5.appleinsider.com/gallery/47216-92027-snapdragon-x70-xl.jpg"
-        width: 1312
-        height: 731
-        isCached: true
-  - title: "Qualcomm embeds artificial intelligence into latest 5G processor to boost speeds and signal coverage"
-    excerpt: "At Mobile World Congress, San Diego wireless technology firm looks to the next phase of 5G, which expands use cases beyond smartphones"
-    publishedDateTime: 2022-03-03T02:17:00Z
-    webUrl: "https://www.sandiegouniontribune.com/business/story/2022-03-02/qualcomm-revs-up-5g-processors-for-cars-smartphones-and-home-internet-service-at-mwc"
-    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2022-03-02/qualcomm-revs-up-5g-processors-for-cars-smartphones-and-home-internet-service-at-mwc?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-03-02/qualcomm-revs-up-5g-processors-for-cars-smartphones-and-home-internet-service-at-mwc?_amp=true"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 42
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/ce7fa9b/2147483647/strip/true/crop/4505x3013+0+102/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fzbk%2Fdamlat_images%2FLA%2FLA_PHOTO_SELECTS%2F2018_12%2F3067518_sd_fi_viasat_campusexpand_02.JPG"
-        width: 320
-        height: 214
-        isCached: true
-  - title: "Qualcomm embeds artificial intelligence into latest 5G processor to boost speeds and signal coverage"
-    excerpt: "Though still probably overhyped, 5G has clearly gotten a foothold since it rolled out three years ago, with 175 networks lit up globally and 5G smartphone sales forecast to reach $750 million this year."
-    publishedDateTime: 2022-03-03T17:40:00Z
-    webUrl: "https://techxplore.com/news/2022-03-qualcomm-embeds-artificial-intelligence-latest.html"
-    ampWebUrl: "https://techxplore.com/news/2022-03-qualcomm-embeds-artificial-intelligence-latest.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-qualcomm-embeds-artificial-intelligence-latest.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 42
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/qualcomm.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Qualcomm unveils its AI-powered Snapdragon X70 modem"
-    excerpt: "Qualcomm has announced the new AI-driven Snapdragon X70 modem at this year’s Mobile World Congress in Barcelona. The modem is expected to deliver an improved 5G experience for mobile devices and tablets."
-    publishedDateTime: 2022-03-01T12:36:00Z
-    webUrl: "https://analyticsindiamag.com/qualcomm-unveils-its-ai-powered-snapdragon-x70-modem/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/qualcomm-Ai-investments.jpeg"
-        width: 770
-        height: 577
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/03/Samsung-LPDDR5X_DRAM.jpg"
+        width: 1664
+        height: 1128
         isCached: true
 
 secured: "ecP6I0TcHbVCXXRAZQc0/EaEhK5uIHyDefwadLTEjvx4lm7rw3TrtP4GPpnEA0IVALIUWfWGXHuFdt6SONfzmRarfhOAuCDjB+/y4FbzePwcw/YKyzY975hA/SVnmvIkXDzjZ8KhtsHDkxXBnCvnu+RS15k9reawuMFF7TLg7ltYIgDjmB+PhZ9+Zsp2UZ709h1lpmQ2oFIlrth367lZtP7vo5ad/cPM4QNHIHv/DmAPEaiFN9B2D4mc27P8l/A6qDEJuOKK+avI/CwH5bZ4AE12Kw6LIl/vCP06q/x+4Q2qgo4oW3Vf2BxaZ4QTx/Syx35ClpyiYZzSflLxfEVCBISa6Jo9cSnx3DY7Jkk/lbk=;9F5N2udQIfoN8mUPcbPxDw=="

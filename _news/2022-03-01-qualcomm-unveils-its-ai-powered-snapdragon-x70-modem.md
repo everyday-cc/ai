@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm announces AI-powered Snapdragon X70 5G modem with up to 10Gbps download speed"
-    excerpt: "At the ongoing Mobile World Congress, Qualcomm has announced its latest next-generation modem for smartphones –Qualcomm Snapdragon X70 5G. It comes with increased uplink and downlink speed as well as new features."
-    publishedDateTime: 2022-03-01T02:53:00Z
-    webUrl: "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/"
-    ampWebUrl: "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/?amp=1"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 81
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2022/03/Qualcomm-Snapdragon-X70-Modem.jpg"
-        width: 1200
-        height: 713
-        isCached: true
   - title: "Qualcomm unveils new AI-powered 5G networking chip for mobile devices"
     excerpt: "Qualcomm Inc. has released a new chip that mobile devices can use to connect to 5G network networks. The 5G chip, called the Snapdragon X70, integrates the modem with the RF front end into a single package."
     publishedDateTime: 2022-03-01T14:58:00Z
@@ -105,15 +89,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Qualcomm & Samsung have worked to make LPDDR5X memory compatible with Snapdragon chips"
-    excerpt: "Samsung has announced that its LPDDR5X memory is now compatible with Qualcomm Snapdragon chips. Learn more about the chipset and data speeds here."
-    publishedDateTime: 2022-03-03T06:21:00Z
-    webUrl: "https://pocketnow.com/qualcomm-samsung-lpddr5x-memory-snapdragon-chips"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 11
 
 secured: "DmxG4HBEMeZSXqbgRqnhfTuNxJmDL+T2az/hgk/chooxa8zYQt4QWagCrwjXwvNUTsIYjYV282vJrxhBFXaR+p9dnCza5AvvvUiU2IADXh2mYPk17R2ORjzttF0abj/2cRLQOcQHxhLCTolabXYWAqedREdNw7ybfShqpm+CnnWXKWzHH/3xltiEjLZ4BhHp5XXXUvcyhRo3uLJ7CZi+9b/X9VTChseeA7uxVxDobttzjHKe4NxQ75AiJ+LW6l+dOUcZtQQDvyRmMtANi5DSHM+GkGtpI250dO127wUSw1AF9FbSe3JLIaTxtPQWHdzhq+e5jbVvbZ7REbBDSTGIFcF+Zhql9S6JomKrYOL3jDg=;kh7lX14rEKSEeZ9Qfr1uTw=="
 ---

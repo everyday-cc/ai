@@ -20,21 +20,21 @@ topics:
   - AI
 
 related:
-  - title: "Researchers develop an AI-powered surveillance system for future pandemics"
-    excerpt: "Nobody wants to think about the next pandemic. But we need to be prepared, and a critical step in prevention is early detection and intervention."
-    publishedDateTime: 2022-03-01T08:01:00Z
-    webUrl: "https://techxplore.com/news/2022-03-ai-powered-surveillance-future-pandemics.html"
-    ampWebUrl: "https://techxplore.com/news/2022-03-ai-powered-surveillance-future-pandemics.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ai-powered-surveillance-future-pandemics.amp"
+  - title: "How AI-powered tech landed man in jail with scant evidence"
+    excerpt: "Williams was jailed last August, accused of killing a young man from the neighborhood who asked him for a ride during a night of unrest over police brutality in May. But the key evidence against Williams didn’t come from an eyewitness or an informant;"
+    publishedDateTime: 2022-03-05T18:26:00Z
+    webUrl: "https://www.ourmidland.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+    ampWebUrl: "https://www.ourmidland.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 55
+      name: Our Midland MI
+      domain: ourmidland.com
+    quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-1.jpg"
-        width: 1920
-        height: 875
+      - url: "https://s.hdnux.com/photos/01/24/41/74/22159127/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "nsVGPNkfrIVQPVHFukfQaWAx9llv1/Y7GbTivfSGBYo7wwBbmKt7RZbRxrqDPBZjH3eWS/WiLqU7vzJ5hXPejOA3t8Tb9fuMeINzrDbD3cuUDAi5ai2yeE8mNcyhMIMratAYif90IgB3I53ceT86JOJusU9YCloPQKLlHbi5Z2odIRhg4Uz7YSey3SDFxJNPZ4iKuM8jfbTajP9Kb775JzbDj1hSoUg0cHtq4yZgO1QyVP04mm6lYXiHBKmI3t5ekNT6UpFAg6KWKO1MKXQIdtpiYd2eXWjBpRBLSxJWgrPTQHCsaTvOHdFsfybmiboFpC+M/8an9qsxaPsXPwN6gcRCbCCq7/YI6EwkplnGPBQ=;Ay0v4KRXXTbgd0jP6dgOlw=="

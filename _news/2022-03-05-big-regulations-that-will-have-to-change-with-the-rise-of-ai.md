@@ -2,9 +2,9 @@
 category: news
 title: "Big Regulations That Will Have to Change With the Rise of AI"
 excerpt: "I was going to say the only way to make these laws come out faster would probably be to use AI to make these laws work with the current technology. [laughs] Bordelon: Theoretically, you could do that."
-publishedDateTime: 2022-03-05T12:45:00Z
-originalUrl: "https://www.nasdaq.com/articles/big-regulations-that-will-have-to-change-with-the-rise-of-ai?time=1646484301"
-webUrl: "https://www.nasdaq.com/articles/big-regulations-that-will-have-to-change-with-the-rise-of-ai?time=1646484301"
+publishedDateTime: 2022-03-05T11:45:00Z
+originalUrl: "https://www.nasdaq.com/articles/big-regulations-that-will-have-to-change-with-the-rise-of-ai"
+webUrl: "https://www.nasdaq.com/articles/big-regulations-that-will-have-to-change-with-the-rise-of-ai"
 ampWebUrl: "https://www.nasdaq.com/articles/big-regulations-that-will-have-to-change-with-the-rise-of-ai?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/big-regulations-that-will-have-to-change-with-the-rise-of-ai?amp"
 type: article
@@ -37,6 +37,6 @@ related:
         height: 400
         isCached: true
 
-secured: "/TzfNUtWopPg1vW1DFb/P2gCjGM2/R6/l4UUbicyGndwDIjcqehwVZxKKo5dsIjWb/7bkZC2+biCWvP6cdROREk2bugc+pRKR2mJKdVE4uKB8DP59s14DiIcZk87/25LKoDBPSj/IC/BnJ2UXzQrepRabralZ0fsOKMvpc/UddllyTcqROkXp8NHhm+LYxRl+59CrUlzewwzODFiyRze6V53A1LTsa68eF9arM3OOEiyXSmSJgFgZy2sfOt1xZF411BiJdXrxnKObG5ziEg3HeS8gqiBA29G6NI7J+n/adGkKRZqWyH1x5T7YVL7fynEL5iumy05hQLGCZ4Xa/cS/IZIoEj/7zPN71mcsB1b3g/piOmmJw1rnPQonpdxXuicIaeJByzS+AhalYaKnscB2Xo8+cIcIDJdpKI6JkSOM69Wu2732NqltysLwxTKPk8rXGeMShNRFgLja8pY7F13JYn7h0xMaxGPLL9q3MB58XK0UuxtO9pCUO3ifKePxp8nvBSdj5gzv8xwXj487x6H1A==;41sYuUtMoeVEEryzA34Tfg=="
+secured: "imTA/gUEyUDdlk5MeoTUsbDI1L91Ma+NmghFxsqm6GqWiryLRgmOdC3+47A9uH3kIEbrKJXwaIXQVA3bSL5H2fVB5JGkcu403qXbLtaNPiOYa/sbWrFCn1je+Ym46uQ++EeFq+fvfRnvV3uITxrleyx2Pap6lh858xbwRhT5ZqGUA7FYZAqRlBxWKCsuWWvTQnat63vv+WrHee2LKK5eVJ/9HMeGeXtkIWGP1fBjOUbDi2Ss41nGE8Fw35bHg6o73rsBBA28MD4YtgsaW+sDULtwcuBDNJ0CZwEhd0jj7fWTBKmV3xSc7CL/Iw2AMdUYaJ8SWv4Y09X9OwjfW6byD518ke/rxoGMQVPC7cV1hoJgpBBszhd2lgT6gGVv7jl8N94Vgo3ZjKwxVdvfIvaDVwqQFzMIyLXKTeENI7o6sKcOrZtx66P9LJBVGjz8UAoyq//ZOLsNLTUldEfo7Hhw/qNfUG3b0yqn+UjFhT/SnBYp6WPQKrdhxHTcoBWr/Fa5LYuYdaZ5Z0gpo99gjPuZkQ==;nygkcuE5KBmI4p1TxgBsgw=="
 ---
 
