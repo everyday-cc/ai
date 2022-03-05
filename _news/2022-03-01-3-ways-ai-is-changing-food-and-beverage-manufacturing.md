@@ -59,7 +59,7 @@ related:
   - title: "How to Scale AI in Your Organization"
     excerpt: "AI is embedding itself into the products and processes of virtually every industry. But implementing AI at scale remains an unresolved, frustrating issue for most organizations. Businesses can help ensure success of their AI efforts by scaling teams,"
     publishedDateTime: 2022-03-04T15:21:00Z
-    webUrl: "https://hbr.org/2022/03/how-to-scale-ai-in-your-organization?ab=hero-subleft-2"
+    webUrl: "https://hbr.org/2022/03/how-to-scale-ai-in-your-organization"
     type: article
     provider:
       name: Harvard Business Review

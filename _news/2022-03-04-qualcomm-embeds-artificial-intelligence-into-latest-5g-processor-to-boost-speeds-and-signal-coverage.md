@@ -58,22 +58,6 @@ related:
         width: 1024
         height: 577
         isCached: true
-  - title: "Qualcomm Announces X70 Modem, Joining AI & 5G For Better Connections"
-    excerpt: "Qualcomm has now officially announced its next-generation 5G modem chip empowered with AI, the Snapdragon X70. The modem is the first reported to be built"
-    publishedDateTime: 2022-02-28T19:22:00Z
-    webUrl: "https://www.androidheadlines.com/2022/02/qualcomm-snapdragon-x70-chip-ai-5g.html"
-    ampWebUrl: "https://www.androidheadlines.com/2022/02/qualcomm-snapdragon-x70-chip-ai-5g.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/02/qualcomm-snapdragon-x70-chip-ai-5g.html?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/02/qualcomm-snapdragon-x70-5g-modem-from-Android-Central.jpg"
-        width: 1919
-        height: 1080
-        isCached: true
   - title: "Qualcomm's Snapdragon X70 modem with AI could arrive in 'iPhone 15'"
     excerpt: "Qualcomm has introduced its Snapdragon X70, a 5G modem that uses AI to increase performance, and it could appear in a future update to the iPhone."
     publishedDateTime: 2022-03-01T12:10:00Z
@@ -89,20 +73,6 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/47216-92027-snapdragon-x70-xl.jpg"
         width: 1312
         height: 731
-        isCached: true
-  - title: "Qualcomm debuts new AI-powered 5G networking chip for mobile devices"
-    excerpt: "Qualcomm Inc. today debuted a new chip that mobile devices can use to connect to 5G carrier networks. A mobile device relies on not one but several different hardware components to establish 5G connections."
-    publishedDateTime: 2022-02-28T20:37:00Z
-    webUrl: "https://siliconangle.com/2022/02/28/qualcomm-debuts-new-ai-powered-5g-networking-chip-mobile-devices/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/qualcomm.png"
-        width: 850
-        height: 505
         isCached: true
   - title: "Qualcomm embeds artificial intelligence into latest 5G processor to boost speeds and signal coverage"
     excerpt: "At Mobile World Congress, San Diego wireless technology firm looks to the next phase of 5G, which expands use cases beyond smartphones"

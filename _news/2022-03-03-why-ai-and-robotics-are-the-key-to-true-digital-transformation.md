@@ -7,7 +7,7 @@ originalUrl: "https://za.investing.com/news/why-ai-and-robotics-are-the-key-to-t
 webUrl: "https://za.investing.com/news/why-ai-and-robotics-are-the-key-to-true-digital-transformation-2515818"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 251
     height: 282
     isCached: true
-
-related:
-  - title: "AI-Powered Retail Digital Signage Transforms Superstores"
-    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-    publishedDateTime: 2022-02-28T20:00:00Z
-    webUrl: "https://www.computerworld.com/resources/231362/ai-powered-retail-digital-signage-transforms-superstores"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 37
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "iXgqPdf2bRv/FSRRFg5dSZ0vnE+7X2bX2pheNr4yVpsII8E2/Q0w10iZ4M9eTAQWOb1SWYv/OOolpHriJQlZvTeGDRQtliEd59lwdbPyv9zevSjIWbPxYMQSQPd9g19LFNak6OG7pCs/JscgNG7f3PMx54WqCoy9Ro5fEEmJSMZKWdLUVWA2xWeKomH/3ccTg+FLtO6QvXTDOvjv4YNCt6OdbymhoQT/Pbito7QBSlRbpVKr6oLz8DIkT4NuQIGnLISby05JQVHv8P2zXusYxbeEKlvey0i2Yqxk4ZTs1tSbGL52larHkUaf9PQkYWsc7WyYh3eqTtS47puuI3u0oBjzRB/T77Ov3LMmIvqeT0caVerwTXRHxeMuJzrQNk7Q9kGNy7CLRrg/ItdTVSNyz4f3RDSO37IvowHJXhSKAAaCWMDh7aug/Na75JyZ++9zv0Vwj3atANOKCasvY6/Pwl1hIeyAEOPitzI4aRb7QynEhWSMZtHnBfPK8RY2opWI5bPKTStBtp52JuG9CPON4Q==;/+KZd8WgtTfAg6jAr9bf3Q=="
 ---

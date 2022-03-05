@@ -3,8 +3,8 @@ category: news
 title: "How to Scale AI in Your Organization"
 excerpt: "AI is embedding itself into the products and processes of virtually every industry. But implementing AI at scale remains an unresolved, frustrating issue for most organizations. Businesses can help ensure success of their AI efforts by scaling teams,"
 publishedDateTime: 2022-03-04T15:21:00Z
-originalUrl: "https://hbr.org/2022/03/how-to-scale-ai-in-your-organization?ab=hero-subleft-2"
-webUrl: "https://hbr.org/2022/03/how-to-scale-ai-in-your-organization?ab=hero-subleft-2"
+originalUrl: "https://hbr.org/2022/03/how-to-scale-ai-in-your-organization"
+webUrl: "https://hbr.org/2022/03/how-to-scale-ai-in-your-organization"
 type: article
 quality: 39
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: hbr.org
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 images:
   - url: "https://hbr.org/resources/images/article_assets/2022/02/Mar22_04_520116940.jpg"
@@ -72,6 +72,6 @@ related:
         height: 729
         isCached: true
 
-secured: "giWtBA+fTDXdLiDJtcLOPw/aTcJwCsRHZMgNovlgjdyCPRqJl2QDJABvL5Dz7Pd8B4HAXIgo8pr99JqBRSecXzL/24YMmmXt7udVkUUJaY4AiLrD4eCNjkXGEx5HT2kcR8lxn8lxhu1wHRW4L1bSy7GmU36/NzmzetTd+7Xot3ABlWpp6QW+7B74cR4N+jdOfZvYtBoGT6ZCE9pRn2KSYKMemwuwKMEOfkDDHQ4IzGQI2YsndWEIKa4OZ4hBQhCpf4rB3Z5jbQl4GkJRiBMATxQ45M7iLfnGrYJ76/S1ayA1nxcTDhdBD7ijcQZOIqkSiB6axQMS+tlA4yurX3HDokWYgfensZ0MDH7jfSqOf3AwUDhlIyQop0U7JvnPpyorutd3yzc9iJBml+DoyYmmwBbZlFKKA1K+DrWQYAg71jlXzthz/PcvXKbHyOqdXSaTYKaYhaFH/Q9hKQXw7VZaYNH65IAm2x07/pqg1/zlTqp5V8e8gec7eQBOXEZvT25Vd5hOF1SBT6bFQjQMZOouaQ==;StMMIvvS8vy5ZfJrUpRhBA=="
+secured: "ypqysSNg4HgxFO5dQaqtqYPtCvP2T2PLGXqNDvsYxVEIKq+2xZ5O6jGqRRIbByTBukLPYWQJdEn9RLLL0w/GOD1SPwRcnDu2OJ8GwZ0n/0gfCbpfyTC3LkjLu4jt0Que1WBYJ2a3BQgzOEK75L35rJ1jMArVHAcX5xElKGiSTDAN4FfXtKlgV2QaDDBXdfDviXJNlbkKQ0k+kHJOQibS75HnOECkbyAz9KlJlUFIari6GKHT+a06lwqWtAmvEq2Ns1pVqaiRcwOP8kYiEK2lVyTnfcAiH4+8vyoHPVDDOTVx1rUcnndo2wUje8RFd/LDtGYOrJTfaqrxo6gK/z7nbDZlysfcwdGnC5y2eoLfiGM=;efGGkSOnZial4qj/ELA2kw=="
 ---
 

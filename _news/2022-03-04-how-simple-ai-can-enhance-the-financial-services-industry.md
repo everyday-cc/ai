@@ -18,33 +18,63 @@ topics:
   - AI
 
 related:
-  - title: "Why AI is critical to seeing the real world behind financial services data"
-    excerpt: "Dan Onions, global head of data management, Quantexa, explains why AI is key to seeing the real world behind financial services data"
-    publishedDateTime: 2022-03-02T10:31:00Z
-    webUrl: "https://www.information-age.com/why-ai-critical-to-seeing-real-world-behind-financial-services-data-123498874/"
+  - title: "Most Common Artificial Intelligence Applications in the Fashion Industry"
+    excerpt: "AI technologies are assisting fashion firms in identifying key trends and choices in the market, allowing them to update their shelves more quickly with"
+    publishedDateTime: 2022-03-04T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/most-common-artificial-intelligence-applications-in-the-fashion-industry-nid-9457.html"
     type: article
     provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 35
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 36
     images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2022/03/why-ai-critical-to-seeing-real-world-behind-financial-services-data.jpeg.optimal.jpeg"
-        width: 1080
-        height: 607
+      - url: "https://www.cioapplications.com/newstransfer/upload/yrxh2450308.jpg"
+        width: 450
+        height: 308
         isCached: true
-  - title: "CEROS FINANCIAL SERVICES ARRANGES $15 MILLION FINANCING FOR PRISTINE SURGICAL"
-    excerpt: "Ceros Financial Services announced that Ceros Capital Markets, its investment banking division, has completed a $15 million Series D (Series A4) financing round for"
-    publishedDateTime: 2022-03-02T13:18:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/ceros-financial-services-arranges-15-million-financing-for-pristine-surgical/article_6e305115-750c-5b7b-8923-673b9713e5cc.html"
+  - title: "Outlook on the Wireless Mesh Network Global Market to 2028 - Rising Applications in the Healthcare Industry is Driving Growth"
+    excerpt: "The \"Wireless Mesh Network Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The wireless mesh network market is projected to grow steadily during the forecast period."
+    publishedDateTime: 2022-03-01T09:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/03/g25896974/outlook-on-the-wireless-mesh-network-global-market-to-2028-rising-applications-in-the-healthcare-i"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25896974"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25896974"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 21
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Machine learning innovation among power industry companies has dropped off in the last year"
+    excerpt: "Research and innovation in machine learning in the power industry operations and technologies sector has declined in the last year."
+    publishedDateTime: 2022-03-02T13:00:00Z
+    webUrl: "https://www.power-technology.com/features/machine-learning-innovation-among-power-industry-companies-has-dropped-off-in-the-last-year/"
+    type: article
+    provider:
+      name: Power Technology
+      domain: power-technology.com
+    quality: 29
+    images:
+      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/02/powerpatents0103-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
+  - title: "Machine learning innovation among mining industry companies has dropped off in the last year"
+    excerpt: "Research and innovation in machine learning in the mining industry operations and technologies sector has declined in the last year."
+    publishedDateTime: 2022-03-02T13:00:00Z
+    webUrl: "https://www.mining-technology.com/features/machine-learning-innovation-among-mining-industry-companies-has-dropped-off-in-the-last-year/"
+    type: article
+    provider:
+      name: Mining Technology
+      domain: mining-technology.com
+    quality: 28
+    images:
+      - url: "https://www.mining-technology.com/wp-content/uploads/sites/19/2022/02/miningpatents0103-1038x778.png"
+        width: 1038
+        height: 778
         isCached: true
 
 secured: "5579h0ACM0Du7NfKb/GM4sKPh25Xl5f2KR26rLz6HyB8OXRWfzfWlAfzlkYDyQM+c/t/JW+/2U8k9yeZlaYMlkDv2g1yNsGk7Pb4sVGwUWUL96L6NkT3OKkIMHxBpMWWrcOzwtlPb8UnpIOmEZ90ERR/tIW+lPfZaohFx5d/FY9W2ZXdrvEt68NBGhpjlmCAE7tgjPGn6O+IpR0g9hAs7NWbhHABWqttOq1nau9PpnP5nKgmMmm2e9uixWZ3tZq5+6UVLKeRama5Ufv2x9oOJXJSpqq8aKYyliR88zGkrgGDiLWuB1tWgLEo85tPXtv656BMlMxBP34JPwC+KxaDOUIlavCVnU6FMxrsQ4Z4f/U=;CT4WQEVQqh27isaaVvKRcg=="

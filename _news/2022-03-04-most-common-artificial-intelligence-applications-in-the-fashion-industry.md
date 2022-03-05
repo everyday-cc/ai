@@ -1,46 +1,44 @@
 ---
 category: news
-title: "Outlook on the Wireless Mesh Network Global Market to 2028 - Rising Applications in the Healthcare Industry is Driving Growth"
-excerpt: "The \"Wireless Mesh Network Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The wireless mesh network market is projected to grow steadily during the forecast period."
-publishedDateTime: 2022-03-01T09:58:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/03/g25896974/outlook-on-the-wireless-mesh-network-global-market-to-2028-rising-applications-in-the-healthcare-i"
-webUrl: "https://www.benzinga.com/pressreleases/22/03/g25896974/outlook-on-the-wireless-mesh-network-global-market-to-2028-rising-applications-in-the-healthcare-i"
-ampWebUrl: "https://www.benzinga.com/amp/content/25896974"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25896974"
+title: "Most Common Artificial Intelligence Applications in the Fashion Industry"
+excerpt: "AI technologies are assisting fashion firms in identifying key trends and choices in the market, allowing them to update their shelves more quickly with"
+publishedDateTime: 2022-03-04T00:00:00Z
+originalUrl: "https://www.cioapplications.com/news/most-common-artificial-intelligence-applications-in-the-fashion-industry-nid-9457.html"
+webUrl: "https://www.cioapplications.com/news/most-common-artificial-intelligence-applications-in-the-fashion-industry-nid-9457.html"
 type: article
-quality: 34
-heat: -1
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: CIO Applications
+  domain: cioapplications.com
 
 topics:
-  - AI in Autos
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://www.cioapplications.com/newstransfer/upload/yrxh2450308.jpg"
+    width: 450
+    height: 308
     isCached: true
 
 related:
-  - title: "Most Common Artificial Intelligence Applications in the Fashion Industry"
-    excerpt: "AI technologies are assisting fashion firms in identifying key trends and choices in the market, allowing them to update their shelves more quickly with"
-    publishedDateTime: 2022-03-04T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/most-common-artificial-intelligence-applications-in-the-fashion-industry-nid-9457.html"
+  - title: "Outlook on the Wireless Mesh Network Global Market to 2028 - Rising Applications in the Healthcare Industry is Driving Growth"
+    excerpt: "The \"Wireless Mesh Network Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The wireless mesh network market is projected to grow steadily during the forecast period."
+    publishedDateTime: 2022-03-01T09:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/03/g25896974/outlook-on-the-wireless-mesh-network-global-market-to-2028-rising-applications-in-the-healthcare-i"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25896974"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25896974"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 36
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/yrxh2450308.jpg"
-        width: 450
-        height: 308
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Machine learning innovation among power industry companies has dropped off in the last year"
     excerpt: "Research and innovation in machine learning in the power industry operations and technologies sector has declined in the last year."
@@ -80,6 +78,6 @@ related:
       domain: insidebigdata.com
     quality: 17
 
-secured: "3w/7LSoPFaNXoYWDxnOoPAKooaC5J7IcSmy/2Pkof5MnlYFga/xgFgnQZ0SKXUWVjcxwnIG7yhMsE6/MB8cX0BEcUAh4GolKYVCVD0jLrUrHSRlR6U0sYZX6U7fdiAuv1DzgXNg1EL44f2zKzAVL+pMR5y2zMlUMevLm7UswoL36RJSv03+g9EtfNiNQmxAt8P0pomlpr9Qv/jVINX5xVYXzspnPeX4VV0qtf8thzEuJtQ+zwhJtJ0H2itWwVYG0ZCTak0sjMUAirPn/I741iZLQ12uNGBqKEpCcdl7BlUXvVvetQYpbMkLfuJgStub/USloxbVFH20KQciluE30g+unMk2X8IOpaq6BrxQZcsc=;UGWNW5ZmAbAXfQctlq+9Ug=="
+secured: "o6kG/puDBjFTpBuaWWjTbZIcsXMMWJHX+oUWhIOxiYrQSjyybZeJHeAy2JzrV0WXlYCYudKr7bb1mzMSmEsGoFJ0inMC41nra3qJms78zhcMVWHYX9Wag/rj5D3I7CT3DILST4alTs5g1aV5GUU9x2L7Snx0zFUfdwPuMr+YIOzgAFBsZM6RQXHPHiY/nc7YJaK+CT6Oos/OxI984WkrCHeziDvnNyMM4X5PTPG7hEWhDWjjfT91tensC3icWfPKbej/UMMe8yS4mILOrIRW0q9f8FLHYj57pYLi+HQpF2V7Dwdk0sQiqJWm8r6RUs9vsBRGczkA2OopRtKYTvVBVuxCPbVP7rG6Efb+GlCNSuQ=;fW34UbwX0d9FK8qetTpIVg=="
 ---
 

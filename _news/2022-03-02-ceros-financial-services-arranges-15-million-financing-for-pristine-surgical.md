@@ -39,15 +39,6 @@ related:
         width: 1080
         height: 607
         isCached: true
-  - title: "How Simple AI Can Enhance The Financial Services Industry"
-    excerpt: "In this special guest feature, Kumesh Aroomoogan, Co-founder and CEO of Accern, believes that data is increasingly being used and desired and financial professionals need faster ways to take advantage of it."
-    publishedDateTime: 2022-03-04T14:00:00Z
-    webUrl: "https://insidebigdata.com/2022/03/04/how-simple-ai-can-enhance-the-financial-services-industry/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
 
 secured: "lTTigfylrv/hJXSXbT/TeLPDCVQ/YeA9R/tDs3rH4f4s9hcE/G3TjWNmIGL3kVOCVAkviL8Nq7SUaXNqgR7blZ5QhAV1ZJFkv+wMj6329QwMDxM31W9sKvgfhDw56xkpoQXyofPTCTvH1BZul7TJjB0KnHZ4YJ5H5K+2f68CzEdty5XRTtW/xeLQBwd9Ge606JCOxHzIATtRYsgkU3T4rlelsCTDwUSl+3jVNC64iVoixnW2GNSxrJxnZ72svP/c7j4lQ2tVrOo98k3Kl5q8/PDpSobflNTWktszYRD6nREhUEDQJOsRNbd8O+f1B/oWF1lTwf3HHnDs3+MAh6BWfs8yR8vHhzl4biVdIZJn/T4D1wU9iMgzHGi63nZV+q5XpzWGR2tJmhOmNiuq12TUd427nLftJlKI9wdXCH+P6vx9+ChzJQgPePcLuAnjtbsCEMiROP7bCiSWy1ilkMQ34p11KcgFXJUttwtyT9diWLPJPM68C26B5hCguQyKIrepC9lDx6TrUvL1oYGARQRh5w==;cRc3NV1V5CKa1Fj/i4vtgA=="
 ---

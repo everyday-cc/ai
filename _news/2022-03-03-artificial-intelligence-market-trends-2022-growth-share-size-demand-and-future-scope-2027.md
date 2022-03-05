@@ -39,19 +39,33 @@ related:
         width: 327
         height: 432
         isCached: true
-  - title: "Genomics Artificial Intelligence Market Research Report 2022 - Global Outlook & Forecasts to 2027 - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence in Genomics Market - Global Outlook & Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. The artificial intelligence in genomics market to grow at a CAGR of 48."
-    publishedDateTime: 2022-03-03T17:08:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-health-business-genetics-299e1a8e05de4483823a3d0dc80c0299"
+  - title: "Smart Robot Market: Report Analysis, Share, Revenue, Growth Rate With Forecast Overview 2022-2031"
+    excerpt: "Comserve / -- The Smart Robot Market is expected to be around US$ 17 Billion by 2031 at a CAGR of 24% in the given forecast period. A smart robot is an artificial intelligence (AI) system that can learn from its environment and its experience and build on its capabilities based on that knowledge."
+    publishedDateTime: 2022-03-02T06:42:00Z
+    webUrl: "https://menafn.com/1103786468/Smart-Robot-Market-Report-Analysis-Share-Revenue-Growth-Rate-With-Forecast-Overview-2022-2031"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 26
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?734142"
+        width: 374
+        height: 250
+        isCached: true
+  - title: "E-Learning Market Recent Trends, Development, Growth and Forecast 2021-2031"
+    excerpt: "The global e-learning market is estimated to grow at a favorable rate from 2021 to 2031 (forecast period). Over the last three to five years, the"
+    publishedDateTime: 2022-03-01T05:52:00Z
+    webUrl: "https://www.digitaljournal.com/pr/e-learning-market-recent-trends-development-growth-and-forecast-2021-2031"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 22
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "xof2THGpa4DMe7AQikonWU/dbZShq/VSL87UWfJVvKRhnwpYHetMfOyW74SmI/z9r/mztu+ANx95osy/XB6/11rtaFrNmtcmol9+ExrGxUk6moczxfInYncLsFBspxNB2rxc1+08rt8uGXXbos70lrRAn2zc43ee/Y5tFI31ZoGHajh6JYjAUnHVLUaqSsymIBXyr67AL2dmZJ+skDdjojICN6Z91CU0sCD0UtnwNGa7J/HponJbbTrlqhUsAXiWiPkXlSLjSP8943L+jXWfHe7eEkglVKdkrisT635wDlRe+1DRJ7mFVhbflZuNeqRcQFoesnRB70j62YRTmndxWZ9l7R6VAD7QweHDCZrxeSI=;5HUWW+znWtCDhJkUSVXkmQ=="

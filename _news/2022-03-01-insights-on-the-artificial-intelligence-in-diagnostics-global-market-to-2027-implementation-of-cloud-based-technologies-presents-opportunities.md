@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=624056"
 webUrl: "https://us.acrofan.com/detail.php?number=624056"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,103 @@ images:
     isCached: true
 
 related:
-  - title: "Evotec Presents Strategic Roadmap Towards Precision Medicine and Confirms Goals of Action Plan 2025 at Capital Markets Day"
-    excerpt: "LAUNCH OF E.MPD, THE LEADING GLOBAL MOLECULAR PATIENT DATABASE; ROLL-OUT AND ACCELERATION OF AI/ML PRECISION TECHNOLOGIES TO INCREASE PROBABILITY OF SUCCESS (“POS”) IN RESEARC"
-    publishedDateTime: 2022-03-02T06:51:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-science-business-health-artificial-intelligence-f309279ef5eec74487003b68d609aac9"
+  - title: "Artificial Intelligence in the Education Sector Market PESTELE Analysis, Drivers, Restraints Research Report by 2028"
+    excerpt: "The Global artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 and register a"
+    publishedDateTime: 2022-03-02T13:38:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-pestele-analysis-drivers-restraints-research-report-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 48
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/6f36adb06597c8add3e517ea4970f7781a732f19-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Automotive Artificial Intelligence Market 2022 SWOT Analysis and Worldwide Growth Survey by 2031"
+    excerpt: "Kenneth Research, in its repository of market research reports, has recently added a report on Automotive Artificial Intelligence Market that emph"
+    publishedDateTime: 2022-03-03T06:44:00Z
+    webUrl: "https://menafn.com/1103792434/Automotive-Artificial-Intelligence-Market-2022-SWOT-Analysis-and-Worldwide-Growth-Survey-by-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 26
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?406730"
+        width: 312
+        height: 250
+        isCached: true
+  - title: "Deep Neural Network Market Research Report Including Drivers, Restraints, Global Industry Outlook and Key Players Analysis By 2027"
+    excerpt: "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to be driven owing to extensive rise in the"
+    publishedDateTime: 2022-03-02T13:43:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-neural-network-market-research-report-including-drivers-restraints-global-industry-outlook-and-key-players-analysis-by-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/6f36adb06597c8add3e517ea4970f7781a732f19-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Insulin Pumps Market Size, Share, By End Use, Share & Revenue, and Region, Forecast to 2028"
+    excerpt: "The global insulin pumps market is expected to reach USD 10.25 Billion by 2028, according to a new report by Reports and Data. Insulin pumps are used for"
+    publishedDateTime: 2022-03-01T08:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/insulin-pumps-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 14
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Ukraine-No-capitulation-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence in Military Market to Surpass Valuation of USD 6.50 Bn by 2028, Notes Emergen Research Study"
+    excerpt: "The global Artificial Intelligence (AI) for military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4%"
+    publishedDateTime: 2022-03-04T11:08:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-military-market-to-surpass-valuation-of-usd-6-50-bn-by-2028-notes-emergen-research-study"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 14
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/2b5ce7f68fd37f90ffb8890d66feb1a81c0b7d44-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Genomics Artificial Intelligence Market Research Report 2022 - Global Outlook & Forecasts to 2027 - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence in Genomics Market - Global Outlook & Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. The artificial intelligence in genomics market to grow at a CAGR of 48."
+    publishedDateTime: 2022-03-03T17:08:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-health-business-genetics-299e1a8e05de4483823a3d0dc80c0299"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 0
+    quality: 11
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "image recognition Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report"
+    excerpt: "The global image recognition market size is expected to reach USD 80.29 Billion at a steady CAGR of 15.3% in 2028, according to latest analysis by Emergen"
+    publishedDateTime: 2022-03-02T14:03:00Z
+    webUrl: "https://www.digitaljournal.com/pr/image-recognition-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 5
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/6f36adb06597c8add3e517ea4970f7781a732f19-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "lDMSQ+SNkXls+gQrr4W6c6Tyq/Sdn71hUSoWvwiuWfYntdkTIx/5IUZGftMK9jYmjKiggTO9QvGN+L+sd1AuWfM0B+8gnsK6PoCm/2vMGquVBcoFV4PT7uRfiCNxbc7bggyq2gigRi3n2U1UuvS/QEl7HAZgnECO75hi9iozIayuOvUcW9/xO0yUgKjbfCsuH3T9sCT+Whr4nYI742dnldKfV2asVosMRlWprJ852XK+N91KQpiVM2VE8NvTG1o+x+DTPCwloxQJQb0rlf18O6ILHGzRA1Rw9Cq7zDiiWbE9R5cTot24fjBA1uOV97WSyKW7mFB5iv8lxxb2Jmy+tg41faNMLPOW2J0uNiU2hP8=;j4p9DRu6T+4h2q1EUSJ5SA=="

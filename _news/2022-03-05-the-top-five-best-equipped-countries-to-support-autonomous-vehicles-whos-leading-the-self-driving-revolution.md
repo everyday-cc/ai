@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/03/04/the-top-five-best-equipped-countries-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/03/04/the-top-five-best-equipped-countries-to-support-autonomous-vehicles-whos-leading-the-self-driving-revolution/amp/"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "A New Company Every Week Inside The Uk’s Ai Revolution?"
+    excerpt: "What Ai Stock Is Jeff Bezos Buying? Amazon ex-CEO Jeff Bezos is reportedly investing in Altos Labs, an initiative looking to extend human life. The startup is similar to the one b"
+    publishedDateTime: 2022-03-05T12:58:00Z
+    webUrl: "https://www.ictsd.org/a-new-company-every-week-inside-the-uks-ai-revolution/"
+    type: article
+    provider:
+      name: ICTSD
+      domain: ictsd.org
+    quality: 39
+    images:
+      - url: "https://cdnictsd.ictsd.org/a-new-company-every-week-inside-the-uk-s-ai-revolution-.jpg"
+        width: 626
+        height: 470
+        isCached: true
 
 secured: "KvUurGajfofudx4YmwzNu/NbGDgtutMZP92CGNrv9CLI2qB98cSnYw17JbSPU3HX5WuZA/JmA0dC2zPTJdhnzapixIUU6TEy3Pd3dUtOmFllw8z28eUnwx+AZusuj+8SsmNhwfVdJjNb4Cy4p5leXye63rYF4KAKK62Nd19KnczMDB8NVxWispv2RtpfeZtBfthQpnPwo3gDpKmXFSc/T9b75X4rnQ2JcbnhHs2FdGGnM14x0kuZKjnNm0+qLZXakNUEuZcEtdS7L+NWqjoQ3vqEhEtLLsKJfgEzwh1inG9x0e6x1zvuvyWCoExJmrinmVvMluxUM5UYhX8Z9ny+3gKhO5xQaAKP+Kp+6DfjatM=;8D6a9DX7EG/Dn7GtIZJoBw=="
 ---

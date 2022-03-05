@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.wbur.org/onpoint/2022/03/03/first-person-behind-the-whee
 cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1700
     height: 1133
     isCached: true
+
+related:
+  - title: "Tesla and the ethics of self-driving cars"
+    excerpt: "Self-driving technology has come a long way in recent years, but it remains far from perfect. And that's partially because of decisions made -- not by the cars -- but by programmers."
+    publishedDateTime: 2022-03-03T14:00:00Z
+    webUrl: "https://www.kuow.org/stories/tesla-and-the-ethics-of-self-driving-cars"
+    type: article
+    provider:
+      name: KUOW
+      domain: kuow.org
+    quality: 56
+    images:
+      - url: "https://kuow-prod.imgix.net/store/6023b3dacd9aac14703ea05a20f4c3e4.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+        width: 942
+        height: 628
+        isCached: true
 
 secured: "i2azdax6iysv0esf2330VoCJ+ENQl0QEVTMes37CQPQUt5zLjXy70vDSPe4JaqgT7uiBY0xmw5xKBl4eT99qkq+qggihtge6SJauvsLkLh80dmY7EUQtytYv97VlHnJUtLkvDqCPbMdv+66E2BgXHXHBEG0JwJjACBgDIEJvXPSUop9fkhVadfMaVHWdeJ3HXlvhpyxngluOibAo3xu5kutdBdHDVIeM9noKjbaULQjZ5tOUXTgYAHRKFlBGLRCFm0oMBw9TFww0qwir81cYw4kDda9ZAaay5z6q7pyTxnFCU0LYUA+KOr9tQpKRDNXinKso2A/6BeLF5W+26V44t26z7pgyFZYB36btqahoxb6pQAPY413pJ/7XfBb90rhMIhtesOL318zYOuZp8mlwVZN9A0ZZfAH9XOUAuDIqxLqMXQ4j3cYnp+08KaEW9l9wNvk0iMrONIVPS8gRBjsn2fdRYycx8FpEeYiZUGF6e4om0TxisYMFzmWt3Q0+b/+QpIVnkdme1LKF7+aX3fr7lQ==;Z5Dz6o0syJyNnNagsMJI9g=="
 ---

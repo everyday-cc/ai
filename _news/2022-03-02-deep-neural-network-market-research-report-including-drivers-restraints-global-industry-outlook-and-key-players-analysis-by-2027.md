@@ -25,35 +25,103 @@ images:
     isCached: true
 
 related:
-  - title: "Outlook on the Wireless Mesh Network Global Market to 2028 - Rising Applications in the Healthcare Industry is Driving Growth"
-    excerpt: "The \"Wireless Mesh Network Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The wireless mesh network market is projected to grow steadily during the forecast period."
-    publishedDateTime: 2022-03-01T09:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/03/g25896974/outlook-on-the-wireless-mesh-network-global-market-to-2028-rising-applications-in-the-healthcare-i"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25896974"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25896974"
+  - title: "Artificial Intelligence in the Education Sector Market PESTELE Analysis, Drivers, Restraints Research Report by 2028"
+    excerpt: "The Global artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 and register a"
+    publishedDateTime: 2022-03-02T13:38:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-pestele-analysis-drivers-restraints-research-report-by-2028"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 48
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/6f36adb06597c8add3e517ea4970f7781a732f19-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Vision Screeners Market is expected to grow at a CAGR of 5.9% during the forecast period 2022-2029"
-    excerpt: "Global vision screener sales are likely to near US$ 500 Mn by the end of 2022. According to a new research intelligence study presented by Future Market Insights (FMI), the vision screeners market will continue to witness an average 5."
-    publishedDateTime: 2022-03-02T07:45:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-03-02/vision-screeners-market-is-expected-to-grow-at-a-cagr-of-59-during-the-forecast-period-2022-2029"
+  - title: "Automotive Artificial Intelligence Market 2022 SWOT Analysis and Worldwide Growth Survey by 2031"
+    excerpt: "Kenneth Research, in its repository of market research reports, has recently added a report on Automotive Artificial Intelligence Market that emph"
+    publishedDateTime: 2022-03-03T06:44:00Z
+    webUrl: "https://menafn.com/1103792434/Automotive-Artificial-Intelligence-Market-2022-SWOT-Analysis-and-Worldwide-Growth-Survey-by-2031"
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 10
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 26
     images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?406730"
+        width: 312
+        height: 250
+        isCached: true
+  - title: "Insulin Pumps Market Size, Share, By End Use, Share & Revenue, and Region, Forecast to 2028"
+    excerpt: "The global insulin pumps market is expected to reach USD 10.25 Billion by 2028, according to a new report by Reports and Data. Insulin pumps are used for"
+    publishedDateTime: 2022-03-01T08:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/insulin-pumps-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 14
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Ukraine-No-capitulation-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence in Military Market to Surpass Valuation of USD 6.50 Bn by 2028, Notes Emergen Research Study"
+    excerpt: "The global Artificial Intelligence (AI) for military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4%"
+    publishedDateTime: 2022-03-04T11:08:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-military-market-to-surpass-valuation-of-usd-6-50-bn-by-2028-notes-emergen-research-study"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 14
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/2b5ce7f68fd37f90ffb8890d66feb1a81c0b7d44-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Genomics Artificial Intelligence Market Research Report 2022 - Global Outlook & Forecasts to 2027 - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence in Genomics Market - Global Outlook & Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. The artificial intelligence in genomics market to grow at a CAGR of 48."
+    publishedDateTime: 2022-03-03T17:08:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-health-business-genetics-299e1a8e05de4483823a3d0dc80c0299"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 11
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "image recognition Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report"
+    excerpt: "The global image recognition market size is expected to reach USD 80.29 Billion at a steady CAGR of 15.3% in 2028, according to latest analysis by Emergen"
+    publishedDateTime: 2022-03-02T14:03:00Z
+    webUrl: "https://www.digitaljournal.com/pr/image-recognition-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 5
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/6f36adb06597c8add3e517ea4970f7781a732f19-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Insights on the Artificial Intelligence In Diagnostics Global Market to 2027 - Implementation of Cloud-based Technologies Presents Opportunities - Res"
+    excerpt: "The \"Artificial Intelligence In Diagnostics Market Research Report by Component, by Type, by Region - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-03-01T12:19:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=624056"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "NFum/lNPXD/+NP1QC4n24V6bOwC+7uEa83WP932wwI7Rbuy/7HeWpj3N2r9MDDPM/DweckBzEF/9KezuteyITr4K98CjUG14Ex7yEJrkbPKSZG9rZVqwdh0ALsHJnmqq5RqbKG7W5FrH8vAvjjxBwMkfiDuWoUYWLDsuCrXowM57zM8Nj2LkKRh4E1mVFAZcskvNLSZNBF0mWCoYKiMZjNmZWyDVAfNX/uiBQHRAZIRqEo6ht9KEUDizs86NVNBtZpPGNR3IMsw5gyeRNmtOE5BYBZVLN98ZaNcyH4doS7ajoDYlWYXs9wnBQ6nyqydEIA1t+Vg74i/neHxri2sM3XOlCXYxYoGzKeQgsIyh2T0=;kJcCQcvugi1WlVjB/pGgHQ=="
