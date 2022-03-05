@@ -1,20 +1,20 @@
 ---
 category: news
 title: "How AI-powered tech landed man in jail with scant evidence"
-excerpt: "Williams was jailed last August, accused of killing a young man from the neighborhood who asked him for a ride during a night of unrest over police brutality in May. But the key evidence against Williams didn’t come from an eyewitness or an informant;"
-publishedDateTime: 2022-03-05T18:26:00Z
-originalUrl: "https://www.ourmidland.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
-webUrl: "https://www.ourmidland.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
-ampWebUrl: "https://www.ourmidland.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
-cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+excerpt: "But the key evidence against him didn’t come from an eyewitness or an informant; a major factor was the gunshot detection firm ShotSpotter. (Aug. 19) Video: Associated Press CHICAGO (AP) — Michael Williams’ wife pleaded with him to remember their fishing trips with the grandchildren,"
+publishedDateTime: 2022-03-05T17:55:00Z
+originalUrl: "https://www.houstonchronicle.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+webUrl: "https://www.houstonchronicle.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+ampWebUrl: "https://www.houstonchronicle.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
 type: article
 quality: 57
 heat: 67
 published: false
 
 provider:
-  name: Our Midland MI
-  domain: ourmidland.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
 
 topics:
   - AI
@@ -38,6 +38,6 @@ related:
       domain: omanobserver.om
     quality: 37
 
-secured: "0zQACc+rekYLk5kJ/7y7F/PmhHhf+ksLK8lhe6H56FbHLMAz3ZdjreibiZyxGxOKtOV5m6v7mCHBupb2ur8eh6Uf2puxVs0fD9CLH27gkvSBUdtUEoOJzq097FmpctKQpIIrnMEWNrtGDA9q8z7s4EDzQK42/2eQ22ZZLjapy2lOv1gbrDd5nZPRUaa4MYVHIUcDiDWrMoeVBuWmL30g9MvswdjxMxM/kDsXC5RL+TyR4CaKM1peeb9gS6aJvTZuzFxzSFkzZs2N1t7I/mxkVqM15nDnSjkh/h3gnUvp+Lrk+sn2szrCDNn5fEAm4ij1DzgVDUXrpzEB4xY6zvNflkiJpa7OBh9Ty1gVnKDFcdE=;+A49Y2UvPLHNWSCF5PHqOQ=="
+secured: "Zw+iMkkAMhlhHmsxjTO//Ar2NTP1u/JT41izh8K4OYMb5N/CyMbDu351sG5HWTR4k7k67PQT5Nv0393TulcSWDmf+NygsdgVh1BFBItuHdMtU2UNYJYEtkIdBGGETEZ2KQLzG23DTCr9ee5ipgwcucWSEepiIvAtyevoiD0ee5H1wbT9ZdHR80G/hrP1HdETycg9XflwGQh6r4EsGeAgOALRXnpKo7BwyuynFgOWdA9zK06Byi1K+1Mr+8cNDCIZgsL33hqrKPUci2LnbxqDx0Rrm6Iw5+k1uBN4rE+Ixs64Flcc1JhmAZziMEEaJnfSwK5rEvjfcSPubG4MP9Ciyoy+N2F+edM+B1JSPosSJ0U=;JMmCxN1GTxDpyrmmGT3o6Q=="
 ---
 

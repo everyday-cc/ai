@@ -70,20 +70,6 @@ related:
         width: 374
         height: 250
         isCached: true
-  - title: "E-Learning Market Recent Trends, Development, Growth and Forecast 2021-2031"
-    excerpt: "The global e-learning market is estimated to grow at a favorable rate from 2021 to 2031 (forecast period). Over the last three to five years, the"
-    publishedDateTime: 2022-03-01T05:52:00Z
-    webUrl: "https://www.digitaljournal.com/pr/e-learning-market-recent-trends-development-growth-and-forecast-2021-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 22
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "uIGLnMHfML+fSG6fi/h2yeSBnO+zPrIMFHTZWewNI+WVzeGes5lezqITcSB5jsIYFwBX0ikpFrdQaV5JCVeYZbrgiEb6E0u0y9SiOnZweS7JcApXYUi8CL5Xdxl4NlZpeeF44qMhUtH01TDrye46LlGwjGVJp63Ith0gAdhoGbTJ3rKR+OAkKaGydeISbfL1yGY3cnlVZ+iZY1zpSX1PRlZe4aIfYd0012EqyL4Qwz0s5eDNjrgmhKD91XytxS9IS36D7vJP6D9gh9lldMpG9uuCIEZZ/kBrMRb/3ergznkGzzqvLLBRfaXX17bbgAP7HKuQiVZHKKUM74GPnvKpaNzsKafYLXwYdE5bwQ7Xuek=;WWg7iAPKzWSYW27Joa/sfA=="
 ---

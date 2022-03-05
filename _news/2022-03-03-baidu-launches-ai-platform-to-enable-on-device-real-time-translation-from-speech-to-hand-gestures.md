@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Baidu Launches AI Platform to Enable on-Device, Real-Time Translation from Speech to Hand Gestures"
-excerpt: "Baidu AI Cloud, a leading AI cloud provider, launched an AI sign language platform able to generate digital avatars for sign language translation and live interpretation within minutes. Released as a new offering of Baidu AI Cloud’s digital avatar platform XiLing,"
-publishedDateTime: 2022-03-03T15:11:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/winter-olympics-technology-business-sports-beijing-9eb1fa4b9af75efea8f4fc18149c62f7"
-webUrl: "https://apnews.com/press-release/pr-newswire/winter-olympics-technology-business-sports-beijing-9eb1fa4b9af75efea8f4fc18149c62f7"
+excerpt: "Baidu AI Cloud, a leading AI cloud provider, launched an AI sign language platform able to generate digital avatars for sign language translation and"
+publishedDateTime: 2022-03-03T13:37:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/baidu-launches-ai-platform-to-enable-on-device-real-time-translation-from-speech-to-hand/article_5a3d784a-3326-5726-80d0-bdc2aaa95f80.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/baidu-launches-ai-platform-to-enable-on-device-real-time-translation-from-speech-to-hand/article_5a3d784a-3326-5726-80d0-bdc2aaa95f80.html"
 type: article
 quality: 25
 heat: 25
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/55/f55136c9-7cd7-5c1d-8127-5712430d105f/6220d5bfbec14.image.jpg?crop=1084%2C569%2C0%2C4&resize=1084%2C569&order=crop%2Cresize"
+    width: 1084
+    height: 569
     isCached: true
 
-secured: "RHg6RNXlkBlCITLaDBgguPEE7yEb+pJcxiZravmZf+GrNSTZ4y9uVb8p0l3vhPd97/M+VOdH7TfmPfP8v9JTfAqqNNbipciVoTaO/O79YF+IVCy4w+ZYfoy40Oyu7pK8ngsy5dpUB4aY/diPYptIHZ+16BASMG+tWNCcjWEXEISMor5/c+STRmIf6wwu30oZOw8sdYBPdze5N0aCGurGAxuUm/yNsOA1crOEpR6QzeSHi8J88u1u1of22+5Emo9/AImbJ+qG+o3kxDKz1rcUwOHgVH20DRlXnBNkc7xAIDl3MpJ96grJP/jEuAYr725SDt12l/baJhdDMbvJBZ5jG7VppH47H6BNkvvAeRN0A30=;L3JnnCg3l3L5/flGaL3Wzw=="
+secured: "uvKAU938soHdyb/T849OQMPQNATsnBgxFyr9cZ8GIUH0NFPoh+CqPGhybHJbX5cmBPrOxduW7K1G3rm4jbv4CdsvGUDvkRPpvLx6h8N/B1PPl95RF7x5Bvt6wC0qE98ObKhOnXadQ/MS8AmviQLTD0xiFxeeVIL3e7nhsxpoIcs5Hnh40C0qPsO70TEqPoO97kS3y1wBaZZOFNX/8oYp3MYsBUtb+e3UNv2DjilN2M9GnNm4KJfNOdgU9uT7ffoRK/NFi0edtkJHhZ9hHbG5m+yLlSNB558ApLbHWJ5mh0qN/zNfJbPmfhFctZb3P0/+h0S1Yux4AZhvMQuPwY4BtSLzGof4heg34cxC4K+bHMs=;aZZtakqG/VdF+0+TFtQoqA=="
 ---
 
