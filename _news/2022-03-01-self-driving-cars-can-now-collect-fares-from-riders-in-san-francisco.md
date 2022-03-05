@@ -41,20 +41,6 @@ related:
         width: 791
         height: 447
         isCached: true
-  - title: "Lidar Leading the Way to Safe Self-Driving Cars"
-    excerpt: "Once only a concept seen in movies, the world of autonomous driving is fast becoming a bona fide reality. Until now, only a"
-    publishedDateTime: 2022-03-01T12:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/lidar-leading-the-way-to-safe-self-driving-cars/article_5d909d68-84b4-503f-8891-830f07ad5e6e.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Abu Dhabi’s TII takes a step into the future with self-driving race car"
     excerpt: "While the UAE Capital is a motorsport hub hosting the Formula One Grand Prix, Abu Dhabi’s Technology Innovation Institute (TII) has taken a major step in autonomous robotics with its participation at world-class self-driving car competitions. TII ..."
     publishedDateTime: 2022-03-04T11:22:00Z

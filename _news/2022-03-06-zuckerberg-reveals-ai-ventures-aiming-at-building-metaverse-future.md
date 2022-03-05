@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Making data a first-class citizen through responsible AI"
-excerpt: "Gaining value from data insights became a high priority, and businesses saw the power that AI could bring. “Organizations are really thirsty to figure out how do we actually add customer value,” said Vidya Setlur (pictured),"
-publishedDateTime: 2022-03-01T23:28:00Z
-originalUrl: "https://siliconangle.com/2022/03/01/making-data-first-class-citizen-responsible-ai-wids2022/"
-webUrl: "https://siliconangle.com/2022/03/01/making-data-first-class-citizen-responsible-ai-wids2022/"
+title: "Zuckerberg reveals AI ventures Aiming at building metaverse future"
+excerpt: "Zuckerberg said that metaverse will be the new big thing for portable internet. Zuckerberg says Meta worked on a modern-day"
+publishedDateTime: 2022-03-05T16:47:00Z
+originalUrl: "https://manometcurrent.com/zuckerberg-reveals-ai-ventures-aiming-at-building-metaverse-future/"
+webUrl: "https://manometcurrent.com/zuckerberg-reveals-ai-ventures-aiming-at-building-metaverse-future/"
+ampWebUrl: "https://manometcurrent.com/zuckerberg-reveals-ai-ventures-aiming-at-building-metaverse-future/?amp=1"
+cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/zuckerberg-reveals-ai-ventures-aiming-at-building-metaverse-future/?amp=1"
 type: article
-quality: 39
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: manometcurrent.com
+  domain: manometcurrent.com
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/Vidya-Setlur-WiDS-2022-pre-event.jpeg"
-    width: 1920
-    height: 1080
+  - url: "https://manometcurrent.com/wp-content/uploads/2022/03/portrait-young-african-american-man-with-vr-glasses-scaled.jpg"
+    width: 2560
+    height: 1440
     isCached: true
 
 related:
@@ -57,22 +58,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Zuckerberg reveals AI ventures Aiming at building metaverse future"
-    excerpt: "Zuckerberg said that metaverse will be the new big thing for portable internet. Zuckerberg says Meta worked on a modern-day"
-    publishedDateTime: 2022-03-05T16:47:00Z
-    webUrl: "https://manometcurrent.com/zuckerberg-reveals-ai-ventures-aiming-at-building-metaverse-future/"
-    ampWebUrl: "https://manometcurrent.com/zuckerberg-reveals-ai-ventures-aiming-at-building-metaverse-future/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/zuckerberg-reveals-ai-ventures-aiming-at-building-metaverse-future/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 57
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2022/03/portrait-young-african-american-man-with-vr-glasses-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Chip geopolitics — A call to ban predictive policing — Building the Metaverse"
     excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
     publishedDateTime: 2022-03-02T10:00:00Z
@@ -89,6 +74,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Making data a first-class citizen through responsible AI"
+    excerpt: "Gaining value from data insights became a high priority, and businesses saw the power that AI could bring. “Organizations are really thirsty to figure out how do we actually add customer value,” said Vidya Setlur (pictured),"
+    publishedDateTime: 2022-03-01T23:28:00Z
+    webUrl: "https://siliconangle.com/2022/03/01/making-data-first-class-citizen-responsible-ai-wids2022/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/Vidya-Setlur-WiDS-2022-pre-event.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Inworld AI Raises Investment from BITKRAFT Ventures, to Bring AI-Powered Virtual Characters to Metaverse and Games"
     excerpt: "Inworld AI, offering a platform to create AI-powered characters for virtual worlds, including VR/AR, games and metaverse applications, today announced a $10 million strategic funding led by BITKRAFT Ventures,"
     publishedDateTime: 2022-03-04T20:37:00Z
@@ -104,6 +103,6 @@ related:
         height: 450
         isCached: true
 
-secured: "lSUwhZWwebkoLWBklTNUCCSdUnRLKrt3Zxxr4JaSeeL6/3tT/LX2r2S3m7Md1KNC+zCnyifqgvb2WDrPbvkxM08nEUVOU32q0bRQyMjJLtWvzynJn8++WA+3GARnCwWAuq0cdesA6OzNirVEPqikJGxtOB2Cq6/bPTAwyGe2GghIvyJqndiF87mj+IJtYvgJ2jyobNsay4Ng+4942+naevJK/2uvcFWfBkpFuV3IoRVmFHvVJ+6mE4zw2dn46lbEDNfy429mLLsr4IO6SAhqfby6A6wWM95K+TKhHoBtQ06KTs9qrYzGooIAO5fFPnqJBOHH9Z3ydOQAUAMRJqZ0DzUbbNruY/X9/FB2sTM355uyvTOjUbxiXZDw8aJ1TSaM4/0PHeILGDm/PRQMsL45vx7JJI1cAWnCQaifpX/W3brvVL5M65G/+THhRgxerxqg+UwO3rog2Guj0xVplOhuZLKEfclKl19Pzn+UyMd76ITsZA8ziy1oRM8ERJmsP1ozb0pEhfcVO2anwzqg+R22Pg==;3d2CYdRwFnook5jJA0R5zg=="
+secured: "iSTk3MXq5V2C9eDZDbFo73j+z3QvKxIRMjLko8kRnaTsYjYt2d1vb8m6e7u6Njbq97iQ2v5sp6NKzcpBNRZ5Ph2MPLMVJAT8V8HHDzlcqeJYNoxuEWYWccqo6FC5YX9AiVY14PUt0WmeHZPXIlL5ZSYwP2pxtnHxY8Zd9v65Omf0yeex12zSp/IdCqJUC7BCdU/6pjxKQKgUYci8a4bhRmzncSbO31qJUNiMsgqhUvKmbI/wM4bpJa0pYKgB1zmRpo3UPerBEhXvAeXbcwLl15ebBnOvh0VJ7z8zVkkY1f3yEP36xwh8G5twEiRYCsis7TTTlHYC6Kow5Tki87nJEYN0FNqA+ejJIw5Qtka/Jpo=;iEfTRTLHoZyun2CLUvIu2g=="
 ---
 

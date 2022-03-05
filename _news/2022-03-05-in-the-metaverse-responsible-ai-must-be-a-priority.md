@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-mu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1353722877-e1646248329892.jpg?fit=800%2C594&strip=all"
         width: 800
         height: 450
+        isCached: true
+  - title: "Zuckerberg reveals AI ventures Aiming at building metaverse future"
+    excerpt: "Zuckerberg said that metaverse will be the new big thing for portable internet. Zuckerberg says Meta worked on a modern-day"
+    publishedDateTime: 2022-03-05T16:47:00Z
+    webUrl: "https://manometcurrent.com/zuckerberg-reveals-ai-ventures-aiming-at-building-metaverse-future/"
+    ampWebUrl: "https://manometcurrent.com/zuckerberg-reveals-ai-ventures-aiming-at-building-metaverse-future/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/zuckerberg-reveals-ai-ventures-aiming-at-building-metaverse-future/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 57
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2022/03/portrait-young-african-american-man-with-vr-glasses-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
   - title: "Chip geopolitics — A call to ban predictive policing — Building the Metaverse"
     excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."

@@ -59,6 +59,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Zuckerberg reveals AI ventures Aiming at building metaverse future"
+    excerpt: "Zuckerberg said that metaverse will be the new big thing for portable internet. Zuckerberg says Meta worked on a modern-day"
+    publishedDateTime: 2022-03-05T16:47:00Z
+    webUrl: "https://manometcurrent.com/zuckerberg-reveals-ai-ventures-aiming-at-building-metaverse-future/"
+    ampWebUrl: "https://manometcurrent.com/zuckerberg-reveals-ai-ventures-aiming-at-building-metaverse-future/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/zuckerberg-reveals-ai-ventures-aiming-at-building-metaverse-future/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 57
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2022/03/portrait-young-african-american-man-with-vr-glasses-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Making data a first-class citizen through responsible AI"
     excerpt: "Gaining value from data insights became a high priority, and businesses saw the power that AI could bring. “Organizations are really thirsty to figure out how do we actually add customer value,” said Vidya Setlur (pictured),"
     publishedDateTime: 2022-03-01T23:28:00Z

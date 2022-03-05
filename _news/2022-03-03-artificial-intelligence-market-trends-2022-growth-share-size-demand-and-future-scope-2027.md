@@ -39,6 +39,20 @@ related:
         width: 327
         height: 432
         isCached: true
+  - title: "Artificial Intelligence-Emotion Recognition Market Upcoming Trends, Business Growth, Competitors, Company Market Share and Forecast 2022 to 2028"
+    excerpt: "The \"Artificial Intelligence-Emotion Recognition Market\" report covers the global and regional market with an in-depth analysis of the overall growth prospects in the market. Artificial Intelligence-Emotion Recognition Market contains a comprehensive analysis of company details,"
+    publishedDateTime: 2022-03-04T05:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-upcoming-trends-business-growth-competitors-company-market-share-and-forecast-2022-to-2028-2022-03-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Smart Robot Market: Report Analysis, Share, Revenue, Growth Rate With Forecast Overview 2022-2031"
     excerpt: "Comserve / -- The Smart Robot Market is expected to be around US$ 17 Billion by 2031 at a CAGR of 24% in the given forecast period. A smart robot is an artificial intelligence (AI) system that can learn from its environment and its experience and build on its capabilities based on that knowledge."
     publishedDateTime: 2022-03-02T06:42:00Z

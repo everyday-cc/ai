@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese Self-Driving Truck Startup Secures $188 Million In Funding From Sequoia China And Legend Capital"
-    excerpt: "China’s Ministry of Industry and Information Technology rolled out guidelines for autonomous vehicles last April, encouraging local governments to open highways and roads for testing self-driving cars."
-    publishedDateTime: 2022-03-01T00:00:00Z
-    webUrl: "https://www.forbes.com/sites/catherinewang/2022/03/01/chinese-self-driving-truck-startup-secures-188-million-in-funding-from-sequoia-china-and-legend-capital/"
-    ampWebUrl: "https://www.forbes.com/sites/catherinewang/2022/03/01/chinese-self-driving-truck-startup-secures-188-million-in-funding-from-sequoia-china-and-legend-capital/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/catherinewang/2022/03/01/chinese-self-driving-truck-startup-secures-188-million-in-funding-from-sequoia-china-and-legend-capital/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 57
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/621dd187b8e605f51c6f0b4d/0x0.jpg?format=jpg&crop=2461,1641,x0,y174,safe&fit=crop"
-        width: 2461
-        height: 1641
-        isCached: true
   - title: "Chinese Self-Driving Chip Startup EVAS Raises Almost USD31.7 Million in Seed Funding"
     excerpt: "EVAS Intelligence, a Chinese autonomous driving chip startup founded less than two months ago, has raised almost CNY200 million (USD31.7 million) in angel round financing led by private equity firms CTC Capital and Sunic Capital."
     publishedDateTime: 2022-03-01T12:29:00Z
