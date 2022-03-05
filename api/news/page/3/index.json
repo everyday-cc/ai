@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-03-ai-computer-maker-cerebras-nabs-totalenergies-se-as-first-energy-sector-customer.md",
+      "title": "AI computer maker Cerebras nabs TotalEnergies SE as first energy sector customer",
+      "excerpt": "The energy giant, a devotee of giant computers, is enthusiastic about the early results of running very large, data-intensive simulation tasks such as oil and gas exploration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-computer-maker-cerebras-nabs-totalenergies-se-as-first-energy-sector-customer/",
+      "originalUrl": "https://www.zdnet.com/article/ai-computer-maker-cerebras-nabs-totalenergies-se-as-first-energy-sector-customer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/eff230571995ff8fc499d826aec6b544704283b7/2022/03/02/951afdba-2f83-4334-8772-7929bcd223fa/cerebras-totalenergies-cs-2-pic-2022.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-computer-maker-cerebras-nabs-totalenergies-se-as-first-energy-sector-customer/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-computer-maker-cerebras-nabs-totalenergies-se-as-first-energy-sector-customer/",
+      "publishedDateTime": "2022-03-02T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-03-03-truecircle-scoops-55m-to-use-ai-to-drive-recycling-efficiency.md",
       "title": "TrueCircle scoops $5.5M to use AI to drive recycling efficiency",
       "excerpt": "UK-based TrueCircle, a computer vision startup founded just last year, has nabbed $5.5 million in pre-seed funding in a bid to bring data-driven AI to the recycling industry to improve recovery rates and quality — with the overarching goal of transforming the economics of waste reuse to",
@@ -295,7 +347,7 @@
       "originalUrl": "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -502,7 +554,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/02/level-ai-which-provides-call-center-automation-software-raises-20m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -735,6 +787,58 @@
       ]
     },
     {
+      "path": "_news/2022-03-02-its-time-to-automate-insurance-document-processing-workflows.md",
+      "title": "It’s Time To Automate Insurance Document-Processing Workflows",
+      "excerpt": "A hyperautomation platform can thus automate the processing of insurance supplemental forms. AI technologies (computer vision, natural language processing, machine learning and fuzzy logic), along with business rules and workflows, can accomplish end-to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/02/its-time-to-automate-insurance-document-processing-workflows/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/02/its-time-to-automate-insurance-document-processing-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f89f505db3eef289c346955/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/02/its-time-to-automate-insurance-document-processing-workflows/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/02/its-time-to-automate-insurance-document-processing-workflows/amp/",
+      "publishedDateTime": "2022-03-02T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-02-tips-on-getting-started-with-computer-vision-in-your-business.md",
       "title": "Tips On Getting Started With Computer Vision In Your Business",
       "excerpt": "CDO at Aera Technology. Computer vision — “the eyes of the digital workforce” — is one of the four main components of intelligent automation, a collection of technologies that allow ...",
@@ -795,7 +899,7 @@
       "originalUrl": "https://www.timesofisrael.com/spotlight/seeing-straight-with-the-help-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -932,6 +1036,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-02-wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization.md",
+      "title": "Wipro steady after earning Analytics on Microsoft Azure Advanced Specialization",
+      "excerpt": "Wipro Limited on Tuesday announced that it has earned the Analytics on Microsoft Azure advanced specialization ... the value of data through insights and Artificial Intelligence (AI). At Wipro, we have been helping customers build an intelligent ecosystem ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiainfoline.com/article/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html",
+      "originalUrl": "https://www.indiainfoline.com/article/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/article/2021-04/30/full/1619762965-0815.png",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html",
+      "publishedDateTime": "2022-03-01T23:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-02-uah-researching-artificial-intelligence-to-aid-in-solving-crime.md",
       "title": "UAH researching artificial intelligence to aid in solving crime",
       "excerpt": "HUNTSVILLE, Ala. (WHNT) — The University of Alabama in Huntsville is working on ways to use artificial intelligence (AI) to analyze cell phone data to aid in solving crime. Dr. Tathagata ...",
@@ -1057,162 +1204,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-the-pitfalls-of-ai-that-could-predict-the-outcome-of-court-cases.md",
-      "title": "The pitfalls of AI that could predict the outcome of court cases",
-      "excerpt": "New startups claims their technology can predict the outcome of legal cases. Even if it works, the implications are worrisome, experts say.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/01/the-pitfalls-of-ai-that-could-predict-the-outcome-of-court-cases/",
-      "originalUrl": "https://venturebeat.com/2022/03/01/the-pitfalls-of-ai-that-could-predict-the-outcome-of-court-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/08/RTR2XRP1-e1559617500870.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/01/the-pitfalls-of-ai-that-could-predict-the-outcome-of-court-cases/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/01/the-pitfalls-of-ai-that-could-predict-the-outcome-of-court-cases/amp/",
-      "publishedDateTime": "2022-03-01T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-announcing-the-aws-deepracer-league-2022.md",
-      "title": "Announcing the AWS DeepRacer League 2022",
-      "excerpt": "Unleash the power of machine learning (ML) through hands-on learning and compete for prizes and glory. The AWS DeepRacer League is the world’s first global autonomous racing competition driven by reinforcement learning; bringing together students, professionals, and enthusiasts from almost every continent.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepracer-league-2022/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepracer-league-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/01/ML-8130-img1.png",
-          "width": 531,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T12:47:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-uniphore-rolls-out-conversational-ai-for-sales.md",
-      "title": "Uniphore Rolls Out Conversational AI for Sales",
-      "excerpt": "The company's Q for Sales uses AI to transform B2B sales, using a platform capable of delivering AI-based analytics to any type of conversation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/cloud/conversational-ai-for-sales/",
-      "originalUrl": "https://www.eweek.com/cloud/conversational-ai-for-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-DSOM-Image02-800x800-1.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T10:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

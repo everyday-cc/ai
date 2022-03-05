@@ -49,20 +49,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Kanverse Delivers Industry Leading Autolearning Capabilities, Delivers End-to-End Insurance Document Processing Offering, and Much More!"
-    excerpt: "Kanverse, a Hyperautomation company, has announced the global launch of the Hematite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprise. Hematite release brings industry leading Autolearning to help organizations process new document types with up to 99."
-    publishedDateTime: 2022-03-01T10:37:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_1585e046-4cf2-514c-b641-215823c98c3d.html?block_id=531919"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 0
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "sO9bhgWCDPQzYrt9x0e+txorZa9HFE4rm1r+jwr39BVcoflaHZEPAUvd0Sft42/6hq0icDFlTD6SGglKrVcBVmkTBSoHdC20kgOABWRtwFyKANrKpQhMBSTilVekxTTkJnDWFoEaFB+8lYx1smXAMb2oWDqsqSz+szQ2kpOmKGrJcTPXo5NjYjvrcwzAyivqpD9HZ9d4l8fufjbxDQZjUD/6xApHy2ffNdsBG9eGRX2+SBFNSh3R9B9DYHo7JMh+KrVoQ/kXDJnryqrWfGzrTsb9VKjnep87Up65LzQsFS61AFkOAIXlMCivZuI+WV03P0OgiUxY9P102AaVHKtxnOOAmh0fPCG0mVWkV4zSJok=;Z6STF8x2earx9+bCZfrfag=="
 ---

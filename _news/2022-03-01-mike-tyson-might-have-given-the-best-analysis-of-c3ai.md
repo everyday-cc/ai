@@ -50,6 +50,17 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "C3.ai (NYSE:AI) Shares Gap Down on Analyst Downgrade"
+    excerpt: "C3.ai, Inc. (NYSE:AI – Get Rating) gapped down prior to trading on Friday after Deutsche Bank Aktiengesellschaft downgraded the stock from a hold rating to a sell rating. The stock had previously closed at $23."
+    publishedDateTime: 2022-03-05T11:14:00Z
+    webUrl: "https://www.etfdailynews.com/2022/03/05/c3-ai-nyseai-shares-gap-down-on-analyst-downgrade/"
+    ampWebUrl: "https://www.etfdailynews.com/2022/03/05/c3-ai-nyseai-shares-gap-down-on-analyst-downgrade/amp/"
+    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/03/05/c3-ai-nyseai-shares-gap-down-on-analyst-downgrade/amp/"
+    type: article
+    provider:
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 37
 
 secured: "uSKr4Ev82Pp5h2/FkiMhfjpovBt2NjevkSKD5aXlW5/syR8h1FCnlLTaGQgAy7l+xf0+8kx1ciTI5aQn5m26xePT19IWmMIETFbI549u16XkSzbhjvpvWCG2/EcM9C4i2lXHrQWafHQS9/zEQBsU2Y5ae7T8BrmodOLff8RfAT1P8Oj92zDz4NrfAIQlJb7AE/AnSmcxrbKkcCUSngoctkSYHU3G51OFbcA3Sc319+tBhSMLfIIv2UptJtubH8oJGivC3QOOa14OWH9AWDOy0/W4aqwQXkWAacqK8FxHrv/Oxb8Hk9yv38OEihhwMTUiwF/HNYJXQHbOJ1z3u3sVI+DdcvqdfmIMXLpkGZjQPrTIA5hDzkJT32e4+0T8IY/7N44Ze6pRdNHSBeDUs6Xy1gcSQL7/laPhzJcJEPSNYQtmc8NdH0NGWb6HEJZZz3b7kVhja1kBrptJ9vZeIM9pZSjB2S3/9BFzBDY5pFblPSPYhi8QBtEz51wBbFzEx7rmAscDbJ3gEww/YGwl1uF04A==;HUy2Ga1wAMWD/J2qE3zUaA=="
 ---

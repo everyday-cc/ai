@@ -25,45 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Distributed Sensing and Machine Learning Hone Seismic Listening"
-    excerpt: "Fiber-optic cables can provide a wealth of detailed data on subsurface vibrations from a wide range of sources. Machine learning offers a means to make sense of it all."
-    publishedDateTime: 2022-03-04T13:05:00Z
-    webUrl: "https://eos.org/features/distributed-sensing-and-machine-learning-hone-seismic-listening"
-    ampWebUrl: "https://eos.org/features/distributed-sensing-and-machine-learning-hone-seismic-listening"
-    cdnAmpWebUrl: "https://eos-org.cdn.ampproject.org/c/s/eos.org/features/distributed-sensing-and-machine-learning-hone-seismic-listening"
+  - title: "It’s Time To Automate Insurance Document-Processing Workflows"
+    excerpt: "A hyperautomation platform can thus automate the processing of insurance supplemental forms. AI technologies (computer vision, natural language processing, machine learning and fuzzy logic), along with business rules and workflows, can accomplish end-to ..."
+    publishedDateTime: 2022-03-02T13:10:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/02/its-time-to-automate-insurance-document-processing-workflows/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/02/its-time-to-automate-insurance-document-processing-workflows/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/02/its-time-to-automate-insurance-document-processing-workflows/amp/"
     type: article
     provider:
-      name: Eos
-      domain: eos.org
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://eos.org/wp-content/uploads/2022/03/fiber-optic-cable-street-manhattan.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f89f505db3eef289c346955/0x0.jpg?format=jpg&width=1200&fit=bounds"
         width: 1200
         height: 675
         isCached: true
-  - title: "Xpeer AI-Enhanced Matching Service is Helping Businesses Tackle Sourcing and Outsourcing Challenges"
-    excerpt: "Across a broad range of services, the Xpeer AI adopts a new technological approach in assisting business executives make winning decisions, limiting the"
-    publishedDateTime: 2022-03-01T03:35:00Z
-    webUrl: "https://www.digitaljournal.com/pr/xpeer-ai-enhanced-matching-service-is-helping-businesses-tackle-sourcing-and-outsourcing-challenges"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "SpongeTraining: Achieving High Efficiency and Accuracy for Wireless Edge-assisted Online Distributed Learning"
-    excerpt: "Edge-assisted Distributed Learning (EDL) is a popular machine learning paradigm that uses a set of distributed edge nodes to collaboratively train a machine learning model using training data. Most of existing works implicitly assume that the fixed amount of training data is pre-collected and dispatched from user devices to edge nodes."
-    publishedDateTime: 2022-03-03T13:31:00Z
-    webUrl: "https://ieeexplore.ieee.org/abstract/document/9721661"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 0
 
 secured: "ZEGD6zL9/+qQgAN3jKS72rqZp69//86aYX5ox92nOMh7zzmksWt299uU52zoYQdzlsclqchN1hXuMmCfL8L7o892Gs9YlCp5u7hOXemnY+xZc7qTNz7EQRiAKvasmnh8FbOe4Kw5DiuGKY/bt3rgbRAN0vR96KnmHJlkfNUpBE1c1vyYag0iUDQc5OMTQnXNeTYYsJAJpYlf2YAhun1whXiKCGPvZsRoBA8dYbwqqcVaHDyjCZ7eFTz7Ce2KGJgCJnD0uykJ+NKA+CCWMMN7Phq5BZy0wTIjMSZxAl6LQcNUCu66ZeX96JJtozJSTidcu/s79WRSslRjc5YDnkkGG/aM/GWQi7wJpRIN8WRT/G1g9jAlOX6K3ehPB4WnuqgkP9FrK6NOCqWOi3AnE9+bLR9JEW7ABiwxWUCFhSu5brmQVjFTHBpdCmBAWfKxcuWWLMBEfJkvVXGePfGaa7Iwvg6ZvLnOXGBFRX6iNIgPvIo87NPzK5Ga4NAfVtbeDo5vKWSYw74xP4TgXWTjNwIaKg==;JdX7H2wKzcmx7IBMCOCGpQ=="
 ---

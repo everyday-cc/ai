@@ -60,19 +60,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AWS and Bundesliga Debut Two New Match Facts Giving Fans Insight into Germany’s Top Football Players and Teams"
-    excerpt: "(NASDAQ: AMZN), and the Bundesliga, Germany’s top national football league, today announced two new Bundesliga Match Facts powered by AWS to give fans deeper insights into action on the pitch. The new Match Facts,"
-    publishedDateTime: 2022-03-02T09:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-soccer-sports-business-europe-8d35b980b6f3406aba67c246c5169b5c"
+  - title: "AWS and Bundesliga Debut Two New Match Facts Giving Fans Insight into Germany's Top Football Players and Teams"
+    excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
+    publishedDateTime: 2022-03-02T09:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/03/b25929444/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-player"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25929444"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25929444"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "nYI/Wsk0DbHJe29xEtOxVZOiT+joIGYRlegqfQ2kXVamRpceqHAdokYxlfHyduvyBN5jUzbwkUG7ZkBSu6q69584N34mb83he/nRvtZY1wBFughdW20TBDgUc8P/ZCgiLmsd0NIja0QVkLtMESsJWpQt3WIKYWHCUN/RET+pq82B+ygrtLnwmIyx9e41Wg/1bm4DxU/RzYY3PO7XEEOTjqXuL5MrcLzBiDsXUqgObFIZiKLRNsV79Wb/cyEnjw9cJe+BJCNwNRgI06NvokuUBnDzaqERLv7XM+QIsR2WhDfDmH0a4xxRWARFxIZrW6HhuNlPNM+NVDlGKpV1y2tokis5ujhDcWdneSd/zC2cqdc=;MEe3HdFDkiM6PxGtVpGzuw=="

@@ -341,6 +341,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-05-microsoft-completes-197b-acquisition-of-nuances-ai-voice-tech.md",
+      "title": "Microsoft completes $19.7B acquisition of Nuance's AI voice tech",
+      "excerpt": "Microsoft's $19.7 billion deal for AI-based communications provider Nuance closed on Friday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowscentral.com/microsoft-completes-197-billion-acquisition-ai-giant-nuance",
+      "originalUrl": "https://www.protocol.com/bulletins/microsoft-completes-nuance-acquisition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/01/microsoft-logo-2022-2.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-04T09:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Protocol",
+        "domain": "protocol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-04-build-a-cold-start-time-series-forecasting-engine-using-autogluon.md",
       "title": "Build a cold start time series forecasting engine using AutoGluon",
       "excerpt": "Whether you’re allocating resources more efficiently for web traffic, forecasting patient demand for staffing needs, or anticipating sales of a company’s products, forecasting is an essential tool across many businesses. One particular use case, known as cold start forecasting, builds forecasts for a",
@@ -390,50 +433,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-05-microsoft-acquires-speech-recognition-company-nuance-for-16-billion.md",
-      "title": "Microsoft acquires speech recognition company Nuance for $16 billion",
-      "excerpt": "Microsoft has closed on its approximately $16 billion acquisition of speech recognition company Nuance. The deal, which was announced last year, helps Microsoft Corp. get more entrenched into hospitals and the health care industry through Nuance's widely used medical dictation and transcription tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651",
-      "originalUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/01/27/microsoft.jpg?itok=wzEj5a81",
-          "width": 750,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651?amp",
-      "publishedDateTime": "2022-03-04T08:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -551,7 +550,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/421408",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -646,7 +645,7 @@
       "originalUrl": "https://eos.org/features/distributed-sensing-and-machine-learning-hone-seismic-listening",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -863,6 +862,57 @@
       ]
     },
     {
+      "path": "_news/2022-03-04-this-ai-college-president-is-another-reason-to-drop-out.md",
+      "title": "This AI college president is another reason to drop out",
+      "excerpt": "A digital college president has been unleashed on the students of UNLV. I asked the AI about university life -- and some unnerving answers.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-college-president-is-another-reason-to-drop-out-unlv-keith-whitfield",
+      "originalUrl": "https://thenextweb.com/news/ai-college-president-is-another-reason-to-drop-out-unlv-keith-whitfield",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FUntitled-design-2-1.jpg&signature=b4103762c86645c59aebc3f276d6e519",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-03T13:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-04-c3ai-ceo-tom-siebel-says-the-stock-is-a-screaming-buy-heres-why.md",
       "title": "C3.ai CEO Tom Siebel Says the Stock Is a ‘Screaming Buy.’ Here’s Why.",
       "excerpt": "Shares of enterprise artificial intelligence software firm C3.ai are higher on a strong fiscal-third-quarter report. CEO Tom Siebel says, 'We killed it.'",
@@ -1017,7 +1067,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/03/ai-powered-intelligent-security-makes-the-hybrid-enterprise-possible/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -1070,7 +1120,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-analytics-in-endpoint-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1162,49 +1212,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-prescription-for-advancing-healthcare-artificial-intelligence.md",
-      "title": "Prescription for Advancing Healthcare: Artificial Intelligence",
-      "excerpt": "From Drug Discovery to Triage, AI Deployed Against Top Challenges",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/305679/prescription-for-advancing-healthcare-artificial-intelligence.html",
-      "originalUrl": "https://www.cio.com/article/305679/prescription-for-advancing-healthcare-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/03/research_biology_microscope_healthcare_science_1200x800-1.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/305679/prescription-for-advancing-healthcare-artificial-intelligence.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/305679/prescription-for-advancing-healthcare-artificial-intelligence.html/amp",
-      "publishedDateTime": "2022-03-03T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

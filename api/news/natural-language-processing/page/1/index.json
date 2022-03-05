@@ -55,50 +55,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-05-microsoft-acquires-speech-recognition-company-nuance-for-16-billion.md",
-      "title": "Microsoft acquires speech recognition company Nuance for $16 billion",
-      "excerpt": "Microsoft has closed on its approximately $16 billion acquisition of speech recognition company Nuance. The deal, which was announced last year, helps Microsoft Corp. get more entrenched into hospitals and the health care industry through Nuance's widely used medical dictation and transcription tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651",
-      "originalUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/01/27/microsoft.jpg?itok=wzEj5a81",
-          "width": 750,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651?amp",
-      "publishedDateTime": "2022-03-04T08:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-04-pompeo-in-taiwan-urges-us-diplomatic-recognition.md",
       "title": "Pompeo In Taiwan Urges US Diplomatic Recognition",
       "excerpt": "Former US Secretary of State Mike Pompeo in a speech on Friday on a non-official visit to Taiwan called for the US to give diplomatic recognition to the self-ruled island China claims as its own territory.",
@@ -203,7 +159,7 @@
       "originalUrl": "https://interestingengineering.com/baby-cry-translator-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -300,7 +256,7 @@
       "originalUrl": "https://www.freepressjournal.in/business/intellimationai-launches-its-nlp-and-ml-based-product-adept-for-insurance-sector",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -444,7 +400,7 @@
       "originalUrl": "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -540,6 +496,58 @@
       ]
     },
     {
+      "path": "_news/2022-03-02-its-time-to-automate-insurance-document-processing-workflows.md",
+      "title": "It’s Time To Automate Insurance Document-Processing Workflows",
+      "excerpt": "A hyperautomation platform can thus automate the processing of insurance supplemental forms. AI technologies (computer vision, natural language processing, machine learning and fuzzy logic), along with business rules and workflows, can accomplish end-to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/02/its-time-to-automate-insurance-document-processing-workflows/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/02/its-time-to-automate-insurance-document-processing-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f89f505db3eef289c346955/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/02/its-time-to-automate-insurance-document-processing-workflows/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/02/its-time-to-automate-insurance-document-processing-workflows/amp/",
+      "publishedDateTime": "2022-03-02T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker.md",
       "title": "Train 175+ billion parameter NLP models with model parallel additions and Hugging Face on Amazon SageMaker",
       "excerpt": "The last few years have seen rapid development in the field of natural language processing (NLP). While hardware has improved, such as with the latest generation of accelerators from NVIDIA and Amazon, advanced machine learning (ML) practitioners still regularly run into issues scaling their large language",
@@ -593,21 +601,21 @@
       ]
     },
     {
-      "path": "_news/2022-03-02-machine-learning-improves-human-speech-recognition.md",
-      "title": "Machine learning improves human speech recognition",
-      "excerpt": "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age.",
+      "path": "_news/2022-03-02-human-speech-recognition-model-to-overcome-hearing-impairment.md",
+      "title": "Human Speech Recognition Model to Overcome Hearing-Impairment",
+      "excerpt": "Human speech recognition may be improved by machine learning as per a study at the American Institute of Physics, published in The Journal of the Acoustical Society of America, by the Acoustical Society of America through AIP Publishing.",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
-      "originalUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
+      "webUrl": "https://www.medindia.net/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
+      "originalUrl": "https://www.medindia.net/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-impro.jpg",
-          "width": 2880,
-          "height": 1620,
+          "url": "https://images.medindia.net/amp-images/health-images/hearing-impairment-mental-health.jpg",
+          "width": 1200,
+          "height": 1000,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -615,13 +623,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
-      "publishedDateTime": "2022-03-01T08:00:00-08:00",
+      "ampWebUrl": "https://www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
+      "publishedDateTime": "2022-03-01T09:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
+        "name": "Medindia",
+        "domain": "medindia.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -632,8 +640,7 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "Machine Learning"
+        "AI"
       ]
     },
     {

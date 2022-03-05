@@ -6,9 +6,9 @@ publishedDateTime: 2022-03-03T21:55:00Z
 originalUrl: "https://thenextweb.com/news/ai-college-president-is-another-reason-to-drop-out-unlv-keith-whitfield"
 webUrl: "https://thenextweb.com/news/ai-college-president-is-another-reason-to-drop-out-unlv-keith-whitfield"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 167
+heat: 167
+published: true
 
 provider:
   name: The Next Web
@@ -27,6 +27,6 @@ images:
     height: 640
     isCached: true
 
-secured: "7Nac9F8Dqk/x5JUXa3/1IFDOXTm8B9ESEm3Pa7BUm58bvNke0T6U9NoNfGB4auXn5/ua7D/IxZxGQydWgIw+ge9x32dMZm2QU9oZqghMV+Brt8FNGf4fbb/hH6Imh5h7hzks1O99mbkU0aDSGe5wCQNpff/4SZGhIXHKniisYkBQyrTXKgAuWVrtdkJYpqmF606xSIJPWG691DuS9tsRkwkzFVHOaI6kGpx4Cxj2yjms7X1NFv5HQ5lNNoji/7merjFppaP4Dhq7ES9y2sPOKoyC3DVw5m8f9aOKolGokgglfedtjoa9CacHnL4Cb/wiAX0MOVbFl2K+AJ1A7iNohhMlqpXqqq4C7GMC3OzCRBaVNNG2W2ZCdL6Z12Xlvvb2c1EGFAj6ULZwk2se1MRZbebQcFNR7NppK4fajFg2op+IRIlb/JRk2kK/GK5tC7Ktke30Kzkkl/IIc7SCPbvfzbYQaPAUchtPmX9RelfkZ7lQv4VBO484IpbXSA/BdS/hiPwkdAge0dEreLOL78a3DQ==;LCBMQ1CO+01vvVJhtnz4fw=="
+secured: "lijYWQot0Y8w4j6gQSzn4HxNe3FEDmytJ0g4BJYy7Qhx7R+NaY9DfLjUIBedLfuKdmovB7BcwDyQGGSG64EX7YvDVvaqGJk/S3xoqlGY/jqT5VNYkldfn4ftryUGT2M4B9Y4CSN5r3PEKbhZDvhG9uXmPqlxLlEeuhiGnPtsiVX1OQDLtCZCVSLmQwFS3fCRZ/zk9FVs1zTrxEJONgEL5rBNDbHeqNj9+1Vj0tgNm0yQm1wt7dfnxi1BW7/hQbE1BXFLZzsSXVF4r1wE0vI9W6lGBlS/kwnz60Iv4V2F+4dqjjhIKnAE+zfDbXOH07QUYTTwoMrvr2KQljGXHq9yfv/TMP4UFztj6b4CfQgTwpZCtHQDjQ48SSFRpJnoHbAoToQjV+blmIYs5edFLj4gBtnGWMZ/NulSI8g2DfxJ39uchiQde2ArsH80Y7rEmUs/nI5IT13mJHH5fDRfXvQLfINHcm8TMcNGXNNXDkfSpWOzxzJIgXIjG9BvXiJosQdaVxJVXnSYRKQvQEL5emvpPtyEX/sufR1FZoW3XWcC2No=;MfDiOQ2zZsOKX1q43M9oBA=="
 ---
 

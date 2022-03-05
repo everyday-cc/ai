@@ -136,20 +136,6 @@ related:
         width: 500
         height: 260
         isCached: true
-  - title: "Investors are shifting the focus from fintech to climate startups in 2022"
-    excerpt: "The inaugural State of Australian Startup Funding report analysed data from more than 800 Australian founders and startup investors."
-    publishedDateTime: 2022-02-28T22:21:00Z
-    webUrl: "https://www.startupdaily.net/2022/03/investors-are-shifting-the-focus-from-fintech-to-climate-startups-in-2022/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 23
-    images:
-      - url: "https://www.startupdaily.net/wp-content/uploads/2021/04/AdobeStock_124297029-scaled.jpeg"
-        width: 2560
-        height: 1599
-        isCached: true
 
 secured: "ZAvuqgL9sAxugL5l0axveOCodrBSUY4hUFMAaSpHRAhAPIAP+X7qRvs/0gyYOPSRftwjR74L81vvfq5eScvMHAn7YtxEPPCdC1XG3dhm9++hErSql0sNKM3SOmMBymMGxIHRwjpshRL1yCel3c3t+AKPVhX/y6EX3fl0J2OZe1la5m+VyHIZHAfyNu3lY8JBD2lCwA/3nFhPyBUN7NLJiv8WQgdLLO5FvKYHwYvgoeCFQsoh3bYqXMEmO1YctTngxDXih9+pMwjxZfGsbv3ylIbWCD8rh9x4Z5lGjciu9kW8TZJCodoGyh+xyqzYiHKunmuq5bdVWHyX/S/O/Iwfdx0jwWI0uYPCKrzAZW/osjA=;74LnfW+8zwgJHG2gkcBSvw=="
 ---

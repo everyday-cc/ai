@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/03/ai-powered-intelligent-security-m
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/ai-powered-intelligent-security-makes-the-hybrid-enterprise-possible/amp/"
 type: article
 quality: 106
-heat: 157
+heat: 148
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
       - url: "https://www.cio.com/wp-content/uploads/2022/03/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-orig.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Bright Security raises $20M to make enterprise applications more secure with AI"
-    excerpt: "Bright Security Inc., a startup using artificial intelligence to help companies improve the security of their applications, has closed a $20 million funding round led by Evolution Equity Partners. Existing investors DNX Ventures,"
-    publishedDateTime: 2022-03-02T18:29:00Z
-    webUrl: "https://siliconangle.com/2022/03/02/bright-security-raises-20m-make-enterprise-applications-secure-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/code-1-800x453.png"
-        width: 800
-        height: 453
         isCached: true
   - title: "SXSW 2022 Round-up: Cybersecurity, Artificial Intelligence, and Quantum Computing"
     excerpt: "With the potential for increased cyberattacks and possible cyber warfare sweeping the headlines, business and government leaders alike are renewing their focus on cybersecurity. They are paying partic"

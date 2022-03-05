@@ -100,21 +100,21 @@
       ]
     },
     {
-      "path": "_news/2022-03-05-microsoft-acquires-speech-recognition-company-nuance-for-16-billion.md",
-      "title": "Microsoft acquires speech recognition company Nuance for $16 billion",
-      "excerpt": "Microsoft has closed on its approximately $16 billion acquisition of speech recognition company Nuance. The deal, which was announced last year, helps Microsoft Corp. get more entrenched into hospitals and the health care industry through Nuance's widely used medical dictation and transcription tools.",
+      "path": "_news/2022-03-05-microsoft-completes-197b-acquisition-of-nuances-ai-voice-tech.md",
+      "title": "Microsoft completes $19.7B acquisition of Nuance's AI voice tech",
+      "excerpt": "Microsoft's $19.7 billion deal for AI-based communications provider Nuance closed on Friday,",
       "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651",
-      "originalUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651",
+      "webUrl": "https://www.windowscentral.com/microsoft-completes-197-billion-acquisition-ai-giant-nuance",
+      "originalUrl": "https://www.protocol.com/bulletins/microsoft-completes-nuance-acquisition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 214,
       "tags": null,
       "images": [
         {
-          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/01/27/microsoft.jpg?itok=wzEj5a81",
-          "width": 750,
-          "height": 393,
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/01/microsoft-logo-2022-2.jpg",
+          "width": 800,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -122,13 +122,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651?amp",
-      "publishedDateTime": "2022-03-04T08:22:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-04T09:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
+        "name": "Protocol",
+        "domain": "protocol.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -138,7 +138,6 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
         "AI",
         "Microsoft AI"
       ]
@@ -196,6 +195,49 @@
         "AI Hardware",
         "Natural Language Processing",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization.md",
+      "title": "Wipro steady after earning Analytics on Microsoft Azure Advanced Specialization",
+      "excerpt": "Wipro Limited on Tuesday announced that it has earned the Analytics on Microsoft Azure advanced specialization ... the value of data through insights and Artificial Intelligence (AI). At Wipro, we have been helping customers build an intelligent ecosystem ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiainfoline.com/article/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html",
+      "originalUrl": "https://www.indiainfoline.com/article/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/article/2021-04/30/full/1619762965-0815.png",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html",
+      "publishedDateTime": "2022-03-01T23:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1344,40 +1386,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-morgan-stanley-pounds-the-table-on-microsoft-stock.md",
-      "title": "Morgan Stanley Pounds the Table on Microsoft Stock",
-      "excerpt": "This includes products for collaboration & communication (Teams), analytics & visualization (PowerBI), endpoint security (Defender) and identity management (Azure AD ... data management and machine learning, amongst others. This provides enterprises ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock",
-      "originalUrl": "https://www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock?amp",
-      "publishedDateTime": "2022-02-10T11:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

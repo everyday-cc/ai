@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-analytics-in-endpoint-security/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Ukraine-No-capitulation-AFP-1K-01-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Vijay Mehra EQT Discusses How Analytics and AI Contribute to Finding Undervalued Real Estate Investments"
+    excerpt: "Its no secret that data and analytics are playing an increasingly important role in the world of real estate. By harnessing the power of big data, investors and analysts can make better decisions about where to"
+    publishedDateTime: 2022-03-05T13:50:00Z
+    webUrl: "https://www.econotimes.com/Vijay-Mehra-EQT-Discusses-How-Analytics-and-AI-Contribute-to-Finding-Undervalued-Real-Estate-Investments-1628569"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 20
+    images:
+      - url: "https://www.econotimes.com/assets/images/econotimes/metaDefault2.png"
+        width: 400
+        height: 330
         isCached: true
   - title: "Cypriot fintech first to use AI-powered analytics tool"
     excerpt: "Cyprus-based financial technology company SquaredFinancial announced on Tuesday that it will be the first organisation to utilise iQbyQi, an advanced retail trading analytics tool. “SquaredFinancial,"

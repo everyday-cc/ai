@@ -9,7 +9,7 @@ ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/975434"
 cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/975434"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 740
     isCached: true
-
-related:
-  - title: "CULT Food Science Expands IP Portfolio with Multiple Cellular Agriculture Patents, Machine Learning Data and Bioprocess Prototyping Toolkits"
-    excerpt: "CULT Food Science Corp. (\"CULT\" or the \"Company\"), an innovative investment platform with an exclusive focus on cellular agriculture that is advancing the development of novel technologies to provide a sustainable,"
-    publishedDateTime: 2022-02-28T22:51:00Z
-    webUrl: "https://www.lelezard.com/en/news-20262794.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 6
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/environment.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "4yOe5RMXJQHobbENDwL1BJDcJtRb/pjERIHzvX3DUtb87/jGJfoQ36cdNDB2+7l2rvtHrIMtqoKT9AfYEBphpvB/8EfyEIdGdXh5uxszsjz3KW9jAGn0lazNuNfpFBzOLBmPZtWqbTJ01/ODaGOGMgbanbAqJvL/+9i0XTwY+Pr5rJaNmfxHbygSy+kGLqHuOnDH6jcD1JbVe21Hb/vewK1iFskS0N5OPVvr+Mb6s/ZbMvO7cK8usRYEZgbDJqbR3kkXLZI43x57/q/Tm/UQceFzKg6r9Ms+nvV/URyCtR4b+OQdG8w+2aXmzYEbIj1/3uhK+NV0TwTZJB3SA7BYZ2EIVKZSMAD8arjYd4NuVlA8PgWCjiAXsTLh9xre83tyGxIc4wqF+seDPsoe7Wf9VGG78Vp7NtgKZQNVP0KJoGo4Zj3L/YL9XRcJWWPY9ekuz8fSQUfrn/kpKzgfIkJeydkk0LNTvgIGPvyj0ngOqOS9+KOxi9GBrGDDkNJVlIp2XVcR+bGZQ5LshoY2R9zs4A==;6mgxRmvWmlkYHu1/eciUDg=="
 ---

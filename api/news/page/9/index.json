@@ -2,6 +2,144 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-02-23-choose-the-best-data-source-for-your-amazon-sagemaker-training-job.md",
+      "title": "Choose the best data source for your Amazon SageMaker training job",
+      "excerpt": "Amazon SageMaker is a managed service that makes it easy to build, train, and deploy machine learning (ML) models. Data scientists use SageMaker training jobs to easily train ML models; you don’t have to worry about managing compute resources, and you pay only for the actual training time. Data ingestion",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/choose-the-best-data-source-for-your-amazon-sagemaker-training-job/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/choose-the-best-data-source-for-your-amazon-sagemaker-training-job/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/15/ML-2979-image005.jpg",
+          "width": 1310,
+          "height": 1076,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T13:12:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-ncar-pits-azure-cloud-against-its-own-big-iron-for-climate-models.md",
+      "title": "NCAR Pits Azure Cloud Against Its Own Big Iron For Climate Models",
+      "excerpt": "AI, on the other hand, takes an absolutely massive amount of ... as part of the Microsoft presentation on running HPC on Azure. On the Cheyenne side, the server nodes are equipped with a pair of 18-core “Broadwell” Xeon E5-2697 v4 processors running ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/02/23/ncar-pits-azure-cloud-against-its-own-big-iron-for-climate-models/",
+      "originalUrl": "https://www.nextplatform.com/2022/02/23/ncar-pits-azure-cloud-against-its-own-big-iron-for-climate-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/02/ncar-cheyenne-wyoming.jpg",
+          "width": 595,
+          "height": 397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/02/23/ncar-pits-azure-cloud-against-its-own-big-iron-for-climate-models/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/02/23/ncar-pits-azure-cloud-against-its-own-big-iron-for-climate-models/amp/",
+      "publishedDateTime": "2022-02-23T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.md",
+      "title": "IRS now allows taxpayers to avoid facial recognition following backlash",
+      "excerpt": "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html",
+      "originalUrl": "https://www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/COABZEBOUJHUFEZOZV5OQR32IM.jpg",
+          "width": 3736,
+          "height": 2421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html?outputType=amp",
+      "publishedDateTime": "2022-02-23T12:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Penn Live",
+        "domain": "pennlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-24-meta-tries-to-explain-its-ai-with-an-instagram-algorithm-decoder.md",
       "title": "Meta tries to explain its AI with an Instagram algorithm decoder",
       "excerpt": "Meta’s Responsible AI team developed “system cards” that have “the potential to provide insight into underlying AI system architecture and help better explain how these systems operate.”",
@@ -1043,153 +1181,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-speech-graphics-raises-7m-for-lip-synced-facial-animation.md",
-      "title": "Speech Graphics raises $7M for lip-synced facial animation",
-      "excerpt": "Speech Graphics has raised $7 million in funding to build its audio-driven facial animation technology. It is dubbing, using AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/23/speech-graphics-raises-7m-for-audio-driven-facial-animation/",
-      "originalUrl": "https://venturebeat.com/2022/02/23/speech-graphics-raises-7m-for-audio-driven-facial-animation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/speech.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/23/speech-graphics-raises-7m-for-audio-driven-facial-animation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/23/speech-graphics-raises-7m-for-audio-driven-facial-animation/amp/",
-      "publishedDateTime": "2022-02-23T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-artificial-intelligence-and-robotics-could-be-growth-area-for-bradford-but-there-are-still-gaps-in-tech-inequality.md",
-      "title": "Artificial intelligence and robotics could be 'growth area' for Bradford - but there are still gaps in tech inequality",
-      "excerpt": "ARTIFICIAL Intelligence and robotics could \"major growth areas\" for Bradford in the coming years - a meeting has heard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.artificial-intelligence-robotics-growth-area-bradford---still-gaps-tech-inequality/",
-      "originalUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.artificial-intelligence-robotics-growth-area-bradford---still-gaps-tech-inequality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetelegraphandargus.co.uk/resources/images/13502282/?type=responsive-gallery",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.amp/",
-      "cdnAmpWebUrl": "https://www-thetelegraphandargus-co-uk.cdn.ampproject.org/c/s/www.thetelegraphandargus.co.uk/news/19943900.amp/",
-      "publishedDateTime": "2022-02-23T05:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telegraph & Argus",
-        "domain": "thetelegraphandargus.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-how-a-financial-planner-went-from-broke-to-generating-85-million.md",
-      "title": "How A Financial Planner Went From Broke To Generating $8.5 Million",
-      "excerpt": "Failure is a great teacher. When a financial manager went into debt, she took her own advice to manage her business, wealth and investments better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/",
-      "originalUrl": "https://www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62159857d3e152c3f3c0952c/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 960,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/amp/",
-      "publishedDateTime": "2022-02-23T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

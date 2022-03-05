@@ -42,20 +42,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "How Deep Learning Can Transform the Transportation Sector"
-    excerpt: "Deep learning in transportation is expected to plug out some of the oldest and most stubborn problems affecting the sector’s overall performance."
-    publishedDateTime: 2022-02-28T21:56:00Z
-    webUrl: "https://www.bbntimes.com/technology/how-deep-learning-can-transform-the-transportation-sector"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Deep_Learning_Can_Transform_the_Transportation_Sector.jpeg"
-        width: 1000
-        height: 595
-        isCached: true
 
 secured: "RlxN8mmKf/uOCLUQ4nyf5sHRm9CB5AXJu6E8c/Q6CWrSYOpRJ9BZJtwq9dboDNOK3ASLpraDgY/DNBLkvJu1MldsbCY8GCjr8SuAxj/EwKe3CPK+fHz5o60JI8ub7xHUCIC3QVYVQgXVQ5iA58dTnwrdq4Lkkn+ADyZqtgZzHsynUuPIoc+e3A3m8oCB9+utVySc+fY/mvWJcHBOF2HO/Mfvv+uJvoRfQJRPs0v50UksYuPKYyWv44E2jq1IoBsrmp7kxajIdpTnF6uS8CcwjLq38fCWfc8ygeBvsge13KNK9DJ3je1TCxq3q4N7EySit72nDrwPnUTtdrcguDUBhW0njUmwhsbKaWDithHYV0c=;c6/Ul566k6wRN5118AXfiw=="
 ---

@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft completes $19.7B acquisition of Nuance's AI voice tech"
+    excerpt: "Microsoft's $19.7 billion deal for AI-based communications provider Nuance closed on Friday,"
+    publishedDateTime: 2022-03-04T17:20:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-completes-197-billion-acquisition-ai-giant-nuance"
+    type: article
+    provider:
+      name: Protocol
+      domain: protocol.com
+    quality: 154
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/01/microsoft-logo-2022-2.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Microsoft acquires speech recognition company Nuance for $16 billion"
     excerpt: "Microsoft has closed on its approximately $16 billion acquisition of speech recognition company Nuance. The deal, which was announced last year, helps Microsoft Corp. get more entrenched into hospitals and the health care industry through Nuance's widely used medical dictation and transcription tools."
     publishedDateTime: 2022-03-04T16:22:00Z
@@ -59,22 +73,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Wipro steady after earning Analytics on Microsoft Azure Advanced Specialization"
-    excerpt: "Wipro Limited on Tuesday announced that it has earned the Analytics on Microsoft Azure advanced specialization ... the value of data through insights and Artificial Intelligence (AI). At Wipro, we have been helping customers build an intelligent ecosystem ..."
-    publishedDateTime: 2022-03-02T07:55:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 70
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2021-04/30/full/1619762965-0815.png"
-        width: 350
-        height: 233
-        isCached: true
   - title: "KX Strategic Announces Partnership with Microsoft"
     excerpt: "FD Technologies announces that it has entered into a strategic partnership agreement with Microsoft to expand the reach of its KX Insights"
     publishedDateTime: 2022-03-01T11:28:00Z
@@ -105,31 +103,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Speech recognition startup raises $400,000 for next-generation transcription technology"
-    excerpt: "London-based AI startup Alchemy Machines has raised $400,000 in pre-seed funding. The round was led by SFC Capital and saw the participation of Innovate UK. The new funds will support further development of the platform and expansion of the team."
-    publishedDateTime: 2022-03-03T14:20:00Z
-    webUrl: "https://tech.eu/2022/03/03/speech-recognition-startup-raises-400000-for-next-generation-transcription-technology"
-    type: article
-    provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 46
-    images:
-      - url: "https://cdn.tech.eu/uploads/2022/03/untitled-design-96-861.png"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "ASOS commits to keep using Microsoft Azure for another five years to support business growth push"
-    excerpt: "Since then, Asos has continued to dig into the Microsoft Azure portfolio of cloud products to underpin its forays into artificial intelligence (AI) and support the roll-out of its other data-led customer-facing offerings. “Over the past few years ..."
-    publishedDateTime: 2022-03-01T12:41:00Z
-    webUrl: "https://www.computerweekly.com/news/252514002/ASOS-commits-to-keep-using-Microsoft-Azure-for-another-five-years-to-support-business-growth-push"
-    ampWebUrl: "https://www.computerweekly.com/news/252514002/ASOS-commits-to-keep-using-Microsoft-Azure-for-another-five-years-to-support-business-growth-push?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252514002/ASOS-commits-to-keep-using-Microsoft-Azure-for-another-five-years-to-support-business-growth-push?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 41
   - title: "KX Strategic Partnership Agreement with Microsoft"
     excerpt: "KX Insights on Azure will enable customers to store and access their data using complex event processing, high-performance analytics and machine learning interfaces on one unified and easy-to-use platform. Tightly integrated within Microsoft's intelligent ..."
     publishedDateTime: 2022-03-01T08:54:00Z
@@ -145,6 +118,6 @@ related:
         height: 240
         isCached: true
 
-secured: "2RvCFS4sjIssaQXROg3JDx9MMnH0fgDUYd4UmOjAqIFqb7dR7z7GyO+AwJsunmFhotkDIeC2UyM5sMpoEttdpzx8DuT157U/orE/Q0firJlJzRCdNmT4FEO8mMHsrjtu103/B6N/tPaoScGrqxPGAIZadrAk40byTIfujzhpCOJzb4gHlAw8r9Bqz2RV2TwzCWBSNrdc6opHb9vVYyIU9kJglPnnSDQTmYiPGWRzYH7kkADsGRR3lQYUX3K6AHWK415Hzlj50SITmOl93ch8UWRSoqGZPHhbPavwZoICSyuM0ljExIS/eNMka9GaRACL2MiFAtn/Jn2ZWMLrZ2qVSH3nn6mt62iM0MZLIom4+08=;yw517EQXsRydV2qYj4zB6Q=="
+secured: "C8sOMpziM8usYwPxnE60M4ykxTBBDMoBeHWfQtY+habEOULr31omZNeMyWYoMvIDCrYrWmIc6VzOP1nKkH3M7W2z2bwAXS6c8bVC0YOoSxVAqmeWttP6JbJIpc3i0MWgGZlDDineyCWuLSRF3RGzibIDwR2sbeh2EDTtimm+LXxvlHlgjuSnw9yNKlrVsdr25zHnccLaaxn+RByPPdjy/ZUBS9lqLJ5vGSNBmO7QavIn7/4zvauAIxGkRwiBmB5rfFA2cRIYy+RK6WzR46sfN9h9odiQNb8pQpU63NVWt+645rljXa1ennXw02/folsf+LWuOzPmlIgSNiEBSzZpUhPg3OQgIzoztRdP2mHhNAo37TDYQLe4vY/bLVwB/oq3yv1lw/NTiGf2mhbEVyZJPuMktZyGRdlucqmOhpQmPMEgG2IRtOJjSbzNyMFFf2xIdOMBlVsrnIDDVV+bs4PImJ05SDnJVE/C0v8xmjZ1W6iFfb1RkjfwWwvb2z1SFs0NGZpF9nbom4Wu6T25PX5Q1w==;R8ma3/Zy0bcmPS1nxPViHQ=="
 ---
 
