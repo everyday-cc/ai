@@ -52,18 +52,20 @@ related:
         height: 628
         isCached: true
   - title: "Baidu beats quarterly revenue estimates on AI, cloud services strength"
-    excerpt: "(Reuters) -Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has ..."
-    publishedDateTime: 2022-03-01T08:58:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/03/01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength"
+    excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has been ..."
+    publishedDateTime: 2022-03-01T10:43:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/03/01/1498688.jpg"
-        width: 800
-        height: 533
+      - url: "https://etimg.etb2bimg.com/thumb/msid-89923039,imgsize-62329,width-1200,height-628,overlay-etcio/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Baidu beats quarterly revenue estimates on AI, cloud services"
     excerpt: "Chinese search engine giant Baidu Inc beat quarterly revenue Wall Street estimates on Tuesday powered by growth in its artificial intelligence (AI) cloud business. Revenue grew to 33.09 billion yuan ($5."

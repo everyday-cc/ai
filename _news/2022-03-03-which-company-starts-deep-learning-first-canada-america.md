@@ -24,22 +24,6 @@ images:
     height: 417
     isCached: true
 
-related:
-  - title: "North America tops the tree for machine learning roles in beverages – data"
-    excerpt: "North America has extended its dominance of 'machine learning' hirings among beverage companies, according to recent research."
-    publishedDateTime: 2022-02-28T14:34:00Z
-    webUrl: "https://www.just-drinks.com/features/north-america-tops-the-tree-for-machine-learning-roles-in-beverages-data/"
-    type: article
-    provider:
-      name: Drinks
-      domain: just-drinks.com
-    quality: 37
-    images:
-      - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2022/02/Machine-Learning-Q4-21-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
-
 secured: "PrylVQ4VXJ+ji+8RGXSH40/JRcZqpgCByHO1VB6YetEJEcRbwxWxXlmiID1QZp4ZzlhIgiBzH7gOYfAvHgPK6Dm67VdF10VxXjkL7w6zqiY9/fe2uQfaPo6OZqpQr5yHVTNb2ZbdyFy2yta8sHn/+iMXeVQ1H5WqbEUhuKy+dDIYRUUTSqHL445vRzBSAaueeBaHqX41IBqMou0BXJnEZcJ6WgjfNe0RdTWbfsngDnvfjfGp/s78dIs02ypahmTor/E741+yG4yTGEJPM/QuSZIqlhcwwM38/1UUDUIty+98EKwcCo8WD5d1jzE3FlHfnLVm/a4MaHDSOh5pIxC5IPQoqbUqyqWCyB/IEpp+ZFmEJ+XJY59wVpSqvUoFvWx6SONkKXG3Bfzgd+0cM4LITEI8claLUfm8xydMeg4rIIt7L9ZU3WG0JB+C0oeQDA3Ul67AiIOmGRfgKm4Q9s5P1c+hDftmKiPzUZn6fnS8+XjU5IiLJN6MjRHqhXEHe2GMuPqlZCAST6xlDJ6D9ajx3w==;4dSkv7fxSKc2btLjgOwtng=="
 ---
 

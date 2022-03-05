@@ -2,6 +2,153 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-01-corticalio-adds-contract-intelligence-to-document-processing.md",
+      "title": "Cortical.io adds contract intelligence to document processing",
+      "excerpt": "This technology leverages such tools as computer vision, machine learning, natural language processing, and optical character recognition. But when it comes to delving deeper into more complex ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/28/cortical-io-adds-contract-intelligence-to-document-processing/",
+      "originalUrl": "https://venturebeat.com/2022/02/28/cortical-io-adds-contract-intelligence-to-document-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1354189829-1-e1646064906433.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/28/cortical-io-adds-contract-intelligence-to-document-processing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/28/cortical-io-adds-contract-intelligence-to-document-processing/amp/",
+      "publishedDateTime": "2022-02-28T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada.md",
+      "title": "Tesla begins rolling out Full Self-Driving FSD Beta in Canada",
+      "excerpt": "Tesla begins rolling out Full Self-Driving FSD Beta in Canada. Only users who actively apply and pass their \"Security Test Score\" can try it",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/",
+      "originalUrl": "https://www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/02/Tesla-Autopilot-a-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/amp/",
+      "publishedDateTime": "2022-02-28T11:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-speech-recognition-market-growth-rate-top-players-analysis-statistics-revenue-and-forecast-till-2028.md",
+      "title": "Speech Recognition Market Growth Rate, Top Players Analysis, Statistics, Revenue and Forecast till 2028",
+      "excerpt": "Market Study Report Adds New Research On Speech Recognition Market, Which Is A Detailed Analysis Of This Business Space Inclusive Of The Trends, Competitive Landscape, And The Market Size. Encompassing One Or More Parameters Among Product Analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-market-growth-rate-top-players-analysis-statistics-revenue-and-forecast-till-2028-2022-02-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-market-growth-rate-top-players-analysis-statistics-revenue-and-forecast-till-2028-2022-02-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-28T11:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-driving-inclusive-prosperity-through-self-education-and-fiscal-action.md",
       "title": "Driving Inclusive Prosperity through Self-Education and Fiscal Action",
       "excerpt": "Growing Black Wealth Self-education was a prominent theme, particularly for young entrepreneurs looking to grow their wealth. Jacques, the youngest on the panel, who started his venture capitalist (VC) firm while still in Harvard Business School,",
@@ -84,58 +231,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-snapdragon-x70-5g-modem-packs-an-ai-processor-to-improve-signal-strength-and-power-efficiency.md",
-      "title": "Snapdragon X70 5G modem packs an AI processor to improve signal strength and power efficiency",
-      "excerpt": "The AI suite in the new Snapdragon X70 5G modem-RF system will assist ... It’s no slouch in the speed department, either, as the chip is capable of theoretical download speeds of up to 10 Gbps to offer “fiber-like browsing speeds and latency.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/93581-snapdragon-x70-5g-modem-packs-ai-processor-improve.html",
-      "originalUrl": "https://www.techspot.com/news/93581-snapdragon-x70-5g-modem-packs-ai-processor-improve.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/02/2022-02-28-image-19.jpg",
-          "width": 2434,
-          "height": 1447,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/93581-snapdragon-x70-5g-modem-packs-ai-processor-improve.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93581-snapdragon-x70-5g-modem-packs-ai-processor-improve.html",
-      "publishedDateTime": "2022-02-28T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -1064,101 +1159,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-27-ai-medicine-software-market-2022-present-scenario-and-growth-prospects-2026-enlitic-atomwise-deepmind-babylon-health-flatiron-health.md",
-      "title": "AI Medicine Software Market 2022 | Present Scenario and Growth Prospects 2026 | Enlitic, Atomwise, DeepMind, Babylon Health, Flatiron Health",
-      "excerpt": "Global AI Medicine Software Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report Ocean, is an in-depth analysis of market characteristics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-medicine-software-market-2022-present-scenario-and-growth-prospects-2026-enlitic-atomwise-deepmind-babylon-health-flatiron-health",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-medicine-software-market-2022-present-scenario-and-growth-prospects-2026-enlitic-atomwise-deepmind-babylon-health-flatiron-health",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/27f2bf527b901f7bf89e65211331317bac62288f-e1646243587537-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-26T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-27-tesla-starts-rolling-out-of-full-self-driving-beta-in-canada.md",
-      "title": "Tesla starts rolling out of Full Self-Driving Beta in Canada",
-      "excerpt": "Since October 2020, Tesla has been slowly rolling out what it is calling “Full Self-Driving Beta” (FSD Beta), which is an early version of its self-driving software that is currently being ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/02/26/tesla-starts-rolling-out-full-self-driving-beta-canada/",
-      "originalUrl": "https://electrek.co/2022/02/26/tesla-starts-rolling-out-full-self-driving-beta-canada/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/02/Tesla-FSD-Beta-request.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/02/26/tesla-starts-rolling-out-full-self-driving-beta-canada/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/02/26/tesla-starts-rolling-out-full-self-driving-beta-canada/amp/",
-      "publishedDateTime": "2022-02-26T10:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

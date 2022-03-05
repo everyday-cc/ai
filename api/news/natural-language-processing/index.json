@@ -55,6 +55,50 @@
       ]
     },
     {
+      "path": "_news/2022-03-05-microsoft-acquires-speech-recognition-company-nuance-for-16-billion.md",
+      "title": "Microsoft acquires speech recognition company Nuance for $16 billion",
+      "excerpt": "Microsoft has closed on its approximately $16 billion acquisition of speech recognition company Nuance. The deal, which was announced last year, helps Microsoft Corp. get more entrenched into hospitals and the health care industry through Nuance's widely used medical dictation and transcription tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651",
+      "originalUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/01/27/microsoft.jpg?itok=wzEj5a81",
+          "width": 750,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651?amp",
+      "publishedDateTime": "2022-03-04T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-04-pompeo-in-taiwan-urges-us-diplomatic-recognition.md",
       "title": "Pompeo In Taiwan Urges US Diplomatic Recognition",
       "excerpt": "Former US Secretary of State Mike Pompeo in a speech on Friday on a non-official visit to Taiwan called for the US to give diplomatic recognition to the self-ruled island China claims as its own territory.",
@@ -400,7 +444,7 @@
       "originalUrl": "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -653,7 +697,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-market-growth-rate-top-players-analysis-statistics-revenue-and-forecast-till-2028-2022-02-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -1411,59 +1455,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-control-formality-in-machine-translated-text-using-amazon-translate.md",
-      "title": "Control formality in machine translated text using Amazon Translate",
-      "excerpt": "Amazon Translate&nbsp;is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation. Amazon Translate now supports formality customization. This feature allows you to customize the level of formality in your translation output. At the time",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/control-formality-in-machine-translated-text-using-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/control-formality-in-machine-translated-text-using-amazon-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T19:45:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

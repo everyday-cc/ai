@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft expands Azure for Operators with hybrid cloud platform"
-    excerpt: "Microsoft’s push into the telecoms sector has been strengthened at Mobile Worlrd Congress 2022 (MWC) with the launch of several new services that expand its ‘Azure for Operators’ cloud proposition The most revolutionary of 5G applications – such as Industry 4."
-    publishedDateTime: 2022-02-28T14:34:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-expands-azure-for-operators-with-hybrid-cloud-platform"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 84
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/cAewSdXkrLEUsD8muVzGX9-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft acquires speech recognition company Nuance for $16 billion"
     excerpt: "Microsoft has closed on its approximately $16 billion acquisition of speech recognition company Nuance. The deal, which was announced last year, helps Microsoft Corp. get more entrenched into hospitals and the health care industry through Nuance's widely used medical dictation and transcription tools."
     publishedDateTime: 2022-03-04T16:22:00Z
@@ -103,20 +89,6 @@ related:
         width: 350
         height: 233
         isCached: true
-  - title: "Get Microsoft 365 Under Control with CoreView, Now Available through Azure Marketplace"
-    excerpt: "CoreView today announced it is now the first and only Microsoft 365 Management Platform available for purchase via the trusted Azure Marketplace, allowing IT teams to purchase CoreView through Microsoft."
-    publishedDateTime: 2022-03-03T18:19:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=626148"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 61
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "KX Strategic Announces Partnership with Microsoft"
     excerpt: "FD Technologies announces that it has entered into a strategic partnership agreement with Microsoft to expand the reach of its KX Insights"
     publishedDateTime: 2022-03-01T11:28:00Z
@@ -133,17 +105,20 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "TCS launches Enterprise 5G Edge suite of solutions with Microsoft Azure private MEC"
-    excerpt: "The new offering serves various industry verticals, bringing together enterprise assessment toolkits for edge and 5G readiness, and edge-native solutions ranging from industrial automation, quality detection,"
-    publishedDateTime: 2022-03-03T07:46:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/tcs-launches-enterprise-5g-edge-suite-of-solutions-with-microsoft-azure-private-mec-122030300557_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/tcs-launches-enterprise-5g-edge-suite-of-solutions-with-microsoft-azure-private-mec-122030300557_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/tcs-launches-enterprise-5g-edge-suite-of-solutions-with-microsoft-azure-private-mec-122030300557_1.html"
+  - title: "Speech recognition startup raises $400,000 for next-generation transcription technology"
+    excerpt: "London-based AI startup Alchemy Machines has raised $400,000 in pre-seed funding. The round was led by SFC Capital and saw the participation of Innovate UK. The new funds will support further development of the platform and expansion of the team."
+    publishedDateTime: 2022-03-03T14:20:00Z
+    webUrl: "https://tech.eu/2022/03/03/speech-recognition-startup-raises-400000-for-next-generation-transcription-technology"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 48
+      name: Tech.eu
+      domain: tech.eu
+    quality: 46
+    images:
+      - url: "https://cdn.tech.eu/uploads/2022/03/untitled-design-96-861.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "ASOS commits to keep using Microsoft Azure for another five years to support business growth push"
     excerpt: "Since then, Asos has continued to dig into the Microsoft Azure portfolio of cloud products to underpin its forays into artificial intelligence (AI) and support the roll-out of its other data-led customer-facing offerings. “Over the past few years ..."
     publishedDateTime: 2022-03-01T12:41:00Z

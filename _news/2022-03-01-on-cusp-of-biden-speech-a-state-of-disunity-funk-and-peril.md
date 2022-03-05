@@ -69,17 +69,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "On cusp of Biden speech, a state of disunity, funk and peril"
-    excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades."
-    publishedDateTime: 2022-02-28T14:12:00Z
-    webUrl: "https://www.thenewstribune.com/news/business/article258845368.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/business/article258845368.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article258845368.html"
-    type: article
-    provider:
-      name: News Tribune
-      domain: thenewstribune.com
-    quality: 24
   - title: "On cusp of Biden speech, a state of disunity, funk, peril"
     excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades. In their State of the Union speeches, they declare “the state of our union is strong” or words very much like it."
     publishedDateTime: 2022-02-28T16:35:00Z

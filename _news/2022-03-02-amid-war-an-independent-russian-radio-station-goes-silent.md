@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artif
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/amp/"
 type: article
 quality: 142
-heat: 172
+heat: 162
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta says it's shut down a pro-Russian disinformation network, warns of a social media hacking operation"
-    excerpt: "Facebook's parent Meta said Monday it has caught dozens of fake, pro-Russian accounts, groups and pages across its platforms trying to spread anti-Ukrainian propaganda as the war in Ukraine continues to rage."
-    publishedDateTime: 2022-02-28T13:56:58Z
-    webUrl: "https://www.cnn.com/2022/02/28/tech/meta-russia-ukraine-disinformation-network/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/02/28/tech/meta-russia-ukraine-disinformation-network/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/02/28/tech/meta-russia-ukraine-disinformation-network/index.html"
-    type: article
-    provider:
-      name: com/2022/02/28/tech/meta-russia-ukraine-disinformation-network/index.html
-      domain: com/2022/02/28/tech/meta-russia-ukraine-disinformation-network/index.html
-    quality: 125
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220228073436-meta-headquarters-020222-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Russian autonomous-driving company Yandex idles U.S. operations amid Ukraine invasion"
     excerpt: "Self-driving tech company Yandex said it paused operation of its robotaxis in Ann Arbor, Mich., and ended a delivery partnership with Grubhub."
     publishedDateTime: 2022-03-04T19:27:00Z

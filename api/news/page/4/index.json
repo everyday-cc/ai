@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-02-deep-learning-diagnoses-ai-detects-covid-19-from-smartwatch-sensors.md",
+      "title": "Deep-learning diagnoses: AI detects COVID-19 from smartwatch sensors",
+      "excerpt": "Combining questions about a person's health with data from smartwatch sensors, a new app developed using research at Princeton University can predict within minutes whether someone is infected with COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-03-deep-learning-ai-covid-smartwatch-sensors.html",
+      "originalUrl": "https://techxplore.com/news/2022-03-deep-learning-ai-covid-smartwatch-sensors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/deep-learning-diagnose.jpg",
+          "width": 1536,
+          "height": 864,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-03-deep-learning-ai-covid-smartwatch-sensors.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-deep-learning-ai-covid-smartwatch-sensors.amp",
+      "publishedDateTime": "2022-03-01T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-02-injecting-fairness-into-machine-learning-models.md",
       "title": "Injecting fairness into machine-learning models",
       "excerpt": "If a machine-learning model is trained using an unbalanced dataset, such as one that contains far more images of people with lighter skin than people with darker skin, there is serious risk the model's predictions will be unfair when it is deployed in the real world.",
@@ -398,6 +441,58 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-codecademy-and-black-and-brilliant-launch-africa-based-ai-accelerator.md",
+      "title": "Codecademy and Black and Brilliant Launch Africa-Based AI Accelerator",
+      "excerpt": "Codecademy, the leading online learning platform for technical skills, is partnering with The Black and Brilliant Advocacy Network to launch an Applied Artificial Intelligence accelerator and mentorship program in Africa.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/codecademy-and-black-and-brilliant-launch-africa-based-ai-accelerator-1031242576",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/codecademy-and-black-and-brilliant-launch-africa-based-ai-accelerator-1031242576",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1659499/Codecademy_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T04:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -926,6 +1021,58 @@
       ]
     },
     {
+      "path": "_news/2022-03-01-qualcomm-announces-ai-powered-snapdragon-x70-5g-modem-with-up-to-10gbps-download-speed.md",
+      "title": "Qualcomm announces AI-powered Snapdragon X70 5G modem with up to 10Gbps download speed",
+      "excerpt": "At the ongoing Mobile World Congress, Qualcomm has announced its latest next-generation modem for smartphones –Qualcomm Snapdragon X70 5G. It comes with increased uplink and downlink speed as well as new features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/",
+      "originalUrl": "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/03/Qualcomm-Snapdragon-X70-Modem.jpg",
+          "width": 1200,
+          "height": 713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/?amp=1",
+      "publishedDateTime": "2022-02-28T18:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-energy-efficient-ai-semiconductor-company-edgecortix-closes-series-a-funding.md",
       "title": "Energy-efficient AI Semiconductor Company EdgeCortix Closes Series A Funding",
       "excerpt": "EdgeCortix® the AI-focused fabless semiconductor company today announced that it has closed over $8 Million USD in series A",
@@ -1068,153 +1215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-corticalio-adds-contract-intelligence-to-document-processing.md",
-      "title": "Cortical.io adds contract intelligence to document processing",
-      "excerpt": "This technology leverages such tools as computer vision, machine learning, natural language processing, and optical character recognition. But when it comes to delving deeper into more complex ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/28/cortical-io-adds-contract-intelligence-to-document-processing/",
-      "originalUrl": "https://venturebeat.com/2022/02/28/cortical-io-adds-contract-intelligence-to-document-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1354189829-1-e1646064906433.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/28/cortical-io-adds-contract-intelligence-to-document-processing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/28/cortical-io-adds-contract-intelligence-to-document-processing/amp/",
-      "publishedDateTime": "2022-02-28T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada.md",
-      "title": "Tesla begins rolling out Full Self-Driving FSD Beta in Canada",
-      "excerpt": "Tesla begins rolling out Full Self-Driving FSD Beta in Canada. Only users who actively apply and pass their \"Security Test Score\" can try it",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/",
-      "originalUrl": "https://www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/02/Tesla-Autopilot-a-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/amp/",
-      "publishedDateTime": "2022-02-28T11:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-speech-recognition-market-growth-rate-top-players-analysis-statistics-revenue-and-forecast-till-2028.md",
-      "title": "Speech Recognition Market Growth Rate, Top Players Analysis, Statistics, Revenue and Forecast till 2028",
-      "excerpt": "Market Study Report Adds New Research On Speech Recognition Market, Which Is A Detailed Analysis Of This Business Space Inclusive Of The Trends, Competitive Landscape, And The Market Size. Encompassing One Or More Parameters Among Product Analysis,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-market-growth-rate-top-players-analysis-statistics-revenue-and-forecast-till-2028-2022-02-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-market-growth-rate-top-players-analysis-statistics-revenue-and-forecast-till-2028-2022-02-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-28T11:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

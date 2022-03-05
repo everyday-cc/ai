@@ -41,22 +41,6 @@ related:
         width: 1250
         height: 625
         isCached: true
-  - title: "Meta says it's shut down a pro-Russian disinformation network, warns of a social media hacking operation"
-    excerpt: "Facebook's parent Meta said Monday it has caught dozens of fake, pro-Russian accounts, groups and pages across its platforms trying to spread anti-Ukrainian propaganda as the war in Ukraine continues to rage."
-    publishedDateTime: 2022-02-28T13:56:58Z
-    webUrl: "https://www.cnn.com/2022/02/28/tech/meta-russia-ukraine-disinformation-network/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/02/28/tech/meta-russia-ukraine-disinformation-network/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/02/28/tech/meta-russia-ukraine-disinformation-network/index.html"
-    type: article
-    provider:
-      name: com/2022/02/28/tech/meta-russia-ukraine-disinformation-network/index.html
-      domain: com/2022/02/28/tech/meta-russia-ukraine-disinformation-network/index.html
-    quality: 125
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220228073436-meta-headquarters-020222-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Russian Invasion Highlights Growing Importance of Open Source Intelligence"
     excerpt: "During a morning political opinion show on March 2, Marc Polymeropoulos, a retired CIA field agent and supervisor, said he is sure his former employer is scouring its intelligence sources for signs of cracks in the walls of oligarchs and military supporters of Russian President Vladimir Putin as the invasion of Ukraine grinds on."
     publishedDateTime: 2022-03-04T14:00:00Z

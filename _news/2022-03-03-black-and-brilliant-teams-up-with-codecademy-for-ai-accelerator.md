@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/black-and-brilliant-teams-up-
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/black-and-brilliant-teams-up-with-codecademy-for-ai-accelerator/amp/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,33 @@ images:
     width: 1200
     height: 676
     isCached: true
+
+related:
+  - title: "Codecademy and Black and Brilliant Launch Africa-Based AI Accelerator"
+    excerpt: "Codecademy, the leading online learning platform for technical skills, is partnering with The Black and Brilliant Advocacy Network to launch an Applied Artificial Intelligence accelerator and mentorship program in Africa."
+    publishedDateTime: 2022-03-01T12:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/codecademy-and-black-and-brilliant-launch-africa-based-ai-accelerator-1031242576"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/1659499/Codecademy_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Codecademy partners with Black and Brilliant for AI accelerator in Africa"
+    excerpt: "Codecademy announced that it will be partnering with the Black and Brilliant advocacy group on a new mentorship program and accelerator in Africa. The two organizations joined for"
+    publishedDateTime: 2022-03-01T19:38:00Z
+    webUrl: "https://www.zdnet.com/article/codecademy-partners-with-black-and-brilliant-for-ai-accelerator-in-africa/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/codecademy-partners-with-black-and-brilliant-for-ai-accelerator-in-africa/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/codecademy-partners-with-black-and-brilliant-for-ai-accelerator-in-africa/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 68
 
 secured: "rjsNKn16Q2zfEcJpZn1NjDEjLk5aH+zG5wClUPQHQe2b3QA80n/4HYA9uZEjOVzafo3sC6j4KooAEP/h7/JiVdQB6o5LzsD3ICxOLsMrAhSe+R51gz8mZBzBPJl9XFl5av6jTG/1zwHvPLOXxqd22XCzZE7GavoL30PrBtENO5gZzGnC7YYUAS6WggsTCMFuplZ51UIE/XxvJPzpu/DgwnfOkKK6sg4HLlf0Zmadi9/HxeOYNQspBSdFnjTPC1gRKsiC4/QDN4WnX4zFr3Oenv0MY3peZzHweZCMbocfpwMl8CO+AUGPLGggfwTa0XeOPmYskpPFT6EJo7vVEdgMyMql41kyhp14jx+5T2lzzN3Ff1KHefUmvSdWXFR+WaZLbn0I3xrQT/TvtNbHJB8+IHNBqEeo1bXqtWzXFpDQ2xUwiudROpSZU5ZLi1LJNri8jV6yjCqGv+A8qZWE/VRA4S8+0FgjapTZTxmhBzBaCYxkwDxlcHceOBzfruMpRvTwYrbeRGbL+FtLFcRmv+jnOg==;7R0gffKXKtENOJRBSXTZzg=="
 ---

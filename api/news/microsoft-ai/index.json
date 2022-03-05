@@ -100,6 +100,50 @@
       ]
     },
     {
+      "path": "_news/2022-03-05-microsoft-acquires-speech-recognition-company-nuance-for-16-billion.md",
+      "title": "Microsoft acquires speech recognition company Nuance for $16 billion",
+      "excerpt": "Microsoft has closed on its approximately $16 billion acquisition of speech recognition company Nuance. The deal, which was announced last year, helps Microsoft Corp. get more entrenched into hospitals and the health care industry through Nuance's widely used medical dictation and transcription tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651",
+      "originalUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/01/27/microsoft.jpg?itok=wzEj5a81",
+          "width": 750,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651?amp",
+      "publishedDateTime": "2022-03-04T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-03-graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer.md",
       "title": "Graphcore unveils next-generation AI chips and plans for powerful supercomputer",
       "excerpt": "Graphcore, a company developing AI accelerator chips, has announced the latest generation of its products and plans for an AI supercomputer.",
@@ -1334,58 +1378,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-microsoft-azure-women-in-ai-program-experience.md",
-      "title": "Microsoft Azure Women in AI Program Experience",
-      "excerpt": "How do I even start?” I somehow ran into a training program called Microsoft Azure Women in AI Program on Google when I searched “how to get certified in Azure”. After hitting that “Register now for upcoming classes” button, I received an AI-900 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/microsoft-azure-women-ai-program-experience-foong-min-wong",
-      "originalUrl": "https://www.linkedin.com/pulse/microsoft-azure-women-ai-program-experience-foong-min-wong",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHlFLe62Tk6xg/article-cover_image-shrink_600_2000/0/1644499792793?e=1650499200&v=beta&t=hPTjgKDR8S1LBZS7NsOAOd4WOrrTCtqfDBYdp4Ih2DA",
-          "width": 1668,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-10T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

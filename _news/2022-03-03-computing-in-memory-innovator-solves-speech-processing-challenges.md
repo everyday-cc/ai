@@ -41,20 +41,6 @@ related:
         width: 374
         height: 250
         isCached: true
-  - title: "Computing-in-Memory Innovator Solves Speech Processing Challenges at the Edge Using Microchip’s Analog Embedded SuperFlash® Technology"
-    excerpt: "Computing-in-memory technology is poised to eliminate the massive data communications bottlenecks otherwise associated with performing artificial intelligence (AI) speech processing at the network’s edge but requires an embedded memory solution that simultaneously performs neural network computation and stores weights."
-    publishedDateTime: 2022-02-28T13:12:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-artificial-intelligence-microchip-technology-inc-1fdc9402b827fb1a76a97023e62af0eb"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "l+ULVbj/V3+P/SuYelMMuGPuXTQFd6NP8M8RNkqTxj9oVA9rWOB2EjuNjUvTtnI7XkZWsdOD61OEl8f5Sa1fmIAAx9oJYfBG06Oi0ZPjBCVvZ5rpszDTy5afDaXaxH78Q1TPppzb5gYhuRrc/jhtEX4E296jxG8Wpd2splbyMBdblAmhtJWm/l6U/0i06Rpl9U0aVae9DRQJtT5eKHjisM8mAkRb0lKpOlAWUT7t93UG4aSFUyCazw/qHAtPUI//V8EWxr6m5AJzAVTs0fOX47Uem8bd91mwKg/iYSKwm1bGdGqpDpHs4hZlkGVPTdSKsGLGiQpYt8RcCe/nXin0/rlzgWmlbFW5pZYA7ib9CAc=;qslUrnsk99+k0oGAtz4PRQ=="
 ---

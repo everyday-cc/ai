@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Baidu beats quarterly revenue estimates on AI, cloud services strength"
-excerpt: "(Reuters) -Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has ..."
-publishedDateTime: 2022-03-01T08:58:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/03/01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2022/03/01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength"
+excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has been ..."
+publishedDateTime: 2022-03-01T10:43:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
+webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength/89923039"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: cio.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2022/03/01/1498688.jpg"
-    width: 800
-    height: 533
+  - url: "https://etimg.etb2bimg.com/thumb/msid-89923039,imgsize-62329,width-1200,height-628,overlay-etcio/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -135,6 +137,6 @@ related:
         height: 480
         isCached: true
 
-secured: "bv2z5p19Fo9HFYW10yHdBiWQz36jZVWqCSO9yO4tvxatbwDX+7bYYx9Y2eulR92yOiJM+8DwcyksI4WxgDUqrMBUEEipXTIWqlVo+33jqwvBfwuRI/C1cLDUbiKUZh5cZaxdZM7cEJjcwVKHX03dTtAlNciZGFId+qCCbe9MA8gQS0UJkZUty8Xwu11KNyv4U8DKJubNK5hMn0WwO3vUfuja/lT2xob0FhqQbkEkrCBnKe4tk1dKWQLquFJrvn0qxIGfbP4saM5EcN7YbuP0EPBXsSt+scl8FqwG01ZBWWRdlKyUU5giwC13VSzLmWT30INz3rjmM6WRAoriAPaAdFIHzwIHsOY5UjV4BHgAtwg=;jRuFGLUB3F+FgzbPjUKdEg=="
+secured: "LjPW5/c8mqlW7xzaZgXhV0xRDe5Wf2fLtX8Al9LePOBPE/EgKBJ0O6sj71V6xmMr7IyP8NhQHUON2SWmCb6aEQb+ujN3y3Sx85bcN0X7zYArhziXE6AOjlTwtDCOoqF7RJco9gJ7qphYSXSlcgbe6SmnbGSxG9pnLLg0LVMoPWchYlQGpDzfgJhiTvXjtvSkZqqOyusY0rq4hwWYdeqJFNGv8WE7eOUna+Q35Vgl8lkggqzAS084QJAmnAe3ekliSZSJE69ypdsBxLBDQ7Mwgc+8JYDBgJ4XFdHBNz015bXzFEA6kbeVWjO3+tVluV5lpCJMhvMDru5bNaLcWNO9C7Y/oyZ/8WpCHfehDjYWhSs=;CuRcJeuCt7eKH3JySPwU/w=="
 ---
 

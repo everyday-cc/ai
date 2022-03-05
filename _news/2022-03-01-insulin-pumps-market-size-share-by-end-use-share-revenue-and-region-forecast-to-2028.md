@@ -109,20 +109,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Marketing Automation Market Trends, Business Strategies, Regional Outlook, Challenges and Opportunity Analysis"
-    excerpt: "North America was the largest contributor to the marketing automation market in 2020. This is because several market players are concentrating on mergers"
-    publishedDateTime: 2022-02-28T13:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/marketing-automation-market-trends-business-strategies-regional-outlook-challenges-and-opportunity-analysis"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 21
-    images:
-      - url: "https://www.abnewswire.com/uploads/1646031669.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "North America Deep Learning Neural Networks (DNNs) Market Size, Trends, Growth Opportunities, Analysis and Forecast by 2029"
     excerpt: "Market study encompasses a market attractiveness analysis, wherein all segments are benchmarked based on their market size, growth rate, and general attractiveness. The report gives the details about market trends,"
     publishedDateTime: 2022-03-04T12:33:00Z

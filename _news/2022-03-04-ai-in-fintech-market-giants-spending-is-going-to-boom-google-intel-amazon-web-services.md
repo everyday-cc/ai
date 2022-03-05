@@ -80,20 +80,6 @@ related:
         width: 800
         height: 594
         isCached: true
-  - title: "4 FinTech companies disrupting the UK Payment ecosystem"
-    excerpt: "FinTech refers to software and other modern technologies used by businesses that provide automated and improved financial services."
-    publishedDateTime: 2022-02-28T13:46:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-fintech-companies-disrupting-the-uk-payment-ecosystem/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/02/ibs_Spanish-FinTechs-2.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Paysafe to Participate in the Wolfe FinTech Forum March 9"
     excerpt: "Paysafe Limited (NYSE: PSFE), a leading specialized payments platform, today announced that Chief Executive Officer, Philip McHugh, and Chief Financial Officer, Izzy Dawood, will participate in the Wolfe FinTech Forum on Wednesday,"
     publishedDateTime: 2022-03-03T12:30:00Z

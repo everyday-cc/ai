@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-05T01:11:00Z
 originalUrl: "https://sps.columbia.edu/news/jose-manuel-pena-mendez-improving-equity-management-through-machine-learning"
 webUrl: "https://sps.columbia.edu/news/jose-manuel-pena-mendez-improving-equity-management-through-machine-learning"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://sps.columbia.edu/sites/default/files/styles/social_share_1200x630/public/2019-05/jose-manuel-pena-mendez.jpg?h=f2333f11&itok=E8lYT8M9"

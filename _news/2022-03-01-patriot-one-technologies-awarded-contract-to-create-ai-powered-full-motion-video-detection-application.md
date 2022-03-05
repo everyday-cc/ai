@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Speech recognition startup raises $400,000 for next-generation transcription technology"
-    excerpt: "London-based AI startup Alchemy Machines has raised $400,000 in pre-seed funding. The round was led by SFC Capital and saw the participation of Innovate UK. The new funds will support further development of the platform and expansion of the team."
-    publishedDateTime: 2022-03-03T14:20:00Z
-    webUrl: "https://tech.eu/2022/03/03/speech-recognition-startup-raises-400000-for-next-generation-transcription-technology"
+  - title: "Behind Mitsubishi’s AI-powered scene-aware interaction system"
+    excerpt: "The navigation system leverages proprietary Maisart compact AI technology to analyse multimodal sensing information and provide intuitive driving instructions."
+    publishedDateTime: 2022-03-03T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/behind-mitsubishis-ai-powered-scene-aware-interaction-system/"
     type: article
     provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 46
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://cdn.tech.eu/uploads/2022/03/untitled-design-96-861.png"
-        width: 1920
-        height: 1080
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Behind-Mitsubishis-AI-powered-scene-aware-interaction-system.jpeg"
+        width: 2000
+        height: 1334
         isCached: true
 
 secured: "VSe/OZXebsC9ksZGb3vOJ9Rx5P3pp4dxHVAderIn0QoA7VRFfydYTVbKr4vsTfEauJ9M9NVmq2SpzPMr8e2515FNTOj+1+erx5Ck7WkdcbSoMkWohTQo/viR3Rz/3Aowqk2a3N3641ucqKXnCxq+E3weoER57AR+wUvlTyimH6HxHm3Lfjm8CwN3SPSuj3RapjHmviS5dvPvpN7KMP7Q1yyrISBLqJD7NYO8dDImt0xBtXeAdmIscmefYHFaxGiGc87GO5+c1suH1urstPPhksRte/GHoG0+iOto/YnSNKVHIzw8/1l3nsfEl1TqKxn+plrSgQ27Wd6p6OpKv4YK9bByGO4UTwvevcLIHq2kgY6Y0T50fCDQ/lSvMPfMiLBoVBbtyNmdKkhG0xBsW4vxIBovzk8k1prmgm1xBmFqlPgj0lAF9gmQMX114Js+OHLLz8Vax52aug06ROer9qU+0YSx5uXe86F+M7/JscoqDh73xH9hwzr3va8ajzxTSz4AecyhAv+voQ/MPPedwUu1yw==;vJei2IYTMmwpqou6cOkrLA=="

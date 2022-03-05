@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-02-doctors-using-ai-supercomputer-to-predict-and-prevent-50-of-mental-illness.md",
+      "title": "Doctors Using AI, Supercomputer To Predict And Prevent 50% Of Mental Illness",
+      "excerpt": "If we can identify this early ... we can treat for and alleviate almost 50% of the mental illness that goes into adulthood,” Dr. John Pestian told me recently on the TechFirst podcast. “So catching it young,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2022/03/02/doctors-using-ai-supercomputer-to-predict-and-prevent-50-of-mental-illness/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2022/03/02/doctors-using-ai-supercomputer-to-predict-and-prevent-50-of-mental-illness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621e4a5d3379896af6390743/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1075,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2022/03/02/doctors-using-ai-supercomputer-to-predict-and-prevent-50-of-mental-illness/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/03/02/doctors-using-ai-supercomputer-to-predict-and-prevent-50-of-mental-illness/amp/",
+      "publishedDateTime": "2022-03-02T07:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-02-bundesliga-match-fact-skill-quantifying-football-player-qualities-using-machine-learning-on-aws.md",
       "title": "Bundesliga Match Fact Skill: Quantifying football player qualities using machine learning on AWS",
       "excerpt": "In football, as in many sports, discussions about individual players have always been part of the fun. “Who is the best scorer?” or “Who is the king of defenders?” are questions perennially debated by fans, and social media amplifies this debate. Just consider that Erling Haaland, Robert Lewandowski,",
@@ -105,7 +156,7 @@
       "originalUrl": "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -363,7 +414,7 @@
       "originalUrl": "https://www.aljazeera.com/news/2022/3/2/amid-war-an-independent-russian-radio-station-goes-silent",
       "featuredContent": null,
       "highlight": null,
-      "heat": 172,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -1180,49 +1231,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-deep-learning-diagnoses-ai-detects-covid-19-from-smartwatch-sensors.md",
-      "title": "Deep-learning diagnoses: AI detects COVID-19 from smartwatch sensors",
-      "excerpt": "Combining questions about a person's health with data from smartwatch sensors, a new app developed using research at Princeton University can predict within minutes whether someone is infected with COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-03-deep-learning-ai-covid-smartwatch-sensors.html",
-      "originalUrl": "https://techxplore.com/news/2022-03-deep-learning-ai-covid-smartwatch-sensors.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/deep-learning-diagnose.jpg",
-          "width": 1536,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-03-deep-learning-ai-covid-smartwatch-sensors.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-deep-learning-ai-covid-smartwatch-sensors.amp",
-      "publishedDateTime": "2022-03-01T08:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

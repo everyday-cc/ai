@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "MWC: Qualcomm's new 5G modem is the first with built-in AI"
-    excerpt: "At Mobile World Congress, Qualcomm is unveiling a series of connectivity innovations, as well as products and capabilities that are taking Qualcomm technology well beyond the smartphone market."
-    publishedDateTime: 2022-02-28T13:32:00Z
-    webUrl: "https://www.zdnet.com/article/mwc-qualcomms-new-5g-modem-is-the-first-with-built-in-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/mwc-qualcomms-new-5g-modem-is-the-first-with-built-in-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mwc-qualcomms-new-5g-modem-is-the-first-with-built-in-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/9f8b7b53c8599c7c9b3fb44f8b893dee7188759c/2022/02/28/382bbc38-8a8c-41d9-8a94-9d683b4d9264/hero-image-snapdragon-x70-5g-modem-rf-system.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 713
-        isCached: true
-  - title: "MWC 2022: Qualcomm announces “world’s first” 5G AI and Wi-Fi 7 chips"
-    excerpt: "The Snapdragon X70 5G and the FastConnect 7800 are expected to be included in commercial devices in the second half of 2022"
-    publishedDateTime: 2022-02-28T13:44:00Z
-    webUrl: "https://www.itpro.co.uk/server-storage/system-on-chip-soc/363927/mwc-qualcomm-announces-worlds-first-5g-ai-and-wi-fi-7"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 84
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1646050444/itpro/Qualcomm_MWC2022.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Qualcomm announces AI-powered Snapdragon X70 5G modem with up to 10Gbps download speed"
     excerpt: "At the ongoing Mobile World Congress, Qualcomm has announced its latest next-generation modem for smartphones –Qualcomm Snapdragon X70 5G. It comes with increased uplink and downlink speed as well as new features."
     publishedDateTime: 2022-03-01T02:53:00Z
@@ -71,21 +41,21 @@ related:
         width: 1200
         height: 713
         isCached: true
-  - title: "Qualcomm Announces Snapdragon X70 5G Modem With AI-Optimized Connectivity For The Intelligent Edge"
-    excerpt: "As is typically the case for Qualcomm each year at Mobile World Congress in Barcelona, Spain, the world’s 5G innovator has unveiled its latest modem technology dubbed Snapdragon X70."
-    publishedDateTime: 2022-02-28T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/davealtavilla/2022/02/28/qualcomm-announces-snapdragon-x70-5g-modem-with-ai-optimized-connectivity-for-the-intelligent-edge/"
-    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2022/02/28/qualcomm-announces-snapdragon-x70-5g-modem-with-ai-optimized-connectivity-for-the-intelligent-edge/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/02/28/qualcomm-announces-snapdragon-x70-5g-modem-with-ai-optimized-connectivity-for-the-intelligent-edge/amp/"
+  - title: "Snapdragon X70 5G modem packs an AI processor to improve signal strength and power efficiency"
+    excerpt: "The AI suite in the new Snapdragon X70 5G modem-RF system will assist ... It’s no slouch in the speed department, either, as the chip is capable of theoretical download speeds of up to 10 Gbps to offer “fiber-like browsing speeds and latency.”"
+    publishedDateTime: 2022-02-28T16:19:00Z
+    webUrl: "https://www.techspot.com/news/93581-snapdragon-x70-5g-modem-packs-ai-processor-improve.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/93581-snapdragon-x70-5g-modem-packs-ai-processor-improve.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93581-snapdragon-x70-5g-modem-packs-ai-processor-improve.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 75
+      name: TechSpot
+      domain: techspot.com
+    quality: 78
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/621ce3b6e3ccbdf6d08c5f02/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 713
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/02/2022-02-28-image-19.jpg"
+        width: 2434
+        height: 1447
         isCached: true
   - title: "Qualcomm unveils new AI-powered 5G networking chip for mobile devices"
     excerpt: "Qualcomm Inc. has released a new chip that mobile devices can use to connect to 5G network networks. The 5G chip, called the Snapdragon X70, integrates the modem with the RF front end into a single package."
@@ -195,6 +165,15 @@ related:
         width: 1364
         height: 767
         isCached: true
+  - title: "Qualcomm & Samsung have worked to make LPDDR5X memory compatible with Snapdragon chips"
+    excerpt: "Samsung has announced that its LPDDR5X memory is now compatible with Qualcomm Snapdragon chips. Learn more about the chipset and data speeds here."
+    publishedDateTime: 2022-03-03T06:21:00Z
+    webUrl: "https://pocketnow.com/qualcomm-samsung-lpddr5x-memory-snapdragon-chips"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 11
 
 secured: "DmxG4HBEMeZSXqbgRqnhfTuNxJmDL+T2az/hgk/chooxa8zYQt4QWagCrwjXwvNUTsIYjYV282vJrxhBFXaR+p9dnCza5AvvvUiU2IADXh2mYPk17R2ORjzttF0abj/2cRLQOcQHxhLCTolabXYWAqedREdNw7ybfShqpm+CnnWXKWzHH/3xltiEjLZ4BhHp5XXXUvcyhRo3uLJ7CZi+9b/X9VTChseeA7uxVxDobttzjHKe4NxQ75AiJ+LW6l+dOUcZtQQDvyRmMtANi5DSHM+GkGtpI250dO127wUSw1AF9FbSe3JLIaTxtPQWHdzhq+e5jbVvbZ7REbBDSTGIFcF+Zhql9S6JomKrYOL3jDg=;kh7lX14rEKSEeZ9Qfr1uTw=="
 ---

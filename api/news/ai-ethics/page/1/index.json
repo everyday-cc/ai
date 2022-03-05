@@ -258,6 +258,58 @@
       ]
     },
     {
+      "path": "_news/2022-03-01-codecademy-and-black-and-brilliant-launch-africa-based-ai-accelerator.md",
+      "title": "Codecademy and Black and Brilliant Launch Africa-Based AI Accelerator",
+      "excerpt": "Codecademy, the leading online learning platform for technical skills, is partnering with The Black and Brilliant Advocacy Network to launch an Applied Artificial Intelligence accelerator and mentorship program in Africa.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/codecademy-and-black-and-brilliant-launch-africa-based-ai-accelerator-1031242576",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/codecademy-and-black-and-brilliant-launch-africa-based-ai-accelerator-1031242576",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1659499/Codecademy_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T04:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-02-28-unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions.md",
       "title": "UNESCO International Research Center Spotlights In 2022 Global Top 10 Outstanding AI Solutions",
       "excerpt": "IRCAI ( International Research Center on Artificial Intelligence) under the auspices of UNESCO, launched an unprecedented program to identify the global top 10 AI solutions supporting the United Nations Sustainable Development Goals (SDGs).",
@@ -1372,50 +1424,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-who-its-time-to-eliminate-ageism-in-artificial-intelligence.md",
-      "title": "WHO: It’s Time to Eliminate Ageism in Artificial Intelligence",
-      "excerpt": "February 10, 2022 - As caregivers examine how artificial intelligence (AI) can improve healthcare for ... The risks associated with AI-driven healthcare revolve mainly around ageism, which is discrimination based on one’s age that can affect how useful ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.who.int/publications/i/item/9789240040793",
-      "originalUrl": "https://healthitanalytics.com/news/who-its-time-to-eliminate-ageism-in-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.who.int/images/default-source/campaigns/global-campaign-to-combat-ageism/ageism-in-ai---cover.tmb-1200v.jpg?sfvrsn=8925a8df_1",
-          "width": 1200,
-          "height": 1697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-10T06:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare"
       ]
     }
   ],

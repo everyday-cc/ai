@@ -109,20 +109,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Marketing Automation Market Trends, Business Strategies, Regional Outlook, Challenges and Opportunity Analysis"
-    excerpt: "North America was the largest contributor to the marketing automation market in 2020. This is because several market players are concentrating on mergers"
-    publishedDateTime: 2022-02-28T13:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/marketing-automation-market-trends-business-strategies-regional-outlook-challenges-and-opportunity-analysis"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 21
-    images:
-      - url: "https://www.abnewswire.com/uploads/1646031669.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Insulin Pumps Market Size, Share, By End Use, Share & Revenue, and Region, Forecast to 2028"
     excerpt: "The global insulin pumps market is expected to reach USD 10.25 Billion by 2028, according to a new report by Reports and Data. Insulin pumps are used for"
     publishedDateTime: 2022-03-01T08:49:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -63,17 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "On cusp of Biden speech, a state of disunity, funk and peril"
-    excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades."
-    publishedDateTime: 2022-02-28T14:12:00Z
-    webUrl: "https://www.thenewstribune.com/news/business/article258845368.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/business/article258845368.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article258845368.html"
-    type: article
-    provider:
-      name: News Tribune
-      domain: thenewstribune.com
-    quality: 24
   - title: "On cusp of Biden speech, a state of disunity, funk and peril"
     excerpt: "In good times or bad, American presidents come to Congress with a diagnosis that hardly differs over the decades."
     publishedDateTime: 2022-03-01T04:30:00Z

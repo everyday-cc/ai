@@ -94,20 +94,6 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 26
-  - title: "4 FinTech companies disrupting the UK Payment ecosystem"
-    excerpt: "FinTech refers to software and other modern technologies used by businesses that provide automated and improved financial services."
-    publishedDateTime: 2022-02-28T13:46:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-fintech-companies-disrupting-the-uk-payment-ecosystem/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/02/ibs_Spanish-FinTechs-2.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "WEX Inc. to Present at the Wolfe Research FinTech Forum 2022"
     excerpt: "WEX Inc. (NYSE: WEX), the global commerce platform that simplifies the business of running a business, today announced that its Chair and Chief Executive Officer, Melissa Smith, will present at the Wolfe Research FinTech Forum 2022 on Wednesday,"
     publishedDateTime: 2022-03-02T20:15:00Z
