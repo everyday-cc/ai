@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 658
+heat: 641
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 13474911
+  followers: 13476139
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "2oz4pFLjbooeos87NOXMCmK2aLB3sXJhW3JA4asSL/LmDQZNFWuoVMnLS3/FoJeHTucK1qTXKgEAK2BgpR1HUgvDdTHlET/xsDr7lz6U6fykPtfY4zSioiEAXIjbClpoo5PHQpTPv9VLkdqPwuG7YYa/n5Bxi9CtB81RWd9dTcT0VxWHJ9LFj6fWF7UnIprnvNZr3fXprMNwy1FtjtVCyfKgFYYg5eLmFKUq1BqcBQSCuUN74ueAKG+uvl7V5B0Nhm3lFM2oJa7VPLlHSa6rOvzW2nsIStCwYWwocrjyKhMp++lN3n3B8dnIODy09C/G2jUd0t4udhPWNFKlGBMRSkn02qp/qDnPW2oKmuBIz04CmVhQWKFU8zKwGbHT9u8ku0kY/KVWafzwCdySCSTYKSKOt/WddN9nu3XA5uG1LC4=;2AqQpA1HHjs3a+08vAddSA=="
+secured: "RHvK8moDYjVLBdL8nk1gUA5xbOqH94Aep44Z3s1kF1ZaMFiiB6ASnrjPIMTtm+jjfWX9xTG0Vn7+NYfrLmOOs/IJ/drwUjCnlkNo8k6imPyW2vmqfAw1cHro8FGPYo7aV/e6W9f+uXMwuR7HKaSTjU/ZJ29llKzmD6sugUxwUxujqLcsM1CUVBTFlrchFvQoBBlXFk5zrh1q9aCeQAAopkQXXCF0DCxE36HbV4ecrth7u8p4QGIexEpd6tR59My2hEjyBdgn9GdMINxSvbWlcpiV+G9j0hD7Pd2lvO+d0ZW/2g+H4LJhc8DVAdR8e6Mph3Pz2EF2/4kO2zKTkLTltVhi5ZAonl101JC+vW1dWFCEOEgNJWaBZNEqU9OKOfxT0sXL7FUqbx1hJGC5twD8ECdtw/nwd/LCffStqVuTmtY=;CQDpCMwp/fWP64/IEmtODw=="
 ---
 

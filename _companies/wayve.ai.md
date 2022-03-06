@@ -2,7 +2,7 @@
 name: "Wayve"
 overview: "Wayve is pioneering artificial intelligence software for self-driving cars. Our unique end-to-end machine learning approach learns to drive in new places more efficiently than competing technology. Our headquarters are in Cambridge, United Kingdom."
 type: "profile"
-heat: 42
+heat: 50
 
 website: https://wayve.ai/
 
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "G10wwMOS4mvAAOMZDJfoWSxgG2w6WTlXlNQAOZdkWkDHij47Vv8dGZjmwAD77szQe67D9QaQF1HS1Mf7lv4F7mjAfYNHXu1dN0hZQNjXrFIakRMFgVjXPspYEeKFj61XBRr/g+nZgyIHfdOaKNq4JUxuN2jtxBZY4XO4I29UlTubylPtq161GVEUNCy4i/zgIHiQNrMGvHUh6mowPMKfUWMugv2p31Xh/YGc+XjEZvJsDbnd9/UsDTJjCbri8PBaFjqOeXB1vC2MEHz+7bTkINDpXGT/8oj4LIIRFBqPJLEMXD2XCeRUgu3bk/MvMN3Z3Vh6IKZE64uI2+e9axgyy/yBW5PFiAPsKiONxIVkcAK0B/htPD5kExbmUVfvrEKcAxmSOZafUkP61ZZ+LHDi1bSoJ26xWxri5TR5turfaFk=;7/Br+HlWnMPnCjtECZj6hQ=="
+secured: "YJxBWmddVMq5pNHLn232TUXGMk07QCI56zQFrrlOt2nVrWP1gCk0aXUYJ6n2WLKWBqYSvQe8mu0DlVDHcYTNeNrm/wpA/m/VckhzWbkphVr0svFpEWKnaD157YxuLFyj3mSTs9Oytc/xfs+b/rHdYsJSagWzefEL+E4C/1haACaDVIdUAvlYXbjz2zlTZkQCK2cgKfEMd2PeNKfLOZeyiHma5kub527d6UDmuTcBRusBs2v4G7SWTzsEU3etJuj6p+5VdW7ortoSV0RXj9XfQoPtVzEHMkVGlF5ezVkVFM3qTcuAJ+5yM6maz0ix/DWSr607E9ySPLSAtb34X508KFcuPQh2xxgv2+CCA8z22vn2AeevRWhIhkAsbPG1/XPh2klSyy8BbG5CFGqxPYz8WYGzICyFKjJMFPHcsOIFlXE=;U6GpSZPjf7XdpOKeZ7uELQ=="
 ---
 

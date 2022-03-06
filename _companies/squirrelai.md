@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Squirrel AI Learning"
 
-secured: "tPyQe+G12SVB3qFvzZ0qOv/E0/bFrC/nfzpEHmzdwqSxJZeOEPqrFvmQ+Vpq0b7wbnlFqo3RBcnIq6+mV5x1Rdm56Dpm3OP0CHpykjN+RnRLMU9sc9419Cy/0Rb4PQqrP2slMUOWPu3qgX1Oh7gtIYN0+TusNldTn1p5n3CiwcGn5/bhgWlKlVpbRfqBeJXZpgPbep7k+trgPQcWarzmDM8pVv83zhB27KdIB9e/2d6gujwi5AG+gtuRb9PYq9PwvIt7sdr7lQmK+VFKldbk57BrgcB6r13/a9oOPcHbkzDLtxRkvBsmK9tvrz9Y67GbDh7CoRhQylM5L92JpAZegMTooB4jk+dnDoXgmTjkGHBI+i1+p/UCDi765Y3l0/xaZHLowtslcCoNkZcty/hIKA==;/H3JvRpPSUrFSGg4jYK9gg=="
+secured: "Hrb1ev413E8iaOV+5gVFL3ImBk3bmeTm1xvw0QqoZo/F5DEHe07E1UzyYbdM+4OHRKtHLap6xbEMyWTi+ddkK9TOdKqLxjpPdFNHSmyMxdBF9kYiD+ImngDdtLhLZkMEKbAQBow9Lov5FJSIfHGTjzovSbvWIbJO97OxK+ofbAmmIpqWCfBi+n+KeHUoTr9SNbjft6lQWYOJyQKNHEg5xlzvI2ghfDRNcg1HesIBpUhhI8dOEJA6gY5r6/llJJRcBZv/JMypB5A2CGHDjofYmMwiK5oHHTCP/YF/wOhX3L6foD8hdNMow2GDraMEZtVEKEJw/4zTDz+lA9ZRW37ax7T78b2mFt+GCaCOS94up7Ey1Sm9r7qkxre1GxjLWSbZfIRjNV9aNowPUsVrkb7zEg==;805KxEtAidvpwl0xg/26YQ=="
 ---
 
