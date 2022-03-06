@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-analytics-in-endpoint-security/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -83,6 +83,15 @@ related:
     excerpt: "Predica's Data & AI expertise extends across building highly scalable, cloud-based data warehousing solutions; implementing intelligent applications using Machine Learning techniques, and creating ..."
     publishedDateTime: 2022-03-03T18:39:00Z
     webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1238738&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
+  - title: "Syndigo Announces Strategic Partnership with Predica to Deliver Expanded Portfolio of Cloud-based Data Analytics Services"
+    excerpt: "Predica's Data & AI expertise extends across building highly scalable, cloud-based data warehousing solutions; implementing intelligent applications using Machine Learning techniques, and creating ..."
+    publishedDateTime: 2022-03-06T18:39:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1239360&cat=PR News Wire"
     type: article
     provider:
       name: Webindia 123

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conf
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/amp/"
 type: article
 quality: 91
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107023227-16461722922022-03-01t215402z_706840525_rc2wts9a760d_rtrmadp_0_usa-stocks.jpeg?v=1646172330"
         width: 3500
         height: 2333
-        isCached: true
-  - title: "Biden to announce banning Russia from US airspace because of Ukraine in State of the Union speech"
-    excerpt: "President Joe Biden will vow to make Vladimir Putin “pay a price” for Russia’s invasion of Ukraine in his first State of the Union address, rallying allies abroad while also outlining his plans at home to fight inflation and the fading but still dangerous coronavirus."
-    publishedDateTime: 2022-03-02T01:40:00Z
-    webUrl: "https://www.capitalgazette.com/news/nation-world/ct-aud-nw-biden-state-of-the-union-20220301-q5sem5tft5djnly2bqokallnqy-story.html"
-    type: article
-    provider:
-      name: Capital Gazette
-      domain: capitalgazette.com
-    quality: 26
-    images:
-      - url: "https://www.capitalgazette.com/resizer/nBD8zOJop3or2l3xpTt6L1D7GnY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AKZRSW4BIOREK3N6CJOPRN3XEI.jpg"
-        width: 1200
-        height: 724
         isCached: true
 
 secured: "nriaw4xcm/zWm6fXh4Xj8G1Sl/vuj6SdF3POesCn84tKMH8+ufJ2Ezwq8OFUiD+1ESylOrPt4Y27sF0xzEweEVpTMQpLxx4LzcXcQstB5oDu+47KRLFz9mDYefFpAz15q4Pipp41GFnnF9LF3xtSol7tsw7kvf3Zfc3IhRrzyUDVLty9zgVpPQWGOvgShhFMG+nL0MW3j5fD+BNTBJD5DX+HuWG/xR/dcoA6Iaz2aHL91y/rAzzQOu5YGrVrNb6A/NUMyBzB5loByTxuzMO0vXoWZ8n5F/W7TZKVgGSU4kgJk9iLaIZ/9ZfP4RjJBQOkv/7wlnUptCXDhX9J0vz5MR1pMHWsBIwMKk47aHDB3sg=;fK4RrCxcL8mmGvFMmo2ysQ=="

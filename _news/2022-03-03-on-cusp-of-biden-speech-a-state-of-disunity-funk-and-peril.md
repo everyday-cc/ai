@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Watch live: Biden addresses the nation in 1st State of the Union speech"
-    excerpt: "President Joe Biden will vow to make Vladimir Putin “pay a price” for Russia’s invasion of Ukraine in his first State of the Union address, rallying allies abroad while also outlining his plans at home to fight inflation and the fading but still dangerous coronavirus."
-    publishedDateTime: 2022-03-02T02:08:00Z
-    webUrl: "https://www.tampabay.com/news/nation-world/2022/03/01/watch-live-biden-addresses-the-nation-in-1st-state-of-the-union-speech/"
-    type: article
-    provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 24
-    images:
-      - url: "https://www.tampabay.com/resizer/4qwFKxjRgOxQaiUVvHqKdCOEiQA=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/WY3KW7AZGFCXZDSGVCZEQ5VMHU.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "In State of the Union Speech, Biden Vows to Halt Russia, Tackle Inflation"
     excerpt: "Addressing a concerned nation and anxious world, President Joe Biden vowed in his first State of the Union address Tuesday night to check Russian aggression in Ukraine, tame soaring U.S. inflation and deal with the fading but still dangerous coronavirus."
     publishedDateTime: 2022-03-02T16:25:00Z

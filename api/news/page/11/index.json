@@ -44,6 +44,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-23-educational-robotics-to-top-4-billion-by-2028.md",
+      "title": "Educational Robotics to Top $4 Billion by 2028",
+      "excerpt": "Educational Robotics to Top $4 Billion by 2028. By David Nagel; 02/23/22; The need for robotics in education will help drive double-digit annual growth",
+      "sourceUrl": null,
+      "webUrl": "https://thejournal.com/Articles/2022/02/23/Educational-Robotics-to-Top-4-Billion-by-2028.aspx?s=the_nu_240222&p=1",
+      "originalUrl": "https://thejournal.com/Articles/2022/02/23/Educational-Robotics-to-Top-4-Billion-by-2028.aspx?s=the_nu_240222&p=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thejournal.com/~/media/EDU/THEJournal/THElogo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Journal",
+        "domain": "thejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-23-ai-player-wildwood-data-inc-guarantees-more-sales-for-small-businesses.md",
       "title": "AI Player Wildwood Data, Inc. Guarantees More Sales For Small Businesses",
       "excerpt": "Their guarantee is possible because of their access to both public and private data aggregates, their proprietary AI, and their acquisition approach. Their approaches and algorithms were beta tested using a handful of startup companies with memberships at ...",
@@ -639,10 +682,10 @@
     {
       "path": "_news/2022-02-23-vimaan-taps-computer-vision-for-drone-based-warehouse-management.md",
       "title": "Vimaan Taps Computer Vision for Drone-Based Warehouse Management",
-      "excerpt": "Concept: Santa Clara’s AI solution startup Vimaan has launched a drone-based computer vision platform for product tracking and management across the warehouses. With minimum worker control, it aids warehouse managers to achieve better inventory accuracy ...",
+      "excerpt": "Santa Clara’s AI solution startup Vimaan has launched a drone-based computer vision platform for product tracking and management across the warehouses.",
       "sourceUrl": null,
-      "webUrl": "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/",
-      "originalUrl": "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/",
+      "webUrl": "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/?bingParse",
+      "originalUrl": "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/?bingParse",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -661,7 +704,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T08:23:00-08:00",
+      "publishedDateTime": "2022-02-22T08:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Verdict Retail",
@@ -1092,57 +1135,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-neosapience-gets-215m-to-use-ai-powered-synthetic-avatars-for-creators.md",
-      "title": "Neosapience gets $21.5M to use AI-powered synthetic avatars for creators",
-      "excerpt": "Korean startup called Neosapience has developed a ... It will not only allow content with less effort but also execute on our vision of AI-powered virtual actors being accessible to everyone ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/",
-      "originalUrl": "https://techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/Screen-Shot-2022-02-21-at-11.10.27-AM.png?w=1024",
-          "width": 1024,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/amp/",
-      "publishedDateTime": "2022-02-22T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

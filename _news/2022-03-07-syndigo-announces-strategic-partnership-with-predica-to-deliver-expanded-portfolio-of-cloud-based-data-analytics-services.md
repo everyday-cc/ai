@@ -1,23 +1,21 @@
 ---
 category: news
-title: "Ban predictive policing systems in EU AI Act, says civil society"
-excerpt: "“I do not think you can solve this issue by tweaking the technology or trying to find AI to spot bias.” Speaking to the HAJC in October 2021, Karen Yeung – an interdisciplinary professorial fellow in law, ethics and informatics at Birmingham Law ..."
-publishedDateTime: 2022-03-03T17:05:00Z
-originalUrl: "https://www.computerweekly.com/news/252514030/Ban-predictive-policing-systems-in-EU-AI-Act-says-civil-society?asrc=EM_EDA_208821168"
-webUrl: "https://www.computerweekly.com/news/252514030/Ban-predictive-policing-systems-in-EU-AI-Act-says-civil-society?asrc=EM_EDA_208821168"
-ampWebUrl: "https://www.computerweekly.com/news/252514030/Ban-predictive-policing-systems-in-EU-AI-Act-says-civil-society?amp=1"
-cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252514030/Ban-predictive-policing-systems-in-EU-AI-Act-says-civil-society?amp=1"
+title: "Syndigo Announces Strategic Partnership with Predica to Deliver Expanded Portfolio of Cloud-based Data Analytics Services"
+excerpt: "Predica's Data & AI expertise extends across building highly scalable, cloud-based data warehousing solutions; implementing intelligent applications using Machine Learning techniques, and creating ..."
+publishedDateTime: 2022-03-06T18:39:00Z
+originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1239360&cat=PR News Wire"
+webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1239360&cat=PR News Wire"
 type: article
-quality: 39
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Computer Weekly
-  domain: computerweekly.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
-  - AI Ethics
+  - Microsoft AI
   - AI
 
 related:
@@ -51,6 +49,17 @@ related:
         width: 1080
         height: 486
         isCached: true
+  - title: "Ban predictive policing systems in EU AI Act, says civil society"
+    excerpt: "“I do not think you can solve this issue by tweaking the technology or trying to find AI to spot bias.” Speaking to the HAJC in October 2021, Karen Yeung – an interdisciplinary professorial fellow in law, ethics and informatics at Birmingham Law ..."
+    publishedDateTime: 2022-03-03T17:05:00Z
+    webUrl: "https://www.computerweekly.com/news/252514030/Ban-predictive-policing-systems-in-EU-AI-Act-says-civil-society?asrc=EM_EDA_208821168"
+    ampWebUrl: "https://www.computerweekly.com/news/252514030/Ban-predictive-policing-systems-in-EU-AI-Act-says-civil-society?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252514030/Ban-predictive-policing-systems-in-EU-AI-Act-says-civil-society?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
   - title: "Vijay Mehra EQT Discusses How Analytics and AI Contribute to Finding Undervalued Real Estate Investments"
     excerpt: "Its no secret that data and analytics are playing an increasingly important role in the world of real estate. By harnessing the power of big data, investors and analysts can make better decisions about where to"
     publishedDateTime: 2022-03-05T13:50:00Z
@@ -83,16 +92,7 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 0
-  - title: "Syndigo Announces Strategic Partnership with Predica to Deliver Expanded Portfolio of Cloud-based Data Analytics Services"
-    excerpt: "Predica's Data & AI expertise extends across building highly scalable, cloud-based data warehousing solutions; implementing intelligent applications using Machine Learning techniques, and creating ..."
-    publishedDateTime: 2022-03-06T18:39:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1239360&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
-secured: "NqDtK2BLyAcTEMkAEIEdEjPhiJPnQyfMIhxM7qIzyZdi5UMJSzHwYkSpETGEEE1qcyAaiY87FTkw49yKU+gqjKCEpQ50fPWqTi5v23kwITuhNyXYWLKgHZaRa702i1yKdt4AZFhGeV2itxbtYhU8w8KnQiz/ngMZPN+K2DnazIlVZPKJmc7fDe9AZ6JMVmSGl/bUfLPZOc7RWbxAeimF8hvsQxoXhjqQzgbc1CCHbu/oSQQ2zQRoT+SopHmAO5hbV9L4ffIoMu9ALanGkTr55TASaki+K/kPLaruOpj2MCnQZ646Yh2zdhmVHnov21wfO2Byx1rhtioM/TQDUXdPyLoURlQtJGHysNsjJyEPV4o=;XjwYwtvu5gQIHQ3NQbfsRw=="
+secured: "THZAGAjQUKEu4lHCqZnxUoXPk4ELhvnHvX7qmEjLsPXrTHQGp973an4G+ZwqJ0baHhSJNRvjRvagOHpEIpN3R8NjREc5x1mdhSyu7Mr5XbHCKnZx86HPTj6NuWs5Cf15D93r4EDgeVppSPQLx8snxfC6ccwMbBHzI2huxz/X6htQ8QLV9etwifKe0KiDKA3XPA84nHtJCdLoR8zwI4gpyyZMNl7V3EShAmLS55X228iKpE4+zFqwJ/nKnXSaBPGg6sumvDvY6y6oyN2+ikXZhE4WAIUpL/59XdFEPYp4hN7ys8RJxjvpX1wkUUR3V8iG51aDHxxvSYKQSGIAuaPGbPISVFC4XE2CzClZtN5LFY8=;WMtFK6qODpuLiNUDF9RZjQ=="
 ---
 

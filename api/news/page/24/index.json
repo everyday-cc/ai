@@ -2,6 +2,59 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-02-11-closing-the-gaps-in-security-through-ai-and-ml.md",
+      "title": "Closing The Gaps In Security Through AI And ML",
+      "excerpt": "AI and ML have matured to provide cybersecurity teams with critical tools to combat the rapidly changing threat landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-the-gaps-in-security-through-ai-and-ml/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-the-gaps-in-security-through-ai-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5fd8bff049e58c7220248800/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-the-gaps-in-security-through-ai-and-ml/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-the-gaps-in-security-through-ai-and-ml/amp/",
+      "publishedDateTime": "2022-02-11T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-amazons-new-ai-tool-will-launch-for-the-super-bowl-but-it-could-change-much-more-than-football.md",
       "title": "Amazon's New AI Tool Will Launch for the Super Bowl, But It Could Change Much More Than Football",
       "excerpt": "While Matthew Stafford and Joe Burrow battle in this year's Super Bowl, artificial intelligence will be operating behind the scenes to measure just how well they really played. The NFL is unveiling a new measure of quarterbacks' performances within a given ...",
@@ -1136,49 +1189,6 @@
       "provider": {
         "name": "The National Law Review",
         "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-top-10-computer-vision-trends-to-watch-in-2022.md",
-      "title": "Top 10 Computer Vision Trends To Watch in 2022",
-      "excerpt": "Companies like Amazon, Nokia, and many more have already started using computer vision technology as a safety and security method for their employee and to ensure a smooth workflow. With the growth in technology, we are now shifting towards a new digital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeksforgeeks.org/top-10-computer-vision-trends-to-watch-in-2022/",
-      "originalUrl": "https://www.geeksforgeeks.org/top-10-computer-vision-trends-to-watch-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220210235234/Top-10-Computer-Vision-Trends-to-Watch-in-2022.png",
-          "width": 1000,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geeksforgeeks.org/top-10-computer-vision-trends-to-watch-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/top-10-computer-vision-trends-to-watch-in-2022/amp/",
-      "publishedDateTime": "2022-02-10T12:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeeksforGeeks",
-        "domain": "geeksforgeeks.org",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/biden-state-of-the-union-gettyimages-1238863517.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Watch live: Biden addresses the nation in 1st State of the Union speech"
-    excerpt: "President Joe Biden will vow to make Vladimir Putin “pay a price” for Russia’s invasion of Ukraine in his first State of the Union address, rallying allies abroad while also outlining his plans at home to fight inflation and the fading but still dangerous coronavirus."
-    publishedDateTime: 2022-03-02T02:08:00Z
-    webUrl: "https://www.tampabay.com/news/nation-world/2022/03/01/watch-live-biden-addresses-the-nation-in-1st-state-of-the-union-speech/"
-    type: article
-    provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 24
-    images:
-      - url: "https://www.tampabay.com/resizer/4qwFKxjRgOxQaiUVvHqKdCOEiQA=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/WY3KW7AZGFCXZDSGVCZEQ5VMHU.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "On cusp of Biden speech, a state of disunity, funk and peril"
     excerpt: "President Joe Biden's fellow Americans, though, have other ideas about the state they're in and little hope his State of the Union address Tuesday night can turn anything around."

@@ -83,6 +83,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 0
+  - title: "Syndigo Announces Strategic Partnership with Predica to Deliver Expanded Portfolio of Cloud-based Data Analytics Services"
+    excerpt: "Predica's Data & AI expertise extends across building highly scalable, cloud-based data warehousing solutions; implementing intelligent applications using Machine Learning techniques, and creating ..."
+    publishedDateTime: 2022-03-06T18:39:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1239360&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "BxrnlxwNESixt5OpJGM3pSrU/V+UxTYpnMp3vYRNXYHSqYNNDhvn0gABv7WYpjxYaor/JXKhOFRHsxpKpSN596vmvU+Ipj6EpR55r0tmURIZCHp/X8W0n7HTTnvOUS7mbPsesOcsB4Nn2xbXRMnu/gFXdac/5jb2cESb3H7+7GcpG5YI6o6j2QhRXmul+M6a1wcHTRPzNY88W3qPv+om2U/T7FOcx6DgKzuJtrl8ngUcHq4LgzNua2u4LBUCz0gsWxGkTcuQIrjj+8wEoLt+jViZB2zzkgtf0JhZWpwnUKkesZgXkzhqVSWuN5ACF0pGVTypswcFYZ5GmcjJ4gsE+pSVDaKGwqEylAWWDOoUkz8=;JyL02IDuCGBurFKZpmYWCw=="
 ---
