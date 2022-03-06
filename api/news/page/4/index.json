@@ -2,6 +2,91 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-02-uah-researching-artificial-intelligence-to-aid-in-solving-crime.md",
+      "title": "UAH researching artificial intelligence to aid in solving crime",
+      "excerpt": "HUNTSVILLE, Ala. (WHNT) — The University of Alabama in Huntsville is working on ways to use artificial intelligence (AI) to analyze cell phone data to aid in solving crime. Dr. Tathagata ...",
+      "sourceUrl": null,
+      "webUrl": "https://whnt.com/news/stem/uah-researching-artificial-intelligence-to-aid-in-solving-crime/",
+      "originalUrl": "https://whnt.com/news/stem/uah-researching-artificial-intelligence-to-aid-in-solving-crime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://whnt.com/wp-content/uploads/sites/20/2022/03/uah-.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://whnt.com/news/stem/uah-researching-artificial-intelligence-to-aid-in-solving-crime/amp/",
+      "cdnAmpWebUrl": "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/stem/uah-researching-artificial-intelligence-to-aid-in-solving-crime/amp/",
+      "publishedDateTime": "2022-03-01T18:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHNT",
+        "domain": "whnt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-dubai-new-ai-coding-licence-launched-employees-to-get-10-year-golden-visa.md",
+      "title": "Dubai: New AI, coding licence launched; employees to get 10-year Golden Visa",
+      "excerpt": "Dubai International Financial Centre (DIFC) on Tuesday launched an artificial intelligence (AI) and coding licence to attract AI companies and coders from around the world as part of the UAE’s Artificial Intelligence Strategy 2031.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/business/story/Dubai_New_AI_coding_licence_launched_employees_to_get_10year_Golden_Visa-ZAWYA20220301100935/",
+      "originalUrl": "https://www.zawya.com/mena/en/business/story/Dubai_New_AI_coding_licence_launched_employees_to_get_10year_Golden_Visa-ZAWYA20220301100935/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/180516221655ZMHF.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20220301100935/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20220301100935/",
+      "publishedDateTime": "2022-03-01T17:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-02-the-pitfalls-of-ai-that-could-predict-the-outcome-of-court-cases.md",
       "title": "The pitfalls of AI that could predict the outcome of court cases",
       "excerpt": "New startups claims their technology can predict the outcome of legal cases. Even if it works, the implications are worrisome, experts say.",
@@ -586,19 +671,19 @@
     {
       "path": "_news/2022-03-02-machine-learning-improves-human-speech-recognition.md",
       "title": "Machine learning improves human speech recognition",
-      "excerpt": "To understand how hearing loss impacts people, researchers study people's ability to recognize speech, and hearing aid algorithms are often used to improve human speech recognition. In The Journal of the Acoustical Society of America,",
+      "excerpt": "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age.",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/944641",
-      "originalUrl": "https://www.eurekalert.org/news-releases/944641",
+      "webUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
+      "originalUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/3bfcfecc-b8b8-4a78-b421-6e5fc26bc004/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-impro.jpg",
+          "width": 2880,
+          "height": 1620,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -606,13 +691,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T08:02:00-08:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
+      "publishedDateTime": "2022-03-01T08:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -622,9 +707,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "Natural Language Processing",
         "AI",
-        "Natural Language Processing"
+        "Machine Learning"
       ]
     },
     {
@@ -871,6 +956,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-01-expedera-announces-first-production-shipments-of-its-deep-learning-accelerator-ip-in-a-consumer-device.md",
+      "title": "Expedera Announces First Production Shipments of Its Deep Learning Accelerator IP in a Consumer Device",
+      "excerpt": "SANTA CLARA, Calif., March 1, 2022 /PRNewswire/ -- Expedera Inc, a leading provider of scalable Deep Learning Accelerator (DLA) semiconductor intellectual property (IP), today announced that a global consumer device maker is now in production with its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/expedera-announces-first-production-shipments-of-its-deep-learning-accelerator-ip-in-a-consumer-device/article_fce72417-0e34-52d0-a9f5-ef72f5912bf7.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/expedera-announces-first-production-shipments-of-its-deep-learning-accelerator-ip-in-a-consumer-device/article_fce72417-0e34-52d0-a9f5-ef72f5912bf7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/c2/5c278e6f-1ded-56f7-a838-538529bbede9/621e23db172d5.image.jpg",
+          "width": 577,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T05:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-how-to-become-an-ai-driven-company-today-part-1.md",
       "title": "How To Become An AI-Driven Company Today (Part 1)",
       "excerpt": "Similarly, becoming an AI-driven company is a top strategic endeavor. It's a cultural change. It's a people challenge. And it requires changes in many fundamentals of your organization. Here are my perspectives and learnings on this from the field.",
@@ -1026,49 +1154,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-01-expedera-announces-first-production-shipments-of-its-deep-learning-accelerator-ip-in-a-consumer-device.md",
-      "title": "Expedera Announces First Production Shipments of Its Deep Learning Accelerator IP in a Consumer Device",
-      "excerpt": "Expedera Inc, a leading provider of scalable Deep Learning Accelerator (DLA) semiconductor intellectual property (IP), today announced that a global consumer device",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expedera-announces-first-production-shipments-of-its-deep-learning-accelerator-ip-in-a-consumer-device/article_fce72417-0e34-52d0-a9f5-ef72f5912bf7.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expedera-announces-first-production-shipments-of-its-deep-learning-accelerator-ip-in-a-consumer-device/article_fce72417-0e34-52d0-a9f5-ef72f5912bf7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/c2/5c278e6f-1ded-56f7-a838-538529bbede9/621e23db172d5.image.jpg",
-          "width": 577,
-          "height": 335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T04:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-01-chinas-algorithm-law-takes-effect-to-curb-big-techs-sway-in-public-opinion.md",
       "title": "China’s algorithm law takes effect to curb Big Tech’s sway in public opinion",
       "excerpt": "A new regulation in China designed to rein in the use of recommendation algorithms in apps went into effect on Tuesday, representing Beijing’s latest effort to curb the influence of Big Tech ... to the CAC post. Under the new rules, tech companies ...",
@@ -1117,100 +1202,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-16-tech-experts-share-advice-for-companies-considering-an-ai-plan.md",
-      "title": "16 Tech Experts Share Advice For Companies Considering An AI Plan",
-      "excerpt": "Determining if AI will be a helpful tool for your organization and, if so, how and where to deploy it takes careful planning, groundwork and teamwide buy-in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/01/16-tech-experts-share-advice-for-companies-considering-an-ai-plan/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/01/16-tech-experts-share-advice-for-companies-considering-an-ai-plan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/611197e7a1fc8d3b4e5a536a/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/01/16-tech-experts-share-advice-for-companies-considering-an-ai-plan/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/01/16-tech-experts-share-advice-for-companies-considering-an-ai-plan/amp/",
-      "publishedDateTime": "2022-03-01T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-ai-in-healthcare-market-is-projected-to-reach-1944-billion-by-2030.md",
-      "title": "AI in Healthcare Market is projected to reach $194.4 billion by 2030",
-      "excerpt": "COVID-19 is an infectious disease caused by the most recently discovered novel corona virus. Largely unknown before the outbreak began in Wuhan (China) in December 2019, COVID-19 has moved from a regional crisis to a global pandemic in just a matter of a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-in-healthcare-market-is-projected-to-reach-194-4-billion-by-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-healthcare-market-is-projected-to-reach-194-4-billion-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T03:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

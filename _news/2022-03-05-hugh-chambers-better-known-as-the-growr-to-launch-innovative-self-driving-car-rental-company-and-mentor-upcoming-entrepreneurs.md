@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Hugh Chambers, Better Known as The Growr, to Launch Innovative Self-Driving Car Rental Company and Mentor Upcoming Entrepreneurs."
-excerpt: "The phenomenal businessman born in St. Elizabeth and grew up in Christiana, Manchester, Jamaica is a computer programming and web development expert. The Growr is a seasoned"
-publishedDateTime: 2022-03-04T21:21:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/03/ab26004033/hugh-chambers-better-known-as-the-growr-to-launch-innovative-self-driving-car-rental-company-and-"
-webUrl: "https://www.benzinga.com/pressreleases/22/03/ab26004033/hugh-chambers-better-known-as-the-growr-to-launch-innovative-self-driving-car-rental-company-and-"
-ampWebUrl: "https://www.benzinga.com/amp/content/26004033"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26004033"
+excerpt: "The phenomenal businessman born in St. Elizabeth and grew up in Christiana, Manchester, Jamaica is a computer programming and web development expert. The"
+publishedDateTime: 2022-03-04T22:15:00Z
+originalUrl: "https://www.digitaljournal.com/pr/hugh-chambers-better-known-as-the-growr-to-launch-innovative-self-driving-car-rental-company-and-mentor-upcoming-entrepreneurs"
+webUrl: "https://www.digitaljournal.com/pr/hugh-chambers-better-known-as-the-growr-to-launch-innovative-self-driving-car-rental-company-and-mentor-upcoming-entrepreneurs"
 type: article
-quality: 15
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Putin-threatens-Ukraine-AFP-1K-06-600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -72,6 +70,6 @@ related:
         height: 4032
         isCached: true
 
-secured: "MMcQygZayuCXMm8zAAl1xdlKSf1EmQFLWFZtI/vJl70NjsULB+7monAX/U/SH//4Ppz9vXGURY3psHPhS/IIZUKfl7Pf45k3mGvFW805dL+8zdfoRXBsr8N/qN0i/zadjrIRKicp5vnPLl3V5xjqkdcbnIlru9swrIKzJqFkROzl4Mfxn/baZ0QUB3d4llFNGxsZT4E6hcVRK/L6K4yHgJT5Sl4fOTWcz0Yczmn/Jmeycz/nhf7e29Mf2HGDaxLSa48DQ8P0A6O5lHr7yKcn0Ha9hXmA85poc4sY5enPke/MRPJtjP6C8yOewN0+GXAXohf3TGq4tMyd7Mt+IOaI0iPoTKBXCOcLYnT2mtykyGI=;RJgxk8p42IE6zQOOYcn+7A=="
+secured: "Zhpr/T5+E8FFUKNu2rm9GQbRSEVzXgO5O6KzAlaUtL8Q1lHxGevziVUIhO6OpNLRx/KFDxRORDA4S+faXaOc2OCE9rXvt4PGX82xFAlE3WH+ZLZDiExxkufWWa6HFNuGH6pQ+JTHBVzJ1melgY7YIAxGg39fGkdRZt9jN+9au4qR5fxCJsC36utS7RXt9nQXENPLoLOzC+6a8Bil0JjiLdzBWn50cSHXsSHAtj5cW0gmQm0kE7eIpN1gCXFblYeffp2WzcEGHFZsjKtRI5h5h91O8HPVAgvSIlGx6nPOgCtF2Bd8i+zIAFne+j1Ovs6ki9DaQd7oiSvhiApfUYaT7jtA6VGIrwwIWKbSpBYvR0s=;Tao5vCiAE5KPFlp5Q8IzUQ=="
 ---
 

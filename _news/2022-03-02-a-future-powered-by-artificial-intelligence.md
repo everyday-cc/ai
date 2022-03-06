@@ -36,6 +36,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "How AI-powered tech landed man in jail with scant evidence"
+    excerpt: "Williams was jailed last August, accused of killing a young man from the neighborhood who asked him for a ride during a night of unrest over police brutality in May. But the key evidence against Williams didn’t come from an eyewitness or an informant;"
+    publishedDateTime: 2022-03-06T18:48:00Z
+    webUrl: "https://www.nhregister.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+    type: article
+    provider:
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 57
+    images:
+      - url: "https://s.hdnux.com/photos/01/24/41/74/22159127/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "nsVGPNkfrIVQPVHFukfQaWAx9llv1/Y7GbTivfSGBYo7wwBbmKt7RZbRxrqDPBZjH3eWS/WiLqU7vzJ5hXPejOA3t8Tb9fuMeINzrDbD3cuUDAi5ai2yeE8mNcyhMIMratAYif90IgB3I53ceT86JOJusU9YCloPQKLlHbi5Z2odIRhg4Uz7YSey3SDFxJNPZ4iKuM8jfbTajP9Kb775JzbDj1hSoUg0cHtq4yZgO1QyVP04mm6lYXiHBKmI3t5ekNT6UpFAg6KWKO1MKXQIdtpiYd2eXWjBpRBLSxJWgrPTQHCsaTvOHdFsfybmiboFpC+M/8an9qsxaPsXPwN6gcRCbCCq7/YI6EwkplnGPBQ=;Ay0v4KRXXTbgd0jP6dgOlw=="
 ---

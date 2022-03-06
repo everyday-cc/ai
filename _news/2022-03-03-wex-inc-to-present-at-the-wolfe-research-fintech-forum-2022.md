@@ -120,6 +120,15 @@ related:
         width: 500
         height: 260
         isCached: true
+  - title: "CredAvenue fastest Indian fintech unicorn after raising $137 mn"
+    excerpt: "Debt marketplace CredAvenue on Sunday announced that it is India's fastest fintech to join the unicorn club with a Series B fundraising round of $137 million. The fundraising round was led by New York-based global private equity and venture capital firm Insight Partners,"
+    publishedDateTime: 2022-03-06T20:28:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220307/3915938.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "P4ttsUwChwtd7sRXEpLU5XsBan7o2vvW1Tt6sqS6ajDhbFrlyhdi2oJZJTThqJNJQIZtGb+aEZN4ic7VIEwcdhzjPF4AT4Poc6SfZrTratX99Wp5eKmIAPNs6/x2POE17wRV3PxqgHpGFRWvl+RpWL3DUhRCGWLuOdO7cWaI/BCJQQIELqGxJ4nYg1j5BRmLOppUye1Z7VaClvhjmyL1FL01rAYMgBgZTs8vTRAeQ/Bq4SkgUHUwZCCT43TlwbPPH5LIrDOACtiftvYx8f/EF/wdmTm/WIPlto2TiJjn92Y6Td9ZnGs6xih39LFN/S9FICNcK2B9b2GHE3DgQmTYOPFrOpW2VXluLzXqRoiVCaw=;c2Pbel+Z9t/38at6XYqYGw=="
 ---

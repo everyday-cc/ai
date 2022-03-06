@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Detroit FinTech Firm Bankjoy Adds 16 Credit Unions to its Service"
-excerpt: "Bankjoy in Detroit announced it has added 16 credit unions from across the U.S. to its seamless end-to-end digital service ecosystem."
-publishedDateTime: 2022-03-04T17:02:00Z
-originalUrl: "https://www.dbusiness.com/daily-news/detroit-fintech-firm-bankjoy-adds-16-credit-unions-to-its-service/"
-webUrl: "https://www.dbusiness.com/daily-news/detroit-fintech-firm-bankjoy-adds-16-credit-unions-to-its-service/"
+title: "CredAvenue fastest Indian fintech unicorn after raising $137 mn"
+excerpt: "Debt marketplace CredAvenue on Sunday announced that it is India's fastest fintech to join the unicorn club with a Series B fundraising round of $137 million. The fundraising round was led by New York-based global private equity and venture capital firm Insight Partners,"
+publishedDateTime: 2022-03-06T20:28:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20220307/3915938.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20220307/3915938.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: DBusiness Magazine
-  domain: dbusiness.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2022/03/Bankjoy3.4-800.png"
-    width: 800
-    height: 594
-    isCached: true
 
 related:
   - title: "7 Favorite Fintech Stocks to Buy After the Correction"
@@ -54,6 +48,20 @@ related:
       - url: "https://investorplace.com/wp-content/uploads/2021/07/fintech_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Detroit FinTech Firm Bankjoy Adds 16 Credit Unions to its Service"
+    excerpt: "Bankjoy in Detroit announced it has added 16 credit unions from across the U.S. to its seamless end-to-end digital service ecosystem."
+    publishedDateTime: 2022-03-04T17:02:00Z
+    webUrl: "https://www.dbusiness.com/daily-news/detroit-fintech-firm-bankjoy-adds-16-credit-unions-to-its-service/"
+    type: article
+    provider:
+      name: DBusiness Magazine
+      domain: dbusiness.com
+    quality: 39
+    images:
+      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2022/03/Bankjoy3.4-800.png"
+        width: 800
+        height: 594
         isCached: true
   - title: "CredAvenue fastest Indian fintech unicorn after raising $137 mn"
     excerpt: "Debt marketplace CredAvenue on Sunday announced that it is India's fastest fintech to join the unicorn club with a Series B fundraising round of $137 million. The fundraising round was led by New York-based global private equity and venture capital firm Insight Partners,"
@@ -120,16 +128,7 @@ related:
         width: 500
         height: 260
         isCached: true
-  - title: "CredAvenue fastest Indian fintech unicorn after raising $137 mn"
-    excerpt: "Debt marketplace CredAvenue on Sunday announced that it is India's fastest fintech to join the unicorn club with a Series B fundraising round of $137 million. The fundraising round was led by New York-based global private equity and venture capital firm Insight Partners,"
-    publishedDateTime: 2022-03-06T20:28:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20220307/3915938.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
-secured: "RNJJTuljMVqTNC9Ap1aKm1yXhz4H7deCJXBI+IWQgSXKKtWQDMg9s1w14VKQqp+hPlTSdkA+UrRou+vqquhYgsd7K4dZ2UP7jCZXwp39cHTteO+3Y3lN3V5vYUQp+OCCGRSq378grO54Kxj9HoehMwfXXFe+61VyYrIqsWzMmsnx2w3UiFJDFNV9kdTbgitUQiJ8Nfme5BloZlYh/2aMknAWG+O2mlp7G9rv2XNocc6B8dMV4Aa91wBTyljHw9LTHgNszxel7Dalx+Ec9u+V1qnt3bDLBP5HcqqHid7E32WxohDuMUMYkpvybI8lD+7s65OLfzTmMC9X0zYN3GWo2MZciwnf7LCa5Pxa3RSTV6W4XnIloki2A0tBLjzGxfS7YtNXLRTUP3m99zq6HchwApJruc8+/5AbLQYysxio5w6LAXBgMP2aHJ2SidJHR39AYglmFCJP2hRTAIUBKxmXO64yp5W9NF7swW/jcGL1czaBRMEuLscZKhLJNbGjUqPTrsL9TlhnS/fjcc0TI6oy+Q==;nb3zjzYErehpmoOHcSvPPQ=="
+secured: "h0Kh9qA4XmIdiq7fz6WbuPJs/FsaoUtUlrUXfyxE8epJAzMZdCIv8E5ckoW52Z48pViaCTkeyiCfnixBY2QWWhXNj8JptVVyKB1VMDryjtpFEwkehVCgblVZDXOhDjUD6ui/GFXqCrM5euJJFTYB8UpOG9gGf2o3SLhB4EVAyXY8Rq204enaaQOEK5AGfhvL9WzEAi8gwtLTz3ukexTJGZCEOTtMFd8OHOmU5tOXhudAbcdEpxVREkwi2lUgOOoolTHEPQFJO9A5dxFXvyEBLFyDeYbZLwF1EdXjHAlEDC4MxTf3WXTFCN2yXgzWdQ9XFXtoNCqw2VgK3CsH4Ox+KAR/PrS0Y3BhiSwt/mDMl9A=;7+xrbPX6MUtqMoZ4V4kH4g=="
 ---
 
