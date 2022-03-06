@@ -3,8 +3,8 @@ category: news
 title: "Computer Vision in Artificial Intelligence (AI) Market Is Anticipated Grow Aggressively during 2022 to 2028"
 excerpt: "Feb 21, 2022 (Market Insight Reports) -- Global Computer Vision in Artificial Intelligence (AI) Market Insights, Regional Analysis, Market Share & Competitive Analysis The Computer Vision in ..."
 publishedDateTime: 2022-02-21T05:28:00Z
-originalUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-is-anticipated-grow-aggressively-during-2022-to-2028-2022-02-21"
-webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-is-anticipated-grow-aggressively-during-2022-to-2028-2022-02-21"
+originalUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-is-anticipated-grow-aggressively-during-2022-to-2028-2022-02-21?mod=search_headline"
+webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-is-anticipated-grow-aggressively-during-2022-to-2028-2022-02-21?mod=search_headline"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "HPyzrhUXsmjA4mhQqPdHGkrwG8vbWpcnh92MiC8HCsUNk2saotHdg9RsvnFtIn74zxYUbNNPuHCtrcKbF6HZitLZQzH7JiLI4rkSqGZpyOfmednQ68DxCCdadlExIS4zPUHvbrmxyJodj42xBRL0eNIOC2dLWVupMST8KSTCcBMWFHpiI4chn6jypiTXahekXw7WxM3kF0/BzHrYVlOnwwah37Fmq/tRddm+8i2NyIH0q8wZO2zsjlodSj/KyrcuX/f2aa/qCQ8vfF3yyvnLoQVa7T74gQJHRIp4vZLwQYoobRG07dZ4aQfQewcvITT7RARdmTR32RkOBu78jWTBu3ZiEnrwbCK05EL9Lpuer8Y=;opErD+1LTB4xtolsR/Zg7Q=="
+secured: "YBrqVNuxdJzPlBzDpOK2gyEq5N4yj0wzxs3xd7hS4JzPFQS/wgJc14i2zCVcln8Ix/6GWQ6RQ+5QzhcZX0pkjfiDo7SQW3/keuUhY78UEO5AgVlPY13mjeJkVTFxKFnp72zSIqOoS8QEm+V7HVeb6qfb7WEKH0VIRodJ+FFXrxEVAeiKIMrCgGy9IO1PsalhJUK40PlnPZUrSguDjLjqMW4Z4slNGylizQYk795pEPqTCl5SiWvfkAf0lPvH8cJtN9AvXVjP3zVRcE6Q0IZuoVAy1pOs/KlyOKDyBJSabWEzZoONNic3mjjGBt8wXkPuvm89RJLlOCm4/BIEJDy/wUDWYoYWSN/IyGJzh19LSMY=;Kk+j1jA21PmLMEhEzGHU9Q=="
 ---
 

@@ -41,6 +41,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Humanoid robot Sophia set for Dubai conference"
+    excerpt: "The humanoid robot Sophia, the world's first robot citizen, will arrive in Dubai this week to participate in the 20th Annual Regional Audit Conference (ARAC) which will run from March 7 to 9"
+    publishedDateTime: 2022-03-06T05:55:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/humanoid-robot-sophia-set-for-dubai-conference-cuj1uuyk"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 54
+    images:
+      - url: "https://static.zawya.com/version/c:MDkzNDllNDUtNzZjZS00:MTllMTNm/eng_pr000032-jpg.jpg"
+        width: 900
+        height: 1184
+        isCached: true
+  - title: "Sophia, the first intelligent humanoid robot, arrives in Dubai to participate in 20th Annual Regional Audit Conference"
+    excerpt: "The humanoid robot Sophia, the world's first robot citizen, will arrive in Dubai on Tuesday, March 8, to partici"
+    publishedDateTime: 2022-03-06T06:36:00Z
+    webUrl: "https://menafn.com/1103801661/Sophia-the-first-intelligent-humanoid-robot-arrives-in-Dubai-to-participate-in-20th-Annual-Regional-Audit-Conference&source=30"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 30
+    images:
+      - url: "https://menafn.com/updates/pr/2022-03/06/ENA(_efe86image_story.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "PJ71twNPbx5SfuHZrPIjO/4PxmIIPBy4zvxPsPqyz80jxJYzUHwXCdRaGa9tWZfTZhizWZEyYMzKSY1WoVcTtQUZzwQlhQPBMIYfPlnFTOt6VL/AaUReJDKXY4+BR0oxqIn23pCBQjrvLNd/6LWn/CGLhXktNC+CIh+Dz/UGMAM3e+8AYVG3drTCFnxnV9Nxd86kNMa1/QU8u/xQjUEd41jFDlMtJst2WKz9KKjjuu+FmnmF0MCUyee4hfjfgrTVan0OLT2Oax7LJIQrxKQFJ4AK2Y5N9hY0MHtnH7dBwluAYM32HNmusXlQOBmeHXtR8QXbhMNqfGXJg8CG9yzDLyvpqBGEnNbV3+mr/WDKha8=;oraMVmpo6juzMSYOjJ9/Fw=="
 ---

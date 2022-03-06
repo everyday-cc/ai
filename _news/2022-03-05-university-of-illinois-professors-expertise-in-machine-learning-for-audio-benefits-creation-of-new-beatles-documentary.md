@@ -1,12 +1,12 @@
 ---
 category: news
 title: "University of Illinois Professor’s Expertise in Machine Learning for Audio Benefits Creation of New Beatles Documentary"
-excerpt: "From the first time he used a synthesizer, Illinois Computer Science professor Paris Smaragdis knew that he wanted to learn how technology could make or alter music. What's followed is a career in academia that centered his Artificial Intelligence research on the question: What does it mean to take a stream of sound and then break it down into its individual components?"
+excerpt: "From the first time he used a synthesizer, Illinois Computer Science professor Paris Smaragdis knew that he wanted to learn how technology could make or alter music. What’s foll"
 publishedDateTime: 2022-03-05T14:00:00Z
-originalUrl: "https://insidebigdata.com/2022/03/05/university-of-illinois-professors-expertise-in-machine-learning-for-audio-benefits-creation-of-new-beatles-documentary/"
-webUrl: "https://insidebigdata.com/2022/03/05/university-of-illinois-professors-expertise-in-machine-learning-for-audio-benefits-creation-of-new-beatles-documentary/"
+originalUrl: "https://insidebigdata.com/tag/beatles/"
+webUrl: "https://insidebigdata.com/tag/beatles/"
 type: article
-quality: 15
+quality: 0
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://insidebigdata.com/wp-content/uploads/2022/03/UIllinois_Beatles.jpg"
-    width: 512
-    height: 284
-    isCached: true
 
 related:
   - title: "University of Illinois Professor’s Expertise in Machine Learning for Audio Benefits Creation of New Beatles Documentary"
@@ -40,6 +34,6 @@ related:
         height: 682
         isCached: true
 
-secured: "lIalJLboQ3rMcUZBy9DfJ1EZuif6seDVjzzxrm0POTf6l4Bo6FnMqWQ36rbrZOKtK8bpBdE4Ys+KIDDQe2iplXMmzhIkz6DQjyoBec5/jiGleeT53s12rSYXCx0lyvMqKAiZN7UqVX6w3I1mnc/PJsPG1ILa3IE4TJOjH1Kz6MyjK/Skg4jowRKUd7tECgvy/svIVaEsXXOE6AS6plFHC7g4Eiofrau0NwRovPPnMsLFUej67WnoM43Ho2rzjKbApm3ji4ZxlxNogHQ6YrGLWNyUbwif58ZbEMWxYGApqS3ZEmHZWiOu056z9QQbiSKm5OwOTMqTiu/vSHraXRs88gQtauQYQfkAai7WQRALBVaSuoF1udMXZMFKu0Ryn2RlcWPXu6Ff4lHMiu1+fOaZcfFGnzEkxJdZPUKFqLeKy8+rMiqVnZKj8koxT95bliVvhRE/sAwY3+/KYZtMUPaP56f1emf1fMY6yyc3INKeewrCYbO84//+vifYEq1dOoKcOIGy+sIRUOo0xAm35yD+zw==;u8Mud10gDdMfQn0vYQ53Zg=="
+secured: "xL02dK+YQ4RrnYg9+cxYnqhNO1nEKAa8vXiavt5S+K3x24ZcbI75F4BrakqB5X058p2pVrZa/HrLKDToDBYlri/hqQ3xF75Qj6ImLaXs3axPzVwXDYiWaXsD7Doi12i469un77uZh5n/e61Bgebwb0/510LSJQQ47TKNFpO2uF2egYB3u4UiN76e1UOb6UqXgVvHhfYfHxDmUrvpOSnpFzohYZjVkRXDyvxOCcvf6gHhebidtgx/0DxAaNvZ6yRhCPJVZrlnTHZL5H/bgon78Sg6Ooo1nc0oc8aGW6hu9B8yRJAe9voJDkFR5u/4Rw6IC8zRdMDUGkJbhZphu5wVy/Q5TBfDLaYefrMKKfrekv6Y4H//1BvgDCY5ig+NWoFufEICAoaLukH0LJnvlQLt63wo/l+DEMQMXNAN1v+ww+kJBfKpCBAF7Pl38UTkpSahHmaeORPyTexBNUfnVmHhSNJBqKM0PK2rcWLZWpZUxHSm9EEQn1qG6HSyl2ENYrtyNY7imbPAFX1jWGEhbnVQ4A==;oRiQ8lNuFR5m7E8CrUI4rA=="
 ---
 

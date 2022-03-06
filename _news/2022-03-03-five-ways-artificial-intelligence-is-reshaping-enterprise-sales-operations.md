@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2022/02/Mar22_04_520116940.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "3 Ways AI is Changing Food and Beverage Manufacturing"
-    excerpt: "Learn how utilizing AI can bring improvements to a company's product quality, maintenance procedures, and data analysis."
-    publishedDateTime: 2022-03-01T14:00:00Z
-    webUrl: "https://www.automationworld.com/process/plant-maintenance/article/22093084/3-ways-ai-is-changing-food-and-beverage-manufacturing"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 37
-    images:
-      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2022/02/pfw_41481_garethwilliamsweb_0.619daecacce95.621c2ed8d5fda.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 729
         isCached: true
 
 secured: "xRlvce9oIZB+5RuwwBtGtdli9xpvbQ4Zz7VEYlQOc2A+OvXE5uYk7R20nAKGFwcPf/u3e/Yvlle0qZ3r1wnE61mWMrI+7wS+0djTOeO35GgfSTJuoTCck3wRWLLZSkf1bnN5ODStfFING5FlYQxm/cxarRGJ/b/0BSLTfF7CnZj6AyDqKtfKIVhKVt/4KuGn8HZLd2C1F6ReqKOp/PpXNOI6OsfQDwUsD/CmcoFiNO9vVF6f8gyeRONcglS09MsUc0/iOjO8JI3Kj2ZsyprCoC2DRFngtdSYGhy0O+9mwUmNVKkN9zO+4D3VGK1VOGcCvIM6KL85hUaa8ycgCzgGkcovjhISuX1OV6HeWaQ99V0=;qm7M5WUI8/I4ISzhxfiYlg=="

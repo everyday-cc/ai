@@ -85,22 +85,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "Microsoft’s new service helps health care organizations analyze multiple data types simultaneously"
-    excerpt: "The goal of Azure Health Data Services is to help organizations discover insights by bringing disparate data together and connecting it with tools for machine learning, analytics, and AI ..."
-    publishedDateTime: 2022-03-01T14:30:00Z
-    webUrl: "https://venturebeat.com/2022/03/01/microsofts-new-service-helps-health-care-organizations-analyze-multiple-data-types-simultaneously/"
-    ampWebUrl: "https://venturebeat.com/2022/03/01/microsofts-new-service-helps-health-care-organizations-analyze-multiple-data-types-simultaneously/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/01/microsofts-new-service-helps-health-care-organizations-analyze-multiple-data-types-simultaneously/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 75
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/How-healthcare-will-become-a-democratized-on-demand-service-01-e1618816638837.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
-        isCached: true
   - title: "Microsoft Vaults Further Into Health-Care Services With Closing of Nuance Deal"
     excerpt: "Microsoft Corp. completed its acquisition of Nuance Communications Inc., pushing the software giant deeper into the market for health-care services and artificial intelligence. The $19.6 billion deal, announced last April, lets Microsoft add cloud ..."
     publishedDateTime: 2022-03-04T14:19:00Z

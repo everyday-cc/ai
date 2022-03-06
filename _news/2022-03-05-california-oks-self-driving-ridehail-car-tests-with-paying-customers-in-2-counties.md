@@ -25,35 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "California Greenlights Cruise, Waymo Autonomous Vehicle Service"
-    excerpt: "Autonomous vehicle makers General Motors and Alphabet Inc. can now collect fares from passengers of self-driving cars in California. The state's Public Utilities Commission (CPUC) this week gave the green light for GM's Cruise and Alphabet's Waymo to charge for rides in autonomous vehicles—with safety drivers present."
-    publishedDateTime: 2022-03-01T13:30:00Z
-    webUrl: "https://www.pcmag.com/news/california-greenlights-cruise-waymo-autonomous-vehicle-service"
-    ampWebUrl: "https://www.pcmag.com/news/california-greenlights-cruise-waymo-autonomous-vehicle-service?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/california-greenlights-cruise-waymo-autonomous-vehicle-service?amp=true"
+  - title: "You can catch a ride with a self-driving car in SF"
+    excerpt: "Now you can catch a ride with a self-driving car. It’s similar to using other ride shares, except this time no one is driving the car that’s getting y"
+    publishedDateTime: 2022-03-02T17:03:00Z
+    webUrl: "https://www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/"
+    ampWebUrl: "https://www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/amp/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 189
+      name: KRON4
+      domain: kron4.com
+    quality: 44
     images:
-      - url: "https://i.pcmag.com/imagery/articles/01ANFiVScbhSTtWFUMUy2or-1.fit_lim.size_1200x630.v1646134551.jpg"
-        width: 1120
-        height: 630
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2022/03/waymo.png?w=1280"
+        width: 791
+        height: 447
         isCached: true
-  - title: "Permits Issued to Google, GM Self-Driving Ventures for Limited Operations in California"
-    excerpt: "A California agency has issued permits to self-driving units of General Motors and Alphabet Inc. to allow for passenger service in with safety drivers present."
-    publishedDateTime: 2022-03-05T04:04:00Z
-    webUrl: "https://timesofsandiego.com/business/2022/03/04/permits-issued-to-google-gm-self-driving-ventures-for-limited-operations-in-california/"
+  - title: "Abu Dhabi’s TII takes a step into the future with self-driving race car"
+    excerpt: "While the UAE Capital is a motorsport hub hosting the Formula One Grand Prix, Abu Dhabi’s Technology Innovation Institute (TII) has taken a major step in autonomous robotics with its participation at world-class self-driving car competitions. TII ..."
+    publishedDateTime: 2022-03-04T11:22:00Z
+    webUrl: "https://www.khaleejtimes.com/auto/abu-dhabis-tii-takes-a-step-into-the-future-with-self-driving-race-car"
     type: article
     provider:
-      name: Times of San Diego
-      domain: timesofsandiego.com
-    quality: 16
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 24
     images:
-      - url: "https://timesofsandiego.com/wp-content/uploads/2022/03/0x_GM-SELFDRIVING-CRUISE.jpg"
-        width: 1280
-        height: 840
+      - url: "https://image.khaleejtimes.com?uuid=63e8ffb7-94b2-5f2b-adec-55baa29336cb&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84375&x=0&y=0&width=1200&height=675"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "o3XCpC7lIwIhxbKLZefmmNSRBSC9pAxTUbVx0lTB/B7c5I8y24OkcixiDptzf6mIsVtiEn/QNa1jRi3av69n2w7uaNyighW5sg8i5iqL0m+OitEKqN0AWGJfckHQIXPLAdbn1uemPpiJ2sPuHYfs7MDoXh6OsRih5IVUZvsdT0P9+ihShwX+UnqGTfsrF6MxFe68Rl07eU+ai1PZ5yAU96S8Lzqqr7mG+OQ7am1F5FR1ZdDOVdVrQ5ugfAL3Gn1X/dcvzGfertPWEY3wBRCAuo8S6fYodnLjBF1pMVXvaFqlksJ7WNVHMKMho71MvKvPb4IhEe+g6jW8pPFGaK5E3pRNvglDpTuilmSBiSfyfZkzhduxGGyY6nqUeJ+qzAkIQHpO7Adtuv4tBzHEOZiIyNktM8f0Wn7v9RMcFNIlsSE+CdJgfTbmbHQZXnzULLrMHKDCB08HT96bDlRHA0yqJa8KGiystWJLqtXmolQSY3uCB2AanewMkY51em74HAWBgT3mPxTViSuCdn6B7CladQ==;Tyd1AvMQkWleiU5lXWMcxA=="

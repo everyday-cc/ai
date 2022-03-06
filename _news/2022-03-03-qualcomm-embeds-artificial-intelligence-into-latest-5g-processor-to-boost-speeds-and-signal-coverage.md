@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2022-03-02/qualc
 cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-03-02/qualcomm-revs-up-5g-processors-for-cars-smartphones-and-home-internet-service-at-mwc?_amp=true"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm unveils new AI-powered 5G networking chip for mobile devices"
-    excerpt: "Qualcomm Inc. has released a new chip that mobile devices can use to connect to 5G network networks. The 5G chip, called the Snapdragon X70, integrates the modem with the RF front end into a single package."
-    publishedDateTime: 2022-03-01T14:58:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/qualcomm-unveils-new-ai-powered-5g-networking-chip-for-mobile-devices/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/qualcomm-unveils-new-ai-powered-5g-networking-chip-for-mobile-devices/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/qualcomm-unveils-new-ai-powered-5g-networking-chip-for-mobile-devices/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 74
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/Qualcomm-unveils-new-AI-powered-5G-networking-chip-for-mobile-devices-01-1-1024x577.jpg"
-        width: 1024
-        height: 577
-        isCached: true
   - title: "Qualcomm embeds artificial intelligence into latest 5G processor to boost speeds and signal coverage"
     excerpt: "Though still probably overhyped, 5G has clearly gotten a foothold since it rolled out three years ago, with 175 networks lit up globally and 5G smartphone sales forecast to reach $750 million this year."
     publishedDateTime: 2022-03-03T17:40:00Z

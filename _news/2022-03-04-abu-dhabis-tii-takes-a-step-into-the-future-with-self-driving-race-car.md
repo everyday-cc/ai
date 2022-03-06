@@ -41,6 +41,20 @@ related:
         width: 791
         height: 447
         isCached: true
+  - title: "California OKs Self-Driving Ridehail Car Tests with Paying Customers in 2 Counties"
+    excerpt: "The California Public Utilities Commission issued permits to self-driving units of General Motors and Google to allow for passenger service in autonomous vehicles with safety drivers present."
+    publishedDateTime: 2022-03-04T22:47:00Z
+    webUrl: "https://timesofsandiego.com/tech/2022/03/04/california-oks-self-driving-ridehail-car-tests-with-paying-customers-in-2-counties/"
+    type: article
+    provider:
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 33
+    images:
+      - url: "https://timesofsandiego.com/wp-content/uploads/2022/03/Self-Driving-Car.jpg"
+        width: 1000
+        height: 643
+        isCached: true
 
 secured: "vGzRr/hTCHxMiEDyl4rviz8hnnT49Sr6kkJ5IVhPzmqdutm0u1zGSpgVBSkDpUEHdoXlSTbxMN/nCZR11ro3lm/cWo6oAN+M2jdPge7KEwGiVFGpg30cHMhOAe5tdqYXadGGsq/XXd78FA5j/zO1dLiUJ+Btkp0+jVozm8WbWhLvvsBe0zYA0zN88zrS30+Pzlf8kn8IATxnttVGbsaZIohbi6WMxCmUOyastxXsdHbU3GZRNwPmCjip8vsEeOWM8CU9EOL4jUcLhMaVSJBnEd1gQsnXmf34VdHjVCggNE4fiHPMgQhZR4oQpYus4e5Ch1CNTWOXqs6ToYRpDpKicqHCdsaZVMlZUMl36MKkaqY=;OYSv9TZ9ZYXo3LJhDs3tzA=="
 ---

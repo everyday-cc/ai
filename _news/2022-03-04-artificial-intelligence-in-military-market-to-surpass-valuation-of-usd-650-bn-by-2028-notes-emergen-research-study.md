@@ -80,20 +80,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI Governance Market size is Projected To Reach USD 116.3 Million By 2028 At A CAGR of 25.1% - Valuates Reports"
-    excerpt: "BANGALORE, India, March 1, 2022 /PRNewswire/ -- AI Governance Market is Segmented By Type - Software, Service, Others, Market By Application - BFSI, Healthcare and Life Sciences, Government and Defense, Retail and Car. Global Opportunity Analysis and ..."
-    publishedDateTime: 2022-03-01T13:08:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-governance-market-size-is-projected-to-reach-usd-116-3-million-by-2028-at/article_7da96a8e-13c9-5708-8c1a-86c23af662a7.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 17
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Genomics Artificial Intelligence Market Research Report 2022 - Global Outlook & Forecasts to 2027 - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence in Genomics Market - Global Outlook & Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. The artificial intelligence in genomics market to grow at a CAGR of 48."
     publishedDateTime: 2022-03-03T17:08:00Z

@@ -57,20 +57,6 @@ related:
         width: 679
         height: 366
         isCached: true
-  - title: "3 Ways AI is Changing Food and Beverage Manufacturing"
-    excerpt: "Learn how utilizing AI can bring improvements to a company's product quality, maintenance procedures, and data analysis."
-    publishedDateTime: 2022-03-01T14:00:00Z
-    webUrl: "https://www.automationworld.com/process/plant-maintenance/article/22093084/3-ways-ai-is-changing-food-and-beverage-manufacturing"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 37
-    images:
-      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2022/02/pfw_41481_garethwilliamsweb_0.619daecacce95.621c2ed8d5fda.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 729
-        isCached: true
 
 secured: "zAFGRX5LIEW0TNoqSLKz1u9GVFJ5z1BEt14VP51J9JNBypR9qGb4js9k6yw1r42KCASmWO63HdvLmyKrljDMoV0mXGYUqlIZDBvCqW7H4r9I5cgzT/ICWRCN1SXs88DhKQZKolOtu1TIDqhY3syT67zqgkj++PXJKO6CQvCzskjYgIZFfNfUhISY2+D5/i60RoPlxRjgmd9Mzo2ot8fpea0X3UiL6BQGKDdXL2ZLv32j1Ix52hjeRQ2tSskynwd40TinS/jkG2MY1iTgPrwAkOe8uq9rLfgm1ZRwqFy1A47IArSSc4pIKUnUwL5fFShNuG4QTKCnpfP+TC57rSEaQN+hNooRg7Q9+MYEfE5Qg58VMmrtA2Gl8f3ZAtiuO81wo2jK2uTLfHQNf9Ehpq6SFMdEyvl6wmT8vk5aY0g15UnEbKckueu0/WYXBcJiOz/WoG4w4FmOE/C/oeFc5vrUBaLjAeZQroqMMbFDRXA+bi6Vl69+nxsH66vNUjPv/4Di6wv/xALIU0yptLjyxe0erw==;l2UGT8rMa3VFIoBGrx7jVQ=="
 ---

@@ -2,49 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2022-02-18-air-force-moves-to-drive-computer-vision-research-and-development.md",
-      "title": "Air Force moves to drive computer vision research and development",
-      "excerpt": "An official said it shows that DOD is serious about enabling more personnel to harness artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://defensesystems.com/ai-analytics/2022/02/air-force-moves-drive-computer-vision-research-and-development/362120/",
-      "originalUrl": "https://defensesystems.com/ai-analytics/2022/02/air-force-moves-drive-computer-vision-research-and-development/362120/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.defensesystems.com/media/img/cd/2022/02/17/021622visionNG/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-18T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense Systems",
-        "domain": "defensesystems.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-18-the-most-important-self-driving-cars-of-2022.md",
       "title": "The Most Important Self-Driving Cars of 2022",
       "excerpt": "Born and raised in Silicon Valley, he remembers when Apple's headquarters was mostly apricots. This is a key year in the history of self-driving cars, not because full autonomy will arrive but because cars with important and differing versions of partial ...",
@@ -1190,6 +1147,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-amazon-hampton-university-establish-robotics-program.md",
+      "title": "Amazon, Hampton University establish robotics program",
+      "excerpt": "To expand the diversity of talent that will shape the future of robotics, Amazon invested in a new collaboration with Hampton University.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/amazon-robotics-hampton-university-establish-robotics-program/",
+      "originalUrl": "https://www.therobotreport.com/amazon-robotics-hampton-university-establish-robotics-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/02/assets.amazon-1.jpg",
+          "width": 900,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-17T08:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

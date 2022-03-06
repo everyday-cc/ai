@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm unveils new AI-powered 5G networking chip for mobile devices"
-    excerpt: "Qualcomm Inc. has released a new chip that mobile devices can use to connect to 5G network networks. The 5G chip, called the Snapdragon X70, integrates the modem with the RF front end into a single package."
-    publishedDateTime: 2022-03-01T14:58:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/qualcomm-unveils-new-ai-powered-5g-networking-chip-for-mobile-devices/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/qualcomm-unveils-new-ai-powered-5g-networking-chip-for-mobile-devices/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/qualcomm-unveils-new-ai-powered-5g-networking-chip-for-mobile-devices/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 74
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/Qualcomm-unveils-new-AI-powered-5G-networking-chip-for-mobile-devices-01-1-1024x577.jpg"
-        width: 1024
-        height: 577
-        isCached: true
   - title: "Qualcomm embeds artificial intelligence into latest 5G processor to boost speeds and signal coverage"
     excerpt: "At Mobile World Congress, San Diego wireless technology firm looks to the next phase of 5G, which expands use cases beyond smartphones"
     publishedDateTime: 2022-03-03T02:17:00Z
