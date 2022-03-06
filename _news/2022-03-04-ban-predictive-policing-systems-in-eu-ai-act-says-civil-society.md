@@ -65,15 +65,6 @@ related:
         width: 400
         height: 330
         isCached: true
-  - title: "Cypriot fintech first to use AI-powered analytics tool"
-    excerpt: "Cyprus-based financial technology company SquaredFinancial announced on Tuesday that it will be the first organisation to utilise iQbyQi, an advanced retail trading analytics tool. “SquaredFinancial,"
-    publishedDateTime: 2022-03-02T06:30:00Z
-    webUrl: "https://cyprus-mail.com/2022/03/02/cypriot-fintech-first-to-use-ai-powered-analytics-tool/"
-    type: article
-    provider:
-      name: Cyprus Mail
-      domain: cyprus-mail.com
-    quality: 19
   - title: "Syndigo Announces Strategic Partnership with Predica to Deliver Expanded Portfolio of Cloud-based Data Analytics Services"
     excerpt: "Predica's Data & AI expertise extends across building highly scalable, cloud-based data warehousing solutions; implementing intelligent applications using Machine Learning techniques, and creating ..."
     publishedDateTime: 2022-03-03T18:39:00Z

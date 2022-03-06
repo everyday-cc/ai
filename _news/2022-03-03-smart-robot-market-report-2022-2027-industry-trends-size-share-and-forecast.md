@@ -53,20 +53,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Smart Robot Market: Report Analysis, Share, Revenue, Growth Rate With Forecast Overview 2022-2031"
-    excerpt: "Comserve / -- The Smart Robot Market is expected to be around US$ 17 Billion by 2031 at a CAGR of 24% in the given forecast period. A smart robot is an artificial intelligence (AI) system that can learn from its environment and its experience and build on its capabilities based on that knowledge."
-    publishedDateTime: 2022-03-02T06:42:00Z
-    webUrl: "https://menafn.com/1103786468/Smart-Robot-Market-Report-Analysis-Share-Revenue-Growth-Rate-With-Forecast-Overview-2022-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 26
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?734142"
-        width: 374
-        height: 250
-        isCached: true
 
 secured: "B0N/Bl5LK7C67hRnUCuBkVA9Rv0/h0r1faFSLmcJg8cTqvZ8gHYyFOe+n+Y33gz94u8ZKGWonRWbi2CbD7gDXkrM2XNsBm20NBQsnUiLM+yWo2ERb5p84VgiTltPKkXAEeOyRi/AYiYkXqE67ZPefRLMs6eCfTWDRmbtTGRMJduyxa/c+xcHPjPb23HE4VcCs46DnYhcVa7IsN5RjEvNZk2NU85+FRmjGyzWKvUdlaqcU4XDsTZPKaEdHJKkIPDK2ECZXImsOs9IIMToOBGQwXYw0NKhAI8V7DxKl1ClH5+dm2pP4ijEPjvFhmwDvIwv0vH6SozX6dPXKAs3sut3Ja9phq+ci1hh2OQgfARaU9k=;qyYIzLWVV8VhW0AeXvAm1A=="
 ---
