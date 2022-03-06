@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/ml-inferencing-at-th
 webUrl: "https://aws.amazon.com/blogs/machine-learning/ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25/"
 type: article
 quality: 105
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/17/ML-6786-image002.jpg"
         width: 2456
         height: 1434
+        isCached: true
+  - title: "AWS Announces Amazon SageMaker Feature Store"
+    excerpt: "Recently AWS announced a new capability of Amazon S ageMaker called Amazon SageMaker Feature Store, a fully-managed, purpose-built repository. This new Amazon SageMaker capability allows customers ..."
+    publishedDateTime: 2022-03-03T00:00:00Z
+    webUrl: "https://www.infoq.com/news/2020/12/amazon-sagemaker-feature-store/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2020/12/amazon-sagemaker-feature-store/en/headerimage/croppted-Feature+Store-1608021403547.jpeg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "i+th+ytaMy4M7y7tv9KuEaN0DrsrBcAFi+/vS3DqmDPxPx7W7LLG5xbrF+v9rfJudN8T0TFQ6s2Wnet+sAxawyIZfHIYgwNrVJuMQYHVMZ7KFhlgX+yCPbp6DATdyQAX5q6rixXifFk9O5nu7hru2fDiLX4l4FIdzTt+anjNpVaa1N3sQyYhND/xWGFEuuurb48XTIHrdRHAJP5sDitLnnxeXddYKDu0YolhNNG8F6cihgPw2hSsVHAcWyNm9y/VyRBmFTMrMwopqIwJSBTQsLZ2MrejESr/X2NzI+2+3tAdLdtuxWuWX+rnPmJDpSUXzMuqq0SKyDjZhwoCCMzc/KTpK5n92XlHb/Vx4cQeDe8=;REuIEpgWHPZBH96b+up/xg=="

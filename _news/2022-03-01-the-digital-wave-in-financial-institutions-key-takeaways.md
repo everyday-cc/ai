@@ -28,22 +28,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "What are The Newest Digital Solutions For the Financial Industry?"
-    excerpt: "In the course of digitisation, a worldwide revolution is taking place in the financial sectors in both highly developed Western countries and in developing countries. Accessibility to banking services and"
-    publishedDateTime: 2022-03-01T08:12:00Z
-    webUrl: "https://www.econotimes.com/What-are-The-Newest-Digital-Solutions-For-the-Financial-Industry-1628216"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 24
-    images:
-      - url: "https://www.econotimes.com/assets/images/econotimes/metaDefault2.png"
-        width: 400
-        height: 330
-        isCached: true
-
 secured: "K1ubFOM1TFuaYXOoWGCIZdzksfAKPcYikFW5CQ/tDOmI8Z5JnmH3XQFyq296Y+SzuO//7MAP1BO3aU8rIMc4K5pPJP4HLmxhCv1otG7VUenylwu7nLk6mVMGLgW2RYRqTUuc7AkAXhq7JrDstggN4F8XQYkVuzAxnIa/ENAgYke+ZB/RGQ9kvLO9HsNr7lhbhCMLoyRinRMxVW8s2J/nu9B+xb4VN4D7WX7WUiJ/uKRzJVXOYh0F+A3nze1Anq2JD1q5CsRZ6v3TTQt5Ykkb0z5uXDWA9+joROq1uWb/rw+wYCuXsUcSgcmE++w+yEdfMtsSzsfNPMPqc5K8kdz9clsL7Eey1+Q2bPYIGwwLmGcjYcBK7/xkqcUkAYmfaoz2ENz/65cihPrv2NgfaQ2SSTSOpMT3yCBTUDPjL3EreYffXHbwAZfjG/1I+fDOYKU2IQdkV5S9xLQ8S6TXWIPJQ2kTBu/n0Y0nCAMQgV0kQe6RXj1KYCZ2dM7k2HBdlotkXjffNR/Vdp/PCBgSIsWXTg==;Vgi0i/XVMT1QzS8D82ZJ3Q=="
 ---
 

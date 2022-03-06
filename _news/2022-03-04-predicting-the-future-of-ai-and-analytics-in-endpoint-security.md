@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-analytics-in-endpoint-security/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 175
 published: true
 
 provider:

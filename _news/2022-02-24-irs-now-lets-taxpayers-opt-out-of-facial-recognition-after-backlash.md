@@ -3,15 +3,15 @@ category: news
 title: "IRS now lets taxpayers opt out of facial recognition after backlash"
 excerpt: "The IRS announced that people who want to avoid turning over their biometric data as part of the login process can now talk to a human via video chat instead to prove they are who they say they are."
 publishedDateTime: 2022-02-23T17:48:00Z
-originalUrl: "https://www.kcci.com/article/irs-now-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/39178220"
-webUrl: "https://www.kcci.com/article/irs-now-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/39178220"
-ampWebUrl: "https://www.kcci.com/amp/article/irs-now-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/39178220"
-cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/irs-now-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/39178220"
+originalUrl: "https://www.kcra.com/article/irs-now-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/39178220"
+webUrl: "https://www.kcra.com/article/irs-now-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/39178220"
+ampWebUrl: "https://www.kcra.com/amp/article/irs-now-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/39178220"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/irs-now-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/39178220"
 type: article
 
 provider:
-  name: KCCI Des Moines
-  domain: kcci.com
+  name: KCRA
+  domain: kcra.com
 
 topics:
   - Computer Vision
@@ -23,6 +23,6 @@ images:
     height: 677
     isCached: true
 
-secured: "MrDhZzFBPFuMGBHl/uYc0Q9NjA+lDs3H2KGHOiqCSzKMFID1g4t8w93m86M5GBVJpyLK7N2DzkRc4xC2KlApnqoFrQaEKul8RkOh8u9toyTMI7gHfuOZGi1RLGzElNI1I1fq3DupalinJj96FPADBGUKCZ4pFW/DCBUYuhOBpZhlY0kArCXP41GPeCc2Qobb2pFkbcU3voTb0tOZIrtm0rOa5ruNy0HvlbjybqZCGv8vudMDLuSngRf0fjb1oYf3YBc2J7pYt1Br3e2cO2a6irKEfdZTJ4Wfgl+4da3fmiCM1GgDs6Y4oPcfnZA323y0c4E64hGf+bZfcWPBuNqHo6aWO0gqqlWnsvfkNRDzWn8=;6YZkSPRPZa9oCqymd9hvaA=="
+secured: "Zp8204w6Bm9qqFpoczAg/GSMzDxWZKR9LwzKiG3REqbVoIadtC/NqveKEWI063w+ossa5O9r1WIAmJvlSYuR9+iGXk7mQEnyUgGe3Q/myh8whMWxrTybsfPlr3zy+l3NKey9o53ORhyw7v9JLQHRXoMUoiHD7TaFM1oueJFGH1wUfwgMNgEjLS0D7En2a1RYgs+VNRI3dXI9jc492Y4sUA34w3Gkgcu/+3HtxKNu2vGxuO40ePRSQs/rNTd7gpnd2zzapjvmRpzSccT4fgoxPhxguzJwNq0VKqatRawo7Cb4PmELGZSTcoeFyTrhN6YmxGIK+uNaE5MzQNRH93H0mHVN1UAO8tIEmhoNw6t5nhw=;5uDcAiaoizhJ/Y6T9JpFUw=="
 ---
 

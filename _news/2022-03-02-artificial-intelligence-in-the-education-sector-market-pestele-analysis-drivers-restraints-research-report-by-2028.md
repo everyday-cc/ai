@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence in Manufacturing Market Size, Segmentation, 2022: Analysis Top Key Player, Supplier, Vendor, in the Overall Market"
+    excerpt: "Industry research.co has introduced a new market study on” Artificial Intelligence in Manufacturing Market” 2022-2028"
+    publishedDateTime: 2022-03-03T06:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-manufacturing-market-size-segmentation-2022-analysis-top-key-player-supplier-vendor-in-the-overall-market-2022-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Artificial Intelligence Market 2022 SWOT Analysis and Worldwide Growth Survey by 2031"
     excerpt: "Kenneth Research, in its repository of market research reports, has recently added a report on Automotive Artificial Intelligence Market that emph"
     publishedDateTime: 2022-03-03T06:44:00Z
@@ -51,20 +65,6 @@ related:
     quality: 24
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/6f36adb06597c8add3e517ea4970f7781a732f19-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Insulin Pumps Market Size, Share, By End Use, Share & Revenue, and Region, Forecast to 2028"
-    excerpt: "The global insulin pumps market is expected to reach USD 10.25 Billion by 2028, according to a new report by Reports and Data. Insulin pumps are used for"
-    publishedDateTime: 2022-03-01T08:49:00Z
-    webUrl: "https://www.digitaljournal.com/pr/insulin-pumps-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 14
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Ukraine-No-capitulation-AFP-1K-01-600x337.jpg"
         width: 600
         height: 337
         isCached: true

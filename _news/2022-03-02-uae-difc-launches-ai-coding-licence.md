@@ -41,22 +41,6 @@ related:
         width: 1199
         height: 800
         isCached: true
-  - title: "DIFC launches AI, coding licence; new UAE Golden Visa opportunities for employees"
-    excerpt: "The licence is designed to attract AI companies and coders from across ... the largest cluster of FinTech and innovation companies in the region. The hub hosts more than 500 firms, ranging from ..."
-    publishedDateTime: 2022-03-01T08:07:00Z
-    webUrl: "https://gulfnews.com/business/difc-launches-ai-coding-licence-new-uae-golden-visa-opportunities-for-employees-1.86098678"
-    ampWebUrl: "https://gulfnews.com/amp/business/difc-launches-ai-coding-licence-new-uae-golden-visa-opportunities-for-employees-1.86098678"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/difc-launches-ai-coding-licence-new-uae-golden-visa-opportunities-for-employees-1.86098678"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 54
-    images:
-      - url: "https://imagevars.gulfnews.com/2019/07/29/DIFC_16c3e88e2ef_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
   - title: "New artificial intelligence and coding licence in Dubai"
     excerpt: "In collaboration with the UAE Artificial Intelligence Office, the Dubai International Financial Centre (DIFC) has launched an artificial intelligence (AI) and coding licence. The licence ..."
     publishedDateTime: 2022-03-01T09:02:00Z
@@ -126,20 +110,6 @@ related:
       - url: "https://menafn.com/updates/pr/2022-03/01/KT_4cfe0image_story.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "UAE launches artificial intelligence and coding licence"
-    excerpt: "The licence offered by Dubai International Financial Centre can also serve as a gateway to obtaining UAE Golden Visas."
-    publishedDateTime: 2022-03-01T08:57:00Z
-    webUrl: "https://gulfbusiness.com/uae-launches-artificial-intelligence-and-coding-licence/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 37
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2021/03/DIFC-Gate-Building-740x493-1.jpg"
-        width: 740
-        height: 493
         isCached: true
   - title: "UAE launches ground-breaking artificial intelligence and coding license"
     excerpt: "Dubai International Financial Centre (DIFC) has launched a ground-breaking Artificial Intelligence (AI) and co"

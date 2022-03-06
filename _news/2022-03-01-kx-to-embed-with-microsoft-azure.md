@@ -129,20 +129,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "AI in Healthcare Market Next Big Thing | Major Giants Google, Microsoft, General Vision"
-    excerpt: "Advance Market Analytics published a new research publication on “Global AI in Healthcare Market Insights ... ai-in-healthcare-market Scope of the Report of AI in Healthcare Artificial intelligence (AI) in healthcare is the use of algorithms to manage ..."
-    publishedDateTime: 2022-03-01T07:59:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-healthcare-market-next-big-thing-major-giants-google-microsoft-general-vision"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 63
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Uptake Fusion to Support Microsoft Azure Data Explorer"
     excerpt: "Uptake, a leader in industrial intelligence software-as-a-service (SaaS), announced today that Uptake Fusion will support Microsoft Azure Data Explorer. Uptake Fusion, which automates the extraction of industrial data from historians,"
     publishedDateTime: 2022-03-01T16:11:00Z

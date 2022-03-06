@@ -21,15 +21,15 @@ topics:
 
 related:
   - title: "How AI-powered tech landed man in jail with scant evidence"
-    excerpt: "But the key evidence against him didn’t come from an eyewitness or an informant; a major factor was the gunshot detection firm ShotSpotter. (Aug. 19) Video: Associated Press CHICAGO (AP) — Michael Williams’ wife pleaded with him to remember their fishing trips with the grandchildren,"
-    publishedDateTime: 2022-03-05T17:55:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+    excerpt: "Michael Williams’ wife pleaded with him to remember their"
+    publishedDateTime: 2022-03-05T23:28:00Z
+    webUrl: "https://www.thetelegraph.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+    ampWebUrl: "https://www.thetelegraph.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+    cdnAmpWebUrl: "https://www-thetelegraph-com.cdn.ampproject.org/c/s/www.thetelegraph.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
+      name: The Telegraph
+      domain: thetelegraph.com
     quality: 57
     images:
       - url: "https://s.hdnux.com/photos/01/24/41/74/22159127/3/ratio3x2_400.jpg"

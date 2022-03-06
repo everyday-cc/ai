@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/03/snowflake-simplifies-data-app-dev
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/snowflake-simplifies-data-app-development-with-streamlit-acquisition/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

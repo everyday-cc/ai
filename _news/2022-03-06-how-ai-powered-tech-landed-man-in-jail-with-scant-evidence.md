@@ -1,20 +1,20 @@
 ---
 category: news
 title: "How AI-powered tech landed man in jail with scant evidence"
-excerpt: "But the key evidence against him didn’t come from an eyewitness or an informant; a major factor was the gunshot detection firm ShotSpotter. (Aug. 19) Video: Associated Press CHICAGO (AP) — Michael Williams’ wife pleaded with him to remember their fishing trips with the grandchildren,"
-publishedDateTime: 2022-03-05T17:55:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
-webUrl: "https://www.houstonchronicle.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+excerpt: "Michael Williams’ wife pleaded with him to remember their"
+publishedDateTime: 2022-03-05T23:28:00Z
+originalUrl: "https://www.thetelegraph.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+webUrl: "https://www.thetelegraph.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+ampWebUrl: "https://www.thetelegraph.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+cdnAmpWebUrl: "https://www-thetelegraph-com.cdn.ampproject.org/c/s/www.thetelegraph.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
 type: article
 quality: 57
 heat: 67
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: The Telegraph
+  domain: thetelegraph.com
 
 topics:
   - AI
@@ -38,6 +38,6 @@ related:
       domain: omanobserver.om
     quality: 37
 
-secured: "Zw+iMkkAMhlhHmsxjTO//Ar2NTP1u/JT41izh8K4OYMb5N/CyMbDu351sG5HWTR4k7k67PQT5Nv0393TulcSWDmf+NygsdgVh1BFBItuHdMtU2UNYJYEtkIdBGGETEZ2KQLzG23DTCr9ee5ipgwcucWSEepiIvAtyevoiD0ee5H1wbT9ZdHR80G/hrP1HdETycg9XflwGQh6r4EsGeAgOALRXnpKo7BwyuynFgOWdA9zK06Byi1K+1Mr+8cNDCIZgsL33hqrKPUci2LnbxqDx0Rrm6Iw5+k1uBN4rE+Ixs64Flcc1JhmAZziMEEaJnfSwK5rEvjfcSPubG4MP9Ciyoy+N2F+edM+B1JSPosSJ0U=;JMmCxN1GTxDpyrmmGT3o6Q=="
+secured: "Sv+2ccTHP7qOOftXJFStFEccI5j1J92D9ZYz2PgHs25RtVCUIqqOf4cc1HgbvacqnjzXTdpkWqQTXMXNJR5ljGqlDmE3FRfFzj9/9VzxtDRgyxkz37oWW850osTQ7c6w3h/LuYOylpEIig7SKcp0+SAiLUq54raJhJBwU4ylLT2vAiW0jQ9lew6vaqUSYrJ7Apv3jRkaJom40kUg8fOMk1nVIz68ySSmhpvZAxm7UMOpFvB4dUBIsUts9Eu/KK+ZKN9PMu4zT0DBi9b3edhKYL1u3lxAnVCblUExN+U/kJ1NM9XoLwn9OtMDk/eUPHM5Fd7VhECMmjbaWvWUdCxAj85OZU/Mrc1vEI+LK1R/WcA=;a2zoVza2h89lKXXxpC2K5A=="
 ---
 

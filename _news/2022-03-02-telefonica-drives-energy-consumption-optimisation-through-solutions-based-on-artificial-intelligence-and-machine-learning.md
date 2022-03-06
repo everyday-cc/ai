@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telefonica.com/en/communication-room/telefonica-drives-e
 cdnAmpWebUrl: "https://www-telefonica-com.cdn.ampproject.org/c/s/www.telefonica.com/en/communication-room/telefonica-drives-energy-consumption-optimisation-through-solutions-based-on-artificial-intelligence-and-machine-learning/amp/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -27,21 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "How to build AI into your organisation"
-    excerpt: "Artificial intelligence engineering brings together various disciplines to tame the AI hype, while providing a clearer path to realising value."
-    publishedDateTime: 2022-03-01T07:19:00Z
-    webUrl: "https://www.itweb.co.za/content/5yONPvEgj6OMXWrb"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/5yONPvEgj6OMXWrb"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/5yONPvEgj6OMXWrb"
+  - title: "Speech recognition startup raises $400,000 for next-generation transcription technology"
+    excerpt: "London-based AI startup Alchemy Machines has raised $400,000 in pre-seed funding. The round was led by SFC Capital and saw the participation of Innovate UK. The new funds will support further development of the platform and expansion of the team."
+    publishedDateTime: 2022-03-03T14:20:00Z
+    webUrl: "https://tech.eu/2022/03/03/speech-recognition-startup-raises-400000-for-next-generation-transcription-technology"
     type: article
     provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 59
+      name: Tech.eu
+      domain: tech.eu
+    quality: 46
     images:
-      - url: "https://lh3.googleusercontent.com/qXhtGqfRmvYJemNXeBA1UrYupb6q0DGm9VELa4ioE_d74vqV-zZ7Q3LsZMF56J9dCI16rcZK9SdVHmDrToHkwC8PWErMndcvJ0M=w816-h428"
-        width: 761
-        height: 428
+      - url: "https://cdn.tech.eu/uploads/2022/03/untitled-design-96-861.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Behind Mitsubishi’s AI-powered scene-aware interaction system"
+    excerpt: "The navigation system leverages proprietary Maisart compact AI technology to analyse multimodal sensing information and provide intuitive driving instructions."
+    publishedDateTime: 2022-03-03T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/behind-mitsubishis-ai-powered-scene-aware-interaction-system/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Behind-Mitsubishis-AI-powered-scene-aware-interaction-system.jpeg"
+        width: 2000
+        height: 1334
         isCached: true
   - title: "3 ways AI optimisation can revolutionise the financial sector"
     excerpt: "Financial services are increasingly implementing AI technologies in order to help analyse massive volumes of data and identify market trends."
@@ -57,6 +69,15 @@ related:
         width: 500
         height: 749
         isCached: true
+  - title: "Deep learning guided optimization of human antibody against SARS-CoV-2 variants with broad neutralization"
+    excerpt: "SARS-CoV-2 continues to evolve through emerging variants, more frequently observed with higher transmissibility. Despite the wide application of vaccines and antibodies, the selection pressure on the Spike protein may lead to further evolution"
+    publishedDateTime: 2022-03-01T22:13:00Z
+    webUrl: "https://www.pnas.org/doi/10.1073/pnas.2122954119"
+    type: article
+    provider:
+      name: PNAS
+      domain: pnas.org
+    quality: 17
 
 secured: "pd+7MQyn4FKGFiDmoy2I7IakDRLRr798y5kUhfwfQO9amYcPio0Tn8nooDwpRmGjH+PFrV1Z3zFqdpseoXULRHA5WT0yC6631p8rVNtS0DP8+LSUul2Ogo6RcmansXRCQoaYD1N5MZFaXt8wpnoAe0C4jsPOeEKpng7eDB9nsPXh9Gp4d7oGjhmjPQX6rH3rOAFzk/6BlZX8mqvbBFzr6AxaMKb5ilrx5M8OTvaWENCh98ODfQqdeZkLxz0J38ur9nZfPivvbud3d92XSfbAVcKQqBdh7pkqcHPLOO2jdpQ2XLDCwb6KPlk8GO4A3PSXiiioJyAQqxfbz05lXr/GufuW0LwoAPGQd1jht7eaQPNhMZEFjksmE3M/RTqXqXAgUTlHPgI9tME4a5u3Sav2S+ppWbxEYrSqNsMNXRMkqTQorNajLJ5u+NkIANw9L2I7oewIOUfTJX3PX+uDbU8Q8RTYU6irfVrZwY7Drgr8iF/8rxo7F2z1T9fo5hsTKpcJVg6VN6j2jhxT5eimH1E8vw==;5V9Ze+zUO/5MhRn6sONf0g=="
 ---
