@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20220301100935/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20220301100935/"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2022-03/GettyImages-1175954229.jpg?h=1d34674f&itok=VG9A7HQp"
         width: 1200
         height: 628
-        isCached: true
-  - title: "UAE - DIFC launches AI, coding licence"
-    excerpt: "Arabian Post Staff Dubai International Financial Centre (DIFC) announced the launch of a ground-breaking Artificial Intelligence (AI) and c"
-    publishedDateTime: 2022-03-01T19:42:00Z
-    webUrl: "https://menafn.com/1103784466/UAE-DIFC-launches-AI-coding-licence"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?897974"
-        width: 375
-        height: 250
         isCached: true
   - title: "UAE to attract global talents with AI and coding licence launch"
     excerpt: "Companies holding the license will be able to work within a stimulating environment at the DIFC Innovation Hub. UAE to attract global talents with AI and coding licence launch. AI, Coding, DIFc, innovation,"

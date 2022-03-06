@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vimaan Taps Computer Vision for Drone-Based Warehouse Management"
-excerpt: "Concept: Santa Clara’s AI solution startup Vimaan has launched a drone-based computer vision platform for product tracking and management across the warehouses. With minimum worker control, it aids warehouse managers to achieve better inventory accuracy ..."
-publishedDateTime: 2022-02-22T16:23:00Z
-originalUrl: "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/"
-webUrl: "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/"
+excerpt: "Santa Clara’s AI solution startup Vimaan has launched a drone-based computer vision platform for product tracking and management across the warehouses."
+publishedDateTime: 2022-02-22T16:18:00Z
+originalUrl: "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/?bingParse"
+webUrl: "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/?bingParse"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 333
     isCached: true
 
-secured: "QrgvzXV32g3NBXK5skRPrrSoa2YTyXMHZIdt9wOe3vRSK3hKPmxrXhnSwkHyZrgA6+N+WdsbGY4ia6yvdMplAVD42afsXfMfca5WqzhK61yxU1BP21d+R+45bXPH732CvSGxh/BcQdSHMEuhTapGGcCU5x+wLdmkUP1xZstuoN1McPE7P+vkT5OsKA4VkJbWZDqxo/2hxkwm6qNmTU/lQ+K3RC+EFQ7R8txm+BZ148P7ESlV9D9JbcmwyvtCiXTu9iXLC2qOUweEXWHg+5rxN8BXSKQz3CFGFIgrdJl5Gjz9LTVIzNPD40wypvPZjlWk7UOlhB2GywVBbWKaram7BB93c374jZyoVafC1SeVT74njsDD/LGcI8IR6a81rCULjD5gFtJ/emsNSs4/arsVyGTJY4HpR0TkOoAAjUjDVK5aWNljPC47Bu5x9h2CR32AxsCNHwM9Mt36ptolnEhIXb2gdOPe8FXkt0qOIGZmzUBkmlkHEL5HrkMAiJqD7Tlh4fFiZQUefW7NunIggv0Acg==;HU4kElZmmpk6Sg5LsuwmvQ=="
+secured: "yFnI29SlvucWNMQfcQfHZdAGdMMv952QYtDeqUnv7aJQaEPT7JqescttI+vaUYnCIaEl/p1iP1jlt8jijHUJyyt9BN7HxchnZ23ghUA4YI5iy5Ixc6RediHxQcZAegM2cqnwqpE0xlna+b7Yo7YqFihcO5c8NU00i4FJkJa0JAMIi4xTRg0KhxEZW7y40b8+dthX/Nt4FIu/sZTwQheAleYIQaIcynPdCjM2Y+hG43Nd6q+YGYaOd4Pxi/286bN4RuSRO+HM5XJAuqHdbMlaJ4h+V+czp+yVsZgrBO++9KuxKU+Eu5etw7Vatnkjg+EchB1q+Ic7k+Q9o+4JJCxYi1cobMemiMHxBdKi8VAwlgU=;YjvY6o3putqTzBWGmQEmzw=="
 ---
 

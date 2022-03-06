@@ -2,17 +2,19 @@
 category: news
 title: "Tesla and the ethics of self-driving cars"
 excerpt: "Self-driving technology has come a long way in recent years, but it remains far from perfect. And that's partially because of decisions made -- not by the cars -- but by programmers."
-publishedDateTime: 2022-03-03T14:00:00Z
-originalUrl: "https://www.kuow.org/stories/tesla-and-the-ethics-of-self-driving-cars"
-webUrl: "https://www.kuow.org/stories/tesla-and-the-ethics-of-self-driving-cars"
+publishedDateTime: 2022-03-03T05:14:00Z
+originalUrl: "https://www.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
+webUrl: "https://www.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
+ampWebUrl: "https://amp.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
+cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
 type: article
-quality: 56
-heat: -1
-published: false
+quality: 76
+heat: 86
+published: true
 
 provider:
-  name: KUOW
-  domain: kuow.org
+  name: WBUR
+  domain: wbur.org
 
 topics:
   - AI in Autos
@@ -20,9 +22,9 @@ topics:
   - AI Ethics
 
 images:
-  - url: "https://kuow-prod.imgix.net/store/6023b3dacd9aac14703ea05a20f4c3e4.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-    width: 942
-    height: 628
+  - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/03/GettyImages-1232832894.jpg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
@@ -43,6 +45,6 @@ related:
         height: 1133
         isCached: true
 
-secured: "G+Twro2/QEe3BTiHkltWJiGdVko976To2j0t3xECmMTOpH+6xGdY4erbb1XPAqSc3xTzA/vtXj3JyjTZh4/gD3WNT7osgdEY3vco6atopjvjGGe8EirZ7og//TN31H1ZkVACHv5y+TN0STIbaCSc+PO5Cgx9/cXjAYxhuEXuLQjxZgPNk5MMSiL8LyMLNYyGQqyQ2XvrrponfRm1zrp7tVWJgqlUqv4btrnf3OdHAqSTQSwh7vITcgTNp8m36ab8M+YA7glXxeIkEYoZuyaUBV78kFNZo/pb7DsQRksIc+DZejSyEx8NxjmUGo1Lona+GMgx2dE2t5EW9BLf+BF5RDw//YO0qkcbU4DY07g+vgw=;kb5uC2Xbk3tD5XG5qCc3Mw=="
+secured: "su6a77MWNt6lqgd1TPUuRG9N7F28IGX5PigcpP9SLPzWOPaL0VCjxe0MvKAyKLbkXYgBWabvJnmyDfK58w2xfVwNpw0pei1xTyotH6+uUjzl/OLq1XracbkORDUWmD4ROrBf2rBylPbQ/WT/m3hAlTRHpW8uMHbPTVaBMmJCJ8SgpcBJgjOlRvM9TFo/3W1Tp5yNuYpL1m0ounOmm8L8RDtq3MeS9G8CQHPJlzWH9h40hEkQuyNuSRi6Znzzkl3S3Jq3EHQWh2UqhmSumdJTaI+7K7mZTTD27pS6B0VQxjlyaRbEnP8+uewtY5Ld+9rjp1AXYVgGH/HGGDX/Kd8PF1KX0KDp61GYbG6ypYJ2pTQ=;Dg3/9jTXPsgAzdNbPx5/jA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/02/level-ai-which-provides-call-cent
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/level-ai-which-provides-call-center-automation-software-raises-20m/amp/"
 type: article
 quality: 187
-heat: 227
+heat: 217
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
         width: 256
         height: 256
-        isCached: true
-  - title: "Fraud Prevention Startup nSure.ai Raises $18M in Series A Round"
-    excerpt: "Fraud prevention platform nSure.ai has raised $18 million in Series A funding, led by MoreTech Ventures with additional investments by"
-    publishedDateTime: 2022-03-01T19:25:00Z
-    webUrl: "https://www.corporatecomplianceinsights.com/fraud-prevention-startup-nsure-series-a-round/"
-    type: article
-    provider:
-      name: corporatecomplianceinsights.com
-      domain: corporatecomplianceinsights.com
-    quality: 39
-    images:
-      - url: "https://www.corporatecomplianceinsights.com/wp-content/uploads/2022/03/series-a-funding-nsureai.jpg"
-        width: 1500
-        height: 1125
         isCached: true
 
 secured: "IvLb3V7f7UduRKg80nz24fWkJ3YpzYQW4b4I82CAlBXd5nQ6pf+ZxYVaNCleTBRO8giHv3brhAceJfvh5FQwxUMv3ssTF8qq/iY+K7h2dTvzDRx9id36sJ9kRYWAOeelUa4IzaAeP/r3h4PwAf+HS8rp6GL7Mtz5bbr5xj0Gmv1dDJKqYSGFDRfc/0BZgfuMTLkdej6+mIYaFvTBeTNc65Un+IxrbVFJcTCH/iUOsOZobuj+ZchXvu4FKchVTn9JWCUZ2pM++c4xQG5wrKxz2YO/w/yhudVHDgR9YuOh35JJdvQWZ9tQaxjC65BGCuZ0aAMWFDjD47+GWudhygB2Lc6kF8QnTqkH8ehHBGFTQ56PQUstNAKEJNM1SAPArJB+UZQE/cfKZqrpk4ZIgFWPIbo735CobWNNByKfUaiB5CiHKK4bLKoisd10R9xFyVQ/AtOId0uZ+8EBsHHglu/VgMzakBjmNpc9Fx7jzy6Lmk7zg/GekZJevUoX2LlvFTXNxb16qgD4WdCasCNLm3E2Q7n3HCClm0lsAAlY32UU3t8=;yV6JN4QcJk6C+mGKEomatg=="

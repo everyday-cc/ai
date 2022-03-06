@@ -71,20 +71,6 @@ related:
         width: 800
         height: 453
         isCached: true
-  - title: "Fraud Prevention Startup nSure.ai Raises $18M in Series A Round"
-    excerpt: "Fraud prevention platform nSure.ai has raised $18 million in Series A funding, led by MoreTech Ventures with additional investments by"
-    publishedDateTime: 2022-03-01T19:25:00Z
-    webUrl: "https://www.corporatecomplianceinsights.com/fraud-prevention-startup-nsure-series-a-round/"
-    type: article
-    provider:
-      name: corporatecomplianceinsights.com
-      domain: corporatecomplianceinsights.com
-    quality: 39
-    images:
-      - url: "https://www.corporatecomplianceinsights.com/wp-content/uploads/2022/03/series-a-funding-nsureai.jpg"
-        width: 1500
-        height: 1125
-        isCached: true
 
 secured: "ewZzkxY7WcN8twnda0kNRi0447ZGzWOkFPhuUNj8IzAxahP52GlaiJjhzTdaLvyzeIUuKEOwFXJE//YeZfvnzEtPwSkrifrq0iU2Khsrgtk3gaz6WAkdyowFGsoT1QVWVCV7WYCLIgWRxmxozyWXBnfwLT7PAQBRsfyFFVh4owRbHt3eJFzEivcy6jP6Msmhn34HctilUxumwlWwpYc4GQhvS4QJRA1Fp9bVrhnHTct2D9tA9QbTxLXWhEV1IVsA47DgSOeDoBT8j2RS4HUfH9fKRygcK6QkyPDqxkurr3TWUdmml4rWSuDN4W7fI/NEKyqRUOgN1NAYVV4rSmbIH6iCvfFdMkM4IuKuoRQE7tE=;n6c7g3RuhTZrcmePdy0xdw=="
 ---

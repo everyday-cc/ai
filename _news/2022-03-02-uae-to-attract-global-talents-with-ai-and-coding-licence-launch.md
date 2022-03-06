@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "UAE - DIFC launches AI, coding licence"
-    excerpt: "Arabian Post Staff Dubai International Financial Centre (DIFC) announced the launch of a ground-breaking Artificial Intelligence (AI) and c"
-    publishedDateTime: 2022-03-01T19:42:00Z
-    webUrl: "https://menafn.com/1103784466/UAE-DIFC-launches-AI-coding-licence"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?897974"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "D8uS0KYwcI7rDkgTYrSFHOQZKL6UFfRC49xOuGw/tgAdXYURSkfVJkZJTYJ1fnENaO7zlpuk3VJuyDrISDYkm5+riwJUQQzSc9GbVko5VDuOzcAlfftXSaF3QAweWHzTaRlLz7nFo9+BE9FU/HND/Zm+iOc4hEYT51UNhfGTYCa7U6eTmwPpknREuCguii43uLH6mNgs8dnYeVVHclhrhCsDbcgXiuGoWa4DRpvmAIrG3JF/5k4SL+1sV1vFl2a7EYh07vADOA0jvFntR+EA9a2CQRDCSkXkolEOdpG7Bqn/zUz0ZgyQfBUPUsWoUC7lvDi4BNU6ZUf37BUXTQUX9YOJHn9ojd74H4vktGLB8a4vejpD0KP3Ew4HJDpCziKzFXJgT4VuUoHYFzmBLvuEamO7Tnuq8BjYBV+d9FjuUPcNZiY5iY/QYKA7wKSpj6UDICFmnn4YhI8Sz684XIYDeOstoZseuxkA7AVHgwcLr0hz34c0u1ljIHynraI9NSN7K3A4NkQ8hGfU6SUL8QZJwQ==;GEIOGx3bPtMi1HGjcxjqyw=="
 ---

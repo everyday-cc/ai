@@ -55,22 +55,6 @@ related:
         width: 3500
         height: 2333
         isCached: true
-  - title: "Intelligence, information warfare, cyber warfare, electronic warfare – what they are and how Russia is using them in Ukraine"
-    excerpt: "Russia has one of the most capable and technological militaries on the planet. They have advanced intelligence, information warfare, cyber warfare and electroni"
-    publishedDateTime: 2022-03-01T20:02:00Z
-    webUrl: "https://www.seattlepi.com/news/article/Intelligence-information-warfare-cyber-warfare-16967638.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/Intelligence-information-warfare-cyber-warfare-16967638.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Intelligence-information-warfare-cyber-warfare-16967638.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 30
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
 
 secured: "+Fmj3c65YWd0o4yTG8LlsrtWvXJPPTkvq3UQ9y9CcANjQxBdyZu+Rxr10I9beiFQu0mQxs1NbU1xGl4aEh5iZmRGrgeaYNfKnEQ3G23bacbHRecWehTZI0+4FSmJ+utibbo6j5ILXS9RiWBD+PFXfgUiQU/Eal630jxiONmfmBV6KUmH9oemtapxWMgYRSHIdJXIznSufvB2G7iDoSPBEZUSrwjjp2hqaaLSOMGVLpYkpKlXgcomZ8if7Pqz3xdCI63vv3XujUVE7yslxdJ2U1ekeKJEPY0sg1jNYBVikpt1KCAsePTeK+JHMTMt3SD43IEWcHuyVewuSRzygM9zGV3M73Cj0dIsi1t/qpoP4Ps=;l5uSJS0vlma0chr+bIDNPg=="
 ---

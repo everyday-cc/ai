@@ -24,6 +24,22 @@ images:
     height: 616
     isCached: true
 
+related:
+  - title: "Davido O2: Singer Bags Special Recognition As Outstanding Global Citizen of Belize, Receives Plaque"
+    excerpt: "Davido has added another nationality to his list. The 30 BG musician was recognized as an outstanding global citizen of Belize at his recent O2 Arena concert."
+    publishedDateTime: 2022-03-06T10:56:00Z
+    webUrl: "https://www.legit.ng/entertainment/celebrities/1458752-davido-o2-singer-bags-special-recognition-as-outstanding-global-citizen-belize-receives-plaque/"
+    type: article
+    provider:
+      name: legit
+      domain: legit.ng
+    quality: 10
+    images:
+      - url: "https://netstorage-legit.akamaized.net/images/612837208e7917ba.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "u79UsAUNsRM13RUjRKlYS+oksjyjjDAMBzb7TitiWcM9sFWwBGNRjdFrS+QovEdGsJaCUf2H3HR0umIo7iv2to30lRPVYTK2AkoNJWv2Z26qDSPPZ+oVA+fV+hmpQKVlN3muzfZUCPiisdUd+ZEhIussTxEnLvnTm/tKWb9aot5KT2eCcIR2lnQnJ1EPaLoxpUEMTU3GukoBsfGd5z+khn+xf2vh9NWjfXh96VNXCJTzikJZSfRIYJpDGAdcuJwhlqKnYUtasakOqulJbCNEzFQ0+9b6BwGBcW/Fr9dz0y4WiproHKchzWFf9GPw/7RE0t1Zktoxch+/+cdHyzBUTvlSTJ1SYDmPdrFT8UOkt50CecoM0kV+C59H7l18ObQNV83BdZU6Y3JXMgBi9nS04KD+X4D6uN5ub+WrZP4SSJygCK9ZF7LmTPUcS+vbM+hddq1Y7yA5ym+1STWcjHvyvzUmAHFNvijdeFGrgsU1mLgqr06ULG7GUa2x7fIEZAPvUiWJbwkgkFNFx1Uihb2QNw==;Q3N++vtTewIqOhjLQReT6w=="
 ---
 
