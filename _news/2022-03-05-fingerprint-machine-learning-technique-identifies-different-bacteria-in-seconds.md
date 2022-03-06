@@ -39,6 +39,22 @@ related:
         width: 650
         height: 624
         isCached: true
+  - title: "Deep learning-based SERS analysis platform offers a fast and effective way to identify bacteria"
+    excerpt: "There may be a quicker, more accurate process according to researchers at KAIST. By teaching a deep learning algorithm to identify the \"fingerprint\" spectra of the molecular components of various bacteria, the researchers could classify various bacteria in ..."
+    publishedDateTime: 2022-03-04T00:00:00Z
+    webUrl: "https://www.news-medical.net/news/20220304/Deep-learning-based-SERS-analysis-platform-offers-a-fast-and-effective-way-to-identify-bacteria.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220304/Deep-learning-based-SERS-analysis-platform-offers-a-fast-and-effective-way-to-identify-bacteria.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220304/Deep-learning-based-SERS-analysis-platform-offers-a-fast-and-effective-way-to-identify-bacteria.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 47
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/bacteria_-_Sebastian_Kaulitzki_46826fb7971649bfaca04a9b4cef3309-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "'Fingerprint' machine learning technique identifies different bacteria in seconds"
     excerpt: "Bacterial identification can take hours and often longer — precious time when diagnosing infections and selecting appropriate treatments. There may be a quicker, more accurate process, according to researchers at KAIST."
     publishedDateTime: 2022-03-03T00:00:00Z

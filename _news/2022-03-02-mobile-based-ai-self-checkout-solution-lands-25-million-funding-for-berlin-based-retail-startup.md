@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Israeli predictive AI fraud protection startup nSure.ai raises $18M"
-    excerpt: "Israeli predictive artificial intelligence fraud protection startup nSure.ai Ltd. announced today it has raised $18 million in new funding to allow the company to extend anti-frau"
-    publishedDateTime: 2022-03-02T00:58:00Z
-    webUrl: "https://siliconangle.com/2022/03/01/israeli-predictive-ai-fraud-protection-startup-nsure-ai-raises-18m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/nsure.png"
-        width: 820
-        height: 312
-        isCached: true
 
 secured: "eS+DZjE5YNrr3ka8cBTurQty8wt1qgjg3U9LDI44B0yodZnKgXdQ/vuiZBYg9huSPDqi1h27Wiw/vwtLoLzq+7MN2kK9Ut+3OAIH2X/utxG+BfmhTK0jIPx7+Fuc+YPArPwbJmBn0TnzyGbb9LqrMdlEbHeFJeFNAXi5Uf8LLvLaveEqY5h2CMWhMUccxwAZXf16nFNSztPrAONr/5cwACJjzUCimBOaeX0b6uLlZehMLltWSBF8BOt9DTWkf9KEW0xn15HUJaXNh1uGMSWjghc+cG0et+G+uhX8qHZvmxKTMgd4kGRPcK41ad3NjP9snqEDqwlfTpKByvh5lSu9PZObPiOVZmlGOwQN/Zd3XTA=;xXSS10XRItCGJQI3JLVCLA=="
 ---

@@ -89,20 +89,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Making data a first-class citizen through responsible AI"
-    excerpt: "Gaining value from data insights became a high priority, and businesses saw the power that AI could bring. “Organizations are really thirsty to figure out how do we actually add customer value,” said Vidya Setlur (pictured),"
-    publishedDateTime: 2022-03-01T23:28:00Z
-    webUrl: "https://siliconangle.com/2022/03/01/making-data-first-class-citizen-responsible-ai-wids2022/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/Vidya-Setlur-WiDS-2022-pre-event.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "vX1L+yPnFjWJF5EV++qdne3pAtRvPynVFNbUYKx65qZzzP3oAUuh03gbITUKZqwzhxgi8bfR8lpmyYNtfkgbBC73USuFMCvdUehwL9CxFtUnag1Qz88ymTFsv37BHF2reaJHUSWbX0in8/hEsC73xMmHb2d6bV6/UfwgsKdAqGrPiYaCpCsd6taP/SOmn4OaoVWMM1f85AJsjHlcRsQxkM6qISrITYd1V8noSM0VABtbxUl3ayucpGgpApJ2xvawk5g0CUghIeMT+VTkemAiXSf6kvcUtPHiqflO01n+dQRxX8ObSzrZjxoKw4ILbM0B1cNyvhG3GM4g1SFQG/0nFaSjzKqKYD159raVOFUHgFo=;mzjzRq79HG+ASVUEUV2Pow=="
 ---

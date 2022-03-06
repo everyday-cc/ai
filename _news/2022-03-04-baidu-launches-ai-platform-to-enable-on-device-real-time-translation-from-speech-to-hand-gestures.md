@@ -9,7 +9,7 @@ ampWebUrl: "https://www.asiaone.com/business/baidu-launches-ai-platform-enable-d
 cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/baidu-launches-ai-platform-enable-device-real-time-translation-speech-hand-gestures?amp"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -27,33 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "China’s Baidu beats quarterly revenue estimates on AI, cloud services"
-    excerpt: "Chinese search engine giant Baidu Inc beat quarterly revenue estimates on Tuesday, powered by growth in its cloud business and AI initiatives."
-    publishedDateTime: 2022-03-01T23:13:00Z
-    webUrl: "https://www.dealstreetasia.com/stories/baidu-revenue-2-283182/"
-    type: article
-    provider:
-      name: dealstreetasia
-      domain: dealstreetasia.com
-    quality: 39
-    images:
-      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/04/baidu-1.jpg"
-        width: 976
-        height: 551
-        isCached: true
   - title: "Baidu Launches AI Platform to Enable on-Device, Real-Time Translation from Speech to Hand Gestures"
-    excerpt: "Baidu AI Cloud, a leading AI cloud provider, launched an AI sign language platform able to generate digital avatars for sign language translation and"
-    publishedDateTime: 2022-03-03T13:37:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/baidu-launches-ai-platform-to-enable-on-device-real-time-translation-from-speech-to-hand/article_5a3d784a-3326-5726-80d0-bdc2aaa95f80.html"
+    excerpt: "Baidu AI Cloud, a leading AI cloud provider, launched an AI sign language platform able to generate digital avatars for sign language translation and live interpretation within minutes. Released as a new offering of Baidu AI Cloud's digital avatar platform XiLing,"
+    publishedDateTime: 2022-03-03T15:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-launches-ai-platform-to-enable-on-device-real-time-translation-from-speech-to-hand-gestures-1031251920"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 25
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/55/f55136c9-7cd7-5c1d-8127-5712430d105f/6220d5bfbec14.image.jpg?crop=1084%2C569%2C0%2C4&resize=1084%2C569&order=crop%2Cresize"
-        width: 1084
-        height: 569
+      - url: "https://mma.prnewswire.com/media/1758980/Baidu_XiLing_Sign_Language_Digital_Avatar_Logo.jpg"
+        width: 400
+        height: 213
         isCached: true
 
 secured: "tVcFIz2B7DtNssfED5RYMcP/QuHBrljpaUhXyJUvuOcyQyHAtk64W2N7hpC2cDLAIFAIlehM1cOOY1Nf4UNIFDsGCtMpTZ/jsH1oN4D4G7RM7r80L7PQ/0MABssWHCfUB6hD9fv2/uVL47We98F+lwIgc+GKysNNUBHbzYAVCnTDT7UN0u2szsrL4pTyJisSv4/0Y6Uuqb9GnAiNI0UCylc0PoIp8LU57FQzGYq+IKYpF0Of0q/qG3ojAhklUxLCL/u4rcFfPf+j6VtdqO6GrWTk48Y9Lvs4LwoLYnzvIq9Sm67NZz9e8XXKbbw8WwYw2SAlxyl0rOXYdbpel6SZbys4QNHZmOUJwoXNqKz8Omw=;9+eW4+QA5F7HyLSiA9BjcA=="

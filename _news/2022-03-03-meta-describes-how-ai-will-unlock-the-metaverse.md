@@ -79,20 +79,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Making data a first-class citizen through responsible AI"
-    excerpt: "Gaining value from data insights became a high priority, and businesses saw the power that AI could bring. “Organizations are really thirsty to figure out how do we actually add customer value,” said Vidya Setlur (pictured),"
-    publishedDateTime: 2022-03-01T23:28:00Z
-    webUrl: "https://siliconangle.com/2022/03/01/making-data-first-class-citizen-responsible-ai-wids2022/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/Vidya-Setlur-WiDS-2022-pre-event.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Inworld AI Raises Investment from BITKRAFT Ventures, to Bring AI-Powered Virtual Characters to Metaverse and Games"
     excerpt: "Inworld AI, offering a platform to create AI-powered characters for virtual worlds, including VR/AR, games and metaverse applications, today announced a $10 million strategic funding led by BITKRAFT Ventures,"
     publishedDateTime: 2022-03-04T20:37:00Z
