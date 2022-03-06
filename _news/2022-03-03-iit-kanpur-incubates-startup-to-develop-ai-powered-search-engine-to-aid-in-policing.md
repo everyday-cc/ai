@@ -9,8 +9,8 @@ ampWebUrl: "https://www.freepressjournal.in/amp/education/iit-kanpur-incubates-s
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/education/iit-kanpur-incubates-startup-to-develop-ai-powered-search-engine-to-aid-in-policing"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: The Free Press Journal
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Kanpur startup uses AI for crime mapping and policing"
-    excerpt: "The search engine will use predictive policing, crime mapping and analysis to quicken the investigation policing process, FCRF said."
-    publishedDateTime: 2022-03-01T10:15:00Z
-    webUrl: "https://analyticsindiamag.com/iit-kanpur-startup-uses-ai-for-crime-mapping-and-policing/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/IIT-Kanpur.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "IIT Kanpur Incubates Startup To Develop AI-Powered Search Engine To Help In Policing"
     excerpt: "Indian Institute of Technology Kanpur's Centre of Excellence (CoE) has incubated Lucknow-based thinktank Future Crime Research Foundation which is working to develop a first-of-its-kind AI-powered big data search engine to help in policing."
     publishedDateTime: 2022-03-02T14:37:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2022/03/03/these-ai-mistakes-are
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/03/03/these-ai-mistakes-are-slowly-killing-your-customer-experience/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
     images:
       - url: "https://www.cuinsight.com/wp-content/uploads/2021/12/bigstock-Artificial-Intelligence-Ai-Bu-435740897.jpg"
         width: 1000
-        height: 500
-        isCached: true
-  - title: "83 per cent of Indian BFSI players think AI is compulsory for better customer experience"
-    excerpt: "A survey conducted by PwC in collaboration with FICCI showed that about 83 per cent of the respondents believed that AI is key to offering a better customer experience in Indian financial service companies."
-    publishedDateTime: 2022-03-01T10:27:00Z
-    webUrl: "https://analyticsindiamag.com/83-per-cent-of-indian-bfsi-players-think-ai-is-compulsory-for-better-customer-experience/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 30
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/photo-1462206092226-f46025ffe607.jpeg"
-        width: 753
         height: 500
         isCached: true
 

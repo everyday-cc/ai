@@ -39,22 +39,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "Outlook on the Wireless Mesh Network Global Market to 2028 - Rising Applications in the Healthcare Industry is Driving Growth"
-    excerpt: "The \"Wireless Mesh Network Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The wireless mesh network market is projected to grow steadily during the forecast period."
-    publishedDateTime: 2022-03-01T09:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/03/g25896974/outlook-on-the-wireless-mesh-network-global-market-to-2028-rising-applications-in-the-healthcare-i"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25896974"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25896974"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Morphean's white paper highlight the rise in flexible working beckons shift to automation and AI for security industry"
     excerpt: "Morphean, a pioneer in Security-as-a-Service and cloud analytics, has announced a new whitepaper that explores the security challenges associated with the growing prevalence"
     publishedDateTime: 2022-03-02T10:50:00Z

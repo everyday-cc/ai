@@ -1,20 +1,20 @@
 ---
 category: news
 title: "How AI-powered tech landed man in jail with scant evidence"
-excerpt: "Michael Williams’ wife pleaded with him to remember their"
-publishedDateTime: 2022-03-05T23:28:00Z
-originalUrl: "https://www.thetelegraph.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
-webUrl: "https://www.thetelegraph.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
-ampWebUrl: "https://www.thetelegraph.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
-cdnAmpWebUrl: "https://www-thetelegraph-com.cdn.ampproject.org/c/s/www.thetelegraph.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+excerpt: "Williams was jailed last August, accused of killing a young man from the neighborhood who asked him for a ride during a night of unrest over police brutality in May. But the key evidence against Williams didn’t come from an eyewitness or an informant;"
+publishedDateTime: 2022-03-05T22:26:00Z
+originalUrl: "https://www.ourmidland.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+webUrl: "https://www.ourmidland.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+ampWebUrl: "https://www.ourmidland.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
 type: article
 quality: 57
 heat: 67
 published: false
 
 provider:
-  name: The Telegraph
-  domain: thetelegraph.com
+  name: Our Midland MI
+  domain: ourmidland.com
 
 topics:
   - AI
@@ -38,6 +38,6 @@ related:
       domain: omanobserver.om
     quality: 37
 
-secured: "Sv+2ccTHP7qOOftXJFStFEccI5j1J92D9ZYz2PgHs25RtVCUIqqOf4cc1HgbvacqnjzXTdpkWqQTXMXNJR5ljGqlDmE3FRfFzj9/9VzxtDRgyxkz37oWW850osTQ7c6w3h/LuYOylpEIig7SKcp0+SAiLUq54raJhJBwU4ylLT2vAiW0jQ9lew6vaqUSYrJ7Apv3jRkaJom40kUg8fOMk1nVIz68ySSmhpvZAxm7UMOpFvB4dUBIsUts9Eu/KK+ZKN9PMu4zT0DBi9b3edhKYL1u3lxAnVCblUExN+U/kJ1NM9XoLwn9OtMDk/eUPHM5Fd7VhECMmjbaWvWUdCxAj85OZU/Mrc1vEI+LK1R/WcA=;a2zoVza2h89lKXXxpC2K5A=="
+secured: "DlkUvFPW52IkW03viQUQqOzFk6WyfFLI2mTawtR+p5Z8wUFaxjMu2XPKxAc/2PxlA/1adWGV9oMmj5yasxXNEN4lvEZupJAEFlLiBEsS5QN/j+buH1Cj5FPnF2I1nDS1kuZc2Tha1IzxJ1N2LJkSCzqGIdquHHoUFJ4vv0tI6cEW2WOvXNpUpK0g5t8gCcdIQX5rxIwppj54X5z99J883g2POTPzRwMWcj0KVop6Y6WgnJHAHAYuGP+fE7r8znVdax3Xv8LBBnHY5EitX6tWSt+xQgdDbQXvNOpxHA7HQZQMmJJkzOykCCoNORNiWfcgEhlxGtmoVc8GjX0xU0Q1mLnxUQy6iM9+VeqkEPT+4S8=;LDc+HM2uJrgdBmx4gv2eQw=="
 ---
 

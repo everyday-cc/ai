@@ -55,20 +55,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "83 per cent of Indian BFSI players think AI is compulsory for better customer experience"
-    excerpt: "A survey conducted by PwC in collaboration with FICCI showed that about 83 per cent of the respondents believed that AI is key to offering a better customer experience in Indian financial service companies."
-    publishedDateTime: 2022-03-01T10:27:00Z
-    webUrl: "https://analyticsindiamag.com/83-per-cent-of-indian-bfsi-players-think-ai-is-compulsory-for-better-customer-experience/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 30
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/photo-1462206092226-f46025ffe607.jpeg"
-        width: 753
-        height: 500
-        isCached: true
 
 secured: "ru/V9cEd9FdGT3rz0CTKpBoyT7mIbJlbkRrK0ciLn8iHq+XdOplYCa26OvsyPh7inQpbjyBGUilbZ6A/Ak6j3CxEnYBLmzFvRmiiUwB9LfbRt72ChD/4gWdRbAbecD1iCmw7pQpcomzFqA/c6t1VaNRcibhlgFDA1COlKT8thv/WS3s0xgFQ28uiN+VObFW8UrQMCFRDdKhhXwX4SwE+oV1gGtkbkjkAJUHcgCrXB/p8ZPfs4ep1MzQJy4zTkBQIw9DzCgjuluRcRQGAJcpBf9DYWi6HcfDQX2T8Ijv5R2irl1FCWoN+bSV4FH7GGWFv6fjFaHto3FOyH5nWgCZymMT9xtodq0NuCQWZwEqQ9PTLlxagoq7EFN3zEXaKIuJRTJfN5aqOvH918dksjeq6N2a4mQyeRrso8zyDgh/z6eGxpIJgCqoz3fMwvhKA9a/ALMVd5z4zw/97hhKuRNz/04PV8WjFNHDHFSfKVQXefFs+9hDgeTT/Fvng/FjH9vDxVjB7TUmRyP+VAx0ObJKU5Q==;aapzeT1uuFHm1wsmzR46Xg=="
 ---

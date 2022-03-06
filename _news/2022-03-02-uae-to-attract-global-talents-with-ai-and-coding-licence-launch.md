@@ -35,34 +35,6 @@ related:
         width: 1199
         height: 800
         isCached: true
-  - title: "New artificial intelligence and coding licence in Dubai"
-    excerpt: "In collaboration with the UAE Artificial Intelligence Office, the Dubai International Financial Centre (DIFC) has launched an artificial intelligence (AI) and coding licence. The licence ..."
-    publishedDateTime: 2022-03-01T09:02:00Z
-    webUrl: "https://gulfbusiness.com/new-artificial-intelligence-and-coding-licence-in-dubai/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 52
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2021/03/DIFC-Gate-Building-740x493-1.jpg"
-        width: 740
-        height: 493
-        isCached: true
-  - title: "New artificial intelligence and coding licence launched in Dubai"
-    excerpt: "The licence offered by Dubai International Financial Centre can also serve as a gateway to obtaining UAE Golden Visas."
-    publishedDateTime: 2022-03-01T09:05:00Z
-    webUrl: "https://gulfbusiness.com/new-artificial-intelligence-and-coding-licence-launched-in-dubai/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 52
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2021/03/DIFC-Gate-Building-740x493-1.jpg"
-        width: 740
-        height: 493
-        isCached: true
   - title: "Dubai economic zone launches artificial intelligence ‘license’"
     excerpt: "The Emirates is seeking to become a regional leader in artificial intelligence, and wants to attract more technology startups."
     publishedDateTime: 2022-03-02T05:28:00Z
@@ -77,20 +49,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "DIFC introduces AI and coding licence"
-    excerpt: "Dubai International Financial Centre (DIFC), the leading global financial centre in the Middle East, Africa and South Asia (MEASA) region has announced the launch of a ground-breaking Artificial Intelligence (AI) and coding license,"
-    publishedDateTime: 2022-03-01T10:34:00Z
-    webUrl: "https://www.finextra.com/pressarticle/91676/difc-introduces-ai-and-coding-licence"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "UAE - DIFC launches AI, coding licence"
     excerpt: "Arabian Post Staff Dubai International Financial Centre (DIFC) announced the launch of a ground-breaking Artificial Intelligence (AI) and c"
     publishedDateTime: 2022-03-01T19:42:00Z
@@ -103,34 +61,6 @@ related:
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?897974"
         width: 375
-        height: 250
-        isCached: true
-  - title: "Dubai: New AI, coding licence launched employees to get 10-year Golden Visa"
-    excerpt: "Dubai International Financial Centre (DIFC) on Tuesday launched an artificial intelligence (AI) and coding licence ... which is the largest cluster of FinTech and innovation companies in the ..."
-    publishedDateTime: 2022-03-01T09:30:00Z
-    webUrl: "https://menafn.com/1103780981/Dubai-New-AI-coding-licence-launched-employees-to-get-10-year-Golden-Visa"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2022-03/01/KT_4cfe0image_story.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "UAE launches ground-breaking artificial intelligence and coding license"
-    excerpt: "Dubai International Financial Centre (DIFC) has launched a ground-breaking Artificial Intelligence (AI) and co"
-    publishedDateTime: 2022-03-01T09:43:00Z
-    webUrl: "https://menafn.com/1103781193/UAE-launches-ground-breaking-artificial-intelligence-and-coding-license"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?620701"
-        width: 376
         height: 250
         isCached: true
 

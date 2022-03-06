@@ -19,37 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Fintech Startup Snapmint Raises $9 Mn To Launch Innovative BNPL Products"
-    excerpt: "Besides, Snapmint plans to expand its network of merchants and power the purchases of more than 450 Mn consumers in India"
-    publishedDateTime: 2022-03-01T09:15:00Z
-    webUrl: "https://inc42.com/buzz/fintech-startup-snapmint-raises-9-mn-to-launch-innovative-bnpl-products/"
-    ampWebUrl: "https://inc42.com/buzz/fintech-startup-snapmint-raises-9-mn-to-launch-innovative-bnpl-products/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-startup-snapmint-raises-9-mn-to-launch-innovative-bnpl-products/amp/"
+  - title: "AIS Debuts DatalanceTM Solution Accelerator Ahead of Joint Artificial Intelligence Center (JAIC) Award"
+    excerpt: "AIS (Applied Information Sciences), a leading enterprise solution provider for transformative cloud and data solutions, announced today its new solution accelerator offering, Datalance, ahead of the award of the Joint Artificial Intelligence Center’s (JAIC) Test and Evaluation (T&E) Blanket Purchase Agreement."
+    publishedDateTime: 2022-03-03T15:02:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/ais-debuts-datalancetm-solution-accelerator-ahead-of-joint-artificial-intelligence-center-jaic-award/article_b62997c4-f781-5243-9c2f-bd9fa75b8aca.html"
     type: article
     provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 58
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 36
     images:
-      - url: "https://inc42.com/wp-content/uploads/2022/03/Snapmint-social.png"
-        width: 1200
-        height: 628
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
         isCached: true
-  - title: "Fintech Startup Kuhoo Secures $20 Mn From Westbridge Capital To Invest In Technology"
-    excerpt: "The raised capital will be used to augment technology, data science capacity, and creating product and distribution innovations"
-    publishedDateTime: 2022-03-01T14:37:00Z
-    webUrl: "https://inc42.com/buzz/fintech-startup-kuhoo-secures-20-mn-from-westbridge-capital-to-invest-in-technology/"
-    ampWebUrl: "https://inc42.com/buzz/fintech-startup-kuhoo-secures-20-mn-from-westbridge-capital-to-invest-in-technology/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-startup-kuhoo-secures-20-mn-from-westbridge-capital-to-invest-in-technology/amp/"
+  - title: "AIS Debuts DatalanceTM Solution Accelerator Ahead of Joint Artificial Intelligence Center (JAIC) Award"
+    excerpt: "AIS (Applied Information Sciences), a leading enterprise solution provider for transformative cloud and data solutions, announced today its new solution accelerator offering, Datalance, ahead of the award of the Joint Artificial Intelligence Center’s (JAIC) Test and Evaluation (T&E) Blanket Purchase Agreement."
+    publishedDateTime: 2022-03-03T16:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-e8d36c32a139459bba28d558572b8c96"
     type: article
     provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 37
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
     images:
-      - url: "https://inc42.com/wp-content/uploads/2022/03/kuhoo-social.png"
-        width: 1200
-        height: 628
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "oBHIMkTIDYWOSoTjsefcjMP6KcFsEk0767xpvu5gCze4FJMQbZ2DOkD7zu7AnsTNSQLkQd3OZICgVha73EYHwZC7hL1dvwW0eIZFWLss6Uwqtp8ARza5rGz3HbO2zNQPWWzh12IRRMdfV4nJqv6/F+7dQGliXgGy+By4dmpzAeLBUrWuXA8yjA5xSokufZ2qa122U+ZMhwUQXcrwuSD0JNZ9bIQVNSE6TlVZvxU/1MdbQmh7tlAON+S/WImh6XWwio12964mRouhAXCATK/rxOKBUhCcC7bcIsZ61oEarlVYWku02KPDdbPswa/9w91lgzFaJgr6mr5MbQczHjUS3kclF3atgFWivSDFIpyBVeo=;lUzRiR1Wm5EhEUSk+PjvhQ=="

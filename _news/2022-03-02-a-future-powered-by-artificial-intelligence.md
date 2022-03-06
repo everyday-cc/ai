@@ -21,15 +21,15 @@ topics:
 
 related:
   - title: "How AI-powered tech landed man in jail with scant evidence"
-    excerpt: "Michael Williams’ wife pleaded with him to remember their"
-    publishedDateTime: 2022-03-05T23:28:00Z
-    webUrl: "https://www.thetelegraph.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
-    ampWebUrl: "https://www.thetelegraph.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
-    cdnAmpWebUrl: "https://www-thetelegraph-com.cdn.ampproject.org/c/s/www.thetelegraph.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+    excerpt: "Williams was jailed last August, accused of killing a young man from the neighborhood who asked him for a ride during a night of unrest over police brutality in May. But the key evidence against Williams didn’t come from an eyewitness or an informant;"
+    publishedDateTime: 2022-03-05T22:26:00Z
+    webUrl: "https://www.ourmidland.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+    ampWebUrl: "https://www.ourmidland.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
     type: article
     provider:
-      name: The Telegraph
-      domain: thetelegraph.com
+      name: Our Midland MI
+      domain: ourmidland.com
     quality: 57
     images:
       - url: "https://s.hdnux.com/photos/01/24/41/74/22159127/3/ratio3x2_400.jpg"

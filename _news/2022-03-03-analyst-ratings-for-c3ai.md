@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/analyst-ratings-fo
 webUrl: "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1031248762"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Mike Tyson Might Have Given the Best Analysis of C3.ai"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Having no position in data analytics and artificial intelligence specialist"
-    publishedDateTime: 2022-03-01T11:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mike-tyson-gave-best-analysis-ai-stock-1031242135"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "C3.ai (NYSE:AI) Shares Gap Down on Analyst Downgrade"
     excerpt: "C3.ai, Inc. (NYSE:AI – Get Rating) gapped down prior to trading on Friday after Deutsche Bank Aktiengesellschaft downgraded the stock from a hold rating to a sell rating. The stock had previously closed at $23."
     publishedDateTime: 2022-03-05T11:14:00Z

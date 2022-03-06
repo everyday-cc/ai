@@ -57,22 +57,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Microsoft updates Azure for Operators, adds private 5G"
-    excerpt: "Azure Operator Distributed Services designed to let telcos run workloads on a single carrier-grade hybrid platform"
-    publishedDateTime: 2022-03-01T09:30:00Z
-    webUrl: "https://www.theregister.com/2022/03/01/microsoft_azure_for_operators/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/03/01/microsoft_azure_for_operators/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/01/microsoft_azure_for_operators/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 74
-    images:
-      - url: "https://regmedia.co.uk/2019/07/24/5g_shutterstock.jpg"
-        width: 648
-        height: 432
-        isCached: true
   - title: "Uptake Fusion Announces Support to Microsoft Azure Data Explorer"
     excerpt: "Uptake, a leader in industrial intelligence (SaaS), announced today that Uptake Fusion will support Microsoft Azure Data Explorer."
     publishedDateTime: 2022-03-03T07:21:00Z

@@ -40,20 +40,6 @@ related:
         width: 1199
         height: 901
         isCached: true
-  - title: "IIT Kanpur startup uses AI for crime mapping and policing"
-    excerpt: "The search engine will use predictive policing, crime mapping and analysis to quicken the investigation policing process, FCRF said."
-    publishedDateTime: 2022-03-01T10:15:00Z
-    webUrl: "https://analyticsindiamag.com/iit-kanpur-startup-uses-ai-for-crime-mapping-and-policing/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/IIT-Kanpur.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "EZPfNIO0wZEpb1VUGAuQ2PnZZUtP36JgfchNnE+kSCzMn4ZwbTO+n5/KyH60hvtMoLFX8rZN48Ra1yHjSJyte1sqk5as3U59pbXZ1QiX/8XD3z6unU1xx0ahBOuPylObN4ImEbUgvv6kt8k+TQ8HwH0Dfi5jDktn8/I7rFg/lF0HXhaKH/1yzhYWwvQ4UHClSST2CiVQ7i+6Ef1Be+8m7y+AZb4AD1wM1EMdlb8b7Gg9RRvDGq+OVlf03REOB2qDo+akyV3/3RogeuK48nQ5W9s5uh6ekbqepwCKEBiH1njNHXlzXcZ6mPIGIc0zeq4SvJzYt5od7C/yV4qk/e0gR5Gcx0JnvM5VB8oI9DVhe6cJyob7AGwTTWUDskYFgzROroC/e+5o3MIVO/DlGq/pyWvtyFH+XndP9ImjkkrWVNodq+tIjXV2Sn3fr6b6FniLyIe11jqHtZRA/mTf6TWBYh8kYpyDIE1iOlvQq+DsxxdcweAn2Ll8LVBWxQsFMRZWZheIvw/7beRCnT2Gtjo58w==;Xp3LlJO3K9SHCj9hQZRb3w=="
 ---
