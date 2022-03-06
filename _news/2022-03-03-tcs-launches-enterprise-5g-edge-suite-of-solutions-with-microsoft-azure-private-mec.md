@@ -37,17 +37,6 @@ related:
         width: 350
         height: 233
         isCached: true
-  - title: "ASOS commits to keep using Microsoft Azure for another five years to support business growth push"
-    excerpt: "Since then, Asos has continued to dig into the Microsoft Azure portfolio of cloud products to underpin its forays into artificial intelligence (AI) and support the roll-out of its other data-led customer-facing offerings. “Over the past few years ..."
-    publishedDateTime: 2022-03-01T12:41:00Z
-    webUrl: "https://www.computerweekly.com/news/252514002/ASOS-commits-to-keep-using-Microsoft-Azure-for-another-five-years-to-support-business-growth-push"
-    ampWebUrl: "https://www.computerweekly.com/news/252514002/ASOS-commits-to-keep-using-Microsoft-Azure-for-another-five-years-to-support-business-growth-push?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252514002/ASOS-commits-to-keep-using-Microsoft-Azure-for-another-five-years-to-support-business-growth-push?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 41
   - title: "Healthcare Drug Diversion Detected Faster, More Accurately with Advanced Analytics/Machine Learning Software, AJHP Study Finds"
     excerpt: "Invistics, the leading provider of cloud-based software solutions that improve inventory visibility and analytics across complex healthcare systems and global supply chains, announced the"
     publishedDateTime: 2022-03-03T12:00:00Z

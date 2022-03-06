@@ -59,6 +59,20 @@ related:
         width: 480
         height: 278
         isCached: true
+  - title: "Reinforcement learning: How rewards create intelligent machines"
+    excerpt: "The researchers suggested that we could reach artificial general intelligence (AGI) using one single approach: reinforcement learning. They titled their paper on the subject: “Reward is Enough.” The team argued that AGI could emerge through an incentive mechanism known as a reward function."
+    publishedDateTime: 2022-03-02T16:11:00Z
+    webUrl: "https://thenextweb.com/news/how-rewards-work-in-reinforcement-learning-deepmind"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FUntitled-design-1.jpg&signature=840670943ed2cc84f53f7265c443186a"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Zest AI Releases New Race Prediction Model To Reduce Systemic Bias In Lending"
     excerpt: "Zest AI, a leader in software for AI-driven lending, today announced the launch of Zest Race Predictor (ZRP). This open-source machine-learning algorithm estimates the race/ethnicity of an individual using only their full name and home address as inputs."
     publishedDateTime: 2022-03-01T16:02:00Z
@@ -72,20 +86,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Injecting Fairness Into AI: Machine-Learning Models That Produce Fair Outputs Even When Trained on Unfair Data"
-    excerpt: "A new technique boosts models’ ability to reduce bias, even if the dataset used to train the model is unbalanced. If a machine-learning model is trained using an unbalanced dataset, such as one that contains far more images of people with lighter skin than people with darker skin,"
-    publishedDateTime: 2022-03-01T11:21:00Z
-    webUrl: "https://scitechdaily.com/injecting-fairness-into-ai-machine-learning-models-that-produce-fair-outputs-even-when-trained-on-unfair-data/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 19
-    images:
-      - url: "https://scitechdaily.com/images/Machine-Learning-AI-Technology-Concept.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "Wwu6Z7fmEs2+Q1HWaD5Iwpxh2GRpalvKs1jdWSbqgNXvA6CYra5Z2HcNLIxQ0O5tFIWgbKi+jLeui8q7VecDXamKD0g+L3p5zZGO0JUaGEGJ2YOqfILWZ3kYY2ULRUd32JzD8V9+WNOUBZoE+7wsfJJa87GXakEma8Z4eh4Yiyi6JQmsCnZlMtvfPUaOEX3DHGmg8RoyCgXcweZI+vaO8N0WSsaas7WvGMT06BJE8bfxK17MqqdnJpDrDudIRJ1GvPSl9qrilD+VEPWSOY92adefnhOxut1tlf7XzskAZLTCBnbTWI7+nc5832ozwJQySoAzB+Y0RiyalMmOkCX1lg9UcpKvooRuhPp4u30G38kDZcXCtt3+uxwBSQWWY7I7A50J0eYZ2zF7Uc4KcPl72+POSEs1g5HbaGTQBcC3Q5b5ro+GuOcHikF4Om1AGg6B+VDoVQqJuwIhhtPfz4VTEbmPVslrQwGU1IusZ+6DA8nunDsakm3f15/Mz0FYEhx0FK/rHG2zmjJK6+YY7qy7oQ==;WY50mOkiriscvJuLD1eQsw=="

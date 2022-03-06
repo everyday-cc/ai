@@ -132,20 +132,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "KX to embed with Microsoft Azure"
-    excerpt: "KX Insights on Azure will enable customers to store and access their data using complex event processing, high-performance analytics and machine learning interfaces on one unified and easy-to-use platform. Tightly integrated within Microsoft's intelligent ..."
-    publishedDateTime: 2022-03-01T11:55:00Z
-    webUrl: "https://www.finextra.com/pressarticle/91679/kx-to-embed-with-microsoft-azure"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Uptake Fusion to Support Microsoft Azure Data Explorer"
     excerpt: "Uptake, a leader in industrial intelligence software-as-a-service (SaaS), announced today that Uptake Fusion will support Microsoft Azure Data Explorer. Uptake Fusion, which automates the extraction of industrial data from historians,"
     publishedDateTime: 2022-03-01T16:11:00Z

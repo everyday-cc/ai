@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2022/03/03/these-ai-mistakes-are
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/03/03/these-ai-mistakes-are-slowly-killing-your-customer-experience/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Neiman Marcus Improves Customer Experience via AI, Machine Learning"
-    excerpt: "A lot has changed since the  Neiman Marcus Group (NMG) was founded in 1907, but one thing that hasn't changed is the company's focus on customer service and style. More than a century on, NMG still sees high-touch \"style interactions\" as its key differentiator."
-    publishedDateTime: 2022-03-01T12:01:00Z
-    webUrl: "https://www.rfidjournal.com/neiman-marcus-improves-customer-experience-via-ai-machine-learning"
-    type: article
-    provider:
-      name: RFID Journal
-      domain: rfidjournal.com
-    quality: 54
-    images:
-      - url: "https://www.rfidjournal.com/wp-content/uploads/2022/02/NeimanMarcus-1.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Increasing revenue and enhancing member experience with artificial intelligence"
     excerpt: "Ping! Ding. BEEP. Buzz. Just like you, your consumers are inundated with notifications and alerts every day. Cutting through the digital noise to reach them with your financial institution’s unique message is challenging."
     publishedDateTime: 2022-03-02T20:00:00Z

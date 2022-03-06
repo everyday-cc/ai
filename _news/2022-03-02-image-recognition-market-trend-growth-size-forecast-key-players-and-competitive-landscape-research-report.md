@@ -81,6 +81,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI Governance Market size is Projected To Reach USD 116.3 Million By 2028 At A CAGR of 25.1% - Valuates Reports"
+    excerpt: "BANGALORE, India, March 1, 2022 /PRNewswire/ -- AI Governance Market is Segmented By Type - Software, Service, Others, Market By Application - BFSI, Healthcare and Life Sciences, Government and Defense, Retail and Car. Global Opportunity Analysis and ..."
+    publishedDateTime: 2022-03-01T13:08:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-governance-market-size-is-projected-to-reach-usd-116-3-million-by-2028-at/article_7da96a8e-13c9-5708-8c1a-86c23af662a7.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 17
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Artificial Intelligence in Military Market to Surpass Valuation of USD 6.50 Bn by 2028, Notes Emergen Research Study"
     excerpt: "The global Artificial Intelligence (AI) for military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4%"
     publishedDateTime: 2022-03-04T11:08:00Z
@@ -108,20 +122,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Insights on the Artificial Intelligence In Diagnostics Global Market to 2027 - Implementation of Cloud-based Technologies Presents Opportunities - Res"
-    excerpt: "The \"Artificial Intelligence In Diagnostics Market Research Report by Component, by Type, by Region - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-03-01T12:19:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=624056"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
 
 secured: "K7+DS+/JA4GHdpAQf2lS+nOp3tNhrsEdgDdZzbfIetMGOiMbW/QdcWgVkM+k1ELbHuiZ8hAEBntfluradiYWk6Aps7GF2FKY/Ug2B7UKYG2Vo2+yBbnJsRCJgQ0wzppaZYgt0X+qKG+Y9mLpS+3k1QMneNkb1FrlzV0GxUu/2cZzIvwSHXBaTZ9MhhBxUz/L7KTQc7997nZ0OHL9hP0gQZmGvZX+akpTIQdr9GvukfXMMaDQGRzZY9YhbVWs70cdXq0KtDfpl/bVk9B3+wQzmXb/XeFsyvnulvic4+GC5OPQGJE/Rr6hFVAnHZjtcLRDD2hR5pLYttLTcVIYboQ94026hg00i4Ys9w04s7wusVg=;m+1M5nuYBqzqsJYeEngkFw=="

@@ -53,17 +53,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 48
-  - title: "ASOS commits to keep using Microsoft Azure for another five years to support business growth push"
-    excerpt: "Since then, Asos has continued to dig into the Microsoft Azure portfolio of cloud products to underpin its forays into artificial intelligence (AI) and support the roll-out of its other data-led customer-facing offerings. “Over the past few years ..."
-    publishedDateTime: 2022-03-01T12:41:00Z
-    webUrl: "https://www.computerweekly.com/news/252514002/ASOS-commits-to-keep-using-Microsoft-Azure-for-another-five-years-to-support-business-growth-push"
-    ampWebUrl: "https://www.computerweekly.com/news/252514002/ASOS-commits-to-keep-using-Microsoft-Azure-for-another-five-years-to-support-business-growth-push?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252514002/ASOS-commits-to-keep-using-Microsoft-Azure-for-another-five-years-to-support-business-growth-push?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 41
 
 secured: "trSROFAwKdidaMVR6rUHbMaPR07Atmgau4orRneccZe221id7uxi/Tb9csLCX1p7oxZTq8ahFgzzVvuIyYy57ANu7c6+J0BW8k9gB4ZKk2JkbSScHRZrre8dj3jUOk0Lm0cJAEK75VN5olcLDXArQSA2ylD9eX15HzaxUXgqFqTd5zOe7J+QpjOxs3kZGOE4VLH9tXE2oe8oBck0SzF3xa5Z3n45cuR3/2ceeO7dXrqJ/eSA9bY/Vtnh0sKF/7ojbYQrfuoW3TTKwcgU3x/UhYXdBUHj3im0GcDQshaWt7TXcav3aYF5yY3Tz0j1mNbq+Sj47hJsQu2Jh1PsOPEJXeqeSu6NmzOj9Z5Seo5E1T5ziSaonQ7zby+h1GnxwnmultrIPbGTIbrgPm4sLfepnnFIfUexMdtbbGQoThwDh6rnG4qWNZSehKN+1Cwkc6m63eFkBGSpALbwmEsxnP5hrmmMqrayuV+q3qRQwaSYlJWfhhVvEZ+csj7wEzhdnlWrtCUZ8fkTHdR1RRDPVxBamg==;4RhcviEkogkYTtpFNfhqYA=="
 ---

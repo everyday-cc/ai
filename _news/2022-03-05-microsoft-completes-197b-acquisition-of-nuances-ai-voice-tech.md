@@ -7,7 +7,7 @@ originalUrl: "https://www.protocol.com/bulletins/microsoft-completes-nuance-acqu
 webUrl: "https://www.windowscentral.com/microsoft-completes-197-billion-acquisition-ai-giant-nuance"
 type: article
 quality: 154
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -54,22 +54,6 @@ related:
     quality: 74
     images:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/Uptake-Fusion-to-Support-Microsoft-Azure-Data-Explorer-01.jpg"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "KX Strategic Announces Partnership with Microsoft"
-    excerpt: "FD Technologies announces that it has entered into a strategic partnership agreement with Microsoft to expand the reach of its KX Insights"
-    publishedDateTime: 2022-03-01T11:28:00Z
-    webUrl: "https://enterprisetalk.com/news/kx-strategic-announces-partnership-with-microsoft/"
-    ampWebUrl: "https://enterprisetalk.com/news/kx-strategic-announces-partnership-with-microsoft/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/kx-strategic-announces-partnership-with-microsoft/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 59
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/KX-Strategic-Partnership-Agreement-with-Microsoft-01.jpg"
         width: 1200
         height: 676
         isCached: true

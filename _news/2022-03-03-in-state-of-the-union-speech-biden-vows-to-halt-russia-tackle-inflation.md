@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden steps to State of the Union lectern at fraught moment. Here’s what to know about his speech."
-    excerpt: "President Joe Biden will deliver his first State of the Union address Tuesday at a precipitous moment for the nation."
-    publishedDateTime: 2022-03-01T11:23:00Z
-    webUrl: "https://www.mcall.com/news/nation-world/mc-nws-biden-state-of-the-union-comes-at-fraught-moment-20220301-pu4tfwmcsbb3fazj7w6sh5swnu-story.html"
-    type: article
-    provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 10
-    images:
-      - url: "https://www.mcall.com/resizer/DEMiW3WXUrNmSHFhDTyddIQbK38=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/52ZGSPRYVXFDJ6OITN6QRKFUDQ.jpg"
-        width: 1200
-        height: 763
-        isCached: true
 
 secured: "u+NbI2HDM8ncoSuisgdKK824t92TYgHBfeOniC+HS6IoIBDqvIrvXKYUs9Qu3DF40vO9ZTXTQyq1pmDPCQIjX5x9Q1Ht2a3bP6yygDUGmv3etnVrPdAw6q5U08SZbRaIbVKxBOjiBI9PYdUJWur/Ed46/XCWPkOpbbNBOAg3rPor1FeT3zdQsu+gPhpJDmDMGi40cC5H4VU9ARQCcQbVIzf02Sxdk4/g5USiW85Gi4vFIKVIdOlb3LtLM+N03n/++LWIq9mja3+0ggjdw1ndwimo7FjqDyx2DwAVhbH1SKjQcS2182oZ9lFeNlNuT2ml9YsnhHJ1XXxNtlVLSFV8IcYYsXqlPod1FaZaqWqTJtgimya6JPWIKkbrVmGu8lkmQEmfxFJ4SIWM2hc0H+bz2nFnIIbrdQid5BROKr+EJmDS15YKm5/lHajRV7mM5ct56A+WDML13Hjt/hTepni4yvqJNBg8S59qi+eXPUlXGPuUkKd5RhNhyUI8XVNj50nGcTio7MfS150sRdOtTvy0Zw==;sHeQONUvGh3kAfXYpsvlQg=="
 ---

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Codecademy and Black and Brilliant Launch Africa-Based AI Accelerator"
-    excerpt: "Codecademy, the leading online learning platform for technical skills, is partnering with The Black and Brilliant Advocacy Network to launch an Applied Artificial Intelligence accelerator and mentorship program in Africa."
-    publishedDateTime: 2022-03-01T12:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/codecademy-and-black-and-brilliant-launch-africa-based-ai-accelerator-1031242576"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://mma.prnewswire.com/media/1659499/Codecademy_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Codecademy partners with Black and Brilliant for AI accelerator in Africa"
     excerpt: "Codecademy announced that it will be partnering with the Black and Brilliant advocacy group on a new mentorship program and accelerator in Africa. The two organizations joined for"
     publishedDateTime: 2022-03-01T19:38:00Z

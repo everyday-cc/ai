@@ -42,22 +42,6 @@ related:
         width: 1024
         height: 577
         isCached: true
-  - title: "Qualcomm's Snapdragon X70 modem with AI could arrive in 'iPhone 15'"
-    excerpt: "Qualcomm has introduced its Snapdragon X70, a 5G modem that uses AI to increase performance, and it could appear in a future update to the iPhone."
-    publishedDateTime: 2022-03-01T12:10:00Z
-    webUrl: "https://appleinsider.com/articles/22/03/01/qualcomms-snapdragon-x70-modem-with-ai-could-arrive-in-iphone-15"
-    ampWebUrl: "https://appleinsider.com/articles/22/03/01/qualcomms-snapdragon-x70-modem-with-ai-could-arrive-in-iphone-15/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/03/01/qualcomms-snapdragon-x70-modem-with-ai-could-arrive-in-iphone-15/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 59
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/47216-92027-snapdragon-x70-xl.jpg"
-        width: 1312
-        height: 731
-        isCached: true
   - title: "Qualcomm embeds artificial intelligence into latest 5G processor to boost speeds and signal coverage"
     excerpt: "Though still probably overhyped, 5G has clearly gotten a foothold since it rolled out three years ago, with 175 networks lit up globally and 5G smartphone sales forecast to reach $750 million this year."
     publishedDateTime: 2022-03-03T17:40:00Z
@@ -73,20 +57,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/qualcomm.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Qualcomm unveils its AI-powered Snapdragon X70 modem"
-    excerpt: "Qualcomm has announced the new AI-driven Snapdragon X70 modem at this year’s Mobile World Congress in Barcelona. The modem is expected to deliver an improved 5G experience for mobile devices and tablets."
-    publishedDateTime: 2022-03-01T12:36:00Z
-    webUrl: "https://analyticsindiamag.com/qualcomm-unveils-its-ai-powered-snapdragon-x70-modem/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/qualcomm-Ai-investments.jpeg"
-        width: 770
-        height: 577
         isCached: true
 
 secured: "doVUhxjymtRU+U/VkOV1r7VHxrOKmimE9WFgO5uVqIygOp9LWauxF25yiQliCflOJlAyXUmXA30KqQ2LAMo1UizS+iU9xYiuV5ldA9Q7r5tpVTTu9m5+5Qg2B/aAgZPkbj5DmRbeVY8pX7KvUq21PqdiM3phc3KZ+/EKLhpEqx+LSPEKGi52OPP7sq6IdTxi26T03tb+wh9eRZ5rAShZgeNORnfX8CCUh6zfzLEaTbehgapLP9aqdnCkCckJlF99mFIaYfHji8N+DtywNXfhLjr+8N6LjeFRN8a313YQyKJYxIOWi2fgvhIJ3yuzdf0lYzjWm92qf0wvJOE4+5Q2pSxNz4KX9MqA4HbtFl5aJfE=;pgc3+j3xEayW40fBQHEv2Q=="

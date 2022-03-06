@@ -73,19 +73,19 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "Injecting Fairness Into AI: Machine-Learning Models That Produce Fair Outputs Even When Trained on Unfair Data"
-    excerpt: "A new technique boosts models’ ability to reduce bias, even if the dataset used to train the model is unbalanced. If a machine-learning model is trained using an unbalanced dataset, such as one that contains far more images of people with lighter skin than people with darker skin,"
-    publishedDateTime: 2022-03-01T11:21:00Z
-    webUrl: "https://scitechdaily.com/injecting-fairness-into-ai-machine-learning-models-that-produce-fair-outputs-even-when-trained-on-unfair-data/"
+  - title: "Reinforcement learning: How rewards create intelligent machines"
+    excerpt: "The researchers suggested that we could reach artificial general intelligence (AGI) using one single approach: reinforcement learning. They titled their paper on the subject: “Reward is Enough.” The team argued that AGI could emerge through an incentive mechanism known as a reward function."
+    publishedDateTime: 2022-03-02T16:11:00Z
+    webUrl: "https://thenextweb.com/news/how-rewards-work-in-reinforcement-learning-deepmind"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 19
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
     images:
-      - url: "https://scitechdaily.com/images/Machine-Learning-AI-Technology-Concept.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FUntitled-design-1.jpg&signature=840670943ed2cc84f53f7265c443186a"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "jV7gmWAPS2lbGrJhq166zggFm4ZurFUckvJF+c/dTbmZ6Zcxwv0HsAdmuXLPOX1gfuciXQJbz1zoOwRfozZ1Ws/N2X9SLeHEQvm0jg+0q/LTXWQTgT1KeUMO8u9+c44Q/XVcqfDZwf+m5PSQ9s9P4nhKexBiPoLpw9Hn8HekRf59Je4zSrPyjrd5qtJ3+qTxGw8IQ8ZTxVXE1KXcYthXL2XUtImoN/l8YLQO/m2rTWq+fOrqJfzr4G10Yh+trZe/zDfFa320cn/0s+5gTyVn7xVIJB/VbdUd/XvFfO9pOhuZVtSEwcOBuv1OpfYrr94ts9nTBORDtuDBUWWk+mDid/WemDJ4h20oCmvfCTlTmgY=;dHDqaclv1a8xgmTMRzvaCA=="

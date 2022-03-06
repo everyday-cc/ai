@@ -1,29 +1,27 @@
 ---
 category: news
 title: "10 enterprise AI trends for 2022"
-excerpt: "Enterprise AI is maturing quickly, with companies shifting to business-first AI strategies and AI benefits being sought out across the organzation."
-publishedDateTime: 2022-03-03T10:00:00Z
-originalUrl: "https://www.cio.com/article/305644/10-enterprise-ai-trends-for-2022.html"
-webUrl: "https://www.cio.com/article/305644/10-enterprise-ai-trends-for-2022.html"
-ampWebUrl: "https://www.cio.com/article/305644/10-enterprise-ai-trends-for-2022.html/amp"
-cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/305644/10-enterprise-ai-trends-for-2022.html/amp"
+excerpt: "Enterprise AI is maturing quickly, with companies shifting to business-first AI strategies and AI benefits being sought out across the organisation."
+publishedDateTime: 2022-03-06T04:19:00Z
+originalUrl: "https://www.reseller.co.nz/article/695836/10-enterprise-ai-trends-2022/?fpid=1"
+webUrl: "https://www.reseller.co.nz/article/695836/10-enterprise-ai-trends-2022/?fpid=1"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: CIO
-  domain: cio.com
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.cio.com/wp-content/uploads/2022/03/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-orig.jpg?quality=50&strip=all&w=1024"
-    width: 1024
-    height: 682
+  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/ai_dreamstime_3.jpg"
+    width: 504
+    height: 315
     isCached: true
 
 related:
@@ -76,18 +74,20 @@ related:
         height: 598
         isCached: true
   - title: "10 enterprise AI trends for 2022"
-    excerpt: "Enterprise AI is maturing quickly, with companies shifting to business-first AI strategies and AI benefits being sought out across the organisation."
-    publishedDateTime: 2022-03-06T04:19:00Z
-    webUrl: "https://www.reseller.co.nz/article/695836/10-enterprise-ai-trends-2022/?fpid=1"
+    excerpt: "Enterprise AI is maturing quickly, with companies shifting to business-first AI strategies and AI benefits being sought out across the organzation."
+    publishedDateTime: 2022-03-03T10:00:00Z
+    webUrl: "https://www.cio.com/article/305644/10-enterprise-ai-trends-for-2022.html"
+    ampWebUrl: "https://www.cio.com/article/305644/10-enterprise-ai-trends-for-2022.html/amp"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/305644/10-enterprise-ai-trends-for-2022.html/amp"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
+      name: CIO
+      domain: cio.com
+    quality: 59
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/ai_dreamstime_3.jpg"
-        width: 504
-        height: 315
+      - url: "https://www.cio.com/wp-content/uploads/2022/03/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "SXSW 2022 Round-up: Cybersecurity, Artificial Intelligence, and Quantum Computing"
     excerpt: "With the potential for increased cyberattacks and possible cyber warfare sweeping the headlines, business and government leaders alike are renewing their focus on cybersecurity. They are paying partic"
@@ -104,6 +104,6 @@ related:
         height: 720
         isCached: true
 
-secured: "4U0ExOGvlfcYKpDNIREmu2hwizZUZ1jfYbxmL6rabwW/ebHaad5rltAQvI44afmyxlipkL4mofmX2l+R0cBISL4VEH6LxV1y/CBhuX9SIZK/g671VNdiKpOXU8FpEZxoCQlJ66UQc5JvkOJLCKWnqJcZvegzUM3EgWsEyeXdlmVQi6FQNbPmcWMAGcSE2+zQHpUd9af/xkT/+uR6q/BU/unw7/u0fpLZu97hxli9h7E3Y7g/cccRrHqCDs/jVtm7xWXtEsQvidhrzcj2EJF5wcBBPqwgmkqKwojZSEV8W7FWumfEJD49qGIpxHDxbNiARkbnQb8Cp+OiUJ6Hlb/JeYjbUBPZvh8KHEqe5lSjrXs=;EfbcccYDvVkSgY+GlveKSQ=="
+secured: "sUK4ELYitWCkMGl1g55gQjdlvkXqhcKm0tVdWdP1a7AsL9SBZ3H6fbnEYusqbvVhYz5e8O4gFavUNzzUrcP+cpfoOjxfqtsHvT7YEBUCLFty7bIN8VbUpzPogc7Elb1/CvldazH1GB2npb+z/VMpsQbs92EzahiJYnDmC1xEIwiGiTT03EuUQUjQAHmwnAcBxj+FrsmirLtBuLHF3b8UHOMYSsIN7V0HyqFwgB930ywu1dGN2DIVQddSkKMXAVK5uU8BePpEd07NG121OVJUB/mPsHgPP/slffPoBOM+5Dta2rM40EccaXW2XP+EWHFet9JsK+vnEDey1P7vFapJMnhxSYbXYEOvp8HR6vY4Cjk=;nNkOfHEPToob6rxvO9PSOw=="
 ---
 

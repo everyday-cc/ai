@@ -80,6 +80,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "10 enterprise AI trends for 2022"
+    excerpt: "Enterprise AI is maturing quickly, with companies shifting to business-first AI strategies and AI benefits being sought out across the organisation."
+    publishedDateTime: 2022-03-06T04:19:00Z
+    webUrl: "https://www.reseller.co.nz/article/695836/10-enterprise-ai-trends-2022/?fpid=1"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 39
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/ai_dreamstime_3.jpg"
+        width: 504
+        height: 315
+        isCached: true
   - title: "SXSW 2022 Round-up: Cybersecurity, Artificial Intelligence, and Quantum Computing"
     excerpt: "With the potential for increased cyberattacks and possible cyber warfare sweeping the headlines, business and government leaders alike are renewing their focus on cybersecurity. They are paying partic"
     publishedDateTime: 2022-03-03T21:58:00Z

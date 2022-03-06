@@ -42,22 +42,6 @@ related:
         width: 1024
         height: 577
         isCached: true
-  - title: "Qualcomm's Snapdragon X70 modem with AI could arrive in 'iPhone 15'"
-    excerpt: "Qualcomm has introduced its Snapdragon X70, a 5G modem that uses AI to increase performance, and it could appear in a future update to the iPhone."
-    publishedDateTime: 2022-03-01T12:10:00Z
-    webUrl: "https://appleinsider.com/articles/22/03/01/qualcomms-snapdragon-x70-modem-with-ai-could-arrive-in-iphone-15"
-    ampWebUrl: "https://appleinsider.com/articles/22/03/01/qualcomms-snapdragon-x70-modem-with-ai-could-arrive-in-iphone-15/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/03/01/qualcomms-snapdragon-x70-modem-with-ai-could-arrive-in-iphone-15/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 59
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/47216-92027-snapdragon-x70-xl.jpg"
-        width: 1312
-        height: 731
-        isCached: true
   - title: "Qualcomm embeds artificial intelligence into latest 5G processor to boost speeds and signal coverage"
     excerpt: "At Mobile World Congress, San Diego wireless technology firm looks to the next phase of 5G, which expands use cases beyond smartphones"
     publishedDateTime: 2022-03-03T02:17:00Z
@@ -73,20 +57,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/ce7fa9b/2147483647/strip/true/crop/4505x3013+0+102/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fzbk%2Fdamlat_images%2FLA%2FLA_PHOTO_SELECTS%2F2018_12%2F3067518_sd_fi_viasat_campusexpand_02.JPG"
         width: 320
         height: 214
-        isCached: true
-  - title: "Qualcomm unveils its AI-powered Snapdragon X70 modem"
-    excerpt: "Qualcomm has announced the new AI-driven Snapdragon X70 modem at this year’s Mobile World Congress in Barcelona. The modem is expected to deliver an improved 5G experience for mobile devices and tablets."
-    publishedDateTime: 2022-03-01T12:36:00Z
-    webUrl: "https://analyticsindiamag.com/qualcomm-unveils-its-ai-powered-snapdragon-x70-modem/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/qualcomm-Ai-investments.jpeg"
-        width: 770
-        height: 577
         isCached: true
 
 secured: "HTRrXWa37+owIdVeDYzOXJETo7bG8TPnIVeM5WNOX6catx1+6C4WHpJb6AZ51a73cyDb8V+TDL4rhpPm60y5KrsI+aislxuC3cUsdGLLfvC2UtqDOC68FhkyIn/nQ5ntXp7csrMld/tL8ezRFbcfJCOjMOS5QtR/ECWK2ymfOV4eVD/BcGkgbY1l0vN71LYfa29ngGkmoKpt9JcISrGT7Z8idCNwYtte7uRrNAQQCA6l90vgdfDv17O+3Y8MySSm351/1jJXYxxOB2xq/l5MN1rz6ToB0bAixdFu0AQnNizcCc9pPee1SQnYes460uFeiGkwF0H5HMoTMQ5vrnxV8PnkKcGI6AuwhFFGFJWUrWpus2/p4A38i4wsvUhKqrxRHb7Vb29KLuEGgjIgCYBSADClqIPJFJtvEmzZ1Mkl8QEcdCvKEVY9LqUfG3W7nmPtX8wFWYx0JrKegGWqBPvzn6GqMNhICJr5vzomVGYyuQZ++M07tzzSNlmmSJ71QGyghC9nRXLn76n9ErfWeBIJNA==;dG0Vm0WIzm3pTtLMGMhBOw=="

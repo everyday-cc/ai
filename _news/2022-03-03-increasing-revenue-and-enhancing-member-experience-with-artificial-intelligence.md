@@ -40,20 +40,6 @@ related:
         width: 3659
         height: 2597
         isCached: true
-  - title: "Neiman Marcus Improves Customer Experience via AI, Machine Learning"
-    excerpt: "A lot has changed since the  Neiman Marcus Group (NMG) was founded in 1907, but one thing that hasn't changed is the company's focus on customer service and style. More than a century on, NMG still sees high-touch \"style interactions\" as its key differentiator."
-    publishedDateTime: 2022-03-01T12:01:00Z
-    webUrl: "https://www.rfidjournal.com/neiman-marcus-improves-customer-experience-via-ai-machine-learning"
-    type: article
-    provider:
-      name: RFID Journal
-      domain: rfidjournal.com
-    quality: 54
-    images:
-      - url: "https://www.rfidjournal.com/wp-content/uploads/2022/02/NeimanMarcus-1.jpg"
-        width: 1000
-        height: 563
-        isCached: true
 
 secured: "v+rg9TIQsEW4W50XP+ZuD/tNOWE5yJ+YAy0ydpQv4U4rU+pNZ2KhU8NnZJhBNsagUR3DrZRNLXG7faYQfwC4GGa19ekgS9bK6zo10SnLJ8QwhhDHLnH0/NjbT+8kEHYxy1F0KjYh5Lfk8CNMmiy0AzpOj/Vn7EYIT7mBr20Oej2R6LwzMeKnSjp4gBdHX8NN8/44AtPBoekqEDUoyJTdzDYTIuHA1ikoDOMe3n+e00ug9/sm7nZ1OBcZ6FdugsIJMaKnTXvDuS4oSdWFsOvTh2B4Rl5QeuEx2aV8ft7YB78kHwbHjX5ZNiY2qJPasc/INHZkt3Pt2vWV0poR7nB12DeQy7XtKTdsSN6m8waaRsnwO8K6+hwxwRi0BofIUC0NddqbcrHQKp0BodlYE4GMK5f79iTBqVeLiIN+loBc+WvZ2L0xqUFcmb0sfgtQbhCsckccqFkZ4ydjwfBRviiF/Oe7z4k5n9RKeIut4n3eu0QAA/ExNF6ykUdN3q+MGIga8ssATWyciGs7SUvfESOEaw==;FXg5qQn7wzSVBKXkJ8Sg1w=="
 ---

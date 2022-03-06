@@ -41,22 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "2022 Fintech Awards Spotlight: LiquidX, Best InsurTech Award Nomination"
-    excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, will be holding its annual Benzinga Global Fintech Awards, a day of"
-    publishedDateTime: 2022-03-01T12:40:00Z
-    webUrl: "https://www.benzinga.com/fintech/22/03/25903103/2022-fintech-awards-spotlight-liquidx-best-insurtech-award-nomination"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25903103"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25903103"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Detroit FinTech Firm Bankjoy Adds 16 Credit Unions to its Service"
     excerpt: "Bankjoy in Detroit announced it has added 16 credit unions from across the U.S. to its seamless end-to-end digital service ecosystem."
     publishedDateTime: 2022-03-04T17:02:00Z

@@ -94,6 +94,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "10 enterprise AI trends for 2022"
+    excerpt: "Enterprise AI is maturing quickly, with companies shifting to business-first AI strategies and AI benefits being sought out across the organisation."
+    publishedDateTime: 2022-03-06T04:19:00Z
+    webUrl: "https://www.reseller.co.nz/article/695836/10-enterprise-ai-trends-2022/?fpid=1"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 39
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/ai_dreamstime_3.jpg"
+        width: 504
+        height: 315
+        isCached: true
 
 secured: "ILpKB8bKD9ArFg8awq/vldWNdpFHguv2x4jUzCug6BPtpQ225wgwKw7sIUyq4e4jij/hkrUxEVe4U3LifYaxQ5atx+Q8hM832yIeZ0Z7ko/A0mdSn2UtRpaUPqTdlI1VkaLf11yyo43WH13A+byut2Sfngl6xugiZsSoBzMzaCzfZX7Re1990D2Rh1u0UpMzl3U43U/YiK7cUJMR7DcOpCzAeUvsWRb0JSCCWdx4Mx37L6C5ybkBkwQ2aya0f5q99OG3FIcVbvtbiJfuYcVH/tqOxutYSukHlKapOfrVY/7bFFLMi4l47VX1IbPdUEoStrqGizpjOy4D9VneqQuzRfCzFv/HUryJH0D4u3plyEM=;kJ0butT7ULwncKBGXZn/tw=="
 ---

@@ -21,15 +21,15 @@ topics:
 
 related:
   - title: "How AI-powered tech landed man in jail with scant evidence"
-    excerpt: "Williams was jailed last August, accused of killing a young man from the neighborhood who asked him for a ride during a night of unrest over police brutality in May. But the key evidence against Williams didn’t come from an eyewitness or an informant;"
-    publishedDateTime: 2022-03-05T22:26:00Z
-    webUrl: "https://www.ourmidland.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
-    ampWebUrl: "https://www.ourmidland.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
-    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+    excerpt: "But the key evidence against him didn’t come from an eyewitness or an informant; a major factor was the gunshot detection firm ShotSpotter. (Aug. 19) Video: Associated Press CHICAGO (AP) — Michael Williams’ wife pleaded with him to remember their fishing trips with the grandchildren,"
+    publishedDateTime: 2022-03-05T17:55:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
     type: article
     provider:
-      name: Our Midland MI
-      domain: ourmidland.com
+      name: Houston Chronicle
+      domain: houstonchronicle.com
     quality: 57
     images:
       - url: "https://s.hdnux.com/photos/01/24/41/74/22159127/3/ratio3x2_400.jpg"

@@ -57,22 +57,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "KX Strategic Announces Partnership with Microsoft"
-    excerpt: "FD Technologies announces that it has entered into a strategic partnership agreement with Microsoft to expand the reach of its KX Insights"
-    publishedDateTime: 2022-03-01T11:28:00Z
-    webUrl: "https://enterprisetalk.com/news/kx-strategic-announces-partnership-with-microsoft/"
-    ampWebUrl: "https://enterprisetalk.com/news/kx-strategic-announces-partnership-with-microsoft/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/kx-strategic-announces-partnership-with-microsoft/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 59
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/KX-Strategic-Partnership-Agreement-with-Microsoft-01.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Microsoft Buys Speech Recognition Company for $16 Billion"
     excerpt: "Microsoft has closed on its approximately $16 billion acquisition of speech recognition company Nuance. The deal, which was announced last year, helps Microsoft Corp. get more ent"
     publishedDateTime: 2022-03-04T16:14:00Z

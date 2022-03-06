@@ -72,22 +72,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "KX Strategic Announces Partnership with Microsoft"
-    excerpt: "FD Technologies announces that it has entered into a strategic partnership agreement with Microsoft to expand the reach of its KX Insights"
-    publishedDateTime: 2022-03-01T11:28:00Z
-    webUrl: "https://enterprisetalk.com/news/kx-strategic-announces-partnership-with-microsoft/"
-    ampWebUrl: "https://enterprisetalk.com/news/kx-strategic-announces-partnership-with-microsoft/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/kx-strategic-announces-partnership-with-microsoft/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 59
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/KX-Strategic-Partnership-Agreement-with-Microsoft-01.jpg"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "uuwnVP3vc00IlGDs/gK56yKQxvoXji/yVho7GjAlvYv+k5g76H/kq/uECMjqQAit3+jYcESxpMWNePqXR5wJ7nija8PavVZVsw7I0Jo+iwoAQw4DR6hcOmWAbIVI8iViV2Ld0jbLN9503bBeMF5MxfYSy52M9KPYir1RqLB8wxcSwXLPXe6gwLq7w/TTBnkfYX9emufhqNYUd7SWcYDeb5FkQXEV+M28dqwq/RTh9yIm2x9f03FA3Mc7+Ls4TyU7j/EwhSjU3YPjR3HpNFxNgsVh8WIWyuxJyLGLgWZPxgksBbhDe4QTTvjrNde3RezGdwC/uURgxu2pZ5Jhc1o3kxDYErxyfmW7tY3gteOwQCPziMQEoXt7u4TwI+Mny8j9DKwOyLwrI3V0mgbUCnQU9aA8vI/PRxRav7Bk8S6Czp14U1x3VjgofqgIz1UnGNibKU+oak9blmnse8pXXUGZVbtt8owUEZa74vf7yRZMxEQF+3+rWRPQZ1XVMYUHR/cfNfPW3OescdcPTB3QyTGnoA==;5q+UB4fH04SynAQxCsg29Q=="
 ---

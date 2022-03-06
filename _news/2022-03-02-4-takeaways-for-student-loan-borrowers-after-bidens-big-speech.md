@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/03/16x9/AP22061091543682.621f9a481a307.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1022
         height: 576
-        isCached: true
-  - title: "Biden steps to State of the Union lectern at fraught moment. Here’s what to know about his speech."
-    excerpt: "President Joe Biden will deliver his first State of the Union address Tuesday at a precipitous moment for the nation."
-    publishedDateTime: 2022-03-01T11:23:00Z
-    webUrl: "https://www.mcall.com/news/nation-world/mc-nws-biden-state-of-the-union-comes-at-fraught-moment-20220301-pu4tfwmcsbb3fazj7w6sh5swnu-story.html"
-    type: article
-    provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 10
-    images:
-      - url: "https://www.mcall.com/resizer/DEMiW3WXUrNmSHFhDTyddIQbK38=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/52ZGSPRYVXFDJ6OITN6QRKFUDQ.jpg"
-        width: 1200
-        height: 763
         isCached: true
 
 secured: "FA7rG1bogI5WN+E5P4YlOXqjJtfPqmjZr4WLSeTEWas9USMdysLIV3QAZWk8jwgwNiitqT+Ey13910MXEpAJUVXuR+bPDlsjfpYJHhJQDCWhACRQQ3O19RaymHgAlLXQxG9n9fDU8Ui944Xjm+UxKbkoH9IIBTcdAQNwQAl6zO79NV8goGbwVMmN6rUv4idL0+wOrDFfU9fpi6vxm2eYaAcUl8zubiK2Hn6csKIRvUDCOcGEgYrqtXoqy4Q8j9j4CGbAl4Bwq/XOUKb3cn9Mtn1ZM7nTlh249jw+2CVTqSVWinGWAXifvu2KZV4xa7y2thKLwLyCmvfy06uQYLcs6mHSboJr7dWbp8+xlMOe5gw=;6vbwY+x0QfLIOrvx/87+WQ=="

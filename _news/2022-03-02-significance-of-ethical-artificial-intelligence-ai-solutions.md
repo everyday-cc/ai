@@ -61,20 +61,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Enterprise Artificial Intelligence (AI) Market is Expected To Reach USD 59.17 Billion By 2028"
-    excerpt: "USD 2,879.5 Million in 2020, Market Growth - CAGR of 45.3%, Market Trends – a Digitalization of enterprises. NEW YORK, NY, UNITED STATES, March 1, 2022 /EINPresswire.com / -- The global enterprise artificial intelligence (AI) market is forecast to reach USD 59."
-    publishedDateTime: 2022-03-01T11:31:00Z
-    webUrl: "https://menafn.com/1103781763/Enterprise-Artificial-Intelligence-AI-Market-is-Expected-To-Reach-USD-5917-Billion-By-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 43
-    images:
-      - url: "https://menafn.com/updates/pr/2022-03/01/EP_7d5d0image_story.jpeg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "lQ6hHddtGWx3pAz0MXxNZOAgFXZkA3GVtT7zopjmVYqmF5MTvlk3uBwVe/MaKMWrqPm1kv4WxEmBJJpp+mCJYO4EpvflSAY1MpOpuOoVadc7mZ+HWeIwgRywcFf69eUMltBRJtDCfIQgQMIM8M4xbFjFjkMjxhu799BawseQceUFT6lu0WID4a8nAGQMdO5IpcbOZwvqTfa18HZAgPA+CpVi6xuKgNev+3lDXQYnJa4r57gFne0s/NO/FrpyDeDu3b9vb1gCUaMP5FAMopCbHcCFlCqlh20TvM+GGxzdGG7Wp4uAlSqo3ipHSOFAHOLwkSkFAoZeQFHEXdKQrwtRmk6CnXilWjVuXaNGhaQRkjRfzUvWvPtm9gs8lcEKVdvD/h+bjiqo4LJFVtqOu+oKafJffITSehUzAKXlpSTomWr6unWHH3j+G/HDY1hMzZqljZco8YW1Uz9wedXBEjCwLFIZZMKO5FEdWTOjUWkuvJG43E0n6YpWYMRxlUbAsMJMoeebSIF68ZENf4T90DqtYg==;/GzVv1RF+6QRi+xXah/ApA=="
 ---
