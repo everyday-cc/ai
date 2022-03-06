@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidpolice.com/myheritage-livestory-ai-dead-ancestors
 cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/myheritage-livestory-ai-dead-ancestors/amp/"
 type: article
 quality: 52
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "This AI Tool Can Make Your Ancestors Tell Their Own Life Stories; Check out How It Works!"
+    excerpt: "MyHeritage's new LiveStory is an AI-based tool that lets your ancestors speak with the use of just their photos. Here is how it works."
+    publishedDateTime: 2022-03-06T07:58:00Z
+    webUrl: "https://beebom.com/check-out-ai-tool-make-ancestors-tell-their-life-stories/"
+    ampWebUrl: "https://beebom.com/check-out-ai-tool-make-ancestors-tell-their-life-stories/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/check-out-ai-tool-make-ancestors-tell-their-life-stories/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 48
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2022/03/Myheritage-abraham-lincoln-feat..jpg?w=750&quality=75"
+        width: 750
+        height: 500
+        isCached: true
   - title: "MyHeritage Releases LiveStory, A Groundbreaking Feature That Automatically Creates Video Biographies, Using D-ID Pioneered AI Technology"
     excerpt: "MyHeritage, the leading global service for discovering your past and empowering your future, and Creative Reality™ startup D-ID, announced today the release of LiveStory, a groundbreaking new feature that creates captivating video biographies."
     publishedDateTime: 2022-03-03T21:36:00Z

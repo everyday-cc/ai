@@ -56,18 +56,18 @@ related:
         height: 551
         isCached: true
   - title: "Baidu Launches AI Platform to Enable on-Device, Real-Time Translation from Speech to Hand Gestures"
-    excerpt: "Baidu AI Cloud, a leading AI cloud provider, launched an AI sign language platform able to generate digital avatars for sign language translation and live interpretation within minutes. Released as a new offering of Baidu AI Cloud's digital avatar platform XiLing,"
-    publishedDateTime: 2022-03-03T14:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-baidu-launches-ai-platform-enable-on-device-real-/2022/03/03/9556847.htm"
+    excerpt: "Baidu AI Cloud, a leading AI cloud provider, launched an AI sign language platform able to generate digital avatars for sign language translation and"
+    publishedDateTime: 2022-03-03T13:37:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/baidu-launches-ai-platform-to-enable-on-device-real-time-translation-from-speech-to-hand/article_5a3d784a-3326-5726-80d0-bdc2aaa95f80.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 25
     images:
-      - url: "https://mma.prnewswire.com/media/1758980/Baidu_XiLing_Sign_Language_Digital_Avatar_Logo.jpg"
-        width: 400
-        height: 213
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/55/f55136c9-7cd7-5c1d-8127-5712430d105f/6220d5bfbec14.image.jpg?crop=1084%2C569%2C0%2C4&resize=1084%2C569&order=crop%2Cresize"
+        width: 1084
+        height: 569
         isCached: true
 
 secured: "yI8GTtWv70fsd173JgQjRbNnh/0HDq8LO9l9m05nR9VyHS6hXEOH5vt8ow6k8jf1y4ozmUCWQvfrIY7VJ+rg84iDygkkTayfx2Hpl8qvGj4+u+ZNu6zmLTP+zRcL/j/b/hxp6LT0SLVwHP4M1QeJNAoMMAq1OOsXyadn7HllTPu3a3RgLUwIGi2kKulwb0Y7pPqzYlf7EeW/xtoHsYb4+r6QhDro+KqAlHthsUMvR+rXPM9iYf5c+ibSROk8gVcREgc4ZqY7CT4K9tDXgYjoSXdaNHRnr4wbOOnV2kspbQ+AACCehpvxH2XmO7DGG9mfEZLZ/C9eyuqU+VyXb9bg6JfJgsHgVprVW/p0InApsoTIE1W04rULziw0t01wOU9b7/rwGmYfPCk7bn1+6vz0O1tMZC1CIIogNRuLHvjpzmTMq1znIWnSWeks2PdbzcRF//M+yRUyhg11jgPdLTgv0pIeeLE56rHw7gpizkdwM5IcNeAQQG8cCb5IQsuFUgqVLB21U8ZiTmiC/trDdZbIsQ==;0tR3xNtTvpAuiWMpSevL/Q=="

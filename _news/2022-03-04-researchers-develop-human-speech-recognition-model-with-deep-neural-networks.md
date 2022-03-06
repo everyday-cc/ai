@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Human Speech Recognition Model to Overcome Hearing-Impairment"
-    excerpt: "Human speech recognition may be improved by machine learning as per a study at the American Institute of Physics, published in The Journal of the Acoustical Society of America, by the Acoustical Society of America through AIP Publishing."
-    publishedDateTime: 2022-03-01T17:57:00Z
-    webUrl: "https://www.medindia.net/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 74
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/hearing-impairment-mental-health.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
   - title: "Researchers explore a human speech recognition model based on machine learning"
     excerpt: "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age."
     publishedDateTime: 2022-03-02T05:12:00Z
