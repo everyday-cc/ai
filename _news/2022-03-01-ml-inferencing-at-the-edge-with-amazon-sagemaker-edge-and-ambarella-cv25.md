@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/ml-inferencing-at-th
 webUrl: "https://aws.amazon.com/blogs/machine-learning/ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25/"
 type: article
 quality: 105
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Anomaly detection with Amazon SageMaker Edge Manager using AWS IoT Greengrass V2"
-    excerpt: "Deploying and managing machine learning (ML) models at the edge requires a different set of tools and skillsets as compared to the cloud. This is primarily due to the hardware, software, and networking restrictions at the edge sites. This makes deploying and managing these models more complex. An increasing"
-    publishedDateTime: 2022-03-01T16:48:42Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/anomaly-detection-with-amazon-sagemaker-edge-manager-using-aws-iot-greengrass-v2/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 99
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/17/ML-6786-image002.jpg"
-        width: 2456
-        height: 1434
-        isCached: true
   - title: "AWS Announces Amazon SageMaker Feature Store"
     excerpt: "Recently AWS announced a new capability of Amazon S ageMaker called Amazon SageMaker Feature Store, a fully-managed, purpose-built repository. This new Amazon SageMaker capability allows customers ..."
     publishedDateTime: 2022-03-03T00:00:00Z

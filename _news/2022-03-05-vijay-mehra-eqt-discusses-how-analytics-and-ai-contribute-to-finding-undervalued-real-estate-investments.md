@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 598
         isCached: true
-  - title: "Sonar announces the launch of Social Sentiment AI Analysis"
-    excerpt: "Sonar has announced the release of its Social Sentiment AI feature, scheduled to go live this week. It seeks to compete with other sentiment analysis services currently on the market, such as LunarCrush."
-    publishedDateTime: 2022-03-01T16:45:00Z
-    webUrl: "https://cointelegraph.com/press-releases/sonar-announces-the-launch-of-social-sentiment-ai-analysis"
-    ampWebUrl: "https://cointelegraph.com/press-releases/sonar-announces-the-launch-of-social-sentiment-ai-analysis/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/sonar-announces-the-launch-of-social-sentiment-ai-analysis/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 57
-    images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83Mjg5MGMxZjg3NDFkM2IxZTg1OTg2ZDQ3NDBmOTFhOS5qcGc=.jpg"
-        width: 740
-        height: 493
-        isCached: true
   - title: "KX Insights to power Microsoft Azure customers with real-time analytics"
     excerpt: "FD Technologies has announced a strategic partnership with Microsoft, to expand the reach of KX Insights to Azure customers"
     publishedDateTime: 2022-03-02T12:24:00Z
@@ -81,20 +65,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
-  - title: "Artificial Intelligence in Real Estate Market to Eyewitness Huge Growth by 2026 | IBM, Cape Analytics, Baidu Inc., Engel & Volkers"
-    excerpt: "Latest Released Artificial Intelligence (AI) in Real Estate market study has evaluated the future growth potential of Artificial Intelligence (AI) in Real Estate market and provides information and useful stats on market structure and size. The report is ..."
-    publishedDateTime: 2022-03-01T15:35:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-real-estate-market-to-eyewitness-huge-growth-by-2026-ibm-cape-analytics-baidu-inc-engel-volkers"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 22
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/Ukraine-No-capitulation-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Cypriot fintech first to use AI-powered analytics tool"
     excerpt: "Cyprus-based financial technology company SquaredFinancial announced on Tuesday that it will be the first organisation to utilise iQbyQi, an advanced retail trading analytics tool. “SquaredFinancial,"
     publishedDateTime: 2022-03-02T06:30:00Z

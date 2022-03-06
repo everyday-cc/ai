@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conf
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/amp/"
 type: article
 quality: 91
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107023227-16461722922022-03-01t215402z_706840525_rc2wts9a760d_rtrmadp_0_usa-stocks.jpeg?v=1646172330"
         width: 3500
         height: 2333
-        isCached: true
-  - title: "Intelligence, information warfare, cyber warfare, electronic warfare – what they are and how Russia is using them in Ukraine"
-    excerpt: "... collect vast amounts of data from open-source intelligence (OSINT) – information collected from news, social media and other publicly available sources – as well as secret sources, and use artificial intelligence to analyze the information. Russia ..."
-    publishedDateTime: 2022-03-01T15:50:00Z
-    webUrl: "https://www.chron.com/news/article/Intelligence-information-warfare-cyber-warfare-16967638.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Intelligence-information-warfare-cyber-warfare-16967638.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Intelligence-information-warfare-cyber-warfare-16967638.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 30
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "Intelligence, information warfare, cyber warfare, electronic warfare – what they are and how Russia is using them in Ukraine"
     excerpt: "Russia has one of the most capable and technological militaries on the planet. They have advanced intelligence, information warfare, cyber warfare and electroni"

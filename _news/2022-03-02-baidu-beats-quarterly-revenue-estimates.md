@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-rev
 webUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-2528766"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,64 +23,6 @@ images:
     width: 1200
     height: 676
     isCached: true
-
-related:
-  - title: "Baidu Revenue Beats After Cloud Sales Offset Ad Slowdown"
-    excerpt: "Baidu Inc.’s revenue beat estimates after efforts to monetize artificial intelligence technology helped offset losses in ad sales triggered by China’s economic slowdown. Revenue for the December quarter came in at 33."
-    publishedDateTime: 2022-03-01T15:39:00Z
-    webUrl: "https://www.bloombergquint.com/global-economics/baidu-revenue-beats-after-cloud-sales-offset-ad-slowdown"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 56
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Baidu beats quarterly revenue estimates on AI, cloud services"
-    excerpt: "Chinese search engine giant Baidu Inc beat quarterly revenue Wall Street estimates on Tuesday powered by growth in its artificial intelligence (AI) cloud business. Revenue grew to 33.09 billion yuan ($5."
-    publishedDateTime: 2022-03-01T20:43:00Z
-    webUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-2528766"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--uSFnJqlG--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-03-01t085407z_2_lynxmpei201qj_rtroptp_3_baidu-results.jpg?itok=cYQJyey9"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "China’s Baidu beats quarterly revenue estimates on AI, cloud services"
-    excerpt: "Chinese search engine giant Baidu Inc beat quarterly revenue estimates on Tuesday, powered by growth in its cloud business and AI initiatives."
-    publishedDateTime: 2022-03-01T23:13:00Z
-    webUrl: "https://www.dealstreetasia.com/stories/baidu-revenue-2-283182/"
-    type: article
-    provider:
-      name: dealstreetasia
-      domain: dealstreetasia.com
-    quality: 39
-    images:
-      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/04/baidu-1.jpg"
-        width: 976
-        height: 551
-        isCached: true
-  - title: "Baidu reports better-than-expected results, driven by AI and cloud businesses"
-    excerpt: "According to IDC's first half of 2021 report on China's public cloud market, Baidu was once again ranked the No. 1 AI cloud provider. The firm has also stressed the significance of self-driving businesses in its financial report, noting that large-scale ..."
-    publishedDateTime: 2022-03-01T16:17:00Z
-    webUrl: "https://www.globaltimes.cn/page/202203/1253662.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 36
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-12-20/f989268d-b4f3-4488-8c8a-368ae807bc8d.jpeg"
-        width: 800
-        height: 480
-        isCached: true
 
 secured: "dfDoxdpQGWgJDGGOeBIV9KoSPEqUcBKAbBm8Pvh2dRWNctf1EndN6fOfYZ2yhojHxyRsai/ef67JG9nE8zInej006jR49XzExAOw9plUzG4hnA5pdyabp28bigVTP2V0H1h7cFbwJnyRSBJQ4MTZIk7jI2hOfRSf0cHggO5Mg8tgxufWAEu3QWCfk147IT8wvr1xW07j9z89dyoZiw4bCESMpe6tQKOg5HJ26donDxfMikvW/l1mN5bp+981pgyaYhpOXZ/9zZKE5ZURs31cWsk7KdRSOeqA6bOlJY/raxL7obS2x5RWI0B1ESb+0Qw35AeYYu82Fhcc7ph8HS6OTDCIMyBXrSoxGxM1ou1k8cjZ5jkRjzSzU4aZQiydFUAoDI2rfkgwrlIBonG7SKrV6dVu8k4+bSX/mObo0Ag8N6zbcmTJOMwS+X+Mf/ueZlpAIT2/LfLSCtYEWlnFocUVbSiKDAIJ1TMXWFuUJBfjAcFje/IBFd7hARoibvf5ad0kUgWygqJN5WUrnJpC2TcpwA==;Lj6LXci+orWoVAgNY//3/w=="
 ---

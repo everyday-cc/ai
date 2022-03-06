@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/new-mit-technique-aims-to-boo
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/new-mit-technique-aims-to-boost-fairness-within-machine-learning-models"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,54 +25,6 @@ images:
     width: 480
     height: 278
     isCached: true
-
-related:
-  - title: "Injecting fairness into machine-learning models"
-    excerpt: "If a machine-learning model is trained using an unbalanced dataset, such as one that contains far more images of people with lighter skin than people with darker skin, there is serious risk the model's predictions will be unfair when it is deployed in the real world."
-    publishedDateTime: 2022-03-01T16:10:00Z
-    webUrl: "https://techxplore.com/news/2022-03-fairness-machine-learning.html"
-    ampWebUrl: "https://techxplore.com/news/2022-03-fairness-machine-learning.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-fairness-machine-learning.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/injecting-fairness-int.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Detecting plant leaf disease using deep learning on a mobile device"
-    excerpt: "The visual and tactile examination of plant leaves is a standard method for identifying disease in crops and horticultural products. However, such an approach can be highly subjective and is dependent on the skills of the examiners."
-    publishedDateTime: 2022-03-04T12:28:00Z
-    webUrl: "https://phys.org/news/2022-03-leaf-disease-deep-mobile-device.html"
-    ampWebUrl: "https://phys.org/news/2022-03-leaf-disease-deep-mobile-device.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-03-leaf-disease-deep-mobile-device.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/diseased-leaf.jpg"
-        width: 1920
-        height: 1440
-        isCached: true
-  - title: "Zest AI Releases New Race Prediction Model To Reduce Systemic Bias In Lending"
-    excerpt: "Zest AI, a leader in software for AI-driven lending, today announced the launch of Zest Race Predictor (ZRP). This open-source machine-learning algorithm estimates the race/ethnicity of an individual using only their full name and home address as inputs."
-    publishedDateTime: 2022-03-01T16:02:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-b82e9c4fca1ac7c0a8db8d2538ff2c8a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "vmE+m5ynLN4hwapIPbHT8bWqA/tlV/w8jRSElpSvb4FIGHjXtMNtoNNq7yv7abqeBnP12TyoyOFbIw4bVyFpyOvC+ZKfr/G91s9LN8t3/oVD7uC+kWtYhc4UPsztZZJFWKhapRdqR6e318UXS7S3irQ/J6kSCMtELejiUSQXVOQuDakXeHGxLxHefT82f2275WlTQcrYBDCOgCHwHg9Pbn1OU7YQNyKczIocRnG0E97GLwZ2Aur4KBW0Mnt38WZqm6x0PCQXeHAgCLQwKd3LYdV5GZJd+m615X/ENoDgO0MwYVzd6XEWbtYdbZ5cZ9a7fCHWfPU5nJbR41p9lRLqHz2lBEPmBy87SvueM3khStltEPv/1Egt+GXKHb4Keq/r8x8Xt4JdJzfJk5V/B900YJ0hRM3J5qgF4vcIzQhB/qDZP9/ek7XgUs22VBWqqZBIj7C8Yd0IP3q5pVhXxyOOimqh3xya5GrAUCENBoTtSbEEeSWiT++EsjDE6ERU8HuSYkZqbPplClaBpW20I0W8Rw==;wNZPyYmXxz2+1/hIKwAsCQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/421408"
 webUrl: "https://www.entrepreneur.com/article/421408"
 type: article
 quality: 54
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -109,20 +109,6 @@ related:
       - url: "https://d2tyltutevw8th.cloudfront.net/CACHE/images/media/image/africa-access-1200-1646337019/b7807438d598c5fd683d68db44385799.png"
         width: 500
         height: 260
-        isCached: true
-  - title: "FinovateEurope Returns to London with Showcase Event Featuring Cutting-Edge Fintech Solutions"
-    excerpt: "NEW YORK, March 01, 2022 (GLOBE NEWSWIRE) -- via NetworkWire -- Informa's 2022 FinovateEurope Conference returns to the InterContinental O2 Hotel"
-    publishedDateTime: 2022-03-01T15:43:00Z
-    webUrl: "https://menafn.com/1103783338/FinovateEurope-Returns-to-London-with-Showcase-Event-Featuring-Cutting-Edge-Fintech-Solutions"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 13
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?897974"
-        width: 375
-        height: 250
         isCached: true
 
 secured: "/OXCoxRmUg7SGjdG+v3ewyPg1XyHs+NxuF37vfBPcPp2btfdsK9xeEzjA1mQ1YYhMui8uDc4xgPO2cMMhBIwVM2RhV5WXvKaSFa3+rYNSMGpqpOndXmZjVpCn8PCCtON42jLmtksvLOunf4UF5JNzXkAQZMOP38mvhGGsB2nZDv8lj2UrocTEZYuloPpcGa91q9hBKRCH0g/A/mZMtmUKFHSD5xglhvaiueJL8P6+qG70OMbsPQSCTTE0tEDuvCiCQPlh5wAVhcmSmIr1g9aVSr+TCV5mTjmO+THBfN2pdBCP4fjHlyEPiR82NOKyD/bPcl8bKK5pHbVd3mehQYvtnaUKxYTqIHOOH0r5DC0O4dVol9W15Xc268Q8RC75dNtavAKWbE5ypkaN6lIrXfBVb4PLRouwdVU7qMW02cVus7MbekjFxL2AcTiDVaeWo9lobMDQBSZor3mmXi2JmQpEvxwTamf+JwUtSHDcvZgfF3US0xNO0cngM69cqkBEpmp1XiRHRvkJs3Kt3Nl+QvC/g==;BaBc2tVlpaMxT9DxhqUBMQ=="

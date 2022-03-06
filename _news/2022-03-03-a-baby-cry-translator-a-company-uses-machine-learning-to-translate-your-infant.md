@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/baby-cry-translator-ai"
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/baby-cry-translator-ai"
 type: article
 quality: 72
-heat: 83
+heat: 82
 published: true
 
 provider:

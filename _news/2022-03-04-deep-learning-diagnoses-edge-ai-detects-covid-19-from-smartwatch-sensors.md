@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep-learning diagnoses: AI detects COVID-19 from smartwatch sensors"
-    excerpt: "Combining questions about a person's health with data from smartwatch sensors, a new app developed using research at Princeton University can predict within minutes whether someone is infected with COVID-19."
-    publishedDateTime: 2022-03-01T16:10:00Z
-    webUrl: "https://techxplore.com/news/2022-03-deep-learning-ai-covid-smartwatch-sensors.html"
-    ampWebUrl: "https://techxplore.com/news/2022-03-deep-learning-ai-covid-smartwatch-sensors.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-deep-learning-ai-covid-smartwatch-sensors.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/deep-learning-diagnose.jpg"
-        width: 1536
-        height: 864
-        isCached: true
   - title: "AI helped protect businesses from COVID-19 risks"
     excerpt: "A new study has found that artificial intelligence (AI) apps helped protect small and medium-sized businesses against many of the risks that emerged during the COVID-19 pandemic—yet only a quarter of small firms currently use them."
     publishedDateTime: 2022-03-04T15:34:00Z

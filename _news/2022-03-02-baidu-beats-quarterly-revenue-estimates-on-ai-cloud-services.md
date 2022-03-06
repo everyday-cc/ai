@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu Revenue Beats After Cloud Sales Offset Ad Slowdown"
-    excerpt: "Baidu Inc.’s revenue beat estimates after efforts to monetize artificial intelligence technology helped offset losses in ad sales triggered by China’s economic slowdown. Revenue for the December quarter came in at 33."
-    publishedDateTime: 2022-03-01T15:39:00Z
-    webUrl: "https://www.bloombergquint.com/global-economics/baidu-revenue-beats-after-cloud-sales-offset-ad-slowdown"
+  - title: "Baidu Launches AI Platform to Enable on-Device, Real-Time Translation from Speech to Hand Gestures"
+    excerpt: "launched an AI sign language platform able to generate digital avatars for sign language translation and live interpretation within minutes. Released as a new offering of Baidu AI Cloud's digital ..."
+    publishedDateTime: 2022-03-03T16:04:00Z
+    webUrl: "https://www.asiaone.com/business/baidu-launches-ai-platform-enable-device-real-time-translation-speech-hand-gestures"
+    ampWebUrl: "https://www.asiaone.com/business/baidu-launches-ai-platform-enable-device-real-time-translation-speech-hand-gestures?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/baidu-launches-ai-platform-enable-device-real-time-translation-speech-hand-gestures?amp"
     type: article
     provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 56
+      name: Asia One
+      domain: asiaone.com
+    quality: 45
     images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Baidu beats quarterly revenue estimates"
-    excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. The company said total revenue was 33."
-    publishedDateTime: 2022-03-01T20:43:00Z
-    webUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-2528766"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--uSFnJqlG--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-03-01t085407z_2_lynxmpei201qj_rtroptp_3_baidu-results.jpg?itok=cYQJyey9"
-        width: 1200
-        height: 676
+      - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+        width: 299
+        height: 300
         isCached: true
   - title: "China’s Baidu beats quarterly revenue estimates on AI, cloud services"
     excerpt: "Chinese search engine giant Baidu Inc beat quarterly revenue estimates on Tuesday, powered by growth in its cloud business and AI initiatives."
@@ -67,19 +55,19 @@ related:
         width: 976
         height: 551
         isCached: true
-  - title: "Baidu reports better-than-expected results, driven by AI and cloud businesses"
-    excerpt: "According to IDC's first half of 2021 report on China's public cloud market, Baidu was once again ranked the No. 1 AI cloud provider. The firm has also stressed the significance of self-driving businesses in its financial report, noting that large-scale ..."
-    publishedDateTime: 2022-03-01T16:17:00Z
-    webUrl: "https://www.globaltimes.cn/page/202203/1253662.shtml"
+  - title: "Baidu Launches AI Platform to Enable on-Device, Real-Time Translation from Speech to Hand Gestures"
+    excerpt: "Baidu AI Cloud, a leading AI cloud provider, launched an AI sign language platform able to generate digital avatars for sign language translation and live interpretation within minutes. Released as a new offering of Baidu AI Cloud's digital avatar platform XiLing,"
+    publishedDateTime: 2022-03-03T14:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-baidu-launches-ai-platform-enable-on-device-real-/2022/03/03/9556847.htm"
     type: article
     provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 36
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
     images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-12-20/f989268d-b4f3-4488-8c8a-368ae807bc8d.jpeg"
-        width: 800
-        height: 480
+      - url: "https://mma.prnewswire.com/media/1758980/Baidu_XiLing_Sign_Language_Digital_Avatar_Logo.jpg"
+        width: 400
+        height: 213
         isCached: true
 
 secured: "yI8GTtWv70fsd173JgQjRbNnh/0HDq8LO9l9m05nR9VyHS6hXEOH5vt8ow6k8jf1y4ozmUCWQvfrIY7VJ+rg84iDygkkTayfx2Hpl8qvGj4+u+ZNu6zmLTP+zRcL/j/b/hxp6LT0SLVwHP4M1QeJNAoMMAq1OOsXyadn7HllTPu3a3RgLUwIGi2kKulwb0Y7pPqzYlf7EeW/xtoHsYb4+r6QhDro+KqAlHthsUMvR+rXPM9iYf5c+ibSROk8gVcREgc4ZqY7CT4K9tDXgYjoSXdaNHRnr4wbOOnV2kspbQ+AACCehpvxH2XmO7DGG9mfEZLZ/C9eyuqU+VyXb9bg6JfJgsHgVprVW/p0InApsoTIE1W04rULziw0t01wOU9b7/rwGmYfPCk7bn1+6vz0O1tMZC1CIIogNRuLHvjpzmTMq1znIWnSWeks2PdbzcRF//M+yRUyhg11jgPdLTgv0pIeeLE56rHw7gpizkdwM5IcNeAQQG8cCb5IQsuFUgqVLB21U8ZiTmiC/trDdZbIsQ==;0tR3xNtTvpAuiWMpSevL/Q=="

@@ -39,20 +39,6 @@ related:
         width: 1232
         height: 571
         isCached: true
-  - title: "Anomaly detection with Amazon SageMaker Edge Manager using AWS IoT Greengrass V2"
-    excerpt: "Deploying and managing machine learning (ML) models at the edge requires a different set of tools and skillsets as compared to the cloud. This is primarily due to the hardware, software, and networking restrictions at the edge sites. This makes deploying and managing these models more complex. An increasing"
-    publishedDateTime: 2022-03-01T16:48:42Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/anomaly-detection-with-amazon-sagemaker-edge-manager-using-aws-iot-greengrass-v2/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 99
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/17/ML-6786-image002.jpg"
-        width: 2456
-        height: 1434
-        isCached: true
 
 secured: "wpIOglhNyBGgPg+Gkj+Ap7vD6q0vcMeXiO9T8sVrW7kdUezIg6eGDos8PKw+ICygHWYjPxRAsgnNs2atT7+TsnWjxNJtIiOgQY/CctE6jv0LmrE+Jf+8nHUaNFP+4VLaPxdzxrPFLl3zU9YV0E0HYefTQAGJH4cEIk9jQAlPSqCWGQvI0B3B/xRuRmUPAF1zavS8j0Df+7F2GJsRKmDvzZw5WB7DlBXTQGWHg1xn8pIzB6EZsfCWCFNBKpw0W82w9VF8QEEBsoaMLQW5XW3hbXUE0idLiII0wWngtlyQc4PlC9e7wUbQhp3raSAw7lgIq7pVXJ3TZ4W+cipz0RePt0YFpLfr6VRbLce4843orV4=;WcscqrwhU8FeK8iSzO5jrQ=="
 ---

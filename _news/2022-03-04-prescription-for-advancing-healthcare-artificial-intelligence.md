@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/305679/prescription-for-advancing-health
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/305679/prescription-for-advancing-healthcare-artificial-intelligence.html/amp"
 type: article
 quality: 74
-heat: 95
+heat: 94
 published: true
 
 provider:

@@ -106,20 +106,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "FinovateEurope Returns to London with Showcase Event Featuring Cutting-Edge Fintech Solutions"
-    excerpt: "NEW YORK, March 01, 2022 (GLOBE NEWSWIRE) -- via NetworkWire -- Informa's 2022 FinovateEurope Conference returns to the InterContinental O2 Hotel"
-    publishedDateTime: 2022-03-01T15:43:00Z
-    webUrl: "https://menafn.com/1103783338/FinovateEurope-Returns-to-London-with-Showcase-Event-Featuring-Cutting-Edge-Fintech-Solutions"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 13
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?897974"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "UWgCpmSy7z1rd2LhYiaPpUASj7psk/0Nkv2mDV20sBz0Ybp9mDz6RurgsiO9+CGM3izzPudcYOnI7bb8h+GnzM5l645un0SFeYx+EW1p7paQ9gfVOzwmhFQrLg8X/tqDyaeuxwvhU22D1njvm25HKE9/xBhLHko+Ff1tA5cpnayHOwBORAVsH39XcgHlQdOTRDs9gaKgkBedE9ghih632RcY7TmaPGWtwEpqvWFiyznv3w4HO6WYw3n8soxFL4am+geeqVUjLWLAh6RdE4hwEz6N+xQX6e66Y53mND7mU3KfhVclnrTJ3YmDqboa+Rj4PMxiw7ODLYUdsX8GUqRQM85MlWoBiEFOCrFved/wIOHPa/2OVcigCRovIyBtL5PR1kkcxEobde9A5b4FMzHneZDzjhIcPgb82dCuTb6mP4fOpik3NrZ5DvMhTUXAoPFmMcqsP47muv3qd9jYEzHzCr/uaIa4RlakxnoNQgs/WkGbmc+3RrdQn5wqf1/UEXAwsmJitH7B0VoNZQ55kSQIQA==;cuyysow/43sRAUOvxWsUug=="
 ---

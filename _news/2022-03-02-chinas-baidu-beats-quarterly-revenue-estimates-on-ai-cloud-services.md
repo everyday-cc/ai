@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu Revenue Beats After Cloud Sales Offset Ad Slowdown"
-    excerpt: "Baidu Inc.’s revenue beat estimates after efforts to monetize artificial intelligence technology helped offset losses in ad sales triggered by China’s economic slowdown. Revenue for the December quarter came in at 33."
-    publishedDateTime: 2022-03-01T15:39:00Z
-    webUrl: "https://www.bloombergquint.com/global-economics/baidu-revenue-beats-after-cloud-sales-offset-ad-slowdown"
+  - title: "Baidu Launches AI Platform to Enable on-Device, Real-Time Translation from Speech to Hand Gestures"
+    excerpt: "launched an AI sign language platform able to generate digital avatars for sign language translation and live interpretation within minutes. Released as a new offering of Baidu AI Cloud's digital ..."
+    publishedDateTime: 2022-03-03T16:04:00Z
+    webUrl: "https://www.asiaone.com/business/baidu-launches-ai-platform-enable-device-real-time-translation-speech-hand-gestures"
+    ampWebUrl: "https://www.asiaone.com/business/baidu-launches-ai-platform-enable-device-real-time-translation-speech-hand-gestures?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/baidu-launches-ai-platform-enable-device-real-time-translation-speech-hand-gestures?amp"
     type: article
     provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 56
+      name: Asia One
+      domain: asiaone.com
+    quality: 45
     images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
+      - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+        width: 299
+        height: 300
         isCached: true
   - title: "Baidu beats quarterly revenue estimates on AI, cloud services"
     excerpt: "Chinese search engine giant Baidu Inc beat quarterly revenue Wall Street estimates on Tuesday powered by growth in its artificial intelligence (AI) cloud business. Revenue grew to 33.09 billion yuan ($5."
@@ -53,33 +55,19 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Baidu beats quarterly revenue estimates"
-    excerpt: "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. The company said total revenue was 33."
-    publishedDateTime: 2022-03-01T20:43:00Z
-    webUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-2528766"
+  - title: "Baidu Launches AI Platform to Enable on-Device, Real-Time Translation from Speech to Hand Gestures"
+    excerpt: "Baidu AI Cloud, a leading AI cloud provider, launched an AI sign language platform able to generate digital avatars for sign language translation and live interpretation within minutes. Released as a new offering of Baidu AI Cloud's digital avatar platform XiLing,"
+    publishedDateTime: 2022-03-03T14:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-baidu-launches-ai-platform-enable-on-device-real-/2022/03/03/9556847.htm"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--uSFnJqlG--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-03-01t085407z_2_lynxmpei201qj_rtroptp_3_baidu-results.jpg?itok=cYQJyey9"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Baidu reports better-than-expected results, driven by AI and cloud businesses"
-    excerpt: "According to IDC's first half of 2021 report on China's public cloud market, Baidu was once again ranked the No. 1 AI cloud provider. The firm has also stressed the significance of self-driving businesses in its financial report, noting that large-scale ..."
-    publishedDateTime: 2022-03-01T16:17:00Z
-    webUrl: "https://www.globaltimes.cn/page/202203/1253662.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 36
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-12-20/f989268d-b4f3-4488-8c8a-368ae807bc8d.jpeg"
-        width: 800
-        height: 480
+      - url: "https://mma.prnewswire.com/media/1758980/Baidu_XiLing_Sign_Language_Digital_Avatar_Logo.jpg"
+        width: 400
+        height: 213
         isCached: true
 
 secured: "w13GxzxvS4tfjhKntOWYp/I85pMIERDt1LhsqrAguMuLxgjv1hCv3c8Ei+I3SCqcoJJQf5Xyx/+yrypLIfvlJBKbm57qWieaypfe7jUC/6vQ2nQkadWijJPwab59cqVPbCposff08cWzK0VRNvQ8FsopTcrXA8ciVD/ao+4lD0KFzExI710kf4m+7RHV9Zb89j66cAM64TcHmRpdpn6aN4/zj57vwTr1CA5cs5RtC5RXLz43V9nEo9P9scZefSW684dxQSJo6UGUZE19kz+ldZy5oPGI8w/ABPUhPZrguP2pw03sC45wVlxWQJn+AGeV/Wzf0N3zIMAknzLkXz1+4oP3wCyI1GBhWOrW4NNmodZdpBFI4eVYBk6H542O8BeqLcho1lgcV6X5mC6sIv1RNdFg64rULSL7elDMwtjJLWGK2POIXXHr1+l6ZuY69aYOMFNqFT/8jtBv6wVrwFGjOPssNjT735Uq/Ug9FC5d0R2qQX8auv36XtjvbMA6hTaS+osF5xmry5euwGSdihJarQ==;fj9B1dhnmWqlIfYI91naNw=="

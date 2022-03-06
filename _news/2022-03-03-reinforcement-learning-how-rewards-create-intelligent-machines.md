@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/how-rewards-work-in-reinforcement-lear
 webUrl: "https://thenextweb.com/news/how-rewards-work-in-reinforcement-learning-deepmind"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: The Next Web
@@ -29,68 +29,43 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning improves human speech recognition"
-    excerpt: "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age."
-    publishedDateTime: 2022-03-01T16:00:00Z
-    webUrl: "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html"
-    ampWebUrl: "https://techxplore.com/news/2022-03-machine-human-speech-recognition.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-machine-human-speech-recognition.amp"
+  - title: "Machine learning: Roche is top clinical trial operations innovator in Q4"
+    excerpt: "Yet, research and innovation in machine learning in the clinical trial operations sector has declined in the last year."
+    publishedDateTime: 2022-03-02T11:00:00Z
+    webUrl: "https://www.clinicaltrialsarena.com/dashboards/patents/machine-learning-roche-is-top-clinical-trial-operations-innovator-in-q4/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 76
+      name: Clinical Trials Arena
+      domain: clinicaltrialsarena.com
+    quality: 38
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-impro.jpg"
-        width: 2880
-        height: 1620
+      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2022/02/Untitled-2-1038x778.png"
+        width: 1038
+        height: 778
         isCached: true
-  - title: "Human Speech Recognition Model to Overcome Hearing-Impairment"
-    excerpt: "Human speech recognition may be improved by machine learning as per a study at the American Institute of Physics, published in The Journal of the Acoustical Society of America, by the Acoustical Society of America through AIP Publishing."
-    publishedDateTime: 2022-03-01T17:57:00Z
-    webUrl: "https://www.medindia.net/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm"
+  - title: "Koala Creates a Cross-Selling Powerhouse for Restaurant Brands With the Introduction of Machine Learning"
+    excerpt: "The new feature is designed to increase check size and guest satisfaction by utilizing machine learning to make tailor-made recommendations for cross-sell suggestions. The brand piloted the new tool with WaBa Grill, the fast-growing Southern California ..."
+    publishedDateTime: 2022-03-02T14:18:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/koala-creates-a-cross-selling-powerhouse-for-restaurant-brands-with-the-introduction-of-machine-learning/article_768d617b-73e4-5ff1-8b9a-63bdf3aa6424.html"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 74
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 22
     images:
-      - url: "https://images.medindia.net/amp-images/health-images/hearing-impairment-mental-health.jpg"
-        width: 1200
-        height: 1000
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Researchers explore a human speech recognition model based on machine learning"
-    excerpt: "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age."
-    publishedDateTime: 2022-03-02T05:12:00Z
-    webUrl: "https://www.news-medical.net/news/20220302/Researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220302/Researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220302/Researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.aspx"
+  - title: "Deep Learning: It's Not Too Good to Be True - It's Genuine Progress"
+    excerpt: "Deep learning has come on leaps and bounds in recent years and is fast-tracked to becoming one of the most revolutionary technologies in cybersecurity. As a subset of artificial intelligence (AI), deep learning is often confused with associated technologies like machine learning (ML)."
+    publishedDateTime: 2022-03-03T16:30:00Z
+    webUrl: "https://www.infosecurity-magazine.com/opinions/deep-learning-genuine-progress/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 72
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Hearing_Loss-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "Researchers Develop Human Speech Recognition Model With Deep Neural Networks"
-    excerpt: "A group of researchers from Germany is exploring a new human speech recognition model based on machine learning and deep neural networks. The new model could help greatly improve human speech recognition."
-    publishedDateTime: 2022-03-03T19:43:00Z
-    webUrl: "https://www.unite.ai/researchers-develop-human-speech-recognition-model-with-deep-neural-networks/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 53
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2022/03/brain-6103020_1280.jpg"
-        width: 900
-        height: 600
-        isCached: true
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
 
 secured: "mZ+zRvF5RAq1HRgiVFGakWn3cX3Atv6BHsF1xyxZfM2HSfYtXO1frPiF4stvkmtfM0GXcOd5Dfi6/7pON+SSQhTJZ0nomBgsS41qCxA+dbhP5AQijR+/WW1REYlj3K1eLOd0ULpo8YcqYD1zFn/E2gD3OjVBON/HOvKWnu5GcU4S90HcbmkYkQ1bvjzNa7nHjmi1r23EBwK7vdrNuAzZ7sv7E3K/v5rYKQw7ls6Cw/ZTZwyjonJM7jox1pNms78HmEGBNFsmPFJw7FTsZ5iYzsYxAPWqmytruwZgJ8OYSaba7/35mT/wCJboeEOq8xEFJxmN5s45xsKrbsT5ZY9Uo+iGW7sA9h5+JpDIiG9L7B2YzWF+ELnsK9DUN1cKPXuPYcJEebDYY55MDFhuTvS9gst6Oc3bM0dV+E6hN9r/GVXmbUtsHlX2K4popgUhVTRTYhDRz7p9MdYfUL+WmlCdEBTavGbmw+SwNDrRb/jFmDGpRyI4bUn8ql30DqyZWTvteBvV69fU4gPGkloIma5mMg==;tp6BXSPRce5cqc4bCKFdAg=="
 ---

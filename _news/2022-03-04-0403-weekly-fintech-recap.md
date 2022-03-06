@@ -53,20 +53,6 @@ related:
         width: 1110
         height: 760
         isCached: true
-  - title: "Edge Focus Bolsters Fintech Expertise with Multiple Strategic Appointments"
-    excerpt: "Edge Focus, a technology company that applies machine learning and artificial intelligence to analyze credit, is pleased to announce the appointment of Neel Mehta as Chief Marketing Officer, YeeMan Bergstrom as Principle Data Scientist,"
-    publishedDateTime: 2022-03-01T15:29:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-artificial-intelligence-be2b97e7d0c843ee9b117846952a1f00"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "AfvJjLN7jwEqEqsSMpDrBMa5zSqCOgSoN2IqWNr+0Nnaavx3NgjFPeGEPBZlM4lUUFl9GoQQtLl7I+XRwi6baEqeeatEcFmFFXy+ZvbIF9dHis73rIMAkDhXURtl5I5Ek7wiBydhODtm1fOQZJwM55TNw/pg71Fltfi34FIyJrBslfP9NTVoUwjjkBocKoP8q7TNlee9MhtB2qzWn6tElIYGFFhNHPioijTcDM6XWDq8AtapRt5uGAM9hkCELGPK6cN6C8kbtH3O12SOnJcpEZuAn3+LNlho8pIYIrUfBgETHQ6/ZfVCruv0HpcWbKE3zrBuoG3bX+CZJf6Gf1R90THafcqRsSBzoiSjYlP1cyE=;KS3cvaPRdNbCPb29k26KlA=="
 ---
