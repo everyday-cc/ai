@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Financial Inclusion Revolutionized By African Fintechs"
-excerpt: "Between 2014 and 2019, Nigeria’s bustling fintech scene raised more than $600 million in funding,” says global consultancy McKinsey in a September 2020 report. In 2019, the country attracted $122 million,"
-publishedDateTime: 2022-03-03T20:15:00Z
-originalUrl: "https://www.gfmag.com/magazine/march-2022/african-fintechs-expand-financial-inclusion"
-webUrl: "https://www.gfmag.com/magazine/march-2022/african-fintechs-expand-financial-inclusion"
+title: "CredAvenue fastest Indian fintech unicorn after raising $137 mn"
+excerpt: "Debt marketplace CredAvenue on Sunday announced that it is India's fastest fintech to join the unicorn club with a Series B fundraising round of $137 million. The fundraising round was led by New York-based global private equity and venture capital firm Insight Partners,"
+publishedDateTime: 2022-03-06T14:42:00Z
+originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=933961"
+webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=933961"
 type: article
-quality: 24
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Global Finance
-  domain: gfmag.com
+  name: Daijiworld
+  domain: daijiworld.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://d2tyltutevw8th.cloudfront.net/CACHE/images/media/image/africa-access-1200-1646337019/b7807438d598c5fd683d68db44385799.png"
-    width: 500
-    height: 260
+  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/rosedale_sq_101720.jpg"
+    width: 280
+    height: 250
     isCached: true
 
 related:
@@ -69,20 +69,6 @@ related:
         width: 800
         height: 594
         isCached: true
-  - title: "CredAvenue fastest Indian fintech unicorn after raising $137 mn"
-    excerpt: "Debt marketplace CredAvenue on Sunday announced that it is India's fastest fintech to join the unicorn club with a Series B fundraising round of $137 million. The fundraising round was led by New York-based global private equity and venture capital firm Insight Partners,"
-    publishedDateTime: 2022-03-06T14:42:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=933961"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 39
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/rosedale_sq_101720.jpg"
-        width: 280
-        height: 250
-        isCached: true
   - title: "AI in Fintech Market Giants Spending Is Going To Boom | Google, Intel, Amazon Web Services"
     excerpt: "Advance Market Analytics published a new research publication on “Global AI in Fintech Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in presentable format. In the Study you will find new evolving Trends ..."
     publishedDateTime: 2022-03-04T10:50:00Z
@@ -120,7 +106,21 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Financial Inclusion Revolutionized By African Fintechs"
+    excerpt: "Between 2014 and 2019, Nigeria’s bustling fintech scene raised more than $600 million in funding,” says global consultancy McKinsey in a September 2020 report. In 2019, the country attracted $122 million,"
+    publishedDateTime: 2022-03-03T20:15:00Z
+    webUrl: "https://www.gfmag.com/magazine/march-2022/african-fintechs-expand-financial-inclusion"
+    type: article
+    provider:
+      name: Global Finance
+      domain: gfmag.com
+    quality: 24
+    images:
+      - url: "https://d2tyltutevw8th.cloudfront.net/CACHE/images/media/image/africa-access-1200-1646337019/b7807438d598c5fd683d68db44385799.png"
+        width: 500
+        height: 260
+        isCached: true
 
-secured: "UWgCpmSy7z1rd2LhYiaPpUASj7psk/0Nkv2mDV20sBz0Ybp9mDz6RurgsiO9+CGM3izzPudcYOnI7bb8h+GnzM5l645un0SFeYx+EW1p7paQ9gfVOzwmhFQrLg8X/tqDyaeuxwvhU22D1njvm25HKE9/xBhLHko+Ff1tA5cpnayHOwBORAVsH39XcgHlQdOTRDs9gaKgkBedE9ghih632RcY7TmaPGWtwEpqvWFiyznv3w4HO6WYw3n8soxFL4am+geeqVUjLWLAh6RdE4hwEz6N+xQX6e66Y53mND7mU3KfhVclnrTJ3YmDqboa+Rj4PMxiw7ODLYUdsX8GUqRQM85MlWoBiEFOCrFved/wIOHPa/2OVcigCRovIyBtL5PR1kkcxEobde9A5b4FMzHneZDzjhIcPgb82dCuTb6mP4fOpik3NrZ5DvMhTUXAoPFmMcqsP47muv3qd9jYEzHzCr/uaIa4RlakxnoNQgs/WkGbmc+3RrdQn5wqf1/UEXAwsmJitH7B0VoNZQ55kSQIQA==;cuyysow/43sRAUOvxWsUug=="
+secured: "gNENUVa5OK3nLIt/qKheMYsn4loB2b/9oJFtLBISbZyI9zAZ6MOELuGLumgTxEDmy19eXQLUEPQnwqf/ljanSOvZ2z8T8aZu5X54aZdDxj8K5jfu18c9hbvzroks1vbf/iRnwooieADA5wc8W3CbX9J84YA4G4mMV3JbvAYsE+IOL63jLOg+OmdvSUg/7Zh1Ti8GUrf6sD/sLb+F7v6nmWTx+EYvdMe80uFUexvauPd2r1aPpTVoc02uLqeJSTm7d5AsjU3jCPNVI56kOMc0TcOVg+2X7AuKM8YnkrAu7AsUg3qjF+/a7ZfFNT9Mk/+1tpwvQeOR8PcalPZFb1Frnw4d7tdzcWW/K3uNeIOYFSc=;fMaNa/RhrBOtO6qQ5F4EcQ=="
 ---
 

@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Voipfuture Has Joined AWS ISV Accelerate Program"
-excerpt: "Voipfuture, a provider of a unique carrier-grade, dual-visibility voice service quality monitoring and analytics solution, has announced today that it has been accepted"
+excerpt: "Voipfuture, a provider of a unique carrier-grade, dual-visibility voice service quality monitoring and analytics solution, has announced today that it has been accepted into the Amazon Web Services (AWS) Independent Software Vendor (ISV) Accelerate Program,"
 publishedDateTime: 2022-02-24T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/voipfuture-has-joined-aws-isv-accelerate-program/article_7164cf91-4b6b-5e06-bb41-be033504d8fa.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/voipfuture-has-joined-aws-isv-accelerate-program/article_7164cf91-4b6b-5e06-bb41-be033504d8fa.html"
+originalUrl: "https://www.marketwatch.com/press-release/voipfuture-has-joined-aws-isv-accelerate-program-2022-02-24"
+webUrl: "https://www.marketwatch.com/press-release/voipfuture-has-joined-aws-isv-accelerate-program-2022-02-24"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "j7abr1+imQkzehJgt8ZgHJUAH1Gf9+Uk5gC6cYPbf9pUTRgossY3jsQZY+tUApmD0ehK1OBujIcnUdXY9SfPnZO0zIzWh6gydWi72JrKu+KxDN/FLanfzppOPowf4WM2F+4nqwUWN++a/6oY8mvfhWp2atDRYlCZaUjfW7G2Av8MVlnGGvMpyCDap8N1uYNhK+GvSK6c5kQ/QcowtOR6bf6YSHZ9L49KOJ924ad/8geBj4K5BGRQyxYzoiqZfKp4OTF+AAcrYDiDJRd3HOI6dECsuTKGRwI1/vbgA2lq64Sq0b5DJGoqClT8GPrxILqJq2ovFhlIMufqjlXGWh+YHzgMPasS+ef0R8GkQ5GOQ80=;s7XJS/u3ojMrjfvfZKiukg=="
+secured: "Xqv8s9QV/V//6C6Pw3MnyrWEXQ4uOThXOT7InygLs5AzM+tYjIhVlWga0GLnePV0ON2azaOHo0xTFNodSbZK1UC70zOhkzaDoFeKY0JScBvgqONLESBuc/j1D3CfIFOETwZ0hWdDtfIYlxSp8UvzmNUAnhHfCVx9tyrmxdtGH2yedy8eqEb/mWhbWlhLMGaaJ2E9Cv1rcEK4dHVaLnyNxDd8YeyDEM8tJx/5nvo5c8/0oEovX0Tw6CF2Z22GpJD9JUR5BeiY1N0/pmATKEMGkNEF7nKDhtABt+vTdbymr4bakWNOJs5r2WIHNl8iySJxNY6UryodsnI14Ni8Ty1Hj3RtPs93mK4mUsB6KaWTfhU=;iAukigSMlgj0idpIBzKZVg=="
 ---
 

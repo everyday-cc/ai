@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Renesas and Fixstars to Establish Automotive SW Platform Lab to Develop Software and Operating Environments for Deep Learning"
-excerpt: "As Part of Collaboration, Companies Launch Cloud-Based Evaluation Environment for R-Car SoCs to Enable Simple Initial Evaluation for Device Selection Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions,"
-publishedDateTime: 2022-03-02T07:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20220302005331/renesas-and-fixstars-to-establish-automotive-sw-platform-lab-to-develop-software-and-operating-environments-for-deep-learning"
-webUrl: "https://www.morningstar.com/news/business-wire/20220302005331/renesas-and-fixstars-to-establish-automotive-sw-platform-lab-to-develop-software-and-operating-environments-for-deep-learning"
+excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, and Fixstars Corporation, a global leader in multi-core CPU/GPU/FPGA acceleration technology, announced their intention to collaborate in the automotive deep learning field."
+publishedDateTime: 2022-03-02T13:09:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-renesas-fixstars-establish-automotive-sw-platform-lab-develop-/2022/03/02/9555532.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-renesas-fixstars-establish-automotive-sw-platform-lab-develop-/2022/03/02/9555532.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
@@ -34,6 +34,6 @@ related:
         height: 397
         isCached: true
 
-secured: "vBOO+Jebfz/Otv+LFAQ1NzUmr8KlllDLvVbRVZWTEMEMYUi+AZFcrk4Z22SkwQN1WL6FiigFeJpvtvNy3I9StSs2Of4Ervbc7Uy1VAiJeYLAK9jcme1J1JWB+wKAAkG44Moxkv3OIWwL1DyA3/gMNoTATzTCemUdQZyhGJ8ymFg3Afn4nyohjgeeYOcphWpD0ow7zuuR/e6NIZ7OpzoPkD+YQIhpjApKQVtgTYYlsgtEwQ6UyLX0dnOimejpncBUYI5WYpru49RKX+2iMB/LzEGTJgdcugD9QwoKbaLmLxhwFxLDj735r5AQ2e+g6GT3U2tsMr3vV+CeMf5rDYZoBZ/KSZgqWZiXyWY/6STzMRQrAMtxs63IM0I4wD1pAzHwehHlDTLhFbsudLBwP88IGvkwBO/ShqhUvRYuC+dHaOIB46rsLRqzqS/L4o43TsYWOA+1LlvOPtNgttawEquj9J2mrM6qZd6k/ixFqHDrRWUPErxFOa4F7UYuVJi5gNWhNyWv43uC9+uwER9FM2cyoQ==;4zs1VUM5HoRB/TkneTCIEA=="
+secured: "0ANWLkHGWQ/ciUNxx66keh0+PHdjUNv0mslHQ8fLqOoFvc4GedSURn3ouA8XA1nx0S8nnxnhLBsV1s6cqXlCRpmID8IHlOCWmkZzaR7iAsDHTERrvQuJgOUdpFpUEqvPrzkk2QV7T4RMz8ayQnNkqN080uZ5T7+uBEvFFJzFVYLTPGp3iDGWpy0wwOGCpK/13LcEQeImqqCetxcmM4hKuy0Yy6YUS6pmQpT5mLU8Sv8ZMAtAhvadCCaTIWhmR/21g+EuEOK+ByHFCELDWfhJ9f5NKSeFkrakWLT4BWRyOq509JIJKCui/3FRq13u5pRP/88lyNsEbjn7YRqW9NUFUCqD2CTvTLYIm4MBAL8YA0nCCDMVVtqYQi8oDzEaQewvGnKOPT3ebrONgsr5uNLXD15Cpq6hYPMJmS6Z/TQvah2YTmwEs55N6Iyrt2ECYR3XFG8O+Z5QZ7LttbbjqaesKuYQ7js855utEbc3FzCXW9V1kcDFyomowAvlW47aHzgO7cw3JcKNRAgU5wFbndbZgQ==;uRvINpGh/nKXJJVCXWcErQ=="
 ---
 

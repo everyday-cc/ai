@@ -69,15 +69,6 @@ related:
         width: 500
         height: 749
         isCached: true
-  - title: "Deep learning guided optimization of human antibody against SARS-CoV-2 variants with broad neutralization"
-    excerpt: "SARS-CoV-2 continues to evolve through emerging variants, more frequently observed with higher transmissibility. Despite the wide application of vaccines and antibodies, the selection pressure on the Spike protein may lead to further evolution"
-    publishedDateTime: 2022-03-01T22:13:00Z
-    webUrl: "https://www.pnas.org/doi/10.1073/pnas.2122954119"
-    type: article
-    provider:
-      name: PNAS
-      domain: pnas.org
-    quality: 17
 
 secured: "H8ZeL/VoSb/cWndQq1gtAkuZCZBbDK0klBoLdYzEUd4hbTD9T6AvHpYpHJ0Yl/Ze1vnfWDfslqlx02X85JneQr/fSrJ5EikcueecfLArq9074PnoXfPEScLeH3HyO60XTuv8sN66+oyEk2oyU05QUgjIzIIaOXkx3VbM7t1XGKL9StWZanG0nR3Tr7s2tA7JYO56soLsh+mUrjKOh29DfiJuaGTo+b3lwrXYCAVcIBWuZBWuWP1GJq+A++1ARB5um9e726/wuwuD5g5GKPi0dfPmAkYEd07nDEHmHDJPl/hO2BROJLDZ2yKzOROB/m6luDvydAfVAzeVnaLZN8r00eIR+lNhXnM1Bfi8ZLMHVtTgx3dOQLjeBBgLNwHtZNq/wtyfkDY8fV5AzWPriVdWlrZnekkA9X98iuvjWSf67ByYNrN5hYv0jRZQ6VwUIZ+Hkz7Zt/jliyMw+Sq0D6Y05HhQ5f2moGI5aJK/5xyKIpTVL6XWccQKRWpPX9PlBnW07GURdLKg4e61URcALHhuIA==;LR0u2cpADsTDQRY+886JVw=="
 ---
