@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/03/04/infrastructure-is-broken-gecko-is-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/04/infrastructure-is-broken-gecko-is-using-robotics-to-help-fix-it/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:

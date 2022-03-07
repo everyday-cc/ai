@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/washington-to-roll-out-facial-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/washington-to-roll-out-facial-recognition-dropped-by-irs?_amp=true"
 type: article
 quality: 59
-heat: 90
+heat: 89
 published: true
 
 provider:

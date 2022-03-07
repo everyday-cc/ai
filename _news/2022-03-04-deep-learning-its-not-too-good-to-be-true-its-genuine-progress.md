@@ -33,20 +33,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Koala Creates a Cross-Selling Powerhouse for Restaurant Brands With the Introduction of Machine Learning"
-    excerpt: "The new feature is designed to increase check size and guest satisfaction by utilizing machine learning to make tailor-made recommendations for cross-sell suggestions. The brand piloted the new tool with WaBa Grill, the fast-growing Southern California ..."
-    publishedDateTime: 2022-03-02T14:18:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/koala-creates-a-cross-selling-powerhouse-for-restaurant-brands-with-the-introduction-of-machine-learning/article_768d617b-73e4-5ff1-8b9a-63bdf3aa6424.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 22
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "RVctJyOq/+jCWcdRy2ZaueoIo4LxCHrzq9/rvs7V1Ts9hFuB08sE9lC9/KY0OXR8UrZumGnnWSyOmC1m0ABednbVOc2B0Z7GP4Nu0SjeEwImFrIiI+g/2acfdQNLM8aV5iBqhQtECxCW1JOz+86xp58+mxLeAg18i6C37SO6qnYzPjbh7f5Zy+wv/0nsWW7lBNA97ahZHlA0kh0mhqDUint4o49bgQE1OYZyCWil3SJeKA8ucXDJ+Wbx3DOHq9PqwjjUJXtTl2oGiRklLikMO+60N0rxBPVjLAFdJWcKrSYQy2fX0RIDspTSRvKxmczCA71NaB/Om9jhVmvF14r8uBd0UtoSnqwkP/oTfAiA/dxId/1I29D/NiHj4cjlLec1n/NSRh2hmyOaAwoLVmOG8v8/iGro6HwGP12d597UBQVhetmpJPF9j2iVQDzCBSLP7VFpZfYy6QzLaAEMpTQHvclNyndLXch4kgy3n5uZLj2PNkv23kiSXFsumh5iBjqD8RrMs1tS9V5/p2IV5l+3bw==;NJNiG3Vs6goa5PBavUf+sw=="
 ---

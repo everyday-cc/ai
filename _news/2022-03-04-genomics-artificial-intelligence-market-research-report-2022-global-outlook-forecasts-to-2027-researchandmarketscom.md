@@ -24,24 +24,24 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in the Education Sector Market PESTELE Analysis, Drivers, Restraints Research Report by 2028"
-    excerpt: "The Global artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 and register a"
-    publishedDateTime: 2022-03-02T13:38:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-pestele-analysis-drivers-restraints-research-report-by-2028"
+  - title: "Smart Robot Market Report 2022-2027 | Industry Trends, Size, Share and Forecast"
+    excerpt: "According to the latest report by IMARC Group, titled, “Smart Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    publishedDateTime: 2022-03-03T12:17:00Z
+    webUrl: "https://www.digitaljournal.com/pr/smart-robot-market-report-2022-2027-industry-trends-size-share-and-forecast"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 48
+    quality: 35
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/6f36adb06597c8add3e517ea4970f7781a732f19-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEhsLpc1JaYzKNoB35rqXxC2v0Ar7fE3gGpcMA045BA_BLCSkh9-tHZUTxjI_t-JGWpPtcH0r0W_CG4PsvQFO0FZT5XYbJUp0nArVh0IqYHToRgzSPbz6p_JDNnIbb5EXMHaHCZnZwwRN0Ii3QwxlPgtq4jwJznNmmWLRwVA9n4ZNaP3lYHhyNQrey8=w377-h432"
+        width: 327
+        height: 432
         isCached: true
-  - title: "Global Artificial Intelligence in Manufacturing Market Size, Segmentation, 2022: Analysis Top Key Player, Supplier, Vendor, in the Overall Market"
-    excerpt: "Industry research.co has introduced a new market study on” Artificial Intelligence in Manufacturing Market” 2022-2028"
-    publishedDateTime: 2022-03-03T06:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-manufacturing-market-size-segmentation-2022-analysis-top-key-player-supplier-vendor-in-the-overall-market-2022-03-03"
+  - title: "Artificial Intelligence-Emotion Recognition Market Upcoming Trends, Business Growth, Competitors, Company Market Share and Forecast 2022 to 2028"
+    excerpt: "The \"Artificial Intelligence-Emotion Recognition Market\" report covers the global and regional market with an in-depth analysis of the overall growth prospects in the market. Artificial Intelligence-Emotion Recognition Market contains a comprehensive analysis of company details,"
+    publishedDateTime: 2022-03-04T05:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-upcoming-trends-business-growth-competitors-company-market-share-and-forecast-2022-to-2028-2022-03-04"
     type: article
     provider:
       name: MarketWatch
@@ -52,59 +52,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence Market 2022 SWOT Analysis and Worldwide Growth Survey by 2031"
-    excerpt: "Kenneth Research, in its repository of market research reports, has recently added a report on Automotive Artificial Intelligence Market that emph"
-    publishedDateTime: 2022-03-03T06:44:00Z
-    webUrl: "https://menafn.com/1103792434/Automotive-Artificial-Intelligence-Market-2022-SWOT-Analysis-and-Worldwide-Growth-Survey-by-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 26
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?406730"
-        width: 312
-        height: 250
-        isCached: true
-  - title: "Deep Neural Network Market Research Report Including Drivers, Restraints, Global Industry Outlook and Key Players Analysis By 2027"
-    excerpt: "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to be driven owing to extensive rise in the"
-    publishedDateTime: 2022-03-02T13:43:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-neural-network-market-research-report-including-drivers-restraints-global-industry-outlook-and-key-players-analysis-by-2027"
+  - title: "Artificial Intelligence Market Trends 2022 | Growth, Share, Size, Demand and Future Scope 2027"
+    excerpt: "According to IMARC Group’s latest report, titled “Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    publishedDateTime: 2022-03-03T08:42:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-trends-2022-growth-share-size-demand-and-future-scope-2027"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 24
+    quality: 27
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/6f36adb06597c8add3e517ea4970f7781a732f19-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Artificial Intelligence in Military Market to Surpass Valuation of USD 6.50 Bn by 2028, Notes Emergen Research Study"
-    excerpt: "The global Artificial Intelligence (AI) for military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4%"
-    publishedDateTime: 2022-03-04T11:08:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-military-market-to-surpass-valuation-of-usd-6-50-bn-by-2028-notes-emergen-research-study"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 14
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/2b5ce7f68fd37f90ffb8890d66feb1a81c0b7d44-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "image recognition Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report"
-    excerpt: "The global image recognition market size is expected to reach USD 80.29 Billion at a steady CAGR of 15.3% in 2028, according to latest analysis by Emergen"
-    publishedDateTime: 2022-03-02T14:03:00Z
-    webUrl: "https://www.digitaljournal.com/pr/image-recognition-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 5
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/6f36adb06597c8add3e517ea4970f7781a732f19-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/2dc6109d10f9c7cb3e53b861d7a9f851d454174b-600x337.jpg"
         width: 600
         height: 337
         isCached: true

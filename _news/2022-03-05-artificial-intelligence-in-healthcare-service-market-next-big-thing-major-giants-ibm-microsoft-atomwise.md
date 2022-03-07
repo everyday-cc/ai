@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healt
 webUrl: "https://www.cedars-sinai.org/newsroom/cedars-sinai-establishes-new-division-artificial--intelligence-in-medicine/"
 type: article
 quality: 157
-heat: 247
+heat: 248
 published: true
 
 provider:

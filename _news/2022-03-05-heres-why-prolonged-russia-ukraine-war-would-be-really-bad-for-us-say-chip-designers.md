@@ -57,6 +57,20 @@ related:
         width: 3500
         height: 2333
         isCached: true
+  - title: "Russian autonomous-driving company Yandex idles U.S. operations amid Ukraine invasion"
+    excerpt: "Self-driving tech company Yandex said it paused operation of its robotaxis in Ann Arbor, Mich., and ended a delivery partnership with Grubhub."
+    publishedDateTime: 2022-03-04T19:27:00Z
+    webUrl: "https://www.autonews.com/mobility-report/russian-autonomous-driving-company-yandex-idles-us-operations-amid-ukraine-invasion"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 32
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Yandex-MAIN_i_0.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "bwbtj1ejABgIc1yN1mOC7DGHTvLNKJ3CXmQDwadqAhKYf6bjdrsr+81AoA+LB8GwczQmiqEQ/VO3vlUEocFTA7Cy75GKj2wchowxoH9HKEKDMVcsSra6G+qeDXtCYAalKGXjGd/wBLsR35SUKiFyfBbQwrgE3Kn/5wS6m8DaE8p4Gi6FZveZyjVS4rsbQh//ENRI2n7XB/iJh3DQpRAqz/dyL/OqQYsvthfc//q1j0v/VhU3Z0KEEpCsjNA3cjPThuGJ5SfkPQ0wmv2JnlaeEbAQchKKsfTwErM754uXInFpBiJ3M20XUEuuWZfYPAgslu+PGPfq/nG3uUtszlLTfiSO0dCCh/dA6waNfLhIAuU=;lUJSVUi/MWK2L+eYcJ6rwQ=="
 ---

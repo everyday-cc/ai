@@ -25,19 +25,100 @@ images:
     isCached: true
 
 related:
-  - title: "This Fintech's Hypergrowth Could Last for Years"
-    excerpt: "Upstart Auto went live in 2021 after the company acquired Prodigy and married its AI with Prodigy's retail software. It gives automotive dealers a digital sales tool that can instantly get lending decisions from Upstart instead of going back and forth with ..."
-    publishedDateTime: 2022-03-02T13:37:00Z
-    webUrl: "https://www.fool.com/investing/2022/03/02/this-fintechs-hypergrowth-could-last-for-years/"
+  - title: "7 Favorite Fintech Stocks to Buy After the Correction"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Here are 7 fintech stocks trading at significant discounts with the industry poised to thrive in the foreseeable future."
+    publishedDateTime: 2022-03-04T14:02:00Z
+    webUrl: "https://www.entrepreneur.com/article/421408"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
+      name: Entrepreneur
+      domain: entrepreneur.com
     quality: 54
     images:
-      - url: "https://g.foolcdn.com/editorial/images/668280/gettyimages-1319565513-1.jpg"
-        width: 2309
-        height: 1299
+      - url: "https://assets.entrepreneur.com/providers/investorplace/hero-image-investorplace-421408.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "7 Favorite Fintech Stocks to Buy After the Correction"
+    excerpt: "Here are 7 fintech stocks trading at significant discounts with the industry poised to thrive in the foreseeable future."
+    publishedDateTime: 2022-03-03T06:10:00Z
+    webUrl: "https://investorplace.com/2022/03/7-favorite-fintech-stocks-to-buy-after-the-correction-finx-gs-meli-pypl-upst-v-vfin/"
+    ampWebUrl: "https://investorplace.com/2022/03/7-favorite-fintech-stocks-to-buy-after-the-correction-finx-gs-meli-pypl-upst-v-vfin/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/03/7-favorite-fintech-stocks-to-buy-after-the-correction-finx-gs-meli-pypl-upst-v-vfin/amp/"
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 44
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2021/07/fintech_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Detroit FinTech Firm Bankjoy Adds 16 Credit Unions to its Service"
+    excerpt: "Bankjoy in Detroit announced it has added 16 credit unions from across the U.S. to its seamless end-to-end digital service ecosystem."
+    publishedDateTime: 2022-03-04T17:02:00Z
+    webUrl: "https://www.dbusiness.com/daily-news/detroit-fintech-firm-bankjoy-adds-16-credit-unions-to-its-service/"
+    type: article
+    provider:
+      name: DBusiness Magazine
+      domain: dbusiness.com
+    quality: 39
+    images:
+      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2022/03/Bankjoy3.4-800.png"
+        width: 800
+        height: 594
+        isCached: true
+  - title: "CredAvenue fastest Indian fintech unicorn after raising $137 mn"
+    excerpt: "Debt marketplace CredAvenue on Sunday announced that it is India's fastest fintech to join the unicorn club with a Series B fundraising round of $137 million. The fundraising round was led by New York-based global private equity and venture capital firm Insight Partners,"
+    publishedDateTime: 2022-03-06T14:42:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=933961"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 39
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/rosedale_sq_101720.jpg"
+        width: 280
+        height: 250
+        isCached: true
+  - title: "AI in Fintech Market Giants Spending Is Going To Boom | Google, Intel, Amazon Web Services"
+    excerpt: "Advance Market Analytics published a new research publication on “Global AI in Fintech Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in presentable format. In the Study you will find new evolving Trends ..."
+    publishedDateTime: 2022-03-04T10:50:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-giants-spending-is-going-to-boom-google-intel-amazon-web-services"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 26
+  - title: "Paysafe to Participate in the Wolfe FinTech Forum March 9"
+    excerpt: "Paysafe Limited (NYSE: PSFE), a leading specialized payments platform, today announced that Chief Executive Officer, Philip McHugh, and Chief Financial Officer, Izzy Dawood, will participate in the Wolfe FinTech Forum on Wednesday,"
+    publishedDateTime: 2022-03-03T12:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=625820"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
+  - title: "WEX Inc. to Present at the Wolfe Research FinTech Forum 2022"
+    excerpt: "WEX Inc. (NYSE: WEX), the global commerce platform that simplifies the business of running a business, today announced that its Chair and Chief Executive Officer, Melissa Smith, will present at the Wolfe Research FinTech Forum 2022 on Wednesday,"
+    publishedDateTime: 2022-03-02T20:15:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=625383"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "04/03 – Weekly Fintech Recap"
     excerpt: "Partnerships LendingUSA introduces FastScreen customer prescreen toll for the funeral home industry in partnership with TransUnion LendingUSA, a leading point-of-need fintech company, introduces a new tool,"
@@ -53,6 +134,29 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Financial Inclusion Revolutionized By African Fintechs"
+    excerpt: "Between 2014 and 2019, Nigeria’s bustling fintech scene raised more than $600 million in funding,” says global consultancy McKinsey in a September 2020 report. In 2019, the country attracted $122 million,"
+    publishedDateTime: 2022-03-03T20:15:00Z
+    webUrl: "https://www.gfmag.com/magazine/march-2022/african-fintechs-expand-financial-inclusion"
+    type: article
+    provider:
+      name: Global Finance
+      domain: gfmag.com
+    quality: 24
+    images:
+      - url: "https://d2tyltutevw8th.cloudfront.net/CACHE/images/media/image/africa-access-1200-1646337019/b7807438d598c5fd683d68db44385799.png"
+        width: 500
+        height: 260
+        isCached: true
+  - title: "CredAvenue fastest Indian fintech unicorn after raising $137 mn"
+    excerpt: "Debt marketplace CredAvenue on Sunday announced that it is India's fastest fintech to join the unicorn club with a Series B fundraising round of $137 million. The fundraising round was led by New York-based global private equity and venture capital firm Insight Partners,"
+    publishedDateTime: 2022-03-06T20:28:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220307/3915938.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "OP9jGvBMV0CtFk8SYIA54GAAoqT/DKvaCH3K68RklSAKOJIYcAGcVPxxbjpqhZCma8X6MMdG2Fnhm4JZjO7pdbtj8qBxJT6lOx29psgAL/uozo1bPq209XTSw+6C7QS5Jur5Jefr0ZKz7BZwkF71fJloKRk7u+/gXU6r9hqsTnKL1qPQ25SBJfEEHD1ED3XogEcznisachbfuEHtEXiZzrLFKrJBLnBPfV9KN4vN9qIqfWA5Te0RiIt6SDgF93bGk+oGEJzZfLF5nJCQHqyDnhXEgBXHHef0fNgxAlqNOVFFpConKotTUHIlOgp40OwyXfyLLWAMAafMMLTrGQMjbFE4tbT6jyuKp1JtdaybZVZD2mjdDNbWh0PnkKgbSLGppCzkJHKd/T++PDWeNNCT4FfcU8/8cvLeiAeLKk4+FypqVvZVaXRc/+7GY4hKYAXBx/Omk52ADmHMw42JMHTjSC8+HDO7ZDb33vjjhVBvnXvXb9MgjNfOh+SJKgb1y/WyvxAXG/3KMWel25mwopWnUw==;6VMxpGLWtKzUAdLXxsMUYw=="
 ---

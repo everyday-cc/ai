@@ -7,7 +7,7 @@ originalUrl: "https://robohub.org/how-to-help-humans-understand-robots/"
 webUrl: "https://robohub.org/how-to-help-humans-understand-robots/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to help humans understand robots"
-    excerpt: "Scientists who study human-robot interaction often focus on understanding human intentions from a robot's perspective, so the robot learns to cooperate with people more effectively. But human-robot interaction is a two-way street,"
-    publishedDateTime: 2022-03-02T13:20:00Z
-    webUrl: "https://techxplore.com/news/2022-03-humans-robots.html"
-    ampWebUrl: "https://techxplore.com/news/2022-03-humans-robots.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-humans-robots.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/1-robot.jpg"
-        width: 1920
-        height: 1169
-        isCached: true
   - title: "How to help humans understand robots"
     excerpt: "Researchers from MIT and Harvard suggest that applying theories from cognitive science and educational psychology to the area of human-robot interaction can help humans build more accurate mental models of their robot collaborators,"
     publishedDateTime: 2022-03-02T17:36:00Z

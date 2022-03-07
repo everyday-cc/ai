@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-07-google-machine-learning-can-help-discover-new-antibodies-enzymes-foods.md",
+      "title": "Google machine learning can help discover new antibodies, enzymes, foods",
+      "excerpt": "Alphabet (Google's parent company) subsidiary DeepMind has shown that Machine Learning can predict shape of protein machinery with unusual accuracy, can help discover new antibodies, enzymes and foods",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/international/google-machine-learning-can-help-discover-new-antibodies-enzymes-foods-122030700276_1.html",
+      "originalUrl": "https://www.business-standard.com/article/international/google-machine-learning-can-help-discover-new-antibodies-enzymes-foods-122030700276_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2016-02/03/full/1454442890-4016.jpg?im=Resize,width=1200",
+          "width": 1200,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/international/google-machine-learning-can-help-discover-new-antibodies-enzymes-foods-122030700276_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/google-machine-learning-can-help-discover-new-antibodies-enzymes-foods-122030700276_1.html",
+      "publishedDateTime": "2022-03-06T22:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-07-smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning.md",
       "title": "Smart Finance announces official launch of cryptocurrency platform based on AI and machine learning",
       "excerpt": "London – March 3rd, 2022 – Smart Finance declares the launch of its avant-garde decentralized finance (DeFi) platform based on leading-edge artificial intelligence, machine learning and ...",
@@ -10,7 +54,7 @@
       "originalUrl": "https://cointelegraph.com/press-releases/smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -123,48 +167,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-06-how-ai-powered-tech-landed-man-in-jail-with-scant-evidence.md",
-      "title": "How AI-powered tech landed man in jail with scant evidence",
-      "excerpt": "Williams was jailed last August, accused of killing a young man from the neighborhood who asked him for a ride during a night of unrest over police brutality in May. But the key evidence against Williams didn’t come from an eyewitness or an informant;",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehour.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php",
-      "originalUrl": "https://www.thehour.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/24/41/74/22159127/3/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehour.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php",
-      "cdnAmpWebUrl": "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php",
-      "publishedDateTime": "2022-03-05T14:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hour",
-        "domain": "thehour.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-06-4-tips-to-responsibly-and-ethically-implement-ai-for-hiring.md",
       "title": "4 tips to responsibly and ethically implement AI for hiring",
       "excerpt": "How do companies ensure that their AI technology is improving the ethics and equity of their hiring process, not hindering it?",
@@ -225,7 +227,7 @@
       "originalUrl": "https://www.khaleejtimes.com/tech/dubai-humanoid-robot-sophia-to-participate-in-auditors-conference",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -268,7 +270,7 @@
       "originalUrl": "https://www.androidpolice.com/myheritage-livestory-ai-dead-ancestors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -361,7 +363,7 @@
       "originalUrl": "https://techcrunch.com/2022/03/04/infrastructure-is-broken-gecko-is-using-robotics-to-help-fix-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -518,7 +520,7 @@
       "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-service-market-next-big-thing-major-giants-ibm-microsoft-atomwise",
       "featuredContent": null,
       "highlight": null,
-      "heat": 247,
+      "heat": 248,
       "tags": null,
       "images": [
         {
@@ -701,7 +703,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -807,7 +809,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/421408",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 154,
       "tags": null,
       "images": [
         {

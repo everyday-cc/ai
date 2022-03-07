@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 Takeaways For Student Loan Borrowers After Biden’s Big Speech"
-    excerpt: "Biden did not mention student loan forgiveness or other student loan relief during his State of the Union address. Here’s what it means for borrowers."
-    publishedDateTime: 2022-03-02T14:32:00Z
-    webUrl: "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/"
-    ampWebUrl: "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/621f8b986e1c008edddcafb9/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1067
-        height: 711
-        isCached: true
   - title: "On cusp of Biden speech, a state of disunity, funk and peril"
     excerpt: "President Joe Biden's fellow Americans, though, have other ideas about the state they're in and little hope his State of the Union address Tuesday night can turn anything around."
     publishedDateTime: 2022-03-02T18:51:00Z

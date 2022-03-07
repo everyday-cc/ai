@@ -89,6 +89,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Bright Security raises $20M to make enterprise applications more secure with AI"
+    excerpt: "Bright Security Inc., a startup using artificial intelligence to help companies improve the security of their applications, has closed a $20 million funding round led by Evolution Equity Partners. Existing investors DNX Ventures,"
+    publishedDateTime: 2022-03-02T18:29:00Z
+    webUrl: "https://siliconangle.com/2022/03/02/bright-security-raises-20m-make-enterprise-applications-secure-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 50
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/code-1-800x453.png"
+        width: 800
+        height: 453
+        isCached: true
   - title: "SXSW 2022 Round-up: Cybersecurity, Artificial Intelligence, and Quantum Computing"
     excerpt: "With the potential for increased cyberattacks and possible cyber warfare sweeping the headlines, business and government leaders alike are renewing their focus on cybersecurity. They are paying partic"
     publishedDateTime: 2022-03-03T21:58:00Z

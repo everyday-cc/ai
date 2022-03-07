@@ -3,10 +3,12 @@ category: news
 title: "WHO wants artificial intelligence to benefit older people"
 excerpt: "THE World Health Organization (WHO) says artificial intelligence (AI) technologies have the potential to improve older people's health and well-being, but only if ageism is eliminated from their design,"
 publishedDateTime: 2022-03-06T05:22:00Z
-originalUrl: "https://www.jamaicaobserver.com/features/who-wants-artificial-intelligence-to-benefit-older-people_245553?profile=1373"
-webUrl: "https://www.jamaicaobserver.com/features/who-wants-artificial-intelligence-to-benefit-older-people_245553?profile=1373"
+originalUrl: "https://www.jamaicaobserver.com/features/who-wants-artificial-intelligence-to-benefit-older-people_245553?profile=1033"
+webUrl: "https://www.jamaicaobserver.com/features/who-wants-artificial-intelligence-to-benefit-older-people_245553?profile=1033"
+ampWebUrl: "https://amp.jamaicaobserver.com/features/who-wants-artificial-intelligence-to-benefit-older-people_245553"
+cdnAmpWebUrl: "https://amp-jamaicaobserver-com.cdn.ampproject.org/c/s/amp.jamaicaobserver.com/features/who-wants-artificial-intelligence-to-benefit-older-people_245553"
 type: article
-quality: 41
+quality: 59
 heat: -1
 published: false
 
@@ -15,9 +17,8 @@ provider:
   domain: jamaicaobserver.com
 
 topics:
-  - AI Ethics
-  - AI
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://www.jamaicaobserver.com/apps/pbcsi.dll/storyimage/JO/20220306/ARTICLE/303069974/AR/0/AR-303069974.jpg"
@@ -57,6 +58,6 @@ related:
         height: 378
         isCached: true
 
-secured: "RmhdE+V72tpPvKbMbI7NOmX7qmfKHm0s6gN9Cu+PgF0GsVNO6cuQ41jRdMvMxI6S5lZQWKToMb8yy0pee38l4ws5CKTKn3VacZ424fH6IMrdj9H+mgxPS425+inD/EJKZx2D5i2NvzYvBAl3Z+HyT0p/RemPO7mcIdxaOcVlfJMsxHBRzFtzatqosBCfLWUOwR/HnsZ/Lp+KSStRHiZGzukGs18j8GxyfewKKxfrrjVdNBNJMzpN8ZYhTrFj6WAhg9Cz7ekRsjdeILUuxKR7C1CokPcYNoEbFwc6dpcr8n6NZCSFvdrIONa+cy62Z28OkIHywthPgdrhM3w3+KOLZMiH7MHJldjramd6v8pYUI5nWc4596zkUZDNwKj2ibR+pJvaCr9rR9bUNmPLHFAJFQqyUShiIOFskiEl68WMDvqbdndvjmhyZOwgVAfAlE3pOIKgIj2AWzLc0bgUaEPJvKreJsy/pfdoqeVFvbg2BQHyYTeE9I4TAX3ehxZ0UNUPo6WrPXz2SbALlQMN9Qei0Q==;KxEQgFUBh3rRGdz3dgw6tg=="
+secured: "BMJiKuIn0eAbe65CkkdtNdB8gp1OFebxLMEwUEGDipfU2joMtfBD6rBlZPBLYD/r/MbqG3KbewAAqUix82txugQ8WGS9kfJ7mLcO+3geL0c5NELE0QOQoM9W/TeFkMHE76UpUfgnju0ycZUmc4+CmHeU976I2k9SAZgv7uF8a5TTVSN0mHkVXlWxB4XSM6G87ZTIYV9e6i8ZzynGRwbADb8g/kXz/MJOdmTiVsANPJLNi+P8Aaddy111ztjFJI5kmCh95vohqMoCb/7Ya0fnsW4ZYWIg64QMFqEobBkwQbjV9JVB1CtTH8OP0nE4X8m94e4aEDj/D47WngIN9APs1mofjywCsfE4ZcjUPpgLHL0=;TMgGREP+xPGRz0P7NoGwLA=="
 ---
 

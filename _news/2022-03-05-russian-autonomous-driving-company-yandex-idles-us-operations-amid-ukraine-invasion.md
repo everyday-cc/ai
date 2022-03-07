@@ -25,35 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Amid war, an independent Russian radio station goes silent"
-    excerpt: "In the days since Russian President Vladimir Putin ordered an invasion of Ukraine on February 24, officials have begun a crackdown on independent media and protesters who have come out in their thousands to decry the war ... of ill fortune, who was ..."
-    publishedDateTime: 2022-03-02T13:52:00Z
-    webUrl: "https://fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/"
-    ampWebUrl: "https://fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/amp/"
+  - title: "AI Weekly: The Russia-Ukraine conflict is a test case for AI in warfare"
+    excerpt: "The Russia-Ukraine conflict is a proving ground for AI technologies applied to warfare. Already, the impacts are coming into clear view."
+    publishedDateTime: 2022-03-04T15:34:00Z
+    webUrl: "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/"
+    ampWebUrl: "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/amp/"
     type: article
     provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 142
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
     images:
-      - url: "https://content.fortune.com/wp-content/themes/fortune/amp/assets/it_pays_to_know.png"
-        width: 1250
-        height: 625
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-534144629-1.jpg?fit=800%2C532&strip=all"
+        width: 799
+        height: 532
         isCached: true
-  - title: "Russian Invasion Highlights Growing Importance of Open Source Intelligence"
-    excerpt: "During a morning political opinion show on March 2, Marc Polymeropoulos, a retired CIA field agent and supervisor, said he is sure his former employer is scouring its intelligence sources for signs of cracks in the walls of oligarchs and military supporters of Russian President Vladimir Putin as the invasion of Ukraine grinds on."
-    publishedDateTime: 2022-03-04T14:00:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2022/03/russian-invasion-highlights-growing-importance-open-source-intelligence/362749/"
+  - title: "Here's why prolonged Russia-Ukraine war would be really bad for us, say chip designers"
+    excerpt: "While the top chip and hardware makers may have moved to minimize the impact of Russia's war against Ukraine on their operations, smaller companies are mapping out their worse-case scenarios arising from a prolonged conflict."
+    publishedDateTime: 2022-03-05T00:50:00Z
+    webUrl: "https://www.theregister.com/2022/03/04/chipmakers_ukraine_supplies/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/03/04/chipmakers_ukraine_supplies/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/04/chipmakers_ukraine_supplies/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 20
+      name: theregister
+      domain: theregister.com
+    quality: 66
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/03/03/030322opensourceintelNG/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://regmedia.co.uk/2022/03/04/shutterstock_ukraine_russia.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "How the S&P 500 will react to 3 Russia-Ukraine scenarios, according to UBS's machine-learning model"
+    excerpt: "Russia's invasion of Ukraine entered its second week Thursday."
+    publishedDateTime: 2022-03-03T17:27:00Z
+    webUrl: "https://www.cnbc.com/2022/03/03/ubs-how-the-sp-500-will-react-to-3-russia-ukraine-scenarios.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 57
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107023227-16461722922022-03-01t215402z_706840525_rc2wts9a760d_rtrmadp_0_usa-stocks.jpeg?v=1646172330"
+        width: 3500
+        height: 2333
         isCached: true
 
 secured: "FcFWiCy/eOc0K5rO41nKdVi8QgZ8euDk1p/vHiGYSdaX6pGSLo8MyfegT68geAEW3AiEmiokkm5VhPnRsMSlWIln7bJDQHWWRmLemHIaIbWaJlw8dVOZnyupC6QA8rcIZxWyVKsJ+xNPL46GdX0jM7ZdZTxqryWCqoYC2tO6w0t1O9lYe+UAHsT/gtVqKiVpNvwQcXOTioHhS6WQpknbEKRpHNYt/0Sz3qjDTT8P7I7l7Ii3YNpOD5vu8RitkGhM0up5WGsJTMAknQUHr1xK2agWJ2K7WXoD8Zrl4qThuh/R+ZogP9G3GX6W/f4zOFGREMtc0QSUGDKtPQorFEGFk7ilog1TWAyi9f2rEGRagYPamS5ACis7Nm6oFSpV36ueHBm1WDm3wrb1L2dLWjqxaJYMiq6lkRxvm4cZ1IJXP9pYiqBGzqtalc3eEiV5ajLPR5NiHJuiOtsQAPTG0bpCyB9EYGPZDmNHs6zNi7Opc70MFzy+0g96t5UEyeiOlm7jaFDtkfm/GuC7ylaeakYrQw==;QPaw9IaZ2pS9VmkKoWkkCQ=="

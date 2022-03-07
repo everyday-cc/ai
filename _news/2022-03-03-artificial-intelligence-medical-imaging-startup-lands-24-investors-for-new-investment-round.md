@@ -7,7 +7,7 @@ originalUrl: "https://wraltechwire.com/2022/03/03/artificial-intelligence-medica
 webUrl: "https://www.cedars-sinai.org/newsroom/cedars-sinai-establishes-new-division-artificial--intelligence-in-medicine/"
 type: article
 quality: 127
-heat: 127
+heat: 128
 published: true
 
 provider:

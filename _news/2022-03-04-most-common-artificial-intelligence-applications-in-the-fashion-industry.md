@@ -7,7 +7,7 @@ originalUrl: "https://www.cioapplications.com/news/most-common-artificial-intell
 webUrl: "https://www.cioapplications.com/news/most-common-artificial-intelligence-applications-in-the-fashion-industry-nid-9457.html"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "How Simple AI Can Enhance The Financial Services Industry"
-    excerpt: "In this special guest feature, Kumesh Aroomoogan, Co-founder and CEO of Accern, believes that data is increasingly being used and desired and financial professionals need faster ways to take advantage of it."
-    publishedDateTime: 2022-03-04T14:00:00Z
-    webUrl: "https://insidebigdata.com/2022/03/04/how-simple-ai-can-enhance-the-financial-services-industry/"
+  - title: "3 ways AI optimisation can revolutionise the financial sector"
+    excerpt: "Financial services are increasingly implementing AI technologies in order to help analyse massive volumes of data and identify market trends."
+    publishedDateTime: 2022-03-04T10:57:00Z
+    webUrl: "https://ibsintelligence.com/blogs/3-ways-ai-optimisation-can-revolutionise-the-financial-sector/"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/03/Leslie-TurinTech.jpg"
+        width: 500
+        height: 749
+        isCached: true
 
 secured: "o6kG/puDBjFTpBuaWWjTbZIcsXMMWJHX+oUWhIOxiYrQSjyybZeJHeAy2JzrV0WXlYCYudKr7bb1mzMSmEsGoFJ0inMC41nra3qJms78zhcMVWHYX9Wag/rj5D3I7CT3DILST4alTs5g1aV5GUU9x2L7Snx0zFUfdwPuMr+YIOzgAFBsZM6RQXHPHiY/nc7YJaK+CT6Oos/OxI984WkrCHeziDvnNyMM4X5PTPG7hEWhDWjjfT91tensC3icWfPKbej/UMMe8yS4mILOrIRW0q9f8FLHYj57pYLi+HQpF2V7Dwdk0sQiqJWm8r6RUs9vsBRGczkA2OopRtKYTvVBVuxCPbVP7rG6Efb+GlCNSuQ=;fW34UbwX0d9FK8qetTpIVg=="
 ---

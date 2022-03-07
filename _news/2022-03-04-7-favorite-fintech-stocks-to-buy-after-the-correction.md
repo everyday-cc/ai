@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/421408"
 webUrl: "https://www.entrepreneur.com/article/421408"
 type: article
 quality: 54
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Personalized Banking Helps FinTech Companies to Retain Clients"
+    excerpt: "Previously, to receive personalized service, bank clients had to hire personal assistants. Personal bankers helped them to open savings accounts, arrange loans, maintain accounts, and solve other financial issues."
+    publishedDateTime: 2022-03-04T06:53:00Z
+    webUrl: "https://www.finextra.com/blogposting/21932/how-personalized-banking-helps-fintech-companies-to-retain-clients"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://d3jqtupnzefbtn.cloudfront.net/andersenlab/new-andersensite/cases/Klarna/visuals/shop.png"
+        width: 1110
+        height: 760
+        isCached: true
   - title: "7 Favorite Fintech Stocks to Buy After the Correction"
     excerpt: "Here are 7 fintech stocks trading at significant discounts with the industry poised to thrive in the foreseeable future."
     publishedDateTime: 2022-03-03T06:10:00Z
@@ -109,6 +123,20 @@ related:
       - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
         width: 580
         height: 339
+        isCached: true
+  - title: "04/03 – Weekly Fintech Recap"
+    excerpt: "Partnerships LendingUSA introduces FastScreen customer prescreen toll for the funeral home industry in partnership with TransUnion LendingUSA, a leading point-of-need fintech company, introduces a new tool,"
+    publishedDateTime: 2022-03-04T11:44:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/0403-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_2.jpeg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Financial Inclusion Revolutionized By African Fintechs"
     excerpt: "Between 2014 and 2019, Nigeria’s bustling fintech scene raised more than $600 million in funding,” says global consultancy McKinsey in a September 2020 report. In 2019, the country attracted $122 million,"

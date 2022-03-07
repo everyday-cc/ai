@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The benefits of peripheral vision for machines"
-    excerpt: "Perhaps computer vision and human vision have more in common than meets the eye? Research from MIT suggests that a certain type of robust computer-vision model perceives visual representations similarly to the way humans do using peripheral vision."
-    publishedDateTime: 2022-03-02T13:06:00Z
-    webUrl: "https://techxplore.com/news/2022-03-benefits-peripheral-vision-machines.html"
-    ampWebUrl: "https://techxplore.com/news/2022-03-benefits-peripheral-vision-machines.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-benefits-peripheral-vision-machines.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/the-benefits-of-periph.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Adversarially Robust: The Benefits of Peripheral Vision for Machines"
     excerpt: "Researchers find similarities between how some computer-vision systems process images and how humans see out of the corners of our eyes. Perhaps computer vision and human vision have more in common than meets the eye?"
     publishedDateTime: 2022-03-02T15:22:00Z

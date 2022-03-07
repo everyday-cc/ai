@@ -44,12 +44,14 @@ related:
   - title: "WHO wants artificial intelligence to benefit older people"
     excerpt: "THE World Health Organization (WHO) says artificial intelligence (AI) technologies have the potential to improve older people's health and well-being, but only if ageism is eliminated from their design,"
     publishedDateTime: 2022-03-06T05:22:00Z
-    webUrl: "https://www.jamaicaobserver.com/features/who-wants-artificial-intelligence-to-benefit-older-people_245553?profile=1373"
+    webUrl: "https://www.jamaicaobserver.com/features/who-wants-artificial-intelligence-to-benefit-older-people_245553?profile=1033"
+    ampWebUrl: "https://amp.jamaicaobserver.com/features/who-wants-artificial-intelligence-to-benefit-older-people_245553"
+    cdnAmpWebUrl: "https://amp-jamaicaobserver-com.cdn.ampproject.org/c/s/amp.jamaicaobserver.com/features/who-wants-artificial-intelligence-to-benefit-older-people_245553"
     type: article
     provider:
       name: The Jamaica Observer
       domain: jamaicaobserver.com
-    quality: 41
+    quality: 59
     images:
       - url: "https://www.jamaicaobserver.com/apps/pbcsi.dll/storyimage/JO/20220306/ARTICLE/303069974/AR/0/AR-303069974.jpg"
         width: 504

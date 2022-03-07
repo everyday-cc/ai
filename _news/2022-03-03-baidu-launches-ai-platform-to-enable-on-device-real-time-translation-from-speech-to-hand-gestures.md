@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Baidu Launches AI Platform to Enable on-Device, Real-Time Translation from Speech to Hand Gestures"
-excerpt: "Baidu AI Cloud, a leading AI cloud provider, launched an AI sign language platform able to generate digital avatars for sign language translation and live interpretation within minutes. Released as a new offering of Baidu AI Cloud’s digital avatar platform XiLing,"
-publishedDateTime: 2022-03-03T15:11:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/winter-olympics-technology-business-sports-beijing-9eb1fa4b9af75efea8f4fc18149c62f7"
-webUrl: "https://apnews.com/press-release/pr-newswire/winter-olympics-technology-business-sports-beijing-9eb1fa4b9af75efea8f4fc18149c62f7"
+excerpt: "Baidu AI Cloud, a leading AI cloud provider, launched an AI sign language platform able to generate digital avatars for sign language translation and"
+publishedDateTime: 2022-03-03T13:37:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/baidu-launches-ai-platform-to-enable-on-device-real-time-translation-from-speech-to-hand/article_5a3d784a-3326-5726-80d0-bdc2aaa95f80.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/baidu-launches-ai-platform-to-enable-on-device-real-time-translation-from-speech-to-hand/article_5a3d784a-3326-5726-80d0-bdc2aaa95f80.html"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/55/f55136c9-7cd7-5c1d-8127-5712430d105f/6220d5bfbec14.image.jpg?crop=1084%2C569%2C0%2C4&resize=1084%2C569&order=crop%2Cresize"
+    width: 1084
+    height: 569
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 300
         isCached: true
 
-secured: "JgAC5Mg3Ty4Uy0E1JSlJnhGxDOzKV6N4Bq7vdfeMhN5o2BKBDNHs+xOULyfoHCS0m/a+L89MXHZ4sgwosgQt4wmdFgAWx1/AUDcY2ipWbMMXw9YzcAV6fM9IKEwAO54IIQ1WDuEvTLSZbqlrAewrgigB8pKJ9eUywJCFlsAN79fITyrxYb1FWLm7DN7ATbVV3LYjAd/LqZnDyP8ZMw+EYoln5PuhFf4oUaOOLTjYYuWMzJbVH9yEAb3CVRy8vjViHg0rr1S79dwo+H3iX5lUBmZnjdO/LLznXeCuRpqDz21GopIumDmep51m7OLKFN33qA699Nwr4xuN5teJUGTZsvhOrK5CVxWa8Fkg68osZCs=;W06Ex99+UleodysJtEEIzw=="
+secured: "H/zHWDatEvJQag8QUfG/r0EdcK9GDrGGgjhB2/HZOpVa3kO4GZumvmI4RgTJ/L7KjnQID7TJuPUZZWc0UFEN42H7z78G+YQekqZm2ndZNubnPnauDGpV6GcgFlgLrIBAJ0vSuRz+XAoO+QFWmtuW61MfO9oiMFAj93NQ8Nm9F9EYNqSVAodCIh3mQLVJF6/oxZhZ3BaBr/QQ/xFaioOVjy/ulBIkPswb82nkCYeb3VjucvwMXyikaaC0GM5DMqeU5OrQWAlZbfnoYNLYaQABhSJbYBm2I19cE8n2/1zkaSbOurWVUOZdimoTHLAfazVZgAOdbvzDERK+hMJopbxAP2oWBkRVqieDQYCWk6mlsH0=;UrKjllWIHRfqpbpSlU82iA=="
 ---
 

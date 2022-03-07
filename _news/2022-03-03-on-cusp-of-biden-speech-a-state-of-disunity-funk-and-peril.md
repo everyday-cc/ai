@@ -7,7 +7,7 @@ originalUrl: "https://www.cleburnetimesreview.com/news/on-cusp-of-biden-speech-a
 webUrl: "https://www.cleburnetimesreview.com/news/on-cusp-of-biden-speech-a-state-of-disunity-funk-and-peril/article_217555f6-9a62-11ec-8953-37fc1559d215.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 Takeaways For Student Loan Borrowers After Biden’s Big Speech"
-    excerpt: "Biden did not mention student loan forgiveness or other student loan relief during his State of the Union address. Here’s what it means for borrowers."
-    publishedDateTime: 2022-03-02T14:32:00Z
-    webUrl: "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/"
-    ampWebUrl: "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/621f8b986e1c008edddcafb9/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1067
-        height: 711
-        isCached: true
   - title: "In State of the Union Speech, Biden Vows to Halt Russia, Tackle Inflation"
     excerpt: "Addressing a concerned nation and anxious world, President Joe Biden vowed in his first State of the Union address Tuesday night to check Russian aggression in Ukraine, tame soaring U.S. inflation and deal with the fading but still dangerous coronavirus."
     publishedDateTime: 2022-03-02T16:25:00Z
