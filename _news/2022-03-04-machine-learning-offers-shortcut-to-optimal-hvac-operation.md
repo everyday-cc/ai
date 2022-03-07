@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-03-machine-shortcut-optimal-hvac.am
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-machine-shortcut-optimal-hvac.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 2213
     height: 863
     isCached: true
-
-related:
-  - title: "Machine learning offers shortcut to optimal HVAC operation"
-    excerpt: "Control mechanisms for heating, ventilation and air conditioning in buildings follow set parameters to make conditions in a building more comfortable, but what they save on time can reduce efficiency and increase energy costs,"
-    publishedDateTime: 2022-03-03T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/945300"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
 secured: "TIfOxeZktj+hqIWiBkhaz7W7OVHjTAk3kFA5kMDc2aDnT5IvTZXChCrQ8CR4aHg+txF4BWObUH/bp2LW5IHnsvC27AcKXOOkiUMsE79c1xzegcxsRraPa73DRiyip8roSJqiB2DMXHMcpHsafBQsQ6Lg5TVdv1LyHB2I3MTqDBWnqTFnYyPTcxj24AaLnZ7gPr07ez+e7OUChAl7HZXQI3QHzSQeJeh971h2mfhG1DVIaV/+uO1fOzzKY3RbcQougYxyJFNEgEiNvb1FuDCBT9visjjaz89LaerKoq2Cd6Dc8quQlAIrYE6oPoaCVWm0R8YqbxyOSfXu3XXsBmfJmJnRIHMpZ4Q7cJ8gcVtNh9VnEts3wDabDYEZCKZRZYyj7g5MGvlHlYtSwdfCVjpKH2Igo0D8tk2GHhwExOlEuWtx2d+Sa5iaItz6Xsr02Qoko0L8AziRbRs+YsCkE4UTvvZ3AA8OpJNkL3CBd50QJp555f85x8YfsWYDaJEM+bXE0Mlh1TDWoxIDyaVV6hHsoA==;bdTLOxlwYad5pactTfthkA=="
 ---

@@ -24,6 +24,22 @@ images:
     height: 242
     isCached: true
 
+related:
+  - title: "Allegro™ Clients To Benefit From Enhanced Credit Decisioning With Scienaptic AI"
+    excerpt: "Scienaptic announces strategic partnership with Integrated Lending Technologies, the creator of Allegro™ Lending Suite, to expand credit availability for its clients Scienaptic AI, a leading global AI-powered credit decision platform provider,"
+    publishedDateTime: 2022-03-07T16:53:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/allegrotm-clients-benefit-enhanced-credit-decisioning-scienaptic-ai"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 33
+    images:
+      - url: "https://financialit.net/sites/default/files/scienaptic_16.png"
+        width: 2090
+        height: 732
+        isCached: true
+
 secured: "aThJEv4kQsOURundoZHd+y9U8vMWRRl7DlnJDOfvhd6tluB26/OAIMF+8WSFuWs6J7SbKiMTAx/4tNqHvMupNF5Mpll60qjjkHajqo91SwLU8jrWCk1yaNCw8zjF7qg5xbT+1B3STszI2hEYGNnucXj9kg/m70KTQTD0lpnrEnOs42Zw/ynKxxeA/2Ty52CtoIOxw88E3MmfR/qvHsjaZT+WlTzag58ykyyvgdaa90BckfAhRQ2LR2Ft++C+MZg58Y39JdDMkRPbyBqSxIuSC+cv1RQw4Sd63Id0axcqTHAKopN+XV5i60IBgrgE29qeGwvHzOIAxeLav/Nm20dtSsIT7ydzjGweKABkfmcNyyM=;IVP1nLc4lYAPWEoiYEjelg=="
 ---
 

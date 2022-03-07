@@ -223,7 +223,7 @@
       "originalUrl": "https://phys.org/news/2022-03-fingerprint-machine-technique-bacteria-seconds.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -449,49 +449,6 @@
         "AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-edtech-startup-scaler-acquires-appliedroots-for-50-mn-to-strengthen-ai-ml-offerings.md",
-      "title": "Edtech Startup Scaler Acquires AppliedRoots For $50 Mn To Strengthen AI, ML Offerings",
-      "excerpt": "As a part of the acquisition, all the six cofounders of AppliedRoots will join Scaler and lead varied projects.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/scaler-acquires-appliedroots-for-50-mn-to-strengthen-ai-ml-offerings/",
-      "originalUrl": "https://inc42.com/buzz/scaler-acquires-appliedroots-for-50-mn-to-strengthen-ai-ml-offerings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2022/03/Scaler-social.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/scaler-acquires-appliedroots-for-50-mn-to-strengthen-ai-ml-offerings/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/scaler-acquires-appliedroots-for-50-mn-to-strengthen-ai-ml-offerings/amp/",
-      "publishedDateTime": "2022-03-02T23:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1382,6 +1339,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-perovskites-used-to-make-efficient-artificial-retina.md",
+      "title": "Perovskites used to make efficient artificial retina",
+      "excerpt": "An artificial electronic retina that can \"see\" in a similar way to the human vision system and can recognize handwritten digits has been built by KAUST researchers as they seek to develop better options for computer vision applications.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-02-perovskites-efficient-artificial-retina.html",
+      "originalUrl": "https://techxplore.com/news/2022-02-perovskites-efficient-artificial-retina.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/perovskites-used-to-ma.jpg",
+          "width": 1847,
+          "height": 948,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-02-perovskites-efficient-artificial-retina.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-perovskites-efficient-artificial-retina.amp",
+      "publishedDateTime": "2022-02-23T06:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

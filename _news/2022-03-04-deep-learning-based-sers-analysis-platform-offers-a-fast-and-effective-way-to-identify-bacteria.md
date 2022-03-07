@@ -52,20 +52,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 44
-  - title: "'Fingerprint' machine learning technique identifies different bacteria in seconds"
-    excerpt: "Bacterial identification can take hours and often longer — precious time when diagnosing infections and selecting appropriate treatments. There may be a quicker, more accurate process, according to researchers at KAIST."
-    publishedDateTime: 2022-03-03T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/945374"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/df675314-9a99-4039-86e5-317d39fb1654/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 288
-        isCached: true
 
 secured: "hhC+BC5tZWwRX+MBrFek0dAWVhc5bW9mcuMvdn/GbTgwtxQByCseWHfTLz+wU0qi0IiA6enJcFJdjCC4KdbH5q5Pb+NU3nQ2HB+GQ94kzhKnj3N88I/wQsH+xMHEwTNQo2LKszWYwuwmCUHevI8CJoIOyiowJvugfeIUah3SvI1vftemjgvhTFRDMDCJb0vDh0JW4w8stfGqwmjIu8jAExOyJmrFTtA56FikQqS4Jq8XChFSbn8iuyELAMn4DhWb9ajEQCsonP36g4mQFeT6EfR9yDdLuEdfoGXD2lezwC9mGdnGzDBZ0MgZWsElu2dEzdptWgALlk6I9MpTo0ojgw9NBacaTxvwsOvDT7wMqo0=;+OQWWTPOSujZBRlmbljJSg=="
 ---

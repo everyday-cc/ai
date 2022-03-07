@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-auto
 cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
 type: article
 quality: 76
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: WBUR
@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "First Person: Behind the wheel of a 'self-driving' Tesla"
-    excerpt: "This is part of our hour on Tesla and the ethics of self-driving cars. Listen here. Self-driving technology has come a long way in recent years, but it remains far from perfect. In a podcast special, we share what it's like behind the wheel when Tesla ..."
-    publishedDateTime: 2022-03-03T19:16:00Z
-    webUrl: "https://www.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla"
-    ampWebUrl: "https://amp.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla"
+  - title: "‘Self-driving Cars May Increase Traffic’ Says Tesla CEO Elon Musk"
+    excerpt: "Self-driving vehicles will make travel much easier, and they will allow groups of individuals who are now unable to operate a vehicle on their own to gain personal mobility."
+    publishedDateTime: 2022-03-07T15:03:00Z
+    webUrl: "https://in.mashable.com/mobility/28399/self-driving-cars-may-increase-traffic-says-tesla-ceo-elon-musk"
+    ampWebUrl: "https://in.mashable.com/mobility/28399/self-driving-cars-may-increase-traffic-says-tesla-ceo-elon-musk?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/mobility/28399/self-driving-cars-may-increase-traffic-says-tesla-ceo-elon-musk?amp=1"
     type: article
     provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 59
+      name: Mashable
+      domain: mashable.com
+    quality: 89
     images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2017/04/0417_tesla.jpg"
-        width: 1700
-        height: 1133
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/eadbe1d3-ce78-49e5-86dd-2656a7facf35_91he.620.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "Tesla CEO Elon Musk Says Self-Driving Cars Could Cause Heavy Traffic"
     excerpt: "Taking to his Twitter account recently, Tesla CEO Elon Musk has admitted that self-driving cars are likely to make traffic worse."
@@ -76,21 +76,7 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Self-Driving Car Market is Going to Boom | Tesla, Porsche, Toyota Motor"
-    excerpt: "Advance Market Analytics published a new research publication on “Self-Driving Car Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in presentable format. In the Study you will find new evolving Trends ..."
-    publishedDateTime: 2022-03-07T08:04:00Z
-    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-is-going-to-boom-tesla-porsche-toyota-motor"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-Peace-Protest-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
-secured: "UmOEKMIRPzCFDu5VHXAtLdjLKtbT8m172rbrHUvAeoecmilxK1400E01yw6WqZprwUY0eVrp+Cl8/FJj2NjgOAgbkCVD3FFAL5QSqoCOkifw9uFv/CLsbKkGduKSISh1oWbAIe+YX2op3e6gpAaRVj5j+XavCp5Y9CnoC6nLcdbs34m99b/Q/TW2wgSIqz+ZlckaIflyvg2aJ4DfNhKOiUHyyv1fdP3im86i+8Ak2EPF4WbLEd2OoP1V+WRfOdpjn8AEmO5FY2LwHOFrldcqoF9WUVV29fNjtTxvFRtiRdDEMKYMF2z7my63zdCL+faWfhYJjIcMD7oFE+73ReZj5DXXWP1VIaKoARhjypsVo08=;lChsZqU8PC5jvxoFVWCh8A=="
+secured: "PS+C+/J3coYBBTqrli5cJIIuHGDtASIIfWzE66oI+AznhlYO9+jRr5ZH6IRndClNnQoZaw4fZMDInAUM+zKigHx5h8Xio4AC8W8wzYUKTToy2u0QED59n6y7CgKLipatYClxUfaZvE6wNlLJdDgV8Mmzz/0BmYjtbhZpzfGYNnI+QOEuKFgwlaE1JBpQ4XGhzhAQuRl7W3kSPLdn2vXs/uhw66i+7GMBFh1p/OtUBNREWwRIU5eHIbE/b4CYKAeGcDb4QCO49V+Jx61uuDlcmD6s0gHVQ/bRRxV5evGlYX2FM+o1J930HQ2ZDk6GBw1DyzVXEJh51BEKubIa/SUG0vOxkzWA7zhnAPFrO6DiE3k=;5ZePHhR4sDLPJ0ZnQgNvTg=="
 ---
 

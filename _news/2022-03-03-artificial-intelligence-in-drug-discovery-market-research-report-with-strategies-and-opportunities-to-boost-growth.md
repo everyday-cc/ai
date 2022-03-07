@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-drug-discov
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-drug-discovery-market-research-ashley-hancock"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,34 @@ images:
     isCached: true
 
 related:
+  - title: "Global Text Artificial Intelligence Growth Opportunities 2022 Report - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Global Text Artificial Intelligence Growth Opportunities\" report ... knowledge management, security, defense, healthcare, and pharmaceutical industries. PharmiWeb.com is Europe's leading industry-sponsored portal for the ..."
+    publishedDateTime: 2022-03-07T14:01:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-03-07/global-text-artificial-intelligence-growth-opportunities-2022-report-researchandmarketscom"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 28
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
+  - title: "AI In Social Media Market size worth $ 6.12 Billion, Globally, by 2028 at 28.82% CAGR: Verified Market Research®"
+    excerpt: "The major players in the market are Google Inc, Facebook, AWS, IBM, Adobe Systems, Baidu, Salesforce, Twitter, Snap, and Clarabridge. Verified Market Research has segmented the Global AI In Social Media Market On the basis of Technology, Application ..."
+    publishedDateTime: 2022-03-07T14:30:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-social-media-market-size-worth-6-12-billion-globally-by-2028-at-28-82-cagr-verified-market-research-r--818432285.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
+        isCached: true
   - title: "Genomics Artificial Intelligence Market Research Report 2022 - Global Outlook & Forecasts to 2027 - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence in Genomics Market - Global Outlook & Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. The artificial intelligence in genomics market to grow at a CAGR of 48."
     publishedDateTime: 2022-03-03T17:08:00Z

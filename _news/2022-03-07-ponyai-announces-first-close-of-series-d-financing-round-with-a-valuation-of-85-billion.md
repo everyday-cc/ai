@@ -2,25 +2,25 @@
 category: news
 title: "Pony.ai Announces First Close of Series D Financing Round, With a Valuation of $8.5 Billion"
 excerpt: "Pony.ai, a leading global autonomous driving technology company, announced that it has completed its first close of its Series D financing. The Series D round, which has a significant valuation uplift from the 2020 “C” and “C+” rounds,"
-publishedDateTime: 2022-03-07T02:41:00Z
-originalUrl: "https://www.eagletribune.com/region/pony-ai-announces-first-close-of-series-d-financing-round-with-a-valuation-of-8/article_53c40067-47d5-5e9a-ac81-32befc550870.html"
-webUrl: "https://www.eagletribune.com/region/pony-ai-announces-first-close-of-series-d-financing-round-with-a-valuation-of-8/article_53c40067-47d5-5e9a-ac81-32befc550870.html"
+publishedDateTime: 2022-03-07T03:41:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-3d9eac0b9b9140aca1a45efb1bb91bc7"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-3d9eac0b9b9140aca1a45efb1bb91bc7"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/e/b9/eb9f4389-ceb7-572e-b69f-b6a9388c6c8d/622580868b610.image.jpg?crop=1838%2C965%2C0%2C81&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -55,6 +55,6 @@ related:
         height: 1400
         isCached: true
 
-secured: "ehWbR6YC81Jthap808v56SbBs5XFTT53TKloqxktVI8U7OE+tSWV7pAsV0BW0G9UZpDBEt36ay9gtqx5v3XK5Jr+v3YlOoER+vQ4fJ7ItGeYqCbtHn9BpKf1DHazT38q2upSdcIi+4r3fc8WL5NSXrkuThNZxKYgivJj13HwU920l7qe2znzknpCfpFS9s/TjMNxJ7JORPVE3V2ccHB2E/2c8WOarmzplnLDmq27P23wkg5V0c0mmEjzFGLlp3NLHBBLks1U5Tb5dN3hTNbMtabRvmVFYKMVJXchoQ0BgSZxoaR2F5WxeFp5n1LBn3qZjhHjkYsWftCjBVN/NBKvDq1Gam5HAWDWE9ep1Se8U58TX5BSiq9OhbTR0uAxyNO7oWyQmXBZUvA5wySl933V0p0Lt3RURfSGEI4jBPGxpXO5ysNdVa9i7EzaSvfS4XbvrCRGoFgugLqf2jtF3D4gxg4oYdyCa6ybLvW2yk6k13mSz0mBLqKdVihkNB7ue5fz5gXyqXmPKZGPbtcvC4yL2Q==;tZawVuuuNIxW3k+DAmMplA=="
+secured: "bcKapUegZd94VdOphJi3BzXxrvLCDMNt0Gp4GhhpgzEmwvG3vK+MULwErmoCERB4gJp8a3261pKb971M37MaL55ZWlvSj5Y8YLbeY92XaI6x2r5tkEZ1sXUQWGQHz0a4zDUS1FplWcyNMk+gwI9nWJuKXmnT880T0xq95dKbnMwoQQRJm0s6xIkMbCHHrsrUoyDAWhXFYSNb2haRjcgL00CK5hXP0G4mNFiSBI96bdTeb8EErnufCgvoNfLjH7RnJqRg0JbyOS1l69F5ZKG3gEKHyZkNAnEpUYlwSIEaz2yu85SvIDYuCmUrW/OEyO7HzeuWiDIGeVYDIcnFr5mwVCue0Jf0zeGdKNj/rCU5x9k=;GMpSX/z+yEvd+ANn7KxGyg=="
 ---
 

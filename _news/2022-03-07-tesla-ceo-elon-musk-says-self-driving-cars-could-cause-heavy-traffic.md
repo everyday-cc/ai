@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘Self-driving Cars May Increase Traffic’ Says Tesla CEO Elon Musk"
+    excerpt: "Self-driving vehicles will make travel much easier, and they will allow groups of individuals who are now unable to operate a vehicle on their own to gain personal mobility."
+    publishedDateTime: 2022-03-07T15:03:00Z
+    webUrl: "https://in.mashable.com/mobility/28399/self-driving-cars-may-increase-traffic-says-tesla-ceo-elon-musk"
+    ampWebUrl: "https://in.mashable.com/mobility/28399/self-driving-cars-may-increase-traffic-says-tesla-ceo-elon-musk?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/mobility/28399/self-driving-cars-may-increase-traffic-says-tesla-ceo-elon-musk?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 89
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/eadbe1d3-ce78-49e5-86dd-2656a7facf35_91he.620.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Tesla and the ethics of self-driving cars"
     excerpt: "Self-driving technology has come a long way in recent years, but it remains far from perfect. And that's partially because of decisions made -- not by the cars -- but by programmers."
     publishedDateTime: 2022-03-03T05:14:00Z
@@ -43,22 +59,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "First Person: Behind the wheel of a 'self-driving' Tesla"
-    excerpt: "This is part of our hour on Tesla and the ethics of self-driving cars. Listen here. Self-driving technology has come a long way in recent years, but it remains far from perfect. In a podcast special, we share what it's like behind the wheel when Tesla ..."
-    publishedDateTime: 2022-03-03T19:16:00Z
-    webUrl: "https://www.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla"
-    ampWebUrl: "https://amp.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 59
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2017/04/0417_tesla.jpg"
-        width: 1700
-        height: 1133
-        isCached: true
   - title: "Tesla CEO Elon Musk says autonomous driving cars could make traffic worse"
     excerpt: "Elon Musk's comment comes at a time when his own company Tesla is working on full self-driving technology FSD."
     publishedDateTime: 2022-03-07T14:53:00Z
@@ -74,20 +74,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2022/03/07/600x338/TESLA-SOLARCITY-TRIAL-0_1644310317180_1646623347404.JPG"
         width: 600
         height: 338
-        isCached: true
-  - title: "Self-Driving Car Market is Going to Boom | Tesla, Porsche, Toyota Motor"
-    excerpt: "Advance Market Analytics published a new research publication on “Self-Driving Car Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in presentable format. In the Study you will find new evolving Trends ..."
-    publishedDateTime: 2022-03-07T08:04:00Z
-    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-is-going-to-boom-tesla-porsche-toyota-motor"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-Peace-Protest-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "SpOpF+3CNgBnRB7cEPjx42GtXVfRQjue1liCiEURGx+FAvywf5o/w3ZWgIQDKVri3g4qSIVrtyLq6Y6LRb1PriIGnyPXM3LUHbraXVAvXPesaPK9TC5QusB5XQYJnHd6amnGeqaH9NwXT2t4Yx9ug98329K4DdjybfXrJlKsgRQuN16iu0H86cwPWDsMDhkPW61qOF5hwPy5loTfaA1Ruta94foNRcPOeEKYOpC3EWnFdsLP7EPjEV8irPCsum7lmIuMvh2yh57CYgkAQNMRqeHKX0yRCs9XclutAKsqTevOgqoeJbNzAV5754GxCz74uBwsfN2lArpbaHM7tG9DW5ZZMRDpQAYlJEBMyn2RW0zongH6RRiCxENglWoBDpn6mcNVV2nAq2ISi8SMfoPIys8Pq6K5sM8m0TT/+7s+Kio/F/QHYrn78IMke9YvXSMKpqJFiwo4XrWggp6rBEuj3IoaJSsN7J/jPfLRilZ1azKbut6jTYhEBhA6dPCCB+/digOKWRqW7Gx7YRdIEJw9ig==;nWl4IICh5pvvQ66y7u4FsQ=="

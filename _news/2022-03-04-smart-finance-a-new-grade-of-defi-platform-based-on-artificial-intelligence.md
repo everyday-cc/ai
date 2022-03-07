@@ -44,17 +44,17 @@ related:
         isCached: true
   - title: "Pony.ai Announces First Close of Series D Financing Round, With a Valuation of $8.5 Billion"
     excerpt: "Pony.ai, a leading global autonomous driving technology company, announced that it has completed its first close of its Series D financing. The Series D round, which has a significant valuation uplift from the 2020 “C” and “C+” rounds,"
-    publishedDateTime: 2022-03-07T02:41:00Z
-    webUrl: "https://www.eagletribune.com/region/pony-ai-announces-first-close-of-series-d-financing-round-with-a-valuation-of-8/article_53c40067-47d5-5e9a-ac81-32befc550870.html"
+    publishedDateTime: 2022-03-07T03:41:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-3d9eac0b9b9140aca1a45efb1bb91bc7"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
+      name: Associated Press
+      domain: apnews.com
     quality: 27
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/e/b9/eb9f4389-ceb7-572e-b69f-b6a9388c6c8d/622580868b610.image.jpg?crop=1838%2C965%2C0%2C81&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "xpfcC9RgLUW6oh0wj2onfZz/fJdEJNB4XdHhcxjnIWHZ+3sLOFdBrHqudfblhc97XlzlrDYbW4z13LifdtcdaU4SHRbM74PE+AkhGKxB0BTxYiF2FaewlzESAT9pTZZyHOYSMDmILMxMmvlGizkRpfvHZxtWfM9kTkGTP0TFLmEBnxLBCEnQXSle57+zK+6SlL6XyRjh7ak7AU29Z0d8rC21WHa8CZJfCBTHWTCdhKgAKve6Em5xqaUxsmXEJ2ftjhd8uZBrJ7lUBbceMQu4iCq+bbiZn5psrKbvs/uNM5h84eFi5fcKGh7fEhOee6cCTVHcVMl9NhU2rPZG9J9gyDiwv7nE8JLF/Y9VpiNNj3Q=;t9DCzhSWIUCkZ/cLbzf6og=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.lboro.ac.uk/media-centre/press-releases/2022/march/ai-
 webUrl: "https://www.lboro.ac.uk/media-centre/press-releases/2022/march/ai-model-speed-up-document-analysis/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Financial Services and Technology Industry Leaders back 'Document to Data' AI Startup"
-    excerpt: "A marquee list of early investors has backed IN-D.ai that combines computer vision and natural language processing to intelligently read and understand documents/images to"
+  - title: "This 20-year-old made an AI model for the speech impaired and went viral"
+    excerpt: "Priyanjali Gupta built an AI model that turns sign language into English in real-time and went viral with it on LinkedIn."
     publishedDateTime: 2022-03-07T06:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/financial-services-and-technology-industry-leaders-back-document-to-data-ai-startup-122030700335_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/financial-services-and-technology-industry-leaders-back-document-to-data-ai-startup-122030700335_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/financial-services-and-technology-industry-leaders-back-document-to-data-ai-startup-122030700335_1.html"
+    webUrl: "https://analyticsindiamag.com/this-20-year-old-made-an-ai-model-for-the-speech-impaired-and-went-viral/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 50
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 38
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/07/full/20220307113905.jpg"
-        width: 600
-        height: 450
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/1-1-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Financial Services and Technology Industry Leaders back 'Document to Data' AI Startup"
+    excerpt: "A marquee list of early investors has backed IN-D.ai that combines computer vision and natural language processing to intelligently read and understand document"
+    publishedDateTime: 2022-03-07T07:18:00Z
+    webUrl: "https://www.malaysiasun.com/news/272364987/financial-services-and-technology-industry-leaders-back-document-to-data-ai-startup"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 30
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1646640200.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "How Simple AI Can Enhance The Financial Services Industry"
     excerpt: "In this special guest feature, Kumesh Aroomoogan, Co-founder and CEO of Accern, believes that data is increasingly being used and desired and financial professionals need faster ways to take advantage of it."

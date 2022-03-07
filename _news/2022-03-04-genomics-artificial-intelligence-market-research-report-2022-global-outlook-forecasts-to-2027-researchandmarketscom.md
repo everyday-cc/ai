@@ -24,6 +24,34 @@ images:
     isCached: true
 
 related:
+  - title: "Global Text Artificial Intelligence Growth Opportunities 2022 Report - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Global Text Artificial Intelligence Growth Opportunities\" report ... knowledge management, security, defense, healthcare, and pharmaceutical industries. PharmiWeb.com is Europe's leading industry-sponsored portal for the ..."
+    publishedDateTime: 2022-03-07T14:01:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-03-07/global-text-artificial-intelligence-growth-opportunities-2022-report-researchandmarketscom"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 28
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
+  - title: "AI In Social Media Market size worth $ 6.12 Billion, Globally, by 2028 at 28.82% CAGR: Verified Market Research®"
+    excerpt: "The major players in the market are Google Inc, Facebook, AWS, IBM, Adobe Systems, Baidu, Salesforce, Twitter, Snap, and Clarabridge. Verified Market Research has segmented the Global AI In Social Media Market On the basis of Technology, Application ..."
+    publishedDateTime: 2022-03-07T14:30:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-social-media-market-size-worth-6-12-billion-globally-by-2028-at-28-82-cagr-verified-market-research-r--818432285.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
+        isCached: true
   - title: "Artificial Intelligence in Drug Discovery Market Research Report with Strategies and Opportunities to Boost Growth"
     excerpt: "Global Artificial Intelligence in the Drug Discovery market is valued at USD 627.1 Million in 2021 and is projected to attain a value of USD 4,197."
     publishedDateTime: 2022-03-03T10:35:00Z

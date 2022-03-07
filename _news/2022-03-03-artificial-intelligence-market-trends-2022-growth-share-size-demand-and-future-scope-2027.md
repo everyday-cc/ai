@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving Forklift Market Report 2022 by Size, Growth, Trends, Share, Analysis, Industry Overview, Forecast to 2027"
+    excerpt: "Global “Self-driving Forklift Market” report gives the overview of the industry with basic outline, descriptions, classifications, applications and types. Shows product specifications, manufacturing processes,"
+    publishedDateTime: 2022-03-07T08:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-forklift-market-report-2022-by-size-growth-trends-share-analysis-industry-overview-forecast-to-2027-2022-03-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Artificial Intelligence Market 2022 SWOT Analysis and Worldwide Growth Survey by 2031"
     excerpt: "Kenneth Research, in its repository of market research reports, has recently added a report on Automotive Artificial Intelligence Market that emph"
     publishedDateTime: 2022-03-03T06:44:00Z

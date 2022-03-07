@@ -55,20 +55,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "'Fingerprint' machine learning technique identifies different bacteria in seconds"
-    excerpt: "Bacterial identification can take hours and often longer — precious time when diagnosing infections and selecting appropriate treatments. There may be a quicker, more accurate process, according to researchers at KAIST."
-    publishedDateTime: 2022-03-03T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/945374"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/df675314-9a99-4039-86e5-317d39fb1654/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 288
-        isCached: true
 
 secured: "1JUj6l4HGaCiMj20d1chb0Fh2EuRrdfDnkqcT9dgAn8wxuZW16hACePAgjauVKAtgmnPop1M8FmEQu9+19siNRMs+1mAtnrKwe7y8lxiO0DvmPBqT4BALm4dx2smq/xCD2mKYLghlM0+QBufZLvIrnhN5NNPTftfX/6twXYgno/tL7blSQ4hYqnzQ34W6xsiIuRIFeX2hI/abEvp0w8HQGyKS0K5g3Fy5NQeyJOcDz8FNxdfShTongIIjR1zoSr4PEGaRweYnPSOTANOhFCqjdFadO/YqTcPhKNEm1hcaUHhFNfXYk8gT2gcQFC01RU6UQX5tJ9/GmS3QYSNcTrgALbLCffT9EGigcsA8UAJQ2s=;T5DedF/Zmo4aDOYPuPsiEA=="
 ---
