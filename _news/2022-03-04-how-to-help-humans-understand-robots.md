@@ -24,17 +24,6 @@ images:
     height: 283
     isCached: true
 
-related:
-  - title: "How to help humans understand robots"
-    excerpt: "Researchers from MIT and Harvard suggest that applying theories from cognitive science and educational psychology to the area of human-robot interaction can help humans build more accurate mental models of their robot collaborators,"
-    publishedDateTime: 2022-03-02T17:36:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/945184"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
-
 secured: "GUdzwMyeap05iN7qxQN/VJv/5l9ZittCRDHUNGMYtkOKuBLCtwk8Gw9nFsCw1XsdXYw2nC3D/BLQN8xSw+bKasat6E41kmrSI3ju5W4FIW/i6vXphtDttw97//U2UKDss/hOo9h/eIswkx4IZfwn6PVJUIiv1yxlOuZAZekdAih898NP9w0/K2ocWqxS2MJDFxCbQ4jtEZlbiiJDkR5mu9hzOEXpaI1OOO2unuycGYJN4aIm5ep4iDFnYBRtWe6FSdIdEKDIakd7wA/f+AVxSftHKHzBBVChr6AA+o4eOUlv+dEDT/+ITSDSbv94xTycFhE7kuXFGL320PuQyjoJNTf1xytTBooYhRtMX811XgZTHqUHqwB6XUNP/Mu5N+PN+7aD05/djASC21XeT8cv8vilgOFeEo8Z0tK38wPZMcKYRd7eqJ23M45cCJILSJwj00T6MUkow2SYlz7wx89/YpGk7XAMVVSYKCtvBskwXObSP6Mv1AeyDE7LWT8VYCgTp94JV4WKa3sultKpYYk2gA==;QBj6oNzoU8MLNR7G4RMfUA=="
 ---
 

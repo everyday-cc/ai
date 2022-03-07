@@ -7,7 +7,7 @@ originalUrl: "https://timesofsandiego.com/tech/2022/03/04/california-oks-self-dr
 webUrl: "https://timesofsandiego.com/tech/2022/03/04/california-oks-self-driving-ridehail-car-tests-with-paying-customers-in-2-counties/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "You can catch a ride with a self-driving car in SF"
-    excerpt: "Now you can catch a ride with a self-driving car. It’s similar to using other ride shares, except this time no one is driving the car that’s getting y"
-    publishedDateTime: 2022-03-02T17:03:00Z
-    webUrl: "https://www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/"
-    ampWebUrl: "https://www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/you-can-catch-a-ride-with-a-self-driving-car-in-sf/amp/"
+  - title: "Permits Issued to Google, GM Self-Driving Ventures for Limited Operations in California"
+    excerpt: "A California agency has issued permits to self-driving units of General Motors and Alphabet Inc. to allow for passenger service in with safety drivers present."
+    publishedDateTime: 2022-03-05T04:04:00Z
+    webUrl: "https://timesofsandiego.com/business/2022/03/04/permits-issued-to-google-gm-self-driving-ventures-for-limited-operations-in-california/"
     type: article
     provider:
-      name: KRON4
-      domain: kron4.com
-    quality: 44
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 16
     images:
-      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2022/03/waymo.png?w=1280"
-        width: 791
-        height: 447
-        isCached: true
-  - title: "Abu Dhabi’s TII takes a step into the future with self-driving race car"
-    excerpt: "While the UAE Capital is a motorsport hub hosting the Formula One Grand Prix, Abu Dhabi’s Technology Innovation Institute (TII) has taken a major step in autonomous robotics with its participation at world-class self-driving car competitions. TII ..."
-    publishedDateTime: 2022-03-04T11:22:00Z
-    webUrl: "https://www.khaleejtimes.com/auto/abu-dhabis-tii-takes-a-step-into-the-future-with-self-driving-race-car"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 24
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=63e8ffb7-94b2-5f2b-adec-55baa29336cb&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84375&x=0&y=0&width=1200&height=675"
-        width: 1200
-        height: 675
+      - url: "https://timesofsandiego.com/wp-content/uploads/2022/03/0x_GM-SELFDRIVING-CRUISE.jpg"
+        width: 1280
+        height: 840
         isCached: true
 
 secured: "o3XCpC7lIwIhxbKLZefmmNSRBSC9pAxTUbVx0lTB/B7c5I8y24OkcixiDptzf6mIsVtiEn/QNa1jRi3av69n2w7uaNyighW5sg8i5iqL0m+OitEKqN0AWGJfckHQIXPLAdbn1uemPpiJ2sPuHYfs7MDoXh6OsRih5IVUZvsdT0P9+ihShwX+UnqGTfsrF6MxFe68Rl07eU+ai1PZ5yAU96S8Lzqqr7mG+OQ7am1F5FR1ZdDOVdVrQ5ugfAL3Gn1X/dcvzGfertPWEY3wBRCAuo8S6fYodnLjBF1pMVXvaFqlksJ7WNVHMKMho71MvKvPb4IhEe+g6jW8pPFGaK5E3pRNvglDpTuilmSBiSfyfZkzhduxGGyY6nqUeJ+qzAkIQHpO7Adtuv4tBzHEOZiIyNktM8f0Wn7v9RMcFNIlsSE+CdJgfTbmbHQZXnzULLrMHKDCB08HT96bDlRHA0yqJa8KGiystWJLqtXmolQSY3uCB2AanewMkY51em74HAWBgT3mPxTViSuCdn6B7CladQ==;Tyd1AvMQkWleiU5lXWMcxA=="

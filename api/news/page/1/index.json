@@ -46,6 +46,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-07-healthtech-startup-deeptek-raises-10-million-in-funding-from-tata-capital-healthcare-fund-others.md",
+      "title": "Healthtech startup DeepTek raises $10 million in funding from Tata Capital Healthcare Fund, others",
+      "excerpt": "DeepTek said this funding will allow it to invest further in global outreach and also in securing important regulatory approvals.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/funding/healthtech-startup-deeptek-raises-10-million-in-funding-from-tata-capital-healthcare-fund-others/articleshow/90045534.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/funding/healthtech-startup-deeptek-raises-10-million-in-funding-from-tata-capital-healthcare-fund-others/articleshow/90045534.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1429966,msid-90045538/healthcare-startup-funding.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/funding/healthtech-startup-deeptek-raises-10-million-in-funding-from-tata-capital-healthcare-fund-others/amp_articleshow/90045534.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/healthtech-startup-deeptek-raises-10-million-in-funding-from-tata-capital-healthcare-fund-others/amp_articleshow/90045534.cms",
+      "publishedDateTime": "2022-03-06T21:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-07-smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning.md",
       "title": "Smart Finance announces official launch of cryptocurrency platform based on AI and machine learning",
       "excerpt": "London – March 3rd, 2022 – Smart Finance declares the launch of its avant-garde decentralized finance (DeFi) platform based on leading-edge artificial intelligence, machine learning and ...",
@@ -227,7 +270,7 @@
       "originalUrl": "https://www.khaleejtimes.com/tech/dubai-humanoid-robot-sophia-to-participate-in-auditors-conference",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -270,7 +313,7 @@
       "originalUrl": "https://www.androidpolice.com/myheritage-livestory-ai-dead-ancestors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -407,7 +450,7 @@
       "originalUrl": "https://techcrunch.com/2022/03/04/infrastructure-is-broken-gecko-is-using-robotics-to-help-fix-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1117,48 +1160,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-c3ai-ceo-tom-siebel-says-the-stock-is-a-screaming-buy-heres-why.md",
-      "title": "C3.ai CEO Tom Siebel Says the Stock Is a ‘Screaming Buy.’ Here’s Why.",
-      "excerpt": "Shares of enterprise artificial intelligence software firm C3.ai are higher on a strong fiscal-third-quarter report. CEO Tom Siebel says, 'We killed it.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/c3-ai-stock-earnings-ceo-51646328476",
-      "originalUrl": "https://www.barrons.com/articles/c3-ai-stock-earnings-ceo-51646328476",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-497252/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/c3-ai-stock-earnings-ceo-51646328476",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-stock-earnings-ceo-51646328476",
-      "publishedDateTime": "2022-03-03T13:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

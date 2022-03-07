@@ -2,6 +2,100 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2022-02-10-the-best-speech-to-text-software-for-2022.md",
+      "title": "The best speech-to-text software for 2022",
+      "excerpt": "... is a dedicated mobile speech-to-text app that delivers a high degree of accuracy thanks to its industry-leading speech recognition software that can adapt to your own speech patterns. In other words, Dragon Anywhere can actually learn how you speak ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/business/best-speech-to-text-software-2022/",
+      "originalUrl": "https://www.digitaltrends.com/business/best-speech-to-text-software-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/mansitatdeskathomeofficeroomholdingsmart.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/business/best-speech-to-text-software-2022/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/business/best-speech-to-text-software-2022/?amp",
+      "publishedDateTime": "2022-02-09T14:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-army-buys-artificial-intelligence-infused-folding-quadcopters-for-battlefield-use.md",
+      "title": "Army Buys Artificial Intelligence-Infused Folding Quadcopters For Battlefield Use",
+      "excerpt": "Skydio says the X2D offers up to 35 minutes of flight time, can operate in both day or night, and features artificial intelligence tools that enable 360-degree obstacle avoidance and “subject detection” of both people and vehicles. Skydio’s drone ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedrive.com/the-war-zone/44230/army-buys-artificial-intelligence-infused-folding-quadcopters-for-battlefield-use",
+      "originalUrl": "https://www.thedrive.com/the-war-zone/44230/army-buys-artificial-intelligence-infused-folding-quadcopters-for-battlefield-use",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thedrive.com/content/2022/02/Skydio-US-Army-SRR-Program.jpg?quality=85",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T14:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drive",
+        "domain": "thedrive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator.md",
       "title": "Raquel Urtasun’s tech company develops self-driving vehicle simulator",
       "excerpt": "TORONTO - One of Canada’s leading autonomous vehicle experts has unveiled a way to help self-driving vehicles develop intuition and experience away",
@@ -1074,103 +1168,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-domino-data-lab-adds-autoscaling-to-mlops.md",
-      "title": "Domino Data Lab adds autoscaling to MLOps",
-      "excerpt": "Domino Data Lab 5.0 is focusing heavily on the deployment, autoscaling, and monitoring part of the machine learning lifecycle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/domino-data-lab-adds-autoscaling-to-mlops/",
-      "originalUrl": "https://www.zdnet.com/article/domino-data-lab-adds-autoscaling-to-mlops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b61c7907e86210dfb3ced032662b9a22a9763d65/2022/02/08/08c0dfa8-2677-4880-ac25-65e91de12f4b/ds.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/domino-data-lab-adds-autoscaling-to-mlops/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/domino-data-lab-adds-autoscaling-to-mlops/",
-      "publishedDateTime": "2022-02-09T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-six-flags-magic-mountain-hires-robot-security-guard-who-looks-nothing-like-robocop.md",
-      "title": "Six Flags Magic Mountain hires robot security guard who looks nothing like RoboCop",
-      "excerpt": "An artificial intelligence-driven security guard robot with a Shakespearean ... but nobody will confuse Roameo with RoboCop. The new Roameo security robot will start patrolling Magic Mountain in the next week, according to Six Flags officials.",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconvalley.com/2022/02/09/six-flags-magic-mountain-hires-robot-security-guard-who-looks-nothing-like-robocop/",
-      "originalUrl": "https://www.siliconvalley.com/2022/02/09/six-flags-magic-mountain-hires-robot-security-guard-who-looks-nothing-like-robocop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconvalley.com/wp-content/uploads/2022/02/ROAMEO-concept-amusement-park-4x3-1.jpg?w=1024&h=768",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.siliconvalley.com/2022/02/09/six-flags-magic-mountain-hires-robot-security-guard-who-looks-nothing-like-robocop/amp/",
-      "cdnAmpWebUrl": "https://www-siliconvalley-com.cdn.ampproject.org/c/s/www.siliconvalley.com/2022/02/09/six-flags-magic-mountain-hires-robot-security-guard-who-looks-nothing-like-robocop/amp/",
-      "publishedDateTime": "2022-02-09T04:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Silicon Valley",
-        "domain": "siliconvalley.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

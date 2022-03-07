@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/4-analysts-lower-p
 webUrl: "https://markets.businessinsider.com/news/stocks/4-analysts-lower-price-target-on-c3-ai-after-earnings-here-s-why-1031255676"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,33 +26,6 @@ images:
     width: 1024
     height: 768
     isCached: true
-
-related:
-  - title: "Analyst Ratings For C3.ai"
-    excerpt: "In the last 3 months, 4 analysts have offered 12-month price targets for C3.ai. The company has an average price target of $33.5 with a high of $40.00 and a low of $27.00. Below is a summary of how these 4 analysts rated C3."
-    publishedDateTime: 2022-03-02T18:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1031248762"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_3929.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "C3.ai (NYSE:AI) Shares Gap Down on Analyst Downgrade"
-    excerpt: "C3.ai, Inc. (NYSE:AI – Get Rating) gapped down prior to trading on Friday after Deutsche Bank Aktiengesellschaft downgraded the stock from a hold rating to a sell rating. The stock had previously closed at $23."
-    publishedDateTime: 2022-03-05T11:14:00Z
-    webUrl: "https://www.etfdailynews.com/2022/03/05/c3-ai-nyseai-shares-gap-down-on-analyst-downgrade/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/03/05/c3-ai-nyseai-shares-gap-down-on-analyst-downgrade/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/03/05/c3-ai-nyseai-shares-gap-down-on-analyst-downgrade/amp/"
-    type: article
-    provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 37
 
 secured: "kTf9djt+0EhFzAvGJVb6ee/haGuRLuQK64lpBHLFHwU9iJyKFmi24Bjy899baPDvZxv4gKzyMQb/zUwRy7jKKQq0P6CV/4K1SEEdia6bVerdKG5v9l5t/JQac1EUsaN2vcL5VZlFjcd2amZIxZ0+V8lBRUDmyCxaj9kOXyzyJndCgpWT7HBAKRbJa5lbuXuFPl8bM+6hNtr+X9d9WzGnW/sjSRt/ztC+LxHJLyF3aTm+Day3HY0g6qLrDG5yRvZKfuwM7L7gL9G0pn+J/P5YRhnd84QLIYamdH8ln+/BbZOqjKcK8wCCadwiNBjJeK/3X5qkeZzmLO15rUbY91NhxoCa5VEFT0sGGzFeUA24ehBG1ITntKHMn6orPJNrncrAfkodaewOrpMGDd8CFsROCuoV4FJbC69pHtMkHiMllaalBNZ4NJ9nVvPKjNbbVmgnv3e+WPH2k9hXI5grSMxtoLo1d12/MBOCAbaCZzORv6PLuvJxclnqAM+12+eoOy7lm8ya/qDm/hC3dt6/4Gdxgg==;a/c0P7ulQbArHyhSyGoglQ=="
 ---

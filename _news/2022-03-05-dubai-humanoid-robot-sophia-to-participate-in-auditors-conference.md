@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/tech/dubai-humanoid-robot-sophia-to-par
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/tech/dubai-humanoid-robot-sophia-to-participate-in-auditors-conference?amp=1"
 type: article
 quality: 74
-heat: 105
+heat: 104
 published: true
 
 provider:

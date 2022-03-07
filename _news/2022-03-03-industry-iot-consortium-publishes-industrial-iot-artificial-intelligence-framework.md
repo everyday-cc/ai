@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Proven Ways to Use AI to Cut Cloud Costs"
+    excerpt: "AI can reduce cloud costs in two key ways. By David Drai; March 7, 2022; Organizations are learning how they can reap several benefits fr"
+    publishedDateTime: 2022-03-07T10:21:00Z
+    webUrl: "https://tdwi.org/articles/2022/03/07/pm-all-proven-ways-to-use-ai-to-cut-cloud-costs.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 37
+    images:
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/dollarsign.jpg"
+        width: 976
+        height: 400
+        isCached: true
 
 secured: "nVIQy923aDUolVP1QjcXkU85s5rXLRz9KwWC0shwNySWw0TNv+ePuoPIIS3qyPnuMJcOD1wp4CwvDZzT6c8tO304yvPPelRm+z+qlahibZVxBqMF0aA0XvIrK0IUyKFO6ncK38Ja0z9pivUqZEOKmTQTIpgC+uEOyqdbMKQFskLC/tLf5DYllkP2MTEoMHYM6vIcYDX1sjeF3iLqBRY/IpScGraoVXD0BdRFWBK8+3TwK6VpV2MXTNHX6RONBl+Etb8VRFopEPCLNAid/wIODd2VQ7KTukL73+hwH/8T3ndrzJa70JMAYvQRkL6UATBrNs285ipW/snFZgoRzxuVezGZvkxFf3BuhwqqHIX3+DCySiTcq+y1554/PIGowVlonEVT5IZGLqDdDe5T/XfQnnLfW/OLWQ4RCqJ79M/2p5CQgWlrMrJtIn+DaXrIlvumsqfJdxvvkJVMAI5IHuSXiQddpoK9kT9Y0Nirv0dtDzCQ6O0NlEv14KDofxmmGqvz0QwPpGz6ZpsEVPLLQbwITw==;BDUw86Fsrx3W80Re6xt4Qw=="
 ---

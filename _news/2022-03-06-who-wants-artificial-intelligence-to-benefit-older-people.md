@@ -3,8 +3,8 @@ category: news
 title: "WHO wants artificial intelligence to benefit older people"
 excerpt: "THE World Health Organization (WHO) says artificial intelligence (AI) technologies have the potential to improve older people's health and well-being, but only if ageism is eliminated from their design,"
 publishedDateTime: 2022-03-06T05:22:00Z
-originalUrl: "https://www.jamaicaobserver.com/features/who-wants-artificial-intelligence-to-benefit-older-people_245553?profile=1033"
-webUrl: "https://www.jamaicaobserver.com/features/who-wants-artificial-intelligence-to-benefit-older-people_245553?profile=1033"
+originalUrl: "https://www.jamaicaobserver.com/features/who-wants-artificial-intelligence-to-benefit-older-people_245553?profile=1470"
+webUrl: "https://www.jamaicaobserver.com/features/who-wants-artificial-intelligence-to-benefit-older-people_245553?profile=1470"
 ampWebUrl: "https://amp.jamaicaobserver.com/features/who-wants-artificial-intelligence-to-benefit-older-people_245553"
 cdnAmpWebUrl: "https://amp-jamaicaobserver-com.cdn.ampproject.org/c/s/amp.jamaicaobserver.com/features/who-wants-artificial-intelligence-to-benefit-older-people_245553"
 type: article
@@ -58,6 +58,6 @@ related:
         height: 378
         isCached: true
 
-secured: "CeqY21/uxktzFQZespdaLW30b+LfK8X407S/3HTMUCc/homYKeROvJaVuCghbk4Cd8pgw9yTbBFUfod7np3aMTSablejfJiYFO1EU8ekAEQb+qSgsJTSbkDPPRdOocQLZIoZt6nhdHxmRaOgodYkZNnQij6i1troTDDEuXkhF1JgYekALnBY2OZm88wd0sOs8ReDV9dty1OqDbKQeJekcxmIlY3gAYIGqTPXopjh/e+P4NNx4+DtckBUXoFWBlZNOmmF37oLB98JYBYHwOaYfpnN+pt3ocs3kdxaRdcYRCrsqBGNcuq2NXygoce4f5Fg6dD5+wmO4WGY4BsWNTdfZIWdZM4b68HwBfIZp7jw572PZEHNwxfzqx+cojo2s++bwGLYmmRfvpyROvrn5BSxw9mmF9lxAk0UaRu4VCGzXRe3l/mjVxgBfVPX9nQgwfQajA1lCAub8N+EJTDMA5No44qVY2ZLyd4ZXq0zQhLUwD5ILeMB1ObjNgCKH8MDQLep3lMp9rXOzZ4LL6yeveV97A==;ly5diNJeg6cZ3U+qM23oPA=="
+secured: "8SokilEvPREInIZcJDS9hSnZJahNNQCQopbjQCptJf+r1Qxn7LVZLkccjGAk3Y2bWOEf1nH73XPYw/4t0KBKfYzHGU3krlwDrfVMQqyG0m3s2pKLA+7Log8irNj4PvaSu9FQHMQ8SQT6l+Zu1bIyaBWlmQdax4feFcHYUFUCnokTo/JELgDBGq2EdHPmQPSu+2bSGEXW8lZueAhYBUWKq66VSCvgDUqeXNLZpCaEmOPJdS/GU6mmY8grp8EnzMMXKHDV3470axeMT3erCPMUHwbkXR+hQbuV+97y1qDn2koq4t6zwj7u3Dh+y8XEJZpS9lXt7QIEkqR6GsL7+NYKy3IvslkmLxg41svM1k6UjXg=;7up+nsC2brvKREyT/PluNw=="
 ---
 

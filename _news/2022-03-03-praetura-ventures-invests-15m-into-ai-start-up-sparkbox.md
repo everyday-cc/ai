@@ -23,6 +23,22 @@ images:
     height: 1254
     isCached: true
 
+related:
+  - title: "Praetura Ventures invests £1.5m into AI start-up Sparkbox"
+    excerpt: "Praetura Ventures has invested £1.5m into a Manchester-based start-up that uses AI and in-depth data to help big brand merchandising teams make better stock buying and pricing decisions."
+    publishedDateTime: 2022-03-07T09:23:00Z
+    webUrl: "https://www.retailtimes.co.uk/praetura-ventures-invests-1-5m-into-ai-start-up-sparkbox/"
+    type: article
+    provider:
+      name: Retail Times
+      domain: retailtimes.co.uk
+    quality: 37
+    images:
+      - url: "http://www.retailtimes.co.uk/wp-content/uploads/2013/10/RTnewsletter-logo.jpg"
+        width: 560
+        height: 420
+        isCached: true
+
 secured: "Q+CQlD3yveg3bUckqE0FDXXzqCq0ZNH7XvkSavmKR1U+eQ109fDVY8Pbf13fdisQKlq0zdzlKaveL5vT80LgPvISS5v52cHQG5l79Z21hmYIulix++uGcHNvxblgi/xHQLnasM4Vgg6NMLxr54TqG/M5+21NGVacjKpX0d2eaN+NhOmSfnP9d2jA4Aol6ei9ZCvjM1d3BmCicQmi00U13cWjQriDAtMVB29N65OkVXtwg4dVLlbF3q2+6SaYcj4gGBzapQge0iE7JpNqzMJZNXAlwNKfOirFwftleo8OHkBrlPwHW1MScuKVR9jItlQlFNKxm79jW76AHyC/QjjTzaLMtmBIGsasJyrKfVmNtOE=;sU05MXU8p6XumkMi42SD1Q=="
 ---
 

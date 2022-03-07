@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/three-ways
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/03/three-ways-to-overcome-industrial-ai-roadblocks/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Proven Ways to Use AI to Cut Cloud Costs"
+    excerpt: "AI can reduce cloud costs in two key ways. By David Drai; March 7, 2022; Organizations are learning how they can reap several benefits fr"
+    publishedDateTime: 2022-03-07T10:21:00Z
+    webUrl: "https://tdwi.org/articles/2022/03/07/pm-all-proven-ways-to-use-ai-to-cut-cloud-costs.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 37
+    images:
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/dollarsign.jpg"
+        width: 976
+        height: 400
+        isCached: true
   - title: "Industry IoT Consortium Publishes Industrial IoT Artificial Intelligence Framework"
     excerpt: "The framework highlights the value proposition AI can enable in next-generation industrial IoT (IIoT) systems and addresses the emerging requirements and implementation challenges. \"The rapid growth and innovation in the field of AI have unlocked applications that a few years ago were infeasible."
     publishedDateTime: 2022-03-02T19:03:00Z

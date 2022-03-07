@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidpolice.com/myheritage-livestory-ai-dead-ancestors
 cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/myheritage-livestory-ai-dead-ancestors/amp/"
 type: article
 quality: 52
-heat: 82
+heat: 84
 published: true
 
 provider:

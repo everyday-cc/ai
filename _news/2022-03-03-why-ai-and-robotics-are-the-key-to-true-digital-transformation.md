@@ -26,15 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Memorance AI: digital transformation with learning capabilities"
-    excerpt: "How can small and medium enterprises that lack data apply artificial intelligence (AI) to digital transformation and automate their operations? Memorance AI, a startup made it to the list of top 10 teams joining the final round of 2021 Qualcomm Taiwan Innovation Challenge and a silver medal winner of 2021 APICTA awards under the category of \"industrial application V manufacturing and logistics\","
+  - title: "Memorance AI: Digital transformation with learning capabilities"
+    excerpt: "How can small and medium enterprises that lack data apply artificial intelligence (AI) to digital transformation and automate their operations? Memorance AI, a startup made it to the list of top 10 teams joining the final round of 2021 Qualcomm Taiwan Innovation Challenge and a silver medal winner of 2021 APICTA awards under the category of \"industrial application V manufacturing and logistics,"
     publishedDateTime: 2022-03-07T01:30:00Z
-    webUrl: "https://digitimes.com/news/a20220304VL202/internet-cloud-ai-server-ipc-cloud-computing-iot.html?chid=11"
+    webUrl: "https://digitimes.com/news/a20220304VL202/internet-cloud-ai-server-ipc-cloud-computing-iot.html"
     type: article
     provider:
       name: Digi Times
       domain: digitimes.com
-    quality: 39
+    quality: 37
     images:
       - url: "https://digitimes.com/newsshow/20220304VL202_files/2_2b.jpg"
         width: 1280

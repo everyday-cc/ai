@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facia
 webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21258916/washington-to-leverage-idmes-facial-recognition-tech-for-unemployment-claims"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Washington to Roll Out Facial Recognition Dropped by IRS"
-    excerpt: "Washington state is getting ready to roll out the ID.me facial recognition system dropped by the IRS over privacy and equity concerns, while human rights activists are asking state government officials to ban the system."
-    publishedDateTime: 2022-03-02T18:11:00Z
-    webUrl: "https://www.govtech.com/public-safety/washington-to-roll-out-facial-recognition-dropped-by-irs"
-    ampWebUrl: "https://www.govtech.com/public-safety/washington-to-roll-out-facial-recognition-dropped-by-irs?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/washington-to-roll-out-facial-recognition-dropped-by-irs?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "IRS has dropped ID.me's facial recognition tech after backlash, but Washington state will roll it out in June"
     excerpt: "Washington state is getting ready to roll out the ID.me facial recognition system dropped by the IRS last month over privacy and equity concerns."
     publishedDateTime: 2022-03-02T19:50:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-facialrecogn.jpg"
         width: 1920
         height: 982
-        isCached: true
-  - title: "Critics of facial recognition out-lobbying well-known vendors"
-    excerpt: "A research group picking through U.S. lobbying activity about facial recognition shows fairly modest spending by most organizations last year."
-    publishedDateTime: 2022-03-03T18:16:00Z
-    webUrl: "https://www.biometricupdate.com/202203/critics-of-facial-recognition-out-lobbying-well-known-vendors"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
-        width: 2048
-        height: 1365
         isCached: true
 
 secured: "lJjcanf7zeG1gGiqIAtXQ5HKOmzf0AjFLyaDSKU/zUVB5N+YwR2ASx9nIriOEthfQX4STIJ/Vl8w9u4ZoaFNuscm0/6Q37aXxTY8/LxejtI1doRIsP/rZdqnE3wlFF2sBgltMl2ejlLm8w1/KX2Xx3L2RS+nG1y4DdyUgWCT+RYlOD8eElVn3zvXcqwefNADJhxGl9d3Gu/ppP6UB5N89936Q0+OlSZCX72jP1qQLf600cZtZJwsFBkBWZ4ItyYJ27zEptwpGlS2FlMAnnQGmaq0OGjQWtWMn2raC54z0vxZRHOncKlBO17FlFUvvPrgSy6gHyoVjOpJAH+AvAOwwJObInK3mbDMoPS23zDUIzqegk0semgQojR4ADlJ3nckiFjgjF2TcN9W0n8nRx4nOG4guT13ZxEHqjnLc1qumvsvdnwWt5lTo4pYxYYhy4fKD8DaRj8t2zrzNzZqhrShC5W47owvjiw3hhprUQJNGlUyaC3nY1okkorguWeZW6Dy3Awwn9LrGBX9WPb7/jl8RQ==;fAWZ3OTU5jByuFWcYqWhCw=="
