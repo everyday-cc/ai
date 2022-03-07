@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-05-ai-all-the-things.md",
+      "title": "AI All The Things!",
+      "excerpt": "AI is the gateway to achieving the greatest promise technology has to offer. Here are 4 ways AI-powered service operations can reshape the entire IT organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/servicenow/2022/03/04/ai-all-the-things/",
+      "originalUrl": "https://www.forbes.com/sites/servicenow/2022/03/04/ai-all-the-things/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62228fbe603ccc3740957a48/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2022/03/04/ai-all-the-things/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2022/03/04/ai-all-the-things/amp/",
+      "publishedDateTime": "2022-03-04T15:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-05-infrastructure-is-broken-gecko-is-using-robotics-to-help-fix-it.md",
+      "title": "Infrastructure is broken, Gecko is using robotics to help fix it",
+      "excerpt": "It’s certainly the sort of thing that rings true in the startup’s home town of ... “Gecko’s unique combination of robotics, software, and AI radically improves the ability to inspect ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/04/infrastructure-is-broken-gecko-is-using-robotics-to-help-fix-it/",
+      "originalUrl": "https://techcrunch.com/2022/03/04/infrastructure-is-broken-gecko-is-using-robotics-to-help-fix-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bdeUbFv78dM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/04/infrastructure-is-broken-gecko-is-using-robotics-to-help-fix-it/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/04/infrastructure-is-broken-gecko-is-using-robotics-to-help-fix-it/amp/",
+      "publishedDateTime": "2022-03-04T14:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-05-brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway.md",
       "title": "Brazilian civil rights organizations call for facial recognition ban in São Paulo subway",
       "excerpt": "Entities unite in an attempt to prevent the use of the technology amid concerns over discrimination against black, non-binary and trans individuals.",
@@ -53,7 +156,7 @@
       "originalUrl": "https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -158,7 +261,7 @@
       "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-service-market-next-big-thing-major-giants-ibm-microsoft-atomwise",
       "featuredContent": null,
       "highlight": null,
-      "heat": 248,
+      "heat": 258,
       "tags": null,
       "images": [
         {
@@ -930,7 +1033,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-analytics-in-endpoint-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1108,111 +1211,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-eufy-security-video-smart-lock-combines-2k-camera-and-fingerprint-sensor.md",
-      "title": "Eufy Security Video Smart Lock Combines 2K Camera And Fingerprint Sensor",
-      "excerpt": "Anker's Eufy Security reveals a new video smart lock system that makes smart protection of one's own front door seem simple, handy, and enjoyable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/786826/eufy-security-video-smart-lock-combines-2k-camera-and-fingerprint-sensor/",
-      "originalUrl": "https://www.slashgear.com/786826/eufy-security-video-smart-lock-combines-2k-camera-and-fingerprint-sensor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/eufy-security-video-smart-lock-combines-2k-camera-and-fingerprint-sensor/l-intro-1646329682.jpg",
-          "width": 1600,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T09:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-an-artificial-intelligence-rant-neural-networks-are-not-magic-theyre-code.md",
-      "title": "An Artificial Intelligence Rant: Neural Networks Are Not Magic, They’re Code",
-      "excerpt": "Artificial Intelligence.. I was reading yet another document about artificial intelligence (AI). The introduction was covering the basics and the",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2022/03/03/an-artificial-intelligence-rant-neural-networks-are-not-magic-theyre-code/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/03/03/an-artificial-intelligence-rant-neural-networks-are-not-magic-theyre-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y23,safe&fit=crop",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/03/03/an-artificial-intelligence-rant-neural-networks-are-not-magic-theyre-code/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/03/03/an-artificial-intelligence-rant-neural-networks-are-not-magic-theyre-code/amp/",
-      "publishedDateTime": "2022-03-03T09:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

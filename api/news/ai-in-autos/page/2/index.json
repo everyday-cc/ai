@@ -617,6 +617,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-18-how-artificial-intelligence-will-transform-businesses.md",
+      "title": "How Artificial Intelligence Will Transform Businesses",
+      "excerpt": "Artificial intelligence has a wide range of uses in ... \"AI is starting to make what was once considered impossible possible, like driverless cars,\" said Russell Glenister, CEO and founder of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
+      "originalUrl": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.business.com/images/content/620/fba7a9c658a684b8b4567/1500-0-",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business News Daily",
+        "domain": "businessnewsdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-18-robot-tractors-may-be-heading-to-a-farm-near-you.md",
       "title": "Robot tractors may be heading to a farm near you",
       "excerpt": "Artificial intelligence, machine learning ... However, he is not sure driverless tractors are right for his family farm. “I’m sure that’s really expensive. And I kind of want to be out ...",
@@ -1360,49 +1403,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-13-5-chinese-stocks-in-cathie-woods-portfolio.md",
-      "title": "5 Chinese Stocks in Cathie Wood’s Portfolio",
-      "excerpt": "For example, the company’s Advanced Driving Support System (ADAS), Apollo, has twice as much data on miles driven than any other initiative in the world, giving Baidu (and China) a large lead in the global AI arms race. In addition, Baidu’s cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-chinese-stocks-in-cathie-woods-portfolio-1022410/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-chinese-stocks-in-cathie-woods-portfolio-1022410/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/03/08164427/Cathie-Wood-ARK-Investment-Management-1267.jpg",
-          "width": 1613,
-          "height": 2048,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-12T11:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

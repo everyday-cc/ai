@@ -57,6 +57,15 @@ related:
         width: 2880
         height: 4073
         isCached: true
+  - title: "Harnessing AI and Robotics to treat spinal cord injuries"
+    excerpt: "By employing artificial intelligence (AI) and robotics to formulate therapeutic proteins, a team has successfully stabilized an enzyme able to degrade scar tissue resulting from spinal cord injuries and promote tissue regeneration."
+    publishedDateTime: 2022-03-07T19:25:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/03/220307113045.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 81
   - title: "Ban predictive policing systems in EU AI Act, says civil society"
     excerpt: "“I do not think you can solve this issue by tweaking the technology or trying to find AI to spot bias.” Speaking to the HAJC in October 2021, Karen Yeung – an interdisciplinary professorial fellow in law, ethics and informatics at Birmingham Law ..."
     publishedDateTime: 2022-03-03T17:05:00Z

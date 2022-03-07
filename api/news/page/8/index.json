@@ -2,6 +2,101 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-02-26-this-machine-learning-model-can-pinpoint-failing-or-hacked-power-grid-components.md",
+      "title": "This machine-learning model can pinpoint failing or hacked power grid components",
+      "excerpt": "Machine learning could one day help energy providers better pinpoint failing or compromised components in power grids, or better identify traffic congestion for local authorities, according to a study.",
+      "sourceUrl": null,
+      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/02/26/machine_learning_power/",
+      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/02/26/machine_learning_power/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2016/12/21/shutterstock_electric_grid.jpg",
+          "width": 648,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/02/26/machine_learning_power/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/26/machine_learning_power/",
+      "publishedDateTime": "2022-02-26T03:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-26-what-you-need-to-know-about-facial-recognition-at-airports.md",
+      "title": "What You Need to Know About Facial Recognition at Airports",
+      "excerpt": "Customs officials aim to save time and increase security by ramping up the use of facial recognition. But what about privacy? A biometrics specialist weighs in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html",
+      "originalUrl": "https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/02/26/travel/26qna-facial-recognition-1/26qna-facial-recognition-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.amp.html",
+      "publishedDateTime": "2022-02-26T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-26-saudi-authorities-sign-joint-cooperation-agreement-in-artificial-intelligence-with-dubai-police.md",
       "title": "Saudi authorities sign joint cooperation agreement in artificial intelligence with Dubai Police",
       "excerpt": "Cooperation between the two sides is expected to increase the economic value provided by adopting optimal driving behavior and an advanced traffic services approach",
@@ -1105,109 +1200,6 @@
         "Natural Language Processing",
         "Machine Learning",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-companies-improve-their-supply-chains-with-artificial-intelligence.md",
-      "title": "Companies Improve Their Supply Chains With Artificial Intelligence",
-      "excerpt": "Supply chain vendors have been touting their investments in artificial intelligence (AI) for years. But the number of places AI is being employed, really is increasing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevebanker/2022/02/24/companies-improve-their-supply-chains-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/stevebanker/2022/02/24/companies-improve-their-supply-chains-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6217e9d6209351e6e9949c9c/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2022/02/24/companies-improve-their-supply-chains-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2022/02/24/companies-improve-their-supply-chains-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-02-24T11:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-putting-ai-to-work-for-cx-and-sales-in-2022.md",
-      "title": "Putting AI to work for CX and sales in 2022",
-      "excerpt": "In sales, AI is often touted as the new way to forecast and drive results. While it sounds good, you can’t throw AI at just any problem.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/24/putting-ai-to-work-for-cx-and-sales-in-2022/",
-      "originalUrl": "https://venturebeat.com/2022/02/24/putting-ai-to-work-for-cx-and-sales-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1264510281.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/24/putting-ai-to-work-for-cx-and-sales-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/24/putting-ai-to-work-for-cx-and-sales-in-2022/amp/",
-      "publishedDateTime": "2022-02-24T11:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

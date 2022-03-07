@@ -42,6 +42,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Giraffe AI Labs and TmaxMetaverse Have Partnered To Create A Unique Metaverse Based Financial AI Platform"
+    excerpt: "TmaxMetaverse and Giraffe AI Labs announced their partnership for metaverse based financial AI platformA revolutionary metaverse-based financial AI"
+    publishedDateTime: 2022-03-07T19:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/giraffe-ai-labs-and-tmaxmetaverse-have-partnered-to-create-a-unique-metaverse-based-financial-ai-platform"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 20
+    images:
+      - url: "https://www.abnewswire.com/uploads/a149431035c0384f715a2b94f77efc48.jpg"
+        width: 600
+        height: 381
+        isCached: true
   - title: "Inworld AI Raises Investment from BITKRAFT Ventures, to Bring AI-Powered Virtual Characters to Metaverse and Games"
     excerpt: "Inworld AI, offering a platform to create AI-powered characters for virtual worlds, including VR/AR, games and metaverse applications, today announced a $10 million strategic funding led by BITKRAFT Ventures,"
     publishedDateTime: 2022-03-04T20:37:00Z

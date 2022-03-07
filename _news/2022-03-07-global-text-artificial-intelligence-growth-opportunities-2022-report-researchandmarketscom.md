@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-07T14:01:00Z
 originalUrl: "https://www.pharmiweb.com/press-release/2022-03-07/global-text-artificial-intelligence-growth-opportunities-2022-report-researchandmarketscom"
 webUrl: "https://www.pharmiweb.com/press-release/2022-03-07/global-text-artificial-intelligence-growth-opportunities-2022-report-researchandmarketscom"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
@@ -52,20 +53,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGMTmzoGt02HA/article-cover_image-shrink_600_2000/0/1646303702733?e=1652313600&v=beta&t=Q_vDer_aeM9K7s6W1XR3uYhY3nnW_47-obPRoALm0x0"
         width: 800
         height: 560
-        isCached: true
-  - title: "Genomics Artificial Intelligence Market Research Report 2022 - Global Outlook & Forecasts to 2027 - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence in Genomics Market - Global Outlook & Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. The artificial intelligence in genomics market to grow at a CAGR of 48."
-    publishedDateTime: 2022-03-03T17:08:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-health-business-genetics-299e1a8e05de4483823a3d0dc80c0299"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "m9NGvA4Y/GKGSK8Jopr77OeSjYdoBo4eMotq5Rsix7CWGXLin3J0wUq3p8vyLzXIcENnMHYvT7DN25B3W/zLIkHm0hf1R1QCb8knMO+lhhWGcvSLZe6lHWmWlApkZWZBvDPF2Ml/m3NpQx8/bgU1P5CTTG9YRrixg9FdptjaQrqTH0Rh/lsfbJe+UygbC4njikBFw0JpJ1+Kgl+BGKfKg3hi9D6ENO7KgVTCW8uw4N5W7qz8vaDYBzKXEUWVyMmRzuUu7GoYYROvTLAtKWNUaHuBjDsb7S7zkTw/BKSrz3auPmdm035Uzyays+14GMiXM5Ut63Ab68OKAJnRhxp1adZ0t9Yb1xmQVt/NmXzShZc=;db6PkTEN9GsvYlmlZK3N8A=="

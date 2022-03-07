@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-08-what-business-executives-need-to-know-about-ai.md",
+      "title": "What business executives need to know about AI",
+      "excerpt": "For most of the c-suite, even those running the IT side of the house, AI is still a mystery. The basic idea is simple enough but the details surrounding its components, implementation, integration and ultimate purpose are a bit more complicated.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/07/artificial-intelligence/",
+      "originalUrl": "https://venturebeat.com/2022/03/07/artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/2-numismatic-genesis-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/07/artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/07/artificial-intelligence/amp/",
+      "publishedDateTime": "2022-03-07T12:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-08-database-technology-evolves-to-combine-machine-learning-and-data-storage.md",
       "title": "Database technology evolves to combine machine learning and data storage",
       "excerpt": "Google, for instance, offers the Vertex AI Matching Engine, which helps power their AutoML product. But traditional databases companies are also beefing up their connections with AI algorithms.",
@@ -208,7 +259,7 @@
       "originalUrl": "https://www.wsj.com/articles/intel-files-to-take-self-driving-unit-mobileye-public-11646669536",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -412,6 +463,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-07-amp-robotics-expands-partnership-with-evergreen.md",
+      "title": "AMP Robotics Expands Partnership with Evergreen",
+      "excerpt": "AMP’s technology identifies and sorts green and clear PET from post-consumer bales of plastic soft drink bottles at speeds up to three times faster.",
+      "sourceUrl": null,
+      "webUrl": "https://www.waste360.com/business/amp-robotics-expands-partnership-evergreen",
+      "originalUrl": "https://www.waste360.com/business/amp-robotics-expands-partnership-evergreen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.waste360.com/sites/waste360.com/files/amproboticsfeat.png",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-07T06:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Waste360",
+        "domain": "waste360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -624,7 +718,7 @@
       "originalUrl": "https://techcrunch.com/2022/03/07/robotaxi-startup-pony-ai-now-valued-at-8-5b/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1053,109 +1147,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-05-ai-all-the-things.md",
-      "title": "AI All The Things!",
-      "excerpt": "AI is the gateway to achieving the greatest promise technology has to offer. Here are 4 ways AI-powered service operations can reshape the entire IT organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/servicenow/2022/03/04/ai-all-the-things/",
-      "originalUrl": "https://www.forbes.com/sites/servicenow/2022/03/04/ai-all-the-things/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62228fbe603ccc3740957a48/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2022/03/04/ai-all-the-things/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2022/03/04/ai-all-the-things/amp/",
-      "publishedDateTime": "2022-03-04T15:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-05-infrastructure-is-broken-gecko-is-using-robotics-to-help-fix-it.md",
-      "title": "Infrastructure is broken, Gecko is using robotics to help fix it",
-      "excerpt": "It’s certainly the sort of thing that rings true in the startup’s home town of ... “Gecko’s unique combination of robotics, software, and AI radically improves the ability to inspect ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/04/infrastructure-is-broken-gecko-is-using-robotics-to-help-fix-it/",
-      "originalUrl": "https://techcrunch.com/2022/03/04/infrastructure-is-broken-gecko-is-using-robotics-to-help-fix-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bdeUbFv78dM/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/04/infrastructure-is-broken-gecko-is-using-robotics-to-help-fix-it/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/04/infrastructure-is-broken-gecko-is-using-robotics-to-help-fix-it/amp/",
-      "publishedDateTime": "2022-03-04T14:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

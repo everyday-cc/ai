@@ -57,6 +57,20 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Giraffe AI Labs and TmaxMetaverse Have Partnered To Create A Unique Metaverse Based Financial AI Platform"
+    excerpt: "TmaxMetaverse and Giraffe AI Labs announced their partnership for metaverse based financial AI platformA revolutionary metaverse-based financial AI"
+    publishedDateTime: 2022-03-07T19:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/giraffe-ai-labs-and-tmaxmetaverse-have-partnered-to-create-a-unique-metaverse-based-financial-ai-platform"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 20
+    images:
+      - url: "https://www.abnewswire.com/uploads/a149431035c0384f715a2b94f77efc48.jpg"
+        width: 600
+        height: 381
+        isCached: true
 
 secured: "vX1L+yPnFjWJF5EV++qdne3pAtRvPynVFNbUYKx65qZzzP3oAUuh03gbITUKZqwzhxgi8bfR8lpmyYNtfkgbBC73USuFMCvdUehwL9CxFtUnag1Qz88ymTFsv37BHF2reaJHUSWbX0in8/hEsC73xMmHb2d6bV6/UfwgsKdAqGrPiYaCpCsd6taP/SOmn4OaoVWMM1f85AJsjHlcRsQxkM6qISrITYd1V8noSM0VABtbxUl3ayucpGgpApJ2xvawk5g0CUghIeMT+VTkemAiXSf6kvcUtPHiqflO01n+dQRxX8ObSzrZjxoKw4ILbM0B1cNyvhG3GM4g1SFQG/0nFaSjzKqKYD159raVOFUHgFo=;mzjzRq79HG+ASVUEUV2Pow=="
 ---

@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-01-ai-in-healthcare-market-is-projected-to-reach-1944-billion-by-2030.md",
+      "title": "AI in Healthcare Market is projected to reach $194.4 billion by 2030",
+      "excerpt": "COVID-19 is an infectious disease caused by the most recently discovered novel corona virus. Largely unknown before the outbreak began in Wuhan (China) in December 2019, COVID-19 has moved from a regional crisis to a global pandemic in just a matter of a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-healthcare-market-is-projected-to-reach-194-4-billion-by-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-healthcare-market-is-projected-to-reach-194-4-billion-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T03:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-buffett-backed-byd-to-use-baidu-apollos-autonomous-driving-technology-in-its-evs-as-it-raises-its-game-against-tesla-domestic-rivals.md",
+      "title": "Buffett-backed BYD to use Baidu Apollo’s autonomous driving technology in its EVs as it raises its game against Tesla, domestic rivals",
+      "excerpt": "It will be an important step for Beijing-based Baidu too, as it strives to commercialise its Apollo self-driving technologies after nearly five year of development. “BYD’s EVs have a good ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/china-business/article/3168807/buffett-backed-byd-use-baidu-apollos-autonomous-driving",
+      "originalUrl": "https://www.scmp.com/business/china-business/article/3168807/buffett-backed-byd-use-baidu-apollos-autonomous-driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/03/01/0b981023-b94c-4324-be7a-50218aaf4a76_75ac7235.jpg?itok=El5opAGi&v=1646126110",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/china-business/article/3168807/buffett-backed-byd-use-baidu-apollos-autonomous-driving",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/china-business/article/3168807/buffett-backed-byd-use-baidu-apollos-autonomous-driving",
+      "publishedDateTime": "2022-03-01T03:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-why-tech-marketing-leaders-are-racing-to-sponsor-formula-1.md",
       "title": "Why Tech Marketing Leaders Are Racing To Sponsor Formula 1",
       "excerpt": "With the rising popularity of Formula 1, technology companies are expanding their sponsorships and seeing amazing returns on their investments.",
@@ -100,19 +195,19 @@
     {
       "path": "_news/2022-03-01-baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength.md",
       "title": "Baidu beats quarterly revenue estimates on AI, cloud services strength",
-      "excerpt": "(Reuters) -Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has ...",
+      "excerpt": "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has been ...",
       "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/03/01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/03/01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength",
+      "webUrl": "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-strength-2528766",
+      "originalUrl": "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-strength-2528766",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/03/01/1498688.jpg",
-          "width": 800,
-          "height": 533,
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--uSFnJqlG--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-03-01t085407z_2_lynxmpei201qj_rtroptp_3_baidu-results.jpg?itok=cYQJyey9",
+          "width": 1200,
+          "height": 676,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -122,11 +217,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T00:58:00-08:00",
+      "publishedDateTime": "2022-03-01T00:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1078,92 +1173,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-artificial-intelligence-used-to-detect-anomalies-in-power-grid-failures.md",
-      "title": "Artificial Intelligence Used to Detect Anomalies in Power Grid Failures",
-      "excerpt": "Finding a fault in the power grid of a country can be like attempting to locate a needle in a huge haystack. Hundreds of thousands of interconnected sensors spread throughout the United States capture data on electric current,",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12780",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12780",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12780_16460639924659087.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12780",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12780",
-      "publishedDateTime": "2022-02-28T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-patriot-financial-group-insurance-agency-llc-grows-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo.md",
-      "title": "Patriot Financial Group Insurance Agency LLC Grows Position in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)",
-      "excerpt": "Patriot Financial Group Insurance Agency LLC increased its holdings in shares of iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO – Get Rating) by 91.1% during the 3rd quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/02/28/patriot-financial-group-insurance-agency-llc-grows-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/",
-      "originalUrl": "https://www.etfdailynews.com/2022/02/28/patriot-financial-group-insurance-agency-llc-grows-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/scripts/SECFilingChart.ashx?Prefix=NYSEARCA&Symbol=IRBO",
-          "width": 650,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/02/28/patriot-financial-group-insurance-agency-llc-grows-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/02/28/patriot-financial-group-insurance-agency-llc-grows-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/",
-      "publishedDateTime": "2022-02-28T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

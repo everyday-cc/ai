@@ -80,6 +80,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-07-amp-robotics-expands-partnership-with-evergreen.md",
+      "title": "AMP Robotics Expands Partnership with Evergreen",
+      "excerpt": "AMP’s technology identifies and sorts green and clear PET from post-consumer bales of plastic soft drink bottles at speeds up to three times faster.",
+      "sourceUrl": null,
+      "webUrl": "https://www.waste360.com/business/amp-robotics-expands-partnership-evergreen",
+      "originalUrl": "https://www.waste360.com/business/amp-robotics-expands-partnership-evergreen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.waste360.com/sites/waste360.com/files/amproboticsfeat.png",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-07T06:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Waste360",
+        "domain": "waste360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-05-dubai-humanoid-robot-sophia-to-participate-in-auditors-conference.md",
       "title": "Dubai: Humanoid robot Sophia to participate in auditors conference",
       "excerpt": "The conference is sponsored by a number of major international companies such as KPMG, Bee’ah, Protiviti and PricewaterhouseCoopers",
@@ -183,7 +226,7 @@
       "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-service-market-next-big-thing-major-giants-ibm-microsoft-atomwise",
       "featuredContent": null,
       "highlight": null,
-      "heat": 248,
+      "heat": 258,
       "tags": null,
       "images": [
         {
@@ -1327,49 +1370,6 @@
       "ampWebUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.amp/",
       "cdnAmpWebUrl": "https://www-thetelegraphandargus-co-uk.cdn.ampproject.org/c/s/www.thetelegraphandargus.co.uk/news/19943900.amp/",
       "publishedDateTime": "2022-02-23T05:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telegraph & Argus",
-        "domain": "thetelegraphandargus.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-artificial-intelligence-and-robotics-could-be-growth-are-for-bradford-but-there-are-still-gaps-in-tech-inequality.md",
-      "title": "Artificial intelligence and robotics could be 'growth are' for Bradford - but there are still gaps in tech inequality",
-      "excerpt": "ARTIFICIAL Intelligence and robotics could \"major growth areas\" for Bradford in the coming years - a meeting has heard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.artificial-intelligence-robotics-growth-are-bradford---still-gaps-tech-inequality/",
-      "originalUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.artificial-intelligence-robotics-growth-are-bradford---still-gaps-tech-inequality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetelegraphandargus.co.uk/resources/images/13502282/?type=responsive-gallery",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.amp/",
-      "cdnAmpWebUrl": "https://www-thetelegraphandargus-co-uk.cdn.ampproject.org/c/s/www.thetelegraphandargus.co.uk/news/19943900.amp/",
-      "publishedDateTime": "2022-02-22T21:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Telegraph & Argus",

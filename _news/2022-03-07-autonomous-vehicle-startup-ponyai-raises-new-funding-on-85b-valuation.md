@@ -40,6 +40,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Toyota-backed self-driving startup Pony.ai valued at $8.5B in latest fundraising round"
+    excerpt: "Self-driving tech company Pony.ai is valued at $8.5B in its latest fundraising round, a 65% increase from its last round. Pony.ai balance sheet will now have to close to $1B"
+    publishedDateTime: 2022-03-07T18:21:00Z
+    webUrl: "https://seekingalpha.com/news/3810353-toyota-backed-ponyai-valued-at-85b-in-latest-fundraising-round"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3810353-toyota-backed-ponyai-valued-at-85b-in-latest-fundraising-round"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3810353-toyota-backed-ponyai-valued-at-85b-in-latest-fundraising-round"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 49
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1219304622/image_1219304622.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Nio-Backed Self-Driving Startup Gets $8.5B Valuation In Latest Funding Round"
     excerpt: "Autonomous driving startup Pony.ai, backed by Nio Inc (NYSE: NIO) and Toyota Motor Corp (NYSE: TM), said on Monday that it fetched a valuation of $8.5 billion following the first close of a Series D financing round. What Happened: Pony.ai said the latest ..."
     publishedDateTime: 2022-03-07T12:15:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healt
 webUrl: "https://www.cedars-sinai.org/newsroom/cedars-sinai-establishes-new-division-artificial--intelligence-in-medicine/"
 type: article
 quality: 157
-heat: 248
+heat: 258
 published: true
 
 provider:
@@ -126,6 +126,20 @@ related:
       - url: "https://www.statnews.com/wp-content/uploads/2022/03/GettyImages-1238869000-1024x576.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Content Moderation Automation Market Is Going to Boom : Appen, Cogito, Microsoft Azure"
+    excerpt: "Some of the Major Companies covered in this Research are Viafoura, TaskUs, Besedo, Cogito, Microsoft Azure, Open Access BPO, Appen, Magellan Solutions, Webhelp, Clarifai, Pactera, OneSpace, Two Hat, Lionbridge AI, Cognizant, LiveWorld, Arvato, Accenture ..."
+    publishedDateTime: 2022-03-07T20:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/content-moderation-automation-market-is-going-to-boom-appen-cogito-microsoft-azure"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 46
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/2c3e9fb9520543e0c2d9e800024604f4753e3e00-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Microsoft Vaults Further Into Health-Care Services With Closing of Nuance Deal"
     excerpt: "Nuance Communications Inc., pushing the software giant deeper into the market for health-care services and artificial intelligence. The $19.6 billion deal, announced last April, lets Microsoft add cloud-computing and AI offerings aimed at health-care,"

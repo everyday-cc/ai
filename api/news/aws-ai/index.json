@@ -213,34 +213,25 @@
     },
     {
       "path": "_news/2022-03-02-aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-players-and-teams.md",
-      "title": "AWS and Bundesliga Debut Two New Match Facts Giving Fans Insight into Germany's Top Football Players and Teams",
-      "excerpt": "AWS has been continually expanding its services ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and ...",
+      "title": "AWS and Bundesliga Debut Two New Match Facts Giving Fans Insight into Germany’s Top Football Players and Teams",
+      "excerpt": "The two new stats, “Set Piece Threat” and “Skill,” powered by AWS machine learning and analytics services, enhance the football fan experience and give invaluable strategic insights to teams With these two additions,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/03/b25929444/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-player",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/b25929444/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-player",
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220302005404/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-players-and-teams",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220302005404/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-players-and-teams",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25929444",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25929444",
-      "publishedDateTime": "2022-03-02T01:40:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T19:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -555,19 +546,19 @@
     {
       "path": "_news/2022-02-24-voipfuture-has-joined-aws-isv-accelerate-program.md",
       "title": "Voipfuture Has Joined AWS ISV Accelerate Program",
-      "excerpt": "Voipfuture, a provider of a unique carrier-grade, dual-visibility voice service quality monitoring and analytics solution, has announced today that it has been accepted into the Amazon Web Services (AWS) Independent Software Vendor (ISV) Accelerate Program,",
+      "excerpt": "Voipfuture, a provider of a unique carrier-grade, dual-visibility voice service quality monitoring and analytics solution, has announced today that it has been accepted",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/voipfuture-has-joined-aws-isv-accelerate-program-2022-02-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/voipfuture-has-joined-aws-isv-accelerate-program-2022-02-24",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voipfuture-has-joined-aws-isv-accelerate-program/article_7164cf91-4b6b-5e06-bb41-be033504d8fa.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voipfuture-has-joined-aws-isv-accelerate-program/article_7164cf91-4b6b-5e06-bb41-be033504d8fa.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -580,18 +571,9 @@
       "publishedDateTime": "2022-02-24T05:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

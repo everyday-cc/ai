@@ -43,6 +43,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Intel's Mobileye self-driving unit 'confidentially' files for IPO"
+    excerpt: "(INTC) rose 0.3% in premarket trading Monday, after the semiconductor maker disclosed that its Mobileye self-driving unit has \"confidentially\" filed for an initial public offering of common stock. The company said the number of shares to be offered and the expected price range of the IPO have not yet been determined."
+    publishedDateTime: 2022-03-07T08:14:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20220307217/intels-mobileye-self-driving-unit-confidentially-files-for-ipo"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 4
   - title: "Intel's self-driving unit Mobileye moves toward possible $50B IPO"
     excerpt: "Intel Corp. on Monday said it filed confidential paperwork for an initial public offering by its self-driving car unit, Mobileye Technologies Ltd. The Santa Clara-based chipmaking giant didn't indicate in Monday's announcement how much capital the IPO ..."
     publishedDateTime: 2022-03-07T15:27:00Z
@@ -62,6 +71,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "y/hVVcPrhUd7kJunM9HvViIq/iuQWdi3X+Psg3LCIK8/W8s1aJTrglPXeUN+jto2bf5q8wCDMiZ/g4sb49ngujAh2vNE3ULvDZY8Z96IFcMKKpaRv7zTyavrsMaH8AhZ6hCzujvhKeMB6yER+clczz9rBjI7kaRqEgmlPKcmcjIxovr3Hd2SKC1CEjbtu0aloGqO66i4kBl/RI2DNeBrDnbGJljMJgzgalnfc3Rw28v07SgW5jhjZeUclIzlA/sWVVf0CxmiopUeHZq1JwRYz0GY/kv43e3v1lkGYex6H9qWKRfI1pJFdswEpRP7tdWGRQSWAdDufwFhnN+yH3ZBsPlTiueN6RgrNMcnUQykW3g=;Tbq3rUFkcvdAOx4WlkfcOw=="
+secured: "fA/F1CvAxaNq7dCZCtw5B5of1fFCYun/1eMC8KTPWLbMqOAfeoxVv0ym7hKQDLrRiFRg6agjWirxax+S0J9uYbRk9vwzfpAD9PQEb6cvvBXIl2vLK5Zmhpt3EWVNUudcfB7y0vo978JZAJjA+GnpGpl0oNtgyapvL40Nnjx5sBhXaX3XQwl+NzGGnY4NojvrkHRQooabXfrNCHgTap34W9YgZl/vJiJSt+IbJ1srK9p5Ix9jnhqveZ77aZY+OEI2ocNS+rM+XCFONXxqgG2bxfsIUYnbgtkBq2KOTJE+5v9+xs7H+LEOlCUpgnpUWcy61YXaKvO1xYivwf8IJ0Zhb30wSkGb+9hAuaZ9rRoK6iiL2K24Apxw2WI2g2wcULXw/US2n7JBa+tEaFp+7/uIM7+lfLBKbmf+gqNm87hYxk/uWoW9IEV+20QOjz/LE7ta4uvVdEZxUJtF8SD85CU3kVwm7OdFgtmU3vEcKjs68dWmg+b9LAwvztQ3r3C9WF4g1E3+WnoUJGNBZT5e65KWqw==;wJ+w1RCnIXH5WqKli7xPdA=="
 ---
 

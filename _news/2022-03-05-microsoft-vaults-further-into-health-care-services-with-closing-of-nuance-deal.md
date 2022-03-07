@@ -139,6 +139,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Content Moderation Automation Market Is Going to Boom : Appen, Cogito, Microsoft Azure"
+    excerpt: "Some of the Major Companies covered in this Research are Viafoura, TaskUs, Besedo, Cogito, Microsoft Azure, Open Access BPO, Appen, Magellan Solutions, Webhelp, Clarifai, Pactera, OneSpace, Two Hat, Lionbridge AI, Cognizant, LiveWorld, Arvato, Accenture ..."
+    publishedDateTime: 2022-03-07T20:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/content-moderation-automation-market-is-going-to-boom-appen-cogito-microsoft-azure"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 46
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/2c3e9fb9520543e0c2d9e800024604f4753e3e00-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "AI in Fintech Market Study of Competitive Landscape And Recent Trends By 2027 | IBM, Intel, IPsoft, Microsoft, AWS, Nuance Communications, Google"
     excerpt: "According to Data Bridge Market Research new analysis, The Global AI in Fintech Market analysis provides a high-level summary of classification, competition, and strategic actions taken in recent years. For a global scenario, the global AI in Fintech ..."
     publishedDateTime: 2022-03-07T12:36:00Z

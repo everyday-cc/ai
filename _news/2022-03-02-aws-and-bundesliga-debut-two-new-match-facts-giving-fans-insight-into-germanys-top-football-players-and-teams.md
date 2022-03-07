@@ -1,28 +1,20 @@
 ---
 category: news
-title: "AWS and Bundesliga Debut Two New Match Facts Giving Fans Insight into Germany's Top Football Players and Teams"
-excerpt: "AWS has been continually expanding its services ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and ..."
-publishedDateTime: 2022-03-02T09:40:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/03/b25929444/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-player"
-webUrl: "https://www.benzinga.com/pressreleases/22/03/b25929444/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-player"
-ampWebUrl: "https://www.benzinga.com/amp/content/25929444"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25929444"
+title: "AWS and Bundesliga Debut Two New Match Facts Giving Fans Insight into Germany’s Top Football Players and Teams"
+excerpt: "The two new stats, “Set Piece Threat” and “Skill,” powered by AWS machine learning and analytics services, enhance the football fan experience and give invaluable strategic insights to teams With these two additions,"
+publishedDateTime: 2022-03-02T03:00:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220302005404/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-players-and-teams"
+webUrl: "https://www.morningstar.com/news/business-wire/20220302005404/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-players-and-teams"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "Rc14D2zBdyaaL/e+g8NyQ+Y3HsPjiNjyDxjW3VL9N5tCcJMbMy6MUxxFBB8q+O72KB/LXfJyRSZYo9vyikoSrxjtVWLVoL9Zq+3v3m08DVk4v2Y9bdpL+2Y3HVf6g6b3C+Qn7gXn657yqAin30BLhd31TffJnB53DtdZSdyAsSk+8vVFy+nS7SOz+A8EqPvdZ/C8P88PJjz9ewP+bC0cRzPuL/s4UgLT+VQkL67sUAVz7qwKeU+w+j50dgVNQcd2GWagglZ8rM4lfUTCqH9FYM+04qATSCkqX2p00cA0FD78DNPDsDZElKEOmR0M94Slewz0GztXsYJTbpApRaRsM32TGNuNhv9UFy/4OsamKwM=;P05/0brltmFh41/okMfYwg=="
+secured: "9qyoA2DrfJzH/D4Tzs1u+TEvMWWmTUX59zDhseJMy4lbOKuHXVrfVQno7V0WdaiUsdbWc5/FhRoO38aL/XpCqElq6gEz/+lAUP3M+25H0UhpD95HRgKHQ5cu6Z8X67L6rDSN8FFSHhA7rjzfJK1IfnozgEJtEHcw75h0ipm2/a1uON/x5Us6mSh9wj/tez9B8wftSDt33BFtI3klVzTVWBckhFCA0Q2+0L4nV64O7vNW2xRcXkg8XBvOhMR6ypZqwKcpmINjVbPYyRyDz936K+b6a2cjJ3YtPZnIOtfHx/sV968ctL5zfwAPGyAEbl8ZKAj7YUNDByRGuDqXSn5FWtjHJjBMxfG4W4WFTP40858n+Awc8PAcXNNBkJ23tk83tzYt3gSdpEoEA3s5mHXJG9IVsLoBDw3CsjWCgXQb/aRXy2qy8S26He4Ur/dcCXUPeRd6fB+I/FP1FycZYyZ/KO5ZW/lN31aM+uCtA85NXwx62njJD/UaRMZJXKiQ1nI7yyHJwKtlVHkJDROZ3+FzFw==;w7vGxlpkvVK5Mi1j9rUFLw=="
 ---
 

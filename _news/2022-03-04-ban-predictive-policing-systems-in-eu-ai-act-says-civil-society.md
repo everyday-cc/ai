@@ -53,6 +53,15 @@ related:
         width: 2880
         height: 4073
         isCached: true
+  - title: "Harnessing AI and Robotics to treat spinal cord injuries"
+    excerpt: "By employing artificial intelligence (AI) and robotics to formulate therapeutic proteins, a team has successfully stabilized an enzyme able to degrade scar tissue resulting from spinal cord injuries and promote tissue regeneration."
+    publishedDateTime: 2022-03-07T19:25:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/03/220307113045.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 81
   - title: "Growth Opportunities in API, Analytics, Cloud, O-RAN, and Artificial Intelligence 2021 - AI-Powered Video Security Platform to Offer Human-Like Percep"
     excerpt: "The \"Growth Opportunities in API, Analytics, Cloud, O-RAN, and Artificial Intelligence\" report has been added to ResearchAndMarkets.com's offering. This report provides a snapshot of the emerging ICT led innovations in API,"
     publishedDateTime: 2022-03-07T15:30:00Z

@@ -37,7 +37,7 @@ related:
     provider:
       name: PharmiWeb
       domain: pharmiweb.com
-    quality: 28
+    quality: 30
     images:
       - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
         width: 1200
@@ -56,20 +56,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
         width: 2696
         height: 1414
-        isCached: true
-  - title: "Genomics Artificial Intelligence Market Research Report 2022 - Global Outlook & Forecasts to 2027 - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence in Genomics Market - Global Outlook & Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. The artificial intelligence in genomics market to grow at a CAGR of 48."
-    publishedDateTime: 2022-03-03T17:08:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-health-business-genetics-299e1a8e05de4483823a3d0dc80c0299"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "13na6wlqx+FzaVq7sDomGMRdQNaGZYSr/1kUJlgsOYsud+qlnOSIQ69/c0D9xne7+bjfpmHEnEZ+875Ur3Eav2hZhjB1nNqvx1g3Eqv3PNRa5fxsnBzAJ6VlnRPWptXNHie1ls5dlh2Bz7y7vdFbKFD83iBIkVgf+1fKfb3xf7aJyfxlPdWrrWz9n+KAbCPy+n1iW8+PXpw/JAKUjiFze+Feav93/a+4V/OJIFWV2y9w53ZXXx+d5ToeiVHO3NnuIzrqU3zSlU9z0q4AxgfVKmtTnEgX82xr7ptkRfwVZC6CUTE6PDP0M1ixBphuakfC4qt4vqBrtEooh6LpXK549vrEuTyFcLTQklr6bo3u9Fi6A0A0ZIfj8XP5iJzsDzzak5ztASuQjWqYOkQXNzAuK9hXkWmxTs155zVx/W+IgG6QaxfmPhk2cCPPFioRJwa2LmfdXgDH33mKaLT2ajbMbtjh1tEV7XdKf/Q8vTsl3b72zt0DnPJcmM2PkwRA44Q9eIxneg7W9Dh/uKEERGhapw==;Mep0C2R1PKAO1+NF3b67+g=="

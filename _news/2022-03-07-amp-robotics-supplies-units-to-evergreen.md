@@ -39,6 +39,20 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "AMP Robotics Expands Partnership with Evergreen"
+    excerpt: "AMP Robotics Corp. has extended its partnership with Evergreen, one of North America’s three largest producers of food-grade recycled polyethylene"
+    publishedDateTime: 2022-03-07T17:37:00Z
+    webUrl: "https://wasteadvantagemag.com/amp-robotics-expands-partnership-with-evergreen/"
+    type: article
+    provider:
+      name: Waste Advantage Magazine
+      domain: wasteadvantagemag.com
+    quality: 54
+    images:
+      - url: "https://wasteadvantagemag.com/wp-content/uploads/2021/01/AMP-Robotics.jpeg"
+        width: 715
+        height: 428
+        isCached: true
 
 secured: "oPwrFgwgiH+Vw8jYvd2mY5MOfos7IdImSEMwTBNQTYOmwZSe0d84h6cWGh0zdyGnbEqj1V4UWEAnVR0achlWjGsMoz+UgWz7t+yiCOhkMmgewsAo6qLv0JLuw/VHriMUMhFf5o2xSpm1W2ZqTuCeaIfitaKsVNPUe6wDqCTnC64eulxVgluMgol+sOooovpXdFZSkY9XmohqHQIZQNKe0SuThcR8MA71U2U7CgtoANqPPKAaG0iCHBZtnkLPwVjlLcUyrL7BeMrYbsjGrbosXnRrZZqGA+TyWM4P5KeKuLBilhz8mOany+Hn7U0jaORVvSde0azQikdB7EM47R8cixzErPOpBkO42Otz2R4Bx7s=;H34UVL3atcMQNSDvFYJkVQ=="
 ---

@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Toyota-backed self-driving startup Pony.ai valued at $8.5B in latest fundraising round"
+    excerpt: "Self-driving tech company Pony.ai is valued at $8.5B in its latest fundraising round, a 65% increase from its last round. Pony.ai balance sheet will now have to close to $1B"
+    publishedDateTime: 2022-03-07T18:21:00Z
+    webUrl: "https://seekingalpha.com/news/3810353-toyota-backed-ponyai-valued-at-85b-in-latest-fundraising-round"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3810353-toyota-backed-ponyai-valued-at-85b-in-latest-fundraising-round"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3810353-toyota-backed-ponyai-valued-at-85b-in-latest-fundraising-round"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 49
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1219304622/image_1219304622.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Autonomous vehicle startup Pony.ai raises new funding on $8.5B valuation"
     excerpt: "Self-driving car technology startup Pony.ai has raised new funding on a valuation of $8.5 billion, a significant increase in valuation from its last round in February 2021. The amount raised in the Series D round and who participated in the funding were not disclosed."
     publishedDateTime: 2022-03-07T04:49:00Z

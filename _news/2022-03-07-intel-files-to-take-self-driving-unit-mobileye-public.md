@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/intel-files-to-take-self-driving-un
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/intel-files-to-take-self-driving-unit-mobileye-public-11646669536"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Intel's Mobileye self-driving unit 'confidentially' files for IPO"
+    excerpt: "(INTC) rose 0.3% in premarket trading Monday, after the semiconductor maker disclosed that its Mobileye self-driving unit has \"confidentially\" filed for an initial public offering of common stock. The company said the number of shares to be offered and the expected price range of the IPO have not yet been determined."
+    publishedDateTime: 2022-03-07T08:14:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20220307217/intels-mobileye-self-driving-unit-confidentially-files-for-ipo"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 4
   - title: "Intel's self-driving unit Mobileye moves toward possible $50B IPO"
     excerpt: "Intel Corp. on Monday said it filed confidential paperwork for an initial public offering by its self-driving car unit, Mobileye Technologies Ltd. The Santa Clara-based chipmaking giant didn't indicate in Monday's announcement how much capital the IPO ..."
     publishedDateTime: 2022-03-07T15:27:00Z

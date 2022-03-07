@@ -23,19 +23,6 @@ images:
     height: 339
     isCached: true
 
-related:
-  - title: "ASCO GU 2022: Artificial Intelligence as a Disruptive Technology in Medicine"
-    excerpt: "GU ASCO Annual meeting included a session on the optimization management of localized prostate cancer, specifically looking at artificial intelligence (AI), active surveillance, and intervention, featuring a presentation by Dr."
-    publishedDateTime: 2022-03-05T08:15:00Z
-    webUrl: "https://www.urotoday.com/conference-highlights/asco-gu-2022/asco-gu-2022-prostate-cancer/135657-asco-gu-2022-artificial-intelligence-as-a-disruptive-technology-in-medicine.html"
-    ampWebUrl: "https://www.urotoday.com/conference-highlights/asco-gu-2022/asco-gu-2022-prostate-cancer/135657-asco-gu-2022-artificial-intelligence-as-a-disruptive-technology-in-medicine.amp.html"
-    cdnAmpWebUrl: "https://www-urotoday-com.cdn.ampproject.org/c/s/www.urotoday.com/conference-highlights/asco-gu-2022/asco-gu-2022-prostate-cancer/135657-asco-gu-2022-artificial-intelligence-as-a-disruptive-technology-in-medicine.amp.html"
-    type: article
-    provider:
-      name: UroToday
-      domain: urotoday.com
-    quality: 34
-
 secured: "DNdkvQi/uukVAZYMjw+Z0KPgn45iS7dszXVnxqH87c6Uecz4oqrSWRnRjVlnFGuq58cmtQpB/CIwb7bqGRBgDaPuwRZVofvzGN8hL54c62qdD1Q7++MP5chOF4mit9QaTaPyanDRDd4+2jEmoudbllRosNzYQ72+sUjmfsHb1F2CbTDGPuUr0Ka62HbDmG8Upr6xtlpJv7fRu9aWEZm0vKjJoBNICst8szGitVR5IHN0vXXj2I3ZymJixKogixbGODXyrc0KAKMz74Yih0hxmg+W7TlScBfJDOmL/+h5XmtckqSAZX/KnXYWm8fXTJMUf/k0ldjXI+VpnoDwDAUZ2tl92yweWsIZfIcG6Go/i5Q=;YGmIHQHh4gd6i8l0cDQQbA=="
 ---
 
