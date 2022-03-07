@@ -156,6 +156,20 @@ related:
         width: 500
         height: 260
         isCached: true
+  - title: "Understanding Fintech and the market for loanable funds"
+    excerpt: "Fintech (aka. financial technology) refers to the use of technology to transform the way we conduct business in the financial sector."
+    publishedDateTime: 2022-03-07T07:30:00Z
+    webUrl: "https://www.reflector.com/news/business/understanding-fintech-and-the-market-for-loanable-funds/article_619c1829-7c07-5654-9b1c-b60245433f64.html"
+    type: article
+    provider:
+      name: The Daily Reflector
+      domain: reflector.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/4/a2/4a2646ed-32c9-5557-8342-dd3054f453dc/62200b565b260.image.jpg?resize=400%2C534"
+        width: 400
+        height: 534
+        isCached: true
 
 secured: "h0Kh9qA4XmIdiq7fz6WbuPJs/FsaoUtUlrUXfyxE8epJAzMZdCIv8E5ckoW52Z48pViaCTkeyiCfnixBY2QWWhXNj8JptVVyKB1VMDryjtpFEwkehVCgblVZDXOhDjUD6ui/GFXqCrM5euJJFTYB8UpOG9gGf2o3SLhB4EVAyXY8Rq204enaaQOEK5AGfhvL9WzEAi8gwtLTz3ukexTJGZCEOTtMFd8OHOmU5tOXhudAbcdEpxVREkwi2lUgOOoolTHEPQFJO9A5dxFXvyEBLFyDeYbZLwF1EdXjHAlEDC4MxTf3WXTFCN2yXgzWdQ9XFXtoNCqw2VgK3CsH4Ox+KAR/PrS0Y3BhiSwt/mDMl9A=;7+xrbPX6MUtqMoZ4V4kH4g=="
 ---

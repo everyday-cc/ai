@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Google ML can help discover new antibodies, enzymes, foods"
-excerpt: "Alphabet (Google's parent company) subsidiary DeepMind has shown that Machine Learning (ML) can predict the shape of protein machinery with unprecedented accuracy, paving the way for researchers to discover new antibodies,"
-publishedDateTime: 2022-03-07T06:40:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=934085"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=934085"
+excerpt: "The shape of a protein provides very strong clues as to how the protein machinery can be used, but doesn't completely solve this question."
+publishedDateTime: 2022-03-07T08:00:00Z
+originalUrl: "https://telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods"
+webUrl: "https://telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods"
+ampWebUrl: "https://telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods/amp"
+cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods/amp"
 type: article
-quality: 41
-heat: -1
-published: false
+quality: 61
+heat: 81
+published: true
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: Telangana Today
+  domain: telanganatoday.com
 
 topics:
   - Google AI
@@ -20,9 +22,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/karbank_sq_081818.jpg"
-    width: 280
-    height: 250
+  - url: "https://telanganatoday.com/wp-content/uploads/2022/03/Google-ML-can-help-discover-new-antibodies-enzymes-foods-709x450.jpg"
+    width: 709
+    height: 450
     isCached: true
 
 related:
@@ -42,7 +44,21 @@ related:
         width: 1200
         height: 898
         isCached: true
+  - title: "Google ML can assist discover new antibodies, enzymes, foods"
+    excerpt: "Google ML can assist discover new antibodies, enzymes, foods - Alphabet (Googles parent company) subsidiary DeepMind has shown that Machine Learning (ML) can predict"
+    publishedDateTime: 2022-03-07T06:55:00Z
+    webUrl: "https://www.siliconindia.com/news/general/google-ml-can-assist-discover-new-antibodies-enzymes-foods-nid-218268-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 41
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/s79C6q3x.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
-secured: "DaqopC/sLKMgutCxevaWaQAeZzuQIeSKHV/8mwSznTr1TuLklU/NNVsQ4bLbLXWMkhRPuYPYtVHGgLYk222ZXSV/Lu1CMpAxrIkVDUArla8keehh3MmEf172qognCPnLP2h99HmuBGeLveruPkx78ks/1pI8l6goXR/eWCHHPnv2c8VAHoAhYXjfKMEHQ1aFwD+W9zzV7NjTktHCatL6Px5BLOqT2k+PU3Yo5ZhbTpiwYV7yH7sfxhHPT7LQ1i53UwXnhHv5i31yukbI9YM6SgDFZT34uJLObQBz31dyaI07LAAC8xUY3X38qK+UeNUQxouPwuyhJefcoFf6E8CZV5t2t4mkfdGWlT3CHZ6Jl9Y=;Tusw3obrclBNaUzcoC5oQg=="
+secured: "FTnKYifPEncq2dMaU0us145WCLIJNNwNQNDcPvBXJ3Z1LVx+3vgEOePFHJeaDCq7aypSuFzSPQkyd5Dk3xE3ZYfgKmn0Ts2jpH8uG6bIB/ox+wh3kucT0yzCpizeupLglrIwBFhL5uiTZu1mYn5A2MuymXi59aVze9SKchFHfJgVo1+Y8AlBhwvN+SBGq3TofDYZNEIMp9BElQ9gXLkXUSooov1N+onsuk6QxdyyWCJ866l7c/ECCbh1X0xtN9POTApFGCYl+yTSlE4eBdWCEE9ljtv32dqi5pG1Qamxw0x52phLgQ/rEJdjyTO9MbALau+kQP7GWNu0DecOpbMzBFPNiQYgNhD1NgdYxNv9te4=;n+XGligbewLzUBNU24vcdQ=="
 ---
 

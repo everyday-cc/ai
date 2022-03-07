@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Three Salesforce AI pioneers launch Faros AI to bring order to engineering operations"
-    excerpt: "When the three founders of Faros AI were working at Salesforce, they helped develop the company’s artificial intelligence, known as Einstein. While the goal of Einstein was to help companies become more data-driven,"
-    publishedDateTime: 2022-03-02T15:16:00Z
-    webUrl: "https://techcrunch.com/2022/03/02/three-salesforce-ai-pioneers-launch-faros-ai-to-bring-order-to-engineering-operations/"
-    ampWebUrl: "https://techcrunch.com/2022/03/02/three-salesforce-ai-pioneers-launch-faros-ai-to-bring-order-to-engineering-operations/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/02/three-salesforce-ai-pioneers-launch-faros-ai-to-bring-order-to-engineering-operations/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 80
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/03/Faros2.png?w=680"
-        width: 679
-        height: 366
-        isCached: true
 
 secured: "zAFGRX5LIEW0TNoqSLKz1u9GVFJ5z1BEt14VP51J9JNBypR9qGb4js9k6yw1r42KCASmWO63HdvLmyKrljDMoV0mXGYUqlIZDBvCqW7H4r9I5cgzT/ICWRCN1SXs88DhKQZKolOtu1TIDqhY3syT67zqgkj++PXJKO6CQvCzskjYgIZFfNfUhISY2+D5/i60RoPlxRjgmd9Mzo2ot8fpea0X3UiL6BQGKDdXL2ZLv32j1Ix52hjeRQ2tSskynwd40TinS/jkG2MY1iTgPrwAkOe8uq9rLfgm1ZRwqFy1A47IArSSc4pIKUnUwL5fFShNuG4QTKCnpfP+TC57rSEaQN+hNooRg7Q9+MYEfE5Qg58VMmrtA2Gl8f3ZAtiuO81wo2jK2uTLfHQNf9Ehpq6SFMdEyvl6wmT8vk5aY0g15UnEbKckueu0/WYXBcJiOz/WoG4w4FmOE/C/oeFc5vrUBaLjAeZQroqMMbFDRXA+bi6Vl69+nxsH66vNUjPv/4Di6wv/xALIU0yptLjyxe0erw==;l2UGT8rMa3VFIoBGrx7jVQ=="
 ---

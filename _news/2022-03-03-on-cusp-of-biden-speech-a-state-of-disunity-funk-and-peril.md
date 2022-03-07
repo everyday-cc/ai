@@ -24,22 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "In State of the Union Speech, Biden Vows to Halt Russia, Tackle Inflation"
-    excerpt: "Addressing a concerned nation and anxious world, President Joe Biden vowed in his first State of the Union address Tuesday night to check Russian aggression in Ukraine, tame soaring U.S. inflation and deal with the fading but still dangerous coronavirus."
-    publishedDateTime: 2022-03-02T16:25:00Z
-    webUrl: "https://www.manufacturing.net/economics/news/22093470/in-state-of-the-union-speech-biden-vows-to-halt-russia-tackle-inflation"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 23
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/03/16x9/AP22061091543682.621f9a481a307.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1022
-        height: 576
-        isCached: true
-
 secured: "FZ4V1RvbRZy4Xa06YDQFykFvmIgK2FHeG0NlpwsgYgnMM4GKyNeQ5onvk3tltLDkKf/kBDrKyB47046LaKVNBdmHJdwRlP5Awkj82TpLmJYpLeT+rDKMxbdA9JBrnsQSbImZbPI20Bs6vt5esBS1zXzcpX67EuWniYA5X0mU/R7r6bpgORz9AKnukMWFw1xudU9x6CvkR7rxBZFh00mwblK+TEJMvX+P9L5T576AhnMX/Z1xwE/aDwPPwTMIIa5KqaJa2w+GZ595o/iKAxOLlTjIYql41mIJyi4Jxq4URIYTc4BdCv8txnFUgjHO6zvnjCW4v4GjVZr6RAMV6jML9LRF9DV41E252k84RZhBIwTuLjSqIiSydY2iTzCqaHObJnfyx20we9dwVQNhYbuTSDjltBklQcBrFe9G7w8583HHH549kyYqJdb5jI6C88eGMswgutZIszr0zG40avyhXT8TxVpNBSwHhiBVkvamh89q38NdxAObv29pXRT60x+j9aZIhMFESKaLdq3jOlbAvA==;Wy9S4hAxOhzcR1ht5YKNtQ=="
 ---
 

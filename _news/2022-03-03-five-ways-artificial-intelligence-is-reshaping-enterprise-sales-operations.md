@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Three Salesforce AI pioneers launch Faros AI to bring order to engineering operations"
-    excerpt: "When the three founders of Faros AI were working at Salesforce, they helped develop the company’s artificial intelligence, known as Einstein. While the goal of Einstein was to help companies become more data-driven,"
-    publishedDateTime: 2022-03-02T15:16:00Z
-    webUrl: "https://techcrunch.com/2022/03/02/three-salesforce-ai-pioneers-launch-faros-ai-to-bring-order-to-engineering-operations/"
-    ampWebUrl: "https://techcrunch.com/2022/03/02/three-salesforce-ai-pioneers-launch-faros-ai-to-bring-order-to-engineering-operations/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/02/three-salesforce-ai-pioneers-launch-faros-ai-to-bring-order-to-engineering-operations/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 80
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/03/Faros2.png?w=680"
-        width: 679
-        height: 366
-        isCached: true
   - title: "How to Scale AI in Your Organization"
     excerpt: "AI is embedding itself into the products and processes of virtually every industry. But implementing AI at scale remains an unresolved, frustrating issue for most organizations. Businesses can help ensure success of their AI efforts by scaling teams,"
     publishedDateTime: 2022-03-04T15:21:00Z

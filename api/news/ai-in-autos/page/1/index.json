@@ -45,6 +45,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-04-first-person-behind-the-wheel-of-a-self-driving-tesla.md",
+      "title": "First Person: Behind the wheel of a 'self-driving' Tesla",
+      "excerpt": "This is part of our hour on Tesla and the ethics of self-driving cars. Listen here. Self-driving technology has come a long way in recent years, but it remains far from perfect. In a podcast special, we share what it's like behind the wheel when Tesla ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla",
+      "originalUrl": "https://www.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d279m997dpfwgl.cloudfront.net/wp/2017/04/0417_tesla.jpg",
+          "width": 1700,
+          "height": 1133,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla",
+      "cdnAmpWebUrl": "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla",
+      "publishedDateTime": "2022-03-03T11:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBUR",
+        "domain": "wbur.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-03-kia-unveils-automode-autonomous-driving-tech-that-will-debut-on-the-ev9-suv.md",
       "title": "Kia unveils ‘Automode’ autonomous driving tech that will debut on the EV9 SUV",
       "excerpt": "Kia revealed that its EV9 SUV, unveiled in concept form last November at the LA Auto Show, will be the first to use autonomous driving tech it calls \"Automode.\"",
@@ -94,50 +137,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-tesla-and-the-ethics-of-self-driving-cars.md",
-      "title": "Tesla and the ethics of self-driving cars",
-      "excerpt": "Self-driving technology has come a long way in recent years, but it remains far from perfect. And that's partially because of decisions made -- not by the cars -- but by programmers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles",
-      "originalUrl": "https://www.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d279m997dpfwgl.cloudfront.net/wp/2022/03/GettyImages-1232832894.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles",
-      "cdnAmpWebUrl": "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles",
-      "publishedDateTime": "2022-03-02T21:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBUR",
-        "domain": "wbur.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     },
     {

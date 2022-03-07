@@ -148,6 +148,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Understanding Fintech and the market for loanable funds"
+    excerpt: "Fintech (aka. financial technology) refers to the use of technology to transform the way we conduct business in the financial sector."
+    publishedDateTime: 2022-03-07T07:30:00Z
+    webUrl: "https://www.reflector.com/news/business/understanding-fintech-and-the-market-for-loanable-funds/article_619c1829-7c07-5654-9b1c-b60245433f64.html"
+    type: article
+    provider:
+      name: The Daily Reflector
+      domain: reflector.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/4/a2/4a2646ed-32c9-5557-8342-dd3054f453dc/62200b565b260.image.jpg?resize=400%2C534"
+        width: 400
+        height: 534
+        isCached: true
   - title: "CredAvenue fastest Indian fintech unicorn after raising $137 mn"
     excerpt: "Debt marketplace CredAvenue on Sunday announced that it is India's fastest fintech to join the unicorn club with a Series B fundraising round of $137 million. The fundraising round was led by New York-based global private equity and venture capital firm Insight Partners,"
     publishedDateTime: 2022-03-06T20:28:00Z

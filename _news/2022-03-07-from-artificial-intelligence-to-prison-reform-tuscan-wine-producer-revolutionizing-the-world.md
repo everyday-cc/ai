@@ -27,22 +27,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "The Urgent Need for Privacy Reform: My Appearance Before the Standing Committee on Access to Information, Privacy and Ethics"
-    excerpt: "The House of Commons Standing Committee on Access to Information, Privacy and Ethics spent much of February conducting a study on the collection and use of mobility data by the Government of Canada. The study stems from reports that the Public Health Agency of Canada worked with Telus and BlueDot,"
-    publishedDateTime: 2022-03-02T16:12:00Z
-    webUrl: "https://www.michaelgeist.ca/2022/03/the-urgent-need-for-privacy-reform-my-appearance-before-the-standing-committee-on-access-to-information-privacy-and-ethics/"
-    type: article
-    provider:
-      name: Michael Geist
-      domain: michaelgeist.ca
-    quality: 12
-    images:
-      - url: "https://www.michaelgeist.ca/wp-content/uploads/2022/03/42196929355_16b9eb474f_k.jpg"
-        width: 2047
-        height: 1356
-        isCached: true
-
 secured: "UeZPayp004b0tIk+GA9TmxPNAKqBpAOMVbO8pmIbW4m/TOZeISDTS/xezcSytENRd8Yv1X8g6eegDo4snxfbt3IZOLy8eJUv6oTeGPCs33IFIqYM5n93Uo86R6mHnZtSVLuGGxF2r+xUQ6KnMpFeNcaApUMkfA2q1Xo2v8fcTIvlo0foNwjoPioCU8x84Mp1H9AQeDJy0oCs05B4uz01gSqnbIPsDCJ/hMQ9ChckBBiFemCCsTe5SocKO1shccreTOSTxArv+AiDhEmoQmpkuERqJiwCx1CMqyWsoDAs8JmC+NT0JUqprK6cvT+sBAJBVhzHrUDsHmtIkBa99TW6Fn3jq74uIPH/Rxmpv6xvVS8=;Bqe5M19Jz0jIY4mn7s94nA=="
 ---
 

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-03-07-google-machine-learning-can-help-discover-new-antibodies-enzymes-foods.md",
-      "title": "Google machine learning can help discover new antibodies, enzymes, foods",
-      "excerpt": "Alphabet (Google's parent company) subsidiary DeepMind has shown that Machine Learning can predict shape of protein machinery with unusual accuracy, can help discover new antibodies, enzymes and foods",
+      "path": "_news/2022-03-07-google-ml-can-help-discover-new-antibodies-enzymes-foods.md",
+      "title": "Google ML can help discover new antibodies, enzymes, foods",
+      "excerpt": "The shape of a protein provides very strong clues as to how the protein machinery can be used, but doesn't completely solve this question.",
       "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/international/google-machine-learning-can-help-discover-new-antibodies-enzymes-foods-122030700276_1.html",
-      "originalUrl": "https://www.business-standard.com/article/international/google-machine-learning-can-help-discover-new-antibodies-enzymes-foods-122030700276_1.html",
+      "webUrl": "https://telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods",
+      "originalUrl": "https://telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2016-02/03/full/1454442890-4016.jpg?im=Resize,width=1200",
-          "width": 1200,
-          "height": 898,
+          "url": "https://telanganatoday.com/wp-content/uploads/2022/03/Google-ML-can-help-discover-new-antibodies-enzymes-foods-709x450.jpg",
+          "width": 709,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/international/google-machine-learning-can-help-discover-new-antibodies-enzymes-foods-122030700276_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/google-machine-learning-can-help-discover-new-antibodies-enzymes-foods-122030700276_1.html",
-      "publishedDateTime": "2022-03-06T22:27:00-08:00",
+      "ampWebUrl": "https://telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods/amp",
+      "cdnAmpWebUrl": "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods/amp",
+      "publishedDateTime": "2022-03-07T00:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
+        "name": "Telangana Today",
+        "domain": "telanganatoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +40,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "Google AI",
         "AI",
-        "Google AI"
+        "Machine Learning"
       ]
     },
     {
@@ -301,6 +301,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-05-university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning.md",
+      "title": "University of Oxford: DeepMind donation creates 12 new research internships in artificial intelligence and machine learning",
+      "excerpt": "UNIQ+ provides talented individuals from underrepresented and disadvantaged groups with a real day-to-day experience of postgraduate research at Oxford.Participants undertake a paid summer research internship,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning-2/",
+      "originalUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/05/Oxford-University.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning-2/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning-2/",
+      "publishedDateTime": "2022-03-04T19:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -809,7 +853,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/421408",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1124,59 +1168,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-how-ai-protects-machine-identities-in-a-zero-trust-world.md",
-      "title": "How AI protects machine identities in a zero-trust world",
-      "excerpt": "By scanning enterprise networks, bad actors often find unprotected machine identities to exploit, making them a favored attack surface.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/",
-      "originalUrl": "https://venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/5-How-AI-Is-Protecting-Machine-Identities-In-A-Zero-Trust-World.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/amp/",
-      "publishedDateTime": "2022-03-03T13:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

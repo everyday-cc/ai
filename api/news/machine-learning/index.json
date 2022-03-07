@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-03-07-google-machine-learning-can-help-discover-new-antibodies-enzymes-foods.md",
-      "title": "Google machine learning can help discover new antibodies, enzymes, foods",
-      "excerpt": "Alphabet (Google's parent company) subsidiary DeepMind has shown that Machine Learning can predict shape of protein machinery with unusual accuracy, can help discover new antibodies, enzymes and foods",
+      "path": "_news/2022-03-07-google-ml-can-help-discover-new-antibodies-enzymes-foods.md",
+      "title": "Google ML can help discover new antibodies, enzymes, foods",
+      "excerpt": "The shape of a protein provides very strong clues as to how the protein machinery can be used, but doesn't completely solve this question.",
       "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/international/google-machine-learning-can-help-discover-new-antibodies-enzymes-foods-122030700276_1.html",
-      "originalUrl": "https://www.business-standard.com/article/international/google-machine-learning-can-help-discover-new-antibodies-enzymes-foods-122030700276_1.html",
+      "webUrl": "https://telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods",
+      "originalUrl": "https://telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2016-02/03/full/1454442890-4016.jpg?im=Resize,width=1200",
-          "width": 1200,
-          "height": 898,
+          "url": "https://telanganatoday.com/wp-content/uploads/2022/03/Google-ML-can-help-discover-new-antibodies-enzymes-foods-709x450.jpg",
+          "width": 709,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/international/google-machine-learning-can-help-discover-new-antibodies-enzymes-foods-122030700276_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/google-machine-learning-can-help-discover-new-antibodies-enzymes-foods-122030700276_1.html",
-      "publishedDateTime": "2022-03-06T22:27:00-08:00",
+      "ampWebUrl": "https://telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods/amp",
+      "cdnAmpWebUrl": "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods/amp",
+      "publishedDateTime": "2022-03-07T00:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
+        "name": "Telangana Today",
+        "domain": "telanganatoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +40,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "Google AI",
         "AI",
-        "Google AI"
+        "Machine Learning"
       ]
     },
     {
@@ -120,6 +120,50 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-05-university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning.md",
+      "title": "University of Oxford: DeepMind donation creates 12 new research internships in artificial intelligence and machine learning",
+      "excerpt": "UNIQ+ provides talented individuals from underrepresented and disadvantaged groups with a real day-to-day experience of postgraduate research at Oxford.Participants undertake a paid summer research internship,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning-2/",
+      "originalUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/05/Oxford-University.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning-2/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning-2/",
+      "publishedDateTime": "2022-03-04T19:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI",
         "Machine Learning"
       ]
@@ -794,19 +838,19 @@
     {
       "path": "_news/2022-03-02-machine-learning-improves-human-speech-recognition.md",
       "title": "Machine learning improves human speech recognition",
-      "excerpt": "To understand how hearing loss impacts people, researchers study people's ability to recognize speech, and hearing aid algorithms are often used to improve human speech recognition. In The Journal of the Acoustical Society of America,",
+      "excerpt": "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age.",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/944641",
-      "originalUrl": "https://www.eurekalert.org/news-releases/944641",
+      "webUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
+      "originalUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/3bfcfecc-b8b8-4a78-b421-6e5fc26bc004/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-impro.jpg",
+          "width": 2880,
+          "height": 1620,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -814,13 +858,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T08:02:00-08:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
+      "publishedDateTime": "2022-03-01T08:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -830,9 +874,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "Natural Language Processing",
         "AI",
-        "Natural Language Processing"
+        "Machine Learning"
       ]
     },
     {
@@ -1338,49 +1382,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-perovskites-used-to-make-efficient-artificial-retina.md",
-      "title": "Perovskites used to make efficient artificial retina",
-      "excerpt": "An artificial electronic retina that can \"see\" in a similar way to the human vision system and can recognize handwritten digits has been built by KAUST researchers as they seek to develop better options for computer vision applications.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-02-perovskites-efficient-artificial-retina.html",
-      "originalUrl": "https://techxplore.com/news/2022-02-perovskites-efficient-artificial-retina.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/perovskites-used-to-ma.jpg",
-          "width": 1847,
-          "height": 948,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-02-perovskites-efficient-artificial-retina.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-perovskites-efficient-artificial-retina.amp",
-      "publishedDateTime": "2022-02-23T06:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
