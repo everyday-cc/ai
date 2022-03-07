@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/why-ai-enabled-online-proctoring-ha
 webUrl: "https://www.linkedin.com/pulse/why-ai-enabled-online-proctoring-harms-education-rather-naveen-joshi"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1000
     height: 667
     isCached: true
+
+related:
+  - title: "Role Of Artificial Intelligence And Machine Learning In STEM Education"
+    excerpt: "Role Of Artificial Intelligence And Machine Learning In STEM Education Artificial intelligence technology is all over the place. Congratulations: you’ve interacted with artificial intelligence technologies if you’ve Googled something,"
+    publishedDateTime: 2022-03-07T07:54:00Z
+    webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-machine-learning-stem-education-mori-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 71
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHj4DrVqZ5qOA/article-cover_image-shrink_720_1280/0/1646639402873?e=1652313600&v=beta&t=h4D8u_YUUeXrMhxEWYajyLIJI1rnhtY_-OLF43wZr7c"
+        width: 720
+        height: 720
+        isCached: true
 
 secured: "iHi9FWlZzds7uucnK0EujYScesfjFXK2NGJklHPgArgTE8zaLBrM//CKjyH1xKVM2gAz0UlhTzNainxOyu9uR8AW87LXeJUuBHkxgk1ORcXzRSPDfCiabWH5Hw+xyWBXi4UThS0L5pc23ShfyAt0/xeho0RixQPxaZDu6oH54mr5L5p8eAx5p/0IsMR4RQeCZmk/rMVMEPBQeO8UtiQAtCjyzTXRhvD1SMhqiEnjMCIAcK+rCwK7ejZsDDBVrGfdwv5aWY8VqsGqwUF9LeLgzcfI103RAuXZeqU3HHjh4FGXDaEIE8lC7mYdQ8otbo1NbxnBvvJYZIhw99Z77BYWtSN2NrKZnjxDkJWdsFGn6jg=;pCpj4RPP7T9njHOWN0kh6Q=="
 ---

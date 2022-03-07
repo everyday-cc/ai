@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-07T14:38:00Z
 originalUrl: "https://www.linkedin.com/pulse/ai-key-exponential-technology-smart-era-jacques-ludik/"
 webUrl: "https://www.linkedin.com/pulse/ai-key-exponential-technology-smart-era-jacques-ludik/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFgVjRxoE1M-A/article-cover_image-shrink_720_1280/0/1646642401974?e=1652313600&v=beta&t=5duch_XrvwWTb8fU0BVfyIDQNc3aGuuUiJv5LmHkXnI"

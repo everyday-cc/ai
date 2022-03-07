@@ -8,7 +8,7 @@ webUrl: "https://seekingalpha.com/news/3810353-toyota-backed-ponyai-valued-at-85
 ampWebUrl: "https://seekingalpha.com/amp/news/3810353-toyota-backed-ponyai-valued-at-85b-in-latest-fundraising-round"
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3810353-toyota-backed-ponyai-valued-at-85b-in-latest-fundraising-round"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1219304622/image_1219304622.jpg?io=getty-c-w750"

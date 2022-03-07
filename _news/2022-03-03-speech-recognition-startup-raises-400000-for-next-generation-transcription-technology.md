@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Can Speech Recognition Technology Help Children Learn to Read?"
+    excerpt: "As the world eagerly awaits the end of COVID-19, a new pandemic may well be underway. But this time, it’s an illiteracy one."
+    publishedDateTime: 2022-03-07T18:59:00Z
+    webUrl: "https://www.linkedin.com/pulse/can-speech-recognition-technology-help-children-learn-read-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHjx-gH0TBLLg/article-cover_image-shrink_720_1280/0/1646668772291?e=1652313600&v=beta&t=EHs2XTi1ltQOT8msA1pSNsGB88yb70JJy0QaC0Uf-NI"
+        width: 1011
+        height: 630
+        isCached: true
   - title: "London based AI-generated music tech company raises £11m with plans on global expansion"
     excerpt: "LifeScore, a London based AI music technology company, has announced that it has raised a further £11m in funding as… | Creative | London | International | Funding | Technology | Technology | Business"
     publishedDateTime: 2022-03-07T12:43:00Z

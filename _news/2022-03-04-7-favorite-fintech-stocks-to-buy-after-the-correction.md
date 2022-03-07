@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/421408"
 webUrl: "https://www.entrepreneur.com/article/421408"
 type: article
 quality: 54
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://d3jqtupnzefbtn.cloudfront.net/andersenlab/new-andersensite/cases/Klarna/visuals/shop.png"
         width: 1110
         height: 760
-        isCached: true
-  - title: "7 Favorite Fintech Stocks to Buy After the Correction"
-    excerpt: "Here are 7 fintech stocks trading at significant discounts with the industry poised to thrive in the foreseeable future."
-    publishedDateTime: 2022-03-03T06:10:00Z
-    webUrl: "https://investorplace.com/2022/03/7-favorite-fintech-stocks-to-buy-after-the-correction-finx-gs-meli-pypl-upst-v-vfin/"
-    ampWebUrl: "https://investorplace.com/2022/03/7-favorite-fintech-stocks-to-buy-after-the-correction-finx-gs-meli-pypl-upst-v-vfin/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/03/7-favorite-fintech-stocks-to-buy-after-the-correction-finx-gs-meli-pypl-upst-v-vfin/amp/"
-    type: article
-    provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 44
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2021/07/fintech_1600.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Detroit FinTech Firm Bankjoy Adds 16 Credit Unions to its Service"
     excerpt: "Bankjoy in Detroit announced it has added 16 credit unions from across the U.S. to its seamless end-to-end digital service ecosystem."

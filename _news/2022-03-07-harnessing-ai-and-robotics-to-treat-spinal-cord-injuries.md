@@ -78,6 +78,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Major Changes for SQL Server Analytics Products"
+    excerpt: "Microsoft has announced at the end of February 2022 that significant changes are in store across its SQL Server analytics products. To set the context, the broader enterprise IT marketplace was still primarily on-prem when Microsoft first introduced its cloud analytics products in 2017."
+    publishedDateTime: 2022-03-07T22:51:00Z
+    webUrl: "https://www.dbta.com/Columns/SQL-Server-Drill-Down/Major-Changes-for-SQL-Server-Analytics-Products-151761.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 24
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vijay Mehra EQT Discusses How Analytics and AI Contribute to Finding Undervalued Real Estate Investments"
     excerpt: "Its no secret that data and analytics are playing an increasingly important role in the world of real estate. By harnessing the power of big data, investors and analysts can make better decisions about where to"
     publishedDateTime: 2022-03-05T13:50:00Z

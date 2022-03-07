@@ -90,6 +90,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Major Changes for SQL Server Analytics Products"
+    excerpt: "Microsoft has announced at the end of February 2022 that significant changes are in store across its SQL Server analytics products. To set the context, the broader enterprise IT marketplace was still primarily on-prem when Microsoft first introduced its cloud analytics products in 2017."
+    publishedDateTime: 2022-03-07T22:51:00Z
+    webUrl: "https://www.dbta.com/Columns/SQL-Server-Drill-Down/Major-Changes-for-SQL-Server-Analytics-Products-151761.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 24
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Syndigo Announces Strategic Partnership with Predica to Deliver Expanded Portfolio of Cloud-based Data Analytics Services"
     excerpt: "Predica's Data & AI expertise extends across building highly scalable, cloud-based data warehousing solutions; implementing intelligent applications using Machine Learning techniques, and creating ..."
     publishedDateTime: 2022-03-03T18:39:00Z

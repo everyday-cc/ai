@@ -53,22 +53,6 @@ related:
         width: 1110
         height: 760
         isCached: true
-  - title: "7 Favorite Fintech Stocks to Buy After the Correction"
-    excerpt: "Here are 7 fintech stocks trading at significant discounts with the industry poised to thrive in the foreseeable future."
-    publishedDateTime: 2022-03-03T06:10:00Z
-    webUrl: "https://investorplace.com/2022/03/7-favorite-fintech-stocks-to-buy-after-the-correction-finx-gs-meli-pypl-upst-v-vfin/"
-    ampWebUrl: "https://investorplace.com/2022/03/7-favorite-fintech-stocks-to-buy-after-the-correction-finx-gs-meli-pypl-upst-v-vfin/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/03/7-favorite-fintech-stocks-to-buy-after-the-correction-finx-gs-meli-pypl-upst-v-vfin/amp/"
-    type: article
-    provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 44
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2021/07/fintech_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "CredAvenue fastest Indian fintech unicorn after raising $137 mn"
     excerpt: "Debt marketplace CredAvenue on Sunday announced that it is India's fastest fintech to join the unicorn club with a Series B fundraising round of $137 million. The fundraising round was led by New York-based global private equity and venture capital firm Insight Partners,"
     publishedDateTime: 2022-03-06T14:42:00Z

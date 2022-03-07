@@ -51,6 +51,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Intel Mobileye IPO: 10 Things to Know as the Self-Driving Unit Files to Come Public"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Shares of Intel (NASDAQ:INTC) are basically flat on the day despite a"
+    publishedDateTime: 2022-03-07T20:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/intel-mobileye-ipo-10-things-to-know-as-the-self-driving-unit-files-to-come-public-1031260547"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
   - title: "Intel's self-driving unit Mobileye moves toward possible $50B IPO"
     excerpt: "Intel Corp. on Monday said it filed confidential paperwork for an initial public offering by its self-driving car unit, Mobileye Technologies Ltd. The Santa Clara-based chipmaking giant didn't indicate in Monday's announcement how much capital the IPO ..."
     publishedDateTime: 2022-03-07T15:27:00Z

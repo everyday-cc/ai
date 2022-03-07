@@ -38,6 +38,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Can Speech Recognition Technology Help Children Learn to Read?"
+    excerpt: "As the world eagerly awaits the end of COVID-19, a new pandemic may well be underway. But this time, it’s an illiteracy one."
+    publishedDateTime: 2022-03-07T18:59:00Z
+    webUrl: "https://www.linkedin.com/pulse/can-speech-recognition-technology-help-children-learn-read-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHjx-gH0TBLLg/article-cover_image-shrink_720_1280/0/1646668772291?e=1652313600&v=beta&t=EHs2XTi1ltQOT8msA1pSNsGB88yb70JJy0QaC0Uf-NI"
+        width: 1011
+        height: 630
+        isCached: true
 
 secured: "yKiWn+W1By4doAVjlcF9ctSbyk6wp2MUCNDhgiv70WwlDYnoHG3uot0xxBlTc8e8dMV3Mtd7FGvmEIB2xPjC0Anch9CpBALr2r6suhycbmIgFAo0dR5d8Wkpi68pw1354qdQ4eH/Veiz6D8i5itZxtZ9we+m7wvd3AveZiF8YTHtT6ASbiM9sUT2o1rZKVwzyi5XdmZWBlnEeEPXoSbdRYLuiP3XKG6t2mjUn+bvCea9qdkjPbls07rrFcKT72Jk0/nChIRT61r4mAuD/wKao2rUHHmtd7yZHz2Zd2qeqPd1m8HokbTg/urD4/hmNsWRjTlEnw0Oey9HgWc7XfN6bZOZdMZu3J5pehiURQFIXLM=;dBctftIqN/trm2b6uDKL6w=="
 ---
