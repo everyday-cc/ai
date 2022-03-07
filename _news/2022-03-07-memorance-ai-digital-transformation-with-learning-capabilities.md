@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Memorance AI: Digital transformation with learning capabilities"
-excerpt: "How can small and medium enterprises that lack data apply artificial intelligence (AI) to digital transformation and automate their operations? Memorance AI, a startup made it to the list of top 10 teams joining the final round of 2021 Qualcomm Taiwan Innovation Challenge and a silver medal winner of 2021 APICTA awards under the category of \"industrial application V manufacturing and logistics,"
+title: "Memorance AI: digital transformation with learning capabilities"
+excerpt: "How can small and medium enterprises that lack data apply artificial intelligence (AI) to digital transformation and automate their operations? Memorance AI, a startup made it to the list of top 10 teams joining the final round of 2021 Qualcomm Taiwan Innovation Challenge and a silver medal winner of 2021 APICTA awards under the category of \"industrial application V manufacturing and logistics\","
 publishedDateTime: 2022-03-07T01:30:00Z
-originalUrl: "https://digitimes.com/news/a20220304VL202/internet-cloud-ai-server-ipc-cloud-computing-iot.html"
-webUrl: "https://digitimes.com/news/a20220304VL202/internet-cloud-ai-server-ipc-cloud-computing-iot.html"
+originalUrl: "https://digitimes.com/news/a20220304VL202/internet-cloud-ai-server-ipc-cloud-computing-iot.html?chid=11"
+webUrl: "https://digitimes.com/news/a20220304VL202/internet-cloud-ai-server-ipc-cloud-computing-iot.html?chid=11"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: digitimes.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
@@ -39,6 +40,6 @@ related:
         height: 282
         isCached: true
 
-secured: "vB94l9V5Hc27U50kH0Ks8cwrZ9aiUdeZnWLn7WEHSObga/xvrk5Rdx3pafqLkbnfnclNJ/jnrc6PvEIu8cNc+e8avYXZHRxQZ3yR6pgIHjwrmKgf3rkG+KTzwgij2oTMxn1ySQ/wARab/396UCpFQ3DQ3Y3dm/Z40ZS/y9gldqUiDzlhM8pPHwBWf44uIVrjgvYofzhh/jtHMVGxfzANdnjcxBrGHpo6Ts7mekQPyPTFEbIHapkzqvYTFXvd9C5Qb1o3FHwBPDXRBwv624itZvwpy0EgRFx//O1OyhKI4NfOiXDfeUh8pVmlu8PvofF5fhf0pOcN8PIPlqtPQDGAM0061cyiGZILJxjSqFdapi0=;ScoPBOIm+zw+8dAexnTNAA=="
+secured: "U2sYwsT3pN7zKvxqJixwVKAklDt39Em5przo8SCD4OEMkvn2w+4MHp3DBjrILz9rQTbf1XwqRT8M3dVrIU0rg6bu0w/tRHKRR6pj2YOhlQPFGaDo3w5bMHNjPm2aTYyQghiJcGf9BNDTJ3f3XoO6k0hjTNUcPK3dvq7Fw/yLBbcysYOw6VgSbpminGerqc5Y+lutI0xWPmpI7kW8dUz6XQx+Nlk0t5abKQZDofRaD2kid6doFvLOUEQt752VjQeot5AWGVceefYUHHqK8K7z6QAV3GJHE2SIbr7giytQBxLRCN4Uy4j/JgjrxYqPaX0iA9BDg3oQ5HXafTywrdZSjbUpC3Nym9dK8ExGO2G0BwE=;H6Jt2q+xq+X3YTaYxSr4OA=="
 ---
 

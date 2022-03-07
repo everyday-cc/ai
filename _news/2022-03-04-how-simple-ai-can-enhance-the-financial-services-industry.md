@@ -34,6 +34,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "New AI model will speed up document analysis for the banking, financial and insurance industries"
+    excerpt: "Researchers have developed an AI-based solution which can automatically analyse and extract large amounts of information from computer documents."
+    publishedDateTime: 2022-03-07T11:06:00Z
+    webUrl: "https://www.lboro.ac.uk/media-centre/press-releases/2022/march/ai-model-speed-up-document-analysis/"
+    type: article
+    provider:
+      name: Loughborough University
+      domain: lboro.ac.uk
+    quality: 41
+    images:
+      - url: "https://www.lboro.ac.uk/media/wwwlboroacuk/external/content/mediacentre/pressreleases/2022/02/aidata.jpg"
+        width: 960
+        height: 450
+        isCached: true
 
 secured: "5579h0ACM0Du7NfKb/GM4sKPh25Xl5f2KR26rLz6HyB8OXRWfzfWlAfzlkYDyQM+c/t/JW+/2U8k9yeZlaYMlkDv2g1yNsGk7Pb4sVGwUWUL96L6NkT3OKkIMHxBpMWWrcOzwtlPb8UnpIOmEZ90ERR/tIW+lPfZaohFx5d/FY9W2ZXdrvEt68NBGhpjlmCAE7tgjPGn6O+IpR0g9hAs7NWbhHABWqttOq1nau9PpnP5nKgmMmm2e9uixWZ3tZq5+6UVLKeRama5Ufv2x9oOJXJSpqq8aKYyliR88zGkrgGDiLWuB1tWgLEo85tPXtv656BMlMxBP34JPwC+KxaDOUIlavCVnU6FMxrsQ4Z4f/U=;CT4WQEVQqh27isaaVvKRcg=="
 ---

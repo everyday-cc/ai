@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2022/03/03/these-ai-mistakes-are
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/03/03/these-ai-mistakes-are-slowly-killing-your-customer-experience/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 3659
     height: 2597
     isCached: true
-
-related:
-  - title: "Increasing revenue and enhancing member experience with artificial intelligence"
-    excerpt: "Ping! Ding. BEEP. Buzz. Just like you, your consumers are inundated with notifications and alerts every day. Cutting through the digital noise to reach them with your financial institution’s unique message is challenging."
-    publishedDateTime: 2022-03-02T20:00:00Z
-    webUrl: "https://www.cuinsight.com/increasing-revenue-and-enhancing-member-experience-with-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 33
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2021/12/bigstock-Artificial-Intelligence-Ai-Bu-435740897.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "SD8kWCXw0F22fYdSvaGX4wCFXl165ZYzkv8Do/kbn/57VsDBJjPkzdvUIsFzMjVl8mgke6YFMwbz8ZnV6Sajn7Ur2tb3s2R/QAksPnntwe8SIZz2+Cc3cswKIKmOIomsJAydQ9Eq7sC+xIf+/nWoR41SAaax00/QtF0tzbOOv7djWuWQR3IGi7tXtu02yQNuuy2GwAHuDHMMwXwoE/r3C4VOHbFWhXk9/NjICzyBEmP8ij6Ae+k4wLDcLSoq5qgY1HnnD1er9ub0MMHFfg5wPvX5xD0s1hZa/CH3EWWmrRBUYGMvXqn8Vfs288p+1rGi5qxZGW79NhCT8O5lXxCVNlA0reGX3WYE5WJJE8fghxzibkn27dyiSFynDBFsOqAzvi8Pbuftr80E87oafdX3thrtqFrPWV7dTxzu5Nh4AbdTy4pUmQgGMrNpxRvYMh3z1IVW7ez3OZ8zgTbi1y9UgLXvHxpcux1b9YXYTJgoaO6NGBRYpg/m7KgbOfD+o+bJbnSe3nl9DZGJ4rnUi/qpQg==;oLAU0Srr0P7tJ19JMfW0Ug=="
 ---

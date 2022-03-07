@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Industry IoT Consortium Publishes Industrial IoT Artificial Intelligence Framework"
-    excerpt: "The framework highlights the value proposition AI can enable in next-generation industrial IoT (IIoT) systems and addresses the emerging requirements and implementation challenges. \"The rapid growth and innovation in the field of AI have unlocked applications that a few years ago were infeasible."
-    publishedDateTime: 2022-03-02T19:03:00Z
-    webUrl: "https://www.automation.com/en-us/articles/march-2022/industry-iot-consortium-industrial-iot-ai? Control News & Articles"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 33
-    images:
-      - url: "https://www.automation.com/getmedia/8febd6b0-8c8b-460a-82a1-2a05bba312b3/AI-news-march-2-2022-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
 
 secured: "ZiWPKPK3zI3Z+SrID1JtGeEsCKBDv21IctLPQSkz2+wx8NnYUKpRSmoh+tyYxFN8teR6beG8vzKEV12OGaneq0uQg/DcptPqx3NWXhLDlyrgX7GMHFRDBr3NB9heqC8inZjjvIOSC4wYUtJczJSF0kZFJJpt4TsKp4nrsDORCLM/Xg/5TsyijtaUGJ95C875T3TF6FFJIkmUaw4REcJl3WPxB0gpc1xeRoQ4cnaL4CmAP2mzwRcRjXbsTYDgti3s2FCKtCaff6HfOODuEkaO+aWz3plQ5K5IZsoc7Plh1x0P3D+gMNwbUN0MQHJqIhZRTbeyijxDb2YA+QLzYvoQhgrtCFfIkH7jQ1PsLKycm80=;WxeiKqidje8cMGsixEfQ4w=="
 ---

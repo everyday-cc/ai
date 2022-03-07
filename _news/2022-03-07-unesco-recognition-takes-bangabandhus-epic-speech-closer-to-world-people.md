@@ -1,29 +1,31 @@
 ---
 category: news
 title: "UNESCO recognition takes Bangabandhu's epic speech closer to world people"
-excerpt: "The People across the globe are now getting closer to know more about Father of the Nation Bangabandhu Sheikh Mujibur Rahman and Bangladesh's great Liberation War following the UNESCO’s recognition of Bangabandhu’s landmark March 7 Speech as part of world’s documentary heritage."
-publishedDateTime: 2022-03-07T10:01:00Z
-originalUrl: "https://www.bssnews.net/news-flash/48841"
-webUrl: "https://www.bssnews.net/news-flash/48841"
+excerpt: "Bangladesh's the then Permanent Representative to the UNESCO and Bangladesh Ambassador in Paris M Shahidul Islam had played an important role to proceed to earn UNESCO's recognition of Bangabandhu's March 7 speech. In the beginning of 2016, the Bangladesh ..."
+publishedDateTime: 2022-03-07T11:15:00Z
+originalUrl: "https://www.daily-sun.com/post/608958/UNESCO-recognition-takes-Bangabandhus-epic-speech-closer-to-world-people"
+webUrl: "https://www.daily-sun.com/post/608958/UNESCO-recognition-takes-Bangabandhus-epic-speech-closer-to-world-people"
+ampWebUrl: "https://www.daily-sun.com/amp/post/608958/UNESCO-recognition-takes-Bangabandhus-epic-speech-closer-to-world-people"
+cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/608958/UNESCO-recognition-takes-Bangabandhus-epic-speech-closer-to-world-people"
 type: article
-quality: 23
-heat: 23
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: Bangladesh Sangbad Sangstha
-  domain: bssnews.net
+  name: Daily Sun
+  domain: daily-sun.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.bssnews.net/assets/news_photos/2022/03/07/image-48841-1646646112.jpg"
-    width: 640
-    height: 400
+  - url: "https://www.daily-sun.com/assets/news_images/2022/03/07/Bangabandhu.PNG"
+    width: 700
+    height: 446
     isCached: true
 
-secured: "akEMTXORw0HmqtQoptEaRA8k/0GduVw6tzA0DaigmTjQIvMyqXTLJobAxxasINqwK99Kq0iicHpGdMR2XMSHMJQJAwUDO2NNAaza+CuV69jl8kxQ7e/bn3LS4MXosqyucs0jdVDa9MhuD5hwkQqVjPKdUouxSpuii5HkaecESM/1KQ5qUvlYmqUz0p2nEnNG0bw/pjxQSqatmqS89Z0xMWh5DYfUrBTMLQJ/bP/Og7q8KcbXSOQn9EEH6K3n9SDCWjtrPVzmOi78oV6Err78KbQmrwHHmFeNMqzJ1Nf0t7Tx/hJ01BTV/c5V4WY31Zbj2l8fYxWCGSOyHS8TyqUz0RamZ8vRiOgLXYxLxNZNIZ4=;B5QZmZZokRArvpoUDbFqdA=="
+secured: "TQNjPQEus4O2bGn1YWXDh+OnYbVQUhSAqGPCfUdCzDOtFLbEtUc1+BMyGt0pO+XnhpJzrKpTRTKuEQjlmPRJ3yhuBm4k0x8YPLnNLzPVL9rwoyQ6bkQ6CNnxfN+Ykq3WULr+/Eotk4a/dghjCSiN9d2kr51XGZSnImBgmbcBPC/aDSLembIM1peJNWa0SxfvRSv7gdDAHD85BAi4dwOZpi0MoAAK+wKJARuOpuylJWixt0+lIZ5nOPu/9Z+opcIYbERksjcsRs4ZXLGKbx1jrmTPD2y8AKfqfe1W/196nOlrjMwlzmtkKx+JB5gAEQ/iUc4MBWtgJxhoBDm01huIrQI9UkHygTtxv0IHOPapvyQ=;dO9WKAChs+682xp34D9siQ=="
 ---
 

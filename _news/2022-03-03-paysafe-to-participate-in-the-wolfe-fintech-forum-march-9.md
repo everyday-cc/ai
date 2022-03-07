@@ -97,6 +97,20 @@ related:
         width: 280
         height: 250
         isCached: true
+  - title: "Your Personal Finance: Understanding Fintech and the market for loanable funds"
+    excerpt: "Fintech (aka. financial technology) refers to the use of technology to transform the way we conduct business in the financial sector."
+    publishedDateTime: 2022-03-07T07:30:00Z
+    webUrl: "https://www.reflector.com/news/business/your-personal-finance-understanding-fintech-and-the-market-for-loanable-funds/article_619c1829-7c07-5654-9b1c-b60245433f64.html"
+    type: article
+    provider:
+      name: The Daily Reflector
+      domain: reflector.com
+    quality: 35
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/4/a2/4a2646ed-32c9-5557-8342-dd3054f453dc/62200b565b260.image.jpg?crop=1222%2C642%2C9%2C542&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Fintech Market Giants Spending Is Going To Boom | Google, Intel, Amazon Web Services"
     excerpt: "Advance Market Analytics published a new research publication on “Global AI in Fintech Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in presentable format. In the Study you will find new evolving Trends ..."
     publishedDateTime: 2022-03-04T10:50:00Z
@@ -106,20 +120,6 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 26
-  - title: "WEX Inc. to Present at the Wolfe Research FinTech Forum 2022"
-    excerpt: "WEX Inc. (NYSE: WEX), the global commerce platform that simplifies the business of running a business, today announced that its Chair and Chief Executive Officer, Melissa Smith, will present at the Wolfe Research FinTech Forum 2022 on Wednesday,"
-    publishedDateTime: 2022-03-02T20:15:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=625383"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "04/03 – Weekly Fintech Recap"
     excerpt: "Partnerships LendingUSA introduces FastScreen customer prescreen toll for the funeral home industry in partnership with TransUnion LendingUSA, a leading point-of-need fintech company, introduces a new tool,"
     publishedDateTime: 2022-03-04T11:44:00Z

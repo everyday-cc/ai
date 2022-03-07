@@ -38,6 +38,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "London based AI-generated music tech company raises £11m with plans on global expansion"
+    excerpt: "LifeScore, a London based AI music technology company, has announced that it has raised a further £11m in funding as… | Creative | London | International | Funding | Technology | Technology | Business"
+    publishedDateTime: 2022-03-07T12:43:00Z
+    webUrl: "https://bdaily.co.uk/articles/2022/03/07/london-based-ai-generated-music-tech-company-raises-11m-with-plans-on-global-expansion"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 29
+    images:
+      - url: "https://bdaily.co.uk/images/uploads/3pXo2ZL6QNVmo2wwVFRRg7OEvioJmxePxJaRcpiJ.jpeg?w=940&h=430&fm=jpg&fit=crop-47-41&s=ec68f01cd06a5cb15e58f8f5ea11ed72"
+        width: 940
+        height: 430
+        isCached: true
 
 secured: "gclPO85sDCHdvYNcNaEfuSOU2ebHtfvbgHyPx707TpRJ3oLrdXcTL5GGQjjbDOQBAaJj/WROjnbhXj84mM5TEiYQjE71oW9++HOpi7uLitFH5a0A7dZ2CEWId8ovc4Y2QNu9e/zfVe0OzekhBWroYUVkFI8HfgzPVq+txmxgOxBf+arRlVbncHdrlzLnTuVfef84W1bphIHw0tl7314d4cgL4Tigat03u2TPbA3zl8qF0mNhdtIjYjylqOXKbhVO8rdyNF7MsUmWisV+kkBBm8D5G87t14ZsYKtSEyyE0LZxik9RLnL4KPSa8vKaN3AW6IyDTtIVPE34GE5sWKu124TzFcSpX3iyeeyl2QEMBZQ=;+gNOerM2DbduyFx8FtsRrA=="
 ---

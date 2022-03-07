@@ -1,0 +1,33 @@
+---
+category: news
+title: "Why AI-Enabled Online Proctoring Harms Education Rather Than Saving It"
+excerpt: "AI-based proctoring seemingly creates an equal number of problems compared to the ones it solves in remotely conducted student assessments. Until 2020, the concept of remote classrooms was little more than an expensive alternative to traditional ones."
+publishedDateTime: 2022-03-07T10:55:00Z
+originalUrl: "https://www.linkedin.com/pulse/why-ai-enabled-online-proctoring-harms-education-rather-naveen-joshi"
+webUrl: "https://www.linkedin.com/pulse/why-ai-enabled-online-proctoring-harms-education-rather-naveen-joshi"
+type: article
+quality: 54
+heat: 54
+published: false
+
+provider:
+  name: LinkedIn
+  domain: linkedin.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - AI in Education
+
+images:
+  - url: "https://media-exp1.licdn.com/dms/image/C5612AQFiNDFUtBqVQw/article-cover_image-shrink_720_1280/0/1643832414538?e=1652313600&v=beta&t=VDt23X6pEwLOK5Zjn8MIn1P_uV3Am-6SNBZOAUXWTRw"
+    width: 1000
+    height: 667
+    isCached: true
+
+secured: "iHi9FWlZzds7uucnK0EujYScesfjFXK2NGJklHPgArgTE8zaLBrM//CKjyH1xKVM2gAz0UlhTzNainxOyu9uR8AW87LXeJUuBHkxgk1ORcXzRSPDfCiabWH5Hw+xyWBXi4UThS0L5pc23ShfyAt0/xeho0RixQPxaZDu6oH54mr5L5p8eAx5p/0IsMR4RQeCZmk/rMVMEPBQeO8UtiQAtCjyzTXRhvD1SMhqiEnjMCIAcK+rCwK7ejZsDDBVrGfdwv5aWY8VqsGqwUF9LeLgzcfI103RAuXZeqU3HHjh4FGXDaEIE8lC7mYdQ8otbo1NbxnBvvJYZIhw99Z77BYWtSN2NrKZnjxDkJWdsFGn6jg=;pCpj4RPP7T9njHOWN0kh6Q=="
+---
+

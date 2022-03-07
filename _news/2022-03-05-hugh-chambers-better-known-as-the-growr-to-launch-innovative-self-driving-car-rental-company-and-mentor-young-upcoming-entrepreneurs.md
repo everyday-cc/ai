@@ -39,22 +39,6 @@ related:
         width: 384
         height: 480
         isCached: true
-  - title: "Hugh Chambers, Better Known as The Growr, to Launch Innovative Self-Driving Car Rental Company and Mentor Young and Upcoming Entrepreneurs"
-    excerpt: "The phenomenal businessman born in St. Elizabeth and grew up in Christiana, Manchester, Jamaica is a computer programming and web development expert. The Growr is a"
-    publishedDateTime: 2022-03-02T19:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/03/ab25948496/hugh-chambers-better-known-as-the-growr-to-launch-innovative-self-driving-car-rental-company-and-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25948496"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25948496"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 10
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/_mg_6380_0.jpg?crop=smart&height=100?optimize=medium&dpr=2&auto=webp&width=256"
-        width: 512
-        height: 384
-        isCached: true
   - title: "Hugh Chambers, Better Known as The Growr, to Launch Innovative Self-Driving Car Rental Company and Mentor Upcoming Entrepreneurs."
     excerpt: "The phenomenal businessman born in St. Elizabeth and grew up in Christiana, Manchester, Jamaica is a computer programming and web development expert. The"
     publishedDateTime: 2022-03-04T22:15:00Z

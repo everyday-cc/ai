@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/fin
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/financial-services-and-technology-industry-leaders-back-document-to-data-ai-startup-122030700335_1.html"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Business Standard
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "New AI model will speed up document analysis for the banking, financial and insurance industries"
+    excerpt: "Researchers have developed an AI-based solution which can automatically analyse and extract large amounts of information from computer documents."
+    publishedDateTime: 2022-03-07T11:06:00Z
+    webUrl: "https://www.lboro.ac.uk/media-centre/press-releases/2022/march/ai-model-speed-up-document-analysis/"
+    type: article
+    provider:
+      name: Loughborough University
+      domain: lboro.ac.uk
+    quality: 41
+    images:
+      - url: "https://www.lboro.ac.uk/media/wwwlboroacuk/external/content/mediacentre/pressreleases/2022/02/aidata.jpg"
+        width: 960
+        height: 450
+        isCached: true
   - title: "How Simple AI Can Enhance The Financial Services Industry"
     excerpt: "In this special guest feature, Kumesh Aroomoogan, Co-founder and CEO of Accern, believes that data is increasingly being used and desired and financial professionals need faster ways to take advantage of it."
     publishedDateTime: 2022-03-04T14:00:00Z

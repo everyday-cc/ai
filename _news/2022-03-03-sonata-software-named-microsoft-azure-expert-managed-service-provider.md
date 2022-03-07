@@ -146,6 +146,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Fintech Market Study of Competitive Landscape And Recent Trends By 2027 | IBM, Intel, IPsoft, Microsoft, AWS, Nuance Communications, Google"
+    excerpt: "According to Data Bridge Market Research new analysis, The Global AI in Fintech Market analysis provides a high-level summary of classification, competition, and strategic actions taken in recent years. For a global scenario, the global AI in Fintech ..."
+    publishedDateTime: 2022-03-07T12:36:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-study-of-competitive-landscape-and-recent-trends-by-2027-ibm-intel-ipsoft-microsoft-aws-nuance-communications-google"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 36
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-Peace-Protest-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "ZTL4vIEfWG5Ji0JrHWAchbfTm8fJl414drbgxLBFe9arVjLxFGneS5218SPFZaZTwwQy/ttZYb1HbU+dZNEHQ44bsOgd9op+Xk0wjooaPsKT2bJQKK+wvQQWl1nvk8qVwTAvH1E0TscGmlyvKgFd8z4aQJDmTMRsdX02Pg30GYL7m4X5gxpq0i/aWQiR6RLt7kLfi0Aq5M1yFJPOuKJZMM+YoalAcbvOWpb0yQ4OLGEtDRLTBOBTJFCve83TjLS0udrMCgjO/iwrBhVy7QTJFAij5G0EmvrE0CffRjB6pJIDpNxgT5nC21X55TnFPSeyftCXq+xRtXRsv8aLEanCfMdxFRSsp0itQmZeI9hcMbs=;ond8E2G0Wz8avLRpUZeDMQ=="
 ---

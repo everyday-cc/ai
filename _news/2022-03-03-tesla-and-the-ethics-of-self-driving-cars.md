@@ -2,29 +2,27 @@
 category: news
 title: "Tesla and the ethics of self-driving cars"
 excerpt: "Self-driving technology has come a long way in recent years, but it remains far from perfect. And that's partially because of decisions made -- not by the cars -- but by programmers."
-publishedDateTime: 2022-03-03T05:14:00Z
-originalUrl: "https://www.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
-webUrl: "https://www.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
-ampWebUrl: "https://amp.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
-cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
+publishedDateTime: 2022-03-03T14:00:00Z
+originalUrl: "https://www.kuow.org/stories/tesla-and-the-ethics-of-self-driving-cars"
+webUrl: "https://www.kuow.org/stories/tesla-and-the-ethics-of-self-driving-cars"
 type: article
-quality: 76
-heat: 106
-published: true
+quality: 56
+heat: -1
+published: false
 
 provider:
-  name: WBUR
-  domain: wbur.org
+  name: KUOW
+  domain: kuow.org
 
 topics:
-  - AI in Autos
-  - AI
   - AI Ethics
+  - AI
+  - AI in Autos
 
 images:
-  - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/03/GettyImages-1232832894.jpg"
-    width: 3000
-    height: 2000
+  - url: "https://kuow-prod.imgix.net/store/6023b3dacd9aac14703ea05a20f4c3e4.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+    width: 942
+    height: 628
     isCached: true
 
 related:
@@ -60,21 +58,7 @@ related:
         width: 1024
         height: 640
         isCached: true
-  - title: "Self-Driving Car Market is Going to Boom | Tesla, Porsche, Toyota Motor"
-    excerpt: "Advance Market Analytics published a new research publication on “Self-Driving Car Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in presentable format. In the Study you will find new evolving Trends ..."
-    publishedDateTime: 2022-03-07T08:04:00Z
-    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-is-going-to-boom-tesla-porsche-toyota-motor"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-Peace-Protest-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
-secured: "wSkxhkhzHkDvrUwW8okGSkGKzeiuNogmp2D90cLPnk8D4QSY5KQ6YO6FuuTJAq1GHAXyU2kmfGM/RYa3akYtn57RhuLzE9iYmLrKPMbSU74JOwz7Tigdk+RJkYeTRnHxHzfR6qJT8CDG5/+hVMj8Eoaw1uZsN2pmZM0ZkWjbt3R1U428tjPUytVkiAYUdqgcMMOXgXlqo5N03yGbcWXp+9dRG8jqXuCic8LJp8C0x89qFljGgcvDfYfgQjcqWlFPvH9YfQ6ex8gcfX/sxsU1kYRzXUxwrot7HIBqWtw6avhH1YnSr4EDKQ/TWFLdQLKbp4jpxmLD8kohz+Vxw/VsuDAhSPlVOCVoMpPqzfkajDQ=;I6J91x8nA7VLKMTErPk62A=="
+secured: "tsqLmI4nR/aGQxIEm9Fs1A5nHbiUesfBMhgLcnAg0ojcMQezwc4rNXoKxPtFSawWnupsnfMhNgtRR51Fjo4fsS9/MLL70VEFsD6OuVL0mTGETNYU0iaFtDA9EwlRLNvzuEeJXjzjdiXKi4XVMXMHKUZL69QV1sDGD+WvscHSiSEc0i6QMM/V/nwUAFr3Y6EkTplp7xrCrU/yN2KG4BykClvDcFxoXCTyl5eJfgWu/YjxWgN5iPz7nQBY1YuZHksVhZcdInLcBTgOKUHwZzFG/XKgnTpNVkzUPKHVn6YEZyEiEMpuAL7Eo5psnXd5xfA3BPwZZEY0j/K2XGieEOoXJwZV33RkkNhQH6uv5cOkd3E=;9tTPDVGHZCUQbSBnLVZ4gw=="
 ---
 

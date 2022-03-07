@@ -24,6 +24,17 @@ images:
     height: 550
     isCached: true
 
+related:
+  - title: "Autonomous vehicle startup Argo AI conducts 'mapping mission' in Nashville"
+    excerpt: "Argo AI regularly conducts mapping missions in order to improve our capabilities, evaluate different road infrastructure and support virtual testing (or computer simulations) a"
+    publishedDateTime: 2022-03-07T11:30:00Z
+    webUrl: "https://www.bizjournals.com/nashville/news/2022/03/07/agro-ai-nashville.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 15
+
 secured: "Puba+6lg4qG8sahQTCMPs8Nx4AeukluGyJyVLZySbR+Y4nwY3nD8wKJNKwors8yptiui6K9BZcWDHglORSio/1VztNOBMMHeh1Lx7+OM3stEz4QTe04afuhBoPrA7TbdU/EYZcn/tLUScFmqzIlqWOFB1Oy5Dt5y5/cetVAatD9j2NIsXrzZwDmn41FAFvzibCKoAzz8rD1TOt8KdwvuXJ8/2lLv3e2e+1VIjd27qc/bKqvphmxdeZSigKXhwQhNGXR6Kng5xxrjdm1E2aXshNLEKDVlLl43VqhNwZKPNDYh8yHBrsVuLQQQR1z3Cq8VN83OnDO9XnrA6zK3mZ7n9+KyBzHiocAj9zmc9zVWn4ri0zFES2ycNWlD0YmZPRZs1ojCwa2PO+iNikjNSUJe4eYuMBJeK5KbGB+SOXya2MvY1Uim+ZrHXjwlW2LLxGl8xx3ND385zXGhPc8nEPnwRktpSD+VUWDaom2gFv7UF0ux+uHcPfCpSXDi9HE0UMUnqC+gd6mZPXjM8Cs1OgdZpQ==;hotq8HzC6FhII2S50uuweQ=="
 ---
 

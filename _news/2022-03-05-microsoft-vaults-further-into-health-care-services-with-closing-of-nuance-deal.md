@@ -139,6 +139,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AI in Fintech Market Study of Competitive Landscape And Recent Trends By 2027 | IBM, Intel, IPsoft, Microsoft, AWS, Nuance Communications, Google"
+    excerpt: "According to Data Bridge Market Research new analysis, The Global AI in Fintech Market analysis provides a high-level summary of classification, competition, and strategic actions taken in recent years. For a global scenario, the global AI in Fintech ..."
+    publishedDateTime: 2022-03-07T12:36:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-study-of-competitive-landscape-and-recent-trends-by-2027-ibm-intel-ipsoft-microsoft-aws-nuance-communications-google"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 36
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-Peace-Protest-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Sonata Software named Microsoft Azure Expert Managed Service Provider"
     excerpt: "Sonata Software, a global IT Services and Technology Solutions Company, today announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP), in recognition of its demonstrated expertise in providing world-class solutions on Microsoft Azure."
     publishedDateTime: 2022-03-03T02:23:00Z
