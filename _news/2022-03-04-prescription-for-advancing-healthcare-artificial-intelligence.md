@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/305679/prescription-for-advancing-health
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/305679/prescription-for-advancing-healthcare-artificial-intelligence.html/amp"
 type: article
 quality: 74
-heat: 94
+heat: 74
 published: true
 
 provider:
@@ -25,38 +25,6 @@ images:
     width: 1024
     height: 682
     isCached: true
-
-related:
-  - title: "Healthcare Triangle Deploys New Software-as-a-Service Offering Tech to Drive Healthcare's Digital Transformation"
-    excerpt: "Image provided by Unsplash This post contains sponsored advertising content. This content is for informational purposes only and not intended to be investing advice."
-    publishedDateTime: 2022-03-02T12:39:00Z
-    webUrl: "https://www.benzinga.com/markets/penny-stocks/22/03/25932786/healthcare-triangle-deploys-new-software-as-a-service-offering-tech-to-drive-healthcares-dig"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25932786"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25932786"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2012/photo-1576091160550-2173dba999ef_3.jpeg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Locked And Adaptive Algorithms In Healthcare: Differences, Importance And Regulatory Hurdles"
-    excerpt: "Take for example the COVID-19 pandemic, such an adaptive A. I. tool could pool data from institutions using the same system and have better insights into how specific dosage influences a patient’s health."
-    publishedDateTime: 2022-03-02T11:14:00Z
-    webUrl: "https://www.linkedin.com/pulse/locked-adaptive-algorithms-healthcare-differences-meskó-md-phd"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 28
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQE_yywGGysdzA/article-cover_image-shrink_720_1280/0/1646219503838?e=1651708800&v=beta&t=ZvyT13VET3L9z0B-TzRuceajDaFaeexVHmihZUbjIug"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "54Jd/jP/ON+quwF3uWkNFnGtid8/wWXLrNuxM8J8H3iyHzxA1TvwYeD/n6yneVmiXJ/zal1xN6ERjk82KP6Vb+Ja2hT0V4GGbxrZRlyS+DfVFiNQRq5sFHifX3kIzUEjaMd/ew79bnwaW81c8onurGSQ+GgroIFYeanJrOp+RPkSZHJYiNMM269lF+PUlcNPnfczrmIIDqG0vqcFOAOIorLu6xo0I8jjEEERSJZRfwYNgH4zVCU9danTrSedpSa5TDx0uAYkOeqJ3/JgSOcZmb1AH6Y+MI3B38IF7hlRKisf9Qd/Iy6PvwCXmYoSvJw3M6PGNskDNCWtorTHg60fpU0gqD+10FrmORSwEh91Khg=;wEVgIWioVOZVIjx2yTZdyQ=="
 ---

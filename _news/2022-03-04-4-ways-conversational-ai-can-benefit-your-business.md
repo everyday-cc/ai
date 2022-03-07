@@ -9,8 +9,8 @@ ampWebUrl: "https://techbullion.com/4-ways-conversational-ai-can-benefit-your-bu
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/4-ways-conversational-ai-can-benefit-your-business/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Impacts
@@ -40,6 +40,20 @@ related:
       - url: "https://www.jamaicaobserver.com/apps/pbcsi.dll/storyimage/JO/20220306/ARTICLE/303069974/AR/0/AR-303069974.jpg"
         width: 504
         height: 332
+        isCached: true
+  - title: "Digital Babel Fish: The holy grail of Conversational AI"
+    excerpt: "Babel Fish, the “oddest thing in the universe”, is a species of fish featured in Douglas Adam’s magnum opus, The Hitchhiker’s Guide to Galaxy. The fish, worn as an earpiece, translates all the languages that ever existed instantly."
+    publishedDateTime: 2022-03-07T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/digital-babel-fish-the-holy-grail-of-conversational-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Babel_AIM.jpg"
+        width: 672
+        height: 378
         isCached: true
 
 secured: "PsY5SsjpGLxcYswyspJ0xwvgWGYcQXSajScRAFKVIAfckDCDDiPUvgHsnksWIrAA1PGjq4HDCi8RSEL0bBzMuTPxDLUlBI7EoQubvOrj6xqq+bUWXate2HEOB7XTFpRyaUP6UXifFN36oGm9o8+Tq/QaKHTJZrP347CRCF1XMTZBU9Qt3+AM6sygAOszkvN6rrFMCzWqOA6ol/hrFEnFqUvCUw33drHqb7khycKjg4Cw8y0GUmgo3cbNA9N5BtzO/3oxj1qzl2FlWAvkXjiNmAlhg1aO3UUYs1/ZyGRfKocS+GeBXT4YvzOcbHijEP+aHVxyT8B148A6TScMCzzqC5gKTJn3Cwza48nuSZvX1jSy0+desv7OSqlL2HI+R8CzRhSQUODEVmk/Lk6pQkFJMUK8NwmovWr88fUlcfNeZ/hBWrEWz9vzUxHA5fz8VMZJ3cyVxBh8ZlKWYwsfurB/JPNGeUc8L5rENBmyjMxIET/+qwDnHd4CDNWyUl8DByHVDXwNABXY2hBiGMg/pwoS5g==;hKgaBKLSyKMVK+xzCYlYhw=="

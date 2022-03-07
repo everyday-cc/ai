@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/03/how-ai-protects-machine-identitie
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence and machine learning show promise in cancer diagnosis and treatment"
-    excerpt: "Artificial intelligence (AI), deep learning (DL), and machine learning (ML) have transformed many industries and areas of science. Now, these tools are being applied to address the challenges of cancer biomarker discovery,"
-    publishedDateTime: 2022-03-02T13:01:00Z
-    webUrl: "https://medicalxpress.com/news/2022-03-artificial-intelligence-machine-cancer-diagnosis.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-03-artificial-intelligence-machine-cancer-diagnosis.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-artificial-intelligence-machine-cancer-diagnosis.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 64
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-15.jpg"
-        width: 695
-        height: 372
-        isCached: true
   - title: "How Artificial Intelligence Offers Real-World Opportunities For Indian Students"
     excerpt: "Looking at the pace at which the AI space is expanding, it won’t be surprising to see the need and demand for professionals and experts shoot up substantially in the coming years."
     publishedDateTime: 2022-03-04T06:17:00Z

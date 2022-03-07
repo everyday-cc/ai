@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 598
         isCached: true
-  - title: "Artificial intelligence and machine learning show promise in cancer diagnosis and treatment"
-    excerpt: "Artificial intelligence (AI), deep learning (DL), and machine learning (ML) have transformed many industries and areas of science. Now, these tools are being applied to address the challenges of cancer biomarker discovery,"
-    publishedDateTime: 2022-03-02T13:01:00Z
-    webUrl: "https://medicalxpress.com/news/2022-03-artificial-intelligence-machine-cancer-diagnosis.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-03-artificial-intelligence-machine-cancer-diagnosis.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-artificial-intelligence-machine-cancer-diagnosis.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 64
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-15.jpg"
-        width: 695
-        height: 372
-        isCached: true
 
 secured: "rgVG8pbPeX2l86g80Hnv1DCDq6oaxsbHJV64ESUOVIMln6BLWHnPd4BEB9FPwkj4dSCFtC/frIM3LEulIb45pt/VfLaEBAPRTMlwX4PV38+LWx4mJia1C1v9qSHcLmpVyyx1ugNWP0pHBDIspOjI4KJWC06STtLOyWQ7AvUcFC9CqUEiikPI2Oh3vB+GIWLIApoiqATbNg1OurHNkartQ/1+146+odPa0GsUkn4kh8D2AGl6XKXJbUjove1hmzskfxszYIaUDoeO+kGXt0SNty8/BKMQsoFse0EefNeargYmus4h6CYK2mGUCRqXJvvl7pNW8BYndnI7Xfq1eVS8s3ZSRJnboYzV3srsa9PYwsSd83TGt9FQYAwD0W0lSt0spvppENQSPXzinm6YVmQwmHvfrK54ao7P3rbgwjVLk2znz5UX0gv8NIn8xwkZmRBVcKJscKrX4H737QG9MoHwCQvlZC1SWgKttIyEMoBjStb+Q22WFvbrW6Sgr6Uf1gaBLqC/r6EDE4pP6m1AvMhzTQ==;UCgMLH8tBDLk0gZVtWxAmw=="
 ---

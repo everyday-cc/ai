@@ -32,34 +32,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "Machine learning innovation among power industry companies has dropped off in the last year"
-    excerpt: "Research and innovation in machine learning in the power industry operations and technologies sector has declined in the last year."
-    publishedDateTime: 2022-03-02T13:00:00Z
-    webUrl: "https://www.power-technology.com/features/machine-learning-innovation-among-power-industry-companies-has-dropped-off-in-the-last-year/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 29
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/02/powerpatents0103-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
-  - title: "Machine learning innovation among mining industry companies has dropped off in the last year"
-    excerpt: "Research and innovation in machine learning in the mining industry operations and technologies sector has declined in the last year."
-    publishedDateTime: 2022-03-02T13:00:00Z
-    webUrl: "https://www.mining-technology.com/features/machine-learning-innovation-among-mining-industry-companies-has-dropped-off-in-the-last-year/"
-    type: article
-    provider:
-      name: Mining Technology
-      domain: mining-technology.com
-    quality: 28
-    images:
-      - url: "https://www.mining-technology.com/wp-content/uploads/sites/19/2022/02/miningpatents0103-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
 
 secured: "5579h0ACM0Du7NfKb/GM4sKPh25Xl5f2KR26rLz6HyB8OXRWfzfWlAfzlkYDyQM+c/t/JW+/2U8k9yeZlaYMlkDv2g1yNsGk7Pb4sVGwUWUL96L6NkT3OKkIMHxBpMWWrcOzwtlPb8UnpIOmEZ90ERR/tIW+lPfZaohFx5d/FY9W2ZXdrvEt68NBGhpjlmCAE7tgjPGn6O+IpR0g9hAs7NWbhHABWqttOq1nau9PpnP5nKgmMmm2e9uixWZ3tZq5+6UVLKeRama5Ufv2x9oOJXJSpqq8aKYyliR88zGkrgGDiLWuB1tWgLEo85tPXtv656BMlMxBP34JPwC+KxaDOUIlavCVnU6FMxrsQ4Z4f/U=;CT4WQEVQqh27isaaVvKRcg=="
 ---

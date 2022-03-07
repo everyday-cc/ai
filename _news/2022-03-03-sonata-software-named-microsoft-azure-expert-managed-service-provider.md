@@ -49,20 +49,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Sonata Software Named Microsoft Azure Expert Managed Service Provider"
-    excerpt: "Sonata Software, a global IT Services and Technology Solutions Company, today announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP), in recognition of its demonstrated expertise in providing world-class solutions on Microsoft Azure."
-    publishedDateTime: 2022-03-02T11:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sonata-software-named-microsoft-azure-expert-managed-service-provider-1031246876"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://mma.prnewswire.com/media/689012/Sonata_Software_Logo.jpg"
-        width: 400
-        height: 279
-        isCached: true
   - title: "Microsoft completes acquisition of Nuance, ushering in new era of outcomes-based AI"
     excerpt: "Microsoft Corp (Nasdaq: MSFT) on Friday announced the completion of its acquisition of Nuance Communications Inc. (Nasdaq: NUAN), a leader in conversational AI and ambient intelligence across industries including healthcare,"
     publishedDateTime: 2022-03-04T14:08:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/25957282"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25957282"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1043
     height: 1043
     isCached: true
-
-related:
-  - title: "Significance Of Ethical Artificial Intelligence (AI) Solutions"
-    excerpt: "Solutions In recent years, Artificial Intelligence (AI) development has increased rapidly. Technology has steadily been integrated into the economic and industrial worlds and everyday life in South Af"
-    publishedDateTime: 2022-03-02T12:21:00Z
-    webUrl: "https://www.linkedin.com/pulse/significance-ethical-artificial-intelligence-ai-solutions-mori-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 69
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFwVY0KxvjkJA/article-cover_image-shrink_720_1280/0/1646223391635?e=1651708800&v=beta&t=fMFnMQ8xIPS63fJqndF-yZ4zQtXfeyjA6GPRYZBRXVU"
-        width: 720
-        height: 720
-        isCached: true
 
 secured: "fYL5bzMmx/2QUvQn6NwOTIC0BvfYyyAamMv2pGDVqVF5HgpuSOftj04ozVJO1Bf+aUeNe5/QIcNh8JW37ES57GJ7rqVpFbusRrZ97NLzQQ1Eqy0m3VuE+hEPFAClP3Pn8inCgyfJpNPtZFTP54HxX/Pa8PCJCcX54llvdF2HIM0OBB45mlfP4OTPpmhMHmD810/aiaNs9Ej0w0wjgdscHsJFUHd/uY4HCCe76mu52Ht4VcfIxpXiwKB5W7wt8Axi29o3D1WbkFF+sJCdHxeZeFKS0EQ2cI5mOe9Qn3hNq/xm6O6VPokhV6ByLmaMTslGXnNIBuqkX/s+qtwpkET0HfEg7Fp2RaQ1uhC28szjLBE=;h0gEUeB4wgzqGCCKGi04Pw=="
 ---

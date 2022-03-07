@@ -114,7 +114,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-analytics-in-endpoint-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -155,6 +155,92 @@
       "topics": [
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-03-04-4-ways-conversational-ai-can-benefit-your-business.md",
+      "title": "4 Ways Conversational AI Can Benefit Your Business",
+      "excerpt": "If you’ve reached out for customer service in the last few years, you’ve probably noticed some changes. The face and voice of many service departments are shifting away from human-to-human contact. While robots haven’t completely taken over yet,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/4-ways-conversational-ai-can-benefit-your-business/",
+      "originalUrl": "https://techbullion.com/4-ways-conversational-ai-can-benefit-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/03/artificial-intelligence-2167835_1920.jpg",
+          "width": 1920,
+          "height": 1285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/4-ways-conversational-ai-can-benefit-your-business/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/4-ways-conversational-ai-can-benefit-your-business/amp/",
+      "publishedDateTime": "2022-03-03T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-04-first-person-behind-the-wheel-of-a-self-driving-tesla.md",
+      "title": "First Person: Behind the wheel of a 'self-driving' Tesla",
+      "excerpt": "This is part of our hour on Tesla and the ethics of self-driving cars. Listen here. Self-driving technology has come a long way in recent years, but it remains far from perfect. In a podcast special, we share what it's like behind the wheel when Tesla ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla",
+      "originalUrl": "https://www.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d279m997dpfwgl.cloudfront.net/wp/2017/04/0417_tesla.jpg",
+          "width": 1700,
+          "height": 1133,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla",
+      "cdnAmpWebUrl": "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla",
+      "publishedDateTime": "2022-03-03T11:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBUR",
+        "domain": "wbur.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -218,7 +304,7 @@
       "originalUrl": "https://www.cio.com/article/305679/prescription-for-advancing-healthcare-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -911,7 +997,7 @@
       "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/03/making-financial-auditing-more-assured-with-blockchain/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1115,7 +1201,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/03/g25957282/global-artificial-intelligence-ai-in-drug-discovery-market-4197-5-mn-by-2028-growth-forecast-at-41",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1146,101 +1232,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-edtech-startup-scaler-acquires-appliedroots-for-50-mn-to-strengthen-ai-ml-offerings.md",
-      "title": "Edtech Startup Scaler Acquires AppliedRoots For $50 Mn To Strengthen AI, ML Offerings",
-      "excerpt": "As a part of the acquisition, all the six cofounders of AppliedRoots will join Scaler and lead varied projects.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/scaler-acquires-appliedroots-for-50-mn-to-strengthen-ai-ml-offerings/",
-      "originalUrl": "https://inc42.com/buzz/scaler-acquires-appliedroots-for-50-mn-to-strengthen-ai-ml-offerings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2022/03/Scaler-social.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/scaler-acquires-appliedroots-for-50-mn-to-strengthen-ai-ml-offerings/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/scaler-acquires-appliedroots-for-50-mn-to-strengthen-ai-ml-offerings/amp/",
-      "publishedDateTime": "2022-03-02T23:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-robots-to-the-rescue-5-tips-to-automate-effectively.md",
-      "title": "Robots to the rescue: 5 tips to automate effectively",
-      "excerpt": "To help fill a need for workers and to improve productivity, companies can automate numerous tasks with RPA software and solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/02/robots-to-the-rescue-5-tips-to-automate-effectively/",
-      "originalUrl": "https://venturebeat.com/2022/03/02/robots-to-the-rescue-5-tips-to-automate-effectively/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1088377394.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/02/robots-to-the-rescue-5-tips-to-automate-effectively/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/robots-to-the-rescue-5-tips-to-automate-effectively/amp/",
-      "publishedDateTime": "2022-03-02T13:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conf
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Here's why prolonged Russia-Ukraine war would be really bad for us, say chip designers"
+    excerpt: "While the top chip and hardware makers may have moved to minimize the impact of Russia's war against Ukraine on their operations, smaller companies are mapping out their worse-case scenarios arising from a prolonged conflict."
+    publishedDateTime: 2022-03-05T00:50:00Z
+    webUrl: "https://www.theregister.com/2022/03/04/chipmakers_ukraine_supplies/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/03/04/chipmakers_ukraine_supplies/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/04/chipmakers_ukraine_supplies/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 66
+    images:
+      - url: "https://regmedia.co.uk/2022/03/04/shutterstock_ukraine_russia.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "How the S&P 500 will react to 3 Russia-Ukraine scenarios, according to UBS's machine-learning model"
     excerpt: "Russia's invasion of Ukraine entered its second week Thursday."
     publishedDateTime: 2022-03-03T17:27:00Z

@@ -60,20 +60,6 @@ related:
         width: 800
         height: 453
         isCached: true
-  - title: "Fraud Prevention Startup nSure.ai Raises $18 Million"
-    excerpt: "Fraud prevention startup nSure.ai has closed an $18 million Series A funding round that brings the total investment in the company to $25.4 million. The funding round was led by MoreTech Ventures and received participation from previous investors DisruptiveAI,"
-    publishedDateTime: 2022-03-02T12:03:00Z
-    webUrl: "https://www.securityweek.com/fraud-prevention-startup-nsureai-raises-18-million"
-    type: article
-    provider:
-      name: Security Week
-      domain: securityweek.com
-    quality: 39
-    images:
-      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
-        width: 256
-        height: 256
-        isCached: true
 
 secured: "NpquyMFjeLj7cAT03RUWMwvtujAeOCwWqqhQ2LnA2PDdbpoIUMvle0+Coq/WbqjUz0oT3pZOKruCs9Ah3WNO4k+oPLhj8BIIl4P/BfjFCw3IU5M/q3NI+ZjU7rsrCsXHnAlQFgdhMfQWgL1YYW+X+VdBWJ6DpPm/f4jX9znxw1C/wGjkt/js5BrlFaAQb0AAGUHaOzBUqhCSMZyXvxQG/y5Nf+2HxM+TCoPERjCH4tkYBZko5r0NTPSHVD48HTevQ2jB/gm1WS4tDV0ainU/fLs0iVlmuJiPRSss8Ax2f1h0le4dSbcsmZbvOXWxsUIvL+cqjwsG2QGVo/A41J8jy7+N1rUaIEmTv6ILTH00j4M/0a6q8UiWiMW7pYX6ThCq1iIlb/GWmd6SWoHex0D7WqkoVJar6DpjbISyARo8kjOiODYAeQTOOBlEVzMCaZMlbc9jmfgtzleGdq/qygmzxPzuuUEhk68noUJj4p2YhYq07xTI+rFrL+KNiUL/rJikwRsokRjEE1WFztvB1shgXg==;Fjn0l53wTpYEHQT58foVxg=="
 ---

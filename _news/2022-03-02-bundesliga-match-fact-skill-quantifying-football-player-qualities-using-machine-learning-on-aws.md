@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fac
 webUrl: "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-skill-quantifying-football-player-qualities-using-machine-learning-on-aws/"
 type: article
 quality: 93
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/28/ML-8448-image011-whitebackground-1260x630.png"
         width: 1260
         height: 630
-        isCached: true
-  - title: "DFL and AWS add Set Piece Threat and Skill Bundesliga Match Facts"
-    excerpt: "Two new Bundesliga Match Facts powered by AWS are about to give fans deeper insights into action on the pitch, with the introduction of Set Piece Threat and Skill analytics."
-    publishedDateTime: 2022-03-02T11:10:00Z
-    webUrl: "https://www.bundesliga.com/en/bundesliga/news/dfl-and-aws-add-set-piece-threat-and-skill-match-facts-19067"
-    ampWebUrl: "https://amp.bundesliga.com/en/bundesliga/news/dfl-and-aws-add-set-piece-threat-and-skill-match-facts-19067"
-    cdnAmpWebUrl: "https://amp-bundesliga-com.cdn.ampproject.org/c/s/amp.bundesliga.com/en/bundesliga/news/dfl-and-aws-add-set-piece-threat-and-skill-match-facts-19067"
-    type: article
-    provider:
-      name: Bundesliga
-      domain: bundesliga.com
-    quality: 59
-    images:
-      - url: "https://img.bundesliga.com/tachyon/sites/2/2022/03/mbCsDRVi-1920.jpg?crop=0px,0px,1920px,1080px"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "nYI/Wsk0DbHJe29xEtOxVZOiT+joIGYRlegqfQ2kXVamRpceqHAdokYxlfHyduvyBN5jUzbwkUG7ZkBSu6q69584N34mb83he/nRvtZY1wBFughdW20TBDgUc8P/ZCgiLmsd0NIja0QVkLtMESsJWpQt3WIKYWHCUN/RET+pq82B+ygrtLnwmIyx9e41Wg/1bm4DxU/RzYY3PO7XEEOTjqXuL5MrcLzBiDsXUqgObFIZiKLRNsV79Wb/cyEnjw9cJe+BJCNwNRgI06NvokuUBnDzaqERLv7XM+QIsR2WhDfDmH0a4xxRWARFxIZrW6HhuNlPNM+NVDlGKpV1y2tokis5ujhDcWdneSd/zC2cqdc=;MEe3HdFDkiM6PxGtVpGzuw=="

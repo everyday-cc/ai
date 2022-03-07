@@ -46,6 +46,22 @@ related:
         width: 799
         height: 532
         isCached: true
+  - title: "Here's why prolonged Russia-Ukraine war would be really bad for us, say chip designers"
+    excerpt: "While the top chip and hardware makers may have moved to minimize the impact of Russia's war against Ukraine on their operations, smaller companies are mapping out their worse-case scenarios arising from a prolonged conflict."
+    publishedDateTime: 2022-03-05T00:50:00Z
+    webUrl: "https://www.theregister.com/2022/03/04/chipmakers_ukraine_supplies/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/03/04/chipmakers_ukraine_supplies/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/04/chipmakers_ukraine_supplies/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 66
+    images:
+      - url: "https://regmedia.co.uk/2022/03/04/shutterstock_ukraine_russia.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "pxpYUf3mWN79oh+1pUJNrRGiuFFLIt+G7Ej++TQeMst7pa/ojZf0++rBQBqDJICDuTqcaxW6yW1cxBEXkaZmuDvXcJUKRQZrRlTF6VLmvzaGmQtPnMhtvwKH2724aoEYTBjtVy9Zu0Ne0ZVkyFa5808Ixty3hv2vcWemwB0SHeSZM3PteCxTJpJ5TodMmNbBUXbSa1kzGuNpSyPpd3K45X/+CM12XUaRl2QpbZEYeAuyb8a00qSLrosSPeMWMiUYKJUDXv1i+3JLuYSMjtIQ6NZ0EGK4G7lACfVFmCow5aopeYXIdE7BhozzMiaBjyQ/fPj+vUWlcjN+187ye2n0hFnambYCD1rPX8Q6F1mkOjCYAPMDd/xraiisYxst7WrvfpmiAROEyxKkGqvvUGgV/UTwxEe3grz/QZyrTtJnaf+QEJfPnT0LLjqh/YiQ2u3AIiiqaisIsE3o1TpTiTbgJwyTxq9KbpnM7JtPEHxq8gnWAaQPD5G77G2hOW/aEe81QKe3O5Eu9lQdojFUtjyeHw==;zJsHqSNyYSIygs/wEXlRDg=="
 ---

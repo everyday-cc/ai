@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.wbur.org/onpoint/2022/03/03/first-person-behind-the-whee
 cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: WBUR
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla CEO Elon Musk Says Self-Driving Cars Could Cause Heavy Traffic"
+    excerpt: "Taking to his Twitter account recently, Tesla CEO Elon Musk has admitted that self-driving cars are likely to make traffic worse."
+    publishedDateTime: 2022-03-07T03:58:00Z
+    webUrl: "https://www.gizchina.com/2022/03/06/tesla-ceo-elon-musk-says-self-driving-cars-could-cause-heavy-traffic/"
+    ampWebUrl: "https://www.gizchina.com/2022/03/06/tesla-ceo-elon-musk-says-self-driving-cars-could-cause-heavy-traffic/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/03/06/tesla-ceo-elon-musk-says-self-driving-cars-could-cause-heavy-traffic/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/05/Elon-Musk-1-1024x640.jpg"
+        width: 1024
+        height: 640
+        isCached: true
   - title: "Tesla and the ethics of self-driving cars"
     excerpt: "Self-driving technology has come a long way in recent years, but it remains far from perfect. And that's partially because of decisions made -- not by the cars -- but by programmers."
     publishedDateTime: 2022-03-03T14:00:00Z

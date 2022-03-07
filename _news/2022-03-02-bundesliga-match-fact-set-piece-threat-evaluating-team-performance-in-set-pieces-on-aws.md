@@ -43,22 +43,6 @@ related:
         width: 1260
         height: 437
         isCached: true
-  - title: "DFL and AWS add Set Piece Threat and Skill Bundesliga Match Facts"
-    excerpt: "Two new Bundesliga Match Facts powered by AWS are about to give fans deeper insights into action on the pitch, with the introduction of Set Piece Threat and Skill analytics."
-    publishedDateTime: 2022-03-02T11:10:00Z
-    webUrl: "https://www.bundesliga.com/en/bundesliga/news/dfl-and-aws-add-set-piece-threat-and-skill-match-facts-19067"
-    ampWebUrl: "https://amp.bundesliga.com/en/bundesliga/news/dfl-and-aws-add-set-piece-threat-and-skill-match-facts-19067"
-    cdnAmpWebUrl: "https://amp-bundesliga-com.cdn.ampproject.org/c/s/amp.bundesliga.com/en/bundesliga/news/dfl-and-aws-add-set-piece-threat-and-skill-match-facts-19067"
-    type: article
-    provider:
-      name: Bundesliga
-      domain: bundesliga.com
-    quality: 59
-    images:
-      - url: "https://img.bundesliga.com/tachyon/sites/2/2022/03/mbCsDRVi-1920.jpg?crop=0px,0px,1920px,1080px"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "b56IYWRUjPedRkK22R6/dbJfuOzC67Vl7KeUvPmchqYOg2c1B2YpCYh3As+6UsKrZkHB0sNFJkH/T558w9UKERM3NUYUB+9R39kLb+fJZLGm7MwD+duRRCwnaE1UPH/AxcMsrpbPtgBmaSjVqPAMXISmeqok7TDr73/o7KIOPCslm8qf+eD233yCTHWkIt9cRvUL41wFLIkG+Oy+j42rlUaCvT6PBwOrT7SHk/zyy7Bi00vwnhXUl9b1aLomERMmdZlbMfRddT2R+ZzV6oaCt4iDFwGuDvrqDNF/KuM3ueag0jWDgQH6Oh1CjsU7BRnJQQXybJT46LokJXI9YtF7kP5++jyPBsqlxrW+WdIRKoo=;Ws0GnCpzZgxkAeRKCAVePw=="
 ---

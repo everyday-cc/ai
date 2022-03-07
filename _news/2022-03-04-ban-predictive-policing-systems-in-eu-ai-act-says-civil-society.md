@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 598
         isCached: true
-  - title: "KX Insights to power Microsoft Azure customers with real-time analytics"
-    excerpt: "FD Technologies has announced a strategic partnership with Microsoft, to expand the reach of KX Insights to Azure customers"
-    publishedDateTime: 2022-03-02T12:24:00Z
-    webUrl: "https://www.information-age.com/kx-insights-to-power-microsoft-azure-customers-with-real-time-analytics-123498878/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 54
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2022/03/kx-insights-to-power-microsoft-azure-customers-with-real-time-analytics.jpeg.optimal.jpeg"
-        width: 1080
-        height: 486
-        isCached: true
   - title: "Vijay Mehra EQT Discusses How Analytics and AI Contribute to Finding Undervalued Real Estate Investments"
     excerpt: "Its no secret that data and analytics are playing an increasingly important role in the world of real estate. By harnessing the power of big data, investors and analysts can make better decisions about where to"
     publishedDateTime: 2022-03-05T13:50:00Z

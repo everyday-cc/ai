@@ -71,17 +71,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "The IRS dropped ID.me’s facial recognition tech after backlash. WA is rolling it out in June"
-    excerpt: "The IRS backed off a plan to require taxpayers to record a video of their faces to access records. Now, Washington is rolling out the tech for its unemployment system."
-    publishedDateTime: 2022-03-02T13:00:00Z
-    webUrl: "https://seattletimes.com/business/the-irs-dropped-id-mes-facial-recognition-tech-after-backlash-wa-is-rolling-it-out-in-june/"
-    ampWebUrl: "https://www.seattletimes.com/business/the-irs-dropped-id-mes-facial-recognition-tech-after-backlash-wa-is-rolling-it-out-in-june/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/the-irs-dropped-id-mes-facial-recognition-tech-after-backlash-wa-is-rolling-it-out-in-june/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 28
 
 secured: "3qm5S+wHAT/8geV6Mp0jU8AmBDVD/xpNYVknKddrH9a0XK/RPf/VwhJ9BPy4DUl8tjBnn8x8PCe0FEy879HJMbUuvY424rzKAyH2RNW3wSpLjm6S6T3ihp2jddjtemg+rcQizbK4+LJQJ3WDwQKebtHSJbwNnrTu3QDei5kYfCXUKJD8lZHXz/sSVWyaieVf/KJV9I2kV63EpMQ4lDxYGRu+vjHo0oXfRp8gokIV3h2FiXQnA6zEQzQtiDpCoMyrGlxernumMNvpFEgAegEFjBc6QfndXg167GdVAR5+nBWWj3IA/gc6CMfKcIjYwMYD2vCcBv+0V1O8mOtKr6X/htxqnJCAB844APPqGouk5f5sWj9vcPUd2WTpTcPbOjaOmmw0+FG2zq2VGj/4Tzqx11dJV0UpA0q+auIZUQg/ylyxWL6EHpXEvpMZFlEeP1YvmV0HiEk4pgaGPEI8DiCrqmTNdNbCR9RATFDfA4gQZWCU+Ruasiy4Ujovw2GT98WcY1wWCG+NgjVidXjTUOp4Sg==;ALv8Iiczl077v6zm/TIJdA=="
 ---

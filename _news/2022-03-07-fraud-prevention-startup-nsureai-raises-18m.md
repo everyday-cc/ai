@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-07T01:06:00Z
 originalUrl: "https://www.thefastmode.com/investments-and-expansions/23428-fraud-prevention-startup-nsure-ai-raises-18m"
 webUrl: "https://www.thefastmode.com/investments-and-expansions/23428-fraud-prevention-startup-nsure-ai-raises-18m"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.thefastmode.com/media/k2/items/src/a35666e4ba9779f54f180f638490c208.jpg?t=20220307_005420"

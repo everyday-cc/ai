@@ -24,34 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning innovation among power industry companies has dropped off in the last year"
-    excerpt: "Research and innovation in machine learning in the power industry operations and technologies sector has declined in the last year."
-    publishedDateTime: 2022-03-02T13:00:00Z
-    webUrl: "https://www.power-technology.com/features/machine-learning-innovation-among-power-industry-companies-has-dropped-off-in-the-last-year/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 29
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/02/powerpatents0103-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
-  - title: "Machine learning innovation among mining industry companies has dropped off in the last year"
-    excerpt: "Research and innovation in machine learning in the mining industry operations and technologies sector has declined in the last year."
-    publishedDateTime: 2022-03-02T13:00:00Z
-    webUrl: "https://www.mining-technology.com/features/machine-learning-innovation-among-mining-industry-companies-has-dropped-off-in-the-last-year/"
-    type: article
-    provider:
-      name: Mining Technology
-      domain: mining-technology.com
-    quality: 28
-    images:
-      - url: "https://www.mining-technology.com/wp-content/uploads/sites/19/2022/02/miningpatents0103-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
   - title: "How Simple AI Can Enhance The Financial Services Industry"
     excerpt: "In this special guest feature, Kumesh Aroomoogan, Co-founder and CEO of Accern, believes that data is increasingly being used and desired and financial professionals need faster ways to take advantage of it."
     publishedDateTime: 2022-03-04T14:00:00Z

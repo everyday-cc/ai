@@ -42,6 +42,20 @@ related:
         width: 1920
         height: 1285
         isCached: true
+  - title: "Digital Babel Fish: The holy grail of Conversational AI"
+    excerpt: "Babel Fish, the “oddest thing in the universe”, is a species of fish featured in Douglas Adam’s magnum opus, The Hitchhiker’s Guide to Galaxy. The fish, worn as an earpiece, translates all the languages that ever existed instantly."
+    publishedDateTime: 2022-03-07T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/digital-babel-fish-the-holy-grail-of-conversational-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Babel_AIM.jpg"
+        width: 672
+        height: 378
+        isCached: true
 
 secured: "RmhdE+V72tpPvKbMbI7NOmX7qmfKHm0s6gN9Cu+PgF0GsVNO6cuQ41jRdMvMxI6S5lZQWKToMb8yy0pee38l4ws5CKTKn3VacZ424fH6IMrdj9H+mgxPS425+inD/EJKZx2D5i2NvzYvBAl3Z+HyT0p/RemPO7mcIdxaOcVlfJMsxHBRzFtzatqosBCfLWUOwR/HnsZ/Lp+KSStRHiZGzukGs18j8GxyfewKKxfrrjVdNBNJMzpN8ZYhTrFj6WAhg9Cz7ekRsjdeILUuxKR7C1CokPcYNoEbFwc6dpcr8n6NZCSFvdrIONa+cy62Z28OkIHywthPgdrhM3w3+KOLZMiH7MHJldjramd6v8pYUI5nWc4596zkUZDNwKj2ibR+pJvaCr9rR9bUNmPLHFAJFQqyUShiIOFskiEl68WMDvqbdndvjmhyZOwgVAfAlE3pOIKgIj2AWzLc0bgUaEPJvKreJsy/pfdoqeVFvbg2BQHyYTeE9I4TAX3ehxZ0UNUPo6WrPXz2SbALlQMN9Qei0Q==;KxEQgFUBh3rRGdz3dgw6tg=="
 ---

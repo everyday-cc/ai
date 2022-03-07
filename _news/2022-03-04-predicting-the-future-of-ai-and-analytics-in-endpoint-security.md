@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-analytics-in-endpoint-security/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "KX Insights to power Microsoft Azure customers with real-time analytics"
-    excerpt: "FD Technologies has announced a strategic partnership with Microsoft, to expand the reach of KX Insights to Azure customers"
-    publishedDateTime: 2022-03-02T12:24:00Z
-    webUrl: "https://www.information-age.com/kx-insights-to-power-microsoft-azure-customers-with-real-time-analytics-123498878/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 54
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2022/03/kx-insights-to-power-microsoft-azure-customers-with-real-time-analytics.jpeg.optimal.jpeg"
-        width: 1080
-        height: 486
-        isCached: true
   - title: "Ban predictive policing systems in EU AI Act, says civil society"
     excerpt: "“I do not think you can solve this issue by tweaking the technology or trying to find AI to spot bias.” Speaking to the HAJC in October 2021, Karen Yeung – an interdisciplinary professorial fellow in law, ethics and informatics at Birmingham Law ..."
     publishedDateTime: 2022-03-03T17:05:00Z

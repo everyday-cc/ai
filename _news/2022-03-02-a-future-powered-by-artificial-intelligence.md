@@ -38,14 +38,14 @@ related:
         isCached: true
   - title: "How AI-powered tech landed man in jail with scant evidence"
     excerpt: "Williams was jailed last August, accused of killing a young man from the neighborhood who asked him for a ride during a night of unrest over police brutality in May. But the key evidence against Williams didn’t come from an eyewitness or an informant;"
-    publishedDateTime: 2022-03-06T21:48:00Z
-    webUrl: "https://www.ctpost.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
-    ampWebUrl: "https://www.ctpost.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
-    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+    publishedDateTime: 2022-03-06T22:48:00Z
+    webUrl: "https://www.nhregister.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
     type: article
     provider:
-      name: Connecticut Post
-      domain: ctpost.com
+      name: New Haven Register
+      domain: nhregister.com
     quality: 57
     images:
       - url: "https://s.hdnux.com/photos/01/24/41/74/22159127/3/ratio3x2_400.jpg"

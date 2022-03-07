@@ -7,7 +7,7 @@ originalUrl: "https://www.michaelgeist.ca/2022/03/the-urgent-need-for-privacy-re
 webUrl: "https://www.michaelgeist.ca/2022/03/the-urgent-need-for-privacy-reform-my-appearance-before-the-standing-committee-on-access-to-information-privacy-and-ethics/"
 type: article
 quality: 12
-heat: 12
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2047
     height: 1356
     isCached: true
+
+related:
+  - title: "From Artificial Intelligence To Prison Reform: Tuscan Wine Producer Revolutionizing The World"
+    excerpt: "When it comes to wine from Tuscany, no other family holds more importance than the Frescobaldi family, now in their 30th generation of Frescobaldi Toscana that includes eight estates throughout Tuscany,"
+    publishedDateTime: 2022-03-06T17:28:00Z
+    webUrl: "https://www.linkedin.com/pulse/from-artificial-intelligence-prison-reform-tuscan-wine-cathrine-todd"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 26
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEzKQTVvFHGzw/article-cover_image-shrink_720_1280/0/1646587420581?e=1652313600&v=beta&t=UGHdG9c1kHYAlOZQ3mBAvJetSl-ibtdMGYK1w-8CkmQ"
+        width: 405
+        height: 720
+        isCached: true
 
 secured: "p+WjKDgrwsaW/seQ81PvuqBPlZRyme8p/39AtPeH3sqttOPfQCZgp+oa7vTOJxk92cOp9Uv59zJYXlSL7ayTFyUG/Iebzx9sZCgaccepRRH0G3TDX1THARZwJO0dkrE4FoDy3nS4qbE7U0PUi/4DghRO/XfVvlItkpb/sQL0dGGCKPaahk3AQk790O9BXbcKzzFix+UsrgloUuli2AqveVYEzlYbRYiT6cBi0CjkSFY9Rz8+/dzcXjv4dDpC7HWQDjKJwgmdUTMlqNIfRWRtV36fRuZ2j0zMkn6a55OE94RX/AIVLQsKofIkGB743M7knjewzhozIRFrLCSeZN1ZvO4yECqPjkw0IVriMzMzOSl2Tz9WxZHnWnJ2+h8KAPcU/NiBm10DkTpzIV2fEE021+ECAaKBkYMwbOjQZt0QIUIrJpJzObaNW6bv55AJdLt89p7JwXj6P/o7IaAvC/gG0bdSIs4ZxttIrM8e+3nNvPUVYepC2tVfdAUGiO7GhEvVSM19iI81Yk8MJI4zWfs+2g==;bfpF40Vsi0yY1o0FxpjvXw=="
 ---
