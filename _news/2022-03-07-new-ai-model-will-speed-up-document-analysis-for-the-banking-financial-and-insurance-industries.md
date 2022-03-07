@@ -7,7 +7,7 @@ originalUrl: "https://www.lboro.ac.uk/media-centre/press-releases/2022/march/ai-
 webUrl: "https://www.lboro.ac.uk/media-centre/press-releases/2022/march/ai-model-speed-up-document-analysis/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI model may speed up document analysis for the banking, financial and insurance industries"
+    excerpt: "Researchers have developed an AI-based solution that can automatically analyze and extract large amounts of information from computer documents."
+    publishedDateTime: 2022-03-07T15:52:00Z
+    webUrl: "https://techxplore.com/news/2022-03-ai-document-analysis-banking-financial.html"
+    ampWebUrl: "https://techxplore.com/news/2022-03-ai-document-analysis-banking-financial.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ai-document-analysis-banking-financial.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 64
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/new-ai-model-will-spee.jpg"
+        width: 553
+        height: 222
+        isCached: true
   - title: "This 20-year-old made an AI model for the speech impaired and went viral"
     excerpt: "Priyanjali Gupta built an AI model that turns sign language into English in real-time and went viral with it on LinkedIn."
     publishedDateTime: 2022-03-07T06:30:00Z
@@ -53,6 +69,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Solving the problem of complex document processing for insurance companies"
+    excerpt: "Business Reporter brings you news, features and analysis around the critical issues affecting business and management."
+    publishedDateTime: 2022-03-07T09:17:00Z
+    webUrl: "https://www.business-reporter.co.uk/management/solving-the-problem-of-complex-document-processing-for-insurance-companies"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 22
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/008/iStock-8220812201.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Simple AI Can Enhance The Financial Services Industry"
     excerpt: "In this special guest feature, Kumesh Aroomoogan, Co-founder and CEO of Accern, believes that data is increasingly being used and desired and financial professionals need faster ways to take advantage of it."
     publishedDateTime: 2022-03-04T14:00:00Z
@@ -62,6 +92,15 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 17
+  - title: "Financial Services and Technology Industry Leaders back 'Document to Data' AI Startup"
+    excerpt: "IN-D.ai, a leading provider of document and image-processing industry solutions, confirmed that it has closed a seed round of $750K following pre-seed investment of $500K. As per the company, the focus of this round was to get industry leaders,"
+    publishedDateTime: 2022-03-07T18:51:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220307/3916066.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 10
 
 secured: "Y7jAOlLO56zRRrsW9HyhO27NRkmqt85QX5Dp4Cen64QjwhRvBTdeB6Hq5sB8BWHlRRJwVUBY8AlN+Kt7/Uqa6Zl+M3BmH3LRV6rMAyJQZHmcTKohiAEft7qiQHXBLZC0GcoEi71WnD42J/l+hMqOOEHpkgLckQ0M35yOGxDcgm/tgfdUojUR7DI1+6b8TaNfFZd0W18tL3NKtDkBRZCOeM4RwIpIhij0PWcFoV9ACc6E+FZjeUIiRvHDpFr682Y6g50Znyy41EpD6hqBOhdfMDKWrEJqpaAL8EZZ8dmlQIEgsIv7mAe82qqU8Cr30VIAliC7znIJm5rcbZzc94TIKLjYBq4HP+qzR42VMTPsFBE=;UcQo8oBzfM0dfA1+mpOFKg=="
 ---

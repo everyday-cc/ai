@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Autonomous vehicle startup Pony.ai raises new funding on $8.5B valuation"
-    excerpt: "Self-driving car technology startup Pony.ai has raised new funding on a valuation of $8.5 billion, a significant increase in valuation from its last round in February 2021. The amount raised in the Series D round and who participated in the funding were not disclosed."
-    publishedDateTime: 2022-03-07T04:49:00Z
-    webUrl: "https://siliconangle.com/2022/03/06/autonomous-vehicle-startup-pony-ai-raises-new-funding-8-5b-valuation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/01/Pony-car.jpg"
-        width: 825
-        height: 638
-        isCached: true
   - title: "London based AI-generated music tech company raises £11m with plans on global expansion"
     excerpt: "LifeScore, a London based AI music technology company, has announced that it has raised a further £11m in funding as… | Creative | London | International | Funding | Technology | Technology | Business"
     publishedDateTime: 2022-03-07T12:43:00Z

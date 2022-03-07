@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-07T16:01:00Z
 originalUrl: "https://www.quantamagazine.org/in-new-math-proofs-artificial-intelligence-plays-to-win-20220307/"
 webUrl: "https://www.quantamagazine.org/in-new-math-proofs-artificial-intelligence-plays-to-win-20220307/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Math for AI
+  - Google AI
 
 images:
   - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Counterexamle_1200_Social.jpg"

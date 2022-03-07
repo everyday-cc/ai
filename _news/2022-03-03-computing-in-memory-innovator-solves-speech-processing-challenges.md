@@ -26,22 +26,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "Solving the problem of complex document processing for insurance companies"
-    excerpt: "Business Reporter brings you news, features and analysis around the critical issues affecting business and management."
-    publishedDateTime: 2022-03-07T09:17:00Z
-    webUrl: "https://www.business-reporter.co.uk/management/solving-the-problem-of-complex-document-processing-for-insurance-companies"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 22
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/008/iStock-8220812201.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "l+ULVbj/V3+P/SuYelMMuGPuXTQFd6NP8M8RNkqTxj9oVA9rWOB2EjuNjUvTtnI7XkZWsdOD61OEl8f5Sa1fmIAAx9oJYfBG06Oi0ZPjBCVvZ5rpszDTy5afDaXaxH78Q1TPppzb5gYhuRrc/jhtEX4E296jxG8Wpd2splbyMBdblAmhtJWm/l6U/0i06Rpl9U0aVae9DRQJtT5eKHjisM8mAkRb0lKpOlAWUT7t93UG4aSFUyCazw/qHAtPUI//V8EWxr6m5AJzAVTs0fOX47Uem8bd91mwKg/iYSKwm1bGdGqpDpHs4hZlkGVPTdSKsGLGiQpYt8RcCe/nXin0/rlzgWmlbFW5pZYA7ib9CAc=;qslUrnsk99+k0oGAtz4PRQ=="
 ---
 

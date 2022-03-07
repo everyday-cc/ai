@@ -1,29 +1,31 @@
 ---
 category: news
 title: "OpenFive and EdgeCortix Collaborate on an AI Accelerator Custom SoC"
-excerpt: "EdgeCortix and OpenFive today announced they are collaborating to develop and deliver a highly power-efficient and high-performance custom 12nm FinFET SoC that accelerates artificial intelligence processing for real-time edge applications."
-publishedDateTime: 2022-03-07T14:15:00Z
-originalUrl: "https://www.design-reuse.com/news/51553/openfive-edgecortix-ai-accelerator-custom-soc.html"
-webUrl: "https://www.design-reuse.com/news/51553/openfive-edgecortix-ai-accelerator-custom-soc.html"
+excerpt: "EdgeCortix® Inc., the AI-focused fabless semiconductor company that enables best ... high-throughput Interlaken interface IP for chip-to-chip connectivity; 400/800G Ethernet MAC/PCS subsystems, and USB controller IP. OpenFive offers end-to-end expertise ..."
+publishedDateTime: 2022-03-07T13:33:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/03/b26015726/openfive-and-edgecortix-collaborate-on-an-ai-accelerator-custom-soc"
+webUrl: "https://www.benzinga.com/pressreleases/22/03/b26015726/openfive-and-edgecortix-collaborate-on-an-ai-accelerator-custom-soc"
+ampWebUrl: "https://www.benzinga.com/amp/content/26015726"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26015726"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Design-Reuse
-  domain: design-reuse.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.design-reuse.com/news_img2/homepage51553/openfiveb.jpg"
-    width: 1134
-    height: 646
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "73NLMgYRA7Py5b7aaVSzFgH0UTLYT4Sk9o93irXBoQOdt2x2N2gQrkhMOnxqmsDBGYvmCYq0+UiFSNF5phBHz/Xp0UKRawW39zyn956TqJAZcL2XUZAYnGyMUINV2qroBi7763FlAyikx2tSLoqtSOZwffmHKZ+UgRdxBS3dkLE9IMJoQK+RCTh9kTdX78/rGK8USJ5/lWQNzldd94jwjGO1XDSXmC9LIa35Xp/avHUHueurfFW75MpkYNbxR/O8mErhnjNpOWnIpwdsY+XIGa7+BOfhw3mZXINkN3h1tDc+PVz7n36TdWM2j0sT0kE3iCVtCpVp0Ash/plKDY2Nav70GLw5xH/4V6ZEVyyhpgo=;utsxZxqS9/BzyHlmpaVuNw=="
+secured: "l7f3gTTICTNMjfQufXVzwGT2kGpDyjX8gW0h6Ic219+5jKrUNCUvaU1/i809kPpRm19Yr77lMcQarY4UQmL2fFsbWMWSJfU6YenCks/xGrtg7QNRCcxhHp+fqL32yMinXkgEvC7DJiiH9uB8l5pO9Cmjq4M0f5JH0mMQl+wkXhYDecDq2xsZeeFaH1+6XnnufPI57Zx86/ISeHECBvkJIfEwXkrZmJrQCsCf2CCeQTiwhQ1WZsuP12jIutW5nVkFaVcqmB5/qca0MhgDcJmzN9xAb+oimwTd6UU+u2L5PJijls+Fhbb4TNNHRDCoEX9U8Sk5RzVAo4gw9nQVMwf2AcNZ3ZJDU4xbKhZ+EBtEJFM=;e1XkYxDbTIUYJGGyJ8SUjQ=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-07T14:11:00Z
 originalUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.21.0458"
 webUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.21.0458"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://s3.amazonaws.com/production-nejm-nav-images/3Kplus-woman_photo.jpg"

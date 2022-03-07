@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healt
 webUrl: "https://www.cedars-sinai.org/newsroom/cedars-sinai-establishes-new-division-artificial--intelligence-in-medicine/"
 type: article
 quality: 157
-heat: 258
+heat: 248
 published: true
 
 provider:
@@ -155,15 +155,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Sonata Software named Microsoft Azure Expert Managed Service Provider"
-    excerpt: "Sonata Software, a global IT Services and Technology Solutions Company, today announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP), in recognition of its demonstrated expertise in providing world-class solutions on Microsoft Azure."
-    publishedDateTime: 2022-03-03T02:23:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220302/3914041.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
 
 secured: "Rl2F8HGxo3A9X4oXoNxR/gkEIbMX3XaO4nDZjJUaUqW5+SeDFF2q3PCh6JNqlJiCfaW40gmLESlGjitrSVWyKwFzqe31Ab/q9zlsUS0JKDvtmLPZeiQGgw1cyYGiB4yuU/qNQQsr/DLvNdM3otibGVX0hgN07NNv8W4nEKRvKLZxBDFZ4Rp3ThQ/KxyhqkaxkmdN5VJrp7TdTPHRSHvHnXIJzCL1Xx2zyNsHoixMX8NRarMou+6ZQMjdEQTkdAjtNYP0ykEtw/kDw70ISKEKPCfNNYiLA3LimD65AVKmZVWyhenj6wQO44+V1auvkJ1i+aSnkDKOfdYYPj+fcghNx1wMtMmWMHuhqTqQ059oHgRiRsYlZN+xkBMYzcCtoPou;TbmWAFIvflS+dLiQ9BrICQ=="
 ---

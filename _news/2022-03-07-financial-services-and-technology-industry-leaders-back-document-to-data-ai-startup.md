@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI model may speed up document analysis for the banking, financial and insurance industries"
+    excerpt: "Researchers have developed an AI-based solution that can automatically analyze and extract large amounts of information from computer documents."
+    publishedDateTime: 2022-03-07T15:52:00Z
+    webUrl: "https://techxplore.com/news/2022-03-ai-document-analysis-banking-financial.html"
+    ampWebUrl: "https://techxplore.com/news/2022-03-ai-document-analysis-banking-financial.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ai-document-analysis-banking-financial.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 64
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/new-ai-model-will-spee.jpg"
+        width: 553
+        height: 222
+        isCached: true
   - title: "New AI model will speed up document analysis for the banking, financial and insurance industries"
     excerpt: "Researchers have developed an AI-based solution which can automatically analyse and extract large amounts of information from computer documents."
     publishedDateTime: 2022-03-07T11:06:00Z
@@ -52,6 +68,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Solving the problem of complex document processing for insurance companies"
+    excerpt: "Business Reporter brings you news, features and analysis around the critical issues affecting business and management."
+    publishedDateTime: 2022-03-07T09:17:00Z
+    webUrl: "https://www.business-reporter.co.uk/management/solving-the-problem-of-complex-document-processing-for-insurance-companies"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 22
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/008/iStock-8220812201.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Simple AI Can Enhance The Financial Services Industry"
     excerpt: "In this special guest feature, Kumesh Aroomoogan, Co-founder and CEO of Accern, believes that data is increasingly being used and desired and financial professionals need faster ways to take advantage of it."
     publishedDateTime: 2022-03-04T14:00:00Z
@@ -61,6 +91,15 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 17
+  - title: "Financial Services and Technology Industry Leaders back 'Document to Data' AI Startup"
+    excerpt: "IN-D.ai, a leading provider of document and image-processing industry solutions, confirmed that it has closed a seed round of $750K following pre-seed investment of $500K. As per the company, the focus of this round was to get industry leaders,"
+    publishedDateTime: 2022-03-07T18:51:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220307/3916066.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 10
 
 secured: "TY95GOMsqdLUC6TaC4TShNJvp5RReqlX2B4T9o8ca7xYXRfzQn5k4fCs1yak0B65Dq3yXtXpSJz9HW0czO3cEnehZQ5cDcLjN32VKiBUS6z9XaUXVmiOFLInat/DkIPRdarl3HzyFLg9va/VRuR1p5bU0w6KOKkQOZSiPel6Zg7ZOddyaVBdLUJ0arZQE6tcr/yEWi325PqOc7RDy/wysLEUXLafWUvV9R9IFhHJ6rJbSpSeTpHhLD8GnIYCDTU5HUnWo4wzVD8of3EhzZyN/V6rtqSiODaUKaYE6iD8oY/mKTAPTjdflgmbL2GPRZGUnh0q+5ei9XbT1euX3bYpwk5cDiSgLHaVfG3IL3NMjCs=;MtkO6GLcqGJGJk9lOxlVzw=="
 ---

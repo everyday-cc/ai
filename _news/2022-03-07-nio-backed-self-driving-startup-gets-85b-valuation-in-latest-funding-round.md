@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26011655"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26011655"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese Self-Driving Unicorn Pony.ai Closes Latest Funding Round; Value Jumps to USD8.5 Billion"
-    excerpt: "Pony.ai has wrapped up its latest round of fundraising, boosting its market valuation to USD8.5 billion, the Chinese self-driving technology developer backed by Toyota Motor said today. This is a 65 percent jump from its previous valuation after the Series-C round in February 2021,"
-    publishedDateTime: 2022-03-07T06:12:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinese-self-driving-unicorn-ponyai-closes-latest-funding-round-value-jumps-to-usd85-billion"
+  - title: "Robotaxi startup Pony.ai now valued at $8.5B"
+    excerpt: "China- and U.S.-based Pony.ai said Monday its valuation has surged to $8.5 billion after the first close of its Series D funding round, a sign that investors continue to chase a space where mass deployment of autonomous fleets are still years away."
+    publishedDateTime: 2022-03-07T09:37:00Z
+    webUrl: "https://techcrunch.com/2022/03/07/robotaxi-startup-pony-ai-now-valued-at-8-5b/"
+    ampWebUrl: "https://techcrunch.com/2022/03/07/robotaxi-startup-pony-ai-now-valued-at-8-5b/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/07/robotaxi-startup-pony-ai-now-valued-at-8-5b/amp/"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/01/55351642042261_.pic_.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Autonomous vehicle startup Pony.ai raises new funding on $8.5B valuation"
+    excerpt: "Self-driving car technology startup Pony.ai has raised new funding on a valuation of $8.5 billion, a significant increase in valuation from its last round in February 2021. The amount raised in the Series D round and who participated in the funding were not disclosed."
+    publishedDateTime: 2022-03-07T04:49:00Z
+    webUrl: "https://siliconangle.com/2022/03/06/autonomous-vehicle-startup-pony-ai-raises-new-funding-8-5b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/01/Pony-car.jpg"
+        width: 825
+        height: 638
+        isCached: true
+  - title: "Pony.ai Announces First Close of Series D Financing Round, With a Valuation of $8.5 Billion"
+    excerpt: "Pony.ai, a leading global autonomous driving technology company, announced that it has completed its first close of its Series D financing. The Series D round, which has a significant valuation uplift from the 2020 “C” and “C+” rounds,"
+    publishedDateTime: 2022-03-07T03:41:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-3d9eac0b9b9140aca1a45efb1bb91bc7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
     quality: 27
     images:
-      - url: "http://img.yicaiglobal.com/cdn/news/chinese-self-driving-unicorn-ponyai-closes-latest-funding-round-value-jumps-to-usd85-billion/5772962939589.jpg"
-        width: 720
-        height: 480
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "H+MdKRywtXQ7hZ98s+ktC4S2saLrei43+27SHH46R2Ka+HpR70CYi3g7TK+diVha2bij09P13+Y9deWg+quy6vV6zE2FmLwXDirFOuSrxfwLUhx+ngB309uAV4nXk2C3PWi8v7tfAmpgHQ3mm6/W+7Hf8AZxs443e9gXa1bas7XoMFfWeV0ZWHq41sxveAbkL5XBIQWTOj6cT1bXxr5EQOINDhtV21Uncd0t3n7LLPQxWRPCIaN2lS0/Hwfn1pIEBdEEnCMHKBnvYyeIyEMZ+RpPkHOTmDWYhSA8pNu3u8Efz2WxoGLKLwj1mgCOTqGF1cKXf1TrebONoZe/eQ8Kjci098AWBZJta3qCWdnC2mQ=;EHBP3zRsZOSSuY+YCvQrwg=="

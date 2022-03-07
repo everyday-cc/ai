@@ -9,8 +9,8 @@ ampWebUrl: "https://www.timesofisrael.com/us-chip-giant-nvidia-acquires-israeli-
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/us-chip-giant-nvidia-acquires-israeli-data-storage-company-excelero/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Times of Israel
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia buys Excelero to speed GPU cluster block data access"
+    excerpt: "GPU giant Nvidia is buying NVMe block data access software specialist Excelero for an undisclosed amount. This acquisition first reared its head as a possibility last month. Now the two firms have agreed a deal in which Excelero’s IP and most of its staff – including co-founders CEO Yaniv Romem,"
+    publishedDateTime: 2022-03-07T15:36:00Z
+    webUrl: "https://blocksandfiles.com/2022/03/07/nvidia-buys-excelero-to-speed-gpu-cluster-block-data-access/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 39
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2022/03/a100gpu.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Nvidia Acquires Israeli Startup Excelero For Its Block Storage Expertise"
     excerpt: "The acquisition of Excelero will enrich Nvidia Israel’s R&D expertise with a new software-defined storage team."
     publishedDateTime: 2022-03-07T14:20:00Z

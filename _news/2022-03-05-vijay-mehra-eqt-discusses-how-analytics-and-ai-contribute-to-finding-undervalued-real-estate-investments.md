@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 598
         isCached: true
+  - title: "Harnessing AI and robotics to treat spinal cord injuries"
+    excerpt: "A study published in Advanced Healthcare Materials, details one team's ground-breaking stabilization of the enzyme Chondroitinase ABC, (ChABC) offering new hope for patients coping with spinal cord injuries."
+    publishedDateTime: 2022-03-07T15:55:00Z
+    webUrl: "https://techxplore.com/news/2022-03-harnessing-ai-robotics-spinal-cord.html"
+    ampWebUrl: "https://techxplore.com/news/2022-03-harnessing-ai-robotics-spinal-cord.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-harnessing-ai-robotics-spinal-cord.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 91
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/rutgers-researchers-ha.jpg"
+        width: 2880
+        height: 4073
+        isCached: true
   - title: "Ban predictive policing systems in EU AI Act, says civil society"
     excerpt: "“I do not think you can solve this issue by tweaking the technology or trying to find AI to spot bias.” Speaking to the HAJC in October 2021, Karen Yeung – an interdisciplinary professorial fellow in law, ethics and informatics at Birmingham Law ..."
     publishedDateTime: 2022-03-03T17:05:00Z

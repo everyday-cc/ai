@@ -24,33 +24,51 @@ images:
     isCached: true
 
 related:
-  - title: "Speech recognition startup raises $400,000 for next-generation transcription technology"
-    excerpt: "London-based AI startup Alchemy Machines has raised $400,000 in pre-seed funding. The round was led by SFC Capital and saw the participation of Innovate UK. The new funds will support further development of the platform and expansion of the team."
-    publishedDateTime: 2022-03-03T14:20:00Z
-    webUrl: "https://tech.eu/2022/03/03/speech-recognition-startup-raises-400000-for-next-generation-transcription-technology"
+  - title: "Robotaxi startup Pony.ai now valued at $8.5B"
+    excerpt: "China- and U.S.-based Pony.ai said Monday its valuation has surged to $8.5 billion after the first close of its Series D funding round, a sign that investors continue to chase a space where mass deployment of autonomous fleets are still years away."
+    publishedDateTime: 2022-03-07T09:37:00Z
+    webUrl: "https://techcrunch.com/2022/03/07/robotaxi-startup-pony-ai-now-valued-at-8-5b/"
+    ampWebUrl: "https://techcrunch.com/2022/03/07/robotaxi-startup-pony-ai-now-valued-at-8-5b/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/07/robotaxi-startup-pony-ai-now-valued-at-8-5b/amp/"
     type: article
     provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 46
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://cdn.tech.eu/uploads/2022/03/untitled-design-96-861.png"
-        width: 1920
-        height: 1080
+      - url: "https://techcrunch.com/wp-content/uploads/2022/01/55351642042261_.pic_.jpg?w=1024"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "London based AI-generated music tech company raises £11m with plans on global expansion"
-    excerpt: "LifeScore, a London based AI music technology company, has announced that it has raised a further £11m in funding as… | Creative | London | International | Funding | Technology | Technology | Business"
-    publishedDateTime: 2022-03-07T12:43:00Z
-    webUrl: "https://bdaily.co.uk/articles/2022/03/07/london-based-ai-generated-music-tech-company-raises-11m-with-plans-on-global-expansion"
+  - title: "Nio-Backed Self-Driving Startup Gets $8.5B Valuation In Latest Funding Round"
+    excerpt: "Autonomous driving startup Pony.ai, backed by Nio Inc (NYSE: NIO) and Toyota Motor Corp (NYSE: TM), said on Monday that it fetched a valuation of $8.5 billion following the first close of a Series D financing round. What Happened: Pony.ai said the latest ..."
+    publishedDateTime: 2022-03-07T12:15:00Z
+    webUrl: "https://www.benzinga.com/markets/asia/22/03/26011655/nio-backed-self-driving-startup-gets-8-5b-valuation-in-latest-funding-round"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26011655"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26011655"
     type: article
     provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 29
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
     images:
-      - url: "https://bdaily.co.uk/images/uploads/3pXo2ZL6QNVmo2wwVFRRg7OEvioJmxePxJaRcpiJ.jpeg?w=940&h=430&fm=jpg&fit=crop-47-41&s=ec68f01cd06a5cb15e58f8f5ea11ed72"
-        width: 940
-        height: 430
+      - url: "https://cdn.benzinga.com/files/images/story/2012/pony.ai_next-generation_autonomous_driving_system_equipped_on_toyota_sienna_autono-maas_s-am_platform_-_1.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Pony.ai Announces First Close of Series D Financing Round, With a Valuation of $8.5 Billion"
+    excerpt: "Pony.ai, a leading global autonomous driving technology company, announced that it has completed its first close of its Series D financing. The Series D round, which has a significant valuation uplift from the 2020 “C” and “C+” rounds,"
+    publishedDateTime: 2022-03-07T03:41:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-3d9eac0b9b9140aca1a45efb1bb91bc7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "gclPO85sDCHdvYNcNaEfuSOU2ebHtfvbgHyPx707TpRJ3oLrdXcTL5GGQjjbDOQBAaJj/WROjnbhXj84mM5TEiYQjE71oW9++HOpi7uLitFH5a0A7dZ2CEWId8ovc4Y2QNu9e/zfVe0OzekhBWroYUVkFI8HfgzPVq+txmxgOxBf+arRlVbncHdrlzLnTuVfef84W1bphIHw0tl7314d4cgL4Tigat03u2TPbA3zl8qF0mNhdtIjYjylqOXKbhVO8rdyNF7MsUmWisV+kkBBm8D5G87t14ZsYKtSEyyE0LZxik9RLnL4KPSa8vKaN3AW6IyDTtIVPE34GE5sWKu124TzFcSpX3iyeeyl2QEMBZQ=;+gNOerM2DbduyFx8FtsRrA=="

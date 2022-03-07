@@ -9,7 +9,7 @@ ampWebUrl: "https://cointelegraph.com/press-releases/smart-finance-announces-off
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning/amp"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.finyear.com/photo/art/grande/62804713-45430662.jpg?v=1642752630"
         width: 1400
         height: 1400
-        isCached: true
-  - title: "Pony.ai Announces First Close of Series D Financing Round, With a Valuation of $8.5 Billion"
-    excerpt: "Pony.ai, a leading global autonomous driving technology company, announced that it has completed its first close of its Series D financing. The Series D round, which has a significant valuation uplift from the 2020 “C” and “C+” rounds,"
-    publishedDateTime: 2022-03-07T03:41:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-3d9eac0b9b9140aca1a45efb1bb91bc7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "uOKwOP4NOpfBBIYg4Asj7QBFNspsP0/RMBCs+qsFTNmgsLR8dlYd2LyvlxHrraiet9w8FmQTD0aIUXPiBYu//YxdJiAgm6YKC5XWdAqL5Rtmx9oeu5oxeQMXMPGfEtgrh4VlIxBQ7ONziw0ZdMR0T3DS3XDbLa7QotfJ73p1zwFqgLIJTn5KZWEyjIZT1MTrjAoISaw6fbSszLeDhU199Hw2hBMxzNA1XaQFekfOmWsVmHGG3i4cuSYsZhc9bNmo27IeaqefoLmY/I/ddI5Id0xaEK2Bt8TmKw0DUq1PM4H63ziDGuhAAJv/dtgHUmYwTLCYlaGEs5S4w5+U86by49mm+o02Q5H7f6KcX5ddRNLgyUxcc/azLJhCYd9qjEHsCg5N7J/BwJHhqgoT40alNOWdthSdjECaMgmSWr51WZShbfxg1++lhpt3ZhTbAqCXJIXSTIiIp1N9v76x9bSx1bQtXs74BOfMJ0z18aAkFizekkzi1A68LSQvlyQrccSPbv2S/if55gqWrM8yRkQSTw==;gMEQ95yz/3oB5AmH7UAEZA=="

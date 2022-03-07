@@ -41,6 +41,20 @@ related:
         width: 640
         height: 400
         isCached: true
+  - title: "Nvidia buys Excelero to speed GPU cluster block data access"
+    excerpt: "GPU giant Nvidia is buying NVMe block data access software specialist Excelero for an undisclosed amount. This acquisition first reared its head as a possibility last month. Now the two firms have agreed a deal in which Excelero’s IP and most of its staff – including co-founders CEO Yaniv Romem,"
+    publishedDateTime: 2022-03-07T15:36:00Z
+    webUrl: "https://blocksandfiles.com/2022/03/07/nvidia-buys-excelero-to-speed-gpu-cluster-block-data-access/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 39
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2022/03/a100gpu.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "J4uHfC1glHgt8Lcmmg6yw+rgH4PeVky88rY5n75Y7uDQGf5Lnb73+ugt2UYoVN9JE6PLoeR1t038HU0jA4IPtSIsont0t2FXh48m7uzowiu+VqT7nDk68AhWYlVGOgbWUC7fjQyjktPfnJq3TBMrj7wpWJwgWoIXf1MVuQ0M5kZar7WfLFTlEJAoagHSLYBvWh7e5EVJYzr3170Dp4yVlGPaNfygqwC3/YjzeIYpVglOQMb5AR7bW7oSBnInpf6kxp6iUaWv9unLXbTE0qz06S7DUblG0zKK9Fk/LKUUzNBJXRJsZXXNlkU5EGyzIGQnyKZIeq1ciVPsyv4fMrKfrKl6GxWg7psDkZwLOlXFUDc=;mJGxoKmgPRygllT6/LIUWQ=="
 ---

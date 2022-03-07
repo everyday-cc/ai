@@ -7,7 +7,7 @@ originalUrl: "https://za.investing.com/news/why-ai-and-robotics-are-the-key-to-t
 webUrl: "https://za.investing.com/news/why-ai-and-robotics-are-the-key-to-true-digital-transformation-2515818"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind Trains AI Agents Capable of Robust Real-time Cultural Transmission Without Human Data"
+    excerpt: "Learning takes many forms in the human context, with environmental and social interactions high on the list. Much of what we regard as human intelligence derives from our ability to learn efficiently from other humans;"
+    publishedDateTime: 2022-03-07T17:37:00Z
+    webUrl: "https://syncedreview.com/2022/03/07/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-218/"
+    ampWebUrl: "https://syncedreview.com/2022/03/07/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-218/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/03/07/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-218/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 62
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
+        isCached: true
   - title: "Memorance AI: digital transformation with learning capabilities"
     excerpt: "How can small and medium enterprises that lack data apply artificial intelligence (AI) to digital transformation and automate their operations? Memorance AI, a startup made it to the list of top 10 teams joining the final round of 2021 Qualcomm Taiwan Innovation Challenge and a silver medal winner of 2021 APICTA awards under the category of \"industrial application V manufacturing and logistics\","
     publishedDateTime: 2022-03-07T01:30:00Z

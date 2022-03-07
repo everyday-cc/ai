@@ -9,7 +9,7 @@ ampWebUrl: "https://www.urotoday.com/conference-highlights/asco-gu-2022/asco-gu-
 cdnAmpWebUrl: "https://www-urotoday-com.cdn.ampproject.org/c/s/www.urotoday.com/conference-highlights/asco-gu-2022/asco-gu-2022-prostate-cancer/135657-asco-gu-2022-artificial-intelligence-as-a-disruptive-technology-in-medicine.amp.html"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "STR 2022: AI-based Lung Disease Diagnosis Sessions Presented"
+    excerpt: "AVIEW, a diagnostic solution, included in the research of world-class scholars- Society of Thoracic Radiology (STR 2022) Abstracts at Las Vegas from March 19th-23rdLAS VEGAS--(BUSINESS WIRE)--#AIDiagnosis--The Society of Thoracic Radiology (STR) will hold the 40th annual meeting and conference at Caesar’s Palace in Las Vegas,"
+    publishedDateTime: 2022-03-07T16:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=627345"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 37
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "zte/X/klICR/y48yyz37NMvwEHLjhackGHuz/bsLwZzaViwZZyQALDsAhJrzmLbrKWEkxhYUFr/1cuG9JVS9+LWBNhWG7eg6K93mwFmIiNU1W8UklIYHoDkaWYU84einqf2YoMKH8O21NdaY/i2LTMw2XvNccbWTYVhiye89vVq7yXFiLXrMJdrlHNN38o+f7/h2XbB7DGJ2+CU20BJ07O0g2wD8bkyhcn5shqXJQr7c/SNeS7/A0qvXVwSSaOIC0f8GpoB5eyuvkLwS4dLO48G4NYlm9kFdhmj11Faf7uIVzNkeG5gJzmtKQTulVCCVs++jJD8vph916fXTAsF+k6/SNHlUo7+5fo4vdbdJdbqTaOzoRITcifdTkIcjRJx3C9PzPwBxmff7sfCdsX5eTEvpEADx/s0BqMVnYe0zX6pxC/Tiq3+c1P6gYts+25+7llQhFICj6tbUPqHVpLFEnnJIbBkyA6Se3PrPTv3pkcK9zVjVcBa5y+XWDt4pI2jZ+DPFS5suRZSx7sEcdDgaGw==;s8GBxufiarTJi68+dTuqag=="
 ---

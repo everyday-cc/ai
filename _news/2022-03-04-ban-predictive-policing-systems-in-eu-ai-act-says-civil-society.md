@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 598
         isCached: true
+  - title: "Harnessing AI and robotics to treat spinal cord injuries"
+    excerpt: "A study published in Advanced Healthcare Materials, details one team's ground-breaking stabilization of the enzyme Chondroitinase ABC, (ChABC) offering new hope for patients coping with spinal cord injuries."
+    publishedDateTime: 2022-03-07T15:55:00Z
+    webUrl: "https://techxplore.com/news/2022-03-harnessing-ai-robotics-spinal-cord.html"
+    ampWebUrl: "https://techxplore.com/news/2022-03-harnessing-ai-robotics-spinal-cord.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-harnessing-ai-robotics-spinal-cord.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 91
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/rutgers-researchers-ha.jpg"
+        width: 2880
+        height: 4073
+        isCached: true
   - title: "Growth Opportunities in API, Analytics, Cloud, O-RAN, and Artificial Intelligence 2021 - AI-Powered Video Security Platform to Offer Human-Like Percep"
     excerpt: "The \"Growth Opportunities in API, Analytics, Cloud, O-RAN, and Artificial Intelligence\" report has been added to ResearchAndMarkets.com's offering. This report provides a snapshot of the emerging ICT led innovations in API,"
     publishedDateTime: 2022-03-07T15:30:00Z

@@ -42,20 +42,6 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "Pony.ai Announces First Close of Series D Financing Round, With a Valuation of $8.5 Billion"
-    excerpt: "Pony.ai, a leading global autonomous driving technology company, announced that it has completed its first close of its Series D financing. The Series D round, which has a significant valuation uplift from the 2020 “C” and “C+” rounds,"
-    publishedDateTime: 2022-03-07T03:41:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-3d9eac0b9b9140aca1a45efb1bb91bc7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "xpfcC9RgLUW6oh0wj2onfZz/fJdEJNB4XdHhcxjnIWHZ+3sLOFdBrHqudfblhc97XlzlrDYbW4z13LifdtcdaU4SHRbM74PE+AkhGKxB0BTxYiF2FaewlzESAT9pTZZyHOYSMDmILMxMmvlGizkRpfvHZxtWfM9kTkGTP0TFLmEBnxLBCEnQXSle57+zK+6SlL6XyRjh7ak7AU29Z0d8rC21WHa8CZJfCBTHWTCdhKgAKve6Em5xqaUxsmXEJ2ftjhd8uZBrJ7lUBbceMQu4iCq+bbiZn5psrKbvs/uNM5h84eFi5fcKGh7fEhOee6cCTVHcVMl9NhU2rPZG9J9gyDiwv7nE8JLF/Y9VpiNNj3Q=;t9DCzhSWIUCkZ/cLbzf6og=="
 ---

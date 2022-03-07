@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-03-qualcomm-embeds-artificial-intel
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-qualcomm-embeds-artificial-intelligence-latest.amp"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Qualcomm embeds artificial intelligence into latest 5G processor to boost speeds and signal coverage"
-    excerpt: "At Mobile World Congress, San Diego wireless technology firm looks to the next phase of 5G, which expands use cases beyond smartphones"
-    publishedDateTime: 2022-03-03T02:17:00Z
-    webUrl: "https://www.sandiegouniontribune.com/business/story/2022-03-02/qualcomm-revs-up-5g-processors-for-cars-smartphones-and-home-internet-service-at-mwc"
-    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2022-03-02/qualcomm-revs-up-5g-processors-for-cars-smartphones-and-home-internet-service-at-mwc?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-03-02/qualcomm-revs-up-5g-processors-for-cars-smartphones-and-home-internet-service-at-mwc?_amp=true"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 42
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/ce7fa9b/2147483647/strip/true/crop/4505x3013+0+102/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fzbk%2Fdamlat_images%2FLA%2FLA_PHOTO_SELECTS%2F2018_12%2F3067518_sd_fi_viasat_campusexpand_02.JPG"
-        width: 320
-        height: 214
-        isCached: true
 
 secured: "HTRrXWa37+owIdVeDYzOXJETo7bG8TPnIVeM5WNOX6catx1+6C4WHpJb6AZ51a73cyDb8V+TDL4rhpPm60y5KrsI+aislxuC3cUsdGLLfvC2UtqDOC68FhkyIn/nQ5ntXp7csrMld/tL8ezRFbcfJCOjMOS5QtR/ECWK2ymfOV4eVD/BcGkgbY1l0vN71LYfa29ngGkmoKpt9JcISrGT7Z8idCNwYtte7uRrNAQQCA6l90vgdfDv17O+3Y8MySSm351/1jJXYxxOB2xq/l5MN1rz6ToB0bAixdFu0AQnNizcCc9pPee1SQnYes460uFeiGkwF0H5HMoTMQ5vrnxV8PnkKcGI6AuwhFFGFJWUrWpus2/p4A38i4wsvUhKqrxRHb7Vb29KLuEGgjIgCYBSADClqIPJFJtvEmzZ1Mkl8QEcdCvKEVY9LqUfG3W7nmPtX8wFWYx0JrKegGWqBPvzn6GqMNhICJr5vzomVGYyuQZ++M07tzzSNlmmSJ71QGyghC9nRXLn76n9ErfWeBIJNA==;dG0Vm0WIzm3pTtLMGMhBOw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/brazilian-civil-rights-orga
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway/"
 type: article
 quality: 60
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: ZDNet
@@ -23,6 +23,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Brazilian subway operator pushing facial recognition despite sustained protests"
+    excerpt: "Use of facial recognition systems in the subways of Sao Paulo are being challenged by civil rights organizations and the state's public defender's office."
+    publishedDateTime: 2022-03-07T16:08:00Z
+    webUrl: "https://www.biometricupdate.com/202203/brazilian-subway-operator-pushing-facial-recognition-despite-sustained-protests"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 50
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
+        width: 1600
+        height: 1109
+        isCached: true
 
 secured: "MhAS4LlHFrpPe9//MtIMbx0EvgEq2tTjmVW4MN8f0QGzPEqnelimyQMXuCF2LeDHl0QBQBZDK9X5psLw+xyG126xFxhO+0JzIswA+SRBtVU0A6UcEC3MfqpnAozvppH3pQnhuV2l2EWcPGTuSM/hkNUv2HEzqijJQvwGwqHX3hXRrHjoN7EY51VLj15E+B/Pr3cCHgmfNZaY4gctuWDZz2S3M6V/7PJgTutlfRBAU3p1etrEmMIvwv8wJl6c0QOtDb+ufMj4DvlmI7OauIpVYMgqWReYlzULnX5J4FbJSjPObhnd7/uCVP3jKiHos2ITNieOZ/jVuQagT6/SFsUSPjvlp14KLNXGhnDmHrrM3Nc=;4g6kB+n67CTkwb6REyaMlg=="
 ---
