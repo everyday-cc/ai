@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Machine learning: Roche is top clinical trial operations innovator in Q4"
-    excerpt: "Yet, research and innovation in machine learning in the clinical trial operations sector has declined in the last year."
-    publishedDateTime: 2022-03-02T11:00:00Z
-    webUrl: "https://www.clinicaltrialsarena.com/dashboards/patents/machine-learning-roche-is-top-clinical-trial-operations-innovator-in-q4/"
-    type: article
-    provider:
-      name: Clinical Trials Arena
-      domain: clinicaltrialsarena.com
-    quality: 38
-    images:
-      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2022/02/Untitled-2-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
   - title: "Deep Learning: It's Not Too Good to Be True - It's Genuine Progress"
     excerpt: "Deep learning has come on leaps and bounds in recent years and is fast-tracked to becoming one of the most revolutionary technologies in cybersecurity. As a subset of artificial intelligence (AI), deep learning is often confused with associated technologies like machine learning (ML)."
     publishedDateTime: 2022-03-03T16:30:00Z

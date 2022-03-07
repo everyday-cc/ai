@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/ceros-fin
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/ceros-financial-services-arranges-15-million-financing-for-pristine-surgical/article_6e305115-750c-5b7b-8923-673b9713e5cc.html"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "Why AI is critical to seeing the real world behind financial services data"
-    excerpt: "Dan Onions, global head of data management, Quantexa, explains why AI is key to seeing the real world behind financial services data"
-    publishedDateTime: 2022-03-02T10:31:00Z
-    webUrl: "https://www.information-age.com/why-ai-critical-to-seeing-real-world-behind-financial-services-data-123498874/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 35
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2022/03/why-ai-critical-to-seeing-real-world-behind-financial-services-data.jpeg.optimal.jpeg"
-        width: 1080
-        height: 607
-        isCached: true
 
 secured: "lTTigfylrv/hJXSXbT/TeLPDCVQ/YeA9R/tDs3rH4f4s9hcE/G3TjWNmIGL3kVOCVAkviL8Nq7SUaXNqgR7blZ5QhAV1ZJFkv+wMj6329QwMDxM31W9sKvgfhDw56xkpoQXyofPTCTvH1BZul7TJjB0KnHZ4YJ5H5K+2f68CzEdty5XRTtW/xeLQBwd9Ge606JCOxHzIATtRYsgkU3T4rlelsCTDwUSl+3jVNC64iVoixnW2GNSxrJxnZ72svP/c7j4lQ2tVrOo98k3Kl5q8/PDpSobflNTWktszYRD6nREhUEDQJOsRNbd8O+f1B/oWF1lTwf3HHnDs3+MAh6BWfs8yR8vHhzl4biVdIZJn/T4D1wU9iMgzHGi63nZV+q5XpzWGR2tJmhOmNiuq12TUd427nLftJlKI9wdXCH+P6vx9+ChzJQgPePcLuAnjtbsCEMiROP7bCiSWy1ilkMQ34p11KcgFXJUttwtyT9diWLPJPM68C26B5hCguQyKIrepC9lDx6TrUvL1oYGARQRh5w==;cRc3NV1V5CKa1Fj/i4vtgA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-03-humans-robots.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-humans-robots.amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://robohub.org/wp-content/uploads/2022/03/MIT-Human-Learning-01-press_0-425x283.jpg"
         width: 425
         height: 283
-        isCached: true
-  - title: "How To Help Humans Understand Robots – To Collaborate Faster and More Effectively"
-    excerpt: "Theories from cognitive science and psychology could help humans learn to collaborate with robots faster and more effectively, scientists find. Scientists who study human-robot interaction often focus on understanding human intentions from a robot’s perspective,"
-    publishedDateTime: 2022-03-02T10:40:00Z
-    webUrl: "https://scitechdaily.com/how-to-help-humans-understand-robots-to-collaborate-faster-and-more-effectively/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 34
-    images:
-      - url: "https://scitechdaily.com/images/Human-Robot-Interaction.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "How to help humans understand robots"
     excerpt: "Researchers from MIT and Harvard suggest that applying theories from cognitive science and educational psychology to the area of human-robot interaction can help humans build more accurate mental models of their robot collaborators,"

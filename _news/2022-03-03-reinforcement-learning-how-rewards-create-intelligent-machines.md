@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/how-rewards-work-in-reinforcement-lear
 webUrl: "https://thenextweb.com/news/how-rewards-work-in-reinforcement-learning-deepmind"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning: Roche is top clinical trial operations innovator in Q4"
-    excerpt: "Yet, research and innovation in machine learning in the clinical trial operations sector has declined in the last year."
-    publishedDateTime: 2022-03-02T11:00:00Z
-    webUrl: "https://www.clinicaltrialsarena.com/dashboards/patents/machine-learning-roche-is-top-clinical-trial-operations-innovator-in-q4/"
-    type: article
-    provider:
-      name: Clinical Trials Arena
-      domain: clinicaltrialsarena.com
-    quality: 38
-    images:
-      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2022/02/Untitled-2-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
   - title: "Koala Creates a Cross-Selling Powerhouse for Restaurant Brands With the Introduction of Machine Learning"
     excerpt: "The new feature is designed to increase check size and guest satisfaction by utilizing machine learning to make tailor-made recommendations for cross-sell suggestions. The brand piloted the new tool with WaBa Grill, the fast-growing Southern California ..."
     publishedDateTime: 2022-03-02T14:18:00Z

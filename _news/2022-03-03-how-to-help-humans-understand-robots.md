@@ -49,20 +49,6 @@ related:
         width: 425
         height: 283
         isCached: true
-  - title: "How To Help Humans Understand Robots – To Collaborate Faster and More Effectively"
-    excerpt: "Theories from cognitive science and psychology could help humans learn to collaborate with robots faster and more effectively, scientists find. Scientists who study human-robot interaction often focus on understanding human intentions from a robot’s perspective,"
-    publishedDateTime: 2022-03-02T10:40:00Z
-    webUrl: "https://scitechdaily.com/how-to-help-humans-understand-robots-to-collaborate-faster-and-more-effectively/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 34
-    images:
-      - url: "https://scitechdaily.com/images/Human-Robot-Interaction.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "I+5dV/dsLJTZMAHugE82cI50owGL/xqPaeG35y5jFXzhIkSsfoKQ9Ejz3ImIcGeK+dgPa1lsKy8K3ZMGykhj2qdLxxplJw24Wh7rGXCoARWjaOroZi4OiZv2vUfHPg/nXGT03nJpfKPbLwsXkjcnFNIUoaVQOVmZGe3MiW8uTSIran7950ZzKrJQJ1i+m34liqlq1YLqaJzImTzgHg+hYjduJJBKpfWBCglMBveuUSfWCTJFFQfY5hmxvasdgfev50kuqe5QoZAkj3DA3UAP/7cJ9WJxw81g524BdljsAecOoVF2c+5q0vRYD9kPQTOGUXcfifqvz5FO8viqAd3Fw3BrUAZj9Ygj+dsB2H45CXY=;AhwG6cACD09K21om9yagPQ=="
 ---

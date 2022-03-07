@@ -45,22 +45,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Global Call Centers Artificial Intelligence (AI) Market Report 2022: Market to Reach $3.5 Billion by 2026 from $1.1 Billion in 2020"
-    excerpt: "The \"Artificial Intelligence (AI) in Call Centers - Global Market Trajectory & Analytics\" report has been added"
-    publishedDateTime: 2022-03-02T09:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/03/g25930031/global-call-centers-artificial-intelligence-ai-market-report-2022-market-to-reach-3-5-billion-by-2"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25930031"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25930031"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "lQ6hHddtGWx3pAz0MXxNZOAgFXZkA3GVtT7zopjmVYqmF5MTvlk3uBwVe/MaKMWrqPm1kv4WxEmBJJpp+mCJYO4EpvflSAY1MpOpuOoVadc7mZ+HWeIwgRywcFf69eUMltBRJtDCfIQgQMIM8M4xbFjFjkMjxhu799BawseQceUFT6lu0WID4a8nAGQMdO5IpcbOZwvqTfa18HZAgPA+CpVi6xuKgNev+3lDXQYnJa4r57gFne0s/NO/FrpyDeDu3b9vb1gCUaMP5FAMopCbHcCFlCqlh20TvM+GGxzdGG7Wp4uAlSqo3ipHSOFAHOLwkSkFAoZeQFHEXdKQrwtRmk6CnXilWjVuXaNGhaQRkjRfzUvWvPtm9gs8lcEKVdvD/h+bjiqo4LJFVtqOu+oKafJffITSehUzAKXlpSTomWr6unWHH3j+G/HDY1hMzZqljZco8YW1Uz9wedXBEjCwLFIZZMKO5FEdWTOjUWkuvJG43E0n6YpWYMRxlUbAsMJMoeebSIF68ZENf4T90DqtYg==;/GzVv1RF+6QRi+xXah/ApA=="
 ---

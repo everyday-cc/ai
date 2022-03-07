@@ -58,22 +58,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Chip geopolitics — A call to ban predictive policing — Building the Metaverse"
-    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
-    publishedDateTime: 2022-03-02T10:00:00Z
-    webUrl: "https://www.politico.eu/newsletter/ai-decoded/chip-geopolitics-a-call-to-ban-predictive-policing-building-the-metaverse-2/"
-    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/chip-geopolitics-a-call-to-ban-predictive-policing-building-the-metaverse-2/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/chip-geopolitics-a-call-to-ban-predictive-policing-building-the-metaverse-2/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 56
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Inworld AI Raises Investment from BITKRAFT Ventures, to Bring AI-Powered Virtual Characters to Metaverse and Games"
     excerpt: "Inworld AI, offering a platform to create AI-powered characters for virtual worlds, including VR/AR, games and metaverse applications, today announced a $10 million strategic funding led by BITKRAFT Ventures,"
     publishedDateTime: 2022-03-04T20:37:00Z

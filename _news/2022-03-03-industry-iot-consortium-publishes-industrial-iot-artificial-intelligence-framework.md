@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Why artificial intelligence can continue to transform industries"
-    excerpt: "Business Reporter brings you news, features and analysis around the critical issues affecting business and management."
-    publishedDateTime: 2022-03-02T09:35:00Z
-    webUrl: "https://business-reporter.co.uk/management/why-artificial-intelligence-can-continue-to-transform-industries"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 37
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/011/iStock-1182697690.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "nVIQy923aDUolVP1QjcXkU85s5rXLRz9KwWC0shwNySWw0TNv+ePuoPIIS3qyPnuMJcOD1wp4CwvDZzT6c8tO304yvPPelRm+z+qlahibZVxBqMF0aA0XvIrK0IUyKFO6ncK38Ja0z9pivUqZEOKmTQTIpgC+uEOyqdbMKQFskLC/tLf5DYllkP2MTEoMHYM6vIcYDX1sjeF3iLqBRY/IpScGraoVXD0BdRFWBK8+3TwK6VpV2MXTNHX6RONBl+Etb8VRFopEPCLNAid/wIODd2VQ7KTukL73+hwH/8T3ndrzJa70JMAYvQRkL6UATBrNs285ipW/snFZgoRzxuVezGZvkxFf3BuhwqqHIX3+DCySiTcq+y1554/PIGowVlonEVT5IZGLqDdDe5T/XfQnnLfW/OLWQ4RCqJ79M/2p5CQgWlrMrJtIn+DaXrIlvumsqfJdxvvkJVMAI5IHuSXiQddpoK9kT9Y0Nirv0dtDzCQ6O0NlEv14KDofxmmGqvz0QwPpGz6ZpsEVPLLQbwITw==;BDUw86Fsrx3W80Re6xt4Qw=="
 ---

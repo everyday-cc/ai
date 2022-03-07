@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Takeaways from President Biden's State of the Union speech"
-    excerpt: "Biden sought to rally a divided and weary country behind a revamped domestic agenda and his attempt to isolate and punish Russian President Vladimir Putin."
-    publishedDateTime: 2022-03-02T10:00:00Z
-    webUrl: "https://www.wlwt.com/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
-    ampWebUrl: "https://www.wlwt.com/amp/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
-    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/5-takeaways-from-president-biden-s-state-of-the-union-speech/39289804"
-    type: article
-    provider:
-      name: WLWT
-      domain: wlwt.com
-    quality: 44
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/biden-state-of-the-union-gettyimages-1238863517.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "On cusp of Biden speech, a state of disunity, funk and peril"
     excerpt: "President Joe Biden's fellow Americans, though, have other ideas about the state they're in and little hope his State of the Union address Tuesday night can turn anything around."
     publishedDateTime: 2022-03-02T18:51:00Z

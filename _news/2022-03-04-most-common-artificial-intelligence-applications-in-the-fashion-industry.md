@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Morphean's white paper highlight the rise in flexible working beckons shift to automation and AI for security industry"
-    excerpt: "Morphean, a pioneer in Security-as-a-Service and cloud analytics, has announced a new whitepaper that explores the security challenges associated with the growing prevalence"
-    publishedDateTime: 2022-03-02T10:50:00Z
-    webUrl: "https://www.sourcesecurity.com/news/morphean-white-paper-highlight-rise-flexible-co-12276-ga.1646202182.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/morphean-white-paper-highlight-rise-flexible-co-12276-ga.1646202182.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/morphean-white-paper-highlight-rise-flexible-co-12276-ga.1646202182.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 30
   - title: "Machine learning innovation among power industry companies has dropped off in the last year"
     excerpt: "Research and innovation in machine learning in the power industry operations and technologies sector has declined in the last year."
     publishedDateTime: 2022-03-02T13:00:00Z

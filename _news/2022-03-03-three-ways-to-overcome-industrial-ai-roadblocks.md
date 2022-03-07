@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/three-ways
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/03/three-ways-to-overcome-industrial-ai-roadblocks/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why artificial intelligence can continue to transform industries"
-    excerpt: "Business Reporter brings you news, features and analysis around the critical issues affecting business and management."
-    publishedDateTime: 2022-03-02T09:35:00Z
-    webUrl: "https://business-reporter.co.uk/management/why-artificial-intelligence-can-continue-to-transform-industries"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 37
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/011/iStock-1182697690.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Industry IoT Consortium Publishes Industrial IoT Artificial Intelligence Framework"
     excerpt: "The framework highlights the value proposition AI can enable in next-generation industrial IoT (IIoT) systems and addresses the emerging requirements and implementation challenges. \"The rapid growth and innovation in the field of AI have unlocked applications that a few years ago were infeasible."
     publishedDateTime: 2022-03-02T19:03:00Z
