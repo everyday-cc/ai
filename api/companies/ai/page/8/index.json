@@ -4,6 +4,473 @@
   "page": 8,
   "value": [
     {
+      "path": "_companies/meero.md",
+      "title": "Darktrace",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/meero/index.json",
+      "webUrl": "https://everyday.cc/ai/company/meero/",
+      "type": "profile",
+      "name": "Darktrace",
+      "overview": "",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/meero"
+      },
+      "yearFounded": 0,
+      "topics": [
+        "AI"
+      ],
+      "heat": 50,
+      "tags": [
+        "Europe"
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/megvii.md",
+      "title": "Megvii",
+      "excerpt": "MEGVII is a world-class AI company with core competencies in deep learning. Founded in Beijing in 2011 by Yin Qi, Tang Wenbin and Yang Mu, three Tsinghua University graduates who studied under the Turing-prize winning Chinese computer scientist and computational theorist Andrew Chi-Chih Yao, MEGVII is a pioneer in applying AI technology and computer vision algorithms to Internet of Things (IoT) use cases. The Company’s mission is to use innovative AI technology to deliver value to customers and to benefit the society as a whole.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/megvii/index.json",
+      "webUrl": "https://everyday.cc/ai/company/megvii/",
+      "type": "profile",
+      "name": "Megvii",
+      "otherNames": [
+        "Face++",
+        "FacePlusPlus",
+        "Megvii Technology",
+        "北京旷视科技有限公司",
+        "旷视",
+        "Kuangshi Keji"
+      ],
+      "overview": "MEGVII is a world-class AI company with core competencies in deep learning. Founded in Beijing in 2011 by Yin Qi, Tang Wenbin and Yang Mu, three Tsinghua University graduates who studied under the Turing-prize winning Chinese computer scientist and computational theorist Andrew Chi-Chih Yao, MEGVII is a pioneer in applying AI technology and computer vision algorithms to Internet of Things (IoT) use cases. The Company’s mission is to use innovative AI technology to deliver value to customers and to benefit the society as a whole.",
+      "website": "http://www.megvii.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/megvii%E6%97%B7%E8%A7%86/",
+        "followers": 9533
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/megvii-technology"
+      },
+      "twitter": {
+        "username": "faceplusplus",
+        "url": "https://twitter.com/faceplusplus",
+        "followers": 869
+      },
+      "size": "1,001-5,000 employees",
+      "yearFounded": 2011,
+      "locations": [
+        "Beijing, China",
+        "海淀区, 北京市"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=sbsCwlkSlp0"
+        }
+      ],
+      "heat": 50,
+      "tags": [
+        "Facial Recognition",
+        "Image Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1239848977958199298/DqKmJSLa_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Megvii",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C510BAQEytLW7LGXaHA/company-logo_200_200/0?e=1594857600&v=beta&t=kA_--YeJ-O7M8XY68wTHM71MKKs2wEGDYzsOabuXEpo",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/mojo.md",
+      "title": "mojo",
+      "excerpt": "We are experts in tech, working alongside experts in fertility. These partnerships have fostered a vision of democratising fertility care for the future. We believe that everyone should have access to reliable and affordable fertility care.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/mojo/index.json",
+      "webUrl": "https://everyday.cc/ai/company/mojo/",
+      "type": "profile",
+      "name": "mojo",
+      "overview": "We are experts in tech, working alongside experts in fertility. These partnerships have fostered a vision of democratising fertility care for the future. We believe that everyone should have access to reliable and affordable fertility care.",
+      "website": "https://www.mojofertility.co/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/mojofertility/",
+        "followers": 154
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/mojofertility"
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Lyon, Rhône-Alpes"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1443158234764820484/dCACATLL_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "mojo",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHsFAFk_hzHSg/company-logo_200_200/0?e=1594857600&v=beta&t=jFRlt8PrCUhmt-vwq9eVRKeZ2geX62897tvRK5j0Tk0",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/mov.ai.md",
+      "title": "MOV.AI",
+      "excerpt": "MOV.AI  provides an industry-grade operating system to change mobile machines into autonomous intelligent collaborative robots for universal commercial use.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/mov.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/mov.ai/",
+      "type": "profile",
+      "name": "MOV.AI",
+      "overview": "MOV.AI  provides an industry-grade operating system to change mobile machines into autonomous intelligent collaborative robots for universal commercial use.",
+      "website": "http://mov.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/movai/",
+        "followers": 567
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/ground-drone-ltd"
+      },
+      "twitter": {
+        "username": "movairobots",
+        "url": "https://twitter.com/movairobots",
+        "followers": 155
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Cascais"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=KF0y_gPMnGI"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1402857471279050756/hxGINiMF_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "MOV.AI",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFS7cPoXEKZLw/company-logo_200_200/0?e=1594857600&v=beta&t=wqA8W5HJQ9WiWeS1xvkHFslIZdwQ-JgmTJEXpfNOtY0",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/movidius.md",
+      "title": "Movidius",
+      "excerpt": "Movidius, an Intel company specializes in high-performance, ultra-low power vision processor chips, for advanced visual intelligence and AI applications on modern devices such smart cameras, drones, robots and wearable devices.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/movidius/index.json",
+      "webUrl": "https://everyday.cc/ai/company/movidius/",
+      "type": "profile",
+      "name": "Movidius",
+      "overview": "Movidius, an Intel company specializes in high-performance, ultra-low power vision processor chips, for advanced visual intelligence and AI applications on modern devices such smart cameras, drones, robots and wearable devices.",
+      "website": "http://www.movidius.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/movidius",
+        "followers": 20091
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/movidius"
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2005,
+      "locations": [
+        "Santa Clara, CA",
+        "Santa Clara, California"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=hD3RYGJgH4A"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/880822480620756993/_GikEhZy_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Movidius",
+          "isCached": false
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHMBK9DktdgOg/company-logo_200_200/0?e=1594857600&v=beta&t=J53cwyA96-njplV5LC0dIsGYTIxT-3S1GU5SFLHhTj0",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/netguardians.ch.md",
+      "title": "NetGuardians",
+      "excerpt": "NetGuardians is an award winning Swiss FinTech. Established in 2007, we help over 50 Tier 1 to Tier 3 banks worldwide to fight financial crime. NetGuardians developed the first augmented intelligence solution made for banks to proactively prevent fraud. We empower our clients by providing machine learning technology together with contextual information and great user experience. Banks using NetGuardians’ solution achieved 83% reduction in false positives, saved 93% of the time lost in fraud investigation, and prevented new fraud cases. We were recognized as Gartner Cool Vendor in 2015 and Chartis RiskTech 100 Vendor in 2018.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/netguardians.ch/index.json",
+      "webUrl": "https://everyday.cc/ai/company/netguardians.ch/",
+      "type": "profile",
+      "name": "NetGuardians",
+      "overview": "NetGuardians is an award winning Swiss FinTech. Established in 2007, we help over 50 Tier 1 to Tier 3 banks worldwide to fight financial crime. NetGuardians developed the first augmented intelligence solution made for banks to proactively prevent fraud. We empower our clients by providing machine learning technology together with contextual information and great user experience. Banks using NetGuardians’ solution achieved 83% reduction in false positives, saved 93% of the time lost in fraud investigation, and prevented new fraud cases. We were recognized as Gartner Cool Vendor in 2015 and Chartis RiskTech 100 Vendor in 2018.",
+      "website": "https://netguardians.ch/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/netguardians/",
+        "followers": 3764
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/netguardians"
+      },
+      "twitter": {
+        "username": "netguardians",
+        "url": "https://twitter.com/netguardians",
+        "followers": 1540
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2007,
+      "locations": [
+        "Yverdon, Vaud"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "heat": 50,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/998935117614608385/FWOiFezQ_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "NetGuardians",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFqlh02WuY6yw/company-logo_200_200/0?e=1594857600&v=beta&t=Rbmg26H88Yy5LTjE_R-GDY2tykYTwtwUGZILkdLpwVA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/neurala.md",
+      "title": "Neurala",
+      "excerpt": "Neurala leverages its proprietary AI platform to empower companies to automate visual inspections. Our customers have deployed Neurala technology in devices ranging from drones to robots to smart phones, in addition to industrial machines.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/neurala/index.json",
+      "webUrl": "https://everyday.cc/ai/company/neurala/",
+      "type": "profile",
+      "name": "Neurala",
+      "overview": "Neurala leverages its proprietary AI platform to empower companies to automate visual inspections. Our customers have deployed Neurala technology in devices ranging from drones to robots to smart phones, in addition to industrial machines.",
+      "website": "https://www.neurala.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/neurala/",
+        "followers": 3462
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/neurala"
+      },
+      "twitter": {
+        "username": "neurala",
+        "url": "https://twitter.com/neurala",
+        "followers": 2766
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2006,
+      "locations": [
+        "Boston, MA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=-bQYzR5kARM"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1295751627484405762/7zWWPBD2_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Neurala",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHj-t_lzUSj7Q/company-logo_200_200/0?e=1594857600&v=beta&t=ATn4G31yQyk8l6qSKWyCAxsEEgo41rJgaQB9gd2ioEU",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/nutrino.md",
+      "title": "Nutrino",
+      "excerpt": "Our team of nutrition enthusiasts, engineers and data scientists are united by one singular goal: to provide personalized nutritional insights to every person on earth, empowering humankind to live smarter, healthier, and happier.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/nutrino/index.json",
+      "webUrl": "https://everyday.cc/ai/company/nutrino/",
+      "type": "profile",
+      "name": "Nutrino",
+      "overview": "Our team of nutrition enthusiasts, engineers and data scientists are united by one singular goal: to provide personalized nutritional insights to every person on earth, empowering humankind to live smarter, healthier, and happier.",
+      "website": "https://www.nutrinohealth.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/nutrino",
+        "followers": 1309
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/nutrino"
+      },
+      "twitter": {
+        "username": "NutrinoCo",
+        "url": "https://twitter.com/NutrinoCo",
+        "followers": 6
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2011,
+      "locations": [
+        "Tel-Aviv, ."
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ynhELhRZO1s"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/647537901971095552/Y083_A7n_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Nutrino",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHfQMuGfVS0Qg/company-logo_200_200/0?e=1594857600&v=beta&t=qqSHyIcWry498ipimTh7vDWuHL91JalI05MndO4-Ofg",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/nuviainc.md",
+      "title": "NUVIA",
+      "excerpt": "Headquartered in Santa Clara, NUVIA was founded on the promise of reimagining silicon design for high-performance computing environments. The company is focused on building products that blend the best attributes of compute performance, power efficiency and scalability. For more information, please visit www.nuviainc.com.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/nuviainc/index.json",
+      "webUrl": "https://everyday.cc/ai/company/nuviainc/",
+      "type": "profile",
+      "name": "NUVIA",
+      "overview": "Headquartered in Santa Clara, NUVIA was founded on the promise of reimagining silicon design for high-performance computing environments. The company is focused on building products that blend the best attributes of compute performance, power efficiency and scalability. For more information, please visit www.nuviainc.com.",
+      "website": "https://nuviainc.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/nuviainc/",
+        "followers": 1673
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/nuvia-ed93"
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2019,
+      "locations": [
+        "Santa Clara , CA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=J6ciNns9pxk"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQH_AhIXI9JVnA/company-logo_200_200/0?e=1594857600&v=beta&t=dKNMNCBXLzYmywhm0DxDHcVDhVYnAKR3mqciYu5zfNM",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/oaknorth.md",
       "title": "OakNorth",
       "excerpt": "OakNorth is the next-generation credit platform that is redefining lending to lower mid-market businesses ($1-$25m loan size) globally.",
@@ -113,46 +580,47 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/pathai.md",
-      "title": "PathAI",
-      "excerpt": "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/pathai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/pathai/",
+      "path": "_companies/pinpoint.md",
+      "title": "Pinpoint",
+      "excerpt": "Pinpoint delivers a new kind of performance intelligence—one that synthesizes the work activity in your delivery tools, and applies data science to unlock faster, smarter engineering.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/pinpoint/index.json",
+      "webUrl": "https://everyday.cc/ai/company/pinpoint/",
       "type": "profile",
-      "name": "PathAI",
-      "overview": "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale",
-      "website": "http://Pathai.com",
+      "name": "Pinpoint",
+      "overview": "Pinpoint delivers a new kind of performance intelligence—one that synthesizes the work activity in your delivery tools, and applies data science to unlock faster, smarter engineering.",
+      "website": "https://pinpoint.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/pinpoint-software/",
+        "followers": 452
+      },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/pathai"
+        "url": "https://www.crunchbase.com/organization/pinpoint-5"
       },
       "twitter": {
-        "username": "Path_AI",
-        "url": "https://twitter.com/Path_AI",
-        "followers": 1355
+        "username": "pinpoint_sw",
+        "url": "https://twitter.com/pinpoint_sw",
+        "followers": 348
       },
-      "yearFounded": 0,
+      "size": "11-50 employees",
+      "yearFounded": 2016,
       "locations": [
-        "Fremont, CA"
+        "Austin, TX",
+        "Austin, Texas"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=cUeScCtTng4"
-        }
+        "Machine Learning"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/872157578364583937/mXsacVHf_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1362799177911140353/WG8-27bN_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "PathAI",
+          "title": "Pinpoint",
           "isCached": true
         }
       ],
@@ -218,59 +686,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/pymetrics.md",
-      "title": "Pymetrics",
-      "excerpt": "Founded by Harvard/MIT-trained PhDs, pymetrics uses neuroscience data and AI to help global clients like Unilever, Accenture and LinkedIn make their hiring and internal mobility more predictive and less biased. pymetrics replaces the resume as a first-pass filter by assessing candidates based on their true potential -- their inherent cognitive and emotional make-up. Using algorithms that are trained on high-performing employees at a company, pymetrics builds a trait profile of a company's top performers to select best fit talent. These algorithms are then audited to remove any gender or ethnic bias. pymetrics also serves as a common application for candidates, ensuring that everyone finds their best-fit job, regardless of where they apply. With over 80 enterprise clients and offices in NYC, London, Sydney and Singapore, pymetrics is powering the future of hiring: efficient, predictive, and bias-free.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/pymetrics/index.json",
-      "webUrl": "https://everyday.cc/ai/company/pymetrics/",
-      "type": "profile",
-      "name": "Pymetrics",
-      "overview": "Founded by Harvard/MIT-trained PhDs, pymetrics uses neuroscience data and AI to help global clients like Unilever, Accenture and LinkedIn make their hiring and internal mobility more predictive and less biased. pymetrics replaces the resume as a first-pass filter by assessing candidates based on their true potential -- their inherent cognitive and emotional make-up. Using algorithms that are trained on high-performing employees at a company, pymetrics builds a trait profile of a company's top performers to select best fit talent. These algorithms are then audited to remove any gender or ethnic bias. pymetrics also serves as a common application for candidates, ensuring that everyone finds their best-fit job, regardless of where they apply. With over 80 enterprise clients and offices in NYC, London, Sydney and Singapore, pymetrics is powering the future of hiring: efficient, predictive, and bias-free.",
-      "website": "https://www.pymetrics.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/2714872",
-        "followers": 15489
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/pymetrics"
-      },
-      "twitter": {
-        "username": "pymetrics",
-        "url": "https://twitter.com/pymetrics",
-        "followers": 3532
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "New York, NY",
-        "New York, NY"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1414631690757103617/Zmx02nx-_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Pymetrics",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHAjv1Lw8B90Q/company-logo_200_200/0?e=1594857600&v=beta&t=DCbyYI-O85XqebLvlYBgmV1Scsu0zoJr6HKb5WeF3e0",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/quantib.md",
       "title": "Quantib",
       "excerpt": "Our goal is to give radiologists the best tools to help deliver fast, objective, accurate and insightful reports.",
@@ -320,6 +735,64 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGYElcY9GF7Vg/company-logo_200_200/0?e=1594857600&v=beta&t=zP-CryOPddYQZ6jokPGcvBUTEjmN4Bvya15Ef16P2zI",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/recursionpharma.md",
+      "title": "Recursion Pharmaceuticals",
+      "excerpt": "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/recursionpharma/index.json",
+      "webUrl": "https://everyday.cc/ai/company/recursionpharma/",
+      "type": "profile",
+      "name": "Recursion Pharmaceuticals",
+      "overview": "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City.",
+      "website": "https://www.recursionpharma.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/recursion-pharmaceuticals",
+        "followers": 6053
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/recursion-pharmaceuticals"
+      },
+      "twitter": {
+        "username": "RecursionPharma",
+        "url": "https://twitter.com/RecursionPharma",
+        "followers": 5259
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Salt Lake City, Utah"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=y3Hsh4fPxuQ"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/925897897165639683/jI8YvBfC_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Recursion Pharmaceuticals",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFavbiUUsfvSg/company-logo_200_200/0?e=1594857600&v=beta&t=X4DgJQniVYQVIS5GiuZtueDApYAoKbYf1eeeTETZ-Lk",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -419,42 +892,59 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/riskident.md",
-      "title": "Risk Ident",
-      "excerpt": "RISK IDENT fights payment fraud, identity theft, account takeovers, and loan application fraud with self-developed anti-fraud solutions.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/riskident/index.json",
-      "webUrl": "https://everyday.cc/ai/company/riskident/",
+      "path": "_companies/rethinkrobotics.md",
+      "title": "Rethink Robotics",
+      "excerpt": "Rethink Robotics’ collaborative robots transform the way manufacturing work gets done on factory floors around the world. Our cobots can be deployed quickly, are designed to work safely alongside people, and are highly reliable, adaptable and easy-to-use. With a quick return on investment, manufacturers are increasingly turning to our Sawyer cobot as a smart solution to automate more while addressing challenges like labor shortages and productivity across industries such as plastics, packaging and co-packing, metal fabrication, electronics, and automotive supply chain.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/rethinkrobotics/index.json",
+      "webUrl": "https://everyday.cc/ai/company/rethinkrobotics/",
       "type": "profile",
-      "name": "Risk Ident",
-      "overview": "RISK IDENT fights payment fraud, identity theft, account takeovers, and loan application fraud with self-developed anti-fraud solutions.",
-      "website": "https://riskident.com/",
+      "name": "Rethink Robotics",
+      "overview": "Rethink Robotics’ collaborative robots transform the way manufacturing work gets done on factory floors around the world. Our cobots can be deployed quickly, are designed to work safely alongside people, and are highly reliable, adaptable and easy-to-use. With a quick return on investment, manufacturers are increasingly turning to our Sawyer cobot as a smart solution to automate more while addressing challenges like labor shortages and productivity across industries such as plastics, packaging and co-packing, metal fabrication, electronics, and automotive supply chain.",
+      "website": "https://www.rethinkrobotics.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/rethink-robotics/",
+        "followers": 17933
+      },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/risk-ident"
+        "url": "https://www.crunchbase.com/organization/rethink-robotics"
       },
       "twitter": {
-        "username": "RiskIdent",
-        "url": "https://twitter.com/RiskIdent",
-        "followers": 366
+        "username": "RethinkRobotics",
+        "url": "https://twitter.com/RethinkRobotics",
+        "followers": 33614
       },
-      "yearFounded": 0,
+      "size": "11-50 employees",
+      "yearFounded": 2018,
       "locations": [
-        "Hamburg, Germany"
+        "Bochum, Germany"
       ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
       "topics": [
         "AI",
-        "AI in Finance"
+        "AI in Robotics"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=DSy-NXSldz0"
+        }
       ],
       "heat": 50,
-      "tags": [
-        "FinTech"
-      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1245226005180157957/66LO2jtY_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1184131997708488704/OS_GZKiw_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Risk Ident",
+          "title": "Rethink Robotics",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGDfXIKeQnw_g/company-logo_200_200/0?e=1594857600&v=beta&t=dK_2lwjgeDcNJ0MjuT9b9_9-2sOEatkl0GxfTMA52SI",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -616,58 +1106,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/rossintelligence.md",
-      "title": "ROSS Intelligence",
-      "excerpt": "Founded in 2014, ROSS Intelligence has become a global leader in artificial intelligence solution for Legal Technologies.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/rossintelligence/index.json",
-      "webUrl": "https://everyday.cc/ai/company/rossintelligence/",
-      "type": "profile",
-      "name": "ROSS Intelligence",
-      "overview": "Founded in 2014, ROSS Intelligence has become a global leader in artificial intelligence solution for Legal Technologies.",
-      "website": "https://rossintelligence.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/5385357/",
-        "followers": 3215
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/ross-intelligence"
-      },
-      "twitter": {
-        "username": "ROSSIntel",
-        "url": "https://twitter.com/ROSSIntel",
-        "followers": 5326
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=ZF0J_Q0AK0E"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1174312638328840192/ErbzJaM6_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "ROSS Intelligence",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/rul.ai.md",
       "title": "Rulai",
       "excerpt": "Silicon Valley-based Rulai delivers AI virtual customer assistance that reduces sales and support costs, increases sales conversion rates and improves customer experience with quick, always-available, chat-and SMS-based, human-like conversational engagement.  These smart agents, driven by Rulai Natural Language Understanding (NLU) and Deep Learning  technologies, enable brands to handle their growing customer interaction volume faster and more efficiently by answering customer questions,completing tasks and learning from live agent:customer interaction.  Rulai Virtual Assistance complements live support with seamless escalation to human agents when desired or required for more complex issue resolution. Rulai solutions are developed and supported by a team of award-winning computer scientists and engineers widely considered to be among the world’s leading experts in the field of Machine Learning. For more information please contact www.rul.ai.",
@@ -709,179 +1147,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFiJrA9xb7Bbg/company-logo_200_200/0?e=1594857600&v=beta&t=VcxOJqNMbtsSQKE2M9nKikownqE67bDXh0xuoh9TUs0",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/semanticmachines.md",
-      "title": "Semantic Machines",
-      "excerpt": "Developing novel deep learning NLP and AI technology to revolutionize mobile voice enabled agents.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/semanticmachines/index.json",
-      "webUrl": "https://everyday.cc/ai/company/semanticmachines/",
-      "type": "profile",
-      "name": "Semantic Machines",
-      "overview": "Developing novel deep learning NLP and AI technology to revolutionize mobile voice enabled agents.",
-      "website": "http://www.semanticmachines.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/semantic-machines/",
-        "followers": 0
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/semantic-machines"
-      },
-      "twitter": {
-        "username": "semmachines",
-        "url": "https://twitter.com/semmachines",
-        "followers": 452
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "Boston and Berkeley"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=DxrJWSi_IWo"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/624298774974828544/YC-qPtib_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Semantic Machines",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/sensetime.md",
-      "title": "SenseTime",
-      "excerpt": "SenseTime is a global company focused on developing innovative AI technologies that positively contribute to economies, society and humanity.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sensetime/index.json",
-      "webUrl": "https://everyday.cc/ai/company/sensetime/",
-      "type": "profile",
-      "name": "SenseTime",
-      "otherNames": [
-        "商汤科技",
-        "商汤",
-        "Shangtang Keji"
-      ],
-      "overview": "SenseTime is a global company focused on developing innovative AI technologies that positively contribute to economies, society and humanity.",
-      "website": "https://www.sensetime.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/sensetime-group-limited/",
-        "followers": 27507
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sensetime"
-      },
-      "twitter": {
-        "username": "sensetime_ai",
-        "url": "https://twitter.com/sensetime_ai",
-        "followers": 1763
-      },
-      "size": "1,001-5,000 employees",
-      "yearFounded": 2018,
-      "locations": [
-        "Hong Kong, Hong Kong"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=wMUmPumXtpw"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Facial Recognition",
-        "Image Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1019506033511710721/4ucdo4lo_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "SenseTime",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEVqUsQIAdXQw/company-logo_200_200/0?e=1594857600&v=beta&t=hIaN_xmADl2N2E1XEfRpc_rco42L6WUzGhuyWCb3wM4",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/sentifi.md",
-      "title": "Sentifi",
-      "excerpt": "Sentifi is a Swiss tech company and provider of alternative data analytics. Our enterprise solutions are used by the world’s leading financial services organizations whilst our media solutions are integrated on the websites of more than 50 publishers in Europe and Asia.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sentifi/index.json",
-      "webUrl": "https://everyday.cc/ai/company/sentifi/",
-      "type": "profile",
-      "name": "Sentifi",
-      "overview": "Sentifi is a Swiss tech company and provider of alternative data analytics. Our enterprise solutions are used by the world’s leading financial services organizations whilst our media solutions are integrated on the websites of more than 50 publishers in Europe and Asia.",
-      "website": "https://parashift.io/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/sentifi/",
-        "followers": 11489
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sentifi"
-      },
-      "twitter": {
-        "username": "sentifi",
-        "url": "https://twitter.com/sentifi",
-        "followers": 4779
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Zurich, Switzerland",
-        "Zurich, Zurich"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ],
-      "heat": 50,
-      "tags": [
-        "FinTech"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1145902565151739905/KRRXTq0L_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Sentifi",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE_mtrM-SjMVQ/company-logo_200_200/0?e=1594857600&v=beta&t=kvL_dpqMRheoUPLs0WjZXn_V74Fh1zSdcN0VJxqBX4w",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1191,335 +1456,98 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/smartenspaces.md",
-      "title": "Smarten Spaces",
-      "excerpt": "Smarten Spaces is a new age technology company which has built the first AI and IOT end to end platform with a host of integrated micro services to disrupt a $217 Trillion+ industry of built up and new spaces. Our mission is to create the world's largest smart community not limited by spaces but making spaces easy to work, explore or live in.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/smartenspaces/index.json",
-      "webUrl": "https://everyday.cc/ai/company/smartenspaces/",
+      "path": "_companies/skinvision.md",
+      "title": "SkinVision",
+      "excerpt": "The leading app for early detection of the most common types of #SkinCancer. Self-check now: https://t.co/gcMPVNzjxO",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/skinvision/index.json",
+      "webUrl": "https://everyday.cc/ai/company/skinvision/",
       "type": "profile",
-      "name": "Smarten Spaces",
-      "overview": "Smarten Spaces is a new age technology company which has built the first AI and IOT end to end platform with a host of integrated micro services to disrupt a $217 Trillion+ industry of built up and new spaces. Our mission is to create the world's largest smart community not limited by spaces but making spaces easy to work, explore or live in.",
-      "website": "https://www.smartenspaces.com/",
+      "name": "SkinVision",
+      "overview": "The leading app for early detection of the most common types of #SkinCancer. Self-check now: https://t.co/gcMPVNzjxO",
+      "website": "https://www.skinvision.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/smarten-spaces/",
-        "followers": 665
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/smarten-spaces"
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Singapore, Singapore",
-        "Singapore"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C510BAQFi606oKvzlvg/company-logo_200_200/0?e=1594857600&v=beta&t=71vdvqbv7NEgkKHBScyCC477PPspd0WONW006m0-klo",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/socure.md",
-      "title": "Socure",
-      "excerpt": "Socure provides a real-time predictive analytics platform that combines the newest forms of machine learning and artificial intelligence with digital, offline and social identity data to deliver the most accurate and robust KYC, identity verification and fraud risk prediction solution in the market.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/socure/index.json",
-      "webUrl": "https://everyday.cc/ai/company/socure/",
-      "type": "profile",
-      "name": "Socure",
-      "overview": "Socure provides a real-time predictive analytics platform that combines the newest forms of machine learning and artificial intelligence with digital, offline and social identity data to deliver the most accurate and robust KYC, identity verification and fraud risk prediction solution in the market.",
-      "website": "https://www.socure.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/socure",
-        "followers": 4096
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/socure"
-      },
-      "twitter": {
-        "username": "socureme",
-        "url": "https://twitter.com/socureme",
-        "followers": 7090
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "New York, NY",
-        "New York, NY"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Machine Learning",
-        "AI in Finance"
-      ],
-      "heat": 50,
-      "tags": [
-        "FinTech",
-        "Security"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1410652005442412546/hvkEaWDP_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Socure",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHXFhTs-POYFA/company-logo_200_200/0?e=1594857600&v=beta&t=8nQZUu_J4aQyL9WTxtza5GwWcumb2YhXPUhfWeMP91c",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/soundhound.md",
-      "title": "SoundHound",
-      "excerpt": "We believe every product should have a voice. Creators of @SoundHound, @Houndify, and @HoundApp. #VoiceAI",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/soundhound/index.json",
-      "webUrl": "https://everyday.cc/ai/company/soundhound/",
-      "type": "profile",
-      "name": "SoundHound",
-      "overview": "We believe every product should have a voice. Creators of @SoundHound, @Houndify, and @HoundApp. #VoiceAI",
-      "website": "https://soundhound.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/soundhound",
+        "url": "https://www.linkedin.com/company/skinvision/",
         "followers": 0
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/soundhound"
+        "url": "https://www.crunchbase.com/organization/skinvision"
       },
       "twitter": {
-        "username": "SoundHoundInc",
-        "url": "https://twitter.com/SoundHoundInc",
-        "followers": 641
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=VBfhwS3Dr3M"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1410636825694117893/Xj42DV6-_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "SoundHound",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/speechmatics.md",
-      "title": "Speechmatics",
-      "excerpt": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/speechmatics/index.json",
-      "webUrl": "https://everyday.cc/ai/company/speechmatics/",
-      "type": "profile",
-      "name": "Speechmatics",
-      "overview": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
-      "website": "https://www.speechmatics.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/speechmatics/",
-        "followers": 2744
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/speechmatics"
-      },
-      "twitter": {
-        "username": "Speechmatics",
-        "url": "https://twitter.com/Speechmatics",
-        "followers": 1379
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2009,
-      "locations": [
-        "Cambridge"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "heat": 50,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1455937738356793354/6bPe6wGB_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Speechmatics",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/squirrelai.md",
-      "title": "Squirrel AI Learning",
-      "excerpt": "Squirrel AI Learning is the first pure-play AI-powered adaptive education provider in China.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/squirrelai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/squirrelai/",
-      "type": "profile",
-      "name": "Squirrel AI Learning",
-      "overview": "Squirrel AI Learning is the first pure-play AI-powered adaptive education provider in China.",
-      "website": "https://www.squirrelai.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/yixue-squirrel-ai"
-      },
-      "twitter": {
-        "username": "SquirrelAI_Edu",
-        "url": "https://twitter.com/SquirrelAI_Edu",
-        "followers": 497
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Shanghai"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1259155145327288320/aN-PCWqc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Squirrel AI Learning",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/starskyrobotics.md",
-      "title": "Starsky Robotics",
-      "excerpt": "Starsky Robotics is an autonomous truck startup aiming to make our roads safer while providing truck drivers with jobs that bring them back to their families.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/starskyrobotics/index.json",
-      "webUrl": "https://everyday.cc/ai/company/starskyrobotics/",
-      "type": "profile",
-      "name": "Starsky Robotics",
-      "overview": "Starsky Robotics is an autonomous truck startup aiming to make our roads safer while providing truck drivers with jobs that bring them back to their families.",
-      "website": "http://starskyrobotics.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/starsky-robotics",
-        "followers": 2281
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/starsky-robotics"
-      },
-      "twitter": {
-        "username": "StarskyRobotics",
-        "url": "https://twitter.com/StarskyRobotics",
-        "followers": 922
+        "username": "sknvsn",
+        "url": "https://twitter.com/sknvsn",
+        "followers": 2116
       },
       "size": "11-50 employees",
-      "yearFounded": 0,
+      "yearFounded": 2011,
       "locations": [
-        "San Francisco, CA (CA)",
-        "San Francisco, California (CA)"
+        "Amsterdam, the Netherlands"
       ],
       "funding": {
         "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=-fjy3iaiWFw"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/835187208634060800/orva3Tpz_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Starsky Robotics",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/synyi.md",
-      "title": "Synyi",
-      "excerpt": "Founded in April 2016, located in Zhangjiang high-tech park, Shanghai, Synyi AI is the leading medical artificial intelligence company focusing on medical data governance, mining and application. Our mission is to accelerate the establishment of futuristic learning healthcare system based on data-driven artificial intelligence to build up applications for medical management, patient service, clinical research, and so.  In 2016, Synyi AI received nearly ten million RMB angel investment from ZhenFund. In 2017, Synyi AI received fifty-five million RMB series  A fund from Sequoia Capital , and China Electronic Health Fund. Our team consisted of multi discipline talents from the fields of artificial intelligence and clinical medicine from top institutions and enterprises world-wide. Our products have been subscribed by multiple medical centers in china.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/synyi/index.json",
-      "webUrl": "https://everyday.cc/ai/company/synyi/",
-      "type": "profile",
-      "name": "Synyi",
-      "overview": "Founded in April 2016, located in Zhangjiang high-tech park, Shanghai, Synyi AI is the leading medical artificial intelligence company focusing on medical data governance, mining and application. Our mission is to accelerate the establishment of futuristic learning healthcare system based on data-driven artificial intelligence to build up applications for medical management, patient service, clinical research, and so.  In 2016, Synyi AI received nearly ten million RMB angel investment from ZhenFund. In 2017, Synyi AI received fifty-five million RMB series  A fund from Sequoia Capital , and China Electronic Health Fund. Our team consisted of multi discipline talents from the fields of artificial intelligence and clinical medicine from top institutions and enterprises world-wide. Our products have been subscribed by multiple medical centers in china.",
-      "website": "https://www.synyi.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/synyi/",
-        "followers": 86
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/synyi"
-      },
-      "size": "51-200 employees",
-      "yearFounded": 0,
-      "locations": [
-        "上海市, 上海市"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
       },
       "topics": [
         "AI",
         "AI in Healthcare"
       ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=eAcjCkwsIy0"
+        }
+      ],
+      "heat": 50,
+      "tags": [
+        "Cancer"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/809063449624018945/d9gEaQop_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "SkinVision",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/skychain.global.md",
+      "title": "Skychain Global",
+      "excerpt": "Skydio makes every aspect of flying drones more creative, more fun, more useful, and less stressful with groundbreaking artificial intelligence.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/skychain.global/index.json",
+      "webUrl": "https://everyday.cc/ai/company/skychain.global/",
+      "type": "profile",
+      "name": "Skychain Global",
+      "overview": "Skydio makes every aspect of flying drones more creative, more fun, more useful, and less stressful with groundbreaking artificial intelligence.",
+      "website": "https://skychain.global",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/skychain-global"
+      },
+      "twitter": {
+        "username": "skychainglobal",
+        "url": "https://twitter.com/skychainglobal",
+        "followers": 2538
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Redwood City, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=npQklriczNA"
+        }
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGbos2p5p4c6A/company-logo_200_200/0?e=1594857600&v=beta&t=d5iabLL_hzIMkoXeAHu3KHKpr7XZczVYMl739NzOXeE",
+          "url": "https://pbs.twimg.com/profile_images/1176051622230859776/jEIttImc_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "logo",
-          "isCached": false
+          "title": "Skychain Global",
+          "isCached": true
         }
       ],
       "content": "\r\n"
