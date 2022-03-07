@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "mythicinc"
   url: "https://twitter.com/mythicinc"
-  followers: 1121
+  followers: 1122
 
 size: 11-50 employees
 yearFounded: 2012
