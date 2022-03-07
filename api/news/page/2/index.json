@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-04-pompeo-in-taiwan-urges-us-diplomatic-recognition.md",
+      "title": "Pompeo In Taiwan Urges US Diplomatic Recognition",
+      "excerpt": "Former US Secretary of State Mike Pompeo in a speech on Friday on a non-official visit to Taiwan called for the US to give diplomatic recognition to the self-ruled island China claims as its own territory.",
+      "sourceUrl": null,
+      "webUrl": "https://www.republicworld.com/world-news/rest-of-the-world-news/pompeo-in-taiwan-urges-us-diplomatic-recognition-articleshow.html",
+      "originalUrl": "https://www.republicworld.com/world-news/rest-of-the-world-news/pompeo-in-taiwan-urges-us-diplomatic-recognition-articleshow.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/478trcpoez6o1bgm_1646400516.jpeg",
+          "width": 768,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.republicworld.com/amp/world-news/rest-of-the-world-news/pompeo-in-taiwan-urges-us-diplomatic-recognition-articleshow.html",
+      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/rest-of-the-world-news/pompeo-in-taiwan-urges-us-diplomatic-recognition-articleshow.html",
+      "publishedDateTime": "2022-03-04T05:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-04-fingerprint-machine-learning-technique-identifies-different-bacteria-in-seconds.md",
       "title": "'Fingerprint' machine learning technique identifies different bacteria in seconds",
       "excerpt": "There may be a quicker, more accurate process according to researchers at KAIST. By teaching a deep learning algorithm to identify the \"fingerprint\" spectra of the molecular components of various ...",
@@ -481,49 +524,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-first-person-behind-the-wheel-of-a-self-driving-tesla.md",
-      "title": "First Person: Behind the wheel of a 'self-driving' Tesla",
-      "excerpt": "This is part of our hour on Tesla and the ethics of self-driving cars. Listen here. Self-driving technology has come a long way in recent years, but it remains far from perfect. In a podcast special, we share what it's like behind the wheel when Tesla ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla",
-      "originalUrl": "https://www.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d279m997dpfwgl.cloudfront.net/wp/2017/04/0417_tesla.jpg",
-          "width": 1700,
-          "height": 1133,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla",
-      "cdnAmpWebUrl": "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/03/03/first-person-behind-the-wheel-of-a-self-driving-tesla",
-      "publishedDateTime": "2022-03-03T11:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBUR",
-        "domain": "wbur.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },

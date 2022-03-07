@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-mu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta describes how AI will unlock the metaverse"
-    excerpt: "Zuckerberg says the metaverse will require advances across a whole range of areas, and AI is the key to unlocking a lot of these advances."
-    publishedDateTime: 2022-03-02T22:59:00Z
-    webUrl: "https://venturebeat.com/2022/03/02/meta-describes-how-ai-will-unlock-the-metaverse/"
-    ampWebUrl: "https://venturebeat.com/2022/03/02/meta-describes-how-ai-will-unlock-the-metaverse/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/meta-describes-how-ai-will-unlock-the-metaverse/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1353722877-e1646248329892.jpg?fit=800%2C594&strip=all"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Zuckerberg reveals AI ventures Aiming at building metaverse future"
     excerpt: "Zuckerberg said that metaverse will be the new big thing for portable internet. Zuckerberg says Meta worked on a modern-day"
     publishedDateTime: 2022-03-05T16:47:00Z

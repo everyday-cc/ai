@@ -24,6 +24,22 @@ images:
     height: 398
     isCached: true
 
+related:
+  - title: "Ambient Scientific Announces Beta Release of Software Compilers for its Programmable AI Processor GPX-10"
+    excerpt: "Ambient Scientific is excited to announce the release of Beta versions of its compilers for GPX-10 AI processor using general purpose programmable MX8 cores, designed for enabling OnDevice AI in endpoint and edge devices."
+    publishedDateTime: 2022-03-07T13:08:00Z
+    webUrl: "https://www.design-reuse.com/news/51550/ambient-scientific-programmable-ai-processor-gpx-10.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 22
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage51550/ambient.jpg"
+        width: 1290
+        height: 644
+        isCached: true
+
 secured: "e0JPIFwwwiDIW3CZB5gP2/C6KbveaJgfnuXBEo5v+BJltej3yTO2gPsfyQItsOoanh8xWb7LCDTWGvYp9AUVHWski1/ZGIiPnvtFsx1eLVDQHmRrW+UKAPg86XHL2knxCFqOhv8yoO7yNhKMs2HBUY47cvS5rVMfaDeUmPCAWKgttuJ68Qgw+NFHlaKowUhXKQZktWBnw4qWz2XKe8D6cTVmTl2kS4AFPqGe+e0MRMpTdP4UZ4ZzBFn0K1jucFHAVx3259dYN+WfMnGr+9J6DVtf8Utl7O2cr7JvBcJOVaqeP7jtsDMbdBR0ia4Zhfhqu1sZBIZlbpIOouj30XwEWeTRMv/ZjSBiSbtUwmDgWtyNsRU44KL5PZMiI4sBFh8/D15D+cZd+/RN9rYQgeo9X+BAdRCYCRf28/LvP0b+oz3MOvV6ju8ijd/RzU6NIabjJ/JKIxRPt+2N1AAdcy34EiC2T7v8bIyhrnCM1s6srrGcDX46Dgv9bJduDaAXorWLQ527rWx0xohiv6yx2FIx6A==;WH17tFY/uqjwP2TqnrHZDA=="
 ---
 

@@ -2,27 +2,29 @@
 category: news
 title: "Tesla and the ethics of self-driving cars"
 excerpt: "Self-driving technology has come a long way in recent years, but it remains far from perfect. And that's partially because of decisions made -- not by the cars -- but by programmers."
-publishedDateTime: 2022-03-03T14:00:00Z
-originalUrl: "https://www.kuow.org/stories/tesla-and-the-ethics-of-self-driving-cars"
-webUrl: "https://www.kuow.org/stories/tesla-and-the-ethics-of-self-driving-cars"
+publishedDateTime: 2022-03-03T05:14:00Z
+originalUrl: "https://www.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
+webUrl: "https://www.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
+ampWebUrl: "https://amp.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
+cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/03/03/tesla-and-the-ethics-of-automated-vehicles"
 type: article
-quality: 56
-heat: -1
-published: false
+quality: 76
+heat: 116
+published: true
 
 provider:
-  name: KUOW
-  domain: kuow.org
+  name: WBUR
+  domain: wbur.org
 
 topics:
-  - AI Ethics
-  - AI
   - AI in Autos
+  - AI
+  - AI Ethics
 
 images:
-  - url: "https://kuow-prod.imgix.net/store/6023b3dacd9aac14703ea05a20f4c3e4.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-    width: 942
-    height: 628
+  - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/03/GettyImages-1232832894.jpg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
@@ -58,7 +60,37 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Tesla CEO Elon Musk says autonomous driving cars could make traffic worse"
+    excerpt: "Elon Musk's comment comes at a time when his own company Tesla is working on full self-driving technology FSD."
+    publishedDateTime: 2022-03-07T14:53:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/tesla-ceo-elon-musk-says-autonomous-driving-cars-could-make-traffic-worse-41646622958955.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/tesla-ceo-elon-musk-says-autonomous-driving-cars-could-make-traffic-worse/amp-41646622958955.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/tesla-ceo-elon-musk-says-autonomous-driving-cars-could-make-traffic-worse/amp-41646622958955.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 58
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2022/03/07/600x338/TESLA-SOLARCITY-TRIAL-0_1644310317180_1646623347404.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Self-Driving Car Market is Going to Boom | Tesla, Porsche, Toyota Motor"
+    excerpt: "Advance Market Analytics published a new research publication on “Self-Driving Car Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in presentable format. In the Study you will find new evolving Trends ..."
+    publishedDateTime: 2022-03-07T08:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-is-going-to-boom-tesla-porsche-toyota-motor"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-Peace-Protest-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
-secured: "tsqLmI4nR/aGQxIEm9Fs1A5nHbiUesfBMhgLcnAg0ojcMQezwc4rNXoKxPtFSawWnupsnfMhNgtRR51Fjo4fsS9/MLL70VEFsD6OuVL0mTGETNYU0iaFtDA9EwlRLNvzuEeJXjzjdiXKi4XVMXMHKUZL69QV1sDGD+WvscHSiSEc0i6QMM/V/nwUAFr3Y6EkTplp7xrCrU/yN2KG4BykClvDcFxoXCTyl5eJfgWu/YjxWgN5iPz7nQBY1YuZHksVhZcdInLcBTgOKUHwZzFG/XKgnTpNVkzUPKHVn6YEZyEiEMpuAL7Eo5psnXd5xfA3BPwZZEY0j/K2XGieEOoXJwZV33RkkNhQH6uv5cOkd3E=;9tTPDVGHZCUQbSBnLVZ4gw=="
+secured: "UmOEKMIRPzCFDu5VHXAtLdjLKtbT8m172rbrHUvAeoecmilxK1400E01yw6WqZprwUY0eVrp+Cl8/FJj2NjgOAgbkCVD3FFAL5QSqoCOkifw9uFv/CLsbKkGduKSISh1oWbAIe+YX2op3e6gpAaRVj5j+XavCp5Y9CnoC6nLcdbs34m99b/Q/TW2wgSIqz+ZlckaIflyvg2aJ4DfNhKOiUHyyv1fdP3im86i+8Ak2EPF4WbLEd2OoP1V+WRfOdpjn8AEmO5FY2LwHOFrldcqoF9WUVV29fNjtTxvFRtiRdDEMKYMF2z7my63zdCL+faWfhYJjIcMD7oFE+73ReZj5DXXWP1VIaKoARhjypsVo08=;lChsZqU8PC5jvxoFVWCh8A=="
 ---
 

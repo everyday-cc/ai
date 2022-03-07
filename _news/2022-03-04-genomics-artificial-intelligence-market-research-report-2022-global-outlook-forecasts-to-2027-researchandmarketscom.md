@@ -24,47 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Smart Robot Market Report 2022-2027 | Industry Trends, Size, Share and Forecast"
-    excerpt: "According to the latest report by IMARC Group, titled, “Smart Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    publishedDateTime: 2022-03-03T12:17:00Z
-    webUrl: "https://www.digitaljournal.com/pr/smart-robot-market-report-2022-2027-industry-trends-size-share-and-forecast"
+  - title: "Artificial Intelligence in Drug Discovery Market Research Report with Strategies and Opportunities to Boost Growth"
+    excerpt: "Global Artificial Intelligence in the Drug Discovery market is valued at USD 627.1 Million in 2021 and is projected to attain a value of USD 4,197."
+    publishedDateTime: 2022-03-03T10:35:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-drug-discovery-market-research-ashley-hancock"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 35
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 17
     images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEhsLpc1JaYzKNoB35rqXxC2v0Ar7fE3gGpcMA045BA_BLCSkh9-tHZUTxjI_t-JGWpPtcH0r0W_CG4PsvQFO0FZT5XYbJUp0nArVh0IqYHToRgzSPbz6p_JDNnIbb5EXMHaHCZnZwwRN0Ii3QwxlPgtq4jwJznNmmWLRwVA9n4ZNaP3lYHhyNQrey8=w377-h432"
-        width: 327
-        height: 432
-        isCached: true
-  - title: "Artificial Intelligence-Emotion Recognition Market Upcoming Trends, Business Growth, Competitors, Company Market Share and Forecast 2022 to 2028"
-    excerpt: "The \"Artificial Intelligence-Emotion Recognition Market\" report covers the global and regional market with an in-depth analysis of the overall growth prospects in the market. Artificial Intelligence-Emotion Recognition Market contains a comprehensive analysis of company details,"
-    publishedDateTime: 2022-03-04T05:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-upcoming-trends-business-growth-competitors-company-market-share-and-forecast-2022-to-2028-2022-03-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Trends 2022 | Growth, Share, Size, Demand and Future Scope 2027"
-    excerpt: "According to IMARC Group’s latest report, titled “Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    publishedDateTime: 2022-03-03T08:42:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-trends-2022-growth-share-size-demand-and-future-scope-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 27
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/2dc6109d10f9c7cb3e53b861d7a9f851d454174b-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGMTmzoGt02HA/article-cover_image-shrink_600_2000/0/1646303702733?e=1652313600&v=beta&t=Q_vDer_aeM9K7s6W1XR3uYhY3nnW_47-obPRoALm0x0"
+        width: 800
+        height: 560
         isCached: true
 
 secured: "Om26+rbzV3Il/pvCdG+L+HLYSAE1wfhYKGdsbUPTWsVHghuRAmZBPLwwO/aRSTD0htqOFHfi9k/J/KavhlZsPiX2MbtcNjmViRNnWcWvErwbVedFENWQKo4SzAi+XUQEvTAl4qqIG6H0a/ZLz8rR1mr6mheyempneGgzTABrsetVDYGqJtj8vbHOKq9aU+t7xnlLRM4AKYDArGW7RJ6lwI8dfMz6gQstwDDl4NFHXrJ5SttGXx4VZx9v89iUlJLaiF8V8OWVpa9yXMz3C52DAdufy27J4LPzpWT8zkmUXeq11kF55JvVnCvJ7FkLDeh1ydFR7xjoJhDpoxlhzXrnEfD18GS+YfaccM1eBotIG4M=;9bKtnGbpDJinWv5xzeuINw=="
