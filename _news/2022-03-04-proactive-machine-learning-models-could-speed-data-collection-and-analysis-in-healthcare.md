@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220303/Proactive-machine-lea
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220303/Proactive-machine-learning-models-could-speed-data-collection-and-analysis-in-healthcare.aspx"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: News Medical
@@ -26,22 +26,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "AI Healthcare Technology Market 2021 reflects significant growth in the coming years, analyzed by conglomerate size, share, growth, and analysis"
-    excerpt: "This report studies the AI Healthcare Technology Market with many ... ResolveData,Subtle Medical,IBM Watson Health,SaliencyAI,Medalogix,Lumiata,NextHealth Technologies,InformAI,Zebra Medical ..."
-    publishedDateTime: 2022-03-02T07:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-healthcare-technology-market-2021-reflects-significant-growth-in-the-coming-years-analyzed-by-conglomerate-size-share-growth-and-analysis"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/12d88446930301230a01ea1f2aa2866a93a542d0-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "Xs0A4Qw/Fvwm1NJ3NhHZdICPT8KUQ/y8fhogBVcqamDtendAyD+kp6uX7AKpOPb1FHoqRm8zCrCO4YjbHJiWlEiXjpZwVCaePVtdibuJfhKOimmAHOsgr1YVsYmiFdUBQQxeLraq+8gJKVhInVt3rlq/4DHUUDt8iQXzpQFAQg9CLQpo90N9/Cw1iD9nFpOoYKI9K+reLYAoVuqzaDD2NOZ8Hf6K7AhyT/jcNFA7zBjQCna94kS3nI+U2bVFHU0RG8T+v8T2OlbHseS+3FpD1B98IfIT7o/ZB9xcsQLoEvIqmBmW6MGKyvuPuShASR/RJZfZS+/373bQnWI2K+TkNTJI+Rjl2qkPQCUauyepmfs=;luBYvGk2gvXMMKoi33qSpg=="
 ---

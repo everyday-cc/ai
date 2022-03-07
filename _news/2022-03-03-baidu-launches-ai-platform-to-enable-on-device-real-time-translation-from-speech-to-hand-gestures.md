@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Baidu Launches AI Platform to Enable on-Device, Real-Time Translation from Speech to Hand Gestures"
-excerpt: "Baidu AI Cloud, a leading AI cloud provider, launched an AI sign language platform able to generate digital avatars for sign language translation and live interpretation within minutes. Released as a new offering of Baidu AI Cloud's digital avatar platform XiLing,"
-publishedDateTime: 2022-03-03T14:53:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-baidu-launches-ai-platform-enable-on-device-real-/2022/03/03/9556847.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-baidu-launches-ai-platform-enable-on-device-real-/2022/03/03/9556847.htm"
+excerpt: "Baidu AI Cloud, a leading AI cloud provider, launched an AI sign language platform able to generate digital avatars for sign language translation and"
+publishedDateTime: 2022-03-03T13:37:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/baidu-launches-ai-platform-to-enable-on-device-real-time-translation-from-speech-to-hand/article_5a3d784a-3326-5726-80d0-bdc2aaa95f80.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/baidu-launches-ai-platform-to-enable-on-device-real-time-translation-from-speech-to-hand/article_5a3d784a-3326-5726-80d0-bdc2aaa95f80.html"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1758980/Baidu_XiLing_Sign_Language_Digital_Avatar_Logo.jpg"
-    width: 400
-    height: 213
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/55/f55136c9-7cd7-5c1d-8127-5712430d105f/6220d5bfbec14.image.jpg?crop=1084%2C569%2C0%2C4&resize=1084%2C569&order=crop%2Cresize"
+    width: 1084
+    height: 569
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 300
         isCached: true
 
-secured: "WFPfVnnD7nz2FIpRmTTdHLYoE2g/NrUy7dw/2qeArj60FeC2xXj/hb/c+qZGxo5JH3JUeG8TKpP3M9IAuPEzOVyws6l7/n87apEkdFp9fbK9lUHvBoNQeD5CEXjmtvy3U6ZIKLKa6srV4FS+hUnXYEuXwjjVVg5UYcqoL6BD6wYzzThlNK7WwTI0oqk6GOnlDQ1TPJp+KFUmUgP5HRbXNagB3928ObTSv8dKBUxwssHralLLQmfVHYY0xaRiKCxObyf6Bk8bDbGX7f/bL3eIhTBIVyQm6YmAoLHsFwcvaHg4j51jW2I/c+B2L1h3mSGS5cqClyB5Ogjgg5bJetlatma6WmpgCP8vXnGkdjj9384=;4d9eDq8TLjm5Omkm+pe0Yg=="
+secured: "wQf2l4vgUbY4IyNGpPsclbENELOkJU/IcQ9Iun3dUVt2f0DNHGh68dnf+bDM0l55FOf3iErPXor+MSvGhge8UNYjazKwAtYBUgT1cNooVONB+wsoWemT42VHQEy8pLINxAM4/VNvsDzWQkuuob/HElYDsFVCc9al3fsp9tyIGJtxtgBHFUw0bXbgqDRLEYq2Ocvs3IW1o5v4hcWkyf/xkmTSPnpaavx53oZ2z4i5JdYwSQdiFTGIU9Xujlv9q0dfjNI2A8KkYwZL+lJWoiIgsyfhWgawvNvVG02RYu0oAlZh3v3SOdSP6RJN3zkt+vPXIiIjHPpS8tCBohZwYDOMLjHAsfmhs6LAZCnyuror63Q=;mboOBhG1mTS61yc9ptEJFA=="
 ---
 

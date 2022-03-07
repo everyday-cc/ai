@@ -2,19 +2,19 @@
 category: news
 title: "How AI-powered tech landed man in jail with scant evidence"
 excerpt: "Williams was jailed last August, accused of killing a young man from the neighborhood who asked him for a ride during a night of unrest over police brutality in May. But the key evidence against Williams didn’t come from an eyewitness or an informant;"
-publishedDateTime: 2022-03-06T18:48:00Z
-originalUrl: "https://www.nhregister.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
-webUrl: "https://www.nhregister.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
-ampWebUrl: "https://www.nhregister.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
-cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+publishedDateTime: 2022-03-06T22:48:00Z
+originalUrl: "https://www.middletownpress.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+webUrl: "https://www.middletownpress.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+ampWebUrl: "https://www.middletownpress.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+cdnAmpWebUrl: "https://www-middletownpress-com.cdn.ampproject.org/c/s/www.middletownpress.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: New Haven Register
-  domain: nhregister.com
+  name: The Middletown Press
+  domain: middletownpress.com
 
 topics:
   - AI
@@ -54,6 +54,6 @@ related:
       domain: omanobserver.om
     quality: 37
 
-secured: "fFNdszNRJaUj8M9iodquEkOEuQOxr83izdmPje73ka+BAiuYCDm6tbsMPikUDNcD14XceoLEV7T6OQ/7lLMce3MZOhoXa1xYKqfIHbew2JU0UJ7uMlFtHnN+2jklOxpr2Tl+EcapzpIKBpo9wNo+HbDZLheSVkWAAYWfxU56ZMzv3SyyCwj7Pq87031dzfEvNiNvFJSb5yTYpvZ08TaMFoPrbnOh68S5GqllQrebsEuK6hXLHHIXjXtiz3FFSnJRHEiWUUzNqW1yUJ3hsS5MAQgMTgtNR9MHMMZH2dOxfXS4qlM6J9cqb9REUJi+0MsdDcByqNbkeP3T46p3H2BwbIUYu4vPRreyvnc4Flp4e3PGhA/cJ4Npuq9X9ZZ8xzocFjdgkOvH65iCQekEfVYBTuB3WqaTDuQpY2Yhid7pvx4ENcFbMbDgL2yJ062upeY2WrZrdQXqSktZFPsRfun8dz5Bsvp1JkS7DsxjD0iZ0MS0RLBBFaIUTjfbjZKAmjATeyM46m1sShDpzENI1k5fHg==;SFAD8+qzOvrA2gEhR+UgIg=="
+secured: "uubCSAMeNOBM4JXESEJNp0dBsccccb9uWY/1WBiU+vTMzuNR3/Q7I6zvcxMYesRppzvw6TFDeZ/CPz2D1GYWhiVle4yvdAkmO7YXg5WyTXh9Z5RET6yfWzLKA5JZc0LQUGv/SVF1BhSwvRUCl8fFp0xkwb7UhX21p0XrH3QYkWGpHmTtl17zKE6G1qckotKBImA2uTVTEI/1phmKKKRMAHmhVVA4H+ydowaL5QTwkkrOQnKrT0ZHkc3rAucjfT4TRpRA474quaDLfTttI0oP+ETnwVmsaNtxoo09nJ/vvUolaBZA/nBzditn2yHrEfHxYI3MGl9GOUtue2iQ/8Oa1VWYPCBmBSkfK7UdYKLCjGo=;/lg5Z5SLs4ewQI4gv/ZpsA=="
 ---
 

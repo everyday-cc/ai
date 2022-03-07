@@ -170,50 +170,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-04-proactive-machine-learning-models-could-speed-data-collection-and-analysis-in-healthcare.md",
-      "title": "Proactive machine learning models could speed data collection and analysis in healthcare",
-      "excerpt": "Shifting machine learning workflows to a proactive model could speed data collection and analysis in healthcare, according to a viewpoint article published in JAMA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220303/Proactive-machine-learning-models-could-speed-data-collection-and-analysis-in-healthcare.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220303/Proactive-machine-learning-models-could-speed-data-collection-and-analysis-in-healthcare.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220303/Proactive-machine-learning-models-could-speed-data-collection-and-analysis-in-healthcare.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220303/Proactive-machine-learning-models-could-speed-data-collection-and-analysis-in-healthcare.aspx",
-      "publishedDateTime": "2022-03-03T14:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-03-04-how-ai-protects-machine-identities-in-a-zero-trust-world.md",
       "title": "How AI protects machine identities in a zero-trust world",
       "excerpt": "By scanning enterprise networks, bad actors often find unprotected machine identities to exploit, making them a favored attack surface.",
@@ -742,19 +698,19 @@
     {
       "path": "_news/2022-03-02-machine-learning-improves-human-speech-recognition.md",
       "title": "Machine learning improves human speech recognition",
-      "excerpt": "To understand how hearing loss impacts people, researchers study people's ability to recognize speech, and hearing aid algorithms are often used to improve human speech recognition. In The Journal of the Acoustical Society of America,",
+      "excerpt": "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age.",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/944641",
-      "originalUrl": "https://www.eurekalert.org/news-releases/944641",
+      "webUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
+      "originalUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/3bfcfecc-b8b8-4a78-b421-6e5fc26bc004/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-impro.jpg",
+          "width": 2880,
+          "height": 1620,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -762,13 +718,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T08:02:00-08:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
+      "publishedDateTime": "2022-03-01T08:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -778,9 +734,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "Natural Language Processing",
         "AI",
-        "Natural Language Processing"
+        "Machine Learning"
       ]
     },
     {
@@ -1391,6 +1347,58 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-reducing-cloud-waste-by-optimizing-kubernetes-with-machine-learning.md",
+      "title": "Reducing cloud waste by optimizing Kubernetes with machine learning",
+      "excerpt": "Applications are proliferating, cloud complexity is exploding, and Kubernetes is prevailing as the foundation for application deployment in the cloud. That sounds like an optimization task ripe for machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/reducing-cloud-waste-by-optimizing-kubernetes-with-machine-learning/",
+      "originalUrl": "https://www.zdnet.com/article/reducing-cloud-waste-by-optimizing-kubernetes-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1f0604a1d9d2b6a77b5795fba70aebe4371a290b/2022/02/23/d2f728c8-9ea7-4ef2-9d7e-c956359e61bd/stormforge.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 821,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/reducing-cloud-waste-by-optimizing-kubernetes-with-machine-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/reducing-cloud-waste-by-optimizing-kubernetes-with-machine-learning/",
+      "publishedDateTime": "2022-02-23T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

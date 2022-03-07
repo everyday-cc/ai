@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/02/robots-to-the-rescue-5-tips-to-au
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/robots-to-the-rescue-5-tips-to-automate-effectively/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

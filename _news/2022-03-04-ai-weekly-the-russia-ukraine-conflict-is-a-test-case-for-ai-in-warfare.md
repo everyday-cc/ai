@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conf
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/amp/"
 type: article
 quality: 91
-heat: 103
+heat: 101
 published: true
 
 provider:

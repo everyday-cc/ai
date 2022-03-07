@@ -651,6 +651,48 @@
       ]
     },
     {
+      "path": "_news/2022-03-04-ai-helped-protect-businesses-from-covid-19-risks.md",
+      "title": "AI helped protect businesses from COVID-19 risks",
+      "excerpt": "A new study has found that artificial intelligence (AI) apps helped protect small and medium-sized businesses against many of the risks that emerged during the COVID-19 pandemic—yet only a quarter of small firms currently use them.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-03-ai-businesses-covid-.html",
+      "originalUrl": "https://techxplore.com/news/2022-03-ai-businesses-covid-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-2.jpg",
+          "width": 1920,
+          "height": 1633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-03-ai-businesses-covid-.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ai-businesses-covid-.amp",
+      "publishedDateTime": "2022-03-04T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-04-ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare.md",
       "title": "AI Weekly: The Russia-Ukraine conflict is a test case for AI in warfare",
       "excerpt": "The Russia-Ukraine conflict is a proving ground for AI technologies applied to warfare. Already, the impacts are coming into clear view.",
@@ -659,7 +701,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -987,50 +1029,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-proactive-machine-learning-models-could-speed-data-collection-and-analysis-in-healthcare.md",
-      "title": "Proactive machine learning models could speed data collection and analysis in healthcare",
-      "excerpt": "Shifting machine learning workflows to a proactive model could speed data collection and analysis in healthcare, according to a viewpoint article published in JAMA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220303/Proactive-machine-learning-models-could-speed-data-collection-and-analysis-in-healthcare.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220303/Proactive-machine-learning-models-could-speed-data-collection-and-analysis-in-healthcare.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220303/Proactive-machine-learning-models-could-speed-data-collection-and-analysis-in-healthcare.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220303/Proactive-machine-learning-models-could-speed-data-collection-and-analysis-in-healthcare.aspx",
-      "publishedDateTime": "2022-03-03T14:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {

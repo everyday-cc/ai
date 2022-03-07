@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1633
         isCached: true
+  - title: "New study - AI helps protect businesses from COVID-19 risks"
+    excerpt: "A new study has found that artificial intelligence (AI) helped protect small and medium-sized businesses against many of the risks that emerged during the COVID-19 pandemic – yet only a quarter of small firms currently use them."
+    publishedDateTime: 2022-03-07T00:00:00Z
+    webUrl: "https://www.cambridgenetwork.co.uk/news/new-study-ai-helps-protect-businesses-covid-19-risks"
+    type: article
+    provider:
+      name: Cambridge Network
+      domain: cambridgenetwork.co.uk
+    quality: 37
+    images:
+      - url: "https://www.cambridgenetwork.co.uk/sites/default/files/styles/large/public/Blog%20Advert%20%28News%29.png?itok=XJens5pZ"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "sMAFIW8ScHKYD6p0QxBN+j2ZCSMBscUAYLxj0YGOshzCpp6Y3DYUtAtzYM5VDWwS05hs+dS5/nBIwywzGSRpcoQYmBsyZAaOue2/6iBgzHAPMrvLnJg9Ffwrts7TpGCfgVE+tNqLNSmbdGCbesBKO5YnDVuglHGZOgNdif0x7f6ZHe8YtqBqFTNIqkxoVsMilZyRMlXNCVGngZlw9reEhA9itDwTIJp8iUIVlxYwhdbUr3GF/NbRlumauHWkkH0GNzsrA+b24c0xE8ebANmCs81AukjU1VFTxcMRSsjgiPs8kjJEhrwpPN/NY6je4Yd0MVh6R05e14epImyj2t+B865D8nmX0Qk8ipTsX34eeQi7O8Uu5XdJgF3o/7YrQyYggO9ZohZCdOmee8I4b8s20wWQ35gTgbo03qa42a7JlC+AybtM7w1YuQ78pOrPvBMzLFlt5HExEdSdTmZWwkWNhE2WEck9Sg+ClV+zBcnnrV8Lt1GZcHihfu9t+berTnzYaVtpe5oCTxLcb59Kvaiohw==;/FpwMwLrhjZKrozBSbIFWA=="
 ---

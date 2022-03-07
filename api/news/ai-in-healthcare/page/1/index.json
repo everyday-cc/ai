@@ -48,50 +48,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-04-proactive-machine-learning-models-could-speed-data-collection-and-analysis-in-healthcare.md",
-      "title": "Proactive machine learning models could speed data collection and analysis in healthcare",
-      "excerpt": "Shifting machine learning workflows to a proactive model could speed data collection and analysis in healthcare, according to a viewpoint article published in JAMA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220303/Proactive-machine-learning-models-could-speed-data-collection-and-analysis-in-healthcare.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220303/Proactive-machine-learning-models-could-speed-data-collection-and-analysis-in-healthcare.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220303/Proactive-machine-learning-models-could-speed-data-collection-and-analysis-in-healthcare.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220303/Proactive-machine-learning-models-could-speed-data-collection-and-analysis-in-healthcare.aspx",
-      "publishedDateTime": "2022-03-03T14:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-03-04-prescription-for-advancing-healthcare-artificial-intelligence.md",
       "title": "Prescription for Advancing Healthcare: Artificial Intelligence",
       "excerpt": "From Drug Discovery to Triage, AI Deployed Against Top Challenges",
@@ -1282,6 +1238,58 @@
         "name": "Telefonica",
         "domain": "telefonica.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-atommerce-wants-to-scale-its-mental-health-platform-with-167m-funding.md",
+      "title": "Atommerce wants to scale its mental health platform with $16.7M funding",
+      "excerpt": "and artificial intelligence interact to address mental illness by adding the AI chatbot service capable of giving therapy just like a human expert. The company’s AI chatbot RONI, which was ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/10/atommerce-wants-to-scale-its-mental-health-platform-with-16-7m-funding/",
+      "originalUrl": "https://techcrunch.com/2022/02/10/atommerce-wants-to-scale-its-mental-health-platform-with-16-7m-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/Photo-1-MiNDCAFE-Branding-Image-1.jpg?w=680",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/10/atommerce-wants-to-scale-its-mental-health-platform-with-16-7m-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/10/atommerce-wants-to-scale-its-mental-health-platform-with-16-7m-funding/amp/",
+      "publishedDateTime": "2022-02-10T19:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

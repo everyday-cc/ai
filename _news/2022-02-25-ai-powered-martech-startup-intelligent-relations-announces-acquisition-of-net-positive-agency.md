@@ -1,25 +1,25 @@
 ---
 category: news
 title: "AI-Powered MarTech Startup Intelligent Relations Announces Acquisition of Net Positive Agency"
-excerpt: "BOSTON, MA / ACCESSWIRE / February 24, 2022 / Intelligent Relations today announces the acquisition of specialist PR and SEO agency the Net Positive"
-publishedDateTime: 2022-02-24T18:33:00Z
-originalUrl: "https://www.digitaljournal.com/pr/ai-powered-martech-startup-intelligent-relations-announces-acquisition-of-net-positive-agency"
-webUrl: "https://www.digitaljournal.com/pr/ai-powered-martech-startup-intelligent-relations-announces-acquisition-of-net-positive-agency"
+excerpt: "BOSTON, MA / ACCESSWIRE / February 24, 2022 / Intelligent Relations today announces the acquisition of specialist PR and SEO agency the Net Positive Agency for a mix of cash and equity. The acquisition will enable Intelligent Relations to bolster its existing artificial intelligence powered PR platform with new services and capabilities."
+publishedDateTime: 2022-02-24T18:31:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-business-boston-artificial-intelligence-8499951b72af857155bf6e8ef91c3d7d"
+webUrl: "https://apnews.com/press-release/accesswire/technology-business-boston-artificial-intelligence-8499951b72af857155bf6e8ef91c3d7d"
 type: article
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Putin-threatens-Ukraine-AFP-1K-06-600x337.jpg"
-    width: 600
-    height: 337
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "HVHHttqCVLYBxg59x+zR9GahvC/vr1imXgeIrLLq7TsUGV9iiBV/vTdRCVb9K2wCMYsECK6movMtKb7Kb1G2t3WWbiT9MDK9MbyP6J8QU7AyHZVBmNxaU14fEmFEX4xxIjDGPN6pAA2SUANSHe+y3EZ8ekTwvUOR4s3dNSWWSzX6GSH5PmRzi4FroY1SA5fFnJBlDu8mMecK72Tq1iUzXaLrLKpx0S7sAKB331sePg7mB6fLSTvytXEmDazxWG4tnNup22o9BbwwGOi/F8eL64QGWuPOE0C8lsMKyL29lAyd+TGD74KmoVyYrfCicIwP+93EYHJwM0bGiznmBH2ZViIHEqYEGXFgi9cmy2MjlxQ=;pg/gXxGHML4QGkS5kHbUrQ=="
+secured: "XegEP9OGGU43b370puSvPQ3eVXgrwK1ZQRrJIrNT/uvLXZpsQGzsWPldVTVNsKQyV9gXPF70gQWJTuzLKs1EEuJzgcufPbUxO+R2Qb8PvyKso2PAyW8zEV2fJhiEK2mLCBUOvpDO4lU82ZlOmGEFH7TBSOtZjrhAMR/OkjTO+2J1nyghssKOkHNa1gDOsHN1SnwurNgVK4YeW9cPgswzq8KDFXbvl3BY0Sk1dFkM7utDDpvvVmMOxrSyXxpxPRgji0F9GEiFV12p2tM+/ORWClOE/JXV0yi5OcxyTltwMNGIVuujwbFncHNCKy4/QktNzyI7g9VdaiC0V/pO2WKvQOX+samFSUaXxBPprqtYFEQ=;I2TFi3SfiCYZG9TEkshuFg=="
 ---
 
