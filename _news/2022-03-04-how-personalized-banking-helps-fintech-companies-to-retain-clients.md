@@ -118,6 +118,20 @@ related:
         width: 400
         height: 534
         isCached: true
+  - title: "UK fintech startup swipes £4 million to help SMEs solve cash flow struggles"
+    excerpt: "Kolleno is making B2B credit control and collections for SMEs by automating the management of receivables on one single platform hassle-free"
+    publishedDateTime: 2022-03-08T13:36:00Z
+    webUrl: "https://tech.eu/2022/03/08/uk-fintech-startup-swipes-ps4-million-to-help-smes-solve-cash-flow-struggles"
+    type: article
+    provider:
+      name: Tech.eu
+      domain: tech.eu
+    quality: 22
+    images:
+      - url: "https://cdn.tech.eu/uploads/2022/03/untitled-design-2022-03-08t200000039-496.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "CredAvenue fastest Indian fintech unicorn after raising $137 mn"
     excerpt: "Debt marketplace CredAvenue on Sunday announced that it is India's fastest fintech to join the unicorn club with a Series B fundraising round of $137 million. The fundraising round was led by New York-based global private equity and venture capital firm Insight Partners,"
     publishedDateTime: 2022-03-06T20:28:00Z

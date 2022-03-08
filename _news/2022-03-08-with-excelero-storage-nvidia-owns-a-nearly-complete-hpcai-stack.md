@@ -8,7 +8,7 @@ webUrl: "https://www.nextplatform.com/2022/03/07/with-excelero-storage-nvidia-no
 ampWebUrl: "https://www.nextplatform.com/2022/03/07/with-excelero-storage-nvidia-now-owns-a-nearly-complete-hpc-ai-stack/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/07/with-excelero-storage-nvidia-now-owns-a-nearly-complete-hpc-ai-stack/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/excelero-nvmesh-logo.jpg"

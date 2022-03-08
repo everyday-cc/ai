@@ -28,6 +28,17 @@ images:
     height: 350
     isCached: true
 
+related:
+  - title: "Synthesis AI Ranked #4 on Fast Company's Annual List of the World's Most Innovative Companies for 2022"
+    excerpt: "Synthesis AI, a pioneer in synthetic data technologies, ranked number four on Fast Company's prestigious annual list of the World's Mo"
+    publishedDateTime: 2022-03-08T14:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-synthesis-ai-ranked-4-fast-companys-annual-list-/2022/03/08/9559255.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
+
 secured: "qqFO2/bwBcDrnbLAXlMcUms4YnTZtZnUSQp4SSCFancweCPmvr8hj09AcAhS0h7mTUfhz4jz0vYVjc5sUdUNy0jiPw3iZomO88VhL+zRDGLzjs9/Ls86ocIw+B62+mS2AwfEfP8u5wSGhfcZiQdv/jyLMoWaXFK4Lb4CUrZm6+kjsL/Jj6AFNuXwHF/90zIcnJv5rj2Ok7FAwZWyChUMPIycKenFlhT3AzfxWvzpXPffDgItOVRNegMSS/TRAELHZKbwLQktqdkYfynnArhrJNAZ60d7wewXt08Np1jRUzHfLCNsM9jPYgJ23OZJwrDBiE0qjyJKLD7uUgRYOWR1XBPa7vOgTNV270wUTf/wdt8=;SHRWjALj6YM90/4ZjVWEyA=="
 ---
 

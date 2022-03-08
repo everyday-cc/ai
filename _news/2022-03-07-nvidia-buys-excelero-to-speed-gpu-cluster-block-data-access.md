@@ -51,7 +51,7 @@ related:
     provider:
       name: The Next Platform
       domain: nextplatform.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/excelero-nvmesh-logo.jpg"
         width: 684

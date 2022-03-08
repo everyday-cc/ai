@@ -126,6 +126,20 @@ related:
         width: 400
         height: 534
         isCached: true
+  - title: "UK fintech startup swipes £4 million to help SMEs solve cash flow struggles"
+    excerpt: "Kolleno is making B2B credit control and collections for SMEs by automating the management of receivables on one single platform hassle-free"
+    publishedDateTime: 2022-03-08T13:36:00Z
+    webUrl: "https://tech.eu/2022/03/08/uk-fintech-startup-swipes-ps4-million-to-help-smes-solve-cash-flow-struggles"
+    type: article
+    provider:
+      name: Tech.eu
+      domain: tech.eu
+    quality: 22
+    images:
+      - url: "https://cdn.tech.eu/uploads/2022/03/untitled-design-2022-03-08t200000039-496.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "h0Kh9qA4XmIdiq7fz6WbuPJs/FsaoUtUlrUXfyxE8epJAzMZdCIv8E5ckoW52Z48pViaCTkeyiCfnixBY2QWWhXNj8JptVVyKB1VMDryjtpFEwkehVCgblVZDXOhDjUD6ui/GFXqCrM5euJJFTYB8UpOG9gGf2o3SLhB4EVAyXY8Rq204enaaQOEK5AGfhvL9WzEAi8gwtLTz3ukexTJGZCEOTtMFd8OHOmU5tOXhudAbcdEpxVREkwi2lUgOOoolTHEPQFJO9A5dxFXvyEBLFyDeYbZLwF1EdXjHAlEDC4MxTf3WXTFCN2yXgzWdQ9XFXtoNCqw2VgK3CsH4Ox+KAR/PrS0Y3BhiSwt/mDMl9A=;7+xrbPX6MUtqMoZ4V4kH4g=="
 ---

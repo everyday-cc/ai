@@ -1,23 +1,20 @@
 ---
 category: news
 title: "NICE Accelerates Self-Service Success with the Launch of Innovative AI-Powered Capabilities in its CXone Spring 2022 Release"
-excerpt: "Further expanding on the CXi platform, the new CXone capabilities proactively guide digital conversations that prevent self-service abandonment and expand support for bring-your-own chatbots to boost CSAT Faster online resolution with guided web and mobile journeys: CXone Guide proactively provides contextual guidance without human assistance for accelerated self-service success."
-publishedDateTime: 2022-03-03T05:30:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20220303005057/nice-accelerates-self-service-success-with-the-launch-of-innovative-ai-powered-capabilities-in-its-cxone-spring-2022-release"
-webUrl: "https://www.morningstar.com/news/business-wire/20220303005057/nice-accelerates-self-service-success-with-the-launch-of-innovative-ai-powered-capabilities-in-its-cxone-spring-2022-release"
+excerpt: "NICE (Nasdaq: NICE) today announced the Spring 2022 release of CXone, which adds innovative new capabilities that accelerate self-service success. Further expanding on NICE's CXi platform and its focus on the end-to-end digital customer journey,"
+publishedDateTime: 2022-03-03T11:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/03/03/9556391.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/03/03/9556391.htm"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "aQPfwj1qVAfbC/eZSNfXUhv1xosGueID1EVaaXV4JzQsgY7nxPFGCqG7MEPx8L0NB56EogKJHFO0hP3QDIHZIIdTz0MEU2WZUYQwaEhUtPgmJBI5nSxdyDW8o0rLXkiPI1gVm+s6PQ+DAvaayMH+OZiu9M9S36p+v0zWoYvso1YTsJGExFvku4BJ8gDBiBDskc1/dsAHNjNU2lT4K47pCJQydkVwQzTgE8t95zjrPcFqHLv2V563Gu+RKFCFsf/FTdYzgoQPmSmhj5KDUR+Xw+lT2WLSFPhYW+teCAQM+6ApU+T/AUohnr0N1ezba9/5umVg6yCQxwvXaQIZ0jIeoZN+u/6HTD/dLbo5Sd8jK4A=;ijgxozKlynGgj//qQrToyg=="
+secured: "cP6tjCGQ52x5eHecpSRsYtfXsVHAPGLYvaaVj8Si78HQlP9s+gJ1aKshVC9aX5f/Tp4g4gAPjpnEhK+BqLMhZX8ovarwhvQeaQbX9GCXxnVud/vO8NAE2OVL7LotQzb7vbBYRO6tkILsvPJmSPYp8WwrisW1/oS4hISOz2ZUelES5gibsT17Rsc9L4N/uiax+kDpebTZfvP2B9/afzp+rYqa6wGkjGzdDIyZnsuZoqiY0jYaYJud6eccGgiDczWIDvfxXeDQczmL0XA/LlOW0PXTx5hyX6/LXuFz1aI34/NUK7Qt/2Z8SqhU2KS8x7z+bIRuL+Wei2aUFeZrQ2+54rH8UlYYXKGG9ZeLGK+ULnw=;Xy1fI7JdgOgpgV6V5rswmg=="
 ---
 
