@@ -34,20 +34,6 @@ related:
         width: 1920
         height: 1633
         isCached: true
-  - title: "Researchers Develop Human Speech Recognition Model With Deep Neural Networks"
-    excerpt: "A group of researchers from Germany is exploring a new human speech recognition model based on machine learning and deep neural networks. The new model could help greatly improve human speech recognition."
-    publishedDateTime: 2022-03-03T19:43:00Z
-    webUrl: "https://www.unite.ai/researchers-develop-human-speech-recognition-model-with-deep-neural-networks/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 53
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2022/03/brain-6103020_1280.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "YljFTnc9NpLEWf8/IGC6ta7uxuVn4iV64EkrRcO8a+SiLCDlNLvUAcl6Nxa7Fsx4YUGwrOOW38VdW4FiiuCh1VOoHjGE+P6/Dedo/JkuHqeEbe0g2qW8adGNOCnVq2bbCYMtn5hiQeVCrfnpxNHv8xe7zlaty37h8GsNeETtq6ia+3qbd4pqz0saBvgRze9DCpAGJo6ofqfun+wdfsncC6oV0H/ENCOsXviNkIahQLHUaS/WzQPx5EE8/wPaNuH2Y1sJDHIBvihRhXH874zJToTkcQ6JtFHllBSKNP+pXQZZMBiKoaJPmI7EjPyVVMSxhhfBSMLQbf4pkv/uvY6G2fmUAKctGYtxeb7KLi/cBEk=;D1zbfw9/NA8LEpgaHRFCVA=="
 ---

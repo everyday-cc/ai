@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-03-ai-businesses-covid-.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ai-businesses-covid-.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: techxplore.com
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep-learning diagnoses: Edge AI detects COVID-19 from smartwatch sensors"
-    excerpt: "By combining health questions with data from smartwatch sensors, a new app developed using research at Princeton University can predict within minutes whether someone is infected with COVID-19."
-    publishedDateTime: 2022-03-03T20:43:00Z
-    webUrl: "https://www.princeton.edu/news/2022/03/03/deep-learning-diagnoses-edge-ai-detects-covid-19-smartwatch-sensors"
-    type: article
-    provider:
-      name: Princeton University
-      domain: princeton.edu
-    quality: 38
-    images:
-      - url: "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2022/03/NeuTigersCOVID-Deep_012422_0011-2880x1920px.jpg?itok=hPfQnWvR"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "New study - AI helps protect businesses from COVID-19 risks"
     excerpt: "A new study has found that artificial intelligence (AI) helped protect small and medium-sized businesses against many of the risks that emerged during the COVID-19 pandemic – yet only a quarter of small firms currently use them."
     publishedDateTime: 2022-03-07T00:00:00Z

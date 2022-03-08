@@ -2,49 +2,6 @@
   "page": 45,
   "value": [
     {
-      "path": "_news/2022-01-27-ros-vs-ros-2-differences-and-practical-applications.md",
-      "title": "ROS vs. ROS 2: Differences and Practical Applications",
-      "excerpt": "and tools to create applications for robots. The platform offers services for a heterogeneous computer cluster such as hardware abstraction, device control, implementation of functionalities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21215225/electronic-design-ros-vs-ros-2-differences-and-practical-applications",
-      "originalUrl": "https://www.electronicdesign.com/industrial-automation/article/21215225/electronic-design-ros-vs-ros-2-differences-and-practical-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/01/Sompong_Sriphet_dreamstime_l_138547722newest.61f2a829e859a.png?auto=format&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-26T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-27-idme-says-it-uses-more-powerful-facial-recognition-than-previously-claimed.md",
       "title": "ID.me says it uses more powerful facial recognition than previously claimed",
       "excerpt": "\"ID.me uses a specific '1 to Many' check on selfies tied to government programs targeted by organized crime to prevent prolific identity thieves and members of organized crime fro",
@@ -1189,6 +1146,39 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-how-to-stand-out-as-a-fashion-ai-startup.md",
+      "title": "How to stand out as a fashion AI startup",
+      "excerpt": "Adeptmind, the emerging AI and machine learning tech startup backed by Ulta Beauty, is providing its technology to over 400 retailers, shopping malls and brand clients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.voguebusiness.com/startups/how-to-stand-out-as-a-fashion-ai-startup",
+      "originalUrl": "https://www.voguebusiness.com/startups/how-to-stand-out-as-a-fashion-ai-startup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-26T03:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "voguebusiness",
+        "domain": "voguebusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

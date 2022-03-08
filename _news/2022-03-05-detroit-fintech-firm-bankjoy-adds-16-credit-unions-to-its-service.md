@@ -104,20 +104,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Financial Inclusion Revolutionized By African Fintechs"
-    excerpt: "Between 2014 and 2019, Nigeria’s bustling fintech scene raised more than $600 million in funding,” says global consultancy McKinsey in a September 2020 report. In 2019, the country attracted $122 million,"
-    publishedDateTime: 2022-03-03T20:15:00Z
-    webUrl: "https://www.gfmag.com/magazine/march-2022/african-fintechs-expand-financial-inclusion"
-    type: article
-    provider:
-      name: Global Finance
-      domain: gfmag.com
-    quality: 24
-    images:
-      - url: "https://d2tyltutevw8th.cloudfront.net/CACHE/images/media/image/africa-access-1200-1646337019/b7807438d598c5fd683d68db44385799.png"
-        width: 500
-        height: 260
-        isCached: true
   - title: "Understanding Fintech and the market for loanable funds"
     excerpt: "Fintech (aka. financial technology) refers to the use of technology to transform the way we conduct business in the financial sector."
     publishedDateTime: 2022-03-07T07:30:00Z

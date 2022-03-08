@@ -7,7 +7,7 @@ originalUrl: "https://www.purdueexponent.org/city_state/article_5d7998fc-9e7f-11
 webUrl: "https://www.purdueexponent.org/city_state/article_5d7998fc-9e7f-11ec-ab73-c7547009ca6d.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1087
     height: 571
     isCached: true
-
-related:
-  - title: "Vivotek Announces Facial Recognition Tablet"
-    excerpt: "With a focus on high accuracy, high security, and group (list) management, the FT9361-R is effective for access control and employee management."
-    publishedDateTime: 2022-03-03T20:26:00Z
-    webUrl: "https://www.avnetwork.com/news/vivotek-announces-facial-recognition-tablet"
-    type: article
-    provider:
-      name: AV Network
-      domain: avnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/hHiQvZTzs5HyTy68HDEd4U-1200-80.jpg"
-        width: 1152
-        height: 648
-        isCached: true
 
 secured: "HDVOnXgf3o6onhI0zalvIL8eMRwcTmO05hyPIIl4uzMAf3xlTF+y6NmZ7Gqkmd9o5yLSJ6u7rj5FqvppM9Lmkdr1liqMAaXWPu9nDaoiHYKx7101sBlOqzpOcJncn/OFPkNDJn6IKzvBv09ygV/6rW6Qy6KW4P8vSEyTmNH0pw9AlcwupQ127qJTmahouwH10zB3UBCfcL93M8m88qugNUbVC9aj0yLX38Ifaqn5c5cDESP1EjJTT1jxicaBc4rZTQ3m+TW9bQwx/laiU2Z9fgeG9pXkBpSJ4eZbCtw6ZMOafBpFOc3U0gHbawH7LHq0lHrZQGBYcLOZhH3awN3pmxVj11azyY/TQqX2QJsQ5Rg=;MEA4Ef4IKtC23xsE9qNBZw=="
 ---

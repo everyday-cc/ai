@@ -7,7 +7,7 @@ originalUrl: "https://www.easternherald.com/2022/03/05/ihub-data-at-iiit-hyderab
 webUrl: "https://www.easternherald.com/2022/03/05/ihub-data-at-iiit-hyderabad-launches-course-on-machine-learning-for-chemistry-and-drug-design/"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "IHub-Data at IIIT Hyderabad launches course on machine learning for chemistry and drug design"
-    excerpt: "With AI/ML revolutionizing the field of natural and applied sciences, there is an increasing need for professionals with knowledge of both AI/ML as well as applied sciences. IHub-Data in collaboration with IIIT-Hyderabad,"
-    publishedDateTime: 2022-03-03T20:51:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220303/3914370.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 8
 
 secured: "fTMjlcgI1KiQBuo0JziMmr0k+eUD6TXJ31XjYX0pBIYVJ1v4Z9iSu1GFaAKQCOylGD7JiC9dN1Ckdko8a2+V0YslEyV1PYJQGye6MAASXXHYOxGD/ZAmapSYU3IwV1CUyskaWDQI/VmSpUn7O9kUZYsY+mWye6eGY9oUNWiTXLPTvTx1fSY6Rn4s0DHIkloJycAshXCYdQhhOAygXCuVxwEkNSUDKumBAvjfVRovnyqktFee/SVZHl6sWspX9ZUkLKd08zn+VNybATY8i6PxaRYqUZA2oLENf4LX0hrV+5OXY4eHO9OlvZtopoS3hi7AHb1pN0eOeVL1BkPx0PkIa+RFqH9GMs2CQMb5GygiA9g=;r5lEAAIUKWaZ9g7+188FGg=="
 ---

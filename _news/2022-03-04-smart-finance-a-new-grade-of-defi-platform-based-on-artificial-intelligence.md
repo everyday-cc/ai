@@ -42,22 +42,6 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "Smart Finance ICO Launch will be announced soon, a New Grade of DeFi Platform Based on Artificial Intelligence"
-    excerpt: "During an interview with the Founder of Smart Finance – TheZarchitect, he said \"Artificial Intelligence is the ultimate game changer in the crypto sector. AI provides a smart and powerful automated trading robot that can estimate crypto market values and ..."
-    publishedDateTime: 2022-03-03T20:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/03/g25977479/smart-finance-ico-launch-will-be-announced-soon-a-new-grade-of-defi-platform-based-on-artificial-i"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25977479"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25977479"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "xpfcC9RgLUW6oh0wj2onfZz/fJdEJNB4XdHhcxjnIWHZ+3sLOFdBrHqudfblhc97XlzlrDYbW4z13LifdtcdaU4SHRbM74PE+AkhGKxB0BTxYiF2FaewlzESAT9pTZZyHOYSMDmILMxMmvlGizkRpfvHZxtWfM9kTkGTP0TFLmEBnxLBCEnQXSle57+zK+6SlL6XyRjh7ak7AU29Z0d8rC21WHa8CZJfCBTHWTCdhKgAKve6Em5xqaUxsmXEJ2ftjhd8uZBrJ7lUBbceMQu4iCq+bbiZn5psrKbvs/uNM5h84eFi5fcKGh7fEhOee6cCTVHcVMl9NhU2rPZG9J9gyDiwv7nE8JLF/Y9VpiNNj3Q=;t9DCzhSWIUCkZ/cLbzf6og=="
 ---

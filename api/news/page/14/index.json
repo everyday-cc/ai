@@ -2,49 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2022-02-22-microsoft-reveals-singularity-ai-infrastructure-service.md",
-      "title": "Microsoft reveals ‘Singularity’ AI infrastructure service",
-      "excerpt": "Microsoft Azure and Research teams are working together to build a new AI infrastructure service, called Unity. The Unity Team is working to build what Microsoft describes in some of its team operations as a new AI service from the beginning platform that ...",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/02/Microsoft-reveals-Singularity-AI-infrastructure-service-01.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/amp/",
-      "publishedDateTime": "2022-02-22T04:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-22-sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers.md",
       "title": "Sustainable AI Turns Small Data Into Huge Results For Manufacturers And Researchers",
       "excerpt": "Just ask some of the customers from Hacarus, a Japan-based startup that’s developed a standout AI-fueled visual inspection solution. Manufacturers and medical researchers have discovered sparse modeling is the sustainable antidote to traditional AI.",
@@ -1207,6 +1164,58 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-02-21-irs-adds-option-that-lets-taxpayers-skip-facial-recognition.md",
+      "title": "IRS Adds Option That Lets Taxpayers Skip Facial Recognition",
+      "excerpt": "The Internal Revenue Service on Monday said it has enabled a new option that allows taxpayers to sign up for online accounts with the agency without the use of any biometric data, including facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/personal-finance/taxes/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/",
+      "originalUrl": "https://www.cnet.com/personal-finance/taxes/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 319,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/7betrcU9jHZ1tSz-tNe_qVOBzRw=/1200x630/2020/07/14/02e69693-df4d-4af1-b15c-9c97b90797f9/tax-day-4039.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/",
+      "publishedDateTime": "2022-02-21T07:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

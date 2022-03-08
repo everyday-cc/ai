@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 577
         isCached: true
-  - title: "Graphcore debuts 3D AI chip with new wafer-on-wafer technology"
-    excerpt: "Chip startup Graphcore Ltd. today introduced a new artificial intelligence processor, the Bow IPU, that uses an innovation dubbed wafer-on-wafer technology to speed up calculations. U.K.-based Graphcore is backed by more than $680 million in venture funding."
-    publishedDateTime: 2022-03-03T20:55:00Z
-    webUrl: "https://siliconangle.com/2022/03/03/graphcore-debuts-3d-ai-chip-new-wafer-wafer-technology/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/graphcore.png"
-        width: 795
-        height: 445
-        isCached: true
 
 secured: "+JrB9UdN8tTOOoqtDafm58ZcaxXSB5zhX9oLvynPuXVRJ/NWrdkVIXhE/WyoFx6h9gqqhC3PZaJrN6haj0UC/k1+WiyF8671Oyor2dfeceAWRmh/2Tv0ha2PLuM3u9voDfekViUpA4cjoabg/WaqK5E3OBahRT66HEI9m6nZ12sLPIFZOT4NJ35eXphOI8W/qUFtOFCNoXrKbkVtX3tsYhXbL45MpZGX4fgUOvD35nn0LaeLzt0oEQ2M+ns/aPEBGj2FHEofUXeaVdBShAVDiktd3bBIiEt9jKDBr6XMRJDf55bWxMzatSiSZuQR+rTdwYB4lTZBSpwNSHE8K+36qbQkDM/nm3JKk2/Lt2Jq00kpqD5bN6mxbjoytBz2q5RORhZ1a/8aBs2e9JS/CfdtxpQ/ssV7mSH7+iqbS6htRH6CXAuqFlxnZe/kk1F8N+fbAWu9nqiDZVTAPwZLXSXcygnNT1qStsA6f3aCh1o42IhMwSB0RlmQY5feGBSvWkXQJGxXorhkE6Ml0Osnoeff3g==;uL415TSbSLG+y/Ue2hui5w=="
 ---

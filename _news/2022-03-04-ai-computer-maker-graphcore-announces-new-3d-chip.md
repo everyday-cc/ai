@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-computer-maker-graphcore-a
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-computer-maker-graphcore-announces-new-3d-chip/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/graphcore-chip-shot-logo.jpg"
         width: 1505
         height: 873
-        isCached: true
-  - title: "Graphcore debuts 3D AI chip with new wafer-on-wafer technology"
-    excerpt: "Chip startup Graphcore Ltd. today introduced a new artificial intelligence processor, the Bow IPU, that uses an innovation dubbed wafer-on-wafer technology to speed up calculations. U.K.-based Graphcore is backed by more than $680 million in venture funding."
-    publishedDateTime: 2022-03-03T20:55:00Z
-    webUrl: "https://siliconangle.com/2022/03/03/graphcore-debuts-3d-ai-chip-new-wafer-wafer-technology/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/graphcore.png"
-        width: 795
-        height: 445
         isCached: true
 
 secured: "MRtXtt/BqrIMOROg8riswi52TyY9LC8St/eiNAc+dHt6AkiF9c1iWHC7vX2V24hfdCL0PnhV/C2baCz1fakdPE0Dhccodgf+g65JPlmaS/zaKJUbEN0jtye9voyrwo9lQqFq4Z0z2ocwvX9X8qe+F7vBOFScU12xzz0ast80t43EWuNy8rKFmJW7o3UmVrd7y96a8T7PR3269uNNu6bym2tpirDk5nBF5pN5CbVlQPi3XrPGs7Xt+jrcb5RAzQhfEpUUDaZLqLfuOCAMXOfMBtVlob4EBUeFDHk1bdUS5fAfuf/geyVPJPZsLTn9VM5S4K95/mvllgJqapJiIZrdOuN3V6uV8HulqquJsPbIYGLJ9TBab37stQKvPvStaqcPjFPe+I25MmWIxg83CJbXlUrJTwvQ9huJotwQCa2PJ0uvt/S6NPxGFuMF/pAY1+jBWeKuwsSfKYd+jdKbiUn/UZOgMdQ5a/nWwayPEsWKuQiFUebFNYn+LzT1B6kLCJPmBStbDRmJBDMesUOlIXsldQ==;IB5DnLU6iujFBpNUxfcWww=="

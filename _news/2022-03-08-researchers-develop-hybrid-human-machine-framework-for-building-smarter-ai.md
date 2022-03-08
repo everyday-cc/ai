@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-03-hybrid-human-machine-framework-s
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-hybrid-human-machine-framework-smarter-ai.amp"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: techxplore.com
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers Develop Human Speech Recognition Model With Deep Neural Networks"
-    excerpt: "A group of researchers from Germany is exploring a new human speech recognition model based on machine learning and deep neural networks. The new model could help greatly improve human speech recognition."
-    publishedDateTime: 2022-03-03T19:43:00Z
-    webUrl: "https://www.unite.ai/researchers-develop-human-speech-recognition-model-with-deep-neural-networks/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 53
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2022/03/brain-6103020_1280.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "UCI researchers develop hybrid human-machine framework for building smarter AI"
     excerpt: "UCI researchers develop hybrid human-machine framework for building smarter AI Model uses human and algorithmic predictions and confidence scores to boost accuracy “Humans and machine algorithms have complementary strengths and weaknesses. Each uses ..."
     publishedDateTime: 2022-03-07T23:08:00Z
