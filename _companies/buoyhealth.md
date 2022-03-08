@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "buoyhealth"
   url: "https://twitter.com/buoyhealth"
-  followers: 1358
+  followers: 1359
 
 size: 11-50 employees
 yearFounded: 2014
