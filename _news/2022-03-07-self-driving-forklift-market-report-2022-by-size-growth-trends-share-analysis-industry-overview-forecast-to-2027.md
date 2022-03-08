@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence-Emotion Recognition Market Upcoming Trends, Business Growth, Competitors, Company Market Share and Forecast 2022 to 2028"
-    excerpt: "The \"Artificial Intelligence-Emotion Recognition Market\" report covers the global and regional market with an in-depth analysis of the overall growth prospects in the market. Artificial Intelligence-Emotion Recognition Market contains a comprehensive analysis of company details,"
-    publishedDateTime: 2022-03-04T05:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-upcoming-trends-business-growth-competitors-company-market-share-and-forecast-2022-to-2028-2022-03-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence in Gaming Market 2021 Report Reviews on Key Manufacturers, Regional markets, Application and Segmentation by 2027"
     excerpt: "Global Artificial Intelligence in Gaming Market 2021 by Company, Regions, Type and Application, Forecast to 2027"
     publishedDateTime: 2022-03-06T22:41:00Z
@@ -56,20 +42,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AI-Enabled Medical Imaging Solutions Market Demand and Growth Analysis with Forecast up to 2027"
-    excerpt: "Enabled Medical Imaging Solutions Market is forecasted to be worth USD 4,720.6 Million by 2027, according to a current analysis by Emergen"
-    publishedDateTime: 2022-03-07T07:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-enabled-medical-imaging-solutions-market-demand-and-growth-analysis-with-forecast-up-to-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 25
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-Peace-Protest-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "Geospatial Analytics Market Technology, Product Scope, Demand, Business Scenario, Trends, Share, Applications, Types and Forecasts 2028"
     excerpt: "The global geospatial analytics market size is expected to reach USD 134.23 Billion in 2028 and register a CAGR of 12.1% during the forecast period,"

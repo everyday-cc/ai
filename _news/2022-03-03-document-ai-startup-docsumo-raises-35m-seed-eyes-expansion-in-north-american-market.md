@@ -2,9 +2,9 @@
 category: news
 title: "Document AI Startup Docsumo Raises $3.5M Seed, Eyes Expansion in North American Market"
 excerpt: "Singapore-headquartered Docsumo, a document AI startup that helps enterprises make automated decisions from customer documents, recently raised $3.5 Million in seed capital. The round was led by Common Ocean with participation from Fifth Wall,"
-publishedDateTime: 2022-03-03T15:08:00Z
-originalUrl: "https://apnews.com/press-release/Newswire/technology-business-north-america-singapore-2cce5ad7ae9cca8461b11938c02ee2fb"
-webUrl: "https://apnews.com/press-release/Newswire/technology-business-north-america-singapore-2cce5ad7ae9cca8461b11938c02ee2fb"
+publishedDateTime: 2022-03-03T15:24:00Z
+originalUrl: "https://apnews.com/press-release/newswire/technology-business-north-america-singapore-937f04aecdc86306209b1cdc631254bf"
+webUrl: "https://apnews.com/press-release/newswire/technology-business-north-america-singapore-937f04aecdc86306209b1cdc631254bf"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 450
     isCached: true
 
-secured: "TkHlGykOydtAFdzERiszcsDr693QmHhod3OE8dccC8skx/NqEBTjbug1vePsK4uUZMlO1RZtmLfbNRuxO2cTD6Grgd5j7TzzfWGZD4ctac5qYaImZGM8W7L5kIe7fgXaNy9rKLjkiHpyHImzk9WSV0j0zXMiOSKd/CZuolxYk78pED9KEu+AO2yVbwqHm18uClV9lmAoq9jVB9c0cWDV5Xau+vB3rzBJAbhV2nSrArc6UYyLhnIYkp9wpX4WyWVd1fMmRmrKr3tsaNpjDG9DfoX+qzbMINlfDSv2hb8xrZLHbAHX+7Y+5RY1fJM52CHgW+EZu9Hkopu6PUaHQmtyHLuUdXf86n2OEZOxPPbxU/Y=;jKf/A3Ar0TxdLDXk0hVyXw=="
+secured: "A5EiqI6/fh1qMaPE3CytE2GXaTDMRO4OPb1S/Njo2naEmm7/trrh4fa8NcQ/+eRXQ3fhIAAckfaatL//JgdCTfF4iHfUF93BOfIdkYascC09T04eURsCy8+qJTcb30o0rbn0BnoP/49hzy7ns7m+mxucnKsbBAVmJBvipdJWxDoRgQy3sUNc04IVeGU0cVN+wrum2zZOszDe2iX9VEKRDehKzaBwwGV+JSKCPRZ9tKMZMZgZRLh6zWBrPhOQAGOwDcTg7dPB1MAnhu/JB25Y1RV94W2WS4ppis5EBQsOVu6kieOMERnOegJ8rxWpRY9W6/3GApLTjSQ86I/qqeKPjsAxyW8kioyZEpFIj057MyU=;Z2c+47dNHPqwul1WAYAsPg=="
 ---
 

@@ -36,22 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "This Edtech Start-Up Teaches Kids How to Code AI"
-    excerpt: "On Thursday a Cape Town-based edtech startup, Mindjoy, launched a track that teaches kids to code Artificial Intelligence (AI) and Machine Learning (ML) programs, powered by OpenAI’s GPT-3. Mindjoy says that the ‘Get Creative with Artificial Intelligence’ series of its projects allows kids to explore AI and Machine Learning in a safe,"
-    publishedDateTime: 2022-03-04T07:01:00Z
-    webUrl: "https://www.itnewsafrica.com/2022/03/this-edtech-start-up-teaches-kids-how-to-code-ai/"
-    ampWebUrl: "https://www.itnewsafrica.com/2022/03/this-edtech-start-up-teaches-kids-how-to-code-ai/?amp"
-    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2022/03/this-edtech-start-up-teaches-kids-how-to-code-ai/?amp"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 57
-    images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2022/03/Mindjoy.jpg"
-        width: 800
-        height: 520
-        isCached: true
 
 secured: "F3FLEhvKAARsCLdBAW77z1fzf+Ypep/ds1lucWJMErV5m8VF5kdBhQOcs5uyCxdMVvxzwvwwQVrt1sHKx8GZZ+LcQwSwEMOVfze7hCbNo0T88tBeX1PK71+luw05vBWgkKKBJAV0s7i71Lu5A0h1omU2/nHkE3oFp1rE9zavH95pBwAz9wcyw0Ohcht89g0Q1cf00SWhwVVGQI+tuiHWduK0PKs+0GGYeGlX+yU7IMLe+EBZPN/P9Jm4eDqEqfjfihhra77FW1ChJOBDM/N6D96tpNOrrzVqT/nPQWvdcaoFD62/op+yf1RwkirZAPjebl2C0PfA955CrfkaPEjna9u6YM9vmXMKi4jLHuH0fabAj3+O75zQ8Dy2Qg+OlfYOqDzid6zeTvIE1piYeLhyqSC9gC863oaoxBYNdImU19YBvbWk6Gb/jci+Ijww3slGrRgH6ZxIxTIGbpljwnw5IJJfF2GX8pjnPu8GSOY0Hp8Ho7lLGymime8rBeZGSFhMMetPFMUUCRk6/oCQg7aGaQ==;yEQ1fcEskV0rF7cSHaRjuw=="
 ---

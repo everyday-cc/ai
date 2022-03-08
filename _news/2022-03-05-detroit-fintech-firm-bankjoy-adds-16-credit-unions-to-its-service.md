@@ -39,20 +39,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "How Personalized Banking Helps FinTech Companies to Retain Clients"
-    excerpt: "Previously, to receive personalized service, bank clients had to hire personal assistants. Personal bankers helped them to open savings accounts, arrange loans, maintain accounts, and solve other financial issues."
-    publishedDateTime: 2022-03-04T06:53:00Z
-    webUrl: "https://www.finextra.com/blogposting/21932/how-personalized-banking-helps-fintech-companies-to-retain-clients"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://d3jqtupnzefbtn.cloudfront.net/andersenlab/new-andersensite/cases/Klarna/visuals/shop.png"
-        width: 1110
-        height: 760
-        isCached: true
   - title: "CredAvenue fastest Indian fintech unicorn after raising $137 mn"
     excerpt: "Debt marketplace CredAvenue on Sunday announced that it is India's fastest fintech to join the unicorn club with a Series B fundraising round of $137 million. The fundraising round was led by New York-based global private equity and venture capital firm Insight Partners,"
     publishedDateTime: 2022-03-06T14:42:00Z

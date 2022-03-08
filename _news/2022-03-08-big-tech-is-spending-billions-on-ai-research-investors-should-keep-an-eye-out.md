@@ -1,14 +1,16 @@
 ---
 category: news
 title: "Big Tech Is Spending Billions on AI Research. Investors Should Keep an Eye Out"
-excerpt: "It took off in 2010 when the ImageNet project proved it was possible to use two GPUs developed by Nvidia to train a large AI model to recognize labeled images, said Kyunghyun Cho, a co-founder of the startup Prescient Design and an associate professor of ..."
-publishedDateTime: 2022-03-08T14:41:00Z
-originalUrl: "https://www.wsj.com/articles/big-tech-is-spending-billions-on-ai-research-investors-should-keep-an-eye-out-11646740800?tpl=vc"
-webUrl: "https://www.wsj.com/articles/big-tech-is-spending-billions-on-ai-research-investors-should-keep-an-eye-out-11646740800?tpl=vc"
+excerpt: "For instance, Meta Platforms Inc. says that by midsummer its AI Research SuperCluster system will house 16,000 Nvidia Corp. graphics processing units, a massive engine that Meta claims will be the fastest of its kind in the world. As well, the DeepMind ..."
+publishedDateTime: 2022-03-08T12:26:00Z
+originalUrl: "https://www.wsj.com/articles/big-tech-is-spending-billions-on-ai-research-investors-should-keep-an-eye-out-11646740800"
+webUrl: "https://www.wsj.com/articles/big-tech-is-spending-billions-on-ai-research-investors-should-keep-an-eye-out-11646740800"
+ampWebUrl: "https://www.wsj.com/amp/articles/big-tech-is-spending-billions-on-ai-research-investors-should-keep-an-eye-out-11646740800"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/big-tech-is-spending-billions-on-ai-research-investors-should-keep-an-eye-out-11646740800"
 type: article
-quality: 65
-heat: 65
-published: false
+quality: 83
+heat: 83
+published: true
 
 provider:
   name: Wall Street Journal
@@ -20,7 +22,6 @@ provider:
 
 topics:
   - AI
-  - Google AI
 
 images:
   - url: "https://images.wsj.net/im-499743/social"
@@ -28,6 +29,6 @@ images:
     height: 640
     isCached: true
 
-secured: "nTeClVew9DUVMdTQETE35v6LZRkIadX0a29Xiial1EN/AB7j9TLsD5gSlfC4Ef7+Ye6Dm9uMysWuRjR1VwFNGzfNh78oDpkVJdePGyZDc8WIFBm8JtnAxtUkwlaPe8Sw+GLyn/WBbiNOT6ewNVwi6k7xKWnDlHCfhg7Sf+Hmxh+6zSUdvROwqjiP774QGe0HLMG/w4Xgk/dZ2Ew+QGiYKV1oSpIQWbIzGJ1x1bO3MnOFY0CmR2amxHtz8BRgNYr7KytBmomoui/pdGgvxmUbZG9DfSSUP+YhsmSJ9I1QDZYPz4DI7C35Wr4JKNQFK/uZ+fbYFp8BWIqQEdOQ24ojCeAsPamDcl7aGtECeiNH+F4=;N1pnIs4A6d0Ly/SrvVGfXQ=="
+secured: "HhBFFyxRkWT3fGqFHcTFH5VB6+9nxoX1bgKmFwMFijtNhP8duehXusgMHiVoaUnDYMgaa0s2k7IWJv4yb3iFih13EmqNL1k+81qhR2T1Vkx41PBKv2iPe/9PTdahVAvG7/L+YBe+vg6IHoaPJlcxDy3JSqnEJ69acjH3oWcxyWn8V1s3qLmmkq9zs85M3jVsp8m7UisyXUCrpaASIs6hJFBjh4j48W5PQU9USd/IKFzXhJWnNV4m3TQSRYL397tq2MI3cKa0O6Pg6UXVrM7pWSaISeLz3lQzGvRpEnt+dLgM+Vw3f71HW00adgjepz93nMO9zMs+I9U7bHiPuWlhHL4TZb4px/ti6OdGGKPiSBA=;uo2p/g+ocpASY5arstcGpg=="
 ---
 

@@ -34,20 +34,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "How Personalized Banking Helps FinTech Companies to Retain Clients"
-    excerpt: "Previously, to receive personalized service, bank clients had to hire personal assistants. Personal bankers helped them to open savings accounts, arrange loans, maintain accounts, and solve other financial issues."
-    publishedDateTime: 2022-03-04T06:53:00Z
-    webUrl: "https://www.finextra.com/blogposting/21932/how-personalized-banking-helps-fintech-companies-to-retain-clients"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://d3jqtupnzefbtn.cloudfront.net/andersenlab/new-andersensite/cases/Klarna/visuals/shop.png"
-        width: 1110
-        height: 760
-        isCached: true
   - title: "Detroit FinTech Firm Bankjoy Adds 16 Credit Unions to its Service"
     excerpt: "Bankjoy in Detroit announced it has added 16 credit unions from across the U.S. to its seamless end-to-end digital service ecosystem."
     publishedDateTime: 2022-03-04T17:02:00Z

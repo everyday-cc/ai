@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/945721"
 webUrl: "https://www.eurekalert.org/news-releases/945721"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI core software 'Deep Learning Compiler' developed"
+    excerpt: "A Korean research team has unveiled a core technology which reduces the time and cost invested in developing artificial intelligence (AI) chips in small and medium-sized enterprises and startups. Thanks to the development of system software that solved the problems of compatibility and scalability between hardware and software which have been obstacles in the past,"
+    publishedDateTime: 2022-03-08T18:05:00Z
+    webUrl: "https://techxplore.com/news/2022-03-ai-core-software-deep.html"
+    ampWebUrl: "https://techxplore.com/news/2022-03-ai-core-software-deep.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ai-core-software-deep.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 76
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/etri-developed-ai-core.jpg"
+        width: 2880
+        height: 1915
+        isCached: true
   - title: "Software-defined processors for edge AI get two new compilers"
     excerpt: "For its software-defined AI processors, Ambient Scientific releases vertical compilers for fast development of AI applications, and a generic compiler to enable more programming flexibility."
     publishedDateTime: 2022-03-07T10:44:00Z
