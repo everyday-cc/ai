@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Luminous Computing, which is developing a light-based AI accelerator chip, raises $105M"
-    excerpt: "Join today's leading executives online at the Data Summit on March 9th. Register here. According to some experts, the growth in the compute power necessary to develop future AI systems might run up against a wall with mainstream chip technologies."
-    publishedDateTime: 2022-03-03T13:00:00Z
-    webUrl: "https://venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/"
-    ampWebUrl: "https://venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 198
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1294874384.jpg?w=1200&strip=all"
-        width: 1200
-        height: 602
-        isCached: true
-  - title: "Inworld AI raises $10M to develop AI- powered virtual characters for games"
-    excerpt: "Inworld AI has raised $10 million to help scale its team as it prepares to launch its AI character creation platform later this year."
-    publishedDateTime: 2022-03-03T16:49:00Z
-    webUrl: "https://venturebeat.com/2022/03/03/inworld-ai-raises-10m-to-develop-ai-powered-virtual-characters-for-games/"
-    ampWebUrl: "https://venturebeat.com/2022/03/03/inworld-ai-raises-10m-to-develop-ai-powered-virtual-characters-for-games/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/inworld-ai-raises-10m-to-develop-ai-powered-virtual-characters-for-games/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/Inworld-AI-Character-Screenshot.png?w=1200&strip=all"
-        width: 1199
-        height: 871
-        isCached: true
   - title: "Luminous Computing The Latest AI-Startup To Attract Big Funding"
     excerpt: "Luminous Computing is one—and investors seem intrigued with its promise. The Mountain View, California-based supercomputer company closed a $105 million Series A Thursday from investors including Microsoft co-founder Bill Gates."
     publishedDateTime: 2022-03-03T16:46:00Z
@@ -69,43 +37,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "Luminous Computing raises $105M to build a photonics-powered AI supercomputer"
-    excerpt: "Startup Luminous Computing Inc., which is developing a new kind of supercomputer for running artificial intelligence models, today said that it has closed a $105 million funding round. The Series A round included the participation of more than a half-dozen investors."
-    publishedDateTime: 2022-03-03T19:05:00Z
-    webUrl: "https://siliconangle.com/2022/03/03/luminous-computing-raises-105m-build-photonics-powered-ai-supercomputer/"
+  - title: "Chinese Self-Driving Unicorn Pony.ai Closes Latest Funding Round; Value Jumps to USD8.5 Billion"
+    excerpt: "Pony.ai has wrapped up its latest round of fundraising, boosting its market valuation to USD8.5 billion, the Chinese self-driving technology developer backed by Toyota Motor said today. This is a 65 percent jump from its previous valuation after the Series-C round in February 2021,"
+    publishedDateTime: 2022-03-07T06:12:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinese-self-driving-unicorn-ponyai-closes-latest-funding-round-value-jumps-to-usd85-billion"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 27
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/unsplash.png"
-        width: 870
-        height: 500
+      - url: "http://img.yicaiglobal.com/cdn/news/chinese-self-driving-unicorn-ponyai-closes-latest-funding-round-value-jumps-to-usd85-billion/5772962939589.jpg"
+        width: 720
+        height: 480
         isCached: true
-  - title: "Luminous Computing Raises $105M in Series A Round to Build World’s Most Powerful AI Supercomputer"
-    excerpt: "Luminous Computing announced today that it raised $105M in a Series A round, with participation from investors including Gigafund, Bill Gates, 8090 Partners, Neo, Third Kind Venture Capital, Alumni Ventures Group,"
-    publishedDateTime: 2022-03-03T12:02:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/luminous-computing-raises-105m-in-series-a-round-to-build-world-s-most-powerful-ai/article_185ec743-7266-54fa-a0a2-0241c799b8db.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 26
-    images:
-      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "AI supercomputer startup Luminous lands $105M in Series A funding"
-    excerpt: "LuminousAI lands $105M to tackle big #AI supercomputing problems. #SiliconValley #supercomputer #tech #Luminous #venture #startups"
-    publishedDateTime: 2022-03-03T12:00:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2022/03/03/ai-startup-luminous-lands-105m-series-a-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "2tk7bx0f9nISNnHbcPwuuWZidIzPZZ3K6tw1lz1ihaceA6UK0T5pbdVgYkEpkzkhIN9xkxXq+JECffVaeW5wg0+eO7KLMoj2BZKteHFtVdyYPj/Rj4iy7AWmJMu+fzm/J8os6eVGeyWssWmn10Bf8wD6W+brtPfvZBfQsf2UZjgl++xy389Wew8xjrkmO0xW7Yhn32z3JNvw8YLQL/2VL/f7kKguTMOJ9N3OIsZSh9kH2IiAjnnPgzprzcwz2h/1fJpL4HP33VOoJijkaar5OZQLyh7XO9CJRd2vRDX6mL1eHNpZqN+oYjuxIv/JFJC/hGKR0cwnwvcWPsEgmWWPqRBu0ZnmYT7TPOmkAfgDRuC75H3/lWZsuf2X7cYzW5kJRq1yV6WfRBcRKrFTRdDg0AYdLbPMH44Dodz2BEkLDwgjgrGrO5ZGdvP+cuVTgsAg2+7g+5S0GOnbLWeAB4VIPzuaZAizhxeCDHVQLHx9quealv0y1NF2tOs/dCIun8fMdVuM3qWf169jxT8uxPFB0Q==;VhfX4KwMBqz5ac1Z/wGEag=="
 ---

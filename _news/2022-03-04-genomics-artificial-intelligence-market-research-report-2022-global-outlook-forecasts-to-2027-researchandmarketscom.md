@@ -24,47 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Smart Robot Market Report 2022-2027 | Industry Trends, Size, Share and Forecast"
-    excerpt: "According to the latest report by IMARC Group, titled, “Smart Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    publishedDateTime: 2022-03-03T12:17:00Z
-    webUrl: "https://www.digitaljournal.com/pr/smart-robot-market-report-2022-2027-industry-trends-size-share-and-forecast"
+  - title: "Global Text Artificial Intelligence Growth Opportunities 2022 Report - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Global Text Artificial Intelligence Growth Opportunities\" report ... knowledge management, security, defense, healthcare, and pharmaceutical industries. PharmiWeb.com is Europe's leading industry-sponsored portal for the ..."
+    publishedDateTime: 2022-03-07T14:01:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-03-07/global-text-artificial-intelligence-growth-opportunities-2022-report-researchandmarketscom"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 35
-    images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEhsLpc1JaYzKNoB35rqXxC2v0Ar7fE3gGpcMA045BA_BLCSkh9-tHZUTxjI_t-JGWpPtcH0r0W_CG4PsvQFO0FZT5XYbJUp0nArVh0IqYHToRgzSPbz6p_JDNnIbb5EXMHaHCZnZwwRN0Ii3QwxlPgtq4jwJznNmmWLRwVA9n4ZNaP3lYHhyNQrey8=w377-h432"
-        width: 327
-        height: 432
-        isCached: true
-  - title: "Artificial Intelligence-Emotion Recognition Market Upcoming Trends, Business Growth, Competitors, Company Market Share and Forecast 2022 to 2028"
-    excerpt: "The \"Artificial Intelligence-Emotion Recognition Market\" report covers the global and regional market with an in-depth analysis of the overall growth prospects in the market. Artificial Intelligence-Emotion Recognition Market contains a comprehensive analysis of company details,"
-    publishedDateTime: 2022-03-04T05:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-upcoming-trends-business-growth-competitors-company-market-share-and-forecast-2022-to-2028-2022-03-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: PharmiWeb
+      domain: pharmiweb.com
     quality: 30
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
         width: 1200
-        height: 630
+        height: 448
         isCached: true
-  - title: "Self-driving Forklift Market Report 2022 by Size, Growth, Trends, Share, Analysis, Industry Overview, Forecast to 2027"
-    excerpt: "Global “Self-driving Forklift Market” report gives the overview of the industry with basic outline, descriptions, classifications, applications and types. Shows product specifications, manufacturing processes,"
-    publishedDateTime: 2022-03-07T08:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-forklift-market-report-2022-by-size-growth-trends-share-analysis-industry-overview-forecast-to-2027-2022-03-07"
+  - title: "AI In Social Media Market size worth $ 6.12 Billion, Globally, by 2028 at 28.82% CAGR: Verified Market Research®"
+    excerpt: "The major players in the market are Google Inc, Facebook, AWS, IBM, Adobe Systems, Baidu, Salesforce, Twitter, Snap, and Clarabridge. Verified Market Research has segmented the Global AI In Social Media Market On the basis of Technology, Application ..."
+    publishedDateTime: 2022-03-07T14:30:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-social-media-market-size-worth-6-12-billion-globally-by-2028-at-28-82-cagr-verified-market-research-r--818432285.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 18
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
         isCached: true
 
 secured: "Om26+rbzV3Il/pvCdG+L+HLYSAE1wfhYKGdsbUPTWsVHghuRAmZBPLwwO/aRSTD0htqOFHfi9k/J/KavhlZsPiX2MbtcNjmViRNnWcWvErwbVedFENWQKo4SzAi+XUQEvTAl4qqIG6H0a/ZLz8rR1mr6mheyempneGgzTABrsetVDYGqJtj8vbHOKq9aU+t7xnlLRM4AKYDArGW7RJ6lwI8dfMz6gQstwDDl4NFHXrJ5SttGXx4VZx9v89iUlJLaiF8V8OWVpa9yXMz3C52DAdufy27J4LPzpWT8zkmUXeq11kF55JvVnCvJ7FkLDeh1ydFR7xjoJhDpoxlhzXrnEfD18GS+YfaccM1eBotIG4M=;9bKtnGbpDJinWv5xzeuINw=="

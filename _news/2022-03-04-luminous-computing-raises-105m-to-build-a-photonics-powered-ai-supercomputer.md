@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Luminous Computing, which is developing a light-based AI accelerator chip, raises $105M"
-    excerpt: "Join today's leading executives online at the Data Summit on March 9th. Register here. According to some experts, the growth in the compute power necessary to develop future AI systems might run up against a wall with mainstream chip technologies."
-    publishedDateTime: 2022-03-03T13:00:00Z
-    webUrl: "https://venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/"
-    ampWebUrl: "https://venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 198
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1294874384.jpg?w=1200&strip=all"
-        width: 1200
-        height: 602
-        isCached: true
   - title: "Inworld AI raises $10M to develop AI- powered virtual characters for games"
     excerpt: "Inworld AI has raised $10 million to help scale its team as it prepares to launch its AI character creation platform later this year."
     publishedDateTime: 2022-03-03T16:49:00Z
@@ -57,56 +41,52 @@ related:
         width: 1199
         height: 871
         isCached: true
-  - title: "Luminous Computing The Latest AI-Startup To Attract Big Funding"
-    excerpt: "Luminous Computing is one—and investors seem intrigued with its promise. The Mountain View, California-based supercomputer company closed a $105 million Series A Thursday from investors including Microsoft co-founder Bill Gates."
-    publishedDateTime: 2022-03-03T16:46:00Z
-    webUrl: "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding"
-    ampWebUrl: "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding?amp"
+  - title: "AI-powered GameFi Mirror World closes $4M seed funding"
+    excerpt: "The round’s funding was for the development and launch of three initial games and incentivizing early community members’ participation."
+    publishedDateTime: 2022-03-04T14:35:00Z
+    webUrl: "https://cointelegraph.com/press-releases/ai-powered-gamefi-mirror-world-closes-4m-seed-funding"
+    ampWebUrl: "https://cointelegraph.com/press-releases/ai-powered-gamefi-mirror-world-closes-4m-seed-funding/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/ai-powered-gamefi-mirror-world-closes-4m-seed-funding/amp"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
-  - title: "Photonics startup Luminous Computing bags $105m"
-    excerpt: "Luminous Computing, a startup using photonics to drive artificial intelligence, has raised venture capital backing, pulling in $105m in Series A funding from a range of investors that includes Microsoft co-founder Bill Gates."
-    publishedDateTime: 2022-03-05T01:27:00Z
-    webUrl: "https://www.theregister.com/2022/03/05/luminous-ai-supercomputer-photonics/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/03/05/luminous-ai-supercomputer-photonics/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/05/luminous-ai-supercomputer-photonics/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 42
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 59
     images:
-      - url: "https://regmedia.co.uk/2022/03/04/photonics_shutterstock.jpg"
-        width: 1000
-        height: 750
+      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82ZjUyYTRkODkxMDM4ZTk2YzJjZTdiYWI0YjZkMWVjZC5qcGc=.jpg"
+        width: 740
+        height: 493
         isCached: true
-  - title: "Luminous Computing Raises $105M in Series A Round to Build World’s Most Powerful AI Supercomputer"
-    excerpt: "Luminous Computing announced today that it raised $105M in a Series A round, with participation from investors including Gigafund, Bill Gates, 8090 Partners, Neo, Third Kind Venture Capital, Alumni Ventures Group,"
-    publishedDateTime: 2022-03-03T12:02:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/luminous-computing-raises-105m-in-series-a-round-to-build-world-s-most-powerful-ai/article_185ec743-7266-54fa-a0a2-0241c799b8db.html"
+  - title: "Artificial Intelligence, a game-changer"
+    excerpt: "The pandemic steered this transformation and for a sector like real estate which has been traditionally slow to adapt to tech"
+    publishedDateTime: 2022-03-04T15:28:00Z
+    webUrl: "https://www.thehindu.com/real-estate/artificial-intelligence-a-game-changer/article65080252.ece"
+    ampWebUrl: "https://www.thehindu.com/real-estate/artificial-intelligence-a-game-changer/article65080252.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/real-estate/artificial-intelligence-a-game-changer/article65080252.ece/amp/"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 26
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
     images:
-      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-        width: 300
-        height: 250
+      - url: "https://www.thehindu.com/incoming/xzhzwc/article65191098.ece/alternates/LANDSCAPE_615/05PP%20technology.jpg"
+        width: 615
+        height: 383
         isCached: true
-  - title: "AI supercomputer startup Luminous lands $105M in Series A funding"
-    excerpt: "LuminousAI lands $105M to tackle big #AI supercomputing problems. #SiliconValley #supercomputer #tech #Luminous #venture #startups"
-    publishedDateTime: 2022-03-03T12:00:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2022/03/03/ai-startup-luminous-lands-105m-series-a-funding.html"
+  - title: "Inworld AI raises $10 million to create characters for virtual worlds"
+    excerpt: "Inworld AI has raised $10 million in a funding round led by Bitkraft Ventures. The company's creator platform focuses on building AI characters that \"mimic the cognitive abilities of humans,\" the announcement said."
+    publishedDateTime: 2022-03-04T12:10:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/2022-03-04-inworld-ai-raises-usd10-million-to-create-characters-for-virtual-worlds"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 37
+    images:
+      - url: "https://images.gnwcdn.com/2022/articles/2022-03-04-11-59/Inworld_AI.jpeg"
+        width: 886
+        height: 549
+        isCached: true
 
 secured: "qo9/g3w2qesT8ONAObPwMcwRLkZXV/Q4YaB9ZUP/S4TlqUy0fiCzFz9Flq4LBsEKnx5X09ucnEBwL5GNJFB9s/tLEVFlBuXoQKJBxSuV/5rRksSuAqnrccbHStU59hjDOefobLWPB8F6a/nRCYoMOjimvdkYfYce/RbEwQOixnXC4DYwdeWALUUvAJZSLxQa5FhXUZyK1WUwPIiCYZB4uxwAv7B2hhOivCRU7W2mWFZ6djuXoWNifNc3WHsqz6qAT+P2ZnjwquaM5iDcxvvWADUeUu6k2dZW3cs/vK2aMAEhTpd/LeDUkHujtvzQ0m2/EL1V7gGDo2QEFy4/qefU5hjEe3e5rU/MMYfARHdRPVQ=;FFJCOFdaabomQ8fzC0Vu6w=="
 ---

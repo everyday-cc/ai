@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-gaming-market-2021-report-reviews-on-key-manufacturers-regional-markets-application-and-segmentation-by-2027-2022-03-06"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -28,17 +28,45 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market Revenue to Cross USD 12,670.22 Million by 2028: The Insight Partners"
-    excerpt: "Facial Recognition Market is projected to reach US$ 12,670.22 million by 2028 from US$ 5,012.71 million in 2021; it is expected to grow at a CAGR of 14.2%"
-    publishedDateTime: 2022-03-07T18:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-revenue-to-cross-usd-12670-22-million-by-2028-the-insight-partners"
+  - title: "Artificial Intelligence-Emotion Recognition Market Upcoming Trends, Business Growth, Competitors, Company Market Share and Forecast 2022 to 2028"
+    excerpt: "The \"Artificial Intelligence-Emotion Recognition Market\" report covers the global and regional market with an in-depth analysis of the overall growth prospects in the market. Artificial Intelligence-Emotion Recognition Market contains a comprehensive analysis of company details,"
+    publishedDateTime: 2022-03-04T05:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-upcoming-trends-business-growth-competitors-company-market-share-and-forecast-2022-to-2028-2022-03-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Forklift Market Report 2022 by Size, Growth, Trends, Share, Analysis, Industry Overview, Forecast to 2027"
+    excerpt: "Global “Self-driving Forklift Market” report gives the overview of the industry with basic outline, descriptions, classifications, applications and types. Shows product specifications, manufacturing processes,"
+    publishedDateTime: 2022-03-07T08:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-forklift-market-report-2022-by-size-growth-trends-share-analysis-industry-overview-forecast-to-2027-2022-03-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI-Enabled Medical Imaging Solutions Market Demand and Growth Analysis with Forecast up to 2027"
+    excerpt: "Enabled Medical Imaging Solutions Market is forecasted to be worth USD 4,720.6 Million by 2027, according to a current analysis by Emergen"
+    publishedDateTime: 2022-03-07T07:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-enabled-medical-imaging-solutions-market-demand-and-growth-analysis-with-forecast-up-to-2027"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 27
+    quality: 25
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/2c3e9fb9520543e0c2d9e800024604f4753e3e00-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-Peace-Protest-AFP-1K-600x337.jpg"
         width: 600
         height: 337
         isCached: true

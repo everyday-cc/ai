@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Intel Files To Take Self-Driving Mobileye Unit Public"
+    excerpt: "In doing so, Intel has decided to separate Mobileye, its self-driving car unit that promises to help drivers take their eyes off the literal road. On Monday, the multinational tech company confidentially filed to take Mobileye public – and, according to ..."
+    publishedDateTime: 2022-03-08T02:11:00Z
+    webUrl: "https://www.fool.com/investing/2022/03/07/intel-files-to-take-self-driving-mobileye-unit-pub/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 54
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/669467/featured-daily-upside-image.jpeg"
+        width: 690
+        height: 560
+        isCached: true
   - title: "Intel Mobileye IPO: 10 Things to Know as the Self-Driving Unit Files to Come Public"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Shares of Intel (NASDAQ:INTC) are basically flat on the day despite a"
     publishedDateTime: 2022-03-07T20:39:00Z

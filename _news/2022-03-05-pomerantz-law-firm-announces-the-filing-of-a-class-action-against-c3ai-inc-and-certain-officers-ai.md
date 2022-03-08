@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business
 webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-initial-public-offerings-f38a9113415d143e179243beaaaee577"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -25,14 +25,21 @@ images:
 
 related:
   - title: "SHAREHOLDER ALERT: Robbins LLP Informs Shareholders of Class Action Against C3.ai, Inc."
-    excerpt: "SHAREHOLDER ALERT: Robbins LLP Informs Shareholders of Class Action Against C3.ai, Inc. The Class: Shareholder rights law firm Robbins LLP informs investors that a shareholder filed a class action on behalf of persons and entities that purchased or ..."
-    publishedDateTime: 2022-03-08T01:33:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20220307006016/shareholder-alert-robbins-llp-informs-shareholders-of-class-action-against-c3ai-inc"
+    excerpt: "Shareholder rights law firm Robbins LLP informs investors that a shareholder filed a class action on behalf of persons and entities that purchased or"
+    publishedDateTime: 2022-03-07T22:27:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/03/b26030241/shareholder-alert-robbins-llp-informs-shareholders-of-class-action-against-c3-ai-inc"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26030241"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26030241"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 9
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 49
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "INVESTOR ACTION ALERT: The Schall Law Firm Encourages Investors in C3.ai, Inc. With Losses of $500,000 to Contact the Firm"
     excerpt: "The Schall Law Firm, a national shareholder rights litigation firm, announces the filing of a class action lawsuit against C3.ai, Inc. (“C3&CloseCurlyDoubleQuote; or “the Company&CloseCurlyDoubleQuote;"
     publishedDateTime: 2022-03-07T21:11:00Z

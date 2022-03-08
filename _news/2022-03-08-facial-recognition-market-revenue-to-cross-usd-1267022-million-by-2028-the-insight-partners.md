@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-revenu
 webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-revenue-to-cross-usd-12670-22-million-by-2028-the-insight-partners"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -25,29 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence in Gaming Market 2021 Report Reviews on Key Manufacturers, Regional markets, Application and Segmentation by 2027"
-    excerpt: "Global Artificial Intelligence in Gaming Market 2021 by Company, Regions, Type and Application, Forecast to 2027"
-    publishedDateTime: 2022-03-06T22:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-gaming-market-2021-report-reviews-on-key-manufacturers-regional-markets-application-and-segmentation-by-2027-2022-03-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Geospatial Analytics Market Technology, Product Scope, Demand, Business Scenario, Trends, Share, Applications, Types and Forecasts 2028"
-    excerpt: "The global geospatial analytics market size is expected to reach USD 134.23 Billion in 2028 and register a CAGR of 12.1% during the forecast period,"
-    publishedDateTime: 2022-03-04T09:33:00Z
-    webUrl: "https://www.digitaljournal.com/pr/geospatial-analytics-market-technology-product-scope-demand-business-scenario-trends-share-applications-types-and-forecasts-2028"
+  - title: "IoT in Healthcare Market to hit USD 135.87 Billion, Globally, by 2025 at 21.2 % CAGR: The Insight Partners"
+    excerpt: "The IoT in healthcare market was valued at US$ 20.15 billion in 2015 and it is projected to reach US$ 135.87 billion in 2025; it is expected to grow at a"
+    publishedDateTime: 2022-03-03T17:29:00Z
+    webUrl: "https://www.digitaljournal.com/pr/iot-in-healthcare-market-to-hit-usd-135-87-billion-globally-by-2025-at-21-2-cagr-the-insight-partners"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 0
+    quality: 21
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/27f2bf527b901f7bf89e65211331317bac62288f-e1646243587537-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence in Military Market to Surpass Valuation of USD 6.50 Bn by 2028, Notes Emergen Research Study"
+    excerpt: "The global Artificial Intelligence (AI) for military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4%"
+    publishedDateTime: 2022-03-04T11:08:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-military-market-to-surpass-valuation-of-usd-6-50-bn-by-2028-notes-emergen-research-study"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 14
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/2b5ce7f68fd37f90ffb8890d66feb1a81c0b7d44-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "GqtYm+L5jMNuywBebmWaD9Vtgw2knNRRIlMhS+cNmGaGNn5eN/kW9cUejjAVcRMEUt5t7l/6TFgyEJtH4Mtw6pl0BP8VDzWa8esynOXxyGqbAUKlpHPG+1wfy51556Y9Xirkot1VEjfr9KPPE5mhk2r7+Fubu13kyLmhUyNyH8AF5XbiBt8VB/WtQhEu6okAN0uaMJOPwmMqg0VIKr6bqmv0nGJxHjGQ4EgEUD0aCi7fG06V7IlcewOCTgDHRj1MlXUooxMTD4LJcZHyNCTl9m+t2KiHLd+9jQirKNrM7OVDMjsWEqrNcF06oh533lv/NumjIpEVCbuVbp1Py12ieKV62iMyfzXQ6FOVNoq7f1k=;8EbEBxXBJeykloDlCawtJw=="
 ---

@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Smart Robot Market Report 2022-2027 | Industry Trends, Size, Share and Forecast"
-    excerpt: "According to the latest report by IMARC Group, titled, “Smart Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    publishedDateTime: 2022-03-03T12:17:00Z
-    webUrl: "https://www.digitaljournal.com/pr/smart-robot-market-report-2022-2027-industry-trends-size-share-and-forecast"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 35
-    images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEhsLpc1JaYzKNoB35rqXxC2v0Ar7fE3gGpcMA045BA_BLCSkh9-tHZUTxjI_t-JGWpPtcH0r0W_CG4PsvQFO0FZT5XYbJUp0nArVh0IqYHToRgzSPbz6p_JDNnIbb5EXMHaHCZnZwwRN0Ii3QwxlPgtq4jwJznNmmWLRwVA9n4ZNaP3lYHhyNQrey8=w377-h432"
-        width: 327
-        height: 432
-        isCached: true
   - title: "Artificial Intelligence-Emotion Recognition Market Upcoming Trends, Business Growth, Competitors, Company Market Share and Forecast 2022 to 2028"
     excerpt: "The \"Artificial Intelligence-Emotion Recognition Market\" report covers the global and regional market with an in-depth analysis of the overall growth prospects in the market. Artificial Intelligence-Emotion Recognition Market contains a comprehensive analysis of company details,"
     publishedDateTime: 2022-03-04T05:23:00Z
@@ -57,20 +43,43 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Genomics Artificial Intelligence Market Research Report 2022 - Global Outlook & Forecasts to 2027 - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence in Genomics Market - Global Outlook & Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. The artificial intelligence in genomics market to grow at a CAGR of 48."
-    publishedDateTime: 2022-03-03T17:08:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-health-business-genetics-299e1a8e05de4483823a3d0dc80c0299"
+  - title: "Global Artificial Intelligence in Gaming Market 2021 Report Reviews on Key Manufacturers, Regional markets, Application and Segmentation by 2027"
+    excerpt: "Global Artificial Intelligence in Gaming Market 2021 by Company, Regions, Type and Application, Forecast to 2027"
+    publishedDateTime: 2022-03-06T22:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-gaming-market-2021-report-reviews-on-key-manufacturers-regional-markets-application-and-segmentation-by-2027-2022-03-06"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "AI-Enabled Medical Imaging Solutions Market Demand and Growth Analysis with Forecast up to 2027"
+    excerpt: "Enabled Medical Imaging Solutions Market is forecasted to be worth USD 4,720.6 Million by 2027, according to a current analysis by Emergen"
+    publishedDateTime: 2022-03-07T07:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-enabled-medical-imaging-solutions-market-demand-and-growth-analysis-with-forecast-up-to-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 25
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-Peace-Protest-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Geospatial Analytics Market Technology, Product Scope, Demand, Business Scenario, Trends, Share, Applications, Types and Forecasts 2028"
+    excerpt: "The global geospatial analytics market size is expected to reach USD 134.23 Billion in 2028 and register a CAGR of 12.1% during the forecast period,"
+    publishedDateTime: 2022-03-04T09:33:00Z
+    webUrl: "https://www.digitaljournal.com/pr/geospatial-analytics-market-technology-product-scope-demand-business-scenario-trends-share-applications-types-and-forecasts-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "WtK8vItSH2CsF3SMSqD2KkeE/gj95ptyWOljsycbF30c9Su9smZ9AHjmEeZoiTyriHYejb5BztUsliYFntxYETsSuqI73dRcmfe2mJcpg1cWe/B4dbxdanc3dkQ3aCva7kvEKHx/hSXyyjDpGr1OLviae04KQkUt4gkVSxz09IqaFQSL64drlkf66p9JmoQ/3pzmVen4eV8BqdHau5MWICm7VuRlOq5hIIRELZDR0VIzwAxMJ4YevS2YwDC/gAGVoMUM8x+eAVkB1p1nmmpOieWz+A4Rf57nW9bFFlc3UjY2G+LF0f4K6UXf6ae1WsXK910RLUY3ZRdV0/uE7QEQ4GiTX2Y7xNIRym8RHejYzb0=;yj6xtgbfTshOuSZkViLv+A=="
 ---

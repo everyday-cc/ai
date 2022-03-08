@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Three Ways To Overcome Industrial AI Roadblocks"
-    excerpt: "Industrial AI can unlock any number of game-changing benefits for the oil/gas and energy sectors: overhauling inefficient operations, increasing productivity and cost efficiencies, reducing downtime,"
-    publishedDateTime: 2022-03-03T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/three-ways-to-overcome-industrial-ai-roadblocks/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/three-ways-to-overcome-industrial-ai-roadblocks/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/03/three-ways-to-overcome-industrial-ai-roadblocks/amp/"
+  - title: "In New Math Proofs, Artificial Intelligence Plays to Win"
+    excerpt: "A new computer program fashioned after artificial intelligence systems like AlphaGo has solved several open problems in combinatorics and graph theory."
+    publishedDateTime: 2022-03-07T16:01:00Z
+    webUrl: "https://www.quantamagazine.org/in-new-math-proofs-artificial-intelligence-plays-to-win-20220307/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Quanta Magazine
+      domain: quantamagazine.org
+    quality: 56
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/612cfe722afc9777411adcb0/0x0.jpg?format=jpg&width=1200&fit=bounds"
+      - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Counterexamle_1200_Social.jpg"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
 
 secured: "ZiWPKPK3zI3Z+SrID1JtGeEsCKBDv21IctLPQSkz2+wx8NnYUKpRSmoh+tyYxFN8teR6beG8vzKEV12OGaneq0uQg/DcptPqx3NWXhLDlyrgX7GMHFRDBr3NB9heqC8inZjjvIOSC4wYUtJczJSF0kZFJJpt4TsKp4nrsDORCLM/Xg/5TsyijtaUGJ95C875T3TF6FFJIkmUaw4REcJl3WPxB0gpc1xeRoQ4cnaL4CmAP2mzwRcRjXbsTYDgti3s2FCKtCaff6HfOODuEkaO+aWz3plQ5K5IZsoc7Plh1x0P3D+gMNwbUN0MQHJqIhZRTbeyijxDb2YA+QLzYvoQhgrtCFfIkH7jQ1PsLKycm80=;WxeiKqidje8cMGsixEfQ4w=="

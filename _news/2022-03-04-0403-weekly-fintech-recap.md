@@ -104,20 +104,6 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 26
-  - title: "Paysafe to Participate in the Wolfe FinTech Forum March 9"
-    excerpt: "Paysafe Limited (NYSE: PSFE), a leading specialized payments platform, today announced that Chief Executive Officer, Philip McHugh, and Chief Financial Officer, Izzy Dawood, will participate in the Wolfe FinTech Forum on Wednesday,"
-    publishedDateTime: 2022-03-03T12:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=625820"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
   - title: "Financial Inclusion Revolutionized By African Fintechs"
     excerpt: "Between 2014 and 2019, Nigeria’s bustling fintech scene raised more than $600 million in funding,” says global consultancy McKinsey in a September 2020 report. In 2019, the country attracted $122 million,"
     publishedDateTime: 2022-03-03T20:15:00Z

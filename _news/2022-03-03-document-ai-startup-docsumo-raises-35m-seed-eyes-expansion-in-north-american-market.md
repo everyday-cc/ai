@@ -24,34 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "CardinalOps raises $17.5M for AI threat detection solution"
-    excerpt: "CardinalOps says its solution provides enterprises with a cloud-based AI platform that automatically generates best practice recommendations."
-    publishedDateTime: 2022-03-03T13:00:00Z
-    webUrl: "https://venturebeat.com/2022/03/03/cardinalops-raises-17-5-million-for-ai-threat-detection-solution/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1054070700-e1646261553941.jpg?fit=750%2C370&#038;strip=all"
-        width: 749
-        height: 370
-        isCached: true
-  - title: "Israeli AI-powered security engineering startup CardinalOps raises $17.5M"
-    excerpt: "Israeli artificial intelligence-powered security engineering startup CardinalOps Ltd. revealed today that it has raised $17.5 million in new funding to fuel global expansion in go"
-    publishedDateTime: 2022-03-03T13:00:00Z
-    webUrl: "https://siliconangle.com/2022/03/03/israeli-ai-powered-security-engineering-startup-cardinalops-raises-17-5m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 53
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/cardinalops.png"
-        width: 772
-        height: 399
-        isCached: true
   - title: "Visionary.ai Raises $2.5M in Funding"
     excerpt: "Courtesy of Visionary.ai Visionary.ai, a Jerusalem, Israel-based computer vision startup, raised $2.5M in funding. The round, which brought the total amount raised to date to $7M, was led by Ibex Investors,"
     publishedDateTime: 2022-03-04T13:28:00Z
@@ -65,6 +37,20 @@ related:
       - url: "https://www.finsmes.com/wp-content/uploads/2022/03/Visionary_ai.jpg"
         width: 2048
         height: 1363
+        isCached: true
+  - title: "Maverick Medical AI Closes $5M Seed Funding"
+    excerpt: "Maverick Medical AI, a New York-based commercial-stage company that provides a platform that understands unstructured patient reports and autonomously codes them for reimbursement claims, raised $5M in Seed funding."
+    publishedDateTime: 2022-03-07T18:14:00Z
+    webUrl: "https://www.finsmes.com/2022/03/maverick-medical-ai-closes-5m-seed-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/03/Maverick_Logo.jpeg"
+        width: 400
+        height: 340
         isCached: true
 
 secured: "CGbCijkCDEEyw4tAfu3rq3EYfNNIXwbIw42qiSm1BD0AQvz4ck0m5KoiBZJS1uSVF8BDG+iRwykYjT0q11JqZDTsSTZv3ljnpXfLXuB5JdRU5XDqoOIjkTRi0NGdzyqtj3q3RYGEJ3vUCPYZJUz86fH7Zj8qcMDWYVNhO2rvEkW4kDgyZl3FjIrnvDJg2+nlBjBYX0fqpx476vQSfdLEus3sZBtRXdrpQVBB/6UsfcmMT+stuYx6eEyAQns1/MQnZ/tq3Fv9Mzuhd65tCPLQfUvTZZyEQzSNRKzS2JinbntGOT+EIZ675DaQATBs4g8mZAwiFkuHmCLD6DGIXabIxIjPVXUGwzAXBDBiYBKdgjM=;EqMVoY8jbpaNYeNNsPkDVg=="

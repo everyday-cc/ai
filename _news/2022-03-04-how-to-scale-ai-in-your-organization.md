@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Five Ways Artificial Intelligence Is Reshaping Enterprise Sales Operations"
-    excerpt: "AI helps by automating the process based on behavioral trends and uncovering effective next steps while providing full-funnel visibility for managers and other members of the revenue operations organization."
-    publishedDateTime: 2022-03-03T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations/amp/"
+  - title: "Do You Need To Build Or Buy AI-Based Solutions For Your Organization?"
+    excerpt: "Business leaders face a common dilemma in deciding between building and buying enterprise AI solutions while they plan to adopt AI for their organizations. They need to consider several factors about AI technology to make an informed decision."
+    publishedDateTime: 2022-03-07T10:58:00Z
+    webUrl: "https://www.forbes.com/sites/naveenjoshi/2022/03/07/do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization/"
+    ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/03/07/do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/03/07/do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6212d5c7c54cb1e138c0952e/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 921
+        height: 915
         isCached: true
 
 secured: "zAFGRX5LIEW0TNoqSLKz1u9GVFJ5z1BEt14VP51J9JNBypR9qGb4js9k6yw1r42KCASmWO63HdvLmyKrljDMoV0mXGYUqlIZDBvCqW7H4r9I5cgzT/ICWRCN1SXs88DhKQZKolOtu1TIDqhY3syT67zqgkj++PXJKO6CQvCzskjYgIZFfNfUhISY2+D5/i60RoPlxRjgmd9Mzo2ot8fpea0X3UiL6BQGKDdXL2ZLv32j1Ix52hjeRQ2tSskynwd40TinS/jkG2MY1iTgPrwAkOe8uq9rLfgm1ZRwqFy1A47IArSSc4pIKUnUwL5fFShNuG4QTKCnpfP+TC57rSEaQN+hNooRg7Q9+MYEfE5Qg58VMmrtA2Gl8f3ZAtiuO81wo2jK2uTLfHQNf9Ehpq6SFMdEyvl6wmT8vk5aY0g15UnEbKckueu0/WYXBcJiOz/WoG4w4FmOE/C/oeFc5vrUBaLjAeZQroqMMbFDRXA+bi6Vl69+nxsH66vNUjPv/4Di6wv/xALIU0yptLjyxe0erw==;l2UGT8rMa3VFIoBGrx7jVQ=="

@@ -90,20 +90,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Paysafe to Participate in the Wolfe FinTech Forum March 9"
-    excerpt: "Paysafe Limited (NYSE: PSFE), a leading specialized payments platform, today announced that Chief Executive Officer, Philip McHugh, and Chief Financial Officer, Izzy Dawood, will participate in the Wolfe FinTech Forum on Wednesday,"
-    publishedDateTime: 2022-03-03T12:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=625820"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
   - title: "04/03 – Weekly Fintech Recap"
     excerpt: "Partnerships LendingUSA introduces FastScreen customer prescreen toll for the funeral home industry in partnership with TransUnion LendingUSA, a leading point-of-need fintech company, introduces a new tool,"
     publishedDateTime: 2022-03-04T11:44:00Z

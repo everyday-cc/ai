@@ -7,7 +7,7 @@ originalUrl: "https://www.quantamagazine.org/in-new-math-proofs-artificial-intel
 webUrl: "https://www.quantamagazine.org/in-new-math-proofs-artificial-intelligence-plays-to-win-20220307/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Proven Ways to Use AI to Cut Cloud Costs"
+    excerpt: "AI can reduce cloud costs in two key ways. By David Drai; March 7, 2022; Organizations are learning how they can reap several benefits fr"
+    publishedDateTime: 2022-03-07T10:21:00Z
+    webUrl: "https://tdwi.org/articles/2022/03/07/pm-all-proven-ways-to-use-ai-to-cut-cloud-costs.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 37
+    images:
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/dollarsign.jpg"
+        width: 976
+        height: 400
+        isCached: true
 
 secured: "le5bjCvAx8PU70bZSy9q+bGOKb/6QTIr7Xd9Z8vXgAXb+C/5DTeW02J5eNWCFp9u4ePlG5A867VScyCmPyADHcKe4u3ZjZXGCfpWq+9LzTOlSeR+DuWXw0S2vSgr4GRQbQHLWHp/lbeTDPhqF1ftmsFtzEtGOTtxT+HCom1gT54lP58AjaMvQCB03axqQe/nBITYxZgOKnHD3RLg229YZbGlQnQfCHgFiZBnWmWGGxS5ZNSkC+vw8SngQGpq2+ONSJPGq4zRhsLeP2qV3pY/L7zSYqfC4EqRnfzlwyLTgNXZVvPTNAmnQRiAAHqCnUf3JzLfjYxzYZ3KwVYvxTZCK275ReoZKvD4Q7XG20/YBUg=;QH4JQSKfEC9YKIcFcGW6yw=="
 ---

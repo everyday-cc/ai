@@ -40,6 +40,20 @@ related:
         width: 2696
         height: 1414
         isCached: true
+  - title: "Genomics Artificial Intelligence Market Research Report 2022 - Global Outlook & Forecasts to 2027 - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence in Genomics Market - Global Outlook & Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. The artificial intelligence in genomics market to grow at a CAGR of 48."
+    publishedDateTime: 2022-03-03T17:08:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-health-business-genetics-299e1a8e05de4483823a3d0dc80c0299"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 11
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "m9NGvA4Y/GKGSK8Jopr77OeSjYdoBo4eMotq5Rsix7CWGXLin3J0wUq3p8vyLzXIcENnMHYvT7DN25B3W/zLIkHm0hf1R1QCb8knMO+lhhWGcvSLZe6lHWmWlApkZWZBvDPF2Ml/m3NpQx8/bgU1P5CTTG9YRrixg9FdptjaQrqTH0Rh/lsfbJe+UygbC4njikBFw0JpJ1+Kgl+BGKfKg3hi9D6ENO7KgVTCW8uw4N5W7qz8vaDYBzKXEUWVyMmRzuUu7GoYYROvTLAtKWNUaHuBjDsb7S7zkTw/BKSrz3auPmdm035Uzyays+14GMiXM5Ut63Ab68OKAJnRhxp1adZ0t9Yb1xmQVt/NmXzShZc=;db6PkTEN9GsvYlmlZK3N8A=="
 ---

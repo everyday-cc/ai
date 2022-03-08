@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/wearables-ai-game-changer-healthcar
 webUrl: "https://www.linkedin.com/pulse/wearables-ai-game-changer-healthcare-joão-bocas"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence, a game-changer"
-    excerpt: "The pandemic steered this transformation and for a sector like real estate which has been traditionally slow to adapt to tech"
-    publishedDateTime: 2022-03-04T15:28:00Z
-    webUrl: "https://www.thehindu.com/real-estate/artificial-intelligence-a-game-changer/article65080252.ece"
-    ampWebUrl: "https://www.thehindu.com/real-estate/artificial-intelligence-a-game-changer/article65080252.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/real-estate/artificial-intelligence-a-game-changer/article65080252.ece/amp/"
+  - title: "What AI in Health Care Can Learn from the Long Road to Autonomous Vehicles"
+    excerpt: "Health care is often frustratingly slow to embrace technology; electronic medical records were a striking example. While artificial intelligence (AI) is clearly a part of the future of medical care, due to the understandably conservative nature of medicine,"
+    publishedDateTime: 2022-03-07T14:11:00Z
+    webUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.21.0458"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 57
+      name: The New England Journal of Medicine
+      domain: nejm.org
+    quality: 39
     images:
-      - url: "https://www.thehindu.com/incoming/xzhzwc/article65191098.ece/alternates/LANDSCAPE_615/05PP%20technology.jpg"
-        width: 615
-        height: 383
+      - url: "https://s3.amazonaws.com/production-nejm-nav-images/3Kplus-woman_photo.jpg"
+        width: 525
+        height: 350
         isCached: true
 
 secured: "+I9zmO6ngpTkHr64t+Dn/qCJAEA4T6apVArt1nIHy+f/LobwsPcDqftQX3u2oHXYy51LmEzhQPrO1iTnakxOOY/jEio8Ne8Z5IfN6uoHsJZsZwYcUKxY5g3h46+zfuzytR5LLvcqNuswBIX30FW+8HWiYRHi8oyCQBHcDKNU0DUE7/lX613/yXxTRtkaOPq8ar0X0WoHgnfyOwVGF0NlQxVuI1lOVR8ShL+/cMLcM1VMQYBuBXgQT7bFkAdLcvkjVodkXe2aRpHD9mGcGPETSB780X6E77vphRyyEAvGIu2ok1ifWda8jzy60Fmu71jXjdPMGdaCmnc9nbT+ypiojMamJzd5Ik5QkyfMASOgeck=;BrgzjjkQ0km2sK3YY7msJA=="

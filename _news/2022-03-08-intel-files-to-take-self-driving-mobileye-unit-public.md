@@ -1,22 +1,32 @@
 ---
 category: news
-title: "Intel's self-driving unit Mobileye moves toward possible $50B IPO"
-excerpt: "Intel Corp. on Monday said it filed confidential paperwork for an initial public offering by its self-driving car unit, Mobileye Technologies Ltd. The Santa Clara-based chipmaking giant didn't indicate in Monday's announcement how much capital the IPO ..."
-publishedDateTime: 2022-03-07T15:27:00Z
-originalUrl: "https://www.bizjournals.com/sanjose/news/2022/03/07/mobileye-moves-toward-ipo-valued-at-up-to-50b.html"
-webUrl: "https://www.bizjournals.com/sanjose/news/2022/03/07/mobileye-moves-toward-ipo-valued-at-up-to-50b.html"
+title: "Intel Files To Take Self-Driving Mobileye Unit Public"
+excerpt: "In doing so, Intel has decided to separate Mobileye, its self-driving car unit that promises to help drivers take their eyes off the literal road. On Monday, the multinational tech company confidentially filed to take Mobileye public – and, according to ..."
+publishedDateTime: 2022-03-08T02:11:00Z
+originalUrl: "https://www.fool.com/investing/2022/03/07/intel-files-to-take-self-driving-mobileye-unit-pub/"
+webUrl: "https://www.fool.com/investing/2022/03/07/intel-files-to-take-self-driving-mobileye-unit-pub/"
 type: article
-quality: 4
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Business Journals
-  domain: bizjournals.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://g.foolcdn.com/editorial/images/669467/featured-daily-upside-image.jpeg"
+    width: 690
+    height: 560
+    isCached: true
 
 related:
   - title: "Intel Files to Take Self-Driving Unit Mobileye Public"
@@ -34,20 +44,6 @@ related:
       - url: "https://images.wsj.net/im-499528/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Intel Files To Take Self-Driving Mobileye Unit Public"
-    excerpt: "In doing so, Intel has decided to separate Mobileye, its self-driving car unit that promises to help drivers take their eyes off the literal road. On Monday, the multinational tech company confidentially filed to take Mobileye public – and, according to ..."
-    publishedDateTime: 2022-03-08T02:11:00Z
-    webUrl: "https://www.fool.com/investing/2022/03/07/intel-files-to-take-self-driving-mobileye-unit-pub/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 54
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/669467/featured-daily-upside-image.jpeg"
-        width: 690
-        height: 560
         isCached: true
   - title: "Intel Files for IPO of Self-Driving Unit Mobileye"
     excerpt: "The filing is no surprise. Intel announced late last year that it was planning an initial public offering for Mobileye in mid-2022."
@@ -98,6 +94,15 @@ related:
       domain: morningstar.com
     quality: 4
   - title: "Intel's self-driving unit Mobileye moves toward possible $50B IPO"
+    excerpt: "Intel Corp. on Monday said it filed confidential paperwork for an initial public offering by its self-driving car unit, Mobileye Technologies Ltd. The Santa Clara-based chipmaking giant didn't indicate in Monday's announcement how much capital the IPO ..."
+    publishedDateTime: 2022-03-07T15:27:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2022/03/07/mobileye-moves-toward-ipo-valued-at-up-to-50b.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
+  - title: "Intel's self-driving unit Mobileye moves toward possible $50B IPO"
     excerpt: "Intel bought Israel-based Mobileye in 2017 for $15.3 billion. Now, it's looking at an IPO that could push the valuation to $50 billion. #wallstreet #autonomous #phoenix"
     publishedDateTime: 2022-03-07T17:14:00Z
     webUrl: "https://www.bizjournals.com/phoenix/news/2022/03/07/mobileye-moves-toward-ipo-valued-at-up-to-50b.html"
@@ -107,6 +112,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "W+G30mBUSi5zcJNufWphwuWDwsl4oFJI+FwCl1F6kQWN76o9qUx4VuIz7irUHDdXgWyfIAdbXKovr43VkibtlaPl7nOggx5l/q1DTh+acVbO9UYA+F9SxDRl80o2pQM7myeQFnPBr32z1zQ3GMbpzW9RmKCNJv2GILIPSoByLmTkHM86R5zbunyoYhzmx5COnBfHfmotWBvpbW/mXCyvkTY/MBC2ExQpKpjOMHq/RibIiwFHZVqFnkoilV8cLgZH5RJlU+FZGlJ9ts8yFNLWcK8WgH6jRG9Z+zBs4cRFNpJWQczfXuZGI9Qgstu1U4ZTIdBJ1JPxvEy9h1zCXgav9Js2LuZG1hxUiQBjRTrGMxo=;WamxC9mjDj5akotVRNp6vw=="
+secured: "ZRa4Yx567YQguEdGxh2mb0yE7WzLtgn1VU0f6Bqg5xDK8oMkOhtXQa8+IEIKNjPN4qNdQOQOPjzZt6p62hc6TZPbfL0NH+y1txlcBUv8lkUfxQUhgxvSRraRozs9uFNnIP1TalLRhizKEZiUKs7cSllzZFxvZPIq8Z7sbfR9VUgzQITO5ksGDaGdU9PDehwIkbcUAR/moYz/HHXD3F+m0MfQMkIQYXpkZEatDYRn9i/X2xJ4YxhP3ErO7rbBGhq6hbQDPMF8z/ts+PHuNtNyuirAIIGkSvai8bGg4vCLxFZSgVjOLvR3rgcuBSOTLnwzqSrO44rGShHsLmFMag/GGjzYyVD8GPB6C6CjzHoFJPs=;FGMhCtmeHxqKiKNF8/1Ghw=="
 ---
 

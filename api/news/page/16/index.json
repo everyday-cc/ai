@@ -2,6 +2,163 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-02-20-deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiments.md",
+      "title": "DeepMind Teaches AI to Assist With Nuclear Fusion Experiments",
+      "excerpt": "DeepMind wants to use artificial intelligence to help scientists experiment with nuclear fusion, which it believes is a contender for \"a source of clean, limitless energy\" here on Earth.",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/news/138806/deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiments",
+      "originalUrl": "https://uk.pcmag.com/news/138806/deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/d/deepmind-t/deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiment_4sv2.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-19T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-19-ais-true-purpose-is-freeing-up-humans-to-find-the-biggest-problems.md",
+      "title": "AI’s true purpose is freeing up humans to find the biggest problems",
+      "excerpt": "We start with a reasonable intuition (abduction ... Take chess and go, two board games that have received much attention from the AI community in the past decades. Chess was once called the ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ais-true-purpose-is-freeing-up-humans-to-find-the-biggest-problems",
+      "originalUrl": "https://thenextweb.com/news/ais-true-purpose-is-freeing-up-humans-to-find-the-biggest-problems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F02%2FAI-and-humans-solving-problems.jpg&signature=9a82a94a0971430cf989ec3c698bde57",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-19T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-19-d-link-eagle-pro-ai-mesh-system-blankets-homes-with-the-latest-wi-fi-technology.md",
+      "title": "D-Link Eagle Pro AI Mesh System Blankets Homes With The Latest Wi-Fi Technology",
+      "excerpt": "A couple of months ago, I reviewed the new Eagle Pro R15 router from D-Link. This Wi-Fi 6 router can handle speeds up to 1,500Mbps and is keenly priced. It can be used to upgrade any home’s wireless network to the latest Wi-Fi 6 standard with AX1500 speeds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marksparrow/2022/02/19/d-link-eagle-pro-ai-mesh-system-blankets-homes-with-the-latest-wi-fi-technology/",
+      "originalUrl": "https://www.forbes.com/sites/marksparrow/2022/02/19/d-link-eagle-pro-ai-mesh-system-blankets-homes-with-the-latest-wi-fi-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620b77fd0c4791094cbf109c/0x0.jpg?format=jpg&crop=1613,937,x0,y90,safe&fit=crop",
+          "width": 1613,
+          "height": 937,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2022/02/19/d-link-eagle-pro-ai-mesh-system-blankets-homes-with-the-latest-wi-fi-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2022/02/19/d-link-eagle-pro-ai-mesh-system-blankets-homes-with-the-latest-wi-fi-technology/amp/",
+      "publishedDateTime": "2022-02-19T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-19-t-aim-startup-bariflo-labs-uses-ai-robotics-to-rejuvenate-lakes.md",
       "title": "T-AIM startup Bariflo Labs uses AI, robotics to rejuvenate lakes",
       "excerpt": "“We are using robotics and artificial intelligence and the internet of things to solve the problems in the water segment,” he said. Sahu said it has a patented aeration device that diffuses air to the sediment level, where a majority aquatic species shelte",
@@ -1057,153 +1214,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-leveraging-computer-vision-for-monitoring-alzheimers-disease-progression.md",
-      "title": "Leveraging Computer Vision For Monitoring Alzheimer's Disease Progression",
-      "excerpt": "The growing involvement of technologies such as AI and computer vision in healthcare enables health experts to predict and track the advancement of Alzheimer’s disease in patients. The mere possibilit",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/leveraging-computer-vision-monitoring-alzheimers-disease-naveen-joshi",
-      "originalUrl": "https://www.linkedin.com/pulse/leveraging-computer-vision-monitoring-alzheimers-disease-naveen-joshi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFaoO-s7Tt0IA/article-cover_image-shrink_720_1280/0/1643831757120?e=1651104000&v=beta&t=7yKLv7ACZO-opMqqhV85Sxd5Zl3u-2ffos9KOsaFO30",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-18T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up.md",
-      "title": "Sirona Medical Acquires Nines AI’s algorithms to rebuild radiology’s IT from the ground up",
-      "excerpt": "This acquisition comes during a somewhat shaky moment in AI-based radiology. But Sirona is betting this move proves out its thesis: to bring AI into the clinical workflow, we need to rebuild ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/02/18/sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up/",
-      "originalUrl": "https://techcrunch.com/2022/02/18/sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1318819391.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/02/18/sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/18/sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up/amp/",
-      "publishedDateTime": "2022-02-18T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-air-force-moves-to-drive-computer-vision-research-and-development.md",
-      "title": "Air Force moves to drive computer vision research and development",
-      "excerpt": "An official said it shows that DOD is serious about enabling more personnel to harness artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://defensesystems.com/ai-analytics/2022/02/air-force-moves-drive-computer-vision-research-and-development/362120/",
-      "originalUrl": "https://defensesystems.com/ai-analytics/2022/02/air-force-moves-drive-computer-vision-research-and-development/362120/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.defensesystems.com/media/img/cd/2022/02/17/021622visionNG/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-18T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense Systems",
-        "domain": "defensesystems.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

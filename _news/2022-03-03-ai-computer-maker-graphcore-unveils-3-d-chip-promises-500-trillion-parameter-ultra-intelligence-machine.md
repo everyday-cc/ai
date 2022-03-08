@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Machine Learning
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/502695fb2067bb4dded539f74c3322b2bdb51bb3/2022/03/03/13f6ee74-f0f1-476b-8763-3eabefbbec68/graphcore-wow-diagram.png?width=1200&fit=bounds&format=pjpg&auto=webp"
