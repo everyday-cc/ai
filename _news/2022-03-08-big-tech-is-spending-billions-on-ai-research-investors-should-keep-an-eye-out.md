@@ -1,16 +1,14 @@
 ---
 category: news
 title: "Big Tech Is Spending Billions on AI Research. Investors Should Keep an Eye Out"
-excerpt: "As well, the DeepMind Technologies lab, owned by Google parent Alphabet Inc., has announced the development of a new language model, commenting, “The high-school reading comprehension level approaches human-rater performance.” While these companies ..."
-publishedDateTime: 2022-03-08T12:00:00Z
-originalUrl: "https://www.wsj.com/articles/big-tech-is-spending-billions-on-ai-research-investors-should-keep-an-eye-out-11646740800"
-webUrl: "https://www.wsj.com/articles/big-tech-is-spending-billions-on-ai-research-investors-should-keep-an-eye-out-11646740800"
-ampWebUrl: "https://www.wsj.com/amp/articles/big-tech-is-spending-billions-on-ai-research-investors-should-keep-an-eye-out-11646740800"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/big-tech-is-spending-billions-on-ai-research-investors-should-keep-an-eye-out-11646740800"
+excerpt: "It took off in 2010 when the ImageNet project proved it was possible to use two GPUs developed by Nvidia to train a large AI model to recognize labeled images, said Kyunghyun Cho, a co-founder of the startup Prescient Design and an associate professor of ..."
+publishedDateTime: 2022-03-08T14:41:00Z
+originalUrl: "https://www.wsj.com/articles/big-tech-is-spending-billions-on-ai-research-investors-should-keep-an-eye-out-11646740800?tpl=vc"
+webUrl: "https://www.wsj.com/articles/big-tech-is-spending-billions-on-ai-research-investors-should-keep-an-eye-out-11646740800?tpl=vc"
 type: article
-quality: 85
-heat: 85
-published: true
+quality: 65
+heat: 65
+published: false
 
 provider:
   name: Wall Street Journal
@@ -21,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - Google AI
   - AI
+  - Google AI
 
 images:
   - url: "https://images.wsj.net/im-499743/social"
@@ -30,6 +28,6 @@ images:
     height: 640
     isCached: true
 
-secured: "UyVLwoftP66KavSGd8TtSOpDdpNiE6h4b/rR1W87VIXspgIKO2/fDFQsEb0c56/uV8oQuxZOy3xUvfMAfzv6MFGIHZoRvuOaxAi12Ri3JTFyHPWtaPTvRdwyVxK9HCBNKv9ciKE0jKGIjpdk1UH0PLCZrbXCB961nZOd5ld3RwjCXVufN+yyxYpgJbRtGs1KLUATj1pg4BrV5N72TR8o1YZucCu9xkAXVQ0tH/k76zdG8VNj9mAX7TvijngH3HUkv34WFH1s+NoUIrBuuKY4Iav3Pa4lLX07R/ekLVQ66XfQYxdc61Hd7c40ktRfoasi5atxuNvyKvXA/sAk5s2lAfia+tljmz71hJMWZjl98Uk=;cHv8MoI2ANcgMQJRq7sBuQ=="
+secured: "nTeClVew9DUVMdTQETE35v6LZRkIadX0a29Xiial1EN/AB7j9TLsD5gSlfC4Ef7+Ye6Dm9uMysWuRjR1VwFNGzfNh78oDpkVJdePGyZDc8WIFBm8JtnAxtUkwlaPe8Sw+GLyn/WBbiNOT6ewNVwi6k7xKWnDlHCfhg7Sf+Hmxh+6zSUdvROwqjiP774QGe0HLMG/w4Xgk/dZ2Ew+QGiYKV1oSpIQWbIzGJ1x1bO3MnOFY0CmR2amxHtz8BRgNYr7KytBmomoui/pdGgvxmUbZG9DfSSUP+YhsmSJ9I1QDZYPz4DI7C35Wr4JKNQFK/uZ+fbYFp8BWIqQEdOQ24ojCeAsPamDcl7aGtECeiNH+F4=;N1pnIs4A6d0Ly/SrvVGfXQ=="
 ---
 

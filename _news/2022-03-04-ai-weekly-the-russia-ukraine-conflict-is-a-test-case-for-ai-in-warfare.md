@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conf
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/04/ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://regmedia.co.uk/2022/03/04/shutterstock_ukraine_russia.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Russia’s AI industry faces collapse"
+    excerpt: "RUSSIA FACES LONG AI WINTER: Russian President Vladimir Putin’s 2017 proclamation that whichever country leads in artificial intelligence “will be the ruler of the world” may come back to haunt him. New technology sanctions,"
+    publishedDateTime: 2022-03-08T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-tech/2022/03/08/russias-ai-industry-faces-collapse-00014998"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "Russian autonomous-driving company Yandex idles U.S. operations amid Ukraine invasion"
     excerpt: "Self-driving tech company Yandex said it paused operation of its robotaxis in Ann Arbor, Mich., and ended a delivery partnership with Grubhub."

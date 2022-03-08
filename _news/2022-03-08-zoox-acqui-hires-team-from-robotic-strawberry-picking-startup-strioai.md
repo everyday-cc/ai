@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/03/07/zoox-acqui-hires-team-from-robotic
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/07/zoox-acqui-hires-team-from-robotic-strawberry-picking-startup-strio-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1000
     height: 666
     isCached: true
+
+related:
+  - title: "Zoox acqui-hires robotic start-up Strio.AI"
+    excerpt: "Amazon-owned robotic firm Zoox has announced that it has acquired Strio.AI. The acquisition is more of an acqui-hire as the senior engineers"
+    publishedDateTime: 2022-03-08T16:25:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/zoox-acqui-hires-robotic-start-up-strio-ai/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/zoox-acqui-hires-robotic-start-up-strio-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/zoox-acqui-hires-robotic-start-up-strio-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/Zoox-acqui-hires-robotic-start-up-Strio.AI-123-01.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "3GMUJHuvaGrOemqwb7qCbehofCXMQBrmkPg/RrxJVZNhcA/b3BuMHtqWjAuLeLdO2y0Tgiq2xNEsEyhb/pgYzn7jxUyDdD0suZIs4YaVCuObs67EJ+AVdk+dnNnX11WVIGdkh+L7a5kCZGO8rNSC7MvFAWm+l949HqgU9V2KLBhok5et18Ayx4XIdFF6SoSFeah0HjkPs0sH31v0i2gkNtypGdVUSmE2IrQW+HEF/Pj7W9ibAnB7HSaQG4N0DvYn4Kd+I3/zHTOLsUYZgYccY6WlJCCHB470XxnQRAWOywrnLHCiL6ULkr4V5IATDO+kFaRoUxGB0mtn/2Bopkfq+x/+jxBevlpu2r2AbOESH50=;qH8oI6bblbFmRFJHjQF35w=="
 ---

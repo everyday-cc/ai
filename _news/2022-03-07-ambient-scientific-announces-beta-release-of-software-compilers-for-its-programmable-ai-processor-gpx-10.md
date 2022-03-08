@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Software-defined processors for edge AI get two new compilers"
-    excerpt: "For its software-defined AI processors, Ambient Scientific releases vertical compilers for fast development of AI applications, and a generic compiler to enable more programming flexibility."
-    publishedDateTime: 2022-03-07T10:44:00Z
-    webUrl: "https://www.embedded.com/software-defined-processors-for-edge-ai-get-two-new-compilers/"
+  - title: "Angara announces DecarbonX - utilizes AI to fight global fouling problem and CO2 emissions"
+    excerpt: "Angara, a technology company based in The Netherlands, is using the CERAWeek stage to announce its new AI-driven, smart formula program that solves a significant legacy problem with its innovative new technology."
+    publishedDateTime: 2022-03-07T09:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-cce5ff02388843311f73d0853a60f407"
     type: article
     provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 39
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
     images:
-      - url: "https://www.embedded.com/wp-content/uploads/2022/03/Ambient-Scientific-AI-processor.jpg"
-        width: 530
-        height: 398
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "ZmQqzlvaaUMeBlSjHMVYdKXaIslzZ0RTW/1a82aIXey1gDE3wQ9UT8xjYrL9TPkhk81cikduO3xHHqjWe+MYH/7UKIIDgMovQh4xBW9PepPZEc5mt7OrBPB/pSFm9dtzy7Gn4396rBGmcOl4gb4J1HfyJmDWnsy1mOXPF0InqMT3SioRQJwYe08PlEZhNUbBvPn7iMHYXvZwKsTtNzPc3V3KK70WPbZE6tkDp7XrGtbwMHDpAAPmYGwERTYmQotuqpzdE3qtyxfRKn+ujA8JGOKfRmlxGUfMH3NzDjl3XteXOiJNGPQLKLXm7orAATpeGS7JcjSC0XFykPco/6ELFgqLp6aBVePgePHuL9BWauI=;jh+sXvOLobrd825n4uTdRA=="

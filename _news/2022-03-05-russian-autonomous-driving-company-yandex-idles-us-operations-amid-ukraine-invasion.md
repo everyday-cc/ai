@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Russia’s AI industry faces collapse"
+    excerpt: "RUSSIA FACES LONG AI WINTER: Russian President Vladimir Putin’s 2017 proclamation that whichever country leads in artificial intelligence “will be the ruler of the world” may come back to haunt him. New technology sanctions,"
+    publishedDateTime: 2022-03-08T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-tech/2022/03/08/russias-ai-industry-faces-collapse-00014998"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "FcFWiCy/eOc0K5rO41nKdVi8QgZ8euDk1p/vHiGYSdaX6pGSLo8MyfegT68geAEW3AiEmiokkm5VhPnRsMSlWIln7bJDQHWWRmLemHIaIbWaJlw8dVOZnyupC6QA8rcIZxWyVKsJ+xNPL46GdX0jM7ZdZTxqryWCqoYC2tO6w0t1O9lYe+UAHsT/gtVqKiVpNvwQcXOTioHhS6WQpknbEKRpHNYt/0Sz3qjDTT8P7I7l7Ii3YNpOD5vu8RitkGhM0up5WGsJTMAknQUHr1xK2agWJ2K7WXoD8Zrl4qThuh/R+ZogP9G3GX6W/f4zOFGREMtc0QSUGDKtPQorFEGFk7ilog1TWAyi9f2rEGRagYPamS5ACis7Nm6oFSpV36ueHBm1WDm3wrb1L2dLWjqxaJYMiq6lkRxvm4cZ1IJXP9pYiqBGzqtalc3eEiV5ajLPR5NiHJuiOtsQAPTG0bpCyB9EYGPZDmNHs6zNi7Opc70MFzy+0g96t5UEyeiOlm7jaFDtkfm/GuC7ylaeakYrQw==;QPaw9IaZ2pS9VmkKoWkkCQ=="
 ---

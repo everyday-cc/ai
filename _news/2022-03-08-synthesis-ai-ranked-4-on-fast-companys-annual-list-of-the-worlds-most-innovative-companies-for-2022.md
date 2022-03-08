@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Nearly 90% of the world's artificial intelligence companies are still at a loss"
-    excerpt: "The IPO trend of Chinese artificial intelligence (AI) continues. Following Sensetime, AInnovation was listed in Hong Kong in January about 17x P/S."
-    publishedDateTime: 2022-03-06T04:01:00Z
-    webUrl: "https://www.linkedin.com/pulse/nearly-90-worlds-artificial-intelligence-companies-still-cynthia-ding"
+  - title: "Fast Company names LivePerson the #1 Most Innovative AI Company in the World"
+    excerpt: "PRNewswire/-- LivePerson (Nasdaq: LPSN), a global leader in Conversational AI, has been named to Fast Company's prestigious annual list of the World's Most Innovative Companies for 2022. Fast Company ranked LivePerson at #1 on its World's Most Innovative Companies in Artificial Intelligence list,"
+    publishedDateTime: 2022-03-08T14:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fast-company-names-liveperson-the-1-most-innovative-ai-company-in-the-world-1031262599"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 35
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHG9VIoR27OSw/article-cover_image-shrink_600_2000/0/1646539092875?e=1652313600&v=beta&t=yGCKjmdZjCKiDJ5uDvNUpXQYAtRNHex2p1d0055P3pM"
-        width: 686
-        height: 350
+      - url: "https://mma.prnewswire.com/media/1761621/LivePerson_Inc_Press_Release_Fast_Company_2x.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "LTHT/hwAXej2i4uP3mWU7WDTdDBcSSs3/ftFrQ+I2IREpbX5i9xLHMmepfEUBrh2KclBL4bAO+5dpAo5akwEVDMk09vn03En+abbKz8VyWWLwpc2d2NaJCNi4xzTBChWr/B5g+7xz3P/9Iyn+qinkcDrgKPaiYRIACcmGhZuYfazqbjDYLqPmt5aLZ1iaJ2bL+EOIeK2mijbt+iw6brJrZRiU2K2xrKSWV4pfd47j3R122Utz+o4cb+xPWyy633+Iu+vL4CoVvZU/UkMldvUPZHC3Wpm3vs8BPTA8osksNR6Pk/jCI5IlEcSKn7nF7ASzRp69WfKHqRMJQnMGdsSS3jBlKaDOxzrHYd6sTIdljY=;2WhufHtL73Gg7t8lUGTiRA=="

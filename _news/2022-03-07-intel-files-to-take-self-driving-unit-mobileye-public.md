@@ -3,13 +3,11 @@ category: news
 title: "Intel Files to Take Self-Driving Unit Mobileye Public"
 excerpt: "The chip maker said last year that it was going to list the Israel-based business, which by some accounts could fetch a valuation above $50 billion."
 publishedDateTime: 2022-03-07T15:12:00Z
-originalUrl: "https://www.wsj.com/articles/intel-files-to-take-self-driving-unit-mobileye-public-11646669536"
-webUrl: "https://www.wsj.com/articles/intel-files-to-take-self-driving-unit-mobileye-public-11646669536"
-ampWebUrl: "https://www.wsj.com/amp/articles/intel-files-to-take-self-driving-unit-mobileye-public-11646669536"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/intel-files-to-take-self-driving-unit-mobileye-public-11646669536"
+originalUrl: "https://www.wsj.com/articles/intel-files-to-take-self-driving-unit-mobileye-public-11646669536?tpl=vc"
+webUrl: "https://www.wsj.com/articles/intel-files-to-take-self-driving-unit-mobileye-public-11646669536?tpl=vc"
 type: article
-quality: 74
-heat: 154
+quality: 54
+heat: 134
 published: true
 
 provider:
@@ -128,6 +126,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "zukXhdkzzdFHHofBdakQHLSKObjzG7mCWLUpxo2DvGlGPK27dHYlJWQoGCshIk9SFI5RyQPvN0HhLuzfniiJdB7dBVN3kGOZgiUbye8ILoESp0rzOSQTIqQyOTP1k5zq9MBRI/MBVubiKl98BKAqu15dmv/yLBkaHUt/iIUVw5JmW+LJOo33ypf6TCpoNofc9enJFysifsqPA9MfLGAeaD+xfmVJdY5ev19htxyqtFjbAzQw/T2/2CSuh1HsoAypgV//Q/mqvD/jEVDUeapeK3qYNQvC1dQRr5o4ceS+kScixUjqRYhinXRn6wbgYRFB2QVN71sdD1tk4dj7+RJhcTh3vKfadrHCE2KdLNBv02U=;fC11FiG2Ft28KEmdnxj2TQ=="
+secured: "8m/4bv1Ec5Fez80mlw+NT/221jVaxes0R76GuhYGoc8YcQf0leGOYuu+eTQK/YX5QoMsx9F9tyXfWt7NKHS+uQjAGOwR9GYRWT8wtFgp72FgvD6hVXLVAQGGQoaKPWs21utFBGGt/aj5zPdOPchqeZHe0sRbn9nlnXI75MAZhJ2V/m3BrUb3Y1QjIoamAhgYmKQKcHxkDVg3NdkQz+bvoMGTl8cvwj6O/KPmWvuiFGf7bRs/MQK+0pkWzeMhPAssEr1HW3BVFL4gWtO7f5Gx5eW8Ysv7lrCX77OT6bxUv4NqnD30Wmvuu7zsE26hWzkiugdmfWxR9f09EaznpeUPkEdmax/gDoSGicJuQteBV6M=;jrCE9hhigCa+FeF8fWyc3w=="
 ---
 

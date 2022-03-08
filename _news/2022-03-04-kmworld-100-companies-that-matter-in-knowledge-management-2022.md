@@ -6,9 +6,6 @@ publishedDateTime: 2022-03-04T05:01:00Z
 originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943"
 webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
   name: KMWorld Magazine
@@ -24,6 +21,6 @@ images:
     height: 336
     isCached: true
 
-secured: "wtScmza+NPd+8Vsh+k0mCd/s7LJUbw3L8vx6pvoMBeVVCcv8u6xJzbLwsVaX7ni3hJKamCGNNH9c2cOcY7NFWJ1SW60wUE3jXgLIQKqQ0TKV2FDzexVHgACeJhZhz71xAPXL+K0WMkKsGf+QJD/JN1E9ijL16Y/eEI+Fgx9Rrxv+Tn3ivs/67e3UsEBBliApVyigqO9ueBCD1VzPfbMp8ol9msalVyxH/Pcq0LNT4/H0QcUBTaF9PJ9XYdMADWBV9rV4/trxhxpG9pCWvBlk3Mdc3vMahBqitmqQ+tXsAZzPrIs//oCHnh2E0+hEEtwvpbj1bi+L28LiFB1sgfruF1cfhl72wUZ72kdQ+hgvSak=;7rO6WQlkyXXeOohGhg8cqw=="
+secured: "R512/UcodZS2uvTifiO9cMF5WJUsYX7G3lqEL+DzJ+2yKt2R7k5tVw1YhZNUKgmWPQXjmP1+GOD87iJdE8yKK3Qvy7nuYqGwrG4gzkTp8pXuSTSfVwNGhfFq1daYHeycIjP+6ICoYXt0qpkX35P8q9CLVUbEPqQMwSDyu2gWLoo7tBRSY4Obok91XceWFbdS85kyPe70fkN1rAFFK3/Gcn9T45SgeWhfJUwhktqgrZKVOxEvWcczwuRLq2K4dyMIizpFh5hvQ4c27XybcLJ3IbuftRxHjI/qkbEO2FFucaHm6uLhNSyxBiBYEsid8Csh0xiGEdW+UKNruRXTL6MKpb8ZEm77nvZU38b6vgQe3iw=;Jq5bXChf1G6Y+iA1Rs3JeQ=="
 ---
 

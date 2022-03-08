@@ -22,14 +22,12 @@ related:
   - title: "Intel Files to Take Self-Driving Unit Mobileye Public"
     excerpt: "The chip maker said last year that it was going to list the Israel-based business, which by some accounts could fetch a valuation above $50 billion."
     publishedDateTime: 2022-03-07T15:12:00Z
-    webUrl: "https://www.wsj.com/articles/intel-files-to-take-self-driving-unit-mobileye-public-11646669536"
-    ampWebUrl: "https://www.wsj.com/amp/articles/intel-files-to-take-self-driving-unit-mobileye-public-11646669536"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/intel-files-to-take-self-driving-unit-mobileye-public-11646669536"
+    webUrl: "https://www.wsj.com/articles/intel-files-to-take-self-driving-unit-mobileye-public-11646669536?tpl=vc"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 74
+    quality: 54
     images:
       - url: "https://images.wsj.net/im-499528/social"
         width: 1280

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehour.com/news/amp/Clarification-BC-AP-Investigation-T
 cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
 type: article
 quality: 57
-heat: -1
+heat: 68
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI-powered XDR can secure the hybrid workforce"
-    excerpt: "XDR's overall aim is to integrate and correlate data from numerous security tools to help customers prioritize the biggest threats."
-    publishedDateTime: 2022-03-04T04:02:00Z
-    webUrl: "https://venturebeat.com/2022/03/03/how-ai-powered-xdr-can-secure-the-hybrid-workforce/"
-    ampWebUrl: "https://venturebeat.com/2022/03/03/how-ai-powered-xdr-can-secure-the-hybrid-workforce/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/how-ai-powered-xdr-can-secure-the-hybrid-workforce/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/2-Why-XDR-is-worth-considering.jpg?w=1200&strip=all"
-        width: 1200
-        height: 598
-        isCached: true
   - title: "How AI-powered tech landed man in jail with scant evidence"
     excerpt: "Williams was jailed last August, accused of killing a young man from the neighborhood who asked him for a ride during a night of unrest over police brutality in May. But the key evidence against Williams didn’t come from an eyewitness or an informant;"
     publishedDateTime: 2022-03-06T21:48:00Z
