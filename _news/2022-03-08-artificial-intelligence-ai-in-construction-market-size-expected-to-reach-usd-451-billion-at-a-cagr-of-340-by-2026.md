@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-08T10:24:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-construction-market-size-expected-to-reach-usd-4-51-billion-at-a-cagr-of-34-0-by-2026-2"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-construction-market-size-expected-to-reach-usd-4-51-billion-at-a-cagr-of-34-0-by-2026-2"
 type: article
-quality: 28
-heat: 28
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-Kyiv-AFP-1K-04-600x337.jpg"

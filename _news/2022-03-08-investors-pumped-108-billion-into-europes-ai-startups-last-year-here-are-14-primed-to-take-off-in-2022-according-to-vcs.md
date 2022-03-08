@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-08T11:16:00Z
 originalUrl: "https://www.businessinsider.com/ai-startups-to-watch-top-vcs-europe-2022-2"
 webUrl: "https://www.businessinsider.com/ai-startups-to-watch-top-vcs-europe-2022-2"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://i.insider.com/62063a633b86990018b2de54?width=700"
@@ -28,6 +29,6 @@ images:
     height: 525
     isCached: true
 
-secured: "+Lb7+65WskIWruWS1tjcyVwoCkuM70AMLyuPHzgAWgnUh8hLs9VvaEozz2U9TyGVdP6Cl2ccIkZ/AZMAMYRJK+OEfBlCcD3KRQKaKerybRSCUVz/5jnl/flSoALvPuK43xFbqJRGKMNDok5ZObLvQFDmCSQtPuFv9VF4uDDraSmcc4rEpJMd9ty/CmNCKKwPBk/lzpnjBR7b0k6R219t7wyqTCFWD6yomBaOeYmBWGQ12OXr1cJhi+sIsFyyc/uWe7+rFO0ux3v5jBRX5CIkTNGDShvCATDH12Zov62EmySOXNIjW9PZq7+iw1dveUxWWoHEXmwL35xWUGVzOM3BO916U5kMXLsaqZmsIPsT1Jw=;H6/GxOKzTkrPZICTgJ3Isw=="
+secured: "MgDR7NUyzP8NBO52tSqLyGrMQ9bDpLbrVcnwAwyRQJIVhmonCI6JQ4ZR1PqNtf7PaHtPDMMwEjqwrn4jpu5KO32a/PNRMaCX5leXTdiUoNid/slfIMHpsZ+QmD9681i0pqhIihcCHBRurxlCWxQYd76LKBCGXfEn2s0fs1bPr5J3chuErly3JXYydCrSvN4LgVj2TdU70ilVXtwX2bX2NHKgShjnounbvzG+v6KNhg7LR0vTFnh7P/+jS7t8dcLEOGGuATV85BoMtZgn/t176PB8IefpyizyrOEQ6r488DR7Nxm+NaD8siKJU9auRAhkO/9ZJiTPf/2pNORMN/Wt74m9N0zIv9vaM/jQbB9cd7Uxk8ZDxjqjPtYLpcksdM/KMq9eVEmxqoez+zNAi++/1PhQUNpcEo4rpwTD8y+wzh1lbfEqmOoJGcnngqaE/75tevqHzEug/DFlOUKUmxct/2gZstoMrQvfj71miH2vra19xVTqmmNvHByaGaaiHs3+K9TYl4XSavZhmhTv3yGiRQ==;UKCbfwzvkwTT/TjScFTb8A=="
 ---
 

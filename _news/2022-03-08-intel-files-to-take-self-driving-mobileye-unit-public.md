@@ -61,6 +61,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Intel files to take self-driving unit Mobileye public"
+    excerpt: "Intel Corp. said it has filed paperwork to take its Mobileye self-driving car unit public as the semiconductor giant tries to spark investor enthusiasm in its own shares and capitalize on growing demand for automated driving."
+    publishedDateTime: 2022-03-08T12:34:00Z
+    webUrl: "https://www.livemint.com/companies/news/intel-files-to-take-self-driving-unit-mobileye-public-11646742441162.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/intel-files-to-take-self-driving-unit-mobileye-public/amp-11646742441162.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/intel-files-to-take-self-driving-unit-mobileye-public/amp-11646742441162.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://images.livemint.com/img/2022/03/08/600x338/Intel_1646742605953_1646742606168.JPG"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Intel Mobileye IPO: 10 Things to Know as the Self-Driving Unit Files to Come Public"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Shares of Intel (NASDAQ:INTC) are basically flat on the day despite a"
     publishedDateTime: 2022-03-07T20:39:00Z

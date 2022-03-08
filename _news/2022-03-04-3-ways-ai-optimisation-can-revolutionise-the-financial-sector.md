@@ -24,22 +24,6 @@ images:
     height: 749
     isCached: true
 
-related:
-  - title: "Most Common Artificial Intelligence Applications in the Fashion Industry"
-    excerpt: "AI technologies are assisting fashion firms in identifying key trends and choices in the market, allowing them to update their shelves more quickly with"
-    publishedDateTime: 2022-03-04T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/most-common-artificial-intelligence-applications-in-the-fashion-industry-nid-9457.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 36
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/yrxh2450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
-
 secured: "ujpALaDBc/Qxwn11hwpFlfZtEPh8v8STiEbp6OZspW1bttB4j0B/U+vquatM0hoX9sn7YEEgLg5GqztbM3l/rwMkc3VDgOos8IyUPD9+v3G+51HhH6UTtoj4Ix5PvglHo8PTHn5TYo9yEFxgpd0MEme0MfpiVkj/dGbCXFqYjrCbvlcS9t1N9dQzqGjJv1xLi4HVFBYPKqYaKTrg4/6LwE4A1WC/m1ro26lg3xsaQFaouea0svG+1vTfazgKNICJ3uI8O5oyMB97SAyYOgfKwGTmWX7vhJpUqo0UyuAXIeUIiK/gIY6g+K4s0QS/wkPmRQ5SOQ44F9bBtjxQ8+GENZkx2hO9yxkt0+yg9QV6vyo=;aI5Ch2ScJAuzUKZYeDridw=="
 ---
 
