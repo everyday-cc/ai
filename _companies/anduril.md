@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "anduriltech"
   url: "https://twitter.com/anduriltech"
-  followers: 11238
+  followers: 11239
 
 size: 51-200 employees
 yearFounded: 2017
