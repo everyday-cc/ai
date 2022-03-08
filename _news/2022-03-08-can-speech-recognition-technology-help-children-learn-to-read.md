@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/can-speech-recognition-technology-h
 webUrl: "https://www.linkedin.com/pulse/can-speech-recognition-technology-help-children-learn-read-"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -27,36 +27,6 @@ images:
     width: 1011
     height: 630
     isCached: true
-
-related:
-  - title: "Speech recognition startup raises $400,000 for next-generation transcription technology"
-    excerpt: "London-based AI startup Alchemy Machines has raised $400,000 in pre-seed funding. The round was led by SFC Capital and saw the participation of Innovate UK. The new funds will support further development of the platform and expansion of the team."
-    publishedDateTime: 2022-03-03T14:20:00Z
-    webUrl: "https://tech.eu/2022/03/03/speech-recognition-startup-raises-400000-for-next-generation-transcription-technology"
-    type: article
-    provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 46
-    images:
-      - url: "https://cdn.tech.eu/uploads/2022/03/untitled-design-96-861.png"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "London based AI-generated music tech company raises £11m with plans on global expansion"
-    excerpt: "LifeScore, a London based AI music technology company, has announced that it has raised a further £11m in funding as… | Creative | London | International | Funding | Technology | Technology | Business"
-    publishedDateTime: 2022-03-07T12:43:00Z
-    webUrl: "https://bdaily.co.uk/articles/2022/03/07/london-based-ai-generated-music-tech-company-raises-11m-with-plans-on-global-expansion"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 29
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/3pXo2ZL6QNVmo2wwVFRRg7OEvioJmxePxJaRcpiJ.jpeg?w=940&h=430&fm=jpg&fit=crop-47-41&s=ec68f01cd06a5cb15e58f8f5ea11ed72"
-        width: 940
-        height: 430
-        isCached: true
 
 secured: "+gcfWcCeyL7df5syXz4wHEMB7KOkTSjKzz8jBZtY5kRR3kAI2PLvYLx458LjSrhanZo3led3WsGqcNwMlUc2D43+uPWHuLgKtZc3MQuC6KkIMTWmXgchDW9VF5jWCTx/7OeppMp6BlJWVEdScI0CeqO1HTMXLDGV68wo/TdveEsoIiCA+q1JYypxrXoVvLadEet4RrAMx7haPJwySc/oFWMIsRkRrGM/QR9S3zpVpFNDbdpWoG4l6ukVD224vn2z4XqjGS4NqP6i3WqjsInzO28UDn1Fr01LxzNpjgSTmzZHX3MibSZYtgm1ioZ1vSBJvw7CUQk6szy/fgY/7FzcCYk9PcTCSi8pIPVyBGEY6T1uaUI9Y/4/SQDGkaJ+BHgTUuTQrMBf8UDGXYe/o+H4uMQ6gYv/yWphpW4ermRtu1NywObTfB/GOlroUV3QxcIBDh/W/xHEp6tVxO6n9VerJnwRi/77dpm+knG+CWQQYuO2AElFv8cawes0FE8nN9wW26Vdzqg3VufpdJ4RQX7bdQ==;/MePq18wyOgt01PUU+9Xqg=="
 ---

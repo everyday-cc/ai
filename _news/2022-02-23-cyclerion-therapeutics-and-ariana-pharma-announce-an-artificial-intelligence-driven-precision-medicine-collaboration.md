@@ -1,43 +1,30 @@
 ---
 category: news
 title: "Cyclerion Therapeutics and Ariana Pharma Announce an Artificial Intelligence-driven Precision Medicine Collaboration"
-excerpt: "Cyclerion Therapeutics, Inc. (Nasdaq: CYCN) and Ariana Pharma today announced an artificial intelligence-driven, precision medicine collaboration. This collaboration is expected to identify biomarkers of response to refine patient selection to guide and accelerate the clinical development of Cyclerion’s investigational therapeutics for neurological and neuropsychiatric diseases associated with cognitive impairment."
-publishedDateTime: 2022-02-23T13:29:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cyclerion-therapeutics-ariana-pharma-announce-an-artificial-intelligence-/2022/02/23/9550506.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cyclerion-therapeutics-ariana-pharma-announce-an-artificial-intelligence-/2022/02/23/9550506.htm"
+excerpt: "Ariana Pharma's proprietary KEM(R) (Knowledge Extraction and Management) eXplainable Artificial Intelligence (xAI ... who may benefit most from the therapy, by identifying patient-selection ..."
+publishedDateTime: 2022-02-23T08:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/cyclerion-therapeutics-and-ariana-pharma-announce-an-artificial-intelligence-driven-precision-medicine-collaboration-2022-02-23"
+webUrl: "https://www.marketwatch.com/press-release/cyclerion-therapeutics-and-ariana-pharma-announce-an-artificial-intelligence-driven-precision-medicine-collaboration-2022-02-23"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "American Oncology Network (AON) and VieCure Announce Strategic Collaboration to Accelerate Adoption of Precision Oncology and Personalized Cancer Care"
-    excerpt: "American Oncology Network, LLC (AON) , a high-growth medical oncology provider with a focus on supporting the long-term viability of oncology treatment in community-based settings, announced today a strategic collaboration with VieCure,"
-    publishedDateTime: 2022-02-23T14:19:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-american-oncology-network-aon-viecure-announce-strategic-collaboration-/2022/02/23/9550827.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "Cyclerion Therapeutics and Ariana Pharma Announce an Artificial Intelligence-driven Precision Medicine Collaboration"
-    excerpt: "and PARIS, Feb. 23, 2022 (GLOBE NEWSWIRE) -- Cyclerion Therapeutics, Inc. (Nasdaq: CYCN) and Ariana Pharma today announced an artificial intelligence-driven, precision medicine collaboration. This collaboration is expected to identify biomarkers of ..."
-    publishedDateTime: 2022-02-28T00:43:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/02/23/cyclerion-therapeutics-and-ariana-pharma-announce-an-artificial-intelligence"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
-secured: "tyAdkb+/BAUwOQfSeS1zS6i9sS9wl6pWkCtCLtzqudJRSqE93q8Uje6XAF8+R40YYjxzdCbpP1AwjWJGj3D24GibafQwtNFxGn9yInAF8FNI5bvCf2dqlibSNLF0J3X1VePNHfMUl7+2G1F5iOMFd6N6RJ7GNHDCsD/VVb1eFhk8qA1eopVsDqT9kD0z645zDeglS7Z3LKG0vMJqZZNnE9cu3Ww9BB2lviPvjYnAT2tOCAtDVHCaFkXyAS/qLDrvDVi/G7aFSCSkZrCUVyFLnZ9b9IypQgJtxHyI9pSBpmK9tQTFNOrrOpXFSBpxpbTy8hY1g4MD951ZbSq8IruqNb1VZXGOerzE030/sD6WVMA=;pdCGp8RbmTMFshfr+jOyVQ=="
+secured: "qF1O/btvapcHNyQgbFYy4GfijkMjAurxqMkksOvKOaMFfBmuzqdsSlU/2yZsnUSq7zX4lFhw0yuScfLErmgNIX3VCxOwtcOZ+qnd/AnoynJAjV+fa/iDfZCwrtHZwGiPPuNEsb66rTtXej5+Y2M5iR5hBr0xpkrITSc73gaW0mD5qsqiv7iuwFj3an14eAtOPdjFzaxx25x0CzTl1Nlj7s2JRJLKkgk+aTPAJ1l1Kz+hno/W+raPmtfsBF0pd8pIOraMOMR8w4IwGyVlpo19AT/x47KVdueTc8rweCKBMwPGSVVP19ktHXmN4igUc2fs5ywo/W7UXqClDoXjstP41rDmBwb5e9cHDv3B3pzCV90=;51bHgRTDPLT+iFOdAxD+Kw=="
 ---
 
