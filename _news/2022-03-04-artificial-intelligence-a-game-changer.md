@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/real-estate/artificial-intelligence-a-game-
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/real-estate/artificial-intelligence-a-game-changer/article65080252.ece/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,65 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Inworld AI raises $10M to develop AI- powered virtual characters for games"
-    excerpt: "Inworld AI has raised $10 million to help scale its team as it prepares to launch its AI character creation platform later this year."
-    publishedDateTime: 2022-03-03T16:49:00Z
-    webUrl: "https://venturebeat.com/2022/03/03/inworld-ai-raises-10m-to-develop-ai-powered-virtual-characters-for-games/"
-    ampWebUrl: "https://venturebeat.com/2022/03/03/inworld-ai-raises-10m-to-develop-ai-powered-virtual-characters-for-games/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/inworld-ai-raises-10m-to-develop-ai-powered-virtual-characters-for-games/amp/"
+  - title: "Wearables and AI will be The Game Changer in Healthcare"
+    excerpt: "READ THE FULL ARTICLE HERE The combination of wearables and artificial intelligence will revolutionize healthcare. The game changer in healthcare is going to be the combination of wearables and AI (Artificial Intelligence)."
+    publishedDateTime: 2022-03-07T14:48:00Z
+    webUrl: "https://www.linkedin.com/pulse/wearables-ai-game-changer-healthcare-joão-bocas"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/Inworld-AI-Character-Screenshot.png?w=1200&strip=all"
-        width: 1199
-        height: 871
-        isCached: true
-  - title: "AI-powered GameFi Mirror World closes $4M seed funding"
-    excerpt: "The round’s funding was for the development and launch of three initial games and incentivizing early community members’ participation."
-    publishedDateTime: 2022-03-04T14:35:00Z
-    webUrl: "https://cointelegraph.com/press-releases/ai-powered-gamefi-mirror-world-closes-4m-seed-funding"
-    ampWebUrl: "https://cointelegraph.com/press-releases/ai-powered-gamefi-mirror-world-closes-4m-seed-funding/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/ai-powered-gamefi-mirror-world-closes-4m-seed-funding/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 59
-    images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82ZjUyYTRkODkxMDM4ZTk2YzJjZTdiYWI0YjZkMWVjZC5qcGc=.jpg"
-        width: 740
-        height: 493
-        isCached: true
-  - title: "Inworld AI raises $10 million to create characters for virtual worlds"
-    excerpt: "Inworld AI has raised $10 million in a funding round led by Bitkraft Ventures. The company's creator platform focuses on building AI characters that \"mimic the cognitive abilities of humans,\" the announcement said."
-    publishedDateTime: 2022-03-04T12:10:00Z
-    webUrl: "https://www.gamesindustry.biz/articles/2022-03-04-inworld-ai-raises-usd10-million-to-create-characters-for-virtual-worlds"
-    type: article
-    provider:
-      name: Games Industry
-      domain: gamesindustry.biz
-    quality: 37
-    images:
-      - url: "https://images.gnwcdn.com/2022/articles/2022-03-04-11-59/Inworld_AI.jpeg"
-        width: 886
-        height: 549
-        isCached: true
-  - title: "Luminous Computing raises $105M to build a photonics-powered AI supercomputer"
-    excerpt: "Startup Luminous Computing Inc., which is developing a new kind of supercomputer for running artificial intelligence models, today said that it has closed a $105 million funding round. The Series A round included the participation of more than a half-dozen investors."
-    publishedDateTime: 2022-03-03T19:05:00Z
-    webUrl: "https://siliconangle.com/2022/03/03/luminous-computing-raises-105m-build-photonics-powered-ai-supercomputer/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/unsplash.png"
-        width: 870
-        height: 500
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFI84ffogB9KQ/article-cover_image-shrink_600_2000/0/1646663983477?e=1652313600&v=beta&t=_Z0BYU8BLmwm_0pw--sPkux7s5NK5-rCHROa6v6EUT8"
+        width: 560
+        height: 315
         isCached: true
 
 secured: "TuziWtnfqKiSM+x404BXWdIohr7uA4/DpFisc9EjbW41UTRpdGo636dDjRSD7DGhq0fCTDpBZOfw9UfiBLjPycr+2FturBj8ZqDF9T99g1hKRdvO1coWKCZ6Bqq4PHnaGVQWeXIZBPJLBQdeNOVZrtcTwiA3lR7WMgeedYmv8+PrFxi8IXoe4dPikLZXpLbJTgwXf6Byu4SEC4m67loJMg5xPAFNtwRmm4ztub3s0VYv3NzeIUWy699IY6a0+wYhhHyHH3HOGwXUGJ3QaiAsioAJ97ltlF7XYH3Y9GFwImIYM3lKMOJ2tKKel3VK0OcBlvkwCfHcESx+Bp/RIP/g6TleuPlyEXTJXuQ6vzUkVtM=;TldN0/mGHNnYflivgOJpog=="

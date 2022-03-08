@@ -1,33 +1,26 @@
 ---
 category: news
 title: "Baidu Launches AI Platform to Enable on-Device, Real-Time Translation from Speech to Hand Gestures"
-excerpt: "Baidu AI Cloud, a leading AI cloud provider, launched an AI sign language platform able to generate digital avatars for sign language translation and live interpretation within minutes. Released as a new offering of Baidu AI Cloud's digital avatar platform XiLing,"
-publishedDateTime: 2022-03-03T15:37:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-launches-ai-platform-to-enable-on-device-real-time-translation-from-speech-to-hand-gestures-1031251920"
-webUrl: "https://markets.businessinsider.com/news/stocks/baidu-launches-ai-platform-to-enable-on-device-real-time-translation-from-speech-to-hand-gestures-1031251920"
+excerpt: "Baidu AI Cloud, a leading AI cloud provider, launched an AI sign language platform able to generate digital avatars for sign language translation and"
+publishedDateTime: 2022-03-03T13:37:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/baidu-launches-ai-platform-to-enable-on-device-real-time-translation-from-speech-to-hand/article_5a3d784a-3326-5726-80d0-bdc2aaa95f80.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/baidu-launches-ai-platform-to-enable-on-device-real-time-translation-from-speech-to-hand/article_5a3d784a-3326-5726-80d0-bdc2aaa95f80.html"
 type: article
-quality: 55
-heat: 55
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1758980/Baidu_XiLing_Sign_Language_Digital_Avatar_Logo.jpg"
-    width: 400
-    height: 213
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/55/f55136c9-7cd7-5c1d-8127-5712430d105f/6220d5bfbec14.image.jpg?crop=1084%2C569%2C0%2C4&resize=1084%2C569&order=crop%2Cresize"
+    width: 1084
+    height: 569
     isCached: true
 
-secured: "bh9GGg09tPzAHupiMFQteI5dlgovp4H9OPqK/tOiwDMkfNN6QNua8z0YD0dvqZfuQKb6++l2g6q2RTcVHjMKC9ymPex1oHYnkcWacbTJf0vd7g3URYW705U4cZ1bMePfcbkL4ZpmgkIXEnbM0i/NLaXoyUzgu0kRdA2rITtlEjtdZo4tYH/DsgfCh++C86dNTASGURFZGTwuc8rtu9v/FYkD+K7ZttKBreefVZHmb4p88/70YVUz/kSCjaGZAvrVt9R22x6o5BV9KpHAhijlr0jOb8zfr1RXKfDZrb6pqeuFeO5A5KKI8X1aDDssUQsomnzYTdvcSiGVS0jbhVfP/9LUpvf79Ufji9frjI/OOm0=;MHvx9b4wNLlhzpKyK4QojA=="
+secured: "6IInbvlH5SJnzVYupoHxEt8PEt1fPmiTt6XTrecEVbWF4yOVT821ZEsgUgN92/7CCFCqVi+gYL/HCPXLxE3znum2fdwLikzWeNuIYdJMuT7O1JhTYwUbgDXuUPrneqQgwRV69hx/v3DIINB/FUvcLZMOjqmkYWZJDnKUdpJsQw+4q+VybAglQ87f9pHf7FLU3JJ9R+sZZxiBfYBd/afWf5QW3dfjmqdkAwxpUvlNpmZIQN1aFeffjAAIAfdDpUJ3Fz1eqZafQriNeQ0BUv60OzzkDsX+8N/mc4RED0X+NB1pYqmzkOWNa4prpB8MmyDtGCx6kudGN0GELcDwild2bOqGj1a/+pFk/PCVnUcCWco=;JfDRFukbhB+dsz1A27fefA=="
 ---
 

@@ -56,15 +56,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "MyHeritage Releases LiveStory, A Groundbreaking Feature That Automatically Creates Video Biographies, Using D-ID Pioneered AI Technology"
-    excerpt: "MyHeritage, the leading global service for discovering your past and empowering your future, and Creative Reality™ startup D-ID, announced today the release of LiveStory, a groundbreaking new feature that creates captivating video biographies."
-    publishedDateTime: 2022-03-03T15:36:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20220303005566/myheritage-releases-livestory-a-groundbreaking-feature-that-automatically-creates-video-biographies-using-d-id-pioneered-ai-technology"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
 
 secured: "Kodq7GenAOMzy9OPSSqSj9DTpkTedmzi2xxxACC+EPiJ1UniICJvl3tZJYshk+MPXthoQkzL0w2eDS7DZAyPPsWWhSwfh7lPOiqU7LoEPg4MKzv2AqvpRYfJuZ6LKV52TyYhDBzTeeh/5Yvh3Z5qUeBqL4jDbgRwycFdFp0oQQVmoQZaM2SVn0a09UU10nh3TJ2UJ5BKrlQyJjXJdOPyxSj53z6VSpRy6KJCvWO+KHWBxdIHo5gyi5pRr83hgk7zrBl0BlCVL15pQtwQDiA9yOTp/0TUN8jQ1YzgCmpkuSV1TFJ9blWfXvm+MXvOg1TvuzM5AdX8b52JrZyXdoeFDw/rrgLOW6CbqFYhq8ijoag/9dsE/raaAqeVCsTw+o182ujB39eUZt0nRnDZ6/H3U/2RBsTirnQsf+om937GzYiI6ppUpjxzbrp7mrCbRenLSDn64U2Tx++jUxyVFkxI4iIIU9cu5AxKtX2DE0FabjzOuF/n4y3pVgxrG7sdUI0rBDlCufPuBEq0qwBnO6is3Q==;P3b2zWcWrI6xYYpC9gcBNQ=="
 ---

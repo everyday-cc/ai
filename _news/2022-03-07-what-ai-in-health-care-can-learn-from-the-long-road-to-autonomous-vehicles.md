@@ -7,7 +7,7 @@ originalUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.21.0458"
 webUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.21.0458"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 525
     height: 350
     isCached: true
-
-related:
-  - title: "Wearables and AI will be The Game Changer in Healthcare"
-    excerpt: "READ THE FULL ARTICLE HERE The combination of wearables and artificial intelligence will revolutionize healthcare. The game changer in healthcare is going to be the combination of wearables and AI (Artificial Intelligence)."
-    publishedDateTime: 2022-03-07T14:48:00Z
-    webUrl: "https://www.linkedin.com/pulse/wearables-ai-game-changer-healthcare-joão-bocas"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFI84ffogB9KQ/article-cover_image-shrink_600_2000/0/1646663983477?e=1652313600&v=beta&t=_Z0BYU8BLmwm_0pw--sPkux7s5NK5-rCHROa6v6EUT8"
-        width: 560
-        height: 315
-        isCached: true
 
 secured: "gEGJ4PRWNkR5SYT489Tp0vMUicgh6ypMXaoOBHi9TzVVNd0odKKbY4Y6t5FCcgtJ6IaBMAnNX4dRGcx4o+j/Jr2MAV6bp/i8+GNWtvyUDJUbcXIZIcSeeYTgx/DqsTtMkSu9uhy+H9VhPKLDzm3It8+154QkddIs+puMKs37k3lNDvCLLCryQtjJx3kE4v8M5cdiuKdX5J6qJBNgIOgjyFEIl2rFLUPeUSSaiT6sgKY0y/h4Il2IOf9Yh1Hw2EzrfoW/zuYUg30i8EElHZ+Pb1FoK/JU/Kihe0iTgmXG5yLdE6xu9zJ7agQt2zJoyldShlPLRFpuWt3gbcIxxfntrEXVeltBqw6o6sds0FAjBjU=;29sbDQ5YOt1fze6IXDJ/OA=="
 ---

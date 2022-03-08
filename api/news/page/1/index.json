@@ -189,49 +189,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-08-deepmind-trains-ai-agents-capable-of-robust-real-time-cultural-transmission-without-human-data.md",
-      "title": "DeepMind Trains AI Agents Capable of Robust Real-time Cultural Transmission Without Human Data",
-      "excerpt": "Learning takes many forms in the human context, with environmental and social interactions high on the list. Much of what we regard as human intelligence derives from our ability to learn efficiently from other humans;",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2022/03/07/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-218/",
-      "originalUrl": "https://syncedreview.com/2022/03/07/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-218/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2022/03/07/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-218/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/03/07/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-218/amp/",
-      "publishedDateTime": "2022-03-07T09:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-08-database-technology-evolves-to-combine-machine-learning-and-data-storage.md",
       "title": "Database technology evolves to combine machine learning and data storage",
       "excerpt": "Google, for instance, offers the Vertex AI Matching Engine, which helps power their AutoML product. But traditional databases companies are also beefing up their connections with AI algorithms.",
@@ -1155,6 +1112,51 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-06-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
+      "title": "AI & ML latest: Google disbands another AI ethics committee",
+      "excerpt": "28/01/2019 Amazon open-sources its SageMaker Neo machine learning optimisation software Amazon has open-sourced SageMaker Neo, its software for training machine learning models and optimising the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
+      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.chitra.live/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg",
+          "width": 370,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-05T16:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computing",
+        "domain": "computing.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI Ethics"
       ]
     }
   ],

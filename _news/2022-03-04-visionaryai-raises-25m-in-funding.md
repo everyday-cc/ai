@@ -23,36 +23,6 @@ images:
     height: 1363
     isCached: true
 
-related:
-  - title: "Maverick Medical AI Closes $5M Seed Funding"
-    excerpt: "Maverick Medical AI, a New York-based commercial-stage company that provides a platform that understands unstructured patient reports and autonomously codes them for reimbursement claims, raised $5M in Seed funding."
-    publishedDateTime: 2022-03-07T18:14:00Z
-    webUrl: "https://www.finsmes.com/2022/03/maverick-medical-ai-closes-5m-seed-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/03/Maverick_Logo.jpeg"
-        width: 400
-        height: 340
-        isCached: true
-  - title: "Document AI Startup Docsumo Raises $3.5M Seed, Eyes Expansion in North American Market"
-    excerpt: "Singapore-headquartered Docsumo, a document AI startup that helps enterprises make automated decisions from customer documents, recently raised $3.5 Million in seed capital. The round was led by Common Ocean with participation from Fifth Wall,"
-    publishedDateTime: 2022-03-03T15:08:00Z
-    webUrl: "https://apnews.com/press-release/Newswire/technology-business-north-america-singapore-2cce5ad7ae9cca8461b11938c02ee2fb"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "IGSBshpBv1mMcY6utXLZSoJBIatjgnNmlrGDJBdkHBP6Yvl8ARPaQ0pSrpUgXY5NmItH1Qn4IIARRZ5gkV+EQlcNc/dntt/xyZR2bhUamSCSihhYGfpcPca6XZX7cWkIq2KDonmtWoqWdDTZPUK6hwFURdqhR57UC2P88q9LexFXTXaUcbj6hHuN0ccxcMYsfUsZP6URyEdTHhgn1O2LMS/u7DISdn394vxbhMSfeiL4XcX2NvnVrNlBhqTp39BZwziZjxX646UgJHvErgSF3HPF67gInpnSiz+5ZC6kF9QLBNQ7UXvTIdxg8jL34fiaXsAWijnhf4W+piAGFIYZFMITAl/U215kVRn4TsrroXY=;fDKpIC3U+xMdGYyp8T1+kw=="
 ---
 

@@ -25,67 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Inworld AI raises $10M to develop AI- powered virtual characters for games"
-    excerpt: "Inworld AI has raised $10 million to help scale its team as it prepares to launch its AI character creation platform later this year."
-    publishedDateTime: 2022-03-03T16:49:00Z
-    webUrl: "https://venturebeat.com/2022/03/03/inworld-ai-raises-10m-to-develop-ai-powered-virtual-characters-for-games/"
-    ampWebUrl: "https://venturebeat.com/2022/03/03/inworld-ai-raises-10m-to-develop-ai-powered-virtual-characters-for-games/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/inworld-ai-raises-10m-to-develop-ai-powered-virtual-characters-for-games/amp/"
+  - title: "Photonics startup Luminous Computing bags $105m"
+    excerpt: "Luminous Computing, a startup using photonics to drive artificial intelligence, has raised venture capital backing, pulling in $105m in Series A funding from a range of investors that includes Microsoft co-founder Bill Gates."
+    publishedDateTime: 2022-03-05T01:27:00Z
+    webUrl: "https://www.theregister.com/2022/03/05/luminous-ai-supercomputer-photonics/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/03/05/luminous-ai-supercomputer-photonics/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/05/luminous-ai-supercomputer-photonics/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
+      name: theregister
+      domain: theregister.com
+    quality: 42
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/Inworld-AI-Character-Screenshot.png?w=1200&strip=all"
-        width: 1199
-        height: 871
-        isCached: true
-  - title: "AI-powered GameFi Mirror World closes $4M seed funding"
-    excerpt: "The round’s funding was for the development and launch of three initial games and incentivizing early community members’ participation."
-    publishedDateTime: 2022-03-04T14:35:00Z
-    webUrl: "https://cointelegraph.com/press-releases/ai-powered-gamefi-mirror-world-closes-4m-seed-funding"
-    ampWebUrl: "https://cointelegraph.com/press-releases/ai-powered-gamefi-mirror-world-closes-4m-seed-funding/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/ai-powered-gamefi-mirror-world-closes-4m-seed-funding/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 59
-    images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82ZjUyYTRkODkxMDM4ZTk2YzJjZTdiYWI0YjZkMWVjZC5qcGc=.jpg"
-        width: 740
-        height: 493
-        isCached: true
-  - title: "Artificial Intelligence, a game-changer"
-    excerpt: "The pandemic steered this transformation and for a sector like real estate which has been traditionally slow to adapt to tech"
-    publishedDateTime: 2022-03-04T15:28:00Z
-    webUrl: "https://www.thehindu.com/real-estate/artificial-intelligence-a-game-changer/article65080252.ece"
-    ampWebUrl: "https://www.thehindu.com/real-estate/artificial-intelligence-a-game-changer/article65080252.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/real-estate/artificial-intelligence-a-game-changer/article65080252.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 57
-    images:
-      - url: "https://www.thehindu.com/incoming/xzhzwc/article65191098.ece/alternates/LANDSCAPE_615/05PP%20technology.jpg"
-        width: 615
-        height: 383
-        isCached: true
-  - title: "Inworld AI raises $10 million to create characters for virtual worlds"
-    excerpt: "Inworld AI has raised $10 million in a funding round led by Bitkraft Ventures. The company's creator platform focuses on building AI characters that \"mimic the cognitive abilities of humans,\" the announcement said."
-    publishedDateTime: 2022-03-04T12:10:00Z
-    webUrl: "https://www.gamesindustry.biz/articles/2022-03-04-inworld-ai-raises-usd10-million-to-create-characters-for-virtual-worlds"
-    type: article
-    provider:
-      name: Games Industry
-      domain: gamesindustry.biz
-    quality: 37
-    images:
-      - url: "https://images.gnwcdn.com/2022/articles/2022-03-04-11-59/Inworld_AI.jpeg"
-        width: 886
-        height: 549
+      - url: "https://regmedia.co.uk/2022/03/04/photonics_shutterstock.jpg"
+        width: 1000
+        height: 750
         isCached: true
 
 secured: "qo9/g3w2qesT8ONAObPwMcwRLkZXV/Q4YaB9ZUP/S4TlqUy0fiCzFz9Flq4LBsEKnx5X09ucnEBwL5GNJFB9s/tLEVFlBuXoQKJBxSuV/5rRksSuAqnrccbHStU59hjDOefobLWPB8F6a/nRCYoMOjimvdkYfYce/RbEwQOixnXC4DYwdeWALUUvAJZSLxQa5FhXUZyK1WUwPIiCYZB4uxwAv7B2hhOivCRU7W2mWFZ6djuXoWNifNc3WHsqz6qAT+P2ZnjwquaM5iDcxvvWADUeUu6k2dZW3cs/vK2aMAEhTpd/LeDUkHujtvzQ0m2/EL1V7gGDo2QEFy4/qefU5hjEe3e5rU/MMYfARHdRPVQ=;FFJCOFdaabomQ8fzC0Vu6w=="

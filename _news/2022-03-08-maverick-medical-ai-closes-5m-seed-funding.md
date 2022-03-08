@@ -24,33 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Visionary.ai Raises $2.5M in Funding"
-    excerpt: "Courtesy of Visionary.ai Visionary.ai, a Jerusalem, Israel-based computer vision startup, raised $2.5M in funding. The round, which brought the total amount raised to date to $7M, was led by Ibex Investors,"
-    publishedDateTime: 2022-03-04T13:28:00Z
-    webUrl: "https://www.finsmes.com/2022/03/visionary-ai-raises-2-5m-in-funding.html"
+  - title: "AI-powered GameFi Mirror World closes $4M seed funding"
+    excerpt: "The round’s funding was for the development and launch of three initial games and incentivizing early community members’ participation."
+    publishedDateTime: 2022-03-04T14:35:00Z
+    webUrl: "https://cointelegraph.com/press-releases/ai-powered-gamefi-mirror-world-closes-4m-seed-funding"
+    ampWebUrl: "https://cointelegraph.com/press-releases/ai-powered-gamefi-mirror-world-closes-4m-seed-funding/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/ai-powered-gamefi-mirror-world-closes-4m-seed-funding/amp"
     type: article
     provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 59
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/03/Visionary_ai.jpg"
-        width: 2048
-        height: 1363
-        isCached: true
-  - title: "Document AI Startup Docsumo Raises $3.5M Seed, Eyes Expansion in North American Market"
-    excerpt: "Singapore-headquartered Docsumo, a document AI startup that helps enterprises make automated decisions from customer documents, recently raised $3.5 Million in seed capital. The round was led by Common Ocean with participation from Fifth Wall,"
-    publishedDateTime: 2022-03-03T15:08:00Z
-    webUrl: "https://apnews.com/press-release/Newswire/technology-business-north-america-singapore-2cce5ad7ae9cca8461b11938c02ee2fb"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82ZjUyYTRkODkxMDM4ZTk2YzJjZTdiYWI0YjZkMWVjZC5qcGc=.jpg"
+        width: 740
+        height: 493
         isCached: true
 
 secured: "nDIqijHcRnMTX1lTOn6g6Dfr+4jnABFLKKT3u1NGXCDkonTVpBwkvivKWLXxNp6k2xxJfc9Q5L4z9HqK/4wLynPPqtvksvcohsiTJr50W9D4rbGitqxasgTazcssVg7plrbEWQxr3MCGj1p83YQ2LjnxpC1vg1sZEr+5h/aZujaUhTKpLJj0O63v6PPrjIpbU8d6w+q7oOTf1VnkUNkH7mfg61it0axGfESflL9mmt1kpGIePkqofvLTNP3/BfTIZmAO1QQ1ZU2W/uzJNzJu5ip4Q4EUIKxaL5xZ9k4kh3Xj5GfoGr1E0oHb9/wkuq8LDu9gFTPEZiXdVm/4wuRyR8Osz6XNr+GMjaEeCg0uvV8=;sa1iUPypWzWHPhLMHDbjtg=="
