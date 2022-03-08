@@ -1,39 +1,20 @@
 ---
 category: news
 title: "Renesas and Fixstars to Establish Automotive SW Platform Lab to Develop Software and Operating Environments for Deep Learning"
-excerpt: "As Part of Collaboration, Companies Launch Cloud-Based Evaluation Environment for R-Car SoCs to Enable Simple Initial Evaluation for Device Selection Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions,"
-publishedDateTime: 2022-03-02T07:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20220302005331/renesas-and-fixstars-to-establish-automotive-sw-platform-lab-to-develop-software-and-operating-environments-for-deep-learning"
-webUrl: "https://www.morningstar.com/news/business-wire/20220302005331/renesas-and-fixstars-to-establish-automotive-sw-platform-lab-to-develop-software-and-operating-environments-for-deep-learning"
+excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, and Fixstars Corporation, a global leader in multi-core CPU/GPU/FPGA acceleration technology, announced their intention to collaborate in the automotive deep learning field."
+publishedDateTime: 2022-03-02T13:09:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-renesas-fixstars-establish-automotive-sw-platform-lab-develop-/2022/03/02/9555532.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-renesas-fixstars-establish-automotive-sw-platform-lab-develop-/2022/03/02/9555532.htm"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Renesas and Fixstars partner for automotive deep learning"
-    excerpt: "Renesas and Fixstars are collaborating on automotive deep learning – establishing a laboratory to support early development and operation of driver-assistance and autonomous driving systems. “Fixstars possesses both software for deep learning and ..."
-    publishedDateTime: 2022-03-02T10:03:00Z
-    webUrl: "https://www.electronicsweekly.com/news/design/renesas-fixstars-partner-automotive-deep-learning-2022-03/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 39
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/02/23115701/EW-230222-front-cover-1.jpg"
-        width: 300
-        height: 397
-        isCached: true
-
-secured: "C7i4Cn7Vy3JlejMuPm0RVCw3mjY+9TB9nRsY35poqbkKrBKSNaniEXYYEDIAaB/u+8nuaGGQrbjjlAzrJYzGGYucY4PkAhGsipHUx0bE6AHde/Y3iVzSMd3m9fr6G65MIefK9+pcS5IPCNXTzqRaCO9VPNmuJ1ao+uC4/K50POC8KrRzMR98ZHbB/FJvMNq2DVqZyeZzQqyXaiEccxAB+uUrfQMeuQMseB7P5mvfjm1mlOfp0C92LjHwV+rIgUC4v5TDYon06wUCgA0fy+CAIy91GRpg3Eq/AsYCPjBvB5cdm9PbnXUzrvpsy9tXGVlEvbi0QkKf4UihYOooHe+QT/T5X6tf5xuPgbDgFfHOyB2HhrfJ7nei/jeboXgCBEeuLDUQp4oQFtDiylC0RwDTQcSpupJU30kTvzAn+js1ihlZ3GbAhyYfV/QMEmDFZgvooTJXXiZby8eNPet5ppQe+Gj92NPXU8oezLp7z2Mwb4v4+QRzh/EJJhz37S5PIekIYcRLP/e65kygMkxy2C6jCw==;7wxt/cZhwaKx8ME0Ts5whg=="
+secured: "b6eJPXhwf9fkKmyU0Hux6WEB/WWdeJsB9zK99GQjzxK7L3kxgKo6abtk8CjDejsuYJf5OAMVHOtJBVI7PYHu8s/DnZIPfRipXnA3ky7H6mNI8RIGZdy0nmT5Dy3LbGTdI1knEuaABvsuEh7QTx+WblKxJgw6UWGQn309QpKAgQqaD8/8G76fAxZqQcx7ubAf7peXgg8O2YdNZViHuhl8XAugkETwJJO879x+jpFF71PJsRA/EmS6s4nhaR4Hd3ePwRMPIZLgPD4hanPPDy3nYQkQ5SCkCOPib4c/GyiRHDwnrNMkSa9eC/MIX6/Omj+R1/n0ngnrwEwDJxBYhqygMly+Huo3jj4gkSd088WGcSdF7kBNRQuceYfdH/BWJ9Yql/XPxe7lXpiQhsIuztw5eFeoUA+6CGwhiqQtyPGWyzLXCn/TNIICBW09bYtINo/Szbvxpitgd9NRYeK47z8OLTFB/riVN27/eXNCU+xSwWNGGcAcu8VTq8/KQgg2WutUSUbjYoeRtQjXpJBavw9dxg==;hL6f0+/pNWPgZZ+pp1lbSw=="
 ---
 

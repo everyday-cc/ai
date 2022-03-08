@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehour.com/news/amp/Clarification-BC-AP-Investigation-T
 cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
 type: article
 quality: 57
-heat: 67
+heat: 68
 published: false
 
 provider:

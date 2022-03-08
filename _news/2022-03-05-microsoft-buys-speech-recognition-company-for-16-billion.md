@@ -56,22 +56,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Uptake Fusion Announces Support to Microsoft Azure Data Explorer"
-    excerpt: "Uptake, a leader in industrial intelligence (SaaS), announced today that Uptake Fusion will support Microsoft Azure Data Explorer."
-    publishedDateTime: 2022-03-03T07:21:00Z
-    webUrl: "https://enterprisetalk.com/news/uptake-fusion-announces-support-to-microsoft-azure-data-explorer/"
-    ampWebUrl: "https://enterprisetalk.com/news/uptake-fusion-announces-support-to-microsoft-azure-data-explorer/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/uptake-fusion-announces-support-to-microsoft-azure-data-explorer/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 74
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/Uptake-Fusion-to-Support-Microsoft-Azure-Data-Explorer-01.jpg"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "uuwnVP3vc00IlGDs/gK56yKQxvoXji/yVho7GjAlvYv+k5g76H/kq/uECMjqQAit3+jYcESxpMWNePqXR5wJ7nija8PavVZVsw7I0Jo+iwoAQw4DR6hcOmWAbIVI8iViV2Ld0jbLN9503bBeMF5MxfYSy52M9KPYir1RqLB8wxcSwXLPXe6gwLq7w/TTBnkfYX9emufhqNYUd7SWcYDeb5FkQXEV+M28dqwq/RTh9yIm2x9f03FA3Mc7+Ls4TyU7j/EwhSjU3YPjR3HpNFxNgsVh8WIWyuxJyLGLgWZPxgksBbhDe4QTTvjrNde3RezGdwC/uURgxu2pZ5Jhc1o3kxDYErxyfmW7tY3gteOwQCPziMQEoXt7u4TwI+Mny8j9DKwOyLwrI3V0mgbUCnQU9aA8vI/PRxRav7Bk8S6Czp14U1x3VjgofqgIz1UnGNibKU+oak9blmnse8pXXUGZVbtt8owUEZa74vf7yRZMxEQF+3+rWRPQZ1XVMYUHR/cfNfPW3OescdcPTB3QyTGnoA==;5q+UB4fH04SynAQxCsg29Q=="
 ---

@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "SHAREHOLDER ALERT: Robbins LLP Informs Shareholders of Class Action Against C3.ai, Inc."
+    excerpt: "Shareholder rights law firm Robbins LLP informs investors that a shareholder filed a class action on behalf of persons and entities that purchased or otherwise acquired C3.ai, Inc. (NYSE: AI): (a) common stock pursuant to the Company's December 9,"
+    publishedDateTime: 2022-03-07T23:31:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-shareholder-alert-robbins-llp-informs-shareholders-class-action-/2022/03/07/9558622.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
   - title: "INVESTOR ACTION ALERT: The Schall Law Firm Encourages Investors in C3.ai, Inc. With Losses of $500,000 to Contact the Firm"
     excerpt: "The Schall Law Firm, a national shareholder rights litigation firm, announces the filing of a class action lawsuit against C3.ai, Inc. (“C3&CloseCurlyDoubleQuote; or “the Company&CloseCurlyDoubleQuote;"
     publishedDateTime: 2022-03-07T21:11:00Z

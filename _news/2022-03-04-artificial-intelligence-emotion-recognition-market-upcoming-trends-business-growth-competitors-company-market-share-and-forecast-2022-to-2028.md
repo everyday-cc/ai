@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Trends 2022 | Growth, Share, Size, Demand and Future Scope 2027"
-    excerpt: "According to IMARC Group’s latest report, titled “Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    publishedDateTime: 2022-03-03T08:42:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-trends-2022-growth-share-size-demand-and-future-scope-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 27
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/2dc6109d10f9c7cb3e53b861d7a9f851d454174b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Genomics Artificial Intelligence Market Research Report 2022 - Global Outlook & Forecasts to 2027 - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence in Genomics Market - Global Outlook & Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. The artificial intelligence in genomics market to grow at a CAGR of 48."
     publishedDateTime: 2022-03-03T17:08:00Z

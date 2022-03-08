@@ -60,6 +60,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
+  - title: "Intel plans IPO for self-driving business"
+    excerpt: "Intel said its Mobileye self-driving car business has filed confidentially for an initial public offering. The chipmaker announced plans for an IPO of Mobileye late last year, signaling its intent to capitalize on an investment in a burgeoning industry."
+    publishedDateTime: 2022-03-07T22:29:00Z
+    webUrl: "https://www.washingtonpost.com/business/economy/intel-plans-ipo-for-self-driving-business/2022/03/07/2b9e7168-9e3e-11ec-a799-bfe94a436bef_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 24
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Intel's self-driving unit Mobileye moves toward possible $50B IPO"
     excerpt: "Intel Corp. on Monday said it filed confidential paperwork for an initial public offering by its self-driving car unit, Mobileye Technologies Ltd. The Santa Clara-based chipmaking giant didn't indicate in Monday's announcement how much capital the IPO ..."
     publishedDateTime: 2022-03-07T15:27:00Z

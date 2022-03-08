@@ -42,22 +42,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Uptake Fusion Announces Support to Microsoft Azure Data Explorer"
-    excerpt: "Uptake, a leader in industrial intelligence (SaaS), announced today that Uptake Fusion will support Microsoft Azure Data Explorer."
-    publishedDateTime: 2022-03-03T07:21:00Z
-    webUrl: "https://enterprisetalk.com/news/uptake-fusion-announces-support-to-microsoft-azure-data-explorer/"
-    ampWebUrl: "https://enterprisetalk.com/news/uptake-fusion-announces-support-to-microsoft-azure-data-explorer/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/uptake-fusion-announces-support-to-microsoft-azure-data-explorer/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 74
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/Uptake-Fusion-to-Support-Microsoft-Azure-Data-Explorer-01.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Microsoft Buys Speech Recognition Company for $16 Billion"
     excerpt: "Microsoft has closed on its approximately $16 billion acquisition of speech recognition company Nuance. The deal, which was announced last year, helps Microsoft Corp. get more ent"
     publishedDateTime: 2022-03-04T16:14:00Z

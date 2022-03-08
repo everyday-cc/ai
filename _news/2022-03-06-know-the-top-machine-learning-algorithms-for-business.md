@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-06T10:20:00Z
 originalUrl: "https://www.linkedin.com/pulse/know-top-machine-learning-algorithms-business-mori-"
 webUrl: "https://www.linkedin.com/pulse/know-top-machine-learning-algorithms-business-mori-"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQG34pmTnGiH8Q/article-cover_image-shrink_720_1280/0/1646561738972?e=1652313600&v=beta&t=pA6NulZ6ihnEqlxHWVFVinWzedoPrGDX_LzWPahbyfM"

@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-03-hybrid-human-machine-framework-s
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-hybrid-human-machine-framework-smarter-ai.amp"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: techxplore.com
@@ -40,6 +40,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "UCI researchers develop hybrid human-machine framework for building smarter AI"
+    excerpt: "UCI researchers develop hybrid human-machine framework for building smarter AI Model uses human and algorithmic predictions and confidence scores to boost accuracy “Humans and machine algorithms have complementary strengths and weaknesses. Each uses ..."
+    publishedDateTime: 2022-03-07T23:08:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/945501"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 13
 
 secured: "wcUMjwXdKU+ifApg9FI5WbZg1kS2a4XteS4z/ik9odcJjNQ4nyr8IEtyV+jTXhdCc/An0SOmb+ojSysyp/Z4t5Mg1uiJPqSmp8VFqY2I1WVgcDiZAWn8LB9Cge3KWDxU3TYHze4sKkcgMp79SMa9T4WRjryHyR8JQX0Nw78a//W6kZmRCK+3Gn03qDtgwjUlyoW8PJiwMALqsr8jVT3kILUKGbt24SuLHrYTEmbvJOT7PZZ8fZKFxLpiSeauJQ/OYS/EK1vn1CLKVa0ggFes2YDp8OKpo7exEUfb5Gukgq0QuKsPouvcyIYfyEjMRR9wqHwtg9o+wlwbJJIDT5TWtCYY4mX6UjLePI1kDe8IZD4=;e62glKwy+QbUpp8HBUieRw=="
 ---

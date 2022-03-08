@@ -33,6 +33,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "SHAREHOLDER ALERT: Robbins LLP Informs Shareholders of Class Action Against C3.ai, Inc."
+    excerpt: "Shareholder rights law firm Robbins LLP informs investors that a shareholder filed a class action on behalf of persons and entities that purchased or otherwise acquired C3.ai, Inc. (NYSE: AI): (a) common stock pursuant to the Company's December 9,"
+    publishedDateTime: 2022-03-07T23:31:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-shareholder-alert-robbins-llp-informs-shareholders-class-action-/2022/03/07/9558622.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "MYDnpOYAao/8ZlmuNiFQ+1+HSAHRAsH7fSHexYSpnjYK/UkYwOfThmFQNyxLzJhz7e+fHrgj6g28pVsDcQe1xxy4sqGgNMtYS8auXutNduiW3/rGEB3rWOfb5MVGSiRx7viVxIUY6nDAVGXCasUci6IVVNnk99iirfjGEHK7Y7JC9vd3XO6egysljxjwibeIX2YSQcI68+DUZpD2jYBpiJ94dRI4yZ9SQERnQk6gLUvBmHLta1XbYskOZ9eNq38P2DGJ6hoEPk6poq9Tb9fnKr4VYhh7beCc0MgD7RBB4bFgtaNq4U9+I02u5hH2J7qv/JD4ZSlA/pP4glN+ygjcAfrK8Le8gtQPaE4KFUmjDUg=;MOSZApvLpVRnMmCPd3rkLQ=="
 ---

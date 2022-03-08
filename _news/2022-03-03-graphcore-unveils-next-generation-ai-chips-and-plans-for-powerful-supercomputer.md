@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/03/graphcore-unveils-next-generation
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/amp/"
 type: article
 quality: 106
-heat: 147
+heat: 146
 published: true
 
 provider:

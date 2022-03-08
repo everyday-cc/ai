@@ -42,6 +42,15 @@ related:
         width: 1920
         height: 1633
         isCached: true
+  - title: "UCI researchers develop hybrid human-machine framework for building smarter AI"
+    excerpt: "UCI researchers develop hybrid human-machine framework for building smarter AI Model uses human and algorithmic predictions and confidence scores to boost accuracy “Humans and machine algorithms have complementary strengths and weaknesses. Each uses ..."
+    publishedDateTime: 2022-03-07T23:08:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/945501"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 13
 
 secured: "QJ71VglLyowUZnmC8FDSvp/Iybj431AfMq4KJ1cyCgRQtB76i/hS23F8N5WOhM5hUYMCXqNYmjGM/84gTRBSt5yvmD5fbzIRpSOkR1NIAvIR2j2632la+h55IE42vxLq6fkRZgZM4T66ASLNs44tx/mliu/4JuWDEkvGR7hDCo9pnXzWVvMm4m+9S3rVcp130o7j/B60m14bFtB6OCZVpdEHfcdZpm6p5DTTRmZEDafFJVv2TUXPqsgD5geoTyDR6w+/IyOqSbc6N3C/Cz7pRKTHzT09YYUwjsDB8xI9urr3RT0koPoEeSZYztICbqFa76fFbfBjGH2XL7Mq/0m5pxR7NaqjsBMRUozOjLzj1ZA=;lKWHUjI2EKdPy/Itbe1ZDA=="
 ---

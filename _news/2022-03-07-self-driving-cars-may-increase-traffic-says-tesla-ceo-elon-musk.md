@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/mobility/28399/self-driving-cars-may-increas
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/mobility/28399/self-driving-cars-may-increase-traffic-says-tesla-ceo-elon-musk?amp=1"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2022/03/07/600x338/TESLA-SOLARCITY-TRIAL-0_1644310317180_1646623347404.JPG"
         width: 600
         height: 338
-        isCached: true
-  - title: "Tesla and the ethics of self-driving cars"
-    excerpt: "Self-driving technology has come a long way in recent years, but it remains far from perfect. And that's partially because of decisions made -- not by the cars -- but by programmers."
-    publishedDateTime: 2022-03-03T14:00:00Z
-    webUrl: "https://www.kuow.org/stories/tesla-and-the-ethics-of-self-driving-cars"
-    type: article
-    provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 56
-    images:
-      - url: "https://kuow-prod.imgix.net/store/6023b3dacd9aac14703ea05a20f4c3e4.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-        width: 942
-        height: 628
         isCached: true
 
 secured: "y6MeMm6uGsZbXDiiG1dSe0pvO+qVstH8SLV8ELv9Y5sXAy9GK2jpdyxUwJnxp7l2Af5jV8cAYjf4Qwnw9iEdLLscJ1dTfC1vSVf3tnAZHSViyeFKsJY/uQhD/QHccyD8vH7YPVmn8lfaHec/+52lNQbZpV+TIY5gaqgE8njU4ypRSEqW7jxSMNAN+vclJNzxwQepuS8WLY2fuTEnQiqSyKIa/qHMyBlXslpOJiKU/QXZZ2Z52h7qmVhonpZV5uC2IxyzTH8lg9987wHCai5AZ71pQl4ia+5Eqev6TA1hsVMSsCRtI0PvgEcrEujlnUsKfW1BsjQxdjmxoFQ6hXhdjHQxOvabV87E5hjEKdu3vVE=;jbz6tXg1pAnRguM5uqzTGQ=="

@@ -41,6 +41,22 @@ related:
         width: 640
         height: 400
         isCached: true
+  - title: "With Excelero Storage, Nvidia Owns A Nearly Complete HPC/AI Stack"
+    excerpt: "In case it is not immediately obvious, over the past decade Nvidia has been transforming itself from a component supplier into a complete platform"
+    publishedDateTime: 2022-03-07T23:31:00Z
+    webUrl: "https://www.nextplatform.com/2022/03/07/with-excelero-storage-nvidia-now-owns-a-nearly-complete-hpc-ai-stack/"
+    ampWebUrl: "https://www.nextplatform.com/2022/03/07/with-excelero-storage-nvidia-now-owns-a-nearly-complete-hpc-ai-stack/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/07/with-excelero-storage-nvidia-now-owns-a-nearly-complete-hpc-ai-stack/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 57
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/excelero-nvmesh-logo.jpg"
+        width: 684
+        height: 492
+        isCached: true
   - title: "Nvidia Acquires Israeli Startup Excelero For Its Block Storage Expertise"
     excerpt: "The acquisition of Excelero will enrich Nvidia Israel’s R&D expertise with a new software-defined storage team."
     publishedDateTime: 2022-03-07T14:20:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.protocol.com/bulletins/microsoft-completes-nuance-acqu
 webUrl: "https://www.windowscentral.com/microsoft-completes-197-billion-acquisition-ai-giant-nuance"
 type: article
 quality: 154
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/01/27/microsoft.jpg?itok=wzEj5a81"
         width: 750
         height: 393
-        isCached: true
-  - title: "Uptake Fusion Announces Support to Microsoft Azure Data Explorer"
-    excerpt: "Uptake, a leader in industrial intelligence (SaaS), announced today that Uptake Fusion will support Microsoft Azure Data Explorer."
-    publishedDateTime: 2022-03-03T07:21:00Z
-    webUrl: "https://enterprisetalk.com/news/uptake-fusion-announces-support-to-microsoft-azure-data-explorer/"
-    ampWebUrl: "https://enterprisetalk.com/news/uptake-fusion-announces-support-to-microsoft-azure-data-explorer/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/uptake-fusion-announces-support-to-microsoft-azure-data-explorer/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 74
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/Uptake-Fusion-to-Support-Microsoft-Azure-Data-Explorer-01.jpg"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Microsoft Buys Speech Recognition Company for $16 Billion"
     excerpt: "Microsoft has closed on its approximately $16 billion acquisition of speech recognition company Nuance. The deal, which was announced last year, helps Microsoft Corp. get more ent"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/us-chip-giant-nvidia-acquires-israeli-
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/us-chip-giant-nvidia-acquires-israeli-data-storage-company-excelero/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "With Excelero Storage, Nvidia Owns A Nearly Complete HPC/AI Stack"
+    excerpt: "In case it is not immediately obvious, over the past decade Nvidia has been transforming itself from a component supplier into a complete platform"
+    publishedDateTime: 2022-03-07T23:31:00Z
+    webUrl: "https://www.nextplatform.com/2022/03/07/with-excelero-storage-nvidia-now-owns-a-nearly-complete-hpc-ai-stack/"
+    ampWebUrl: "https://www.nextplatform.com/2022/03/07/with-excelero-storage-nvidia-now-owns-a-nearly-complete-hpc-ai-stack/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/07/with-excelero-storage-nvidia-now-owns-a-nearly-complete-hpc-ai-stack/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 57
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/excelero-nvmesh-logo.jpg"
+        width: 684
+        height: 492
+        isCached: true
   - title: "Nvidia buys Excelero to speed GPU cluster block data access"
     excerpt: "GPU giant Nvidia is buying NVMe block data access software specialist Excelero for an undisclosed amount. This acquisition first reared its head as a possibility last month. Now the two firms have agreed a deal in which Excelero’s IP and most of its staff – including co-founders CEO Yaniv Romem,"
     publishedDateTime: 2022-03-07T15:36:00Z
