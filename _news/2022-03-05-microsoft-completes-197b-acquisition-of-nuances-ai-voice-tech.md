@@ -7,7 +7,7 @@ originalUrl: "https://www.protocol.com/bulletins/microsoft-completes-nuance-acqu
 webUrl: "https://www.windowscentral.com/microsoft-completes-197-billion-acquisition-ai-giant-nuance"
 type: article
 quality: 154
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/03/16x9/AP22063541785508.62223ac030364.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200
         height: 673
+        isCached: true
+  - title: "Microsoft announces Virtual Data & AI Conference, Microsoft DataNext: Putting AI Innovation into Action"
+    excerpt: "Microsoft, in association with Analytics India Magazine, has announced a first-of-its-kind virtual summit, ‘DataNext: Putting AI innovation into action’"
+    publishedDateTime: 2022-03-08T11:36:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-announces-virtual-data-ai-conference-microsoft-datanext-putting-ai-innovation-into-action/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 38
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/webpc-passthru.php?src=https://analyticsindiamag.com/wp-content/uploads/2022/03/Microsoft-DataNext-Article-Banner_2.jpg&nocache=1"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "GPup1uWYbv4otbvYLZ5Gl1XI9U95jiJFTHsn+9LxJ8lpqLLMXrRgYVpgZE0QfuX/MV7Jqvv5vgBjN5iSQLWwJnkb4u8QcRAZNo+CGe9p+s6CVS53QI0XzYwqjF80wQoY8vEDL21+oFf69i9tRmi2c2zDeArPI7wHCycDQsy0H9xrvSSEkZXAYkQ7HELpcHoAnpurfL81OLV7aOA2rGeRDe50mM+4XFjAFbnwn5tD7uxZEpBiW8vZa251FP8BcFZEVKw1f0eJQ3a9eRjVn+z9zUPWzfrU1RlweFY5yigUbFzMdNkBaisr+f95EDmlaR1yiMmNrWWYmlY57ISEE6tvKopDiVGajDcf/CU0KK6O7J//JXrVrn2KGNyOg7QSZ+RzEDUx3OzQf4uKa0GI0CNbHsfswF02XFXmi7qxgolRcB+iqfRqHOEyOOtpNnQ9BJ9XepK2R/Ta+huP/a7KGBeZKhWx5EjI3x1QUxDtI8C9GjIcjCRvx21Ol8rTMhI49RJIYITX86+aOY78qokuPsxj6yQegjy5V++MuA+USeroaMQ=;7Zhq6y+2hCLcRAQTLinyOw=="

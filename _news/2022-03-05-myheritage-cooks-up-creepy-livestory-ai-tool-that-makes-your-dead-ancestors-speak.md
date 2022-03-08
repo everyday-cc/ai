@@ -9,8 +9,8 @@ ampWebUrl: "https://www.androidpolice.com/myheritage-livestory-ai-dead-ancestors
 cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/myheritage-livestory-ai-dead-ancestors/amp/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Android Police
@@ -41,20 +41,6 @@ related:
       - url: "https://beebom.com/wp-content/uploads/2022/03/Myheritage-abraham-lincoln-feat..jpg?w=750&quality=75"
         width: 750
         height: 500
-        isCached: true
-  - title: "MyHeritage Releases LiveStory, A Groundbreaking Feature That Automatically Creates Video Biographies, Using D-ID Pioneered AI Technology"
-    excerpt: "MyHeritage, the leading global service for discovering your past and empowering your future, and Creative Reality™ startup D-ID, announced today the release of LiveStory, a groundbreaking new feature that creates captivating video biographies."
-    publishedDateTime: 2022-03-03T21:36:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-middle-east-israel-tel-aviv-eaa633ff2d5545b99f7cab42f677fb21"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "8VPmoBrA6IUoK8JP+6ykt6AbPRa5eXGDIF+iqxxnSMbwxz2qQoFBHMWLVXBLDqsATuQVxiRX4X4Pd7Ugi+z+y683gZ4drmZQaqF6/5fb4l268wmOt37WtSueM/KBqOz7a02DSeP7mPaP8Nh0Bamsvvu0DDr4b9cBW1CwApK0v1K1FKdUv3YXA8V3sjk6nOT/pyv75GaIzWq/PkUMPknxw8tBCkx340MvAY4AZ410fi9n+bAxlaRIB2gfVohaAmrCrvPjTrfpVgahJ+G9fJl4sLLcokmIEDbS39C2McDC3yvKCH1ws09BYuZL+EuawNZ5Rr9SYyarNntnEHuznSoKirTt0RDfxYISVviq13Ua5mQ=;49U1W/FSoBk+s1aWW4dZyw=="

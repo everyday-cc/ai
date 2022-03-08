@@ -7,8 +7,8 @@ originalUrl: "https://www.eurekalert.org/news-releases/945558"
 webUrl: "https://www.eurekalert.org/news-releases/945558"
 type: article
 quality: 70
-heat: 80
-published: true
+heat: -1
+published: false
 
 provider:
   name: EurekAlert!
@@ -26,6 +26,45 @@ images:
     isCached: true
 
 related:
+  - title: "Harnessing AI and Robotics to treat spinal cord injuries"
+    excerpt: "By employing artificial intelligence (AI) and robotics to formulate therapeutic proteins, a team has successfully stabilized an enzyme able to degrade scar tissue resulting from spinal cord injuries and promote tissue regeneration."
+    publishedDateTime: 2022-03-07T19:25:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/03/220307113045.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 181
+  - title: "Harnessing AI and robotics to treat spinal cord injuries"
+    excerpt: "A study published in Advanced Healthcare Materials, details one team's ground-breaking stabilization of the enzyme Chondroitinase ABC, (ChABC) offering new hope for patients coping with spinal cord injuries."
+    publishedDateTime: 2022-03-07T15:55:00Z
+    webUrl: "https://techxplore.com/news/2022-03-harnessing-ai-robotics-spinal-cord.html"
+    ampWebUrl: "https://techxplore.com/news/2022-03-harnessing-ai-robotics-spinal-cord.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-harnessing-ai-robotics-spinal-cord.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 91
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/rutgers-researchers-ha.jpg"
+        width: 2880
+        height: 4073
+        isCached: true
+  - title: "Evergreen Adding AI-Enabled Robotics to 3rd PET Recycling Plant"
+    excerpt: "Evergreen, one of North America’s three largest producers of food-grade recycled polyethylene terephthalate (rPET), has just announced that it will be installing artificial intelligence-enabled bottle sorting robotics at its Albany, NY, plastics ..."
+    publishedDateTime: 2022-03-07T20:12:00Z
+    webUrl: "https://www.plasticstoday.com/mechanical-recycling/evergreen-adding-ai-enabled-robotics-3rd-pet-recycling-plant"
+    type: article
+    provider:
+      name: Plastics Today
+      domain: plasticstoday.com
+    quality: 69
+    images:
+      - url: "https://www.plasticstoday.com/sites/plasticstoday.com/files/PET-plastic-bottles-Recycle-Man-Adobe-Ftr.jpg"
+        width: 770
+        height: 400
+        isCached: true
   - title: "Study offers new hope for patients coping with spinal cord injuries"
     excerpt: "By employing artificial intelligence (AI) and robotics to formulate therapeutic proteins, a team led by Rutgers researchers has successfully stabilized an enzyme able to degrade scar tissue resulting from spinal cord injuries and promote tissue regeneration."
     publishedDateTime: 2022-03-07T18:40:00Z
@@ -41,6 +80,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Growth Opportunities in API, Analytics, Cloud, O-RAN, and Artificial Intelligence 2021 - AI-Powered Video Security Platform to Offer Human-Like Percep"
+    excerpt: "The \"Growth Opportunities in API, Analytics, Cloud, O-RAN, and Artificial Intelligence\" report has been added to ResearchAndMarkets.com's offering. This report provides a snapshot of the emerging ICT led innovations in API,"
+    publishedDateTime: 2022-03-07T15:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=627325"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 29
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "T+J8mlriwfnfUoNYNw7IGj8IVnuvU6sGZzytcvN1llShNxjiWb38sQBtexYSrblhowyFUzlMipT0IdI8PlZgfKq8DknJ60656RPsfgqQIoRF2zgXJ6ECHtxzf9MuB/8LjmanWgGyfr3UIk7FCRE0zUtifHdDNCMt02eq40hMgfIkJtMyH2a1Jr5MlbpyVKdqX744W02Q2wEA5oNdKrQsvq7+TZFofqCOzq1nWPLFTq17D1k/eLuhZO85l8sMFDRJoSneSjEd6RabWPwn+niDYPgxzJBflFc/wttKzgDNpEmIEoExcuYtyb+UyaqKRpTRJJYIAwti4ltuFetdBnGEXaBgHxlw+0sBmkDuJCaQrrU=;pgtp1E59bsBAkZmFkKTcGg=="

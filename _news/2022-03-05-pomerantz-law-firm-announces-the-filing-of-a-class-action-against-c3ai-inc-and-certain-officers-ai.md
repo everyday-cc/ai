@@ -33,15 +33,6 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 9
-  - title: "INVESTOR ACTION ALERT: The Schall Law Firm Encourages Investors in C3.ai, Inc. With Losses of $500,000 to Contact the Firm"
-    excerpt: "The Schall Law Firm, a national shareholder rights litigation firm, announces the filing of a class action lawsuit against C3.ai, Inc. (“C3&CloseCurlyDoubleQuote; or “the Company&CloseCurlyDoubleQuote;"
-    publishedDateTime: 2022-03-07T21:11:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/03/07/investor-action-alert-the-schall-law-firm-encourages-investors-in-c3-ai-inc-with"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
 
 secured: "hBPNsdt9+WXj1EKeOkAaZMoeHWM0tHHymChBt5XiUfOy2LXlzNu0Tduw1DsujbYpxhOjMYsd7cs3tqLNu5OiXhgoQ2JkyDABNqm6dK0fhZm/Six4njiDipgWEYpAf70I7Y2fxXFjR3o3pOiRNuiolfhtBMUFcI98G4QngAVKhSfUWxmUMtmGtRnd4+kHUyWdqSj0QYTeHS8K9NHWMo61G4MaE6DPvaLnfn+FzIjfaoKejXWJA9icJenxs6eYmpBmtEAy1+AyjAwDnkt/kAHpyX1jUVsIavQZi8qPKjYUJUUdCJpytYNiQsYptVrMtXG8nL8v7KjtiXl8FUM054oLo0MVMa68tySPypx/NV8JXi8=;FfvUpe/NDUAd7whR19rCyA=="
 ---

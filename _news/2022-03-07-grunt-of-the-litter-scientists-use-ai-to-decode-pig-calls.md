@@ -8,9 +8,9 @@ webUrl: "https://www.theguardian.com/science/2022/mar/07/scientists-use-ai-to-de
 ampWebUrl: "https://amp.theguardian.com/science/2022/mar/07/scientists-use-ai-to-decode-pig-calls"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2022/mar/07/scientists-use-ai-to-decode-pig-calls"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 157
+heat: 157
+published: true
 
 provider:
   name: The Guardian
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "7tA6jRg/NO8Lj9Tmw/mnjDcQXrJuRfxfe5xKhhSbfQdXpHJuCfzoNtN9AVU7OFwBz/TfICtHqMw5S3CUwpbGSQqxNELU+hOEpBpfd9bZ8uiSIrdxDNnteVTNpdTQPEDRWadsLJpUL3RDmW31dpvAHDaY/g0JoeRdztI3agSY6lUQL3yjfhc2NGWfMBt3oOg6ItfrIOCHmj2vxVP8zgJHaCwpsGEpepuqJnqVlCUOqJMVd54we4NK1qPqkJ2sSN6Q4XbdF/YS8a3Ibq/0B0j69ajStwikTnxe2WhKk+fX3YFOhAvvTwO+fslIFIBDkyZbEQJZiRv8rL+rVZebF16a/84IOVaR5i3qUE8zKH2a0o8RLNw2bQv/zGqs2ZxoXvZrbsGY4c0X5FtHVhEupYSNdLWXKm6mqMbAN/EhMnjuFd53I45ZpU4oBogXf2nxPeeoUv+bx//YpFVpx9mIncPU9m9siOuLr51nWoFQQAl5/ch+k7rQjs6DnghGsbK2+2+SioqLacnAZto69pHemqwqnA==;rnsTgRJoWMoou9dfpAUvMg=="
+secured: "bx4BwyTmiegXCIF1bbyv/18z9FpUdlcYml8/SaPJ37lFD1GNimOyQHAWAFHIzhZ59K5eqj/JCoLyk2WcuW5IeULi1332Na7CPlVz2cx8JPc0MNolVmhguYyCuCHIa60bgNx2vXAXUyant1Z5/UxeNuWtnp9E8lXKje1j8VBd1OPk1kmtJD/WFlb6aNTl8Txnl648htIHaaGkTQeZ/z5VhDAOgPVlv2ptvbnwKMhOFhif9IWbjeRC4BJet0U6/8JTaX2/yM+B4AIsKi420Qk6sid1smojvbHxSjnFLwTbOcaBgaMC5/J4EkOeFDTtViewl/LR/Bn+cvStSBsmm4Un8842z06dSEuV45ZMU3tS/0qwr19SerylJdWH5y0KK1IZftJMx4AwWh3BmNOVH78+jHMFyNhtZAVbCJuR0goHNgowiHp9PvdFSbG1a0E+ZVX7d5K2+ZixCC1fhd1NI0PyHvjibdkL6RrN0AYTjZzx5UViU9zWHYmb8Y46rDp979h6oUhG1EVvuxWpe4G62arcJrd/QtpwCw5AVxiCKurpcY0=;xIjgka71ieKwlLPAA0zg8A=="
 ---
 

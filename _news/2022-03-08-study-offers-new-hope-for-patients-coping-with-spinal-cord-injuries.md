@@ -27,6 +27,31 @@ images:
     isCached: true
 
 related:
+  - title: "Harnessing AI and Robotics to treat spinal cord injuries"
+    excerpt: "By employing artificial intelligence (AI) and robotics to formulate therapeutic proteins, a team has successfully stabilized an enzyme able to degrade scar tissue resulting from spinal cord injuries and promote tissue regeneration."
+    publishedDateTime: 2022-03-07T19:25:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/03/220307113045.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 181
+  - title: "Harnessing AI and robotics to treat spinal cord injuries"
+    excerpt: "A study published in Advanced Healthcare Materials, details one team's ground-breaking stabilization of the enzyme Chondroitinase ABC, (ChABC) offering new hope for patients coping with spinal cord injuries."
+    publishedDateTime: 2022-03-07T15:55:00Z
+    webUrl: "https://techxplore.com/news/2022-03-harnessing-ai-robotics-spinal-cord.html"
+    ampWebUrl: "https://techxplore.com/news/2022-03-harnessing-ai-robotics-spinal-cord.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-harnessing-ai-robotics-spinal-cord.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 91
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/rutgers-researchers-ha.jpg"
+        width: 2880
+        height: 4073
+        isCached: true
   - title: "Rutgers researchers harness AI and Robotics to treat spinal cord injuries"
     excerpt: "“This study represents one of the first times artificial intelligence and robotics have been used to ... down after a mountain biking accident,” Gormley recalled. “The therapy we are developing may someday help people such as my friend lessen the ..."
     publishedDateTime: 2022-03-07T14:57:00Z
@@ -40,6 +65,34 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/92fe7d12-91e3-47ad-a1b6-79611caf4268/Rendition/low-res/Content/Public"
         width: 495
         height: 700
+        isCached: true
+  - title: "Evergreen Adding AI-Enabled Robotics to 3rd PET Recycling Plant"
+    excerpt: "Evergreen, one of North America’s three largest producers of food-grade recycled polyethylene terephthalate (rPET), has just announced that it will be installing artificial intelligence-enabled bottle sorting robotics at its Albany, NY, plastics ..."
+    publishedDateTime: 2022-03-07T20:12:00Z
+    webUrl: "https://www.plasticstoday.com/mechanical-recycling/evergreen-adding-ai-enabled-robotics-3rd-pet-recycling-plant"
+    type: article
+    provider:
+      name: Plastics Today
+      domain: plasticstoday.com
+    quality: 69
+    images:
+      - url: "https://www.plasticstoday.com/sites/plasticstoday.com/files/PET-plastic-bottles-Recycle-Man-Adobe-Ftr.jpg"
+        width: 770
+        height: 400
+        isCached: true
+  - title: "Growth Opportunities in API, Analytics, Cloud, O-RAN, and Artificial Intelligence 2021 - AI-Powered Video Security Platform to Offer Human-Like Percep"
+    excerpt: "The \"Growth Opportunities in API, Analytics, Cloud, O-RAN, and Artificial Intelligence\" report has been added to ResearchAndMarkets.com's offering. This report provides a snapshot of the emerging ICT led innovations in API,"
+    publishedDateTime: 2022-03-07T15:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=627325"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 29
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "E7LNDvsi3QJ0xDLJ3U5idRBYvbM382z47ulkgd/FAmriAG007u9VogCJcFPTVYuuCcuHEeWF+xf9X23qBDGGZf6bY2xsI8ESbVqWufM9IZYIn3n2ZWJk+0owdcn4cjXnte449Mc/wSIgMRvOR1blpCUKrW6/UgOZN1NKAB4PAqgbqF8cIbW/ZW4P3/jQD/RQWlhOdxhzdfgRb1Sx+V/0hr/uH5BoLmfTdGuMBC9bTW/JUrBkhZ047KXrlSrK+ViBTJepA2GwcbZEnJez4qeFabrBnSU1AC5LkKvRshDEfQu3Tl2PhbNfvnp0GveoWpixwdzUJ6T9PE22Z1fBsuRluKsTQwq0YWdvJJtkICzOGBw=;CFrNqDsxVQT6JOGjnXJ3FA=="

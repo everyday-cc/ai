@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-computer-maker-graphcore-a
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-computer-maker-graphcore-announces-new-3d-chip/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1024
     height: 577
     isCached: true
-
-related:
-  - title: "GraphCore Goes 3D With AI Chips, Architects 10 Exaflops Ultra-Intelligent Machine"
-    excerpt: "The 3D stacking of chips has been the subject of much speculation and innovation in the past decade, and we will be the first to admit that we have been"
-    publishedDateTime: 2022-03-03T22:19:00Z
-    webUrl: "https://www.nextplatform.com/2022/03/03/graphcore-goes-3d-with-ai-chips-architects-10-exaflops-ultra-intelligent-machine/"
-    ampWebUrl: "https://www.nextplatform.com/2022/03/03/graphcore-goes-3d-with-ai-chips-architects-10-exaflops-ultra-intelligent-machine/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/03/graphcore-goes-3d-with-ai-chips-architects-10-exaflops-ultra-intelligent-machine/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 69
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/graphcore-chip-shot-logo.jpg"
-        width: 1505
-        height: 873
-        isCached: true
 
 secured: "MRtXtt/BqrIMOROg8riswi52TyY9LC8St/eiNAc+dHt6AkiF9c1iWHC7vX2V24hfdCL0PnhV/C2baCz1fakdPE0Dhccodgf+g65JPlmaS/zaKJUbEN0jtye9voyrwo9lQqFq4Z0z2ocwvX9X8qe+F7vBOFScU12xzz0ast80t43EWuNy8rKFmJW7o3UmVrd7y96a8T7PR3269uNNu6bym2tpirDk5nBF5pN5CbVlQPi3XrPGs7Xt+jrcb5RAzQhfEpUUDaZLqLfuOCAMXOfMBtVlob4EBUeFDHk1bdUS5fAfuf/geyVPJPZsLTn9VM5S4K95/mvllgJqapJiIZrdOuN3V6uV8HulqquJsPbIYGLJ9TBab37stQKvPvStaqcPjFPe+I25MmWIxg83CJbXlUrJTwvQ9huJotwQCa2PJ0uvt/S6NPxGFuMF/pAY1+jBWeKuwsSfKYd+jdKbiUn/UZOgMdQ5a/nWwayPEsWKuQiFUebFNYn+LzT1B6kLCJPmBStbDRmJBDMesUOlIXsldQ==;IB5DnLU6iujFBpNUxfcWww=="
 ---

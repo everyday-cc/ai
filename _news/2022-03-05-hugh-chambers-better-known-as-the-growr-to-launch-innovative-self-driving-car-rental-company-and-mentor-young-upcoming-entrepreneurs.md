@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dre Ennis to launch innovative self driving car rental company"
-    excerpt: "Sandre Ennis, the esteemed Jamaican influencer and entrepreneur, more popularly known as Dre Ennis is on the verge of shaping the car rental industry in his own exciting vision. The 28 year old social media protagonist who has been featured in mainstream media outlets such as Fox News,"
-    publishedDateTime: 2022-03-03T22:45:00Z
-    webUrl: "https://www.digitaljournal.com/pr/dre-ennis-to-launch-innovative-self-driving-car-rental-company"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.abnewswire.com/uploads/2981e964cb17dad4d29522674cf094ea.jpg"
-        width: 384
-        height: 480
-        isCached: true
   - title: "Hugh Chambers, Better Known as The Growr, to Launch Innovative Self-Driving Car Rental Company and Mentor Upcoming Entrepreneurs."
     excerpt: "The phenomenal businessman born in St. Elizabeth and grew up in Christiana, Manchester, Jamaica is a computer programming and web development expert. The"
     publishedDateTime: 2022-03-04T22:15:00Z

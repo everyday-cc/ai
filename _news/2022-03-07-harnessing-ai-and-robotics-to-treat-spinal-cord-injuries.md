@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Predicting the future of AI and analytics in endpoint security"
-    excerpt: "Endpoint security is accelerating thanks to the aggressive use of AI and ML by bad actors intent on wreaking havoc for financial gain."
-    publishedDateTime: 2022-03-03T21:02:00Z
-    webUrl: "https://venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-analytics-in-endpoint-security/"
-    ampWebUrl: "https://venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-analytics-in-endpoint-security/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/predicting-the-future-of-ai-and-analytics-in-endpoint-security/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/8-Predicting-The-Future-AI-and-Analytics-In-Endpoint-Security.jpg?w=1200&strip=all"
-        width: 1200
-        height: 598
-        isCached: true
   - title: "Harnessing AI and Robotics to treat spinal cord injuries"
     excerpt: "By employing artificial intelligence (AI) and robotics to formulate therapeutic proteins, a team has successfully stabilized an enzyme able to degrade scar tissue resulting from spinal cord injuries and promote tissue regeneration."
     publishedDateTime: 2022-03-07T19:25:00Z
@@ -52,7 +36,51 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 81
+    quality: 181
+  - title: "Rutgers researchers harness AI and Robotics to treat spinal cord injuries"
+    excerpt: "“This study represents one of the first times artificial intelligence and robotics have been used to ... down after a mountain biking accident,” Gormley recalled. “The therapy we are developing may someday help people such as my friend lessen the ..."
+    publishedDateTime: 2022-03-07T14:57:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/945558"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 70
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/92fe7d12-91e3-47ad-a1b6-79611caf4268/Rendition/low-res/Content/Public"
+        width: 495
+        height: 700
+        isCached: true
+  - title: "Evergreen Adding AI-Enabled Robotics to 3rd PET Recycling Plant"
+    excerpt: "Evergreen, one of North America’s three largest producers of food-grade recycled polyethylene terephthalate (rPET), has just announced that it will be installing artificial intelligence-enabled bottle sorting robotics at its Albany, NY, plastics ..."
+    publishedDateTime: 2022-03-07T20:12:00Z
+    webUrl: "https://www.plasticstoday.com/mechanical-recycling/evergreen-adding-ai-enabled-robotics-3rd-pet-recycling-plant"
+    type: article
+    provider:
+      name: Plastics Today
+      domain: plasticstoday.com
+    quality: 69
+    images:
+      - url: "https://www.plasticstoday.com/sites/plasticstoday.com/files/PET-plastic-bottles-Recycle-Man-Adobe-Ftr.jpg"
+        width: 770
+        height: 400
+        isCached: true
+  - title: "Study offers new hope for patients coping with spinal cord injuries"
+    excerpt: "By employing artificial intelligence (AI) and robotics to formulate therapeutic proteins, a team led by Rutgers researchers has successfully stabilized an enzyme able to degrade scar tissue resulting from spinal cord injuries and promote tissue regeneration."
+    publishedDateTime: 2022-03-07T18:40:00Z
+    webUrl: "https://www.news-medical.net/news/20220307/Study-offers-new-hope-for-patients-coping-with-spinal-cord-injuries.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220307/Study-offers-new-hope-for-patients-coping-with-spinal-cord-injuries.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220307/Study-offers-new-hope-for-patients-coping-with-spinal-cord-injuries.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 44
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Growth Opportunities in API, Analytics, Cloud, O-RAN, and Artificial Intelligence 2021 - AI-Powered Video Security Platform to Offer Human-Like Percep"
     excerpt: "The \"Growth Opportunities in API, Analytics, Cloud, O-RAN, and Artificial Intelligence\" report has been added to ResearchAndMarkets.com's offering. This report provides a snapshot of the emerging ICT led innovations in API,"
     publishedDateTime: 2022-03-07T15:30:00Z
@@ -67,57 +95,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Major Changes for SQL Server Analytics Products"
-    excerpt: "Microsoft has announced at the end of February 2022 that significant changes are in store across its SQL Server analytics products. To set the context, the broader enterprise IT marketplace was still primarily on-prem when Microsoft first introduced its cloud analytics products in 2017."
-    publishedDateTime: 2022-03-07T22:51:00Z
-    webUrl: "https://www.dbta.com/Columns/SQL-Server-Drill-Down/Major-Changes-for-SQL-Server-Analytics-Products-151761.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 24
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Vijay Mehra EQT Discusses How Analytics and AI Contribute to Finding Undervalued Real Estate Investments"
-    excerpt: "Its no secret that data and analytics are playing an increasingly important role in the world of real estate. By harnessing the power of big data, investors and analysts can make better decisions about where to"
-    publishedDateTime: 2022-03-05T13:50:00Z
-    webUrl: "https://www.econotimes.com/Vijay-Mehra-EQT-Discusses-How-Analytics-and-AI-Contribute-to-Finding-Undervalued-Real-Estate-Investments-1628569"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 20
-    images:
-      - url: "https://www.econotimes.com/assets/images/econotimes/metaDefault2.png"
-        width: 400
-        height: 330
-        isCached: true
-  - title: "Cognitive Analytics Market Giants Spending Is Going To Boom | Google, IBM, Oracle"
-    excerpt: "Advance Market Analytics published a new research publication on “Cognitive Analytics Market Insights, to 2027” with 232 pages and enriched"
-    publishedDateTime: 2022-03-08T07:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cognitive-analytics-market-giants-spending-is-going-to-boom-google-ibm-oracle"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-Kyiv-AFP-1K-04-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Syndigo Announces Strategic Partnership with Predica to Deliver Expanded Portfolio of Cloud-based Data Analytics Services"
-    excerpt: "Predica's Data & AI expertise extends across building highly scalable, cloud-based data warehousing solutions; implementing intelligent applications using Machine Learning techniques, and creating ..."
-    publishedDateTime: 2022-03-06T18:39:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1239360&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "eaOgU2kQujPzOQCgU108jJkyVN24aGCPs7eQe4DKtvIIQw8tE2b112yh5cslVFvt8DPJOvYo5LmUq4TTFRgiFq/tMxVXXxx1LsXucBxs7C6nudgomo2+jwNnr6GV10VubowyACYi978kZk1igvU1CF8q4TQoD1zlMlzvYN8EyDlLgKSSRH9kbIwey79QffrEJkgPwlLNqmnBkrtZdt33t1PCS5kSbj2vNUy4rHCuwfyp7fL04XcPK8GAgjIWuYYsFxH6wjVDechzQJEoKJhDNLlFro1KMH5I2VzqqW/DW6kAL1kzTFMTX5IouCQMVCnBRUij35XqnjoRjIT6c25S3hB445rTlqNEb6+iCrjHnZs=;P0BU5nc63APHawmt4i23uA=="
 ---

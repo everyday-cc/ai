@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/03/03/how-ai-powered-xdr-can-secure-the
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/how-ai-powered-xdr-can-secure-the-hybrid-workforce/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: VentureBeat
@@ -30,65 +30,37 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered intelligent security makes the hybrid enterprise possible"
-    excerpt: "For countless companies around the world, being able to keep business going with a remote or hybrid workforce during the pandemic has been essential. While the cybersecurity challenges of having workers in the home have been massive,"
-    publishedDateTime: 2022-03-03T21:02:00Z
-    webUrl: "https://venturebeat.com/2022/03/03/ai-powered-intelligent-security-makes-the-hybrid-enterprise-possible/"
-    ampWebUrl: "https://venturebeat.com/2022/03/03/ai-powered-intelligent-security-makes-the-hybrid-enterprise-possible/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/ai-powered-intelligent-security-makes-the-hybrid-enterprise-possible/amp/"
+  - title: "How AI-powered tech landed man in jail with scant evidence"
+    excerpt: "Williams was jailed last August, accused of killing a young man from the neighborhood who asked him for a ride during a night of unrest over police brutality in May. But the key evidence against Williams didn’t come from an eyewitness or an informant;"
+    publishedDateTime: 2022-03-05T22:55:00Z
+    webUrl: "https://www.thehour.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+    ampWebUrl: "https://www.thehour.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+    cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
+      name: The Hour
+      domain: thehour.com
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/1-Using-AI-to-secure-the-newly-hybrid-enterprise.jpg?w=1200&strip=all"
-        width: 1200
-        height: 598
+      - url: "https://s.hdnux.com/photos/01/24/41/74/22159127/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
-  - title: "Why zero-trust security tops VPN for remote work — using AI"
-    excerpt: "Zero trust security is gaining some major momentum as many organizations settle into a permanently hybrid approach for their workforce."
-    publishedDateTime: 2022-03-03T21:02:00Z
-    webUrl: "https://venturebeat.com/2022/03/03/why-zero-trust-security-tops-vpn-for-remote-work-using-ai/"
-    ampWebUrl: "https://venturebeat.com/2022/03/03/why-zero-trust-security-tops-vpn-for-remote-work-using-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/why-zero-trust-security-tops-vpn-for-remote-work-using-ai/amp/"
+  - title: "How AI-powered tech landed man in jail with scant evidence"
+    excerpt: "Williams was jailed last August, accused of killing a young man from the neighborhood who asked him for a ride during a night of unrest over police brutality in May. But the key evidence against Williams didn’t come from an eyewitness or an informant;"
+    publishedDateTime: 2022-03-06T21:48:00Z
+    webUrl: "https://www.ctpost.com/news/article/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+    ampWebUrl: "https://www.ctpost.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
+    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Clarification-BC-AP-Investigation-Tracked-story-16979786.php"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
+      name: Connecticut Post
+      domain: ctpost.com
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/3-VPN-vs-zero-trust-network-access.jpg?w=1200&strip=all"
-        width: 1200
-        height: 598
-        isCached: true
-  - title: "10 enterprise AI trends for 2022"
-    excerpt: "Enterprise AI is maturing quickly, with companies shifting to business-first AI strategies and AI benefits being sought out across the organisation."
-    publishedDateTime: 2022-03-06T04:19:00Z
-    webUrl: "https://www.reseller.co.nz/article/695836/10-enterprise-ai-trends-2022/?fpid=1"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/ai_dreamstime_3.jpg"
-        width: 504
-        height: 315
-        isCached: true
-  - title: "SXSW 2022 Round-up: Cybersecurity, Artificial Intelligence, and Quantum Computing"
-    excerpt: "With the potential for increased cyberattacks and possible cyber warfare sweeping the headlines, business and government leaders alike are renewing their focus on cybersecurity. They are paying partic"
-    publishedDateTime: 2022-03-03T21:58:00Z
-    webUrl: "https://www.linkedin.com/pulse/sxsw-2022-round-up-cybersecurity-artificial-quantum-jay-mcguire"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 36
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHDRZC5By0iSQ/article-cover_image-shrink_720_1280/0/1646335261752?e=1651708800&v=beta&t=FgDdpVZ3WM6XbAtx9Zq7xQkDbSpeC61GhX4H2hj-6nQ"
-        width: 720
-        height: 720
+      - url: "https://s.hdnux.com/photos/01/24/41/74/22159127/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "m4MPHGgkzhLLhWGwKXnfYoeVzv11gUepkIrUjDWeFUFxQmFuaYeoGtYPXxW6Vp0Rzw6INhDjemznE2tYWuGjFlig9+zKQCdwYojBcek4GM/fc4p83fB9SFAPjRUjHhLG6GLmLWoZ+cy9zVMqGZzRnvoHfEVbgIUliv5k2fkHk5hiIRNG93S/TDc8pj2LMmWVvS6T6wuHljLuGbgH1BkvGc9UyBWNfNg8C6MlVcKq+UzWqfO19y2kgLX/6PuxNjdypyNNufGCK5HUhLsTQhduuD16DEdFuhUFJiEjUkau+g4WxNUYv/2m+4GFH4eK02AtWblUeONfd0p4XBYuVV2tj3KQovmiPfdmLhn1JxUb/Lmc6tOPBaAPv4yw0RQmOgqf0i50a1mD+smymd9e7hwHlZ+W6LS2G7wpJ4YjFPdFt1ZJqZMZFt9kpQy2GzQHAOCFvNHYSy8R1XeYK24R1vK76/cUTeENFhce/qpuZCp2ZLW+3WWfob1X2BwsMayo5Z5iZU8NVOp7uZ62qQbOwXy/9A==;F0mON6DIw1e8A+zAJ8Ox4w=="

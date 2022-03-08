@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/international/how-artificial-intelligen
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/international/how-artificial-intelligence-offers-real-world-opportunities-for-indian-students--news-185092/amp"
 type: article
 quality: 55
-heat: -1
+heat: 55
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "How AI protects machine identities in a zero-trust world"
-    excerpt: "By scanning enterprise networks, bad actors often find unprotected machine identities to exploit, making them a favored attack surface."
-    publishedDateTime: 2022-03-03T21:23:00Z
-    webUrl: "https://venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/"
-    ampWebUrl: "https://venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/5-How-AI-Is-Protecting-Machine-Identities-In-A-Zero-Trust-World.jpg?w=1200&strip=all"
-        width: 1200
-        height: 598
-        isCached: true
 
 secured: "rgVG8pbPeX2l86g80Hnv1DCDq6oaxsbHJV64ESUOVIMln6BLWHnPd4BEB9FPwkj4dSCFtC/frIM3LEulIb45pt/VfLaEBAPRTMlwX4PV38+LWx4mJia1C1v9qSHcLmpVyyx1ugNWP0pHBDIspOjI4KJWC06STtLOyWQ7AvUcFC9CqUEiikPI2Oh3vB+GIWLIApoiqATbNg1OurHNkartQ/1+146+odPa0GsUkn4kh8D2AGl6XKXJbUjove1hmzskfxszYIaUDoeO+kGXt0SNty8/BKMQsoFse0EefNeargYmus4h6CYK2mGUCRqXJvvl7pNW8BYndnI7Xfq1eVS8s3ZSRJnboYzV3srsa9PYwsSd83TGt9FQYAwD0W0lSt0spvppENQSPXzinm6YVmQwmHvfrK54ao7P3rbgwjVLk2znz5UX0gv8NIn8xwkZmRBVcKJscKrX4H737QG9MoHwCQvlZC1SWgKttIyEMoBjStb+Q22WFvbrW6Sgr6Uf1gaBLqC/r6EDE4pP6m1AvMhzTQ==;UCgMLH8tBDLk0gZVtWxAmw=="
 ---

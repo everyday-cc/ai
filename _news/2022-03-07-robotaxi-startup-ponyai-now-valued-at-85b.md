@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/03/07/robotaxi-startup-pony-ai-now-value
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/07/robotaxi-startup-pony-ai-now-valued-at-8-5b/amp/"
 type: article
 quality: 87
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Robotaxi start-up Pony.ai valued at $8.5 billion after fresh funding"
+    excerpt: "Pony.ai said the latest cash injection will go toward hiring, testing of driverless taxis and trucking, and pushing toward mass commercial deployment."
+    publishedDateTime: 2022-03-07T15:03:36Z
+    webUrl: "https://roboticsandautomationnews.com/2022/03/07/autonomous-driving-systems-developer-pony-ai-valued-at-8-5-billion-after-latest-funding-round/49716/"
+    type: article
+    provider:
+      name: https://roboticsandautomationnews.com/2022/03/07/autonomous-driving-systems-developer-pony-ai-valued-at-8-5-billion-after-latest-funding-round/49716/
+      domain: https://roboticsandautomationnews.com/2022/03/07/autonomous-driving-systems-developer-pony-ai-valued-at-8-5-billion-after-latest-funding-round/49716/
+    quality: 137
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2022/03/pony-seris_D_image.jpeg"
+        width: 800
+        height: 491
+        isCached: true
   - title: "Toyota-backed self-driving startup Pony.ai valued at $8.5B in latest fundraising round"
     excerpt: "Self-driving tech company Pony.ai is valued at $8.5B in its latest fundraising round, a 65% increase from its last round. Pony.ai balance sheet will now have to close to $1B"
     publishedDateTime: 2022-03-07T18:21:00Z
@@ -75,6 +89,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/01/Pony-car.jpg"
         width: 825
         height: 638
+        isCached: true
+  - title: "Chinese Self-Driving Unicorn Pony.ai Closes Latest Funding Round; Value Jumps to USD8.5 Billion"
+    excerpt: "Pony.ai has wrapped up its latest round of fundraising, boosting its market valuation to USD8.5 billion, the Chinese self-driving technology developer backed by Toyota Motor said today. This is a 65 percent jump from its previous valuation after the Series-C round in February 2021,"
+    publishedDateTime: 2022-03-07T06:12:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinese-self-driving-unicorn-ponyai-closes-latest-funding-round-value-jumps-to-usd85-billion"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 27
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/chinese-self-driving-unicorn-ponyai-closes-latest-funding-round-value-jumps-to-usd85-billion/5772962939589.jpg"
+        width: 720
+        height: 480
         isCached: true
   - title: "Pony.ai Announces First Close of Series D Financing Round, With a Valuation of $8.5 Billion"
     excerpt: "Pony.ai, a leading global autonomous driving technology company, announced that it has completed its first close of its Series D financing. The Series D round, which has a significant valuation uplift from the 2020 “C” and “C+” rounds,"

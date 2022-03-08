@@ -56,6 +56,20 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "Microsoft announces Virtual Data & AI Conference, Microsoft DataNext: Putting AI Innovation into Action"
+    excerpt: "Microsoft, in association with Analytics India Magazine, has announced a first-of-its-kind virtual summit, ‘DataNext: Putting AI innovation into action’"
+    publishedDateTime: 2022-03-08T11:36:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-announces-virtual-data-ai-conference-microsoft-datanext-putting-ai-innovation-into-action/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 38
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/webpc-passthru.php?src=https://analyticsindiamag.com/wp-content/uploads/2022/03/Microsoft-DataNext-Article-Banner_2.jpg&nocache=1"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "uuwnVP3vc00IlGDs/gK56yKQxvoXji/yVho7GjAlvYv+k5g76H/kq/uECMjqQAit3+jYcESxpMWNePqXR5wJ7nija8PavVZVsw7I0Jo+iwoAQw4DR6hcOmWAbIVI8iViV2Ld0jbLN9503bBeMF5MxfYSy52M9KPYir1RqLB8wxcSwXLPXe6gwLq7w/TTBnkfYX9emufhqNYUd7SWcYDeb5FkQXEV+M28dqwq/RTh9yIm2x9f03FA3Mc7+Ls4TyU7j/EwhSjU3YPjR3HpNFxNgsVh8WIWyuxJyLGLgWZPxgksBbhDe4QTTvjrNde3RezGdwC/uURgxu2pZ5Jhc1o3kxDYErxyfmW7tY3gteOwQCPziMQEoXt7u4TwI+Mny8j9DKwOyLwrI3V0mgbUCnQU9aA8vI/PRxRav7Bk8S6Czp14U1x3VjgofqgIz1UnGNibKU+oak9blmnse8pXXUGZVbtt8owUEZa74vf7yRZMxEQF+3+rWRPQZ1XVMYUHR/cfNfPW3OescdcPTB3QyTGnoA==;5q+UB4fH04SynAQxCsg29Q=="
 ---

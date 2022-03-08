@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Evergreen Adding AI-Enabled Robotics to 3rd PET Recycling Plant"
-    excerpt: "Evergreen, one of North America’s three largest producers of food-grade recycled polyethylene terephthalate (rPET), has just announced that it will be installing artificial intelligence-enabled bottle sorting robotics at its Albany, NY, plastics ..."
-    publishedDateTime: 2022-03-07T20:12:00Z
-    webUrl: "https://www.plasticstoday.com/mechanical-recycling/evergreen-adding-ai-enabled-robotics-3rd-pet-recycling-plant"
+  - title: "AMP Robotics Expands Partnership with Evergreen"
+    excerpt: "AMP’s technology identifies and sorts green and clear PET from post-consumer bales of plastic soft drink bottles at speeds up to three times faster."
+    publishedDateTime: 2022-03-07T14:18:00Z
+    webUrl: "https://www.waste360.com/business/amp-robotics-expands-partnership-evergreen"
     type: article
     provider:
-      name: Plastics Today
-      domain: plasticstoday.com
-    quality: 69
+      name: Waste360
+      domain: waste360.com
+    quality: 54
     images:
-      - url: "https://www.plasticstoday.com/sites/plasticstoday.com/files/PET-plastic-bottles-Recycle-Man-Adobe-Ftr.jpg"
-        width: 770
-        height: 400
+      - url: "https://www.waste360.com/sites/waste360.com/files/amproboticsfeat.png"
+        width: 1540
+        height: 800
         isCached: true
   - title: "AMP Robotics Expands Partnership with Evergreen"
     excerpt: "AMP Robotics Corp. has extended its partnership with Evergreen, one of North America’s three largest producers of food-grade recycled polyethylene"

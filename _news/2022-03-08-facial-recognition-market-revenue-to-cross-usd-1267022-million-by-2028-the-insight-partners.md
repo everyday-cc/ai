@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-revenu
 webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-revenue-to-cross-usd-12670-22-million-by-2028-the-insight-partners"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -25,17 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Military Market to Surpass Valuation of USD 6.50 Bn by 2028, Notes Emergen Research Study"
-    excerpt: "The global Artificial Intelligence (AI) for military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4%"
-    publishedDateTime: 2022-03-04T11:08:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-military-market-to-surpass-valuation-of-usd-6-50-bn-by-2028-notes-emergen-research-study"
+  - title: "Artificial Intelligence (AI) in Construction Market Size Expected to Reach USD 4.51 Billion at a CAGR of 34.0% By 2026"
+    excerpt: "Efficiency in construction designing, planning, and other processes is propelling the growth of the market. Market Size – USD 429.2 Million in 2018,"
+    publishedDateTime: 2022-03-08T10:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-construction-market-size-expected-to-reach-usd-4-51-billion-at-a-cagr-of-34-0-by-2026-2"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 14
+    quality: 28
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/2b5ce7f68fd37f90ffb8890d66feb1a81c0b7d44-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-Kyiv-AFP-1K-04-600x337.jpg"
         width: 600
         height: 337
         isCached: true
