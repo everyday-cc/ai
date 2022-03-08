@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "How the S&P 500 will react to 3 Russia-Ukraine scenarios, according to UBS's machine-learning model"
-    excerpt: "Russia's invasion of Ukraine entered its second week Thursday."
-    publishedDateTime: 2022-03-03T17:27:00Z
-    webUrl: "https://www.cnbc.com/2022/03/03/ubs-how-the-sp-500-will-react-to-3-russia-ukraine-scenarios.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 57
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107023227-16461722922022-03-01t215402z_706840525_rc2wts9a760d_rtrmadp_0_usa-stocks.jpeg?v=1646172330"
-        width: 3500
-        height: 2333
-        isCached: true
 
 secured: "FcFWiCy/eOc0K5rO41nKdVi8QgZ8euDk1p/vHiGYSdaX6pGSLo8MyfegT68geAEW3AiEmiokkm5VhPnRsMSlWIln7bJDQHWWRmLemHIaIbWaJlw8dVOZnyupC6QA8rcIZxWyVKsJ+xNPL46GdX0jM7ZdZTxqryWCqoYC2tO6w0t1O9lYe+UAHsT/gtVqKiVpNvwQcXOTioHhS6WQpknbEKRpHNYt/0Sz3qjDTT8P7I7l7Ii3YNpOD5vu8RitkGhM0up5WGsJTMAknQUHr1xK2agWJ2K7WXoD8Zrl4qThuh/R+ZogP9G3GX6W/f4zOFGREMtc0QSUGDKtPQorFEGFk7ilog1TWAyi9f2rEGRagYPamS5ACis7Nm6oFSpV36ueHBm1WDm3wrb1L2dLWjqxaJYMiq6lkRxvm4cZ1IJXP9pYiqBGzqtalc3eEiV5ajLPR5NiHJuiOtsQAPTG0bpCyB9EYGPZDmNHs6zNi7Opc70MFzy+0g96t5UEyeiOlm7jaFDtkfm/GuC7ylaeakYrQw==;QPaw9IaZ2pS9VmkKoWkkCQ=="
 ---

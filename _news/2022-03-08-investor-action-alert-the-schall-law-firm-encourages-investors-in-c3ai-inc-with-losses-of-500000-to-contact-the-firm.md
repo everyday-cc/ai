@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "SHAREHOLDER ALERT: Robbins LLP Informs Shareholders of Class Action Against C3.ai, Inc."
-    excerpt: "Shareholder rights law firm Robbins LLP informs investors that a shareholder filed a class action on behalf of persons and entities that purchased or"
-    publishedDateTime: 2022-03-07T22:27:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/03/b26030241/shareholder-alert-robbins-llp-informs-shareholders-of-class-action-against-c3-ai-inc"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26030241"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26030241"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 49
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Pomerantz Law Firm Announces the Filing of a Class Action Against C3.ai, Inc. and Certain Officers – AI"
     excerpt: "Pomerantz LLP announces that a class action lawsuit has been filed against C3.ai, Inc. (“C3.ai” or the “Company”) (NYSE: AI) and certain of its officers. The class action, filed in the United States District Court for the Northern District of California,"
     publishedDateTime: 2022-03-05T01:27:00Z
@@ -49,6 +33,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "SHAREHOLDER ALERT: Robbins LLP Informs Shareholders of Class Action Against C3.ai, Inc."
+    excerpt: "SHAREHOLDER ALERT: Robbins LLP Informs Shareholders of Class Action Against C3.ai, Inc. The Class: Shareholder rights law firm Robbins LLP informs investors that a shareholder filed a class action on behalf of persons and entities that purchased or ..."
+    publishedDateTime: 2022-03-08T01:33:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220307006016/shareholder-alert-robbins-llp-informs-shareholders-of-class-action-against-c3ai-inc"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 9
 
 secured: "MYDnpOYAao/8ZlmuNiFQ+1+HSAHRAsH7fSHexYSpnjYK/UkYwOfThmFQNyxLzJhz7e+fHrgj6g28pVsDcQe1xxy4sqGgNMtYS8auXutNduiW3/rGEB3rWOfb5MVGSiRx7viVxIUY6nDAVGXCasUci6IVVNnk99iirfjGEHK7Y7JC9vd3XO6egysljxjwibeIX2YSQcI68+DUZpD2jYBpiJ94dRI4yZ9SQERnQk6gLUvBmHLta1XbYskOZ9eNq38P2DGJ6hoEPk6poq9Tb9fnKr4VYhh7beCc0MgD7RBB4bFgtaNq4U9+I02u5hH2J7qv/JD4ZSlA/pP4glN+ygjcAfrK8Le8gtQPaE4KFUmjDUg=;MOSZApvLpVRnMmCPd3rkLQ=="
 ---

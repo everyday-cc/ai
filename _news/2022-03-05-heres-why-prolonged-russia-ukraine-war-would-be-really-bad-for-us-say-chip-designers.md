@@ -43,20 +43,6 @@ related:
         width: 799
         height: 532
         isCached: true
-  - title: "How the S&P 500 will react to 3 Russia-Ukraine scenarios, according to UBS's machine-learning model"
-    excerpt: "Russia's invasion of Ukraine entered its second week Thursday."
-    publishedDateTime: 2022-03-03T17:27:00Z
-    webUrl: "https://www.cnbc.com/2022/03/03/ubs-how-the-sp-500-will-react-to-3-russia-ukraine-scenarios.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 57
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107023227-16461722922022-03-01t215402z_706840525_rc2wts9a760d_rtrmadp_0_usa-stocks.jpeg?v=1646172330"
-        width: 3500
-        height: 2333
-        isCached: true
   - title: "Russian autonomous-driving company Yandex idles U.S. operations amid Ukraine invasion"
     excerpt: "Self-driving tech company Yandex said it paused operation of its robotaxis in Ann Arbor, Mich., and ended a delivery partnership with Grubhub."
     publishedDateTime: 2022-03-04T19:27:00Z

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Balto Improves Real-Time Guidance With Intent-Based Voice Processing"
-excerpt: "Balto has released its next generation of intent-based conversational dialogue models, raising the bar in conversational guidance capability, and reaffirming the company’s reputation as the premier real-time guidance platform for contact centers."
-publishedDateTime: 2022-03-03T14:58:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/st-louis-ef6b3f5253a7bb8caf00e59d32ea80d2"
-webUrl: "https://apnews.com/press-release/pr-newswire/st-louis-ef6b3f5253a7bb8caf00e59d32ea80d2"
+excerpt: "Balto has released its next generation of intent-based conversational dialogue models, raising the bar in conversational guidance capability, and reaffirming the company's reputation"
+publishedDateTime: 2022-03-03T13:12:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/balto-improves-real-time-guidance-with-intent-based-voice-processing/article_b29ed5ce-d378-5f7b-81e9-622ca006e351.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/balto-improves-real-time-guidance-with-intent-based-voice-processing/article_b29ed5ce-d378-5f7b-81e9-622ca006e351.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
-secured: "+CN/jPFzgBZhxltEWfZwNnaBKQheIr/zhP52FEctfurCl55YASJVNy+LVCwBZ7Zr00+IMpZIkoFPnk992jWZjqVhd69b0zNaeT5lAbIdsbi59oQRtsf1PID5g0N7of02D5CoUb+t4k+vIZD5lA+jVqY3LhevDMsttBtfdIpkkP6vEcqz4gMpUtw3Re9ZYjIk98UbuA53rumPm5KcHP7h4H0uP8QixoHWejSEHvzwWhbUtgbvvuCKScDQU4dEsmDP5G24ztcn9xv9A1rDG71+IN7Vi1nnoxEP2P1UX46eISztYiprfpALNr89XvxWkD4zlJl/xcRfKUpYcnw6d0CEIQiac0DiE89y5gjqreSFQzo=;j94BosKaRrw51hRPmuL1jQ=="
+secured: "UsPreTBAUDXGlcPPoMjiX5RcSp2fZUDEsa03sKhO6HyfofAACgV+iudcZIKxRQTSUJUDJmzH33dQx3rU9l5KaaNqTAN7dXPnaqmi9LWTR3B4xkF8U1KMC6Ser8bZG8eq1bQdcPuMx7pfwaXMWKXdaeBhqIND5jK/xDJipD/E+6XFE1m8d/qsIC7z1abfVQPxhvZZofdUevYi+1HYsEld6rpAAlejwKeUWBtAOFi+WPEmtE88MhMPLUw817Sb7o9PYD4ssw/K1xYuaGCE7/UTEd+VTSqxk5uWzftwTumi2uq00aIwq0is64xdt2cvj7BFG5p3Bbk+jnGzWvv2EJYJ8DqAx29CFA/xWEWCDtZrXRQ=;tBJ78xSlosFDE2uD3h+8Qw=="
 ---
 

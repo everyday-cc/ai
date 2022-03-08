@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Syndigo Announces Strategic Partnership with Predica to Deliver Expanded Portfolio of Cloud-based Data Analytics Services"
-excerpt: "Predica's Data & AI expertise extends across building highly scalable, cloud-based data warehousing solutions; implementing intelligent applications using Machine Learning techniques, and creating ..."
-publishedDateTime: 2022-03-06T18:39:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1239360&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1239360&cat=PR News Wire"
+title: "Cognitive Analytics Market Giants Spending Is Going To Boom | Google, IBM, Oracle"
+excerpt: "Advance Market Analytics published a new research publication on “Cognitive Analytics Market Insights, to 2027” with 232 pages and enriched"
+publishedDateTime: 2022-03-08T07:54:00Z
+originalUrl: "https://www.digitaljournal.com/pr/cognitive-analytics-market-giants-spending-is-going-to-boom-google-ibm-oracle"
+webUrl: "https://www.digitaljournal.com/pr/cognitive-analytics-market-giants-spending-is-going-to-boom-google-ibm-oracle"
 type: article
-quality: 0
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-Kyiv-AFP-1K-04-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
 
 related:
   - title: "Predicting the future of AI and analytics in endpoint security"
@@ -102,21 +108,16 @@ related:
         width: 400
         height: 330
         isCached: true
-  - title: "Cognitive Analytics Market Giants Spending Is Going To Boom | Google, IBM, Oracle"
-    excerpt: "Advance Market Analytics published a new research publication on “Cognitive Analytics Market Insights, to 2027” with 232 pages and enriched"
-    publishedDateTime: 2022-03-08T07:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cognitive-analytics-market-giants-spending-is-going-to-boom-google-ibm-oracle"
+  - title: "Syndigo Announces Strategic Partnership with Predica to Deliver Expanded Portfolio of Cloud-based Data Analytics Services"
+    excerpt: "Predica's Data & AI expertise extends across building highly scalable, cloud-based data warehousing solutions; implementing intelligent applications using Machine Learning techniques, and creating ..."
+    publishedDateTime: 2022-03-06T18:39:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1239360&cat=PR News Wire"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-Kyiv-AFP-1K-04-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
-secured: "THZAGAjQUKEu4lHCqZnxUoXPk4ELhvnHvX7qmEjLsPXrTHQGp973an4G+ZwqJ0baHhSJNRvjRvagOHpEIpN3R8NjREc5x1mdhSyu7Mr5XbHCKnZx86HPTj6NuWs5Cf15D93r4EDgeVppSPQLx8snxfC6ccwMbBHzI2huxz/X6htQ8QLV9etwifKe0KiDKA3XPA84nHtJCdLoR8zwI4gpyyZMNl7V3EShAmLS55X228iKpE4+zFqwJ/nKnXSaBPGg6sumvDvY6y6oyN2+ikXZhE4WAIUpL/59XdFEPYp4hN7ys8RJxjvpX1wkUUR3V8iG51aDHxxvSYKQSGIAuaPGbPISVFC4XE2CzClZtN5LFY8=;WMtFK6qODpuLiNUDF9RZjQ=="
+secured: "Ck35I5wcJufExG19sTWKL5rLwwwcvq0Ls4CeY3bLeK8op4XtU2/0VZqBapjIP0RYlT+moR/PPAxkOr+YyGn2g+t7AbUPwJzzz+Z2DtcGGITPSPdK+bo0EMAw9AGocZgB4I62WaMMtZIZ8BP03SkOBQtiZMX3qbXzNdbixTiZ2v+//A/ttWqdVNDS1I/Pmy5R7B/VfUQ+zIuG521kNMobyfGWH2CiYOcK0B+N5FCMzxLUku+bPa4Gyc8dK47ajicc/UY3nU1xKvEg1Y0uCgu+7GM1vCCc/oMKjnbCx+/BigLYI1ggD2uerv7OV4Xk5JY5pXt7vqPBj0hyMmw13MU3m6Nu4k4Bn3eZEPpTorRxsqQ=;YVbqKeZRl7mm0XFQfcjsxw=="
 ---
 

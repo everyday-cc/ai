@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IoT in Healthcare Market to hit USD 135.87 Billion, Globally, by 2025 at 21.2 % CAGR: The Insight Partners"
-    excerpt: "The IoT in healthcare market was valued at US$ 20.15 billion in 2015 and it is projected to reach US$ 135.87 billion in 2025; it is expected to grow at a"
-    publishedDateTime: 2022-03-03T17:29:00Z
-    webUrl: "https://www.digitaljournal.com/pr/iot-in-healthcare-market-to-hit-usd-135-87-billion-globally-by-2025-at-21-2-cagr-the-insight-partners"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 21
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/27f2bf527b901f7bf89e65211331317bac62288f-e1646243587537-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence in Military Market to Surpass Valuation of USD 6.50 Bn by 2028, Notes Emergen Research Study"
     excerpt: "The global Artificial Intelligence (AI) for military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4%"
     publishedDateTime: 2022-03-04T11:08:00Z

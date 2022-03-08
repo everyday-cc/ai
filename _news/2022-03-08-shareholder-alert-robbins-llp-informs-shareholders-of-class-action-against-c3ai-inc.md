@@ -1,29 +1,21 @@
 ---
 category: news
 title: "SHAREHOLDER ALERT: Robbins LLP Informs Shareholders of Class Action Against C3.ai, Inc."
-excerpt: "Shareholder rights law firm Robbins LLP informs investors that a shareholder filed a class action on behalf of persons and entities that purchased or"
-publishedDateTime: 2022-03-07T22:27:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/03/b26030241/shareholder-alert-robbins-llp-informs-shareholders-of-class-action-against-c3-ai-inc"
-webUrl: "https://www.benzinga.com/pressreleases/22/03/b26030241/shareholder-alert-robbins-llp-informs-shareholders-of-class-action-against-c3-ai-inc"
-ampWebUrl: "https://www.benzinga.com/amp/content/26030241"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26030241"
+excerpt: "SHAREHOLDER ALERT: Robbins LLP Informs Shareholders of Class Action Against C3.ai, Inc. The Class: Shareholder rights law firm Robbins LLP informs investors that a shareholder filed a class action on behalf of persons and entities that purchased or ..."
+publishedDateTime: 2022-03-08T01:33:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220307006016/shareholder-alert-robbins-llp-informs-shareholders-of-class-action-against-c3ai-inc"
+webUrl: "https://www.morningstar.com/news/business-wire/20220307006016/shareholder-alert-robbins-llp-informs-shareholders-of-class-action-against-c3ai-inc"
 type: article
-quality: 49
-heat: 49
+quality: 9
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "Pomerantz Law Firm Announces the Filing of a Class Action Against C3.ai, Inc. and Certain Officers – AI"
@@ -50,6 +42,6 @@ related:
       domain: stockhouse.com
     quality: 0
 
-secured: "R4jkOmDMCzyxrE8IlPygLekmSLB9w6HkQHCqiJB52X9MpHjtRY9dK4JGIdpDditMbdtz/q9VajkrOYgeKNr8BA9YJiwZ8sZZub9tHTETxuj8myewGT8QPTaPdhpoPsiq3B3bjyxouOw0GJxtm5yZ5gkNKh5osA9fjilZzm6HWezHkpzvxkKOhb5HByFIoar0+ryOIZw8E0bUsFoN3uZTf4MevpxeihOUJ2+GNG1qKaX7SuahoBIL8byGfHqXrNrE09AJbMnY6MP/htVCRiWKaUjhYKJOpzqFjpkW+65P7RGV78RwxLXNWEdxSYZvFz6L3DnJolLdH4KJOc1UPEiBiMXHFlwGJ3IZBoU3eST5WsM=;pgOZoJ5IicSsnKB57DmnRg=="
+secured: "+aD7SpKC1Eb1CK0XcM6nEO2KuBgJEIo/knzWfmSNIed3qzXgYaFkKnM1lPFad/60x/gV4JZRzvGvrKs2K6mbsdNrFfykSKzNGE4rSWTqjypEOkL1QWChzF6oI460kKperQIkkl3xFLP7di9qva2qni8uwRDo5RoKkxbMMpAbwBCSAVXGQM9ODNxQW3tyr7zxA0G7VXiZKPRFmNw+jTpSRIRp4n1imin5DAjHnPv5e1kIzNI7qeXZj3APi19QXY3dg0IKDG3BOThIXGand0U3q2OsrcBrn/aDnww32zdKvxipqNtt2MIWSUFLQBaB8zsms8pGXcabNIzdLvt+TdHF4T/P6Ps6BCiTd8nhpeYQF18=;h47ZRb84N8oI2DCXeIEJvg=="
 ---
 

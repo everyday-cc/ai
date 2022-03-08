@@ -56,17 +56,6 @@ related:
         width: 2880
         height: 4073
         isCached: true
-  - title: "Ban predictive policing systems in EU AI Act, says civil society"
-    excerpt: "“I do not think you can solve this issue by tweaking the technology or trying to find AI to spot bias.” Speaking to the HAJC in October 2021, Karen Yeung – an interdisciplinary professorial fellow in law, ethics and informatics at Birmingham Law ..."
-    publishedDateTime: 2022-03-03T17:05:00Z
-    webUrl: "https://www.computerweekly.com/news/252514030/Ban-predictive-policing-systems-in-EU-AI-Act-says-civil-society?asrc=EM_EDA_208821168"
-    ampWebUrl: "https://www.computerweekly.com/news/252514030/Ban-predictive-policing-systems-in-EU-AI-Act-says-civil-society?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252514030/Ban-predictive-policing-systems-in-EU-AI-Act-says-civil-society?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
   - title: "Growth Opportunities in API, Analytics, Cloud, O-RAN, and Artificial Intelligence 2021 - AI-Powered Video Security Platform to Offer Human-Like Percep"
     excerpt: "The \"Growth Opportunities in API, Analytics, Cloud, O-RAN, and Artificial Intelligence\" report has been added to ResearchAndMarkets.com's offering. This report provides a snapshot of the emerging ICT led innovations in API,"
     publishedDateTime: 2022-03-07T15:30:00Z
@@ -109,15 +98,20 @@ related:
         width: 400
         height: 330
         isCached: true
-  - title: "Syndigo Announces Strategic Partnership with Predica to Deliver Expanded Portfolio of Cloud-based Data Analytics Services"
-    excerpt: "Predica's Data & AI expertise extends across building highly scalable, cloud-based data warehousing solutions; implementing intelligent applications using Machine Learning techniques, and creating ..."
-    publishedDateTime: 2022-03-03T18:39:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1238738&cat=PR News Wire"
+  - title: "Cognitive Analytics Market Giants Spending Is Going To Boom | Google, IBM, Oracle"
+    excerpt: "Advance Market Analytics published a new research publication on “Cognitive Analytics Market Insights, to 2027” with 232 pages and enriched"
+    publishedDateTime: 2022-03-08T07:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cognitive-analytics-market-giants-spending-is-going-to-boom-google-ibm-oracle"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-Kyiv-AFP-1K-04-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Syndigo Announces Strategic Partnership with Predica to Deliver Expanded Portfolio of Cloud-based Data Analytics Services"
     excerpt: "Predica's Data & AI expertise extends across building highly scalable, cloud-based data warehousing solutions; implementing intelligent applications using Machine Learning techniques, and creating ..."
     publishedDateTime: 2022-03-06T18:39:00Z
