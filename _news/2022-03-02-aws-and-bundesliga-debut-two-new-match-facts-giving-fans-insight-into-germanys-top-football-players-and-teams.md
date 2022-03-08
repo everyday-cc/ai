@@ -1,20 +1,20 @@
 ---
 category: news
-title: "AWS and Bundesliga Debut Two New Match Facts Giving Fans Insight into Germany’s Top Football Players and Teams"
-excerpt: "The two new stats, “Set Piece Threat” and “Skill,” powered by AWS machine learning and analytics services, enhance the football fan experience and give invaluable strategic insights to teams With these two additions,"
-publishedDateTime: 2022-03-02T03:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20220302005404/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-players-and-teams"
-webUrl: "https://www.morningstar.com/news/business-wire/20220302005404/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-players-and-teams"
+title: "AWS and Bundesliga Debut Two New Match Facts Giving Fans Insight into Germany's Top Football Players and Teams"
+excerpt: "AWS and Bundesliga Debut Two New Match Facts Giving Fans Insight into Germany's Top Football Players and Teams. Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZ"
+publishedDateTime: 2022-03-02T10:35:00Z
+originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/03/02/9555298.htm"
+webUrl: "https://www.mobilitytechzone.com/lte/news/2022/03/02/9555298.htm"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "9qyoA2DrfJzH/D4Tzs1u+TEvMWWmTUX59zDhseJMy4lbOKuHXVrfVQno7V0WdaiUsdbWc5/FhRoO38aL/XpCqElq6gEz/+lAUP3M+25H0UhpD95HRgKHQ5cu6Z8X67L6rDSN8FFSHhA7rjzfJK1IfnozgEJtEHcw75h0ipm2/a1uON/x5Us6mSh9wj/tez9B8wftSDt33BFtI3klVzTVWBckhFCA0Q2+0L4nV64O7vNW2xRcXkg8XBvOhMR6ypZqwKcpmINjVbPYyRyDz936K+b6a2cjJ3YtPZnIOtfHx/sV968ctL5zfwAPGyAEbl8ZKAj7YUNDByRGuDqXSn5FWtjHJjBMxfG4W4WFTP40858n+Awc8PAcXNNBkJ23tk83tzYt3gSdpEoEA3s5mHXJG9IVsLoBDw3CsjWCgXQb/aRXy2qy8S26He4Ur/dcCXUPeRd6fB+I/FP1FycZYyZ/KO5ZW/lN31aM+uCtA85NXwx62njJD/UaRMZJXKiQ1nI7yyHJwKtlVHkJDROZ3+FzFw==;w7vGxlpkvVK5Mi1j9rUFLw=="
+secured: "nPEaT8eqx1WpYg9v02U7NYFj9WizGvCbsRJhVz+wHv17PXNPlP+e58RlHfvXTsf7KOAVTDOCTTvz3gFhGzP6SER3Chl+FSr4cas9PVlGIGWAuQnrkGNfWP9MBytLWxxQVdsIiaZnAeSLmfbsmj2szIZbPBzK6Q+uK3yNKQkLPHyDlLlT+V8uBPf6EDZBEUV7JNhJbthh6G8guPFMzt0VVuC9dTl8CQuyxy+Q7aT+o+VIGsQsJQdjr9oEqLrq7MMoZVrlZuwuFb+yiMwUfn2fTa0UUeEAGLySTOyqgJg2NRCxjvyUvvXO95r5kqzq4/SEcRgQseyw6Umg9Q65XIolU58bnUJhETTDabFwNz1/4Hz4HLO6If5iQvbJjrXtr5Dd4/mwqC/58wmOxrhlwQL6mJW+qUzC+m37yqb+k2uYkVSa7FfLX/4oeyBZe6ikvBynGgAkr/PlbAy40/w8RpTsVikL8GfIMmlYqAUZ7qXuu4tFGp7GjsTxacg/HiBbNK0qmLGlShQXgmZfErLg3fZHJQ==;f+DK2ktnzfLsUSBIx2btlw=="
 ---
 

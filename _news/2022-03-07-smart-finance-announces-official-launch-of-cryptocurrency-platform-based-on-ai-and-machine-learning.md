@@ -9,7 +9,7 @@ ampWebUrl: "https://cointelegraph.com/press-releases/smart-finance-announces-off
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning/amp"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Smart Finance ICO Launch will be announced soon, a New Grade of DeFi Platform Based on Artificial Intelligence"
+    excerpt: "During an interview with the Founder of Smart Finance – TheZarchitect, he said \"Artificial Intelligence is the ultimate game changer in the crypto sector. AI provides a smart and powerful automated trading robot that can estimate crypto market values and ..."
+    publishedDateTime: 2022-03-03T20:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/03/g25977479/smart-finance-ico-launch-will-be-announced-soon-a-new-grade-of-defi-platform-based-on-artificial-i"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25977479"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25977479"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Smart Finance, a New Grade of DeFi Platform Based on Artificial Intelligence"
     excerpt: "Neural networks of Smart Finance will empower and optimize its financial crypto platform with unique market features. Smart Finance ICO Launch will be announced soon, a New Grade of DeFi Platform Based on Artificial Intelligence Neural networks of Smart Finance will empower and optimize"
     publishedDateTime: 2022-03-04T13:03:00Z

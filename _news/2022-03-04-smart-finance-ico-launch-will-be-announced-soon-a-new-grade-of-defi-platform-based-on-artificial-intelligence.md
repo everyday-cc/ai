@@ -28,21 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "Intellimation.ai launches its NLP and ML-based product ADEPT for insurance sector"
-    excerpt: "Intellimation.ai, a Natural Language Processing and Machine Learning- based cognitive fintech company is launching its product ADEPT for the insurance and insurance brokerage industry. ADEPT is an extension of their core AI platform Vector into the insurance sector."
-    publishedDateTime: 2022-03-03T10:36:00Z
-    webUrl: "https://www.freepressjournal.in/business/intellimationai-launches-its-nlp-and-ml-based-product-adept-for-insurance-sector"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/intellimationai-launches-its-nlp-and-ml-based-product-adept-for-insurance-sector"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/intellimationai-launches-its-nlp-and-ml-based-product-adept-for-insurance-sector"
+  - title: "Smart Finance announces official launch of cryptocurrency platform based on AI and machine learning"
+    excerpt: "London – March 3rd, 2022 – Smart Finance declares the launch of its avant-garde decentralized finance (DeFi) platform based on leading-edge artificial intelligence, machine learning and ..."
+    publishedDateTime: 2022-03-06T22:06:00Z
+    webUrl: "https://cointelegraph.com/press-releases/smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning"
+    ampWebUrl: "https://cointelegraph.com/press-releases/smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning/amp"
     type: article
     provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 88
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 77
     images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2020-12/53f13fba-b585-457f-b1cc-d140e296ef74/nawab_malik.jpeg"
-        width: 770
-        height: 433
+      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wOTJmZmE0NDJlNTJkMWY3NzgwN2I5OTEwZWU3YmVjNC5qcGc=.jpg"
+        width: 740
+        height: 493
+        isCached: true
+  - title: "Smart Finance, a New Grade of DeFi Platform Based on Artificial Intelligence"
+    excerpt: "Neural networks of Smart Finance will empower and optimize its financial crypto platform with unique market features. Smart Finance ICO Launch will be announced soon, a New Grade of DeFi Platform Based on Artificial Intelligence Neural networks of Smart Finance will empower and optimize"
+    publishedDateTime: 2022-03-04T13:03:00Z
+    webUrl: "https://www.finyear.com/Smart-Finance-a-New-Grade-of-DeFi-Platform-Based-on-Artificial-Intelligence_a46960.html"
+    type: article
+    provider:
+      name: FinYear
+      domain: finyear.com
+    quality: 53
+    images:
+      - url: "https://www.finyear.com/photo/art/grande/62804713-45430662.jpg?v=1642752630"
+        width: 1400
+        height: 1400
         isCached: true
 
 secured: "RJ4Rw7NG23clCb2l6Zu8hovaocLz5QAp9xskGxM8hY2LLoXYBI/HX1eUz8bYfe6mpAedDo1bSmFxL1MpeuwOyx0XSSNtCU4qoAmYpx6Mng+lKAejwejc9I+1GMEmy6wkL2qVragraZJFJPJlEeTwuTBCcZIp/+yfns1z8XePihi2DpZ3oPtzvQDWaU9Y6Re0AUh0LRzoftQ6u9YC5lG9yMtb36HzTDT991rMi5IPbd9tCVWS77AdYhjLtNOXrCpuHiHHElzy3GdbnqHodtmY8wKN+/uKj2ST0KpZ5Le0JhCR97vcgbcKgGrRQVcetqABTpMz/sYrSHfBOQpDxA6E8b2AWO/BBYDKJe/tezEBRLs=;+mg7vbFwcycoXqTz5vrwNg=="

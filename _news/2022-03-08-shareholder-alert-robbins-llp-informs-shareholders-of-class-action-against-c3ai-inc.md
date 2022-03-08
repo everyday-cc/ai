@@ -1,18 +1,18 @@
 ---
 category: news
 title: "SHAREHOLDER ALERT: Robbins LLP Informs Shareholders of Class Action Against C3.ai, Inc."
-excerpt: "Shareholder rights law firm Robbins LLP informs investors that a shareholder filed a class action on behalf of persons and entities that purchased or otherwise acquired C3.ai, Inc. (NYSE: AI): (a) common stock pursuant to the Company's December 9,"
-publishedDateTime: 2022-03-07T23:31:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-shareholder-alert-robbins-llp-informs-shareholders-class-action-/2022/03/07/9558622.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-shareholder-alert-robbins-llp-informs-shareholders-class-action-/2022/03/07/9558622.htm"
+excerpt: "SHAREHOLDER ALERT: Robbins LLP Informs Shareholders of Class Action Against C3.ai, Inc. The Class: Shareholder rights law firm Robbins LLP informs investors that a shareholder filed a class action on behalf of persons and entities that purchased or ..."
+publishedDateTime: 2022-03-08T01:33:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220307006016/shareholder-alert-robbins-llp-informs-shareholders-of-class-action-against-c3ai-inc"
+webUrl: "https://www.morningstar.com/news/business-wire/20220307006016/shareholder-alert-robbins-llp-informs-shareholders-of-class-action-against-c3ai-inc"
 type: article
 quality: 9
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AI
@@ -42,6 +42,6 @@ related:
       domain: stockhouse.com
     quality: 0
 
-secured: "rMWI/MccFg4Vw46tP8ocQA6qjonWORXnL80XQoN5I6ZSpBC8+H8U1JtvWt9fnEqbptPXahhNJT0ZeX+V7DIvaxO2zBFIIYG77nQhj+BNVHrmHoRC03dcr+NYzU7IBaXgAhV9y8YYP+yZlx5hn0XVed/K+ZALbz5+HnG7opeoCa4gsX29rwNgcgVJvsuemH5TsY8zBmLIWi7exR8Fu5rqy7GE6xskSf9MTx4bh6cm1og0/9gtg5Er8Xx0+DwsVJqMcMO68mGDft7Ynz+Z6q/h5UtVlv6hNTMHCSLKhqndxrVADFp/vWsP9V3tvbF07kggzjSnZ9eu0z2VTqk42+qBncLCJyP6eOoLLRv/qsE6q7s=;/yNIziDPN0nf9PLE//L75Q=="
+secured: "lSjPKwYA3j3JhL+AzbER7ukIWuZj3mH8ET0aUiSD1R2XmonPdkZjEpFn4PxjVKD1ZZUyrqw773w7Xbavoezyb3222dcQuF3ToWn+Zi6b/cs1rsWaK+EG5Trt0dZ4fA4szw1IdxG7TavxTXW3OsSWrl2wh7/Tscx4Dz99G/u4jtbu6TRno41OI1tBbv0D5iBaRzIuuEhPEWd8s5MGup8POO/K3+qg5Frk9Tij6DrjqvKNCCCd3mNE/oLtMGkiGhrVhZ/BPMZlntzf4iNc0ZEuFcfxxQZRO+VvxuPP69qM0NDX4f/W/b5NnIVO2QzT4bNQnqSe04h2lifJ1r8BWoqZjaY+SXQJYTCSjnL6dlQU88I=;Pf2o9NxVGjCQ2ZmR8jiOsg=="
 ---
 

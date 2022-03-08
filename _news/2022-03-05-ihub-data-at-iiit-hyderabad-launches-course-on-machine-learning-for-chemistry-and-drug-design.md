@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "IHUB-Data & IIIT-Hyderabad launches Machine Learning 12-week course"
-    excerpt: "IHub-Data in collaboration with IIIT- Hyderabad, launched a 12-week course on “Machine Learning (ML) for Chemistry and Drug Design” with special emphasis on drug discovery. The course is slated to commence from March 10,"
-    publishedDateTime: 2022-03-03T09:23:00Z
-    webUrl: "https://www.uniindia.com/story/IHUB-Data--IIIT-Hyderabad-launches-Machine-Learning-12-week-course"
-    type: article
-    provider:
-      name: United News of India
-      domain: uniindia.com
-    quality: 39
-    images:
-      - url: "https://www.uniindia.com/public/default-image/default-730x400.png"
-        width: 730
-        height: 400
-        isCached: true
   - title: "IHub-Data at IIIT Hyderabad launches course on machine learning for chemistry and drug design"
     excerpt: "With AI/ML revolutionizing the field of natural and applied sciences, there is an increasing need for professionals with knowledge of both AI/ML as well as applied sciences. IHub-Data in collaboration with IIIT-Hyderabad,"
     publishedDateTime: 2022-03-03T20:51:00Z

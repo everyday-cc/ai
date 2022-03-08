@@ -59,6 +59,20 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Tesla and the ethics of self-driving cars"
+    excerpt: "Self-driving technology has come a long way in recent years, but it remains far from perfect. And that's partially because of decisions made -- not by the cars -- but by programmers."
+    publishedDateTime: 2022-03-03T14:00:00Z
+    webUrl: "https://www.kuow.org/stories/tesla-and-the-ethics-of-self-driving-cars"
+    type: article
+    provider:
+      name: KUOW
+      domain: kuow.org
+    quality: 56
+    images:
+      - url: "https://kuow-prod.imgix.net/store/6023b3dacd9aac14703ea05a20f4c3e4.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+        width: 942
+        height: 628
+        isCached: true
 
 secured: "98bZH0CgTUwlTcoM4xITCpQ4QR2aKrr5H2y4k5PrMch45oNR8N6CqO0Td3Ft8iw7tNhofqgaLNyWBDdYbFpq00108f8kDmUy1fyYDyMKGpXPdsSjPR69qpTTpSkw2/Xgsr1wMpoRLdAHKI55mGi9FZHD4kJIOWtZYeo9lbfn81h4SA25+NP4VWPsSZl4qax3ljQXPigCRRgrGIbkWUklCWyp9n9zal0kc+IHdZ88Lj3VvMpKPElSh1WwePiQSwKrhPE/y4Fk6cD5ZCM+8r2WbpJc7rbZohBYlcAsLwCfJBZ++65Bd3AuI6IkQmBW7I5Zse5JhidoDzw+BeWYpcl0vzCbGBwZv1/Ys6govO1bTSk=;8nMPhTd57ETdqeiZUD429A=="
 ---

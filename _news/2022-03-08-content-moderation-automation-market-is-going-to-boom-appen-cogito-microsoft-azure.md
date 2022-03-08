@@ -69,22 +69,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "Sonata Software Becomes Microsoft Azure Expert Managed Service Provider"
-    excerpt: "Sonata Software today announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP),"
-    publishedDateTime: 2022-03-03T10:06:00Z
-    webUrl: "https://enterprisetalk.com/news/sonata-software-becomes-microsoft-azure-expert-managed-service-provider/"
-    ampWebUrl: "https://enterprisetalk.com/news/sonata-software-becomes-microsoft-azure-expert-managed-service-provider/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/sonata-software-becomes-microsoft-azure-expert-managed-service-provider/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 74
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/Sonata-Software-Named-Microsoft-Azure-Expert-Managed-Service-Provider-01.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Microsoft Vaults Further Into Health-Care Services With Closing of Nuance Deal"
     excerpt: "Microsoft Corp. completed its acquisition of Nuance Communications Inc., pushing the software giant deeper into the market for health-care services and artificial intelligence. The $19.6 billion deal, announced last April, lets Microsoft add cloud ..."
     publishedDateTime: 2022-03-04T14:19:00Z
@@ -99,17 +83,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Sonata Software named a Microsoft Azure Expert MSP"
-    excerpt: "Sonata Software company announced that it has been named a Microsoft Azure Expert Managed Service Provider (MSP) for providing its expertise in IT"
-    publishedDateTime: 2022-03-03T09:50:00Z
-    webUrl: "https://www.ciol.com/sonata-software-named-microsoft-azure-expert-msp/"
-    ampWebUrl: "https://www.ciol.com/sonata-software-named-microsoft-azure-expert-msp/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/sonata-software-named-microsoft-azure-expert-msp/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 54
   - title: "Industrial Artificial Intelligence Market to See Huge Growth by 2027 : Alphabet, Microsoft, IBM"
     excerpt: "Advance Market Analytics published a new research publication on “Industrial Artificial Intelligence Market Insights, to 2027” with 232 pages and enriched with self-explained Tables ... Introduction, market driving force product Objective of Study ..."
     publishedDateTime: 2022-03-04T08:40:00Z
