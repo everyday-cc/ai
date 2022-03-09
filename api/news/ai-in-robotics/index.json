@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-10-ambi-robotics-and-pitney-bowes-sign-23-million-expansion.md",
+      "title": "Ambi Robotics and Pitney Bowes sign $23 million expansion",
+      "excerpt": "Ambi Robotics, the creator of the AmbiSort robotic sorting solution, and Pitney Bowes, a global shipping and mailing company, signed a $23 million expansion deal. Pitney Bowes will make the investment over the next four years in Robot as a Service (RaaS) fees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/ambi-robotics-and-pitney-bowes-sign-23-million-expansion/",
+      "originalUrl": "https://www.therobotreport.com/ambi-robotics-and-pitney-bowes-sign-23-million-expansion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/03/featured-web-ambisort.jpg",
+          "width": 700,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-09-tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem.md",
       "title": "Tomahawk Robotics Integrates AeroVironment UAS Into Kinesis Ecosystem",
       "excerpt": "Tomahawk Robotics, the leading innovator of common control solutions, has integrated the AeroVironment RQ-11 Ravenã unmanned aircraft system (UAS) into the Kinesis Ecosystem with AeroVironment's Crysalis™ on Tomahawk Robotics' KxM edge processor.",
@@ -54,21 +97,21 @@
       ]
     },
     {
-      "path": "_news/2022-03-09-self-driving-company-kodiak-robotics-hauls-freight-for-ceva-in-texas-oklahoma.md",
-      "title": "Self-driving company Kodiak Robotics hauls freight for CEVA in Texas, Oklahoma",
-      "excerpt": "Kodiak Robotics on Wednesday said it has partnered with France-based CEVA Logistics to transport freight in self-driving trucks across Texas and Oklahoma, marking the latest autonomous trucking partnership in the region.",
+      "path": "_news/2022-03-09-ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes.md",
+      "title": "Ceva Logistics Teams With Kodiak Robotics On Self-Driving Routes",
+      "excerpt": "CEVA and Kodiak launched its Dallas-Fort Worth to Austion service in November 2021. They expanded last month with a new route between Dallas-Fort Worth and Oklahoma City on the I-35 corridor.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/self-driving-company-kodiak-robotics-hauls-freight-ceva-texas-oklahoma-2022-03-09/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/self-driving-company-kodiak-robotics-hauls-freight-ceva-texas-oklahoma-2022-03-09/",
+      "webUrl": "https://www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/",
+      "originalUrl": "https://www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 116,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=79",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6228e548fe480cb68f2edc8a/0x0.jpg?format=jpg&width=1200&fit=bounds",
           "width": 1200,
-          "height": 628,
+          "height": 733,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,16 +119,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-09T04:03:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/amp/",
+      "publishedDateTime": "2022-03-09T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -167,7 +210,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2022/03/220307113045.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 251,
+      "heat": 261,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1356,52 +1399,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-26-hummingbirds-ai-to-present-facial-recognition-security-system-at-sxsw-pitch-event.md",
-      "title": "Hummingbirds AI to present facial recognition security system at SXSW Pitch event",
-      "excerpt": "Hummingbirds AI was selected as an alternate in the Artificial Intelligence, Robotics & Voice category of SXSW Pitch to display its GuacamoleID application.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202202/hummingbirds-ai-to-present-facial-recognition-security-system-at-sxsw-pitch-event",
-      "originalUrl": "https://www.biometricupdate.com/202202/hummingbirds-ai-to-present-facial-recognition-security-system-at-sxsw-pitch-event",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/05171458/laptop-privacy-enterprise-scaled.jpg",
-          "width": 2048,
-          "height": 1366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-25T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision",
-        "AI in Security",
-        "AI in Robotics"
       ]
     }
   ],

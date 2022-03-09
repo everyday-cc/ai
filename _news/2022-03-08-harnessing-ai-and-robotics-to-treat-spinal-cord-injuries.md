@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/03/220307113045.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/03/220307113045.htm"
 type: article
 quality: 181
-heat: 251
+heat: 261
 published: true
 
 provider:
@@ -111,6 +111,20 @@ related:
       - url: "https://assets.technologynetworks.com/production/dynamic/images/content/359352/ai-designs-enzyme-to-accelerate-recovery-from-spinal-cord-injury-359352-640x360.jpg?cb=20220308"
         width: 640
         height: 360
+        isCached: true
+  - title: "AI Discovery Could Improve Treatment of Spinal Cord Injuries"
+    excerpt: "AI evaluation has found a method of treating spinal cord injuries that could improve outcomes in recently injured patients."
+    publishedDateTime: 2022-03-09T15:04:00Z
+    webUrl: "https://www.extremetech.com/extreme/332542-ai-discovery-could-improve-treatment-of-spinal-cord-injuries"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 37
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2022/03/ExtremeTech-formatter-1-640x353.jpg"
+        width: 640
+        height: 353
         isCached: true
   - title: "Growth Opportunities in API, Analytics, Cloud, O-RAN, and Artificial Intelligence 2021 - AI-Powered Video Security Platform to Offer Human-Like Percep"
     excerpt: "The \"Growth Opportunities in API, Analytics, Cloud, O-RAN, and Artificial Intelligence\" report has been added to ResearchAndMarkets.com's offering. This report provides a snapshot of the emerging ICT led innovations in API,"

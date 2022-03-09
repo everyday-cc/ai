@@ -8,7 +8,7 @@ webUrl: "https://www.theregister.com/2022/03/09/linkedin_hoffman_ai/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/03/09/linkedin_hoffman_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/09/linkedin_hoffman_ai/"
 type: article
-quality: 75
+quality: 77
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI
   - Google AI
   - AI Hardware
+  - AI Ethics
 
 images:
   - url: "https://regmedia.co.uk/2017/01/07/hal.jpg"
@@ -45,6 +46,6 @@ related:
         height: 2832
         isCached: true
 
-secured: "kWGQ23QH68SjG6M6dQyIxcDE8hGcpV5JxUAhwm1ua8vV/J+uNKhxlXW1JcqtEstysXdex8Idlx0WHWy2/TuRhDCL1pEbnWEVumFXSQ61U9rsnihlDWwFnoh9+DswGB65Lusbv44zCTOIU42vM6jXM+XwzH11PyJnsJz1IWf/aE497ImPEUUv7h8IQ8inFt/U/6S76faUYg5bI3GcOcb9kwA40HBO6aH/Hb2uVqo1IrCNHQuIQER+HB32wtsHj3m8b2cNcfarIa6mnI/2SuwwossIZj3VlIzrs69VyqbTIsSrBgn646AN7ZOjgH0CC8N0iEeeyn/EPnFvIowm+qdJekUsPvPVpv2n9eDGkA1iJLg=;mjtuIHT9sRIWJ4s5v8mJRg=="
+secured: "CmYuBdQrPWl0mP0xi2vjbLOEWU6iDoddrjEYO63Tv+3V+IjI5KwUq4SZpbR9CSlfAx6tTpIprN8ZJDjspdA7/zrQQj9KbcFtzc+dGyiI2xUue8OpQo/civjwiz3mmxkKkmX7xRbGSQQw0yFUZz2neZici6ojnkUFYxRITBmg+J31pq5Ycm6lqH1rYZdhIrKvAeZnRlh3xHpgH6a42Hgp9jpnVlodzlEg3nWdvq9JDxY5PmPLNcalb7arT0jD1DuW2+sHyY3yKDrxDNk5CvBFmJFmzXaNlmGHpndenXzWygns7Lf/w46jgIW9dyRt+ZnF14DCtM3yyQGl0GWboq/uGEEA+T/2jW4InpwuotkSR/P8VxiQqbw9gV5IGGY3XHq4bRRTgqcFEMti1aGXHQruzVNwZ7niTV3YKEgRp4jJJc5U4fkMjdWkj9Fda5KHbqEIEJw/5bsjPPAfpwZ4N1TjygIj9pG7fIzZDBmS+gtqJoiXkRXp/+lbwRFrBVXB/eVYwJqcYnYu1xNt+cekR0jwyw==;4tbWDX00yty9avmOdc4fQg=="
 ---
 

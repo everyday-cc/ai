@@ -40,6 +40,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Autonomous Driving Startup Pony.ai Valued At $8.5 Billion After Series D Funding"
+    excerpt: "Autonomous driving technology company Pony.ai–a robotic vehicle maker backed by the likes of automaker giant Toyota and Forbes Midas lister Fisher Zhang’s 5Y Capital–rose to a valuation to $8.5 billion following an undisclosed Series D funding round."
+    publishedDateTime: 2022-03-09T08:59:00Z
+    webUrl: "https://www.forbes.com/sites/catherinewang/2022/03/09/autonomous-driving-startup-ponyai-valued-at-85-billion-after-series-d-funding/"
+    ampWebUrl: "https://www.forbes.com/sites/catherinewang/2022/03/09/autonomous-driving-startup-ponyai-valued-at-85-billion-after-series-d-funding/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/catherinewang/2022/03/09/autonomous-driving-startup-ponyai-valued-at-85-billion-after-series-d-funding/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6228212447bc64338b501d99/0x0.jpg?format=jpg&crop=3115,1753,x804,y700,safe&fit=crop"
+        width: 3115
+        height: 1753
+        isCached: true
   - title: "Startup Pony.ai agrees to automated driving system software recall"
     excerpt: "WASHINGTON, March 8 (Reuters) - Startup technology firm Pony.ai agreed to issue a recall for some versions of its autonomous driving system software after an October crash, U.S. regulators said Tuesday The recall covers three vehicles that have been ..."
     publishedDateTime: 2022-03-08T15:13:00Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-10-microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.md",
+      "title": "Microsoft opens Azure-based Startups Founders Hub, easing eligibility rules",
+      "excerpt": "Successful applicants to Microsoft’s Startups Founders Hub will be rewarded with Azure and OpenAI credits, and free access to productivity and developer tools including GitHub and Microsoft 365.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3653229/microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.html",
+      "originalUrl": "https://www.infoworld.com/article/3653229/microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/07/coders_developers_hackers_programmers_asian_women_by_startup_stock_photos_cc0_via_pexels_1200x800-100763341-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3653229/microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3653229/microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.amp.html",
+      "publishedDateTime": "2022-03-09T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-09-in-an-evolving-cloud-world-azure-passes-aws.md",
       "title": "In an evolving cloud world, Azure passes AWS",
       "excerpt": "State of the Cloud survey finds data warehouses, databases, and containers to be the top cloud draws, with serverless and AI/ML rising fast.",
@@ -55,57 +107,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-09-the-anatomy-of-a-datacenterhow-microsofts-datacenter-hardware-powers-the-microsoft-cloud.md",
-      "title": "The anatomy of a datacenter—how Microsoft's datacenter hardware powers the Microsoft Cloud",
-      "excerpt": "Leading hardware engineering at “the” software company is not as strange as it sounds, as the Microsoft Cloud depends on hardware as the foundation of trust, reliability, capacity, and performance, to make it possible for Microsoft and our customers to achieve more.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/the-anatomy-of-a-datacenter-how-microsofts-datacenter-hardware-powers-the-microsoft-cloud/",
-      "originalUrl": "https://azure.microsoft.com/blog/the-anatomy-of-a-datacenter-how-microsofts-datacenter-hardware-powers-the-microsoft-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/acdf7d3b-44b6-4095-bee0-376c1014eccb.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-09T01:00:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-08-clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.md",
       "title": "Clearview AI commercialization of facial recognition raises concerns, risks",
       "excerpt": "Facial recognition as a service has caught the attention of regulators and litigators. CISOs at companies considering the technology need strong privacy protections in place.",
@@ -114,7 +115,7 @@
       "originalUrl": "https://www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -389,10 +390,10 @@
     {
       "path": "_news/2022-03-04-kmworld-100-companies-that-matter-in-knowledge-management-2022.md",
       "title": "KMWorld 100 Companies That Matter in Knowledge Management 2022",
-      "excerpt": "AvePoint—Offers a full suite of SaaS solutions to migrate, man- age, and protect data in Microsoft 365 ... to automate routine cognitive tasks and provide insights. Infosys—A global provider of next-generation services and consulting that enables ...",
+      "excerpt": "Flexibility, agility, and the ability to pivot continue to be essential characteristics of winning companies. Organizations must have the right tools and products so they can break down information silos,",
       "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943",
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943&hss_channel=tw-90730744",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943&hss_channel=tw-90730744",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -411,7 +412,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T21:01:00-08:00",
+      "publishedDateTime": "2022-03-03T21:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "KMWorld Magazine",

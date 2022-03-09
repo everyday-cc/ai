@@ -108,6 +108,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI Discovery Could Improve Treatment of Spinal Cord Injuries"
+    excerpt: "AI evaluation has found a method of treating spinal cord injuries that could improve outcomes in recently injured patients."
+    publishedDateTime: 2022-03-09T15:04:00Z
+    webUrl: "https://www.extremetech.com/extreme/332542-ai-discovery-could-improve-treatment-of-spinal-cord-injuries"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 37
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2022/03/ExtremeTech-formatter-1-640x353.jpg"
+        width: 640
+        height: 353
+        isCached: true
   - title: "Growth Opportunities in API, Analytics, Cloud, O-RAN, and Artificial Intelligence 2021 - AI-Powered Video Security Platform to Offer Human-Like Percep"
     excerpt: "The \"Growth Opportunities in API, Analytics, Cloud, O-RAN, and Artificial Intelligence\" report has been added to ResearchAndMarkets.com's offering. This report provides a snapshot of the emerging ICT led innovations in API,"
     publishedDateTime: 2022-03-07T15:30:00Z

@@ -41,7 +41,7 @@ related:
     provider:
       name: theregister
       domain: theregister.com
-    quality: 75
+    quality: 77
     images:
       - url: "https://regmedia.co.uk/2017/01/07/hal.jpg"
         width: 648

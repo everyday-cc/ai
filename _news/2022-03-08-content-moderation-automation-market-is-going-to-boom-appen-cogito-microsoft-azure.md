@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft opens Azure-based Startups Founders Hub, easing eligibility rules"
+    excerpt: "Successful applicants to Microsoft’s Startups Founders Hub will be rewarded with Azure and OpenAI credits, and free access to productivity and developer tools including GitHub and Microsoft 365."
+    publishedDateTime: 2022-03-09T17:58:00Z
+    webUrl: "https://www.infoworld.com/article/3653229/microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.html"
+    ampWebUrl: "https://www.infoworld.com/article/3653229/microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3653229/microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 102
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/07/coders_developers_hackers_programmers_asian_women_by_startup_stock_photos_cc0_via_pexels_1200x800-100763341-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Microsoft Completes Nuance Acquisition to Enhance Healthcare AI"
+    excerpt: "The acquisition will allow Microsoft to leverage artificial intelligence technology for better patient outcomes and more affordable healthcare."
+    publishedDateTime: 2022-03-09T13:48:00Z
+    webUrl: "https://hitinfrastructure.com/news/microsoft-completes-nuance-acquisition-to-enhance-healthcare-ai"
+    ampWebUrl: "https://hitinfrastructure.com/news/amp/microsoft-completes-nuance-acquisition-to-enhance-healthcare-ai"
+    cdnAmpWebUrl: "https://hitinfrastructure-com.cdn.ampproject.org/c/s/hitinfrastructure.com/news/amp/microsoft-completes-nuance-acquisition-to-enhance-healthcare-ai"
+    type: article
+    provider:
+      name: hitinfrastructure
+      domain: hitinfrastructure.com
+    quality: 91
+    images:
+      - url: "http://hitinfrastructure.com/images/sized/IMB_Watson-acd7440028230b8389b55bf2b8469e29.jpg"
+        width: 480
+        height: 275
+        isCached: true
   - title: "The anatomy of a datacenter—how Microsoft's datacenter hardware powers the Microsoft Cloud"
     excerpt: "Leading hardware engineering at “the” software company is not as strange as it sounds, as the Microsoft Cloud depends on hardware as the foundation of trust, reliability, capacity, and performance, to make it possible for Microsoft and our customers to achieve more."
     publishedDateTime: 2022-03-09T09:00:13Z
@@ -66,34 +98,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/What-does-Microsoft-want-to-achieve-with-Singularity.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Microsoft announces Virtual Data & AI Conference, Microsoft DataNext: Putting AI Innovation into Action"
-    excerpt: "Microsoft, in association with Analytics India Magazine, has announced a first-of-its-kind virtual summit, ‘DataNext: Putting AI innovation into action’"
-    publishedDateTime: 2022-03-08T11:36:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-announces-virtual-data-ai-conference-microsoft-datanext-putting-ai-innovation-into-action/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 38
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/webpc-passthru.php?src=https://analyticsindiamag.com/wp-content/uploads/2022/03/Microsoft-DataNext-Article-Banner_2.jpg&nocache=1"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "AI in Fintech Market Study of Competitive Landscape And Recent Trends By 2027 | IBM, Intel, IPsoft, Microsoft, AWS, Nuance Communications, Google"
-    excerpt: "According to Data Bridge Market Research new analysis, The Global AI in Fintech Market analysis provides a high-level summary of classification, competition, and strategic actions taken in recent years. For a global scenario, the global AI in Fintech ..."
-    publishedDateTime: 2022-03-07T12:36:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-study-of-competitive-landscape-and-recent-trends-by-2027-ibm-intel-ipsoft-microsoft-aws-nuance-communications-google"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 36
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-Peace-Protest-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "YNtQcYkOZsO/FvTfemb7R2z1y8zkFnMjpi2YDlPo4Vb146nmyOPq0uxQSinTrppJJGxJrws3gUN2Q7UYegqsYNvTaquHO57SOjOgA8+y3c6ZXXwyWn855VBqb/aIYGy0k221AV5Gb8VN1AE/mPckULpsdczhiWYBmcd1fkxgx4M13z6HtC1Nr7c6s7siF/p1MRJxuuFD6J3efRtPc1P6WS8Z9r6NiFEWWzaK3Wy9fekcYiDhEtT1w4vH9SPEea1h+21PNK5d1zuTuT8XZPjoQDNwTgeXYIUSKze3wsTGBuMQKNvnVvwz5yyRKmQKIJ8Nu0x+MxbNn9An0ShpARYyXbItjfQGM2SiRQ3ZR/rm438=;szU19aVXodptuBfIjBzr4Q=="

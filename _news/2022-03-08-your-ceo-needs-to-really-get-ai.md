@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2022/03/07/your-ceo-needs-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2022/03/07/your-ceo-needs-to-really-get-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Shifting Our Technology Focus To What Really Matters With Worker-Centric AI"
+    excerpt: "We’ve made great strides utilizing AI, but a technology gap exists at the cornerstone of safety. It’s time we shift our technology focus to the most important asset — our people — with worker-centric AI."
+    publishedDateTime: 2022-03-09T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/09/shifting-our-technology-focus-to-what-really-matters-with-worker-centric-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/09/shifting-our-technology-focus-to-what-really-matters-with-worker-centric-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/09/shifting-our-technology-focus-to-what-really-matters-with-worker-centric-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62276aa24670983edd516b89/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "5 Stocks to Get Your Feet Wet in Emerging AI"
     excerpt: "Motley Fool contributors Trevor Jennewine, Billy Duberstein, Jose Najarro, and Will Healy list some of their favorite stocks to play artificial intelligence technology. Our award-winning analyst team has spent more than a decade beating the market."
     publishedDateTime: 2022-03-08T18:12:00Z

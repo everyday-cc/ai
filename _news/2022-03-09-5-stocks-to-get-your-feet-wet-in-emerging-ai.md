@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 1749
         isCached: true
+  - title: "Shifting Our Technology Focus To What Really Matters With Worker-Centric AI"
+    excerpt: "We’ve made great strides utilizing AI, but a technology gap exists at the cornerstone of safety. It’s time we shift our technology focus to the most important asset — our people — with worker-centric AI."
+    publishedDateTime: 2022-03-09T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/09/shifting-our-technology-focus-to-what-really-matters-with-worker-centric-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/09/shifting-our-technology-focus-to-what-really-matters-with-worker-centric-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/09/shifting-our-technology-focus-to-what-really-matters-with-worker-centric-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62276aa24670983edd516b89/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "SPOrFMdeUprABQgy3lIB7ferBIp2YKn7n5tLOI3jf3V5TgQT9z7cRDwhatQ0FERLGB9Wmn21tNNEEfwKwnULb75d9WWLHTh2ZM/xuRJRGY617KXEWtmrZ0dbh98DfCAV1CcM+w9I/NAPm3nJrKlyAVXYwAO3VY2bJcYiqJhFFMJHk+s0vrHUahxI38Gq+8LWyZlpS2t4/+KInTm5jbfFpaBzU7V6W8kmNYuG4jJtJZmxJTg7vKvy29HItIdA+ZsZPTbDnrwq/alq4VpKFAlosUqqMPefldfMVd0fTZlWtVMqqNCjkZXR2Wof17awumAmaiCDgwW1XQ5iPFhrzMSlWlhsLXJvVYjkOXfHWcSz+O8=;h8FzO5q4hlZ5rfqtLfddOQ=="
 ---

@@ -1,31 +1,31 @@
 ---
 category: news
 title: "Artificial intelligence and corporate social responsibility can strengthen anti-corruption efforts"
-excerpt: "While social responsibility can help establish a culture founded on transparency and accountability, AI tools can assist companies in implementing these values within the organization."
-publishedDateTime: 2022-03-08T18:56:00Z
-originalUrl: "https://theconversation.com/artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts-177883"
-webUrl: "https://theconversation.com/artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts-177883"
-ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts-177883"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts-177883"
+excerpt: "Canada's ranking among the top 10 countries on the Transparency International Corruption Perception Index gave the impression that Canada was a country relatively clean of corruption."
+publishedDateTime: 2022-03-09T14:45:00Z
+originalUrl: "https://techxplore.com/news/2022-03-artificial-intelligence-corporate-social-responsibility.html"
+webUrl: "https://techxplore.com/news/2022-03-artificial-intelligence-corporate-social-responsibility.html"
+ampWebUrl: "https://techxplore.com/news/2022-03-artificial-intelligence-corporate-social-responsibility.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-artificial-intelligence-corporate-social-responsibility.amp"
 type: article
 quality: 45
 heat: 45
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/450789/original/file-20220308-27-1g7ieyt.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-    width: 320
-    height: 213
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-18.jpg"
+    width: 1356
+    height: 668
     isCached: true
 
-secured: "Iq+MDtKSCk0GVZAob0TPGHoLtgXw2TN4uP9GlsXfQLfWnzxem6BnvtASSG38qlRmhcwRx4PJUH7c+bPKGUIwxeBU/RYCQMhGNe/DHMLsZ6VBQbKm+AqXTZaVU9yXZRX7DyLBkuSdzCZ2RVm0kbC/8yXunmbL8za8fmkF7oIfw1rb2plgT7u+MwAl4pmClOKK6j5BplVktBzRYN3LSJWPcAgHs/RAnaBMbJNn4d1lnCvf+MzR1fOqN70LYXDChds7UBb99OvcBZaSa1gBZh4RC2tWjrMN+CP3jOYCWG/i7cd1tsEb7U0jtKyd63kO9Z5A9EMlAY8s+NDnAqdcy9i8jvVM7JylMJ7A6IOrLJgCoWY=;KIZPNP2ns3GgNEoUwl61ug=="
+secured: "EQX0c7bJsEiVdJWJfkdjEVF2E0xG0tMEyMqzIB0m+kmihlWXjXmx8a0gSnkcmX/8WH3vfyC7jG63R7Fy/T+h074JzjP31GARDLEjEGx+jUyHQMbATF9vYc0cJBPf2oCYL4vyNbG+PBN/qfiiGuMp0+gd/RYx8swH4MHUCK4nvKRlkJpmuUW8q0NW7vQoBMEoXQWYcINJL2sOi8Lr0bCgLp1lsRwbi4NgK/W2QmZaAuqYg85vOI5AhFsuhUiHk5EX3bIYBDZNkaK26/KbJGv4Vn3mAOGSGfh7y885/Z8C+teBIMBqStqNZd7GI/+rXEj541cZ8Mwryw7vvz/3UQdpVGR9Zf+QllnVOG1MP8EuAUo=;XX+TR28NFjVr7zQotjCEsQ=="
 ---
 

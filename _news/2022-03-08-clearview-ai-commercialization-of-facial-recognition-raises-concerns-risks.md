@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/3651455/clearview-ai-commercializa
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.amp.html"
 type: article
 quality: 74
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -43,6 +43,36 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5YWUVKPMO5ATFBZ2WOM43Z7B7M.png"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Facial recognition technology is a direct assault on privacy and civil liberties | Opinion"
+    excerpt: "The ACLU of N.J. is among a coalition of organizations opposed to facial technology in law enforcement and is urging the attorney general to ban it."
+    publishedDateTime: 2022-03-09T16:57:00Z
+    webUrl: "https://www.nj.com/opinion/2022/03/facial-recognition-technology-is-a-direct-assault-on-our-privacy-and-civil-liberties-opinion.html"
+    ampWebUrl: "https://www.nj.com/opinion/2022/03/facial-recognition-technology-is-a-direct-assault-on-our-privacy-and-civil-liberties-opinion.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/opinion/2022/03/facial-recognition-technology-is-a-direct-assault-on-our-privacy-and-civil-liberties-opinion.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 49
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5YWUVKPMO5ATFBZ2WOM43Z7B7M.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Italy fines US facial recognition firm"
+    excerpt: "Italy’s data privacy watchdog on Wednesday fined US-based firm Clearview AI 20 million euros (almost $22 million) over its controversial facial recognition software. The watchdog ordered the company to delete data relating to people in Italy and banned it from further collection and processing of information there."
+    publishedDateTime: 2022-03-09T16:22:00Z
+    webUrl: "https://www.macaubusiness.com/italy-fines-us-facial-recognition-firm/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 39
+    images:
+      - url: "https://mbusiness.sgp1.digitaloceanspaces.com/2019/12/Grand_Hyatt_Macau_logo3.png"
+        width: 516
+        height: 516
         isCached: true
 
 secured: "GdSpMJbd06ob818ecNGCmiByhW3pGwg6HmgBeVulLhL5K1/1yTC0t6vpmDP6/0fVn7H+7+kxxBjcnjY0q9PxR7sdHqCQ32hoFhR2YZ5hCLw/NMVxDLxpM7DnLCY7KQqOZgLQnHkLqEU8acb/FQxZtDdXwGFC5gz529mUjoZkgsuWP3ssO25GeAF9x1iUCmEV1w0GB0408ezXy9Sr/f/Ie6p4MSBJEhONfJnaq7s0Gu+zdJUjF+ygj7KYuUWuSbofJDKys+pmWizhi3xURkLHddioA3SJV2jwyZu0hBbZKRe0qFt5yVym+1CiyQu4QCO056xxXelosJv12gXXxnPvleNjW5vsCVmCiH5+53D5hyk=;sfVMV5yBPlZ16TyqobE7Kw=="

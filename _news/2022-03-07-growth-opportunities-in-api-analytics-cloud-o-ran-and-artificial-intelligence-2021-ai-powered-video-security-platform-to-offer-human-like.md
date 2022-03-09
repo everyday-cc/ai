@@ -122,6 +122,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "AI Discovery Could Improve Treatment of Spinal Cord Injuries"
+    excerpt: "AI evaluation has found a method of treating spinal cord injuries that could improve outcomes in recently injured patients."
+    publishedDateTime: 2022-03-09T15:04:00Z
+    webUrl: "https://www.extremetech.com/extreme/332542-ai-discovery-could-improve-treatment-of-spinal-cord-injuries"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 37
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2022/03/ExtremeTech-formatter-1-640x353.jpg"
+        width: 640
+        height: 353
+        isCached: true
 
 secured: "jMR1oCvEnknrrEFFyy1qHYOei7eZ5/dcPOmId8FtrS8O5d0gVcw8SC7jw82A/ZWg4V9PXhjX56ttDJw4aT07iFAoZu5B2jcg+GW9+5ZiaTs2Igb+i0ZfCeqomYmxWS+saKeJ9EP7EkBtnpE9H/wUl4mmd2v7XYLd2FA0hRg7l4PiTUy+KbpnJW90Bc5e+9CuVqdC/NgC7MPVj1v7GGutP8abzLOBGOAvy6XIO1TvXiF2hcsdidkq0JhM8uqLy+g0WCst2+KbR0axxEsKdhVDcWxJmc6U2a0FoI/4ySmpIREYEwxhfNx64eJ+u+ndubW+jz/M+cuX93SJ8qgpgjbDRtLRDMeKhDepAUKzpQDaVXo=;UsDOTlFxwMqVAsXQOGGz1Q=="
 ---

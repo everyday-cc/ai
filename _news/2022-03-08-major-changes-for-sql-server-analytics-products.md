@@ -25,28 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Blue.Cloud Obtains AI Implementation Capabilities From Analytics Leader Koçdigital"
-    excerpt: "Global cloud-only digital transformation company Blue.cloud, announced today that it has obtained AI implementation capabilities from the leading artificial intelligence provider in Turkey ..."
-    publishedDateTime: 2022-03-08T16:26:00Z
-    webUrl: "https://venturebeat.com/2022/03/08/blue-cloud-obtains-ai-implementation-capabilities-from-analytics-leader-kocdigital/"
+  - title: "Transforming qualitative research by automating speech to text-to-text analytics"
+    excerpt: "This post is authored by Satish Jha, Intelligent Automation Manager, Matt Docherty, Data Science Manager, Jayesh Muley, Associate Consultant and Tapan Vora, Rapid Prototyping, from ZS Associates. At ZS Associates, we do a significant amount of qualitative market research. The work involves interviewing"
+    publishedDateTime: 2022-03-09T17:40:21Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/transforming-qualitative-research-by-automating-speech-to-text-to-text-analytics/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 41
-  - title: "Vijay Mehra EQT Discusses How Analytics and AI Contribute to Finding Undervalued Real Estate Investments"
-    excerpt: "Its no secret that data and analytics are playing an increasingly important role in the world of real estate. By harnessing the power of big data, investors and analysts can make better decisions about where to"
-    publishedDateTime: 2022-03-05T13:50:00Z
-    webUrl: "https://www.econotimes.com/Vijay-Mehra-EQT-Discusses-How-Analytics-and-AI-Contribute-to-Finding-Undervalued-Real-Estate-Investments-1628569"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 20
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
     images:
-      - url: "https://www.econotimes.com/assets/images/econotimes/metaDefault2.png"
-        width: 400
-        height: 330
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/25/ML-6161-image005.jpg"
+        width: 626
+        height: 284
+        isCached: true
+  - title: "Cognitive Analytics Market Giants Spending Is Going To Boom | Google, IBM, Oracle"
+    excerpt: "Advance Market Analytics published a new research publication on “Cognitive Analytics Market Insights, to 2027” with 232 pages and enriched"
+    publishedDateTime: 2022-03-08T07:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cognitive-analytics-market-giants-spending-is-going-to-boom-google-ibm-oracle"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-Kyiv-AFP-1K-04-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "o7jcu57M2guQ7TkZ+ZQ6q/+urwg+jF9WPoDqWE2V775jBE8YnLZoQop/pV7r+/EumHMAiUy7+t1eqLRLmYySiKIJCo9tDm/5caJmyQP2KtusCKFtWvPgvJ0TblNdO5KWImLobO3bLdgpuxStHKH8yyrwkQ/wDZRc8zTXxjglXNgOca8ZLIe32yACCYtHrBT8sdcWJpZ037xe2B9uK7f9lHuXIQmEqp9gOHMNjM5Hpw0/oBEOheq5jX9Ol8T60Hv7GvYj5qbfD8w8UKHXbvXfgsnkaYuyc6a3qTWUz+KkQPkooy0ymefOci/LOXleIp21A+Ear+yGvA/8JC2ktEVU+UOU4naEW8YBrTnXISYOi40=;ZMEM4nYBwhomYG9V/BeXQw=="

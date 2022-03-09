@@ -2,6 +2,299 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-09-amazon-sagemaker-autopilot-now-supports-time-series-data.md",
+      "title": "Amazon SageMaker Autopilot now supports time series data",
+      "excerpt": "Amazon SageMaker Autopilot automatically builds, trains, and tunes the best machine learning (ML) models based on your data, while allowing you to maintain full control and visibility. We have recently announced support for time series data in Autopilot. You can use Autopilot to tackle regression and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-autopilot-now-supports-time-series-data/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-autopilot-now-supports-time-series-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/02/ML-7246-image011-1-1142x630.png",
+          "width": 1142,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T10:56:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-ambi-robotics-and-pitney-bowes-sign-23-million-expansion.md",
+      "title": "Ambi Robotics and Pitney Bowes sign $23 million expansion",
+      "excerpt": "Ambi Robotics, the creator of the AmbiSort robotic sorting solution, and Pitney Bowes, a global shipping and mailing company, signed a $23 million expansion deal. Pitney Bowes will make the investment over the next four years in Robot as a Service (RaaS) fees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/ambi-robotics-and-pitney-bowes-sign-23-million-expansion/",
+      "originalUrl": "https://www.therobotreport.com/ambi-robotics-and-pitney-bowes-sign-23-million-expansion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/03/featured-web-ambisort.jpg",
+          "width": 700,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.md",
+      "title": "Microsoft opens Azure-based Startups Founders Hub, easing eligibility rules",
+      "excerpt": "Successful applicants to Microsoft’s Startups Founders Hub will be rewarded with Azure and OpenAI credits, and free access to productivity and developer tools including GitHub and Microsoft 365.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3653229/microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.html",
+      "originalUrl": "https://www.infoworld.com/article/3653229/microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/07/coders_developers_hackers_programmers_asian_women_by_startup_stock_photos_cc0_via_pexels_1200x800-100763341-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3653229/microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3653229/microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.amp.html",
+      "publishedDateTime": "2022-03-09T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-09-transforming-qualitative-research-by-automating-speech-to-text-to-text-analytics.md",
+      "title": "Transforming qualitative research by automating speech to text-to-text analytics",
+      "excerpt": "This post is authored by Satish Jha, Intelligent Automation Manager, Matt Docherty, Data Science Manager, Jayesh Muley, Associate Consultant and Tapan Vora, Rapid Prototyping, from ZS Associates. At ZS Associates, we do a significant amount of qualitative market research. The work involves interviewing",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/transforming-qualitative-research-by-automating-speech-to-text-to-text-analytics/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transforming-qualitative-research-by-automating-speech-to-text-to-text-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/25/ML-6161-image005.jpg",
+          "width": 626,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T09:40:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-fintech-lender-lendai-raises-35m-for-ai-based-platform-to-enable-foreign-investors-to-buy-us-real-estate.md",
+      "title": "Fintech lender Lendai raises $35M for AI-based platform to enable foreign investors to buy US real estate",
+      "excerpt": "Proceeds from the equity and debt seed funding will help Lendai expand its presence in foreign investor markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/finance/investing/fintech-lender-lendai-raises-35m-for-ai-based-platform-to-enable-foreign-investors-to-buy-us-real-estate/",
+      "originalUrl": "https://www.zdnet.com/finance/investing/fintech-lender-lendai-raises-35m-for-ai-based-platform-to-enable-foreign-investors-to-buy-us-real-estate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/finance/investing/fintech-lender-lendai-raises-35m-for-ai-based-platform-to-enable-foreign-investors-to-buy-us-real-estate/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/investing/fintech-lender-lendai-raises-35m-for-ai-based-platform-to-enable-foreign-investors-to-buy-us-real-estate/",
+      "publishedDateTime": "2022-03-09T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live.md",
+      "title": "Hear how Snorkel AI pitched and won over Greylock on TechCrunch Live",
+      "excerpt": "Snorkel AI was founded in the summer of 2019 and over two quick years raised a total of $135.3 million in funding over five rounds. The rocket ship seemingly still has fuel, too. The company isn’t slowing down,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/09/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/",
+      "originalUrl": "https://techcrunch.com/2022/03/09/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/TCL-2022-03-09-featured-1920x1080-1-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/09/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/09/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/amp/",
+      "publishedDateTime": "2022-03-09T08:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-10-deepmind-claims-its-ai-can-decipher-ancient-greek-texts-from-damaged-artifacts.md",
       "title": "DeepMind claims its AI can decipher ancient Greek texts from damaged artifacts",
       "excerpt": "DeepMind says it has developed a system called Ithaca that can restore ancient Greek texts from damaged artifacts.",
@@ -10,7 +303,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/09/deepmind-claims-its-ai-can-decipher-ancient-greek-texts-from-damaged-artifacts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -210,21 +503,21 @@
       ]
     },
     {
-      "path": "_news/2022-03-09-self-driving-company-kodiak-robotics-hauls-freight-for-ceva-in-texas-oklahoma.md",
-      "title": "Self-driving company Kodiak Robotics hauls freight for CEVA in Texas, Oklahoma",
-      "excerpt": "Kodiak Robotics on Wednesday said it has partnered with France-based CEVA Logistics to transport freight in self-driving trucks across Texas and Oklahoma, marking the latest autonomous trucking partnership in the region.",
+      "path": "_news/2022-03-09-ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes.md",
+      "title": "Ceva Logistics Teams With Kodiak Robotics On Self-Driving Routes",
+      "excerpt": "CEVA and Kodiak launched its Dallas-Fort Worth to Austion service in November 2021. They expanded last month with a new route between Dallas-Fort Worth and Oklahoma City on the I-35 corridor.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/self-driving-company-kodiak-robotics-hauls-freight-ceva-texas-oklahoma-2022-03-09/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/self-driving-company-kodiak-robotics-hauls-freight-ceva-texas-oklahoma-2022-03-09/",
+      "webUrl": "https://www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/",
+      "originalUrl": "https://www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 116,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=79",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6228e548fe480cb68f2edc8a/0x0.jpg?format=jpg&width=1200&fit=bounds",
           "width": 1200,
-          "height": 628,
+          "height": 733,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -232,16 +525,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-09T04:03:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/amp/",
+      "publishedDateTime": "2022-03-09T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -263,21 +556,21 @@
       ]
     },
     {
-      "path": "_news/2022-03-09-the-anatomy-of-a-datacenterhow-microsofts-datacenter-hardware-powers-the-microsoft-cloud.md",
-      "title": "The anatomy of a datacenter—how Microsoft's datacenter hardware powers the Microsoft Cloud",
-      "excerpt": "Leading hardware engineering at “the” software company is not as strange as it sounds, as the Microsoft Cloud depends on hardware as the foundation of trust, reliability, capacity, and performance, to make it possible for Microsoft and our customers to achieve more.",
+      "path": "_news/2022-03-09-predicting-the-past-with-ithaca.md",
+      "title": "Predicting the past with Ithaca",
+      "excerpt": "Restoring, placing and dating ancient texts through collaboration between AI and historians.",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/the-anatomy-of-a-datacenter-how-microsofts-datacenter-hardware-powers-the-microsoft-cloud/",
-      "originalUrl": "https://azure.microsoft.com/blog/the-anatomy-of-a-datacenter-how-microsofts-datacenter-hardware-powers-the-microsoft-cloud/",
+      "webUrl": "https://deepmind.com/blog/article/Predicting-the-past-with-Ithaca",
+      "originalUrl": "https://deepmind.com/blog/article/Predicting-the-past-with-Ithaca",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/acdf7d3b-44b6-4095-bee0-376c1014eccb.jpg",
-          "width": 1024,
-          "height": 683,
+          "url": "https://lh3.googleusercontent.com/7pHp20oChCga-7e2QR2jlbMnfZPVRzMp2HAKkzw9WGLYI3oyJKf2Czhn-I3ra5AqHmI_6WVUQKsiFy3d8DHwlPosD6jVISBa6XPCi-wVq94CdPLq8Q",
+          "width": 512,
+          "height": 288,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -287,14 +580,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-09T01:00:13-08:00",
+      "publishedDateTime": "2022-03-08T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
+        "name": "DeepMind",
+        "domain": "deepmind.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -310,7 +603,8 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI"
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -373,7 +667,7 @@
       "originalUrl": "https://techcrunch.com/2022/03/08/pony-ai-to-issue-recall-of-autonomous-driving-software/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 217,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -457,58 +751,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-how-the-barcode-registry-detects-counterfeit-products-using-object-detection-and-amazon-sagemaker.md",
-      "title": "How The Barcode Registry detects counterfeit products using object detection and Amazon SageMaker",
-      "excerpt": "This is a guest post authored by Andrew Masek, Software Engineer at The Barcode Registry and Erik Quisling, CEO of The Barcode Registry. Product counterfeiting is the single largest criminal enterprise in the world. Growing over 10,000% in the last two decades, sales of counterfeit goods now total $1.7",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-the-barcode-registry-detects-counterfeit-products-using-object-detection-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-the-barcode-registry-detects-counterfeit-products-using-object-detection-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/08/ML-6272-image012.jpg",
-          "width": 650,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-08T09:38:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -991,247 +1233,6 @@
         "name": "blocksandfiles",
         "domain": "blocksandfiles.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-treasure-data-cdp-now-available-in-aws-marketplace.md",
-      "title": "Treasure Data CDP Now Available in AWS Marketplace",
-      "excerpt": "Treasure Data announced its availability in AWS Marketplace, a digital catalog with thousands of software listings from independent software",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/treasure-data-cdp-now-available-in-aws-marketplace/",
-      "originalUrl": "https://enterprisetalk.com/news/treasure-data-cdp-now-available-in-aws-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/03/Treasure-Data-CDP-Now-Available-in-AWS-Marketplace-To-Meet-Growing-Customer-Demand-Globally-01.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/treasure-data-cdp-now-available-in-aws-marketplace/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/treasure-data-cdp-now-available-in-aws-marketplace/amp/",
-      "publishedDateTime": "2022-03-08T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.md",
-      "title": "Clearview AI commercialization of facial recognition raises concerns, risks",
-      "excerpt": "Facial recognition as a service has caught the attention of regulators and litigators. CISOs at companies considering the technology need strong privacy protections in place.",
-      "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.html",
-      "originalUrl": "https://www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/facial_recognition_technology_thinkstock_851960116-100749431-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.amp.html",
-      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.amp.html",
-      "publishedDateTime": "2022-03-08T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-technical-leaders-agree-ai-is-now-a-necessity-to-compete.md",
-      "title": "Technical leaders agree: AI is now a necessity to compete",
-      "excerpt": "AI is enabling new experiences everywhere. When people watch a captioned video on their phone, search for information online, or receive customer assistance from a virtual agent, AI is at the heart of those experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/technical-leaders-agree-ai-is-now-a-necessity-to-compete/",
-      "originalUrl": "https://azure.microsoft.com/blog/technical-leaders-agree-ai-is-now-a-necessity-to-compete/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fb25dda4-b8d3-4d62-8dbc-25a2ed930d44.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-08T01:00:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-zoox-acqui-hires-team-from-robotic-strawberry-picking-startup-strioai.md",
-      "title": "Zoox acqui-hires team from robotic strawberry-picking startup, Strio.AI",
-      "excerpt": "Amazon-owned robotaxi firm Zoox this week announced that it has acquired Strio.AI. The Boston-based robotics startup was founded in 2020 by MIT alumns to bring autonomous picking and pruning to strawberry crops.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/07/zoox-acqui-hires-team-from-robotic-strawberry-picking-startup-strio-ai/",
-      "originalUrl": "https://techcrunch.com/2022/03/07/zoox-acqui-hires-team-from-robotic-strawberry-picking-startup-strio-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/zoox_strio_fieldday-1000x666-1.jpeg?w=1000",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/07/zoox-acqui-hires-team-from-robotic-strawberry-picking-startup-strio-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/07/zoox-acqui-hires-team-from-robotic-strawberry-picking-startup-strio-ai/amp/",
-      "publishedDateTime": "2022-03-07T16:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-what-business-executives-need-to-know-about-ai.md",
-      "title": "What business executives need to know about AI",
-      "excerpt": "For most of the c-suite, even those running the IT side of the house, AI is still a mystery. The basic idea is simple enough but the details surrounding its components, implementation, integration and ultimate purpose are a bit more complicated.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/07/artificial-intelligence/",
-      "originalUrl": "https://venturebeat.com/2022/03/07/artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/2-numismatic-genesis-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/07/artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/07/artificial-intelligence/amp/",
-      "publishedDateTime": "2022-03-07T12:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

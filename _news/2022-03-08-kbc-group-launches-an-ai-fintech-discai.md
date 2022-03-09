@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech lender Lendai raises $35M for AI-based platform to enable foreign investors to buy US real estate"
+    excerpt: "Proceeds from the equity and debt seed funding will help Lendai expand its presence in foreign investor markets."
+    publishedDateTime: 2022-03-09T16:40:00Z
+    webUrl: "https://www.zdnet.com/finance/investing/fintech-lender-lendai-raises-35m-for-ai-based-platform-to-enable-foreign-investors-to-buy-us-real-estate/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/finance/investing/fintech-lender-lendai-raises-35m-for-ai-based-platform-to-enable-foreign-investors-to-buy-us-real-estate/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/investing/fintech-lender-lendai-raises-35m-for-ai-based-platform-to-enable-foreign-investors-to-buy-us-real-estate/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 52
   - title: "KBC Group launches its own AI fintech, DISCAI, a separate legal entity."
     excerpt: "Regulated information* Brussels, 7 March 2022 8.00 a.m. CET KBC Group launches its own AI fintech, DISCAI, a separate"
     publishedDateTime: 2022-03-07T06:00:00Z
@@ -39,15 +50,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "KBC Groep: KBC Group launches its own AI fintech, DISCAI, a separate legal entity."
-    excerpt: "Joint Press release Outside trading hours - Regulated information* Brussels, 7 March 2022 8.00 a.m. CET KBC Group launches its own AI fintech, DISCAI, a separate legal entity. Through"
-    publishedDateTime: 2022-03-07T06:00:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-03/55424386-kbc-groep-kbc-group-launches-its-own-ai-fintech-discai-a-separate-legal-entity-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 13
 
 secured: "LXmu8+Y6gh7oOt7vLT4ieBpUmnpewhVnn7nAH8BC593P2KW6Lal9T8lbO2EEA2NZXtAwDRdLhPAji5UpiQ47emiRC+CgxF6VUOEAYlpZ7oDS7t73nnC2hTTFyqa4TuBq6GxnwonVDA7P5n/336eZGVA3ETPNBnrnu8OezskE1p/CZnZJLsMwKseCczdqEgHlVyzQtnX1bk7OSp/iyp6s/SXHd+Xj0pLxhUKve3G7XBYHauuXnjG1iuCXCZq4RiwguKRWDgMy/M3Bpc3aVPmMcZU49S23B0UX3lmwdKQ1BS4eXALj35rYnrkPcaWnZFOpxeoDSTjs2RnTlE8zLjOcEQQKKq6NNlGlksp/ipzg+ms=;bRXNXbdaOIHpl2sSXdI0mA=="
 ---

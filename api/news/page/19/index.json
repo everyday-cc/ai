@@ -2,6 +2,346 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-02-19-this-ai-can-control-the-sun-hot-plasma-in-a-nuclear-fusion-reactor.md",
+      "title": "This AI Can Control the Sun-Hot Plasma in a Nuclear Fusion Reactor",
+      "excerpt": "Google’s AI powerhouse DeepMind has made news again by using artificial intelligence (AI) to help shape the sun-hot plasma stream contained in a tokamak nuclear fusion reactor. The DeepMind team ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.popularmechanics.com/science/energy/a39124779/deepmind-ai-controls-plasma-nuclear-fusion-reactor/",
+      "originalUrl": "https://www.popularmechanics.com/science/energy/a39124779/deepmind-ai-controls-plasma-nuclear-fusion-reactor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2022-02-18-at-11-54-11-am-1645203279.png?crop=1.00xw:0.897xh;0,0.103xh&resize=1200:*",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-18T17:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Mechanics",
+        "domain": "popularmechanics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-19-the-best-tools-for-developing-voice-user-interfaces.md",
+      "title": "The best tools for developing voice user interfaces",
+      "excerpt": "While Annyang only handles the NLP side of the equation, it does so with an open source, MIT-licensed, Javascript speech recognition library that weighs in under two kilobytes and runs entirely client side. This can be quite a boon when you are building an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/the-best-tools-for-developing-voice-user-interfaces/",
+      "originalUrl": "https://www.techrepublic.com/article/the-best-tools-for-developing-voice-user-interfaces/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/02/Noggin_RUBBLE_iPad4.jpg?x23932",
+          "width": 1075,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/the-best-tools-for-developing-voice-user-interfaces/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/the-best-tools-for-developing-voice-user-interfaces/amp/",
+      "publishedDateTime": "2022-02-18T15:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-19-artificial-intelligence-may-already-be-slightly-conscious-ai-scientists-warn.md",
+      "title": "Artificial intelligence may already be ‘slightly conscious’, AI scientists warn",
+      "excerpt": "study warns Google’s DeepMind AI can now manipulate nuclear fusion New AI chip rewires itself to learn continuously - just like a human brain “Seeing so many prominent machine learning folks ridiculing this idea is disappointing,” he tweeted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/artificial-intelligence-conciousness-ai-deepmind-b2017393.html?amp",
+      "originalUrl": "https://www.independent.co.uk/tech/artificial-intelligence-conciousness-ai-deepmind-b2017393.html?amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/02/17/14/artificial%20intelligence%20conscious%20ai.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/tech/artificial-intelligence-conciousness-ai-deepmind-b2017393.html?amp",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/artificial-intelligence-conciousness-ai-deepmind-b2017393.html?amp",
+      "publishedDateTime": "2022-02-18T14:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-02-19-deepmind-scientists-say-they-trained-an-ai-to-control-a-nuclear-fusion-reactor.md",
+      "title": "DeepMind scientists say they trained an A.I. to control a nuclear fusion reactor",
+      "excerpt": "DeepMind claimed that the breakthrough, published in the journal Nature, could open new avenues that advance nuclear fusion research. In this article Scientists at DeepMind have found another real ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/02/18/deepmind-scientists-trained-an-ai-to-control-nuclear-fusion-.html",
+      "originalUrl": "https://www.cnbc.com/2022/02/18/deepmind-scientists-trained-an-ai-to-control-nuclear-fusion-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106971248-1636102203025-gettyimages-1155768576-AFP_1IS4CD.jpeg?v=1645172412",
+          "width": 4488,
+          "height": 2992,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/02/18/deepmind-scientists-trained-an-ai-to-control-nuclear-fusion-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/18/deepmind-scientists-trained-an-ai-to-control-nuclear-fusion-.html",
+      "publishedDateTime": "2022-02-18T14:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-19-palantir-stock-is-not-a-buy-yet.md",
+      "title": "Palantir Stock Is Not a Buy Yet",
+      "excerpt": "In other words, the company has an interesting hybrid model that pairs AI with human expertise. It contrasts starkly with, for example, IBM’s (NYSE:IBM) Watson AI system, which is almost ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2022/02/palantir-stock-is-not-a-buy-yet/",
+      "originalUrl": "https://investorplace.com/2022/02/palantir-stock-is-not-a-buy-yet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2021/04/pltr-stock-3.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2022/02/palantir-stock-is-not-a-buy-yet/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/02/palantir-stock-is-not-a-buy-yet/amp/",
+      "publishedDateTime": "2022-02-18T14:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-19-gm-seeks-us-approval-to-deploy-self-driving-vehicles.md",
+      "title": "GM seeks U.S approval to deploy self-driving vehicles",
+      "excerpt": "WASHINGTON, Feb 18 (Reuters) - General Motors Co (GM.N) and its self-driving technology unit Cruise have petitioned U.S. regulators for permission to build and deploy a self-driving vehicle without human controls like steering wheels or brake pedals ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/gm-seeks-us-approval-deploy-self-driving-vehicle-2022-02-18/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/gm-seeks-us-approval-deploy-self-driving-vehicle-2022-02-18/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/FsE-kcUYSmJ27scAV9t6fzlptcM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/G6UH5UE27JISPBGFO6JPAO5XP4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-18T12:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-19-deci-simplifies-deep-learning-apps-on-cpus.md",
+      "title": "Deci simplifies deep learning apps on CPUs",
+      "excerpt": "Deci, has positioned itself as a deep-learning software provider that uses AI to build AI-powered apps, classification models, dubbed DeciNets, specifically for servers using Intel Cascade Lake ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-on-cpus/",
+      "originalUrl": "https://venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-on-cpus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2012/07/cpu.jpg?w=1200&strip=all",
+          "width": 665,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-on-cpus/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-on-cpus/amp/",
+      "publishedDateTime": "2022-02-18T09:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-02-19-walmart-is-expanding-autonomous-delivery-pilot-with-gms-cruise-this-year.md",
       "title": "Walmart is expanding autonomous delivery pilot with GM’s Cruise this year",
       "excerpt": "Cruise plans to expand the self-driving delivery pilot it has with Walmart in Arizona ... state legislators. The autonomous vehicle company, which is a subsidiary of GM, is mostly focused on ...",
@@ -911,334 +1251,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-this-aws-database-e-training-bundle-is-just-30-this-week.md",
-      "title": "This AWS Database e-training bundle is just $30 this week",
-      "excerpt": "Then the 2022 Amazon Web Services Database Bundle has you covered ... and implementation of a database), migrating information to the cloud, the basics of AWS Rekognition in machine learning, and more. And since the courses are brought to us by skilled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/613357/this-aws-database-e-training-bundle-is-just-30-this-week.html",
-      "originalUrl": "https://www.pcworld.com/article/613357/this-aws-database-e-training-bundle-is-just-30-this-week.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2022/02/sale_310962_article_image.jpeg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/613357/this-aws-database-e-training-bundle-is-just-30-this-week.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/613357/this-aws-database-e-training-bundle-is-just-30-this-week.html/amp",
-      "publishedDateTime": "2022-02-17T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-student-builds-a-clever-ai-model-that-can-translate-sign-language-instantly.md",
-      "title": "Student builds a clever AI model that can translate sign language instantly",
-      "excerpt": "Despite American Sign Language (ASL) having been a major communication ... LinkedIn profile about how she managed to develop an artificial intelligence (AI) model that can translate ASL signings into English instantaneously. She revealed that she developed ...",
-      "sourceUrl": null,
-      "webUrl": "https://sea.mashable.com/tech/19368/student-builds-a-clever-ai-model-that-can-translate-sign-language-instantly",
-      "originalUrl": "https://sea.mashable.com/tech/19368/student-builds-a-clever-ai-model-that-can-translate-sign-language-instantly",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/priyanjali-gupta-asl-ai-header_3qsh.620.png",
-          "width": 620,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sea.mashable.com/tech/19368/student-builds-a-clever-ai-model-that-can-translate-sign-language-instantly?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/19368/student-builds-a-clever-ai-model-that-can-translate-sign-language-instantly?amp=1",
-      "publishedDateTime": "2022-02-17T20:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-keep-diving-keep-changing-the-reason-why-i-dived-into-exawizards-after-working-on-numerous-ai-projects-at-ibm-and-line.md",
-      "title": "Keep diving... Keep changing... The reason why I dived into ExaWizards after working on numerous AI projects at IBM and LINE",
-      "excerpt": "The only company that really said, 'Let's do BrainTech' was ExaWizards.” This is a story that introduces the Wizards who work at ExaWizards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/keep-diving-changing-reason-why-i-dived-exawizards-after-",
-      "originalUrl": "https://www.linkedin.com/pulse/keep-diving-changing-reason-why-i-dived-exawizards-after-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQG0jtUalbZGug/article-cover_image-shrink_720_1280/0/1645156885104?e=1651104000&v=beta&t=y8rxwD15WoWX2y6AsGqxWqTYUUTBLD8GtuiuhqRx3tY",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-17T20:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-robot-grocery-delivery-now-available-in-pleasanton.md",
-      "title": "Robot grocery delivery now available in Pleasanton",
-      "excerpt": "The robots are equipped with an array of cameras and sensors, and use “sophisticated machine learning” and artificial intelligence to travel on sidewalks and avoid obstacles. “The robots can cross streets, climb curbs, travel at night and operate in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesheraldonline.com/2022/02/17/robot-grocery-delivery-east-bay-city-starship-lucky/",
-      "originalUrl": "https://www.timesheraldonline.com/2022/02/17/robot-grocery-delivery-east-bay-city-starship-lucky/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.timesheraldonline.com/wp-content/uploads/2022/02/SJM-L-ROBOTS-0218-01_94218880.jpg?w=1024&h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesheraldonline.com/2022/02/17/robot-grocery-delivery-east-bay-city-starship-lucky/amp/",
-      "cdnAmpWebUrl": "https://www-timesheraldonline-com.cdn.ampproject.org/c/s/www.timesheraldonline.com/2022/02/17/robot-grocery-delivery-east-bay-city-starship-lucky/amp/",
-      "publishedDateTime": "2022-02-17T16:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vallejo Times Herald",
-        "domain": "timesheraldonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-will-ai-transform-religion.md",
-      "title": "Will AI transform religion?",
-      "excerpt": "Experimental developments in technology and how it's changing the way we live. AI is changing how we interact with everything, from food to healthcare, travel and also religion. Experts have been warning for years that it's not a matter of if, but when ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/reel/video/p09z6fnd/god-and-robots-will-ai-transform-religion-",
-      "originalUrl": "https://www.bbc.com/reel/video/p09z6fnd/god-and-robots-will-ai-transform-religion-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ychef.files.bbci.co.uk/1376x774/p09z7zzv.jpg",
-          "width": 1376,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-17T16:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-how-artificial-intelligence-will-transform-businesses.md",
-      "title": "How Artificial Intelligence Will Transform Businesses",
-      "excerpt": "Artificial intelligence has a wide range of uses in ... \"AI is starting to make what was once considered impossible possible, like driverless cars,\" said Russell Glenister, CEO and founder of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
-      "originalUrl": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.business.com/images/content/620/fba7a9c658a684b8b4567/1500-0-",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-robot-tractors-may-be-heading-to-a-farm-near-you.md",
-      "title": "Robot tractors may be heading to a farm near you",
-      "excerpt": "Artificial intelligence, machine learning ... However, he is not sure driverless tractors are right for his family farm. “I’m sure that’s really expensive. And I kind of want to be out ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/01/06/robot-tractors-may-be-heading-to-a-farm-near-you",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/01/06/robot-tractors-may-be-heading-to-a-farm-near-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/01/06/1433425.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

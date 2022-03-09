@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-09-amazon-sagemaker-autopilot-now-supports-time-series-data.md",
+      "title": "Amazon SageMaker Autopilot now supports time series data",
+      "excerpt": "Amazon SageMaker Autopilot automatically builds, trains, and tunes the best machine learning (ML) models based on your data, while allowing you to maintain full control and visibility. We have recently announced support for time series data in Autopilot. You can use Autopilot to tackle regression and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-autopilot-now-supports-time-series-data/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-autopilot-now-supports-time-series-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/02/ML-7246-image011-1-1142x630.png",
+          "width": 1142,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T10:56:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-09-transforming-qualitative-research-by-automating-speech-to-text-to-text-analytics.md",
+      "title": "Transforming qualitative research by automating speech to text-to-text analytics",
+      "excerpt": "This post is authored by Satish Jha, Intelligent Automation Manager, Matt Docherty, Data Science Manager, Jayesh Muley, Associate Consultant and Tapan Vora, Rapid Prototyping, from ZS Associates. At ZS Associates, we do a significant amount of qualitative market research. The work involves interviewing",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/transforming-qualitative-research-by-automating-speech-to-text-to-text-analytics/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transforming-qualitative-research-by-automating-speech-to-text-to-text-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/25/ML-6161-image005.jpg",
+          "width": 626,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T09:40:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-09-in-an-evolving-cloud-world-azure-passes-aws.md",
       "title": "In an evolving cloud world, Azure passes AWS",
       "excerpt": "State of the Cloud survey finds data warehouses, databases, and containers to be the top cloud draws, with serverless and AI/ML rising fast.",
@@ -50,58 +154,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-how-the-barcode-registry-detects-counterfeit-products-using-object-detection-and-amazon-sagemaker.md",
-      "title": "How The Barcode Registry detects counterfeit products using object detection and Amazon SageMaker",
-      "excerpt": "This is a guest post authored by Andrew Masek, Software Engineer at The Barcode Registry and Erik Quisling, CEO of The Barcode Registry. Product counterfeiting is the single largest criminal enterprise in the world. Growing over 10,000% in the last two decades, sales of counterfeit goods now total $1.7",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-the-barcode-registry-detects-counterfeit-products-using-object-detection-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-the-barcode-registry-detects-counterfeit-products-using-object-detection-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/08/ML-6272-image012.jpg",
-          "width": 650,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-08T09:38:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AWS AI"
       ]
@@ -356,15 +408,15 @@
       "title": "Top AWS Executive Rachel Mushahwar Announced as Closing Keynote at Think Innovate 2022 Conference",
       "excerpt": "Think Systems Inc., a privately-owned national management consulting firm that provides both private and public entities with organizational solutions and strategic hiring, is pleased to announce that Rachel Mushahwar,",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/top-aws-executive-rachel-mushahwar-announced-as-closing-keynote-at-think-innovate-2022-conference/article_d2c6ed59-578e-541f-a9ee-4bb2be0ee2f3.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/top-aws-executive-rachel-mushahwar-announced-as-closing-keynote-at-think-innovate-2022-conference/article_d2c6ed59-578e-541f-a9ee-4bb2be0ee2f3.html",
+      "webUrl": "https://www.valdostadailytimes.com/news/business/top-aws-executive-rachel-mushahwar-announced-as-closing-keynote-at-think-innovate-2022-conference/article_a277e2be-99b8-572e-a62b-246dcf2fb11e.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/top-aws-executive-rachel-mushahwar-announced-as-closing-keynote-at-think-innovate-2022-conference/article_a277e2be-99b8-572e-a62b-246dcf2fb11e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/48/c48644c9-3eab-5be4-b878-0fdf7d4d6c82/6220d9adda088.image.jpg?resize=400%2C400",
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/6/e2/6e2d6841-2ae9-5828-abfd-28e25c02d9df/6220dc48a4a45.image.jpg?resize=400%2C400",
           "width": 400,
           "height": 400,
           "title": null,
@@ -376,11 +428,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T06:05:00-08:00",
+      "publishedDateTime": "2022-03-03T06:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -868,19 +920,19 @@
     {
       "path": "_news/2022-02-24-voipfuture-has-joined-aws-isv-accelerate-program.md",
       "title": "Voipfuture Has Joined AWS ISV Accelerate Program",
-      "excerpt": "Voipfuture, a provider of a unique carrier-grade, dual-visibility voice service quality monitoring and analytics solution, has announced today that it has been accepted into the Amazon Web Services (AWS) Independent Software Vendor (ISV) Accelerate Program,",
+      "excerpt": "Voipfuture, a provider of a unique carrier-grade, dual-visibility voice service quality monitoring and analytics solution, has announced today that it has been accepted",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/voipfuture-has-joined-aws-isv-accelerate-program-2022-02-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/voipfuture-has-joined-aws-isv-accelerate-program-2022-02-24",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voipfuture-has-joined-aws-isv-accelerate-program/article_7164cf91-4b6b-5e06-bb41-be033504d8fa.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voipfuture-has-joined-aws-isv-accelerate-program/article_7164cf91-4b6b-5e06-bb41-be033504d8fa.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -893,18 +945,9 @@
       "publishedDateTime": "2022-02-24T05:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1383,59 +1426,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-how-signal-iduna-operationalizes-machine-learning-projects-on-aws.md",
-      "title": "How SIGNAL IDUNA operationalizes machine learning projects on AWS",
-      "excerpt": "This post is co-authored with Jan Paul Assendorp, Thomas Lietzow, Christopher Masch, Alexander Meinert, Dr. Lars Palzer, Jan Schillemans of SIGNAL IDUNA. At SIGNAL IDUNA, a large German insurer, we are currently reinventing ourselves with our transformation program VISION2023 to become even more customer",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-signal-iduna-operationalizes-machine-learning-projects-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-signal-iduna-operationalizes-machine-learning-projects-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/24/ML-4172-image005-1120x630.png",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T12:12:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

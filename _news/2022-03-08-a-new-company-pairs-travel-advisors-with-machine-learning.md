@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-08T05:00:00Z
 originalUrl: "https://www.travelweekly.com/Travel-News/Travel-Agent-Issues/Origin-pairs-advisors-with-machine-learning"
 webUrl: "https://www.travelweekly.com/Travel-News/Travel-Agent-Issues/Origin-pairs-advisors-with-machine-learning"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://ik.imgkit.net/3vlqs5axxjf/TW/uploadedImages/Art/2022/0228/T0228ORIGIN_C_HR.jpg?tr=w-1540%2Ch-866%2Cfo-auto"
