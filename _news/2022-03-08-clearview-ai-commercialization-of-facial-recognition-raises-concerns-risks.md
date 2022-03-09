@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/3651455/clearview-ai-commercializa
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.amp.html"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -74,6 +74,15 @@ related:
         width: 516
         height: 516
         isCached: true
+  - title: "Italy fines US facial recognition firm Clearview AI"
+    excerpt: "The company had also violated several principles of GDPR, a European Union privacy regulation introduced in 2018 to control who can access personal data."
+    publishedDateTime: 2022-03-09T21:01:00Z
+    webUrl: "https://www.courthousenews.com/italy-fines-us-facial-recognition-firm-clearview-ai/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 34
 
 secured: "GdSpMJbd06ob818ecNGCmiByhW3pGwg6HmgBeVulLhL5K1/1yTC0t6vpmDP6/0fVn7H+7+kxxBjcnjY0q9PxR7sdHqCQ32hoFhR2YZ5hCLw/NMVxDLxpM7DnLCY7KQqOZgLQnHkLqEU8acb/FQxZtDdXwGFC5gz529mUjoZkgsuWP3ssO25GeAF9x1iUCmEV1w0GB0408ezXy9Sr/f/Ie6p4MSBJEhONfJnaq7s0Gu+zdJUjF+ygj7KYuUWuSbofJDKys+pmWizhi3xURkLHddioA3SJV2jwyZu0hBbZKRe0qFt5yVym+1CiyQu4QCO056xxXelosJv12gXXxnPvleNjW5vsCVmCiH5+53D5hyk=;sfVMV5yBPlZ16TyqobE7Kw=="
 ---

@@ -57,6 +57,20 @@ related:
         width: 400
         height: 534
         isCached: true
+  - title: "How is FinTech changing the payment process?"
+    excerpt: "Here are five ways these FinTech technologies are changing the payment process for consumers and businesses alike."
+    publishedDateTime: 2022-03-09T21:19:00Z
+    webUrl: "https://techaeris.com/2022/03/09/how-is-fintech-changing-the-payment-process/"
+    type: article
+    provider:
+      name: Techaeris
+      domain: techaeris.com
+    quality: 24
+    images:
+      - url: "https://techaeris.com/wp-content/uploads/2022/03/FinTech-Image.jpg"
+        width: 1170
+        height: 724
+        isCached: true
   - title: "The AI Eye Podcast: GBT's CTO Discusses AI in Fintech Space and Company's New Patent Application for \"Financial Manager\""
     excerpt: "The Financial Technology (Fintech) space is seeing increasingly more adoption of and integration with Artificial Intelligence (AI) applications. Research from Reports and Data finds that globally, the AI in Fintech market is projected to reach $49."
     publishedDateTime: 2022-03-09T13:19:00Z

@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Noble.AI Announces Rollout of AWS GovCloud, Enabling Customers to tackle their most strategic R&D workloads"
-excerpt: "Noble.AI, whose artificial intelligence (AI) software is purpose-built for engineers, scientists and researchers and enables them to innovate and make discoveries faster, today"
-publishedDateTime: 2022-02-23T19:55:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/noble-ai-announces-rollout-of-aws-govcloud-enabling-customers-to-tackle-their-most-strategic-r/article_5400e611-2b04-50c9-b2ef-5743a0d3769a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/noble-ai-announces-rollout-of-aws-govcloud-enabling-customers-to-tackle-their-most-strategic-r/article_5400e611-2b04-50c9-b2ef-5743a0d3769a.html"
+excerpt: "whose artificial intelligence (AI) software is purpose-built for engineers, scientists and researchers and enables them to innovate and make discoveries faster, today announced the rollout of AWS ..."
+publishedDateTime: 2022-02-23T21:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/noble-ai-announces-rollout-of-aws-govcloud-enabling-customers-to-tackle-their-most-strategic-r-d-workloads-1031222944"
+webUrl: "https://markets.businessinsider.com/news/stocks/noble-ai-announces-rollout-of-aws-govcloud-enabling-customers-to-tackle-their-most-strategic-r-d-workloads-1031222944"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/8a/78a0ee68-e18e-56e1-879b-ca2874bfb39f/6082b77e84910.image.jpg?crop=1040%2C546%2C342%2C0&resize=1040%2C546&order=crop%2Cresize"
-    width: 1040
-    height: 546
-    isCached: true
-
-secured: "1wLF2RTcwaNyqrt64PyvJnPqSdezG+a80FwpBha5Imp5AfliJJJ2Iu/SYaRAZW3bnX8Bw4VVbE2hbGsr6MDey6R+eWLnuQmrPExPLLotdKrzbWodjHF+UKGK7cmvKPqEHS/kMO7nwPWM8UFm1Bg96zIZ4FrIKkutQeqUJcswXdvl/VdvFq25Yjmk3metzEkOj4n1ZA3k0c3gTJuFVeNAeDd/Th7aMGZf68fULWnHtlUV4b75HDuxZzIo6wnwb5w8KeFheYDP3eOugbESAb1xf6QSuX/XSpny4E8/XbTKg9U51aRvf140A4GKwC/yZ+qKYiwPikRiTqbB54X+pIyXEOanV5KJh6rFEk8flpIAQyk=;YMl2tglueAB9FVz7/clfUA=="
+secured: "mHchSGRL8OWluAVdjZkGMzB21t/fYlYLiD2c3M07INjfU5ThmTxozxpmH2hWH8YB7nEHNy++1Qtwvl5tsUrUXatkVYG3QW+uCnh6Isq9xpjji+21oMjrpZj0IuNRamyRra9StHJKrrx9s7yahYLUjXuxKAPBKfAznMG++ee+PEXPiaJRLL+wRjyGcaadspcFE5jdeakYkTDsSfKb/CxNJJLskfL7LwIKI2r4J7gUgoFZ8gfGIvVdV/pizhZ077eWJCu9ytvCr6QFr801dDTPN79zgLN8c13Ha18HU8F9sRYlXMrV1c7gdOP/3M8urs9i/mBuWgypHbHG79LUmrDvPcp/AZU35ztJjKNmBQuDwd0=;3ALkb6IeVGFhJFvtt7KMpw=="
 ---
 

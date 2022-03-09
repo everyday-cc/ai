@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Sophia, the first intelligent humanoid robot, arrives in Dubai"
-    excerpt: "Dubai hosts largest meet of audit professionals from the region from March 7 to 9 at Dubai World Trade Centre Three-day gathering to discuss future of AI, digitization and cyber security, digital trends,"
-    publishedDateTime: 2022-03-05T05:22:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/sophia-the-first-intelligent-humanoid-robot-arrives-in-dubai-s2qp1j7b"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 54
-    images:
-      - url: "https://static.zawya.com/version/c:YTMzYWM5YjUtZTFjOC00:ZDY3M2Y3/eng_pr000032-jpg.jpg"
-        width: 900
-        height: 1184
-        isCached: true
   - title: "Sophia, the first intelligent humanoid robot, arrives in Dubai to participate in 20th Annual Regional Audit Conference"
     excerpt: "The humanoid robot Sophia, the world's first robot citizen, will arrive in Dubai on Tuesday, March 8, to partici"
     publishedDateTime: 2022-03-06T06:36:00Z

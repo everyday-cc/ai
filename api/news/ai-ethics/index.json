@@ -46,6 +46,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-08-future-of-tv-were-putting-new-personalised-features-into-shows-using-an-ethical-version-of-ai.md",
+      "title": "Future of TV: we’re putting new personalised features into shows using an ethical version of AI",
+      "excerpt": "Philip Jackson receives funding from UKRI via EPSRC and InnovateUK, including projects with BBC R&D, and from Bang & Olufsen, the Danish luxury consumer electronics brand. “Look away now if you ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/future-of-tv-were-putting-new-personalised-features-into-shows-using-an-ethical-version-of-ai-176996",
+      "originalUrl": "https://theconversation.com/future-of-tv-were-putting-new-personalised-features-into-shows-using-an-ethical-version-of-ai-176996",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/450098/original/file-20220304-25-1iigid3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=203&fit=crop",
+          "width": 320,
+          "height": 203,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/future-of-tv-were-putting-new-personalised-features-into-shows-using-an-ethical-version-of-ai-176996",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/future-of-tv-were-putting-new-personalised-features-into-shows-using-an-ethical-version-of-ai-176996",
+      "publishedDateTime": "2022-03-07T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-03-07-ai-ethics-foresees-potential-bad-blood-and-feuding-between-humans-and-ai-in-an-us-versus-them-daily-tussle-maybe.md",
       "title": "AI Ethics Foresees Potential Bad Blood And Feuding Between Humans And AI In An Us Versus Them Daily Tussle, Maybe...",
       "excerpt": "AI ethics warns us of bad blood and feuds that can arise from an us-versus-them human mindset, illustrated via the possible wrong way of adopting AI-based self-driving cars.",
@@ -1372,50 +1415,6 @@
         "AI Ethics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-how-does-aiml-bias-come-into-play-in-hrms.md",
-      "title": "How does AI/ML & bias come into play in HRMS?",
-      "excerpt": "HRM solutions have become quite essential in the operations of an organization and with the solutions being integrated with AI/ML ... CHRO & Chief Ethics Officer, Pramerica Life Insurance said.",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-does-ai/ml-bias-come-into-play-in-hrms/89630606",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-does-ai/ml-bias-come-into-play-in-hrms/89630606",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-89630606,imgsize-52818,width-1200,height-628,overlay-etcio/how-does-ai-ml-bias-come-into-play-in-hrms.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-does-ai/ml-bias-come-into-play-in-hrms/89630606",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-does-ai/ml-bias-come-into-play-in-hrms/89630606",
-      "publishedDateTime": "2022-02-16T19:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

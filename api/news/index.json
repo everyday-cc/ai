@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-09-extract-granular-sentiment-in-text-with-amazon-comprehend-targeted-sentiment.md",
+      "title": "Extract granular sentiment in text with Amazon Comprehend Targeted Sentiment",
+      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to discover insights from text. As a fully managed service, Amazon Comprehend requires no ML expertise and can scale to large volumes of data. Amazon Comprehend provides several different APIs to easily integrate",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extract-granular-sentiment-in-text-with-amazon-comprehend-targeted-sentiment/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extract-granular-sentiment-in-text-with-amazon-comprehend-targeted-sentiment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/08/Screen-Shot-2022-03-08-at-9.37.08-AM.png",
+          "width": 756,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T13:51:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-03-10-why-palo-alto-networks-rebuilt-its-workplace-with-ai.md",
       "title": "Why Palo Alto Networks rebuilt its workplace with AI",
       "excerpt": "Palo Alto Networks has now saved its employees more than 180,000 hours of productivity, thanks to this data-driven approach.",
@@ -606,7 +659,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/421779",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -908,7 +961,7 @@
       "originalUrl": "https://www.cnbc.com/2022/03/08/reid-hoffman-has-set-up-a-new-ai-company-with-deepminds-co-founder.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1190,58 +1243,6 @@
         "AI Ethics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-digital-radar-on-a-chip-speeds-autonomous-vehicle-adoption.md",
-      "title": "Digital radar on a chip speeds autonomous vehicle adoption",
-      "excerpt": "A new radar-on-a-chip is on the way this year, capable of mass production and 4D digital imaging, heralding a new chapter for autonomous vehicles and next-gen advanced driver assistance systems (ADAS).",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/digital-radar-on-a-chip-speeds-autonomous-vehicle-adoption/",
-      "originalUrl": "https://www.zdnet.com/article/digital-radar-on-a-chip-speeds-autonomous-vehicle-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b919c30148a7aa2d2ca7b73f468227fe0cb44a40/2022/03/07/9578af55-0abc-4222-8797-967debe060e6/uhnder-radar-on-a-chip.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/digital-radar-on-a-chip-speeds-autonomous-vehicle-adoption/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/digital-radar-on-a-chip-speeds-autonomous-vehicle-adoption/",
-      "publishedDateTime": "2022-03-08T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

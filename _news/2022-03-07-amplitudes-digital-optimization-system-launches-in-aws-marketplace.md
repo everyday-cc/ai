@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Amplitude's Digital Optimization System Launches in AWS Marketplace"
+title: "Amplitude’s Digital Optimization System Launches in AWS Marketplace"
 excerpt: "(Nasdaq: AMPL), the pioneer in digital optimization, today announced the availability of Amplitude in AWS Marketplace, a digital catalog with thousands of software listings from independent software vendors that make it easy to find,"
-publishedDateTime: 2022-03-07T15:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-amplitudes-digital-optimization-system-launches-aws-marketplace-/2022/03/07/9558212.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-amplitudes-digital-optimization-system-launches-aws-marketplace-/2022/03/07/9558212.htm"
+publishedDateTime: 2022-03-07T14:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-4b6997b71f1e4c6b9fde2aa77dc70847"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-4b6997b71f1e4c6b9fde2aa77dc70847"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Treasure Data CDP Now Available in AWS Marketplace"
@@ -50,6 +56,6 @@ related:
         height: 450
         isCached: true
 
-secured: "bnqtkMoKP998r5qQUnmd6jViP+vcIOwzI4U6gatBa+p4zBu5EwOvND8B/woCSjl9zuUUZeveTUJ4oo1XWkElP+rH2mLoYGshGA+tSZUmOUq4KSKxuB9swat5spAUqy9qHBsUHciQQLqGhZtJkSFLQkpkIICdGjXj0STZl7bGVRehi+i0tjWB6ZBvkCKaOkQ+mIJFDzkD+CwoqrBFey8cdXRMCJAqL6fvbdBjfme8FeDELOiFcdue2bS+tT3FjBCUJBnMZXwgFoidMNw2tZyfxV47bGWEMyM0vfJNX5ui/KGfcSlf+HYzlyASVoJePSWmCLonhiR7WnigZysiCZMaP1plRswMX+ysbMRrz9BIYfs=;LSnIbwtCMtBdKtPeXXu/Ig=="
+secured: "ZGPZI97VwNCn2aXjTLHCHTWxBjC4TsEJKFLc5hBvtGIUpLe8/bvbja/A5hxb0qZXSQE9PaIod2PrFNwKuTBmOxR14QYquexTvJVY05SuzuQcJGSztojadsqTAbPFAOa89bMthLi+qhELq63aO6NCfYCVWw8zFlM/Q5wWCEyfVLrxWbLdqkjLPQsZVE3D3tafYmYZ9kPfq/txU38oOeoKZHn/132mJRcuOy8gV4Q/3dI+xDjGop14ZZIX4CN1AbjOcpnq2PHHk1JfbyEU29g5AD6XuiBKSrDip2M6JvnoES/p4YbAzVLDD/ys0yPPC/0ozR0aQr3fiLIie/iakb/mjIHwTW8emeOm773R1H1lw0U=;f5fgKzCupt3Dx/wO6qD+xw=="
 ---
 

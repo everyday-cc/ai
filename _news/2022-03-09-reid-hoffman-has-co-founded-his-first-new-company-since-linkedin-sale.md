@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/03/08/reid-hoffman-has-set-up-a-new-ai
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/03/08/reid-hoffman-has-set-up-a-new-ai-company-with-deepminds-co-founder.html"
 type: article
 quality: 174
-heat: 185
+heat: 195
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 648
         height: 365
         isCached: true
+  - title: "The Funded: LinkedIn co-founder Reid Hoffman has teamed up with DeepMind vets on a new AI startup"
+    excerpt: "LinkedIn co-founder Reid Hoffman and @DeepMind co-founder Mustafa Suleyman have teamed up on a new #AI #startup #venture #SiliconValley #BayArea"
+    publishedDateTime: 2022-03-09T19:23:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2022/03/09/linkedin-deepmind-co-founders-launch-ai-startup.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 21
 
 secured: "H6K3TKhvNDPDouB7P4zEWqBPP4RQ4PXWxsKcz0ZLmPFEKzOOQ5X07EzasuPOiekyjGDiWHAHarXOwhcbrtQ1kPqkXajFS/wbTWVJGBcAELcQJ+4Hs3fbmuRuBnf2vdfmSgdnUlOSYUjmMS+c4VnkKjd8NkHVmohdcIMJKhEJa5QP85jCcaUvleuT92aeU95rCCKMlbCYSgGdz1VS8VNlF4lgCAEzgWgNQXT1FIVgu5NryuiqPXwnHMf2SrGDCcW19ob9GUd5PrrtA0ul+JE1I+OHyKdvUKFt99neC57n1aN2PwFd5bmSW81QzP/8kSNkHAH+4zHui02ZkE7WAWLmKLsFtMFkhsEzVyGhdaMisTYZ/7+Qw1Z4hpkjtdE8WDCihYd6hn1FN2AXkfd+xtatPIRESjhwT3WunAZOmEpqXI6Fw0hGilBzydAGRtM3KgLl21nEB9cUmfPvOypHIomq3STVsLe6AYgGzmuXijLwe0DkNq+zbOyfWrlMoQt541WODHZBXOkC82YqaB6IzgZ1pRNnnB5s5snpRk5VH0kTIe4=;pY17nSthl4/q7AuNao6Qhg=="
 ---

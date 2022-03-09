@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Jaguar Land Rover, Nvidia ally in vehicle software arms race"
-excerpt: "Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia said Wednesday they will collaborate to develop the computer brains and nervous systems for Jaguars and Land Rovers launching in 2025 and beyond."
-publishedDateTime: 2022-02-16T14:20:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/02/16/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2022/02/16/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race"
+title: "Jaguar Land Rover, Nvidia Ally In Vehicle Software Arms Race"
+excerpt: "Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia ... Rover has a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving technology."
+publishedDateTime: 2022-02-16T14:40:00Z
+originalUrl: "https://www.ibtimes.com/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-3402621"
+webUrl: "https://www.ibtimes.com/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-3402621"
 type: article
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2022/02/16/1483827.jpg"
-    width: 800
-    height: 533
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/16/nvidia-logo-shown-at-siggraph-2017.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
-secured: "1OoNzE5CyIwy2NXZF8DxIlyHbB/fFEZiHY5/GVe8LeXdV7loEQnWwE5+139K0NxNNnT4YqdEl0xS2J8sv1x5fES4MOun+HjwsDt2h88ZTAYjlxVyTciQpKGe4YAKuERAhE1rU0WjidLM0SedC38LqMO2E7KIZVDMkFiD0RqiO4VjqfVcNjOWaRPQ48ignRxvkRw7banU/7Ne7astpf3aMuCHCuoGJP/Ak3r4YcpiOEH3fvhkVSH/POmFtfgQDKebpvjuGw5mujeTY82t4TYSCtrgyknsfI036O2Ptb8jajcBtStYY5NgdY6KO8gb2L/WtMGYQlB5lYGf3Z2qtOV17Ms7tKcFPcrUJiS3aEwwUGk=;rmF5mXqaZ6EqzbKxiHF6Qg=="
+secured: "P327z3tt+XtClHEhOZtmTTW0iZmfv+D15zUdAi2L/ivvKDblc6A7tHoE6OiQJ059RQDyUAxU8RUmx9z0O0LaDOyZvU2DWjNNliEiU2h8rysIrArLsReEPAG/rkkQIPtxCijBP1LOZYolWBFgHvpL3i09tFXDDCH+IV18KI7C45N0WPkp+CwtEEDTvSFSIw2k8KI/Q2Zkaqj+07/9EEXWGPIWrp5vCA3//CyQRxao+9yHzcG0gPzayfpyDhN6ZK1x/FmJOVE9Tw4OL6QoXnhNH/m7izaVA1VrgIN5jEn+ZFHaG3Rv1/oi//pCnMFp3mRdmRQwIFcqN8Q59fX+62LxaTHsvuoTTI28FjRQJ9jaDIY=;ZOlqR7LCUPpzKzTVBWEc2g=="
 ---
 

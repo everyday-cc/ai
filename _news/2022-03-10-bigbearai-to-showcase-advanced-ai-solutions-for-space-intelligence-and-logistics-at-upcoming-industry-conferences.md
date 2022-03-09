@@ -2,20 +2,26 @@
 category: news
 title: "BigBear.ai to Showcase Advanced AI Solutions for Space, Intelligence, and Logistics at Upcoming Industry Conferences"
 excerpt: "BigBear.ai (NYSE: BBAI), a leading provider of AI-powered analytics and cyber engineering solutions, today announced it will showcase its award-winning technology used in Space, Intelligence, Logistics,"
-publishedDateTime: 2022-03-09T20:18:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-bigbearai-showcase-advanced-ai-solutions-space-intelligence-logistics-/2022/03/09/9560828.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-bigbearai-showcase-advanced-ai-solutions-space-intelligence-logistics-/2022/03/09/9560828.htm"
+publishedDateTime: 2022-03-09T20:16:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-entertainment-business-music-china-fdca8f0eda914fab9c5d44738e8dc1e3"
+webUrl: "https://apnews.com/press-release/business-wire/technology-entertainment-business-music-china-fdca8f0eda914fab9c5d44738e8dc1e3"
 type: article
-quality: 0
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "How David Leica is integrating Cutting-Edge AI into Holland's Logistics"
@@ -35,6 +41,6 @@ related:
         height: 443
         isCached: true
 
-secured: "ldI87EWg6dq2mlKhson+5F2JeI2fYwpLt6gw4y3HfbGzHohe4ufJoKYaxXobi0U8QR9z8GW3IG/H0A0SpCTKfwbIWcvbRtR+fwJej8OBdRiJ4wYnHf3lMAAcbATp8UkdWqrgnc1uaxG+AUkedqawSqYC5O52XeeV8oK7e6cmShIa/SLS+4OVmLr+T4AZTcbT2fAFdP7e57ZkhMQleqJlZge98+ZrtQoe4x2cUTnaINAWZfiLy7zH4ynw3luAPL+ASdOW9vKAS9M6aNfJoLpzmbilzxBGk5PSrbcQuIF4Y5+ns3/hXL+EsaRlIANbEa4i+b5fEXkafz+adaaMfKZzZwAP/QlNb5T58Hu0PPiMqyw=;FYshC3Zh7JeUyS9n+bQ90g=="
+secured: "j14DIyowky4ehJZdkamMKNTP3mFXFsSpah+X/tVD/rezuiI5AeiRHhwVSj44VHcIqUmqX1wFDxZjeCtwd3wEprZdtmaHfchwaKnySFntVpM6gHo6zxIVCWrKhL603nli17QcaUgYP79QELZ+Hwc/aksrYhH0/YO5ZdvzV9GnmBDHZxe8pMHHpjFItNE/hDpuCYZRcfP6SW6fum2zJr7IGeSZaqOCOm1oRNeIFuesjv+iMEhSDAU3aFzPfOxzCOr03+IahTpt4wZksZxBuvSGMZj4zAAR9qLaamY52VtRjpiciEZ9ZNkeQsSGtAMnZKWfBN73V+7XnzfJnyYgO7vZmM7dYqXPil5cuv2vlOweQjA=;xZnlq8/++X/GOnUgxe0Sng=="
 ---
 

@@ -45,6 +45,15 @@ related:
         width: 4256
         height: 2832
         isCached: true
+  - title: "The Funded: LinkedIn co-founder Reid Hoffman has teamed up with DeepMind vets on a new AI startup"
+    excerpt: "LinkedIn co-founder Reid Hoffman and @DeepMind co-founder Mustafa Suleyman have teamed up on a new #AI #startup #venture #SiliconValley #BayArea"
+    publishedDateTime: 2022-03-09T19:23:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2022/03/09/linkedin-deepmind-co-founders-launch-ai-startup.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 21
 
 secured: "CmYuBdQrPWl0mP0xi2vjbLOEWU6iDoddrjEYO63Tv+3V+IjI5KwUq4SZpbR9CSlfAx6tTpIprN8ZJDjspdA7/zrQQj9KbcFtzc+dGyiI2xUue8OpQo/civjwiz3mmxkKkmX7xRbGSQQw0yFUZz2neZici6ojnkUFYxRITBmg+J31pq5Ycm6lqH1rYZdhIrKvAeZnRlh3xHpgH6a42Hgp9jpnVlodzlEg3nWdvq9JDxY5PmPLNcalb7arT0jD1DuW2+sHyY3yKDrxDNk5CvBFmJFmzXaNlmGHpndenXzWygns7Lf/w46jgIW9dyRt+ZnF14DCtM3yyQGl0GWboq/uGEEA+T/2jW4InpwuotkSR/P8VxiQqbw9gV5IGGY3XHq4bRRTgqcFEMti1aGXHQruzVNwZ7niTV3YKEgRp4jJJc5U4fkMjdWkj9Fda5KHbqEIEJw/5bsjPPAfpwZ4N1TjygIj9pG7fIzZDBmS+gtqJoiXkRXp/+lbwRFrBVXB/eVYwJqcYnYu1xNt+cekR0jwyw==;4tbWDX00yty9avmOdc4fQg=="
 ---

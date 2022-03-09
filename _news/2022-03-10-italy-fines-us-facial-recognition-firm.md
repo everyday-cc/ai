@@ -73,6 +73,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Italy fines US facial recognition firm Clearview AI"
+    excerpt: "The company had also violated several principles of GDPR, a European Union privacy regulation introduced in 2018 to control who can access personal data."
+    publishedDateTime: 2022-03-09T21:01:00Z
+    webUrl: "https://www.courthousenews.com/italy-fines-us-facial-recognition-firm-clearview-ai/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 34
 
 secured: "Y/uByVVluG1p9b3JDvzYrEOia1WUpRHLJG1BR06pLTuoEmo5c5HbNrmZ5ridaflEd61ykaDNvV64PvkTPKc+RFdQy3/EtT/mu8UHkpkNqLbVa52JB5FryKojxZVICkyqHxxFivT+WCB2M9Soz6sV93XgYCO4NBO24Ed1Vz/M7VGBcbeBGfMglc7Sv9HpFJuMjMPYR+U621j2a+weG6suAU51xac6SF/JsT3uWYm+ol5hFcqAdGbg8NRNnRMu5JCLdmIKTghBceXPX5hDM3tnwpEm7QWJFg7+F13jvOLrhSxJ7NoFrLgFahR1JFQoZQovImcJOBQl+ZRhNGMhrvafERLmIwGl0vtMpLR3wap6Ix0=;/ZK/jP91WkhVIepqfcCE0w=="
 ---

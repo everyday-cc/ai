@@ -41,6 +41,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Hugh Chambers also Known as The Growr Announces Launch of AI Smart Drive to Revolutionize the Car Rental Industry with Self-Driving Cars"
+    excerpt: "AI Smart Drive is heralding a new day in the car rental industry, allowing self-driving cars to be fully integrated into existing car rental services. The"
+    publishedDateTime: 2022-03-09T21:45:00Z
+    webUrl: "https://www.digitaljournal.com/pr/hugh-chambers-also-known-as-the-growr-announces-launch-of-ai-smart-drive-to-revolutionize-the-car-rental-industry-with-self-driving-cars"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 4
+    images:
+      - url: "https://www.abnewswire.com/uploads/33b238125c70834b7655936371b79e6d.png"
+        width: 600
+        height: 300
+        isCached: true
 
 secured: "hJJlcgfDK0lafshJtGXlgMOg2mIPem/tu9sOnXDoAYjEmDXAySo3aA6BzwzaJ8aIflLOTegCrrw8kGQpoEZ5jc7W3az16HNvBtpZ3OopKMFms/8D0Pnmv0vTl8rT9kcoKYMoh0n/7yjrwWkF9x/s0tuyWuygD18NpVx2w9ol1O3HGtDlXSUcpdeefgE5PPp7ndwmqejC53YOlcqhKaEEh+oXc4kD59vU09h4Xo+0607Gg3iWUb48gHMWUZOPWGxwuhKbAKuPhLTitcBTVOFFQuRl2ZOrImkeldePBiLDdobdQqSMwsq0ONJbhkSCdRitV+p1yMMC2CnuZYcNJtxhfteoJR0+tXSrSAOmGOi76mI=;Wwz/O0iVwGLCkX72eeCfrw=="
 ---

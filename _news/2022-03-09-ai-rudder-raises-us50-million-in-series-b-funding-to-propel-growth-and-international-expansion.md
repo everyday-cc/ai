@@ -78,6 +78,20 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 37
+  - title: "JIFFY.ai Raises $53M As Part of Series B Funding Round"
+    excerpt: "FY.ai, a Palo Alto, CA-based provider of an app-based low-code/no-code intelligent automation platform, raised $53M as a part of Series B funding"
+    publishedDateTime: 2022-03-09T21:12:00Z
+    webUrl: "https://www.finsmes.com/2022/03/jiffy-ai-raises-53m-as-part-of-series-b-funding-round.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/03/jiffy.jpeg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "KZqopCZMt7fLv8Rv1VPsYCuGJhUZ7OOjWSgoPXvlRq95r9J07WWhBo481nw62G/0vtgZoAACcvNKeOyl+ayJtaFjmjRBJXrY8f3rzqvIvabhv9w1mQ9Ex/e63fI/5ocZd9/04eY5iXgbfnR37ymwemYss98r/PYzSCFOLhVpw5p1YPYhtTBos+cUPLL9OKyZJibdlg+dpWMI8LcSz6MLyXz5UJeSLzE0jjSPZDWn1+IyI8jQnJmwJrRBFzhSLA+WIgmY6YJDsIkgVECaCuX3gOWhz9jyemjX4+6e3zqEXHVj7zxTB4NmydVMT1489ialbSn9Qv/EBz7WcHI1xdu7q3K0zfPPZC/wpWCH4XjH6lM=;zalZMlG6sD5EQYSI7tTLiw=="
 ---

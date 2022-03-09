@@ -26,6 +26,22 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "Machine learning may predict where need for Covid tests is greatest"
+    excerpt: "The National Institutes of Health has called Covid-19 testing “the key to getting back to normal.” Yet testing rates have dropped nationwide, even as the Delta and Omicron variants accelerated"
+    publishedDateTime: 2022-03-09T19:05:00Z
+    webUrl: "https://www.register-herald.com/health/machine-learning-may-predict-where-need-for-covid-tests-is-greatest/article_4d294966-d935-5723-827b-208df621d47b.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/6/3f/63fb9fec-fbff-5424-a1de-8707ef520c23/62290afd21c3c.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize"
+        width: 800
+        height: 420
+        isCached: true
+
 secured: "auXjhoLF0h5EujpP0L9JbjvHakNST/Dg9tVMtP8eMaXfQnPEyow3Yd5dlF99fWWora2gXcM8gPqQW2vpg7Q8MJI7uXbf07UeS20TA6wVr2D5TEjxZ50iCNCErB+SEQVqjIA2fVC3g/iqudMZbL+7l+fhfSRTbAKvV1jVioEB6+FTNocR1Sk0cWy/vzek6zUXkvdwIHx9zjqeOSPtnHVyai3qY0fpN99767Ha02+DC7w1+S+wZcRYobX/Bb9LkdkTui6iMZfh782w5tL7UyvnmuTZiPPqt6TlnNMb4/OxI02tgG50n5q9KtOKNcCRdYkI6u2t0D5dyrRtnZPZWvErhWVAMPvxmuSoXLi8x9WP1vjwKdW9J9tvBp/TWX0y9pscZ2aCpQyBeeTX9G3epmtynlBLHYJpQ+Hf5/+ER3jUiH56jn6GNYNi9jFhQNFDG/vvEVNSZZFWnYlt0f4IUoFtOc2lRXXrP7L+2mpQ1Yuo4LJKPReuszDa1KjDq2VsveoRXzlnkFV+uqwbbdkZbAtnqA==;UwFfNrw8Elq2ADtc6FXdXw=="
 ---
 

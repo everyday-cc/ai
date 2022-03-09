@@ -95,6 +95,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Fintech Blockchain Market to 2027: The Rising Crypto-Currencies Market Cap and ICO Increasing Demand for Distributed Ledger Technology - ResearchAndMa"
+    excerpt: "The \"Fintech Blockchain Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering. The fintech blockchain market is expected to grow at a CAGR of 26."
+    publishedDateTime: 2022-03-09T16:23:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=629112"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "e4Xi4dvPMWIgpokGMCMa3wSwKSSplW3xu3UzGLhdwpVNSF0smC9PBp/u/fEC1cx2oa+XVYSuYrm566sscKP2r7efFrfy1UThXWVsUuKzlkLEWG/j25pGtQjYgg2EVGUcXjixuht1KgcSLqRPgl6Feg0pGz7AEVSsgG3lm7ssb5HNIhGYBKbQk4vokHG0sWkFuo9wVkZvRkwcfVJPqV2JRbk3biV6xX3LcS59lqP4LFIec1E0FUAX+yTGDxYJ5OcOPF5cBwAiRYfn3s2a+V9ktOfFBn0JXyRyXqX9C2LKiKGvsEAAiaEGDQmEWleJ9zQhjMQ2dPIlDVzQ7/InRzKTYMjdU9cebfh3bGsn9qU5TIN0MedMLO71exDtm5hNEjvTkLw5eXPpwUH9Rbwrgf3LkxRpcszMpd+O1ykKPSfaF1KKKCCaQWh/8J/CHJdb5gucvlzrzCe/zZgkcDyloifyISeoTtmpzDJAtADWIPCe0ic9sS0QROmJQvDhCMj2tAN/DpCX7lQYd76LjkvCz4/8TA==;8JwXOX8KGyZpwDzczd2qlQ=="
 ---

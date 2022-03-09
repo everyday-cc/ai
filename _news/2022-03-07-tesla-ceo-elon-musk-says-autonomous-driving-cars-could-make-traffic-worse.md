@@ -75,6 +75,22 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Tesla says self-driving is safe. Senators aren't buying it."
+    excerpt: "Rohan Patel, senior director of Public Policy at Tesla, defended the safety of the company's Full Self-Driving and Autopilot features in a letter on March 4, first reported by Reu"
+    publishedDateTime: 2022-03-09T22:22:00Z
+    webUrl: "https://www.protocol.com/bulletins/tesla-self-driving-letter-senators?share_id=6950324"
+    ampWebUrl: "https://www.protocol.com/amp/tesla-self-driving-letter-senators-2656896855"
+    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/tesla-self-driving-letter-senators-2656896855"
+    type: article
+    provider:
+      name: Protocol
+      domain: protocol.com
+    quality: 59
+    images:
+      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-tesla-has-had-a-host-of-recalls-as-regulators-up-scrutiny-of-its-releases-less-than-p-greater-than.jpg?id=29213740&width=400&coordinates=0%2C323%2C0%2C324&height=711.4285714285714&quality=80"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "98bZH0CgTUwlTcoM4xITCpQ4QR2aKrr5H2y4k5PrMch45oNR8N6CqO0Td3Ft8iw7tNhofqgaLNyWBDdYbFpq00108f8kDmUy1fyYDyMKGpXPdsSjPR69qpTTpSkw2/Xgsr1wMpoRLdAHKI55mGi9FZHD4kJIOWtZYeo9lbfn81h4SA25+NP4VWPsSZl4qax3ljQXPigCRRgrGIbkWUklCWyp9n9zal0kc+IHdZ88Lj3VvMpKPElSh1WwePiQSwKrhPE/y4Fk6cD5ZCM+8r2WbpJc7rbZohBYlcAsLwCfJBZ++65Bd3AuI6IkQmBW7I5Zse5JhidoDzw+BeWYpcl0vzCbGBwZv1/Ys6govO1bTSk=;8nMPhTd57ETdqeiZUD429A=="
 ---

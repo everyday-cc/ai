@@ -28,6 +28,17 @@ images:
     height: 427
     isCached: true
 
+related:
+  - title: "Transfer learning offers new insight into machine-learning error estimation"
+    excerpt: "Omar Maddouri, a doctoral student in the Department of Electrical and Computer Engineering at Texas A&M University, is working with Dr. Byung-Jun Yoon, professor, and Dr. Edward Dougherty, Robert M. Kennedy ’26 Chair Professor,"
+    publishedDateTime: 2022-03-09T21:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/945957"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 2
+
 secured: "zvuJYobhBzetB8rl2RS3TwEP4Hgv9N0hdlFclIOn4+kg9psBr95RSulh5Z9jk4w5Q/8nA2svgDKwVeL5r0bSpl99r0ljnD4a7BvRMPL4j5nET0PFpyJpa3fuYIdg1YGE21hRovcZkGITKwsgOPz+hLTMzJftNvcosCvpME6WPZ5pJXbM1pJf6UMrdmCG3BLwwScyENohDz9GabwLaDs10mRMTP/4scbDfkYI9nydIQOkSwwWH9d02DfEz4f0jpkEyNEFT/4+QzZbX+DRsjWExv0vlMKGK4QzfZ6ZVajhzhMfUifv+1GXpPwMiIoQexLLLnu0+L3QlFivvwvCS+XHPuUZT53xt/DsVbNv5q+jK/g=;BuQ208G+hP25CcSBIXTvqA=="
 ---
 

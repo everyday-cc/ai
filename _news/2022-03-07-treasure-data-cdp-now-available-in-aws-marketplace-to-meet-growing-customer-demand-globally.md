@@ -41,15 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amplitude's Digital Optimization System Launches in AWS Marketplace"
+  - title: "Amplitude’s Digital Optimization System Launches in AWS Marketplace"
     excerpt: "(Nasdaq: AMPL), the pioneer in digital optimization, today announced the availability of Amplitude in AWS Marketplace, a digital catalog with thousands of software listings from independent software vendors that make it easy to find,"
-    publishedDateTime: 2022-03-07T15:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-amplitudes-digital-optimization-system-launches-aws-marketplace-/2022/03/07/9558212.htm"
+    publishedDateTime: 2022-03-07T14:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-4b6997b71f1e4c6b9fde2aa77dc70847"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "t+yy9/nW6qbVZd3VEeefzyw5H4Fg2TfCzzCjVhuzbh6lkC3BE8RA2sisMgcl4xfRTwxikC7wIJQPP5FQgJVcKE0vZdUGAICmCT2AAriuiQjfvCOU6qLsgmGBLVqngJQCS1yWbUDr/3ex02QMLh7ZZfCjHQu2rQFUMuq+yVGmkBiBtqiqPgHuvMTTSkeiGTv6DO+ve/blhorFTUzhKUNGtG3Pn6UdulQtDzJHPOy+MGsF7c8DU1Ksk4MSmS6SSKUadhBuPpbRlU7nM7k+XMpYKSHJLKE8kbaYEPhsc0MGgZfh7q86JgagwY1JN1+uaW2Jsf9LICBrEv/vi3mgIEWxrH/HiJMgfr+il66RL8aGeqE=;9Hnf18JFso4QDW+W9hBTug=="
 ---

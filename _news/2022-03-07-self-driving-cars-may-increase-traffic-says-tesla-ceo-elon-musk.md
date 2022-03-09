@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/mobility/28399/self-driving-cars-may-increas
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/mobility/28399/self-driving-cars-may-increase-traffic-says-tesla-ceo-elon-musk?amp=1"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://www.gizchina.com/wp-content/uploads/images/2021/05/Elon-Musk-1-1024x640.jpg"
         width: 1024
         height: 640
+        isCached: true
+  - title: "Tesla says self-driving is safe. Senators aren't buying it."
+    excerpt: "Rohan Patel, senior director of Public Policy at Tesla, defended the safety of the company's Full Self-Driving and Autopilot features in a letter on March 4, first reported by Reu"
+    publishedDateTime: 2022-03-09T22:22:00Z
+    webUrl: "https://www.protocol.com/bulletins/tesla-self-driving-letter-senators?share_id=6950324"
+    ampWebUrl: "https://www.protocol.com/amp/tesla-self-driving-letter-senators-2656896855"
+    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/tesla-self-driving-letter-senators-2656896855"
+    type: article
+    provider:
+      name: Protocol
+      domain: protocol.com
+    quality: 59
+    images:
+      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-tesla-has-had-a-host-of-recalls-as-regulators-up-scrutiny-of-its-releases-less-than-p-greater-than.jpg?id=29213740&width=400&coordinates=0%2C323%2C0%2C324&height=711.4285714285714&quality=80"
+        width: 400
+        height: 225
         isCached: true
   - title: "Tesla CEO Elon Musk says autonomous driving cars could make traffic worse"
     excerpt: "Elon Musk's comment comes at a time when his own company Tesla is working on full self-driving technology FSD."

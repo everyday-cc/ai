@@ -559,43 +559,25 @@
     {
       "path": "_news/2022-02-24-facebooks-meta-unveils-ai-projects-aimed-at-building-the-metaverse.md",
       "title": "Facebook's Meta unveils AI projects aimed at building the metaverse",
-      "excerpt": "(Reuters) -Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages ...",
+      "excerpt": "Facebook-owner Meta is working on artificial intelligence research to generate worlds through speech, improve how people chat to voice assistants and translate between languages, CEO Mark Zuckerberg said on Wednesday, as he sketched out key steps to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/meta-platforms-ai/facebooks-meta-unveils-ai-projects-aimed-at-building-metaverse-future-idUSKBN2KS1NE",
-      "originalUrl": "https://www.reuters.com/article/meta-platforms-ai/facebooks-meta-unveils-ai-projects-aimed-at-building-metaverse-future-idUSKBN2KS1NE",
+      "webUrl": "https://financialpost.com/pmn/business-pmn/facebooks-meta-unveils-ai-projects-aimed-at-building-the-metaverse",
+      "originalUrl": "https://financialpost.com/pmn/business-pmn/facebooks-meta-unveils-ai-projects-aimed-at-building-the-metaverse",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/rUIpEiCezbt8OQRinuldNiZKOjg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XVO6VSQRUVOIZLGFEOEAHX2WYQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-23T10:12:00-08:00",
+      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/facebooks-meta-unveils-ai-projects-aimed-at-building-the-metaverse/wcm/86fac151-1434-4390-8254-bd138fd2e3f5/amp/",
+      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/facebooks-meta-unveils-ai-projects-aimed-at-building-the-metaverse/wcm/86fac151-1434-4390-8254-bd138fd2e3f5/amp/",
+      "publishedDateTime": "2022-02-23T10:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
