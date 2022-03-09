@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/startup-pony
 webUrl: "https://www.reuters.com/business/autos-transportation/startup-ponyai-agrees-automated-driving-system-software-recall-2022-03-08/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pony.ai to issue recall of autonomous driving software"
+    excerpt: "Autonomous vehicle startup Pony.ai will issue a recall for three vehicles following an October crash in California, according to the National Highway Traffic and Safety Administration (NHTSA). The agency said on Tuesday that this was the first recall of an automated driving system."
+    publishedDateTime: 2022-03-08T21:42:00Z
+    webUrl: "https://techcrunch.com/2022/03/08/pony-ai-to-issue-recall-of-autonomous-driving-software/"
+    ampWebUrl: "https://techcrunch.com/2022/03/08/pony-ai-to-issue-recall-of-autonomous-driving-software/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/08/pony-ai-to-issue-recall-of-autonomous-driving-software/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/01/55351642042261_.pic_.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Startup Pony.ai agrees to automated driving software recall"
     excerpt: "NHTSA said this was the \"first recall of an automated driving system\" and that the specific software at issue had been in use by three vehicles."
     publishedDateTime: 2022-03-08T21:46:00Z

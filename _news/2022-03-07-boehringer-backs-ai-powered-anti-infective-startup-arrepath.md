@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "SG startup AI Rudder bags $50m in Series B led by Tiger Global, Coatue"
-    excerpt: "Singapore-based voice artificial intelligence (AI) company AI Rudder has raised $50 million in a Series B round from US funds Tiger Global and Coatue. Other new investors include Cathay Innovation, First Plus,"
-    publishedDateTime: 2022-03-08T02:32:00Z
-    webUrl: "https://www.dealstreetasia.com/stories/ai-rudder-funding-tiger-global-coatue-284037/"
-    type: article
-    provider:
-      name: dealstreetasia
-      domain: dealstreetasia.com
-    quality: 37
-    images:
-      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2022/03/AI-Rudder-–-Team-Photo-scaled.jpeg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Princeton spinout ArrePath gets $20M to combine AI, imaging in antibiotics R&D"
     excerpt: "Anti-infective drug discovery startup ArrePath has launched with $20 million in seed funding to advance the development of molecules that use a dual mechanism to kill bacteria. The Princeton University spinout says its approach could overcome the drug resistance bacteria are developing to currently available products."
     publishedDateTime: 2022-03-04T21:43:00Z

@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Rutgers researchers harness AI and Robotics to treat spinal cord injuries"
-excerpt: "“This study represents one of the first times artificial intelligence and robotics have been used to formulate highly sensitive therapeutic proteins and extend their activity by such a large amount. It’s a major scientific achievement,” said Adam ..."
-publishedDateTime: 2022-03-07T14:57:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/945558"
-webUrl: "https://www.eurekalert.org/news-releases/945558"
+title: "Rutgers Researchers Harness AI and Robotics to Treat Spinal Cord Injuries"
+excerpt: "By employing artificial intelligence (AI) and robotics to formulate therapeutic proteins, a team led by Rutgers researchers has successfully stabilized an enzyme able to degrade s"
+publishedDateTime: 2022-03-07T15:00:00Z
+originalUrl: "https://www.rutgers.edu/news/rutgers-researchers-harness-ai-and-robotics-treat-spinal-cord-injuries"
+webUrl: "https://www.rutgers.edu/news/rutgers-researchers-harness-ai-and-robotics-treat-spinal-cord-injuries"
 type: article
-quality: 68
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Rutgers University
+  domain: rutgers.edu
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/92fe7d12-91e3-47ad-a1b6-79611caf4268/Rendition/low-res/Content/Public"
-    width: 495
-    height: 700
+  - url: "https://www.rutgers.edu/sites/default/files/2022-03/HERO_GormleySpinalAIresearch.March2022.jpg"
+    width: 2800
+    height: 2160
     isCached: true
 
 related:
@@ -109,6 +110,6 @@ related:
         height: 339
         isCached: true
 
-secured: "nFEwfWy993ZDrOS94cxE6AvXL4KnsFS+lsMsXTpqniuEHvKmtoCSLl6zZLEnz4W9jzcpzgTuJ7lmfxQmX/7M64oVSwOy3FrthkDXSlbzaPHYUeSB8NqVQDDHko33WN1cGXnzouwwCUfdk7NEEAVv5zjSAQoopB5/VQ8nduZPpAFa1LwOBybe/EkW0pfKuSKXa2fJ9zSspGonqyFAWEP4goYb1KwgDS8rbTxqMFYkAo68C0EwO2zh/uaJY+ltdiZqITUQW6ghk2G/E8AAMi7/3LG3JhRLJQ5erRHUE2xIalzSiNV+bEytI1SR43Agx/S6x0h+U1DVq+xW6LHn84yLNf6dIL0kEvE4rAQE3QTK7D0=;qEJ8BHjXePed1omU4hWFPA=="
+secured: "TmbhU0TuldbrD2XntYwJE1N+tUceSH5B6TOyEuLSomD387huoMruySjiJi4XSNNF0wX2EiW/wxfOMvx5WOReGaS2JxadQvzuezoBp4pkokR4bOI0yAA7QtQRuQCOR+89xAelOYzDe2Sn9qPXKdeFA4nkPmwYW9z8WMOBg1BV4+OFut/PtLC9t75N21jHCuHZPU02tAY9xQkxOAlAoUeGZAuoUkDyXbb+KqqogtGC+WlYbS7+2+9HA/CSup0nkKl7FEzoMxk8n3Bb0eFxzGeiXpDnYMrxWVcMM22lPwa6u/hkOe7B94sP/sASxQQ7oxv/enSacZWyLDlTju7V/Ph1kadGFBUC+bu2XU+S3jUShbw=;uPlFGK4Ri00jljSmm/cqww=="
 ---
 

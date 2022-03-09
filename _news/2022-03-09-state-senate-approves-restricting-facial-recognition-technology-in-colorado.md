@@ -2,11 +2,11 @@
 category: news
 title: "State Senate approves restricting facial recognition technology in Colorado"
 excerpt: "The Colorado Senate approved legislation Tuesday that seeks to restrict the use of facial recognition technology in the state’s government, law enforcement and schools. Senators passed Senate ..."
-publishedDateTime: 2022-03-08T18:48:00Z
-originalUrl: "https://gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_608ba183-263e-522a-87e7-eccfc8bb4318.html"
-webUrl: "https://gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_608ba183-263e-522a-87e7-eccfc8bb4318.html"
-ampWebUrl: "https://gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_608ba183-263e-522a-87e7-eccfc8bb4318.amp.html"
-cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_608ba183-263e-522a-87e7-eccfc8bb4318.amp.html"
+publishedDateTime: 2022-03-09T00:24:00Z
+originalUrl: "https://gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_659dc79c-9f3d-11ec-a5dd-6f0aa035a38e.html"
+webUrl: "https://gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_659dc79c-9f3d-11ec-a5dd-6f0aa035a38e.html"
+ampWebUrl: "https://gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_659dc79c-9f3d-11ec-a5dd-6f0aa035a38e.amp.html"
+cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_659dc79c-9f3d-11ec-a5dd-6f0aa035a38e.amp.html"
 type: article
 quality: 57
 heat: 67
@@ -42,6 +42,6 @@ related:
         height: 587
         isCached: true
 
-secured: "3fANSiSyW4L0Hu2yUa3E6CeUkbG3gkeSvfCf5UyicDxBTTYgB3hDr+a0L6GU8vMfDCCeBFq2vIvEVwY7913adx0w22zw9EGjDZ2OcNMcQdBv6vKdIJhoEaWtpBB3coBU062Xqon81gBGWCO57ozQOpMU9fbsF1SeD1JeZE8ctt1uOKqY70jtcxgiraujMd1aGkrduSilYotT0W0tDLHsqohkqfH3klzA5KACgpB5McTuwRQBY7/wA8nL5iBd54r+gY7qYQM1FCfbzPp9gO9krRQckLZBFm6JcrvgUBFtHwVkHZyGMXzEuJqtc0CK7v41u1d/imwpP6ot0m8rHMgTzsx/VQg5Yg8hwGAn7+LBqpM=;A7BY6VZ9LpDPhKrRKoMAiw=="
+secured: "YC0C9jQQSUkexgYYO7DTfMww55sCxcyLXIdaaAanqIvDP8Jn/NFzF00P5dHbk2S/2Nfl6wNoR1EDiBqjqeqzNdePLVXwITvXHmlXmJVjLf2tMc7pnts/a4U4ZTEpvzIFPaRFoTu5KAiu3YEBTMNG75IYkZaUFCwCK2sZSVyTRyxLCqT+zQVy0uX3qesnx457A6j51g9pEPiUyRIY2DbKIYybx6Ypt6iTxrG/6vxe3HGFoYZfqwFBSZz/sRfLcqgbSXTZhJ/qNDWOwJrssqxbilcqkWLO+scC8tpniSwBr6n9NRaTG9Z8gDh6pQ0JLtq3DooH+rNlAcOQu64ZDastH0fsOi05YnlPgxHXPo0aE4w=;goCQ6ZNCOuYj1SSB9t2eqA=="
 ---
 

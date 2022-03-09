@@ -32,6 +32,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "1 Artificial Intelligence Growth Stock to Buy Now and Hold for the Long Term"
+    excerpt: "Artificial intelligence (AI) promises to be one of the most transformative technologies of our time. It has already proven it can reliably complete complex tasks almost instantaneously, eliminating the need for days or even weeks of human input in many cases."
+    publishedDateTime: 2022-03-08T17:43:00Z
+    webUrl: "https://www.fool.com/investing/2022/03/08/1-artificial-intelligence-growth-stock-to-buy-now/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 66
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/669323/a-smiling-man-using-a-laptop-and-wearing-a-hardhat-with-an-oil-field-in-the-background.jpg"
+        width: 7952
+        height: 5304
+        isCached: true
 
 secured: "OacTrSQ8ai9UJGq5ReqIa5YXGSJFql/9ov4BMRtrB4c11yH4Q9fYlfrU1aJBQ7YLxZkUSU91Yp8FCvsz2adnAuXDADGfVsWZKkeKfYcfMav4FHP6hdcnfL5ZXaloJCD0WWNU+HenevSoDunIlfyAj6xVcgauA5ERHxV60vZtmsmLZUzYlbd9I/1UdMTWntSXIvsSA1OgjZ0t4zg5d+tZY5IGHWMDf+YJfWZW+wBhASioYHp2Dg1cJTn72k4p3QpItvR3r6YlHSFjrQMjXAE9lkeu6Bf7vNdv8gRtRXj56wb5d5sCNMiCkrRGAJhSZjym0OjWc6UZw64sNwXMjKBL8BSuJ7qwqQunx1RVZkpAYZY=;9AilTHSdxc+iNNpmJyHeYQ=="
 ---

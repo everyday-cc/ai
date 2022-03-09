@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Top 5 Trends in FinTech: 2022 Cut"
+    excerpt: "Let us take a look at some fintech trends that are projected to influence financial services in 2022: 1) Mobile Payments and Digital Banking Services: Mobile Digital banking offers improved customer experience and delivers faster and more efficient services."
+    publishedDateTime: 2022-03-08T00:32:00Z
+    webUrl: "https://www.linkedin.com/pulse/top-5-trends-fintech-2022-cut-kashish-pahwa"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEcSPtM8Z3Ajg/article-cover_image-shrink_600_2000/0/1646698565888?e=1652313600&v=beta&t=pcLMIgcvpibwo9SXGjC4dAmiEFdtcgUV6PPZ5CoQc64"
+        width: 1020
+        height: 485
+        isCached: true
 
 secured: "nxb65CAQnqscJfS2MV1a9bX0TMSL6qbYkEelbLQYvKgN7yg5NY+NK9NvIM1AF4sfQ0rDGXffF6nbw1dfTtMjeFPZlGyZsOf+rQkzUyljQrI7yYHMqgEebyFQyUwE4qOFtNFHQnJdvgQxpUBDkyBLlDYiHWV28woda+GpBvZII3JomHdmgEIFuFi6ovBAM96wW6nNS1bTdYS0gdMzkDFJRFA9uxW/bJ9KZ9H5x1pa6jLaV5XYKxwwuL5QgP2Sdu+SrugYvlhaOicdxUikIrdjFzJq1EWkUhLUcSdSEvd46rnBLw2CHL9a0nA9/WNrkb11QfWbuV1GvdWVR1MHwdKddUk5bFU08p0D/1aykUdpWE0Emy7SKNupZoNSccF6iXSWupvQUH4EhNWEp54ulFolRBMBMBKbCSgRAOgUIUW0r0zQH6nk7U2SPJIvHv1aQMfKFmpeUpizmplXT95vFIAdyM3KerPJZsKy+0S5B9zkI5OMfbjyl3fWL9jIpTYxgkyuUIeAHdBAEBpNKW5qrYUIsg==;VNOvWjFEjk8vmodzhuCBMA=="
 ---

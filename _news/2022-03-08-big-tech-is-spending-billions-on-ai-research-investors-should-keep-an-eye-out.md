@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Rudder Raises US$50 Million in Series B Funding to Propel Growth and International Expansion"
-    excerpt: "Founded in 2019, AI Rudder develops advanced voice AI technology to help businesses solve B2C communication challenges across a range of different industries, including banking and finance, fintech, insurance and e-commerce. Today, more than 200 companies ..."
-    publishedDateTime: 2022-03-09T01:03:00Z
-    webUrl: "https://www.asiaone.com/business/ai-rudder-raises-us50-million-series-b-funding-propel-growth-and-international-expansion"
-    ampWebUrl: "https://www.asiaone.com/business/ai-rudder-raises-us50-million-series-b-funding-propel-growth-and-international-expansion?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ai-rudder-raises-us50-million-series-b-funding-propel-growth-and-international-expansion?amp"
+  - title: "Big tech spends big on AI, with consequences for healthcare"
+    excerpt: "Big tech companies are spending more money than ever on research and development of artificial intelligence capabilities, which could help boost the healthcare industry with powerful new technology, The Wall Street Journal reported March 8."
+    publishedDateTime: 2022-03-08T20:10:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/big-tech-spends-big-on-ai-with-consequences-for-healthcare.html"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 47
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
     images:
-      - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
-        width: 299
-        height: 300
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/8.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "hOIQ3AqCa1MKTRoVvD74LQj+460YnKScrNJkdq0RxEb7/rty9ws/jkLlfBTXq8S7E7j6QKLCYTwET4y4sEB/CUbqHJVI16lFReq28asU20KjzupBN83YBxb7tMJ/qgcOn6TbsThQrhutQfFn8jIW6r5rlLXZUCKQgliIrg5/m3ON1YOQbTDRKyk9+jePHrRgfOe0nrjMf1iy7JE+tktYV13xI9J0cLKGc5xwws4pYIkObUpq1MV/icKyBfqWe3dblP6+/AWQYz+NHBYjaiu28m9wckakCQUh+POvzY7gw5/q88TxhWLk1ugS0CRGIcZkVu5gTaQgbMEVx2FlsNRXMS2jxjb/vOkj/uZ9g/V4W/P77Ei4SkqdePIjiOWW6dGiocVzO/Vf5pgSUCnL9zD5XK3YLtg8V05c6wRLRNzXUW7jjH5tGsK2ImALa6zp/+P049GnVQRxCo4yXivYGErzuIEkxHgTn0iUY+sqwkE4OL3+uqodywjpuDBFly1rYcgr/WED0lOdMU6hefLIf75sqQ==;f5VoyhJ+M1H8YGM3VTEDxQ=="

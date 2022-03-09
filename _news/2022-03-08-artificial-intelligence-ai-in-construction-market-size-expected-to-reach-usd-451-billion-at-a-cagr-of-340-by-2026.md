@@ -40,6 +40,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Computer Vision System Market Size Expected To Reach USD 25.69 Billion at a CAGR of 10.8%, By 2028"
+    excerpt: "Increased advancements in information and communication technology , increased demand for vision-guided robotic systems, and continuous R&D in digital"
+    publishedDateTime: 2022-03-08T10:29:00Z
+    webUrl: "https://www.digitaljournal.com/pr/computer-vision-system-market-size-expected-to-reach-usd-25-69-billion-at-a-cagr-of-10-8-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 25
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/ce2842312a9cd62d817a0fd99fa7027a1729c179-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "0Ic3ffBBTm4CrVny0IkFmZrwNtKP51Bpx7wGwCTQGHGyYOOV6zAgA4Fs+o7/RS9KnG0Ci4btJSeTTpQYlNuorP2gUGrRVZgGLpxCfGyRk7iG96p8uZAvbHe03l8D0sG+i0/yPryob4T4QYIy46739B64ItopGwWvtY7uEXp/ZGadWZTu24C7LfF2trZSWRxays8zi+8NjTy9Ku2DAczqu06F3TIJyDhp0B+WcXfIEmTbQC4hRnb4WWkdSBM2ARkAGMPI5Nd+5N7ZpocdcC5DTTujWGXF9nX4gJ+xurg8DMDIr5g+PLQiYmCbImeK2J5FAGRG0wKTYPfTvIsDgY+fUWLZ79wzoQ1JsYX1f7Xy/Tk=;NWeIQjHSsK5kmVvOp8WDTQ=="
 ---

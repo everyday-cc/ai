@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/fast-company-names
 webUrl: "https://markets.businessinsider.com/news/stocks/fast-company-names-liveperson-the-1-most-innovative-ai-company-in-the-world-1031262599"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Akili Named to World's Most Innovative Companies"
+    excerpt: "PureTech Founded Entity Akili Named to Fast Company's Annual List of the World's 50 Most Innovative Companies for 2022 Akili, the maker of EndeavorRx®, the first-and-only FDA-cleared prescription video game treatment,"
+    publishedDateTime: 2022-03-08T12:05:00Z
+    webUrl: "https://www.sharecast.com/news/Company-Announcement-General/Akili-Named-to-World-s-Most-Innovative-Companies--dl32514785.html"
+    ampWebUrl: "https://www.sharecast.com/amp/news/Company-Announcement-General/Akili-Named-to-World-s-Most-Innovative-Companies--dl32514785.html"
+    cdnAmpWebUrl: "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/Company-Announcement-General/Akili-Named-to-World-s-Most-Innovative-Companies--dl32514785.html"
+    type: article
+    provider:
+      name: Sharecast
+      domain: sharecast.com
+    quality: 44
+    images:
+      - url: "https://img.s3wfg.com/web/img/images_uploaded/amp_dl.jpg"
+        width: 620
+        height: 350
+        isCached: true
   - title: "Synthesis AI Ranked #4 on Fast Company's Annual List of the World's Most Innovative Companies for 2022"
     excerpt: "Synthesis AI, a pioneer in synthetic data technologies, ranked number four on Fast Company's prestigious annual list of the World's Mo"
     publishedDateTime: 2022-03-08T14:18:00Z

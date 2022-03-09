@@ -32,6 +32,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Akili Named to World's Most Innovative Companies"
+    excerpt: "PureTech Founded Entity Akili Named to Fast Company's Annual List of the World's 50 Most Innovative Companies for 2022 Akili, the maker of EndeavorRx®, the first-and-only FDA-cleared prescription video game treatment,"
+    publishedDateTime: 2022-03-08T12:05:00Z
+    webUrl: "https://www.sharecast.com/news/Company-Announcement-General/Akili-Named-to-World-s-Most-Innovative-Companies--dl32514785.html"
+    ampWebUrl: "https://www.sharecast.com/amp/news/Company-Announcement-General/Akili-Named-to-World-s-Most-Innovative-Companies--dl32514785.html"
+    cdnAmpWebUrl: "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/Company-Announcement-General/Akili-Named-to-World-s-Most-Innovative-Companies--dl32514785.html"
+    type: article
+    provider:
+      name: Sharecast
+      domain: sharecast.com
+    quality: 44
+    images:
+      - url: "https://img.s3wfg.com/web/img/images_uploaded/amp_dl.jpg"
+        width: 620
+        height: 350
+        isCached: true
 
 secured: "LTHT/hwAXej2i4uP3mWU7WDTdDBcSSs3/ftFrQ+I2IREpbX5i9xLHMmepfEUBrh2KclBL4bAO+5dpAo5akwEVDMk09vn03En+abbKz8VyWWLwpc2d2NaJCNi4xzTBChWr/B5g+7xz3P/9Iyn+qinkcDrgKPaiYRIACcmGhZuYfazqbjDYLqPmt5aLZ1iaJ2bL+EOIeK2mijbt+iw6brJrZRiU2K2xrKSWV4pfd47j3R122Utz+o4cb+xPWyy633+Iu+vL4CoVvZU/UkMldvUPZHC3Wpm3vs8BPTA8osksNR6Pk/jCI5IlEcSKn7nF7ASzRp69WfKHqRMJQnMGdsSS3jBlKaDOxzrHYd6sTIdljY=;2WhufHtL73Gg7t8lUGTiRA=="
 ---

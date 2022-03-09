@@ -50,6 +50,20 @@ related:
         width: 2880
         height: 4073
         isCached: true
+  - title: "Rutgers Researchers Harness AI and Robotics to Treat Spinal Cord Injuries"
+    excerpt: "By employing artificial intelligence (AI) and robotics to formulate therapeutic proteins, a team led by Rutgers researchers has successfully stabilized an enzyme able to degrade s"
+    publishedDateTime: 2022-03-07T15:00:00Z
+    webUrl: "https://www.rutgers.edu/news/rutgers-researchers-harness-ai-and-robotics-treat-spinal-cord-injuries"
+    type: article
+    provider:
+      name: Rutgers University
+      domain: rutgers.edu
+    quality: 70
+    images:
+      - url: "https://www.rutgers.edu/sites/default/files/2022-03/HERO_GormleySpinalAIresearch.March2022.jpg"
+        width: 2800
+        height: 2160
+        isCached: true
   - title: "Evergreen Adding AI-Enabled Robotics to 3rd PET Recycling Plant"
     excerpt: "Evergreen, one of North America’s three largest producers of food-grade recycled polyethylene terephthalate (rPET), has just announced that it will be installing artificial intelligence-enabled bottle sorting robotics at its Albany, NY, plastics ..."
     publishedDateTime: 2022-03-07T20:12:00Z
@@ -63,20 +77,6 @@ related:
       - url: "https://www.plasticstoday.com/sites/plasticstoday.com/files/PET-plastic-bottles-Recycle-Man-Adobe-Ftr.jpg"
         width: 770
         height: 400
-        isCached: true
-  - title: "Rutgers researchers harness AI and Robotics to treat spinal cord injuries"
-    excerpt: "“This study represents one of the first times artificial intelligence and robotics have been used to formulate highly sensitive therapeutic proteins and extend their activity by such a large amount. It’s a major scientific achievement,” said Adam ..."
-    publishedDateTime: 2022-03-07T14:57:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/945558"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 68
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/92fe7d12-91e3-47ad-a1b6-79611caf4268/Rendition/low-res/Content/Public"
-        width: 495
-        height: 700
         isCached: true
   - title: "Study offers new hope for patients coping with spinal cord injuries"
     excerpt: "By employing artificial intelligence (AI) and robotics to formulate therapeutic proteins, a team led by Rutgers researchers has successfully stabilized an enzyme able to degrade scar tissue resulting from spinal cord injuries and promote tissue regeneration."

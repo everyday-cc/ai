@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Global Text Artificial Intelligence Growth Opportunities 2022 Report - ResearchAndMarkets.com"
-excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Global Text Artificial Intelligence Growth Opportunities\" report ... knowledge management, security, defense, healthcare, and pharmaceutical industries. PharmiWeb.com is Europe's leading industry-sponsored portal for the ..."
-publishedDateTime: 2022-03-07T14:01:00Z
-originalUrl: "https://www.pharmiweb.com/press-release/2022-03-07/global-text-artificial-intelligence-growth-opportunities-2022-report-researchandmarketscom"
-webUrl: "https://www.pharmiweb.com/press-release/2022-03-07/global-text-artificial-intelligence-growth-opportunities-2022-report-researchandmarketscom"
+excerpt: "The “Global Text Artificial Intelligence Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. Current text processing solutions are capable of analyzing tabular structured data formats with numerous rows and columns that are easier to process and store."
+publishedDateTime: 2022-03-07T12:29:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-0fb3eee6330f4e98a5de4cc035572c45"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-0fb3eee6330f4e98a5de4cc035572c45"
 type: article
 quality: 30
 heat: 30
 published: false
 
 provider:
-  name: PharmiWeb
-  domain: pharmiweb.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - Machine Learning
+  - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-    width: 1200
-    height: 448
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "m9NGvA4Y/GKGSK8Jopr77OeSjYdoBo4eMotq5Rsix7CWGXLin3J0wUq3p8vyLzXIcENnMHYvT7DN25B3W/zLIkHm0hf1R1QCb8knMO+lhhWGcvSLZe6lHWmWlApkZWZBvDPF2Ml/m3NpQx8/bgU1P5CTTG9YRrixg9FdptjaQrqTH0Rh/lsfbJe+UygbC4njikBFw0JpJ1+Kgl+BGKfKg3hi9D6ENO7KgVTCW8uw4N5W7qz8vaDYBzKXEUWVyMmRzuUu7GoYYROvTLAtKWNUaHuBjDsb7S7zkTw/BKSrz3auPmdm035Uzyays+14GMiXM5Ut63Ab68OKAJnRhxp1adZ0t9Yb1xmQVt/NmXzShZc=;db6PkTEN9GsvYlmlZK3N8A=="
+secured: "uQ1ItFRWMT4jnII+CHZ99bu8DiQNYnhRRq7yXrBH/tiXHqWlKFgFZSHWNLeOS9IWCiQe3Lfcuqpq3lHH645K1iBLLzy6UBKpfW3OlG8F2IYMfFFP9m2CUb9xKNKruUZIwhhEH0ka9OU7/Zws0rtHLcux0riO3knW/lxdM/Xz4OYHmRy0biP0YpPyOiZbXT2NPH8oI1vXTsPYN+bQAkYV5v3LkSh5kJt0rTRKZaINJ+if+iQoLJTdgRYfgBvTcH8f4o4+sNzMY3MYscr/YhzWtTGjdNpTP7qSo7xtavi6S8pV7Enu4akx2sPtFyjVucenJOedVeMirp7xSx5DhiSYAkXBI+RL2nw/OtG4fU9DOTA=;ubN1UpDvzwWCPDVqGVHBZQ=="
 ---
 

@@ -27,10 +27,10 @@ images:
 related:
   - title: "State Senate approves restricting facial recognition technology in Colorado"
     excerpt: "The Colorado Senate approved legislation Tuesday that seeks to restrict the use of facial recognition technology in the state’s government, law enforcement and schools. Senators passed Senate ..."
-    publishedDateTime: 2022-03-08T18:48:00Z
-    webUrl: "https://gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_608ba183-263e-522a-87e7-eccfc8bb4318.html"
-    ampWebUrl: "https://gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_608ba183-263e-522a-87e7-eccfc8bb4318.amp.html"
-    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_608ba183-263e-522a-87e7-eccfc8bb4318.amp.html"
+    publishedDateTime: 2022-03-09T00:24:00Z
+    webUrl: "https://gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_659dc79c-9f3d-11ec-a5dd-6f0aa035a38e.html"
+    ampWebUrl: "https://gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_659dc79c-9f3d-11ec-a5dd-6f0aa035a38e.amp.html"
+    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_659dc79c-9f3d-11ec-a5dd-6f0aa035a38e.amp.html"
     type: article
     provider:
       name: The Gazette

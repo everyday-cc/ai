@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "KBC Group launches an AI FinTech, DISCAI"
+    excerpt: "Through its own FinTech DISCAI, a wholly-owned subsidiary, KBC Group is commercialising the innovative Artificial Intelligence applications"
+    publishedDateTime: 2022-03-08T09:00:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/kbc-group-launches-an-ai-fintech-discai/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/03/MENA-Islamic_Mar2022_IBSI-MPU.png"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "wYVYWpLE0LcmoQ0dauV289eLqKYav9SwDpB9YfMbT7OlA2+gk6UbomLZ+aOhv0mIryoMZr/45s/A7p9NdWfJI6STWIo1zS+5+Q5EEexXChTDl6Doot6Ta4QduidlnPX/Ylv591u53Hi4BkOAWjAFiCb5IitijoysTGuy4MBVip3l1pSoBRNdcqyGwrn7ljv1hVzVExuE7UAcp3y0z2IkU5PGj739ABV8kaCdab6AmZGBJYT+4bY/h80TpINcMTPpM4jkYefArTd1Omfka4jivo2JoKx3eQ4GRemaeZ4AEU4fzvUqf5KlKXNR5xXdQLSlSBeFtvRaRN4s3XwIjo2tXm/UpsBaX7MMjliLbKXRZ1A=;KqSl2d7YH0clRRZSgByhgg=="
 ---

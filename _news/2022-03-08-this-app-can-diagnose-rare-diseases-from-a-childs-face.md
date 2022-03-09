@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/app-diagnose-rare-diseases-childs-face/a
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/app-diagnose-rare-diseases-childs-face/amp"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

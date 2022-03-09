@@ -99,20 +99,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft Vaults Further Into Health-Care Services With Closing of Nuance Deal"
-    excerpt: "Nuance Communications Inc., pushing the software giant deeper into the market for health-care services and artificial intelligence. The $19.6 billion deal, announced last April, lets Microsoft add cloud-computing and AI offerings aimed at health-care,"
-    publishedDateTime: 2022-03-04T20:45:00Z
-    webUrl: "https://www.bloombergquint.com/onweb/microsoft-vaults-further-into-health-care-services-with-closing-of-nuance-deal"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 37
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2022-03%2F620f84db-b384-4680-bef1-65f6e993e559%2F370918456.jpg?rect=0%2C285%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "7ITBBWYrNX8yAz6Xt4hHEdhYVd1TEeMzV9hAxEdZh0WSvEG57O67f7qLpUohnrnj00XZf8zJYln0cVxrVYiIJ2PbJoQIYtopAe6AtKU8EuhNMBBBtWwU+Vb/e4PcrkxVCnYpDcJ7S6+oFKF5Ii7Ofl245nhx9fW1gm3dJ/Jzah8jR6X0CQV9BWBgIX37aKbhLV2Assp5oaRLyPAHDG5SfBRqVWSWUyCFk12gUhZa6j3YBxNDytqWp1o1+O4A5TmvDF+Azhw2wJt3uKPpPK+HrOOg91vk7Wstm9RtrFdIU20Ze+UYr7T9rplwc5gTswZ2/L7Bye78fAjATCtO8Oqei8uc3cPKAmFxTh601l4aTD8=;X79VQkTvu/aMYaocMx1Mdw=="
 ---

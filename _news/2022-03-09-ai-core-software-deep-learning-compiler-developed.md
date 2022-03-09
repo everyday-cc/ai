@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-03-ai-core-software-deep.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ai-core-software-deep.amp"
 type: article
 quality: 76
-heat: 96
+heat: 97
 published: true
 
 provider:

@@ -63,6 +63,20 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Stax to Become Fintech's Newest Unicorn with Latest Funding Round"
+    excerpt: "Co-founders and sister-and-brother duo Suneera Madhani and Sal Rehmetullah lead their company to $1B+ valuation, making history for minority founders and leaders everywhereORLANDO, Fla.--(BUSINESS WIRE)--Stax,"
+    publishedDateTime: 2022-03-08T10:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=627744"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "h0Kh9qA4XmIdiq7fz6WbuPJs/FsaoUtUlrUXfyxE8epJAzMZdCIv8E5ckoW52Z48pViaCTkeyiCfnixBY2QWWhXNj8JptVVyKB1VMDryjtpFEwkehVCgblVZDXOhDjUD6ui/GFXqCrM5euJJFTYB8UpOG9gGf2o3SLhB4EVAyXY8Rq204enaaQOEK5AGfhvL9WzEAi8gwtLTz3ukexTJGZCEOTtMFd8OHOmU5tOXhudAbcdEpxVREkwi2lUgOOoolTHEPQFJO9A5dxFXvyEBLFyDeYbZLwF1EdXjHAlEDC4MxTf3WXTFCN2yXgzWdQ9XFXtoNCqw2VgK3CsH4Ox+KAR/PrS0Y3BhiSwt/mDMl9A=;7+xrbPX6MUtqMoZ4V4kH4g=="
 ---

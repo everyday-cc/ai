@@ -83,20 +83,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft Vaults Further Into Health-Care Services With Closing of Nuance Deal"
-    excerpt: "Nuance Communications Inc., pushing the software giant deeper into the market for health-care services and artificial intelligence. The $19.6 billion deal, announced last April, lets Microsoft add cloud-computing and AI offerings aimed at health-care,"
-    publishedDateTime: 2022-03-04T20:45:00Z
-    webUrl: "https://www.bloombergquint.com/onweb/microsoft-vaults-further-into-health-care-services-with-closing-of-nuance-deal"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 37
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2022-03%2F620f84db-b384-4680-bef1-65f6e993e559%2F370918456.jpg?rect=0%2C285%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Fintech Market Study of Competitive Landscape And Recent Trends By 2027 | IBM, Intel, IPsoft, Microsoft, AWS, Nuance Communications, Google"
     excerpt: "According to Data Bridge Market Research new analysis, The Global AI in Fintech Market analysis provides a high-level summary of classification, competition, and strategic actions taken in recent years. For a global scenario, the global AI in Fintech ..."
     publishedDateTime: 2022-03-07T12:36:00Z

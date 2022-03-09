@@ -36,22 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 60
-  - title: "ACLU N.J.: Facial recognition technology is a direct assault on privacy and civil liberties"
-    excerpt: "The ACLU of N.J. is among a coalition of organizations opposed to facial technology in law enforcement and is urging the attorney general to ban it."
-    publishedDateTime: 2022-03-08T14:28:00Z
-    webUrl: "https://www.nj.com/opinion/2022/03/facial-recognition-technology-is-a-direct-assault-on-our-privacy-and-civil-liberties-opinion.html"
-    ampWebUrl: "https://www.nj.com/opinion/2022/03/facial-recognition-technology-is-a-direct-assault-on-our-privacy-and-civil-liberties-opinion.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/opinion/2022/03/facial-recognition-technology-is-a-direct-assault-on-our-privacy-and-civil-liberties-opinion.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 49
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5YWUVKPMO5ATFBZ2WOM43Z7B7M.png"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "q9BCX3PpScAr6MdpSTjYlUArgPHTd9ZLDSwgwWNIEKbWTuK1LpfL0KWulfGcGJydmoHmItuwiuxAxVoz97kpsYS2QeHK07uOCbBqsxVjjxCOEeudr2y1JKhHYjTacFmsNFldiOfx5v0XZ1Jz/uUPISn9b4K+BLladMttqWWSc7ZVfoRvUY3Fqg8U0MKhpX3DLmZrI6Bb5AGNP5lMfHkiAkHxDMcb3uoOv5yE/Coum9DTGhokKgJypC6aLVmhren4AXOO534nwsq/J6v2DRrlZiu5/XyWtW54SBzWcqCv7iHpR2Df0aFaQ+LZo23haar8fkt7wC5iDm4uofGj76NlB3QHynq99ESL1hw3sDkyARI=;jEEgCz8pwvzYWnQN17YlRg=="
 ---

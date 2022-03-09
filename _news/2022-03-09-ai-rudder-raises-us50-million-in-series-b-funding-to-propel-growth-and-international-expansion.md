@@ -1,47 +1,84 @@
 ---
 category: news
 title: "AI Rudder Raises US$50 Million in Series B Funding to Propel Growth and International Expansion"
-excerpt: "Founded in 2019, AI Rudder develops advanced voice AI technology to help businesses solve B2C communication challenges across a range of different industries, including banking and finance, fintech, insurance and e-commerce. Today, more than 200 companies ..."
-publishedDateTime: 2022-03-09T01:03:00Z
-originalUrl: "https://www.asiaone.com/business/ai-rudder-raises-us50-million-series-b-funding-propel-growth-and-international-expansion"
-webUrl: "https://www.asiaone.com/business/ai-rudder-raises-us50-million-series-b-funding-propel-growth-and-international-expansion"
-ampWebUrl: "https://www.asiaone.com/business/ai-rudder-raises-us50-million-series-b-funding-propel-growth-and-international-expansion?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ai-rudder-raises-us50-million-series-b-funding-propel-growth-and-international-expansion?amp"
+excerpt: "The Singapore-based Voice AI start-up has secured additional funding months after its Series A round to maintain global growth SINGAPORE, March 9, 2022 /PRNewswire/ -- AI Rudder, the leading voice artificial intelligence start-up,"
+publishedDateTime: 2022-03-08T23:00:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=628474"
+webUrl: "https://us.acrofan.com/detail.php?number=628474"
 type: article
-quality: 47
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
-    width: 299
-    height: 300
+  - url: "http://us.acrofan.com/img/noImg.jpg"
+    width: 500
+    height: 324
     isCached: true
 
 related:
-  - title: "Big Tech Is Spending Billions on AI Research. Investors Should Keep an Eye Out"
-    excerpt: "As well, the DeepMind Technologies lab, owned by Google parent Alphabet Inc., has announced the development of a new language model, commenting, “The high-school reading comprehension level approaches human-rater performance.” While these companies ..."
-    publishedDateTime: 2022-03-08T14:41:00Z
-    webUrl: "https://www.wsj.com/articles/big-tech-is-spending-billions-on-ai-research-investors-should-keep-an-eye-out-11646740800?tpl=vc"
+  - title: "AI Rudder Raises $50 Million In Series B"
+    excerpt: "The funds will be used to double its headcount, enable job creation for highly specialized and sophisticated roles in technology across the region"
+    publishedDateTime: 2022-03-09T12:03:00Z
+    webUrl: "https://www.entrepreneur.com/article/421779"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 65
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
     images:
-      - url: "https://images.wsj.net/im-499743/social"
-        width: 1280
-        height: 640
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png"
+        width: 2000
+        height: 1334
         isCached: true
+  - title: "JIFFY.ai Raises $53 Million In Funding as Part of Series B Round"
+    excerpt: "Aims to make stronger inroads in the enterprise automation space with HyperApp-based intelligent automation platformPALO ALTO, Calif.--(BUSINESS WIRE)--JIFFY.ai, an award-winning app-based low-code/no-code intelligent automation platform,"
+    publishedDateTime: 2022-03-09T08:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=628603"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 39
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "SG startup AI Rudder bags $50m in Series B led by Tiger Global, Coatue"
+    excerpt: "Singapore-based voice artificial intelligence (AI) company AI Rudder has raised $50 million in a Series B round from US funds Tiger Global and Coatue. Other new investors include Cathay Innovation, First Plus,"
+    publishedDateTime: 2022-03-08T02:32:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/ai-rudder-funding-tiger-global-coatue-284037/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 37
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2022/03/AI-Rudder-–-Team-Photo-scaled.jpeg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Voice AI startup AI Rudder raises US$50m round led by Tiger Global, Coatue"
+    excerpt: "AI RUDDER, which is working on voice artificial intelligence (AI) for businesses, has closed a US$50 million Series B funding round led by Tiger Global and Coatue. Read more at The Business Times."
+    publishedDateTime: 2022-03-08T01:00:00Z
+    webUrl: "https://www.businesstimes.com.sg/garage/voice-ai-startup-ai-rudder-raises-us50m-round-led-by-tiger-global-coatue"
+    ampWebUrl: "https://www.businesstimes.com.sg/garage/voice-ai-startup-ai-rudder-raises-us50m-round-led-by-tiger-global-coatue?amp"
+    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/garage/voice-ai-startup-ai-rudder-raises-us50m-round-led-by-tiger-global-coatue?amp"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 37
 
-secured: "xrdejLqzFa//BYkWCapb1B5bWWslLg7+wvHtQTUojoxd9MyIjR81TbJXfGX5/9J4QLcexPhoYTAmO1I/hQIo0roFF2UWAfMkQwoui53glpgOXZZPaOIWTN4U10DDVBzaOOEL0gcTYb+MSCCjl6E0g8XkH7QFwFdHCYuUAKQlKhGij+sRUihkH9Ks4joJMVZ0qfIwaJskoWATiX+lrEKjb8WRQZO33g1PnfGr+WBGl5hITMVkD4kHv3hTgm6LB/2LoR4b9EYJG0xrk89aCN++r1l7iNCp0Uzi4JgwKauVfagBFDToTTjtlOGCu1ctTdaWpLkV6M/gbJEHbt2X2tLr3jy2fLmGcaw2bKce4oWNDEg=;5bu9WS4+NDQrsedD0Q6HLw=="
+secured: "KZqopCZMt7fLv8Rv1VPsYCuGJhUZ7OOjWSgoPXvlRq95r9J07WWhBo481nw62G/0vtgZoAACcvNKeOyl+ayJtaFjmjRBJXrY8f3rzqvIvabhv9w1mQ9Ex/e63fI/5ocZd9/04eY5iXgbfnR37ymwemYss98r/PYzSCFOLhVpw5p1YPYhtTBos+cUPLL9OKyZJibdlg+dpWMI8LcSz6MLyXz5UJeSLzE0jjSPZDWn1+IyI8jQnJmwJrRBFzhSLA+WIgmY6YJDsIkgVECaCuX3gOWhz9jyemjX4+6e3zqEXHVj7zxTB4NmydVMT1489ialbSn9Qv/EBz7WcHI1xdu7q3K0zfPPZC/wpWCH4XjH6lM=;zalZMlG6sD5EQYSI7tTLiw=="
 ---
 

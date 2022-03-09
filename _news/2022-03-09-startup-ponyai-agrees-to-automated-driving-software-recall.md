@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pony.ai to issue recall of autonomous driving software"
+    excerpt: "Autonomous vehicle startup Pony.ai will issue a recall for three vehicles following an October crash in California, according to the National Highway Traffic and Safety Administration (NHTSA). The agency said on Tuesday that this was the first recall of an automated driving system."
+    publishedDateTime: 2022-03-08T21:42:00Z
+    webUrl: "https://techcrunch.com/2022/03/08/pony-ai-to-issue-recall-of-autonomous-driving-software/"
+    ampWebUrl: "https://techcrunch.com/2022/03/08/pony-ai-to-issue-recall-of-autonomous-driving-software/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/08/pony-ai-to-issue-recall-of-autonomous-driving-software/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/01/55351642042261_.pic_.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Startup Pony.ai agrees to automated driving system software recall"
     excerpt: "WASHINGTON, March 8 (Reuters) - Startup technology firm Pony.ai agreed to issue a recall for some versions of its autonomous driving system software after an October crash, U.S. regulators said Tuesday The recall covers three vehicles that have been ..."
     publishedDateTime: 2022-03-08T15:13:00Z

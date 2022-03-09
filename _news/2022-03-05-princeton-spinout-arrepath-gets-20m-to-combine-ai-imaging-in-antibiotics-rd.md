@@ -38,20 +38,6 @@ related:
         width: 605
         height: 340
         isCached: true
-  - title: "SG startup AI Rudder bags $50m in Series B led by Tiger Global, Coatue"
-    excerpt: "Singapore-based voice artificial intelligence (AI) company AI Rudder has raised $50 million in a Series B round from US funds Tiger Global and Coatue. Other new investors include Cathay Innovation, First Plus,"
-    publishedDateTime: 2022-03-08T02:32:00Z
-    webUrl: "https://www.dealstreetasia.com/stories/ai-rudder-funding-tiger-global-coatue-284037/"
-    type: article
-    provider:
-      name: dealstreetasia
-      domain: dealstreetasia.com
-    quality: 37
-    images:
-      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2022/03/AI-Rudder-–-Team-Photo-scaled.jpeg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "K5RNHG0O3cUJ9jtiKNDD6VWbwVK2JbV406HS/mCrkFI/Sdebpy5Y5/ZHRX5pmUfekIAhRA/U18Nwatts4XMij064C0JFLng3L0MLG4Wp4hO1BGuAIUd9xy5/cSNWNFw4l+mJhpJPyh1YSNdgsGWzeVBJ9vpCNoWg1mZ4K6CDzaPfdHIKfcH72ByvO17jTPtRBINfnOFhFYFjmO+7rg8ZcUEtc/lJfyHI1k26YCdVJuoLwspEqo1RWYWWMl1d/S3oROOH3tS/YzW+ranMtNPJM2Q4y6J45OELvsZkGKU0Az2atCnqZIQICCtESJPP7lkXRkdrj+pI3shJBg8BEkeYAIg6Z7yEZwwEZZbX3UkTAXg=;6GcXID3HaRX4mMHovsXhew=="
 ---

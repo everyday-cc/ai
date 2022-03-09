@@ -27,30 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Brazilian civil rights organizations call for facial recognition ban in São Paulo subway"
-    excerpt: "Entities unite in an attempt to prevent the use of the technology amid concerns over discrimination against black, non-binary and trans individuals."
-    publishedDateTime: 2022-03-04T21:13:00Z
-    webUrl: "https://www.zdnet.com/article/brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway/"
+  - title: "Clearview AI commercialization of facial recognition raises concerns, risks"
+    excerpt: "Facial recognition as a service has caught the attention of regulators and litigators. CISOs at companies considering the technology need strong privacy protections in place."
+    publishedDateTime: 2022-03-08T10:00:00Z
+    webUrl: "https://www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.html"
+    ampWebUrl: "https://www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.amp.html"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.amp.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 60
-  - title: "Brazilian subway operator pushing facial recognition despite sustained protests"
-    excerpt: "Use of facial recognition systems in the subways of Sao Paulo are being challenged by civil rights organizations and the state's public defender's office."
-    publishedDateTime: 2022-03-07T16:08:00Z
-    webUrl: "https://www.biometricupdate.com/202203/brazilian-subway-operator-pushing-facial-recognition-despite-sustained-protests"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 50
+      name: CSOonline
+      domain: csoonline.com
+    quality: 74
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
-        width: 1600
-        height: 1109
+      - url: "https://images.idgesg.net/images/article/2018/02/facial_recognition_technology_thinkstock_851960116-100749431-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "krQbo0VbChRdMc2cMG4ENHiSBBDE8ePsXl9kCN8KZ3cR8w/RnBbmANipRlgeNlFOjox9myQhf0HhxSNytkfHnpEVmfj9xaE6h16yZVVfBFU9xWi71cbj33JXfLf4O36ijMY5Xlw6bKh0sYiWXT/8belUPupSn4B5KddR88pLDtI2Ob3dcMqkCTHYdTdm+Fon5Vb2IoWpuLDtW5EQWAUADO5ORwUdfV69lZ4oYBjEHnaimNb/gtqWOk+HhXb9lhfxT/PkkyMrlFNhCiNYzoac/4wygRPesO3KmtsF8k9rhXczn+jei7/gFupw2FpWl1MMWKMmb6bs1Cp0xhsipBEu/2VM2He8xIirEXFTbY56mFI=;LSIIWFos+Drt2J3mmV+wYg=="

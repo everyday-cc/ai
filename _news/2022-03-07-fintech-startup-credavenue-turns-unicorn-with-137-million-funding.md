@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/421553"
 webUrl: "https://www.entrepreneur.com/article/421553"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Rupee-Money-Coin-India-2002-1024x1024.jpeg"
         width: 1024
         height: 1024
+        isCached: true
+  - title: "Stax to Become Fintech's Newest Unicorn with Latest Funding Round"
+    excerpt: "Co-founders and sister-and-brother duo Suneera Madhani and Sal Rehmetullah lead their company to $1B+ valuation, making history for minority founders and leaders everywhereORLANDO, Fla.--(BUSINESS WIRE)--Stax,"
+    publishedDateTime: 2022-03-08T10:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=627744"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "CredAvenue fastest Indian fintech unicorn after raising $137 mn"
     excerpt: "Debt marketplace CredAvenue on Sunday announced that it is India's fastest fintech to join the unicorn club with a Series B fundraising round of $137 million. The fundraising round was led by New York-based global private equity and venture capital firm Insight Partners,"

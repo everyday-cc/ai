@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Treasure Data CDP Now Available in AWS Marketplace To Meet Growing Customer Demand Globally"
+    excerpt: "Treasure Data, a leading enterprise customer data platform (CDP), today announced its availability in AWS Marketplace, a digital catalog with thousands of software listings from independent software vendors that make it easy to find,"
+    publishedDateTime: 2022-03-07T14:11:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-web-services-72968c35e9716c49a4388cf7ca2a6498"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 44
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "bnqtkMoKP998r5qQUnmd6jViP+vcIOwzI4U6gatBa+p4zBu5EwOvND8B/woCSjl9zuUUZeveTUJ4oo1XWkElP+rH2mLoYGshGA+tSZUmOUq4KSKxuB9swat5spAUqy9qHBsUHciQQLqGhZtJkSFLQkpkIICdGjXj0STZl7bGVRehi+i0tjWB6ZBvkCKaOkQ+mIJFDzkD+CwoqrBFey8cdXRMCJAqL6fvbdBjfme8FeDELOiFcdue2bS+tT3FjBCUJBnMZXwgFoidMNw2tZyfxV47bGWEMyM0vfJNX5ui/KGfcSlf+HYzlyASVoJePSWmCLonhiR7WnigZysiCZMaP1plRswMX+ysbMRrz9BIYfs=;LSnIbwtCMtBdKtPeXXu/Ig=="
 ---
