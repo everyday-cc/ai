@@ -26,17 +26,6 @@ images:
     height: 210
     isCached: true
 
-related:
-  - title: "GM is seeking approval to commercialize its self-driving vehicles"
-    excerpt: "The submission of the petition to NHTSA signals that Cruise and GM are ready to build and deploy its self-driving vehicles, the Origin, here in America."
-    publishedDateTime: 2022-03-04T10:05:00Z
-    webUrl: "https://techhq.com/2022/03/gm-is-seeking-approval-to-commercialize-its-self-driving-vehicles/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 4
-
 secured: "WK9HjpRxj0h+yDm5YpvU5a4DNsXpqAyKzSYw3MLXI0w6xNLy/NJgRcm893fe9yE0vRYfRR+ngySmAF5CDIs2qVlPRfopYYWM2s1/EA4BcE3PNLDyAwe2sUQlAr1MMEMovirZBGqx75RMiUdXsve4rBjpZlWqfGt+ESW/JMoNa2J/1M8vVdQQogUOU+fBP9eD46Uf0gn+NmrLGRzoefuNjODUNE8QiH+jCAO5t4407ixsBjLeQ4Fd9UWlLLVDs9dlt9CKOitZ6DTqa1lX2aScMIWs7nkKHpGZSn7rssSMN8YWTEnqKoHtn1GZ/XIBtmzUH0Ls2W8uQ1kcBVCvVd6sGalLU/sCUc8gBRmZbhjbsoHSk9kjJg+KMrmriCgjp+OkcsgmbkpIXjBDQPMvrXlGRbtFllcoXFltTdbquklsS7f4igIjIcIqFHYy3zGbeiavqj78084WgwontF3jVFxB4In8DmtRe6XJH+vQuaEjyKPhNU69+daxPHpD7jLgOQeqyDLX3u4P7bgmkNMXYOgHVA==;KoXMPKFyYx1wbUO/g0IDfQ=="
 ---
 

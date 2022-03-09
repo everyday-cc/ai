@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/big-tech-is-spending-billions-on-ai-r
 webUrl: "https://www.wsj.com/articles/big-tech-is-spending-billions-on-ai-research-investors-should-keep-an-eye-out-11646740800?tpl=vc"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Wall Street Journal
@@ -28,6 +28,24 @@ images:
     height: 640
     isCached: true
 
-secured: "Q2hylONqkLfR64cgqtlsB/8BfWV9QIYlsxub6avdpfHCdNwcSTuVC+GNv0t2RrPublAkD7eVjatD9qK/iRjdaE1h3EI2Gu02T5dMxidVBhs+yPsOfT/hyRPLKSclRcBVoV6wWqvTS2FJuDDd5hK4fVisep4Nqyvpd8MVT7jOPgBiWmefmieAYIZHVBhdGP+B+sj0SzkNMfQycmZ1LpVMYFDN2XnE8L5Geq6uW4qBbskHwvBpZ9UuOej+NOFDQs2Bxi+JEty9+mLjDKdkqQl4NffnqbFk2TziPnooI5Si7P7DxuB6wRrhYqjjY9SztQv1vGw4QKYmHmxKgE5ouU6kYgBMO91bNg4BYmFbi1EmmfY=;+qNI1NrKPnNbdEo/gZWQYQ=="
+related:
+  - title: "AI Rudder Raises US$50 Million in Series B Funding to Propel Growth and International Expansion"
+    excerpt: "Founded in 2019, AI Rudder develops advanced voice AI technology to help businesses solve B2C communication challenges across a range of different industries, including banking and finance, fintech, insurance and e-commerce. Today, more than 200 companies ..."
+    publishedDateTime: 2022-03-09T01:03:00Z
+    webUrl: "https://www.asiaone.com/business/ai-rudder-raises-us50-million-series-b-funding-propel-growth-and-international-expansion"
+    ampWebUrl: "https://www.asiaone.com/business/ai-rudder-raises-us50-million-series-b-funding-propel-growth-and-international-expansion?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ai-rudder-raises-us50-million-series-b-funding-propel-growth-and-international-expansion?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 47
+    images:
+      - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+        width: 299
+        height: 300
+        isCached: true
+
+secured: "hOIQ3AqCa1MKTRoVvD74LQj+460YnKScrNJkdq0RxEb7/rty9ws/jkLlfBTXq8S7E7j6QKLCYTwET4y4sEB/CUbqHJVI16lFReq28asU20KjzupBN83YBxb7tMJ/qgcOn6TbsThQrhutQfFn8jIW6r5rlLXZUCKQgliIrg5/m3ON1YOQbTDRKyk9+jePHrRgfOe0nrjMf1iy7JE+tktYV13xI9J0cLKGc5xwws4pYIkObUpq1MV/icKyBfqWe3dblP6+/AWQYz+NHBYjaiu28m9wckakCQUh+POvzY7gw5/q88TxhWLk1ugS0CRGIcZkVu5gTaQgbMEVx2FlsNRXMS2jxjb/vOkj/uZ9g/V4W/P77Ei4SkqdePIjiOWW6dGiocVzO/Vf5pgSUCnL9zD5XK3YLtg8V05c6wRLRNzXUW7jjH5tGsK2ImALa6zp/+P049GnVQRxCo4yXivYGErzuIEkxHgTn0iUY+sqwkE4OL3+uqodywjpuDBFly1rYcgr/WED0lOdMU6hefLIf75sqQ==;f5VoyhJ+M1H8YGM3VTEDxQ=="
 ---
 

@@ -81,15 +81,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Fintech Market Giants Spending Is Going To Boom | Google, Intel, Amazon Web Services"
-    excerpt: "Advance Market Analytics published a new research publication on “Global AI in Fintech Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in presentable format. In the Study you will find new evolving Trends ..."
-    publishedDateTime: 2022-03-04T10:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-giants-spending-is-going-to-boom-google-intel-amazon-web-services"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 26
   - title: "Understanding Fintech and the market for loanable funds"
     excerpt: "Fintech (aka. financial technology) refers to the use of technology to transform the way we conduct business in the financial sector."
     publishedDateTime: 2022-03-07T07:30:00Z
