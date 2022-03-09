@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/04/researchers-open-source-code-gene
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 97
 published: true
 
 provider:

@@ -30,7 +30,7 @@ related:
   - title: "IonQ Presents Algorithmic Qubits Benchmark at Quantum Information Processing (QIP) Conference 2022"
     excerpt: "Luning Zhao, a Senior Application Engineer with IonQ, will deliver an address describing the performance of IonQ Aria, the company's newest and most advanced quantum computer. Zha"
     publishedDateTime: 2022-03-04T13:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ionq-presents-algorithmic-qubits-benchmark-quantum-information-processing-/2022/03/04/9557400.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2022/03/04/9557400.htm"
     type: article
     provider:
       name: TMCnet

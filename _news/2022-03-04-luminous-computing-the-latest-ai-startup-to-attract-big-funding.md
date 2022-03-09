@@ -1,21 +1,25 @@
 ---
 category: news
 title: "Luminous Computing The Latest AI-Startup To Attract Big Funding"
-excerpt: "Luminous Computing is one—and investors seem intrigued with its promise. The Mountain View, California-based supercomputer company closed a $105 million Series A Thursday from investors including Microsoft co-founder Bill Gates."
-publishedDateTime: 2022-03-03T16:46:00Z
-originalUrl: "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding"
-webUrl: "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding"
-ampWebUrl: "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding?amp"
+excerpt: "Mountain View, California-based Luminous Computing closed a $105 million Series A Thursday from investors including Microsoft co-founder Bill Gates as AI takes off again"
+publishedDateTime: 2022-03-03T17:46:00Z
+originalUrl: "https://news.crunchbase.com/news/luminous-computing-vc-funding-cerebra-bill-gates/"
+webUrl: "https://news.crunchbase.com/news/luminous-computing-vc-funding-cerebra-bill-gates/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: crunchbase
+  domain: crunchbase.com
 
 topics:
   - AI
 
-secured: "ThQKXmOgY6Oatm5PtOE/DNp4EYCLVRHiBRBnBc1rRK2EBnvt/fH7pLd2sJHvk8CAppz4328UTj/uXzUZcBUwxShbC2dscPZgbeWODqLr54qiKSRREPr4zEuTKrY8mxDO6WwFJMSlu4tDheu+wO657DKb32sNNyyRg8YPUz+/T6275zA0WuDRzYb1U8KwwBujtY0qATTewhE/Yze5bPVGw5YtI1tflsGZ4Fqy2UF+e7+CEkdmUHIabQB638Y9zHjGhzwyVIDhvrZCrCrGfhpFOIYPiSlScZuakIhbZVyNXQFe0Z3gMRv1PMx7zgLZKz6bVKQa9ogclQ9hbrZ7YiiA6/urUzQmKoKq3j40V5uWcKEneww7T6Bo6rCei9DiXPdjLkoSJutFLUAn2+1bnlNNOKdCNct7SmLm92y0dTnz5qub1aAfiYS/fxtpVLCAAuaZult6Hix7miT4smd3kX+X3T8NDzi4VI0T06AhrKjHg6MGT9o5kxXZ7Fkl/0whPEdAUhjD2P9twbZv4Ykb/CWDyA==;a8OuC9FLxay1icI8erMBKg=="
+images:
+  - url: "https://news.crunchbase.com/wp-content/uploads/2020/12/ai.png"
+    width: 900
+    height: 506
+    isCached: true
+
+secured: "kpuYzhJKstbTia2ahml38Q/ok2S8rhw/YPEs1dJInBVF6c7B5K9uBMIAIlS5Rs0zM2n0V6xf0IAQm25kL0zAMwpnBA4/HPLHtn0S9MNjqfAX/eZQFmP5grBfn+sqapHziiyScpoQcBhkNlbPKS42x2ff3BQoGBB+EYu8oR9M4ESYBsNqXsfleLYHD1AONEisom/MlA33oU5KDVuZowBI8oA7Rmp2+6oBkfRP+h6xkvh2mt5Lt1BYejZtVIQJIWXHmHgsJ7nxaafKrK8KID1MJoPQKKio38kVRctIWZ2Cku9tKQMbzjzaaswn8yIxhuUrDO+RR5wwpjQb0B/qnlW8TeQ/BMyO8V1W8Lvbf5vBNuU=;0WyzBwpHb5rAdj+keKgVfA=="
 ---
 

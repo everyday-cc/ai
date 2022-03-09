@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-machin
 webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-machine-learning-stem-education-mori-"
 type: article
 quality: 71
-heat: 81
+heat: 82
 published: true
 
 provider:

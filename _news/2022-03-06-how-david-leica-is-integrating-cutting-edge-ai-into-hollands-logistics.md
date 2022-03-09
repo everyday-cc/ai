@@ -9,7 +9,7 @@ ampWebUrl: "https://nl.mashable.com/tech-2/6839/how-david-leica-is-integrating-c
 cdnAmpWebUrl: "https://nl-mashable-com.cdn.ampproject.org/c/s/nl.mashable.com/tech-2/6839/how-david-leica-is-integrating-cutting-edge-ai-into-hollands-logistics?amp=1"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

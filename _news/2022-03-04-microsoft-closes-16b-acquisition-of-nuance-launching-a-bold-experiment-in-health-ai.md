@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Industrial Artificial Intelligence Market to See Huge Growth by 2027 : Alphabet, Microsoft, IBM"
-    excerpt: "Advance Market Analytics published a new research publication on “Industrial Artificial Intelligence Market Insights, to 2027” with 232 pages and enriched with self-explained Tables ... Introduction, market driving force product Objective of Study ..."
-    publishedDateTime: 2022-03-04T08:40:00Z
-    webUrl: "https://www.digitaljournal.com/pr/industrial-artificial-intelligence-market-to-see-huge-growth-by-2027-alphabet-microsoft-ibm"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 48
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/2b5ce7f68fd37f90ffb8890d66feb1a81c0b7d44-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Content Moderation Automation Market Is Going to Boom : Appen, Cogito, Microsoft Azure"
     excerpt: "Some of the Major Companies covered in this Research are Viafoura, TaskUs, Besedo, Cogito, Microsoft Azure, Open Access BPO, Appen, Magellan Solutions, Webhelp, Clarifai, Pactera, OneSpace, Two Hat, Lionbridge AI, Cognizant, LiveWorld, Arvato, Accenture ..."
     publishedDateTime: 2022-03-07T20:06:00Z
