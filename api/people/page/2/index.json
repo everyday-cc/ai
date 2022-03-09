@@ -4,43 +4,155 @@
   "page": 2,
   "value": [
     {
-      "path": "_people/rosalind-picard.md",
-      "title": "Rosalind Picard",
-      "excerpt": "Rosalind Wright Picard is an American scholar who is Professor of Media Arts and Sciences at MIT, founder and director of the Affective Computing Research Group at the MIT Media Lab, and co-founder of the startups Affectiva and Empatica.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rosalind-picard/index.json",
-      "webUrl": "https://everyday.cc/ai/people/rosalind-picard/",
+      "path": "_people/alexandr-wang.md",
+      "title": "Alexandr Wang",
+      "excerpt": "Founder and CEO at Scale AI - a data platform for AI.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alexandr-wang/index.json",
+      "webUrl": "https://everyday.cc/ai/people/alexandr-wang/",
       "type": "profile",
-      "name": "Rosalind Picard",
-      "bio": "Rosalind Wright Picard is an American scholar who is Professor of Media Arts and Sciences at MIT, founder and director of the Affective Computing Research Group at the MIT Media Lab, and co-founder of the startups Affectiva and Empatica.",
-      "location": "Cambridge, MA",
-      "website": "http://t.co/M6c0l3S5lb",
+      "name": "Alexandr Wang",
+      "bio": "Founder and CEO at Scale AI - a data platform for AI.",
+      "location": "San Francisco, CA",
+      "website": "https://scale.com/",
       "twitter": {
-        "username": "rosalindpicard",
-        "url": "https://twitter.com/rosalindpicard",
-        "followers": 12174
+        "username": "alexandr_wang",
+        "url": "https://twitter.com/alexandr_wang",
+        "followers": 16780
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/rosalind-picard-0111bb/"
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=1-hcASEAAAAJ",
-        "citations": 62878
+        "url": "https://www.linkedin.com/in/alexandrwang/"
       },
       "affiliation": {
         "path": "",
-        "name": "MIT",
-        "domain": "mit.edu"
+        "name": "Scale",
+        "domain": "scale.com"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "AI in Autos"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1498032872116002816/5ECdf5AC_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Alexandr Wang",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/christopher-m-bishop.md",
+      "title": "Christopher M. Bishop",
+      "excerpt": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/christopher-m-bishop/index.json",
+      "webUrl": "https://everyday.cc/ai/people/christopher-m-bishop/",
+      "type": "profile",
+      "name": "Christopher M. Bishop",
+      "bio": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
+      "location": "Cambridge, England",
+      "website": "https://t.co/qaAoprog1k",
+      "twitter": {
+        "username": "chrisbishopmsft",
+        "url": "https://twitter.com/chrisbishopmsft",
+        "followers": 5648
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=gsr-K3ADUvAC",
+        "citations": 122161
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/750274527016386560/D8Z1_kgh_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Christopher M. Bishop",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/noramay-cadena.md",
+      "title": "Noramay Cadena",
+      "excerpt": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/noramay-cadena/index.json",
+      "webUrl": "https://everyday.cc/ai/people/noramay-cadena/",
+      "type": "profile",
+      "name": "Noramay Cadena",
+      "bio": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
+      "location": "Los Angeles, CA",
+      "website": "https://t.co/t9CFIWFMbw",
+      "twitter": {
+        "username": "noramayc",
+        "url": "https://twitter.com/noramayc",
+        "followers": 17721
       },
       "topics": [
         "AI"
       ],
-      "heat": 58,
+      "heat": 64,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/423189890545643520/w6Fjk14f_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Rosalind Picard",
+          "title": "Noramay Cadena",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/verity-harding.md",
+      "title": "Verity Harding",
+      "excerpt": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/verity-harding/index.json",
+      "webUrl": "https://everyday.cc/ai/people/verity-harding/",
+      "type": "profile",
+      "name": "Verity Harding",
+      "bio": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
+      "website": "https://t.co/7skid8sUXc",
+      "twitter": {
+        "username": "verityharding",
+        "url": "https://twitter.com/verityharding",
+        "followers": 2514
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Verity_Harding"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1179858918132142080/UucjikYj_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Verity Harding",
           "isCached": true
         }
       ],
@@ -66,13 +178,133 @@
         "AI",
         "AI in Robotics"
       ],
-      "heat": 50,
+      "heat": 57,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/429713639285596161/D0ReK5-6_400x400.jpeg",
           "width": 400,
           "height": 400,
           "title": "Alice M. Agogino",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/francisco-matorras.md",
+      "title": "Francisco Matorras",
+      "excerpt": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/francisco-matorras/index.json",
+      "webUrl": "https://everyday.cc/ai/people/francisco-matorras/",
+      "type": "profile",
+      "name": "Francisco Matorras",
+      "bio": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
+      "twitter": {
+        "username": "fmatorras",
+        "url": "https://twitter.com/fmatorras",
+        "followers": 286
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=q_wYjF8AAAAJ",
+        "citations": 263241
+      },
+      "affiliation": {
+        "path": "",
+        "name": "unican.es",
+        "domain": "unican.es"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/2284145603/avve47pj9ve1nnwip2pm_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Francisco Matorras",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/martin-ford.md",
+      "title": "Martin Ford",
+      "excerpt": "Martin Ford is a futurist and author focusing on artificial intelligence and robotics, and the impact of these technologies on the job market, economy and society. He has written three books on technology.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/martin-ford/index.json",
+      "webUrl": "https://everyday.cc/ai/people/martin-ford/",
+      "type": "profile",
+      "name": "Martin Ford",
+      "bio": "Martin Ford is a futurist and author focusing on artificial intelligence and robotics, and the impact of these technologies on the job market, economy and society. He has written three books on technology.",
+      "location": "Silicon Valley, CA",
+      "website": "https://t.co/NRuuR6oILg",
+      "twitter": {
+        "username": "MFordFuture",
+        "url": "https://twitter.com/MFordFuture",
+        "followers": 48873
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Martin_Ford_(author)"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/539018046287790080/Wvt135w6_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Martin Ford",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/rodney-brooks.md",
+      "title": "Rodney Brooks",
+      "excerpt": "Rodney Brooks is the Panasonic Professor of Robotics (emeritus) at MIT. He is a robotics entrepreneur and most recently was Founder and CTO of Robust.ai",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rodney-brooks/index.json",
+      "webUrl": "https://everyday.cc/ai/people/rodney-brooks/",
+      "type": "profile",
+      "name": "Rodney Brooks",
+      "bio": "Rodney Brooks is the Panasonic Professor of Robotics (emeritus) at MIT. He is a robotics entrepreneur and most recently was Founder and CTO of Robust.ai",
+      "location": "San Francisco, CA",
+      "website": "https://rodneybrooks.com/",
+      "twitter": {
+        "username": "rodneyabrooks",
+        "url": "https://twitter.com/rodneyabrooks",
+        "followers": 25313
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/rodney-brooks-1a137517/"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.ca/citations?user=BCGgwlEAAAAJ",
+        "citations": 50473
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Rodney_Brooks"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "MIT",
+        "domain": "mit.edu"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1443383839779213313/8bSPkSxQ_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Rodney Brooks",
           "isCached": true
         }
       ],
@@ -237,6 +469,45 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/daniele-bonacorsi.md",
+      "title": "Daniele Bonacorsi",
+      "excerpt": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/daniele-bonacorsi/index.json",
+      "webUrl": "https://everyday.cc/ai/people/daniele-bonacorsi/",
+      "type": "profile",
+      "name": "Daniele Bonacorsi",
+      "bio": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
+      "twitter": {
+        "username": "DBonacorsi",
+        "url": "https://twitter.com/DBonacorsi",
+        "followers": 730
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=7_xEzmUAAAAJ",
+        "citations": 182653
+      },
+      "affiliation": {
+        "path": "",
+        "name": "infn.it",
+        "domain": "infn.it"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1841900580/twitter_image_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Daniele Bonacorsi",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/david-lopez-mateos.md",
       "title": "David Lopez Mateos",
       "excerpt": "Chief Science Officer at Pace. Formerly VP of Research at Winton, particle physics researcher at Harvard and CERN",
@@ -349,70 +620,44 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/francisco-matorras.md",
-      "title": "Francisco Matorras",
-      "excerpt": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/francisco-matorras/index.json",
-      "webUrl": "https://everyday.cc/ai/people/francisco-matorras/",
+      "path": "_people/huahai-yang.md",
+      "title": "Huahai Yang",
+      "excerpt": "A technologist and an entrepreneur. Used to be a professor and a research scientist.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/huahai-yang/index.json",
+      "webUrl": "https://everyday.cc/ai/people/huahai-yang/",
       "type": "profile",
-      "name": "Francisco Matorras",
-      "bio": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
+      "name": "Huahai Yang",
+      "bio": "A technologist and an entrepreneur. Used to be a professor and a research scientist.",
+      "location": "San Jose, CA",
+      "website": "https://t.co/s5ydlRJnm8",
       "twitter": {
-        "username": "fmatorras",
-        "url": "https://twitter.com/fmatorras",
-        "followers": 286
+        "username": "huahaiy",
+        "url": "https://twitter.com/huahaiy",
+        "followers": 958
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/huahaiyang/"
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=q_wYjF8AAAAJ",
-        "citations": 263241
+        "url": "https://scholar.google.com/citations?user=KvPSD8EAAAAJ",
+        "citations": 314545
       },
       "affiliation": {
         "path": "",
-        "name": "unican.es",
-        "domain": "unican.es"
+        "name": "juji.io",
+        "domain": "juji.io"
       },
       "topics": [
         "AI",
-        "Machine Learning"
+        "Natural Language Processing"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/2284145603/avve47pj9ve1nnwip2pm_400x400.jpeg",
+          "url": "https://pbs.twimg.com/profile_images/1189433763953950721/9-Nr_tN-_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Francisco Matorras",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/jack-clark.md",
-      "title": "Jack Clark",
-      "excerpt": "Policy Director @openai & @indexingai  Newsletter: https://t.co/03WBZSPtRw  Past:  @business Neural Net Reporter.  @theregister Distributed Systems Reporter.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jack-clark/index.json",
-      "webUrl": "https://everyday.cc/ai/people/jack-clark/",
-      "type": "profile",
-      "name": "Jack Clark",
-      "bio": "Policy Director @openai & @indexingai  Newsletter: https://t.co/03WBZSPtRw  Past:  @business Neural Net Reporter.  @theregister Distributed Systems Reporter.",
-      "location": "San Francisco, CA",
-      "website": "https://jack-clark.net/",
-      "twitter": {
-        "username": "jackclarksf",
-        "url": "https://twitter.com/jackclarksf",
-        "followers": 44576
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Jack Clark",
+          "title": "Huahai Yang",
           "isCached": true
         }
       ],
@@ -891,218 +1136,6 @@
           "width": 91,
           "height": 127,
           "title": "Lotfi A. Zadeh",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/luc-van-gool.md",
-      "title": "Luc Van Gool",
-      "excerpt": "professor computer vision @ ETH Zurich ee.ethz.ch & @ KU Leuven,  Head Toyota Res Lab …",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/luc-van-gool/index.json",
-      "webUrl": "https://everyday.cc/ai/people/luc-van-gool/",
-      "type": "profile",
-      "name": "Luc Van Gool",
-      "bio": "professor computer vision @ ETH Zurich ee.ethz.ch & @ KU Leuven,  Head Toyota Res Lab …",
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/luc-van-gool-1b4a689/"
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=TwMib_QAAAAJ",
-        "citations": 157860
-      },
-      "affiliation": {
-        "path": "",
-        "name": "kuleuven.be",
-        "domain": "kuleuven.be"
-      },
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations?view_op=view_photo&user=TwMib_QAAAAJ&citpid=2",
-          "width": 128,
-          "height": 84,
-          "title": "Luc Van Gool",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/lydia-e-kavraki.md",
-      "title": "Lydia E. Kavraki",
-      "excerpt": "DescriptionLydia E. Kavraki is a Greek-American computer scientist, the Noah Harding Professor of Computer Science, a professor of bioengineering, electrical and computer engineering, and mechanical engineering at Rice University. She is also the director of the Ken Kennedy Institute at Rice University.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/lydia-e-kavraki/index.json",
-      "webUrl": "https://everyday.cc/ai/people/lydia-e-kavraki/",
-      "type": "profile",
-      "name": "Lydia E. Kavraki",
-      "bio": "DescriptionLydia E. Kavraki is a Greek-American computer scientist, the Noah Harding Professor of Computer Science, a professor of bioengineering, electrical and computer engineering, and mechanical engineering at Rice University. She is also the director of the Ken Kennedy Institute at Rice University.",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=Q6pxNZYAAAAJ",
-        "citations": 32080
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Lydia_Kavraki"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "rice.edu",
-        "domain": "rice.edu"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations?view_op=medium_photo&user=Q6pxNZYAAAAJ&citpid=2",
-          "width": 246,
-          "title": "Lydia E. Kavraki",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/madeline-gannon.md",
-      "title": "Madeline Gannon",
-      "excerpt": "Inventing better ways to communicate with machines.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/madeline-gannon/index.json",
-      "webUrl": "https://everyday.cc/ai/people/madeline-gannon/",
-      "type": "profile",
-      "name": "Madeline Gannon",
-      "bio": "Inventing better ways to communicate with machines.",
-      "location": "Pittsburgh, PA",
-      "website": "https://t.co/It4puKUIPF",
-      "twitter": {
-        "username": "madelinegannon",
-        "url": "https://twitter.com/madelinegannon",
-        "followers": 3100
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/852213397386969088/8zewUndt_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Madeline Gannon",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/maja-j-mataric.md",
-      "title": "Maja J Mataric",
-      "excerpt": "Maja J. Matarić is an American computer scientist and roboticist, and the Chan Soon-Shiong Chaired Professor of Computer Science, Neuroscience, and Pediatrics at the University of Southern California.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/maja-j-mataric/index.json",
-      "webUrl": "https://everyday.cc/ai/people/maja-j-mataric/",
-      "type": "profile",
-      "name": "Maja J Mataric",
-      "bio": "Maja J. Matarić is an American computer scientist and roboticist, and the Chan Soon-Shiong Chaired Professor of Computer Science, Neuroscience, and Pediatrics at the University of Southern California.",
-      "website": "http://www-robotics.usc.edu/~maja/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/maja-mataric-5b670014"
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=o5YQMkMAAAAJ",
-        "citations": 40445
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Maja_Matari%C4%87"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "usc.edu - Homepage",
-        "domain": "usc.edu - Homepage"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations?view_op=medium_photo&user=o5YQMkMAAAAJ&citpid=2",
-          "width": 200,
-          "height": 180,
-          "title": "Maja J Mataric",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/maurizio-pierini.md",
-      "title": "Maurizio Pierini",
-      "excerpt": "CERN",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/maurizio-pierini/index.json",
-      "webUrl": "https://everyday.cc/ai/people/maurizio-pierini/",
-      "type": "profile",
-      "name": "Maurizio Pierini",
-      "bio": "CERN",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=3vZMAs4AAAAJ",
-        "citations": 200347
-      },
-      "affiliation": {
-        "path": "",
-        "name": "cern.ch",
-        "domain": "cern.ch"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations?view_op=view_photo&user=3vZMAs4AAAAJ&citpid=1",
-          "width": 122,
-          "height": 126,
-          "title": "Maurizio Pierini",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/mherubahsan-161-15-726.md",
-      "title": "Mherubahsan 161-15-726",
-      "excerpt": "student of computer science",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/mherubahsan-161-15-726/index.json",
-      "webUrl": "https://everyday.cc/ai/people/mherubahsan-161-15-726/",
-      "type": "profile",
-      "name": "Mherubahsan 161-15-726",
-      "bio": "student of computer science",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=uVsDGTUAAAAJ",
-        "citations": 266363
-      },
-      "affiliation": {
-        "path": "",
-        "name": "diu.edu.bd",
-        "domain": "diu.edu.bd"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations?view_op=view_photo&user=uVsDGTUAAAAJ&citpid=1",
-          "width": 128,
-          "height": 100,
-          "title": "Mherubahsan 161-15-726",
           "isCached": false
         }
       ],
