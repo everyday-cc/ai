@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-03-ai-document-analysis-banking-fin
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ai-document-analysis-banking-financial.amp"
 type: article
 quality: 64
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -108,6 +108,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 10
+  - title: "Observe.AI Launches the Contact Center Industry's First Selective Redaction Solution to Boost Compliance and Agent Performance"
+    excerpt: "Observe.AI, the Intelligent Workforce Platform that transforms contact centers through AI, today introduced the industry's first AI-powered solution for selectively redacting Personal Identifiable Information (PII), Payment Card Information (PCI), and ..."
+    publishedDateTime: 2022-03-08T16:06:00Z
+    webUrl: "https://sip-trunking.tmcnet.com/news/2022/03/08/9559065.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "f4d1H796b90EYYar6o3FLy0D+MPBSbuol8LLefv+OfCFyZf3tLV5OT1049gS2kxmfqlmPXHwu+U0d9RkzsE8N7nCCQz30Y/rHEn11oRgx3QG5VFv+qiaoqWWX9WYxtvdTBVS+5NzXQRyY8HAdUphlh8C3zcvR9vvSBrw4BblfbtlxAxPEUVXzB2ux0Z2gOxTanVzn1MBL05OxB4cuAI3ZehjTgoCk8qVII3oALCJqc7poOjJIaBjsV/FSCWzz2gi4GQ3HhrtiDUAqVILBJ4wolwHgITsAfqt+GbMxvfeZNAHBlL2nmykg0SrVgSlOVNSv0V9u3qA9ZnlfWESmAwvwUiPnGyyIlys7N0fKqXDPQc=;jBhTTVkJnZi5P+D86jp3ew=="
 ---

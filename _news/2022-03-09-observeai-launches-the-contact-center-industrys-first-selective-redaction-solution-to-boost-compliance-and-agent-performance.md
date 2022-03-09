@@ -1,30 +1,21 @@
 ---
 category: news
-title: "Loughborough University: New AI model will speed up document analysis for the banking, financial and insurance industries"
-excerpt: "The team from Loughborough University and Xceptor – which describes itself as a no-code data automation platform – has created a deep learning model for natural language processing (NLP) that can analyse the content and structure of invoices,"
-publishedDateTime: 2022-03-08T10:46:00Z
-originalUrl: "https://indiaeducationdiary.in/loughborough-university-new-ai-model-will-speed-up-document-analysis-for-the-banking-financial-and-insurance-industries/"
-webUrl: "https://indiaeducationdiary.in/loughborough-university-new-ai-model-will-speed-up-document-analysis-for-the-banking-financial-and-insurance-industries/"
-ampWebUrl: "https://indiaeducationdiary.in/loughborough-university-new-ai-model-will-speed-up-document-analysis-for-the-banking-financial-and-insurance-industries/"
-cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/loughborough-university-new-ai-model-will-speed-up-document-analysis-for-the-banking-financial-and-insurance-industries/"
+title: "Observe.AI Launches the Contact Center Industry's First Selective Redaction Solution to Boost Compliance and Agent Performance"
+excerpt: "Observe.AI, the Intelligent Workforce Platform that transforms contact centers through AI, today introduced the industry's first AI-powered solution for selectively redacting Personal Identifiable Information (PII), Payment Card Information (PCI), and ..."
+publishedDateTime: 2022-03-08T16:06:00Z
+originalUrl: "https://sip-trunking.tmcnet.com/news/2022/03/08/9559065.htm"
+webUrl: "https://sip-trunking.tmcnet.com/news/2022/03/08/9559065.htm"
 type: article
-quality: 49
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: India Education Diary
-  domain: indiaeducationdiary.in
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Finance
   - AI
-
-images:
-  - url: "https://indiaeducationdiary.in/wp-content/uploads/2022/01/Loughborough-University-1024x576.jpg"
-    width: 1024
-    height: 576
-    isCached: true
 
 related:
   - title: "AI model may speed up document analysis for the banking, financial and insurance industries"
@@ -42,6 +33,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/new-ai-model-will-spee.jpg"
         width: 553
         height: 222
+        isCached: true
+  - title: "Loughborough University: New AI model will speed up document analysis for the banking, financial and insurance industries"
+    excerpt: "The team from Loughborough University and Xceptor – which describes itself as a no-code data automation platform – has created a deep learning model for natural language processing (NLP) that can analyse the content and structure of invoices,"
+    publishedDateTime: 2022-03-08T10:46:00Z
+    webUrl: "https://indiaeducationdiary.in/loughborough-university-new-ai-model-will-speed-up-document-analysis-for-the-banking-financial-and-insurance-industries/"
+    ampWebUrl: "https://indiaeducationdiary.in/loughborough-university-new-ai-model-will-speed-up-document-analysis-for-the-banking-financial-and-insurance-industries/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/loughborough-university-new-ai-model-will-speed-up-document-analysis-for-the-banking-financial-and-insurance-industries/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 49
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2022/01/Loughborough-University-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "New AI model will speed up document analysis for the banking, financial and insurance industries"
     excerpt: "Researchers have developed an AI-based solution which can automatically analyse and extract large amounts of information from computer documents."
@@ -108,16 +115,7 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 10
-  - title: "Observe.AI Launches the Contact Center Industry's First Selective Redaction Solution to Boost Compliance and Agent Performance"
-    excerpt: "Observe.AI, the Intelligent Workforce Platform that transforms contact centers through AI, today introduced the industry's first AI-powered solution for selectively redacting Personal Identifiable Information (PII), Payment Card Information (PCI), and ..."
-    publishedDateTime: 2022-03-08T16:06:00Z
-    webUrl: "https://sip-trunking.tmcnet.com/news/2022/03/08/9559065.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
-secured: "JvfVnRWmjYrj3L5YI7fTKl6gWENx59Bpsn4ci7WuNeaJIU7jJ3HoB+KKTORhYpZJM0sUEVZnU9x08Wp0Z+PbaTgQIpxE20qdYycHBm7XZyECLzzYDJ4w7khYDRmW6tfwwOhGwTckeriMKHy7GHkBsA8GVeOlIESQBjpd2bKppSLvqaepMjjcpq6SKGKGRnb45YSuDjIpGs+9AFjF++0z0lYCc9ZnYvDL6uGwr4vFnctHiKeqLYOTAv7ByyjlvbBbMhg4COaPk9xBgzHABCUaLXEw9jq+++3bHkV1IYfKxz6dfvYlE+hxYUCdCoswTrznhyVR2+9fnyvN+mJgZGLMhxAfOHYEEiZ5pjLNYcXWc68=;w289xZtIvw8Z+SA26EmBIA=="
+secured: "kl4cTPtSDT9WQEhIP1+78PBd0qvXHLtESXwpu6yywB3+byKfE2LkAxPujKS+bH873b/AZvr6JkfmlyvVGbwkrwZYhSCq1QKK2TEfUfU/Apfnn+gy7Zf4nU5nXPBcHws11qkvLMep7LooO+KyzhqtVJVpYvdQPCQDWHq95/AC6fv4BZUp2RBsQeO77JgxEXTU5Bu82ncVCnSmVvKAB8Mz50Zx0nKyZ9Br+YZvzA6Mq44hg6/LXSBiTfEIbsrL6Ph/2EkA7dg4fufL9982mlRMDjVUy765O3jGS/v/0TbAqRpJT3ijGT7ZlrCC2MUeosUkfQA9cCh3wMGRaaN9zyX5PX+m8FcdajjhnDarpdjkYfk=;zbJJ5y4I9binCXZ8u4ZUAg=="
 ---
 

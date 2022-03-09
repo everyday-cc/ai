@@ -41,6 +41,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "ALERT: C3.ai, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - AI"
+    excerpt: "Robbins Geller Rudman & Dowd LLP announces that purchasers or acquirers of C3.ai, Inc. (NYSE: AI): (a) Class A common stock pursuant and/or traceable to the offering documents issued in connection with C3.ai’s initial public offering conducted on or abou ..."
+    publishedDateTime: 2022-03-08T18:39:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220308006134/alert-c3ai-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-ai"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 1
 
 secured: "STEaD+Wp2T+9Jh8XNOW4xiUx2ttkQsKclOa/V+XtBiKEXiFXe1gbME7CKKyXYQ6JJ3sJzZnFjfamz73QtaJzGPP+hxpQmCQPgElbIU3F8F2ZE/y7Kd9f+YfytKxDMgClI7itw59vgNHCddR+kfCNeDtJ7MijU6XVn/yk7+s1FqPsFSxGyold9dM+aGuoZmbAQYL5q96r2yWJ2jkep9m0vMD4+iLKDAGKjg7Jy6VIVHWh/Zcribmqos0tl8tTznKKC14rkTQczPUFIOh/FR0ORbF4pYpO45sM6GQd0ObP7xlu6JnHAWl5XcyYRj5MHP486vFREXuy1AFc9Fwf0+YowGlrkyAM7EaQ2GmTe3MtbZM=;lmtvJrFi226uyhcmzeAdDg=="
 ---

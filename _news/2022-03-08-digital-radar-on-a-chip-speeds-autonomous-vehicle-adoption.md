@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/digital-radar-on-a-chip-spe
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/digital-radar-on-a-chip-speeds-autonomous-vehicle-adoption/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

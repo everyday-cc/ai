@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wtvr.com/news/national/artificial-intelligence-aids-doct
 cdnAmpWebUrl: "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/national/artificial-intelligence-aids-doctors-during-colonoscopy-screening?_amp=true"
 type: article
 quality: 72
-heat: 82
+heat: 84
 published: true
 
 provider:

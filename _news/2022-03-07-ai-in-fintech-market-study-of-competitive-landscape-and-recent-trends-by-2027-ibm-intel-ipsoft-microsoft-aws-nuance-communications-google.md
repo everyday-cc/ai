@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Healthcare Service Market Next Big Thing : Major Giants IBM, Microsoft, Atomwise"
-    excerpt: "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 03/04/2022 -- The Latest research study released by HTF MI"
-    publishedDateTime: 2022-03-04T18:06:00Z
-    webUrl: "https://www.cedars-sinai.org/newsroom/cedars-sinai-establishes-new-division-artificial--intelligence-in-medicine/"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 157
-    images:
-      - url: "https://content.presspage.com/uploads/2110/1920_ai-cedarsp-sinai.jpeg?10000"
-        width: 1799
-        height: 1200
-        isCached: true
   - title: "Microsoft Makes a Big Move Into AI-Driven Healthcare"
     excerpt: "American tech giant Microsoft - Get Microsoft Corporation Report has made a major push into artificial intelligence this week, closing its deal to acquire AI pioneer Nuance Commun"
     publishedDateTime: 2022-03-04T21:40:00Z
@@ -57,6 +43,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Microsoft offers up to $150K in Azure cloud credit for startup founders"
+    excerpt: "Microsoft Corp. announced today that it’s willing to support startup founders with a combination of technology benefits such as free cloud computing credits and expert guidance in the form of technical support and mentorship."
+    publishedDateTime: 2022-03-08T17:00:00Z
+    webUrl: "https://siliconangle.com/2022/03/08/microsoft-offers-150k-azure-cloud-credit-startup-founders/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/microsoft-startups-founders-hub.png"
+        width: 1038
+        height: 581
+        isCached: true
   - title: "Content Moderation Automation Market Is Going to Boom : Appen, Cogito, Microsoft Azure"
     excerpt: "Some of the Major Companies covered in this Research are Viafoura, TaskUs, Besedo, Cogito, Microsoft Azure, Open Access BPO, Appen, Magellan Solutions, Webhelp, Clarifai, Pactera, OneSpace, Two Hat, Lionbridge AI, Cognizant, LiveWorld, Arvato, Accenture ..."
     publishedDateTime: 2022-03-07T20:06:00Z
@@ -70,6 +70,34 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/2c3e9fb9520543e0c2d9e800024604f4753e3e00-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "What does Microsoft want to achieve with Singularity?"
+    excerpt: "Singularity can enable thousands of GPUs and AI accelerators to work in tandem. Devices within the infrastructure service are treated as a single cluster, ensuring max performance and no wastage of resources."
+    publishedDateTime: 2022-03-07T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/what-does-microsoft-want-to-achieve-with-singularity/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/What-does-Microsoft-want-to-achieve-with-Singularity.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Microsoft announces Virtual Data & AI Conference, Microsoft DataNext: Putting AI Innovation into Action"
+    excerpt: "Microsoft, in association with Analytics India Magazine, has announced a first-of-its-kind virtual summit, ‘DataNext: Putting AI innovation into action’"
+    publishedDateTime: 2022-03-08T11:36:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-announces-virtual-data-ai-conference-microsoft-datanext-putting-ai-innovation-into-action/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 38
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/webpc-passthru.php?src=https://analyticsindiamag.com/wp-content/uploads/2022/03/Microsoft-DataNext-Article-Banner_2.jpg&nocache=1"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Microsoft Vaults Further Into Health-Care Services With Closing of Nuance Deal"
     excerpt: "Nuance Communications Inc., pushing the software giant deeper into the market for health-care services and artificial intelligence. The $19.6 billion deal, announced last April, lets Microsoft add cloud-computing and AI offerings aimed at health-care,"

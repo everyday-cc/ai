@@ -106,6 +106,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Observe.AI Launches the Contact Center Industry's First Selective Redaction Solution to Boost Compliance and Agent Performance"
+    excerpt: "Observe.AI, the Intelligent Workforce Platform that transforms contact centers through AI, today introduced the industry's first AI-powered solution for selectively redacting Personal Identifiable Information (PII), Payment Card Information (PCI), and ..."
+    publishedDateTime: 2022-03-08T16:06:00Z
+    webUrl: "https://sip-trunking.tmcnet.com/news/2022/03/08/9559065.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "2Rf8r2XxM4SMMMtJ2LaLqnV+I0kpk9LvjG4FRZK0gdxj7mvunmXs9bW+ZwJJENR5NLdhlT3N2ZLwpgdKPOv2CsgnlcLHjCva71JQGhfH4lwxVOOhxCGXBqoqLG7VfY6Kw+cTNtDWeL5MCwxu7QuV87Rw6o2b66W3n7PE7x2W+kalQGXRMOXmv7i04qvuvT6lE9ZLiDv+yQtYrjq8i4p9hzGMcayIk5TtUY3rj/8jwDPXktR0Wm/QjFrM1IHgEtU8pVQZ/PDZzcUHomhSHg9MPVYzYbsJue8rEz9NA2u/m37+dVwaqshGPtY9l0bRcjC5PrgaILB+ImeN+yLGuJmZp4HASlVf4y/4Zw2rnYI/hwM=;UL4BxMsYqxyMoDHC3ZdG5A=="
 ---

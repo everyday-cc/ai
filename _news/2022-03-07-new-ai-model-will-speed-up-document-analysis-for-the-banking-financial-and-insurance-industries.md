@@ -108,6 +108,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 10
+  - title: "Observe.AI Launches the Contact Center Industry's First Selective Redaction Solution to Boost Compliance and Agent Performance"
+    excerpt: "Observe.AI, the Intelligent Workforce Platform that transforms contact centers through AI, today introduced the industry's first AI-powered solution for selectively redacting Personal Identifiable Information (PII), Payment Card Information (PCI), and ..."
+    publishedDateTime: 2022-03-08T16:06:00Z
+    webUrl: "https://sip-trunking.tmcnet.com/news/2022/03/08/9559065.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Y7jAOlLO56zRRrsW9HyhO27NRkmqt85QX5Dp4Cen64QjwhRvBTdeB6Hq5sB8BWHlRRJwVUBY8AlN+Kt7/Uqa6Zl+M3BmH3LRV6rMAyJQZHmcTKohiAEft7qiQHXBLZC0GcoEi71WnD42J/l+hMqOOEHpkgLckQ0M35yOGxDcgm/tgfdUojUR7DI1+6b8TaNfFZd0W18tL3NKtDkBRZCOeM4RwIpIhij0PWcFoV9ACc6E+FZjeUIiRvHDpFr682Y6g50Znyy41EpD6hqBOhdfMDKWrEJqpaAL8EZZ8dmlQIEgsIv7mAe82qqU8Cr30VIAliC7znIJm5rcbZzc94TIKLjYBq4HP+qzR42VMTPsFBE=;UcQo8oBzfM0dfA1+mpOFKg=="
 ---
