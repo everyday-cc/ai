@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-works
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-workspace-market-comprehensive-study-explores-huge-revenue-scope-in-future-leading-key-players-covid-19-effects"
 type: article
 quality: 3
-heat: 3
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "New study - AI helps protect businesses from COVID-19 risks"
+    excerpt: "A new study has found that artificial intelligence (AI) helped protect small and medium-sized businesses against many of the risks that emerged during the COVID-19 pandemic – yet only a quarter of small firms currently use them."
+    publishedDateTime: 2022-03-07T00:00:00Z
+    webUrl: "https://www.cambridgenetwork.co.uk/news/new-study-ai-helps-protect-businesses-covid-19-risks"
+    type: article
+    provider:
+      name: Cambridge Network
+      domain: cambridgenetwork.co.uk
+    quality: 37
+    images:
+      - url: "https://www.cambridgenetwork.co.uk/sites/default/files/styles/large/public/Blog%20Advert%20%28News%29.png?itok=XJens5pZ"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "0i9dvJfSBE0RC+L+e5zVtPOeedqKjG7/oOzJyk95xnjctjhDZL0A58EbLvQx113+tqBEMh4eBiKef1/NiR2Y++WSnZ5Cb79pB1XbkjdSWytGNdiLs2dip9o6Wu/I4tKoz6AXQ4vh/IXmd4gISAoLAZaglk+/UrNokJZd8n4cnr8GJCEPLIBypslQmHvCKoYyrZ2bTkdtqarU4XIfEumyrdhwIa9bdplctpf2nltGt63no+BbfN9mmi65ZFeXMkNvTMhn460t93arNaAwJZMxbGLg/3D9sT8KCz/JbttItPWAvI8gxOGWnt8FKILC5fNLegSGiWV1K7Sg7+NUkpE9CUVWJljzbWlbRwXwc+oaxf8=;Vzw/RJHqDWQe7u9+y+76tA=="
 ---

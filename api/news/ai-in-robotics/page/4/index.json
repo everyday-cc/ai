@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-02-05-chinese-scientists-build-robot-nanny-to-care-for-babies-in-artificial-womb.md",
-      "title": "Chinese scientists build robot nanny to care for babies in artificial womb",
-      "excerpt": "Scientists in China have created a robotic artificial intelligence system to monitor and care for ... Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp",
-      "originalUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2022/01/31/16/robot%20nanny%20china.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp",
-      "publishedDateTime": "2022-02-04T11:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-05-innovations-in-robotics-ai-will-continue-to-power-this-etf.md",
       "title": "Innovations in Robotics, AI Will Continue to Power This ETF",
       "excerpt": "More innovation in robotics and artificial intelligence could bloom out of healthy competition, which could power the First Trust Nasdaq Artificial Intelligence and Robotics ETF (ROBT) even further. The disruptive space, highlighted by robots and AI ...",
@@ -1370,6 +1327,58 @@
         "AI",
         "AI in Sales",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-takara-tomys-remote-control-robo-q-robot-is-tiny-incredibly-cute.md",
+      "title": "Takara Tomy's remote control robo-Q robot is tiny, incredibly cute",
+      "excerpt": "You see, the February-bound robo-Q bipedal robot is about the size of a human thumb, yet its heart and mind are big enough to understand commands via remote control. There's even obstacle ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2009-01-26-takara-tomys-remote-control-robo-q-robot-is-tiny-incredibly-cu.html",
+      "originalUrl": "https://www.engadget.com/2009-01-26-takara-tomys-remote-control-robo-q-robot-is-tiny-incredibly-cu.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/oMZyEz1ppGI0FM6wRpNWoQ--~B/aD00MjE7dz01MDA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2009/01/robo-qphoto1_small.jpg",
+          "width": 500,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/2009-01-26-takara-tomys-remote-control-robo-q-robot-is-tiny-incredibly-cu.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2009-01-26-takara-tomys-remote-control-robo-q-robot-is-tiny-incredibly-cu.html",
+      "publishedDateTime": "2022-01-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

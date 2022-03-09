@@ -160,7 +160,7 @@
       "originalUrl": "https://www.protocol.com/bulletins/microsoft-completes-nuance-acquisition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -197,10 +197,10 @@
     {
       "path": "_news/2022-03-04-kmworld-100-companies-that-matter-in-knowledge-management-2022.md",
       "title": "KMWorld 100 Companies That Matter in Knowledge Management 2022",
-      "excerpt": "Flexibility, agility, and the ability to pivot continue to be essential characteristics of winning companies. Organizations must have the right tools and products so they can break down information silos,",
+      "excerpt": "AvePoint—Offers a full suite of SaaS solutions to migrate, man- age, and protect data in Microsoft 365 ... to automate routine cognitive tasks and provide insights. Infosys—A global provider of next-generation services and consulting that enables ...",
       "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943&hss_channel=tw-90730744",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943&hss_channel=tw-90730744",
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -219,7 +219,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T21:00:00-08:00",
+      "publishedDateTime": "2022-03-03T21:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "KMWorld Magazine",

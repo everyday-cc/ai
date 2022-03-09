@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/4-stocks-in-spotlight-with-ai-making
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-stocks-in-spotlight-with-ai-making-inroads-in-medtech?amp"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Nasdaq
@@ -19,22 +19,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Medical Reimbursement Now Available for Trabecular Bone Score (TBS), an Advanced Medtech Solution with Artificial Intelligence Capabilities, for Osteo"
-    excerpt: "MEDIMAPS GROUP ( a Swiss/Global med-tech company specializing in image processing software for the assessment of bone health, announced today that CMS reimbursement is now available for its Trabecular Bone Score (TBS iNsight™) for DXA and X-ray imaging."
-    publishedDateTime: 2022-03-04T16:38:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=626652"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "uSuLASncdmYlYjbywN1kDxIDzPOgQ9NjjMM6BCznK3pVaT5AwNr2QHMNG03LD//Q3Y0kCr5Wv9hjuMsogtMMGkgE/KbOr7qBrJL/IFXoshHe4Fl5Ih7ZS+42Zj+SzoSliGCv9G4HEO86tJtFb5rWxlwa+veTABPl9dID8mKOXewwIuokQ3IpTLB33L6HlgX/wAKvUC3VOq8dNxf64jMAQzN1r0mo/DFYI3eZTXK1TSn+EmyWsWyExiDhHgksQOb/rUj6fUi3Egdv0bkb0/O40eWJMnttuhMNbtGrUfAPHPshEUzlm7dCnWGks1sKMYqrmP7yl4XwflKII5GLP0hlvTGBm1E4tS+5CL7ZR46ZTa8=;a71GsAIn0Ez0IMZ7loDGtQ=="
 ---

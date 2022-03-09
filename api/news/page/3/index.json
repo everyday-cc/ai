@@ -247,10 +247,10 @@
     {
       "path": "_news/2022-03-04-kmworld-100-companies-that-matter-in-knowledge-management-2022.md",
       "title": "KMWorld 100 Companies That Matter in Knowledge Management 2022",
-      "excerpt": "Flexibility, agility, and the ability to pivot continue to be essential characteristics of winning companies. Organizations must have the right tools and products so they can break down information silos,",
+      "excerpt": "AvePoint—Offers a full suite of SaaS solutions to migrate, man- age, and protect data in Microsoft 365 ... to automate routine cognitive tasks and provide insights. Infosys—A global provider of next-generation services and consulting that enables ...",
       "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943&hss_channel=tw-90730744",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943&hss_channel=tw-90730744",
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -269,7 +269,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T21:00:00-08:00",
+      "publishedDateTime": "2022-03-03T21:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "KMWorld Magazine",
@@ -919,6 +919,48 @@
       ]
     },
     {
+      "path": "_news/2022-03-04-luminous-computing-the-latest-ai-startup-to-attract-big-funding.md",
+      "title": "Luminous Computing The Latest AI-Startup To Attract Big Funding",
+      "excerpt": "Mountain View, California-based Luminous Computing closed a $105 million Series A Thursday from investors including Microsoft co-founder Bill Gates as AI takes off again",
+      "sourceUrl": null,
+      "webUrl": "https://news.crunchbase.com/news/luminous-computing-vc-funding-cerebra-bill-gates/",
+      "originalUrl": "https://news.crunchbase.com/news/luminous-computing-vc-funding-cerebra-bill-gates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.crunchbase.com/wp-content/uploads/2020/12/ai.png",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-03T09:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "crunchbase",
+        "domain": "crunchbase.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-04-an-artificial-intelligence-rant-neural-networks-are-not-magic-theyre-code.md",
       "title": "An Artificial Intelligence Rant: Neural Networks Are Not Magic, They’re Code",
       "excerpt": "Artificial Intelligence.. I was reading yet another document about artificial intelligence (AI). The introduction was covering the basics and the",
@@ -1114,39 +1156,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-luminous-computing-the-latest-ai-startup-to-attract-big-funding.md",
-      "title": "Luminous Computing The Latest AI-Startup To Attract Big Funding",
-      "excerpt": "Luminous Computing is one—and investors seem intrigued with its promise. The Mountain View, California-based supercomputer company closed a $105 million Series A Thursday from investors including Microsoft co-founder Bill Gates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding",
-      "originalUrl": "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminous-computing-the-latest-ai-startup-to-attract-big-funding?amp",
-      "publishedDateTime": "2022-03-03T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

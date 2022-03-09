@@ -7,7 +7,7 @@ originalUrl: "https://www.protocol.com/bulletins/microsoft-completes-nuance-acqu
 webUrl: "https://www.windowscentral.com/microsoft-completes-197-billion-acquisition-ai-giant-nuance"
 type: article
 quality: 154
-heat: 184
+heat: 164
 published: true
 
 provider:
@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft acquires speech recognition company Nuance for $16 billion"
-    excerpt: "Microsoft has closed on its approximately $16 billion acquisition of speech recognition company Nuance. The deal, which was announced last year, helps Microsoft Corp. get more entrenched into hospitals and the health care industry through Nuance's widely used medical dictation and transcription tools."
-    publishedDateTime: 2022-03-04T16:22:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/microsoft-acquires-speech-recognition-company-nuance-16-billion-2975651?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 76
-    images:
-      - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/01/27/microsoft.jpg?itok=wzEj5a81"
-        width: 750
-        height: 393
-        isCached: true
-  - title: "Microsoft Buys Speech Recognition Company for $16 Billion"
-    excerpt: "Microsoft has closed on its approximately $16 billion acquisition of speech recognition company Nuance. The deal, which was announced last year, helps Microsoft Corp. get more ent"
-    publishedDateTime: 2022-03-04T16:14:00Z
-    webUrl: "https://www.manufacturing.net/software/news/22093769/microsoft-buys-speech-recognition-company-for-16-billion"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 56
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/03/16x9/AP22063541785508.62223ac030364.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 673
-        isCached: true
   - title: "Microsoft announces Virtual Data & AI Conference, Microsoft DataNext: Putting AI Innovation into Action"
     excerpt: "Microsoft, in association with Analytics India Magazine, has announced a first-of-its-kind virtual summit, ‘DataNext: Putting AI innovation into action’"
     publishedDateTime: 2022-03-08T11:36:00Z
