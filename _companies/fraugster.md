@@ -4,7 +4,7 @@ otherNames:
   - "Fraugster Limited"
 overview: "A German-Israeli payment security company that uses AI to eliminate e-commerce fraud and increase customers’ profits. #fraudfree #AI #ecommerce"
 type: "profile"
-heat: 50
+heat: 42
 
 website: https://fraugster.com/
 
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "jzIg7bYyqSZSho7pkO3BF60VSHu7dWQOx2U9zBxeXtQ6+7Sy+eUaQkI5MoNfSbYBk1isqto+EB6htofhHmAUwJVAjfLDxJ0bC1ujZPb+Rg7LkZTVgD4b1gR9L+8EZyig60viJVhXsuG1PL6UGKSo7yhzZCeQhhcyc0YRitiAgLMMCZn6AxUnhA2Ixa2Zivnz5IzpBRyBCPyJTqc8D8aeTxuH06UbvF1DYaFNB3brV3nY+883kYpAQ5u3A/kRDDRCV6woF/XtvWrs2zbRcSSHB1FZRh5kukmYJaYZptrJm7ABVuqBrCrl4I67SYmO0c+fKeTDhWEK65hT+N6RI493ScZrbMEN9czROAyq99IR1Pfi/ebsQRUaSvrV+RpESOLI1sgiKK9AWEi+ht+Pqf4bjA==;uPAfmYzrfDAdr2MUC4NZig=="
+secured: "a2Swe3Q24Sl7JpcUL02QohnN+rj6vzVxWOuipzH4sK46fOOcOFu8pM+8cbmV41cK3QSX5v2TfxdC/uVwF+MzJgtjzpi0DlhCelWHrTeXs/GLIRByUz8VCa+2WZ3sfFcNpsVI5KIPzn/PImZhpb+ydWkAMYn+RaUT0dr//Ty9ExmjyEhZArTHZ1+98taMjNIbFAVS8NW3IysVxA1rcuRrLDWcl3EYOjNUg0Y+slnuXH36ZHVijWi8SFiyKeels4wj5dS/ZPbacOMdeXqephNMotp8Rtd2GyOoDNFDTbQFaXl9TvAudYHX94SDd5Qax3JjTgbqwYW1LdvCrjYkdDCstVEz0oqm07A2xVFnoDs6GNTFiqbCSrU4E55f7UYNHOdgwmsRQdESHcsLFAiy6Onmig==;idHRejeTrpUmzui+MTrDhw=="
 ---
 
