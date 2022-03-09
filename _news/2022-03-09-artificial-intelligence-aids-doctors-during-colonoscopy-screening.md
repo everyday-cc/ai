@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fox17online.com/news/national/artificial-intelligence-ai
 cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/artificial-intelligence-aids-doctors-during-colonoscopy-screening?_amp=true"
 type: article
 quality: 72
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: FOX 17
@@ -24,6 +24,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Artificial intelligence aids doctors during colonoscopy screening"
+    excerpt: "Known as the GI Genius, the deep learning technology uses a database of 13 million images to detect mucosal abnormalities in real-time that might be missed by the naked eye."
+    publishedDateTime: 2022-03-08T15:41:00Z
+    webUrl: "https://www.wtvr.com/news/national/artificial-intelligence-aids-doctors-during-colonoscopy-screening"
+    ampWebUrl: "https://www.wtvr.com/news/national/artificial-intelligence-aids-doctors-during-colonoscopy-screening?_amp=true"
+    cdnAmpWebUrl: "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/national/artificial-intelligence-aids-doctors-during-colonoscopy-screening?_amp=true"
+    type: article
+    provider:
+      name: WTVR
+      domain: wtvr.com
+    quality: 72
+    images:
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/c01/63c1dd2550f243de8acbe752dd0ab1bb/c0148947e0b240feb1b7153a36f2d1ef/poster_4758c2e63f474e1298f89141ebef00c0.png"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "qWkC6V5ahLKk/hVaFgjLJCUaIipgenCYHJi0TJzuwpMDEA+E704Qbz1z7+n1eGoeL3WacGWiPH95aJzLzffGizanKSJWOGs3YJqgOeIG7iev8zLjXUc9QCTBYA8V/7prhCYmxZlFd+TTG5fpNj3iGn7HWXtwn2gp8w8/AmT/wb7A3Qbu5T4PfU1AKKAR3FwCFoG3GHip3lJ4bEdzkQDjc2d13hw+gmFXzQ5WH2dYoRXsbehKszGoWBiPjaSBs+GGQoq1phR/0i0EC3nR42npy7JZ9zR+50xE72EgsYgugJkoOQFw+gEwvXF+pIbo0jDpPuJT+rjoV0FZanm7lnBCnfs6LSjq+yGUl5QDEnED+PQ=;MCEg/6rcz8LsdS314viXJg=="
 ---

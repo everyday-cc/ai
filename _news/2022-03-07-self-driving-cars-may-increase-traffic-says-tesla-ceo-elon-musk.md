@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/mobility/28399/self-driving-cars-may-increas
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/mobility/28399/self-driving-cars-may-increase-traffic-says-tesla-ceo-elon-musk?amp=1"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "An ex-Tesla lawyer received nearly $30 million to ditch Elon Musk's company for a 27-year-old billionaire's self-driving startup"
+    excerpt: "Alan Prescott left Tesla to join Luminar, a startup developing LIDAR for self-driving cars. The amount it took to get him was sizable."
+    publishedDateTime: 2022-03-08T13:30:00Z
+    webUrl: "https://www.businessinsider.com/self-driving-startup-paid-tesla-top-lawyer-ditch-elon-musk-2022-3"
+    ampWebUrl: "https://www.businessinsider.com/self-driving-startup-paid-tesla-top-lawyer-ditch-elon-musk-2022-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-startup-paid-tesla-top-lawyer-ditch-elon-musk-2022-3?amp"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: businessinsider.com
+    quality: 75
+    images:
+      - url: "https://i.insider.com/62266b08990863001998c8dc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Tesla CEO Elon Musk Says Self-Driving Cars Could Cause Heavy Traffic"
     excerpt: "Taking to his Twitter account recently, Tesla CEO Elon Musk has admitted that self-driving cars are likely to make traffic worse."
     publishedDateTime: 2022-03-07T03:58:00Z

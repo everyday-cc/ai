@@ -34,6 +34,22 @@ related:
         width: 553
         height: 222
         isCached: true
+  - title: "Loughborough University: New AI model will speed up document analysis for the banking, financial and insurance industries"
+    excerpt: "The team from Loughborough University and Xceptor – which describes itself as a no-code data automation platform – has created a deep learning model for natural language processing (NLP) that can analyse the content and structure of invoices,"
+    publishedDateTime: 2022-03-08T10:46:00Z
+    webUrl: "https://indiaeducationdiary.in/loughborough-university-new-ai-model-will-speed-up-document-analysis-for-the-banking-financial-and-insurance-industries/"
+    ampWebUrl: "https://indiaeducationdiary.in/loughborough-university-new-ai-model-will-speed-up-document-analysis-for-the-banking-financial-and-insurance-industries/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/loughborough-university-new-ai-model-will-speed-up-document-analysis-for-the-banking-financial-and-insurance-industries/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 49
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2022/01/Loughborough-University-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "New AI model will speed up document analysis for the banking, financial and insurance industries"
     excerpt: "Researchers have developed an AI-based solution which can automatically analyse and extract large amounts of information from computer documents."
     publishedDateTime: 2022-03-07T11:06:00Z
@@ -90,15 +106,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Simple AI Can Enhance The Financial Services Industry"
-    excerpt: "In this special guest feature, Kumesh Aroomoogan, Co-founder and CEO of Accern, believes that data is increasingly being used and desired and financial professionals need faster ways to take advantage of it."
-    publishedDateTime: 2022-03-04T14:00:00Z
-    webUrl: "https://insidebigdata.com/2022/03/04/how-simple-ai-can-enhance-the-financial-services-industry/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
 
 secured: "2Rf8r2XxM4SMMMtJ2LaLqnV+I0kpk9LvjG4FRZK0gdxj7mvunmXs9bW+ZwJJENR5NLdhlT3N2ZLwpgdKPOv2CsgnlcLHjCva71JQGhfH4lwxVOOhxCGXBqoqLG7VfY6Kw+cTNtDWeL5MCwxu7QuV87Rw6o2b66W3n7PE7x2W+kalQGXRMOXmv7i04qvuvT6lE9ZLiDv+yQtYrjq8i4p9hzGMcayIk5TtUY3rj/8jwDPXktR0Wm/QjFrM1IHgEtU8pVQZ/PDZzcUHomhSHg9MPVYzYbsJue8rEz9NA2u/m37+dVwaqshGPtY9l0bRcjC5PrgaILB+ImeN+yLGuJmZp4HASlVf4y/4Zw2rnYI/hwM=;UL4BxMsYqxyMoDHC3ZdG5A=="
 ---

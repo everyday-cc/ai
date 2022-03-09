@@ -19,6 +19,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://assets.telegraphindia.com/telegraph/2022/Feb/1645444374_resized-picture1.jpg"

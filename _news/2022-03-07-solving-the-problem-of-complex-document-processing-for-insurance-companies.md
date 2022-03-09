@@ -41,6 +41,22 @@ related:
         width: 553
         height: 222
         isCached: true
+  - title: "Loughborough University: New AI model will speed up document analysis for the banking, financial and insurance industries"
+    excerpt: "The team from Loughborough University and Xceptor – which describes itself as a no-code data automation platform – has created a deep learning model for natural language processing (NLP) that can analyse the content and structure of invoices,"
+    publishedDateTime: 2022-03-08T10:46:00Z
+    webUrl: "https://indiaeducationdiary.in/loughborough-university-new-ai-model-will-speed-up-document-analysis-for-the-banking-financial-and-insurance-industries/"
+    ampWebUrl: "https://indiaeducationdiary.in/loughborough-university-new-ai-model-will-speed-up-document-analysis-for-the-banking-financial-and-insurance-industries/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/loughborough-university-new-ai-model-will-speed-up-document-analysis-for-the-banking-financial-and-insurance-industries/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 49
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2022/01/Loughborough-University-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "New AI model will speed up document analysis for the banking, financial and insurance industries"
     excerpt: "Researchers have developed an AI-based solution which can automatically analyse and extract large amounts of information from computer documents."
     publishedDateTime: 2022-03-07T11:06:00Z
@@ -83,15 +99,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "How Simple AI Can Enhance The Financial Services Industry"
-    excerpt: "In this special guest feature, Kumesh Aroomoogan, Co-founder and CEO of Accern, believes that data is increasingly being used and desired and financial professionals need faster ways to take advantage of it."
-    publishedDateTime: 2022-03-04T14:00:00Z
-    webUrl: "https://insidebigdata.com/2022/03/04/how-simple-ai-can-enhance-the-financial-services-industry/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
   - title: "Financial Services and Technology Industry Leaders back 'Document to Data' AI Startup"
     excerpt: "IN-D.ai, a leading provider of document and image-processing industry solutions, confirmed that it has closed a seed round of $750K following pre-seed investment of $500K. As per the company, the focus of this round was to get industry leaders,"
     publishedDateTime: 2022-03-07T18:51:00Z

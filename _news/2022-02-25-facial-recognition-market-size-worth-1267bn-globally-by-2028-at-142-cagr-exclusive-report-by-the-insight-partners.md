@@ -1,45 +1,28 @@
 ---
 category: news
 title: "Facial Recognition Market Size Worth $12.67Bn, Globally, by 2028 at 14.2% CAGR - Exclusive Report by The Insight Partners"
-excerpt: "and Face PHI are among the key players profiled during the facial recognition market study. In addition, several other essential market players were studied and analyzed to get a holistic view of the global market and its ecosystem. Inquiry Before Buying ..."
-publishedDateTime: 2022-02-25T12:58:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/facial-recognition-market-size-worth-12-67bn-globally-by-2028-at-14-2-cagr-/article_372e9b79-415f-5c7a-b5bf-fe45a137fa32.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/facial-recognition-market-size-worth-12-67bn-globally-by-2028-at-14-2-cagr-/article_372e9b79-415f-5c7a-b5bf-fe45a137fa32.html"
+excerpt: "The Insight Partners published latest research study on \"Facial Recognition Market Forecast to 2028 - COVID-19 Impact and"
+publishedDateTime: 2022-02-25T11:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/02/n25834423/facial-recognition-market-size-worth-12-67bn-globally-by-2028-at-14-2-cagr-exclusive-report-by-the"
+webUrl: "https://www.benzinga.com/pressreleases/22/02/n25834423/facial-recognition-market-size-worth-12-67bn-globally-by-2028-at-14-2-cagr-exclusive-report-by-the"
+ampWebUrl: "https://www.benzinga.com/amp/content/25834423"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25834423"
 type: article
-quality: 14
-heat: 14
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-related:
-  - title: "Automotive Voice Recognition System Market is expected to grow at a CAGR of 19% from 2019 to 2024 – An exclusive market research report by Lucintel"
-    excerpt: "\"Trends and Forecast for the Global Automotive Voice Recognition System Market\"Trends, opportunities and forecast in automotive voice recognition system"
-    publishedDateTime: 2022-02-25T23:10:00Z
-    webUrl: "https://www.digitaljournal.com/pr/automotive-voice-recognition-system-market-is-expected-to-grow-at-a-cagr-of-19-from-2019-to-2024-an-exclusive-market-research-report-by-lucintel"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.abnewswire.com/uploads/1645766442.png"
-        width: 1176
-        height: 505
-        isCached: true
-
-secured: "yjJF32f/F4FikOP9eUfSGLYisIv1Nk6vGx9bOSe99M5LRIiKjSu6jvVOvI9AXFfPld4qwF26cN99uXyL8uC4MSn1QZLiYMNWdk7tykEgwmWSZ1mcHB9FBy+iOylLQqJuCrkBHcWbTFZvPbIvoLWrC0tWwbuxoSIEKui/aGh/sUJc6Q3cpHa1NFMk2wNdb9YW5jxPd2IgNJxP6aRc9alaxEF7+Zhbh1IIBT7JO0cnXqni63WtVjuTiFnQ6A804/l34YN4dXHWLQ7CeH282V4jxSz1TuZ50Gjl81XF0EwHl7dhD2jiUpIoyxjLHsm8u8kGu/wG1XE95KojLn940dS7HEh8IrFeYl8eoBe/gxOBFprDXpD0TsZHT0Q8mnFeCt0+LceNLWv/c8bbRHo8m1WqX8CGfIzu8+kHaCKEK1rnSti2DNYgRtIA+cVkmy6O9HZWiA3KVullRoZ8EJZRz04pjmn85N4wFQRdjB0cn1bXELEA2nr/VGP5EK0tGfUHPnmRdq9AKo0j78PgRGlDQyagMg==;mpsmZwkCBssjk8C6CK3DGw=="
+secured: "MF5BIqeYo04FH+81h6D/rQWubb7dVKw67xcswIJFCPXEf/MUVkmqPKx/J4SMO3iX5QiB2U+yYviSgYXO6FO2wkkBDGH6FMbyNb6z9UZJdnGGqO5CCt3JjVljXvlraiaLX+DFL6DqYC+YRQoinHxAgRmf6HbzjJwUvJ5B4Gw8aF1sqQadtC8R4uhWYBIMuSupzUPiGNwdmpUv381SitkP1lRlGoo+gXOk+W1pW6XKxSqFbLktNaasLURZBcIdtzI6tRHaXlRHfw8rW9hfNtBQa/erERNlC1O32aHORwCyNXXasJ5khrJN1g43uPxsC+MuHjX0H4Nt586ZycS1w/y60UECGo8ynKzfPDA0rjZ44uM=;82wI9wGYHMZtxZ0GmnW7ZQ=="
 ---
 

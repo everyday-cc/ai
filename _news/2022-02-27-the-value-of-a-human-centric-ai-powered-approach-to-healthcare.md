@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://medcitynews.com/uploads/2018/12/GettyImages-858544742.jpg"

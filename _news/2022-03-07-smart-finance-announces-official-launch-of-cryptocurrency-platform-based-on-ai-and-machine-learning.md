@@ -9,7 +9,7 @@ ampWebUrl: "https://cointelegraph.com/press-releases/smart-finance-announces-off
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning/amp"
 type: article
 quality: 77
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 740
     height: 493
     isCached: true
-
-related:
-  - title: "Smart Finance, a New Grade of DeFi Platform Based on Artificial Intelligence"
-    excerpt: "Neural networks of Smart Finance will empower and optimize its financial crypto platform with unique market features. Smart Finance ICO Launch will be announced soon, a New Grade of DeFi Platform Based on Artificial Intelligence Neural networks of Smart Finance will empower and optimize"
-    publishedDateTime: 2022-03-04T13:03:00Z
-    webUrl: "https://www.finyear.com/Smart-Finance-a-New-Grade-of-DeFi-Platform-Based-on-Artificial-Intelligence_a46960.html"
-    type: article
-    provider:
-      name: FinYear
-      domain: finyear.com
-    quality: 53
-    images:
-      - url: "https://www.finyear.com/photo/art/grande/62804713-45430662.jpg?v=1642752630"
-        width: 1400
-        height: 1400
-        isCached: true
 
 secured: "uOKwOP4NOpfBBIYg4Asj7QBFNspsP0/RMBCs+qsFTNmgsLR8dlYd2LyvlxHrraiet9w8FmQTD0aIUXPiBYu//YxdJiAgm6YKC5XWdAqL5Rtmx9oeu5oxeQMXMPGfEtgrh4VlIxBQ7ONziw0ZdMR0T3DS3XDbLa7QotfJ73p1zwFqgLIJTn5KZWEyjIZT1MTrjAoISaw6fbSszLeDhU199Hw2hBMxzNA1XaQFekfOmWsVmHGG3i4cuSYsZhc9bNmo27IeaqefoLmY/I/ddI5Id0xaEK2Bt8TmKw0DUq1PM4H63ziDGuhAAJv/dtgHUmYwTLCYlaGEs5S4w5+U86by49mm+o02Q5H7f6KcX5ddRNLgyUxcc/azLJhCYd9qjEHsCg5N7J/BwJHhqgoT40alNOWdthSdjECaMgmSWr51WZShbfxg1++lhpt3ZhTbAqCXJIXSTIiIp1N9v76x9bSx1bQtXs74BOfMJ0z18aAkFizekkzi1A68LSQvlyQrccSPbv2S/if55gqWrM8yRkQSTw==;gMEQ95yz/3oB5AmH7UAEZA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/startup-pony
 webUrl: "https://www.reuters.com/business/autos-transportation/startup-ponyai-agrees-automated-driving-system-software-recall-2022-03-08/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Reuters
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Startup Pony.ai agrees to automated driving software recall"
+    excerpt: "NHTSA said this was the \"first recall of an automated driving system\" and that the specific software at issue had been in use by three vehicles."
+    publishedDateTime: 2022-03-08T21:46:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/startup-ponyai-agrees-automated-driving-software-recall"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 37
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/pony-vehicle-in%20Guangzhou.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "WueMYqOHNRvn2+YXT+H1aAeWoA2XLA4zf+RmsqzXNvne6O0CPE/+Jn8ZrplvyhFldOF9PBStWWZVInbHmjIhvlv1aAThfgBQBR2e2tXqLaUBG4C7DSFApFfgPhu0JtdlhGvsJc8ZrXW76Tl27ZXK3eiBK3wuM4TiANViCDgtldIXrMYgTb9nrHbOJJ831uiMsuI7MehpTqPdoZoCDIu4uxnX4ewY21MAwmWmlA/ENEIYt0AKLPvEWPKuBrJ6M0TLvIyNcG5rpWaMJA273qedsNnHqrydt44VGo+gqpQ8cpXv0vvjEe6giM8+no5axGOCHTiuA2jGFu5q9BfATxQzZYgHvRfx2RsDtXcjMVRuCAQ=;W+zmqbjf1EP0OUS4eRYHLw=="
 ---

@@ -42,48 +42,6 @@ related:
         width: 1799
         height: 1200
         isCached: true
-  - title: "Microsoft completes acquisition of Nuance, ushering in new era of outcomes-based AI"
-    excerpt: "Microsoft Corp (Nasdaq: MSFT) on Friday announced the completion of its acquisition of Nuance Communications Inc. (Nasdaq: NUAN), a leader in conversational AI and ambient intelligence across industries including healthcare,"
-    publishedDateTime: 2022-03-04T14:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-completes-acquisition-of-nuance-ushering-in-new-era-of-outcomes-based-ai-1031255368"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
-    images:
-      - url: "https://mma.prnewswire.com/media/1759379/msft_nuance_social_tile_0_0_1__1.jpg"
-        width: 400
-        height: 209
-        isCached: true
-  - title: "Microsoft Vaults Further Into Health-Care Services With Closing of Nuance Deal"
-    excerpt: "Microsoft Corp. completed its acquisition of Nuance Communications Inc., pushing the software giant deeper into the market for health-care services and artificial intelligence. The $19.6 billion deal, announced last April, lets Microsoft add cloud ..."
-    publishedDateTime: 2022-03-04T14:19:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-03-04/microsoft-vaults-further-into-health-care-services-with-closing-of-nuance-deal"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_kArmrVfd_E/v1/1200x801.jpg"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "Microsoft closes $16B acquisition of Nuance, launching a bold experiment in health AI"
-    excerpt: "Microsoft closed on a $16 billion acquisition of Nuance Communications Friday, and now AI’s next big health care experiment can begin."
-    publishedDateTime: 2022-03-04T14:00:00Z
-    webUrl: "https://www.statnews.com/2022/03/04/microsoft-closes-16-billion-acquisition-nuance-communications/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 47
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2022/03/GettyImages-1238869000-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Content Moderation Automation Market Is Going to Boom : Appen, Cogito, Microsoft Azure"
     excerpt: "Some of the Major Companies covered in this Research are Viafoura, TaskUs, Besedo, Cogito, Microsoft Azure, Open Access BPO, Appen, Magellan Solutions, Webhelp, Clarifai, Pactera, OneSpace, Two Hat, Lionbridge AI, Cognizant, LiveWorld, Arvato, Accenture ..."
     publishedDateTime: 2022-03-07T20:06:00Z

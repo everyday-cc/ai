@@ -7,7 +7,7 @@ originalUrl: "https://www.reflector.com/news/business/your-personal-finance-unde
 webUrl: "https://www.reflector.com/news/business/your-personal-finance-understanding-fintech-and-the-market-for-loanable-funds/article_619c1829-7c07-5654-9b1c-b60245433f64.html"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -25,48 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "7 Favorite Fintech Stocks to Buy After the Correction"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Here are 7 fintech stocks trading at significant discounts with the industry poised to thrive in the foreseeable future."
-    publishedDateTime: 2022-03-04T14:02:00Z
-    webUrl: "https://www.entrepreneur.com/article/421408"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
-    images:
-      - url: "https://assets.entrepreneur.com/providers/investorplace/hero-image-investorplace-421408.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Detroit FinTech Firm Bankjoy Adds 16 Credit Unions to its Service"
-    excerpt: "Bankjoy in Detroit announced it has added 16 credit unions from across the U.S. to its seamless end-to-end digital service ecosystem."
-    publishedDateTime: 2022-03-04T17:02:00Z
-    webUrl: "https://www.dbusiness.com/daily-news/detroit-fintech-firm-bankjoy-adds-16-credit-unions-to-its-service/"
-    type: article
-    provider:
-      name: DBusiness Magazine
-      domain: dbusiness.com
-    quality: 39
-    images:
-      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2022/03/Bankjoy3.4-800.png"
-        width: 800
-        height: 594
-        isCached: true
-  - title: "CredAvenue fastest Indian fintech unicorn after raising $137 mn"
-    excerpt: "Debt marketplace CredAvenue on Sunday announced that it is India's fastest fintech to join the unicorn club with a Series B fundraising round of $137 million. The fundraising round was led by New York-based global private equity and venture capital firm Insight Partners,"
-    publishedDateTime: 2022-03-06T14:42:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=933961"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 39
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/rosedale_sq_101720.jpg"
-        width: 280
-        height: 250
-        isCached: true
   - title: "Understanding Fintech and the market for loanable funds"
     excerpt: "Fintech (aka. financial technology) refers to the use of technology to transform the way we conduct business in the financial sector."
     publishedDateTime: 2022-03-07T07:30:00Z
@@ -81,29 +39,6 @@ related:
         width: 400
         height: 534
         isCached: true
-  - title: "UK fintech startup swipes £4 million to help SMEs solve cash flow struggles"
-    excerpt: "Kolleno is making B2B credit control and collections for SMEs by automating the management of receivables on one single platform hassle-free"
-    publishedDateTime: 2022-03-08T13:36:00Z
-    webUrl: "https://tech.eu/2022/03/08/uk-fintech-startup-swipes-ps4-million-to-help-smes-solve-cash-flow-struggles"
-    type: article
-    provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 22
-    images:
-      - url: "https://cdn.tech.eu/uploads/2022/03/untitled-design-2022-03-08t200000039-496.png"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "CredAvenue fastest Indian fintech unicorn after raising $137 mn"
-    excerpt: "Debt marketplace CredAvenue on Sunday announced that it is India's fastest fintech to join the unicorn club with a Series B fundraising round of $137 million. The fundraising round was led by New York-based global private equity and venture capital firm Insight Partners,"
-    publishedDateTime: 2022-03-06T20:28:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20220307/3915938.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "/l4cp6G5Cqw2Zz7CnyRw3zlvcmrrKLvnU483S1sB95xkIA3P0bkxgu5rXrIFreMSCq03cvIvBm3k/9UXd9EWtIKbh2bqj4Pf8PTBNm+vuoA2l6W9xddNvNpc687QFu47qscA+USW0srxfPgi8LNXla9dVlJv6SyycN4SPG7zOObgpfpd6cGo9XFk78u5bzCzVpVysG0pD/3DB+TysXcDKdr/atBnrTqJWMq+KxzL2xBz8gLnttHolMXs52OOopndie3OGspLWRYya4B+QGeLns5IWJLlSfw7jpIBxdBjCjWop3WgqUwLnwtpUXPlHLbavEIKxi/+MaXKDKBbB/t2Tzoa2gqQ/erjECr1kPWCnaM=;VP4GPIFU+KOlDUskdkYHPQ=="
 ---

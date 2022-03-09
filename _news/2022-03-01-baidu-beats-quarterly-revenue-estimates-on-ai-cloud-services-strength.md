@@ -1,26 +1,24 @@
 ---
 category: news
-title: "Baidu beats quarterly revenue estimates on AI, cloud services strength"
-excerpt: "(Reuters) -Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has ..."
-publishedDateTime: 2022-03-01T08:58:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/03/01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2022/03/01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength"
+title: "Baidu Beats Quarterly Revenue Estimates on AI, Cloud Services Strength"
+excerpt: "Baidu has been doubling down on self-driving vehicles by leveraging the company's capabilities in artificial intelligence as it looks for alternative revenue streams to maintain its blistering ..."
+publishedDateTime: 2022-03-01T09:11:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength"
+webUrl: "https://www.usnews.com/news/technology/articles/2022-03-01/baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength"
 type: article
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2022/03/01/1498688.jpg"
-    width: 800
-    height: 533
-    isCached: true
-
-secured: "KyjfdxmhlA4JdIOKRr0ZRhfXOS//mnsddf6/75E9hpFry8A9Hjii682g4eqQTimrT+L2h1h0dN+l92wQSX0uScqV3uJzcngQVT6lu8HsRdeZPtC759zi23iOrBYzWUvMerP6BGpiB3qMzwwFDvapE0s8jewrWh1QSo0ZPpL+mnh/Q/z0CzHmkwlUtw4iPAQKWev0+uxLmIFzGMWiRsmJxB3hjYshragK5duVKqfYpeakoRLiktSpIl5Nf8TrnChH/3c99+v3oG/DloCD8cvifFOy30v/BOep0Rpkt1iyARvBzFKlOq1uUy82nWmrOMiYjRtNl3M8MIJDPjYq/6ZMsdYk71yapnGM/oI/Q/4XQrc=;luIK7BTQSkp3hvXszzL9UA=="
+secured: "s1qC+qu4vo+3gaynwqB221/6xidOk6HxVw6TjPfjOTCjC8mwOGKDdmpbto6MR9RcvmUtSAwhKaBzZvpo5uc8retkbj2i7jC2Vldxr56Ruer15en4ZtBxQWRkjADq/nYUCJQIB71HShBlKYFx9t8lmvzOuJGpElS0RHkH/BMTEvWt/N6YFwaaDrXRcOU7XiFbGrBBBjMsgclCGj7iNOoLk5SVKWriersIE9OhKCoPRlW63iJQxtWU3ascxUmn3gFNAWcigKPCp/gGZTrdwHCfmeGTw/xT+WUJeoOltCj1LWWxLHtQrHBEJHxNIpp81XrYsnZIWD+Cj4v4gvRXN7yLMpqQ2mfam3I2avOvqEcpX2c=;z6sGWeB4y8Am29LjbmmFFw=="
 ---
 

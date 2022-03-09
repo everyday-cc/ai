@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/programming-languages-this-open-sour
 webUrl: "https://www.zdnet.com/article/programming-languages-this-open-source-ai-code-generator-is-very-good-at-writing-in-c/"
 type: article
 quality: 61
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 770
     height: 578
     isCached: true
-
-related:
-  - title: "PolyCoder is an open source AI code-generator that researchers claim trumps Codex"
-    excerpt: "Researchers at Carnegie Mellon University have developed a code-generating AI system that they claim can write in C better than OpenAI's Codex."
-    publishedDateTime: 2022-03-04T14:30:00Z
-    webUrl: "https://venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/"
-    ampWebUrl: "https://venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/Application-developer.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "w58Is2m/ccjlO8VNXLBT9ucOn8kwoTYYFkMPsY7IX6+XBHhjM/ms2EeoFoRjedDXVnZm+jPi7pWI4xOS4xaXdctf41UsZsjuERmMIA5SdfQBfJe+R+bTZ5e+Gee1H3vget++R/Q9sH3Z1YPAUoJ2pm+OaR8mRRSjrNl/5I4xbDVwZCsOs3R7WPOXbJmiU6hQKdvzzVrm7zxm/TA/dJoQXldgKX/rokDoruxQtKuV8zUrGxsMBavBa0HEYPClJ2B5bA9xEh8OPAaLbxEFb7E8dnWJq5Z7t7Mb+ZO4/eMvXS/EA6G12Sm9ySQnvQ4b1VvLDXUgt3gcQSK/zMK6nG/XrgY6ro1KUHWY32FxeC0Dcv8=;flhxrxRq0rCy9xGTyfErLQ=="
 ---
