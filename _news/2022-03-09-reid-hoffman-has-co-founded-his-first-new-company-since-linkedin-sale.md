@@ -8,8 +8,8 @@ webUrl: "https://www.cnbc.com/2022/03/08/reid-hoffman-has-set-up-a-new-ai-compan
 ampWebUrl: "https://www.cnbc.com/amp/2022/03/08/reid-hoffman-has-set-up-a-new-ai-company-with-deepminds-co-founder.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/03/08/reid-hoffman-has-set-up-a-new-ai-company-with-deepminds-co-founder.html"
 type: article
-quality: 74
-heat: 74
+quality: 174
+heat: 175
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 2832
     isCached: true
 
-secured: "q+G/LnmEg2dw6wgcxA8/tldP44+1e4HWy5CTSSMPN8i9s5vs8TaArU02LrpIx6fO2yAURhUUiWSbbRzyb5bLMOs6ZfnAiZ+WVgiR6SpUJJEbKP/SDtRG8HzZIYD8gxmVcFtQ8bZUvNvo7TZCb1hYnDNQ65dYpP24BAk/zF+9rlHGgpJCqX1AbKfAv5m+HMqzFa1RB5CAdr6IXp1gNDUOxOiDB//uTaKi60uPYsuyyzRM2FE1O+ViGs0MlIpZdswJT2RAYAIom6dj077HSIefTLmomrgrMzbuYEaiDqbNdJ6SxQUxl96XrskXs8KYjT7wN38nyQYIbOS8/P7AhGmftxm73+XBDYzFcaPmbW72bUWRbusEH5RZHcgPnU0oMpoZ9umpnjIUIKWT1fNRCf7no43ThddgZ7TUxR9Flp+lFKxyvl6qt8SvIPsU+L9PlK2ofrhW/bjKheKl5VGHVueB0+6awdjRbdl3fNvv6i//SaE3OBDVsqa/BHEleGwzZcpCgFrTbnlQyPlGhtAsw2l1IA==;fLn1ZSdL9cZDC1fd/QByog=="
+secured: "H6K3TKhvNDPDouB7P4zEWqBPP4RQ4PXWxsKcz0ZLmPFEKzOOQ5X07EzasuPOiekyjGDiWHAHarXOwhcbrtQ1kPqkXajFS/wbTWVJGBcAELcQJ+4Hs3fbmuRuBnf2vdfmSgdnUlOSYUjmMS+c4VnkKjd8NkHVmohdcIMJKhEJa5QP85jCcaUvleuT92aeU95rCCKMlbCYSgGdz1VS8VNlF4lgCAEzgWgNQXT1FIVgu5NryuiqPXwnHMf2SrGDCcW19ob9GUd5PrrtA0ul+JE1I+OHyKdvUKFt99neC57n1aN2PwFd5bmSW81QzP/8kSNkHAH+4zHui02ZkE7WAWLmKLsFtMFkhsEzVyGhdaMisTYZ/7+Qw1Z4hpkjtdE8WDCihYd6hn1FN2AXkfd+xtatPIRESjhwT3WunAZOmEpqXI6Fw0hGilBzydAGRtM3KgLl21nEB9cUmfPvOypHIomq3STVsLe6AYgGzmuXijLwe0DkNq+zbOyfWrlMoQt541WODHZBXOkC82YqaB6IzgZ1pRNnnB5s5snpRk5VH0kTIe4=;pY17nSthl4/q7AuNao6Qhg=="
 ---
 

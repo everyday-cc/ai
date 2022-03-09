@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-08T10:38:00Z
 originalUrl: "https://www.itproportal.com/features/10-promising-artificial-intelligence-startup-ideas-for-2022/"
 webUrl: "https://www.itproportal.com/features/10-promising-artificial-intelligence-startup-ideas-for-2022/"
 type: article
-quality: 39
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/ZJdD9ewZJv7U553PxKhuHE-1200-80.jpg"

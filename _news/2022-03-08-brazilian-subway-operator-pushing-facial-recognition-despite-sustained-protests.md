@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202203/brazilian-subway-operator-p
 webUrl: "https://www.biometricupdate.com/202203/brazilian-subway-operator-pushing-facial-recognition-despite-sustained-protests"
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 1600
     height: 1109
     isCached: true
-
-related:
-  - title: "Brazilian civil rights organizations call for facial recognition ban in São Paulo subway"
-    excerpt: "Entities unite in an attempt to prevent the use of the technology amid concerns over discrimination against black, non-binary and trans individuals."
-    publishedDateTime: 2022-03-04T21:13:00Z
-    webUrl: "https://www.zdnet.com/article/brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 60
 
 secured: "q9BCX3PpScAr6MdpSTjYlUArgPHTd9ZLDSwgwWNIEKbWTuK1LpfL0KWulfGcGJydmoHmItuwiuxAxVoz97kpsYS2QeHK07uOCbBqsxVjjxCOEeudr2y1JKhHYjTacFmsNFldiOfx5v0XZ1Jz/uUPISn9b4K+BLladMttqWWSc7ZVfoRvUY3Fqg8U0MKhpX3DLmZrI6Bb5AGNP5lMfHkiAkHxDMcb3uoOv5yE/Coum9DTGhokKgJypC6aLVmhren4AXOO534nwsq/J6v2DRrlZiu5/XyWtW54SBzWcqCv7iHpR2Df0aFaQ+LZo23haar8fkt7wC5iDm4uofGj76NlB3QHynq99ESL1hw3sDkyARI=;jEEgCz8pwvzYWnQN17YlRg=="
 ---

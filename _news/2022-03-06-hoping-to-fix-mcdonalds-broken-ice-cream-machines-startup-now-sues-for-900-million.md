@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.kentucky.com/news/nation-world/national/article259064383
 cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/nation-world/national/article259064383.html"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -20,17 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Hoping to fix McDonald’s broken ice cream machines, startup now sues for $900 million"
-    excerpt: "AP A tech startup is suing McDonald’s after it says the fast food chain pulled the plug on a cloud-connected device it designed to fix the restaurant’s finicky ice cream machines. Kytch, Inc. is seeking $900 million in a legal complaint filed Tuesday,"
-    publishedDateTime: 2022-03-04T21:34:00Z
-    webUrl: "https://www.star-telegram.com/news/nation-world/national/article259064383.html"
-    ampWebUrl: "https://amp.star-telegram.com/news/nation-world/national/article259064383.html"
-    cdnAmpWebUrl: "https://amp-star--telegram-com.cdn.ampproject.org/c/s/amp.star-telegram.com/news/nation-world/national/article259064383.html"
-    type: article
-    provider:
-      name: Fort Worth Star-Telegram
-      domain: star-telegram.com
-    quality: 15
   - title: "Hoping to fix McDonald’s broken ice cream machines, startup now sues for $900 million"
     excerpt: "AP A tech startup is suing McDonald’s after it says the fast food chain pulled the plug on a cloud-connected device it designed to fix the restaurant’s finicky ice cream machines. Kytch, Inc. is seeking $900 million in a legal complaint filed Tuesday,"
     publishedDateTime: 2022-03-07T02:19:00Z

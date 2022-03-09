@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/big-tech-is-spending-billions-on-ai-r
 webUrl: "https://www.wsj.com/articles/big-tech-is-spending-billions-on-ai-research-investors-should-keep-an-eye-out-11646740800?tpl=vc"
 type: article
 quality: 65
-heat: 75
+heat: 76
 published: true
 
 provider:

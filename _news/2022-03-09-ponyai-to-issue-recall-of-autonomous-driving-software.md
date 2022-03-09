@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/03/08/pony-ai-to-issue-recall-of-autonomous
 ampWebUrl: "https://techcrunch.com/2022/03/08/pony-ai-to-issue-recall-of-autonomous-driving-software/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/08/pony-ai-to-issue-recall-of-autonomous-driving-software/amp/"
 type: article
-quality: 87
-heat: 107
+quality: 187
+heat: 217
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Pony.ai agrees to recall its self-driving system"
+    excerpt: "NHTSA says that it’s the “first recall of an automated driving system”. On 28 October 2021, a Pony.ai vehicle crashed into a street sign in Fremont, California after turning right. No-one was injured in the incident,"
+    publishedDateTime: 2022-03-09T14:14:00Z
+    webUrl: "https://iottechnews.com/news/tag/autonomous-driving/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 39
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/12/IOT-MPU-Banners-300x2503-1.png"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Startup Pony.ai agrees to automated driving software recall"
     excerpt: "NHTSA said this was the \"first recall of an automated driving system\" and that the specific software at issue had been in use by three vehicles."
     publishedDateTime: 2022-03-08T21:46:00Z
@@ -59,6 +73,6 @@ related:
         height: 630
         isCached: true
 
-secured: "XSUokmwWJPQhBo//uKG096LLzjZafDFaYQUWWykyajsp4blgbLpKVsDsI1YzbX8mjJhRBBQI10Gffrx6YZUEr8qH7zuo4OCSV8S7azHz444bbOtnI4HEbvmM092tO7OmAVXfDtdgjrIHWXkRTED4au0QG3f7ga31wZePoUscGW3PFUTbDTm4t2V5tiMZUiwF8PtsVofnjnW8nkDJbR2NSd2UE/w/bojQPKd8D1Hx2tNYZ8yQ+soMsdE/FtA7OcxoMGutrUEOFdgtmoHA+Ldjnq0UuAiPHc2fSCkhdHx2UyNRpECOvR5oUaq4iAFNj4ddJmDYTCpG93Vao7oVwzOHECgJTZQtlodpwZcZ34aITvQ=;4Ju6kbTN+72J3Zoq14f2kA=="
+secured: "r0MKZBUWhKnSTN1c0MRZwbk/UVP33AYjAosx9zQ2pAeiBxT6yFM1OrKeZ7z75ilAefZWyyRU5Jb+HHpC2TPKh8e9OO4Evfa+FaKLxyoXe0gnndClBQkFc159rGVz1vyjVHMVvvP2GOQKbgkIZZMdb9cYvedNXr5/uRZkD5QtIjULOeoGntxgoDpDSeMWOwsBs5CciTfe65oyRDTTwiNyYM1luSd1Ps0nTEPLuzush0WXO/x8KL4bfzVF25FI3HvJfRqbl1XWu7tSKoaEXhVepar0+WqA0oSJR9WFKgdDLi4qU0yvGgt06/J790wt4DngG/hmfanfYY2S4uW76Z6YyvaL20e2RJoRUAUTRRCp3uVlAH6CTmmlSJGRunUADGIH96J20+M0lOv2/RmyM71KfVpwdrL/jYxojTFRPe6ceNeExQWo5UfFofKZHFJU0T6u8/yXf4XHhpuJ8YL55KlH1l6QIKlS/Q0RelVfB/kWcgPwUwpPJXAzKXs9DHNXogXbILMs7J6uhdChfrjcijZXogO/24Cl89T5qMQkQSLOhfc=;99p6MrGNztS4r+GedK9Afg=="
 ---
 

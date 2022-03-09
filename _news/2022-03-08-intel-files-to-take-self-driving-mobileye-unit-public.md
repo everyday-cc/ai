@@ -1,32 +1,24 @@
 ---
 category: news
 title: "Intel Files To Take Self-Driving Mobileye Unit Public"
-excerpt: "In doing so, Intel has decided to separate Mobileye, its self-driving car unit that promises to help drivers take their eyes off the literal road. On Monday, the multinational tech company confidentially filed to take Mobileye public – and, according to ..."
-publishedDateTime: 2022-03-08T02:11:00Z
-originalUrl: "https://www.fool.com/investing/2022/03/07/intel-files-to-take-self-driving-mobileye-unit-pub/"
-webUrl: "https://www.fool.com/investing/2022/03/07/intel-files-to-take-self-driving-mobileye-unit-pub/"
+excerpt: "As Intel races to reorient its business around semiconductor chip-making production, CEO Pat Gelsinger has promised to keep the company's eye on the proverbial business road ahead. In doing so, Intel has decided to separate Mobileye,"
+publishedDateTime: 2022-03-08T01:00:00Z
+originalUrl: "https://www.nasdaq.com/articles/intel-files-to-take-self-driving-mobileye-unit-public?time=1646704502"
+webUrl: "https://www.nasdaq.com/articles/intel-files-to-take-self-driving-mobileye-unit-public?time=1646704502"
+ampWebUrl: "https://www.nasdaq.com/articles/intel-files-to-take-self-driving-mobileye-unit-public?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intel-files-to-take-self-driving-mobileye-unit-public?amp"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://g.foolcdn.com/editorial/images/669467/featured-daily-upside-image.jpeg"
-    width: 690
-    height: 560
-    isCached: true
 
 related:
   - title: "Intel Files to Take Self-Driving Unit Mobileye Public"
@@ -128,6 +120,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "ZRa4Yx567YQguEdGxh2mb0yE7WzLtgn1VU0f6Bqg5xDK8oMkOhtXQa8+IEIKNjPN4qNdQOQOPjzZt6p62hc6TZPbfL0NH+y1txlcBUv8lkUfxQUhgxvSRraRozs9uFNnIP1TalLRhizKEZiUKs7cSllzZFxvZPIq8Z7sbfR9VUgzQITO5ksGDaGdU9PDehwIkbcUAR/moYz/HHXD3F+m0MfQMkIQYXpkZEatDYRn9i/X2xJ4YxhP3ErO7rbBGhq6hbQDPMF8z/ts+PHuNtNyuirAIIGkSvai8bGg4vCLxFZSgVjOLvR3rgcuBSOTLnwzqSrO44rGShHsLmFMag/GGjzYyVD8GPB6C6CjzHoFJPs=;FGMhCtmeHxqKiKNF8/1Ghw=="
+secured: "zoT8iRyWaBGHq0tm0zUdv3VBR4anLS5OW7/xtB18exKZQmdQBRwxtR/OW2VZu77mTu+OZh3BTS9ogzB6ttbz4zOy5XrchqEabax2r77bsj3Y1OXtPGAec+BWN1v8VZpJHLQYhCTm64PyDl+SNzhZgLZQLCbC7+ZsSTbILzjtJ7yfVpCWU4F4o+Ica9QRTHnQ+gowS/UOuD3shXIE+TAUJcQRqcO/OxrSzl4rdk5DRxuxggFkE1c3OfWEeD1ppER+YAmTKBESbm5bBzuFTBgnVFOaDJDDvnXWoC7xOavzbQXCpYvUL1hNZQxbqrrTwjLwLfHY3Jfr1JPeV8r0+C2nDYhMRa8byVXhgCsCxip3QnM=;H90xhubt8yiaUK/FZTz0wQ=="
 ---
 

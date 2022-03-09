@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Nuance Communications Introduces Next-Generation Ambient AI Capabilities for PowerScribe Diagnostic Imaging Reporting Platform"
-excerpt: "Nuance® Communications, Inc. announced an expansion of its next-generation ambient AI capabilities for diagnostic imaging. The expanded capabilities will include enhanced AI-powered reporting"
-publishedDateTime: 2022-03-08T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nuance-communications-introduces-next-generation-ambient-ai-capabilities-for-powerscribe-diagnostic-imaging-reporting-platform/article_29183480-d700-5f91-b232-e07d48d2955b.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nuance-communications-introduces-next-generation-ambient-ai-capabilities-for-powerscribe-diagnostic-imaging-reporting-platform/article_29183480-d700-5f91-b232-e07d48d2955b.html"
+excerpt: "AI capabilities for diagnostic imaging. The expanded capabilities will include enhanced AI-powered reporting features in the Nuance PowerScribe platform that will empower radiologists to create highly accurate reports in less time and with more clinically valuable structured data."
+publishedDateTime: 2022-03-08T15:11:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-diagnostic-imaging-a2106b1c3e43cbd4c2813dea03bf511d"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-diagnostic-imaging-a2106b1c3e43cbd4c2813dea03bf511d"
 type: article
 quality: 11
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/24/824f08cb-2524-5343-840a-14d9db195aca/605b3f18c19df.image.jpg?crop=1500%2C788%2C0%2C84&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "hXJRa94oVxU6KQ7HXZz2O+q0LjQRLH58KRM+ucj1J7UtdxWeAN/URSOAZ+ptIhOIkDIYxzOREY0YQ77obOGZ/4DymlACi11e+2YULZAqz7TG9kShSdhrsJqfZ33x24d04fB9JBeOuId625Z8wDTmvlSZOAFJEVfZHAcmp3gzXd5pqVrH7mcYTlQkHPmGfFfO4b7R9DT3llpoCdMfFvTUTQ9UdXrYO53ILyiO2Jw3bGMFoAr82uz8sByxzsXzM82UjRpjTjX3cxC3VtKbpHV8Gxp7V4WA6IqzxPL/+ovvZwe+tgTFMlYYZTaZr8vrnsHMN1CtwxcQAO+Tw12nSWUNjlXFwkO6++Wf2WxzAQz2jRU=;10is1MEcjFVGuSfi+2SysA=="
+secured: "X5HxLLn8/74q/Yu/9WvLNrVbEcmVkU0TLf3rvSrRWQmhPsYRMd6F3Rn0f475Bnuuj72PICqFBtQ/5vNGgfS39FE1yD1+mFOYo0UIrnfFtoCcU/tj/bXPdb6SWk3lp+eRW1u+xHIulWw5TsQnTjlSP3+GYSGAB48u/cGwvDv8XYDrSSwvFl5g/cgV21TLdCgkTc9NmEDzTUegVLXhyDqD4zSLd/0A+CzcakRkPOqGounzA6YCZapfDWzafgNv54G6TLGjFmI8e4wPAQIS3cz30UBEyHWYCpbatcnLGohB63j3OWpD4fegBWzC7gsnJXKQDIfHjniEYIqCdc86FsAEy4SHz+idEcHcK89EEpWjmwA=;Dl1as6KkKxX6LdmdCPs/nw=="
 ---
 

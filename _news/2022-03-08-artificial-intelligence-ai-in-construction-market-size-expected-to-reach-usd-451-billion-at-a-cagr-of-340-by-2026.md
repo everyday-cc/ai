@@ -54,6 +54,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Video Streaming Market to Reach US$ 241 Billion by 2022-2032 | Demand to Grow By 17% CAGR through 2032: Fact.MR Analysis"
+    excerpt: "Fact.MR states the global sales of video streaming market to surpass US$ 241 Bn by registering a CAGR of 17% in the"
+    publishedDateTime: 2022-03-08T18:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/03/g26047146/video-streaming-market-to-reach-us-241-billion-by-2022-2032-demand-to-grow-by-17-cagr-through-2032"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26047146"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26047146"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "0Ic3ffBBTm4CrVny0IkFmZrwNtKP51Bpx7wGwCTQGHGyYOOV6zAgA4Fs+o7/RS9KnG0Ci4btJSeTTpQYlNuorP2gUGrRVZgGLpxCfGyRk7iG96p8uZAvbHe03l8D0sG+i0/yPryob4T4QYIy46739B64ItopGwWvtY7uEXp/ZGadWZTu24C7LfF2trZSWRxays8zi+8NjTy9Ku2DAczqu06F3TIJyDhp0B+WcXfIEmTbQC4hRnb4WWkdSBM2ARkAGMPI5Nd+5N7ZpocdcC5DTTujWGXF9nX4gJ+xurg8DMDIr5g+PLQiYmCbImeK2J5FAGRG0wKTYPfTvIsDgY+fUWLZ79wzoQ1JsYX1f7Xy/Tk=;NWeIQjHSsK5kmVvOp8WDTQ=="
 ---

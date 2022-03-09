@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/07/database-technology-evolves-to-co
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/07/database-technology-evolves-to-combine-machine-learning-and-data-storage/amp/"
 type: article
 quality: 88
-heat: 89
+heat: 88
 published: true
 
 provider:

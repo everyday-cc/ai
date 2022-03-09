@@ -53,6 +53,15 @@ related:
         width: 1020
         height: 485
         isCached: true
+  - title: "The AI Eye Podcast: GBT's CTO Discusses AI in Fintech Space and Company's New Patent Application for \"Financial Manager\""
+    excerpt: "The Financial Technology (Fintech) space is seeing increasingly more adoption of and integration with Artificial Intelligence (AI) applications. Research from Reports and Data finds that globally, the AI in Fintech market is projected to reach $49."
+    publishedDateTime: 2022-03-09T13:19:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/03/09/the-ai-eye-podcast-gbt-s-cto-discusses-ai-in-fintech-space-and-company-s-new"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 0
 
 secured: "/l4cp6G5Cqw2Zz7CnyRw3zlvcmrrKLvnU483S1sB95xkIA3P0bkxgu5rXrIFreMSCq03cvIvBm3k/9UXd9EWtIKbh2bqj4Pf8PTBNm+vuoA2l6W9xddNvNpc687QFu47qscA+USW0srxfPgi8LNXla9dVlJv6SyycN4SPG7zOObgpfpd6cGo9XFk78u5bzCzVpVysG0pD/3DB+TysXcDKdr/atBnrTqJWMq+KxzL2xBz8gLnttHolMXs52OOopndie3OGspLWRYya4B+QGeLns5IWJLlSfw7jpIBxdBjCjWop3WgqUwLnwtpUXPlHLbavEIKxi/+MaXKDKBbB/t2Tzoa2gqQ/erjECr1kPWCnaM=;VP4GPIFU+KOlDUskdkYHPQ=="
 ---

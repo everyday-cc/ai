@@ -1,23 +1,23 @@
 ---
 category: news
 title: "ACI Worldwide Launches Innovative ACI Fraud Scoring for Financial Institutions"
-excerpt: "ACI Worldwide (NASDAQ: ACIW), the global leader in mission-critical, real-time payments software, today announced the launch of Fraud Scoring Services-an industry-first fraud scoring platform delivering next-generation machine learning capabilities for financial institutions of all sizes to deliver real-time fraud detection and prevention."
-publishedDateTime: 2022-03-09T08:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aci-worldwide-launches-innovative-aci-fraud-scoring-financial-/2022/03/09/9559989.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aci-worldwide-launches-innovative-aci-fraud-scoring-financial-/2022/03/09/9559989.htm"
+excerpt: "ACI Worldwide (NASDAQ: ACIW), the global leader in mission-critical, real-time payments software, today announced the launch of Fraud Scoring Services—an industry-first fraud scoring platform delivering next-generation machine learning capabilities for financial institutions of all sizes to deliver real-time fraud detection and prevention."
+publishedDateTime: 2022-03-09T08:10:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2022/03/09/aci-worldwide-launches-innovative-aci-fraud-scoring-for-financial-institutions"
+webUrl: "https://stockhouse.com/news/press-releases/2022/03/09/aci-worldwide-launches-innovative-aci-fraud-scoring-for-financial-institutions"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "PF5cNrn0arY56/pkOkLIXAE35/Zz9ZUjfmFU8R8pwN8b0MAi60KtgiThz6j/FFPhA8uhwbbrQVP44xt++63Kx02YCphKAm/YEETP/XGFKf3V6uakw98JXqJt6eq4vYWVsSb4bIBs2HRss5yz1q9VCK3B+gQKZp7TYqZnMFzqiZP/yE3BTBmYk2VpIFYRSeLFKmSfNPdqr+SwP3A39P2sZlSiwHTrDjEI9ApWqQn7643nkzzKJY8FL7MInndO5Hv2rNb/UwMoeFF88HxH5l2y7rwctNOTc4Ena7FbTEJdo1N+0zZLmwSUcryjDevgwRsbLhm3AQ9bNpuoq/sP2IocOazUTYzj/Wk212VxnpMc/l8=;dq4bKoLRa1gFFjbLrYbVsQ=="
+secured: "xS1p2iJkTCUuFHfV/bC3pFhYm1LNEbieWcXVvgV4XMbV5OgUScLSkmU05j6hrzxPhZ8xnH3wnmtwrtWw+A29oE8GzLPA0485FveWb1lqP32W7LnvCbh4Emdra1wqoY46DrzYkEd9wBLgJWOyrY6VY7I1zcQB53Kln9g2+DaCBIeBVn94NuQbKPE0dbls6jaHedXbHcjDJVkusHjMfEnoDt1ELA0aW+FhYu2SUY7CuCZywoIfR6hieWVEu690xyTYH+7gMI4qaMbxUSNwgGYcOS4CbjdJf+sbAPjLX839uidg0S7eko0dRnnSgvNLpDLP7gEF9WFv9rJbjsQoJiDJI1cyPli+0Ju/DhQ6ydlNi978kjY1NHOaXCWBFCtRs0UOxEDyJ7bho2/qB5jDcenRS+XWnGJOdUR9mv8oJAjm4U3/88JoJyC3akZ5qownp97zVcJwyum9qVo9GAP6KtufuWXpeeABa8IucWi87+nqggLPZ9oCDfNoXkP/+OT9BRViY9FSchuDzAhuAWqdlpGoGw==;0+H4JGMSxqBzDCZhM8tScw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.reseller.co.nz/article/695836/10-enterprise-ai-trends-
 webUrl: "https://www.reseller.co.nz/article/695836/10-enterprise-ai-trends-2022/?fpid=1"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: IT Pro Portal
       domain: itproportal.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/ZJdD9ewZJv7U553PxKhuHE-1200-80.jpg"
         width: 1200

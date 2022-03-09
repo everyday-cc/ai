@@ -23,22 +23,6 @@ images:
     height: 340
     isCached: true
 
-related:
-  - title: "Princeton spinout ArrePath gets $20M to combine AI, imaging in antibiotics R&D"
-    excerpt: "Anti-infective drug discovery startup ArrePath has launched with $20 million in seed funding to advance the development of molecules that use a dual mechanism to kill bacteria. The Princeton University spinout says its approach could overcome the drug resistance bacteria are developing to currently available products."
-    publishedDateTime: 2022-03-04T21:43:00Z
-    webUrl: "https://medcitynews.com/2022/03/princeton-spinout-arrepath-gets-20m-to-combine-ai-imaging-in-antibiotics-rd/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 33
-    images:
-      - url: "https://medcitynews.com/uploads/2021/03/5613657007_7af10f9985_z.jpg"
-        width: 640
-        height: 402
-        isCached: true
-
 secured: "nztZ8joIM7J+KmKrzjTGrZ9bAVERZq8Te1d9jsqIIvSkTeBrea5MImhsVnvzMlRtouVLR2F3AR68sVQOl4qn68t/8stRXLFMB2BNjmpVSYXtixKchuV/Pal2MffoJpzL7sS1EbaFd9NbP68epzrigKyb9GYj9NDQ8CukcbxJrTXKU/NEHmkPLsxL2Ihe0dGELdV+r/faJhUuLyL9epB7ojzBGT4WX1iwgyfR+Y9vzOLPhmorzVfMgT54KFW2wTmeARfR0gg1yKkhH12GfWAuPN817oyJPg1qSVHsq6QUxjzeTeJGKal0OZZms4MCVLTCSEEWnzpjkf08fIvAS58D3wP5SfC/bX+TGKqHBiTw6p5wyyEMSGIuAj1IiZy7pCZI4XHLjPPUzimmWahI0/+YS0KyJwFbw/3ohmZQFAezAXVQWV8TwnyAhzgcvYRA0eUoe4VIvGJ1ayx0DP/7WfTuR6Q1AJ6mAVBFZKr+e5i4TWtIWKNtOcUwnN+3Uk8CquqL4ZNKZhPYyUeo0kVS4ngcKQ==;oDaZ5lCXW9MEh+U6lvTxuA=="
 ---
 

@@ -41,6 +41,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Artificial intelligence innovation among power industry companies has dropped off in the last year"
+    excerpt: "Research and innovation in artificial intelligence in the power industry operations and technologies sector has declined in the last year."
+    publishedDateTime: 2022-03-09T13:00:00Z
+    webUrl: "https://www.power-technology.com/features/artificial-intelligence-innovation-among-power-industry-companies-has-dropped-off-in-the-last-year/"
+    type: article
+    provider:
+      name: Power Technology
+      domain: power-technology.com
+    quality: 23
+    images:
+      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/03/powerpatents0703-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
   - title: "Synthesis AI Ranked #4 on Fast Company's Annual List of the World's Most Innovative Companies for 2022"
     excerpt: "Synthesis AI, a pioneer in synthetic data technologies, ranked number four on Fast Company's prestigious annual list of the World's Mo"
     publishedDateTime: 2022-03-08T14:18:00Z
@@ -50,6 +64,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 1
+  - title: "PureTech Founded Entity Akili Named to Fast Company’s Annual List of the World’s 50 Most Innovative Companies for 2022"
+    excerpt: "Akili Named to Fast Company’s Annual List of the World’s 50 Most Innovative Companies for 2022 Maker of the first-and-only FDA-cleared prescription video game treatment joins the ranks of Canva, Microsoft,"
+    publishedDateTime: 2022-03-08T15:47:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-03-08/puretech-founded-entity-akili-named-to-fast-company-s-annual-list-of-the-world-s-50-most-innovative-companies-for-2022"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 0
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
 
 secured: "UGIf/HfAcFboMCLT0PEpi7bI9/C4DY07TXygmVMgWlJkFhz9WJktBz+K2/OXHqmeaHUptqIhrAZUgAoUu0OSUJPV4PRBEI8BZrsZFD1vfqUGGhYzoR4JB31wGx+s419f9ACYrfx/KIpuP4PJZ2RW39lgdMbnsT954a63xxUp9m3bpbDNPSQrzq8fppXAY/DoFrwfDEaRqKzJAX2GFHYYMkLv/bNbLcbSi26qByuEX9Z3KRFC4kcWepXjD0SqzAdENmJc3YQl8lIaOpufFz8uIEwoA0LvJST1KaaER3S17y0VyufsfYR/23tZ6e7vPz9hkVyGbuwzbKjaGxAGGie9wWjTOcXa/0ntsmgdFHUByaI=;eoqFFuTRs45AzPHGdxsTdg=="
 ---

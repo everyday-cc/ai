@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "IGNION chooses AWS to transform the IoT design process"
+    excerpt: "Ignion, a Barcelona-based IoT antenna leading innovator, announced today the launch of the Antenna Intelligence Cloud bringing the power of a cloud computing and artificial intelligence to the antenna domain."
+    publishedDateTime: 2022-03-08T16:24:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-europe-barcelona-amazoncom-inc-web-services-50b8b5bf66f7aaf0526acaa5aa3c2620"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Ignion; Amazon Web Services: IGNION chooses AWS to transform the IoT design process"
     excerpt: "... launch of the Antenna Intelligence Cloud bringing the power of a cloud computing and artificial intelligence to the antenna domain. Based on Amazon Web Services (AWS) cloud services and the power and flexibility of its patented Virtual Antenna ..."
     publishedDateTime: 2022-03-08T10:03:00Z

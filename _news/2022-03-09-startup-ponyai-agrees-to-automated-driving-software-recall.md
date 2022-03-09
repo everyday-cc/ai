@@ -34,7 +34,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 87
+    quality: 187
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2022/01/55351642042261_.pic_.jpg?w=1024"
         width: 1024
@@ -53,6 +53,20 @@ related:
       - url: "https://www.reuters.com/resizer/b4Hz6J1ik8QHWhHnLhfVga1xQ9c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TG54DV7IVNMMNEMUWJZ6ZQYQYU.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Pony.ai agrees to recall its self-driving system"
+    excerpt: "NHTSA says that it’s the “first recall of an automated driving system”. On 28 October 2021, a Pony.ai vehicle crashed into a street sign in Fremont, California after turning right. No-one was injured in the incident,"
+    publishedDateTime: 2022-03-09T14:14:00Z
+    webUrl: "https://iottechnews.com/news/tag/autonomous-driving/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 39
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/12/IOT-MPU-Banners-300x2503-1.png"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "SNR0itFpbTxRjgxFSEu3JhBkGU1do/+2b7jF/KMt9AfzFTQD1CHdsRCP9legiimu2l7r4dSY4cSFNVpN48WzsPTemlcAFuGw3Ot6Cz6rIWp8kauoSCqai9QaqQg/v9b60Y/yLqJPDkBc6Tax5ZonYWheoV/WTfQNtlsl0+egJN3UgAMMbMBitY/+64Q6sKjSKHJ6jVGSp1szuf4G2u/xO9iXs2PXu5DjfaW1AFMsOAIyYB+ZP7NVpr5vioMSusOsrtkfzFnluVln/uMefWUDE334CJGVx/+lxCy33djp0ESjtdFU632tF6o3aaXewdnEt/HawVSn9RchukcKfhYWvs9ltJH/SvKC9HrGSHkPRAo=;Cxw88JfutJO1JDoQUj+4sw=="

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Noble.AI Announces Rollout of AWS GovCloud, Enabling Customers to tackle their most strategic R&D workloads"
-excerpt: "SAN FRANCISCO, Feb. 23, 2022 /PRNewswire/ -- Noble.AI, whose artificial intelligence (AI) software is purpose-built for engineers, scientists and researchers and enables them to innovate and make discoveries faster, today announced the rollout of AWS ..."
-publishedDateTime: 2022-02-23T20:58:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/02/n25791825/noble-ai-announces-rollout-of-aws-govcloud-enabling-customers-to-tackle-their-most-strategic-r-d-w"
-webUrl: "https://www.benzinga.com/pressreleases/22/02/n25791825/noble-ai-announces-rollout-of-aws-govcloud-enabling-customers-to-tackle-their-most-strategic-r-d-w"
-ampWebUrl: "https://www.benzinga.com/amp/content/25791825"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25791825"
+excerpt: "Noble.AI, whose artificial intelligence (AI) software is purpose-built for engineers, scientists and researchers and enables them to innovate and make discoveries faster, today"
+publishedDateTime: 2022-02-23T19:55:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/noble-ai-announces-rollout-of-aws-govcloud-enabling-customers-to-tackle-their-most-strategic-r/article_5400e611-2b04-50c9-b2ef-5743a0d3769a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/noble-ai-announces-rollout-of-aws-govcloud-enabling-customers-to-tackle-their-most-strategic-r/article_5400e611-2b04-50c9-b2ef-5743a0d3769a.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/8a/78a0ee68-e18e-56e1-879b-ca2874bfb39f/6082b77e84910.image.jpg?crop=1040%2C546%2C342%2C0&resize=1040%2C546&order=crop%2Cresize"
+    width: 1040
+    height: 546
     isCached: true
 
-secured: "eYkUmwjXfvl0O1L4kjo2oB9wKoUIutSAUFyBmiMEav9XO5/RTTwbIV7WQ1DKHFdNfiUuGJudkH1KzX0t5afKEJVQhNhSfmohjcnMmf1sEDfnXVn6dqLcQIvY/r14zlytXzDfBGPhcC5qI/QA2jSNDTzf64C0L/63soR/3evChZq2k6KpI1oMk0TwsJaW84Bbkwc1GuStWuY/JSf9zoEGXqZeOR9rsrJs/OEyfRNPGX1l7xvgTS1kgVbQjfy6cCuBMp4FhMvAraH4saKgG5yu63ehKNjxJoWxwDt6+qRs3W8r81Fvj9yv3FqwueHgbr0X0NBiQk+6EG4Ol0Y6VIizVLIMw9ONhZfXGmSH9TFGY2U=;BKQuc7n1+N9jdsBxZ0AIIA=="
+secured: "1wLF2RTcwaNyqrt64PyvJnPqSdezG+a80FwpBha5Imp5AfliJJJ2Iu/SYaRAZW3bnX8Bw4VVbE2hbGsr6MDey6R+eWLnuQmrPExPLLotdKrzbWodjHF+UKGK7cmvKPqEHS/kMO7nwPWM8UFm1Bg96zIZ4FrIKkutQeqUJcswXdvl/VdvFq25Yjmk3metzEkOj4n1ZA3k0c3gTJuFVeNAeDd/Th7aMGZf68fULWnHtlUV4b75HDuxZzIo6wnwb5w8KeFheYDP3eOugbESAb1xf6QSuX/XSpny4E8/XbTKg9U51aRvf140A4GKwC/yZ+qKYiwPikRiTqbB54X+pIyXEOanV5KJh6rFEk8flpIAQyk=;YMl2tglueAB9FVz7/clfUA=="
 ---
 

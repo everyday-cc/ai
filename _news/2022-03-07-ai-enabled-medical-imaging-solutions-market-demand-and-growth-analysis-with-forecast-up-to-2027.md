@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/ai-enabled-medical-imaging-solut
 webUrl: "https://www.digitaljournal.com/pr/ai-enabled-medical-imaging-solutions-market-demand-and-growth-analysis-with-forecast-up-to-2027"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "Growing Demand for Consumer-Centric Services favorable to Global Artificial Intelligence (AI) in Marketing Market Growth"
+    excerpt: "\"The Global Artificial Intelligence (AI) in Marketing Market\"According to a new market research report launched by Inkwood Research, the Global Artificial"
+    publishedDateTime: 2022-03-08T17:50:00Z
+    webUrl: "https://www.digitaljournal.com/pr/growing-demand-for-consumer-centric-services-favorable-to-global-artificial-intelligence-ai-in-marketing-market-growth"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 44
+    images:
+      - url: "https://www.abnewswire.com/uploads/1646743536.jpeg"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "06SfT5Y+l3O5G7G1LyJ85Jyt9u0OVacFIaTm8l2Ea8JdgPOcnhWuxmfyCq1fau+2uGX4dZ62fcXahwgG19+umUTS9O1B/7kNZJs6thBdn3mBGgoLForbWQ0TRlw9EfMZ567l8bZxwuKl6mPLA0vqX2gbUMzavSMidLqaBuH6mAX1G1O9ePQqsmWnr800B1LpMcfhf2MqAyJef+/bjqdcOlwn4m5JNLH8JIslN1y6NehqQWpLG6Jw3Rr4kxworD1RZJgwQHx2czNWttDX2iVVnF2S1RZWtFkWQjOSQ7fSujZZHZJLiVMT/tUM72vTpH//t0mUiSE6eeZTTtXlWOgnQNZD1BLkAAaJ/W1/Mx6J/8c=;vEZaQze05+ihF4MJdvW+tQ=="
 ---
