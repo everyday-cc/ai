@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/07/database-technology-evolves-to-co
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/07/database-technology-evolves-to-combine-machine-learning-and-data-storage/amp/"
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "Using Data & Machine Learning to Boost Inclusive Technology"
+    excerpt: "Data Engineer Anniina Sallinen shares her career journey from software development to machine learning, as well as what it’s like to work in Oura’s Data & Machine Learning Platform Squad.  Turning an Unexpected Skill Into a Strength I’m Anniina,"
+    publishedDateTime: 2022-03-08T14:30:00Z
+    webUrl: "https://www.linkedin.com/pulse/using-data-machine-learning-boost-inclusive-technology-oura/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEsfpiQaWXEtg/article-cover_image-shrink_720_1280/0/1646655660157?e=1652313600&v=beta&t=rv0tQdBwrzQfQAI3D0rRe0v3Xp-5xcusaT1bertf-EI"
+        width: 960
+        height: 720
+        isCached: true
 
 secured: "KAdag8v24ycMzczTi96EVPfH5FoOLmG5Jfnx9eg4oP0GXN0GCmVLD0WIPpyjijG4qjG6CqzO0cf0TUb5DwR0sObWNZVX8CZ1mdP/3nGKSiPkQh7NeEnuT7Gk/HiXb44L3ewPu6xtAFl0gbrWZGu0QlilJg7hQ35n5Nu9wrhkNCXGB1qGDWsNS9ZZDElhnJPaLAF4OmUxTJtYES0jWOQ0P47UlGNwPhMK79qqQepQShUyWCDrpjC0+ObbLSroFE/Fm/TJO5JJqz/T4iTQgJf6lMdxypoQ4kmEATEMKnZaO1PxbOpXMaFgLZS7kUUP9PovX4eK2RiZ7ExRs8bVp0Cdq/vOF9ISBfL+hQXQEjFBHzo=;CvcUfSkIH6Bui1d8smOmfQ=="
 ---

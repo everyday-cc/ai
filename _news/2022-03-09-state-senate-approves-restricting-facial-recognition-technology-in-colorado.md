@@ -1,12 +1,12 @@
 ---
 category: news
 title: "State Senate approves restricting facial recognition technology in Colorado"
-excerpt: "The Colorado Senate approved legislation Tuesday that seeks to restrict the use of facial recognition technology in the state’s government, law enforcement and schools."
-publishedDateTime: 2022-03-08T17:15:00Z
-originalUrl: "https://gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_608ba183-263e-522a-87e7-eccfc8bb4318.html"
-webUrl: "https://gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_608ba183-263e-522a-87e7-eccfc8bb4318.html"
-ampWebUrl: "https://gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_608ba183-263e-522a-87e7-eccfc8bb4318.amp.html"
-cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_608ba183-263e-522a-87e7-eccfc8bb4318.amp.html"
+excerpt: "The Colorado Senate approved legislation Tuesday that seeks to restrict the use of facial recognition technology in the state’s government, law enforcement and schools. Senators passed Senate ..."
+publishedDateTime: 2022-03-09T00:24:00Z
+originalUrl: "https://gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_659dc79c-9f3d-11ec-a5dd-6f0aa035a38e.html"
+webUrl: "https://gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_659dc79c-9f3d-11ec-a5dd-6f0aa035a38e.html"
+ampWebUrl: "https://gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_659dc79c-9f3d-11ec-a5dd-6f0aa035a38e.amp.html"
+cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/colorado_politics/state-senate-approves-restricting-facial-recognition-technology-in-colorado/article_659dc79c-9f3d-11ec-a5dd-6f0aa035a38e.amp.html"
 type: article
 quality: 57
 heat: 67
@@ -42,6 +42,6 @@ related:
         height: 587
         isCached: true
 
-secured: "0FFTDOT0JDLfIOQXDrEXB4XzZuzoTzbZyTXMjtVZnbeUCb8R9mSa7wDg1AtBbVdHTzcgVUWzLNqONulEpv+LR0WmbtdIkwQMC+kOOZg9l2T2aYHBXx8npqe5cEIrmGQfAyQA8yNgPk88eako+zEuElWTXuGqIQoqwyy3L8Z91jVxrHAms8ij2R7Xz9LwzxilhV3ny//J4+RZobo29UN7bmuTkhkZtaIpAtbGS7ezLzPr+vYOkgl8VxP17LEXqrNIVXjmyt1pRrWDAh5FYTTlEAn1LUYBUSREzvz9y5wFFo+L3sJEA/K1/hVn5h6vGbNm3fWaKIhHY6TxpJrNeed+owW400PBm4gx5ojF0sHm+Bo=;3oyJZ2+kBrZEIN71aGDzow=="
+secured: "BUAcOllYG18D0Okjjs9YLSXg8OsTFtLTb8txDBwYAOC+zcmAMpz/b+KP33D2f5QYc7PZM/xz7LjiNkKb52bbgDmlOCS5lHgUSIkBYcsCwYPCOD8fK0dhg4yPURdt6FHVLO4mk4WuHI8f5h43W/wHCWvJ8BMUiZUZ1X4luIyLYds7kIxuWCJ8a9LXookV9OR/HOWBpraIcF+dihg76ru7R0qHLpPRZhaABWSRpiUwpHE+Xttm3iaiCA8WsPf/xD9s5TzcSIhXmZTBtFbISSDM6a/dUeNXJlcATB9OHmBJEBWGxMU8jAfP2eZBeLBWocleoS4Da1nsHYJk8Da9TipJ/80jr6Z7HrtIcK5Za52Kxpw=;csoSS2LTE/e0nT9L5UuAIw=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-08T16:00:00Z
 originalUrl: "https://www.businessinsider.com/pitch-deck-glean-analyzes-vendor-invoices-acounts-payable-fintech-2022-3"
 webUrl: "https://www.businessinsider.com/pitch-deck-glean-analyzes-vendor-invoices-acounts-payable-fintech-2022-3"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://i.insider.com/622517e0dcce010019a6fc81?width=1200&format=jpeg"

@@ -25,6 +25,48 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Drug Discovery Markets, 2029 - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence in Drug Discovery Market Share, Size, Trends, Industry Analysis Report, By Application; By Therapeutic Area; By Offering; By Technology; By Region; Segment Forecast, 2022 - 2029” report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-03-08T14:50:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-artificial-intelligence-6fe7e6124cf740b39d5b82ed8d2072c8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 45
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Growing Demand for Consumer-Centric Services favorable to Global Artificial Intelligence (AI) in Marketing Market Growth"
+    excerpt: "\"The Global Artificial Intelligence (AI) in Marketing Market\"According to a new market research report launched by Inkwood Research, the Global Artificial"
+    publishedDateTime: 2022-03-08T17:50:00Z
+    webUrl: "https://www.digitaljournal.com/pr/growing-demand-for-consumer-centric-services-favorable-to-global-artificial-intelligence-ai-in-marketing-market-growth"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 44
+    images:
+      - url: "https://www.abnewswire.com/uploads/1646743536.jpeg"
+        width: 1080
+        height: 720
+        isCached: true
+  - title: "Global Artificial Intelligence in Gaming Market 2021 Report Reviews on Key Manufacturers, Regional markets, Application and Segmentation by 2027"
+    excerpt: "Global Artificial Intelligence in Gaming Market 2021 by Company, Regions, Type and Application, Forecast to 2027"
+    publishedDateTime: 2022-03-06T22:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-gaming-market-2021-report-reviews-on-key-manufacturers-regional-markets-application-and-segmentation-by-2027-2022-03-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Text Artificial Intelligence Growth Opportunities 2022 Report - ResearchAndMarkets.com"
     excerpt: "The “Global Text Artificial Intelligence Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. Current text processing solutions are capable of analyzing tabular structured data formats with numerous rows and columns that are easier to process and store."
     publishedDateTime: 2022-03-07T12:29:00Z
@@ -38,6 +80,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "United States DoD Artificial Intelligence: Computing Power and AI Advancements Ensure Broad and Effective Defense Capabilities - ResearchAndMarkets.co"
+    excerpt: "The \"United States DoD Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This research service focuses on US Department of Defense (DoD) artificial intelligence (AI) budget spending and contracts."
+    publishedDateTime: 2022-03-08T10:13:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=627732"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "e4Xi4dvPMWIgpokGMCMa3wSwKSSplW3xu3UzGLhdwpVNSF0smC9PBp/u/fEC1cx2oa+XVYSuYrm566sscKP2r7efFrfy1UThXWVsUuKzlkLEWG/j25pGtQjYgg2EVGUcXjixuht1KgcSLqRPgl6Feg0pGz7AEVSsgG3lm7ssb5HNIhGYBKbQk4vokHG0sWkFuo9wVkZvRkwcfVJPqV2JRbk3biV6xX3LcS59lqP4LFIec1E0FUAX+yTGDxYJ5OcOPF5cBwAiRYfn3s2a+V9ktOfFBn0JXyRyXqX9C2LKiKGvsEAAiaEGDQmEWleJ9zQhjMQ2dPIlDVzQ7/InRzKTYMjdU9cebfh3bGsn9qU5TIN0MedMLO71exDtm5hNEjvTkLw5eXPpwUH9Rbwrgf3LkxRpcszMpd+O1ykKPSfaF1KKKCCaQWh/8J/CHJdb5gucvlzrzCe/zZgkcDyloifyISeoTtmpzDJAtADWIPCe0ic9sS0QROmJQvDhCMj2tAN/DpCX7lQYd76LjkvCz4/8TA==;8JwXOX8KGyZpwDzczd2qlQ=="

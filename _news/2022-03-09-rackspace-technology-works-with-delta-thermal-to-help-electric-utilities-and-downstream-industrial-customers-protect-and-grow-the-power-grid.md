@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Rackspace Technology Works with Delta Thermal to Help Electric Utilities and Downstream Industrial Customers Protect and Grow the Power Grid with AWS"
-excerpt: "Rackspace Technology Works with Delta Thermal to Help Electric Utilities and Downstream Industrial Customers Protect and Grow the Power Grid with AWS"
-publishedDateTime: 2022-03-08T16:10:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/03/08/rackspace-technology-works-with-delta-thermal-to-help-electric-utilities-and"
-webUrl: "https://stockhouse.com/news/press-releases/2022/03/08/rackspace-technology-works-with-delta-thermal-to-help-electric-utilities-and"
+excerpt: "Rackspace Technology ® (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company, today announced working with Delta Thermal to protect and grow the power grid enabled by Delta Thermal to help electric utilities and downstream industrial customers predict and prevent costly outages,"
+publishedDateTime: 2022-03-08T16:07:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-software-utilities-electric-utilities-9bd204f806232bfe1eca2c69de86f3c7"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-software-utilities-electric-utilities-9bd204f806232bfe1eca2c69de86f3c7"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "ZNEz7AJ4MwTTdaxsaC/S2mVbHmLblC4Zbc1rRjM4NJPAgBh+hAE0FKZr1ldrRuo/T1slLPIPsHslA7xBOKuJq9isIpJYOA5Dk/hskPMyVMOSrL4XrV1Z3WLsaWCABzAPaCRFEeeqsO4MFFtjU1N3ALZ3+t9dS8OhN9sPDii7YJS86px3ZCBnQ7lKOv8ndwPRRAaV+5/a7OQRQDrFljEHf8VKrOJGmte9/s55yxSaZu9Z8VhAIXt1QVj86u7nPxMXpSj3DkzJjXZ2EJWAOKqQSLjRCMkejUrgyOhyTWXqooZSKqSBv0MM3pGC+6C2GXHGSId8K0V5koEMRbd7VwaBMzqfl363iuz8dhTqRs2WfTtsHENr6xmpbf7SuCMHP9aLMQxgYPIlAGqiaFiU2QcNjn39KnqGEttPyjaVcY6icSvz+/Bi6NFLVcFEW/lj+XadS3Okoou4m9rO6VixvrZQJvmypfO0XxD0kPOOjbbDbrk/bThPVq4MAr35Z07rsnm4wdekcbC4hN8CduWANZDDrA==;53NemDhptG/oUQR9e1ABbw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "QSDMMmaWVK5FIWExlMN5Gy1waS2ozzOqLl9kdZnWqicO0A6uWwb9nGjkQ+4eAesK+NpmmIakWnd+ur/rparoDFjDkFBaHrBx82oEAWyv50A9r+UEe/YikOqX8Wsh5CgGxZqB77kucvrHdBXCGW3iZXppwHm9JzaYey48sz7ElcJWt6gg7kVcS6gcDjXq3hLmwU17n4/uAq1tRsYVkUVgyg9xq8lgC3xAB3rhvL0/DY3U/Rj2mwOkFUUzJY3apDEgStOLfeVRooQdc05pVh8vUjPukm6kxhtf7jWrSZL043Kp64+4xx0hkSyscVhFoySdc8LrPcfRXPXHuB2yGeUAvMz6Xdt3UvDvg8Sk6d15co4=;iaiJi7WP3poSWj3h/feLYA=="
 ---
 

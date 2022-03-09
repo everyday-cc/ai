@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-machin
 webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-machine-learning-stem-education-mori-"
 type: article
 quality: 71
-heat: 82
+heat: 102
 published: true
 
 provider:
@@ -43,6 +43,34 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQFiNDFUtBqVQw/article-cover_image-shrink_720_1280/0/1643832414538?e=1652313600&v=beta&t=VDt23X6pEwLOK5Zjn8MIn1P_uV3Am-6SNBZOAUXWTRw"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Overcoming AI and machine learning bias for global good"
+    excerpt: "And while the delegation of these activities to machines has helped mankind in many ways, bias still exists in technologies such as artificial intelligence. Hanna spoke with Lisa Martin, host of theCUBE,"
+    publishedDateTime: 2022-03-08T21:24:00Z
+    webUrl: "https://siliconangle.com/2022/03/08/overcoming-ai-machine-learning-bias-global-good-wids2022/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/Alex-Hanna-WiDS-2022.jpg"
+        width: 6240
+        height: 4160
+        isCached: true
+  - title: "Meet the Future of AI"
+    excerpt: "Artificial Intelligence (AI) touches all our lives but decisions about future of AI are concentrated in the hands of a privileged few. The explosion of coding camps and media amplifying select voices"
+    publishedDateTime: 2022-03-08T06:32:00Z
+    webUrl: "https://www.linkedin.com/pulse/meet-future-ai-mia-dand"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFFQgJxdHZF3g/article-cover_image-shrink_600_2000/0/1646715539561?e=1652313600&v=beta&t=TLlGrEefRiSkG3Gkj3D0D94BPo-7dlfZFuacbJkkpzo"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "f36/vdvR/GUqgkcfn6aw9n0q4AFN7SQ4M2cG+JH9gLf1znvbVO/7nbfHIMzHghuYTLjYgocBqwkOGsYRCYLkqdkdlCDg9pApm29KwJ98rg+/tl30CKBL6NMGA5Y1VbNLG9B1+Qx6uvJP+sTomSmWywba5JSazN9c+3j8f5HK2Ui11wLJ+V7HL4L25LFJJyoovXAEsz00+75MB5JJGkH0LCIElYVzurC22nM169gaeSqQpgvdqPjgt3egDmorcCh0TvSMHoZqTV05GPBfF2sSkfT122Rs5xyzvOpG2lg4o39BeuKUWeeaAJu1+aXHbOnRqdRAuaKKwkp7TR+j3jyB/xjuaOC7zeK26cTbtWSKNcU=;6GME7Toc7eNWBC2EjEtHlw=="

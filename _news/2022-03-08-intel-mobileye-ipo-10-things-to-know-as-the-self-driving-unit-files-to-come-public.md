@@ -40,16 +40,19 @@ related:
         height: 640
         isCached: true
   - title: "Intel Files To Take Self-Driving Mobileye Unit Public"
-    excerpt: "As Intel races to reorient its business around semiconductor chip-making production, CEO Pat Gelsinger has promised to keep the company's eye on the proverbial business road ahead. In doing so, Intel has decided to separate Mobileye,"
-    publishedDateTime: 2022-03-08T01:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/intel-files-to-take-self-driving-mobileye-unit-public?time=1646704502"
-    ampWebUrl: "https://www.nasdaq.com/articles/intel-files-to-take-self-driving-mobileye-unit-public?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intel-files-to-take-self-driving-mobileye-unit-public?amp"
+    excerpt: "In doing so, Intel has decided to separate Mobileye, its self-driving car unit that promises to help drivers take their eyes off the literal road. On Monday, the multinational tech company confidentially filed to take Mobileye public – and, according to ..."
+    publishedDateTime: 2022-03-08T08:11:00Z
+    webUrl: "https://www.fool.com/investing/2022/03/07/intel-files-to-take-self-driving-mobileye-unit-pub/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 54
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/669467/featured-daily-upside-image.jpeg"
+        width: 690
+        height: 560
+        isCached: true
   - title: "Intel Files for IPO of Self-Driving Unit Mobileye"
     excerpt: "The filing is no surprise. Intel announced late last year that it was planning an initial public offering for Mobileye in mid-2022."
     publishedDateTime: 2022-03-07T18:51:00Z

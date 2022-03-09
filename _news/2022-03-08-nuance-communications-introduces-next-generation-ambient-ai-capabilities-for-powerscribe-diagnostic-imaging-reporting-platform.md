@@ -2,26 +2,30 @@
 category: news
 title: "Nuance Communications Introduces Next-Generation Ambient AI Capabilities for PowerScribe Diagnostic Imaging Reporting Platform"
 excerpt: "AI capabilities for diagnostic imaging. The expanded capabilities will include enhanced AI-powered reporting features in the Nuance PowerScribe platform that will empower radiologists to create highly accurate reports in less time and with more clinically valuable structured data."
-publishedDateTime: 2022-03-08T15:11:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-diagnostic-imaging-a2106b1c3e43cbd4c2813dea03bf511d"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-diagnostic-imaging-a2106b1c3e43cbd4c2813dea03bf511d"
+publishedDateTime: 2022-03-08T15:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/nuance-communications-introduces-next-generation-ambient-ai-capabilities-for-powerscribe-diagnostic-imaging-reporting-platform-1031262786"
+webUrl: "https://markets.businessinsider.com/news/stocks/nuance-communications-introduces-next-generation-ambient-ai-capabilities-for-powerscribe-diagnostic-imaging-reporting-platform-1031262786"
 type: article
-quality: 11
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1156940/Nuance_Communications_Logo.jpg"
+    width: 400
+    height: 255
     isCached: true
 
 related:
@@ -39,7 +43,16 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Reveal Unveils Reveal 11 at LegalWeek – The AI-Powered Platform Driving the Future of eDiscovery Innovation in Law"
+    excerpt: "Press Release Reveal, a global provider of the leading AI-powered eDiscovery platform, announced today the introduction of Reveal 11. A major enhancement to the legal industry's most advanced AI-powered on-premise and SaaS platform,"
+    publishedDateTime: 2022-03-08T15:26:00Z
+    webUrl: "https://venturebeat.com/2022/03/08/reveal-unveils-reveal-11-at-legalweek-the-ai-powered-platform-driving-the-future-of-ediscovery-innovation-in-law/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 25
 
-secured: "X5HxLLn8/74q/Yu/9WvLNrVbEcmVkU0TLf3rvSrRWQmhPsYRMd6F3Rn0f475Bnuuj72PICqFBtQ/5vNGgfS39FE1yD1+mFOYo0UIrnfFtoCcU/tj/bXPdb6SWk3lp+eRW1u+xHIulWw5TsQnTjlSP3+GYSGAB48u/cGwvDv8XYDrSSwvFl5g/cgV21TLdCgkTc9NmEDzTUegVLXhyDqD4zSLd/0A+CzcakRkPOqGounzA6YCZapfDWzafgNv54G6TLGjFmI8e4wPAQIS3cz30UBEyHWYCpbatcnLGohB63j3OWpD4fegBWzC7gsnJXKQDIfHjniEYIqCdc86FsAEy4SHz+idEcHcK89EEpWjmwA=;Dl1as6KkKxX6LdmdCPs/nw=="
+secured: "R6UXWMIlfX753VddTxkRDwQciAI9mxI9svk60epqVvx+nxtTCGpDflY7K1ZqEjNZBP0osn+TG6VfC8cjsywhZfvxyMBV2yh4didIjUb87RCD/MfC5kOay9KSBtS4NG8DH8CKRiD/9oD9I3GX8FGsJqBlW+rKp1F5MoN5vlleBW9IxwFRb+BNznPjbd1UPUsU49iYdPhVBMLfzoA3LYhW/4zp6LOK9D6P7sTs1wu+ONGHwvxjfwH6DixMWRTKEoM+Yj5CMAPmjFhAvVA5jiF8mwMssavhPkgx6cAqh1a69AFBo318DAfzpRfioOvxkvo4v+WMyTUDiiYuFRENSFo+c2Q5WuFs2BcLSexZLmpxG/g=;5XWaKnXw8hJCYvETz9TKPw=="
 ---
 

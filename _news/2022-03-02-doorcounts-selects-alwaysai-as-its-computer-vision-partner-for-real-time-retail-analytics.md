@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Doorcounts™ Selects alwaysAI® as Its Computer Vision Partner for Real-Time Retail Analytics"
-excerpt: "SAN DIEGO, March 01, 2022 (GLOBE NEWSWIRE) -- Doorcounts™, an Oregon-based SaaS company, and computer vision platform leader, alwaysAI®, announced a strategic partnership to provide ground ..."
-publishedDateTime: 2022-03-02T01:40:00Z
-originalUrl: "https://menafn.com/1103785399/Doorcounts™-Selects-alwaysAI-as-Its-Computer-Vision-Partner-for-Real-Time-Retail-Analytics"
-webUrl: "https://menafn.com/1103785399/Doorcounts™-Selects-alwaysAI-as-Its-Computer-Vision-Partner-for-Real-Time-Retail-Analytics"
+excerpt: "SAN DIEGO, March 01, 2022 (GLOBE NEWSWIRE) -- Doorcounts™, an Oregon-based SaaS company, and computer vision platform leader, alwaysAI ®, announced a strategic partnership to provide ground ..."
+publishedDateTime: 2022-03-02T01:11:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/03/g25926731/doorcounts-selects-alwaysai-as-its-computer-vision-partner-for-real-time-retail-analytics"
+webUrl: "https://www.benzinga.com/pressreleases/22/03/g25926731/doorcounts-selects-alwaysai-as-its-computer-vision-partner-for-real-time-retail-analytics"
+ampWebUrl: "https://www.benzinga.com/amp/content/25926731"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25926731"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?619581"
-    width: 440
-    height: 250
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "pEAwtvRk2VGuDzeuF4SbXCDovgYKhBv5w3bvVfDS7ut7OqGLqduJJ8tdJ0bX/Y5P7bDUzrTHdGTfhXOLkpBdhdOBgHH1XjUnoSeXvAMORsiWizdiraF0KnkGn14SIQApWRdx7ciIbTzTp/5xc3AAwGiYxDScxJjaYDb3IGGiN4ytOHE5D9XTlcckBHa3opeH0rnt9c4nQXwJloEgriO02rC9JghrhQF9hvptwSombSCEmZZyxSZPeaorvMPbmTu8XJInnejpFXN5MuYAi8Lns8wJ9MNheIgXF/IAVFfXi9q8nr09v9AIUiRibR0Pfrh5uMDsVae8yg3lIjJuEhkGAUnf7JIZQIg9FJn0EmVs84g=;0qDZVFCQgVGYF/17/wAHMA=="
+secured: "dX64nYBE/kLfoI2RsRR1M857t1XCzstTR+pX/FeKCOJnAjiRYuaEKY7TOOGeQ+kGxL7mkg8X5YatL96UzJDfqm8zmBBa28kfihvlze8Q+QTTKLhFcM/bbAfMPeASKMU5YbM0zRkERS5YD8FHVWTSGBjzliBR3w1xNIdkLqUpbNskum0EBD9+Smqv//z98SsfTj9NDUvXbJZmWLSfTprndEZEdrxSD3zOIYZZvq9k9tNVEHlRFcROAjbbGzQPzDztCU48Huz0XKLT8CCO9gALxN7uSPA3CJcC6Ql0VfVYyYyx4x3wszW4Ol8tyXQ/Ha/tmrh9vPuNOKoY+7QUGdxtI37h3HqsVItYfut/Qj+rllQ=;JKVtNlz3e7u03QaOF0SoYg=="
 ---
 

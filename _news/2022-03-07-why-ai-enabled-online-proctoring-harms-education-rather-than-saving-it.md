@@ -43,6 +43,34 @@ related:
         width: 720
         height: 720
         isCached: true
+  - title: "Overcoming AI and machine learning bias for global good"
+    excerpt: "And while the delegation of these activities to machines has helped mankind in many ways, bias still exists in technologies such as artificial intelligence. Hanna spoke with Lisa Martin, host of theCUBE,"
+    publishedDateTime: 2022-03-08T21:24:00Z
+    webUrl: "https://siliconangle.com/2022/03/08/overcoming-ai-machine-learning-bias-global-good-wids2022/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/Alex-Hanna-WiDS-2022.jpg"
+        width: 6240
+        height: 4160
+        isCached: true
+  - title: "Meet the Future of AI"
+    excerpt: "Artificial Intelligence (AI) touches all our lives but decisions about future of AI are concentrated in the hands of a privileged few. The explosion of coding camps and media amplifying select voices"
+    publishedDateTime: 2022-03-08T06:32:00Z
+    webUrl: "https://www.linkedin.com/pulse/meet-future-ai-mia-dand"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFFQgJxdHZF3g/article-cover_image-shrink_600_2000/0/1646715539561?e=1652313600&v=beta&t=TLlGrEefRiSkG3Gkj3D0D94BPo-7dlfZFuacbJkkpzo"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "iHi9FWlZzds7uucnK0EujYScesfjFXK2NGJklHPgArgTE8zaLBrM//CKjyH1xKVM2gAz0UlhTzNainxOyu9uR8AW87LXeJUuBHkxgk1ORcXzRSPDfCiabWH5Hw+xyWBXi4UThS0L5pc23ShfyAt0/xeho0RixQPxaZDu6oH54mr5L5p8eAx5p/0IsMR4RQeCZmk/rMVMEPBQeO8UtiQAtCjyzTXRhvD1SMhqiEnjMCIAcK+rCwK7ejZsDDBVrGfdwv5aWY8VqsGqwUF9LeLgzcfI103RAuXZeqU3HHjh4FGXDaEIE8lC7mYdQ8otbo1NbxnBvvJYZIhw99Z77BYWtSN2NrKZnjxDkJWdsFGn6jg=;pCpj4RPP7T9njHOWN0kh6Q=="
 ---

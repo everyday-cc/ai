@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Cathie Wood Continues Buying Spree In This Self-Driving Trucking Startup As Shares Drop 70% YTD"
+    excerpt: "Cathie Wood's Ark Investment Management bought more shares in self-driving trucking company TuSimple Holdings Inc (NASDAQ: TSP) on Tuesday, which has lost nearly 70% in market value so far this year.<"
+    publishedDateTime: 2022-03-09T12:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cathie-wood-continues-buying-spree-in-this-self-driving-trucking-startup-as-shares-drop-70-ytd-1031265856"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/tusimpletruck1.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "s4aIuwpCwH5QHliidOjZzraAipp2dGAIrctBjUnAATqFLXEOramna3of3p7WKqBD6zZpQK+u6bJYrWOUgjLAUPzIPnCUhkbruVF4omkBTuiCF7wtrkRJ0uVQxMHV62ig3m6CkSIQ8Tzd5fctiFkzg46DMRAisl3DmdTl8nPFpCRC1J5oz9p4/lIf7kR2Ke/yyu0FTdPYN6QaHYDv5lJ5JI6SSWGoTolCzm2jSzZbtCujlKrG5ieKy56vnqPdPOJYAPxjdJh/lDeiDh9oPtSuWX3NFhtjIHiN4nt7SxfkOYp/rEvjzy8giaBshrzkGHROiMureZD85lvKaSp9BhBBnFHo5BInAtcfd02b56J3XHg=;gQDVoMEk7vThc8Ai6n9jKw=="
 ---
