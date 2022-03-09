@@ -67,20 +67,6 @@ related:
         width: 280
         height: 250
         isCached: true
-  - title: "04/03 – Weekly Fintech Recap"
-    excerpt: "Partnerships LendingUSA introduces FastScreen customer prescreen toll for the funeral home industry in partnership with TransUnion LendingUSA, a leading point-of-need fintech company, introduces a new tool,"
-    publishedDateTime: 2022-03-04T11:44:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/0403-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_2.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Understanding Fintech and the market for loanable funds"
     excerpt: "Fintech (aka. financial technology) refers to the use of technology to transform the way we conduct business in the financial sector."
     publishedDateTime: 2022-03-07T07:30:00Z

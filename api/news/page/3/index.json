@@ -56,10 +56,10 @@
     {
       "path": "_news/2022-03-04-kmworld-100-companies-that-matter-in-knowledge-management-2022.md",
       "title": "KMWorld 100 Companies That Matter in Knowledge Management 2022",
-      "excerpt": "AvePoint—Offers a full suite of SaaS solutions to migrate, man- age, and protect data in Microsoft 365 ... to automate routine cognitive tasks and provide insights. Infosys—A global provider of next-generation services and consulting that enables ...",
+      "excerpt": "Flexibility, agility, and the ability to pivot continue to be essential characteristics of winning companies. Organizations must have the right tools and products so they can break down information silos,",
       "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943",
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943&hss_channel=tw-90730744",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943&hss_channel=tw-90730744",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -78,7 +78,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T21:01:00-08:00",
+      "publishedDateTime": "2022-03-03T21:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "KMWorld Magazine",
@@ -1012,6 +1012,58 @@
       ]
     },
     {
+      "path": "_news/2022-03-03-baidu-launches-ai-platform-to-enable-on-device-real-time-translation-from-speech-to-hand-gestures.md",
+      "title": "Baidu Launches AI Platform to Enable on-Device, Real-Time Translation from Speech to Hand Gestures",
+      "excerpt": "Baidu AI Cloud, a leading AI cloud provider, launched an AI sign language platform able to generate digital avatars for sign language translation and live interpretation within minutes. Released as a new offering of Baidu AI Cloud's digital avatar platform XiLing,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-launches-ai-platform-to-enable-on-device-real-time-translation-from-speech-to-hand-gestures-1031251920",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-launches-ai-platform-to-enable-on-device-real-time-translation-from-speech-to-hand-gestures-1031251920",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1758980/Baidu_XiLing_Sign_Language_Digital_Avatar_Logo.jpg",
+          "width": 400,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-03T07:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-03-a-baby-cry-translator-a-company-uses-machine-learning-to-translate-your-infant.md",
       "title": "A baby cry translator? A company uses machine learning to translate your infant",
       "excerpt": "Switzerland-based startup Zoundream is working on a proprietary device that translates what they call the \"universal language\" of babies, with help of A.I.",
@@ -1098,73 +1150,21 @@
       ]
     },
     {
-      "path": "_news/2022-03-03-kia-unveils-automode-autonomous-driving-tech-that-will-debut-on-the-ev9-suv.md",
-      "title": "Kia unveils ‘Automode’ autonomous driving tech that will debut on the EV9 SUV",
-      "excerpt": "Kia revealed that its EV9 SUV, unveiled in concept form last November at the LA Auto Show, will be the first to use autonomous driving tech it calls \"Automode.\"",
+      "path": "_news/2022-03-03-balto-improves-real-time-guidance-with-intent-based-voice-processing.md",
+      "title": "Balto Improves Real-Time Guidance With Intent-Based Voice Processing",
+      "excerpt": "Balto has released its next generation of intent-based conversational dialogue models, raising the bar in conversational guidance capability, and reaffirming the company’s reputation as the premier real-time guidance platform for contact centers.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/03/kia-unveils-automode-autonomous-driving-tech-that-will-debut-on-the-ev9-suv/",
-      "originalUrl": "https://techcrunch.com/2022/03/03/kia-unveils-automode-autonomous-driving-tech-that-will-debut-on-the-ev9-suv/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2022-03%2Fe0fcfdf0-9ab4-11ec-9e7f-07ed5e0a3ac6&thumbnail=675%2C&client=49kdj93ncb8s938hkdo&signature=06765089e605e90e00c8e130e27e22cae462e7ef",
-          "width": 675,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/03/kia-unveils-automode-autonomous-driving-tech-that-will-debut-on-the-ev9-suv/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/03/kia-unveils-automode-autonomous-driving-tech-that-will-debut-on-the-ev9-suv/amp/",
-      "publishedDateTime": "2022-03-03T06:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-top-aws-executive-rachel-mushahwar-announced-as-closing-keynote-at-think-innovate-2022-conference.md",
-      "title": "Top AWS Executive Rachel Mushahwar Announced as Closing Keynote at Think Innovate 2022 Conference",
-      "excerpt": "Think Systems Inc., a privately-owned national management consulting firm that provides both private and public entities with organizational solutions and strategic hiring, is pleased to announce that Rachel Mushahwar,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/top-aws-executive-rachel-mushahwar-announced-as-closing-keynote-at-think-innovate-2022-conference/article_d2c6ed59-578e-541f-a9ee-4bb2be0ee2f3.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/top-aws-executive-rachel-mushahwar-announced-as-closing-keynote-at-think-innovate-2022-conference/article_d2c6ed59-578e-541f-a9ee-4bb2be0ee2f3.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/st-louis-ef6b3f5253a7bb8caf00e59d32ea80d2",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/st-louis-ef6b3f5253a7bb8caf00e59d32ea80d2",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/48/c48644c9-3eab-5be4-b878-0fdf7d4d6c82/6220d9adda088.image.jpg?resize=400%2C400",
-          "width": 400,
-          "height": 400,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1174,11 +1174,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T06:05:00-08:00",
+      "publishedDateTime": "2022-03-03T06:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1188,7 +1188,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Natural Language Processing",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/421408"
 webUrl: "https://www.entrepreneur.com/article/421408"
 type: article
 quality: 54
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/4/a2/4a2646ed-32c9-5557-8342-dd3054f453dc/62200b565b260.image.jpg?crop=1222%2C642%2C9%2C542&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "04/03 – Weekly Fintech Recap"
-    excerpt: "Partnerships LendingUSA introduces FastScreen customer prescreen toll for the funeral home industry in partnership with TransUnion LendingUSA, a leading point-of-need fintech company, introduces a new tool,"
-    publishedDateTime: 2022-03-04T11:44:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/0403-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_2.jpeg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Understanding Fintech and the market for loanable funds"
     excerpt: "Fintech (aka. financial technology) refers to the use of technology to transform the way we conduct business in the financial sector."

@@ -50,19 +50,19 @@ related:
         width: 2880
         height: 4073
         isCached: true
-  - title: "Rutgers researchers harness AI and Robotics to treat spinal cord injuries"
-    excerpt: "“This study represents one of the first times artificial intelligence and robotics have been used to ... down after a mountain biking accident,” Gormley recalled. “The therapy we are developing may someday help people such as my friend lessen the ..."
-    publishedDateTime: 2022-03-07T14:57:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/945558"
+  - title: "Rutgers Researchers Harness AI and Robotics to Treat Spinal Cord Injuries"
+    excerpt: "By employing artificial intelligence (AI) and robotics to formulate therapeutic proteins, a team led by Rutgers researchers has successfully stabilized an enzyme able to degrade s"
+    publishedDateTime: 2022-03-07T15:00:00Z
+    webUrl: "https://www.rutgers.edu/news/rutgers-researchers-harness-ai-and-robotics-treat-spinal-cord-injuries"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Rutgers University
+      domain: rutgers.edu
     quality: 70
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/92fe7d12-91e3-47ad-a1b6-79611caf4268/Rendition/low-res/Content/Public"
-        width: 495
-        height: 700
+      - url: "https://www.rutgers.edu/sites/default/files/2022-03/HERO_GormleySpinalAIresearch.March2022.jpg"
+        width: 2800
+        height: 2160
         isCached: true
   - title: "Study offers new hope for patients coping with spinal cord injuries"
     excerpt: "By employing artificial intelligence (AI) and robotics to formulate therapeutic proteins, a team led by Rutgers researchers has successfully stabilized an enzyme able to degrade scar tissue resulting from spinal cord injuries and promote tissue regeneration."
@@ -79,6 +79,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "AI Designs Enzyme To Accelerate Recovery From Spinal Cord Injury"
+    excerpt: "“This study represents one of the first times artificial intelligence and robotics have been used to ... down after a mountain biking accident,” Gormley recalled. “The therapy we are developing may someday help people such as my friend lessen the ..."
+    publishedDateTime: 2022-03-08T10:21:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/ai-designs-enzyme-to-accelerate-recovery-from-spinal-cord-injury-359352"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/359352/ai-designs-enzyme-to-accelerate-recovery-from-spinal-cord-injury-359352-640x360.jpg?cb=20220308"
+        width: 640
+        height: 360
         isCached: true
   - title: "Growth Opportunities in API, Analytics, Cloud, O-RAN, and Artificial Intelligence 2021 - AI-Powered Video Security Platform to Offer Human-Like Percep"
     excerpt: "The \"Growth Opportunities in API, Analytics, Cloud, O-RAN, and Artificial Intelligence\" report has been added to ResearchAndMarkets.com's offering. This report provides a snapshot of the emerging ICT led innovations in API,"

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "KMWorld 100 Companies That Matter in Knowledge Management 2022"
-excerpt: "AvePoint—Offers a full suite of SaaS solutions to migrate, man- age, and protect data in Microsoft 365 ... to automate routine cognitive tasks and provide insights. Infosys—A global provider of next-generation services and consulting that enables ..."
-publishedDateTime: 2022-03-04T05:01:00Z
-originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943"
-webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943"
+excerpt: "Flexibility, agility, and the ability to pivot continue to be essential characteristics of winning companies. Organizations must have the right tools and products so they can break down information silos,"
+publishedDateTime: 2022-03-04T05:00:00Z
+originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943&hss_channel=tw-90730744"
+webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943&hss_channel=tw-90730744"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 336
     isCached: true
 
-secured: "s47OohXEy6aPbWQVQoA6jrIP3pnNZN2nAujFfK1q1QGIR7dwEpD5SnBztBldycRU6qNbFpaLHT/tUuxddelbnCE0nwMjpazL3QvciexKLxoDRcnxwppyt1+4kmN+Glp4K+gHT3fj5nsrbppoGOf1ne62jDpPjzAnyoXVyBYWkB70x0OHKpeZrH5E5TjcRAKzSJOJ7tJHZgTuvUsc8TlXFSYAIBUZX2KEdXWmNpYO3hq98yuS4baQs/6dGGWqrHetkIvtS26raJ/MjsRGaBxZ3hJa428J+EARFh3ZmL2Aj/Xx/Gy8bpSpmHyUr8aSnqisE4aD/B4sZZPJCewOHg4baVZBcPpv7KzEqSKGHN+AxAg=;Jaqb24KrGJc14YxxZ0wY8A=="
+secured: "qtqPjhHSURWSaJdePhltksf2n3yJO+hlARagv5f4kSks1AnwWSSZM/WXVWrhCOxPE6c7N/nWEtFxPljQVzxCV+DpdMv3xfiKy0xQ/l/3TVeOJh/rtbisVIAyXBgtAleRKtWbbcSlxAolg03Vuax4IhJzTgQijJoSQzops12xIb9dd5vSE2kVFjIUJId48n7HKwtAfZhiXFYPsxGJCQfd8DEam3BFPEawWcoD2qWD55xZ/r3tmGAfzVICmcc3DxGJr2c+Gb+Q8OL9p9xsDPe0ZBB6/bYyfdRHOeOarU7Aj6/S+3TQawwtL3d1dGSsz2DJ9h3lllG6eW/lrNJNRu2WAdwmE7Av66y80CMNv/JoM30=;/1uFl89Mgo0/8Kga3EZTFA=="
 ---
 
