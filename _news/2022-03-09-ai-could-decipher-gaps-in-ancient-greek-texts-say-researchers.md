@@ -62,6 +62,22 @@ related:
         width: 790
         height: 320
         isCached: true
+  - title: "AI can help historians restore ancient texts from damaged inscriptions"
+    excerpt: "An AI tool developed by DeepMind can help historians restore ancient Greek texts with 72 per cent accuracy, and date inscriptions to within 30 years of their true age"
+    publishedDateTime: 2022-03-09T16:00:00Z
+    webUrl: "https://www.newscientist.com/article/2311657-ai-can-help-historians-restore-ancient-texts-from-damaged-inscriptions/"
+    ampWebUrl: "https://www.newscientist.com/article/2311657-ai-can-help-historians-restore-ancient-texts-from-damaged-inscriptions/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2311657-ai-can-help-historians-restore-ancient-texts-from-damaged-inscriptions/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 59
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/03/09150734/SEI_92450171.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "DeepMind AI tool helps historians restore ancient texts"
     excerpt: "AI software can help historians interpret and date ancient texts by reconstructing works destroyed over time, according to a new paper published in Nature. A team of computer scientists and experts in classical studies led by DeepMind and Ca' Foscari University of Venice trained a transformer-based neural network to restore inscriptions written in ancient Greek between 7th century BC and 5th century AD."
     publishedDateTime: 2022-03-09T16:02:00Z

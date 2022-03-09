@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-10-why-palo-alto-networks-rebuilt-its-workplace-with-ai.md",
+      "title": "Why Palo Alto Networks rebuilt its workplace with AI",
+      "excerpt": "Palo Alto Networks has now saved its employees more than 180,000 hours of productivity, thanks to this data-driven approach.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/09/why-palo-alto-networks-rebuilt-its-workplace-with-ai/",
+      "originalUrl": "https://venturebeat.com/2022/03/09/why-palo-alto-networks-rebuilt-its-workplace-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/Image_VentureBeat_PANW_0222_600x1200.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/09/why-palo-alto-networks-rebuilt-its-workplace-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/09/why-palo-alto-networks-rebuilt-its-workplace-with-ai/amp/",
+      "publishedDateTime": "2022-03-09T12:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-09-amazon-sagemaker-autopilot-now-supports-time-series-data.md",
       "title": "Amazon SageMaker Autopilot now supports time series data",
       "excerpt": "Amazon SageMaker Autopilot automatically builds, trains, and tunes the best machine learning (ML) models based on your data, while allowing you to maintain full control and visibility. We have recently announced support for time series data in Autopilot. You can use Autopilot to tackle regression and",
@@ -62,7 +113,7 @@
       "originalUrl": "https://www.therobotreport.com/ambi-robotics-and-pitney-bowes-sign-23-million-expansion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -252,7 +303,7 @@
       "originalUrl": "https://techcrunch.com/2022/03/09/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -291,7 +342,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -303,7 +355,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/09/deepmind-claims-its-ai-can-decipher-ancient-greek-texts-from-damaged-artifacts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -399,6 +451,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-09-ai-is-helping-treat-healthcare-as-if-its-a-supply-chain-problem.md",
+      "title": "AI is helping treat healthcare as if it’s a supply chain problem",
+      "excerpt": "Global health groups are turning to supply chain software to help patients get better access to treatment and testing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/03/09/1046976/ai-is-helping-treat-healthcare-as-if-its-a-supply-chain-problem/",
+      "originalUrl": "https://www.technologyreview.com/2022/03/09/1046976/ai-is-helping-treat-healthcare-as-if-its-a-supply-chain-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/03/AP_20120422071117.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/03/09/1046976/ai-is-helping-treat-healthcare-as-if-its-a-supply-chain-problem/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/03/09/1046976/ai-is-helping-treat-healthcare-as-if-its-a-supply-chain-problem/amp/",
+      "publishedDateTime": "2022-03-09T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-03-09-in-an-evolving-cloud-world-azure-passes-aws.md",
       "title": "In an evolving cloud world, Azure passes AWS",
       "excerpt": "State of the Cloud survey finds data warehouses, databases, and containers to be the top cloud draws, with serverless and AI/ML rising fast.",
@@ -449,6 +544,57 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-09-the-future-course-of-process-automation-will-be-driven-by-ai-not-bots.md",
+      "title": "The Future Course Of Process Automation Will Be Driven By AI, Not Bots",
+      "excerpt": "Despite its name, robotic process automation doesn’t require physical robots trudging through corporate hallways. It’s the robotic performance of repetitive tasks with well-defined input and outputs—not unlike the coded instruction for factory machines—that gives RPA its name.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/09/the-future-course-of-process-automation-will-be-driven-by-ai-not-bots/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/09/the-future-course-of-process-automation-will-be-driven-by-ai-not-bots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f89f505db3eef289c346955/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/09/the-future-course-of-process-automation-will-be-driven-by-ai-not-bots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/09/the-future-course-of-process-automation-will-be-driven-by-ai-not-bots/amp/",
+      "publishedDateTime": "2022-03-09T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1095,152 +1241,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-this-app-can-diagnose-rare-diseases-from-a-childs-face.md",
-      "title": "This App Can Diagnose Rare Diseases From a Child's Face",
-      "excerpt": "In 2012, Moti Shniberg sold his face recognition startup to Facebook and started looking for a new challenge. “We wanted to take our expertise and do something good,” he says. Then he met the head of a medical genetics center, who explained the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/app-diagnose-rare-diseases-childs-face/",
-      "originalUrl": "https://www.wired.com/story/app-diagnose-rare-diseases-childs-face/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62211b214c3ecf8a19eb6d10/master/pass/Business_Glass%20DNA%20Structure-1133773271.jpg",
-          "width": 2400,
-          "height": 1595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/app-diagnose-rare-diseases-childs-face/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/app-diagnose-rare-diseases-childs-face/amp",
-      "publishedDateTime": "2022-03-08T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-im-the-operator-the-aftermath-of-a-self-driving-tragedy.md",
-      "title": "‘I’m the Operator’: The Aftermath of a Self-Driving Tragedy",
-      "excerpt": "In 2018, an Uber autonomous vehicle fatally struck a pedestrian. In a WIRED exclusive, the human behind the wheel finally speaks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/uber-self-driving-car-fatal-crash/",
-      "originalUrl": "https://www.wired.com/story/uber-self-driving-car-fatal-crash/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6227f004f48a924e02bd4ee5/master/pass/Backchannel_fall_girl_new-7.jpg",
-          "width": 2400,
-          "height": 1801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/uber-self-driving-car-fatal-crash/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/uber-self-driving-car-fatal-crash/amp",
-      "publishedDateTime": "2022-03-08T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-storage-news-ticker-8-march.md",
-      "title": "Storage news ticker – 8 March",
-      "excerpt": "Real-time data company DataStax has announced a new Operator for K8ssandra, the cloud-native, open-source distribution of Apache Cassandra on Kubernetes. It supports multiple Kubernetes clusters, enabling organisations to easily deploy critical,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/cloud/learn/block-storage",
-      "originalUrl": "https://blocksandfiles.com/2022/03/08/storage-news-ticker-8-march/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1.cms.s81c.com/sites/default/files/styles/ibm_cloud_wide_background/public/2019-12-12/003_1.jpg?itok=75eiZEG1",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-08T02:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "blocksandfiles",
-        "domain": "blocksandfiles.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

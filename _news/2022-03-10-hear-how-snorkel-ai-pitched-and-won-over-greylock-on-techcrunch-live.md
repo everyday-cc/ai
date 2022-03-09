@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/03/09/hear-how-snorkel-ai-pitched-and-won-o
 ampWebUrl: "https://techcrunch.com/2022/03/09/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/09/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/02/TCL-2022-03-09-featured-1920x1080-1-1.jpg?w=1024"

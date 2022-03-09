@@ -69,6 +69,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Generic Oncology Drugs Market are projected to rise at a steady CAGR of 6% from 2022 to 2028"
+    excerpt: "Generic oncology drugs, being able to detect and treat tumors, are utilized extensively in the healthcare industry for treating cancer. Notable enhancements in the technology with the blend of information is expected to accelerate the pace of growth for the generic oncology drugs market and the cost pertaining to the treatment of cancer."
+    publishedDateTime: 2022-03-09T12:22:00Z
+    webUrl: "https://www.medgadget.com/2022/03/generic-oncology-drugs-market-are-projected-to-rise-at-a-steady-cagr-of-6-from-2022-to-2028.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "qrygetzGRJnFsN9MLDXroJq6fcOYpdokO8fD5SdPsPhshXQgpebsbQJNlq0R4TtbgmRQY7koRG5hLgNdv+4bHnZd4KTJQwD5JSYdbJF5MMYUjTHFcELIA4qAyiukrR5F/LX0IsKOzpQZ7mlFLR6h+DVfmqGznynoPp88wQCtZP7JZ0lQcFYY4q9aMJSSLxbdZ2RjghikwFDTLJXvf/1vOlBYcM3lO9qLDil2UJ7js+14MGPfSQW29C/BArbIM9TA0txY1DhO6Uuqp35yOj4y2LgefS25DgjYOkA9qkAEPdhjqGOW1z9CPhIeUtvnH5e8IkJTto4nY56nyIMbO6WQgVa2FTfoKZYXurFW01ic1NY=;PKoVqkjLn1gPCD8IEwbmxg=="
 ---

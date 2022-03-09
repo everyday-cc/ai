@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/ambi-robotics-and-pitney-bowes-sign
 webUrl: "https://www.therobotreport.com/ambi-robotics-and-pitney-bowes-sign-23-million-expansion/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Pitney Bowes & Ambi Robotics to Help Optimize Last-Mile Sorting Across US Hubs"
+    excerpt: "Pitney Bowes Inc., and Ambi Robotics announced a $23 million deployment expansion of AmbiSort systems in Pitney Bowes ecommerce hubs across the US."
+    publishedDateTime: 2022-03-09T20:09:00Z
+    webUrl: "https://www.automation.com/en-us/articles/march-2022/pitney-bowes-ambi-robotics-sign-deployment"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 50
+    images:
+      - url: "https://www.automation.com/getmedia/dd2546de-fa4e-41a8-b09d-ce2f4acec91e/Expansion-news-March-9-2022-jpeg-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "Pitney Bowes and Ambi Robotics Sign $23 Million Deployment Expansion To Help Optimize Last-Mile Sorting Across US Hubs"
     excerpt: "Pitney Bowes (NYSE: PBI), a global shipping and mailing company that provides technology, logistics, and financial services and Ambi Robotics, the leader in robotic sorting systems for supply chain operations,"
     publishedDateTime: 2022-03-09T14:23:00Z

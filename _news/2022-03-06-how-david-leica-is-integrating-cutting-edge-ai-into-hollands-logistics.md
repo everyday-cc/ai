@@ -9,7 +9,7 @@ ampWebUrl: "https://nl.mashable.com/tech-2/6839/how-david-leica-is-integrating-c
 cdnAmpWebUrl: "https://nl-mashable-com.cdn.ampproject.org/c/s/nl.mashable.com/tech-2/6839/how-david-leica-is-integrating-cutting-edge-ai-into-hollands-logistics?amp=1"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 620
     height: 443
     isCached: true
+
+related:
+  - title: "BigBear.ai to Showcase Advanced AI Solutions for Space, Intelligence, and Logistics at Upcoming Industry Conferences"
+    excerpt: "BigBear.ai (NYSE: BBAI), a leading provider of AI-powered analytics and cyber engineering solutions, today announced it will showcase its award-winning technology used in Space, Intelligence, Logistics,"
+    publishedDateTime: 2022-03-09T20:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-bigbearai-showcase-advanced-ai-solutions-space-intelligence-logistics-/2022/03/09/9560828.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "nbqb37QhqtpRNyHAa9znZ1LKHef7mtp0xlJP97YP5/2FxVCC1BG1qNcrSi3pI80+V+uyyGgfs9czwwOQx2kkQunIrkVHWDd+dSk9VLyLFq/hCKldyoEK0yw9qw/3KuB4sc7iH6ulZmn/63atUiC1z/ij0w9RXd/wCOx75PHKeb7i7d/HqTPVgnrIt4PP5zHGl5NtV/Nnk++DuN0M4UwqycoH3qqXU5cBhl00u5le+m3atYZnWU7eRN22QwtiL3thpOapAtqjO3yTcwLveR8LJcyxfTypa/AjG5ir6z4UNQQZBeEXpWgeRF9/uekDEwQwXhcAnKdPRa+96vbQgDCQqamodpgI9E8qruzde8wip2L+8KVF4ppSeFgxdbk/iQVYKkS/cSxMHU5nvUre4+xi1B39waBHuVo5yPour/166SKImHmKhWVjZqla1peJl7NHncI27rWwVerBnLP9bcO2+PUO72RbmDcLeufhTKG7yW9CgIFsaafy8dkTdKkQsBOSL58jMm3CKS6VNefCAt5ifQ==;QLfXlDRh/gWJJk3yxf9R4Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/09/deepmind-claims-its-ai-can-deciph
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/09/deepmind-claims-its-ai-can-decipher-ancient-greek-texts-from-damaged-artifacts/amp/"
 type: article
 quality: 100
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
         width: 790
         height: 320
+        isCached: true
+  - title: "AI can help historians restore ancient texts from damaged inscriptions"
+    excerpt: "An AI tool developed by DeepMind can help historians restore ancient Greek texts with 72 per cent accuracy, and date inscriptions to within 30 years of their true age"
+    publishedDateTime: 2022-03-09T16:00:00Z
+    webUrl: "https://www.newscientist.com/article/2311657-ai-can-help-historians-restore-ancient-texts-from-damaged-inscriptions/"
+    ampWebUrl: "https://www.newscientist.com/article/2311657-ai-can-help-historians-restore-ancient-texts-from-damaged-inscriptions/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2311657-ai-can-help-historians-restore-ancient-texts-from-damaged-inscriptions/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 59
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/03/09150734/SEI_92450171.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 800
         isCached: true
   - title: "AI could decipher gaps in ancient Greek texts, say researchers"
     excerpt: "From imperial decrees to Sappho’s poems, Ithaca system can find word patterns and suggest age of text"

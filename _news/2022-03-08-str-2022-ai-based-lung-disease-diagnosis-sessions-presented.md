@@ -23,6 +23,17 @@ images:
     height: 339
     isCached: true
 
+related:
+  - title: "New for 2022: Artificial intelligence and machine learning for preventive maintenance optimization"
+    excerpt: "In this installment of Automation Zone, learn how trends will include increased uptake of remote condition monitoring and continued focus on cybersecurity."
+    publishedDateTime: 2022-03-09T20:09:00Z
+    webUrl: "https://www.plantservices.com/articles/2022/az-new-for-2022-artificial-intelligence-and-machine-learning-for-preventive-maintenance-optimization/"
+    type: article
+    provider:
+      name: Plant Services
+      domain: plantservices.com
+    quality: 35
+
 secured: "DNdkvQi/uukVAZYMjw+Z0KPgn45iS7dszXVnxqH87c6Uecz4oqrSWRnRjVlnFGuq58cmtQpB/CIwb7bqGRBgDaPuwRZVofvzGN8hL54c62qdD1Q7++MP5chOF4mit9QaTaPyanDRDd4+2jEmoudbllRosNzYQ72+sUjmfsHb1F2CbTDGPuUr0Ka62HbDmG8Upr6xtlpJv7fRu9aWEZm0vKjJoBNICst8szGitVR5IHN0vXXj2I3ZymJixKogixbGODXyrc0KAKMz74Yih0hxmg+W7TlScBfJDOmL/+h5XmtckqSAZX/KnXYWm8fXTJMUf/k0ldjXI+VpnoDwDAUZ2tl92yweWsIZfIcG6Go/i5Q=;YGmIHQHh4gd6i8l0cDQQbA=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-09T17:00:00Z
 originalUrl: "https://dailyillini.com/news-stories/longform/2022/03/09/ui-professors-discuss-artificial-intelligence-computer-vision/"
 webUrl: "https://dailyillini.com/news-stories/longform/2022/03/09/ui-professors-discuss-artificial-intelligence-computer-vision/"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - Computer Vision
+  - AI Ethics
 
 images:
   - url: "https://dailyillini.com/wp-content/uploads/2022/03/AI-Graphic.jpg"

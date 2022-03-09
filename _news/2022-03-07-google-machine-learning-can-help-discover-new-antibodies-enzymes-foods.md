@@ -44,6 +44,20 @@ related:
         width: 709
         height: 450
         isCached: true
+  - title: "DeepMind shows how ML discovers new antibodies, enzymes, foods"
+    excerpt: "Alphabet (Google's parent company) subsidiary DeepMind has shown that Machine Learning (ML) can predict the shape of protein machinery with unprecedented accuracy, paving the way for researchers to discover new antibodies,"
+    publishedDateTime: 2022-03-07T07:26:00Z
+    webUrl: "https://ummid.com/news/2022/march/07.03.2021/deep-mind-shows-how-ml-discovers-new-antibodies-enzymes-foods.html"
+    type: article
+    provider:
+      name: Ummid
+      domain: ummid.com
+    quality: 56
+    images:
+      - url: "https://ummid.com/news/2022/march/07.03.2021/deepmind-ml.jpg"
+        width: 790
+        height: 530
+        isCached: true
   - title: "Google ML can assist discover new antibodies, enzymes, foods"
     excerpt: "Google ML can assist discover new antibodies, enzymes, foods - Alphabet (Googles parent company) subsidiary DeepMind has shown that Machine Learning (ML) can predict"
     publishedDateTime: 2022-03-07T06:55:00Z

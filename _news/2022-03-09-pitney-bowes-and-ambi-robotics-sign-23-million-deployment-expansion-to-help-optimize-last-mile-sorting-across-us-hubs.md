@@ -33,6 +33,20 @@ related:
         width: 700
         height: 500
         isCached: true
+  - title: "Pitney Bowes & Ambi Robotics to Help Optimize Last-Mile Sorting Across US Hubs"
+    excerpt: "Pitney Bowes Inc., and Ambi Robotics announced a $23 million deployment expansion of AmbiSort systems in Pitney Bowes ecommerce hubs across the US."
+    publishedDateTime: 2022-03-09T20:09:00Z
+    webUrl: "https://www.automation.com/en-us/articles/march-2022/pitney-bowes-ambi-robotics-sign-deployment"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 50
+    images:
+      - url: "https://www.automation.com/getmedia/dd2546de-fa4e-41a8-b09d-ce2f4acec91e/Expansion-news-March-9-2022-jpeg-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
 
 secured: "b6AsoWVmPB7+fHcb7AJWWX9rXuD69DQ1O+Hf5blj7ydcykpR2OJqb98rVR1S/Gr7+oDLdU/8HL0lqUoEPtbSY3G+FYgN47cgf1Mm2QZIgWHFqRZdEu6mQw53NAf6/vskZiqNfMSfCpRRHJ2Cy/dDazfesJeUix0DTS/1M9tMb5oRN/CQH4ySXYBD6bpVC1kefhcRJ/+NxQhtq93D9i/ReFtfelMhHxoP9lWOeXaYVg9s4Aj4NUsXBUSgqLFIQTCkF1nl3uJ44gudfX3TDcgfTK7d+H19qYWfwxvuxfjt0oA/6nvzRaYx46/N4h7MtmxaNvn+Iy+xu1XSquEH1Th4aDD0nXAWp36CZbwU2jTd6VM=;GeA7AGacgf3W3YWhkKaoJw=="
 ---

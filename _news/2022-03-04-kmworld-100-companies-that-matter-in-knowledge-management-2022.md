@@ -1,10 +1,10 @@
 ---
 category: news
 title: "KMWorld 100 Companies That Matter in Knowledge Management 2022"
-excerpt: "Flexibility, agility, and the ability to pivot continue to be essential characteristics of winning companies. Organizations must have the right tools and products so they can break down information silos,"
-publishedDateTime: 2022-03-04T05:00:00Z
-originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943&hss_channel=tw-90730744"
-webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943&hss_channel=tw-90730744"
+excerpt: "AvePoint—Offers a full suite of SaaS solutions to migrate, man- age, and protect data in Microsoft 365 ... to automate routine cognitive tasks and provide insights. Infosys—A global provider of next-generation services and consulting that enables ..."
+publishedDateTime: 2022-03-04T05:01:00Z
+originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943"
+webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 336
     isCached: true
 
-secured: "tLxYmIu7GA/uNIU/dUKLhUn4tBsBQ8cK9WImHuLNrdd9sUlFxLfVs+ZXEPMdhXY1KwroWmjNgFoaKsL+oMySVGgJ1Y4WEtwpYORlV/a3VxEj9Pd0Cti9o95QyAFPqhhC2hTB3IGePMow/jzmsQKCmh1h0WDruXNRkAeVL3ybQTdpo6Y6ML5uYPGqcDDzZlTffYWeBEcqI+mL+PP//1oIXsm4uvBy0nB0hQiaMZ1kUfYrcrOYBJ/rHgkN0zd9yUUgRcm9cuivD6bYj+SwHpirvuOrHeT3RCr9hy65M09169xuB0SkKqllXvfD2K57yA62JndhaACKON0btuIQLLZJQoqndP38JSy+OEyL3I7RBFs=;+YAtgKL75jSLH3v/u6rD3Q=="
+secured: "9GFFc2m0gx8B/Rzg+pQAEeGF3RSMSgCVV8FmSpYgYvW70oL0CKKLn+Rb13Sh6B4FTOKYziNuPA7+NO11xE+Um1mNL9aqQmSesCAeGH99SuEXVg3NlgnvDocd1Y0BKZCMSE0eF5RhAj6q+lmSH2M9GR/6V49eRfVqOsw26BtcXm+CT9TjapqTR1PWI90V+EhpKnt/+3qoeTJxedMzbbQhXpnMCDB+0fCGz8XOoqvAGiBjNYHLL0FYCUL74CILQ6jRZ+YrK2O0ZvDiCQvY+JSfIwA7eYkQENPz3r/fKQfd4ogfyUiW0tVk24sBN24d0Tgk5TWTFh8cDfC7ZrRYSXEnyQ7f5jkRSFLw8nkCqDjkd4g=;iulECQr1IXyaPH1grPur9g=="
 ---
 

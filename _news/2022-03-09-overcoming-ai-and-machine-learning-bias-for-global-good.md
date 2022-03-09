@@ -53,20 +53,15 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Meet the Future of AI"
-    excerpt: "Artificial Intelligence (AI) touches all our lives but decisions about future of AI are concentrated in the hands of a privileged few. The explosion of coding camps and media amplifying select voices"
-    publishedDateTime: 2022-03-08T06:32:00Z
-    webUrl: "https://www.linkedin.com/pulse/meet-future-ai-mia-dand"
+  - title: "AI is not taboo in education"
+    excerpt: "That was when the National Science Foundation put a new emphasis on how critical education in those fields was. It has led to a hard push for schools to up the opportunities for kids to explore, learn and grow both exposure to and foundational knowledge of these areas."
+    publishedDateTime: 2022-03-09T17:50:00Z
+    webUrl: "https://www.oleantimesherald.com/opinion/ai-is-not-taboo-in-education/article_6353ca36-c7dd-5b5c-af73-22255c31e933.html"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFFQgJxdHZF3g/article-cover_image-shrink_600_2000/0/1646715539561?e=1652313600&v=beta&t=TLlGrEefRiSkG3Gkj3D0D94BPo-7dlfZFuacbJkkpzo"
-        width: 1200
-        height: 600
-        isCached: true
+      name: Olean Times Herald
+      domain: oleantimesherald.com
+    quality: 34
 
 secured: "5QtYYHGRyEcX/MhBQSkpAy4NeOLub7HaDIMl7ubIQt2qctps391tgN8Bke+CScwFcLN1mMwkZDEkAe1LwmxG9fSPgketkTG2tF9hS+SBIj1BfY6Co5BxJasrboBt/ohcsvGYxI4CR8cf88BsQdfh6hbU1ugyFU4sHHkPJKx47cch7IjnANDI409hLqoCfXKin6flQomjBLkN311oTcv2yPBrAgDWmLy1dk2HXU7uCs7uAKnBECtgfLawWJyn6hy5zkDlxMj9zr/Q94RUUJAAd31QEPqDHIC/LOv9NbilsXT5AQe9RU4ti3l2kECb/s7Sj4x8+Xu1ypZcjngT/Wvl3k0/AGmkAVKCBtH6XDlnBQY=;5ieazDye84hr6+uV1W4I9g=="
 ---

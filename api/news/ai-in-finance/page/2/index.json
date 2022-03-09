@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-15-databricks-launches-lakehouse-for-financial-services-sector.md",
+      "title": "Databricks launches lakehouse for financial services sector",
+      "excerpt": "“Databricks Lakehouse for Financial Services enables Gemini to bring together data ingestion, machine learning, and analytical engineering onto a single platform,” Sri Rajappa, head of data at ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/15/databricks-launches-lakehouse-for-financial-services-sector/",
+      "originalUrl": "https://venturebeat.com/2022/02/15/databricks-launches-lakehouse-for-financial-services-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/databricks.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/15/databricks-launches-lakehouse-for-financial-services-sector/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/15/databricks-launches-lakehouse-for-financial-services-sector/amp/",
+      "publishedDateTime": "2022-02-15T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-making-machine-learning-useful-for-your-business-part-two.md",
       "title": "Making Machine Learning Useful for Your Business, Part Two",
       "excerpt": "In Part One of this article, I explained why business leaders should get excited about machine learning and how it can help improve their operations and decision-making. In this article, I will discus",
@@ -1320,59 +1372,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-sas-tops-aites-fraud-and-aml-machine-learning-platforms-matrix.md",
-      "title": "SAS tops Aite's fraud and AML machine learning platforms matrix",
-      "excerpt": "SAS has earned the foremost best-in-class title in Aite-Novarica Group's Aite Matrix: Leading Fraud & AML Machine Learning Platforms. The AI and analytics leader achieved top billing among 11 competing anti-fraud and financial crime technology vendors,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-tops-aite-s-fraud-and-aml-machine-learning-platforms-matrix-1031136115",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-tops-aite-s-fraud-and-aml-machine-learning-platforms-matrix-1031136115",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1735421/SAS_Top_Billing_on_Aite_Anti_Fraud_assessment.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T07:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

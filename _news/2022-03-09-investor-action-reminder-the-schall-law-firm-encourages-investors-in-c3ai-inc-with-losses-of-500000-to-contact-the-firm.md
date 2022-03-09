@@ -1,0 +1,70 @@
+---
+category: news
+title: "INVESTOR ACTION REMINDER: The Schall Law Firm Encourages Investors in C3.ai, Inc. with Losses of $500,000 to Contact the Firm"
+excerpt: "The Schall Law Firm, a national shareholder rights litigation firm, announces the filing of a class action lawsuit against C3.ai, Inc. (“C3” or “the Company”) (NYSE: AI) for violations of the federal securities laws."
+publishedDateTime: 2022-03-08T16:14:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/business-initial-public-offerings-shareholder-rights-c93b2180957a4a90be69441689c8c6c1"
+webUrl: "https://apnews.com/press-release/BusinessWire/business-initial-public-offerings-shareholder-rights-c93b2180957a4a90be69441689c8c6c1"
+type: article
+quality: 12
+heat: -1
+published: false
+
+provider:
+  name: Associated Press
+  domain: apnews.com
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+related:
+  - title: "(AI) INVESTOR DEADLINE: Did You Suffer a Substantial Loss? Contact Johnson Fistel About Leading C3.ai Class Action"
+    excerpt: "SAN DIEGO, March 08, 2022 (GLOBE NEWSWIRE) -- Shareholder rights law firm Johnson Fistel, LLP (www.JohnsonFistel.com) announces that a class action has been commenced on behalf of investors of C3.ai, Inc. (\"C3.ai\" or the \"Company\") (NYSE:AI). The lawsuit ..."
+    publishedDateTime: 2022-03-08T12:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/03/g26035185/ai-investor-deadline-did-you-suffer-a-substantial-loss-contact-johnson-fistel-about-leading-c3-ai-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26035185"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26035185"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "INVESTOR ACTION ALERT: The Schall Law Firm Encourages Investors in C3.ai, Inc. With Losses of $500,000 to Contact the Firm"
+    excerpt: "The Schall Law Firm, a national shareholder rights litigation firm, announces the filing of a class action lawsuit against C3.ai, Inc. (“C3” or “the Company”) (NYSE: AI) for violations of the federal securities laws."
+    publishedDateTime: 2022-03-07T20:56:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/business-initial-public-offerings-shareholder-rights-ee510f68c0534d4e99e09d55e31d664e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "ALERT: C3.ai, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - AI"
+    excerpt: "Robbins Geller Rudman & Dowd LLP announces that purchasers or acquirers of C3.ai, Inc. (NYSE: AI): (a) Class A common stock pursuant and/or traceable to the offering documents issued in connection with C3.ai’s initial public offering conducted on or abou ..."
+    publishedDateTime: 2022-03-08T18:39:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220308006134/alert-c3ai-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-ai"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 1
+
+secured: "/nW007AGdL6Z3p18EarizUw40i7IjSJIJdo5qptNmpcwSIyaEu9y6A9SE/H3dD/JC4F90KYF3zSgM0xKCC195KYBKoR5gKkNJLhoDSqefwHFXUpGwsoVhAVDE6dtWO0zDoRTN17J4dVxS6AClo2HCLrvOMytPz5AcN5fe2/zr4hix6mvH10DIUR6M8hJrg3KzulCsAfCx82VlKwr/2hPYRoFnFffTZTQ/u0ealdarkO6mIUf2tJgX4UpRF57FEB2s7R+gqAHM3vA8NbNx9fWFxyoa3qjJ+zQkqWTY1laOxfoO7137FfDnDniMYW/Ql96ivRci3Kpy7U1P3iyyCIOEYkz3B1Qlcqj+NPlOsFfpUA=;FmIdQeU9ehYXEkye64lzyA=="
+---
+
