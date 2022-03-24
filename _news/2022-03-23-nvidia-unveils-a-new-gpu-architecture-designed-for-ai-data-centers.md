@@ -200,6 +200,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "NVIDIA is turning data centers into 'AI factories' with Hopper GPU"
+    excerpt: "NVIDIA's next-gen Hopper GPU architecture is bringing the AI and Omniverse together, turning data centers into 'AI factories'."
+    publishedDateTime: 2022-03-22T17:20:00Z
+    webUrl: "https://www.tweaktown.com/news/85205/nvidia-is-turning-data-centers-into-ai-factories-with-hopper-gpu/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
   - title: "NVIDIA's new Grace CPU Superchip: 144-core CPU, 600GB of GPU memory"
     excerpt: "NVIDIA's new Grace CPU design unveiled with two new Superchip platforms: 144-core ARM-based Neoverse CPU, and huge 600GB of VRAM."
     publishedDateTime: 2022-03-23T23:30:00Z
@@ -209,7 +218,16 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 34
+  - title: "Inspur Information AI Servers to Fully Support the Newly Announced NVIDIA H100 Tensor Core GPU"
+    excerpt: "AI speed and performance continues to accelerate with the introduction of faster NVIDIA GPUs and more efficient resource scheduling Inspur Information, a leading IT infrastructure provider, announced its AI servers fully support the new NVIDIA H100 Tensor Core GPU in four- and eight-way configurations."
+    publishedDateTime: 2022-03-22T12:05:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220322005533/inspur-information-ai-servers-to-fully-support-the-newly-announced-nvidia-h100-tensor-core-gpu"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 22
 
-secured: "Zo05xxwbeQ2JzHg+A7mjkTeb4MwqO4HqRrBOPN9Enj++emMtse8SiCHiHmscWqp63uV8veyxheZ45Lkfrhsx1DnybKEpFudb2Ele8PMRW++OOF4/nLrVvmLuvtK2RnYbBRSJ3yI73pYwgfGFafYjt+WrceRuIgyEs/o6Dd342IRn0BuwfgJeHTcYgC0FEbIxrtqoHaUFMG0v1/VS/th+nz0YkSCYcvySpFXxXa8riRldoOLyMj5pGFEmCPLrZ/OS6IsKhi8xufGFh7TxQbVhzBdW9eO5PSDUaBWoUZG0yl5TgEC+vMXu/IKXN5NKtI8DUR0xvDeKlKE7WBRVrsjcSZUg6vQYBiWzVm1lDnlrW7o=;O6R2pVssJSbJkh1uxgu9sw=="
+secured: "5eKO11MKR5tGOH3FIty1IwVHfDbAKfPGUkDILegNxe+ttwJ1jvO16YkEmBVFIkXAesleBtogLpmb4uokmH7CEjTZQ2ca6mb1VZfBn7y9CWUmk1V7vAclj4Kg4/ihtFJWBKsGwBZRcHegThoL8Y8n1kPYH2GOs7tACf8W4NvaVlmr8Nr6vIBgM9Beu1EQblrfXnldUxCUKNwIQT0argzUmuDUvTpp3+2p6ZJ/XIC3P/jD5TApcogyur8h/qHr8E0Rny68v7UvN7m9+UUGmvtHpMcnyNsxs2UkU8a6dVzFelwBz37IWLqHBx1rzCIDPP/TfJF+Z9pU1ILtVcWxIn3Pce8G7TOWDYAC6GfUxFM0Wuy/H0yhlcCL04yIWOezBNQ5PpZciJkIaWUJNfc7Paka40bAfXllfyliCLwU2DpUQskZeE//VpST8Z1YH1sETzkL5Aaqyt+XmOMcaki04lRlfeKkH+UE5tfNU5FCvnXwx0kNvl5YP4Z8SCqJ4aY1RsYc5BGtOVIkzOVz7U3Mq2sinQ==;rYgRM51obpA/ObZL/wIpeg=="
 ---
 

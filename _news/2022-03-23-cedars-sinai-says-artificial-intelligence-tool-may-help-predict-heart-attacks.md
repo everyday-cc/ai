@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbclosangeles.com/news/local/cedars-sinai-artificial-int
 cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/local/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2854582/?amp"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cedars-Sinai Says Artificial Intelligence Tool May Help Predict Heart Attacks"
+    excerpt: "Cedars-Sinai researchers developed an artificial-intelligence algorithm that expedites the process to quantify a patient's coronary plaque. And after \"training'' the algorithm, researchers said it accurately predicted the five-year heart attack risk for 1,"
+    publishedDateTime: 2022-03-24T04:06:00Z
+    webUrl: "https://www.nbcsandiego.com/news/national-international/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2903072/"
+    ampWebUrl: "https://www.nbcsandiego.com/news/national-international/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2903072/?amp"
+    cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/national-international/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2903072/?amp"
+    type: article
+    provider:
+      name: NBC 7 San Diego
+      domain: nbcsandiego.com
+    quality: 69
+    images:
+      - url: "https://media.nbcsandiego.com/2019/09/Silent_Heart_Attacks_55sec_365_large_448x336.jpg?quality=85&strip=all&fit=448%2C336"
+        width: 448
+        height: 336
+        isCached: true
   - title: "Cedars-Sinai: Artificial Intelligence Tool May Help Predict Heart Attacks"
     excerpt: "Cedars-Sinai researchers say they’ve developed an artificial intelligence-enabled tool that could help predict if a person will have a heart attack. First reported in The Lancet Digital Health, Cedars officials said the tool has accurately predicted which patients would experience a heart attack within five years,"
     publishedDateTime: 2022-03-23T15:42:00Z

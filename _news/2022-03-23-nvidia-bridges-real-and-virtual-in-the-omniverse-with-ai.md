@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia Unveils AI Chips and Software, Plus Tools for Creating Virtual Worlds"
+    excerpt: "The chip maker is expanding its focus on artificial-intelligence technlogy, which CEO Jensen Huang says will revolutionize every industry."
+    publishedDateTime: 2022-03-22T23:15:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-price-investor-day-51647905360"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-price-investor-day-51647905360"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-price-investor-day-51647905360"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 71
+    images:
+      - url: "https://images.barrons.com/im-508965/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Nvidia Will Be A Prime Contractor For Big AI Supercomputers"
     excerpt: "Normally, when we look at a system, we think from the compute engines at a very fine detail and then work our way out across the intricacies of the nodes"
     publishedDateTime: 2022-03-23T23:41:00Z
@@ -60,6 +76,6 @@ related:
         height: 417
         isCached: true
 
-secured: "gtGmujdo9Ly/XqpZA3bReCiryPPQ1OMNDGTuEwdscPI9zUitG6NW+z8I3LQp+USdnkBluMTso9ICzf4RLIJGUkuZqWwyNR6VBXyB5iVrPZFYuljDKbWZxkzgYcy+GxlnsmF8MUdia5LQQR9XBOoHXd587WjKwcIaFLu+nMl0kKprYVTF3bLQajmUYi2JvgPq7CaEvlrgT5zQA9ZqhRpshY9Iq7epXSDIRot8KK5uK/NfEbidveFtB8DQlIxcP+St8xHd6/tf/GA5c+jl63Q4vvx3sWki8eyUvPyv7FUPkvMcyx2c02YZNgUmE83jlORBPHOnBpj7IibNzSqqCk9MUr1AjK/VftyGWVY6qd0ogps=;YY9PVCb8ISdvwqdk/amJhQ=="
+secured: "9b2zcxDTUGGMEhBs5ZCSU7l3GuGF0t9T0Zfkn3YAkepE6Lf+P0YzXXbYfBfkun2T3Zqn3dKemhpqZOlraVGhpidRm7yWVideyF8L/XOfWlcn4z1sSg6pwMdVuxfb5iFGLqHOqTEUmWv7uDNSPR7d+SvkSDaPia8yxZzmCDTA2yoanOUdGxsktwyGKmRk744u3jqu9NT9a1NT1g3X+6uZ+sGsfD2698cBrYIEd24mC+ocf8B799KbFhGNnKdCxXvQIt27GYYs6nzPeijcFrzW5bCoKCBvP0O9XR53ZAT5l0Gkw6Zq+ug+bJJAvydeYy0evWDc2aAtrFaz/K+QWDbTyURGHNSpbpdcmfiZ8ksHzrJPDbPCkRmS4Pw83wPZu0qUuXjv91y+4XkD7Iu3y1Ock2uGqKv0yLShSXJxlshvPe8ScV8Nlh9lkhgFIMLGT6mbfPGD7Ylia9Z5uLiDkvAuFamIhDEao8VUQ3uxl+nWKPvqM2LQ3c3CBkVK/GLc1AA6D2E5n2sOep5flXiSKlBaLw==;tGXA9yRfDiCtLw4w1HdUVw=="
 ---
 

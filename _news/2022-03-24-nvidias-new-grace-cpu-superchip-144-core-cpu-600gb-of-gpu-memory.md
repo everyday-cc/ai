@@ -208,6 +208,24 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "NVIDIA is turning data centers into 'AI factories' with Hopper GPU"
+    excerpt: "NVIDIA's next-gen Hopper GPU architecture is bringing the AI and Omniverse together, turning data centers into 'AI factories'."
+    publishedDateTime: 2022-03-22T17:20:00Z
+    webUrl: "https://www.tweaktown.com/news/85205/nvidia-is-turning-data-centers-into-ai-factories-with-hopper-gpu/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
+  - title: "Inspur Information AI Servers to Fully Support the Newly Announced NVIDIA H100 Tensor Core GPU"
+    excerpt: "AI speed and performance continues to accelerate with the introduction of faster NVIDIA GPUs and more efficient resource scheduling Inspur Information, a leading IT infrastructure provider, announced its AI servers fully support the new NVIDIA H100 Tensor Core GPU in four- and eight-way configurations."
+    publishedDateTime: 2022-03-22T12:05:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220322005533/inspur-information-ai-servers-to-fully-support-the-newly-announced-nvidia-h100-tensor-core-gpu"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 22
 
 secured: "H9EsbcH2K7W/i268PIrdi5CSGozNwyc0lnNtHr7iZhxYaa4FjFNacDkpgwMvrY1Fhpzi2La1cmYzHEotcuB/9C0qLXDknmdsc4yelyRurNa+QfTbsyPIzwRyhRa53C96mFn0z0jFniJl2HLRNATcJjaPkJUy3TZmUAEayR3O+yg3tTqw+I4yPEjYaF/FeX/4s8qUvbdHKEkfz2ZeSe7diVhk+vrxSpQFzdbtnzapXFJ/dPuJZ3MDOF0Ce8djfcULvtSACL6HG8AA8IIMmqVBQ4SIp8+OCd7S7hgr6uJQmjqIEzTCVv3IBJl8wCXe3jletayh7qoXpWXgR6ExYFEln0pOQNDViWlIuZHUyTK5yrw=;zbVCT/rTIem4Q+t9Ker26w=="
 ---

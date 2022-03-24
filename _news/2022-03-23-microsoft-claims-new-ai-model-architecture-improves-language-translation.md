@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2022/03/22/microsoft-claims-new-ai-model-archit
 ampWebUrl: "https://venturebeat.com/2022/03/22/microsoft-claims-new-ai-model-architecture-improves-language-translation/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/microsoft-claims-new-ai-model-architecture-improves-language-translation/amp/"
 type: article
-quality: 103
+quality: 105
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all"

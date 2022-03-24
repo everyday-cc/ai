@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-26-hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live.md",
+      "title": "Hear how Snorkel AI pitched and won over Greylock on TechCrunch Live",
+      "excerpt": "Snorkel AI was founded in the summer of 2019 and over two quick years raised a total of $135.3 million in funding over five rounds. The rocket ship seemingly still has fuel, too. The company isn’t slowing down,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/25/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/",
+      "originalUrl": "https://techcrunch.com/2022/02/25/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/TCL-2022-03-09-featured-1920x1080-1-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/25/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/25/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/amp/",
+      "publishedDateTime": "2022-02-25T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-25-how-fernando-gonzalez-is-driving-mission-driven-fintech-at-coru.md",
       "title": "How Fernando Gonzalez Is Driving Mission-Driven Fintech At Coru",
       "excerpt": "Gonzalez is a fintech expert turned investor ... The second, and most prominent, pillar of Coru’s mission is providing AI-supported financial coaching and education. It’s important, Gonzalez says, to ensure users are having human conversations ...",
@@ -1351,59 +1403,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-machine-learning-in-automobile-market-to-witness-an-outstanding-growth-during-2022-2027-with-leading-regions-and-countries-data.md",
-      "title": "Machine Learning in Automobile Market to Witness an Outstanding Growth during 2022-2027 with Leading Regions and Countries Data",
-      "excerpt": "Feb 06, 2022 (The Expresswire) -- Global “Machine Learning in Automobile Market\" is expected to ... by creating supply chain and market disruption, and by its financial impact on firms and financial markets. Our analysts monitoring the situation across ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-automobile-market-to-witness-an-outstanding-growth-during-2022-2027-with-leading-regions-and-countries-data-2022-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-automobile-market-to-witness-an-outstanding-growth-during-2022-2027-with-leading-regions-and-countries-data-2022-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-06T19:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

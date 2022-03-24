@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/23/quantum-tech-and-ai-company-sandb
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/23/quantum-tech-and-ai-company-sandbox-aq-emerges-from-alphabet/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 117
 published: true
 
 provider:
@@ -68,6 +68,6 @@ related:
       domain: insidehpc.com
     quality: 17
 
-secured: "ln9hsoDx6SIMSrFkxFW1GO6gc9B8y8U3hiyw4Pl2Eqij7L3GbpWlCrcl0p2dc4rwY3yJfuACZHizSp2jX8dfi6os6NlBNcSefiF/ELxuU+J4XcxpPT9L3k6iJWCkv99Lvj0UBOoWrEB6BTVsvSwWrCYZw3zIp466iXC22lgpWNOjAyfqA0DLyQ9tN/nLbpejHxIq3lcDDJ2i3jF19mKGkzA+ExeKCA2/ogEK7v1zFoQwTq0QOjIngesJmcrG2Rj+hk1oc6aEJNxxq5I9ThHh8vA3MmqFhrsp/MPW2lUTZoXG6o11AiXG0QsKp2UF4DzuLBep51CWWzqiTEQOA8yehIejhwi2h7xek27VSwO6UZc=;MIKVTqhCYMeQukK9HRzM1w=="
+secured: "3t0x1k4idN6X+n8tj8t+4En6FXzqLSpWEvvI1aMcdu5a+VM9tj6MGCh7yM5d4A0wcpxGELWExsZtySO9RCTBo7v/vvq9o+l0AcPdiV/LLGUp/gZUKFT0Bm9goz/S2ZIcoYsfpupxLnsmejf13m845h+sjSQJeYq4Zc/7ySqoJxPczDPbPtwUgVQQdS3JVwfQm8GJKQgHAST9UlIsTCTzMGx7I8+/10XyKb4AyVQv/rr/eVF/su0TzkIev1WIubHyi5vQnHW7SeGptSropBoMsn+/+cJe0NFgXOTxv7Xw81Tsv2TGpcef7vxKTZ3DBRaQNOCU7af8fbMxX7aIqM06/YvtSRWsL/uWrhikFMCzEJS8ia5A/CY4yw6EnHvP0BpWKOIRSl7oTwEeX6fkfm9I/IKDsA420ClE3Xm8sgf0SxM9tOtro00eFo2MUVoJkLvuX82fo1ORtAGm+pUfoT38EtIGDFdO3D2zjWxCWtgx5d3mhYcF2diYcxyjaPjo0Ga3RPFI7SBUH8k8NPNNd5Q8WQ==;+6xT9C226FcbvRm3HX3Rxw=="
 ---
 

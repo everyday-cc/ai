@@ -341,6 +341,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-11-deepmind-academic-fellow-joins-queen-mary-university-of-london.md",
+      "title": "DeepMind academic fellow joins Queen Mary University of London",
+      "excerpt": "Working in the School of Electronic Engineering and Computer Science, his role is funded by a donation to the University from leading British artificial intelligence (AI) company DeepMind, specifically for a promising early career researcher.",
+      "sourceUrl": null,
+      "webUrl": "https://www.qmul.ac.uk/media/news/2022/se/deepmind-academic-fellow-joins-queen-mary-university-of-london.html",
+      "originalUrl": "https://www.qmul.ac.uk/media/news/2022/se/deepmind-academic-fellow-joins-queen-mary-university-of-london.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.qmul.ac.uk//media/qmul/media/news/items/se/AI-640.jpg",
+          "width": 640,
+          "height": 410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-10T19:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Queen Mary University of London",
+        "domain": "qmul.ac.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-11-deepminds-new-ai-gives-historians-a-powerful-new-tool-to-interpret-the-past.md",
       "title": "DeepMind’s new AI gives historians a powerful new tool to interpret the past",
       "excerpt": "Google DeepMind has collaborated with classical scholars to create a new AI tool that uses deep neural networks to help historians decipher the text of damaged inscriptions from ancient Greece.",
@@ -476,6 +519,60 @@
       "topics": [
         "Google AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-tensorflowjs-is-a-library-for-machine-learning-in-javascript.md",
+      "title": "TensorFlow.js is a library for machine learning in JavaScript",
+      "excerpt": "Tutorials show you how to use TensorFlow.js with complete, end-to-end examples.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/js/?ref=jmaven.com",
+      "originalUrl": "https://www.tensorflow.org/js/?ref=jmaven.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-js-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-10T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "TensorFlow"
       ]
     },
     {
@@ -1341,102 +1438,6 @@
         "AI Hardware",
         "Machine Learning",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-19-tfdfkeraswrappersdistributedgradientboostedtreesmodel-tensorflow-decision-forests.md",
-      "title": "tfdf.keras.wrappers.DistributedGradientBoostedTreesModel | TensorFlow Decision Forests",
-      "excerpt": "Exact distributed version of the Gradient Boosted Tree learning algorithm. See the documentation of the non-distributed Gradient Boosted Tree learning algorithm for an introduction to GBTs. exclude_non_specified_features If true, only use the features ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/decision_forests/api_docs/python/tfdf/keras/wrappers/DistributedGradientBoostedTreesModel",
-      "originalUrl": "https://www.tensorflow.org/decision_forests/api_docs/python/tfdf/keras/wrappers/DistributedGradientBoostedTreesModel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-19T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-02-19-this-ai-can-control-the-sun-hot-plasma-in-a-nuclear-fusion-reactor.md",
-      "title": "This AI Can Control the Sun-Hot Plasma in a Nuclear Fusion Reactor",
-      "excerpt": "Google’s AI powerhouse DeepMind has made news again by using artificial intelligence (AI) to help shape the sun-hot plasma stream contained in a tokamak nuclear fusion reactor. The DeepMind team ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.popularmechanics.com/science/energy/a39124779/deepmind-ai-controls-plasma-nuclear-fusion-reactor/",
-      "originalUrl": "https://www.popularmechanics.com/science/energy/a39124779/deepmind-ai-controls-plasma-nuclear-fusion-reactor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2022-02-18-at-11-54-11-am-1645203279.png?crop=1.00xw:0.897xh;0,0.103xh&resize=1200:*",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-18T17:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Mechanics",
-        "domain": "popularmechanics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

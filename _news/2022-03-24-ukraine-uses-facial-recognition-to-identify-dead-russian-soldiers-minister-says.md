@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Ukraine uses facial recognition to identify dead Russian soldiers & inform relatives"
+    excerpt: "Ukraine is using facial recognition software to identify the bodies of Russian soldiers killed in combat and to trace their families to inform them of their deaths. Ukraine's Vice PM Mykhailo Fedorov said they're doing this as a \"courtesy to the mothers of soldiers\"."
+    publishedDateTime: 2022-03-24T04:21:00Z
+    webUrl: "https://inshorts.com/en/news/ukraine-uses-facial-recognition-to-identify-dead-russian-soldiers-inform-relatives-1648095712654"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/ukraine-uses-facial-recognition-to-identify-dead-russian-soldiers-inform-relatives-1648095712654"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ukraine-uses-facial-recognition-to-identify-dead-russian-soldiers-inform-relatives-1648095712654"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 67
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/03_mar/24_thu/img_1648094486555_42.jpg?"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Deepfakes, data traffic and drones: artificial intelligence in the war between Russia and Ukraine"
     excerpt: "The war inaugurates a new era in which the uses of algorithms allow everything from disinformation campaigns to weapons attacks"
     publishedDateTime: 2022-03-22T03:41:00Z
@@ -62,6 +78,6 @@ related:
         height: 628
         isCached: true
 
-secured: "cLyF+q9cSONsHtXELLB4F2VbRJDJIiY4uHqdIFFB8HNyWwoo19lo5BSsnI3mVI49VvZq/pu5CDVTnhQjdxqZs7acN7tXJP0CFux+KIB9GaZSQ9RKZAmd7Bxm+4MRiQYZFgYg/pwSNlaYZ1W1VzU1GGWtGOoKFOjyhKH3ZK6wORCC/11Pb5tD/Szp8TdQPsLKSdeK3P1Dur00psuECVVMYwxM6HUMUb/18//TNAAKGl9bOkAqX5Hqt6iAuaMEhwhx+tgp8BZFJr6hPVRYjArVyaPnnHAUgpnWpdV0/xIbSTHOtGouIp4JmAr6GgG/XJswWOWo6lrlfmX/JXkCyP+e0oH4r4dSl0lmV5vMn/cDYGs=;ap6Aopz1tF9Pw3LyknstSA=="
+secured: "RzWVUZSew6+qxpExrbZfZgyJStntGpTYZyC62K9WpsFv7LXql4i44/OeX7g/lOf7Xp6TfBDPGzjU/K6VA7dFdhajSPGEWyuo7mmVDUzDWPdsRF8qwLR9Zo3EwE8s361X9eO2YXRE6OH8Pcg0FlCTNT99u74mB+vU/meLZX0dwYz+M1GcSZz2pRD+mc+5AL8eM/2BhcgZCxCi2jqD0bLLOI6iP1nzYjTgYidYS+9/dluM6N369T9a3aN9ybaF37Ml9mfGixNQJs1fK/8Y4C06mH1BXuAH/iDH7BVPsRI4mklsiu7l3Grd4DElG75xpI9xoslZOR7EX274k6QxLUXrg0UNs0ViHRwjcje/kbTQAm8tp2n5qEjTExAQQm7t4RnKaApQ+V5NORXQP16G5yDfDW6Key/8LdPQ/zBwIC+f9au9RSCAsz784ef3/RbfBtI1ER5jM7G+z1CSngkwxrKATl9LXufozHxwIpmkFesQNzgFG9ElkFYhF44BuYQFAC/6/FM9UxjmkT98ZId5zrHgXA==;XD7ZyeajJBPjlJiTXV6IIw=="
 ---
 

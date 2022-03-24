@@ -201,6 +201,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-15-jim-isaak-think-more-click-less-to-thwart-ai-manipulation.md",
+      "title": "Jim Isaak: Think more, click less to thwart AI manipulation",
+      "excerpt": "You can choose whom you do business with” — he points out that private businesses like GoFundMe can establish their own guidelines, in this",
+      "sourceUrl": null,
+      "webUrl": "https://www.unionleader.com/opinion/op-eds/jim-isaak-think-more-click-less-to-thwart-ai-manipulation/article_74fd5148-f1a2-52d0-be5f-c324e731474f.html",
+      "originalUrl": "https://www.unionleader.com/opinion/op-eds/jim-isaak-think-more-click-less-to-thwart-ai-manipulation/article_74fd5148-f1a2-52d0-be5f-c324e731474f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/8/57/857171a0-ad1e-5411-919b-2c7a347aabc5/622f633a9359e.image.jpg",
+          "width": 382,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Hampshire Union Leader",
+        "domain": "unionleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-07-how-wrongful-arrests-based-on-ai-derailed-3-mens-lives.md",
       "title": "How Wrongful Arrests Based on AI Derailed 3 Men's Lives",
       "excerpt": "Critics say police rely too heavily on the technology, particularly since research has shown it misidentifies ... impact immigrants and communities of color. Search our artificial intelligence database and discover stories by sector, tech, company, and ...",
@@ -1465,58 +1508,6 @@
         "Facebook AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-the-bull-thesis-for-c3ai-is-more-artificial-than-intelligent.md",
-      "title": "The Bull Thesis for C3.ai Is More Artificial Than Intelligent",
-      "excerpt": "At least two big-bank analysts are not particularly optimistic. First, Bank of America Global Research analyst Brad Sills downgraded his rating on AI stock from “neutral” to “underperform,” which is similar to a “sell” rating. Sills also cut ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/417551",
-      "originalUrl": "https://www.entrepreneur.com/article/417551",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875",
-          "width": 675,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T06:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

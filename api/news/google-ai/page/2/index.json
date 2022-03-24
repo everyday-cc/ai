@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-19-tfdfkeraswrappersdistributedgradientboostedtreesmodel-tensorflow-decision-forests.md",
+      "title": "tfdf.keras.wrappers.DistributedGradientBoostedTreesModel | TensorFlow Decision Forests",
+      "excerpt": "Exact distributed version of the Gradient Boosted Tree learning algorithm. See the documentation of the non-distributed Gradient Boosted Tree learning algorithm for an introduction to GBTs. exclude_non_specified_features If true, only use the features ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/decision_forests/api_docs/python/tfdf/keras/wrappers/DistributedGradientBoostedTreesModel",
+      "originalUrl": "https://www.tensorflow.org/decision_forests/api_docs/python/tfdf/keras/wrappers/DistributedGradientBoostedTreesModel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-19T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-02-19-this-ai-can-control-the-sun-hot-plasma-in-a-nuclear-fusion-reactor.md",
+      "title": "This AI Can Control the Sun-Hot Plasma in a Nuclear Fusion Reactor",
+      "excerpt": "Google’s AI powerhouse DeepMind has made news again by using artificial intelligence (AI) to help shape the sun-hot plasma stream contained in a tokamak nuclear fusion reactor. The DeepMind team ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.popularmechanics.com/science/energy/a39124779/deepmind-ai-controls-plasma-nuclear-fusion-reactor/",
+      "originalUrl": "https://www.popularmechanics.com/science/energy/a39124779/deepmind-ai-controls-plasma-nuclear-fusion-reactor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2022-02-18-at-11-54-11-am-1645203279.png?crop=1.00xw:0.897xh;0,0.103xh&resize=1200:*",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-18T17:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Mechanics",
+        "domain": "popularmechanics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-19-deepmind-scientists-say-they-trained-an-ai-to-control-a-nuclear-fusion-reactor.md",
       "title": "DeepMind scientists say they trained an A.I. to control a nuclear fusion reactor",
       "excerpt": "DeepMind claimed that the breakthrough, published in the journal Nature, could open new avenues that advance nuclear fusion research. In this article Scientists at DeepMind have found another real ...",
@@ -1396,111 +1492,6 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-save-and-load-a-model-using-a-distribution-strategy.md",
-      "title": "Save and load a model using a distribution strategy",
-      "excerpt": "Pre-trained models and datasets built by Google and the community Tools Ecosystem of tools to help you use TensorFlow",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/distribute/save_and_load?hl=el",
-      "originalUrl": "https://www.tensorflow.org/tutorials/distribute/save_and_load?hl=el",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=el",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-tensorflow-2-quickstart-for-beginners.md",
-      "title": "TensorFlow 2 quickstart for beginners",
-      "excerpt": "Load a prebuilt dataset. Build a neural network machine learning model that classifies images. Train this neural network. Evaluate the accuracy of the model. This tutorial is a Google Colaboratory notebook. Python programs are run directly in the browser ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/quickstart/beginner?hl=ur",
-      "originalUrl": "https://www.tensorflow.org/tutorials/quickstart/beginner?hl=ur",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=ur",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
         "Google AI",
         "AI"
       ]

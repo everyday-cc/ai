@@ -55,7 +55,21 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Boost, a regional FinTech firm, becomes first fully digital financier to secure investment grade A1 rating in Southeast Asia"
+    excerpt: "Boost looking to tap on burgeoning digital banking ecosystem within the Southeast Asian region A1 rating for its Malaysian securitised receivables cements firm's commitment towards the underserved segment securitizes financing portfolio;"
+    publishedDateTime: 2022-03-22T19:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=634739"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
 
-secured: "VnxaWf9FEyLUskiQ4D4BTpuAnYqq9cd2OcpNafehNLn0Ua57hIftVWWDsakM8HJrbN/szLXOsKN3T/EOfMADgNT6f2+B/nd8mrymhJhHFNeRZzGqDGXXHMZsgYw8kdDxp9v1UvcfELl8qudEYjiLYAXpHwsojFVqPmEACQlL/CktjsQvFWreG8a7e5B4n+kYCoDal80FRWzWr9whgGmM2Lt2qhDBYNEB+TIWfeJ+zAepi8YXKsEIdtykSJvMwh0uYtbu5EBCeVk2fA0uP+wMTCVUOwz5xtoPInQ6AYelRiI9s7Oo3Qk74BlMhkv1iPwRX06NAxyiT2oHuXS1U1cPuFa0HCeJV717XE4VYGmo1tw=;9SKjhdNPQtbwIFmNTmJ6/g=="
+secured: "xaTLSrAuATojTothVT2vjjf3SjEEUDNyujvanCYu7euKDogmCD/nJSXn5UdLsNiFQ++eTEqNgczqKVjr/DyDUp+SNWI30KaWSotycW8ZQk0jgxAVc7Qn7G77BsZuTW+81xz4HExL9EVQmqY++hXy+DFf8mDfTKKXwr89fPZJ0WL4hEvgUYPuiEWAQPDsT+ebtUT84noOWV6cX4sMoQFLcmqKEskAXM6CPLO/VXyrNxYvP1xS0LnfmqvSjwor9Xs4yhTYmh77k9w265w3IJeeNM+pV5Z1pXdt0onBZ5nz7QpvWEf9fF/js7zVKEgIr0RrASLDeWIPlbcPA4kEyw4L8zWLklpiGIhcseM9BnD9xu/7ulwY2tZClAE+r87YZCNqgaEzmOsawIOr5iOPrxaUAtPBpJoe1uaN1i9lhHBrQaEAHIOm+Rjcq4MUvfVNp+i26fw9mGnDzdBpHyXYt4WO7VqOMesaxJrqh80mL6X+fLUjgldaFAPkp5jK9vB+eCSDUCAY6f9b8YeuZ4ok/rKKeQ==;r+OLILZ+8XiE7x5qR/IvXg=="
 ---
 

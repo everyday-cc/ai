@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp"
 type: article
 quality: 100
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Ukraine uses facial recognition to identify dead Russian soldiers & inform relatives"
+    excerpt: "Ukraine is using facial recognition software to identify the bodies of Russian soldiers killed in combat and to trace their families to inform them of their deaths. Ukraine's Vice PM Mykhailo Fedorov said they're doing this as a \"courtesy to the mothers of soldiers\"."
+    publishedDateTime: 2022-03-24T04:21:00Z
+    webUrl: "https://inshorts.com/en/news/ukraine-uses-facial-recognition-to-identify-dead-russian-soldiers-inform-relatives-1648095712654"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/ukraine-uses-facial-recognition-to-identify-dead-russian-soldiers-inform-relatives-1648095712654"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ukraine-uses-facial-recognition-to-identify-dead-russian-soldiers-inform-relatives-1648095712654"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 67
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/03_mar/24_thu/img_1648094486555_42.jpg?"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Deepfakes, data traffic and drones: artificial intelligence in the war between Russia and Ukraine"
     excerpt: "The war inaugurates a new era in which the uses of algorithms allow everything from disinformation campaigns to weapons attacks"
     publishedDateTime: 2022-03-22T03:41:00Z
@@ -63,6 +79,6 @@ related:
         height: 628
         isCached: true
 
-secured: "3Mx0U+VEXim39Cmo5XnFIKP1/KLIe6L6KhfINeUv7GJf63oJxNcfCWb/xZLqqj3rD6GGgsdFQYNvSoIvmB9jnUKUteo8BkqmlT9FkvW3CzWvvobtyH6u+BHtzb7PBgTjkRs8BLBU9DLDUoYmApSuTjjhwYtUl4CBDgZGRkeWihx+FlilxL9ANWm2e/4xteAuk0z9UI8HXwXwZw0qaoi4Q+2nFbSWZlogKRwkJu7yfwBz9P3iOuJ3w00IBTnpukz2XXQUfdalEDLayVDPc0hFxluN3FeSFZgZVa8isVht4D3XnXwUe7iSYofuRS+awqOPNjy3QBoKmoluWWwCCldN+IZOqBEQ3CB6ELI/Hm3KzK0=;fB5T5HXiM4OFqXLhrmyrZw=="
+secured: "5Qng7SpZMKfK9h+Q9fMUjvkcTOC4MVtIKXvMnIGRkfBhuidydfJD5vptYnp78UktpuM7CoFhPFAh4hhK0oUDJ9YB0iKc6yC6Gvw+gzzi7QVx5ps7YmMJNffHA5eb+RiOgPPSNXKjXaEO9O41ifd1/YhGMsbAG8Z3j78MFYxVcLoBcuS5WW5G6xsArc3LzDI+9OoCG9X/Zgdq54UqE/FQH3KMZfvGZtW8pSrAEhT9dJeWFR7LSRopsTdEWH+MqKUPnxwM1qhLJx/cdEP7hz+mzmR7WNblR0aTpQSADRcJxW4CnhXinogTSpjkUBTxQIFnDAxCSy/moqhGdBzWEoR1Bb9Smu6SsQId4nyw1gSAuJqWibwg7jDYJdsWGbx7FjL1wCAsEBmMP5uaKfUupM3Vn9/qZfobBZcq1EoUeT3lJkhmiucYI8bnRKnUuILBsoXf2Fb5Jh3KQ4uVIoFW2z4My6jXwWUUPykboMNkjJdQ40BVdnHWHTsGgsbh0FSxRTPR1MPDwSsWJzd+c1fZ1CEEFA==;l5pSSsPvcWocS1RFCuJIhw=="
 ---
 

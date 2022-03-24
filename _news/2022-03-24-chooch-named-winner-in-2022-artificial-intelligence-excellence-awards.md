@@ -76,6 +76,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Evisort Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Evisort is a winner in its inaugural Artificial Intelligence Excellence Awards program. Evisort is the leading provider of artificial intelligence (AI) solutions for contract management and analytics."
+    publishedDateTime: 2022-03-22T13:06:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-f6f1a78d546a46d8b5d4c09e38fe43e0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "StrikeReady Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "An AI-driven security company, StrikeReady, announced today that it has been named a winner in Business Intelligence Group’s Artificial Intelligence Excellence Awards program for Natural Language Processing."
     publishedDateTime: 2022-03-22T13:02:00Z
@@ -92,18 +106,27 @@ related:
         isCached: true
   - title: "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,"
-    publishedDateTime: 2022-03-22T12:42:00Z
-    webUrl: "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html"
+    publishedDateTime: 2022-03-22T12:41:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-812be7d276734b00a1b5ecd9b7d1d927"
     type: article
     provider:
-      name: The Register-Herald
-      domain: register-herald.com
+      name: Associated Press
+      domain: apnews.com
     quality: 30
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/2f/c2fe3e5e-68b4-11ec-b5b1-eb6d367dec1b/61cc72a6c74a5.image.jpg"
-        width: 320
-        height: 325
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
+  - title: "Chooch Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Chooch was named a winner in its Artificial Intelligence Excellence Awards program. Chooch solves a fundamental AI problem: teaching machines to understand visual data."
+    publishedDateTime: 2022-03-23T13:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-chooch-named-winner-2022-artificial-intelligence-excellence-awards-/2022/03/23/9569172.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "Gh+SG7721gfQXI618tC1fJkP3JQwK5gsP/cHI8nuPa684MnKDCHiJXbd95OdqsYtZF485yGUYnavnlhuN6qq9sZZWbnq8qcpLzEv+zB9JEGjobSmD6i3mV4J3FRyuOFW/ZTdCRhZyVQxo/jPUsYoPwyKlRev2FJUOl6ceStgl8nHReT1yd6MgDpSfI9t+0UR8fG5olJAljVaGPlqDP2vMwg7Hz4DAz5+Wq4gHr+ykFR6WR3sXiVXbuC1y4TI5fpmfNVbpLVTfiKyjAKYAjbLzq+Dw5IrDwrE1H7m7tT/51AFJ4NoI81hzMP8oCU0pfyYLKQvgFAtk+0dnOXb7J8MmDcLrCvqh2mor08TPrZw/oA=;IeoSL7OOX6HoBUSZrEsgjg=="
 ---

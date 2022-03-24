@@ -76,6 +76,20 @@ related:
         width: 377
         height: 250
         isCached: true
+  - title: "Evisort Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Evisort is a winner in its inaugural Artificial Intelligence Excellence Awards program. Evisort is the leading provider of artificial intelligence (AI) solutions for contract management and analytics."
+    publishedDateTime: 2022-03-22T13:06:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-f6f1a78d546a46d8b5d4c09e38fe43e0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "StrikeReady Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "An AI-driven security company, StrikeReady, announced today that it has been named a winner in Business Intelligence Group’s Artificial Intelligence Excellence Awards program for Natural Language Processing."
     publishedDateTime: 2022-03-22T13:02:00Z
@@ -92,19 +106,28 @@ related:
         isCached: true
   - title: "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,"
-    publishedDateTime: 2022-03-22T12:42:00Z
-    webUrl: "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html"
+    publishedDateTime: 2022-03-22T12:41:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-812be7d276734b00a1b5ecd9b7d1d927"
     type: article
     provider:
-      name: The Register-Herald
-      domain: register-herald.com
+      name: Associated Press
+      domain: apnews.com
     quality: 30
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/2f/c2fe3e5e-68b4-11ec-b5b1-eb6d367dec1b/61cc72a6c74a5.image.jpg"
-        width: 320
-        height: 325
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
+  - title: "Chooch Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Chooch was named a winner in its Artificial Intelligence Excellence Awards program. Chooch solves a fundamental AI problem: teaching machines to understand visual data."
+    publishedDateTime: 2022-03-23T13:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-chooch-named-winner-2022-artificial-intelligence-excellence-awards-/2022/03/23/9569172.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
-secured: "sPln3c047OkbzuteEMHHzvEfMjqd6ByS0q0vTSdDGxYcLpr8HvdWR/GCxg9g94PsyPdj83OmljerJNgqXzu8+1cf/dQrUI8gN9IQ3pzW7QkANhSosBT74rslFRK9G+kFafCHTA0nAz4FmcSNcyBfnryH9xu9AqkfOXvwdLZ0pK3i9kDtOboUNg7UHN1Ku/MCrS1XRJYYs2RnbENsTLUi9dXKqgJhE1/9syToFLPHjV8UPNJq79kvBgc1S7eYR9Mpt1LdkW4vP0mScUlTeVLiiS7wwSm6ndqwSG0TLct3ZdXOxbCrtU4jSZnfrp1z72U+13Dt96Z4IUqq+Gp8lCFMSuLu64DPBA0L0SFRVm0P/kA=;G1D7PXdZZVagmDSXpNnBCQ=="
+secured: "KDFbZuYBvlK6NzH4ZDW8UAgO6UTm0xW7CFK9LbEW8bBsyh/uq0qAEAlkmtATWCvz0f3n09N4nxpVBwJm4LI5nWOV5zDzLwoVlKppB8pWpL+eskgBRMKQXjCtg0AwdT5NhgXQ03jsDuF35iNQtFWoNHQcpGI+ACjE1Uvu5Vh6bELqe55EFy60Qqj5L0Yh9nQM/4v6NjZN17iQoR4UhH18Y0GswED9Rxob9DNCZ3fvz1ZbijbYFVy9bkwZHFTaG9ZRnLX4388uMAkZDMbtm2eVO37nTraokyGeJlFyk5YpuKNanu52VLKqCGxQusI2MMubJ9M6mnU/QAk/XthEwwAb8/1DHcLSuUPOF/9br53iGPN5i6AvqndCtRNEjk50n0j1102OJDikyUTU/JdvfAvN0WqtYwRjrDBtbAYNowem95V58IhF4nH4lGSpVg7wpz9vDqoaol+nBhEt/WBJcGxjv/m7P7jdtLywCX+QWXIRdkDuo/+ez+2R13adunDdxMFXLfhZ3+tH6K2ZJkLkmISslg==;q6PLL5u8gKjSE8Bp6WEHdA=="
 ---
 

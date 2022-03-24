@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGCUzlLrNH1MQ/article-cover_image-shrink_600_2000/0/1647424327619?e=1653523200&v=beta&t=nZUq3B9xcBK7EyvixKj86WTBa5RqSD0x3Ub4xkBqPk4"
@@ -25,6 +26,6 @@ images:
     height: 340
     isCached: true
 
-secured: "w23AzVqdrmuQWqQ/0AWrkmEhBiuKJQ+Uok5Exs88FXzo86Q+HxO4uHN6HNZW/yxTvpLTsx1ezR17zLR7QN+BC2ESUcZkfSDQXgjwrWL60qtFMlqeYTjqRlHOmPwFtowH/Kq+3c1/wbq5newGcN/q+V2Uaw+sRYi9xKjpl2KlLRp+j404Gy3h/hdCQvMMw7aLXodPa3xVgFUpiAVUwpMV4mKjkoFa+hIYGuZNxcznPQZvbY72V4Y2Yw9xycXUgNha1nH80T8SHCLhG0B/Tx/hz0xGwT98XVsEZoArOURmhD6hzmyXCKjaTZCBNIDcqea8NPoFbTq/kGc9xtWcMQPKG7jFzurZ5lgLD+SAk0QBo+Y=;ED4NqLTR822novFUzu/4Uw=="
+secured: "6Q+V2D00KeKG1Mx7zwJiuaFDLPUSIpZX3cIOZ90VEWbkAptfwU/cnnml02NkdD3qIVTpb+DX92OLZNW4xG4K68upYA8fIndtapoTNHtlAPo9Bq0JJJDF43OHwjPDtjDuZjf+UGJpxqv1PGaKVEgzQVj+RZtHD+9sm+FVEyrKtbFLPdyujGCDGNQOO6gs66YI2y5elE3PDXMLl7YhUZIWbznXZ2H6vnsF1w2HhXcarJoFDzx/PjmlBIPA2TgwLL6KDhG5jjnr70ZMc3eA4NnD+pqRwg7isZQ35ZPVlidyG+NcYPFV1Z/hrsuHfygYdqRQRBmEffcX6ROcsOgYWt4VjTC0OimZy47FtHxQoNX7sMzck9dRnB6KhV9SDE7t3oWF2geucqlgzrQVrpL63vOSQbEeVY1ugkZesyowlOTknuDrGv+rjHkVOD/Oaec2OZpCAtgrTH/OeUkFZjXLvLjgv0/XDlaaHDPtvvKOhahd4DIpQVtzVAE4t8/IhPt50bJQ8NLl/E4lTiUTNLht+f95oQ==;DK/q8bnsiZNw0O+STRXUtw=="
 ---
 

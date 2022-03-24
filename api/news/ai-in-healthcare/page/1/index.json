@@ -711,6 +711,59 @@
       ]
     },
     {
+      "path": "_news/2022-03-12-ai-our-world-what-is-artificial-intelligence.md",
+      "title": "AI & Our World: What is Artificial Intelligence?",
+      "excerpt": "Let’s talk about a question a lot of people ask themselves… What is AI? The thing about artificial intelligence is that most people don’t really know what it is. A lot of what most individuals think t",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-our-world-what-artificial-intelligence-beyond-ai",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-our-world-what-artificial-intelligence-beyond-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGpT_R1uwvZpg/article-cover_image-shrink_720_1280/0/1646766130678?e=1653523200&v=beta&t=Fa7CpGgBpV2n9QlAVmLJcLxShaojsSpPFSexhwlwuv0",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-11T12:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-03-12-cleveland-clinic-enters-artificial-intelligence-driven-pathology-collab.md",
       "title": "Cleveland Clinic Enters Artificial Intelligence-Driven Pathology Collab",
       "excerpt": "Cleveland Clinic is entering into a collaboration with PathAI to build a digital pathology infrastructure to research next-generation pathology diagnostics. Based in Boston, PathAI creates AI-powered research tools and pathology services.",
@@ -1285,49 +1338,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-gleamer-receives-fda-clearance-for-its-artificial-intelligence-software-to-help-detect-and-localize-fractures.md",
-      "title": "GLEAMER Receives FDA Clearance for Its Artificial Intelligence Software to Help Detect and Localize Fractures",
-      "excerpt": "GLEAMER, a French medtech company pioneering the use of artificial intelligence technology in the practice of radiology, announced today that the United States Food",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/gleamer-receives-fda-clearance-for-its-artificial-intelligence-software-to-help-detect-and-localize-fractures/article_d73fcedb-7bfc-5c7d-855c-6655db162e16.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/gleamer-receives-fda-clearance-for-its-artificial-intelligence-software-to-help-detect-and-localize-fractures/article_d73fcedb-7bfc-5c7d-855c-6655db162e16.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-02T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -2,26 +2,26 @@
 category: news
 title: "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards"
 excerpt: "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,"
-publishedDateTime: 2022-03-22T12:42:00Z
-originalUrl: "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html"
-webUrl: "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html"
+publishedDateTime: 2022-03-22T12:41:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-812be7d276734b00a1b5ecd9b7d1d927"
+webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-812be7d276734b00a1b5ecd9b7d1d927"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: The Register-Herald
-  domain: register-herald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/2f/c2fe3e5e-68b4-11ec-b5b1-eb6d367dec1b/61cc72a6c74a5.image.jpg"
-    width: 320
-    height: 325
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -90,6 +90,20 @@ related:
         width: 377
         height: 250
         isCached: true
+  - title: "Evisort Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Evisort is a winner in its inaugural Artificial Intelligence Excellence Awards program. Evisort is the leading provider of artificial intelligence (AI) solutions for contract management and analytics."
+    publishedDateTime: 2022-03-22T13:06:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-f6f1a78d546a46d8b5d4c09e38fe43e0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "StrikeReady Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "An AI-driven security company, StrikeReady, announced today that it has been named a winner in Business Intelligence Group’s Artificial Intelligence Excellence Awards program for Natural Language Processing."
     publishedDateTime: 2022-03-22T13:02:00Z
@@ -104,7 +118,16 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Chooch Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Chooch was named a winner in its Artificial Intelligence Excellence Awards program. Chooch solves a fundamental AI problem: teaching machines to understand visual data."
+    publishedDateTime: 2022-03-23T13:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-chooch-named-winner-2022-artificial-intelligence-excellence-awards-/2022/03/23/9569172.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
-secured: "FV7G17+J0I5Qm1HEyBHHE7IGho9m8vP6atACukTP1/M5saUm+YmGH/W1QNOk4qE1h17yVX94t9/sAn95CJd18rtx6tDHqELvC+OuZM7LnTO09vFwKIIQr/s9Y42SRrm5D/GaiZau16sOQslKsVXZTGYBn7cXtuaMrwgdHAbxT4IZYcNJRfnLzbr98C11bjeUCimqKCHR59hr5gPBXdj78ogYbITUPeshXT6U2fr3GtGXDiBsSK3JsFFbLaG94MNSFkqZbgX5GIFkTRCkTzofsRENd/rO5T0ki9p0QghmAdSwlL/2zNlnOqjBkJw2twMxq4ATeibJyOWOxje3/jAfbxuxVM77sWeBGNsribpP/Qk=;hHXF0vqZ0Rl6CsutLouKhg=="
+secured: "1INkE1OhF+4D+dZNS3YoB5kAGfGp3Q5DruH/to5wmd3ViOV7UOOKlilju+H+0zlvL7JBYnbJLE6SdG6fA+ZSxFiplKHWPDRwD6XTuOArV8ppWISyN0eh76PTC1EWmujjXCElAUJuvb9jYce/2X6E1mB53a24bPAa/+IcGjfmH09E+Z4XgJ90KJrxVaGcdSwA+ibGIezBla8DyLX/RLOReDz108vzFAegzfuXTyqbZPYqyXjxb8pnCoYe55kiA3VZnuxgwP1M1UUAYT+2crlc55sG08A9wXrjsel+Hl1SlcQFLdxHcBdz7MaqeRRUQ6bqBmiuQsIzAFy0NSL5XSXSEI94Vl8eyy6zcj+k0R+XrHs=;Ju7DT13FJOoo3SYZY5lCRA=="
 ---
 

@@ -70,7 +70,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 103
+    quality: 105
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all"
         width: 1200
@@ -199,6 +199,6 @@ related:
       domain: tmcnet.com
     quality: 29
 
-secured: "6j8kjLdWdHsAUGYltRy88fm6cG6PXBmOFQZz5ystG3gsGzE8zJ29nH+dwXEmaZ+1KM9R800e89rZ2ulfQoF8h0uDLF7FoYeGDiuVRPQ2SsBU98u53L4W3SBjLAEO+WwYXkXq5vbri+LsvZ8ZBMJF2VjYCtnYJTxE0x4LkfQFGqbCtB1ZeghDmJgrRnk1J9DPlqFeUY4UKfGASCEzfn2xUSCLNJzacEtIGsqV/7ms3MbS9QXmscEiJP2X1LwxfbMhO2n/mZWTLSn4qQgAUWoC612KJGDFojDHzmOUin1hgO93nTiU24nzdXvumzUZbBq4Drqh0T51F+sf4l49Uxnj7kUH0QBmRVvbCbqZHw+wdLg=;Nl2qJH1sN0a802L6dqHUfA=="
+secured: "AAOdcEhBORXJcp4AgtSRiOQjShlYizxJj5csNj+vRY5XycUWlrnNDtVPZ5EASnV+W6rifiZTzvBS1yKD8e9P2t+qWU2aabZYPqBP+F2VHzKfi/rGZGc4KB88/T8kwdsEmq/Zn+vIjFHo+pgpN2BCEI+GrgRRJs3ytRc5MWlBCdRSWeQkLzKyfpYTUuYF2mvQ3CfKlNVbgkWSqWStqW+eanzk48eQFhSl2AsuUz25uvi97vhUn3lEQsdvh3yTZtOpHwmtb1cTznB8gub062P3cOuyapb7/FuIOKih7IybAmnLsLcxkOyDoNpcHFCi6Fsi4GAeY25BY8GBRN7fuAAwmypGHLYt57WLaCKuWQs0d4NOxDYcwo+/RDMn1Nkoy6w7KGOWvRsvO9RM1N0jV83qIxilmbBbkkpop/DKY4QPCYPOkNKWfjyZ24uJZ0VG0mfGGpofeCj6eRYLlbd7iTCAFj1I54rzKfjK89jQC1XtV8IKiQoqygvUUb2f/G4a7CrkWpYy3EWAISTQrmgTZnhRlw==;ccxhGmWaLC1Aj4t9B4W+Ww=="
 ---
 

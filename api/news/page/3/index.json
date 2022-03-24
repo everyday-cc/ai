@@ -2,6 +2,82 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-19-what-happened-to-delivery-robots-in-san-francisco.md",
+      "title": "What happened to delivery robots in San Francisco?",
+      "excerpt": "After a number of companies launched delivery robots in 2017, the city has cracked down on the emerging tech, making it difficult to operate on city streets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/sanfrancisco/news/2022/03/18/0318-listextra-robotics.html",
+      "originalUrl": "https://www.bizjournals.com/sanfrancisco/news/2022/03/18/0318-listextra-robotics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-19-ai-tool-that-analyse-microscope-images-won-startup-competition.md",
+      "title": "AI tool that analyse microscope images won startup competition",
+      "excerpt": "An AI tool that improves the opportunities for analysing images taken with a microscope. This is the project that won the pitching competition Chalmers Ventures Startup Camp 2022!",
+      "sourceUrl": null,
+      "webUrl": "https://www.gu.se/en/news/ai-tool-that-analyse-microscope-images-won-startup-competition",
+      "originalUrl": "https://www.gu.se/en/news/ai-tool-that-analyse-microscope-images-won-startup-competition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gu.se/sites/default/files/styles/50_10_6_small_1x/public/2022-03/Pitch-competition.jpg?h=c216157a&itok=XjPhorBR",
+          "width": 512,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "University of Gothenburg",
+        "domain": "www.gu.se",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-19-robotic-assistance-devices-receives-order-for-ava-security-robot-from-a-leading-provider-of-portable-security-systems.md",
       "title": "Robotic Assistance Devices Receives Order for AVA Security Robot from a Leading Provider of Portable Security Systems",
       "excerpt": "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), today announced that its wholly-owned subsidiary Robotic Assistance Devices Inc. (RAD) has received an order for an AVA autonomous access control device from a subsidiary of one of RAD’s existing authorized dealers.",
@@ -31,6 +107,50 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-03-19-robotic-assistance-devices-receives-order-for-ava-security-robot-from-a-leading-provider-of.md",
+      "title": "Robotic Assistance Devices Receives Order for AVA Security Robot from a Leading Provider of ...",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), today announced that its wholly-owned subsidiary Robotic Assistance Devices Inc. (RAD) has received an order for an AVA autonomous access control device from a subsidiary of one of RAD’s existing authorized dealers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/robotic-assistance-devices-receives-order-for-ava-security-robot-from-a-leading-provider-of/article_c015e3d2-131b-5f2e-907b-ba73c827b870.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/robotic-assistance-devices-receives-order-for-ava-security-robot-from-a-leading-provider-of/article_c015e3d2-131b-5f2e-907b-ba73c827b870.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -985,145 +1105,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-microsoft-edge-can-now-generate-image-descriptions-for-screen-readers.md",
-      "title": "Microsoft Edge Can Now Generate Image Descriptions for Screen Readers",
-      "excerpt": "Microsoft Edge is now capable of generating automatic images descriptions for users browsing the web with screen readers. The accessibility feature uses Azure Cognitive Services intelligence to generate alt text for web images that do not include it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thurrott.com/cloud/web-browsers/microsoft-edge/264405/microsoft-edge-automatic-image-descriptions-screen-readers",
-      "originalUrl": "https://www.thurrott.com/cloud/web-browsers/microsoft-edge/264405/microsoft-edge-automatic-image-descriptions-screen-readers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2022/03/Microsoft-Edge.jpg",
-          "width": 1066,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Thurrott",
-        "domain": "thurrott.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-artificial-intelligence-helps-cut-miss-rate-of-colorectal-polyps.md",
-      "title": "Artificial Intelligence Helps Cut Miss Rate of Colorectal Polyps",
-      "excerpt": "Intending to put a dent in colorectal cancer (CRC) cases, researchers from the US and UK applied artificial intelligence to colonoscopies in an effort to reduce the number of colorectal polyps missed due to perceptual pitfalls.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/artificial-intelligence-helps-cut-miss-rate-of-colorectal-polyps",
-      "originalUrl": "https://healthitanalytics.com/news/artificial-intelligence-helps-cut-miss-rate-of-colorectal-polyps",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/GettyImages-1164501571-e4b00c1efb9503a805928b101c78b499.jpg",
-          "width": 480,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/artificial-intelligence-helps-cut-miss-rate-of-colorectal-polyps",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligence-helps-cut-miss-rate-of-colorectal-polyps",
-      "publishedDateTime": "2022-03-17T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-poll-shows-americans-optimism-toward-ai-and-and-facial-recognition-but-brain-implants-not-so-much.md",
-      "title": "Poll Shows Americans’ Optimism Toward AI And And Facial Recognition — But Brain Implants, Not So Much",
-      "excerpt": "like chips implanted in the brain and driverless vehicles. Output of an Artificial Intelligence system from Google Vision, performing Facial Recognition on a ... [+] photograph of a man ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
-      "originalUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62335e6539b745afd96e9434/0x0.jpg?format=jpg&crop=3421,1924,x0,y172,safe&fit=crop",
-          "width": 3421,
-          "height": 1924,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
-      "publishedDateTime": "2022-03-17T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

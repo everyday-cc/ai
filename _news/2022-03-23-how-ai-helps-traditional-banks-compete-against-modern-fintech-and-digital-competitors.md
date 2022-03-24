@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/how-ai-helps-traditional-ban
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-ai-helps-traditional-banks-compete-against-modern-fintech-and-digital-competitors/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -55,7 +55,21 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Boost, a regional FinTech firm, becomes first fully digital financier to secure investment grade A1 rating in Southeast Asia"
+    excerpt: "Boost looking to tap on burgeoning digital banking ecosystem within the Southeast Asian region A1 rating for its Malaysian securitised receivables cements firm's commitment towards the underserved segment securitizes financing portfolio;"
+    publishedDateTime: 2022-03-22T19:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=634739"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
 
-secured: "OvuCOjPxqzX8u+YcvPKuaxqtSScCK8sCL591Rt2sMquhCjZ4/rw6Vc8kVtTl6EixuAakvBCjcdEvnJglJh04vrpopwQ3VVlQPNyxsPmaerOU0i54EtKd0miyTq4npARUvdEZi2zuRRSBQSMwDUffUErZVCE7OuJs1Rmt4gUO83PYsIQ35NoouPUJj6FVFBBAAByLEE616goWU3J8w8eozhSj0p1PN44N3LDIDbV0wDRv7csHdPRAm37/auVz8GRlA/8iEDuqaT7zCorilGHpxKl2HYMfMNPXV1HsKETKbVbDrK4H9SDytAHSUQK+uw/eBy3DROr0qbP/z0h9bCZLvx0vmH9CJk1LLcu8EGi0IvA=;kjkFulIIyQbdxESGdcL3aQ=="
+secured: "aAHWFPD+wtXaVVomlA/NJbMLe0mHsjpgPS/GXoIxdetoJW2k91VfCVvSA2BjcugrqevhIhKBNcLu6YJJ15O59VtrKpPg7L1dgLiGoaM0Z43b8GMTre4oqCsgXCofekj/ysY7xoOsJu4sscDO2GcFNW4shsUB2/Rvx2dJqPknL35n7LMPpjLqb73QctaBknbvzAuThUwTFfePxroXUZQ2+f7V6ZREFrQhrfT7CqRISHxlUMy+ZGl5sqh+MyEyh4bDso8mu2TstfcPH2NkWaJdW8SRygSMYgPA4TQ0pQhghJ5eG8maIiVFDbIc6hbFzNNg6YAFl7UGpINfdd05WGmCoUIQG1ryGhWQEL26Hegpn/eQxa1iqUhjbMgwt99HzdnTRe9yXcONSNI8GS6lT4D88hz3cDeWhM3Ef9XhignhtjS4FA7Pj5OmfCiRRUEFNyMzDk9oi/mhwpb7UFoiSKWv9S1gb33ntcSu6xd3E3F8S6Gmuonhd3WdN6w55h/hDf+wcGBfa8K45Kmmx56cHj+oRA==;dxB1Szh9K5ieF4D5Q+60Og=="
 ---
 

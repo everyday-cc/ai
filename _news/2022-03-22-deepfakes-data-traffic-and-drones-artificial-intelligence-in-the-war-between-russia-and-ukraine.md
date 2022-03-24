@@ -57,7 +57,23 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Ukraine uses facial recognition to identify dead Russian soldiers & inform relatives"
+    excerpt: "Ukraine is using facial recognition software to identify the bodies of Russian soldiers killed in combat and to trace their families to inform them of their deaths. Ukraine's Vice PM Mykhailo Fedorov said they're doing this as a \"courtesy to the mothers of soldiers\"."
+    publishedDateTime: 2022-03-24T04:21:00Z
+    webUrl: "https://inshorts.com/en/news/ukraine-uses-facial-recognition-to-identify-dead-russian-soldiers-inform-relatives-1648095712654"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/ukraine-uses-facial-recognition-to-identify-dead-russian-soldiers-inform-relatives-1648095712654"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ukraine-uses-facial-recognition-to-identify-dead-russian-soldiers-inform-relatives-1648095712654"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 67
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/03_mar/24_thu/img_1648094486555_42.jpg?"
+        width: 960
+        height: 640
+        isCached: true
 
-secured: "D+URWo09bjI4BzsEBiK8KuExJLgsc30CN0dtZ17SLsvZ5OylqFOWdPktamJd9v4ayKjPj/MtAJ2mQC/1iz7pp4lv5spRz02moU7643ebh0oLdcNHBEYjdGcYsN+D6YshrXwYBbNCh0S2dcD26G0DZcRVs1KC+IqX9D3gFsOqf8J8Uy8pfvK3UzfsDa1bO8Z4rj5688DKlqOqBjqp02PLazNDcXa8cC2NcgUeS77HO7NYSLFOSn/1j7pKF1sYgtIT8mCzJvhItuJDfSBcN5w76ecDwgo8rvuIilga+iyhcpqaMk6INgwMez5X4yaO4d6h/cWZ5aMBf95vv4AQigIJ5a17F/F0R3YihcQx3DgXbsY=;1ZZiOGz5QK4/bFDkeniz/Q=="
+secured: "OcHJJa13zEzSt5+uQ8Nixm9RBJKZJyng9WkYIs/uOQ8nLn8kH6n8BwdlQszcTyl8LiR2C5XtTxW6LBqd889R5Ydk0QfyqnAxqCN0WD+QeNLvMuk4BI63AlnQPt1ZrbfifZURHUrq2Lk8GLLR8GiRjorWz9oelttHwpkOqq4Kf6K9Ay/4fn4d1tOOnkHJ4VRXsFuyNmNSy57MiaoDj+4d5Jlzq80Acf/gtzedt11BxfaDypA/9oV8xLD2ZSk/QxLFZxchYjCT2B+Dp1RJPvdxvskZSLPk0gsNOK+cUyHSPtjtPRgPvU8ijjeLnk+T/3PzbU64ZHRaYcF/41QaJbj9wwPaPUFsJnwKbKNlDxIffXqDk59y56NWkcBUyTxLrf5HaC6qJ70wyiZoH2EnySuc+jbTn7RmER24vHhodhzXls4jjXqqgb31OIn0mP34MLOxWS8c0Eh/2ftmDQM2a5VHlHpNbjpLYBHe3LN6gr3Je/oXpcPbDT+b0fjoHsDCskZspxGpF5b9+bXwXm3o8mxMAQ==;90No6wbporHyXBwZi9+f/Q=="
 ---
 

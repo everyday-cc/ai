@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleash
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech/amp/"
 type: article
 quality: 123
-heat: 253
+heat: 273
 published: true
 
 provider:
@@ -206,6 +206,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "NVIDIA is turning data centers into 'AI factories' with Hopper GPU"
+    excerpt: "NVIDIA's next-gen Hopper GPU architecture is bringing the AI and Omniverse together, turning data centers into 'AI factories'."
+    publishedDateTime: 2022-03-22T17:20:00Z
+    webUrl: "https://www.tweaktown.com/news/85205/nvidia-is-turning-data-centers-into-ai-factories-with-hopper-gpu/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
   - title: "NVIDIA's new Grace CPU Superchip: 144-core CPU, 600GB of GPU memory"
     excerpt: "NVIDIA's new Grace CPU design unveiled with two new Superchip platforms: 144-core ARM-based Neoverse CPU, and huge 600GB of VRAM."
     publishedDateTime: 2022-03-23T23:30:00Z
@@ -215,7 +224,16 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 34
+  - title: "Inspur Information AI Servers to Fully Support the Newly Announced NVIDIA H100 Tensor Core GPU"
+    excerpt: "AI speed and performance continues to accelerate with the introduction of faster NVIDIA GPUs and more efficient resource scheduling Inspur Information, a leading IT infrastructure provider, announced its AI servers fully support the new NVIDIA H100 Tensor Core GPU in four- and eight-way configurations."
+    publishedDateTime: 2022-03-22T12:05:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220322005533/inspur-information-ai-servers-to-fully-support-the-newly-announced-nvidia-h100-tensor-core-gpu"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 22
 
-secured: "Pu05NUM/9XAVrpiTIc6OkmVNb+KhZfv/Y6kDtpuYf3vNk6Eu/tfGYGjtQIfYVG/xuDVFwSS74sdtdAXtygTHpK4ze6yjGQwGDdKd8XQ9JKBrPyWTuV0qSlX8BehkPKFQFkzppaEMkTGnca8zAh2Ns3V5ct5WYB4LZK3da8gFAdQeDjrMUQD1j05dWTNc/Gv5zUlmHI75pV5EWjTVPGZl+5OE0LF7ityx24XaampSghH5/CAHOsAvlqR2wdX4/3tlxL5gC7He4tk1KfwPDYzNN/mNywU1mBRII2eLinr7T1hd+9QdH+tMc+BlNa+YeTcbEhgUnvtgz64DHD2U/kGldqxut8AO1pZDj4tioTDyHek=;iZ6t8tASTygIOIDKJUNq0w=="
+secured: "ysgu9asYCvaPK8XWle1owqhUOtlb1E98pqsbq9pRHpMR+/DjIGQvOFn125idGRPbwLTevl9s6G2AOiSvp4c6JqKiQQrmGrk9+SWm5RwoEVASxS+HW6aGNAcEn/gY++B3JwWSBjhhV8KUyi+6PKerTwAzWgHLPJXkS2AZDLqT719uZxrRFibWX/YXMWwFHpXr+mgIX0RgPzx+0WPzZ8XReUsYRDGR/ZhMFlLfcC5/m7fH/2cxgWHMTcebOc6N6Yqb+WmwTyPPmdIiwvRXt2lO7E9EBb/f8FeW5M2uObvC5Z7zNUO2iMHYaV2mgHozGUrdqT1Ocw7lh4iV75Bcn+bcL9+ay5M1AUCalI6PYyngjcoOr9SJZWYXwd0gpCuArVVsB2pVNll0RdCNqcupK+cETYRK/KxZn5yArgoZLzWT1GISGmUbwnZlthILC+lmkHee/MCVf5fVNaipWajYleH/eZtOQzE7vYG71N/0NrBqAjcs+j8z1vwFCEEeIXRDwb0k6xTp58N06oOxJB0jWExYnA==;I9zmPigm21dDpDzDLm3dIw=="
 ---
 

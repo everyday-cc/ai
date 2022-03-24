@@ -566,6 +566,110 @@
       ]
     },
     {
+      "path": "_news/2022-03-13-ai-ethics-and-the-riddle-underlying-criminal-accountability-of-ai-including-crimes-committed-by-revered-ai-based-self-driving-cars.md",
+      "title": "AI Ethics And The Riddle Underlying Criminal Accountability Of AI, Including Crimes Committed By Revered AI-Based Self-Driving Cars",
+      "excerpt": "Ethical AI is contending with whether or not AI ought to be criminally accountable, which can be illustrated via crimes potentially committed via AI self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/13/ai-ethics-and-the-riddle-underlying-criminal-accountability-of-ai-including-crimes-committed-by-revered-ai-based-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/13/ai-ethics-and-the-riddle-underlying-criminal-accountability-of-ai-including-crimes-committed-by-revered-ai-based-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62203112ed0d0bc76dc90630/0x0.jpg?format=jpg&crop=2218,1248,x0,y162,safe&fit=crop",
+          "width": 2218,
+          "height": 1248,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/13/ai-ethics-and-the-riddle-underlying-criminal-accountability-of-ai-including-crimes-committed-by-revered-ai-based-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/13/ai-ethics-and-the-riddle-underlying-criminal-accountability-of-ai-including-crimes-committed-by-revered-ai-based-self-driving-cars/amp/",
+      "publishedDateTime": "2022-03-13T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-ethics-of-artificial-intelligence-on-the-top-another-take-on-the-draft-artificial-intelligence-regulation-significant-changes.md",
+      "title": "Ethics of Artificial Intelligence on the top. Another take on the draft artificial intelligence regulation. Significant changes",
+      "excerpt": "A few days ago the internal committee of the European Parliament has published its new proposal for amendments to the Artificial Intelligence Act. The proposal is still pending as it has to be approved for further steps,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ethics-artificial-intelligence-top-another-take-draft-regulation-",
+      "originalUrl": "https://www.linkedin.com/pulse/ethics-artificial-intelligence-top-another-take-draft-regulation-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQHlQdpetP4wXg/article-cover_image-shrink_720_1280/0/1646908244234?e=1653523200&v=beta&t=xCzuaapOWJ_g4qnrkqOYqOEWBKXHch1VVx32Mp4GalE",
+          "width": 1083,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-10T02:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-08-data-ethics-consortium-for-security-decs-guides-startups-and-policy-makers-on-ethical-ai-practices.md",
       "title": "Data Ethics Consortium for Security (DECS) Guides Startups and Policy Makers on Ethical AI Practices",
       "excerpt": "NEW YORK, NY / ACCESSWIRE / March 8, 2022 / Amina Alsherif founded the nonprofit Data Ethics Consortium for Security (DECS) to respond to a growing",
@@ -1340,101 +1444,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-26-how-ai-is-shaping-the-cybersecurity-arms-race.md",
-      "title": "How AI is shaping the cybersecurity arms race",
-      "excerpt": "The average business receives 10,000 alerts every day from the various software tools it uses to monitor for intruders, malware and other threats. Cybersecurity staff often find",
-      "sourceUrl": null,
-      "webUrl": "https://www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/",
-      "originalUrl": "https://www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.krqe.com/wp-content/uploads/sites/12/2022/02/AdobeStock_136095668.jpeg?w=1280",
-          "width": 1280,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/amp/",
-      "cdnAmpWebUrl": "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/technology/how-ai-is-shaping-the-cybersecurity-arms-race/amp/",
-      "publishedDateTime": "2022-02-26T07:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRQE",
-        "domain": "krqe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership.md",
-      "title": "The Strategic Building Blocks Of Ethical AI: Representation, Governance And Leadership",
-      "excerpt": "Consider three fundamental strategies needed to achieve fairness in AI development and use: executive leader readiness, representation of women and people of color and stakeholder governance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/amp/",
-      "publishedDateTime": "2022-02-25T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI Ethics"
       ]

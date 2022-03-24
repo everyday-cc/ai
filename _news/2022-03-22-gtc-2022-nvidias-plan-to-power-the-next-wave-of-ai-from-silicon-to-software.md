@@ -204,6 +204,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "NVIDIA is turning data centers into 'AI factories' with Hopper GPU"
+    excerpt: "NVIDIA's next-gen Hopper GPU architecture is bringing the AI and Omniverse together, turning data centers into 'AI factories'."
+    publishedDateTime: 2022-03-22T17:20:00Z
+    webUrl: "https://www.tweaktown.com/news/85205/nvidia-is-turning-data-centers-into-ai-factories-with-hopper-gpu/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
   - title: "NVIDIA's new Grace CPU Superchip: 144-core CPU, 600GB of GPU memory"
     excerpt: "NVIDIA's new Grace CPU design unveiled with two new Superchip platforms: 144-core ARM-based Neoverse CPU, and huge 600GB of VRAM."
     publishedDateTime: 2022-03-23T23:30:00Z
@@ -213,6 +222,15 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 34
+  - title: "Inspur Information AI Servers to Fully Support the Newly Announced NVIDIA H100 Tensor Core GPU"
+    excerpt: "AI speed and performance continues to accelerate with the introduction of faster NVIDIA GPUs and more efficient resource scheduling Inspur Information, a leading IT infrastructure provider, announced its AI servers fully support the new NVIDIA H100 Tensor Core GPU in four- and eight-way configurations."
+    publishedDateTime: 2022-03-22T12:05:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220322005533/inspur-information-ai-servers-to-fully-support-the-newly-announced-nvidia-h100-tensor-core-gpu"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 22
 
 secured: "m81DUreeuYMuoHHqMdCCIgm+zyQA+TEpEYjGwA1FFMdOfWDQBQ+hQsUJ+eJLxyhTNmN8/Yff3TRDV4pDZhBPe0596tKQtNvptMqcWaWJKU16Qgzqjh6BF7B4BQbKdSX7DzeFNoLN85NGSmrJmLtj9oIRwWTrxXFBDFenX/hn2whgoEqxTOWlqMkchoyLdXOPL1SzRlEf2HID3A+rpniJtIrwVue2ce7usMhD36GoCi4ONiaLKdXL4HA4TluH2qX/inKuUwCu2iBxHdAmN3Z1iytVWlzVijB6UEncCv7Q92SH8l5Db/STGnCxpVrv8EAtK1KqO33Tyk1FoailNav/lOT3IXfuzz/fh+h4xXRhyQU=;90dU5gP8PYKizXRCRACrRw=="
 ---

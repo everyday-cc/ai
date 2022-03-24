@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Techforce.ai Raises $1.5 Million Seed Funding"
-excerpt: "To digitally enable knowledge workers with just-in-time AI and Automation \"We believe the future of work will be driven by higher cognitive ... has partnerships with Microsoft, IBM, Oracle ..."
-publishedDateTime: 2022-03-15T05:53:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html"
+excerpt: "Headquartered in Reston, VA, USA, Techforce.ai is a digital enablement company – with a vision to amplify human potential at work. It's no/low code, open and cloud-native intelligent automation technology is enabling subject matter experts to create,"
+publishedDateTime: 2022-03-15T05:24:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 338
     isCached: true
 
-secured: "sWPgVUnRtkWkjHwHdmkRNTYp1Tb38NiRSTuGOrHIN8tyiTuaehUunHMeFwggiD4YJBFwospzOqGZHYf16Cm7dJ/qxDwz0++tLdpuKUYxHGz7y2Wgm7JuBkHMYxiINl3RkqASCODbt81HatsU5KC1w6x2ZesuG+CtypvziyJkUFi+fqQYLDoDTzewXS58CXGKZuaPWDHVwG7LEw3FTifS7R4uZyl3rwfyoH9qbaG9jS1IdnBTkL13qNBQC+Tybi9mP5+qWQuziDpDrl72Evaz1XBwR9bc1s9lgKnZhkNRAGoq5dsPz8P6AyRasCQz+25vvKm7+bkKShW7lFhVlOPGmbwcDkOfDU/WjNZenHkQeEA=;XWiTtEODwWdiCCY3ZZceLg=="
+secured: "hD2nWyWySThJz1Uvm5iikXqK5N9bv0CP4GbYVTWqnnoqfiF+9zbzKd1XR3tggPRNPolmPQHb85P5iJlYTr3aUn6rUtSeZCSVBbiGYoo7GrZKk3tTh/MejRHs/teVmidgbn8h2KnfPbIl8e2nIPDB6Mk4tgMIrgKZ7WypXLfVC+9y69saCjU2xUzwwocpsK588bf7f6ps2QdEac9Eg9qTBduKHwOCDXncUlr/oOZIOfoj+DYY3ESPi09Ro6FZbBNsH/1/+RZOH6yNMiI1WF3W0Hlnd9PvzU95iJ3HQomvpn7OeA+D2Yj2KloGnmgq1Q+JU5TL6UdE2gJBl97uDQscvvGJON0I0GHUY1lQhJWddNU=;3fwoz/QnTRbHfBBsbsVXgQ=="
 ---
 

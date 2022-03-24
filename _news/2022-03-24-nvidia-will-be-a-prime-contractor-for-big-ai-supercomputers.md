@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia Unveils AI Chips and Software, Plus Tools for Creating Virtual Worlds"
+    excerpt: "The chip maker is expanding its focus on artificial-intelligence technlogy, which CEO Jensen Huang says will revolutionize every industry."
+    publishedDateTime: 2022-03-22T23:15:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-price-investor-day-51647905360"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-price-investor-day-51647905360"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-price-investor-day-51647905360"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 71
+    images:
+      - url: "https://images.barrons.com/im-508965/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Nvidia bridges real and virtual in the Omniverse with AI"
     excerpt: "Kicking off NVIDIA’s GTC conference this week, founder and CEO Jensen Huang highlighted a slew of transformative updates featuring NVIDIA artificial"
     publishedDateTime: 2022-03-23T07:56:00Z
@@ -60,6 +76,6 @@ related:
         height: 210
         isCached: true
 
-secured: "f25Ci2Z7z/DnyeljJ1j45FHwHwTz6PudgSezIXgmZF2UKW5T2EY36WNJ2/FIS2V8taV07dav9mICLbRJJhNTc2NV4rTiVlvkZTZUGImVqQvqSNhAADJNjF1N/4SQM9nj1dvTDU2SpCTEueioznVXgrg5CRWsUaZbTBgI34Ox+GwbCIQClMSBT2RWNFzbxmIQ2ED23Iuvjt1e/g9odb6ou7GQHPpBD2u9HZpTB1+jjB/CS6Ozz+FhDccR7NuMdCSrtob7Z/T5hd8CPUUj1nUU0zwYly0WqdcRUjlIOh4kPTVbzxKa6JXG5CPKfN2Qzcz5Whtn9pEP4gnSaYMOXVFruAuEeSw+p5IJMZ+78LaWzto=;B1dzB9wb3F6z2fijXUl+Cw=="
+secured: "aSZb+e7s6Vdn6wxOA6u2zjULClfnxUTEUNAK0SPceng6PP9L5bVrIVGTuF8udOUnPEAmxk7/TTDNMFb46qUXehxdqe1NCiF12RMXDL0tJlvtak/R6wzDlJMz//8rpaEtcrg1QzuwUx7WEYFZFvfLxTm031g3q4IUWtTQ4GQ+53aWZ9/gsjY5FnclP2mkRmS8Nz6EeAquRZaOaoIu3hKqDNUhqcuEyRZXQ4gJTu5iR2u2Ut07BmSZxIm570V+MwdfqMUVHlfmFUBKhb4efsbJ2KNo1hghrOs7/A4TDtzYT4yRB9r1R+StRBJ6U+Q748CjUDtAiuT21nUFqFxAgEA9kEaQKggFp7pLUDD4D06yhNuyDxsjUfapqvJdPQ7saP3C+3KM0JLM5ewBZPUdipM8ARyEZ8gEdLIDSBbhi9rJadg3lVSxm4cFsOlT3orchuCCFQT703NNL0eA7nDqLmXLM+YUGsR0gwXePFvco+hZX3pxqj/8PeYx+wdsU/QT2Wu0Grd8qfnz2lmLKqpvckqYCg==;WbYYrhGIBNmYQhq4no4d7Q=="
 ---
 
