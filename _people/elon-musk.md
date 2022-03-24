@@ -8,7 +8,7 @@ heat: 778
 twitter:
   username: elonmusk
   url: https://twitter.com/elonmusk
-  followers: 77199923
+  followers: 78910173
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Elon_Musk
@@ -18,12 +18,12 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1489375145684873217/3VYnFrzx_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1503591435324563456/foUrqiEw_400x400.jpg
     width: 400
     height: 400
     isCached: true
     title: "Elon Musk"
 
-secured: "A76qUFMG2CGWDT9jWDqu9J9XGvcTIKtiD6Sm/2rNbG67+iaHv9uPRvouaAGEcXau+cGujDoHw2yUAKm3XbpKofR5YDx0KrqxNpSLbZavwshjlu5d4cnOdTFn1G7E4GiuJw1nImjMzs20hDSfrl51QJAauV+yfaAyUb8gQceyEvo8jW6/dF9mEkcT6lNJOcXUuZmIvliIfODxzj/Dja3uyL5gQFj7ohBDiOYHV/iwZIuzVEuroISt3BBuOfWlm6NoHU3FlaYXo6HbNHRffYvaJ1+aD1kl6klyr69w62PMu6mGm6hFAA0/qXkQAxnd4eWQ80LHoWBDos+x4OW6jRFiQUR8l0B3BZPDn551PyhIoOtbJTrWORMbtb09jOOwq1AzOUpRHy/2oxPL7jCZXDcFacAfgpe76ubOS0C9CKpy7KI=;UX252sxKxuk4NcsJ9+qKXg=="
+secured: "yFHLmr2pdwoOnTxc+H9y5cOv8iKbcWo4zrYCSa/Z+UuZLlc7SyFj4C/NvgYTDAlQ8ZIO4cht8W5S6yVunpytPYTBWskdF9IvVia7z6D6aQtAI/4sd4IrJvlpFw6iWwd+SiS43Rx6nzJmdeYCHtAzXXBrEFLHaprFmw/c4ZUnc/a1alt3JC5eYwPoO5H6ghYtFQBNd5PUA+TrgdzVW7Ex5ze35cbucGdqpfVdD3G9X2qT1GeUcGKo4SaP+Ayh5MA2pmH9K4FQHGXTPHH98Klh+3Ef+3RfcAuXFVOfZtbJ8pLTVJbT/nSWN3AUSHSp6cuDx0wKqAmBTmqWPlw91dt0oH01HPZ9Q7mZq9cts12O/cTOcaAEKlHTQa42ZAJjttOA9NoF6sj6MXDd2yCjWK/4m+8U//4A/jDGpnWhF7zFjZg=;p9vVN1MD7YD31+atEN+Svg=="
 ---
 

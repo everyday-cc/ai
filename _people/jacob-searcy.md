@@ -3,7 +3,7 @@ name: "Jacob Searcy"
 bio: "Jake Searcy joined UO's Data Science Initiative from Michigan where he worked for Ford Motor Company, developing novel AI methods in their Global Data Insight and Analytics department. He began his data science career as a University of Michigan particle physicist, building data pipelines and applying machine learning techniques to the vast datasets produced at CERN's Large Hadron Collider. He currently collaborates with researchers across campus to implement AI solutions for emerging research problems and is the Associate Director of AI for UO's Research Advanced Computing Services. Searcy received his PhD from the University of Oregon in 2012."
 location: Eugene, OR
 type: "profile"
-heat: 50
+heat: 51
 
 affiliation:
   name: uoregon.edu
@@ -14,14 +14,14 @@ website: https://datascience.uoregon.edu/jake-searcy
 twitter:
   username: jakesearcy
   url: https://twitter.com/jakesearcy
-  followers: 82
+  followers: 84
 
 linkedin:
   url: https://www.linkedin.com/in/jacob-searcy-28819b51/
 
 googleScholar:
   url: https://scholar.google.com/citations?user=Bgzrdc8AAAAJ
-  citations: 164398
+  citations: 166570
 
 topics:
   - AI
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Jacob Searcy"
 
-secured: "dk7gEBQKNrH4XwNzN/KIxau8J0HEWdNrGh9OqXE9gXcPYgfX2g7QKpu2dubnKdNAopiSxD2Dn3yAo7AQGct0zVcoC/yLoHWrWL83xXGhK+y6t50vTnMQozapT9ABVMNephGtjYipDyFLaW1mhkh/YgT307189UNE5UIsiEc2Ljb6TKuLxNJVKbuJVYHLGrJmQjFCUk1hrcIIlawjy6DrUE+EU+nPFzE9sAIopW8LR4t2AavM6MdVv4jZGEwM0acPRY/fItvWkTT2rotXUbUhBYCsGar2hGrzozVkbFrFIh5Uj7dFiNyDL3Grrot4DdSFpD8A7xKmYen9rlFTkCK8TjGTa62tVtrEHAkT0+7tgVxTe5j0w3J6pluuXolJLHRUnuKf1dj7JTKxfeRbNZDvpw==;ylrovA0IU9q9Ok6j/3mpow=="
+secured: "MxFs97pUEaqdaw5OmmY7NVtgOteY+fhcXIIi3SCBvM6P7s7KYQdFw62gpiExwXN75bgZcf3oqqUy0gG+w//StTaCGpZjYlbQDpHzjZjf4Npa9w0LOs3EBkGl9wMg9iEWb1gxHWQGCnRzbiN2emiT+nX23srHp+ZBgAqnWxmnt72y5mQMq1gIrlf2jlU7sqOZmrIWuOUEP/9GcxSEBexe+TVFQxVzh/y84EH4WHVCoQH6PX7x8ZMcG9E1BHHYTJD2GRHeEmdjKQzHPCoqGfMe7QZaWbf5r5QloRZbOmpJLUQ6LW5EmcOJ+NljugIE+wPcXTDLXoxJxlQQ9zXxbxppUwzBekIDp/B/IccVCu1gU/nolSwMB6zc8BLgR7I8wWtF4C3DEqGa6lZVhjiseeGS8g==;qwfBL6uDto2OX/OAnDm45A=="
 ---
 

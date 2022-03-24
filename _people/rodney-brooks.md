@@ -14,14 +14,14 @@ website: https://rodneybrooks.com/
 twitter:
   username: rodneyabrooks
   url: https://twitter.com/rodneyabrooks
-  followers: 25315
+  followers: 25321
 
 linkedin:
   url: https://www.linkedin.com/in/rodney-brooks-1a137517/
 
 googleScholar:
   url: https://scholar.google.ca/citations?user=BCGgwlEAAAAJ
-  citations: 50473
+  citations: 50540
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Rodney_Brooks
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Rodney Brooks"
 
-secured: "B6EPkCDEjnZ/sE8rB6AeVH7lQLd6tEKWC4zE9+7hqjSfcy7LVyNmZI9Qj/DxkOzhPCfI8H3ghUVusbcs/JWMlY5uVrNkm/udEOC6x55E2pQkYCdWQ3A7SuC96sRhnFRLdiDrc/+V8uzvY8buf9pn9wajDnKb04ZDqdEMy6PL6DK9tmoOTtBQStgefQRWMLCtOD3+4A+CWoa8md/DqGcQOPK9s1DLP0QJFGmXCJfD40BUe1cviItZaeiSdatmhVKbvXW/zwgQ5OrPflgATYQs4t5/Ht6HjtGF+r3kbInx+dPaSJMPVOX08N0eZyPDlQBdylbRA468DWdkIGJUXtY8UQb7onCNOayb+MmbAeAUlr+zTHgo+3Z8gpkk4BC4818XcRU8E5iO93Ng9L4pgLTSBl2VP1e5dr9W1tsu+xhRj1U=;6uN4q3LR1xwxxGvoJ/HkYw=="
+secured: "Wiyc5/ScFWfp5szllNFSqHZSZGDoecgZJtrwmqj1/nADrrDRndaZ6Z3BNreQD+wtlO/IPuBAViJ6mZv/7XwJ0A3+bO1vApgSmJmWAy1HUzRYl7dFhvJPEUp7u4IMVoPC1+oBcshDnEo8eOX+U61IAB8mxLty9pWWJOQqcaaMtgGgjfWntDm627Ei/kJsMxicIPhYqbgIdbHfZXy2x81mPrkxmAj1yvtMzIjlCbdQpeF+1WWYHOCb9PJEmJGcr7pZGckklNE8M/QmQZVcPcETsinniaZ8GaA6tZpUw2sQJaMMuXA0tXLCVCm9q0BT2M/5igfbcD8iKVAc04kp0PNpsBNnnhnYrAX0LaH4Vyc599y/WGeauC7Oa4tAYy0eqNpKGRk+rbixw7xVVz20OHgCjLaapa1/s6AviG4C6lmGXaQ=;uRQRtAnkHo93x2nFfV3N+g=="
 ---
 

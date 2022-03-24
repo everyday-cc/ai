@@ -11,11 +11,11 @@ affiliation:
 twitter:
   username: DBonacorsi
   url: https://twitter.com/DBonacorsi
-  followers: 730
+  followers: 729
 
 googleScholar:
   url: https://scholar.google.com/citations?user=7_xEzmUAAAAJ
-  citations: 182653
+  citations: 184730
 
 topics:
   - AI
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Daniele Bonacorsi"
 
-secured: "JFTDrBnH7+ykXtfQDAJHshD8Ps+BSwmGorekWzmuMZ8Kxkq+Vow6aRIbAhPWeSTCRwPErVwLSGoE6Z+UW6PQ0mzV9Aqia4GkPAUIKT1KtYo+7QKafU4jhQAhiWvQIbBx48HYxWDFHvXQ/n00A/qR0Iq0MlGzMcatwa1WCnbGHTq9gICW80pcGxy+3+a8DbwVIi71alNOExav6MdBzoy5qTpK1T7eH8Rqjg2ickqJjaT+HpWzaU8N0clmU8I0a1RYd8hqJCmf70gjxHRzInW8magVfVOZlHW+A74qgY3NMrzZbq42/NV31UMOwIkxyPMuQF8bq7Oel03ECBkanSjHz9U6nn6jbqBoO//+K9VT94F3zs4bi51l1smO/nq2yw9gNGA+xk2uKiM64EFlkxJOnadjp14nm5f7ROOcrB6a/5Q=;F1048c29DKmpMa/F+cTQrw=="
+secured: "E9LdlXDY+eRO74yCt/QzgnfeivWbhdAJA8tXDx8xSQKzopd8Qfl0G0aYCvKdOe2E3pGotKFOMOKTfpNxUDOHMtVh/bqAK+ClUd3u5K0LWd2z12H0HVy2XBWciowiD6p/dR8GiNP5dU2iogJu7rAjWFLwqnS0tI5tm/iJvssMsFj0C1ZxByP9VXnY6RsLH5jjedj5rKnuoNIrIgp82SvnAppHe18iEkoIay5pAKUIAx5D9Vi3zeYRsK0hO803tcrs6/T9/FvGLqckLwQbuJgMqt1RoFj6vHl1P6JpjQ5Xs+GcRFo4gj65tf9bi4Zu56GpfahPPHCYEmmmUG+B+v5mLyhi7Eo0xjTtnQ7oG5GHwEGzZJkIYcNq4HJ4G2KlrZsV2UvFGn2oS3o0/sJvkH3TU4m27IU92DrUIkxXsrzx1zM=;3fioHXFUmfuAmsbactniYQ=="
 ---
 
