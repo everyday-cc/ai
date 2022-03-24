@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nvidias-new-chips-power-ai-auto
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/Kroger%20Nvidia%20AI%20lab%20partnership.jpeg"
         width: 770
         height: 400
+        isCached: true
+  - title: "THE METAVERSE COURTROOM: Using Virtual Reality, Artificial Intelligence and Sensory Devices to Find Justice"
+    excerpt: "It’s 2030 and the new handheld Techsung Global Device 50 (“TGD50”) phone, tablet and laptop battery has a run time of six months between charges. It offers incredible technology except for one thing,"
+    publishedDateTime: 2022-03-24T14:41:00Z
+    webUrl: "https://www.linkedin.com/pulse/metaverse-courtroom-using-virtual-reality-artificial-sensory-jackson"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 19
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGTHhSmb45QPQ/article-cover_image-shrink_720_1280/0/1647358378968?e=1653523200&v=beta&t=AgvD4S0nxDMgeE9ROF0N4qgFG3YpYOmOunBFLjIxfD4"
+        width: 720
+        height: 720
         isCached: true
 
 secured: "8h7jAOoGiB8T5flpncAyJlcB8D20Pmoaa2N0Da/6yh+TAdFmg1xKcE3+KohmnxCLodLkbFXwRzHC8TvQEaHDnS7uVL+cCVzYo/RbSn1TekQ7zRzW0Df/18E9LHwXla91lp7csOYh1NNOfWu76ktAiJYgd/BZ6EE1OMay8obeG3KymEfcpMx36CAA44OVVcS3MQdaViOjNzXXkTuDX6J5F/p0nwzMd1xmkSEo3nvvzvlhKkRnyBtUgXXVA+FCWA0N7e69+KiCVdZg5QVyyJBlhxhZm4wZzZrn+xLJdqMPdbUFPiqAffgaDrDVwVrxnOG+1gtT9Zl8Q7Si/iP5yxfU7ezX1ef5C64xC0qH5t3nYNY=;+wTLrwfsBfpYdIFf8PWaHw=="

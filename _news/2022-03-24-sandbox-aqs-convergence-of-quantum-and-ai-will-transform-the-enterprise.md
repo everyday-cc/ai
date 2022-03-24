@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/23/quantum-tech-and-ai-company-sandb
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/23/quantum-tech-and-ai-company-sandbox-aq-emerges-from-alphabet/amp/"
 type: article
 quality: 86
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Growing Interdependence of Artificial Intelligence and Big Data"
-    excerpt: "Artificial intelligence (AI) and big data are disrupting various sectors during the covid-19 pandemic. The combination of AI and big data is the perfect union for innovation to flourish, driving businesses and giving them a competitive edge over their peers."
-    publishedDateTime: 2022-03-22T21:09:00Z
-    webUrl: "https://www.bbntimes.com/science/the-growing-interdependence-of-artificial-intelligence-and-big-data"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Artificial_Intelligence_and_Big_Data.jpeg"
-        width: 1400
-        height: 702
-        isCached: true
   - title: "Breyer Capital Backs Quantum AI Startup, Sandbox AQ"
     excerpt: "Hidary, the inspiration for Sandbox AQ and some of its team began at Alphabet Inc. (NASDAQ: GOOG) in 2016. In 202"
     publishedDateTime: 2022-03-22T14:03:00Z

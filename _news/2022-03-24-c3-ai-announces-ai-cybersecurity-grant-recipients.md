@@ -33,7 +33,7 @@ related:
     provider:
       name: 아크로팬
       domain: acrofan.com
-    quality: 8
+    quality: 10
     images:
       - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
         width: 580

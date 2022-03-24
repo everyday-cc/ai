@@ -39,15 +39,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "FMG Suite Named \"Best Overall FinTech Mobile App\" in 2022 FinTech Breakthrough Awards Program"
-    excerpt: "Prestigious International Awards Recognize Outstanding Financial Technology Products And CompaniesSAN DIEGO, March 22, 2022 /PRNewswire/ -- FMG"
-    publishedDateTime: 2022-03-22T13:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program-1031298260"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
 
 secured: "TGzBB5iHMYa5xNDfydrEVdvleArl0uW+BUuowWUQV1zKkH6+b+5sIJQAIEo7AM9ls1SKqZsdF+ymk6sW/OYJdYaFi3zjvzi3NX7gN3N8A8UxSIQvDp6nPUMqVbPdelFlw1M08rxMm2wMjtHYSxaBXCQVQXo1hlwi7I2/PX7EGp1QnmekNLgntecdS3NpBs/UpgoIVFs7Wd7MHvwGzCfkNzYhxBkBRvMX2LRou9lTX/+x2UtXsoxf6IIghzuFSjk8BPGUqs0FJ8Lq2cymQHdOMa9ZwXYsKSK+RgKWBT0L0U4cYkm43F+maUWJbQNURu9sX0g81ZKO8tgg9nZyQhMe/pmb2Jl4GjbWOV4dwW9opHWb2vffc5vcbdOC2+UaPit7e/aICeNrN0Ganbs6s/W4ZoM2lz62Bx8RGnzVYwnUYFmIhfxTxRmzDxi2q5j3QDzy1UM1hwgSPdtxNknkYtLzmJ81cfjVWdST10tWnFVpRGQKVTVKKg1gCaGHTc/Vjp3CmImi1zaffSyK+ikzfaEedA==;6WfQt9IZV7WbXs2T72PNYQ=="
 ---

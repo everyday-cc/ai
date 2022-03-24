@@ -146,6 +146,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Qlik's Elif Tutuk Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Elif Tutuk, Vice President of Innovation and Design at Qlik®, was named a winner in its Artificial Intelligence Excellence Awards program . Her work leads the charge to blend AI into analytics to further the AI/human interaction with data while striving to eliminate bias,"
+    publishedDateTime: 2022-03-24T15:43:00Z
+    webUrl: "https://menafn.com/1103906785/Qliks-Elif-Tutuk-Named-Winner-in-2022-Artificial-Intelligence-Excellence-Awards"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 34
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?868304"
+        width: 422
+        height: 249
+        isCached: true
 
 secured: "U/KEYTqJ+SFaeLmiFP9EfWcQIq+HhkosBEatiX8NgLPKpvaiP5fbSHntP6jgGPYR/DuV16uNbH2PpJGoTuPL8CmEE+ixE5rTj/iExJjcUAXPF8wSQnDQPaQozIkogb97AC0Js3kv64NuBxmVtv0Msdf1cghm1BKlNp6PaSgJyy9WG1dB/33CpODK0FKmHItvtr/aTr/0M77SSIFWrPIxgpAhMpfDnsJoggB2NQvkhjZu6CRK3hdVLEauMh9Gzf2UUeX6wCdPYz0VuoJr7uB/8awVCFCIdtM/YVKdD6uyABtqrvaH41wyPH+0cAmupEZ3NdkullRK1niBkjNhPAmbeN80nKTr709CHupVEuoNWHSnOFVNliiG1YEOitBvT1L6zM0eX61o6EfKCSdqKHZ4wjFuNU7bFcmxSTm2Q5UJD/uEZCIVSN6onrYCVcYDyFaauvAb/62qyOs6PBEDBPKMREGKUvZJ+hT1X7iMmQdO+X8aDuOHrOoSziH2MKTYkcWVGSNqcQv5iSLNTBJoQwv50w==;Vyx9XejTRn042kaDy/h7uQ=="
 ---

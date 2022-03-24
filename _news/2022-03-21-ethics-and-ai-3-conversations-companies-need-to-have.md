@@ -41,6 +41,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Ethics in AI: Why your organization needs a set of principles"
+    excerpt: "Artificial intelligence has evolved by leaps and bounds in recent years. Artificial intelligence can create previously unimaginable solutions."
+    publishedDateTime: 2022-03-24T10:53:00Z
+    webUrl: "https://www.linkedin.com/pulse/ethics-ai-why-your-organization-needs-set-principles-mori-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQE6UBY8aQYFqw/article-cover_image-shrink_720_1280/0/1648118849106?e=1653523200&v=beta&t=qf9Y20DAYudeAB0Ryl_fmEbEtjIjn9ZiOa1XBIPilq8"
+        width: 720
+        height: 720
+        isCached: true
 
 secured: "Z0OP6UjkNAczB+hnfel/QB4GMfYbJ324QeW5NJxMbXOQS3IOUynas7Tft4yS27+uE2fovtQ2BlZJqhrUpRUqK4JP9CD/Ck0ChLvM4MLPEYyavlVT62ACyyrv8u+PcHNLYzv6srH9vJXqy8il0TSQnsDnKjpL+d+q3wqnVG/RnEzHwK9rHr7A5V3N1+ONxIlGj1+MVFLPSnNt1GTJbA7QizhgvOb7Do2csftTY6M9mB0nJPa05lA0SCA/JQe+2MmJBo0Z/XioIPSrJWTb943r2I4rwAIrwowdgF+YR6B7A9INwIOgl1Afbpa2vfl1+GytNQeJALqQ5DienWnICYtFk3h2itZLDAsl8YYa/3QYI5TXWDPAI8nKB1e6KzdcT5Oi0+d+u78GicTsGzcj3RmtOhQNTW4ASqzdPVLgQ6U643VXyHt6LLq6D3Lhu1mrfydcw8ipCVU+PdLF3PIs46aQ2YprUDxaqt/pdpTUdfeSNefKsiZ6pWe7bKfKsJ85h9ElX8L0s/WOlHNJ6bDDUlx+Ow==;VEWsBxL4W0Dqi75KFJzp8g=="
 ---

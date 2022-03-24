@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trus
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2022/03/Mar22_21_1169037207.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Ethics in AI: Why your organization needs a set of principles"
+    excerpt: "Artificial intelligence has evolved by leaps and bounds in recent years. Artificial intelligence can create previously unimaginable solutions."
+    publishedDateTime: 2022-03-24T10:53:00Z
+    webUrl: "https://www.linkedin.com/pulse/ethics-ai-why-your-organization-needs-set-principles-mori-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQE6UBY8aQYFqw/article-cover_image-shrink_720_1280/0/1648118849106?e=1653523200&v=beta&t=qf9Y20DAYudeAB0Ryl_fmEbEtjIjn9ZiOa1XBIPilq8"
+        width: 720
+        height: 720
         isCached: true
 
 secured: "gcTqNmR8ey8WnmQdvMQ6xXwmu+RqgcDm2YRqTD2K5ab4I6Pqqk/F1+KwLINIzsHMM4Anq1EkUnqMY37DT7HDp8Aisas8t5CaJdC6vWuml7Mj0yZbThTACW9tmcOeruVkwUy8tLm8Q4hrCDvftDhaby8q9o8E5ArDaGqH2g43iX5KE8uVfxLq4N1eqflBrRzsQfVIJflWC2zwhryybo7618P430vPf7LfqB+Zni1IMjG7H3pWoBwueiHi9+tLmeNYE/641iSV9q1eopF5sf6VMrW5caJAXZFOEQ2XsgssQFdNWHaMYcGQGiWaFoBesYkT8G4pbnnByUVqLBuMJvRly6RNcxEfTMy5spNWnyXfQrwzFwvGq22DuIIrsb4xHB1JQgGh0Vc2LqPxDBUvGnoD3JTF/gQ7GKwRN5+DOFYrjLkmNewzEI9/qvzDPt+XQdULv4jDz1yfZbDBzg6KlErlqHGbfZPTklMRXZf6YafQbet76/beWvanXba8qjv73k/cd2f2rFU79kEn304fjnskaA==;c//LZBHPWXAmy/zrgqX/dA=="

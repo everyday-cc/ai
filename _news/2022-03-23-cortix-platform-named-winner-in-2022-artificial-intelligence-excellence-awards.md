@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/cortix-platform-na
 webUrl: "https://markets.businessinsider.com/news/stocks/cortix-platform-named-winner-in-2022-artificial-intelligence-excellence-awards-1031301050"
 type: article
 quality: 63
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -134,6 +134,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Qlik's Elif Tutuk Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Elif Tutuk, Vice President of Innovation and Design at Qlik®, was named a winner in its Artificial Intelligence Excellence Awards program . Her work leads the charge to blend AI into analytics to further the AI/human interaction with data while striving to eliminate bias,"
+    publishedDateTime: 2022-03-24T15:43:00Z
+    webUrl: "https://menafn.com/1103906785/Qliks-Elif-Tutuk-Named-Winner-in-2022-Artificial-Intelligence-Excellence-Awards"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 34
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?868304"
+        width: 422
+        height: 249
         isCached: true
   - title: "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,"

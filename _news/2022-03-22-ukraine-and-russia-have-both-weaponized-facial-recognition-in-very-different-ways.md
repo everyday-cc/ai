@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp"
 type: article
 quality: 100
-heat: 170
+heat: 180
 published: true
 
 provider:
@@ -136,6 +136,17 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "The Download: Ukraine claims it’s using facial recognition to identify dead Russian soldiers"
+    excerpt: "Ukraine has started using facial recognition technology to identify dead Russian soldiers, a senior government official has claimed. Mykhailo Fedorov, vice prime minister of Ukraine and minister of digital transformation,"
+    publishedDateTime: 2022-03-24T14:48:00Z
+    webUrl: "https://www.technologyreview.com/2022/03/24/1048268/the-download-ukraine-claims-its-using-facial-recognition-to-identify-dead-russian-soldiers/"
+    ampWebUrl: "https://www.technologyreview.com/2022/03/24/1048268/the-download-ukraine-claims-its-using-facial-recognition-to-identify-dead-russian-soldiers/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/03/24/1048268/the-download-ukraine-claims-its-using-facial-recognition-to-identify-dead-russian-soldiers/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 43
 
 secured: "5Qng7SpZMKfK9h+Q9fMUjvkcTOC4MVtIKXvMnIGRkfBhuidydfJD5vptYnp78UktpuM7CoFhPFAh4hhK0oUDJ9YB0iKc6yC6Gvw+gzzi7QVx5ps7YmMJNffHA5eb+RiOgPPSNXKjXaEO9O41ifd1/YhGMsbAG8Z3j78MFYxVcLoBcuS5WW5G6xsArc3LzDI+9OoCG9X/Zgdq54UqE/FQH3KMZfvGZtW8pSrAEhT9dJeWFR7LSRopsTdEWH+MqKUPnxwM1qhLJx/cdEP7hz+mzmR7WNblR0aTpQSADRcJxW4CnhXinogTSpjkUBTxQIFnDAxCSy/moqhGdBzWEoR1Bb9Smu6SsQId4nyw1gSAuJqWibwg7jDYJdsWGbx7FjL1wCAsEBmMP5uaKfUupM3Vn9/qZfobBZcq1EoUeT3lJkhmiucYI8bnRKnUuILBsoXf2Fb5Jh3KQ4uVIoFW2z4My6jXwWUUPykboMNkjJdQ40BVdnHWHTsGgsbh0FSxRTPR1MPDwSsWJzd+c1fZ1CEEFA==;l5pSSsPvcWocS1RFCuJIhw=="
 ---

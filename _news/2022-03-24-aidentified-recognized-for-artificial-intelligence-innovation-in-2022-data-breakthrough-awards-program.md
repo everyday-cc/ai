@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/aidentified-recogn
 webUrl: "https://markets.businessinsider.com/news/stocks/aidentified-recognized-for-artificial-intelligence-innovation-in-2022-data-breakthrough-awards-program-1031305163"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "FMG Suite Named \"Best Overall FinTech Mobile App\" in 2022 FinTech Breakthrough Awards Program"
-    excerpt: "Prestigious International Awards Recognize Outstanding Financial Technology Products And CompaniesSAN DIEGO, March 22, 2022 /PRNewswire/ -- FMG"
-    publishedDateTime: 2022-03-22T13:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program-1031298260"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
   - title: "Nucleus Commercial Finance Wins \"Business Lending Innovation Award\" in 2022 FinTech Breakthrough Awards Program"
     excerpt: "FinTech Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in the global FinTech market, today announced that"
     publishedDateTime: 2022-03-22T12:00:00Z
@@ -52,6 +43,6 @@ related:
         height: 338
         isCached: true
 
-secured: "WBNTLxZ8/F5rN8gMtMSf2TtvR1xhZP//JDjb9D+XKXVzexj68WCjbdxtZhwQDQDBl9aOY9iXDw3WB9+teQPh+8gSfdMTZ9HGMOMfhQ8stbVFLLD/5AxMrOh76u0gN3uJ+LRIQDSkysVKVPy/S3FUdi46tUh7vmIJRWi7GEzz0bYYScJVtlAX2K007qzZvR3npG6UuJtKz7MZWev8vyppT5cn7TDixlNyoSdmZcKdLOratGrlmz0ouUpX2jbUs/mVId/w9e3eS2Vbw9n8vLP+RdBiWJ0gQeR4YcopfZb2zkzWlHpWF1dNYstp8rSCBY1tzb3qnz/E7BujuvjCiBG5jbWlog1BWXlm7gQLL4bbZZo=;GTIBSZQeeURPqRdw/59RQQ=="
+secured: "FHtBUEGy0m41RKgRt6Hu1rrVTtsWYe3xq3tLkbEqhOrNWlOGZaiSGam7w9pP0bb7x2C+cBBbW7SP3Sw9GGbM295YXfMXCy1x9fBVF/rYqaAjRd2WNIK0OOhfASONRLtgnRNHArbVLv/jtgEYSLD5rSgreOXqbTGzCQAI/evbeWPg8TbUmPFOC3T/glujLfgk7fTXT6BgUi0z829cY/nQ4GquHy+BCXEHF18xPcqEPNsfCg8/BoRJWl1HYySw3baLWxjeoBBE5DwKmD95NfEm0wxhesrSoYcdCyoPYzUMmOi7M5GLqdJ7S2IDElZQu7uxlGd/oZtgU73AaIETrFrjRrzB/D40H5SCJTnvQwEUhJiDN+AsZBUftXXkcFJR6SEGm71/sUVVy0ftM+ain1ayC6C/g/yRhSQFQ9QzQ6J1sflP84m5KqSve2JnMdx24rLpI4LbbfEE/lNHQe3RzRiRQuu6vg0X4Ou/wa/PV4y83AQLRM92Nora3qcltVHIIXLuSAdcubGunOos4khlq3pwnw==;cdTwF6+8JHrAUwlsYxQtZQ=="
 ---
 

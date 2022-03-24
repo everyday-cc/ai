@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-24T13:00:00Z
 originalUrl: "https://us.acrofan.com/detail.php?number=636406"
 webUrl: "https://us.acrofan.com/detail.php?number=636406"
 type: article
-quality: 8
+quality: 10
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
@@ -37,6 +38,6 @@ related:
       domain: venturebeat.com
     quality: 69
 
-secured: "mdLgQ3FP2ZzpDHbxZnDkHs84glnfNLlGj4AF05n73QoMQYTfSocknHYNzDIJv29HGx9C0ym2qvyvqUUjljW/1461NBGaxzdWN7ujTU3oIM49gcxhWmHkz8XQ8oLmE76j5mjRxJXU2y/ZvrJqyE1wcLeVUQ+iSMPnbsd2fkm/ELdECWi9olfH5ONXcna3lgVk2N3PUOaMrGqifyYufZpiknkw2yB3yiORcPLgS4MdEEfRazxiHOt24ODFhAliyfk2kSNGUSE6ux07bCyZ/sHPZO6pG+pbWoT5NYi6GP6vtwMqcKt8kDrd4wVpwM+4WvuNSiVtY9xEeM+nDoHO248xxjU6t69k6U7LjuRma33kSsk=;W0qdL99Vh1J6r+B+zQJW0Q=="
+secured: "oqkIY3di0JbyJYqI/DB0fKBLVROhB7gHIlHH0R1ezODzdk5waL6RLatgi1kwCLZwlBDeiWyP104KEnsRsFvwQKOjqmj7pCLfGL6qOFxqDlmJVdz+ZILlabscp/s54xEPlNdG0j+7+BMv6G6VDs/vJkGGuh1NzFj0MiOzuZb9gA7OdPqgLUQp9I8uB0OezggLXuZllkTt/E2PeMFraVtjQBIb98nThxQhTTLPPXVZjSeah+TgI+7nzxZMF/2NFxj37Z8UeYru/nthFDlOBsg8ICV0/FSQpE/kLvKBhf9vKHuU+e0/9S6quvYAsEqFGXYLS8hQYks+7Uk1fUIBbaR6DvZnkU94YeMs6X7VyZ2sPX0QYHbngBoF6yztMB1ro2vjJjj7+5N1TjHx04nf1M1Djb2ggsEFuvM0oLLaH+FnBy5K2KZsUxDiHueT8NcifIjedI4+bgaX42ny+eQKa7iuV/YLasxjMJCcXgB6WoXhIBewRJB1FQkJqgobgDqIFE7qnghyfMOkKnjL+1ZzipJWaQ==;mLXFdKdGRjhz8dsvgj2Tnw=="
 ---
 

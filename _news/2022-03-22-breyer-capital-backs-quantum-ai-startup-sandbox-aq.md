@@ -40,20 +40,6 @@ related:
         width: 1038
         height: 690
         isCached: true
-  - title: "The Growing Interdependence of Artificial Intelligence and Big Data"
-    excerpt: "Artificial intelligence (AI) and big data are disrupting various sectors during the covid-19 pandemic. The combination of AI and big data is the perfect union for innovation to flourish, driving businesses and giving them a competitive edge over their peers."
-    publishedDateTime: 2022-03-22T21:09:00Z
-    webUrl: "https://www.bbntimes.com/science/the-growing-interdependence-of-artificial-intelligence-and-big-data"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Artificial_Intelligence_and_Big_Data.jpeg"
-        width: 1400
-        height: 702
-        isCached: true
   - title: "Alphabet Spinoff: AI and Quantum Startup Sandbox Launches"
     excerpt: "Palo Alto, CA, March 22, 2022 – Sandbox AQ, an enterprise SaaS company delivering solutions that leverage quantum tech and AI, officially launched today and announced its investors, board chair, partners,"
     publishedDateTime: 2022-03-23T14:52:00Z

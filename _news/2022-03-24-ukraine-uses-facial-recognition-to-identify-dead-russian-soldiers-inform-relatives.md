@@ -131,6 +131,17 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "The Download: Ukraine claims it’s using facial recognition to identify dead Russian soldiers"
+    excerpt: "Ukraine has started using facial recognition technology to identify dead Russian soldiers, a senior government official has claimed. Mykhailo Fedorov, vice prime minister of Ukraine and minister of digital transformation,"
+    publishedDateTime: 2022-03-24T14:48:00Z
+    webUrl: "https://www.technologyreview.com/2022/03/24/1048268/the-download-ukraine-claims-its-using-facial-recognition-to-identify-dead-russian-soldiers/"
+    ampWebUrl: "https://www.technologyreview.com/2022/03/24/1048268/the-download-ukraine-claims-its-using-facial-recognition-to-identify-dead-russian-soldiers/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/03/24/1048268/the-download-ukraine-claims-its-using-facial-recognition-to-identify-dead-russian-soldiers/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 43
 
 secured: "G9PsFntchmVbAIJFqDeUlyasVTctrC6Lil2hKCz7f3TQ5u2/rACiVq6McoxV0stspZEvXyqMvle6ipfwjNTS01HGz6ix7EBkt8iP+F8Lu84UrPeM/1AhSfYzac3G/ISrbVV3BFVP6EdXsI3paE/PEkzEYY3dUgT6t47AEx/0109CmiqXo0yPMq1CfGu9NRryCARhDKP/aUw/wYIMWuc3JTIjX0Qkfzg7ZICtgSvUboGFnxaJQ+NZ8891hTRRrwXF63+lOJyrSBqEBMvFKzwNt6/bPCNikuugxOykawhVz11Ozdcr3S8OHmBQyENod59R/KzcKNYTuKg06UufayF0sirDXwMNz4NyS7Mle/xJ0Vs=;hqOwoPQAJ7QYroNPCAB9Wg=="
 ---
