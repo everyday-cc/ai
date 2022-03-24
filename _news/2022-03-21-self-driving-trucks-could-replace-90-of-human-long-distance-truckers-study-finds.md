@@ -7,7 +7,7 @@ originalUrl: "https://knowtechie.com/self-driving-trucks-could-replace-90-of-hum
 webUrl: "https://knowtechie.com/self-driving-trucks-could-replace-90-of-human-long-distance-truckers-study-finds/"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 400
     height: 240
     isCached: true
-
-related:
-  - title: "Self-Driving Truck Stock TuSimple Is Rising. The Company Is Looking for Partners."
-    excerpt: "Self-driving trucking-technology company TuSimple believes it can unlock value by looking for partners, and possibly selling a portion of a subsidiary. Investors appear to agree. TuSimple (ticker: TSP) announced Monday it would “explore certain transactions” for its Asia-focused business."
-    publishedDateTime: 2022-03-21T18:02:00Z
-    webUrl: "https://www.barrons.com/articles/tusimple-stock-autonomous-trucks-51647871283"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tusimple-stock-autonomous-trucks-51647871283"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tusimple-stock-autonomous-trucks-51647871283"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 39
-    images:
-      - url: "https://images.barrons.com/im-508721/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "7sszvwXnljvDny8f5KYWx1auUb0izORmLXZ0ZtWrTizEvJOqilYP5S+RMNO+PDB6xfAZOGqj1Y04T6ldR8fz2Ex5R2+eIx9W7JTkxB10PAhCaAjVge8l3DoWl0apmMeRJe3rUYZl621PTNSjEzjL3UYkCDEaxIcHaaxlsvhLwfzCjMYPi0hDJlAqv+Hl/uCnIHfmMTKh4v8haPLYS2fh2pFZBvn+48T6D0yX51r6HL13m2dSzWaB/Sbcw+SfJU+ar1O2KucfNnscrBlruPA4l+iFXshxz/AJ1QL+3TlFaL9kbnFJV9y81AEEYPb5rGPemqi1jHnlDjAj8H7wX6wU8m41Sie1u9LZPYtKjCAEvXMUlI52zyokPs7cUcCqNlHm7igUKRxYmwRd+vX/9hha8doAMgyMAHHPx93tGtveVrh6REO2q/NceJe+meWdgSm7Md/dVQLIuIZBasuMpwC9ZCSbp/AmtQHDlnxoup2AmklGNT4duWgb7ErjGZSZ7zHqlrB1it9d3qHOVxPrUgTiXg==;22ZXr5/Tc/WzBAyW723JPw=="
 ---

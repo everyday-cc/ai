@@ -103,6 +103,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Ukraine uses facial recognition to identify dead Russian soldiers"
+    excerpt: "Ukraine starts the use of facial recognition to identify unidentified Russian soldiers who are killed or captured in the war."
+    publishedDateTime: 2022-03-24T10:37:00Z
+    webUrl: "https://techstory.in/ukraine-uses-facial-recognition-to-identify-dead-russian-soldiers/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 54
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-24-at-4.10.34-PM-360x240.jpeg"
+        width: 360
+        height: 240
+        isCached: true
+  - title: "Ukraine using Clearview AI facial recognition to identify dead Russian soldiers"
+    excerpt: "Clearview AI scans the web to pair images of the same person from a database of billions of social media images and flags the connection"
+    publishedDateTime: 2022-03-24T10:44:00Z
+    webUrl: "https://www.telegraph.co.uk/world-news/2022/03/24/ukraine-using-clearview-ai-facial-recognition-identify-dead/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 50
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/world-news/2022/03/24/TELEMMGLPICT000290512701_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
+        width: 1024
+        height: 536
+        isCached: true
 
 secured: "OcHJJa13zEzSt5+uQ8Nixm9RBJKZJyng9WkYIs/uOQ8nLn8kH6n8BwdlQszcTyl8LiR2C5XtTxW6LBqd889R5Ydk0QfyqnAxqCN0WD+QeNLvMuk4BI63AlnQPt1ZrbfifZURHUrq2Lk8GLLR8GiRjorWz9oelttHwpkOqq4Kf6K9Ay/4fn4d1tOOnkHJ4VRXsFuyNmNSy57MiaoDj+4d5Jlzq80Acf/gtzedt11BxfaDypA/9oV8xLD2ZSk/QxLFZxchYjCT2B+Dp1RJPvdxvskZSLPk0gsNOK+cUyHSPtjtPRgPvU8ijjeLnk+T/3PzbU64ZHRaYcF/41QaJbj9wwPaPUFsJnwKbKNlDxIffXqDk59y56NWkcBUyTxLrf5HaC6qJ70wyiZoH2EnySuc+jbTn7RmER24vHhodhzXls4jjXqqgb31OIn0mP34MLOxWS8c0Eh/2ftmDQM2a5VHlHpNbjpLYBHe3LN6gr3Je/oXpcPbDT+b0fjoHsDCskZspxGpF5b9+bXwXm3o8mxMAQ==;90No6wbporHyXBwZi9+f/Q=="
 ---

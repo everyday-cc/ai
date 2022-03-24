@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp"
 type: article
 quality: 100
-heat: 150
+heat: 170
 published: true
 
 provider:
@@ -107,6 +107,34 @@ related:
       - url: "https://www.codastory.com/wp-content/uploads/2021/06/Call_for_global_ban_on_biometric_technologies.jpeg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Ukraine uses facial recognition to identify dead Russian soldiers"
+    excerpt: "Ukraine starts the use of facial recognition to identify unidentified Russian soldiers who are killed or captured in the war."
+    publishedDateTime: 2022-03-24T10:37:00Z
+    webUrl: "https://techstory.in/ukraine-uses-facial-recognition-to-identify-dead-russian-soldiers/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 54
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-24-at-4.10.34-PM-360x240.jpeg"
+        width: 360
+        height: 240
+        isCached: true
+  - title: "Ukraine using Clearview AI facial recognition to identify dead Russian soldiers"
+    excerpt: "Clearview AI scans the web to pair images of the same person from a database of billions of social media images and flags the connection"
+    publishedDateTime: 2022-03-24T10:44:00Z
+    webUrl: "https://www.telegraph.co.uk/world-news/2022/03/24/ukraine-using-clearview-ai-facial-recognition-identify-dead/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 50
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/world-news/2022/03/24/TELEMMGLPICT000290512701_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
+        width: 1024
+        height: 536
         isCached: true
 
 secured: "5Qng7SpZMKfK9h+Q9fMUjvkcTOC4MVtIKXvMnIGRkfBhuidydfJD5vptYnp78UktpuM7CoFhPFAh4hhK0oUDJ9YB0iKc6yC6Gvw+gzzi7QVx5ps7YmMJNffHA5eb+RiOgPPSNXKjXaEO9O41ifd1/YhGMsbAG8Z3j78MFYxVcLoBcuS5WW5G6xsArc3LzDI+9OoCG9X/Zgdq54UqE/FQH3KMZfvGZtW8pSrAEhT9dJeWFR7LSRopsTdEWH+MqKUPnxwM1qhLJx/cdEP7hz+mzmR7WNblR0aTpQSADRcJxW4CnhXinogTSpjkUBTxQIFnDAxCSy/moqhGdBzWEoR1Bb9Smu6SsQId4nyw1gSAuJqWibwg7jDYJdsWGbx7FjL1wCAsEBmMP5uaKfUupM3Vn9/qZfobBZcq1EoUeT3lJkhmiucYI8bnRKnUuILBsoXf2Fb5Jh3KQ4uVIoFW2z4My6jXwWUUPykboMNkjJdQ40BVdnHWHTsGgsbh0FSxRTPR1MPDwSsWJzd+c1fZ1CEEFA==;l5pSSsPvcWocS1RFCuJIhw=="

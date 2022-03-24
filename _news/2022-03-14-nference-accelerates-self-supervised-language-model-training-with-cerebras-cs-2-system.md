@@ -2,25 +2,19 @@
 category: news
 title: "nference Accelerates Self-Supervised Language Model Training with Cerebras CS-2 System"
 excerpt: "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) compute, and nference, an AI-driven health technology company, today announced a collaboration to accelerate natural language processing (NLP) for biomedical research and development by orders of magnitude with a Cerebras CS-2 system installed at the nference headquarters in Cambridge,"
-publishedDateTime: 2022-03-14T13:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-science-health-artificial-intelligence-ef5e8ac5c096420cb73f8e3812348db2"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-health-artificial-intelligence-ef5e8ac5c096420cb73f8e3812348db2"
+publishedDateTime: 2022-03-14T13:09:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-nference-accelerates-self-supervised-language-model-training-with-/2022/03/14/9562834.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-nference-accelerates-self-supervised-language-model-training-with-/2022/03/14/9562834.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Autos
+  - Natural Language Processing
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "TdtBNowCGNIX1Y0T9ocTitfWSgr38f66HypVGsGVUQm1fD5CUDony/0IZW199g73+5UEqayABIfkm1QYQ3XAbded7dHto51PMa5sDgIX6C6lEI94pAo910nh4qFw35VLrpAAE/BfSGpGB6RRhv3Ri+7k2UaN3XVvsIyzU9U3KQifuOc/yI6y/u73CB6t/a2IzrOFgswOFLEmg2SceTqE9U2K+MqmSF7+Qnb0nMHz5u4OKHAY4YPBWZXC7HtnBx++7kUXZuH5W8wwTUV6u3M6EETGwLvowu72/DtAvnuXV3S4HpBq0dU8fy9py5p5dd4Yj0gCsMGjrfHx5rgpV/Ddi/1QoAQALu6o9fuxRdFDUJs=;HwreSsDoM1dmxgOPv+juFg=="
+secured: "ojKbBaacA4+OPce4YiplSRY9xzGib5jKbpVc0oCxVDJ/CBcNZQDOwr9NJ9n2BLG8So9J7OBad9AAWposy8l2eviLzba2TIVvuR+cn14qKTJqtHKZp95FXhW/F0ni6HYVHLac+aQUSHBTECb77c3KBJ5hBP8Cmhn2OuKvKpwLqZfMorPi3taFWISOTWxcs0iTy+piAK83E/ffWtNoa7VW0Zb19sfvd+tBPUL6+kTgCBhtKkRRcfB1y+xSA/FsENbJ6d3F9C81kSJi2fGnBaRL+Ufuwd7cKXS7lo9zjn17t3iI0O889bA2VD2wRsrc5yjKOAZOSCBgIZnaFS7+Mysa9C77ys2kLBTxLPd5VmQ69Vw=;9+HHmXB0BR0Md71aU8+p9Q=="
 ---
 

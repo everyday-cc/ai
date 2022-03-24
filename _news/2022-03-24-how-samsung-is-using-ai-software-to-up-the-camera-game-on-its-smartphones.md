@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-samsung-is-using-ai-sof
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/"
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "How one of the world’s largest wind companies is using AI to capture more energy"
+    excerpt: "Future generations continued to expand on Hansen’s openness to change, evolving to building hydraulic cranes, and ultimately, in 1987, becoming Vestas Wind Systems, one of the largest wind turbine manufacturers in the world."
+    publishedDateTime: 2022-03-24T08:54:00Z
+    webUrl: "https://news.microsoft.com/europe/features/winds-of-change-how-one-of-the-worlds-largest-wind-companies-is-using-ai-to-capture-more-energy/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 34
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/93/2022/03/Vestas-wind-turbines-at-the-Macarthur-Wind-Farm-located-between-Hamilton-and-Warrnambool-in-the-state-of-Victoria-Australia.-Photo-c-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "GuoKChschNzJSz1QRm7+jHD5zzhZgwUupcZ6Q8C1anpjJzluBC0wSCNt8bkJ2ZwydwsGcBGRIRf+aar/DAbQOWVTO8nhoG2zn93vV+UXkib+Y/5LWjRNKedFXcnRII/S7uNWAKFDE5w18TxUe/hYLHAJEyzxqvQxlZEmYmpyagcHHAoXuRlGmkqomkCoSi9W6XAo5crksbtgsHTvgQK0rj7sF7CxbdE0Osj6oYfyTD3TUvtSUi/VmslngUZ5jXp/iQToVbH1eToqFiEB/SkVWCml2M7bWyiU+jPpND7bJjVL4rJ74udpyRvQSdyEe61rHJbv14VPJXy9Bqv/8xTtZ3Xy4Jh3eRg7/lIn1Qp68w14L2JvzcwOU54Ix9cRXwO/Pm8FEEirM5c2OJNdtsN6rwjMgHrNbHAFu3U0JhvcW2LADYyko4RHznGlmt/nc20VD+TqV1cxWJhjiveeuMaIYsrkyGR7S6pFuIynEEF/fPoZJ0RwKDVFZo79IIxQheffYUIxclJCbA9j8Vsf2vrh5g==;UCb7WS304sP3CjVdxYiDow=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://financialit.net/news/apis/hawk-ai-partners-weavr-deliver-c
 webUrl: "https://financialit.net/news/apis/hawk-ai-partners-weavr-deliver-contextual-risk-management-embedded-finance"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "XTM International and SYSTRAN – Delivering the Perfect Match With AI-Enhanced TM"
-    excerpt: "XTM International announces a major step forward in language technology by partnering with NMT provider SYSTRAN."
-    publishedDateTime: 2022-03-23T08:50:00Z
-    webUrl: "https://slator.com/xtm-international-systran-delivering-perfect-match-with-ai-enhanced-tm/"
+  - title: "Hawk AI and Weavr partner to deliver contextual risk management for Embedded Finance"
+    excerpt: "Hawk AI, Germany's leading software provider of anti-money laundering surveillance technology for banks, payment firms, and FinTechs,"
+    publishedDateTime: 2022-03-24T11:25:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/hawk-ai-and-weavr-partner-to-deliver-contextual-risk-management-for-embedded-finance/"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 34
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 47
     images:
-      - url: "https://slator.com/assets/2020/01/XTM-International-2019_900x600_CD.png"
-        width: 900
-        height: 600
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/Hawk-AI.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "/E8ImmBb9qSZE8V+RKzl47RRXwp59U3nKeq8f9ObAqOY2g6cUEsOdWlDpMFe/JPCv772wPGF/N8hV4e4ryAO2HYkT+aDn1UI0XgYeHeuxBixje2o8nrcyIaXXCJPU9X0GdcUkJOUKGSPsX5it9ITNLJYBlXTK/BQm/AKfUBizNQKGNhrC03DzLniDUrzH2c9VFy0EYt4jYoSjVLEom3n3aw+C/m+5GjXHxWcX52qFoForo4tk9qhejanLB6LnxSeeobh0qyBXw9uTbbuo2dQK1/Nv3qn3txaVO0p38FOROyA6mo9y/IH26/ZtX5eDkVyXesaDsdt0zqOeUOnDaG8ZhCmOuVlgJGjflT//eUlRPA=;0w7ECtkTf+eP8LT0riw/gw=="

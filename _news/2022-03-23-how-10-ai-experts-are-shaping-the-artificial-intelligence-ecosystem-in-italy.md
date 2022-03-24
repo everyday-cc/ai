@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/how-10-ai-experts-shaping-artificia
 webUrl: "https://www.linkedin.com/pulse/how-10-ai-experts-shaping-artificial-intelligence-italy-colangelo"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1133
     height: 718
     isCached: true
+
+related:
+  - title: "How does the AI sector regulate the banking and finance ecosystem in India?"
+    excerpt: "Praveen Paulose,  MD & CEO of Celusion Technologies talks about How does the AI sector regulates the banking and finance ecosystem in India?"
+    publishedDateTime: 2022-03-24T11:44:00Z
+    webUrl: "https://www.ciol.com/ai-sector-regulate-banking-finance-ecosystem-india/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 47
 
 secured: "Jsig3WaZG3kPbEEvK1G/LFQTQy5xyS8m7hI8qwOdvS0d4q6UObkBpTCaNEeZDxcYdyxU0XsJOZZ6lXgQIaXguk7CDxyU81ML69mwrzrzVleyki3JrMMdhzROhyxT2bwXJnIzyH8LgjSm0xK/cODONETrh0+R8wd+s74HeJ7SkXZZzKpT0G6VtEu3bfYqyi4UvCerC6qJHqQSeBIW70vg/jMawiUxXoHVGYW6HQrfdpGPcfUofzp90VzzriuycaI3nksMENRcDF8q8BJhku1JmS4/5WygNbo/T5b06Xz0xLjE7K4+qWO1WtYWzTq75TVKuZvEJ+Z9h7WGXvWbZwMHsLhJYSQmhi1R9Joa4DJgOleEj0swU+/I5Rn9x0IIwVpM09uoWDJAMgc8nntNHVT3DpW6vsSmXxErTd7TpIdNWVDvlLAxVxqh5T9YbOuI1osqUa1PH1e9FkVnUVq18vyyFakpjfddfbzffxiYtblbZzVQXG1+6hsVaxAAgulwLaaGWt70O9WlO7JBEZn2f+s7YQ==;T97e/c4yzk3xcM69pbTZDA=="
 ---
