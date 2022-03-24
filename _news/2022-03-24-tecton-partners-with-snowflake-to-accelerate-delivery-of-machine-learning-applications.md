@@ -3,8 +3,8 @@ category: news
 title: "Tecton Partners with Snowflake to Accelerate Delivery of Machine Learning Applications"
 excerpt: "The two companies have collaborated to integrate both Tecton and Feast with Snowflake’s Data Cloud. The joint solutions provide a simple and fast path to building production-grade features to support a broad range of operational ML use cases including fraud detection,"
 publishedDateTime: 2022-03-23T17:02:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-science-cc84011e13a6044f4bd000e846800818"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-cc84011e13a6044f4bd000e846800818"
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-cc84011e13a6044f4bd000e846800818"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-cc84011e13a6044f4bd000e846800818"
 type: article
 quality: 31
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 338
         isCached: true
 
-secured: "eMSBRB4PPUxIXY5162mWExGfBVpV8lkUjPQjWtlMBq9yCmnpahiy82FItUOMNGYvEWIWoXCi7QbsafQjL/VVvtut3DOM5BzxEf8Z1dpbv5nBi0bbmpyJx+T/TJOHqFnGl3OzyCVQZMe+OILkmOmEx8Ybiu3hu53fc9BD3OQlChMrKNEr2lwDDy5I9o3kBe8BfraJNJVjGWN3GTWyK2RW5RKTX09IGkcYDDNM/SJ/PoIoc1Vx7SkOTvItLRqSu6Z85F3wXJv2gGUU038LlhT/BQ9EJGkIM4PAAtp/Oo8DYNCc04IdoezyGAUIdl15wTIoNARRAmNjG3GLezl8Icp1QE27kbtHD/pTids9NJIp1iM=;CEdaNpan1ST375VKLBJotA=="
+secured: "vh8M3auYfNHxcwMWTzUniMouNHYEYfkTTpLl2iKaiOc6CVAIhOGnQtTTvaGJdBuqePGxpOF4nuFDiv0Nnk72XQOfr3aRhTzAUbCmMsjZIxWr5hdoNgKo46Gnk/rVB7zVpNb+tpTttrAzYspS8RTll6D+oeVueEb9JEd51v0D3F2TMFr+rrPO1rX3yz7y40KcgFNWnj7JyPmlFYc2gRZQL6B8qfTblON/0r3q1Xgg6h/NUQyZGBHxFD7RItS/H+ZEuv2aIipawlP1Z2NquX0iJvwns6a5uf1Sgp94VT9UJsjAcKHbS0pOYQlkGvX/dp9xw4aXRTHFACu63jIFc2Xaw45fiWkREC9tyj5pi+8sB80=;8kbpg4gbRK9waETZdRquqQ=="
 ---
 

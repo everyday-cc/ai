@@ -73,6 +73,20 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "The real price of the free facial recognition tech for Ukraine"
+    excerpt: "Authoritarian Tech is a weekly newsletter tracking how people in power are abusing technology and what it means for the rest of us. Also in this edition: Ghana’s rush to a biometric ID system is leaving people behind;"
+    publishedDateTime: 2022-03-22T14:51:00Z
+    webUrl: "https://www.codastory.com/newsletters/ukraine-facial-recognition/"
+    type: article
+    provider:
+      name: codastory.com
+      domain: codastory.com
+    quality: 56
+    images:
+      - url: "https://www.codastory.com/wp-content/uploads/2021/06/Call_for_global_ban_on_biometric_technologies.jpeg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "OcHJJa13zEzSt5+uQ8Nixm9RBJKZJyng9WkYIs/uOQ8nLn8kH6n8BwdlQszcTyl8LiR2C5XtTxW6LBqd889R5Ydk0QfyqnAxqCN0WD+QeNLvMuk4BI63AlnQPt1ZrbfifZURHUrq2Lk8GLLR8GiRjorWz9oelttHwpkOqq4Kf6K9Ay/4fn4d1tOOnkHJ4VRXsFuyNmNSy57MiaoDj+4d5Jlzq80Acf/gtzedt11BxfaDypA/9oV8xLD2ZSk/QxLFZxchYjCT2B+Dp1RJPvdxvskZSLPk0gsNOK+cUyHSPtjtPRgPvU8ijjeLnk+T/3PzbU64ZHRaYcF/41QaJbj9wwPaPUFsJnwKbKNlDxIffXqDk59y56NWkcBUyTxLrf5HaC6qJ70wyiZoH2EnySuc+jbTn7RmER24vHhodhzXls4jjXqqgb31OIn0mP34MLOxWS8c0Eh/2ftmDQM2a5VHlHpNbjpLYBHe3LN6gr3Je/oXpcPbDT+b0fjoHsDCskZspxGpF5b9+bXwXm3o8mxMAQ==;90No6wbporHyXBwZi9+f/Q=="
 ---

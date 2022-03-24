@@ -75,6 +75,20 @@ related:
         width: 888
         height: 417
         isCached: true
+  - title: "Kroger teams up with Nvidia to build AI lab"
+    excerpt: "The Kroger Co. plans to create an artificial intelligence (AI) lab and demonstration center in its Cincinnati headquarters under a collaboration with graphics chip pioneer Nvidia. Santa Clara, Calif.-based Nvidia,"
+    publishedDateTime: 2022-03-23T17:48:00Z
+    webUrl: "https://www.supermarketnews.com/technology/kroger-teams-nvidia-build-ai-lab"
+    type: article
+    provider:
+      name: Supermarket News
+      domain: supermarketnews.com
+    quality: 39
+    images:
+      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/Kroger%20Nvidia%20AI%20lab%20partnership.jpeg"
+        width: 770
+        height: 400
+        isCached: true
 
 secured: "9b2zcxDTUGGMEhBs5ZCSU7l3GuGF0t9T0Zfkn3YAkepE6Lf+P0YzXXbYfBfkun2T3Zqn3dKemhpqZOlraVGhpidRm7yWVideyF8L/XOfWlcn4z1sSg6pwMdVuxfb5iFGLqHOqTEUmWv7uDNSPR7d+SvkSDaPia8yxZzmCDTA2yoanOUdGxsktwyGKmRk744u3jqu9NT9a1NT1g3X+6uZ+sGsfD2698cBrYIEd24mC+ocf8B799KbFhGNnKdCxXvQIt27GYYs6nzPeijcFrzW5bCoKCBvP0O9XR53ZAT5l0Gkw6Zq+ug+bJJAvydeYy0evWDc2aAtrFaz/K+QWDbTyURGHNSpbpdcmfiZ8ksHzrJPDbPCkRmS4Pw83wPZu0qUuXjv91y+4XkD7Iu3y1Ock2uGqKv0yLShSXJxlshvPe8ScV8Nlh9lkhgFIMLGT6mbfPGD7Ylia9Z5uLiDkvAuFamIhDEao8VUQ3uxl+nWKPvqM2LQ3c3CBkVK/GLc1AA6D2E5n2sOep5flXiSKlBaLw==;tGXA9yRfDiCtLw4w1HdUVw=="
 ---

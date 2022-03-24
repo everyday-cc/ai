@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp"
 type: article
 quality: 100
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://www.infobae.com/new-resizer/ZxDzQ-16LNipy4m3-uEkJ6tnbx0=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/2AE3THN5NFHX3AME6Q5ZCLNXRY.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "The real price of the free facial recognition tech for Ukraine"
+    excerpt: "Authoritarian Tech is a weekly newsletter tracking how people in power are abusing technology and what it means for the rest of us. Also in this edition: Ghana’s rush to a biometric ID system is leaving people behind;"
+    publishedDateTime: 2022-03-22T14:51:00Z
+    webUrl: "https://www.codastory.com/newsletters/ukraine-facial-recognition/"
+    type: article
+    provider:
+      name: codastory.com
+      domain: codastory.com
+    quality: 56
+    images:
+      - url: "https://www.codastory.com/wp-content/uploads/2021/06/Call_for_global_ban_on_biometric_technologies.jpeg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "5Qng7SpZMKfK9h+Q9fMUjvkcTOC4MVtIKXvMnIGRkfBhuidydfJD5vptYnp78UktpuM7CoFhPFAh4hhK0oUDJ9YB0iKc6yC6Gvw+gzzi7QVx5ps7YmMJNffHA5eb+RiOgPPSNXKjXaEO9O41ifd1/YhGMsbAG8Z3j78MFYxVcLoBcuS5WW5G6xsArc3LzDI+9OoCG9X/Zgdq54UqE/FQH3KMZfvGZtW8pSrAEhT9dJeWFR7LSRopsTdEWH+MqKUPnxwM1qhLJx/cdEP7hz+mzmR7WNblR0aTpQSADRcJxW4CnhXinogTSpjkUBTxQIFnDAxCSy/moqhGdBzWEoR1Bb9Smu6SsQId4nyw1gSAuJqWibwg7jDYJdsWGbx7FjL1wCAsEBmMP5uaKfUupM3Vn9/qZfobBZcq1EoUeT3lJkhmiucYI8bnRKnUuILBsoXf2Fb5Jh3KQ4uVIoFW2z4My6jXwWUUPykboMNkjJdQ40BVdnHWHTsGgsbh0FSxRTPR1MPDwSsWJzd+c1fZ1CEEFA==;l5pSSsPvcWocS1RFCuJIhw=="

@@ -122,6 +122,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft boosts its AI translation capabilities"
+    excerpt: "Unlike previous AI models, Z-code models utilize a new architecture called Mixture of Experts (MoE) where different parts of the models can learn different tasks. As such, the models learn to translate between multiple languages simultaneously. At the same ..."
+    publishedDateTime: 2022-03-24T06:10:00Z
+    webUrl: "https://www.techradar.com/nz/news/microsoft-boosts-its-ai-translation-capabilities"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 86
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/C6bmmDwjYdb4D4whKn5yVc-1200-80.jpg"
+        width: 610
+        height: 344
+        isCached: true
   - title: "Microsoft, Nvidia extend Azure confidential computing to GPUs"
     excerpt: "Microsoft has linked up with Nvidia to enable confidential computing in its Azure cloud to encompass the graphics giant's GPUs. This will allow GPUs to process workloads on Azure that call for the highest level of protection,"
     publishedDateTime: 2022-03-23T15:06:00Z

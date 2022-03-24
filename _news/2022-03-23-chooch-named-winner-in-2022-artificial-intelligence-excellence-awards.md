@@ -2,21 +2,27 @@
 category: news
 title: "Chooch Named Winner in 2022 Artificial Intelligence Excellence Awards"
 excerpt: "The Business Intelligence Group today announced that Chooch was named a winner in its Artificial Intelligence Excellence Awards program. Chooch solves a fundamental AI problem: teaching machines to understand visual data."
-publishedDateTime: 2022-03-23T13:11:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-chooch-named-winner-2022-artificial-intelligence-excellence-awards-/2022/03/23/9569172.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-chooch-named-winner-2022-artificial-intelligence-excellence-awards-/2022/03/23/9569172.htm"
+publishedDateTime: 2022-03-23T13:02:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-accidents-artificial-intelligence-af4498025d62188a349916e2446fc6ad"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-accidents-artificial-intelligence-af4498025d62188a349916e2446fc6ad"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "CORTIX Platform Named Winner in 2022 Artificial Intelligence Excellence Awards"
@@ -112,21 +118,35 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,"
-    publishedDateTime: 2022-03-22T12:41:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-812be7d276734b00a1b5ecd9b7d1d927"
+  - title: "Rev Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "Rev, an AI-powered martech solution for B2B sales and marketing teams, today announced it was named the winner of The Business Intelligence Group’s Artificial Intelligence Excellence Awards program in the Theory of Mind category for applications in Automated Reasoning."
+    publishedDateTime: 2022-03-23T13:02:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-artificial-intelligence-93afcf204822e829f0c53b929c7701b6"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 30
+    quality: 37
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
+  - title: "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,"
+    publishedDateTime: 2022-03-22T12:42:00Z
+    webUrl: "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 30
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/2f/c2fe3e5e-68b4-11ec-b5b1-eb6d367dec1b/61cc72a6c74a5.image.jpg"
+        width: 320
+        height: 325
+        isCached: true
 
-secured: "xfNz6yhcGoQDCRZvAayfealZIW8sK/aPs6Q7+1m0ixuWBKU1fjyQzOpFuTy21ln1DmCT3ScbanrBCUf1a/V2DivISKBe0ZN8R+a2FZFs2Qme44KYcJ4VSRAHoBj3Z3gSRw/8+eyIaZuTDJwaQ8eHKb6NoZmuuMNqeC9WIjHwmAZmInhYvbqJ+6dme61QhXC0Yyjru7NcRQAcQi0C4os8LJyGEnmqOpX7EawoCPEsUY/f9qe4WbdFKEuAs5yp5sH00nCZibjJT65lOO0Ggnm35Yjwfc97Qr+LY6KIfTc7p3UekBM9ux/Yu+3mAZdgVwl+4VOvqcH4iGzA0Sm4N6ZYARV3mSLRWkNvG7mFe+fSR4Y=;otdlZ/+bA63egnJqtKYr1Q=="
+secured: "8LlVTVn7zBuR8g5jPglkhcor+xMTtiyUm/d9Zgx5kwnAY3SOs3mt9/bsKeqVOOSoIzCAEuvODf0vTLi5wz64Ne20xjDErXPaP1bYbKUAsJbOGWbFR++IygxIkk+j0YD4sgz4gxk7OAIo24c6K7FsSZGnVLtybGXKB+6bE16TW4fgKRejijb2OI0ke2DmTo/wsQSqqh5Uzc5O39S37nTxKEqC8dg4evD98GabXO0dBAC7TmUbuV6Qm50+DMX0tphNm2uG5JIqD3nx81VUJ0aLh/X2txwnMC5nDS2+wVVhXKrBqOi5+GWesRLcXoBogDHL1HyQ+RbiWbY/CqfXlJJfavrXEi/uNq+dS/WXaUOTUTo=;nuFADKLIn4qeTjDQ+DuzvQ=="
 ---
 

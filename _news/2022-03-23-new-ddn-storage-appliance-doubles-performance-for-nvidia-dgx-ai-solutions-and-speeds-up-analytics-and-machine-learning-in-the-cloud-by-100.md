@@ -29,7 +29,7 @@ related:
   - title: "Theia Analytics Group Closes $1M Angel Round"
     excerpt: "With private investors aboard, TAG accelerates its development of the world’s first governance-focused intelligence engine for solving governance challenges plaguing global fiduciaries WASHINGTON, March 23,"
     publishedDateTime: 2022-03-23T12:18:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-3541b1447ee1dc2e94125a1eb4d4494e"
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-3541b1447ee1dc2e94125a1eb4d4494e"
     type: article
     provider:
       name: Associated Press

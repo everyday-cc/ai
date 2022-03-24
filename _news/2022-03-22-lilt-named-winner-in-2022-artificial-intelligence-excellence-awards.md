@@ -50,6 +50,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Chooch Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Chooch was named a winner in its Artificial Intelligence Excellence Awards program. Chooch solves a fundamental AI problem: teaching machines to understand visual data."
+    publishedDateTime: 2022-03-23T13:02:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-accidents-artificial-intelligence-af4498025d62188a349916e2446fc6ad"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Lirio Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "Lirio, whose Precision Nudging™ solution promotes health through AI-powered behavior change, today announced that it has been recognized by Business Intelligence Group as an AI Excellence Award winner for 2022."
     publishedDateTime: 2022-03-23T14:54:00Z
@@ -106,29 +120,34 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,"
-    publishedDateTime: 2022-03-22T12:41:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-812be7d276734b00a1b5ecd9b7d1d927"
+  - title: "Rev Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "Rev, an AI-powered martech solution for B2B sales and marketing teams, today announced it was named the winner of The Business Intelligence Group’s Artificial Intelligence Excellence Awards program in the Theory of Mind category for applications in Automated Reasoning."
+    publishedDateTime: 2022-03-23T13:02:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-artificial-intelligence-93afcf204822e829f0c53b929c7701b6"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 30
+    quality: 37
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
-  - title: "Chooch Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that Chooch was named a winner in its Artificial Intelligence Excellence Awards program. Chooch solves a fundamental AI problem: teaching machines to understand visual data."
-    publishedDateTime: 2022-03-23T13:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-chooch-named-winner-2022-artificial-intelligence-excellence-awards-/2022/03/23/9569172.htm"
+  - title: "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,"
+    publishedDateTime: 2022-03-22T12:42:00Z
+    webUrl: "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 30
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/2f/c2fe3e5e-68b4-11ec-b5b1-eb6d367dec1b/61cc72a6c74a5.image.jpg"
+        width: 320
+        height: 325
+        isCached: true
 
 secured: "UBRe1AaTuYkiNaEG0f3b5gUXz0YdY6SVxtBqyCulCgWMCf0o2Dy/ZBDHwdjDFjK7st2WXagIlODlacUg6M/Bo1DPNKqIG7uZ3HS9p+LO+FDPLIXVYOCkTRkvWJ3n7ZIJA++Hh70yOWM9LvyIFiEnXUxFVcTP7n2rlQ/YpsQtT1kjDKtnT2TYxDsJaKTArVIIXUhlVtL5fDED8m/uHLAH+LdiOn1NDJ+I9p4PNiYG1X8uLCkyPs406oX7XBvaJ4VScTQyD0NWYJtnf9Zt8YxU3ltehL7fRxFe7iycwpArJKeL4g6qOgEtp4mRTjRdsh26W7+RKfIKuHrOppCkPWxR142Ml5hndLg19GCPzUD4Ltrgzzrqf6uozkRUjhVsk3A1j6kc+gWCMxifbFGb6mkHZJgrrkkIL5xUCu1nmqTL4bt92pH7Xo8lnFVKf9hb+mcqk8xEuPYYEFxH9f9tWLvQidGCHDM8jEoVILmFNTLmP63hKuicIwLZDbRrEQiKgw99lTzQ8NDbKW+AttEwNK8+Cg==;OBMTI3ohqStqPJ13lupgzw=="
 ---

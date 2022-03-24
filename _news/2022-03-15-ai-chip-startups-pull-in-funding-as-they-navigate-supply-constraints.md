@@ -3,10 +3,8 @@ category: news
 title: "AI Chip Startups Pull In Funding as They Navigate Supply Constraints"
 excerpt: "Investors are funneling billions of dollars into startups that make chips designed for artificial-intelligence applications, which have largely avoided the supply-chain constraints and backlogs faced by larger chip makers."
 publishedDateTime: 2022-03-15T09:00:00Z
-originalUrl: "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402"
-webUrl: "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402"
-ampWebUrl: "https://www.wsj.com/amp/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402"
+originalUrl: "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402?tpl=vc"
+webUrl: "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402?tpl=vc"
 type: article
 
 provider:
@@ -18,8 +16,8 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
+  - AI Hardware
 
 images:
   - url: "https://images.wsj.net/im-504456/social"
@@ -27,6 +25,6 @@ images:
     height: 640
     isCached: true
 
-secured: "Onoi9GctYwKZ0wwzfAxlERz2PRBG3IlZiseEXmWrD0FReyNOZ1qsG+uBj7iVLNFA/7BikzsGBGNu+56BeYvd7OjWQ/JzceiZ3ov1Kd1rz6eWdr6R5Z+97K0P7tBge0bADTp5VFotJAOI31SgdN5JWXit7BfArDti3ebmj35dTf/zs8TgRWYlTCxSYyHshQph7p4vGD/26VD1kbwdFVumgX/y3F7680kfdB5r9HhVE8sbNMc0Wq6P/cX1QeT9WXgXDU1nXQv9y+7yZ9dnEie3xbFP/cDA9qxOkjKZSlLrSuxAVX0XLCuSR+Y9lPOa3SnzqWVlolCLT7dFmBLFwMp+2V+oP189GLfIt+j2tGvkv3E=;3ECm7XLNYr+VYhKJYR3Wsg=="
+secured: "zCCRIIRuLmKFE37nJEwOo0JI+WnbXgiHFRzLEF+yLKlmQG6rSqB42CDOsxkqZLdN0TO9yEE411K17/Yg/6hsMSyX7E+Dcp9dLFjJiCy5pekrnZHInHTr8a2KUqktieRYwg2UjxIICs7wONjk8RsSSG613pv/T6cQXH9YHpGhtwS/sLfRAdaXAB6LnxmPPQjASfnb/KT8J1XGJpX7XUamwKG9m6xmqRy+u0HbCNSzvaAHNO1GYQDIOyEgOh3j0JxoQAKDwIbmTWPfufiqF1BkBteSx15uguqo0eHavqX0wwmRqAcLe0Oos8PjcqfzGxMC8agF0qZkA0s6OTdpVrT5FT9gKrbY2dP+YAEjgWDuRhE=;4pxT7fkkXWpDRpqND6bGBg=="
 ---
 

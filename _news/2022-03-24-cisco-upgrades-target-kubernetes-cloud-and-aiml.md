@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3654492/cisco-upgrades-target-k
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.amp.html"
 type: article
 quality: 76
-heat: 76
+heat: 77
 published: true
 
 provider:

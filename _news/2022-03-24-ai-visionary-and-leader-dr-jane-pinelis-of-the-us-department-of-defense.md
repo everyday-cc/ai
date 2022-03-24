@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2022/03/23/ai-visionary-an
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/03/23/ai-visionary-and-leader-dr-jane-pinelis-of-the-us-department-of-defense/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 334
     isCached: true
 
-secured: "er7SlVgPo548kFsTY8QTOWfGxiZ8MhlEFSLRB1sFqsEUKgHZiNQ/iggs83gWYmmevc6pLS28g2SYAHU+HL1u5derg5xmWdrPo5PfjLdy6cL/wJy3snJRdT19ts4XYNXE94g1qFy3JWz3V2g48dPK9djz6YXDrIN/fK3VvTsGrpV6DeB8ck6suTWRg+CJyVAE/dJ6ekqQ4njIIteM0oZym8Ele/qxwt9/kazOVzwGi43C5yK7vGL5oCDaHnpjz106YVRmB+bIPzB1eikPY5veBjq/vm+NtVRHY8tvOcHU2hgpnYLV/9eAqMWicbX+auTPFzBb2Be6r9TS1ExXtGfzHfeNbyRGoSP7a0U4MPHZyCo=;iB5A4WJ57plIAJZBB59/Ow=="
+secured: "2VmOK9P2+rQjz2fLbbcMHcbsVKlJsNIfTt3AGXCZmMocd8F11k9idjm8k/HahijB1fNvWZJ3Ans/PHbw/Os4ZUvIRt6Bt4tFpnXP+jTFLdz1lE+avRg65Dmc1K9gAwLf6K06Aao0jAvzezCoxT51kvWE+mCIepZo3RUMpVBFkNphR90C1OPIk8t+u38AxwOMznluScMJwJ4TbyPPgsFeIewXwD/7qGapQuDKpZMwbO7lLo9YUNsobO5149VjTT8vscLL0TB7wEumqo5n7PSebKGCNuB5gpRKxkiUVt6bmVw0vHBrxuL/HgHtHw1e5NjXAHaqks8y0O1maAk6qXG9K6SrZ2WVg7TFzmuNDEUgLEs93bhBUgWzOzn6HgeC0AA6MUj7jSxXejJcLQTPdgXQyAABRgpwiCxzq3hqIfkDvdVnDrbFTy/SGifLswlOBpsKIdrzVl9kIfKmpZCH1UTuqrmL1jrOtOmVQmsbr1K+/FqYDOP7adVd8SRhlOlialJLwfuYpVzWBfkYqSiK5bNf8A==;4gJ+G1wHGb6HXvLzUwluiA=="
 ---
 

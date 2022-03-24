@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nvidias-new-chips-power-ai-auto
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-dgx-logo.jpg"
         width: 888
         height: 417
+        isCached: true
+  - title: "Kroger teams up with Nvidia to build AI lab"
+    excerpt: "The Kroger Co. plans to create an artificial intelligence (AI) lab and demonstration center in its Cincinnati headquarters under a collaboration with graphics chip pioneer Nvidia. Santa Clara, Calif.-based Nvidia,"
+    publishedDateTime: 2022-03-23T17:48:00Z
+    webUrl: "https://www.supermarketnews.com/technology/kroger-teams-nvidia-build-ai-lab"
+    type: article
+    provider:
+      name: Supermarket News
+      domain: supermarketnews.com
+    quality: 39
+    images:
+      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/Kroger%20Nvidia%20AI%20lab%20partnership.jpeg"
+        width: 770
+        height: 400
         isCached: true
 
 secured: "8h7jAOoGiB8T5flpncAyJlcB8D20Pmoaa2N0Da/6yh+TAdFmg1xKcE3+KohmnxCLodLkbFXwRzHC8TvQEaHDnS7uVL+cCVzYo/RbSn1TekQ7zRzW0Df/18E9LHwXla91lp7csOYh1NNOfWu76ktAiJYgd/BZ6EE1OMay8obeG3KymEfcpMx36CAA44OVVcS3MQdaViOjNzXXkTuDX6J5F/p0nwzMd1xmkSEo3nvvzvlhKkRnyBtUgXXVA+FCWA0N7e69+KiCVdZg5QVyyJBlhxhZm4wZzZrn+xLJdqMPdbUFPiqAffgaDrDVwVrxnOG+1gtT9Zl8Q7Si/iP5yxfU7ezX1ef5C64xC0qH5t3nYNY=;+wTLrwfsBfpYdIFf8PWaHw=="

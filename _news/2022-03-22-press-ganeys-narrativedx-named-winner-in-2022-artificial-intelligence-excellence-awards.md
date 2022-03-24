@@ -2,26 +2,26 @@
 category: news
 title: "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards"
 excerpt: "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,"
-publishedDateTime: 2022-03-22T12:41:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-812be7d276734b00a1b5ecd9b7d1d927"
-webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-812be7d276734b00a1b5ecd9b7d1d927"
+publishedDateTime: 2022-03-22T12:42:00Z
+originalUrl: "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html"
+webUrl: "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/2f/c2fe3e5e-68b4-11ec-b5b1-eb6d367dec1b/61cc72a6c74a5.image.jpg"
+    width: 320
+    height: 325
     isCached: true
 
 related:
@@ -62,6 +62,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Chooch Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Chooch was named a winner in its Artificial Intelligence Excellence Awards program. Chooch solves a fundamental AI problem: teaching machines to understand visual data."
+    publishedDateTime: 2022-03-23T13:02:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-accidents-artificial-intelligence-af4498025d62188a349916e2446fc6ad"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Lirio Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "Lirio, whose Precision Nudging™ solution promotes health through AI-powered behavior change, today announced that it has been recognized by Business Intelligence Group as an AI Excellence Award winner for 2022."
     publishedDateTime: 2022-03-23T14:54:00Z
@@ -118,16 +132,21 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Chooch Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that Chooch was named a winner in its Artificial Intelligence Excellence Awards program. Chooch solves a fundamental AI problem: teaching machines to understand visual data."
-    publishedDateTime: 2022-03-23T13:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-chooch-named-winner-2022-artificial-intelligence-excellence-awards-/2022/03/23/9569172.htm"
+  - title: "Rev Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "Rev, an AI-powered martech solution for B2B sales and marketing teams, today announced it was named the winner of The Business Intelligence Group’s Artificial Intelligence Excellence Awards program in the Theory of Mind category for applications in Automated Reasoning."
+    publishedDateTime: 2022-03-23T13:02:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-artificial-intelligence-93afcf204822e829f0c53b929c7701b6"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "1INkE1OhF+4D+dZNS3YoB5kAGfGp3Q5DruH/to5wmd3ViOV7UOOKlilju+H+0zlvL7JBYnbJLE6SdG6fA+ZSxFiplKHWPDRwD6XTuOArV8ppWISyN0eh76PTC1EWmujjXCElAUJuvb9jYce/2X6E1mB53a24bPAa/+IcGjfmH09E+Z4XgJ90KJrxVaGcdSwA+ibGIezBla8DyLX/RLOReDz108vzFAegzfuXTyqbZPYqyXjxb8pnCoYe55kiA3VZnuxgwP1M1UUAYT+2crlc55sG08A9wXrjsel+Hl1SlcQFLdxHcBdz7MaqeRRUQ6bqBmiuQsIzAFy0NSL5XSXSEI94Vl8eyy6zcj+k0R+XrHs=;Ju7DT13FJOoo3SYZY5lCRA=="
+secured: "j8LhHTQZXj5PUrhQr3WsZtacYIXvV/DnA49y0n9943lN4o9ceH+1k8O9e7S3Nu49nMtAg0ue3IYp1AAZFmladOO1DOSw34Exc6RxOdr2YZqmmj3y5dEVNNh6f2u4JCrDu0ZHG9prVhMTlzs1BYXux54ttOWMtD8a3jfivrr9gRcvzx/hQT2B4cOuqwJb52/OX75m6u05hskLqxTnDttyGZJ7hdpm6Nj7b3ZNPinokOm9QfGEnrzDaAUuKGDIhd6IKOPCmWGOCpSX6D2MURGhFF2QzabfJtCkKlcGTWW2coT0dV/9lvcsax73hRvFWBNwyWjg9a9P4ownBmV535xqx3kKxMLVgR8uCJXvvQb9aHY=;RH44xyLNwfZ9Z+QDF5ikrg=="
 ---
 

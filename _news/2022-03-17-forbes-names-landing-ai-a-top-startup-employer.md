@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Forbes Names Landing AI a Top Startup Employer"
-excerpt: "Landing AI, which provides software that makes building and deploying AI solutions in manufacturing fast and easy, today announced that it has been recognized by Forbes as one of America's Best Startup Employers 2022."
-publishedDateTime: 2022-03-16T21:26:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/forbes-names-landing-ai-a-top-startup-employer/article_8b36efb0-21fe-5f75-880c-2781ca79f9a9.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/forbes-names-landing-ai-a-top-startup-employer/article_8b36efb0-21fe-5f75-880c-2781ca79f9a9.html"
+excerpt: "Landing AI, which provides software that makes building and deploying AI solutions in manufacturing fast and easy, today announced that it has been recognized by Forbes as one of America’s Best Startup Employers 2022."
+publishedDateTime: 2022-03-16T21:27:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-9e2f09776c74103a11aeceacbaf1e95f"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-9e2f09776c74103a11aeceacbaf1e95f"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "LOxa+MinHQOYpiR+IfGogQ01Fbv6uJXXSX0M/9x1IM+I95A1MMbLEd6MJoaNrLIYrec+2RDp5umWpMjdLPx+UDAJreLP4FlMCrAep8Zwvin5qmf0ZscUQgXOPT8m6WSm0lzQNQAyAxw+0LTVHyEAQcVtoOBfo4HbRGzw78fixn0+tAR5HWe8V8Qs5CRgdWUr0qsDG7mP38+rdFNSJl6aA1NlOIx2eIUxwLqMuCYr3gEvaMYeBc6DRxC3dwY/L5c4dX2Q8ulZU4ciG2W3a8MZU5/W2mAbhCLh6RxIXqFZ//+zVsj2GUMSi1vmgQ3AjhHX7LG/Sk7DPGvjE7emhoRKuGcgEf4cgzuxiy4auPFcXSk=;azPugq94+pE4icjcw88KAA=="
+secured: "gxR7cbczAkRh2qWUgYmbca0j7bbXka4zkRSCp5qIgGD0NSVVgs1KfCUp9xu2M6XvNhUbVHTGVWSeQBH8btU9mkEbKsdjwfLBFIHKRk7OQYl+Dg1v1ByA4Mu0kQMNrIozuMLv7y01DTJvZzqzXo3Uly99TCuLay3peo/vIkMo9y4ZFMUuRPx9UeLbM07rHKXT31vUh7X4YpGLmSXvxgUHMcKoRRBu6PyNHZdnUp0kLCUVHcEI42oyeyree+Ksgo6EqKuCBf5HFj10yQd6iktd/7d/ZoD8U54PtZVJBdolr8M/gyojdwx4Z1AKChiKnHaYyRqxqje2DWCuHrcIRNAK9ewq0YIB5KRhPJLc4bYOy0s=;jJF7EbkMNXr9xQn3s3Yc2Q=="
 ---
 

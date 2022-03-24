@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
-excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),"
-publishedDateTime: 2022-03-23T10:10:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
+excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),"
+publishedDateTime: 2022-03-23T10:05:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
 type: article
-quality: 34
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
-  - AI in Autos
+  - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Artificial Intuition is the Next Phase of Artificial Intelligence"
@@ -39,7 +33,16 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "From Artificial Intelligence to Artificial Wisdom"
+    excerpt: "AI has made tremendous progress in terms of theoretical grounding and the emergence of powerful applications. Alarmists' views on AI's terrifying potential are, however, also rising. Some predict that intelligent machines will soon be able to outsmart humans;"
+    publishedDateTime: 2022-03-24T06:09:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/32770/from-artificial-intelligence-to-artificial-wisdom"
+    type: article
+    provider:
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 19
 
-secured: "y+kZZH3YXSmlptaRY+3ofHfhqSHdkNIaQI5dbK0lt3cg1iACeORJwUdtsJcDlvWjif8Q+EhAtTvpNBJYZHb4vFarch9Im4VnfAe92hy6g33p+0bvwvtMPGQ0WL7m5NwhmyTH7wHjL49hxdcxBDgA6Y/W4gNYfcW1IlhfcqurxrCt6C7NdODjoqZL87wcF8ycRYaOQYhAkhfLH0ib3EYenpPMP9bT4KnmE6FYosMlqXCf25RH0q4Y5fdwK4LXS+S4tbf8qNdnhxLOaLcGSTBfGdJWFdjeNp7ySwCYr3sqplQmb4srpLEQeGozUEOFdiG5fiV/9J8NWi0iBlgcKoUKWX3Ct7ozpiQnAEjqMfg658E=;H2Lr9lL9OF5FzWhn/U9rcw=="
+secured: "Xe0YHVdNhgVRAYae7mjktJmqTKt3Kni2aiB1klIK+l4DKSZNtqoV/woXEa575OEVnCUiRmRnpGRvAD6hATyRUpCNJlMeoINg3RcRwl0zcC0z+Eb+ncsXw4xKoWaTBZ3XFR/tKFx9HiwPSaHrpUDu7V4zPjno7V9dBXH78TALx0n+xahR6kHU54xWpSCzw3ordc0cH1OmSBDKN00z+zcuk7emb5i7nh6iiSi0fJIVhhSu6pKd4bfsVujN4NEKvtXWhCscy+uqRmClxxsn0npAzPaMheYlpcnWexymQkIiR2HmJG7w5OVeIxtCpu9+hBPHxK3xZ2ZdG6PBkKRuDjB4N0VTIcV/PbAmWOeurG8EG08=;8PZOLQoty3OrGNK/0twPOQ=="
 ---
 
