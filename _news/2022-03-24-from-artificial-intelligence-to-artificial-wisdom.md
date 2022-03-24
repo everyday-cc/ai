@@ -34,14 +34,19 @@ related:
         height: 1333
         isCached: true
   - title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
-    excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),"
-    publishedDateTime: 2022-03-23T10:05:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
+    excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),"
+    publishedDateTime: 2022-03-23T10:10:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 14
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "0FL7JjA9Fn9tFYLx9IJB4guUdxlgJYvf3OUNYePb1U+dnoXNnXeajvHZ1LTSNJxNwcFmNy8tEPKfan95NIxOopu1kPzRfbs92QtDMs8YuKX7QwqKvYvCmtE5FdVlt2JqNlhkJ9m7V0SzZAcrzqiWqXNwZ7qIbdi14OWAxKMVyn9XGOU8NQX3KCZAV2cCRkFx76Cz5rJronevar34EmmVhESZdli1Lz42KGUEzes5FkAkzTJGzFyl5ydrq/S/O8s05e8yINiFmh1cRNBgj/nE9AKtai2xBH2WeF+ov118Z+zcUY0S36Y23zHjjV0OcqYT30uoauHDREvXi/p3kimhSmls5SvDX2fuhoMtmuTfmLA=;fD3T3S5wFTW1AEN3WrDJaQ=="
 ---

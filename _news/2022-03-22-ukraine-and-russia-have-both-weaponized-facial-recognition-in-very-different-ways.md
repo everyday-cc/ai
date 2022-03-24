@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp"
 type: article
 quality: 100
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/03_mar/24_thu/img_1648094486555_42.jpg?"
         width: 960
         height: 640
+        isCached: true
+  - title: "Russia-Ukraine War: Kyiv Uses Facial Recognition Software To Identify Dead Russian Troops"
+    excerpt: "Amid Russia’s offensive against Ukraine, Kyiv is currently using facial recognition software for identifying Russian troops killed during the combat"
+    publishedDateTime: 2022-03-24T07:49:00Z
+    webUrl: "https://www.republicworld.com/world-news/russia-ukraine-crisis/russia-ukraine-war-kyiv-uses-facial-recognition-software-to-identify-dead-russian-troops-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/world-news/russia-ukraine-crisis/russia-ukraine-war-kyiv-uses-facial-recognition-software-to-identify-dead-russian-troops-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/russia-ukraine-crisis/russia-ukraine-war-kyiv-uses-facial-recognition-software-to-identify-dead-russian-troops-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 65
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/wuzjmtwqf58e9qde_1648105963.jpeg"
+        width: 768
+        height: 438
         isCached: true
   - title: "Deepfakes, data traffic and drones: artificial intelligence in the war between Russia and Ukraine"
     excerpt: "The war inaugurates a new era in which the uses of algorithms allow everything from disinformation campaigns to weapons attacks"

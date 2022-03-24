@@ -3,12 +3,9 @@ category: news
 title: "Only 18 Percent of Fintechs and Financial Services Organizations Believe Their Credit Risk Models Are Highly Accurate"
 excerpt: "Only 18 percent of fintechs and financial services organizations believe their credit risk models are accurate at least 75 percent of the time. The finding is revealed in new research outlining the greatest credit risk analysis challenges,"
 publishedDateTime: 2022-03-07T14:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-middle-east-financial-services-parsippany-f2d6ddf831584720a8250f7653ea4c3f"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-middle-east-financial-services-parsippany-f2d6ddf831584720a8250f7653ea4c3f"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-middle-east-financial-services-parsippany-f2d6ddf831584720a8250f7653ea4c3f"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-middle-east-financial-services-parsippany-f2d6ddf831584720a8250f7653ea4c3f"
 type: article
-quality: 1
-heat: 1
-published: false
 
 provider:
   name: Associated Press
@@ -24,17 +21,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Only 18 Percent of Fintechs and Financial Services Organizations Believe Their Credit Risk Models Are Highly Accurate"
-    excerpt: "Only 18 percent of fintechs and financial services organizations believe their credit risk models are accurate at least 75 percent of the time. The finding is revealed in new research outlining the greatest credit risk analysis challenges,"
-    publishedDateTime: 2022-03-07T16:02:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/03/07/9558207.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
-secured: "Vr+6mJSnLiwcqorLAvTxFq2tv1meIsNW4cJarVUoBlAK9e33xOQa59cQcq1Z06tcffdCn+GARvVcIwGir0nZGmNq3WAWJxmA7baCuXJeL7NFWinf+ZJGRET/yiW95rgg9VONelhuQQWjSYJO8+K1nlWsxPiLW+UGV0pErevw3LUxTIFqEhcA4s0bm9rHxoQCWEfXDGzEPv++nZedCmeOJ9orZBXZgiuBfm13mnLVg39Z08HeBnr2EM0PkZchojTKYylZbeOEClcsRGCqAZ39RuLIiRu/rhtH9By2mKuN50uvJ4vLZrJyHBE1EgRYdTIifxIL+mmH/CzAzysBkLTDxl2c5S5pIYuZ9DLNX6v8hEw=;eTT6FmUcEgnIKqzmdxxpRw=="
+secured: "m9cF3xB1zjZuUa7lcElNk8t+49Y3VtZj8jSnZZcc1QiTa6UzWcGuNj8CIvY0hJat4ibY/+kas0qNE64nQwp6kNuBnmDL4e2k6K+fnAQYeBIsGWoaAH8CY3LwxilleZLpjGGrruJukVPcn5mCLMWPQFBxSACVHf4YQHxB1387eqXCfzAp7r1NZYQ6vK2VoyjCPdaipkJkhhxA9bgFXWp6jYyskLDKZcENzFV1+aRZAHexZI6ZnBmHcACn0XJ3Y+xzpy9WRFiongAxnE4Sth04/XpEwmR2UMhLMvxODZmIliHtWIWepjKL3TYy3BpgBeWOeQ+7BGXCV0ZptE9dw1o+PgyHOriXnG27/b8yB5QbvGo=;pefoJxICH8Qhx3BuSJHvqA=="
 ---
 
