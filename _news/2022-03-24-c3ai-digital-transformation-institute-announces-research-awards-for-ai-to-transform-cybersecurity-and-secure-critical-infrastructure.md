@@ -36,6 +36,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 69
+  - title: "Toby Lewis of Darktrace on Enhancing Cybersecurity With AI"
+    excerpt: "Automated tools may be the solution to escalating cyberattacks, says Darktrace's global head of threat analysis, but successful implementation requires trust."
+    publishedDateTime: 2022-03-24T19:24:00Z
+    webUrl: "https://www.darkreading.com/tech-talks/toby-lewis-of-darktrace-on-enhancing-cybersecurity-with-ai"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 37
+    images:
+      - url: "https://beta.darkreading.com/images/og-image.jpg"
+        width: 342
+        height: 342
+        isCached: true
   - title: "AI Accelerated Research Startup Forestreet Announces First Series A Success"
     excerpt: "Forestreet, the next generation research platform has announced a £2.75m capital investment from Guinness Ventures, advised by White Horse Capital. Forestreet has developed an automated research platform which can map every company and product in a market,"
     publishedDateTime: 2022-03-24T16:39:00Z

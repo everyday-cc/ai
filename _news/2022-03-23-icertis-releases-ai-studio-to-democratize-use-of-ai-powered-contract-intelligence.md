@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
-excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),"
-publishedDateTime: 2022-03-23T10:05:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
+excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),"
+publishedDateTime: 2022-03-23T10:10:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
 type: article
-quality: 14
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Microsoft AI
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Diversity Is Key To The Future Of AI"
@@ -64,20 +70,6 @@ related:
       - url: "https://www.businessbecause.com/uploads/default/news/images/1647346299.png"
         width: 750
         height: 468
-        isCached: true
-  - title: "Five Ways Artificial Intelligence Can Transform The Future Of Fintech"
-    excerpt: "In the financial business, artificial intelligence has a bright future. It can assist the companies in various ways, including increasing"
-    publishedDateTime: 2022-03-21T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/five-ways-artificial-intelligence-can-transform-the-future-of-fintech-nid-9525.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/bnb5cioeuro450308.jpg"
-        width: 450
-        height: 308
         isCached: true
   - title: "Do you think AI will be a psychologist for humans in the future?"
     excerpt: "Artificial intelligence (AI) is influencing the future of numerous sectors, including psychology. Will AI, on the other hand, completely replace psychologists? Will AI help psychologists and their patients come up with long-term,"
@@ -131,6 +123,6 @@ related:
       domain: ft.com
     quality: 19
 
-secured: "A8hfYp3J/dJ23eI67j7WM5mAORMXgZa/Z/2bRCxPKLh0bbi9vtfwbaw8bUFDBHcLA5YEy9Eb3wD2Akwq4vR/CGYzf3JhPNYqjTV6hsAThX5SoEQ0twYAbvQaxrSZ2OQogiy3svB26uGu40DnABb5fczWy0TzQXdDHtkhn+3U+Ur5yITPaAtkyPJi5jCSSme9e/CjySaMwK8rk3kHDy+N77BhIOcItAVIjmKwlGqiMT5uV12309umiImYq8UFvB757B7PXigzBWBh3PbbVNHQZKA2JM9jrsphKKekPwuLPnX1XMfC5BoDMLWNCL3xXSCvVslQTK+yfxeW0jbqBGgOtSyv4zm81pimAvF7Qx1Cc6Y=;P+NP0XwoAGdfbuGrqhSqqQ=="
+secured: "5EKrcC7Ht1VGgghdX3PnPHKgqb0yzMPB/vpBXzWjZsQ8I0fumkCzNA3Os08qGNMxX0KVVsU6lWFVxhNBGW0fUkl6xaJA5DemwulYmHo+h/Zlor5ncLsmivxLW2qK29aw7YlOTNNdA00HaWeQYq/qInbbaBjE9K+NSUmP8LcF2Az/dOIcwGg8uhAvQJuXKRn1FB7C4feqzT0QurDhidXChqvYDiFn6KiQb5NK/x1dx6/TIz/O4hLJ0X3RJ4DEqylO25WEtGvdf/M1yhE50uSjDLoubcIPFMJxehlvUZi3irCjvzQ7Z55S/uILthm8dvAj4UdGf46GrmwI6HK1x4uoAZiBYXzS8fubVB8+z8s/Q90=;rCIxk/kYqUR27Bgi3MD+5Q=="
 ---
 

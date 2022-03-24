@@ -1,23 +1,26 @@
 ---
 category: news
 title: "SAS and Clemson University deploy AI and machine learning software for education and research"
-excerpt: "Clemson students and faculty will have access to powerful data science and analytics software from SAS thanks to a new, $3.3 million donation to support teaching and academic research. Extending a 2017 partnership,"
-publishedDateTime: 2022-03-24T15:51:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm"
+excerpt: "SAS skills among students and supports analysis of massive datasetsCARY, N.C., March 24, 2022 /PRNewswire/ -- Clemson"
+publishedDateTime: 2022-03-24T15:58:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
+webUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
 type: article
-quality: 62
-heat: 72
+quality: 90
+heat: 110
 published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
   - AI in Education
 
 images:
@@ -43,7 +46,21 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Machine Vision Market Analysis And Overview 2022 By The Business Research Company"
+    excerpt: "TBRC's machine vision market research report covers in-depth breakdowns of market sizing, forecasts, competitors, regional performance, and more. LONDON, March 24, 2022 /PRNewswire/ --"
+    publishedDateTime: 2022-03-24T15:36:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-03/55594232-machine-vision-market-analysis-and-overview-2022-by-the-business-research-company-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
-secured: "dNCGEfp5T/TP9lSNau+rtlABTl9nrisjqe03Tw6uF6X0Ib4LVfrxMi81dQa0KGPNedo34xOw4CVdPLna45Vde4oB9ljPQeMZeKDoaTEDvCn1FD5Z8TtIrnWVXXhpZrb6sEQg6zmyMZBsY0GsJPP80KVwtJtaBTLrno3Y93AW+3WsWBLrhvFDCzC2AGnzc2NLHsMFWvt31yPvkJKvd393d/Nx7IpiAJb12fDIuOIYMAMGJ5Lkw7PlNCh3GeBcqwpQ24skgAcLa1fam52MY943BVFlgUAnChI361fzoqg+/plGnSYVzzXqJBb4PKjakSqJ+haZK6b+odOEuM6EzhGF7TCHOb0Y5wXBF/SMUdlqQDc=;L0z+MKsROO8ddA1/zTPNcQ=="
+secured: "z2tzQgSz4V/OIulBK9mGyj1a7jxDT4ygJ2vLhnLhAbkBj92XvN7NihMvY3zgRxoA4IyeDfPbfi39E97LymFRe5g+fNSVex+di4tuUOnj2mrcKuyNTcWWrVft8Qkc782oB/jK5i98G2QkWN8xpPtmq2HJeDgYNVcU3N9S0/CBRP3ZBWfxrosc9DcGgt34NY8DcxaYWNmppwpyj9Fxon9eLLosajWVJzgkdP3N74Qc6W7E0ShDqgbOYsm8SESo98zYvfOFn/nwJXLmc2jxXAg2K/1InCQ0NH+ySe2TEqJKHPLTnulz5gS9KT1MT44ebVSfnH7pUNxU2YdqltixENkh0rPQ/FSNHVVxDprEAiMEfh4=;eHXps95KLs5J6CzXfTHwxw=="
 ---
 

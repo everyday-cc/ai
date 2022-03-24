@@ -190,6 +190,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud"
+    excerpt: "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud GPU flexibility for companies using NVIDIA GPUs in the cloud."
+    publishedDateTime: 2022-03-24T19:23:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220324LN03235/runai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any-cloud/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 42
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
   - title: "Nvidia reveals new Hopper H100 GPU, with 80 billion transistors"
     excerpt: "Nvidia has announced a new GPU based on its upcoming Hopper architecture. The Hopper architecture replaces Ampere, which has more than $10 billion sales to date. The H100 GPU is the first chip based on Hopper,"
     publishedDateTime: 2022-03-23T09:59:00Z
@@ -246,6 +260,6 @@ related:
       domain: morningstar.com
     quality: 22
 
-secured: "m81DUreeuYMuoHHqMdCCIgm+zyQA+TEpEYjGwA1FFMdOfWDQBQ+hQsUJ+eJLxyhTNmN8/Yff3TRDV4pDZhBPe0596tKQtNvptMqcWaWJKU16Qgzqjh6BF7B4BQbKdSX7DzeFNoLN85NGSmrJmLtj9oIRwWTrxXFBDFenX/hn2whgoEqxTOWlqMkchoyLdXOPL1SzRlEf2HID3A+rpniJtIrwVue2ce7usMhD36GoCi4ONiaLKdXL4HA4TluH2qX/inKuUwCu2iBxHdAmN3Z1iytVWlzVijB6UEncCv7Q92SH8l5Db/STGnCxpVrv8EAtK1KqO33Tyk1FoailNav/lOT3IXfuzz/fh+h4xXRhyQU=;90dU5gP8PYKizXRCRACrRw=="
+secured: "Sg4t+SjHpPikblv5BuLy88Xqau/Tk9GlZRHLhofhi1S/L5LoTIER+fnNSAp9fqk2fXBXDm4f4G7e7IO/YkeUQcNJwnt9Iv2BeRJ4CaEZDrkckaNDBXZ6OBZ8E/nn+aziTxGXj1sZqgJfBhwXaTTwrloKGiNolek+wpxAqNnQPdue1MCazxy+cEGeHtZwcQgVTHa7oc15UOVFk57Oh2xQzkNh2Y16kttADPMGQgGU5HyfnfkxfH+9cQHhN1EEYrSJNYmZXS6bszFzWfkqUkE6yEJDfbwdTgvgjCfODose7feZKX6Uk1zQzM+FtGdkc292vGpe3kO5yq8OztH0iGdjeqt2T3X2mS+NynkHH6NXriEI1CY8ob3k8uGG23bgF1qOpbTRU7p2iJR+VyALQKcZZQ8cVirIhU3dUQkQFWPns10mETYrrn96JS8//f79wFTV8wCyi98eufatjJZl16pZRLP+eE4R1RzpqlKTJCOLyxQIaFqNu4wLld5mXdQFvbGo8VMQ+d0LdlfCHp1Svmx5lA==;SFz1CdFDso0P5GGS+wpq/g=="
 ---
 

@@ -2,21 +2,73 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-03-24-sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research.md",
-      "title": "SAS and Clemson University deploy AI and machine learning software for education and research",
-      "excerpt": "Clemson students and faculty will have access to powerful data science and analytics software from SAS thanks to a new, $3.3 million donation to support teaching and academic research. Extending a 2017 partnership,",
+      "path": "_news/2022-03-25-digits-aims-to-disrupt-fintech-with-real-time-analytics.md",
+      "title": "Digits aims to disrupt fintech with real-time analytics",
+      "excerpt": "Digits, a leading fintech platform, announced today that it has raised a series C funding round led by SoftBank, with participation from Benchmark and GV, reportedly bringing total funds raised to $97.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm",
+      "webUrl": "https://venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/",
+      "originalUrl": "https://venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 169,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1772498/Watt_Center_Clemson.jpg",
-          "width": 400,
-          "height": 266,
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1180543360.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/amp/",
+      "publishedDateTime": "2022-03-24T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-vulnerabilities-arise-in-financial-services-as-ai-and-machine-learning-use-balloons.md",
+      "title": "Vulnerabilities arise in financial services as AI and machine learning use balloons",
+      "excerpt": "The scale at which financial services firms are adopting artificial intelligence and machine learning continues to grow, bringing with it new dimensions of risk",
+      "sourceUrl": null,
+      "webUrl": "https://www.risk.net/market-access/technology-and-data/7942636/vulnerabilities-arise-in-financial-services-as-ai-use-balloons",
+      "originalUrl": "https://www.risk.net/market-access/technology-and-data/7942636/vulnerabilities-arise-in-financial-services-as-ai-use-balloons",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.risk.net/sites/risk/files/styles/metatag_image/public/2022-03/GettyImages-1084580876.jpg?itok=_os7FtmX",
+          "width": 378,
+          "height": 234,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +78,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T08:51:00-07:00",
+      "publishedDateTime": "2022-03-24T10:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Risk",
+        "domain": "risk.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -42,8 +94,7 @@
       "topics": [
         "AI in Finance",
         "AI",
-        "Machine Learning",
-        "AI in Education"
+        "Machine Learning"
       ]
     },
     {
@@ -97,49 +148,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-how-ai-helps-traditional-banks-compete-against-modern-fintech-and-digital-competitors.md",
-      "title": "How AI Helps Traditional Banks Compete Against Modern FinTech and Digital Competitors",
-      "excerpt": "By Sri Ambati, CEO & Co-founder of H2O.ai AI is becoming an essential technology for the financial services and banking sector as it can help keep organizations stay a step ahead of ever-evolving challenges in meeting customer demands,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/how-ai-helps-traditional-banks-compete-against-modern-fintech-and-digital-competitors/",
-      "originalUrl": "https://www.globalbankingandfinance.com/how-ai-helps-traditional-banks-compete-against-modern-fintech-and-digital-competitors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/iStock-1165067636.jpg",
-          "width": 750,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/how-ai-helps-traditional-banks-compete-against-modern-fintech-and-digital-competitors/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-ai-helps-traditional-banks-compete-against-modern-fintech-and-digital-competitors/",
-      "publishedDateTime": "2022-03-22T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     },
     {

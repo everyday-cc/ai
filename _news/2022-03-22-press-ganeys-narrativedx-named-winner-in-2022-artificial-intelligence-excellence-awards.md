@@ -146,19 +146,19 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Qlik's Elif Tutuk Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that Elif Tutuk, Vice President of Innovation and Design at Qlik®, was named a winner in its Artificial Intelligence Excellence Awards program . Her work leads the charge to blend AI into analytics to further the AI/human interaction with data while striving to eliminate bias,"
-    publishedDateTime: 2022-03-24T15:43:00Z
-    webUrl: "https://menafn.com/1103906785/Qliks-Elif-Tutuk-Named-Winner-in-2022-Artificial-Intelligence-Excellence-Awards"
+  - title: "Qlik’s Elif Tutuk Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Elif Tutuk, Vice President of Innovation and Design at Qlik®, was named a winner in its"
+    publishedDateTime: 2022-03-24T12:31:00Z
+    webUrl: "https://www.kentuckytoday.com/news/business/qlik-s-elif-tutuk-named-winner-in-2022-artificial-intelligence-excellence-awards/article_ffd0e99d-89bd-5ce3-b8d9-e08e8628db8e.html"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Kentucky Today
+      domain: kentuckytoday.com
     quality: 34
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?868304"
-        width: 422
-        height: 249
+      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "U/KEYTqJ+SFaeLmiFP9EfWcQIq+HhkosBEatiX8NgLPKpvaiP5fbSHntP6jgGPYR/DuV16uNbH2PpJGoTuPL8CmEE+ixE5rTj/iExJjcUAXPF8wSQnDQPaQozIkogb97AC0Js3kv64NuBxmVtv0Msdf1cghm1BKlNp6PaSgJyy9WG1dB/33CpODK0FKmHItvtr/aTr/0M77SSIFWrPIxgpAhMpfDnsJoggB2NQvkhjZu6CRK3hdVLEauMh9Gzf2UUeX6wCdPYz0VuoJr7uB/8awVCFCIdtM/YVKdD6uyABtqrvaH41wyPH+0cAmupEZ3NdkullRK1niBkjNhPAmbeN80nKTr709CHupVEuoNWHSnOFVNliiG1YEOitBvT1L6zM0eX61o6EfKCSdqKHZ4wjFuNU7bFcmxSTm2Q5UJD/uEZCIVSN6onrYCVcYDyFaauvAb/62qyOs6PBEDBPKMREGKUvZJ+hT1X7iMmQdO+X8aDuOHrOoSziH2MKTYkcWVGSNqcQv5iSLNTBJoQwv50w==;Vyx9XejTRn042kaDy/h7uQ=="

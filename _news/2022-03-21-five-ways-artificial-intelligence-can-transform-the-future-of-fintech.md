@@ -25,112 +25,124 @@ images:
     isCached: true
 
 related:
-  - title: "Diversity Is Key To The Future Of AI"
-    excerpt: "Personally, I felt this film sparked an incredibly important conversation for the technology sector: it urgently needs diverse and underrepresented backgrounds to contribute to the development of AI and ML."
-    publishedDateTime: 2022-03-24T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/amp/"
+  - title: "Digits aims to disrupt fintech with real-time analytics"
+    excerpt: "Digits, a leading fintech platform, announced today that it has raised a series C funding round led by SoftBank, with participation from Benchmark and GV, reportedly bringing total funds raised to $97."
+    publishedDateTime: 2022-03-24T18:54:00Z
+    webUrl: "https://venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/"
+    ampWebUrl: "https://venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/623b68a3912723ed0abcdd19/0x0.jpg?format=jpg&width=1200&fit=bounds"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1180543360.jpg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 692
         isCached: true
-  - title: "Artificial Intuition is the Next Phase of Artificial Intelligence"
-    excerpt: "This reduces the problem-solving power of artificial intelligence in dealing with new events. There is no denying that AI has made it easier for humans to predict the future. But, dealing with future events,"
-    publishedDateTime: 2022-03-23T17:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/420776"
+  - title: "How To Eliminate Ethical Bias From Machine Learning And Data Analytics"
+    excerpt: "Julien Alteirac, Regional Vice President of UK&I at Snowflake explores... Over the next few years the increasing availability of tools such as AutoML will help democratise machine learning (ML) and em"
+    publishedDateTime: 2022-03-24T09:35:00Z
+    webUrl: "https://techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/"
+    ampWebUrl: "https://techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
+      name: TechRound
+      domain: techround.co.uk
+    quality: 76
+    images:
+      - url: "https://techround.co.uk/wp-content/uploads/2022/03/possessed-photography-jIBMSMs4_kA-unsplash.jpg"
+        width: 2400
+        height: 1727
+        isCached: true
+  - title: "How AI Helps Traditional Banks Compete Against Modern FinTech and Digital Competitors"
+    excerpt: "By Sri Ambati, CEO & Co-founder of H2O.ai AI is becoming an essential technology for the financial services and banking sector as it can help keep organizations stay a step ahead of ever-evolving challenges in meeting customer demands,"
+    publishedDateTime: 2022-03-22T22:01:00Z
+    webUrl: "https://www.globalbankingandfinance.com/how-ai-helps-traditional-banks-compete-against-modern-fintech-and-digital-competitors/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/how-ai-helps-traditional-banks-compete-against-modern-fintech-and-digital-competitors/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-ai-helps-traditional-banks-compete-against-modern-fintech-and-digital-competitors/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
     quality: 67
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1647376951-GettyImages-1327016094copy.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "How Is Artificial Intelligence Shaping The Future Of Work?"
-    excerpt: "AI is shaping the future of work in many ways, from the creation of brand new jobs to introducing robot colleagues into the workplace"
-    publishedDateTime: 2022-03-21T11:41:00Z
-    webUrl: "https://www.businessbecause.com/news/insights/8097/ai-future-of-work?sponsored"
-    ampWebUrl: "https://amp.businessbecause.com/news/insights/8097/ai-future-of-work?sponsored="
-    cdnAmpWebUrl: "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/insights/8097/ai-future-of-work?sponsored="
-    type: article
-    provider:
-      name: Business Because
-      domain: businessbecause.com
-    quality: 61
-    images:
-      - url: "https://www.businessbecause.com/uploads/default/news/images/1647346299.png"
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/iStock-1165067636.jpg"
         width: 750
-        height: 468
+        height: 333
         isCached: true
-  - title: "Do you think AI will be a psychologist for humans in the future?"
-    excerpt: "Artificial intelligence (AI) is influencing the future of numerous sectors, including psychology. Will AI, on the other hand, completely replace psychologists? Will AI help psychologists and their patients come up with long-term,"
-    publishedDateTime: 2022-03-23T07:38:00Z
-    webUrl: "https://www.linkedin.com/pulse/do-you-think-ai-psychologist-humans-future-sitaram-sharma"
+  - title: "IAIDL To Compete as AIMA Tool Among Big Industry Names in the Peacock Fintech and Banks Award"
+    excerpt: "Bringing its best foot forward, the International AI Driving Licence (IAIDL) is set to compete against PWC, Mckinsey, and other renowned international"
+    publishedDateTime: 2022-03-22T01:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 43
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Dragonfruit Frontier, a new Cloud VMS with AI analytics"
+    excerpt: "Frontier enables secure management of hundreds of locations from a single browser with no additional hardware costs"
+    publishedDateTime: 2022-03-24T13:28:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-management-software-vms/product/21261608/dragonfruit-ai-dragonfruit-frontier-a-new-cloud-vms-with-ai-analytics"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
     quality: 39
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGwZuM9KUpjdg/article-cover_image-shrink_720_1280/0/1648018324120?e=1653523200&v=beta&t=yXTDqQhvvGpfOi59QaQjqR9xN-AxhMTFqPV_kcVbmb8"
-        width: 1280
-        height: 630
-        isCached: true
-  - title: "Transparency is key to encourage wider adoption of artificial intelligence"
-    excerpt: "In this Q&A, Jeffrey Sullivan, chief technology officer for Consensus Cloud Solutions, shares how artificial intelligence is positively impacting the healthcare industry, how leaders should integrate AI solutions and what to look for in a partner."
-    publishedDateTime: 2022-03-21T05:01:00Z
-    webUrl: "https://www.modernhealthcare.com/technology/transparency-key-encourage-wider-adoption-artificial-intelligence"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 37
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/1200x630/public/Jeffrey%20Sullivan%20img-leader-04%402x-600x424.png"
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/03/Dragonfruit_Frontier.623c6e6b6c4e6.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
         isCached: true
-  - title: "Overcoming the C-Suite’s Distrust of AI"
-    excerpt: "Business leaders are often comfortable using AI for tactical purposes — but aren’t yet ready to bring it into strategic decision-making."
-    publishedDateTime: 2022-03-23T12:25:00Z
-    webUrl: "https://hbr.org/2022/03/overcoming-the-c-suites-distrust-of-ai"
+  - title: "Theia Analytics Group Closes $1M Angel Round"
+    excerpt: "With private investors aboard, TAG accelerates its development of the world’s first governance-focused intelligence engine for solving governance challenges plaguing global fiduciaries WASHINGTON, March 23,"
+    publishedDateTime: 2022-03-23T12:18:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-3541b1447ee1dc2e94125a1eb4d4494e"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
     images:
-      - url: "https://hbr.org/resources/images/article_assets/2022/03/Mar22_23_1194303334.jpg"
-        width: 1200
-        height: 675
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Back to the future: driverless cars become reality"
-    excerpt: "One industry insider said the relaxed rules in US states including California and Nevada, which was the first to allow driverless cars on its roads in 2011, has also played an important role in propelling the growth of domestic players."
-    publishedDateTime: 2022-03-22T19:10:00Z
-    webUrl: "https://www.ft.com/content/464c32a1-e0b7-4b55-b7fc-3f5e2873a6b9"
+  - title: "TIFIN Announces the Expansion of its Fintech Platform for Personalized Charitable Giving to Democratize Access to Donor Advised Funds"
+    excerpt: "and NEW YORK, March 22, 2022 /PRNewswire/ -- TIFIN, a fintech platform using AI for wealth and asset management, announced the expansion of its giving platform, Louise by TIFIN. Louise provides a ..."
+    publishedDateTime: 2022-03-22T12:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tifin-announces-the-expansion-of-its-fintech-platform-for-personalized-charitable-giving-to-democratize-access-to-donor-advised-funds-1031298219"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
-  - title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
-    excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),"
-    publishedDateTime: 2022-03-23T10:05:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 23
+    images:
+      - url: "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "PLUS3 IT SYSTEMS TO EXPAND DATA ANALYTICS AND ARTIFICIAL INTELLIGENCE CAPABILITIES WITH JOINT ARTIFICIAL INTELLIGENCE CENTER AWARD"
+    excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial"
+    publishedDateTime: 2022-03-24T12:50:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence/article_2d4a8a12-262e-52dd-af5b-a24bcacffdff.html"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 14
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 7
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "17XWa/92BlElFFgGtorYEtykGlgqwc0um/cuOLeJg99STfvx56gVQPhPErU5/vRqMJKD49CUyV2qhogedbgZaQ81wfMtj8i2eQIm+KPxfoeceT3Maqbg6/wH1QITpNJ+kvJykQRMgEeT8A2yJLc9+QfHZlZyOhFPLL/7PGQepTjSMVJltu2LLHbMpP961HflQ0k8MgNakimOS/EfoiThQDhPqNzo8IhSSCHySox5qWGK+2GB8vKsr9AopVBorSLjnEPnlUSJV7ZiABx1PBEwvtbkimbb8UgnlVPHA9seJfCChsqECIs85mozJHJQt6zmOh64h6NqnYj0mv2AK16Vf/Mx3dYLNRnQuqOXP0zdAWres4RPGRZtIBksehvT6CBBkfFGUmb0NbCbqoIAAQczvqIzdy0oM/e807q75p9dsWmLtiL31gMiaP02NOo6WNUSt4X3KC7RvTZ9O9DWJ/7FP1PQgol000oBH59nySimMTTWnPdq3QDUPhBdqP/OhYYXefsrxjJEINdsLezxnBJKHQ==;+GN3d4IhX1zOh+1cNuwUGw=="
 ---

@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Helps Traditional Banks Compete Against Modern FinTech and Digital Competitors"
-    excerpt: "By Sri Ambati, CEO & Co-founder of H2O.ai AI is becoming an essential technology for the financial services and banking sector as it can help keep organizations stay a step ahead of ever-evolving challenges in meeting customer demands,"
-    publishedDateTime: 2022-03-22T22:01:00Z
-    webUrl: "https://www.globalbankingandfinance.com/how-ai-helps-traditional-banks-compete-against-modern-fintech-and-digital-competitors/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/how-ai-helps-traditional-banks-compete-against-modern-fintech-and-digital-competitors/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-ai-helps-traditional-banks-compete-against-modern-fintech-and-digital-competitors/"
+  - title: "Future watch: The future is fintech"
+    excerpt: "Learn how industry leaders make innovation happen in their changing markets, and where these transformations will take us next."
+    publishedDateTime: 2022-03-24T14:01:00Z
+    webUrl: "https://www.fastcompany.com/90734036/future-watch-the-future-is-fintech"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 67
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 24
     images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/iStock-1165067636.jpg"
-        width: 750
-        height: 333
-        isCached: true
-  - title: "IAIDL To Compete as AIMA Tool Among Big Industry Names in the Peacock Fintech and Banks Award"
-    excerpt: "Bringing its best foot forward, the International AI Driving Licence (IAIDL) is set to compete against PWC, Mckinsey, and other renowned international"
-    publishedDateTime: 2022-03-22T01:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 43
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/03/The-future-is-fintech.png"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Boost, a regional FinTech firm, becomes first fully digital financier to secure investment grade A1 rating in Southeast Asia"
     excerpt: "Boost looking to tap on burgeoning digital banking ecosystem within the Southeast Asian region A1 rating for its Malaysian securitised receivables cements firm's commitment towards the underserved segment securitizes financing portfolio;"

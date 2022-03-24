@@ -59,6 +59,20 @@ related:
         width: 1000
         height: 749
         isCached: true
+  - title: "Massachusetts panel says use of facial recognition should be restricted to state police"
+    excerpt: "The special commission's report also expressed marked concern about the use of facial recognition by other government functions."
+    publishedDateTime: 2022-03-24T19:12:00Z
+    webUrl: "https://www.biometricupdate.com/202203/massachusetts-panel-says-use-of-facial-recognition-should-be-restricted-to-state-police"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "lDDAM052Zg5MpEP8iPr4V5f/89Qlh5K92I3F+qDFJaVdwg+aMHUwAwNhIEHjX0NE9Dnk8/glHdF788lh1ymhmeY8tf/RHsYnHQCDQX3/qDEHwCITMBa3Mhv8k9j4nBGA5FnqrlTbiVC4aZd+lnaIxI7drrGr1SR8mJqeXRPmX8MrR4E+8I08dmmhRWkEffqx/eNxzKEC4/CHnTcG5bX5bzzGFBTSyFPl3vfI4vEna7eBW5BOEpqdRKXHMUrvPydsgkhzyOgybeFdqJpdhKdc393scDVC1KJACp/zMyYlsWX3+w6FkpEbkWZf/bfSS3j0huuO8577ML/ffL8CseI3KJcb+optRnGUWIdrBSHCAVyiU5f44X5NwSJaFk+0lsYCdnjsPJ9odUGf9cUG5atSyvfKeRPnYqfQpy0Sx9yY5KGrINx1dB6kRE8bpyjb5R69n7U0ukvDm8ZKeA9+3WYGSX2bTk7zDcFDMAVpcfRCmBgrNGiVrHfbsP50t+WRYrBodEpFNFsZ52Ir1AcLu23LvA==;8/pXM3mANLZrt6lChfMhcQ=="
 ---

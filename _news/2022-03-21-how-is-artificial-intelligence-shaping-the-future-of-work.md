@@ -58,20 +58,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Five Ways Artificial Intelligence Can Transform The Future Of Fintech"
-    excerpt: "In the financial business, artificial intelligence has a bright future. It can assist the companies in various ways, including increasing"
-    publishedDateTime: 2022-03-21T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/five-ways-artificial-intelligence-can-transform-the-future-of-fintech-nid-9525.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/bnb5cioeuro450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
   - title: "Do you think AI will be a psychologist for humans in the future?"
     excerpt: "Artificial intelligence (AI) is influencing the future of numerous sectors, including psychology. Will AI, on the other hand, completely replace psychologists? Will AI help psychologists and their patients come up with long-term,"
     publishedDateTime: 2022-03-23T07:38:00Z
@@ -114,6 +100,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
+    excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),"
+    publishedDateTime: 2022-03-23T10:10:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Back to the future: driverless cars become reality"
     excerpt: "One industry insider said the relaxed rules in US states including California and Nevada, which was the first to allow driverless cars on its roads in 2011, has also played an important role in propelling the growth of domestic players."
     publishedDateTime: 2022-03-22T19:10:00Z
@@ -123,15 +123,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
-  - title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
-    excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),"
-    publishedDateTime: 2022-03-23T10:05:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 14
 
 secured: "u5TRu+9fYTGN+a7vkNoJFY7OzaWM68s4ziLL8dICKlFY9OFuv/vIEieXBdN5o779j/WbFPB79jpm1R6U4P/UBYCNB1eUfmmRPHtTkZvg5SQcNT727KS/a76DC1iIt0ovclYzENC4fYfrw3VcTvWZne0F1dAKhLB9oMJZVs11naQXShQuaOertGVrbrg1yqgwVSsmtiFTfTn9NZFjlFM7LMozK+1L1hmc4JjJJe5iW3up7acTBxLWHeYSNO2lWQ2dCXmGVemOIGSHCMl6KRPLvdJPSmbHgRmfY2rXZy4yB3NPoiOpeIVseVFOpauohV7dV6np3mZd48+tYK/hHHkR6C3IfEuWd2mo7lSwwiFsvEY8S2jIZqa3UYmnZC7yBVW1d2injVgjzGYwml+8LzgIXRXj6rv3qYa5ApFPVtEVXZDjmERp1JpQBxjihr6Ch23Z3VTamc1z1okWs0eiO8bFJqtMdCl3dq2a0gmBjcjbv3Ic9sjAakxeGIH6ZzqX92tQ+NJEGOvLrIS86/NkFaQyBA==;TuE8QA8Z5oKrdls25n3p7g=="
 ---

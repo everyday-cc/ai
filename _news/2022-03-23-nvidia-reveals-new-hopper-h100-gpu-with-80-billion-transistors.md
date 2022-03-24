@@ -200,6 +200,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud"
+    excerpt: "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud GPU flexibility for companies using NVIDIA GPUs in the cloud."
+    publishedDateTime: 2022-03-24T19:23:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220324LN03235/runai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any-cloud/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 42
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
   - title: "Nvidia Unveils Hopper H100 Data Center GPU"
     excerpt: "The replacement for Ampere has finally arrived, although gamers will still have to wait until the end of the year to see what Nvidia has in store for them."
     publishedDateTime: 2022-03-23T14:34:00Z

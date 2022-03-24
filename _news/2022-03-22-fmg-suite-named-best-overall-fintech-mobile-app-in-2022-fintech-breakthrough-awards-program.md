@@ -1,40 +1,57 @@
 ---
 category: news
 title: "FMG Suite Named \"Best Overall FinTech Mobile App\" in 2022 FinTech Breakthrough Awards Program"
-excerpt: "FMG Suite, a SaaS company specializing in marketing software and services for financial advisors and insurance agents, today announced that it has been named \"Best Overall FinTech Mobile App\" in the sixth annual FinTech Breakthrough Awards program conducted by FinTech Breakthrough,"
-publishedDateTime: 2022-03-22T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program/article_e7c33434-e531-532a-8883-6f3cfb3de93f.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program/article_e7c33434-e531-532a-8883-6f3cfb3de93f.html"
+excerpt: "Prestigious International Awards Recognize Outstanding Financial Technology Products And CompaniesSAN DIEGO, March 22, 2022 /PRNewswire/ -- FMG"
+publishedDateTime: 2022-03-22T13:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program-1031298260"
+webUrl: "https://markets.businessinsider.com/news/stocks/fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program-1031298260"
 type: article
-quality: 13
-heat: 13
+quality: 23
+heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
-    isCached: true
-
 related:
-  - title: "Vancouver biotech announces machine-learning 'breakthrough'"
-    excerpt: "Absci Corp. (Nasdaq: ABSI) announced Tuesday what the synthetic biology company is calling a breakthrough in machine-learning for designing novel therapeutic antibodies. Absci said the announcement marks a big step forward in its progress toward a fully computer-based machine learning pipeline for protein-based drug discovery,"
-    publishedDateTime: 2022-03-22T17:19:00Z
-    webUrl: "https://www.bizjournals.com/portland/news/2022/03/22/absci-machine-learning-drug-discovery.html"
+  - title: "Aidentified Recognized for Artificial Intelligence Innovation in 2022 Data Breakthrough Awards Program"
+    excerpt: "Prestigious International Awards Program Honors Outstanding Data Technology Products and CompaniesBOSTON, March 24, 2022 /PRNewswire/ --"
+    publishedDateTime: 2022-03-24T13:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aidentified-recognized-for-artificial-intelligence-innovation-in-2022-data-breakthrough-awards-program-1031305163"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://mma.prnewswire.com/media/1773223/LinkedIn_Data_Breakthrough_Award_Badge_2022_AIdentified.jpg"
+        width: 400
+        height: 209
+        isCached: true
+  - title: "Nucleus Commercial Finance Wins \"Business Lending Innovation Award\" in 2022 FinTech Breakthrough Awards Program"
+    excerpt: "FinTech Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in the global FinTech market, today announced that"
+    publishedDateTime: 2022-03-22T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nucleus-commercial-finance-wins-business-lending-innovation-award-in-2022-fintech-breakthrough-awards-program/article_5d7a02ca-b3b1-5c0b-bcd0-effc267fa53e.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 19
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
-secured: "mmuTAqRljaLE8fnik4oFqf1MefHkif5j+SUyDC5DYjKK5lj7IVJywYO69OALcw+iw8aX3NZz1+sgeMu+pBKrd3q/4Gy2OE7xYlmBAyDU3zXBzNNZaecXVluANNogqCn1AStRHh/z5wrfaV1sRw3VkS6KNIaL8dPcSy4SzWQHZGoX2yPFBtjlkbXRPtALK2Xle838N0upi32Ap0S3D3UtBc2G1Aq6AVMegoME6r8c9jhgfl3twAEXDBX9mM7DNbM6sRiAZFVREBE+CuOj96Z9m1IoF5RcN8aNz0U8IS+GoB+s5ujfuCCXksQtoUq9QDXe6WWET3sXI9AlBO9lfFg3+sDp0KDV7Z5L2Itf5dYqhrHoOCf7AJFQzyIf0v0902Lb3rMGK2W0bWRvK1mS8kAakMd+ZPQ8imsdiKypNl7H/rrxdvfxzQgNTwgXnzi3cXWN7mT/un9tfvksXdL9ivi8TpE75ydxUqGlJUNv8f8cE3IclO0RNrd0CIAedyUWgIUr5MJHBDhE89PoGXdWKqCDZg==;4uV+9n5NbV+YEBMJSBtlVg=="
+secured: "hfqTezu9fOV/Sty0VgXB+4nkbADca755CfslPTwVH3M0x5zOI7hMaSJsG7UOz9Jbvat1rUBlkoItwiHw+q0mRHg7byTyttIYqZA0eMv4/HOT5xpnr4r0zkmRYF7oLjcWNdz1badwFUyVGyRN7/5qqL93+Zt7zKGff679ae9VdortntQ9/TTqlxPH3/VZhPV6axz+Atsa2DxYIUuR8Nw/jkz0P4H0XV0VCPiGXOYVDUnpp9jWFtv5gItGyyzqrPMoeEh1qBx6p6xjrXX/9jaGZnxq1eG4E9Ne7I6TxYia1XFQ69+1Jw1xAySEv4SeH0xCqHsjLZQ+UyIBmZEiSwNH/WUd7M3w97OZT6A/marSx+E=;lLjwovSFalvwdizGM881Nw=="
 ---
 

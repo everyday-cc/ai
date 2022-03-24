@@ -35,6 +35,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 69
+  - title: "Toby Lewis of Darktrace on Enhancing Cybersecurity With AI"
+    excerpt: "Automated tools may be the solution to escalating cyberattacks, says Darktrace's global head of threat analysis, but successful implementation requires trust."
+    publishedDateTime: 2022-03-24T19:24:00Z
+    webUrl: "https://www.darkreading.com/tech-talks/toby-lewis-of-darktrace-on-enhancing-cybersecurity-with-ai"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 37
+    images:
+      - url: "https://beta.darkreading.com/images/og-image.jpg"
+        width: 342
+        height: 342
+        isCached: true
   - title: "C3.ai Digital Transformation Institute Announces Research Awards for AI to Transform Cybersecurity and Secure Critical Infrastructure"
     excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the third round of C3.ai DTI funded advanced research awards, focused on using artificial intelligence (AI) to harden information security and secure critical infrastructure."
     publishedDateTime: 2022-03-24T10:02:00Z

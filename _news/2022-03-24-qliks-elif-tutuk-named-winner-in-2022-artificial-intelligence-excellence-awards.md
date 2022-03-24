@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Qlik's Elif Tutuk Named Winner in 2022 Artificial Intelligence Excellence Awards"
-excerpt: "The Business Intelligence Group today announced that Elif Tutuk, Vice President of Innovation and Design at Qlik®, was named a winner in its Artificial Intelligence Excellence Awards program . Her work leads the charge to blend AI into analytics to further the AI/human interaction with data while striving to eliminate bias,"
-publishedDateTime: 2022-03-24T15:43:00Z
-originalUrl: "https://menafn.com/1103906785/Qliks-Elif-Tutuk-Named-Winner-in-2022-Artificial-Intelligence-Excellence-Awards"
-webUrl: "https://menafn.com/1103906785/Qliks-Elif-Tutuk-Named-Winner-in-2022-Artificial-Intelligence-Excellence-Awards"
+title: "Qlik’s Elif Tutuk Named Winner in 2022 Artificial Intelligence Excellence Awards"
+excerpt: "The Business Intelligence Group today announced that Elif Tutuk, Vice President of Innovation and Design at Qlik®, was named a winner in its"
+publishedDateTime: 2022-03-24T12:31:00Z
+originalUrl: "https://www.kentuckytoday.com/news/business/qlik-s-elif-tutuk-named-winner-in-2022-artificial-intelligence-excellence-awards/article_ffd0e99d-89bd-5ce3-b8d9-e08e8628db8e.html"
+webUrl: "https://www.kentuckytoday.com/news/business/qlik-s-elif-tutuk-named-winner-in-2022-artificial-intelligence-excellence-awards/article_ffd0e99d-89bd-5ce3-b8d9-e08e8628db8e.html"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Kentucky Today
+  domain: kentuckytoday.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?868304"
-    width: 422
-    height: 249
+  - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -161,6 +161,6 @@ related:
         height: 325
         isCached: true
 
-secured: "ZQL3XtCjSpjmYYiuvFDD7/RIMw9AsNrhvOzXRwKwwdX5cSc6GIM/7M1GGDF/NBUjUR72cl3VN7ZDTSaWFwdXKrJS/GhrI6lZiDMUZn7iAf/m6dXyAXVbmvJif+nIWeGTqOMwiRo+3DFVST4nyjbRL/xR6+8ryr7xhGxnJcpZ1qYSB96jWMCCREt4kRTA0hD8oC5N1EoOqg4c8aAiaMep5S2vsLYyudf3WbIDC39c/SiTzzt/ets58lBAwOofqr4hfD7vr01gmBjTMujQ3VKWj4iZTT+9DCEhQY8v1dPlKn66lZMXBlJnogVBEbjuvsR6Oqloeb6Jv9wvJiHYQCk9QeA8xO+j3BfRluNHx/YnOdM=;SFYzdHT+v9fyrdmBENY8BA=="
+secured: "ZHJkZzlv7TAu7Pd9pe2kLFu2Dvv+0XJRkzkB/raTF/6+3m36XHFim3v4k3jOAKI06F+SgBiX/e8gOiA7aQLvw7vwogdsvaOW7w56bdh9fpEs/3OA3UJDw3NYDGwDApJAIypSIBEZACRXWNhXGPnlVWeZcFuOtNp+LWCCnm2XFiemxDe8gSBPoMadqElilbV4x2eeEAUBV4aEbrWdZ8HednQnkKkhU/gINULko61xSRjr6EkHJMDFdSyaq45Gc+mGu5i/WvtpuWPCa17EtnidlKSDur0LAsStFeCzsID8tfs0z/IPPHmG26/x4j87lNuTlk/9K0F93jBb0PtCJytXlixKSErigy3SgitF4ul8viY=;m13ydyA/2I6F+r+f1rMmmQ=="
 ---
 
