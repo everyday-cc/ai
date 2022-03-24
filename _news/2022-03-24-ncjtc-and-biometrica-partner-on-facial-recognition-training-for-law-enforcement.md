@@ -41,6 +41,17 @@ related:
         width: 1700
         height: 1133
         isCached: true
+  - title: "Rethinking the rules around facial recognition technology"
+    excerpt: "Right now, at least nine law enforcement offices and departments in Massachusetts use it, as well as offices of some federal agencies, drawing mostly on an RMV database and FBI resources. But there's very little oversight in how facial recognition technology is used in law enforcement."
+    publishedDateTime: 2022-03-23T19:30:00Z
+    webUrl: "https://www.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
+    ampWebUrl: "https://amp.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 39
   - title: "Facial Recognition Tech is Controversial Yet Key Piece of Federal Biometrics Strategy"
     excerpt: "Biometric data and technologies are being deployed within multiple federal agencies to boost the accuracy of identity verification and free up human decision makers for other, more complex and cognitive tasks,"
     publishedDateTime: 2022-03-22T09:46:00Z

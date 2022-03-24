@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Breyer Capital Backs Quantum AI Startup, Sandbox AQ"
-excerpt: "Hidary, the inspiration for Sandbox AQ and some of its team began at Alphabet Inc. (NASDAQ: GOOG) in 2016. In 202"
+excerpt: "Breyer Capital, a premier global venture capital and private equity investor focused on catalyzing high-impact entrepreneurs, today announced an investment in Sandbox AQ, an enterprise software company delivering SaaS solutions that leverage quantum tech and AI,"
 publishedDateTime: 2022-03-22T14:03:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-texas-4e7e00b9602e4a67a7a1fbc16b682bb0"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-texas-4e7e00b9602e4a67a7a1fbc16b682bb0"
+originalUrl: "https://www.valdostadailytimes.com/news/business/breyer-capital-backs-quantum-ai-startup-sandbox-aq/article_e4d69635-abfe-5161-bc82-39d907838490.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/breyer-capital-backs-quantum-ai-startup-sandbox-aq/article_e4d69635-abfe-5161-bc82-39d907838490.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -50,6 +50,6 @@ related:
       domain: insidehpc.com
     quality: 17
 
-secured: "0kLyj6bpcJHLs1r8KQgbLLaltCRx0U8t+GqE4W1PPCfHkPbdGkiY8VbpZogJ8BGTq+EFtrCtnmX3V0NSLACcYjmR4bsTofBJXSSPA3Am/DsAw9TOJlUhvQZCXvFBamHNNKpNR3IguX09ediK0hdTnZ9WoyhT4RmTmi+W99CKyflqZx+xEhNcbMUhmbT+pUUVgFMqgZH1zYdOpRVjNJ5tBSjyZa/3w/pGBluxGUemmxS9LqQHsFyf0EaHlgKAn2X7A7PQj5c4GLSgVzRyc6hANOE6X6feIRn+Y1NKjrcJvdTMwpZx5wEwQg9mHyAlsRcPgXa4nTO3iF6DZgAUukrtMsGFl1tlvpZRzoHAayoxLvU=;lWH69P1rpaqR2CbAidlTYg=="
+secured: "vothDqQtE3A8SDMBBEoSl/33fRPXqXrrjjVx+nKyzm/tI5U8nW7lfrfGSMu0aNRcIgjeYCAn16kp0TDdXR3Sq19cLyuMhSFt9uLsSifWyKXOePuOskWzNQLkSbLTgllxlweZOdNxyUPaQXvH8pgXHe/7+aUXb89e6Vo+KuezW0neKFzpqMDqeQCasABlV5AtXoXD8J+2+7i9xATk/HEKMl/+bHXhZ7n/86I/2Zl7GGJVSjf6Ad1G1sj2RMUkIC4/VcMnuzLkATaELuWc6iYhuIJB4Et8FB42rwc0WmFMgHSJ8I3zJHyBr56KSgsGdekIZpNoAZAvLnPi+Hv7+k1SW6Xf4M+jRbsEoVJKnUSyaP0=;jwN8tRXeW6Mo+Q50mgY+kg=="
 ---
 

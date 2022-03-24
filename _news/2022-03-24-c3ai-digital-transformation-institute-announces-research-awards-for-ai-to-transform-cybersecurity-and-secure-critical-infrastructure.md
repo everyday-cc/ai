@@ -2,27 +2,26 @@
 category: news
 title: "C3.ai Digital Transformation Institute Announces Research Awards for AI to Transform Cybersecurity and Secure Critical Infrastructure"
 excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the third round of C3.ai DTI funded advanced research awards, focused on using artificial intelligence (AI) to harden information security and secure critical infrastructure."
-publishedDateTime: 2022-03-24T13:00:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=636406"
-webUrl: "https://us.acrofan.com/detail.php?number=636406"
+publishedDateTime: 2022-03-24T10:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/c3-ai-digital-transformation-institute-announces-research-awards-for-ai-to-transform-cybersecurity-and-secure/article_c62e4905-e56e-57b5-b328-ff66d8277c40.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/c3-ai-digital-transformation-institute-announces-research-awards-for-ai-to-transform-cybersecurity-and-secure/article_c62e4905-e56e-57b5-b328-ff66d8277c40.html"
 type: article
-quality: 10
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
-  - AI Ethics
+  - Microsoft AI
   - AI
-  - Machine Learning
 
 images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
+  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+    width: 300
+    height: 250
     isCached: true
 
 related:
@@ -37,7 +36,21 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 69
+  - title: "AI Accelerated Research Startup Forestreet Announces First Series A Success"
+    excerpt: "Forestreet, the next generation research platform has announced a £2.75m capital investment from Guinness Ventures, advised by White Horse Capital. Forestreet has developed an automated research platform which can map every company and product in a market,"
+    publishedDateTime: 2022-03-24T16:39:00Z
+    webUrl: "https://financialit.net/news/investment/ai-accelerated-research-startup-forestreet-announces-first-series-success"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 35
+    images:
+      - url: "https://financialit.net/sites/default/files/forestreetfounderspng.png"
+        width: 657
+        height: 368
+        isCached: true
 
-secured: "oqkIY3di0JbyJYqI/DB0fKBLVROhB7gHIlHH0R1ezODzdk5waL6RLatgi1kwCLZwlBDeiWyP104KEnsRsFvwQKOjqmj7pCLfGL6qOFxqDlmJVdz+ZILlabscp/s54xEPlNdG0j+7+BMv6G6VDs/vJkGGuh1NzFj0MiOzuZb9gA7OdPqgLUQp9I8uB0OezggLXuZllkTt/E2PeMFraVtjQBIb98nThxQhTTLPPXVZjSeah+TgI+7nzxZMF/2NFxj37Z8UeYru/nthFDlOBsg8ICV0/FSQpE/kLvKBhf9vKHuU+e0/9S6quvYAsEqFGXYLS8hQYks+7Uk1fUIBbaR6DvZnkU94YeMs6X7VyZ2sPX0QYHbngBoF6yztMB1ro2vjJjj7+5N1TjHx04nf1M1Djb2ggsEFuvM0oLLaH+FnBy5K2KZsUxDiHueT8NcifIjedI4+bgaX42ny+eQKa7iuV/YLasxjMJCcXgB6WoXhIBewRJB1FQkJqgobgDqIFE7qnghyfMOkKnjL+1ZzipJWaQ==;mLXFdKdGRjhz8dsvgj2Tnw=="
+secured: "Wz5JLBrEN8nJE0vb1imKWKNnMK6x4aHGPrvzwWXtfl2CKDFooYuMygt7G/bs4nQ+g3xJtqe8XzIfa8Lj7cx6JRhbg9GtEgABB7Mweyx1+o5pkUMaT9ezL6XWqP7FAuUgJ/KhYVTPcLNaLzuvK2wQ/4PIX/jrJgDQ1i4k+GNj8O+WC8SBJohZLNMe/z7u7do/mC2r5GvPunF689nc7Y1xznzv5KEwaLr744WFIvjrk/xhMEr1GV6Ba9wCkSWSlLG50AMu1oCbloDCcxK6LF5nYiuEB0eY0pj2MDHYS23i4TB5kuIY710V6ewAxO/Xzf7tLGGNf9lBhY1YK7Pi4B7znvapRIzv41Y68mbOULDB7FI=;QnRoXjFb0cglmXO0jKTWVQ=="
 ---
 

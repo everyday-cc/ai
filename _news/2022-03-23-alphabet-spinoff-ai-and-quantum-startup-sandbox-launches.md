@@ -35,18 +35,18 @@ related:
         height: 690
         isCached: true
   - title: "Breyer Capital Backs Quantum AI Startup, Sandbox AQ"
-    excerpt: "Hidary, the inspiration for Sandbox AQ and some of its team began at Alphabet Inc. (NASDAQ: GOOG) in 2016. In 202"
+    excerpt: "Breyer Capital, a premier global venture capital and private equity investor focused on catalyzing high-impact entrepreneurs, today announced an investment in Sandbox AQ, an enterprise software company delivering SaaS solutions that leverage quantum tech and AI,"
     publishedDateTime: 2022-03-22T14:03:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-texas-4e7e00b9602e4a67a7a1fbc16b682bb0"
+    webUrl: "https://www.valdostadailytimes.com/news/business/breyer-capital-backs-quantum-ai-startup-sandbox-aq/article_e4d69635-abfe-5161-bc82-39d907838490.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "nVs2SG9o5l3WEdjoVWOmSTS1R/NSqo2G4M8tHNB5k0kFfpxdOH5UxGL6kMr35sYwau0JbOYzbX3Ic/JAnU90llAGeIcQfkxn2+FmUXUvrsRhxb7gyYs8Phjnk8NgjUt66Ys0xBDR4QdApGJn4kn1YHRQfYgDiXZYPjYzMc4NDMFS+Kg8O7hwcEhavA0axqnEwgufF/62m/sQ3nD8TAtLvzh0zHM3PWmsLjCxJe1AcUD6+1MoDMz3cEhA1GlQ/doZb5k/1hrSVVzG6Oh70y8oTQsiPg78lOSGGGBG6Ny3EZcoVWV+D/tdOwEVyOed/CrgmICY6sN19wMUn1x/XYtSQ6+PsyDjzSccauDwNVILf6U=;fNfxQN0Et4x7arrxL1G1GA=="

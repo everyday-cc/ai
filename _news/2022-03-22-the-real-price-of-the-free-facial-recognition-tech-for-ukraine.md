@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Ukraine is using facial recognition tech to identify dead Russian soldiers and inform their families"
+    excerpt: "The Ukrainian government is using facial recognition software from the controversial startup Clearview AI to identify dead Russian soldiers."
+    publishedDateTime: 2022-03-24T15:36:00Z
+    webUrl: "https://www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3"
+    ampWebUrl: "https://www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/623c81dda2e45b00195027e0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Ukraine uses facial recognition to identify dead Russian soldiers, minister says"
     excerpt: "Ukraine is using facial recognition software to identify the bodies of Russian soldiers killed in combat and to trace their families to inform them of their deaths, Ukraine's vice prime minister told Reuters."
     publishedDateTime: 2022-03-23T22:48:00Z

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Techforce.ai Raises $1.5 Million Seed Funding"
-excerpt: "To digitally enable knowledge workers with just-in-time AI and Automation \"We believe the future of work will be driven by higher cognitive ... has partnerships with Microsoft, IBM, Oracle ..."
-publishedDateTime: 2022-03-15T05:53:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html"
+excerpt: "Headquartered in Reston, VA, USA, Techforce.ai is a digital enablement company – with a vision to amplify human potential at work. It's no/low code, open and cloud-native intelligent automation technology is enabling subject matter experts to create,"
+publishedDateTime: 2022-03-15T06:24:00Z
+originalUrl: "https://www.mystateline.com/business/press-releases/cision/20220315DC92162/techforce-ai-raises-1-5-million-seed-funding/"
+webUrl: "https://www.mystateline.com/business/press-releases/cision/20220315DC92162/techforce-ai-raises-1-5-million-seed-funding/"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: WTVO
+  domain: mystateline.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://i0.wp.com/www.mystateline.com/wp-content/uploads/sites/17/2022/03/austin-wallace.jpg?w=2000&#038;ssl=1"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "yCQIEtywzvSSr/gUi9j9PYYLAhrWc1m+2owCEh7sm3kvmxAc4t3qpEyJV3LkJPrEGfodtHHyz1rTghoIuQs0td53+nEkru8fT6pYwCtPvVRTloQ3ZsDIM4+jlizXjFKkGjVDn7/uL9xqJgXK0nPMc8RBWVT7EDbZXxkTrnDLoeLR6LcJqmvvd2fd6qxBrFbkNMWN25xcw8l/sJijIPf/QZbLY8KoZ9exiqc6t4PKvmuZKaw8wvfqWUst6n5c8GqXVc7bFYkoUhf40sX+ZM1wi6+6tOEayKzhl3lxpPsAOp5dApBNlufv6iAjFUi7fqrVFTKrp/UkqZP3Tn6K1xz7BtoenDlxWHWPr8m+9GPsk5Q=;TMOzKJRz2pKrpENHZYWshg=="
+secured: "Gqe3J9pg14opAsIbv92ZY2MTViQmSFPC5GVxwMng0oQFGAe85Xj9jJmcvmJnasYUoMgbZlSm5Tnwyg08U5jwDx8oflkra4d+bnHEYEAKtbTbaUUEQKSosK5rpz99a79ay7V6pSkiXS3qM2oh5ZS0EAODtkHG3ObFvySSNA1khal7m1QIRdkyBwQMsg7xTRLOBPteymRg5fLXjB8mKlaB4VyvfRA9M8GODfDCYtfNT+4rseT2qYOeHBpZHfo2HpcfNRRj2XsBdtwDbfK0dMI9rJhjYfedMWyenmQPFbESF3T7pD4/RdwH3ommh2BByacOT78GPQFyvvL85JUV5m1CTzZ5vLM/gL3cicSG/vtLmbc=;g8AraIgWut9AeH51ZjyxIg=="
 ---
 

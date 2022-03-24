@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailydot.com/debug/university-illinois-clearview/?amp"
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/university-illinois-clearview/?amp"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     height: 1000
     isCached: true
 
-secured: "YQ4UXFeGFAgNzGkShXjI+DqaDkkDYONOoQAevTka6PntuWDf9gM7yzNy3pcFg+WH+lCqlKLEPbUY3hNPBSm0UGG3jYZF1ICpO51aXzdmpmuLI6oJRtKw5TrjUCGMNpuqqQKQeS1W7sNMsg8z698b7rZUsYiuMLo07dMbUQ9yeMm4Vmo9khZ3gUbFi/LHoNxzYrmBIPxUsM5T/rOkWIstFaQFZ6WMjEljh9a4zZWbOFHpPoiaAXPP4xRUpL3dByEHBrUlQPkks4bNrRCC/h90gHUQdec4o8VCPpSOpYXKzOR6vaLLdXRvdQTDsfki3vRuIw2HvP/29o/N1E/3sJyhEV7mOitL11CEU4NSua2wSNA=;K980IiFHPdGJ4CSzCa6q5A=="
+related:
+  - title: "Clearview AI facial recognition being used to deliver news of Russian war dead to families"
+    excerpt: "Ukraine military is matching images of Russian soldiers killed in combat to social media profiles with Clearview AI’s biometric app."
+    publishedDateTime: 2022-03-24T17:11:00Z
+    webUrl: "https://www.biometricupdate.com/202203/clearview-ai-facial-recognition-being-used-to-deliver-news-of-russian-war-dead-to-families"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 44
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/24130344/ukraine-war-zone-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
+
+secured: "zZgLDzKvGa4vtN/Eth1QPbu8CbSImv5s2GwFF39XtDVUd+OZ64I43u/aZOIoBmhT4wOVUdmagCnj+e2gnW3WVZ3kse5vFGatyk4ENSBA1aKdO+oK0Cm7ElWN3dO0hgKLVmVUUzw4K0DoMvyogwIB3fK9W/uC4MxZA8EdDJa8DKpYx2Hx3l9AdUl/XBrDUe5VYHdATQ0nsAQCsf4It4+6VzM7hq4u4+k10Jaa5x/H6Wd7UspljvNa0+qLCu94FDaHW+4eWhixRPCQCsH+GLax4PsxsvtQJjhooxV9y9bDgA5uycjvLN8Goh8jlyMrZejay5zB7uYAfI2n4l0W6o/W7zC3Y0FvCKCUUizfuR4K8TYhJaWiw1DkF8h4w9wapoE+9w5qgoDlL1qaO9XAwKuDRTr216YhufclLHGLDv1suWXimgv0PpDWmQoQBHiywCCh/lCS2UI+bbHL1RPw7cJrTcp/nKJWcleUyo0vRfdeVun2d2YHXU9RPFOaYOq7T7JZk2H8Z3c/MVOuRWECHDesGw==;pvkuaS3CQzb2a1SXnv/bkg=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-03-14-ibm-watson-lessons-for-knowledge-management.md",
+      "title": "IBM Watson: lessons for knowledge management",
+      "excerpt": "Some months ago reports appeared, especially in the American press, about the sale of IBM Watson Health by IBM. IBM Watson Health would no longer fit into the business strategy of IBM.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ibm-watson-lessons-knowledge-management-reinoud-kaasschieter",
+      "originalUrl": "https://www.linkedin.com/pulse/ibm-watson-lessons-knowledge-management-reinoud-kaasschieter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGIGFcStblS3Q/article-cover_image-shrink_720_1280/0/1647015165058?e=1653523200&v=beta&t=NIkBJKONKNTJTep9DqycpCymtaOzYR6gpPCdby3KbxU",
+          "width": 1240,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-14-ai-ethics-a-new-beginning.md",
       "title": "AI Ethics: A New Beginning",
       "excerpt": "The Institute for Ethics in AI, part of the Philosophy Faculty here at the University, brings together world-leading philosophers, and other experts in the field of the humanities, with those developing and using artificial intelligence in the arenas of academia,",
@@ -1089,49 +1141,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-c3ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-telecom-conference.md",
-      "title": "C3.ai's (AI) CEO Tom Siebel on Morgan Stanley Technology, Media & Telecom Conference",
-      "excerpt": "I’m super thrilled to have Tom Siebel, CEO of C3.ai, looking forward to having a conversation ... So the alternative to us early on would have been IBM Watson, which is now, I think, shut ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4494668-c3-ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-and-telecom-conference",
-      "originalUrl": "https://seekingalpha.com/article/4494668-c3-ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-and-telecom-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4494668-c3-ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-and-telecom-conference",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4494668-c3-ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-and-telecom-conference",
-      "publishedDateTime": "2022-03-10T17:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

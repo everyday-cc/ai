@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/23/quantum-tech-and-ai-company-sandb
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/23/quantum-tech-and-ai-company-sandbox-aq-emerges-from-alphabet/amp/"
 type: article
 quality: 86
-heat: 107
+heat: 106
 published: true
 
 provider:
@@ -31,18 +31,18 @@ images:
 
 related:
   - title: "Breyer Capital Backs Quantum AI Startup, Sandbox AQ"
-    excerpt: "Hidary, the inspiration for Sandbox AQ and some of its team began at Alphabet Inc. (NASDAQ: GOOG) in 2016. In 202"
+    excerpt: "Breyer Capital, a premier global venture capital and private equity investor focused on catalyzing high-impact entrepreneurs, today announced an investment in Sandbox AQ, an enterprise software company delivering SaaS solutions that leverage quantum tech and AI,"
     publishedDateTime: 2022-03-22T14:03:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-texas-4e7e00b9602e4a67a7a1fbc16b682bb0"
+    webUrl: "https://www.valdostadailytimes.com/news/business/breyer-capital-backs-quantum-ai-startup-sandbox-aq/article_e4d69635-abfe-5161-bc82-39d907838490.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
   - title: "Alphabet Spinoff: AI and Quantum Startup Sandbox Launches"
     excerpt: "Palo Alto, CA, March 22, 2022 – Sandbox AQ, an enterprise SaaS company delivering solutions that leverage quantum tech and AI, officially launched today and announced its investors, board chair, partners,"

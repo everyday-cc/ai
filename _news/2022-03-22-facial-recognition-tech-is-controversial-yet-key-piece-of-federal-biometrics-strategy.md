@@ -55,6 +55,17 @@ related:
         width: 1800
         height: 734
         isCached: true
+  - title: "Rethinking the rules around facial recognition technology"
+    excerpt: "Right now, at least nine law enforcement offices and departments in Massachusetts use it, as well as offices of some federal agencies, drawing mostly on an RMV database and FBI resources. But there's very little oversight in how facial recognition technology is used in law enforcement."
+    publishedDateTime: 2022-03-23T19:30:00Z
+    webUrl: "https://www.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
+    ampWebUrl: "https://amp.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 39
 
 secured: "n4XLEvjqXPMnBzLaOOZi2P4jv5AYEH5JTFwzbBTiGJqMYsQa2WYUcADqz5lLPskk22gQvVXShBCEHci8TXUPZN1JMtKu6wyacSq6tyiSewV53ejoC5Tdm/FL1a/dazu5nhK+ncpns+sfN+7voP8Zot9VF/iZg/023txtf9Yuucjo+ZQvam/o+O0gXdDGZ/2vf7tF21h/Zv7BwieNg/p9IsGxJXrMSJ+Rv9OoyKnaCzPcjllxX4KivKZDCiX8+W1JWT9Lk7IWqJAbC98u9XGJP0eaS+efuFeBhnVbKKrkrpSJXfzguTU9E8vQfmweWSQ4/HPcAG6E6i/VBl+/wVVoWLekFkD7g75lTRC7NBhH8690P5IrMxEVLK560VlQQNAnTOKMHlNS2KNR4DT7yAgc19RwEgSyFNw4FXOsthr55t++U3BWPQm8ObKjPEPCsHK/Ef03Ph7ij7XLVAn4XJVoTaHGQjISPWK+onuyjFpTeLKcBg4SkA2tS+JcfNxIVNZ2izsDhnH5Nt29OM05eJA/iw==;3x8RMX633+xqkRIU3W/bpA=="
 ---
