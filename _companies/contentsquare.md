@@ -34,7 +34,7 @@ tags:
   - Europe
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1506737413699215360/WYX7yTA5_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/1507012688454463511/TO0MEopX_400x400.jpg"
     width: 400
     height: 400
     isCached: true
