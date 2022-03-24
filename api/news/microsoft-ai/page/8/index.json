@@ -2,12 +2,12 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-10-07-artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-484-during-2021-2027top-key-players-microsoft-aws-xero.md",
-      "title": "Artificial Intelligence for Accounting Market : Global Market to Grow at a CAGR of 48.4% During 2021-2027|Top key players: Microsoft, AWS, Xero",
-      "excerpt": "Different market tables and figures, pie charts, graphs split over easy-to-understand pages, and extensive analysis are included in this report on the Artificial Intelligence for Accounting Market. The global research report includes a strategic analysis,",
+      "path": "_news/2021-12-17-effect-of-bilingualism-on-infants-cognitive-flexibility.md",
+      "title": "Effect of bilingualism on infants’ cognitive flexibility",
+      "excerpt": "Research suggests that bilinguals often outperform monolinguals on tasks that tap into executive functions, such as those requiring conflict resolution and cognitive flexibility. Recently, better attentional control has been detected in infants as young as ...",
       "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
-      "originalUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
+      "webUrl": "https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/effect-of-bilingualism-on-infants-cognitive-flexibility/FC2A581BD243D3F1CAE953FBF0BDB61C",
+      "originalUrl": "https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/effect-of-bilingualism-on-infants-cognitive-flexibility/FC2A581BD243D3F1CAE953FBF0BDB61C",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -15,13 +15,56 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
-      "publishedDateTime": "2021-10-06T11:16:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T15:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-artificial-intelligence-in-platform-as-a-service-market-is-going-to-boom-aws-ibm-microsoft.md",
+      "title": "Artificial Intelligence in Platform as a Service Market is Going to Boom | AWS, IBM, Microsoft",
+      "excerpt": "The growth of the Artificial Intelligence in Platform as a Service Market was mainly driven by the increasing R&D spending across the world. Some of the key players profiled in the study are: AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-platform-as-a-service-market-is-going-to-boom-aws-ibm-microsoft",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-platform-as-a-service-market-is-going-to-boom-aws-ibm-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/BBB-4-2-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -37,185 +80,12 @@
       ]
     },
     {
-      "path": "_news/2021-10-06-vmware-partners-its-way-deeper-into-cloud-edge-and-ai.md",
-      "title": "VMware Partners Its Way Deeper into Cloud, Edge, And AI",
-      "excerpt": "Software maker VMware has always been about tight partnerships with other tech vendors. When you are middleware between hardware and operating systems,",
+      "path": "_news/2021-12-15-developing-ai-applications-on-azure.md",
+      "title": "Developing AI Applications on Azure",
+      "excerpt": "Next, this course introduces the machine learning tools available in Microsoft Azure. We'll review standardized approaches to data analytics and you'll receive specific guidance on Microsoft's ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/",
-      "originalUrl": "https://www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/vmware-logo.jpg",
-          "width": 776,
-          "height": 488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/amp/",
-      "publishedDateTime": "2021-10-06T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-cognitivescale-names-ai-industry-veteran-robert-j-picciano-new-chief-executive-officer.md",
-      "title": "CognitiveScale Names AI Industry Veteran Robert J. Picciano New Chief Executive Officer",
-      "excerpt": "Investors include Norwest Venture Partners, Intel Capital, M12 (Microsoft Ventures), IBM Corporation ... sales and marketing for IBM’s Cognitive Systems portfolio, including IBM’s multi ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/cognitivescale-names-ai-industry-veteran-robert-j-picciano-new-chief-executive-officer",
-      "originalUrl": "https://www.digitaljournal.com/pr/cognitivescale-names-ai-industry-veteran-robert-j-picciano-new-chief-executive-officer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/25101d9c67bcfd9c900922678552493eb1c32a42-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-microsoft-for-startups-aniai-picked-for-global-grand-final.md",
-      "title": "Microsoft for Startups: Aniai Picked for Global Grand Final",
-      "excerpt": "Aniai was selected as one of the 10 startups in Q3 by Microsoft. \"Microsoft for Startups ... Its robots are further reinforced by its unique cognitive technology with artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/microsoft-startups-aniai-picked-global-grand-final",
-      "originalUrl": "https://www.asiaone.com/business/microsoft-startups-aniai-picked-global-grand-final",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
-          "width": 299,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/microsoft-startups-aniai-picked-global-grand-final?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/microsoft-startups-aniai-picked-global-grand-final?amp",
-      "publishedDateTime": "2021-10-06T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google.md",
-      "title": "AI as Service Market to Witness Huge Growth by 2026: IBM, Microsoft, Google",
-      "excerpt": "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 10/05/2021 -- The latest study released on the Global AI as Service Market",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/218f40d7d6678c04a643c4160e6ade1c30ea2878-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-akridata-launches-worlds-first-edge-data-platform-for-data-centric-ai.md",
-      "title": "Akridata™ Launches World's First Edge Data Platform for Data-Centric AI",
-      "excerpt": "Decentralized Software Accelerates Access to Relevant AI Data, Handles Ingest, Catalog, and Exploration of Complex AI Data, and Enables Traceable AI Across Industries",
-      "sourceUrl": null,
-      "webUrl": "https://www.kplctv.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/",
-      "originalUrl": "https://www.kplctv.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/",
+      "webUrl": "https://www.usnews.com/education/skillbuilder/developing-ai-applications-on-azure-0_DMj3I_RZEemNmw4gGersHg",
+      "originalUrl": "https://www.usnews.com/education/skillbuilder/developing-ai-applications-on-azure-0_DMj3I_RZEemNmw4gGersHg",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -225,284 +95,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T09:17:00-07:00",
+      "publishedDateTime": "2021-12-15T06:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KPLC",
-        "domain": "kplctv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-bot-framework-composer-video-series-with-ayca-bas-and-bob-german.md",
-      "title": "Bot Framework Composer Video series with Ayça Baş and Bob German",
-      "excerpt": "Ayca and Bob return to the show to talk about a new video series that discusses the Who's Online bot created using Bot Framework Composer and Cognitive Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.audible.com/pd/Bot-Framework-Composer-Video-series-with-Ayca-Ba-and-Bob-German-Podcast/B09HSJ98ZK",
-      "originalUrl": "https://www.audible.com/pd/Bot-Framework-Composer-Video-series-with-Ayca-Ba-and-Bob-German-Podcast/B09HSJ98ZK",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/41jMG3+T0hL._SL10_UR1600,800_CR200,50,1200,630_CLa%7C1200,630%7C41jMG3+T0hL.jpg%7C0,0,1200,630+107,79,402,402_PJAdblSocialShare-Gradientoverlay-smallasin-0to70,TopLeft,0,0_PJAdblSocialShare-AudibleLogo-Large,TopLeft,576,270_OU01_ZBLISTENING%20ON,593,216,52,500,AudibleSansMd,30,255,255,255_PJAdblSocialShare-PodcastIcon-Small,TopLeft,1094,50_ZBBot%20Framework%20Composer%20...,106,519,48,404,AudibleSansMd,24,255,255,255.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Audible",
-        "domain": "audible.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-microsoft-and-darktrace-partner-on-azure-and-ai-security-solutions.md",
-      "title": "Microsoft and Darktrace Partner on Azure and AI Security Solutions",
-      "excerpt": "Additionally, the deal includes a technology integration with Azure Sentinel, Microsoft's security information and event management solution. Also, the partnership is enabling Darktrace's AI to ...",
-      "sourceUrl": null,
-      "webUrl": "https://redmondmag.com/articles/2021/05/10/microsoft-and-darktrace-partner.aspx",
-      "originalUrl": "https://redmondmag.com/articles/2021/05/10/microsoft-and-darktrace-partner.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1NightStreetLightsTraffic.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Redmond Magazine",
-        "domain": "redmondmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-mprest-mderms-and-mthm-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "mPrest mDERMS and mTHM Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Azure Marketplace offers world-class quality experiences from ... mPrest’s micro-services based, real-time orchestration and optimization platform brings the power of AI and IoT to the digital transformation of various industries, from energy and smart ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-7267fd563fd0b5bf1ec4e14e2429ec85",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-7267fd563fd0b5bf1ec4e14e2429ec85",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-meet-the-10-year-olds-breaking-the-glass-ceiling-and-inspiring-other-girls-to-get-into-stem.md",
-      "title": "Meet the 10-year-olds breaking the glass ceiling and inspiring other girls to get into STEM",
-      "excerpt": "But when studies are not keeping them busy, they love to spend time expanding their knowledge of Microsoft Azure Machine Learning and AI. Adeel and his wife often keep a close eye on their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/lifestyle/meet-10-year-olds-breaking-glass-ceiling-and-inspiring-other-girls-get-stem",
-      "originalUrl": "https://www.asiaone.com/lifestyle/meet-10-year-olds-breaking-glass-ceiling-and-inspiring-other-girls-get-stem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Oct2021/20211004_zara_zaar.jpg?itok=9UEFO3t7",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/lifestyle/meet-10-year-olds-breaking-glass-ceiling-and-inspiring-other-girls-get-stem?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/lifestyle/meet-10-year-olds-breaking-glass-ceiling-and-inspiring-other-girls-get-stem?amp",
-      "publishedDateTime": "2021-10-04T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.md",
-      "title": "Review: Google Cloud Vertex AI irons out ML platform wrinkles",
-      "excerpt": "Vertex AI greatly improves the integration of Google Cloud’s AI/ML platform and AutoML services, combining a new unified API with very good modeling capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.html",
-      "originalUrl": "https://www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/10/google-cloud-vertex-ai-11-100905535-medium.jpg?auto=webp",
-          "width": 300,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.amp.html",
-      "publishedDateTime": "2021-10-04T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-cognitive-operations-market-overview-by-share-size-industry-players-revenue-and-product-demand.md",
-      "title": "Cognitive Operations Market Overview By Share, Size, Industry Players, Revenue and Product Demand",
-      "excerpt": "According to Microsoft Corporation ... consequently opening up new revenue streams in data-driven services such as Cognitive Operations. - The region of Asia-Pacific is projected to be the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-operations-market-overview-by-share-size-industry-players-revenue-and-product-demand-2021-10-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-operations-market-overview-by-share-size-industry-players-revenue-and-product-demand-2021-10-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -523,21 +123,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-04-cognitive-media-market-size-analysis-by-growth-emerging-trends-and-future-opportunities.md",
-      "title": "Cognitive Media Market Size Analysis By Growth, Emerging Trends and Future Opportunities",
-      "excerpt": "Competitive Landscape The Cognitive Media Market is highly competitive ... Google LLC, Amazon Web Services, Microsoft Corporation, among others. Is there a problem with this press release?",
+      "path": "_news/2021-12-15-microsoft-releases-azure-bot-service-and-cognitive-services-language-understanding.md",
+      "title": "Microsoft releases Azure Bot Service and Cognitive Services Language Understanding",
+      "excerpt": "Microsoft Azure Bot Service and Microsoft Cognitive Services Language Understanding (LUIS) are now available. “Conversational AI, or making human and computer interactions more natural ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-analysis-by-growth-emerging-trends-and-future-opportunities-2021-10-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-analysis-by-growth-emerging-trends-and-future-opportunities-2021-10-04",
+      "webUrl": "https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/",
+      "originalUrl": "https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://sdtimes.com/wp-content/uploads/2017/12/5588dd73-2c97-4efb-9a8e-e24ff0f31806-490x264.png",
+          "width": 490,
+          "height": 264,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -547,14 +147,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T02:29:00-07:00",
+      "publishedDateTime": "2021-12-14T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "SD Times",
+        "domain": "sdtimes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -562,776 +162,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap.md",
-      "title": "IBM: Loss Of Market Share And Revenue, But Valuation Is Cheap",
-      "excerpt": "It includes cognitive applications enabled by IBM’s Watson AI technology; cloud, middleware and data platform software; and mission-critical on-premise transaction processing software.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4458267-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap",
-      "originalUrl": "https://seekingalpha.com/article/4458267-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1319657811/medium_image_1319657811.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4458267-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4458267-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap",
-      "publishedDateTime": "2021-10-03T18:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-designs-dirty-secrets-and-how-to-address-experience-bias.md",
-      "title": "Design’s dirty secrets and how to address experience bias",
-      "excerpt": "If the solution to experience bias is variation in front-end design based on the needs of the individual, one way we can radically accelerate that is to understand where automation can be applied.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/03/designs-dirty-secrets-and-how-to-address-experience-bias/",
-      "originalUrl": "https://techcrunch.com/2021/10/03/designs-dirty-secrets-and-how-to-address-experience-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1297927894.jpg?w=1024",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/03/designs-dirty-secrets-and-how-to-address-experience-bias/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/03/designs-dirty-secrets-and-how-to-address-experience-bias/amp/",
-      "publishedDateTime": "2021-10-03T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.md",
-      "title": "Sumo Logic enhances observability suite for app, infrastructure performance",
-      "excerpt": "The new DevSecOps-oriented tools, announced this week at the company's Illuminate virtual conference, are part of Sumo Logic's Continuous Intelligence platform, and designed to provide real-time, deeper insights into critical enterprise infrastructure and applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.html",
-      "originalUrl": "https://www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/07/programmer_certification-skills_code_devops_glasses_student_by-kevin-unsplash-100764315-large.jpg?auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.amp.html",
-      "publishedDateTime": "2021-10-01T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-down-7-over-the-last-week-is-it-time-to-buy-snowflake-stock.md",
-      "title": "Down 7% Over The Last Week, Is It Time To Buy Snowflake Stock?",
-      "excerpt": "Snowflake stock declined by roughly 7% over the last week (five trading days) compared to the S&P 500 which fell by around 1% over the same period. Although there hasn’t been any notable company-specific news from Snowflake over the last week,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/10/01/down-7-over-the-last-week-is-it-time-to-buy-snowflake-stock/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/10/01/down-7-over-the-last-week-is-it-time-to-buy-snowflake-stock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605c4ec653d4ad7ead09bb0b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/10/01/down-7-over-the-last-week-is-it-time-to-buy-snowflake-stock/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/10/01/down-7-over-the-last-week-is-it-time-to-buy-snowflake-stock/amp/",
-      "publishedDateTime": "2021-10-01T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-how-to-get-your-cloud-migration-strategy-right.md",
-      "title": "How To Get Your Cloud Migration Strategy Right",
-      "excerpt": "This transformational effort includes migrating workloads to Amazon Web Services, Microsoft Azure, and Google Cloud Platform, which may not have been historically deployed as cloud-ready applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/",
-      "originalUrl": "https://www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615499ae3a419e32bc2c8594%2F0x0.jpg",
-          "width": 1200,
-          "height": 828,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/amp/",
-      "publishedDateTime": "2021-10-01T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-using-personal-digital-assistants-to-document-pharmacist-cognitive-services-and-estimate-potential-reimbursement.md",
-      "title": "Using Personal Digital Assistants to Document Pharmacist Cognitive Services and Estimate Potential Reimbursement",
-      "excerpt": "Also, Microsoft does not plan to release a Windows ... PDAs provided a simple, efficient system for documenting pharmacists' cognitive services and, potentially, for generating reimbursement ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/453038_4",
-      "originalUrl": "https://www.medscape.com/viewarticle/453038_4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg",
-          "width": 806,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-microsoft-announces-azure-functions-40-with-net-6-support-in-preview.md",
-      "title": "Microsoft Announces Azure Functions 4.0 with .NET 6 Support in Preview",
-      "excerpt": "Attend in-person on April 4-6, 2022. Microsoft recently announced the public preview release of Azure Functions 4.0 – its Function as a Service (FaaS) offering. The release of this new runtime ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/09/azure-functions-40-preview/",
-      "originalUrl": "https://www.infoq.com/news/2021/09/azure-functions-40-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/09/azure-functions-40-preview/en/headerimage/generatedHeaderImage-1632844766208.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-microsoft-announces-preview-of-on-demand-capacity-reservations-for-azure-virtual-machines.md",
-      "title": "Microsoft Announces Preview of On-Demand Capacity Reservations for Azure Virtual Machines",
-      "excerpt": "AI tools are slowly replacing the role of the ... Recently, Microsoft announced the preview of on-demand capacity reservations for Azure Virtual Machines (VMs). With this new feature for VMs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/09/azure-vm-ondemand-capacity/",
-      "originalUrl": "https://www.infoq.com/news/2021/09/azure-vm-ondemand-capacity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/09/azure-vm-ondemand-capacity/en/headerimage/generatedHeaderImage-1632562426442.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-microsofts-msft-azure-platform-implemented-by-truveta.md",
-      "title": "Microsoft's (MSFT) Azure Platform Implemented by Truveta",
-      "excerpt": "Microsoft’s MSFT Azure cloud platform and Artificial Intelligence (AI) capabilities are being leveraged by Truveta to improve the scalability of its data platform. The software giant is also ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/microsofts-msft-azure-platform-implemented-by-truveta-2021-09-30",
-      "originalUrl": "https://www.nasdaq.com/articles/microsofts-msft-azure-platform-implemented-by-truveta-2021-09-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/microsofts-msft-azure-platform-implemented-by-truveta-2021-09-30?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsofts-msft-azure-platform-implemented-by-truveta-2021-09-30?amp",
-      "publishedDateTime": "2021-09-30T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2.md",
-      "title": "Microsoft’s Saqib Shaikh, lead on Seeing AI, is returning to Sight Tech Global, Dec. 1-2",
-      "excerpt": "At last year’s inaugural Sight Tech Global event, a virtual event dedicated to applications of AI and related tech to accessibility for people who are blind, one of the most popular sessions belonged to Saqib Shaikh.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/",
-      "originalUrl": "https://techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DybczED-GKE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/amp/",
-      "publishedDateTime": "2021-09-30T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-immuniweb-launches-free-cloud-security-test-to-detect-unprotected-storage.md",
-      "title": "ImmuniWeb Launches Free Cloud Security Test to Detect Unprotected Storage",
-      "excerpt": "The IDC cloud security survey 2021 states that as many as 98% of companies were victims of a cloud data breach within the past 18 months. Fostered by the pandemic, small and large organizations from all over the world are migrating their data and infrastructure into a public cloud,",
-      "sourceUrl": null,
-      "webUrl": "https://thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html",
-      "originalUrl": "https://thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehackernews.com/images/-md3YVJjBNZY/YVSuqolg06I/AAAAAAAABRA/69R-lwGKrmURHClMyTIQ7NDOS3eUN0b_QCLcBGAsYHQ/s728-e1000/cloud-security-test.jpg",
-          "width": 728,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html?amp=1",
-      "cdnAmpWebUrl": "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html?amp=1",
-      "publishedDateTime": "2021-09-30T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hacker News",
-        "domain": "thehackernews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-ms-cloud-is-helping-cos-innovate-reimagine-biz-anant-maheshwari.md",
-      "title": "MS cloud is helping cos innovate, reimagine biz: Anant Maheshwari",
-      "excerpt": "For example, in e-commerce, Myntra scaled up to meet demand spikes during the pandemic and used Azure Machine Learning to understand customer needs better. We have a huge opportunity to position ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/people/ms-cloud-is-helping-cos-innovate-reimagine-biz-anant-maheshwari-11632937289933.html",
-      "originalUrl": "https://www.livemint.com/companies/people/ms-cloud-is-helping-cos-innovate-reimagine-biz-anant-maheshwari-11632937289933.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/09/29/600x338/Anant_1632937406939_1632937413502.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/people/ms-cloud-is-helping-cos-innovate-reimagine-biz-anant-maheshwari/amp-11632937289933.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/people/ms-cloud-is-helping-cos-innovate-reimagine-biz-anant-maheshwari/amp-11632937289933.html",
-      "publishedDateTime": "2021-09-29T17:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-ai-powered-tool-to-predict-cardiac-risk-in-indians-more-accurately.md",
-      "title": "AI-Powered Tool To Predict Cardiac Risk In Indians More Accurately",
-      "excerpt": "An Artificial Intelligence-powered tool to more accurately predict heart disease risk among Indians and recommend modifiable changes to prevent heart attacks has been launched by Apollo Hospitals in partnership with Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/india-news/ai-powered-tool-to-predict-cardiac-risk-in-indians-more-accurately-2558126",
-      "originalUrl": "https://www.ndtv.com/india-news/ai-powered-tool-to-predict-cardiac-risk-in-indians-more-accurately-2558126",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2021-09/8c9s1ge_heart-risk_625x300_29_September_21.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/india-news/ai-powered-tool-to-predict-cardiac-risk-in-indians-more-accurately-2558126?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/ai-powered-tool-to-predict-cardiac-risk-in-indians-more-accurately-2558126?amp=1&akamai-rum=off",
-      "publishedDateTime": "2021-09-29T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-heres-how-amazon-microsoft-and-google-stack-up-in-the-race-for-the-best-cloud-where-developers-can-build-software-with-artificial-intelligence.md",
-      "title": "Here's how Amazon, Microsoft, and Google stack up in the race for the best cloud where developers can build software with artificial intelligence",
-      "excerpt": "Amazon Web Services offers 26 AI services, Microsoft Azure offers 37, and Google Cloud Platform offers 11. As companies add AI to their products to grab a piece of the trillions of dollars in ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amazon-microsoft-and-google-cloud-artificial-intelligence-compared-2021-9",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amazon-microsoft-and-google-cloud-artificial-intelligence-compared-2021-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-ai-based-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers.md",
-      "title": "AI-based tool to predict risk of cardiovascular diseases launched for healthcare providers",
-      "excerpt": "An artificial intelligence-based tool to predict risk of cardiovascular diseases for an early intervention was launched on Tuesday for healthcare providers across the country by a leading private healthcare group.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/newsscroll/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
-      "originalUrl": "https://www.outlookindia.com/newsscroll/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
-      "publishedDateTime": "2021-09-28T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-microsoft-launches-data-governance-service-azure-purview-in-general-availability.md",
-      "title": "Microsoft launches data governance service Azure Purview in general availability",
-      "excerpt": "Microsoft announced the launch of Azure Purview, a unified data governance solution for on-premises, cloud, and app-based systems. Today marks the broadened availab",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/",
-      "originalUrl": "https://venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/amp/",
-      "publishedDateTime": "2021-09-28T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-callminer-combines-conversation-analytics-platform-with-microsoft-azure-speech-to-text.md",
-      "title": "CallMiner Combines Conversation Analytics Platform With Microsoft Azure Speech to Text",
-      "excerpt": "CallMiner, a leading provider of conversation analytics to drive business improvement, today announced it is enabling organizations to use the power of the CallMiner Eureka Platform with Microsoft ( News - Alert) Azure Speech to Text as a powerful,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-callminer-combines-conversation-analytics-platform-with-microsoft-azure-/2021/09/28/9457714.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-callminer-combines-conversation-analytics-platform-with-microsoft-azure-/2021/09/28/9457714.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1345,5 +175,5 @@
       ]
     }
   ],
-  "nextPage": 9
+  "nextPage": null
 }

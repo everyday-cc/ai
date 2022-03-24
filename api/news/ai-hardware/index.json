@@ -2,6 +2,399 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-22-nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech.md",
+      "title": "NVIDIA Unleashes Arsenal Of AI Innovation With Hopper GPU, Grace CPU, Interconnect And Robotics Tech",
+      "excerpt": "This year's NVIDIA's GTC keynote was actually a live demo, delivered from the simulated constructs of the metaverse, and the announcements in silicon and AI innovation were more than impressive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 253,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6239f7d526cef725d5475b3a/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech/amp/",
+      "publishedDateTime": "2022-03-22T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools.md",
+      "title": "Nvidia's New Chips Power AI, Autonomous Vehicles, Metaverse Tools",
+      "excerpt": "Stephen Shankland has been a reporter at CNET since 1998 and covers browsers, microprocessors, digital photography, quantum computing, supercomputers, drone delivery, and other new technology. He has a soft spot in his heart for standards groups and I/O interfaces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/",
+      "originalUrl": "https://www.cnet.com/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/e6f9c96c9d41a1111be07334771b84a092d5f7bc/2022/03/22/8a718d1d-ed74-4ab5-aaa0-2517650389e6/nvidia-hopper-h100-ai-chip.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/",
+      "publishedDateTime": "2022-03-22T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-google-uses-deep-learning-to-design-faster-smaller-ai-chips.md",
+      "title": "Google uses deep learning to design faster, smaller AI chips",
+      "excerpt": "Googlers and UC Berkeley academics say they have devised a way to use artificial intelligence to design faster and smaller chips that accelerate artificial intelligence. In a note shared on Thursday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/03/18/google_deep_learning_chip_design/",
+      "originalUrl": "https://www.theregister.com/2022/03/18/google_deep_learning_chip_design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2019/10/08/shutterstock_ai_chip_design.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/18/google_deep_learning_chip_design/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/18/google_deep_learning_chip_design/",
+      "publishedDateTime": "2022-03-17T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-quadric-nabs-21m-to-accelerate-production-of-its-ai-edge-chips.md",
+      "title": "Quadric nabs $21M to accelerate production of its AI edge chips",
+      "excerpt": "Quadric, a startup developing chips for AI workloads at the edge, has raised $21 million in a venture funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/16/quadric-nabs-21m-to-accelerate-production-of-its-ai-edge-chips/",
+      "originalUrl": "https://venturebeat.com/2022/03/16/quadric-nabs-21m-to-accelerate-production-of-its-ai-edge-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-172252776.jpg?fit=750%2C484&#038;strip=all",
+          "width": 749,
+          "height": 484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips.md",
+      "title": "Chipotle Is Testing An AI-Driven Robot To Make Its Tortilla Chips",
+      "excerpt": "Miso Robotics' Chippy is in test at the Chipotle Cultivate Center with plans to eventually integrate into a Chipotle restaurant in Southern California later this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aliciakelso/2022/03/16/chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips/",
+      "originalUrl": "https://www.forbes.com/sites/aliciakelso/2022/03/16/chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604055621f986bf7c978c45c%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aliciakelso/2022/03/16/chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2022/03/16/chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips/amp/",
+      "publishedDateTime": "2022-03-16T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints.md",
+      "title": "AI Chip Startups Pull In Funding as They Navigate Supply Constraints",
+      "excerpt": "Investors are funneling billions of dollars into startups that make chips designed for artificial-intelligence applications, which have largely avoided the supply-chain constraints and backlogs faced by larger chip makers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402?tpl=vc",
+      "originalUrl": "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402?tpl=vc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-504456/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-kneron-ai-chips-adpoted-by-toyota-supplier-kenwood.md",
+      "title": "Kneron AI chips adpoted by Toyota supplier Kenwood",
+      "excerpt": "Kneron, the San Diego-based full-stack edge AI company, announced last week that its two AI chips M5S and KL520 are used by Japanese auto supplier Kenwood in its latest dashboard camera DRV-EMN5700.",
+      "sourceUrl": null,
+      "webUrl": "https://digitimes.com/news/a20220315PD213/adas-ai-kneron.html",
+      "originalUrl": "https://digitimes.com/news/a20220315PD213/adas-ai-kneron.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20220315pd213_files/1_2b.jpg",
+          "width": 1280,
+          "height": 827,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-cerebras-brings-wafer-size-ai-chips-to-medical-data-analysis.md",
+      "title": "Cerebras brings wafer-size AI chips to medical data analysis",
+      "excerpt": "AI chip startup Cerebras Systems has deployed one of its CS-2 systems at a well-funded startup that uses natural language processing to analyze massive amounts of biomedical data. As announced on Monday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/03/14/cerebras_ai_chips/",
+      "originalUrl": "https://www.theregister.com/2022/03/14/cerebras_ai_chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/03/14/cs21_7nm_planview_dinner.jpg",
+          "width": 9144,
+          "height": 6094,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/14/cerebras_ai_chips/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/14/cerebras_ai_chips/",
+      "publishedDateTime": "2022-03-14T20:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-09-ai-core-software-deep-learning-compiler-developed.md",
       "title": "AI core software 'Deep Learning Compiler' developed",
       "excerpt": "A Korean research team has unveiled a core technology which reduces the time and cost invested in developing artificial intelligence (AI) chips in small and medium-sized enterprises and startups. Thanks to the development of system software that solved the problems of compatibility and scalability between hardware and software which have been obstacles in the past,",
@@ -1041,390 +1434,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation.md",
-      "title": "IBM, NVIDIA and Bloomberg tout KServe becoming incubation project for LF AI & Data Foundation",
-      "excerpt": "IBM and Bloomberg announced on Thursday that KServe is joining the LF AI & Data Foundation as its latest incubation project. KServe provides a Kubernetes Custom Resource Definitio",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d19ca28ac531ef8f675fd64e4e99a7d409af47f4/2022/02/24/06de4d18-d1b2-4991-852a-4909e53450a9/pasted-image-0-4.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/",
-      "publishedDateTime": "2022-02-24T08:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict.md",
-      "title": "Semiconductor Watch List: Key Chip Ingredients At Risk in Ukraine Conflict",
-      "excerpt": "The alarming prospect of war on the European continent -- in what would be the largest scale conflict since the Yugoslav wars -- has roiled the markets,” wrote Real Money’s Kevin Curran recently. “Meanwhile,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
-      "originalUrl": "https://www.thestreet.com/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTc5MzkyMTc5NTIzODIyOTI1/stock-trader-distressed.jpg",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
-      "publishedDateTime": "2022-02-22T18:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-see-future-tech-and-learn-ai-skills-for-free-at-nvidia-developer-conference.md",
-      "title": "See future tech and learn AI skills for free at NVIDIA Developer Conference",
-      "excerpt": "Next month the world’s brightest minds in AI and accelerated computing will come together to share their knowledge and peer into the future. Tens of thousands of technologists and developers will attend NVIDIA GTC — a free,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/nvidia/see-future-tech-and-learn-ai-skills-for-free-at-nvidia-developer-conference/",
-      "originalUrl": "https://techcrunch.com/sponsor/nvidia/see-future-tech-and-learn-ai-skills-for-free-at-nvidia-developer-conference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/NVIDIA-GTC-March-2022_press-release_collage.jpg?w=711",
-          "width": 711,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T08:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-report-on-deep-learning-processor-chip-market-outlook-2022-analysis-by-technological-trends-industry-share-and-future.md",
-      "title": "Report On Deep Learning Processor Chip Market Outlook 2022 Analysis By Technological Trends, Industry Share And Future",
-      "excerpt": "Feb 22, 2022 (The Expresswire) -- \"The Global Deep Learning Processor Chip Market research report concentrates on the product of this market that is traded. It explains all the aspects like ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/report-on-deep-learning-processor-chip-market-outlook-2022-analysis-by-technological-trends-industry-share-and-future-2022-02-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/report-on-deep-learning-processor-chip-market-outlook-2022-analysis-by-technological-trends-industry-share-and-future-2022-02-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-21T19:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-could-ai-help-solve-the-global-chip-shortage.md",
-      "title": "Could AI Help Solve The Global Chip Shortage?",
-      "excerpt": "Today’s chip shortage is holding back global economic growth, fueling inflation and making life difficult for consumers and business alike.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/02/21/could-ai-help-solve-the-global-chip-shortage/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/02/21/could-ai-help-solve-the-global-chip-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620d50fbb36ef033e8f05d4f/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/02/21/could-ai-help-solve-the-global-chip-shortage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/02/21/could-ai-help-solve-the-global-chip-shortage/amp/",
-      "publishedDateTime": "2022-02-21T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.md",
-      "title": "A Look at What’s Next in AI, Virtual Collaboration, and Beyond",
-      "excerpt": "Choose from 900+ sessions across robotics, speech AI, data science, and more The conference is packed with talks from the brightest minds in the business. With over 900 sessions to choose from, you’ll find the insights needed to accelerate your life’s work: whether you’re fascinated by robotics research;",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.html",
-      "originalUrl": "https://www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2022/02/2158900-gtc22-spring-digital-advertorial-bnr-1200x675-engb-100919670-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.amp.html",
-      "publishedDateTime": "2022-02-21T07:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-chinas-driverless-car-dreams-troubled-by-us-chip-dependency.md",
-      "title": "China’s driverless car dreams troubled by US chip dependency",
-      "excerpt": "Jidu, a joint venture between search engine Baidu and car manufacturer Geely ... Zeekr, a unit of Geely, has partnered with Intel’s Mobileye to launch a self-driving car in 2024. And Great Wall Motor, another of China’s biggest traditional carmakers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8?sharetype=gift?token=10a5929d-a553-4978-ad08-5a6d2157ddf8",
-      "originalUrl": "https://www.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8?sharetype=gift?token=10a5929d-a553-4978-ad08-5a6d2157ddf8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-20T16:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-chinas-driverless-dreams-troubled-by-us-chip-dependency.md",
-      "title": "China’s driverless dreams troubled by US chip dependency",
-      "excerpt": "Jidu, a joint venture between search engine Baidu and car manufacturer Geely ... Zeekr, a unit of Geely, has partnered with Intel’s Mobileye to launch a self-driving car in 2024. And Great Wall Motor, another of China’s biggest traditional carmakers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
-      "originalUrl": "https://www.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa3d7ee15-7663-4701-8bde-d6019e7d4297.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/64e8c789-14ed-40ef-8b44-9998b6e520b8",
-      "publishedDateTime": "2022-02-20T16:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI",
         "AI Hardware"
       ]

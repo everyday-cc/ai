@@ -2,21 +2,21 @@
   "page": 39,
   "value": [
     {
-      "path": "_news/2022-02-04-a-new-artificial-intelligence-traffic-light-could-help-shorten-your-commute-times.md",
-      "title": "A New Artificial Intelligence Traffic Light Could Help Shorten Your Commute Times",
-      "excerpt": "Ask any nerd and they’ll say artificial intelligence is taking over. That may not always be for the best, but finally it seems the tech is being put to good use – in traffic lights.",
+      "path": "_news/2022-02-11-tucker-give-americans-a-voice-in-the-policies-that-affect-their-lives.md",
+      "title": "Tucker: Give Americans a voice in the policies that affect their lives",
+      "excerpt": "UNIDENTIFIED MALE (voice over): One man arrested in Malibu for paddle- boarding ... Now, you'd think in the age of facial recognition software, that video might produce a suspect. You'd think the fact that person was on a phone might be very helpful ...",
       "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050",
-      "originalUrl": "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050",
+      "webUrl": "https://www.foxnews.com/transcript/tucker-give-americans-a-voice-in-the-policies-that-affect-their-lives",
+      "originalUrl": "https://www.foxnews.com/transcript/tucker-give-americans-a-voice-in-the-policies-that-affect-their-lives",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/d5cda2e76ce28a417dd3047a1d3ffed6.jpg",
-          "width": 800,
-          "height": 450,
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d8daf74-9145-42b5-886e-a71866252ce9/62da3da7-6099-4ed2-812b-9867b0d154e8/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,203 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050/amp",
-      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050/amp",
-      "publishedDateTime": "2022-02-03T09:40:00-08:00",
+      "ampWebUrl": "https://www.foxnews.com/transcript/tucker-give-americans-a-voice-in-the-policies-that-affect-their-lives.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-give-americans-a-voice-in-the-policies-that-affect-their-lives.amp",
+      "publishedDateTime": "2022-02-10T11:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-maryland-armed-robbery-victim-allegedly-shot-teenage-attacker-in-self-defense-authorities-say.md",
+      "title": "Maryland armed robbery victim allegedly shot teenage attacker in self-defense, authorities say",
+      "excerpt": "The victim discharged his registered weapon in what police believe to be self-defense, striking one 17-year-old robbery ... and apprehended the 16-year-old and other 17-year-old suspects driving the vehicle. The 16-year-old and two 17-year-old suspects ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/maryland-armed-robbery-victim-shot-attacker-self-defense",
+      "originalUrl": "https://www.foxnews.com/us/maryland-armed-robbery-victim-shot-attacker-self-defense",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d273baf0-893e-4c61-968f-cb155b30fc76/bd6188a2-b614-44ff-9382-d274216cf78d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/maryland-armed-robbery-victim-shot-attacker-self-defense.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/maryland-armed-robbery-victim-shot-attacker-self-defense.amp",
+      "publishedDateTime": "2022-02-10T10:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-facial-analysis-improves-diagnosis.md",
+      "title": "Facial analysis improves diagnosis",
+      "excerpt": "\"The goal is to detect such diseases at an early stage and initiate appropriate therapy as soon as possible ... this varies from disease to disease. Artificial intelligence (AI) uses these ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-02-facial-analysis-diagnosis.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-02-facial-analysis-diagnosis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/facial-analysis-improv.jpg",
+          "width": 1051,
+          "height": 1388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-02-facial-analysis-diagnosis.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-facial-analysis-diagnosis.amp",
+      "publishedDateTime": "2022-02-10T10:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-three-daily-it-chores-where-artificial-intelligence-ai-can-help.md",
+      "title": "Three Daily IT Chores Where Artificial Intelligence (AI) Can Help",
+      "excerpt": "Automation and artificial intelligence are not new concepts, but recent technological advancements are pushing the limits of what robots can accomplish. Here are the top three ways AI can aid teams, businesses, and customers by automating tedious IT ...",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/featured/three-daily-it-chores-where-artificial-intelligence-ai-can-help/",
+      "originalUrl": "https://enterprisetalk.com/featured/three-daily-it-chores-where-artificial-intelligence-ai-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/02/Three-Daily-IT-Chores-Where-Artificial-Intelligence-AI-Can-Help-01.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/featured/three-daily-it-chores-where-artificial-intelligence-ai-can-help/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/three-daily-it-chores-where-artificial-intelligence-ai-can-help/amp/",
+      "publishedDateTime": "2022-02-10T09:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-new-algorithm-bill-could-force-facebook-to-change-how-the-news-feed-works.md",
+      "title": "New algorithm bill could force Facebook to change how the news feed works",
+      "excerpt": "Photo by Leigh Vogel for The Verge A new bipartisan bill, introduced on Wednesday, could ... testimony from Facebook whistleblower Frances Haugen in 2020, members of both parties have started working together to find ways to regulate algorithms that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/2/10/22927472/klobuchar-lummis-algorithm-bill-section-230-misinformation-teenager-mental-health",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/new-algorithm-bill-could-force-facebook-to-change-how-the-news-feed-works/ar-AATHH8i",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 291,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/sNodlR-Z5KIzTklQkFw80EiLyQE=/0x302:2040x1370/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23194488/lvogel_220119_4968_0010.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-10T09:35:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2022/2/10/22927472/klobuchar-lummis-algorithm-bill-section-230-misinformation-teenager-mental-health",
+        "domain": "theverge.com/2022/2/10/22927472/klobuchar-lummis-algorithm-bill-section-230-misinformation-teenager-mental-health",
         "images": null,
         "publishers": null,
         "authors": null
@@ -44,21 +234,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-04-artificial-intelligence-and-dental-insurance-it-is-more-than-a-focus-on-radiology-and-fraud.md",
-      "title": "Artificial Intelligence And Dental Insurance – It Is More Than A Focus On Radiology And Fraud",
-      "excerpt": "Over the years, much has been said about artificial intelligence (AI) and the healthcare industry. Much of it has been focused on two extremes. On one hand, there’s the fairly mature use of neural networks for radiological analysis. On the other ...",
+      "path": "_news/2022-02-11-billion-dollar-fintech-liquidity-group-uses-ai-to-fund-another-fintech-with-30-million.md",
+      "title": "Billion dollar fintech Liquidity Group uses AI to fund another fintech with $30 million",
+      "excerpt": "“Our AI platform allows us to move at light speed – going from ... and we look forward to supporting other great fintech companies in the future.” “Liquidity’s capital infusion will fuel our continued rapid growth,” said ThinkMarkets CEO ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/",
+      "webUrl": "https://techbullion.com/billion-dollar-fintech-liquidity-group-uses-ai-to-fund-another-fintech-with-30-million/",
+      "originalUrl": "https://techbullion.com/billion-dollar-fintech-liquidity-group-uses-ai-to-fund-another-fintech-with-30-million/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y26,safe&fit=crop",
-          "width": 876,
-          "height": 493,
+          "url": "https://techbullion.com/wp-content/uploads/2022/02/fintech-liquidity-fund-with-AI.png",
+          "width": 700,
+          "height": 420,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -66,23 +256,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/amp/",
-      "publishedDateTime": "2022-02-03T09:30:00-08:00",
+      "ampWebUrl": "https://techbullion.com/billion-dollar-fintech-liquidity-group-uses-ai-to-fund-another-fintech-with-30-million/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/billion-dollar-fintech-liquidity-group-uses-ai-to-fund-another-fintech-with-30-million/amp/",
+      "publishedDateTime": "2022-02-10T09:29:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -91,27 +272,26 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
+        "AI in Finance",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-02-04-google-has-lost-2-ethical-ai-researchers-to-a-research-institute-founded-by-ousted-colleague-timnit-gebru.md",
-      "title": "Google has lost 2 ethical AI researchers to a research institute founded by ousted colleague Timnit Gebru",
-      "excerpt": "Alex Hanna and Dylan Baker will join Timnit Gebru, who left Google at the end of 2020. Gebru launched the DAIR Institute to scrutinize major tech firms' use of AI. Two more members of Google's ethical AI team are leaving the company to join a nonprofit led ...",
+      "path": "_news/2022-02-11-7-aai-airports-chosen-for-voice-of-customer-recognition-2021.md",
+      "title": "7 AAI airports chosen for Voice of Customer recognition 2021",
+      "excerpt": "The Ministry of Civil Aviation (MoCA) on Thursday said seven airports that participated in the ACI-ASQ survey in 2021 have been chosen for ‘Voice of Customer Recognition’ under Airports Council International (ACI) World’s Voice of the Customer ...",
       "sourceUrl": null,
-      "webUrl": "https://www.dair-institute.org/press-release",
-      "originalUrl": "https://www.businessinsider.com/two-google-researchers-quit-to-join-timnit-gebru-ethical-ai-2022-2",
+      "webUrl": "https://www.timesnownews.com/business-economy/industry/7-aai-airports-chosen-for-voice-of-customer-recognition-2021-article-89485701",
+      "originalUrl": "https://www.timesnownews.com/business-economy/industry/7-aai-airports-chosen-for-voice-of-customer-recognition-2021-article-89485701",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.sanity.io/images/wc2kmxvk/production/8ba934ca12f0a32532ca9cca98d37500b7641e93-1440x695.png",
-          "width": 1440,
-          "height": 695,
+          "url": "https://static.tnn.in/thumb/msid-89485701,imgsize-100,width-1280,height-720,resizemode-75/89485701.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -119,23 +299,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T08:59:00-08:00",
+      "ampWebUrl": "https://www.timesnownews.com/business-economy/industry/7-aai-airports-chosen-for-voice-of-customer-recognition-2021-article-89485701/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/business-economy/industry/7-aai-airports-chosen-for-voice-of-customer-recognition-2021-article-89485701/amp",
+      "publishedDateTime": "2022-02-10T08:27:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "timesnownews.com",
+        "domain": "timesnownews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -144,26 +315,26 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Ethics"
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-02-04-report-79-of-ml-teams-say-they-lack-access-to-data-needed-to-identify-bias-and-ethics-issues.md",
-      "title": "Report: 79% of ML teams say they ‘lack access’ to data needed to identify bias and ethics issues",
-      "excerpt": "Join today's leading executives online at the Data Summit on March 9th. Register here. A new report from Arize AI illustrates that the day-to-day reality for data scientists and machine learning ...",
+      "path": "_news/2022-02-10-spinny-acquires-ai-powered-car-connectivity-startup-scouto.md",
+      "title": "Spinny acquires AI-powered car connectivity startup Scouto",
+      "excerpt": "Mumbai: Used car retailing platform Spinny has acquired AI-powered connected car startup Scouto for an undisclosed sum. Scouto has built an end-to-end connected car technology suite that provides detailed intelligence on a car's health and performance and ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/03/report-79-of-ml-teams-say-they-lack-access-to-data-needed-to-identify-bias-and-ethics-issues/",
-      "originalUrl": "https://venturebeat.com/2022/02/03/report-79-of-ml-teams-say-they-lack-access-to-data-needed-to-identify-bias-and-ethics-issues/",
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/articleshow/89484921.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/articleshow/89484921.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1076658510-e1643733014824.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 667,
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-40956,msid-89485264/spinny.jpg",
+          "width": 600,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -171,9 +342,51 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/03/report-79-of-ml-teams-say-they-lack-access-to-data-needed-to-identify-bias-and-ethics-issues/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/03/report-79-of-ml-teams-say-they-lack-access-to-data-needed-to-identify-bias-and-ethics-issues/amp/",
-      "publishedDateTime": "2022-02-03T08:42:00-08:00",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89484921.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/spinny-acquires-ai-powered-car-connectivity-startup-scouto/amp_articleshow/89484921.cms",
+      "publishedDateTime": "2022-02-10T07:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-micropsi-raises-34m-to-retrain-industrial-robots-using-human-demonstrations.md",
+      "title": "Micropsi raises $34M to retrain industrial robots using human demonstrations",
+      "excerpt": "“We and everybody around us — that’s us, who provide the AI, but also the makers of robots ... “Most customers will start with a single system and then add more as they validate its ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/",
+      "originalUrl": "https://venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1316352689-e1635532855453.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/micropsi-raises-30m-euro-to-retrain-industrial-robots-using-human-demonstrations/amp/",
+      "publishedDateTime": "2022-02-10T07:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -196,79 +409,26 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-overview-of-the-fintech-industry-stats-trends-and-companies-in-the-ecosystem-market-research-report.md",
-      "title": "Overview of the fintech industry: stats, trends, and companies in the ecosystem market research report",
-      "excerpt": "In recent years, we've seen a ballooning of activity in fintech — an expansive term applied to technology-driven disruptions in financial services, where financial companies and startups use artificial intelligence (AI) and other tech in their day-to-day ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fintech-ecosystem-report",
-      "originalUrl": "https://www.businessinsider.com/fintech-ecosystem-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa2c30f69331a0011bc738d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/fintech-ecosystem-report?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fintech-ecosystem-report?amp",
-      "publishedDateTime": "2022-02-03T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-02-03-deepbrain-ai-introduces-ai-technology-at-kb-kookmin-bank.md",
-      "title": "DeepBrain AI introduces AI technology at KB Kookmin Bank",
-      "excerpt": "DeepBrain AI has created an AI banker that provides information on financial products, branch information, weather and instructions using banking devices",
+      "path": "_news/2022-02-10-on-ai-ethics-wendy-foster-director-of-engineering-and-data-science-at-shopify.md",
+      "title": "On AI Ethics: Wendy Foster, Director Of Engineering And Data Science At Shopify",
+      "excerpt": "Your academic background spans both the humanities and technical disciplines; how does that inform your perspective as an executive and thought leader on AI ethics? Foster: I actually think about this a lot, unpacking it to see what I can mine for my teams ...",
       "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/financial-services-finserv/deepbrain-ai-introduces-ai-technology-at-kb-kookmin-bank",
-      "originalUrl": "https://fintechmagazine.com/financial-services-finserv/deepbrain-ai-introduces-ai-technology-at-kb-kookmin-bank",
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/02/10/on-ai-ethics-wendy-foster-director-of-engineering-and-data-science-at-shopify/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/02/10/on-ai-ethics-wendy-foster-director-of-engineering-and-data-science-at-shopify/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 100,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.bizclikmedia.net/668/abc785f6233fa6a348f2db9ed8911530:0e9533c86b7408ef34ceb543ad693c4b/ai-banker-in-a-kiosk.jpg.jpg",
-          "width": 668,
-          "height": 504,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62042ef5da6fdebdbc4354fc/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 500,
+          "height": 343,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -276,52 +436,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T07:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-this-pr-firm-took-artificial-intelligence-mainstream.md",
-      "title": "This PR Firm Took Artificial Intelligence Mainstream",
-      "excerpt": "You might recall around the end of 2016, when seemingly overnight, the business media went from never having talked about artificial intelligence in business to ubiquitous coverage of its applications in marketing. A small Israeli-born artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/02/03/this-pr-firm-took-artificial-intelligence-mainstream/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/02/03/this-pr-firm-took-artificial-intelligence-mainstream/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61fad2235bbdb8fa3f1fe102/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/02/03/this-pr-firm-took-artificial-intelligence-mainstream/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/02/03/this-pr-firm-took-artificial-intelligence-mainstream/amp/",
-      "publishedDateTime": "2022-02-03T07:06:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/02/10/on-ai-ethics-wendy-foster-director-of-engineering-and-data-science-at-shopify/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/02/10/on-ai-ethics-wendy-foster-director-of-engineering-and-data-science-at-shopify/amp/",
+      "publishedDateTime": "2022-02-10T06:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -344,25 +461,26 @@
         "news"
       ],
       "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-02-03-humans-v-ai-we-found-out-whos-better-at-making-money.md",
-      "title": "Humans v AI: We found out who’s better at making money",
-      "excerpt": "Artificial intelligence (AI) has now closely matched or even surpassed ... emergence and growth of the financial technology industry (fintech), where technology startups increasingly challenge ...",
+      "path": "_news/2022-02-10-who-its-time-to-eliminate-ageism-in-artificial-intelligence.md",
+      "title": "WHO: It’s Time to Eliminate Ageism in Artificial Intelligence",
+      "excerpt": "February 10, 2022 - As caregivers examine how artificial intelligence (AI) can improve healthcare for ... The risks associated with AI-driven healthcare revolve mainly around ageism, which is discrimination based on one’s age that can affect how useful ...",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/humans-v-ai-whos-better-at-making-money-syndication",
-      "originalUrl": "https://thenextweb.com/news/humans-v-ai-whos-better-at-making-money-syndication",
+      "webUrl": "https://www.who.int/publications/i/item/9789240040793",
+      "originalUrl": "https://healthitanalytics.com/news/who-its-time-to-eliminate-ageism-in-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 151,
       "tags": null,
       "images": [
         {
-          "url": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F02%2FAIvHumanHed.jpg&signature=1d49fa78f49d046b9d0e17884d4723b0",
-          "width": 1280,
-          "height": 640,
+          "url": "https://www.who.int/images/default-source/campaigns/global-campaign-to-combat-ageism/ageism-in-ai---cover.tmb-1200v.jpg?sfvrsn=8925a8df_1",
+          "width": 1200,
+          "height": 1697,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -372,14 +490,58 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T06:50:00-08:00",
+      "publishedDateTime": "2022-02-10T06:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-fewer-autonomous-vehicle-companies-in-california-drive-millions-more-miles-in-testing.md",
+      "title": "Fewer autonomous vehicle companies in California drive millions more miles in testing",
+      "excerpt": "Fewer companies tested autonomous vehicles ... reported period, test vehicles with human safety drivers behind the wheel traveled about 4,091,500 million miles on California’s public roads ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theautochannel.com/news/2022/02/09/1104752-autonomous-vehicles-traveled-over-4-million-miles-california.html",
+      "originalUrl": "https://techcrunch.com/2022/02/10/fewer-autonomous-vehicle-companies-in-california-drive-millions-more-miles-in-testing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theautochannel.com/news/2022/02/09/1104752-autonomous-vehicles-traveled-over-4-million-miles-california.1.jpg",
+          "width": 400,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-10T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -395,27 +557,26 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
         "AI",
-        "AI Ethics"
+        "AI in Autos"
       ]
     },
     {
-      "path": "_news/2022-02-03-virtual-ciso-startup-cynomi-raises-35m-to-help-smbs-automate-cybersecurity.md",
-      "title": "Virtual CISO startup Cynomi raises $3.5M to help SMBs automate cybersecurity",
-      "excerpt": "Cynomi, an Israeli cybersecurity startup that has built a virtual CISO ... human component and instead uses artificial intelligence (AI) technology to emulate a human CISO and automate previously ...",
+      "path": "_news/2022-02-10-odaia-raises-138m-for-its-ai-powered-commercial-insights-platform-for-pharma-companies.md",
+      "title": "ODAIA raises $13.8M for its AI-powered commercial insights platform for pharma companies",
+      "excerpt": "Toronto-based ODAIA, an AI-powered commercial insights platform for pharmaceutical companies, has raised $13.8 million in Series A funding led by Flint Capital. The platform combines data analysis ...",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/",
-      "originalUrl": "https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/",
+      "webUrl": "https://techcrunch.com/2022/02/10/odaia-raises-13-8m-for-its-ai-powered-commercial-insights-platform-for-pharma-companies/",
+      "originalUrl": "https://techcrunch.com/2022/02/10/odaia-raises-13-8m-for-its-ai-powered-commercial-insights-platform-for-pharma-companies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 78,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-174074147.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/Holding-tablet-with-Maptual-App.png?w=1024",
+          "width": 1023,
+          "height": 681,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -423,9 +584,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/amp/",
-      "publishedDateTime": "2022-02-03T06:36:00-08:00",
+      "ampWebUrl": "https://techcrunch.com/2022/02/10/odaia-raises-13-8m-for-its-ai-powered-commercial-insights-platform-for-pharma-companies/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/10/odaia-raises-13-8m-for-its-ai-powered-commercial-insights-platform-for-pharma-companies/amp/",
+      "publishedDateTime": "2022-02-10T06:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -452,21 +613,55 @@
       ]
     },
     {
-      "path": "_news/2022-02-03-watch-toyotas-outrageous-self-driving-supra-drift-car-go-sideways.md",
-      "title": "Watch Toyota’s outrageous self-driving Supra drift car go sideways",
-      "excerpt": "As the automotive community awaits the dawn of a fully autonomous, self-driving car, the Toyota Research Institute (TRI) has other things in mind. Care for a self-drifting vehicle, specifically a new Supra with Toyota’s Nonlinear Model Predictive Control ...",
+      "path": "_news/2022-02-10-visionifyai-chosen-as-computer-vision-solutions-partner-by-dessert-toppings-company-tr-toppers.md",
+      "title": "Visionify.ai Chosen as Computer Vision Solutions Partner by Dessert Toppings Company TR Toppers",
+      "excerpt": "DENVER, Feb. 10, 2022 /PRNewswire/ -- Visionify.ai, a Colorado based Computer Vision company that provides turnkey solutions to its customers, today announced it is now a solutions partner for TR Toppers, Inc. The processor and packager of branded and non ...",
       "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/watch-toyotas-outrageous-self-driving-supra-drift-car-go-sideways-03710358/",
-      "originalUrl": "https://www.slashgear.com/watch-toyotas-outrageous-self-driving-supra-drift-car-go-sideways-03710358/",
+      "webUrl": "https://www.tmcnet.com/usubmit/-visionifyai-chosen-as-computer-vision-solutions-partner-dessert-/2022/02/10/9543121.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-visionifyai-chosen-as-computer-vision-solutions-partner-dessert-/2022/02/10/9543121.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-10T05:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-microsoft-azure-women-in-ai-program-experience.md",
+      "title": "Microsoft Azure Women in AI Program Experience",
+      "excerpt": "How do I even start?” I somehow ran into a training program called Microsoft Azure Women in AI Program on Google when I searched “how to get certified in Azure”. After hitting that “Register now for upcoming classes” button, I received an AI-900 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/microsoft-azure-women-ai-program-experience-foong-min-wong",
+      "originalUrl": "https://www.linkedin.com/pulse/microsoft-azure-women-ai-program-experience-foong-min-wong",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/02/Screenshot-16.v1.cropped.jpg",
-          "width": 1440,
-          "height": 589,
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHlFLe62Tk6xg/article-cover_image-shrink_600_2000/0/1644499792793?e=1650499200&v=beta&t=hPTjgKDR8S1LBZS7NsOAOd4WOrrTCtqfDBYdp4Ih2DA",
+          "width": 1668,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -474,16 +669,68 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/watch-toyotas-outrageous-self-driving-supra-drift-car-go-sideways-03710358/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/watch-toyotas-outrageous-self-driving-supra-drift-car-go-sideways-03710358/amp/",
-      "publishedDateTime": "2022-02-03T06:35:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-10T05:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving.md",
+      "title": "Tesla Is Crazy To Not Make Full Use Of Maps To Improve ‘F’ Self-Driving",
+      "excerpt": "Almost every self-driving car team makes use of pre-computed maps, combined with what their sensors see, to help them understand the road and drive correctly and safely on it. Tesla is a rare exception, deprecating detailed maps and trying to use mostly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62048c75c49ecc67de9ea195/0x0.jpg?format=jpg&crop=719,405,x0,y0,safe&fit=crop",
+          "width": 719,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/amp/",
+      "publishedDateTime": "2022-02-10T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -504,21 +751,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-03-annotell-raises-24m-to-develop-data-labeling-tools-for-autonomous-driving-systems.md",
-      "title": "Annotell raises $24M to develop data labeling tools for autonomous driving systems",
-      "excerpt": "Annotell, a company developing data labeling tools for autonomous vehicle systems, has raised $24 million in venture capital.",
+      "path": "_news/2022-02-10-three-ways-fintech-will-influence-the-cfo-role.md",
+      "title": "Three Ways Fintech Will Influence The CFO Role",
+      "excerpt": "So, who is the primary beneficiary of this fintech revolution? CFOs. In the past few years, new technologies and software have spilled into every aspect of finance, from analytics to AI and beyond. Digital tools have helped boost efficiency and decision ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/03/annotell-raises-24m-to-develop-data-labeling-tools-for-autonomous-driving-systems/",
-      "originalUrl": "https://venturebeat.com/2022/02/03/annotell-raises-24m-to-develop-data-labeling-tools-for-autonomous-driving-systems/",
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 134,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/self-driving-car.jpg?w=1200&strip=all",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/606b44f264bac4503c6bfc54/0x0.jpg?format=jpg&width=1200&fit=bounds",
           "width": 1200,
-          "height": 856,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -526,9 +773,104 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/03/annotell-raises-24m-to-develop-data-labeling-tools-for-autonomous-driving-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/03/annotell-raises-24m-to-develop-data-labeling-tools-for-autonomous-driving-systems/amp/",
-      "publishedDateTime": "2022-02-03T06:15:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/amp/",
+      "publishedDateTime": "2022-02-10T04:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-uae-female-students-develop-solar-powered-ai-robot-to-clean-ocean.md",
+      "title": "UAE: Female students develop solar-powered AI robot to clean ocean",
+      "excerpt": "Five female students have created a robot that uses Artificial Intelligence (AI) to clean the sea from plastic and other floating and mineral wastes to protect the marine environment. The robot, powered entirely by solar energy, can navigate autonomously ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/environment/uae-female-students-develop-solar-powered-ai-robot-to-clean-ocean",
+      "originalUrl": "https://www.khaleejtimes.com/environment/uae-female-students-develop-solar-powered-ai-robot-to-clean-ocean",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=e5126623-23d0-405d-a9ea-4cf4f75be3f4&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.89189&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/environment/uae-female-students-develop-solar-powered-ai-robot-to-clean-ocean?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/environment/uae-female-students-develop-solar-powered-ai-robot-to-clean-ocean?amp=1",
+      "publishedDateTime": "2022-02-10T04:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games.md",
+      "title": "Deepdub closes fresh financing round for AI that dubs movies, shows, and games",
+      "excerpt": "The AI-generated voice in the target language can then perform at any ... But localization isn’t as straightforward as simple translation. As The Washington Post’s Steven Zeitchik points ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games/",
+      "originalUrl": "https://venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/deepdub-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 805,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games/amp/",
+      "publishedDateTime": "2022-02-10T04:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -551,413 +893,17 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-renderedai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models.md",
-      "title": "Rendered.ai unveils Platform as a Service for creating synthetic data to train AI models",
-      "excerpt": "We caught up with Rendered.ai Founder and CEO Nathan Kundtz to learn more about the use cases the platform can serve, and how it works under the hood. Kundtz, a physicist by training, has a Ph.D. from Duke University. He also has previous startup ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/rendered-ai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models/",
-      "originalUrl": "https://www.zdnet.com/article/rendered-ai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4993157a7ba74421497cfaaf09ab71832c3d89ae/2022/02/02/393bc13e-c1d9-4f5f-9353-98f020e58b03/rendered-ai.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/rendered-ai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rendered-ai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models/",
-      "publishedDateTime": "2022-02-03T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-deepmind-co-founder-plans-to-help-us-vc-firm-greylock-penetrate-europe.md",
-      "title": "DeepMind co-founder plans to help U.S. VC firm Greylock penetrate Europe",
-      "excerpt": "Greylock has profited from early bets on U.S. tech giants like Airbnb, Facebook and LinkedIn but it also wants to capitalize on fast-growing companies in Europe. DeepMind co-founder Mustafa Suleyman is planning to help U.S. venture capital firm Greylock ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/deepmind-co-founder-plans-to-help-us-vc-firm-greylock-penetrate-europe/ar-AATr2HE",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106830698-1611754303373-GettyImages-627782598.jpg?v=1611755158",
-          "width": 5496,
-          "height": 3664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-      "publishedDateTime": "2022-02-03T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-        "domain": "com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-proofpoint-announces-2021-financial-results-completes-v-shaped-recovery-with-both-revenue-and-billings-growing-more-than-20.md",
-      "title": "Proofpoint Announces 2021 Financial Results; Completes V-Shaped Recovery with Both Revenue and Billings Growing More Than 20%",
-      "excerpt": "(the “Company” or “Proofpoint”), a leading cybersecurity and compliance company, today announced year-end financial results for 2021. “Our strong 2021 results are a testament to our team’s consistent execution and dedicated focus on protecting our customers from advanced threats and compliance risks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8469007/proofpoint-announces-2021-financial-results-completes-v-shaped-recovery-with-both-revenue-and-billings-growing-more-than-20",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8469007/proofpoint-announces-2021-financial-results-completes-v-shaped-recovery-with-both-revenue-and-billings-growing-more-than-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T04:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-does-ai-improve-human-judgment.md",
-      "title": "Does AI Improve Human Judgment?",
-      "excerpt": "Additionally, intuition and experience did not translate into ... Businesses may use AI in decision-making via different methods. Opinion mining is a Natural Language Processing (NLP) based ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61d679ba5e90f8f7f5034ea8/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1000,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/amp/",
-      "publishedDateTime": "2022-02-03T04:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-02-03-strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock.md",
-      "title": "Strong Earnings From Cloud Behemoths Bode Well For Snowflake Stock",
-      "excerpt": "Per the Trefis machine learning engine which analyzes historical stock price ... While there are other rivals in this space, including Amazon’s Redshift, Microsoft’s Azure Synapse, and Google’s Big Query, Snowflake offers strong product differentiation.",
+      "path": "_news/2022-02-10-idc-survey-illustrates-the-growing-importance-of-purpose-built-ai-infrastructure-in-the-modern-enterprise.md",
+      "title": "IDC Survey Illustrates the Growing Importance of Purpose-built AI Infrastructure in the Modern Enterprise",
+      "excerpt": "Security/compliance and cost also play a role. GPU-accelerated compute, host processors with AI-boosting software, and high-density clusters are top requirements for on-premises/edge and cloud-based compute infrastructure for AI training and inferencing.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60470fda52dd0906fe0a7a42/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 850,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/amp/",
-      "publishedDateTime": "2022-02-03T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code.md",
-      "title": "Bad news for developers? Deepmind's AI is getting good at writing code",
-      "excerpt": "Researchers from Google's AI-focused unit DeepMind claim its AlphaCode system can express solutions to problems in code that achieves a median-level score in programming competitions undertaken by new programmers. Those competitions require humans to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "originalUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0cd0c1ca8b8990cef9e8b17289258a491448ac55/2021/06/21/e487ce2e-c1f8-41e7-80ed-00f2310ac673/developers-heres-what-they-really-think-60d0614cb5c5a73d0c2020e1-1-jun-21-2021-11-35-52-poster.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "publishedDateTime": "2022-02-03T03:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-four-tips-to-avoid-common-startup-errors.md",
-      "title": "Four Tips To Avoid Common Startup Errors",
-      "excerpt": "As a global investor, I’m often asked by global entrepreneurs how to scale successfully and avoid some of the common errors that startups make. Startups are faced with a range of decisions at each phase of the company’s growth;",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/03/four-tips-to-avoid-common-startup-errors/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/03/four-tips-to-avoid-common-startup-errors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61fa764aac29d3e6111fe0fa/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/03/four-tips-to-avoid-common-startup-errors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/02/03/four-tips-to-avoid-common-startup-errors/amp/",
-      "publishedDateTime": "2022-02-03T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-global-cognitive-collaboration-testing-market-business-strategies-revenue-and-growth-rate-upto-2027.md",
-      "title": "Global Cognitive Collaboration Testing Market Business Strategies, Revenue and Growth Rate Upto 2027",
-      "excerpt": "Cisco, Microsoft Corporation ... of the key players in the Global Cognitive Collaboration Testing market. It helps in understanding the competition by providing in-depth profiling of companies and products/services provided. Through Competitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-cognitive-collaboration-testing-market-business-strategies-revenue-and-growth-rate-upto-2027-2022-02-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-cognitive-collaboration-testing-market-business-strategies-revenue-and-growth-rate-upto-2027-2022-02-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T02:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-best-buy-selects-aws-as-its-strategic-cloud-provider.md",
-      "title": "Best Buy Selects AWS as Its Strategic Cloud Provider",
-      "excerpt": "Combining AWS’s advanced cloud technologies with ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20220203005266/best-buy-selects-aws-as-its-strategic-cloud-provider",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220203005266/best-buy-selects-aws-as-its-strategic-cloud-provider",
+      "webUrl": "https://www.galvnews.com/news_ap/business/article_6d2af9ef-b44b-5341-8896-ad7a81f8a2d8.html?block_id=531919",
+      "originalUrl": "https://www.galvnews.com/news_ap/business/article_6d2af9ef-b44b-5341-8896-ad7a81f8a2d8.html?block_id=531919",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -967,54 +913,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T02:10:00-08:00",
+      "publishedDateTime": "2022-02-10T04:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-gpu-database-market-to-see-huge-growth-by-2026-blazingdb-heterodb-fuzzy-logix.md",
-      "title": "GPU Database Market to See Huge Growth by 2026 | Blazingdb, Heterodb, Fuzzy Logix",
-      "excerpt": "The Latest research study released by HTF MI “GPU Database Market” with 100+ pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/gpu-database-market-to-see-huge-growth-by-2026-blazingdb-heterodb-fuzzy-logix",
-      "originalUrl": "https://www.digitaljournal.com/pr/gpu-database-market-to-see-huge-growth-by-2026-blazingdb-heterodb-fuzzy-logix",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/11/679798b7b60852d77d12fd2313bd60373088e7da-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T01:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Daily News",
+        "domain": "galvnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1029,45 +932,27 @@
       ]
     },
     {
-      "path": "_news/2022-02-03-artificial-intelligence-ai-robots-market-key-players-industry-outlook-trends-share-industry-size-growth-opportunities-forecast-to-2027.md",
-      "title": "Artificial Intelligence (AI) Robots Market Key Players, Industry Outlook, Trends, Share, Industry Size, Growth, Opportunities, Forecast To 2027",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 03, 2022 (Heraldkeepers) -- Artificial Intelligence in Robots Market size is expected to reach US$ 30.44 Bn. by 2026, at a CAGR of 31.78% during the forecast period.",
+      "path": "_news/2022-02-10-robots-and-being-spied-on-by-smart-technology-are-among-nations-new-fears.md",
+      "title": "Robots and being spied on by smart technology are among nation's new fears",
+      "excerpt": "To mark the launch of new psychological thriller TV The Fear Index; streaming service NOW reveals the nation’s biggest fears and how they control us. The digital age has replaced clowns ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-key-players-industry-outlook-trends-share-industry-size-growth-opportunities-forecast-to-2027-2022-02-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-key-players-industry-outlook-trends-share-industry-size-growth-opportunities-forecast-to-2027-2022-02-03",
+      "webUrl": "https://www.coventrytelegraph.net/whats-on/whats-on-news/robots-being-spied-smart-technology-23049146",
+      "originalUrl": "https://www.coventrytelegraph.net/whats-on/whats-on-news/robots-being-spied-smart-technology-23049146",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T01:40:00-08:00",
+      "publishedDateTime": "2022-02-10T04:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Coventry Telegraph",
+        "domain": "coventrytelegraph.net",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1076,71 +961,26 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI",
         "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-deepl-and-rozetta-translate-now-fully-managed-in-memsource.md",
-      "title": "DeepL and Rozetta Translate Now Fully Managed in Memsource",
-      "excerpt": "Follow Memsource on Twitter @Memsource. DeepL develops AI products to expand human possibility, overcome language barriers, and bring cultures closer together. DeepL Translator, a machine translation system that, according to blind tests, achieves the ...",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/deepl-and-rozetta-translate-now-fully-managed-in-memsource/",
-      "originalUrl": "https://slator.com/deepl-and-rozetta-translate-now-fully-managed-in-memsource/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2017/01/Memsource_2020_900x600_CD.png",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-02-03-the-ai-technology-revolution-in-practical-data-protection-in-finance.md",
-      "title": "The AI technology revolution in practical data protection in Finance",
-      "excerpt": "Made for innovators interested in creating the next breakthroughs in machine intelligence to enhance human potential.",
+      "path": "_news/2022-02-10-spinny-acquires-ai-powered-car-connectivity-start-up-scouto.md",
+      "title": "Spinny acquires AI-powered car connectivity start-up Scouto",
+      "excerpt": "Feb 10 Pre-owned car retailing platform Spinny has acquired a 100 per cent stake in AI-powered Connected Car startup Scouto for an undisclosed price. Founded by ex-race car driver Akshay Gupta (CEO) & Shubham Sharma (CTO), Scouto has built an end-to-end ...",
       "sourceUrl": null,
-      "webUrl": "https://techhq.com/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/",
-      "originalUrl": "https://techhq.com/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/",
+      "webUrl": "https://www.thehindubusinessline.com/companies/spinny-acquires-ai-powered-car-connectivity-start-up-scouto/article64999844.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/companies/spinny-acquires-ai-powered-car-connectivity-start-up-scouto/article64999844.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.techhq.com/wp-content/uploads/2022/02/shutterstock_1202221816-375x210.jpg",
-          "width": 375,
-          "height": 210,
+          "url": "https://www.thehindubusinessline.com/incoming/xkjt62/article64999969.ece/alternates/LANDSCAPE_615/IMG_hy26Sindhu_5_1_6D94DH64.jpg",
+          "width": 615,
+          "height": 383,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1148,13 +988,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techhq.com/amp/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/",
-      "cdnAmpWebUrl": "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/",
-      "publishedDateTime": "2022-02-03T00:49:00-08:00",
+      "ampWebUrl": "https://www.thehindubusinessline.com/companies/spinny-acquires-ai-powered-car-connectivity-start-up-scouto/article64999844.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/spinny-acquires-ai-powered-car-connectivity-start-up-scouto/article64999844.ece/amp/",
+      "publishedDateTime": "2022-02-10T03:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechHQ",
-        "domain": "techhq.com",
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1164,27 +1004,25 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance"
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-02-03-ai-in-computer-vision-market-size-share-top-key-players-industry-growth-trends-and-forecast-2028.md",
-      "title": "AI In Computer Vision Market Size, Share, Top Key Players, Industry Growth, Trends and Forecast 2028",
-      "excerpt": "Feb 03, 2022 (Heraldkeepers) -- Global AI In Computer Vision Market report spotlights major statistics of the current industry state and is a beneficial source of developments and opportunities ...",
+      "path": "_news/2022-02-10-why-microsoft-awarded-this-techie.md",
+      "title": "Why Microsoft Awarded This Techie",
+      "excerpt": "\"During the pandemic I gave out 20+ books on Microsoft Cloud, Azure and AI to IT professionals who lost their jobs due to layoffs so they could upgrade their skills and get back into the industry.\"",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-top-key-players-industry-growth-trends-and-forecast-2028-2022-02-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-top-key-players-industry-growth-trends-and-forecast-2028-2022-02-03",
+      "webUrl": "https://www.rediff.com/getahead/report/kasam-shaikh-microsoft-mvp-in-ai/20220209.htm",
+      "originalUrl": "https://www.rediff.com/getahead/report/kasam-shaikh-microsoft-mvp-in-ai/20220209.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://im.rediff.com/getahead/2022/feb/0909kasam-shaikh-lead1.jpg",
+          "width": 420,
+          "height": 290,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1192,16 +1030,59 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-02T22:54:00-08:00",
+      "ampWebUrl": "https://m.rediff.com/amp/getahead/report/kasam-shaikh-microsoft-mvp-in-ai/20220209.htm",
+      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/getahead/report/kasam-shaikh-microsoft-mvp-in-ai/20220209.htm",
+      "publishedDateTime": "2022-02-10T02:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "rediff.com",
+        "domain": "rediff.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech.md",
+      "title": "Microsoft Keeps Its Finance Head Count Flat With AI, Bots and Other Tech",
+      "excerpt": "Microsoft Corp. employs about 5,000 people in its finance team, a number that has remained largely flat in recent years, even though the company’s operations, profit and market capitalization have grown tremendously. Microsoft had 181,000 employees at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "originalUrl": "https://www.wsj.com/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-482958/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "publishedDateTime": "2022-02-10T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1217,7 +1098,50 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto.md",
+      "title": "Spinny acquires AI-powered car connectivity solutions startup Scouto",
+      "excerpt": "Pre-owned car retailing platform Spinny on Thursday said it has acquired 100 per cent stake in Ahmedabad-based startup Scouto, a move that marks consolidation in the AI-powered used car solutions space. The company, however, did not disclose the amount it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto",
+      "originalUrl": "https://www.freepressjournal.in/business/spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/freepressjournal/2021-12/7371e5f2-de13-4702-970f-12c929116c02/Spinny_Logo_withBG.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1198,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto",
+      "publishedDateTime": "2022-02-10T01:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

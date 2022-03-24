@@ -2,6 +2,529 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-23-delphia-review-portfolio-management-meets-machine-learning.md",
+      "title": "Delphia Review: Portfolio Management Meets Machine Learning",
+      "excerpt": "Delphia's portfolios are built around algorithms predicting market movements. The price of admission? Your data. Learn more in our Delphia review.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
+      "originalUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/affiliates/images/Delphia_Review_WBiWR0A.original.png?width=1200&crop=2:1,offset-y0",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-how-ai-helps-traditional-banks-compete-against-modern-fintech-and-digital-competitors.md",
+      "title": "How AI Helps Traditional Banks Compete Against Modern FinTech and Digital Competitors",
+      "excerpt": "By Sri Ambati, CEO & Co-founder of H2O.ai AI is becoming an essential technology for the financial services and banking sector as it can help keep organizations stay a step ahead of ever-evolving challenges in meeting customer demands,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/how-ai-helps-traditional-banks-compete-against-modern-fintech-and-digital-competitors/",
+      "originalUrl": "https://www.globalbankingandfinance.com/how-ai-helps-traditional-banks-compete-against-modern-fintech-and-digital-competitors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/iStock-1165067636.jpg",
+          "width": 750,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/how-ai-helps-traditional-banks-compete-against-modern-fintech-and-digital-competitors/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-ai-helps-traditional-banks-compete-against-modern-fintech-and-digital-competitors/",
+      "publishedDateTime": "2022-03-22T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-expertai-takes-top-honors-in-fintech-breakthrough-awards-for-best-use-of-ai-in-fintech.md",
+      "title": "Expert.ai Takes Top Honors in FinTech Breakthrough Awards for \"Best Use of AI in FinTech\"",
+      "excerpt": "Expert.ai (EXAI:IM), the leader in artificial intelligence (AI) for language understanding, has been named the winner in the 6 th Annual FinTech Breakthrough Awards for \"Best Use of AI in FinTech.\" Attracting nearly 4,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-expertai-takes-top-honors-fintech-breakthrough-awards-best-/2022/03/18/9566450.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-expertai-takes-top-honors-fintech-breakthrough-awards-best-/2022/03/18/9566450.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-tempe-machine-learning-startup-sells-to-new-mexico-cybersecurity-firm.md",
+      "title": "Tempe machine learning startup sells to New Mexico cybersecurity firm",
+      "excerpt": "Cyr3con uses machine learning to analyze digital threats and risk. Aaron Sandeen, CEO of Cyber Security Works, told Business First that the deal closed in January before being announced on March 15. He declined to disclose financial details and said that Tempe,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/phoenix/inno/stories/news/2022/03/17/tempe-startup-sells-to-new-mexico-firm.html",
+      "originalUrl": "https://www.bizjournals.com/phoenix/inno/stories/news/2022/03/17/tempe-startup-sells-to-new-mexico-firm.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-standard-bank-employs-aws-technology-to-boost-shariah-banking-services.md",
+      "title": "Standard Bank employs AWS technology to boost Shari’ah Banking services",
+      "excerpt": "Standard Bank, which offers a range of Shari’ah-compliant banking solutions, is introducing a dedicated call centre line for its Shari’ah banking customers, which is powered by cutting-edge technology and promises to provide customers with personalised and efficient customer service experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/91911/standard-bank-employs-aws-technology-to-boost-shariah-banking-services",
+      "originalUrl": "https://www.finextra.com/pressarticle/91911/standard-bank-employs-aws-technology-to-boost-shariah-banking-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T02:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-albuquerque-cybersecurity-firm-acquires-arizona-machine-learning-startup.md",
+      "title": "Albuquerque cybersecurity firm acquires Arizona machine learning startup",
+      "excerpt": "The acquisition adds about 27 people to Cyber Security Works' workforce, and it comes after an expansion into a larger office space in Uptown Albuquerque at the end of last year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/albuquerque/inno/stories/news/2022/03/16/cyber-security-works-acquires-cyr3con.html",
+      "originalUrl": "https://www.bizjournals.com/albuquerque/inno/stories/news/2022/03/16/cyber-security-works-acquires-cyr3con.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-london-school-of-business-finances-digital-academy-set-to-further-develop-student-skills-in-the-digital-and-tech-sphere.md",
+      "title": "London School of Business & Finance’s Digital Academy Set to Further Develop Student Skills in the Digital and Tech Sphere",
+      "excerpt": "London School of Business & Finance’s Digital Academy Set to Further Develop Student Skills in the Digital and Tech Sphere",
+      "sourceUrl": null,
+      "webUrl": "https://www.fenews.co.uk/education/london-school-of-business-finances-digital-academy-set-to-further-develop-student-skills-in-the-digital-and-tech-sphere/",
+      "originalUrl": "https://www.fenews.co.uk/education/london-school-of-business-finances-digital-academy-set-to-further-develop-student-skills-in-the-digital-and-tech-sphere/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fenews.co.uk/wp-content/uploads/2022/03/Shane-De-Fonseka.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fenews.co.uk",
+        "domain": "fenews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-artificial-intelligence-in-fintech.md",
+      "title": "Artificial Intelligence in Fintech",
+      "excerpt": "What Is Artificial Intelligence in Fintech As artificial intelligence (AI) starts to enter the financial technology (fintech) sector, there is a lot of buzz and excitement around what it could mean for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-fintech-raja-al-mazrouei",
+      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-fintech-raja-al-mazrouei",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGCUzlLrNH1MQ/article-cover_image-shrink_600_2000/0/1647424327619?e=1653523200&v=beta&t=nZUq3B9xcBK7EyvixKj86WTBa5RqSD0x3Ub4xkBqPk4",
+          "width": 1019,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-financial-services-businesses-must-stop-putting-customer-due-diligence-on-the-backburner.md",
+      "title": "Financial services businesses must stop putting Customer Due Diligence on the backburner",
+      "excerpt": "Financial crime challenges even the most diligent of organisations. During the Covid-19 pandemic, fraud proliferated in the UK, with professional criminals targeting the public amid Covid-19 disruption to the tune of £37 million in 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/the-long-read/363/financial-services-businesses-must-stop-putting-customer-due-diligence-on-the-backburner",
+      "originalUrl": "https://www.finextra.com/the-long-read/363/financial-services-businesses-must-stop-putting-customer-due-diligence-on-the-backburner",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/oped/363.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-how-ai-reshapes-the-fintech-landscape.md",
+      "title": "How AI reshapes the Fintech Landscape?",
+      "excerpt": "AI is no more an enemy of finance space as it was a decade ago when it was met with blank stares by leaders in the field. Enabling technology into the finance landscape has brought in more resilience,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/how-ai-reshapes-fintech-landscape-mileseducation",
+      "originalUrl": "https://www.linkedin.com/pulse/how-ai-reshapes-fintech-landscape-mileseducation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE4c6S_TVyX-A/article-cover_image-shrink_720_1280/0/1647337835691?e=1653523200&v=beta&t=7Mw6OVefYeN4oFPTpPXsZExUWtgYyDk-_ANzjnBMPns",
+          "width": 1188,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T02:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-predictive-analytics-and-machine-learning-market-may-see-a-big-move-alteryx-globe-telecom-schneider-electric-sas-institue-makinarocks.md",
+      "title": "Predictive Analytics And Machine Learning Market May See a Big Move | Alteryx, Globe Telecom, Schneider Electric, SAS Institue, MakinaRocks",
+      "excerpt": "The latest independent research document on Predictive Analytics And Machine Learning examine investment in Market. It describes how companies deploying",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/predictive-analytics-and-machine-learning-market-may-see-a-big-move-alteryx-globe-telecom-schneider-electric-sas-institue-makinarocks",
+      "originalUrl": "https://www.digitaljournal.com/pr/predictive-analytics-and-machine-learning-market-may-see-a-big-move-alteryx-globe-telecom-schneider-electric-sas-institue-makinarocks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T23:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-ai-and-machine-learning-in-financial-services.md",
+      "title": "AI and machine learning in financial services",
+      "excerpt": "While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption to ensure the most successful outcomes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/resources/231729/ai-and-machine-learning-in-financial-services",
+      "originalUrl": "https://www.networkworld.com/resources/231729/ai-and-machine-learning-in-financial-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.resources.networkworld.com/wp-content/uploads/2022/03/1647373789.png",
+          "width": 1333,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T13:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-03-10-fintech-lender-lendai-raises-35m-for-ai-based-platform-to-enable-foreign-investors-to-buy-us-real-estate.md",
       "title": "Fintech lender Lendai raises $35M for AI-based platform to enable foreign investors to buy US real estate",
       "excerpt": "Proceeds from the equity and debt seed funding will help Lendai expand its presence in foreign investor markets.",
@@ -94,6 +617,59 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-ai-in-the-workplace-why-machine-learning-is-not-coming-after-your-job.md",
+      "title": "AI in the workplace. Why machine learning is not coming after your job.",
+      "excerpt": "This article was originally published in 2021 and has been updated to reflect the latest AI and workforce trends. Back when this article was originally written, 2020 was the year that cars would fly,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-workplace-why-machine-learning-coming-after-your-job-colby-tunick",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-workplace-why-machine-learning-coming-after-your-job-colby-tunick",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGTGr44BDJ2eg/article-cover_image-shrink_720_1280/0/1646422265575?e=1653523200&v=beta&t=xfc190ehTr-2w95P8bwf-PtN3rpphF5myLB0QI1v0jk",
+          "width": 720,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -788,622 +1364,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-how-fernando-gonzalez-is-driving-mission-driven-fintech-at-coru.md",
-      "title": "How Fernando Gonzalez Is Driving Mission-Driven Fintech At Coru",
-      "excerpt": "Gonzalez is a fintech expert turned investor ... The second, and most prominent, pillar of Coru’s mission is providing AI-supported financial coaching and education. It’s important, Gonzalez says, to ensure users are having human conversations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brucetulgan/2022/02/24/how-fernando-gonzalez-is-driving-mission-driven-fintech-at-coru/",
-      "originalUrl": "https://www.forbes.com/sites/brucetulgan/2022/02/24/how-fernando-gonzalez-is-driving-mission-driven-fintech-at-coru/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6217f1991a20376a76949c9c/0x0.jpg?format=jpg&crop=693,390,x0,y133,safe&fit=crop",
-          "width": 693,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brucetulgan/2022/02/24/how-fernando-gonzalez-is-driving-mission-driven-fintech-at-coru/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucetulgan/2022/02/24/how-fernando-gonzalez-is-driving-mission-driven-fintech-at-coru/amp/",
-      "publishedDateTime": "2022-02-24T13:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-converging-ai-and-longevity-research-cutting-edge-innovation-in-insurtech-at-hits.md",
-      "title": "Converging AI And Longevity Research: Cutting Edge Innovation In Insurtech At HITS",
-      "excerpt": "The convergence of artificial intelligence, aging research, distributed ledger technologies, new sensors, augmented and virtual reality is driving innovation in health and life insurance. To facilitate for this trend Generali set up HITS - House of Insurtech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/02/24/converging-ai-and-longevity-research-cutting-edge-innovation-in-insurtech-at-hits/",
-      "originalUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/02/24/converging-ai-and-longevity-research-cutting-edge-innovation-in-insurtech-at-hits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6217ac51d6e1527d378590b6/0x0.jpg?format=jpg&crop=2047,960,x0,y9,safe&fit=crop",
-          "width": 2047,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/02/24/converging-ai-and-longevity-research-cutting-edge-innovation-in-insurtech-at-hits/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2022/02/24/converging-ai-and-longevity-research-cutting-edge-innovation-in-insurtech-at-hits/amp/",
-      "publishedDateTime": "2022-02-24T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-2022-fintech-awards-spotlight-toggle-ai-award-nominations-announced.md",
-      "title": "2022 Fintech Awards Spotlight: TOGGLE AI, Award Nominations Announced",
-      "excerpt": "Benzinga, a media and data provider bridging the gap between retail and institutional investors, will be holding its annual Benzinga Global Fintech Awards, a day of",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/fintech/22/02/25815021/2022-fintech-awards-spotlight-toggle-ai-award-nominations-announced",
-      "originalUrl": "https://www.benzinga.com/fintech/22/02/25815021/2022-fintech-awards-spotlight-toggle-ai-award-nominations-announced",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25815021",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25815021",
-      "publishedDateTime": "2022-02-24T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-airbus-to-provide-imagery-services-that-enable-intelinairs-crop-analytics-platform.md",
-      "title": "Airbus to Provide Imagery Services That Enable Intelinair’s Crop Analytics Platform",
-      "excerpt": "Intelinair and Airbus announced today a multi-year collaboration agreement that will provide high-resolution Airbus satellite imagery as an input to Intelinair’s artificial intelligence (AI) powered crop analytics AGMRI® platform to deliver a complete view of every acre,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-f9109ebdc5f746dab98e5c988215d616",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-f9109ebdc5f746dab98e5c988215d616",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-23T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-why-is-fintech-all-the-rage-in-the-mortgage-lending-industry.md",
-      "title": "Why Is Fintech All The Rage In The Mortgage Lending Industry?",
-      "excerpt": "It’s no secret that the mortgage lending industry is amidst a massive transformation. According to Reliance Mortgage, a Dallas mortgage company, “With the advent of fintech, borrowers now have more options than ever when it comes to securing a mortgage.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/why-is-fintech-all-the-rage-in-the-mortgage-lending-industry/",
-      "originalUrl": "https://techbullion.com/why-is-fintech-all-the-rage-in-the-mortgage-lending-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/02/why-is-fintech-all-the-rage-in-the-mortgage-lending-industry.jpg",
-          "width": 660,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/why-is-fintech-all-the-rage-in-the-mortgage-lending-industry/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-is-fintech-all-the-rage-in-the-mortgage-lending-industry/amp/",
-      "publishedDateTime": "2022-02-23T06:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-how-a-financial-planner-went-from-broke-to-generating-85-million.md",
-      "title": "How A Financial Planner Went From Broke To Generating $8.5 Million",
-      "excerpt": "Failure is a great teacher. When a financial manager went into debt, she took her own advice to manage her business, wealth and investments better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/",
-      "originalUrl": "https://www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62159857d3e152c3f3c0952c/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 960,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/amp/",
-      "publishedDateTime": "2022-02-23T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-digital-twins-ai-ml-transforming-the-fintech-landscape.md",
-      "title": "Digital Twins: AI & ML Transforming the Fintech Landscape",
-      "excerpt": "As emerging technologies of AI and ML get weaved into the fintech fabric, the industry will have to prep up to address an avalanche of new use-cases",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/420077",
-      "originalUrl": "https://www.entrepreneur.com/article/420077",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1645607608-MyPost10.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-23T01:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-paving-the-way-for-ai-and-machine-learning-success.md",
-      "title": "Paving the way for AI and Machine Learning success",
-      "excerpt": "Simith Nambiar, Practice Lead, Emerging Tech, APJ, Rackspace Technology, tells us how businesses can overcome the challenges they experience with their Artificial Intelligence/Machine Learning efforts ... Program in Finance, financial institutions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/",
-      "originalUrl": "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/02/AdobeStock_295768020.jpg",
-          "width": 1000,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "intelligentcio.com",
-        "domain": "intelligentcio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-key-learnings-for-financial-brands-to-use-in-2022.md",
-      "title": "Key Learnings For Financial Brands To Use In 2022",
-      "excerpt": "Dmitry Dolgorukov is the Co-Founder and CRO of HES Fintech, a leader in providing financial institutions with intelligent ... So how can brands engage artificial intelligence (AI) and machine learning (ML) effectively to get tangible results?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/22/key-learnings-for-financial-brands-to-use-in-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/22/key-learnings-for-financial-brands-to-use-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee0f9275f89c800062e36cd/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/22/key-learnings-for-financial-brands-to-use-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/02/22/key-learnings-for-financial-brands-to-use-in-2022/amp/",
-      "publishedDateTime": "2022-02-22T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-renewbuy-acquires-fintech-firm-artivaticai.md",
-      "title": "RenewBuy acquires fintech firm Artivatic.AI",
-      "excerpt": "Promoters of the AI-based start-up have received shares of RenewBuy, according to the chief executives of both the firms. The deal was closed in the first week of February. Agencies Last year around June, RenewBuy had raised $45 million from Apis Partners ...",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/articleshow/89708521.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/articleshow/89708521.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-95489,msid-89708520/j.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/amp_articleshow/89708521.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/insure/renewbuy-acquires-fintech-firm-artivatic-ai/amp_articleshow/89708521.cms",
-      "publishedDateTime": "2022-02-20T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-upstart-ceo-says-company-is-at-the-forefront-of-tackling-ancient-problem-of-lending-through-ai.md",
-      "title": "Upstart CEO says company is ‘at the forefront’ of tackling ancient problem of lending through AI",
-      "excerpt": "That upbeat view on the potential for AI-driven lending is one reason Upstart announced ... in a move viewed as somewhat surprising for a rapidly growing fintech name. The company cited the recent volatility in its share price, which has come down 64% ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/upstart-ceo-says-company-is-at-the-forefront-of-tackling-ancient-problem-of-lending-through-ai-11645127568",
-      "originalUrl": "https://www.marketwatch.com/story/upstart-ceo-says-company-is-at-the-forefront-of-tackling-ancient-problem-of-lending-through-ai-11645127568",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-273793/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/upstart-ceo-says-company-is-at-the-forefront-of-tackling-ancient-problem-of-lending-through-ai-11645127568",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/upstart-ceo-says-company-is-at-the-forefront-of-tackling-ancient-problem-of-lending-through-ai-11645127568",
-      "publishedDateTime": "2022-02-17T15:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-how-enterprises-can-combine-decision-automation-machine-learning-and-process-automation-for-better-business-results.md",
-      "title": "How Enterprises Can Combine Decision Automation, Machine Learning And Process Automation For Better Business Results",
-      "excerpt": "While AI holds the potential to transform all businesses across industries including financial services, insurance ... What is the difference between decision automation, machine learning and digital process automation? How do they all work together?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/02/16/how-enterprises-can-combine-decision-automation-machine-learning-and-process-automation-for-better-business-results/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/02/16/how-enterprises-can-combine-decision-automation-machine-learning-and-process-automation-for-better-business-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620bc7eeaba5d254fabf109c/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/02/16/how-enterprises-can-combine-decision-automation-machine-learning-and-process-automation-for-better-business-results/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/02/16/how-enterprises-can-combine-decision-automation-machine-learning-and-process-automation-for-better-business-results/amp/",
-      "publishedDateTime": "2022-02-16T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-upstart-stock-is-the-ai-powered-fintech-investment-you-cant-ignore.md",
-      "title": "Upstart Stock Is the AI-Powered Fintech Investment You Can’t Ignore",
-      "excerpt": "Are stodgy, traditional lenders feeling threatened in 2022? That’s exactly what California-headquartered Upstart",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/upstart-stock-is-the-ai-powered-fintech-investment-you-cant-ignore",
-      "originalUrl": "https://www.nasdaq.com/articles/upstart-stock-is-the-ai-powered-fintech-investment-you-cant-ignore",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T04:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,270 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-16-when-it-comes-to-health-care-ai-has-a-long-way-to-go.md",
+      "title": "When It Comes to Health Care, AI Has a Long Way to Go",
+      "excerpt": "Medical information is more complex and less available than the web data that many algorithms were trained on, so results can be misleading.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/health-care-ai-long-way-to-go/",
+      "originalUrl": "https://www.wired.com/story/health-care-ai-long-way-to-go/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61e22d6b844ec857b7138306/master/pass/healthcare-ai.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/health-care-ai-long-way-to-go/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/health-care-ai-long-way-to-go/amp",
+      "publishedDateTime": "2022-01-16T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-16-responsible-ai-will-give-you-a-competitive-advantage.md",
+      "title": "Responsible AI will give you a competitive advantage",
+      "excerpt": "Responsible AI practices are becoming prerequisites to even bidding on certain contracts, especially when governments are involved",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-competitive-advantage/",
+      "originalUrl": "https://venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-competitive-advantage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1287119472.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-competitive-advantage/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-competitive-advantage/amp/",
+      "publishedDateTime": "2022-01-15T13:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-facebook-has-designed-a-humanlike-mechanical-eyeball-along-with-a-body-and-head-that-would-be-covered-in-a-mold-resembling-human-skin.md",
+      "title": "Facebook has designed a humanlike mechanical eyeball, along with a body and head that would be covered in a mold 'resembling human skin.'",
+      "excerpt": "Facebook, aka Meta, has been somewhat public in its work in robotics, posting on its corporate AI department website about research on tactile sensors and open developer tools. Still, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/facebook-patents-animatronic-eyeball-robot-head-resembling-human-skin-meta-2022-1",
+      "originalUrl": "https://www.businessinsider.com/facebook-patents-animatronic-eyeball-robot-head-resembling-human-skin-meta-2022-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/61e0b62fc5e27c00185b86f9?width=1200&format=jpeg",
+          "width": 1084,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T10:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic.md",
+      "title": "New startup shows how emotion-detecting AI is intrinsically problematic",
+      "excerpt": "Hume, a new company emerging from stealth, claims that it is 'ethically' applying emotion AI. But the science is shaky at best.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/",
+      "originalUrl": "https://venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/YouFirst-AI-emotion-tracking-brand-video-campaigns.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/amp/",
+      "publishedDateTime": "2022-01-13T10:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-investing-in-ai-or-vr-stocks-dont-overlook-meta-platforms-in-2022.md",
+      "title": "Investing in AI or VR Stocks? Don't Overlook Meta Platforms in 2022",
+      "excerpt": "I want to take a quick look about Meta Platforms, formerly known as Facebook. I'm going to take a quick look at three things. First, just the current market it's hit",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/01/13/investing-in-ai-or-vr-stocks-dont-overlook-meta-pl/",
+      "originalUrl": "https://www.fool.com/investing/2022/01/13/investing-in-ai-or-vr-stocks-dont-overlook-meta-pl/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/661066/gettyimages-1351141161.jpg",
+          "width": 2120,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-top-ai-chatbots-for-business-in-2022-benefits-and-platform-integrations.md",
       "title": "Top AI chatbots for business in 2022: Benefits and platform integrations",
       "excerpt": "Pro: Users can engage an unlimited number of contacts for $10 per month through Facebook Messenger, email, or SMS. Chatfuel offers businesses a centralized platform to create AI conversational ...",

@@ -2,6 +2,790 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-24-cisco-upgrades-target-kubernetes-cloud-and-aiml.md",
+      "title": "Cisco upgrades target Kubernetes, cloud, and AI/ML",
+      "excerpt": "Cisco has added new features to its Intersight cloud management system, UCS X-Series server, and HyperFlex hyperconverged system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.html",
+      "originalUrl": "https://www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/08/03/istock-1254718662-100908660-large-100921213-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.amp.html",
+      "publishedDateTime": "2022-03-23T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-cloud-migration-for-medical-imaging-data-using-azure-health-data-services-and-ims.md",
+      "title": "Cloud migration for medical imaging data using Azure Health Data Services and IMS",
+      "excerpt": "This blog is part of a series in collaboration with our partners and customers leveraging the newly announced Azure Health Data Services. Azure Health Data Services, a platform as a service (PaaS) offering designed exclusively to support Protected Health Information (PHI) in the cloud, is a new way of",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/cloud-migration-for-medical-imaging-data-using-azure-health-data-services-and-ims/",
+      "originalUrl": "https://azure.microsoft.com/blog/cloud-migration-for-medical-imaging-data-using-azure-health-data-services-and-ims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/787e5f5b-7eca-4ebb-9a78-ff529f3e28ce.png",
+          "width": 640,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T03:00:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models.md",
+      "title": "Microsoft improves Translator and Azure AI services with new AI 'Z-code' models",
+      "excerpt": "Microsoft's new Z-code models, which use a 'Mixture of Experts' approach, are meant to make Translator and other Microsoft AI services perform better and be more efficient to run.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 237,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/fe1a54347f60483b6b6f64a48f5e3be7dec3ffc9/2022/03/22/059e1b3e-e145-4884-85a7-1e4139be8bfe/microsoftaizcodetranslation.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/",
+      "publishedDateTime": "2022-03-22T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech.md",
+      "title": "NVIDIA Unleashes Arsenal Of AI Innovation With Hopper GPU, Grace CPU, Interconnect And Robotics Tech",
+      "excerpt": "This year's NVIDIA's GTC keynote was actually a live demo, delivered from the simulated constructs of the metaverse, and the announcements in silicon and AI innovation were more than impressive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 253,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6239f7d526cef725d5475b3a/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech/amp/",
+      "publishedDateTime": "2022-03-22T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup.md",
+      "title": "Microsoft adds Pasqal’s neutral-atom processors to its Azure Quantum cloud computing lineup",
+      "excerpt": "Microsoft’s Azure Quantum cloud computing service will be adding a brand-new tool to its toolbox: Pasqal’s neutral-atom quantum processing system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup/",
+      "originalUrl": "https://www.geekwire.com/2022/microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RGqhsC6rUxQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2022/microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup/amp/",
+      "publishedDateTime": "2022-03-21T18:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-21-gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-65m.md",
+      "title": "Gensyn applies a token to distributed computing for AI developers, raises $6.5M",
+      "excerpt": "For self-driving cars and other applications developed using AI, you need what’s known as ‘deep learning’, the core concepts of which emerged in the ‘50s. This requires training models based on similar patterns as seen in the human brain.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/",
+      "originalUrl": "https://techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/DSC064882.jpg?w=588",
+          "width": 588,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/amp/",
+      "publishedDateTime": "2022-03-21T00:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-artificial-intelligence-ai-in-manufacturing-market-may-see-big-move-siemens-ge-google-microsoft.md",
+      "title": "Artificial Intelligence (AI) in Manufacturing Market May See Big Move | Siemens, GE, Google, Microsoft",
+      "excerpt": "HTF MI introduce new research on Artificial Intelligence (AI) in Manufacturing covering micro level of analysis by competitors and key business segments. The Artificial Intelligence (AI) in Manufacturing explores comprehensive study on various segments like opportunities,",
+      "sourceUrl": null,
+      "webUrl": "https://eclecticnortheast.in/2022/03/18/artificial-intelligence-ai-in-manufacturing-market-may-see-big-move-siemens-ge-google-microsoft/",
+      "originalUrl": "https://eclecticnortheast.in/2022/03/18/artificial-intelligence-ai-in-manufacturing-market-may-see-big-move-siemens-ge-google-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eclectic Northeast",
+        "domain": "eclecticnortheast.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-dont-miss-the-microsoft-azure-nvidia-breakthroughs-at-spring-gtc.md",
+      "title": "Don’t miss the Microsoft Azure + NVIDIA breakthroughs at spring GTC",
+      "excerpt": "Headlining Microsoft’s sessions at GTC will be two executive keynotes with the chance to win a free NVIDIA Jetson Nano 4GB Developer Kit.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/17/dont-miss-the-microsoft-azure-nvidia-breakthroughs-at-spring-gtc/",
+      "originalUrl": "https://venturebeat.com/2022/03/17/dont-miss-the-microsoft-azure-nvidia-breakthroughs-at-spring-gtc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1322658147.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/17/dont-miss-the-microsoft-azure-nvidia-breakthroughs-at-spring-gtc/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/17/dont-miss-the-microsoft-azure-nvidia-breakthroughs-at-spring-gtc/amp/",
+      "publishedDateTime": "2022-03-17T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-microsoft-announces-auto-generated-captions-for-images-in-edge.md",
+      "title": "Microsoft announces auto-generated captions for images in Edge",
+      "excerpt": "Microsoft uses Azure Cognitive Services to analyze and describe pictures with missing \"alt text.\" When Edge detects an unlabeled image, it sends it to Microsoft's servers for processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
+      "originalUrl": "https://www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/12/1607862765_edgenew_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
+      "publishedDateTime": "2022-03-17T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-microsoft-edge-can-now-generate-image-descriptions-for-screen-readers.md",
+      "title": "Microsoft Edge Can Now Generate Image Descriptions for Screen Readers",
+      "excerpt": "Microsoft Edge is now capable of generating automatic images descriptions for users browsing the web with screen readers. The accessibility feature uses Azure Cognitive Services intelligence to generate alt text for web images that do not include it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thurrott.com/cloud/web-browsers/microsoft-edge/264405/microsoft-edge-automatic-image-descriptions-screen-readers",
+      "originalUrl": "https://www.thurrott.com/cloud/web-browsers/microsoft-edge/264405/microsoft-edge-automatic-image-descriptions-screen-readers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2022/03/Microsoft-Edge.jpg",
+          "width": 1066,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Thurrott",
+        "domain": "thurrott.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-tcs-recognized-as-a-leader-in-gartner-magic-quadrant-for-global-outsourced-digital-workplace-services.md",
+      "title": "TCS Recognized as a Leader in Gartner® Magic Quadrant™ for Global Outsourced Digital Workplace Services",
+      "excerpt": "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS) has been positioned as a Leader in the Gartner Magic Quadrant for Outsourced Digital Workplace Services (ODWS) .The report evaluates the Ability",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/tcs-recognized-as-a-leader-in-gartner-magic-quadrant-for-global-outsourced-digital-workplace-services/",
+      "originalUrl": "https://indiaeducationdiary.in/tcs-recognized-as-a-leader-in-gartner-magic-quadrant-for-global-outsourced-digital-workplace-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/tcs-recognized-as-a-leader-in-gartner-magic-quadrant-for-global-outsourced-digital-workplace-services/amp/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/tcs-recognized-as-a-leader-in-gartner-magic-quadrant-for-global-outsourced-digital-workplace-services/amp/",
+      "publishedDateTime": "2022-03-16T23:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-arista-anet-appears-a-smart-investment-bet-now-heres-why.md",
+      "title": "Arista (ANET) Appears a Smart Investment Bet Now: Here's Why",
+      "excerpt": "The company expanded its cognitive campus ... troubleshooting and location services. This supports video conferencing applications like Google Hangouts, Microsoft Teams and Zoom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why",
+      "originalUrl": "https://www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why?amp",
+      "publishedDateTime": "2022-03-15T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-techforceai-raises-15-million-seed-funding.md",
+      "title": "Techforce.ai Raises $1.5 Million Seed Funding",
+      "excerpt": "To digitally enable knowledge workers with just-in-time AI and Automation \"We believe the future of work will be driven by higher cognitive ... has partnerships with Microsoft, IBM, Oracle ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T22:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-14-cognitive-cloud-market-poised-to-register-16-cagr-by-2023-cognitive-cloud-market-growth-analysis-and-covid-research-report.md",
+      "title": "Cognitive Cloud Market Poised to Register 16% CAGR by 2023 | Cognitive Cloud Market Growth Analysis and COVID Research Report",
+      "excerpt": "Market Synopsis The data analysts at Market Research Future Reports (MRFR) have revealed that the global cognitive cloud market is predicted to",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/cognitive-cloud-market-poised-to-register-16-cagr-by-2023-cognitive-cloud-market-growth-analysis-and-covid-research-report",
+      "originalUrl": "https://www.digitaljournal.com/pr/cognitive-cloud-market-poised-to-register-16-cagr-by-2023-cognitive-cloud-market-growth-analysis-and-covid-research-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-11-doug-howe-former-director-architect-and-principal-software-engineer-at-microsoft-for-25-years-joins-artificial-intelligence-and-machine-learning.md",
+      "title": "Doug Howe, Former Director, Architect and Principal Software Engineer at Microsoft for 25 Years, Joins Artificial Intelligence and Machine Learning Te",
+      "excerpt": "Douglas C. Howe has joined TACOai and Prosperum Fintech Holdings as its C.E.O.CHICAGO--(BUSINESS WIRE)--TACOai LLC, an artificial intelligence and machine learning technology company, is one of several subsidiary companies owned by Prosperum Fintech Holdings.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=630362",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=630362",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-11T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-11-microsoft-accelerator-programme-bets-on-ai-and-machine-learning-selects-14-startups-for-tenth-cohort.md",
+      "title": "Microsoft Accelerator Programme Bets On AI And Machine Learning; Selects 14 Startups For Tenth Cohort",
+      "excerpt": "Bengaluru-based Microsoft Accelerator has selected 14 startups for its startup accelerator programme. It is the tenth batch for Microsoft’s Accelerator Programme. Selected startups belong to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/microsoft-accelerator-10-batch/",
+      "originalUrl": "https://inc42.com/buzz/microsoft-accelerator-10-batch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2016/08/shutterstock_210979942.jpg",
+          "width": 1000,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/microsoft-accelerator-10-batch/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/microsoft-accelerator-10-batch/amp/",
+      "publishedDateTime": "2022-03-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-microsoft-distinguished-engineer-offers-insights-into-the-future-of-women-in-stem.md",
+      "title": "Microsoft distinguished engineer offers insights into the future of women in STEM",
+      "excerpt": "Today, she is a distinguished engineer and corporate vice president at Microsoft. Iyer currently ... the future market for women in STEM. The cognitive and analytical requirements of STEM jobs ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/03/10/microsoft-distinguished-engineer-offers-insights-future-women-stem-wids2022/",
+      "originalUrl": "https://siliconangle.com/2022/03/10/microsoft-distinguished-engineer-offers-insights-future-women-stem-wids2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/Rukmini-Iyer-WiDS-2022.jpg",
+          "width": 6240,
+          "height": 4160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-10T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-10-microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.md",
       "title": "Microsoft opens Azure-based Startups Founders Hub, easing eligibility rules",
       "excerpt": "Successful applicants to Microsoft’s Startups Founders Hub will be rewarded with Azure and OpenAI credits, and free access to productivity and developer tools including GitHub and Microsoft 365.",
@@ -520,193 +1304,12 @@
       ]
     },
     {
-      "path": "_news/2022-03-02-sonata-software-named-microsoft-azure-expert-managed-service-provider.md",
-      "title": "Sonata Software named Microsoft Azure Expert Managed Service Provider",
-      "excerpt": "Sonata Software a global IT Services and Technology Solutions Company today announced that it has been named a Microsoft Azure Expert Managed Service Provider",
+      "path": "_news/2022-03-03-cognitive-services-market-growth-trends-2022-future-prospects-opportunities-drivers-competitive-strategies-and-forecast-up-to-2026.md",
+      "title": "Cognitive Services Market Growth Trends 2022, Future Prospects, Opportunities, Drivers, Competitive Strategies and Forecast up to 2026",
+      "excerpt": "Mar 03, 2022 (The Expresswire) -- Global “Cognitive Services Market” report presents information about market size, share, pricing trends, emerging growth, and provides an understanding of the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272351681/sonata-software-named-microsoft-azure-expert-managed-service-provider",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272351681/sonata-software-named-microsoft-azure-expert-managed-service-provider",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/ani1646235347.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-02T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization.md",
-      "title": "Wipro steady after earning Analytics on Microsoft Azure Advanced Specialization",
-      "excerpt": "Wipro Limited on Tuesday announced that it has earned the Analytics on Microsoft Azure advanced specialization ... the value of data through insights and Artificial Intelligence (AI). At Wipro, we have been helping customers build an intelligent ecosystem ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html",
-      "originalUrl": "https://www.indiainfoline.com/article/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/article/2021-04/30/full/1619762965-0815.png",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html",
-      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html",
-      "publishedDateTime": "2022-03-01T23:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-uptake-fusion-to-support-microsoft-azure-data-explorer.md",
-      "title": "Uptake Fusion to Support Microsoft Azure Data Explorer",
-      "excerpt": "Uptake Fusion also supports out-of-the-box integration with Uptake's Advanced Industrial Analytics and AI-powered Asset Performance Management (APM) products. \"Azure Data Explorer makes enterprise ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/uptake-fusion-to-support-microsoft-azure-data-explorer-1031243530",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/uptake-fusion-to-support-microsoft-azure-data-explorer-1031243530",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-microsoft-expands-azure-for-operators-with-hybrid-cloud-platform.md",
-      "title": "Microsoft expands Azure for Operators with hybrid cloud platform",
-      "excerpt": "Microsoft’s push into the telecoms sector has been strengthened at Mobile Worlrd Congress 2022 (MWC) with the launch of several new services that expand its ‘Azure for Operators’ cloud proposition The most revolutionary of 5G applications – such as Industry 4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/microsoft-expands-azure-for-operators-with-hybrid-cloud-platform",
-      "originalUrl": "https://www.techradar.com/news/microsoft-expands-azure-for-operators-with-hybrid-cloud-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/cAewSdXkrLEUsD8muVzGX9-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-28T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-cognitive-analytics-market-research-report-covers-future-trends-past-present-data-and-deep-analysis-2022-2028.md",
-      "title": "Cognitive Analytics Market Research Report Covers, Future Trends, Past, Present Data and Deep Analysis 2022-2028",
-      "excerpt": "Key players profiled in the report include Microsoft, IBM ... includes a detailed study of global and regional markets on Cognitive Analytics Market with the reasons given for variations in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-research-report-covers-future-trends-past-present-data-and-deep-analysis-2022-2028-2022-02-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-research-report-covers-future-trends-past-present-data-and-deep-analysis-2022-2028-2022-02-28",
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-growth-trends-2022-future-prospects-opportunities-drivers-competitive-strategies-and-forecast-up-to-2026-2022-03-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-growth-trends-2022-future-prospects-opportunities-drivers-competitive-strategies-and-forecast-up-to-2026-2022-03-03",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -725,7 +1328,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-28T01:08:00-08:00",
+      "publishedDateTime": "2022-03-02T21:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -753,21 +1356,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-28-microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup.md",
-      "title": "Microsoft adds more 5G-centric services to its Azure-for-telcos lineup",
-      "excerpt": "Microsoft is continuing with its strategy to try to make Azure the best cloud for telecommunications companies and their partners with new hybrid and edge services.",
+      "path": "_news/2022-03-03-use-directml-to-train-pytorch-machine-learning-models-on-a-pc.md",
+      "title": "Use DirectML to train PyTorch machine learning models on a PC",
+      "excerpt": "There are two parts to working with machine learning. If you have a prebuilt model, you can run it from a cloud platform such as Azure ML, using a REST API to work with its predictions ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
+      "webUrl": "https://www.infoworld.com/article/3651930/use-directml-to-train-pytorch-machine-learning-models-on-a-pc.html",
+      "originalUrl": "https://www.infoworld.com/article/3651930/use-directml-to-train-pytorch-machine-learning-models-on-a-pc.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/img/resize/354ca0ea40eee5a313656b702d39236307e0466a/2022/02/25/9cad18a8-e9ef-4210-9220-5f84805d8ba6/microsoftmwcazuretelcos.jpg?width=1200&fit=bounds&auto=webp",
+          "url": "https://images.idgesg.net/images/article/2018/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large.jpg?auto=webp&quality=85,70",
           "width": 1200,
-          "height": 753,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -775,68 +1378,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
-      "publishedDateTime": "2022-02-27T17:11:00-08:00",
+      "ampWebUrl": "https://www.infoworld.com/article/3651930/use-directml-to-train-pytorch-machine-learning-models-on-a-pc.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3651930/use-directml-to-train-pytorch-machine-learning-models-on-a-pc.amp.html",
+      "publishedDateTime": "2022-03-02T19:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-machine-learning-the-aiops-system-azure-uses-to-make-the-cloud-reliable.md",
-      "title": "Machine learning: The AIOps system Azure uses to make the cloud reliable",
-      "excerpt": "To spot faults quickly even if they take a month to show up, Azure feeds signals into a machine learning system: in the future, you will be able to do that for your own cloud workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/machine-learning-the-aiops-system-azure-uses-to-make-the-cloud-reliable/",
-      "originalUrl": "https://www.techrepublic.com/article/machine-learning-the-aiops-system-azure-uses-to-make-the-cloud-reliable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2019/08/multi-cloud-image-for-tr-ebook.jpg?x18594",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/machine-learning-the-aiops-system-azure-uses-to-make-the-cloud-reliable/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/machine-learning-the-aiops-system-azure-uses-to-make-the-cloud-reliable/amp/",
-      "publishedDateTime": "2022-02-24T14:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -854,560 +1405,8 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-cognitive-systems-spending-market-global-outlook-demand-and-scope-2021-to-2028.md",
-      "title": "Cognitive Systems Spending Market Global Outlook, Demand and Scope 2021 to 2028",
-      "excerpt": "Feb 24, 2022 (AmericaNewsHour) -- Key Companies Covered in the Cognitive Systems Spending Market Research HP, IBM, Microsoft ... and reliability of their services. Ranging from artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-systems-spending-market-global-outlook-demand-and-scope-2021-to-2028-2022-02-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-systems-spending-market-global-outlook-demand-and-scope-2021-to-2028-2022-02-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-23T17:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-ncar-pits-azure-cloud-against-its-own-big-iron-for-climate-models.md",
-      "title": "NCAR Pits Azure Cloud Against Its Own Big Iron For Climate Models",
-      "excerpt": "AI, on the other hand, takes an absolutely massive amount of ... as part of the Microsoft presentation on running HPC on Azure. On the Cheyenne side, the server nodes are equipped with a pair of 18-core “Broadwell” Xeon E5-2697 v4 processors running ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2022/02/23/ncar-pits-azure-cloud-against-its-own-big-iron-for-climate-models/",
-      "originalUrl": "https://www.nextplatform.com/2022/02/23/ncar-pits-azure-cloud-against-its-own-big-iron-for-climate-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/02/ncar-cheyenne-wyoming.jpg",
-          "width": 595,
-          "height": 397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2022/02/23/ncar-pits-azure-cloud-against-its-own-big-iron-for-climate-models/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/02/23/ncar-pits-azure-cloud-against-its-own-big-iron-for-climate-models/amp/",
-      "publishedDateTime": "2022-02-23T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-microsoft-now-delivers-comprehensive-protection-with-new-multi-cloud-capabilities.md",
-      "title": "Microsoft now delivers comprehensive protection with new multi-cloud capabilities",
-      "excerpt": "New multi-cloud capabilities from Microsoft Security have been developed to secure the basis of hybrid work and digital transformations, delivering comprehensive protection to its customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-security-now-delivers-comprehensive-protection-with-new-multi-cloud-capabilities/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-security-now-delivers-comprehensive-protection-with-new-multi-cloud-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2016/03/microsoft-security_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-23T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-microsoft-defender-now-offers-protection-across-azure-aws-and-google-cloud.md",
-      "title": "Microsoft Defender now offers protection across Azure, AWS and Google Cloud",
-      "excerpt": "In addition to existing support for AWS and Microsoft Azure, Microsoft Defender for Cloud will now offer ... He's interested in receiving pitches around cybersecurity, data privacy, cloud, AI, blockchain, internet infrastructure, 5G, data storage, business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/microsoft-defender-now-offers-protection-across-azure-aws-and-google-cloud",
-      "originalUrl": "https://www.techradar.com/in/news/microsoft-defender-now-offers-protection-across-azure-aws-and-google-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/XtJyaRJPmBf4AcHwWnCGZa-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-23T06:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-exponentiaai-raises-additional-funding-from-amit-midha-and-technog-solutions.md",
-      "title": "Exponentia.ai raises additional funding from Amit Midha and Technog Solutions",
-      "excerpt": "Exponentia.ai has announced that it has raised funding from Investors - Amit Midha, President - Dell Technologies and Technog Solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/content/press-releases-ani/exponentia-ai-raises-additional-funding-from-amit-midha-and-technog-solutions-122022300687_1.html",
-      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/exponentia-ai-raises-additional-funding-from-amit-midha-and-technog-solutions-122022300687_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/23/full/20220223124931.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/exponentia-ai-raises-additional-funding-from-amit-midha-and-technog-solutions-122022300687_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/exponentia-ai-raises-additional-funding-from-amit-midha-and-technog-solutions-122022300687_1.html",
-      "publishedDateTime": "2022-02-23T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-exponentiaai-raises-additional-funding-from-mr-amit-midha-and-technog-solutions.md",
-      "title": "Exponentia.ai raises additional funding from Mr. Amit Midha and Technog Solutions",
-      "excerpt": "Exponentia.ai has announced that it has raised funding from Investors - Mr. Amit Midha, President - Dell Technologies and Technog Solutions. The funds will be used to strengthen Exponentia's offerings in the AI space and expand to new geographies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/02/23/9550279.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/02/23/9550279.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1752365/ramendra_shukla.jpg",
-          "width": 400,
-          "height": 391,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T22:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-microsofts-new-singularity-ai-system-might-have-100000-gpus.md",
-      "title": "Microsoft’s New ‘Singularity’ AI System Might Have 100,000+ GPUs",
-      "excerpt": "Microsoft's research teams are working on Singularity, a new infrastructre to manage AI and deep learning workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://fossbytes.com/microsoft-singularity-ai-gpu/",
-      "originalUrl": "https://fossbytes.com/microsoft-singularity-ai-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fossbytes.com/wp-content/uploads/2022/02/microsoft-ai.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fossbytes.com/microsoft-singularity-ai-gpu/amp/",
-      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/microsoft-singularity-ai-gpu/amp/",
-      "publishedDateTime": "2022-02-22T21:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Foss Bytes",
-        "domain": "fossbytes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-microsoft-reveals-singularity-ai-infrastructure-service.md",
-      "title": "Microsoft reveals ‘Singularity’ AI infrastructure service",
-      "excerpt": "Microsoft Azure and Research teams are working together to build a new AI infrastructure service, called Unity. The Unity Team is working to build what Microsoft describes in some of its team operations as a new AI service from the beginning platform that ...",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/02/Microsoft-reveals-Singularity-AI-infrastructure-service-01.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/amp/",
-      "publishedDateTime": "2022-02-22T04:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-nice-alliance-provides-total-solutions-to-accelerate-expansion-of-ecosystem-with-launch-of-platform-as-a-service-paas-powered-by-microsoft.md",
-      "title": "NICE Alliance Provides Total Solutions to Accelerate Expansion of Ecosystem With Launch of Platform as a Service (PaaS) Powered by Microsoft Azure",
-      "excerpt": "Scenera's managed PaaS relies on Azure infrastructure and help its customers to maximize the edge AI computing capabilities.\" said David Lee, CEO of Scenera inc. Acceleration of Time-to-Market and Quality Improvement: Utilizing the solutions allows NICE ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/02/b25741040/nice-alliance-provides-total-solutions-to-accelerate-expansion-of-ecosystem-with-launch-of-platfor",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/b25741040/nice-alliance-provides-total-solutions-to-accelerate-expansion-of-ecosystem-with-launch-of-platfor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25741040",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25741040",
-      "publishedDateTime": "2022-02-21T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service.md",
-      "title": "Microsoft goes public with details on its 'Singularity' AI infrastructure service",
-      "excerpt": "She is the author of 2.'s Azure and Research teams are working together to build a new AI infrastructure service, codenamed \"Singularity.\" The Singularity team is working to build what describes in some of its job postings for the group,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5dcf3d674c0197c63f668fe41924cf7082da7b01/2022/02/21/9f3ec88d-87db-45bd-b79c-7a1b2522126a/singularityaiservicemicrosoft.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
-      "publishedDateTime": "2022-02-21T10:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-cerence-expands-cloud-capabilities-for-korean-drivers-through-interoperability-with-kts-ai-assistant-giga-genie.md",
-      "title": "Cerence Expands Cloud Capabilities for Korean Drivers through Interoperability with KT's AI Assistant, GiGA Genie",
-      "excerpt": "CloseCurlyDoubleQuote; Cerence Cognitive Arbitrator makes it fast and easy for automakers to build in-car voice systems that deliver co-existence between the wide variety of virtual assistants, third-party services, and content – including KT&CloseCurlyQ ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2022/02/17/cerence-expands-cloud-capabilities-for-korean-drivers-through-interoperability",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2022/02/17/cerence-expands-cloud-capabilities-for-korean-drivers-through-interoperability",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-20T23:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-5-it-services-stocks-to-buy-in-february.md",
-      "title": "5 IT Services Stocks to Buy in February",
-      "excerpt": "Looming interest rate hikes are expected to hurt the overall technology sector’s financial performance this year. However, rising investments and innovative service offerings should drive the information technology (IT)",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/419226",
-      "originalUrl": "https://www.entrepreneur.com/article/419226",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-419226.jpeg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-17T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
+        "Machine Learning",
+        "Facebook AI"
       ]
     }
   ],

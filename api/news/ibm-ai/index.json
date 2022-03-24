@@ -2,6 +2,507 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-17-what-impact-will-the-ai-revolution-have-on-your-practice.md",
+      "title": "What impact will the AI revolution have on your practice?",
+      "excerpt": "Once thought of as a timepoint in the distant future, healthcare has already entered the artificial intelligence era and it will have a transformative impact across the spectrum of medical practice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.urologytimes.com/view/what-impact-will-the-ai-revolution-have-on-your-practice",
+      "originalUrl": "https://www.urologytimes.com/view/what-impact-will-the-ai-revolution-have-on-your-practice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/0vv8moc6/urologytimes/0757c66511f9d4fcacf768d0ff1dc3640c3b9757-4800x3000.jpg?fit=crop&auto=format",
+          "width": 4800,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "urologytimes",
+        "domain": "urologytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-items-tagged-with-mona-lisa.md",
+      "title": "Items tagged with mona lisa",
+      "excerpt": "A list of HotHardware's published articles on the topic of mona lisa",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/tags/mona-lisa",
+      "originalUrl": "https://hothardware.com/tags/mona-lisa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/57988/content/small_mona_lisa_art.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-an-ai-eerily-recreated-the-mona-lisa-in-the-ruins-of-humanity-and-skynet-is-pleased.md",
+      "title": "An AI Eerily Recreated The Mona Lisa In The Ruins Of Humanity And Skynet Is Pleased",
+      "excerpt": "When IBM's Watson defeated two of the greatest Jeopardy players of all time with a $1 million pot up for grabs, we applauded. And when AI started beating up flesh and blood players at games like ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/ai-recreated-mona-lisa-ruins-humanity-skynet-pleased",
+      "originalUrl": "https://hothardware.com/news/ai-recreated-mona-lisa-ruins-humanity-skynet-pleased",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/57988/content/small_mona_lisa_art2.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/ai-recreated-mona-lisa-ruins-humanity-skynet-pleased",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/ai-recreated-mona-lisa-ruins-humanity-skynet-pleased",
+      "publishedDateTime": "2022-03-16T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-the-downfall-of-one-of-the-worlds-biggest-brains.md",
+      "title": "The Downfall of One of the World’s Biggest Brains",
+      "excerpt": "In 2011, when Watson, IBM’s computer system played against champions ... What does this say about the promise of AI for medicine? I’m Lizzie O’Leary and you’re listening to what next ...",
+      "sourceUrl": null,
+      "webUrl": "https://slate.com/transcripts/MFJZV1plN0RuMmJZWTNvRGZNak9ZbnRHYTBxa1A0c2gyZTNaUS91djBHOD0=",
+      "originalUrl": "https://slate.com/transcripts/MFJZV1plN0RuMmJZWTNvRGZNak9ZbnRHYTBxa1A0c2gyZTNaUS91djBHOD0=",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slate.com/media/sites/slate-com/icon.400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slate",
+        "domain": "slate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-healthcare-artificial-intelligence-market-to-eyewitness-massive-growth-by-2026-nvidia-next-it-ibm-watson-health.md",
+      "title": "Healthcare Artificial Intelligence Market to Eyewitness Massive Growth by 2026 | NVIDIA, Next IT, IBM Watson Health",
+      "excerpt": "The Latest research study released by Market Intellix “Healthcare Artificial Intelligence (AI) market” with 100+ pages of analysis on business",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-to-eyewitness-massive-growth-by-2026-nvidia-next-it-ibm-watson-health",
+      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-to-eyewitness-massive-growth-by-2026-nvidia-next-it-ibm-watson-health",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-potentially-huge-new-markets-for-developers.md",
+      "title": "Potentially huge new markets for developers",
+      "excerpt": "Early on, IBM saw that healthcare would be an ideal AI application, where much of Watson’s work was initially focused. But the critical need for hospital beds due to the Pandemic has massively ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/softwaredev/potentially-huge-new-markets-for-developers/",
+      "originalUrl": "https://sdtimes.com/softwaredev/potentially-huge-new-markets-for-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2021/03/away-4610699_640.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-14-ibm-watson-lessons-for-knowledge-management.md",
+      "title": "IBM Watson: lessons for knowledge management",
+      "excerpt": "Some months ago reports appeared, especially in the American press, about the sale of IBM Watson Health by IBM. IBM Watson Health would no longer fit into the business strategy of IBM.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ibm-watson-lessons-knowledge-management-reinoud-kaasschieter",
+      "originalUrl": "https://www.linkedin.com/pulse/ibm-watson-lessons-knowledge-management-reinoud-kaasschieter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGIGFcStblS3Q/article-cover_image-shrink_720_1280/0/1647015165058?e=1653523200&v=beta&t=NIkBJKONKNTJTep9DqycpCymtaOzYR6gpPCdby3KbxU",
+          "width": 1240,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-12-conversational-ai-the-future-of-man-machine-singularity.md",
+      "title": "Conversational AI: The Future of Man-Machine Singularity",
+      "excerpt": "The social evolution on this planet has consumed several millennia. The languages we speak globally and interacting with people by understanding the context of discussions have far more refined and polished than what pre-historic humanoids used to practice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/conversational-ai-future-man-machine-singularity-alok-nayak",
+      "originalUrl": "https://www.linkedin.com/pulse/conversational-ai-future-man-machine-singularity-alok-nayak",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE_KpyNBndcXg/article-cover_image-shrink_720_1280/0/1647070382704?e=1653523200&v=beta&t=b16PG9_8vOWe-0ixNoRvrp3gxDrSbknDbwr4cIufnqs",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-11T23:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-11-c3ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-telecom-conference.md",
+      "title": "C3.ai's (AI) CEO Tom Siebel on Morgan Stanley Technology, Media & Telecom Conference",
+      "excerpt": "I’m super thrilled to have Tom Siebel, CEO of C3.ai, looking forward to having a conversation ... So the alternative to us early on would have been IBM Watson, which is now, I think, shut ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4494668-c3-ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-and-telecom-conference",
+      "originalUrl": "https://seekingalpha.com/article/4494668-c3-ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-and-telecom-conference",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4494668-c3-ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-and-telecom-conference",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4494668-c3-ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-and-telecom-conference",
+      "publishedDateTime": "2022-03-10T17:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-11-ibm-ceo-hails-big-blue-progress-we-dont-just-create-business-value-we-create-progress.md",
+      "title": "IBM CEO hails Big Blue progress: ‘We don’t just create business value; we create progress’",
+      "excerpt": "Turbonomic integrates with Instana and Watson AIOps to create ... And ReaQta expands our AI-based threat detection and response capabilities in IBM Security. To improve how we deliver the value ...",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2022/03/11/ibm-ceo-hails-big-blue-progress-we-dont-just-create-business-value-we-create-progress/",
+      "originalUrl": "https://wraltechwire.com/2022/03/11/ibm-ceo-hails-big-blue-progress-we-dont-just-create-business-value-we-create-progress/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2020/04/Arvind_Krishna-135-e1586173008504.jpg",
+          "width": 4414,
+          "height": 2479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2022/03/11/ibm-ceo-hails-big-blue-progress-we-dont-just-create-business-value-we-create-progress/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/03/11/ibm-ceo-hails-big-blue-progress-we-dont-just-create-business-value-we-create-progress/?amp=1",
+      "publishedDateTime": "2022-03-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-11-5-high-profile-health-it-acquisitions-in-2022.md",
+      "title": "5 high-profile health IT acquisitions in 2022",
+      "excerpt": "Microsoft completed its $19.7 billion acquisition of AI speech recognition ... its data and assets from Watson Health, which might be an effort to streamline IBM's operations and focus the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/5-high-profile-health-it-acquisitions-in-2022.html",
+      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/5-high-profile-health-it-acquisitions-in-2022.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-10T15:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-03-ending-the-chatbots-spiral-of-misery.md",
       "title": "Ending the Chatbot’s ‘Spiral of Misery’",
       "excerpt": "By Steve Lohr This article is part of a new series on artificial intelligence’s potential ... journey to its chatbot technology than IBM. After its Watson supercomputer triumphed over human ...",
@@ -876,527 +1377,6 @@
         "Natural Language Processing",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-whats-next-for-healthcare-ai-after-ibms-watson-health-disappointment.md",
-      "title": "What's Next for Healthcare AI After IBM's Watson Health Disappointment?",
-      "excerpt": "IBM is selling its Watson Health unit to a private equity firm. The artificial intelligence system didn't achieve as much success in healthcare as some hoped it would. AI still has tremendous opportunities in healthcare, though, especially in drug development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/02/05/whats-next-for-healthcare-ai-after-ibms-watson-hea/",
-      "originalUrl": "https://www.fool.com/investing/2022/02/05/whats-next-for-healthcare-ai-after-ibms-watson-hea/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/664140/gettyimages-1298315191.jpg",
-          "width": 3497,
-          "height": 1968,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-05T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-can-you-trust-ai-to-protect-ai.md",
-      "title": "Can you trust AI to protect AI?",
-      "excerpt": "To do this, Dobrin said IBM is working on establishing adversarial robustness at the system level of platforms like Watson. By implementing AI models that interrogate other AI models to explain ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/",
-      "originalUrl": "https://venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1339968369.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/amp/",
-      "publishedDateTime": "2022-02-04T14:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-how-a-decades-old-database-became-a-hugely-profitable-dossier-on-the-health-of-270-million-americans.md",
-      "title": "How a decades-old database became a hugely profitable dossier on the health of 270 million Americans",
-      "excerpt": "The deal was based almost entirely on the potential to combine its sprawling databases with the power of IBM’s Watson artificial intelligence engine to “change the face of health care.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/2022/02/01/ibm-watson-health-marketscan-data/",
-      "originalUrl": "https://www.statnews.com/2022/02/01/ibm-watson-health-marketscan-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statnews.com/wp-content/uploads/2022/01/MARKETSCAN_desktop_02-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-31T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-machine-learning-the-hard-way-ibm-watsons-fatal-misdiagnosis.md",
-      "title": "Machine learning the hard way: IBM Watson's fatal misdiagnosis",
-      "excerpt": "One of Watson's early set pieces was taking a complex set of symptoms and finding the most probable diagnosis out of an encyclopaedic knowledge of rare diseases. A different challenge marked its demise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/01/31/machine_learning_the_hard_way/",
-      "originalUrl": "https://www.theregister.com/2022/01/31/machine_learning_the_hard_way/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2019/09/23/shutterstock_doc.jpg",
-          "width": 648,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/",
-      "publishedDateTime": "2022-01-31T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-ibm-sheds-some-watson-health-assets-refocuses-on-ai-and-cloud.md",
-      "title": "IBM sheds some Watson Health assets, refocuses on AI and cloud",
-      "excerpt": "The latest sale is a sign, then, that IBM is serious about refocusing on its core platform-based hybrid cloud and on its AI activities, which go beyond Watson. IBM says it remains committed to Watson, but with two Watson-based business units now gutted ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/694767/ibm-sheds-some-watson-health-assets-refocuses-ai-cloud/",
-      "originalUrl": "https://www.reseller.co.nz/article/694767/ibm-sheds-some-watson-health-assets-refocuses-ai-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/arvind_krishna_ibm_2_1.jpg",
-          "width": 505,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T14:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-ibm-to-sell-off-watson-health-assets.md",
-      "title": "IBM to sell off Watson Health assets",
-      "excerpt": "Private equity firm Francisco Partners is buying a large portion of the AI healthcare unit for \"more than $1 billion\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cloudpro.co.uk/operations/business-management/9385/ibm-to-sell-off-watson-health-assets",
-      "originalUrl": "https://www.cloudpro.co.uk/operations/business-management/9385/ibm-to-sell-off-watson-health-assets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2021/05/ibm_cloud.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cloud Pro",
-        "domain": "cloudpro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-ibm-bids-farewell-to-watson-health-assets.md",
-      "title": "IBM Bids Farewell to Watson Health Assets",
-      "excerpt": "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion, although the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/industry/ibm-bids-farewell-watson-health-assets",
-      "originalUrl": "https://www.designnews.com/industry/ibm-bids-farewell-watson-health-assets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/IBM%20corporate%20headquarters%20sign.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-23T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-ibm-is-selling-off-its-watson-health-assets.md",
-      "title": "IBM is selling off its Watson Health assets",
-      "excerpt": "Watson Health was borne out of IBM's larger Watson effort, which aims to use artificial intelligence to solve a range of problems for businesses and consumers — from creating a computer that can ...",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html",
-      "originalUrl": "https://edition.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220121123649-ibm-office-californie-file-0120-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html",
-      "publishedDateTime": "2022-01-21T21:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai.md",
-      "title": "AI Weekly: Watson Health and semi-autonomous driving failures show the dangers of overpromising AI",
-      "excerpt": "AI technologies can fall short of their promise, as news from this week about Watson Health and semi-autonomous driving systems showed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/",
-      "originalUrl": "https://venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/06/ibm_watson_avatar_pos-e1560280426131.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/amp/",
-      "publishedDateTime": "2022-01-21T21:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-ibm-sells-its-watson-healthcare-assets-to-francisco-partners.md",
-      "title": "IBM sells its Watson healthcare assets to Francisco Partners",
-      "excerpt": "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson Health business) to Francisco Partners, a leading global investment firm. Although financial terms of the transaction were not disclosed but previous reports pegged the value at around $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
-      "originalUrl": "https://www.freepressjournal.in/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/import/2014/05/ibm.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 917,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
-      "publishedDateTime": "2022-01-21T21:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-ibm-sells-watson-health-assets-to-investment-firm.md",
-      "title": "IBM Sells Watson Health Assets to Investment Firm",
-      "excerpt": "The tech giant said its deal with Francisco Partners wouldn’t weaken its commitments to other artificial-intelligence technology and healthcare clients that use its IT services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "originalUrl": "https://www.wsj.com/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 359,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-471681/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "publishedDateTime": "2022-01-21T12:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

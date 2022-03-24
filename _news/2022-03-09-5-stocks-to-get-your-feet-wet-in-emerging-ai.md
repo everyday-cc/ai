@@ -1,59 +1,30 @@
 ---
 category: news
 title: "5 Stocks to Get Your Feet Wet in Emerging AI"
-excerpt: "Motley Fool contributors Trevor Jennewine, Billy Duberstein, Jose Najarro, and Will Healy list some of their favorite stocks to play artificial intelligence technology. Our award-winning analyst team has spent more than a decade beating the market."
-publishedDateTime: 2022-03-08T18:12:00Z
-originalUrl: "https://www.nasdaq.com/articles/5-stocks-to-get-your-feet-wet-in-emerging-ai"
-webUrl: "https://www.nasdaq.com/articles/5-stocks-to-get-your-feet-wet-in-emerging-ai"
-ampWebUrl: "https://www.nasdaq.com/articles/5-stocks-to-get-your-feet-wet-in-emerging-ai?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-stocks-to-get-your-feet-wet-in-emerging-ai?amp"
+excerpt: "Motley Fool contributors Trevor Jennewine, Billy Duberstein, Jose Najarro, and Will Healy list some of their favorite stocks to play artificial intelligence technology. Trevor Jennewine: I think AI is going to be one of those technologies that's like the internet 10 years down the road."
+publishedDateTime: 2022-03-08T23:12:00Z
+originalUrl: "https://www.fool.com/investing/2022/03/08/5-stocks-to-get-your-feet-wet-in-emerging-ai/"
+webUrl: "https://www.fool.com/investing/2022/03/08/5-stocks-to-get-your-feet-wet-in-emerging-ai/"
 type: article
-quality: 69
-heat: -1
-published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
+  - AI in Autos
   - AI
 
-related:
-  - title: "Your CEO Needs To Really Get AI"
-    excerpt: "CEOs like Githesh Ramamurthy of CCC Intelligent Solutions need to understand AI in order to make successful long-term bets on the technology."
-    publishedDateTime: 2022-03-07T16:22:00Z
-    webUrl: "https://www.forbes.com/sites/tomdavenport/2022/03/07/your-ceo-needs-to-really-get-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2022/03/07/your-ceo-needs-to-really-get-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2022/03/07/your-ceo-needs-to-really-get-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62263e07597d1e2f79beb604/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 1749
-        isCached: true
-  - title: "Shifting Our Technology Focus To What Really Matters With Worker-Centric AI"
-    excerpt: "We’ve made great strides utilizing AI, but a technology gap exists at the cornerstone of safety. It’s time we shift our technology focus to the most important asset — our people — with worker-centric AI."
-    publishedDateTime: 2022-03-09T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/09/shifting-our-technology-focus-to-what-really-matters-with-worker-centric-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/09/shifting-our-technology-focus-to-what-really-matters-with-worker-centric-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/09/shifting-our-technology-focus-to-what-really-matters-with-worker-centric-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62276aa24670983edd516b89/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 800
-        isCached: true
+images:
+  - url: "https://g.foolcdn.com/editorial/images/669559/gettyimages-artificialintelligence.jpg"
+    width: 2000
+    height: 1500
+    isCached: true
 
-secured: "SPOrFMdeUprABQgy3lIB7ferBIp2YKn7n5tLOI3jf3V5TgQT9z7cRDwhatQ0FERLGB9Wmn21tNNEEfwKwnULb75d9WWLHTh2ZM/xuRJRGY617KXEWtmrZ0dbh98DfCAV1CcM+w9I/NAPm3nJrKlyAVXYwAO3VY2bJcYiqJhFFMJHk+s0vrHUahxI38Gq+8LWyZlpS2t4/+KInTm5jbfFpaBzU7V6W8kmNYuG4jJtJZmxJTg7vKvy29HItIdA+ZsZPTbDnrwq/alq4VpKFAlosUqqMPefldfMVd0fTZlWtVMqqNCjkZXR2Wof17awumAmaiCDgwW1XQ5iPFhrzMSlWlhsLXJvVYjkOXfHWcSz+O8=;h8FzO5q4hlZ5rfqtLfddOQ=="
+secured: "WliW6MXBaRBDzQZhuF1LG/m8o/DeOLrc8nMphH6BVEG1562n/FYPb10RJa/cyzf/urtGkckEyxDAlGFGic8hoW0TE9jg01nNdyh2Moj2wHEQUu6CPbi2w1JIgoWNs8i3bTg7ThguE7rfPWOCAkIrn2Fm+1j6brKX2vBw+HwF+1/SCF0ElzmmG+sOik2fi8/PawXkD9vJIYxr7Gaa94R9+INcXs/PKkAKqvx3Oq7R9HDwQPlUXj6LqwOz9tSGSAQzFpqrGs4p0WPlx+1UeROwmNTzUpVZxsjbUA6n1TtA99RcoxYtXWR5dp/+DMJz4OOYqfHAFWaJMgvNKcy7wTiiMImJUNsQc0dVxhzDuPLNCp0=;kSYPJVVpRHkxvgqEeFUNow=="
 ---
 

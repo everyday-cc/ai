@@ -2,6 +2,836 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-10-iff-and-sleepscore-labs-develop-fragrance-that-targets-sleepless-nights.md",
+      "title": "IFF And SleepScore Labs Develop Fragrance That Targets Sleepless Nights",
+      "excerpt": "IFF and SleepScore Labs have partnered to develop a scent that will help consumers get a better night’s sleep based on science and data and creativity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sharonedelson/2022/01/10/iff-and-sleepscore-labs-develop-fragrance-that-targets-sleepless-nights/",
+      "originalUrl": "https://www.forbes.com/sites/sharonedelson/2022/01/10/iff-and-sleepscore-labs-develop-fragrance-that-targets-sleepless-nights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dba89ae7c75c3c0e034eaa%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sharonedelson/2022/01/10/iff-and-sleepscore-labs-develop-fragrance-that-targets-sleepless-nights/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2022/01/10/iff-and-sleepscore-labs-develop-fragrance-that-targets-sleepless-nights/amp/",
+      "publishedDateTime": "2022-01-10T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-10-changing-face-of-health-and-healthcare.md",
+      "title": "Changing face of health and healthcare",
+      "excerpt": "Foundation highlights the various aspects which will be crucial during and after the pandemic The onset of the COVID-19 pandemic saw the medical fraternity, technology innovators, manufacturers, regulators,",
+      "sourceUrl": null,
+      "webUrl": "https://www.expresshealthcare.in/news/changing-face-of-health-and-healthcare/432942/",
+      "originalUrl": "https://www.expresshealthcare.in/news/changing-face-of-health-and-healthcare/432942/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.expresshealthcare.in/wp-content/uploads/2022/01/750-x-400-2.jpg",
+          "width": 750,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/changing-face-of-health-and-healthcare/432942/",
+      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/changing-face-of-health-and-healthcare/432942/",
+      "publishedDateTime": "2022-01-10T00:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "expresshealthcare",
+        "domain": "expresshealthcare.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-10-the-five-biggest-healthcare-tech-trends-in-2022.md",
+      "title": "The Five Biggest Healthcare Tech Trends In 2022",
+      "excerpt": "The healthcare sector is under enormous pressure at the moment, and technology adoption has been accelerating to help deliver better, cheaper, and more personalized healthcare to people. Here we look at the top healthcare tech trends in 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dbc007e830ffbf736660a6%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/amp/",
+      "publishedDateTime": "2022-01-09T20:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-08-healthcare-transformation-made-possible-by-ai-and-social-listening.md",
+      "title": "Healthcare Transformation – Made Possible by AI and Social Listening",
+      "excerpt": "The COVID-19 pandemic is far from over as the third variant is knocking at our door. The nightmare of the second wave is still fresh in our minds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh",
+      "originalUrl": "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQF3jh7aFba0xQ/article-cover_image-shrink_600_2000/0/1587884611896?e=1646870400&v=beta&t=FLrtkrWVf2QBx2l68J6wYV3eo80sAakL_X-TEwio-SY",
+          "width": 820,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T21:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-01-08-ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot.md",
+      "title": "IBM reportedly shopping Watson Health just as healthcare gets hot",
+      "excerpt": "IBM could be looking to sell the Watson Health division for a mere $1 billion, according to an Axios report. The question is why is IBM running away from the healthcare vertical just as it seems to be heating up,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/",
+      "originalUrl": "https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-597922966.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/amp/",
+      "publishedDateTime": "2022-01-07T14:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-08-csa-guidance-addresses-security-privacy-risks-of-ai-in-healthcare.md",
+      "title": "CSA Guidance Addresses Security, Privacy Risks of AI in Healthcare",
+      "excerpt": "Although many experts forecast a promising future for AI in healthcare, security and privacy risks must be considered alongside benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitsecurity.com/news/csa-guidance-addresses-security-privacy-risks-of-ai-in-healthcare",
+      "originalUrl": "https://healthitsecurity.com/news/csa-guidance-addresses-security-privacy-risks-of-ai-in-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitsecurity.com/images/sized/2021-02-12-GettyImages-1149842849-39a26234983c4eca9381530cb872a66d.png",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitsecurity.com/news/amp/csa-guidance-addresses-security-privacy-risks-of-ai-in-healthcare",
+      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/csa-guidance-addresses-security-privacy-risks-of-ai-in-healthcare",
+      "publishedDateTime": "2022-01-07T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Security",
+        "domain": "healthitsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-ai-could-revolutionize-healthcare-but-can-we-trust-it.md",
+      "title": "AI Could Revolutionize Healthcare. But Can We Trust It?",
+      "excerpt": "At CES 2022, A panel of AI experts discussed what role AI might play in the future of healthcare. In a session titled \"Consumer Safety Driven by AI,\" Pat Baird, an AI engineer and software developer who works in standards and regulations for Phillips,",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it",
+      "originalUrl": "https://interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/bM6A39gRO7/sizes/alex-knight-2ejcsulrwc8-unsplash_resize_md.jpg",
+          "width": 744,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it",
+      "publishedDateTime": "2022-01-06T13:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-top-5-reasons-artificial-intelligence-is-worth-the-investment-in-2022.md",
+      "title": "Top 5 reasons artificial intelligence is worth the investment in 2022",
+      "excerpt": "The global artificial intelligence (AI) market had a value of USD $62.35 billion in 2020 and is expected to continue to grow, according to Grand View research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/top-5-reasons-artificial-intelligence-worth-investment-2022-lumiata-1e",
+      "originalUrl": "https://www.linkedin.com/pulse/top-5-reasons-artificial-intelligence-worth-investment-2022-lumiata-1e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHfmR0JXrtmxQ/article-cover_image-shrink_600_2000/0/1641486622310?e=1647475200&v=beta&t=KYeMXqTDlbOcl_QS-hAPjt0_9hy4VRzy05XMh-KMCFM",
+          "width": 744,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-learn-how-artificial-intelligence-is-improving-the-healthcare-experience.md",
+      "title": "Learn how Artificial Intelligence is Improving the Healthcare Experience",
+      "excerpt": "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-artificial-intelligence-stocks-the-10-best-ai-companies.md",
+      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
+      "excerpt": "AI stocks may be excellent long-term investments. The global artificial intelligence market is on track to hit more than $554 billion in total revenue by 2024, according to market researcher IDC.",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/news/2022/01/artificial-intelligence-stocks-the-10-best-ai-companies-5/",
+      "originalUrl": "https://wtop.com/news/2022/01/artificial-intelligence-stocks-the-10-best-ai-companies-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos",
+        "IBM AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-artificial-intelligence-in-healthcare-global-market-global-industry-trends-market-size-forecast-up-to-2030.md",
+      "title": "Artificial Intelligence in Healthcare Global Market: Global Industry, Trends, Market Size, Forecast up to 2030",
+      "excerpt": "Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103495503/Artificial-Intelligence-in-Healthcare-Global-Market-Global-Industry-Trends-Market-Size-Forecast-up-to-2030",
+      "originalUrl": "https://menafn.com/1103495503/Artificial-Intelligence-in-Healthcare-Global-Market-Global-Industry-Trends-Market-Size-Forecast-up-to-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?580439",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T21:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-healthcare-ai-market-witnessed-the-highest-demand-leading-regions-by-apple-ge-healthcare-google-deepmind-health.md",
+      "title": "Healthcare AI Market Witnessed the Highest Demand, Leading Regions | By -Apple, Ge Healthcare, Google Deepmind Health",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jan 06, 2022 (Heraldkeepers) -- The report by Infinity Business Insights provides a comprehensive view of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-witnessed-the-highest-demand-leading-regions-by--apple-ge-healthcare-google-deepmind-health-2022-01-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-witnessed-the-highest-demand-leading-regions-by--apple-ge-healthcare-google-deepmind-health-2022-01-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata.md",
+      "title": "Healthtech predicted to focus on AI and virtual care in 2022, with medical robotics not far behind: GlobalData",
+      "excerpt": "The tech has already got companies talking, as mentions of ‘AI’ within healthcare, pharma, and medical device company filings increased by over 50%, from 700 in 2018 to 1,100 in 2021, according to GlobalData’s Filings Analytics Database.",
+      "sourceUrl": null,
+      "webUrl": "https://www.expresshealthcare.in/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/",
+      "originalUrl": "https://www.expresshealthcare.in/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.expresshealthcare.in/wp-content/uploads/2022/01/05162448/EH_healthtech_750.jpg",
+          "width": 750,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/",
+      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/",
+      "publishedDateTime": "2022-01-05T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "expresshealthcare",
+        "domain": "expresshealthcare.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-the-future-of-medtech-goes-beyond-microsofts-ai-creep.md",
+      "title": "The future of medtech goes beyond Microsoft’s AI creep",
+      "excerpt": "What to expect from medtech and its future beyond the ‘Monstersoft’ in the operating room. If one story gave a clue to the future of medtech in 2021, a likely contender would be Microsoft’s acquisition of Nuance Communications for $19.",
+      "sourceUrl": null,
+      "webUrl": "https://www.clinicaltrialsarena.com/analysis/the-future-of-medtech-goes-beyond-microsofts-ai-creep/",
+      "originalUrl": "https://www.clinicaltrialsarena.com/analysis/the-future-of-medtech-goes-beyond-microsofts-ai-creep/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2022/01/shutterstock_787873258-464x348.jpg",
+          "width": 464,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T09:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Clinical Trials Arena",
+        "domain": "clinicaltrialsarena.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh.md",
+      "title": "CES 2022 Innovation Awards: An airbag for your hips, a hands-free selfie drone and VR for ADH",
+      "excerpt": "This collection of products from the CES 2022 Innovation Awards will help your life in ways you never imagined.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh/",
+      "originalUrl": "https://www.techrepublic.com/article/ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2022/01/04/8104ba05-afbc-46b9-849c-82b6df46f80d/resize/400x/094cd4415c823d97fe5579ea3b4ded4d/air-neo-1111233-2-2.jpg",
+          "width": 400,
+          "height": 301,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh/",
+      "publishedDateTime": "2022-01-04T06:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-caris-life-sciences-to-present-at-the-40th-annual-jp-morgan-healthcare-conference.md",
+      "title": "Caris Life Sciences to Present at the 40th Annual J.P. Morgan Healthcare Conference",
+      "excerpt": "Caris Life Sciences® (Caris), the leading molecular science and technology company actively developing and delivering innovative solutions to revolutionize healthcare, announced today that",
+      "sourceUrl": null,
+      "webUrl": "https://www.kpvi.com/news/national_news/caris-life-sciences-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference/article_00e4850e-80b9-5c5a-8dd0-8753956320d8.html",
+      "originalUrl": "https://www.kpvi.com/news/national_news/caris-life-sciences-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference/article_00e4850e-80b9-5c5a-8dd0-8753956320d8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KPVI",
+        "domain": "kpvi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery.md",
+      "title": "AI, robotics, home care and mental health to lead healthcare delivery",
+      "excerpt": "Healthcare delivery in the country is going to witness further changes this year in the wake of continuing Covid-19 pandemic. Segments like home healthcare, mental health screening and use of technologies like telemedicine,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery/106600",
+      "originalUrl": "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery/106600",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/fortuneindia/2022-01/ba479e76-de7f-4731-ab85-6b3dc3aa840c/GettyImages_1335397034_copy.jpg?w=700",
+          "width": 700,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T22:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune India",
+        "domain": "fortuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence.md",
+      "title": "Fractures Through X-rays Detected Accurately by AI (artificial Intelligence)",
+      "excerpt": "X-rays that are positive for fracture can be quickly detected by a new AI (artificial intelligence) algorithm, thereby improving the care by reducing patient waiting time and diagnostic errors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence-204996-1.htm",
+      "originalUrl": "https://www.medindia.net/news/fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence-204996-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/x-ray1.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence-204996-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence-204996-1.htm",
+      "publishedDateTime": "2022-01-03T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-01-03-robo-dogs-and-therapy-bots-artificial-intelligence-goes-cuddly.md",
       "title": "Robo-dogs and therapy bots: Artificial intelligence goes cuddly",
       "excerpt": "In Japan mechanical companions are finding their way into the hearts of stressed-out adults, schoolchildren, and patients with PTSD or dementia.",
@@ -573,233 +1403,7 @@
         "AI in Healthcare",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2021-12-20-data-hunters-will-be-big-pharmas-next-prey.md",
-      "title": "Data hunters will be Big Pharma’s next prey",
-      "excerpt": "Big Pharma will need to tool up in the data arms race. Drug giants like AstraZeneca are pouring $160 billion a year into unearthing new treatments. Artificial intelligence could provide a shortcut, by helping discover new treatments and getting them to market sooner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-pharmaceuticals-m-a-breakingviews-idDEKBN2IZ0YW",
-      "originalUrl": "https://www.reuters.com/article/us-pharmaceuticals-m-a-breakingviews-idDEKBN2IZ0YW",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20211220&t=2&i=1585312285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEHBJ0F3",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idDEKBN2IZ0YW",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idDEKBN2IZ0YW",
-      "publishedDateTime": "2021-12-20T02:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-5-artificial-intelligence-stocks-in-cathie-woods-portfolio.md",
-      "title": "5 Artificial Intelligence Stocks in Cathie Wood’s Portfolio",
-      "excerpt": "(NYSE:TDOC) represented 5.01% of Cathie Wood’s portfolio. In Q3, the company reported revenue of $521.6 million, up 80.6% from the prior-year quarter. Of the 867 hedge funds tracked by Insider Monkey,",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-artificial-intelligence-stocks-in-cathie-woods-portfolio-1014281/5/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-artificial-intelligence-stocks-in-cathie-woods-portfolio-1014281/5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/03/08164427/Cathie-Wood-ARK-Investment-Management-1267.jpg",
-          "width": 1613,
-          "height": 2048,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-19T11:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-19-very-few-things-are-stopping-big-tech-from-popping-in-healthcare.md",
-      "title": "Very Few Things Are Stopping Big Tech from “Popping” in Healthcare",
-      "excerpt": "Azure Machine Learning and Azure Cognitive Services, to deliver on the vision of the Terra platform at a new level of scale.” Taking a Deep Look at Big Tech’s Influence in Healthcare Big tech companies’ presence in healthcare greatly expanded during ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
-      "originalUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jan112021at22713PM.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-18-computer-vision-in-healthcare-market-overview-by-rising-trends-and-demand-2021-to-2028.md",
-      "title": "Computer Vision in Healthcare Market Overview by Rising Trends and Demand 2021 to 2028",
-      "excerpt": "Market Research Engine is a global market research and consulting organization. We provide market intelligence in emerging, niche technologies and markets. Our market analysis powered by rigorous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-overview-by-rising-trends-and-demand-2021-to-2028-2021-12-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-overview-by-rising-trends-and-demand-2021-to-2028-2021-12-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-17T08:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies.md",
-      "title": "Why Some Psychedelic Assisted Therapy Clinics Are Turning To Artificial Intelligence for Digital Mental Therapies",
-      "excerpt": "The bottom line: Psychedelic therapy is still in its early days ... evidence-backed protocols and Artificial Intelligence data systems. Geoff Belair, MINDCURE's Chief Technology Officer, said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies-301446468.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies-301446468.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 6
 }

@@ -2,305 +2,12 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-10-04-computer-vision-market-to-reach-4111-bn-globally-by-2030-at-160-cagr-allied-market-research.md",
-      "title": "Computer Vision Market to Reach $41.11 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research",
-      "excerpt": "PORTLAND, Ore., Oct. 4, 2021 /PRNewswire/ -- Allied Market Research published a report, titled, \"Computer Vision Market by Component (Hardware, Software and Services), Product (PC-Based Computer ...",
+      "path": "_news/2021-12-18-computer-vision-in-healthcare-market-overview-by-rising-trends-and-demand-2021-to-2028.md",
+      "title": "Computer Vision in Healthcare Market Overview by Rising Trends and Demand 2021 to 2028",
+      "excerpt": "Market Research Engine is a global market research and consulting organization. We provide market intelligence in emerging, niche technologies and markets. Our market analysis powered by rigorous ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-301391685.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-301391685.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook",
-          "width": 2000,
-          "height": 1046,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-image-recognition-market-will-reach-usd-91029-million-by-2030-at-156-cagr-marketbiz.md",
-      "title": "Image Recognition Market, Will Reach USD 91,029 Million By 2030 at 15.6% CAGR-Market.Biz",
-      "excerpt": "The Image Recognition Industry research report focuses on global and regional key company information such as company profiles, products, object specifications, industrial capacity, production ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/image-recognition-market-will-reach-usd-91029-million-by-2030-at-15-6-cagr-market-biz",
-      "originalUrl": "https://www.digitaljournal.com/pr/image-recognition-market-will-reach-usd-91029-million-by-2030-at-15-6-cagr-market-biz",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/5756_D013_00082_R_CROP-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-roboflow-and-ultralytics-creator-of-yolov5-partner-to-streamline-custom-computer-vision-model-development.md",
-      "title": "Roboflow and Ultralytics, Creator of YOLOv5, Partner to Streamline Custom Computer Vision Model Development",
-      "excerpt": "Roboflow, an end-to-end computer vision developer platform, and Ultralytics, the creators of the popular open source YOLOv5 model, have partnered to launch a streamlined way to prepare, label, and train computer vision models on custom datasets with an emphasis on active learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/10/04/9461608.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/10/04/9461608.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-amazon-rolls-out-computer-vision-service-to-identify-defects.md",
-      "title": "Amazon Rolls Out Computer Vision Service to Identify Defects",
-      "excerpt": "Concept: Amazon has launched a cloud service named Lookout for Vision to detect anomalies and defects in manufactured products. Available in select Amazon Web Services (AWS) regions with the AWS console and supporting partners,",
-      "sourceUrl": null,
-      "webUrl": "https://www.power-technology.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/",
-      "originalUrl": "https://www.power-technology.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.power-technology.com/wp-content/uploads/sites/7/2021/10/shutterstock_1358359658.jpg",
-          "width": 500,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Power Technology",
-        "domain": "power-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-03-amazons-controversial-vision-for-the-future-of-your-home-security.md",
-      "title": "Amazon's controversial vision for the future of your home security",
-      "excerpt": "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcvb.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
-      "originalUrl": "https://www.wcvb.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-7cba5e0629bc8bec312c8080d57b8459-h-a9a0089212e086209aacfe9662e04615-1633212724.jpg?crop=1.00xw:0.752xh;0,0.188xh&resize=1200:*",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
-      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
-      "publishedDateTime": "2021-10-02T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCVB Channel 5 Boston",
-        "domain": "wcvb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations.md",
-      "title": "Western Railways to install 2,729 cameras with face recognition system across 30 stations",
-      "excerpt": "Western Railways to install 2,729 cameras with face recognition system across 30 stations - These cameras have a tilt angle of 180 to 270 degrees that will help in 360 degrees of an area leaving no bl",
-      "sourceUrl": null,
-      "webUrl": "https://www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767",
-      "originalUrl": "https://www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/10/01/999016-camera.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767/amp",
-      "cdnAmpWebUrl": "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767/amp",
-      "publishedDateTime": "2021-10-01T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DNA India",
-        "domain": "dnaindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-an-army-pilot-just-re-invented-flight-training-for-the-digital-era.md",
-      "title": "An Army Pilot Just Re-Invented Flight Training for the Digital Era",
-      "excerpt": "Its video feeds a neural network that uses object recognition to read the indicators just as a human would. The network then deciphers how the pilot is performing. Pilots receive feedback through ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/cio-briefing/2021/10/army-pilot-just-re-invented-flight-training-digital-era/185757/",
-      "originalUrl": "https://www.nextgov.com/cio-briefing/2021/10/army-pilot-just-re-invented-flight-training-digital-era/185757/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2021/09/30/2761965/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-01T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-at-263-cagr-ai-in-computer-vision-market-size-is-expected-to-exhibit-6459-billion-usd-by-2027.md",
-      "title": "At 26.3% CAGR, AI in Computer Vision Market Size is Expected to Exhibit 64.59 billion USD by 2027",
-      "excerpt": "Unscathed by challenges, the worldwide AI in computer market is expected to record a strong CAGR of 26.3% over 2021-2027, consequently multiplying the industry remuneration from USD 12.6 million in 2020 to USD 64.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/at-263-cagr-ai-in-computer-vision-market-size-is-expected-to-exhibit-6459-billion-usd-by-2027-2021-09-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/at-263-cagr-ai-in-computer-vision-market-size-is-expected-to-exhibit-6459-billion-usd-by-2027-2021-09-30",
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-overview-by-rising-trends-and-demand-2021-to-2028-2021-12-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-overview-by-rising-trends-and-demand-2021-to-2028-2021-12-17",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -319,335 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-programming-artificial-intelligence-for-object-recognition-made-easy-by-the-bmw-group.md",
-      "title": "Programming artificial intelligence for object recognition made easy – by the BMW Group",
-      "excerpt": "Munich. The BMW Group is releasing another software package that makes light work of creating artificial intelligence (AI) applications for object recognition. The ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.press.bmwgroup.com/global/article/detail/T0317790EN/programming-artificial-intelligence-for-object-recognition-made-easy-–-by-the-bmw-group",
-      "originalUrl": "https://www.press.bmwgroup.com/global/article/detail/T0317790EN/programming-artificial-intelligence-for-object-recognition-made-easy-–-by-the-bmw-group",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediapool.bmwgroup.com/cache/P9/202009/P90401410/P90401410-an-associate-labels-photos-from-door-sill-strips-of-the-bmw-3-series-creating-an-ai-object-recogniti-2250px.jpg",
-          "width": 2250,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "www.press.bmwgroup.com",
-        "domain": "bmwgroup.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-paravision-enhances-video-facial-recognition-with-streaming-container-update.md",
-      "title": "Paravision enhances video facial recognition with Streaming Container update",
-      "excerpt": "The Paravision Streaming Container is fully modular and is designed to be deployed alongside Paravision’s other cloud-ready, Docker container-based products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202109/paravision-enhances-video-facial-recognition-with-streaming-container-update",
-      "originalUrl": "https://www.biometricupdate.com/202109/paravision-enhances-video-facial-recognition-with-streaming-container-update",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg",
-          "width": 2048,
-          "height": 1366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazons-visual-id.md",
-      "title": "On Echo Show 15, Alexa will recognize your face thanks to Amazon's Visual ID",
-      "excerpt": "The facial recognition feature is designed to recognize you whenever you're in front of the camera, so Alexa can show you personalized content.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/",
-      "originalUrl": "https://www.cnet.com/home/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/wSUdygEwDttHCwHEvFXE1Cdrr1Y=/1200x630/2021/09/28/4dcf3368-d754-460b-a198-30a291b1c153/screen-shot-2021-09-28-at-9-15-25-am.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazon-visual-id/",
-      "publishedDateTime": "2021-09-28T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-amid-rapid-adoption-paravision-unveils-new-computer-vision-capabilities-making-face.md",
-      "title": "Amid Rapid Adoption, Paravision Unveils New Computer Vision Capabilities, Making Face ...",
-      "excerpt": "Paravision, the U.S.-based leader in mission-critical face recognition and computer vision, today announced an array of new and updated products that make face recognition solutions faster, more accurate and secure,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field.md",
-      "title": "Sina Bari MD Shares 3 Ways that Computer Vision is Transforming the Medical Field",
-      "excerpt": "The medical field is constantly evolving in our day and age, as is technology. We are all familiar with the types of technology, computers, cellphones and software that’s out there. But when it comes to the specifics and details of technology or a form of artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/",
-      "originalUrl": "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://submission.icrowdmarketing.com/assets/source/users/2087/Sina%20Bari%20MD%20Shares%20How%20Computer%20Vision%20is%20Transforming%20the%20Medical%20Field.jpg?1632508900522",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/?amp=1",
-      "cdnAmpWebUrl": "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/?amp=1",
-      "publishedDateTime": "2021-09-28T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-londons-met-police-buying-retrospective-facial-recognition-technology.md",
-      "title": "London's Met Police Buying Retrospective Facial Recognition Technology",
-      "excerpt": "The UK's Metropolitan Police Service has been authorised to buy and use retrospective facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/",
-      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6152fd755997c9c246b71a4c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/amp/",
-      "publishedDateTime": "2021-09-28T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-computer-vision-in-healthcare-market-global-industry-analysis-trends-market-size-and-forecasts-up-to-2025.md",
-      "title": "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2025",
-      "excerpt": "Japan, Japan, Tue, 28 Sep 2021 08:59:49 / Comserve Inc. / -- The report predicts the global computer vision in healthcare market to grow with a CAGR of 45.2% over the forecast period from 2019-2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-global-industry-analysis-trends-market-size-and-forecasts-up-to-2025-2021-09-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-global-industry-analysis-trends-market-size-and-forecasts-up-to-2025-2021-09-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T02:01:00-07:00",
+      "publishedDateTime": "2021-12-17T08:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -676,691 +55,19 @@
       ]
     },
     {
-      "path": "_news/2021-09-28-global-face-recognition-software-market-2021-industry-statistics-emerging-opportunities-revenue-and-volume-analysis-by-2027.md",
-      "title": "Global Face Recognition Software Market 2021 Industry Statistics, Emerging Opportunities, Revenue and Volume Analysis by 2027",
-      "excerpt": "MarketQuest.biz have issued a global study report titled Global Face Recognition Software Market 2021 by Company, Regions, Type and Application, Forecast to 2027 that contains an accurate simulation of industry insight,",
+      "path": "_news/2021-12-17-samsung-jetbot-ai-review.md",
+      "title": "Samsung JetBot AI+ review",
+      "excerpt": "This intelligent and gentle cleaner is packed with features like livestream home monitoring, object recognition, multiple cleaning pattern options, and a self-emptying base. On paper, it’s one ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-face-recognition-software-market-2021-industry-statistics-emerging-opportunities-revenue-and-volume-analysis-by-2027-2021-09-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-software-market-2021-industry-statistics-emerging-opportunities-revenue-and-volume-analysis-by-2027-2021-09-27",
+      "webUrl": "https://www.tomsguide.com/reviews/samsung-jetbot-ai-plus",
+      "originalUrl": "https://www.tomsguide.com/reviews/samsung-jetbot-ai-plus",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-facial-recognition-contractor-clearview-ai-withdraws-subpoenas-served-on-nonprofit.md",
-      "title": "Facial recognition contractor Clearview AI withdraws subpoenas served on nonprofit",
-      "excerpt": "A technology company that provides facial recognition technology to at least four government agencies has withdrawn subpoenas it served on a nonprofit. Clearview AI this morning announced that it would not pursue the court orders,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fedscoop.com/facial-recognition-contractor-clearview-ai-withdraws-subpoenas-served-on-nonprofit/",
-      "originalUrl": "https://www.fedscoop.com/facial-recognition-contractor-clearview-ai-withdraws-subpoenas-served-on-nonprofit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
-          "width": 629,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-replacing-your-iphone-13-display-will-render-face-id-unusable-unless-apple-does-it.md",
-      "title": "Replacing your iPhone 13 display will render Face ID unusable, unless Apple does it",
-      "excerpt": "By contrast, the Face ID module is simply a capture device that doesn't hold any facial recognition data, which is stored in the iPhone's secure enclave.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91433-replacing-iphone-13-display-render-face-unusable-unless.html",
-      "originalUrl": "https://www.techspot.com/news/91433-replacing-iphone-13-display-render-face-unusable-unless.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-27-image.jpg",
-          "width": 1960,
-          "height": 1102,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91433-replacing-iphone-13-display-render-face-unusable-unless.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91433-replacing-iphone-13-display-render-face-unusable-unless.html",
-      "publishedDateTime": "2021-09-27T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-worried-about-facial-recognition-big-tech-wants-your-anal-prints-too.md",
-      "title": "Worried About Facial Recognition? Big Tech Wants Your Anal Prints Too",
-      "excerpt": "Privacy concerns related to the implications of facial recognition have been raised several times but you may not have thought much about a very different part of your body being scanned. Sanjiv Gambhir,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thequint.com/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too",
-      "originalUrl": "https://www.thequint.com/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thequint.com/thequint%2F2020-02%2F18813c2f-9015-42ff-b4e4-712fc1e86819%2FiStock_1165098319.jpg",
-          "width": 745,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thequint.com/amp/story/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too",
-      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too",
-      "publishedDateTime": "2021-09-27T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Quint",
-        "domain": "thequint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-absa-launches-facial-recognition-tech-in-south-africa.md",
-      "title": "Absa Launches Facial Recognition Tech in South Africa",
-      "excerpt": "Absa, one of South Africa’s largest banks and a pan-African lender, has officially launched facial recognition technology in its Android and iOS apps, which some users will need to utilize to authenticate certain transactions through facial scans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/",
-      "originalUrl": "https://www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itnewsafrica.com/wp-content/uploads/2021/09/Absa-Facial-Recognition-Tech.jpeg",
-          "width": 800,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/?amp",
-      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/?amp",
-      "publishedDateTime": "2021-09-27T01:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News Africa",
-        "domain": "itnewsafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-scientists-create-ai-that-can-suggest-where-to-apply-makeup-to-fool-facial-recognition.md",
-      "title": "Scientists create AI that can suggest where to apply makeup to fool facial recognition",
-      "excerpt": "Researchers at Israel's Ben-Gurion University trained AI software to tell users where to apply subtle contouring to throw off facial recognition systems up to 98.8 percent of the time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10026371/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html?fr=operanews",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10026371/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html?fr=operanews",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/09/24/22/48356691-0-image-a-11_1632518646328.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html",
-      "publishedDateTime": "2021-09-24T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-exclusive-ice-just-paid-39-million-for-rapid-ai-powered-facial-recognition-at-migrant-detention-facilities.md",
-      "title": "Exclusive: ICE just paid $3.9 million for 'rapid' AI-powered facial recognition at migrant detention facilities",
-      "excerpt": "ICE has a new contract with a company called Trust Stamp that says it offers facial matching through 3D renderings of people's heads and faces.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9",
-      "originalUrl": "https://www.businessinsider.com/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images2.markets.businessinsider.com/6010d4561d2df20018b710ac?format=jpeg",
-          "width": 701,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-deep-learning-in-computer-vision-market-2021-to-2027-to-see-booming-ahead-latest-study-reveals.md",
-      "title": "Deep Learning in Computer Vision Market 2021 to 2027 To See Booming Ahead, Latest Study Reveals",
-      "excerpt": "The Latest research study released by Data Bridge Market Research “Deep Learning in Computer Vision Market” with 100+ pages of analysis on business Strategy taken up by key and emerging ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-in-computer-vision-market-2021-to-2027-to-see-booming-ahead-latest-study-reveals",
-      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-in-computer-vision-market-2021-to-2027-to-see-booming-ahead-latest-study-reveals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/47147b97d23f91a99a112fb98d947fd877764fff-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-android-update-teases-improved-accessibility-options-for-handwriting-facial-recognition.md",
-      "title": "Android update teases improved accessibility options for handwriting, facial recognition",
-      "excerpt": "Google is launching 13 new Android features this autumn, including new accessibility features, improvements to Waze, and alerts to remind you to look up from the phone screen while walking. The tech giant is launching two new accessibility features to help people with motor and speech impairments,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/mobile/google-android/361007/android-accessibility-facial-recognition-handwriting-autumn",
-      "originalUrl": "https://www.itpro.co.uk/mobile/google-android/361007/android-accessibility-facial-recognition-handwriting-autumn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1632486148/Google_android_new_features.png",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-recurrent-neural-network-explains-the-power-of-the-frontal-cortex.md",
-      "title": "Recurrent Neural Network Explains the Power of the Frontal Cortex",
-      "excerpt": "“In the artificial intelligence field, computer scientists have designed various artificial neural networks, including RNNs, which effectively solve problems, such as language translation and object recognition, by simulating the neural network in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/neuroscience/news/recurrent-neural-network-explains-the-power-of-the-frontal-cortex-354077",
-      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/recurrent-neural-network-explains-the-power-of-the-frontal-cortex-354077",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG",
-          "width": 389,
-          "height": 389,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/neuroscience/news/amp/recurrent-neural-network-explains-the-power-of-the-frontal-cortex-354077",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/recurrent-neural-network-explains-the-power-of-the-frontal-cortex-354077",
-      "publishedDateTime": "2021-09-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-3d-facial-recognition-market-size-analysis-competitive-strategies-and-forecasts-to-2026.md",
-      "title": "3D Facial Recognition Market Size, Analysis, Competitive Strategies and Forecasts to 2026",
-      "excerpt": "This detailed presentation on ‘ 3D Facial Recognition market’ available at MarketStudyReport.com, features an exhaustive study conveying influential trends prevailing in the global business sphere. The report also presents significant details concerning market size,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-size-analysis-competitive-strategies-and-forecasts-to-2026-2021-09-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-size-analysis-competitive-strategies-and-forecasts-to-2026-2021-09-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-23T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-explore-image-analysis-results-from-amazon-rekognition-and-store-your-findings-in-amazon-documentdb.md",
-      "title": "Explore image analysis results from Amazon Rekognition and store your findings in Amazon DocumentDB",
-      "excerpt": "When we analyze images, we may want to incorporate other metadata related to the image. Examples include when and where the image was taken, who took the image, as well as what is featured in the image. One way to represent this metadata is to use a JSON format, which is well-suited for a document […]",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/explore-image-analysis-results-from-amazon-rekognition-and-store-your-findings-in-amazon-documentdb/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/explore-image-analysis-results-from-amazon-rekognition-and-store-your-findings-in-amazon-documentdb/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/14/ML-3022-image003.jpg",
-          "width": 1240,
-          "height": 831,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-23T09:51:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-android-adds-facial-gesture-controls-and-handwriting-recognition-accessibility-features.md",
-      "title": "Android adds facial gesture controls and handwriting recognition accessibility features",
-      "excerpt": "Google’s raft of new features coming to Android this fall includes some interesting new accessibility features. There are new facial gesture controls designed for people with motor impairments, as well as a new handwriting recognition feature for Lookout,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
-      "originalUrl": "https://www.theverge.com/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/sY-QLcLpUYEAsrQHxGaStgDRTx8=/0x0:1284x856/1400x933/filters:focal(540x326:744x530):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69898308/Untitled__2_.0.png",
-          "width": 1284,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
-      "publishedDateTime": "2021-09-23T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-uw-research-provides-a-basic-structure-of-neural-networks-in-the-mammalian-brain.md",
-      "title": "UW research provides a basic structure of neural networks in the mammalian brain",
-      "excerpt": "Two University of Wyoming researchers decided to pick each other's brain, so to speak. Specifically, they examined the importance of the frontal cortex, the portion of the brain used in decision-making,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210922/UW-research-provides-a-basic-structure-of-neural-networks-in-the-mammalian-brain.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210922/UW-research-provides-a-basic-structure-of-neural-networks-in-the-mammalian-brain.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210922/UW-research-provides-a-basic-structure-of-neural-networks-in-the-mammalian-brain.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210922/UW-research-provides-a-basic-structure-of-neural-networks-in-the-mammalian-brain.aspx",
-      "publishedDateTime": "2021-09-22T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark.md",
-      "title": "AI industry, obsessed with speed, is loathe to consider the energy cost in latest MLPerf benchmark",
-      "excerpt": "on Wednesday issued the latest vendor results for performance on benchmark tests of machine learning such as object recognition and natural language processing. Compared to the previous report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark/",
-      "originalUrl": "https://www.zdnet.com/article/ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ad988efb009532b6ffb0ff752ba39e0e2f795839/2021/10/05/d4f24554-7da2-44c4-8e5d-87c09f1f8234/20210924-tiernan-beth-sus.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "url": "https://cdn.mos.cms.futurecdn.net/BLS6YRHSXT9fdVWemg9qvD-1200-80.jpg",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -1370,9 +77,138 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark/",
-      "publishedDateTime": "2021-09-22T12:43:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T23:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology.md",
+      "title": "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology",
+      "excerpt": "Frost & Sullivan recently assessed the North American computer vision market, and based on its results, recognizes Algolux with the 2021",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html",
+      "originalUrl": "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1708569/Algolux_Award.jpg?p=facebook",
+          "width": 1500,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T14:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology.md",
+      "title": "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology",
+      "excerpt": "Algolux's solutions improve vision accuracy and address mission-critical safety concerns in the automotive, transport, and autonomous vehicle space",
+      "sourceUrl": null,
+      "webUrl": "https://kdhnews.com/news/texas/frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and/article_d8d39368-9c8f-552e-a455-06e0643cf4bf.html",
+      "originalUrl": "https://kdhnews.com/news/texas/frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and/article_d8d39368-9c8f-552e-a455-06e0643cf4bf.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/b/d3/bd383cd7-b4c6-5c8d-8e85-7a3bc9fc0e30/61b9ea6acca60.image.jpg?crop=1500%2C788%2C0%2C293&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Killeen Daily Herald",
+        "domain": "kdhnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-2022-a-major-revolution-in-robotics.md",
+      "title": "2022: A major revolution in robotics",
+      "excerpt": "For a while now, those who track robotics development have taken note of a quiet revolution in the sector. While self-driving cars have grabbed all the headlines, the work happening at the intersection of AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/2022-prediction-a-major-revolution-in-robotics/",
+      "originalUrl": "https://www.zdnet.com/article/2022-prediction-a-major-revolution-in-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/973d8007f08fa9b55dc91f02b215eb7b896350b4/2020/12/29/fa09a230-70f1-4a74-8169-e198645005b3/robot-robot-arm-strong-machine.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2022-prediction-a-major-revolution-in-robotics/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2022-prediction-a-major-revolution-in-robotics/",
+      "publishedDateTime": "2021-12-14T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -1395,10 +231,11 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
       ]
     }
   ],
-  "nextPage": 9
+  "nextPage": null
 }

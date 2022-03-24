@@ -2,45 +2,27 @@
   "page": 100,
   "value": [
     {
-      "path": "_news/2021-10-07-global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027.md",
-      "title": "Global AI based Edge Computing Chip Market 2021 Industry Growth, Top Players, Segmentation and Forecast to 2027",
-      "excerpt": "MarketsandResearch.biz has recently published a report titled Global AI based Edge Computing Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 which assesses dynamic factors,",
+      "path": "_news/2021-12-17-camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing.md",
+      "title": "Camvi Technologies Demonstrates Superior Vision AI in Dell Testing",
+      "excerpt": "Camvi Technologies announced today that Dell Technologies Labs has validated that Camvi's NIST world #1 ranked Vision AI provides superior performance in accuracy,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027-2021-10-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027-2021-10-06",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing/article_dd2ea4d1-ad06-5964-82fe-ef539ffd8ab2.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing/article_dd2ea4d1-ad06-5964-82fe-ef539ffd8ab2.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T16:54:00-07:00",
+      "publishedDateTime": "2021-12-16T15:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -54,387 +36,22 @@
       ]
     },
     {
-      "path": "_news/2021-10-07-what-facebook-should-change-according-to-its-whistleblower.md",
-      "title": "What Facebook should change, according to its whistleblower",
-      "excerpt": "She noted that Facebook’s own research has found that “engagement ... She also said that Facebook’s AI-based moderation tools were much less effective than what the company has publicly ...",
+      "path": "_news/2021-12-17-univ-of-washington-ai-protein-folding-discovery-wins-breakthrough-of-the-year-award-from-science.md",
+      "title": "Univ. of Washington AI protein folding discovery wins ‘Breakthrough of the Year’ award from Science",
+      "excerpt": "DeepMind published its approach in Nature the same week, and released its method to the scientific community. “Now structures can be obtained for samples that defy experimental methods ...",
       "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/what-facebook-whistleblower-frances-haugen-said-should-change-143051354.html",
-      "originalUrl": "https://www.engadget.com/what-facebook-whistleblower-frances-haugen-said-should-change-143051354.html",
+      "webUrl": "https://www.geekwire.com/2021/univ-of-washington-ai-protein-folding-discovery-wins-breakthrough-of-the-year-award-from-science/",
+      "originalUrl": "https://www.geekwire.com/2021/univ-of-washington-ai-protein-folding-discovery-wins-breakthrough-of-the-year-award-from-science/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/c7435030-25f7-11ec-8ffe-eed4478fd616",
-          "width": 6432,
-          "height": 4288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-bring-structure-to-diverse-documents-with-amazon-textract-and-transformer-based-models-on-amazon-sagemaker.md",
-      "title": "Bring structure to diverse documents with Amazon Textract and transformer-based models on Amazon SageMaker",
-      "excerpt": "From application forms, to identity documents, recent utility bills, and bank statements, many business processes today still rely on exchanging and analyzing human-readable documents—particularly in industries like financial services and law. In this post, we show how you can use Amazon SageMaker, an",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-structure-to-diverse-documents-with-amazon-textract-and-transformer-based-models-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-structure-to-diverse-documents-with-amazon-textract-and-transformer-based-models-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T15:52:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-gm-ultra-cruise-pushes-closer-to-door-to-door-self-driving-cars.md",
-      "title": "GM Ultra Cruise pushes closer to door-to-door self-driving cars",
-      "excerpt": "General Motors is officially dialing its self-driving program up from \"Super\" to \"Ultra.\" Set to launch in model year 2023, the all-new Ultra Cruise system promises a full hands-free driving experience in 95 percent of driving scenarios.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/gm-ultra-cruise/",
-      "originalUrl": "https://newatlas.com/automotive/gm-ultra-cruise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/156c86d/2147483647/strip/true/crop/1280x853+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F79%2Fc2%2F7037f0204f8b953292f2f8158a36%2F2021-cadillac-escalade-004.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/gm-ultra-cruise/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/gm-ultra-cruise/?amp=true",
-      "publishedDateTime": "2021-10-06T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-simulated-ai-creatures-demonstrate-how-mind-and-body-evolve-and-succeed-together.md",
-      "title": "Simulated AI creatures demonstrate how mind and body evolve and succeed together",
-      "excerpt": "Artificial intelligence is often thought of as disembodied: a mind like a program, floating in a digital void. But human minds are deeply intertwined with our bodies — and an experiment with virtual creatures performing tasks in simulated environments suggests that AI may benefit from having a",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/06/simulated-ai-creatures-demonstrate-how-mind-and-body-evolve-and-succeed-together/",
-      "originalUrl": "https://techcrunch.com/2021/10/06/simulated-ai-creatures-demonstrate-how-mind-and-body-evolve-and-succeed-together/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/unimals-hed.jpg?w=1024",
-          "width": 1024,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/06/simulated-ai-creatures-demonstrate-how-mind-and-body-evolve-and-succeed-together/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/simulated-ai-creatures-demonstrate-how-mind-and-body-evolve-and-succeed-together/amp/",
-      "publishedDateTime": "2021-10-06T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-first-processor-designed-using-artificial-intelligence.md",
-      "title": "First processor designed using Artificial Intelligence.",
-      "excerpt": "For this reason, a team at Google Brain has explored the use of artificial intelligence techniques for the design of its fifth generation of AI processors (TPU-v5). Using reinforcement learning techniques,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/first-processor-designed-using-artificial-intelligence-evlabs",
-      "originalUrl": "https://www.linkedin.com/pulse/first-processor-designed-using-artificial-intelligence-evlabs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGRB2kXJU1Vmw/article-cover_image-shrink_720_1280/0/1633553828574?e=1640217600&v=beta&t=pquSrE7ljbXKKFms1upE1Agcvl-sgwUo8B6KS7rzcNA",
-          "width": 1123,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-ecommerce-accelerator-patterns-machine-learning-and-ai-raises-225m.md",
-      "title": "Ecommerce accelerator Pattern’s machine learning and AI raises $225M",
-      "excerpt": "Today, ecommerce accelerator Pattern announced its $225 million growth equity investment for its machine learning and AI-driven logistics ... of impressive.” VentureBeat's mission is to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/06/ecommerce-accelerator-patterns-machine-learning-and-ai-lifts-225m/",
-      "originalUrl": "https://venturebeat.com/2021/10/06/ecommerce-accelerator-patterns-machine-learning-and-ai-lifts-225m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/11/Online-shopping.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 755,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/06/ecommerce-accelerator-patterns-machine-learning-and-ai-lifts-225m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/06/ecommerce-accelerator-patterns-machine-learning-and-ai-lifts-225m/amp/",
-      "publishedDateTime": "2021-10-06T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-marketing-automation-the-best-ai-tools-for-boosting-growth.md",
-      "title": "Marketing Automation: The Best AI Tools for Boosting Growth",
-      "excerpt": "This AI tool can be placed on your website or connected with LiveChat, Facebook Messenger ... automated intelligence with your business’ research and knowledge on a central platform for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sitepoint.com/marketing-automation-ai-tools-boost-growth/",
-      "originalUrl": "https://www.sitepoint.com/marketing-automation-ai-tools-boost-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads.sitepoint.com/wp-content/uploads/2021/10/1633400963ai-marketing-automation.jpg",
-          "width": 1200,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SitePoint",
-        "domain": "sitepoint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-robotics-pioneer-yoky-matsuoka-on-the-human-touch-in-her-new-personal-assistant-venture-yohana.md",
-      "title": "Robotics pioneer Yoky Matsuoka on the human touch in her new personal assistant venture Yohana",
-      "excerpt": "Yoky Matsuoka has served as head of innovation at Google and as chief technology officer at Nest, and she won a prestigious MacArthur “genius” award in 2007 while a professor at the University",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/robotics-pioneer-yoky-matsuoka-human-touch-new-personal-assistant-venture-yohana/",
-      "originalUrl": "https://www.geekwire.com/2021/robotics-pioneer-yoky-matsuoka-human-touch-new-personal-assistant-venture-yohana/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/10/0395-GW-Summit-2021105-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/robotics-pioneer-yoky-matsuoka-human-touch-new-personal-assistant-venture-yohana/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/robotics-pioneer-yoky-matsuoka-human-touch-new-personal-assistant-venture-yohana/amp/",
-      "publishedDateTime": "2021-10-06T12:35:00-07:00",
+      "ampWebUrl": "https://www.geekwire.com/2021/univ-of-washington-ai-protein-folding-discovery-wins-breakthrough-of-the-year-award-from-science/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/univ-of-washington-ai-protein-folding-discovery-wins-breakthrough-of-the-year-award-from-science/amp/",
+      "publishedDateTime": "2021-12-16T14:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "GeekWire",
@@ -457,61 +74,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Google AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-10-07-curtiss-wright-debuts-its-highest-performance-gpu-module-for-graphics-video-processing-and-aiml-at-the-tactical-edge.md",
-      "title": "Curtiss-Wright Debuts its Highest Performance GPU Module for Graphics, Video Processing, and AI/ML at the Tactical Edge",
-      "excerpt": "The new PacStar 454 NVIDIA GPU Enhanced Server Module is designed for demanding graphics, video and artificial intelligence (AI) and machine learning (ML) applications at the edge of the tactical battlefield. Measuring only 5.3” x 7.1” x 5.5” and ...",
+      "path": "_news/2021-12-17-artificial-intelligence-in-platform-as-a-service-paas-market.md",
+      "title": "Artificial Intelligence in Platform as a Service (PaaS) Market",
+      "excerpt": "Latest Study on Industrial Growth of Global Artificial Intelligence in Platform as a Service (PaaS) Market 2021-2027. A detailed study accumulated to offer Latest insights about acute features of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.newswiretoday.com/news/176367/Curtiss-Wright-Debuts-its-Highest-Performance-GPU-Module-for-Graphics-Video-Processing-and-AI-and-ML-at-the-Tactical-Edge/",
-      "originalUrl": "https://www.newswiretoday.com/news/176367/Curtiss-Wright-Debuts-its-Highest-Performance-GPU-Module-for-Graphics-Video-Processing-and-AI-and-ML-at-the-Tactical-Edge/",
+      "webUrl": "https://www.openpr.com/news/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "originalUrl": "https://www.openpr.com/news/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-the-ml-glossary-five-years-of-new-language.md",
-      "title": "The ML Glossary: Five years of new language",
-      "excerpt": "Over guacamole and corn chips at a party, a friend mentions that her favorite phone game uses augmented reality. Another friend points her phone at the host and shouts, \"Watch out—a t-rex is sneaking up behind you.\" Eager to join the conversation, you blurt, \"My blender has an augmented reality setting.\"If",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/ml-glossary-five-years-new-language/",
-      "originalUrl": "https://blog.google/technology/ai/ml-glossary-five-years-new-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
       "images": [
         {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_graphic_fallback_-_multicolor.max-1300x1300.png",
-          "width": 1300,
-          "height": 729,
+          "url": "https://cdn.openpr.com/U/c/Uc16495437_g.jpg",
+          "width": 450,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -519,110 +101,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/ml-glossary-five-years-new-language/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/ml-glossary-five-years-new-language/amp/",
-      "publishedDateTime": "2021-10-06T12:00:00-07:00",
+      "ampWebUrl": "https://www.openpr.com/amp/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "publishedDateTime": "2021-12-16T10:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-driving-ai-innovation-in-tandem-with-regulation.md",
-      "title": "Driving AI innovation in tandem with regulation",
-      "excerpt": "This unleashed criticism that the regulations could slow AI innovation, hamstringing Europe in its competition with the U.S. and China for leadership in AI. For example, Andrew McAfee wrote an article titled “EU proposals to regulate AI are only going to hinder innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/",
-      "originalUrl": "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-853938300.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/",
-      "publishedDateTime": "2021-10-06T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-top-cloud-providers-alibaba-cloud-vs-aws.md",
-      "title": "Top Cloud Providers: Alibaba Cloud vs. AWS",
-      "excerpt": "When choosing a cloud provider, here are some things to consider: Founded in 2009, Alibaba Cloud is globally recognized for technological innovation in cloud computing and artificial intelligence ... guides and tutorials. AWS is a globally recognized ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusinessedge.com/cloud/alibaba-cloud-vs-aws/",
-      "originalUrl": "https://www.itbusinessedge.com/cloud/alibaba-cloud-vs-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business Edge",
-        "domain": "itbusinessedge.com",
+        "name": "openpr.com",
+        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -637,12 +122,12 @@
       ]
     },
     {
-      "path": "_news/2021-10-07-artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-484-during-2021-2027top-key-players-microsoft-aws-xero.md",
-      "title": "Artificial Intelligence for Accounting Market : Global Market to Grow at a CAGR of 48.4% During 2021-2027|Top key players: Microsoft, AWS, Xero",
-      "excerpt": "Different market tables and figures, pie charts, graphs split over easy-to-understand pages, and extensive analysis are included in this report on the Artificial Intelligence for Accounting Market. The global research report includes a strategic analysis,",
+      "path": "_news/2021-12-16-why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies.md",
+      "title": "Why Some Psychedelic Assisted Therapy Clinics Are Turning To Artificial Intelligence for Digital Mental Therapies",
+      "excerpt": "The bottom line: Psychedelic therapy is still in its early days ... evidence-backed protocols and Artificial Intelligence data systems. Geoff Belair, MINDCURE's Chief Technology Officer, said ...",
       "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
-      "originalUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
+      "webUrl": "https://www.prnewswire.com/news-releases/why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies-301446468.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies-301446468.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -650,13 +135,91 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
-      "publishedDateTime": "2021-10-06T11:16:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T07:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3.md",
+      "title": "Artificial Intelligence Technology Solutions Announces Delivery Robot Development, Update to S-3",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), a global leader in AI-driven security and productivity solutions for enterprise clients, announced that its subsidiary, Robotic Assistance Devices Mobile Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24643155/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24643155/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24643155",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24643155",
+      "publishedDateTime": "2021-12-16T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-artificial-intelligence-in-platform-as-a-service-market-is-going-to-boom-aws-ibm-microsoft.md",
+      "title": "Artificial Intelligence in Platform as a Service Market is Going to Boom | AWS, IBM, Microsoft",
+      "excerpt": "The growth of the Artificial Intelligence in Platform as a Service Market was mainly driven by the increasing R&D spending across the world. Some of the key players profiled in the study are: AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-platform-as-a-service-market-is-going-to-boom-aws-ibm-microsoft",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-platform-as-a-service-market-is-going-to-boom-aws-ibm-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/BBB-4-2-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -672,64 +235,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-07-exxact-corporation-releases-new-nvidia-hgx-a100-powered-servers-for-ai-and-hpc-workloads.md",
-      "title": "Exxact Corporation Releases New NVIDIA HGX A100 Powered Servers for AI and HPC Workloads",
-      "excerpt": "This new line of GPU-accelerated systems allows researchers and scientists to combine simulation, data analytics, and AI to drive scientific progress. NVIDIA HGX combines NVIDIA A100 Tensor Core ...",
+      "path": "_news/2021-12-16-frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology.md",
+      "title": "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology",
+      "excerpt": "Frost & Sullivan recently assessed the North American computer vision market, and based on its results, recognizes Algolux with the 2021",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/exxact-corporation-releases-new-nvidia-hgx-a100-powered-servers-for-ai-and-hpc-workloads-1030848351",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/exxact-corporation-releases-new-nvidia-hgx-a100-powered-servers-for-ai-and-hpc-workloads-1030848351",
+      "webUrl": "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html",
+      "originalUrl": "https://www.prnewswire.com/in/news-releases/frost-amp-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology-842378995.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real.md",
-      "title": "Most Self-Driving Demonstrations Are Theater, Here’s How To Make Them More Real",
-      "excerpt": "Many self-driving teams have released videos of their cars driving without problems in order to impress. But cherry picked videos say little. By doing a random route at a random time and showing it live,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615de07c94907055fb9bcce9%2F0x0.jpg",
-          "width": 997,
-          "height": 555,
+          "url": "https://mma.prnewswire.com/media/1708569/Algolux_Award.jpg?p=facebook",
+          "width": 1500,
+          "height": 785,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -737,52 +257,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/amp/",
-      "publishedDateTime": "2021-10-06T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-runai-eliminates-gpu-resource-allocation-issues-for-ai-workloads.md",
-      "title": "Run:AI Eliminates GPU Resource Allocation Issues For AI Workloads",
-      "excerpt": "AI, a leader in compute orchestration for AI workloads, today released two new AI technologies, 'Thin GPU Provisioning' and 'Job",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/runai-eliminates-gpu-resource-allocation-issues-for-ai-workloads-301394448.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/runai-eliminates-gpu-resource-allocation-issues-for-ai-workloads-301394448.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T10:40:00-07:00",
+      "publishedDateTime": "2021-12-15T14:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PR Newswire",
@@ -796,26 +273,26 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-10-07-databricks-acquires-bamboolib-creator-8080-labs.md",
-      "title": "Databricks acquires bamboolib creator 8080 Labs",
-      "excerpt": "Databricks has acquired 8080 Labs, creator of bamboolib, for an undisclosed sum. Bamboolib is a popular UI-based data exploration and transformation tool. The flagship data science solution also facilitates no-code workflows that seamlessly synchronize with the Python ecosystem.",
+      "path": "_news/2021-12-16-regulators-must-root-out-bias-in-ai-based-lending.md",
+      "title": "Regulators must root out bias in AI-based lending",
+      "excerpt": "It’s pretty clear that the move to AI and machine learning is well underway in financial services. A 2020 survey of lenders found that 88% of them plan to increase their investment in AI in the coming years specifically for use in evaluating credit risk.",
       "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs",
+      "webUrl": "https://www.americanbanker.com/opinion/banking-regulators-must-root-out-bias-in-ai-based-lending",
+      "originalUrl": "https://www.americanbanker.com/opinion/banking-regulators-must-root-out-bias-in-ai-based-lending",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816297/itpro/2017/02/big_databigstock.jpg",
-          "width": 1260,
-          "height": 710,
+          "url": "https://arizent.brightspotcdn.com/dims4/default/283708b/2147483647/strip/true/crop/4500x2363+0+319/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fba%2Fa4%2Ff0aaeb11494f8b26a8abe3df8de2%2Fai.jpeg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -823,16 +300,59 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs?amp",
-      "publishedDateTime": "2021-10-06T10:08:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T13:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
+        "name": "American Banker",
+        "domain": "americanbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-us-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance.md",
+      "title": "U.S. Set to Ban American Investment in Some Chinese Companies Over Surveillance",
+      "excerpt": "A draft Treasury Department announcement says the companies, including a major drone maker, participate in China’s mass surveillance of Muslim ethnic groups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940",
+      "originalUrl": "https://www.wsj.com/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-452768/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940",
+      "publishedDateTime": "2021-12-15T10:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -840,6 +360,82 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-developing-ai-applications-on-azure.md",
+      "title": "Developing AI Applications on Azure",
+      "excerpt": "Next, this course introduces the machine learning tools available in Microsoft Azure. We'll review standardized approaches to data analytics and you'll receive specific guidance on Microsoft's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/education/skillbuilder/developing-ai-applications-on-azure-0_DMj3I_RZEemNmw4gGersHg",
+      "originalUrl": "https://www.usnews.com/education/skillbuilder/developing-ai-applications-on-azure-0_DMj3I_RZEemNmw4gGersHg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T06:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using-deepdubs-ai-and-deep-learning-platform.md",
+      "title": "Topic's streaming service & Deepdub partner to localize dozens of foreign-language series to English using Deepdub's AI and deep learning platform",
+      "excerpt": "Topic's streaming service & Deepdub partner to localize dozens of foreign-language series to English using Deepdub's AI and deep learning platform By Deepdub Ltd Dec 15, 2021",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using/article_51a059bc-18e1-5ff7-a555-1aabc30592bb.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using/article_51a059bc-18e1-5ff7-a555-1aabc30592bb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T05:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -853,21 +449,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-06-vmware-partners-its-way-deeper-into-cloud-edge-and-ai.md",
-      "title": "VMware Partners Its Way Deeper into Cloud, Edge, And AI",
-      "excerpt": "Software maker VMware has always been about tight partnerships with other tech vendors. When you are middleware between hardware and operating systems,",
+      "path": "_news/2021-12-15-frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology.md",
+      "title": "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology",
+      "excerpt": "Algolux's solutions improve vision accuracy and address mission-critical safety concerns in the automotive, transport, and autonomous vehicle space",
       "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/",
-      "originalUrl": "https://www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/",
+      "webUrl": "https://kdhnews.com/news/texas/frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and/article_d8d39368-9c8f-552e-a455-06e0643cf4bf.html",
+      "originalUrl": "https://kdhnews.com/news/texas/frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and/article_d8d39368-9c8f-552e-a455-06e0643cf4bf.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/vmware-logo.jpg",
-          "width": 776,
-          "height": 488,
+          "url": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/b/d3/bd383cd7-b4c6-5c8d-8e85-7a3bc9fc0e30/61b9ea6acca60.image.jpg?crop=1500%2C788%2C0%2C293&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -875,9 +471,391 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/amp/",
-      "publishedDateTime": "2021-10-06T09:40:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Killeen Daily Herald",
+        "domain": "kdhnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-solving-the-data-conundrum-with-hpc-and-ai.md",
+      "title": "Solving the data conundrum with HPC and AI",
+      "excerpt": "HPC’s GPU parallel computing has been a real game-changer for AI as parallel computing can process all this data, in a short amount of time using GPUs. As workloads have grown, so too have GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/features/solving-the-data-conundrum-with-hpc-and-ai/",
+      "originalUrl": "https://www.itproportal.com/features/solving-the-data-conundrum-with-hpc-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/j8xQT8TiEmHDu3wUTRJ647-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/solving-the-data-conundrum-with-hpc-and-ai/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/solving-the-data-conundrum-with-hpc-and-ai/",
+      "publishedDateTime": "2021-12-15T01:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-tensorflow-ranking-keras-pipeline-for-distributed-training.md",
+      "title": "TensorFlow Ranking Keras pipeline for distributed training",
+      "excerpt": "TensorFlow Ranking can handle heterogeneous dense and sparse features, and scales up to millions of data points. However, building and deploying a learning to rank model to operate at scale creates additional challenges beyond simply designing a model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/ranking/tutorials/ranking_dnn_distributed?hl=zh-tw",
+      "originalUrl": "https://www.tensorflow.org/ranking/tutorials/ranking_dnn_distributed?hl=zh-tw",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=zh-tw",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T23:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-ex-appletesla-leaders-raise-2000000-from-1000-retail-investors-on-track-to-release-worlds-first-artificial-human-arm.md",
+      "title": "Ex-Apple/Tesla Leaders Raise $2,000,000 from 1,000+ Retail Investors, On Track to Release World’s First Artificial Human Arm",
+      "excerpt": "SAN FRANCISCO--(BUSINESS WIRE)--Atom Limbs, a robotics company creating mind-controlled bionic limbs, has raised $2M from 1,000+ retail investors. Atom opened its Wefunder equity investment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20211214005475/en/Ex-AppleTesla-Leaders-Raise-2000000-from-1000-Retail-Investors-On-Track-to-Release-World’s-First-Artificial-Human-Arm",
+      "originalUrl": "https://www.businesswire.com/news/home/20211214005475/en/Ex-AppleTesla-Leaders-Raise-2000000-from-1000-Retail-Investors-On-Track-to-Release-World’s-First-Artificial-Human-Arm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T21:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-microsoft-releases-azure-bot-service-and-cognitive-services-language-understanding.md",
+      "title": "Microsoft releases Azure Bot Service and Cognitive Services Language Understanding",
+      "excerpt": "Microsoft Azure Bot Service and Microsoft Cognitive Services Language Understanding (LUIS) are now available. “Conversational AI, or making human and computer interactions more natural ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/",
+      "originalUrl": "https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2017/12/5588dd73-2c97-4efb-9a8e-e24ff0f31806-490x264.png",
+          "width": 490,
+          "height": 264,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-tap-into-the-artificial-intelligence-space-with-these-4-funds.md",
+      "title": "Tap Into the Artificial Intelligence Space With These 4 Funds",
+      "excerpt": "Maybe, but this is where machine learning and artificial intelligence (AI ... a photographic memory that can be used in robotics, self-driving cars, virtual assistants and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/tap-into-the-artificial-intelligence-space-with-these-4-funds",
+      "originalUrl": "https://www.nasdaq.com/articles/tap-into-the-artificial-intelligence-space-with-these-4-funds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/tap-into-the-artificial-intelligence-space-with-these-4-funds?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tap-into-the-artificial-intelligence-space-with-these-4-funds?amp",
+      "publishedDateTime": "2021-12-14T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-2022-a-major-revolution-in-robotics.md",
+      "title": "2022: A major revolution in robotics",
+      "excerpt": "For a while now, those who track robotics development have taken note of a quiet revolution in the sector. While self-driving cars have grabbed all the headlines, the work happening at the intersection of AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/2022-prediction-a-major-revolution-in-robotics/",
+      "originalUrl": "https://www.zdnet.com/article/2022-prediction-a-major-revolution-in-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/973d8007f08fa9b55dc91f02b215eb7b896350b4/2020/12/29/fa09a230-70f1-4a74-8169-e198645005b3/robot-robot-arm-strong-machine.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2022-prediction-a-major-revolution-in-robotics/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2022-prediction-a-major-revolution-in-robotics/",
+      "publishedDateTime": "2021-12-14T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-morgan-stanley-and-the-child-mind-institute-select-winners-of-machine-learning-for-good-hackathon.md",
+      "title": "Morgan Stanley and the Child Mind Institute Select Winners of “Machine Learning for Good” Hackathon",
+      "excerpt": "NEW YORK--(BUSINESS WIRE)--Morgan Stanley and the Child Mind Institute today announced the results of the judging from Morgan Stanley’s Machine ... leading global financial services firm ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20211213005237/en/Morgan-Stanley-and-the-Child-Mind-Institute-Select-Winners-of-“Machine-Learning-for-Good”-Hackathon",
+      "originalUrl": "https://www.businesswire.com/news/home/20211213005237/en/Morgan-Stanley-and-the-Child-Mind-Institute-Select-Winners-of-“Machine-Learning-for-Good”-Hackathon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-deep-learning-market-insights-2021-a-detailed-research-report.md",
+      "title": "Deep Learning Market Insights 2021. A Detailed Research Report",
+      "excerpt": "Pune, Maharashtra, India, December 13 2021 (Wiredrelease) MarketResearch.Biz –:The Deep Learning market study delves into the industry’s growth potential, challenges, growth drivers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-market-insights-2021-a-detailed-research-report",
+      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-market-insights-2021-a-detailed-research-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://5gigs.com/wp-content/uploads/2021/12/English-4.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T05:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-leverage-ai-innovation-with-gpu-optimized-solutions.md",
+      "title": "Leverage AI Innovation with GPU-Optimized Solutions",
+      "excerpt": "The ability to break computationally-intensive assignments into pieces and begin solving them simultaneously is the main reason why GPU computing is the ideal fit for AI, deep learning, and other highly analytical workloads. NVIDIA’s industry-leading ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/microsite-landing/leverage-ai-innovation-gpu-optimized-solutions/",
+      "originalUrl": "https://www.nextplatform.com/microsite-landing/leverage-ai-innovation-gpu-optimized-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/microsite-landing/leverage-ai-innovation-gpu-optimized-solutions/?amp",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/microsite-landing/leverage-ai-innovation-gpu-optimized-solutions/?amp",
+      "publishedDateTime": "2021-12-12T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Next Platform",
@@ -891,25 +869,110 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-10-06-databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition.md",
-      "title": "Databricks Boosts No-Code Data Analytics, AI Capabilities With Acquisition",
-      "excerpt": "Databricks has acquired 8080 Labs and its Bamboolib data science tool to bolster the Databricks data engineering, data analytics and AI product portfolio.",
+      "path": "_news/2021-12-11-sega-toys-neurosky-team-up-for-mind-controlled-toys.md",
+      "title": "Sega Toys, NeuroSky team up for \"mind-controlled\" toys",
+      "excerpt": "but Sega Toys (makers of freaky robots) and the brain-reading folks at NeuroSky have announced that they've teamed up in an effort to develop what they're only describing as \"mind-controlled tech ...",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/applications-os/databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition",
-      "originalUrl": "https://www.crn.com/news/applications-os/databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition",
+      "webUrl": "https://www.engadget.com/2007-12-11-sega-toys-neurosky-team-up-for-mind-controlled-toys.html",
+      "originalUrl": "https://www.engadget.com/2007-12-11-sega-toys-neurosky-team-up-for-mind-controlled-toys.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-timekettle-wt2-edge-1st-bi-directional-simultaneous-ai-translation-earbuds.md",
+      "title": "Timekettle WT2 Edge: 1st Bi-Directional Simultaneous AI Translation Earbuds",
+      "excerpt": "For example, if we are in conference with foreign-language speakers, we normally have such kind of sense that we have to wait for the translation for a long time once we use some translation tools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/timekettle-wt2-edge-1st-bi-directional-simultaneous-ai-translation-earbuds",
+      "originalUrl": "https://www.digitaljournal.com/pr/timekettle-wt2-edge-1st-bi-directional-simultaneous-ai-translation-earbuds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.crn.com/resources/0267-11c406e87512-5307b1958bda-1000/123200924.jpeg",
+          "url": "https://www.accesswire.com/users/newswire/images/676729/image.png",
+          "width": 602,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-09T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-va-aims-to-reduce-administrative-tasks-with-ai-machine-learning.md",
+      "title": "VA Aims To Reduce Administrative Tasks With AI, Machine Learning",
+      "excerpt": "The AI and machine learning technology outlined in the presolicitation could also support new EHR infrastructure and focus on an improved user experience, mainly with an improved platform ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextgov.com/emerging-tech/2022/01/us-army-announces-new-machine-learning-tech-burn-treatment/360303/",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/cd/2022/01/03/GettyImages_184355967/open-graph.jpg",
           "width": 400,
           "height": 400,
           "title": null,
@@ -921,11 +984,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T09:32:00-07:00",
+      "publishedDateTime": "2021-12-08T09:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
+        "name": "Nextgov",
+        "domain": "nextgov.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -935,25 +998,26 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2021-10-06-google-wants-to-use-ai-to-time-traffic-lights-more-efficiently.md",
-      "title": "Google wants to use AI to time traffic lights more efficiently",
-      "excerpt": "Alphabet Inc's Google cut fuel use and traffic delays by 10% to 20% at four locations in Israel by using artificial intelligence to optimize signal lights and it next plans to test the software in Rio de Janeiro,",
+      "path": "_news/2021-12-08-breaking-international-news-views-reuters.md",
+      "title": "Breaking International News & Views | Reuters",
+      "excerpt": "Reuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day. Reuters provides business, financial ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/google-wants-use-ai-time-traffic-lights-more-efficiently-2021-10-06/",
-      "originalUrl": "https://www.reuters.com/technology/google-wants-use-ai-time-traffic-lights-more-efficiently-2021-10-06/",
+      "webUrl": "https://www.reuters.com/article/us-alphabet-google-research-exclusive/exclusive-google-pledges-changes-to-research-oversight-after-internal-revolt-idUSKBN2AP1AC",
+      "originalUrl": "https://www.reuters.com/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/bv8rcqIS1zr-l_bcEZJF0h4_YL4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SZOE3SA4JFIABGHM7BKAVFD63Q.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210225&t=2&i=1552870470&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1O0OD",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -961,16 +1025,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T09:10:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AP1AC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AP1AC",
+      "publishedDateTime": "2021-12-07T22:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
         "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -986,176 +1050,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-brain-cell-differences-could-be-key-to-learning-in-humans-and-ai.md",
-      "title": "Brain cell differences could be key to learning in humans and AI",
-      "excerpt": "Researchers have found that variability between brain cells might speed up learning and improve the performance of the brain and future AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/10/211006112626.htm",
-      "originalUrl": "https://techxplore.com/news/2021-10-brain-cell-differences-key-humans.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-us-firm-acquires-keralites-ai-start-up.md",
-      "title": "US firm acquires Keralite's AI start-up",
-      "excerpt": "Kochi: Uncanny Vision, an artificial intelligence start-up registered in Kerala has been acquired by a US-based company, Eagle Eye Networks, having a global presence. Interestingly, the company has a curious’ triangular South Indian equation’.",
-      "sourceUrl": null,
-      "webUrl": "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705",
-      "originalUrl": "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.mathrubhumi.com/polopoly_fs/1.783633.1452191436!/menu/standard/file/490.png",
-          "width": 490,
-          "height": 268,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705",
-      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705",
-      "publishedDateTime": "2021-10-06T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mathrubhumi",
-        "domain": "mathrubhumi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-north-america-facial-recognition-market-covid-19-impact-in-depth-industry-analysis-2028.md",
-      "title": "North America Facial Recognition Market Covid-19 Impact In-Depth Industry Analysis 2028",
-      "excerpt": "According To Market Research, The North American Facial Recognition Market Is Anticipated To Rise With A Cagr Of 8.29% In The Estimated Years 2019-2028. The United States And Canada Together Shape The Market In This Region.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-covid-19-impact-in-depth-industry-analysis-2028-2021-10-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-covid-19-impact-in-depth-industry-analysis-2028-2021-10-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-ubers-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-claims.md",
-      "title": "Uber's 'racist' facial recognition software is firing Black and Asian drivers, former driver claims",
-      "excerpt": "Uber is facing legal action for alleged indirect racial discrimination against a driver who claims he was sacked after facial recognition software used by the company failed to recognise him. In an employment tribunal claim filed this week,",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/next/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-",
-      "originalUrl": "https://www.euronews.com/next/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/06/13/14/64/1000x563_cmsv2_3a714556-0f52-5d73-a4d7-5352ed7a7c5c-6131464.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.euronews.com/next/amp/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-",
-      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-",
-      "publishedDateTime": "2021-10-06T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

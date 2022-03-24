@@ -2,125 +2,21 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-10-04-for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore.md",
-      "title": "For Tesla, Facebook and Others, AI’s Flaws Are Getting Harder to Ignore",
-      "excerpt": "Investors are pouring money into artificial intelligence, despite clear setbacks in self-driving cars, social media and even healthcare.",
+      "path": "_news/2021-12-22-cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-nap.md",
+      "title": "Cars are getting better at driving themselves, but you still can't sit back and nap",
+      "excerpt": "\"There are exactly zero self-driving cars available for purchase ... they can have clear safety benefits. Baidu Apollo Robotaxis move on a street in Beijing on May 2. Chinese tech giant Baidu ...",
       "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_t5K2dNQfTk/v1/1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-self-driving-citroen-skate-carries-swappable-pods-for-inner-city-travel.md",
-      "title": "Self-driving Citroën Skate carries swappable pods for inner-city travel",
-      "excerpt": "Citroën has introduced an interesting mobility concept that brings together several forward-looking transport technologies into one versatile vehicle. The Citroën Skate is a self-driving electric vehicle platform that can be fitted with different types of pods depending on the job at hand,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/",
-      "originalUrl": "https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/49de448/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F55%2Fbb%2F8ecafcfd49cda55007acc29fd6b4%2Fcitroen-pullman-hero.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/?amp=true",
-      "publishedDateTime": "2021-10-03T22:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-the-economy-of-the-future.md",
-      "title": "The economy of the future",
-      "excerpt": "It adds that innovations in cloud computing, quantum computing, digital manufacturing, and driverless vehicles stand to dramatically ... Advances in big data, smart products, 3D printing, artificial intelligence, robotics, medical technologies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/blog/the-economy-of-the-future/80347",
-      "originalUrl": "https://www.itbusiness.ca/blog/the-economy-of-the-future/80347",
+      "webUrl": "https://www.wshu.org/npr-news/2021-12-22/cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-nap",
+      "originalUrl": "https://www.wshu.org/npr-news/2021-12-22/cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-nap",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2016/10/dig-620x250.jpg",
-          "width": 620,
-          "height": 250,
+          "url": "https://npr.brightspotcdn.com/dims4/default/6b99e63/2147483647/strip/true/crop/3205x1974+0+213/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2021%2F12%2F20%2Fap_21140129870069-852dfa883cd757930c04f9432840a9c0f8044504.jpg",
+          "width": 880,
+          "height": 542,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -128,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/blog/the-economy-of-the-future/80347?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/blog/the-economy-of-the-future/80347?amp=1",
-      "publishedDateTime": "2021-10-03T16:59:00-07:00",
+      "ampWebUrl": "https://www.wshu.org/npr-news/2021-12-22/cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-nap?_amp=true",
+      "cdnAmpWebUrl": "https://www-wshu-org.cdn.ampproject.org/c/s/www.wshu.org/npr-news/2021-12-22/cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-nap?_amp=true",
+      "publishedDateTime": "2021-12-22T02:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
+        "name": "WSHU news",
+        "domain": "wshu.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -149,114 +45,19 @@
       ]
     },
     {
-      "path": "_news/2021-10-03-the-7-biggest-artificial-intelligence-ai-trends-in-2022.md",
-      "title": "The 7 Biggest Artificial Intelligence (AI) Trends In 2022",
-      "excerpt": "In 2022, we will see artificial intelligence continue along the path to becoming the most transformative technology humanity has ever developed. According to Google CEO Sundar Pichai, its impact will be even greater than that of fire or electricity on our development as a species.",
+      "path": "_news/2021-12-22-waymo-adds-750-million-to-war-chest-as-driverless-cars-prove-tough-to-deploy.md",
+      "title": "Waymo Adds $750 Million to War Chest as Driverless Cars Prove Tough to Deploy",
+      "excerpt": "In the world of driverless cars, the big keep getting ... are going to big companies rather than unproven startups as the artificial intelligence technology has proven harder to deploy than ...",
       "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr/?midToken=AQGgi4xj0oeN-Q&fromEmail=fromEmail",
-      "originalUrl": "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr/?midToken=AQGgi4xj0oeN-Q&fromEmail=fromEmail",
+      "webUrl": "https://br.advfn.com/noticias/DJN/2020/artigo/82437841",
+      "originalUrl": "https://br.advfn.com/noticias/DJN/2020/artigo/82437841",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQG0c0tNZYneuA/article-cover_image-shrink_600_2000/0/1633266750161?e=1640217600&v=beta&t=AxxkyALE45yXAkd2ml5q5OWfmeoIyBKk-uwvdV_wma8",
-          "width": 1290,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-03T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-autonomous-vehicles-market-witness-stunning-growth-by-2028-renault-toyota-bmw.md",
-      "title": "Autonomous Vehicles Market Witness Stunning Growth By 2028 | Renault, Toyota, BMW",
-      "excerpt": "Autonomous vehicle also known as self-driving vehicles uses artificial intelligence AI software light detection ranging LiDAR and Radar sensing technology which is further used to monitor the car and",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/271378513/autonomous-vehicles-market-witness-stunning-growth-by-2028--renault-toyota-bmw",
-      "originalUrl": "https://www.bignewsnetwork.com/news/271378513/autonomous-vehicles-market-witness-stunning-growth-by-2028--renault-toyota-bmw",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1633869282912.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-02T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report.md",
-      "title": "GCC Artificial Intelligence Market 2021-26: Industry Trends, Size, Share, Analysis and Forecast Report",
-      "excerpt": "According to IMARC Group's latest report, titled \"GCC Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,\" the GCC artificial intelligence market grew at a CAGR of around 24% during 2015-2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report-2021-10-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report-2021-10-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:GOOG&p=5&t=52",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -268,115 +69,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-01T00:58:00-07:00",
+      "publishedDateTime": "2021-12-21T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-gms-cruise-alphabets-waymo-win-permits-to-offer-self-driving-rides-to-passengers-in-california.md",
-      "title": "GM's Cruise, Alphabet's Waymo win permits to offer self-driving rides to passengers in California",
-      "excerpt": "General Motors Co's Cruise and Alphabet Inc's Waymo self-driving car subsidiaries on Thursday became the first companies to receive autonomous vehicle permits to offer rides to passengers in California.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/gms-cruise-gets-permit-give-driverless-rides-passengers-san-francisco-2021-09-30/",
-      "originalUrl": "https://www.reuters.com/technology/gms-cruise-gets-permit-give-driverless-rides-passengers-san-francisco-2021-09-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/onS7SUrJwaZORG20XaAFkrVAaLY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5DC26PQB6JLU3LAHXWIEHJOJ3U.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-teslas-full-self-driving-mode-is-actually-not-fully-self-driving.md",
-      "title": "Tesla’s full self-driving mode is actually not fully self-driving",
-      "excerpt": "The capability is marketed as a way to take your hands off the wheel, but some experts, including Alistair Weaver of Edmunds, say the technology isn't ready.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving/",
-      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketplace.org/wp-content/uploads/2021/09/GettyImages-490598518.jpg?fit=740%2C416",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving?amp",
-      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving?amp",
-      "publishedDateTime": "2021-09-30T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
+        "name": "ADVFN",
+        "domain": "advfn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -391,531 +88,12 @@
       ]
     },
     {
-      "path": "_news/2021-09-30-stock-news-analysis.md",
-      "title": "Stock News & Analysis",
-      "excerpt": "As the struggle for dominance in the nascent field of artificial intelligence escalates, these tech bigwigs are all betting on a small startup that believes AI-as-a-Service will be the next ...",
+      "path": "_news/2021-12-20-novel-fau-technology-for-self-driving-cars-earns-second-us-patent.md",
+      "title": "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT",
+      "excerpt": "BOCA RATON, Fla., Dec. 20, 2021 /PRNewswire/ -- A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human driving behavior ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing-news/come-and-play-sensory-integration-strategies-for-children-with-play-challenges-p360.aspx?page=7240",
-      "originalUrl": "https://www.fool.com/investing-news/come-and-play-sensory-integration-strategies-for-children-with-play-challenges-p360.aspx?page=7240",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://optimize.foolcdn.com/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets/jester.png&w=400&op=resize",
-          "width": 400,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-samsung-will-create-chips-for-teslas-next-gen-self-driving-computer.md",
-      "title": "Samsung Will Create Chips For Tesla’s Next-Gen Self-Driving Computer",
-      "excerpt": "Tesla is expected to source its next-generation chip from Samsung Electronics. The forthcoming Tesla Cybertruck will debut with Tesla’s new Hardware 4 computer and according to The Korea Economic Daily,",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2021/09/samsung-will-create-chips-for-teslas-next-gen-self-driving-computer/",
-      "originalUrl": "https://www.carscoops.com/2021/09/samsung-will-create-chips-for-teslas-next-gen-self-driving-computer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2021/09/Samsung-Tesla-1024x555.jpg",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2021/09/samsung-will-create-chips-for-teslas-next-gen-self-driving-computer/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/09/samsung-will-create-chips-for-teslas-next-gen-self-driving-computer/amp/",
-      "publishedDateTime": "2021-09-29T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers.md",
-      "title": "Tesla's 'full self-driving' feature could be days away for approved drivers",
-      "excerpt": "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test",
-      "sourceUrl": null,
-      "webUrl": "https://tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.html",
-      "originalUrl": "https://tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/46/e4637dd0-9aeb-5452-b24f-a8a50379cbcd/61539075d1f2e.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.amp.html",
-      "cdnAmpWebUrl": "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.amp.html",
-      "publishedDateTime": "2021-09-28T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arizona Daily Star",
-        "domain": "tucson.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-elon-musk-says-tesla-shouldnt-have-an-nda-for-its-full-self-driving-beta.md",
-      "title": "Elon Musk says Tesla shouldn’t have an NDA for its Full Self-Driving Beta",
-      "excerpt": "Elon Musk says Tesla shouldn’t have a non-disclosure agreement (NDA) for its Full Self-Driving (FSD) Beta testers. Yesterday, we reported on Tesla’s NDA for its Full Self-Driving Beta program. In the document,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/",
-      "originalUrl": "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 298,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-FSD-Beta-v9-driving-visuzalization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/28/elon-musk-says-tesla-shouldnt-have-nda-for-full-self-driving-beta/amp/",
-      "publishedDateTime": "2021-09-28T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-cloud-computing-in-education-sector-market-may-see-a-big-move-major-giants-verizon-cloud-salesforce-aliyun-google-cloud-platform-rackspace.md",
-      "title": "Cloud Computing in Education Sector Market May See a Big Move : Major Giants Verizon Cloud, Salesforce, Aliyun, Google Cloud Platform, Rackspace",
-      "excerpt": "Edison, NJ — (SBWIRE) — 09/28/2021 — Worldwide Cloud Computing In Education Sector Market In-depth Research Report 2021, Forecast to 2026 is latest research study released by HTF MI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/cloud-computing-in-education-sector-market-may-see-a-big-move-major-giants-verizon-cloud-salesforce-aliyun-google-cloud-platform-rackspace",
-      "originalUrl": "https://www.digitaljournal.com/pr/cloud-computing-in-education-sector-market-may-see-a-big-move-major-giants-verizon-cloud-salesforce-aliyun-google-cloud-platform-rackspace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/Tesla-Berlin-AFP-1K-02-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-kodiak-launches-its-4th-generation-self-driving-semi-truck.md",
-      "title": "Kodiak launches its 4th-generation self-driving semi-truck",
-      "excerpt": "That move towards autonomy in the trucking industry is where Kodiak Robotics comes in, with its fourth-generation Kodiak Driver system, which the company announced on Tuesday. The system is somewhat unique from others on the road in its modularity and ease of installation on any modern Class 8 truck,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/kodiak-autonomous-semi-truck-launched/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/kodiak-autonomous-semi-truck-launched/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/fXRtRHYXHsgvDiRTPEUy6OR0_EU=/2021/09/27/de369ec4-cdeb-4aa1-bbf8-c04f0dda9fb2/767a6856-1.jpg",
-          "width": 1200,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/kodiak-autonomous-semi-truck-launched/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/kodiak-autonomous-semi-truck-launched/",
-      "publishedDateTime": "2021-09-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-artificial-intelligence-the-challenge-for-air-and-space-power.md",
-      "title": "Artificial Intelligence – The Challenge for Air and Space Power",
-      "excerpt": "In this series of blogs, Professor Patrick Baker, takes a deep dive into the world of Artificial Intelligence (AI), the challenges it presents in a defence context, and its potential contributions to air and space power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kcl.ac.uk/artificial-intelligence-the-challenge-for-air-and-space-power",
-      "originalUrl": "https://www.kcl.ac.uk/artificial-intelligence-the-challenge-for-air-and-space-power",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kcl.ac.uk/newimages/sspp/security/generalschool/feature-800-430/hand-and-robot.x7b5aba48.png?f=webp",
-          "width": 780,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "kcl.ac.uk",
-        "domain": "kcl.ac.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-china-vows-further-curbs-on-disorderly-expansion-by-tech-firms.md",
-      "title": "China vows further curbs on ‘disorderly expansion’ by tech firms",
-      "excerpt": "China has ramped up the campaign with a series of monopoly probes into internet companies, a record fine for Alibaba Group Holding Ltd. and new demands on leading digital firms like Tencent Holdings L",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/world/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms-11632731815245.html",
-      "originalUrl": "https://www.livemint.com/news/world/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms-11632731815245.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/09/27/600x338/Hong-Kong-Financial-Markets-3_1632732188484_1632732285081.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/world/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms/amp-11632731815245.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms/amp-11632731815245.html",
-      "publishedDateTime": "2021-09-27T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-china-vows-further-curbs-on-disorderly-expansion-by-tech-firms.md",
-      "title": "China vows further curbs on 'disorderly expansion' by tech firms",
-      "excerpt": "Sheng also listed self-driving vehicles and platform economies ... for instance, while Baidu Inc. has worked on autonomous driving and Alibaba Health Information Technology Ltd and JD Health ...",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms/86554740",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms/86554740",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-86554740,imgsize-21350,width-800,height-434,overlay-etbrandequity/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms/86554740",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms/86554740",
-      "publishedDateTime": "2021-09-27T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brandequity.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars.md",
-      "title": "Driver Killed By His Own Car Door While Waiting In Line At Fast-Food Drive-Thru, Providing Cautionary Insights For AI Self-Driving Cars",
-      "excerpt": "Sad news story about a driver that was killed by his own car door (while in a drive-thru), provides cautionary insights about the advent of AI-based self-driving cars. Here's the insider look.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614272b9f18bec6882652695%2F0x0.jpg%3FcropX1%3D23%26cropX2%3D2455%26cropY1%3D23%26cropY2%3D1538",
-          "width": 1200,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-09-27T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-edge-computings-applications-in-autonomous-driving-and-business-at-large.md",
-      "title": "Edge Computing’s Applications In Autonomous Driving And Business At Large",
-      "excerpt": "Now is the time to start thinking about how you and your organization — whether you’re part of the automotive industry or not — can make use of the future of edge computing and 5G.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-computings-applications-in-autonomous-driving-and-business-at-large/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-computings-applications-in-autonomous-driving-and-business-at-large/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb6bb684bc020007705132%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-computings-applications-in-autonomous-driving-and-business-at-large/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-computings-applications-in-autonomous-driving-and-business-at-large/amp/",
-      "publishedDateTime": "2021-09-27T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-half-of-people-say-they-are-better-drivers-than-computers-will-be.md",
-      "title": "Half of people say they are better drivers than computers will be",
-      "excerpt": "A study by Volkswagen Financial Services UK (VWFS) has revealed that 46% of British motorists think they’d be a better driver than driverless cars powered by Artificial Intelligence. Regionally ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.coventrytelegraph.net/news/uk-world-news/half-people-say-better-drivers-21686050",
-      "originalUrl": "https://www.coventrytelegraph.net/news/uk-world-news/half-people-say-better-drivers-21686050",
+      "webUrl": "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -925,11 +103,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T04:32:00-07:00",
+      "publishedDateTime": "2021-12-20T06:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Coventry Telegraph",
-        "domain": "coventrytelegraph.net",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -944,262 +122,29 @@
       ]
     },
     {
-      "path": "_news/2021-09-26-good-tesla-drivers-might-be-next-to-get-full-self-driving-software.md",
-      "title": "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software",
-      "excerpt": "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days.",
+      "path": "_news/2021-12-20-tdk-ventures-backs-faction-the-scalable-driverless-transportation-startup.md",
+      "title": "TDK Ventures backs Faction, the scalable driverless transportation startup",
+      "excerpt": "San Francisco-based driverless vehicle developer Faction reimagines urban transportation and micro-logistics with the development of their",
       "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/",
-      "originalUrl": "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/",
-      "publishedDateTime": "2021-09-25T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-good-tesla-drivers-might-be-next-to-get-full-self-driving-software.md",
-      "title": "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software",
-      "excerpt": "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/",
-      "originalUrl": "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/",
-      "publishedDateTime": "2021-09-25T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-for-self-driving-cars-the-hot-new-technology-is-radar.md",
-      "title": "For Self-Driving Cars, the Hot New Technology Is… Radar",
-      "excerpt": "Companies are improving and adapting the century-old technology to help vehicles operate more safely with less human involvement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430",
-      "originalUrl": "https://www.wsj.com/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-406622/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430",
-      "publishedDateTime": "2021-09-24T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-tesla-is-bringing-self-driving-no-matter-what-regulators-need-to-adapt.md",
-      "title": "Tesla Is Bringing Self-Driving No Matter What. Regulators Need to Adapt.",
-      "excerpt": "San Francisco authorities have expressed concern over Tesla's autonomous driving feature, dubbed Full Self Driving. More broadly, self-driving systems are advancing much faster than regulation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/tesla-stock-self-driving-regulation-51632504996",
-      "originalUrl": "https://www.barrons.com/articles/tesla-stock-self-driving-regulation-51632504996",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tdk-ventures-backs-faction-the-scalable-driverless-transportation-startup-1031056177",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tdk-ventures-backs-faction-the-scalable-driverless-transportation-startup-1031056177",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-406428/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/tesla-stock-self-driving-regulation-51632504996",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-regulation-51632504996",
-      "publishedDateTime": "2021-09-24T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-gm-invests-300-million-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china.md",
-      "title": "GM Invests $300 Million in Momenta to Deliver Next-Generation Self-Driving Technologies in China",
-      "excerpt": "General Motors will invest $300 million in Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. “Customers in China are embracing electrification and advanced self-driving technology faster than anywhere else in the world,",
-      "sourceUrl": null,
-      "webUrl": "https://electriccarsreport.com/2021/09/gm-invests-300-million-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china/",
-      "originalUrl": "https://electriccarsreport.com/2021/09/gm-invests-300-million-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electriccarsreport.com/wp-content/uploads/2021/09/GM-Momenta.jpg?7a2bad&7a2bad",
-          "width": 640,
-          "height": 321,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T10:31:00-07:00",
+      "publishedDateTime": "2021-12-20T05:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "electriccarsreport.com",
-        "domain": "electriccarsreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-three-key-artificial-intelligence-applications-for-cybersecurity.md",
-      "title": "Three Key Artificial Intelligence Applications For Cybersecurity",
-      "excerpt": "We are at the doorstep of a new era of smart technology and cybersecurity is already a testing ground. The cybersecurity industry is increasingly impacted by the deployment of solutions supported by a",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614e04f5dff3ebea27d194cc%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/amp/",
-      "publishedDateTime": "2021-09-24T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1215,41 +160,31 @@
         "news"
       ],
       "topics": [
-        "AI",
         "AI in Autos",
-        "AI in Healthcare"
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-09-25-baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.md",
-      "title": "Baidu DeepWay Unveils Smart Robot Truck With Advanced Self-driving Technology",
-      "excerpt": "DeepWay Smart Truck backed by Baidu has just been launched and the users are curious to know more about it. Here is all we know about this smart truck. Read",
+      "path": "_news/2021-12-16-artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3.md",
+      "title": "Artificial Intelligence Technology Solutions Announces Delivery Robot Development, Update to S-3",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), a global leader in AI-driven security and productivity solutions for enterprise clients, announced that its subsidiary, Robotic Assistance Devices Mobile Inc.",
       "sourceUrl": null,
-      "webUrl": "https://www.republicworld.com/auto-news/cars/baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.html",
-      "originalUrl": "https://www.republicworld.com/auto-news/cars/baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24643155/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24643155/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/3pop1htofhvj56ox_1632499179.jpeg",
-          "width": 768,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.republicworld.com/amp/auto-news/cars/baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.html",
-      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/auto-news/cars/baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.html",
-      "publishedDateTime": "2021-09-24T10:02:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24643155",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24643155",
+      "publishedDateTime": "2021-12-16T04:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "RepublicWorld",
-        "domain": "republicworld.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1265,140 +200,27 @@
       ]
     },
     {
-      "path": "_news/2021-09-24-those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars.md",
-      "title": "Those Infuriating Drivers That Take Over The Left Lane And Prevent Passing Will Undoubtedly Be Stifling For AI Self-Driving Cars",
-      "excerpt": "Left lane usage varies by state laws and many drivers get confused or purposely exploit loopholes and road rage results. Here's what will happen once we have AI-based self-driving cars.",
+      "path": "_news/2021-12-15-ex-appletesla-leaders-raise-2000000-from-1000-retail-investors-on-track-to-release-worlds-first-artificial-human-arm.md",
+      "title": "Ex-Apple/Tesla Leaders Raise $2,000,000 from 1,000+ Retail Investors, On Track to Release World’s First Artificial Human Arm",
+      "excerpt": "SAN FRANCISCO--(BUSINESS WIRE)--Atom Limbs, a robotics company creating mind-controlled bionic limbs, has raised $2M from 1,000+ retail investors. Atom opened its Wefunder equity investment ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/",
+      "webUrl": "https://www.businesswire.com/news/home/20211214005475/en/Ex-AppleTesla-Leaders-Raise-2000000-from-1000-Retail-Investors-On-Track-to-Release-World’s-First-Artificial-Human-Arm",
+      "originalUrl": "https://www.businesswire.com/news/home/20211214005475/en/Ex-AppleTesla-Leaders-Raise-2000000-from-1000-Retail-Investors-On-Track-to-Release-World’s-First-Artificial-Human-Arm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610ae7fa91d476847d9bda78%2F0x0.jpg%3FcropX1%3D141%26cropX2%3D4241%26cropY1%3D452%26cropY2%3D2781",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-09-24T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-gm-invests-300m-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china.md",
-      "title": "GM invests $300M in Momenta to deliver next-generation self-driving technologies in China",
-      "excerpt": "General Motors will invest $300 million in China-based Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. Momenta has pioneered a scalable path toward full autonomous driving by combining a data-driven approach with iterating algorithms—referred to as its “flywheel approach”—as well as a",
-      "sourceUrl": null,
-      "webUrl": "https://media.gm.com/media/cn/en/gm/news.detail.html/content/Pages/news/cn/en/2021/Sept/0923-gm.html",
-      "originalUrl": "https://www.greencarcongress.com/2021/09/20210924-momenta.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.gm.com/content/dam/company/img/cn/GMChina_QR_2021.png",
-          "width": 1128,
-          "height": 1132,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T03:47:00-07:00",
+      "publishedDateTime": "2021-12-14T21:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Green Car Congress",
-        "domain": "greencarcongress.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-the-7-biggest-artificial-intelligence-ai-trends-in-2022.md",
-      "title": "The 7 Biggest Artificial Intelligence (AI) Trends In 2022",
-      "excerpt": "In 2022, we will see artificial intelligence continue along the path to becoming the most transformative technology humanity has ever developed. According to Google CEO Sundar Pichai, its impact will be even greater than that of fire or electricity on our development as a species.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614d55107441e2d9ba4238f6%2F0x0.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/amp/",
-      "publishedDateTime": "2021-09-23T21:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1411,7 +233,41 @@
         "AI",
         "AI in Autos"
       ]
+    },
+    {
+      "path": "_news/2021-12-14-tap-into-the-artificial-intelligence-space-with-these-4-funds.md",
+      "title": "Tap Into the Artificial Intelligence Space With These 4 Funds",
+      "excerpt": "Maybe, but this is where machine learning and artificial intelligence (AI ... a photographic memory that can be used in robotics, self-driving cars, virtual assistants and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/tap-into-the-artificial-intelligence-space-with-these-4-funds",
+      "originalUrl": "https://www.nasdaq.com/articles/tap-into-the-artificial-intelligence-space-with-these-4-funds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/tap-into-the-artificial-intelligence-space-with-these-4-funds?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tap-into-the-artificial-intelligence-space-with-these-4-funds?amp",
+      "publishedDateTime": "2021-12-14T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
     }
   ],
-  "nextPage": 11
+  "nextPage": null
 }

@@ -2,21 +2,21 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-10-27-how-ipropertycommy-accelerates-property-based-ml-model-delivery-with-amazon-sagemaker.md",
-      "title": "How iProperty.com.my accelerates property-based ML model delivery with Amazon SageMaker",
-      "excerpt": "This post was created in collaboration with Mohammed Alauddin, Data Engineering and Data Science Regional Manager, and Kamal Hossain, Lead Data Scientist at iProperty.com.my, now part of PropertyGuru Group. iProperty.com.my is the market-leading property portal in Malaysia and is now part of the PropertyGuru",
+      "path": "_news/2021-12-28-amazon-aws-outages-highlight-promise-and-peril-of-public-clouds-for-5g.md",
+      "title": "Amazon AWS Outages Highlight Promise And Peril Of Public Clouds For 5G",
+      "excerpt": "Users endure frequent and long outages for cloud-based services like ecommerce or gaming but expect greater uptime for mobile connectivity.",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-iproperty-com-my-accelerates-property-based-ml-model-delivery-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-iproperty-com-my-accelerates-property-based-ml-model-delivery-with-amazon-sagemaker/",
+      "webUrl": "https://www.forbes.com/sites/roslynlayton/2021/12/27/amazon-aws-outages-highlight-promise-and-peril-of-public-clouds-for-5g/",
+      "originalUrl": "https://www.forbes.com/sites/roslynlayton/2021/12/27/amazon-aws-outages-highlight-promise-and-peril-of-public-clouds-for-5g/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/07/ML-4574-image001.png",
-          "width": 721,
-          "height": 421,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c9bde2e52ca88e8f8fba46%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T15:58:02-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/roslynlayton/2021/12/27/amazon-aws-outages-highlight-promise-and-peril-of-public-clouds-for-5g/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2021/12/27/amazon-aws-outages-highlight-promise-and-peril-of-public-clouds-for-5g/amp/",
+      "publishedDateTime": "2021-12-27T12:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,27 +49,79 @@
         "news"
       ],
       "topics": [
-        "AI",
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-explore-amazon-sagemaker-serverless-inference-for-deploying-ml-models.md",
+      "title": "Explore Amazon SageMaker Serverless Inference for Deploying ML Models",
+      "excerpt": "Invent 2021 user conference earlier this month, Amazon Web Services‘ Amazon SageMaker Serverless Inference is a new inference option to deploy machine learning models without configuring and managing the compute infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/explore-amazon-sagemaker-serverless-inference-deploying-janakiram-msv",
+      "originalUrl": "https://www.linkedin.com/pulse/explore-amazon-sagemaker-serverless-inference-deploying-janakiram-msv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQF_v9S4FOAWYQ/article-cover_image-shrink_600_2000/0/1640146369662?e=1646870400&v=beta&t=7XPeAvELZF1fxTTBuiJ3JdPVUs4qxJgnjMSIh3-SWd4",
+          "width": 640,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T20:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_news/2021-10-28-mux-partner-program-launches-to-help-companies-bring-modern-video-experiences-to-market-faster.md",
-      "title": "Mux Partner Program Launches to Help Companies Bring Modern Video Experiences to Market Faster",
-      "excerpt": "an Advanced Consulting Partner for Amazon Web Services (AWS), developed a content moderation plugin that integrates Amazon Rekognition directly into Mux. When developers stack tools and services like these on top of Mux, they’re able to create incredible ...",
+      "path": "_news/2021-12-19-artificial-intelligence-in-accounting-market-seeking-excellent-growth-xero-appzen-kpmg-botkeeper.md",
+      "title": "Artificial Intelligence in Accounting Market Seeking Excellent Growth | Xero, AppZen, KPMG, Botkeeper",
+      "excerpt": "Artificial Intelligence in Accounting market size is expected to grow at a compound annual growth rate of xx% for the forecast period of 2021 to 2028. Market IntelliX report on Artificial ...",
       "sourceUrl": null,
-      "webUrl": "https://www.streamingmedia.com/PressRelease/Mux-Partner-Program-Launches-to-Help-Companies-Bring-Modern-Video-Experiences-to-Market-Faster_53114.aspx",
-      "originalUrl": "https://www.streamingmedia.com/PressRelease/Mux-Partner-Program-Launches-to-Help-Companies-Bring-Modern-Video-Experiences-to-Market-Faster_53114.aspx",
+      "webUrl": "https://menafn.com/1103396711/Artificial-Intelligence-in-Accounting-Market-Seeking-Excellent-Growth-Xero-AppZen-KPMG-Botkeeper",
+      "originalUrl": "https://menafn.com/1103396711/Artificial-Intelligence-in-Accounting-Market-Seeking-Excellent-Growth-Xero-AppZen-KPMG-Botkeeper",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/141144-DataDriven21-ORG.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://menafn.com/updates/pr/2021-12/19/i_c9ae6fa8-9_Image_In_Body.jpg",
+          "width": 800,
+          "height": 533,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -79,11 +131,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T13:57:00-07:00",
+      "publishedDateTime": "2021-12-19T00:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Streaming Media Magazine",
-        "domain": "streamingmedia.com",
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -98,74 +150,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-27-optimize-your-budget-and-time-by-submitting-amazon-polly-voice-synthesis-tasks-in-bulk.md",
-      "title": "Optimize your budget and time by submitting Amazon Polly voice synthesis tasks in bulk",
-      "excerpt": "Amazon Polly is a service that turns text into natural-sounding speech, using dozens of voices in more than 30 languages. You can use it for all sorts of applications, ranging from talking animated avatars, to lifelike virtual agents that answer customer support requests, to automated newscasters reading",
+      "path": "_news/2021-12-17-artificial-intelligence-in-platform-as-a-service-paas-market.md",
+      "title": "Artificial Intelligence in Platform as a Service (PaaS) Market",
+      "excerpt": "Latest Study on Industrial Growth of Global Artificial Intelligence in Platform as a Service (PaaS) Market 2021-2027. A detailed study accumulated to offer Latest insights about acute features of ...",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-your-budget-and-time-by-submitting-amazon-polly-voice-synthesis-tasks-in-bulk/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-your-budget-and-time-by-submitting-amazon-polly-voice-synthesis-tasks-in-bulk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/18/6160-Architecture.jpg",
-          "width": 801,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T12:31:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-mux-partner-program-launches-to-help-companies-bring-modern-video-experiences-to-market-faster.md",
-      "title": "Mux Partner Program Launches to Help Companies Bring Modern Video Experiences to Market Faster",
-      "excerpt": "SAN FRANCISCO, Oct. 27, 2021 /PRNewswire/ -- Mux, the leading video platform for developers, today announced the Mux Partner Program to help new and existing customers quickly build and launch ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/mux-partner-program-launches-to-help-companies-bring-modern-video-experiences-to-market-faster-301409656.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/mux-partner-program-launches-to-help-companies-bring-modern-video-experiences-to-market-faster-301409656.html",
+      "webUrl": "https://www.openpr.com/news/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "originalUrl": "https://www.openpr.com/news/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1611559/Mux_Logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
+          "url": "https://cdn.openpr.com/U/c/Uc16495437_g.jpg",
+          "width": 450,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -173,13 +172,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T09:01:00-07:00",
+      "ampWebUrl": "https://www.openpr.com/amp/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "publishedDateTime": "2021-12-16T10:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "openpr.com",
+        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -194,456 +193,19 @@
       ]
     },
     {
-      "path": "_news/2021-10-27-abacusai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases.md",
-      "title": "Abacus.ai snags $50M Series C as it expands into computer vision use cases",
-      "excerpt": "Abacus.ai wants to build an AI platform that simplifies machine learning model creation, while still leaving room for power users. Today the company announced a $50 million Series C. At the same time,",
+      "path": "_news/2021-12-16-artificial-intelligence-in-platform-as-a-service-market-is-going-to-boom-aws-ibm-microsoft.md",
+      "title": "Artificial Intelligence in Platform as a Service Market is Going to Boom | AWS, IBM, Microsoft",
+      "excerpt": "The growth of the Artificial Intelligence in Platform as a Service Market was mainly driven by the increasing R&D spending across the world. Some of the key players profiled in the study are: AWS ...",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/",
-      "originalUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-imsev208-063.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/amp/",
-      "publishedDateTime": "2021-10-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-uk-spy-agencies-supercharge-espionage-efforts-with-aws-data-deal.md",
-      "title": "UK spy agencies supercharge espionage efforts with AWS data deal",
-      "excerpt": "which reports that the deal has been made so the UK spy agencies can harness the data analytics and artificial intelligence (AI) tools the AWS platform provides. AWS will also reportedly equip ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/cloud/cloud-computing/361353/gchq-mi5-sign-aws-cloud-deal",
-      "originalUrl": "https://www.itpro.co.uk/cloud/cloud-computing/361353/gchq-mi5-sign-aws-cloud-deal",
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-platform-as-a-service-market-is-going-to-boom-aws-ibm-microsoft",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-platform-as-a-service-market-is-going-to-boom-aws-ibm-microsoft",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1626261079/itpro/shutterstock_mi5.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/cloud-computing/361353/gchq-mi5-sign-aws-cloud-deal?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/361353/gchq-mi5-sign-aws-cloud-deal?amp",
-      "publishedDateTime": "2021-10-27T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network.md",
-      "title": "Insurtech: AI enhanced Platform Arturo Joins Amazon Web Services Partner Network",
-      "excerpt": "an artificial intelligence-powered platform that derives property insights and predictive analytics from aerial and satellite imagery, announced that it has joined the Amazon Web Services (AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/10/182127-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/10/182127-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence.jpeg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/10/182127-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182127-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network/amp/",
-      "publishedDateTime": "2021-10-26T19:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-aws-announces-general-availability-of-amazon-ec2-dl1-instances.md",
-      "title": "AWS Announces General Availability of Amazon EC2 DL1 Instances",
-      "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://cloud-computing.tmcnet.com/news/2021/10/26/9478106.htm",
-      "originalUrl": "https://cloud-computing.tmcnet.com/news/2021/10/26/9478106.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-khoros-collaborates-with-aws-to-integrate-amazon-connect-into-its-award-winning-digital-contact-center-solution.md",
-      "title": "Khoros Collaborates with AWS to Integrate Amazon Connect Into its Award-Winning Digital Contact Center Solution",
-      "excerpt": "Khoros, an award-winning leader in digital-first customer engagement software and services, today announced an expanded collaboration with Amazon Web Services, Inc. (AWS) which will include an integration with Amazon Connect,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-texas-software-artificial-intelligence-e766123907604d94a90f74e9a590ba50",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-texas-software-artificial-intelligence-e766123907604d94a90f74e9a590ba50",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T16:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-train-models-faster-with-an-automated-data-profiler-for-amazon-fraud-detector.md",
-      "title": "Train models faster with an automated data profiler for Amazon Fraud Detector",
-      "excerpt": "Amazon Fraud Detector is a fully managed service that makes it easy to identify potentially fraudulent online activities, such as the creation of fake accounts or online payment fraud. Amazon Fraud Detector uses machine learning (ML) under the hood and is based on over 20 years of fraud detection expertise",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-models-faster-with-an-automated-data-profiler-for-amazon-fraud-detector/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-models-faster-with-an-automated-data-profiler-for-amazon-fraud-detector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T15:10:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip.md",
-      "title": "Amazon launches AWS instances powered by Habana’s AI accelerator chip",
-      "excerpt": "Amazon has launched new AWS instances powered by Habana's Gaudi, a chip that accelerates the training of AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/",
-      "originalUrl": "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/amp/",
-      "publishedDateTime": "2021-10-26T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store.md",
-      "title": "Extend model lineage to include ML features using Amazon SageMaker Feature Store",
-      "excerpt": "Feature engineering is expensive and time-consuming, which may lead you to adopt a feature store for managing features across teams and models. Unfortunately, machine learning (ML) lineage solutions have yet to adapt to this new concept of feature management. To achieve the full benefits of a feature",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/21/ML-6028-image001.png",
-          "width": 861,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T14:11:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table.md",
-      "title": "AWS wins deal to store UK spy agencies' work, brings AI to the table",
-      "excerpt": "The UK's spy agencies will move top secret data to AWS data centers and gain access to its artificial intelligence tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/",
-      "originalUrl": "https://www.zdnet.com/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/13bc191e6c7643df0b3930684177fc754f3eabc3/2021/10/06/42e4848e-e92e-4e87-9a51-fa1f779b23d9/20211006-danny-zuzana.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/",
-      "publishedDateTime": "2021-10-26T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-ai-open-platform-market-may-set-new-growth-story-with-aws-hpe-microsoft-google.md",
-      "title": "AI Open Platform Market May Set New Growth Story with AWS, HPE, Microsoft, Google",
-      "excerpt": "While emphasizing the key driving and restraining forces for this ... Jingdong, Alibaba, Huawei, Baidu, Tencent & Jinshan AI Open Platform Market Study guarantees you to remain / stay advised ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-open-platform-market-may-set-new-growth-story-with-aws-hpe-microsoft-google",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-open-platform-market-may-set-new-growth-story-with-aws-hpe-microsoft-google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/11/AAA-3-600x337.jpg",
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/BBB-4-2-600x337.png",
           "width": 600,
           "height": 337,
           "title": null,
@@ -655,7 +217,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T08:35:00-07:00",
+      "publishedDateTime": "2021-12-16T03:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Journal",
@@ -669,746 +231,11 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI",
         "AWS AI",
+        "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-ai-and-big-data-analytics-in-telecom-market-still-has-room-to-grow-emerging-players-aws-baidu-alibaba-facebook.md",
-      "title": "AI and Big Data Analytics in Telecom Market Still Has Room to Grow | Emerging Players AWS, Baidu, Alibaba, Facebook",
-      "excerpt": "Latest Study on Industrial Growth of Global AI and Big Data Analytics in Telecom Market 2021-2027. A detailed study accumulated to offer Latest insights about acute features of the AI and Big Data Analytics in Telecom market.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/ai-and-big-data-analytics-in-telecom-market-still-has-room-to-grow-emerging-players-aws-baidu-alibaba-facebook/",
-      "originalUrl": "https://manometcurrent.com/ai-and-big-data-analytics-in-telecom-market-still-has-room-to-grow-emerging-players-aws-baidu-alibaba-facebook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/ai-and-big-data-analytics-in-telecom-market-still-has-room-to-grow-emerging-players-aws-baidu-alibaba-facebook/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-and-big-data-analytics-in-telecom-market-still-has-room-to-grow-emerging-players-aws-baidu-alibaba-facebook/?amp=1",
-      "publishedDateTime": "2021-10-25T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-the-expertai-nl-api-now-available-in-aws-marketplace.md",
-      "title": "The expert.ai NL API Now Available in AWS Marketplace",
-      "excerpt": "watch the video introduction How to Become an AI Expert Using the expert.ai NL API and visit the expert.ai NL API in AWS Marketplace. Expert.ai (EXAI:IM) is the premier artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/the-expertai-nl-api-now-available-in-aws-marketplace-301407132.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/the-expertai-nl-api-now-available-in-aws-marketplace-301407132.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1283900/Expert_ai_Logo.jpg?p=facebook",
-          "width": 1500,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-machine-learning-ml-certifications.md",
-      "title": "Machine Learning (ML) Certifications",
-      "excerpt": "Learning artificial intelligence (AI) skills will cover some of machine learning ... program match the requirements sought by a future employer. Amazon’s AWS Certified Machine Learning program is based upon a test and requires candidates to be able ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datamation.com/artificial-intelligence/machine-learning-certifications/",
-      "originalUrl": "https://www.datamation.com/artificial-intelligence/machine-learning-certifications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datamation.com/wp-content/uploads/2021/10/An-employee-works-at-their-remote-desk-with-a-laptop-and-headphones.jpeg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-24T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws.md",
-      "title": "Improve your data science workflow with a multi-branch training MLOps pipeline using AWS",
-      "excerpt": "In this post, you will learn how to create a multi-branch training MLOps continuous integration and continuous delivery (CI/CD) pipeline using AWS CodePipeline and AWS CodeCommit, in addition to Jenkins and GitHub. I discuss the concept of experiment branches, where data scientists can work in parallel",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/19/ML-5217-image001.jpg",
-          "width": 622,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-22T11:56:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart.md",
-      "title": "Create a dashboard with SEC text for financial NLP in Amazon SageMaker JumpStart",
-      "excerpt": "Amazon SageMaker JumpStart helps you quickly and easily get started with machine learning (ML) and provides a set of solutions for the most common use cases that can be trained and deployed readily with just a few clicks. JumpStart also includes a collection of multimodal financial text analysis tools,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-22T08:32:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-aws-makes-its-panorama-appliance-generally-available.md",
-      "title": "AWS makes its Panorama Appliance generally available",
-      "excerpt": "Customers can update their computer vision application in Amazon SageMaker and deploy the model to the AWS Panorama Appliance, thanks to the device's full integration with Amazon SageMaker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available",
-      "originalUrl": "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570814329/itpro/aws_logo.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available?amp",
-      "publishedDateTime": "2021-10-22T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-accelerate-computer-vision-training-using-gpu-preprocessing-with-nvidia-dali-on-amazon-sagemaker.md",
-      "title": "Accelerate computer vision training using GPU preprocessing with NVIDIA DALI on Amazon SageMaker",
-      "excerpt": "AWS customers are increasingly training and fine-tuning large computer vision (CV) models with hundreds of terabytes of data and millions of parameters. For example, advanced driver assistance systems (ADAS) train perception models to detect pedestrians, road signs, vehicles, traffic lights, and other",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-computer-vision-training-using-gpu-preprocessing-with-nvidia-dali-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-computer-vision-training-using-gpu-preprocessing-with-nvidia-dali-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/15/ML-4888-image001-1252x630.png",
-          "width": 1252,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T14:25:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-aws-announces-general-availability-of-the-aws-panorama-appliance.md",
-      "title": "AWS Announces General Availability of the AWS Panorama Appliance",
-      "excerpt": "(NASDAQ: AMZN), announced the general availability of the AWS Panorama Appliance, a new device that customers can install in their facilities to run applications that analyze multiple video streams from existing on-premises cameras.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-canada-amazoncom-inc-web-services-d4e0f9296bff4570b449aaba742fe7ae",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-canada-amazoncom-inc-web-services-d4e0f9296bff4570b449aaba742fe7ae",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-second-spectrum-selects-aws-as-its-preferred-cloud-machine-learning-artificial-intelligence-and-media-services-provider.md",
-      "title": "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider",
-      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
-      "sourceUrl": null,
-      "webUrl": "https://br.advfn.com/noticias/BW/2020/artigo/81760926",
-      "originalUrl": "https://br.advfn.com/noticias/BW/2020/artigo/81760926",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:AMZN&p=5&t=52",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ADVFN",
-        "domain": "advfn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs.md",
-      "title": "AI chatbot justifies sacrificing colonists to create a biological weapon...if it creates jobs",
-      "excerpt": "If doing so will create wealth, absolutely, at least according to one AI Ethics chatbot. The AI Ethicist, the Allen Institute for AI's Delphi, is a simple webform where you pose an ethical question and ask Delphi to ponder it. After some electronic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs",
-      "originalUrl": "https://www.techradar.com/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/p2dPCXWPqTd2nkWmhEQRVa-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs",
-      "publishedDateTime": "2021-10-19T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-amazon-sagemaker-rated-as-top-ai-service-cloud-in-analyst-firm-kuppingercoles-evaluation-of-ai-service-clouds.md",
-      "title": "Amazon SageMaker rated as top AI Service Cloud in analyst firm KuppingerCole’s evaluation of AI Service Clouds",
-      "excerpt": "As more European organizations move from experimentation to production for AI projects, the importance of running these projects on a scalable, secure, and cost-efficient platform becomes clear. Building AI solutions from scratch is often beyond the capabilities of many organizations, especially because",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-rated-as-top-ai-service-cloud-in-analyst-firm-kuppingercoles-evaluation-of-ai-service-clouds/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-rated-as-top-ai-service-cloud-in-analyst-firm-kuppingercoles-evaluation-of-ai-service-clouds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T09:38:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-4-top-artificial-intelligence-stocks-to-watch-right-now.md",
-      "title": "4 Top Artificial Intelligence Stocks To Watch Right Now",
-      "excerpt": "Artificial Intelligence Stocks To Consider Adding To Your Watchlist Right Now. Artificial intelligence stocks appear to be gaining traction among tech investors in the stock mar",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-right-now-2021-10-19",
-      "originalUrl": "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-right-now-2021-10-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-right-now-2021-10-19?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-right-now-2021-10-19?amp",
-      "publishedDateTime": "2021-10-19T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-aion-labs-powered-by-biomed-x-launches-first-global-call-for-application-artificial-intelligence-for-antibody-design.md",
-      "title": "AION Labs, Powered by BioMed X, Launches First Global Call for Application: Artificial Intelligence for Antibody Design",
-      "excerpt": "AION Labs, Israel-based alliance of AstraZeneca, Merck, Pfizer, Teva, Israel Biotech Fund and Amazon Web Services (AWS), to start first global crowdsourcing initiative based on the innovation model of",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcax.com/prnewswire/2021/10/19/aion-labs-powered-by-biomed-x-launches-first-global-call-application-artificial-intelligence-antibody-design/",
-      "originalUrl": "https://www.wcax.com/prnewswire/2021/10/19/aion-labs-powered-by-biomed-x-launches-first-global-call-application-artificial-intelligence-antibody-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCAX3",
-        "domain": "wcax.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-virtana-platform-now-available-in-aws-marketplace.md",
-      "title": "Virtana Platform Now Available In AWS Marketplace",
-      "excerpt": "Visit the Virtana Platform AWS Marketplace profile to learn ... and multi-cloud environments. Using artificial intelligence for IT operations (AIOps) technologies, including machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/virtana-platform-now-available-in-aws-marketplace-301402779.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/virtana-platform-now-available-in-aws-marketplace-301402779.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1245497/Virtana__Logo.jpg?p=facebook",
-          "width": 864,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-how-data-analytics-and-machine-learning-are-driving-value-in-aws.md",
-      "title": "How data analytics and machine learning are driving value in AWS",
-      "excerpt": "As organizations process petabytes of data on architectures designed to handle gigabytes, it’s becoming apparent that a shift in data architecture is needed to handle this volume. Companies with the 5 essential characteristics of data-driven organizations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bitpipe.com/detail/RES/1632786997_410.html",
-      "originalUrl": "https://www.bitpipe.com/detail/RES/1632786997_410.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/bitpipe/covers/1632786997_410_lg.jpg",
-          "width": 315,
-          "height": 237,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bitpipe",
-        "domain": "bitpipe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-scan-amazon-s3-buckets-for-content-moderation-using-s3-batch-and-amazon-rekognition.md",
-      "title": "Scan Amazon S3 buckets for content moderation using S3 Batch and Amazon Rekognition",
-      "excerpt": "Dealing with content in large scale is often challenging, costly, and a heavy lift operation. The volume of user-generated and third-party content has been increasing substantially in industries like social media, ecommerce, online advertising, and media sharing. Customers may want to review this content",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scan-amazon-s3-buckets-for-content-moderation-using-s3-batch-and-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scan-amazon-s3-buckets-for-content-moderation-using-s3-batch-and-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/18/ML-4838-image001.jpg",
-          "width": 1230,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T12:53:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],
-  "nextPage": 7
+  "nextPage": null
 }

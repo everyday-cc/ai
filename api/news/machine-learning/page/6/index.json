@@ -2,21 +2,21 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2022-01-21-become-fluent-in-machine-learning-with-this-6-course-bundle-on-sale.md",
-      "title": "Become fluent in machine learning with this 6-course bundle on sale",
-      "excerpt": "TL;DR: As of Jan. 21, The Ultimate Deep Learning & NLP Certification Bundle (worth $1,200) is on sale for just $29.99, which is over 97% off. If you want to advance your career or learn a new ...",
+      "path": "_news/2022-01-30-drive-smarter-decision-making-with-explainable-machine-learning.md",
+      "title": "Drive smarter decision-making with explainable machine learning",
+      "excerpt": "Executives are missing out on a crucial pathway to smarter and more efficient decision-making with explainable machine learning.",
       "sourceUrl": null,
-      "webUrl": "https://mashable.com/deals/jan-21-deep-learning-nlp-certification-bundle",
-      "originalUrl": "https://mashable.com/deals/jan-21-deep-learning-nlp-certification-bundle",
+      "webUrl": "https://venturebeat.com/2022/01/29/drive-smarter-decision-making-with-explainable-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2022/01/29/drive-smarter-decision-making-with-explainable-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://helios-i.mashable.com/imagery/articles/00pXXjD8Vp0RWGxC9bdP2KZ/hero-image.fill.size_1200x675.v1642640117.jpg",
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-693551128.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 675,
+          "height": 625,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mashable.com/deals/jan-21-deep-learning-nlp-certification-bundle?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/deals/jan-21-deep-learning-nlp-certification-bundle?amp",
-      "publishedDateTime": "2022-01-21T02:26:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2022/01/29/drive-smarter-decision-making-with-explainable-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/29/drive-smarter-decision-making-with-explainable-machine-learning/amp/",
+      "publishedDateTime": "2022-01-29T17:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -45,12 +54,65 @@
       ]
     },
     {
-      "path": "_news/2022-01-21-harnessing-noise-in-optical-computing-for-ai.md",
-      "title": "Harnessing noise in optical computing for AI",
-      "excerpt": "\"This optical system represents a computer hardware architecture that can enhance the creativity of artificial neural networks used in AI and machine learning, but more importantly, it ...",
+      "path": "_news/2022-01-30-china-targets-deepfakes-in-proposed-regulation-governing-deep-learning-ai-technologies.md",
+      "title": "China targets deepfakes in proposed regulation governing deep learning AI technologies",
+      "excerpt": "Providers of services that manipulate images and videos will be required to verify user identities and respect social morality.",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/01/220121145409.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/01/220121145409.htm",
+      "webUrl": "https://www.scmp.com/tech/policy/article/3165244/china-targets-deepfakes-proposed-regulation-governing-deep-learning-ai",
+      "originalUrl": "https://www.scmp.com/tech/policy/article/3165244/china-targets-deepfakes-proposed-regulation-governing-deep-learning-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/29/5031b18e-bcda-466a-afac-2d1e33ee512e_6a76c979.jpg?itok=uarvlE33&v=1643449822",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3165244/china-targets-deepfakes-proposed-regulation-governing-deep-learning-ai",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3165244/china-targets-deepfakes-proposed-regulation-governing-deep-learning-ai",
+      "publishedDateTime": "2022-01-29T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-data-vault-holdings-expands-expertise-in-artificial-intelligence-machine-learning-and-big-data-appoints-tony-evans-of-c3-ai-to-advisory-board.md",
+      "title": "Data Vault Holdings Expands Expertise In Artificial Intelligence, Machine Learning, and Big Data; Appoints Tony Evans of C3 AI To Advisory Board",
+      "excerpt": "General Manager of Financial Services for C3 AI (NYSE: AI), to its advisory board, fortifying Data Vault Holding's expertise in artificial intelligence, machine learning, fintech, e-commerce and ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/data-vault-holdings-expands-expertise-in-artificial-intelligence-machine-learning-and-big-data-appoints-tony-evans-of-c3-ai-to-advisory-board-1031112161",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/data-vault-holdings-expands-expertise-in-artificial-intelligence-machine-learning-and-big-data-appoints-tony-evans-of-c3-ai-to-advisory-board-1031112161",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -60,7 +122,51 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-20T16:00:00-08:00",
+      "publishedDateTime": "2022-01-28T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-2d-materials-could-be-used-to-simulate-brain-synapses-in-computers.md",
+      "title": "2D Materials could be used to simulate brain synapses in computers",
+      "excerpt": "a component that acts as a sort of synaptic cell in an artificial neural network, says KTH Associate Professor Max Hamedi. \"Instead of transistors that are either on or off, and the need for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/01/220128100738.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/01/220128100738.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Science Daily",
@@ -88,21 +194,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-21-metas-data2vec-is-a-step-toward-one-neural-network-to-rule-them-all.md",
-      "title": "Meta's 'data2vec' is a step toward One Neural Network to Rule Them All",
-      "excerpt": "The race is on to create one neural network that can process multiple kinds of data -- a more-general artificial intelligence that doesn't discriminate about types of data but instead can crunch them all within the same basic structure.",
+      "path": "_news/2022-01-28-2-monster-machine-learning-stocks-to-buy-for-the-long-term.md",
+      "title": "2 Monster Machine Learning Stocks to Buy for the Long Term",
+      "excerpt": "Machine learning is a subset of AI that uses data to improve processes, and also make predictions. It's already being applied to dozens of industries globally, streamlining everything from racing to internet search results.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/metas-data2vec-is-the-next-step-toward-one-neural-network-to-rule-them-all/",
-      "originalUrl": "https://www.zdnet.com/article/metas-data2vec-is-the-next-step-toward-one-neural-network-to-rule-them-all/",
+      "webUrl": "https://www.fool.com/investing/2022/01/27/2-monster-machine-learning-stocks-to-buy-long-term/",
+      "originalUrl": "https://www.fool.com/investing/2022/01/27/2-monster-machine-learning-stocks-to-buy-long-term/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/img/resize/cc0198274730c40eb390433e6769edb02bf0534e/2022/01/19/2aeebf93-5f35-402b-8747-92011fd79fa7/meta-2022-data2vec-scores-on-vit-test.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1220,
+          "url": "https://g.foolcdn.com/editorial/images/662546/a-person-working-on-a-digital-dashboard-analyzing-data.jpg",
+          "width": 5760,
+          "height": 3240,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -110,9 +216,289 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/metas-data2vec-is-the-next-step-toward-one-neural-network-to-rule-them-all/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-data2vec-is-the-next-step-toward-one-neural-network-to-rule-them-all/",
-      "publishedDateTime": "2022-01-20T09:04:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-sas-tops-aites-fraud-and-aml-machine-learning-platforms-matrix.md",
+      "title": "SAS tops Aite's fraud and AML machine learning platforms matrix",
+      "excerpt": "SAS has earned the foremost best-in-class title in Aite-Novarica Group's Aite Matrix: Leading Fraud & AML Machine Learning Platforms. The AI and analytics leader achieved top billing among 11 competing anti-fraud and financial crime technology vendors,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-tops-aite-s-fraud-and-aml-machine-learning-platforms-matrix-1031136115",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-tops-aite-s-fraud-and-aml-machine-learning-platforms-matrix-1031136115",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1735421/SAS_Top_Billing_on_Aite_Anti_Fraud_assessment.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T07:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-2-monster-machine-learning-stocks-to-buy-for-the-long-term.md",
+      "title": "2 Monster Machine Learning Stocks to Buy for the Long Term",
+      "excerpt": "Machine learning is a subset of AI that uses data to improve processes, and also make predictions. It's already being applied to dozens of industries globally, streamlining everything from racing to internet search results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2-monster-machine-learning-stocks-to-buy-for-the-long-term",
+      "originalUrl": "https://www.nasdaq.com/articles/2-monster-machine-learning-stocks-to-buy-for-the-long-term",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/2-monster-machine-learning-stocks-to-buy-for-the-long-term?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-monster-machine-learning-stocks-to-buy-for-the-long-term?amp",
+      "publishedDateTime": "2022-01-27T03:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-how-logzio-accelerates-ml-recommendations-and-anomaly-detection-solutions-with-amazon-sagemaker.md",
+      "title": "How Logz.io accelerates ML recommendations and anomaly detection solutions with Amazon SageMaker",
+      "excerpt": "Logz.io is an AWS Partner Network (APN) Advanced Technology Partner with AWS Competencies in DevOps, Security, and Data &amp; Analytics. Logz.io offers a software as a service (SaaS) observability platform based on best-in-class open-source software solutions for log, metric, and tracing analytics. Customers",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-logz-io-accelerates-ml-recommendations-and-anomaly-detection-solutions-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-logz-io-accelerates-ml-recommendations-and-anomaly-detection-solutions-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/20/ML-6266-image001-1119x630.png",
+          "width": 1119,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-26T10:18:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-machine-learning-ml-market-is-expected-to-reach-usd-18389-billion-in-2030.md",
+      "title": "Machine Learning (ML) Market is Expected to Reach USD 183.89 Billion in 2030",
+      "excerpt": "NEW YORK, NY, UNITED STATES, January 26, 2022 /EINPresswire.com / -- Extensive adoption of smartphones, e-commerce, and social media due to rising penetration of the Internet is driving machine learning market revenue growth The global Machine Learning (ML) market size is expected to reach USD 183.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103595051/Machine-Learning-ML-Market-is-Expected-to-Reach-USD-18389-Billion-in-2030",
+      "originalUrl": "https://menafn.com/1103595051/Machine-Learning-ML-Market-is-Expected-to-Reach-USD-18389-Billion-in-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-01/26/EP_dee60image_story.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T23:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-studying-the-big-bang-with-artificial-intelligence.md",
+      "title": "Studying the Big Bang With Artificial Intelligence",
+      "excerpt": "Immediately after the Big Bang, the entire universe was in this state; today it is produced by high-energy atomic nucleus collisions, for example at CERN. Such processes can only be studied using high-performance computers and highly complex computer simulations whose results are difficult to evaluate.",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/big-bang-ai-19963/",
+      "originalUrl": "https://neurosciencenews.com/big-bang-ai-19963/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://neurosciencenews.com/files/2022/01/ai-big-bang-neurosinces.jpg",
+          "width": 770,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://neurosciencenews.com/big-bang-ai-19963/amp/",
+      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/big-bang-ai-19963/amp/",
+      "publishedDateTime": "2022-01-25T13:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-machine-learning-is-going-real-time-heres-why-and-how.md",
+      "title": "Machine learning is going real-time: Here's why and how",
+      "excerpt": "Organizations are turning to machine learning because of the return on investment. The ones doing it in real-time are topping the charts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/machine-learning-is-going-real-time-heres-why-and-how/",
+      "originalUrl": "https://www.zdnet.com/article/machine-learning-is-going-real-time-heres-why-and-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ed3e64f3558611cce41f3d2787dd37f4ba78d2a9/2021/08/05/9ebbe422-f579-448b-a5cb-da4b0062cd68/hour-glass-time.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/machine-learning-is-going-real-time-heres-why-and-how/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-is-going-real-time-heres-why-and-how/",
+      "publishedDateTime": "2022-01-25T11:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -140,21 +526,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-20-mckinsey-donates-machine-learning-pipeline-tool-kedro-to-the-linux-foundation.md",
-      "title": "McKinsey donates machine learning pipeline tool Kedro to the Linux Foundation",
-      "excerpt": "Kedro, a machine learning model tool originally developed by McKinsey's QuantumBlack, has been donated to the Linux Foundation.",
+      "path": "_news/2022-01-25-studying-the-big-bang-with-artificial-intelligence.md",
+      "title": "Studying the big bang with artificial intelligence",
+      "excerpt": "It could hardly be more complicated: tiny particles whir around wildly with extremely high energy, countless interactions occur in the tangled mess of quantum particles, and this results in a state of matter known as \"quark-gluon plasma\".",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/19/mckinsey-donates-machine-learning-pipeline-tool-kedro-to-the-linux-foundation/",
-      "originalUrl": "https://venturebeat.com/2022/01/19/mckinsey-donates-machine-learning-pipeline-tool-kedro-to-the-linux-foundation/",
+      "webUrl": "https://phys.org/news/2022-01-big-artificial-intelligence.html",
+      "originalUrl": "https://phys.org/news/2022-01-big-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-886575164.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 571,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/studying-the-big-bang.jpg",
+          "width": 2880,
+          "height": 1920,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -162,16 +548,59 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/19/mckinsey-donates-machine-learning-pipeline-tool-kedro-to-the-linux-foundation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/mckinsey-donates-machine-learning-pipeline-tool-kedro-to-the-linux-foundation/amp/",
-      "publishedDateTime": "2022-01-20T04:00:00-08:00",
+      "ampWebUrl": "https://phys.org/news/2022-01-big-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-big-artificial-intelligence.amp",
+      "publishedDateTime": "2022-01-25T07:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-find-another-machine-learning-investment-besides-c3ai.md",
+      "title": "Find Another Machine Learning Investment Besides C3.ai",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The trend is definitely not the friend of AI stock holders, and turnaround hopes are fading as the company's",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/414973",
+      "originalUrl": "https://www.entrepreneur.com/article/414973",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875",
+          "width": 675,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -192,21 +621,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-20-machine-learning-a-big-data-can-empower-marketers.md",
-      "title": "Machine Learning a Big Data Can Empower Marketers?",
-      "excerpt": "Gone are the days when automation, machine learning and software based marketing techniques were not a thing. Presently we have left behind those days of outdoor channels on TV, Radio, Print and some channels.",
+      "path": "_news/2022-01-25-how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences.md",
+      "title": "How Artificial Intelligence and Machine Learning are Transforming the Life Sciences",
+      "excerpt": "AI and ML are set to have a measurable impact on drug development, clinical trials, supply chain, and commercial and regulatory processes.",
       "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/machine-learning-big-data-can-empower-marketers-yash-verma",
-      "originalUrl": "https://www.linkedin.com/pulse/machine-learning-big-data-can-empower-marketers-yash-verma",
+      "webUrl": "https://www.contractpharma.com/contents/view_experts-opinion/2022-01-25/how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences/",
+      "originalUrl": "https://www.contractpharma.com/contents/view_experts-opinion/2022-01-25/how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 80,
       "tags": null,
       "images": [
         {
-          "url": "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png",
-          "width": 1400,
-          "height": 800,
+          "url": "https://dev.rodpub.com/images/248/280_main.jpg",
+          "width": 1542,
+          "height": 833,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -216,7 +645,378 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T21:12:00-08:00",
+      "publishedDateTime": "2022-01-25T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Contract Pharma",
+        "domain": "contractpharma.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-machine-learning-and-artificial-intelligence-implementation-in-practice.md",
+      "title": "Machine Learning And Artificial Intelligence: Implementation In Practice",
+      "excerpt": "When it comes to AI, more and more companies are facing a choice: whether to develop a project using a traditional approach (predefined rules) or with the implementation of ML (teaching machines to do something not by instruction or logic but by examples or some kind of feedback).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61eebc8aace40667193daae5/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/amp/",
+      "publishedDateTime": "2022-01-25T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer.md",
+      "title": "Meta says it will soon have the world's fastest AI supercomputer",
+      "excerpt": "Everything you need to know about AI An executive guide to artificial intelligence, from machine learning and general AI to neural networks. Read More Development of the RSC is ongoing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer/",
+      "originalUrl": "https://www.zdnet.com/article/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer/",
+      "publishedDateTime": "2022-01-24T20:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-transforming-modern-medical-devices-with-machine-learning-ai-inference.md",
+      "title": "Transforming Modern Medical Devices with Machine Learning & AI Inference",
+      "excerpt": "Consider these 6 factors when selecting an AI accelerator for your medical device. The promise of artificial intelligence (AI) technology is finally enjoying commercial success in many industries, including automotive,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/X1P1_web.jpeg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T12:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.md",
+      "title": "CFOs eye tech investments to attract, retain talent with AI/ML skills",
+      "excerpt": "A survey by a financial services and human resources software vendor showed CFOs are on the hunt for finance professionals who have skills in AI and ML platforms that can be used to parse data and tell a business value story.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.html",
+      "originalUrl": "https://www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/artificial_intelligence_ai_ml_machine_learning_abstract_gettyimages_by_dny59_959737582_by_kentoh_1042827860-100817845-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.amp.html",
+      "publishedDateTime": "2022-01-24T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-sas-viya-is-living-large-on-azure.md",
+      "title": "SAS Viya is living large on Azure",
+      "excerpt": "A year and a half in, there is a critical mass of Viya embedded inside Azure analytics, and existing SAS customers are starting to buy in. By \"hiding in plain sight,\" could Azure make SAS cool again with a new generation of customers?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sas-viya-is-living-large-on-azure/",
+      "originalUrl": "https://www.zdnet.com/article/sas-viya-is-living-large-on-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/780348d92f2b55f248dc1fa52ca2927783b0099a/2022/01/21/f0f7e2fc-b0dd-470c-a472-effa45c6d310/owl.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 961,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sas-viya-is-living-large-on-azure/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sas-viya-is-living-large-on-azure/",
+      "publishedDateTime": "2022-01-24T05:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-we-are-indias-1st-telco-to-build-big-data-aiml-cloud-advanced-analytics-platform-on-aws-vodafone-idea.md",
+      "title": "We are India's 1st telco to build Big Data AI/ML Cloud Advanced Analytics Platform on AWS: Vodafone Idea",
+      "excerpt": "The Indian telecom industry has been at the heart of the technology driven disruption over the last decade. With over 986 million active wireless subs..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093127",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093127",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-89093127,imgsize-41536,width-1200,height-628,overlay-etcio/we-are-india-s-1st-telco-to-build-big-data-ai-ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093127",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093127",
+      "publishedDateTime": "2022-01-24T02:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-we-are-indias-1st-telco-to-build-big-data-aiml-cloud-advanced-analytics-platform-on-aws-vodafone.md",
+      "title": "We are India's 1st telco to build Big Data AI/ML Cloud Advanced Analytics Platform on AWS: Vodafone",
+      "excerpt": "The Indian telecom industry has been at the heart of the technology driven disruption over the last decade. With over 986 million active wireless subscribers, the industry has an opportunity to also drive transformation for businesses across industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.daijiworld.com/index.php/news/newsDisplay?newsID=918763",
+      "originalUrl": "https://www.daijiworld.com/index.php/news/newsDisplay?newsID=918763",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/cfal_sq_071917.jpg",
+          "width": 280,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T02:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daijiworld",
+        "domain": "daijiworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-the-race-to-ai-value-3-themes-from-new-aiml-and-deep-learning-research-report.md",
+      "title": "The Race to AI Value: 3 Themes From New AI/ML and Deep Learning Research Report",
+      "excerpt": "New study finds organisations not prioritising AI/ML and Deep Learning are losing competitiveness The artificial intelligence (AI) market is expected to reach $554.3 billion in revenue by 2024 as AI technologies gain adoption across industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/race-ai-value-3-themes-from-new-aiml-deep-learning-sean-stacey-",
+      "originalUrl": "https://www.linkedin.com/pulse/race-ai-value-3-themes-from-new-aiml-deep-learning-sean-stacey-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGKQTi8QB2JtA/article-cover_image-shrink_600_2000/0/1643013654820?e=1648684800&v=beta&t=gS3hGValJL4REoros_azRgfd7IX3eZAiBK6-dQLNYZM",
+          "width": 1349,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T00:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "LinkedIn",
@@ -239,27 +1039,69 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-01-20-deep-learning-courses-for-nlp-market-indutry-analysis-and-prospect-market-players-coursera-ibm-upx-academy-2022-2027.md",
-      "title": "Deep Learning Courses for NLP Market, Indutry Analysis and Prospect, Market Players : Coursera, IBM, UpX Academy – 2022 – 2027",
-      "excerpt": "Jan 20, 2022 (Heraldkeepers) -- The \"Deep Learning Courses for NLP\" Market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market ...",
+      "path": "_news/2022-01-24-how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good.md",
+      "title": "How AI, machine learning are being increasingly used to drive social good",
+      "excerpt": "While technologies like artificial intelligence (AI) and machine learning (ML) have become part of many aspects of our daily lives in recent times, they are increasingly being used for the social good as well.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-indutry-analysis-and-prospect-market-players-coursera-ibm-upx-academy-2022-2027-2022-01-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-indutry-analysis-and-prospect-market-players-coursera-ibm-upx-academy-2022-2027-2022-01-20",
+      "webUrl": "https://www.business-standard.com/article/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-01/23/full/1642956258-155.jpg?im=Resize,width=1200",
+          "width": 1200,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
+      "publishedDateTime": "2022-01-23T16:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-the-role-of-experimentation-in-fundamental-machine-learning-research.md",
+      "title": "The Role of Experimentation in Fundamental Machine Learning Research",
+      "excerpt": "I recently watched an excellent talk from Dr. Tom Goldstein given to the National Science Foundation in which he discussed the current limitations of machine learning (ML) research and a path forward to correct those issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/role-experimentation-fundamental-machine-learning-research-hayduk",
+      "originalUrl": "https://www.linkedin.com/pulse/role-experimentation-fundamental-machine-learning-research-hayduk",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGcEsZZqZ_5uw/article-cover_image-shrink_720_1280/0/1642882009429?e=1649289600&v=beta&t=KhZCE_ZymXpdGA-g3PznWqxQcBELkQqzS7fIuHQN5-0",
+          "width": 1240,
+          "height": 697,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -269,14 +1111,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T15:59:00-08:00",
+      "publishedDateTime": "2022-01-23T12:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -293,32 +1135,93 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "Natural Language Processing"
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-01-20-how-well-do-explanation-methods-for-machine-learning-models-work.md",
-      "title": "How well do explanation methods for machine-learning models work?",
-      "excerpt": "Imagine a team of physicians using a neural network to detect cancer in mammogram ... science graduate student in the Computer Science and Artificial Intelligence Laboratory (CSAIL).",
+      "path": "_news/2022-01-24-overcoming-ai-and-ml-roadblocks-in-financial-services.md",
+      "title": "Overcoming AI and ML Roadblocks in Financial Services",
+      "excerpt": "CSO offers the latest information and best practices on business continuity and data protection, best practices for prevention of social engineering scams, malware and breaches, and tips and advice abut security careers and leadership.",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/940665",
-      "originalUrl": "https://www.eurekalert.org/news-releases/940665",
+      "webUrl": "https://www.csoonline.com/resources/230070/overcoming-ai-and-ml-roadblocks-in-financial-services",
+      "originalUrl": "https://www.csoonline.com/resources/230070/overcoming-ai-and-ml-roadblocks-in-financial-services",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/cso/CSO_logo_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T12:07:00-08:00",
+      "publishedDateTime": "2022-01-23T08:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "CSOonline",
+        "domain": "csoonline.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-22-tinyml-is-bringing-deep-learning-models-to-microcontrollers.md",
+      "title": "TinyML is bringing deep learning models to microcontrollers",
+      "excerpt": "This article is part of our reviews of AI research papers, a series of posts that explore the latest findings in artificial intelligence. Deep learning models owe their initial success to large server",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/tinyml-deep-learning-microcontrollers-syndication",
+      "originalUrl": "https://thenextweb.com/news/tinyml-deep-learning-microcontrollers-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FTinyML.jpg&signature=997d2edaf97d5f261cf3e6961cc0200a",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-22T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -332,21 +1235,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-20-5-ways-ai-and-ml-will-improve-cybersecurity-in-2022.md",
-      "title": "5 ways AI and ML will improve cybersecurity in 2022",
-      "excerpt": "Improving cybersecurity from the endpoint to the core of IT infrastructures needs to be every enterprise's goal in 2022.",
+      "path": "_news/2022-01-21-microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model.md",
+      "title": "Microsoft will force update your PCs to Windows 10 21H2 to train its own ML Update model",
+      "excerpt": "Microsoft has begun the forced rollout of Windows 10 21H2 update to Windows 10 20H2 devices in order to help train its Machine Learning-assisted intelligent Windows Update rollout model.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/19/5-ways-ai-and-ml-will-improve-cybersecurity-in-2022/",
-      "originalUrl": "https://venturebeat.com/2022/01/19/5-ways-ai-and-ml-will-improve-cybersecurity-in-2022/",
+      "webUrl": "https://www.neowin.net/news/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
       "featuredContent": null,
       "highlight": null,
       "heat": 132,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1282227250-e1642603484173.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/06/1624557503_windows_10_21h2_pc_story.jpg",
+          "width": 760,
+          "height": 428,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -354,16 +1257,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/19/5-ways-ai-and-ml-will-improve-cybersecurity-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/5-ways-ai-and-ml-will-improve-cybersecurity-in-2022/amp/",
-      "publishedDateTime": "2022-01-19T08:40:00-08:00",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
+      "publishedDateTime": "2022-01-21T07:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Neowin",
+        "domain": "neowin.net",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -385,388 +1288,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-19-multimodal-transistor-successfully-demonstrated-in-artificial-neural-networks.md",
-      "title": "Multimodal Transistor Successfully Demonstrated in Artificial Neural Networks",
-      "excerpt": "Researchers at the University of Surrey have successfully demonstrated proof-of-concept of using their multimodal transistor (MMT) in artificial neural networks, which mimic the human brain.",
+      "path": "_news/2022-01-21-iot-pioneer-ayla-networks-builds-machine-learning-business-targetting-internet-service-providers.md",
+      "title": "IoT Pioneer Ayla Networks Builds Machine Learning Business Targetting Internet Service Providers",
+      "excerpt": "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World",
       "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/informatics/news/multimodal-transistor-successfully-demonstrated-in-artificial-neural-networks-357662",
-      "originalUrl": "https://www.technologynetworks.com/informatics/news/multimodal-transistor-successfully-demonstrated-in-artificial-neural-networks-357662",
+      "webUrl": "https://www.networkworld.com/resources/229994/iot-pioneer-ayla-networks-builds-machine-learning-business-targetting-internet-service-providers",
+      "originalUrl": "https://www.networkworld.com/resources/229994/iot-pioneer-ayla-networks-builds-machine-learning-business-targetting-internet-service-providers",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/357662/multimodal-transistor-successfully-demonstrated-in-artificial-neural-networks-357662-640x360.jpg?cb=20220119",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T04:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-robotaxis-get-new-learning-strategies-to-face-the-edge.md",
-      "title": "Robotaxis get new learning strategies to face \"the edge\"",
-      "excerpt": "But to get there, autonomous vehicle developers face a daunting challenge: equipping their cars to meet an array of scenarios than can't be fully anticipated. AI and deep learning tools have been the secret sauce for self-driving car programs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/robotaxis-get-new-learning-methodologies-to-face-the-edge/",
-      "originalUrl": "https://www.zdnet.com/article/robotaxis-get-new-learning-methodologies-to-face-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/417fe62f5099599c110f118cedf3c8afe2e87549/2022/01/19/289c4083-f7f8-4c7c-b554-1dc3c8c5279f/motional.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robotaxis-get-new-learning-methodologies-to-face-the-edge/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robotaxis-get-new-learning-methodologies-to-face-the-edge/",
-      "publishedDateTime": "2022-01-19T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-data-vault-holdings-expands-expertise-in-artificial-intelligence-machine-learning-and-big-data-appoints-tony-evans-of-c3-ai-to-advisory-board.md",
-      "title": "Data Vault Holdings Expands Expertise In Artificial Intelligence, Machine Learning, and Big Data; Appoints Tony Evans of C3 AI To Advisory Board",
-      "excerpt": "Data Vault Holdings Inc., the emerging leader in metaverse data visualization, valuation, and monetization announced today the appointment of Tony Evans, General Manager",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/data-vault-holdings-expands-expertise-in-artificial-intelligence-machine-learning-and-big-data-appoints-tony/article_e62e0c7c-8d5b-54cb-b7d3-d15edeb513ae.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/data-vault-holdings-expands-expertise-in-artificial-intelligence-machine-learning-and-big-data-appoints-tony/article_e62e0c7c-8d5b-54cb-b7d3-d15edeb513ae.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/52/f527d5c1-2445-52d1-acf9-b79850564148/6177e1252e341.image.jpg?crop=890%2C467%2C305%2C0&resize=890%2C467&order=crop%2Cresize",
-          "width": 890,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-bank-of-americas-latest-ai-and-machine-learning-product-cashpro-forecasting.md",
-      "title": "Bank of America’s latest AI and machine learning product, CashPro Forecasting",
-      "excerpt": "The debut of CashPro Forecasting, an artificial intelligence (AI) and machine learning (ML) cash flow forecasting tool, by Bank of America was announced on Friday. It creates accurate financial projections using machine learning models based on a company’s cash flow history.",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/bank-of-americas-latest-ai-and-machine-learning-product-cashpro-forecasting/",
-      "originalUrl": "https://bestgamingpro.com/bank-of-americas-latest-ai-and-machine-learning-product-cashpro-forecasting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bestgamingpro.com/wp-content/uploads/2022/01/CashPro-Forecasting-Bank-of-Americas-new-AI-and-machine-learning-tool.png",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T01:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bestgamingpro",
-        "domain": "bestgamingpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
-      "title": "Celebal Technologies has earned the Al and Machine Learning on Microsoft Azure Advanced Specialization",
-      "excerpt": "Celebal Technologies, today announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner’s deep knowledge, extensive experience an",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
-      "originalUrl": "https://indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
-      "publishedDateTime": "2022-01-18T17:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-report-how-ai-and-ml-optimize-the-diagnosis-process-in-health-care.md",
-      "title": "Report: How AI and ML optimize the diagnosis process in health care",
-      "excerpt": "Medical diagnostics using AI and ML are expanding, and automation is helping to detect life-threatening conditions in their earliest stages.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/18/report-how-ai-and-ml-optimize-diagnosis-process-in-health-care/",
-      "originalUrl": "https://venturebeat.com/2022/01/18/report-how-ai-and-ml-optimize-diagnosis-process-in-health-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1642523643912.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/18/report-how-ai-and-ml-optimize-diagnosis-process-in-health-care/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/report-how-ai-and-ml-optimize-diagnosis-process-in-health-care/amp/",
-      "publishedDateTime": "2022-01-18T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-cashpro-forecasting-bank-of-americas-new-ai-and-machine-learning-tool.md",
-      "title": "CashPro Forecasting: Bank of America's new AI and machine learning tool",
-      "excerpt": "Looking for a way to make informed financial decisions for your business? Bank of America might be able to help.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/bank-of-america-announces-ai-and-machine-learning-cashpro-forecasting-tool/",
-      "originalUrl": "https://www.zdnet.com/article/bank-of-america-announces-ai-and-machine-learning-cashpro-forecasting-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/bank-of-america-announces-ai-and-machine-learning-cashpro-forecasting-tool/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bank-of-america-announces-ai-and-machine-learning-cashpro-forecasting-tool/",
-      "publishedDateTime": "2022-01-18T13:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-artificial-intelligence-and-machine-learning-preventing-financial-fraud.md",
-      "title": "Artificial Intelligence and Machine Learning: preventing financial fraud",
-      "excerpt": "By Professor Jon Crowcroft, iKVA Data from UK Finance shows that a total of £753.9 million was lost through fraudulent activity in the first half of 2021 alone, an increase of 30% compared to the same period in 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-and-machine-learning-preventing-financial-fraud/",
-      "originalUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-and-machine-learning-preventing-financial-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/01/iStock-844535726.jpg",
-          "width": 750,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-and-machine-learning-preventing-financial-fraud/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligence-and-machine-learning-preventing-financial-fraud/",
-      "publishedDateTime": "2022-01-18T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-machine-learning-ai-can-predict-covid-19-survival-from-single-blood-test.md",
-      "title": "Machine Learning AI Can Predict COVID-19 Survival From Single Blood Test",
-      "excerpt": "Levels of 14 proteins in the blood of critically ill COVID-19 patients are associated with survival. A single blood sample from a critically ill COVID-19 patient can be analyzed by a machine learning model which uses blood plasma proteins to predict survival,",
-      "sourceUrl": null,
-      "webUrl": "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000007",
-      "originalUrl": "https://scitechdaily.com/machine-learning-ai-can-predict-covid-19-survival-from-single-blood-test/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://journals.plos.org/resource/img/logo-plos.png",
+          "url": "https://idge.staticworld.net/nww/nww_logo_300x300.png",
           "width": 300,
-          "height": 236,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -776,11 +1312,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T11:00:00-08:00",
+      "publishedDateTime": "2022-01-21T07:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
+        "name": "Network World",
+        "domain": "networkworld.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -790,26 +1326,27 @@
         "news"
       ],
       "topics": [
+        "AI in Finance",
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_news/2022-01-18-aiml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes.md",
-      "title": "AI/ML in 2022: More Real-World Deployments, Focus On AI Ethics and Blockchain Hopes",
-      "excerpt": "Prominent industry experts share their predictions for the year aheadVILNIUS, LITHUANIA / ACCESSWIRE / January 18, 2022 / Artificial intelligence (AI) and",
+      "path": "_news/2022-01-21-what-learning-can-learn-from-machine-learning.md",
+      "title": "What Learning Can Learn From Machine Learning",
+      "excerpt": "Taking a few bits and bytes from machine learning could go a long way to improving K-12 and postsecondary learning.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-ml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-ml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes",
+      "webUrl": "https://www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-learn-from-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-learn-from-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/AAA-8-1-600x337.png",
-          "width": 600,
-          "height": 337,
+          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604060ec040608a6a8d30b0e%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080",
+          "width": 400,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -817,87 +1354,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T06:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-pacbio-pacb-to-leverage-googles-deep-learning-technologies.md",
-      "title": "PacBio (PACB) to Leverage Google's Deep Learning Technologies",
-      "excerpt": "The collaboration builds on prior PacBio and Google research. A recent bioRxiv publication titled: “Deep Consensus: Gap-Aware Sequence Transformers for Sequence Correction,” demonstrated improvements in variant calling and suggested that Google’s DeepConsensus machine learning tool can expand the yield of 99.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/pacbio-pacb-to-leverage-googles-deep-learning-technologies",
-      "originalUrl": "https://www.nasdaq.com/articles/pacbio-pacb-to-leverage-googles-deep-learning-technologies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/pacbio-pacb-to-leverage-googles-deep-learning-technologies?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/pacbio-pacb-to-leverage-googles-deep-learning-technologies?amp",
-      "publishedDateTime": "2022-01-18T05:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-how-machine-learning-is-shaping-the-future-of-advertising.md",
-      "title": "How Machine Learning Is Shaping The Future Of Advertising",
-      "excerpt": "Brands can now optimize their campaign language and deliver the right message, at the right time, to the right people, in their unique brand voice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/18/how-machine-learning-is-shaping-the-future-of-advertising/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/18/how-machine-learning-is-shaping-the-future-of-advertising/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6168a643eda3c2e0494d8640%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/18/how-machine-learning-is-shaping-the-future-of-advertising/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/18/how-machine-learning-is-shaping-the-future-of-advertising/amp/",
-      "publishedDateTime": "2022-01-18T05:15:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-learn-from-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-learn-from-machine-learning/amp/",
+      "publishedDateTime": "2022-01-21T05:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -925,253 +1384,26 @@
       ]
     },
     {
-      "path": "_news/2022-01-18-deep-learning-market-to-reach-17996-bn-globally-by-2030-at-392-cagr-allied-market-research.md",
-      "title": "Deep Learning Market to Reach $179.96 Bn, Globally, by 2030 at 39.2% CAGR: Allied Market Research",
-      "excerpt": "PORTLAND, Ore., Jan. 18, 2022 /PRNewswire/ -- Allied Market Research published a report, titled, \"Deep Learning Market by Component (Hardware, Software and Service), by Application (Image ...",
+      "path": "_news/2022-01-21-intuit-ceo-on-the-power-of-machine-learning-for-small-businesses.md",
+      "title": "Intuit CEO on the Power of Machine Learning for Small Businesses",
+      "excerpt": "CEO Sasan Goodarzi talks about the many applications and capabilities of machine learning. Sasan Goodarzi: We apply machine learning to everything that I know about you. How many accounts payables do you have?",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/n25082497/deep-learning-market-to-reach-179-96-bn-globally-by-2030-at-39-2-cagr-allied-market-research",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/n25082497/deep-learning-market-to-reach-179-96-bn-globally-by-2030-at-39-2-cagr-allied-market-research",
+      "webUrl": "https://www.nasdaq.com/articles/intuit-ceo-on-the-power-of-machine-learning-for-small-businesses",
+      "originalUrl": "https://www.nasdaq.com/articles/intuit-ceo-on-the-power-of-machine-learning-for-small-businesses",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T05:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-brainchip-launches-neuromorphic-process-for-ai-at-the-edge.md",
-      "title": "BrainChip launches neuromorphic process for AI at the edge",
-      "excerpt": "BrainChip claims to be the first commercial producer of neuromorphic AI chips, which could deliver benefits in ultra-low power.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/18/brainchip-launches-neuromorphic-process-for-ai-at-the-edge/",
-      "originalUrl": "https://venturebeat.com/2022/01/18/brainchip-launches-neuromorphic-process-for-ai-at-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1302698093-e1642459887271.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/18/brainchip-launches-neuromorphic-process-for-ai-at-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/brainchip-launches-neuromorphic-process-for-ai-at-the-edge/amp/",
-      "publishedDateTime": "2022-01-18T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-onesoft-and-entegra-team-up-to-advance-innovation-of-og-pipeline-ili-services-with-machine-learning.md",
-      "title": "OneSoft and ENTEGRA Team Up to Advance Innovation of O&G Pipeline ILI Services with Machine Learning",
-      "excerpt": "EDMONTON, AB and INDIANAPOLIS, IN / ACCESSWIRE / January 18, 2022 / OneSoft Solutions Inc. (TSXV:OSS)(OTCQB:OSSIF) (“OneSoft“) and ENTEGRA LLP (“ENTEGRA ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/onesoft-and-entegra-team-up-to-advance-innovation-of-og-pipeline-ili-services-with-machine-learning",
-      "originalUrl": "https://www.digitaljournal.com/pr/onesoft-and-entegra-team-up-to-advance-innovation-of-og-pipeline-ili-services-with-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-5-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-deep-learning-works-like-the-human-brain-in-future.md",
-      "title": "Deep Learning Works Like The Human Brain In Future",
-      "excerpt": "Deep learning is a subfield or part of machine learning. Algorithms that replicate or inspire the human brain, consisting of algorithms designed to mimic the structure and operation of the human ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103554579/Deep-Learning-Works-Like-The-Human-Brain-In-Future",
-      "originalUrl": "https://menafn.com/1103554579/Deep-Learning-Works-Like-The-Human-Brain-In-Future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-01/18/pr_10652_2e032352_image_story.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T02:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-ai-from-sensor-data-to-smart-monitoring.md",
-      "title": "AI: from sensor data to smart monitoring",
-      "excerpt": "The solution to navigating the data lies in automation and artificial intelligence (AI ... can process huge amounts of data using Deep Neural Networks (DNNs). These neural networks are key ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/ai-from-sensor-data-to-smart-monitoring/",
-      "originalUrl": "https://www.itproportal.com/features/ai-from-sensor-data-to-smart-monitoring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ADy2QfDipAoaDjWjQ4zRq-1200-80.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/ai-from-sensor-data-to-smart-monitoring/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/ai-from-sensor-data-to-smart-monitoring/",
-      "publishedDateTime": "2022-01-18T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-intelligent-gaming-how-artificial-intelligence-and-machine-learning-raise-the-stakes.md",
-      "title": "Intelligent gaming: How Artificial Intelligence and machine learning raise the stakes",
-      "excerpt": "From using computers to work faster to now teaching computers to work themselves, we’ve achieved quantum leaps when it comes to the possibilities of computer technology. Driving this new generation forward are the developments",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/intelligent-gaming-how-artificial-intelligence-and-machine-learning-raise-the-stakes/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/intelligent-gaming-how-artificial-intelligence-and-machine-learning-raise-the-stakes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
+      "heat": 71,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/intelligent-gaming-how-artificial-intelligence-and-machine-learning-raise-the-stakes/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/intelligent-gaming-how-artificial-intelligence-and-machine-learning-raise-the-stakes/",
-      "publishedDateTime": "2022-01-17T04:53:00-08:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/intuit-ceo-on-the-power-of-machine-learning-for-small-businesses?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intuit-ceo-on-the-power-of-machine-learning-for-small-businesses?amp",
+      "publishedDateTime": "2022-01-21T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1181,193 +1413,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-the-building-blocks-of-artificial-vision.md",
-      "title": "The building blocks of artificial vision",
-      "excerpt": "Another computational approach is thus required. AI needs artificial neural networks that mimic the intuitive way the brain works. This makes identification and decision making much faster compared to having to calculate everything and every point exactly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/the-building-blocks-of-artificial-vision/",
-      "originalUrl": "https://www.embedded.com/the-building-blocks-of-artificial-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2022/01/Neuromorphic-Vision.jpeg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-17T04:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.md",
-      "title": "Free-energy principle can explain how neural networks are optimized for efficiency",
-      "excerpt": "The RIKEN Center for Brain Science (CBS) in Japan, along with colleagues, has shown that the free-energy principle can explain how neural networks are optimized for efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
-      "publishedDateTime": "2022-01-16T20:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-hands-on-machine-learning-with-aws-and-nvidia.md",
-      "title": "Hands-on Machine Learning with AWS and NVIDIA",
-      "excerpt": "In this course, you will gain hands-on experience on building, training, and deploying scalable machine learning models with Amazon SageMaker and Amazon EC2 instances powered by NVIDIA GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/education/skillbuilder/hands-on-machine-learning-with-aws-and-nvidia-0_uuLQhb76EeuDZhJOHjRP6Q",
-      "originalUrl": "https://www.usnews.com/education/skillbuilder/hands-on-machine-learning-with-aws-and-nvidia-0_uuLQhb76EeuDZhJOHjRP6Q",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-16T19:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
+        "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-flipping-the-lens-on-fear-loathing-of-aiml-in-asian-robotics-review.md",
-      "title": "Flipping The Lens On Fear & Loathing of AI/ML - In Asian Robotics Review",
-      "excerpt": "Asian Robotics Review published an article about my annual Highlights and Milestones in AI in Healthcare report. I'm sharing the article here with permission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/flipping-lens-fear-loathing-aiml-asian-robotics-review-colangelo",
-      "originalUrl": "https://www.linkedin.com/pulse/flipping-lens-fear-loathing-aiml-asian-robotics-review-colangelo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEF4M4Cxd7VHA/article-cover_image-shrink_600_2000/0/1642107776452?e=1647475200&v=beta&t=PvX-aOxcIBd3ow0QxB7pKK1SgAWqiMeWN7sQ0se_RxA",
-          "width": 1162,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
       ]
     }
   ],

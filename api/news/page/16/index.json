@@ -2,21 +2,21 @@
   "page": 16,
   "value": [
     {
-      "path": "_news/2022-02-23-artificial-intelligence-ai-future-of-neurosurgery.md",
-      "title": "Artificial Intelligence (AI) — Future of Neurosurgery?",
-      "excerpt": "Technical performance and learning outcomes during simulated brain tumor removal may be enhanced by artificial intelligence (AI) as per a study at the Neurosurgical Simulation and Artificial Intelligence Learning Centre at The Neuro (Montreal Neurological ...",
+      "path": "_news/2022-03-02-researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.md",
+      "title": "Researchers explore a human speech recognition model based on machine learning",
+      "excerpt": "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age.",
       "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-future-of-neurosurgery-205768-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-future-of-neurosurgery-205768-1.htm",
+      "webUrl": "https://www.news-medical.net/news/20220302/Researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220302/Researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
-          "url": "https://images.medindia.net/amp-images/health-images/artificial-intelligence-provides-clearer-mir-scans.jpg",
-          "width": 1200,
-          "height": 1000,
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Hearing_Loss-620x480.jpg",
+          "width": 620,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-future-of-neurosurgery-205768-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-future-of-neurosurgery-205768-1.htm",
-      "publishedDateTime": "2022-02-22T10:26:00-08:00",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220302/Researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220302/Researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.aspx",
+      "publishedDateTime": "2022-03-01T21:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
+        "name": "News Medical",
+        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,25 +40,27 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2022-02-23-machine-learning-and-artificial-intelligence-a-futuristic-approach-to-employee-engagement.md",
-      "title": "Machine learning and Artificial Intelligence: A futuristic approach to employee engagement",
-      "excerpt": "The subsequent sections bring to light the modern techniques to engage employees. Machine Learning (ML) and Artificial Intelligence (AI) – The New-Age Employee Engagement Tools New-age digital ...",
+      "path": "_news/2022-03-02-global-deep-learning-chipset-market-share-2022-top-players-demands-trends-future-developments-and-investments-unique-business-prospects.md",
+      "title": "Global Deep Learning Chipset Market Share 2022: Top Players, Demands, Trends, Future Developments and Investments, Unique Business Prospects 2028",
+      "excerpt": "Mar 02, 2022 (The Expresswire) -- The most recent update on Global \"Deep Learning Chipset Market\" 2022 Report gives significant bits of knowledge on market improvements, valuable opportunities ...",
       "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/machine-learning-and-artificial-intelligence-a-futuristic-approach-to-employee-engagement/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/machine-learning-and-artificial-intelligence-a-futuristic-approach-to-employee-engagement/",
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-share-2022-top-players-demands-trends-future-developments-and-investments-unique-business-prospects-2028-2022-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-share-2022-top-players-demands-trends-future-developments-and-investments-unique-business-prospects-2028-2022-03-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -66,14 +68,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/machine-learning-and-artificial-intelligence-a-futuristic-approach-to-employee-engagement/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/machine-learning-and-artificial-intelligence-a-futuristic-approach-to-employee-engagement/",
-      "publishedDateTime": "2022-02-22T10:04:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T19:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -87,243 +98,12 @@
       ]
     },
     {
-      "path": "_news/2022-02-23-the-future-of-computer-vision-and-ai-in-clinical-and-hospital-settings.md",
-      "title": "The Future of Computer Vision and AI in Clinical and Hospital Settings",
-      "excerpt": "Over the last decade, AI-driven computer vision (CV) and machine learning (ML) have become ubiquitous. However, the major trends in both industries began more than two decades ago and continue to shape advances in technology and regulatory changes today.",
+      "path": "_news/2022-03-02-aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-players-and-teams.md",
+      "title": "AWS and Bundesliga Debut Two New Match Facts Giving Fans Insight into Germany’s Top Football Players and Teams",
+      "excerpt": "The two new stats, “Set Piece Threat” and “Skill,” powered by AWS machine learning and analytics services, enhance the football fan experience and give invaluable strategic insights to teams With these two additions,",
       "sourceUrl": null,
-      "webUrl": "https://marketscale.com/industries/podcast-network/health-and-life-sciences-at-the-edge/the-future-of-computer-vision-and-ai-in-clinical-and-hospital-settings/",
-      "originalUrl": "https://marketscale.com/industries/podcast-network/health-and-life-sciences-at-the-edge/the-future-of-computer-vision-and-ai-in-clinical-and-hospital-settings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://marketscale.com/wp-content/uploads/2022/02/PodcastGraphic_OnePerson-2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T09:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "marketscale",
-        "domain": "marketscale.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-googles-area-120-debuts-checks-an-ai-powered-privacy-compliance-solution-for-mobile-apps.md",
-      "title": "Google’s Area 120 debuts Checks, an AI-powered privacy compliance solution for mobile apps",
-      "excerpt": "A team at Google is today launching a new product for mobile app developers called Checks which leverages A.I. technology to identify possible privacy and compliance issues within apps, amid a ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/02/22/googles-area-120-debuts-checks-an-ai-powered-privacy-compliance-solution-for-mobile-apps/",
-      "originalUrl": "https://techcrunch.com/2022/02/22/googles-area-120-debuts-checks-an-ai-powered-privacy-compliance-solution-for-mobile-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/checks-2.jpg?w=680",
-          "width": 680,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/02/22/googles-area-120-debuts-checks-an-ai-powered-privacy-compliance-solution-for-mobile-apps/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/22/googles-area-120-debuts-checks-an-ai-powered-privacy-compliance-solution-for-mobile-apps/amp/",
-      "publishedDateTime": "2022-02-22T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-see-future-tech-and-learn-ai-skills-for-free-at-nvidia-developer-conference.md",
-      "title": "See future tech and learn AI skills for free at NVIDIA Developer Conference",
-      "excerpt": "Next month the world’s brightest minds in AI and accelerated computing will come together to share their knowledge and peer into the future. Tens of thousands of technologists and developers will attend NVIDIA GTC — a free,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/nvidia/see-future-tech-and-learn-ai-skills-for-free-at-nvidia-developer-conference/",
-      "originalUrl": "https://techcrunch.com/sponsor/nvidia/see-future-tech-and-learn-ai-skills-for-free-at-nvidia-developer-conference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/NVIDIA-GTC-March-2022_press-release_collage.jpg?w=711",
-          "width": 711,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T08:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-edtech-startup-hfactory-emerges-from-hi-paris-ai-center.md",
-      "title": "EdTech Startup HFactory Emerges from Hi! PARIS AI Center",
-      "excerpt": "EdTech SaaS company HFactory comes out of stealth mode today with the ambition to reignite higher education pedagogy on Data Science and AI. The startup takes its roots in the “learning by doing” methods and pedagogical approaches championed within the Hi!",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-science-business-europe-education-1b777c16f9cb4fc4b53e204e1975f3c5",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-science-business-europe-education-1b777c16f9cb4fc4b53e204e1975f3c5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-vimaan-taps-computer-vision-for-drone-based-warehouse-management.md",
-      "title": "Vimaan Taps Computer Vision for Drone-Based Warehouse Management",
-      "excerpt": "Concept: Santa Clara’s AI solution startup Vimaan has launched a drone-based computer vision platform for product tracking and management across the warehouses. With minimum worker control, it aids warehouse managers to achieve better inventory accuracy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/",
-      "originalUrl": "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/02/shutterstock_1518283382.jpg",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Verdict Retail",
-        "domain": "retail-insight-network.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-vision-elements-joins-nvidia-metropolis-partner-program-to-provide-state-of-the-art-development-services-for-vision-ai-applications.md",
-      "title": "Vision Elements Joins NVIDIA Metropolis Partner Program, to Provide State-of-the-Art Development Services for Vision AI Applications",
-      "excerpt": "Vision Elements, a leading service provider offering customized research and algorithm development services for computer vision and artificial intelligence (AI), today announced it has joined the NVIDIA Metropolis Partner Program,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/02/22/9549910.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/02/22/9549910.htm",
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220302005404/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-players-and-teams",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220302005404/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-players-and-teams",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -333,11 +113,96 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T08:16:00-08:00",
+      "publishedDateTime": "2022-03-01T19:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-uah-researching-artificial-intelligence-to-aid-in-solving-crime.md",
+      "title": "UAH researching artificial intelligence to aid in solving crime",
+      "excerpt": "HUNTSVILLE, Ala. (WHNT) — The University of Alabama in Huntsville is working on ways to use artificial intelligence (AI) to analyze cell phone data to aid in solving crime. Dr. Tathagata ...",
+      "sourceUrl": null,
+      "webUrl": "https://whnt.com/news/stem/uah-researching-artificial-intelligence-to-aid-in-solving-crime/",
+      "originalUrl": "https://whnt.com/news/stem/uah-researching-artificial-intelligence-to-aid-in-solving-crime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://whnt.com/wp-content/uploads/sites/20/2022/03/uah-.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://whnt.com/news/stem/uah-researching-artificial-intelligence-to-aid-in-solving-crime/amp/",
+      "cdnAmpWebUrl": "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/stem/uah-researching-artificial-intelligence-to-aid-in-solving-crime/amp/",
+      "publishedDateTime": "2022-03-01T18:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHNT",
+        "domain": "whnt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-doorcounts-selects-alwaysai-as-its-computer-vision-partner-for-real-time-retail-analytics.md",
+      "title": "Doorcounts™ Selects alwaysAI® as Its Computer Vision Partner for Real-Time Retail Analytics",
+      "excerpt": "SAN DIEGO, March 01, 2022 (GLOBE NEWSWIRE) -- Doorcounts™, an Oregon-based SaaS company, and computer vision platform leader, alwaysAI ®, announced a strategic partnership to provide ground ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/03/g25926731/doorcounts-selects-alwaysai-as-its-computer-vision-partner-for-real-time-retail-analytics",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/g25926731/doorcounts-selects-alwaysai-as-its-computer-vision-partner-for-real-time-retail-analytics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25926731",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25926731",
+      "publishedDateTime": "2022-03-01T17:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -352,21 +217,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-23-ai-lifecycle-management-startup-cnvrgio-launches-ready-made-ml-pipelines.md",
-      "title": "AI lifecycle management startup Cnvrg.io launches ready-made ML pipelines",
-      "excerpt": "Register here. Cnvrg.io, the Intel-owned startup that offers a full-stack platform to help enterprises manage AI models and build auto-adaptive machine learning pipelines, has announced an open ...",
+      "path": "_news/2022-03-02-dubai-new-ai-coding-licence-launched-employees-to-get-10-year-golden-visa.md",
+      "title": "Dubai: New AI, coding licence launched; employees to get 10-year Golden Visa",
+      "excerpt": "Dubai International Financial Centre (DIFC) on Tuesday launched an artificial intelligence (AI) and coding licence to attract AI companies and coders from around the world as part of the UAE’s Artificial Intelligence Strategy 2031.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/22/ai-lifecycle-management-startup-cnvrg-io-launches-ready-made-ml-pipelines/",
-      "originalUrl": "https://venturebeat.com/2022/02/22/ai-lifecycle-management-startup-cnvrg-io-launches-ready-made-ml-pipelines/",
+      "webUrl": "https://www.zawya.com/mena/en/business/story/Dubai_New_AI_coding_licence_launched_employees_to_get_10year_Golden_Visa-ZAWYA20220301100935/",
+      "originalUrl": "https://www.zawya.com/mena/en/business/story/Dubai_New_AI_coding_licence_launched_employees_to_get_10year_Golden_Visa-ZAWYA20220301100935/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1336522614.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 620,
+          "url": "https://images.zawya.com/images/cia/zAmp/180516221655ZMHF.jpg",
+          "width": 1199,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -374,168 +239,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/22/ai-lifecycle-management-startup-cnvrg-io-launches-ready-made-ml-pipelines/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/ai-lifecycle-management-startup-cnvrg-io-launches-ready-made-ml-pipelines/amp/",
-      "publishedDateTime": "2022-02-22T08:00:00-08:00",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20220301100935/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20220301100935/",
+      "publishedDateTime": "2022-03-01T17:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-research-chief.md",
-      "title": "Facial recognition company Clearview AI seeks first big deals, discloses research chief",
-      "excerpt": "Clearview AI, whose search engine for faces has become an unrivaled police tool, this year is aiming to win its first big U.S. government contracts and expand its team by a third even as the startup fights challenges in the courts and Congress, its chief ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/02/22/facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-research-chief.html",
-      "originalUrl": "https://www.cnbc.com/2022/02/22/facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-research-chief.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104409576-GettyImages-522170209.jpg?v=1645552466",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/02/22/facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-research-chief.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/22/facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-research-chief.html",
-      "publishedDateTime": "2022-02-22T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-uk-report-stresses-the-importance-of-data-stewardship-to-ai-in-banking.md",
-      "title": "UK report stresses the importance of data stewardship to AI in banking",
-      "excerpt": "Learn more about becoming a client. The news: The final report from the UK's AI Public-Private Forum (AIPPF) points to the importance of data quality in artificial intelligence (AI) operations for financial institutions. The AIPPF, established in 2020 by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/uk-report-stresses-data-qualitys-role-in-banking-ai-2022-2",
-      "originalUrl": "https://www.businessinsider.com/uk-report-stresses-data-qualitys-role-in-banking-ai-2022-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62150761462ff20019c5fc4c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/uk-report-stresses-data-qualitys-role-in-banking-ai-2022-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-report-stresses-data-qualitys-role-in-banking-ai-2022-2?amp",
-      "publishedDateTime": "2022-02-22T07:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-paving-the-way-for-ai-and-machine-learning-success.md",
-      "title": "Paving the way for AI and Machine Learning success",
-      "excerpt": "Simith Nambiar, Practice Lead, Emerging Tech, APJ, Rackspace Technology, tells us how businesses can overcome the challenges they experience with their Artificial Intelligence/Machine Learning efforts ... Program in Finance, financial institutions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/",
-      "originalUrl": "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/02/AdobeStock_295768020.jpg",
-          "width": 1000,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "intelligentcio.com",
-        "domain": "intelligentcio.com",
+        "name": "Zawya",
+        "domain": "zawya.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -546,26 +256,25 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-02-22-exclusive-facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-research-chief.md",
-      "title": "Exclusive-Facial Recognition Company Clearview AI Seeks First Big Deals, Discloses Research Chief",
-      "excerpt": "Clearview has become one of the highest-profile developers of facial recognition over the last two years because it sends authorities matches from an ever-growing database of over 10 billion photos that it finds posted publicly on the internet. Results ...",
+      "path": "_news/2022-03-02-microsoft-celebrates-cognitive-services-milestones-with-new-ai-capabilities.md",
+      "title": "Microsoft celebrates Cognitive Services milestones with new AI capabilities",
+      "excerpt": "Microsoft announced new vision and search AI-based capabilities are now available as part of Microsoft Cognitive Services. Microsoft Cognitive Services is a collection of cloud-hosted APIs that ...",
       "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/exclusive-facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-3409221",
-      "originalUrl": "https://www.ibtimes.com/exclusive-facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-3409221",
+      "webUrl": "https://sdtimes.com/artificial-intelligence/microsoft-adds-new-ai-capabilities-cognitive-services/",
+      "originalUrl": "https://sdtimes.com/artificial-intelligence/microsoft-adds-new-ai-capabilities-cognitive-services/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/22/an-illustration-picture-shows-a-projection-of-text.jpg",
-          "width": 1200,
-          "height": 826,
+          "url": "https://sdtimes.com/wp-content/uploads/2018/03/6ac62fdd-6877-41b3-96b3-97f906a0f773.png",
+          "width": 1024,
+          "height": 695,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -575,57 +284,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T07:00:00-08:00",
+      "publishedDateTime": "2022-03-01T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-how-neuralspace-is-driving-low-resource-language-processing.md",
-      "title": "How NeuralSpace is driving low-resource language processing",
-      "excerpt": "“In India, Reverie Language Technologies and Skit AI are competitors but they mainly focus on Machine Translation and Speech Recognition, respectively. NeuralSpace offers the first platform that ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/22/how-neuralspace-is-driving-low-resource-language-processing/",
-      "originalUrl": "https://venturebeat.com/2022/02/22/how-neuralspace-is-driving-low-resource-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Voice-recognition.NLP_.GettyImages-1199031078.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 612,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/22/how-neuralspace-is-driving-low-resource-language-processing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/how-neuralspace-is-driving-low-resource-language-processing/amp/",
-      "publishedDateTime": "2022-02-22T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "SD Times",
+        "domain": "sdtimes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -641,26 +307,26 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-02-22-rios-a-startup-developing-robots-that-can-grasp-objects-has-raised-28-million.md",
-      "title": "Rios, a startup developing robots that can grasp objects, has raised $28 million",
-      "excerpt": "Rios’ robotics stack combines an AI orchestration system (deployed in the cloud or on-premises), embedded processors, computer vision, touch sensors, and accessories like gripper arms and pincers.",
+      "path": "_news/2022-03-02-toyota-announces-new-company-dedicated-to-self-driving-cars.md",
+      "title": "Toyota announces new company dedicated to self-driving cars",
+      "excerpt": "Toyota Motor Corp. announced Friday morning it plans to spend more than $3.5 billion CAD on a new company that will build automated driving software. Toyota, Aisin Seiki Co. and Deso Corp. have teamed up to create the “Toyota Research Institute-Advanced ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/22/rios-a-startup-developing-robots-that-can-grasp-objects-has-raised-28-million/",
-      "originalUrl": "https://venturebeat.com/2022/02/22/rios-a-startup-developing-robots-that-can-grasp-objects-has-raised-28-million/",
+      "webUrl": "https://www.itbusiness.ca/news/toyota-announces-new-company-dedicated-to-self-driving-cars/99794",
+      "originalUrl": "https://www.itbusiness.ca/news/toyota-announces-new-company-dedicated-to-self-driving-cars/99794",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-553200801-e1630698097462.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2018/01/Toyota-automated-vehicles-620x250.png",
+          "width": 620,
+          "height": 250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -668,16 +334,59 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/22/rios-a-startup-developing-robots-that-can-grasp-objects-has-raised-28-million/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/rios-a-startup-developing-robots-that-can-grasp-objects-has-raised-28-million/amp/",
-      "publishedDateTime": "2022-02-22T07:00:00-08:00",
+      "ampWebUrl": "https://www.itbusiness.ca/news/toyota-announces-new-company-dedicated-to-self-driving-cars/99794?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/toyota-announces-new-company-dedicated-to-self-driving-cars/99794?amp=1",
+      "publishedDateTime": "2022-03-01T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-golden-state-of-mind.md",
+      "title": "Golden State of Mind",
+      "excerpt": "Welcome back to The Stack, Argo AI’s monthly newsletter with our latest autonomous vehicle news, explainers, and job opportunities. Subscribe here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/golden-state-mind-argo-ai",
+      "originalUrl": "https://www.linkedin.com/pulse/golden-state-mind-argo-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGS-7nJq10pWQ/article-cover_image-shrink_720_1280/0/1646172747819?e=1652313600&v=beta&t=ln47KBwTe-GKtxAJFxtMOGpdH5--8NyCHWHrqxJCIF4",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T14:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -698,21 +407,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-22-ydata-launches-data-centric-ai-community-for-data-scientists.md",
-      "title": "YData launches data-centric AI community for data scientists",
-      "excerpt": "Register here. Chief data officers, data scientists and data analysts of all stripes may be interested in a new AI support and information community that’s debuting today. That special ...",
+      "path": "_news/2022-03-02-the-pitfalls-of-ai-that-could-predict-the-outcome-of-court-cases.md",
+      "title": "The pitfalls of AI that could predict the outcome of court cases",
+      "excerpt": "New startups claims their technology can predict the outcome of legal cases. Even if it works, the implications are worrisome, experts say.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/",
-      "originalUrl": "https://venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/",
+      "webUrl": "https://venturebeat.com/2022/03/01/the-pitfalls-of-ai-that-could-predict-the-outcome-of-court-cases/",
+      "originalUrl": "https://venturebeat.com/2022/03/01/the-pitfalls-of-ai-that-could-predict-the-outcome-of-court-cases/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1327569482-e1645483723963.jpg?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2015/08/RTR2XRP1-e1559617500870.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 585,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -720,9 +429,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/amp/",
-      "publishedDateTime": "2022-02-22T07:00:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2022/03/01/the-pitfalls-of-ai-that-could-predict-the-outcome-of-court-cases/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/01/the-pitfalls-of-ai-that-could-predict-the-outcome-of-court-cases/amp/",
+      "publishedDateTime": "2022-03-01T13:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -749,21 +458,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-22-neosapience-gets-215m-to-use-ai-powered-synthetic-avatars-for-creators.md",
-      "title": "Neosapience gets $21.5M to use AI-powered synthetic avatars for creators",
-      "excerpt": "Korean startup called Neosapience has developed a ... It will not only allow content with less effort but also execute on our vision of AI-powered virtual actors being accessible to everyone ...",
+      "path": "_news/2022-03-02-chicagoland-celebrates-international-mother-language-day.md",
+      "title": "Chicagoland celebrates International Mother Language Day",
+      "excerpt": "On February 27, 2022, Indian-American Punjabi organizations across the U.S. Midwest in association with the Consulate General of India, hosted an joyful cultural event in Chicago to celebrate the International Mother Language Day For the Consulate it was part of the Azadi Ka Amrit Mahotsav that India has declared as a one-year celebration of the country’s 75 th years of independence from British rule.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/",
-      "originalUrl": "https://techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/",
+      "webUrl": "https://www.newsindiatimes.com/chicagoland-celebrates-international-mother-language-day/",
+      "originalUrl": "https://www.newsindiatimes.com/chicagoland-celebrates-international-mother-language-day/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/Screen-Shot-2022-02-21-at-11.10.27-AM.png?w=1024",
+          "url": "https://www.newsindiatimes.com/wp-content/uploads/2022/03/BD-11.jpeg",
           "width": 1024,
-          "height": 852,
+          "height": 582,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -771,16 +480,59 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/amp/",
-      "publishedDateTime": "2022-02-22T06:00:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T12:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "News India Times",
+        "domain": "newsindiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-announcing-the-aws-deepracer-league-2022.md",
+      "title": "Announcing the AWS DeepRacer League 2022",
+      "excerpt": "Unleash the power of machine learning (ML) through hands-on learning and compete for prizes and glory. The AWS DeepRacer League is the world’s first global autonomous racing competition driven by reinforcement learning; bringing together students, professionals, and enthusiasts from almost every continent.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepracer-league-2022/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepracer-league-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/01/ML-8130-img1.png",
+          "width": 531,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T12:47:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -796,16 +548,18 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AWS AI",
+        "AI in Autos"
       ]
     },
     {
-      "path": "_news/2022-02-22-skymount-medical-inc-skymount-medical-receives-uk-mhra-approval-to-test-new-treatment-in-patients-with-mild-to-moderate-covid-19.md",
-      "title": "Skymount Medical, Inc.: Skymount Medical Receives UK MHRA Approval to Test New Treatment in Patients with Mild to Moderate COVID-19",
-      "excerpt": "Feb. 22, 2022 (GLOBE NEWSWIRE) -- Skymount Medical, a drug discovery company using an artificial intelligence (AI ... the reach of this combination therapy internationally.\"",
+      "path": "_news/2022-03-02-injecting-fairness-into-machine-learning-models.md",
+      "title": "Injecting fairness into machine-learning models",
+      "excerpt": "MIT researchers have found that, if a certain type of machine learning model is trained using an unbalanced dataset, the bias that it learns is impossible to fix after the fact. They developed a technique that induces fairness directly into the model,",
       "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-02/55306795-skymount-medical-inc-skymount-medical-receives-uk-mhra-approval-to-test-new-treatment-in-patients-with-mild-to-moderate-covid-19-399.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-02/55306795-skymount-medical-inc-skymount-medical-receives-uk-mhra-approval-to-test-new-treatment-in-patients-with-mild-to-moderate-covid-19-399.htm",
+      "webUrl": "https://www.eurekalert.org/news-releases/945050",
+      "originalUrl": "https://www.eurekalert.org/news-releases/945050",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -815,11 +569,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T05:08:00-08:00",
+      "publishedDateTime": "2022-03-01T12:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -829,32 +583,41 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-02-22-homology-joins-biomarin-in-halting-gene-therapy-studies-for-rare-metabolic-disease.md",
-      "title": "Homology joins BioMarin in halting gene therapy studies for rare metabolic disease",
-      "excerpt": "It was a tough week for companies, patients and families hoping a gene therapy for the rare metabolic disease phenylketonuria is on its way. On Friday afternoon, after BioMarin had already announced its program would be on hold for at least “several quarters,",
+      "path": "_news/2022-03-02-codecademy-partners-with-black-and-brilliant-for-ai-accelerator-in-africa.md",
+      "title": "Codecademy partners with Black and Brilliant for AI accelerator in Africa",
+      "excerpt": "Codecademy announced that it will be partnering with the Black and Brilliant advocacy group on a new mentorship program and accelerator in Africa. The two organizations joined for",
       "sourceUrl": null,
-      "webUrl": "https://endpts.com/homology-joins-biomarin-in-halting-gene-therapy-studies-for-rare-metabolic-disease/",
-      "originalUrl": "https://endpts.com/homology-joins-biomarin-in-halting-gene-therapy-studies-for-rare-metabolic-disease/",
+      "webUrl": "https://www.zdnet.com/article/codecademy-partners-with-black-and-brilliant-for-ai-accelerator-in-africa/",
+      "originalUrl": "https://www.zdnet.com/article/codecademy-partners-with-black-and-brilliant-for-ai-accelerator-in-africa/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 78,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T05:01:00-08:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/codecademy-partners-with-black-and-brilliant-for-ai-accelerator-in-africa/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/codecademy-partners-with-black-and-brilliant-for-ai-accelerator-in-africa/",
+      "publishedDateTime": "2022-03-01T11:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ENDPOINTS NEWS",
-        "domain": "endpts.com",
-        "images": null,
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -863,25 +626,25 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
-      "path": "_news/2022-02-22-why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare.md",
-      "title": "Why Developing Decision Intelligence And Support Is The Crucial Next Step For AI In Healthcare",
-      "excerpt": "To be clear, much of what is commonly dubbed \"artificial intelligence\" today doesn't really live up to the definition. In healthcare, particularly, plenty of purportedly AI-powered solutions merely represent long-overdue IT automation implementations.",
+      "path": "_news/2022-03-02-uniphore-rolls-out-conversational-ai-for-sales.md",
+      "title": "Uniphore Rolls Out Conversational AI for Sales",
+      "excerpt": "The company's Q for Sales uses AI to transform B2B sales, using a platform capable of delivering AI-based analytics to any type of conversation.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/",
+      "webUrl": "https://www.eweek.com/cloud/conversational-ai-for-sales/",
+      "originalUrl": "https://www.eweek.com/cloud/conversational-ai-for-sales/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6205174d5de155a4329ea195/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-DSOM-Image02-800x800-1.jpg",
+          "width": 800,
           "height": 800,
           "title": null,
           "attribution": null,
@@ -890,16 +653,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/amp/",
-      "publishedDateTime": "2022-02-22T05:00:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T10:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "eWeek",
+        "domain": "eweek.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -915,26 +678,26 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Sales"
       ]
     },
     {
-      "path": "_news/2022-02-22-microsoft-reveals-singularity-ai-infrastructure-service.md",
-      "title": "Microsoft reveals ‘Singularity’ AI infrastructure service",
-      "excerpt": "Microsoft Azure and Research teams are working together to build a new AI infrastructure service, called Unity. The Unity Team is working to build what Microsoft describes in some of its team operations as a new AI service from the beginning platform that ...",
+      "path": "_news/2022-03-01-train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker.md",
+      "title": "Train 175+ billion parameter NLP models with model parallel additions and Hugging Face on Amazon SageMaker",
+      "excerpt": "The last few years have seen rapid development in the field of natural language processing (NLP). While hardware has improved, such as with the latest generation of accelerators from NVIDIA and Amazon, advanced machine learning (ML) practitioners still regularly run into issues scaling their large language",
       "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 103,
       "tags": null,
       "images": [
         {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/02/Microsoft-reveals-Singularity-AI-infrastructure-service-01.jpg",
-          "width": 1200,
-          "height": 676,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/22/ML-7958-image001.jpg",
+          "width": 2304,
+          "height": 1056,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -942,13 +705,66 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/amp/",
-      "publishedDateTime": "2022-02-22T04:22:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T10:11:16-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-why-a-multicloud-solution-is-better-for-government.md",
+      "title": "Why a Multicloud Solution is Better for Government",
+      "excerpt": "The multicloud world is already here. However, multicloud is much more than using services in each cloud independently. Multicloud is about connecting the best services and capabilities of each cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/sponsored/why-a-multicloud-solution-is-better-for-government",
+      "originalUrl": "https://www.govtech.com/sponsored/why-a-multicloud-solution-is-better-for-government",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/e5a1824/2147483647/strip/true/crop/4500x2346+0+497/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8f%2F1c%2F442abd3148219ac52b1a9dcac01a%2Fhttps-download.shutterstock.com%2Fgatekeeper%2FW3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWEiLCAiayI6ICJwaG90by8xOTEyOTUxOTYwL2h1Z2UuanBnIiwgImRjIjogImlkbF8xMjMiLCAiZSI6IDE2NDYxODU1NDQsICJtIjogMX0sICJGRmU5eEZ1ekFJN2VTOTgyRzg2V0Y3RmZxdHMiXQ%3D%3D%2Fshutterstock_1912951960.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/sponsored/why-a-multicloud-solution-is-better-for-government?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/why-a-multicloud-solution-is-better-for-government?_amp=true",
+      "publishedDateTime": "2022-03-01T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -958,26 +774,26 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-02-22-sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers.md",
-      "title": "Sustainable AI Turns Small Data Into Huge Results For Manufacturers And Researchers",
-      "excerpt": "Just ask some of the customers from Hacarus, a Japan-based startup that’s developed a standout AI-fueled visual inspection solution. Manufacturers and medical researchers have discovered sparse modeling is the sustainable antidote to traditional AI.",
+      "path": "_news/2022-03-02-human-speech-recognition-model-to-overcome-hearing-impairment.md",
+      "title": "Human Speech Recognition Model to Overcome Hearing-Impairment",
+      "excerpt": "Human speech recognition may be improved by machine learning as per a study at the American Institute of Physics, published in The Journal of the Acoustical Society of America, by the Acoustical Society of America through AIP Publishing.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/",
+      "webUrl": "https://www.medindia.net/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
+      "originalUrl": "https://www.medindia.net/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620a7008f65109a2886f0b25/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "url": "https://images.medindia.net/amp-images/health-images/hearing-impairment-mental-health.jpg",
           "width": 1200,
-          "height": 848,
+          "height": 1000,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -985,9 +801,105 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/amp/",
-      "publishedDateTime": "2022-02-22T04:16:00-08:00",
+      "ampWebUrl": "https://www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
+      "publishedDateTime": "2022-03-01T09:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25.md",
+      "title": "ML inferencing at the edge with Amazon SageMaker Edge and Ambarella CV25",
+      "excerpt": "Ambarella builds computer vision SoCs (system on chips) based on a very efficient AI chip architecture and CVflow that provides the Deep Neural Network (DNN) processing required for edge inferencing use cases like intelligent home monitoring and smart surveillance cameras. Developers convert models trained",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/18/ML-7753-image001.png",
+          "width": 1232,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T09:34:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-could-ai-powered-silicon-remastering-be-a-solution-to-the-chip-shortage.md",
+      "title": "Could AI-Powered Silicon Remastering Be A Solution To The Chip Shortage?",
+      "excerpt": "There’s an excellent opportunity for a solution to at least some of our current chip shortage issues. And it may lie in the idea of making something old new again.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/01/could-ai-powered-silicon-remastering-be-a-solution-to-the-chip-shortage/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/01/could-ai-powered-silicon-remastering-be-a-solution-to-the-chip-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62196bf880c2270620b884a3/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 789,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/01/could-ai-powered-silicon-remastering-be-a-solution-to-the-chip-shortage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/03/01/could-ai-powered-silicon-remastering-be-a-solution-to-the-chip-shortage/amp/",
+      "publishedDateTime": "2022-03-01T08:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1010,25 +922,26 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-02-22-making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation.md",
-      "title": "Making Sense Of The 'Unknown' With Data Intelligence And Hyperautomation",
-      "excerpt": "Analysts like Gartner propose that robotic process automation (RPA), low-code application platforms, integration platform as a service (iPaaS), artificial intelligence (AI), intelligent document processing and other streamlining hyperautomation ...",
+      "path": "_news/2022-03-02-deep-learning-diagnoses-ai-detects-covid-19-from-smartwatch-sensors.md",
+      "title": "Deep-learning diagnoses: AI detects COVID-19 from smartwatch sensors",
+      "excerpt": "Combining questions about a person's health with data from smartwatch sensors, a new app developed using research at Princeton University can predict within minutes whether someone is infected with COVID-19.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation/",
+      "webUrl": "https://techxplore.com/news/2022-03-deep-learning-ai-covid-smartwatch-sensors.html",
+      "originalUrl": "https://techxplore.com/news/2022-03-deep-learning-ai-covid-smartwatch-sensors.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60f5a781e94c16200363132d/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 646,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/deep-learning-diagnose.jpg",
+          "width": 1536,
+          "height": 864,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1036,9 +949,52 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/22/making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation/amp/",
-      "publishedDateTime": "2022-02-22T03:45:00-08:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-03-deep-learning-ai-covid-smartwatch-sensors.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-deep-learning-ai-covid-smartwatch-sensors.amp",
+      "publishedDateTime": "2022-03-01T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-ai-robotics-and-ethics-harnessing-the-power-of-intelligent-machines-to-benefit-humans.md",
+      "title": "AI, Robotics And Ethics: Harnessing The Power Of Intelligent Machines To Benefit Humans",
+      "excerpt": "The importance of ethics in artificial intelligence stems from the power of what can be accomplished with AI, especially when combined with machines: self-driving cars, robots co-working with humans in factories,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/windriver/2022/03/01/ai-robotics-and-ethics-harnessing-the-power-of-intelligent-machines-to-benefit-humans/",
+      "originalUrl": "https://www.forbes.com/sites/windriver/2022/03/01/ai-robotics-and-ethics-harnessing-the-power-of-intelligent-machines-to-benefit-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621e4c1c73b90ce7ffd5d84a/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/windriver/2022/03/01/ai-robotics-and-ethics-harnessing-the-power-of-intelligent-machines-to-benefit-humans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/windriver/2022/03/01/ai-robotics-and-ethics-harnessing-the-power-of-intelligent-machines-to-benefit-humans/amp/",
+      "publishedDateTime": "2022-03-01T08:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1061,25 +1017,27 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
-      "path": "_news/2022-02-22-key-learnings-for-financial-brands-to-use-in-2022.md",
-      "title": "Key Learnings For Financial Brands To Use In 2022",
-      "excerpt": "Dmitry Dolgorukov is the Co-Founder and CRO of HES Fintech, a leader in providing financial institutions with intelligent ... So how can brands engage artificial intelligence (AI) and machine learning (ML) effectively to get tangible results?",
+      "path": "_news/2022-03-02-machine-learning-improves-human-speech-recognition.md",
+      "title": "Machine learning improves human speech recognition",
+      "excerpt": "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/22/key-learnings-for-financial-brands-to-use-in-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/22/key-learnings-for-financial-brands-to-use-in-2022/",
+      "webUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
+      "originalUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee0f9275f89c800062e36cd/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 794,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-impro.jpg",
+          "width": 2880,
+          "height": 1620,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1087,9 +1045,97 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/22/key-learnings-for-financial-brands-to-use-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/02/22/key-learnings-for-financial-brands-to-use-in-2022/amp/",
-      "publishedDateTime": "2022-02-22T03:30:00-08:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
+      "publishedDateTime": "2022-03-01T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-baidu-revenue-beats-after-cloud-sales-offset-ad-slowdown.md",
+      "title": "Baidu Revenue Beats After Cloud Sales Offset Ad Slowdown",
+      "excerpt": "Baidu Inc.’s revenue beat estimates after efforts to monetize artificial intelligence technology helped offset losses in ad sales triggered by China’s economic slowdown. Revenue for the December quarter came in at 33.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloombergquint.com/global-economics/baidu-revenue-beats-after-cloud-sales-offset-ad-slowdown",
+      "originalUrl": "https://www.bloombergquint.com/global-economics/baidu-revenue-beats-after-cloud-sales-offset-ad-slowdown",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T07:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BloombergQuint",
+        "domain": "bloombergquint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars.md",
+      "title": "AI Deciding How To Distribute Harm Breeds Dicey AI Ethics Dilemma, Markedly So For Nascent AI-Based Self-Driving Cars",
+      "excerpt": "AI systems are having to ascertain how to distribute harm, a decidedly Ethical AI issue, including for the case of AI self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/01/ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/01/ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62184c65dbd6bd0c97949c9c/0x0.jpg?format=jpg&crop=5676,3194,x0,y188,safe&fit=crop",
+          "width": 5676,
+          "height": 3194,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/01/ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/01/ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars/amp/",
+      "publishedDateTime": "2022-03-01T07:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1112,59 +1158,9 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-facilio-which-develops-ai-powered-property-management-software-nabs-35m.md",
-      "title": "Facilio, which develops AI-powered property management software, nabs $35M",
-      "excerpt": "GE Digital’s Predix and startup Petasense offer similar Wi-Fi-enabled, cloud- and AI-driven monitoring sensors. And Sidewalk Labs and Carbon Relay boast products that leverage sensor data to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/22/facilio-which-develops-ai-powered-property-management-software-nabs-35m/",
-      "originalUrl": "https://venturebeat.com/2022/02/22/facilio-which-develops-ai-powered-property-management-software-nabs-35m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1282120747-e1638981626372.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/22/facilio-which-develops-ai-powered-property-management-software-nabs-35m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/facilio-which-develops-ai-powered-property-management-software-nabs-35m/amp/",
-      "publishedDateTime": "2022-02-22T02:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
+        "AI",
+        "AI Ethics",
+        "AI in Autos"
       ]
     }
   ],

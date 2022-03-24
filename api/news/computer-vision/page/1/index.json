@@ -2,6 +2,588 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-24-debating-the-role-of-facial-recognition-technology-in-mass.md",
+      "title": "Debating the role of facial recognition technology in Mass.",
+      "excerpt": "The Commonwealth is rethinking use of facial recognition technology in law enforcement. Right now, at least nine law enforcement offices and departments use it, as well as offices of some federal agencies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbur.org/radioboston/2022/03/23/march-23-2022-rb",
+      "originalUrl": "https://www.wbur.org/radioboston/2022/03/23/march-23-2022-rb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d279m997dpfwgl.cloudfront.net/wp/2018/12/AP_18116251102533.jpg",
+          "width": 1700,
+          "height": 1133,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.wbur.org/radioboston/2022/03/23/march-23-2022-rb",
+      "cdnAmpWebUrl": "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/radioboston/2022/03/23/march-23-2022-rb",
+      "publishedDateTime": "2022-03-23T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBUR",
+        "domain": "wbur.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-datagen-raises-50-million-series-b-to-empower-computer-vision-teams.md",
+      "title": "Datagen raises $50 million Series B to empower computer vision teams",
+      "excerpt": "Datagen now has a much more scalable way to help clients themselves generate the visual data that they need to train their computer vision applications.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/23/datagen-raises-50-million-series-b-to-empower-computer-vision-teams/",
+      "originalUrl": "https://techcrunch.com/2022/03/23/datagen-raises-50-million-series-b-to-empower-computer-vision-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1303435492.jpg?w=1024",
+          "width": 1024,
+          "height": 699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/23/datagen-raises-50-million-series-b-to-empower-computer-vision-teams/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/23/datagen-raises-50-million-series-b-to-empower-computer-vision-teams/amp/",
+      "publishedDateTime": "2022-03-23T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-reinventing-how-aiml-teams-gather-data-needed-for-computer-vision-network-training.md",
+      "title": "Reinventing how AI/ML teams gather data needed for computer vision network training",
+      "excerpt": "Datagen, the data-as-code leader for computer vision AI, today announced the closure of a $50 million Series B financing round led by new investor Scale Venture Partners. The round also included participation from existing investors TLV Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/datagen-raises-50-million-series-b/",
+      "originalUrl": "https://www.geektime.com/datagen-raises-50-million-series-b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geektime.com/content/images/2022/03/-----------------------------------------------.jpg",
+          "width": 2000,
+          "height": 1045,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/datagen-raises-50-million-series-b/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/datagen-raises-50-million-series-b/amp/",
+      "publishedDateTime": "2022-03-23T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-facial-recognition-panel-looks-to-balance-police-needs-with-privacy.md",
+      "title": "Facial recognition panel looks to balance police needs with privacy",
+      "excerpt": "A much-anticipated report on facial recognition technology has landed with an eye on balancing police powers and privacy. Issuing 13 recommendations in total, the commission behind the report says",
+      "sourceUrl": null,
+      "webUrl": "https://www.sentinelandenterprise.com/2022/03/23/facial-recognition-panel-looks-to-balance-police-needs-with-privacy/",
+      "originalUrl": "https://www.sentinelandenterprise.com/2022/03/23/facial-recognition-panel-looks-to-balance-police-needs-with-privacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sentinelandenterprise.com/wp-content/uploads/2022/03/FBI_Sexual_Misconduct_04458-1.jpg?w=1024&h=651",
+          "width": 1024,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sentinelandenterprise.com/2022/03/23/facial-recognition-panel-looks-to-balance-police-needs-with-privacy/amp/",
+      "cdnAmpWebUrl": "https://www-sentinelandenterprise-com.cdn.ampproject.org/c/s/www.sentinelandenterprise.com/2022/03/23/facial-recognition-panel-looks-to-balance-police-needs-with-privacy/amp/",
+      "publishedDateTime": "2022-03-23T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sentinel & Enterprise",
+        "domain": "sentinelandenterprise.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-ukraine-and-russia-have-both-weaponized-facial-recognition-in-very-different-ways.md",
+      "title": "Ukraine and Russia have both weaponized facial recognition — in very different ways",
+      "excerpt": "Ukraine is using the technology to ID the dead and find Russian infiltrators. Russia is using it to crush dissent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3",
+      "originalUrl": "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6238d63cd199330018a3626d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp",
+      "publishedDateTime": "2022-03-21T13:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-19-heres-how-americans-view-facial-recognition-and-driverless-cars.md",
+      "title": "Here's how Americans view facial recognition and driverless cars",
+      "excerpt": "The most strongly opposed applications of artificial intelligence focused on computer chip brain implants and driverless cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ijpr.org/science-technology/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars",
+      "originalUrl": "https://www.ijpr.org/science-technology/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/faab271/2147483647/strip/true/crop/3037x1871+0+204/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F03%2F18%2Fface-recognition.getty-431e74c0b0da8664c4ef6d5a7515f829ae18b917.jpg",
+          "width": 880,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ijpr.org/science-technology/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars?_amp=true",
+      "cdnAmpWebUrl": "https://www-ijpr-org.cdn.ampproject.org/c/s/www.ijpr.org/science-technology/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars?_amp=true",
+      "publishedDateTime": "2022-03-18T21:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jefferson Public Radio",
+        "domain": "ijpr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-heres-how-americans-view-facial-recognition-and-driverless-cars.md",
+      "title": "Here's how Americans view facial recognition and driverless cars",
+      "excerpt": "The nonpartisan Pew Research Center surveyed more than 10,000 adults and found that their support of artificial intelligence varied, depending on its use. Police use of facial recognition? More people say it's a good idea than not. Driverless cars?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wksu.org/npr-news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars",
+      "originalUrl": "https://www.wksu.org/npr-news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/faab271/2147483647/strip/true/crop/3037x1871+0+204/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F03%2F18%2Fface-recognition.getty-431e74c0b0da8664c4ef6d5a7515f829ae18b917.jpg",
+          "width": 880,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wksu.org/npr-news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars?_amp=true",
+      "cdnAmpWebUrl": "https://www-wksu-org.cdn.ampproject.org/c/s/www.wksu.org/npr-news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars?_amp=true",
+      "publishedDateTime": "2022-03-18T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKSU",
+        "domain": "wksu.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-poll-shows-americans-optimism-toward-ai-and-and-facial-recognition-but-brain-implants-not-so-much.md",
+      "title": "Poll Shows Americans’ Optimism Toward AI And And Facial Recognition — But Brain Implants, Not So Much",
+      "excerpt": "like chips implanted in the brain and driverless vehicles. Output of an Artificial Intelligence system from Google Vision, performing Facial Recognition on a ... [+] photograph of a man ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
+      "originalUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62335e6539b745afd96e9434/0x0.jpg?format=jpg&crop=3421,1924,x0,y172,safe&fit=crop",
+          "width": 3421,
+          "height": 1924,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
+      "publishedDateTime": "2022-03-17T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-visionifyais-computer-vision-technology-to-propel-general-shales-brick-inspection-process-on-manufacturing-line.md",
+      "title": "Visionify.ai's Computer Vision Technology to Propel General Shale's Brick Inspection Process on Manufacturing Line",
+      "excerpt": "Visionify.ai, a computer vision technology company that provides turnkey solutions to its customers, today announced it is now a solutions provider for one of General Shale's brick plants. General Shale's family of brands manufacture and supplies high-quality thin bricks for residential and commercial construction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/visionify-ais-computer-vision-technology-to-propel-general-shales-brick-inspection-process-on-manufacturing-line/article_2ccc5b44-9144-527d-95f9-dd8f6189de16.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/visionify-ais-computer-vision-technology-to-propel-general-shales-brick-inspection-process-on-manufacturing-line/article_2ccc5b44-9144-527d-95f9-dd8f6189de16.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-14-photo-or-the-real-thing-mice-can-inherently-recall-and-tell-them-apart.md",
+      "title": "Photo or the real thing? Mice can inherently recall and tell them apart",
+      "excerpt": "A picture is worth a thousand words, especially when it triggers memories of the pictured object like a vacation photo. 2D visual stimuli, such as pictures seen in print media, television or online, is often how humans acquire knowledge about real-world items.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-03-photo-real-mice-inherently-recall.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-03-photo-real-mice-inherently-recall.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/photo-or-the-real-thin.jpg",
+          "width": 1911,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-03-photo-real-mice-inherently-recall.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-photo-real-mice-inherently-recall.amp",
+      "publishedDateTime": "2022-03-14T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-14-xailient-blows-the-doors-off-computer-vision-with-intel-openvino-at-448fps-opening-the-way-for-advanced-applications-in-face-recognition-and.md",
+      "title": "Xailient blows the doors off Computer Vision with Intel OpenVINO at 448FPS - opening the way for advanced applications in Face Recognition and Privacy",
+      "excerpt": "Xailient specializes in extremely efficient low-power computer vision. OpenVINO specializes in maximizing the performance and speed of computer vision AI workloads. Together, Xailient and OpenVINO deliver every inference of Computer Vision on all configurations of Intel hardware,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/03/14/9563016.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/03/14/9563016.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-11-samsungs-object-eraser-mode-takes-on-googles-magic-eraser.md",
+      "title": "Samsung’s Object Eraser mode takes on Google’s Magic Eraser",
+      "excerpt": "Samsung has a hidden challenger to Google's Magic Eraser mode on the Galaxy S22 UItra. It's called Object Eraser, and this is how you use it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/samsung-object-eraser-vs-google-magic-eraser/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/samsung-object-eraser-vs-google-magic-eraser/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/galaxy-s22-ultra-object-eraser.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/samsung-object-eraser-vs-google-magic-eraser/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/samsung-object-eraser-vs-google-magic-eraser/?amp",
+      "publishedDateTime": "2022-03-10T13:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-11-tinymls-role-in-enabling-computer-vision-at-the-edge-thought-leaders.md",
+      "title": "tinyML’s Role in Enabling Computer Vision at the Edge – Thought Leaders",
+      "excerpt": "Founder & Chief Product Officer, Deeplite Computer vision has great potential to improve our everyday lives – and there are many applications and uses for it. A few examples include: Smart doorbells for home security help prevent “porch pirates” and break-ins.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/tinymls-role-in-enabling-computer-vision-at-the-edge-thought-leaders/",
+      "originalUrl": "https://www.unite.ai/tinymls-role-in-enabling-computer-vision-at-the-edge-thought-leaders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:595/q:auto/https://www.unite.ai/wp-content/uploads/2019/12/computer-vision1-e1575654264450.png",
+          "width": 1000,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-10T10:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-08-this-app-can-diagnose-rare-diseases-from-a-childs-face.md",
       "title": "This App Can Diagnose Rare Diseases From a Child's Face",
       "excerpt": "In 2012, Moti Shniberg sold his face recognition startup to Facebook and started looking for a new challenge. “We wanted to take our expertise and do something good,” he says. Then he met the head of a medical genetics center, who explained the ...",
@@ -296,6 +878,49 @@
         "Computer Vision",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-new-concept-in-multi-touch-object-recognition.md",
+      "title": "New Concept in Multi-touch Object Recognition",
+      "excerpt": "DISPLAX TAG - Active OR is a combination of hardware and middleware, which enables interactive solutions developers to integrate and deliver Object Recognition (OR) interactive experiences, going beyond traditional OR solutions. DISPLAX TAG - Active OR is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.avnetwork.com/features/new-concept-in-multi-touch-object-recognition",
+      "originalUrl": "https://www.avnetwork.com/features/new-concept-in-multi-touch-object-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YM8AaPDBqEAD9ZqT3JoN8S-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-03T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AV Network",
+        "domain": "avnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -700,623 +1325,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-26-texas-ag-ken-paxton-sues-facebook-parent-meta-over-facial-recognition.md",
-      "title": "Texas AG Ken Paxton sues Facebook parent Meta over facial recognition",
-      "excerpt": "The company said in November that it was shutting down its facial recognition program and deleting its data. Texas is asking the court to fine Meta $25,000 for each violation of the informed consent rule and $10,000 for each violation of the state's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/business/2022/02/14/facebook-sued-by-texas-ag-ken-paxton-over-biometric-data/6788045001/",
-      "originalUrl": "https://www.usatoday.com/story/business/2022/02/14/facebook-sued-by-texas-ag-ken-paxton-over-biometric-data/6788045001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2022/01/31/NAAS/f9ebd3fd-9047-421c-bb8e-4e07809346e8-IMG_Texas_Attorney_Gener_1_1_TDVDDFQI_L1771748395.JPG?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6788045001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6788045001",
-      "publishedDateTime": "2022-02-25T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-26-hummingbirds-ai-to-present-facial-recognition-security-system-at-sxsw-pitch-event.md",
-      "title": "Hummingbirds AI to present facial recognition security system at SXSW Pitch event",
-      "excerpt": "Hummingbirds AI was selected as an alternate in the Artificial Intelligence, Robotics & Voice category of SXSW Pitch to display its GuacamoleID application.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202202/hummingbirds-ai-to-present-facial-recognition-security-system-at-sxsw-pitch-event",
-      "originalUrl": "https://www.biometricupdate.com/202202/hummingbirds-ai-to-present-facial-recognition-security-system-at-sxsw-pitch-event",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/05171458/laptop-privacy-enterprise-scaled.jpg",
-          "width": 2048,
-          "height": 1366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-25T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision",
-        "AI in Security",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-facial-recognition-market-size-worth-1267bn-globally-by-2028-at-142-cagr-exclusive-report-by-the-insight-partners.md",
-      "title": "Facial Recognition Market Size Worth $12.67Bn, Globally, by 2028 at 14.2% CAGR - Exclusive Report by The Insight Partners",
-      "excerpt": "The Insight Partners published latest research study on \"Facial Recognition Market Forecast to 2028 - COVID-19 Impact and",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/02/n25834423/facial-recognition-market-size-worth-12-67bn-globally-by-2028-at-14-2-cagr-exclusive-report-by-the",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/n25834423/facial-recognition-market-size-worth-12-67bn-globally-by-2028-at-14-2-cagr-exclusive-report-by-the",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25834423",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25834423",
-      "publishedDateTime": "2022-02-25T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-following-backlash-irs-allows-skipping-facial-recognition.md",
-      "title": "Following Backlash, IRS Allows Skipping Facial Recognition",
-      "excerpt": "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition",
-      "originalUrl": "https://www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/65ed04f/2147483647/strip/true/crop/770x402+0+56/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F99%2Fee%2F70e57ea596472533b739cecaf122%2Firs1.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/following-backlash-irs-allows-skipping-facial-recognition?_amp=true",
-      "publishedDateTime": "2022-02-24T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-new-acm-techbrief-spotlights-privacy-ethics-problems-with-facial-recognition-technology.md",
-      "title": "New ACM TechBrief spotlights privacy, ethics problems with facial recognition technology",
-      "excerpt": "The Association for Computing Machinery’s global Technology Policy Council (ACM TPC) today released, “ACM TechBrief: Facial Recognition,” a concise overview of an increasingly-used application which relies heavily on artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/944603",
-      "originalUrl": "https://www.eurekalert.org/news-releases/944603",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T09:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback.md",
-      "title": "IRS will allow taxpayers to forgo facial recognition amid blowback",
-      "excerpt": "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology and would shift to a different identity verification system next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/",
-      "originalUrl": "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1",
-      "publishedDateTime": "2022-02-23T19:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-what-to-do-if-a-cop-tries-to-scan-your-face-during-a-traffic-stop.md",
-      "title": "What to Do If a Cop Tries to Scan Your Face During a Traffic Stop",
-      "excerpt": "Law enforcement’s use of facial recognition technology during investigations has blossomed in recent years thanks in no small part to a booming surveillance industry built on the back of an ever ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/can-police-use-facial-recognition-scans-at-traffic-stop-1848581619",
-      "originalUrl": "https://gizmodo.com/can-police-use-facial-recognition-scans-at-traffic-stop-1848581619",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/3c60689fceb2dd3474c8a28d9a9f3217.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/can-police-use-facial-recognition-scans-at-traffic-stop-1848581619/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/can-police-use-facial-recognition-scans-at-traffic-stop-1848581619/amp",
-      "publishedDateTime": "2022-02-23T14:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.md",
-      "title": "IRS now allows taxpayers to avoid facial recognition following backlash",
-      "excerpt": "The Internal Revenue Service announced Monday it will continue to use its face recognition software deemed controversial for being required to verify the identities of taxpayers to log on to its website.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html",
-      "originalUrl": "https://www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/COABZEBOUJHUFEZOZV5OQR32IM.jpg",
-          "width": 3736,
-          "height": 2421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2022/02/irs-now-allows-taxpayers-to-avoid-facial-recognition-following-backlash.html?outputType=amp",
-      "publishedDateTime": "2022-02-23T12:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Penn Live",
-        "domain": "pennlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-irs-now-lets-taxpayers-opt-out-of-facial-recognition-after-backlash.md",
-      "title": "IRS now lets taxpayers opt out of facial recognition after backlash",
-      "excerpt": "The IRS announced that people who want to avoid turning over their biometric data as part of the login process can now talk to a human via video chat instead to prove they are who they say they are.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kcra.com/article/irs-now-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/39178220",
-      "originalUrl": "https://www.kcra.com/article/irs-now-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/39178220",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-7a8ae4098e073e8f2fb2e6f40c4c93e7-h-8ce2cce79bbfecca6040b34e0961c2b9-1645645051.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kcra.com/amp/article/irs-now-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/39178220",
-      "cdnAmpWebUrl": "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/irs-now-lets-taxpayers-opt-out-of-facial-recognition-after-backlash/39178220",
-      "publishedDateTime": "2022-02-23T09:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KCRA",
-        "domain": "kcra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-cipia-brings-ai-and-computer-vision-monitoring-systems-to-eliminate-the-dangers-of-distracted-driving.md",
-      "title": "Cipia brings AI and computer vision monitoring systems to eliminate the dangers of distracted driving",
-      "excerpt": "The Driver Sense software-based driver monitoring system monitors the driver's state in real-time. It uses AI and computer vision, to monitor factors including gaze vector, blink rate, and eye openness for signs of drowsiness and distraction. It will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/cipia-brings-ai-and-computer-vision-monitor-systems-to-eliminate-the-dangers-of-distracted-driving/",
-      "originalUrl": "https://www.zdnet.com/article/cipia-brings-ai-and-computer-vision-monitor-systems-to-eliminate-the-dangers-of-distracted-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2c6201f42be83570fc0d45e5eb6e179c778baab4/2022/02/23/4f698728-050e-48e3-a92e-88edac184e64/cipia-driver-monitoring-system.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cipia-brings-ai-and-computer-vision-monitor-systems-to-eliminate-the-dangers-of-distracted-driving/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cipia-brings-ai-and-computer-vision-monitor-systems-to-eliminate-the-dangers-of-distracted-driving/",
-      "publishedDateTime": "2022-02-23T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-irs-doesnt-completely-scrap-facial-recognition-just-makes-it-optional.md",
-      "title": "IRS doesn't completely scrap facial recognition, just makes it optional",
-      "excerpt": "Folks setting up an online IRS account will be given the choice of providing biometric data, or speaking with a human agent in a video call, to authenticate. Those who are comfortable with facial recognition can submit a selfie,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/02/23/irs_facial_deletion/",
-      "originalUrl": "https://www.theregister.com/2022/02/23/irs_facial_deletion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/01/17/shutterstock_facial_recognition.jpg",
-          "width": 1000,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/02/23/irs_facial_deletion/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/23/irs_facial_deletion/",
-      "publishedDateTime": "2022-02-22T20:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-irs-offers-alternative-to-facial-recognition.md",
-      "title": "IRS offers alternative to facial recognition",
-      "excerpt": "A short-term option involves a virtual interview with IRS personnel to authenticate taxpayers’ and practitioners’ identities for online services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetaxadviser.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html",
-      "originalUrl": "https://www.thetaxadviser.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetaxadviser.com/content/dam/tta/tta-default-cover-image.jpg",
-          "width": 255,
-          "height": 335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T14:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tax Adviser",
-        "domain": "thetaxadviser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-facial-recognition-technology-faces-mounting-legal-ethical-questions.md",
-      "title": "Facial recognition technology faces mounting legal, ethical questions",
-      "excerpt": "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021. The Texas Attorney General, Ken Paxton, filed a lawsuit in mid-February, seeking damages related to Facebook's photo services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions",
-      "originalUrl": "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/cc0c13f/2147483647/strip/true/crop/702x395+69+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff4%2F94%2Fd4d0abae4343a0b874f0fcaff0a7%2Fscreen-shot-2022-02-22-at-3.01.08%20PM.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true",
-      "cdnAmpWebUrl": "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true",
-      "publishedDateTime": "2022-02-22T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCPO Cincinnati",
-        "domain": "wcpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-irs-will-let-tax-payers-opt-out-of-facial-recognition-but-theres-a-big-catch.md",
-      "title": "IRS will let tax payers opt out of facial recognition, but there's a big catch",
-      "excerpt": "Although the IRS has dropped its plans to use video selfies to verify the identities of taxpayers, this year's tax season is still set to be a bit more chaotic than usual. Originally the government agency had planned to use the third-party identity verification provider ID.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/irs-will-let-tax-payers-opt-out-of-facial-recognition-but-theres-a-big-catch",
-      "originalUrl": "https://www.techradar.com/news/irs-will-let-tax-payers-opt-out-of-facial-recognition-but-theres-a-big-catch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/AhxWMLamn9z3RMdEzxGwYE-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

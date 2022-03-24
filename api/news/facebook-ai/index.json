@@ -2,6 +2,205 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-23-programming-languages-python-just-got-a-boost-from-facebooks-meta.md",
+      "title": "Programming languages: Python just got a boost from Facebook's Meta",
+      "excerpt": "Meta, which owns Facebook, has given $300,00 to the Python Software Foundation (PSF), the group that maintains Core Python (CPython) – the open-source programming language that powers most machine learning (ML) and artificial intelligence apps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/programming-languages-python-just-got-a-boost-from-facebooks-meta/",
+      "originalUrl": "https://www.zdnet.com/article/programming-languages-python-just-got-a-boost-from-facebooks-meta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d356be695cdf709763e99fddffcf0d879708410e/2022/03/23/d20302d3-4f81-4089-a04f-847d852941fa/guido-van-rossum-small.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/programming-languages-python-just-got-a-boost-from-facebooks-meta/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/programming-languages-python-just-got-a-boost-from-facebooks-meta/",
+      "publishedDateTime": "2022-03-23T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more.md",
+      "title": "Companies are commercializing multimodal AI models to analyze videos and more",
+      "excerpt": "Multimodal AI systems, which can understand the relationships between video, text, audio, and more, are becoming commercialized.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/22/companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more/",
+      "originalUrl": "https://venturebeat.com/2022/03/22/companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/YouTube.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/22/companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more/amp/",
+      "publishedDateTime": "2022-03-22T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-dennis-fongs-ggwp-raises-12m-for-ai-to-combat-game-toxicity.md",
+      "title": "Dennis Fong’s GGWP raises $12M for AI to combat game toxicity",
+      "excerpt": "GGWP has raised $12 million in seed funding to use AI and content moderation to reduce toxicity in online games.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/21/dennis-fongs-ggwp-raises-12m-for-ai-to-combat-game-toxicity/",
+      "originalUrl": "https://venturebeat.com/2022/03/21/dennis-fongs-ggwp-raises-12m-for-ai-to-combat-game-toxicity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/ggwp_logo_vertical.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 777,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/21/dennis-fongs-ggwp-raises-12m-for-ai-to-combat-game-toxicity/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/21/dennis-fongs-ggwp-raises-12m-for-ai-to-combat-game-toxicity/amp/",
+      "publishedDateTime": "2022-03-21T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-facebooks-meta-to-build-1b-data-center-for-metaverse.md",
+      "title": "Facebook’s Meta To Build $1B Data Center For Metaverse",
+      "excerpt": "Facebook’s parent Meta is building a $1 billion data center for its metaverse in Spain as well as a Metaverse Innovation Hub.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/data-center/facebook-s-meta-to-build-1b-data-center-for-metaverse",
+      "originalUrl": "https://www.crn.com/news/data-center/facebook-s-meta-to-build-1b-data-center-for-metaverse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0273-14aff55279f9-2f8a0aca665b-1000/meta_data_center.jpg",
+          "width": 599,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-07-how-wrongful-arrests-based-on-ai-derailed-3-mens-lives.md",
       "title": "How Wrongful Arrests Based on AI Derailed 3 Men's Lives",
       "excerpt": "Critics say police rely too heavily on the technology, particularly since research has shown it misidentifies ... impact immigrants and communities of color. Search our artificial intelligence database and discover stories by sector, tech, company, and ...",
@@ -264,6 +463,60 @@
         "AI",
         "AI Hardware",
         "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-use-directml-to-train-pytorch-machine-learning-models-on-a-pc.md",
+      "title": "Use DirectML to train PyTorch machine learning models on a PC",
+      "excerpt": "There are two parts to working with machine learning. If you have a prebuilt model, you can run it from a cloud platform such as Azure ML, using a REST API to work with its predictions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3651930/use-directml-to-train-pytorch-machine-learning-models-on-a-pc.html",
+      "originalUrl": "https://www.infoworld.com/article/3651930/use-directml-to-train-pytorch-machine-learning-models-on-a-pc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3651930/use-directml-to-train-pytorch-machine-learning-models-on-a-pc.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3651930/use-directml-to-train-pytorch-machine-learning-models-on-a-pc.amp.html",
+      "publishedDateTime": "2022-03-02T19:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
         "Facebook AI"
       ]
     },
@@ -1264,255 +1517,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-2022-healthcare-trends-will-be-driven-by-ai-wearables-and-virtual-medicine.md",
-      "title": "2022 Healthcare trends will be driven by AI, wearables and virtual medicine",
-      "excerpt": "Tech like AI, advanced telehealth systems and remote devices will be change healthcare for physicians and patients alike in the coming year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/2022-healthcare-trends-will-be-driven-by-ai-wearables-and-virtual-medicine/",
-      "originalUrl": "https://www.techrepublic.com/article/2022-healthcare-trends-will-be-driven-by-ai-wearables-and-virtual-medicine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/02/AdobeStock_476627816.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/2022-healthcare-trends-will-be-driven-by-ai-wearables-and-virtual-medicine/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/2022-healthcare-trends-will-be-driven-by-ai-wearables-and-virtual-medicine/amp/",
-      "publishedDateTime": "2022-02-08T20:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-spell-graphcore-partner-to-build-next-gen-ai-infrastructure.md",
-      "title": "Spell, Graphcore partner to build next-gen AI infrastructure",
-      "excerpt": "“We had the opportunity to highlight Spell.ml’s capabilities in a recent Cool Vendor research note, “Cool Vendors in Enterprise AI Operationalization and Engineering,” Dekate said.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/",
-      "originalUrl": "https://venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/12/istock-636754212-e1629925759866.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/amp/",
-      "publishedDateTime": "2022-02-08T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing",
-        "Microsoft AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-a-simple-guide-to-artificial-intelligence-and-machine-learning.md",
-      "title": "A SIMPLE GUIDE TO ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
-      "excerpt": "Artificial Intelligence and Machine Learning have recently become popular topics in the technology industry. But, perhaps more than in our daily lives, Artificial Intelligence (AI) impacts the business world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/simple-guide-artificial-intelligence-machine-learning-",
-      "originalUrl": "https://www.linkedin.com/pulse/simple-guide-artificial-intelligence-machine-learning-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQHsBBrN7RjH1A/article-cover_image-shrink_720_1280/0/1644319125783?e=1650499200&v=beta&t=8Os7ITqSx4sx0sTgVqqShaAo_bhOQbbxaituAPq0jRo",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T03:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-how-penguin-computing-helped-design-metas-new-ai-supercomputer.md",
-      "title": "How Penguin Computing Helped Design Meta’s New AI Supercomputer",
-      "excerpt": "Any company with the same level of financial resources as Facebook parent company Meta ... Optimized’ CPUs] In the case of Meta’s new AI Research SuperCluster, the Menlo Park, Calif.-",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/components-peripherals/how-penguin-computing-designed-meta-s-new-ai-supercomputer",
-      "originalUrl": "https://www.crn.com/slide-shows/components-peripherals/how-penguin-computing-designed-meta-s-new-ai-supercomputer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0272-1467ab4a70d6-a8fd131b3b46-1000/thierry-pellegrino-penguin.jpg",
-          "width": 610,
-          "height": 458,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-two-members-of-google-ethical-ai-research-group-left-the-company.md",
-      "title": "Two Members Of Google Ethical AI Research Group Left The Company",
-      "excerpt": "Last year, Timnit Gebru, a key person in AI ethics research, left Google. Gebru has now founded a nonprofit, and Hanna and Baker are joining him. They told Bloomberg that they could not cope with Google’s dismissals and preferred to continue working with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2022/02/two-members-google-ethical-ai-research-group-left.html",
-      "originalUrl": "https://www.androidheadlines.com/2022/02/two-members-google-ethical-ai-research-group-left.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2019-AM-AH-5.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2022/02/two-members-google-ethical-ai-research-group-left.html?amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/02/two-members-google-ethical-ai-research-group-left.html?amp",
-      "publishedDateTime": "2022-02-07T02:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

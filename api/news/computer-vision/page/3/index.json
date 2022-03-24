@@ -2,6 +2,664 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-17-clearview-ai-aims-to-put-almost-every-human-in-facial-recognition-database.md",
+      "title": "Clearview AI aims to put almost every human in facial recognition database",
+      "excerpt": "The controversial facial recognition company Clearview AI reportedly told investors that it aims to collect 100 billion photos—supposedly enough to ensure that almost every human will be in its database.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2022/02/clearview-ai-aims-to-put-almost-every-human-in-facial-recognition-database/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2022/02/clearview-ai-aims-to-put-almost-every-human-in-facial-recognition-database/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/getty-facial-scan-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-facial-recognition-firm-clearview-ai-tells-investors-its-seeking-massive-expansion-beyond-law-enforcement.md",
+      "title": "Facial recognition firm Clearview AI tells investors it’s seeking massive expansion beyond law enforcement",
+      "excerpt": "The facial recognition company Clearview AI is telling investors it is on track to have 100 billion facial photos in its database within a year, enough to ensure “almost everyone in the world will be identifiable,” according to a financial presentation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2022/02/16/clearview-expansion-facial-recognition/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2022/02/16/clearview-expansion-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZFMAIHECOAI6ZFI4DYGMG4R6KM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T11:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now.md",
+      "title": "Keep Your Gear Charged for Less: Save 40% on ESR's Popular Chargers Now",
+      "excerpt": "And that's not the only safety feature in place. Short-circuit protection means your phone is safe from any current with a little too much power, and the foreign object recognition system trips to automatically turn the charger off if a metal object other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/Fd1ERiHGfWS0b-W24NAz1IJA4MM=/1200x630/2022/02/16/c08afe44-917a-4580-b071-17a619f920b6/esr-20w-mini-pd-fast-charger-set.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
+      "publishedDateTime": "2022-02-16T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-what-the-tech-facebook-facial-recognition.md",
+      "title": "What the Tech: Facebook facial recognition",
+      "excerpt": "Thanks to our willingness to upload photos and tag ourselves and our friends, Facebook and other companies have everything they need to combine our names and faces to be identified in photos and videos using facial recognition. Texas is the latest to file ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.texomashomepage.com/what-the-tech/what-the-tech-facebook-facial-recognition/",
+      "originalUrl": "https://www.texomashomepage.com/what-the-tech/what-the-tech-facebook-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.texomashomepage.com/wp-content/uploads/sites/41/2022/01/what-the-tech-1.jpg?w=1280",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.texomashomepage.com/what-the-tech/what-the-tech-facebook-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-texomashomepage-com.cdn.ampproject.org/c/s/www.texomashomepage.com/what-the-tech/what-the-tech-facebook-facial-recognition/amp/",
+      "publishedDateTime": "2022-02-15T18:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TexomasHomepage.com",
+        "domain": "texomashomepage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-us-senators-urge-ditching-idme-face-recognition-for-unemployment-seekers.md",
+      "title": "U.S. senators urge ditching ID.me, face recognition for unemployment seekers",
+      "excerpt": "But about half of U.S. states still use ID.me, which employs a mix of facial recognition technology and video-chat interviews to confirm the identity of unemployment applicants. Activists have argued that facial recognition remains too faulty for use in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/us/us-senators-urge-ditching-idme-face-recognition-unemployment-seekers-2022-02-15/",
+      "originalUrl": "https://www.reuters.com/world/us/us-senators-urge-ditching-idme-face-recognition-unemployment-seekers-2022-02-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/nqvndH2CybKuE2pdSk8JW5SRvKU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3J3TVDV7HZMYZEUT7SJKJQRTNY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems.md",
+      "title": "AI can erase tattoos from photos to help face recognition systems",
+      "excerpt": "Artificial intelligence can accurately remove tattoos from photos of people’s faces – potentially helping face recognition systems, which can be flummoxed by such tattoos, work accurately. In previous research, Mathias Ibsen at Darmstadt University of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/",
+      "originalUrl": "https://www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2022/02/15162452/PRI_223719357.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/amp/",
+      "publishedDateTime": "2022-02-15T09:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-facial-recognition-market-report-trends-competitive-landscape-and-opportunities-latest-report-values-till-2027.md",
+      "title": "Facial Recognition Market Report Trends, Competitive Landscape and Opportunities latest report values till 2027",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 15, 2022 (Market Insight Reports) -- The Global Facial Recognition market study focuses major leading industry players with information such as company profiles ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-report-trends-competitive-landscape-and-opportunities-latest-report-values-till-2027-2022-02-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-report-trends-competitive-landscape-and-opportunities-latest-report-values-till-2027-2022-02-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T05:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-texas-sues-facebook-parent-meta-over-facial-recognition-data.md",
+      "title": "Texas sues Facebook parent Meta over facial recognition data",
+      "excerpt": "The Texas Attorney General is suing Facebook's parent company, saying it collected biometric data on Texans for commercial purposes without their informed consent. Attorney General Ken Paxton filed the lawsuit Monday in a state district court. The suit ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/facebook-meta-lawsuit-facial-recognition-texas/",
+      "originalUrl": "https://www.cbsnews.com/news/facebook-meta-lawsuit-facial-recognition-texas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/10/25/e7b38470-1eab-4e44-8a0e-66c594fe2b55/thumbnail/1200x630/d3d5261ec692183c3298778bd9a5a8ec/zuck-gettyimages-1201476983.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/facebook-meta-lawsuit-facial-recognition-texas/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facebook-meta-lawsuit-facial-recognition-texas/",
+      "publishedDateTime": "2022-02-15T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-computer-vision-system-allows-analysis-of-microscopy-videos.md",
+      "title": "Computer Vision System Allows Analysis of Microscopy Videos",
+      "excerpt": "Researchers have developed a system based on computer vision techniques that allows automatic analysis of biomedical videos captured by microscopy in order to characterise and describe the behaviour of the cells that appear in the images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/neuroscience/news/computer-vision-system-allows-analysis-of-microscopy-videos-358579",
+      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/computer-vision-system-allows-analysis-of-microscopy-videos-358579",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/358579/computer-vision-system-allows-analysis-of-microscopy-videos-358579-640x360.jpg?cb=20220215",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T02:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-texas-sues-metas-facebook-over-facial-recognition-practices.md",
+      "title": "Texas sues Meta’s Facebook over facial-recognition practices",
+      "excerpt": "WASHINGTON — The Texas attorney general’s office sued Meta’s Facebook on Monday, alleging that the social media giant violated state privacy protections with facial-recognition technology that collected the biometric data of millions of Texans ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/texas-sues-metas-facebook-facial-recognition-practices-rcna16201",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/texas-sues-metas-facebook-facial-recognition-practices-rcna16201",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 344,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-02/220214-ken-paxton-jm-1515-55d263.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna16201",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna16201",
+      "publishedDateTime": "2022-02-14T12:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-texas-lawsuit-claims-facebooks-facial-recognition-violated-user-privacy-and-broke-the-law.md",
+      "title": "Texas Lawsuit Claims Facebook's Facial Recognition Violated User Privacy and Broke the Law",
+      "excerpt": "Texas attorney general Ken Paxton has taken yet another swing at Big Tech, this time suing Meta for allegedly capturing and using facial recognition data on millions of users without their consent.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494",
+      "originalUrl": "https://gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 424,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/097c4a263d1e62634e634f40e3b2b165.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494/amp",
+      "publishedDateTime": "2022-02-14T10:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-14-texas-sues-meta-over-facebooks-facial-recognition-practices.md",
+      "title": "Texas Sues Meta Over Facebook’s Facial-Recognition Practices",
+      "excerpt": "The Texas attorney general filed a suit against Facebook parent Meta Platforms Inc. on Monday, charging that the social-media giant’s longstanding and now discontinued use of facial-recognition technology violated that state’s privacy protections for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794",
+      "originalUrl": "https://www.wsj.com/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 594,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-485400/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794",
+      "publishedDateTime": "2022-02-14T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-13-computer-vision-system-market-scope-and-overview-to-develop-with-increased-global-emphasis-on-industrialization-2029-cognex-basler-omron.md",
+      "title": "Computer Vision System Market Scope and overview, To Develop with Increased Global Emphasis on Industrialization 2029 | Cognex, Basler, Omron",
+      "excerpt": "Feb 13, 2022 (Heraldkeepers) -- Computer Vision System Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information. The data which has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-scope-and-overview-to-develop-with-increased-global-emphasis-on-industrialization-2029-cognex-basler-omron-2022-02-13?mod=search_headline",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-scope-and-overview-to-develop-with-increased-global-emphasis-on-industrialization-2029-cognex-basler-omron-2022-02-13?mod=search_headline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-12T23:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-13-understanding-the-technology-behind-traffic-sign-recognition-tsr-systems.md",
+      "title": "Understanding the Technology behind Traffic Sign Recognition (TSR) Systems",
+      "excerpt": "It can be used in manufacturing as a part of quality control, object recognition, a way to navigate a mobile robot, or as a way to detect edges in images. To identify the matching area, we have to compare the template image against the source image by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
+      "originalUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-12T13:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-12-quad-air-drone-reviews-is-the-quadair-drone-legit.md",
       "title": "Quad Air Drone Reviews: Is The QuadAir Drone Legit?",
       "excerpt": "It will thrive despite strong winds. Features of good design on QuadAir include an object recognition system. Its unparalleled power and benefits come from the latest technology, as well as the use of state-of-the-art cameras. Using a clever design ...",
@@ -724,673 +1382,6 @@
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-the-irs-backs-down-from-facial-recognition-plan-to-verify-identities.md",
-      "title": "The IRS backs down from facial recognition plan to verify identities",
-      "excerpt": "Monday, the IRS announced plans to drop a controversial step to use facial recognition to verify IDs online. The IRS said that it will move away from using a third-party service that used facial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/money/2022/02/07/irs-facial-recognition-verify-identity/6697761001/",
-      "originalUrl": "https://www.usatoday.com/story/money/2022/02/07/irs-facial-recognition-verify-identity/6697761001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/02/19/PDTF/3466aa37-5cae-4dfb-a67f-dd4213b3942b-AP_Microsoft_IRS_Tax_Dispute.jpg?auto=webp&crop=4568,2570,x0,y30&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T16:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-state-farm-claims-app-adds-object-recognition-for-simple-submission.md",
-      "title": "State Farm claims app adds object recognition for simple submission",
-      "excerpt": "Furthermore, with object recognition now available to State Farm app users, the amount of typing is substantially decreased, and the possibility for discretion is eliminated. In the case of an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.retaildive.com/ex/mobilecommercedaily/state-farm-claims-app-adds-object-recognition-for-simple-submission",
-      "originalUrl": "https://www.retaildive.com/ex/mobilecommercedaily/state-farm-claims-app-adds-object-recognition-for-simple-submission",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Retail Dive",
-        "domain": "retaildive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-irs-to-stop-using-facial-recognition-for-identity-verification.md",
-      "title": "IRS to stop using facial recognition for identity verification",
-      "excerpt": "The IRS will stop using a controversial third-party service for facial recognition to verify identity for online accounts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/02/07/irs-to-stop-using-facial-recognition-for-identity-verification.html",
-      "originalUrl": "https://www.cnbc.com/2022/02/07/irs-to-stop-using-facial-recognition-for-identity-verification.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 529,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106888859-1622060828895-gettyimages-1231812116-IRS_TAX.jpeg?v=1630653821",
-          "width": 3600,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/02/07/irs-to-stop-using-facial-recognition-for-identity-verification.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/07/irs-to-stop-using-facial-recognition-for-identity-verification.html",
-      "publishedDateTime": "2022-02-07T15:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-irs-drops-facial-recognition-verification-after-privacy-concerns.md",
-      "title": "IRS drops facial recognition verification after privacy concerns",
-      "excerpt": "The IRS said Monday it will not use facial recognition to verify the identities of users of its site. Instead, it will implement other means to validate taxpayers' information, and says this change will not impact the current tax season. It follows the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/personal-finance/irs-drops-facial-recognition-verification-after-privacy-concerns/",
-      "originalUrl": "https://www.cnet.com/personal-finance/irs-drops-facial-recognition-verification-after-privacy-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 589,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/fqBMSABQmuJ8J_k4DBf7z7He9lU=/0x278:4000x2525/1200x630/2020/07/14/02e69693-df4d-4af1-b15c-9c97b90797f9/tax-day-4039.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/irs-drops-facial-recognition-verification-after-privacy-concerns/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/irs-drops-facial-recognition-verification-after-privacy-concerns/",
-      "publishedDateTime": "2022-02-07T14:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities.md",
-      "title": "IRS Backs Away From Facial Recognition to Verify Taxpayers’ Identities",
-      "excerpt": "WASHINGTON—The Internal Revenue Service is backing off use of a plan with a private facial-recognition system to authenticate taxpayers’ identities for online accounts, the agency said Monday after criticism from lawmakers in both parties over privacy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
-      "originalUrl": "https://www.wsj.com/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 659,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-481379/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
-      "publishedDateTime": "2022-02-07T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-facial-recognition-technology-falsely-identifies-women-more-than-men-find-out-why.md",
-      "title": "Facial Recognition Technology falsely identifies women more than men, find out why?",
-      "excerpt": "They analyzed two FR software, the first, Amazon Rekognition and the second Dlib. The research found that while Amazon’s software could recognize white men at a 99.06% accuracy, white women at a 92.9% accuracy, while Women of Color (WOC) were recognized ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/facial-recognition-technology-falsely-identifies-women-gajjala",
-      "originalUrl": "https://www.linkedin.com/pulse/facial-recognition-technology-falsely-identifies-women-gajjala",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQFrsrOwHTdvxQ/article-cover_image-shrink_600_2000/0/1644250595904?e=1650499200&v=beta&t=ReKSxGMFF90jQ66zuUDk_I6UpXSDihItcJ1_F3DMnao",
-          "width": 587,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T08:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-regulation-of-facial-recognition-technology-proving-difficult.md",
-      "title": "Regulation of facial recognition technology proving difficult",
-      "excerpt": "Policymakers in Montana have spent part of the legislative interim working to understand how best to regulate facial recognition technology, a rapidly emerging but poorly understood field with numerous potential government applications and significant ...",
-      "sourceUrl": null,
-      "webUrl": "https://missoulacurrent.com/government/2022/02/facial-recognition-technology/",
-      "originalUrl": "https://missoulacurrent.com/government/2022/02/facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://missoulacurrent.com/wp-content/uploads/2016/02/data-numbers-carlos-castilla-shutterstock_114969346-1.jpg",
-          "width": 1200,
-          "height": 813,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Missoula Current",
-        "domain": "missoulacurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-06-how-computer-vision-can-create-smart-transportation-systems.md",
-      "title": "How Computer Vision Can Create Smart Transportation Systems",
-      "excerpt": "Bustling cities need the requisite transportation networks that can keep them running smoothly. AI and computer vision-powered smart transportation enables smart cities to achieve that objective with ease.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/06/how-computer-vision-can-create-smart-transportation-systems/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/06/how-computer-vision-can-create-smart-transportation-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blogs-images.forbes.com/cognitiveworld/files/2018/08/Naveen-Joshi_avatar_1533314616-400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/06/how-computer-vision-can-create-smart-transportation-systems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/02/06/how-computer-vision-can-create-smart-transportation-systems/amp/",
-      "publishedDateTime": "2022-02-05T20:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-air-force-taps-clearview-ai-to-research-face-identifying-augmented-reality-glasses.md",
-      "title": "Air Force taps Clearview AI to research face-identifying augmented reality glasses.",
-      "excerpt": "By Kashmir Hill The U.S. Air Force is looking into keeping its airfields safer with help from the facial recognition start-up Clearview AI. The Air Force Research Laboratory awarded Clearview $49,847 to research augmented reality glasses that could scan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.html",
-      "originalUrl": "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/02/03/multimedia/03economy-briefing-clearview/03economy-briefing-clearview-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html",
-      "publishedDateTime": "2022-02-03T17:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-neuroscientists-use-deep-learning-model-to-simulate-brain-topography.md",
-      "title": "Neuroscientists use deep learning model to simulate brain topography",
-      "excerpt": "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/brain.jpg",
-          "width": 1920,
-          "height": 1462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp",
-      "publishedDateTime": "2022-02-03T12:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-ai-in-computer-vision-market-size-share-top-key-players-industry-growth-trends-and-forecast-2028.md",
-      "title": "AI In Computer Vision Market Size, Share, Top Key Players, Industry Growth, Trends and Forecast 2028",
-      "excerpt": "Feb 03, 2022 (Heraldkeepers) -- Global AI In Computer Vision Market report spotlights major statistics of the current industry state and is a beneficial source of developments and opportunities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-top-key-players-industry-growth-trends-and-forecast-2028-2022-02-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-top-key-players-industry-growth-trends-and-forecast-2028-2022-02-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-02T22:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-game-changing-facial-recognition-technology-is-now-being-used-by-eps.md",
-      "title": "'Game changing' facial recognition technology is now being used by EPS",
-      "excerpt": "Edmonton police say they have already been able to see the benefits of the facial recognition technology they recently began to use.",
-      "sourceUrl": null,
-      "webUrl": "https://edmonton.ctvnews.ca/game-changing-facial-recognition-technology-is-now-being-used-by-eps-1.5763504",
-      "originalUrl": "https://edmonton.ctvnews.ca/game-changing-facial-recognition-technology-is-now-being-used-by-eps-1.5763504",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/local/edmonton/2022/2/1/1_5763504/_jcr_content/root/responsivegrid/image.coreimg.png",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/edmonton/2022/2/1/1_5763504.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2022/2/1/1_5763504.amp.html",
-      "publishedDateTime": "2022-02-01T14:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-idme-facial-recognition.md",
-      "title": "Civil rights groups launch effort to stop IRS use of 'flawed' ID.me facial recognition",
-      "excerpt": "Multiple groups have come together to urge the IRS to stop its use of facial recognition software. Outrage continues to swirl around a proposed plan from the Treasury Department to require some taxpayers to submit to facial recognition and biometric surveillance in order to access their accounts online.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/",
-      "originalUrl": "https://www.zdnet.com/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/",
-      "publishedDateTime": "2022-02-01T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-mongodbs-co-founder-is-trying-to-universalize-robotic-deployment.md",
-      "title": "MongoDB’s co-founder is trying to universalize robotic deployment",
-      "excerpt": "To this end they are developing a series of core components, such as object recognition, navigation and gripping,” USV managing partner Albert Wenger said in a post tied to last year’s seed.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/",
-      "originalUrl": "https://techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1160976646.jpg?w=1024",
-          "width": 1024,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/amp/",
-      "publishedDateTime": "2022-02-01T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

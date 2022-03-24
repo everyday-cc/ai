@@ -2,6 +2,1204 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-02-05-chinese-scientists-build-robot-nanny-to-care-for-babies-in-artificial-womb.md",
+      "title": "Chinese scientists build robot nanny to care for babies in artificial womb",
+      "excerpt": "Scientists in China have created a robotic artificial intelligence system to monitor and care for ... Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp",
+      "originalUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/01/31/16/robot%20nanny%20china.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp",
+      "publishedDateTime": "2022-02-04T11:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-05-innovations-in-robotics-ai-will-continue-to-power-this-etf.md",
+      "title": "Innovations in Robotics, AI Will Continue to Power This ETF",
+      "excerpt": "More innovation in robotics and artificial intelligence could bloom out of healthy competition, which could power the First Trust Nasdaq Artificial Intelligence and Robotics ETF (ROBT) even further. The disruptive space, highlighted by robots and AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/innovations-in-robotics-ai-will-continue-to-power-this-etf",
+      "originalUrl": "https://www.nasdaq.com/articles/innovations-in-robotics-ai-will-continue-to-power-this-etf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/innovations-in-robotics-ai-will-continue-to-power-this-etf?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/innovations-in-robotics-ai-will-continue-to-power-this-etf?amp",
+      "publishedDateTime": "2022-02-04T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-training-the-robot-scientist-to-synthesize-nanocrystals.md",
+      "title": "Training the Robot Scientist to Synthesize Nanocrystals",
+      "excerpt": "Image Credit: Georgy Shafeev/Shutterstock.com The Robotic Scientist framework is taught to fabricate gold nanocrystals by using multidisciplinary domains such as artificial intelligence, automated robotics, and big data. Data-guided development of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.azonano.com/news.aspx?newsID=38638",
+      "originalUrl": "https://www.azonano.com/news.aspx?newsID=38638",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1otjdv2bf0507.cloudfront.net/images/news/ImageForNews_38638_16439817545231997.jpg",
+          "width": 1000,
+          "height": 751,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azonano.com/amp/news.aspx?newsID=38638",
+      "cdnAmpWebUrl": "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/news.aspx?newsID=38638",
+      "publishedDateTime": "2022-02-04T05:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZoNano",
+        "domain": "azonano.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-most-read-articles-eus-chips-act-honeybee-robotics-5g.md",
+      "title": "Most Read articles – EU’s Chips Act, Honeybee Robotics, 5G",
+      "excerpt": "Blue Origin buying Honeybee Robotics and the EU’s Chips Act… 5. NEC buys Blue Danube NEC has bought Blue Danube Systems, a U.S.-based provider of CBRS/4G/5G RAN products and AI/ML-based software solutions that help mobile operators address 5G network ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-articles-eus-chips-act-honeybee-robotics-5g-2022-02/",
+      "originalUrl": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-articles-eus-chips-act-honeybee-robotics-5g-2022-02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.electronicsweekly.com/wp-content/uploads/sites/5/2013/04/7-micro-gan-6-in-wafer-with-high-voltage-power-transitors.jpg",
+          "width": 534,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-04T03:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics Weekly",
+        "domain": "electronicsweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-artificial-intelligence-chipsets-market-size-application-and-future-forecast-by-2026.md",
+      "title": "Artificial Intelligence Chipsets Market Size: Application and Future Forecast by 2026",
+      "excerpt": "Artificial Intelligence Chipsets Market size is set to surpass USD 70 billion by 2026, according to a new research report by Global Market Insights, Inc. The Artificial Intelligence Chipsets (AI) Market growth is ascribed to massive growth of e-commerce as well as social media platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-application-and-future-forecast-by-2026-2022-02-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-application-and-future-forecast-by-2026-2022-02-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-03T22:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-why-collaborative-robots-are-spiking-in-sales.md",
+      "title": "Why Collaborative Robots Are Spiking in Sales",
+      "excerpt": "Our hands are great, and they work well with the mind,” said Fitzgerald. “For robotics, Robotiq makes great grippers ... Rob Spiegel has covered automation and control for 17 years, 15 of them for Design News. Other topics he has covered include ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/why-collaborative-robots-are-spiking-sales",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/why-collaborative-robots-are-spiking-sales",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Rethink_0.jpg",
+          "width": 251,
+          "height": 201,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-us-tests-robot-dogs-to-patrol-southern-border.md",
+      "title": "U.S. tests \"robot dogs\" to patrol southern border",
+      "excerpt": "A robot modeled after man's best friend may one day help patrol the U.S. southern border. \"Don't be surprised if in the future we see robot 'Fido' out in the field, walking side by side with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/robot-dogs-to-patrol-southern-border-ghost-robotics/",
+      "originalUrl": "https://www.cbsnews.com/news/robot-dogs-to-patrol-southern-border-ghost-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2022/02/03/e571f339-cfe0-4783-9956-e6387ba7c98f/thumbnail/1200x630/98ac0ff781f87aa7f997488bbdf3da0b/22-0201-st-fa-robot-dog8-0.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/robot-dogs-to-patrol-southern-border-ghost-robotics/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/robot-dogs-to-patrol-southern-border-ghost-robotics/",
+      "publishedDateTime": "2022-02-03T13:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-artificial-intelligence-ai-robots-market-key-players-industry-outlook-trends-share-industry-size-growth-opportunities-forecast-to-2027.md",
+      "title": "Artificial Intelligence (AI) Robots Market Key Players, Industry Outlook, Trends, Share, Industry Size, Growth, Opportunities, Forecast To 2027",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 03, 2022 (Heraldkeepers) -- Artificial Intelligence in Robots Market size is expected to reach US$ 30.44 Bn. by 2026, at a CAGR of 31.78% during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-key-players-industry-outlook-trends-share-industry-size-growth-opportunities-forecast-to-2027-2022-02-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-key-players-industry-outlook-trends-share-industry-size-growth-opportunities-forecast-to-2027-2022-02-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-03T01:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-influencer-robotics-and-the-other-fastest-growing-jobs-in-the-nation.md",
+      "title": "Influencer, robotics and the other fastest-growing jobs in the nation",
+      "excerpt": "Overall, the big winners on job growth for non-degree jobs are in social media, green jobs, automation and robotics. In jobs with degrees, artificial intelligence consultant saw the biggest increase in job postings over the last five years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/dayton/news/2022/02/02/fastest-growing-jobs-influencer-robotics.html",
+      "originalUrl": "https://www.bizjournals.com/dayton/news/2022/02/02/fastest-growing-jobs-influencer-robotics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-02T19:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-robots-are-displacing-manual-labor-jobs.md",
+      "title": "Robots Are Displacing Manual Labor Jobs",
+      "excerpt": "While the panelists agreed that robots will replace may of the jobs that Leavitt referred to as “mind-numbing repetitive manual labor ... Rob Spiegel has covered automation and control for 17 years, 15 of them for Design News. Other topics he has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/robots-are-displacing-manual-labor-jobs",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/robots-are-displacing-manual-labor-jobs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/styles/article_featured_standard/public/download_3.jpg?itok=8H3bGPP8",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-02T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-people-prefer-interacting-with-female-robots-in-hotels.md",
+      "title": "People prefer interacting with female robots in hotels",
+      "excerpt": "People are more comfortable talking to female rather than male robots working in service roles in hotels, according to a study by Washington State University researcher Soobin Seo.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-02-people-interacting-female-robots-hotels.html",
+      "originalUrl": "https://techxplore.com/news/2022-02-people-interacting-female-robots-hotels.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/female-robot.jpg",
+          "width": 2880,
+          "height": 1908,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-02-people-interacting-female-robots-hotels.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-people-interacting-female-robots-hotels.amp",
+      "publishedDateTime": "2022-02-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-should-robots-be-able-to-deliver-booze.md",
+      "title": "Should robots be able to deliver booze?",
+      "excerpt": "Greg Nichols covers robotics, AI, and AR/VR for ZDNet ... solutions for our users to ensure their safety and peace of mind on our trusted platform.\" Of course, problems abound with the scheme.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/should-robots-be-able-to-deliver-booze/",
+      "originalUrl": "https://www.zdnet.com/article/should-robots-be-able-to-deliver-booze/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/2a8dbc068e88efc8eb09519fc5224e25446f0cc6/2022/01/23/3b2392e8-786b-46f3-bfc6-b430a1db722a/starship.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/should-robots-be-able-to-deliver-booze/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/should-robots-be-able-to-deliver-booze/",
+      "publishedDateTime": "2022-02-02T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-electric-sheep-turns-old-lawnmowers-into-robots.md",
+      "title": "Electric Sheep turns old lawnmowers into robots",
+      "excerpt": "A company that turns old lawn tech into state of the art robots got a big vote of confidence via major fundraising. Electric Sheep, whose name harkens to the Philip K. Dick novel upon which Blade Runner was based,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/electric-sheep-turns-old-lawnmowers-into-robots/",
+      "originalUrl": "https://www.zdnet.com/article/electric-sheep-turns-old-lawnmowers-into-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/50cd2f0335ec51b3848ec4da8142562e1997afe7/2022/01/31/b2d2f6d3-9281-43a6-b128-0c1004d57be6/electric-sheep.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/electric-sheep-turns-old-lawnmowers-into-robots/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/electric-sheep-turns-old-lawnmowers-into-robots/",
+      "publishedDateTime": "2022-02-02T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-how-mits-new-ai-system-lets-you-control-a-robot-with-your-mind.md",
+      "title": "How MIT’s new AI system lets you control a robot with your mind",
+      "excerpt": "How MIT’s new AI system lets you control a robot with your mind Your email has been sent A new machine learning system developed by MIT and Boston University offers a feedback system for humans ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-mits-new-ai-system-lets-you-control-a-robot-with-your-mind/",
+      "originalUrl": "https://www.techrepublic.com/article/how-mits-new-ai-system-lets-you-control-a-robot-with-your-mind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2017/03/y6rgz2-2.gif?x23932",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/how-mits-new-ai-system-lets-you-control-a-robot-with-your-mind/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/how-mits-new-ai-system-lets-you-control-a-robot-with-your-mind/amp/",
+      "publishedDateTime": "2022-02-01T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-01-here-come-the-underdogs-of-the-robot-olympics.md",
+      "title": "Here Come the Underdogs of the Robot Olympics",
+      "excerpt": "They’re meant to draw talent from beyond the hermetic world of military R&D and jump-start innovation on very hard problems ... and the software packages to power them, plus the AI to decide whether that black spot is solid ground or a precipitous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/darpa-challenge-robot-olympics-underdog/",
+      "originalUrl": "https://www.wired.com/story/darpa-challenge-robot-olympics-underdog/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61f853d9a098d1434bc85a47/master/pass/2022_01_17_WIRED_DARPA_SubT_ROBOTS_206_FNL-FA.jpg",
+          "width": 2400,
+          "height": 1647,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/darpa-challenge-robot-olympics-underdog/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/darpa-challenge-robot-olympics-underdog/amp",
+      "publishedDateTime": "2022-02-01T03:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-human-borgs-how-artificial-intelligence-can-kill-creativity-and-make-us-dumber.md",
+      "title": "Human Borgs: How Artificial Intelligence Can Kill Creativity And Make Us Dumber",
+      "excerpt": "New experimental research shows that artificial intelligence should be used with caution as a decision support tool for human decision making.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nelsongranados/2022/01/31/human-borgs-how-artificial-intelligence-can-kill-creativity-and-make-us-dumber/",
+      "originalUrl": "https://www.forbes.com/sites/nelsongranados/2022/01/31/human-borgs-how-artificial-intelligence-can-kill-creativity-and-make-us-dumber/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f7da97908bf6944864d942/0x0.jpg?format=jpg&crop=1533,781,x227,y55,safe&fit=crop",
+          "width": 1533,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nelsongranados/2022/01/31/human-borgs-how-artificial-intelligence-can-kill-creativity-and-make-us-dumber/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nelsongranados/2022/01/31/human-borgs-how-artificial-intelligence-can-kill-creativity-and-make-us-dumber/amp/",
+      "publishedDateTime": "2022-01-31T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-ocean-exploration-with-advanced-underwater-robotics.md",
+      "title": "Ocean Exploration With Advanced Underwater Robotics",
+      "excerpt": "With optimised techniques and machine learning, underwater robots can be created that mimic the movement and manoeuvrability of fish",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics",
+      "originalUrl": "https://www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/01/swim-carlingfish.jpg",
+          "width": 500,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics/amp",
+      "publishedDateTime": "2022-01-31T02:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-5-ways-aws-robomaker-is-transforming-the-robot-programming-game.md",
+      "title": "5 ways AWS RoboMaker is transforming the robot programming game",
+      "excerpt": "5: Giving educators a machine learning tool Amazon revealed a new hardware product at AWS re:Invent: DeepRacer. It’s a 1:18 scale race car that uses reinforcement learning to teach it to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/5-ways-aws-robomaker-is-transforming-the-robot-programming-game/",
+      "originalUrl": "https://www.techrepublic.com/article/5-ways-aws-robomaker-is-transforming-the-robot-programming-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2018/11/amazon-aws-deepracer.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/5-ways-aws-robomaker-is-transforming-the-robot-programming-game/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/5-ways-aws-robomaker-is-transforming-the-robot-programming-game/amp/",
+      "publishedDateTime": "2022-01-30T21:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-30-top-rated-robot-vacuums-to-make-cleaning-a-dream.md",
+      "title": "Top-rated robot vacuums to make cleaning a dream",
+      "excerpt": "Image: Myer. This robot vac from MyGenie has a super affordable price tag, and still boasts a 4.2 star average rating. It can be controlled via your phone or tablet, and features intelligent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news.com.au/best-of/electronics/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857",
+      "originalUrl": "https://www.news.com.au/best-of/electronics/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.api.news/v3/images/bin/f8fc75011a0964af1c81d82401f7f44b",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news.com.au/best-of/electronics/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857?amp",
+      "cdnAmpWebUrl": "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/best-of/electronics/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857?amp",
+      "publishedDateTime": "2022-01-30T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News.com.au",
+        "domain": "news.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-slow-but-steady-robots-take-to-the-field.md",
+      "title": "Slow but steady robots take to the field",
+      "excerpt": "Intelligent navigation-based automation is redefining the farmer’s humble tractor to robotic status. This results in significantly ... requires the highest levels of navigational accuracy, control and safety. For farming applications, this typically ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gpsworld.com/slow-but-steady-robots-take-to-the-field/",
+      "originalUrl": "https://www.gpsworld.com/slow-but-steady-robots-take-to-the-field/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gpsworld.com/wp-content/uploads/2022/01/Kubota-Planter-F.jpg",
+          "width": 736,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-28T09:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GPS World",
+        "domain": "gpsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-study-uses-artificial-intelligence-to-understand-lung-and-bronchus-cancer-mortality-rates.md",
+      "title": "Study uses artificial intelligence to understand lung and bronchus cancer mortality rates",
+      "excerpt": "Research explores how impact of known risk factors for lung and bronchus cancer mortality varies spatially across US. By the University at Buffalo. Many people think of robots whe",
+      "sourceUrl": null,
+      "webUrl": "https://www.wnypapers.com/news/article/category/2022/01/27/149558/study-uses-artificial-intelligence-to-understand-lung-and-bronchus-cancer-mortality-rates",
+      "originalUrl": "https://www.wnypapers.com/news/article/category/2022/01/27/149558/study-uses-artificial-intelligence-to-understand-lung-and-bronchus-cancer-mortality-rates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wnypapers.com/templates/custom/niagara-publications-2020/images/share-nfp.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T16:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Niagara Frontier Publications",
+        "domain": "wnypapers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-humanoid-robot-is-teslas-most-important-product-this-year-musk-says.md",
+      "title": "Humanoid robot is Tesla's 'most important product' this year, Musk says",
+      "excerpt": "Tesla CEO Elon Musk has his eyes set on more than just building electric cars. In the company's fourth-quarter earnings call on Wednesday, Musk said Tesla's \"most important product\" it would be developing this year did not have wheels,",
+      "sourceUrl": null,
+      "webUrl": "https://www.kvue.com/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae",
+      "originalUrl": "https://www.kvue.com/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.kvue.com/assets/CCT/images/fb31ea82-4aed-4d8a-a622-7e5fdfe244b6/fb31ea82-4aed-4d8a-a622-7e5fdfe244b6_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kvue.com/amp/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae",
+      "cdnAmpWebUrl": "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae",
+      "publishedDateTime": "2022-01-27T09:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KVUE",
+        "domain": "kvue.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-in-2022.md",
+      "title": "Tesla News: Automaker Prioritizes New Humanoid Robot Over Vehicle Models In 2022",
+      "excerpt": "Tesla is prioritizing the development of a humanoid robot over its vehicles in 2022 and it will be designed to perform dangerous, repetitive, or physical tasks only humans can complete.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909",
+      "originalUrl": "https://www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dc.newsweek.com/en/full/2043470/how-did-elon-musk-become-times-person-year.jpg",
+          "width": 2500,
+          "height": 1720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909?amp=1",
+      "publishedDateTime": "2022-01-27T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-elon-musk-tesla-is-prioritizing-product-development-of-optimus-humanoid-robot-in-2022.md",
+      "title": "Elon Musk: Tesla is prioritizing product development of Optimus humanoid robot in 2022",
+      "excerpt": "Elon Musk announced that Tesla is going to be shifting its product development to make Tesla Bot, a humanoid robot also known as Optimus, a priority in 2022. This is quite a surprising change of strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/",
+      "originalUrl": "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-Bot-Hero-china.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/amp/",
+      "publishedDateTime": "2022-01-27T04:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-artificial-intelligence-why-you-cant-afford-to-ignore-it-any-longer.md",
+      "title": "Artificial Intelligence: Why you can’t afford to ignore it any longer",
+      "excerpt": "By Jonathan Bowdler, Head of Regulatory, ICA Once, public understanding of artificial intelligence (AI) derived only from science-fiction novels and cinema – various Terminators, I, Robot, Blade Runne",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-why-you-cant-afford-ignore-any-longer-",
+      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-why-you-cant-afford-ignore-any-longer-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQH5vtW0CA0HMA/article-cover_image-shrink_720_1280/0/1643205321176?e=1649289600&v=beta&t=HL2K_Wn7U9uYkGDBaSHaa2coLRo-lWpi3dIAzvssdC4",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-best-robot-vacuum-2022.md",
+      "title": "Best Robot Vacuum 2022",
+      "excerpt": "Not the only measure, mind you ... It’s up to you whether those remote control conveniences are worth the extra price. Mapping features: Cheaper robots tend to head in a random direction ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ign.com/articles/best-robot-vacuum",
+      "originalUrl": "https://www.ign.com/articles/best-robot-vacuum",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.ignimgs.com/2019/08/12/robot-vacuums-1565622632427_160w.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-26T19:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-27-ros-vs-ros-2-differences-and-practical-applications.md",
       "title": "ROS vs. ROS 2: Differences and Practical Applications",
       "excerpt": "and tools to create applications for robots. The platform offers services for a heterogeneous computer cluster such as hardware abstraction, device control, implementation of functionalities ...",
@@ -172,1252 +1370,6 @@
         "AI",
         "AI in Sales",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-takara-tomys-remote-control-robo-q-robot-is-tiny-incredibly-cute.md",
-      "title": "Takara Tomy's remote control robo-Q robot is tiny, incredibly cute",
-      "excerpt": "You see, the February-bound robo-Q bipedal robot is about the size of a human thumb, yet its heart and mind are big enough to understand commands via remote control. There's even obstacle ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2009-01-26-takara-tomys-remote-control-robo-q-robot-is-tiny-incredibly-cu.html",
-      "originalUrl": "https://www.engadget.com/2009-01-26-takara-tomys-remote-control-robo-q-robot-is-tiny-incredibly-cu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/oMZyEz1ppGI0FM6wRpNWoQ--~B/aD00MjE7dz01MDA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2009/01/robo-qphoto1_small.jpg",
-          "width": 500,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/2009-01-26-takara-tomys-remote-control-robo-q-robot-is-tiny-incredibly-cu.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2009-01-26-takara-tomys-remote-control-robo-q-robot-is-tiny-incredibly-cu.html",
-      "publishedDateTime": "2022-01-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-what-happens-when-computers-start-programming-us.md",
-      "title": "What Happens When Computers Start Programming Us?",
-      "excerpt": "researchers at the University of Pittsburgh designed a robotic arm that Nathan can control with his mind. Nathan has very little control of his own arms. The remote robotic arm can perform many ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/venturecapitaldigest/2022/01/what-happens-when-computers-start-programming-us/",
-      "originalUrl": "https://investorplace.com/venturecapitaldigest/2022/01/what-happens-when-computers-start-programming-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2022/01/shirk-1-25-2.png",
-          "width": 600,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/venturecapitaldigest/2022/01/what-happens-when-computers-start-programming-us/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/venturecapitaldigest/2022/01/what-happens-when-computers-start-programming-us/amp/",
-      "publishedDateTime": "2022-01-25T12:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-sri-on-the-future-of-robotics.md",
-      "title": "SRI on the future of robotics",
-      "excerpt": "Thomas Low, the director of the robotics laboratory at SRI International, writes about what roles robotics will grow into in coming years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/sri-on-the-future-of-robotics/",
-      "originalUrl": "https://www.therobotreport.com/sri-on-the-future-of-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/01/featured-web-da-vinci.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T09:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-robotics-startups-seek-to-build-a-better-self-driving-lawn-mower.md",
-      "title": "Robotics Startups Seek to Build a Better Self-Driving Lawn Mower",
-      "excerpt": "Tiger Global led an investment in Electric Sheep Robotics, which makes a device for large-scale, autonomous commercial mowers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2022-01-25/autonomous-lawn-mowers-are-a-new-fixation-for-robotics-startups",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2022-01-25/autonomous-lawn-mowers-are-a-new-fixation-for-robotics-startups",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBKA7J7cqqvo/v1/1200x676.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-arjit-nanda-and-miraan-rai-bring-robotics-and-ai-to-reimagine-household-chores.md",
-      "title": "Arjit Nanda and Miraan Rai bring robotics and AI to reimagine household chores",
-      "excerpt": "They have named their venture - AM Innomates, and their first product is AM Dustbin. A smart combination of automatic and manual controls to lift the lid of the bin and is a pioneer in the Indian mark",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/brand-post/arjit-nanda-and-miraan-rai-bring-robotics-and-ai-to-reimagine-household-chores-101643109312459.html",
-      "originalUrl": "https://www.hindustantimes.com/brand-post/arjit-nanda-and-miraan-rai-bring-robotics-and-ai-to-reimagine-household-chores-101643109312459.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/01/25/1600x900/02_1643109717177_1643109727318.jpg",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/brand-post/arjit-nanda-and-miraan-rai-bring-robotics-and-ai-to-reimagine-household-chores-101643109312459-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-post/arjit-nanda-and-miraan-rai-bring-robotics-and-ai-to-reimagine-household-chores-101643109312459-amp.html",
-      "publishedDateTime": "2022-01-25T03:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-the-best-robotic-lawn-mowers-for-2022.md",
-      "title": "The best robotic lawn mowers for 2022",
-      "excerpt": "You can control this lawn care device through your ... and more. Yes. Keep in mind that a robotic mower may not offer the same power and features as a traditional push mower, gas- or electric ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/best-robot-lawnmowers/",
-      "originalUrl": "https://www.digitaltrends.com/home/best-robot-lawnmowers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/81avkxoa8rl-_ac_sl1500_.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-lawnmowers/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-lawnmowers/?amp",
-      "publishedDateTime": "2022-01-25T01:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-video-robot-driven-video-screens-bring-entertainment-to-sea.md",
-      "title": "Video: Robot-Driven Video Screens Bring Entertainment to Sea",
-      "excerpt": "While robotic entertainment may have a big Gee Wiz factor, it still relies heavily on features developed for plant automation. \"Keep in mind that robots were conceived and designed to boost production output and quality,\" said Hunt. \"The first few times I ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/video-robot-driven-video-screens-bring-entertainment-sea",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/video-robot-driven-video-screens-bring-entertainment-sea",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/RC-Robo-Illustration.jpg",
-          "width": 500,
-          "height": 301,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-5-trends-to-watch-in-2022-robotics.md",
-      "title": "5 Trends to Watch in 2022 Robotics",
-      "excerpt": "Growing Investment in Robotics Companies – Investors continue funding the latest robotics innovations in various industries, including the medical, manufacturing, logistics, hospitali",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/5-trends-to-watch-2022-robotics",
-      "originalUrl": "https://www.natlawreview.com/article/5-trends-to-watch-2022-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/5-trends-to-watch-2022-robotics?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/5-trends-to-watch-2022-robotics?amp",
-      "publishedDateTime": "2022-01-24T11:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-western-new-england-university-debuts-oscar-sort-intuitive-trash-robot.md",
-      "title": "Western New England University Debuts Oscar Sort Intuitive Trash Robot",
-      "excerpt": "Western New England University (WNE) is the first U.S. institution of higher education to feature Oscar Sort, an AI-driven, intuitive, trash-sorting robot. This intuitive robot educates the campus community at the point of recycling and disposal and helps them to better understand how waste is measured,",
-      "sourceUrl": null,
-      "webUrl": "https://businesswest.com/blog/western-new-england-university-debuts-oscar-sort-intuitive-trash-robot/",
-      "originalUrl": "https://businesswest.com/blog/western-new-england-university-debuts-oscar-sort-intuitive-trash-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://businesswest.com/wp-content/gallery/women-of-impact-luncheon-2019/WOI-BW-DANIFINECOMMERCIAL-2019-SHERATON-SPRINGFIELD-MA-175.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T04:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BusinessWest",
-        "domain": "businesswest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-why-your-next-home-will-be-built-by-robots.md",
-      "title": "Why Your Next Home Will Be Built By Robots",
-      "excerpt": "A quiet revolution is occurring in the systems used to create modern housing. The new twist on an old method is called volumetric modular manufacturing (VMM).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61ead0c48891970940d30501/0x0.jpg?format=jpg&crop=3524,2348,x829,y0,safe&fit=crop",
-          "width": 3524,
-          "height": 2348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/amp/",
-      "publishedDateTime": "2022-01-24T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities.md",
-      "title": "Australian Space Agency believes existing robotics can be used for terrestrial activities",
-      "excerpt": "Robotics used in mining, for instance, could provide sustainable solutions for space exploration, the agency said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
-      "originalUrl": "https://www.zdnet.com/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/dc3b79f93d7c9d39148f428678cf93140ee41f9e/2022/01/23/fce9aace-98b8-42a2-8b9a-ec1c7daf4607/robotic-roadmap.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
-      "publishedDateTime": "2022-01-23T16:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-global-artificial-intelligence-delivery-robot-market-2021-development-analysis-strategic-outlook-growth-rate-and-forecast-to-2027.md",
-      "title": "Global Artificial Intelligence Delivery Robot Market 2021 Development Analysis, Strategic Outlook, Growth Rate and Forecast to 2027",
-      "excerpt": "Global Artificial Intelligence Delivery Robot Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 divides the market industry on the basis of the regions by growth, product types,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-delivery-robot-market-2021-development-analysis-strategic-outlook-growth-rate-and-forecast-to-2027-2022-01-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-delivery-robot-market-2021-development-analysis-strategic-outlook-growth-rate-and-forecast-to-2027-2022-01-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-23T13:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-23-neurable-wants-to-let-you-control-any-device-with-your-mind.md",
-      "title": "Neurable Wants to Let You Control Any Device With Your Mind",
-      "excerpt": "There were no handheld controllers, mice, motion trackers, or keyboards, no HP Z Backpack computers, no robots ... just a chair ... Neurable's mission – “creating a world without limits,” where control over any device is a simple thought away.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/neurable-wants-let-you-control-any-device-your-mind",
-      "originalUrl": "https://www.designnews.com/electronics-test/neurable-wants-let-you-control-any-device-your-mind",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Neurable%20headset.jpg",
-          "width": 833,
-          "height": 655,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-22T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence.md",
-      "title": "The never-ending effort to bake common business sense into artificial intelligence",
-      "excerpt": "There needs to be a feedback loop to ensure customers are enjoying the experience as much as you're enjoying creating the experience.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/27c067b844739f5797fc93d4b7c4a8028a4b0244/2022/01/21/49e6021c-8611-4222-bd2d-404ef13c80fe/buildings-hudson-yards-as-see-from-javits-center-january-2022-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/",
-      "publishedDateTime": "2022-01-22T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport.md",
-      "title": "Robotic Assistance Devices to deploy 2 SCOT security robots at major U.S. regional airport",
-      "excerpt": "Artificial Intelligence Technology Solutions (OTCPK:AITX) announced that a major U.S. regional airport is poised to deploy 2 SCOT security devices from its wholly-owned subsidiary Robotic Assistance Devices.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "originalUrl": "https://seekingalpha.com/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "publishedDateTime": "2022-01-21T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-artificial-intelligence-a-key-technology-thats-shaping-our-tomorrow.md",
-      "title": "Artificial Intelligence: A Key Technology That's Shaping Our Tomorrow",
-      "excerpt": "Ever since Alan Turing helped decode the Enigma messages used by the Germans during World War II, the concept of artificial intelligence started getting traction. It was only in 1956 that the term actually was officially coined by none other than John McCarthy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/21/artificial-intelligence-a-key-technology-thats-shaping-our-tomorrow/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/21/artificial-intelligence-a-key-technology-thats-shaping-our-tomorrow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61e97402eff768c29a8fba2d/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/21/artificial-intelligence-a-key-technology-thats-shaping-our-tomorrow/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/21/artificial-intelligence-a-key-technology-thats-shaping-our-tomorrow/amp/",
-      "publishedDateTime": "2022-01-21T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-russias-marker-robot-is-a-testbed-for-its-next-gen-military-tech.md",
-      "title": "Russia’s Marker Robot is a Testbed For Its Next-Gen Military Tech",
-      "excerpt": "Russia announced that it had completed research on its experimental Marker robot combat vehicle. The machine, designed from the start as a testbed for future tools and technologies, was never designed for combat,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnas.org/press/in-the-news/russias-marker-robot-is-a-testbed-for-its-next-gen-military-tech",
-      "originalUrl": "https://www.cnas.org/press/in-the-news/russias-marker-robot-is-a-testbed-for-its-next-gen-military-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.us-east-1.amazonaws.com/files.cnas.org/title/GettyImages-110699791.jpg?mtime=20210507014832&focal=none",
-          "width": 1024,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNAS",
-        "domain": "cnas.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-anymals-quadrupedal-robot-takes-a-hike.md",
-      "title": "ANYmal’s quadrupedal robot takes a hike",
-      "excerpt": "It’s been pretty astonishing to see what robotics researchers have been able to accomplish with legged robots over the past few years. Oregon State University taking Cassie for a 5K back in July springs to mind.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/",
-      "originalUrl": "https://techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/image.imageformat.fullwidth.1716413789.jpg?w=930",
-          "width": 930,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/amp/",
-      "publishedDateTime": "2022-01-20T13:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-growth-alert-robotics-rise-to-70-billion-by-2028.md",
-      "title": "Growth Alert! Robotics Rise to $70 Billion by 2028",
-      "excerpt": "Growth = opportunity. And here’s one: robots. There are currently more than 2.7 million industrial robots and that number is growing by around 400,000 each year!",
-      "sourceUrl": null,
-      "webUrl": "https://banyanhill.com/growth-alert-robotics-rise-70-billion-2028/",
-      "originalUrl": "https://banyanhill.com/growth-alert-robotics-rise-70-billion-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://banyanhill.com/wp-content/uploads/2022/01/Industrial-robots-2-BPD-20220120.jpg",
-          "width": 1000,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://banyanhill.com/growth-alert-robotics-rise-70-billion-2028/amp/",
-      "cdnAmpWebUrl": "https://banyanhill-com.cdn.ampproject.org/c/s/banyanhill.com/growth-alert-robotics-rise-70-billion-2028/amp/",
-      "publishedDateTime": "2022-01-20T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Banyan Hill Publishing",
-        "domain": "banyanhill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-assistive-tech-startup-led-by-former-nasa-engineer-uses-an-ai-parrot-to-help-people-with-disabilities.md",
-      "title": "Assistive tech startup led by former NASA engineer uses an AI ‘parrot’ to help people with disabilities",
-      "excerpt": "David Hojah is a former NASA engineer, but his real passion is healthcare. Growing up, he saw his family members taking care of his aunt, who had multiple sclerosis, and his uncle, who had a",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/assistive-tech-startup-led-by-former-nasa-engineer-uses-an-ai-parrot-to-help-people-with-disabilities/",
-      "originalUrl": "https://www.geekwire.com/2022/assistive-tech-startup-led-by-former-nasa-engineer-uses-an-ai-parrot-to-help-people-with-disabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Com52JoOjj4/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2022/assistive-tech-startup-led-by-former-nasa-engineer-uses-an-ai-parrot-to-help-people-with-disabilities/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/assistive-tech-startup-led-by-former-nasa-engineer-uses-an-ai-parrot-to-help-people-with-disabilities/amp/",
-      "publishedDateTime": "2022-01-19T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-confused-replika-ai-users-are-standing-up-for-bots-and-trying-to-bang-the-algorithm.md",
-      "title": "Confused Replika AI users are standing up for bots and trying to bang the algorithm",
-      "excerpt": "It should go without saying, but you can't have sex with an algorithm. That doesn't stop some people from trying.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/confused-replika-ai-users-are-standing-up-for-bots-trying-bang-the-algorithm",
-      "originalUrl": "https://thenextweb.com/news/confused-replika-ai-users-are-standing-up-for-bots-trying-bang-the-algorithm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Freplikaskull.jpg&signature=926f0f4500827c7456dd328ad9e35e92",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T17:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-robots-needed-to-repair-satellites-in-orbit.md",
-      "title": "Robots needed to repair satellites in orbit",
-      "excerpt": "Listen to this article The US Space Force (USSF) became an official branch of the US military on December 20, 2019. In the two years since its launch, the USSF has begun to recruit new service members and plan how to fulfill its mission to protect US assets in space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/robots-needed-to-repair-satellites-in-orbit/",
-      "originalUrl": "https://www.therobotreport.com/robots-needed-to-repair-satellites-in-orbit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/01/ussf-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T15:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-aigens-swarm-of-agtech-robots-want-to-make-agriculture-carbon-negative.md",
-      "title": "Aigen’s swarm of agtech robots want to make agriculture carbon negative",
-      "excerpt": "Even though the only thing the robot can do right now is pull weeds, Aigen is adamant it isn’t building a weed-whacking robot. It claims to be on a mission to terraform the earth, and says it has a path toward making agriculture carbon negative.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/18/aigen-fund-round/",
-      "originalUrl": "https://techcrunch.com/2022/01/18/aigen-fund-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/robot1.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/18/aigen-fund-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/18/aigen-fund-round/amp/",
-      "publishedDateTime": "2022-01-18T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-artificial-intelligence-robotics-market-2022-growth-insights-understand-industry-size-share-revenue-challenges-and-global-forecast-2029.md",
-      "title": "Artificial Intelligence Robotics Market 2022 Growth Insights, Understand Industry Size, Share, Revenue, Challenges and Global Forecast 2029",
-      "excerpt": "The newly published report is titled, “Global Artificial Intelligence Robotics Market Research Report 2022” that",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-2022-growth-insights-understand-industry-size-share-revenue-challenges-and-global-forecast-2029-2022-01-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-2022-growth-insights-understand-industry-size-share-revenue-challenges-and-global-forecast-2029-2022-01-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T07:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles.md",
-      "title": "Wayve raises $200M Series B led by Eclipse for its AI for autonomous delivery vehicles",
-      "excerpt": "British autonomous vehicle startup Wayve has raised a $200 million Series B funding round from investors to scale its technology and expand its partnerships with commercial fleets. Wayve is aiming to be a major player in the arena of Robo-deliveries and logistics.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/",
-      "originalUrl": "https://techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Alex-Kendall-CEO-2.jpg?w=831",
-          "width": 831,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/amp/",
-      "publishedDateTime": "2022-01-18T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-now-you-can-rent-a-robot-workerfor-less-than-paying-a-human.md",
-      "title": "Now You Can Rent a Robot Worker—for Less Than Paying a Human",
-      "excerpt": "The robot arm performs a simple, repetitive job: lifting a piece of metal into a press, which then bends the metal into a new shape. And like a person, the robot worker gets paid for the hours it works.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/rent-robot-worker-less-paying-human/",
-      "originalUrl": "https://www.wired.com/story/rent-robot-worker-less-paying-human/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61e1db9a844ec857b71382b4/master/pass/Biz_GN_4.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/rent-robot-worker-less-paying-human/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/rent-robot-worker-less-paying-human/amp",
-      "publishedDateTime": "2022-01-18T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

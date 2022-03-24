@@ -2,6 +2,918 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-13-microsoft-wins-contract-to-build-singapores-first-sovereign-cloud.md",
+      "title": "Microsoft wins contract to build Singapore's first sovereign cloud",
+      "excerpt": "has chosen Microsoft to develop a sovereign cloud to accelerate its digital transformation. HTX said the agreement will play a key role in helping domestic services, such as the police or civil ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/cloud/362227/singapore-selects-microsoft-for-sovereign-cloud",
+      "originalUrl": "https://www.itpro.co.uk/cloud/362227/singapore-selects-microsoft-for-sovereign-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1644584376/itpro/2022/February/Singapore_skyline_clouds_water_GettyImages-656227954.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-13T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-morgan-stanley-pounds-the-table-on-microsoft-stock.md",
+      "title": "Morgan Stanley Pounds the Table on Microsoft Stock",
+      "excerpt": "This includes products for collaboration & communication (Teams), analytics & visualization (PowerBI), endpoint security (Defender) and identity management (Azure AD ... data management and machine learning, amongst others. This provides enterprises ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock",
+      "originalUrl": "https://www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/morgan-stanley-pounds-the-table-on-microsoft-stock?amp",
+      "publishedDateTime": "2022-02-10T11:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-microsoft-azure-women-in-ai-program-experience.md",
+      "title": "Microsoft Azure Women in AI Program Experience",
+      "excerpt": "How do I even start?” I somehow ran into a training program called Microsoft Azure Women in AI Program on Google when I searched “how to get certified in Azure”. After hitting that “Register now for upcoming classes” button, I received an AI-900 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/microsoft-azure-women-ai-program-experience-foong-min-wong",
+      "originalUrl": "https://www.linkedin.com/pulse/microsoft-azure-women-ai-program-experience-foong-min-wong",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHlFLe62Tk6xg/article-cover_image-shrink_600_2000/0/1644499792793?e=1650499200&v=beta&t=hPTjgKDR8S1LBZS7NsOAOd4WOrrTCtqfDBYdp4Ih2DA",
+          "width": 1668,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-10T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-why-microsoft-awarded-this-techie.md",
+      "title": "Why Microsoft Awarded This Techie",
+      "excerpt": "\"During the pandemic I gave out 20+ books on Microsoft Cloud, Azure and AI to IT professionals who lost their jobs due to layoffs so they could upgrade their skills and get back into the industry.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.rediff.com/getahead/report/kasam-shaikh-microsoft-mvp-in-ai/20220209.htm",
+      "originalUrl": "https://www.rediff.com/getahead/report/kasam-shaikh-microsoft-mvp-in-ai/20220209.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://im.rediff.com/getahead/2022/feb/0909kasam-shaikh-lead1.jpg",
+          "width": 420,
+          "height": 290,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.rediff.com/amp/getahead/report/kasam-shaikh-microsoft-mvp-in-ai/20220209.htm",
+      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/getahead/report/kasam-shaikh-microsoft-mvp-in-ai/20220209.htm",
+      "publishedDateTime": "2022-02-10T02:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rediff.com",
+        "domain": "rediff.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech.md",
+      "title": "Microsoft Keeps Its Finance Head Count Flat With AI, Bots and Other Tech",
+      "excerpt": "Microsoft Corp. employs about 5,000 people in its finance team, a number that has remained largely flat in recent years, even though the company’s operations, profit and market capitalization have grown tremendously. Microsoft had 181,000 employees at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "originalUrl": "https://www.wsj.com/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-482958/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "publishedDateTime": "2022-02-10T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-tcs-launches-clever-energy-intelligent-power-plant-and-tcs-envirozone-on-microsofts-azure.md",
+      "title": "TCS launches Clever Energy, Intelligent Power Plant and TCS Envirozone on Microsoft’s Azure",
+      "excerpt": "The award-winning TCS Clever Energy platform uses IoT, AI, machine learning, and cloud to help organizations ... and TCS Envirozone on Microsoft’s Azure IoT platform. These suites will help organizations gain insights into energy usage and reduce waste ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiainfoline.com/article/news-top-story/tcs-launches-clever-energy-intelligent-power-plant-and-tcs-envirozone-on-microsoft’s-azure-122021000595_1.html",
+      "originalUrl": "https://www.indiainfoline.com/article/news-top-story/tcs-launches-clever-energy-intelligent-power-plant-and-tcs-envirozone-on-microsoft’s-azure-122021000595_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tata-consultancy-services1-1421320501-007300.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-top-story/tcs-launches-clever-energy-intelligent-power-plant-and-tcs-envirozone-on-microsoft%E2%80%99s-azure-122021000595_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/tcs-launches-clever-energy-intelligent-power-plant-and-tcs-envirozone-on-microsoft%E2%80%99s-azure-122021000595_1.html",
+      "publishedDateTime": "2022-02-09T23:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-microsoft-has-plans-to-make-autonomous-cars-intelligent.md",
+      "title": "Microsoft Has Plans to Make Autonomous Cars Intelligent",
+      "excerpt": "as well as the Microsoft Cognitive Services API. Seven talked about how Microsoft's Cognitive Services API already includes an Emotion API capable of understanding the emotions of someone's face, including anger, contempt, disgust, fear, happiness ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/microsoft-has-plans-make-autonomous-cars-intelligent",
+      "originalUrl": "https://www.designnews.com/microsoft-has-plans-make-autonomous-cars-intelligent",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Microsoft_connected-car-image.png",
+          "width": 1188,
+          "height": 751,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-mphasis-goes-all-in-on-cloud-technology.md",
+      "title": "Mphasis goes all in on cloud technology",
+      "excerpt": "Mumbai, Mphasis (BSE: 526299; NSE: MPHASIS), an information technology (IT) solutions provider specializing in cloud and cognitive ... and Microsoft Azure • Advisor & Stock Plan Services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/91383/mphasis-goes-all-in-on-cloud-technology",
+      "originalUrl": "https://www.finextra.com/pressarticle/91383/mphasis-goes-all-in-on-cloud-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T11:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-navrina-singh-founded-credo-ai-to-align-ai-with-human-values.md",
+      "title": "Navrina Singh Founded Credo AI To Align AI With Human Values",
+      "excerpt": "“We are already generating revenue. As an early state start-up, I'm a huge believer in commending our lighthouse customers and our design partners who are those AI first ethics forward companies,” says Singh. Credo AI’s customers are primarily among ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/",
+      "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6203e02ea9ce90ee549e7ae6/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/amp/",
+      "publishedDateTime": "2022-02-09T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-health-bulletin-for-feb-10-17-dementia-infants-and-toddlers-and-health-and-wellness.md",
+      "title": "Health Bulletin for Feb. 10-17 – Dementia, infants and toddlers and health and wellness",
+      "excerpt": "Low Impact Aerobics – An ongoing class for seniors. Mondays at 10:30 a.m. and Thursdays at 10 a.m., Zion Lutheran Church, 8304 E. Buckeye Ave., Spokane Valley. Free. (509) 926-5407. Smart Driver ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.spokesman.com/stories/2022/feb/09/health-bulletin-for-feb-10-17-dementia-infants-and/",
+      "originalUrl": "https://www.spokesman.com/stories/2022/feb/09/health-bulletin-for-feb-10-17-dementia-infants-and/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumb.spokesman.com/tu8tlF_QKzAj2M-nQcC701-x4o8=/480x0/media.spokesman.com/photos/2022/02/08/6202dc5900ddb.hires.jpg",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.spokesman.com/stories/2022/feb/09/health-bulletin-for-feb-10-17-dementia-infants-and/?amp-content=amp",
+      "cdnAmpWebUrl": "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2022/feb/09/health-bulletin-for-feb-10-17-dementia-infants-and/?amp-content=amp",
+      "publishedDateTime": "2022-02-09T09:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Spokesman-Review",
+        "domain": "spokesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai.md",
+      "title": "TigerGraph launches $1 million challenge to inspire use of graph AI",
+      "excerpt": "With a $250,000 first prize, entrepreneurs, academics, engineers, scientists can create their own problem statement focused on a topic of their choosing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai/",
+      "originalUrl": "https://www.zdnet.com/article/tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai/",
+      "publishedDateTime": "2022-02-09T05:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-domino-data-lab-adds-autoscaling-to-mlops.md",
+      "title": "Domino Data Lab adds autoscaling to MLOps",
+      "excerpt": "Domino Data Lab 5.0 is focusing heavily on the deployment, autoscaling, and monitoring part of the machine learning lifecycle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/domino-data-lab-adds-autoscaling-to-mlops/",
+      "originalUrl": "https://www.zdnet.com/article/domino-data-lab-adds-autoscaling-to-mlops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b61c7907e86210dfb3ced032662b9a22a9763d65/2022/02/08/08c0dfa8-2677-4880-ac25-65e91de12f4b/ds.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/domino-data-lab-adds-autoscaling-to-mlops/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/domino-data-lab-adds-autoscaling-to-mlops/",
+      "publishedDateTime": "2022-02-09T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-mphasis-goes-all-in-on-cloud-technology.md",
+      "title": "Mphasis goes all in on cloud technology",
+      "excerpt": "Mumbai, Mphasis (BSE: 526299; NSE: MPHASIS), an information technology (IT) solutions provider specializing in cloud and cognitive ... and Microsoft Azure • Advisor & Stock Plan Services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/91383",
+      "originalUrl": "https://www.finextra.com/pressarticle/91383",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T02:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-komprise-partners-with-microsoft-to-support-azure-file-data-migration-program.md",
+      "title": "Komprise partners with Microsoft to support Azure File Data Migration program",
+      "excerpt": "Organizations can leverage the Komprise Global File Index to query, tag and move the right data to the right place for AI, ML and data processing. Krishna Subramanian, President and COO of Komprise says, “By working closely with the Microsoft Azure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program",
+      "originalUrl": "https://www.freepressjournal.in/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/freepressjournal/import/2016/01/handshake.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program",
+      "publishedDateTime": "2022-02-08T21:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-mphasis-launches-focused-cloud-ecosystem-channel-organization-to.md",
+      "title": "Mphasis launches focused cloud ecosystem channel organization to",
+      "excerpt": "NEW YORK, Feb. 9, 2022 /PRNewswire/ -- Mphasis (BSE: 526299; NSE: MPHASIS), an information technology (IT) solutions provider specializing in cloud and cognitive services ... four major cloud providers - AWS, Microsoft Azure, Google Cloud Platform ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-mphasis-launches-focused-cloud-ecosystem-channel-organization-accelerate-/2022/02/09/9542326.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-mphasis-launches-focused-cloud-ecosystem-channel-organization-accelerate-/2022/02/09/9542326.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-microsoft-open-sources-graph-engine.md",
+      "title": "Microsoft open-sources Graph Engine",
+      "excerpt": "The LIKQ query language is also used by Microsoft inside of its Cognitive Services, specifically its Academic Graph API. Both the LIKQ language and the Graph Engine source codes are available ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/analytics/microsoft-open-sources-graph-engine/",
+      "originalUrl": "https://sdtimes.com/analytics/microsoft-open-sources-graph-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2014/12/HANDYALEX.jpg",
+          "width": 253,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-impact-of-maternal-obesity-on-the-cognitive-function-and-mental-health-of-the-offspring-a-systematic-review.md",
+      "title": "Impact of maternal obesity on the cognitive function and mental health of the offspring: a systematic review",
+      "excerpt": "Exposures considered were maternal BMI, height and weight, The outcome was any measure of cognitive function and mental health of the offspring. Quality assessment and risk of bias was assessed using a standardized form consisting of 22 criteria ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/impact-of-maternal-obesity-on-the-cognitive-function-and-mental-health-of-the-offspring-a-systematic-review/BCB9798A3BC71874AEE40024B57BC858",
+      "originalUrl": "https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/impact-of-maternal-obesity-on-the-cognitive-function-and-mental-health-of-the-offspring-a-systematic-review/BCB9798A3BC71874AEE40024B57BC858",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T14:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-five-ways-to-reduce-your-cloud-security-blast-radius.md",
+      "title": "Five Ways To Reduce Your Cloud Security Blast Radius",
+      "excerpt": "CEO and co-founder of Ermetic, a provider of public cloud security technology for AWS, Azure and Google Cloud infrastructures ... which may rely on artificial intelligence and machine learning, can deliver an immediate alert that lets you stay ahead ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/08/five-ways-to-reduce-your-cloud-security-blast-radius/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/08/five-ways-to-reduce-your-cloud-security-blast-radius/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60c2605210f137d4201e38ff/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/08/five-ways-to-reduce-your-cloud-security-blast-radius/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/08/five-ways-to-reduce-your-cloud-security-blast-radius/amp/",
+      "publishedDateTime": "2022-02-08T05:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-indium-positioned-as-a-strong-contender-in-isgs-provider-lens-analytics-services-us-report-2021.md",
+      "title": "Indium Positioned as a Strong Contender in ISG’s Provider Lens Analytics Services US Report 2021",
+      "excerpt": "Indium, a fast-growing Digital Engineering Services provider, has been recognized as a strong ... in the data analytics market with a strong partner ecosystem such as AWS, Microsoft, Striim and Denodo. We are also enhancing our capabilities in the data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/indium-positioned-as-a-strong-contender-in-isg-s-provider-lens-analytics-services-us-report/article_bfea8af6-5c90-5efb-8051-237cfedbf135.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/indium-positioned-as-a-strong-contender-in-isg-s-provider-lens-analytics-services-us-report/article_bfea8af6-5c90-5efb-8051-237cfedbf135.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.cnhionline.com/ksherman/images/rtj_ad.gif",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-spell-graphcore-partner-to-build-next-gen-ai-infrastructure.md",
+      "title": "Spell, Graphcore partner to build next-gen AI infrastructure",
+      "excerpt": "“We had the opportunity to highlight Spell.ml’s capabilities in a recent Cool Vendor research note, “Cool Vendors in Enterprise AI Operationalization and Engineering,” Dekate said.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/",
+      "originalUrl": "https://venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/12/istock-636754212-e1629925759866.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/amp/",
+      "publishedDateTime": "2022-02-08T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-smartphone-reminders-improve-memory.md",
       "title": "Smartphone Reminders Improve Memory",
       "excerpt": "In older adults with dementia or mild cognitive impairment using a personal ... Funding for the study was provided by Microsoft and the National Institute on Aging.",
@@ -423,963 +1335,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-ai-can-be-a-powerful-tool-in-drug-development-discovery-tellius.md",
-      "title": "AI can be a powerful tool in drug development, discovery: Tellius",
-      "excerpt": "AutoML and predictive machine learning can also help prevent workflow delays that impact quality processes. When elevating marketing efforts and boosting market share, AI analytics and decision intelligence are critical to performance tracking, sales force ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.outsourcing-pharma.com/Article/2022/02/03/ai-can-be-a-powerful-tool-in-drug-development-discovery",
-      "originalUrl": "https://www.outsourcing-pharma.com/Article/2022/02/03/ai-can-be-a-powerful-tool-in-drug-development-discovery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/ai-can-be-a-powerful-tool-in-drug-development-discovery/13213325-1-eng-GB/AI-can-be-a-powerful-tool-in-drug-development-discovery.jpg",
-          "width": 750,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outsourcing-pharma",
-        "domain": "outsourcing-pharma.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock.md",
-      "title": "Strong Earnings From Cloud Behemoths Bode Well For Snowflake Stock",
-      "excerpt": "Per the Trefis machine learning engine which analyzes historical stock price ... While there are other rivals in this space, including Amazon’s Redshift, Microsoft’s Azure Synapse, and Google’s Big Query, Snowflake offers strong product differentiation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60470fda52dd0906fe0a7a42/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 850,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/amp/",
-      "publishedDateTime": "2022-02-03T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-global-cognitive-collaboration-testing-market-business-strategies-revenue-and-growth-rate-upto-2027.md",
-      "title": "Global Cognitive Collaboration Testing Market Business Strategies, Revenue and Growth Rate Upto 2027",
-      "excerpt": "Cisco, Microsoft Corporation ... of the key players in the Global Cognitive Collaboration Testing market. It helps in understanding the competition by providing in-depth profiling of companies and products/services provided. Through Competitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-cognitive-collaboration-testing-market-business-strategies-revenue-and-growth-rate-upto-2027-2022-02-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-cognitive-collaboration-testing-market-business-strategies-revenue-and-growth-rate-upto-2027-2022-02-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T02:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-start-training-for-a-cloud-computing-career-as-a-microsoft-azure-specialist.md",
-      "title": "Start training for a cloud computing career as a Microsoft Azure specialist",
-      "excerpt": "Analyze Data with Azure Stream Analytics.” You can also learn sophisticated models of machine learning to process real-life datasets in “Machine Learning in the Cloud with Azure Machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/start-training-for-a-cloud-computing-career-as-a-microsoft-azure-specialist/",
-      "originalUrl": "https://www.techrepublic.com/article/start-training-for-a-cloud-computing-career-as-a-microsoft-azure-specialist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2013/07/cloud.jpg?x23932",
-          "width": 768,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/start-training-for-a-cloud-computing-career-as-a-microsoft-azure-specialist/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/start-training-for-a-cloud-computing-career-as-a-microsoft-azure-specialist/amp/",
-      "publishedDateTime": "2022-02-02T15:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-azure-iot-edge-tools-now-support-visual-studio-2022.md",
-      "title": "Azure IoT Edge Tools Now Support Visual Studio 2022",
-      "excerpt": "\"The fully managed Azure IoT Edge service brings cloud intelligence to edge devices through the use of artificial intelligence (AI), cloud services (including machine learning, stream analytics, SQL Server databases and more) and custom logic local to ...",
-      "sourceUrl": null,
-      "webUrl": "https://visualstudiomagazine.com/articles/2022/02/02/azure-iot-edge-vs2022.aspx",
-      "originalUrl": "https://visualstudiomagazine.com/articles/2022/02/02/azure-iot-edge-vs2022.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlueGlobeSmall.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-02T12:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Visual Studio Magazine",
-        "domain": "visualstudiomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator.md",
-      "title": "Two new dialects of Inuktut language now available in Microsoft Translator",
-      "excerpt": "With the latest update, users will now be able to translate between the two new additions and any of over 100 supported languages and dialects in the Microsoft Translator apps, Office, and Translator for Bing. Through Azure Cognitive Services Translator ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator/",
-      "originalUrl": "https://www.neowin.net/news/two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2017/02/1487659776_microsoft-translator_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator/",
-      "publishedDateTime": "2022-02-02T07:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors.md",
-      "title": "How XpertRule’s multiple AI tools compares to BPM competitors",
-      "excerpt": "and predictive explainable machine learning. Both the authoring and deployment components of the Viabl.ai platform are 100 percent cloud-native and run serverless on AWS and Azure or on Premise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/",
-      "originalUrl": "https://venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/GettyImages-829804548.jpg?w=1200&strip=all",
-          "width": 564,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/amp/",
-      "publishedDateTime": "2022-02-01T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-laiye-and-microsoft-why-chinese-rpa-is-heading-west-to-secure-your-data.md",
-      "title": "Laiye and Microsoft - why Chinese RPA is heading West to secure your data!",
-      "excerpt": "You might also be surprised to hear that enterprise cloud titan Microsoft has announced a strategic partnership with the same provider, to bring robotic process automation (RPA) and software robotics to the UK and Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/laiye-and-microsoft-why-chinese-rpa-heading-west-secure-your-data",
-      "originalUrl": "https://diginomica.com/laiye-and-microsoft-why-chinese-rpa-heading-west-secure-your-data",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2022-02/2E6FF118-033F-4AC6-871A-2ED169561EA5.jpeg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/laiye-and-microsoft-why-chinese-rpa-heading-west-secure-your-data?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/laiye-and-microsoft-why-chinese-rpa-heading-west-secure-your-data?amp",
-      "publishedDateTime": "2022-02-01T01:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-power-bi-and-azure-as-the-future-of-enterprise-analytics.md",
-      "title": "Power BI and Azure as the future of enterprise analytics",
-      "excerpt": "The automated machine learning in Power BI is the AutoML feature from Azure Machine Learning, which looks at what you’re trying to predict and what data you have available, and iterates through ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/",
-      "originalUrl": "https://www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2016/06/power-bi-reports.jpg?x75348",
-          "width": 770,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/amp/",
-      "publishedDateTime": "2022-01-31T21:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-profits-over-politics-aws-and-microsoft-execs-warn-of-chinas-ai-threat-while-growing-ai-hubs-inside-china.md",
-      "title": "Profits over politics: AWS and Microsoft execs warn of China’s AI threat while growing AI hubs inside China",
-      "excerpt": "The two biggest U.S. cloud companies are expanding their AI and cloud-related efforts in China even though their own executives have warned of threats posed by China’s AI development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.protocol.com/enterprise/aws-microsoft-china-ai-cloud",
-      "originalUrl": "https://www.protocol.com/enterprise/aws-microsoft-china-ai-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-aws-is-balancing-profit-potential-in-china-with-ai-risk-its-own-ceo-warned-about-less-than-p-greater-than.png?id=29190512",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.protocol.com/amp/aws-microsoft-china-ai-cloud-2656504548",
-      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/aws-microsoft-china-ai-cloud-2656504548",
-      "publishedDateTime": "2022-01-31T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-how-is-artificial-intelligence-used-in-business.md",
-      "title": "How Is Artificial Intelligence Used In Business?",
-      "excerpt": "By leveraging cognitive technologies ... You can use Amazon Web Services to… You can use the Google Cloud Platform to… A cloud computing service offered by IBM… It is the Microsoft Azure cloud computing service…. Cloud computing platform from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ictsd.org/how-is-artificial-intelligence-used-in-business/",
-      "originalUrl": "https://www.ictsd.org/how-is-artificial-intelligence-used-in-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnictsd.ictsd.org/what-happens-in-partnerships-law-firms-when-someone-dies-.jpg",
-          "width": 626,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-31T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ICTSD",
-        "domain": "ictsd.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-no-code-machine-learning-in-power-bi.md",
-      "title": "No-code machine learning in Power BI",
-      "excerpt": "No-code machine learning in Power BI Your email has been sent Can Microsoft democratise AI? The new code-free Power BI integrations with Azure Cognitive Services and Azure Machine Learning are a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/no-code-machine-learning-in-power-bi/",
-      "originalUrl": "https://www.techrepublic.com/article/no-code-machine-learning-in-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2019/01/power-bi-trcdm.png",
-          "width": 770,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/no-code-machine-learning-in-power-bi/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/no-code-machine-learning-in-power-bi/amp/",
-      "publishedDateTime": "2022-01-31T01:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-decode-the-possibilities-of-machine-learning-at-scale-with-microsofts-latest-webinar-on-azure-machine-learning.md",
-      "title": "Decode the possibilities of Machine Learning at Scale with Microsoft’s latest webinar on Azure Machine Learning",
-      "excerpt": "Microsoft’s webinar ‘Machine Learning lifecycle management and possibilities with Azure Machine Learning’ introduces the positives of using Azure Machine Learning which enables data science ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/01/scale-microsofts-webinar-azure-machine-learning/amp",
-      "originalUrl": "https://yourstory.com/2022/01/scale-microsofts-webinar-azure-machine-learning/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Article800X4001-1643612967031.png ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2022/01/scale-microsofts-webinar-azure-machine-learning/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/01/scale-microsofts-webinar-azure-machine-learning/amp",
-      "publishedDateTime": "2022-01-31T01:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-microsofts-satya-nadella-thinks-these-four-technologies-will-reshape-it.md",
-      "title": "Microsoft’s Satya Nadella thinks these four technologies will reshape IT",
-      "excerpt": "Nadella said that the accuracy of the system stemmed from how tunable Microsoft’s cognitive services are. For instance, in the case of McDonalds, the accuracy of the transcription had been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsofts-satya-nadella-thinks-these-four-technologies-will-reshape-it/",
-      "originalUrl": "https://www.techrepublic.com/article/microsofts-satya-nadella-thinks-these-four-technologies-will-reshape-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-30T17:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-how-to-add-cognitive-services-to-your-microsoft-azure-resources.md",
-      "title": "How to add cognitive services to your Microsoft Azure resources",
-      "excerpt": "How to add cognitive services to your Microsoft Azure resources Your email has been sent Cognitive services created in Azure can add powerful features to your organization's application ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-to-add-cognitive-services-to-your-microsoft-azure-resources/",
-      "originalUrl": "https://www.techrepublic.com/article/how-to-add-cognitive-services-to-your-microsoft-azure-resources/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2019/05/istock-926550280aicomputer.jpg?x23932",
-          "width": 800,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/how-to-add-cognitive-services-to-your-microsoft-azure-resources/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/how-to-add-cognitive-services-to-your-microsoft-azure-resources/amp/",
-      "publishedDateTime": "2022-01-30T17:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-30-new-research-hints-at-4-factors-that-may-increase-chances-of-long-covid.md",
-      "title": "New research hints at 4 factors that may increase chances of long COVID",
-      "excerpt": "Are some people more likely than others to experience physical, neurological or cognitive symptoms that ... comment threads to stories from wire services such as the Associated Press, The New ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/seattle-news/health/new-research-hints-at-4-factors-that-may-increase-chances-of-long-covid-2/",
-      "originalUrl": "https://www.seattletimes.com/seattle-news/health/new-research-hints-at-4-factors-that-may-increase-chances-of-long-covid-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/seattle-news/health/new-research-hints-at-4-factors-that-may-increase-chances-of-long-covid-2/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/health/new-research-hints-at-4-factors-that-may-increase-chances-of-long-covid-2/?amp=1",
-      "publishedDateTime": "2022-01-29T11:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform.md",
-      "title": "From low code to no code: Azure GPT-3 and Microsoft’s Power Platform",
-      "excerpt": "The Power Platform GPT-3 models are running in Azure, on the Azure Machine Learning service, using the new managed endpoints. This means the Power Platform team doesn’t have to manage the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/",
-      "originalUrl": "https://www.techrepublic.com/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2021/06/tr-dax-smart-narrative.jpg",
-          "width": 1440,
-          "height": 794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/amp/",
-      "publishedDateTime": "2022-01-29T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities.md",
-      "title": "AI Weekly: AI supercomputers and facial recognition to verify taxpayers’ identities",
-      "excerpt": "Meta (formerly Facebook) announced an AI supercomputer. Also, more revelations about the IRS' use of facial recognition have come to light.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/",
-      "originalUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Supercomputer-e1589742859682.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/amp/",
-      "publishedDateTime": "2022-01-28T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-the-phanerozoic-aftermath-of-the-cambrian-information-revolution-sensory-and-cognitive-complexity-in-marine-faunas.md",
-      "title": "The Phanerozoic aftermath of the Cambrian information revolution: sensory and cognitive complexity in marine faunas",
-      "excerpt": "Here, we compare cognitive complexity in Cambrian and post-Cambrian marine ecosystems, documenting changes in animal cognition after the initial Cambrian increase. In a comparison of Cambrian and post-Cambrian Lagerstätten, we find no strong trend in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/paleobiology/article/phanerozoic-aftermath-of-the-cambrian-information-revolution-sensory-and-cognitive-complexity-in-marine-faunas/12FE7A9C8455F3E12501FA51BF0C01B7",
-      "originalUrl": "https://www.cambridge.org/core/journals/paleobiology/article/phanerozoic-aftermath-of-the-cambrian-information-revolution-sensory-and-cognitive-complexity-in-marine-faunas/12FE7A9C8455F3E12501FA51BF0C01B7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.cambridge.org/covers/PAB_0_0_0/paleobiology.jpg?send-full-size-image=true",
-          "width": 1760,
-          "height": 2560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-28T09:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-fedex-surround-logistics-powered-by-ai.md",
-      "title": "Fedex Surround - Logistics powered by AI",
-      "excerpt": "FedEX and Microsoft bring together FedEx network intelligence with capabilities from Microsoft Dynamics 365 to introduce a cross-platform “logistics as a service” The companies announced on January 24,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/fedex-surround-logistics-powered-ai-epc-group-net--1e",
-      "originalUrl": "https://www.linkedin.com/pulse/fedex-surround-logistics-powered-ai-epc-group-net--1e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGUILmY52G06w/article-cover_image-shrink_720_1280/0/1643835721092?e=1649289600&v=beta&t=gZwu6asvO0mMWep6wdoJMdHr9a64Xb3VI4EBV3BEPjI",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-28T09:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

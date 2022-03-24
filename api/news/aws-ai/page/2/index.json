@@ -2,6 +2,1041 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-03-enable-the-visually-impaired-to-hear-documents-using-amazon-textract-and-amazon-polly.md",
+      "title": "Enable the visually impaired to hear documents using Amazon Textract and Amazon Polly",
+      "excerpt": "At the 2021 AWS re:Invent conference in Las Vegas, we demoed Read For Me at the AWS Builders Fair—a website that helps the visually impaired hear documents. For better quality, view the video here. Adaptive technology and accessibility features are often expensive, if they’re available at all. Audio",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enable-the-visually-impaired-to-hear-documents-using-amazon-textract-and-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enable-the-visually-impaired-to-hear-documents-using-amazon-textract-and-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/22/ReadForMeArchitectureforblogpost-1095x630.png",
+          "width": 1095,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-03T08:49:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-top-aws-executive-rachel-mushahwar-announced-as-closing-keynote-at-think-innovate-2022-conference.md",
+      "title": "Top AWS Executive Rachel Mushahwar Announced as Closing Keynote at Think Innovate 2022 Conference",
+      "excerpt": "Think Systems Inc., a privately-owned national management consulting firm that provides both private and public entities with organizational solutions and strategic hiring, is pleased to announce that Rachel Mushahwar,",
+      "sourceUrl": null,
+      "webUrl": "https://www.valdostadailytimes.com/news/business/top-aws-executive-rachel-mushahwar-announced-as-closing-keynote-at-think-innovate-2022-conference/article_a277e2be-99b8-572e-a62b-246dcf2fb11e.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/top-aws-executive-rachel-mushahwar-announced-as-closing-keynote-at-think-innovate-2022-conference/article_a277e2be-99b8-572e-a62b-246dcf2fb11e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/6/e2/6e2d6841-2ae9-5828-abfd-28e25c02d9df/6220dc48a4a45.image.jpg?resize=400%2C400",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-03T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-bundesliga-match-fact-skill-quantifying-football-player-qualities-using-machine-learning-on-aws.md",
+      "title": "Bundesliga Match Fact Skill: Quantifying football player qualities using machine learning on AWS",
+      "excerpt": "In football, as in many sports, discussions about individual players have always been part of the fun. “Who is the best scorer?” or “Who is the king of defenders?” are questions perennially debated by fans, and social media amplifies this debate. Just consider that Erling Haaland, Robert Lewandowski,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-skill-quantifying-football-player-qualities-using-machine-learning-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-skill-quantifying-football-player-qualities-using-machine-learning-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/01/skill_impact3-1260x437.png",
+          "width": 1260,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-02T07:24:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-players-and-teams.md",
+      "title": "AWS and Bundesliga Debut Two New Match Facts Giving Fans Insight into Germany’s Top Football Players and Teams",
+      "excerpt": "The two new stats, “Set Piece Threat” and “Skill,” powered by AWS machine learning and analytics services, enhance the football fan experience and give invaluable strategic insights to teams With these two additions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220302005404/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-players-and-teams",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220302005404/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-players-and-teams",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-toyota-announces-new-company-dedicated-to-self-driving-cars.md",
+      "title": "Toyota announces new company dedicated to self-driving cars",
+      "excerpt": "Toyota Motor Corp. announced Friday morning it plans to spend more than $3.5 billion CAD on a new company that will build automated driving software. Toyota, Aisin Seiki Co. and Deso Corp. have teamed up to create the “Toyota Research Institute-Advanced ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/toyota-announces-new-company-dedicated-to-self-driving-cars/99794",
+      "originalUrl": "https://www.itbusiness.ca/news/toyota-announces-new-company-dedicated-to-self-driving-cars/99794",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2018/01/Toyota-automated-vehicles-620x250.png",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/toyota-announces-new-company-dedicated-to-self-driving-cars/99794?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/toyota-announces-new-company-dedicated-to-self-driving-cars/99794?amp=1",
+      "publishedDateTime": "2022-03-01T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-announcing-the-aws-deepracer-league-2022.md",
+      "title": "Announcing the AWS DeepRacer League 2022",
+      "excerpt": "Unleash the power of machine learning (ML) through hands-on learning and compete for prizes and glory. The AWS DeepRacer League is the world’s first global autonomous racing competition driven by reinforcement learning; bringing together students, professionals, and enthusiasts from almost every continent.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepracer-league-2022/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepracer-league-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/01/ML-8130-img1.png",
+          "width": 531,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T12:47:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker.md",
+      "title": "Train 175+ billion parameter NLP models with model parallel additions and Hugging Face on Amazon SageMaker",
+      "excerpt": "The last few years have seen rapid development in the field of natural language processing (NLP). While hardware has improved, such as with the latest generation of accelerators from NVIDIA and Amazon, advanced machine learning (ML) practitioners still regularly run into issues scaling their large language",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/22/ML-7958-image001.jpg",
+          "width": 2304,
+          "height": 1056,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T10:11:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-why-a-multicloud-solution-is-better-for-government.md",
+      "title": "Why a Multicloud Solution is Better for Government",
+      "excerpt": "The multicloud world is already here. However, multicloud is much more than using services in each cloud independently. Multicloud is about connecting the best services and capabilities of each cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/sponsored/why-a-multicloud-solution-is-better-for-government",
+      "originalUrl": "https://www.govtech.com/sponsored/why-a-multicloud-solution-is-better-for-government",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/e5a1824/2147483647/strip/true/crop/4500x2346+0+497/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8f%2F1c%2F442abd3148219ac52b1a9dcac01a%2Fhttps-download.shutterstock.com%2Fgatekeeper%2FW3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWEiLCAiayI6ICJwaG90by8xOTEyOTUxOTYwL2h1Z2UuanBnIiwgImRjIjogImlkbF8xMjMiLCAiZSI6IDE2NDYxODU1NDQsICJtIjogMX0sICJGRmU5eEZ1ekFJN2VTOTgyRzg2V0Y3RmZxdHMiXQ%3D%3D%2Fshutterstock_1912951960.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/sponsored/why-a-multicloud-solution-is-better-for-government?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/why-a-multicloud-solution-is-better-for-government?_amp=true",
+      "publishedDateTime": "2022-03-01T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25.md",
+      "title": "ML inferencing at the edge with Amazon SageMaker Edge and Ambarella CV25",
+      "excerpt": "Ambarella builds computer vision SoCs (system on chips) based on a very efficient AI chip architecture and CVflow that provides the Deep Neural Network (DNN) processing required for edge inferencing use cases like intelligent home monitoring and smart surveillance cameras. Developers convert models trained",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/18/ML-7753-image001.png",
+          "width": 1232,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T09:34:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-why-tech-marketing-leaders-are-racing-to-sponsor-formula-1.md",
+      "title": "Why Tech Marketing Leaders Are Racing To Sponsor Formula 1",
+      "excerpt": "With the rising popularity of Formula 1, technology companies are expanding their sponsorships and seeing amazing returns on their investments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnellett/2022/03/01/why-tech-marketing-leaders-are-racing-to-sponsor-formula-1/",
+      "originalUrl": "https://www.forbes.com/sites/johnellett/2022/03/01/why-tech-marketing-leaders-are-racing-to-sponsor-formula-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621524e4c9ebfd7631a869a8/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnellett/2022/03/01/why-tech-marketing-leaders-are-racing-to-sponsor-formula-1/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnellett/2022/03/01/why-tech-marketing-leaders-are-racing-to-sponsor-formula-1/amp/",
+      "publishedDateTime": "2022-03-01T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-02-25-maple-leaf-sports-entertainment-leverages-aws-ai-infrastructure-to-power-next-gen-experiences.md",
+      "title": "Maple Leaf Sports & Entertainment leverages AWS AI infrastructure to power next gen experiences",
+      "excerpt": "Maple Leaf Sports & Entertainment services (MLSE) has announced that it will be leveraging Amazon Web Services (AWS) to enable next-generation entertainment experiences for Maple Leafs, Raptors, Toronto Football Club,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/maple-leaf-sports-entertainment-leverages-aws-ai-infrastructure-to-power-next-gen-experiences/474338",
+      "originalUrl": "https://www.itworldcanada.com/article/maple-leaf-sports-entertainment-leverages-aws-ai-infrastructure-to-power-next-gen-experiences/474338",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/02/hockey-feature-image.jpg",
+          "width": 1076,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/maple-leaf-sports-entertainment-leverages-aws-ai-infrastructure-to-power-next-gen-experiences/474338?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/maple-leaf-sports-entertainment-leverages-aws-ai-infrastructure-to-power-next-gen-experiences/474338?amp=1",
+      "publishedDateTime": "2022-02-24T09:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-ga-telesis-digital-innovation-group-announces-fraudblock-api-service-for-enterprises-in-aws-marketplace.md",
+      "title": "GA Telesis Digital Innovation Group Announces FraudBlock™ API Service for Enterprises in AWS Marketplace",
+      "excerpt": "The Digital Innovation Group (“DIG”), a GA Telesis, LLC company, announces Fraudblock™, the first Fraud Protection Application Programming Interface (API) service of its kind for U.S.-based enterprises,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/ga-telesis-digital-innovation-group-announces-fraudblock-api-service-for-enterprises-in-aws-marketplace/article_158aa711-6659-5c74-9ecb-a544f7843ba5.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/ga-telesis-digital-innovation-group-announces-fraudblock-api-service-for-enterprises-in-aws-marketplace/article_158aa711-6659-5c74-9ecb-a544f7843ba5.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.cnhionline.com/ksherman/images/rtj_ad.gif",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-24T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-voipfuture-has-joined-aws-isv-accelerate-program.md",
+      "title": "Voipfuture Has Joined AWS ISV Accelerate Program",
+      "excerpt": "Voipfuture, a provider of a unique carrier-grade, dual-visibility voice service quality monitoring and analytics solution, has announced today that it has been accepted",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voipfuture-has-joined-aws-isv-accelerate-program/article_7164cf91-4b6b-5e06-bb41-be033504d8fa.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voipfuture-has-joined-aws-isv-accelerate-program/article_7164cf91-4b6b-5e06-bb41-be033504d8fa.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-24T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-nobleai-announces-rollout-of-aws-govcloud.md",
+      "title": "Noble.AI Announces Rollout of AWS GovCloud",
+      "excerpt": "Noble.AI announced the rollout of AWS GovCloud support for their Science-Based AI Platform. By choosing to enable GovCloud, Noble.AI",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-govcloud/",
+      "originalUrl": "https://enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-govcloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/02/Noble.AI-Announces-Rollout-of-AWS-GovCloud_-Enabling-Customers-to-tackle-their-most-strategic-R_D-workloads-01-1.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-govcloud/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-govcloud/amp/",
+      "publishedDateTime": "2022-02-24T01:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-choose-the-best-data-source-for-your-amazon-sagemaker-training-job.md",
+      "title": "Choose the best data source for your Amazon SageMaker training job",
+      "excerpt": "Amazon SageMaker is a managed service that makes it easy to build, train, and deploy machine learning (ML) models. Data scientists use SageMaker training jobs to easily train ML models; you don’t have to worry about managing compute resources, and you pay only for the actual training time. Data ingestion",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/choose-the-best-data-source-for-your-amazon-sagemaker-training-job/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/choose-the-best-data-source-for-your-amazon-sagemaker-training-job/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/15/ML-2979-image005.jpg",
+          "width": 1310,
+          "height": 1076,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T13:12:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-nobleai-announces-rollout-of-aws-govcloud-enabling-customers-to-tackle-their-most-strategic-rd-workloads.md",
+      "title": "Noble.AI Announces Rollout of AWS GovCloud, Enabling Customers to tackle their most strategic R&D workloads",
+      "excerpt": "whose artificial intelligence (AI) software is purpose-built for engineers, scientists and researchers and enables them to innovate and make discoveries faster, today announced the rollout of AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/noble-ai-announces-rollout-of-aws-govcloud-enabling-customers-to-tackle-their-most-strategic-r-d-workloads-1031222944",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/noble-ai-announces-rollout-of-aws-govcloud-enabling-customers-to-tackle-their-most-strategic-r-d-workloads-1031222944",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-how-inpharmd-uses-amazon-kendra-and-amazon-lex-to-drive-evidence-based-patient-care.md",
+      "title": "How InpharmD uses Amazon Kendra and Amazon Lex to drive evidence-based patient care",
+      "excerpt": "The intersection of DI and AI: Drug information refers to the discovery, use, and management of healthcare and medical information. Healthcare providers have many challenges associated with drug information discovery, such as intensive time involvement, lack of accessibility, and accuracy of reliable",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-inpharmd-uses-amazon-kendra-and-amazon-lex-to-drive-evidence-based-patient-care/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-inpharmd-uses-amazon-kendra-and-amazon-lex-to-drive-evidence-based-patient-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/15/ml-6682-graphic-2.png",
+          "width": 766,
+          "height": 290,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T10:42:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-100-days-after-ibm-split-kyndryl-signs-strategic-cloud-pact-with-aws.md",
+      "title": "100 days after IBM split, Kyndryl signs strategic cloud pact with AWS",
+      "excerpt": "Kyndryl announced a new partnership with Amazon Web Services (AWS) on Wednesday centered on expanding its enterprise offerings and building out its internal infrastructure in the cloud. Terms of the deal were not disclosed but the companies said Kyndryl will establish an AWS Cloud Center of Excellence (CCOE) to \"offer state-of-the-art customer solutions and services for supporting mission critical infrastructure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/100-days-after-ibm-split-kyndryl-signs-strategic-cloud-pact-with-aws/",
+      "originalUrl": "https://www.zdnet.com/article/100-days-after-ibm-split-kyndryl-signs-strategic-cloud-pact-with-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/100-days-after-ibm-split-kyndryl-signs-strategic-cloud-pact-with-aws/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/100-days-after-ibm-split-kyndryl-signs-strategic-cloud-pact-with-aws/",
+      "publishedDateTime": "2022-02-23T09:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-microsoft-defender-now-offers-protection-across-azure-aws-and-google-cloud.md",
+      "title": "Microsoft Defender now offers protection across Azure, AWS and Google Cloud",
+      "excerpt": "In addition to existing support for AWS and Microsoft Azure, Microsoft Defender for Cloud will now offer ... He's interested in receiving pitches around cybersecurity, data privacy, cloud, AI, blockchain, internet infrastructure, 5G, data storage, business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/microsoft-defender-now-offers-protection-across-azure-aws-and-google-cloud",
+      "originalUrl": "https://www.techradar.com/in/news/microsoft-defender-now-offers-protection-across-azure-aws-and-google-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XtJyaRJPmBf4AcHwWnCGZa-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T06:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-maple-leaf-sports-entertainment-and-aws-team-up-to-transform-experiences-for-canadian-sports-fans.md",
+      "title": "Maple Leaf Sports & Entertainment and AWS Team Up to Transform Experiences for Canadian Sports Fans",
+      "excerpt": "MLSE aims to offer its teams new AWS-powered insights to further improve the caliber of gameplay. Using Amazon Rekognition (AWS&CloseCurlyQuote;s service for automated image and video analysis) and Amazon Kinesis (AWS&CloseCurlyQuote;s service for easily ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/02/23/maple-leaf-sports-entertainment-and-aws-team-up-to-transform-experiences-for",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/02/23/maple-leaf-sports-entertainment-and-aws-team-up-to-transform-experiences-for",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T00:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-control-formality-in-machine-translated-text-using-amazon-translate.md",
+      "title": "Control formality in machine translated text using Amazon Translate",
+      "excerpt": "Amazon Translate&nbsp;is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation. Amazon Translate now supports formality customization. This feature allows you to customize the level of formality in your translation output. At the time",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/control-formality-in-machine-translated-text-using-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/control-formality-in-machine-translated-text-using-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T19:45:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-this-aws-database-e-training-bundle-is-just-30-this-week.md",
+      "title": "This AWS Database e-training bundle is just $30 this week",
+      "excerpt": "Then the 2022 Amazon Web Services Database Bundle has you covered ... and implementation of a database), migrating information to the cloud, the basics of AWS Rekognition in machine learning, and more. And since the courses are brought to us by skilled ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/613357/this-aws-database-e-training-bundle-is-just-30-this-week.html",
+      "originalUrl": "https://www.pcworld.com/article/613357/this-aws-database-e-training-bundle-is-just-30-this-week.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcworld.com/wp-content/uploads/2022/02/sale_310962_article_image.jpeg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/613357/this-aws-database-e-training-bundle-is-just-30-this-week.html/amp",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/613357/this-aws-database-e-training-bundle-is-just-30-this-week.html/amp",
+      "publishedDateTime": "2022-02-17T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-aws-announces-global-expansion-of-aws-local-zones.md",
       "title": "AWS Announces Global Expansion of AWS Local Zones",
       "excerpt": "(NASDAQ: AMZN), announced the completion of its first 16 AWS Local Zones in the U.S. and plans to launch new AWS Local Zones in 32 new metropolitan areas in 26 countries around the world. AWS Local Zones are a type of infrastructure deployment that extends AWS Regions to place compute,",
@@ -388,1058 +1423,6 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-14-pure-storage-pstg-to-boost-kubernetes-platform-with-aws-tie-up.md",
-      "title": "Pure Storage (PSTG) to Boost Kubernetes Platform With AWS Tie-Up",
-      "excerpt": "As part of this three-year engagement with AWS, both the companies are responsible for offering ... businesses as well as strong prospects in the data-driven markets of Artificial Intelligence, Machine Learning, Internet of Things, Real-time Analytics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/pure-storage-pstg-to-boost-kubernetes-platform-with-aws-tie-up",
-      "originalUrl": "https://www.nasdaq.com/articles/pure-storage-pstg-to-boost-kubernetes-platform-with-aws-tie-up",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/pure-storage-pstg-to-boost-kubernetes-platform-with-aws-tie-up?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/pure-storage-pstg-to-boost-kubernetes-platform-with-aws-tie-up?amp",
-      "publishedDateTime": "2022-02-14T03:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-12-surpass-developer-colleagues-with-these-aws-database-courses.md",
-      "title": "Surpass developer colleagues with these AWS database courses",
-      "excerpt": "Among those is Amazon Web Services (AWS), the popular ... In addition, this course will help you understand the fundamentals of AWS Rekognition through hands-on lessons. Finally, you’ll get ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/aws-database-course-bundle-deal-sale-155527480.html",
-      "originalUrl": "https://www.engadget.com/aws-database-course-bundle-deal-sale-155527480.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-02/8aff5c50-88fc-11ec-af5e-2081c05aeea9",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-12T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-12-is-amazon-a-partnership.md",
-      "title": "Is Amazon A Partnership?",
-      "excerpt": "Business interests such as e-commerce, cloud computing, artificial intelligence, and digital streaming comprise ... Amazon Web Services (AWS) Partner Network (APN) is a global network of partners with programs, expertise, and resources to assist you ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ictsd.org/is-amazon-a-partnership/",
-      "originalUrl": "https://www.ictsd.org/is-amazon-a-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnictsd.ictsd.org/is-amazon-a-partnership-.jpg",
-          "width": 626,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-11T18:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ICTSD",
-        "domain": "ictsd.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-12-allen-institute-for-artificial-intelligence.md",
-      "title": "Allen Institute for Artificial Intelligence",
-      "excerpt": "Once again, Seattle’s tech scene provides the backdrop for a high-profile movie on HBO Max — but this time, it’s serious. Oscar-winning film director Steven Soderbergh’s tech-noir thriller ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/tag/allen-institute-for-artificial-intelligence/",
-      "originalUrl": "https://www.geekwire.com/tag/allen-institute-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-11T17:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-apply-profanity-masking-in-amazon-translate.md",
-      "title": "Apply profanity masking in Amazon Translate",
-      "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation. This post shows how you can mask profane words and phrases with a grawlix string (“?$#@$”). Amazon Translate typically chooses clean words for your translation",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/apply-profanity-masking-in-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/apply-profanity-masking-in-amazon-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-11T10:55:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-how-suddeutsche-zeitung-optimized-their-audio-narration-process-with-amazon-polly.md",
-      "title": "How Süddeutsche Zeitung optimized their audio narration process with Amazon Polly",
-      "excerpt": "This is a guest post by Jakob Kohl, a Software Developer at the Süddeutsche Zeitung. Süddeutsche Zeitung is one of the leading quality dailies in Germany when it comes to paid subscriptions and unique users. Its website, SZ.de, reaches more than 15 million monthly unique users as of October 2021. Thanks",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-suddeutsche-zeitung-optimized-their-audio-narration-process-with-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-suddeutsche-zeitung-optimized-their-audio-narration-process-with-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/03/tts-architecture-ml-blog.drawio-002-1260x479.png",
-          "width": 1260,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-11T10:37:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-portworx-by-pure-storage-announces-strategic-engagement-with-aws.md",
-      "title": "Portworx by Pure Storage Announces Strategic Engagement with AWS",
-      "excerpt": "Also Read: Recognizing and Eliminating Bias in Artificial Intelligence As part of its work with AWS, Portworx has also announced an Early Access Programme for Portworx Backup as-a-Service (BaaS) on AWS. Portworx BaaS introduces a modern data protection ...",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/portworx-by-pure-storage-announces-strategic-engagement-with-aws/",
-      "originalUrl": "https://enterprisetalk.com/news/portworx-by-pure-storage-announces-strategic-engagement-with-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/02/Portworx-by-Pure-Storage-Announces-Strategic-Engagement-with-AWS-01.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/portworx-by-pure-storage-announces-strategic-engagement-with-aws/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/portworx-by-pure-storage-announces-strategic-engagement-with-aws/amp/",
-      "publishedDateTime": "2022-02-11T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-dynatrace-transcends-multi-cloud-serverless-for-near-omniscient-observability.md",
-      "title": "Dynatrace transcends multi-cloud serverless for near-omniscient observability",
-      "excerpt": "but of course it means the application of Artificial Intelligence (AI) to the operations (Ops) functions inside modern cloud-centric IT departments. Why the aye-oop AIOps clarification?",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/Dynatrace-transcends-multi-cloud-serverless-for-near-omniscient-observability",
-      "originalUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/Dynatrace-transcends-multi-cloud-serverless-for-near-omniscient-observability",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://itknowledgeexchange.techtarget.com/cwdn/files/2022/02/Capture-1.jpg",
-          "width": 580,
-          "height": 616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-11T00:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-reduce-costs-and-complexity-of-ml-preprocessing-with-amazon-s3-object-lambda.md",
-      "title": "Reduce costs and complexity of ML preprocessing with Amazon S3 Object Lambda",
-      "excerpt": "Amazon Simple Storage Service (Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance. Often, customers have objects in S3 buckets that need further processing to be used effectively by consuming applications. Data engineers must",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-costs-and-complexity-of-ml-preprocessing-with-amazon-s3-object-lambda/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-costs-and-complexity-of-ml-preprocessing-with-amazon-s3-object-lambda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/03/ml_6508_fig1.png",
-          "width": 942,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-10T12:40:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-signiant-announces-integration-with-aws-media2cloud.md",
-      "title": "Signiant announces integration with AWS Media2Cloud",
-      "excerpt": "With Media2Cloud, frame-level metadata is generated using machine learning (ML) and artificial intelligence (AI) from Amazon Rekognition, Amazon Transcribe, and Amazon Comprehend. With this integration, customers of products such as Media Shuttle and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.html",
-      "originalUrl": "https://www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rapidtvnews.com/images/2022/Feb_2022/Signiant_Media2Cloud_I10Feb2022.jpg",
-          "width": 874,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.amp.html",
-      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.amp.html",
-      "publishedDateTime": "2022-02-10T11:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rapid TV",
-        "domain": "rapidtvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-extract-entities-from-insurance-documents-using-amazon-comprehend-named-entity-recognition.md",
-      "title": "Extract entities from insurance documents using Amazon Comprehend named entity recognition",
-      "excerpt": "Intelligent document processing (IDP) is a common use case for customers on AWS. You can utilize&nbsp;Amazon Comprehend&nbsp;and&nbsp;Amazon Textract&nbsp;for a variety of use cases ranging from document extraction, data classification, and entity extraction. One specific industry that uses IDP is insurance.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extract-entities-from-insurance-documents-using-amazon-comprehend-named-entity-recognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extract-entities-from-insurance-documents-using-amazon-comprehend-named-entity-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/04/Screen-Shot-2022-02-04-at-1.49.29-PM.png",
-          "width": 1079,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T09:30:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-domino-data-lab-adds-autoscaling-to-mlops.md",
-      "title": "Domino Data Lab adds autoscaling to MLOps",
-      "excerpt": "Domino Data Lab 5.0 is focusing heavily on the deployment, autoscaling, and monitoring part of the machine learning lifecycle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/domino-data-lab-adds-autoscaling-to-mlops/",
-      "originalUrl": "https://www.zdnet.com/article/domino-data-lab-adds-autoscaling-to-mlops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b61c7907e86210dfb3ced032662b9a22a9763d65/2022/02/08/08c0dfa8-2677-4880-ac25-65e91de12f4b/ds.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/domino-data-lab-adds-autoscaling-to-mlops/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/domino-data-lab-adds-autoscaling-to-mlops/",
-      "publishedDateTime": "2022-02-09T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-techscape-surveillance-is-now-just-a-part-of-daily-life-for-us-citizens.md",
-      "title": "TechScape: surveillance is now just a part of daily life for US citizens",
-      "excerpt": "In this week’s newsletter: from seeking out mental health care to filing your taxes, being watched while doing even the most mundane things has become dangerously normalised",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance",
-      "originalUrl": "https://www.theguardian.com/technology/2022/feb/09/techscape-us-surveillance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/da7340c8bd85c3551cfe0eb308af0895429ef458/0_117_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=f3d9ac91fde9b8ffbe82321b33b028a3",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/feb/09/techscape-us-surveillance",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/feb/09/techscape-us-surveillance",
-      "publishedDateTime": "2022-02-09T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-irs-drops-facial-recognition-program-used-to-verify-identities.md",
-      "title": "IRS Drops Facial Recognition Program Used to Verify Identities",
-      "excerpt": "Also, Amazon’s Rekognition software has been previously shown to be inaccurate when trying to identify people of color. This led Amazon to announce it would no longer sell its facial recognition software to law enforcement agencies in 2020, as an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/extreme/331443-irs-drops-facial-recognition-program-used-to-verify-identities",
-      "originalUrl": "https://www.extremetech.com/extreme/331443-irs-drops-facial-recognition-program-used-to-verify-identities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.extremetech.com/wp-content/uploads/2018/10/598521-facial-recognition-640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-implement-mlops-using-aws-pre-trained-ai-services-with-aws-organizations.md",
-      "title": "Implement MLOps using AWS pre-trained AI Services with AWS Organizations",
-      "excerpt": "The AWS Machine Learning Operations (MLOps) framework is an iterative and repetitive process for evolving AI models over time. Like DevOps, practitioners gain efficiencies promoting their artifacts through various environments (such as quality assurance, integration, and production) for quality control.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implement-mlops-using-aws-pre-trained-ai-services-with-aws-organizations/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/implement-mlops-using-aws-pre-trained-ai-services-with-aws-organizations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/03/ml_6569_fig1-whitebackground.png",
-          "width": 1100,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T09:11:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-vecima-and-bluepeak-announce-industrys-first-cloud-based-distributed-access-architecture-controller-deployed-on-aws.md",
-      "title": "Vecima and Bluepeak Announce Industry's First Cloud-Based Distributed Access Architecture Controller Deployed on AWS",
-      "excerpt": "At the same time, the vast suite of AWS services, such as data lakes, artificial intelligence (AI) and machine learning (ML) services, and data and analytics creation all become native add-ons to this progressive architecture. Many cable operators are ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/vecima-and-bluepeak-announce-industrys-first-cloud-based-distributed-access-architecture-controller-deployed-on-aws",
-      "originalUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/vecima-and-bluepeak-announce-industrys-first-cloud-based-distributed-access-architecture-controller-deployed-on-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2020/03/businesswire2020.png",
-          "width": 596,
-          "height": 252,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T04:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-data-monetization-market-global-industry-analysis-size-share-growth-trends-and-forecast.md",
-      "title": "Data Monetization Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast",
-      "excerpt": "For this, GE Healthcare's partnership with Amazon Web Services (AWS), which provides the ability to deploy machine learning solutions at scale through the Amazon SageMaker machine learning platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/data-monetization-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022-02-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/data-monetization-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022-02-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T00:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-improve-high-value-research-with-hugging-face-and-amazon-sagemaker-asynchronous-inference-endpoints.md",
-      "title": "Improve high-value research with Hugging Face and Amazon SageMaker asynchronous inference endpoints",
-      "excerpt": "Many of our AWS customers provide research, analytics, and business intelligence as a service. This type of research and business intelligence enables their end customers to stay ahead of markets and competitors, identify growth opportunities, and address issues proactively. For example, some of our",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-high-value-research-with-hugging-face-and-amazon-sagemaker-asynchronous-inference-endpoints/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-high-value-research-with-hugging-face-and-amazon-sagemaker-asynchronous-inference-endpoints/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/31/ML-5933-image001-new.png",
-          "width": 811,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T12:19:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-facial-recognition-technology-falsely-identifies-women-more-than-men-find-out-why.md",
-      "title": "Facial Recognition Technology falsely identifies women more than men, find out why?",
-      "excerpt": "They analyzed two FR software, the first, Amazon Rekognition and the second Dlib. The research found that while Amazon’s software could recognize white men at a 99.06% accuracy, white women at a 92.9% accuracy, while Women of Color (WOC) were recognized ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/facial-recognition-technology-falsely-identifies-women-gajjala",
-      "originalUrl": "https://www.linkedin.com/pulse/facial-recognition-technology-falsely-identifies-women-gajjala",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQFrsrOwHTdvxQ/article-cover_image-shrink_600_2000/0/1644250595904?e=1650499200&v=beta&t=ReKSxGMFF90jQ66zuUDk_I6UpXSDihItcJ1_F3DMnao",
-          "width": 587,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T08:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-transform-basic-computing-skills-into-a-well-paid-aws-career-with-this-30-bundle.md",
-      "title": "Transform basic computing skills into a well-paid AWS career with this $30 bundle",
-      "excerpt": "Familiarity with Amazon's Virtual Private Cloud (VPC ... Get a twofer with \"AWS Machine Learning Using Python 2022\" and learn Python programming, as well as AWS Rekognition machine learning, with lots of hands-on instruction. Companies are actively ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/transform-your-basic-computing-skills-into-a-well-paid-aws-career-with-this-30-bundle/",
-      "originalUrl": "https://www.zdnet.com/article/transform-your-basic-computing-skills-into-a-well-paid-aws-career-with-this-30-bundle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/f760b15569b817dd6f1387fe56a23050b4d4f3b1/2022/02/04/568cace0-c1e4-4fff-ae24-ad13b92da55f/zd-2022-aws.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/transform-your-basic-computing-skills-into-a-well-paid-aws-career-with-this-30-bundle/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/transform-your-basic-computing-skills-into-a-well-paid-aws-career-with-this-30-bundle/",
-      "publishedDateTime": "2022-02-07T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-06-at-aws-cloud-day-2020-in-ahmedabad-aws-architects-discussed-how-their-cloud-solutions-could-help-startups-scale.md",
-      "title": "At AWS Cloud Day 2020 in Ahmedabad, AWS architects discussed how their Cloud solutions could help startups scale",
-      "excerpt": "The next session by Abhishek Mahanty, Senior Solutions Architect, AWS, covered the Artificial Intelligence (AI) and Machine Learning (ML) services provided by AWS. \"AI and ML are super popular now ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2020/03/aws-cloud-day-ahmedabad-cloud-solutions-startups/amp",
-      "originalUrl": "https://yourstory.com/2020/03/aws-cloud-day-ahmedabad-cloud-solutions-startups/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/AWSCloudDayAhmedabadImage-1583750134111.png ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2020/03/aws-cloud-day-ahmedabad-cloud-solutions-startups/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/03/aws-cloud-day-ahmedabad-cloud-solutions-startups/amp",
-      "publishedDateTime": "2022-02-05T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-nfl-and-aws-build-the-digital-athlete-what-is-it.md",
-      "title": "NFL and AWS build “The Digital Athlete”: What is it?",
-      "excerpt": "The Digital Athlete is a virtual representation of an NFL player that can be used to better predict and eventually prevent player injury.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/nfl-and-aws-build-the-digital-athlete-what-is-it/",
-      "originalUrl": "https://analyticsindiamag.com/nfl-and-aws-build-the-digital-athlete-what-is-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/NFL-banner.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-05T04:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
         "images": null,
         "publishers": null,
         "authors": null

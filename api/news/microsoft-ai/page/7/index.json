@@ -2,6 +2,907 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-04-microsoft-takes-azure-to-the-next-level.md",
+      "title": "Microsoft takes Azure to the next level",
+      "excerpt": "Microsoft first developed its cloud computing ... new capabilities for Azure Cognitive Services, Azure Digital Twins, and general availability of Azure IoT Central. Azure came to blockchain ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/msft/microsoft-takes-azure-to-the-next-level/",
+      "originalUrl": "https://sdtimes.com/msft/microsoft-takes-azure-to-the-next-level/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/01/MicrosoftAzure.jpg",
+          "width": 660,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-03-avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022.md",
+      "title": "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022",
+      "excerpt": "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage at CES 2022 in Las Vegas.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1718193/avalanche.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-03-artificial-intelligence-ai-in-manufacturing.md",
+      "title": "Artificial Intelligence (AI) in Manufacturing",
+      "excerpt": "Many see artificial intelligence (AI) in manufacturing as a major part of what is being termed a “new industrial revolution.” This next stage of industrialization is being driven by robotics, digitalization,",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/ai-in-manufacturing/",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/ai-in-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg",
+          "width": 2560,
+          "height": 1493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-03-the-cognitive-behaviour-therapist.md",
+      "title": "the Cognitive Behaviour Therapist",
+      "excerpt": "You are leaving Cambridge Core and will be taken to this journal's article submission site. To send this article to your account, please select one or more formats and confirm that you agree to abide by our usage policies. If this is the first time you use ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist/volume/C6DAAC9D66D8BB395165BC5F79B27810",
+      "originalUrl": "https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist/volume/C6DAAC9D66D8BB395165BC5F79B27810",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cambridge.org/core/services/aop-file-manager/file/56ab7c9d40b4e47e0c389966",
+          "width": 512,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T01:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-02-covid-is-making-americans-stupid-study-shows-worrying-about-virus-leads-to-people-making-bad-choices-and-performing-poorly-on-simple-cognitive.md",
+      "title": "COVID is making Americans stupid: Study shows worrying about virus leads to people making bad choices and performing poorly on simple cognitive tests",
+      "excerpt": "The basic cognitive abilities measured here are crucial for healthy daily living and decision-making,' said study author and McGill graduate student Kevin da Silva Castanheira in a statement ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-10362429/Study-shows-worrying-COVID-leads-bad-choices-performing-poorly-cognitive-tests.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-10362429/Study-shows-worrying-COVID-leads-bad-choices-performing-poorly-cognitive-tests.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/01/02/14/52464417-0-image-a-2_1641135531927.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-10362429/amp/Study-shows-worrying-COVID-leads-bad-choices-performing-poorly-cognitive-tests.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10362429/amp/Study-shows-worrying-COVID-leads-bad-choices-performing-poorly-cognitive-tests.html",
+      "publishedDateTime": "2022-01-02T07:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-02-ethical-impact-of-ai-on-health-safety-and-wellbeing.md",
+      "title": "Ethical impact of AI on health, safety and wellbeing",
+      "excerpt": "Across industry, the use of AI has become a key feature of the technological revolution in workplace safety, health and wellbeing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/",
+      "originalUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s32891.pcdn.co/wp-content/uploads/2019/10/GettyImages-1051617224.jpg",
+          "width": 800,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/amp/",
+      "cdnAmpWebUrl": "https://www-shponline-co-uk.cdn.ampproject.org/c/s/www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/amp/",
+      "publishedDateTime": "2022-01-02T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SHP Online",
+        "domain": "shponline.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-02-microsoft-open-sources-distributed-machine-learning-library-synapseml.md",
+      "title": "Microsoft Open-Sources Distributed Machine Learning Library SynapseML",
+      "excerpt": "To support integration with Azure Cognitive Services, SynapseML includes an HTTP on Spark module, which is described in detail in a paper by Hamilton's research team. HTTP on Spark provides an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/12/microsoft-synapseml/",
+      "originalUrl": "https://www.infoq.com/news/2021/12/microsoft-synapseml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/12/microsoft-synapseml/en/headerimage/generatedHeaderImage-1639936888547.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-01T10:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-01-from-implausible-artificial-neurons-to-idealized-cognitive-models-rebooting-philosophy-of-artificial-intelligence.md",
+      "title": "From Implausible Artificial Neurons to Idealized Cognitive Models: Rebooting Philosophy of Artificial Intelligence",
+      "excerpt": "From Implausible Artificial Neurons to Idealized Cognitive Models: Rebooting Philosophy of Artificial Intelligence - Volume 87 Issue 4",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/from-implausible-artificial-neurons-to-idealized-cognitive-models-rebooting-philosophy-of-artificial-intelligence/304D381BDEE5B9BE934B4ED7D8E00A00",
+      "originalUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/from-implausible-artificial-neurons-to-idealized-cognitive-models-rebooting-philosophy-of-artificial-intelligence/304D381BDEE5B9BE934B4ED7D8E00A00",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-31T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-01-model-based-reasoning-in-distributed-cognitive-systems.md",
+      "title": "Model-Based Reasoning in Distributed Cognitive Systems",
+      "excerpt": "Model-Based Reasoning in Distributed Cognitive Systems - Volume 73 Issue 5 Skip to main content Accessibility help We use cookies to distinguish you from other users and to provide you with a better experience on our websites.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/modelbased-reasoning-in-distributed-cognitive-systems/B49F43E888758A831887A08929C15533",
+      "originalUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/modelbased-reasoning-in-distributed-cognitive-systems/B49F43E888758A831887A08929C15533",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-31T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-31-discover-dollar-helps-enterprises-recover-overpayments-using-microsofts-ai-technologies.md",
+      "title": "Discover Dollar helps enterprises recover overpayments using Microsoft’s AI technologies",
+      "excerpt": "As a user of Microsoft technologies, Discover Dollar leverages the latest AI technologies like cognitive capabilities, AI, and ML services along with the Analytics stack to enhance the customer ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2021/12/discover-dollar-helps-enterprises-recover-overpayments-microsofts-ai-technologies/amp",
+      "originalUrl": "https://yourstory.com/2021/12/discover-dollar-helps-enterprises-recover-overpayments-microsofts-ai-technologies/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/F800x400-e-1640929232908.png ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2021/12/discover-dollar-helps-enterprises-recover-overpayments-microsofts-ai-technologies/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/12/discover-dollar-helps-enterprises-recover-overpayments-microsofts-ai-technologies/amp",
+      "publishedDateTime": "2021-12-30T21:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-31-rezos-ai-powered-contact-center-delivers-faster-results-with-microsofts-ai-capabilities.md",
+      "title": "Rezo’s AI-powered contact center delivers faster results with Microsoft’s AI capabilities",
+      "excerpt": "Azure AI helps startups access high-quality vision, speech, language and decision-making ... supporting a wide range of use cases, including translation for call centers, web page localisation ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp",
+      "originalUrl": "https://yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/F800x400-d-1640887464935.png ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp",
+      "publishedDateTime": "2021-12-30T21:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-31-microsoft-has-become-one-of-the-most-powerful-forces-in-healthcare-with-no-signs-of-slowing-down.md",
+      "title": "Microsoft Has Become One Of The Most Powerful Forces In Healthcare, With No Signs Of Slowing Down",
+      "excerpt": "Microsoft announced its latest venture in healthcare, adding on to its existing repertoire in this industry. In a groundbreaking statement, the technology and innovation giant announced a partnership with renowned pharmaceutical company CVS Health to “reimagine personalized care and accelerate digital transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/saibala/2021/12/30/microsoft-has-become-one-of-the-most-powerful-forces-in-healthcare-with-no-signs-of-slowing-down/",
+      "originalUrl": "https://www.forbes.com/sites/saibala/2021/12/30/microsoft-has-become-one-of-the-most-powerful-forces-in-healthcare-with-no-signs-of-slowing-down/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ce208dfb05e99a9755465d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4861%26cropY1%3D0%26cropY2%3D2865",
+          "width": 1200,
+          "height": 707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/12/30/microsoft-has-become-one-of-the-most-powerful-forces-in-healthcare-with-no-signs-of-slowing-down/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/12/30/microsoft-has-become-one-of-the-most-powerful-forces-in-healthcare-with-no-signs-of-slowing-down/amp/",
+      "publishedDateTime": "2021-12-30T12:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-artificial-intelligence-in-education-market-to-see-huge-growth-by-2026-microsoft-jellynote-google.md",
+      "title": "Artificial Intelligence In Education Market to See Huge Growth by 2026 | Microsoft, Jellynote, Google",
+      "excerpt": "In Education market size is expected to grow at a compound annual growth rate of xx% for the forecast period of 2021 to 2028. Market IntelliX report on Artificial Intelligence (Ai) In Education Artificial Intelligence (Ai) In Education Market report offers an overall scope of the market which includes future supply and demand scenarios,",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2514461/artificial-intelligence-in-education-market-to-see-huge-growth",
+      "originalUrl": "https://www.openpr.com/news/2514461/artificial-intelligence-in-education-market-to-see-huge-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/c/Uc30976301_g.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2514461/artificial-intelligence-in-education-market-to-see-huge-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2514461/artificial-intelligence-in-education-market-to-see-huge-growth",
+      "publishedDateTime": "2021-12-30T07:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-a-look-back-at-recent-ai-trends-and-what-2022-might-hold.md",
+      "title": "A look back at recent AI trends — and what 2022 might hold",
+      "excerpt": "Hear from CIOs, CTOs, and other C-level and senior execs on data and AI strategies at the Future of Work Summit this January 12, 2022. Learn more 2021 was an eventful year for AI. With the advent of new techniques,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/",
+      "originalUrl": "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/algorithm-e1638474876863.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/amp/",
+      "publishedDateTime": "2021-12-30T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Facebook AI",
+        "AI Ethics",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-looking-back-on-2021.md",
+      "title": "Looking Back on 2021",
+      "excerpt": "It's that time of year again. You know, the time where you start to question everything you are doing with your life, wonder if you have achieved anything at all - and desperately try to fill in your quarterly review forms with the words \"What was my impact?",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/looking-back-2021-michelle-sandford",
+      "originalUrl": "https://www.linkedin.com/pulse/looking-back-2021-michelle-sandford",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQG9G1db4qVsZg/article-cover_image-shrink_720_1280/0/1640665123412?e=1646870400&v=beta&t=3EIRwk89uk3naAHwI5JhLIBrwj0R9SXyHXf7GdBaGyA",
+          "width": 1277,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-29T20:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-2021-was-a-breakthrough-year-for-ai.md",
+      "title": "2021 was a breakthrough year for AI",
+      "excerpt": "As 2021 comes to a close, we take a quick look at all the major developments that took place in the AI space worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/",
+      "originalUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/AI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/",
+      "publishedDateTime": "2021-12-29T16:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-ethical-impact-of-ai-on-health-safety-and-wellbeing.md",
+      "title": "Ethical impact of AI on health, safety and wellbeing",
+      "excerpt": "Across industry, the use of AI has become a key feature of the technological revolution in workplace safety, health and wellbeing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/?elq_mid=6740",
+      "originalUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/?elq_mid=6740",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s32891.pcdn.co/wp-content/uploads/2019/10/GettyImages-1051617224.jpg",
+          "width": 800,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/?elq_mid=6740&amp",
+      "cdnAmpWebUrl": "https://www-shponline-co-uk.cdn.ampproject.org/c/s/www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/?elq_mid=6740&amp",
+      "publishedDateTime": "2021-12-29T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SHP Online",
+        "domain": "shponline.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy.md",
+      "title": "Transforming Big Data Initiatives Into AI Insights: Board Directors And CEO’s Must Improve Their Digital Literacy",
+      "excerpt": "This blog focuses on strategies to transform enterprise data into strategic real-time AI driven insights, and outlines the requirements for Board Directors, CEOs and leadership teams to increase their data literacy management skills.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/12/28/transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/28/transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ca1212809e5da36355466b%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/12/28/transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/28/transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy/amp/",
+      "publishedDateTime": "2021-12-27T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says.md",
+      "title": "Serious cognitive problems see abrupt drop among older people, study says",
+      "excerpt": "From 2008 to 2017, the percentage of adults ages 65 and older in the U.S. with serious cognitive issues dropped ... comment threads to stories from wire services such as the Associated Press ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/nation-world/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/",
+      "originalUrl": "https://www.seattletimes.com/nation-world/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/?amp=1",
+      "publishedDateTime": "2021-12-27T20:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-abrupt-decline-in-serious-cognitive-problems-among-older-americans-study-says.md",
+      "title": "‘Abrupt decline’ in serious cognitive problems among older Americans, study says",
+      "excerpt": "From 2008 to 2017, the percentage of adults ages 65 and older in the U.S. with serious cognitive issues dropped ... comment threads to stories from wire services such as the Associated Press ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/",
+      "originalUrl": "https://www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/?amp=1",
+      "publishedDateTime": "2021-12-27T04:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-knowing-more-about-democratization-of-ai-and-low-code-no-code-solutions.md",
       "title": "Knowing More About Democratization Of AI And Low-Code / No-Code Solutions",
       "excerpt": "Knowing More About Democratization Of AI And Low-Code / No-Code Solutions Earlier this year, we predicted that the democratization of AI and Low-Code / No-Code solutions would be two of the top technologies to watch in 2021.",
@@ -445,180 +1346,7 @@
         "Microsoft AI",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2021-12-17-effect-of-bilingualism-on-infants-cognitive-flexibility.md",
-      "title": "Effect of bilingualism on infants’ cognitive flexibility",
-      "excerpt": "Research suggests that bilinguals often outperform monolinguals on tasks that tap into executive functions, such as those requiring conflict resolution and cognitive flexibility. Recently, better attentional control has been detected in infants as young as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/effect-of-bilingualism-on-infants-cognitive-flexibility/FC2A581BD243D3F1CAE953FBF0BDB61C",
-      "originalUrl": "https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/effect-of-bilingualism-on-infants-cognitive-flexibility/FC2A581BD243D3F1CAE953FBF0BDB61C",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-artificial-intelligence-in-platform-as-a-service-market-is-going-to-boom-aws-ibm-microsoft.md",
-      "title": "Artificial Intelligence in Platform as a Service Market is Going to Boom | AWS, IBM, Microsoft",
-      "excerpt": "The growth of the Artificial Intelligence in Platform as a Service Market was mainly driven by the increasing R&D spending across the world. Some of the key players profiled in the study are: AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-platform-as-a-service-market-is-going-to-boom-aws-ibm-microsoft",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-platform-as-a-service-market-is-going-to-boom-aws-ibm-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/BBB-4-2-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-developing-ai-applications-on-azure.md",
-      "title": "Developing AI Applications on Azure",
-      "excerpt": "Next, this course introduces the machine learning tools available in Microsoft Azure. We'll review standardized approaches to data analytics and you'll receive specific guidance on Microsoft's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/education/skillbuilder/developing-ai-applications-on-azure-0_DMj3I_RZEemNmw4gGersHg",
-      "originalUrl": "https://www.usnews.com/education/skillbuilder/developing-ai-applications-on-azure-0_DMj3I_RZEemNmw4gGersHg",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T06:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-microsoft-releases-azure-bot-service-and-cognitive-services-language-understanding.md",
-      "title": "Microsoft releases Azure Bot Service and Cognitive Services Language Understanding",
-      "excerpt": "Microsoft Azure Bot Service and Microsoft Cognitive Services Language Understanding (LUIS) are now available. “Conversational AI, or making human and computer interactions more natural ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/",
-      "originalUrl": "https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2017/12/5588dd73-2c97-4efb-9a8e-e24ff0f31806-490x264.png",
-          "width": 490,
-          "height": 264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 8
 }

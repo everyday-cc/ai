@@ -2,64 +2,21 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2022-02-16-growing-rd-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth.md",
-      "title": "Growing R&D of AI & VR Platforms facilitate Global Graphic Processing Units (GPU) Market Growth",
-      "excerpt": "At the same time, there is a huge need for VR and AI platforms for efficient gaming purposes. This has led to companies launching GPU innovations in the market. For instance, NVidia introduced its ...",
+      "path": "_news/2022-02-23-cipia-brings-ai-and-computer-vision-monitoring-systems-to-eliminate-the-dangers-of-distracted-driving.md",
+      "title": "Cipia brings AI and computer vision monitoring systems to eliminate the dangers of distracted driving",
+      "excerpt": "The Driver Sense software-based driver monitoring system monitors the driver's state in real-time. It uses AI and computer vision, to monitor factors including gaze vector, blink rate, and eye openness for signs of drowsiness and distraction. It will ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/02/ab25653255/growing-r-d-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/ab25653255/growing-r-d-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth",
+      "webUrl": "https://www.zdnet.com/article/cipia-brings-ai-and-computer-vision-monitor-systems-to-eliminate-the-dangers-of-distracted-driving/",
+      "originalUrl": "https://www.zdnet.com/article/cipia-brings-ai-and-computer-vision-monitor-systems-to-eliminate-the-dangers-of-distracted-driving/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25653255",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25653255",
-      "publishedDateTime": "2022-02-15T17:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-microsoft-extends-emissions-impact-dashboard-to-microsoft-365.md",
-      "title": "Microsoft extends Emissions Impact Dashboard to Microsoft 365",
-      "excerpt": "Off the back of making its Emissions Impact Dashboard (EID) tool widely available for Azure last October ... accurate data is needed to help assess the carbon emissions in machine learning and identify strategies to mitigate those emissions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-extends-emissions-impact-dashboard-to-microsoft-365/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-extends-emissions-impact-dashboard-to-microsoft-365/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4a7df44fb0835e74d125ed7e4365ae7d8ef9e1f9/2022/02/16/d3d7d83c-8620-4899-a8eb-75644c5b689c/eid-m365-image-1-resized-to-1238px.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "url": "https://www.zdnet.com/a/img/resize/2c6201f42be83570fc0d45e5eb6e179c778baab4/2022/02/23/4f698728-050e-48e3-a92e-88edac184e64/cipia-driver-monitoring-system.jpg?width=1200&fit=bounds&auto=webp",
           "width": 1200,
-          "height": 750,
+          "height": 605,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -67,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-extends-emissions-impact-dashboard-to-microsoft-365/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-extends-emissions-impact-dashboard-to-microsoft-365/",
-      "publishedDateTime": "2022-02-15T16:20:00-08:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cipia-brings-ai-and-computer-vision-monitor-systems-to-eliminate-the-dangers-of-distracted-driving/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cipia-brings-ai-and-computer-vision-monitor-systems-to-eliminate-the-dangers-of-distracted-driving/",
+      "publishedDateTime": "2022-02-23T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -77,316 +34,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-inside-the-pentagons-ai-epiphany.md",
-      "title": "Inside the Pentagon's AI Epiphany",
-      "excerpt": "Fool contributor Lou Whiteman describes the history of the Pentagon's relationship with AI, and what the future may hold. Lou Whiteman: We're going to start with a wide view of what's going on with the Pentagon and then dig down into a couple of companies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/02/15/inside-the-pentagons-ai-epiphany/",
-      "originalUrl": "https://www.fool.com/investing/2022/02/15/inside-the-pentagons-ai-epiphany/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/666268/gettyimages-investortablet.jpg",
-          "width": 2138,
-          "height": 1402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T16:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-accelerating-fusion-science-through-learned-plasma-control.md",
-      "title": "Accelerating fusion science through learned plasma control",
-      "excerpt": "Successfully controlling the nuclear fusion plasma in a tokamak with deep reinforcement learning.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/Accelerating-fusion-science-through-learned-plasma-control",
-      "originalUrl": "https://deepmind.com/blog/article/Accelerating-fusion-science-through-learned-plasma-control",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/kcy5unE8ss8Hg60LfE4ZYABgx-KHRZI5Lv5AZNh9cQLVml9XzY5gaMIbEstF2uXLRzLyORH5Z-tiuaxyPylhTgSXwU_ru3ntscJvxQmI4MAPf2bmTw",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-considerations-before-the-decision-making-including-fluvoxamine-as-a-treatment-option-in-guidelines-on-the-management-of-covid-19.md",
-      "title": "Considerations before the decision-making including fluvoxamine as a treatment option in guidelines on the management of COVID-19",
-      "excerpt": "Unit of Psychiatry, Department of Public Health and Medicinal Administration, & Institute of Translational Medicine, Faculty of Health Sciences, University of Macau, Macao SAR, China Centre for Cognitive and Brain Sciences, University of Macau, Macao SAR ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/considerations-before-the-decisionmaking-including-fluvoxamine-as-a-treatment-option-in-guidelines-on-the-management-of-covid19/D0558A5A5FADE32AE3B5967E50E93198",
-      "originalUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/considerations-before-the-decisionmaking-including-fluvoxamine-as-a-treatment-option-in-guidelines-on-the-management-of-covid19/D0558A5A5FADE32AE3B5967E50E93198",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-ibm-watson-could-revolutionize-healthcare.md",
-      "title": "IBM Watson Could Revolutionize Healthcare",
-      "excerpt": "If you’ve been watching Jeopardy! over the past couple days, you probably know that IBM’s highly-advanced artificial intelligence software, Watson, has been competing against Jeopardy!’",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2011/02/ibm_watson_could_revolutionize_healthcare.html",
-      "originalUrl": "https://www.medgadget.com/2011/02/ibm_watson_could_revolutionize_healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-oh-captain-my-captain-no-captain-emerging-risks-from-advanced-automation-in-the-maritime-sector.md",
-      "title": "Oh Captain, My Captain . . . No Captain? Emerging Risks from Advanced Automation in the Maritime Sector",
-      "excerpt": "The marine industry is facing increased scrutiny as a result of goods being delayed at ports due to congestion and is looking for options for improved efficiencies, including advanced autonomy and artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.americanbar.org/groups/tort_trial_insurance_practice/publications/tortsource/2022/winter/oh-captain-my-captain-no-captain-emerging-risks-advanced-automation-the-maritime-sector/",
-      "originalUrl": "https://www.americanbar.org/groups/tort_trial_insurance_practice/publications/tortsource/2022/winter/oh-captain-my-captain-no-captain-emerging-risks-advanced-automation-the-maritime-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.americanbar.org/content/dam/aba/images/tort_trial_insurance_practice/ts-24-2-automation-2560x1440.png",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Bar Association",
-        "domain": "americanbar.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-huawei-defines-6g-as-a-distributed-neural-network-with-communication-links.md",
-      "title": "Huawei defines 6G as a distributed neural network with communication links",
-      "excerpt": "According to Peiying Zhu , Senior Vice President of Wireless Research at Huawei, 6G looks more like a 'distributed neural network with communication ... robotics and smart healthcare, and artificial intelligence as a service,” Zhu explained.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jamaicaobserver.com/latestnews/Huawei_defines_6G_as_a_distributed_neural_network_with_communication_links?profile=3134",
-      "originalUrl": "https://www.jamaicaobserver.com/latestnews/Huawei_defines_6G_as_a_distributed_neural_network_with_communication_links?profile=3134",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.jamaicaobserver.com/apps/pbcsi.dll/storyimage/JO/20220215/ARTICLE/220219698/AR/0/AR-220219698.jpg",
-          "width": 498,
-          "height": 332,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.jamaicaobserver.com/latestnews/Huawei_defines_6G_as_a_distributed_neural_network_with_communication_links",
-      "cdnAmpWebUrl": "https://amp-jamaicaobserver-com.cdn.ampproject.org/c/s/amp.jamaicaobserver.com/latestnews/Huawei_defines_6G_as_a_distributed_neural_network_with_communication_links",
-      "publishedDateTime": "2022-02-15T15:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jamaica Observer",
-        "domain": "jamaicaobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-us-senators-urge-ditching-idme-face-recognition-for-unemployment-seekers.md",
-      "title": "U.S. senators urge ditching ID.me, face recognition for unemployment seekers",
-      "excerpt": "But about half of U.S. states still use ID.me, which employs a mix of facial recognition technology and video-chat interviews to confirm the identity of unemployment applicants. Activists have argued that facial recognition remains too faulty for use in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/us/us-senators-urge-ditching-idme-face-recognition-unemployment-seekers-2022-02-15/",
-      "originalUrl": "https://www.reuters.com/world/us/us-senators-urge-ditching-idme-face-recognition-unemployment-seekers-2022-02-15/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/nqvndH2CybKuE2pdSk8JW5SRvKU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3J3TVDV7HZMYZEUT7SJKJQRTNY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T13:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -407,562 +54,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-16-how-a-semantic-layer-bridges-bi-and-ai.md",
-      "title": "How a semantic layer bridges BI and AI",
-      "excerpt": "Augmented intelligence (also called augmented analytics or decision intelligence) brings AI-generated insights into traditional business intelligence workflows to improve data-driven decisions.",
+      "path": "_news/2022-02-23-reducing-cloud-waste-by-optimizing-kubernetes-with-machine-learning.md",
+      "title": "Reducing cloud waste by optimizing Kubernetes with machine learning",
+      "excerpt": "Applications are proliferating, cloud complexity is exploding, and Kubernetes is prevailing as the foundation for application deployment in the cloud. That sounds like an optimization task ripe for machine learning,",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/15/how-a-semantic-layer-bridges-bi-and-ai/",
-      "originalUrl": "https://venturebeat.com/2022/02/15/how-a-semantic-layer-bridges-bi-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1227621680.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/15/how-a-semantic-layer-bridges-bi-and-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/15/how-a-semantic-layer-bridges-bi-and-ai/amp/",
-      "publishedDateTime": "2022-02-15T11:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-mendix-and-amazon-web-services-expand-their-seven-year-strategic-relationship-with-intelligent-automation-solutions.md",
-      "title": "Mendix and Amazon Web Services Expand Their Seven-Year Strategic Relationship with Intelligent Automation Solutions",
-      "excerpt": "and Amazon Rekognition to identify objects, people, text and activities in images and videos. Customers can also embed these AWS Services into their own custom applications. \"Mendix's enterprise ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/mendix-and-amazon-web-services-expand-their-seven-year-strategic-relationship-with-intelligent-automation-solutions/article_57022dae-08ce-5e62-b53c-b8b919616784.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/mendix-and-amazon-web-services-expand-their-seven-year-strategic-relationship-with-intelligent-automation-solutions/article_57022dae-08ce-5e62-b53c-b8b919616784.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/05/505bb616-e274-5f07-b87d-e3f1e073b62e/6059dd357e0be.image.jpg?crop=611%2C321%2C238%2C0&resize=611%2C321&order=crop%2Cresize",
-          "width": 611,
-          "height": 321,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-why-robotic-process-automation-is-quickly-becoming-a-must-for-downstream-companies.md",
-      "title": "Why robotic process automation is quickly becoming a must for downstream companies",
-      "excerpt": "For the refining operation that wants to relieve its planning team of mind-numbing manual data-management tasks ... in the hydrocarbon supply chain turn to a technology known as robotic process automation (RPA) as an important step toward becoming an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hydrocarbonprocessing.com/magazine/2022/february-2022/special-focus-digital-technologies/why-robotic-process-automation-is-quickly-becoming-a-must-for-downstream-companies",
-      "originalUrl": "https://www.hydrocarbonprocessing.com/magazine/2022/february-2022/special-focus-digital-technologies/why-robotic-process-automation-is-quickly-becoming-a-must-for-downstream-companies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hydrocarbon Processing",
-        "domain": "hydrocarbonprocessing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems.md",
-      "title": "AI can erase tattoos from photos to help face recognition systems",
-      "excerpt": "Artificial intelligence can accurately remove tattoos from photos of people’s faces – potentially helping face recognition systems, which can be flummoxed by such tattoos, work accurately. In previous research, Mathias Ibsen at Darmstadt University of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/",
-      "originalUrl": "https://www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/02/15162452/PRI_223719357.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/amp/",
-      "publishedDateTime": "2022-02-15T09:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-the-cryptocurrency-industry-is-cozying-up-to-lawmakers-in-washington.md",
-      "title": "The Cryptocurrency Industry Is Cozying Up to Lawmakers in Washington",
-      "excerpt": "(Michael Nagle / Bloomberg via Getty Images) Have you read ... financial disclosure he filed last July. Progressive representative Marie Newman (D-IL) also has ties to the crypto industry, since her husband, Jim Newman, has reportedly traded sixteen times ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/e24c93b8-85e6-4002-afdd-dd650a274f16",
-      "originalUrl": "https://jacobinmag.com/2022/02/cryptocurrency-industry-lawmakers-investment-energy-blockchain-mining",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff0460153-569b-4a33-8c65-90ab2790bdc5.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/e24c93b8-85e6-4002-afdd-dd650a274f16",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e24c93b8-85e6-4002-afdd-dd650a274f16",
-      "publishedDateTime": "2022-02-15T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jacobin",
-        "domain": "jacobinmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-uk-watchdogs-to-clamp-down-on-banks-using-discriminatory-ai-in-loan-applications.md",
-      "title": "UK watchdogs to clamp down on banks using discriminatory AI in loan applications",
-      "excerpt": "UK banks that use AI to approve loan applications must be able to prove the tech will not worsen discrimination against minorities. Banks must recognise the inherent flaws in AI, improve transparency, and take responsibility for problems. Insider ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2",
-      "originalUrl": "https://www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/620bccdfb20df7001809f414?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2?amp",
-      "publishedDateTime": "2022-02-15T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-baidus-self-driving-vehicles-take-a-turn-with-olympics-showcase.md",
-      "title": "Baidu’s Self-Driving Vehicles Take a Turn With Olympics Showcase",
-      "excerpt": "The 2022 Winter Olympics in Beijing promised another big opportunity for autonomous vehicle testing in a real-world situation, this time in vehicles made by one of China’s biggest technology companies, Baidu ... deployment of self-driving vehicles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloombergquint.com/business/baidu-s-self-driving-vehicles-take-a-turn-with-olympics-showcase",
-      "originalUrl": "https://www.bloombergquint.com/business/baidu-s-self-driving-vehicles-take-a-turn-with-olympics-showcase",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T07:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BloombergQuint",
-        "domain": "bloombergquint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-machine-learning-becomes-a-mathematical-collaborator.md",
-      "title": "Machine Learning Becomes a Mathematical Collaborator",
-      "excerpt": "Two recent collaborations between mathematicians and DeepMind demonstrate the potential of machine learning to help researchers generate new mathematical conjectures. “The things that I love about mathematics are its intuitive and creative aspects ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/",
-      "originalUrl": "https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/Deepmind_1200_Social.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T07:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quanta Magazine",
-        "domain": "quantamagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-liveperson-put-more-personality-and-ai-into-next-gen-bots.md",
-      "title": "LivePerson put more personality (and AI) into next-gen bots",
-      "excerpt": "The New York City-based company today revealed several new AI capabilities and integrations to help its clients offer what it calls “curiously human” digital experiences to their customers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/",
-      "originalUrl": "https://venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/chatbots-e1624470249681.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/15/liveperson-put-more-personality-and-ai-into-next-gen-bots/amp/",
-      "publishedDateTime": "2022-02-15T07:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-databricks-launches-lakehouse-for-financial-services-sector.md",
-      "title": "Databricks launches lakehouse for financial services sector",
-      "excerpt": "“Databricks Lakehouse for Financial Services enables Gemini to bring together data ingestion, machine learning, and analytical engineering onto a single platform,” Sri Rajappa, head of data at ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/15/databricks-launches-lakehouse-for-financial-services-sector/",
-      "originalUrl": "https://venturebeat.com/2022/02/15/databricks-launches-lakehouse-for-financial-services-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/databricks.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/15/databricks-launches-lakehouse-for-financial-services-sector/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/15/databricks-launches-lakehouse-for-financial-services-sector/amp/",
-      "publishedDateTime": "2022-02-15T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-gtt-group-to-sell-neural-network-ai-machine-learning-portfolio.md",
-      "title": "GTT Group To Sell Neural Network AI Machine Learning Portfolio",
-      "excerpt": "Among the innovations are Cooperative Latent Variable Groups (CLVGs), which produce high-level explanations of unstructured data without requiring supervision or the myriad of common Deep Learning techniques. CLVGs are highly simplified building blocks ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/02/n25639015/gtt-group-to-sell-neural-network-ai-machine-learning-portfolio",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/n25639015/gtt-group-to-sell-neural-network-ai-machine-learning-portfolio",
+      "webUrl": "https://www.zdnet.com/article/reducing-cloud-waste-by-optimizing-kubernetes-with-machine-learning/",
+      "originalUrl": "https://www.zdnet.com/article/reducing-cloud-waste-by-optimizing-kubernetes-with-machine-learning/",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://www.benzinga.com/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25639015",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25639015",
-      "publishedDateTime": "2022-02-15T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-breaking-ai-stock-news-gbt-otcpk-gtch-seeks-to-develop-an-ai-empowered-technology-for-automatic-compaction-of-integrated-circuit-layout.md",
-      "title": "Breaking AI Stock News: GBT (OTCPK: $GTCH) Seeks to Develop an AI Empowered Technology for Automatic Compaction of Integrated Circuit Layout Data IPs",
-      "excerpt": "GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT\" or the \"Company\"), is developing an AI empowered technology for automatic compaction of integrated circuit (IC) layout blocks. As modern ICs are ever growing in complexity and size there is a high demand for design automation to reduce silicon area and increase its yield.",
-      "sourceUrl": null,
-      "webUrl": "https://www.investorideas.com/CO/GOPH/news/2022/02151AI-Empowered-IC.asp",
-      "originalUrl": "https://www.investorideas.com/CO/GOPH/news/2022/02151AI-Empowered-IC.asp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.investorideas.com/CO/GOPH/img/GBT-Technologies.jpg",
-          "width": 649,
-          "height": 328,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investor ideas",
-        "domain": "investorideas.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-building-an-ai-flywheel-grabangos-checkout-free-tech-rolls-out-in-tennessee.md",
-      "title": "Building an AI flywheel: Grabango's checkout-free tech rolls out in Tennessee",
-      "excerpt": "Five years after launching its first proof-of-concept, the checkout-free technology startup Grabango is rolling out into its ... Thanks to real-world learnings and improvements to its AI, Grabango is gaining real momentum, founder and CEO Will Glaser ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/building-an-ai-flywheel-grabangos-checkout-free-tech-rolls-out-in-tennessee/",
-      "originalUrl": "https://www.zdnet.com/article/building-an-ai-flywheel-grabangos-checkout-free-tech-rolls-out-in-tennessee/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ba333dd4285fa180de9fdbb396baddc16f712b33/2022/02/15/aaf6c630-eb78-4bfb-ad41-105772c1b92f/mapco-grabango.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "url": "https://www.zdnet.com/a/img/resize/1f0604a1d9d2b6a77b5795fba70aebe4371a290b/2022/02/23/d2f728c8-9ea7-4ef2-9d7e-c956359e61bd/stormforge.png?width=1200&fit=bounds&format=pjpg&auto=webp",
           "width": 1200,
-          "height": 800,
+          "height": 821,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -970,9 +76,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/building-an-ai-flywheel-grabangos-checkout-free-tech-rolls-out-in-tennessee/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/building-an-ai-flywheel-grabangos-checkout-free-tech-rolls-out-in-tennessee/",
-      "publishedDateTime": "2022-02-15T06:00:00-08:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/reducing-cloud-waste-by-optimizing-kubernetes-with-machine-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/reducing-cloud-waste-by-optimizing-kubernetes-with-machine-learning/",
+      "publishedDateTime": "2022-02-23T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -995,25 +101,26 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-02-15-parascript-goes-a-step-further-in-intelligent-document-processing-with-formxtraai-83.md",
-      "title": "Parascript Goes a Step Further in Intelligent Document Processing with FormXtra.AI 8.3",
-      "excerpt": "Parascript FormXtra.AI 8.3, using Smart Learning, turns complex, time-consuming, costly, and error-prone activities common with advanced capture into simple compute time. LONGMONT, Colo., Feb. 15, 2022 /PRNewswire/ -- Parascript, which has been delivering ...",
+      "path": "_news/2022-02-23-speech-graphics-raises-7m-for-lip-synced-facial-animation.md",
+      "title": "Speech Graphics raises $7M for lip-synced facial animation",
+      "excerpt": "Speech Graphics has raised $7 million in funding to build its audio-driven facial animation technology. It is dubbing, using AI.",
       "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/parascript-goes-step-further-intelligent-document-processing-formxtraai-83",
-      "originalUrl": "https://www.asiaone.com/business/parascript-goes-step-further-intelligent-document-processing-formxtraai-83",
+      "webUrl": "https://venturebeat.com/2022/02/23/speech-graphics-raises-7m-for-audio-driven-facial-animation/",
+      "originalUrl": "https://venturebeat.com/2022/02/23/speech-graphics-raises-7m-for-audio-driven-facial-animation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2022/pr-newswire_500_4_387.jpg?itok=1yPMWIJp",
-          "width": 763,
-          "height": 509,
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/speech.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 652,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1021,14 +128,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/parascript-goes-step-further-intelligent-document-processing-formxtraai-83?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/parascript-goes-step-further-intelligent-document-processing-formxtraai-83?amp",
-      "publishedDateTime": "2022-02-15T06:00:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2022/02/23/speech-graphics-raises-7m-for-audio-driven-facial-animation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/23/speech-graphics-raises-7m-for-audio-driven-facial-animation/amp/",
+      "publishedDateTime": "2022-02-23T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1042,12 +158,246 @@
       ]
     },
     {
-      "path": "_news/2022-02-15-facial-recognition-market-report-trends-competitive-landscape-and-opportunities-latest-report-values-till-2027.md",
-      "title": "Facial Recognition Market Report Trends, Competitive Landscape and Opportunities latest report values till 2027",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 15, 2022 (Market Insight Reports) -- The Global Facial Recognition market study focuses major leading industry players with information such as company profiles ...",
+      "path": "_news/2022-02-23-artificial-intelligence-and-robotics-could-be-growth-area-for-bradford-but-there-are-still-gaps-in-tech-inequality.md",
+      "title": "Artificial intelligence and robotics could be 'growth area' for Bradford - but there are still gaps in tech inequality",
+      "excerpt": "ARTIFICIAL Intelligence and robotics could \"major growth areas\" for Bradford in the coming years - a meeting has heard.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-report-trends-competitive-landscape-and-opportunities-latest-report-values-till-2027-2022-02-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-report-trends-competitive-landscape-and-opportunities-latest-report-values-till-2027-2022-02-15",
+      "webUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.artificial-intelligence-robotics-growth-area-bradford---still-gaps-tech-inequality/",
+      "originalUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.artificial-intelligence-robotics-growth-area-bradford---still-gaps-tech-inequality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetelegraphandargus.co.uk/resources/images/13502282/?type=responsive-gallery",
+          "width": 650,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.amp/",
+      "cdnAmpWebUrl": "https://www-thetelegraphandargus-co-uk.cdn.ampproject.org/c/s/www.thetelegraphandargus.co.uk/news/19943900.amp/",
+      "publishedDateTime": "2022-02-23T05:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telegraph & Argus",
+        "domain": "thetelegraphandargus.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-how-a-financial-planner-went-from-broke-to-generating-85-million.md",
+      "title": "How A Financial Planner Went From Broke To Generating $8.5 Million",
+      "excerpt": "Failure is a great teacher. When a financial manager went into debt, she took her own advice to manage her business, wealth and investments better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/",
+      "originalUrl": "https://www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62159857d3e152c3f3c0952c/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 960,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/amp/",
+      "publishedDateTime": "2022-02-23T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-digital-twins-ai-ml-transforming-the-fintech-landscape.md",
+      "title": "Digital Twins: AI & ML Transforming the Fintech Landscape",
+      "excerpt": "As emerging technologies of AI and ML get weaved into the fintech fabric, the industry will have to prep up to address an avalanche of new use-cases",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/420077",
+      "originalUrl": "https://www.entrepreneur.com/article/420077",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1645607608-MyPost10.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T01:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-court-rules-that-waymo-can-keep-its-robotaxi-emergency-protocols-a-secret.md",
+      "title": "Court rules that Waymo can keep its robotaxi emergency protocols a secret",
+      "excerpt": "The California Superior Court in Sacramento has ruled in favor of Waymo, allowing the company to keep specific details about its autonomous vehicle technology a secret. Waymo won the case against the California Department of Motor Vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/court-rules-waymo-can-keep-robotaxi-emergency-protocols-secret-084641836.html",
+      "originalUrl": "https://www.engadget.com/court-rules-waymo-can-keep-robotaxi-emergency-protocols-secret-084641836.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-02/67df5d70-947c-11ec-aaf7-a06e955e8824",
+          "width": 1600,
+          "height": 1003,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T00:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-maple-leaf-sports-entertainment-and-aws-team-up-to-transform-experiences-for-canadian-sports-fans.md",
+      "title": "Maple Leaf Sports & Entertainment and AWS Team Up to Transform Experiences for Canadian Sports Fans",
+      "excerpt": "MLSE aims to offer its teams new AWS-powered insights to further improve the caliber of gameplay. Using Amazon Rekognition (AWS&CloseCurlyQuote;s service for automated image and video analysis) and Amazon Kinesis (AWS&CloseCurlyQuote;s service for easily ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/02/23/maple-leaf-sports-entertainment-and-aws-team-up-to-transform-experiences-for",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/02/23/maple-leaf-sports-entertainment-and-aws-team-up-to-transform-experiences-for",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T00:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-cyclerion-therapeutics-and-ariana-pharma-announce-an-artificial-intelligence-driven-precision-medicine-collaboration.md",
+      "title": "Cyclerion Therapeutics and Ariana Pharma Announce an Artificial Intelligence-driven Precision Medicine Collaboration",
+      "excerpt": "Ariana Pharma's proprietary KEM(R) (Knowledge Extraction and Management) eXplainable Artificial Intelligence (xAI ... who may benefit most from the therapy, by identifying patient-selection ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cyclerion-therapeutics-and-ariana-pharma-announce-an-artificial-intelligence-driven-precision-medicine-collaboration-2022-02-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/cyclerion-therapeutics-and-ariana-pharma-announce-an-artificial-intelligence-driven-precision-medicine-collaboration-2022-02-23",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1066,7 +416,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T05:33:00-08:00",
+      "publishedDateTime": "2022-02-23T00:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -1089,26 +439,69 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-02-15-automotive-artificial-intelligence-market-research-in-depth-analysis-manufacturers-forecasts-to-2021-2031.md",
-      "title": "Automotive Artificial Intelligence Market Research In-Depth Analysis, Manufacturers, Forecasts To 2021-2031",
-      "excerpt": "the automotive artificial intelligence market can be split into autonomous vehicles, semi-autonomous vehicles, and electric vehicles. An autonomous vehicle is a self-driving vehicle that utilizes ...",
+      "path": "_news/2022-02-23-exponentiaai-raises-additional-funding-from-amit-midha-and-technog-solutions.md",
+      "title": "Exponentia.ai raises additional funding from Amit Midha and Technog Solutions",
+      "excerpt": "Exponentia.ai has announced that it has raised funding from Investors - Amit Midha, President - Dell Technologies and Technog Solutions.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/automotive-artificial-intelligence-market-research-in-depth-analysis-manufacturers-forecasts-to-2021-2031",
-      "originalUrl": "https://www.digitaljournal.com/pr/automotive-artificial-intelligence-market-research-in-depth-analysis-manufacturers-forecasts-to-2021-2031",
+      "webUrl": "https://www.business-standard.com/content/press-releases-ani/exponentia-ai-raises-additional-funding-from-amit-midha-and-technog-solutions-122022300687_1.html",
+      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/exponentia-ai-raises-additional-funding-from-amit-midha-and-technog-solutions-122022300687_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/23/full/20220223124931.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/exponentia-ai-raises-additional-funding-from-amit-midha-and-technog-solutions-122022300687_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/exponentia-ai-raises-additional-funding-from-amit-midha-and-technog-solutions-122022300687_1.html",
+      "publishedDateTime": "2022-02-23T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-exponentiaai-raises-additional-funding-from-mr-amit-midha-and-technog-solutions.md",
+      "title": "Exponentia.ai raises additional funding from Mr. Amit Midha and Technog Solutions",
+      "excerpt": "Exponentia.ai has announced that it has raised funding from Investors - Mr. Amit Midha, President - Dell Technologies and Technog Solutions. The funds will be used to strengthen Exponentia's offerings in the AI space and expand to new geographies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/02/23/9550279.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/02/23/9550279.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png",
-          "width": 600,
-          "height": 337,
+          "url": "https://mma.prnewswire.com/media/1752365/ramendra_shukla.jpg",
+          "width": 400,
+          "height": 391,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1118,11 +511,450 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T05:19:00-08:00",
+      "publishedDateTime": "2022-02-22T22:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-microsofts-new-singularity-ai-system-might-have-100000-gpus.md",
+      "title": "Microsoft’s New ‘Singularity’ AI System Might Have 100,000+ GPUs",
+      "excerpt": "Microsoft's research teams are working on Singularity, a new infrastructre to manage AI and deep learning workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://fossbytes.com/microsoft-singularity-ai-gpu/",
+      "originalUrl": "https://fossbytes.com/microsoft-singularity-ai-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fossbytes.com/wp-content/uploads/2022/02/microsoft-ai.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fossbytes.com/microsoft-singularity-ai-gpu/amp/",
+      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/microsoft-singularity-ai-gpu/amp/",
+      "publishedDateTime": "2022-02-22T21:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Foss Bytes",
+        "domain": "fossbytes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-artificial-intelligence-and-robotics-could-be-growth-are-for-bradford-but-there-are-still-gaps-in-tech-inequality.md",
+      "title": "Artificial intelligence and robotics could be 'growth are' for Bradford - but there are still gaps in tech inequality",
+      "excerpt": "ARTIFICIAL Intelligence and robotics could \"major growth areas\" for Bradford in the coming years - a meeting has heard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.artificial-intelligence-robotics-growth-are-bradford---still-gaps-tech-inequality/",
+      "originalUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.artificial-intelligence-robotics-growth-are-bradford---still-gaps-tech-inequality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetelegraphandargus.co.uk/resources/images/13502282/?type=responsive-gallery",
+          "width": 650,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.amp/",
+      "cdnAmpWebUrl": "https://www-thetelegraphandargus-co-uk.cdn.ampproject.org/c/s/www.thetelegraphandargus.co.uk/news/19943900.amp/",
+      "publishedDateTime": "2022-02-22T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telegraph & Argus",
+        "domain": "thetelegraphandargus.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-irs-doesnt-completely-scrap-facial-recognition-just-makes-it-optional.md",
+      "title": "IRS doesn't completely scrap facial recognition, just makes it optional",
+      "excerpt": "Folks setting up an online IRS account will be given the choice of providing biometric data, or speaking with a human agent in a video call, to authenticate. Those who are comfortable with facial recognition can submit a selfie,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/02/23/irs_facial_deletion/",
+      "originalUrl": "https://www.theregister.com/2022/02/23/irs_facial_deletion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2020/01/17/shutterstock_facial_recognition.jpg",
+          "width": 1000,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/02/23/irs_facial_deletion/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/23/irs_facial_deletion/",
+      "publishedDateTime": "2022-02-22T20:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-control-formality-in-machine-translated-text-using-amazon-translate.md",
+      "title": "Control formality in machine translated text using Amazon Translate",
+      "excerpt": "Amazon Translate&nbsp;is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation. Amazon Translate now supports formality customization. This feature allows you to customize the level of formality in your translation output. At the time",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/control-formality-in-machine-translated-text-using-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/control-formality-in-machine-translated-text-using-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T19:45:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict.md",
+      "title": "Semiconductor Watch List: Key Chip Ingredients At Risk in Ukraine Conflict",
+      "excerpt": "The alarming prospect of war on the European continent -- in what would be the largest scale conflict since the Yugoslav wars -- has roiled the markets,” wrote Real Money’s Kevin Curran recently. “Meanwhile,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
+      "originalUrl": "https://www.thestreet.com/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTc5MzkyMTc5NTIzODIyOTI1/stock-trader-distressed.jpg",
+          "width": 620,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
+      "publishedDateTime": "2022-02-22T18:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-eca-to-inaugurate-africas-1st-ai-research-centre-in-brazzaville-congo.md",
+      "title": "ECA to Inaugurate Africa’s 1st AI Research Centre in Brazzaville Congo",
+      "excerpt": "Addis Ababa, February 23/2022 /ENA/ The Economic Commission for Africa (ECA) is set to launch Africa’s first Artificial Intelligence (AI) research center in Brazzaville Congo, with focus on technology and innovationThe center,",
+      "sourceUrl": null,
+      "webUrl": "https://africa.cgtn.com/2022/02/24/first-ai-research-center-inaugurated-in-republic-of-congo/",
+      "originalUrl": "https://www.msn.com/en-xl/africa/other/eca-to-inaugurate-africa-s-1st-ai-research-centre-in-brazzaville-congo/ar-AAUdZz8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://africa.cgtn.com/wp-content/photo-gallery/2022/02/Advantages_and_Disadvantages_of_artificial_intelligence.jpg",
+          "width": 848,
+          "height": 477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cgtn.com/2022/02/24/first-ai-research-center-inaugurated-in-republic-of-congo/",
+        "domain": "cgtn.com/2022/02/24/first-ai-research-center-inaugurated-in-republic-of-congo/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-educational-robotics-to-top-4-billion-by-2028.md",
+      "title": "Educational Robotics to Top $4 Billion by 2028",
+      "excerpt": "Educational Robotics to Top $4 Billion by 2028. By David Nagel; 02/23/22; The need for robotics in education will help drive double-digit annual growth",
+      "sourceUrl": null,
+      "webUrl": "https://thejournal.com/Articles/2022/02/23/Educational-Robotics-to-Top-4-Billion-by-2028.aspx?s=the_nu_240222&p=1",
+      "originalUrl": "https://thejournal.com/Articles/2022/02/23/Educational-Robotics-to-Top-4-Billion-by-2028.aspx?s=the_nu_240222&p=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thejournal.com/~/media/EDU/THEJournal/THElogo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Journal",
+        "domain": "thejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-ai-player-wildwood-data-inc-guarantees-more-sales-for-small-businesses.md",
+      "title": "AI Player Wildwood Data, Inc. Guarantees More Sales For Small Businesses",
+      "excerpt": "Their guarantee is possible because of their access to both public and private data aggregates, their proprietary AI, and their acquisition approach. Their approaches and algorithms were beta tested using a handful of startup companies with memberships at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/02/ab25769210/ai-player-wildwood-data-inc-guarantees-more-sales-for-small-businesses",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/ab25769210/ai-player-wildwood-data-inc-guarantees-more-sales-for-small-businesses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25769210",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25769210",
+      "publishedDateTime": "2022-02-22T15:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-irs-offers-alternative-to-facial-recognition.md",
+      "title": "IRS offers alternative to facial recognition",
+      "excerpt": "A short-term option involves a virtual interview with IRS personnel to authenticate taxpayers’ and practitioners’ identities for online services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetaxadviser.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html",
+      "originalUrl": "https://www.thetaxadviser.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetaxadviser.com/content/dam/tta/tta-default-cover-image.jpg",
+          "width": 255,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T14:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tax Adviser",
+        "domain": "thetaxadviser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-propelled-by-multiple-trends-alphabet-stock-should-rally.md",
+      "title": "Propelled by Multiple Trends, Alphabet Stock Should Rally",
+      "excerpt": "Finally, Alphabet is using advancements that it has made in artificial intelligence (AI ... I was very bullish on Waymo, writing that “There are multiple signs that […] Waymo is way ahead ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2022/02/goog-stock-propelled-by-multiple-trends-alphabet-stock-should-rally/",
+      "originalUrl": "https://investorplace.com/2022/02/goog-stock-propelled-by-multiple-trends-alphabet-stock-should-rally/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/goog1600b.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2022/02/goog-stock-propelled-by-multiple-trends-alphabet-stock-should-rally/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/02/goog-stock-propelled-by-multiple-trends-alphabet-stock-should-rally/amp/",
+      "publishedDateTime": "2022-02-22T13:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1134,6 +966,197 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-facial-recognition-technology-faces-mounting-legal-ethical-questions.md",
+      "title": "Facial recognition technology faces mounting legal, ethical questions",
+      "excerpt": "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021. The Texas Attorney General, Ken Paxton, filed a lawsuit in mid-February, seeking damages related to Facebook's photo services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions",
+      "originalUrl": "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/cc0c13f/2147483647/strip/true/crop/702x395+69+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff4%2F94%2Fd4d0abae4343a0b874f0fcaff0a7%2Fscreen-shot-2022-02-22-at-3.01.08%20PM.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true",
+      "cdnAmpWebUrl": "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true",
+      "publishedDateTime": "2022-02-22T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCPO Cincinnati",
+        "domain": "wcpo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-irs-will-let-tax-payers-opt-out-of-facial-recognition-but-theres-a-big-catch.md",
+      "title": "IRS will let tax payers opt out of facial recognition, but there's a big catch",
+      "excerpt": "Although the IRS has dropped its plans to use video selfies to verify the identities of taxpayers, this year's tax season is still set to be a bit more chaotic than usual. Originally the government agency had planned to use the third-party identity verification provider ID.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/irs-will-let-tax-payers-opt-out-of-facial-recognition-but-theres-a-big-catch",
+      "originalUrl": "https://www.techradar.com/news/irs-will-let-tax-payers-opt-out-of-facial-recognition-but-theres-a-big-catch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/AhxWMLamn9z3RMdEzxGwYE-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-tull-family-foundation-gifts-prep-school-20m-for-labs-robotics.md",
+      "title": "Tull Family Foundation Gifts Prep School $20M for Labs, Robotics",
+      "excerpt": "Sewickley Academy in Pittsburgh will use the donation for facilities, scholarships and STEM offerings such as adding cybersecurity, artificial intelligence and advanced robotics to its computer science department.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/k-12/tull-family-foundation-gifts-prep-school-20m-for-labs-robotics",
+      "originalUrl": "https://www.govtech.com/education/k-12/tull-family-foundation-gifts-prep-school-20m-for-labs-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/5ddf76b/2147483647/strip/true/crop/2048x1068+0+432/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd0%2F05%2F86c20d864ffdb8a6a71d21d4bca1%2Fsewickley-academy.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/k-12/tull-family-foundation-gifts-prep-school-20m-for-labs-robotics?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/tull-family-foundation-gifts-prep-school-20m-for-labs-robotics?_amp=true",
+      "publishedDateTime": "2022-02-22T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-an-intro-to-ai-made-for-students.md",
+      "title": "An intro to AI, made for students",
+      "excerpt": "Adorable, operatic blobs. A global, online guessing game. Scribbles that transform into works of art. These may not sound like they’re part of a curriculum, but learning the basics of how artificial intelligence (AI) works doesn’t have to be complicated, super-technical or boring.To celebrate Digital",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/discover-ai-in-daily-life/",
+      "originalUrl": "https://blog.google/technology/ai/discover-ai-in-daily-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/StillForKeyword_1.max-1300x1300.png",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/discover-ai-in-daily-life/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/discover-ai-in-daily-life/amp/",
+      "publishedDateTime": "2022-02-22T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     }
   ],

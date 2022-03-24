@@ -2,6 +2,1014 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-02-02-preparing-mnist-image-data-text-files.md",
+      "title": "Preparing MNIST Image Data Text Files",
+      "excerpt": "Many machine learning problems fall into one of three categories: tabular data prediction (such as the Iris species problem), natural language processing (such as the IMDB movie review sentiment problem) and image recognition (such as the MNIST handwritten ...",
+      "sourceUrl": null,
+      "webUrl": "https://visualstudiomagazine.com/articles/2022/02/01/preparing-mnist-image-data-text-files.aspx",
+      "originalUrl": "https://visualstudiomagazine.com/articles/2022/02/01/preparing-mnist-image-data-text-files.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/introimages/1213vsm_McCaffreyColumn.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-01T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-01-meta-unveils-ai-supercomputer-for-the-metaverse.md",
+      "title": "Meta Unveils AI Supercomputer for the Metaverse",
+      "excerpt": "analyze text and translate between languages. AI supercomputers are built by combining multiple GPUs into compute nodes, which are then connected by a high-performance network fabric to allow fast ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/02/meta-metaverse-ai-supercomputer/",
+      "originalUrl": "https://www.infoq.com/news/2022/02/meta-metaverse-ai-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/02/meta-metaverse-ai-supercomputer/en/headerimage/generatedHeaderImage-1643680488197.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-01T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-01-trax-names-former-google-ai-leader-barak-turovsky-as-chief-product-officer.md",
+      "title": "Trax Names Former Google AI Leader, Barak Turovsky, as Chief Product Officer",
+      "excerpt": "Trax, a leading global provider of computer vision solutions and analytics for retail, today announced the appointment of Barak Turovsky as it (CPO). Under Turovsky’s leadership, Trax combines its product and engineering teams to support the company’s growth and enable development of new solutions to meet market needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/trax-names-former-google-ai-leader-barak-turovsky-as-chief-product-officer/article_fe2658fc-eaf6-5358-a51f-9eb2f242ce91.html",
+      "originalUrl": "https://www.eagletribune.com/region/trax-names-former-google-ai-leader-barak-turovsky-as-chief-product-officer/article_fe2658fc-eaf6-5358-a51f-9eb2f242ce91.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/2/1e/21e303c9-dc91-5caf-b9da-0b1b557da643/61f944cf3e1ea.image.jpg?resize=400%2C566",
+          "width": 400,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-01T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-01-meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse.md",
+      "title": "Meta builds AI Research SuperCluster for future AI and the metaverse",
+      "excerpt": "Each GPU communicates over a 200 Gb/s HDR Infiniband network ... Meta built the RSC to train large AI models in natural language processing (NLP), and to research and train models using trillions of examples. It will also aid in building AI that works ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527",
+      "originalUrl": "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2022/01/GettyImages-13075344431-696x391-1-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1",
+      "publishedDateTime": "2022-01-31T12:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-why-ibms-speech-recognition-breakthrough-matters-for-ai-and-iot.md",
+      "title": "Why IBM’s speech recognition breakthrough matters for AI and IoT",
+      "excerpt": "SEE: How we learned to talk to computers, and how they learned to answer back Reaching human-level performance in AI tasks such as speech or object recognition remains a scientific challenge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/why-ibms-speech-recognition-breakthrough-matters-for-ai-and-iot/",
+      "originalUrl": "https://www.techrepublic.com/article/why-ibms-speech-recognition-breakthrough-matters-for-ai-and-iot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2017/03/istock-645609770.jpg",
+          "width": 800,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/why-ibms-speech-recognition-breakthrough-matters-for-ai-and-iot/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/why-ibms-speech-recognition-breakthrough-matters-for-ai-and-iot/amp/",
+      "publishedDateTime": "2022-01-30T17:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-natural-language-processing-a-cheat-sheet.md",
+      "title": "Natural language processing: A cheat sheet",
+      "excerpt": "Natural language processing: A cheat sheet Your email has been sent Learn the basics about natural language processing, a cross-discipline approach to making computers hear, process, understand ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/natural-language-processing-a-cheat-sheet/",
+      "originalUrl": "https://www.techrepublic.com/article/natural-language-processing-a-cheat-sheet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2020/07/natural-language-processing-concept-banner-header-vector-id1133656955.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/natural-language-processing-a-cheat-sheet/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/natural-language-processing-a-cheat-sheet/amp/",
+      "publishedDateTime": "2022-01-30T16:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-global-speech-recognition-market-share-business-size-sales-gross-margin-revenue-demand-competitor-analysis-and-forecast-2026.md",
+      "title": "Global Speech Recognition Market Share, Business Size, Sales, Gross Margin, Revenue, Demand, Competitor Analysis and Forecast 2026",
+      "excerpt": "Jan 31, 2022 (The Expresswire) -- Global “Speech Recognition Market” Report contain Market analysis and Insights. This report focuses on scope, Market Size, players, stakeholders, and other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-speech-recognition-market-share-business-size-sales-gross-margin-revenue-demand-competitor-analysis-and-forecast-2026-2022-01-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-speech-recognition-market-share-business-size-sales-gross-margin-revenue-demand-competitor-analysis-and-forecast-2026-2022-01-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-30T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-01-30-children-are-growing-up-with-ai-here-is-what-you-should-know.md",
+      "title": "Children are growing up with AI, here is what you should know",
+      "excerpt": "AI holds great potential for ... Microsoft`s Presentation Translator that provides the real-time translation in 60 different languages as a presentation is being delivered. This software helps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.standardmedia.co.ke/business/work-life/article/2001435925/children-are-growing-up-with-ai-here-is-what-you-should-know",
+      "originalUrl": "https://www.standardmedia.co.ke/business/work-life/article/2001435925/children-are-growing-up-with-ai-here-is-what-you-should-know",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.standardmedia.co.ke/images/saturday/children_are_growing61f5683a5b0ce.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.standardmedia.co.ke/business/amp/work-life/article/2001435925/children-are-growing-up-with-ai-here-is-what-you-should-know",
+      "cdnAmpWebUrl": "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/business/amp/work-life/article/2001435925/children-are-growing-up-with-ai-here-is-what-you-should-know",
+      "publishedDateTime": "2022-01-29T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Standard Digital",
+        "domain": "standardmedia.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-30-top-trends-in-natural-language-processing-market-with-leading-key-players-industry-share-and-latest-opportunities.md",
+      "title": "Top Trends in Natural Language Processing Market with Leading Key Players, Industry Share and Latest Opportunities",
+      "excerpt": "Jan 30, 2022 (The Expresswire) -- The global “Natural Language Processing Market 2022” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/top-trends-in-natural-language-processing-market-with-leading-key-players-industry-share-and-latest-opportunities-2022-01-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/top-trends-in-natural-language-processing-market-with-leading-key-players-industry-share-and-latest-opportunities-2022-01-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-29T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-report-62-of-orgs-use-voice-technology-to-increase-revenue.md",
+      "title": "Report: 62% of orgs use voice technology to increase revenue",
+      "excerpt": "A new report found that many companies are using voice technology to identify new business opportunities, and to increase revenue.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/28/report-62-of-orgs-use-voice-technology-to-increase-revenue/",
+      "originalUrl": "https://venturebeat.com/2022/01/28/report-62-of-orgs-use-voice-technology-to-increase-revenue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/voice-conversational-UI.GettyImages-1031313606.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/28/report-62-of-orgs-use-voice-technology-to-increase-revenue/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/report-62-of-orgs-use-voice-technology-to-increase-revenue/amp/",
+      "publishedDateTime": "2022-01-28T16:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse.md",
+      "title": "Meta builds AI Research SuperCluster for future AI and the metaverse",
+      "excerpt": "Meta believes that its new AI Research SuperCluster (RSC) will be among the fastest AI supercomputers running in the world once it’s fully built. The supercomputer is being constructed in phases. In the current phase 1,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730",
+      "originalUrl": "https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/01/GettyImages-13075344431.jpg",
+          "width": 788,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730?amp=1",
+      "publishedDateTime": "2022-01-28T14:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-use-a-web-browser-plugin-to-quickly-translate-text-with-amazon-translate.md",
+      "title": "Use a web browser plugin to quickly translate text with Amazon Translate",
+      "excerpt": "Web browsers can be a single pane of glass for organizations to interact with their information—all of the tools can be viewed and accessed on one screen so that users don’t have to switch between applications and interfaces. For example, a customer call center might have several different applications",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-web-browser-plugin-to-quickly-translate-text-with-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-web-browser-plugin-to-quickly-translate-text-with-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/24/ML-6697-image009.png",
+          "width": 323,
+          "height": 303,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-28T08:18:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-boostai-recognized-in-the-first-ever-2022-gartner-magic-quadrant-for-enterprise-conversational-ai-platforms.md",
+      "title": "Boost.ai Recognized in the First Ever 2022 Gartner® Magic Quadrant™ for Enterprise Conversational AI Platforms",
+      "excerpt": "Boost.ai, a leading conversational AI platform, today announced it has been positioned as a Niche Player by Gartner in their 2022 Magic",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/boost-ai-recognized-in-the-first-ever-2022-gartner-magic-quadrant-for-enterprise-conversational-ai/article_2e5f0ca2-9d78-5e40-8739-13ad04e64e48.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/boost-ai-recognized-in-the-first-ever-2022-gartner-magic-quadrant-for-enterprise-conversational-ai/article_2e5f0ca2-9d78-5e40-8739-13ad04e64e48.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-28T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-facebook-owner-meta-builds-worlds-most-powerful-ai-supercomputer.md",
+      "title": "Facebook owner Meta builds world’s most powerful AI supercomputer",
+      "excerpt": "It said the system would build on recent improvements in AI such as language translation and image recognition to pave the way for the “metaverse”, the immersive virtual worlds that the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/technology/2022/01/24/facebook-owner-meta-builds-worlds-powerful-ai-supercomputer/",
+      "originalUrl": "https://www.telegraph.co.uk/technology/2022/01/24/facebook-owner-meta-builds-worlds-powerful-ai-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/2022/01/24/TELEMMGLPICT000275946245_trans_NvBQzQNjv4BqvqfDbYV_7XcRT56v9L25rEz8u_yM_qElUUgDZt2_D2M.jpeg?impolicy=logo-overlay",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T23:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-digitalowl-raises-20m-to-analyze-medical-records-for-insurers.md",
+      "title": "DigitalOwl raises $20M to analyze medical records for insurers",
+      "excerpt": "DigitalOwl, a startup developing an AI-powered system to analyze medical records for insurers, has raised $20 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/",
+      "originalUrl": "https://venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/health-analytics.jpg?w=1200&strip=all",
+          "width": 1070,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/amp/",
+      "publishedDateTime": "2022-01-26T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-israels-digitalowl-raises-20m-for-language-processing-tech.md",
+      "title": "Israel’s DigitalOwl raises $20M for language processing tech",
+      "excerpt": "DigitalOwl, an Israeli company that has developed natural language processing (NLP) technology to analyze and summarize medical records, announced on Wednesday a $20m. Series A round led by New York-based global private equity and venture capital firm ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-694647",
+      "originalUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-694647",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/494729",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/business-and-innovation/tech-and-start-ups/article-694647/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/tech-and-start-ups/article-694647/amp",
+      "publishedDateTime": "2022-01-26T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-arkx-labs-collaborates-with-sensory-for-enhanced-speech-recognition.md",
+      "title": "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition",
+      "excerpt": "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-how-minority-languages-found-an-unlikely-ally-in-translation-companies.md",
+      "title": "How minority languages found an unlikely ally in translation companies",
+      "excerpt": "Professional translation companies are becoming an unlikely partner in protecting minority languages for future generations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.openglobalrights.org/how-minority-languages-found-an-unlikely-ally-in-translation-companies/",
+      "originalUrl": "https://www.openglobalrights.org/how-minority-languages-found-an-unlikely-ally-in-translation-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.openglobalrights.org/userfiles/image/Tirosh_Images_01-25-22.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openglobalrights",
+        "domain": "openglobalrights.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-meta-builds-ai-supercomputer-with-access-to-user-data-of-millions-should-we-worry.md",
+      "title": "Meta Builds AI Supercomputer With Access To User Data Of Millions; Should We Worry?",
+      "excerpt": "and translate between languages. On the other hand, the Meta AI Research SuperCluster is different as it aims to build new AI models. \"RSC will help Meta's AI researchers build new and better AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizbot.com/computer/news/meta-rcs-supercomputer-built-with-ai-access-to-data-how-does-it-work-078865.html",
+      "originalUrl": "https://www.gizbot.com/computer/news/meta-rcs-supercomputer-built-with-ai-access-to-data-how-does-it-work-078865.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizbot.com/amphtml/computer/news/meta-rcs-supercomputer-built-with-ai-access-to-data-how-does-it-work-078865.html",
+      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/computer/news/meta-rcs-supercomputer-built-with-ai-access-to-data-how-does-it-work-078865.html",
+      "publishedDateTime": "2022-01-25T04:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GIZBOT",
+        "domain": "gizbot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-vodafone-upgrades-customer-service-with-ai-and-speech-recognition-technology.md",
+      "title": "Vodafone upgrades customer service with AI and speech recognition technology",
+      "excerpt": "Ever get frustrated when you can’t talk to a real person? Vodafone’s answer to this won’t be adding real people but rather AI-powered chat bots and smart speech recognition tools as a way of improving the customer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techguide.com.au/news/mobiles-news/vodafone-upgrades-customer-service-with-ai-and-speech-recognition-technology/",
+      "originalUrl": "https://www.techguide.com.au/news/mobiles-news/vodafone-upgrades-customer-service-with-ai-and-speech-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techguide.com.au/wp-content/uploads/2016/10/vodafixed-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techguide.com.au/amp/news/mobiles-news/vodafone-upgrades-customer-service-with-ai-and-speech-recognition-technology/",
+      "cdnAmpWebUrl": "https://www-techguide-com-au.cdn.ampproject.org/c/s/www.techguide.com.au/amp/news/mobiles-news/vodafone-upgrades-customer-service-with-ai-and-speech-recognition-technology/",
+      "publishedDateTime": "2022-01-24T21:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech Guide",
+        "domain": "techguide.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-meta-unveils-new-ai-supercomputer-destined-to-be-worlds-fastest.md",
+      "title": "Meta unveils new AI supercomputer destined to be world's fastest",
+      "excerpt": "Meta has unveiled the AI Research SuperCluster (RSC), a new supercomputer that’s among the fastest in the world. And it’ll only get faster – by the end of the year it should rank number one, with computing power on the exascale.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/",
+      "originalUrl": "https://newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 389,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/f2fac32/2147483647/strip/true/crop/1200x800+304+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc3%2F17%2F7537049247e4aaaf863110e796e0%2Fmeta-rsc-2.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/?amp=true",
+      "publishedDateTime": "2022-01-24T20:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-transforming-modern-medical-devices-with-machine-learning-ai-inference.md",
+      "title": "Transforming Modern Medical Devices with Machine Learning & AI Inference",
+      "excerpt": "Consider these 6 factors when selecting an AI accelerator for your medical device. The promise of artificial intelligence (AI) technology is finally enjoying commercial success in many industries, including automotive,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/X1P1_web.jpeg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T12:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse.md",
       "title": "Meta has a giant new AI supercomputer to shape the metaverse",
       "excerpt": "RSC could be powerful enough to simultaneously translate speech ... \"RSC will enable new AI models that can learn from trillions of examples, understand hundreds of languages and more.\"",
@@ -350,1096 +1358,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-this-is-the-real-voice-behind-siri.md",
-      "title": "This is the real voice behind Siri",
-      "excerpt": "Siri’s voice is probably one many of us are familiar with. Many iPhone users speak to Siri on a daily basis, but have you ever wondered where Siri’s voice comes from? While these days",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/this-is-the-real-voice-behind-siri-19707923/",
-      "originalUrl": "https://www.slashgear.com/this-is-the-real-voice-behind-siri-19707923/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/01/Siri-go-ahead-Im-listening.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/this-is-the-real-voice-behind-siri-19707923/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/this-is-the-real-voice-behind-siri-19707923/amp/",
-      "publishedDateTime": "2022-01-19T20:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-deep-learning-courses-for-nlp-market-indutry-analysis-and-prospect-market-players-coursera-ibm-upx-academy-2022-2027.md",
-      "title": "Deep Learning Courses for NLP Market, Indutry Analysis and Prospect, Market Players : Coursera, IBM, UpX Academy – 2022 – 2027",
-      "excerpt": "Jan 20, 2022 (Heraldkeepers) -- The \"Deep Learning Courses for NLP\" Market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-indutry-analysis-and-prospect-market-players-coursera-ibm-upx-academy-2022-2027-2022-01-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-indutry-analysis-and-prospect-market-players-coursera-ibm-upx-academy-2022-2027-2022-01-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-why-games-may-not-be-the-best-benchmark-for-ai.md",
-      "title": "Why games may not be the best benchmark for AI",
-      "excerpt": "Games have long been used as a benchmark in AI, but not all experts are convinced that they're the right goalposts for research.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/18/why-games-may-not-be-the-best-benchmark-for-ai/",
-      "originalUrl": "https://venturebeat.com/2022/01/18/why-games-may-not-be-the-best-benchmark-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/195A8963_cropped.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/18/why-games-may-not-be-the-best-benchmark-for-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/why-games-may-not-be-the-best-benchmark-for-ai/amp/",
-      "publishedDateTime": "2022-01-18T19:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI",
-        "Natural Language Processing",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-detect-nlp-data-drift-using-custom-amazon-sagemaker-model-monitor.md",
-      "title": "Detect NLP data drift using custom Amazon SageMaker Model Monitor",
-      "excerpt": "Natural language understanding is applied in a wide range of use cases, from chatbots and virtual assistants, to machine translation and text summarization. To ensure that these applications are running at an expected level of performance, it’s important that data in the training and production environments",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-nlp-data-drift-using-custom-amazon-sagemaker-model-monitor/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-nlp-data-drift-using-custom-amazon-sagemaker-model-monitor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/14/ML-5335-image001-fixed-1260x560.png",
-          "width": 1260,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T14:19:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-they-wanted-to-write-the-history-of-modern-china-but-how.md",
-      "title": "They Wanted to Write the History of Modern China. But How?",
-      "excerpt": "In the historian Jing Tsu’s “Kingdom of Characters,” the evolution of Chinese writing tells the story of the country’s past, present — and future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/01/18/books/review/kingdom-of-characters-jing-tsu.html",
-      "originalUrl": "https://www.nytimes.com/2022/01/18/books/review/kingdom-of-characters-jing-tsu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/11/23/books/review/Mask2/Mask2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/01/18/books/review/kingdom-of-characters-jing-tsu.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/01/18/books/review/kingdom-of-characters-jing-tsu.amp.html",
-      "publishedDateTime": "2022-01-18T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-cyndx-private-market-data-now-available-in-eight-languages.md",
-      "title": "Cyndx Private Market Data Now Available In Eight Languages",
-      "excerpt": "Cyndx can now translate private company information to English from seven languages - French, German, Italian, Japanese, Portuguese, Russian, and Spanish. This allows Cyndx's AI-powered platform ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cyndx-private-market-data-now-available-in-eight-languages-1031108824",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cyndx-private-market-data-now-available-in-eight-languages-1031108824",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T05:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-google-ais-plan-for-2022-and-beyond.md",
-      "title": "Google AI’s plan for 2022 and beyond",
-      "excerpt": "Google is pursuing research, called Pathways, to enable this next-gen architecture through an umbrella effort.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/google-ais-plan-for-2022-and-beyond/",
-      "originalUrl": "https://analyticsindiamag.com/google-ais-plan-for-2022-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/google-ai-b_11zon.jpg",
-          "width": 1896,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-natural-language-processing-market-key-drivers-in-2022-regional-investments-top-competitors-and-industry-share.md",
-      "title": "Natural Language Processing Market Key Drivers in 2022, Regional Investments, Top Competitors and Industry Share",
-      "excerpt": "Jan 18, 2022 (The Expresswire) -- The global “Natural Language Processing Market 2022” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-key-drivers-in-2022-regional-investments-top-competitors-and-industry-share-2022-01-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-key-drivers-in-2022-regional-investments-top-competitors-and-industry-share-2022-01-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-natural-language-processing-nlp-software-market-statistics-development-and-growthmarket-players-google-explosion-ai-ibm-2022-2027.md",
-      "title": "Natural Language Processing (NLP) Software Market Statistics, Development and Growth,Market Players: Google, Explosion AI, IBM-2022- 2027",
-      "excerpt": "Jan 17, 2022 (Heraldkeepers) -- The Natural Language Processing (NLP) Software Market report provides a detailed analysis of global market size, regional and country-level market size ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-statistics-development-and-growthmarket-players-google-explosion-ai-ibm-2022--2027-2022-01-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-statistics-development-and-growthmarket-players-google-explosion-ai-ibm-2022--2027-2022-01-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-16T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-how-ai-will-drive-the-hybrid-work-environment.md",
-      "title": "How AI will drive the hybrid work environment",
-      "excerpt": "Artificial intelligence has the capacity to vastly improve work-from-home and hybrid work environments. But getting there will not be as simple.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/",
-      "originalUrl": "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Remote-Work.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/",
-      "publishedDateTime": "2022-01-16T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-16-what-ai-could-be-like-when-you-plug-a-computer-into-your-brain.md",
-      "title": "What AI could be like when you plug a computer into your brain",
-      "excerpt": "Everyone expects a strong AI to be built by an engineer, but in reality, a doctor might be standing at the cradle of real AI.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/what-ai-could-be-like-when-you-plug-a-computer-into-your-brain-syndication",
-      "originalUrl": "https://thenextweb.com/news/what-ai-could-be-like-when-you-plug-a-computer-into-your-brain-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fshutterstock_1804403536-Brain-computer-interface-AI-hed.jpg&signature=533049ba06095dd41423d98d4c236d21",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-16T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-microsoft-and-a_da-rebuild-ancient-olympia-for-new-ar-experience.md",
-      "title": "Microsoft and A_DA rebuild Ancient Olympia for new AR experience",
-      "excerpt": "AI-enabled auto-translation brings the experience to users in more than 20 languages. To create the digital experience, the studio used a “foundational model” of Ancient Olympia, which A_DA says was created using “hundreds of thousands” of images ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designweek.co.uk/issues/10-16-january-2022/microsoft-a_da-rebuild-ancient-olympia/",
-      "originalUrl": "https://www.designweek.co.uk/issues/10-16-january-2022/microsoft-a_da-rebuild-ancient-olympia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://centaur-wp.s3.eu-central-1.amazonaws.com/designweek/prod/content/uploads/2022/01/11135724/Ada_Ancient_Olympia_Exhibition_Still_5-scaled-1.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T19:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design Week",
-        "domain": "designweek.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement.md",
-      "title": "Duolingo is now mixing A/B testing and copy testing to boost user engagement",
-      "excerpt": "Learning a language is hard, that's why Duolingo is now using a tool called Expurrimenter to help boost user retention by trying out different messaging techniques in-app and in notifications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
-      "originalUrl": "https://www.neowin.net/news/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2022/01/1642181054_duolingo_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
-      "publishedDateTime": "2022-01-14T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-ramco-systems-builds-voice-biometric-authentication-on-azure-cognitive-services.md",
-      "title": "Ramco Systems builds voice biometric authentication on Azure Cognitive Services",
-      "excerpt": "Ramco aims to facilitate authentication in a post-COVID world, where many countries mandate the use of facemasks which can affect facial recognition accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202201/ramco-systems-builds-voice-biometric-authentication-on-azure-cognitive-services",
-      "originalUrl": "https://www.biometricupdate.com/202201/ramco-systems-builds-voice-biometric-authentication-on-azure-cognitive-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg",
-          "width": 900,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-the-world-in-your-pocket-how-smartphones-will-get-smarter-in-2022.md",
-      "title": "The world in your pocket: How smartphones will get smarter in 2022",
-      "excerpt": "Google, OnePlus, Asus and Motorola give us a taste of how our phones will be more useful, intelligent and powerful over the next 12 months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/the-world-in-your-pocket-how-smartphones-get-smarter-in-2022/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/the-world-in-your-pocket-how-smartphones-get-smarter-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/9Zn77uc7NrEvhS7S7s9-IptN6dM=/2021/08/27/bb908ae7-2e0f-4120-9a87-35b83d23c133/p1016830-1.jpg",
-          "width": 5670,
-          "height": 2835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-world-in-your-pocket-how-smartphones-get-smarter-in-2022/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-world-in-your-pocket-how-smartphones-get-smarter-in-2022/",
-      "publishedDateTime": "2022-01-14T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-the-worldwide-far-field-speech-and-voice-recognition-industry-is-expected-to-reach-389-billion-by-2026.md",
-      "title": "The Worldwide Far-Field Speech and Voice Recognition Industry is Expected to Reach $3.89 Billion by 2026",
-      "excerpt": "The \"Global Far-Field Speech and Voice Recognition Market (2021-2026) by Component, Application & Microphone Solution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/g25052541/the-worldwide-far-field-speech-and-voice-recognition-industry-is-expected-to-reach-3-89-billion-by",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25052541/the-worldwide-far-field-speech-and-voice-recognition-industry-is-expected-to-reach-3-89-billion-by",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25052541",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25052541",
-      "publishedDateTime": "2022-01-14T02:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-timekettles-translator-earbuds-break-language-barriers-bring-in-simultaneous-translation.md",
-      "title": "Timekettle's translator earbuds break language barriers, bring in simultaneous translation",
-      "excerpt": "Translate through phone — one user speaks through the earbuds, the other - through the paired phone Continuous translation — leave your phone next to a speaker and get continuous translation of their words (like for lectures) Share earbuds — users get one earbud each,",
-      "sourceUrl": null,
-      "webUrl": "https://www.phonearena.com/news/live-translation-earbuds-talk-freely_id137680",
-      "originalUrl": "https://www.phonearena.com/news/live-translation-earbuds-talk-freely_id137680",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m-cdn.phonearena.com/images/article/137680-wide-two_1200/Timekettles-translator-earbuds-break-language-barriers-bring-in-simultaneous-translation.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T01:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phone Arena",
-        "domain": "phonearena.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-metas-spanish-language-moderators-describe-harrowing-tale-of-working-amid-pandemic.md",
-      "title": "Meta’s Spanish language moderators describe harrowing tale of working amid pandemic",
-      "excerpt": "Meta's Spanish language moderarors have been required to report to the office since April 2021 despite the rising number of Covid cases in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bgr.in/news/metas-spanish-language-moderators-describe-harrowing-tale-of-working-amid-pandemic-1036063/",
-      "originalUrl": "https://www.bgr.in/news/metas-spanish-language-moderators-describe-harrowing-tale-of-working-amid-pandemic-1036063/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://st1.bgr.in/wp-content/uploads/2022/01/meta-1200-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T00:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "www.bgr.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-its-machine-learning-not-ai.md",
-      "title": "It's machine learning, not AI.",
-      "excerpt": "\"At the moment, the best way to survive a patient with heart failure is calling 911\". This is the response from Jaeson Bang, the CEO of FutureCardia when someone asked him if his startup is adopting AI to predict and prevent patients with heart failure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/its-machine-learning-ai-son-le-thanh",
-      "originalUrl": "https://www.linkedin.com/pulse/its-machine-learning-ai-son-le-thanh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFvVKc2mtnqhw/article-cover_image-shrink_600_2000/0/1642127255161?e=1647475200&v=beta&t=Y8Vdhbw9yATaB2IpzTyQ3csWJ4qsUlioGVXg1GBFph8",
-          "width": 1385,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T18:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-facebooks-spanish-language-moderators-are-calling-their-work-a-nightmare.md",
-      "title": "Facebook’s Spanish-Language Moderators Are Calling Their Work A “Nightmare”",
-      "excerpt": "Contractors who moderate Spanish-language content on Facebook said they’ve been forced to come to the office during COVID surges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/sarahemerson/facebooks-spanish-language-moderators-said-theyre-treated",
-      "originalUrl": "https://www.buzzfeednews.com/article/sarahemerson/facebooks-spanish-language-moderators-said-theyre-treated",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-12/11/22/campaign_images/c84267b5258a/after-the-us-election-key-people-are-leaving-face-2-3876-1607724390-7_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/sarahemerson/facebooks-spanish-language-moderators-said-theyre-treated",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/sarahemerson/facebooks-spanish-language-moderators-said-theyre-treated",
-      "publishedDateTime": "2022-01-13T16:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BuzzFeed News",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond.md",
-      "title": "16 Industries And Functions That Will Benefit From AI In 2022 And Beyond",
-      "excerpt": "The experts of Forbes Technology Council are always looking ahead to the latest trends in cutting-edge technology. Below, 16 of them share the industries they believe have the most to gain from implementing AI as well as how the technology will be specifically applied in 2022 and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61df1425c8d22322f13806f0%2F0x0.jpg",
-          "width": 1200,
-          "height": 978,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/amp/",
-      "publishedDateTime": "2022-01-13T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform.md",
-      "title": "How was my pitch, Jenny? Zoom's venture fund invests in conversational AI platform",
-      "excerpt": "Second Nature uses natural language processing and subject matter experts to build sales skills and product knowledge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform/",
-      "originalUrl": "https://www.techrepublic.com/article/how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2022/01/13/3f149792-bfed-4dec-9ea4-240158b8d3c2/resize/1200x/30778448d1a8d8309ebad3f0df49e1a6/second-nature-analysis-screenshot.jpg",
-          "width": 1200,
-          "height": 935,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform/",
-      "publishedDateTime": "2022-01-13T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

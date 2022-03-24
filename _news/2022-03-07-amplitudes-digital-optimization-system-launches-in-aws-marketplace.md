@@ -2,60 +2,25 @@
 category: news
 title: "Amplitude’s Digital Optimization System Launches in AWS Marketplace"
 excerpt: "(Nasdaq: AMPL), the pioneer in digital optimization, today announced the availability of Amplitude in AWS Marketplace, a digital catalog with thousands of software listings from independent software vendors that make it easy to find,"
-publishedDateTime: 2022-03-07T14:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-4b6997b71f1e4c6b9fde2aa77dc70847"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-4b6997b71f1e4c6b9fde2aa77dc70847"
+publishedDateTime: 2022-03-07T13:02:00Z
+originalUrl: "https://www.valdostadailytimes.com/news/business/amplitude-s-digital-optimization-system-launches-in-aws-marketplace/article_71efa47c-5fde-53b8-91fb-f089e6c5a6b9.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/amplitude-s-digital-optimization-system-launches-in-aws-marketplace/article_71efa47c-5fde-53b8-91fb-f089e6c5a6b9.html"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
-related:
-  - title: "Treasure Data CDP Now Available in AWS Marketplace"
-    excerpt: "Treasure Data announced its availability in AWS Marketplace, a digital catalog with thousands of software listings from independent software"
-    publishedDateTime: 2022-03-08T10:11:00Z
-    webUrl: "https://enterprisetalk.com/news/treasure-data-cdp-now-available-in-aws-marketplace/"
-    ampWebUrl: "https://enterprisetalk.com/news/treasure-data-cdp-now-available-in-aws-marketplace/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/treasure-data-cdp-now-available-in-aws-marketplace/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 74
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/Treasure-Data-CDP-Now-Available-in-AWS-Marketplace-To-Meet-Growing-Customer-Demand-Globally-01.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Treasure Data CDP Now Available in AWS Marketplace To Meet Growing Customer Demand Globally"
-    excerpt: "Treasure Data, a leading enterprise customer data platform (CDP), today announced its availability in AWS Marketplace, a digital catalog with thousands of software listings from independent software vendors that make it easy to find,"
-    publishedDateTime: 2022-03-07T14:11:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-web-services-72968c35e9716c49a4388cf7ca2a6498"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 44
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
-secured: "ZGPZI97VwNCn2aXjTLHCHTWxBjC4TsEJKFLc5hBvtGIUpLe8/bvbja/A5hxb0qZXSQE9PaIod2PrFNwKuTBmOxR14QYquexTvJVY05SuzuQcJGSztojadsqTAbPFAOa89bMthLi+qhELq63aO6NCfYCVWw8zFlM/Q5wWCEyfVLrxWbLdqkjLPQsZVE3D3tafYmYZ9kPfq/txU38oOeoKZHn/132mJRcuOy8gV4Q/3dI+xDjGop14ZZIX4CN1AbjOcpnq2PHHk1JfbyEU29g5AD6XuiBKSrDip2M6JvnoES/p4YbAzVLDD/ys0yPPC/0ozR0aQr3fiLIie/iakb/mjIHwTW8emeOm773R1H1lw0U=;f5fgKzCupt3Dx/wO6qD+xw=="
+secured: "CCr4JimYEsMmJnpA5UKKxCZvf+RiW7UbS42nNdUE2x3/gZ9yPOj00JHurBmQKVFOWcmoEhr3TAnKN9OBfS5DSAKEeNz59ze3XWRh7wK8VoGPjiPTlMwrUTpTB1+iY1yCeKBCjcLwSGvfqc0dDZoBGZBAMwc67jeP+ZqS16I+NW270kHxkT3zN/T9QTbeCsjCZElPd8cK7S9uC2gl84h0ECh9T/tszYD1pJ/wgzgi53IkZJ/zSoQ26yi3eKX/QlFCUBXUzqQ2mJws+hBFWL2BMhcyKC6FeoAYTRcTYz/YJxB3bqk3a6S+wWKMe8FOlUciY5aQexjfvBjt94asA9dhWbiYhLGrWe6DkP6ECo1f0iQ=;AYg3B5aS0Hav60cTAk+vJA=="
 ---
 

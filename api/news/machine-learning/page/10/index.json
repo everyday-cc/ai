@@ -2,159 +2,20 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-10-14-what-are-the-threats-and-opportunities-of-data-science-and-machine-learning.md",
-      "title": "What are the threats and opportunities of data science and machine learning?",
-      "excerpt": "As with most things, many of the threats and challenges in using data science, artificial intelligence and machine learning ... working in financial services, to have access to reams of data ...",
+      "path": "_news/2021-12-31-data-analytics-ml-and-ai-reflections-on-2021-and-thoughts-on-2022-trends.md",
+      "title": "Data, Analytics, ML and AI: Reflections on 2021 and thoughts on 2022 trends",
+      "excerpt": "After the pandemic-induced digital transformation of 2020, the year 2021 saw great advancement in the use of data to drive real business decisions. Many organizations accelerated their investment in t",
       "sourceUrl": null,
-      "webUrl": "https://www.ftadviser.com/your-industry/2021/10/14/what-are-the-threats-and-opportunities-of-data-science-and-machine-learning/",
-      "originalUrl": "https://www.ftadviser.com/your-industry/2021/10/14/what-are-the-threats-and-opportunities-of-data-science-and-machine-learning/",
+      "webUrl": "https://www.linkedin.com/pulse/data-analytics-ml-ai-reflections-2021-thoughts-2022-agbenyegah-cap",
+      "originalUrl": "https://www.linkedin.com/pulse/data-analytics-ml-ai-reflections-2021-thoughts-2022-agbenyegah-cap",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ffta-ez-prod%2Fez%2Fimages%2F6%2F6%2F2%2F2%2F2632266-11-eng-GB%2Fpexels-hitesh-choudhary-693859.jpg%3Fv1?source=ftadviser",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FTAdviser",
-        "domain": "ftadviser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-deep-learning-market-valuations-and-expected-future-returns-by-2027.md",
-      "title": "Deep Learning Market Valuations and Expected Future Returns by 2027",
-      "excerpt": "Portland United States Global Deep Learning Market gives comprehensive research offering detailed regional analysis and growth outlook The Deep Learning market forecast 2021 2027 report highlight the economy past and emerging trend of industry and availability of basic resources This",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2428600/deep-learning-market-valuations-and-expected-future-returns",
-      "originalUrl": "https://www.openpr.com/news/2428600/deep-learning-market-valuations-and-expected-future-returns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua14260801_g.jpg",
-          "width": 761,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2428600/deep-learning-market-valuations-and-expected-future-returns",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428600/deep-learning-market-valuations-and-expected-future-returns",
-      "publishedDateTime": "2021-10-14T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-applying-the-power-of-deep-learning-to-cybersecurity.md",
-      "title": "Applying The Power Of Deep Learning To Cybersecurity",
-      "excerpt": "There are lots of cybersecurity tools out there that promise to help organizations scale to manage the volume of threats and help separate the signal from the noise to identify security events that should be escalated to the IT security team for response.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616733004f45ec9f5112fd25%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/amp/",
-      "publishedDateTime": "2021-10-13T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-deep-learning-helps-to-predict-traffic-crashes-before-they-happen.md",
-      "title": "Deep learning helps to predict traffic crashes before they happen",
-      "excerpt": "Today's world is one big maze, connected by layers of concrete and asphalt that afford us the luxury of navigation by vehicle. For many of our road-related advancements—GPS lets us fire fewer neurons thanks to map apps,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-10-deep-traffic.html",
-      "originalUrl": "https://techxplore.com/news/2021-10-deep-traffic.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-helps-to.jpg",
-          "width": 900,
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQHs7Tbjr_AwDw/article-cover_image-shrink_600_2000/0/1640954324924?e=1646870400&v=beta&t=4kxarYhLwVFFhz28Go9yR6p8710vmk1CgWlX9anWBJc",
+          "width": 1800,
           "height": 600,
           "title": null,
           "attribution": null,
@@ -163,605 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-10-deep-traffic.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-deep-traffic.amp",
-      "publishedDateTime": "2021-10-13T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first.md",
-      "title": "AI And ML Can Transform Financial Services, But Industry Must Solve Data Problem First",
-      "excerpt": "ML/AI will differentiate successful early adopters, but there are multiple steps to successful adoption and the most important is clean data, a problem the financial services industry has faced for decades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165ee8f1915a35d69246734%2F0x0.jpg",
-          "width": 1191,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/amp/",
-      "publishedDateTime": "2021-10-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-edatanetworks-inc-awarded-patent-in-artificial-intelligence-doing-good-for-communities-from-uspto.md",
-      "title": "edatanetworks Inc. Awarded Patent in Artificial Intelligence Doing Good for Communities from USPTO",
-      "excerpt": "PRNewswire/ - edatanetworks Inc. announced today the approval of patent 17/073,308 from the United States Patent and Trademark Office (USPTO). This patent further enhances edatanetworks' patent protection relating to using artificial intelligence (AI) with tokenized rich transactions to benefit community.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtvy.com/prnewswire/2021/10/13/edatanetworks-inc-awarded-patent-artificial-intelligence-doing-good-communities-uspto/",
-      "originalUrl": "https://www.wtvy.com/prnewswire/2021/10/13/edatanetworks-inc-awarded-patent-artificial-intelligence-doing-good-communities-uspto/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTVY",
-        "domain": "wtvy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-googles-cloud-automl-is-an-ai-to-help-engineers-program-ai.md",
-      "title": "Google's Cloud AutoML Is An AI To Help Engineers Program AI",
-      "excerpt": "In late 2017 Google announced it had been working on AutoML (short for “automated machine learning”), a machine learning algorithm that is essentially capable of programming and training other algorithms. Now Google has introduced an alpha version of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
-      "originalUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Google%20Cloud%20AutoML%20Vision.png",
-          "width": 1708,
-          "height": 962,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-create-and-scale-complex-artificial-intelligence-and-machine-learning-pipelines-anywhere-with-ibm-codeflare.md",
-      "title": "Create And Scale Complex Artificial Intelligence And Machine Learning Pipelines Anywhere With IBM CodeFlare",
-      "excerpt": "Goodson, dives in to discuss the deal with the extraordinary growth of AI and its ever-increasing complexity, IBM created an open-source framework called CodeFlare to deal with AI’s complex pipeline requirements.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/10/12/create-and-scale-complex-artificial-intelligence-and-machine-learning-pipelines-anywhere-with-ibm-codeflare/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/10/12/create-and-scale-complex-artificial-intelligence-and-machine-learning-pipelines-anywhere-with-ibm-codeflare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61661d47f90be4daae1bb28a%2F0x0.jpg",
-          "width": 936,
-          "height": 626,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/10/12/create-and-scale-complex-artificial-intelligence-and-machine-learning-pipelines-anywhere-with-ibm-codeflare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/10/12/create-and-scale-complex-artificial-intelligence-and-machine-learning-pipelines-anywhere-with-ibm-codeflare/amp/",
-      "publishedDateTime": "2021-10-12T16:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-train-and-deploy-deep-learning-models-using-jax-with-amazon-sagemaker.md",
-      "title": "Train and deploy deep learning models using JAX with Amazon SageMaker",
-      "excerpt": "Amazon SageMaker is a fully managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning (ML) models at any scale. Typically, you can use the pre-built and optimized training and inference containers that have been optimized for AWS hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-deep-learning-models-using-jax-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-deep-learning-models-using-jax-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T14:43:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-deep-learning-helps-predict-traffic-crashes-before-they-happen.md",
-      "title": "Deep learning helps predict traffic crashes before they happen",
-      "excerpt": "A deep learning model predicts high-resolution automobile crash risk maps that describe the expected number of crashes and identify high-risk areas. The work was led by scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Qatar Center for Artificial Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-traffic-crashes-1012",
-      "originalUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-traffic-crashes-1012",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202110/crash-maps_0.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-artificial-intelligence-stocks-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: Best AI Companies",
-      "excerpt": "Artificial intelligence (AI) can be the most prominent new industry in the 21st century. Artificial intelligence (AI), once the stuff of science fiction, is now a reality. Machine learning and neural networks are already being used daily by the finest artificial intellegence stocks to invest in.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
-      "originalUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/10/AI-Stocks.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-stocks-best-ai-companies/amp/",
-      "publishedDateTime": "2021-10-12T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning",
-        "AI in Autos",
-        "IBM AI",
-        "Facebook AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-human-like-ai-technology-based-on-deep-neural-networks-approach.md",
-      "title": "Human-Like AI Technology Based on Deep Neural Networks Approach",
-      "excerpt": "Developing a human-like artificial intelligence technology requires more aspects than simply reflecting human behavior. Such technology must be capable of processing information, or “thinking” similar to humans to have reliability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12540",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12540",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12540_16340459994726001.jpg",
-          "width": 650,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12540",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12540",
-      "publishedDateTime": "2021-10-12T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-fiverity-unveils-machine-learning-powered-solution-to-detect-and-prevent-cyber-fraud.md",
-      "title": "FiVerity Unveils Machine Learning-Powered Solution to Detect and Prevent Cyber Fraud",
-      "excerpt": "US-based tech startup FiVerity has launched a new machine learning solution, Collaborative AI platform, to detect and prevent cybercrime.",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/research-reports/fiverity-unveils-machine-learning-powered-solution-to-detect-and-prevent-cyber-fraud/",
-      "originalUrl": "https://www.just-auto.com/research-reports/fiverity-unveils-machine-learning-powered-solution-to-detect-and-prevent-cyber-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/shutterstock_1602197377.jpg",
-          "width": 500,
-          "height": 286,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-accenture-to-acquire-bridgei2i-expanding-capabilities-in-data-science-machine-learning-and-ai-powered-insights.md",
-      "title": "Accenture to Acquire BRIDGEi2i, Expanding Capabilities in Data Science, Machine Learning and AI-Powered Insights",
-      "excerpt": "Accenture (NYSE: ACN) has entered into an agreement to acquire BRIDGEi2i, an artificial intelligence (AI) and analytics firm headquartered in Bangalore, India, with additional offices in the US and Australia.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-bangalore-health-c556c1819c3548c6b3a52ebee48de471",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-bangalore-health-c556c1819c3548c6b3a52ebee48de471",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study.md",
-      "title": "Artificial neural network promising tool in pain prediction after RCT: Study",
-      "excerpt": "With the development of endodontic treatment, the incidence of pain and swelling during RCT is only approximately 10%. However, patients frequently report of postoperative pain.",
-      "sourceUrl": null,
-      "webUrl": "https://medicaldialogues.in/dentistry/cases/artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study-82971",
-      "originalUrl": "https://medicaldialogues.in/dentistry/cases/artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study-82971",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medicaldialogues.in/h-upload/2021/10/02/161347-capture.jpg",
-          "width": 575,
-          "height": 263,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicaldialogues.in/amp/dentistry/cases/artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study-82971",
-      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/dentistry/cases/artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study-82971",
-      "publishedDateTime": "2021-10-11T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily",
-        "domain": "medicaldialogues.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-attention-based-deep-neural-network-increases-detection-capability-in-sonar-systems.md",
-      "title": "Attention-based deep neural network increases detection capability in sonar systems",
-      "excerpt": "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. In the Journal of the Acoustical Society of America,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/931330",
-      "originalUrl": "https://www.eurekalert.org/news-releases/931330",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe97e8e6-4c23-4810-afd5-e124401f45d5/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-a-beginners-guide-to-artificial-intelligence.md",
-      "title": "A beginners guide to Artificial Intelligence",
-      "excerpt": "Less than a decade after breaking the Nazi encryption machine Enigma and helping the Allied Forces win World War II, mathematician Alan Turing changed history a second time with a simple question: \"Can machines think?",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/beginners-guide-artificial-intelligence-jeremy-ohl",
-      "originalUrl": "https://www.linkedin.com/pulse/beginners-guide-artificial-intelligence-jeremy-ohl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFct8wJnAHVUg/article-cover_image-shrink_600_2000/0/1633989619308?e=1640217600&v=beta&t=MOZUWLFOIzsvwRk3THDoGpZlTUQuhHcKh_J8ZaJRxOI",
-          "width": 1060,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T15:00:00-07:00",
+      "publishedDateTime": "2021-12-31T05:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "LinkedIn",
@@ -784,28 +49,72 @@
         "news"
       ],
       "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-31-machine-learning-program-connects-to-human-brain-and-commands-robots.md",
+      "title": "Machine-Learning Program Connects to Human Brain and Commands Robots",
+      "excerpt": "Researchers at Ecole Polytechnique Fédérale de Lausanne have developed a machine-learning program that can be connected to a human brain and used to command a robot. The program can alter the robot’s movements based on electrical signals from the brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/machine-learning-program-connects-to-human-brain-and-commands-robots/",
+      "originalUrl": "https://www.unite.ai/machine-learning-program-connects-to-human-brain-and-commands-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.Uu7U~1cdff/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/12/brain-2676370_1280.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-30T11:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI in Robotics",
         "AI",
-        "AI in Autos",
         "Machine Learning"
       ]
     },
     {
-      "path": "_news/2021-10-11-rosaria-silipo-on-codeless-deep-learning-and-visual-programming.md",
-      "title": "Rosaria Silipo on Codeless Deep Learning and Visual Programming",
-      "excerpt": "But now I think deep learning has reached the more mature stage so that it's going to go out of those research labs and it's going to end up to be used by, I don't know, an accountant or a doctor ...",
+      "path": "_news/2021-12-29-learn-artificial-intelligence-machine-learning-python-and-more-for-under-30.md",
+      "title": "Learn artificial intelligence, machine learning, Python and more for under $30",
+      "excerpt": "Even with no tech experience, you can learn highly marketable skills to start and advance in a lucrative tech career without taking any time off from your full-time job.",
       "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/podcasts/codeless-deep-learning-visual-programming/",
-      "originalUrl": "https://www.infoq.com/podcasts/codeless-deep-learning-visual-programming/",
+      "webUrl": "https://www.zdnet.com/education/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/",
+      "originalUrl": "https://www.zdnet.com/education/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 110,
       "tags": null,
       "images": [
         {
-          "url": "https://res.infoq.com/podcasts/codeless-deep-learning-visual-programming/en/headerimage/twitter_card-8-1633723757386.jpg",
+          "url": "https://www.zdnet.com/a/img/resize/9492c3bd3b0d8d9e63d5201ac4b7deb90c2dded3/2021/12/23/864cc429-4142-4d13-9ec2-b68c0800219a/zdnet-premium-machine-learning.jpg?width=1200&fit=bounds&auto=webp",
           "width": 1200,
-          "height": 630,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -813,59 +122,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T07:50:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/",
+      "publishedDateTime": "2021-12-29T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-ondas-dynamai-collaborate-over-ai-ml-capabilities.md",
-      "title": "Ondas, Dynam.AI Collaborate Over AI, ML Capabilities",
-      "excerpt": "We believe partnering with Dynam will allow us to integrate advanced AI/ML capabilities faster and more deeply as we scale with customers,\" Ondas Chair and CEO Eric Brock said. American Robotics has agreed to utilize Dynam.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ondas-dynam-ai-collaborate-over-ai-ml-capabilities-1030856372",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ondas-dynam-ai-collaborate-over-ai-ml-capabilities-1030856372",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_2160.png",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -881,307 +147,24 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape.md",
-      "title": "How Artificial Intelligence and Machine Learning is altering the marketing landscape?",
-      "excerpt": "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/11/full/20211011194014.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "publishedDateTime": "2021-10-11T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons.md",
-      "title": "Intel’s Brain-Inspired Loihi 2 Chip Can Hold a Million Artificial Neurons",
-      "excerpt": "The Loihi 2 chip doesn’t just significantly boost the number of neurons from its first iteration, it also greatly expands their functionality.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/",
-      "originalUrl": "https://singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/10/intel-loihi-2-chip.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/amp/",
-      "publishedDateTime": "2021-10-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision.md",
-      "title": "Toyota Research Institute Announces Machine Learning Advances at the International Conference on Computer Vision",
-      "excerpt": "Today, the Toyota Research Institute (TRI) announced the acceptance of six research papers in the field of machine learning at the International Conference on Computer Vision (ICCV). The research advances understanding across various tasks crucial for robotic perception,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision-1030856168",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision-1030856168",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1656665/SIM2REAL_Composite.jpg",
-          "width": 679,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-deep-learning-system-software-market-to-witness-stunning-growth-intel-google-ibm.md",
-      "title": "Deep Learning System Software Market to Witness Stunning Growth | Intel, Google, IBM",
-      "excerpt": "Advance Market Analytics published a new research publication on Deep Learning System Software Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2424329/deep-learning-system-software-market-to-witness-stunning-growth",
-      "originalUrl": "https://www.openpr.com/news/2424329/deep-learning-system-software-market-to-witness-stunning-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua11135678_g.jpg",
-          "width": 660,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2424329/deep-learning-system-software-market-to-witness-stunning-growth",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2424329/deep-learning-system-software-market-to-witness-stunning-growth",
-      "publishedDateTime": "2021-10-11T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-10-11-why-simple-machine-learning-models-are-key-to-driving-business-decisions.md",
-      "title": "Why Simple Machine Learning Models Are Key To Driving Business Decisions",
-      "excerpt": "Despite the breakthroughs in data science and machine learning (ML), despite the development of several data management softwares and despite hundreds of articles and videos online, why is it that production-ready ML models are just not hitting the mark?",
+      "path": "_news/2021-12-29-role-of-ai-and-machine-learning-across-different-sectors-in-2021.md",
+      "title": "Role of AI and Machine Learning across Different Sectors in 2021",
+      "excerpt": "Technology is playing a vital role in every sector to make the nation technologically equipped and capable. Here are a few business leaders sharing their thoughts on how their companies are",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2021/10/11/why-simple-machine-learning-models-are-key-to-driving-business-decisions/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2021/10/11/why-simple-machine-learning-models-are-key-to-driving-business-decisions/",
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
       "featuredContent": null,
       "highlight": null,
       "heat": 88,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61606638fba0b1336be54839%2F0x0.jpg",
-          "width": 1200,
-          "height": 928,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2021/10/11/why-simple-machine-learning-models-are-key-to-driving-business-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/10/11/why-simple-machine-learning-models-are-key-to-driving-business-decisions/amp/",
-      "publishedDateTime": "2021-10-11T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-ai-doesnt-explain-itself-machine-learning-has-a-deus-ex-machina-problem.md",
-      "title": "AI doesn't explain itself - machine learning has a \"Deus ex Machina\" problem",
-      "excerpt": "Too often, AI vendors tell us - \"Machine learning handles that.\" So what exactly does that mean? Vendors are making what I call Deux es Machina claims about AI - now it's time to back those claims up.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ai-doesnt-explain-itself-machine-learning-has-deus-ex-machina-problem",
-      "originalUrl": "https://diginomica.com/ai-doesnt-explain-itself-machine-learning-has-deus-ex-machina-problem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2019-12/ai-chess.jpg",
-          "width": 1279,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/ai-doesnt-explain-itself-machine-learning-has-deus-ex-machina-problem?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-doesnt-explain-itself-machine-learning-has-deus-ex-machina-problem?amp",
-      "publishedDateTime": "2021-10-11T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-10-ai-ml-big-data-use-in-travel-hospitality-sector.md",
-      "title": "AI, ML & Big Data use in travel, hospitality sector",
-      "excerpt": "The travel and hospitality industry in India has been on a rise and has been one of the main factors of growth. AI, machine learning and big data analytics have brought a revolution in the",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/hans/opinion/news-analysis/ai-ml-big-data-use-in-travel-hospitality-sector-710195",
-      "originalUrl": "https://www.thehansindia.com/hans/opinion/news-analysis/ai-ml-big-data-use-in-travel-hospitality-sector-710195",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/10/09/1116344-data.jpg",
+          "url": "https://assets.thehansindia.com/h-upload/2021/12/29/1138517-ai.jpg",
           "width": 1000,
           "height": 600,
           "title": null,
@@ -1191,9 +174,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/hans/opinion/news-analysis/ai-ml-big-data-use-in-travel-hospitality-sector-710195",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/ai-ml-big-data-use-in-travel-hospitality-sector-710195",
-      "publishedDateTime": "2021-10-09T17:17:00-07:00",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "publishedDateTime": "2021-12-29T03:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Hans India",
@@ -1207,26 +190,63 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-global-ai-and-advance-machine-learning-in-bfsi-market-report-2021-to-2030-increasing-preferences-for-personalized-financial-services.md",
+      "title": "Global AI and Advance Machine Learning in BFSI Market Report (2021 to 2030): Increasing Preferences for Personalized Financial Services",
+      "excerpt": "The \"AI and Advance Machine Learning in BFSI Market By Component, Deployment Model, Enterprise Size and Application:",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24809416/global-ai-and-advance-machine-learning-in-bfsi-market-report-2021-to-2030-increasing-preferences-f",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24809416/global-ai-and-advance-machine-learning-in-bfsi-market-report-2021-to-2030-increasing-preferences-f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24809416",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24809416",
+      "publishedDateTime": "2021-12-29T02:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_news/2021-10-09-creating-curating-and-optimizing-with-data-science-and-machine-learning-at-the-new-york-times.md",
-      "title": "Creating, Curating, And Optimizing With Data Science And Machine Learning At The New York Times",
-      "excerpt": "Journalism, an industry whose primary focus is the communication of ideas in both text and visual format, has come to adopt the tools and techniques of data science to put power behind analysis and visualization of data.",
+      "path": "_news/2021-12-29-indias-airtel-tcs-tap-robotics-to-build-5g-based-units.md",
+      "title": "India's Airtel, TCS tap robotics to build 5G-based units",
+      "excerpt": "Indian telecom operator Bharti Airtel and IT giant Tata Consultancy Services (TCS) have joined hands to build a 5G-based remote working technology using robotics. Both the companies are currently running the trials in Airtel's 5G lab at Manesar,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/09/creating-curating-and-optimizing-with-data-science-and-machine-learning-at-the-new-york-times/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/09/creating-curating-and-optimizing-with-data-science-and-machine-learning-at-the-new-york-times/",
+      "webUrl": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/12596-india-s-airtel-tcs-tap-robotics-to-build-5g-based-units.html",
+      "originalUrl": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/12596-india-s-airtel-tcs-tap-robotics-to-build-5g-based-units.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6161a43b64fa06e32b3a987f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D396%26cropY1%3D29%26cropY2%3D426",
-          "width": 396,
-          "height": 397,
+          "url": "https://www.developingtelecoms.com/images/stories/Places/India_-_train_journey.jpg",
+          "width": 600,
+          "height": 449,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1234,9 +254,149 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/09/creating-curating-and-optimizing-with-data-science-and-machine-learning-at-the-new-york-times/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/10/09/creating-curating-and-optimizing-with-data-science-and-machine-learning-at-the-new-york-times/amp/",
-      "publishedDateTime": "2021-10-09T06:56:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-28T21:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "developingtelecoms.com",
+        "domain": "developingtelecoms.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-artificial-intelligence-36-is-the-future-of-ai-future-of-deep-learning.md",
+      "title": "Artificial Intelligence #36 : Is the future of AI = future of Deep Learning?",
+      "excerpt": "Introduction Welcome to Artificial Intelligence #36 – the last edition for this year. For many of us, 2021 has been a challenging year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-36-future-ai-deep-learning-ajit-jaokar",
+      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-36-future-ai-deep-learning-ajit-jaokar",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQF2KOEfzKDSEA/article-cover_image-shrink_600_2000/0/1640726128199?e=1647475200&v=beta&t=yk1k8JpsTA7iCi0insf3lCbr6yp9Lybg19P1xfTuIuA",
+          "width": 473,
+          "height": 352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-28T13:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-second-spectrum-selects-aws-as-its-preferred-cloud-machine-learning-artificial-intelligence-and-media-services-provider.md",
+      "title": "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider",
+      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
+      "sourceUrl": null,
+      "webUrl": "https://br.advfn.com/noticias/BW/2020/artigo/81760926",
+      "originalUrl": "https://br.advfn.com/noticias/BW/2020/artigo/81760926",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:AMZN&p=5&t=52",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ADVFN",
+        "domain": "advfn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-how-machine-intelligence-is-changing-the-modern-world.md",
+      "title": "How Machine Intelligence Is Changing The Modern World",
+      "excerpt": "Specialists and mass media expect technology advancements to allow complete redefining of the role of machine intelligence in modern life. This is about the development of computer vision, natural language processing and neural networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6166fb6f1b212a984a12fd25%2F0x0.jpg",
+          "width": 1200,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/amp/",
+      "publishedDateTime": "2021-12-27T03:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1259,26 +419,26 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2021-10-09-ai-for-asset-tracking-using-only-machine-learning-core-in-sensors.md",
-      "title": "AI for asset tracking using only machine learning core in sensors",
-      "excerpt": "Using our wireless IoT wearable node (SensorTile.box) and Qeexo AutoML software, you can build decision tree algorithms for our sensors without writing a single line of code. We explore the machine learning core engine in the LSM6DSOX 6-axis inertial ...",
+      "path": "_news/2021-12-27-deep-learning-chipset-market-expected-to-witness-a-sustainable-growth-over-2027.md",
+      "title": "Deep Learning Chipset Market Expected To Witness a Sustainable Growth Over 2027",
+      "excerpt": "Transparency Market Research delivers key insights on the global deep learning chipset market. In terms of revenue, the deep learning chipset market is estimated to expand at a CAGR of ~24% ...",
       "sourceUrl": null,
-      "webUrl": "https://www.st.com/content/st_com/en/about/events/events.html/intelligent-asset-tracking-enabled-by-lsm6dsox.html",
-      "originalUrl": "https://www.st.com/content/st_com/en/about/events/events.html/intelligent-asset-tracking-enabled-by-lsm6dsox.html",
+      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-chipset-market-expected-to-witness-a-sustainable-growth-over-2027",
+      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-chipset-market-expected-to-witness-a-sustainable-growth-over-2027",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.st.com/content/dam/logos/open-graph-logo.png",
-          "width": 750,
-          "height": 560,
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/09/Lego-AFP-1K-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1288,11 +448,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-09T05:51:00-07:00",
+      "publishedDateTime": "2021-12-26T22:27:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ST",
-        "domain": "st.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1307,35 +467,26 @@
       ]
     },
     {
-      "path": "_news/2021-10-08-artificial-intelligence-suggests-a-new-narrative-for-the-out-of-africa-process.md",
-      "title": "Artificial intelligence suggests a new narrative for the Out of Africa process",
-      "excerpt": "Researchers from Estonia and Italy developed an innovative method by combining neural networks and statistics. Using this newly developed method, they refined the \"Out of Africa\" scenario. The researchers claimed that the African dynamics around the time of the Out of Africa expansion are more complex than previously thought.",
+      "path": "_news/2021-12-25-unmanned-aerial-system-based-weed-mapping-in-sod-production-using-a-convolutional-neural-network.md",
+      "title": "Unmanned Aerial System-Based Weed Mapping in Sod Production Using a Convolutional Neural Network.",
+      "excerpt": "Weeds are a persistent problem on sod farms, and herbicides to control different weed species are one of the largest chemical inputs. Recent advances in unmanned aerial systems (UAS) and artificial intelligence provide opportunities for weed mapping on sod farms.",
       "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-10-artificial-intelligence-narrative-africa.html",
-      "originalUrl": "https://phys.org/news/2021-10-artificial-intelligence-narrative-africa.html",
+      "webUrl": "https://europepmc.org/article/MED/34899768",
+      "originalUrl": "https://europepmc.org/article/MED/34899768",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-37.jpg",
-          "width": 2880,
-          "height": 2872,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-10-artificial-intelligence-narrative-africa.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-10-artificial-intelligence-narrative-africa.amp",
-      "publishedDateTime": "2021-10-08T09:24:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-24T21:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
+        "name": "Europe PMC",
+        "domain": "europepmc.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1350,21 +501,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-08-neural-network-helps-predict-new-drug-combinations-to-fight-covid-19.md",
-      "title": "Neural Network Helps Predict New Drug Combinations To Fight COVID-19",
-      "excerpt": "Deep learning identifies synergistic drug blends for treating viruses like SARS-CoV-2. The existential threat of Covid-19 has highlighted an acute need to develop working therapeutics against emerging health concerns.",
+      "path": "_news/2021-12-24-rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics.md",
+      "title": "Rajasthan Government Sets Aside Rs 200 Crores To Train Youth In AI, Ml And Robotics",
+      "excerpt": "Rajiv Gandhi Center for Advanced Technology will be set in Jaipur, which would conduct certificate courses and multidisciplinary research in AI, ML, Robotics and Virtual Reality.",
       "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/neural-network-helps-predict-new-drug-combinations-to-fight-covid-19/",
-      "originalUrl": "https://scitechdaily.com/neural-network-helps-predict-new-drug-combinations-to-fight-covid-19/",
+      "webUrl": "https://analyticsindiamag.com/rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics/",
+      "originalUrl": "https://analyticsindiamag.com/rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 80,
       "tags": null,
       "images": [
         {
-          "url": "https://scitechdaily.com/images/Machine-Learning-COVID-19-Concept-777x518.jpg",
-          "width": 777,
-          "height": 518,
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/ashok-gehlot-new.jpeg",
+          "width": 640,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1372,13 +523,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/neural-network-helps-predict-new-drug-combinations-to-fight-covid-19/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/neural-network-helps-predict-new-drug-combinations-to-fight-covid-19/amp/",
-      "publishedDateTime": "2021-10-08T04:48:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-24T02:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1388,11 +539,480 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Robotics",
         "AI",
-        "AI in Healthcare"
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-explore-amazon-sagemaker-serverless-inference-for-deploying-ml-models.md",
+      "title": "Explore Amazon SageMaker Serverless Inference for Deploying ML Models",
+      "excerpt": "Invent 2021 user conference earlier this month, Amazon Web Services‘ Amazon SageMaker Serverless Inference is a new inference option to deploy machine learning models without configuring and managing the compute infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/explore-amazon-sagemaker-serverless-inference-deploying-janakiram-msv",
+      "originalUrl": "https://www.linkedin.com/pulse/explore-amazon-sagemaker-serverless-inference-deploying-janakiram-msv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQF_v9S4FOAWYQ/article-cover_image-shrink_600_2000/0/1640146369662?e=1646870400&v=beta&t=7XPeAvELZF1fxTTBuiJ3JdPVUs4qxJgnjMSIh3-SWd4",
+          "width": 640,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T20:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-face-detection-in-untrained-deep-neural-networks.md",
+      "title": "Face detection in untrained deep neural networks",
+      "excerpt": "Researchers have found that higher visual cognitive functions can arise spontaneously in untrained neural networks. A KAIST research team led by Professor Se-Bum Paik from the Department of Bio and Brain Engineering has shown that visual selectivity of facial images can arise even in completely untrained deep neural networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/938633",
+      "originalUrl": "https://www.eurekalert.org/news-releases/938633",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/287aa929-bfb7-4958-9f9f-184912fa866c/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T09:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-the-global-deep-learning-market-is-projected-to-reach-us605-billion-by-2025.md",
+      "title": "The Global Deep Learning Market is Projected to Reach US$60.5 Billion by 2025",
+      "excerpt": "Deep learning is a division of machine learning that uses layered algorithmic models for analyzing data. The deep learning market is gaining prominence on account of its complex data-driven applications including voice and image recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/the-global-deep-learning-market-is-projected-to-reach-us60-5-billion-by-2025/",
+      "originalUrl": "https://www.analyticsinsight.net/the-global-deep-learning-market-is-projected-to-reach-us60-5-billion-by-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/12/The-Global-Deep-Learning-Market-is-Projected-to-Reach-US60.5-Billion-by-2025.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T07:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-ai-and-advance-machine-learning-in-bfsi-market-global-report-2021-2030-featuring-leading-players-cisco-sap-microsoft-and-ibm-among-others.md",
+      "title": "AI and Advance Machine Learning in BFSI Market Global Report 2021-2030 Featuring Leading Players - Cisco, SAP, Microsoft and IBM Among Others - ResearchAndMarkets.com",
+      "excerpt": "In addition, an increase in investment by BFSI companies in AI and machine learning and a rise in customer preferences for personalized financial services boost the growth of the market across the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20211221005363/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20211221005363/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T03:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-face-detection-in-untrained-deep-neural-networks.md",
+      "title": "Face detection in untrained deep neural networks?",
+      "excerpt": "Researchers have found that higher visual cognitive functions can arise spontaneously in untrained neural networks. A research team has shown that visual selectivity of facial images can arise even in completely untrained deep neural networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/12/211221102759.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/12/211221102759.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-cnbc-technology-executive-council-survey-reveals-executives-excited-about-machine-learning-in-22.md",
+      "title": "CNBC Technology Executive Council survey reveals executives excited about machine learning in '22",
+      "excerpt": "CNBC Technology Executive Council survey reveals few executives worried about the omicron variant's impact to their 2022 outlook. Got a confidential news tip? We want to hear from you. Sign up for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/12/20/cnbc-technology-executive-council-survey-reveals-executives-excited-about-machine-earning-in-22.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/12/20/cnbc-technology-executive-council-survey-reveals-executives-excited-about-machine-earning-in-22.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106991730-16400192271640019224-20405410156-1080pnbcnews.jpg?v=1640019226",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-18-the-growing-cost-of-deep-learning-for-source-code.md",
+      "title": "The Growing Cost of Deep Learning for Source Code",
+      "excerpt": "This would surely have sounded like a vision of a distant future just a decade ago, but such quick progress is indicative of the substantial and unique potential of deep learning for software engineering tasks and domains.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/magazines/2022/1/257443-the-growing-cost-of-deep-learning-for-source-code/fulltext",
+      "originalUrl": "https://cacm.acm.org/magazines/2022/1/257443-the-growing-cost-of-deep-learning-for-source-code/fulltext",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dl.acm.org/cms/attachment/97e981c2-320d-4e42-8d57-5388c3495f2b/uf1.jpg",
+          "width": 1021,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-18T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using-deepdubs-ai-and-deep-learning-platform.md",
+      "title": "Topic's streaming service & Deepdub partner to localize dozens of foreign-language series to English using Deepdub's AI and deep learning platform",
+      "excerpt": "Topic's streaming service & Deepdub partner to localize dozens of foreign-language series to English using Deepdub's AI and deep learning platform By Deepdub Ltd Dec 15, 2021",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using/article_51a059bc-18e1-5ff7-a555-1aabc30592bb.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using/article_51a059bc-18e1-5ff7-a555-1aabc30592bb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T05:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-morgan-stanley-and-the-child-mind-institute-select-winners-of-machine-learning-for-good-hackathon.md",
+      "title": "Morgan Stanley and the Child Mind Institute Select Winners of “Machine Learning for Good” Hackathon",
+      "excerpt": "NEW YORK--(BUSINESS WIRE)--Morgan Stanley and the Child Mind Institute today announced the results of the judging from Morgan Stanley’s Machine ... leading global financial services firm ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20211213005237/en/Morgan-Stanley-and-the-Child-Mind-Institute-Select-Winners-of-“Machine-Learning-for-Good”-Hackathon",
+      "originalUrl": "https://www.businesswire.com/news/home/20211213005237/en/Morgan-Stanley-and-the-Child-Mind-Institute-Select-Winners-of-“Machine-Learning-for-Good”-Hackathon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-deep-learning-market-insights-2021-a-detailed-research-report.md",
+      "title": "Deep Learning Market Insights 2021. A Detailed Research Report",
+      "excerpt": "Pune, Maharashtra, India, December 13 2021 (Wiredrelease) MarketResearch.Biz –:The Deep Learning market study delves into the industry’s growth potential, challenges, growth drivers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-market-insights-2021-a-detailed-research-report",
+      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-market-insights-2021-a-detailed-research-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://5gigs.com/wp-content/uploads/2021/12/English-4.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T05:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-va-aims-to-reduce-administrative-tasks-with-ai-machine-learning.md",
+      "title": "VA Aims To Reduce Administrative Tasks With AI, Machine Learning",
+      "excerpt": "The AI and machine learning technology outlined in the presolicitation could also support new EHR infrastructure and focus on an improved user experience, mainly with an improved platform ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextgov.com/emerging-tech/2022/01/us-army-announces-new-machine-learning-tech-burn-treatment/360303/",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/cd/2022/01/03/GettyImages_184355967/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],
-  "nextPage": 11
+  "nextPage": null
 }

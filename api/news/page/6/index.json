@@ -2,21 +2,21 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2022-03-03-analyst-ratings-for-c3ai.md",
-      "title": "Analyst Ratings For C3.ai",
-      "excerpt": "In the last 3 months, 4 analysts have offered 12-month price targets for C3.ai. The company has an average price target of $33.5 with a high of $40.00 and a low of $27.00. Below is a summary of how these 4 analysts rated C3.",
+      "path": "_news/2022-03-16-easing-financial-nerves-with-artificial-intelligence.md",
+      "title": "Easing Financial Nerves With Artificial Intelligence",
+      "excerpt": "In 2022, global anxiety feels unavoidable. From climate change to the continued impact of Covid-19, we are experiencing challenges affecting everyone across the globe. Business leaders are not exempt from this fear.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1031248762",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1031248762",
+      "webUrl": "https://internationalbanker.com/technology/easing-financial-nerves-with-artificial-intelligence/",
+      "originalUrl": "https://internationalbanker.com/technology/easing-financial-nerves-with-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_3929.jpeg",
-          "width": 1024,
-          "height": 768,
+          "url": "https://internationalbanker.com/wp-content/uploads/2022/03/Artificial-Intelligence.png",
+          "width": 1339,
+          "height": 650,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,63 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-02T10:20:00-08:00",
+      "publishedDateTime": "2022-03-15T23:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-washington-to-roll-out-facial-recognition-dropped-by-irs.md",
-      "title": "Washington to Roll Out Facial Recognition Dropped by IRS",
-      "excerpt": "Washington state is getting ready to roll out the ID.me facial recognition system dropped by the IRS over privacy and equity concerns, while human rights activists are asking state government officials to ban the system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/washington-to-roll-out-facial-recognition-dropped-by-irs",
-      "originalUrl": "https://www.govtech.com/public-safety/washington-to-roll-out-facial-recognition-dropped-by-irs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/washington-to-roll-out-facial-recognition-dropped-by-irs?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/washington-to-roll-out-facial-recognition-dropped-by-irs?_amp=true",
-      "publishedDateTime": "2022-03-02T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
+        "name": "International Banker",
+        "domain": "internationalbanker.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -92,26 +40,26 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-03-03-ai-computer-maker-cerebras-nabs-totalenergies-se-as-first-energy-sector-customer.md",
-      "title": "AI computer maker Cerebras nabs TotalEnergies SE as first energy sector customer",
-      "excerpt": "The energy giant, a devotee of giant computers, is enthusiastic about the early results of running very large, data-intensive simulation tasks such as oil and gas exploration.",
+      "path": "_news/2022-03-16-crisis-data-an-ethics-case-study.md",
+      "title": "Crisis Data: An Ethics Case Study",
+      "excerpt": "Politico published an article about a nonprofit called Crisis Text Line, which offers support via text messages for people who are going through mental health crises. For years, the nonprofit had been collecting a database of messages exchanged,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-computer-maker-cerebras-nabs-totalenergies-se-as-first-energy-sector-customer/",
-      "originalUrl": "https://www.zdnet.com/article/ai-computer-maker-cerebras-nabs-totalenergies-se-as-first-energy-sector-customer/",
+      "webUrl": "https://www.scu.edu/ethics/focus-areas/internet-ethics/resources/crisis-data-an-ethics-case-study/",
+      "originalUrl": "https://www.scu.edu/ethics/focus-areas/internet-ethics/resources/crisis-data-an-ethics-case-study/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/img/resize/eff230571995ff8fc499d826aec6b544704283b7/2022/03/02/951afdba-2f83-4334-8772-7929bcd223fa/cerebras-totalenergies-cs-2-pic-2022.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
+          "url": "https://www.scu.edu/media/ethics-center/internet-ethics/8265910706_0851f637c0_z-360x225.jpg",
+          "width": 360,
+          "height": 225,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -119,23 +67,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-computer-maker-cerebras-nabs-totalenergies-se-as-first-energy-sector-customer/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-computer-maker-cerebras-nabs-totalenergies-se-as-first-energy-sector-customer/",
-      "publishedDateTime": "2022-03-02T09:58:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T19:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Santa Clara University",
+        "domain": "scu.edu",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -144,24 +83,110 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "AI Ethics",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-03-03-truecircle-scoops-55m-to-use-ai-to-drive-recycling-efficiency.md",
-      "title": "TrueCircle scoops $5.5M to use AI to drive recycling efficiency",
-      "excerpt": "UK-based TrueCircle, a computer vision startup founded just last year, has nabbed $5.5 million in pre-seed funding in a bid to bring data-driven AI to the recycling industry to improve recovery rates and quality — with the overarching goal of transforming the economics of waste reuse to",
+      "path": "_news/2022-03-16-amazon-launches-free-online-game-to-boost-aws-cloud-skills.md",
+      "title": "Amazon Launches Free Online Game To Boost AWS Cloud Skills",
+      "excerpt": "Amazon creates metaverse game AWS Cloud Quest to boost cloud computing skills for AWS certified cloud practitioners.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/02/truecircle-pre-seed/",
-      "originalUrl": "https://techcrunch.com/2022/03/02/truecircle-pre-seed/",
+      "webUrl": "https://www.crn.com/news/cloud/amazon-launches-metaverse-type-game-for-aws-cloud-training",
+      "originalUrl": "https://www.crn.com/news/cloud/amazon-launches-metaverse-type-game-for-aws-cloud-training",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/TrueCircle-Fundraise-Feb-2022.jpg?w=1024",
+          "url": "https://www.crn.com/resources/0273-14ae73d3debe-a89ed4d9b3e1-1000/cloudquest-resized.jpg.jpeg",
+          "width": 599,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T19:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-the-downfall-of-one-of-the-worlds-biggest-brains.md",
+      "title": "The Downfall of One of the World’s Biggest Brains",
+      "excerpt": "In 2011, when Watson, IBM’s computer system played against champions ... What does this say about the promise of AI for medicine? I’m Lizzie O’Leary and you’re listening to what next ...",
+      "sourceUrl": null,
+      "webUrl": "https://slate.com/transcripts/MFJZV1plN0RuMmJZWTNvRGZNak9ZbnRHYTBxa1A0c2gyZTNaUS91djBHOD0=",
+      "originalUrl": "https://slate.com/transcripts/MFJZV1plN0RuMmJZWTNvRGZNak9ZbnRHYTBxa1A0c2gyZTNaUS91djBHOD0=",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slate.com/media/sites/slate-com/icon.400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slate",
+        "domain": "slate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-inside-the-terrifying-future-of-shapeshifting-robots-that-will-manipulate-your-emotions.md",
+      "title": "Inside the terrifying future of shapeshifting robots that will manipulate your emotions",
+      "excerpt": "As humans work to become less socially robotic these days, robots are becoming more human-like. With recent advancements, robots could be shifting shapes, helping manage your emotions and much more. Have a look.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/03/15/robots-will-soon-be-able-to-shift-shapes-and-control-your-emotions/",
+      "originalUrl": "https://nypost.com/2022/03/15/robots-will-soon-be-able-to-shift-shapes-and-control-your-emotions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/03/emotion-robot.gif?w=1024",
           "width": 1024,
           "height": 683,
           "title": null,
@@ -171,65 +196,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/02/truecircle-pre-seed/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/02/truecircle-pre-seed/amp/",
-      "publishedDateTime": "2022-03-02T09:53:00-08:00",
+      "ampWebUrl": "https://nypost.com/2022/03/15/robots-will-soon-be-able-to-shift-shapes-and-control-your-emotions/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/03/15/robots-will-soon-be-able-to-shift-shapes-and-control-your-emotions/amp/",
+      "publishedDateTime": "2022-03-15T16:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-sanctuary-cognitive-systems-closes-c755-million-us58.md",
-      "title": "Sanctuary Cognitive Systems Closes C$75.5 Million (US$58.…",
-      "excerpt": "Sanctuary Cognitive Systems Corporation, a company focused on creating the world's first human-like intelligence in general-purpose robots, today announced the successful closing of an oversubscribed C$75.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/sanctuary-cognitive-systems-closes-c75-5-million-us58-5-million-series-a-funding-accelerating-its-mission-to-create-the-worlds-first-human-like-intelligence-in-general-purpose-robots-to-address-labour-shortages-around-the-wo-301493034.html",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-sanctuary-cognitive-systems-closes-c755-million-us585-million-/2022/03/02/9555699.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1756088/Sanctuary_Cognitive_Systems_Corporation.jpg?p=facebook",
-          "width": 2104,
-          "height": 1102,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-02T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "New York Post",
+        "domain": "nypost.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -239,181 +212,26 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-doctors-using-ai-supercomputer-to-predict-and-prevent-50-of-mental-illness.md",
-      "title": "Doctors Using AI, Supercomputer To Predict And Prevent 50% Of Mental Illness",
-      "excerpt": "If we can identify this early ... we can treat for and alleviate almost 50% of the mental illness that goes into adulthood,” Dr. John Pestian told me recently on the TechFirst podcast. “So catching it young,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2022/03/02/doctors-using-ai-supercomputer-to-predict-and-prevent-50-of-mental-illness/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2022/03/02/doctors-using-ai-supercomputer-to-predict-and-prevent-50-of-mental-illness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/621e4a5d3379896af6390743/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1075,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2022/03/02/doctors-using-ai-supercomputer-to-predict-and-prevent-50-of-mental-illness/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/03/02/doctors-using-ai-supercomputer-to-predict-and-prevent-50-of-mental-illness/amp/",
-      "publishedDateTime": "2022-03-02T07:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-03-02-bundesliga-match-fact-skill-quantifying-football-player-qualities-using-machine-learning-on-aws.md",
-      "title": "Bundesliga Match Fact Skill: Quantifying football player qualities using machine learning on AWS",
-      "excerpt": "In football, as in many sports, discussions about individual players have always been part of the fun. “Who is the best scorer?” or “Who is the king of defenders?” are questions perennially debated by fans, and social media amplifies this debate. Just consider that Erling Haaland, Robert Lewandowski,",
+      "path": "_news/2022-03-16-apple-wins-appeal-against-speech-recognition-patent-in-siri-suit.md",
+      "title": "Apple Wins Appeal Against Speech Recognition Patent in Siri Suit",
+      "excerpt": "The Federal Circuit summarily affirmed an administrative tribunal ruling that nixed part of a patent that Apple Inc. was accused of infringing with its Siri technology.",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-skill-quantifying-football-player-qualities-using-machine-learning-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-skill-quantifying-football-player-qualities-using-machine-learning-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/01/skill_impact3-1260x437.png",
-          "width": 1260,
-          "height": 437,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-02T07:24:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-faros-ai-raises-16m-to-launch-an-engops-platform-for-software-development.md",
-      "title": "Faros AI raises $16M to launch an ‘EngOps’ platform for software development",
-      "excerpt": "Faros AI, which is developing an 'EngOps' platform for enterprise customers, has raised $16 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/02/faros-ai-raises-16m-to-launch-an-engops-platform-for-software-development/",
-      "originalUrl": "https://venturebeat.com/2022/03/02/faros-ai-raises-16m-to-launch-an-engops-platform-for-software-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/Application-developer.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/02/faros-ai-raises-16m-to-launch-an-engops-platform-for-software-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/faros-ai-raises-16m-to-launch-an-engops-platform-for-software-development/amp/",
-      "publishedDateTime": "2022-03-02T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-sonata-software-named-microsoft-azure-expert-managed-service-provider.md",
-      "title": "Sonata Software named Microsoft Azure Expert Managed Service Provider",
-      "excerpt": "Sonata Software a global IT Services and Technology Solutions Company today announced that it has been named a Microsoft Azure Expert Managed Service Provider",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272351681/sonata-software-named-microsoft-azure-expert-managed-service-provider",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272351681/sonata-software-named-microsoft-azure-expert-managed-service-provider",
+      "webUrl": "https://news.bloomberglaw.com/us-law-week/apple-wins-appeal-against-speech-recognition-patent-in-siri-suit",
+      "originalUrl": "https://news.bloomberglaw.com/us-law-week/apple-wins-appeal-against-speech-recognition-patent-in-siri-suit",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.bignewsnetwork.com/ani1646235347.jpg",
-          "width": 630,
-          "height": 420,
+          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/b02bbd0/2147483647/legacy_thumbnail/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F6d%2Ff7%2Ff0f2f82b46c9abf842070ccc9578%2Fapple-david-paul-morrris-clouds-cool.jpg",
+          "width": 960,
+          "height": 369,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -423,11 +241,166 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-02T07:00:00-08:00",
+      "publishedDateTime": "2022-03-15T11:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
+        "name": "Bloomberg Law",
+        "domain": "bloomberglaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-inside-intels-self-driving-spinoff.md",
+      "title": "Inside Intel's Self-Driving Spinoff",
+      "excerpt": "At Intel's (NASDAQ: INTC) recent investor day, the company revealed it would soon be spinning off its Mobileye subsidiary, which develops self-driving cars and driver-assist systems. When our ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/inside-intels-self-driving-spinoff",
+      "originalUrl": "https://www.nasdaq.com/articles/inside-intels-self-driving-spinoff",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/inside-intels-self-driving-spinoff?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/inside-intels-self-driving-spinoff?amp",
+      "publishedDateTime": "2022-03-15T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-healthcare-artificial-intelligence-market-to-eyewitness-massive-growth-by-2026-nvidia-next-it-ibm-watson-health.md",
+      "title": "Healthcare Artificial Intelligence Market to Eyewitness Massive Growth by 2026 | NVIDIA, Next IT, IBM Watson Health",
+      "excerpt": "The Latest research study released by Market Intellix “Healthcare Artificial Intelligence (AI) market” with 100+ pages of analysis on business",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-to-eyewitness-massive-growth-by-2026-nvidia-next-it-ibm-watson-health",
+      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-to-eyewitness-massive-growth-by-2026-nvidia-next-it-ibm-watson-health",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-how-language-software-can-strengthen-our-cyberdefenses.md",
+      "title": "How Language Software Can Strengthen Our Cyberdefenses",
+      "excerpt": "Software that understands human speech and writing is increasingly being used to fend off hackers, but experts disagree over the value of this tactic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lifewire.com/how-language-software-can-strengthen-our-cyberdefenses-5222302",
+      "originalUrl": "https://www.lifewire.com/how-language-software-can-strengthen-our-cyberdefenses-5222302",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lifewire.com/thmb/TMkgBeYRwXaOy5HJ9uEUe0ReLlw=/732x477/filters:fill(auto,1)/GettyImages-504662110-7431e8558f734ad0af3848368c98b584.jpg",
+          "width": 732,
+          "height": 477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lifewire",
+        "domain": "lifewire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-arista-anet-appears-a-smart-investment-bet-now-heres-why.md",
+      "title": "Arista (ANET) Appears a Smart Investment Bet Now: Here's Why",
+      "excerpt": "The company expanded its cognitive campus ... troubleshooting and location services. This supports video conferencing applications like Google Hangouts, Microsoft Teams and Zoom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why",
+      "originalUrl": "https://www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why?amp",
+      "publishedDateTime": "2022-03-15T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -442,20 +415,20 @@
       ]
     },
     {
-      "path": "_news/2022-03-02-ai-model-detects-mental-disorders-based-on-web-posts.md",
-      "title": "AI model detects mental disorders based on web posts",
-      "excerpt": "Dartmouth researchers have built an artificial intelligence model for detecting mental disorders using conversations on Reddit, part of an emerging wave of screening tools that use computers to analyze social media posts and gain an insight into people's mental states.",
+      "path": "_news/2022-03-15-whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist.md",
+      "title": "What's on Your Artificial Intelligence Compliance, Privacy and Ethics Checklist?",
+      "excerpt": "CIO Anthony McMahon of Target State Consulting suggests in a recent #CIOChat on Twitter that ethical and privacy issues are not unique to artificial intelligence (AI). “Every decision on how to use data,",
       "sourceUrl": null,
-      "webUrl": "https://home.dartmouth.edu/news/2022/03/ai-model-detects-mental-disorders-based-web-posts",
-      "originalUrl": "https://techxplore.com/news/2022-03-ai-mental-disorders-based-web.html",
+      "webUrl": "https://www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/",
+      "originalUrl": "https://www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://home.dartmouth.edu/sites/home/files/styles/max_width_720px/public/2022-03/20220225_computer_science_rg_008.jpg?itok=-Qsb_hC4",
-          "width": 720,
+          "url": "https://www.cmswire.com/-/media/ebd30967e58445b583d6aaf1a1c58b13.ashx?mw=1024",
+          "width": 640,
           "height": 480,
           "title": null,
           "attribution": null,
@@ -464,13 +437,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-02T06:51:00-08:00",
+      "ampWebUrl": "https://www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/amp/",
+      "publishedDateTime": "2022-03-15T07:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -480,25 +453,26 @@
         "news"
       ],
       "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-03-02-4-takeaways-for-student-loan-borrowers-after-bidens-big-speech.md",
-      "title": "4 Takeaways For Student Loan Borrowers After Biden’s Big Speech",
-      "excerpt": "Biden did not mention student loan forgiveness or other student loan relief during his State of the Union address. Here’s what it means for borrowers.",
+      "path": "_news/2022-03-15-why-is-the-health-care-industry-slow-in-adopting-artificial-intelligence.md",
+      "title": "Why is the health care industry slow in adopting artificial intelligence?",
+      "excerpt": "A new report explores several reasons, including barriers to entry, biased algorithms, and limited access to data.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/",
-      "originalUrl": "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/",
+      "webUrl": "https://www.benefitspro.com/2022/03/15/why-is-the-health-care-industry-slow-in-adopting-artificial-intelligence/",
+      "originalUrl": "https://www.benefitspro.com/2022/03/15/why-is-the-health-care-industry-slow-in-adopting-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/621f8b986e1c008edddcafb9/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1067,
-          "height": 711,
+          "url": "https://images.benefitspro.com/contrib/content/uploads/sites/412/2021/07/digitalization.jpg",
+          "width": 600,
+          "height": 383,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -506,16 +480,102 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/amp/",
-      "publishedDateTime": "2022-03-02T06:32:00-08:00",
+      "ampWebUrl": "https://www.benefitspro.com/2022/03/15/why-is-the-health-care-industry-slow-in-adopting-artificial-intelligence/?amp=1",
+      "cdnAmpWebUrl": "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2022/03/15/why-is-the-health-care-industry-slow-in-adopting-artificial-intelligence/?amp=1",
+      "publishedDateTime": "2022-03-15T06:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Benefits Pro",
+        "domain": "benefitspro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-financial-services-businesses-must-stop-putting-customer-due-diligence-on-the-backburner.md",
+      "title": "Financial services businesses must stop putting Customer Due Diligence on the backburner",
+      "excerpt": "Financial crime challenges even the most diligent of organisations. During the Covid-19 pandemic, fraud proliferated in the UK, with professional criminals targeting the public amid Covid-19 disruption to the tune of £37 million in 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/the-long-read/363/financial-services-businesses-must-stop-putting-customer-due-diligence-on-the-backburner",
+      "originalUrl": "https://www.finextra.com/the-long-read/363/financial-services-businesses-must-stop-putting-customer-due-diligence-on-the-backburner",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/oped/363.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-towards-the-reuse-of-supervised-deep-learning-algorithms-in-bioimage-analysis.md",
+      "title": "Towards the reuse of supervised deep learning algorithms in bioimage analysis",
+      "excerpt": "Over the last ten years, the amount of microscopy data acquired has increased dramatically, and so has the appetite to use deep learning to gain knowledge from these data. But how easy is this really?",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/towards-reuse-supervised-deep-learning-algorithms-bioimage-uhlmann",
+      "originalUrl": "https://www.linkedin.com/pulse/towards-reuse-supervised-deep-learning-algorithms-bioimage-uhlmann",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGs3zG-uI9z-w/article-cover_image-shrink_720_1280/0/1647342187150?e=1653523200&v=beta&t=zdG_pUpoHKVs77B_e8UzeujH8QiMPpVE5vSax9Cj6aM",
+          "width": 720,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -531,26 +591,26 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-03-02-sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical.md",
-      "title": "Sanctuary claims it’s creating robots with human-level intelligence, but experts are skeptical",
-      "excerpt": "AI today (mostly) excels at narrow ... would seem to just be a pretty standard reinforcement learning (RL) robotics startup,” Matthew Guzdial, a University of Alberta assistant professor ...",
+      "path": "_news/2022-03-15-intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale.md",
+      "title": "Intuition Robotics Launches ElliQ, the Award-Winning Care Companion Robot, for Commercial Sale",
+      "excerpt": "Intuition Robotics today announced the official commercial launch of its digital care companion, ElliQ which is now available for purchase via elliq.com. ElliQ,",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/",
-      "originalUrl": "https://venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale/article_7d7119a1-b5c4-5ceb-bbe8-af6099418b1b.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale/article_7d7119a1-b5c4-5ceb-bbe8-af6099418b1b.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1338009807.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 617,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -558,23 +618,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/amp/",
-      "publishedDateTime": "2022-03-02T06:01:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -588,219 +639,21 @@
       ]
     },
     {
-      "path": "_news/2022-03-02-europe-is-in-danger-of-using-the-wrong-definition-of-ai.md",
-      "title": "Europe Is in Danger of Using the Wrong Definition of AI",
-      "excerpt": "Some intelligent systems are at risk of being excluded from oversight in the EU's proposed legislation. This is bad for both businesses and citizens.",
+      "path": "_news/2022-03-15-how-ai-reshapes-the-fintech-landscape.md",
+      "title": "How AI reshapes the Fintech Landscape?",
+      "excerpt": "AI is no more an enemy of finance space as it was a decade ago when it was met with blank stares by leaders in the field. Enabling technology into the finance landscape has brought in more resilience,",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-regulation-european-union/",
-      "originalUrl": "https://www.wired.com/story/artificial-intelligence-regulation-european-union/",
+      "webUrl": "https://www.linkedin.com/pulse/how-ai-reshapes-fintech-landscape-mileseducation",
+      "originalUrl": "https://www.linkedin.com/pulse/how-ai-reshapes-fintech-landscape-mileseducation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/621ed5534f9a52429a2b4140/master/pass/030122_Europe%20Is%20in%20Danger%20of%20Using%20the%20Wrong%20Definition%20of%20AI%20(0;00;00;00).jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-regulation-european-union/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-regulation-european-union/amp",
-      "publishedDateTime": "2022-03-02T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-level-ai-which-provides-call-center-automation-software-raises-20m.md",
-      "title": "Level AI, which provides call center automation software, raises $20M",
-      "excerpt": "Level AI, a company providing call center automation software, has raised $20 million in funding from venture capital investors.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/02/level-ai-which-provides-call-center-automation-software-raises-20m/",
-      "originalUrl": "https://venturebeat.com/2022/03/02/level-ai-which-provides-call-center-automation-software-raises-20m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/india-call-center-masks.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/02/level-ai-which-provides-call-center-automation-software-raises-20m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/level-ai-which-provides-call-center-automation-software-raises-20m/amp/",
-      "publishedDateTime": "2022-03-02T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-amid-war-an-independent-russian-radio-station-goes-silent.md",
-      "title": "Amid war, an independent Russian radio station goes silent",
-      "excerpt": "In the days since Russian President Vladimir Putin ordered an invasion of Ukraine on February 24, officials have begun a crackdown on independent media and protesters who have come out in their thousands to decry the war ... of ill fortune, who was ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/",
-      "originalUrl": "https://www.aljazeera.com/news/2022/3/2/amid-war-an-independent-russian-radio-station-goes-silent",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/themes/fortune/amp/assets/it_pays_to_know.png",
-          "width": 1250,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-03-02T05:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Jazeera English",
-        "domain": "aljazeera.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-pepper-the-robot-offers-friendly-face-tackling-crimes-against-children.md",
-      "title": "Pepper the robot offers friendly face tackling crimes against children",
-      "excerpt": "The semi-humanoid robot Pepper is being used by police in the United Arab Emirates to uncover crimes against children such as abuse and exploitation, a sensitive area where a friendly android face could prove more approachable and less traumatic for those involved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.laprensalatina.com/pepper-the-robot-offers-friendly-face-tackling-crimes-against-children/",
-      "originalUrl": "https://www.laprensalatina.com/pepper-the-robot-offers-friendly-face-tackling-crimes-against-children/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.laprensalatina.com/wp-content/uploads/2022/03/4418555f46dfa57ee74e09e597cb156b06f0c15bw-1024x768.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.laprensalatina.com/pepper-the-robot-offers-friendly-face-tackling-crimes-against-children/amp/",
-      "cdnAmpWebUrl": "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/pepper-the-robot-offers-friendly-face-tackling-crimes-against-children/amp/",
-      "publishedDateTime": "2022-03-02T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "La Prensa Latina",
-        "domain": "laprensalatina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-this-fintechs-hypergrowth-could-last-for-years.md",
-      "title": "This Fintech's Hypergrowth Could Last for Years",
-      "excerpt": "Upstart Auto went live in 2021 after the company acquired Prodigy and married its AI with Prodigy's retail software. It gives automotive dealers a digital sales tool that can instantly get lending decisions from Upstart instead of going back and forth with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/03/02/this-fintechs-hypergrowth-could-last-for-years/",
-      "originalUrl": "https://www.fool.com/investing/2022/03/02/this-fintechs-hypergrowth-could-last-for-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/668280/gettyimages-1319565513-1.jpg",
-          "width": 2309,
-          "height": 1299,
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE4c6S_TVyX-A/article-cover_image-shrink_720_1280/0/1647337835691?e=1653523200&v=beta&t=7Mw6OVefYeN4oFPTpPXsZExUWtgYyDk-_ANzjnBMPns",
+          "width": 1188,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -810,14 +663,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-02T05:37:00-08:00",
+      "publishedDateTime": "2022-03-15T02:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -838,21 +691,21 @@
       ]
     },
     {
-      "path": "_news/2022-03-02-how-to-help-humans-understand-robots.md",
-      "title": "How to help humans understand robots",
-      "excerpt": "Scientists who study human-robot interaction often focus on understanding human intentions from a robot's perspective, so the robot learns to cooperate with people more effectively. But human-robot interaction is a two-way street,",
+      "path": "_news/2022-03-15-ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints.md",
+      "title": "AI Chip Startups Pull In Funding as They Navigate Supply Constraints",
+      "excerpt": "Investors are funneling billions of dollars into startups that make chips designed for artificial-intelligence applications, which have largely avoided the supply-chain constraints and backlogs faced by larger chip makers.",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-03-humans-robots.html",
-      "originalUrl": "https://techxplore.com/news/2022-03-humans-robots.html",
+      "webUrl": "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402?tpl=vc",
+      "originalUrl": "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402?tpl=vc",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-robot.jpg",
-          "width": 1920,
-          "height": 1169,
+          "url": "https://images.wsj.net/im-504456/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -860,59 +713,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-03-humans-robots.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-humans-robots.amp",
-      "publishedDateTime": "2022-03-02T05:20:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-its-time-to-automate-insurance-document-processing-workflows.md",
-      "title": "It’s Time To Automate Insurance Document-Processing Workflows",
-      "excerpt": "A hyperautomation platform can thus automate the processing of insurance supplemental forms. AI technologies (computer vision, natural language processing, machine learning and fuzzy logic), along with business rules and workflows, can accomplish end-to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/02/its-time-to-automate-insurance-document-processing-workflows/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/02/its-time-to-automate-insurance-document-processing-workflows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f89f505db3eef289c346955/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/02/its-time-to-automate-insurance-document-processing-workflows/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/02/its-time-to-automate-insurance-document-processing-workflows/amp/",
-      "publishedDateTime": "2022-03-02T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -928,17 +738,60 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-kneron-ai-chips-adpoted-by-toyota-supplier-kenwood.md",
+      "title": "Kneron AI chips adpoted by Toyota supplier Kenwood",
+      "excerpt": "Kneron, the San Diego-based full-stack edge AI company, announced last week that its two AI chips M5S and KL520 are used by Japanese auto supplier Kenwood in its latest dashboard camera DRV-EMN5700.",
+      "sourceUrl": null,
+      "webUrl": "https://digitimes.com/news/a20220315PD213/adas-ai-kneron.html",
+      "originalUrl": "https://digitimes.com/news/a20220315PD213/adas-ai-kneron.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20220315pd213_files/1_2b.jpg",
+          "width": 1280,
+          "height": 827,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-03-02-gleamer-receives-fda-clearance-for-its-artificial-intelligence-software-to-help-detect-and-localize-fractures.md",
-      "title": "GLEAMER Receives FDA Clearance for Its Artificial Intelligence Software to Help Detect and Localize Fractures",
-      "excerpt": "GLEAMER, a French medtech company pioneering the use of artificial intelligence technology in the practice of radiology, announced today that the United States Food",
+      "path": "_news/2022-03-15-techforceai-raises-15-million-seed-funding.md",
+      "title": "Techforce.ai Raises $1.5 Million Seed Funding",
+      "excerpt": "To digitally enable knowledge workers with just-in-time AI and Automation \"We believe the future of work will be driven by higher cognitive ... has partnerships with Microsoft, IBM, Oracle ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/gleamer-receives-fda-clearance-for-its-artificial-intelligence-software-to-help-detect-and-localize-fractures/article_d73fcedb-7bfc-5c7d-855c-6655db162e16.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/gleamer-receives-fda-clearance-for-its-artificial-intelligence-software-to-help-detect-and-localize-fractures/article_d73fcedb-7bfc-5c7d-855c-6655db162e16.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -957,7 +810,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-02T05:00:00-08:00",
+      "publishedDateTime": "2022-03-14T22:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "WFMZ-TV",
@@ -971,17 +824,155 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-03-02-the-irs-dropped-idmes-facial-recognition-tech-after-backlash-wa-is-rolling-it-out-in-june.md",
-      "title": "The IRS dropped ID.me’s facial recognition tech after backlash. WA is rolling it out in June",
-      "excerpt": "The IRS backed off a plan to require taxpayers to record a video of their faces to access records. Now, Washington is rolling out the tech for its unemployment system.",
+      "path": "_news/2022-03-15-countrys-first-artificial-intelligence-robotics-technology-park-launched-in-bengaluru.md",
+      "title": "Country’s first Artificial Intelligence & Robotics Technology Park launched in Bengaluru",
+      "excerpt": "The country’s first Artificial Intelligence & Robotics Technology Park (ARTPARK) was launched in Bengaluru yesterday.  It is promoted by a not-for-profit foundation set up by the Indian Institute of Science (IISc) Bengaluru,",
       "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/the-irs-dropped-id-mes-facial-recognition-tech-after-backlash-wa-is-rolling-it-out-in-june/",
-      "originalUrl": "https://www.seattletimes.com/business/the-irs-dropped-id-mes-facial-recognition-tech-after-backlash-wa-is-rolling-it-out-in-june/",
+      "webUrl": "https://newsonair.com/2022/03/15/countrys-first-artificial-intelligence-robotics-technology-park-launched-in-bengaluru/",
+      "originalUrl": "https://newsonair.com/2022/03/15/countrys-first-artificial-intelligence-robotics-technology-park-launched-in-bengaluru/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsonair.com/wp-content/uploads/2022/03/NPIC-20223159221.jpg",
+          "width": 400,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T21:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NEWS ON AIR",
+        "domain": "newsonair.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-cerebras-brings-wafer-size-ai-chips-to-medical-data-analysis.md",
+      "title": "Cerebras brings wafer-size AI chips to medical data analysis",
+      "excerpt": "AI chip startup Cerebras Systems has deployed one of its CS-2 systems at a well-funded startup that uses natural language processing to analyze massive amounts of biomedical data. As announced on Monday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/03/14/cerebras_ai_chips/",
+      "originalUrl": "https://www.theregister.com/2022/03/14/cerebras_ai_chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/03/14/cs21_7nm_planview_dinner.jpg",
+          "width": 9144,
+          "height": 6094,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/14/cerebras_ai_chips/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/14/cerebras_ai_chips/",
+      "publishedDateTime": "2022-03-14T20:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-how-an-ai-brain-with-only-one-neuron-could-surpass-humans.md",
+      "title": "How an AI brain with only one neuron could surpass humans",
+      "excerpt": "Combined, they make up one of the most advanced organic neural networks known to exist. Current state-of-the-art artificial intelligence systems attempt to emulate the human brain through the ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/how-ai-brain-with-only-one-neuron-could-surpass-humans",
+      "originalUrl": "https://thenextweb.com/news/how-ai-brain-with-only-one-neuron-could-surpass-humans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fbraindrift.jpg&signature=271abfe4da06de8c4e53477f1f404743",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-self-driving-car-technology-market-shaping-from-growth-to-value-byd-volkswagen-ibm.md",
+      "title": "Self-driving Car Technology Market Shaping From Growth To Value : BYD, Volkswagen, IBM",
+      "excerpt": "The Latest survey report on Self-driving Car Technology Market has witnessed continuous growth in the last few years and is projected to grow even further during the forecast peri",
+      "sourceUrl": null,
+      "webUrl": "https://eclecticnortheast.in/2022/03/15/self-driving-car-technology-market-shaping-from-growth-to-value-byd-volkswagen-ibm/",
+      "originalUrl": "https://eclecticnortheast.in/2022/03/15/self-driving-car-technology-market-shaping-from-growth-to-value-byd-volkswagen-ibm/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -989,13 +980,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/the-irs-dropped-id-mes-facial-recognition-tech-after-backlash-wa-is-rolling-it-out-in-june/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/the-irs-dropped-id-mes-facial-recognition-tech-after-backlash-wa-is-rolling-it-out-in-june/?amp=1",
-      "publishedDateTime": "2022-03-02T05:00:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
+        "name": "Eclectic Northeast",
+        "domain": "eclecticnortheast.in",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1005,78 +996,26 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-03-02-tips-on-getting-started-with-computer-vision-in-your-business.md",
-      "title": "Tips On Getting Started With Computer Vision In Your Business",
-      "excerpt": "CDO at Aera Technology. Computer vision — “the eyes of the digital workforce” — is one of the four main components of intelligent automation, a collection of technologies that allow ...",
+      "path": "_news/2022-03-15-potentially-huge-new-markets-for-developers.md",
+      "title": "Potentially huge new markets for developers",
+      "excerpt": "Early on, IBM saw that healthcare would be an ideal AI application, where much of Watson’s work was initially focused. But the critical need for hospital beds due to the Pandemic has massively ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/02/tips-on-getting-started-with-computer-vision-in-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/02/tips-on-getting-started-with-computer-vision-in-your-business/",
+      "webUrl": "https://sdtimes.com/softwaredev/potentially-huge-new-markets-for-developers/",
+      "originalUrl": "https://sdtimes.com/softwaredev/potentially-huge-new-markets-for-developers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fd90ca2cd89b72c7054f850/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/02/tips-on-getting-started-with-computer-vision-in-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/02/tips-on-getting-started-with-computer-vision-in-your-business/amp/",
-      "publishedDateTime": "2022-03-02T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-seeing-straight-with-the-help-of-artificial-intelligence.md",
-      "title": "Seeing straight with the help of artificial intelligence",
-      "excerpt": "Israeli startup AEYE aims to save the sight of millions by making retinal exams cost-effective and readily available",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/spotlight/seeing-straight-with-the-help-of-artificial-intelligence/",
-      "originalUrl": "https://www.timesofisrael.com/spotlight/seeing-straight-with-the-help-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2022/03/AEYE-Health-for-TOI-640x400.jpg",
+          "url": "https://sdtimes.com/wp-content/uploads/2021/03/away-4610699_640.jpg",
           "width": 640,
-          "height": 400,
+          "height": 426,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1084,59 +1023,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/spotlight/seeing-straight-with-the-help-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/seeing-straight-with-the-help-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-03-02T02:33:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T16:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-can-ai-appreciate-the-beauty-of-artwork.md",
-      "title": "Can AI Appreciate The Beauty Of Artwork?",
-      "excerpt": "When designing a machine learning program like we did, it's important to make sure you can train it with numeric data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/02/can-ai-appreciate-the-beauty-of-artwork/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/02/can-ai-appreciate-the-beauty-of-artwork/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f7376dc40469ab26495a8e5/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/02/can-ai-appreciate-the-beauty-of-artwork/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/02/can-ai-appreciate-the-beauty-of-artwork/amp/",
-      "publishedDateTime": "2022-03-02T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "SD Times",
+        "domain": "sdtimes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1152,25 +1048,26 @@
         "news"
       ],
       "topics": [
+        "IBM AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-03-02-wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization.md",
-      "title": "Wipro steady after earning Analytics on Microsoft Azure Advanced Specialization",
-      "excerpt": "Wipro Limited on Tuesday announced that it has earned the Analytics on Microsoft Azure advanced specialization ... the value of data through insights and Artificial Intelligence (AI). At Wipro, we have been helping customers build an intelligent ecosystem ...",
+      "path": "_news/2022-03-15-artificial-intelligence-robotics-technology-park-comes-up-in-bengaluru.md",
+      "title": "Artificial Intelligence & Robotics Technology Park comes up in Bengaluru",
+      "excerpt": "Artificial Intelligence and Robotics Technology Park (ARTPARK), the first of its' kind in the country, a not-for-profit foundation has been launched in the city on Monday.",
       "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html",
-      "originalUrl": "https://www.indiainfoline.com/article/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html",
+      "webUrl": "https://www.thehansindia.com/karnataka/artificial-intelligence-robotics-technology-park-comes-up-in-bengaluru-733406",
+      "originalUrl": "https://www.thehansindia.com/karnataka/artificial-intelligence-robotics-technology-park-comes-up-in-bengaluru-733406",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/article/2021-04/30/full/1619762965-0815.png",
-          "width": 350,
-          "height": 233,
+          "url": "https://assets.thehansindia.com/h-upload/2022/03/14/1281712-artificial-intelligence.jpg",
+          "width": 1000,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1178,13 +1075,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html",
-      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/wipro-steady-after-earning-analytics-on-microsoft-azure-advanced-specialization-122030200088_1.html",
-      "publishedDateTime": "2022-03-01T23:55:00-08:00",
+      "ampWebUrl": "https://www.thehansindia.com/amp/karnataka/artificial-intelligence-robotics-technology-park-comes-up-in-bengaluru-733406",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/karnataka/artificial-intelligence-robotics-technology-park-comes-up-in-bengaluru-733406",
+      "publishedDateTime": "2022-03-14T16:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1194,7 +1091,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI in Robotics",
         "AI"
       ]
     }

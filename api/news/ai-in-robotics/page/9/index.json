@@ -2,6 +2,1166 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-01-04-ubtech-showcases-autonomous-uv-c-robot-at-ces-2022.md",
+      "title": "UBTECH Showcases Autonomous UV-C Robot at CES 2022",
+      "excerpt": "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today announced the market availability of the newest addition to its portfolio of humanoid robots at CES 2022: ADIBOT-A,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-health-robotics-5d618fe4711b4ad4867fa34097904484",
+      "originalUrl": "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-health-robotics-5d618fe4711b4ad4867fa34097904484",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery.md",
+      "title": "AI, robotics, home care and mental health to lead healthcare delivery",
+      "excerpt": "Healthcare delivery in the country is going to witness further changes this year in the wake of continuing Covid-19 pandemic. Segments like home healthcare, mental health screening and use of technologies like telemedicine,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery/106600",
+      "originalUrl": "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery/106600",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/fortuneindia/2022-01/ba479e76-de7f-4731-ab85-6b3dc3aa840c/GettyImages_1335397034_copy.jpg?w=700",
+          "width": 700,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T22:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune India",
+        "domain": "fortuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-spreading-the-wing-to-enter-taiwans-robotics-market-to-catch-up-with-amr-trend.md",
+      "title": "Spreading the wing to enter Taiwan's robotics market to catch up with AMR trend",
+      "excerpt": "All major robotic manufacturers invested a lot to keep up with the trend of AMR. In the Automation Taipei exhibition, many players have launched their flagship AMR products",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend",
+      "originalUrl": "https://www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
+          "width": 299,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend?amp",
+      "publishedDateTime": "2022-01-03T18:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-1493-billion-in-2027.md",
+      "title": "Logistics Robots Market Size Forecasted to Reach Valuation of USD 14.93 Billion in 2027",
+      "excerpt": "The global logistics robots market size is expected to reach USD 14.93 billion in 2027 and register a CAGR of 15.3% during the forecast period. Increasing online retail trade and e-commerce has resulted in requirement of logistics robots for quick delivery.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/",
+      "originalUrl": "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/01/Logistics-Robots.jpg",
+          "width": 696,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/amp/",
+      "publishedDateTime": "2022-01-03T14:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-2022-robotics-predictions-from-industry-experts.md",
+      "title": "2022 robotics predictions from industry experts",
+      "excerpt": "Leading robotics experts, including Juan Aparicio and Ken Goldberg, share what they'll be keeping an eye on in 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/2022-robotics-predictions-from-industry-experts/",
+      "originalUrl": "https://www.therobotreport.com/2022-robotics-predictions-from-industry-experts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/01/2022-robotics-predictions.jpg",
+          "width": 796,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T10:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-03-ai-apps-and-platforms-get-real.md",
+      "title": "AI Apps And Platforms Get Real",
+      "excerpt": "Despite being around since the early 50s, AI is finally maturing from an interesting piece of technology to one that is delivering significant, tangible benefits in numerous market segments and across many different businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cdb401815f9d046390a841%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/",
+      "publishedDateTime": "2022-01-03T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-03-robo-dogs-and-therapy-bots-artificial-intelligence-goes-cuddly.md",
+      "title": "Robo-dogs and therapy bots: Artificial intelligence goes cuddly",
+      "excerpt": "In Japan mechanical companions are finding their way into the hearts of stressed-out adults, schoolchildren, and patients with PTSD or dementia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/robo-dogs-therapy-bots-artificial-intelligence/",
+      "originalUrl": "https://www.cbsnews.com/news/robo-dogs-therapy-bots-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/01/03/2fe2df27-a54e-457e-8391-a829769c3f6e/thumbnail/1200x630/bdc4a46af1af8eed58d370a42a8e332b/robo-dog.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/robo-dogs-therapy-bots-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/robo-dogs-therapy-bots-artificial-intelligence/",
+      "publishedDateTime": "2022-01-03T05:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-01-03-artificial-intelligence-ai-in-manufacturing.md",
+      "title": "Artificial Intelligence (AI) in Manufacturing",
+      "excerpt": "Many see artificial intelligence (AI) in manufacturing as a major part of what is being termed a “new industrial revolution.” This next stage of industrialization is being driven by robotics, digitalization,",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/ai-in-manufacturing/",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/ai-in-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg",
+          "width": 2560,
+          "height": 1493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-01-future-of-machine-learning-ways-ml-and-ai-will-drive-innovation-change.md",
+      "title": "Future of Machine Learning: Ways ML and AI Will Drive Innovation & Change",
+      "excerpt": "It’s not a surprise that Artificial Intelligence (AI) and Machine Learning (ML) are two of the top buzzwords in today’s technological world. But, how will the two technologies create innovation and change in the near future?",
+      "sourceUrl": null,
+      "webUrl": "https://customerthink.com/future-of-machine-learning-ways-ml-and-ai-will-drive-innovation-change/",
+      "originalUrl": "https://customerthink.com/future-of-machine-learning-ways-ml-and-ai-will-drive-innovation-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-31T11:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CustomerThink",
+        "domain": "customerthink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "AI in Finance",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-31-bow-down-before-this-us310000-massage-mega-robot-human.md",
+      "title": "Bow down before this US$310,000 massage mega-robot, human",
+      "excerpt": "A startup called Massage Robotics is launching its flagship robot at CES: A two-armed, seven-square-foot mega-bot that can understand verbal commands, is powered by a neural network of other robots with which it exchanges data in real time,",
+      "sourceUrl": null,
+      "webUrl": "https://sea.mashable.com/health-wellness/18801/bow-down-before-this-us310000-massage-mega-robot-human",
+      "originalUrl": "https://sea.mashable.com/health-wellness/18801/bow-down-before-this-us310000-massage-mega-robot-human",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/article/b/bow-down-b/bow-down-before-this-310000-massage-mega-robot-human_b6bz.620.jpg",
+          "width": 619,
+          "height": 273,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sea.mashable.com/health-wellness/18801/bow-down-before-this-us310000-massage-mega-robot-human?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/health-wellness/18801/bow-down-before-this-us310000-massage-mega-robot-human?amp=1",
+      "publishedDateTime": "2021-12-30T16:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-31-machine-learning-program-connects-to-human-brain-and-commands-robots.md",
+      "title": "Machine-Learning Program Connects to Human Brain and Commands Robots",
+      "excerpt": "Researchers at Ecole Polytechnique Fédérale de Lausanne have developed a machine-learning program that can be connected to a human brain and used to command a robot. The program can alter the robot’s movements based on electrical signals from the brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/machine-learning-program-connects-to-human-brain-and-commands-robots/",
+      "originalUrl": "https://www.unite.ai/machine-learning-program-connects-to-human-brain-and-commands-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.Uu7U~1cdff/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/12/brain-2676370_1280.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-30T11:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-31-massage-robotics-exhibiting-at-the-2022-ces-convention.md",
+      "title": "Massage Robotics Exhibiting at the 2022 CES Convention",
+      "excerpt": "From English to Mandarin users can control robot motion and force with their ... and technologies that excite the senses and inspire the mind. While user experience is our focus, 2X value creation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/massage-robotics-exhibiting-at-the-2022-ces-convention",
+      "originalUrl": "https://www.digitaljournal.com/pr/massage-robotics-exhibiting-at-the-2022-ces-convention",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1640823178.png",
+          "width": 1926,
+          "height": 1164,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-30T08:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-robotics-essential-to-the-oil-and-gas-industry.md",
+      "title": "Robotics essential to the oil and gas industry",
+      "excerpt": "Robot renting is expected to revolutionise the way oil & gas companies approach robotics, according to GlobalData.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hydrocarbonengineering.com/gas-processing/30122021/robotics-essential-to-the-oil-and-gas-industry/",
+      "originalUrl": "https://www.hydrocarbonengineering.com/gas-processing/30122021/robotics-essential-to-the-oil-and-gas-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dlgivnpf6gg8w.cloudfront.net/media/articles/pop/drone-tech-01.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hydrocarbonengineering.com/gas-processing/30122021/robotics-essential-to-the-oil-and-gas-industry/amp/",
+      "cdnAmpWebUrl": "https://www-hydrocarbonengineering-com.cdn.ampproject.org/c/s/www.hydrocarbonengineering.com/gas-processing/30122021/robotics-essential-to-the-oil-and-gas-industry/amp/",
+      "publishedDateTime": "2021-12-30T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hydrocarbon Engineering",
+        "domain": "hydrocarbonengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-the-next-generation-of-robots-the-inside-skinny.md",
+      "title": "The Next Generation Of Robots: The Inside Skinny",
+      "excerpt": "By making robots increasingly autonomous, versatile and tactile, we can envision a future in which humanity can truly excel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-next-generation-of-robots-the-inside-skinny/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-next-generation-of-robots-the-inside-skinny/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cc6b5c97be3da24190a841%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-next-generation-of-robots-the-inside-skinny/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/the-next-generation-of-robots-the-inside-skinny/amp/",
+      "publishedDateTime": "2021-12-30T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-2021-was-a-breakthrough-year-for-ai.md",
+      "title": "2021 was a breakthrough year for AI",
+      "excerpt": "As 2021 comes to a close, we take a quick look at all the major developments that took place in the AI space worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/",
+      "originalUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/AI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/",
+      "publishedDateTime": "2021-12-29T16:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-delusional-elon-musk-claims-tesla-robot-will-be-like-c3po-or-r2d2.md",
+      "title": "Delusional Elon Musk claims Tesla Robot will be ‘like C3PO or R2D2’",
+      "excerpt": "Elon Musk says his upcoming Tesla Robot could make a great buddy -- like C3PO or R2D2. We stopped laughing long enough to write this.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/delusional-elon-musk-claims-tesla-robot-will-be-like-c3po-r2d2",
+      "originalUrl": "https://thenextweb.com/news/delusional-elon-musk-claims-tesla-robot-will-be-like-c3po-r2d2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Flolmusk.png&signature=b79c78bb8a00ef81ffe03842b7ae82fd",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-29T11:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-san-antonios-plus-one-robotics-is-a-winner-in-rush-to-automate-amid-pandemic.md",
+      "title": "San Antonio’s Plus One Robotics is a winner in rush to automate amid pandemic",
+      "excerpt": "Plus One Robotics is still riding the wave of automation that’s remaking warehouses and other logistics operations. For the second time in less than a year, Erik Nieves is looking to expand the company’s Port San Antonio headquarters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mysanantonio.com/sa-inc/article/San-Antonio-s-Plus-One-Robotics-is-a-winner-in-16736491.php",
+      "originalUrl": "https://www.mysanantonio.com/sa-inc/article/San-Antonio-s-Plus-One-Robotics-is-a-winner-in-16736491.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/23/33/20/21869568/3/ratio3x2_400.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mysanantonio.com/sa-inc/amp/San-Antonio-s-Plus-One-Robotics-is-a-winner-in-16736491.php",
+      "cdnAmpWebUrl": "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/sa-inc/amp/San-Antonio-s-Plus-One-Robotics-is-a-winner-in-16736491.php",
+      "publishedDateTime": "2021-12-29T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "My San Antonio",
+        "domain": "mysanantonio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-opportunities.md",
+      "title": "Worldwide Military Robots Industry to 2026 - Integration With Artificial Intelligence Presents Opportunities",
+      "excerpt": "The \"Military Robots Market Research Report by Type, Operation, and Region - Global Forecast to 2026 - Cumulative Impact of",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24811209/worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-oppor",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24811209/worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-oppor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24811209",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24811209",
+      "publishedDateTime": "2021-12-29T04:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-role-of-ai-and-machine-learning-across-different-sectors-in-2021.md",
+      "title": "Role of AI and Machine Learning across Different Sectors in 2021",
+      "excerpt": "Technology is playing a vital role in every sector to make the nation technologically equipped and capable. Here are a few business leaders sharing their thoughts on how their companies are",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/12/29/1138517-ai.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "publishedDateTime": "2021-12-29T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-indias-airtel-tcs-tap-robotics-to-build-5g-based-units.md",
+      "title": "India's Airtel, TCS tap robotics to build 5G-based units",
+      "excerpt": "Indian telecom operator Bharti Airtel and IT giant Tata Consultancy Services (TCS) have joined hands to build a 5G-based remote working technology using robotics. Both the companies are currently running the trials in Airtel's 5G lab at Manesar,",
+      "sourceUrl": null,
+      "webUrl": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/12596-india-s-airtel-tcs-tap-robotics-to-build-5g-based-units.html",
+      "originalUrl": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/12596-india-s-airtel-tcs-tap-robotics-to-build-5g-based-units.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.developingtelecoms.com/images/stories/Places/India_-_train_journey.jpg",
+          "width": 600,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-28T21:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "developingtelecoms.com",
+        "domain": "developingtelecoms.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-mcdonalds-moves-closer-to-robot-drive-through-lanes.md",
+      "title": "McDonald's Moves Closer to Robot Drive-Through Lanes",
+      "excerpt": "McDonald's With a Side of IBM Watson IBM acquired McDonald's McD Tech ... Moving forward, IBM’s expertise in building customer care solutions with AI and natural language processing will help ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/investing/mcdonalds-moves-closer-to-robot-drive-through-lanes",
+      "originalUrl": "https://www.thestreet.com/investing/mcdonalds-moves-closer-to-robot-drive-through-lanes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgxMjQxNDgzNDU2Njg1NDE2/theranos_holmes_1_052421.jpg",
+          "width": 620,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/investing/mcdonalds-moves-closer-to-robot-drive-through-lanes",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/mcdonalds-moves-closer-to-robot-drive-through-lanes",
+      "publishedDateTime": "2021-12-28T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-china-unveils-five-year-plan-for-robotics.md",
+      "title": "China unveils five-year plan for robotics",
+      "excerpt": "The five-year plan details the overarching goal of making China a key source of global robotics innovation by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/china-unveils-five-year-plan-for-robotics/",
+      "originalUrl": "https://www.therobotreport.com/china-unveils-five-year-plan-for-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/12/featured-web-qujar.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-28T18:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-abb-adds-more-human-intelligence-to-industrial-robots.md",
+      "title": "ABB Adds More Human Intelligence to Industrial Robots",
+      "excerpt": "One of the trends in industrial robotics is to create machines that can more intuitively and carefully handle tasks as humans might. To that end, ABB Robotics has introduced a set of software features called Integrated Force Control that makes robots more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/abb-adds-more-human-intelligence-industrial-robots",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/abb-adds-more-human-intelligence-industrial-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/ABBphoto.jpg",
+          "width": 500,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-28T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-india-must-remain-practical-amid-politics-around-killer-robots.md",
+      "title": "India Must Remain Practical Amid Politics Around ‘Killer Robots’",
+      "excerpt": "Lethal Autonomous Weapons are systems that make their own decisions on who to kill, thus raising ethical questions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thequint.com/voices/opinion/india-must-take-a-practical-approach-amid-politics-around-killer-robots",
+      "originalUrl": "https://www.thequint.com/voices/opinion/india-must-take-a-practical-approach-amid-politics-around-killer-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thequint.com/thequint%2F2021-12%2F4a9b2ee4-42be-463d-a970-7e5d06ef108d%2Fhero_image_4__2_.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thequint.com/amp/story/voices/opinion/india-must-take-a-practical-approach-amid-politics-around-killer-robots",
+      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/voices/opinion/india-must-take-a-practical-approach-amid-politics-around-killer-robots",
+      "publishedDateTime": "2021-12-27T19:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Quint",
+        "domain": "thequint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-massachusetts-institute-of-technology-a-system-for-designing-and-training-intelligent-soft-robots.md",
+      "title": "Massachusetts Institute of Technology: A system for designing and training intelligent soft robots",
+      "excerpt": "Let’s say you wanted to build the world’s best stair-climbing robot. You’d need to optimize for both the brain and the body, perhaps by giving the bot some high-tech legs and feet, coupled with a powerful algorithm to enable the climb.",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-a-system-for-designing-and-training-intelligent-soft-robots/",
+      "originalUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-a-system-for-designing-and-training-intelligent-soft-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-a-system-for-designing-and-training-intelligent-soft-robots/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-a-system-for-designing-and-training-intelligent-soft-robots/",
+      "publishedDateTime": "2021-12-27T17:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges.md",
+      "title": "The Maritime Robotics Challenge: Collaboration to Solve “Unsolvable” Challenges",
+      "excerpt": "The Mohamed Bin Zayed International Robotics Challenge offers more than $3 million USD in prizes.  This year, the Maritime Robotics Challenge is designed to bring emerging technologies together to tac",
+      "sourceUrl": null,
+      "webUrl": "https://dronelife.com/2021/12/27/the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges/",
+      "originalUrl": "https://dronelife.com/2021/12/27/the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dronelife.com/wp-content/uploads/2021/12/1024px-Maritime_Transportation-e1640629145440.jpg",
+          "width": 612,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dronelife.com/2021/12/27/the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges/amp/",
+      "cdnAmpWebUrl": "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2021/12/27/the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges/amp/",
+      "publishedDateTime": "2021-12-27T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dronelife",
+        "domain": "dronelife.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says.md",
       "title": "Robotics might be ‘bigger than industrial revolution,’ Lightspeed Partner says",
       "excerpt": "Raviraj Jain, whose firm has invested in a startup that’s developing a grasping tool, says warehouses represent ‘the biggest opportunity’ for robotics at present",
@@ -173,562 +1333,7 @@
         "AI in Robotics",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2021-12-27-the-robot-work-force-isnt-coming-its-already-here.md",
-      "title": "The robot work force isn't coming. It's already here",
-      "excerpt": "Retailers and restaurants are looking to robots and other technology to keep up with demand amid a labor crunch and booming online sales.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/12/27/the-robot-work-force-isnt-coming-its-already-here-.html",
-      "originalUrl": "https://www.cnbc.com/2021/12/27/the-robot-work-force-isnt-coming-its-already-here-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106991733-1640019336314-IMG_1518.jpg?v=1640019644",
-          "width": 5952,
-          "height": 3968,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/12/27/the-robot-work-force-isnt-coming-its-already-here-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/27/the-robot-work-force-isnt-coming-its-already-here-.html",
-      "publishedDateTime": "2021-12-27T05:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-pudu-robotics-to-exhibit-leading-commercial-service-robots-at-ces-2022.md",
-      "title": "Pudu Robotics to Exhibit Leading Commercial Service Robots at CES 2022",
-      "excerpt": "Pudu Robotics, the global leader in commercial service robots, has announced it will participate in CES 2022, which will take place between January 5-8 in Las Vegas, Nevada, United States. Pudu Robotics will exhibit seven service robots at its booth,",
-      "sourceUrl": null,
-      "webUrl": "https://www.roboticstomorrow.com/news/2021/12/27/pudu-robotics-to-exhibit-leading-commercial-service-robots-at-ces-2022/17997/",
-      "originalUrl": "https://www.roboticstomorrow.com/news/2021/12/27/pudu-robotics-to-exhibit-leading-commercial-service-robots-at-ces-2022/17997/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics Tomorrow",
-        "domain": "roboticstomorrow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-robotics-firm-arapl-raas-raises-funding-for-warehouse-automation.md",
-      "title": "Robotics firm ARAPL Raas raises funding for warehouse automation",
-      "excerpt": "ARAPL RaaS, a robotics and automation company, said on Monday it has raised $0.7 million funding within two months of its existence as it strengthens its 10-minute delivery in supply management. The start-up,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/robotics-firm-arapl-raas-raises-funding-for-warehouse-automation-121122700705_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/robotics-firm-arapl-raas-raises-funding-for-warehouse-automation-121122700705_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/06/full/1609874455-1747.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/robotics-firm-arapl-raas-raises-funding-for-warehouse-automation-121122700705_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/robotics-firm-arapl-raas-raises-funding-for-warehouse-automation-121122700705_1.html",
-      "publishedDateTime": "2021-12-27T03:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-artificial-intelligence-chip-market-2021-will-record-massive-growth-trend-analysis-and-forecast-till-2028.md",
-      "title": "Artificial Intelligence Chip Market 2021 will Record Massive Growth, Trend Analysis and Forecast till 2028",
-      "excerpt": "Artificial intelligence AI chips are specialized silicon chips which incorporate AI technology and are used for machine learning AI helps in eliminating or minimizing the risk to human life in many industry verticals The need for more efficient systems for",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
-      "originalUrl": "https://www.openpr.com/news/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/c/Uc27270452_g.jpg",
-          "width": 737,
-          "height": 737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
-      "publishedDateTime": "2021-12-26T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics.md",
-      "title": "Rajasthan Government Sets Aside Rs 200 Crores To Train Youth In AI, Ml And Robotics",
-      "excerpt": "Rajiv Gandhi Center for Advanced Technology will be set in Jaipur, which would conduct certificate courses and multidisciplinary research in AI, ML, Robotics and Virtual Reality.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics/",
-      "originalUrl": "https://analyticsindiamag.com/rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/ashok-gehlot-new.jpeg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-24T02:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-robots-and-conveyor-belts-jacky-li-talks-kitchen-tech-at-roger-bar-and-restaurant.md",
-      "title": "Robots and conveyor belts: Jacky Li talks kitchen tech at Roger Bar and Restaurant",
-      "excerpt": "Since opening in July, Roger Bar and Restaurant in Mountain View has faced hiring challenges amid a labor shortage during the pandemic. Leveraging tech tools can help alleviate some of the pressure.",
-      "sourceUrl": null,
-      "webUrl": "https://mv-voice.com/news/2021/12/23/robots-and-conveyor-belts-jacky-li-talks-kitchen-tech-at-roger-bar-and-restaurant",
-      "originalUrl": "https://mv-voice.com/news/2021/12/23/robots-and-conveyor-belts-jacky-li-talks-kitchen-tech-at-roger-bar-and-restaurant",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mv-voice.com/news/photos/2021/december/23/41319_col.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-23T10:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mv-voice.com",
-        "domain": "mv-voice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-seven-ways-robots-help-improve-our-lives.md",
-      "title": "Seven Ways Robots Help Improve Our Lives",
-      "excerpt": "Depictions of robots have been common in science fiction stories for decades. Sometimes they are helpful, sometimes they are villains, sometimes they work with humans, and sometimes they try to destroy humans (à la Terminator).",
-      "sourceUrl": null,
-      "webUrl": "https://www.smallbusinessbonfire.com/seven-ways-robots-help-improve-our-lives/",
-      "originalUrl": "https://www.smallbusinessbonfire.com/seven-ways-robots-help-improve-our-lives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smallbusinessbonfire.com/wp-content/uploads/2021/12/Robots.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-23T00:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "How to Write a Fact Sheet",
-        "domain": "smallbusinessbonfire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-18-double-amputee-controls-two-robotic-arms-with-his-mind.md",
-      "title": "Double amputee controls two robotic arms with his mind",
-      "excerpt": "Here's one other DARPA-funded robotic limb controlled by thoughts alone-- actually make that two, because Colorado man Les Baugh had two bionic arms attached from shoulder level. Baugh got them ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2014-12-18-double-amputee-mind-controlled-robot-arms.html",
-      "originalUrl": "https://www.engadget.com/2014-12-18-double-amputee-mind-controlled-robot-arms.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/egVu9ARUmGB6z9JBX4Lahg--~B/aD00MTc7dz02MzA7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/461b9ca05c279bece7310edda93dc0de/201267574/johns-hopkins-double-amputee.jpg",
-          "width": 630,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-mind-controlled-robots-now-one-step-closer.md",
-      "title": "Mind-controlled robots now one step closer",
-      "excerpt": "(Nanowerk News) Tetraplegic patients are prisoners of their own bodies, unable to speak or perform the slightest movement. Researchers have been working for years to develop systems that can help these patients carry out some tasks on their own. “People ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=59395.php",
-      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=59395.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-17T00:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3.md",
-      "title": "Artificial Intelligence Technology Solutions Announces Delivery Robot Development, Update to S-3",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), a global leader in AI-driven security and productivity solutions for enterprise clients, announced that its subsidiary, Robotic Assistance Devices Mobile Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24643155/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24643155/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24643155",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24643155",
-      "publishedDateTime": "2021-12-16T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-ex-appletesla-leaders-raise-2000000-from-1000-retail-investors-on-track-to-release-worlds-first-artificial-human-arm.md",
-      "title": "Ex-Apple/Tesla Leaders Raise $2,000,000 from 1,000+ Retail Investors, On Track to Release World’s First Artificial Human Arm",
-      "excerpt": "SAN FRANCISCO--(BUSINESS WIRE)--Atom Limbs, a robotics company creating mind-controlled bionic limbs, has raised $2M from 1,000+ retail investors. Atom opened its Wefunder equity investment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20211214005475/en/Ex-AppleTesla-Leaders-Raise-2000000-from-1000-Retail-Investors-On-Track-to-Release-World’s-First-Artificial-Human-Arm",
-      "originalUrl": "https://www.businesswire.com/news/home/20211214005475/en/Ex-AppleTesla-Leaders-Raise-2000000-from-1000-Retail-Investors-On-Track-to-Release-World’s-First-Artificial-Human-Arm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T21:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-2022-a-major-revolution-in-robotics.md",
-      "title": "2022: A major revolution in robotics",
-      "excerpt": "For a while now, those who track robotics development have taken note of a quiet revolution in the sector. While self-driving cars have grabbed all the headlines, the work happening at the intersection of AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/2022-prediction-a-major-revolution-in-robotics/",
-      "originalUrl": "https://www.zdnet.com/article/2022-prediction-a-major-revolution-in-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/973d8007f08fa9b55dc91f02b215eb7b896350b4/2020/12/29/fa09a230-70f1-4a74-8169-e198645005b3/robot-robot-arm-strong-machine.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2022-prediction-a-major-revolution-in-robotics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2022-prediction-a-major-revolution-in-robotics/",
-      "publishedDateTime": "2021-12-14T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-sega-toys-neurosky-team-up-for-mind-controlled-toys.md",
-      "title": "Sega Toys, NeuroSky team up for \"mind-controlled\" toys",
-      "excerpt": "but Sega Toys (makers of freaky robots) and the brain-reading folks at NeuroSky have announced that they've teamed up in an effort to develop what they're only describing as \"mind-controlled tech ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2007-12-11-sega-toys-neurosky-team-up-for-mind-controlled-toys.html",
-      "originalUrl": "https://www.engadget.com/2007-12-11-sega-toys-neurosky-team-up-for-mind-controlled-toys.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 10
 }
