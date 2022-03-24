@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "parashift_ai"
   url: "https://twitter.com/parashift_ai"
-  followers: 170
+  followers: 171
 
 size: 11-50 employees
 yearFounded: 2018
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "+3hETMdNHRPjeHC/qNZxin4KiXit80rl+B2KCRPLFI/IW14q1cqclK+cu/lffoCVTMhWelYrCRYbgSEouk2uzFKl5wSEJpkwKdUzCy+EWwJBkGuhKPn1Si7PoxQBQzr1BqCq/Hv+VveMvdio07X0isKIdqPnpio0C+T3PgOmVzkzGOjXe+VTlKJgu3bFkw+NV4Wt+wpCcPnwe+8OJLuXJzFENTP3oALpZRUkh0mCnWHQibF45/zJe5f/V+0juHIm0p3rl+Zar+J5rSTVlxTt2fbnxZrErxR1gCUdGQD/RmJpqxHzHJTTIyxl4njAT/b4RapPp8Y0Ey1h4DVAF0hBsumYNtxVgd7yyXROJPdTJtjM2ufBDBWGRBWA/6SMaKZil8NqULbAgYHDqNIso0HwSQ==;sueFBE9nll7j49QxcF7hFw=="
+secured: "GBTqmW9KD6N02gwm2KU4h+B884iGreve6DWdOOdJZmWzCeZwqFreD8NvzXcTolcRF+DNb43DSiuwZ6RLn551F52SHra5aKMXlPGqhfl8IKXi5yoQlUY85Hb3q4wI/Bt4g1f6JCkG1w+u7HnKTvcMYAC4Yih3hWIEod7vbAWNtrho3v8MBDVytAdyJYQOBgM+7tshVU2zDTkfE3jU2nf/3YlwqfCrpTCmUvmEaxD61copUnerzxX8TE7mApNolhr/h1c0SgZf4rCzQxhusWneknbfnNDKLJmfyuWHrBmOqEmVu5zgG46GzndXLf6WdLMjJxoURA4L0cNuyv8v189PbfIPq2D09NtolQzXrFgp8bAIbDBqnNx+SEMRB49nAnxddV6JP/9CicJWforDdO/3vw==;PzjaBBL0wCuCiZLY608Trw=="
 ---
 

@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "sighthoundinc"
   url: "https://twitter.com/sighthoundinc"
-  followers: 398
+  followers: 397
 
 size: 11-50 employees
 yearFounded: 2012
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=JdZBDfOO25I"
 
-secured: "lKOlNsA1FImofh/f+RZ5SQBxu0q9QwJKTYXqvLIJMS9d6FuzAx0lXd3/JnF0opgkLNTq/ZoyWToAjBY4Pwngf05EJ5JHbBaAvtyEMe0H3A4QlXUrulueFRILl3BhLlPA+IiH+x5oeouWfGc22bi45nki9Xv1HRQPn8NEnDZ94IY4H5GEcuutpPO+8buKy/mCOxnYTFlWIz2jl7dNRnU3VBxE6bOgXSDC4VOEpv35qonE5PKtQ9cGor46JU8G9KuyQX5dTYrSf9tacduCtaS2c4e9ZvoaUaiwnRStp1q0BLt3qiORFbQyz5pZv5MG27NkZG9gmT/9Q4Douvk7q+yERrMOmot0x6a0n+KfpZoBPYgucVsK69FidJjBuwbv+d27Tc/QoOYRFAL5ytFZnIoMYQ==;yXIqyqpPDZspn8GW6gbf4g=="
+secured: "0AJp0ET1w7mcVbjhA/awLzAxkpUAL0JeaTDF7zyYel3ZlbAanYEP87XELmsdQOkz/LPTC+hftGAjkgYufittHzEFuedVHGAkTsYaDM8dBDgmaIwjG9oCOPizCSYPCVSvQA0aeqKdKTMpOtEK+7/1vSQk/bMxvZvBpqdcW1RbaZv30Zxw1um4eNPWtnfaIj3MDqCPpjgQTi06gJQ/ss9M5apqPSEUHTMoUwdVwcsI08qtTx7Z8ce6FOWvZmZw+7O2pajCAH1it3nVTBDaaRLYJolKiJmQYnbIQi2oDdx6jbZgVeRSgnTGwuebfbtzwEK6PiOuVAraKsxCIer19Goy4VtoD4alO97lnF0/HxQM2QN8arSFMWunQvQFDJNu30o49Elc+3pmrSY+lgjidhaz7w==;NG5RjVAyTAUV2/urwUTCOg=="
 ---
 

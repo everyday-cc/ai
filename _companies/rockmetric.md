@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "rockmetric"
   url: "https://www.twitter.com/rockmetric"
-  followers: 244
+  followers: 243
 
 size: 11-50 employees
 yearFounded: 2015
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=OZ7_tIGZXus"
 
-secured: "PRlqNM7hZchnhppDJIG5R/AbXjnGUuEFNXgmFeuiYBOgmBzpsyT+yq8ZELbHieWUkg7WXwddqBhD8JDzYtUEeJzzgIeQ0TuO+OjrY0A9SJPduRCDYzww3MtjzHp2DzJqnJ0JNQ6mWxFpLtIqi+xJarpOOTjLMcEI5JTL8v+SlqIRaAJZNLBOWfn0aTvlHEt+wyDv9SyCD26nDhPDFJO1QL3KigQhQB/Y5vHYSCqkRwGYVeRd44126XMKgT9Z2y6WmofYrUmVCEEqdn1ej+xLoRixqFxSD22WtbXmMVY3vowdy7f7JKw9qsheJ44lDrDHd2MmHkFGSpq1Qhuq7lByi9BkvR2TaA08+7XoXX9k88B4vTekTWZ55rjYdgP+hBxzIKfx9DlI8JEhs0c5XxJmVw==;dtuxihos4P1wqF5Q5qByHA=="
+secured: "pEwo7f1E5KlZsLxuzMJ31bdXOv2qROU96Xa1zvCH4bwQQYM733mFcyEA10MsYBu/P1jD6rowHWm3Q8vrZ6qZAGGbU60VkjZzs3whQ6MaRRh4npoWm1ljs1JNwTkgJKk5TlczS+WjZCJZLtsbt7FPoJuWIFd2qMUPGlGt+Wj4Bdh6MKs7aNnFWPqa7MpOeHtdmxrbHdmYNrbat/FT3HzgCWQKAByyavp+Kaz/eZT6ygAMVrl3goxawcX+lQfyHuvWLNz2ZKm1eMS1h5cbint+WXdmhYd8k93/dIgrXTKj8goqM8MFNvwVQjUDs1jowT8A0gm2fPUujGmsMUE4HeBPUabqa9hoKkkAzX9SGLKowTpHvbvEv9kNGsh2yjUaBrhqgBb+n/wJm92f3KqQgAl0Wg==;cCVXhPslIcfeMO/Ibj24tQ=="
 ---
 

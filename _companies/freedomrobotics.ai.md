@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "FRDMROBOTICS"
   url: "https://twitter.com/FRDMROBOTICS"
-  followers: 528
+  followers: 527
 
 size: 11-50 employees
 yearFounded: 2018
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "/gPA1a9IQvBYhxp2ex7xyvBB+xWnf+Np/WAoG5wGmAuqpSYRKZmo9UKNlOWghRZcnruaYybh4Uvp7kJqL5O0XI/sLhzVprHIVdpCNN2we6bgAfVm82i8G5VC2H+s3SOMsITwYt6Ny1WppmttR9enK054/UTahNOSvev03TD+jwSaifCjS0WTLUAR1vy6OoUHa6Y6u3sZTMJY/MAemLzz+5jEYTCbGHckYpj1BEeA08oUMNNeVMFeW2v71S3XM9OZ7s5ohyn9jiQP14zViPTs4PzqDqpD7XlGg2c41ErBocgq6VaIYSOYgybZYV7LjHYYnzutOAhrO/f6QpWNYwGJd59V6PtEbxOvN6Iz42U9fStEL1XkqJGz1U1RtF5Xd0F8oKK4CgoYVXoQKyYx+pi4ag==;tJzS+5OA0+AYjAYYGFr/RQ=="
+secured: "zfCPC9C4ApSFTZ0sjf2sCmaNSwkUrpe33A6Hc08jz0j6dYx2Gp99FpY2ygdgSAufUO8SQ3GgoM3l3q9DjiMO6cRPlCABCiyPw97FZZdiTrF7Irbm9SkiLeQ7BbMyB4rCuNF0Hj+Pehpf3dmINIUMUsRyNhXgJf3vU+HfFGHWjZ5s64/svao/omX9rRPcOWbn23zJw2LSBX+gAv7ZnvaxT/ZopbbVVfaq09v7AHGVdHO3D1/en8hH31bUt3GoNC6XeEPfzlZeeDinG5d4kON8p71FI7TgUApQVe1xWYf2WnUne4yPxZwAc30em6GXlwO7z53+XlSkJlNn600DbYrCLE3WTbP5/x/u5nmfqfiKoU7jPMd+/AcStj3IocCvIxj6zQziAQs9ixXM0Ucr/f67BQ==;pnFOHnK/v5I8n8OngdtFnQ=="
 ---
 

@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "justwrappup"
   url: "https://twitter.com/justwrappup"
-  followers: 442
+  followers: 441
 
 size: 2-10 employees
 yearFounded: 2015
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=wovsuTYqnC8"
 
-secured: "IY25kYL1ATtobKgZLljqFwI2aDcwZl+NwefFeFhgkCTAdh5ARzs/ZVxQEVUlLeJWZkYZB9YUIdq4IV0YapFNWgrWvknMa8EkNZJ8/Lj49MM9cKqA/putC7+GoJxU15UdIO/atQABLC7gUW9MRg+bEOltNzkAOVYxzs9esOPcLy05KaS4ZrPG72W5p7r+4mSsAjgYLTeksr5SNGnfEFV6lV6WSDPj6TC9VrQhZgs1pyrgmbLnkk3IO4UZhrIMCsOsB7WsyhQyI0ukOOggnXSLzzoIPZC6BXnsqyOaXfS39rPtgprlzpOPIDwcrdyBI6GTqp/azjDkr0b1UfHnPSfdSVwExJfD+iYskXACWEJquM1h0fZCB0imPPdY01GV2Na0cAprhZoFSXKwd10RMHw2ng==;f/chox7+c+5F8awrUeAHoA=="
+secured: "c9krf5lxe70yh0Jcz03FmHeB/F4vICw8Acq+lbh4SdO40c0s24A44xUSCKy2hD7pZ/7LXoGSQxf516rxacnoNR6XC7IJEVHqmMKrJdDaaBqB9F9i/HrZEI3C2Pby1vfOoMChk3sijJH7+fplAqX+7GxIBCA7vXBtfPdYWfkGSEdhvxP9H0Rp8PLkgicraXKqGN+JIX8SZRSXBK3uJzX5k28wN/dj0uj39poyvEsZXJud/WA+1HKOzR4aBN+BGQmn4FU+3iANswhnvxlav7fmg17PMHQDGCONf5WNXcqt9Bf4dy+mEx4Jt9FWCtmDDfgUjmdRupyHfBAkRUn2h7kZaz/OuvX/pM+pBahGP6P0fIrKGLFoR/5k0i2rgWI9V8iQJTZQrc3xkZ1RN1oN/PEguA==;8T6hnVC1UAD2agLuITutOg=="
 ---
 

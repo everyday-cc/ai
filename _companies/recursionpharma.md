@@ -2,7 +2,7 @@
 name: "Recursion Pharmaceuticals"
 overview: "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City."
 type: "profile"
-heat: 82
+heat: 95
 
 website: https://www.recursionpharma.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "RecursionPharma"
   url: "https://twitter.com/RecursionPharma"
-  followers: 5267
+  followers: 5328
 
 size: 51-200 employees
 yearFounded: 2013
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=y3Hsh4fPxuQ"
 
-secured: "eQWFpvtwwrgp1sqWdN6LPccvVLR1gpDClwmdXsJlAo5YIxBvArBEzmg9g0DIt2k4NBSsxJnm41nLu+Fd/Pyltz+iWrY+Wsu9AlqNt4P8hzzrnqECOgamTMCU2HVDZJIkiBldd71YJnv2fFXlxfSWVp/UBmEAUPlQo8ZT3eFju/HKBtsqSmXNjfHIXhdgXRdPtgAxPKuixy5ojbM33n4ueBWGFIDTo6NHeU8124/lFWJW6lQpf0rcM2ZcLyzWJUrrgCS4CKKmexFhxN0NqM//Qpy3yr81i0M1O3l5Q+dkLqoCaN7GxM4nddmUGRvF1Z1BZ80yRENaAPH25b1HPepwIkVgvdbSAcG+qbsI0Hh+ojI2gwXp1jUUzhfe5NqWWE/gBz8bx2zQi2TV5JLx07wHDfV3HR12ZTtTAUOVDhjby9s=;MX3EyXmKop95hKGIRjNfuw=="
+secured: "ocRZXGcQWbsqycGsIjDV3DvwENNbjYq1CchqTDol+5+WzM/syH0A/mDjBy5vCcfsqXrkWMB5jLJvlv/V0J7lTRmVt9pHqgPXTVVUnd5JDHGTZLwGO6tey7wLqit/ChHtlVoZCTQqxH3fPj4dgXTAmopcm5QzXxFubZxektG6TJqw93BLn41U8HNmXnIKVWgxhZAI3OyOQEsKJkGm2B6E0gkbcmAxkPfYxuStDwTYH0cki5rI/+BetQLXrMPKRqKgBKOA1lU6XTcD/ZlsnKLg7wreBHfDjNsY8bVyh616jUoDlIdPkpVis/R782VYasYXl2bSATa4gn56hhyaiQDhCN/rKYPUfIva883cYtKNVHLv7YvGiwyHJfdCoWOEioMhuywd46A2ynu6o4OG8HD+W/5Sr55hPaN7+Q9jMzgHzRk=;lmGQryYFT9mMabIwE4SiWA=="
 ---
 

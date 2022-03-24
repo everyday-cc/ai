@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "twiggle_com"
   url: "https://twitter.com/twiggle_com"
-  followers: 294
+  followers: 293
 
 size: 51-200 employees
 yearFounded: 2014
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=6qXk_fYvETY"
 
-secured: "rpQUiQG67AHcsCHcI46uHtO09wnrYO2lGis0GlbJh4Y889JBdtiFVj4YGs37M/+D5p30ccxEP0Q7GLkoO/IxHHr8Xs6tN+2z2OStSqYRCEJJHUCdw8120M/k0P5PsrPbYJssc600yU3LFjw/HK9aHJVQJ8J96Zf+DBlZeLQn6jaB4Ol4pJldoXhB86nI7EXNa/qYoSbbPSqm/W/b6LSlk3m2XXmvz++fAd0FekozATojXiBCNQlxg4z61u9V+Kj6vmpA4BhIbTuME5/qy5gDypGUSV9sqvA/TIa6kRZ5II9eWyYBpXEzGkPSzVOIvcDtcWOYqd65CWImfGa7/pEyh4V12t7qLOyORJELPp69r5oQvMsCDe7wFRAVcGUvaYa8D3qBrigy13Dto5f5nJ1ITQ==;Or96o9bRskbiGehu4mdccQ=="
+secured: "XKU1obPufKdm/DzVgezW70oiB93hVy6g+lYIGnQWUyAUQ0QRfvbMZiVIpA0lbkKzgoQR4fbrMKiVvd9lA4Eb4s4Na2V3k6AKyhuFnuPZQIE6h2N2rgHKFyYTDRPK5g8M9qjWxkqbGrjGNeUYw1clmuNyvuumhnm96ThVl/usBNSAX8lkoVVpoG2X1Tu/iWtQGMjoB0f7jmpWwC/JCnlGGGj3cpoj6rLgmqcnodgitxcBxVUHfu1u5nyHfk1ISWfCHKKLqrBSQlj+aZIQ/7KuPO+X1F6dMHS0ZJ1SoOPAvJ5ocsJ12bDi4OdBMz/k9jz4h5VTCcbhqQjNLKRK/omap7ExVivShDd6kO+69NmbP8JUXVIWo/MusL28BHSO0P+A3tpRxGSZ56Qgm9x3gBAzFw==;kzNetXPRgPz35v216iw//w=="
 ---
 

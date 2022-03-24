@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bloomsburyai"
   url: "https://twitter.com/bloomsburyai"
-  followers: 507
+  followers: 508
 
 size: 2-10 employees
 yearFounded: 2015
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=N0mRn1bQyzU"
 
-secured: "Jh1QF6WzT1NPVDNDbH/nAEkxke31qytKXVvl8M405IIY4vgt0wnhzXZoueDthWP5wXGHEbb4pIjUg0hhvYRlMnmb/FNe7AdnV/ZjejvWYu7vcwwakuy1WFc1pzibjVQIGCSC+wjKcmD4s4CITnq6yJr0mDTA5MVAYoRmYi3LxbkOJVji3iDoqbjF6abpJMrat4vvps3qlWi8Rrwg26XaJ/j84uEPAq71XI4D+stY0ZaTsUtiFB3aE0GDPBdhOc8qH/QWOKx962ejRhy0QBB6GMCbH0VQwzu20KDD+6j6lAxdRLOHTrPRhlJhq8m5dKaNsp/zjBKrv1CRpbIfAnDZUp/B+L5NzsCTMA/UmuNUAguQ2foZL3hpV7TpQZD87S0WNJgwQPY+zQGR42DEhhodsg==;/ORZifI9RRsKjYA/cTiFrA=="
+secured: "CheY8UUKd40Zn4RTw4HPE0NB6CKqi6VK5+ZKyHVyNmwxo/+Wx9QjDA2qNOVVIxFY73lwzL5ThHSmjIi5gcSDcJCb4KRSI1yESIBkC8u9opTRI7hoF4S6TaOVHb0jDIUNJhyH/yfqfynkUV3cEBNBj0TZ2tIjAH0U7ZmaF7gKVNUNwTGfM4lLPfB5DhrVaNBjPOUfZqjUhQur1j4pIVUtDLa4wLpM2/vjE20zpGdyHZQgaDcKtJkQe1TqRgEjGWO+W73ZSmDNt6ssvnmrdTdS0kf+rBeTTJYd5447cxHPqfEvAfEEa28lJTWuMcOs/R4tLM2DzSvkaxdCsbkzgNsKi/OgxAERRTroZmwwhgUVkSHpxjEjb5VITcEtupH5QXOyxFQvW4WpA5o8W8Yq6wyLMQ==;uh5s/b3we6B0g8vGTaLOFw=="
 ---
 

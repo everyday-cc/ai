@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "grokstream"
   url: "https://twitter.com/grokstream"
-  followers: 545
+  followers: 546
 
 size: 11-50 employees
 yearFounded: 2015
@@ -36,6 +36,6 @@ images:
     isCached: true
     title: "Grok"
 
-secured: "WRdVhyuePnVnpu+lfzrPbJ0FUMhkIhoe+cnJlUUKD43wJq8sByGQ0AC9A0PzF4lda8PsSdRDxrSY/aEGs7+IAoz3zaL8A+Rk1JgaPtn5enNc9njOobv3LYrXXotUGrwqG1kAvxYaVXEgMZNdASkSVcMIaSZYeT7BCPl7OVRwnwZFhLven+2PIdiK4qXW6CfhUFstc0cmUvsI/pk4Nq/JYvn3vZMO5h/FCoBo45MQzK6UhrkQ389AIAPANuJFFbVWSxxyApdLijunQjLk4NYX+f3A9zk3K4gRdl27hHb5e3MsYVT0eAa0HjALIGJ0wZrCQBAf4+D/oqJMNwaA2oiSL1tpHvYqaNPR7/ro+DU05UiN+dlFeyRwzu6CP1lyHmpwhVMa7Q5rx5vcFsju+YYh8A==;Bwh41qRMiXQSfxIrlXZMww=="
+secured: "YsBLBpa3QJAwLN+Fq/zaEnRgbm3vcf9a3iv0p8CA7nhkkXGuRoXLD2ELN1oRDerYD/Mj3nVnn3a7eNWBWxnJ+AodbvnwrCWjTjdJ/y3duXFnCvWkXMN4wBPg6kI+8EyLbdLpI8z+RyTKALZOvZdpcGf4LV7qsD7BgoqRmYt0Q8jxydVYf3/BUlfbrk/nkIBDD1tDMO0txtXnJ2bn1HVTKuk+AUNMiAb6sNoGpqG6yLfJBeqR+4RWXNEoqn72lh7kWdgeueEG3rrbH9GtEYF+qpW086fRlXATC0acz01EZdykvfaWvZMzvEOHz3AUlH2WUKAGUY9rDa5uY4lXKZvEpNz46X7mSykcROviskcq3xOumaBvfCQP7KMQ+ryMtUHaoAq4lqO94wQ8Yzxr/1N/HQ==;paPNQYhmZ5J0W9ZnJNt5gg=="
 ---
 

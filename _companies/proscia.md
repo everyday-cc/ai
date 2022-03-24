@@ -2,7 +2,7 @@
 name: "Proscia"
 overview: "Proscia is fighting cancer with intelligent software that changes the way the world practices pathology. Join us."
 type: "profile"
-heat: 57
+heat: 60
 
 website: https://proscia.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ProsciaInc"
   url: "https://twitter.com/ProsciaInc"
-  followers: 1217
+  followers: 1228
 
 size: 11-50 employees
 yearFounded: 2014
@@ -48,6 +48,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=8QjxuGXGIAw"
 
-secured: "KEs/sY0a5v/nbNtBBQa8fvPiJVt3OwrgqIpHNT2rtbqG/DMvnhJPXXWJRRguHVzOEYhqW4Eh8EDq5P0bAYhHDFqKHTJe/0fteW0d1ryEYW/ALd4Vc/egW+jT5VndXm10U7I8S/K9dyvhBpQsO9slNjr62BwrPpaat9uvQ6qPB/2f6EOgo7e9mQAd3PE2zyQ4PLIY9DohtgsmPv0bVpjUnm0Vu5WmvgQKLCsncwlhMw54atHHDdKt3Ht2QZeKXe93gyRgWNnR2+uhgC0iJLvxoKIyZmWTlMcjmdhXDQ37V+sicBZQTOkcwS6FriyYw1wRnXgL25yenN9zeGq1nyAkcIMAA+XRGU8eDbS6HTAIyNotpXFLmDov5W64EpX3wu6Q+rz8hOEGj3YMyT0NFgLYmDjQMVGvUQ42foOlhrL6vjs=;Xj3afKtZ0UtA1+/VzuE6LA=="
+secured: "A2yM4n6OoObqzu0SOAGQWaKUkl3xYEZV1SeOrXplNwH+KRqNQ8P0pHHGPKjLluMvrKMihvhZeNBm5ntbxCdQL1d3IRjuqB2YEMGUHBM3az3NxuZhjckHUre4/ihS0a5ZoIAPHEYm5p8zjH4j2jSI4Fiqvu+y54boBln/a9lqv2rP7BRee7mBTgFHutmTNQqFxVmmy/UWBXGnR+/IYoVPN9EB1jNMkhIxTbmd46AmuOPrQ4fzp6kF8a8Po+VbOOc1AgvNdF2cjnRIq5VXEgzagQmmCimla+3Xp/a+QL5bByu460yZ7sboyQWyEvrQ7ntZPJ19YXTTHxsVFyk6zDE+tYLiOEwSH9qKJoHgs5PoodxgxSgERi7xJmeJgJsMUtnoz+xh2Z/LSD+TUf+Vepj7ItjCNV5guLyzHQGIUWA3Leo=;SQBnwQqIBLfJF4MeVGScUw=="
 ---
 
