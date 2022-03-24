@@ -2,6 +2,300 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-02-16-aaeon-partners-with-ai-chipmaker-hailo-to-enable-next-gen-ai-applications-at-the-edge.md",
+      "title": "AAEON Partners with AI Chipmaker Hailo to Enable Next-Gen AI Applications at the Edge",
+      "excerpt": "Reallocating the computing resource of AI-based tasks from the CPU/GPU to the Hailo-8 neural processing unit (NPU) provides greater flexibility and possibilities for edge computing applications. The Hailo-8 M.2 AI Module delivers 26 tera-operations per ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/aaeon-partners-with-ai-chipmaker-hailo-to-enable-next-gen-ai-applications-at-the-edge/article_0abc5937-db0d-5b36-a89b-49060af65741.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/aaeon-partners-with-ai-chipmaker-hailo-to-enable-next-gen-ai-applications-at-the-edge/article_0abc5937-db0d-5b36-a89b-49060af65741.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/c0/9c084c6d-15a0-5ffc-aaf7-7555392729f0/620ce7e092764.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
+          "width": 1196,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T05:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-app-annie-becomes-dataai-to-be-the-unified-data-standard.md",
+      "title": "App Annie becomes Data.ai to be the ‘unified data standard’",
+      "excerpt": "Register here. Mobile data and analytics platform App Annie has rebranded as Data.ai, as the company repositions itself as the “unified data standard” to capitalize on what it calls a “big ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/16/app-annie-becomes-data-ai-to-be-the-unified-data-standard/",
+      "originalUrl": "https://venturebeat.com/2022/02/16/app-annie-becomes-data-ai-to-be-the-unified-data-standard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1225870864-e1645017623537.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/16/app-annie-becomes-data-ai-to-be-the-unified-data-standard/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/16/app-annie-becomes-data-ai-to-be-the-unified-data-standard/amp/",
+      "publishedDateTime": "2022-02-16T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-ibm-acquires-microsoft-azure-consultancy-firm-neudesic.md",
+      "title": "IBM acquires Microsoft Azure consultancy firm Neudesic",
+      "excerpt": "IBM has acquired Microsoft Azure consultancy firm Neudesic for an undisclosed sum. The deal will not only expand IBM's hybrid multi-cloud services, but also advance the company's hybrid cloud and artificial intelligence (AI) strategies. Neudesic offers an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/362266/ibm-acquires-microsoft-azure-consultancy-firm",
+      "originalUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/362266/ibm-acquires-microsoft-azure-consultancy-firm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1594223123/itpro/IBM_building_shutterstock.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-the-accuracy-limits-of-data-driven-healthcare.md",
+      "title": "The Accuracy Limits Of Data-Driven Healthcare",
+      "excerpt": "This is not a new concept, but as we begin to rely more heavily on data-driven technologies, such as artificial intelligence (AI ... it comes to AI applications in high-stakes industries like healthcare. Outcomes in this field have the ability to prevent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620ad56ed042e09544bf109c/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/16/the-accuracy-limits-of-data-driven-healthcare/amp/",
+      "publishedDateTime": "2022-02-16T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-how-ark-invests-ali-urman-uncovers-biotech-breakthroughs.md",
+      "title": "How ARK Invest’s Ali Urman uncovers biotech breakthroughs",
+      "excerpt": "Ali Urman, a genomic revolution analyst at ARK Investment Management, explains why the convergence of DNA sequencing, artificial intelligence and gene-editing/gene therapy technologies hold the key to potentially curing disease. The seeds of what Ali Urman ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en/opto/how-ark-invests-ali-urman-uncovers-biotech-breakthroughs",
+      "originalUrl": "https://www.cmcmarkets.com/en/opto/how-ark-invests-ali-urman-uncovers-biotech-breakthroughs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/AliUrman116_02_medium.jpg",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-awss-ai-code-reviewer-now-spots-log4shell-like-bugs-in-java-and-python-code.md",
+      "title": "AWS's AI code reviewer now spots Log4Shell-like bugs in Java and Python code",
+      "excerpt": "Amazon Web Services (AWS) has updated the 'detectors' in its CodeGuru Reviewer tool to seek out log injection flaws like the recently disclosed Log4Shell bug in the popular Java logging library Log4J. The critical Log4J bugs, collectively dubbed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/awss-ai-code-reviewer-now-spots-log4shell-like-bugs-in-java-and-python-code/",
+      "originalUrl": "https://www.zdnet.com/article/awss-ai-code-reviewer-now-spots-log4shell-like-bugs-in-java-and-python-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5ce181958b42162c42543bf7eefa3ab6467f7c9c/2021/12/01/bf754524-8f7c-47d1-8b10-d0f28da9d080/20211201-sf-dec.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/awss-ai-code-reviewer-now-spots-log4shell-like-bugs-in-java-and-python-code/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/awss-ai-code-reviewer-now-spots-log4shell-like-bugs-in-java-and-python-code/",
+      "publishedDateTime": "2022-02-16T04:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-upstart-stock-is-the-ai-powered-fintech-investment-you-cant-ignore.md",
       "title": "Upstart Stock Is the AI-Powered Fintech Investment You Can’t Ignore",
       "excerpt": "Are stodgy, traditional lenders feeling threatened in 2022? That’s exactly what California-headquartered Upstart",
@@ -877,264 +1171,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-why-robotic-process-automation-is-quickly-becoming-a-must-for-downstream-companies.md",
-      "title": "Why robotic process automation is quickly becoming a must for downstream companies",
-      "excerpt": "For the refining operation that wants to relieve its planning team of mind-numbing manual data-management tasks ... in the hydrocarbon supply chain turn to a technology known as robotic process automation (RPA) as an important step toward becoming an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hydrocarbonprocessing.com/magazine/2022/february-2022/special-focus-digital-technologies/why-robotic-process-automation-is-quickly-becoming-a-must-for-downstream-companies",
-      "originalUrl": "https://www.hydrocarbonprocessing.com/magazine/2022/february-2022/special-focus-digital-technologies/why-robotic-process-automation-is-quickly-becoming-a-must-for-downstream-companies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hydrocarbon Processing",
-        "domain": "hydrocarbonprocessing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems.md",
-      "title": "AI can erase tattoos from photos to help face recognition systems",
-      "excerpt": "Artificial intelligence can accurately remove tattoos from photos of people’s faces – potentially helping face recognition systems, which can be flummoxed by such tattoos, work accurately. In previous research, Mathias Ibsen at Darmstadt University of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/",
-      "originalUrl": "https://www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/02/15162452/PRI_223719357.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2308380-ai-can-erase-tattoos-from-photos-to-help-face-recognition-systems/amp/",
-      "publishedDateTime": "2022-02-15T09:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-the-cryptocurrency-industry-is-cozying-up-to-lawmakers-in-washington.md",
-      "title": "The Cryptocurrency Industry Is Cozying Up to Lawmakers in Washington",
-      "excerpt": "(Michael Nagle / Bloomberg via Getty Images) Have you read ... financial disclosure he filed last July. Progressive representative Marie Newman (D-IL) also has ties to the crypto industry, since her husband, Jim Newman, has reportedly traded sixteen times ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/e24c93b8-85e6-4002-afdd-dd650a274f16",
-      "originalUrl": "https://jacobinmag.com/2022/02/cryptocurrency-industry-lawmakers-investment-energy-blockchain-mining",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff0460153-569b-4a33-8c65-90ab2790bdc5.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/e24c93b8-85e6-4002-afdd-dd650a274f16",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e24c93b8-85e6-4002-afdd-dd650a274f16",
-      "publishedDateTime": "2022-02-15T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jacobin",
-        "domain": "jacobinmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-uk-watchdogs-to-clamp-down-on-banks-using-discriminatory-ai-in-loan-applications.md",
-      "title": "UK watchdogs to clamp down on banks using discriminatory AI in loan applications",
-      "excerpt": "UK banks that use AI to approve loan applications must be able to prove the tech will not worsen discrimination against minorities. Banks must recognise the inherent flaws in AI, improve transparency, and take responsibility for problems. Insider ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2",
-      "originalUrl": "https://www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/620bccdfb20df7001809f414?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-clamps-down-on-discriminatory-ai-in-loan-applications-2022-2?amp",
-      "publishedDateTime": "2022-02-15T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-baidus-self-driving-vehicles-take-a-turn-with-olympics-showcase.md",
-      "title": "Baidu’s Self-Driving Vehicles Take a Turn With Olympics Showcase",
-      "excerpt": "The 2022 Winter Olympics in Beijing promised another big opportunity for autonomous vehicle testing in a real-world situation, this time in vehicles made by one of China’s biggest technology companies, Baidu ... deployment of self-driving vehicles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloombergquint.com/business/baidu-s-self-driving-vehicles-take-a-turn-with-olympics-showcase",
-      "originalUrl": "https://www.bloombergquint.com/business/baidu-s-self-driving-vehicles-take-a-turn-with-olympics-showcase",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T07:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BloombergQuint",
-        "domain": "bloombergquint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-machine-learning-becomes-a-mathematical-collaborator.md",
-      "title": "Machine Learning Becomes a Mathematical Collaborator",
-      "excerpt": "Two recent collaborations between mathematicians and DeepMind demonstrate the potential of machine learning to help researchers generate new mathematical conjectures. “The things that I love about mathematics are its intuitive and creative aspects ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/",
-      "originalUrl": "https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/Deepmind_1200_Social.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T07:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quanta Magazine",
-        "domain": "quantamagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],

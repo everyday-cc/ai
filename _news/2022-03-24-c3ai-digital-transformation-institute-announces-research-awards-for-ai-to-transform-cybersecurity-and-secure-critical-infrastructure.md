@@ -2,22 +2,27 @@
 category: news
 title: "C3.ai Digital Transformation Institute Announces Research Awards for AI to Transform Cybersecurity and Secure Critical Infrastructure"
 excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the third round of C3.ai DTI funded advanced research awards, focused on using artificial intelligence (AI) to harden information security and secure critical infrastructure."
-publishedDateTime: 2022-03-24T11:53:00Z
-originalUrl: "https://cloud-computing.tmcnet.com/news/2022/03/24/9569853.htm"
-webUrl: "https://cloud-computing.tmcnet.com/news/2022/03/24/9569853.htm"
+publishedDateTime: 2022-03-24T13:00:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=636406"
+webUrl: "https://us.acrofan.com/detail.php?number=636406"
 type: article
-quality: 0
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI Ethics
+  - AI
+
+images:
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
+    isCached: true
 
 related:
   - title: "C3 AI announces AI cybersecurity grant recipients"
@@ -32,6 +37,6 @@ related:
       domain: venturebeat.com
     quality: 69
 
-secured: "S6cY9N8XZrU+lEe276ZTBmVbyFfRGc4/DKbC2Tr+02ktu0Eez+y7btWEcyONS6FD6CjK2TRlXPWtFX5ArFI01GtZrm7l5ltzjtXVH3koqWPc1Ffx5a7lKUnW63fmljjUubB1FuKCJVKKjs45h/rN1MsIjTUkJa/yVHo89rMD2TEcFniLAFmUhKyltXHKSiv91h2ffglVBnaap5gUk8bJILDAqDa+IxMuGFTS/p1d539zqGU+FOyIpo9KEkyZv017uubKmGYy/KelXJUuOQ+zdcFtwzhCu9dZyf/HKSFHrFJDczv5PUEZx6djJ7d4+E5rCw516EmOxsKp3lw6HlOpElfJtqKZ0GKD0P22lWoqsj4=;BloDdeKfI6lC0fUBUD4wRw=="
+secured: "mdLgQ3FP2ZzpDHbxZnDkHs84glnfNLlGj4AF05n73QoMQYTfSocknHYNzDIJv29HGx9C0ym2qvyvqUUjljW/1461NBGaxzdWN7ujTU3oIM49gcxhWmHkz8XQ8oLmE76j5mjRxJXU2y/ZvrJqyE1wcLeVUQ+iSMPnbsd2fkm/ELdECWi9olfH5ONXcna3lgVk2N3PUOaMrGqifyYufZpiknkw2yB3yiORcPLgS4MdEEfRazxiHOt24ODFhAliyfk2kSNGUSE6ux07bCyZ/sHPZO6pG+pbWoT5NYi6GP6vtwMqcKt8kDrd4wVpwM+4WvuNSiVtY9xEeM+nDoHO248xxjU6t69k6U7LjuRma33kSsk=;W0qdL99Vh1J6r+B+zQJW0Q=="
 ---
 

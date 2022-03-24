@@ -2,6 +2,167 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-16-elliq-companion-robot-for-aging-adults-hits-market.md",
+      "title": "ElliQ companion robot for aging adults hits market",
+      "excerpt": "ElliQ is designed to alleviate the effects of loneliness or social isolation and connect users to their families and caregivers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/elliq-companion-robot-aging-adults-hits-market/",
+      "originalUrl": "https://www.therobotreport.com/elliq-companion-robot-aging-adults-hits-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/03/ElliQ-1536x910-1.jpg",
+          "width": 1536,
+          "height": 910,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-predictive-oncology-applies-artificial-intelligence-to-the-research-and-development-process-of-personalized-cancer-therapies.md",
+      "title": "Predictive Oncology applies artificial intelligence to the research and development process of personalized cancer therapies",
+      "excerpt": "Predictive Oncology Inc is a knowledge-driven company focused on applying artificial intelligence (AI) to the research and development process of personalized cancer therapies, which can lead to better treatments,",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.com/companies/news/976991/predictive-oncology-applies-artificial-intelligence-to-the-research-and-development-process-of-personalized-cancer-therapies-976991.html",
+      "originalUrl": "https://www.proactiveinvestors.com/companies/news/976991/predictive-oncology-applies-artificial-intelligence-to-the-research-and-development-process-of-personalized-cancer-therapies-976991.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzAzXC8yMDIxLTAxLTI5LTE2LTAxLTE4LTBmYjQ3OTQwMjlmNzU2NzY2ZDYwOTZjNzZhMzRmNDFmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ==",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.proactiveinvestors.com/companies/amp/news/976991",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/976991",
+      "publishedDateTime": "2022-03-16T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactiveinvestors",
+        "domain": "proactiveinvestors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-startup-aims-to-bring-ai-technology-to-defense-starting-with-maritime-surveillance.md",
+      "title": "Startup Aims To Bring AI Technology To Defense, Starting With Maritime Surveillance",
+      "excerpt": "Modern Intelligence, a startup technology company, on Wednesday emerged from stealth mode with a $5 million funding round to help bring a new artificial",
+      "sourceUrl": null,
+      "webUrl": "https://www.defensedaily.com/startup-aims-to-bring-ai-technology-to-defense-starting-with-maritime-surveillance/business-financial/",
+      "originalUrl": "https://www.defensedaily.com/startup-aims-to-bring-ai-technology-to-defense-starting-with-maritime-surveillance/business-financial/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense Daily Network",
+        "domain": "defensedaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-astute-imaging-acquires-deep-technology-ai-startup-dilenytech.md",
+      "title": "Astute Imaging Acquires Deep Technology AI Startup DilenyTech",
+      "excerpt": "Astute Imaging LLC, a provider of imaging guided therapy and procedure planning services, announced the acquisition of Dileny Technologies (DilenyTech) LLC, a deep",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/astute-imaging-acquires-deep-technology-ai-startup-dilenytech/article_3266d37c-ebf1-55e8-ae39-c165f3a4f516.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/astute-imaging-acquires-deep-technology-ai-startup-dilenytech/article_3266d37c-ebf1-55e8-ae39-c165f3a4f516.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-prosport-physical-therapy-performance-joins-golden-bear-therapy-partners.md",
       "title": "ProSport Physical Therapy & Performance joins Golden Bear Therapy Partners",
       "excerpt": "Golden Bear Therapy Partners is pleased to announce the partnership with ProSport Physical Therapy & Performance of Southern California.     \"I am proud that Joe and the ProSport team has chosen GBTP to partner with,",
@@ -922,171 +1083,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-inside-intels-self-driving-spinoff.md",
-      "title": "Inside Intel's Self-Driving Spinoff",
-      "excerpt": "At Intel's (NASDAQ: INTC) recent investor day, the company revealed it would soon be spinning off its Mobileye subsidiary, which develops self-driving cars and driver-assist systems. When our ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/inside-intels-self-driving-spinoff",
-      "originalUrl": "https://www.nasdaq.com/articles/inside-intels-self-driving-spinoff",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/inside-intels-self-driving-spinoff?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/inside-intels-self-driving-spinoff?amp",
-      "publishedDateTime": "2022-03-15T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-healthcare-artificial-intelligence-market-to-eyewitness-massive-growth-by-2026-nvidia-next-it-ibm-watson-health.md",
-      "title": "Healthcare Artificial Intelligence Market to Eyewitness Massive Growth by 2026 | NVIDIA, Next IT, IBM Watson Health",
-      "excerpt": "The Latest research study released by Market Intellix “Healthcare Artificial Intelligence (AI) market” with 100+ pages of analysis on business",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-to-eyewitness-massive-growth-by-2026-nvidia-next-it-ibm-watson-health",
-      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-to-eyewitness-massive-growth-by-2026-nvidia-next-it-ibm-watson-health",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-how-language-software-can-strengthen-our-cyberdefenses.md",
-      "title": "How Language Software Can Strengthen Our Cyberdefenses",
-      "excerpt": "Software that understands human speech and writing is increasingly being used to fend off hackers, but experts disagree over the value of this tactic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lifewire.com/how-language-software-can-strengthen-our-cyberdefenses-5222302",
-      "originalUrl": "https://www.lifewire.com/how-language-software-can-strengthen-our-cyberdefenses-5222302",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lifewire.com/thmb/TMkgBeYRwXaOy5HJ9uEUe0ReLlw=/732x477/filters:fill(auto,1)/GettyImages-504662110-7431e8558f734ad0af3848368c98b584.jpg",
-          "width": 732,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lifewire",
-        "domain": "lifewire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-deep-learning-and-the-future-of-finance.md",
-      "title": "Deep Learning and the Future of Finance",
-      "excerpt": "Deep learning is increasingly deployed by financial services providers across industries within the financial sector. It has the potential to transform business models and markets for trading, credit and blockchain-based finance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/deep-learning-and-the-future-of-finance",
-      "originalUrl": "https://www.bbntimes.com/technology/deep-learning-and-the-future-of-finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/companies/Deep_Learning_in_Finance.jpeg",
-          "width": 1200,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

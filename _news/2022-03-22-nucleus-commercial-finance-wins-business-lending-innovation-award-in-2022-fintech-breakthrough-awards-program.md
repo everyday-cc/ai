@@ -25,52 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "2022 Fintech Awards Spotlight: Accern, Award Nomination Announced"
-    excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, will be holding its annual Benzinga Global Fintech Awards, a day"
-    publishedDateTime: 2022-03-23T20:12:00Z
-    webUrl: "https://www.benzinga.com/fintech/22/03/26266017/2022-fintech-awards-spotlight-accern-award-nomination-announced"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26266017"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26266017"
+  - title: "Aidentified Recognized for Artificial Intelligence Innovation in 2022 Data Breakthrough Awards Program"
+    excerpt: "Prestigious International Awards Program Honors Outstanding Data Technology Products and CompaniesBOSTON, March 24, 2022 /PRNewswire/ --"
+    publishedDateTime: 2022-03-24T13:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aidentified-recognized-for-artificial-intelligence-innovation-in-2022-data-breakthrough-awards-program-1031305163"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://mma.prnewswire.com/media/1773223/LinkedIn_Data_Breakthrough_Award_Badge_2022_AIdentified.jpg"
+        width: 400
+        height: 209
         isCached: true
-  - title: "2022 Fintech Awards Spotlight: Camino Financial, Award Nomination Announced"
-    excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, will be holding its annual Benzinga Global Fintech Awards, a day"
-    publishedDateTime: 2022-03-23T20:19:00Z
-    webUrl: "https://www.benzinga.com/fintech/22/03/26266287/2022-fintech-awards-spotlight-camino-financial-award-nomination-announced"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26266287"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26266287"
+  - title: "FMG Suite Named \"Best Overall FinTech Mobile App\" in 2022 FinTech Breakthrough Awards Program"
+    excerpt: "Prestigious International Awards Recognize Outstanding Financial Technology Products And CompaniesSAN DIEGO, March 22, 2022 /PRNewswire/ -- FMG"
+    publishedDateTime: 2022-03-22T13:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program-1031298260"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 42
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "IC Tech Acquisition Spotlight: Artificial Intelligence"
-    excerpt: "The U.S. Intelligence Community is targeting artificial intelligence technology as a critical need for federal agencies in the digital age. Artificial intelligence, or AI, was included in a list of high-priority science and technology needs in the Office of the Director of National Intelligence’s recently published S&T Investment Landscape document for fiscal years 2022-2026."
-    publishedDateTime: 2022-03-23T09:48:00Z
-    webUrl: "https://www.govconwire.com/2022/03/ic-tech-acquisition-spotlight-artificial-intelligence/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 37
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2022/03/00P4y000017uVb1EAE.png"
-        width: 1200
-        height: 628
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 23
 
 secured: "TGzBB5iHMYa5xNDfydrEVdvleArl0uW+BUuowWUQV1zKkH6+b+5sIJQAIEo7AM9ls1SKqZsdF+ymk6sW/OYJdYaFi3zjvzi3NX7gN3N8A8UxSIQvDp6nPUMqVbPdelFlw1M08rxMm2wMjtHYSxaBXCQVQXo1hlwi7I2/PX7EGp1QnmekNLgntecdS3NpBs/UpgoIVFs7Wd7MHvwGzCfkNzYhxBkBRvMX2LRou9lTX/+x2UtXsoxf6IIghzuFSjk8BPGUqs0FJ8Lq2cymQHdOMa9ZwXYsKSK+RgKWBT0L0U4cYkm43F+maUWJbQNURu9sX0g81ZKO8tgg9nZyQhMe/pmb2Jl4GjbWOV4dwW9opHWb2vffc5vcbdOC2+UaPit7e/aICeNrN0Ganbs6s/W4ZoM2lz62Bx8RGnzVYwnUYFmIhfxTxRmzDxi2q5j3QDzy1UM1hwgSPdtxNknkYtLzmJ81cfjVWdST10tWnFVpRGQKVTVKKg1gCaGHTc/Vjp3CmImi1zaffSyK+ikzfaEedA==;6WfQt9IZV7WbXs2T72PNYQ=="
 ---

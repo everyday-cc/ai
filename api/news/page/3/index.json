@@ -2,6 +2,162 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-21-how-businesses-can-boost-their-roi-with-agile-ai.md",
+      "title": "How Businesses Can Boost Their ROI With Agile AI",
+      "excerpt": "This will allow businesses to prioritize optimizing delivery outputs. Start Small and Scale AI Applications Across the Organization Businesses starting out with enterprise AI deployment should work closely with internal teams to identify potential use ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/21/how-businesses-can-boost-their-roi-with-agile-ai/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/21/how-businesses-can-boost-their-roi-with-agile-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6212d7fb4a3a5e8d8f6d35a4/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 965,
+          "height": 934,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/21/how-businesses-can-boost-their-roi-with-agile-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/03/21/how-businesses-can-boost-their-roi-with-agile-ai/amp/",
+      "publishedDateTime": "2022-03-21T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-21-gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-65m.md",
+      "title": "Gensyn applies a token to distributed computing for AI developers, raises $6.5M",
+      "excerpt": "For self-driving cars and other applications developed using AI, you need what’s known as ‘deep learning’, the core concepts of which emerged in the ‘50s. This requires training models based on similar patterns as seen in the human brain.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/",
+      "originalUrl": "https://techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/DSC064882.jpg?w=588",
+          "width": 588,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/amp/",
+      "publishedDateTime": "2022-03-21T00:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-20-ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars.md",
+      "title": "Ethical AI Ambitiously Hoping To Have AI Learn Ethical Behavior By Itself, Such As The Case With AI In Autonomous Self-Driving Cars",
+      "excerpt": "Maybe AI can learn to be ethical, though this is harder than it seems, including considerations underlying AI-based self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/622bfb12203a72d0156f3303/0x0.jpg?format=jpg&crop=3097,1742,x476,y301,safe&fit=crop",
+          "width": 3097,
+          "height": 1742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/amp/",
+      "publishedDateTime": "2022-03-20T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-03-20-mit-and-tsinghua-scholars-use-deepminds-alphafold-approach-to-boost-covid-19-antibodies.md",
       "title": "MIT and Tsinghua scholars use DeepMind's AlphaFold approach to boost COVID-19 antibodies",
       "excerpt": "Using knowledge of proteins advanced by DeepMind, Tsinghua University scientists devise mutated monoclonal antibodies that resist COVID-19's immune escape.",
@@ -538,6 +694,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-18-slatorcon-remote-makes-a-bullish-case-for-the-language-industry.md",
+      "title": "SlatorCon Remote Makes a Bullish Case for the Language Industry",
+      "excerpt": "SlatorCon Remote March 2022 was the biggest ever. Over 550 delegates tuned in from opposite sides of the globe for Session I: Australia & Asia-Pacific and Session II: Americas & Europe. A third logged on from the Americas,",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/slatorcon-remote-makes-a-bullish-case-for-the-language-industry/",
+      "originalUrl": "https://slator.com/slatorcon-remote-makes-a-bullish-case-for-the-language-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2022/03/SlatorCon-Remote-March-2022-Highlights-from-Localization-Conference.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-developing-an-autonomous-robotic-platform-to-improve-the-quality-of-sleep.md",
       "title": "Developing an autonomous robotic platform to improve the quality of sleep",
       "excerpt": "For World Sleep Day, we speak to Alexander Breuss from the Sensory-Motor Systems Lab about their autonomous robotic sleep platform.",
@@ -924,196 +1123,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-contribute-to-tensorflow-special-interest-groups-sigs.md",
-      "title": "Contribute to TensorFlow Special Interest Groups (SIGs)",
-      "excerpt": "The TensorFlow Special Interest Groups (TF SIGs) organize community contributions to key parts of the TensorFlow ecosystem. SIG leads and members work together to build and support important TensorFlow use cases. SIGs are led by members of the open source ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/community/contribute/sigs",
-      "originalUrl": "https://www.tensorflow.org/community/contribute/sigs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T16:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-what-do-americans-really-think-about-artificial-intelligence-study.md",
-      "title": "What do Americans really think about artificial intelligence? - study",
-      "excerpt": "While the public is generally concerned about the rise of AI, views are tied to how these technologies would be used and what constraints would be put in place.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/jpost-tech/article-701648",
-      "originalUrl": "https://www.jpost.com/jpost-tech/article-701648",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/417281",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/jpost-tech/article-701648/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/article-701648/amp",
-      "publishedDateTime": "2022-03-17T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-how-ai-helps-autonomous-driving-achieve-a-breakthrough.md",
-      "title": "How AI helps autonomous driving achieve a breakthrough",
-      "excerpt": "Autonomous driving is a big hope for the future, but tragic accidents are a source of concern. Berlin-based start-up Deep Safety wants to make autonomous vehicles safe",
-      "sourceUrl": null,
-      "webUrl": "https://www.db.com/what-next/digital-disruption/better-than-humans/how-ai-helps-autonomous-driving-achieve-a-breakthrough/index?language_id=1",
-      "originalUrl": "https://www.db.com/what-next/digital-disruption/better-than-humans/how-ai-helps-autonomous-driving-achieve-a-breakthrough/index?language_id=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://master.dwebcms.db.com/application/version/latest/files/DB-Share-Logo_1200x627.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "db",
-        "domain": "db.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-companies-are-making-serious-money-with-ai.md",
-      "title": "Companies Are Making Serious Money With AI",
-      "excerpt": "When it comes to artificial intelligence, multiple recent surveys indicate that companies aren’t just planning on spending serious money on AI in 2022 — they are already making good money from the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/companies-making-serious-money-ai-tom-davenport",
-      "originalUrl": "https://www.linkedin.com/pulse/companies-making-serious-money-ai-tom-davenport",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE-E1SMvPz1jQ/article-cover_image-shrink_720_1280/0/1647552145978?e=1653523200&v=beta&t=1syRZ1wAiES1Hc-7UFZMAj1BHndlSysj12OGgxPhnMY",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

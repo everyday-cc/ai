@@ -114,7 +114,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 247,
+      "heat": 257,
       "tags": null,
       "images": [
         {
@@ -251,6 +251,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-slatorcon-remote-makes-a-bullish-case-for-the-language-industry.md",
+      "title": "SlatorCon Remote Makes a Bullish Case for the Language Industry",
+      "excerpt": "SlatorCon Remote March 2022 was the biggest ever. Over 550 delegates tuned in from opposite sides of the globe for Session I: Australia & Asia-Pacific and Session II: Americas & Europe. A third logged on from the Americas,",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/slatorcon-remote-makes-a-bullish-case-for-the-language-industry/",
+      "originalUrl": "https://slator.com/slatorcon-remote-makes-a-bullish-case-for-the-language-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2022/03/SlatorCon-Remote-March-2022-Highlights-from-Localization-Conference.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1101,6 +1144,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-09-natural-language-processing-nlp-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032.md",
+      "title": "Natural Language Processing NLP Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032",
+      "excerpt": "Growing demand for improved customer experience, increasing use of smart devices, rising number of choices in application areas are likely to drive the growth of natural language processing market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032",
+      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/Global-Economy-Russia-Ukraine-AFP-1K-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-07-the-hidden-role-of-facial-recognition-tech-in-many-arrests.md",
       "title": "The Hidden Role of Facial Recognition Tech in Many Arrests",
       "excerpt": "The technology is spreading fast among police, and often wrong. But people charged with crimes are rarely told they were fingered by an algorithm.",
@@ -1291,93 +1377,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-a-baby-cry-translator-a-company-uses-machine-learning-to-translate-your-infant.md",
-      "title": "A baby cry translator? A company uses machine learning to translate your infant",
-      "excerpt": "Switzerland-based startup Zoundream is working on a proprietary device that translates what they call the \"universal language\" of babies, with help of A.I.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/baby-cry-translator-ai",
-      "originalUrl": "https://interestingengineering.com/baby-cry-translator-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/MRw4ZnPBG1/sizes/baby-cry_resize_md.jpeg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/baby-cry-translator-ai",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/baby-cry-translator-ai",
-      "publishedDateTime": "2022-03-03T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-baidu-launches-ai-platform-to-enable-on-device-real-time-translation-from-speech-to-hand-gestures.md",
-      "title": "Baidu Launches AI Platform to Enable on-Device, Real-Time Translation from Speech to Hand Gestures",
-      "excerpt": "Baidu AI Cloud, a leading AI cloud provider, launched an AI sign language platform able to generate digital avatars for sign language translation and live interpretation within minutes. Released as a new offering of Baidu AI Cloud’s digital avatar platform XiLing,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/winter-olympics-technology-business-sports-beijing-9eb1fa4b9af75efea8f4fc18149c62f7",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/winter-olympics-technology-business-sports-beijing-9eb1fa4b9af75efea8f4fc18149c62f7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

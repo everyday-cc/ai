@@ -56,20 +56,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Nucleus Commercial Finance Wins \"Business Lending Innovation Award\" in 2022 FinTech Breakthrough Awards Program"
-    excerpt: "FinTech Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in the global FinTech market, today announced that"
-    publishedDateTime: 2022-03-22T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nucleus-commercial-finance-wins-business-lending-innovation-award-in-2022-fintech-breakthrough-awards-program/article_5d7a02ca-b3b1-5c0b-bcd0-effc267fa53e.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 19
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "oC/2gKNlwglaT3Z/EGE8rv1xHqOp0FRVC3AUOwkHw2LOmCtkLk1wcryUBaACxHNvcvRF6Bqh79MZB79Sbe2eNuOjiuLnUy9e5GdL8U95XWzV3m3OptLBfSiGIHoJ/TKnjbek4Q3pWESOHx8N0+2Fn9wQ74/twkUOS2p/n2OE/YK8lv5HpU8pJqo/Bb9vHYYQktk3YNUaEzSARme0Kn0SAiNfR2TMXAiMdoAIomOR285TMfCt2iKfZegALDXJ2BLEz6YQni0MZqkmoweKmhKSujx9ZNFMunyuuxxmb/93Bl13ZqWUSE6CZRf8lhTvC+Fyv+folWn36BfQe43UJGtMrK1T64R9TGstibLohyVyR5k=;XB+AANS1hQS0+D4ts9QEiQ=="
 ---

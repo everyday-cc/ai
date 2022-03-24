@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-improves-translat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/"
 type: article
 quality: 117
-heat: 247
+heat: 257
 published: true
 
 provider:
@@ -183,6 +183,20 @@ related:
       - url: "https://www.automation.com/getmedia/c2d8e356-c5e4-4d20-95b8-87211f7dd5e5/Industrial-AI-prod-March-21-2022-web.png?width=500&height=313&ext=.png"
         width: 500
         height: 313
+        isCached: true
+  - title: "Microsoft upgrades translation service with AI"
+    excerpt: "More to be lost in translationFor a while now there has been a myth that AI can operate good language translation services. In fact, companies have been insisting that translation firms slash their fees and work alongside machine translation systems from Deepl,"
+    publishedDateTime: 2022-03-24T12:50:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/54582-microsoft-upgrades-translation-service-with-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 56
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/df2e43746386b941847aa624bfa70fb3_L.jpg"
+        width: 620
+        height: 474
         isCached: true
   - title: "IonQ Aria quantum computer joining Microsoft’s Azure Quantum Platform"
     excerpt: "Adding the latest IonQ quantum computer systems to the Microsoft's Azure Quantum Platform cloud platform which already features"

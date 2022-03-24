@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-23-reinventing-how-aiml-teams-gather-data-needed-for-computer-vision-network-training.md",
+      "title": "Reinventing how AI/ML teams gather data needed for computer vision network training",
+      "excerpt": "Datagen, the data-as-code leader for computer vision AI, today announced the closure of a $50 million Series B financing round led by new investor Scale Venture Partners. The round also included participation from existing investors TLV Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/datagen-raises-50-million-series-b/",
+      "originalUrl": "https://www.geektime.com/datagen-raises-50-million-series-b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geektime.com/content/images/2022/03/-----------------------------------------------.jpg",
+          "width": 2000,
+          "height": 1045,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/datagen-raises-50-million-series-b/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/datagen-raises-50-million-series-b/amp/",
+      "publishedDateTime": "2022-03-23T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-cortix-platform-named-winner-in-2022-artificial-intelligence-excellence-awards.md",
+      "title": "CORTIX Platform Named Winner in 2022 Artificial Intelligence Excellence Awards",
+      "excerpt": "Awards recognize organizations, products and people bringing AI to life and applying it to solve real problemsKENNESAW, Ga., March 23, 2022",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cortix-platform-named-winner-in-2022-artificial-intelligence-excellence-awards-1031301050",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cortix-platform-named-winner-in-2022-artificial-intelligence-excellence-awards-1031301050",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1771721/AI_ExcellenceAward_2022.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes.md",
+      "title": "Business Leaders And AI In 2022: Five Ways To Achieve Transformative Outcomes",
+      "excerpt": "Multimodal AI will expand the scope of AI applicability, creating use cases far beyond what anyone could have imagined a few years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60a2963f177a3e9f63eec918/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/amp/",
+      "publishedDateTime": "2022-03-23T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-facial-recognition-panel-looks-to-balance-police-needs-with-privacy.md",
       "title": "Facial recognition panel looks to balance police needs with privacy",
       "excerpt": "A much-anticipated report on facial recognition technology has landed with an eye on balancing police powers and privacy. Issuing 13 recommendations in total, the commission behind the report says",
@@ -460,7 +606,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 247,
+      "heat": 257,
       "tags": null,
       "images": [
         {
@@ -723,7 +869,7 @@
       "originalUrl": "https://www.cnet.com/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1112,162 +1258,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-how-businesses-can-boost-their-roi-with-agile-ai.md",
-      "title": "How Businesses Can Boost Their ROI With Agile AI",
-      "excerpt": "This will allow businesses to prioritize optimizing delivery outputs. Start Small and Scale AI Applications Across the Organization Businesses starting out with enterprise AI deployment should work closely with internal teams to identify potential use ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/21/how-businesses-can-boost-their-roi-with-agile-ai/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/21/how-businesses-can-boost-their-roi-with-agile-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6212d7fb4a3a5e8d8f6d35a4/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 965,
-          "height": 934,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/21/how-businesses-can-boost-their-roi-with-agile-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/03/21/how-businesses-can-boost-their-roi-with-agile-ai/amp/",
-      "publishedDateTime": "2022-03-21T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-65m.md",
-      "title": "Gensyn applies a token to distributed computing for AI developers, raises $6.5M",
-      "excerpt": "For self-driving cars and other applications developed using AI, you need what’s known as ‘deep learning’, the core concepts of which emerged in the ‘50s. This requires training models based on similar patterns as seen in the human brain.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/",
-      "originalUrl": "https://techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/DSC064882.jpg?w=588",
-          "width": 588,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/amp/",
-      "publishedDateTime": "2022-03-21T00:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-20-ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars.md",
-      "title": "Ethical AI Ambitiously Hoping To Have AI Learn Ethical Behavior By Itself, Such As The Case With AI In Autonomous Self-Driving Cars",
-      "excerpt": "Maybe AI can learn to be ethical, though this is harder than it seems, including considerations underlying AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/622bfb12203a72d0156f3303/0x0.jpg?format=jpg&crop=3097,1742,x476,y301,safe&fit=crop",
-          "width": 3097,
-          "height": 1742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/amp/",
-      "publishedDateTime": "2022-03-20T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

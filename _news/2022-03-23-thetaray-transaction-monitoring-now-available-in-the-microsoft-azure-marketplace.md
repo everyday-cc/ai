@@ -1,29 +1,23 @@
 ---
 category: news
 title: "ThetaRay Transaction Monitoring Now Available in the Microsoft Azure Marketplace"
-excerpt: "ThetaRay, provider of AI-powered transaction monitoring technology to protect banks and fintechs against financial crimes, today announced the availability"
-publishedDateTime: 2022-03-23T12:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-transaction-monitoring-now-available-in-the-microsoft-azure-marketplace/article_e259606b-33f5-5e67-92f6-1d671657497f.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-transaction-monitoring-now-available-in-the-microsoft-azure-marketplace/article_e259606b-33f5-5e67-92f6-1d671657497f.html"
+excerpt: "Microsoft Azure customers worldwide now gain access to the SONAR AML solution to take advantage of the scalability, reliability and agility of Azure. NEW YORK and TEL AVIV, Israel"
+publishedDateTime: 2022-03-23T12:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-thetaray-transaction-monitoring-now-available-the-microsoft-azure-/2022/03/23/9569051.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-thetaray-transaction-monitoring-now-available-the-microsoft-azure-/2022/03/23/9569051.htm"
 type: article
-quality: 64
-heat: 64
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
-    isCached: true
-
-secured: "fpnUcVqUR77oxkhPA3ZbXXAcSqtV9GePD485ShE3cBF9HbZs1xuhthCuGPm8tasDXcv6dsnKy3KjFN+fkbAYlhLTan+7EgxLo5Hpci/afjYAGHUXOliiy2DoiyAvpcIGlNWzXoI0LanX+7NtlwTiheO8F19XNBZeHj7sEAyxl/lhWE5VowJzK+d7Un2psx9yqBbvWhb7mA41/492GNw+vGxCl+75mZWyWYKs5rHeAilgQ6xznX0voCMICwlapT/QSioEkzF0YN5ZxeYZABXz/m5C/4qEqGFABa9Gtl7VnWRCjS1Trs/+W96oKc1OOJCNewad3xMU5O0L5SZJK3JlK2h4rpeqB6vU1veT7hSotbqMeUk8a4niV/Te4o7F215RDUH9ZFFjT6ulRmIe5Y4Zi84kW1FS06UEODmdJGeP/aFbh/jcYX59nDusX6OyBg34d/6nwyRTDIa5O+PYR+nrxRvMycSouvnjjr6j0+I4RUEXYQDuQTPPqmVQZep/ysqzbj4Dyd/TPccoPYyWcfwJ6Q==;WUzXCJSXwfpFHyI2ubwoUQ=="
+secured: "A++1k6lfWMA8cuPvNLTcUunbPh7QULDK6fbkqGfa/EG/hM+8Vv75V/dI3Gca9KdGxDonM8+B5Ex6a8Ch8sYoTzU6GxpOSFlaB1WOAml+wIMZyGFLdTEodv4z8rlTrptnX6Fu3yfUKCafjDQ0z667zuscwvmiTxw8n83UvNLJfTZyIEKPlvQr/D2wGGuHdi7jW+1qm0rayjXlrzj4OFeQEtge/biUFeZxNdGExxzIO/IK9Jsog5trVPplOY+yc7paUdZqTfqVw+QMAiBowpf4oI+EtOzr+GuvmrICIVFoKQn57NfNkgRLFxTxnP905zswBBHrmdITO7nSBq688+Ck+5QGSOXsmwpOyhpU3wWZ0Aw=;145cbg4q/YjbgRld5ku8Hg=="
 ---
 

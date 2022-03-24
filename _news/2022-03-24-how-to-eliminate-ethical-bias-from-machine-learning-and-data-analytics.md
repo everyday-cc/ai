@@ -9,7 +9,7 @@ ampWebUrl: "https://techround.co.uk/news/how-to-eliminate-ethical-bias-from-mach
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 116
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dragonfruit Frontier, a new Cloud VMS with AI analytics"
+    excerpt: "Frontier enables secure management of hundreds of locations from a single browser with no additional hardware costs"
+    publishedDateTime: 2022-03-24T13:28:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-management-software-vms/product/21261608/dragonfruit-ai-dragonfruit-frontier-a-new-cloud-vms-with-ai-analytics"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/03/Dragonfruit_Frontier.623c6e6b6c4e6.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Theia Analytics Group Closes $1M Angel Round"
     excerpt: "With private investors aboard, TAG accelerates its development of the world’s first governance-focused intelligence engine for solving governance challenges plaguing global fiduciaries WASHINGTON, March 23,"
     publishedDateTime: 2022-03-23T12:18:00Z
@@ -56,7 +70,21 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "PLUS3 IT SYSTEMS TO EXPAND DATA ANALYTICS AND ARTIFICIAL INTELLIGENCE CAPABILITIES WITH JOINT ARTIFICIAL INTELLIGENCE CENTER AWARD"
+    excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial"
+    publishedDateTime: 2022-03-24T12:50:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence/article_2d4a8a12-262e-52dd-af5b-a24bcacffdff.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 7
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
-secured: "w9hBu9JSvK4tOyOn7wKNPvuvwp6qoCHf1fqX+y1d033WaDv1UocF/t63/CaslMGPdKTeTFSKMYe2h2/NsS2+eUVxc5HCzFVvJM+M4bldUllJ+PNPiM0PC7itMwC74prG6XlvyfA5XbAHYmaEUv8itKXBI7iUVL7cMVT4uSrxB4e/FgCykVXtwYUpy3WUAKBupEbAHz55WGj2zYhc4dhxiFVoVsMNXdH/VYmzi2baFdGhoHVFO1Xaa+vSXJclaf689Onq1gRj0ccUV4GRnkuvRxc+T/N9q3/TqcVgTt87SLcMEw+WImZQBCUhEvDgdjoyElT9cGMhDjTTqkHBsnT5t0XdNTkg5lgJdqlapnmxEZ8=;KJmVlVB6c8QUoOX1K6ULmg=="
+secured: "aoyNW3w7ZXkZLvzb+rggFeA93cK+nwiGJEDynCDHU4W4v9xPYixNce3J4MckEhi4qXT78TOMz7su5OjjJnoRQK8yiaxuK9uj9GVoa1HWPRhPAp/83SWv3XWiBX+ffdIkAyRhMTne6Lf8kFKzbUXVVcM8tn7Boct2eNu3s2RIFex7yVwSi1FPXzUjU2hyB+ZAtIYJrCCKzcp6ATKkuJgtBpHGyZGWCgzfEE22ciLW5SkOJ6tZBKxUWwMKqsSQzk+/PlI19BY78VSdIWjisLtx2UPUsRUjh248rKOb+TrqHMV40qARBUPa4iplKBgMs1SUHsMS95IMzGwP8bBKR3RKXFTFXaCgbqbM1+ZG4MlyH7ZRvXySZVOpEvGcvjbwD9NtsVIpb6PAUb3Km2d2xkESDxu8PUqx677EpcUr8ak9gTYMG4uUncOhehhKu9b7z6OxbNdO1m758URFOb5Fj++xU0JjLb9mqoD2azeAdzJTEM7AYadahWt5C3o0wrX7eh8nCZEKM2zy4CGjprNp/gxyYA==;SfeQNKzvHl229DDYwR0bGA=="
 ---
 

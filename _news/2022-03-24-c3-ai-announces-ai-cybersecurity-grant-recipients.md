@@ -27,13 +27,18 @@ topics:
 related:
   - title: "C3.ai Digital Transformation Institute Announces Research Awards for AI to Transform Cybersecurity and Secure Critical Infrastructure"
     excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the third round of C3.ai DTI funded advanced research awards, focused on using artificial intelligence (AI) to harden information security and secure critical infrastructure."
-    publishedDateTime: 2022-03-24T11:53:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2022/03/24/9569853.htm"
+    publishedDateTime: 2022-03-24T13:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=636406"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 8
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "t/6usN18eEj26ofSmP/pMgsHXtnS3QNTp8JfKiflJZwhoZQcmDUnO1a+kXjxrYUIqYAeltGCCNS2kqqHCcwKqk6h6M+nwKVgFyXfE6nNXrUz+HQHzJ5AuRV4iRf8nBmCjgB9kQX9lR8FHe3Q6TwVs0XqMDMY3dYH5O0MIE6ahFkExrLT0LhetVHVlJHNksJAnJlRaiSp5gtZlJTv/WtcR6fytptzJ1sRe7i2d6gJgM5iCz//c3OSWz7vuKqwJSRqz5Fvxtrg0fQgrPAxPMTb79Dh8TAVl8/f/ffluUEFt4YeyWnIwzIRq6TqwuvnPp12pqvpp8DYwxWLUR88hvFFHJ6o9SeqhK+3bAQiFWEiZb0+9jwOKWv7YiNmP8mRP9sEWFm/Qi1w4qX4rHmY0YhByANrJYTCwjoWWMld8NzaClCxuFONF/MnwUF6qD6whoP+NSmdcksh5ZXWaEiwJOpVwkvAlvN5irREpCFXomYQiLS+rlaG6Y6I6zyQnngAwU+q1QyQ8LN0iF9NR70t7e/pyw==;xvZRnXWl8DuN9xGGVxbHKg=="
 ---
