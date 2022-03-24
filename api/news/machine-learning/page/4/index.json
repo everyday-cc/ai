@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-22-can-machine-learning-models-overcome-biased-datasets.md",
+      "title": "Can machine-learning models overcome biased datasets?",
+      "excerpt": "Aug. 29, 2019 — In a key step toward making large-scale optical neural networks practical, researchers have demonstrated a first-of-its-kind multilayer all-optical artificial neural network ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/02/220221115403.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/02/220221115403.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-21T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-new-machine-learning-model-flags-abnormal-brain-scans-in-real-time.md",
+      "title": "New machine learning model flags abnormal brain scans in real-time",
+      "excerpt": "Researchers from the King's College London School of Biomedical Engineering & Imaging Sciences have developed a deep learning framework based on convolutional neural networks to flag clinically relevant abnormalities at the time of imaging,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-02-machine-flags-abnormal-brain-scans.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-02-machine-flags-abnormal-brain-scans.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/brainscan.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-02-machine-flags-abnormal-brain-scans.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-machine-flags-abnormal-brain-scans.amp",
+      "publishedDateTime": "2022-02-21T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-21-artificial-intelligence-the-future-is-data-capture-not-machine-learning.md",
       "title": "Artificial Intelligence: The future is data capture, not machine learning",
       "excerpt": "Adoption of Artificial Intelligence (AI) has accelerated since the pandemic hit as the whole world moved towards digitization. A study by Oxford University and Yale University indicates that AI will outperform humans in many",
@@ -1337,102 +1423,6 @@
         "AI",
         "Machine Learning",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-iot-development-tools-work-on-ultra-low-power-psoc-6-mcus.md",
-      "title": "IoT development tools work on ultra-low power PSoC 6 MCUs",
-      "excerpt": "Additionally, they can use an AutoML cloud platform to train models without extensive AI expertise, and then deploy the resulting models on the PSoC 6 MCU for use on edge devices. Ideal for battery-powered applications, Infineon’s PSoC 6 MCUs are built ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eeworldonline.com/iot-development-tools-work-on-ultra-low-power-psoc-6-mcus/",
-      "originalUrl": "https://www.eeworldonline.com/iot-development-tools-work-on-ultra-low-power-psoc-6-mcus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://czdfw1kuw9n20zm0l7pmfb1a-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/scope-finder.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-10T15:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eeworldonline.com",
-        "domain": "eeworldonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-reduce-costs-and-complexity-of-ml-preprocessing-with-amazon-s3-object-lambda.md",
-      "title": "Reduce costs and complexity of ML preprocessing with Amazon S3 Object Lambda",
-      "excerpt": "Amazon Simple Storage Service (Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance. Often, customers have objects in S3 buckets that need further processing to be used effectively by consuming applications. Data engineers must",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-costs-and-complexity-of-ml-preprocessing-with-amazon-s3-object-lambda/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-costs-and-complexity-of-ml-preprocessing-with-amazon-s3-object-lambda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/03/ml_6508_fig1.png",
-          "width": 942,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-10T12:40:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

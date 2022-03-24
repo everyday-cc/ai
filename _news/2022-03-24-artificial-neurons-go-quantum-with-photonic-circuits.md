@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/947551"
 webUrl: "https://www.eurekalert.org/news-releases/947551"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 700
     height: 329
     isCached: true
+
+related:
+  - title: "Artificial neurons go quantum with photonic circuits"
+    excerpt: "In recent years, artificial intelligence has become ubiquitous, with applications such as speech interpretation, image recognition, medical diagnosis, and many more. At the same time, quantum technology has been proven capable of computational power well beyond the reach of even the world's largest supercomputer."
+    publishedDateTime: 2022-03-24T20:32:00Z
+    webUrl: "https://phys.org/news/2022-03-artificial-neurons-quantum-photonic-circuits.html"
+    ampWebUrl: "https://phys.org/news/2022-03-artificial-neurons-quantum-photonic-circuits.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-03-artificial-neurons-quantum-photonic-circuits.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-neurons-go-1.jpg"
+        width: 1032
+        height: 803
+        isCached: true
 
 secured: "bPFVKyi4WQU5juFgt/Ziqa/Eyh/OBVjkVhVg+WJMiyljs/eS4XYz/cKZX3yuh2U8+YXtSxQFxeXIK1dI1MqlWIHVcTcWVnkBInXAgAqAaMB5wl3z5DAefKcxr3kmiEJ0UmHQ9e5SFyqWtfew/W+4X87woN0RJR5rbVUDlH6bi5XI7aT7ZE3IibpkUZo4U58XTvecC/I1nxmPM8W4jaInTfE6AMFsvk4jjvmb9uQhEJj30GFF+xA667lpFfRPDbYWKGPtPtvrxD72AGUkyuRh4nD7xB3NWfrr9z9Y1oWBnaXg5w8nKPmbibzNbUvLANvl8WkTRGa96jiYB3+O4kAK756TM+T+ky/CmkPxVZiL3GY=;L70vSDCFVKNGsaztB+VIVQ=="
 ---

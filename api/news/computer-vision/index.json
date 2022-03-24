@@ -325,6 +325,59 @@
       ]
     },
     {
+      "path": "_news/2022-03-18-poll-shows-americans-optimism-toward-ai-and-and-facial-recognitionbut-brain-implants-not-so-much.md",
+      "title": "Poll Shows Americans’ Optimism Toward AI And And Facial Recognition—But Brain Implants? Not So Much",
+      "excerpt": "like chips implanted in the brain and driverless vehicles. Output of an artificial intelligence system from Google Vision, performing facial recognition on a ... [+] photograph of a man ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
+      "originalUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62335e6539b745afd96e9434/0x0.jpg?format=jpg&crop=3421,1924,x0,y172,safe&fit=crop",
+          "width": 3421,
+          "height": 1924,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
+      "publishedDateTime": "2022-03-18T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-poll-shows-americans-optimism-toward-ai-and-and-facial-recognition-but-brain-implants-not-so-much.md",
       "title": "Poll Shows Americans’ Optimism Toward AI And And Facial Recognition — But Brain Implants, Not So Much",
       "excerpt": "like chips implanted in the brain and driverless vehicles. Output of an Artificial Intelligence system from Google Vision, performing Facial Recognition on a ... [+] photograph of a man ...",
@@ -763,6 +816,58 @@
         "Microsoft AI",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-03-08-activists-pushed-the-irs-to-drop-facial-recognition-they-won-but-theyre-not-done-yet.md",
+      "title": "Activists pushed the IRS to drop facial recognition. They won, but they're not done yet",
+      "excerpt": "The IRS later said it will keep using facial-recognition software to verify taxpayers' identities for the rest of the tax-filing season, but people who want to avoid turning over their biometric ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/03/07/tech/facial-recognition-activists-irs/index.html",
+      "originalUrl": "https://www.cnn.com/2022/03/07/tech/facial-recognition-activists-irs/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220302164832-caitlin-seeley-george-joy-buolamwini-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/03/07/tech/facial-recognition-activists-irs/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/03/07/tech/facial-recognition-activists-irs/index.html",
+      "publishedDateTime": "2022-03-07T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1245,92 +1350,6 @@
       "provider": {
         "name": "Future Market Insights",
         "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-state-unemployment-agency-will-stop-using-face-recognition-to-check-identities.md",
-      "title": "State unemployment agency will stop using face recognition to check identities",
-      "excerpt": "The Massachusetts Department of Unemployment Assistance says it will stop using facial-recognition technology as a way for people to prove their identity when signing up for benefits. The move comes three weeks after the US Internal Revenue Service ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonglobe.com/2022/02/28/business/state-unemployment-agency-will-stop-using-face-recognition-check-identities/",
-      "originalUrl": "https://www.bostonglobe.com/2022/02/28/business/state-unemployment-agency-will-stop-using-face-recognition-check-identities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/MGEoWw2TtaWnS4wd5Avgd_eOHj4=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/3CVOCIQ6SNBZHFBHDJK3DHAYV4.jpg",
-          "width": 506,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonglobe.com/2022/02/28/business/state-unemployment-agency-will-stop-using-face-recognition-check-identities/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2022/02/28/business/state-unemployment-agency-will-stop-using-face-recognition-check-identities/?outputType=amp",
-      "publishedDateTime": "2022-02-28T12:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Boston Globe",
-        "domain": "bostonglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-ukraine-conflict-forces-face-recognition-and-tracking-challenges.md",
-      "title": "Ukraine conflict: Forces face recognition and tracking challenges",
-      "excerpt": "(Sergei Malgavko/TASS) The Russian and Ukrainian militaries engaged in the conflict in Ukraine have several difficulties to overcome around force recognition and tracking, and the so-called ‘fog of war' may hang heavy. Unverified reports state that the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.janes.com/defence-news/defence/latest/ukraine-conflict-forces-face-recognition-and-tracking-challenges",
-      "originalUrl": "https://www.janes.com/defence-news/defence/latest/ukraine-conflict-forces-face-recognition-and-tracking-challenges",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.janes.com/images/default-source/news-images/bsp_14042-idr-16471.jpg?sfvrsn=8814913e_2",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.janes.com/amp/ukraine-conflict-forces-face-recognition-and-tracking-challenges/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
-      "cdnAmpWebUrl": "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/ukraine-conflict-forces-face-recognition-and-tracking-challenges/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
-      "publishedDateTime": "2022-02-28T09:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jane's Information Group",
-        "domain": "janes.com",
         "images": null,
         "publishers": null,
         "authors": null

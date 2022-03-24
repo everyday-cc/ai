@@ -6,9 +6,9 @@ publishedDateTime: 2022-03-24T17:00:00Z
 originalUrl: "https://venturebeat.com/2022/03/24/top-ai-execs-including-richard-socher-launch-aix-ventures/"
 webUrl: "https://venturebeat.com/2022/03/24/top-ai-execs-including-richard-socher-launch-aix-ventures/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-886575164.jpg?w=1200&#038;strip=all"

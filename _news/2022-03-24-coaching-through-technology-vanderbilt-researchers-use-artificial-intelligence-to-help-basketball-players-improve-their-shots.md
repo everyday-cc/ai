@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Local researchers developing new technology to improve artificial intelligence"
-    excerpt: "Artificial Intelligence technology is expanding in the Inland Northwest. Many people already rely on A.I. using their smartphones, Alexa and at the self-checkout, but local developers want to see the technology reach new heights."
-    publishedDateTime: 2022-03-24T01:55:00Z
-    webUrl: "https://www.kxly.com/local-researchers-developing-new-technology-to-improve-artificial-intelligence/"
+  - title: "Data Science Institute builds AI technologies to support book project about the Black experience at Vanderbilt"
+    excerpt: "Partnering with the Data Science Institute, Bishop Joseph Johnson Black Cultural Center Director Rosevelt Noble is leveraging custom artificial intelligence techniques to identify common themes and topics for his book,"
+    publishedDateTime: 2022-03-23T14:00:00Z
+    webUrl: "https://news.vanderbilt.edu/2022/03/23/data-science-institute-builds-ai-technologies-to-support-book-project-about-the-black-experience-at-vanderbilt/"
+    ampWebUrl: "https://news.vanderbilt.edu/2022/03/23/data-science-institute-builds-ai-technologies-to-support-book-project-about-the-black-experience-at-vanderbilt/amp/"
+    cdnAmpWebUrl: "https://news-vanderbilt-edu.cdn.ampproject.org/c/s/news.vanderbilt.edu/2022/03/23/data-science-institute-builds-ai-technologies-to-support-book-project-about-the-black-experience-at-vanderbilt/amp/"
     type: article
     provider:
-      name: KXLY 4 News
-      domain: kxly.com
-    quality: 33
+      name: Vanderbilt University News
+      domain: vanderbilt.edu
+    quality: 39
     images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kxly.com/content/uploads/2022/03/k/o/ai-technology-is-expanding.jpg"
-        width: 1024
-        height: 768
+      - url: "https://news.vanderbilt.edu/manage/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
 
 secured: "/sc2U0JBzO/2T2cezLavRPIwMPbVd8ITratPZ6zzq2NL4ED7AL+4CceunCa3LVXSJdK+Ymo9CWU+H1RYcGLJv6KFRiUAoPnG3sBNru0pwg6fLmLqgRL8sjR7xQ1SmkfqCGdcEtKHD7Cf0ek7RSSr+Tztx+JRaaTOSi34KJYHfS+uh3LFaJ1ddETcHDDcxAaqX6h1pnLch6kIiFY/gW1dtJZVtrXV1mtgBa/t6+/WLNzvNqbN4zyiQZzLqOF6EzkdDPMUP5NcLyQ60WuDoxQmS3O5J5HmtktV/vi03cn4dia9Do86PwC28gClGGMwm9U1Rbz956cDGjoANhKbGemEhClOmJ+JYAlCXb12ljf1HOxsKNBjbL1HCek0ddsd5WWfYL1udSrnJPJncCwh6LHstFFb508kGAy6FiYugEcgZq34iafR4XMfvP1DXOipf3j1vV+rL8mwXx1tBFuE0ON5Beuz51nesaQH4F8dKYw+aJyOq1MH8tpvP7C7rbAVGWwh4lwW3imcIpG9FJfJAq9duQ==;CbmhaoQZrZ63cDdyqwRWqg=="

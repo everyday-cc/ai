@@ -2,6 +2,136 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-17-facebooks-meta-to-build-1b-data-center-for-metaverse.md",
+      "title": "Facebook’s Meta To Build $1B Data Center For Metaverse",
+      "excerpt": "Facebook’s parent Meta is building a $1 billion data center for its metaverse in Spain as well as a Metaverse Innovation Hub.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/data-center/facebook-s-meta-to-build-1b-data-center-for-metaverse",
+      "originalUrl": "https://www.crn.com/news/data-center/facebook-s-meta-to-build-1b-data-center-for-metaverse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0273-14aff55279f9-2f8a0aca665b-1000/meta_data_center.jpg",
+          "width": 599,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-what-impact-will-the-ai-revolution-have-on-your-practice.md",
+      "title": "What impact will the AI revolution have on your practice?",
+      "excerpt": "Once thought of as a timepoint in the distant future, healthcare has already entered the artificial intelligence era and it will have a transformative impact across the spectrum of medical practice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.urologytimes.com/view/what-impact-will-the-ai-revolution-have-on-your-practice",
+      "originalUrl": "https://www.urologytimes.com/view/what-impact-will-the-ai-revolution-have-on-your-practice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/0vv8moc6/urologytimes/0757c66511f9d4fcacf768d0ff1dc3640c3b9757-4800x3000.jpg?fit=crop&auto=format",
+          "width": 4800,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "urologytimes",
+        "domain": "urologytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-1-how-americans-think-about-artificial-intelligence.md",
+      "title": "1. How Americans think about artificial intelligence",
+      "excerpt": "Artificial intelligence (AI) is spreading through society into some of the most important sectors of people’s lives – from health care and legal services",
+      "sourceUrl": null,
+      "webUrl": "https://www.pewresearch.org/internet/2022/03/17/how-americans-think-about-artificial-intelligence/",
+      "originalUrl": "https://www.pewresearch.org/internet/2022/03/17/how-americans-think-about-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/03/PS_2022.03.17_ai-he_01-01.png?w=420",
+          "width": 420,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pew Research Center",
+        "domain": "pewresearch.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-artificial-intelligence-chipsets-market-size-worth-12567-billion-globally-by-2028-at-3408-cagr-verified-market-research.md",
       "title": "Artificial Intelligence Chipsets Market size worth $ 125.67 Billion, Globally, by 2028 at 34.08 % CAGR: Verified Market Research®",
       "excerpt": "Verified Market Research recently published a report, \"Artificial Intelligence Chipsets Market\" By Technology (Natural Language Processing, Machine Learning), By Hardware (Memory, Network),",
@@ -769,6 +899,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-17-human-brain-inspires-design-of-chips-that-can-rewire-themselves.md",
+      "title": "Human Brain Inspires Design of Chips That Can Rewire Themselves",
+      "excerpt": "who created simulations of the experimental data to demonstrate that the internal physics of the hardware creates a dynamic structure for an artificial neural network, they said. The Purdue team built the device—which operates at room temperature--using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics/human-brain-inspires-design-chips-can-rewire-themselves",
+      "originalUrl": "https://www.designnews.com/electronics/human-brain-inspires-design-chips-can-rewire-themselves",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/HumanAI_0.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-enhancing-dlp-with-natural-language-understanding-for-better-email-security.md",
       "title": "Enhancing DLP With Natural Language Understanding for Better Email Security",
       "excerpt": "Natural language understanding is well-suited for scanning enterprise email to detect and filter out spam and other malicious content. Armorblox introduces a data loss prevention service to its email security platform using NLU.",
@@ -895,169 +1068,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-deploying-artificial-intelligence-to-prevent-delayed-and-missed-care.md",
-      "title": "Deploying artificial intelligence to prevent delayed and missed care",
-      "excerpt": "Medical imaging is one of the most widely used diagnostic tools in health care with providers ordering dozens of imaging studies for their patients every day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220316/Deploying-artificial-intelligence-to-prevent-delayed-and-missed-care.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220316/Deploying-artificial-intelligence-to-prevent-delayed-and-missed-care.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220316/Deploying-artificial-intelligence-to-prevent-delayed-and-missed-care.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220316/Deploying-artificial-intelligence-to-prevent-delayed-and-missed-care.aspx",
-      "publishedDateTime": "2022-03-16T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-matlab-expands-to-reach-self-driving-wireless-markets.md",
-      "title": "MATLAB expands to reach self-driving, wireless markets",
-      "excerpt": "MathWorks, maker of the long-standing MATLAB suite, is focusing its latest software updates on reaching beyond its traditional scientific base and eyeing up autonomous vehicle developers, makers of devices with wireless communications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/03/16/matlab_update_markets/",
-      "originalUrl": "https://www.theregister.com/2022/03/16/matlab_update_markets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/03/31/driving.jpg",
-          "width": 1000,
-          "height": 475,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/16/matlab_update_markets/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/16/matlab_update_markets/",
-      "publishedDateTime": "2022-03-16T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-forbes-names-landing-ai-a-top-startup-employer.md",
-      "title": "Forbes Names Landing AI a Top Startup Employer",
-      "excerpt": "Landing AI, which provides software that makes building and deploying AI solutions in manufacturing fast and easy, today announced that it has been recognized by Forbes as one of America’s Best Startup Employers 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-9e2f09776c74103a11aeceacbaf1e95f",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-9e2f09776c74103a11aeceacbaf1e95f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-albuquerque-cybersecurity-firm-acquires-arizona-machine-learning-startup.md",
-      "title": "Albuquerque cybersecurity firm acquires Arizona machine learning startup",
-      "excerpt": "The acquisition adds about 27 people to Cyber Security Works' workforce, and it comes after an expansion into a larger office space in Uptown Albuquerque at the end of last year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/albuquerque/inno/stories/news/2022/03/16/cyber-security-works-acquires-cyr3con.html",
-      "originalUrl": "https://www.bizjournals.com/albuquerque/inno/stories/news/2022/03/16/cyber-security-works-acquires-cyr3con.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud"
-excerpt: "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud GPU flexibility for companies using NVIDIA GPUs in the cloud."
-publishedDateTime: 2022-03-24T19:23:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220324LN03235/runai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any-cloud/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220324LN03235/runai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any-cloud/"
+excerpt: "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud"
+publishedDateTime: 2022-03-24T18:48:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/run-ai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any/article_c12bfba6-0885-5f6c-81de-4366aaa59293.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/run-ai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any/article_c12bfba6-0885-5f6c-81de-4366aaa59293.html"
 type: article
-quality: 42
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI Hardware
+  - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
     width: 600
-    height: 207
+    height: 338
     isCached: true
 
 related:
@@ -189,7 +190,7 @@ related:
   - title: "Inspur Information AI Servers to Fully Support the Newly Announced NVIDIA H100 Tensor Core GPU"
     excerpt: "Inspur Information, a leading IT infrastructure provider, announced its AI servers fully support the new NVIDIA H100 Tensor Core GPU in four- and eight-way configurations. The servers will offer unprecedented computing performance,"
     publishedDateTime: 2022-03-22T17:06:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-f730c71d87f64819813c13d39437358d"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-f730c71d87f64819813c13d39437358d"
     type: article
     provider:
       name: Associated Press
@@ -256,6 +257,6 @@ related:
       domain: morningstar.com
     quality: 22
 
-secured: "uIsnil3s9Z0iKv9s+BlS3QTCFLtLvIAV1WmirY3pJlyUYjWBfKdLkYk3VnW3FLOmAoxdViUPpCW2XvtIRNl90/5w2DUO9u/dydfe5vi3JO86KjtU9sES0rSy7XgQEm/z8lx7+WVSEjzsfJtkJ26t1FmveXrGU7BRlWCgdvG16MYG/iVIFUGxpavbTqe3KajCGJ5GHGovpK1NLA2S7ySc3K2uKhVskm1mnbftqdjp4Rk5KI3wF5oQHQpqBNenkX4zianWoi+cXoUSdxANiTG97IR13wbVgSGZgn4xwpvbf68JzJLlqpyd9KGRxqw7i6hnIKWBEQGwqAKfWD/rbam9DzxNRnH/cEPqR90z7EX8ZHI=;IDe/X78KFNHAj3qNYMD8wg=="
+secured: "hZUsErlC9St1L2Df2LrQv/JjwviN9cWNCCDErGdqtkAD8S80MrOWrI//XxBH6Tb+0MqOUvA6HV6Ym8eEjeiWsDyj0lgsQQa52DhCeli9JgKuwEE0mtXkDaINWu/a+If/bySsuO9DVLHyhpFeFJ3xm9sd6spVXbO2Jl+DOMgYz+MyhXhXj43AyNv42Z3smoR8vtUARZwayh3QyCzguNEmkUcS1VarWv4Ow1yha6QiEaiuasGKdLsN7M+qENwmxc/YrCO0UZritpu2sDkRbfHN0TNXs9C5QV8Pnq0qz2jHoybkhezwdCldc+wyI5CghJWvIMR4NG1xpMou8t5ECOG/oD7I0TgoCqbLQclBm6DE65k=;8oK7MV7p36JQGYW16SvmQA=="
 ---
 

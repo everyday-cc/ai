@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-18-heres-how-americans-view-facial-recognition-and-driverless-cars.md",
+      "title": "Here's how Americans view facial recognition and driverless cars",
+      "excerpt": "The nonpartisan Pew Research Center surveyed more than 10,000 adults and found that their support of artificial intelligence varied, depending on its use. Police use of facial recognition? More people say it's a good idea than not. Driverless cars?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wksu.org/npr-news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars",
+      "originalUrl": "https://www.wksu.org/npr-news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/faab271/2147483647/strip/true/crop/3037x1871+0+204/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F03%2F18%2Fface-recognition.getty-431e74c0b0da8664c4ef6d5a7515f829ae18b917.jpg",
+          "width": 880,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wksu.org/npr-news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars?_amp=true",
+      "cdnAmpWebUrl": "https://www-wksu-org.cdn.ampproject.org/c/s/www.wksu.org/npr-news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars?_amp=true",
+      "publishedDateTime": "2022-03-18T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKSU",
+        "domain": "wksu.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-expertai-takes-top-honors-in-fintech-breakthrough-awards-for-best-use-of-ai-in-fintech.md",
       "title": "Expert.ai Takes Top Honors in FinTech Breakthrough Awards for \"Best Use of AI in FinTech\"",
       "excerpt": "Expert.ai (EXAI:IM), the leader in artificial intelligence (AI) for language understanding, has been named the winner in the 6 th Annual FinTech Breakthrough Awards for \"Best Use of AI in FinTech.\" Attracting nearly 4,",
@@ -33,6 +77,59 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-poll-shows-americans-optimism-toward-ai-and-and-facial-recognitionbut-brain-implants-not-so-much.md",
+      "title": "Poll Shows Americans’ Optimism Toward AI And And Facial Recognition—But Brain Implants? Not So Much",
+      "excerpt": "like chips implanted in the brain and driverless vehicles. Output of an artificial intelligence system from Google Vision, performing facial recognition on a ... [+] photograph of a man ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
+      "originalUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62335e6539b745afd96e9434/0x0.jpg?format=jpg&crop=3421,1924,x0,y172,safe&fit=crop",
+          "width": 3421,
+          "height": 1924,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
+      "publishedDateTime": "2022-03-18T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -857,6 +954,40 @@
       ]
     },
     {
+      "path": "_news/2022-03-17-mathematical-paradoxes-demonstrate-the-limits-of-ai.md",
+      "title": "Mathematical paradoxes demonstrate the limits of AI",
+      "excerpt": "Humans are usually pretty good at recognising when they get things wrong, but artificial intelligence ... paradox shows AI’s limitations. Neural networks, the state of the art tool in AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/946785",
+      "originalUrl": "https://www.eurekalert.org/news-releases/946785",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-designing-ai-ethics-in-practice-and-in-public.md",
       "title": "Designing AI Ethics, in Practice and in Public",
       "excerpt": "Just as the design of user experience for AI and its related technologies are vital concerns for architects and designers, so too are questions about ethics and AI. In this talk, which will kick off the Center’s symposium on Bringing Digitalization Home: How Can Technology Address Housing Challenges?",
@@ -993,136 +1124,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-facebooks-meta-to-build-1b-data-center-for-metaverse.md",
-      "title": "Facebook’s Meta To Build $1B Data Center For Metaverse",
-      "excerpt": "Facebook’s parent Meta is building a $1 billion data center for its metaverse in Spain as well as a Metaverse Innovation Hub.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/data-center/facebook-s-meta-to-build-1b-data-center-for-metaverse",
-      "originalUrl": "https://www.crn.com/news/data-center/facebook-s-meta-to-build-1b-data-center-for-metaverse",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0273-14aff55279f9-2f8a0aca665b-1000/meta_data_center.jpg",
-          "width": 599,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-what-impact-will-the-ai-revolution-have-on-your-practice.md",
-      "title": "What impact will the AI revolution have on your practice?",
-      "excerpt": "Once thought of as a timepoint in the distant future, healthcare has already entered the artificial intelligence era and it will have a transformative impact across the spectrum of medical practice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.urologytimes.com/view/what-impact-will-the-ai-revolution-have-on-your-practice",
-      "originalUrl": "https://www.urologytimes.com/view/what-impact-will-the-ai-revolution-have-on-your-practice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.sanity.io/images/0vv8moc6/urologytimes/0757c66511f9d4fcacf768d0ff1dc3640c3b9757-4800x3000.jpg?fit=crop&auto=format",
-          "width": 4800,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "urologytimes",
-        "domain": "urologytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-1-how-americans-think-about-artificial-intelligence.md",
-      "title": "1. How Americans think about artificial intelligence",
-      "excerpt": "Artificial intelligence (AI) is spreading through society into some of the most important sectors of people’s lives – from health care and legal services",
-      "sourceUrl": null,
-      "webUrl": "https://www.pewresearch.org/internet/2022/03/17/how-americans-think-about-artificial-intelligence/",
-      "originalUrl": "https://www.pewresearch.org/internet/2022/03/17/how-americans-think-about-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/03/PS_2022.03.17_ai-he_01-01.png?w=420",
-          "width": 420,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pew Research Center",
-        "domain": "pewresearch.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-25-top-ai-execs-including-richard-socher-launch-aix-ventures.md",
+      "title": "Top AI execs, including Richard Socher, launch AIX Ventures",
+      "excerpt": "Richard Socher, former Salesforce chief scientist, is among the founding partners of AIX Ventures, a new $50 million AI venture fund.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/24/top-ai-execs-including-richard-socher-launch-aix-ventures/",
+      "originalUrl": "https://venturebeat.com/2022/03/24/top-ai-execs-including-richard-socher-launch-aix-ventures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-886575164.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york.md",
       "title": "Skyline Robotics To Deploy The Ozmo Window-Cleaning Robot In New York",
       "excerpt": "Deep tech robotics and automation company, Skyline Robotics, completes its $6.5M pre-Series A funding round ahead of the planned deployment of the first Ozmo Window-Cleaning Robot in New York City Skyline Robotics,",
@@ -1300,49 +1353,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-10-ambi-robotics-and-pitney-bowes-sign-23-million-expansion.md",
-      "title": "Ambi Robotics and Pitney Bowes sign $23 million expansion",
-      "excerpt": "Ambi Robotics, the creator of the AmbiSort robotic sorting solution, and Pitney Bowes, a global shipping and mailing company, signed a $23 million expansion deal. Pitney Bowes will make the investment over the next four years in Robot as a Service (RaaS) fees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/ambi-robotics-and-pitney-bowes-sign-23-million-expansion/",
-      "originalUrl": "https://www.therobotreport.com/ambi-robotics-and-pitney-bowes-sign-23-million-expansion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/03/featured-web-ambisort.jpg",
-          "width": 700,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-09T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

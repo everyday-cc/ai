@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-11-telemedicine-and-artificial-intelligence-a-pairing-brimming-with-benefits.md",
+      "title": "Telemedicine and artificial intelligence, a pairing brimming with benefits",
+      "excerpt": "This support to be provided by artificial intelligence in the world of healthcare stems from the amount of computer data available, whose management now lies beyond human capacity and which requires new tools to organise and understand them. Chatbots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telefonica.com/en/communication-room/blog/telemedicine-and-artificial-intelligence-a-pairing-brimming-with-benefits/",
+      "originalUrl": "https://www.telefonica.com/en/communication-room/blog/telemedicine-and-artificial-intelligence-a-pairing-brimming-with-benefits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2022/01/pexels-negative-space-48604.jpg",
+          "width": 1200,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telefonica.com/en/communication-room/blog/telemedicine-and-artificial-intelligence-a-pairing-brimming-with-benefits/amp/",
+      "cdnAmpWebUrl": "https://www-telefonica-com.cdn.ampproject.org/c/s/www.telefonica.com/en/communication-room/blog/telemedicine-and-artificial-intelligence-a-pairing-brimming-with-benefits/amp/",
+      "publishedDateTime": "2022-02-11T00:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telefonica",
+        "domain": "telefonica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-atommerce-wants-to-scale-its-mental-health-platform-with-167m-funding.md",
       "title": "Atommerce wants to scale its mental health platform with $16.7M funding",
       "excerpt": "and artificial intelligence interact to address mental illness by adding the AI chatbot service capable of giving therapy just like a human expert. The company’s AI chatbot RONI, which was ...",
@@ -1311,49 +1354,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-artificial-intelligence-startup-rehinged-launches-carenet-ai.md",
-      "title": "Artificial Intelligence Startup, Rehinged, Launches Carenet AI",
-      "excerpt": "Rehinged, Inc announced the launch of Carenet AI, their market intelligence platform specifically built for the healthcare industry.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/artificial-intelligence-startup-rehinged-launches-carenet-ai/",
-      "originalUrl": "https://enterprisetalk.com/news/artificial-intelligence-startup-rehinged-launches-carenet-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/01/Artificial-Intelligence-Startup_-Rehinged_-Launches-Carenet-AI-01.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/artificial-intelligence-startup-rehinged-launches-carenet-ai/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/artificial-intelligence-startup-rehinged-launches-carenet-ai/amp/",
-      "publishedDateTime": "2022-01-27T01:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

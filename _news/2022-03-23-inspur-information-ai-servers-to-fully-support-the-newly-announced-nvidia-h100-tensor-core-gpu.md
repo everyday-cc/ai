@@ -3,8 +3,8 @@ category: news
 title: "Inspur Information AI Servers to Fully Support the Newly Announced NVIDIA H100 Tensor Core GPU"
 excerpt: "Inspur Information, a leading IT infrastructure provider, announced its AI servers fully support the new NVIDIA H100 Tensor Core GPU in four- and eight-way configurations. The servers will offer unprecedented computing performance,"
 publishedDateTime: 2022-03-22T17:06:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-f730c71d87f64819813c13d39437358d"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-f730c71d87f64819813c13d39437358d"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-f730c71d87f64819813c13d39437358d"
+webUrl: "https://apnews.com/press-release/business-wire/technology-f730c71d87f64819813c13d39437358d"
 type: article
 quality: 42
 heat: -1
@@ -172,6 +172,20 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud"
+    excerpt: "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud"
+    publishedDateTime: 2022-03-24T18:48:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/run-ai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any/article_c12bfba6-0885-5f6c-81de-4366aaa59293.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
   - title: "At GTC: NVIDIA Launches Hopper Architecture and 80-billion Transistor GPU for AI Data Centers"
     excerpt: "NVIDIA bolstered its “AI data center” technology with the launch of the Hopper architecture for accelerated computing, delivering what the company said is an order of magnitude performance improvement over its predecessor,"
     publishedDateTime: 2022-03-22T17:24:00Z
@@ -185,20 +199,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
         width: 500
         height: 281
-        isCached: true
-  - title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud"
-    excerpt: "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud GPU flexibility for companies using NVIDIA GPUs in the cloud."
-    publishedDateTime: 2022-03-24T19:23:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220324LN03235/runai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any-cloud/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 42
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
         isCached: true
   - title: "Nvidia reveals new Hopper H100 GPU, with 80 billion transistors"
     excerpt: "Nvidia has announced a new GPU based on its upcoming Hopper architecture. The Hopper architecture replaces Ampere, which has more than $10 billion sales to date. The H100 GPU is the first chip based on Hopper,"
@@ -256,6 +256,6 @@ related:
       domain: morningstar.com
     quality: 22
 
-secured: "lHQ9aJMeVE6ljkf3me5uS9V5KXsBUVyFq0N5BZJbgVdqo0oYJw2yPz73Y0ZsTNE9f59DmO7Yg+/7QizZz0SG/7XP+V50OUVDoa6+ft4ofRbzBd1+0hOb/8u2UqZmijGOIYbAFX0rHY1K1QjWNC1CgOR9djHC2xtNXBmXwVY6in03p6su8bQ64t2aS19UqDku6lbRWtRu6IzDNgRKraGabWckJvkNhcj52lugsYhX7kgqPh4PCE/hutP15g7G+nf44pUv/eyoGFfTf0rqwYtjAid6vnNvKbE5K09gL39P4c/itBTbaDTCCrlQQQqc0+Lcg0jf5D3f4RmXjVOgxobaIau0vin8A+vhbz4WTKqpNmU=;iJ0376+vCJRXeDq3GO5nOw=="
+secured: "kXpRkhnbIela0NoKzsfbaCO6VyBh9ic15acWO73plQ3JHvwMaVeCaaNjDTafVRPutJZkDP14TMTbdog6JvWDjwNLriI8LTk/4fbyyy1cGxh9XH+N8i7FsaXB7XBWm42j4dRyO2M7aqCNMphUqgOvok88ybMtRAjNHmesrHSlshMDtel/df6jjfJiZaP6bcS08g0ZzZOY0pg2IDa7crOczRzh5RuujGdwv3HJMj/T3NFs3jBCPblvcSejB41ZyVyLRmDkEJEuHS1c2sy6p3BbLtqPBijJ6GE2e+/Xsid8bmoPiWEkCNZjYxOrfrYGXC790gM0jNMeRQ4dvIiMQhT7TfkqUGLflrjnskxH5i3j9RU=;ZYvgJArRniP8HDUInyX5dw=="
 ---
 

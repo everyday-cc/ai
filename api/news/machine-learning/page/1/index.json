@@ -98,7 +98,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -139,7 +139,8 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AI in Education"
+        "AI in Education",
+        "AI in Finance"
       ]
     },
     {
@@ -701,6 +702,40 @@
       ]
     },
     {
+      "path": "_news/2022-03-17-mathematical-paradoxes-demonstrate-the-limits-of-ai.md",
+      "title": "Mathematical paradoxes demonstrate the limits of AI",
+      "excerpt": "Humans are usually pretty good at recognising when they get things wrong, but artificial intelligence ... paradox shows AI’s limitations. Neural networks, the state of the art tool in AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/946785",
+      "originalUrl": "https://www.eurekalert.org/news-releases/946785",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-artificial-intelligence-chipsets-market-size-worth-12567-billion-globally-by-2028-at-3408-cagr-verified-market-research.md",
       "title": "Artificial Intelligence Chipsets Market size worth $ 125.67 Billion, Globally, by 2028 at 34.08 % CAGR: Verified Market Research®",
       "excerpt": "Verified Market Research recently published a report, \"Artificial Intelligence Chipsets Market\" By Technology (Natural Language Processing, Machine Learning), By Hardware (Memory, Network),",
@@ -730,6 +765,49 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-human-brain-inspires-design-of-chips-that-can-rewire-themselves.md",
+      "title": "Human Brain Inspires Design of Chips That Can Rewire Themselves",
+      "excerpt": "who created simulations of the experimental data to demonstrate that the internal physics of the hardware creates a dynamic structure for an artificial neural network, they said. The Purdue team built the device—which operates at room temperature--using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics/human-brain-inspires-design-chips-can-rewire-themselves",
+      "originalUrl": "https://www.designnews.com/electronics/human-brain-inspires-design-chips-can-rewire-themselves",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/HumanAI_0.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1240,92 +1318,6 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-enotai-announces-solution-for-optimising-deep-neural-networks.md",
-      "title": "Enot.ai Announces Solution for Optimising Deep Neural Networks",
-      "excerpt": "Enot, an artificial intelligence firm, has announced the creation of a framework dedicated to optimising deep neural networks.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/enot-ai-announces-solution-for-optimising-deep-neural-networks/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/enot-ai-announces-solution-for-optimising-deep-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/03/Enot.ai-Announces-Solution-for-Optimising-Deep-Neural-Networks-01.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/enot-ai-announces-solution-for-optimising-deep-neural-networks/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/enot-ai-announces-solution-for-optimising-deep-neural-networks/amp/",
-      "publishedDateTime": "2022-03-14T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-deep-neural-networks-market-import-export-supply-and-consumption-analysis-by.md",
-      "title": "Deep Neural Networks Market Import-Export, Supply, And Consumption Analysis By",
-      "excerpt": "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to be driven owing to extensive rise in the",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/deep-neural-networks-market-import-export-supply-and-consumption-analysis-by",
-      "originalUrl": "https://www.digitaljournal.com/pr/deep-neural-networks-market-import-export-supply-and-consumption-analysis-by",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -27,17 +27,17 @@ images:
 related:
   - title: "Brex Helps Zesty.ai Scale With $10 Million in Venture Debt"
     excerpt: "This deal marks continued momentum for Brex Venture Debt, which Brex launched in August 2021, as a way to help founders take their business to the next level. It helps growing bus"
-    publishedDateTime: 2022-03-24T18:00:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220324NY02101/brex-helps-zesty-ai-scale-with-10-million-in-venture-debt/"
+    publishedDateTime: 2022-03-24T21:00:00Z
+    webUrl: "https://www.khon2.com/business/press-releases/cision/20220324NY02101/brex-helps-zesty-ai-scale-with-10-million-in-venture-debt/"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 39
+      name: KHON2
+      domain: khon2.com
+    quality: 37
     images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
+      - url: "https://i0.wp.com/www.khon2.com/wp-content/uploads/sites/8/2022/03/660_1743.jpg?w=2000&#038;ssl=1"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "4Hky8VBwfOUgJl9lAlPx7hscaj3jR2ofI3Fv9nQlKV3MJy5ko/Co9hWO+Gn9vfRh8r93iUofjMCt/+sIEBoeT9GZgkLCiyjuxpNOyNJ0/XMLSB808Hz+oAizwW824Gzd+y6mM5gil1v6RRlUNgECT7m1bdBn6ZPX878+J9COoYhccvz4xnAiTcYBFUSaO5J2cJ9dvlxcEkkhXTtbVwyFDiRHhAlRPNKBmCZ7u/lAcBE+dXn78lDtB4cBLV1WYwmee2nhobB3RLhRUF7mXk/zuITT3MVB1hs+ZLuDg5yIwuBiLPTohHp3KTRrd2zhUj0gYGq4ux+Df3U5e71+u0AMdCbzk7o/8iLOZqzHf3rEoIo=;XPFRBRd29v27SvjzDnAH5g=="

@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-24T18:02:00Z
 originalUrl: "https://www.fooddive.com/news/taste-testing-taps-into-the-modernized-speed-of-artificial-intelligence/619872/"
 webUrl: "https://www.fooddive.com/news/taste-testing-taps-into-the-modernized-speed-of-artificial-intelligence/619872/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.fooddive.com/user_media/cache/6c/af/6cafc7b0ad62fa71e243ce9744c6190b.jpg"

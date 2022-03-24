@@ -98,6 +98,60 @@
       ]
     },
     {
+      "path": "_news/2022-03-24-sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research.md",
+      "title": "SAS and Clemson University deploy AI and machine learning software for education and research",
+      "excerpt": "SAS skills among students and supports analysis of massive datasetsCARY, N.C., March 24, 2022 /PRNewswire/ -- Clemson",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1772498/Watt_Center_Clemson.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-delphia-review-portfolio-management-meets-machine-learning.md",
       "title": "Delphia Review: Portfolio Management Meets Machine Learning",
       "excerpt": "Delphia's portfolios are built around algorithms predicting market movements. The price of admission? Your data. Learn more in our Delphia review.",
@@ -1316,58 +1370,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-this-fintechs-hypergrowth-could-last-for-years.md",
-      "title": "This Fintech's Hypergrowth Could Last for Years",
-      "excerpt": "Upstart Auto went live in 2021 after the company acquired Prodigy and married its AI with Prodigy's retail software. It gives automotive dealers a digital sales tool that can instantly get lending decisions from Upstart instead of going back and forth with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/03/02/this-fintechs-hypergrowth-could-last-for-years/",
-      "originalUrl": "https://www.fool.com/investing/2022/03/02/this-fintechs-hypergrowth-could-last-for-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/668280/gettyimages-1319565513-1.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-02T05:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],
