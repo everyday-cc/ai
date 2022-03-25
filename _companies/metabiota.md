@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "metabiota"
   url: "https://twitter.com/metabiota"
-  followers: 1467
+  followers: 1468
 
 locations:
   - San Francisco, CA
