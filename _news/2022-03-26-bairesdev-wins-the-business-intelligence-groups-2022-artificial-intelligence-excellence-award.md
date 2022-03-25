@@ -1,27 +1,26 @@
 ---
 category: news
 title: "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award"
-excerpt: "The Business Intelligence Grouptm today announced that BairesDev, a leading technology solutions company, is a winner in its Artificial Intelligence (AI) Excellence Awards program. The award highlights the company's efforts to build new tools,"
-publishedDateTime: 2022-03-25T17:31:00Z
-originalUrl: "https://www.lelezard.com/en/news-20305538.html"
-webUrl: "https://www.lelezard.com/en/news-20305538.html"
+excerpt: "The award recognizes BairesDev's AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction."
+publishedDateTime: 2022-03-25T17:16:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/bairesdev-wins-the-business-intelligence-groups-2022-artificial-intelligence-excellence-award/article_a885dc25-802d-5147-892b-1aef4a9e37ae.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/bairesdev-wins-the-business-intelligence-groups-2022-artificial-intelligence-excellence-award/article_a885dc25-802d-5147-892b-1aef4a9e37ae.html"
 type: article
-quality: 42
-heat: 42
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -53,34 +52,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "StrikeReady Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "An AI-driven security company, StrikeReady, announced today that it has been named a winner in Business Intelligence Group’s Artificial Intelligence Excellence Awards program for Natural Language Processing."
-    publishedDateTime: 2022-03-22T13:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-palo-alto-67e42c2f991943e1b60ada79992b4bf1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Qlik’s Elif Tutuk Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that Elif Tutuk, Vice President of Innovation and Design at Qlik®, was named a winner in its"
-    publishedDateTime: 2022-03-24T12:31:00Z
-    webUrl: "https://www.kentuckytoday.com/news/business/qlik-s-elif-tutuk-named-winner-in-2022-artificial-intelligence-excellence-awards/article_ffd0e99d-89bd-5ce3-b8d9-e08e8628db8e.html"
-    type: article
-    provider:
-      name: Kentucky Today
-      domain: kentuckytoday.com
-    quality: 34
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Chillax Care Limited Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "The Business Intelligence Group today announced that Chillax Care Limited was named a winner in its Artificial Intelligence Excellence Awards program. With a decade of experience in the baby and consumer electronics industry,"
     publishedDateTime: 2022-03-22T16:21:00Z
@@ -95,21 +66,7 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,"
-    publishedDateTime: 2022-03-22T12:42:00Z
-    webUrl: "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 30
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/2f/c2fe3e5e-68b4-11ec-b5b1-eb6d367dec1b/61cc72a6c74a5.image.jpg"
-        width: 320
-        height: 325
-        isCached: true
 
-secured: "pJnFEKQQ9hoBMcgD8eaLD9YbH9qRf/OGI4w52yH9dzN1eXZj4osaTOc5FsjWl6PmPFA8AbMIM4YHPcsoBysdyoA17V/U44IL1EVg/GcjBeR5aism3tcXRzlA//qrBUzqxXP3ZCApRMQw9XjsBQPZyPfAQzLaz4o1ULGkbzamdayxxGDcqqjvplEgPnJpkE51RAw+RAJtCgPbYGdHOgSF8M1qPgLUxfvD/VlZXTlXfxcN2w5HPiXIDjzQlFNwA4rqCV7SDkREI8dOv4YmoLpp0qpdjSSAIcegc+LpFgJ1sCXBkvLgOrIxLl02ATjkYDtKK9CLFB4flkrSICGe54QAtCrrYNI4dDnzKJgTvUx5JvU=;ADPSGnDVnW6uXgqQnwkUSw=="
+secured: "zVe+mtSR9c0el0dDETX7FIlhTTeiLytkdwpC+c8bmVnOpebOC/FhxKhN99MlmGr6aK1gmp5iI6LZRJI8S6W+GUFn2iekXn0qAiYS2hZfHpC+JDUrIFL3ACiJEwZwNVFGHygsFNwFb2r7NB6l99l+SwsTxUb3mpFuBXDNTU78afix3z6Sds3oML5Pk9TtB7U9j6RFAyOZx7qrjSRttx9OHIe7vt7R11NHhTKPVCVR6ceMBgwXPFkYeJVZwyiRg6XbRAeU+k3PAL4oaRPzlfRR7/euaXpD+Fe0JE1STXuO7dHy/qMpGC15xHcVp9b8R8QF8/ugrOgU2M8qSbUSu+KaHyzgBLFAP5N8EObWan75BeQ=;4sDuGV6sj8G7jMDzVOfTOQ=="
 ---
 

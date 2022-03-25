@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/03/24/democratization-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/24/democratization-of-ai-is-said-to-be-essential-for-ai-ethics-but-the-devil-is-in-the-details-including-the-case-of-ai-based-self-driving-cars/amp/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 770
         height: 364
         isCached: true
+  - title: "AI-driven Decision Making in Startup Investing"
+    excerpt: "Bringing AI-driven decision making to startup investing is a hotly-debated topic. Conversations quickly turn to startup investing being an artisan trade that AI can’t capture the nuance of, and concerns are raised that algorithms will exacerbate known biases in the system."
+    publishedDateTime: 2022-03-25T12:43:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-driven-decision-making-startup-investing-guy-conway"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 17
 
 secured: "9OZ9wgAERcNgRvBvYSg40gI/b2flXm6aL6CtUKiVTeFoPX2FQNB65NUoMj9BrqEn6BY2h8hS3FLpJr7X1nA8wo3ETwa9352QGNte5MNvh3ZeUfRXFlaMV2laSwXCBIgUJq8HJRkEF1ql0iXhlbdjbOdNGusCnrPsSRz5a/WVs1ilWbgbc1uVlBLAQzahThN2JL+8YXoPidOb4RFy9MMmV7B2dqw93Cts8P73KLkHwoJwcEDftypoVsI/ynLj4ICg1khYvbnHAnWFjyRgnOxQ6+aYzJaVYYQDH1tVVpQQA4UMOPTEIivHdmiVK27CPKxtD9CG+q+BAbhPm95qF7qQ6wToIwIm5evrw4T/RnP9iHXdPQ4UtihpS0G1P8a2aAK8/JJDB87D15gujbjPoYvyG39tN75iJ2vMi63wCz0fw9aawJcO9lgsf8CStoeIp6JTzfKa9fuRTLns6SgPX1atVYBaZVpRVxt8DL6lwOnS125PegM2YMMpxZ8378b4gm3GMB4keAnkp8eozb0vkmwiig==;m4+Q+D4Zbzeb1aJI2Z/8jw=="
 ---

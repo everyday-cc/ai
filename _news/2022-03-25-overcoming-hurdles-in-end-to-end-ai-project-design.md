@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tableau/2022/03/25/overcoming-hurdles-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tableau/2022/03/25/overcoming-hurdles-in-end-to-end-ai-project-design/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

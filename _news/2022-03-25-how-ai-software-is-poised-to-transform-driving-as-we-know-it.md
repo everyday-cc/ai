@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google developing AI smartphone healthcare tools"
+    excerpt: "Google Health introduced new research projects that would use artificial intelligence to turn smartphones into stethoscopes and other at-home AI disease screening tools, according to a March 24 blog post."
+    publishedDateTime: 2022-03-25T17:47:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/google-developing-ai-smartphone-healthcare-tools.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "How one of the world’s largest wind companies is using AI to capture more energy"
     excerpt: "Future generations continued to expand on Hansen’s openness to change, evolving to building hydraulic cranes, and ultimately, in 1987, becoming Vestas Wind Systems, one of the largest wind turbine manufacturers in the world."
     publishedDateTime: 2022-03-24T08:54:00Z

@@ -41,6 +41,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Artificial Intelligence: NIST Risk Management Framework and Guidance Addressing Bias in AI"
+    excerpt: "As more and more companies are developing and/or utilizing artificial intelligence (AI), it is important to consider risk management and best practices to address issues like bias in AI. The National"
+    publishedDateTime: 2022-03-25T18:38:00Z
+    webUrl: "https://www.natlawreview.com/article/artificial-intelligence-nist-risk-management-framework-and-guidance-addressing-bias"
+    ampWebUrl: "https://www.natlawreview.com/article/artificial-intelligence-nist-risk-management-framework-and-guidance-addressing-bias?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-nist-risk-management-framework-and-guidance-addressing-bias?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 62
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "Ethics in AI: Why your organization needs a set of principles"
     excerpt: "Artificial intelligence has evolved by leaps and bounds in recent years. Artificial intelligence can create previously unimaginable solutions."
     publishedDateTime: 2022-03-24T10:53:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-improves-translat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/"
 type: article
 quality: 117
-heat: 267
+heat: 277
 published: true
 
 provider:
@@ -211,6 +211,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/03/IonQ-Aria-Quantum-computer.jpg"
         width: 700
         height: 477
+        isCached: true
+  - title: "Baker Hughes Expanding Industrial Cloud-based Solutions with Microsoft, C3.ai"
+    excerpt: "Oilfield services (OFS) giant Baker Hughes Co. is partnering with Microsoft Corp., as well as C3.ai Inc. and Accenture plc, to deploy industrial asset"
+    publishedDateTime: 2022-03-25T19:15:00Z
+    webUrl: "https://www.naturalgasintel.com/baker-hughes-expanding-industrial-cloud-based-solutions-with-microsoft-c3-ai/"
+    type: article
+    provider:
+      name: Natural Gas Intel
+      domain: naturalgasintel.com
+    quality: 51
+    images:
+      - url: "https://www.naturalgasintel.com/wp-content/uploads/2022/03/Microsoft-Corp-20220324.jpg"
+        width: 612
+        height: 612
         isCached: true
   - title: "IonQ Aria, Newest Quantum Computer, Coming to Microsoft’s Azure Quantum Platform"
     excerpt: "IonQ and Microsoft have partnered to bring the IonQ Aria system to Azure QuantumIndustry’s most powerful quantum computer enters expanded commercial serviceCOLLEGE PARK, Md.--(BUSINESS WIRE)--IonQ (NYSE: IONQ),"

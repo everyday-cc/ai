@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google developing AI smartphone healthcare tools"
+    excerpt: "Google Health introduced new research projects that would use artificial intelligence to turn smartphones into stethoscopes and other at-home AI disease screening tools, according to a March 24 blog post."
+    publishedDateTime: 2022-03-25T17:47:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/google-developing-ai-smartphone-healthcare-tools.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Enter to save on the latest Discover Samsung deals"
     excerpt: "Check out the latest deals available during Samsung Discover, where you will find the Samsung Galaxy S22 Ultra and other great products on sale"
     publishedDateTime: 2022-03-24T16:46:00Z

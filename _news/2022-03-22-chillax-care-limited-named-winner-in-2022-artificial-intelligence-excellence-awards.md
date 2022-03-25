@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award"
-    excerpt: "The Business Intelligence Grouptm today announced that BairesDev, a leading technology solutions company, is a winner in its Artificial Intelligence (AI) Excellence Awards program. The award highlights the company's efforts to build new tools,"
-    publishedDateTime: 2022-03-25T17:31:00Z
-    webUrl: "https://www.lelezard.com/en/news-20305538.html"
+    excerpt: "The award recognizes BairesDev's AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction."
+    publishedDateTime: 2022-03-25T17:16:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/bairesdev-wins-the-business-intelligence-groups-2022-artificial-intelligence-excellence-award/article_a885dc25-802d-5147-892b-1aef4a9e37ae.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 42
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 40
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
   - title: "Lirio Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "Lirio, whose Precision Nudging™ solution promotes health through AI-powered behavior change, today announced that it has been recognized by Business Intelligence Group as an AI Excellence Award winner for 2022."
@@ -66,48 +66,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "StrikeReady Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "An AI-driven security company, StrikeReady, announced today that it has been named a winner in Business Intelligence Group’s Artificial Intelligence Excellence Awards program for Natural Language Processing."
-    publishedDateTime: 2022-03-22T13:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-palo-alto-67e42c2f991943e1b60ada79992b4bf1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Qlik’s Elif Tutuk Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that Elif Tutuk, Vice President of Innovation and Design at Qlik®, was named a winner in its"
-    publishedDateTime: 2022-03-24T12:31:00Z
-    webUrl: "https://www.kentuckytoday.com/news/business/qlik-s-elif-tutuk-named-winner-in-2022-artificial-intelligence-excellence-awards/article_ffd0e99d-89bd-5ce3-b8d9-e08e8628db8e.html"
-    type: article
-    provider:
-      name: Kentucky Today
-      domain: kentuckytoday.com
-    quality: 34
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,"
-    publishedDateTime: 2022-03-22T12:42:00Z
-    webUrl: "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 30
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/2f/c2fe3e5e-68b4-11ec-b5b1-eb6d367dec1b/61cc72a6c74a5.image.jpg"
-        width: 320
-        height: 325
         isCached: true
 
 secured: "wEpT8pNohR1I8PEzMBjIQD9/AdRzBIqCcsVae4CfsfnbeaCAmMc24HO79qSD9h8hG2X4A8QM7iKK001UfgN1SYLYG0o8ksSon9IZ7WwRfLKhC82VHD0N7gOlJd+CAo7D/nDEFfG6EZ2RhpIvMhHwRdvNQnctuopz25AWWHt/h6BLFo/18d3CSd3rTvYzyMV1ehKiAHncn4Nd1sG03QK5J3FAB9JJcPloOKFa4M/wNxQvPnleSdRbGCTSmD9LcNtAbNu494gOc3UCpduCaFLLfoP00l2c3xiZc9FWPxggD75FqrR2xwqJJ/68hd0WZe+hoKzlBxL1oDGe3jpEznELoogS5V/Hdq14r9O2JmcDz0k=;lj5yGXI0pWJYggUR5ZS/aA=="

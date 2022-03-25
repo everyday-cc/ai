@@ -3,8 +3,8 @@ category: news
 title: "AWS is hungry for a bigger slice of the video game pie"
 excerpt: "Cloud adoption has transformed the way games are built, distributed, and played,” said Bill Vass, Vice President, AWS Engineering. “Game developers continue to accelerate t"
 publishedDateTime: 2022-03-25T17:07:00Z
-originalUrl: "https://www.techradar.com/sg/news/aws-is-hungry-for-a-bigger-slice-of-the-video-game-pie"
-webUrl: "https://www.techradar.com/sg/news/aws-is-hungry-for-a-bigger-slice-of-the-video-game-pie"
+originalUrl: "https://www.techradar.com/uk/news/aws-is-hungry-for-a-bigger-slice-of-the-video-game-pie"
+webUrl: "https://www.techradar.com/uk/news/aws-is-hungry-for-a-bigger-slice-of-the-video-game-pie"
 type: article
 quality: 69
 heat: 69
@@ -28,6 +28,6 @@ images:
     height: 545
     isCached: true
 
-secured: "S3y0naioiO0pwaDeMvJ74oN35TKS/TUD9bgSOFXQikgdR0NPstma+P2PZ1GSwuWwTOrf4D9ILKhIIao84GTs77QDUmqZnqaH8UhwgWEEV4hFrM3zS6GVnwzAr9RjDn4NAlL606T+oDLUdUHAqlDoQddbKD4IobVnbTrhd/PXfG9afh1PQiTMQfgW1egJaiYTtQq0f064OJiks+GLxzuoC/Z0PJSR+vpax0n84LBT+99SxeyGIOm8AocAbxTCPzlWjKMF6px7Ux8h/V17qN0Qp1Wkf4oTE19lAOCJ6lwUzsmlXuq4bJg3RSqaMa5sKz2VtZ4xvrVu3BIdueyUgNg95rRrNDBez1sPe8hY/4xtWYY=;YeEpXJjgIdLKG0E2Sw4AJw=="
+secured: "yKH93hMlmZdjXH53ne5iRtqWoMWHGHwJvM2+r6EuV01+uw+VPCtp6FzoCUzkOKFds7IqhIOfsQO0wDppMIxxwGjCU/i6116fnzkKDl0y97OYAclcMPrUkJUzzrn8wrvCGpLMiF9FB0yO+SLlmY4r24mxOmbfa+rXkbuJrXOvlj4GyPs+iij2U4/wQ7J+ZK8IGzb7ln7DypRz/gVv46pqSbA3vBEJngEeYmKGhfrBk9ppmkuc3uoGCQuiseGYtIkJHCEZft6xcfnf+ovXTkW30a0ViKpuomNuH58VX+C2sXvNrke2Vyod33brd1Ykjhr8jKMJbXjlN78R8NQGq3itVJGj6ETsl4/34lWsD66UcCc=;EGgCYJNekjnwqfj/g+kMQw=="
 ---
 

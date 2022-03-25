@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trus
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence: NIST Risk Management Framework and Guidance Addressing Bias in AI"
+    excerpt: "As more and more companies are developing and/or utilizing artificial intelligence (AI), it is important to consider risk management and best practices to address issues like bias in AI. The National"
+    publishedDateTime: 2022-03-25T18:38:00Z
+    webUrl: "https://www.natlawreview.com/article/artificial-intelligence-nist-risk-management-framework-and-guidance-addressing-bias"
+    ampWebUrl: "https://www.natlawreview.com/article/artificial-intelligence-nist-risk-management-framework-and-guidance-addressing-bias?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-nist-risk-management-framework-and-guidance-addressing-bias?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 62
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "Ethics and AI: 3 Conversations Companies Need to Have"
     excerpt: "While concerns about AI and ethical violations have become common in companies, turning these anxieties into actionable conversations can be tough. With the complexities of machine learning, ethics, and of their points of intersection,"
     publishedDateTime: 2022-03-21T12:55:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp"
 type: article
 quality: 100
-heat: 230
+heat: 240
 published: true
 
 provider:
@@ -212,6 +212,15 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "Does facial recognition tech in Ukraine’s war bring killer robots nearer?"
+    excerpt: "The US company Clearview AI has offered the Ukrainian military free use of its controversial facial recognition technology. Reuters reports that “the U.S. startup offered to uncover Russian assailants,"
+    publishedDateTime: 2022-03-25T18:48:00Z
+    webUrl: "https://www.opendemocracy.net/en/technology-and-democracy/facial-recognition-ukraine-war-killer-robot-autonomous-military-ai/"
+    type: article
+    provider:
+      name: openDemocracy
+      domain: opendemocracy.net
+    quality: 50
   - title: "The Download: Ukraine claims it’s using facial recognition to identify dead Russian soldiers"
     excerpt: "Ukraine has started using facial recognition technology to identify dead Russian soldiers, a senior government official has claimed. Mykhailo Fedorov, vice prime minister of Ukraine and minister of digital transformation,"
     publishedDateTime: 2022-03-24T14:48:00Z

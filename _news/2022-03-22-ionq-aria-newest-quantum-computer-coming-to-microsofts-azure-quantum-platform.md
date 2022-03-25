@@ -221,6 +221,20 @@ related:
         width: 700
         height: 477
         isCached: true
+  - title: "Baker Hughes Expanding Industrial Cloud-based Solutions with Microsoft, C3.ai"
+    excerpt: "Oilfield services (OFS) giant Baker Hughes Co. is partnering with Microsoft Corp., as well as C3.ai Inc. and Accenture plc, to deploy industrial asset"
+    publishedDateTime: 2022-03-25T19:15:00Z
+    webUrl: "https://www.naturalgasintel.com/baker-hughes-expanding-industrial-cloud-based-solutions-with-microsoft-c3-ai/"
+    type: article
+    provider:
+      name: Natural Gas Intel
+      domain: naturalgasintel.com
+    quality: 51
+    images:
+      - url: "https://www.naturalgasintel.com/wp-content/uploads/2022/03/Microsoft-Corp-20220324.jpg"
+        width: 612
+        height: 612
+        isCached: true
   - title: "IonQ Aria Coming to Microsoft’s Azure Quantum Platform"
     excerpt: "Quantum computing company IonQ today announced it has signed an agreement with Microsoft to bring IonQ Aria, the company’s latest quantum system, to the Azure Quantum cloud platform. IonQ said the IonQ Aria is its most advanced commercially available quantum computer."
     publishedDateTime: 2022-03-21T17:13:00Z

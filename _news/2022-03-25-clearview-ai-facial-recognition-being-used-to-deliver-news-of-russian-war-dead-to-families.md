@@ -55,6 +55,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
+    excerpt: "Clearview AI’s database now features more than 20 billion facial images. Clearview 2.0 offers new compliance and investigation management tools for law enforcement agencies."
+    publishedDateTime: 2022-03-25T19:26:00Z
+    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/press-release/21261824/clearview-ai-clearview-ai-releases-20-version-of-industry-leading-facial-recognition-platform-for-law-enforcement"
+    type: article
+    provider:
+      name: Officer
+      domain: officer.com
+    quality: 39
+    images:
+      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2022/03/Clearview_AI_Logo.623e145e8f239.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "UpSCLMWrsGAOVT1znMhUlvIsjkOsc7a/mfsv9V58D40g2NojZxPflSbB2wIM7bhRUi6PG9p9YEh8aDHrzUAxCfogEbd3a96UfiYjhUBN6HXfOiaOX6bzJDBBSOWoVCEXdJEevDIfGVY9/93dtTxmi8OB/ddnEE4yHwbQCF9h/ImJeZP1OVHClesHP7cGao11JMcYIHX8g4eLbHfrLoBirBNCbWh97QAinabJ96buKEi+lJMMo8+siTvuinyqGgO5Br2XavAJxX+e22gYHyG6HzQi2WldCkofMI2LdAuTRGGKpbb9v72zRkBa+jdeDPsCWo8I4wKrdv/cV+JoSCQEf3QatnFH98lBV3ipMN+47ixcP1clCTGrjBduCnYPnqo4OnSPwF/cbwL7e8c5arOBYpyduVdpqg3fFklFWPYZnsamGV9XaLTDfqGcQ3NQcFI/KUM0p3J1NHhmDI1Yb0H11Ir5I9NQzd54jgtQVtqgXGyxerJLLRFye6oiyb+OkJ+dTqpVuKOjVguXhJNAkPWR5w==;JyiopwvLvz7FX8bWMwytJQ=="
 ---
