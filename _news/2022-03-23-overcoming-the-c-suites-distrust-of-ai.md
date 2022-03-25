@@ -70,6 +70,22 @@ related:
         width: 750
         height: 468
         isCached: true
+  - title: "Artificial Intelligence key to unlock the future - Dr Kpodar"
+    excerpt: "Artificial Intelligence AI use of simulation of human intelligence in machines that are programmed to think like humans and mimic their actions has assumed national discourse and Ghana must prepare to launch in that space."
+    publishedDateTime: 2022-03-25T20:54:00Z
+    webUrl: "https://www.modernghana.com/news/1147718/artificial-intelligence-key-to-unlock-the-future.html"
+    ampWebUrl: "https://www.modernghana.com/amp/news/1147718/artificial-intelligence-key-to-unlock-the-future.html"
+    cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1147718/artificial-intelligence-key-to-unlock-the-future.html"
+    type: article
+    provider:
+      name: Modernghana.com
+      domain: modernghana.com
+    quality: 57
+    images:
+      - url: "https://cdn.modernghana.com/images/content/325202293401-i4dp266gfa-picture-i-tma001-science-artificial-intelligence-.jpg"
+        width: 800
+        height: 296
+        isCached: true
   - title: "Do you think AI will be a psychologist for humans in the future?"
     excerpt: "Artificial intelligence (AI) is influencing the future of numerous sectors, including psychology. Will AI, on the other hand, completely replace psychologists? Will AI help psychologists and their patients come up with long-term,"
     publishedDateTime: 2022-03-23T07:38:00Z
@@ -84,34 +100,6 @@ related:
         width: 1280
         height: 630
         isCached: true
-  - title: "Transparency is key to encourage wider adoption of artificial intelligence"
-    excerpt: "In this Q&A, Jeffrey Sullivan, chief technology officer for Consensus Cloud Solutions, shares how artificial intelligence is positively impacting the healthcare industry, how leaders should integrate AI solutions and what to look for in a partner."
-    publishedDateTime: 2022-03-21T05:01:00Z
-    webUrl: "https://www.modernhealthcare.com/technology/transparency-key-encourage-wider-adoption-artificial-intelligence"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 37
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/1200x630/public/Jeffrey%20Sullivan%20img-leader-04%402x-600x424.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
-    excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),"
-    publishedDateTime: 2022-03-23T10:10:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Back to the future: driverless cars become reality"
     excerpt: "One industry insider said the relaxed rules in US states including California and Nevada, which was the first to allow driverless cars on its roads in 2011, has also played an important role in propelling the growth of domestic players."
     publishedDateTime: 2022-03-22T19:10:00Z
@@ -121,6 +109,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
+  - title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
+    excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),"
+    publishedDateTime: 2022-03-23T10:05:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 14
 
 secured: "1gV78y4Npvzi5GZV5kfXnpzfdfwgcPZB4z7rIaApaM2hs4wPwUTaJJC2PhQrhJDBsuiBM7eTOZt35gfr2XOlcdg6PRw9HNLpB+3N1SbwYwgNdE2ZkIXt+QtrnGoO7+KkQNeqS5eb45659qfKA13c8PbvGWn+77w9CGukcjQH3ftGR3ZRIQ6I0EkcPm2/j+OPgPC1pgenvpcdfRl9aJxUTZbr2PYvjRBf+WavdQ6u4fxVT/pI6QPz99gDQ2fPBYVDpx5iatcBXggHGYcW/r51Gv2jxsexm9PiswCGEHszYuhStGZQxPHryib2c1tDwIkRLVLrhkm8ovWLeKUNs4PA2e0KNLO0lKaSzmsNboduwwJwjqpyi01n7+JHo8ybDWM1iwbs+Tb/7CbgT/+OwSk5CSR0O9671iGT+swk9FvfmpkWabClqUmpAXkIHoJMxGLVwrIFrJdXzF7k9elGykaPtTt85Yo72HgxgghxhJVS11BJPpogstLrsrpJl/GKALxiYoLWeBlY5id4uS014zjsUg==;2gBCH0QCeJw/+tN8WQQaUg=="
 ---

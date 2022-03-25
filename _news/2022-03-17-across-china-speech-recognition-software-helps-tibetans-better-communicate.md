@@ -2,9 +2,9 @@
 category: news
 title: "Across China: Speech recognition software helps Tibetans better communicate"
 excerpt: "What helped them conquer the language barrier is a speech recognition app on the smartphone that can convert the three main Tibetan dialects -- U-Tsang, Amdo, Kamba -- to texts and translate them into Chinese."
-publishedDateTime: 2022-03-17T06:45:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202203/17/WS6232d8f8a310fd2b29e51891.html"
-webUrl: "https://www.chinadaily.com.cn/a/202203/17/WS6232d8f8a310fd2b29e51891.html"
+publishedDateTime: 2022-03-17T07:23:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202203/17/WS6232d8f8a310fd2b29e51891.html"
+webUrl: "https://global.chinadaily.com.cn/a/202203/17/WS6232d8f8a310fd2b29e51891.html"
 type: article
 
 provider:
@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://img2.chinadaily.com.cn/images/202203/17/6232ae8ba310fd2bec7bcccf.jpeg"
-    width: 720
-    height: 480
+  - url: "https://global.chinadaily.com.cn/images/202203/25/623d95e6a310fd2bec7e6ada.jpeg"
+    width: 719
+    height: 479
     isCached: true
 
-secured: "amEZ7mbJG8PfCYZBddzE5CUQZcaL9xleRLZrw/d3wMbtvIGbHKs1/t/7JihSYbYvaNzcy+T16AqH0Gootr0OicdUVB+tVZepgkSxi+/D4z9OQnNd0xS/pBqjH9xs/nmSZG1XycGDKA9N060I/0qrHaqUSdWdsDYQIC2vYV0t96L3aTwe5UVA/cUPbbCJJLDv/Sa/Z+pzg/JDZiluM+kE+WFz5AfGVvGUiIHmkNUCDCZuDPGegUKniJd84z9U3RQQqm7VSpU4gz2x0DGcEBzRl7gSU7fOjj0HX370f9w0CfdQCHgUFsBrKYnhwdwVE8xz+C0zgGrW1uWOxtHzu1qW4/sg1RbrzlyCAcP493fqe5aJUvFKxepb9NDoRzeivMBioK8mbFCR1cgCRvKWM5lyR/BoxEJf6bGoRwFKCBIho/nKhsK2lEFyVC33yZivZcRwygEpeh2+0GtHI87DdBFbZvIYqZnniXHGdzqnTEdex4E2eCiRZu2rO3UL/ZPdMoKNBOlzOU36jYE2eRF0Ow2mvw==;nIPJZi1wbQMCb0L/CQ8hMw=="
+secured: "RQMpT1efGYukv/eYJ9vqA9esGoUWYcKZ4J4n/Mnv6X+fjdwtZ4xZBHMiZCprg7SPH4aAb2eLaFcRZ3OBd8pTGm3TUl35uGvIBkEDky7wF95NO5I9qwiT3r8DeE/8vafSoBYW7PsOtRSC4eZ4qawXafAl2XrBQpxM/hCW6aQdnGAif/o/OWVoEUgIZbhVXRYr8jFgTXHWieUTLkGviAWN+dZSO0HzNPZz0CUQXBtAD2QHrO8it9dTpCzqCt9RTB0BKGgvdpKY6LpB7FhrjZWYAXwfuLwAw4cLj1tyfEB1zD5bBlSzMyoxJE/A81MTUMv+4218Fo7VCRhm23LwcGZnYPd68341BJO0RmXkomoKx0Q=;S0mNKZ6ext2FL1rsvXPcxg=="
 ---
 

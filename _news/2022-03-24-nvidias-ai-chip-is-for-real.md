@@ -150,6 +150,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Nvidia Embraces The CPU World With “Grace” Arm Server Chip"
+    excerpt: "Within a year or so, with the launch of the “Grace” Arm server CPUs, it will not be heresy for anyone at Nvidia to believe, or to say out loud, that not"
+    publishedDateTime: 2022-03-25T19:23:00Z
+    webUrl: "https://www.nextplatform.com/2022/03/25/nvidias-grace-arm-server-chip-is-a-game-changer/"
+    ampWebUrl: "https://www.nextplatform.com/2022/03/25/nvidias-grace-arm-server-chip-is-a-game-changer/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/25/nvidias-grace-arm-server-chip-is-a-game-changer/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-grace-hopper-package-logo.jpg"
+        width: 680
+        height: 391
+        isCached: true
   - title: "Nvidia Bolsters Edge AI and Autonomous Robots at GTC 2022"
     excerpt: "Amid the flood of news coming out of Nvidia’s GPU Technology Conference (GTC) today were  pair of announcements aimed at accelerating the development of"
     publishedDateTime: 2022-03-22T18:29:00Z

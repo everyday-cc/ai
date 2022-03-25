@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleash
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech/amp/"
 type: article
 quality: 123
-heat: 333
+heat: 343
 published: true
 
 provider:
@@ -135,6 +135,22 @@ related:
       - url: "https://regmedia.co.uk/2022/03/23/nvidia_dgx_superpod_h100.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Nvidia Embraces The CPU World With “Grace” Arm Server Chip"
+    excerpt: "Within a year or so, with the launch of the “Grace” Arm server CPUs, it will not be heresy for anyone at Nvidia to believe, or to say out loud, that not"
+    publishedDateTime: 2022-03-25T19:23:00Z
+    webUrl: "https://www.nextplatform.com/2022/03/25/nvidias-grace-arm-server-chip-is-a-game-changer/"
+    ampWebUrl: "https://www.nextplatform.com/2022/03/25/nvidias-grace-arm-server-chip-is-a-game-changer/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/25/nvidias-grace-arm-server-chip-is-a-game-changer/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-grace-hopper-package-logo.jpg"
+        width: 680
+        height: 391
         isCached: true
   - title: "Nvidia's AI Chip is for Real"
     excerpt: "Nvidia's Omniverse is taking industrial collaboration into the Cloud Nvidia recently had its conference, so this will be a bit about that. This will be short, and I must congratulate what Nvidia has become in the last few years."

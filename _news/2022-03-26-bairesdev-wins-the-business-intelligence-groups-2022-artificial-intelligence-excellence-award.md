@@ -1,26 +1,26 @@
 ---
 category: news
-title: "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award"
-excerpt: "The award recognizes BairesDev's AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction."
-publishedDateTime: 2022-03-25T17:16:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/bairesdev-wins-the-business-intelligence-groups-2022-artificial-intelligence-excellence-award/article_a885dc25-802d-5147-892b-1aef4a9e37ae.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/bairesdev-wins-the-business-intelligence-groups-2022-artificial-intelligence-excellence-award/article_a885dc25-802d-5147-892b-1aef4a9e37ae.html"
+title: "BairesDev wins the Business Intelligence Group’s 2022 Artificial Intelligence Excellence Award"
+excerpt: "The award recognizes BairesDev’s AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
+publishedDateTime: 2022-03-25T17:18:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
 type: article
 quality: 40
 heat: 40
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -66,7 +66,16 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
+    excerpt: "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program."
+    publishedDateTime: 2022-03-25T20:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-echonous-wins-2022-artificial-intelligence-excellence-award-/2022/03/25/9571047.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
-secured: "zVe+mtSR9c0el0dDETX7FIlhTTeiLytkdwpC+c8bmVnOpebOC/FhxKhN99MlmGr6aK1gmp5iI6LZRJI8S6W+GUFn2iekXn0qAiYS2hZfHpC+JDUrIFL3ACiJEwZwNVFGHygsFNwFb2r7NB6l99l+SwsTxUb3mpFuBXDNTU78afix3z6Sds3oML5Pk9TtB7U9j6RFAyOZx7qrjSRttx9OHIe7vt7R11NHhTKPVCVR6ceMBgwXPFkYeJVZwyiRg6XbRAeU+k3PAL4oaRPzlfRR7/euaXpD+Fe0JE1STXuO7dHy/qMpGC15xHcVp9b8R8QF8/ugrOgU2M8qSbUSu+KaHyzgBLFAP5N8EObWan75BeQ=;4sDuGV6sj8G7jMDzVOfTOQ=="
+secured: "9pV7TmHRSDREmOUvgn+k6bBJv8xdmIIlTgyhAhtmPvW95mxsC8+mRLX2mRXxfXZpSmEZe17aTefx31Uwp74sN1fiotVFOxao7ILUvXODbYfxv+n+O1eufXr8TX3py0tVF6b2OqeB3gopitAhUSwM2r/nCNXqntZL1VIxt4qZYlQvVt4ULAX4sviKizQDxJqX7eixdyNdSijRymejehZOEbBf1nJ/xRxeSHpUU3tHx9wsUxIM06waBvMl/TjQXZrtzI6f7AP7DHGkuAJNM07cJ7KaPMhpJJm4d0CuVyYjWz91yx2v3dIpUJLgyxGp4S9ZzI1SZTtl653ZvsYCRyQobI3nFAoGlBE/SB25tZOpd70=;rDYhMjkncf81LLVpJLcSCA=="
 ---
 

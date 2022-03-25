@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-samsung-is-using-ai-sof
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/"
 type: article
 quality: 88
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -86,6 +86,15 @@ related:
       name: pocketnow.com
       domain: pocketnow.com
     quality: 24
+  - title: "Take advantage of the latest deals available during Discover Samsung Week"
+    excerpt: "Check out the latest deals available during Discover Samsung Week, where you will find Samsung's Class Q60A QLED 4K Smart TV and other great products on sale"
+    publishedDateTime: 2022-03-22T15:52:00Z
+    webUrl: "https://pocketnow.com/take-advantage-latest-deals-available-during-discover-samsung-week"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 18
 
 secured: "GuoKChschNzJSz1QRm7+jHD5zzhZgwUupcZ6Q8C1anpjJzluBC0wSCNt8bkJ2ZwydwsGcBGRIRf+aar/DAbQOWVTO8nhoG2zn93vV+UXkib+Y/5LWjRNKedFXcnRII/S7uNWAKFDE5w18TxUe/hYLHAJEyzxqvQxlZEmYmpyagcHHAoXuRlGmkqomkCoSi9W6XAo5crksbtgsHTvgQK0rj7sF7CxbdE0Osj6oYfyTD3TUvtSUi/VmslngUZ5jXp/iQToVbH1eToqFiEB/SkVWCml2M7bWyiU+jPpND7bJjVL4rJ74udpyRvQSdyEe61rHJbv14VPJXy9Bqv/8xTtZ3Xy4Jh3eRg7/lIn1Qp68w14L2JvzcwOU54Ix9cRXwO/Pm8FEEirM5c2OJNdtsN6rwjMgHrNbHAFu3U0JhvcW2LADYyko4RHznGlmt/nc20VD+TqV1cxWJhjiveeuMaIYsrkyGR7S6pFuIynEEF/fPoZJ0RwKDVFZo79IIxQheffYUIxclJCbA9j8Vsf2vrh5g==;UCb7WS304sP3CjVdxYiDow=="
 ---

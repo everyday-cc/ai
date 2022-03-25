@@ -1,19 +1,15 @@
 ---
 category: news
 title: "Using Artificial Intelligence to Solve One of Health Care's Most Enduring Problems"
-excerpt: "Northwestern Medicine built its own artificial intelligence program to trigger follow up on incidental imaging findings to prevent delayed and"
-publishedDateTime: 2022-03-16T19:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/using-artificial-intelligence-to-solve-one-of-health-care-s-most-enduring-problems-1031286387"
-webUrl: "https://markets.businessinsider.com/news/stocks/using-artificial-intelligence-to-solve-one-of-health-care-s-most-enduring-problems-1031286387"
+excerpt: "Northwestern Medicine built its own artificial intelligence program to trigger follow up on incidental imaging findings to prevent delayed and missed care . CHICAGO, March 16, 202"
+publishedDateTime: 2022-03-16T18:39:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-using-artificial-intelligence-solve-one-health-cares-most-/2022/03/16/9565389.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-using-artificial-intelligence-solve-one-health-cares-most-/2022/03/16/9565389.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
@@ -25,6 +21,6 @@ images:
     height: 266
     isCached: true
 
-secured: "6Tni1tCCyd/IE7O+yo26WDpa8OpE+CbH1ilBOGM15bRNbMx5+9b3vIr4w8tgPv17SPQ3kRzlz7hEOK0MOoQ3Qy3PwO0sMIRv+S5505U2kSjzn7+a0GxKhnQHkWNVlYcdMbaALzqh/5jWGrac+NxK8BAKYO3Tyy8P5ToPCn3hzvl/dGPcIJxiKeUtuioNOd8fWSfIvLPN6iB6tsjH8ms2Re8PWExLosoPUTM3gQs/DiQ55Y08b+VP7VqxFw8yanO6HzVa/jsfXQZ+2l5oeO1x3ImxEEwonzV2KYPGsULpPlwUNRF1CiMHvK7gL8CU0Ole4T8yrb4O3fpAgolj1ry05yv5SPBD5egCJnU0JIYrRZPccEMauNJDayNb+q7Y+4RZGFYTeAwxoy8UErM96MdS/Kh81kZCQ5UdczwvVvRawaQdoOuQ+kPNJf4UncdIT34RaSjcw0TkNW537mmKtMrkCFAiIoEo9INFb5Gf/WM3Z9DKAliyKBnObWNLEOe/BBRBTvmupiZy64OamPMR5eNftw==;BDc/RAze7xMVZZ7JUN6hXw=="
+secured: "9H8NrfJaXpEthmDqcd+0XbuBe73up2T9LAi1EET64QzTSaOLFuRsXdYkvo33ncPCMwP0OUHfQbQQae15RoBEJGw22CcyioWD3m3AQ+94MN1VaMHQZEYzC6cEH8wptwcxQcmC3sBbeT+8pCD+wlFK3TR7TvdW5ZYEOYleVRnFV6LnIA0sSMt9ElOdXKQIYQ1TAldwJlkEvUBi6SykhwR342xcEa8f2DlT6q3vq0RvLq8lB/l0am9tmuMM2fM/7g9ssOG4XywQ7He6JEuCgPoiOtbhI7i7ZEpfnyTAn5ItFCzyueUzR8admfVtAXQn07cLer6zyjQqCJsPmof1siWu/RvBI2T4ylyFYAdmssBKXlg=;3Ap0TQtHJ1Dunkevp4/PKw=="
 ---
 

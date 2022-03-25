@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award"
-    excerpt: "The award recognizes BairesDev's AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction."
-    publishedDateTime: 2022-03-25T17:16:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/bairesdev-wins-the-business-intelligence-groups-2022-artificial-intelligence-excellence-award/article_a885dc25-802d-5147-892b-1aef4a9e37ae.html"
+  - title: "BairesDev wins the Business Intelligence Group’s 2022 Artificial Intelligence Excellence Award"
+    excerpt: "The award recognizes BairesDev’s AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
+    publishedDateTime: 2022-03-25T17:18:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Associated Press
+      domain: apnews.com
     quality: 40
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Evisort Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "The Business Intelligence Group today announced that Evisort is a winner in its inaugural Artificial Intelligence Excellence Awards program. Evisort is the leading provider of artificial intelligence (AI) solutions for contract management and analytics."
@@ -67,6 +67,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
+    excerpt: "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program."
+    publishedDateTime: 2022-03-25T20:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-echonous-wins-2022-artificial-intelligence-excellence-award-/2022/03/25/9571047.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "KDFbZuYBvlK6NzH4ZDW8UAgO6UTm0xW7CFK9LbEW8bBsyh/uq0qAEAlkmtATWCvz0f3n09N4nxpVBwJm4LI5nWOV5zDzLwoVlKppB8pWpL+eskgBRMKQXjCtg0AwdT5NhgXQ03jsDuF35iNQtFWoNHQcpGI+ACjE1Uvu5Vh6bELqe55EFy60Qqj5L0Yh9nQM/4v6NjZN17iQoR4UhH18Y0GswED9Rxob9DNCZ3fvz1ZbijbYFVy9bkwZHFTaG9ZRnLX4388uMAkZDMbtm2eVO37nTraokyGeJlFyk5YpuKNanu52VLKqCGxQusI2MMubJ9M6mnU/QAk/XthEwwAb8/1DHcLSuUPOF/9br53iGPN5i6AvqndCtRNEjk50n0j1102OJDikyUTU/JdvfAvN0WqtYwRjrDBtbAYNowem95V58IhF4nH4lGSpVg7wpz9vDqoaol+nBhEt/WBJcGxjv/m7P7jdtLywCX+QWXIRdkDuo/+ez+2R13adunDdxMFXLfhZ3+tH6K2ZJkLkmISslg==;q6PLL5u8gKjSE8Bp6WEHdA=="
 ---

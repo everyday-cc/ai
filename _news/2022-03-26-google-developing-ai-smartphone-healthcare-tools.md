@@ -82,6 +82,15 @@ related:
       name: pocketnow.com
       domain: pocketnow.com
     quality: 24
+  - title: "Take advantage of the latest deals available during Discover Samsung Week"
+    excerpt: "Check out the latest deals available during Discover Samsung Week, where you will find Samsung's Class Q60A QLED 4K Smart TV and other great products on sale"
+    publishedDateTime: 2022-03-22T15:52:00Z
+    webUrl: "https://pocketnow.com/take-advantage-latest-deals-available-during-discover-samsung-week"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 18
 
 secured: "FfFyAOdfwAeUb3NCS3w4udDy0Q7Z1qVP75nimLGrgd09g1nbKvNBbifhhEgbKLVlXaMBOCVmRsjnWvPJlS0A4K2bYbD+ddLweK8UkCa++ZcGfI0k0scF6mn2ZQKFUsYr3cGCEgIotLhcNUwcShgZnHUL3Pb4WtWEJher+sqxNH6s8xuNtPZrQAMTuFwGcLJUsw+RE9OO+6pamtqGihskacyj1sPdBYfXK4pjzpmSyxtMbhhORMvq3s+jDtMPuFx7d5+Mjc6M3Y9dxScd+sCuQcspOXDuWkNsFDV8iUDjEISS+t61z15nCV0cRk2QhgeO39xiX8eMILqUZ1XiIVwmvMV5qfLK/J6LiK3EnZLEzMA=;c50fEqXNC3K7KoTsdAzTig=="
 ---

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
-excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),"
-publishedDateTime: 2022-03-23T10:10:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
+excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),"
+publishedDateTime: 2022-03-23T10:05:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
 type: article
-quality: 34
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
-  - AI in Autos
+  - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Diversity Is Key To The Future Of AI"
@@ -71,6 +65,22 @@ related:
         width: 750
         height: 468
         isCached: true
+  - title: "Artificial Intelligence key to unlock the future - Dr Kpodar"
+    excerpt: "Artificial Intelligence AI use of simulation of human intelligence in machines that are programmed to think like humans and mimic their actions has assumed national discourse and Ghana must prepare to launch in that space."
+    publishedDateTime: 2022-03-25T20:54:00Z
+    webUrl: "https://www.modernghana.com/news/1147718/artificial-intelligence-key-to-unlock-the-future.html"
+    ampWebUrl: "https://www.modernghana.com/amp/news/1147718/artificial-intelligence-key-to-unlock-the-future.html"
+    cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1147718/artificial-intelligence-key-to-unlock-the-future.html"
+    type: article
+    provider:
+      name: Modernghana.com
+      domain: modernghana.com
+    quality: 57
+    images:
+      - url: "https://cdn.modernghana.com/images/content/325202293401-i4dp266gfa-picture-i-tma001-science-artificial-intelligence-.jpg"
+        width: 800
+        height: 296
+        isCached: true
   - title: "Do you think AI will be a psychologist for humans in the future?"
     excerpt: "Artificial intelligence (AI) is influencing the future of numerous sectors, including psychology. Will AI, on the other hand, completely replace psychologists? Will AI help psychologists and their patients come up with long-term,"
     publishedDateTime: 2022-03-23T07:38:00Z
@@ -83,20 +93,6 @@ related:
     images:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQGwZuM9KUpjdg/article-cover_image-shrink_720_1280/0/1648018324120?e=1653523200&v=beta&t=yXTDqQhvvGpfOi59QaQjqR9xN-AxhMTFqPV_kcVbmb8"
         width: 1280
-        height: 630
-        isCached: true
-  - title: "Transparency is key to encourage wider adoption of artificial intelligence"
-    excerpt: "In this Q&A, Jeffrey Sullivan, chief technology officer for Consensus Cloud Solutions, shares how artificial intelligence is positively impacting the healthcare industry, how leaders should integrate AI solutions and what to look for in a partner."
-    publishedDateTime: 2022-03-21T05:01:00Z
-    webUrl: "https://www.modernhealthcare.com/technology/transparency-key-encourage-wider-adoption-artificial-intelligence"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 37
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/1200x630/public/Jeffrey%20Sullivan%20img-leader-04%402x-600x424.png"
-        width: 1200
         height: 630
         isCached: true
   - title: "Overcoming the C-Suite’s Distrust of AI"
@@ -123,6 +119,6 @@ related:
       domain: ft.com
     quality: 19
 
-secured: "nG1hY4O3nnU8NV2Q8qLvc0xESNJ3w5ndSTz7OLuB5N2PsT8VgyScksjVNdQJbCTsYNrgIItHskvbSvnptWDhv2n9X/+15UnEBNcZ8UwQKWrHwoggjPqXjTE9FH0EEvQ6PYFIg/QZ98n7Ki5g6vTPUdju96Irt7l7VyfWJ5w28nYQkh3bqO012k6utQUVrWhUj5R8w/UCpXEtxGNGsv4p3ZpvEWRKSxcsTmjhUpHU0AkQEWzWlAWht7ZhMSgra9/AvbwOHmlRXx0reZEOUDHe5VGpbfKcuN9x2hh0oLOHhA1c8iB2NmAfYbE28RvtYaS7BCxyxu7jFdnGQJAc676eQQ2VFseLdRVthZ197gN4fmc=;CydHSOWRTIxUsfP6HrmdwA=="
+secured: "1zktS6SqAuaxECTLhheKzz+ASZuwNtLL/RMVtPUhBou7bsKT9SJKgaom8WBaHUQDAiJNi0EXmhwU+FYHlRll+mhH5swDY5W7Kwtdr2kmBW9xBdXmEWv25hFQgkpVwbCg+Vuu5gruCQXu9wOmHWVAyv2BTzRCgn9iTGXbMV3ClmDz0Nr+aNswNDTwRTMRsRmcJ0gLF1fRaipqqh4a4wgTPCqCs86u/qtGQK5QddpFx1tWTwab61dlA71B1s4jHXcr6WG7P+fVhr2Q6Ge3OJ+xOtnCIvNa08RydK+CKXF9mAVqWxXaM8zao0Bjoj/4MNm0bSjr50+DZnvwpoXnu79SIc4wKH8SL6BycWsqna/+s3Y=;AtHTVH8okwmQQr4LlmWYNQ=="
 ---
 

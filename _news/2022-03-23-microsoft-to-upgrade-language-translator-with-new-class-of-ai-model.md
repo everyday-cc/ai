@@ -123,9 +123,9 @@ related:
         height: 675
         isCached: true
   - title: "Microsoft boosts its AI translation capabilities"
-    excerpt: "Unlike previous AI models, Z-code models utilize a new architecture called Mixture of Experts (MoE) where different parts of the models can learn different tasks. As such, the models learn to translate between multiple languages simultaneously. At the same ..."
-    publishedDateTime: 2022-03-24T06:10:00Z
-    webUrl: "https://www.techradar.com/nz/news/microsoft-boosts-its-ai-translation-capabilities"
+    excerpt: "Unlike previous AI models, Z-code models utilize a ... As such, the models learn to translate between multiple languages simultaneously. At the same time, newly introduced Z-code MoE models ..."
+    publishedDateTime: 2022-03-24T06:07:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-boosts-its-ai-translation-capabilities"
     type: article
     provider:
       name: TechRadar

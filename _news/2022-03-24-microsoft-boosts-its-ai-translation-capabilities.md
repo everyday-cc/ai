@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Microsoft boosts its AI translation capabilities"
-excerpt: "Unlike previous AI models, Z-code models utilize a new architecture called Mixture of Experts (MoE) where different parts of the models can learn different tasks. As such, the models learn to translate between multiple languages simultaneously. At the same ..."
-publishedDateTime: 2022-03-24T06:10:00Z
-originalUrl: "https://www.techradar.com/nz/news/microsoft-boosts-its-ai-translation-capabilities"
-webUrl: "https://www.techradar.com/nz/news/microsoft-boosts-its-ai-translation-capabilities"
+excerpt: "Unlike previous AI models, Z-code models utilize a ... As such, the models learn to translate between multiple languages simultaneously. At the same time, newly introduced Z-code MoE models ..."
+publishedDateTime: 2022-03-24T06:07:00Z
+originalUrl: "https://www.techradar.com/news/microsoft-boosts-its-ai-translation-capabilities"
+webUrl: "https://www.techradar.com/news/microsoft-boosts-its-ai-translation-capabilities"
 type: article
 quality: 86
 heat: -1
@@ -259,6 +259,6 @@ related:
       domain: tmcnet.com
     quality: 29
 
-secured: "l6Dkhs3w92Ho1TGqq4ISv6u9oct/kZVgs8l61UqmPa+MIxsd232ZZ+mRSWR+utwObtJqXoy/kM/3iqqwOAXq97EFVGP4Gz/C7YRmUP5eYlOCUCpTABRfee7p2CrnWpCLwkfPAEiIXuQMbLUlvHa/aQFBCnZJtiV/2dnjcQSfW6UHTwYiiVsxi8ZW1/nDUVF9OZh1P81E7HGXwIWxyaP85A1dWJc2iLFUxf3xw7VZDSbKTYzakljHsgwSqQekcXT7KAsCQIwoW1KM+73x+xkrEIi7ZF5qGIxKYwxjRNueuEEyoHBrHbiNe+YbbVNaZ4/LnRJmekHHI/cpmJhnnBljfrOV5S+mhyjExm9DeDSG1/AZuxnXo7j409lGFqOPbn4iHqsKzIkW0z7jBd07KeoppbRxy4VpUgmB9otALvyN39pKU0jSry2EVPD9IOcHo1Zq4dKpo/rEOWttJlaSQ9O3D9uNXzx8Z/vWPWzbMpu4+fGMLeRp0uzLYjOUms1mVrngEliOOSTxYylTLhCW39/qnw==;5PcopohbYuOnu8PInjYxtw=="
+secured: "NS3nJ0r4nHuQk4GYwHVhHLqxksY7AkP2vfkFZBoOiWXgGCgedcYLSvr0k7mUdJQZ8W2al17NUXprcTJ36yiu54AKf4DzJxWErc0cVn1KXK8OFo54NuHq8pQLlb6AhYx5rKC1shEc7KdSTxTP81KLjzjtFdivqHQKsZDxnWPwkP6Ds/w+M3ufmAcmdLmVx0nePaAIydpGg6wxC8+xT8tKeDwx4L2MfuUkPLJKuZ2c+fXqM+ewLFie11hsg48TAW0dSqFNfFS7evhqjMCNYhwD8fAKXbyQut/cNIm9BPeyz1qlqVaytonty9QyoJ5gVKClacSPLC/jtA4cxjgqSiKO7mRWCpQqLsvQsTZVLpc+o3U=;HPaWhnpAylewkDEf8qHZ4w=="
 ---
 

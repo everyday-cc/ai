@@ -3,8 +3,8 @@ category: news
 title: "Supercomputer to train 176-billion-parameter open-source AI language model"
 excerpt: "GTC BigScience – a team made up of roughly a thousand developers around the world – has started training its 176-billion-parameter open-source AI language model in a bid to advance research into natural language processing (NLP)."
 publishedDateTime: 2022-03-25T07:34:00Z
-originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/03/25/supercomputer_language_ai/"
-webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/03/25/supercomputer_language_ai/"
+originalUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=rt-9cs"
+webUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=rt-9cs"
 ampWebUrl: "https://www.theregister.com/AMP/2022/03/25/supercomputer_language_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/25/supercomputer_language_ai/"
 type: article
@@ -58,6 +58,6 @@ related:
         height: 300
         isCached: true
 
-secured: "lry88wJe/gpVZ7onKt7BaQojexj1qdVJLVJ4RD2tf8qHmVovzn1BymzuewRoCghP8PcUNuNSl8Mbh+/QKA1czyHR3RF3XjjvabLYr6y59OclzL29oGLekLFePGUi3utlsJtW/mgRquypLjroITaxY35axn64lISLq5tLnc0u6+DnEmr+GstYDXI+SGnItt2CfY1JH17RUIByh7bT1bwWV4OnDvMhODCQZTMLn+hnjatCXF5tBM5hsmMUFrwahoJ5kN6fQ0rHwjV+5c1jCjeUDC2YsqakaiGU0dHBuLdImuCKfLG+38otfSQuJb0qQoIa1RhILeuTNB5JNlu0tEyID1pim8hSLVMPtCuQHY2MSa8Otze5rRIiw8+270+RMArIW4gL/oN91g1jyumNCMF2z4ytQrncf+8EuExxorcYEuC/jHr1vt3vKF1WkfRTHG5sYXL/J4Y9LSX0Y7ePcjg1MBGDynpdvF7ZKSkwHlNqV1kVhOcvfkeHpDShmIbNDkvp+lz6WMHvW7Ykxpsr6ixs5g==;LoLTicOqkazd8y/FFyQ5CQ=="
+secured: "gHWvaL7kzjx+C5ICRtFkVOApdRZNvUpYR57xqCzw5OHmiFnIIA6+U+kS1ERAQUt+3voDhD/VeQkA/txeE/EL67KO75Skwy+F6FqzjPRLq7M5i+O9uM38uOuxSpnos8vtitnYuG7Ed7JHr2v8oEVAa3fi/wAhNqx+fKeq7FZ5WYB2xVRSfKJsAvVYOpGH26nZr0kYPZrnq61v6U8/oQ/dA94iAJsLkFnvAPyeFp96zO8G0fxEzxU+Lou26ob3Wq3tOXPCK8+sPqpOi/83rUJ7aOhQbYcYspXtP/ute305KHQS57VQQim19BradyzEsGIYAcGkTcIa+URuq8px2nmTO2bQdRzn8yvejzuzNOYR/ww=;Nyfxnyl765o0srP9i75nNg=="
 ---
 

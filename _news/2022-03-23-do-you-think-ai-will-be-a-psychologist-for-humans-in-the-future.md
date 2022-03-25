@@ -75,19 +75,21 @@ related:
         width: 750
         height: 468
         isCached: true
-  - title: "Transparency is key to encourage wider adoption of artificial intelligence"
-    excerpt: "In this Q&A, Jeffrey Sullivan, chief technology officer for Consensus Cloud Solutions, shares how artificial intelligence is positively impacting the healthcare industry, how leaders should integrate AI solutions and what to look for in a partner."
-    publishedDateTime: 2022-03-21T05:01:00Z
-    webUrl: "https://www.modernhealthcare.com/technology/transparency-key-encourage-wider-adoption-artificial-intelligence"
+  - title: "Artificial Intelligence key to unlock the future - Dr Kpodar"
+    excerpt: "Artificial Intelligence AI use of simulation of human intelligence in machines that are programmed to think like humans and mimic their actions has assumed national discourse and Ghana must prepare to launch in that space."
+    publishedDateTime: 2022-03-25T20:54:00Z
+    webUrl: "https://www.modernghana.com/news/1147718/artificial-intelligence-key-to-unlock-the-future.html"
+    ampWebUrl: "https://www.modernghana.com/amp/news/1147718/artificial-intelligence-key-to-unlock-the-future.html"
+    cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1147718/artificial-intelligence-key-to-unlock-the-future.html"
     type: article
     provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 37
+      name: Modernghana.com
+      domain: modernghana.com
+    quality: 57
     images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/1200x630/public/Jeffrey%20Sullivan%20img-leader-04%402x-600x424.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.modernghana.com/images/content/325202293401-i4dp266gfa-picture-i-tma001-science-artificial-intelligence-.jpg"
+        width: 800
+        height: 296
         isCached: true
   - title: "Overcoming the C-Suite’s Distrust of AI"
     excerpt: "Business leaders are often comfortable using AI for tactical purposes — but aren’t yet ready to bring it into strategic decision-making."
@@ -103,20 +105,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
-    excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),"
-    publishedDateTime: 2022-03-23T10:10:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Back to the future: driverless cars become reality"
     excerpt: "One industry insider said the relaxed rules in US states including California and Nevada, which was the first to allow driverless cars on its roads in 2011, has also played an important role in propelling the growth of domestic players."
     publishedDateTime: 2022-03-22T19:10:00Z
@@ -126,6 +114,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
+  - title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
+    excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),"
+    publishedDateTime: 2022-03-23T10:05:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 14
 
 secured: "vEMtrA9Xfegrg8u9v4O2/f5JP7UFSFfQ8C1BVpvbPj4ozrJhXNJFxeLRxElu/yk1gCL/uKrVBNqn5tpiWkW4KsjX8OckzUx0cq7PdZDiV77Z8dTpCuqfB+BbUHqRDD3xUiL4CQ40apfhx5zWwQ//ILfrPVLaPkxSLJoPEbpSMryOgLCdyY6EKvAxcEyj1/h9KrCA6jibLFGzrXuRhPG18MGsE4c2CDJsfLqravAHX18Si0m/x2MHvvKqSa6dm7W8pF6kyQl3R4hNtjlGmQriEg2vBERA37lja9HBWhW2kWcxDwZcm/Sq38NS5w7zwJUIOXykNmmQc0JqR3rs5MFjUDqHq/QCFG8M8SNiaGP+yEOqdrG/rK7FU1mdU8gTmrQhjfnFT3bcsNI+GAIorioqLuaf5HU3HTy4pZUebDRVtRkt8WBFT2oxrvdtRrtKYxP/KWNpEAKL2pwerQo0NwTd8sA/QgQEZHkacHZWollGYbjYN1Gu0JCQTiwuz543yjzqE+UVyQQhB5R8c3BaYp/RGg==;9Hsf0BJp9mclr6D5maaKIQ=="
 ---
