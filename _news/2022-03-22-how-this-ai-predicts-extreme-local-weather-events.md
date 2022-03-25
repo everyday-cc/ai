@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-ai-predicts-extreme-loc
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-predicts-extreme-local-weather-events/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 797
     isCached: true
+
+related:
+  - title: "ClimateAi Researchers Achieve Artificial Intelligence Breakthrough to Predict Local Extreme Weather Events"
+    excerpt: "ClimateAi, a pioneer in applying artificial intelligence to climate risk modeling, today announced its team has solved a critical weather forecasting challenge. Leveraging advances in AI to improve weather and climate forecasts,"
+    publishedDateTime: 2022-03-24T13:02:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/climate-technology-science-artificial-intelligence-e930256a96b811da78571650998fe91f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "3DCDeXXxvXzlj+AvRxoII4vVVh0bKV0V/7hE7RyBiKww4wq7lUfo8CKdj63khyRBv8JGdsxA4yZ2Kt1Ky077AXm2loSjcqe8UEIa4iHxmw1TChb2MSQf+EkjFvwe33McLEkdEj5FWq1ydlRmUNkBK5nM4MNjrMyMmW3oFFgdEqhCUGF2CrmXFg9TG2lB8QMbUNnbBotJPJhm22oiry3pHWsxzDY3aIRDzobcozJgnqCZWYCaeara3pyU5dzP+x1aSfan/F64JtxTNV0D2qZ91w5XZF6ewJM/v0cEdVEha6isW8lbi+sDZCKlQWwCvmDdVXSW87jXICZ0n3j6sFrf05LTz53pb5miwBFk6fqWkwBJLIxrhe7l9Ul/LKnwUu+cup9bzc53oPikHLj5G9SDquh49yGgMUQIOBRcfBuGU7d9SuCEG+xLYMpmrv0tmwxFb9ZSGI9jnYSfILpRdMII/WidorlL9ykekCr2nMnTdAWzLAlIkMZiqY94ywZJS+W5e9oE6YyO90ev3ulHg8X82w==;bhY08+hEpzssyaiaAx/kpA=="
 ---

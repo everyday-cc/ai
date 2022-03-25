@@ -151,17 +151,17 @@ related:
         isCached: true
   - title: "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,"
-    publishedDateTime: 2022-03-22T12:42:00Z
-    webUrl: "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html"
+    publishedDateTime: 2022-03-22T12:41:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-812be7d276734b00a1b5ecd9b7d1d927"
     type: article
     provider:
-      name: The Register-Herald
-      domain: register-herald.com
+      name: Associated Press
+      domain: apnews.com
     quality: 30
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/2f/c2fe3e5e-68b4-11ec-b5b1-eb6d367dec1b/61cc72a6c74a5.image.jpg"
-        width: 320
-        height: 325
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "zPW1kilP2DefIFBBL8VLAAEbgn/SKYwjKCqOSGxXGd/aMaZGYQHFFOrhikUpkIYGx5XZyWE81YeSWKPQFabL6nt5+2STKiVijiP8HfRwNp0Yb0gqAEGW2IWU5rJuxYyhQmvD+XCR43Wji4YUY7Xk7UKiX9QSbZJsl00fwtctjTa0R42mcebV3dyeamNk6O07FpNk6M/STHmM4OyrKt6n8cijcyXXrxHV2bRxG9uQYAddRJXiQdVv7WRJSvYt742hh+nJNCEXOo/JyxRSaPV6TtJsl+kN1WKK+tya+O8oryN93JdXTdpT0z0gMyOdlOyCc71AeK19gmEfI36/cBbujCukSa3Ac8d2p+SzwEh4ahsv8h8jJfHq4yrmOjMzGxN681uPAcexBvG7i51krFE4clmEpFHUCVGkiGC0jfJhg1Tn5KOnjEoKBrpHa70Vgt5Dv2SakLKME70noDElEtb73BXbk9s075iRTOf1OrG2G0JiUSPw2mztj747LpGew+qIKAJw4080e+6wTKBd43SfRQ==;whP4YaPuoQZmHqpD3KJBxg=="

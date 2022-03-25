@@ -1,31 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence and corporate social responsibility can strengthen anti-corruption efforts"
-excerpt: "Canada's ranking among the top 10 countries on the Transparency International Corruption Perception Index gave the impression that Canada was a country relatively clean of corruption."
-publishedDateTime: 2022-03-09T14:45:00Z
-originalUrl: "https://techxplore.com/news/2022-03-artificial-intelligence-corporate-social-responsibility.html"
-webUrl: "https://techxplore.com/news/2022-03-artificial-intelligence-corporate-social-responsibility.html"
-ampWebUrl: "https://techxplore.com/news/2022-03-artificial-intelligence-corporate-social-responsibility.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-artificial-intelligence-corporate-social-responsibility.amp"
+excerpt: "AI has increasingly become a part of our daily lives, from digital assistants like Siri and Alexa, to self-driving cars like Teslas and ride-hailing applications like Uber. Given that AI has been ..."
+publishedDateTime: 2022-03-08T23:19:00Z
+originalUrl: "https://theconversation.com/artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts-177883"
+webUrl: "https://theconversation.com/artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts-177883"
+ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts-177883"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts-177883"
 type: article
-quality: 45
-heat: 45
-published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-18.jpg"
-    width: 1356
-    height: 668
+  - url: "https://images.theconversation.com/files/450789/original/file-20220308-27-1g7ieyt.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+    width: 320
+    height: 213
     isCached: true
 
-secured: "EQX0c7bJsEiVdJWJfkdjEVF2E0xG0tMEyMqzIB0m+kmihlWXjXmx8a0gSnkcmX/8WH3vfyC7jG63R7Fy/T+h074JzjP31GARDLEjEGx+jUyHQMbATF9vYc0cJBPf2oCYL4vyNbG+PBN/qfiiGuMp0+gd/RYx8swH4MHUCK4nvKRlkJpmuUW8q0NW7vQoBMEoXQWYcINJL2sOi8Lr0bCgLp1lsRwbi4NgK/W2QmZaAuqYg85vOI5AhFsuhUiHk5EX3bIYBDZNkaK26/KbJGv4Vn3mAOGSGfh7y885/Z8C+teBIMBqStqNZd7GI/+rXEj541cZ8Mwryw7vvz/3UQdpVGR9Zf+QllnVOG1MP8EuAUo=;XX+TR28NFjVr7zQotjCEsQ=="
+secured: "yhoEGX0kvQ+PEiVoPH5jkuNt9NytNY07tLQ4nSEHXpyBekzS3JItGffkzA/46ekgH8zawxHGng3RMn3WWCqJHAsDnvdGeNOW1BBkPlxEjpsBCJXfH+aLFGBXy+yYx3QGNRY5xOTPaHNnMyC7fM9EKZdcj1KksqrxKFjXlbIa5Tgtq1DEuIVIkCA7pPierXu+CIKakvSoxpp/u19kaHyhzu10MQX9O7Qgw2CqYO0hug6ldnD2XGu3Az95ouWV6rT1mrsLVsgpOTKhjNc9bXks9fnctPU/7XZLd/yynKjOXPH7gzaU7DECBa6Dt1J3t7jktGr3h9CJvApGZPge6CnUBOkKc/xODjA7yfi+gZRlS1g=;xjr+5wuvx/BYs/aHtaBrJQ=="
 ---
 

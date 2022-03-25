@@ -1,27 +1,27 @@
 ---
 category: news
 title: "IAIDL To Compete as AIMA Tool Among Big Industry Names in the Peacock Fintech and Banks Award"
-excerpt: "Bringing its best foot forward, the International AI Driving Licence (IAIDL) is set to compete against PWC, Mckinsey, and other renowned international"
-publishedDateTime: 2022-03-22T01:15:00Z
-originalUrl: "https://www.digitaljournal.com/pr/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award"
-webUrl: "https://www.digitaljournal.com/pr/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award"
+excerpt: "Bringing its best foot forward, the International AI Driving Licence (IAIDL) is set to compete against PWC, Mckinsey, and other renowned international organizations in the Peacock Fintech and Banks Award. Being the most influential Fintech and Bank Award ..."
+publishedDateTime: 2022-03-22T04:32:00Z
+originalUrl: "https://www.wicz.com/story/46114491/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award"
+webUrl: "https://www.wicz.com/story/46114491/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award"
 type: article
 quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: FOX 40 WICZ TV
+  domain: wicz.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg"
-    width: 600
-    height: 337
+  - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -130,20 +130,20 @@ related:
         height: 400
         isCached: true
   - title: "PLUS3 IT SYSTEMS TO EXPAND DATA ANALYTICS AND ARTIFICIAL INTELLIGENCE CAPABILITIES WITH JOINT ARTIFICIAL INTELLIGENCE CENTER AWARD"
-    excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial Intelligence Center (JAIC) for Data Readiness for Artificial Intelligence Development (DRAID)."
-    publishedDateTime: 2022-03-24T13:28:00Z
-    webUrl: "https://www.lelezard.com/en/news-20303043.html"
+    excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial"
+    publishedDateTime: 2022-03-24T12:50:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence/article_2d4a8a12-262e-52dd-af5b-a24bcacffdff.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 9
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 7
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
 
-secured: "xaTLSrAuATojTothVT2vjjf3SjEEUDNyujvanCYu7euKDogmCD/nJSXn5UdLsNiFQ++eTEqNgczqKVjr/DyDUp+SNWI30KaWSotycW8ZQk0jgxAVc7Qn7G77BsZuTW+81xz4HExL9EVQmqY++hXy+DFf8mDfTKKXwr89fPZJ0WL4hEvgUYPuiEWAQPDsT+ebtUT84noOWV6cX4sMoQFLcmqKEskAXM6CPLO/VXyrNxYvP1xS0LnfmqvSjwor9Xs4yhTYmh77k9w265w3IJeeNM+pV5Z1pXdt0onBZ5nz7QpvWEf9fF/js7zVKEgIr0RrASLDeWIPlbcPA4kEyw4L8zWLklpiGIhcseM9BnD9xu/7ulwY2tZClAE+r87YZCNqgaEzmOsawIOr5iOPrxaUAtPBpJoe1uaN1i9lhHBrQaEAHIOm+Rjcq4MUvfVNp+i26fw9mGnDzdBpHyXYt4WO7VqOMesaxJrqh80mL6X+fLUjgldaFAPkp5jK9vB+eCSDUCAY6f9b8YeuZ4ok/rKKeQ==;r+OLILZ+8XiE7x5qR/IvXg=="
+secured: "LJGDKUpm2KOwrfif6smhm7JRIpBjsfIg+3QE3JY6YtxGKaI0XxntNG27FhS9FDJa5ctmwunOn1WgPcG3uhLqSgok6hRDrQpKVB5A5VssydKImGiLbtNohNUZCrG5glvz4t3I/hPqKJknyXc+NzzC5DNfN7Kov14ilDgOPbwbQlf2qBEjPVISZ5pOq4vIuNpt/JC7U8DMq2NjuzuSeGSLwxGleGeiLrjYpnMkKGr2YhPZNuvfH4O4vHOL+kBt/ZjktX1UvuXOaMLIO8KdP+Rh7cWbLv466kMBo3cXrBtgVhiKomy2cr8KNBlikVXlIGkrDkuuQleAvol2nCObbc83Ydx9l7cYti1PrWrNABqYFVw=;O4tQd3NJEAmRPGG6uY/Rjg=="
 ---
 

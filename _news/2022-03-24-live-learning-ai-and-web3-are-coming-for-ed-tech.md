@@ -35,7 +35,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 90
+    quality: 92
     images:
       - url: "https://mma.prnewswire.com/media/1772498/Watt_Center_Clemson.jpg"
         width: 400

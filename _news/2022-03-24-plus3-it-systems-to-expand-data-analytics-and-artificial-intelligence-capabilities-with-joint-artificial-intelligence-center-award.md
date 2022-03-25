@@ -1,27 +1,26 @@
 ---
 category: news
 title: "PLUS3 IT SYSTEMS TO EXPAND DATA ANALYTICS AND ARTIFICIAL INTELLIGENCE CAPABILITIES WITH JOINT ARTIFICIAL INTELLIGENCE CENTER AWARD"
-excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial Intelligence Center (JAIC) for Data Readiness for Artificial Intelligence Development (DRAID)."
-publishedDateTime: 2022-03-24T13:28:00Z
-originalUrl: "https://www.lelezard.com/en/news-20303043.html"
-webUrl: "https://www.lelezard.com/en/news-20303043.html"
+excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial"
+publishedDateTime: 2022-03-24T12:50:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence/article_2d4a8a12-262e-52dd-af5b-a24bcacffdff.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence/article_2d4a8a12-262e-52dd-af5b-a24bcacffdff.html"
 type: article
-quality: 9
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -74,18 +73,18 @@ related:
         height: 333
         isCached: true
   - title: "IAIDL To Compete as AIMA Tool Among Big Industry Names in the Peacock Fintech and Banks Award"
-    excerpt: "Bringing its best foot forward, the International AI Driving Licence (IAIDL) is set to compete against PWC, Mckinsey, and other renowned international"
-    publishedDateTime: 2022-03-22T01:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award"
+    excerpt: "Bringing its best foot forward, the International AI Driving Licence (IAIDL) is set to compete against PWC, Mckinsey, and other renowned international organizations in the Peacock Fintech and Banks Award. Being the most influential Fintech and Bank Award ..."
+    publishedDateTime: 2022-03-22T04:32:00Z
+    webUrl: "https://www.wicz.com/story/46114491/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
+      name: FOX 40 WICZ TV
+      domain: wicz.com
     quality: 43
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Five Ways Artificial Intelligence Can Transform The Future Of Fintech"
     excerpt: "In the financial business, artificial intelligence has a bright future. It can assist the companies in various ways, including increasing"
@@ -144,6 +143,6 @@ related:
         height: 400
         isCached: true
 
-secured: "alxnZ8yQVLc3a8tnwCUlj1OQR4OfaUG46jZu3lg2UGCNvAwXyW3tGKnlDnbPp9Q7urBCf3e7pnac+JAP6ufTuiQDk1F4tTpzDlZj7yeMomZJMmAvJr6sUhcuAcxsFd+aCiUKdb5fCzuDW7qW3NeJSb4qiyCOTLLaHl7K0/x+W9WqMcUgP88F34Dwo/q21TGkoPP/HBzwnhkQEZxMW4B2CuqWoU1BdRMJnl5bv+XPDp5bSWhzRKDLv+1jZ3ESBPKitpeaouOtVMMLSqCvxx54KRdvnQ7HVV6DTF51Pb0h7ylIsrFUYyNCCY9cTA3Rm+oCKJFSR34LKAcQAZP2kHkNxQHA15mUJpx9jl7WuPv2A6k=;uU4yPKyg99Xek97cVd7cQg=="
+secured: "tghYfaQwz1HW5B2ONlyaAOm2aBYTMi5nPxphTkq1b1O1v4eitmKoggsY6CVEcKOhYzr8+2vKmWkt9hwsH3seyTKnawd3vWCR9aGQtAU38PjSckhvjcBX8ZTU4uJITw2lGhX4HGLy5fVtSTaFom+Q6WSsP4u6jzJby7U0Yz4b8zz3dET3xqpHA4lCdkh4RqzSFeylqb3YH/WFcJZbEmzB5To1nMsd+UaHKSnlrJtCEF7VApDHVIhmHykUjwyRWhGOpjZtP3+VRfLYVB7kuz2JPlgQN9tHdgtLPwZJ4iAX0ITJKHNK5flRyklpcey5Od2Sj/MLQtTLtUzqDveYLIunNpozJJf/EXYl/MHUf68u6es=;SpjbVviOEOZhZrNcqM7wGQ=="
 ---
 

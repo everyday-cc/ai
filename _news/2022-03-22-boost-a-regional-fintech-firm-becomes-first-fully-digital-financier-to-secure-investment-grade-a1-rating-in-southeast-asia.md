@@ -7,7 +7,7 @@ originalUrl: "https://techent.tv/2022/03/22/boost-a-regional-fintech-firm-become
 webUrl: "https://techent.tv/2022/03/22/boost-a-regional-fintech-firm-becomes-first-fully-digital-financier-to-secure-investment-grade-a1-rating-in-southeast-asia/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Future watch: The future is fintech"
-    excerpt: "Learn how industry leaders make innovation happen in their changing markets, and where these transformations will take us next."
-    publishedDateTime: 2022-03-24T14:01:00Z
-    webUrl: "https://www.fastcompany.com/90734036/future-watch-the-future-is-fintech"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 24
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/03/The-future-is-fintech.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Boost, a regional FinTech firm, becomes first fully digital financier to secure investment grade A1 rating in Southeast Asia"
     excerpt: "Boost looking to tap on burgeoning digital banking ecosystem within the Southeast Asian region A1 rating for its Malaysian securitised receivables cements firm's commitment towards the underserved segment securitizes financing portfolio;"
     publishedDateTime: 2022-03-22T19:00:00Z

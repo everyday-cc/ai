@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Brex Helps Zesty.ai Scale With $10 Million in Venture Debt"
-excerpt: "This deal marks continued momentum for Brex Venture Debt, which Brex launched in August 2021, as a way to help founders take their business to the next level. It helps growing bus"
-publishedDateTime: 2022-03-24T21:00:00Z
-originalUrl: "https://www.khon2.com/business/press-releases/cision/20220324NY02101/brex-helps-zesty-ai-scale-with-10-million-in-venture-debt/"
-webUrl: "https://www.khon2.com/business/press-releases/cision/20220324NY02101/brex-helps-zesty-ai-scale-with-10-million-in-venture-debt/"
+excerpt: "In the news release, Brex Helps Zesty.ai Scale With $10 Million in Venture Debt, issued 24-Mar-2022 by Brex over PR Newswire, we are advised by"
+publishedDateTime: 2022-03-25T05:49:00Z
+originalUrl: "https://www.finanzen.at/nachrichten/aktien/brex-helps-zesty-ai-scale-with-$10-million-in-venture-debt-1031305455"
+webUrl: "https://www.finanzen.at/nachrichten/aktien/brex-helps-zesty-ai-scale-with-$10-million-in-venture-debt-1031305455"
+ampWebUrl: "https://www.finanzen.at/nachrichten/amp/brex-helps-zesty-ai-scale-with-$10-million-in-venture-debt-1031305455"
+cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/brex-helps-zesty-ai-scale-with-$10-million-in-venture-debt-1031305455"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KHON2
-  domain: khon2.com
+  name: finanzen
+  domain: finanzen.at
 
 topics:
-  - AI
   - AI in Finance
-
-images:
-  - url: "https://i0.wp.com/www.khon2.com/wp-content/uploads/sites/8/2022/03/660_1743.jpg?w=2000&#038;ssl=1"
-    width: 1280
-    height: 720
-    isCached: true
+  - AI
 
 related:
   - title: "Brex Helps Zesty.ai Scale With $10 Million in Growth Capital"
@@ -49,6 +45,6 @@ related:
       domain: wfmz.com
     quality: 19
 
-secured: "VAuDEwS5BY8nY+fvAnj0GXtus9z6Pi6GNhqwgmdHrEusJPrOylA7xKB6X4L9qomZbufEkBsy8ADV4fyrIbyDTsVyFXVAPkF4XBpRNs3y0cUYYa0vjqXMO004XLtkzaSiQZ4tXR5Fh5tPBGnbqf2IfTemB1zaWjLtvGAh35we8dfcGGOQOVthfCcYoqGzgucXweLf1PhFKwxCeEUL29SJQslHGttbGPT5ve+tjfo6rAKTNPiD1iB7lsFdzcEGjb6omPp05a0x7JEe2DsQiBce+HYsW6jH/BPgQqUJ2KJdr9CsNjpYWC6Xa+J+UKlvG7w/I+4YyyMdrINOL7B9FmfvP7RtqyDXjzeq4zA8hb48BLQ=;3pmpHLkx8jJW2AeNgUpw4A=="
+secured: "OPWNnB6Ig9gbwBgV4c4QLR5uehdWWDUcc+he4Zb7R3bdt5avAaZJbOLwEcF01aTdw2+dubBlj/jbRAjrslLsEfFXcmrLTwxWSEtWuy4RWBs/miN7SkT3Ba7e6eM04X8nJzAZ2FO1naho69CaTsyhczhqS9OoemV56RqDn+B/b2gkrz4B8WiYWSVVoqN/HvvpopesS65W8/XX7o8W478YYxe63ODCxOLDltKrjSk4/fyCJ+0iGxP/nbteaALeTpND+20Zm4l4Xwe2lnC3HlnmiuRkpxuVWGVQkVDEGlxexN735FiBS6Dw0snRT8G+//Ge2HOOFoUIcXgd0gCLt1e1KFTJMB+X+WBRchw+vIAyZ8E=;8JqayqdP8UZCJ8Gqbtefjg=="
 ---
 

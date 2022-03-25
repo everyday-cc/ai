@@ -34,19 +34,16 @@ related:
         height: 720
         isCached: true
   - title: "Brex Helps Zesty.ai Scale With $10 Million in Venture Debt"
-    excerpt: "This deal marks continued momentum for Brex Venture Debt, which Brex launched in August 2021, as a way to help founders take their business to the next level. It helps growing bus"
-    publishedDateTime: 2022-03-24T21:00:00Z
-    webUrl: "https://www.khon2.com/business/press-releases/cision/20220324NY02101/brex-helps-zesty-ai-scale-with-10-million-in-venture-debt/"
+    excerpt: "In the news release, Brex Helps Zesty.ai Scale With $10 Million in Venture Debt, issued 24-Mar-2022 by Brex over PR Newswire, we are advised by"
+    publishedDateTime: 2022-03-25T05:49:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/brex-helps-zesty-ai-scale-with-$10-million-in-venture-debt-1031305455"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/brex-helps-zesty-ai-scale-with-$10-million-in-venture-debt-1031305455"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/brex-helps-zesty-ai-scale-with-$10-million-in-venture-debt-1031305455"
     type: article
     provider:
-      name: KHON2
-      domain: khon2.com
+      name: finanzen
+      domain: finanzen.at
     quality: 39
-    images:
-      - url: "https://i0.wp.com/www.khon2.com/wp-content/uploads/sites/8/2022/03/660_1743.jpg?w=2000&#038;ssl=1"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "oO3x3UfR9ySxBVGK2ZhMzpcBk1sg1IWJjCqeot55L085j5GYzZSM348XsyxHdNUEW2X5ihwhwAHT83tJlc1ENev4lVI1amIhCs7WLjOQeHaznYsp4Nm/85jt43GRKUa48cF2aL8VeALrOaRe5NuSCXU2M4beu+Vy3WTZvFgC3oFMKBkZPDX5JT8CQga/HsSAJAHqGs+KwCYWDgUg11lEozkwW2g9MPItvZG16SIo2WttonkppA+9j0bU8k893L01mpRDSlY2yavDXfuVWtrWRbBvietPrsVuU/TlbtOtdqdg/mXypiOok3wAZqCo1fiPPwo8AcRt/+nU2k84NYfmDiB2ux9uKr4Mnzrp5a0CFvjw4x+4u2OIaK9ZNSZpKIU0Gz84srnxWVPq0wDBaDDDP1cag2mChc84qwJHYrvvOuj54qoEToze0AhWM9G6uJ16TF9MDTXNH7TcuMPnDh/inp327DAQlmajrEbjxbYGzptaI09gBdP4HuVUwXyYOLk4HnpdHRq0lhyybFo5z015/A==;hBhnMpo/O2/QV2a4btBYsw=="
 ---

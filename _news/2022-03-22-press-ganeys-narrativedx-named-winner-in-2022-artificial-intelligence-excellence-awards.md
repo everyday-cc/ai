@@ -2,26 +2,26 @@
 category: news
 title: "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards"
 excerpt: "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,"
-publishedDateTime: 2022-03-22T12:42:00Z
-originalUrl: "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html"
-webUrl: "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html"
+publishedDateTime: 2022-03-22T12:41:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-812be7d276734b00a1b5ecd9b7d1d927"
+webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-812be7d276734b00a1b5ecd9b7d1d927"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: The Register-Herald
-  domain: register-herald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/2f/c2fe3e5e-68b4-11ec-b5b1-eb6d367dec1b/61cc72a6c74a5.image.jpg"
-    width: 320
-    height: 325
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -161,6 +161,6 @@ related:
         height: 315
         isCached: true
 
-secured: "U/KEYTqJ+SFaeLmiFP9EfWcQIq+HhkosBEatiX8NgLPKpvaiP5fbSHntP6jgGPYR/DuV16uNbH2PpJGoTuPL8CmEE+ixE5rTj/iExJjcUAXPF8wSQnDQPaQozIkogb97AC0Js3kv64NuBxmVtv0Msdf1cghm1BKlNp6PaSgJyy9WG1dB/33CpODK0FKmHItvtr/aTr/0M77SSIFWrPIxgpAhMpfDnsJoggB2NQvkhjZu6CRK3hdVLEauMh9Gzf2UUeX6wCdPYz0VuoJr7uB/8awVCFCIdtM/YVKdD6uyABtqrvaH41wyPH+0cAmupEZ3NdkullRK1niBkjNhPAmbeN80nKTr709CHupVEuoNWHSnOFVNliiG1YEOitBvT1L6zM0eX61o6EfKCSdqKHZ4wjFuNU7bFcmxSTm2Q5UJD/uEZCIVSN6onrYCVcYDyFaauvAb/62qyOs6PBEDBPKMREGKUvZJ+hT1X7iMmQdO+X8aDuOHrOoSziH2MKTYkcWVGSNqcQv5iSLNTBJoQwv50w==;Vyx9XejTRn042kaDy/h7uQ=="
+secured: "ewQsI0RN0SYrjWbs8JV4DNFsAmk/7RNJVsiPmWWw8rhfytIEflBmpJV/fAelDTczNLLSWlxaYO6M7VAnTpVPRCUTPHwM4qaCZF23vGIFvXF9/XXe1A6sdGw/Hk+uob8wVB730idnF/ghXnD70ZYAUSxDq7ijAHeAMTzF3IlsOBUoa1ggWt7yhr5kaDeXee2mfphYSmQLuA4YUtSTgpSlYfGzeFzhlJ4fPDrbIE40NgW86kC/l/IeEDXeJ6YWyxpNe19PQfuYYGlsAmHv6sgfPsLoSFgodxTJwKV7+11wU/QVv7hpCM8dS5XkXMFi4aiIkARVGzGF1DlNnDE11FPRMtXNJLDwMoK2o3Un+mYGcoI=;tps9XDEgc0smxzMep4lTIg=="
 ---
 
