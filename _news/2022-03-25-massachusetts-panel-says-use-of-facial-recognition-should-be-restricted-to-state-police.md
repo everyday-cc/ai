@@ -41,38 +41,6 @@ related:
         width: 1024
         height: 651
         isCached: true
-  - title: "Mass. Outlines Strict Guidelines for Facial Recognition"
-    excerpt: "The Massachusetts Facial Recognition Commission released its recommendations to the Legislature for using the controversial technology, including strong limits on when local police may use facial recognition."
-    publishedDateTime: 2022-03-22T23:02:00Z
-    webUrl: "https://www.govtech.com/policy/mass-outlines-strict-guidelines-for-facial-recognition"
-    ampWebUrl: "https://www.govtech.com/policy/mass-outlines-strict-guidelines-for-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/mass-outlines-strict-guidelines-for-facial-recognition?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/585ec8f/2147483647/strip/true/crop/4763x2484+0+413/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2Ff7%2F1b7a168b45eab9c0eac2f749ff40%2Fshutterstock-1307848756.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "A state commission wants new limits on how police use facial recognition"
-    excerpt: "A commission has proposed recommendations that the Judiciary Committee's House chairman says will balance implications of facial recognition technology on individual privacy rights, and the \"proper role\" it can play in the criminal justice system."
-    publishedDateTime: 2022-03-23T11:41:00Z
-    webUrl: "https://www.wbur.org/news/2022/03/23/state-commission-limits-police-facial-recognition"
-    ampWebUrl: "https://amp.wbur.org/news/2022/03/23/state-commission-limits-police-facial-recognition"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2022/03/23/state-commission-limits-police-facial-recognition"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 58
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/03/ap_20176661952737-94d26662afce25a605de5d73b33932e4e1e3a047.jpg"
-        width: 1000
-        height: 749
-        isCached: true
 
 secured: "9IRUA7BU7h3vKDtZ+wjH7U3hvdtWqpFj0ayoRar/o0JQzw562TpBp47tVHTxCroHUPykTjnl7HTAH6VBePkvP198Phkpcgemj6eLKCBalhtW7VpZDOnDpbxMzIMI+dB5491EEv/GfUZQW6VjWddmK9ubuDBn1gBm4abVrdDPFKe8iPPOBYOV8btJI10rK8aoJKMpsi0NF87BMfZrmc67pfueUYoD/WDs5PDfdDO7DeGO37woDF+tpYiebqInrW/aKEVGUhv7nH3E6JORabMz9XBSMJDpAB578V/VMNSG/OlI1ZrJ/xN4gD9HN3hCj6PCIt8uap5paVQ3SrIR6Nno19eM2h2+1go6BDZOROaZxVaB/3XI4BfCBus4z4N7uhMf9p2k90w/1w588NYe+gL5D1e3oUuC/qJVtwiVjWk9UWi+w7btO3qbWd/ou8+Xe6T3ptStC89o/vtWT12dCnZJ/0svi8uzS9j5j/J2pz72wI53xz/+Te2Pcf25ENG1EJl2H0EENuVj6OG4lPVwluNBXA==;gpmw+gsJahSW63EejkOMJA=="
 ---

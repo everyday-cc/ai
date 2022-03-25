@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/how-to-investigate-when-a-robot-caus
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/how-to-investigate-when-a-robot-causes-an-accident-and-why-its-important-that-we-do-179143"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 320
     height: 213
     isCached: true
+
+related:
+  - title: "How to investigate when a robot causes an accident, and why it's important that we do"
+    excerpt: "Robots are featuring more and more in our daily lives. They can be incredibly useful (bionic limbs, robotic lawnmowers, or robots which deliver meals to people in quarantine), or merely entertaining (robotic dogs,"
+    publishedDateTime: 2022-03-25T12:51:00Z
+    webUrl: "https://techxplore.com/news/2022-03-robot-accident-important.html"
+    ampWebUrl: "https://techxplore.com/news/2022-03-robot-accident-important.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-robot-accident-important.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 52
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/how-to-investigate-whe.jpg"
+        width: 926
+        height: 619
+        isCached: true
 
 secured: "kJd7HB0OlteuIl96iwcYFAznmxEA/8BuRqWmZluzTu/sNR2/BI5550tDBkZgP8FS3R5sMYNykxEev5YHWejA3kZRssxG6uPdpdd303IjokbxsLc3DVR1tvQY2o6KWkaWU1KrMMln3k7db0BqUFpABn4GLGQe0howfdLQmO7nb7gv4GbpXcYi0qRitVNHtg8LWxF0YAHxaDjssoBBxK9fIInP1q42ncKMfapFi8Ep7SGcbkgZbGggq9Y9taE567HvglWMvyKGtJ09eXvc3q3NHdIZ5eAZMBVWCqu85PnzRfrCrvMxuCEJ4XrJOBcxHHPsaEGpQ4Y4S+bmzFudqxZAZxy4rr34seFxmSWEV7mt0SM=;UrULyKIC771DLB4xX/ZFAQ=="
 ---

@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition panel looks to balance police needs with privacy"
-    excerpt: "A much-anticipated report on facial recognition technology has landed with an eye on balancing police powers and privacy. Issuing 13 recommendations in total, the commission behind the report says"
-    publishedDateTime: 2022-03-23T10:35:00Z
-    webUrl: "https://www.sentinelandenterprise.com/2022/03/23/facial-recognition-panel-looks-to-balance-police-needs-with-privacy/"
-    ampWebUrl: "https://www.sentinelandenterprise.com/2022/03/23/facial-recognition-panel-looks-to-balance-police-needs-with-privacy/amp/"
-    cdnAmpWebUrl: "https://www-sentinelandenterprise-com.cdn.ampproject.org/c/s/www.sentinelandenterprise.com/2022/03/23/facial-recognition-panel-looks-to-balance-police-needs-with-privacy/amp/"
+  - title: "Facial Recognition, Climate Change, And Dumplings"
+    excerpt: "Bloomberg Opinion columnist Parmy Olson talks about the dangers of facial recognition technology being introduced in war, and columnist Adam Minter describes the importance of Russian cooperation in slowing climate change."
+    publishedDateTime: 2022-03-25T12:30:00Z
+    webUrl: "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast"
     type: article
     provider:
-      name: Sentinel & Enterprise
-      domain: sentinelandenterprise.com
-    quality: 59
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
     images:
-      - url: "https://www.sentinelandenterprise.com/wp-content/uploads/2022/03/FBI_Sexual_Misconduct_04458-1.jpg?w=1024&h=651"
-        width: 1024
-        height: 651
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2PXbxrf4nZA/v0/1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Mass. Outlines Strict Guidelines for Facial Recognition"
     excerpt: "The Massachusetts Facial Recognition Commission released its recommendations to the Legislature for using the controversial technology, including strong limits on when local police may use facial recognition."
@@ -59,19 +57,60 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Massachusetts panel says use of facial recognition should be restricted to state police"
-    excerpt: "The special commission's report also expressed marked concern about the use of facial recognition by other government functions."
-    publishedDateTime: 2022-03-24T19:12:00Z
-    webUrl: "https://www.biometricupdate.com/202203/massachusetts-panel-says-use-of-facial-recognition-should-be-restricted-to-state-police"
+  - title: "Debating the role of facial recognition technology in Mass."
+    excerpt: "The Commonwealth is rethinking use of facial recognition technology in law enforcement. Right now, at least nine law enforcement offices and departments use it, as well as offices of some federal agencies,"
+    publishedDateTime: 2022-03-23T20:13:00Z
+    webUrl: "https://www.wbur.org/radioboston/2022/03/23/march-23-2022-rb"
+    ampWebUrl: "https://amp.wbur.org/radioboston/2022/03/23/march-23-2022-rb"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/radioboston/2022/03/23/march-23-2022-rb"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
+      name: WBUR
+      domain: wbur.org
+    quality: 59
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2018/12/AP_18116251102533.jpg"
+        width: 1700
+        height: 1133
+        isCached: true
+  - title: "Unique web-based facial recognition tool enhances security and fights crime"
+    excerpt: "Clearview AI facial search engine brings more than 20 billion facial images to its software solution enabling law enforcement and federal agencies to investigate suspects"
+    publishedDateTime: 2022-03-24T00:22:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21261325/unique-webbased-facial-recognition-tool-enhances-security-and-fights-crime"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 54
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/03/GettyImages_1207760231.623a0db3b4e4d.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Rethinking the rules around facial recognition technology"
+    excerpt: "Right now, at least nine law enforcement offices and departments in Massachusetts use it, as well as offices of some federal agencies, drawing mostly on an RMV database and FBI resources. But there's very little oversight in how facial recognition technology is used in law enforcement."
+    publishedDateTime: 2022-03-23T19:30:00Z
+    webUrl: "https://www.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
+    ampWebUrl: "https://amp.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 39
+  - title: "AI voice-driven speech recognition suite, Augnito, enhances radiology and clinical reporting for Wellbeing Software"
+    excerpt: "Bespoke speech recognition technology, Augnito, aids Wellbeing Software with highly accurate Radiology Information System workflows. Scribetech has announced the integration of its disruptive, AI-powered voice-driven speech recognition (SR) software,"
+    publishedDateTime: 2022-03-22T15:29:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-03-21/ai-voice-driven-speech-recognition-suite-augnito-enhances-radiology-and-clinical-reporting-for-wellbeing-software"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 32
+    images:
+      - url: "https://cdn.pharmiweb.com/media/14138/shutterstock_2021632928.jpg"
+        width: 1254
+        height: 836
         isCached: true
 
 secured: "1mCK6rgE+lqdgBDPOb1fL067lWhoUV42sfLJPlc638uI1RXLpMFR0jGzb6WxchSLSfkGhJOl2DHYx6EzujMwgV96ZozOab2PtxTbKnp21LgAZhl2zsjm+jFtsydN0H31ltrGCP83jFLmp7QfHqG2MJ2oh1zuzGbGxHr5ssW3JC3ExJkVjyu86OGpICNZC4fYML9dhgeQ/DbJdEAiMRQxD6mcSkgYUE+/SqKLAnKhCRz7Lp3sjZpMAq0XBj18zuzsOK7h3JAHu1KSYMVjgxJ5DEpWN9MlRZpV0j30B7nVJ3FhC2MmGQHqOmPdc9zhLanAjHKhmN3XOED7lZfNyLbMvWMyMo0sGUADFw89UjujPuC/llSugtXu74i8+D/Bdb60i8ALZObX4rLsZm4L+ASukI5fxHJZx8wTmIOlbFgZXPKRi/qTuKA6EKFPPN/lUm1mKXEfnlI4flitnChZr8Xo/sf69qweOdrE+j7TLzZad8/STR6azNaVAMl81mcJNB/fTSuwhOylILHh+XetZicWsw==;6kiJGt8mWfBC9h1L9EBYww=="

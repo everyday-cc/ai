@@ -25,62 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Debating the role of facial recognition technology in Mass."
-    excerpt: "The Commonwealth is rethinking use of facial recognition technology in law enforcement. Right now, at least nine law enforcement offices and departments use it, as well as offices of some federal agencies,"
-    publishedDateTime: 2022-03-23T20:13:00Z
-    webUrl: "https://www.wbur.org/radioboston/2022/03/23/march-23-2022-rb"
-    ampWebUrl: "https://amp.wbur.org/radioboston/2022/03/23/march-23-2022-rb"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/radioboston/2022/03/23/march-23-2022-rb"
+  - title: "‘Don’t stop at one search’: Emails reveal how Clearview pushed college police to use facial recognition on students"
+    excerpt: "The University of Illinois used a free version of Clearview AI to conduct investigations. It then bought the software."
+    publishedDateTime: 2022-03-24T15:33:00Z
+    webUrl: "https://www.dailydot.com/debug/university-illinois-clearview/"
+    ampWebUrl: "https://www.dailydot.com/debug/university-illinois-clearview/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/university-illinois-clearview/?amp"
     type: article
     provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 59
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 52
     images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2018/12/AP_18116251102533.jpg"
-        width: 1700
-        height: 1133
+      - url: "https://uploads.dailydot.com/2022/03/facial-recognition-college.jpg?auto=compress&fm=pjpg&ixlib=php-3.3.1"
+        width: 2000
+        height: 1000
         isCached: true
-  - title: "NCJTC and Biometrica partner on facial recognition training for law enforcement"
-    excerpt: "The foundational course will train law enforcement in the understanding and ethical use of facial recognition for critical investigations."
-    publishedDateTime: 2022-03-23T22:42:00Z
-    webUrl: "https://www.biometricupdate.com/202203/ncjtc-and-biometrica-partner-on-facial-recognition-training-for-law-enforcement"
+  - title: "Clearview AI facial recognition being used to deliver news of Russian war dead to families"
+    excerpt: "Ukraine military is matching images of Russian soldiers killed in combat to social media profiles with Clearview AI’s biometric app."
+    publishedDateTime: 2022-03-24T17:11:00Z
+    webUrl: "https://www.biometricupdate.com/202203/clearview-ai-facial-recognition-being-used-to-deliver-news-of-russian-war-dead-to-families"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 50
+    quality: 44
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
-  - title: "Rethinking the rules around facial recognition technology"
-    excerpt: "Right now, at least nine law enforcement offices and departments in Massachusetts use it, as well as offices of some federal agencies, drawing mostly on an RMV database and FBI resources. But there's very little oversight in how facial recognition technology is used in law enforcement."
-    publishedDateTime: 2022-03-23T19:30:00Z
-    webUrl: "https://www.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
-    ampWebUrl: "https://amp.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 39
-  - title: "Facial Recognition Tech is Controversial Yet Key Piece of Federal Biometrics Strategy"
-    excerpt: "Biometric data and technologies are being deployed within multiple federal agencies to boost the accuracy of identity verification and free up human decision makers for other, more complex and cognitive tasks,"
-    publishedDateTime: 2022-03-22T09:46:00Z
-    webUrl: "https://www.govconwire.com/2022/03/facial-recognition-tech-is-controversial-yet-key-piece-of-federal-biometrics/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 32
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2022/03/unnamed-file-111.png"
-        width: 1200
-        height: 628
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/24130344/ukraine-war-zone-scaled.jpg"
+        width: 2048
+        height: 1152
         isCached: true
 
-secured: "2gwNfqvT7KruMXDBt/8m+d8Et5EQgxNT9xvzMdLLE5rjZw3VRfi7bdDCASrStPmCMHblnz7hkCdQ51yH/stW035r5mqdTpw30b4sKo15NkJapBOKTHEUGO798R1YJ99UfdBd804A2SoJbXqrWrYKpqmHv68bjdhiib2H3i/E9cKwoY2i/DFdaEuDuPitrZRHASwl6FDsFj/I4ZMQLgZgRr7wCE5TM+pjOzkzsa51Vk7WeQFtD0e1kjLJKcQu5oxXc+Z8+pbIlO/n0zYElMx/cHw2GFNXHwIudg2PYBJnMYonxT2HOufkrozuy70u0RECIMkdCgTBhLO6zwXdOpykwOWlrwi12cLV+iLfS322vx4=;UILPi40SdG0sm5P1N7rQig=="
+secured: "5akUjhaUh6nQojxIrHgVKWNkF5xxSbnOPD9bPRnA0kTNYXQ4V9N7F5jRO0EroIOMLx8/7K3yCJxzhRoLtTqptxNj5Kha8On6Qud1MVaK8/C+2icrW/Grehu1WGAiyf8rZTXm0jy+iwytjB2vsTnm2ZejhYS41ukDpWcj81L9HQteHT8alQ/VzR6aYFedD/wf1gnenrCh695k6G1yVPn4zZ3JWu8fcKJu/USjuLCszV9eXJ1VPHAT/3DJxm9Pzrqn+1sglW6xr94TWPqT5FlxgRDvYXmC8aFSpNVoixunVScbTUfJre8n+wgDXaR4WW95j3WJNM9Lm4Cy+kFgr9ApUWvclOyd7bjZ0/r/y1zTedYnmBiqlvMaOdVQz2+T3ZqL5b7vjr6JaZ2OWoDquJIlHcKCJpSG/yPtoF+HHrG0XKFOVhlUHgq/aARh0B0uzDaRg6IPtYtwn3svwnMST2swFY5Ei1f+abeYtCICNvAM41MHlQW+p4fpOK5mnSwiilBJ9vf18JtEmRZ9pamGLANe9w==;ucpC3sRwxiE+BQZsfTmxoA=="
 ---
 

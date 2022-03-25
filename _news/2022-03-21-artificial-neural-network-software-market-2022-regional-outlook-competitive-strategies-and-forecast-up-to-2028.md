@@ -39,20 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Global Intelligent Speech and Voice Recognition Market 2022 Sales Statistics, Data Analysis, Size Estimation and Application Assessment by 2028"
-    excerpt: "A recently uploaded report namely Global Intelligent Speech and Voice Recognition Market 2022 by Company, Regions, Type and Application, Forecast to 2028 has provided unique insights about the market for the given period."
-    publishedDateTime: 2022-03-23T04:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-intelligent-speech-and-voice-recognition-market-2022-sales-statistics-data-analysis-size-estimation-and-application-assessment-by-2028-2022-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Vision Market Analysis And Overview 2022 By The Business Research Company"
     excerpt: "TBRC's machine vision market research report covers in-depth breakdowns of market sizing, forecasts, competitors, regional performance, and more."
     publishedDateTime: 2022-03-24T15:30:00Z

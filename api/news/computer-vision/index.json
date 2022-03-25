@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-03-24-debating-the-role-of-facial-recognition-technology-in-mass.md",
-      "title": "Debating the role of facial recognition technology in Mass.",
-      "excerpt": "The Commonwealth is rethinking use of facial recognition technology in law enforcement. Right now, at least nine law enforcement offices and departments use it, as well as offices of some federal agencies,",
+      "path": "_news/2022-03-25-facial-recognition-climate-change-and-dumplings.md",
+      "title": "Facial Recognition, Climate Change, And Dumplings",
+      "excerpt": "Bloomberg Opinion columnist Parmy Olson talks about the dangers of facial recognition technology being introduced in war, and columnist Adam Minter describes the importance of Russian cooperation in slowing climate change.",
       "sourceUrl": null,
-      "webUrl": "https://www.wbur.org/radioboston/2022/03/23/march-23-2022-rb",
-      "originalUrl": "https://www.wbur.org/radioboston/2022/03/23/march-23-2022-rb",
+      "webUrl": "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast",
+      "originalUrl": "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://d279m997dpfwgl.cloudfront.net/wp/2018/12/AP_18116251102533.jpg",
-          "width": 1700,
-          "height": 1133,
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2PXbxrf4nZA/v0/1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.wbur.org/radioboston/2022/03/23/march-23-2022-rb",
-      "cdnAmpWebUrl": "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/radioboston/2022/03/23/march-23-2022-rb",
-      "publishedDateTime": "2022-03-23T13:13:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T05:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WBUR",
-        "domain": "wbur.org",
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-dont-stop-at-one-search-emails-reveal-how-clearview-pushed-college-police-to-use-facial-recognition-on-students.md",
+      "title": "‘Don’t stop at one search’: Emails reveal how Clearview pushed college police to use facial recognition on students",
+      "excerpt": "The University of Illinois used a free version of Clearview AI to conduct investigations. It then bought the software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/debug/university-illinois-clearview/",
+      "originalUrl": "https://www.dailydot.com/debug/university-illinois-clearview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uploads.dailydot.com/2022/03/facial-recognition-college.jpg?auto=compress&fm=pjpg&ixlib=php-3.3.1",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/university-illinois-clearview/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/university-illinois-clearview/?amp",
+      "publishedDateTime": "2022-03-24T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -138,49 +190,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-facial-recognition-panel-looks-to-balance-police-needs-with-privacy.md",
-      "title": "Facial recognition panel looks to balance police needs with privacy",
-      "excerpt": "A much-anticipated report on facial recognition technology has landed with an eye on balancing police powers and privacy. Issuing 13 recommendations in total, the commission behind the report says",
-      "sourceUrl": null,
-      "webUrl": "https://www.sentinelandenterprise.com/2022/03/23/facial-recognition-panel-looks-to-balance-police-needs-with-privacy/",
-      "originalUrl": "https://www.sentinelandenterprise.com/2022/03/23/facial-recognition-panel-looks-to-balance-police-needs-with-privacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sentinelandenterprise.com/wp-content/uploads/2022/03/FBI_Sexual_Misconduct_04458-1.jpg?w=1024&h=651",
-          "width": 1024,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sentinelandenterprise.com/2022/03/23/facial-recognition-panel-looks-to-balance-police-needs-with-privacy/amp/",
-      "cdnAmpWebUrl": "https://www-sentinelandenterprise-com.cdn.ampproject.org/c/s/www.sentinelandenterprise.com/2022/03/23/facial-recognition-panel-looks-to-balance-police-needs-with-privacy/amp/",
-      "publishedDateTime": "2022-03-23T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sentinel & Enterprise",
-        "domain": "sentinelandenterprise.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202203/ncjtc-and-biometrica-partne
 webUrl: "https://www.biometricupdate.com/202203/ncjtc-and-biometrica-partner-on-facial-recognition-training-for-law-enforcement"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -25,47 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Debating the role of facial recognition technology in Mass."
-    excerpt: "The Commonwealth is rethinking use of facial recognition technology in law enforcement. Right now, at least nine law enforcement offices and departments use it, as well as offices of some federal agencies,"
-    publishedDateTime: 2022-03-23T20:13:00Z
-    webUrl: "https://www.wbur.org/radioboston/2022/03/23/march-23-2022-rb"
-    ampWebUrl: "https://amp.wbur.org/radioboston/2022/03/23/march-23-2022-rb"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/radioboston/2022/03/23/march-23-2022-rb"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 59
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2018/12/AP_18116251102533.jpg"
-        width: 1700
-        height: 1133
-        isCached: true
-  - title: "Rethinking the rules around facial recognition technology"
-    excerpt: "Right now, at least nine law enforcement offices and departments in Massachusetts use it, as well as offices of some federal agencies, drawing mostly on an RMV database and FBI resources. But there's very little oversight in how facial recognition technology is used in law enforcement."
-    publishedDateTime: 2022-03-23T19:30:00Z
-    webUrl: "https://www.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
-    ampWebUrl: "https://amp.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 39
-  - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
-    excerpt: "Clearview AI, the facial recognition technology (FRT) company that provides powerful and reliable photo identification technology to law enforcement agencies across the country, announced the release of Clearview 2."
-    publishedDateTime: 2022-03-25T10:02:00Z
-    webUrl: "https://www.kentuckytoday.com/news/business/clearview-ai-releases-2-0-version-of-industry-leading-facial-recognition-platform-for-law-enforcement/article_10f65bcc-2844-540e-a5f2-ace40197474b.html"
-    type: article
-    provider:
-      name: Kentucky Today
-      domain: kentuckytoday.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Facial Recognition Tech is Controversial Yet Key Piece of Federal Biometrics Strategy"
     excerpt: "Biometric data and technologies are being deployed within multiple federal agencies to boost the accuracy of identity verification and free up human decision makers for other, more complex and cognitive tasks,"
     publishedDateTime: 2022-03-22T09:46:00Z

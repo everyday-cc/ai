@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/mayo-clinic-assessing-google-ai-too
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mayo-clinic-assessing-google-ai-tool-as-it-seeks-more-insights-from-patient-records-11648159790"
 type: article
 quality: 85
-heat: 85
+heat: 87
 published: true
 
 provider:
