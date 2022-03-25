@@ -23,7 +23,7 @@
       "twitter": {
         "username": "lemonade_inc",
         "url": "https://twitter.com/lemonade_inc",
-        "followers": 28539
+        "followers": 28541
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -76,7 +76,7 @@
       "twitter": {
         "username": "BaiduResearch",
         "url": "https://twitter.com/BaiduResearch",
-        "followers": 57981
+        "followers": 57982
       },
       "size": "10,001+ employees",
       "yearFounded": 2000,
@@ -129,7 +129,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 8454
+        "followers": 8455
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
@@ -234,7 +234,7 @@
       "twitter": {
         "username": "scale_ai",
         "url": "https://twitter.com/scale_ai",
-        "followers": 13117
+        "followers": 13118
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -434,7 +434,7 @@
       "twitter": {
         "username": "Affirm",
         "url": "https://twitter.com/Affirm",
-        "followers": 16649
+        "followers": 16650
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -493,7 +493,7 @@
       "twitter": {
         "username": "SkydioHQ",
         "url": "https://twitter.com/SkydioHQ",
-        "followers": 12999
+        "followers": 13000
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -696,7 +696,7 @@
       "twitter": {
         "username": "mythicinc",
         "url": "https://twitter.com/mythicinc",
-        "followers": 1259
+        "followers": 1260
       },
       "size": "11-50 employees",
       "yearFounded": 2012,
@@ -729,48 +729,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/twilio.md",
-      "title": "Twilio",
-      "excerpt": "More than 2 million developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, and video by virtualizing the world’s telecommunications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world’s largest organizations — to reinvent how companies engage with their customers.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/twilio/index.json",
-      "webUrl": "https://everyday.cc/ai/company/twilio/",
-      "type": "profile",
-      "name": "Twilio",
-      "overview": "More than 2 million developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, and video by virtualizing the world’s telecommunications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world’s largest organizations — to reinvent how companies engage with their customers.",
-      "website": "https://www.twilio.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/twilio-inc-/",
-        "followers": 64799
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/twilio"
-      },
-      "twitter": {
-        "username": "twilio",
-        "url": "https://twitter.com/twilio",
-        "followers": 82367
-      },
-      "size": "1,001-5,000 employees",
-      "yearFounded": 2008,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1410624514443169793/HSCyvRCZ_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Twilio",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/rev.md",
       "title": "Rev.com",
       "excerpt": "Rev is a venture-backed internet startup in San Francisco whose mission is to give more people the freedom to work from home. We have created thousands of work-from-home jobs, and we aspire to create millions more. We have built platforms for transcription, video captioning, foreign subtitles and document translation.",
@@ -790,7 +748,7 @@
       "twitter": {
         "username": "rev",
         "url": "https://twitter.com/rev",
-        "followers": 11208
+        "followers": 11211
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -824,6 +782,48 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/twilio.md",
+      "title": "Twilio",
+      "excerpt": "More than 2 million developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, and video by virtualizing the world’s telecommunications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world’s largest organizations — to reinvent how companies engage with their customers.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/twilio/index.json",
+      "webUrl": "https://everyday.cc/ai/company/twilio/",
+      "type": "profile",
+      "name": "Twilio",
+      "overview": "More than 2 million developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, and video by virtualizing the world’s telecommunications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world’s largest organizations — to reinvent how companies engage with their customers.",
+      "website": "https://www.twilio.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/twilio-inc-/",
+        "followers": 64799
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/twilio"
+      },
+      "twitter": {
+        "username": "twilio",
+        "url": "https://twitter.com/twilio",
+        "followers": 82366
+      },
+      "size": "1,001-5,000 employees",
+      "yearFounded": 2008,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "topics": [
+        "AI"
+      ],
+      "heat": 109,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1410624514443169793/HSCyvRCZ_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Twilio",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/matterport.md",
       "title": "Matterport",
       "excerpt": "Matterport is the world leader in immersive 3D technology, offering a platform for prosumers and professionals to easily capture, edit and share 3D models of physical spaces. These navigable virtual tours are presented in Matterport's proprietary photo-realistic digital media format.",
@@ -843,7 +843,7 @@
       "twitter": {
         "username": "Matterport",
         "url": "https://twitter.com/Matterport",
-        "followers": 16804
+        "followers": 16806
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
@@ -893,7 +893,7 @@
       "twitter": {
         "username": "NAVYA_Group",
         "url": "https://twitter.com/NAVYA_Group",
-        "followers": 9982
+        "followers": 9983
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -996,7 +996,7 @@
       "twitter": {
         "username": "zscaler",
         "url": "https://twitter.com/zscaler",
-        "followers": 12022
+        "followers": 12020
       },
       "yearFounded": 0,
       "locations": [
@@ -1038,7 +1038,7 @@
       "twitter": {
         "username": "RecursionPharma",
         "url": "https://twitter.com/RecursionPharma",
-        "followers": 5327
+        "followers": 5329
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -1096,7 +1096,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 19730
+        "followers": 19731
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -1354,7 +1354,7 @@
       "twitter": {
         "username": "qctrlHQ",
         "url": "https://twitter.com/qctrlHQ",
-        "followers": 4346
+        "followers": 4345
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -1516,7 +1516,7 @@
       "twitter": {
         "username": "h2oai",
         "url": "https://twitter.com/h2oai",
-        "followers": 23210
+        "followers": 23211
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -1571,7 +1571,7 @@
       "twitter": {
         "username": "LuminousAI",
         "url": "https://twitter.com/LuminousAI",
-        "followers": 1286
+        "followers": 1288
       },
       "size": "2-10 employees",
       "yearFounded": 2018,
