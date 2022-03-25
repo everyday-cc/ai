@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 614
+heat: 562
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 13723122
+  followers: 13723879
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "HbZQ99Brl6iF5FM2+7RNBterMcUUxCFD82RlCNP7ua90sjzQIrkOZI4sJCAgp3Eb1RFBjCVx9O02sMXrR86D5Ky9N/9Ds0qh4oEklRyEMsgMZVW497BlG/XC1uL1hjI3ShUzTF12gCHsEdqmdqpsQWM4EAOslf6bwo7BYx5lgS1JXxie3bi0VkEYq60df/8k8krc1VTvl5uyJSbH/hhSIz67X8MdvdONlR9yyXNam/HQ1kwkPRJgkdOSD+DA1f5wkhiJENOfEnybM0Ngf/AQa/cA2udTKKUqyMNTsaVpKyy7Ytl5oPXdp/Q8bWCwscjx9CHg1yxJXPIBeOLUr7KlasYlI6ozJs3EqrDbDvA5yQNJfERf0B+yJQBmZv4+x21imLH86vkNvnC2y9R+GPynzRFG+O1dGXpIkiKa1tyrLsg=;xjoIZRD+pTpSzYj72RdqmQ=="
+secured: "7gK+mTu/XubDMQMBxI+/cRMAPEHrlOqz9CqKSSYWmfMig8gBpTqGerRp7ug1luX2FaCmD7Ewu+XPRxAnUGDgkwlCOksugvZqsdRD1UoDF0i2BGrtNWKWHloIEC4KVrRfPZU4fqG47Bdh7r4nZDWhSlXEC5s2ViDmg81h3PdOVS8hBoPg+X1MnlVIhO1LOSRZvwRkJGdZ4Sw7qrdt2cyX2w3/Za2EDxDwWcr3nJsKSx2tvIBcZVVno/rizyasbwKDpL2BWagoF4DMEOqFj1NQF+rgjFk+7emR5fTMCLnXUUf48L8whEWF6eoTuXelh52bL81LvmIvUXjZo0V3gX2PrxyrviRzuMa19jnoJTOz8c54G5ZqHVN7Yl6Y8MggcS/BepVfNaZgnCHcgmpzgSv+tKbH449hcswG4QHgQUs3Ous=;ltVwbLpiJ35mdvy22nBe7A=="
 ---
 

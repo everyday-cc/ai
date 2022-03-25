@@ -2,7 +2,7 @@
 name: "TaskUs"
 overview: "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology."
 type: "profile"
-heat: 65
+heat: 82
 
 website: https://www.taskus.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "taskus"
   url: "https://twitter.com/taskus"
-  followers: 4691
+  followers: 4692
 
 size: 10,001+ employees
 yearFounded: 2008
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=W1V6Id1VrqU"
 
-secured: "XrS3Kf8p1ptoqGD/j81ZOyuY7jDPGBAlxfVHm0FEffSGnnyXa7QvWDjZKa/MTJUyizsaXALWo3g51LssVLYCyWQ60f+U+IWSaHe2uIgjotzyp0qe1GGcvvqclBZi3XzsPiDJt2LOsEhqHADM95c3Hy7k/mXNBwmMThaVuptrZ8HnpLxSEIMLkzBcRVUWTwpzTG31KQmhlw4DtuTu6rETHQKW1uGPXmSWXTBYBE9lDvHeQWtjtBV3o5T1Vrv0N+aCSY8qc1jNsDsKeeyBJY1hJWL7oafRxEv6gP4EuPAnkhZQi3XHalGChoAT2WBN+efycmIpe7UOkhloKXSH71Ce004R9NZsEOR1IDwAgPCeK6aN5OtqIBpCH/0diM/UBh1/mlOULw1Ogfog6BamMC/0BtISsSSNBQcPtZxe0xDzKMk=;GoWhnQjsGzSmPvUMFpINgQ=="
+secured: "f2bWHs7ZhNxyrYt3+m4NHx2vyCG4u0HB8gm9JyxkewJhY2FWu3TuLX74Fy5zdsnLodRaHAVAsu4UZfnVV3ZRHTYNCR0cVuVmJC7OFfXTBUfdzyY1a+lE8joDoH+hcspQ6GP0coVpc1mBnmDKGZKJPJtym09xSLxhohepSkxmOxsZ7iCuqllD5tnzE1UVGdJ5SI2FKmLXMy4XNvUgiHk+LLEwg/ROsfoUTinK2nvDXN6vhwcfmAJuvIw2lIUj6u85MOWVl0kh098gyjjaWRmLnQ29AMyc8xtUAmn02yItCD30b439pHJT3PDVftgTEYEZ4ViEMM8TwJ9u0SFVHl53xQSvvbWknmbDjQMvoH3WEfHXti9dEvG91PCjFJFHIyCEp7Tl9slPUrbbVF5QHG1ROSB6oeSYLw0nnPl+Io52qYQ=;cW6QhuY51ns8aWOrSQayEw=="
 ---
 
