@@ -448,10 +448,10 @@
     {
       "path": "_news/2022-03-17-using-artificial-intelligence-to-solve-one-of-health-cares-most-enduring-problems.md",
       "title": "Using Artificial Intelligence to Solve One of Health Care's Most Enduring Problems",
-      "excerpt": "Northwestern Medicine built its own artificial intelligence program to trigger follow up on incidental imaging findings to prevent delayed and missed care . CHICAGO, March 16, 202",
+      "excerpt": "Northwestern Medicine built its own artificial intelligence program to trigger follow up on incidental imaging findings to prevent delayed and",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-using-artificial-intelligence-solve-one-health-cares-most-/2022/03/16/9565389.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-using-artificial-intelligence-solve-one-health-cares-most-/2022/03/16/9565389.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/using-artificial-intelligence-to-solve-one-of-health-care-s-most-enduring-problems-1031286387",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/using-artificial-intelligence-to-solve-one-of-health-care-s-most-enduring-problems-1031286387",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -470,12 +470,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T11:39:00-07:00",
+      "publishedDateTime": "2022-03-16T12:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

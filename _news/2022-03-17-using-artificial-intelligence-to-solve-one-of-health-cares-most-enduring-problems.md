@@ -1,15 +1,19 @@
 ---
 category: news
 title: "Using Artificial Intelligence to Solve One of Health Care's Most Enduring Problems"
-excerpt: "Northwestern Medicine built its own artificial intelligence program to trigger follow up on incidental imaging findings to prevent delayed and missed care . CHICAGO, March 16, 202"
-publishedDateTime: 2022-03-16T18:39:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-using-artificial-intelligence-solve-one-health-cares-most-/2022/03/16/9565389.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-using-artificial-intelligence-solve-one-health-cares-most-/2022/03/16/9565389.htm"
+excerpt: "Northwestern Medicine built its own artificial intelligence program to trigger follow up on incidental imaging findings to prevent delayed and"
+publishedDateTime: 2022-03-16T19:07:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/using-artificial-intelligence-to-solve-one-of-health-care-s-most-enduring-problems-1031286387"
+webUrl: "https://markets.businessinsider.com/news/stocks/using-artificial-intelligence-to-solve-one-of-health-care-s-most-enduring-problems-1031286387"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
@@ -21,6 +25,6 @@ images:
     height: 266
     isCached: true
 
-secured: "sZb1yhKjCPrO9lvnWIXnbb7nWZn88NxSX/W+GShYyuhMI2tcnoeaPCxGBCoqZos5A+8eU+Ge3d7p7YlAcSWVHwHLNbK3Y/5Z+ImNy+jASAF6AuSkmeLs8CfgiF3dvt2C10fT13JwCZg/sSmpjmlbDWJVBP+tJgAiB9t2OsyWScgH4utliNhbJMwtMGaG+zQSC1UEdButluy9F0q/xezHt/ifBIvTUNEypANwC8k2oWCE2n12vE9a2frfIawKDFdLVsSvlVHEf/GdW6h17JEaekgz0BokpZ4l+tXKmIPOt9BdeFK9giOrpv3uvGIVdliKqopQCCgt3yULzRAhYZlMipVTQ1i1yvkikLJAvImFXhI=;22Gjz1dj1yUflwMIlwIrWw=="
+secured: "YCVoYvbOgIyZdZM2XrtdTNHp50tUDaDS8I+8Yo6Uv2+5OX+UMAv8FEHaf1y568DkZ2wD7FdhRg/hjkSeozFm4UuQYxv3XLgxQXqtO7r+sbHxunrcpJ/zGnqAT8cOKudul5p/LWFKpmM94eZ6konc+XkMMM1yqNglYZtJvsKxGFgpYVOfYQZdCGms/TRQoAPZ7ckF/UgdpiC9duDBfNqH8FAMrwElEZFKNiwg8kUFEn1f380NZ8vhae7XtjNC3xj9zzyIFrCwDcjdxyHuDH3EUq3Entth2M9QqT1Ey13IQmipaxDA4CicHPUk7DwpEOJwwTuRhEzW2bnmJkGR2jmul8dmzaV7PWRW9oEMidOb8NA=;Sn24Ym55cQEcaoCKaT2hfQ=="
 ---
 

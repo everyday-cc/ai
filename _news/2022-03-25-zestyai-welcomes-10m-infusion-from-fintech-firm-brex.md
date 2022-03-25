@@ -29,17 +29,17 @@ images:
 related:
   - title: "Brex Helps Zesty.ai Scale With $10 Million in Growth Capital"
     excerpt: "This deal marks continued momentum for Brex Venture Debt, which Brex launched in August 2021 as a way to help founders take their business to the next level. It helps growing busi"
-    publishedDateTime: 2022-03-25T03:21:00Z
-    webUrl: "https://www.khon2.com/business/press-releases/cision/20220324NY02101/brex-helps-zesty-ai-scale-with-10-million-in-growth-capital/"
+    publishedDateTime: 2022-03-25T00:21:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220324NY02101/brex-helps-zesty-ai-scale-with-10-million-in-growth-capital/"
     type: article
     provider:
-      name: KHON2
-      domain: khon2.com
+      name: KTLA
+      domain: ktla.com
     quality: 39
     images:
-      - url: "https://i0.wp.com/www.khon2.com/wp-content/uploads/sites/8/2022/03/660_1743.jpg?w=2000&#038;ssl=1"
-        width: 1280
-        height: 720
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
         isCached: true
   - title: "Brex Helps Zesty.ai Scale With $10 Million in Venture Debt"
     excerpt: "In the news release, Brex Helps Zesty.ai Scale With $10 Million in Venture Debt, issued 24-Mar-2022 by Brex over PR Newswire, we are advised by"
@@ -104,6 +104,6 @@ related:
         height: 324
         isCached: true
 
-secured: "vx2fKXjnnIjjnPRUkfBYfkLVVKQuHIDSq6o1pbSY3JOWmGqYorNgQ6Mg2IyfjL5t0ivEOQiQx2Cp+UQn/zzzIisgUdK/3vCI7bi9NFGPL3r8D9nysLgQ4jHfTbz+UlLjlex2VjVCnQvG7z9OxLaOt2Y+2Sh8aDWGL/8lzp8i6Uiabz3Qo/Ea5MjQGx5d5UDZueRIt2CoEk/5wsB2txTnkZy4//KLmf+86Hq0VoA1o4T4QANIqwE+o95mPTgC8Wat6DCV+vinWkFOJ3YVjsvQbUWXad92Sfn4Ub0RpakqpY4KMfOzLLpkN5CC01b3UG4h7HDCp+zQiSdsVzmfvn7YKfEhOmD8dBtPIO52xyGlZGQ=;aLkC/0tbgm08sc5zE+NoXg=="
+secured: "MbswYZ4AT//7Qu62Ozbl+WK6+MuS+WUmfm8j8r3pMK4wLtwnUWCHbqVni8cFdYrGKUP0sP3AAkt8gI35MNgJfP8uR5tobfh19k7j/ZbbmGCqrr+ftWlLtS8DFUYBQvsayNBkwdtXhEgngI1STnxHwIw1YLmHjh1BY4rHeIdgkt+7EP1xnXAM8qsFgM1FMndh2zreqKB5IGcCbqSGi8NRWAvbYmXsGLrYYItHbe/LA63TODX42I4MSPUS2IMEgScdTnSUORL6uqEEPOAfbockYAR9C0VyS4w85ne2QqXawbmHnqJVIxFwdCqyLdQedpNDWPo9SVVNcEP04Gc1jnLaWUwsZsIdiFyvikjPq8XttpXqoW3PtXxoYfVAalSctx/u1cRkJFH2mJnmZeal+R+ChTpHrAtN8i/i/HArpHNQxaNk1RXOlkjRekx1tfGoxMotGTXSGKqavNzmoc+PcJjS6zn4M5E9Vb+K4JUJceHb0kovBEvPYp89XMJ1qS8ovjuwi66XunN/EtCqRYNdvwAn7w==;8uVIFrNcZMKuRHoRUbBr2w=="
 ---
 

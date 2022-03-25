@@ -2,6 +2,134 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-03-16-an-ai-eerily-recreated-the-mona-lisa-in-the-ruins-of-humanity-and-skynet-is-pleased.md",
+      "title": "An AI Eerily Recreated The Mona Lisa In The Ruins Of Humanity And Skynet Is Pleased",
+      "excerpt": "When IBM's Watson defeated two of the greatest Jeopardy players of all time with a $1 million pot up for grabs, we applauded. And when AI started beating up flesh and blood players at games like ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/ai-recreated-mona-lisa-ruins-humanity-skynet-pleased",
+      "originalUrl": "https://hothardware.com/news/ai-recreated-mona-lisa-ruins-humanity-skynet-pleased",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/57988/content/small_mona_lisa_art2.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/ai-recreated-mona-lisa-ruins-humanity-skynet-pleased",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/ai-recreated-mona-lisa-ruins-humanity-skynet-pleased",
+      "publishedDateTime": "2022-03-16T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-the-ai-beauty-startup-that-champions-transparency-and-inclusion.md",
+      "title": "The AI beauty startup that champions transparency and inclusion",
+      "excerpt": "Skin Match uses AI to create quick and efficient product finders and ingredients explainers. And, the L'Oréal-backed startup is committed to inclusivity and transparency, says CEO Estella Benz.",
+      "sourceUrl": null,
+      "webUrl": "https://www.voguebusiness.com/beauty/the-ai-beauty-startup-that-champions-transparency-and-inclusion",
+      "originalUrl": "https://www.voguebusiness.com/beauty/the-ai-beauty-startup-that-champions-transparency-and-inclusion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.voguebusiness.com/photos/62306b644430ce077a64ceb2/master/w_3000,h_2000,c_limit/skin-match-future-edit-voguebus-skin-match-mar-22-story-inline-1.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.voguebusiness.com/beauty/the-ai-beauty-startup-that-champions-transparency-and-inclusion/amp",
+      "cdnAmpWebUrl": "https://www-voguebusiness-com.cdn.ampproject.org/c/s/www.voguebusiness.com/beauty/the-ai-beauty-startup-that-champions-transparency-and-inclusion/amp",
+      "publishedDateTime": "2022-03-16T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "voguebusiness",
+        "domain": "voguebusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-artificial-intelligence-in-chipset-market-to-hit-usd-3846-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027.md",
+      "title": "Artificial Intelligence in Chipset Market to Hit USD 38.46 Billion | AI Chipset Market Size, Share, Demand, Growth and Forecast 2027",
+      "excerpt": "Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices to support AI technologies. Increasing utilization of AI technologies is projected to boost the demand for these chipsets over the next couple of years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-chipset-market-to-hit-usd-38-46-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-chipset-market-to-hit-usd-38-46-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/311e103167631b53610564f3bef2b5e4678b5881-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-self-driving-vw-idbuzz-vans-to-start-testing-on-us-roads-in-2023.md",
       "title": "Self-driving VW ID.Buzz vans to start testing on US roads in 2023",
       "excerpt": "Volkswagen's new ID.Buzz is slated to reach U.S. showrooms in 2023, but versions of the electric van fitted with a self-driving system developed by Argo AI will also test on the nation's roads. Volkswagen Group,",
@@ -937,144 +1065,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-towards-the-reuse-of-supervised-deep-learning-algorithms-in-bioimage-analysis.md",
-      "title": "Towards the reuse of supervised deep learning algorithms in bioimage analysis",
-      "excerpt": "Over the last ten years, the amount of microscopy data acquired has increased dramatically, and so has the appetite to use deep learning to gain knowledge from these data. But how easy is this really?",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/towards-reuse-supervised-deep-learning-algorithms-bioimage-uhlmann",
-      "originalUrl": "https://www.linkedin.com/pulse/towards-reuse-supervised-deep-learning-algorithms-bioimage-uhlmann",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGs3zG-uI9z-w/article-cover_image-shrink_720_1280/0/1647342187150?e=1653523200&v=beta&t=zdG_pUpoHKVs77B_e8UzeujH8QiMPpVE5vSax9Cj6aM",
-          "width": 720,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale.md",
-      "title": "Intuition Robotics Launches ElliQ, the Award-Winning Care Companion Robot, for Commercial Sale",
-      "excerpt": "Intuition Robotics today announced the official commercial launch of its digital care companion, ElliQ which is now available for purchase via elliq.com. ElliQ,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale/article_7d7119a1-b5c4-5ceb-bbe8-af6099418b1b.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale/article_7d7119a1-b5c4-5ceb-bbe8-af6099418b1b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-heres-looking-at-you-kid-the-problematic-adoption-of-facial-recognition-systems.md",
-      "title": "Here's looking at you, kid - the problematic adoption of facial recognition systems",
-      "excerpt": "Facial recognition systems are one of the most controversial areas of real world AI. But despite the ethical qualms, facial recognition is now in use across multiple industries. Can regulation catch up?",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/heres-looking-you-kid-problematic-adoption-facial-recognition-systems",
-      "originalUrl": "https://diginomica.com/heres-looking-you-kid-problematic-adoption-facial-recognition-systems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2019-12/facial-recognition.jpg",
-          "width": 1265,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/heres-looking-you-kid-problematic-adoption-facial-recognition-systems",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/heres-looking-you-kid-problematic-adoption-facial-recognition-systems",
-      "publishedDateTime": "2022-03-15T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

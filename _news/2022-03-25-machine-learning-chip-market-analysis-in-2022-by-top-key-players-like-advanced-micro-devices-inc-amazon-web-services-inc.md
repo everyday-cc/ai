@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Vehicle Unmanned Driving System Market Analysis 2022 Growth Insights and Top Key Players with Opportunities Forecast to 2028"
+    excerpt: "Mar 22, 2022 (CDN Newswire via Comtex) -- Global Vehicle Unmanned Driving System Market 2022 by Company, Regions, Type and Application, Forecast to 2028 is the latest excellent report launched by ..."
+    publishedDateTime: 2022-03-23T09:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-vehicle-unmanned-driving-system-market-analysis-2022-growth-insights-and-top-key-players-with-opportunities-forecast-to-2028-2022-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Text-to-Speech Market Key Players and Future Trends Industry Analysis"
     excerpt: "Increasing geriatric population and rising demand for handheld devices is driving growth of the global text-to-speech market VANCOUVER, BC"
     publishedDateTime: 2022-03-24T01:22:00Z

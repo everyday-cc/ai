@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-24-how-fluid-organizations-use-ai-to-strengthen-their-people.md",
+      "title": "How Fluid Organizations Use AI To Strengthen Their People",
+      "excerpt": "Although easier said than done, in a world where technology is power, it’s time to share some of that power with your employees so they can help steer your company in the direction you want it to go.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/how-fluid-organizations-use-ai-to-strengthen-their-people/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/how-fluid-organizations-use-ai-to-strengthen-their-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623b21add5d49c100fe53d75/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/how-fluid-organizations-use-ai-to-strengthen-their-people/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/24/how-fluid-organizations-use-ai-to-strengthen-their-people/amp/",
+      "publishedDateTime": "2022-03-24T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-diversity-is-key-to-the-future-of-ai.md",
+      "title": "Diversity Is Key To The Future Of AI",
+      "excerpt": "Personally, I felt this film sparked an incredibly important conversation for the technology sector: it urgently needs diverse and underrepresented backgrounds to contribute to the development of AI and ML.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623b68a3912723ed0abcdd19/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/amp/",
+      "publishedDateTime": "2022-03-24T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.md",
       "title": "ExtraHop adds heat map to its AWS cloud-native security solution",
       "excerpt": "A cloud-native security provider announced Wednesday that it has added heat-mapping capabilities to its Amazon Web Service (AWS) flagship product. The new tier of service, called ExtraHop Reveal(x) 360,",
@@ -512,7 +614,7 @@
       "originalUrl": "https://techcrunch.com/2022/03/23/datagen-raises-50-million-series-b-to-empower-computer-vision-teams/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1139,110 +1241,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-handheld-robot-uses-ai-to-help-first-responders-stem-bleeding.md",
-      "title": "Handheld robot uses AI to help first responders stem bleeding",
-      "excerpt": "Researchers at MIT's Lincoln Laboratory have developed a handheld robot that can help minimally trained responders to control severe internal bleeding in victims of traumatic injury, by helping them insert a needle and catheter into a major blood vessel.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/",
-      "originalUrl": "https://newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/450aa75/2147483647/strip/true/crop/900x600+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F66%2F91%2Fcc101cde4df58d8ff485eaec84a3%2Fai-guide.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/?amp=true",
-      "publishedDateTime": "2022-03-22T21:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-expedite-ivr-development-with-industry-grammars-on-amazon-lex.md",
-      "title": "Expedite IVR development with industry grammars on Amazon Lex",
-      "excerpt": "Amazon Lex is a service for building conversational interfaces into any application using voice and text. With Amazon Lex, you can easily build sophisticated, natural language, conversational bots (chatbots), virtual agents, and interactive voice response (IVR) systems. You can now use industry grammars",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-ivr-development-with-industry-grammars-on-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-ivr-development-with-industry-grammars-on-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T18:17:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

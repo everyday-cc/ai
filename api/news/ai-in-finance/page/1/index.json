@@ -141,6 +141,60 @@
       ]
     },
     {
+      "path": "_news/2022-03-24-sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research.md",
+      "title": "SAS and Clemson University deploy AI and machine learning software for education and research",
+      "excerpt": "SAS skills among students and supports analysis of massive datasetsCARY, N.C., March 24, 2022 /PRNewswire/ -- Clemson",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1772498/Watt_Center_Clemson.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-delphia-review-portfolio-management-meets-machine-learning.md",
       "title": "Delphia Review: Portfolio Management Meets Machine Learning",
       "excerpt": "Delphia's portfolios are built around algorithms predicting market movements. The price of admission? Your data. Learn more in our Delphia review.",
@@ -1314,51 +1368,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-intellimationai-launches-its-nlp-and-ml-based-product-adept-for-insurance-sector.md",
-      "title": "Intellimation.ai launches its NLP and ML-based product ADEPT for insurance sector",
-      "excerpt": "Intellimation.ai, a Natural Language Processing and Machine Learning- based cognitive fintech company is launching its product ADEPT for the insurance and insurance brokerage industry. ADEPT is an extension of their core AI platform Vector into the insurance sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/intellimationai-launches-its-nlp-and-ml-based-product-adept-for-insurance-sector",
-      "originalUrl": "https://www.freepressjournal.in/business/intellimationai-launches-its-nlp-and-ml-based-product-adept-for-insurance-sector",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/freepressjournal/2020-12/53f13fba-b585-457f-b1cc-d140e296ef74/nawab_malik.jpeg",
-          "width": 770,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/intellimationai-launches-its-nlp-and-ml-based-product-adept-for-insurance-sector",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/intellimationai-launches-its-nlp-and-ml-based-product-adept-for-insurance-sector",
-      "publishedDateTime": "2022-03-03T02:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
       ]
     }
   ],

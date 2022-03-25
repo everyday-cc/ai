@@ -8,8 +8,8 @@ webUrl: "https://enterprisetalk.com/news/runai-completes-proof-of-concept-with-n
 ampWebUrl: "https://enterprisetalk.com/news/runai-completes-proof-of-concept-with-nvidia/amp/"
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/runai-completes-proof-of-concept-with-nvidia/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/Runai-Completes-Proof-of-Concept-with-NVIDIA-to-Maximize-GPU-Workload-Flexibility-on-Any-Cloud-01.jpg"
@@ -26,6 +27,6 @@ images:
     height: 675
     isCached: true
 
-secured: "c4DvTgbcdYzy6uvTTidj+npa/794W/T7rr7LttdRgx6VsQ+4BDYJjQCD8OTvWR9cr41M6goWEPim/0BS4A5tpwAYHvRGjli2d3trHjaZ87JSapX5WDoeA4VOXdzL7w6Jn9ThiHsqMh4ahHt8n/43QjyqPOEcR2prwpj2qL+Z/4YxxLyCeGnoEhfeeLQiygI9XJNreUAtsA5NWHIGP8waYOl0nHOWqq3Zg5bqEfSZBM7pVlqYkE+k4jc7LJWqQ/ogiVRTePP6bLnrasXna5zwqkxDLIWr+r2vg4bb0IA5Ixs4fr3DASQrWSzZv/MpzURcNEDA8PHU9C2/sTnM3ygBuS8A0RNfGK8ruP5+A8MnqNE=;4XjfKkoUR9Imaj1jkqGfTA=="
+secured: "0f1mY0qr4ROVxz23AdxSGV4WiOluaegkXzUew9XJyJGUWwc23213HI8x+GEZth0yn1HnumgktKpe+Y6MlWP1t6zf3H/HfYz3VadNReqPEkVGAPEdi0f2CvR4wTObDdFgAI9LGqbUEXkfBP68fDjjno0zZItgqIsWM9kowxCqnsyh6S7V7HiZ25ls5hpZwp3tBul7YCXvV9AJ8FKXlBfNAbObDRNWhz36itWKhzZg/4FER93UBMQvDLggjaOxPvsiTxNZweJB4uD64uaRcL8KLmBXSpVMEINuJOBoWS3vTkfDbx+Pg1QfzcnQZ8JaxE2i61V5S8/VuW1sPIg0Ej9l73thC/lU1Iu1whRWjjuINFLdiLJF2u1tANynLWBv0ZK6NeNgbTAhkFP4yKI8fJgWIm3OhRLSdm6TMEGfn8IwEKEGiwFGQXPFL+H9hRWjeBagyrNSTgeYb62AqdsNq8x7Fc5YP/1jix8kZ/lw2Ews3gUj8CkMZUy9/NZBxmRRjBfj+OfywmZ10dQmtzUthKPyFA==;hH4OTvkvoXSyT0WVvalvsg=="
 ---
 

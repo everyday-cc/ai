@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/03/23/datagen-raises-50-million-series-b
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/23/datagen-raises-50-million-series-b-to-empower-computer-vision-teams/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/AI-3-e1647855876601.jpg?w=1200&strip=all"
         width: 1200
         height: 599
+        isCached: true
+  - title: "Computer Vision Platform Datagen Raises $50M Series B"
+    excerpt: "Datagen, a firm specializing in computer vision artificial intelligence, announced it has raised $50 million in a Series B round bringing its total"
+    publishedDateTime: 2022-03-25T12:49:00Z
+    webUrl: "https://www.datanami.com/2022/03/25/computer-vision-platform-datagen-raises-50m-series-b/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/shutterstock_1882459819-1024x768.jpg"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "sYlG6BYwt7iUsY0XzLShPwK3rc612O6XQtvv4/+lexUHh3iVg07JgrYclghHsWhMJuMChcIKYDeDE/nNWX4S3wyv/YILsgzNgZC57+RecbelBOJTjWecA/yFFbg6uJATDQ3nymdBZpaAbnqOhdMbdLm9ylJNpr+yjSAbk5gD5JQI0zUVhZPkAzh0lp86mrZRRjDDAqJykKpdbxq2x7/GJ3azLgQMIJqmbO70odppCobHtLbgaxPOwSCqYDibuPjR4QGlmVeanoMqFRxKS5uN84GMsLH6wPuzq+z3HetpdVcJw2zmUTiIf+nBdUoLsfEaHdv8KIGtqW+AUQ3PS4PTRT5nAtSHp6mkaIj+Jaw9EnofDZr+fr3ENur+FfkIvYrJKFLtxZPVxCyuQHrHT18iON34bVSMEsgxFEy6cjogJApjflpFp0M0rulWV4Fb+5oiO6gA+OoNgrzx21At1EFGw9g/gbo2f0h5/09TAiS0gXCu62iyMWPh653YjpImi5ixi91URfuI6H+wBh4/wCfctA==;fa2ZHizBZDF+tF+YLK+XeA=="

@@ -55,6 +55,58 @@
       ]
     },
     {
+      "path": "_news/2022-03-24-chinas-ev-chassis-maker-pix-raises-11m-to-build-its-own-smart-vehicles.md",
+      "title": "China’s EV chassis maker PIX raises $11M to build its own smart vehicles",
+      "excerpt": "The autonomous driving industry in China has enjoyed a boom over the past two years, with both institutional and corporate investors pouring money into a driverless future. Companies thriving in the downstream,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/24/pix-moving-chassis-skateboard-11-million/",
+      "originalUrl": "https://techcrunch.com/2022/03/24/pix-moving-chassis-skateboard-11-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/Pix-moving.jpeg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/24/pix-moving-chassis-skateboard-11-million/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/24/pix-moving-chassis-skateboard-11-million/amp/",
+      "publishedDateTime": "2022-03-24T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-byd-lucid-are-latest-ev-makers-to-adopt-nvidias-self-driving-toolkit.md",
       "title": "BYD, Lucid are latest EV makers to adopt Nvidia’s self-driving toolkit",
       "excerpt": "At Nvidia's GTC conference, BYD and Lucid Motors announced they have adopted Nvidia's Drive Hyperion architecture to aid automated driving and ADAS features.",
@@ -893,6 +945,58 @@
       ]
     },
     {
+      "path": "_news/2022-03-16-video-review-of-top-robocar-stories-of-early-2022.md",
+      "title": "Video Review Of Top Robocar Stories Of Early 2022",
+      "excerpt": "This review offers commentary and analysis of 17 different interesting stories in self-driving cars so far this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/03/16/video-review-of-top-robocar-stories-of-early-2022/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/03/16/video-review-of-top-robocar-stories-of-early-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62313183665c368a6c6f0b13/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&fit=crop",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/03/16/video-review-of-top-robocar-stories-of-early-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/03/16/video-review-of-top-robocar-stories-of-early-2022/amp/",
+      "publishedDateTime": "2022-03-16T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-self-driving-vw-idbuzz-vans-to-start-testing-on-us-roads-in-2023.md",
       "title": "Self-driving VW ID.Buzz vans to start testing on US roads in 2023",
       "excerpt": "Volkswagen's new ID.Buzz is slated to reach U.S. showrooms in 2023, but versions of the electric van fitted with a self-driving system developed by Argo AI will also test on the nation's roads. Volkswagen Group,",
@@ -1269,93 +1373,6 @@
         "AI in Autos",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-transforming-the-future-of-the-digital-marketing-industry-a-look-into-artificial-intelligence.md",
-      "title": "Transforming The Future Of The Digital Marketing Industry: A Look Into Artificial Intelligence",
-      "excerpt": "Pixabay Jeff Bezos, founder and former CEO of Amazon Inc (NASDAQ:AMZN) weighed in on AI once by saying,“We're at the begin",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103829593/Transforming-The-Future-Of-The-Digital-Marketing-Industry-A-Look-Into-Artificial-Intelligence&source=22",
-      "originalUrl": "https://menafn.com/1103829593/Transforming-The-Future-Of-The-Digital-Marketing-Industry-A-Look-Into-Artificial-Intelligence&source=22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-03/10/V_3798dimage_story.png",
-          "width": 640,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T21:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-self-learning-autonomous-driving-ai-startup-autobrains-closes-120m-series-c-round.md",
-      "title": "Self-learning autonomous driving AI startup Autobrains closes $120M Series C round",
-      "excerpt": "Autobrains, a company that’s developing self-learning artificial intelligence technology for assisted and autonomous driving systems, said today it has closed on a $120 million round of funding. The Series C round was led by Temasek and saw participation from existing investors Continental and BMW I Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/03/10/self-learning-autonomous-driving-ai-startup-autobrains-closes-120m-series-c-round/",
-      "originalUrl": "https://siliconangle.com/2022/03/10/self-learning-autonomous-driving-ai-startup-autobrains-closes-120m-series-c-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/percfields_W_LOGO-Copy.jpg",
-          "width": 2561,
-          "height": 1037,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T17:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

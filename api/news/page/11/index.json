@@ -2,6 +2,163 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-03-12-the-latest-deepmind-ai-breakthrough-could-be-perfect-for-indiana-jones.md",
+      "title": "The latest DeepMind AI breakthrough could be perfect for Indiana Jones",
+      "excerpt": "Uncovering the mysteries of the ancient world could soon get a little easier thanks to a new release from DeepMind. The Alphabet-owned firm has revealed Ithaca, a new AI model that could help ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/the-latest-deepmind-ai-breakthrough-could-be-perfect-for-indiana-jones",
+      "originalUrl": "https://www.techradar.com/news/the-latest-deepmind-ai-breakthrough-could-be-perfect-for-indiana-jones",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/HVKrcBZzhDZ6z67ppRMnrn-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-12T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-12-conversational-ai-the-future-of-man-machine-singularity.md",
+      "title": "Conversational AI: The Future of Man-Machine Singularity",
+      "excerpt": "The social evolution on this planet has consumed several millennia. The languages we speak globally and interacting with people by understanding the context of discussions have far more refined and polished than what pre-historic humanoids used to practice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/conversational-ai-future-man-machine-singularity-alok-nayak",
+      "originalUrl": "https://www.linkedin.com/pulse/conversational-ai-future-man-machine-singularity-alok-nayak",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE_KpyNBndcXg/article-cover_image-shrink_720_1280/0/1647070382704?e=1653523200&v=beta&t=b16PG9_8vOWe-0ixNoRvrp3gxDrSbknDbwr4cIufnqs",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-11T23:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-12-a-survey-of-ai-news-from-around-the-web.md",
+      "title": "A Survey of A.I. News from Around the Web",
+      "excerpt": "I wanted to present some curated links about A.I. in case you have an obsession like I do to follow some of the best related stories from around the Web. If you enjoy articles about A.I. at the intersection of breaking news join AiSupremacy here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/survey-ai-news-from-around-web-michael-spencer-",
+      "originalUrl": "https://www.linkedin.com/pulse/survey-ai-news-from-around-web-michael-spencer-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQH-_z21-2zajg/article-cover_image-shrink_600_2000/0/1647054721661?e=1653523200&v=beta&t=LzhFQen8sg0FC4Wgdi_XopZqwllrPOci3ZiO8hKZruE",
+          "width": 612,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-11T19:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-12-federated-learning-for-text-generation.md",
       "title": "Federated Learning for Text Generation",
       "excerpt": "This tutorial builds on the concepts in the Federated Learning for Image Classification tutorial, and demonstrates several other useful approaches for federated learning. In particular, we load a previously trained Keras model, and refine it using ...",
@@ -975,145 +1132,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-microsoft-accelerator-programme-bets-on-ai-and-machine-learning-selects-14-startups-for-tenth-cohort.md",
-      "title": "Microsoft Accelerator Programme Bets On AI And Machine Learning; Selects 14 Startups For Tenth Cohort",
-      "excerpt": "Bengaluru-based Microsoft Accelerator has selected 14 startups for its startup accelerator programme. It is the tenth batch for Microsoft’s Accelerator Programme. Selected startups belong to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/microsoft-accelerator-10-batch/",
-      "originalUrl": "https://inc42.com/buzz/microsoft-accelerator-10-batch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2016/08/shutterstock_210979942.jpg",
-          "width": 1000,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/microsoft-accelerator-10-batch/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/microsoft-accelerator-10-batch/amp/",
-      "publishedDateTime": "2022-03-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-5-high-profile-health-it-acquisitions-in-2022.md",
-      "title": "5 high-profile health IT acquisitions in 2022",
-      "excerpt": "Microsoft completed its $19.7 billion acquisition of AI speech recognition ... its data and assets from Watson Health, which might be an effort to streamline IBM's operations and focus the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/5-high-profile-health-it-acquisitions-in-2022.html",
-      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/5-high-profile-health-it-acquisitions-in-2022.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T15:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-deep-learning-with-a-tale-of-two-cities-part-vix-wrapping-up-the-convolutions-and-reflecting-upon-innovations.md",
-      "title": "Deep Learning with a tale of two cities (Part V/IX): wrapping up the Convolutions and reflecting upon Innovations",
-      "excerpt": "It's been three weeks since the last in-person teaching took place: one moved online due to Storm Eunice, and another due to the Reading week. Coming back to the whiteboard, we first review a few fund",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/deep-learning-tale-two-cities-part-vix-wrapping-up-reflecting-yang",
-      "originalUrl": "https://www.linkedin.com/pulse/deep-learning-tale-two-cities-part-vix-wrapping-up-reflecting-yang",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHBSgby1GwBMw/article-cover_image-shrink_720_1280/0/1646950467776?e=1653523200&v=beta&t=AoShNElvrDckzx0G8vA0Euwsn5c_yR89DEzNxOw8P4Y",
-          "width": 1280,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

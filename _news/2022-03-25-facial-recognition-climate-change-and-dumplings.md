@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition
 webUrl: "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast"
 type: article
 quality: 69
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       name: WBUR
       domain: wbur.org
     quality: 39
+  - title: "Facial recognition inappropriate for high-risk applications, experts say"
+    excerpt: "Accuracy, privacy and transparency issues make facial recognition technology too risky for local agencies, according the University of Pittsburgh’s Institute for Cyber Law, Policy and Security."
+    publishedDateTime: 2022-03-25T14:00:00Z
+    webUrl: "https://gcn.com/emerging-tech/2022/03/facial-recognition-inappropriate-high-risk-applications-experts-say/363603/"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 38
+    images:
+      - url: "https://cdn.gcn.com/media/img/cd/2022/03/24/facial_recognition_GCN_032422/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "AI voice-driven speech recognition suite, Augnito, enhances radiology and clinical reporting for Wellbeing Software"
     excerpt: "Bespoke speech recognition technology, Augnito, aids Wellbeing Software with highly accurate Radiology Information System workflows. Scribetech has announced the integration of its disruptive, AI-powered voice-driven speech recognition (SR) software,"
     publishedDateTime: 2022-03-22T15:29:00Z

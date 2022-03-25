@@ -112,6 +112,20 @@ related:
       name: WBUR
       domain: wbur.org
     quality: 39
+  - title: "Facial recognition inappropriate for high-risk applications, experts say"
+    excerpt: "Accuracy, privacy and transparency issues make facial recognition technology too risky for local agencies, according the University of Pittsburgh’s Institute for Cyber Law, Policy and Security."
+    publishedDateTime: 2022-03-25T14:00:00Z
+    webUrl: "https://gcn.com/emerging-tech/2022/03/facial-recognition-inappropriate-high-risk-applications-experts-say/363603/"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 38
+    images:
+      - url: "https://cdn.gcn.com/media/img/cd/2022/03/24/facial_recognition_GCN_032422/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "woEkWAwZrhlOrtvMnfzyLBHP70AJIj7A1EA4KP7rAsW8AfkEFcWmsnGio09GM+R7vhP2VckUqzTL/XSKAGt/iOwPDLE6TwEHbKZD/NUpxaaibdI5vdZTR55CqwzkaSdnkqYWu+eq7MGMkNU1W0qOIdciFa93EFIJHKs0Ym3hi4ebZ7KjZWGccbbOAnW3Ut8qM9hbRUyrWoe3/v/le94YjXv2eGkd508CnGO3waWvUKiSEKnrQHfMtCXIBUhEiIfn37klt8aH2H0Epmk0Te5bQ8zR7Jp4JoRkBdyPb0WUtw9zoTe0r55KW+QmZjlOckxqKgkLOmbX0W0HxFcUkwta7JXrjtOlC/nG7uNNgV17IrqPutsusR8UTJzOWdhUqH67/syZexkSt/A3CvfWLnyAsUgbi5gIW2WG9XcRAaex+H06qH4D3uEOJ4IuUW/7hrp3IzRxiBMIde647/Ytw4p6d6k7ous9DmTHTHdlrogzBkAi8BbblBKxCdTCumF4rpJjBLe9hi5Al2rcB+HVJyVk4Q==;a6uCJgKuIf5DVDGrbPbZbQ=="
 ---

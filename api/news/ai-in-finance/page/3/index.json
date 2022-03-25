@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-08-troutman-pepper-expands-financial-services-practice-with-addition-of-nationally-recognized-consumer-financial-services-group.md",
+      "title": "Troutman Pepper Expands Financial Services Practice with Addition of Nationally Recognized Consumer Financial Services Group",
+      "excerpt": "NEW YORK, Feb. 8, 2022 /PRNewswire/ -- Troutman Pepper announced today that a nationally recognized consumer financial services ... including machine learning marketing, fraud prevention and ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/troutman-pepper-expands-financial-services-practice-with-addition-of-nationally-recognized-consumer-financial-services-group-1031172110",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/troutman-pepper-expands-financial-services-practice-with-addition-of-nationally-recognized-consumer-financial-services-group-1031172110",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-benefits-of-5g-in-banking-and-financial-services.md",
       "title": "Benefits of 5G in banking and financial services",
       "excerpt": "5G, the high-speed network technology, following various benefits in banking and financial service. With the help of low latency ... Issues will be instantly resolved thanks to AI and machine learning equipped customer ‘bots’, making the whole process ...",
@@ -1342,40 +1385,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-bigtech-in-financial-services.md",
-      "title": "BigTech in Financial Services",
-      "excerpt": "BigTechs are applying new approaches to existing financial services products and services such as underwriting using big data and are also applying machine learning for their key business decisions, such as pricing and risk management across multiple ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.imf.org/en/Publications/fintech-notes/Issues/2022/01/22/BigTech-in-Financial-Services-498089",
-      "originalUrl": "https://www.imf.org/en/Publications/fintech-notes/Issues/2022/01/22/BigTech-in-Financial-Services-498089",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-23T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Monetary Fund",
-        "domain": "imf.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

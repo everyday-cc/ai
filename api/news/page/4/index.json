@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-19-daos-will-never-develop-above-their-present-state-without-the-help-of-robots.md",
+      "title": "DAOs will never develop above their present state without the help of robots",
+      "excerpt": "DAOs (decentralized autonomous organizations) are already transforming the world by empowering significant groups of individuals to make autonomous choices. These groups are reducing the need for centralized management teams,",
+      "sourceUrl": null,
+      "webUrl": "https://tokeneo.com/daos-will-never-develop-above-their-present-state-without-the-help-of-robots/",
+      "originalUrl": "https://tokeneo.com/daos-will-never-develop-above-their-present-state-without-the-help-of-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tokeneo.com/uploads/2022/03/AI.jpg",
+          "width": 640,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tokeneo.com/daos-will-never-develop-above-their-present-state-without-the-help-of-robots/amp/",
+      "cdnAmpWebUrl": "https://tokeneo-com.cdn.ampproject.org/c/s/tokeneo.com/daos-will-never-develop-above-their-present-state-without-the-help-of-robots/amp/",
+      "publishedDateTime": "2022-03-18T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tokeneo",
+        "domain": "tokeneo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-19-neuro-symbolic-ai-could-provide-machines-with-common-sense.md",
+      "title": "Neuro-symbolic AI could provide machines with common sense",
+      "excerpt": "Machines could plan their actions based on mental representations of the world they develop through intuitive physics and neuro-symbolic AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/",
+      "originalUrl": "https://venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1341811309-e1647616199862.jpg?fit=800%2C500&strip=all",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/amp/",
+      "publishedDateTime": "2022-03-18T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-19-heres-how-americans-view-facial-recognition-and-driverless-cars.md",
       "title": "Here's how Americans view facial recognition and driverless cars",
       "excerpt": "The most strongly opposed applications of artificial intelligence focused on computer chip brain implants and driverless cars.",
@@ -1003,109 +1098,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-companies-are-making-serious-money-with-ai.md",
-      "title": "Companies Are Making Serious Money With AI",
-      "excerpt": "When it comes to artificial intelligence, multiple recent surveys indicate that companies aren’t just planning on spending serious money on AI in 2022 — they are already making good money from the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/companies-making-serious-money-ai-tom-davenport",
-      "originalUrl": "https://www.linkedin.com/pulse/companies-making-serious-money-ai-tom-davenport",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE-E1SMvPz1jQ/article-cover_image-shrink_720_1280/0/1647552145978?e=1653523200&v=beta&t=1syRZ1wAiES1Hc-7UFZMAj1BHndlSysj12OGgxPhnMY",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-the-role-of-artificial-intelligence-in-transforming-call-centers.md",
-      "title": "The Role Of Artificial Intelligence In Transforming Call Centers",
-      "excerpt": "A 2020 survey from Interactions LLC discovered that mid-to-high level executives now consider improved customer experience as the most important reason to implement AI. This finding pushes “cost reduc",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/role-artificial-intelligence-transforming-call-centers-aiqomai",
-      "originalUrl": "https://www.linkedin.com/pulse/role-artificial-intelligence-transforming-call-centers-aiqomai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGqd7zWpfE0Hg/article-cover_image-shrink_720_1280/0/1647552201094?e=1653523200&v=beta&t=XG2YDr477P-pZs5ZSfmWGjsZwYl0hefnclq2Q2S_O_E",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

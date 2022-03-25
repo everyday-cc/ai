@@ -47,6 +47,20 @@ related:
         width: 1024
         height: 699
         isCached: true
+  - title: "Computer Vision Platform Datagen Raises $50M Series B"
+    excerpt: "Datagen, a firm specializing in computer vision artificial intelligence, announced it has raised $50 million in a Series B round bringing its total"
+    publishedDateTime: 2022-03-25T12:49:00Z
+    webUrl: "https://www.datanami.com/2022/03/25/computer-vision-platform-datagen-raises-50m-series-b/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/shutterstock_1882459819-1024x768.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "bKXHP5WEuoY++dac1eY/cKVETvyQoykFeENAjl9VWdXDMtlDr76wbq2TeK+Ai2VNd5xVOaS/G2NUlhrxJJuUK+yOSmaF6nISGXZPV8T9REFzhyOcogHLV5zobFutS5zYC4If3XQE/gBLYqIKmpRYqoktJcbaiL/bPAL7jvBCJuQ6jzSxK/jL2rPLnZ8q4TnNZiEmUOatEbBZ6k0teZJI6CRL4EeOrro0VT1msqWbON+5zUzBkfPG21H6dhAioO7+hS21R7vyvQEytadYpoYF3ZKzQ1/i6OCmTR9V+l2caS8DX9OpmWGH1wcnv+UoHLvE8VsETfGogigaSrMp1tkvjYCmOQPcl+iL8YPzhmgxnwG2dkmOslSjPi6sTgTmetHhDk8RLczonSBIyHa08He8g3oU6AzJt3Ks3orTtnNwU+w2OFoQvVhHzEFrN6rSyE2Pi1vj1NNSw/nTMvnOj36nhx6ZZ/XZzwlp7NvhQipJybxrA/YSoCXDSm+MupTCDSigWcI6g9UqO4nsyELJ3aXEgA==;85HtH7IFCmSLD5MpUoKSIg=="
 ---

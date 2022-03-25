@@ -1,25 +1,28 @@
 ---
 category: news
 title: "SparkCognition Delivers Visual AI Capabilities Across Industries With Acquisition of Integration Wizards"
-excerpt: "AI company builds on portfolio of machine learning, deep learning, natural language processing, and knowledge representation to address $14.4B"
-publishedDateTime: 2022-03-25T12:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sparkcognition-delivers-visual-ai-capabilities-across-industries-with-acquisition-of-integration-wizards-1031307864"
-webUrl: "https://markets.businessinsider.com/news/stocks/sparkcognition-delivers-visual-ai-capabilities-across-industries-with-acquisition-of-integration-wizards-1031307864"
+excerpt: "AI company builds on portfolio of machine learning, deep learning, natural language processing, and knowledge representation to address $14.4B visual AI marketplace"
+publishedDateTime: 2022-03-25T12:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/sparkcognition-delivers-visual-ai-capabilities-across-industries-with-acquisition-of-integration-wizards/article_3936c1d1-bed7-5aba-952d-7a107e8683e8.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/sparkcognition-delivers-visual-ai-capabilities-across-industries-with-acquisition-of-integration-wizards/article_3936c1d1-bed7-5aba-952d-7a107e8683e8.html"
 type: article
-quality: 30
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
+  - Natural Language Processing
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/00/3008bf47-deb7-5420-a599-8f8631503669/605b3f21d5fba.image.jpg?crop=922%2C484%2C889%2C0&resize=922%2C484&order=crop%2Cresize"
+    width: 922
+    height: 484
+    isCached: true
 
 related:
   - title: "SparkCognition acquires Bangalore-based AI startup Integration Wizards"
@@ -39,6 +42,6 @@ related:
         height: 450
         isCached: true
 
-secured: "GGXImnJzWB0/1nac+3zHgKDRepLuzC+DFGrqYizBE3IijTphgf32oPDwv1EiE6YyJU287igIdPd7kjdDWRfD05xlc+NABMv20VdGau8UHl280S6ahXde0iNIdFiknGTuMl4mIP6TaHtiIoJ85I+5Rq2a7xlMPGa2etaM70RC6W49VWZs2qEesSK9d4p/Wcl1WLIBInIq0wInkJD6RaYd7Ey6fJOGw7jvxb6OuJxcohuOkO4CGGm2Y8bAZTU74Szooyg3wAIqwxtH/0b946TipiE0/E4omOBiRHj4jy9oXTaQnwSvdpG4868aGKCn2yyVwFOAOgU0T+aKvDYRSohkUFOhtP9rFiTzLf4DQAEtyv4=;pJbhyIxNQlyc4d/qb0CsIA=="
+secured: "O+tNPf5k2bMBg8AeeWsJysgHNuE/P6OJeBhC93rxydgBmhVY5haU2Gcr+EKjB4uPHmSCVnNI0gBLQrAvUPkHZcT6ATXNwbaxZGwDxxeUWSXspsBsYF30ksevlwOikbFBKjX9SoXRUFERyaBBrWiLxwaw+JUqCfPyawZIIOOlLHDDRUHg/p/kjL/3+rPXY4e18ui3PhhkCfuZzYJf+LrRGxYbLsT0lmX8nstUt6hxh0Yv46mwwruW0jrWyhqJ86x8VpZP+RYO4aueDEk+GbwMTu3tv/LIA2yXb6/tlZenUAt2A13RRcncdOMaFYXsSyJd4zEWOuN9y0ca+hp0HrEo7ZgHGgTOdxzEzTTpAqCgQ6s=;6eGSVRxTKzfVX3AGaumtCA=="
 ---
 

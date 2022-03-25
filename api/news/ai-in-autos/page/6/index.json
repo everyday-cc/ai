@@ -2,6 +2,93 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-01-28-waymo-sues-state-dmv-to-keep-robotaxi-safety-details-secret.md",
+      "title": "Waymo sues state DMV to keep robotaxi safety details secret",
+      "excerpt": "A court may decide whether Waymo's business interests outweigh the public's right to understand the safety issues around self-driving cars",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/waymo-sues-state-dmv-to-keep-robotaxi-safety-details-secret/ar-AATeIKz",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/a87d333/2147483647/strip/true/crop/5388x3603+341+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fee%2F46%2F743f192846669dfbca0ba9668179%2F473702-sd-me-ucsd-driver-less-vehicels-hl-003.jpg",
+          "width": 320,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice?_amp=true",
+      "publishedDateTime": "2022-01-28T05:00:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice",
+        "domain": "latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-humanoid-robot-is-teslas-most-important-product-this-year-musk-says.md",
+      "title": "Humanoid robot is Tesla's 'most important product' this year, Musk says",
+      "excerpt": "Tesla CEO Elon Musk has his eyes set on more than just building electric cars. In the company's fourth-quarter earnings call on Wednesday, Musk said Tesla's \"most important product\" it would be developing this year did not have wheels,",
+      "sourceUrl": null,
+      "webUrl": "https://www.kvue.com/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae",
+      "originalUrl": "https://www.kvue.com/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.kvue.com/assets/CCT/images/fb31ea82-4aed-4d8a-a622-7e5fdfe244b6/fb31ea82-4aed-4d8a-a622-7e5fdfe244b6_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kvue.com/amp/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae",
+      "cdnAmpWebUrl": "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae",
+      "publishedDateTime": "2022-01-27T09:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KVUE",
+        "domain": "kvue.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-01-28-self-driving-teslas-will-cause-insane-traffic-elon-musk-says.md",
       "title": "Self-driving Teslas will cause 'insane' traffic, Elon Musk says",
       "excerpt": "Tesla CEO Elon Musk said the autonomous ride hailing service he envisions customers will put their autonomous Teslas to work in will cause \"insane\" traffic.",
@@ -1297,92 +1384,6 @@
       "provider": {
         "name": "Carscoops",
         "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-visionnav-targets-european-market.md",
-      "title": "VisionNav targets European market",
-      "excerpt": "VisionNav targets European market, China. This is a news story by Forkliftaction News, a weekly independent publication about forklifts and the materials handling industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forkliftaction.com/news/visionnav-targets-european-market.aspx?n=25644",
-      "originalUrl": "https://www.forkliftaction.com/news/visionnav-targets-european-market.aspx?n=25644",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forkliftaction.com/upload/gallery/25284.jpg?s=2?v0023-1",
-          "width": 640,
-          "height": 273,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T22:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "forklift",
-        "domain": "forkliftaction.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-how-to-invest-in-artificial-intelligence-3-companies-to-watch.md",
-      "title": "How to Invest in Artificial Intelligence -- 3 Companies to Watch",
-      "excerpt": "Artificial Intelligence has long been a staple of ... From the sudden reality of driverless cars to Siri's clever retorts on the iPhone, AI is a bigger part of our lives than ever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
-      "originalUrl": "https://www.thestreet.com/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTY4NjM5Njk3NDkxNDA0NDIz/how-to-invest-in-artificial-intelligence----3-companies-to-watch.jpg",
-          "width": 619,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
         "images": null,
         "publishers": null,
         "authors": null

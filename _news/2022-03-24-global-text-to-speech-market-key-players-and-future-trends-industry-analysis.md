@@ -39,6 +39,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Global Vehicle Unmanned Driving System Market Analysis 2022 Growth Insights and Top Key Players with Opportunities Forecast to 2028"
+    excerpt: "Mar 22, 2022 (CDN Newswire via Comtex) -- Global Vehicle Unmanned Driving System Market 2022 by Company, Regions, Type and Application, Forecast to 2028 is the latest excellent report launched by ..."
+    publishedDateTime: 2022-03-23T09:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-vehicle-unmanned-driving-system-market-analysis-2022-growth-insights-and-top-key-players-with-opportunities-forecast-to-2028-2022-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "h6PGuweZhURvzrZpAn7KTmKJrZvWqAZtJFea7Jv42tF+N5kyL9kScfxH5RTm3spIizzwomdI4hd2oEaEq8sfhUyaclS7zKHvf5FYThjWGs+p0/c0b4ByYQkZCaQrMG2kFjvJs+wOA6UA+/D4lXrCePmM8lyi2KVwVlHRBMcQC8orj3vsjfWR4Af9E3C+VfsbnvoLAk3KcOTcTFRrBqEEdFVsznB5oSJeGR4Ld5iE7fIyn6/ZFqHGY4t2oededYKijvnwiMU+2G4H/dt+h7xBnKtEAGIcDfaqIdzmh7TZR+h5sTQ8JA1ckSPekg5O8L1JOsoLeg4u+x/IhqvCW66IFPF6pn/WcVrzO+JM5fbr2vE=;u8ntHlvjmb2W9C8ayU49kw=="
 ---

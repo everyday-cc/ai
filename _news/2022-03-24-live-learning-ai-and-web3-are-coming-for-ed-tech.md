@@ -35,11 +35,25 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 90
+    quality: 92
     images:
       - url: "https://mma.prnewswire.com/media/1772498/Watt_Center_Clemson.jpg"
         width: 400
         height: 266
+        isCached: true
+  - title: "Clearview AI unveils version 2.0 of its facial recognition software"
+    excerpt: "Clearview 2.0 also features reporting and workflow enhancements that provide a more comprehensive overview of a case, limiting privacy invasion and police overreach. “Clearview"
+    publishedDateTime: 2022-03-25T14:45:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367222/clearview-ai-version-20-facial-recognition"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 84
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622114219/itpro/Clearview_AI_shutterstock.jpg"
+        width: 1260
+        height: 710
         isCached: true
   - title: "SAS and Clemson University deploy AI and machine learning software for education and research"
     excerpt: "Clemson students and faculty will have access to powerful  data science and analytics software from ... Read more"

@@ -78,18 +78,18 @@ related:
         height: 333
         isCached: true
   - title: "IAIDL To Compete as AIMA Tool Among Big Industry Names in the Peacock Fintech and Banks Award"
-    excerpt: "Bringing its best foot forward, the International AI Driving Licence (IAIDL) is set to compete against PWC, Mckinsey, and other renowned international"
-    publishedDateTime: 2022-03-22T01:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award"
+    excerpt: "Bringing its best foot forward, the International AI Driving Licence (IAIDL) is set to compete against PWC, Mckinsey, and other renowned international organizations in the Peacock Fintech and Banks Award. Being the most influential Fintech and Bank Award ..."
+    publishedDateTime: 2022-03-22T04:32:00Z
+    webUrl: "https://www.wicz.com/story/46114491/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
+      name: FOX 40 WICZ TV
+      domain: wicz.com
     quality: 43
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/311e103167631b53610564f3bef2b5e4678b5881-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Five Ways Artificial Intelligence Can Transform The Future Of Fintech"
     excerpt: "In the financial business, artificial intelligence has a bright future. It can assist the companies in various ways, including increasing"
