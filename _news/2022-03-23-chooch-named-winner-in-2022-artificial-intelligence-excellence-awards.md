@@ -146,19 +146,33 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,"
-    publishedDateTime: 2022-03-22T12:41:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-812be7d276734b00a1b5ecd9b7d1d927"
+  - title: "Chillax Care Limited Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Chillax Care Limited was named a winner in its Artificial Intelligence Excellence Awards program. With a decade of experience in the baby and consumer electronics industry,"
+    publishedDateTime: 2022-03-22T16:21:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-cf817fa2651334f20d4d5361cc349ab6"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 30
+    quality: 33
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,"
+    publishedDateTime: 2022-03-22T12:42:00Z
+    webUrl: "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 30
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/2f/c2fe3e5e-68b4-11ec-b5b1-eb6d367dec1b/61cc72a6c74a5.image.jpg"
+        width: 320
+        height: 325
         isCached: true
 
 secured: "8LlVTVn7zBuR8g5jPglkhcor+xMTtiyUm/d9Zgx5kwnAY3SOs3mt9/bsKeqVOOSoIzCAEuvODf0vTLi5wz64Ne20xjDErXPaP1bYbKUAsJbOGWbFR++IygxIkk+j0YD4sgz4gxk7OAIo24c6K7FsSZGnVLtybGXKB+6bE16TW4fgKRejijb2OI0ke2DmTo/wsQSqqh5Uzc5O39S37nTxKEqC8dg4evD98GabXO0dBAC7TmUbuV6Qm50+DMX0tphNm2uG5JIqD3nx81VUJ0aLh/X2txwnMC5nDS2+wVVhXKrBqOi5+GWesRLcXoBogDHL1HyQ+RbiWbY/CqfXlJJfavrXEi/uNq+dS/WXaUOTUTo=;nuFADKLIn4qeTjDQ+DuzvQ=="

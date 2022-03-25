@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/03/24/democratization-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/24/democratization-of-ai-is-said-to-be-essential-for-ai-ethics-but-the-devil-is-in-the-details-including-the-case-of-ai-based-self-driving-cars/amp/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Forbes
@@ -32,21 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Ethical AI Ambitiously Hoping To Have AI Learn Ethical Behavior By Itself, Such As The Case With AI In Autonomous Self-Driving Cars"
-    excerpt: "Maybe AI can learn to be ethical, though this is harder than it seems, including considerations underlying AI-based self-driving cars."
-    publishedDateTime: 2022-03-20T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/amp/"
+  - title: "Taste testing taps into the modernized speed of artificial intelligence"
+    excerpt: "From cutting sugar to discovering new flavors, manufacturers such as Conagra and Danone are turning to the technology to get products to market faster and gain a competitive advantage."
+    publishedDateTime: 2022-03-24T18:02:00Z
+    webUrl: "https://www.fooddive.com/news/taste-testing-taps-into-the-modernized-speed-of-artificial-intelligence/619872/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
+      name: Food Dive
+      domain: fooddive.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/622bfb12203a72d0156f3303/0x0.jpg?format=jpg&crop=3097,1742,x476,y301,safe&fit=crop"
-        width: 3097
-        height: 1742
+      - url: "https://www.fooddive.com/user_media/cache/6c/af/6cafc7b0ad62fa71e243ce9744c6190b.jpg"
+        width: 770
+        height: 364
         isCached: true
 
 secured: "9OZ9wgAERcNgRvBvYSg40gI/b2flXm6aL6CtUKiVTeFoPX2FQNB65NUoMj9BrqEn6BY2h8hS3FLpJr7X1nA8wo3ETwa9352QGNte5MNvh3ZeUfRXFlaMV2laSwXCBIgUJq8HJRkEF1ql0iXhlbdjbOdNGusCnrPsSRz5a/WVs1ilWbgbc1uVlBLAQzahThN2JL+8YXoPidOb4RFy9MMmV7B2dqw93Cts8P73KLkHwoJwcEDftypoVsI/ynLj4ICg1khYvbnHAnWFjyRgnOxQ6+aYzJaVYYQDH1tVVpQQA4UMOPTEIivHdmiVK27CPKxtD9CG+q+BAbhPm95qF7qQ6wToIwIm5evrw4T/RnP9iHXdPQ4UtihpS0G1P8a2aAK8/JJDB87D15gujbjPoYvyG39tN75iJ2vMi63wCz0fw9aawJcO9lgsf8CStoeIp6JTzfKa9fuRTLns6SgPX1atVYBaZVpRVxt8DL6lwOnS125PegM2YMMpxZ8378b4gm3GMB4keAnkp8eozb0vkmwiig==;m4+Q+D4Zbzeb1aJI2Z/8jw=="

@@ -2,26 +2,26 @@
 category: news
 title: "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards"
 excerpt: "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,"
-publishedDateTime: 2022-03-22T12:41:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-812be7d276734b00a1b5ecd9b7d1d927"
-webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-812be7d276734b00a1b5ecd9b7d1d927"
+publishedDateTime: 2022-03-22T12:42:00Z
+originalUrl: "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html"
+webUrl: "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/2f/c2fe3e5e-68b4-11ec-b5b1-eb6d367dec1b/61cc72a6c74a5.image.jpg"
+    width: 320
+    height: 325
     isCached: true
 
 related:
@@ -160,7 +160,21 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Chillax Care Limited Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Chillax Care Limited was named a winner in its Artificial Intelligence Excellence Awards program. With a decade of experience in the baby and consumer electronics industry,"
+    publishedDateTime: 2022-03-22T16:21:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-cf817fa2651334f20d4d5361cc349ab6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "ewQsI0RN0SYrjWbs8JV4DNFsAmk/7RNJVsiPmWWw8rhfytIEflBmpJV/fAelDTczNLLSWlxaYO6M7VAnTpVPRCUTPHwM4qaCZF23vGIFvXF9/XXe1A6sdGw/Hk+uob8wVB730idnF/ghXnD70ZYAUSxDq7ijAHeAMTzF3IlsOBUoa1ggWt7yhr5kaDeXee2mfphYSmQLuA4YUtSTgpSlYfGzeFzhlJ4fPDrbIE40NgW86kC/l/IeEDXeJ6YWyxpNe19PQfuYYGlsAmHv6sgfPsLoSFgodxTJwKV7+11wU/QVv7hpCM8dS5XkXMFi4aiIkARVGzGF1DlNnDE11FPRMtXNJLDwMoK2o3Un+mYGcoI=;tps9XDEgc0smxzMep4lTIg=="
+secured: "K05hd4ssEpSUAvmwckaxvg+pOt0fyqqiaoRzufBDHEmTDOA3gbI+m1uXnDO4TIBpXuoGvDQeNc6UQAA1f09LLiMVsDm+StB10bu1wcbYGfMmu+RZrxa9vnwQIW4Hf/9l1untkMTE3/6PLQKjPVDEIsmWDqe99M8omaTG/Z8832lzO0xDyiPgo6Zx95F2pOdLEH5jQzTP+3bJvhEP52l0AdIVyS00utdmINI3PRzxe9TaQ+GoItX2XYHrWdqdVipk6D5rB6xaJId9eTa9ZZRG+eFVS7Cgx7/aRXBiO8+uDNhE+KmbqXT5pPOcmxk524Qgg9naDkWZws+VXw0mIN5IowWErnSGmWSsR3oK0feBHqs=;8NmOvU9zRuYO8UahhtbUpg=="
 ---
 

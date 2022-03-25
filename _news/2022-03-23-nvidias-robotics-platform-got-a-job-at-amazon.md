@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/806644/nvidias-robotics-platform-got-a-j
 webUrl: "https://www.slashgear.com/806644/nvidias-robotics-platform-got-a-job-at-amazon/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -86,6 +86,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia shows us how to reach the singularity"
+    excerpt: "Nvidia's keynote this week was breathtaking in its scope and unfettered ambition to pave the way to an AI future."
+    publishedDateTime: 2022-03-25T09:13:00Z
+    webUrl: "https://www.redsharknews.com/nvidia-shows-us-how-to-reach-the-singularity"
+    ampWebUrl: "https://www.redsharknews.com/nvidia-shows-us-how-to-reach-the-singularity?hs_amp=true"
+    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/nvidia-shows-us-how-to-reach-the-singularity?hs_amp=true"
+    type: article
+    provider:
+      name: redsharknews.com
+      domain: redsharknews.com
+    quality: 24
 
 secured: "/JKa3vWrr5Zye+Y3/5OX3jBMWklU7/y60/b/Eni0GxzFk3yxX9XF7VQ6B/g1HJ3bVb3MiPO+ySG29N+8Kyi4J2zNIBPfOOVrGD/3j6R9HyyFhLm0S2Q9pnKOi3mn98fzJm5CrudLWUPmaE9gxr7koj3ZqzrB6Tck3ji1HMSqY5X/dntdaglkk07NdLwBI2YoLd2NhZNqZuv0FMkTxkCyj6Y3YvJ7e6+RXB9lsgDsUAGpt8jMkR7wl7N+U2h4q7gdd8T7Deh2hRnbE2EsMJJe7oRpaUKOzpMjgLRAK8w/Pfe6PrxaOxdcjWTCmuG5YYPJTvtOf/8Ep83MN0VjOsLGEvEmTCenyh/VGq7wgn+hlIjftFMOQEOlAQVv6iHHzvacajEbv6iFrtz0LXxTep9DfOF6FnrUo93HvESjIvxsvxWETtRpSyAfYSwhCtE0iDHGnA8bRRtd38rbp80li/JLHfR8gfV+kzOU+BikeBTYuKIQ/TbfRm++bI2wfLEt5g+YSfTFUpdtspP9yxKl7FMqKA==;9E3sQnCZLaxqSVJDARTPNw=="
 ---

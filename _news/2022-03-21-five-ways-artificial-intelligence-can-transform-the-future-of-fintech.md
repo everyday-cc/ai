@@ -115,6 +115,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "25/03 – Weekly Fintech Recap"
+    excerpt: "Partnerships Yapily Partners with NayaOne to Offer Open Banking Connectivity Yapily announced a partnership with NayaOne and their Digital Sandpit. The partnership provides hundreds of organizations with access to Yapily’s next-generation financial data and payment initiation solutions."
+    publishedDateTime: 2022-03-25T09:42:00Z
+    webUrl: "https://financialit.net/news/digital-banking/2503-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_5.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "TIFIN Announces the Expansion of its Fintech Platform for Personalized Charitable Giving to Democratize Access to Donor Advised Funds"
     excerpt: "and NEW YORK, March 22, 2022 /PRNewswire/ -- TIFIN, a fintech platform using AI for wealth and asset management, announced the expansion of its giving platform, Louise by TIFIN. Louise provides a ..."
     publishedDateTime: 2022-03-22T12:58:00Z
@@ -130,18 +144,18 @@ related:
         height: 400
         isCached: true
   - title: "PLUS3 IT SYSTEMS TO EXPAND DATA ANALYTICS AND ARTIFICIAL INTELLIGENCE CAPABILITIES WITH JOINT ARTIFICIAL INTELLIGENCE CENTER AWARD"
-    excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial Intelligence Center (JAIC) for Data Readiness for Artificial Intelligence Development (DRAID)."
-    publishedDateTime: 2022-03-24T13:28:00Z
-    webUrl: "https://www.lelezard.com/en/news-20303043.html"
+    excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial"
+    publishedDateTime: 2022-03-24T12:50:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence/article_2d4a8a12-262e-52dd-af5b-a24bcacffdff.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 9
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 7
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "17XWa/92BlElFFgGtorYEtykGlgqwc0um/cuOLeJg99STfvx56gVQPhPErU5/vRqMJKD49CUyV2qhogedbgZaQ81wfMtj8i2eQIm+KPxfoeceT3Maqbg6/wH1QITpNJ+kvJykQRMgEeT8A2yJLc9+QfHZlZyOhFPLL/7PGQepTjSMVJltu2LLHbMpP961HflQ0k8MgNakimOS/EfoiThQDhPqNzo8IhSSCHySox5qWGK+2GB8vKsr9AopVBorSLjnEPnlUSJV7ZiABx1PBEwvtbkimbb8UgnlVPHA9seJfCChsqECIs85mozJHJQt6zmOh64h6NqnYj0mv2AK16Vf/Mx3dYLNRnQuqOXP0zdAWres4RPGRZtIBksehvT6CBBkfFGUmb0NbCbqoIAAQczvqIzdy0oM/e807q75p9dsWmLtiL31gMiaP02NOo6WNUSt4X3KC7RvTZ9O9DWJ/7FP1PQgol000oBH59nySimMTTWnPdq3QDUPhBdqP/OhYYXefsrxjJEINdsLezxnBJKHQ==;+GN3d4IhX1zOh+1cNuwUGw=="

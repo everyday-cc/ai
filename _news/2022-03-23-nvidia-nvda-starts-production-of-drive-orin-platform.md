@@ -81,6 +81,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia shows us how to reach the singularity"
+    excerpt: "Nvidia's keynote this week was breathtaking in its scope and unfettered ambition to pave the way to an AI future."
+    publishedDateTime: 2022-03-25T09:13:00Z
+    webUrl: "https://www.redsharknews.com/nvidia-shows-us-how-to-reach-the-singularity"
+    ampWebUrl: "https://www.redsharknews.com/nvidia-shows-us-how-to-reach-the-singularity?hs_amp=true"
+    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/nvidia-shows-us-how-to-reach-the-singularity?hs_amp=true"
+    type: article
+    provider:
+      name: redsharknews.com
+      domain: redsharknews.com
+    quality: 24
 
 secured: "8i/YNSteXzzF0nW8gqmW1kOGepFSHdKjIyzoqXBXim8kjQ02rGPk/U+2cTVW6tMw/OU3hOhgR2uLZe5iGLeiK1pVGxaIgYod2I8ENpWGDpcamDDWMk+UYHkmMowYWxy7NK6GznV7Z8E6gJHqgLN68Cm1lmTFii+ee9pP7DzbBTR9M1MSYA8VVoUkXBKktgAAnyzwyWSzIjJV/iSY8iz1a6aqRgNl9cFcxbwNyynhFPo0WF4wmmPkQL3APoBbCeM7VOt3/gOsg7GxfcQTF8raYaC8oIM11jAuvYKwHsJwlryJFijtj/UTYs/ilKbo3yyMhPyduDs77KbmuwQiYZbnN6DZMUk/kNsLw9qLic9ddA8=;FQQUDi49Ok0B6SsbJ2595A=="
 ---

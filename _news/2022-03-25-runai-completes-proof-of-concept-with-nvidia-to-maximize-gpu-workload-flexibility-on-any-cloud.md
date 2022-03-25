@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud"
-excerpt: "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud"
-publishedDateTime: 2022-03-24T18:48:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/run-ai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any/article_c12bfba6-0885-5f6c-81de-4366aaa59293.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/run-ai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any/article_c12bfba6-0885-5f6c-81de-4366aaa59293.html"
+title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud'"
+excerpt: "Microsoft Azure, Google Cloud, and Oracle Cloud. Run:ai software deployed on NVIDIA VMIs enables cloud customers to move AI workloads from one cloud to another, as well as to use multiple clouds ..."
+publishedDateTime: 2022-03-25T09:30:00Z
+originalUrl: "https://menafn.com/1103910949/Runai-Completes-Proof-of-Concept-with-NVIDIA-to-Maximize-GPU-Workload-Flexibility-on-Any-Cloud"
+webUrl: "https://menafn.com/1103910949/Runai-Completes-Proof-of-Concept-with-NVIDIA-to-Maximize-GPU-Workload-Flexibility-on-Any-Cloud"
 type: article
-quality: 44
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Microsoft AI
@@ -20,9 +20,9 @@ topics:
   - AI Hardware
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?675669"
+    width: 333
+    height: 250
     isCached: true
 
 related:
@@ -266,6 +266,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "xvrB7AaMn8ehZy0XzU9IS/HTAdTA9AMaQpcylIBgD4yNw6XgMM6aRT3lxYos6hoJuLl1sFepNdNJRcchoTre9ooY5AxwFFH/hTn6y+jpYsg9tzGSYkAKRoIcUPWYUKib0UxIXcYFLXdtdxFESA66FS2bHh4nV2fr9DVyAfLTtpyirZvKdH5ojVHaomyRcUKLmp0oWvnsMbXlqknqzV55wUMrkuHgrnJWMxqwS1oyM6LMoX30uuHkOnyt7pFYsW8a+FqMG8riiCDjb2HNrb37OzbIE2BX7Frj4XVIDMhCCCBvRJIvPkCYKGF2RCFMTA2ST3eAKNm8YFRYXSkZQASkw5mZHgFnUBtAX9uqvPgwq6A8AYViZ49v2OO/1+E70VYZccJ9l+5NTnUMItZSoKWukkWGbBx5STzCMMQZ/Uv5VrbX8ED6ilhCd3WrcFTCCUObBSEGY2jjepzNiQNdaOaXqTAxrfWWGbL/xs5/KAa3Ki/IKdxXFs9oAen4PTeBuxPy5XjLFTfA2AiZkKrrwxvM0w==;8YX/3WhksmQpgGrbkT9Ezw=="
+secured: "Jp4p45he1vET1MLs9A0uHpLo6BrnE//HnRwXop1Zh/mlvHviHgxkEw4a1W+ZRQdPsyRFA+PJSwspyJ3/WtUj3/Ggdu6+WOteSqnWTPgkZR5gWNrWXiMZ855XR5NSxNSXAZTcTQiVFg2w/x2TmTHtc6qQX3TFPWoHSlHpPg09qSLTtUuvgN2qvWxtPZi2m4HurdGLzCs5vQJt14XZWVOs9rw7PRznNM/C+e2PZDCNeiVrkfblV6aR5PXbh94KAGnPvlfydIHfQ5HWHlyFNBUa4lNvakxAmX1IPHfk/o/U4xh0/1DioDR9+8vzbTOMT4a3V8DNqljGXXblDEcpWhK9I2MsGLEDThP1sY+AjkyFMPg=;aZtkhh4QSY6SBHGGcdgcyg=="
 ---
 

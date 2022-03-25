@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/24/c3-ai-announces-ai-cybersecurity-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/24/c3-ai-announces-ai-cybersecurity-grant-recipients/amp/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -25,6 +25,20 @@ topics:
   - AI
 
 related:
+  - title: "Machine learning in cyber security: a structured approach"
+    excerpt: "The international business continuity, ERM, and resilience information portal"
+    publishedDateTime: 2022-03-25T09:47:00Z
+    webUrl: "https://continuitycentral.com/index.php/news/technology/7185-machine-learning-in-cyber-security-a-structured-approach"
+    type: article
+    provider:
+      name: continuitycentral.com
+      domain: continuitycentral.com
+    quality: 56
+    images:
+      - url: "https://www.continuitycentral.com/images/fblogo.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Toby Lewis of Darktrace on Enhancing Cybersecurity With AI"
     excerpt: "Automated tools may be the solution to escalating cyberattacks, says Darktrace's global head of threat analysis, but successful implementation requires trust."
     publishedDateTime: 2022-03-24T19:24:00Z

@@ -82,6 +82,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Nvidia shows us how to reach the singularity"
+    excerpt: "Nvidia's keynote this week was breathtaking in its scope and unfettered ambition to pave the way to an AI future."
+    publishedDateTime: 2022-03-25T09:13:00Z
+    webUrl: "https://www.redsharknews.com/nvidia-shows-us-how-to-reach-the-singularity"
+    ampWebUrl: "https://www.redsharknews.com/nvidia-shows-us-how-to-reach-the-singularity?hs_amp=true"
+    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/nvidia-shows-us-how-to-reach-the-singularity?hs_amp=true"
+    type: article
+    provider:
+      name: redsharknews.com
+      domain: redsharknews.com
+    quality: 24
 
 secured: "aZapPWxxN8Q69ZMNcaa5YmbGWXvuotywBPx7s8/4OVAdQ8YIJcwn6/e42mQKlnDytArOnRFxYQikABRNynxzPpAOhjgEb68y/duoWCorkwc0wHE2aJY+3Faq1b/79DGNZbCRCSlx8H+e8cU8Tgpc2CAabV6tCEtOWSZffZG639s5PVnE2HMS6R0i3HPMDy2NQaROvseVocE4l3JCN5bzT1y/Pl3nIZiO76KAJqcu9wc44eftV738P0D60FDbVl7S1qTZZzCJBlL2Jfg4Rb1Yp3pepOLHQyqyMbF2rYULJNj9ou5sHL3q88zzInIYcjIANamEbqo8NO6HWZXmroo4ZEzNcb6EGKcXrWeeHzpH3QE=;vp5RPcAOYmjGCkf6xAbk/A=="
 ---

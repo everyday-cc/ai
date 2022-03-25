@@ -3,8 +3,8 @@ category: news
 title: "Supercomputer to train 176-billion-parameter open-source AI language model"
 excerpt: "GTC BigScience – a team made up of roughly a thousand developers around the world – has started training its 176-billion-parameter open-source AI language model in a bid to advance research into natural language processing (NLP)."
 publishedDateTime: 2022-03-25T07:34:00Z
-originalUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=keepreading-top"
-webUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=keepreading-top"
+originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/03/25/supercomputer_language_ai/"
+webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/03/25/supercomputer_language_ai/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/03/25/supercomputer_language_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/25/supercomputer_language_ai/"
 type: article
@@ -44,6 +44,6 @@ related:
         height: 420
         isCached: true
 
-secured: "E/gUm6suNLoXiBBqjpt31EZGpdWCBRAVSyyfmIMChyBXNJXnLyKu3PPQrsyeaQhUZRxGURvauEPROP0MwycPNmpF2psMPDgWdh1CskAQhyhMZDu5IXP5fyPCgRG1KXz4WnoVm6Weq7yhIVkfDwQv0N3jSUO8Tw/d8JYZSiPfldISwoRvONVg67sd5Ft5oXplgVHtQo4TMr8J1qDHqdINyAH10S3n/lBlgYQuwINMHhh4UbSg51SHQTe0F1ZOJcnqZtz1ZJd7umaXwIqbMIZMwmBOcepKX/eYzpgBdmLVHRnhtIn6tIlZA8ZvptOiD1v6hRolmtjSyj3g/6rr4p27bPL4F7CBlZcw72dFzH7z/Zo=;JI1V6t5f2qaFg1qApmO5Dw=="
+secured: "fIYZ72K2iIb5JLM7a7MT9Cld6750VLmdna/3Kom+aL4cl5lBiRY7sIE2ETzHPHEsblxZAYfJyOxEHV3fJxg59sWBNC05J1Fig7MBghIqbLtn102LlO4WZOlpDGqta1wjAJ/R81oID9F/vC3WBSN3xSWubbdV1l2XJxv0ifvg/cC8MqD+vbYUQDkSqWfi8fsQq4HojZTtBbr8pN16/gjCegSffoPRQpyIC+D0RoyMUaM/q5a9PRRpCJa/hj0F497IQXDyTjvqk1MByWV49XDJEwkD0A80JPNc70g0fq+Wv3IxdQ4o7eFjhrGfFemOALw1cImRr3r9kTrtBv2JrTWyBfc2scKqkNhoexaN+jeqsKE=;G7SKPh/WZz2d8JihW0mzXQ=="
 ---
 

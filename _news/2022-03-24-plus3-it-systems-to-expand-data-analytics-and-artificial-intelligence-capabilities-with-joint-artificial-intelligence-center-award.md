@@ -1,27 +1,26 @@
 ---
 category: news
 title: "PLUS3 IT SYSTEMS TO EXPAND DATA ANALYTICS AND ARTIFICIAL INTELLIGENCE CAPABILITIES WITH JOINT ARTIFICIAL INTELLIGENCE CENTER AWARD"
-excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial Intelligence Center (JAIC) for Data Readiness for Artificial Intelligence Development (DRAID)."
-publishedDateTime: 2022-03-24T13:28:00Z
-originalUrl: "https://www.lelezard.com/en/news-20303043.html"
-webUrl: "https://www.lelezard.com/en/news-20303043.html"
+excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial"
+publishedDateTime: 2022-03-24T12:50:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence/article_2d4a8a12-262e-52dd-af5b-a24bcacffdff.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence/article_2d4a8a12-262e-52dd-af5b-a24bcacffdff.html"
 type: article
-quality: 9
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -129,6 +128,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "25/03 – Weekly Fintech Recap"
+    excerpt: "Partnerships Yapily Partners with NayaOne to Offer Open Banking Connectivity Yapily announced a partnership with NayaOne and their Digital Sandpit. The partnership provides hundreds of organizations with access to Yapily’s next-generation financial data and payment initiation solutions."
+    publishedDateTime: 2022-03-25T09:42:00Z
+    webUrl: "https://financialit.net/news/digital-banking/2503-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_5.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "TIFIN Announces the Expansion of its Fintech Platform for Personalized Charitable Giving to Democratize Access to Donor Advised Funds"
     excerpt: "and NEW YORK, March 22, 2022 /PRNewswire/ -- TIFIN, a fintech platform using AI for wealth and asset management, announced the expansion of its giving platform, Louise by TIFIN. Louise provides a ..."
     publishedDateTime: 2022-03-22T12:58:00Z
@@ -144,6 +157,6 @@ related:
         height: 400
         isCached: true
 
-secured: "pVlLDbuU34qdNpxTBXRCenI4SeihKkQeCuO+M5tYMbzhGoPVUl6KVsSbAvVWpeJwQv+1BuHcZZu/BcBBqMLv6F7IasMlnK9KS2rBubrnhWsYY0XwSZyFK+psqpR5D3Ft9FXzaH1uVKRZ0dbmp9DOYCWekhE7Wh8UET0Es7HrLrrVuQRCx8U/rDx9Hi+EuRKgKeEIIG9HWLVA4zt14L7rxM9pQzvbgreAoNrUcrN4BGntnTDGwzv/Tkp6XaJUbMWxveVCICj1itKEXTbDiQii7swkHEn26q1+/kSPXo0qFUMIgWVnV9SoAtB04dUF374KpSvd9GPa4WuLFUFiMEvtM+yQX59PS9anwTBAgzxfcMc=;Vf56H1MzSllp3GVlx0niDA=="
+secured: "x++occ+uhTN2fmscWbelNBugLnpwrU5i/gfCj2pSQCyyxWqS9N/YisTYyRTE2x6GtL/r49PuU62gxq0rZnWal0067N2n47Q7F9J2/cWx8wfCN6xwWnwycv9M8I7qDpwIXzldKx43MdS6HO+qwAxORYMfWcs5nr5c5Nt6/dtkNuXkZCD9Imk/UCEY1R5Cqcs+j/M8w2M0xgK5PJk0ogeiXxN0+MIJ+ML1ql7xbsyoNA2KHQG26z2vbjFaOJfqRAJ0J2r9C3skPgEvbSZBzKq5bc10MY9FbI3quwdl8/AfwC+BZjz9qvt6OqDAoEGpHrRUWC8juJJbsG0Few6dybLClG/qMceUKlNXkff8NBSZS1k=;YzHc59EFQ4/k3sMrvT5bCQ=="
 ---
 

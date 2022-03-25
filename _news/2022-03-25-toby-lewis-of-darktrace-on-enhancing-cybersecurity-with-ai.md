@@ -35,6 +35,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 69
+  - title: "Machine learning in cyber security: a structured approach"
+    excerpt: "The international business continuity, ERM, and resilience information portal"
+    publishedDateTime: 2022-03-25T09:47:00Z
+    webUrl: "https://continuitycentral.com/index.php/news/technology/7185-machine-learning-in-cyber-security-a-structured-approach"
+    type: article
+    provider:
+      name: continuitycentral.com
+      domain: continuitycentral.com
+    quality: 56
+    images:
+      - url: "https://www.continuitycentral.com/images/fblogo.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI Accelerated Research Startup Forestreet Announces First Series A Success"
     excerpt: "Forestreet, the next generation research platform has announced a £2.75m capital investment from Guinness Ventures, advised by White Horse Capital. Forestreet has developed an automated research platform which can map every company and product in a market,"
     publishedDateTime: 2022-03-24T16:39:00Z

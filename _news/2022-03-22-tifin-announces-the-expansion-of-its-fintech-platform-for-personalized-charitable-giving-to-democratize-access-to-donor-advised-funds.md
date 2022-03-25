@@ -133,19 +133,33 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "PLUS3 IT SYSTEMS TO EXPAND DATA ANALYTICS AND ARTIFICIAL INTELLIGENCE CAPABILITIES WITH JOINT ARTIFICIAL INTELLIGENCE CENTER AWARD"
-    excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial Intelligence Center (JAIC) for Data Readiness for Artificial Intelligence Development (DRAID)."
-    publishedDateTime: 2022-03-24T13:28:00Z
-    webUrl: "https://www.lelezard.com/en/news-20303043.html"
+  - title: "25/03 – Weekly Fintech Recap"
+    excerpt: "Partnerships Yapily Partners with NayaOne to Offer Open Banking Connectivity Yapily announced a partnership with NayaOne and their Digital Sandpit. The partnership provides hundreds of organizations with access to Yapily’s next-generation financial data and payment initiation solutions."
+    publishedDateTime: 2022-03-25T09:42:00Z
+    webUrl: "https://financialit.net/news/digital-banking/2503-weekly-fintech-recap"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 9
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_5.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "PLUS3 IT SYSTEMS TO EXPAND DATA ANALYTICS AND ARTIFICIAL INTELLIGENCE CAPABILITIES WITH JOINT ARTIFICIAL INTELLIGENCE CENTER AWARD"
+    excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial"
+    publishedDateTime: 2022-03-24T12:50:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence/article_2d4a8a12-262e-52dd-af5b-a24bcacffdff.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 7
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "T8BnQe9KoQMuUAW3106tq0cICOCbFMATrNAfOYOBaR5O8iTi+XnlnUWq2ubk3cFfltiPFH9cAq+9VTthqXzODGui6SgBggC0W+aVxZNQhSoUEdgZ27cbYh2knOZ81QjFahlRqzB0jGIRzBH1H1jjC3+NXiWQg/JNc45Lt9w4R1TGc1tgXKaYJ867tymRgvauaZK0ssPLN4W8vxOxcbCrtEFj8g54TVh+ub9iqM02zykidPB3cA+No9qJ4EAObm1E6/SsxHX6Zd1Fxl9mcI7GI70uyjPXb8LEYRgHpuWSmf8pTHxMRqAyfHyw+aEiVSbcMZsVk8epj1VILRqRtoAX2REhq6270QRbHa+R1hDbMxJVQECYObMwMH01oQgmTHlTmIL0DlVIMGC6dg0GMTgPtaKp/BB3/EuW655rfcpnqNasEpYaIvKPG8/mEMRboD88/s5GVI97Fxxi5byRToTYJT7500kZwjl6uXqwzd81gSaoGagSh9kScxYOgREmgZOH/YE2YZiuYkouBvhlOj8/8w==;qY4cpdoP2pfAV47w/3cs1g=="
