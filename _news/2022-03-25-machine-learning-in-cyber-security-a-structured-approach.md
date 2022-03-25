@@ -37,6 +37,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 69
+  - title: "The Growing Importance of Machine Learning in Cybersecurity"
+    excerpt: "The need for increased data security was recently put as a top priority on the global cybersecurity agenda by the EU General Data Protection Regulation (GDPR). This regulation imposes all companies ha"
+    publishedDateTime: 2022-03-24T13:34:00Z
+    webUrl: "https://www.linkedin.com/pulse/growing-importance-machine-learning-cybersecurity-ina-nikolova-ph-d-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGv4gV_meiIVw/article-cover_image-shrink_600_2000/0/1648128505168?e=1653523200&v=beta&t=vYDBSa-tWSZwWtc0d6g158N4KUPGQK5tIxbN5FS1nmg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Toby Lewis of Darktrace on Enhancing Cybersecurity With AI"
     excerpt: "Automated tools may be the solution to escalating cyberattacks, says Darktrace's global head of threat analysis, but successful implementation requires trust."
     publishedDateTime: 2022-03-24T19:24:00Z

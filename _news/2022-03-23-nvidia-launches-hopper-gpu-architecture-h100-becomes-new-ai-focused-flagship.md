@@ -114,6 +114,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia unveils new technology to speed up AI, launches new supercomputer"
+    excerpt: "Nvidia Corp on Tuesday announced new chips and technologies that it said will boost the computing speed of increasingly complicated artificial intelligence algorithms, stepping up competition against rival chipmakers vying for lucrative data center business."
+    publishedDateTime: 2022-03-22T19:44:00Z
+    webUrl: "https://www.reuters.com/technology/nvidia-unveils-latest-chip-speed-up-ai-computing-2022-03-22/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
+    images:
+      - url: "https://www.reuters.com/resizer/aI7zfx5bX1nkr1EiPUXfoyVhWeU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PVBB3JD4BJK6LCNCPVKXMWBPQU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "How Nvidia is overcoming slowdown issues in GPU clusters"
     excerpt: "\"A key challenge to reducing this time to train is the performance gains start to decline as you increase the number of GPUs in a data center,\" said Paresh Kharya, Nvidia's director of datacenter computing,"
     publishedDateTime: 2022-03-23T15:45:00Z
@@ -158,6 +172,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud"
+    excerpt: "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud"
+    publishedDateTime: 2022-03-24T18:48:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/run-ai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any/article_c12bfba6-0885-5f6c-81de-4366aaa59293.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
   - title: "At GTC: NVIDIA Launches Hopper Architecture and 80-billion Transistor GPU for AI Data Centers"
     excerpt: "NVIDIA bolstered its “AI data center” technology with the launch of the Hopper architecture for accelerated computing, delivering what the company said is an order of magnitude performance improvement over its predecessor,"
     publishedDateTime: 2022-03-22T17:24:00Z
@@ -172,20 +200,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud'"
-    excerpt: "Microsoft Azure, Google Cloud, and Oracle Cloud. Run:ai software deployed on NVIDIA VMIs enables cloud customers to move AI workloads from one cloud to another, as well as to use multiple clouds ..."
-    publishedDateTime: 2022-03-25T09:30:00Z
-    webUrl: "https://menafn.com/1103910949/Runai-Completes-Proof-of-Concept-with-NVIDIA-to-Maximize-GPU-Workload-Flexibility-on-Any-Cloud"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 43
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?675669"
-        width: 333
-        height: 250
-        isCached: true
   - title: "Inspur Information AI Servers to Fully Support the Newly Announced NVIDIA H100 Tensor Core GPU"
     excerpt: "Inspur Information, a leading IT infrastructure provider, announced its AI servers fully support the new NVIDIA H100 Tensor Core GPU in four- and eight-way configurations. The servers will offer unprecedented computing performance,"
     publishedDateTime: 2022-03-22T17:06:00Z
@@ -199,6 +213,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Why NVIDIA’s new H100 GPU is a breakthrough"
+    excerpt: "NVIDIA has highlighted the Transformer engine for its ability to combine data formats with algorithms to fasten the hardware performance."
+    publishedDateTime: 2022-03-25T11:35:00Z
+    webUrl: "https://analyticsindiamag.com/why-nvidias-new-h100-gpu-is-a-breakthrough/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Chip_AIM.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Nvidia reveals new Hopper H100 GPU, with 80 billion transistors"
     excerpt: "Nvidia has announced a new GPU based on its upcoming Hopper architecture. The Hopper architecture replaces Ampere, which has more than $10 billion sales to date. The H100 GPU is the first chip based on Hopper,"
@@ -227,6 +255,20 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2022/03/hopper-announcement-blog-1260x680-1-640x360.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Nvidia RTX A4500 workstation GPU review"
+    excerpt: "In our GPU rendering tests, as the role of the CPU is minimal ... 3rd Gen Nvidia Tensor cores for AI and Machine Learning. 2nd Gen Nvidia RT cores which are dedicated to ray tracing. Different applications support these cores in different ways."
+    publishedDateTime: 2022-03-25T10:19:00Z
+    webUrl: "https://aecmag.com/workstations/nvidia-rtx-a4500-workstation-gpu-review/"
+    type: article
+    provider:
+      name: AEC Magazine
+      domain: aecmag.com
+    quality: 39
+    images:
+      - url: "https://aecmag.com/wp-content/uploads/2022/03/Nvidia-RTX-A4500-review.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "NVIDIA is turning data centers into 'AI factories' with Hopper GPU"
     excerpt: "NVIDIA's next-gen Hopper GPU architecture is bringing the AI and Omniverse together, turning data centers into 'AI factories'."

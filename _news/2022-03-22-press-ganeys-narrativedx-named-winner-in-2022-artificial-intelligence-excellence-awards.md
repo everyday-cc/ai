@@ -25,57 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "CORTIX Platform Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "Awards recognize organizations, products and people bringing AI to life and applying it to solve real problemsKENNESAW, Ga., March 23, 2022"
-    publishedDateTime: 2022-03-23T11:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cortix-platform-named-winner-in-2022-artificial-intelligence-excellence-awards-1031301050"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://mma.prnewswire.com/media/1771721/AI_ExcellenceAward_2022.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "ModalAI, Inc. Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that ModalAI, Inc. was named a winner in its Artificial Intelligence Excellence Awards program. ModalAI was selected for its groundbreaking VOXL autonomy platform that enables hundreds of integrators to develop smaller,"
-    publishedDateTime: 2022-03-22T13:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-san-diego-artificial-intelligence-d79047d3821b4601975329c3ef979261"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 51
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Lilt Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that Lilt has been named a winner in its Artificial Intelligence Excellence Awards program, which recognizes those organizations, products and people who bring AI to life and apply it to solve real problems."
-    publishedDateTime: 2022-03-22T13:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-winner-in-2022-artificial-intelligence-excellence-awards-1031298374"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "Chooch Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that Chooch was named a winner in its Artificial Intelligence Excellence Awards program. Chooch solves a fundamental AI problem: teaching machines to understand visual data."
-    publishedDateTime: 2022-03-23T13:02:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-accidents-artificial-intelligence-af4498025d62188a349916e2446fc6ad"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Lirio Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "Lirio, whose Precision Nudging™ solution promotes health through AI-powered behavior change, today announced that it has been recognized by Business Intelligence Group as an AI Excellence Award winner for 2022."
     publishedDateTime: 2022-03-23T14:54:00Z
@@ -89,20 +38,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/f7/3f75f7aa-4535-5b57-b3e4-69e6a425232d/623b372ea78a5.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Chooch Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that Chooch was named a winner in its Artificial Intelligence Excellence Awards program. Chooch solves a fundamental AI problem: teaching machines to understand visual data."
-    publishedDateTime: 2022-03-24T01:23:00Z
-    webUrl: "https://menafn.com/1103900820/Chooch-Named-Winner-in-2022-Artificial-Intelligence-Excellence-Awards"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?36282"
-        width: 377
-        height: 250
         isCached: true
   - title: "Evisort Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "The Business Intelligence Group today announced that Evisort is a winner in its inaugural Artificial Intelligence Excellence Awards program. Evisort is the leading provider of artificial intelligence (AI) solutions for contract management and analytics."
@@ -122,20 +57,6 @@ related:
     excerpt: "An AI-driven security company, StrikeReady, announced today that it has been named a winner in Business Intelligence Group’s Artificial Intelligence Excellence Awards program for Natural Language Processing."
     publishedDateTime: 2022-03-22T13:02:00Z
     webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-palo-alto-67e42c2f991943e1b60ada79992b4bf1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Rev Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "Rev, an AI-powered martech solution for B2B sales and marketing teams, today announced it was named the winner of The Business Intelligence Group’s Artificial Intelligence Excellence Awards program in the Theory of Mind category for applications in Automated Reasoning."
-    publishedDateTime: 2022-03-23T13:02:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-artificial-intelligence-93afcf204822e829f0c53b929c7701b6"
     type: article
     provider:
       name: Associated Press
@@ -175,6 +96,6 @@ related:
         height: 450
         isCached: true
 
-secured: "K05hd4ssEpSUAvmwckaxvg+pOt0fyqqiaoRzufBDHEmTDOA3gbI+m1uXnDO4TIBpXuoGvDQeNc6UQAA1f09LLiMVsDm+StB10bu1wcbYGfMmu+RZrxa9vnwQIW4Hf/9l1untkMTE3/6PLQKjPVDEIsmWDqe99M8omaTG/Z8832lzO0xDyiPgo6Zx95F2pOdLEH5jQzTP+3bJvhEP52l0AdIVyS00utdmINI3PRzxe9TaQ+GoItX2XYHrWdqdVipk6D5rB6xaJId9eTa9ZZRG+eFVS7Cgx7/aRXBiO8+uDNhE+KmbqXT5pPOcmxk524Qgg9naDkWZws+VXw0mIN5IowWErnSGmWSsR3oK0feBHqs=;8NmOvU9zRuYO8UahhtbUpg=="
+secured: "SB3uNlRhCDc3uo7q3NUk5rFVRdf17y4MErAmlVpXcQUFJ54QoW7aYWTiDAHS0n2wbPV3wyXHWHVztqZev68AMzhaNOLvFK9lFh2ZGJgbbmDsXWdwYY4m4r9msGaOuD81tN2r0EUABXdxHuxVvmeFjS7z2GFgW0PxupSSvyFY8n+ms5ydKJqdefzo7zemteANW+j7x8CpefyoYji9yO8Z9pPkNsuByOCF97NKBY4ZEVw3cB1H69BgADrvZPnDBKKc9vakN+FCUrt7O0720U9UB9MaSBZwePPjfiTbtkc9foKAqB7bnwzZ+uzWhcOdjqSl/bxmj6Y3LlI980ucxQ8GSrxqowAjobkc2YBEE9tO3Eb0WPQYEavA9kQCAxSvo1esYS72lf3rc8/OtFErcVteDUE+x1T2Va1sEO9uBy26hzrhwfkF3Nzmbw9BK4Ey4ZGTMHMDvUGeOWZSjPfo4rVtcNhE3Id4vZHSuEqKLQkiddPYNvg51FU3EYmsuZ3INUN9CLAw30xMbLhZ+/UeRzo6ZA==;X6j69NCqLlcIv0cnNVjZUQ=="
 ---
 

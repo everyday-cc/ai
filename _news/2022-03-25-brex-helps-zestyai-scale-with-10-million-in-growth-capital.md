@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Brex Helps Zesty.ai Scale With $10 Million in Growth Capital'"
-excerpt: "U.S. fintech company Brex, the company reimagining finance for growing businesses, has provided $10 million in growth capital via venture debt to Zesty.ai, a leading provider of predictive data analytics in the climate risk space."
-publishedDateTime: 2022-03-25T09:30:00Z
-originalUrl: "https://menafn.com/1103911441/Brex-Helps-Zestyai-Scale-With-10-Million-in-Growth-Capital"
-webUrl: "https://menafn.com/1103911441/Brex-Helps-Zestyai-Scale-With-10-Million-in-Growth-Capital"
+title: "Brex Helps Zesty.ai Scale With $10 Million in Growth Capital"
+excerpt: "This deal marks continued momentum for Brex Venture Debt, which Brex launched in August 2021 as a way to help founders take their business to the next level. It helps growing busi"
+publishedDateTime: 2022-03-25T00:21:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220324NY02101/brex-helps-zesty-ai-scale-with-10-million-in-growth-capital/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220324NY02101/brex-helps-zesty-ai-scale-with-10-million-in-growth-capital/"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?675669"
-    width: 333
-    height: 250
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+    width: 600
+    height: 207
     isCached: true
 
 related:
@@ -46,6 +46,6 @@ related:
       domain: wfmz.com
     quality: 19
 
-secured: "dahttLcNTu9Y8lsIafRCAdtLDGVDeqtaVV0C3SPoBtILognhGeRDqHW56tc+GwxD9229dSlLMlJcfZr6PS0xi3ZG+/xcv+hvMiV9dju3WLP90JG2L20Kjw7slk1hULRFZ6ImhKhuJ1F/PWoJxWnmzHwJpw4lmWiVR4LXibenaz2qYpdOaGMrVmmrjsAq80U3MSv3T7py0efwVJFru/jz/uEgntjB0bqfkwOJkD8ElF3qqDyX24JkXSbvSxVl55MvgTNysfrrCzSaEXxNmINLuJLunbTOUyp06kSLcP1mUNpuOHfFZucWFqpuQlnMbO0w07aSk8Rbk9Df0MHJyMYA56QgNJ+oGEwUPk8AOx/ziX0=;i1o6lMKuaEQQF9ST1gqIjw=="
+secured: "TSOPEFRwxqc+gLgEXPUw5SmYwSPZiZzn9DltmlWmq3mrZcQ1sh8SVdhj+fALPwtMJI+HpR29Tu2G3W5T5R7gus+6MVOHuKxLX4hSIt/xzwqHiOSp0B1cBMLIFf0RSG7VxSdW0CAa59sSrkiP/NCV2Jr0+0RyYjkl60JyPtqEYTACGIbw+0+UTSJ3iqZxAXhDiTWEuiqWWNNhEdyiaVPKtX4tDoK20CRYcQmtq/tj6ooF5KZiKYsI/6oj7zDM3KqzE1HU3XpyVJa+Aa2cja36i2WCn4jgLlibQurvgG7z+vtne/Iq5qMtBIFifaaybUXHKKkhFFcxCISlSf6mbixz+DnfKBfYSa+1rEbCPR8FJ8E=;cto+xzMsgQiVmh5Gdpn+OQ=="
 ---
 

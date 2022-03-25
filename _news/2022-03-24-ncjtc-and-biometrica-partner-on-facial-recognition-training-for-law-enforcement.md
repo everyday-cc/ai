@@ -52,6 +52,20 @@ related:
       name: WBUR
       domain: wbur.org
     quality: 39
+  - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
+    excerpt: "Clearview AI, the facial recognition technology (FRT) company that provides powerful and reliable photo identification technology to law enforcement agencies across the country, announced the release of Clearview 2."
+    publishedDateTime: 2022-03-25T10:02:00Z
+    webUrl: "https://www.kentuckytoday.com/news/business/clearview-ai-releases-2-0-version-of-industry-leading-facial-recognition-platform-for-law-enforcement/article_10f65bcc-2844-540e-a5f2-ace40197474b.html"
+    type: article
+    provider:
+      name: Kentucky Today
+      domain: kentuckytoday.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Facial Recognition Tech is Controversial Yet Key Piece of Federal Biometrics Strategy"
     excerpt: "Biometric data and technologies are being deployed within multiple federal agencies to boost the accuracy of identity verification and free up human decision makers for other, more complex and cognitive tasks,"
     publishedDateTime: 2022-03-22T09:46:00Z

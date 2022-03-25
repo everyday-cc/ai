@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud'"
-excerpt: "Microsoft Azure, Google Cloud, and Oracle Cloud. Run:ai software deployed on NVIDIA VMIs enables cloud customers to move AI workloads from one cloud to another, as well as to use multiple clouds ..."
-publishedDateTime: 2022-03-25T09:30:00Z
-originalUrl: "https://menafn.com/1103910949/Runai-Completes-Proof-of-Concept-with-NVIDIA-to-Maximize-GPU-Workload-Flexibility-on-Any-Cloud"
-webUrl: "https://menafn.com/1103910949/Runai-Completes-Proof-of-Concept-with-NVIDIA-to-Maximize-GPU-Workload-Flexibility-on-Any-Cloud"
+title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud"
+excerpt: "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud"
+publishedDateTime: 2022-03-24T18:48:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/run-ai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any/article_c12bfba6-0885-5f6c-81de-4366aaa59293.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/run-ai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any/article_c12bfba6-0885-5f6c-81de-4366aaa59293.html"
 type: article
-quality: 43
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
@@ -20,9 +20,9 @@ topics:
   - AI Hardware
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?675669"
-    width: 333
-    height: 250
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -115,6 +115,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia unveils new technology to speed up AI, launches new supercomputer"
+    excerpt: "Nvidia Corp on Tuesday announced new chips and technologies that it said will boost the computing speed of increasingly complicated artificial intelligence algorithms, stepping up competition against rival chipmakers vying for lucrative data center business."
+    publishedDateTime: 2022-03-22T19:44:00Z
+    webUrl: "https://www.reuters.com/technology/nvidia-unveils-latest-chip-speed-up-ai-computing-2022-03-22/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
+    images:
+      - url: "https://www.reuters.com/resizer/aI7zfx5bX1nkr1EiPUXfoyVhWeU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PVBB3JD4BJK6LCNCPVKXMWBPQU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "How Nvidia is overcoming slowdown issues in GPU clusters"
     excerpt: "\"A key challenge to reducing this time to train is the performance gains start to decline as you increase the number of GPUs in a data center,\" said Paresh Kharya, Nvidia's director of datacenter computing,"
     publishedDateTime: 2022-03-23T15:45:00Z
@@ -201,6 +215,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Why NVIDIA’s new H100 GPU is a breakthrough"
+    excerpt: "NVIDIA has highlighted the Transformer engine for its ability to combine data formats with algorithms to fasten the hardware performance."
+    publishedDateTime: 2022-03-25T11:35:00Z
+    webUrl: "https://analyticsindiamag.com/why-nvidias-new-h100-gpu-is-a-breakthrough/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Chip_AIM.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Nvidia reveals new Hopper H100 GPU, with 80 billion transistors"
     excerpt: "Nvidia has announced a new GPU based on its upcoming Hopper architecture. The Hopper architecture replaces Ampere, which has more than $10 billion sales to date. The H100 GPU is the first chip based on Hopper,"
     publishedDateTime: 2022-03-23T09:59:00Z
@@ -228,6 +256,20 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2022/03/hopper-announcement-blog-1260x680-1-640x360.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Nvidia RTX A4500 workstation GPU review"
+    excerpt: "In our GPU rendering tests, as the role of the CPU is minimal ... 3rd Gen Nvidia Tensor cores for AI and Machine Learning. 2nd Gen Nvidia RT cores which are dedicated to ray tracing. Different applications support these cores in different ways."
+    publishedDateTime: 2022-03-25T10:19:00Z
+    webUrl: "https://aecmag.com/workstations/nvidia-rtx-a4500-workstation-gpu-review/"
+    type: article
+    provider:
+      name: AEC Magazine
+      domain: aecmag.com
+    quality: 39
+    images:
+      - url: "https://aecmag.com/wp-content/uploads/2022/03/Nvidia-RTX-A4500-review.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "NVIDIA is turning data centers into 'AI factories' with Hopper GPU"
     excerpt: "NVIDIA's next-gen Hopper GPU architecture is bringing the AI and Omniverse together, turning data centers into 'AI factories'."
@@ -266,6 +308,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "Jp4p45he1vET1MLs9A0uHpLo6BrnE//HnRwXop1Zh/mlvHviHgxkEw4a1W+ZRQdPsyRFA+PJSwspyJ3/WtUj3/Ggdu6+WOteSqnWTPgkZR5gWNrWXiMZ855XR5NSxNSXAZTcTQiVFg2w/x2TmTHtc6qQX3TFPWoHSlHpPg09qSLTtUuvgN2qvWxtPZi2m4HurdGLzCs5vQJt14XZWVOs9rw7PRznNM/C+e2PZDCNeiVrkfblV6aR5PXbh94KAGnPvlfydIHfQ5HWHlyFNBUa4lNvakxAmX1IPHfk/o/U4xh0/1DioDR9+8vzbTOMT4a3V8DNqljGXXblDEcpWhK9I2MsGLEDThP1sY+AjkyFMPg=;aZtkhh4QSY6SBHGGcdgcyg=="
+secured: "4Y871trwmLJ3B2V+8kgcNIPY7+QQSz0gbf17+r0NLtBKwSNxKlo58chCYskTsgOjvGJ12vWCLuMEnm/BsBQSWNR/I9Stoc6b7CJ/TEJy4qArvbegA+bGsTjGkOhC6OlEUrdXlEENT+jLcNxjbtQ0N5+h2aw1hpIYi7X61yf7Tp+bkhjQamZWlxD1J9pWneqYH0sCSkwegE/5EwUzngfRkp83Nbs/NAT2J4rdtuAmYXf5DxS810Y3hzcx1oPtsLjYMjXxLiNgovLEvHe9RClhDG4Erxv2UbY1iqxn6ouWytBzhGat2LH/syzU7oBVYEjlTgzipnVeDa2UtoGAJnIT0TgTpKxuUwu9w1bDubCZs0U=;sQXQ9vTY2vbVudNNEWHxJw=="
 ---
 

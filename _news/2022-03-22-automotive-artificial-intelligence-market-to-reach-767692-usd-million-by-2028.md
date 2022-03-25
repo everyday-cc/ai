@@ -37,6 +37,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Cognitive Media Market is Expected to Reach USD 3.31 Billion By 2026"
+    excerpt: "The development of media industries owing to the rise in demand for consumers and is propelling the market growth. Cognitive Media Market Size – USD 0.52"
+    publishedDateTime: 2022-03-25T10:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cognitive-media-market-is-expected-to-reach-usd-3-31-billion-by-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/311e103167631b53610564f3bef2b5e4678b5881-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "Ftk7FQkgVLd6AWt0d4FE+9doYdaNn3ICUy9rtT1ctdhdjaIoG16p2zBqgWeiGnGiXx7FnI9usbE4VEsXe4AV8uWaWP89h77I31MFUdbhrJg4jpALZBTotSgjK99TeUAPYTH7aAI5vNb2PcHMHK+hlSbhgXj1kKygRd48YJ+rU9VJNy2bFB6YWP11bNfdcMSCB1gpcP/SUdYEwEuDjkeT8bq+NEQADyadpINZkyvq2jnp9qoo2vRGaZ91IUTq8zAyjtlFWJjeEUduesavtGSSQhhqCvpZ4rsG0Km2zCLsdi7RtNfBX/bvjS4LPeZyyY67xyqhWA9zp38K71FD+LNG5DvIOlo7xxBGTd5olon/c8gEmOJvsFyxrfeNO9QubBy3lcmZR2soMQ76mpTmZhNPYBlQcLnrHLKzsd4wVY+qGeAByDfOKlQ1RelzlUImHuTwKWhJxeideu+yVmggUdnwmismmtnNgd+bda/1FhXYdyXVSc1V60+Dn8v481DAKY5TSCVQGEec7EacvD26J9kfYg==;xdbqIflM6QjNLvwFG4ZrEA=="
 ---

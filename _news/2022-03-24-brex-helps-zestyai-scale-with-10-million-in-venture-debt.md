@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Brex Helps Zesty.ai Scale With $10 Million in Growth Capital'"
-    excerpt: "U.S. fintech company Brex, the company reimagining finance for growing businesses, has provided $10 million in growth capital via venture debt to Zesty.ai, a leading provider of predictive data analytics in the climate risk space."
-    publishedDateTime: 2022-03-25T09:30:00Z
-    webUrl: "https://menafn.com/1103911441/Brex-Helps-Zestyai-Scale-With-10-Million-in-Growth-Capital"
+  - title: "Brex Helps Zesty.ai Scale With $10 Million in Growth Capital"
+    excerpt: "This deal marks continued momentum for Brex Venture Debt, which Brex launched in August 2021 as a way to help founders take their business to the next level. It helps growing busi"
+    publishedDateTime: 2022-03-25T00:21:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220324NY02101/brex-helps-zesty-ai-scale-with-10-million-in-growth-capital/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: KTLA
+      domain: ktla.com
     quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?675669"
-        width: 333
-        height: 250
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
         isCached: true
   - title: "Brex Helps Zesty.ai Scale With $10 Million in Venture Debt"
     excerpt: "In the news release, Brex Helps Zesty.ai Scale With $10 Million in Venture Debt, issued 24-Mar-2022 by Brex over PR Newswire, we are advised by"

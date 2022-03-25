@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Six AI Trends To Watch In 2022"
+    excerpt: "Artificial intelligence isn't a new technology, but its impact is only starting to be felt, as businesses and individuals begin to understand the possibilities that AI can offer. AI is set to transform business like never before,"
+    publishedDateTime: 2022-03-25T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/25/six-ai-trends-to-watch-in-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/25/six-ai-trends-to-watch-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/25/six-ai-trends-to-watch-in-2022/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/623c6f010ae95f107980e813/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 840
+        isCached: true
   - title: "CORTIX Platform Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "Awards recognize organizations, products and people bringing AI to life and applying it to solve real problemsKENNESAW, Ga., March 23, 2022"
     publishedDateTime: 2022-03-23T11:53:00Z
@@ -75,20 +91,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Lirio Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "Lirio, whose Precision Nudging™ solution promotes health through AI-powered behavior change, today announced that it has been recognized by Business Intelligence Group as an AI Excellence Award winner for 2022."
-    publishedDateTime: 2022-03-23T14:54:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/lirio-named-winner-in-2022-artificial-intelligence-excellence-awards/article_9bbf1695-9c20-5f1a-b471-8641194e55f0.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/f7/3f75f7aa-4535-5b57-b3e4-69e6a425232d/623b372ea78a5.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Chooch Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "The Business Intelligence Group today announced that Chooch was named a winner in its Artificial Intelligence Excellence Awards program. Chooch solves a fundamental AI problem: teaching machines to understand visual data."
     publishedDateTime: 2022-03-24T01:23:00Z
@@ -103,75 +105,33 @@ related:
         width: 377
         height: 250
         isCached: true
-  - title: "Evisort Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that Evisort is a winner in its inaugural Artificial Intelligence Excellence Awards program. Evisort is the leading provider of artificial intelligence (AI) solutions for contract management and analytics."
-    publishedDateTime: 2022-03-22T13:06:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-f6f1a78d546a46d8b5d4c09e38fe43e0"
+  - title: "7 Trends in Artificial Intelligence Every Founder Should Pay Attention To"
+    excerpt: "If you're wondering how important artificial intelligence is to your business's future, all you have to do is follow the money. In 2021, private companies invested $93.5 billion in AI--more than double the total private investment in 2020."
+    publishedDateTime: 2022-03-24T09:38:00Z
+    webUrl: "https://www.inc.com/anna-meyer/artificial-intelligence-ai-index-report.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Inc
+      domain: inc.com
+    quality: 38
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1372528489_498131_nyu3az.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "AI in Fintech Market Size, Trends, Outlook, Opportunity Forecast 2022-2031"
+    excerpt: "Comserve / -- AI in Fintech Market offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts."
+    publishedDateTime: 2022-03-25T11:53:00Z
+    webUrl: "https://menafn.com/1103913701/AI-in-Fintech-Market-Size-Trends-Outlook-Opportunity-Forecast-2022-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "StrikeReady Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "An AI-driven security company, StrikeReady, announced today that it has been named a winner in Business Intelligence Group’s Artificial Intelligence Excellence Awards program for Natural Language Processing."
-    publishedDateTime: 2022-03-22T13:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-palo-alto-67e42c2f991943e1b60ada79992b4bf1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Qlik’s Elif Tutuk Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that Elif Tutuk, Vice President of Innovation and Design at Qlik®, was named a winner in its"
-    publishedDateTime: 2022-03-24T12:31:00Z
-    webUrl: "https://www.kentuckytoday.com/news/business/qlik-s-elif-tutuk-named-winner-in-2022-artificial-intelligence-excellence-awards/article_ffd0e99d-89bd-5ce3-b8d9-e08e8628db8e.html"
-    type: article
-    provider:
-      name: Kentucky Today
-      domain: kentuckytoday.com
-    quality: 34
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Chillax Care Limited Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that Chillax Care Limited was named a winner in its Artificial Intelligence Excellence Awards program. With a decade of experience in the baby and consumer electronics industry,"
-    publishedDateTime: 2022-03-22T16:21:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-cf817fa2651334f20d4d5361cc349ab6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,"
-    publishedDateTime: 2022-03-22T12:42:00Z
-    webUrl: "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 30
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/2f/c2fe3e5e-68b4-11ec-b5b1-eb6d367dec1b/61cc72a6c74a5.image.jpg"
-        width: 320
-        height: 325
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?186546"
+        width: 448
+        height: 249
         isCached: true
 
 secured: "ftkUp8Hx50UWa614Xd5WEECu0MQtXLMqO3InsGztMQac9JJCtt8sO425vjMcTEarW+zmCLUzAwBatzWSvuwZZzNyBxtu6bEqR3KUmTPqz8g1aek5/5Tc/RqF61N3M2a6SPfXPn3HcZSjluBZ8bZsun/kChRkPMpPH4jeh8u1xWHQF463bYBZPUbDYGkjCTqeIdHJKKqvuoeedkK1aAXf4ZNZTGVRyXBk7rzQmde3xSzBQAqsH1H01J29Hr1PUMucD2pBtZtatAMHZEuNrXhy8E4SgqvyFKAllBnhm8kD9m6wPJ3M0odOmO1tIWnBOUK37GvjcPguCTH/jk3PLLumyTatm4pT4JvamOiEdHISiOw=;75yPp9AXBhrr7pfcSggJuA=="

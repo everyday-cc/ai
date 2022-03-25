@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI Software Is Poised To Transform Driving As We Know It"
+    excerpt: "Cars, and the way we buy and use them, are getting smarter every day. Self-driving is just one step on a long road to the digital transformation of the car industry, and you can expect AI to lead the charge."
+    publishedDateTime: 2022-03-25T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/25/how-ai-software-is-poised-to-transform-driving-as-we-know-it/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/25/how-ai-software-is-poised-to-transform-driving-as-we-know-it/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/25/how-ai-software-is-poised-to-transform-driving-as-we-know-it/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/623c7388603a0f06f9e8cac3/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Enter to save on the latest Discover Samsung deals"
     excerpt: "Check out the latest deals available during Samsung Discover, where you will find the Samsung Galaxy S22 Ultra and other great products on sale"
     publishedDateTime: 2022-03-24T16:46:00Z

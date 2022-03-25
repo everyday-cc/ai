@@ -43,7 +43,21 @@ related:
         width: 750
         height: 420
         isCached: true
+  - title: "Chasing The World’s First Brain-on-Chip AI Computer"
+    excerpt: "New project BayesBrain aims to build the world’s first computer that combines brain cells and silicon microchips. Besides being the most intelligent computing system ever, the brain is also very energy efficient."
+    publishedDateTime: 2022-03-25T11:41:00Z
+    webUrl: "https://siliconsemiconductor.net/article/114480/Chasing_the_world’s_first_Brain-on-Chip_AI_computer"
+    type: article
+    provider:
+      name: siliconsemiconductor
+      domain: siliconsemiconductor.net
+    quality: 54
+    images:
+      - url: "https://data.angel.digital/images/imager.php?w=655&h=300&type=b2&zc=1&i=shutterstock_59831953.jpg"
+        width: 655
+        height: 300
+        isCached: true
 
-secured: "fIYZ72K2iIb5JLM7a7MT9Cld6750VLmdna/3Kom+aL4cl5lBiRY7sIE2ETzHPHEsblxZAYfJyOxEHV3fJxg59sWBNC05J1Fig7MBghIqbLtn102LlO4WZOlpDGqta1wjAJ/R81oID9F/vC3WBSN3xSWubbdV1l2XJxv0ifvg/cC8MqD+vbYUQDkSqWfi8fsQq4HojZTtBbr8pN16/gjCegSffoPRQpyIC+D0RoyMUaM/q5a9PRRpCJa/hj0F497IQXDyTjvqk1MByWV49XDJEwkD0A80JPNc70g0fq+Wv3IxdQ4o7eFjhrGfFemOALw1cImRr3r9kTrtBv2JrTWyBfc2scKqkNhoexaN+jeqsKE=;G7SKPh/WZz2d8JihW0mzXQ=="
+secured: "lry88wJe/gpVZ7onKt7BaQojexj1qdVJLVJ4RD2tf8qHmVovzn1BymzuewRoCghP8PcUNuNSl8Mbh+/QKA1czyHR3RF3XjjvabLYr6y59OclzL29oGLekLFePGUi3utlsJtW/mgRquypLjroITaxY35axn64lISLq5tLnc0u6+DnEmr+GstYDXI+SGnItt2CfY1JH17RUIByh7bT1bwWV4OnDvMhODCQZTMLn+hnjatCXF5tBM5hsmMUFrwahoJ5kN6fQ0rHwjV+5c1jCjeUDC2YsqakaiGU0dHBuLdImuCKfLG+38otfSQuJb0qQoIa1RhILeuTNB5JNlu0tEyID1pim8hSLVMPtCuQHY2MSa8Otze5rRIiw8+270+RMArIW4gL/oN91g1jyumNCMF2z4ytQrncf+8EuExxorcYEuC/jHr1vt3vKF1WkfRTHG5sYXL/J4Y9LSX0Y7ePcjg1MBGDynpdvF7ZKSkwHlNqV1kVhOcvfkeHpDShmIbNDkvp+lz6WMHvW7Ykxpsr6ixs5g==;LoLTicOqkazd8y/FFyQ5CQ=="
 ---
 

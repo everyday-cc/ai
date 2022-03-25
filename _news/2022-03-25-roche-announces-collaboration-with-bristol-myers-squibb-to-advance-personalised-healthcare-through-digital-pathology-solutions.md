@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Roche announces collaboration with Bristol Myers Squibb to advance personalised healthcare through digital pathology solutions"
-excerpt: "Collaboration builds on commitment to advance personalised healthcare by helping to improve access to new treatment options for patients with solid tumoursAdvances in computation and artificial intell"
-publishedDateTime: 2022-03-25T05:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions/article_aef67db4-3b8c-5c77-b53c-fb0839f69b2d.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions/article_aef67db4-3b8c-5c77-b53c-fb0839f69b2d.html"
+excerpt: "Collaboration builds on commitment to advance personalised healthcare by helping to improve access to new treatment options for patients with solid tumours Advances in computation and artificial intelligence (AI) in digital pathology are showing promise to meet the demand for more accurate and comprehensive assessment of pathology results to enable improved patient outcomes Leverages Roche's Digital Pathology Open Environment and the collaboration with PathAI,"
+publishedDateTime: 2022-03-25T11:00:00Z
+originalUrl: "https://www.khon2.com/business/press-releases/cision/20220325LA03260/roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions/"
+webUrl: "https://www.khon2.com/business/press-releases/cision/20220325LA03260/roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions/"
 type: article
 quality: 11
 heat: 11
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: KHON2
+  domain: khon2.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://i0.wp.com/www.khon2.com/wp-content/uploads/sites/8/2022/03/660_1743.jpg?w=2000&#038;ssl=1"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "YI3m0Je6wrHRdai946pLPi75nZtlwS+jzCgWI1TJh6HoLNYDu3Z7nMiknDrKp2Kxr1qGeQVkfgWfHybBl7JH96NZ5t0gmwJsZD2h4SKlv15iF5KwNVL0zKn4IDypOBPXO25HiJqtdYkDzDzFhw3bDaTwT+r0XGnCTOmVv67By6111gFvJz5L8efyf98XS61VJ9vxv6JACUqUcwqJWDPO2EKxFKdVpje3/bxoldMDHZrZaDB+zMyMjO6JP1u1pOaeAmyzi0snFpMc1oOsiCuAEViOROJaB9vAGsEg8T+K+QGSKDpICaFYpoCo+/Ur3NYrZFXQrQI9/8fH8uIS8vkmO8eNSXmBAo8PielDyPiHT3o=;I7ud7IHJOfK1TJDWZook6g=="
+secured: "pCsO4P8CTV/sSeQs0QcQbzWXI3hmIr0sLRvGGiJXEdrKvobWKVFoczuN8nD9h2LnjIKOGKZD4qIoCzRsAU/6nkwlpBa7iaOs18ao8BECxCvlCaBraIN15uyZ6+6wnEFdPeZlgvyVDlJP4qwlWW2E0McpZpdDkNSVSU8E5da2mntCrcVpyLMfqf9o692EvgHGDFUPZnsgJ5qEaZQAbJM+UOc6LP3nWffI+ODnr5RJfzhggiIow4pgMjS9sXlfrEJUN8zE6/xs/hAwYEr7PSo7tn0BTVgA1xYRSfoil+iyDH/dsFUHjDggzDh0MvQezslqL1+4U1JKdyxJn1Rs36jX/JSYdTpsVoWPPuQMtQoUzQ4=;dnGSGhqD1Agl9z0k9I0wvQ=="
 ---
 
