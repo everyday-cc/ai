@@ -456,6 +456,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-17-speech-recognition-software-helps-tibetans-better-communicate.md",
+      "title": "Speech recognition software helps Tibetans better communicate",
+      "excerpt": "What helped them conquer the language barrier is a speech recognition app on the smartphone that can convert the three main Tibetan dialects — U-Tsang, Amdo, Kamba — to texts and translate them into Chinese.",
+      "sourceUrl": null,
+      "webUrl": "https://www.macaubusiness.com/speech-recognition-software-helps-tibetans-better-communicate/",
+      "originalUrl": "https://www.macaubusiness.com/speech-recognition-software-helps-tibetans-better-communicate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mbusiness.sgp1.digitaloceanspaces.com/2019/12/Grand_Hyatt_Macau_logo3.png",
+          "width": 516,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macau Business",
+        "domain": "macaubusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-natural-language-processing-market-is-poised-to-drive-accelerated-expansion-in-coming-years.md",
       "title": "Natural Language Processing Market is Poised to Drive Accelerated Expansion in Coming Years",
       "excerpt": "Natural Language Processing Demand To Boom in Asia-Pacific in Future! Natural Language Processing (NLP) allows machines t",
@@ -485,49 +528,6 @@
       "provider": {
         "name": "Middle East North Africa Financial Network",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-speech-recognition-software-helps-tibetans-better-communicate.md",
-      "title": "Speech recognition software helps Tibetans better communicate",
-      "excerpt": "What helped them conquer the language barrier is a speech recognition app on the smartphone that can convert the three main Tibetan dialects -- U-Tsang, Amdo, Kamba -- to texts and translate them into Chinese.",
-      "sourceUrl": null,
-      "webUrl": "https://english.news.cn/20220317/7bc38e0533ad4cc098110c3fbb1ca176/c.html",
-      "originalUrl": "https://english.news.cn/20220317/7bc38e0533ad4cc098110c3fbb1ca176/c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.news.cn/20220317/7bc38e0533ad4cc098110c3fbb1ca176/202203177bc38e0533ad4cc098110c3fbb1ca176_5ad2e6e1-61d3-4ab6-957a-b06bac34ddc6.jpg",
-          "width": 727,
-          "height": 1023,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China",
-        "domain": "news.cn",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,144 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-03-13-deepminds-new-ai-helps-restore-damaged-ancient-texts.md",
+      "title": "DeepMind’s New AI Helps Restore Damaged Ancient Texts",
+      "excerpt": "Many inscriptions are so decrepit that large chunks are illegible. The company’s Ithaca tool assists historians in filling in the blanks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/deepmind-ai-restore-ancient-texts/",
+      "originalUrl": "https://www.wired.com/story/deepmind-ai-restore-ancient-texts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/622be42f808c6d921bbb64a1/191:100/w_1280,c_limit/Ancient-Greek-Inscription-AI-Business-178116372.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-13T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-13-edge-artificial-intelligence-ai-software-market-2022-product-introduction-recent-developments-competitive-and-dynamic-landscape-by-2028.md",
+      "title": "Edge Artificial Intelligence (AI) Software Market 2022 Product Introduction, Recent Developments, Competitive And Dynamic Landscape By 2028",
+      "excerpt": "Increasing art of AI applications and rapid introduction of 5G network are key factors driving revenue growth of the global edge Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/edge-artificial-intelligence-ai-software-market-2022-product-introduction-recent-developments-competitive-and-dynamic-landscape-by-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/edge-artificial-intelligence-ai-software-market-2022-product-introduction-recent-developments-competitive-and-dynamic-landscape-by-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-12T21:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-13-wow-this-indian-student-did-what-no-big-tech-firm-could-real-time-translation-of-sign-language.md",
+      "title": "Wow! This Indian student did what NO big tech firm could! Real-time translation of sign language",
+      "excerpt": "An Indian engineering student from Tamil Nadu has developed the new AI model which translates sign language into English instantly. Know the inspiring story.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/wow-this-indian-student-did-what-no-big-tech-firm-could-real-time-translation-of-sign-language-71647082254014.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/wow-this-indian-student-did-what-no-big-tech-firm-could-real-time-translation-of-sign-language-71647082254014.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2022/03/12/1600x900/web-g18e6361fa_1920_1647082773401_1647082789740.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/wow-this-indian-student-did-what-no-big-tech-firm-could-real-time-translation-of-sign-language-71647082254014.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/wow-this-indian-student-did-what-no-big-tech-firm-could-real-time-translation-of-sign-language-71647082254014.html",
+      "publishedDateTime": "2022-03-12T14:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-13-artificial-intelligence-helps-treat-spinal-cord-injuries.md",
       "title": "Artificial Intelligence Helps Treat Spinal Cord Injuries",
       "excerpt": "By utilizing artificial intelligence (AI) and robotics, researchers have stabilized an enzyme that can degrade scar tissue resulting from spinal cord injuries.",
@@ -1012,126 +1150,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-self-learning-autonomous-driving-ai-startup-autobrains-closes-120m-series-c-round.md",
-      "title": "Self-learning autonomous driving AI startup Autobrains closes $120M Series C round",
-      "excerpt": "Autobrains, a company that’s developing self-learning artificial intelligence technology for assisted and autonomous driving systems, said today it has closed on a $120 million round of funding. The Series C round was led by Temasek and saw participation from existing investors Continental and BMW I Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/03/10/self-learning-autonomous-driving-ai-startup-autobrains-closes-120m-series-c-round/",
-      "originalUrl": "https://siliconangle.com/2022/03/10/self-learning-autonomous-driving-ai-startup-autobrains-closes-120m-series-c-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/percfields_W_LOGO-Copy.jpg",
-          "width": 2561,
-          "height": 1037,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T17:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-brain-based-computing-chips-not-just-for-ai-anymore.md",
-      "title": "Brain-based computing chips not just for AI anymore",
-      "excerpt": "With the insertion of a little math, researchers have shown that neuromorphic computers, which synthetically replicate the brain's logic, can solve more complex problems than those posed by artificial intelligence and may even earn a place in high-performance computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/03/220310170837.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/03/220310170837.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T16:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-artificial-intelligence-ai-in-medical-market-will-likely-see-excellent-gains-in-key-business-segments.md",
-      "title": "Artificial Intelligence (AI) in Medical Market Will Likely See Excellent Gains in Key Business Segments",
-      "excerpt": "Global Artificial Intelligence (AI) in Medical Market by Player, Region, Type, Application and Sales Channel is latest research study released by HTF MI evaluating the market, hig",
-      "sourceUrl": null,
-      "webUrl": "https://eclecticnortheast.in/2022/03/11/artificial-intelligence-ai-in-medical-market-will-likely-see-excellent-gains-in-key-business-segments/",
-      "originalUrl": "https://eclecticnortheast.in/2022/03/11/artificial-intelligence-ai-in-medical-market-will-likely-see-excellent-gains-in-key-business-segments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eclectic Northeast",
-        "domain": "eclecticnortheast.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

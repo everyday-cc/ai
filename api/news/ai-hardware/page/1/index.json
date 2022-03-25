@@ -204,6 +204,50 @@
       ]
     },
     {
+      "path": "_news/2022-03-18-your-chipotle-chips-may-soon-be-made-by-a-robot-named-chippy.md",
+      "title": "Your Chipotle Chips May Soon Be Made By A Robot Named 'Chippy'",
+      "excerpt": "Chipotle announced on Wednesday that it is testing out an alternative way to make its tortilla chips using an AI-powered robot named “Chippy.” The creation of the robot is intended to help businesses run more efficiently and to help employees not have to do mundane tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/your-chipotle-chips-may-soon-be-made-robot-named-chippy-3441498",
+      "originalUrl": "https://www.ibtimes.com/your-chipotle-chips-may-soon-be-made-robot-named-chippy-3441498",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/11/27/chipotle-delivery.jpg",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/your-chipotle-chips-may-soon-be-made-robot-named-chippy-3441498?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/your-chipotle-chips-may-soon-be-made-robot-named-chippy-3441498?amp=1",
+      "publishedDateTime": "2022-03-17T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-artificial-intelligence-chips-market-is-going-to-boom-baidu-mythic-alphabet.md",
       "title": "Artificial intelligence Chips Market Is Going To Boom | Baidu, Mythic, Alphabet",
       "excerpt": "Chips has recently been published. The market presents an analysis of the current industry dynamics in the Artificial intelligence (AI) Chips Market arena, as well as what our survey respondents believe the market will look like in 2027.",
@@ -452,8 +496,8 @@
       "title": "AI Chip Startups Pull In Funding as They Navigate Supply Constraints",
       "excerpt": "Investors are funneling billions of dollars into startups that make chips designed for artificial-intelligence applications, which have largely avoided the supply-chain constraints and backlogs faced by larger chip makers.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402",
-      "originalUrl": "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402",
+      "webUrl": "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402?tpl=vc",
+      "originalUrl": "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402?tpl=vc",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -470,8 +514,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-03-15T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -495,8 +539,8 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1367,58 +1411,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-global-ai-audio-and-video-chip-market-2021-industry-chain-structure-market-competition-swot-analysis-report-by-2027.md",
-      "title": "Global AI Audio and Video Chip Market 2021 Industry Chain structure, Market Competition, SWOT Analysis Report by 2027",
-      "excerpt": "MarketsandResearch.biz has just released a new market research study named Global AI Audio and Video Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 which contains a comprehensive addition of several factors such as global distribution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-audio-and-video-chip-market-2021-industry-chain-structure-market-competition-swot-analysis-report-by-2027-2022-02-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-audio-and-video-chip-market-2021-industry-chain-structure-market-competition-swot-analysis-report-by-2027-2022-02-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-27T15:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

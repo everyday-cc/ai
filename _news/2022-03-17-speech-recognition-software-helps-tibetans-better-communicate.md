@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Speech recognition software helps Tibetans better communicate"
-excerpt: "What helped them conquer the language barrier is a speech recognition app on the smartphone that can convert the three main Tibetan dialects -- U-Tsang, Amdo, Kamba -- to texts and translate them into Chinese."
-publishedDateTime: 2022-03-17T07:21:00Z
-originalUrl: "https://english.news.cn/20220317/7bc38e0533ad4cc098110c3fbb1ca176/c.html"
-webUrl: "https://english.news.cn/20220317/7bc38e0533ad4cc098110c3fbb1ca176/c.html"
+excerpt: "What helped them conquer the language barrier is a speech recognition app on the smartphone that can convert the three main Tibetan dialects — U-Tsang, Amdo, Kamba — to texts and translate them into Chinese."
+publishedDateTime: 2022-03-17T11:33:00Z
+originalUrl: "https://www.macaubusiness.com/speech-recognition-software-helps-tibetans-better-communicate/"
+webUrl: "https://www.macaubusiness.com/speech-recognition-software-helps-tibetans-better-communicate/"
 type: article
 
 provider:
-  name: China
-  domain: news.cn
+  name: Macau Business
+  domain: macaubusiness.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://english.news.cn/20220317/7bc38e0533ad4cc098110c3fbb1ca176/202203177bc38e0533ad4cc098110c3fbb1ca176_5ad2e6e1-61d3-4ab6-957a-b06bac34ddc6.jpg"
-    width: 727
-    height: 1023
+  - url: "https://mbusiness.sgp1.digitaloceanspaces.com/2019/12/Grand_Hyatt_Macau_logo3.png"
+    width: 516
+    height: 516
     isCached: true
 
-secured: "M1tf9WAoZEFYpES7/pn3OhiMrOn93lldTeBexduXFrufxco1BJGwr/HksLtfGyEnPuUZDzUEj3ZOdJ/UCL0gSpG2aFB+QPcYUrGZykIBOv+Hvb6ILJHTJG8/a6tlLGbxGEyKgCnqdbEaFxGomMVl45fKuXdJnr285vb6SisF8M3m9awMcHxmGtbc1y2gdlPhGPhxn6d/2TPajIrzyQmlPnHb9wvO6HdVK/podJewPA/TveZbIc5zyVahCn4ZR5MmiKpuavLWBLrPbyKjgFl0BVBl3ocCJPWGaT2M3rHBrtYa++xHhaxMpVbcJilLAJS+M8t167V+QRE6YSzKX8cxkJ1AijVodTbHkRmVSZrHMjRD02UGA8fXlnsoTyl3avmDwH9KtAHiC9ApfxMVZgPc966G+bblhDy/6meQhn5ZbGHEPWVbWeUJsdwZAWp+MBHlYNTodCFIUDl7a5771MTAFUO5W4d/BrSkNhf63TuEtA6XHCVuYwAB6G6e/AR4VoBwnzGeJXyPJGSMSfskvqTkzQ==;MQPRaQBAS+8dhIKNTHDX3g=="
+secured: "h3WWipymNkfZ40SN3AdHZE/2E5PT9g79xZc/s8W8bw+cATyWBkidVB7R+gx8dudyYw4QfmVYxvqLNoQHxTcbXBw3RoXOkJtJ7qCA5o0QlUk001PHmHj2QduPHM353ekaYdFYW5OKX11sSetsexse8t05IF1SKC+9rLadf/nuaDFEZ5PLWqHqaGBZBaxItTAu6WuUwNOmebUA9Kb6D1MGvPMX0HdmU/r4jiagr/ZrdlmI2giwOJOHMFyY80BwrJz5Br0gELVLHn6YadyF6Yen1najTx97T/k73WUSvM/CkX+TOW9A8oJ0AyXlX9xzFL/gTVVdPTThjgdLAWaidyJyG9ALHUtA2MPxToloGGAcnaQ=;VcTArkzNs73UtAoE8/46WQ=="
 ---
 

@@ -78,18 +78,18 @@ related:
         height: 333
         isCached: true
   - title: "IAIDL To Compete as AIMA Tool Among Big Industry Names in the Peacock Fintech and Banks Award"
-    excerpt: "Bringing its best foot forward, the International AI Driving Licence (IAIDL) is set to compete against PWC, Mckinsey, and other renowned international organizations in the Peacock Fintech and Banks Award. Being the most influential Fintech and Bank Award ..."
-    publishedDateTime: 2022-03-22T04:32:00Z
-    webUrl: "https://www.wicz.com/story/46114491/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award"
+    excerpt: "Bringing its best foot forward, the International AI Driving Licence (IAIDL) is set to compete against PWC, Mckinsey, and other renowned international"
+    publishedDateTime: 2022-03-22T01:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award"
     type: article
     provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 43
     images:
-      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
-        width: 1200
-        height: 628
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/311e103167631b53610564f3bef2b5e4678b5881-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Five Ways Artificial Intelligence Can Transform The Future Of Fintech"
     excerpt: "In the financial business, artificial intelligence has a bright future. It can assist the companies in various ways, including increasing"
@@ -134,18 +134,18 @@ related:
         height: 450
         isCached: true
   - title: "PLUS3 IT SYSTEMS TO EXPAND DATA ANALYTICS AND ARTIFICIAL INTELLIGENCE CAPABILITIES WITH JOINT ARTIFICIAL INTELLIGENCE CENTER AWARD"
-    excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial"
-    publishedDateTime: 2022-03-24T12:50:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence/article_2d4a8a12-262e-52dd-af5b-a24bcacffdff.html"
+    excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial Intelligence Center (JAIC) for Data Readiness for Artificial Intelligence Development (DRAID)."
+    publishedDateTime: 2022-03-24T13:28:00Z
+    webUrl: "https://www.lelezard.com/en/news-20303043.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 7
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 9
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "T8BnQe9KoQMuUAW3106tq0cICOCbFMATrNAfOYOBaR5O8iTi+XnlnUWq2ubk3cFfltiPFH9cAq+9VTthqXzODGui6SgBggC0W+aVxZNQhSoUEdgZ27cbYh2knOZ81QjFahlRqzB0jGIRzBH1H1jjC3+NXiWQg/JNc45Lt9w4R1TGc1tgXKaYJ867tymRgvauaZK0ssPLN4W8vxOxcbCrtEFj8g54TVh+ub9iqM02zykidPB3cA+No9qJ4EAObm1E6/SsxHX6Zd1Fxl9mcI7GI70uyjPXb8LEYRgHpuWSmf8pTHxMRqAyfHyw+aEiVSbcMZsVk8epj1VILRqRtoAX2REhq6270QRbHa+R1hDbMxJVQECYObMwMH01oQgmTHlTmIL0DlVIMGC6dg0GMTgPtaKp/BB3/EuW655rfcpnqNasEpYaIvKPG8/mEMRboD88/s5GVI97Fxxi5byRToTYJT7500kZwjl6uXqwzd81gSaoGagSh9kScxYOgREmgZOH/YE2YZiuYkouBvhlOj8/8w==;qY4cpdoP2pfAV47w/3cs1g=="
