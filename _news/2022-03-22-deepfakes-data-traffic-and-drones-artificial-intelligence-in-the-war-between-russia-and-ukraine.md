@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Ukraine army starts using facial recognition to identify dead Russian soldiers"
+    excerpt: "The company has been using a photo of a dead Russian soldier on social media and uploading it to facial recognition software. Them, the software gets an identity match from a database of billions of social media images and will find the deceased’s family ..."
+    publishedDateTime: 2022-03-24T23:56:00Z
+    webUrl: "https://www.gizchina.com/2022/03/24/ukraine-army-starts-using-facial-recognition-to-identify-dead-russian-soldiers/"
+    ampWebUrl: "https://www.gizchina.com/2022/03/24/ukraine-army-starts-using-facial-recognition-to-identify-dead-russian-soldiers/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/03/24/ukraine-army-starts-using-facial-recognition-to-identify-dead-russian-soldiers/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 70
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2022/03/imagem_2022-03-24_204518.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Ukraine uses facial recognition to identify dead Russian soldiers & inform relatives"
     excerpt: "Ukraine is using facial recognition software to identify the bodies of Russian soldiers killed in combat and to trace their families to inform them of their deaths. Ukraine's Vice PM Mykhailo Fedorov said they're doing this as a \"courtesy to the mothers of soldiers\"."
     publishedDateTime: 2022-03-24T04:21:00Z
@@ -88,6 +104,22 @@ related:
       - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/03_mar/24_thu/img_1648094486555_42.jpg?"
         width: 960
         height: 640
+        isCached: true
+  - title: "Ukraine uses facial recognition software to identify Russian soldiers killed in combat"
+    excerpt: "The defense ministry began using technology from Clearview AI which scrapes images on the web to match uploaded photos"
+    publishedDateTime: 2022-03-24T21:07:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers?via=indexdotco"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 66
+    images:
+      - url: "https://i.guim.co.uk/img/media/b1236187f5fc799d81709ad426146bccb186b4d6/0_187_5760_3456/master/5760.jpg?width=620&quality=85&auto=format&fit=max&s=dee9433c17da6c8c14788c605f7c32a3"
+        width: 620
+        height: 372
         isCached: true
   - title: "Russia-Ukraine War: Kyiv Uses Facial Recognition Software To Identify Dead Russian Troops"
     excerpt: "Amid Russia’s offensive against Ukraine, Kyiv is currently using facial recognition software for identifying Russian troops killed during the combat"

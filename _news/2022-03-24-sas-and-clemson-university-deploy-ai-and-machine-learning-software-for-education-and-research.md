@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-un
 webUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
 type: article
 quality: 92
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
     quality: 59
     images:
       - url: "https://www.protocol.com/media-library/less-than-p-greater-than-investors-spent-over-usd2-1-billion-on-skilling-companies-over-the-past-year-alone-less-than-p-greater-than.jpg?id=29585482&width=400&coordinates=0%2C409%2C0%2C291&height=711.4285714285714&quality=80"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Machine Vision Market Analysis And Overview 2022 By The Business Research Company"
-    excerpt: "TBRC's machine vision market research report covers in-depth breakdowns of market sizing, forecasts, competitors, regional performance, and more. LONDON, March 24, 2022 /PRNewswire/ --"
-    publishedDateTime: 2022-03-24T15:36:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-03/55594232-machine-vision-market-analysis-and-overview-2022-by-the-business-research-company-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
         width: 400
         height: 225
         isCached: true

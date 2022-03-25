@@ -2,6 +2,91 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-17-amazon-launches-rpg-for-aws-training.md",
+      "title": "Amazon launches RPG for AWS training",
+      "excerpt": "Amazon launched a 3D online role-paying game where players move through a virtual city helping people solve real-world technology issues and cloud use cases, with goal of building Amazon Web Services (AWS) cloud skills and preparation for the AWS Certified Cloud Practitioner exam.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/amazon-launches-rpg-for-aws-training-577464",
+      "originalUrl": "https://www.crn.com.au/news/amazon-launches-rpg-for-aws-training-577464",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/iStock-1303238248.jpg",
+          "width": 1253,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-israeli-ai-infrastructure-firm-runai-raises-75-million.md",
+      "title": "Israeli AI Infrastructure Firm Run:ai Raises $75 Million",
+      "excerpt": "Run:ai enables organizations to have all their AI resources on a single, unified platform that supports AI at all stages of development.",
+      "sourceUrl": null,
+      "webUrl": "https://nocamels.com/2022/03/ai-run-infrastructure-firm/",
+      "originalUrl": "https://nocamels.com/2022/03/ai-run-infrastructure-firm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/03/run.jpg",
+          "width": 1200,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NoCamels - Israeli Innovation News",
+        "domain": "nocamels.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-deploying-artificial-intelligence-to-prevent-delayed-and-missed-care.md",
       "title": "Deploying artificial intelligence to prevent delayed and missed care",
       "excerpt": "Medical imaging is one of the most widely used diagnostic tools in health care with providers ordering dozens of imaging studies for their patients every day.",
@@ -1005,84 +1090,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-andrej-karpathy-recreates-a-33-year-old-deep-learning-paper.md",
-      "title": "Andrej Karpathy recreates a 33-year-old deep learning paper",
-      "excerpt": "It has been 33 years since the paper was first published. But according to a fun experiment conducted by Tesla’s director of AI, Andrej Karpathy, the paper holds good even now.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/andrej-karpathy-recreates-a-33-year-old-deep-learning-paper/",
-      "originalUrl": "https://analyticsindiamag.com/andrej-karpathy-recreates-a-33-year-old-deep-learning-paper/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Andrej_AIM.jpeg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-artificial-neural-networks-market-to-witness-huge-growth-by-2028-google-intel-microsoft.md",
-      "title": "Artificial Neural Networks Market to Witness Huge Growth by 2028 | Google, Intel, Microsoft",
-      "excerpt": "The latest research on “Worldwide Artificial Neural Networks Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business.",
-      "sourceUrl": null,
-      "webUrl": "https://eclecticnortheast.in/2022/03/16/artificial-neural-networks-market-to-witness-huge-growth-by-2028-google-intel-microsoft/",
-      "originalUrl": "https://eclecticnortheast.in/2022/03/16/artificial-neural-networks-market-to-witness-huge-growth-by-2028-google-intel-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eclectic Northeast",
-        "domain": "eclecticnortheast.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

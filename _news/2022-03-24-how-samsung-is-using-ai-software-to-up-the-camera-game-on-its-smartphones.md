@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-samsung-is-using-ai-sof
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Enter to save on the latest Discover Samsung deals"
+    excerpt: "Check out the latest deals available during Samsung Discover, where you will find the Samsung Galaxy S22 Ultra and other great products on sale"
+    publishedDateTime: 2022-03-24T16:46:00Z
+    webUrl: "https://pocketnow.com/enter-save-latest-discover-samsung-deals"
+    ampWebUrl: "https://pocketnow.com/enter-save-latest-discover-samsung-deals?amp"
+    cdnAmpWebUrl: "https://pocketnow-com.cdn.ampproject.org/c/s/pocketnow.com/enter-save-latest-discover-samsung-deals?amp"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 24
 
 secured: "GuoKChschNzJSz1QRm7+jHD5zzhZgwUupcZ6Q8C1anpjJzluBC0wSCNt8bkJ2ZwydwsGcBGRIRf+aar/DAbQOWVTO8nhoG2zn93vV+UXkib+Y/5LWjRNKedFXcnRII/S7uNWAKFDE5w18TxUe/hYLHAJEyzxqvQxlZEmYmpyagcHHAoXuRlGmkqomkCoSi9W6XAo5crksbtgsHTvgQK0rj7sF7CxbdE0Osj6oYfyTD3TUvtSUi/VmslngUZ5jXp/iQToVbH1eToqFiEB/SkVWCml2M7bWyiU+jPpND7bJjVL4rJ74udpyRvQSdyEe61rHJbv14VPJXy9Bqv/8xTtZ3Xy4Jh3eRg7/lIn1Qp68w14L2JvzcwOU54Ix9cRXwO/Pm8FEEirM5c2OJNdtsN6rwjMgHrNbHAFu3U0JhvcW2LADYyko4RHznGlmt/nc20VD+TqV1cxWJhjiveeuMaIYsrkyGR7S6pFuIynEEF/fPoZJ0RwKDVFZo79IIxQheffYUIxclJCbA9j8Vsf2vrh5g==;UCb7WS304sP3CjVdxYiDow=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.lifewire.com/ai-robots-for-the-elderly-mean-well-but-r
 webUrl: "https://www.lifewire.com/ai-robots-for-the-elderly-mean-well-but-raise-ethical-issues-5223014"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:

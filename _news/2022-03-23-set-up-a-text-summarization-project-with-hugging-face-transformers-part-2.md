@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/part-2-set-up-a-text
 webUrl: "https://aws.amazon.com/blogs/machine-learning/part-2-set-up-a-text-summarization-project-with-hugging-face-transformers/"
 type: article
 quality: 72
-heat: 82
+heat: 83
 published: true
 
 provider:

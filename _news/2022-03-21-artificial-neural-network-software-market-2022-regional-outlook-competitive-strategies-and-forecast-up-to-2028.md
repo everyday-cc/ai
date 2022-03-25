@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Vision Market Analysis And Overview 2022 By The Business Research Company"
+    excerpt: "TBRC's machine vision market research report covers in-depth breakdowns of market sizing, forecasts, competitors, regional performance, and more."
+    publishedDateTime: 2022-03-24T15:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/machine-vision-market-analysis-and-overview-2022-by-the-business-research-company/article_2b75bb23-28ac-5a7b-a634-c0064b5b7e93.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 19
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/5a/45a3c8ac-1ac5-5b2b-8792-f1afbc9beb35/62150fe91f4d0.image.jpg?crop=750%2C394%2C0%2C14&resize=750%2C394&order=crop%2Cresize"
+        width: 750
+        height: 394
+        isCached: true
 
 secured: "ANLhNmkvzQpHqWdDpX26VmLIYWW2vKLgi+PZ7EJfLyLyub2pXAdjxuVy+6NPAgyDg+HwV250lOlR0UEflTtwKIakVPtlMBWcpxIzikmO9xfubf1Vmeg07eo7IAphTRTm6VkfqEBg4cnlHbJBa6GmxTFx4031WyutS6s69q7+w/YZjubMRNGyUv6p85Mlnclv26WWb2JWZygfkOsHe5+38zYJA0BPidN0O2dNyFhOVVttRPQyC57SaS6ZDNSgxnCE7IGQlmrSWuoi6AkDd62LMNxrflzj7UeudRQVPHO49CWVnhC6rEEHgJfd04o2vbfaFWw0pgdXy0wp/XZvpHWAu0c4UKTntFrOGtjL/kD9kYk=;mKMVOyOGbiE4P7CkANEpGA=="
 ---

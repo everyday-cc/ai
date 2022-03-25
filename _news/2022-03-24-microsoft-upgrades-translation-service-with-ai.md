@@ -194,6 +194,20 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "Newgen Utilizes Microsoft Azure Applied AI Services for Enhanced Automation"
+    excerpt: "Newgen Software, a global provider of low code digital transformation platform, is pleased to announce integration with Microsoft Azure Applied AI Services for enhanced automation, and support for Azure Form Recognizer for intelligent document processing."
+    publishedDateTime: 2022-03-24T22:51:00Z
+    webUrl: "https://www.ciodive.com/press-release/20220324-newgen-utilizes-microsoft-azure-applied-ai-services-for-enhanced-automation/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 67
+    images:
+      - url: "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1648161116/press_release/assets/company_logos/Logo_square_ffrue0.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "IonQ Aria quantum computer joining Microsoft’s Azure Quantum Platform"
     excerpt: "Adding the latest IonQ quantum computer systems to the Microsoft's Azure Quantum Platform cloud platform which already features"
     publishedDateTime: 2022-03-22T10:43:00Z
@@ -241,6 +255,6 @@ related:
       domain: tmcnet.com
     quality: 29
 
-secured: "ONZR0i94UnShmfl6VhfFqikxgGOrbCRlnPwNfdJzMQlt1qW3+aq2IP7DzC+bfmRkBoGqQ064at78MMgoP4OtWwyTBfcsASswuH9mHNP+NzCNmII4OFoDfCwl1pc9DOQJSonuuScpe7h7LydsYxeaMl5BrSsXsUR7Beg3BvC74L9CF3Xcqsy+8fTyTPbexk1s2Am7GnKIvr+NJdW91uTvmBhWxyBIKYGlyVbwQIwn5Kos3k4wcrX/c3PtbbI5B+br0fn/+vOxIrxoFKdjPbTjuaae3mGuU5IsVi6vVW4xy0t3oXsA/7TSNMA+JWvscjaHKZG2U7WvJehxU+P5Y36cKX6o5apqoTxiM/2Voht3g5E=;SHuI6SwbNOqdMoZPZgHI5Q=="
+secured: "wR7S6YNcATrMZ93jypOh5M3GauiO+Ysyqx7GULyxjcWrjcH486O/7cvwjP5y/8Zk5yrDzuTtxr3peF/0b1lA3rEr2vvex/uSauEkuDJT0YOgiNXzsvEnmOggUPcL0AXzD/lABRU3AV3v5IwkfURNM4+XutNrf1ZGakxws5GWMvDfA9/ObmNpwkZjYgPSbRGVlq/EHfwbXsmUQJ3vkeotSjzXgjHga2dPwAKsq3ZPI6Xzhg9H3YL+A2ZrYSjlvqBZGbpJiWnDAlPX9dvuYrF2cdxy0+GpqlJqiPZmpchCEHIpanN0nZR6jkT4b5toZKR1b0HYkKQWRbwu8/sf3p/1YBG8YAU+AFe8qQjzKs5YmLeTkcwu9XrchZBjaIkReYxhLuFP7LorFn/7DY/Ce5JB+t/frH8234A0h6TbLjpAqWu6nbORvTEPxOCFOq5r3OrDKPIC52OpXw+tAxjYEGEq9i1FZKBAap+XlRdaI0+D1TVGV6tA98EWo0lsQIf30LnE1zEePCPPQGKAmNaor63G5A==;xPL0Mwb16FBjznpXn1bFQA=="
 ---
 

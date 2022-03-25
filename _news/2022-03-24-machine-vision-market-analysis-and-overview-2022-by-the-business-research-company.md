@@ -1,61 +1,73 @@
 ---
 category: news
 title: "Machine Vision Market Analysis And Overview 2022 By The Business Research Company"
-excerpt: "TBRC's machine vision market research report covers in-depth breakdowns of market sizing, forecasts, competitors, regional performance, and more. LONDON, March 24, 2022 /PRNewswire/ --"
-publishedDateTime: 2022-03-24T15:36:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-03/55594232-machine-vision-market-analysis-and-overview-2022-by-the-business-research-company-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2022-03/55594232-machine-vision-market-analysis-and-overview-2022-by-the-business-research-company-008.htm"
+excerpt: "TBRC's machine vision market research report covers in-depth breakdowns of market sizing, forecasts, competitors, regional performance, and more."
+publishedDateTime: 2022-03-24T15:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/machine-vision-market-analysis-and-overview-2022-by-the-business-research-company/article_2b75bb23-28ac-5a7b-a634-c0064b5b7e93.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/machine-vision-market-analysis-and-overview-2022-by-the-business-research-company/article_2b75bb23-28ac-5a7b-a634-c0064b5b7e93.html"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
-    width: 400
-    height: 225
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/5a/45a3c8ac-1ac5-5b2b-8792-f1afbc9beb35/62150fe91f4d0.image.jpg?crop=750%2C394%2C0%2C14&resize=750%2C394&order=crop%2Cresize"
+    width: 750
+    height: 394
     isCached: true
 
 related:
-  - title: "SAS and Clemson University deploy AI and machine learning software for education and research"
-    excerpt: "SAS skills among students and supports analysis of massive datasetsCARY, N.C., March 24, 2022 /PRNewswire/ -- Clemson"
-    publishedDateTime: 2022-03-24T15:58:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
+  - title: "Artificial Intelligence (AI) as a Service Market Revenue Size, Regional Share Analysis & Forecast Till 2027"
+    excerpt: "The growing demand for AI & cognitive computing and large-scale adoption of cloud-based solutions for intelligent business applications is propelling"
+    publishedDateTime: 2022-03-24T11:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-as-a-service-market-revenue-size-regional-share-analysis-forecast-till-2027"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 38
     images:
-      - url: "https://mma.prnewswire.com/media/1772498/Watt_Center_Clemson.jpg"
-        width: 400
-        height: 266
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/f5bba72678ff93670d5b9b0566e19922cf344b35-1-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Live learning, AI and Web3 are coming for ed tech"
-    excerpt: "She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia."
-    publishedDateTime: 2022-03-24T09:30:00Z
-    webUrl: "https://www.protocol.com/workplace/enterprise-ed-tech"
-    ampWebUrl: "https://www.protocol.com/amp/enterprise-ed-tech-2657026245"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/enterprise-ed-tech-2657026245"
+  - title: "Global Intelligent Speech and Voice Recognition Market 2022 Sales Statistics, Data Analysis, Size Estimation and Application Assessment by 2028"
+    excerpt: "A recently uploaded report namely Global Intelligent Speech and Voice Recognition Market 2022 by Company, Regions, Type and Application, Forecast to 2028 has provided unique insights about the market for the given period."
+    publishedDateTime: 2022-03-23T04:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-intelligent-speech-and-voice-recognition-market-2022-sales-statistics-data-analysis-size-estimation-and-application-assessment-by-2028-2022-03-23"
     type: article
     provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-investors-spent-over-usd2-1-billion-on-skilling-companies-over-the-past-year-alone-less-than-p-greater-than.jpg?id=29585482&width=400&coordinates=0%2C409%2C0%2C291&height=711.4285714285714&quality=80"
-        width: 400
-        height: 225
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Neural Network Software Market 2022 Regional Outlook, Competitive Strategies and Forecast up to 2028"
+    excerpt: "Artificial Neural Network Software Market report introduces market competition situation among the vendors and company profile, besides, market price analysis and value chain features. Report ..."
+    publishedDateTime: 2022-03-21T11:51:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-neural-network-software-market-2022-regional-outlook-competitive-strategies-and-forecast-up-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
-secured: "RFF9cJ7vw5tNm9BgwteEWAEehFM3/EuXZm21AB8eIVtqRvq0srk0JJw/cQ7bApZIGfpoXGHbcg4ecdFrQsJrVe4mb7sJb/WTX69Pa9weC7GkuphqMWuDsOa0GUX31W8be1l/YGAK/YJBsLcWcZ2g4hZ8OzwBvfOWKrViYmBUwnqEA8RH7bbeCPja5LI1TskkQmQrBebIkzJPFov13kPphsT7o/NMbAPrPa6ShimFprlAG0+Piwx6bueTRFFS9AOXAAVEoVeBgxrDZr+VmBnrVXQKt+iRsvjt+p7nJu9EdI3CE1/xS4VuQ+EH2SKADba4OyO24kkSNxTnUFqoqISKInrq1fBPuyfELtoQ6KtmlLY=;h9y/FVgUfP6sXZFTUX4JZQ=="
+secured: "F+N8ffHIK074MkYaGeMOmhl6vxEiel1hU78BHxcKkGZGBA2rfDKGuB0GhcdDmWoO9OhPMfoLvI9qJ1jEn4n4jRnOA7FSISgJr7eE7W7dAFvvtHOuVwV70xnkBwO4YPHffPwxlDW2J94aow8ypAaNaV21w/DwyaCrfZFxax3p5xyqXvc3A2keKh+/b6MCrmAWm3gT7ZXk0VazAX8Oh6/GBs/rNYbbPGsDK/kOcGV8mmnRsGO082YAKfdPv4KRZUk9cuz0lScLBf+z62SJx+JJ6tWyJ7VY0/go3P7ypHyO/w2JCZRKob5pgECWNW0SvIe2dUd6zHrPia9obO3r49o9269ECKa+V7y24ekVkJ93KQ8=;vB3LpO4Ht6mtobYqFYduxA=="
 ---
 

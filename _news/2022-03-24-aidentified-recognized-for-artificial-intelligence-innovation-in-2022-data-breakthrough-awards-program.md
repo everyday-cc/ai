@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/aidentified-recogn
 webUrl: "https://markets.businessinsider.com/news/stocks/aidentified-recognized-for-artificial-intelligence-innovation-in-2022-data-breakthrough-awards-program-1031305163"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "FMG Suite Named \"Best Overall FinTech Mobile App\" in 2022 FinTech Breakthrough Awards Program"
-    excerpt: "Prestigious International Awards Recognize Outstanding Financial Technology Products And CompaniesSAN DIEGO, March 22, 2022 /PRNewswire/ -- FMG"
-    publishedDateTime: 2022-03-22T13:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program-1031298260"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
   - title: "Nucleus Commercial Finance Wins \"Business Lending Innovation Award\" in 2022 FinTech Breakthrough Awards Program"
     excerpt: "FinTech Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in the global FinTech market, today announced that"
     publishedDateTime: 2022-03-22T12:00:00Z
