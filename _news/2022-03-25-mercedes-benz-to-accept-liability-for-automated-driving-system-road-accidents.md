@@ -39,6 +39,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Mercedes to accept liability for accidents involving its new self driving tech"
+    excerpt: "The car manufacturer will not accept blame where a driver has failed to take control of a vehicle when prompted, however"
+    publishedDateTime: 2022-03-25T17:17:00Z
+    webUrl: "https://www.insurancetimes.co.uk/news/mercedes-to-accept-liability-for-accidents-involving-its-new-self-driving-tech/1440701.article"
+    type: article
+    provider:
+      name: Insurance Times
+      domain: insurancetimes.co.uk
+    quality: 35
+    images:
+      - url: "https://d17mj6xr9uykrr.cloudfront.net/Pictures/1024x536/5/5/7/89557_drivingdata_325533.jpg"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "Unlike Tesla, Mercedes’ self-driving tech will take full legal responsibility for drivers"
     excerpt: "Mercedes is looking to make its mark in the world of self-driving tech. The company announced (h/t Road & Track) it would be taking full responsibility for its tech when drivers engage Drive Pilot, the company’s autopilot system."
     publishedDateTime: 2022-03-24T13:33:00Z

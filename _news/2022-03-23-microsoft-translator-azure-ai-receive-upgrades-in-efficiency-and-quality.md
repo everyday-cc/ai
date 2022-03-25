@@ -166,20 +166,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "Canvass AI SaaS Platform Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Canvass AI to take advantage of the scalability, reliability, and agility of Azure to drive application development and drive Industry 4.0 ROI."
-    publishedDateTime: 2022-03-21T00:00:00Z
-    webUrl: "https://www.automation.com/en-us/products/march-2022/canvass-ai-saas-platform-microsoft-azure-market"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 68
-    images:
-      - url: "https://www.automation.com/getmedia/c2d8e356-c5e4-4d20-95b8-87211f7dd5e5/Industrial-AI-prod-March-21-2022-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "Newgen Utilizes Microsoft Azure Applied AI Services for Enhanced Automation"
     excerpt: "Newgen Software, a global provider of low code digital transformation platform, is pleased to announce integration with Microsoft Azure Applied AI Services for enhanced automation, and support for Azure Form Recognizer for intelligent document processing."
     publishedDateTime: 2022-03-24T22:51:00Z

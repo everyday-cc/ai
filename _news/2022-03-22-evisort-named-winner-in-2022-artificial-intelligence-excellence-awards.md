@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award"
+    excerpt: "The Business Intelligence Grouptm today announced that BairesDev, a leading technology solutions company, is a winner in its Artificial Intelligence (AI) Excellence Awards program. The award highlights the company's efforts to build new tools,"
+    publishedDateTime: 2022-03-25T17:31:00Z
+    webUrl: "https://www.lelezard.com/en/news-20305538.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 42
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Lirio Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "Lirio, whose Precision Nudging™ solution promotes health through AI-powered behavior change, today announced that it has been recognized by Business Intelligence Group as an AI Excellence Award winner for 2022."
     publishedDateTime: 2022-03-23T14:54:00Z

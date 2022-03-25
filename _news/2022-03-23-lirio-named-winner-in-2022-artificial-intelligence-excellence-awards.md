@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/lirio-nam
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/lirio-named-winner-in-2022-artificial-intelligence-excellence-awards/article_9bbf1695-9c20-5f1a-b471-8641194e55f0.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award"
+    excerpt: "The Business Intelligence Grouptm today announced that BairesDev, a leading technology solutions company, is a winner in its Artificial Intelligence (AI) Excellence Awards program. The award highlights the company's efforts to build new tools,"
+    publishedDateTime: 2022-03-25T17:31:00Z
+    webUrl: "https://www.lelezard.com/en/news-20305538.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 42
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Evisort Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "The Business Intelligence Group today announced that Evisort is a winner in its inaugural Artificial Intelligence Excellence Awards program. Evisort is the leading provider of artificial intelligence (AI) solutions for contract management and analytics."
     publishedDateTime: 2022-03-22T13:06:00Z

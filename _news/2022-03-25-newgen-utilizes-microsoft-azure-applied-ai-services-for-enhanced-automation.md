@@ -179,20 +179,6 @@ related:
         width: 800
         height: 598
         isCached: true
-  - title: "Canvass AI SaaS Platform Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Canvass AI to take advantage of the scalability, reliability, and agility of Azure to drive application development and drive Industry 4.0 ROI."
-    publishedDateTime: 2022-03-21T00:00:00Z
-    webUrl: "https://www.automation.com/en-us/products/march-2022/canvass-ai-saas-platform-microsoft-azure-market"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 68
-    images:
-      - url: "https://www.automation.com/getmedia/c2d8e356-c5e4-4d20-95b8-87211f7dd5e5/Industrial-AI-prod-March-21-2022-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "Microsoft upgrades translation service with AI"
     excerpt: "More to be lost in translationFor a while now there has been a myth that AI can operate good language translation services. In fact, companies have been insisting that translation firms slash their fees and work alongside machine translation systems from Deepl,"
     publishedDateTime: 2022-03-24T12:50:00Z

@@ -73,20 +73,6 @@ related:
         width: 750
         height: 333
         isCached: true
-  - title: "Five Ways Artificial Intelligence Can Transform The Future Of Fintech"
-    excerpt: "In the financial business, artificial intelligence has a bright future. It can assist the companies in various ways, including increasing"
-    publishedDateTime: 2022-03-21T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/five-ways-artificial-intelligence-can-transform-the-future-of-fintech-nid-9525.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/bnb5cioeuro450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
   - title: "Dragonfruit Frontier, a new Cloud VMS with AI analytics"
     excerpt: "Frontier enables secure management of hundreds of locations from a single browser with no additional hardware costs"
     publishedDateTime: 2022-03-24T13:28:00Z

@@ -56,6 +56,22 @@ related:
         width: 448
         height: 336
         isCached: true
+  - title: "AI model may help predict ovarian cancer treatment outcomes"
+    excerpt: "An artificial intelligence (AI) model may help predict clinical outcomes at the time of laparoscopic assessment for advanced high-grade serous ovarian cancer (HGSOC), according to a study presented at the Society of Gynecologic Oncology's Annual Meeting on Women's Cancer,"
+    publishedDateTime: 2022-03-25T16:10:00Z
+    webUrl: "https://medicalxpress.com/news/2022-03-ai-ovarian-cancer-treatment-outcomes.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-03-ai-ovarian-cancer-treatment-outcomes.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-ai-ovarian-cancer-treatment-outcomes.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-model-may-help-pred.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "tNsGstPNcFpptASmTgORPc/yMUR3eAwTwN42lFV5zyz6FcRSwz9PV1RoPl6WfVf2A1piXKFTrpLxrM25n8En7UED+AumgTq+FC+vXwsKlRt1st6GtKbqnO259GfLYL+B3nRse5nBePVE0TY7sTOn4kVi/N7gDwDezCu7AWp9bXALe93mLjCj7N4o/ql3tAaCM3n3BWaCG6u6MXg2j5rqsleRSZaaXChidhduFThW+IepeTTdB1SC/6iuilrCFOw7cG8+NK1QL1MW4V71l6TDfvRQHiIM3ZHXplruEYLWbVwGHFfHWhW8dqubpQgd8C4wyCZpAIhx+2CWXM8fV6kkEkYVR9Tx6erozdzeotd5fiLwB2v2GP9z4bm+tvrVMG8Ri+rAlkAzVYSANgjGb2aHnHPmM15sA0lkZF4GxWb37VzZHs+fJh4SUBtE9mrWTWvOAESKw0ObI644gfPGmRwWGONZr+J2i1y8ZT6UDheP2HJk7zvoG6ofe28jW4GiipV3Mirz4t0RZgFs8z7lQDjP2Q==;OKt5Pmc3EQl4WlmStep1gA=="
 ---

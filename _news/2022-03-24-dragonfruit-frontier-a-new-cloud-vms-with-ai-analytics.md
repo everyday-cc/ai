@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Five Ways Artificial Intelligence Can Transform The Future Of Fintech"
-    excerpt: "In the financial business, artificial intelligence has a bright future. It can assist the companies in various ways, including increasing"
-    publishedDateTime: 2022-03-21T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/five-ways-artificial-intelligence-can-transform-the-future-of-fintech-nid-9525.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/bnb5cioeuro450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
   - title: "Theia Analytics Group Closes $1M Angel Round"
     excerpt: "With private investors aboard, TAG accelerates its development of the world’s first governance-focused intelligence engine for solving governance challenges plaguing global fiduciaries WASHINGTON, March 23,"
     publishedDateTime: 2022-03-23T12:18:00Z

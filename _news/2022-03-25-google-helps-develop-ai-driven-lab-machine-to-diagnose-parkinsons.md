@@ -54,6 +54,20 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 59
+  - title: "AI & robotics uncover hidden signatures of Parkinson’s disease for drugs that “actually work”"
+    excerpt: "Scientists at NYSCF Research Institute have collaborated with Google Research to use <a href=\"/products/183/Control-Automation\">robotics and AI to discover new cellular signatures of disease.<br /><br"
+    publishedDateTime: 2022-03-25T17:46:00Z
+    webUrl: "https://www.dpaonthenet.net/article/190039/AI-robotics-uncover-hidden-signatures-of-Parkinson-s-disease-for-drugs-that--actually-work-.aspx"
+    type: article
+    provider:
+      name: dpaonthenet
+      domain: dpaonthenet.net
+    quality: 58
+    images:
+      - url: "https://www.dpaonthenet.net/global/showimage/Article/201547/"
+        width: 375
+        height: 238
+        isCached: true
 
 secured: "L7P/phsaVsMXPpK3pUHbiGgRijUP/XpbynTbYitRyKkpYji9bytvUtUsA0lUzzNOogKwKCHQrfx0lFDTvrTAndXkt6xQl+Mg501vXTUeYfgjNiyKn2tsCoMkvw18c8wcwOTsZ4n4QR4s8eZgoS5qL/3je2Gwm79qXb6naZbrB+riHuqYwxW3Vwbqz0fsy8ZRrhIOv9s1PqJbUk1lKBqWlcBmwNAbltlCBjU7g5PgpFbfpusI1y/VjL4RtT4uM682d2vcHVuXWz7d/F1iFkAXRKTj0EFQL+MupHMLzT32zD/7fCGeJh5vd05DqQSRCUlWLE1EHTmhMPgvFSbpwW5M3xoJWRrRPvsvEfga1iUPY3o=;Df48SNdKZWA8FriJNeLZzQ=="
 ---

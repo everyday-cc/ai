@@ -61,6 +61,22 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "Nvidia introduces Spectrum-4 platform for AI, HPC over Ethernet"
+    excerpt: "Nvidia is known for its GPUs, but has introduced Spectrum-4, a combination of networking technologies that reinforces its commitment not only to graphics processors, but also to systems designed to handle the demanding network workloads of AI and high-performance computing."
+    publishedDateTime: 2022-03-25T17:49:00Z
+    webUrl: "https://www.networkworld.com/article/3655129/nvidia-introduces-spectrum-4-platform-for-ai-hpc-over-ethernet.html"
+    ampWebUrl: "https://www.networkworld.com/article/3655129/nvidia-introduces-spectrum-4-platform-for-ai-hpc-over-ethernet.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3655129/nvidia-introduces-spectrum-4-platform-for-ai-hpc-over-ethernet.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/01/10/16/datacenter-1280x1280-3-100915910-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "NVIDIA (NVDA) Starts Production of DRIVE Orin Platform"
     excerpt: "NVIDIA Corporation NVDA is boosting its initiatives to empower artificial intelligence (AI ... from Level 2+ systems to Level 5 entirely driverless vehicles. The company’s foray into autonomous ..."
     publishedDateTime: 2022-03-23T13:47:00Z

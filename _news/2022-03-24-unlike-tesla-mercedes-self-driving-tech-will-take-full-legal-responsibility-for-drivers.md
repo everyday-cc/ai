@@ -39,6 +39,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Mercedes to accept liability for accidents involving its new self driving tech"
+    excerpt: "The car manufacturer will not accept blame where a driver has failed to take control of a vehicle when prompted, however"
+    publishedDateTime: 2022-03-25T17:17:00Z
+    webUrl: "https://www.insurancetimes.co.uk/news/mercedes-to-accept-liability-for-accidents-involving-its-new-self-driving-tech/1440701.article"
+    type: article
+    provider:
+      name: Insurance Times
+      domain: insurancetimes.co.uk
+    quality: 35
+    images:
+      - url: "https://d17mj6xr9uykrr.cloudfront.net/Pictures/1024x536/5/5/7/89557_drivingdata_325533.jpg"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "Mercedes-Benz to Accept Liability for Automated Driving System Road Accidents"
     excerpt: "That’s a notch up from the self-driving tech boasted by Tesla, which is still at Level 2. The system allows complete hands-free driving as artificial intelligence takes over all the car’s basic functions. It does have a lot of limitations though."
     publishedDateTime: 2022-03-25T07:26:00Z

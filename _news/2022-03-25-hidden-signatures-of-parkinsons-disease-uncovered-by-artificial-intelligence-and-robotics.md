@@ -53,6 +53,20 @@ related:
         width: 5472
         height: 3648
         isCached: true
+  - title: "AI & robotics uncover hidden signatures of Parkinson’s disease for drugs that “actually work”"
+    excerpt: "Scientists at NYSCF Research Institute have collaborated with Google Research to use <a href=\"/products/183/Control-Automation\">robotics and AI to discover new cellular signatures of disease.<br /><br"
+    publishedDateTime: 2022-03-25T17:46:00Z
+    webUrl: "https://www.dpaonthenet.net/article/190039/AI-robotics-uncover-hidden-signatures-of-Parkinson-s-disease-for-drugs-that--actually-work-.aspx"
+    type: article
+    provider:
+      name: dpaonthenet
+      domain: dpaonthenet.net
+    quality: 58
+    images:
+      - url: "https://www.dpaonthenet.net/global/showimage/Article/201547/"
+        width: 375
+        height: 238
+        isCached: true
 
 secured: "80QVZqabE+hxW4RXhpqTq2hPbRFTz2xdQyHwtHT3TxTHR7k7lE31GEiD/BjbUgkMNTfw7tErmZGKGXhYIDODCsziVxNbUbPEzma4uKehRqAi/mGPce+psdP+RJOsV6KSmu2AzpwTSc0Qipib29At8OJ3Ir22wfxj+gmaq58x47QNg8wUmCC3gg2ZsHJVPuMzEgj23z9O8jQ4DL73RnpqidbB+GiB53qUU+MTIk1ml+gpK1wPkSK31xQf7c0WNb9g07IaWmx/HTvl36tTjtKfodP+ggr2w76lZrVXvly+ve94oIWGyVu7oiEOse6CDrOwgiv7o4yKR59FsGDzCbbVAiHSIQQoyZVGFN5DDXPvVLQ=;MQgMbMPFjlscG9mvmHSlwQ=="
 ---

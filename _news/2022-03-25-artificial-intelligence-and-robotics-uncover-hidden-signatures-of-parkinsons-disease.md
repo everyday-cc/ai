@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-03-artificial-intelligence-robot
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-artificial-intelligence-robotics-uncover-hidden.amp"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 59
+  - title: "AI & robotics uncover hidden signatures of Parkinson’s disease for drugs that “actually work”"
+    excerpt: "Scientists at NYSCF Research Institute have collaborated with Google Research to use <a href=\"/products/183/Control-Automation\">robotics and AI to discover new cellular signatures of disease.<br /><br"
+    publishedDateTime: 2022-03-25T17:46:00Z
+    webUrl: "https://www.dpaonthenet.net/article/190039/AI-robotics-uncover-hidden-signatures-of-Parkinson-s-disease-for-drugs-that--actually-work-.aspx"
+    type: article
+    provider:
+      name: dpaonthenet
+      domain: dpaonthenet.net
+    quality: 58
+    images:
+      - url: "https://www.dpaonthenet.net/global/showimage/Article/201547/"
+        width: 375
+        height: 238
+        isCached: true
 
 secured: "haNdInbj9PCDs6H/djj4KEA+JbPQsnHlQ4NJ3GRn5a0C0cagSJtTZT23RzKdr8g6EyG2Yur3LQWn11m9S0o46QNfvl53WQNtJqs6bls6A4MEm8YRpN+1JxHvzq3COVVAcmIA5ksePHbAAUAmZltq7tJ7w5aS+AdwmbWnP5ru6Go3NWpFBF+ieJkgJmWa6P++93y2d/CjSxPRRvrw2Je3hqP4pVfQQaPvJkMjb+jo5Vh+k9qHY859zQszf3STLEBJovAgyflb433u/oO/GcBl6GZ/7rJ83oannx0cYVXpCOznkFqmvgFzdtTEZfEd+fLGvQee0BRuxIA/YXfl+Yid2usulns0FyTTKgMUDl//ogGwwh6v5WVS2bmjBG96SLKwdJs+50fLZxniKdFWOYyPnXk1XXL1+jZUKhHMQfixWMhyZCaiT/z5JRMRYvAqCaKtOwbwQBMkFmDciQ4/r+rzHsEm5J8s9GBDvgufzaX7L8qx4KpPpGN0YWfSRNfj2n8C0iw0hX479jx8pIvszUSM3A==;f/bHfqBMqT/Mdfb2mYNRUg=="
 ---

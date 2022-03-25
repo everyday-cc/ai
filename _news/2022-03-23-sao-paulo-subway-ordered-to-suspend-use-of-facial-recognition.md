@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/sao-paulo-subway-ordered-to
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: ZDNet
@@ -23,6 +23,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Court orders suspension of facial recognition use in São Paulo metro"
+    excerpt: "A court in São Paulo has called for a halt in the implementation of a facial recognition system in the city’s metro stations."
+    publishedDateTime: 2022-03-25T16:42:00Z
+    webUrl: "https://www.biometricupdate.com/202203/court-orders-suspension-of-facial-recognition-use-in-sao-paulo-metro"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/25124039/Sao-Paulo-metro-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "NA/sR7Yhr6EvZdlLBZljt+zHFnXblOGCHbUm21CubbAQ+ziIPnz7vjlnytOFruHZwt86u3BoRO+faAuUI583gAiEYrTJFKTIgRWm7zVm9fDyxu6z98c317QgZdrqTOVvP5UBqIAIR2dyFT+9fOjQBq7W3war37kM/IBoH4znC73B+VrODlrb1McALxu50PammDP+qXNy2+BOfrGWel4IpnHMGoUwdW/p6T5FFKqQ+LGhYvojzn+78Eyq5DgUm82cETwHCD5Pv/n31vHIHfxJ94OhDoUAi/EwS3wKJkJylTT0vsF5LJJAY+sEQbTnBNYvj0tfCZ1t4z4pa2ibPlZklN3SPlyjv487xj0d5WGYBe0txJURA5uQnaxnLmC2wxaM+QIgx7z749GhUSIRl398ZOF67SSTk3v5xa5aENCH9B9hTlLMXeW4zckVY8RVvzgAGVT9AVc/eZgjxD5HWrP1Y+Vo9n4wxhR2Lz0Lqum9CV/zPr26CBskbLlRjHnRnG5RxaWukPmiNpQvukJ7YuAAAA==;c37gFf3bI4mduTHbwm++PA=="
 ---

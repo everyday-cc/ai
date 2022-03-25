@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/csiro-and-nvidia-sign-agree
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiro-and-nvidia-sign-agreement-to-accelerate-australias-ai-capabilities/"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -24,19 +24,35 @@ topics:
   - AI
 
 related:
-  - title: "NLP Logix Joins NVIDIA Metropolis Partner Program to Accelerate Vision AI Applications"
-    excerpt: "NLP Logix, a leading machine learning and automation solution provider, today announced it has joined the NVIDIA Metropolis Partner Program, a program designed"
-    publishedDateTime: 2022-03-21T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nlp-logix-joins-nvidia-metropolis-partner-program-to-accelerate-vision-ai-applications/article_6bd9abd1-c6b4-510e-9d1d-8aad1fc49cb8.html"
+  - title: "AI Weekly: Nvidia’s commitment to voice AI — and a farewell"
+    excerpt: "GTC conference, Nvidia redoubled its commitment to voice AI. In other news, reporter Kyle Wiggers announces he's leaving VentureBeat."
+    publishedDateTime: 2022-03-25T16:20:00Z
+    webUrl: "https://venturebeat.com/2022/03/25/ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell/"
+    ampWebUrl: "https://venturebeat.com/2022/03/25/ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/25/ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell/amp/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 48
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all"
+        width: 1200
+        height: 593
+        isCached: true
+  - title: "Nvidia revamps its AI software platforms to advance speech, recommender systems and inference"
+    excerpt: "Nvidia Corp. today announced a major upgrade to its Nvidia AI and Nvidia AI Enterprise platforms, with new features designed to advance workloads such as speech, recommendation systems, hyperscale inference and more."
+    publishedDateTime: 2022-03-22T17:00:00Z
+    webUrl: "https://siliconangle.com/2022/03/22/nvidia-revamps-ai-software-platforms-advance-speech-recommender-systems-inference/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 28
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/nvidia-ai1.png"
+        width: 1179
+        height: 654
         isCached: true
 
 secured: "W8dqcEGDCSNbfWn11WytQj6C37rZFnZxHUYMOL66BY7oMbL8i3ps+Pp0csDczAc6K3Rd6yKXity884/4hp/ryr8PiIxiU3XFrlfytfi/hMCmlJKmJ50wfcmthUM1P1woXKLPJR7VKGM5j80ZH5zumUfdQAEnQo+u6v7A7WYxsIGAnrjcjOwXzHLAxpZNDt2jOXeGApmVpkBYFVMW6vTkrkpNzBGUdTh9BYAoQX7jc/cl0r4GPX1ck+wWc1h29EuJ3cILlbwENGKLd1iwx5ag5yX0PRmQDKz3leHRNwwFqJF/UhsCyo6XOQlDcOG3Iu2GE2XV+DicTioUE3M/4W7rSPo2QW+7YViuG/LYGXBgDE3p1Zq701HjvY9Ik3mPp7Yry3nlKYIOHgZSJTCwMoOcA+DJ3LxUDeH/CSPyH80XVMkwNydss5FjtCh61z/AXA4fMmqxojKRYnE3dtJBZa14kru1g4BffPCszc92zsPJNDStHI0AtuoPERcdWSx0UsU0KoaQPss0GTEmLG2fiFMvzQ==;Lr5Xzx5KL99+umgKscTHuA=="

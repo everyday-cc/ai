@@ -3,8 +3,8 @@ category: news
 title: "Inspur Information AI Servers to Fully Support the Newly Announced NVIDIA H100 Tensor Core GPU"
 excerpt: "Inspur Information, a leading IT infrastructure provider, announced its AI servers fully support the new NVIDIA H100 Tensor Core GPU in four- and eight-way configurations. The servers will offer unprecedented computing performance,"
 publishedDateTime: 2022-03-22T17:06:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-f730c71d87f64819813c13d39437358d"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-f730c71d87f64819813c13d39437358d"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-f730c71d87f64819813c13d39437358d"
+webUrl: "https://apnews.com/press-release/business-wire/technology-f730c71d87f64819813c13d39437358d"
 type: article
 quality: 42
 heat: -1
@@ -307,6 +307,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "m9AWDPjKhQPNn+/IB9d4GSNRmHkZZ2yGNwBsxzZwlOYoSeJ2jHrej0Q+eINEvyXw5yOsFBNr+b6Kt8/k5IPjC0/fwhBfEmWpVqAwOwFuCu/uSG/plW1FB+DG7ndJgfDj5JfZFO5lOq3L7A4sO3XlwrB7hvO6Bs8JHsKgyqHc0fxjkTaqYvZ1QLagjHrut1TP+44CMTPJmitLAiAZ+JBIUTSMLV4qUQok6wYFrA94HKfxGleIsF8VK2GYKNEPnKpmGjkuApFI/Solp9/MvL0Vn4CuhLAweuhrrZrl519lMdUpQeV0Q9PH4sfBt0tmzzldXQmHtxRp3dkpMQdqfH//BVfj0YHv/IplKZfEWJK81L8=;IWZ3daXJWwEbiKltuCyKpw=="
+secured: "PbLAiGeKUGW27+7cJFJtcl+vvvuFP69ocuyQuYs6Jmy6LRNm/E5kwpN4/x06Rw8trDA3FXQIkUfjmg8zeA2dIIzHSitdVTP+0N4hP6Q/ZlMmGVeG3S/9rYVx1RJIHOqkQ8OaTOL0sMtGxy3jCJtI2SUDMHotcXSBS03/XTLFFQ8gDPI0o/kdPpV46tZUeY2PYVdB90ilH1vRNrVxC2zHa08IEr9Pkb7H2Wpvs3JCO/kDZH/H2x8eI+zvZN+/tAS7PLkcJ/qp8tQrNskxy/xizPsvHEOrS+rTV/CvjKRZ1MbJ0d/QMqhnRuhXujQrbCZd43cIyzkWKnvv3EnBV3xa3mpXweCH5IrKu0xWLIRbU4Q=;Lw5HeDG5+LIKnF7ruPP2sg=="
 ---
 

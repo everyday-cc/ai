@@ -42,6 +42,22 @@ related:
         width: 448
         height: 336
         isCached: true
+  - title: "AI model may help predict ovarian cancer treatment outcomes"
+    excerpt: "An artificial intelligence (AI) model may help predict clinical outcomes at the time of laparoscopic assessment for advanced high-grade serous ovarian cancer (HGSOC), according to a study presented at the Society of Gynecologic Oncology's Annual Meeting on Women's Cancer,"
+    publishedDateTime: 2022-03-25T16:10:00Z
+    webUrl: "https://medicalxpress.com/news/2022-03-ai-ovarian-cancer-treatment-outcomes.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-03-ai-ovarian-cancer-treatment-outcomes.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-ai-ovarian-cancer-treatment-outcomes.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-model-may-help-pred.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Cedars-Sinai: Artificial Intelligence Tool May Help Predict Heart Attacks"
     excerpt: "Cedars-Sinai researchers say they’ve developed an artificial intelligence-enabled tool that could help predict if a person will have a heart attack. First reported in The Lancet Digital Health, Cedars officials said the tool has accurately predicted which patients would experience a heart attack within five years,"
     publishedDateTime: 2022-03-23T15:42:00Z
