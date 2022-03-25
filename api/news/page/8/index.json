@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-03-15-cogniac-and-cisco-meraki-partner-to-automate-operations-with-computer-vision.md",
+      "title": "Cogniac and Cisco Meraki Partner to Automate Operations with Computer Vision",
+      "excerpt": "Cogniac Corporation (“Cogniac”), a leader in enterprise-class Artificial Intelligence (AI) image and video analysis, and Cisco Meraki have announced a strategic partnership to accelerate the delivery of AI-powered computer vision applications at the edge of the network.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-08f4ef5e9778c2bea6f3da6aac460229",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-08f4ef5e9778c2bea6f3da6aac460229",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-financial-services-businesses-must-stop-putting-customer-due-diligence-on-the-backburner.md",
+      "title": "Financial services businesses must stop putting Customer Due Diligence on the backburner",
+      "excerpt": "Financial crime challenges even the most diligent of organisations. During the Covid-19 pandemic, fraud proliferated in the UK, with professional criminals targeting the public amid Covid-19 disruption to the tune of £37 million in 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/the-long-read/363/financial-services-businesses-must-stop-putting-customer-due-diligence-on-the-backburner",
+      "originalUrl": "https://www.finextra.com/the-long-read/363/financial-services-businesses-must-stop-putting-customer-due-diligence-on-the-backburner",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/oped/363.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-towards-the-reuse-of-supervised-deep-learning-algorithms-in-bioimage-analysis.md",
       "title": "Towards the reuse of supervised deep learning algorithms in bioimage analysis",
       "excerpt": "Over the last ten years, the amount of microscopy data acquired has increased dramatically, and so has the appetite to use deep learning to gain knowledge from these data. But how easy is this really?",
@@ -1031,83 +1117,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-pharma-leaders-should-step-up-on-artificial-intelligence-concertai.md",
-      "title": "Pharma leaders should step up on artificial intelligence: ConcertAI",
-      "excerpt": "An executive from the AI specialist discusses how recent advances have provided opportunities for industry professionals to champion new ways of thinking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outsourcing-pharma.com/Article/2022/03/14/pharma-leaders-should-step-up-on-artificial-intelligence-concertai",
-      "originalUrl": "https://www.outsourcing-pharma.com/Article/2022/03/14/pharma-leaders-should-step-up-on-artificial-intelligence-concertai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/preclinical-research/pharma-leaders-should-step-up-on-artificial-intelligence-concertai/13319287-1-eng-GB/Pharma-leaders-should-step-up-on-artificial-intelligence-ConcertAI.jpg",
-          "width": 750,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outsourcing-pharma",
-        "domain": "outsourcing-pharma.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-xailient-blows-the-doors-off-computer-vision-with-intel-openvino-at-448fps-opening-the-way-for-advanced-applications-in-face-recognition-and.md",
-      "title": "Xailient blows the doors off Computer Vision with Intel OpenVINO at 448FPS - opening the way for advanced applications in Face Recognition and Privacy",
-      "excerpt": "Xailient specializes in extremely efficient low-power computer vision. OpenVINO specializes in maximizing the performance and speed of computer vision AI workloads. Together, Xailient and OpenVINO deliver every inference of Computer Vision on all configurations of Intel hardware,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/03/14/9563016.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/03/14/9563016.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

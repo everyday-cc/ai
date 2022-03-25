@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Brex Helps Zesty.ai Scale With $10 Million in Venture Debt"
-excerpt: "U.S. fintech company Brex, the company reimagining finance for growing businesses, has provided $10 million in growth capital via venture debt to Zesty.ai, a leading provider of predictive data analytics in the climate risk space."
-publishedDateTime: 2022-03-24T15:15:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-4315776ed596b0f7bf4505296c3c5cb6"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-4315776ed596b0f7bf4505296c3c5cb6"
+excerpt: "U.S. fintech company Brex, the company reimagining finance for growing businesses, has provided $10 million in growth capital via venture debt to Zesty.ai,"
+publishedDateTime: 2022-03-24T15:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/brex-helps-zesty-ai-scale-with-10-million-in-venture-debt/article_f4233c87-bb99-5481-9ca9-f3f4eb64e018.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/brex-helps-zesty-ai-scale-with-10-million-in-venture-debt/article_f4233c87-bb99-5481-9ca9-f3f4eb64e018.html"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Brex Helps Zesty.ai Scale With $10 Million in Growth Capital"
@@ -54,6 +48,6 @@ related:
         height: 720
         isCached: true
 
-secured: "4Hky8VBwfOUgJl9lAlPx7hscaj3jR2ofI3Fv9nQlKV3MJy5ko/Co9hWO+Gn9vfRh8r93iUofjMCt/+sIEBoeT9GZgkLCiyjuxpNOyNJ0/XMLSB808Hz+oAizwW824Gzd+y6mM5gil1v6RRlUNgECT7m1bdBn6ZPX878+J9COoYhccvz4xnAiTcYBFUSaO5J2cJ9dvlxcEkkhXTtbVwyFDiRHhAlRPNKBmCZ7u/lAcBE+dXn78lDtB4cBLV1WYwmee2nhobB3RLhRUF7mXk/zuITT3MVB1hs+ZLuDg5yIwuBiLPTohHp3KTRrd2zhUj0gYGq4ux+Df3U5e71+u0AMdCbzk7o/8iLOZqzHf3rEoIo=;XPFRBRd29v27SvjzDnAH5g=="
+secured: "oO3x3UfR9ySxBVGK2ZhMzpcBk1sg1IWJjCqeot55L085j5GYzZSM348XsyxHdNUEW2X5ihwhwAHT83tJlc1ENev4lVI1amIhCs7WLjOQeHaznYsp4Nm/85jt43GRKUa48cF2aL8VeALrOaRe5NuSCXU2M4beu+Vy3WTZvFgC3oFMKBkZPDX5JT8CQga/HsSAJAHqGs+KwCYWDgUg11lEozkwW2g9MPItvZG16SIo2WttonkppA+9j0bU8k893L01mpRDSlY2yavDXfuVWtrWRbBvietPrsVuU/TlbtOtdqdg/mXypiOok3wAZqCo1fiPPwo8AcRt/+nU2k84NYfmDiB2ux9uKr4Mnzrp5a0CFvjw4x+4u2OIaK9ZNSZpKIU0Gz84srnxWVPq0wDBaDDDP1cag2mChc84qwJHYrvvOuj54qoEToze0AhWM9G6uJ16TF9MDTXNH7TcuMPnDh/inp327DAQlmajrEbjxbYGzptaI09gBdP4HuVUwXyYOLk4HnpdHRq0lhyybFo5z015/A==;hBhnMpo/O2/QV2a4btBYsw=="
 ---
 

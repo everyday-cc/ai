@@ -57,6 +57,31 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "NVIDIA (NVDA) Starts Production of DRIVE Orin Platform"
+    excerpt: "NVIDIA Corporation NVDA is boosting its initiatives to empower artificial intelligence (AI ... from Level 2+ systems to Level 5 entirely driverless vehicles. The company’s foray into autonomous ..."
+    publishedDateTime: 2022-03-23T13:47:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-nvda-starts-production-of-drive-orin-platform"
+    ampWebUrl: "https://www.nasdaq.com/articles/nvidia-nvda-starts-production-of-drive-orin-platform?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-nvda-starts-production-of-drive-orin-platform?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "Nvidia teams up with Lucid and BYD for new self-driving platform"
+    excerpt: "Graphics chip giant Nvidia on Tuesday debuted its latest self-driving car technology platform, Drive Hyperion 9. The company, which is hosting its GTC conference from March 21 thr"
+    publishedDateTime: 2022-03-22T17:00:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-teams-lucid-byd-self-170052667.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/gQZzpeA4GpkvTHC9eTEfRw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/uu/api/res/1.2/x7tNEQ0hugvJtl4zcNJCng--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_yahoo_finance_433/9bdc8d522acf4c68f35ed399b2e67cb9"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "RhtFxChCo93YNdgCogOKCyoA3+ZBlwHygAqCHxnT3f1rx5IpvS3dKf4m3N/YqGOc9VnOGUugI3WrU9CPSOBuwm5dWwWvSJhLOyARiXqep0HKQEh1XRYzE6NmIxfMu7X58AqpgJRXHQC1TlmTNtM65+g2ZWlKDcKh9S9gJpJKHxrIR5XKXVIv+c0ylV7QQ54dPuzTgbLjKcGQFdMts9tdo1WTOmiOoM/0ZprmZXjx2T/3Eci1DH1T7geyEkryQJkXI5k3+9V3JarJ1EyRqHkbSqidXJZUIRN6MDaOqHUeC3rqLgSPsnLSVYuExyb1BkujTD4m2dsDkeytkQiAyS2ahBxzdW3fQcXkTh9PX765e1Q=;4vwFV1NgJo5jXyLOLe4naA=="
 ---

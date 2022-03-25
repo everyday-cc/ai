@@ -172,20 +172,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud"
-    excerpt: "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud"
-    publishedDateTime: 2022-03-24T18:48:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/run-ai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any/article_c12bfba6-0885-5f6c-81de-4366aaa59293.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 44
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Inspur Information AI Servers to Fully Support the Newly Announced NVIDIA H100 Tensor Core GPU"
     excerpt: "Inspur Information, a leading IT infrastructure provider, announced its AI servers fully support the new NVIDIA H100 Tensor Core GPU in four- and eight-way configurations. The servers will offer unprecedented computing performance,"
     publishedDateTime: 2022-03-22T17:06:00Z
@@ -254,6 +240,15 @@ related:
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
+    quality: 22
+  - title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud"
+    excerpt: "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud GPU flexibility for companies using NVIDIA GPUs in the cloud."
+    publishedDateTime: 2022-03-24T20:37:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2022/03/24/9570603.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 22
 
 secured: "38yJASg5i90/u83UorfbGKRNNOCl/MNcY8tyhwOa3pyvq8BpjtKfpzu1Ha/9B6hB1NqSdNkcNy1ENEdf7DtwfiUi2oVTiENFdYzIpCvaKunvaBXz/D9VuW/aDwm9hbUZVSQFngqNLQe57YxfTe2GsvuKV0JMCWPwcTNCNEvbY3ZZonQhamhGnAKMoQL9JSnEsgHfY9/9y9pE4ousxLZBWWWm9zUQdgGQFhyjzTRWD23Shl6/L42vdbjONrToDBZ38m+bl5O9qZqxtsACi9D3mycc9JGvDoDBhJW5xfiliLjgeZvHtxd6yIkmZxfhqpSEu2X6FNVzoo3O7BcVn1pj7yaYknpiuQruAcmdFrzJ39NE2aaW8tHUaKzwneHTDs8phHpDi2CFXk3OwuWBEcFroMq5SjI7EG2rpVonOvovWqa9CMA1NTsUrkZY4hUhk2neuw3SxQ99oNoH08Z/cCk010IOFM3mFI8IGq+Xv+tA8TuxFycYcmaFQG/yK6su6sm/nvVAOV9Q9MKNHKcIFY88MQ==;je4tJjeJ4xyAM7opV24tFw=="

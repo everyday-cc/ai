@@ -158,20 +158,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud"
-    excerpt: "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud"
-    publishedDateTime: 2022-03-24T18:48:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/run-ai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any/article_c12bfba6-0885-5f6c-81de-4366aaa59293.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 44
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
   - title: "At GTC: NVIDIA Launches Hopper Architecture and 80-billion Transistor GPU for AI Data Centers"
     excerpt: "NVIDIA bolstered its “AI data center” technology with the launch of the Hopper architecture for accelerated computing, delivering what the company said is an order of magnitude performance improvement over its predecessor,"
     publishedDateTime: 2022-03-22T17:24:00Z
@@ -254,6 +240,15 @@ related:
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
+    quality: 22
+  - title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud"
+    excerpt: "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud GPU flexibility for companies using NVIDIA GPUs in the cloud."
+    publishedDateTime: 2022-03-24T20:37:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2022/03/24/9570603.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 22
 
 secured: "Jl8qmi0eGDr3oEQTXKL3AAgzVVgr0+1xglO3SBvEhTg8rwu42lLGJ5Y/8NbQxZ0FChr1ChdjeDjCrnF+nCuJ24Cc6td4CSe5rx/PuCAyGFLoSp/5IrI2eqwAY6NiMUn6mqt4sj+m/HsV+QwHNlOIVvr07juoBgWqAJv3OVKBAjc8Uj1yUeHwK0tAeDdjBTMYpfgdIuU5GPc696gXvclpRSSkyJarB5JaxkQSW5Z0CpHHiy4Xm+w4di2m4WDs9q9vpXLQ3kzB7b6pPOHx6dglWetw46b3GY7/jYld6ZW19vU2Kr7v6bG4haQJo/6o+wB+D/VkmDjXx86DJEXBsoIttNLG440eZ9QwOMaNkcy+mbQ985S2W3RxBTKjPjZoxF23sSkVbCbmloogN17pMVFqav0sqUEhQBVXNO85WdcaNEvNQcFMOOGhRdyuUXNzM5Lb769WId/h4wQvdthCuaFvGyasfEaYMhwe7SO4iS8sms1T3DaAX4oYWPJ6eCs0BvmZVbv4tBYWTXjTudEEFTgPFw==;/CuJq9z1Jk/qu7PJl+l5ng=="

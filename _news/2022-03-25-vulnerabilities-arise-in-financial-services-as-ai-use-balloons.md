@@ -39,20 +39,6 @@ related:
         width: 378
         height: 234
         isCached: true
-  - title: "Artificial intelligence and legal liability"
-    excerpt: "It is the year 2023, and for the first time, a self-driving car navigating city streets strikes and kills a pedestrian. A lawsuit is sure to follow. But exactly which laws will apply? I am"
-    publishedDateTime: 2022-03-20T07:45:00Z
-    webUrl: "https://www.independent.com.mt/articles/2022-03-20/newspaper-opinions/Artificial-intelligence-and-legal-liability-6736241580"
-    type: article
-    provider:
-      name: The Malta Independent
-      domain: independent.com.mt
-    quality: 39
-    images:
-      - url: "https://www.independent.com.mt/file.aspx?f=219035"
-        width: 709
-        height: 388
-        isCached: true
   - title: "House Committee on Financial Services Updates on March Hearings: AI, Stock Exchanges, and Consumer Protection on the Roster"
     excerpt: "House Committee on Financial Services Updates on March Hearings: AI, Stock Exchanges, and Consumer Protection on the Roster. | Crowdfund Insider: Global"
     publishedDateTime: 2022-03-22T21:23:00Z

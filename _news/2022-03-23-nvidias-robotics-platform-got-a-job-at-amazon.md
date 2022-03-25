@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/806644/nvidias-robotics-platform-got-a-j
 webUrl: "https://www.slashgear.com/806644/nvidias-robotics-platform-got-a-job-at-amazon/"
 type: article
 quality: 84
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -60,6 +60,31 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/58031/content/small_kit-hero-nvidia-jetson-agx-orin.jpg"
         width: 708
         height: 398
+        isCached: true
+  - title: "NVIDIA (NVDA) Starts Production of DRIVE Orin Platform"
+    excerpt: "NVIDIA Corporation NVDA is boosting its initiatives to empower artificial intelligence (AI ... from Level 2+ systems to Level 5 entirely driverless vehicles. The company’s foray into autonomous ..."
+    publishedDateTime: 2022-03-23T13:47:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-nvda-starts-production-of-drive-orin-platform"
+    ampWebUrl: "https://www.nasdaq.com/articles/nvidia-nvda-starts-production-of-drive-orin-platform?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-nvda-starts-production-of-drive-orin-platform?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "Nvidia teams up with Lucid and BYD for new self-driving platform"
+    excerpt: "Graphics chip giant Nvidia on Tuesday debuted its latest self-driving car technology platform, Drive Hyperion 9. The company, which is hosting its GTC conference from March 21 thr"
+    publishedDateTime: 2022-03-22T17:00:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-teams-lucid-byd-self-170052667.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/gQZzpeA4GpkvTHC9eTEfRw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/uu/api/res/1.2/x7tNEQ0hugvJtl4zcNJCng--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_yahoo_finance_433/9bdc8d522acf4c68f35ed399b2e67cb9"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "/JKa3vWrr5Zye+Y3/5OX3jBMWklU7/y60/b/Eni0GxzFk3yxX9XF7VQ6B/g1HJ3bVb3MiPO+ySG29N+8Kyi4J2zNIBPfOOVrGD/3j6R9HyyFhLm0S2Q9pnKOi3mn98fzJm5CrudLWUPmaE9gxr7koj3ZqzrB6Tck3ji1HMSqY5X/dntdaglkk07NdLwBI2YoLd2NhZNqZuv0FMkTxkCyj6Y3YvJ7e6+RXB9lsgDsUAGpt8jMkR7wl7N+U2h4q7gdd8T7Deh2hRnbE2EsMJJe7oRpaUKOzpMjgLRAK8w/Pfe6PrxaOxdcjWTCmuG5YYPJTvtOf/8Ep83MN0VjOsLGEvEmTCenyh/VGq7wgn+hlIjftFMOQEOlAQVv6iHHzvacajEbv6iFrtz0LXxTep9DfOF6FnrUo93HvESjIvxsvxWETtRpSyAfYSwhCtE0iDHGnA8bRRtd38rbp80li/JLHfR8gfV+kzOU+BikeBTYuKIQ/TbfRm++bI2wfLEt5g+YSfTFUpdtspP9yxKl7FMqKA==;9E3sQnCZLaxqSVJDARTPNw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.risk.net/market-access/technology-and-data/7942636/vul
 webUrl: "https://www.risk.net/market-access/technology-and-data/7942636/vulnerabilities-arise-in-financial-services-as-ai-use-balloons"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence and legal liability"
-    excerpt: "It is the year 2023, and for the first time, a self-driving car navigating city streets strikes and kills a pedestrian. A lawsuit is sure to follow. But exactly which laws will apply? I am"
-    publishedDateTime: 2022-03-20T07:45:00Z
-    webUrl: "https://www.independent.com.mt/articles/2022-03-20/newspaper-opinions/Artificial-intelligence-and-legal-liability-6736241580"
-    type: article
-    provider:
-      name: The Malta Independent
-      domain: independent.com.mt
-    quality: 39
-    images:
-      - url: "https://www.independent.com.mt/file.aspx?f=219035"
-        width: 709
-        height: 388
-        isCached: true
   - title: "Vulnerabilities arise in financial services as AI use balloons"
     excerpt: "The scale at which financial services firms are adopting artificial intelligence and machine learning continues to grow, bringing with it new dimensions of risk"
     publishedDateTime: 2022-03-24T17:26:00Z

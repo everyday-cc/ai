@@ -39,6 +39,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Laws governing self-driving cars could be overhauled after Melbourne Tesla crash"
+    excerpt: "Crashes involving self-driving cars will be subject to scrutiny on par with aviation disasters under changes proposed by safety experts and the government."
+    publishedDateTime: 2022-03-25T00:50:00Z
+    webUrl: "https://www.thechronicle.com.au/motoring/motoring-news/laws-governing-selfdriving-cars-could-be-overhauled-after-melbourne-tesla-crash/news-story/181c5693703063a051effd52179bc671"
+    type: article
+    provider:
+      name: The Toowoomba Chronicle
+      domain: thechronicle.com.au
+    quality: 14
 
 secured: "Cim78KG8I9gtb+Eixiw4fSfSFB9h+kpmKI5R4r7/rqM6oVODEj4Ux4wp8Jxy5szkWwY94icaHsRpmZ6hLCuLT5pnJ1unEZWhpvhE4S2YI6KcgfIDoTKQrQ897Y7a+oEP+dpWUG0NT8mG01RQHcfz/2LZktPeXpplXurOxcKzY/BKm/lPjiYBzRuOelmtbvwgoFm1Vtz/uhqBiD7i5bKGXpYL/Mf9Ej8z4V3bEcSEQsnaY2squzQaEfQMHFG8po01yZm6TAMzwzP+j/6S/Obr6kFUJjqOsOWcUHuL7b6pyX4Nst8sCtiLw5PTapdL9YreEGp63oJ1KE6YDGSUpxHDBdXQaZa+4wMrGJ44jGFKylawlsOwFH9wK5gr1N1l4T4rhRxHG3hSVkmLswTiW7fS31psfS/dnFd8xBbnUiXPF8/V5hgpdV8TteXUchGMCEk7lp80OcoW2NrB3WLSwr8l3Btpx/+VnDKU3gqTzDj4nHs/56c9vbXXrw6Er+nLtvkYlcsQsk4R4QHXDXuwf5IrMA==;a/XHH2p3HmrU2p6pKau8uQ=="
 ---

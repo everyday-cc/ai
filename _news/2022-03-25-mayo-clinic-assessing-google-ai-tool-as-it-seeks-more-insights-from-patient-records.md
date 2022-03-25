@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/mayo-clinic-assessing-google-ai-tool-as-it
 ampWebUrl: "https://www.wsj.com/amp/articles/mayo-clinic-assessing-google-ai-tool-as-it-seeks-more-insights-from-patient-records-11648159790"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mayo-clinic-assessing-google-ai-tool-as-it-seeks-more-insights-from-patient-records-11648159790"
 type: article
-quality: 83
-heat: 83
+quality: 85
+heat: 85
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.wsj.net/im-511654/social"
@@ -30,6 +31,6 @@ images:
     height: 640
     isCached: true
 
-secured: "oEIaQYv/MmdAaUA2v8RMvWjK/nsnmbERWMBKZLbmWyGDb8I/IzeSLVNiBjREJw3NvdbKMFq+gVFNc38GLnRrM07uigakqmA0Id7Xd1JCVtpYOkCIwNp73UoLg55Ko+g48en3qKGpreJF+2ytDbjMmyLw+5QFujRVrG583fAQM+yK5Rq5KtyzpoUlctGJ8zyWXQP8B88z1tn875uRYHVVhUp4FMC5Sn1330C2tTzOvhuaCVb30LftHmbaUJEfRlsHWqzyeNMhXk8rSu44UKqY/tm07LznXmvUE60l2MdioNp6TqexoCVZ1RybNjKlhKWubKFIuI9AY5vckVRsglrXlEkcSbG7a1q/pZ8cu7boHSQ=;EvrRCOL29Vj6Jbwk+3c5eA=="
+secured: "NyRtvZAo2rybT5TyiWb2S5uG6jGttFhs6pvXRHA+cZjCqkFiJjUXL/02KV/EOg/dnvAJ8DVFdPYSm/IZPBp4w9keWahilRyP11aTPhbDLIN//yYh9ERBxlNq0V76bx360JOuXc6MnivfiwK/bN0GL16jQheLd5ZE6Svz9Kj7wEucKcHj1JpyVMLvxCuiPnv4gwoZg3YtM2M8qip3ZZdu91tdmkJo73roKa3ASGsQt1DJvOYWKKgR6zlAGdMxlJt7OUhEI+o+tmH+1WRCOjMjDpDgM4T0nukGxciIvvhBIGMJ7FjhbQvtn6PnuYILKDv9pk78br/8IYmLjGmiNd99aplQvlBWl5yl9cAQNe8z303KQmpu0XNwQMfo4AIxPoyiDuLbgOSDkBLXxVXciBWf0WnXx2anRLyy7H+w9+4BntA8k1AQkSbkOJxvXnbVE1/lQNHWS2XgIhGvCkpUeAa1SmS/+YelRroo39YGJPuAktbMjsfazn7PT1vgI7ODpClnbXqaXUyKbjywIJsOMyBqIw==;ZnQVWqqNByPO6y4AuueUZg=="
 ---
 

@@ -134,18 +134,18 @@ related:
         height: 400
         isCached: true
   - title: "PLUS3 IT SYSTEMS TO EXPAND DATA ANALYTICS AND ARTIFICIAL INTELLIGENCE CAPABILITIES WITH JOINT ARTIFICIAL INTELLIGENCE CENTER AWARD"
-    excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial Intelligence Center (JAIC) for Data Readiness for Artificial Intelligence Development (DRAID)."
-    publishedDateTime: 2022-03-24T13:28:00Z
-    webUrl: "https://www.lelezard.com/en/news-20303043.html"
+    excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial"
+    publishedDateTime: 2022-03-24T12:50:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence/article_2d4a8a12-262e-52dd-af5b-a24bcacffdff.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 9
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 7
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "JEGDIrXxbrsYHR/Om+r5+7AX28n4fS1To98Aogz9RKk5VpS0d6Cwnat5Rp4hX5CnsseWBtVLSKsEWvz2HeyFAVK62b4+x1MQAe/IwcSW4EjUUiA1vU5xCIOUIq5qqlZM6YPh6d2df+KDOwQwANqSX/APOCQD6xwkjNPh1B65zgT2q7mlaJKfDnLQtYe6QqMYEmifrlJeW1j+kk+2mBQIIh855py2SOIaGa2Id5KYSTEJxXinMVYCZ+loFUEtEYDrFf5WtIWfrldHzuEg8irUHRQthff6akEvEtlnDlV2isK4AJ7wapWlKrr7Z9j+nwLny0tXhSgf0GI39GXlrgKWuPGBUtwh+e4tMDIxggKn9peUeetRF79CLJs+qX3yD2KMdegMB3X/pAvk5I9aYrmq1Io+YTxi06PWDKb3II+zBru0butIji+qWns1Qr1k+65tFRbx6MZsMxhRrlAhW6aTSzTN32GhxpuqdZiT5tybFo+sOlEepwL7/57d6Qi6J+c3hRTMNLK55dbNqxe6g3i8vw==;D46OKWIGTS5usNuu6Trimg=="

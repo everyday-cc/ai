@@ -2,9 +2,9 @@
 category: news
 title: "Ukraine uses facial recognition software to identify Russian soldiers killed in combat"
 excerpt: "The defense ministry began using technology from Clearview AI which scrapes images on the web to match uploaded photos"
-publishedDateTime: 2022-03-24T21:07:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers?via=indexdotco"
-webUrl: "https://www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers?via=indexdotco"
+publishedDateTime: 2022-03-24T21:38:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers"
+webUrl: "https://www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers"
 type: article
@@ -195,6 +195,6 @@ related:
       domain: technologyreview.com
     quality: 43
 
-secured: "PoAP1qnMi9xq8pBfb3AA76VzRghzDDUsvuPG25ai/Bv7+Xbj4AfpE/0OGXBIfbIFwE+OTL6wBdYR6XH7dcdI/HUjTs1wZ/bL+fpEB446acLXr5C1dqzYYNhxXYNQLXodzTjZpNwzCOAQup+CHOAUq10xe5wt51ibMoocbZ5S/ZrJV0tUkFoFhfkUKJ095fMgfzZ7Ja3NEmCAAIccd4TO2BabcFB6pal/n008Shg8W3yphMiKFuvsL0mDin7xzKm94bYrLegY6cyrQWqfzcXNlT+pC3ZCExjBLj6jHIzPE5dYeGSpXltw8pY8VmNREfD3E3CA4bfZfIRn74iAgyPKPjalpsAxu5H8kPlf9EakyeY=;1vz1TLAvMWwYSMybSoCvsA=="
+secured: "1NLP11zStugs/hwKFa5gdSOl178JldqDSiMJwgEe0wuk01Eu5mzywecmeKJXZPayIJG3ehxviY9rD9ofe91vsdO3YwPlwU+iUipnLTJlAlNjxBBTOouOENJTGveYjA4IxrRqbiUFoUf+TeHFVnBiseyNuKglHKx+mcocGlXfBgowmEc43KM0vN0nIgOJmHRCBFWOlcw9buZe0L5WiL91ZP9sD8J6vQ0UkhgIqCRbiuUmUp0OjsYXariaoF5sQQZAfEcinL3nOzkdQFtT2vQdq7q0FOTvCxve6YGXnkzr27jfM3ut33tnA9CjHDkBDI2d5gGTaQZoVR7sTkM4G2jm76X3jFhOBOmAZJWi6Yltazg=;bbZ9sAu3E/pwG+vmiR/Sjw=="
 ---
 

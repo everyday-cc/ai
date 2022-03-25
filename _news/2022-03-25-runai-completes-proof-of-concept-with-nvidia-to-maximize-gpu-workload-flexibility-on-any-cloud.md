@@ -1,29 +1,22 @@
 ---
 category: news
 title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud"
-excerpt: "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud"
-publishedDateTime: 2022-03-24T18:48:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/run-ai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any/article_c12bfba6-0885-5f6c-81de-4366aaa59293.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/run-ai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any/article_c12bfba6-0885-5f6c-81de-4366aaa59293.html"
+excerpt: "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud GPU flexibility for companies using NVIDIA GPUs in the cloud."
+publishedDateTime: 2022-03-24T20:37:00Z
+originalUrl: "https://cloud-computing.tmcnet.com/news/2022/03/24/9570603.htm"
+webUrl: "https://cloud-computing.tmcnet.com/news/2022/03/24/9570603.htm"
 type: article
-quality: 44
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Microsoft AI
-  - AI
   - AI Hardware
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
-    isCached: true
+  - AI
 
 related:
   - title: "NVIDIA Unleashes Arsenal Of AI Innovation With Hopper GPU, Grace CPU, Interconnect And Robotics Tech"
@@ -257,6 +250,6 @@ related:
       domain: morningstar.com
     quality: 22
 
-secured: "Pmad0bnaKqw+UIOjL6Y330FfkYB/t/CQd4RQPWfTJxJf1CWBQoVwpGpz97bD+MYLBOM9a0DCx+QMh+EvqjJPtrRk1bj1Uio/GSm64pb8X0JHrOYhsqXx+DCG8SUhRs59chhUG/M3BBKiqrpe8IfQlrGqe4g57JZfyuTY5Pika9iIeOTw1WEn6E01WRsO8URv2ldJiPpXWQSJmXPD8XO/qFt4jkiCgNzzwC35ceqZ1Fd6QmJyWljWA/7X4uPV3/JfIGdMCGFYY2L1HK0QOJnMfvsbLmhYCUmL2Aw79ALlc4lUUT6v5u4L9qLGinOx9KVlgOI1DcY6oeDgS4G14j15yoJdv2f+UeMCVQBBksG6yVHxpQwd7Gz3hCVGWuXV7ws76d2PBoBHI/Q3oIlnlc/2jk3W8hakPRKRbws3a1iAR4YGMpxh+hWYYM7xmm6tTZzdlMyNhlqTj9RFc77k7TmpxwbbcSxvqVM3t1I5DC5CIV5UNzvYZzYhpfMaUDqVrNaNJGtbrcAo6zZTrrgGuS/R8A==;jyZ2nmPCY8KDaDnhjyKGdw=="
+secured: "21I2bdWZzkfRTugTP2iv8SoP6hf77G/nPbZNDeCJ4AbJyjnDELTAAWhtfYUXZAna692zCaD7p9bXo6D5ouM40morWgIYtMEnTc2xMtvu8LHser1dJ9YkAjMu2pbP8uNe0/G6tvi3iBQFgiBuHBrbIFj8zCfcHg4cGI93eUFWQ6C7RU1aAoyy7R1Lg3TC9O8zy7AYYB1JqbDnujUYPFEQpDzpvXz5XxAm73jsc48A90uS5qm1I+6pHrtfpFwhWXfES5LAzsiZbIXaOOpkudTUqvMWYABBhVRU/WQAphqdr1BWlsmIqfC33nKAvT+HAo5CZ6o/giPGE7jM3NQZKRqpcget9nIwjdafwL/zKOodZTA=;yIqsJjs2HwxIb40jywGhhQ=="
 ---
 

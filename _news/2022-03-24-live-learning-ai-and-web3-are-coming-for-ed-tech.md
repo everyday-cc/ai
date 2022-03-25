@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "SAS and Clemson University deploy AI and machine learning software for education and research"
-    excerpt: "SAS skills among students and supports analysis of massive datasetsCARY, N.C., March 24, 2022 /PRNewswire/ -- Clemson"
-    publishedDateTime: 2022-03-24T15:58:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
+  - title: "Why you shouldn’t be using AI for hiring"
+    excerpt: "It’s virtually impossible to create bias-free AI recruiting tools. Here are strategies to mitigate the potential damage."
+    publishedDateTime: 2022-03-24T19:10:00Z
+    webUrl: "https://venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/"
+    ampWebUrl: "https://venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://mma.prnewswire.com/media/1772498/Watt_Center_Clemson.jpg"
-        width: 400
-        height: 266
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281172753.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "TwvmdfKkcnUZ0NzSvihwQmT0rrLIA43nzx3MYeSv1S5RbBUTiLQc7OxWaY51RfeuID0by98bMKaemwQiylr9sw5M9vARk92HvG4eOek1u73b9J+OMQWN0E3tkkPBfPNZN4Zr73aCSP5BONxyQByvUIGFfWcxHzIIU5zOkIvkgsZsv3YTQw9eyHSwmDeBjaSc6NwGd96lPWpr7qHiS2DRehDjr4tYkEgwjeqiUe514I5QlzuXX20WNOWU7mjnqNuUzeO6WMpXCP3Pra/XE/m4iK549af9wvFfBsPurrZ1Ay2W7wm+LziSUuyYXXcuSuCLXiBFp41VPB1gaSOvXma01vXq6/6GWI+Ku3S1Gn9MN/w2XhnDem0hqZJPYihV0CjLSVLcC4J1ykJlxKrNM+vrf/ngDWzdv3xX2UXxbu4vkvuh4WiuYeNROm4ACMHRmFSH879rjplmNkOUnkWtoXOD6fXth92CDklH+MvdCSnzVmf0NS7qsB+zLGC03yGdxxo3F57tdx2i/3PwgdqV83iXTQ==;wbsQEMr50u2fVueGkGCJGA=="

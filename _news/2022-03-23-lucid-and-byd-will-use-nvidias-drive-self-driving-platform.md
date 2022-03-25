@@ -61,6 +61,31 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "NVIDIA (NVDA) Starts Production of DRIVE Orin Platform"
+    excerpt: "NVIDIA Corporation NVDA is boosting its initiatives to empower artificial intelligence (AI ... from Level 2+ systems to Level 5 entirely driverless vehicles. The company’s foray into autonomous ..."
+    publishedDateTime: 2022-03-23T13:47:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-nvda-starts-production-of-drive-orin-platform"
+    ampWebUrl: "https://www.nasdaq.com/articles/nvidia-nvda-starts-production-of-drive-orin-platform?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-nvda-starts-production-of-drive-orin-platform?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "Nvidia teams up with Lucid and BYD for new self-driving platform"
+    excerpt: "Graphics chip giant Nvidia on Tuesday debuted its latest self-driving car technology platform, Drive Hyperion 9. The company, which is hosting its GTC conference from March 21 thr"
+    publishedDateTime: 2022-03-22T17:00:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-teams-lucid-byd-self-170052667.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/gQZzpeA4GpkvTHC9eTEfRw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/uu/api/res/1.2/x7tNEQ0hugvJtl4zcNJCng--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_yahoo_finance_433/9bdc8d522acf4c68f35ed399b2e67cb9"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "6LTjZPVDPpKRTIPMvRrUqAs8UXawsfkK/2b3XDflkOOZVHjUuZ11TE6LybcUjqxfKaFJ5GFz1IGu0R5vXIVqduQCzqmnHI7PkD7xKQKRcrCEomDvwWZ+lqOJqSUjITqEFFq4U2c34jStHLunBEKx5RCsY13biwj70sxI2c0DE7ojkHVNrew+qHZu6dJmUFG7x57/N7POTPZ2O/YJbgAOmMuxNdx+g1lW3dSL6stFsZgYmRYfPdHTk7ArUyuT9NXx8shJmHUKCJObRL+xFjEvWAYY1yFCokYfw1TLH1zAT90KLIirc5mJ+GaJpiypENmGmVp5YCslzxgbzgTKsrERG9GELbhI2cAFaf3wo03YKTP1ck53dfHSbBWRAKNtCZzXEOxITlK8500vermpDQRpI8zw81g+ZC9ZlrsyIwB0rlZNS34WwQ0i1vFASBypFhnA97RZwAuhSdm8sclNMGlvrCXtD1Selh6jNKF/+EwV3HeneDq2e4mgT3wMI0aj/CdJSRaECsSixM0pm78ES5B+eQ==;7yaKjh0FfxZnIjpOpWTp5g=="
 ---
