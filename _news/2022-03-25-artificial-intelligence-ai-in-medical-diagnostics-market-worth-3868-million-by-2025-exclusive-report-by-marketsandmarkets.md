@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-25T00:45:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-medical-diagnostics-market-worth-3868-million-by-2025-exclusive-report-by-marketsandmarkets"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-medical-diagnostics-market-worth-3868-million-by-2025-exclusive-report-by-marketsandmarkets"
 type: article
-quality: 23
+quality: 25
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/millionaire-flies-Ukrainians-Switzerland-AFP-1K-04-600x337.jpg"

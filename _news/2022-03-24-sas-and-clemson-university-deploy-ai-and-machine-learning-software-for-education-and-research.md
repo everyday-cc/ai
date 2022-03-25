@@ -1,23 +1,26 @@
 ---
 category: news
 title: "SAS and Clemson University deploy AI and machine learning software for education and research"
-excerpt: "Clemson students and faculty will have access to powerful data science and analytics software from SAS thanks to a new, $3.3 million donation to support teaching and academic research. Extending a 2017 partnership,"
-publishedDateTime: 2022-03-24T15:51:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm"
+excerpt: "SAS skills among students and supports analysis of massive datasetsCARY, N.C., March 24, 2022 /PRNewswire/ -- Clemson"
+publishedDateTime: 2022-03-24T15:58:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
+webUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
 type: article
-quality: 62
-heat: 62
-published: false
+quality: 90
+heat: 110
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
   - AI in Education
 
 images:
@@ -26,6 +29,38 @@ images:
     height: 266
     isCached: true
 
-secured: "KNR/sHnOM+fsQ4Fx6rRKtDzRriQ5hYDXhuuBUBuM/tLmyRF00LUTN0HCZLXT5ktVlBUDRiMxSvJf5bchGLKXKkEErc1vjE98KTTyxrpQJ9mbONLmNcO1eYcRqe+fPsUs6Mv7hD3RQHBNQtfuVqN3W+oije1N2psUx1qPyPhe08RWXTdiIFvpZ4VpI4RmW3IQNxckzy0DgoeMvCnIYfq/HzW27/ByEidw0NHD7WrZttjVFXtb/tW0gPLRf8bcorA1RGfuJyTXafPkIpnLnIA2AIkhkx2GKbhGzQ6o6AkpzNSodTYFkaIu9k/Psib+SAcXrt9GZbWC4hB8zjhQ4E2mTEGCVNtMf9Wk+XiyxvDFiLY=;89ZKVRNdxLZ58ONXPPPKsA=="
+related:
+  - title: "SAS and Clemson University deploy AI and machine learning software for education and research"
+    excerpt: "Clemson students and faculty will have access to powerful  data science and analytics software from ... Read more"
+    publishedDateTime: 2022-03-25T03:31:00Z
+    webUrl: "https://www.ecampusnews.com/2022/03/24/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research/"
+    type: article
+    provider:
+      name: ecampusnews.com
+      domain: ecampusnews.com
+    quality: 62
+    images:
+      - url: "https://www.ecampusnews.com/files/2022/03/SAS-Skills.jpg"
+        width: 510
+        height: 355
+        isCached: true
+  - title: "Live learning, AI and Web3 are coming for ed tech"
+    excerpt: "She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia."
+    publishedDateTime: 2022-03-24T09:30:00Z
+    webUrl: "https://www.protocol.com/workplace/enterprise-ed-tech"
+    ampWebUrl: "https://www.protocol.com/amp/enterprise-ed-tech-2657026245"
+    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/enterprise-ed-tech-2657026245"
+    type: article
+    provider:
+      name: Protocol
+      domain: protocol.com
+    quality: 59
+    images:
+      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-investors-spent-over-usd2-1-billion-on-skilling-companies-over-the-past-year-alone-less-than-p-greater-than.jpg?id=29585482&width=400&coordinates=0%2C409%2C0%2C291&height=711.4285714285714&quality=80"
+        width: 400
+        height: 225
+        isCached: true
+
+secured: "SlhYnnt2Iz9wFKYHBN2Ln5fw/0TGIPfmfnRx1ThPrWQO7C3hObmJpMblIq6+DkNBO4j8rvf9kHeuMdjpu2urGTiWPrxi8fG2/czmAPocI6b6Ak2IR2pgWMhYLnrLtDys1urplxHJ94UdXo+ozL0zpHKit7nZJqWNLXS8QTk0mTK9IENszABgUGBvyB8wpDW6ukN1PgLzdpm5YxDOmXps77D1h/DsTO0wKdcvaYMjbuKZH5O8AqUkIIw1GVY0tIZDuRtxwR0ggx+61GvyJfIn5rwUjDExHp6j0Uzg2ruAfP4bnNIZx/uIKIvW/d7tMN35TfkFHcAXJ0TYyXzZvFNUSRikd/dqK/BMP28YM0HeAaY=;6XPA9rzu0Ym/hUVIlvGhGA=="
 ---
 

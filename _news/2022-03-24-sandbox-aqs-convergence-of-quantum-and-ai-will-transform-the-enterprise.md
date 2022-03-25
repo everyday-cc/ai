@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/23/quantum-tech-and-ai-company-sandb
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/23/quantum-tech-and-ai-company-sandbox-aq-emerges-from-alphabet/amp/"
 type: article
 quality: 86
-heat: 107
+heat: 108
 published: true
 
 provider:

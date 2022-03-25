@@ -169,6 +169,34 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "Complex Questions As Face Recognition Tech Joins Ukraine War"
+    excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said Thursday."
+    publishedDateTime: 2022-03-25T02:07:00Z
+    webUrl: "https://www.ibtimes.com/complex-questions-face-recognition-tech-joins-ukraine-war-3450495"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 54
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/03/24/ukrainian-firefighters-work-amid-the-rubble-in-the.jpg"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "Face recognition tech joins Ukraine war"
+    excerpt: "WASHINGTON: Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said on Thursday."
+    publishedDateTime: 2022-03-25T03:15:00Z
+    webUrl: "https://www.bangkokpost.com/world/2285146/face-recognition-tech-joins-ukraine-war"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 54
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20220325/c1_4264694_700.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Ukraine using Clearview AI facial recognition to identify dead Russian soldiers"
     excerpt: "Clearview AI scans the web to pair images of the same person from a database of billions of social media images and flags the connection"
     publishedDateTime: 2022-03-24T10:44:00Z
@@ -195,6 +223,6 @@ related:
       domain: technologyreview.com
     quality: 43
 
-secured: "1NLP11zStugs/hwKFa5gdSOl178JldqDSiMJwgEe0wuk01Eu5mzywecmeKJXZPayIJG3ehxviY9rD9ofe91vsdO3YwPlwU+iUipnLTJlAlNjxBBTOouOENJTGveYjA4IxrRqbiUFoUf+TeHFVnBiseyNuKglHKx+mcocGlXfBgowmEc43KM0vN0nIgOJmHRCBFWOlcw9buZe0L5WiL91ZP9sD8J6vQ0UkhgIqCRbiuUmUp0OjsYXariaoF5sQQZAfEcinL3nOzkdQFtT2vQdq7q0FOTvCxve6YGXnkzr27jfM3ut33tnA9CjHDkBDI2d5gGTaQZoVR7sTkM4G2jm76X3jFhOBOmAZJWi6Yltazg=;bbZ9sAu3E/pwG+vmiR/Sjw=="
+secured: "bD5vgGanWnfW6qmpgk0PFbpKxYlSXz1G6aymTsSBQRAhMIwW3E5PmCGc9Z3Epb86HmBS2fMz2DeRbknQSA9SJ48m30lFH7DKdRBa5X9TKKz7WhC4UdoHl9ZEHaF/TQEcst2cg8p8YQOjhmzu7SpPHBqI/kd78soyLqhNpfUld6zu4vW4exPiRjdpJ0zGO7CT4b4rQOI8ELNK+fvmVfLhj4+JyVuBa1/q6RQHXpSrUZowfA2GKvn7VXdLqsOLTxPYJv4SgsbNf7vq49l/nQ+UgjIbeos5KgLrGLl71tz3LCMxaRkFdJ+lcktEPp/cut2IcETLLp8DDkgcG0DPOCu3IDtIdI6/69eFlCk7AkwnsPUWgZIbUZWMAMY+H2SSuFVvyMTmzeYTz+j2Ee4zLnliip/5frm05GThApmz60J9X51iSvegnmNezjOVfA+KWzc7mGF3WTGVeMzjnW5tB9ywQYk6wConACAPhu27jWDYb6gWG6BSAA4lbaDSaYB7PSsmify0bu6IZPFBfGyILyKXAA==;7nP3GT+MHQ1rql3lf9oFsA=="
 ---
 

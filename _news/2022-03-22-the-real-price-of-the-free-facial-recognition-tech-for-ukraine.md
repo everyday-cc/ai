@@ -166,6 +166,34 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "Complex Questions As Face Recognition Tech Joins Ukraine War"
+    excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said Thursday."
+    publishedDateTime: 2022-03-25T02:07:00Z
+    webUrl: "https://www.ibtimes.com/complex-questions-face-recognition-tech-joins-ukraine-war-3450495"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 54
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/03/24/ukrainian-firefighters-work-amid-the-rubble-in-the.jpg"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "Face recognition tech joins Ukraine war"
+    excerpt: "WASHINGTON: Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said on Thursday."
+    publishedDateTime: 2022-03-25T03:15:00Z
+    webUrl: "https://www.bangkokpost.com/world/2285146/face-recognition-tech-joins-ukraine-war"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 54
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20220325/c1_4264694_700.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Ukraine using Clearview AI facial recognition to identify dead Russian soldiers"
     excerpt: "Clearview AI scans the web to pair images of the same person from a database of billions of social media images and flags the connection"
     publishedDateTime: 2022-03-24T10:44:00Z

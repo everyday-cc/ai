@@ -1,22 +1,29 @@
 ---
 category: news
 title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud"
-excerpt: "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud GPU flexibility for companies using NVIDIA GPUs in the cloud."
-publishedDateTime: 2022-03-24T20:37:00Z
-originalUrl: "https://cloud-computing.tmcnet.com/news/2022/03/24/9570603.htm"
-webUrl: "https://cloud-computing.tmcnet.com/news/2022/03/24/9570603.htm"
+excerpt: "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud"
+publishedDateTime: 2022-03-24T18:48:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/run-ai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any/article_c12bfba6-0885-5f6c-81de-4366aaa59293.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/run-ai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any/article_c12bfba6-0885-5f6c-81de-4366aaa59293.html"
 type: article
-quality: 22
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI Hardware
+  - Microsoft AI
   - AI
+  - AI Hardware
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
 
 related:
   - title: "NVIDIA Unleashes Arsenal Of AI Innovation With Hopper GPU, Grace CPU, Interconnect And Robotics Tech"
@@ -249,7 +256,16 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 22
+  - title: "NVIDIA reveals next-gen Hopper GPU architecture, H100 GPU announced"
+    excerpt: "NVIDIA's next-gen Hopper GPU architecture launched, powers the new H100 GPU with 80 billion transistors -- the best for AI and HPC."
+    publishedDateTime: 2022-03-23T05:47:00Z
+    webUrl: "https://www.tweaktown.com/news/85197/nvidia-reveals-next-gen-hopper-gpu-architecture-h100-announced/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
-secured: "21I2bdWZzkfRTugTP2iv8SoP6hf77G/nPbZNDeCJ4AbJyjnDELTAAWhtfYUXZAna692zCaD7p9bXo6D5ouM40morWgIYtMEnTc2xMtvu8LHser1dJ9YkAjMu2pbP8uNe0/G6tvi3iBQFgiBuHBrbIFj8zCfcHg4cGI93eUFWQ6C7RU1aAoyy7R1Lg3TC9O8zy7AYYB1JqbDnujUYPFEQpDzpvXz5XxAm73jsc48A90uS5qm1I+6pHrtfpFwhWXfES5LAzsiZbIXaOOpkudTUqvMWYABBhVRU/WQAphqdr1BWlsmIqfC33nKAvT+HAo5CZ6o/giPGE7jM3NQZKRqpcget9nIwjdafwL/zKOodZTA=;yIqsJjs2HwxIb40jywGhhQ=="
+secured: "GIXo9B3uIhE5rw1KaofyHbZhPPJQsLMlc0bMe66RjkxUoO1110JJYUCtt0QnDz9YnfUyePn0PAnMGrnKJO3TWpAsRz4lgtGOjMf7QutpCn55S8JY1Xoe0+HWb9uJKYl1w0mSBED0V24/XFeAx6BwN0jT6qhNaOr/yS1u/foGKqjLz6ul0pumYMleqfpgGlmb18W9g/2PVGw8mbYxl/nN6uV+ffXmg53gX90+/bakBAy4dEAmtLVVFUXKFh+C21LDNuN6yjtO3Jjtcg4lAG5oVV46FPXLLQKNATrd8DjSkktS1zVX/brttSK71fJUocoxZ4hEFm3V4dttZoQ1gYqmJFYSQHvI6rXA7kcvUcWxah8=;928UFw8kLWRcnwGOBxXZtA=="
 ---
 

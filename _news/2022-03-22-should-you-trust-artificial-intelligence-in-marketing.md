@@ -34,7 +34,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 23
+    quality: 25
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/millionaire-flies-Ukrainians-Switzerland-AFP-1K-04-600x337.jpg"
         width: 600
