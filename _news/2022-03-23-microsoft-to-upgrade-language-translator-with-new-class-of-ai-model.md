@@ -245,15 +245,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 34
-  - title: "IonQ Aria, Newest Quantum Computer, Coming to Microsoft's Azure Quantum Platform"
-    excerpt: "IonQ (NYSE: IONQ), a leader in quantum computing, today announced that it had signed an agreement with Microsoft to bring IonQ Aria to the Azure Quantum platform. The partnership will add IonQ Aria, the company's latest quantum system,"
-    publishedDateTime: 2022-03-21T12:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/03/21/9566996.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 29
 
 secured: "AAOdcEhBORXJcp4AgtSRiOQjShlYizxJj5csNj+vRY5XycUWlrnNDtVPZ5EASnV+W6rifiZTzvBS1yKD8e9P2t+qWU2aabZYPqBP+F2VHzKfi/rGZGc4KB88/T8kwdsEmq/Zn+vIjFHo+pgpN2BCEI+GrgRRJs3ytRc5MWlBCdRSWeQkLzKyfpYTUuYF2mvQ3CfKlNVbgkWSqWStqW+eanzk48eQFhSl2AsuUz25uvi97vhUn3lEQsdvh3yTZtOpHwmtb1cTznB8gub062P3cOuyapb7/FuIOKih7IybAmnLsLcxkOyDoNpcHFCi6Fsi4GAeY25BY8GBRN7fuAAwmypGHLYt57WLaCKuWQs0d4NOxDYcwo+/RDMn1Nkoy6w7KGOWvRsvO9RM1N0jV83qIxilmbBbkkpop/DKY4QPCYPOkNKWfjyZ24uJZ0VG0mfGGpofeCj6eRYLlbd7iTCAFj1I54rzKfjK89jQC1XtV8IKiQoqygvUUb2f/G4a7CrkWpYy3EWAISTQrmgTZnhRlw==;ccxhGmWaLC1Aj4t9B4W+Ww=="
 ---

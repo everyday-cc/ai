@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbclosangeles.com/news/local/cedars-sinai-artificial-int
 cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/local/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2854582/?amp"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://mynewsla.com/wp-content/uploads/2014/09/MNLA_Featured_16-9_0014-e1502903624803.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "AI Model May Help Predict Ovarian Cancer Treatment Outcomes"
+    excerpt: "An artificial intelligence (AI) model may help predict clinical outcomes at the time of laparoscopic assessment for advanced high-grade serous ovarian cancer (HGSOC), according to a study presented at the Society of Gynecologic Oncology’s Annual Meeting on Women’s Cancer,"
+    publishedDateTime: 2022-03-26T04:18:00Z
+    webUrl: "https://www.physiciansweekly.com/ai-model-may-help-predict-ovarian-cancer-treatment-outcomes/"
+    type: article
+    provider:
+      name: Too Old to Operate
+      domain: physiciansweekly.com
+    quality: 39
+    images:
+      - url: "https://www.physiciansweekly.com/wp-content/uploads/2022/03/image1648268285.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "sdAcGlGSA+8+UCKp1GbwM+mN5X8zRpeRlFPtYdpBMuyWvj2E4l0ZMEoUoQpSkgwE8rlTdnbC+qUylbv6bspmjv5ugMONy0NTaLO8WyKSK9G/wqAzRESlvGrPv1gBdojzRimjBftt3yc8G+6bonkHBM/EtYhpMkErcgIRzAStIYXsFEpY6wKjN2BD5EoHyIxyJQfexavF2JZKBEB+S+GWpzJU6CUK3AbHMJ6Nheg3XqRATRv5FzTbdcVueZ3tVtjpIi5zVKoNnK6CWCC2AhzKBbxkufSn5Jye7nP+5BPSzByhoneHy1r4iGuRFuKUor+ShgMC1A0Tq23RYOMiAs1WXARbvFFi5P7glAFmaIISP45MkqQFYVPRtB0NQrVg+Bx00GLXZebmOkCyUqc/iNlujF9hVZ4/skD4vN4mn7Shyri8dqWdRtSga9M+ukEqr8EPqaxoVizjq3SbEQ2ShheUJpA8LRVAPfQohBacHDhRMUrhUT8hPURip43ySF30tUeXKio15fn36A+OcycdvH/uLA==;Kb9ObGvoFmNMXPk2DPZ8Sw=="

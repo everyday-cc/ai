@@ -72,6 +72,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "AI Model May Help Predict Ovarian Cancer Treatment Outcomes"
+    excerpt: "An artificial intelligence (AI) model may help predict clinical outcomes at the time of laparoscopic assessment for advanced high-grade serous ovarian cancer (HGSOC), according to a study presented at the Society of Gynecologic Oncology’s Annual Meeting on Women’s Cancer,"
+    publishedDateTime: 2022-03-26T04:18:00Z
+    webUrl: "https://www.physiciansweekly.com/ai-model-may-help-predict-ovarian-cancer-treatment-outcomes/"
+    type: article
+    provider:
+      name: Too Old to Operate
+      domain: physiciansweekly.com
+    quality: 39
+    images:
+      - url: "https://www.physiciansweekly.com/wp-content/uploads/2022/03/image1648268285.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "tNsGstPNcFpptASmTgORPc/yMUR3eAwTwN42lFV5zyz6FcRSwz9PV1RoPl6WfVf2A1piXKFTrpLxrM25n8En7UED+AumgTq+FC+vXwsKlRt1st6GtKbqnO259GfLYL+B3nRse5nBePVE0TY7sTOn4kVi/N7gDwDezCu7AWp9bXALe93mLjCj7N4o/ql3tAaCM3n3BWaCG6u6MXg2j5rqsleRSZaaXChidhduFThW+IepeTTdB1SC/6iuilrCFOw7cG8+NK1QL1MW4V71l6TDfvRQHiIM3ZHXplruEYLWbVwGHFfHWhW8dqubpQgd8C4wyCZpAIhx+2CWXM8fV6kkEkYVR9Tx6erozdzeotd5fiLwB2v2GP9z4bm+tvrVMG8Ri+rAlkAzVYSANgjGb2aHnHPmM15sA0lkZF4GxWb37VzZHs+fJh4SUBtE9mrWTWvOAESKw0ObI644gfPGmRwWGONZr+J2i1y8ZT6UDheP2HJk7zvoG6ofe28jW4GiipV3Mirz4t0RZgFs8z7lQDjP2Q==;OKt5Pmc3EQl4WlmStep1gA=="
 ---

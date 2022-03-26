@@ -49,22 +49,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "How Is Artificial Intelligence Shaping The Future Of Work?"
-    excerpt: "AI is shaping the future of work in many ways, from the creation of brand new jobs to introducing robot colleagues into the workplace"
-    publishedDateTime: 2022-03-21T11:41:00Z
-    webUrl: "https://www.businessbecause.com/news/insights/8097/ai-future-of-work?sponsored"
-    ampWebUrl: "https://amp.businessbecause.com/news/insights/8097/ai-future-of-work?sponsored="
-    cdnAmpWebUrl: "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/insights/8097/ai-future-of-work?sponsored="
-    type: article
-    provider:
-      name: Business Because
-      domain: businessbecause.com
-    quality: 61
-    images:
-      - url: "https://www.businessbecause.com/uploads/default/news/images/1647346299.png"
-        width: 750
-        height: 468
-        isCached: true
   - title: "Artificial Intelligence key to unlock the future - Dr Kpodar"
     excerpt: "Artificial Intelligence AI use of simulation of human intelligence in machines that are programmed to think like humans and mimic their actions has assumed national discourse and Ghana must prepare to launch in that space."
     publishedDateTime: 2022-03-25T20:54:00Z
@@ -110,19 +94,14 @@ related:
         height: 675
         isCached: true
   - title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
-    excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),"
-    publishedDateTime: 2022-03-23T10:10:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
+    excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),"
+    publishedDateTime: 2022-03-23T10:05:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 14
 
 secured: "h7l3dzQV+oqXfDIhQFssCr+a5JWm9z0Ik0vSeYYvkzZ7T1ki/KXccyl/hUq1M7X6C95URcaO0FDdCigUcX/1ktGHKGGS4K0yqPAmOYvY0RuaF4qcgLNPt1zqRXawfxqcCvC8sz/2cBV/6eugmvzuZijOGmrh92AoKQxdPv350C3wJRCxAkaz0M7mg/7wE2hXHW0HL1cll2curLsFSM3QkD6ee9NH/ZLfWCXSBclvE5KepDsmCeUJKiPhz2ErcKMb0TVSLZbyFXa/BTPXzIeA8UNNcaTrYg9Wak5jjhbJiKZRJck2MbQNypJtlyyCQNXBI3fN9lEmVB2aqvln038QkjzsRXtXA40pNIcZyrM2Q6U=;fT49JZxdRnNBXENZwuoipA=="
 ---

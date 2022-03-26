@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
-excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),"
-publishedDateTime: 2022-03-23T10:10:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
+excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),"
+publishedDateTime: 2022-03-23T10:05:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
 type: article
-quality: 34
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
-  - AI in Autos
+  - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Diversity Is Key To The Future Of AI"
@@ -54,22 +48,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1647376951-GettyImages-1327016094copy.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "How Is Artificial Intelligence Shaping The Future Of Work?"
-    excerpt: "AI is shaping the future of work in many ways, from the creation of brand new jobs to introducing robot colleagues into the workplace"
-    publishedDateTime: 2022-03-21T11:41:00Z
-    webUrl: "https://www.businessbecause.com/news/insights/8097/ai-future-of-work?sponsored"
-    ampWebUrl: "https://amp.businessbecause.com/news/insights/8097/ai-future-of-work?sponsored="
-    cdnAmpWebUrl: "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/insights/8097/ai-future-of-work?sponsored="
-    type: article
-    provider:
-      name: Business Because
-      domain: businessbecause.com
-    quality: 61
-    images:
-      - url: "https://www.businessbecause.com/uploads/default/news/images/1647346299.png"
-        width: 750
-        height: 468
         isCached: true
   - title: "Artificial Intelligence key to unlock the future - Dr Kpodar"
     excerpt: "Artificial Intelligence AI use of simulation of human intelligence in machines that are programmed to think like humans and mimic their actions has assumed national discourse and Ghana must prepare to launch in that space."
@@ -125,6 +103,6 @@ related:
       domain: ft.com
     quality: 19
 
-secured: "f9bbqrkQQioUIXLhF/9hWu3UZTHqygw6iWdAka0sePNpIOb7oQLbxZPKoqsc2YVJo+Jd/SJAGjXe5NB5y3NnP3aVz/z5YwXzUTclmZ9bs80hqK7PqAPcC1I+mZMxFcUa4kR2Zy68mnvApW+JxzAhgSg1uoozAdu2FCog+O16AD1VC7q5DqpMwrhefnH230XSUx69t/Rh6pc8Bnc044x1kkRKC6oubeG7iLRCePd+keBbMfi2hbI2v4S2INDTB1GD/cKrxJqsZoZd4BTOQa2JX6YF1h91iW2xyoqLyHW8NXmCgoKyi2YNwygd3Mq0ZQaJ6tbY7LM16P+V9FED8cbaEBU01qWOEoXG2BfLgWB9VtQ=;NcgcwHeHqNUGOEr9jXOFtQ=="
+secured: "LJuRl8DHCjHR/niGRN3NoHPkL8ozzn4o0siIAJFSPjMBoobQ2vV6kvEYSZBVNTufXWo7teKxEjhgAZeB/N9cF5DwbJ+j5VEf4FSAkeoqqDceZhVfJOMl0yVrdlbHo3rhcCE7NDfKhN7krBSPd0lyO+rc5BwUzOp+7S4M3Jkz9qvqnLE7m0i472ANXcYgEqMyCNrRbtjR4FKMQ3M7K6ZQQpiPEiy4USvYbxhde9o8nRyq7e9Dnv30N35oNwL0CRdY4sKHqHhU09LE8sF7emQraqUP8vwVR+UepjaW3n76pbmEozutrfefUTA15P1EdcHxbACWRw+RYCtYfc1AnepsH05KDnEID2VWUF/LRIjIcmo=;3NG3ruVVNAxaD/TSki5KoA=="
 ---
 

@@ -39,20 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Neural Network Software Market 2022 Regional Outlook, Competitive Strategies and Forecast up to 2028"
-    excerpt: "Artificial Neural Network Software Market report introduces market competition situation among the vendors and company profile, besides, market price analysis and value chain features. Report ..."
-    publishedDateTime: 2022-03-21T11:51:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-neural-network-software-market-2022-regional-outlook-competitive-strategies-and-forecast-up-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "1Q8SJWvecLLYiIfWkFOAfPZA0Lp1qZffkECaOvvu+12r9Q06/Z5cifcfFDO43UREfXvJK+Zse3wtzjXFX+38EllPFBTUMaOtNpagul8xY+qIFdl5brhLUJlIx+UnlqtOqBPXyWIrRu96UPpB7Frz7e01YOAJzJX5+/9XXTgIVWySsP+KQszzO3cpAGWsMwbNbrZTmFeNCySWrJ13jRrE4VdIamDx2d+7RKD77IAXmYhsJd3KVpNqt9zCMANVQ5A+H3f8RraochSiyBB4S7hUEhnW3KBdWP75yDPdz9lnjjBZDOZ2SZrS3+UJywMIecgL269NlueEm5i9gHgo1flPKJTiZrR60CTNXSNPxsosdl19M7cH+V3XG/swGnufjB/pEBHbQ8EJuYZmixUjOKqHYni8sALoaVhOh7afQ0MZItWO7wHDaVuOhDxhSit0BvqJmTwxDJmL87E0A6ueZ6GkIT7t01S9wDj92IytgsHhsdWpPKTWzYFNd7p2jvY4liF+YSe+zZ/ujpvayibT7DU7mQ==;s5sYF0U/Q2sR6lsBocZ3dw=="
 ---

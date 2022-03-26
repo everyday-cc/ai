@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trus
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
         width: 1426
         height: 808
-        isCached: true
-  - title: "Ethics and AI: 3 Conversations Companies Need to Have"
-    excerpt: "While concerns about AI and ethical violations have become common in companies, turning these anxieties into actionable conversations can be tough. With the complexities of machine learning, ethics, and of their points of intersection,"
-    publishedDateTime: 2022-03-21T12:55:00Z
-    webUrl: "https://hbr.org/2022/03/ethics-and-ai-3-conversations-companies-need-to-be-having"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 54
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2022/03/Mar22_21_1169037207.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Ethics in AI: Why your organization needs a set of principles"
     excerpt: "Artificial intelligence has evolved by leaps and bounds in recent years. Artificial intelligence can create previously unimaginable solutions."
