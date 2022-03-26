@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-ai-tech-lets-computers-u
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-ai-tech-lets-computers-understand-the-3d-world-from-2d-photos/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/dgx-h100-superpod.2e16d0ba.fill-1200x630.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "NVIDIA Instant NeRF tech converts 2D photos into 3D scenes in the 'blink of an AI'"
+    excerpt: "NVIDIA Research has unveiled its latest AI technology, Instant NeRF. It is faster than previous NeRF models and can turn a series of 2D images into a 3D scene in seconds."
+    publishedDateTime: 2022-03-25T20:21:00Z
+    webUrl: "https://www.dpreview.com/news/7507822053/nvidia-instant-nerf-tech-converts-2d-photos-into-3d-scenes-in-the-blink-of-an-ai"
+    type: article
+    provider:
+      name: Digital Photography Review
+      domain: dpreview.com
+    quality: 33
+    images:
+      - url: "https://3.img-dpreview.com/files/p/E~TS940x788~articles/7507822053/nvidia-research-instant-nerf-banner.jpeg"
+        width: 580
+        height: 435
         isCached: true
 
 secured: "DHKnx1Xb4LCM2RedE1XCwbJkc+bsta1jMCkJtiHcWo2qaiNGWvGZWS0YccFd3+8x4AyjR+TarKxrqMfHCPMIkk71PNJRtJtnLMYy+tbpVrik1glXcRihCA4VQ6YtmeKjTliq9rxk/jo+xD89B2E40qpTAmtd87m5IDf08N1/RsA6T8jkx+wtjTeB20C4nw5/Y2PEvIEEC7weKMv7ihZS7z7xkibBAhJaEWKQ8ZOEilZ2MAlmvGSYpEepS1r8UHTj+k4C7AnH3VoD7Lupb8f87jQwpgnTpmVKBX3dJHC91TbqTYe0jJktsBe/7hKsSbySPVPOJdQgiEIaxHL//gT9XRKbLLg7ADjtCYXvofPaoCpz+xZGrU2es5rw9Qn1VD0mnEOiD4sagfpf9v5TSDRI0XVSBogeNB8UXHh34gIAVMtNFu5NRaJ7A5GBUv5s3R/ibioXoSBc5rAt90YPxbfAt41lHjRkWonGP4RNGEkiZEd3jMIEa779Xwk3P3Wi95KOGdExEjuq011rGEHTojTBQQ==;WPq5CWwxqNUBcjgx2SmrKw=="

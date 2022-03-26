@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleash
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech/amp/"
 type: article
 quality: 123
-heat: 343
+heat: 353
 published: true
 
 provider:
@@ -33,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia launches a new GPU architecture and the Grace CPU Superchip"
+    excerpt: "Nvidia announced its next-gen Hopper GPU architecture and the Hopper H100 GPU, and a new data center chip that combines the GPU with a high-performance CPU."
+    publishedDateTime: 2022-03-22T16:17:00Z
+    webUrl: "https://techcrunch.com/2022/03/22/nvidia-launches-a-new-gpu-architecture-and-the-grace-cpu-superchip/"
+    ampWebUrl: "https://techcrunch.com/2022/03/22/nvidia-launches-a-new-gpu-architecture-and-the-grace-cpu-superchip/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/22/nvidia-launches-a-new-gpu-architecture-and-the-grace-cpu-superchip/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-93474669.jpg?w=1024"
+        width: 1024
+        height: 775
+        isCached: true
   - title: "GTC 2022: NVIDIA flexes its GPU and platform muscles"
     excerpt: "NVIDIA's CEO Jensen Huang's 1 hour, 39-minute keynote covered a lot of ground but the unifying themes to the majority of the two dozen announcements were GPU-centered, and its platform approach to everything it builds."
     publishedDateTime: 2022-03-23T03:17:00Z

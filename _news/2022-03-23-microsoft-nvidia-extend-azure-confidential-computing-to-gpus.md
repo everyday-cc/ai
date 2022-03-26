@@ -221,29 +221,6 @@ related:
         width: 612
         height: 612
         isCached: true
-  - title: "IonQ Aria, Newest Quantum Computer, Coming to Microsoft’s Azure Quantum Platform"
-    excerpt: "IonQ and Microsoft have partnered to bring the IonQ Aria system to Azure QuantumIndustry’s most powerful quantum computer enters expanded commercial serviceCOLLEGE PARK, Md.--(BUSINESS WIRE)--IonQ (NYSE: IONQ),"
-    publishedDateTime: 2022-03-21T17:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=634454"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 49
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "IonQ Aria Coming to Microsoft’s Azure Quantum Platform"
-    excerpt: "Quantum computing company IonQ today announced it has signed an agreement with Microsoft to bring IonQ Aria, the company’s latest quantum system, to the Azure Quantum cloud platform. IonQ said the IonQ Aria is its most advanced commercially available quantum computer."
-    publishedDateTime: 2022-03-21T17:13:00Z
-    webUrl: "https://insidehpc.com/2022/03/ionq-aria-coming-to-microsofts-azure-quantum-platform/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 34
 
 secured: "UPTWEjO0HEgNkfYwypCaIarQ55YKbgRQiXwTJVuT8AkyF+2JrmFCYqj0u+shuGHfWhLCMg2kwKZE6CLjPfYEVd+elo3KptxDam2CBZENjiFT1KYWhtgaGIBXikbaAV8pgzHijJB3nhyTbqi9AkHlwEPPGW4aDZmploN0Vte5AkdsBBLmhf5S1LpQ+zUs65o/B5oskIujJCZrWIwvhUKMR0AtEduA0tIXZiYZZBn/PcAc6P9qllWnjCYZCXeKviMlFhfrNwjyFFudzEewhWuK1N+T6IRG/WulmgpLzFXZ6IBHfB/8gg8ueuIczU30AIhD6GmU9Rg6hat/RGurmM3JqVCsxOi0Udz8tQuoJ2+J+Zc=;mNCmwB8s8mVbLbDrye1l9Q=="
 ---

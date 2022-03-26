@@ -2,6 +2,83 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-03-12-deepminds-ithaca-ai-is-helping-decipher-damaged-ancient-greek-texts.md",
+      "title": "DeepMind's Ithaca AI Is Helping Decipher Damaged Ancient Greek Texts",
+      "excerpt": "Google says its DeepMind AI, Ithaca, can now decipher ancient Greek texts from damaged artifacts. Ithaca is said to be even better at Greek text restoration tasks than its predecessor, Pythia.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/deepminds-ithaca-ai-is-helping-decipher-greek-texts",
+      "originalUrl": "https://hothardware.com/news/deepminds-ithaca-ai-is-helping-decipher-greek-texts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/57948/content/ai-ithaca.jpg",
+          "width": 708,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/deepminds-ithaca-ai-is-helping-decipher-greek-texts",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/deepminds-ithaca-ai-is-helping-decipher-greek-texts",
+      "publishedDateTime": "2022-03-11T09:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-12-deep-learning-is-hitting-a-wall.md",
+      "title": "Deep Learning Is Hitting a Wall",
+      "excerpt": "\"Let me start by saying a few things that seem obvious,\" Geoffrey Hinton, \"Godfather\" of deep learning, and one of the most celebrated scientists of our time, told a leading AI conference in Toronto in 2016.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/news/259244-deep-learning-is-hitting-a-wall",
+      "originalUrl": "https://cacm.acm.org/news/259244-deep-learning-is-hitting-a-wall",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-11T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-11-ai-could-help-you-understand-animal-speech.md",
       "title": "AI Could Help You Understand Animal Speech",
       "excerpt": "Researchers in Copenhagen may have found a way to translate animal sounds to human speech, making it easier for us to communicate with our pets and other animals.",
@@ -1028,101 +1105,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-vulnerable-pacific-islands-look-to-data-to-cope-with-disasters-and-help-heal-the-environment.md",
-      "title": "Vulnerable Pacific Islands look to data to cope with disasters and help heal the environment",
-      "excerpt": "This will streamline and accelerate the development of high-impact solutions. SPC is also leveraging Microsoft Azure Machine Learning and Azure Cognitive Services to build insights-rich solutions. The Pacific Ocean as seen from space. Photo: Getty.",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/apac/features/digital-earth-pacific/",
-      "originalUrl": "https://news.microsoft.com/apac/features/digital-earth-pacific/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2022/02/Pacific-main_Resized.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T08:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-10-microsoft-distinguished-engineer-offers-insights-into-the-future-of-women-in-stem.md",
-      "title": "Microsoft distinguished engineer offers insights into the future of women in STEM",
-      "excerpt": "Today, she is a distinguished engineer and corporate vice president at Microsoft. Iyer currently ... the future market for women in STEM. The cognitive and analytical requirements of STEM jobs ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/03/10/microsoft-distinguished-engineer-offers-insights-future-women-stem-wids2022/",
-      "originalUrl": "https://siliconangle.com/2022/03/10/microsoft-distinguished-engineer-offers-insights-future-women-stem-wids2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/Rukmini-Iyer-WiDS-2022.jpg",
-          "width": 6240,
-          "height": 4160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T07:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

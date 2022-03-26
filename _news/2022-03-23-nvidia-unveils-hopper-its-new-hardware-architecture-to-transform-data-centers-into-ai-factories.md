@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 657
         isCached: true
+  - title: "Nvidia launches a new GPU architecture and the Grace CPU Superchip"
+    excerpt: "Nvidia announced its next-gen Hopper GPU architecture and the Hopper H100 GPU, and a new data center chip that combines the GPU with a high-performance CPU."
+    publishedDateTime: 2022-03-22T16:17:00Z
+    webUrl: "https://techcrunch.com/2022/03/22/nvidia-launches-a-new-gpu-architecture-and-the-grace-cpu-superchip/"
+    ampWebUrl: "https://techcrunch.com/2022/03/22/nvidia-launches-a-new-gpu-architecture-and-the-grace-cpu-superchip/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/22/nvidia-launches-a-new-gpu-architecture-and-the-grace-cpu-superchip/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-93474669.jpg?w=1024"
+        width: 1024
+        height: 775
+        isCached: true
   - title: "GTC 2022: NVIDIA flexes its GPU and platform muscles"
     excerpt: "NVIDIA's CEO Jensen Huang's 1 hour, 39-minute keynote covered a lot of ground but the unifying themes to the majority of the two dozen announcements were GPU-centered, and its platform approach to everything it builds."
     publishedDateTime: 2022-03-23T03:17:00Z
@@ -328,6 +344,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "CuEXEAKj7jPBbetxbbpU0/nEwaE3o/v7r/EXdxeksOveTFzRGRnybUUxP1Y8AudLjxmCCKVfE63Kn1PUmBbloaXE4xICjIunmloOBwQzO3WQbNrtMPnuTO2zL3KMhvz0NyPjsHCXhGCp9jESZdQht8cg3ZKbK+6NZfqIcrmoWcWyW6LTjVuiZbe4kzWL1P73gE/GeW4ebQiK/ZcO8GGiC9WMbiBxhX84Xsin+Xadyf0Jrw0aHKcyYRf0jzBiCJndVDeIMelm6daUzinjil5AxRvG7plPdoOxP/7TkWFTVRBsTHtZZMDTmX50uBT1kBS0joW/EvJ/YBbGAFj7wiJ3xvR8z5p94x3d7sOyt5GXznQ=;+O++sG6WrJsNfkraYeQWSg=="
+secured: "311ZJXd682ona4aEaj8nB7c0vlxnQ+G+vC0dTjxc9xKmbrEtpVblNJ2PRNppHdW8KNHReyqKuwtdBi7/vCyCuueRNcC8F52YDBZk7Jm22eTo2d/hgxQnFAY13vWm2hSXdDKC5+DkW3hlfNWjUlOXD/4PmYRRWJk4TTw7JRqgB9jAQF/RtiZSyaj9yy6Xm+M5C3tUe4uqHOYRaXp+axDZl6ramcCQrJKv5ZyZQyt6UIVssOVebEADwnN2/PNE5QJ7Y88zbVoonq9/XY6zChj760+eSUNmuun3tuzsIEaXhC7Dhs7tdOguutG4Moxlw/fBdVapnREHbeCwpfguuUFgGnl//9Mrm6hnOzS6tCfQ8AlrgHBmVwjYZpIoCK/aa1rksIZo7nXKPFdZaToZbghX1V70NIgttXyIgsdkCnd0cMUyyeoqRoztB6jfJoYDU/uiz+BHk/E0PyolQMrudH7A1VCtxpbsGE1r58Y7ZzzOkpslIqo9IZvbd5ENtxA7aWfaye97UyTnKGBf/y03xDiaQg==;TgMII9Dgxi4P29cQBYpTQw=="
 ---
 

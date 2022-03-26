@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-23T00:10:00Z
 originalUrl: "https://www.linkedin.com/pulse/how-10-ai-experts-shaping-artificial-intelligence-italy-colangelo"
 webUrl: "https://www.linkedin.com/pulse/how-10-ai-experts-shaping-artificial-intelligence-italy-colangelo"
 type: article
-quality: 51
-heat: 61
+quality: 53
+heat: 63
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQGYEVaB97MMtw/article-cover_image-shrink_720_1280/0/1647963771982?e=1653523200&v=beta&t=0AJinew_GW7xs3dhAIT0JKt1adq9YxnnhSswWpUdY38"

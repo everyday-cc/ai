@@ -3,8 +3,8 @@ category: news
 title: "ModalAI, Inc. Named Winner in 2022 Artificial Intelligence Excellence Awards"
 excerpt: "The Business Intelligence Group today announced that ModalAI, Inc. was named a winner in its Artificial Intelligence Excellence Awards program. ModalAI was selected for its groundbreaking VOXL autonomy platform that enables hundreds of integrators to develop smaller,"
 publishedDateTime: 2022-03-22T13:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-san-diego-artificial-intelligence-d79047d3821b4601975329c3ef979261"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-san-diego-artificial-intelligence-d79047d3821b4601975329c3ef979261"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-san-diego-artificial-intelligence-d79047d3821b4601975329c3ef979261"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-san-diego-artificial-intelligence-d79047d3821b4601975329c3ef979261"
 type: article
 quality: 51
 heat: -1
@@ -135,6 +135,6 @@ related:
         height: 249
         isCached: true
 
-secured: "J+Do5OhS53s4L6Rq1MnfZ3pdurNca9PLdr1gFpHPO1ikp5LPlWqzhdJTVhJidd4lmjRko86vSzZNbXf6MrwTqQaBaYP8G1+Vax0mKcRiy1jndt1mqfChXcfMo3wqz3zWaCiFiCiGQUcMW3vnrrms/0fzENRhQbifWjSoO64VZOvdmp3zzZsathrdX06HRKwEemkttuVDeAwFLH/Z6NXtWviutywsWzqvSMXfbeqUt1eKZFFJuhAN/zLOM6JogX8x1gYYJDkppHhDozX/K3+LhQKehg3rnT4iQaE/ff8YPdkvT2ErrzMwzyuWJ9cX8MWqGDB3QvnMgZezC0MbARjjEaH9TC6EMVtnePTZA6evl2E=;DNIQy2CTVrnz5pUIDSg3oA=="
+secured: "aXo8UFWmXX1KMX+zTCuxySylqx0hWMFE+ROKe04KNptnUanjIcTd2VKjvoBk0MOzgaP265XbWSEIgd2G0WLTQQy/ggkF6n55QTRN57eZ/FXcoREJquEMdUHWqk0IkZfRLcnW+GeOUQtL/AWYovNs89LtPwM6dyc4vNu3EipMEX0+gGHIZRpYN5XLeVxSTJpVo7nncmH5fUixlJgcZaC7hsQ8F90A3sUTya9UP5+0R9s6bgm3La0cfAUBc6DoAyjT9juUEwD43g+QO99jKx6P4rnEd8ZwA2UbfQ7RPr79FKxdMo2jg1Q5CYnVumUS82/u+UtwJZfHSkA4Qw6JI3VvaAfvRQsfawRBjbvtTeogztg=;VFI0pohcm8W7/YIB/84BJQ=="
 ---
 

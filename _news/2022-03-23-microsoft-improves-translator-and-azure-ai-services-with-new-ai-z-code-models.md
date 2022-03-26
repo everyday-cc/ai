@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-improves-translat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/"
 type: article
 quality: 117
-heat: 267
+heat: 247
 published: true
 
 provider:
@@ -226,29 +226,6 @@ related:
         width: 612
         height: 612
         isCached: true
-  - title: "IonQ Aria, Newest Quantum Computer, Coming to Microsoft’s Azure Quantum Platform"
-    excerpt: "IonQ and Microsoft have partnered to bring the IonQ Aria system to Azure QuantumIndustry’s most powerful quantum computer enters expanded commercial serviceCOLLEGE PARK, Md.--(BUSINESS WIRE)--IonQ (NYSE: IONQ),"
-    publishedDateTime: 2022-03-21T17:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=634454"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 49
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "IonQ Aria Coming to Microsoft’s Azure Quantum Platform"
-    excerpt: "Quantum computing company IonQ today announced it has signed an agreement with Microsoft to bring IonQ Aria, the company’s latest quantum system, to the Azure Quantum cloud platform. IonQ said the IonQ Aria is its most advanced commercially available quantum computer."
-    publishedDateTime: 2022-03-21T17:13:00Z
-    webUrl: "https://insidehpc.com/2022/03/ionq-aria-coming-to-microsofts-azure-quantum-platform/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 34
 
 secured: "UmUDSX06psYOjPiyed4RiTPWy27xKdPfiSRzjBOxB4AY9ofJWN2mQSxK5bS25Ya23hw5XmHSsNHNepdnYj3S4DclWyecCcgs0tbFXaYBLP6l7VHGAEe9q4NOovD4WCX5StlwBodqSpfINgO8Y5+VtuApibzRRkmh0+6/PQFYlBPXDWYxdn1D3Vm0X+Z3SoQrx4pn5tEa9Y0M9pkWSmNwFNdC3QiswqjMFLUq0N7GxcbVPlKJ2nR6PVYlrI10sziPViLvoLp+XH1f5MmmPHocUMjMeuaqnBYVPGaW+S5tQBBf/e8/JCYOwT21d8U9A+81fcgMRNh+p2z3G283dvvC8atdj/Uz7DvY+eGwUK6pg30=;VTounb4/AqNOTq8Y4hQEzw=="
 ---

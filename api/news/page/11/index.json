@@ -2,6 +2,92 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-03-14-enotai-announces-solution-for-optimising-deep-neural-networks.md",
+      "title": "Enot.ai Announces Solution for Optimising Deep Neural Networks",
+      "excerpt": "Enot, an artificial intelligence firm, has announced the creation of a framework dedicated to optimising deep neural networks.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/enot-ai-announces-solution-for-optimising-deep-neural-networks/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/enot-ai-announces-solution-for-optimising-deep-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/03/Enot.ai-Announces-Solution-for-Optimising-Deep-Neural-Networks-01.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/enot-ai-announces-solution-for-optimising-deep-neural-networks/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/enot-ai-announces-solution-for-optimising-deep-neural-networks/amp/",
+      "publishedDateTime": "2022-03-14T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-14-artificial-intelligence-is-redefining-the-travel-industry.md",
+      "title": "Artificial Intelligence is Redefining The Travel Industry",
+      "excerpt": "Artificial intelligence (AI) is transforming the travel industry by offering predictive analytics, tailored recommendations and live updates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/technology/artificial-intelligence-is-redefining-the-travel-industry",
+      "originalUrl": "https://www.bbntimes.com/technology/artificial-intelligence-is-redefining-the-travel-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/companies/Artificial_Intelligence_is_Redefining_The_Travel_Industry.jpg",
+          "width": 1000,
+          "height": 521,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-14-deep-neural-networks-market-import-export-supply-and-consumption-analysis-by.md",
       "title": "Deep Neural Networks Market Import-Export, Supply, And Consumption Analysis By",
       "excerpt": "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to be driven owing to extensive rise in the",
@@ -1061,83 +1147,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-12-deepminds-ithaca-ai-is-helping-decipher-damaged-ancient-greek-texts.md",
-      "title": "DeepMind's Ithaca AI Is Helping Decipher Damaged Ancient Greek Texts",
-      "excerpt": "Google says its DeepMind AI, Ithaca, can now decipher ancient Greek texts from damaged artifacts. Ithaca is said to be even better at Greek text restoration tasks than its predecessor, Pythia.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/deepminds-ithaca-ai-is-helping-decipher-greek-texts",
-      "originalUrl": "https://hothardware.com/news/deepminds-ithaca-ai-is-helping-decipher-greek-texts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/57948/content/ai-ithaca.jpg",
-          "width": 708,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/deepminds-ithaca-ai-is-helping-decipher-greek-texts",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/deepminds-ithaca-ai-is-helping-decipher-greek-texts",
-      "publishedDateTime": "2022-03-11T09:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-12-deep-learning-is-hitting-a-wall.md",
-      "title": "Deep Learning Is Hitting a Wall",
-      "excerpt": "\"Let me start by saying a few things that seem obvious,\" Geoffrey Hinton, \"Godfather\" of deep learning, and one of the most celebrated scientists of our time, told a leading AI conference in Toronto in 2016.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/259244-deep-learning-is-hitting-a-wall",
-      "originalUrl": "https://cacm.acm.org/news/259244-deep-learning-is-hitting-a-wall",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-11T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

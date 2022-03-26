@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 657
         isCached: true
+  - title: "Nvidia launches a new GPU architecture and the Grace CPU Superchip"
+    excerpt: "Nvidia announced its next-gen Hopper GPU architecture and the Hopper H100 GPU, and a new data center chip that combines the GPU with a high-performance CPU."
+    publishedDateTime: 2022-03-22T16:17:00Z
+    webUrl: "https://techcrunch.com/2022/03/22/nvidia-launches-a-new-gpu-architecture-and-the-grace-cpu-superchip/"
+    ampWebUrl: "https://techcrunch.com/2022/03/22/nvidia-launches-a-new-gpu-architecture-and-the-grace-cpu-superchip/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/22/nvidia-launches-a-new-gpu-architecture-and-the-grace-cpu-superchip/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-93474669.jpg?w=1024"
+        width: 1024
+        height: 775
+        isCached: true
   - title: "Azure confidential computing with NVIDIA GPUs for trustworthy AI"
     excerpt: "Confidential computing technology encrypts data in memory and only processes it once the cloud environment is verified, helping protect data from cloud operators, malicious admins, and privileged software. Today, we are excited to announce the next chapter in a strategic partnership between NVIDIA and"
     publishedDateTime: 2022-03-22T10:00:17Z

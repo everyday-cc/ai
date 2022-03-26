@@ -66,6 +66,20 @@ related:
       name: finanzen
       domain: finanzen.at
     quality: 39
+  - title: "Zesty.ai Receives $10M in Growth Capital"
+    excerpt: "Zesty.ai, a San Francisco, CA-based provider of predictive data analytics in the climate risk space, received $10M in venture debt financing"
+    publishedDateTime: 2022-03-26T11:08:00Z
+    webUrl: "https://www.finsmes.com/2022/03/zesty-ai-receives-10m-in-growth-capital.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/03/zesty.png"
+        width: 1251
+        height: 1251
+        isCached: true
   - title: "Brex Helps Zesty.ai Scale With $10 Million in Venture Debt"
     excerpt: "U.S. fintech company Brex, the company reimagining finance for growing businesses, has provided $10 million in growth capital via venture debt to Zesty.ai,"
     publishedDateTime: 2022-03-24T15:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/03/24/democratization-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/24/democratization-of-ai-is-said-to-be-essential-for-ai-ethics-but-the-devil-is-in-the-details-including-the-case-of-ai-based-self-driving-cars/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.fooddive.com/user_media/cache/6c/af/6cafc7b0ad62fa71e243ce9744c6190b.jpg"
         width: 770
         height: 364
+        isCached: true
+  - title: "Development of a new high-precision ai-based translation engine specialized for the financial sector"
+    excerpt: "The National Institute of Information and Communications Technology (NICT) and the Financial Services Agency of Japan (JFSA) worked together to develop a new AI-based translation engine that can translate documents between Japanese and English in both directions with high accuracy."
+    publishedDateTime: 2022-03-23T08:03:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/947186"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/9f499d5a-8abb-46b6-bddb-8bd482d342d2/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 251
         isCached: true
   - title: "AI-driven Decision Making in Startup Investing"
     excerpt: "Bringing AI-driven decision making to startup investing is a hotly-debated topic. Conversations quickly turn to startup investing being an artisan trade that AI can’t capture the nuance of, and concerns are raised that algorithms will exacerbate known biases in the system."

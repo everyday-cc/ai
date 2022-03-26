@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
-excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),"
-publishedDateTime: 2022-03-23T10:05:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
+excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),"
+publishedDateTime: 2022-03-23T10:10:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
 type: article
-quality: 14
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Microsoft AI
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Diversity Is Key To The Future Of AI"
@@ -93,6 +99,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial Intelligence is the future - Dr. Kpodar"
+    excerpt: "Dr. Chris Kpodar, the Chairman and Chief Executive Officer of Solomon Investments Ghana Limited, says artificial intelligence (AI) represents the future and that should be the direction Ghana should be going."
+    publishedDateTime: 2022-03-26T10:59:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/regional/Artificial-Intelligence-is-the-future-Dr-Kpodar-1500107"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 37
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/580/58088361.jpg"
+        width: 600
+        height: 250
+        isCached: true
   - title: "Back to the future: driverless cars become reality"
     excerpt: "One industry insider said the relaxed rules in US states including California and Nevada, which was the first to allow driverless cars on its roads in 2011, has also played an important role in propelling the growth of domestic players."
     publishedDateTime: 2022-03-22T19:10:00Z
@@ -103,6 +123,6 @@ related:
       domain: ft.com
     quality: 19
 
-secured: "sk7O/BEyjuLC92O0/dbifYnqjHCAd0LUEqrBnqED9sw4EarpxGWtQrBV5r1+Kq7RJS46hPRDLm4eGw0MTdtOVEN85rpO8wapayA6hNAuQEc/wjmlx2ILPckEw1epLSqY3p0H2tQBrxuXJt1Y9rSr3jNZanb4tH4yi/01+I1yF/TVvN2LiJoXQTa+UTo+OhKV4eXB5J9rxJpVsc1IOPyqZBsZo41k4Ditz/e4HvSeDpamN2LgkIKgOOw8JY80RHUsigWENe8ojM+KMqJmxG/OcLHrarGlBfbyzh9BuyRTSMQvKgOfM9r/HhXzYlGpTHqIhje8uBcBkY9ELzYdYOGtcF7AHbYuA7gC+lfu5MpIKSA=;hQaO2+nuuX037I8XeA2X1w=="
+secured: "jCt87V7tkyNmShe/vlRv1ciEl+/QNiml7BJ0H2P7FNZDymn9LCAbvMpiFRSZSOdLVRqgmmnVBYa0tRbqJjWPVwZvCycz3oENVc7+U5maR9C7rLGtsb9WRUV5s5El76fbstK20dg45/5zDN1Op5+qGszzPZ/oH+KzeDFVWMKeILLdz4EE0+0BSCdtP4TMJhSDTO4JG6dzY2nieyrLuovt+8n5vDCVDkcbcJeNFL+JRr/ZZF/Lkblcg2YqBVLvyE7Shan2ibQ+wOEe7sqCdhULLOAd1aUThXoJKJgl9TKSPi1aAy+j/xiwU+4QSQJRSGZu0Kzb7yu1fL/lWVAyd7wpVII7QozPFntr90XT2xIo9yc=;PxX4XPUhXVdVAcn9x6RRTA=="
 ---
 

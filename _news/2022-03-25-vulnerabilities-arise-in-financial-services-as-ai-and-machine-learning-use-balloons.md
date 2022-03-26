@@ -7,7 +7,7 @@ originalUrl: "https://www.risk.net/market-access/technology-and-data/7942636/vul
 webUrl: "https://www.risk.net/market-access/technology-and-data/7942636/vulnerabilities-arise-in-financial-services-as-ai-use-balloons"
 type: article
 quality: 50
-heat: 71
+heat: 70
 published: true
 
 provider:

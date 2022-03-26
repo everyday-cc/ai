@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-25T20:09:00Z
 originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -91,6 +90,6 @@ related:
       domain: morningstar.com
     quality: 17
 
-secured: "CzdlljZ7ynftuyZzW9M1zBhfNdsSCPfCEj0tXeYCiAJK2Bo76vv7bma7pE08PVBhjEI+DskMLdyzkoBo/+2DEUQ02NCFYgbxrT2dZhbstahjJBOTidDPlI6/ZKMD2YfBQEBEBYCBDYZicx42x+VpNzDUG+5iZ+rF612gSP7VsIfEEF+wEXqNiJNhzJOSXdkz16kBu0yKlF9EuBgnicsqckpNdM9XG4USvWc1ODMfVSo+wBnV1xqj8KUIZZWaWIkV9KoqGmg/lzRb5yFYFwUyhp4BecrgQ2UB8gpTo8JqRK4sa37FkMMF4djM9ZvRPUyKundPMRgg5CKd8bWKAfMMzLjwlZuNGkXFdbAeWc2BwXE=;oUz3eozYh3+qT8FT978hqQ=="
+secured: "d5dwTBZAbBoSyGNFjyspOLcc62mKoTIX6LMe9UZK/3FVlksmLHecMLuorUeijMByCMbYrn3V5LDpNanWYoXc+S/IITdq+ul0apeAnch74wTm+e5fc7UFStzVgzNmFWuTqf28LvQJWgJ+eQJMHqBr+DC6oRRBt8D5s7PIm5yW+hjUdLsGWvgrwOGNRrFwO90DQbUcqRVI5BH1sFP4AxNODohvCl7gJf2ZIH6wN2XNZJjpKje6yG3qqG9ZxAy0X87/+ALX31DTSRNU7rQxa6wdfxFzHp9l1JhmL6ssaS3+LDi76mQp3hOpBN8NUjFTyOSpm4HWNpicQlcV53tAavNVszsOdjVmziKki1sMMFE3PVI=;GcTWO79Vc4tufBTQO+zmpw=="
 ---
 

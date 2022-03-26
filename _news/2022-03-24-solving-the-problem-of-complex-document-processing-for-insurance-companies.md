@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/brandfeature/the-business-reporter/main-hu
 webUrl: "https://www.reuters.com/brandfeature/the-business-reporter/main-hub/solving-the-problem-of-complex-document-processing-for-insurance-companies"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 4206
     height: 2366
     isCached: true
-
-related:
-  - title: "Self-Driving Truck Stock TuSimple Is Rising. The Company Is Looking for Partners."
-    excerpt: "Self-driving trucking-technology company TuSimple believes it can unlock value by looking for partners, and possibly selling a portion of a subsidiary. Investors appear to agree. TuSimple (ticker: TSP) announced Monday it would “explore certain transactions” for its Asia-focused business."
-    publishedDateTime: 2022-03-21T18:02:00Z
-    webUrl: "https://www.barrons.com/articles/tusimple-stock-autonomous-trucks-51647871283"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tusimple-stock-autonomous-trucks-51647871283"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tusimple-stock-autonomous-trucks-51647871283"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 39
-    images:
-      - url: "https://images.barrons.com/im-508721/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "HItnIeTO+DzLkwgfP68id2RUSd20ymGW7eYXsqGuASx+u4MeITsgZeZ5+oYTvOkFyLRarnvnPWZbG8JBAkHvGRUIj4m+UZuFgHl4o945jgrYJbNDg2WDlXEjq4N670IQ8qci6rxLrmD8vdN1NvUzEbZRQYUaT9ACTNiMtzX+Df0I1tW2enKvsjtJUGvZTbF5LOai8CmKYeSmELKmgAchs9v+m9GT0ZwVbYtMy72TPStlmlyVyhO/yHKK86Cmkxu/te6Nqku93ZIBqV/chCpAt1ueJVjPUooEK/K6Q2BHRv5KVl3wttnPsk7ehXrhjLCNelsTzkNunPGzVsB6h6C44MohYEovLaGl2RiUtqXJvzc=;WskfMaz+1FamtcQxO2kKGA=="
 ---

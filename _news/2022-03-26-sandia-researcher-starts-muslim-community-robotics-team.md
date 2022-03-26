@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/k-12/sandia-researcher-starts-musl
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team?_amp=true"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

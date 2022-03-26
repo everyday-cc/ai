@@ -1,29 +1,30 @@
 ---
 category: news
 title: "Inspur Information and Feinberg School of Medicine at Northwestern University Improve Patient Outcomes Using AI and Machine Learning"
-excerpt: "AI report analysis ensures that lung patients receive necessary follow-up care after medical diagnostic imagingSAN JOSE, Calif.--(BUSINESS WIRE)--At NVIDIA GTC, Inspur Information announced the results of its partnership with the Feinberg School of Medicine at Northwestern University in leveraging artificial intelligence (AI) to advance medical research and healthcare."
-publishedDateTime: 2022-03-25T16:09:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=637255"
-webUrl: "https://us.acrofan.com/detail.php?number=637255"
+excerpt: "At NVIDIA GTC, Inspur Information announced the results of its partnership with the Feinberg School of Medicine at Northwestern University in leveraging artificial intelligence (AI) to advance medical research and healthcare."
+publishedDateTime: 2022-03-25T13:09:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-northwestern-university-diagnostic-imaging-d7399cded95c41719cb6bd15c518a0a7"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-northwestern-university-diagnostic-imaging-d7399cded95c41719cb6bd15c518a0a7"
 type: article
-quality: 23
-heat: 23
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Machine Learning
+  - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "R/K0vq4WwYuOJJXOckDUbagZWGjhtPjLWEZvUrcECkbX9sg8RqNzgdOTX/jmJs95FMFq4o+JozcuTV6qslLl1olzoVzCQ+MEUAEkI8CwMhZHt8dTJRaDZ72gsp8zb8+oKKe3AmAiq1GkOUczWG6Hx4ilp1KCoGjsHJyoOgMZTE0IM8tjfbNsKdd0L3uhC3Md1lKNrgGPd1EuMxY1lpgvNFSvb0Ds2j76xtm6jPARgV6eP5+1jEIy6bwIAxZ/mNK5dzeZEFRPJgqdKsqgG6Rjt14rR5LLvWgINujBupU/O7rGN4WTD5fme+23KIVTvEFFgOSemZR2dsRCZ22DRfhUxXLcu/WpLaojevzlPX/Qd8I=;/TedCKgqlObkx8jLe6lHDQ=="
+secured: "KNEiPxYX6qZQA1pURok9PdRI+gdgmFhIV/8wu0s/9iJXSluGIfgQJ7b6wI4TsOHfwoRwhyW48WIMdTfWAPzAwzcfeMRSS8IiUIwzxUx1oggb9VVrlU4TiAoEFCNYNGOPYagXrG2U8LutShNWyi051SUzmd7MG0jLS7kumffFemVEpAjBXHKPSmu4zojdC6IyMogFWhGXml3koTNqSQS4Ee8IAKGQzZS8dtGixEGiIHfNi6Qrn6djm/zoQ4NzY2AG//gvZUEcCHDZJihtedCypoWHJg7UnSiRIq8HJXmWMlJ7b5gBURwwtLN3NIOyxv3U4OjtDBFL/HpqmrjG4WadJMgL/iQcrXdjVg05SPAhv90=;rmZvcKMmGe+FSLQz5Pgohw=="
 ---
 

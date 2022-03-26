@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NVIDIA Instant NeRF tech converts 2D photos into 3D scenes in the 'blink of an AI'"
+    excerpt: "NVIDIA Research has unveiled its latest AI technology, Instant NeRF. It is faster than previous NeRF models and can turn a series of 2D images into a 3D scene in seconds."
+    publishedDateTime: 2022-03-25T20:21:00Z
+    webUrl: "https://www.dpreview.com/news/7507822053/nvidia-instant-nerf-tech-converts-2d-photos-into-3d-scenes-in-the-blink-of-an-ai"
+    type: article
+    provider:
+      name: Digital Photography Review
+      domain: dpreview.com
+    quality: 33
+    images:
+      - url: "https://3.img-dpreview.com/files/p/E~TS940x788~articles/7507822053/nvidia-research-instant-nerf-banner.jpeg"
+        width: 580
+        height: 435
+        isCached: true
 
 secured: "U7VsKzRFhd/yyl0zsydWLmREX2swGPZkQsigO8lpvRy0iQgKZ1JnrBA/0p/hmcdWW6ZqPBgJLZ/Znsmqc6GoVfgcwCtSL5Ugi+WEjVSuHQvCBBuwvZoG4AkRX880uTbRdDncVKenhD/KdC/DtIOlSXT/0Tk7NDRWMowudiyF6X4a3SJMMxZ5RA559GPTyU6QLAh7xVFcS8iyPwiQQfOaH5TcqD3Zsy705BDIcQoiLpmHbGo4adek7XqWRm7wJ2+b2ovSuE6tKUqCNEdxU/loy/6/d64KFGSctNFyyXD5emMoD57koDzNw5XzhPjdAvVvhyjPbdUJK5kQJdsAdVagm/2LvYlqRlzY7irNFJ740digz7JJK2PJGwUwkHmDZUOGZQdD9gNrF4t7Cht5Nql+EjWdRPWPWMlslxv0fUfxEUIeCiMwe6KsdG6uYaF4u8Ff/DpXoYxCIMj/8BMms0C4oec4YmBw5PZSNMIXtOeap07XzgWjAGYqYUKC00cxHgzeU4kox3+G2HRCgHtblja7Iw==;/X2lj7vDbmbOnp919KPXiw=="
 ---

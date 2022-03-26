@@ -27,17 +27,17 @@ topics:
 related:
   - title: "Border Patrol adds artificial intelligence cameras to security arsenal"
     excerpt: "Border agents in the past five months have participated in 6,630 search and rescues of migrants along the Southwestern border. They’re hoping newly deployed technology will help them not only stop"
-    publishedDateTime: 2022-03-26T03:04:00Z
-    webUrl: "https://www.counton2.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/"
-    ampWebUrl: "https://www.counton2.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
-    cdnAmpWebUrl: "https://www-counton2-com.cdn.ampproject.org/c/s/www.counton2.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
+    publishedDateTime: 2022-03-26T10:24:00Z
+    webUrl: "https://www.wnct.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/"
+    ampWebUrl: "https://www.wnct.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
+    cdnAmpWebUrl: "https://www-wnct-com.cdn.ampproject.org/c/s/www.wnct.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
     type: article
     provider:
-      name: WCBD
-      domain: counton2.com
+      name: WNCT
+      domain: wnct.com
     quality: 74
     images:
-      - url: "https://www.counton2.com/wp-content/uploads/sites/7/2022/03/CBP-IMAGE-ASTs.png?w=1280"
+      - url: "https://www.wnct.com/wp-content/uploads/sites/99/2022/03/CBP-IMAGE-ASTs.png?w=1280"
         width: 896
         height: 472
         isCached: true
