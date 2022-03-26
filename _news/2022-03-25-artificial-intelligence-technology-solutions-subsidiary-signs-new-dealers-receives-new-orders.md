@@ -26,6 +26,22 @@ images:
     height: 1200
     isCached: true
 
+related:
+  - title: "The 3 Signs of a Great AI Solution"
+    excerpt: "Outside of turning you into a better photographer, AI is verifying your identity and enabling all the smart solutions that make your personal admin more convenient. Need a quick loan for your business?"
+    publishedDateTime: 2022-03-26T15:57:00Z
+    webUrl: "https://za.investing.com/news/the-3-signs-of-a-great-ai-solution-2527659"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 37
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
+        isCached: true
+
 secured: "/vvyfZpgksgrnexcVWd1hdkndsExr3jw0R+/MKL6L+mykRD/ONjGso5S1KSf/liH5uTl1ygqheeZvj0MMFNv/jU7HNzoA2yd3PowbpMe1eeiH1nfkrdm6++kuHTsmst1L0csRUAf34LhmnZZsymDQhBNZfHHofuFmC9cRhhTGulwYkyDSFRaBv9YpH2MGsVRFGRkCvguCOy36XQMfg2NBQ1kuRs5gYT5mGUeulAN0NqSCQZiJmFldsIJPaSjDySIo28YH4NPYXJBOFYv29qgmlkuW+n2OYdEHhRd8vjTgQE0LP5wHFsPeX2kzTxDhfSO74RZoZOzaUjpc0yIvz6AYNvf8svt4eVvve66HAfENWk=;Za9+WymJVGzUYTt+J1w3lg=="
 ---
 

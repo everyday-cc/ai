@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Nvidia announces Eos supercomputer, \"world's fastest AI supercomputer\""
-excerpt: "Eos will offer an incredible 18 exaflops of AI performance, and we expect it to be the world’s fastest AI supercomputer when it’s deployed,” Paresh Kharya, senior directo"
-publishedDateTime: 2022-03-23T06:02:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-eos-supercomputer-worlds-fastest-ai-supercomputer/"
-webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-eos-supercomputer-worlds-fastest-ai-supercomputer/"
+title: "Leopard Imaging Expands 3D Depth Time-of-Flight and Stereo Camera Portfolio for Edge Computing Powered by NVIDIA Jetson Edge AI Platform"
+excerpt: "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, today announced it is building on its portfolio of 3D Depth Time-of-Flight (ToF) and Stereo camera solutions for edge computing."
+publishedDateTime: 2022-03-23T17:06:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/leopard-imaging-expands-3d-depth-time-of-flight-and-stereo-camera-portfolio-for-edge-computing-powered-by-nvidia-jetson-edge-ai-platform-1031302315"
+webUrl: "https://markets.businessinsider.com/news/stocks/leopard-imaging-expands-3d-depth-time-of-flight-and-stereo-camera-portfolio-for-edge-computing-powered-by-nvidia-jetson-edge-ai-platform-1031302315"
 type: article
-quality: 39
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://media.datacenterdynamics.com/media/images/dgx-h100-superpod.2e16d0ba.fill-1200x630.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1771761/Leopard_Imaging_Inc_NVIDIA_JETSON.jpg"
+    width: 400
+    height: 214
     isCached: true
 
 related:
@@ -50,19 +53,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Leopard Imaging Expands 3D Depth Time-of-Flight and Stereo Camera Portfolio for Edge Computing Powered by NVIDIA Jetson Edge AI Platform"
-    excerpt: "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, today announced it is building on its portfolio of 3D Depth Time-of-Flight (ToF) and Stereo camera solutions for edge computing."
-    publishedDateTime: 2022-03-23T17:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/leopard-imaging-expands-3d-depth-time-of-flight-and-stereo-camera-portfolio-for-edge-computing-powered-by-nvidia-jetson-edge-ai-platform-1031302315"
+  - title: "Nvidia announces Eos supercomputer, \"world's fastest AI supercomputer\""
+    excerpt: "Eos will offer an incredible 18 exaflops of AI performance, and we expect it to be the world’s fastest AI supercomputer when it’s deployed,” Paresh Kharya, senior directo"
+    publishedDateTime: 2022-03-23T06:02:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-eos-supercomputer-worlds-fastest-ai-supercomputer/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/1771761/Leopard_Imaging_Inc_NVIDIA_JETSON.jpg"
-        width: 400
-        height: 214
+      - url: "https://media.datacenterdynamics.com/media/images/dgx-h100-superpod.2e16d0ba.fill-1200x630.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "NVIDIA Instant NeRF tech converts 2D photos into 3D scenes in the 'blink of an AI'"
     excerpt: "NVIDIA Research has unveiled its latest AI technology, Instant NeRF. It is faster than previous NeRF models and can turn a series of 2D images into a 3D scene in seconds."
@@ -79,6 +82,6 @@ related:
         height: 435
         isCached: true
 
-secured: "qLlQM1Wl5tBeT7DiAtQH6ibB/+VVnWmZ3CQImC331OaAmGlVMCcAdPhldTqtR+cyUQAnJuos7qfOS+4TLttm1Ral0XohtoU7Kj646Ol3oPNtnaZur6cP8C+Jbs53tQkYcAz1AcImJ/Orkrw0sLcR50u8L7Njjp0t8DlM6EmWDXjDeqtSCH47KsxqMgRxIh0LZ0S0becrh2gap17emUXJ1x4thOzaBGD5XSyhrpjiYu7DdEnUljr1HkdXQ/phvzKMOZA3tu6q4B8aj+ZqLipV760JFK4DbQf1yC+otojT3rse7bCdY++t5UQg0urWQwHYpDYdg+V7NFRsXayU2CDM0QTSVnS+d3lBgfPJvDa19+Xn4UnMVTzV9/7jm+coHi+seOpofAWtf06aOD0L1Q7WFzparF91vFTDDE+mM+0CepgIAJUa5ypwA3zFRAnl7DGdtVzMWFKMmAcv6McwvWO+iGunjc74yrlQqKZCzoepvd3zRl+u8Kt2WQzUaN6icSMc9IxqcIdO13S1+JSAJ78s/A==;8SV8oSOXmfvacw2VkNxqOg=="
+secured: "cXoEdfTGenj0TYrQrRwrvXa7i3PBN/gcQe6/dPg1ALk/J6x03387nrnZH7XpMS20y/42Nb0SM3pk+b2/CA9//INowmvL6jbMtUh5vN6JLOYm8ocJkPftSmi+WpQL/12g0uVZ3SWldnGZVxCFdCxdITcag98Tr8U/6ywvIacG4VVSha9hoeTH1ERdFDFJq9uuJKrP+OLRrSqwZjOJ2WtMA9FUQ7hSm83mdCq8xLDWJJn7/NzFvbALzv7IuHZ1PnVKkuvOgam7P6OgLKaR8S87gzbgTDAMwlEL65b2q5OeNLrosHmohWDaByHz5uv+wu+b2UCvERDHhl0E/c42CMWeuWCSzFKXIw2b75EidRGaLBo=;KHGYpCoT5JudgbHjtPd0YQ=="
 ---
 

@@ -1,29 +1,24 @@
 ---
 category: news
 title: "SAS and Clemson University deploy AI and machine learning software for education and research"
-excerpt: "SAS skills among students and supports analysis of massive datasetsCARY, N.C., March 24, 2022 /PRNewswire/ -- Clemson"
-publishedDateTime: 2022-03-24T15:58:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
-webUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
+excerpt: "Clemson students and faculty will have access to powerful data science and analytics software from SAS thanks to a new, $3.3 million donation to support teaching and academic research. Extending a 2017 partnership,"
+publishedDateTime: 2022-03-24T15:51:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm"
 type: article
-quality: 94
-heat: 114
+quality: 62
+heat: 72
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Machine Learning
-  - AI
-  - AI in Education
   - AI in Finance
-  - Facebook AI
+  - AI
+  - Machine Learning
+  - AI in Education
 
 images:
   - url: "https://mma.prnewswire.com/media/1772498/Watt_Center_Clemson.jpg"
@@ -46,23 +41,7 @@ related:
         width: 510
         height: 355
         isCached: true
-  - title: "Live learning, AI and Web3 are coming for ed tech"
-    excerpt: "She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia."
-    publishedDateTime: 2022-03-24T09:30:00Z
-    webUrl: "https://www.protocol.com/workplace/enterprise-ed-tech"
-    ampWebUrl: "https://www.protocol.com/amp/enterprise-ed-tech-2657026245"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/enterprise-ed-tech-2657026245"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 59
-    images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-investors-spent-over-usd2-1-billion-on-skilling-companies-over-the-past-year-alone-less-than-p-greater-than.jpg?id=29585482&width=400&coordinates=0%2C409%2C0%2C291&height=711.4285714285714&quality=80"
-        width: 400
-        height: 225
-        isCached: true
 
-secured: "A/oHAAg7Am65CcHsj/1GcldLmCbLvtmyKBRSS2tKpFUrk+KY98P7Jd5fpNE5tt3o1CRIYGh/CjWzwfUUZC83GqJxf3Rb6baGW7DYV2jwG7aZk8BbGyAJIJeYk+qGOyDj3rbL7jLJiuhHaqdtqG4mbGnDBmPK91EZ06fLd2NFtOtTfRLqpIZcj3NySK4+NSVZpfRjGwNT6/k7VlPGETwc0oqFpkPxWZQnHKOpo+edDFcGUHsgjCZJqVbHx50ZoL7VtvqMMpeQXpnDtFB9ThKcZ7AfYuifYmw7qFR8OyykQ1fNk1LD1qHm8LCLvO/Uf7wPesfYotBqmHwv0Ve5GXHAASd1hRpGikbHYoT1YiZnEdGJYrDH2STBDMNs/fvRwoQ4fT4uCdVdHwRhpsZeJHKX4xrKcFWF9BH7hciTaFtmo5ysKZOMmlm7fb6RS+2/QmpEKH2ez+/YkSt2ICFAkiro68zseKuFo4m2k6TrgVptCym/XqlgjCZz6zrlR6ibH+gB7/Ivn4j/qlENaqHpazj67w==;1c2pg/1WEBlS7isd3DCKgQ=="
+secured: "rjgtqJsn3rUipsKj0MR9JSDcI4wOi7DqfPQsW/50+0yFpp66m7Vw8uEN+oxEBPjXdg0Y8MPxqz9xZFC3YxWpVwLR09S5b8pSjyAhRpRp3/3xWSse0Hw4dz3IxGyPbPrRBa2pwACfNoqwhgHIo8Ov2D9rxO1nxHnR7hjTcyMEC0sO0myJNffcKSY/8w2T9645RpWcZaqb9P/GoWAJCu3OffJZSYr6b9i76LnA8ZamxI13BtrvD/oOBY64KlJvbQqTCDu6xpdchi7pXETNrZEHoiKtYQXcohxu1FJzJCQkWmEq/BqiMuofR6sholUdN72jRDlEQEuj2mwm2IISCSy2JpHZEnkqg+TFoFVLbl4oLsk=;3pvYDCwx2aW2m6bZioKjPw=="
 ---
 

@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Leopard Imaging Expands 3D Depth Time-of-Flight and Stereo Camera Portfolio for Edge Computing Powered by NVIDIA Jetson Edge AI Platform"
+    excerpt: "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, today announced it is building on its portfolio of 3D Depth Time-of-Flight (ToF) and Stereo camera solutions for edge computing."
+    publishedDateTime: 2022-03-23T17:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/leopard-imaging-expands-3d-depth-time-of-flight-and-stereo-camera-portfolio-for-edge-computing-powered-by-nvidia-jetson-edge-ai-platform-1031302315"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1771761/Leopard_Imaging_Inc_NVIDIA_JETSON.jpg"
+        width: 400
+        height: 214
+        isCached: true
 
 secured: "sRHCkBUJR/oio40/CDmGX1HrcmDSnOB45+0hqqk50Ml7q2UT2QXNd+SHjoAaI4K7+finer8LMpb1cHxVZ40+KfEX7eJbhHAaY1gj+rmqd+uBBT1SJGVmWKo5X24WMnZAHoma97ZXqtRDGEO9EeO9I1ghkVIlno5P1eWLXV6vam8debLCTyS+SG3kotuHHEfHUnyPzJPsT88rlxI7mpu4tKB2iRWUlI0Iy3bAtAxMAh2D/fZvLCfgifgMNFaA4V4IIKVe3i++Lg+wHO7vLugmI56I9qOofqzArEzoD0Ab49hxjPVeBAQebzvrc7KkJUR465pSB2qCs+K1dD/3k1w1dNmwoEhG9+BQLw6a0BJAoHA=;f+6qIZbtaLa3JdVwfVk5Pw=="
 ---

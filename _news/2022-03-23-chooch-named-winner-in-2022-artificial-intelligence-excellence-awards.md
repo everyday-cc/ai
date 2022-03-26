@@ -3,8 +3,8 @@ category: news
 title: "Chooch Named Winner in 2022 Artificial Intelligence Excellence Awards"
 excerpt: "The Business Intelligence Group today announced that Chooch was named a winner in its Artificial Intelligence Excellence Awards program. Chooch solves a fundamental AI problem: teaching machines to understand visual data."
 publishedDateTime: 2022-03-23T13:02:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-accidents-artificial-intelligence-af4498025d62188a349916e2446fc6ad"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-accidents-artificial-intelligence-af4498025d62188a349916e2446fc6ad"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-accidents-artificial-intelligence-af4498025d62188a349916e2446fc6ad"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-accidents-artificial-intelligence-af4498025d62188a349916e2446fc6ad"
 type: article
 quality: 39
 heat: -1
@@ -135,6 +135,6 @@ related:
         height: 249
         isCached: true
 
-secured: "8LlVTVn7zBuR8g5jPglkhcor+xMTtiyUm/d9Zgx5kwnAY3SOs3mt9/bsKeqVOOSoIzCAEuvODf0vTLi5wz64Ne20xjDErXPaP1bYbKUAsJbOGWbFR++IygxIkk+j0YD4sgz4gxk7OAIo24c6K7FsSZGnVLtybGXKB+6bE16TW4fgKRejijb2OI0ke2DmTo/wsQSqqh5Uzc5O39S37nTxKEqC8dg4evD98GabXO0dBAC7TmUbuV6Qm50+DMX0tphNm2uG5JIqD3nx81VUJ0aLh/X2txwnMC5nDS2+wVVhXKrBqOi5+GWesRLcXoBogDHL1HyQ+RbiWbY/CqfXlJJfavrXEi/uNq+dS/WXaUOTUTo=;nuFADKLIn4qeTjDQ+DuzvQ=="
+secured: "hBKHgbCbMD3/JJhkYFVFTB2bFn520vXO8eaSG0FiodfFxGQxcWFl8nvJTDfeFnQzRwUOSHOh25dpXUwDZxaNfsulW4tpdZY1+RNg3ivr7LOcrV5D1dRKoGLCIuZqlAmoNOGjKyAJh5m3jr+cFV//HepkZNn00v0PXRNJNRJthJc09tavmGEHMBPUNSN0FFPEdpzQRXpY4zwe3L6YZVLMYhyVrjToyzgejDRZBNuSDPSPsmfDebyCcIR9e2bZ1DLIBWvNZxT5I1MceJAVncpuyAkqAAyVHfaTmjvPKmSRZ4kttxjxpZ71inuX2VmHgBIHScMjY1cjJsg3Z2FmRQ1dpnVCLnjDFFpT00bKCv+9j6s=;TU/wU0KDX3FOCu449JZcVg=="
 ---
 
