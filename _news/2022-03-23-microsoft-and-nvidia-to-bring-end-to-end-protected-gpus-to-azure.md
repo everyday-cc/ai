@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft adds Pasqal’s neutral-atom processors to its Azure Quantum cloud computing lineup"
-    excerpt: "Microsoft’s Azure Quantum cloud computing service will be adding a brand-new tool to its toolbox: Pasqal’s neutral-atom quantum processing system."
-    publishedDateTime: 2022-03-22T01:40:00Z
-    webUrl: "https://www.geekwire.com/2022/microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup/"
-    ampWebUrl: "https://www.geekwire.com/2022/microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup/amp/"
+  - title: "ThetaRay Transaction Monitoring Now Available in the Microsoft Azure Marketplace"
+    excerpt: "ThetaRay, provider of AI-powered transaction monitoring technology to protect banks and fintechs against financial crimes, today announced the availability"
+    publishedDateTime: 2022-03-23T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-transaction-monitoring-now-available-in-the-microsoft-azure-marketplace/article_e259606b-33f5-5e67-92f6-1d671657497f.html"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 94
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 64
     images:
-      - url: "https://i.ytimg.com/vi/RGqhsC6rUxQ/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "Pasqal quantum computers to become available on Azure Quantum this year"
-    excerpt: "Microsoft has agreed a partnership with quantum startup Pasqal which will see its quantum computers become available on Azure Quantum later this year. This will provide users with cloud-based access to Azure’s first quantum processor based on neutral atom architecture,"
-    publishedDateTime: 2022-03-22T09:22:00Z
-    webUrl: "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/367139/pasqal-quantum-computers-to-become-available"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 84
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1581677441/itpro/Azure.jpg"
-        width: 1260
-        height: 710
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "8bS2hzPeiBnkXNuMKZP5jm97cZ4rJlxj3LPcrLA+u1uIu8KVaCy6mZDMyAQvcXDKR72gQ0I3Tc2jWnW1Ab+WY9zWNjjUOBHJMvf77s/qjnGGEudZSs7lkleRRIXxzcatXFKjNSF9AZS+TCzp3AabckPSxSI7DqnyX+Kzw4MGxgMZ+JG6EAWH6RXxvBBGFa/Le5SypwnxdWe7xVQ8efJ+h0fkDXsUYOEYRE2ADqrJTsxtR6RW608m/T1U64iWl+puD6bByj4MaHVeXSIKr78m1p7/UeXW8RzBVSOFWX1D2Td54if1r3AZZ2aFDB4+FQIllJS8CKKQgHLhg8oBo3pA/iSFH7TyExn5Xu4JNQvckaIL983J2Jxop/IJFr9hsH5+MgZtnn46BVHUP14mFuwTsc9UOaUYP66/f7JNPSRA2m7ctDvo3OlewPw0JnRm+/T2trLc1EGA5KeoyP4PsblrHTn+a1xg5eyoYie3qWT2Hs8hEwE+TuyhqDen19sT6vr1PfDpDSrY/ezYkJVzp6y7qw==;VOAtYfbSBBJ4DtpSGC/C/A=="

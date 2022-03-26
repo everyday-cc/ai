@@ -46,23 +46,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Live learning, AI and Web3 are coming for ed tech"
-    excerpt: "She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia."
-    publishedDateTime: 2022-03-24T09:30:00Z
-    webUrl: "https://www.protocol.com/workplace/enterprise-ed-tech"
-    ampWebUrl: "https://www.protocol.com/amp/enterprise-ed-tech-2657026245"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/enterprise-ed-tech-2657026245"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 59
-    images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-investors-spent-over-usd2-1-billion-on-skilling-companies-over-the-past-year-alone-less-than-p-greater-than.jpg?id=29585482&width=400&coordinates=0%2C409%2C0%2C291&height=711.4285714285714&quality=80"
-        width: 400
-        height: 225
-        isCached: true
 
-secured: "O+qFKXUJiovPYAS96e6WYyJ3yegFvUIZm1hFNw7laGUGYbuYCNsS7aHRkkXCPezY0tx4T4b73QkuKZrYClpeg6VYjICgkF6UEjTdc5jRgY0inmBBgbMAUvLWMr+lU41oGuTzt/pZS8C4i7MJjLLZ6BTJl9MiipNlCjOfxxqWQWY932mwsGefHVAjbsW4Ha8Bl9gclWvC6GxOFiMJiKlQ4Ab1ytQtEK8zSzGqj6Qe/sIJskWvPpgYXMinl3uQYSVN2sUQ7nDozUCuypYulxR+h1WQqdN/7qRjohSPmgHZH72UjfzV21jun7R8wxrl0fbBYOwiwi/8FTCnJShciJ+DHVLDZjkxMakCmlIuj64Sp8A=;AINC+saTDislTz74bGWQGA=="
+secured: "iACR2rl37dz8jRm6RmxBshkxcmCaIg1DIcR9Q/m3wb5Naj7Ty/w/BwBbHR4zv/2i35xSGveHtBoy3nF/YEpfgdobQDl6dLm8wNXLU2X/JvTfwuBre7AUUbb2K5Mq7f89Jvo7hfu8IpPP+U0AE8RrjOCoU3Pc/oyBkYvAN9r4veNpLP4/JniAUCDFGVMMs6BVQrT8MbwY1ZiK44Q2CDfXkwd5A1sYWM87GDq+eAxONm3gsC5VTGIvysEWnZhRpy+oNZ9Z8NXXRAvevTaLPwH4xcWVEDybdBxjxSG3sSeLBEy/+DRHk69pFb7q6Rx4sN62DxgBQr+FQgp56Gwc8zWSWl9d5x7mkOu6MCzNu9c/6c8BKvWNo8CvGyK5FX9GosJxu0Q2LWLbgiCJ/82DOXxi5CXebtwM9bCv4lrs2EyADwJvi00hDXj1FYT+oY8sASyqlAp+WQuqBpnRYU3bpe5FYXUDuQI5bs2MGnjQvc0ssNfcoDxlHh71Rwke5+4TSSFTLz6Vwamz+fJAbjj+xUH/iA==;yBz+Oauca3gUU4BU9hj0/g=="
 ---
 

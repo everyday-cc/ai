@@ -1,33 +1,28 @@
 ---
 category: news
 title: "Tomahawk Robotics Integrates AeroVironment UAS Into Kinesis Ecosystem"
-excerpt: "Tomahawk Robotics, the leading innovator of common control solutions, has integrated the AeroVironment RQ-11 Ravenã unmanned aircraft system (UAS) into the Kinesis Ecosystem with AeroVironment's Crysalis™ on Tomahawk Robotics' KxM edge processor."
-publishedDateTime: 2022-03-09T15:54:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem-1031267018"
-webUrl: "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem-1031267018"
+excerpt: "Tomahawk Robotics is the leading innovator of common control solutions that transform ... Designed from the ground up with the user in mind, Kinesis is the only multi-domain, cross-architecture ..."
+publishedDateTime: 2022-03-09T15:48:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/03/n26063678/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem"
+webUrl: "https://www.benzinga.com/pressreleases/22/03/n26063678/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem"
+ampWebUrl: "https://www.benzinga.com/amp/content/26063678"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26063678"
 type: article
-quality: 84
-heat: 84
-published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1763103/raveninhand.jpg"
-    width: 400
-    height: 266
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "KcoixbbSVxJQXEtittxXENji5bCw/l4iv8J+1R9gGho1v1zjGC+T47TklgB6JU6ITP2Zir4tk8B4uBQgquWmfIt1B01m0khNnJmY7B6xEubS/BLulH6ki+FuNG2iq1Cen2oe2I6HDa60ZkuKCOf/RpE68x7BQMP74LtyRJ3e32QqF57Bg5fFiuRZhCgElA8mKId46epwKZNoGUN8Mq203bOVqA/K8t0M6DbT9WR/ue20CkhbbBr396dvhLBf5dwm5KjZdhpxljzDCxkrsyUxd+HTjV8yO5ZZHvc0xirGE2FrOaJuwDp5mGfqlCpi1CeMN8SCUH67MZCPN6zWXQ7P8FP8uOLiQbBZNzDZJ2u0IWI=;tFM7FkgWvsJPmYPxneJugg=="
+secured: "2/vraTmpQRwT7NDOavtJkGOS0F6mZIZfZdDMXcpz9+wEgt3oTF+ycgQkLVhyKdg7bJ2GO4WU4/QziMDcjSRjiuVTgnaU5Uqrj9WvAUfzGUk+hv81jh6Z9rDR+9LkhzRTOP3E5B9J6f3faJOmw1s8jLn+kIBo9FlZlBu8spPwuOz7CgEpKOPIDFaRMhEwyuLGBugCfV9IiUqjmN1aclXkwPFQ/saLPDk7chrVqbyJS1wFsTWq2H4XGfgEmV601pWnCtNm4fPTL5Ge6BXcolN4ju8vavt3IAwVL2gxNOR/kn8KFCUbt/n3pOZEKthmD0DJT98TH3tyEB3j1HLSQZQCQAMUrJrLBGqVBBo96ClPGmQ=;B6FzkLFrGEsXT3Jrg6Msqg=="
 ---
 

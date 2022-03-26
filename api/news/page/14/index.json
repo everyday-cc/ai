@@ -2,6 +2,250 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-03-10-baidus-autonomous-driving-chief-wants-robotaxis-to-ditch-human-drivers-but-regulatory-hurdles-are-steep.md",
+      "title": "Baidu’s autonomous driving chief wants robotaxis to ditch human drivers, but regulatory hurdles are steep",
+      "excerpt": "Nine years after Baidu started researching autonomous driving, the internet search and artificial intelligence giant says its self-driving cars are ready for a broader roll-out across China and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3169873/baidus-autonomous-driving-chief-wants-robotaxis-ditch-human-drivers",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3169873/baidus-autonomous-driving-chief-wants-robotaxis-ditch-human-drivers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/03/09/0abbbbc8-a33e-4370-9d0d-bc9cdccc6a0c_9c02ce79.jpg?itok=2Tg9lSzs&v=1646836338",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3169873/baidus-autonomous-driving-chief-wants-robotaxis-ditch-human-drivers",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3169873/baidus-autonomous-driving-chief-wants-robotaxis-ditch-human-drivers",
+      "publishedDateTime": "2022-03-09T17:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-redefining-workplace-meetings-could-be-key-to-employee-retention-during-the-great-resignation.md",
+      "title": "Redefining Workplace Meetings Could Be Key To Employee Retention During The Great Resignation",
+      "excerpt": "Prior to CLIPr, Chen was the head of Amazon Rekognition and the chief product officer of fast-growing video intelligence company VidMob. CLIPr was born from the pandemic to solve this challenge of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/03/10/redefining-workplace-meetings-could-be-key-to-employee-retention-during-the-great-resignation/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/03/10/redefining-workplace-meetings-could-be-key-to-employee-retention-during-the-great-resignation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/622912e15d266438042edc8a/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/03/10/redefining-workplace-meetings-could-be-key-to-employee-retention-during-the-great-resignation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/03/10/redefining-workplace-meetings-could-be-key-to-employee-retention-during-the-great-resignation/amp/",
+      "publishedDateTime": "2022-03-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-robot-that-seems-to-convey-emotion-while-reading.md",
+      "title": "Robot that seems to convey emotion while reading",
+      "excerpt": "Robot that seems to convey emotion while reading Date: March 10, 2022 Source: University of Tsukuba Summary: Researchers have created a robot with an internal weight that can give the impression ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/03/220310100010.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/03/220310100010.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-09-extract-granular-sentiment-in-text-with-amazon-comprehend-targeted-sentiment.md",
+      "title": "Extract granular sentiment in text with Amazon Comprehend Targeted Sentiment",
+      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to discover insights from text. As a fully managed service, Amazon Comprehend requires no ML expertise and can scale to large volumes of data. Amazon Comprehend provides several different APIs to easily integrate",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extract-granular-sentiment-in-text-with-amazon-comprehend-targeted-sentiment/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extract-granular-sentiment-in-text-with-amazon-comprehend-targeted-sentiment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/08/Screen-Shot-2022-03-08-at-9.37.08-AM.png",
+          "width": 756,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T13:51:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-ai-and-machine-learning-in-financial-services.md",
+      "title": "AI and machine learning in financial services",
+      "excerpt": "While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption to ensure the most successful outcomes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/resources/231729/ai-and-machine-learning-in-financial-services",
+      "originalUrl": "https://www.networkworld.com/resources/231729/ai-and-machine-learning-in-financial-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.resources.networkworld.com/wp-content/uploads/2022/03/1647373789.png",
+          "width": 1333,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T13:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-03-10-transfer-learning-offers-new-insight-into-machine-learning-error-estimation.md",
       "title": "Transfer learning offers new insight into machine-learning error estimation",
       "excerpt": "Omar Maddouri, a doctoral student in the Department of Electrical and Computer Engineering at Texas A&M University, is working with Dr. Byung-Jun Yoon, professor, and Dr. Edward Dougherty, Robert M. Kennedy Chair Professor,",
@@ -540,19 +784,19 @@
     {
       "path": "_news/2022-03-09-tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem.md",
       "title": "Tomahawk Robotics Integrates AeroVironment UAS Into Kinesis Ecosystem",
-      "excerpt": "Tomahawk Robotics, the leading innovator of common control solutions, has integrated the AeroVironment RQ-11 Ravenã unmanned aircraft system (UAS) into the Kinesis Ecosystem with AeroVironment's Crysalis™ on Tomahawk Robotics' KxM edge processor.",
+      "excerpt": "Tomahawk Robotics is the leading innovator of common control solutions that transform ... Designed from the ground up with the user in mind, Kinesis is the only multi-domain, cross-architecture ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem-1031267018",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem-1031267018",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/03/n26063678/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/n26063678/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1763103/raveninhand.jpg",
-          "width": 400,
-          "height": 266,
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -560,23 +804,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-09T07:54:00-08:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26063678",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26063678",
+      "publishedDateTime": "2022-03-09T07:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -957,255 +1192,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-predicting-the-past-with-ithaca.md",
-      "title": "Predicting the past with Ithaca",
-      "excerpt": "Restoring, placing and dating ancient texts through collaboration between AI and historians.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/Predicting-the-past-with-Ithaca",
-      "originalUrl": "https://deepmind.com/blog/article/Predicting-the-past-with-Ithaca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/7pHp20oChCga-7e2QR2jlbMnfZPVRzMp2HAKkzw9WGLYI3oyJKf2Czhn-I3ra5AqHmI_6WVUQKsiFy3d8DHwlPosD6jVISBa6XPCi-wVq94CdPLq8Q",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-how-ivanti-hopes-to-redefine-cybersecurity-with-ai.md",
-      "title": "How Ivanti hopes to redefine cybersecurity with AI",
-      "excerpt": "Ivanti's quickness in using AI and machine learning to take on these challenges is noteworthy. In the span of fewer than eighteen months, they've delivered their AI-based Ivanti Neurons platform to enterprise customers and continued to innovate it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/08/how-ivanti-hopes-to-redefine-cybersecurity-with-ai/",
-      "originalUrl": "https://venturebeat.com/2022/03/08/how-ivanti-hopes-to-redefine-cybersecurity-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1222958278.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/08/how-ivanti-hopes-to-redefine-cybersecurity-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/08/how-ivanti-hopes-to-redefine-cybersecurity-with-ai/amp/",
-      "publishedDateTime": "2022-03-08T15:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts.md",
-      "title": "Artificial intelligence and corporate social responsibility can strengthen anti-corruption efforts",
-      "excerpt": "AI has increasingly become a part of our daily lives, from digital assistants like Siri and Alexa, to self-driving cars like Teslas and ride-hailing applications like Uber. Given that AI has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts-177883",
-      "originalUrl": "https://theconversation.com/artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts-177883",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/450789/original/file-20220308-27-1g7ieyt.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts-177883",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts-177883",
-      "publishedDateTime": "2022-03-08T15:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-5-stocks-to-get-your-feet-wet-in-emerging-ai.md",
-      "title": "5 Stocks to Get Your Feet Wet in Emerging AI",
-      "excerpt": "Motley Fool contributors Trevor Jennewine, Billy Duberstein, Jose Najarro, and Will Healy list some of their favorite stocks to play artificial intelligence technology. Trevor Jennewine: I think AI is going to be one of those technologies that's like the internet 10 years down the road.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/03/08/5-stocks-to-get-your-feet-wet-in-emerging-ai/",
-      "originalUrl": "https://www.fool.com/investing/2022/03/08/5-stocks-to-get-your-feet-wet-in-emerging-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/669559/gettyimages-artificialintelligence.jpg",
-          "width": 2000,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-08T15:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-ponyai-to-issue-recall-of-autonomous-driving-software.md",
-      "title": "Pony.ai to issue recall of autonomous driving software",
-      "excerpt": "Autonomous vehicle startup Pony.ai will issue a recall for three vehicles following an October crash in California, according to the National Highway Traffic and Safety Administration (NHTSA). The agency said on Tuesday that this was the first recall of an automated driving system.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/08/pony-ai-to-issue-recall-of-autonomous-driving-software/",
-      "originalUrl": "https://techcrunch.com/2022/03/08/pony-ai-to-issue-recall-of-autonomous-driving-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/55351642042261_.pic_.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/08/pony-ai-to-issue-recall-of-autonomous-driving-software/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/08/pony-ai-to-issue-recall-of-autonomous-driving-software/amp/",
-      "publishedDateTime": "2022-03-08T13:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

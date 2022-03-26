@@ -2,6 +2,187 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-18-h2oai-ceo-sri-ambati-on-the-democratization-of-ai-and-deep-learning.md",
+      "title": "H2O.ai CEO Sri Ambati on the Democratization of AI and Deep Learning",
+      "excerpt": "I spoke with Sri Ambati, CEO of H2O.ai, about the AI and deep learning sector, and his company’s goal of making AI accessible to a larger audience by offering a low code AI deve",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/news/h2o-ai-ceo-sri-ambati-democratization-of-ai-and-deep-learning/",
+      "originalUrl": "https://www.eweek.com/news/h2o-ai-ceo-sri-ambati-democratization-of-ai-and-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/03/eSPEAKS-thumbnail-5.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-handheld-surgical-robot-can-help-stem-fatal-blood-loss.md",
+      "title": "Handheld surgical robot can help stem fatal blood loss",
+      "excerpt": "After a traumatic accident, there is a small window of time when medical professionals can apply lifesaving treatment to victims with severe internal bleeding. Delivering this type of care is complex,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-03-handheld-surgical-robot-stem-fatal.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-03-handheld-surgical-robot-stem-fatal.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/handheld-surgical-robo.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-03-handheld-surgical-robot-stem-fatal.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-handheld-surgical-robot-stem-fatal.amp",
+      "publishedDateTime": "2022-03-17T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-mathematical-paradoxes-demonstrate-the-limits-of-ai.md",
+      "title": "Mathematical paradoxes demonstrate the limits of AI",
+      "excerpt": "Humans are usually pretty good at recognizing when they get things wrong, but artificial intelligence ... paradox shows AI's limitations. Neural networks, the state of the art tool in AI, roughly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/03/220317120356.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/03/220317120356.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-the-detail-of-the-courses-offered-by-amazon-web-services-aws-to-learn-about-computing-at-no-cost.md",
+      "title": "The detail of the courses offered by Amazon Web Services (AWS) to learn about computing at no cost",
+      "excerpt": "Within this framework, Amazon Web Services (AWS) launched two new free, hands-on training initiatives to enable people to acquire computer skills in the cloud, so that young students and professionals alike will be able to gain more knowledge and experience in computing jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infobae.com/en/2022/03/17/they-launch-free-training-to-develop-basic-skills-on-the-web-who-they-are-intended-for-and-how-to-access/",
+      "originalUrl": "https://www.infobae.com/en/2022/03/17/they-launch-free-training-to-develop-basic-skills-on-the-web-who-they-are-intended-for-and-how-to-access/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.infobae.com/new-resizer/LKEqd76Q2uNRvn5E2TGv_RzgsQg=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/TBHMVTO5BJGA7N7UYGFQ47PAQA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infobae.com/en/2022/03/17/they-launch-free-training-to-develop-basic-skills-on-the-web-who-they-are-intended-for-and-how-to-access/?outputType=amp-type",
+      "cdnAmpWebUrl": "https://www-infobae-com.cdn.ampproject.org/c/s/www.infobae.com/en/2022/03/17/they-launch-free-training-to-develop-basic-skills-on-the-web-who-they-are-intended-for-and-how-to-access/?outputType=amp-type",
+      "publishedDateTime": "2022-03-17T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Infobae",
+        "domain": "infobae.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-dont-miss-the-microsoft-azure-nvidia-breakthroughs-at-spring-gtc.md",
       "title": "Don’t miss the Microsoft Azure + NVIDIA breakthroughs at spring GTC",
       "excerpt": "Headlining Microsoft’s sessions at GTC will be two executive keynotes with the chance to win a free NVIDIA Jetson Nano 4GB Developer Kit.",
@@ -942,179 +1123,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-veritone-named-winner-of-14th-annual-media-excellence-awards-for-best-artificial-intelligence.md",
-      "title": "Veritone Named Winner of 14th Annual Media Excellence Awards for Best Artificial Intelligence",
-      "excerpt": "Veritone, Inc. , creator of aiWAREtm, a hyper-expansive enterprise AI platform, is pleased to announce it has been named the winner of the 14th Annual Media Excellence Awards (MEA) for Best Artificial Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20291969.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20291969.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-the-most-valuable-use-cases-for-artificial-intelligence-in-web-applications.md",
-      "title": "The most valuable use cases for artificial intelligence in web applications",
-      "excerpt": "Capable of automating manual tasks, AI can lead to smarter decision ... a web application (such as Google Lens or Google Translate). At the moment the big breakthroughs are related to images and language, so web applications processing these are the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/most-valuable-use-cases-for-artificial-intelligence-in-web-applications-123498983/",
-      "originalUrl": "https://www.information-age.com/most-valuable-use-cases-for-artificial-intelligence-in-web-applications-123498983/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2022/03/most-valuable-use-cases-for-artificial-intelligence-in-web-applications.jpeg.optimal.jpeg",
-          "width": 1013,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5.md",
-      "title": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Up 5%",
-      "excerpt": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating)’s stock price shot up 5% during trading on Wednesday . The stock traded as high as $27.86 and last traded at $27.86.",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/03/17/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5/",
-      "originalUrl": "https://www.etfdailynews.com/2022/03/17/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/03/17/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/03/17/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5/amp/",
-      "publishedDateTime": "2022-03-17T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-standard-bank-employs-aws-technology-to-boost-shariah-banking-services.md",
-      "title": "Standard Bank employs AWS technology to boost Shari’ah Banking services",
-      "excerpt": "Standard Bank, which offers a range of Shari’ah-compliant banking solutions, is introducing a dedicated call centre line for its Shari’ah banking customers, which is powered by cutting-edge technology and promises to provide customers with personalised and efficient customer service experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/91911/standard-bank-employs-aws-technology-to-boost-shariah-banking-services",
-      "originalUrl": "https://www.finextra.com/pressarticle/91911/standard-bank-employs-aws-technology-to-boost-shariah-banking-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

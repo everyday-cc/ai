@@ -53,7 +53,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -143,13 +143,13 @@
     {
       "path": "_news/2022-03-24-sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research.md",
       "title": "SAS and Clemson University deploy AI and machine learning software for education and research",
-      "excerpt": "Clemson students and faculty will have access to powerful data science and analytics software from SAS thanks to a new, $3.3 million donation to support teaching and academic research. Extending a 2017 partnership,",
+      "excerpt": "SAS skills among students and supports analysis of massive datasetsCARY, N.C., March 24, 2022 /PRNewswire/ -- Clemson",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -165,12 +165,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T08:51:00-07:00",
+      "publishedDateTime": "2022-03-24T08:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -179,10 +188,11 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "Facebook AI",
         "AI",
         "Machine Learning",
-        "AI in Education"
+        "AI in Education",
+        "AI in Finance"
       ]
     },
     {
@@ -748,17 +758,17 @@
       "title": "AI and machine learning in financial services",
       "excerpt": "While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption to ensure the most successful outcomes.",
       "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/resources/231729/ai-and-machine-learning-in-financial-services",
-      "originalUrl": "https://www.csoonline.com/resources/231729/ai-and-machine-learning-in-financial-services",
+      "webUrl": "https://www.networkworld.com/resources/231729/ai-and-machine-learning-in-financial-services",
+      "originalUrl": "https://www.networkworld.com/resources/231729/ai-and-machine-learning-in-financial-services",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://idge.staticworld.net/cso/CSO_logo_300x300.png",
-          "width": 300,
-          "height": 300,
+          "url": "https://us.resources.networkworld.com/wp-content/uploads/2022/03/1647373789.png",
+          "width": 1333,
+          "height": 750,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -768,11 +778,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-09T13:34:00-08:00",
+      "publishedDateTime": "2022-03-09T13:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
+        "name": "Network World",
+        "domain": "networkworld.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -983,31 +993,22 @@
       "title": "Only 18 Percent of Fintechs and Financial Services Organizations Believe Their Credit Risk Models Are Highly Accurate",
       "excerpt": "Only 18 percent of fintechs and financial services organizations believe their credit risk models are accurate at least 75 percent of the time. The finding is revealed in new research outlining the greatest credit risk analysis challenges,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-middle-east-financial-services-parsippany-f2d6ddf831584720a8250f7653ea4c3f",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-middle-east-financial-services-parsippany-f2d6ddf831584720a8250f7653ea4c3f",
+      "webUrl": "https://www.silicon.co.uk/press-release/only-18-percent-of-fintechs-and-financial-services-organizations-believe-their-credit-risk-models-are-highly-accurate",
+      "originalUrl": "https://www.silicon.co.uk/press-release/only-18-percent-of-fintechs-and-financial-services-organizations-believe-their-credit-risk-models-are-highly-accurate",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-07T06:02:00-08:00",
+      "publishedDateTime": "2022-03-07T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Tech Week Europe",
+        "domain": "silicon.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

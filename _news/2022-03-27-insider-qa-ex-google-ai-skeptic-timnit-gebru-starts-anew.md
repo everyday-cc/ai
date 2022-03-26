@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Insider Q&A: Ex-Google AI skeptic Timnit Gebru starts anew"
-excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence"
-publishedDateTime: 2022-03-26T17:00:00Z
-originalUrl: "https://www.sandiegouniontribune.com/news/california/story/2022-03-26/insider-q-a-ex-google-ai-skeptic-timnit-gebru-starts-anew"
-webUrl: "https://www.sandiegouniontribune.com/news/california/story/2022-03-26/insider-q-a-ex-google-ai-skeptic-timnit-gebru-starts-anew"
-ampWebUrl: "https://www.sandiegouniontribune.com/news/california/story/2022-03-26/insider-q-a-ex-google-ai-skeptic-timnit-gebru-starts-anew?_amp=true"
-cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/california/story/2022-03-26/insider-q-a-ex-google-ai-skeptic-timnit-gebru-starts-anew?_amp=true"
+excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence. That was before Google pushed"
+publishedDateTime: 2022-03-26T18:16:00Z
+originalUrl: "https://www.localsyr.com/news/national/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/"
+webUrl: "https://www.localsyr.com/news/national/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/"
+ampWebUrl: "https://www.localsyr.com/news/national/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/amp/"
+cdnAmpWebUrl: "https://www-localsyr-com.cdn.ampproject.org/c/s/www.localsyr.com/news/national/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/amp/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: San Diego Union-Tribune
-  domain: sandiegouniontribune.com
+  name: LocalSYR
+  domain: localsyr.com
 
 topics:
   - AI
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/97051bf/2147483647/strip/true/crop/4748x3175+74+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F63%2F28%2F25a7b00a51ca5681537f551827e6%2Fimg-sd-3047343-sd-fi-cal-2-1-hh5uq0lq.jpg"
-    width: 320
-    height: 214
+  - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2022/03/ecb7809fcc5d4192bbdd2504273c77bf.jpg?w=1280"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -43,20 +43,22 @@ related:
         height: 1920
         isCached: true
   - title: "Insider Q&A: Ex-Google AI skeptic Timnit Gebru starts anew"
-    excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence"
-    publishedDateTime: 2022-03-26T10:01:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/insider-qa-google-ai-skeptic-timnit-gebru-starts-83685774"
+    excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence."
+    publishedDateTime: 2022-03-26T15:00:00Z
+    webUrl: "https://www.click2houston.com/business/2022/03/26/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/"
+    ampWebUrl: "https://www.click2houston.com/business/2022/03/26/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/?outputType=amp"
+    cdnAmpWebUrl: "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/business/2022/03/26/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 39
+      name: Click2Houston
+      domain: click2houston.com
+    quality: 59
     images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_3aa9eaa491ab41348e46ce734ce58463_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VNDYKU32PNAXVG6QA25TI5GTVM.jpg?_a=ATABlcW0"
+        width: 700
+        height: 467
         isCached: true
 
-secured: "8Q7/c2BpcvYT/C3HuCNnFuKEZxCYFWe3b8zx7nSb8o24jcqmP3sYscapcfjRFUdxVabFQXVafjrTU3XJ859EqCjadDL5JUIIkZx0xdl7prDl/+K6qRNR7rvWhxINL1IjJW4c17mJ/9/EhzpNYVmWn+TgEmsxKDOQeMv7GtOreK+GfBsqCCb/QSQejjww+NoVO6u3whUqS5qE955tVN8V20LErxWsQy9vToD2TffhMemHq2DBjFdELTGkFBMnzUPi2Li7+2J8D8TTiph1gyJz2zkTglnCjo7bzrdB36R6ktYu6FRkBvwX9vfyZ2OHoaoOGc4dP0RzIddDkJpvP97Bkf2XH24LoIspVdE8fs0gREM=;08PFbY504BmBoPYY18kBQw=="
+secured: "eWtHYF7JRaCQHRXQ6/O9wkkU1KULQVBoU6qTA3jmeM8kxlwlYNetiEGcz6K+/GqytGVwdfza3xbXnVORGQKmB0IvmYUgj9ayJ+nA3IL99RFmHc0/d8RfbY6RDYoTJQv0iJ/r262rqQq1vIJZflLvIDcsLDyT36z+AqqOqDYIL3IjXLqRy4OM/MDfDkht3j4UGgnVrXYXwRbUz04lLpLhySfXG9CgWiu7kRNsJeLJjtE0epvNHMwV8mWK0+nhujOMdic4KrSEWXMRijoRL/xfUn/dd8hS4ToZ5HLmoH/0YP8djBZskNzydmmUvA/rcW07PPLR0YRlFGNJeZAdgr5IGIs9v6LfyP1SmpJQVqwe/CU=;BGJWgPDMDt+1qdu4kRMgGA=="
 ---
 

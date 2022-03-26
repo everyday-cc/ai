@@ -56,6 +56,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Artificial Intelligence is not the threat"
+    excerpt: "You have likely heard about artificial intelligence and its ever-increasing role in our lives. AI has changed the way we interact with the world around us, from digital voice assistants to self-driving cars,"
+    publishedDateTime: 2022-03-22T15:01:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-threat-ron-cook-psyd"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFYdvctUnKreg/article-cover_image-shrink_720_1280/0/1647960139939?e=1653523200&v=beta&t=gpvp3U45dZD89bRe0N4oUi1Iss2UYLmecOE3YpVM5cc"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "Do you think AI will be a psychologist for humans in the future?"
     excerpt: "Artificial intelligence (AI) is influencing the future of numerous sectors, including psychology. Will AI, on the other hand, completely replace psychologists? Will AI help psychologists and their patients come up with long-term,"
     publishedDateTime: 2022-03-23T07:38:00Z
@@ -98,6 +112,20 @@ related:
         width: 600
         height: 250
         isCached: true
+  - title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
+    excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),"
+    publishedDateTime: 2022-03-23T10:10:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Back to the future: driverless cars become reality"
     excerpt: "One industry insider said the relaxed rules in US states including California and Nevada, which was the first to allow driverless cars on its roads in 2011, has also played an important role in propelling the growth of domestic players."
     publishedDateTime: 2022-03-22T19:10:00Z
@@ -107,15 +135,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
-  - title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
-    excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),"
-    publishedDateTime: 2022-03-23T10:05:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 14
 
 secured: "8dJRtKRCezTevFoWCxJ0goQb/PZOEflPUwI7efWJjWZ4YjcOZCcfM+gj4MwloQwIcCm3EGRiM9ADeHsgNbtFK1xiczRZMN0ps4m2cRnuZ4xdEr/mCB6YrOZ88PGQmaOtQ/gt0TVCunBYaSOv9trEbcKGPyoxSXiLGzm/dvekBku2XRUQOu2UThC3GjrOHRSeGGE/pJ2RHat1FxLpH0M6lPXoSJuSfa3nD63NGUP8fRcsSIORW9OT6hdPq70Ct1mhw0bXIPROCyRKCfte8sSdV1nqWRzc453pyQDjubKYwm++Flg/VANOJnCw26Pv8Og+JyvicNj0bp5y8r10AhVXjXgqFQvE4YUX0cFXOQe2nlE=;4LU6HRZzArrL1qLQygVgpQ=="
 ---

@@ -2,14 +2,14 @@
 category: news
 title: "AI and machine learning in financial services"
 excerpt: "While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption to ensure the most successful outcomes."
-publishedDateTime: 2022-03-09T21:34:00Z
-originalUrl: "https://www.csoonline.com/resources/231729/ai-and-machine-learning-in-financial-services"
-webUrl: "https://www.csoonline.com/resources/231729/ai-and-machine-learning-in-financial-services"
+publishedDateTime: 2022-03-09T21:41:00Z
+originalUrl: "https://www.networkworld.com/resources/231729/ai-and-machine-learning-in-financial-services"
+webUrl: "https://www.networkworld.com/resources/231729/ai-and-machine-learning-in-financial-services"
 type: article
 
 provider:
-  name: CSOonline
-  domain: csoonline.com
+  name: Network World
+  domain: networkworld.com
 
 topics:
   - AI in Finance
@@ -17,11 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
-    width: 300
-    height: 300
+  - url: "https://us.resources.networkworld.com/wp-content/uploads/2022/03/1647373789.png"
+    width: 1333
+    height: 750
     isCached: true
 
-secured: "x7aN7QhJrSXm+jEBssPkf4DKcdvQa46Own+btrLjT0qqTb/I+MPsUdI34S58IQcO4nfRdpM7i1vKgHq3qIhhx0aRJfbCEn4yHYQ2emQ5tK/Zpvgk2xNR6JQ3/YqUNv1UupmryUPJNjtF9B87okcyQRMmO3XydmkIKbVfNRG6T5F/7r/BSmH/2pbYSnA5/c5EbSUiw/R2Pcx17M/GIaatLregTeshsV3z7cNqqLlK7Aw0b5SHy9RiuGkVqnKIK73mBdHBPN6K6teamhlS2+5K1m1d2RsJVgwA9tUta4zd3sFnKyVHewJVuCnuqVnk7djvyVj0OCPGH42AYZCoZDSx3Vu3BGXiS+1v9Q8ymKOTCSM=;cuEOvwJ1+4sZVbRzgOGRHQ=="
+secured: "7Nbz/0s43cKGXL9E+/IPJ1qpO26BYGmf+A7BRm/Irfg1NbjfhTiRhOLeQ6p4dKXQlGsvu6NmCqgel3h0fA94ML0CQFYHZaprCwlCB4T9Usdr3UNSkBMkTE/d9YodjsEvjbUwnia7jPbU68kt+PhfkoyYNTgGz8kMjk/RGoJDKCHxjK3sOQSl6MXuCEa+zkFN1SGrOpa7/WM8aV7hzdaYGF8qw6wHnwuzf4Tje2xOTVT0I9LvDbsAwCpCJNZzmMGblkQ+7wh1FfE4Gc0fu06fIG1Hj4qPil4yeKJiHhXSiO+Ln0PAYVIurik3HZZV3iwc2R2UEmDuYD0wdbimnjDBcheeRqFrTLGCfVAUlUAFSck=;1h3CXJdYH9jdg1NklFcy6A=="
 ---
 

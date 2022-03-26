@@ -39,6 +39,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Deep Learning Market is Going to Boom | Micron Technology, Qualcomm, Google"
+    excerpt: "Deep Learning Market - Global Outlook and Forecast 2022-2030 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities and leveraged with strategic and tactical decision-making support."
+    publishedDateTime: 2022-03-26T06:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/deep-learning-market-going-boom-micron-technology-qualcomm-zirpe"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 17
 
 secured: "m0L9S36UL6LeFHev9aEzogT5ekiwal4xjy1TJ/kcXf7UZgA2nOFhGK6AtM/ZACfLVzZye98EnUl9m+ECTcE7C0QHV09fFcZcem8tiqJ/LDP2ejFxyJcaDnBcdwR2NYOawXCmr6qtnYNMr+IBAjSEwb1qKJi3YvqUHBAAWIpZtwetuIUhkthci2D3kpFAXi73EaBuaUOzSDOV8BASnKHb9HM5sHgtKGROVbWFt2qdV+LiAUqU19rFiAZXfNTB48aIPhG43uA9e38YOlytmqs0ZSNGDceOaSfctVx9YrkI6PDFRcKV2DgqGtYsDXJ1+RQAJ78cGZWYLq7maHf7JT1iy+g4dJwVBWq74gkUit3OhVE=;zOU9ovjJ5pqEMNYmgsnHRg=="
 ---

@@ -88,20 +88,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "IAIDL To Compete as AIMA Tool Among Big Industry Names in the Peacock Fintech and Banks Award"
-    excerpt: "Bringing its best foot forward, the International AI Driving Licence (IAIDL) is set to compete against PWC, Mckinsey, and other renowned international"
-    publishedDateTime: 2022-03-22T01:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 43
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Russians-Helsinki-Train-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Dragonfruit Frontier, a new Cloud VMS with AI analytics"
     excerpt: "Frontier enables secure management of hundreds of locations from a single browser with no additional hardware costs"
     publishedDateTime: 2022-03-24T13:28:00Z

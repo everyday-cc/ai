@@ -2,6 +2,215 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-03-07-smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning.md",
+      "title": "Smart Finance announces official launch of cryptocurrency platform based on AI and machine learning",
+      "excerpt": "London – March 3rd, 2022 – Smart Finance declares the launch of its avant-garde decentralized finance (DeFi) platform based on leading-edge artificial intelligence, machine learning and ...",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/press-releases/smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning",
+      "originalUrl": "https://cointelegraph.com/press-releases/smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wOTJmZmE0NDJlNTJkMWY3NzgwN2I5OTEwZWU3YmVjNC5qcGc=.jpg",
+          "width": 740,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/press-releases/smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning/amp",
+      "publishedDateTime": "2022-03-06T14:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-03-06-how-david-leica-is-integrating-cutting-edge-ai-into-hollands-logistics.md",
+      "title": "How David Leica is integrating Cutting-Edge AI into Holland's Logistics",
+      "excerpt": "Artificial Intelligence (AI) is gaining traction in the logistics business in Holland, thanks to advances in machine learning, computing power, big data analytics, and industry approval. CEO of Logistic One Ltd,",
+      "sourceUrl": null,
+      "webUrl": "https://nl.mashable.com/tech-2/6839/how-david-leica-is-integrating-cutting-edge-ai-into-hollands-logistics",
+      "originalUrl": "https://nl.mashable.com/tech-2/6839/how-david-leica-is-integrating-cutting-edge-ai-into-hollands-logistics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_nl/photo/default/blob_5tb7.620.jpg",
+          "width": 620,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nl.mashable.com/tech-2/6839/how-david-leica-is-integrating-cutting-edge-ai-into-hollands-logistics?amp=1",
+      "cdnAmpWebUrl": "https://nl-mashable-com.cdn.ampproject.org/c/s/nl.mashable.com/tech-2/6839/how-david-leica-is-integrating-cutting-edge-ai-into-hollands-logistics?amp=1",
+      "publishedDateTime": "2022-03-06T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-06-this-growth-stock-is-a-machine-learning-powerhouse.md",
+      "title": "This Growth Stock Is a Machine Learning Powerhouse",
+      "excerpt": "Estimates suggest the machine learning industry was worth $15.5 billion in 2021 ... by brothers David and Tom Gardner, The Motley Fool is a multimedia financial-services company dedicated to building the world's greatest investment community.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/this-growth-stock-is-a-machine-learning-powerhouse",
+      "originalUrl": "https://www.nasdaq.com/articles/this-growth-stock-is-a-machine-learning-powerhouse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/this-growth-stock-is-a-machine-learning-powerhouse?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-growth-stock-is-a-machine-learning-powerhouse?amp",
+      "publishedDateTime": "2022-03-06T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-06-speech-recognition-for-real-time-closed-captioning.md",
+      "title": "Speech Recognition for Real-time Closed Captioning",
+      "excerpt": "This paper describes the current state of closed captioning, provides an overview of speech recognition technology, and introduces real-time closed-captioning systems using speech recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nhk.or.jp/strl/english/publica/bt/48/2.html",
+      "originalUrl": "https://www.nhk.or.jp/strl/english/publica/bt/48/2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nhk.or.jp/strl/english/publica/bt/48/img/2_1.jpg",
+          "width": 720,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-06T00:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHK",
+        "domain": "nhk.or.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-06-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
+      "title": "AI & ML latest: Google disbands another AI ethics committee",
+      "excerpt": "28/01/2019 Amazon open-sources its SageMaker Neo machine learning optimisation software Amazon has open-sourced SageMaker Neo, its software for training machine learning models and optimising the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
+      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.chitra.live/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg",
+          "width": 370,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-05T16:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computing",
+        "domain": "computing.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-03-06-4-tips-to-responsibly-and-ethically-implement-ai-for-hiring.md",
       "title": "4 tips to responsibly and ethically implement AI for hiring",
       "excerpt": "How do companies ensure that their AI technology is improving the ethics and equity of their hiring process, not hindering it?",
@@ -929,239 +1138,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-the-5-biggest-computer-vision-trends-in-2022.md",
-      "title": "The 5 Biggest Computer Vision Trends In 2022",
-      "excerpt": "Computer vision (sometimes called machine vision) is one of the most exciting applications of artificial intelligence. Here we look at the five biggest trends in this fast-developing area.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/03/04/the-5-biggest-computer-vision-trends-in-2022/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/03/04/the-5-biggest-computer-vision-trends-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6221c6ec627443cf26ea478e/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/03/04/the-5-biggest-computer-vision-trends-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/03/04/the-5-biggest-computer-vision-trends-in-2022/amp/",
-      "publishedDateTime": "2022-03-03T23:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-kmworld-100-companies-that-matter-in-knowledge-management-2022.md",
-      "title": "KMWorld 100 Companies That Matter in Knowledge Management 2022",
-      "excerpt": "AvePoint—Offers a full suite of SaaS solutions to migrate, man- age, and protect data in Microsoft 365 ... to automate routine cognitive tasks and provide insights. Infosys—A global provider of next-generation services and consulting that enables ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150943",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/144152-100CO_2022.jpg-ORG.jpg",
-          "width": 640,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T21:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-how-ai-powered-xdr-can-secure-the-hybrid-workforce.md",
-      "title": "How AI-powered XDR can secure the hybrid workforce",
-      "excerpt": "XDR's overall aim is to integrate and correlate data from numerous security tools to help customers prioritize the biggest threats.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/03/how-ai-powered-xdr-can-secure-the-hybrid-workforce/",
-      "originalUrl": "https://venturebeat.com/2022/03/03/how-ai-powered-xdr-can-secure-the-hybrid-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/2-Why-XDR-is-worth-considering.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/03/how-ai-powered-xdr-can-secure-the-hybrid-workforce/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/how-ai-powered-xdr-can-secure-the-hybrid-workforce/amp/",
-      "publishedDateTime": "2022-03-03T20:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-self-driving-truck-company-tusimple-replaces-ceo-shares-plummet-22.md",
-      "title": "Self-driving truck company TuSimple replaces CEO; shares plummet 22%",
-      "excerpt": "TuSimple Holdings Inc. on Thursday said it was replacing its CEO in a decision it called part of a \"planned executive succession,\" but which took Wall Street by surprise and caused its shares to plummet more than 20 percent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/executives/self-driving-truck-company-tusimple-replaces-ceo-shares-plummet-22",
-      "originalUrl": "https://www.autonews.com/executives/self-driving-truck-company-tusimple-replaces-ceo-shares-plummet-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/TUSIMPLETRUCKS-MAIN_i.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-how-kubernetes-extends-to-machine-learning-ml.md",
-      "title": "How Kubernetes extends to machine learning (ML)",
-      "excerpt": "“Kubernetes supports GPUs today, which accelerates the AI workflow and automates the management of GPU-accelerated application containers. These tools enable ML teams to leverage the speed of GPUs within a containerised workflow. “Kubernetes also helps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/how-kubernetes-extends-machine-learning-ml-123492360/",
-      "originalUrl": "https://www.information-age.com/how-kubernetes-extends-machine-learning-ml-123492360/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2020/10/how-kubernetes-extends-machine-learning-ml.jpeg.optimal.jpeg",
-          "width": 1080,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

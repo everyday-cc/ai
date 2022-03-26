@@ -847,17 +847,17 @@
       "title": "AI and machine learning in financial services",
       "excerpt": "While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption to ensure the most successful outcomes.",
       "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/resources/231729/ai-and-machine-learning-in-financial-services",
-      "originalUrl": "https://www.csoonline.com/resources/231729/ai-and-machine-learning-in-financial-services",
+      "webUrl": "https://www.networkworld.com/resources/231729/ai-and-machine-learning-in-financial-services",
+      "originalUrl": "https://www.networkworld.com/resources/231729/ai-and-machine-learning-in-financial-services",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://idge.staticworld.net/cso/CSO_logo_300x300.png",
-          "width": 300,
-          "height": 300,
+          "url": "https://us.resources.networkworld.com/wp-content/uploads/2022/03/1647373789.png",
+          "width": 1333,
+          "height": 750,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -867,11 +867,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-09T13:34:00-08:00",
+      "publishedDateTime": "2022-03-09T13:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
+        "name": "Network World",
+        "domain": "networkworld.com",
         "images": null,
         "publishers": null,
         "authors": null
