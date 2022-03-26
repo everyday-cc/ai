@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Why ethics might be the most important factor in AI enabled policing"
-    excerpt: "Whether we realise or not, automation and AI is having a significant impact on how Public Services in the UK are delivered. You only need to hear about the Automation and AI journey undertaken at DWP to understand that these types of technology impact us all and are becoming a critical business resource supporting the day to day running of the Public Sector."
-    publishedDateTime: 2022-03-21T09:00:00Z
-    webUrl: "https://www.techuk.org/resource/why-ethics-might-be-the-most-important-factor-in-ai-enabled-policing.html"
-    type: article
-    provider:
-      name: techUK
-      domain: techuk.org
-    quality: 54
-    images:
-      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/db60e133-e45a-4028-a35ae55cd306b95b/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/policeofficersmale100825242.jpeg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "2kEuMy44mZnQHsUPAe+NGryqB5rh6Rx3m91XlVgYu2kgbYpoI9MrXx0mROPXZuSViBXl1N4Cd6qhPDPebixFDKVUda+rpzeq7Vrrovyqm25Zq10Q25OmgAs7sSjn9PpbnIwWkgKP3b7L2hV+oOrY514HnR/jV1OM62ewcXCQOd65VnHjCdY+S5K7137wb+IsZDo2pAj9B6CV94bs9QrQ8lHKcrkZIGaxE2pN97R3ZMEBIt3j0Kgd81F/mWQD4AjsHj5abaL0weU8Lt9Rk+buUhhsRBdjm3Uqd1fO4v3TY2drx/d14QiFzxOIjbRi+QCQ1z5XudnemalwYaI74WNDPEwlAdlNFrn30qvEzj8QICmh0Iv7ypm1BmXcNlCZVSBhmoiVCHEkRlbChEoc9ZLFI0a3bwLBZrVfrJ2+rk161eBvlOMec1HIfOdpO1X73zvDb1zq7ZB1Z+EMnFUIErRUwQEqrqu+iuvp5I/LOv4ifQuWrFDhpotzSlwmCz2zJ7LsDxFXI/TbFeRE1GDL7+LfAw==;d+R1QBSyBgit1IUVEsQhog=="
 ---

@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-17-ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars.md",
+      "title": "AI Ethics Keeps Relentlessly Asking Or Imploring How To Adequately Control AI, Including The Matter Of AI That Drives Self-Driving Cars",
+      "excerpt": "The AI Control Problem is what keeps AI ethics up at night, for which paths to solving the pressing issue are discussed, along with examples from AI-based self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/17/ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/17/ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/622a4da448f19c30f3859096/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/17/ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/17/ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars/amp/",
+      "publishedDateTime": "2022-03-17T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-artificial-intelligence-chips-market-is-going-to-boom-baidu-mythic-alphabet.md",
       "title": "Artificial intelligence Chips Market Is Going To Boom | Baidu, Mythic, Alphabet",
       "excerpt": "Chips has recently been published. The market presents an analysis of the current industry dynamics in the Artificial intelligence (AI) Chips Market arena, as well as what our survey respondents believe the market will look like in 2027.",
@@ -220,19 +273,19 @@
     {
       "path": "_news/2022-03-17-artificial-intelligence-chipsets-market-size-worth-12567-billion-globally-by-2028-at-3408-cagr-verified-market-research.md",
       "title": "Artificial Intelligence Chipsets Market size worth $ 125.67 Billion, Globally, by 2028 at 34.08 % CAGR: Verified Market Research®",
-      "excerpt": "Verified Market Research recently published a report, \"Artificial Intelligence Chipsets Market\" By Technology (Natural Language Processing, Machine Learning), By Hardware (Memory, Network),",
+      "excerpt": "Verified Market Research recently published a report, \"Artificial Intelligence Chipsets Market\" By Technology (Natural Language",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-chipsets-market-size-worth-125-67-billion-globally-by-2028-at-34-08/article_873fe271-a5f9-503b-97c5-e72bee51cd92.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-chipsets-market-size-worth-125-67-billion-globally-by-2028-at-34-08/article_873fe271-a5f9-503b-97c5-e72bee51cd92.html",
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-chipsets-market-size-worth-125-67-billion-globally-by-2028-at-34-08-cagr-verified-market-research-r--870485877.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-chipsets-market-size-worth-125-67-billion-globally-by-2028-at-34-08-cagr-verified-market-research-r--870485877.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook",
+          "width": 2696,
+          "height": 1414,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -245,8 +298,8 @@
       "publishedDateTime": "2022-03-17T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1035,58 +1088,6 @@
         "AI",
         "AI in Robotics",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-downer-group-leverages-ai-infused-analytics-to-drive-the-development-of-next-generation-health-safety-and-environment-management-systems-with.md",
-      "title": "Downer Group leverages AI-infused analytics to drive the development of next-generation health, safety and environment management systems with Crayon",
-      "excerpt": "Systems that collect and analyse evidence at a massive scale to predict potential futures before they occur (without the pre-cognitive humans in a ... In 2021, Downer Group partnered with Microsoft and IT services specialist Crayon to start building ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/en-au/features/downer-group-leverages-ai-infused-analytics-to-drive-the-development-of-next-generation-health-safety-and-environment-management-systems-with-crayon/",
-      "originalUrl": "https://news.microsoft.com/en-au/features/downer-group-leverages-ai-infused-analytics-to-drive-the-development-of-next-generation-health-safety-and-environment-management-systems-with-crayon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/66/2022/03/Downer.Microsoft_Image.selection.02.202219.jpg",
-          "width": 1365,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

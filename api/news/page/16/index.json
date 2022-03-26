@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-03-07-how-wrongful-arrests-based-on-ai-derailed-3-mens-lives.md",
+      "title": "How Wrongful Arrests Based on AI Derailed 3 Men's Lives",
+      "excerpt": "Critics say police rely too heavily on the technology, particularly since research has shown it misidentifies ... impact immigrants and communities of color. Search our artificial intelligence database and discover stories by sector, tech, company, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/wrongful-arrests-ai-derailed-3-mens-lives/",
+      "originalUrl": "https://www.wired.com/story/wrongful-arrests-ai-derailed-3-mens-lives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6222a5af850ca1019a6d9e82/master/pass/security-facial-ai.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/wrongful-arrests-ai-derailed-3-mens-lives/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/wrongful-arrests-ai-derailed-3-mens-lives/amp",
+      "publishedDateTime": "2022-03-07T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-07-the-hidden-role-of-facial-recognition-tech-in-many-arrests.md",
       "title": "The Hidden Role of Facial Recognition Tech in Many Arrests",
       "excerpt": "The technology is spreading fast among police, and often wrong. But people charged with crimes are rarely told they were fingered by an algorithm.",
@@ -1121,49 +1173,6 @@
         "Microsoft AI",
         "Machine Learning",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-05-microsoft-completes-197b-acquisition-of-nuances-ai-voice-tech.md",
-      "title": "Microsoft completes $19.7B acquisition of Nuance's AI voice tech",
-      "excerpt": "Microsoft's $19.7 billion deal for AI-based communications provider Nuance closed on Friday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/microsoft-completes-197-billion-acquisition-ai-giant-nuance",
-      "originalUrl": "https://www.protocol.com/bulletins/microsoft-completes-nuance-acquisition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/01/microsoft-logo-2022-2.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-04T09:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

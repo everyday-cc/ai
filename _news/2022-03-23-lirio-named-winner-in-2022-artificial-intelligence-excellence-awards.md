@@ -25,33 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award"
-    excerpt: "The award recognizes BairesDev's AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
-    publishedDateTime: 2022-03-25T23:16:00Z
-    webUrl: "https://www.khon2.com/business/press-releases/cision/20220325IN04224/bairesdev-wins-the-business-intelligence-groups-2022-artificial-intelligence-excellence-award/"
+  - title: "BairesDev wins the Business Intelligence Group’s 2022 Artificial Intelligence Excellence Award"
+    excerpt: "The award recognizes BairesDev’s AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
+    publishedDateTime: 2022-03-25T17:18:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
     type: article
     provider:
-      name: KHON2
-      domain: khon2.com
+      name: Associated Press
+      domain: apnews.com
     quality: 40
     images:
-      - url: "https://i0.wp.com/www.khon2.com/wp-content/uploads/sites/8/2022/03/Locations-Open-House-3.27.22_Photo.jpg?w=2000&#038;ssl=1"
-        width: 480
-        height: 270
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
     excerpt: "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program."
-    publishedDateTime: 2022-03-25T20:11:00Z
-    webUrl: "https://www.lelezard.com/en/news-20305699.html"
+    publishedDateTime: 2022-03-25T23:09:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=637410"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: 아크로팬
+      domain: acrofan.com
     quality: 39
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "Evisort Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "The Business Intelligence Group today announced that Evisort is a winner in its inaugural Artificial Intelligence Excellence Awards program. Evisort is the leading provider of artificial intelligence (AI) solutions for contract management and analytics."

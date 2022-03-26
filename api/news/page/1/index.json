@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-26-border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal.md",
+      "title": "Border Patrol adds artificial intelligence cameras to security arsenal",
+      "excerpt": "Border agents in the past five months have participated in 6,630 search and rescues of migrants along the Southwestern border. They’re hoping newly deployed technology will help them not only stop",
+      "sourceUrl": null,
+      "webUrl": "https://www.borderreport.com/hot-topics/immigration/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/",
+      "originalUrl": "https://www.borderreport.com/hot-topics/immigration/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.borderreport.com/wp-content/uploads/sites/28/2022/03/CBP-IMAGE-ASTs.png?w=1280",
+          "width": 896,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.borderreport.com/hot-topics/immigration/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/",
+      "cdnAmpWebUrl": "https://www-borderreport-com.cdn.ampproject.org/c/s/www.borderreport.com/hot-topics/immigration/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/",
+      "publishedDateTime": "2022-03-25T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BorderReport",
+        "domain": "borderreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-03-26-trullion-tackles-applying-ai-to-accounting-workflows.md",
       "title": "Trullion tackles applying AI to accounting workflows",
       "excerpt": "Trullion thinks AI may be used to unify the \"unstructured and structured worlds of accounting by translating them into financial workflows.\"",
@@ -260,7 +303,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/25/ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -301,7 +344,8 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI Ethics"
       ]
     },
     {
@@ -638,6 +682,50 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-machine-learning-in-cyber-security-a-structured-approach.md",
+      "title": "Machine learning in cyber security: a structured approach",
+      "excerpt": "The international business continuity, ERM, and resilience information portal",
+      "sourceUrl": null,
+      "webUrl": "https://continuitycentral.com/index.php/news/technology/7185-machine-learning-in-cyber-security-a-structured-approach",
+      "originalUrl": "https://continuitycentral.com/index.php/news/technology/7185-machine-learning-in-cyber-security-a-structured-approach",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.continuitycentral.com/images/fblogo.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "continuitycentral.com",
+        "domain": "continuitycentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -1128,102 +1216,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-dont-stop-at-one-search-emails-reveal-how-clearview-pushed-college-police-to-use-facial-recognition-on-students.md",
-      "title": "‘Don’t stop at one search’: Emails reveal how Clearview pushed college police to use facial recognition on students",
-      "excerpt": "The University of Illinois used a free version of Clearview AI to conduct investigations. It then bought the software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/university-illinois-clearview/",
-      "originalUrl": "https://www.dailydot.com/debug/university-illinois-clearview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads.dailydot.com/2022/03/facial-recognition-college.jpg?auto=compress&fm=pjpg&ixlib=php-3.3.1",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/university-illinois-clearview/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/university-illinois-clearview/?amp",
-      "publishedDateTime": "2022-03-24T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-democratization-of-ai-is-said-to-be-essential-for-ai-ethics-but-the-devil-is-in-the-details-including-the-case-of-ai-based-self-driving-cars.md",
-      "title": "Democratization Of AI Is Said To Be Essential For AI Ethics But The Devil Is In The Details, Including The Case Of AI-Based Self-Driving Cars",
-      "excerpt": "A lot of discussion these days says that we need to democratize AI, which is quite a topic of great importance. The matter is closely reviewed herein and considered too with an example underlying the advent of AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/24/democratization-of-ai-is-said-to-be-essential-for-ai-ethics-but-the-devil-is-in-the-details-including-the-case-of-ai-based-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/24/democratization-of-ai-is-said-to-be-essential-for-ai-ethics-but-the-devil-is-in-the-details-including-the-case-of-ai-based-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623be5582b07d06603dcafb3/0x0.jpg?format=jpg&crop=2889,1987,x81,y0,safe&fit=crop",
-          "width": 2889,
-          "height": 1987,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/24/democratization-of-ai-is-said-to-be-essential-for-ai-ethics-but-the-devil-is-in-the-details-including-the-case-of-ai-based-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/24/democratization-of-ai-is-said-to-be-essential-for-ai-ethics-but-the-devil-is-in-the-details-including-the-case-of-ai-based-self-driving-cars/amp/",
-      "publishedDateTime": "2022-03-24T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

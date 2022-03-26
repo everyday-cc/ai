@@ -2,6 +2,49 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2022-02-11-iot-development-tools-work-on-ultra-low-power-psoc-6-mcus.md",
+      "title": "IoT development tools work on ultra-low power PSoC 6 MCUs",
+      "excerpt": "Additionally, they can use an AutoML cloud platform to train models without extensive AI expertise, and then deploy the resulting models on the PSoC 6 MCU for use on edge devices. Ideal for battery-powered applications, Infineon’s PSoC 6 MCUs are built ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eeworldonline.com/iot-development-tools-work-on-ultra-low-power-psoc-6-mcus/",
+      "originalUrl": "https://www.eeworldonline.com/iot-development-tools-work-on-ultra-low-power-psoc-6-mcus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://czdfw1kuw9n20zm0l7pmfb1a-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/scope-finder.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-10T15:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eeworldonline.com",
+        "domain": "eeworldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-zillows-shuttered-home-flipping-business-lost-881-million-in-2021.md",
       "title": "Zillow’s Shuttered Home-Flipping Business Lost $881 Million in 2021",
       "excerpt": "Real-estate company says in a letter to shareholders that it is targeting revenue of $5 billion by 2025 U.S. home prices hit an all-time high in 2021 ... Zillow Group said on Thursday that it lost $881 million on its algorithmic-driven home-flipping ...",
@@ -1127,40 +1170,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-visionifyai-chosen-as-computer-vision-solutions-partner-by-dessert-toppings-company-tr-toppers.md",
-      "title": "Visionify.ai Chosen as Computer Vision Solutions Partner by Dessert Toppings Company TR Toppers",
-      "excerpt": "DENVER, Feb. 10, 2022 /PRNewswire/ -- Visionify.ai, a Colorado based Computer Vision company that provides turnkey solutions to its customers, today announced it is now a solutions partner for TR Toppers, Inc. The processor and packager of branded and non ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-visionifyai-chosen-as-computer-vision-solutions-partner-dessert-/2022/02/10/9543121.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-visionifyai-chosen-as-computer-vision-solutions-partner-dessert-/2022/02/10/9543121.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-10T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

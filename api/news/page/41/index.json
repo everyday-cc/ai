@@ -2,6 +2,39 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2022-02-12-dallas-gop-congressional-candidate-brad-namdar-accused-of-soliciting-sex-from-escort.md",
+      "title": "Dallas GOP congressional candidate Brad Namdar accused of soliciting sex from escort",
+      "excerpt": "A woman who works as a professional escort says Brad Namdar, a GOP congressional candidate and anti-human ... s office told The News that neither has a record of any such report made against ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.law360.com/articles/1466651/art-not-made-by-humans-can-t-be-copyrighted-office-says",
+      "originalUrl": "https://www.dallasnews.com/news/investigations/2022/02/12/dallas-gop-congressional-candidate-brad-namdar-accused-of-soliciting-sex-from-escort/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.law360.com/amp/articles/1466651",
+      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1466651",
+      "publishedDateTime": "2022-02-12T06:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Morning News",
+        "domain": "dallasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-12-ai-eye-podcast-659-stocks-discussed-nyse-ibm-nasdaqgs-flnc-nyse-aes.md",
       "title": "AI Eye Podcast 659: Stocks discussed: (NYSE: $IBM) (NasdaqGS: $FLNC) (NYSE: $AES)",
       "excerpt": "of an AI-based virtual assistant powered by IBM Watson Assistant that can help customers with inquiries on the TD Precious Metals digital store, including frequently asked questions. Daniel ...",
@@ -1104,49 +1137,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-haisten-ai-bridging-innovation-with-reality-and-shortening-project-timetables.md",
-      "title": "hAIsten AI: Bridging innovation with reality and shortening project timetables",
-      "excerpt": "GPU-based AI has become an indisputable trend in the technology industry. The market has been swamped by a stream of AI-based smart services such as smart transportation, smart medicine ...",
-      "sourceUrl": null,
-      "webUrl": "https://digitimes.com/news/a20220208VL203/ai-internet-cloud-ai.html",
-      "originalUrl": "https://digitimes.com/news/a20220208VL203/ai-internet-cloud-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://digitimes.com/newsshow/20220208VL203_files/2_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-11T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

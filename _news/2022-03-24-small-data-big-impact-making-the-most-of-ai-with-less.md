@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/small-data
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/24/small-data-big-impact-making-the-most-of-ai-with-less/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why ethics might be the most important factor in AI enabled policing"
-    excerpt: "Whether we realise or not, automation and AI is having a significant impact on how Public Services in the UK are delivered. You only need to hear about the Automation and AI journey undertaken at DWP to understand that these types of technology impact us all and are becoming a critical business resource supporting the day to day running of the Public Sector."
-    publishedDateTime: 2022-03-21T09:00:00Z
-    webUrl: "https://www.techuk.org/resource/why-ethics-might-be-the-most-important-factor-in-ai-enabled-policing.html"
-    type: article
-    provider:
-      name: techUK
-      domain: techuk.org
-    quality: 54
-    images:
-      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/db60e133-e45a-4028-a35ae55cd306b95b/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/policeofficersmale100825242.jpeg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "The Growing Interdependence of Artificial Intelligence and Big Data"
     excerpt: "Artificial intelligence (AI) and big data are disrupting various sectors during the covid-19 pandemic. The combination of AI and big data is the perfect union for innovation to flourish, driving businesses and giving them a competitive edge over their peers."
     publishedDateTime: 2022-03-22T21:09:00Z

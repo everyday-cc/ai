@@ -1,29 +1,45 @@
 ---
 category: news
-title: "Leveraging its AI-Driven Technology, Pactera EDGE Climbs Four Positions on Slator’s 2022 Language Service Provider Index"
-excerpt: "Enhanced Localization and Globalization Services Solidifies Pactera EDGE as a Market Leader in Effective Brand Translations"
-publishedDateTime: 2022-03-24T18:40:00Z
-originalUrl: "https://www.digitaljournal.com/pr/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service-provider-index"
-webUrl: "https://www.digitaljournal.com/pr/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service-provider-index"
+title: "Leveraging its AI-Driven Technology, Pactera EDGE Climbs Four Positions on Slator's 2022 Language Service Provider Index"
+excerpt: "Growth in its AI-Enhanced Localization and Globalization Services ... Provider Index is a ranking and an index of the world's largest translation, localization, interpreting, and language technology companies. \"We've experienced significant organic growth ..."
+publishedDateTime: 2022-03-24T18:12:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service/article_9e4966e0-a8b8-5215-a906-c97477c8b704.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service/article_9e4966e0-a8b8-5215-a906-c97477c8b704.html"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Finance
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.prunderground.com/wp-content/uploads/2022/03/SLATOR-LSPSI-Image.jpg"
-    width: 1200
-    height: 627
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
-secured: "kCw2xvztkc5cs+hhkJNz7a2eoa2Az6AXcS4AeeS5hGjylzoT0mR0xNm9e0atT1pxdQZc+P7ZP3cp7yLykdzWj4WeHDPjhuh6lq99zv7Yc6kAWCyYezjJMOR0j7U3XOVF/JRGgANCEsxuRFgwZQiLcRRXzNFeQIgJoImo83x46IXCI/yo+rohcBHE0UQZhRLmnZgdWLUwq60a6TYflSXyVNp9GrknMfRjJ2EgTE4sfmgNBG0ceDD023E3SgKxooXuXNLXvovcfU20LPP3mKIDXm5cnTPWyoc+1lO5w4bOoyu6AQf/KI6NtMq+PiNRB3f56yjjaxZxlXcLRgQWmBNfmJDf62u4cbe+bnlil/kzJfA=;p2Yz5rJ6dtXxnD356jNFtQ=="
+related:
+  - title: "Argos Multilingual Launches AI-driven Translation Memory Cleaning Service"
+    excerpt: "Argos Multilingual has announced the development of an AI-driven service for cleaning translation memory (TM) data."
+    publishedDateTime: 2022-03-22T15:45:00Z
+    webUrl: "https://slator.com/argos-multilingual-launches-ai-driven-translation-memory-cleaning-service/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 38
+    images:
+      - url: "https://slator.com/assets/2021/05/Argos-Multilingual-2021-900x600-CD.png"
+        width: 900
+        height: 600
+        isCached: true
+
+secured: "lhmduseGxf58zftlXpH+4qfQSUn+VcsIheXZ8nT0geay5HNKxwmZUKKo6pm3YNrr9gV40vdXo71v+nOlgGm8lyux8SmqQyhkTjtz+bCRxPDb0fezVr03IJPmJmv5h2SmuhMyirodVcI2ctDuwvWvqktrlw1qymsc9ZLCZK0OjW2Ku7CmUw2py0tN7jNxp5ylUo4TrmvOIx0Wlq150HLQEyFDiNfkFDeTTEmSUBcTT4owa8221Y4hl/APR95n6Vd6DU2wAjj++Xnw2luU1WX8c9Dkwi3F/NtMutI+42dcKY01wDBNTxtYEZ+1FLdXUot9Hkfc+vGtgoAmEl6oa4kaEfQ5qjFSP6H6oZ8kYRODyAg=;uA3DJpifTXtXSyAMiSBedg=="
 ---
 

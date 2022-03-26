@@ -1,26 +1,26 @@
 ---
 category: news
-title: "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award"
-excerpt: "The award recognizes BairesDev's AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
-publishedDateTime: 2022-03-25T23:16:00Z
-originalUrl: "https://www.khon2.com/business/press-releases/cision/20220325IN04224/bairesdev-wins-the-business-intelligence-groups-2022-artificial-intelligence-excellence-award/"
-webUrl: "https://www.khon2.com/business/press-releases/cision/20220325IN04224/bairesdev-wins-the-business-intelligence-groups-2022-artificial-intelligence-excellence-award/"
+title: "BairesDev wins the Business Intelligence Group’s 2022 Artificial Intelligence Excellence Award"
+excerpt: "The award recognizes BairesDev’s AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
+publishedDateTime: 2022-03-25T17:18:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
 type: article
 quality: 40
 heat: 40
 published: false
 
 provider:
-  name: KHON2
-  domain: khon2.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://i0.wp.com/www.khon2.com/wp-content/uploads/sites/8/2022/03/Locations-Open-House-3.27.22_Photo.jpg?w=2000&#038;ssl=1"
-    width: 480
-    height: 270
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,17 +40,17 @@ related:
         isCached: true
   - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
     excerpt: "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program."
-    publishedDateTime: 2022-03-25T20:11:00Z
-    webUrl: "https://www.lelezard.com/en/news-20305699.html"
+    publishedDateTime: 2022-03-25T23:09:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=637410"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: 아크로팬
+      domain: acrofan.com
     quality: 39
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "Evisort Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "The Business Intelligence Group today announced that Evisort is a winner in its inaugural Artificial Intelligence Excellence Awards program. Evisort is the leading provider of artificial intelligence (AI) solutions for contract management and analytics."
@@ -81,6 +81,6 @@ related:
         height: 450
         isCached: true
 
-secured: "3tF/YS0rKS3jf4aBn9nkD9UXVdCVwU4ixsn74VlKHKy10MKyTQr43Y0yu/acifNj44oKBEocyzcHis2Qpfwy5MQ5jD0EN107bKvBLOQm6Bi9tJVQyJzQ3zfAYqn6QC4bQN1TOx8gfR3z06ck63nY9v/hrPqvHrFoQE3DQ7ydaO8QHYmbYacsgJhWnA9fc/EK3OgQFgYufuMke2VJ7sxsQAyoaP+C5OYGGieg+CzCZnGANgYmBTTwVSu0C7O2lmYfbJxWaa1sQQcEXSCOsTmX8rD1L2Xa0IeGHemjs8d7U5+3ecM93xYXEJrJJ4rlSSp98b4NCeEiwCZxMRxGSM8a6wj1ZW/qdzcpYSfKmq3pldI=;8sMRZ4OSc97E/8/0irV9OA=="
+secured: "2hgVCHvEvkE3OTzWldaU1gd1RWGktQNjYsFBF1SuuWdtJkgQod2f4oI5pw9IFz4T25Mm58cdRa6JgITEYb7BzeDnhH7DOUnk1eaI5ylRvDUEi//qEUqI1gGKDfKB2/dFF27jCKzNEXqu153oimUp7J0qrwHnvKGiZ/BFe/Cw7DFM/Toy/jRctFbRpi85ZHxITBlhHsXcEgWo1tZxR9iruyOBhSVVdxNaLprLYUfZpp5ki4/NM2+mtBk96ZslOeJsBK4Duj32679lOeeTJuPcPO8DqwNfJLLQwriqo+vxVcsTYTPlI91St1C+c9KnUYwZnH8O89Lfv0Gtcst0+EJip5zkX69hCpM2eeidxl8ehWY=;wDdO961+r3DtnW9OL4LXHQ=="
 ---
 

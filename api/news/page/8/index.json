@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-03-16-gene-therapy-global-market-report-2022.md",
+      "title": "Gene Therapy Global Market Report 2022",
+      "excerpt": "IS YOUR LUCKY DAY] For only $7, get 2 bear market beating options trade straight to your inbox and SMS every month! Click Here Now to Get Started! New York, March 16, 2022 (GLOBE NEWSWIRE) -- Reportlinker.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/03/g26165499/gene-therapy-global-market-report-2022",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/g26165499/gene-therapy-global-market-report-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26165499",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26165499",
+      "publishedDateTime": "2022-03-16T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-ai-startup-modern-intelligence-raises-5m-to-launch-innovative-maritime-surveillance-ai.md",
       "title": "AI Startup Modern Intelligence Raises $5M to Launch Innovative Maritime Surveillance AI",
       "excerpt": "Cutlass offers new standard in defense, unmatched accuracy and resilience; deployment on existing military platformAUSTIN, Texas, March 16, 2022",
@@ -1031,50 +1074,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-deep-learning-and-the-future-of-finance.md",
-      "title": "Deep Learning and the Future of Finance",
-      "excerpt": "Deep learning is increasingly deployed by financial services providers across industries within the financial sector. It has the potential to transform business models and markets for trading, credit and blockchain-based finance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/deep-learning-and-the-future-of-finance",
-      "originalUrl": "https://www.bbntimes.com/technology/deep-learning-and-the-future-of-finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/companies/Deep_Learning_in_Finance.jpeg",
-          "width": 1200,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

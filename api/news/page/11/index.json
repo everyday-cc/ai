@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-03-14-ibms-watson-steps-out-again.md",
+      "title": "IBM’s Watson steps out again",
+      "excerpt": "According to IBM, Watson’s engineers have also reduced ... When you look at artificial intelligence and computing, that’s one of the missing pieces.” The top five finalists will pitch ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/ibms-watson-steps-out-again/",
+      "originalUrl": "https://sdtimes.com/ai/ibms-watson-steps-out-again/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2014/03/0314.sdt-watson-medical.jpg",
+          "width": 490,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-14-ai-ethics-a-new-beginning.md",
       "title": "AI Ethics: A New Beginning",
       "excerpt": "The Institute for Ethics in AI, part of the Philosophy Faculty here at the University, brings together world-leading philosophers, and other experts in the field of the humanities, with those developing and using artificial intelligence in the arenas of academia,",
@@ -1079,58 +1131,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-aws-ceo-adam-selipsky-at-mwc-5g-cybersecurity-and-sustainability-in-the-cloud.md",
-      "title": "AWS CEO Adam Selipsky at MWC – 5G, Cybersecurity and Sustainability in the Cloud",
-      "excerpt": "Thank you for reading my latest article on AWS CEO Adam Selipsky at MWC – 5G, Cybersecurity and Sustainability in the Cloud. Here at LinkedIn and at Forbes I regularly write about management and technology trends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/aws-ceo-adam-selipsky-mwc-5g-cybersecurity-cloud-bernard-marr",
-      "originalUrl": "https://www.linkedin.com/pulse/aws-ceo-adam-selipsky-mwc-5g-cybersecurity-cloud-bernard-marr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHFSegBTexXWg/article-cover_image-shrink_600_2000/0/1646982720606?e=1653523200&v=beta&t=fDifGXe9__AGnR0GfnFXGO5ZNJr7aIo_hOwCnNGQEVo",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T23:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
