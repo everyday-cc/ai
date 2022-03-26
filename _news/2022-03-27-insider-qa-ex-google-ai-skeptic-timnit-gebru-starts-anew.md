@@ -8,7 +8,7 @@ webUrl: "https://www.localsyr.com/news/national/insider-qa-ex-google-ai-skeptic-
 ampWebUrl: "https://www.localsyr.com/news/national/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/amp/"
 cdnAmpWebUrl: "https://www-localsyr-com.cdn.ampproject.org/c/s/www.localsyr.com/news/national/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
   domain: localsyr.com
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
@@ -43,22 +44,20 @@ related:
         height: 1920
         isCached: true
   - title: "Insider Q&A: Ex-Google AI skeptic Timnit Gebru starts anew"
-    excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence."
-    publishedDateTime: 2022-03-26T15:00:00Z
-    webUrl: "https://www.click2houston.com/business/2022/03/26/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/"
-    ampWebUrl: "https://www.click2houston.com/business/2022/03/26/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/?outputType=amp"
-    cdnAmpWebUrl: "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/business/2022/03/26/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/?outputType=amp"
+    excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence"
+    publishedDateTime: 2022-03-26T10:01:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/insider-qa-google-ai-skeptic-timnit-gebru-starts-83685774"
     type: article
     provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 59
+      name: ABC
+      domain: abcnews.go.com
+    quality: 37
     images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VNDYKU32PNAXVG6QA25TI5GTVM.jpg?_a=ATABlcW0"
-        width: 700
-        height: 467
+      - url: "https://s.abcnews.com/images/Technology/WireAP_3aa9eaa491ab41348e46ce734ce58463_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
-secured: "eWtHYF7JRaCQHRXQ6/O9wkkU1KULQVBoU6qTA3jmeM8kxlwlYNetiEGcz6K+/GqytGVwdfza3xbXnVORGQKmB0IvmYUgj9ayJ+nA3IL99RFmHc0/d8RfbY6RDYoTJQv0iJ/r262rqQq1vIJZflLvIDcsLDyT36z+AqqOqDYIL3IjXLqRy4OM/MDfDkht3j4UGgnVrXYXwRbUz04lLpLhySfXG9CgWiu7kRNsJeLJjtE0epvNHMwV8mWK0+nhujOMdic4KrSEWXMRijoRL/xfUn/dd8hS4ToZ5HLmoH/0YP8djBZskNzydmmUvA/rcW07PPLR0YRlFGNJeZAdgr5IGIs9v6LfyP1SmpJQVqwe/CU=;BGJWgPDMDt+1qdu4kRMgGA=="
+secured: "T+P3DaTUz2+i/QLNhaz+0flKcpdbMTFV6560AgoRsOr+9oO+UbJNO+ehxPnHRfJDIo1mFhxajzOByyUrI/xvLIK+BOx/caHdmBRaqZhrCOWLBr0QFSmrYcEvygvrl06+epYy7ddwajs3vGsujAaH4CF+6a89yuYF7LMpCIpqjfTANMqPgokG07H6BfCvL8fgVsOk/tqSZrasyXye6dDoK2kqZtBLElJ5PvcDjJK/Ws4O6Du4jRr+h2h1o/DFyDdCBseGozikJNMYbZvwjFh97I8DgxOpfQbCelmfACXhvrE4lCJ2FmVw4wTOeWvwU0z7ZnBs8w5i05T9hMTj/oP+H0JxNEyA0607iIRlT4nAObA=;9h1MqhzvaTmFiAboYU37eg=="
 ---
 

@@ -133,20 +133,6 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 19
-  - title: "Boost, a regional FinTech firm, becomes first fully digital financier to secure investment grade A1 rating in Southeast Asia"
-    excerpt: "Boost looking to tap on burgeoning digital banking ecosystem within the Southeast Asian region A1 rating for its Malaysian securitised receivables cements firm's commitment towards the underserved segment securitizes financing portfolio;"
-    publishedDateTime: 2022-03-22T04:00:00Z
-    webUrl: "https://techent.tv/2022/03/22/boost-a-regional-fintech-firm-becomes-first-fully-digital-financier-to-secure-investment-grade-a1-rating-in-southeast-asia/"
-    type: article
-    provider:
-      name: techent.tv
-      domain: techent.tv
-    quality: 0
-    images:
-      - url: "https://techent.tv/wp-content/uploads/2022/03/fenix360-a-revolutionary-social-media-fintech-platform-with-advanced-features-launches-globally-to-provide-artists-creators-and-fans-a-brand-new-experience-and-monetization-model.jpg"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "K5dorhD7ViC8HMNDiHlvy1803eK34/xfZKgoQeuX5/KSEIj3My3lECQJilIem53VChGIMaxWZe9Ji0uLDy3XTLP6rJwifXtUwD517VdIW1Ec1fiwUDlcZjcFIDFMO4XhNxuIFkIdAYLU+DLB1DD4YNHFTN8lPOm6JL2uSo0hyb3KZYyu7LSdy48Q4pUr030na7KYSaq9/tZcZJ+3cPc/tSSJKnkT8yIG4wQQaHB8GIMmdJK1Pv5cbk0i3l3Kp3DSeeimEyJLAtJzAQX3BOwt2MiZyzLywnohWfylqKtu6twyjyYsVFNmENJ4gAPfZRyYiTn3oCclbm8kjCmDAIaXqmrRbqOHNE5p1p8XOr2Pe5c=;5NYyQPcdkPotRrZAnRGdWw=="
 ---

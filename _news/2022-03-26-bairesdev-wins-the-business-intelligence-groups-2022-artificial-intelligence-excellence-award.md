@@ -3,8 +3,8 @@ category: news
 title: "BairesDev wins the Business Intelligence Group’s 2022 Artificial Intelligence Excellence Award"
 excerpt: "The award recognizes BairesDev’s AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
 publishedDateTime: 2022-03-25T17:18:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
 type: article
 quality: 40
 heat: 40
@@ -38,24 +38,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
-    excerpt: "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program."
-    publishedDateTime: 2022-03-25T20:09:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
+  - title: "Evisort Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Evisort is a winner in its inaugural Artificial Intelligence Excellence Awards program. Evisort is the leading provider of artificial intelligence (AI) solutions for contract management and analytics."
+    publishedDateTime: 2022-03-22T13:06:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-f6f1a78d546a46d8b5d4c09e38fe43e0"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 39
+    quality: 37
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
-  - title: "Evisort Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that Evisort is a winner in its inaugural Artificial Intelligence Excellence Awards program. Evisort is the leading provider of artificial intelligence (AI) solutions for contract management and analytics."
-    publishedDateTime: 2022-03-22T13:06:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-f6f1a78d546a46d8b5d4c09e38fe43e0"
+  - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
+    excerpt: "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program."
+    publishedDateTime: 2022-03-25T20:09:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
     type: article
     provider:
       name: Associated Press
@@ -90,6 +90,6 @@ related:
       domain: morningstar.com
     quality: 17
 
-secured: "gpMaczx8UO2dXPARzJq9lmyvk2umGPZYjkOh8a7+Ul7KfGy19YTq1yULd6UD7TLKO/SlFPXkmwF8ljj8MMg4QSqck3RpOeKkNelpuAscC9z9ai6hPOl27fOYROE4w0tRgHNcCO5QtyTtYunUO48oi9xjzDLUG3fxyj1vDfFDo7vYRwVbm+ZKJGBClNsP+MokFN/oC/AYMXh8YGE33YhY9rhC16OXej6G781ITB7USjFaIzzZAn7x0gt3CLbftn84reOo4yfRHzlxTgqRxU5eQztlwWqsdugIshRNFXcVGmaKdir0WSR/Niag/mG3ufZyhhubCl5PowrkzmlSyolzY/QglLSJ76MH0nH2ba6bCQw=;LDf3WfX5V/xvmOMybkKatw=="
+secured: "W3Uuw1jyMzInkBKGLqT40Gu4XmB9cRsskCXGfnQxVMYzGaYvBHdOHWir0e8jqMEIrOy7zpVR5ME2flvcjlcO2aX/Jx3ufXKKmlzZBmgpj+VUzK8zy5Ea/ps6IuXDWwGak7VKUo5mC95gH/BsC3TSBJkkrYI2CrrOvZtujPFEWktGZf152YXdE5KPHvMxIFN8NJvv8ZRPxQw7P8IfRTe6lFjshBbXsrLeRrlSiflDZsbShaeiFyTz6a/wqWeXFqkRdVbXHR4YfdoauayGdmzhvtEB//LoBloajjrhADmCBnVDXzmPKGBHLa1fkABnX8NWtj9pMcBFuieyAPLA6MyASuix63Txfz9A6Ps0IPvF+Qo=;Bd1BBVSqZW5nJyFKnYhntQ=="
 ---
 

@@ -56,59 +56,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-24-democratization-of-ai-is-said-to-be-essential-for-ai-ethics-but-the-devil-is-in-the-details-including-the-case-of-ai-based-self-driving-cars.md",
-      "title": "Democratization Of AI Is Said To Be Essential For AI Ethics But The Devil Is In The Details, Including The Case Of AI-Based Self-Driving Cars",
-      "excerpt": "A lot of discussion these days says that we need to democratize AI, which is quite a topic of great importance. The matter is closely reviewed herein and considered too with an example underlying the advent of AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/24/democratization-of-ai-is-said-to-be-essential-for-ai-ethics-but-the-devil-is-in-the-details-including-the-case-of-ai-based-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/24/democratization-of-ai-is-said-to-be-essential-for-ai-ethics-but-the-devil-is-in-the-details-including-the-case-of-ai-based-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623be5582b07d06603dcafb3/0x0.jpg?format=jpg&crop=2889,1987,x81,y0,safe&fit=crop",
-          "width": 2889,
-          "height": 1987,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/24/democratization-of-ai-is-said-to-be-essential-for-ai-ethics-but-the-devil-is-in-the-details-including-the-case-of-ai-based-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/24/democratization-of-ai-is-said-to-be-essential-for-ai-ethics-but-the-devil-is-in-the-details-including-the-case-of-ai-based-self-driving-cars/amp/",
-      "publishedDateTime": "2022-03-24T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2022-03-23-trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai.md",
       "title": "Trustworthy AI: How to ensure trust and ethics in AI",
       "excerpt": "AI we can trust. Oftentimes discussions about ethics and trust in AI have a very narrow focus, limited to fairness and bias, which can be frustrating as a professional in the indu",
@@ -1439,6 +1386,58 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-codecademy-and-black-and-brilliant-launch-africa-based-ai-accelerator.md",
+      "title": "Codecademy and Black and Brilliant Launch Africa-Based AI Accelerator",
+      "excerpt": "Codecademy, the leading online learning platform for technical skills, is partnering with The Black and Brilliant Advocacy Network to launch an Applied Artificial Intelligence accelerator and mentorship program in Africa.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/codecademy-and-black-and-brilliant-launch-africa-based-ai-accelerator-1031242576",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/codecademy-and-black-and-brilliant-launch-africa-based-ai-accelerator-1031242576",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1659499/Codecademy_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T04:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

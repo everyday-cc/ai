@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Insider Q&A: Ex-Google AI skeptic Timnit Gebru starts anew"
-excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence."
-publishedDateTime: 2022-03-26T15:00:00Z
-originalUrl: "https://www.click2houston.com/business/2022/03/26/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/"
-webUrl: "https://www.click2houston.com/business/2022/03/26/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/"
-ampWebUrl: "https://www.click2houston.com/business/2022/03/26/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/?outputType=amp"
-cdnAmpWebUrl: "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/business/2022/03/26/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/?outputType=amp"
+excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence"
+publishedDateTime: 2022-03-26T10:01:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/insider-qa-google-ai-skeptic-timnit-gebru-starts-83685774"
+webUrl: "https://abcnews.go.com/Technology/wireStory/insider-qa-google-ai-skeptic-timnit-gebru-starts-83685774"
 type: article
-quality: 59
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Click2Houston
-  domain: click2houston.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VNDYKU32PNAXVG6QA25TI5GTVM.jpg?_a=ATABlcW0"
-    width: 700
-    height: 467
+  - url: "https://s.abcnews.com/images/Technology/WireAP_3aa9eaa491ab41348e46ce734ce58463_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -53,13 +50,13 @@ related:
     provider:
       name: LocalSYR
       domain: localsyr.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2022/03/ecb7809fcc5d4192bbdd2504273c77bf.jpg?w=1280"
         width: 1280
         height: 853
         isCached: true
 
-secured: "h5iB9w8+Pn2vuG6E5IRUUQ/WOllsoGkGhmHtpVT41soEdMtUzPFlFQSuSzVqGdp8FLozV9IiZuT6lXvL97RTNRlSsXgbI+cjoaLP2EDtBEuKzF3aS9RHBaQK02voY5QdiA/ELh/sdgyHW0tnw//aZLKxcByuGOUHTLRNUHojlCJVJ5z6+2dCfGJt2y+rtDBlHqtx3LNWVm6en9d4tNRfW3cIG47XUVkxtecEuTvnLSd6Jtyk0uCWzjGmvrr4wU5iDYygBqH76V8ly2Sr081rs2eFPYUjpiy+PHaWmR8Xv9///8t9GulqJOP7MM/YId35MpXQWSPDAks2xfXvCE6Ptk61v9UMkSjsTiB9Wv859Og=;MdcUn2nkIT28Tjb540i9Og=="
+secured: "0jmad7LWaBpMz6a1BNSDQV/KbRSLteb76U5c501Adt/HtPOHvvN9qvqyDvDCG5vEgcJWafUBT2eNE9vOho36G8RHfZ6zdASi9PitFldq5a6woB5NVfNo9THIuB4wle6ehXFbOlEvrJQDMeSmhrzqu4hij/98Kntjnjci2TBGAvdPQyJqH6dYvcgF7Uzl1PHCbsjOek8GgmfL8rRyDgyjvIup41VwEmrQ37WGBYehhOv5aiEHPk7GjWJbwo2qWqjjLsxTFqT6KpjnhE23eL1Sb6C6OBoIogdstMFDqgaVDV1o1NlGWUjq8SDbzIJHok5MfAovIfH6rG8OgRVqH3EEAUS4qEJp8yPEouMN0E0mi3Q=;tOE7qmLObfydiAQosVmHDw=="
 ---
 

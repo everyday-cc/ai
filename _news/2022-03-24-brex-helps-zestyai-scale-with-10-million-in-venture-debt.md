@@ -120,20 +120,6 @@ related:
         isCached: true
   - title: "Boost, a regional FinTech firm, becomes first fully digital financier to secure investment grade A1 rating in Southeast Asia"
     excerpt: "Boost looking to tap on burgeoning digital banking ecosystem within the Southeast Asian region A1 rating for its Malaysian securitised receivables cements firm's commitment towards the underserved segment securitizes financing portfolio;"
-    publishedDateTime: 2022-03-22T04:00:00Z
-    webUrl: "https://techent.tv/2022/03/22/boost-a-regional-fintech-firm-becomes-first-fully-digital-financier-to-secure-investment-grade-a1-rating-in-southeast-asia/"
-    type: article
-    provider:
-      name: techent.tv
-      domain: techent.tv
-    quality: 0
-    images:
-      - url: "https://techent.tv/wp-content/uploads/2022/03/fenix360-a-revolutionary-social-media-fintech-platform-with-advanced-features-launches-globally-to-provide-artists-creators-and-fans-a-brand-new-experience-and-monetization-model.jpg"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Boost, a regional FinTech firm, becomes first fully digital financier to secure investment grade A1 rating in Southeast Asia"
-    excerpt: "Boost looking to tap on burgeoning digital banking ecosystem within the Southeast Asian region A1 rating for its Malaysian securitised receivables cements firm's commitment towards the underserved segment securitizes financing portfolio;"
     publishedDateTime: 2022-03-22T19:00:00Z
     webUrl: "https://us.acrofan.com/detail.php?number=634739"
     type: article

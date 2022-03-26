@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Samsung is using AI software to up the camera game on its smartphones"
-    excerpt: "Samsung has applied approximately 60 AI models for the functions of the cameras on the Galaxy S22 Ultra, which a company executive says allows it to take detailed photos of closeups, night scenes and even match the quality of a DSLR camera."
-    publishedDateTime: 2022-03-24T05:28:00Z
-    webUrl: "https://www.zdnet.com/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/"
+  - title: "How to avoid buying AI-based marketing tools that are biased"
+    excerpt: "If your marketing team is looking to buy an off-the-shelf AI-powered marketing product, ask the vendor these 5 questions first."
+    publishedDateTime: 2022-03-26T21:10:00Z
+    webUrl: "https://venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-marketing-tools-that-are-biased/"
+    ampWebUrl: "https://venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-marketing-tools-that-are-biased/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-marketing-tools-that-are-biased/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 88
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://www.zdnet.com/a/img/resize/4f683ac35b12bd8929b668b72853ed82a55b545a/2022/02/08/f548c7c3-917b-4523-9ba3-1d19ef8df620/1-30-galaxy-s22-ultra-portrait2-hi.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 800
+      - url: "https://venturebeat.com/wp-content/uploads/2018/05/mobile-devices-emitting-data-in-a-crowd-of-people-picture-id522636128-1.jpg?w=1200&strip=all"
+        width: 1024
+        height: 768
         isCached: true
   - title: "How AI Software Is Poised To Transform Driving As We Know It"
     excerpt: "Cars, and the way we buy and use them, are getting smarter every day. Self-driving is just one step on a long road to the digital transformation of the car industry, and you can expect AI to lead the charge."
@@ -57,40 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How one of the world’s largest wind companies is using AI to capture more energy"
-    excerpt: "Future generations continued to expand on Hansen’s openness to change, evolving to building hydraulic cranes, and ultimately, in 1987, becoming Vestas Wind Systems, one of the largest wind turbine manufacturers in the world."
-    publishedDateTime: 2022-03-24T08:54:00Z
-    webUrl: "https://news.microsoft.com/europe/features/winds-of-change-how-one-of-the-worlds-largest-wind-companies-is-using-ai-to-capture-more-energy/"
+  - title: "Democratization Of AI Is Said To Be Essential For AI Ethics But The Devil Is In The Details, Including The Case Of AI-Based Self-Driving Cars"
+    excerpt: "A lot of discussion these days says that we need to democratize AI, which is quite a topic of great importance. The matter is closely reviewed herein and considered too with an example underlying the advent of AI-based self-driving cars."
+    publishedDateTime: 2022-03-24T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/03/24/democratization-of-ai-is-said-to-be-essential-for-ai-ethics-but-the-devil-is-in-the-details-including-the-case-of-ai-based-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/03/24/democratization-of-ai-is-said-to-be-essential-for-ai-ethics-but-the-devil-is-in-the-details-including-the-case-of-ai-based-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/24/democratization-of-ai-is-said-to-be-essential-for-ai-ethics-but-the-devil-is-in-the-details-including-the-case-of-ai-based-self-driving-cars/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 71
     images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/93/2022/03/Vestas-wind-turbines-at-the-Macarthur-Wind-Farm-located-between-Hamilton-and-Warrnambool-in-the-state-of-Victoria-Australia.-Photo-c-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://imageio.forbes.com/specials-images/imageserve/623be5582b07d06603dcafb3/0x0.jpg?format=jpg&crop=2889,1987,x81,y0,safe&fit=crop"
+        width: 2889
+        height: 1987
         isCached: true
-  - title: "Enter to save on the latest Discover Samsung deals"
-    excerpt: "Check out the latest deals available during Samsung Discover, where you will find the Samsung Galaxy S22 Ultra and other great products on sale"
-    publishedDateTime: 2022-03-24T16:46:00Z
-    webUrl: "https://pocketnow.com/enter-save-latest-discover-samsung-deals"
-    ampWebUrl: "https://pocketnow.com/enter-save-latest-discover-samsung-deals?amp"
-    cdnAmpWebUrl: "https://pocketnow-com.cdn.ampproject.org/c/s/pocketnow.com/enter-save-latest-discover-samsung-deals?amp"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 24
-  - title: "Take advantage of the latest deals available during Discover Samsung Week"
-    excerpt: "Check out the latest deals available during Discover Samsung Week, where you will find Samsung's Class Q60A QLED 4K Smart TV and other great products on sale"
-    publishedDateTime: 2022-03-22T15:52:00Z
-    webUrl: "https://pocketnow.com/take-advantage-latest-deals-available-during-discover-samsung-week"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 18
 
 secured: "FfFyAOdfwAeUb3NCS3w4udDy0Q7Z1qVP75nimLGrgd09g1nbKvNBbifhhEgbKLVlXaMBOCVmRsjnWvPJlS0A4K2bYbD+ddLweK8UkCa++ZcGfI0k0scF6mn2ZQKFUsYr3cGCEgIotLhcNUwcShgZnHUL3Pb4WtWEJher+sqxNH6s8xuNtPZrQAMTuFwGcLJUsw+RE9OO+6pamtqGihskacyj1sPdBYfXK4pjzpmSyxtMbhhORMvq3s+jDtMPuFx7d5+Mjc6M3Y9dxScd+sCuQcspOXDuWkNsFDV8iUDjEISS+t61z15nCV0cRk2QhgeO39xiX8eMILqUZ1XiIVwmvMV5qfLK/J6LiK3EnZLEzMA=;c50fEqXNC3K7KoTsdAzTig=="
 ---

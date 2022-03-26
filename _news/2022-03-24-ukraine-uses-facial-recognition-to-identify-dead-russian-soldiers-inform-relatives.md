@@ -105,22 +105,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "Deepfakes, data traffic and drones: artificial intelligence in the war between Russia and Ukraine"
-    excerpt: "The war inaugurates a new era in which the uses of algorithms allow everything from disinformation campaigns to weapons attacks"
-    publishedDateTime: 2022-03-22T03:41:00Z
-    webUrl: "https://www.infobae.com/en/2022/03/22/deepfakes-data-traffic-and-drones-artificial-intelligence-in-the-war-between-russia-and-ukraine/"
-    ampWebUrl: "https://www.infobae.com/en/2022/03/22/deepfakes-data-traffic-and-drones-artificial-intelligence-in-the-war-between-russia-and-ukraine/?outputType=amp-type"
-    cdnAmpWebUrl: "https://www-infobae-com.cdn.ampproject.org/c/s/www.infobae.com/en/2022/03/22/deepfakes-data-traffic-and-drones-artificial-intelligence-in-the-war-between-russia-and-ukraine/?outputType=amp-type"
-    type: article
-    provider:
-      name: Infobae
-      domain: infobae.com
-    quality: 61
-    images:
-      - url: "https://www.infobae.com/new-resizer/ZxDzQ-16LNipy4m3-uEkJ6tnbx0=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/2AE3THN5NFHX3AME6Q5ZCLNXRY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "The real price of the free facial recognition tech for Ukraine"
     excerpt: "Authoritarian Tech is a weekly newsletter tracking how people in power are abusing technology and what it means for the rest of us. Also in this edition: Ghana’s rush to a biometric ID system is leaving people behind;"
     publishedDateTime: 2022-03-22T14:51:00Z

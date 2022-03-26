@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=635403"
 webUrl: "https://us.acrofan.com/detail.php?number=635403"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Emotion Detection and Recognition Market worth $43.3 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "The major factors driving the market growth include the rising need for accretion of speech-based emotion detection systems to analyze emotional states, Adoption of IoT, AI, ML, a"
-    publishedDateTime: 2022-03-23T15:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-emotion-detection-recognition-market-worth-433-billion-2027-/2022/03/23/9569467.htm"
+  - title: "North America Humanoid Robot Market Size, Share, Analysis Challenges, and Future Growth Forecast 2021-2028"
+    excerpt: "Canada registered a research and development expenditure comprising 1.585% of its Gross Domestic Product (GDP).CRIFAX added a r"
+    publishedDateTime: 2022-03-24T15:46:00Z
+    webUrl: "https://menafn.com/1103905939/North-America-Humanoid-Robot-Market-Size-Share-Analysis-Challenges-and-Future-Growth-Forecast-2021-2028"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?868304"
+        width: 422
+        height: 249
+        isCached: true
 
 secured: "8ajokp0JwW4ioGQvcSxqz09Kvb/tI+H/0dDsRjedGx3vkt4sv21rgUZIdvV5DwnW6EExbLJE71FYGRokJQBhO5G8F27kIBqehNMHqInDe4GHR+aFdydOjv4BrtHhGKKjtNaw1Uwdl3oGwjQyAoz12VqAwOOA3AkA9ddUSI5D7hqny7OjesCHezvNrlpiUMo9LTvRT/5Ca22uuVqCl/pU1wpmJUGU85kAwtC2jeuZFJmOWbQafZT4ddKVTQimAR5c5tgJ4eFG5exIr6wA8OI21Nh5CNEi99Buynu4k3aK/TqpVXiS2vrAA5RfJf9E7Iweq41f7qRwFSZs8Sda/dEkGN4/v6VoKjuYEGHbFhUOMp8=;Cj+wAJHIb9t90Kz2e5kiJQ=="
 ---

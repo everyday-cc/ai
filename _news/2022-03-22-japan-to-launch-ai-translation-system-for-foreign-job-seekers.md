@@ -20,6 +20,22 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Development of a new high-precision ai-based translation engine specialized for the financial sector"
+    excerpt: "The National Institute of Information and Communications Technology (NICT) and the Financial Services Agency of Japan (JFSA) worked together to develop a new AI-based translation engine that can translate documents between Japanese and English in both directions with high accuracy."
+    publishedDateTime: 2022-03-23T08:03:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/947186"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/9f499d5a-8abb-46b6-bddb-8bd482d342d2/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 251
+        isCached: true
+
 secured: "dtM3pHHUledwZ4Aq2tGRyawrT763Qcd0AFgB/zhb0s8CcZ6K5Hz09UUqM7TcDavj5gsVnuS/JWzf4GiSlBWzapKcSQHtYw1jfsg7isGt3cEdQrt1Y5JCSK3Y2gShGIsbF8foaPMiFsMikuW28DIFRpZQoJ7U6FW7nVgh+k2Bu57NbrfbB3ZmAbaxgU1fFlil/XqXV1XMYmeSDoNlTv0RTrI6NQ4J5LhfSAkFPE0otUJyu3aGF2NYVqs37o2dDMwcGQCj8WNbISO6CAjYk5Qv6bar5sKfxIogdrW8F5XKU30kbNH5dBSqZ9wuNCsnC0Yc7qrvJPnC8n/Pw2uIE7s1hB6WkN+r75kjGM+8PhLO9H7GqHosQSSGQ3lSf57NS2CduTCxpZamHj9HKLBQ4FWD3Vaw82ni3/vw2hGSzwEO5xFv3xs9TUQcy2WaEsSa9BVsgZpxDY50vRmbAeoTwxcG097XXT54Dx/1pIOHJerJmlozV8Kzd9qx3O2rTGVmalCy54qs++bqz0RnCGHPGFf9yw==;89hFRcDaPAf+qEwinUBHJw=="
 ---
 

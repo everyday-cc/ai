@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-25T20:09:00Z
 originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -28,7 +27,7 @@ related:
   - title: "BairesDev wins the Business Intelligence Group’s 2022 Artificial Intelligence Excellence Award"
     excerpt: "The award recognizes BairesDev’s AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
     publishedDateTime: 2022-03-25T17:18:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
     type: article
     provider:
       name: Associated Press
@@ -91,6 +90,6 @@ related:
       domain: morningstar.com
     quality: 17
 
-secured: "xAaPd9QZYITAz7ufbS0Aa+YxLcoIrzUp+ptLrttZXdMDzfHfa17M68F7dYMiE4AP4ZsdHnkZQWJtuYngc56t1vWb8dp4nbZgEsKYx/awm0TM1dC7spFuBRn0ceuFV2z9JTD+Av8AX3XQct/PGsRZSAPxkJ447hJs54zPn4PcjMgczO4KvOy15EhXBZAGME1tkEExZfM9Yn/ZCfhYeGYc+cnSkBZ2iwJx5crsh8ugLLDIARl1TGDpl1qnnVOe88qTY/xVQKhvcbIoC81IDFFNasmMY6YmgHjHC+WtQAyKXVLzMuGEMnitpUspJltWuOI+coMbgC77Jk+I81/6Z6PSjdHW3c7wrtabej9mJ4XFL8Y=;K6S4n5O/MSTfbrB8gPQ2KQ=="
+secured: "HvcXcEu+NMBEbsNPOMdNVs9RJTzZhCeB6Vmn+44TtA/u4//bmDHa84Yyyrd7D82K8kX0qvTgTZGDa6DqQfahvpdpCGTyWW7qhSIfZ6E4RvHK0o/AdTfd6gIGZre7xxt6jLY6vOsGnKCYVBKBaV9HrACqNNMTynzXKlTmJeye/r2kgEO4mPLX8+pHU+6eHT6lNDIHG21IBBH2Gi2VZoNIs3ymTPwUBGjah+SsBAyWZnFgC5+Nxx5EzBl4qHVpIx/ulIr/U2uTVZK9qW5QKqz2X7se+quVsPhujEF71WEJqYYnZp9MJTFlbWE7+YxynbeZpBD+e/PazDsTvBpgEMXAoGZhicdjMkyUG+PLcwGfPHc=;uKLRvh99gpu4l2+lcimzfA=="
 ---
 
