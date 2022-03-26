@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2022/03/24/top-ai-execs-including-richard-
 webUrl: "https://venturebeat.com/2022/03/24/top-ai-execs-including-richard-socher-launch-aix-ventures/"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:

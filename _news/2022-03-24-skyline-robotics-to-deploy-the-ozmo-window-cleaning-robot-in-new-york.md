@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-c
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/amp/"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

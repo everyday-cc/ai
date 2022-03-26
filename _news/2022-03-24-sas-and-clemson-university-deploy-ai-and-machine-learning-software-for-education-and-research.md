@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-24T15:58:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
 webUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
 type: article
-quality: 92
-heat: 122
+quality: 94
+heat: 124
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AI
   - AI in Education
   - AI in Finance
+  - Facebook AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1772498/Watt_Center_Clemson.jpg"

@@ -848,7 +848,7 @@
       "originalUrl": "https://www.risk.net/market-access/technology-and-data/7942636/vulnerabilities-arise-in-financial-services-as-ai-use-balloons",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -892,7 +892,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/24/top-ai-execs-including-richard-socher-launch-aix-ventures/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1041,7 +1041,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1083,7 +1083,8 @@
         "Machine Learning",
         "AI",
         "AI in Education",
-        "AI in Finance"
+        "AI in Finance",
+        "Facebook AI"
       ]
     },
     {

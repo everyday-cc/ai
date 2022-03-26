@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "BairesDev wins the Business Intelligence Group’s 2022 Artificial Intelligence Excellence Award"
-    excerpt: "The award recognizes BairesDev’s AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
-    publishedDateTime: 2022-03-25T17:18:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
+  - title: "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award"
+    excerpt: "The award recognizes BairesDev's AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
+    publishedDateTime: 2022-03-25T23:16:00Z
+    webUrl: "https://www.khon2.com/business/press-releases/cision/20220325IN04224/bairesdev-wins-the-business-intelligence-groups-2022-artificial-intelligence-excellence-award/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: KHON2
+      domain: khon2.com
     quality: 40
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://i0.wp.com/www.khon2.com/wp-content/uploads/sites/8/2022/03/Locations-Open-House-3.27.22_Photo.jpg?w=2000&#038;ssl=1"
+        width: 480
+        height: 270
         isCached: true
   - title: "Lirio Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "Lirio, whose Precision Nudging™ solution promotes health through AI-powered behavior change, today announced that it has been recognized by Business Intelligence Group as an AI Excellence Award winner for 2022."
@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
+    excerpt: "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program."
+    publishedDateTime: 2022-03-25T20:11:00Z
+    webUrl: "https://www.lelezard.com/en/news-20305699.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 39
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Chillax Care Limited Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "The Business Intelligence Group today announced that Chillax Care Limited was named a winner in its Artificial Intelligence Excellence Awards program. With a decade of experience in the baby and consumer electronics industry,"
     publishedDateTime: 2022-03-22T16:21:00Z
@@ -66,15 +80,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
-    excerpt: "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program."
-    publishedDateTime: 2022-03-25T20:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-echonous-wins-2022-artificial-intelligence-excellence-award-/2022/03/25/9571047.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "IYs0TT2xOrTxarxBxhkTofv1WL6Fw1s+hAV6qywFoKC1TPpzJeUOgLmNyONtLVAMpTO+c0+acB6jSWiQjiW938eeABaEEVg1NaLKDoMBrdvGZbpco5/smbeW62GTgO0tEz+xGC/MClxo6n3sGcufpFHQEwAZEEh7lKIelwxIEX9mokx5av9ccj7fj25vrkgkiAsBEPOvxN3g3A7R6C0XNkSFMUEBzAg2F7M1C7rDHB7Dn9p+MJ6nZmU5tMIV8tudYK37aYozAPu1ihaZ4fUl+Cj64U3+KCBTniXBT3Kz8KK4c+mAWbANaDwYvSLlCFpaH4jiO3q98jQt9poRfoLnG7ah3VdEGtHTF1aBZqTcQRE=;fG7TkhA6XfeMxzB7Tfw3tw=="
 ---

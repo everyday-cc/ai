@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-24T11:44:00Z
 originalUrl: "https://www.ciol.com/ai-sector-regulate-banking-finance-ecosystem-india/"
 webUrl: "https://www.ciol.com/ai-sector-regulate-banking-finance-ecosystem-india/"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AI in Autos
 
 related:
   - title: "How 10 AI Experts are Shaping the Artificial Intelligence Ecosystem in Italy"

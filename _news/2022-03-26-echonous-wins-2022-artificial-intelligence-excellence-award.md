@@ -2,36 +2,42 @@
 category: news
 title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
 excerpt: "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program."
-publishedDateTime: 2022-03-25T20:14:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-echonous-wins-2022-artificial-intelligence-excellence-award-/2022/03/25/9571047.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-echonous-wins-2022-artificial-intelligence-excellence-award-/2022/03/25/9571047.htm"
+publishedDateTime: 2022-03-25T20:11:00Z
+originalUrl: "https://www.lelezard.com/en/news-20305699.html"
+webUrl: "https://www.lelezard.com/en/news-20305699.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI in Healthcare
   - AI
 
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
 related:
-  - title: "BairesDev wins the Business Intelligence Group’s 2022 Artificial Intelligence Excellence Award"
-    excerpt: "The award recognizes BairesDev’s AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
-    publishedDateTime: 2022-03-25T17:18:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
+  - title: "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award"
+    excerpt: "The award recognizes BairesDev's AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
+    publishedDateTime: 2022-03-25T23:16:00Z
+    webUrl: "https://www.khon2.com/business/press-releases/cision/20220325IN04224/bairesdev-wins-the-business-intelligence-groups-2022-artificial-intelligence-excellence-award/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: KHON2
+      domain: khon2.com
     quality: 40
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://i0.wp.com/www.khon2.com/wp-content/uploads/sites/8/2022/03/Locations-Open-House-3.27.22_Photo.jpg?w=2000&#038;ssl=1"
+        width: 480
+        height: 270
         isCached: true
   - title: "Lirio Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "Lirio, whose Precision Nudging™ solution promotes health through AI-powered behavior change, today announced that it has been recognized by Business Intelligence Group as an AI Excellence Award winner for 2022."
@@ -76,6 +82,6 @@ related:
         height: 450
         isCached: true
 
-secured: "rrIw/NTemfCjuiw/VkKHmSB4LEPhwLOthqZ4OhGuLwrOGlRsRdxsIs3cbfXWXScWLEesRuKEyjzL7eMhrzVEUxBwIQ90kALlm3e5VoIlLQDMGzDCyH+4pitKZsA89AwX0XmxwMNA7ujmGkXDKkWy1Ew9dc/Zk21oMqx2EpyXEOZICAU4tonSPUAmCRnd13gSwR+KEJoQZoZIYUKn9sAQgrtNmhXhTNkBR/ecsiqTFjtM4uykePdkr95Q9++dYfulDAxjIMvdvZoTX67fN/EaVCr5+Ad8zdsSmikwiNmjfOYSvdWhsAIrHzylkRUbK5llxVIjBtrhS5MRVGSBJHhO7l7P4YLwiv6TNLopx5CHZu0=;artlCLdy1DVlR1OQ0brjsQ=="
+secured: "h03cTqFT28nkDv5fQOGYrQ1ncdZJ7DddVxuQcFmKN/fdJ9L6D1PcZTWlqRNNVKlc2fmDZoeUtrSYcwNl2Bw7w270Uu2Kf9xEGCzpYnYoKNX863lmnraqt65TZ8RLw39nmcXxROwJlAd9LEwbrXbYSBjXvC88g+mE0vbkbOx5kkhEfAF12eA4Xmd6RMVJBshlz8DZlncBmn2Az5oN2377A9exPNddBZFg51qZ5hj2hHOJQNG6suTaC7ZcdZ0apKcQZdWlCvMabC2gvvXxkfgGwP2DHvS14okiFFffPy7rRdZKBH8SqaOGizhAW6POMZIPXZQT0BB4gKQ1iMJOR7j0YmiFt5iLspB3JZZXSETmKqo=;csNIC2W7ytaMcJgttMyHHA=="
 ---
 

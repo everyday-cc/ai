@@ -1,26 +1,26 @@
 ---
 category: news
-title: "BairesDev wins the Business Intelligence Group’s 2022 Artificial Intelligence Excellence Award"
-excerpt: "The award recognizes BairesDev’s AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
-publishedDateTime: 2022-03-25T17:18:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
+title: "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award"
+excerpt: "The award recognizes BairesDev's AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
+publishedDateTime: 2022-03-25T23:16:00Z
+originalUrl: "https://www.khon2.com/business/press-releases/cision/20220325IN04224/bairesdev-wins-the-business-intelligence-groups-2022-artificial-intelligence-excellence-award/"
+webUrl: "https://www.khon2.com/business/press-releases/cision/20220325IN04224/bairesdev-wins-the-business-intelligence-groups-2022-artificial-intelligence-excellence-award/"
 type: article
 quality: 40
 heat: 40
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: KHON2
+  domain: khon2.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://i0.wp.com/www.khon2.com/wp-content/uploads/sites/8/2022/03/Locations-Open-House-3.27.22_Photo.jpg?w=2000&#038;ssl=1"
+    width: 480
+    height: 270
     isCached: true
 
 related:
@@ -37,6 +37,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/f7/3f75f7aa-4535-5b57-b3e4-69e6a425232d/623b372ea78a5.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
+    excerpt: "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program."
+    publishedDateTime: 2022-03-25T20:11:00Z
+    webUrl: "https://www.lelezard.com/en/news-20305699.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 39
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Evisort Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "The Business Intelligence Group today announced that Evisort is a winner in its inaugural Artificial Intelligence Excellence Awards program. Evisort is the leading provider of artificial intelligence (AI) solutions for contract management and analytics."
@@ -66,16 +80,7 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
-    excerpt: "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program."
-    publishedDateTime: 2022-03-25T20:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-echonous-wins-2022-artificial-intelligence-excellence-award-/2022/03/25/9571047.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
-secured: "9pV7TmHRSDREmOUvgn+k6bBJv8xdmIIlTgyhAhtmPvW95mxsC8+mRLX2mRXxfXZpSmEZe17aTefx31Uwp74sN1fiotVFOxao7ILUvXODbYfxv+n+O1eufXr8TX3py0tVF6b2OqeB3gopitAhUSwM2r/nCNXqntZL1VIxt4qZYlQvVt4ULAX4sviKizQDxJqX7eixdyNdSijRymejehZOEbBf1nJ/xRxeSHpUU3tHx9wsUxIM06waBvMl/TjQXZrtzI6f7AP7DHGkuAJNM07cJ7KaPMhpJJm4d0CuVyYjWz91yx2v3dIpUJLgyxGp4S9ZzI1SZTtl653ZvsYCRyQobI3nFAoGlBE/SB25tZOpd70=;rDYhMjkncf81LLVpJLcSCA=="
+secured: "3tF/YS0rKS3jf4aBn9nkD9UXVdCVwU4ixsn74VlKHKy10MKyTQr43Y0yu/acifNj44oKBEocyzcHis2Qpfwy5MQ5jD0EN107bKvBLOQm6Bi9tJVQyJzQ3zfAYqn6QC4bQN1TOx8gfR3z06ck63nY9v/hrPqvHrFoQE3DQ7ydaO8QHYmbYacsgJhWnA9fc/EK3OgQFgYufuMke2VJ7sxsQAyoaP+C5OYGGieg+CzCZnGANgYmBTTwVSu0C7O2lmYfbJxWaa1sQQcEXSCOsTmX8rD1L2Xa0IeGHemjs8d7U5+3ecM93xYXEJrJJ4rlSSp98b4NCeEiwCZxMRxGSM8a6wj1ZW/qdzcpYSfKmq3pldI=;8sMRZ4OSc97E/8/0irV9OA=="
 ---
 
