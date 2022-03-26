@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/amp/"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/03/The-future-is-fintech.png"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Top 10 Most Promising Fintech Firms in India 2022"
+    excerpt: "FinTech firms are technological alternatives to traditional financial firms’ back-end systems in the twenty-first century. Find out the top 10 most p"
+    publishedDateTime: 2022-03-26T17:12:00Z
+    webUrl: "https://menafn.com/1103917638/Top-10-Most-Promising-Fintech-Firms-in-India-2022"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?869496"
+        width: 442
+        height: 250
         isCached: true
   - title: "Brex Helps Zesty.ai Scale With $10 Million in Venture Debt"
     excerpt: "U.S. fintech company Brex, the company reimagining finance for growing businesses, has provided $10 million in growth capital via venture debt to Zesty.ai,"

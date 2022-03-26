@@ -227,7 +227,7 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
-    quality: 43
+    quality: 45
     images:
       - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
         width: 500

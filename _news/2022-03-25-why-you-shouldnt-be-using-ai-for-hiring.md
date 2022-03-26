@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Ten Commandments For Using AI In Hiring Decisions"
+    excerpt: "Want to avoid a Great Resignation-type mass exodus of your workers? Want to win the war for talent in the automation age? Want to treat your fellow workers with the dignity we all deserve? Embrace the Ten Commandments in your organization now."
+    publishedDateTime: 2022-03-26T16:49:00Z
+    webUrl: "https://www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/"
+    ampWebUrl: "https://www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/623f3fae815938bb87ae6396/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 842
+        isCached: true
   - title: "Live learning, AI and Web3 are coming for ed tech"
     excerpt: "She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia."
     publishedDateTime: 2022-03-24T09:30:00Z

@@ -2,6 +2,101 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-03-11-apples-win-against-speech-recognition-patent-may-survive-appeal.md",
+      "title": "Apple’s Win Against Speech Recognition Patent May Survive Appeal",
+      "excerpt": "Apple Inc. didn’t give an administrative tribunal enough evidence to justify voiding claims in a patent related to speech recognition Apple has been sued for infringing, Advanced Voice Recognition Systems Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://news.bloomberglaw.com/us-law-week/apples-win-against-speech-recognition-patent-may-survive-appeal?context=article-related",
+      "originalUrl": "https://news.bloomberglaw.com/us-law-week/apples-win-against-speech-recognition-patent-may-survive-appeal?context=article-related",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-10T13:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg Law",
+        "domain": "bloomberglaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-11-samsungs-object-eraser-mode-takes-on-googles-magic-eraser.md",
+      "title": "Samsung’s Object Eraser mode takes on Google’s Magic Eraser",
+      "excerpt": "Samsung has a hidden challenger to Google's Magic Eraser mode on the Galaxy S22 UItra. It's called Object Eraser, and this is how you use it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/samsung-object-eraser-vs-google-magic-eraser/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/samsung-object-eraser-vs-google-magic-eraser/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/galaxy-s22-ultra-object-eraser.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/samsung-object-eraser-vs-google-magic-eraser/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/samsung-object-eraser-vs-google-magic-eraser/?amp",
+      "publishedDateTime": "2022-03-10T13:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-11-baidu-globals-marketing-platform-mediago-supported-by-xandr.md",
       "title": "Baidu Global's Marketing Platform MediaGo Supported by Xandr",
       "excerpt": "\"Further deepening our commitment to driving results for both advertisers and content creators, we are delighted to partner with Baidu and bring the best of Xandr's technology to MediaGo,\" said Sze How Chan, associate director of market development at ...",
@@ -1029,17 +1124,17 @@
       "title": "AI and machine learning in financial services",
       "excerpt": "While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption to ensure the most successful outcomes.",
       "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/resources/231729/ai-and-machine-learning-in-financial-services",
-      "originalUrl": "https://www.networkworld.com/resources/231729/ai-and-machine-learning-in-financial-services",
+      "webUrl": "https://www.csoonline.com/resources/231729/ai-and-machine-learning-in-financial-services",
+      "originalUrl": "https://www.csoonline.com/resources/231729/ai-and-machine-learning-in-financial-services",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://us.resources.networkworld.com/wp-content/uploads/2022/03/1647373789.png",
-          "width": 1333,
-          "height": 750,
+          "url": "https://idge.staticworld.net/cso/CSO_logo_300x300.png",
+          "width": 300,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1049,11 +1144,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-09T13:41:00-08:00",
+      "publishedDateTime": "2022-03-09T13:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
+        "name": "CSOonline",
+        "domain": "csoonline.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1066,100 +1161,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-10-transfer-learning-offers-new-insight-into-machine-learning-error-estimation.md",
-      "title": "Transfer learning offers new insight into machine-learning error estimation",
-      "excerpt": "Omar Maddouri, a doctoral student in the Department of Electrical and Computer Engineering at Texas A&M University, is working with Dr. Byung-Jun Yoon, professor, and Dr. Edward Dougherty, Robert M. Kennedy Chair Professor,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-03-insight-machine-learning-error.html",
-      "originalUrl": "https://techxplore.com/news/2022-03-insight-machine-learning-error.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/13-machinelearn.jpg",
-          "width": 1710,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-03-insight-machine-learning-error.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-insight-machine-learning-error.amp",
-      "publishedDateTime": "2022-03-09T13:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-10-why-palo-alto-networks-rebuilt-its-workplace-with-ai.md",
-      "title": "Why Palo Alto Networks rebuilt its workplace with AI",
-      "excerpt": "Palo Alto Networks has now saved its employees more than 180,000 hours of productivity, thanks to this data-driven approach.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/09/why-palo-alto-networks-rebuilt-its-workplace-with-ai/",
-      "originalUrl": "https://venturebeat.com/2022/03/09/why-palo-alto-networks-rebuilt-its-workplace-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/Image_VentureBeat_PANW_0222_600x1200.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/09/why-palo-alto-networks-rebuilt-its-workplace-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/09/why-palo-alto-networks-rebuilt-its-workplace-with-ai/amp/",
-      "publishedDateTime": "2022-03-09T12:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

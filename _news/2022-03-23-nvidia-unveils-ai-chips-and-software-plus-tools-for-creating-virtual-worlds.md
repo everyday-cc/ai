@@ -57,6 +57,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Languages in the metaverse: Why AI is critical for communication in the brave new world"
+    excerpt: "We don’t have the superpower of universal understanding in real life. But what if it’s indeed possible to achieve it in the metaverse?"
+    publishedDateTime: 2022-03-26T16:10:00Z
+    webUrl: "https://venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world/"
+    ampWebUrl: "https://venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1369741848.jpg?w=1200&strip=all"
+        width: 1200
+        height: 624
+        isCached: true
   - title: "Nvidia bridges real and virtual in the Omniverse with AI"
     excerpt: "Kicking off NVIDIA’s GTC conference this week, founder and CEO Jensen Huang highlighted a slew of transformative updates featuring NVIDIA artificial"
     publishedDateTime: 2022-03-23T07:56:00Z

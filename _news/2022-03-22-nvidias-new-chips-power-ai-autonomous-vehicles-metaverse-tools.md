@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nvidias-new-chips-power-ai-auto
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/671704/nvidia-hopper-architecture-h100-sxm.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Languages in the metaverse: Why AI is critical for communication in the brave new world"
+    excerpt: "We don’t have the superpower of universal understanding in real life. But what if it’s indeed possible to achieve it in the metaverse?"
+    publishedDateTime: 2022-03-26T16:10:00Z
+    webUrl: "https://venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world/"
+    ampWebUrl: "https://venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1369741848.jpg?w=1200&strip=all"
+        width: 1200
+        height: 624
         isCached: true
   - title: "Nvidia Unveils AI Chips and Software, Plus Tools for Creating Virtual Worlds"
     excerpt: "The chip maker is expanding its focus on artificial-intelligence technlogy, which CEO Jensen Huang says will revolutionize every industry."

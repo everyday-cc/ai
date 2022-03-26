@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-22T17:24:00Z
 originalUrl: "https://insidehpc.com/2022/03/at-gtc-nvidia-launches-hopper-architecture-and-80-billion-transistor-gpu-for-ai-data-centers/"
 webUrl: "https://insidehpc.com/2022/03/at-gtc-nvidia-launches-hopper-architecture-and-80-billion-transistor-gpu-for-ai-data-centers/"
 type: article
-quality: 43
+quality: 45
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Ten Commandments For Using AI In Hiring Decisions"
+    excerpt: "Want to avoid a Great Resignation-type mass exodus of your workers? Want to win the war for talent in the automation age? Want to treat your fellow workers with the dignity we all deserve? Embrace the Ten Commandments in your organization now."
+    publishedDateTime: 2022-03-26T16:49:00Z
+    webUrl: "https://www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/"
+    ampWebUrl: "https://www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/623f3fae815938bb87ae6396/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 842
+        isCached: true
 
 secured: "TwvmdfKkcnUZ0NzSvihwQmT0rrLIA43nzx3MYeSv1S5RbBUTiLQc7OxWaY51RfeuID0by98bMKaemwQiylr9sw5M9vARk92HvG4eOek1u73b9J+OMQWN0E3tkkPBfPNZN4Zr73aCSP5BONxyQByvUIGFfWcxHzIIU5zOkIvkgsZsv3YTQw9eyHSwmDeBjaSc6NwGd96lPWpr7qHiS2DRehDjr4tYkEgwjeqiUe514I5QlzuXX20WNOWU7mjnqNuUzeO6WMpXCP3Pra/XE/m4iK549af9wvFfBsPurrZ1Ay2W7wm+LziSUuyYXXcuSuCLXiBFp41VPB1gaSOvXma01vXq6/6GWI+Ku3S1Gn9MN/w2XhnDem0hqZJPYihV0CjLSVLcC4J1ykJlxKrNM+vrf/ngDWzdv3xX2UXxbu4vkvuh4WiuYeNROm4ACMHRmFSH879rjplmNkOUnkWtoXOD6fXth92CDklH+MvdCSnzVmf0NS7qsB+zLGC03yGdxxo3F57tdx2i/3PwgdqV83iXTQ==;wbsQEMr50u2fVueGkGCJGA=="
 ---

@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-14-the-world-in-your-pocket-how-smartphones-will-get-smarter-in-2022.md",
+      "title": "The world in your pocket: How smartphones will get smarter in 2022",
+      "excerpt": "Google, OnePlus, Asus and Motorola give us a taste of how our phones will be more useful, intelligent and powerful over the next 12 months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/the-world-in-your-pocket-how-smartphones-get-smarter-in-2022/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/the-world-in-your-pocket-how-smartphones-get-smarter-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/9Zn77uc7NrEvhS7S7s9-IptN6dM=/2021/08/27/bb908ae7-2e0f-4120-9a87-35b83d23c133/p1016830-1.jpg",
+          "width": 5670,
+          "height": 2835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-world-in-your-pocket-how-smartphones-get-smarter-in-2022/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-world-in-your-pocket-how-smartphones-get-smarter-in-2022/",
+      "publishedDateTime": "2022-01-14T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-the-worldwide-far-field-speech-and-voice-recognition-industry-is-expected-to-reach-389-billion-by-2026.md",
+      "title": "The Worldwide Far-Field Speech and Voice Recognition Industry is Expected to Reach $3.89 Billion by 2026",
+      "excerpt": "The \"Global Far-Field Speech and Voice Recognition Market (2021-2026) by Component, Application & Microphone Solution,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/g25052541/the-worldwide-far-field-speech-and-voice-recognition-industry-is-expected-to-reach-3-89-billion-by",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25052541/the-worldwide-far-field-speech-and-voice-recognition-industry-is-expected-to-reach-3-89-billion-by",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25052541",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25052541",
+      "publishedDateTime": "2022-01-14T02:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-timekettles-translator-earbuds-break-language-barriers-bring-in-simultaneous-translation.md",
       "title": "Timekettle's translator earbuds break language barriers, bring in simultaneous translation",
       "excerpt": "Translate through phone — one user speaks through the earbuds, the other - through the paired phone Continuous translation — leave your phone next to a speaker and get continuous translation of their words (like for lectures) Share earbuds — users get one earbud each,",
@@ -1324,83 +1419,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-knowles-kn-fluentai-to-offer-voice-controlled-tws-earbuds.md",
-      "title": "Knowles (KN), Fluent.ai to Offer Voice-Controlled TWS Earbuds",
-      "excerpt": "Knowles Corporation KN recently announced that it has partnered with speech recognition software provider Fluent.ai to unveil and demonstrate next-gen voice-controlled True Wireless Stereo (TWS) earbuds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/knowles-kn-fluent.ai-to-offer-voice-controlled-tws-earbuds",
-      "originalUrl": "https://www.nasdaq.com/articles/knowles-kn-fluent.ai-to-offer-voice-controlled-tws-earbuds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/knowles-kn-fluent.ai-to-offer-voice-controlled-tws-earbuds?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/knowles-kn-fluent.ai-to-offer-voice-controlled-tws-earbuds?amp",
-      "publishedDateTime": "2022-01-04T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-natural-language-processing-nlp-market.md",
-      "title": "Natural Language Processing (NLP) Market",
-      "excerpt": "Natural Language Processing (NLP) Market ' a New Report by Coherent Market Insights, analyzes at the competitive environment and projections for future growth. The Natural Language Processing (NLP ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103483967/Natural-Language-Processing-NLP-Market-Grow-at-CAGR-of-204-During-Forecast-2028-Apple-Inc-Inovalon-3M-IBM",
-      "originalUrl": "https://menafn.com/1103483967/Natural-Language-Processing-NLP-Market-Grow-at-CAGR-of-204-During-Forecast-2028-Apple-Inc-Inovalon-3M-IBM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-01/04/EP_72fb8image_story.png",
-          "width": 824,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T23:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

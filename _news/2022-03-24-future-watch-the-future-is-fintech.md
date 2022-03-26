@@ -96,6 +96,20 @@ related:
         width: 1251
         height: 1251
         isCached: true
+  - title: "Top 10 Most Promising Fintech Firms in India 2022"
+    excerpt: "FinTech firms are technological alternatives to traditional financial firms’ back-end systems in the twenty-first century. Find out the top 10 most p"
+    publishedDateTime: 2022-03-26T17:12:00Z
+    webUrl: "https://menafn.com/1103917638/Top-10-Most-Promising-Fintech-Firms-in-India-2022"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?869496"
+        width: 442
+        height: 250
+        isCached: true
   - title: "Brex Helps Zesty.ai Scale With $10 Million in Venture Debt"
     excerpt: "U.S. fintech company Brex, the company reimagining finance for growing businesses, has provided $10 million in growth capital via venture debt to Zesty.ai,"
     publishedDateTime: 2022-03-24T15:00:00Z

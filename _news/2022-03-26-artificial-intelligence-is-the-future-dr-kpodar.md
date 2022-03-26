@@ -98,20 +98,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
-    excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),"
-    publishedDateTime: 2022-03-23T10:10:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Back to the future: driverless cars become reality"
     excerpt: "One industry insider said the relaxed rules in US states including California and Nevada, which was the first to allow driverless cars on its roads in 2011, has also played an important role in propelling the growth of domestic players."
     publishedDateTime: 2022-03-22T19:10:00Z
@@ -121,6 +107,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
+  - title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
+    excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),"
+    publishedDateTime: 2022-03-23T10:05:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 14
 
 secured: "oLb5NljepTpLdOZM6EzCmzNC1g/W9UzipoDRb3LDTsxPy3/ulGr2Fbt7lgSOhF7xuFmo/wDiGArDvgwI/hU5vOXE8lzEjit3rOnzL4GP5PsWmn7kr3RiG6eHuCCJPZZRRYvIqRL7+Sr2IWH8xwZSr7PsVJxVHweq6xRuO62sp0OuqHu3cCIk1GKpA4959y7fMFXdODptk5jGxOPcJTNE/pttTE2BWFEQgOnijO4C6w+zskrBreS5DwmSBPDFgN0I5lgbJJ9Mvjm+SFw5iHkppU+pL9t4t/JB98+1mSudb9pj+ts2CTmcIygXbZYczsWfC+Jpb52SZ9UAHwJx9SwLZhUXh0/r/KTCvy917b5DZyw=;+laLtUxGHeuvLHpG7C+Jnw=="
 ---

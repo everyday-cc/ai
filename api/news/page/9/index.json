@@ -2,6 +2,92 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-03-16-crisis-data-an-ethics-case-study.md",
+      "title": "Crisis Data: An Ethics Case Study",
+      "excerpt": "Politico published an article about a nonprofit called Crisis Text Line, which offers support via text messages for people who are going through mental health crises. For years, the nonprofit had been collecting a database of messages exchanged,",
+      "sourceUrl": null,
+      "webUrl": "https://www.scu.edu/ethics/focus-areas/internet-ethics/resources/crisis-data-an-ethics-case-study/",
+      "originalUrl": "https://www.scu.edu/ethics/focus-areas/internet-ethics/resources/crisis-data-an-ethics-case-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.scu.edu/media/ethics-center/internet-ethics/8265910706_0851f637c0_z-360x225.jpg",
+          "width": 360,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Santa Clara University",
+        "domain": "scu.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-amazon-launches-free-online-game-to-boost-aws-cloud-skills.md",
+      "title": "Amazon Launches Free Online Game To Boost AWS Cloud Skills",
+      "excerpt": "Amazon creates metaverse game AWS Cloud Quest to boost cloud computing skills for AWS certified cloud practitioners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/amazon-launches-metaverse-type-game-for-aws-cloud-training",
+      "originalUrl": "https://www.crn.com/news/cloud/amazon-launches-metaverse-type-game-for-aws-cloud-training",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0273-14ae73d3debe-a89ed4d9b3e1-1000/cloudquest-resized.jpg.jpeg",
+          "width": 599,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T19:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-the-downfall-of-one-of-the-worlds-biggest-brains.md",
       "title": "The Downfall of One of the World’s Biggest Brains",
       "excerpt": "In 2011, when Watson, IBM’s computer system played against champions ... What does this say about the promise of AI for medicine? I’m Lizzie O’Leary and you’re listening to what next ...",
@@ -997,92 +1083,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-kneron-ai-chips-adpoted-by-toyota-supplier-kenwood.md",
-      "title": "Kneron AI chips adpoted by Toyota supplier Kenwood",
-      "excerpt": "Kneron, the San Diego-based full-stack edge AI company, announced last week that its two AI chips M5S and KL520 are used by Japanese auto supplier Kenwood in its latest dashboard camera DRV-EMN5700.",
-      "sourceUrl": null,
-      "webUrl": "https://digitimes.com/news/a20220315PD213/adas-ai-kneron.html",
-      "originalUrl": "https://digitimes.com/news/a20220315PD213/adas-ai-kneron.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20220315pd213_files/1_2b.jpg",
-          "width": 1280,
-          "height": 827,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-techforceai-raises-15-million-seed-funding.md",
-      "title": "Techforce.ai Raises $1.5 Million Seed Funding",
-      "excerpt": "To digitally enable knowledge workers with just-in-time AI and Automation \"We believe the future of work will be driven by higher cognitive ... has partnerships with Microsoft, IBM, Oracle ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,93 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-03-09-artificial-intelligence-stocks-the-10-best-ai-companies.md",
+      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
+      "excerpt": "The global artificial intelligence industry is expected to ... Google is also the parent of autonomous vehicle company Waymo LLC, which made history by launching the first fully driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/news/2022/03/artificial-intelligence-stocks-the-10-best-ai-companies-6/",
+      "originalUrl": "https://wtop.com/news/2022/03/artificial-intelligence-stocks-the-10-best-ai-companies-6/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-08T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-09-ai-core-software-deep-learning-compiler-developed.md",
+      "title": "AI core software 'Deep Learning Compiler' developed",
+      "excerpt": "A Korean research team has unveiled a core technology which reduces the time and cost invested in developing artificial intelligence (AI) chips in small and medium-sized enterprises and startups. Thanks to the development of system software that solved the problems of compatibility and scalability between hardware and software which have been obstacles in the past,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-03-ai-core-software-deep.html",
+      "originalUrl": "https://techxplore.com/news/2022-03-ai-core-software-deep.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/etri-developed-ai-core.jpg",
+          "width": 2880,
+          "height": 1915,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-03-ai-core-software-deep.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ai-core-software-deep.amp",
+      "publishedDateTime": "2022-03-08T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-03-09-rackspace-technology-works-with-delta-thermal-to-help-electric-utilities-and-downstream-industrial-customers-protect-and-grow-the-power-grid.md",
       "title": "Rackspace Technology Works with Delta Thermal to Help Electric Utilities and Downstream Industrial Customers Protect and Grow the Power Grid with AWS",
       "excerpt": "Rackspace Technology ® (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company, today announced working with Delta Thermal to protect and grow the power grid enabled by Delta Thermal to help electric utilities and downstream industrial customers predict and prevent costly outages,",
@@ -1092,101 +1179,6 @@
         "name": "The Conversation",
         "domain": "theconversation.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-ai-model-may-speed-up-document-analysis-for-the-banking-financial-and-insurance-industries.md",
-      "title": "AI model may speed up document analysis for the banking, financial and insurance industries",
-      "excerpt": "Researchers have developed an AI-based solution that can automatically analyze and extract large amounts of information from computer documents.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-03-ai-document-analysis-banking-financial.html",
-      "originalUrl": "https://techxplore.com/news/2022-03-ai-document-analysis-banking-financial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/new-ai-model-will-spee.jpg",
-          "width": 553,
-          "height": 222,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-03-ai-document-analysis-banking-financial.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ai-document-analysis-banking-financial.amp",
-      "publishedDateTime": "2022-03-07T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-ai-ethics-foresees-potential-bad-blood-and-feuding-between-humans-and-ai-in-an-us-versus-them-daily-tussle-maybe.md",
-      "title": "AI Ethics Foresees Potential Bad Blood And Feuding Between Humans And AI In An Us Versus Them Daily Tussle, Maybe...",
-      "excerpt": "AI ethics warns us of bad blood and feuds that can arise from an us-versus-them human mindset, illustrated via the possible wrong way of adopting AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/07/ai-ethics-foresees-potential-bad-blood-and-feuding-between-humans-and-ai-in-an-us-versus-them-daily-tussle-maybe-even-scuffling-with-ai-based-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/07/ai-ethics-foresees-potential-bad-blood-and-feuding-between-humans-and-ai-in-an-us-versus-them-daily-tussle-maybe-even-scuffling-with-ai-based-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/622512861a15fdb604df6af2/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1035,
-          "height": 582,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/07/ai-ethics-foresees-potential-bad-blood-and-feuding-between-humans-and-ai-in-an-us-versus-them-daily-tussle-maybe-even-scuffling-with-ai-based-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/07/ai-ethics-foresees-potential-bad-blood-and-feuding-between-humans-and-ai-in-an-us-versus-them-daily-tussle-maybe-even-scuffling-with-ai-based-self-driving-cars/amp/",
-      "publishedDateTime": "2022-03-07T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

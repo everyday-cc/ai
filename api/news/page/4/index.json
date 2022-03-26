@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-22-perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence.md",
+      "title": "Perseverance Rover To Self On Drive On Mars Soon, Thanks To Artificial Intelligence",
+      "excerpt": "Perseverance is collecting rock cores for return to Earth which makes for the first part of the Mars Sample Return campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/science/29044/perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence",
+      "originalUrl": "https://in.mashable.com/science/29044/perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/news/n/nasas-pers/nasas-perseverance-has-a-little-family-portrait-easter-egg_enwu.620.png",
+          "width": 620,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/science/29044/perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/science/29044/perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence?amp=1",
+      "publishedDateTime": "2022-03-22T01:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-ai-experts-warn-of-potential-cyberwar-facing-banking-sector.md",
       "title": "AI Experts Warn of Potential Cyberwar Facing Banking Sector",
       "excerpt": "U.S. authorities have flagged the U.S. financial system, a central pillar in the U.S. sanctions regime, as an attractive target, and officials and security experts have warned for weeks about the possibility of retaliatory cyberattacks from Russia.",
@@ -348,6 +391,49 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-03-21-supermicro-breakthrough-universal-gpu-system-supports-all-major-cpu-gpu-and-fabric-architectures.md",
+      "title": "Supermicro Breakthrough Universal GPU System - Supports All Major CPU, GPU, and Fabric Architectures",
+      "excerpt": "(SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing technology, has announced a revolutionary technology that simplifies large scale GPU deployments and is a future proof design that supports yet to be announced technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-san-jose-1d27a23535ea3776588e28dbf527a5c7",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-san-jose-1d27a23535ea3776588e28dbf527a5c7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-21T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1100,93 +1186,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-19-robotic-assistance-devices-receives-order-for-ava-security-robot-from-a-leading-provider-of.md",
-      "title": "Robotic Assistance Devices Receives Order for AVA Security Robot from a Leading Provider of ...",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), today announced that its wholly-owned subsidiary Robotic Assistance Devices Inc. (RAD) has received an order for an AVA autonomous access control device from a subsidiary of one of RAD’s existing authorized dealers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/robotic-assistance-devices-receives-order-for-ava-security-robot-from-a-leading-provider-of/article_c015e3d2-131b-5f2e-907b-ba73c827b870.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/robotic-assistance-devices-receives-order-for-ava-security-robot-from-a-leading-provider-of/article_c015e3d2-131b-5f2e-907b-ba73c827b870.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-19-stepping-up-as-a-machine-learning-developer-my-experience-with-the-google-machine-learning-bootcamp.md",
-      "title": "Stepping up as a Machine Learning Developer —My Experience With the Google Machine Learning Bootcamp",
-      "excerpt": "As a developer, I had developed a certain level of curiosity about machine learning. I had also heard that many former developers were switching their",
-      "sourceUrl": null,
-      "webUrl": "https://developers.googleblog.com/2022/03/GoogleMachineLearningBootcamp.html",
-      "originalUrl": "https://developers.googleblog.com/2022/03/GoogleMachineLearningBootcamp.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwSLoqG4FIYlaJMtUspuFmG4sIpiXaFR_5JoR9AiiFLTmEmSANh7hpEy0zrXpi28Eg07xJ6STKluaTO-Mz1f7E4BjjYa6nXRoKwvZdV0RzoMTDVUro8i5VchDLU1n2qEa9g_qq1xuJGh3kmVgdIAcLK-IfiezD1NZBg4YcHIJDAI-1QpHI9Fov8b_m/w1200-h630-p-k-no-nu/GDG_GDE%20Machine%20Learning%20v1.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "googleblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

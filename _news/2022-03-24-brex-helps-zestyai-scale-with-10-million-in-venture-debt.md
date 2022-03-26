@@ -104,6 +104,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Top 10 Most Promising Fintech Firms in India 2022"
+    excerpt: "FinTech firms are technological alternatives to traditional financial firms’ back-end systems in the twenty-first century. Find out the top 10 most p"
+    publishedDateTime: 2022-03-26T17:12:00Z
+    webUrl: "https://menafn.com/1103917638/Top-10-Most-Promising-Fintech-Firms-in-India-2022"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?869496"
+        width: 442
+        height: 250
+        isCached: true
   - title: "Boost, a regional FinTech firm, becomes first fully digital financier to secure investment grade A1 rating in Southeast Asia"
     excerpt: "Boost looking to tap on burgeoning digital banking ecosystem within the Southeast Asian region A1 rating for its Malaysian securitised receivables cements firm's commitment towards the underserved segment securitizes financing portfolio;"
     publishedDateTime: 2022-03-22T04:00:00Z

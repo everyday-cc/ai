@@ -2,6 +2,83 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-03-14-nference-accelerates-self-supervised-language-model-training-with-cerebras-cs-2-system.md",
+      "title": "nference Accelerates Self-Supervised Language Model Training with Cerebras CS-2 System",
+      "excerpt": "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) compute, and nference, an AI-driven health technology company, today announced a collaboration to accelerate natural language processing (NLP) for biomedical research and development by orders of magnitude with a Cerebras CS-2 system installed at the nference headquarters in Cambridge,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-nference-accelerates-self-supervised-language-model-training-with-/2022/03/14/9562834.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-nference-accelerates-self-supervised-language-model-training-with-/2022/03/14/9562834.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-14-artificial-intelligence-robotics-technology-park-launched-in-ktaka.md",
+      "title": "Artificial Intelligence & Robotics Technology Park launched in K'taka",
+      "excerpt": "Artificial Intelligence and Robotics Technology Park (ARTPARK), the first of its' kind in the country, a not-for-profit foundation has been launched i..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/artificial-intelligence-robotics-technology-park-launched-in-ktaka/90204240",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/artificial-intelligence-robotics-technology-park-launched-in-ktaka/90204240",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-90204240,imgsize-44018,width-1200,height-628,overlay-etcio/artificial-intelligence-robotics-technology-park-launched-in-k-taka.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/artificial-intelligence-robotics-technology-park-launched-in-ktaka/90204240",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/artificial-intelligence-robotics-technology-park-launched-in-ktaka/90204240",
+      "publishedDateTime": "2022-03-14T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-14-cognitive-cloud-market-poised-to-register-16-cagr-by-2023-cognitive-cloud-market-growth-analysis-and-covid-research-report.md",
       "title": "Cognitive Cloud Market Poised to Register 16% CAGR by 2023 | Cognitive Cloud Market Growth Analysis and COVID Research Report",
       "excerpt": "Market Synopsis The data analysts at Market Research Future Reports (MRFR) have revealed that the global cognitive cloud market is predicted to",
@@ -671,7 +748,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1044,101 +1122,6 @@
         "AI in Autos",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-12-federated-learning-for-text-generation.md",
-      "title": "Federated Learning for Text Generation",
-      "excerpt": "This tutorial builds on the concepts in the Federated Learning for Image Classification tutorial, and demonstrates several other useful approaches for federated learning. In particular, we load a previously trained Keras model, and refine it using ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/federated/tutorials/federated_learning_for_text_generation?hl=hr-ba",
-      "originalUrl": "https://www.tensorflow.org/federated/tutorials/federated_learning_for_text_generation?hl=hr-ba",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=hr-ba",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-11T17:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-12-researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.md",
-      "title": "Researchers develop a system of synthetic biosensors to assess the response of cancer therapy",
-      "excerpt": "Immune checkpoint blockade (ICB) inhibitors have transformed the treatment of cancer and have become the frontline therapy for a broad range of malignancies. It's because they work better than the previous standard of care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220311/Researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220311/Researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220311/Researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220311/Researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.aspx",
-      "publishedDateTime": "2022-03-11T17:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

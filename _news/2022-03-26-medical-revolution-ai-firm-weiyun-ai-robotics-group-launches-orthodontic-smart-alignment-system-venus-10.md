@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/space-exploration-sci
 webUrl: "https://apnews.com/press-release/pr-newswire/space-exploration-science-technology-health-business-98ad2bafd450f18e353b9fdcc283f668"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Medical Revolution: AI Firm WEIYUN AI & Robotics Group Launches Orthodontic Smart Alignment System Venus 1.0'"
+    excerpt: "Recently, the leading surgical robotic and AI customerized industrial Internet company - Weiyun AI&Robotics Group has successfully developed AI SMILE Orthodontic Smart Alignment System named Venus 1.0,"
+    publishedDateTime: 2022-03-26T17:10:00Z
+    webUrl: "https://menafn.com/1103916527/Medical-Revolution-AI-Firm-WEIYUN-AI-Robotics-Group-Launches-Orthodontic-Smart-Alignment-System-Venus-10"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 50
+    images:
+      - url: "https://menafn.com/updates/pr/2022-03/25/PN_cc3822f6-9_Image_In_Body.jpg"
+        width: 305
+        height: 400
+        isCached: true
 
 secured: "0+FyiSPYLBw87Sij5EQpTs1lY/Nz6yB7zcgJhi0bAwD/dPZRNKG9tE8MK3EWdQcxpbwKe9k8snUP6p1z0C1YunGW/0XtvBc7gHmBcR0L/pCSyRcT9ZqYTb5tL5OPIRahfwU1R7U0B2KPEtb9dqJal9/wCcLQB/39yu96oyht6I8BF1+Htt1+Sl9RlN9nQ8qLWM043US4E7Q/CzyWxjWdt/a/etRYNEB5PsKhxEQQ0UsCmf4qWpx8wOjnBkpF8mwr35EXa+M35txeQxbDgZbS8yHm4+80fo6Rt+w0kbC7Rc9Egz3xrtIslKcaSnQwQ/cF4Ki6AcujXyVuM6ig8JFQ9hFEvG/EoBMvbRQUC4Mx8jg=;sn3yQjhgpj/GVvy874wYlA=="
 ---

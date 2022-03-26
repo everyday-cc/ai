@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Should You Trust Artificial Intelligence in Marketing?"
-    excerpt: "AI-based marketing tools allow teams to derive insights from the data collated"
-    publishedDateTime: 2022-03-22T00:32:00Z
-    webUrl: "https://www.chron.com/business/article/Should-You-Trust-Artificial-Intelligence-in-17018635.php"
+  - title: "Artificial Intelligence (AI) Market To Develop With Surge In Applications"
+    excerpt: "Market Highlights The satiate of chances presented by AI is provoking the advancement of the artificial intelligence market 2020. The data and"
+    publishedDateTime: 2022-03-24T06:19:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-market-to-develop-with-surge-in-applications"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 56
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 53
     images:
-      - url: "https://s.hdnux.com/photos/01/24/60/65/22220148/3/rawImage.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/f5bba72678ff93670d5b9b0566e19922cf344b35-1-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "ZrluJJRZOoBUp3ZYM8C4nNvwDzcc00MegFbhkhv2DJGt5NwaJOw7ovNP+V7UJyXI+X3qYAgLnZSo+TzNeNDlvqk+1fK4aaLiuVZGnrh/5hxZ3vRmUfd56ZaZmYgpOlnWmuSkY8q9pg4KphcNeXG3396nv2MIA8youuS+9CB5Qvknpih8Jj9VOyxPUduszErKBbKgvdssNX2naYyDkAA9m5s2KoAkw9nHut9557JqXBdFV/N7vyQAKOQYLVZS7DBMC9V2Ufkr19naRIdr2TMTtDiFGAPTklNTE1qObcEaf2FEjrPIpO4k2s4dTBMrSH7oxq6ldQ71UwE1CvJ9+Dgas7mSmrWTWfImVuQgj9HWbQQ=;10QiB/0Rvi1dqCUVaGlUIQ=="
