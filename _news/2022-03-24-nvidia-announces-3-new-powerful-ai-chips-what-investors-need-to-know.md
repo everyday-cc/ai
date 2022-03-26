@@ -3,21 +3,30 @@ category: news
 title: "Nvidia Announces 3 New Powerful AI Chips -- What Investors Need to Know"
 excerpt: "It's difficult to concisely summarize all of the new products and services announced at the tech company's annual spring GPU Technology Conference (GTC) that kicked off on March 21. But Nvidia's powerful new chip designs and systems aimed at artificial intelligence (AI) are a good place to start."
 publishedDateTime: 2022-03-24T12:55:00Z
-originalUrl: "https://www.nasdaq.com/articles/nvidia-announces-3-new-powerful-ai-chips-what-investors-need-to-know"
-webUrl: "https://www.nasdaq.com/articles/nvidia-announces-3-new-powerful-ai-chips-what-investors-need-to-know"
-ampWebUrl: "https://www.nasdaq.com/articles/nvidia-announces-3-new-powerful-ai-chips-what-investors-need-to-know?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-announces-3-new-powerful-ai-chips-what-investors-need-to-know?amp"
+originalUrl: "https://www.fool.com/investing/2022/03/24/nvidia-new-powerful-ai-chips-what-need-know/"
+webUrl: "https://www.fool.com/investing/2022/03/24/nvidia-new-powerful-ai-chips-what-need-know/"
 type: article
-quality: 67
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI Hardware
   - AI
+
+images:
+  - url: "https://g.foolcdn.com/editorial/images/671704/nvidia-hopper-architecture-h100-sxm.jpg"
+    width: 1600
+    height: 900
+    isCached: true
 
 related:
   - title: "Nvidia's New Chips Power AI, Autonomous Vehicles, Metaverse Tools"
@@ -129,6 +138,6 @@ related:
         height: 720
         isCached: true
 
-secured: "hZA+8XccT+wKrmL5QAnjN+hIoiXSFK5S4JBD2uOeAGCnQUETIVCL2dHytJD5RMz+sclXZBX52QFC9zog0qrb8CCYvadER9q9JWu1MNCa6XW/ynDIPItde89/KEREY/PlXpIN/kXCi/mw+FZ603DpZrJx3IdAozrbDVMOvOpIsxsTKXOVbUCRQ+2835NQeTm/g8y0RsHl9HkN44qIj2SvVa3yfiOEijF/B9MlZUh1gN510Wcq1h3G+OK7nP7tpc61sgUp9jXNxItfSGdb5rAYBkqk2vn4VcXyP7nGsM91ojVnHD16KOgbboAZMgdJsGSXQhcRPjdbxkW3VTHzf/bgJOoOlJmzbwKxct/tEw9/p4Q=;b5xoGaoL1YCsQTWIaamfOQ=="
+secured: "doBz+dinZ/jAQvx90xT2gXp9JJY7l4o4ydwkNOzIc56bQ/TJi7osZLk/7lPefB56EzpnUwLzEuotPtoAhVFl0werQ1+HQjdLWcWWzH5HDMUUcNzvcneYYPETm1lcbTvzTbnXa8msVCmSxd25uyIvT9wRtfIqmB2LeBBJQJSKbNlRjL5HDUsc+y5pmARYy+Ap+hY5guP7mNo5cM2CUS8RX2KbH8tZniN0iJWq2fd7pb7qWkgw4qehXSmy1Bn9tv0oTR9Ysi5DvBz6gAWenpN2zZNFvWK7/SLZcU6J1KfoknbZnF3b8sNcZ5hqYmvRSh4n49s8i3Xh9TrDOwH0LH2KaPfx5ydJA7OVjuWgChS/cpI=;tCzGXj19rFB5hpdk51xxjg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/ai-can-mak
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/24/ai-can-make-us-more-human-heres-how/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 832
     isCached: true
-
-related:
-  - title: "Can Artificial Intelligence Make Us More Human?"
-    excerpt: "Can Artificial Intelligence Make Us More Human? By Deepak Chopra, MD The whole thrust of the field of artificial intelligence (AI) is to make machines interact with us more like humans. In practical terms this involves building a computer or robotic device that can take over a human task and do it just as well or better."
-    publishedDateTime: 2022-03-21T14:10:00Z
-    webUrl: "https://www.linkedin.com/pulse/can-artificial-intelligence-make-us-more-human-chopra-md-official-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEvydwOM6K71w/article-cover_image-shrink_600_2000/0/1647871690962?e=1653523200&v=beta&t=FH-vfLEquU2WKXuu_sLznKOQC3u3VZgEXSh7acpveLs"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "5hfEzfLYINPgKjMzynmklB0r/xK83NYjBM9LTvq6dhIebyOHL/vYucpZI9CsnWrbAJ/8qmuWiHEkKL0Ciq6f0iPT0+33nTbNDZKA6OrgcAIEOLj7zfSJSd4CzCFzl+YS6uaqhXOWwBNRr/4UjtNdrN7aRyVhqC+su1xZZUe71N8i1XZ7HRk023EUdlBB9t5OhM0choNkxFQ8Qd3Oj356VVtLl4a3Ikt8Ed5EraV+Vjq/4qh/hhlUHm6KarGH0afcpCEDZE4czLYQWtQ9GKHCp8OgL2a3Yf4r9XUKeWGvsB9mo1uQreCTGJbewXZ1QzcvldBJ4oTur13T8d9un5GZ5tDremXz7jt1uREjDIm0yQHt64Ze3HLd4ctdHKgbRSSqKalfKTu+10UH4N0fNM740Fd7l9Yqo+UR1ZTqJhma1JMBlPQjF9VX3zm+++ArPMp5roykDmhotWO/N36aBSSFPK/MyPVO9ZagtrxLKUI9VqzZF1E991VRRzk7fh4bKoUq4G0pcstlrv5nzygKUae7ZQ==;ZfxhgNNdd2lMzh87Loe7Uw=="
 ---
