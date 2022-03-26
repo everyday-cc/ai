@@ -25,49 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "‘Don’t stop at one search’: Emails reveal how Clearview pushed college police to use facial recognition on students"
-    excerpt: "The University of Illinois used a free version of Clearview AI to conduct investigations. It then bought the software."
-    publishedDateTime: 2022-03-24T15:33:00Z
-    webUrl: "https://www.dailydot.com/debug/university-illinois-clearview/"
-    ampWebUrl: "https://www.dailydot.com/debug/university-illinois-clearview/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/university-illinois-clearview/?amp"
+  - title: "How AI is being used on the Black Sea to enforce sanctions against Russia"
+    excerpt: "Amid the Ukraine conflict, AI-based data analytics are helping navigate the choppy waters created by sanctions against vessels, businesses and people associated with Russia."
+    publishedDateTime: 2022-03-26T09:30:00Z
+    webUrl: "https://www.protocol.com/enterprise/ai-ukraine-russia-maritime-risk"
+    ampWebUrl: "https://www.protocol.com/amp/ai-ukraine-russia-maritime-risk-2657040152"
+    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ai-ukraine-russia-maritime-risk-2657040152"
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 52
+      name: Protocol
+      domain: protocol.com
+    quality: 58
     images:
-      - url: "https://uploads.dailydot.com/2022/03/facial-recognition-college.jpg?auto=compress&fm=pjpg&ixlib=php-3.3.1"
-        width: 2000
-        height: 1000
-        isCached: true
-  - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
-    excerpt: "Clearview AI, the facial recognition technology (FRT) company that provides powerful and reliable photo identification technology to law enforcement agencies across the country, announced the release of Clearview 2."
-    publishedDateTime: 2022-03-25T10:02:00Z
-    webUrl: "https://www.kentuckytoday.com/news/business/clearview-ai-releases-2-0-version-of-industry-leading-facial-recognition-platform-for-law-enforcement/article_10f65bcc-2844-540e-a5f2-ace40197474b.html"
-    type: article
-    provider:
-      name: Kentucky Today
-      domain: kentuckytoday.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
-    excerpt: "Clearview AI’s database now features more than 20 billion facial images. Clearview 2.0 offers new compliance and investigation management tools for law enforcement agencies."
-    publishedDateTime: 2022-03-25T19:26:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/press-release/21261824/clearview-ai-clearview-ai-releases-20-version-of-industry-leading-facial-recognition-platform-for-law-enforcement"
-    type: article
-    provider:
-      name: Officer
-      domain: officer.com
-    quality: 39
-    images:
-      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2022/03/Clearview_AI_Logo.623e145e8f239.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-quantexa-windward-and-skytek-use-ai-based-data-analytics-to-monitor-exposure-to-risks-posed-by-sanctioned-entities-whether-it-be-to-guard-against-financial-fraud-or-maritime-risks-such-as-illegal-cargo-or-flag-hopping-less-than-p-greater-than.jpg?id=29595069&width=400&coordinates=0%2C234%2C0%2C235&height=711.4285714285714&quality=80"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "UpSCLMWrsGAOVT1znMhUlvIsjkOsc7a/mfsv9V58D40g2NojZxPflSbB2wIM7bhRUi6PG9p9YEh8aDHrzUAxCfogEbd3a96UfiYjhUBN6HXfOiaOX6bzJDBBSOWoVCEXdJEevDIfGVY9/93dtTxmi8OB/ddnEE4yHwbQCF9h/ImJeZP1OVHClesHP7cGao11JMcYIHX8g4eLbHfrLoBirBNCbWh97QAinabJ96buKEi+lJMMo8+siTvuinyqGgO5Br2XavAJxX+e22gYHyG6HzQi2WldCkofMI2LdAuTRGGKpbb9v72zRkBa+jdeDPsCWo8I4wKrdv/cV+JoSCQEf3QatnFH98lBV3ipMN+47ixcP1clCTGrjBduCnYPnqo4OnSPwF/cbwL7e8c5arOBYpyduVdpqg3fFklFWPYZnsamGV9XaLTDfqGcQ3NQcFI/KUM0p3J1NHhmDI1Yb0H11Ir5I9NQzd54jgtQVtqgXGyxerJLLRFye6oiyb+OkJ+dTqpVuKOjVguXhJNAkPWR5w==;JyiopwvLvz7FX8bWMwytJQ=="

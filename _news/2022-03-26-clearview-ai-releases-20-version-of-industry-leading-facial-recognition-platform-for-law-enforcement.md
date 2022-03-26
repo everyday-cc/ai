@@ -41,20 +41,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Clearview AI facial recognition being used to deliver news of Russian war dead to families"
-    excerpt: "Ukraine military is matching images of Russian soldiers killed in combat to social media profiles with Clearview AI’s biometric app."
-    publishedDateTime: 2022-03-24T17:11:00Z
-    webUrl: "https://www.biometricupdate.com/202203/clearview-ai-facial-recognition-being-used-to-deliver-news-of-russian-war-dead-to-families"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 44
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/24130344/ukraine-war-zone-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
     excerpt: "Clearview AI, the facial recognition technology (FRT) company that provides powerful and reliable photo identification technology to law enforcement agencies across the country, announced the release of Clearview 2."
     publishedDateTime: 2022-03-25T10:02:00Z
