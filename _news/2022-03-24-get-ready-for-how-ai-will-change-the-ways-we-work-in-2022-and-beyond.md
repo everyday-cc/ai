@@ -23,22 +23,6 @@ images:
     height: 1333
     isCached: true
 
-related:
-  - title: "Digital Health, in 2022 the focus is on services for patients and artificial intelligence"
-    excerpt: "The results of Research 2 Guidance's “Global Digital Health Business Outlook Survey 2022” show a sector that is still growing, with stable investments compared to 2021 and an increasingly massive presence of big techs."
-    publishedDateTime: 2022-03-21T09:50:00Z
-    webUrl: "https://www.linkedin.com/pulse/digital-health-2022-focus-services-patients-luca-de-angeli"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 30
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHj-KXtI-84qw/article-cover_image-shrink_600_2000/0/1647856241238?e=1653523200&v=beta&t=tlWun2IDYGUMPNEyxkN1Lbuz8twwvhO1njC7aW_ej1k"
-        width: 624
-        height: 328
-        isCached: true
-
 secured: "kbY5VhSo6Xr66ffhoOI1nAVQuiPLS96C8Cd0tBt3Cwk9nPUmmDPPmrLcYtzRXzLPQP13U8xK6WGk1Eq6VOCvcZ/ux4DuF0eqYHxGhSGuYqGMX+IsB7qZ+tLbPS/muGaudpGDwDjEkvvqlj2AeEWyw6lazRan1dXHWcVlweMhkBYEifseidHu0ddOIVzWBjuExy3NiZZEQZyuLkhadNqQaKZhDzzPqRFJC1SRv6siN9jsAEyesg01FSvGPGW4coYemYSJMCGd6t06GFwSG3SL8hGAnjoMSsUER0rH3Bl27EzW0ESJdOkgn8TbjWsJKG/Nye1i7nxehFDg1sKuzRoY1+00lFHGXBleBq1PvrDGCRqHEFeNdRghzNIlUc1ijWo7qX8LDFUfK2O1WJduePlk9T0Dzq+cvBe6mSA0tZy+hmnj/ib7CInS9jyOAHlehfwCg+f9JffU5Kcg6Inn/3//SrosT0T4OiY/TdqJrILumsws9SkuPbbVvAlsVTDIz3vig0i5/t15g2U7FY14RdwjQw==;HdoyJdCq1HjRmYVlrt6ZnQ=="
 ---
 

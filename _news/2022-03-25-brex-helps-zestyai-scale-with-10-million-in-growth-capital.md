@@ -2,26 +2,26 @@
 category: news
 title: "Brex Helps Zesty.ai Scale With $10 Million in Growth Capital"
 excerpt: "This deal marks continued momentum for Brex Venture Debt, which Brex launched in August 2021 as a way to help founders take their business to the next level. It helps growing busi"
-publishedDateTime: 2022-03-25T03:21:00Z
-originalUrl: "https://www.khon2.com/business/press-releases/cision/20220324NY02101/brex-helps-zesty-ai-scale-with-10-million-in-growth-capital/"
-webUrl: "https://www.khon2.com/business/press-releases/cision/20220324NY02101/brex-helps-zesty-ai-scale-with-10-million-in-growth-capital/"
+publishedDateTime: 2022-03-25T00:21:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220324NY02101/brex-helps-zesty-ai-scale-with-10-million-in-growth-capital/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220324NY02101/brex-helps-zesty-ai-scale-with-10-million-in-growth-capital/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KHON2
-  domain: khon2.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://i0.wp.com/www.khon2.com/wp-content/uploads/sites/8/2022/03/Locations-Open-House-3.27.22_Photo.jpg?w=2000&#038;ssl=1"
-    width: 480
-    height: 270
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+    width: 600
+    height: 207
     isCached: true
 
 related:
@@ -104,6 +104,6 @@ related:
         height: 324
         isCached: true
 
-secured: "ejysMAB3u2IvmTbQnpEWZtOs9lyeoX/wfmO5Xizje9D1kxmjF7v0N734p+3gXKxT1O/8eouvJZY0opGax1m6fd0QqHhIE8Q9aq8joeB3bL0RSE7B7JtyHorce+L4oxaHnjhuoAHGyXOx8fqWoUKK9R0mo3ZW8Cbm1bX5MtLGAkDCZZke2/tceDq5RWxQR4P07wg4wUs8LCRDq59EMgOPK/AGTg6g8bZGZFwBtgfI46AB/4Ww7Mp/HOEOH5gZqihAGGUJmERgr04CyI790958OBm1rdEie5MIGQD4cGTqIXsGKbbhZICEchk4vkvuye7JbNfOBJ8rAej2N+0RnuWk/I1F2dn10YIKERWyYnwFy6Y=;aof5araANIz1V+lnrLAyDA=="
+secured: "QzbDaV0vyrpLQhh9anmmKpqT82ykoYiQ+IFKxe+oecUH2xTIT1mGrw3JqcGILANdczzcqHjLmvzg8HLh7UPI8UCwYtNPGoDY4m7nnHfF4JIspVyYLF+5nPhjoquvJtGp/lDTIMC+TkNyO5dOVK4KtaRNxHtLVNIHJdvWwlmjXYtb/+u3WdvRh5CpI8Ve01OMohRAG2CohWiXABfqAWVTkF70cVd2NXjprqZTYikVovS1X6cE17hFXGy/yC3/pxGug6cherTQ41/ggGVpPZB1oD8+r0UVV+R/2w53iqiRLaqgidiQj4wFtv/zrmjrL5NWcr72j4fOMSvx4e54WewaUERrg52Sl62iuGqrNXBMkPQ=;SKDIvV40Twp0IpeohFg2Ew=="
 ---
 

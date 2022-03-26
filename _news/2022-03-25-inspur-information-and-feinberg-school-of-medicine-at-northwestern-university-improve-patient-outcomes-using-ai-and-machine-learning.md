@@ -1,30 +1,29 @@
 ---
 category: news
 title: "Inspur Information and Feinberg School of Medicine at Northwestern University Improve Patient Outcomes Using AI and Machine Learning"
-excerpt: "At NVIDIA GTC, Inspur Information announced the results of its partnership with the Feinberg School of Medicine at Northwestern University in leveraging artificial intelligence (AI) to advance medical research and healthcare."
-publishedDateTime: 2022-03-25T13:09:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/inspur-information-and-feinberg-school-of-medicine-at-northwestern-university-improve-patient-outcomes-using-ai/article_41633203-a9e4-5e06-aa2d-1806aac9fa61.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/inspur-information-and-feinberg-school-of-medicine-at-northwestern-university-improve-patient-outcomes-using-ai/article_41633203-a9e4-5e06-aa2d-1806aac9fa61.html"
+excerpt: "The partnership first began when Northwestern was pilot testing high-performance data pipelines to enable deep learning directly on health system enterprise data. The AI development teams at Northwestern had been limited by constraints of the legacy ..."
+publishedDateTime: 2022-03-25T13:44:00Z
+originalUrl: "https://www.register-herald.com/region/inspur-information-and-feinberg-school-of-medicine-at-northwestern-university-improve-patient-outcomes-using-ai/article_868d889d-9a1c-56b6-bee4-d8cf264e42f4.html"
+webUrl: "https://www.register-herald.com/region/inspur-information-and-feinberg-school-of-medicine-at-northwestern-university-improve-patient-outcomes-using-ai/article_868d889d-9a1c-56b6-bee4-d8cf264e42f4.html"
 type: article
-quality: 25
-heat: 25
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
-  - AI Hardware
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-    width: 600
-    height: 315
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/2f/c2fe3e5e-68b4-11ec-b5b1-eb6d367dec1b/61cc72a6c74a5.image.jpg"
+    width: 320
+    height: 325
     isCached: true
 
-secured: "foGLSjAMNodyLkruySpjbl3is3wMUr/nJYZsUsm/xQFr2yibuVO4+5xY31qYcFY67T08h3tdHua28b9n2L/BDsrNagYLum1yVcgH8qCqPd7urhdBaNMoMWhBfhwgTCd8DXsZbiNyriDr8DDpBuKXNFK/kfLNcF2imV0XYmEQkPQIjaMyXvJnLs59dagSKXBkFfDivdtiCKivg7tQytgoIZGBNzL6xlvOQUMvNHVZ7YYsSuu6BcbmvcEcSV0nVE+LXZlL1g/34IHrOvzKmyRIl23Fbq3bisGPjzI7bhguke5qa9qz6lW1j5bIoXfKW5268CnDov+zI036Iw/LqUxDxoaLEn2Jr01i3SPg/T9Ibk36EqjP4VtsavdWvFPo6dIfue0JZCL+XmucH/peotLpr3v+ZoUiMv7x/Xq6I4Tb5+xA1Gcj5ZZFU23P5n270XLh+D2eqkt+GZoHfzOAVq5O7UajvFJH2WBhFfUR97/JnSFdbRlIA5B+vWvc8Ve63joijLdp77/m1s4532qNumOYQQ==;ZfFb/ehax0qbRV4JNIFYZQ=="
+secured: "KJz8FvZYnk0dOtmmCjdBKIA9kpIk2Nd6mkxUN/IsEskVmW3V4B1z7xWRm3ZqUd4Z4RNP2vSjU2JxGG5KVYCOE6EOX59t5MKZGJkPBlFHj+MQ+70JNaOOe0HDO+c4ReV/9Imfwi24GEEKQOouf8a9tRs7d1OrU4UitxRp/YsRr/xd+jnX27X7YylUMNngemptr/jxDYyzIY8rsiC9DqI4T2wBFgM7WmpS6Xh+dZD5UL8dQDVTzM5ahSyy5qai7+2ikaobHWFuGAz6gD3uqazyf9sk3VVuJ1wTjRpHV4QmoWICKKnxO7H9IPQmyPWgILcST3X60cp5AZlAOkOeCDvjPWtAWH59mvYL/arM2ZzyJrc=;B9eYA26atW/uCMGS4P6tUw=="
 ---
 

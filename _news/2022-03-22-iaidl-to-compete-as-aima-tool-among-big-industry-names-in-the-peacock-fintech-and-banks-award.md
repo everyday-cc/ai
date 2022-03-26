@@ -1,27 +1,27 @@
 ---
 category: news
 title: "IAIDL To Compete as AIMA Tool Among Big Industry Names in the Peacock Fintech and Banks Award"
-excerpt: "Bringing its best foot forward, the International AI Driving Licence (IAIDL) is set to compete against PWC, Mckinsey, and other renowned international organizations in the Peacock Fintech and Banks Award. Being the most influential Fintech and Bank Award ..."
-publishedDateTime: 2022-03-22T04:32:00Z
-originalUrl: "https://www.wicz.com/story/46114491/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award"
-webUrl: "https://www.wicz.com/story/46114491/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award"
+excerpt: "Bringing its best foot forward, the International AI Driving Licence (IAIDL) is set to compete against PWC, Mckinsey, and other renowned international"
+publishedDateTime: 2022-03-22T01:15:00Z
+originalUrl: "https://www.digitaljournal.com/pr/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award"
+webUrl: "https://www.digitaljournal.com/pr/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award"
 type: article
 quality: 43
 heat: -1
 published: false
 
 provider:
-  name: FOX 40 WICZ TV
-  domain: wicz.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
-    width: 1200
-    height: 628
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Russians-Helsinki-Train-AFP-1K-01-600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -144,6 +144,6 @@ related:
         height: 480
         isCached: true
 
-secured: "nPCfvOSsF4J8tHmxaj/wmSGDZwbteafxAua39T3YNwJwk+umOh1jKohOqvB9qgPOZIcZU99OISB50E48h8hD4qHz4XHljfOzFAx6izJsJddCAbgYz4nMhvUR8GfqFZ3cWWumJz/4BWqrqPufYWL+RagE5u275Cwqct4UvWB8y5cN/6I7wOV5ksps27zc/aytbSrxZFvov7Ofq+TtgBWh4uZVisJizYAANwMCiwiWUXDVNlqVLyacgkRe9E6CegCrHFPjnYIcgZn2geWh7PCL30+kCk52VJjF4loqcfYQ+ObBFmaF0Pbe0sRHW5Hp7e4+Q0Kvjhp8xyRWc66tcUPJzxJnQ+oj/C/CUHybNt78F5s=;Z23tNMogLGSsL50dhSRkEA=="
+secured: "P+nJujGIj1oySfpXo/sXiiKOOb4SzFU9iXsovZ7L8dotsLOzR2VcMWeP5rmSz1pvtmTo7/GxFHI9KsV9RzKk+mVq4RT2ZbmQ9bZD6K/TC6M8y7XOr3BbR5a7gVS6gy5dHoLE8COvBNujGuQb0lSROeAnR47lACP6pAuhKnHVHmuD2heTLaut+5O9RwQ8MGGvDza/n6tHfZN2JsgvJCMLX++i4y285oPLRaICcD/Tutx7HHyx3NrOhtrM1Fwh7pfRwYCjySRDF0KLwl6JjIuMke4qCpaXJXte5gbS137JdUmreesdnASb5VjPZIUUsOTxWwryz7IRaZ8q4hjlzN3V4CgqF16qAwsmJL3l7JVXVZk=;d5Gfn6Td9PQwoJ64zZKSJQ=="
 ---
 

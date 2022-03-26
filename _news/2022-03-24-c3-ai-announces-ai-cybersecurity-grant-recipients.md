@@ -27,17 +27,17 @@ topics:
 related:
   - title: "Border Patrol adds artificial intelligence cameras to security arsenal"
     excerpt: "Border agents in the past five months have participated in 6,630 search and rescues of migrants along the Southwestern border. They’re hoping newly deployed technology will help them not only stop"
-    publishedDateTime: 2022-03-26T00:02:00Z
-    webUrl: "https://www.borderreport.com/hot-topics/immigration/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/"
-    ampWebUrl: "https://www.borderreport.com/hot-topics/immigration/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
-    cdnAmpWebUrl: "https://www-borderreport-com.cdn.ampproject.org/c/s/www.borderreport.com/hot-topics/immigration/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
+    publishedDateTime: 2022-03-26T01:17:00Z
+    webUrl: "https://fox2now.com/news/border-report/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/"
+    ampWebUrl: "https://fox2now.com/news/border-report/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
+    cdnAmpWebUrl: "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/border-report/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
     type: article
     provider:
-      name: BorderReport
-      domain: borderreport.com
+      name: Fox2Now St. Louis
+      domain: fox2now.com
     quality: 74
     images:
-      - url: "https://www.borderreport.com/wp-content/uploads/sites/28/2022/03/CBP-IMAGE-ASTs.png?w=1280"
+      - url: "https://fox2now.com/wp-content/uploads/sites/14/2022/03/CBP-IMAGE-ASTs.png?w=1280"
         width: 896
         height: 472
         isCached: true

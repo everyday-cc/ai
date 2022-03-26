@@ -2,19 +2,25 @@
 category: news
 title: "nference Accelerates Self-Supervised Language Model Training with Cerebras CS-2 System"
 excerpt: "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) compute, and nference, an AI-driven health technology company, today announced a collaboration to accelerate natural language processing (NLP) for biomedical research and development by orders of magnitude with a Cerebras CS-2 system installed at the nference headquarters in Cambridge,"
-publishedDateTime: 2022-03-14T13:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-nference-accelerates-self-supervised-language-model-training-with-/2022/03/14/9562834.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-nference-accelerates-self-supervised-language-model-training-with-/2022/03/14/9562834.htm"
+publishedDateTime: 2022-03-14T13:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-science-health-artificial-intelligence-ef5e8ac5c096420cb73f8e3812348db2"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-health-artificial-intelligence-ef5e8ac5c096420cb73f8e3812348db2"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Natural Language Processing
+  - AI in Autos
   - AI
 
-secured: "H+UTVSnBu2OqEui2d+RN41VgoOkXC2dEMq/polQwVjNuqRdevfxEF84BVxyP5gcH/WaxOjZKcBstOw/q+N1e+DH9xZElG0Bql6lXSJ73usVVn40fbZvZcWU0NEyYHPWg9x0fb5vRutcYFAc4FMWyZzZTWSPaZw+9Fc4uEtvEKKMtbuqA7e06R1yocajiw02Xbj4b3xq3B9YVcIbbMph44Gbsf+QLgxnAMOC3SHhBInn9HTq6iwRmKxATIJ3gy3KkrV71BB8rOY5Wt1Pl0LZJh9lSS7rAznmvaMEJb2H/MMk5uhUGNI1NTnXVHU6PPws8NZ+RWUMzzIvElJVqzeK0sMuE/qIzQpqM4SwV4V7Pj8w=;hHTJhyQA9GG+8c13GLGPVQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "u4tvH6UxLcQBumFMuKbXSzbMLGopan6pqqdh98IdwXv5AGQhu5x2WHE6fPijxoo55Jgdry3AIPlPaJsjX6ZoSmMaRhS9ceLbbHfRfXRuqRJQaC/FTnEoI40SorRpDskqZDKBJAXgWavxapFrJbiHJIDVfSm4Jib8UuXBWdDHlekDTvIFLM6XyeB2azutcow9Sgm3FCAAGH3Pjw00kIKZxj9t69IPSZo58twoXRLW34lSOEfouM6GLkKG41oFNBPCWrMIwU9yF8YOiaCzvejyXmzNpaP52K5KwR/QFIyofm5sMkrXv9PxSoNhim6G94Gv9o+w26xQg6+5JIkK4KQV3m/EFNbG3bomB0s8v4SU3Ag=;u8FjF9DXE2KRzaIrEDr4tA=="
 ---
 

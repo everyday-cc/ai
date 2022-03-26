@@ -8,9 +8,9 @@ webUrl: "https://www.forbes.com/sites/johnkoetsier/2022/03/25/1000x-more-efficie
 ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2022/03/25/1000x-more-efficient-neural-networks-building-an-artificial-brain-with-86-billion-physical-but-not-biological-neurons/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/03/25/1000x-more-efficient-neural-networks-building-an-artificial-brain-with-86-billion-physical-but-not-biological-neurons/amp/"
 type: article
-quality: 62
-heat: 62
-published: false
+quality: 79
+heat: 79
+published: true
 
 provider:
   name: Forbes
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/623e6b7642047cf5da007e93/0x0.jpg?format=jpg&width=1200"
@@ -29,6 +30,6 @@ images:
     height: 677
     isCached: true
 
-secured: "vpZ81ujcviBISlO2ia21fKhS/lr29+gULN6SDEyyijMPgZc2rzTyECKppcNVd/YZFNiWim2VGhMtTwfyCe4aZK6dxmSxgNvsYagcHy9hyIzFWv3qjuGJXLea0t2PbNnTMPugDc804pQZE8qD0JicckqDKLuq3qb4hGEJBaD6pJnKitZY550QX1FsU3Lux5cel0R1wGkRPhqi4wV6NWijhzsT0tbcj+4M8tmlrXyodOA9waqMEVTBR8pMf5s9FSdzquULeE7ROVjtLpPcUi7oZDxSsGTaXUgFhyrL2ho8sNBTkjFL4YvE1e4PCVqSKc/76efDaX9I0IMOZYShlcTLWuPrPpGbpBHtxpFH4JkJUcU=;3h+lrDar83IwGF/DDXT49g=="
+secured: "hYagirQ//W46ryc/i5zC5QMI/IvsRITjuDqfHcIMpBiYw6g16F4WjOZjW7JR73lQzb4AuiaQh0fNoBdC3uPMPZtgvjcn9pzZZLcurgrn8N9LIGw90zh2WFArMcnCP9ORzRJTFkBkEbrhXfIP87inOAjyzLWgOwEqoMmg4Zf2qGE1/TGfjjqlFhFnEW2zlljNOj4IjeIFyINccO8Bp7kOqGEjXe81+BYUk7i3h9P6AaIKF/BsqhH5Ecr19ZVszYKf1ti5DWllylxLoJ79C63VzzKktNrxMncv33yPIw8+f5dSbxYRT4EnL2xF4+u+YYDHZCChsNuKEYcxl8qpmdM+U2TRv3k3qFlJ6RzceWFIpqRFdi3ntJH2weq8y4VvQXCUTFolK3ZtLUiukuO1Tm3KuxqftjathoEvufihtx4mival+PgVy+ZrDiUUnhkHkPAPy2KOln+r5zZieRA2As8vev7TE5+nL1Nr4EiRmdv7vLY3k4c1caDLF1u6/JNwr/281jZ1JonwtVxzJ4OGpPk8rA==;D0dAaxDtUkJcDciRIEqpwQ=="
 ---
 

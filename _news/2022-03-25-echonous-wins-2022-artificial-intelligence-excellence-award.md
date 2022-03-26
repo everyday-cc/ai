@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Evisort Named Winner in 2022 Artificial Intelligence Excellence Awards"
-excerpt: "The Business Intelligence Group today announced that Evisort is a winner in its inaugural Artificial Intelligence Excellence Awards program. Evisort is the leading provider of artificial intelligence (AI) solutions for contract management and analytics."
-publishedDateTime: 2022-03-22T13:06:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-f6f1a78d546a46d8b5d4c09e38fe43e0"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-f6f1a78d546a46d8b5d4c09e38fe43e0"
+title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
+excerpt: "Artificial Intelligence Excellence Award. EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligen"
+publishedDateTime: 2022-03-25T15:09:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220325005460/echonous-wins-2022-artificial-intelligence-excellence-award"
+webUrl: "https://www.morningstar.com/news/business-wire/20220325005460/echonous-wins-2022-artificial-intelligence-excellence-award"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award"
@@ -65,6 +59,20 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Evisort Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Evisort is a winner in its inaugural Artificial Intelligence Excellence Awards program. Evisort is the leading provider of artificial intelligence (AI) solutions for contract management and analytics."
+    publishedDateTime: 2022-03-22T13:06:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-f6f1a78d546a46d8b5d4c09e38fe43e0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "StrikeReady Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "An AI-driven security company, StrikeReady, announced today that it has been named a winner in Business Intelligence Group’s Artificial Intelligence Excellence Awards program for Natural Language Processing."
@@ -122,16 +130,7 @@ related:
         width: 320
         height: 325
         isCached: true
-  - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
-    excerpt: "Artificial Intelligence Excellence Award. EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligen"
-    publishedDateTime: 2022-03-25T15:09:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20220325005460/echonous-wins-2022-artificial-intelligence-excellence-award"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
 
-secured: "IYs0TT2xOrTxarxBxhkTofv1WL6Fw1s+hAV6qywFoKC1TPpzJeUOgLmNyONtLVAMpTO+c0+acB6jSWiQjiW938eeABaEEVg1NaLKDoMBrdvGZbpco5/smbeW62GTgO0tEz+xGC/MClxo6n3sGcufpFHQEwAZEEh7lKIelwxIEX9mokx5av9ccj7fj25vrkgkiAsBEPOvxN3g3A7R6C0XNkSFMUEBzAg2F7M1C7rDHB7Dn9p+MJ6nZmU5tMIV8tudYK37aYozAPu1ihaZ4fUl+Cj64U3+KCBTniXBT3Kz8KK4c+mAWbANaDwYvSLlCFpaH4jiO3q98jQt9poRfoLnG7ah3VdEGtHTF1aBZqTcQRE=;fG7TkhA6XfeMxzB7Tfw3tw=="
+secured: "6XpyyYgbYzmpYKXmFbFZCPsTxpGxxToxmUa4iv79k6z1KOqWL3eJYO1da+RFsmEiofDYxhofhj44TSGXq+qH5AQ6SHH7U0ptUC1RdAQKlfVYYpW7QSqT/b+R0aA/DsndIKkGwBFvN2Yw/E2i1bDca7oMwpkUOPqFE93jY+s/9HzdMvVOT8fZH2YrRoc/u/JH5SIX06dtgg4hSlozXLlWp05yIJHOr05hpcnw5t1GitwnsYTphpmvsUBCzEWbila7QtVZnjv6K1rT/XwOeN0ipkrGCVnWyGHS+pt1E1tk1ERVdkOZGf6LBL5FBY/gPFqNsExKWks31hPQoQk+M3pmFxklDeE4C4v/TUnM1RGAk7U=;yi7mySDt77ZmunCs85Q4OQ=="
 ---
 
