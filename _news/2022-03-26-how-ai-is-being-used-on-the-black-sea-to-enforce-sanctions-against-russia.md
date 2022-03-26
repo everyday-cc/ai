@@ -9,7 +9,7 @@ ampWebUrl: "https://www.protocol.com/amp/ai-ukraine-russia-maritime-risk-2657040
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ai-ukraine-russia-maritime-risk-2657040152"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 400
     height: 225
     isCached: true
-
-related:
-  - title: "Clearview AI facial recognition being used to deliver news of Russian war dead to families"
-    excerpt: "Ukraine military is matching images of Russian soldiers killed in combat to social media profiles with Clearview AI’s biometric app."
-    publishedDateTime: 2022-03-24T17:11:00Z
-    webUrl: "https://www.biometricupdate.com/202203/clearview-ai-facial-recognition-being-used-to-deliver-news-of-russian-war-dead-to-families"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 44
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/24130344/ukraine-war-zone-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
 
 secured: "7aLHgxVufrXeou3UWO2SyZxEmAYhuCBnQtwZf9OAzo2aM78LvYNft8fG/QA9Bneo7xE/YRLQ5KCadXLpDP5dv/B33sNJUCEXfOqCOSoSxzq2qdM/jtQou9cGIQnosp32rf8GAXkG34JG5j1gCU3q28orrAgPBYI1Yr8FSVjBpG/2eILWZz3VNe7ZUpe45/x6u63QFrxy9kwgnBkNE6OP79u9XVzOUFtaUcFsG/rQlbg1hNqcJd4DnfVmlD2vul1ORzDiDUDVgbZrqFHC+0SyW5a0Z1U27dsy9Nx4yghYzX3+BYDeRHmWFI8xBL8JVtTBDCPB0aIsd/Z/AY+n33lVf0BuUmqaoKXkWfBSgzWgAPinZKdRZeaVDHDrUaLNFMbwH3zDVMdDKT39iImbxm5N/oVk9z3I1OK+o/2Zoq/JcyqlpyEdar0fLZ/mI9YX8rGYJE/uXSeZk53PkxyjV3Uy1rS0dNb1aDehL8rIaqUJ8SvCtmYIpoSyl8DXIkKqC2vjaENrrMdVKHS1mSzEnCCAbQ==;1D/VSzxBqXU1W3qRM82LMQ=="
 ---

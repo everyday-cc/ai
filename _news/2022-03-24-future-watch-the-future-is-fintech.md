@@ -41,19 +41,35 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Brex Helps Zesty.ai Scale With $10 Million in Growth Capital"
-    excerpt: "This deal marks continued momentum for Brex Venture Debt, which Brex launched in August 2021 as a way to help founders take their business to the next level. It helps growing busi"
-    publishedDateTime: 2022-03-25T00:21:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220324NY02101/brex-helps-zesty-ai-scale-with-10-million-in-growth-capital/"
+  - title: "From being a niche previously, fintech has become the new normal"
+    excerpt: "Over the last five years, the growth of fintech startups and solutions has resulted in a fundamentally new and altered financial services sector. Customer expectations are changing, competition is fierce,"
+    publishedDateTime: 2022-03-26T12:30:00Z
+    webUrl: "https://www.freepressjournal.in/business/from-being-a-niche-previously-fintech-has-become-the-new-normal"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/from-being-a-niche-previously-fintech-has-become-the-new-normal"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/from-being-a-niche-previously-fintech-has-become-the-new-normal"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 44
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2020-02/c8a4770b-9848-4959-9f62-09611ff9f33a/Fin_tech.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "Brex Helps Zesty.ai Scale With $10 Million in Growth Capital"
+    excerpt: "This deal marks continued momentum for Brex Venture Debt, which Brex launched in August 2021 as a way to help founders take their business to the next level. It helps growing busi"
+    publishedDateTime: 2022-03-25T03:21:00Z
+    webUrl: "https://www.khon2.com/business/press-releases/cision/20220324NY02101/brex-helps-zesty-ai-scale-with-10-million-in-growth-capital/"
+    type: article
+    provider:
+      name: KHON2
+      domain: khon2.com
     quality: 39
     images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
+      - url: "https://i0.wp.com/www.khon2.com/wp-content/uploads/sites/8/2022/03/Locations-Open-House-3.27.22_Photo.jpg?w=2000&#038;ssl=1"
+        width: 480
+        height: 270
         isCached: true
   - title: "Brex Helps Zesty.ai Scale With $10 Million in Venture Debt"
     excerpt: "In the news release, Brex Helps Zesty.ai Scale With $10 Million in Venture Debt, issued 24-Mar-2022 by Brex over PR Newswire, we are advised by"

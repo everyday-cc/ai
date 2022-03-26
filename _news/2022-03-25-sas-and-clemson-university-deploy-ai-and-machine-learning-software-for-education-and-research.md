@@ -41,20 +41,6 @@ related:
         width: 400
         height: 266
         isCached: true
-  - title: "Clearview AI unveils version 2.0 of its facial recognition software"
-    excerpt: "Clearview 2.0 also features reporting and workflow enhancements that provide a more comprehensive overview of a case, limiting privacy invasion and police overreach. “Clearview"
-    publishedDateTime: 2022-03-25T14:45:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367222/clearview-ai-version-20-facial-recognition"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 84
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622114219/itpro/Clearview_AI_shutterstock.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Live learning, AI and Web3 are coming for ed tech"
     excerpt: "She covers AI and data for Protocol. Her reporting on AI and tech ethics issues has been published in OneZero, Fast Company, MIT Technology Review, CityLab, Ad Age and Digiday and heard on NPR. Kate is the creator of RedTailMedia."
     publishedDateTime: 2022-03-24T09:30:00Z

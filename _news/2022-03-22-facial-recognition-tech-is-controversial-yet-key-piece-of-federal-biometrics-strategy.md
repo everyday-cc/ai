@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "NCJTC and Biometrica partner on facial recognition training for law enforcement"
-    excerpt: "The foundational course will train law enforcement in the understanding and ethical use of facial recognition for critical investigations."
-    publishedDateTime: 2022-03-23T22:42:00Z
-    webUrl: "https://www.biometricupdate.com/202203/ncjtc-and-biometrica-partner-on-facial-recognition-training-for-law-enforcement"
+  - title: "authID.ai results reflect increased mobile face biometrics investment"
+    excerpt: "ID.ai highlights its 2021 achievements and financial status, with a notable increase in investment in mobile face biometrics."
+    publishedDateTime: 2022-03-24T16:41:00Z
+    webUrl: "https://www.biometricupdate.com/202203/authid-ai-results-reflect-increased-mobile-face-biometrics-investment"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 50
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/15161907/market-growth-expansion-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Opportunities in defense AI, biometrics announced by Paravision, BSI"
+    excerpt: "Paravision will contribute its expertise in complex AI systems and machine learning models. BSI scores deal to supply defense contractor."
+    publishedDateTime: 2022-03-23T22:32:00Z
+    webUrl: "https://www.biometricupdate.com/202203/opportunities-in-defense-ai-biometrics-announced-by-paravision-bsi"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/20125114/US-Army.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "n4XLEvjqXPMnBzLaOOZi2P4jv5AYEH5JTFwzbBTiGJqMYsQa2WYUcADqz5lLPskk22gQvVXShBCEHci8TXUPZN1JMtKu6wyacSq6tyiSewV53ejoC5Tdm/FL1a/dazu5nhK+ncpns+sfN+7voP8Zot9VF/iZg/023txtf9Yuucjo+ZQvam/o+O0gXdDGZ/2vf7tF21h/Zv7BwieNg/p9IsGxJXrMSJ+Rv9OoyKnaCzPcjllxX4KivKZDCiX8+W1JWT9Lk7IWqJAbC98u9XGJP0eaS+efuFeBhnVbKKrkrpSJXfzguTU9E8vQfmweWSQ4/HPcAG6E6i/VBl+/wVVoWLekFkD7g75lTRC7NBhH8690P5IrMxEVLK560VlQQNAnTOKMHlNS2KNR4DT7yAgc19RwEgSyFNw4FXOsthr55t++U3BWPQm8ObKjPEPCsHK/Ef03Ph7ij7XLVAn4XJVoTaHGQjISPWK+onuyjFpTeLKcBg4SkA2tS+JcfNxIVNZ2izsDhnH5Nt29OM05eJA/iw==;3x8RMX633+xqkRIU3W/bpA=="

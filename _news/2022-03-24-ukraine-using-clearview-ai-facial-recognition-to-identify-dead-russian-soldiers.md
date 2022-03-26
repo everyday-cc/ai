@@ -25,208 +25,156 @@ images:
     isCached: true
 
 related:
-  - title: "Ukraine and Russia have both weaponized facial recognition — in very different ways"
-    excerpt: "Ukraine is using the technology to ID the dead and find Russian infiltrators. Russia is using it to crush dissent."
-    publishedDateTime: 2022-03-21T20:38:00Z
-    webUrl: "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3"
-    ampWebUrl: "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp"
+  - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
+    excerpt: "Clearview AI’s database now features more than 20 billion facial images Clearview 2.0 offers new compliance and investigation management tools for law"
+    publishedDateTime: 2022-03-25T11:13:00Z
+    webUrl: "https://www.businesswire.com/news/home/20220325005073/en/ Clearview-AI-Releases-2.0-Version-of-Industry-Leading-Facial-Recognition-Platform-for-Law-Enforcement"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 100
+      name: 01Net
+      domain: 01net.it
+    quality: 119
+  - title: "Clearview AI unveils version 2.0 of its facial recognition software"
+    excerpt: "Clearview 2.0 also features reporting and workflow enhancements that provide a more comprehensive overview of a case, limiting privacy invasion and police overreach. “Clearview"
+    publishedDateTime: 2022-03-25T14:45:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367222/clearview-ai-version-20-facial-recognition"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 84
     images:
-      - url: "https://i.insider.com/6238d63cd199330018a3626d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622114219/itpro/Clearview_AI_shutterstock.jpg"
+        width: 1260
+        height: 710
         isCached: true
-  - title: "Ukraine is using facial recognition tech to identify dead Russian soldiers and inform their families"
-    excerpt: "The Ukrainian government is using facial recognition software from the controversial startup Clearview AI to identify dead Russian soldiers."
-    publishedDateTime: 2022-03-24T15:36:00Z
-    webUrl: "https://www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3"
-    ampWebUrl: "https://www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3?amp"
+  - title: "Clearview AI’s Dystopian Face Rec Tech Now Being Used to Identify Dead Russian Troops"
+    excerpt: "Ukraine's vice prime minister said the military uses Clearview AI to identify the soldier and then contacts their family via social media."
+    publishedDateTime: 2022-03-24T20:25:00Z
+    webUrl: "https://gizmodo.com/clearview-ai-s-dystopian-face-rec-tech-now-being-used-t-1848697923"
+    ampWebUrl: "https://gizmodo.com/clearview-ai-s-dystopian-face-rec-tech-now-being-used-t-1848697923/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-s-dystopian-face-rec-tech-now-being-used-t-1848697923/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 80
     images:
-      - url: "https://i.insider.com/623c81dda2e45b00195027e0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/663e607278f51154150a1b97d9faab6f.jpg"
+        width: 800
+        height: 449
         isCached: true
-  - title: "Ukraine uses facial recognition to identify dead Russian soldiers, minister says"
-    excerpt: "Ukraine is using facial recognition software to identify the bodies of Russian soldiers killed in combat and to trace their families to inform them of their deaths, Ukraine's vice prime minister told Reuters."
-    publishedDateTime: 2022-03-23T22:48:00Z
-    webUrl: "https://www.reuters.com/technology/ukraine-uses-facial-recognition-identify-dead-russian-soldiers-minister-says-2022-03-23/"
+  - title: "Unique web-based facial recognition tool enhances security and fights crime"
+    excerpt: "Clearview AI facial search engine brings more than 20 billion facial images to its software solution enabling law enforcement and federal agencies to investigate suspects"
+    publishedDateTime: 2022-03-24T00:22:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21261325/unique-webbased-facial-recognition-tool-enhances-security-and-fights-crime"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 79
-    images:
-      - url: "https://www.reuters.com/resizer/jEOsKtoPF42qHYwE93qP44J2rYU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YITLSEUA55KQNDGQOHTXJTVUPY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Ukraine army starts using facial recognition to identify dead Russian soldiers"
-    excerpt: "The company has been using a photo of a dead Russian soldier on social media and uploading it to facial recognition software. Them, the software gets an identity match from a database of billions of social media images and will find the deceased’s family ..."
-    publishedDateTime: 2022-03-24T23:56:00Z
-    webUrl: "https://www.gizchina.com/2022/03/24/ukraine-army-starts-using-facial-recognition-to-identify-dead-russian-soldiers/"
-    ampWebUrl: "https://www.gizchina.com/2022/03/24/ukraine-army-starts-using-facial-recognition-to-identify-dead-russian-soldiers/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/03/24/ukraine-army-starts-using-facial-recognition-to-identify-dead-russian-soldiers/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 70
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2022/03/imagem_2022-03-24_204518.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Ukraine uses facial recognition to identify dead Russian soldiers & inform relatives"
-    excerpt: "Ukraine is using facial recognition software to identify the bodies of Russian soldiers killed in combat and to trace their families to inform them of their deaths. Ukraine's Vice PM Mykhailo Fedorov said they're doing this as a \"courtesy to the mothers of soldiers\"."
-    publishedDateTime: 2022-03-24T04:21:00Z
-    webUrl: "https://inshorts.com/en/news/ukraine-uses-facial-recognition-to-identify-dead-russian-soldiers-inform-relatives-1648095712654"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/ukraine-uses-facial-recognition-to-identify-dead-russian-soldiers-inform-relatives-1648095712654"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ukraine-uses-facial-recognition-to-identify-dead-russian-soldiers-inform-relatives-1648095712654"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 67
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/03_mar/24_thu/img_1648094486555_42.jpg?"
-        width: 960
-        height: 640
-        isCached: true
-  - title: "Ukraine uses facial recognition software to identify Russian soldiers killed in combat"
-    excerpt: "The defense ministry began using technology from Clearview AI which scrapes images on the web to match uploaded photos"
-    publishedDateTime: 2022-03-24T21:38:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 66
-    images:
-      - url: "https://i.guim.co.uk/img/media/b1236187f5fc799d81709ad426146bccb186b4d6/0_187_5760_3456/master/5760.jpg?width=620&quality=85&auto=format&fit=max&s=dee9433c17da6c8c14788c605f7c32a3"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Russia-Ukraine War: Kyiv Uses Facial Recognition Software To Identify Dead Russian Troops"
-    excerpt: "Amid Russia’s offensive against Ukraine, Kyiv is currently using facial recognition software for identifying Russian troops killed during the combat"
-    publishedDateTime: 2022-03-24T07:49:00Z
-    webUrl: "https://www.republicworld.com/world-news/russia-ukraine-crisis/russia-ukraine-war-kyiv-uses-facial-recognition-software-to-identify-dead-russian-troops-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/world-news/russia-ukraine-crisis/russia-ukraine-war-kyiv-uses-facial-recognition-software-to-identify-dead-russian-troops-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/russia-ukraine-crisis/russia-ukraine-war-kyiv-uses-facial-recognition-software-to-identify-dead-russian-troops-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 65
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/wuzjmtwqf58e9qde_1648105963.jpeg"
-        width: 768
-        height: 438
-        isCached: true
-  - title: "Deepfakes, data traffic and drones: artificial intelligence in the war between Russia and Ukraine"
-    excerpt: "The war inaugurates a new era in which the uses of algorithms allow everything from disinformation campaigns to weapons attacks"
-    publishedDateTime: 2022-03-22T03:41:00Z
-    webUrl: "https://www.infobae.com/en/2022/03/22/deepfakes-data-traffic-and-drones-artificial-intelligence-in-the-war-between-russia-and-ukraine/"
-    ampWebUrl: "https://www.infobae.com/en/2022/03/22/deepfakes-data-traffic-and-drones-artificial-intelligence-in-the-war-between-russia-and-ukraine/?outputType=amp-type"
-    cdnAmpWebUrl: "https://www-infobae-com.cdn.ampproject.org/c/s/www.infobae.com/en/2022/03/22/deepfakes-data-traffic-and-drones-artificial-intelligence-in-the-war-between-russia-and-ukraine/?outputType=amp-type"
-    type: article
-    provider:
-      name: Infobae
-      domain: infobae.com
-    quality: 61
-    images:
-      - url: "https://www.infobae.com/new-resizer/ZxDzQ-16LNipy4m3-uEkJ6tnbx0=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/2AE3THN5NFHX3AME6Q5ZCLNXRY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "The real price of the free facial recognition tech for Ukraine"
-    excerpt: "Authoritarian Tech is a weekly newsletter tracking how people in power are abusing technology and what it means for the rest of us. Also in this edition: Ghana’s rush to a biometric ID system is leaving people behind;"
-    publishedDateTime: 2022-03-22T14:51:00Z
-    webUrl: "https://www.codastory.com/newsletters/ukraine-facial-recognition/"
-    type: article
-    provider:
-      name: codastory.com
-      domain: codastory.com
-    quality: 56
-    images:
-      - url: "https://www.codastory.com/wp-content/uploads/2021/06/Call_for_global_ban_on_biometric_technologies.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Ukraine uses facial recognition to identify dead Russian soldiers"
-    excerpt: "Ukraine starts the use of facial recognition to identify unidentified Russian soldiers who are killed or captured in the war."
-    publishedDateTime: 2022-03-24T10:37:00Z
-    webUrl: "https://techstory.in/ukraine-uses-facial-recognition-to-identify-dead-russian-soldiers/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
+      name: Security
+      domain: securityinfowatch.com
     quality: 54
     images:
-      - url: "https://techstory.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-24-at-4.10.34-PM-360x240.jpeg"
-        width: 360
-        height: 240
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/03/GettyImages_1207760231.623a0db3b4e4d.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Complex Questions As Face Recognition Tech Joins Ukraine War"
-    excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said Thursday."
-    publishedDateTime: 2022-03-25T02:07:00Z
-    webUrl: "https://www.ibtimes.com/complex-questions-face-recognition-tech-joins-ukraine-war-3450495"
+  - title: "‘Don’t stop at one search’: Emails reveal how Clearview pushed college police to use facial recognition on students"
+    excerpt: "The University of Illinois used a free version of Clearview AI to conduct investigations. It then bought the software."
+    publishedDateTime: 2022-03-24T15:33:00Z
+    webUrl: "https://www.dailydot.com/debug/university-illinois-clearview/"
+    ampWebUrl: "https://www.dailydot.com/debug/university-illinois-clearview/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/university-illinois-clearview/?amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 54
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 52
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/03/24/ukrainian-firefighters-work-amid-the-rubble-in-the.jpg"
-        width: 768
-        height: 512
+      - url: "https://uploads.dailydot.com/2022/03/facial-recognition-college.jpg?auto=compress&fm=pjpg&ixlib=php-3.3.1"
+        width: 2000
+        height: 1000
         isCached: true
-  - title: "Face recognition tech joins Ukraine war"
-    excerpt: "WASHINGTON: Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said on Thursday."
-    publishedDateTime: 2022-03-25T03:15:00Z
-    webUrl: "https://www.bangkokpost.com/world/2285146/face-recognition-tech-joins-ukraine-war"
+  - title: "NCJTC and Biometrica partner on facial recognition training for law enforcement"
+    excerpt: "The foundational course will train law enforcement in the understanding and ethical use of facial recognition for critical investigations."
+    publishedDateTime: 2022-03-23T22:42:00Z
+    webUrl: "https://www.biometricupdate.com/202203/ncjtc-and-biometrica-partner-on-facial-recognition-training-for-law-enforcement"
     type: article
     provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 54
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20220325/c1_4264694_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Does facial recognition tech in Ukraine’s war bring killer robots nearer?"
-    excerpt: "The US company Clearview AI has offered the Ukrainian military free use of its controversial facial recognition technology. Reuters reports that “the U.S. startup offered to uncover Russian assailants,"
-    publishedDateTime: 2022-03-25T18:48:00Z
-    webUrl: "https://www.opendemocracy.net/en/technology-and-democracy/facial-recognition-ukraine-war-killer-robot-autonomous-military-ai/"
-    type: article
-    provider:
-      name: openDemocracy
-      domain: opendemocracy.net
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 50
-  - title: "The Download: Ukraine claims it’s using facial recognition to identify dead Russian soldiers"
-    excerpt: "Ukraine has started using facial recognition technology to identify dead Russian soldiers, a senior government official has claimed. Mykhailo Fedorov, vice prime minister of Ukraine and minister of digital transformation,"
-    publishedDateTime: 2022-03-24T14:48:00Z
-    webUrl: "https://www.technologyreview.com/2022/03/24/1048268/the-download-ukraine-claims-its-using-facial-recognition-to-identify-dead-russian-soldiers/"
-    ampWebUrl: "https://www.technologyreview.com/2022/03/24/1048268/the-download-ukraine-claims-its-using-facial-recognition-to-identify-dead-russian-soldiers/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/03/24/1048268/the-download-ukraine-claims-its-using-facial-recognition-to-identify-dead-russian-soldiers/amp/"
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
+  - title: "Clearview AI facial recognition being used to deliver news of Russian war dead to families"
+    excerpt: "Ukraine military is matching images of Russian soldiers killed in combat to social media profiles with Clearview AI’s biometric app."
+    publishedDateTime: 2022-03-24T17:11:00Z
+    webUrl: "https://www.biometricupdate.com/202203/clearview-ai-facial-recognition-being-used-to-deliver-news-of-russian-war-dead-to-families"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 43
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 44
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/24130344/ukraine-war-zone-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
+  - title: "Rethinking the rules around facial recognition technology"
+    excerpt: "Right now, at least nine law enforcement offices and departments in Massachusetts use it, as well as offices of some federal agencies, drawing mostly on an RMV database and FBI resources. But there's very little oversight in how facial recognition technology is used in law enforcement."
+    publishedDateTime: 2022-03-23T19:30:00Z
+    webUrl: "https://www.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
+    ampWebUrl: "https://amp.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 39
+  - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
+    excerpt: "Clearview AI’s database now features more than 20 billion facial images. Clearview 2.0 offers new compliance and investigation management tools for law enforcement agencies."
+    publishedDateTime: 2022-03-25T19:26:00Z
+    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/press-release/21261824/clearview-ai-clearview-ai-releases-20-version-of-industry-leading-facial-recognition-platform-for-law-enforcement"
+    type: article
+    provider:
+      name: Officer
+      domain: officer.com
+    quality: 39
+    images:
+      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2022/03/Clearview_AI_Logo.623e145e8f239.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "SparkCognition Delivers Visual AI Capabilities Across Industries With Acquisition of Integration Wizards"
+    excerpt: "AI company builds on portfolio of machine learning, deep learning, natural language processing, and knowledge representation to address $14.4B visual AI marketplace"
+    publishedDateTime: 2022-03-25T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/sparkcognition-delivers-visual-ai-capabilities-across-industries-with-acquisition-of-integration-wizards/article_3936c1d1-bed7-5aba-952d-7a107e8683e8.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 22
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/00/3008bf47-deb7-5420-a599-8f8631503669/605b3f21d5fba.image.jpg?crop=922%2C484%2C889%2C0&resize=922%2C484&order=crop%2Cresize"
+        width: 922
+        height: 484
+        isCached: true
+  - title: "Revnomix Solutions launches 'RevSeed,' a version 2.0 of Artificial & Machine Learning platform for hotels and resorts"
+    excerpt: "Revnomix Solutions LLP, recognized as a startup by the “Department for Promotion of Industry and Internal Trade”, is a seven-year-old revenue management firm with a pan-India presence, provides revenue management services to hotels."
+    publishedDateTime: 2022-03-24T10:17:00Z
+    webUrl: "https://www.indiablooms.com/finance-details/15693/revnomix-solutions-launches-revseed-a-version-2-0-of-artificial-machine-learning-platform-for-hotels-and-resorts.html"
+    type: article
+    provider:
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 16
+    images:
+      - url: "https://www.indiablooms.com/finance_pic/2022/d6dd90b9ca272e40deb320829306611f.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "AzxvAXWC9euEPOOmghEWedzqlmP77v37c7It2AT3YJaRh6EA/Ji193NCALL8pgfArDCqi8HH1mbXVGBP5Qb7UuLbQl1fHfhg0KIVcvfWVgOShXqloA/tfihT00yIVR3fZ8LI+dPCbU+oRraI8iDWPT68cMcGef58+75Zl7tRNlp0khQoIUPoP5QOc9Ic8mNoJeJsZGt3eUOLmYpOAX44x2jMOHHmFHOyrQVdzVGYl4QgH9UGR2Nez5z5u1oZKopd4LPSRuAMCQYpiWfJbGScam8qP5MkXWRdQuxoCatTpzjgp3wTiX+PCmbJJNo6wexG3gJ3erTXLBjKQ5cRu7bwAOb/6Xklwcv+J/tQn7h1hAc=;Vhut+3625mfupK8lUrG5Pw=="
 ---

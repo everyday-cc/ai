@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-un
 webUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
 type: article
 quality: 94
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI unveils version 2.0 of its facial recognition software"
-    excerpt: "Clearview 2.0 also features reporting and workflow enhancements that provide a more comprehensive overview of a case, limiting privacy invasion and police overreach. “Clearview"
-    publishedDateTime: 2022-03-25T14:45:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367222/clearview-ai-version-20-facial-recognition"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 84
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622114219/itpro/Clearview_AI_shutterstock.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "SAS and Clemson University deploy AI and machine learning software for education and research"
     excerpt: "Clemson students and faculty will have access to powerful  data science and analytics software from ... Read more"
     publishedDateTime: 2022-03-25T03:31:00Z

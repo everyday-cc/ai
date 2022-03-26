@@ -73,6 +73,17 @@ related:
         width: 750
         height: 333
         isCached: true
+  - title: "Tap the Booming Fintech Market With These ETFs"
+    excerpt: "The emergence of cutting-edge technologies like AI, cloud computing, big data, the Internet of Things (IoT) and machine learning is driving the fintech space. The growing popularity of smartphones, rising demand for industrial automation and the increased utilization of wireless communication are boosting the transition to digital platforms."
+    publishedDateTime: 2022-03-26T11:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs"
+    ampWebUrl: "https://www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Dragonfruit Frontier, a new Cloud VMS with AI analytics"
     excerpt: "Frontier enables secure management of hundreds of locations from a single browser with no additional hardware costs"
     publishedDateTime: 2022-03-24T13:28:00Z

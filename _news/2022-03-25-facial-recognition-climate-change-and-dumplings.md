@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition
 webUrl: "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast"
 type: article
 quality: 69
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -77,31 +77,6 @@ related:
         width: 1000
         height: 749
         isCached: true
-  - title: "Unique web-based facial recognition tool enhances security and fights crime"
-    excerpt: "Clearview AI facial search engine brings more than 20 billion facial images to its software solution enabling law enforcement and federal agencies to investigate suspects"
-    publishedDateTime: 2022-03-24T00:22:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21261325/unique-webbased-facial-recognition-tool-enhances-security-and-fights-crime"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 54
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/03/GettyImages_1207760231.623a0db3b4e4d.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Rethinking the rules around facial recognition technology"
-    excerpt: "Right now, at least nine law enforcement offices and departments in Massachusetts use it, as well as offices of some federal agencies, drawing mostly on an RMV database and FBI resources. But there's very little oversight in how facial recognition technology is used in law enforcement."
-    publishedDateTime: 2022-03-23T19:30:00Z
-    webUrl: "https://www.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
-    ampWebUrl: "https://amp.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 39
   - title: "Facial recognition inappropriate for high-risk applications, experts say"
     excerpt: "Accuracy, privacy and transparency issues make facial recognition technology too risky for local agencies, according the University of Pittsburgh’s Institute for Cyber Law, Policy and Security."
     publishedDateTime: 2022-03-25T14:00:00Z

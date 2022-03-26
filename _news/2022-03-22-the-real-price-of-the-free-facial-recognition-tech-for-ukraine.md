@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ukraine and Russia have both weaponized facial recognition — in very different ways"
-    excerpt: "Ukraine is using the technology to ID the dead and find Russian infiltrators. Russia is using it to crush dissent."
-    publishedDateTime: 2022-03-21T20:38:00Z
-    webUrl: "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3"
-    ampWebUrl: "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 100
-    images:
-      - url: "https://i.insider.com/6238d63cd199330018a3626d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Ukraine is using facial recognition tech to identify dead Russian soldiers and inform their families"
     excerpt: "The Ukrainian government is using facial recognition software from the controversial startup Clearview AI to identify dead Russian soldiers."
     publishedDateTime: 2022-03-24T15:36:00Z
@@ -193,20 +177,6 @@ related:
       - url: "https://static.bangkokpost.com/media/content/20220325/c1_4264694_700.jpg"
         width: 700
         height: 467
-        isCached: true
-  - title: "Ukraine using Clearview AI facial recognition to identify dead Russian soldiers"
-    excerpt: "Clearview AI scans the web to pair images of the same person from a database of billions of social media images and flags the connection"
-    publishedDateTime: 2022-03-24T10:44:00Z
-    webUrl: "https://www.telegraph.co.uk/world-news/2022/03/24/ukraine-using-clearview-ai-facial-recognition-identify-dead/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 50
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/world-news/2022/03/24/TELEMMGLPICT000290512701_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
-        width: 1024
-        height: 536
         isCached: true
   - title: "Does facial recognition tech in Ukraine’s war bring killer robots nearer?"
     excerpt: "The US company Clearview AI has offered the Ukrainian military free use of its controversial facial recognition technology. Reuters reports that “the U.S. startup offered to uncover Russian assailants,"

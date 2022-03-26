@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/03/25/report-70-of-u-s-consumers-want-to-u
 ampWebUrl: "https://venturebeat.com/2022/03/25/report-70-of-u-s-consumers-want-to-use-ai-for-their-jobs/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/25/report-70-of-u-s-consumers-want-to-use-ai-for-their-jobs/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 187
+heat: 187
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 450
     isCached: true
 
-secured: "uS/8ad3Q8FPqKRl/FWliYgoA0+TSucVeo8Lhb8W8vxyn7cE9hW5CPSzzO37nKRk82urr78ASLgSrUXoS0F9OZn358Cx2ScTncywfFjMRLEV+yfDnKtX71nr8jKsKMyn8sVSEyd1u4TZXfggnZHiphT/z7BSOvYXCLst0ny20/lH0eZAkJSQ6B1umrzzUv3i6BQrRvuAIGiwlwMPOYZ31RNX+R9k67mcPuGKx6lS0X20gPhsxrdQ+0zO+Nd+TXh4mq+TEsgGW1YkVEZ9NlXOK/cB0qDTo6p3X4Nn0RQy/tk5miaMv6/ZtmyHQStooPJ2egLMcR5BIP2o7/aUUGBKrCjELHjWnmjYTCESIjuh8BGzNnWpb/xNOlu0BTdZgatQVANzwo8LOXoJvOObESxYB9kIY+3ehlIg+LWmFnWq4QIv7c/pEKyQY2xoHsqs0L5Lv5obv0yqGj1V5vWxdNNuK0qsTWCiAIARyXRyN6AaWWjga1tETdtY5TA1EkMvFqdWRPxbEkxFhGo4ANgEHcMsX+g==;apAUSkarsmlIA5u3Oegzhw=="
+secured: "jKPMNLvDZsf7aEi2WHXJ6jlTGMOT3Odyb8a6OCPyYhm/Npsbx6uXQMEWgKfGARQFfl0uCehrwjKmHiwEBh60YUR7ADI+pSPsm/P+A2bsLnKZhhk3h6/b+24tBCa5rOHTDs+UcFUC2biT08BtApWPWddKOGwpj8+8vR65jP2cWuqsH095PR0VRaOp4RhjkH2KOgzYlcUGHgzWfLYEqWajka262qJjX1TZT62b9yy8GgqD+U2+HTP5NyGI07893Ii+Afr6Lac+aK/wbaBKckqnYfPyEE617enQQ7e3C74GmnICzCLVGcskaGdQD1fOPwL1HmCofK0s7LbLsXOk0ZSufndEtKHCzv34eI/SbY2axfZ6piJH+qD0BqwhNG56OvMCyPo+RWeMk+peE40d/AMIycvi0SB4/cjwnCOz2RzyhXA7JD7JfyjP/Rz3zsD1mHwGkzJVrxhLs0zzzF42n5aiIzbGPYUroJ8/1ZFX0oILTI0DSF9kpw9DXpguMYa/zb4p+wD3oMbwYjBXyjCrO+qTkzw5aRXDq8PAlgnMmQmVvc4=;dn0GsgNzOaRKslDxPLpeoA=="
 ---
 

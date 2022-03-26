@@ -3,8 +3,8 @@ category: news
 title: "BairesDev wins the Business Intelligence Group’s 2022 Artificial Intelligence Excellence Award"
 excerpt: "The award recognizes BairesDev’s AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
 publishedDateTime: 2022-03-25T17:18:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
 type: article
 quality: 40
 heat: 40
@@ -90,6 +90,6 @@ related:
       domain: morningstar.com
     quality: 17
 
-secured: "MrC01sCKmwA0YD362vTi14xJGBqIYS+lv9SovdAy/TaOwXp0IbAZ+aWvXJtsYbhesxYcbSwympt4aGI/7CNZqSk2Mem7JyWcfVCWfV9mvltF0Dpn/s2n05GV1M+ev+2zAboCFAROZNxs0ixC3wTuci8NxqVm3ANily2PrXOON26jKTrO88Do3l79BMcGaBql0CIQEyS+0qlBHvxy4zyYhdHHnBw2nMV74DqrlcIUruR/iKKHLOnWqyTEzz5DIFt+5dLtTfIOFU3WFGX5L/+6jnJjBRAmxIKzRboZ0HORoI6dtCEaWKWEn83lsWrg844b4T06bF/mOnLRocvVMbC/qZYmhC7L+7pGQmKDA9pgivI=;9mITo0RPCqUCkB1wh4eFbg=="
+secured: "RRZPaCVVPXxcQTuciYVbfmfN8NNDX0NgLv3IkITHZLPJPAOVbrpoLXLWqKEdVo8+6ehsLkKi0N69CjaIkT+vPDmhLhR2ItxcWVkyHOkorHocCnvAoqaM6yVicpg1A3+NEVdA345Ez6Ute0tnHVvvypwKagqiGTez0naz1m/wAvKb6gOzDxHHA6/2BJSk3w9gePDFWANrBSG1EYrEbW4dxWui+zMOrkfRkSBlc500AE93jYFBHc45NT4/5UKQfk6i1JlhpaQlutzYSewh0Mxr+WN3G1fTwrEic10BjKAhwXwNd1ddBl8W/LzD5zFhNlUHXAKQqv9y7MfvuTYcSlccs8MIuHzTw3TNqdvvglWI+Ts=;Undo4p/GfNznVaUyqfWmwA=="
 ---
 
