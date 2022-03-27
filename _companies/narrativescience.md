@@ -2,7 +2,7 @@
 name: "Narrative Science"
 overview: "Narrative Science creates software that writes stories from data to drive understanding and results. Powered by artificial intelligence, our technology automatically turns data into easy-to-understand reports, transforms statistics into stories, and converts numbers into knowledge."
 type: "profile"
-heat: 57
+heat: 41
 
 website: https://narrativescience.com
 
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "nl13MOkWxwq79sl07CqArghdgeGHXfZRtpGvv2JayLgOXQFkBpEJrkIoC+dgPxZRx3EEJ2BXAE9Le1B6bsM3MDS4XUORewAutiJcHINqZpZTwVfXbjKOgVMwlzpKz14uIO6luMq4qM0POyK4j0Uc+pf+5VRRA1Q1UIoeqhZytRdUC/ubR2f9TaqFeUJUpuqH/GXvxEx5salu3ZPfa7o3e3WEWXf7Hy8j6A3EBfr6aGtZ3Ni5ULPVc5sbCN83QPlTniv+5fBDT51w0VlUQCgJa7AnsTewo5pFp7nhWHpizCOL6TEyQ4YiyXLPjk0y/sF+RvIfeDqAsNGaxxlT1sjGu+qHyGNqqUUpHy7/3lQZ//NxquOG92PCWr9wWCHhrcwltyhMrqxtUeH5TltIFOojXJzpsv1MqQ1JAr3p5/EsWjk=;Jduz+Icj8cW2qZa5gkPZTQ=="
+secured: "WoTp2H81ME/I20EmikN87Xt2h0fN9N2qIokNnAPKVZsV0a2YunSYbftZjCaPIoLJpK8xLdjC1iiztsCrmwSGtpIEiNnG0TTqUU8uw8mvUGb5kNmGwNGlL8uPRuZpz0dXorXIT63ycwAE03L/g1Pi1fSkdxXAuVEU+OfFIkGUa7ArNjXzI67XciPQwM7Oo17IlTXGAovybuwecRVIR66q/KkKRaxwgsgZNdXd554FlAxPjkEBn6hriGoGrUAr4aUJ8FoUej97gMtWc643UVTf9qNCobYGrczGFQk+9fax82aUPtWyNO1InWb/OqMkMt3dmmgol8mNngwOJF8YIp4SH4MKu50+Que0PV3ZCo7llK/TzpyIJL6IktUfOB0bBtmOnfd64V7t1PES1v/lVJpfrHwNMrfHjtvnNsvwDfJzeuU=;YA5E74sq4PPEA7cgRQKGmg=="
 ---
 
