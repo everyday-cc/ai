@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-25-runai-completes-proof-of-concept-with-nvidia.md",
+      "title": "Run:ai Completes Proof of Concept with NVIDIA",
+      "excerpt": "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud GPU flexibility for companies using NVIDIA GPUs in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/runai-completes-proof-of-concept-with-nvidia/",
+      "originalUrl": "https://enterprisetalk.com/news/runai-completes-proof-of-concept-with-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/03/Runai-Completes-Proof-of-Concept-with-NVIDIA-to-Maximize-GPU-Workload-Flexibility-on-Any-Cloud-01.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/runai-completes-proof-of-concept-with-nvidia/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/runai-completes-proof-of-concept-with-nvidia/amp/",
+      "publishedDateTime": "2022-03-25T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-mayo-clinic-assessing-google-ai-tool-as-it-seeks-more-insights-from-patient-records.md",
       "title": "Mayo Clinic Assessing Google AI Tool as It Seeks More Insights From Patient Records",
       "excerpt": "Mayo Clinic said it is assessing a product from Google Cloud that uses artificial intelligence to better track and analyze language-based information in patients’ electronic health records, such as doctor’s notes.",
@@ -1378,58 +1422,6 @@
         "Microsoft AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-technical-leaders-agree-ai-is-now-a-necessity-to-compete.md",
-      "title": "Technical leaders agree: AI is now a necessity to compete",
-      "excerpt": "AI is enabling new experiences everywhere. When people watch a captioned video on their phone, search for information online, or receive customer assistance from a virtual agent, AI is at the heart of those experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/technical-leaders-agree-ai-is-now-a-necessity-to-compete/",
-      "originalUrl": "https://azure.microsoft.com/blog/technical-leaders-agree-ai-is-now-a-necessity-to-compete/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fb25dda4-b8d3-4d62-8dbc-25a2ed930d44.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-08T01:00:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

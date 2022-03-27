@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "GTC 2022: NVIDIA flexes its GPU and platform muscles"
-    excerpt: "NVIDIA's CEO Jensen Huang's 1 hour, 39-minute keynote covered a lot of ground but the unifying themes to the majority of the two dozen announcements were GPU-centered, and its platform approach to everything it builds."
-    publishedDateTime: 2022-03-23T03:17:00Z
-    webUrl: "https://venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/"
-    ampWebUrl: "https://venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/nvidia.jpg?w=1200&strip=all"
-        width: 1200
-        height: 604
-        isCached: true
   - title: "10 Interesting Facts About NVIDIA Hopper H100 GPU"
     excerpt: "At the Graphics Technology Conference (GTC), NVIDIA unveiled the latest AI accelerator - the H100 Tensor Core GPU. It’s a successor to the wildly successful A100 GPU launched two years ago. With 9X faster AI training and 30X faster inference, it’s more ..."
     publishedDateTime: 2022-03-27T11:37:00Z
@@ -56,6 +40,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/62404bee2e866c2678125ebb/0x0.jpg?format=jpg&width=1200"
         width: 1138
         height: 640
+        isCached: true
+  - title: "NVIDIA unveils Hopper, its new hardware architecture to transform data centers into AI factories"
+    excerpt: "NVIDIA just announced Hopper, a new GPU architecture that promises significant performance improvements for AI workloads. We look under the hood to decipher whether the emphasis on Transformer AI models translates to a radical redesign,"
+    publishedDateTime: 2022-03-23T15:36:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-unveils-new-hardware-architecture-to-transform-data-centers-into-ai-factories/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-hardware-architecture-to-transform-data-centers-into-ai-factories/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-hardware-architecture-to-transform-data-centers-into-ai-factories/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 78
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/9df28300b54ac5cbaa088fa676f6f9ec7b1b50c9/2022/03/23/aed48689-ecfd-4fc6-a061-5968ab353f5d/hopper-arch-h100-die-image.png?width=1200&fit=bounds&format=pjpg&auto=webp"
+        width: 1200
+        height: 675
         isCached: true
   - title: "How Nvidia is overcoming slowdown issues in GPU clusters"
     excerpt: "\"A key challenge to reducing this time to train is the performance gains start to decline as you increase the number of GPUs in a data center,\" said Paresh Kharya, Nvidia's director of datacenter computing,"
@@ -73,19 +73,21 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud"
-    excerpt: "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud"
-    publishedDateTime: 2022-03-24T18:48:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/run-ai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any/article_c12bfba6-0885-5f6c-81de-4366aaa59293.html"
+  - title: "Nvidia CEO says company \"very interested\" in exploring chip manufacturing with Intel"
+    excerpt: "Nvidia Corp is interested in exploring using Intel Corp for manufacturing its chips, Chief Executive Officer Jensen Huang said on a call with reporters on Wednesday."
+    publishedDateTime: 2022-03-24T09:30:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/nvidia-ceo-says-company-very-interested-in-exploring-chip-manufacturing-with-intel/articleshow/90416403.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/nvidia-ceo-says-company-very-interested-in-exploring-chip-manufacturing-with-intel/amp_articleshow/90416403.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/nvidia-ceo-says-company-very-interested-in-exploring-chip-manufacturing-with-intel/amp_articleshow/90416403.cms"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 44
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 52
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-90416403,imgsize-96278,width-800/90416403.jpg"
+        width: 800
+        height: 550
         isCached: true
   - title: "Why NVIDIA’s new H100 GPU is a breakthrough"
     excerpt: "NVIDIA has highlighted the Transformer engine for its ability to combine data formats with algorithms to fasten the hardware performance."
@@ -101,6 +103,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Nvidia reveals new Hopper H100 GPU, with 80 billion transistors"
+    excerpt: "Nvidia has announced a new GPU based on its upcoming Hopper architecture. The Hopper architecture replaces Ampere, which has more than $10 billion sales to date. The H100 GPU is the first chip based on Hopper,"
+    publishedDateTime: 2022-03-23T09:59:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-reveals-new-hopper-h100-gpu-with-80-billion-transistors/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/H100_Hopper_GPU.2e16d0ba.fill-1200x630.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nvidia Unveils Hopper H100 Data Center GPU"
     excerpt: "The replacement for Ampere has finally arrived, although gamers will still have to wait until the end of the year to see what Nvidia has in store for them."
     publishedDateTime: 2022-03-23T14:34:00Z
@@ -115,6 +131,24 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "NVIDIA H100 GPU full details: TSMC N4, HBM3, PCIe 5.0, 700W TDP, more"
+    excerpt: "NVIDIA's next-gen Hopper GPU architecture is here, with the new flagship H100 GPU: 80 billion transistors, made on TSMC N4 node."
+    publishedDateTime: 2022-03-24T02:27:00Z
+    webUrl: "https://www.tweaktown.com/news/85246/nvidia-h100-gpu-full-details-tsmc-n4-hbm3-pcie-5-0-700w-tdp-more/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
+  - title: "NVIDIA's new Grace CPU Superchip: 144-core CPU, 600GB of GPU memory"
+    excerpt: "NVIDIA's new Grace CPU design unveiled with two new Superchip platforms: 144-core ARM-based Neoverse CPU, and huge 600GB of VRAM."
+    publishedDateTime: 2022-03-23T23:30:00Z
+    webUrl: "https://www.tweaktown.com/news/85228/nvidias-new-grace-cpu-superchip-144-core-600gb-of-gpu-memory/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
   - title: "NVIDIA reveals next-gen Hopper GPU architecture, H100 GPU announced"
     excerpt: "NVIDIA's next-gen Hopper GPU architecture launched, powers the new H100 GPU with 80 billion transistors -- the best for AI and HPC."
     publishedDateTime: 2022-03-23T05:47:00Z

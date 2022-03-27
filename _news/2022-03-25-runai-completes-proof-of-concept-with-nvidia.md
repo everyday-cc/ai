@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/news/runai-completes-proof-of-concept-wit
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/runai-completes-proof-of-concept-with-nvidia/amp/"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: enterprisetalk
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud"
+    excerpt: "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud"
+    publishedDateTime: 2022-03-24T18:48:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/run-ai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any/article_c12bfba6-0885-5f6c-81de-4366aaa59293.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "0f1mY0qr4ROVxz23AdxSGV4WiOluaegkXzUew9XJyJGUWwc23213HI8x+GEZth0yn1HnumgktKpe+Y6MlWP1t6zf3H/HfYz3VadNReqPEkVGAPEdi0f2CvR4wTObDdFgAI9LGqbUEXkfBP68fDjjno0zZItgqIsWM9kowxCqnsyh6S7V7HiZ25ls5hpZwp3tBul7YCXvV9AJ8FKXlBfNAbObDRNWhz36itWKhzZg/4FER93UBMQvDLggjaOxPvsiTxNZweJB4uD64uaRcL8KLmBXSpVMEINuJOBoWS3vTkfDbx+Pg1QfzcnQZ8JaxE2i61V5S8/VuW1sPIg0Ej9l73thC/lU1Iu1whRWjjuINFLdiLJF2u1tANynLWBv0ZK6NeNgbTAhkFP4yKI8fJgWIm3OhRLSdm6TMEGfn8IwEKEGiwFGQXPFL+H9hRWjeBagyrNSTgeYb62AqdsNq8x7Fc5YP/1jix8kZ/lw2Ews3gUj8CkMZUy9/NZBxmRRjBfj+OfywmZ10dQmtzUthKPyFA==;hH4OTvkvoXSyT0WVvalvsg=="
 ---

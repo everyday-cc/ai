@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-18-expertai-takes-top-honors-in-fintech-breakthrough-awards-for-best-use-of-ai-in-fintech.md",
+      "title": "Expert.ai Takes Top Honors in FinTech Breakthrough Awards for \"Best Use of AI in FinTech\"",
+      "excerpt": "Expert.ai (EXAI:IM), the leader in artificial intelligence (AI) for language understanding, has been named the winner in the 6 th Annual FinTech Breakthrough Awards for \"Best Use of AI in FinTech.\" Attracting nearly 4,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-expertai-takes-top-honors-fintech-breakthrough-awards-best-/2022/03/18/9566450.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-expertai-takes-top-honors-fintech-breakthrough-awards-best-/2022/03/18/9566450.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-poll-shows-americans-optimism-toward-ai-and-and-facial-recognitionbut-brain-implants-not-so-much.md",
       "title": "Poll Shows Americans’ Optimism Toward AI And And Facial Recognition—But Brain Implants? Not So Much",
       "excerpt": "like chips implanted in the brain and driverless vehicles. Output of an artificial intelligence system from Google Vision, performing facial recognition on a ... [+] photograph of a man ...",
@@ -1108,40 +1142,6 @@
         "AI in Autos",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-mathematical-paradoxes-demonstrate-the-limits-of-ai.md",
-      "title": "Mathematical paradoxes demonstrate the limits of AI",
-      "excerpt": "Humans are usually pretty good at recognising when they get things wrong, but artificial intelligence ... paradox shows AI’s limitations. Neural networks, the state of the art tool in AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/946785",
-      "originalUrl": "https://www.eurekalert.org/news-releases/946785",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-03-15-kneron-ai-chips-adpoted-by-toyota-supplier-kenwood.md",
+      "title": "Kneron AI chips adpoted by Toyota supplier Kenwood",
+      "excerpt": "Kneron, the San Diego-based full-stack edge AI company, announced last week that its two AI chips M5S and KL520 are used by Japanese auto supplier Kenwood in its latest dashboard camera DRV-EMN5700.",
+      "sourceUrl": null,
+      "webUrl": "https://digitimes.com/news/a20220315PD213/adas-ai-kneron.html",
+      "originalUrl": "https://digitimes.com/news/a20220315PD213/adas-ai-kneron.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20220315pd213_files/1_2b.jpg",
+          "width": 1280,
+          "height": 827,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-techforceai-raises-15-million-seed-funding.md",
       "title": "Techforce.ai Raises $1.5 Million Seed Funding",
       "excerpt": "To digitally enable knowledge workers with just-in-time AI and Automation \"We believe the future of work will be driven by higher cognitive ... has partnerships with Microsoft, IBM, Oracle ...",
@@ -428,6 +471,40 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-how-does-ai-fit-into-your-business.md",
+      "title": "How does AI fit into your business?",
+      "excerpt": "you benefit from this branch of AI. Researchers are currently focused on analysing emotions in language that will translate real-time conversations with the nuances of human speech. Augmented ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/O2rQGMAndZnqd1ea",
+      "originalUrl": "https://www.itweb.co.za/content/O2rQGMAndZnqd1ea",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/O2rQGMAndZnqd1ea",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/O2rQGMAndZnqd1ea",
+      "publishedDateTime": "2022-03-14T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -986,83 +1063,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-kbc-launches-ai-fintech.md",
-      "title": "KBC launches AI fintech",
-      "excerpt": "Belgian bank KBC has launched its own fintech to sell the AI applications it has developed to third parties. Called Discai, the separate legal entity will focus on selling AI-based applications to business-to-business firms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/newsarticle/39862/kbc-launches-ai-fintech",
-      "originalUrl": "https://www.finextra.com/newsarticle/39862/kbc-launches-ai-fintech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-nference-accelerates-self-supervised-language-model-training-with-cerebras-cs-2-system.md",
-      "title": "nference Accelerates Self-Supervised Language Model Training with Cerebras CS-2 System",
-      "excerpt": "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) compute, and nference, an AI-driven health technology company, today announced a collaboration to accelerate natural language processing (NLP) for biomedical research and development by orders of magnitude with a Cerebras CS-2 system installed at the nference headquarters in Cambridge,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-health-artificial-intelligence-ef5e8ac5c096420cb73f8e3812348db2",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-health-artificial-intelligence-ef5e8ac5c096420cb73f8e3812348db2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

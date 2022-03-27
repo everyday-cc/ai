@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-17-mathematical-paradoxes-demonstrate-the-limits-of-ai.md",
+      "title": "Mathematical paradoxes demonstrate the limits of AI",
+      "excerpt": "Humans are usually pretty good at recognising when they get things wrong, but artificial intelligence ... paradox shows AI’s limitations. Neural networks, the state of the art tool in AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/946785",
+      "originalUrl": "https://www.eurekalert.org/news-releases/946785",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-designing-ai-ethics-in-practice-and-in-public.md",
       "title": "Designing AI Ethics, in Practice and in Public",
       "excerpt": "Just as the design of user experience for AI and its related technologies are vital concerns for architects and designers, so too are questions about ethics and AI. In this talk, which will kick off the Center’s symposium on Bringing Digitalization Home: How Can Technology Address Housing Challenges?",
@@ -1041,49 +1075,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-thaivivat-offers-ai-tech-startup-inspection-app.md",
-      "title": "Thaivivat offers AI tech startup, inspection app",
-      "excerpt": "Thaivivat Insurance (TVI) has launched Motor AI Recognition Solution (MARS), a deep tech startup, and MARS Inspect, a real-time vehicle inspection application, aiming to achieve total premiums of 10 billion baht by 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bangkokpost.com/business/2280383/thaivivat-offers-ai-tech-startup-inspection-app",
-      "originalUrl": "https://www.bangkokpost.com/business/2280383/thaivivat-offers-ai-tech-startup-inspection-app",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.bangkokpost.com/newdesign/assets/images/bg/business/images_business_1.jpg?v=0.1",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T19:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bangkok Post",
-        "domain": "bangkokpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

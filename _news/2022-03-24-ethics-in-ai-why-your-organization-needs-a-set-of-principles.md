@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ethics-ai-why-your-organization-nee
 webUrl: "https://www.linkedin.com/pulse/ethics-ai-why-your-organization-needs-set-principles-mori-"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -27,40 +27,6 @@ images:
     width: 720
     height: 720
     isCached: true
-
-related:
-  - title: "Trustworthy AI: How to ensure trust and ethics in AI"
-    excerpt: "AI we can trust. Oftentimes discussions about ethics and trust in AI have a very narrow focus, limited to fairness and bias, which can be frustrating as a professional in the indu"
-    publishedDateTime: 2022-03-23T04:40:00Z
-    webUrl: "https://venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/"
-    ampWebUrl: "https://venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-811140846-e1647972470657.jpg?fit=800%2C566&strip=all"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Artificial Intelligence: NIST Risk Management Framework and Guidance Addressing Bias in AI"
-    excerpt: "As more and more companies are developing and/or utilizing artificial intelligence (AI), it is important to consider risk management and best practices to address issues like bias in AI. The National"
-    publishedDateTime: 2022-03-25T18:38:00Z
-    webUrl: "https://www.natlawreview.com/article/artificial-intelligence-nist-risk-management-framework-and-guidance-addressing-bias"
-    ampWebUrl: "https://www.natlawreview.com/article/artificial-intelligence-nist-risk-management-framework-and-guidance-addressing-bias?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-nist-risk-management-framework-and-guidance-addressing-bias?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 62
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
 
 secured: "Jvl3SCNwUKQ3Tq9gfQvRohjXuqPd1ExKefjlcinfMPATUEzjyuWbhqq0NHoYulTnclAlJA50eU7C7o/fqvy/TWW9l/07xx3bFIgZA1Sx0dWUFFD2vUTfM/U47TuOXg1Zwkr2olR2kXYc6FiOa0z2kKyJXPokawAdOD+HOt7lXKBmotrvtCvhMT4TwWJiHs1zbAyUEnXLwN2c5DuJuDOYoP5/vtUT/Th3bTybMca5LgcIlph9JBb28eouhGIbJ1nC9WpIPA/3kSzQ0HKw1XN14pKZgnfpRYRnCsA3ucpIHn7TM8Z8rAIKUUY+x6+XgeRQN3wRTFUp0dcduEdLr/r8jJ368GsgYjtVsU8aJwclhR0=;3Byf3CUFvJJ+BMpzP7pkug=="
 ---

@@ -40,17 +40,17 @@ related:
         isCached: true
   - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
     excerpt: "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program."
-    publishedDateTime: 2022-03-25T20:11:00Z
-    webUrl: "https://www.lelezard.com/en/news-20305699.html"
+    publishedDateTime: 2022-03-25T20:09:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
     excerpt: "Artificial Intelligence Excellence Award. EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligen"
@@ -62,6 +62,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "hvYIxXfo64ntgppQ3uGZbjUF7Elqi0zVQ4Y5LH2D5pkx7yL+EbjscAAaP9v83KHtigaA4+Tsftj/DkRqOTpxzdUtcEzoci7BhuQKgUvg8Bf4/QMi9Oeip8EClj7Uxux4ba4p/4c5ntW7GGQ00ZieCMQqtv6yIBzHmG03Ou63na2Sz450nuJD9IhW2yH+FLKyjjF+hkiRXetBEIfQQrkuVOu2wanCcD0jVfXPe2/dcE8hYOvuknu0GCwl6H+ePfxgprAHM+mOvIrlmGOYW86MLbuW3opWRTIJ1p0QPU7euy7FLl7mCEQUjD05c4USxjswij1FDggqxNfu2T9ZbgMMGdxNJ08i+bIRihCCPrpONbM=;WCkhuYcrciG3t1Je4towHw=="
+secured: "U3uz15QepCKTsFFq2sJG4+DDJZavP3+yZ3PXdHFxHj7iTp5pETFgH5aExb9+fswbOmX37rtu3vEDgE/vLPnxwlst2mL91dlJha21bXL+gSpZFWdv+7UwfEr3qyQsNi8D6fP7QB6rNkGs2XXfcowKypY68sZLnz/cH3zLhcU1CyqFeJ6DMG6Zol8xX/MPpxsCE5q0LJ5UcGxxEa/vsbgtjkPUfuSaOUJE8XAzAt4thMKiAC4yaQFPUK3/FEXYZ78UiNBuDFalLXU0Rb/m6Ch2OiTo302+vDAsjAzBtSS2AGx9bhAlthPOQr8R6s4p+NAfinHCxT17A/YsQHL59Li7xPMnzf9Ob6KsnuBnr/pAn18=;YaACBabG00K35UOcCrjxLA=="
 ---
 

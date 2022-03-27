@@ -2,14 +2,14 @@
 category: news
 title: "AI and machine learning in financial services"
 excerpt: "While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption to ensure the most successful outcomes."
-publishedDateTime: 2022-03-09T21:34:00Z
-originalUrl: "https://www.csoonline.com/resources/231729/ai-and-machine-learning-in-financial-services"
-webUrl: "https://www.csoonline.com/resources/231729/ai-and-machine-learning-in-financial-services"
+publishedDateTime: 2022-03-09T21:41:00Z
+originalUrl: "https://www.networkworld.com/resources/231729/ai-and-machine-learning-in-financial-services"
+webUrl: "https://www.networkworld.com/resources/231729/ai-and-machine-learning-in-financial-services"
 type: article
 
 provider:
-  name: CSOonline
-  domain: csoonline.com
+  name: Network World
+  domain: networkworld.com
 
 topics:
   - AI in Finance
@@ -17,11 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
-    width: 300
-    height: 300
+  - url: "https://us.resources.networkworld.com/wp-content/uploads/2022/03/1647373789.png"
+    width: 1333
+    height: 750
     isCached: true
 
-secured: "RwlpfEgFHBYbjswCxaOgVWyG1jbhjVikQMLMSo+lLW6b61L9ZNOV7bOdBM4j7l5IiXUG9weguvwhyMMRfxV+k1A9c2xiprlgJw/m4cSj1jpnwz4x86kdOkyvZd2VFkIbxFpuDLc6Y/tIDv3dhrxIlSHW29YzgsfZIOHkGjCTNWtUcalyEx+ggZU0cfM+qKG/s0ZrVuufOfashQEPJMFA0Q1CJ5PGGjvqfMGPhgCDPV3jCGLqSP6siqgex1JADpZyJn0BysQKgY13aRbGAISGUopLZP4X4uQ71vFKmdE4ZYJho/RGdBH/8aEgvGaihanaGvcw0KiVi6Uk7BE4l5ajb7j+rLG+h/55IUqEFnY5KZg=;lhx2EM1hVCU0IP1A/OMR/g=="
+secured: "SJFja0vV5erPwDgB6mciFSnzQAIqwb7rHk8s+2yjDnpYZQX7U6P+5+sNMOAWb/SsSjZBTF6/zg+LFc5ElfelC+B2nqpEGx4di3Rn08sOz9hzLQWyKvoe3CHck1rZKWXLL9tJviPdAjRgfbLSLe9kuv2C+L8M+vo2yBDtTIH1gFb4c+VKZl3yLU3Cg8YfeKbderdQvxLe0FJD7/MMRyZ1guivHcV6zg+AqcWiPKuLRaOQoWM0cd04B3Fj2svDldOVLgRZvXro5JkP4yBQqFNbH8Wf8kRxdGZRUuJRKZyy8aJsk3v+mDM8r2dNpLMn9auAksIypsn7hcW/+RZKnzQMFx2ZN/Zvg5CCGhe8NzvJHqk=;3G8faa7wLtH+dxVLV1j6Vw=="
 ---
 

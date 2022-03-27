@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-03-17-thaivivat-offers-ai-tech-startup-inspection-app.md",
+      "title": "Thaivivat offers AI tech startup, inspection app",
+      "excerpt": "Thaivivat Insurance (TVI) has launched Motor AI Recognition Solution (MARS), a deep tech startup, and MARS Inspect, a real-time vehicle inspection application, aiming to achieve total premiums of 10 billion baht by 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bangkokpost.com/business/2280383/thaivivat-offers-ai-tech-startup-inspection-app",
+      "originalUrl": "https://www.bangkokpost.com/business/2280383/thaivivat-offers-ai-tech-startup-inspection-app",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.bangkokpost.com/newdesign/assets/images/bg/business/images_business_1.jpg?v=0.1",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T19:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bangkok Post",
+        "domain": "bangkokpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-microsoft-surface-hub-2-smart-camera-with-laptop-grade-chip-12mp-ai-cam-launched.md",
       "title": "Microsoft Surface Hub 2 Smart Camera with laptop-grade chip, 12MP AI cam launched",
       "excerpt": "Microsoft has just unveiled its Surface Hub 2 Smart Camera which boasts of some highly impressive features and capabilities. The Microsoft Surface Hub 2 Smart Camera is not just an everyday webcam and it does not come cheap – it is priced at $800.",
@@ -911,8 +954,8 @@
       "title": "Astute Imaging Acquires Deep Technology AI Startup DilenyTech",
       "excerpt": "Astute Imaging LLC, a provider of imaging guided therapy and procedure planning services, announced the acquisition of Dileny Technologies (DilenyTech) LLC, a deep",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/astute-imaging-acquires-deep-technology-ai-startup-dilenytech/article_3266d37c-ebf1-55e8-ae39-c165f3a4f516.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/astute-imaging-acquires-deep-technology-ai-startup-dilenytech/article_3266d37c-ebf1-55e8-ae39-c165f3a4f516.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/astute-imaging-acquires-deep-technology-ai-startup-dilenytech/article_3266d37c-ebf1-55e8-ae39-c165f3a4f516.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/astute-imaging-acquires-deep-technology-ai-startup-dilenytech/article_3266d37c-ebf1-55e8-ae39-c165f3a4f516.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1031,49 +1074,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-items-tagged-with-mona-lisa.md",
-      "title": "Items tagged with mona lisa",
-      "excerpt": "A list of HotHardware's published articles on the topic of mona lisa",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/tags/mona-lisa",
-      "originalUrl": "https://hothardware.com/tags/mona-lisa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/57988/content/small_mona_lisa_art.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

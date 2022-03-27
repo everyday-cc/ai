@@ -32,80 +32,137 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia Announces 3 New Powerful AI Chips -- What Investors Need to Know"
-    excerpt: "It's difficult to concisely summarize all of the new products and services announced at the tech company's annual spring GPU Technology Conference (GTC) that kicked off on March 21. But Nvidia's powerful new chip designs and systems aimed at artificial intelligence (AI) are a good place to start."
-    publishedDateTime: 2022-03-24T12:55:00Z
-    webUrl: "https://www.fool.com/investing/2022/03/24/nvidia-new-powerful-ai-chips-what-need-know/"
+  - title: "10 Interesting Facts About NVIDIA Hopper H100 GPU"
+    excerpt: "At the Graphics Technology Conference (GTC), NVIDIA unveiled the latest AI accelerator - the H100 Tensor Core GPU. It’s a successor to the wildly successful A100 GPU launched two years ago. With 9X faster AI training and 30X faster inference, it’s more ..."
+    publishedDateTime: 2022-03-27T11:37:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/amp/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://g.foolcdn.com/editorial/images/671704/nvidia-hopper-architecture-h100-sxm.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62404bee2e866c2678125ebb/0x0.jpg?format=jpg&width=1200"
+        width: 1138
+        height: 640
+        isCached: true
+  - title: "How Nvidia is overcoming slowdown issues in GPU clusters"
+    excerpt: "\"A key challenge to reducing this time to train is the performance gains start to decline as you increase the number of GPUs in a data center,\" said Paresh Kharya, Nvidia's director of datacenter computing,"
+    publishedDateTime: 2022-03-23T15:45:00Z
+    webUrl: "https://www.theregister.com/2022/03/23/nvidia_slowdown_gpu/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/03/23/nvidia_slowdown_gpu/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/23/nvidia_slowdown_gpu/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 59
+    images:
+      - url: "https://regmedia.co.uk/2022/03/23/nvidia_dgx_superpod_h100.jpg"
         width: 1600
         height: 900
         isCached: true
-  - title: "Nvidia’s latest AI wizardry turns 2D photos into 3D scenes in milliseconds"
-    excerpt: "Writer at Neural by TNW — Thomas covers AI in all its iterations ... The company ended a week that introduced a new enterprise GPU and an Arm-based “superchip” with a trademark flashy ..."
-    publishedDateTime: 2022-03-25T13:18:00Z
-    webUrl: "https://thenextweb.com/news/nvidia-latest-ai-wizardry-turns-2d-photos-into-3d-scenes-in-milliseconds"
+  - title: "Nvidia CEO says company \"very interested\" in exploring chip manufacturing with Intel"
+    excerpt: "Nvidia Corp is interested in exploring using Intel Corp for manufacturing its chips, Chief Executive Officer Jensen Huang said on a call with reporters on Wednesday."
+    publishedDateTime: 2022-03-24T09:30:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/nvidia-ceo-says-company-very-interested-in-exploring-chip-manufacturing-with-intel/articleshow/90416403.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/nvidia-ceo-says-company-very-interested-in-exploring-chip-manufacturing-with-intel/amp_articleshow/90416403.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/nvidia-ceo-says-company-very-interested-in-exploring-chip-manufacturing-with-intel/amp_articleshow/90416403.cms"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 52
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FNVIDIA-Research-Instant-NeRF-Image.jpg&signature=995be6c270f72e8df02361a4130e08bb"
-        width: 1280
-        height: 640
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-90416403,imgsize-96278,width-800/90416403.jpg"
+        width: 800
+        height: 550
         isCached: true
-  - title: "Josh Brown says Nvidia's potential is 'scary' ahead of a potential AI boom"
-    excerpt: "Ritholtz Wealth Management CEO Josh Brown praised chipmaker Nvidia on \"Halftime Report.\""
-    publishedDateTime: 2022-03-24T16:07:00Z
-    webUrl: "https://www.cnbc.com/2022/03/24/josh-brown-says-nvidias-potential-is-scary-ahead-of-a-potential-ai-boom.html"
+  - title: "Why NVIDIA’s new H100 GPU is a breakthrough"
+    excerpt: "NVIDIA has highlighted the Transformer engine for its ability to combine data formats with algorithms to fasten the hardware performance."
+    publishedDateTime: 2022-03-25T11:35:00Z
+    webUrl: "https://analyticsindiamag.com/why-nvidias-new-h100-gpu-is-a-breakthrough/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 65
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/103263510-20000101-0022-447.jpg?v=1450899072&w=1920&h=1080"
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Chip_AIM.jpeg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia develops fastest AI to create 3D renders using a dozen 2D photos"
-    excerpt: "As AI technology is advancing, tech companies have started to utilize it for a lot of applications. Nvidia demonstrated how its latest AI tool uses just a"
-    publishedDateTime: 2022-03-27T13:15:00Z
-    webUrl: "https://www.techworm.net/2022/03/nvidia-ai-create-3d-using-2d-photos.html"
-    ampWebUrl: "https://www.techworm.net/2022/03/nvidia-ai-create-3d-using-2d-photos.html/amp"
-    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2022/03/nvidia-ai-create-3d-using-2d-photos.html/amp"
+  - title: "Nvidia reveals new Hopper H100 GPU, with 80 billion transistors"
+    excerpt: "Nvidia has announced a new GPU based on its upcoming Hopper architecture. The Hopper architecture replaces Ampere, which has more than $10 billion sales to date. The H100 GPU is the first chip based on Hopper,"
+    publishedDateTime: 2022-03-23T09:59:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-reveals-new-hopper-h100-gpu-with-80-billion-transistors/"
     type: article
     provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 57
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
     images:
-      - url: "https://www.techworm.net/wp-content/uploads/2022/03/1648301970_2022-03-26_1.jpg"
-        width: 1366
-        height: 768
+      - url: "https://media.datacenterdynamics.com/media/images/H100_Hopper_GPU.2e16d0ba.fill-1200x630.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "NVIDIA’s Tiny New AI Transforms Photos Into Full 3D Scenes in Mere Seconds"
-    excerpt: "NVIDIA says their 3D scene rendering AI runs up to 1,000 times faster than older models without sacrificing image quality."
-    publishedDateTime: 2022-03-27T16:10:00Z
-    webUrl: "https://singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/"
-    ampWebUrl: "https://singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/?amp=1"
+  - title: "Nvidia Unveils Hopper H100 Data Center GPU"
+    excerpt: "The replacement for Ampere has finally arrived, although gamers will still have to wait until the end of the year to see what Nvidia has in store for them."
+    publishedDateTime: 2022-03-23T14:34:00Z
+    webUrl: "https://www.extremetech.com/computing/332979-nvidia-unveils-hopper-h100-data-center-gpu"
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 57
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
     images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/03/nvidia-andy-warhol-tribute-black-sweater-polaroid-camera.jpeg"
-        width: 1068
-        height: 601
+      - url: "https://www.extremetech.com/wp-content/uploads/2022/03/hopper-announcement-blog-1260x680-1-640x360.jpg"
+        width: 640
+        height: 360
         isCached: true
+  - title: "Nvidia RTX A4500 workstation GPU review"
+    excerpt: "In our GPU rendering tests, as the role of the CPU is minimal ... 3rd Gen Nvidia Tensor cores for AI and Machine Learning. 2nd Gen Nvidia RT cores which are dedicated to ray tracing. Different applications support these cores in different ways."
+    publishedDateTime: 2022-03-25T10:19:00Z
+    webUrl: "https://aecmag.com/workstations/nvidia-rtx-a4500-workstation-gpu-review/"
+    type: article
+    provider:
+      name: AEC Magazine
+      domain: aecmag.com
+    quality: 39
+    images:
+      - url: "https://aecmag.com/wp-content/uploads/2022/03/Nvidia-RTX-A4500-review.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "NVIDIA H100 GPU full details: TSMC N4, HBM3, PCIe 5.0, 700W TDP, more"
+    excerpt: "NVIDIA's next-gen Hopper GPU architecture is here, with the new flagship H100 GPU: 80 billion transistors, made on TSMC N4 node."
+    publishedDateTime: 2022-03-24T02:27:00Z
+    webUrl: "https://www.tweaktown.com/news/85246/nvidia-h100-gpu-full-details-tsmc-n4-hbm3-pcie-5-0-700w-tdp-more/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
+  - title: "NVIDIA's new Grace CPU Superchip: 144-core CPU, 600GB of GPU memory"
+    excerpt: "NVIDIA's new Grace CPU design unveiled with two new Superchip platforms: 144-core ARM-based Neoverse CPU, and huge 600GB of VRAM."
+    publishedDateTime: 2022-03-23T23:30:00Z
+    webUrl: "https://www.tweaktown.com/news/85228/nvidias-new-grace-cpu-superchip-144-core-600gb-of-gpu-memory/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
+  - title: "NVIDIA reveals next-gen Hopper GPU architecture, H100 GPU announced"
+    excerpt: "NVIDIA's next-gen Hopper GPU architecture launched, powers the new H100 GPU with 80 billion transistors -- the best for AI and HPC."
+    publishedDateTime: 2022-03-23T05:47:00Z
+    webUrl: "https://www.tweaktown.com/news/85197/nvidia-reveals-next-gen-hopper-gpu-architecture-h100-announced/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "311ZJXd682ona4aEaj8nB7c0vlxnQ+G+vC0dTjxc9xKmbrEtpVblNJ2PRNppHdW8KNHReyqKuwtdBi7/vCyCuueRNcC8F52YDBZk7Jm22eTo2d/hgxQnFAY13vWm2hSXdDKC5+DkW3hlfNWjUlOXD/4PmYRRWJk4TTw7JRqgB9jAQF/RtiZSyaj9yy6Xm+M5C3tUe4uqHOYRaXp+axDZl6ramcCQrJKv5ZyZQyt6UIVssOVebEADwnN2/PNE5QJ7Y88zbVoonq9/XY6zChj760+eSUNmuun3tuzsIEaXhC7Dhs7tdOguutG4Moxlw/fBdVapnREHbeCwpfguuUFgGnl//9Mrm6hnOzS6tCfQ8AlrgHBmVwjYZpIoCK/aa1rksIZo7nXKPFdZaToZbghX1V70NIgttXyIgsdkCnd0cMUyyeoqRoztB6jfJoYDU/uiz+BHk/E0PyolQMrudH7A1VCtxpbsGE1r58Y7ZzzOkpslIqo9IZvbd5ENtxA7aWfaye97UyTnKGBf/y03xDiaQg==;TgMII9Dgxi4P29cQBYpTQw=="
 ---

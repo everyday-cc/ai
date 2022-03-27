@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-03-16-items-tagged-with-mona-lisa.md",
+      "title": "Items tagged with mona lisa",
+      "excerpt": "A list of HotHardware's published articles on the topic of mona lisa",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/tags/mona-lisa",
+      "originalUrl": "https://hothardware.com/tags/mona-lisa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/57988/content/small_mona_lisa_art.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-former-fda-head-scott-gottlieb-md-to-headline-upcoming-artificial-intelligence-in-healthcare-and-diagnostics-conference.md",
       "title": "Former FDA Head Scott Gottlieb, M.D. to Headline Upcoming Artificial Intelligence in Healthcare and Diagnostics Conference",
       "excerpt": "Innovative companies bringing artificial intelligence (AI) to hospitals, physicians, and diagnostic providers will gain key insights about the market opportunities to improve patient care and generate more revenue when they hear the keynote address by former Food and Drug Administration (FDA) Commissioner Scott Gottlieb,",
@@ -1060,58 +1103,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-gpt-3-the-breakthrough-on-ai-and-natural-language.md",
-      "title": "GPT-3 the breakthrough on AI and natural language.",
-      "excerpt": "In the artificial intelligence (AI) world, there has been a lot of hype around a newly developed technology known as GPT-3. GPT-3 was created by OpenAI, a research firm co-founded by Elon Musk, and has been considered the most important and rewarding advance in AI for many years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/gpt-3-breakthrough-ai-natural-language-sergio-ortega",
-      "originalUrl": "https://www.linkedin.com/pulse/gpt-3-breakthrough-ai-natural-language-sergio-ortega",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGStm_X3mjjoQ/article-cover_image-shrink_720_1280/0/1647375616110?e=1654128000&v=beta&t=OnmHorNprG3Z4N9d5vXP10zrNcLAkzDdRECOwGSU3Y4",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

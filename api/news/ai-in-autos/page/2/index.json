@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-03-13-artificial-intelligence-and-the-future-of-war.md",
-      "title": "Artificial Intelligence and the Future of War",
-      "excerpt": "Consider an alternative history for the war in Ukraine. Intrepid Ukrainian Army units mount an effort to pick off Russian supply convoys. But rather than rely on sporadic air cover, the Russian convoys travel under a blanket of cheap drones.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/artificial-intelligence-and-future",
-      "originalUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/artificial-intelligence-and-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/RussiaDrone.jpg",
-          "width": 1222,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-12T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-12-a-survey-of-ai-news-from-around-the-web.md",
       "title": "A Survey of A.I. News from Around the Web",
       "excerpt": "I wanted to present some curated links about A.I. in case you have an obsession like I do to follow some of the best related stories from around the Web. If you enjoy articles about A.I. at the intersection of breaking news join AiSupremacy here.",
@@ -1397,6 +1354,49 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-baidus-self-driving-taxis-are-popping-up-all-across-chinas-megacities.md",
+      "title": "Baidu’s self-driving taxis are popping up all across China’s megacities",
+      "excerpt": "The battle is on between Alphabet in the United States and Baidu in China in regards to the development, launch and rollout of self-driving taxicabs. Baidu recently announced the launch of a test ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/09/20/baidus-self-driving-taxis-are-popping-up-all-across-chinas-megacities",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/09/20/baidus-self-driving-taxis-are-popping-up-all-across-chinas-megacities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/09/19/1299802.jpg",
+          "width": 1240,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-28T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],
