@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleash
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech/amp/"
 type: article
 quality: 123
-heat: 353
+heat: 343
 published: true
 
 provider:
@@ -65,15 +65,6 @@ related:
         width: 1200
         height: 604
         isCached: true
-  - title: "Azure confidential computing with NVIDIA GPUs for trustworthy AI"
-    excerpt: "Confidential computing technology encrypts data in memory and only processes it once the cloud environment is verified, helping protect data from cloud operators, malicious admins, and privileged software. Today, we are excited to announce the next chapter in a strategic partnership between NVIDIA and"
-    publishedDateTime: 2022-03-22T10:00:17Z
-    webUrl: "https://azure.microsoft.com/blog/azure-confidential-computing-with-nvidia-gpus-for-trustworthy-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "GTC 2022: Nvidia's plan to power the \"next wave of AI,\" from silicon to software"
     excerpt: "At its Spring conference, Nvidia announced a new GPU architecture, a CPU \"superchip,\" new tools for the Omniverse and more."
     publishedDateTime: 2022-03-22T16:48:00Z

@@ -193,20 +193,6 @@ related:
         width: 620
         height: 474
         isCached: true
-  - title: "IonQ Aria quantum computer joining Microsoft’s Azure Quantum Platform"
-    excerpt: "Adding the latest IonQ quantum computer systems to the Microsoft's Azure Quantum Platform cloud platform which already features"
-    publishedDateTime: 2022-03-22T10:43:00Z
-    webUrl: "https://www.geeky-gadgets.com/ionq-aria-quantum-computer-22-03-2022/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/03/IonQ-Aria-Quantum-computer.jpg"
-        width: 700
-        height: 477
-        isCached: true
   - title: "Baker Hughes Expanding Industrial Cloud-based Solutions with Microsoft, C3.ai"
     excerpt: "Oilfield services (OFS) giant Baker Hughes Co. is partnering with Microsoft Corp., as well as C3.ai Inc. and Accenture plc, to deploy industrial asset"
     publishedDateTime: 2022-03-25T19:15:00Z

@@ -1,15 +1,19 @@
 ---
 category: news
 title: "Tomahawk Robotics Integrates AeroVironment UAS Into Kinesis Ecosystem"
-excerpt: "Tomahawk Robotics is the leading innovator of common control solutions that transform ... Designed from the ground up with the user in mind, Kinesis is the only multi-domain, cross-architecture ..."
-publishedDateTime: 2022-03-09T16:33:00Z
-originalUrl: "https://fox59.com/business/press-releases/cision/20220309FL86601/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem/"
-webUrl: "https://fox59.com/business/press-releases/cision/20220309FL86601/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem/"
+excerpt: "March 9, 2022 /PRNewswire/ -- Tomahawk Robotics ... the ground up with the user in mind, Kinesis is the only multi-domain, cross-architecture, AI-enabled control system that unlocks intuitive ..."
+publishedDateTime: 2022-03-09T16:04:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem-1031267018"
+webUrl: "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem-1031267018"
 type: article
 
 provider:
-  name: FOX59 News
-  domain: fox59.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
@@ -21,6 +25,6 @@ images:
     height: 266
     isCached: true
 
-secured: "YwZ59YHGxUftGiIpb/cWyCDOwIbKNbihV81/bHtJGBdnW/hy8XqWwOKboQgXwTegHJxn0gqDp01sp79eQcMAvKEjUzScXy6pEaL0VpuCnwbBzcQ5XXToCWCsZNznIEU3CnERU8ChjbVzqoIKHM/XPzMAK4vF+VKuqT0kjf8Y3yPd1J2RFLoHzgoi7YZ+GH0cj7u1I7B55yJrSiGzTJysvqbP8uCbRGnfBUX8/wu4Ne5LF3ElaaR3RCZ7PE1bp0fv007QnXiq2FDeLxVhJ9suaJYIuCzd78Myh9B84NE94ZKSSyPfwdkjtYdcAy1DWCDvRh+apUYO3OlV3mclwtr3xyok9XmSvxLs3GObk9zmPUY=;RxbcFsSrPZ77y2I3ni3FYg=="
+secured: "KnV2xAlN9azLDrMnSeX67KXDo6t6nx8Gu/eoU//J7TNxiNFPGbvWIlOWevg/tlGdq38fWlp8GOgkMpepVZb6vXgmsniEvlPG031x+fKfd/Qkp1infGq3VzfaU4Q/VkVTVvZn+ykoca5uZhQrItwzYxJ1R4K9DhGz2ZYgfiA5FSDoQSIMBnsniAFDs4G4zu20yyfaDb0jlhrCYNGw6Sb1+5NDAgpFr0I6eCTIV08VuVz3BPowUtuGE+1cdR4QfgcAidgD5eAm/OWzntqlZmxMBb2jjPwbTzMWcP+WtKtGcP0hLO9qzb2KV/VYZYZykG7Hs1kbyVVYsH5fROhibwyaxmI2doMtQYwZT8slbntD4IY=;4L4oZzCR8yiqyWCmpa46Tw=="
 ---
 

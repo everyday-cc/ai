@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facial Recognition Tech is Controversial Yet Key Piece of Federal Biometrics Strategy"
-    excerpt: "Biometric data and technologies are being deployed within multiple federal agencies to boost the accuracy of identity verification and free up human decision makers for other, more complex and cognitive tasks,"
-    publishedDateTime: 2022-03-22T09:46:00Z
-    webUrl: "https://www.govconwire.com/2022/03/facial-recognition-tech-is-controversial-yet-key-piece-of-federal-biometrics/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 32
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2022/03/unnamed-file-111.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "Q6e+1h/q5d5HtfuNNo777+xQ7DaqGBn6XPEj4F7fg0H6C6Osy1pqRUFFs5qOp2zVUkwJwsBRaaJb7fi+4cQIF2CPbMgFrnVmCy1b3l4sle7XswvqVnc+Shxkqf2mcaLnJoAZxEkR+C/PDZG3hvli0vK4pgXRkQrEWJmUg+3QbnWzZGUWMoYJ92Gk4eKPE5SChK4PdfpTvPXnk5LvZpbr0q2w3pz7hmIOgT3CJoeCJ8Uh9+FgcWbomqyBnu+oLmchNx1vPsxYbQHAogP/IjZJ41jypktaLEVQk9fMkqTK3pEju7RQVtHRBmbNoY5hyAjZ0eWuyeQiggk31uSywUCSIEFozv36euhmfIu3k+m5FhZXeUEGzGL6/Pl5fRmiF3wPw2JkHzfkGS540RI24gz/6dJcX/UPNvyJBiTNUjYC0ni+HJrwm9zTi9n51rf8xcBwbgFGRtEl1x5xQzLt5eN0rDF1igxnahm+SlWBYAECTBy3wZh2aQo4bmYGOzOtOjG+Bi4DarBLQ25b9ELVhr2kuw==;qPInIYv+WSxGU6VDPbPuhg=="
 ---

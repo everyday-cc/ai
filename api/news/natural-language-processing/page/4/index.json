@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-02-16-nanonets-lands-10-million-to-expedite-document-processing-with-ai.md",
-      "title": "Nanonets lands $10 million to expedite document processing with AI",
-      "excerpt": "Leveraging a blend of AI, including computer vision and natural language processing, intelligent document processing can help to automate tasks like invoice processing, insurance claims ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/16/nanonets-lands-10-million-to-expedite-document-processing-with-ai/",
-      "originalUrl": "https://venturebeat.com/2022/02/16/nanonets-lands-10-million-to-expedite-document-processing-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/11/big-fat-document.jpg?w=1200&strip=all",
-          "width": 999,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/16/nanonets-lands-10-million-to-expedite-document-processing-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/16/nanonets-lands-10-million-to-expedite-document-processing-with-ai/amp/",
-      "publishedDateTime": "2022-02-16T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-16-global-natural-language-processing-and-recognition-market-2021-key-players-regions-company-profile-growth-opportunity-and-challenges-by-2027.md",
       "title": "Global Natural Language Processing and Recognition Market 2021 Key Players, Regions, Company Profile, Growth Opportunity and Challenges by 2027",
       "excerpt": "Feb 16, 2022 (CDN Newswire via Comtex) -- The latest updated report published by MarketsandResearch.biz titled Global Natural Language Processing and Recognition Market 2021 by Company ...",
@@ -1455,6 +1403,41 @@
         "Natural Language Processing",
         "Microsoft AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-google-subsidiary-deepmind-goes-retro-to-push-ai-forward.md",
+      "title": "Google Subsidiary DeepMind Goes RETRO to Push AI Forward",
+      "excerpt": "have boosted the branch of artificial intelligence called natural language processing (NLP). But while the applications for NLP algorithms are myriad, they operate on text data, which makes them complex and expensive and often limits their usefulness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward",
+      "originalUrl": "https://www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward?amp",
+      "publishedDateTime": "2022-02-07T17:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
       ]
     }
   ],

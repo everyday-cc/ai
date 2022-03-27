@@ -2,30 +2,30 @@
 category: news
 title: "Live updates: Zelenskyy delivers video speech at Doha Forum"
 excerpt: "Ukrainian President Volodymyr Zelenskyy has made a surprise video appearance at Qatar’s Doha Forum. Zelenskyy in his video address Saturday criticized Russia’s ongoing war on his nation. He called on the United Nations and world powers to come to his aid."
-publishedDateTime: 2022-03-26T08:04:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/Live-updates-Turkish-President-Erdogan-talks-17030318.php"
-webUrl: "https://www.houstonchronicle.com/news/article/Live-updates-Turkish-President-Erdogan-talks-17030318.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/Live-updates-Turkish-President-Erdogan-talks-17030318.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Live-updates-Turkish-President-Erdogan-talks-17030318.php"
+publishedDateTime: 2022-03-26T07:59:00Z
+originalUrl: "https://tucson.com/news/national/live-updates-zelenskyy-delivers-video-speech-at-doha-forum/article_c21c2cae-17a6-508e-88ad-2c058fa3be58.html"
+webUrl: "https://tucson.com/news/national/live-updates-zelenskyy-delivers-video-speech-at-doha-forum/article_c21c2cae-17a6-508e-88ad-2c058fa3be58.html"
+ampWebUrl: "https://tucson.com/news/national/live-updates-zelenskyy-delivers-video-speech-at-doha-forum/article_c21c2cae-17a6-508e-88ad-2c058fa3be58.amp.html"
+cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/national/live-updates-zelenskyy-delivers-video-speech-at-doha-forum/article_c21c2cae-17a6-508e-88ad-2c058fa3be58.amp.html"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: Arizona Daily Star
+  domain: tucson.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/24/65/44/22239551/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
+  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/5/f2/5f225a4d-50b4-531c-bd42-fa8a42c2b827/623f351261f71.image.jpg?resize=1024%2C682"
+    width: 1024
+    height: 682
     isCached: true
 
-secured: "LyFQtiwL82qzoWZRIHfYm+NRo7gGS7N/of8aA/9ZlR2X7ClSF+I6NwJUTf8veZ6S7QQ2xW+5Ilj+VSEa41SVjoo5IuAtzgDPl5hoD/tdBVaPc9r86blWAgH2hbh60sYJHEtzni2Q8ugQfL7Re3l4tqOgMKiBJEJl7AWI4LTkvsGFtso4vIP0EqfiWq0fSoGZctc0/f2zWh9u6nekqBF8G9xx91tlaYreXWX4h7lUo0HI/xpSdk3ax549dEfOz40CIDGu+pzxY+YCbjPGXSbOTJ4Wgg1/RiRLDOdyj5no6NlEpgxuSzMSxS2h3hJvvCpAq3SH5f23Jxm0U55AVIvHWYO4h+Uhnu50UNp3G5zD4gU2dQrUptLYSfyGp1ZEmaaa8lH3Nbv12P+9z0549ibFNDqKqPrftSOJifZj37/6wBirRsEDwBgHycFS4Jd2ACxkdyBa4zWq9X+JLfKeFvaQ3F8Xz4xvhI5D3wrGMja5Lr8mPFu13iQl3410mwBKBuitnU4RxdY6TFDv62vj7otQmA==;uueHWTubEMTFp/P5JrLTbQ=="
+secured: "FXQnykRL5NuQHJIKAXECzy44cc3hd15/b8M4IHRgsTfK7D7Jqsewifwynm2vewdhs4BeV5mwvoXaYCFHWFJCk04seFEWTVu11kEwCzu1kwx0qsM8kvkIxvdC5KvFqmExvhJsEYWqVRsUvnI9BgBUVpddKzvzGorDTcznGR2oAaLDwnf3q8eQ+MyUcvX1wHGEpUOY3njFu0fTNgjNyJxgHEvev3yXItpT0o7qndwT+B99ZRR+2F6E+h+yo/26Wiz352EDHItpmiHMmYt2Gw9oYV1aSo9IAFhixB8Sf4BYhDxs0CKhWwjk5ykI8STjjDbLZ/+dx4XoTznk3B11WJhV4dw3f+h48ls8VyBEmwB8g60=;p2AjKFL2uHS1jLRQUuXmAw=="
 ---
 

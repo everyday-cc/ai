@@ -207,20 +207,6 @@ related:
         width: 620
         height: 474
         isCached: true
-  - title: "IonQ Aria quantum computer joining Microsoft’s Azure Quantum Platform"
-    excerpt: "Adding the latest IonQ quantum computer systems to the Microsoft's Azure Quantum Platform cloud platform which already features"
-    publishedDateTime: 2022-03-22T10:43:00Z
-    webUrl: "https://www.geeky-gadgets.com/ionq-aria-quantum-computer-22-03-2022/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/03/IonQ-Aria-Quantum-computer.jpg"
-        width: 700
-        height: 477
-        isCached: true
 
 secured: "uLZYl+X5khn5y53v/P+yfIjOB5kwrrZ5fKHYS+gqYeN3at3FeD+3Z9lbsHXwmhLKzJvZndwjf8WSumpLWnlQUuBNyTg9l0lWp6GmJAVJPbuCv+Bv8wPsAGlW6ls2haRDESkdxUA4Ky3r5PUSZZANaD885Xk4iZx53Hkn/utc0QdEAbmvcKzjqEmFpaiA46CsnZCu6uVxqn1S2D/TLlTas7jfb1SFghc+ZL6ETAi6sEpHWFfRBW/euYmoI4oDrye7rOtvm9EEX4z2iGHfsKjBHM7x+6a8t01w6PjQjLvMnyWT033WnHIC8O1CpC40z+voIl65fUVZRkAI2y2fLk83CbOpu1DLlgnKjB7d5kBFm3Zhk8hbMxi64BrMzrYFyjjfWenlReZRJ7esQNwZnIzMJHOWP2B81DwH8p219WglkW6f1CPwHcJc4e+ZLAsWYbiBUi8Ed4ZPSWe1xp/QOsDgeZ2PXoxq54XZca55nCohdoBwmWqKus5Nwm3e/G8i+MWE+yne9qYreqH6kXyFJvkEtA==;tkWehuXmg0QGGQUUshO3cA=="
 ---

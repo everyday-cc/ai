@@ -503,22 +503,31 @@
       "title": "nference Accelerates Self-Supervised Language Model Training with Cerebras CS-2 System",
       "excerpt": "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) compute, and nference, an AI-driven health technology company, today announced a collaboration to accelerate natural language processing (NLP) for biomedical research and development by orders of magnitude with a Cerebras CS-2 system installed at the nference headquarters in Cambridge,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-nference-accelerates-self-supervised-language-model-training-with-/2022/03/14/9562834.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-nference-accelerates-self-supervised-language-model-training-with-/2022/03/14/9562834.htm",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-health-artificial-intelligence-ef5e8ac5c096420cb73f8e3812348db2",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-health-artificial-intelligence-ef5e8ac5c096420cb73f8e3812348db2",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T06:09:00-07:00",
+      "publishedDateTime": "2022-03-14T06:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -528,7 +537,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI in Autos",
         "AI"
       ]
     },

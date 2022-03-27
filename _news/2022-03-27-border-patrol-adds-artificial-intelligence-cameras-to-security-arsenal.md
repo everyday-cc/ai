@@ -2,26 +2,26 @@
 category: news
 title: "Border Patrol adds artificial intelligence cameras to security arsenal"
 excerpt: "Border agents in the past five months have participated in 6,630 search and rescues of migrants along the Southwestern border. They’re hoping newly deployed technology will help them not only stop"
-publishedDateTime: 2022-03-26T19:26:00Z
-originalUrl: "https://www.rochesterfirst.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/"
-webUrl: "https://www.rochesterfirst.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/"
-ampWebUrl: "https://www.rochesterfirst.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
-cdnAmpWebUrl: "https://www-rochesterfirst-com.cdn.ampproject.org/c/s/www.rochesterfirst.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
+publishedDateTime: 2022-03-27T02:18:00Z
+originalUrl: "https://www.krqe.com/news/border-report/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/"
+webUrl: "https://www.krqe.com/news/border-report/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/"
+ampWebUrl: "https://www.krqe.com/news/border-report/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
+cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/border-report/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: WROC-TV
-  domain: rochesterfirst.com
+  name: KRQE
+  domain: krqe.com
 
 topics:
   - AI
   - AI in Security
 
 images:
-  - url: "https://www.rochesterfirst.com/wp-content/uploads/sites/66/2022/03/CBP-IMAGE-ASTs.png?w=1280"
+  - url: "https://www.krqe.com/wp-content/uploads/sites/12/2022/03/CBP-IMAGE-ASTs.png?w=1280"
     width: 896
     height: 472
     isCached: true
@@ -55,6 +55,6 @@ related:
       domain: venturebeat.com
     quality: 69
 
-secured: "j/XfmSNDSeWZndsGzWSVT/NuYVA+N6lfMFL3eGcJTb9O2rBXYeZ3f6JOF3N5s/9Ol6GjNEfXgwKW7ge091nLClw1CAdH+EEDq0WfI/LgqkUhVqxlhi5zK/rUF8QQQ15w6MHjGCZiz9hQV/V4OVOm2bRxzS90+sJX8bSdAZe/MQNqBSMHwWsx8r4VfOVDtpfU8mYZ7IsKa6wnG4mchz39b/NO9zfQRTVSAxU50qzG63r+7Ut2Vrc2o0YfwsNF1esYFWckfKrm44h6oUAjYoDncCpfuX88SrrtVOWG85/vC2+xzMoBFRdLj9CT43GKqnkpBpsKeXzRiK/OMHqUD3OavFl3mSfShouALbokyXA3f40WPA4yfIcwITB7QrVhSR8vjZkgHWiM60kcQ2m5ARlwlCvWNvGXdE3pZFr3r4FDMcp+8XTC4vH8rDg1wfcfJdClUscSGBAePMAPDtVdz8vnK09bngAhqCBeeGV4ozk+e7SSeEwZKdGC+soiX1mrRq+04f0VpAAOQ30wj1BjW3uvzg==;yDlXB/3EQZBIe3s8Cgo0AA=="
+secured: "VmTKlslThzxAfNogHwa0nZbxpmCE4AbPgIj9dQ97Cx6d3NpGTpRnfMF8Ua+f0MbWgFBn1uLPATdgT8yIlDXZ8zq/4F83S5kN3yQmrvGGV9wxxIzISM5XoW9MHExdtFKrHnwbPHgcXu3VqG3ZxtCC7YSiB1jXvdb9eeEO3gCA3+jf8iFw+sw0FpSBnI66b45OZ/jQ+8Wkrs0PEAjai3j13cIocnpsZ8dmNjMeRxswp+YWCW6NVQczKQgDmqspfSKrgCwVy5gWN0pq7tRzglczl6gVI+2PuaZJc4TOqPHKJYwTdtgRFfAGG3VggjQkNN483oAKNbv1tG3or9O0NeiKYVobOVKAWOcuDDyHy77ynn0=;FzMhVqTf0/LEEuCrb3/2qg=="
 ---
 

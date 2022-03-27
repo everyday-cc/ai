@@ -47,19 +47,19 @@
     {
       "path": "_news/2022-03-17-forbes-names-landing-ai-a-top-startup-employer.md",
       "title": "Forbes Names Landing AI a Top Startup Employer",
-      "excerpt": "Landing AI, which provides software that makes building and deploying AI solutions in manufacturing fast and easy, today announced that it has been recognized by Forbes as one of America's Best Startup Employers 2022.",
+      "excerpt": "Landing AI, which provides software that makes building and deploying AI solutions in manufacturing fast and easy, today announced that it has been recognized by Forbes as one of America’s Best Startup Employers 2022.",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/forbes-names-landing-ai-a-top-startup-employer/article_8b36efb0-21fe-5f75-880c-2781ca79f9a9.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/forbes-names-landing-ai-a-top-startup-employer/article_8b36efb0-21fe-5f75-880c-2781ca79f9a9.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-9e2f09776c74103a11aeceacbaf1e95f",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-9e2f09776c74103a11aeceacbaf1e95f",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -69,11 +69,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T14:26:00-07:00",
+      "publishedDateTime": "2022-03-16T14:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

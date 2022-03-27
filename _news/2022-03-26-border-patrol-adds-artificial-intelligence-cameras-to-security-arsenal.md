@@ -29,17 +29,17 @@ images:
 related:
   - title: "Border Patrol adds artificial intelligence cameras to security arsenal"
     excerpt: "Border agents in the past five months have participated in 6,630 search and rescues of migrants along the Southwestern border. They’re hoping newly deployed technology will help them not only stop"
-    publishedDateTime: 2022-03-26T19:26:00Z
-    webUrl: "https://www.rochesterfirst.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/"
-    ampWebUrl: "https://www.rochesterfirst.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
-    cdnAmpWebUrl: "https://www-rochesterfirst-com.cdn.ampproject.org/c/s/www.rochesterfirst.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
+    publishedDateTime: 2022-03-27T02:18:00Z
+    webUrl: "https://www.krqe.com/news/border-report/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/"
+    ampWebUrl: "https://www.krqe.com/news/border-report/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
+    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/border-report/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
     type: article
     provider:
-      name: WROC-TV
-      domain: rochesterfirst.com
+      name: KRQE
+      domain: krqe.com
     quality: 74
     images:
-      - url: "https://www.rochesterfirst.com/wp-content/uploads/sites/66/2022/03/CBP-IMAGE-ASTs.png?w=1280"
+      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2022/03/CBP-IMAGE-ASTs.png?w=1280"
         width: 896
         height: 472
         isCached: true

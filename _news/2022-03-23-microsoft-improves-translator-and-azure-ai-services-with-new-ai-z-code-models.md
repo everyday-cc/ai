@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-improves-translat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/"
 type: article
 quality: 117
-heat: 247
+heat: 237
 published: true
 
 provider:
@@ -197,20 +197,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/df2e43746386b941847aa624bfa70fb3_L.jpg"
         width: 620
         height: 474
-        isCached: true
-  - title: "IonQ Aria quantum computer joining Microsoft’s Azure Quantum Platform"
-    excerpt: "Adding the latest IonQ quantum computer systems to the Microsoft's Azure Quantum Platform cloud platform which already features"
-    publishedDateTime: 2022-03-22T10:43:00Z
-    webUrl: "https://www.geeky-gadgets.com/ionq-aria-quantum-computer-22-03-2022/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/03/IonQ-Aria-Quantum-computer.jpg"
-        width: 700
-        height: 477
         isCached: true
   - title: "Baker Hughes Expanding Industrial Cloud-based Solutions with Microsoft, C3.ai"
     excerpt: "Oilfield services (OFS) giant Baker Hughes Co. is partnering with Microsoft Corp., as well as C3.ai Inc. and Accenture plc, to deploy industrial asset"

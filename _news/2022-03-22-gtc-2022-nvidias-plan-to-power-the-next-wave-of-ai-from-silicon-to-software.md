@@ -79,15 +79,6 @@ related:
         width: 1200
         height: 604
         isCached: true
-  - title: "Azure confidential computing with NVIDIA GPUs for trustworthy AI"
-    excerpt: "Confidential computing technology encrypts data in memory and only processes it once the cloud environment is verified, helping protect data from cloud operators, malicious admins, and privileged software. Today, we are excited to announce the next chapter in a strategic partnership between NVIDIA and"
-    publishedDateTime: 2022-03-22T10:00:17Z
-    webUrl: "https://azure.microsoft.com/blog/azure-confidential-computing-with-nvidia-gpus-for-trustworthy-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "NVIDIA unveils Hopper, its new hardware architecture to transform data centers into AI factories"
     excerpt: "NVIDIA just announced Hopper, a new GPU architecture that promises significant performance improvements for AI workloads. We look under the hood to decipher whether the emphasis on Transformer AI models translates to a radical redesign,"
     publishedDateTime: 2022-03-23T15:36:00Z

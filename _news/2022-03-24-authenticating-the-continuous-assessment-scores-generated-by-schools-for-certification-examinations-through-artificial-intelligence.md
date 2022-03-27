@@ -29,15 +29,34 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning presentations examine dental caries predication and diagnosis"
-    excerpt: "Various aspects of machine earning were explored at the hybrid 51st Annual Meeting & Exhibition of the AADOCR, held in conjunction with the 46th Annual Meeting of the Canadian Association for Dental Research (CADR),"
-    publishedDateTime: 2022-03-24T12:41:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/947074"
+  - title: "Development of a new high-precision ai-based translation engine specialized for the financial sector"
+    excerpt: "The National Institute of Information and Communications Technology (NICT) and the Financial Services Agency of Japan (JFSA) worked together to develop a new AI-based translation engine that can translate documents between Japanese and English in both directions with high accuracy."
+    publishedDateTime: 2022-03-23T08:03:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/947186"
     type: article
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 15
+    quality: 24
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/9f499d5a-8abb-46b6-bddb-8bd482d342d2/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 251
+        isCached: true
+  - title: "Meta’s Universal Translator Will Not Be the End of Human Translation"
+    excerpt: "Will Meta’s Universal Translator be the end of human translations in the translation agency? This article examines why it will be challenging to create one. For those who grew up watching Sci-Fi shows,"
+    publishedDateTime: 2022-03-24T12:04:00Z
+    webUrl: "https://www.hackread.com/meta-universal-translator-not-end-human-translation/"
+    type: article
+    provider:
+      name: hackread
+      domain: hackread.com
+    quality: 24
+    images:
+      - url: "https://www.hackread.com/wp-content/uploads/2022/03/meta-universal-translator-will-not-be-the-end-of-human-translation.jpg"
+        width: 1280
+        height: 799
+        isCached: true
 
 secured: "JqPHRdvuMwawidI1a0hs49kRvKqUNQlRQ3o08TYUHwFN+Z3s5oTYc7r2+f4ZiAwjArTd0+fg3WzfXbik3j2+dh1GlaokrMymZLqEdPKWf7WDOHyQSQflgAXHsChIgyL+E5lk7Ycu6+dKWBWCyvx0D8J9AsM0bUlw2Gzz/peQyuXUgcE25hJ7CsjkR54xxj+pIkBw988rt5jNsJAxQZ5DeXa23Y/a0YvBAN2uO3q9D6YnrEnd2HuBhD7xq7GjXcxGDuTTc9+6/O4BFfvJnxYFtKlLPMZv1sTkDPdWDxfoSj+xp7pDgVxL3/U8cGrmDOz6VEXqTIswhsy/wAzs3IIwhjZ97TmVgfRkRLqjRKnFQZU=;F0Sw9Ln04tTLOcRQht4nxA=="
 ---
