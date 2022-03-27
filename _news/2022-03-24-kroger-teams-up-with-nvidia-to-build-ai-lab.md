@@ -69,20 +69,6 @@ related:
         width: 938
         height: 706
         isCached: true
-  - title: "Nvidia Bolsters Edge AI and Autonomous Robots at GTC 2022"
-    excerpt: "Amid the flood of news coming out of Nvidia’s GPU Technology Conference (GTC) today were  pair of announcements aimed at accelerating the development of"
-    publishedDateTime: 2022-03-22T18:29:00Z
-    webUrl: "https://www.datanami.com/2022/03/22/nvidia-bolsters-edge-ai-and-autonomous-robots-at-gtc-2022/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/Nvidia-Jetson-Orin.png"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "G0Tm62c7njs3gV90l+Gl43BSyQ7aGC+5d0oak/qkdD0v+gNvpL7JTphoIBwdANH/Mf5z22W+0UsIwoKbA5GTG5TJL3TFxLt8ADyJxRWyP1zqbej9EeOVndvLfKVmezBuXfr1Mtk9j6cNicePgyW+FoGwC8BDg02zcYQbSUxH1DzJI0Z8uswEfp8/0N/twKzZhL7mvjoaoNWGkJpqNhxNmDR9BlgkfErgW0nwhfHJZZxRArCm/dqc0PUxbmxKIMbYXwHDIDwxq2onVvGq7Zoh9n0fFlJ8vqaCbzJh2m3AUGlmV2ClzL6X2QlOYaDBlDF/b6ibIvuvc3PH935C4la8Cbz3QkHLo4vj5HO/SktOg/M=;RVgK+VnjcK8lqhCSVe5LyA=="
 ---

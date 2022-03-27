@@ -74,20 +74,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "NVIDIA Launches ‘Hopper’ GPU Architecture, H100 Becomes New AI-focused Flagship"
-    excerpt: "At its latest GTC, NVIDIA takes the veil off of its latest AI-focused GPU architecture. Named after Grace Hopper, 'Hopper' greatly improves performance in key areas over the previous generation, including both with raw compute,"
-    publishedDateTime: 2022-03-22T17:04:00Z
-    webUrl: "https://techgage.com/article/nvidia-launches-hopper-gpu-architecture-with-h100-becoming-new-ai-focused-flagship/"
-    type: article
-    provider:
-      name: Techgage
-      domain: techgage.com
-    quality: 50
-    images:
-      - url: "https://techgage.com/wp-content/uploads/2022/03/NVIDIA-Hopper-Die-Shot-Thumbnail.jpg"
-        width: 800
-        height: 800
-        isCached: true
   - title: "Nvidia reveals new Hopper H100 GPU, with 80 billion transistors"
     excerpt: "Nvidia has announced a new GPU based on its upcoming Hopper architecture. The Hopper architecture replaces Ampere, which has more than $10 billion sales to date. The H100 GPU is the first chip based on Hopper,"
     publishedDateTime: 2022-03-23T09:59:00Z
@@ -102,15 +88,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NVIDIA is turning data centers into 'AI factories' with Hopper GPU"
-    excerpt: "NVIDIA's next-gen Hopper GPU architecture is bringing the AI and Omniverse together, turning data centers into 'AI factories'."
-    publishedDateTime: 2022-03-22T17:20:00Z
-    webUrl: "https://www.tweaktown.com/news/85205/nvidia-is-turning-data-centers-into-ai-factories-with-hopper-gpu/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
 
 secured: "l8by5LDIhPZg12TQ0pbIrD7dqbJiy2C8gc/e0+aDbpTtF6iGkfLVWEcEknj772JCsrb0zZmMCQhbQ4aplcJAR3p7GHAoZzJaMrFxOjHVqLR8l4lBti6H91EQ2MXjrPTprwcnFCsWCT9W4LKrGlPdADR7Y8bQqYYRlPiBPCfpeB0N3gPLeDMoyOhwqS2vkBjaZEj8dlo0XRRzt0Krrv5VzpyZPFAKmcg/63Rig5XJMF103MGA73RWtwutCrh5Ft367WFiCeCfwsn9J3aDZS1VQjdyosJlUo+43wsRrLJFha1rz9/9KPHVfn4ZEuDCeGRZOEhpLR8gFVLP2utV3FOaOl2drG4IHiXEnDFnrrqDqXtdreT/WfwUZEKHc/LOX47cPs9Bk1nFl8hR6bBG5h0dCHfkyqXddgGci01K8JMq4sZrq8nNR2lfe9Y/LxUnRHP+ePf25e3Z8zPe5s75N5IQ2eU7OekwypQwH7km4gR63FWO/4+5irpp3EYvffdGMatXL5AEEw0tSNhZM2tbuRmqMA==;xw/9+o8hF9QaqIB9nTf8Kg=="
 ---

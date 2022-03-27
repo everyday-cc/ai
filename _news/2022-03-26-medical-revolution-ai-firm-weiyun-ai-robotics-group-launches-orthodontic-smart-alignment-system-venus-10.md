@@ -3,8 +3,8 @@ category: news
 title: "Medical Revolution: AI Firm WEIYUN AI & Robotics Group Launches Orthodontic Smart Alignment System Venus 1.0"
 excerpt: "Recently, the leading surgical robotic and AI customerized industrial Internet company - Weiyun AI&Robotics Group has successfully developed AI SMILE Orthodontic Smart Alignment System named Venus 1.0,"
 publishedDateTime: 2022-03-26T00:00:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/space-exploration-science-technology-health-business-98ad2bafd450f18e353b9fdcc283f668"
-webUrl: "https://apnews.com/press-release/PRNewswire/space-exploration-science-technology-health-business-98ad2bafd450f18e353b9fdcc283f668"
+originalUrl: "https://apnews.com/press-release/pr-newswire/space-exploration-science-technology-health-business-98ad2bafd450f18e353b9fdcc283f668"
+webUrl: "https://apnews.com/press-release/pr-newswire/space-exploration-science-technology-health-business-98ad2bafd450f18e353b9fdcc283f668"
 type: article
 quality: 50
 heat: 60
@@ -15,8 +15,8 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -40,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "YSBZT8PWazKk4JRL1zmEYakeVMZBJ/hXRlxLHSO5SSv6MUAZrxTGgylxS02F72ftM9r3c8qOWwGHY5tWUyIWprMNK3Wy6qWPAIRkxsyQ2plNA2C9FfhGI6g6wyw9ATfeEHXKBTOAZZza4oCNO3+2HvIRQ5FRXjNv8l0NDWdFG17AUAS2FpksNIykV7usRSTSn41sPDUvVBNEygBUFSg2OD/sIebjpDmgLNotxSnr42Ft2/63jk9SeIhtQ1VmCKBU/AIiZte2gUBlqIFVRmG4LfU3A32tByDJIgMJXViBTNmenTzKQ2g+OtfQh0Ap/NSgw5ddUE8CwWi+RnhNcxxxh/BykW9X3XRgycxc/lRTya8=;+OJIoDVx6krBl4Gv7OrMTg=="
+secured: "67yTV4oNFaGJoCsPl9VoieI+hr/s9e1umFmVz/QMwFIvCA7PmGBMqWBoA1LrQNUSfT1v1f3h+WxAI0tv7mFzk52Kvjk3cgZO78V9fNMQORzys/nXCE3flAAqPxTWpDcBuBc/wzQpKi7Bv3PA4uyUMTynn+BgUEMM6BI0QKqAhuNdNad1WvL/0YzQFX7LWUeuNx7aIa1UviG7fNCrmndyaAvED7APrkTlErhklWR11Pr9gvAKVSt7foXkfT2SUbtMZ6KAPD7cGYOzG78089RyOWnDPxme0zUE13Hx9zbDD07FiAbBP8AOovH67e7mFmMdDoS0FKj5o8fH0ciPOG1bVtKhWhPpwWOGaABafqJyWh8=;Kydz0DnXX4VVF7en90AYCg=="
 ---
 

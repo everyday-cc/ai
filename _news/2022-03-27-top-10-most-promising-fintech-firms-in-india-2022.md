@@ -119,20 +119,6 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 19
-  - title: "Boost, a regional FinTech firm, becomes first fully digital financier to secure investment grade A1 rating in Southeast Asia"
-    excerpt: "Boost looking to tap on burgeoning digital banking ecosystem within the Southeast Asian region A1 rating for its Malaysian securitised receivables cements firm's commitment towards the underserved segment securitizes financing portfolio;"
-    publishedDateTime: 2022-03-22T19:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=634739"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
 
 secured: "svoatVkudb/wnNdxUBP0UnRHDZP+/Qqcaro4CmMisBmNQBKw8ZZKz9dZ9A3PdIwYnV2tzZOjr7hlEQKJjmP2eaXk8GAMOZCDoi9xZLFNxAn71jDF2ecoFmTwQjO19XnoMgrZHo8f004AETj/njs43a0kQfa2zrTxJLPxDfPXM24drDwlbZtZKgwRaxKVwlsZlaIFOhz8FtjBZADBdziwm2mswzMhsrYBhr+MGymxljFA2LdLutzMWxZHg8d8Uh3wHD4/PSWwXXYget/P93w3sUF4cMp5ehXlpyKuTLcZ33yphjSkaqYnEquDzlenhO3FZCViuU9gPH/XpqKoGL4h5V3FrTOLH4XbB8zTANXkCgk=;IeKh8MCGbFnJR4Ec3X0sHA=="
 ---

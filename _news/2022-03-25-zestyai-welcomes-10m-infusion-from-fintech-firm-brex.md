@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/amp/"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -119,20 +119,6 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 19
-  - title: "Boost, a regional FinTech firm, becomes first fully digital financier to secure investment grade A1 rating in Southeast Asia"
-    excerpt: "Boost looking to tap on burgeoning digital banking ecosystem within the Southeast Asian region A1 rating for its Malaysian securitised receivables cements firm's commitment towards the underserved segment securitizes financing portfolio;"
-    publishedDateTime: 2022-03-22T19:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=634739"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
 
 secured: "MbswYZ4AT//7Qu62Ozbl+WK6+MuS+WUmfm8j8r3pMK4wLtwnUWCHbqVni8cFdYrGKUP0sP3AAkt8gI35MNgJfP8uR5tobfh19k7j/ZbbmGCqrr+ftWlLtS8DFUYBQvsayNBkwdtXhEgngI1STnxHwIw1YLmHjh1BY4rHeIdgkt+7EP1xnXAM8qsFgM1FMndh2zreqKB5IGcCbqSGi8NRWAvbYmXsGLrYYItHbe/LA63TODX42I4MSPUS2IMEgScdTnSUORL6uqEEPOAfbockYAR9C0VyS4w85ne2QqXawbmHnqJVIxFwdCqyLdQedpNDWPo9SVVNcEP04Gc1jnLaWUwsZsIdiFyvikjPq8XttpXqoW3PtXxoYfVAalSctx/u1cRkJFH2mJnmZeal+R+ChTpHrAtN8i/i/HArpHNQxaNk1RXOlkjRekx1tfGoxMotGTXSGKqavNzmoc+PcJjS6zn4M5E9Vb+K4JUJceHb0kovBEvPYp89XMJ1qS8ovjuwi66XunN/EtCqRYNdvwAn7w==;8uVIFrNcZMKuRHoRUbBr2w=="
 ---

@@ -61,20 +61,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Nvidia Bolsters Edge AI and Autonomous Robots at GTC 2022"
-    excerpt: "Amid the flood of news coming out of Nvidia’s GPU Technology Conference (GTC) today were  pair of announcements aimed at accelerating the development of"
-    publishedDateTime: 2022-03-22T18:29:00Z
-    webUrl: "https://www.datanami.com/2022/03/22/nvidia-bolsters-edge-ai-and-autonomous-robots-at-gtc-2022/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/Nvidia-Jetson-Orin.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Kroger teams up with Nvidia to build AI lab"
     excerpt: "The Kroger Co. plans to create an artificial intelligence (AI) lab and demonstration center in its Cincinnati headquarters under a collaboration with graphics chip pioneer Nvidia. Santa Clara, Calif.-based Nvidia,"
     publishedDateTime: 2022-03-23T17:48:00Z

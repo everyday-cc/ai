@@ -85,29 +85,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "NVIDIA Launches ‘Hopper’ GPU Architecture, H100 Becomes New AI-focused Flagship"
-    excerpt: "At its latest GTC, NVIDIA takes the veil off of its latest AI-focused GPU architecture. Named after Grace Hopper, 'Hopper' greatly improves performance in key areas over the previous generation, including both with raw compute,"
-    publishedDateTime: 2022-03-22T17:04:00Z
-    webUrl: "https://techgage.com/article/nvidia-launches-hopper-gpu-architecture-with-h100-becoming-new-ai-focused-flagship/"
-    type: article
-    provider:
-      name: Techgage
-      domain: techgage.com
-    quality: 50
-    images:
-      - url: "https://techgage.com/wp-content/uploads/2022/03/NVIDIA-Hopper-Die-Shot-Thumbnail.jpg"
-        width: 800
-        height: 800
-        isCached: true
-  - title: "NVIDIA is turning data centers into 'AI factories' with Hopper GPU"
-    excerpt: "NVIDIA's next-gen Hopper GPU architecture is bringing the AI and Omniverse together, turning data centers into 'AI factories'."
-    publishedDateTime: 2022-03-22T17:20:00Z
-    webUrl: "https://www.tweaktown.com/news/85205/nvidia-is-turning-data-centers-into-ai-factories-with-hopper-gpu/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
 
 secured: "/QM2UUcfA8vSuPk/dY+hG4s181PkUhVmr4L+a2rE3CXHKG/zzQVd1tkXtP27KRXU4Ad5lO9+ETDtmaAB94F5RlpvQds+Zc5jKhnrrPSkAdNxmtnJg78KWPfIJ4MQSgZAA4ECy+Wj1jMKjBF8UGOedBV++6CTvMvXN63aVSTNdQHNLv1S6GltflsohjWZntxSauYQtoLcSKCqzet8GTzIhlpupi6OdzC9dGIV3gbdOVsOQmJltq1GQxXbeEBXhIHwkl15htvlcM0XnyQ0gJevjRpQTgD8HV7fN/BgfbieHvjBU6IHkC/JIBthM/waUkiKTwhfAFuNFRv7TBxJJNwMeW1KFHCu/iSYTBygOOfZ2RMPVTDUay1SN+pqBAOD/8P/j7txbSaqitz+Hc5t+a0xGUAr6a0oNNs3Mh/i8bmotAW2hqgcKMxu3NWxFscm2ruV+ZWxrnriXqUXfGj1Mkt0ljW7Dq7/ULHvHUnARsgZeLtmmVOwMXnKmwPEMAC0GIiRyiCaYWa6MDJXxeUS2SUCYQ==;CiNGf1XHfdJEqJ6L7Hir0g=="
 ---

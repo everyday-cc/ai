@@ -43,49 +43,21 @@ related:
         width: 1200
         height: 604
         isCached: true
-  - title: "NVIDIA's Robotics Platform Got A Job At Amazon"
-    excerpt: "NVIDIA has revealed the latest version of its robotics platform at GTC 2022, a new Jetson module and a robot reference design to showcase it, along with a high-profile partnership that will see Amazon use its technology for warehouse robots."
-    publishedDateTime: 2022-03-22T17:54:00Z
-    webUrl: "https://www.slashgear.com/806644/nvidias-robotics-platform-got-a-job-at-amazon/"
+  - title: "10 Interesting Facts About NVIDIA Hopper H100 GPU"
+    excerpt: "At the Graphics Technology Conference (GTC), NVIDIA unveiled the latest AI accelerator - the H100 Tensor Core GPU. It’s a successor to the wildly successful A100 GPU launched two years ago. With 9X faster AI training and 30X faster inference, it’s more ..."
+    publishedDateTime: 2022-03-27T11:37:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/amp/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.slashgear.com/img/gallery/nvidias-robotics-platform-got-a-job-at-amazon/l-intro-1647967346.jpg"
-        width: 1600
-        height: 898
-        isCached: true
-  - title: "Nvidia unveils a new GPU architecture designed for AI data centers"
-    excerpt: "Nvidia’s H100 GPU is the first in its new family of Hopper processors that the company claims will underpin the world’s fastest supercomputer."
-    publishedDateTime: 2022-03-22T18:15:00Z
-    webUrl: "https://www.networkworld.com/article/3654186/nvidia-unveils-a-new-gpu-architecture-designed-for-ai-data-centers.html"
-    ampWebUrl: "https://www.networkworld.com/article/3654186/nvidia-unveils-a-new-gpu-architecture-designed-for-ai-data-centers.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3654186/nvidia-unveils-a-new-gpu-architecture-designed-for-ai-data-centers.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2022/03/nvidia-hopper-gpu-100922543-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "At GTC: NVIDIA Launches Hopper Architecture and 80-billion Transistor GPU for AI Data Centers"
-    excerpt: "NVIDIA bolstered its “AI data center” technology with the launch of the Hopper architecture for accelerated computing, delivering what the company said is an order of magnitude performance improvement over its predecessor,"
-    publishedDateTime: 2022-03-22T17:24:00Z
-    webUrl: "https://insidehpc.com/2022/03/at-gtc-nvidia-launches-hopper-architecture-and-80-billion-transistor-gpu-for-ai-data-centers/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 45
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
-        width: 500
-        height: 281
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62404bee2e866c2678125ebb/0x0.jpg?format=jpg&width=1200"
+        width: 1138
+        height: 640
         isCached: true
   - title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud"
     excerpt: "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-hardware
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-hardware-architecture-to-transform-data-centers-into-ai-factories/"
 type: article
 quality: 78
-heat: 138
+heat: 118
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "NVIDIA Launches ‘Hopper’ GPU Architecture, H100 Becomes New AI-focused Flagship"
-    excerpt: "At its latest GTC, NVIDIA takes the veil off of its latest AI-focused GPU architecture. Named after Grace Hopper, 'Hopper' greatly improves performance in key areas over the previous generation, including both with raw compute,"
-    publishedDateTime: 2022-03-22T17:04:00Z
-    webUrl: "https://techgage.com/article/nvidia-launches-hopper-gpu-architecture-with-h100-becoming-new-ai-focused-flagship/"
-    type: article
-    provider:
-      name: Techgage
-      domain: techgage.com
-    quality: 50
-    images:
-      - url: "https://techgage.com/wp-content/uploads/2022/03/NVIDIA-Hopper-Die-Shot-Thumbnail.jpg"
-        width: 800
-        height: 800
-        isCached: true
   - title: "Nvidia reveals new Hopper H100 GPU, with 80 billion transistors"
     excerpt: "Nvidia has announced a new GPU based on its upcoming Hopper architecture. The Hopper architecture replaces Ampere, which has more than $10 billion sales to date. The H100 GPU is the first chip based on Hopper,"
     publishedDateTime: 2022-03-23T09:59:00Z
@@ -104,15 +90,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NVIDIA is turning data centers into 'AI factories' with Hopper GPU"
-    excerpt: "NVIDIA's next-gen Hopper GPU architecture is bringing the AI and Omniverse together, turning data centers into 'AI factories'."
-    publishedDateTime: 2022-03-22T17:20:00Z
-    webUrl: "https://www.tweaktown.com/news/85205/nvidia-is-turning-data-centers-into-ai-factories-with-hopper-gpu/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
 
 secured: "311ZJXd682ona4aEaj8nB7c0vlxnQ+G+vC0dTjxc9xKmbrEtpVblNJ2PRNppHdW8KNHReyqKuwtdBi7/vCyCuueRNcC8F52YDBZk7Jm22eTo2d/hgxQnFAY13vWm2hSXdDKC5+DkW3hlfNWjUlOXD/4PmYRRWJk4TTw7JRqgB9jAQF/RtiZSyaj9yy6Xm+M5C3tUe4uqHOYRaXp+axDZl6ramcCQrJKv5ZyZQyt6UIVssOVebEADwnN2/PNE5QJ7Y88zbVoonq9/XY6zChj760+eSUNmuun3tuzsIEaXhC7Dhs7tdOguutG4Moxlw/fBdVapnREHbeCwpfguuUFgGnl//9Mrm6hnOzS6tCfQ8AlrgHBmVwjYZpIoCK/aa1rksIZo7nXKPFdZaToZbghX1V70NIgttXyIgsdkCnd0cMUyyeoqRoztB6jfJoYDU/uiz+BHk/E0PyolQMrudH7A1VCtxpbsGE1r58Y7ZzzOkpslIqo9IZvbd5ENtxA7aWfaye97UyTnKGBf/y03xDiaQg==;TgMII9Dgxi4P29cQBYpTQw=="
 ---

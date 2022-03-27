@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-improves-translat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/"
 type: article
 quality: 117
-heat: 227
+heat: 217
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft improves its AI translations with Z-Code"
-    excerpt: "Microsoft today launched a new set of improved AI translation models that score up to 15 percent better than previous models."
-    publishedDateTime: 2022-03-22T17:18:00Z
-    webUrl: "https://techcrunch.com/2022/03/22/microsoft-improves-its-ai-translations-with-z-code/"
-    ampWebUrl: "https://techcrunch.com/2022/03/22/microsoft-improves-its-ai-translations-with-z-code/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/22/microsoft-improves-its-ai-translations-with-z-code/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 106
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-3163483.jpg?w=1024"
-        width: 1024
-        height: 833
-        isCached: true
   - title: "Microsoft claims new AI model architecture improves language translation"
     excerpt: "Microsoft claims that its new model architecture, Z-code Mixture of Experts (MoE), improves language translation quality."
     publishedDateTime: 2022-03-23T00:00:00Z
