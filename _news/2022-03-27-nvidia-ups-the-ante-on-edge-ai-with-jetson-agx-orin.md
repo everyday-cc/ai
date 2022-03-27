@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 131
 published: true
 
 provider:

@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia Unveils AI Chips and Software, Plus Tools for Creating Virtual Worlds"
-    excerpt: "The chip maker is expanding its focus on artificial-intelligence technlogy, which CEO Jensen Huang says will revolutionize every industry."
-    publishedDateTime: 2022-03-22T23:15:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-price-investor-day-51647905360"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-price-investor-day-51647905360"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-price-investor-day-51647905360"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 71
-    images:
-      - url: "https://images.barrons.com/im-508965/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Josh Brown says Nvidia's potential is 'scary' ahead of a potential AI boom"
     excerpt: "Ritholtz Wealth Management CEO Josh Brown praised chipmaker Nvidia on \"Halftime Report.\""
     publishedDateTime: 2022-03-24T16:07:00Z
@@ -104,6 +88,22 @@ related:
       - url: "https://www.techworm.net/wp-content/uploads/2022/03/1648301970_2022-03-26_1.jpg"
         width: 1366
         height: 768
+        isCached: true
+  - title: "NVIDIA’s Tiny New AI Transforms Photos Into Full 3D Scenes in Mere Seconds"
+    excerpt: "NVIDIA says their 3D scene rendering AI runs up to 1,000 times faster than older models without sacrificing image quality."
+    publishedDateTime: 2022-03-27T16:10:00Z
+    webUrl: "https://singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/"
+    ampWebUrl: "https://singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 57
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/03/nvidia-andy-warhol-tribute-black-sweater-polaroid-camera.jpeg"
+        width: 1068
+        height: 601
         isCached: true
 
 secured: "U7VsKzRFhd/yyl0zsydWLmREX2swGPZkQsigO8lpvRy0iQgKZ1JnrBA/0p/hmcdWW6ZqPBgJLZ/Znsmqc6GoVfgcwCtSL5Ugi+WEjVSuHQvCBBuwvZoG4AkRX880uTbRdDncVKenhD/KdC/DtIOlSXT/0Tk7NDRWMowudiyF6X4a3SJMMxZ5RA559GPTyU6QLAh7xVFcS8iyPwiQQfOaH5TcqD3Zsy705BDIcQoiLpmHbGo4adek7XqWRm7wJ2+b2ovSuE6tKUqCNEdxU/loy/6/d64KFGSctNFyyXD5emMoD57koDzNw5XzhPjdAvVvhyjPbdUJK5kQJdsAdVagm/2LvYlqRlzY7irNFJ740digz7JJK2PJGwUwkHmDZUOGZQdD9gNrF4t7Cht5Nql+EjWdRPWPWMlslxv0fUfxEUIeCiMwe6KsdG6uYaF4u8Ff/DpXoYxCIMj/8BMms0C4oec4YmBw5PZSNMIXtOeap07XzgWjAGYqYUKC00cxHgzeU4kox3+G2HRCgHtblja7Iw==;/X2lj7vDbmbOnp919KPXiw=="

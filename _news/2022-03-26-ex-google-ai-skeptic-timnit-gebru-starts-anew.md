@@ -28,29 +28,29 @@ images:
 
 related:
   - title: "Insider Q&A: Ex-Google AI skeptic Timnit Gebru starts anew"
-    excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence"
-    publishedDateTime: 2022-03-26T10:01:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/insider-qa-google-ai-skeptic-timnit-gebru-starts-83685774"
+    excerpt: "When she co-led Google's Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry's approach to artificial intelligence. That was before Google pushed her out of the company more than a year ago."
+    publishedDateTime: 2022-03-26T10:00:00Z
+    webUrl: "https://apnews.com/79cd13b50b51452d29963490b96815bd"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 39
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
     images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_3aa9eaa491ab41348e46ce734ce58463_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://storage.googleapis.com/afs-prod/media/3aa9eaa491ab41348e46ce734ce58463/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Insider Q&A: Ex-Google AI skeptic Timnit Gebru starts anew"
     excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence."
     publishedDateTime: 2022-03-27T11:53:00Z
-    webUrl: "https://www.bellinghamherald.com/news/business/article259809510.html"
-    ampWebUrl: "https://amp.bellinghamherald.com/news/business/article259809510.html"
-    cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/business/article259809510.html"
+    webUrl: "https://www.mercedsunstar.com/news/business/article259809510.html"
+    ampWebUrl: "https://amp.mercedsunstar.com/news/business/article259809510.html"
+    cdnAmpWebUrl: "https://amp-mercedsunstar-com.cdn.ampproject.org/c/s/amp.mercedsunstar.com/news/business/article259809510.html"
     type: article
     provider:
-      name: The Bellingham Herald
-      domain: bellinghamherald.com
+      name: Merced Sun-Star
+      domain: mercedsunstar.com
     quality: 37
 
 secured: "6mQm7b4dTLESQLnY2q9zuB6883eZcVMvsLMT43tnL2VDMg1wQDIGyAM6H/n1+41K3kOiN/0UoSFu2UHjULflG9AAoT77Vc9ZTLs+uBl0jgcaffJ1iI4OFba1IiV/ygUR45QaPv84msa/tdzrRJruPMw6TNXXMQE7TaQBt1sPWM4GLSxQydQKxQR608bFFcFpcjBeIhuok02Gw/1j4aN+T16HRdu+91GU04GEayp+Kedasj95dgAd+8XN/xW8EB4naI+YWnaPg3uEksDp83HL4ajx19RbkMMMi80ke0+OqPTQIPsdX2Z0NfkJ/5bcOHbU0Bbye7sP7MIUtbVfX3QD6qsG/jJJueoPTVb9ySKwm3E=;mIryY9UghQU5BLadeMGLXw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world/amp/"
 type: article
 quality: 81
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Using AI to communicate in a new world: why it’s so important"
+    excerpt: "In a nutshell, it’s a virtual environment designed to facilitate human interaction. Like in a video game, an avatar serves as a person’s digital representation in the metaverse. Virtual reality headsets are designed to allow users to join a metaverse where they can converse with others no matter where they are physically located."
+    publishedDateTime: 2022-03-27T16:50:00Z
+    webUrl: "https://bestgamingpro.com/using-ai-to-communicate-in-a-new-world-why-its-so-important/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 39
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/03/Languages-in-the-metaverse-Why-AI-is-critical-for-communication-in-the-brave-new-world.png"
+        width: 600
+        height: 350
+        isCached: true
   - title: "THE METAVERSE COURTROOM: Using Virtual Reality, Artificial Intelligence and Sensory Devices to Find Justice"
     excerpt: "It’s 2030 and the new handheld Techsung Global Device 50 (“TGD50”) phone, tablet and laptop battery has a run time of six months between charges. It offers incredible technology except for one thing,"
     publishedDateTime: 2022-03-24T14:41:00Z

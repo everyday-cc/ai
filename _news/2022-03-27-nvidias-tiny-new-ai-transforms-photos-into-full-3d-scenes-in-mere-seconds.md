@@ -1,34 +1,29 @@
 ---
 category: news
-title: "NVIDIA unveils Hopper, its new hardware architecture to transform data centers into AI factories"
-excerpt: "NVIDIA just announced Hopper, a new GPU architecture that promises significant performance improvements for AI workloads. We look under the hood to decipher whether the emphasis on Transformer AI models translates to a radical redesign,"
-publishedDateTime: 2022-03-23T15:36:00Z
-originalUrl: "https://www.zdnet.com/article/nvidia-unveils-new-hardware-architecture-to-transform-data-centers-into-ai-factories/"
-webUrl: "https://www.zdnet.com/article/nvidia-unveils-new-hardware-architecture-to-transform-data-centers-into-ai-factories/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-hardware-architecture-to-transform-data-centers-into-ai-factories/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-hardware-architecture-to-transform-data-centers-into-ai-factories/"
+title: "NVIDIA’s Tiny New AI Transforms Photos Into Full 3D Scenes in Mere Seconds"
+excerpt: "NVIDIA says their 3D scene rendering AI runs up to 1,000 times faster than older models without sacrificing image quality."
+publishedDateTime: 2022-03-27T16:10:00Z
+originalUrl: "https://singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/"
+webUrl: "https://singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/"
+ampWebUrl: "https://singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/?amp=1"
+cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/?amp=1"
 type: article
-quality: 78
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Singularity Hub
+  domain: singularityhub.com
 
 topics:
   - AI Hardware
   - AI
-  - Natural Language Processing
 
 images:
-  - url: "https://www.zdnet.com/a/img/resize/9df28300b54ac5cbaa088fa676f6f9ec7b1b50c9/2022/03/23/aed48689-ecfd-4fc6-a061-5968ab353f5d/hopper-arch-h100-die-image.png?width=1200&fit=bounds&format=pjpg&auto=webp"
-    width: 1200
-    height: 675
+  - url: "https://singularityhub.com/wp-content/uploads/2022/03/nvidia-andy-warhol-tribute-black-sweater-polaroid-camera.jpeg"
+    width: 1068
+    height: 601
     isCached: true
 
 related:
@@ -45,6 +40,22 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/671704/nvidia-hopper-architecture-h100-sxm.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "NVIDIA unveils Hopper, its new hardware architecture to transform data centers into AI factories"
+    excerpt: "NVIDIA just announced Hopper, a new GPU architecture that promises significant performance improvements for AI workloads. We look under the hood to decipher whether the emphasis on Transformer AI models translates to a radical redesign,"
+    publishedDateTime: 2022-03-23T15:36:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-unveils-new-hardware-architecture-to-transform-data-centers-into-ai-factories/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-hardware-architecture-to-transform-data-centers-into-ai-factories/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-hardware-architecture-to-transform-data-centers-into-ai-factories/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 78
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/9df28300b54ac5cbaa088fa676f6f9ec7b1b50c9/2022/03/23/aed48689-ecfd-4fc6-a061-5968ab353f5d/hopper-arch-h100-die-image.png?width=1200&fit=bounds&format=pjpg&auto=webp"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Nvidia’s latest AI wizardry turns 2D photos into 3D scenes in milliseconds"
     excerpt: "Writer at Neural by TNW — Thomas covers AI in all its iterations ... The company ended a week that introduced a new enterprise GPU and an Arm-based “superchip” with a trademark flashy ..."
@@ -90,23 +101,7 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "NVIDIA’s Tiny New AI Transforms Photos Into Full 3D Scenes in Mere Seconds"
-    excerpt: "NVIDIA says their 3D scene rendering AI runs up to 1,000 times faster than older models without sacrificing image quality."
-    publishedDateTime: 2022-03-27T16:10:00Z
-    webUrl: "https://singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/"
-    ampWebUrl: "https://singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 57
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/03/nvidia-andy-warhol-tribute-black-sweater-polaroid-camera.jpeg"
-        width: 1068
-        height: 601
-        isCached: true
 
-secured: "311ZJXd682ona4aEaj8nB7c0vlxnQ+G+vC0dTjxc9xKmbrEtpVblNJ2PRNppHdW8KNHReyqKuwtdBi7/vCyCuueRNcC8F52YDBZk7Jm22eTo2d/hgxQnFAY13vWm2hSXdDKC5+DkW3hlfNWjUlOXD/4PmYRRWJk4TTw7JRqgB9jAQF/RtiZSyaj9yy6Xm+M5C3tUe4uqHOYRaXp+axDZl6ramcCQrJKv5ZyZQyt6UIVssOVebEADwnN2/PNE5QJ7Y88zbVoonq9/XY6zChj760+eSUNmuun3tuzsIEaXhC7Dhs7tdOguutG4Moxlw/fBdVapnREHbeCwpfguuUFgGnl//9Mrm6hnOzS6tCfQ8AlrgHBmVwjYZpIoCK/aa1rksIZo7nXKPFdZaToZbghX1V70NIgttXyIgsdkCnd0cMUyyeoqRoztB6jfJoYDU/uiz+BHk/E0PyolQMrudH7A1VCtxpbsGE1r58Y7ZzzOkpslIqo9IZvbd5ENtxA7aWfaye97UyTnKGBf/y03xDiaQg==;TgMII9Dgxi4P29cQBYpTQw=="
+secured: "W6Ezb+k2bZfUl+Psdhj8CV2fa2c2g16MaUS4cmt2GhdmtJqcxiYTdzkFz41zPMAwb004V6T9wuejqBvWdD+QhZwzQujQfjBCNjOgPLnbKRecbTM+jbjXVz84GxDUpyCMpZ/YSI+YgQ3MitLuKZlpL1Dm9vFfDWBOHYq8QL3Ssp6Qnl7ZMzOhJDb7xlTHMroVCm8c3y6iCukV+/6LPyGq2YBVH/AHMoENFQy4Qv1VS1Py1oXsrC6VYQ8UFlKzoGNpgGk10eQxAZkItU5vTAfbWdsEAcg09Ihm5ohYSLXAAm7LLMzLvUi1jIIo39Gw5d1mrKkcc7zrjvssklmYwqEpgqdUE6Pym+Dvx7ouH9U7REM=;6LWCsJQ/Bj//9OLMa8RHcw=="
 ---
 

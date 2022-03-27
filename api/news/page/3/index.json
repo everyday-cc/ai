@@ -452,21 +452,21 @@
       ]
     },
     {
-      "path": "_news/2022-03-23-microsoft-nvidia-extend-azure-confidential-computing-to-gpus.md",
-      "title": "Microsoft, Nvidia extend Azure confidential computing to GPUs",
-      "excerpt": "Microsoft has linked up with Nvidia to enable confidential computing in its Azure cloud to encompass the graphics giant's GPUs. This will allow GPUs to process workloads on Azure that call for the highest level of protection,",
+      "path": "_news/2022-03-23-microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure.md",
+      "title": "Microsoft continues its push to convince more game developers to use Azure",
+      "excerpt": "Microsoft is targeting game developers with a new Game Development Virtual Machine and its ID@Azure program, which is generally available as of today.",
       "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/03/23/microsoft_and_nvidia_extend_azure/",
-      "originalUrl": "https://www.theregister.com/2022/03/23/microsoft_and_nvidia_extend_azure/",
+      "webUrl": "https://www.zdnet.com/article/microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 182,
       "tags": null,
       "images": [
         {
-          "url": "https://regmedia.co.uk/2021/05/25/azure.jpg",
-          "width": 1000,
-          "height": 666,
+          "url": "https://www.zdnet.com/a/img/resize/45b4e96e6d7f77ec3908f32d51722ee3ca4d3a17/2022/03/22/a4f977f6-3561-4d80-bea7-bd0d86039d14/microsoftgamedevtoolsazure.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 585,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -474,14 +474,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/23/microsoft_and_nvidia_extend_azure/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/23/microsoft_and_nvidia_extend_azure/",
-      "publishedDateTime": "2022-03-23T08:06:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure/",
+      "publishedDateTime": "2022-03-23T08:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

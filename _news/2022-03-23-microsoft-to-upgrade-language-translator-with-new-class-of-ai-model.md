@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft claims new AI model architecture improves language translation"
-    excerpt: "Microsoft claims that its new model architecture, Z-code Mixture of Experts (MoE), improves language translation quality."
-    publishedDateTime: 2022-03-23T00:00:00Z
-    webUrl: "https://venturebeat.com/2022/03/22/microsoft-claims-new-ai-model-architecture-improves-language-translation/"
-    ampWebUrl: "https://venturebeat.com/2022/03/22/microsoft-claims-new-ai-model-architecture-improves-language-translation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/microsoft-claims-new-ai-model-architecture-improves-language-translation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 105
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Microsoft continues its push to convince more game developers to use Azure"
     excerpt: "Microsoft is targeting game developers with a new Game Development Virtual Machine and its ID@Azure program, which is generally available as of today."
     publishedDateTime: 2022-03-23T15:15:00Z
@@ -90,6 +74,22 @@ related:
         width: 610
         height: 344
         isCached: true
+  - title: "Microsoft, Nvidia extend Azure confidential computing to GPUs"
+    excerpt: "Microsoft has linked up with Nvidia to enable confidential computing in its Azure cloud to encompass the graphics giant's GPUs. This will allow GPUs to process workloads on Azure that call for the highest level of protection,"
+    publishedDateTime: 2022-03-23T15:06:00Z
+    webUrl: "https://www.theregister.com/2022/03/23/microsoft_and_nvidia_extend_azure/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/03/23/microsoft_and_nvidia_extend_azure/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/23/microsoft_and_nvidia_extend_azure/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 74
+    images:
+      - url: "https://regmedia.co.uk/2021/05/25/azure.jpg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "Newgen Utilizes Microsoft Azure Applied AI Services for Enhanced Automation"
     excerpt: "Newgen Software, a global provider of low code digital transformation platform, is pleased to announce integration with Microsoft Azure Applied AI Services for enhanced automation, and support for Azure Form Recognizer for intelligent document processing."
     publishedDateTime: 2022-03-24T22:51:00Z
@@ -118,35 +118,19 @@ related:
         width: 620
         height: 474
         isCached: true
-  - title: "Baker Hughes Expanding Industrial Cloud-based Solutions with Microsoft, C3.ai"
-    excerpt: "Oilfield services (OFS) giant Baker Hughes Co. is partnering with Microsoft Corp., as well as C3.ai Inc. and Accenture plc, to deploy industrial asset"
-    publishedDateTime: 2022-03-25T19:15:00Z
-    webUrl: "https://www.naturalgasintel.com/baker-hughes-expanding-industrial-cloud-based-solutions-with-microsoft-c3-ai/"
+  - title: "Microsoft and Nvidia to bring end-to-end protected GPUs to Azure"
+    excerpt: "Microsoft is working with Nvidia to bring confidential computing to Nvidia GPUs in the cloud; an addition to the protected CPUs already available."
+    publishedDateTime: 2022-03-23T10:33:00Z
+    webUrl: "https://www.computing.co.uk/news/4047082/microsoft-nvidia-bring-end-end-protected-gpus-azure"
     type: article
     provider:
-      name: Natural Gas Intel
-      domain: naturalgasintel.com
-    quality: 51
+      name: Computing
+      domain: computing.co.uk
+    quality: 54
     images:
-      - url: "https://www.naturalgasintel.com/wp-content/uploads/2022/03/Microsoft-Corp-20220324.jpg"
-        width: 612
-        height: 612
-        isCached: true
-  - title: "Microsoft’s FocalNets Replace ViTs’ Self-Attention With Focal Modulation to Improve Visual Modelling"
-    excerpt: "In the five years since their introduction, transformer architectures have come to dominate the natural language processing research field. Recently, vision transformers (ViT) have also demonstrated their power and potential across a wide range of computer vision tasks."
-    publishedDateTime: 2022-03-25T13:52:00Z
-    webUrl: "https://syncedreview.com/2022/03/25/microsofts-focalnets-replace-vits-self-attention-with-focal-modulation-to-improve-visual-modelling/"
-    ampWebUrl: "https://syncedreview.com/2022/03/25/microsofts-focalnets-replace-vits-self-attention-with-focal-modulation-to-improve-visual-modelling/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/03/25/microsofts-focalnets-replace-vits-self-attention-with-focal-modulation-to-improve-visual-modelling/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 46
-    images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2022/03/image-88.png?resize=790%2C313&ssl=1"
-        width: 790
-        height: 313
+      - url: "https://image.chitra.live/api/v1/wps/3a801bd/65d4a20b-dc59-42ef-aef3-e69d0d42fa60/3/nvidia-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
   - title: "ThetaRay Transaction Monitoring Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to the SONAR AML solution to take advantage of the scalability, reliability and agility of Azure. NEW YORK and TEL AVIV, Israel"

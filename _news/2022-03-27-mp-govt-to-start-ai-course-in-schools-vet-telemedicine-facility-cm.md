@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/current-affairs/mp-gov
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm-122032700740_1.html"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     height: 464
     isCached: true
 
-secured: "bJpjpjIWEGY4l46KjTxi1FLuY1rJJ0pZYzuJosR2EQx4CgqXKn6qX0j7u9v21bJF3tVVbnbsn80MZMshJCUd0I9PeEsYgCGtnJD1bogT0lEsNB5fBibTA/5QRnXtvosb9/zGS8uCCGxxseisT+yaQ31vuKA1O3e+gNpUzZ9lvhO0n6DpteDR8gHutSOwvZ0bm5bOC0VIAL+O5+x8PU6tzFoopb9m4tO1JFFx9iedPMgmuBwuTONdn+AP2K15+KSyFa8KPZGHAWinvIhad2faXoSm4vGi+MpFC2QzHCGgAnGNUXMUxyL/cstQ/hvgK/pTw9M+rma5YQ8JEk06N5daEQ3CIvGzv0mRElbeEaAsDHI=;a5CFcjEB/BKz6YazzYrasg=="
+related:
+  - title: "Madhya Pradesh: State to start AI course in schools and vet telemedicine facility, says Shivraj Singh Chouhan"
+    excerpt: "The government will launch a veterinary telemedicine facility so that livestock keepers can get advice on the phone regarding diseases of cows and other animals"
+    publishedDateTime: 2022-03-27T16:06:00Z
+    webUrl: "https://www.firstpost.com/india/madhya-pradesh-state-to-start-ai-course-in-schools-and-vet-telemedicine-facility-says-shivraj-singh-chouhan-10493531.html"
+    ampWebUrl: "https://www.firstpost.com/india/madhya-pradesh-state-to-start-ai-course-in-schools-and-vet-telemedicine-facility-says-shivraj-singh-chouhan-10493531.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/india/madhya-pradesh-state-to-start-ai-course-in-schools-and-vet-telemedicine-facility-says-shivraj-singh-chouhan-10493531.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 38
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2020/07/shivraj-singh-chouhan1-PTI.jpg"
+        width: 640
+        height: 362
+        isCached: true
+
+secured: "B1AjDk/6EO+LL3YEyg9Du7FSCKfRZ1dmm+HWmmJFahmdT8HeN+YMdylmHzS57vtkTrIp1z7yGtyFFbD202AGOK3zAGBgIHKXVupEBDf8BoF6eTwh1D0NUUNmI0qaK3znwsVHfwO1f4bCcDT5wmP/CKvq8tLaCmX6PYjfuVODn9JTrKjUWNL/LKQUjrQe963cAON8MhyQzZ3OlrGhjib/XrjTmZ+jtHh+RGWjqmk6jeO7NtvEOOWIDs1hnwOpKPZyPq/GQmwye4wSao82kNeg0z9AJyzjds2gXy4XPOb+rDzmoPBPWbKyy85/SrAnXcDCb55h2qa/4q+yeBsjE61fm5SHb/zmDN39eVssKUlbupAnGahgo0yG8Sn68ALYg2LYce+lMnNIuhx9YjYUeb43dm0a9BUuYKFMRZHYynY4RO72Rk/QNbMGLV6zoZuDXKtb+yajmL0BWqqgy53LGefL5Z6HAWN78ffn9Rhyz3u4LZZuwo9CvSE5PMt6lp/Tt1jdkCsVPQhduRqYnzN7waNI/g==;olDGZkDgw6vutV2l0oI0wg=="
 ---
 

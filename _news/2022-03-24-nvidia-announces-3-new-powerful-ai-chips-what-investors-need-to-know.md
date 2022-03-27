@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia Unveils AI Chips and Software, Plus Tools for Creating Virtual Worlds"
-    excerpt: "The chip maker is expanding its focus on artificial-intelligence technlogy, which CEO Jensen Huang says will revolutionize every industry."
-    publishedDateTime: 2022-03-22T23:15:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-price-investor-day-51647905360"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-price-investor-day-51647905360"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-price-investor-day-51647905360"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 71
-    images:
-      - url: "https://images.barrons.com/im-508965/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Nvidia’s latest AI wizardry turns 2D photos into 3D scenes in milliseconds"
     excerpt: "Writer at Neural by TNW — Thomas covers AI in all its iterations ... The company ended a week that introduced a new enterprise GPU and an Arm-based “superchip” with a trademark flashy ..."
     publishedDateTime: 2022-03-25T13:18:00Z
@@ -104,6 +88,22 @@ related:
       - url: "https://www.techworm.net/wp-content/uploads/2022/03/1648301970_2022-03-26_1.jpg"
         width: 1366
         height: 768
+        isCached: true
+  - title: "NVIDIA’s Tiny New AI Transforms Photos Into Full 3D Scenes in Mere Seconds"
+    excerpt: "NVIDIA says their 3D scene rendering AI runs up to 1,000 times faster than older models without sacrificing image quality."
+    publishedDateTime: 2022-03-27T16:10:00Z
+    webUrl: "https://singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/"
+    ampWebUrl: "https://singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 57
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/03/nvidia-andy-warhol-tribute-black-sweater-polaroid-camera.jpeg"
+        width: 1068
+        height: 601
         isCached: true
 
 secured: "SCfZCjSpo3kD21VR6SQX0Jg5/9omdB3UdmHw7FyctYX9TR14kLofcBXp2QRMxwr/aRGwnLbAdn7+Ric17wX57lU/lmSYEceCazezETpVu/B12rnIKqvQE4Jw7lweMBxXthmthbxwiBAk+OGgFwdtVLHCQu1sW6wemLiTvisoxh/QtPaiL1HnpZwF6zvrVz8ZFyl4rqGBYOBdyKB/PYtKsSlBTCtV/ToNKqT18LIS13RDLl/592s7KT603VrVQnye6aiPm1vHOHz4onHQ+qDW57G3ZOvPLtgjkDCoh59Z0koWhYLMXuHnlUhN+Mf389favfErC5IYNtqfTZp+BwfQVaCY+PIdTONn7KjwJ9oJS18rSRCgAjA36p7zzdZNK6ne3NfWVPhf9gzZfcSPeKLjE9fwfAhnyINhJ+EpVECJQvX13+qeoZz7tzWsgvNISvXFu/Ymb7BJKv/JvgXs3o97NYQv9ic30WaBVREwVJMjReZl10FyvUZvXOHMLy/tMMrMjbUAFsR9juwrO5BWCK0fOg==;Pyhvtk7cXGiEhCodCOZALA=="
