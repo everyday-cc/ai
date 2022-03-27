@@ -30,16 +30,16 @@ related:
   - title: "Insider Q&A: Ex-Google AI skeptic Timnit Gebru starts anew"
     excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence. That was before Google pushed"
     publishedDateTime: 2022-03-26T18:16:00Z
-    webUrl: "https://www.everythinglubbock.com/news/business/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/"
-    ampWebUrl: "https://www.everythinglubbock.com/news/business/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/amp/"
-    cdnAmpWebUrl: "https://www-everythinglubbock-com.cdn.ampproject.org/c/s/www.everythinglubbock.com/news/business/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/amp/"
+    webUrl: "https://www.localsyr.com/news/national/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/"
+    ampWebUrl: "https://www.localsyr.com/news/national/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/amp/"
+    cdnAmpWebUrl: "https://www-localsyr-com.cdn.ampproject.org/c/s/www.localsyr.com/news/national/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/amp/"
     type: article
     provider:
-      name: Everything Lubbock
-      domain: everythinglubbock.com
-    quality: 57
+      name: LocalSYR
+      domain: localsyr.com
+    quality: 59
     images:
-      - url: "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2022/03/ecb7809fcc5d4192bbdd2504273c77bf.jpg?w=1280"
+      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2022/03/ecb7809fcc5d4192bbdd2504273c77bf.jpg?w=1280"
         width: 1280
         height: 853
         isCached: true

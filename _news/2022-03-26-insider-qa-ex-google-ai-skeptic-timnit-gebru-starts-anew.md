@@ -43,20 +43,20 @@ related:
   - title: "Insider Q&A: Ex-Google AI skeptic Timnit Gebru starts anew"
     excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence. That was before Google pushed"
     publishedDateTime: 2022-03-26T18:16:00Z
-    webUrl: "https://www.everythinglubbock.com/news/business/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/"
-    ampWebUrl: "https://www.everythinglubbock.com/news/business/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/amp/"
-    cdnAmpWebUrl: "https://www-everythinglubbock-com.cdn.ampproject.org/c/s/www.everythinglubbock.com/news/business/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/amp/"
+    webUrl: "https://www.localsyr.com/news/national/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/"
+    ampWebUrl: "https://www.localsyr.com/news/national/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/amp/"
+    cdnAmpWebUrl: "https://www-localsyr-com.cdn.ampproject.org/c/s/www.localsyr.com/news/national/insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew/amp/"
     type: article
     provider:
-      name: Everything Lubbock
-      domain: everythinglubbock.com
-    quality: 57
+      name: LocalSYR
+      domain: localsyr.com
+    quality: 59
     images:
-      - url: "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2022/03/ecb7809fcc5d4192bbdd2504273c77bf.jpg?w=1280"
+      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2022/03/ecb7809fcc5d4192bbdd2504273c77bf.jpg?w=1280"
         width: 1280
         height: 853
         isCached: true
 
-secured: "hPzd/DFrbb3kr0YkVcJxF2HygewJmAmIfXjC/uc8IGE4j+XK3RVEk69UBu/ZII2qA27AmHCo2ALhPqlTCOHWp2KP7z088AcN4ZVUPcZxi6L6MBVbz0Xa/m8tuhs7BdL77xBiQ9OBhbFfT/ZzrNdLWeT84+eUB0JtrF6EdYJbTs+Om278UHg30ZOwm0Pci9CUuMJPDl8kyayZEwgd72yNPDZGR55ZXK4etqdonthlVQGhUQa8lTLjtGvgg6TEitzwQGLlYVQpkkvLFwOPFXuS0v74PJsCImvI3cm1PUqKYuZg3rddyCoq9iehzGgUrJS1AV0+26EL5GR6LFTrSRl1Sdsz3kp5sAX3SQF9ceD0G8U=;w/ePSKh8QSPS3uoh4k0HGQ=="
+secured: "GF0DGa4othbf0ZjRvODg5DZqN8S572vVEMrkn0ZZhSDBK0LkmoxioOrcfc5tOqcfBbu5IMdwLyLaNXIrXOCD3gfNJ2O6uRbq+CCTCn6atKOcJ3nd+ncAnYAuIrPdDeYlcXwNn6bilKO1fOKWdYetsUdu6r92z58HqKF2V+gN4sN1QiPWmOkHBDkpUErQIvkMkikl23Bu48/q8k7ncELt/5NUqhXbSRjEl4SutxmiTOZpqxn1ZulrsQNfWLdJz/RbwWsI6oTjABmjctO5CO0UakX0mOeH7hKUIYDj1Tk2k51QRxp3nsVCP0pnM15Yh077xzFUOwjBlLd6X2uzLvXCtM8DqgivjTOC9qJ8jAhMGUREhfWXGFw1KG2qVRc9tIayHonKBDTSXpq4hT4ym6SanwtBgqZUHw7sX16sRY91MR39tnkDwYOxcJKq5Svr1UWdyPZtLNtx6cGPmPi6g9XO1E/78Xes8L9K3CguhIvPI2GtXK6vVAiL7z5Kli+Ro/4ztfHC0Pto4evKNVAdw7R3Tw==;XCL/21DMAExT5qJ6hvhpVg=="
 ---
 
