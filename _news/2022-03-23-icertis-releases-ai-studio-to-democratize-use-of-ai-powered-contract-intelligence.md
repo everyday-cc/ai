@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
-excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),"
-publishedDateTime: 2022-03-23T10:10:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
+excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),"
+publishedDateTime: 2022-03-23T10:05:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
 type: article
-quality: 34
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
-  - AI in Autos
+  - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Diversity Is Key To The Future Of AI"
@@ -127,16 +121,7 @@ related:
         width: 300
         height: 241
         isCached: true
-  - title: "Back to the future: driverless cars become reality"
-    excerpt: "One industry insider said the relaxed rules in US states including California and Nevada, which was the first to allow driverless cars on its roads in 2011, has also played an important role in propelling the growth of domestic players."
-    publishedDateTime: 2022-03-22T19:10:00Z
-    webUrl: "https://www.ft.com/content/464c32a1-e0b7-4b55-b7fc-3f5e2873a6b9"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
 
-secured: "4FYhciGGFZ0z3yRqJd4NniR4X2wDnH2QmNrWs7vfU+ZYpD4cVl0UmSRO3gPdSMXqE7eC7MkZncMSuBwq6eJ3uoemKB9uAQbnCaVIX9Cwl8/u9P1stC2pxH0DjQM3/1Lpwef2krUg1cggARFWF9k+8X7uM/UtvmW6JdFplFm1avCFL+OshTXJ4Zn/abSjwA2890kwQYxJoAF2qM28sax6REdAZ1cvYcCMdcuh8PJvuKQ0oxL5yxWc51fZXAMpaivjsZc9qIEtxMMSFwoRIhSK0nIwtovFlW3KdVHG3ZraztOEuHR8BtLA3O3CrDSk78z/XodtpTaTPUZxh4oinp4RwXBsApZ/HuU/ft1K1uOw6K4=;JYcmdH/FlnlgaARxSGL+YA=="
+secured: "x/v8a1MQ79bGzbp4SNNX9japYhrOcIWW6Pcmv1yQQNW3INihToBVTRd0wATvbtoX4CpIYgGhNLLcXI9JIT7F66J02r09rcSDTMLXSf9MpCMXHm7Gn3Iiz+x9AMQ0mYFeeRGvFSHGvrG6rrjnKGhMQmKN4sZ59u+5P7bB0gYtJsa5R2Q9/LgFuGMnjQucM2Gd1nHqaRRM/bcNnRMqZMm28dPUZPVIwD+nEvsfjzaj4qEJ39nkoAEVC3FkY2Ie+uYmJMIVVPt9xswuvTL5mmXjF9Xq4CkQBgbaDGzqgwPP16JJ4n7L+dRFX2fhinhSFuZT8wXJGOKz5kh6efzaA6bE4MA6U/J1y9A8QL19lqYdCNw=;T3Q0iL3BE8elh0/ZQgD2qQ=="
 ---
 

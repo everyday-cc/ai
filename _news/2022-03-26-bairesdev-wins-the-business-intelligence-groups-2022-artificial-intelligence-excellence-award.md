@@ -1,26 +1,27 @@
 ---
 category: news
-title: "BairesDev wins the Business Intelligence Group’s 2022 Artificial Intelligence Excellence Award"
-excerpt: "The award recognizes BairesDev’s AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
-publishedDateTime: 2022-03-25T17:18:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
+title: "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award"
+excerpt: "The Business Intelligence Grouptm today announced that BairesDev, a leading technology solutions company, is a winner in its Artificial Intelligence (AI) Excellence Awards program. The award highlights the company's efforts to build new tools,"
+publishedDateTime: 2022-03-25T17:31:00Z
+originalUrl: "https://www.lelezard.com/en/news-20305538.html"
+webUrl: "https://www.lelezard.com/en/news-20305538.html"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -52,6 +53,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Qlik’s Elif Tutuk Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Elif Tutuk, Vice President of Innovation and Design at Qlik®, was named a winner in its"
+    publishedDateTime: 2022-03-24T12:31:00Z
+    webUrl: "https://www.kentuckytoday.com/news/business/qlik-s-elif-tutuk-named-winner-in-2022-artificial-intelligence-excellence-awards/article_ffd0e99d-89bd-5ce3-b8d9-e08e8628db8e.html"
+    type: article
+    provider:
+      name: Kentucky Today
+      domain: kentuckytoday.com
+    quality: 34
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
     excerpt: "Artificial Intelligence Excellence Award. EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligen"
     publishedDateTime: 2022-03-25T15:09:00Z
@@ -62,6 +77,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "/0NXXxqbS+fqk5kLjSZu9SgM6ctEoH/f2LFcOiYPO4getm4FDOGweEGduMezC5qoybgwEkrlxxCpytGalBzSsBn7kqhouYqH1MHbENyQV8+uThE4s9O/JQuVhAS+pm7LqLlXezEJF3whMf2OW5jtJdRvQFATfuoHw+lpZ+cAuVxinPL4a3dbMTgC7L4gtcQi6GjzCht1msYkHtBXP2GqiHvpyO7SPevoKDF8c3iBHZBZj6V7UnmG5xODaW6pn2aRK7GthfTplx6bIuCrocbaypTp5eVrjaHz1R6d+Eht/0iJUX64O/xet7pO0GkAuGnLEiT5r+GnrEZ+EVduASyUxO+8oqSHh0jopOwgZhWY3dQ=;SqZc25oatDIJ8esDEPXtbg=="
+secured: "npqkhtNtLxep2XEUKQDtsEj3AGO/o9pxWI/YsIHHB4hoAjM+QKNaCO42bW51bl/I3gUtpgalV43HluZ7+s0xXjbUdD3EUkDZXqSSzFtpzeMSSEfLS8g/yi3q2sBJABNU/Os+ZkNa2IbEk385x4gd05SUzfJgbn/FUjuBNMpB6dE1RMuj31uIiaW76tw7uGt9xZ8heSHUXdJh/+oDCfq+qfqkmspQ5b/F95w5nKR8Pgkvv9V0tp651fN36/FHH1OJlPkGwlXnoG53NL37P9ro+1eLWiERGUr6lNzMwYyMBuaN7B+hopKGTQCVUJdhebFmjgj7u4gvkQEk62c86ocdzIhZvkWekFx1KYhLp3U9nDk=;oKLoWqsKu6yHQVInYOtzJQ=="
 ---
 

@@ -2,6 +2,195 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-03-16-gene-therapy-global-market-report-2022.md",
+      "title": "Gene Therapy Global Market Report 2022",
+      "excerpt": "IS YOUR LUCKY DAY] For only $7, get 2 bear market beating options trade straight to your inbox and SMS every month! Click Here Now to Get Started! New York, March 16, 2022 (GLOBE NEWSWIRE) -- Reportlinker.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/03/g26165499/gene-therapy-global-market-report-2022",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/g26165499/gene-therapy-global-market-report-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26165499",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26165499",
+      "publishedDateTime": "2022-03-16T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-ai-startup-modern-intelligence-raises-5m-to-launch-innovative-maritime-surveillance-ai.md",
+      "title": "AI Startup Modern Intelligence Raises $5M to Launch Innovative Maritime Surveillance AI",
+      "excerpt": "Cutlass offers new standard in defense, unmatched accuracy and resilience; deployment on existing military platformAUSTIN, Texas, March 16, 2022",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-startup-modern-intelligence-raises-5m-to-launch-innovative-maritime-surveillance-ai-1031285168",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-startup-modern-intelligence-raises-5m-to-launch-innovative-maritime-surveillance-ai-1031285168",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1767450/Modern_Intelligence_Team.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-self-driving-lab-speeds-up-research-synthesis-of-energy-materials.md",
+      "title": "'Self-driving' lab speeds up research, synthesis of energy materials",
+      "excerpt": "Researchers from North Carolina State University and the University at Buffalo have developed and demonstrated a \"self-driving lab\" that uses artificial intelligence (AI) and fluidic systems to advance our understanding of metal halide perovskite (MHP) nanocrystals.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-03-self-driving-lab-synthesis-energy-materials.html",
+      "originalUrl": "https://phys.org/news/2022-03-self-driving-lab-synthesis-energy-materials.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/self-driving-lab-speed.jpg",
+          "width": 1776,
+          "height": 1775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-03-self-driving-lab-synthesis-energy-materials.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-03-self-driving-lab-synthesis-energy-materials.amp",
+      "publishedDateTime": "2022-03-16T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-seattle-computer-vision-startup-led-by-former-hololens-scientist-lands-34m.md",
+      "title": "Seattle computer vision startup led by former HoloLens scientist lands $3.4M",
+      "excerpt": "The tech: The Seattle startup’s computer vision technology can analyze complex manual steps, offer alerts when mistakes happen, and measure the amount of time spent on each step in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/seattle-computer-vision-startup-led-by-former-hololens-scientist-lands-3-4m/",
+      "originalUrl": "https://www.geekwire.com/2022/seattle-computer-vision-startup-led-by-former-hololens-scientist-lands-3-4m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Fy3z8ATGwck/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2022/seattle-computer-vision-startup-led-by-former-hololens-scientist-lands-3-4m/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/seattle-computer-vision-startup-led-by-former-hololens-scientist-lands-3-4m/amp/",
+      "publishedDateTime": "2022-03-16T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-visionifyais-computer-vision-technology-to-propel-general-shales-brick-inspection-process-on-manufacturing-line.md",
       "title": "Visionify.ai's Computer Vision Technology to Propel General Shale's Brick Inspection Process on Manufacturing Line",
       "excerpt": "Visionify.ai, a computer vision technology company that provides turnkey solutions to its customers, today announced it is now a solutions provider for one of General Shale's brick plants. General Shale's family of brands manufacture and supplies high-quality thin bricks for residential and commercial construction.",
@@ -903,178 +1092,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-healthcare-artificial-intelligence-market-to-eyewitness-massive-growth-by-2026-nvidia-next-it-ibm-watson-health.md",
-      "title": "Healthcare Artificial Intelligence Market to Eyewitness Massive Growth by 2026 | NVIDIA, Next IT, IBM Watson Health",
-      "excerpt": "The Latest research study released by Market Intellix “Healthcare Artificial Intelligence (AI) market” with 100+ pages of analysis on business",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-to-eyewitness-massive-growth-by-2026-nvidia-next-it-ibm-watson-health",
-      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-to-eyewitness-massive-growth-by-2026-nvidia-next-it-ibm-watson-health",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-robotics-trailblazer-dominik-boesl-joins-micropsi-industries-as-managing-director.md",
-      "title": "Robotics Trailblazer Dominik Boesl Joins Micropsi Industries as Managing Director",
-      "excerpt": "Boesl to leverage 22+ years in robotics and artificial intelligence (AI) to lead product development of ready-to-use and proven MIRAI robot control system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/march-2022/robotics-trailblazer-dominik-boesl-joins-micropsi? Control News & Articles",
-      "originalUrl": "https://www.automation.com/en-us/articles/march-2022/robotics-trailblazer-dominik-boesl-joins-micropsi? Control News & Articles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/30b78daa-fac0-4304-a31d-fcabe86e68ec/Micropsi-news-March-15-2022-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-auto-nation-how-startup-founders-are-using-ai-to-boost-growth.md",
-      "title": "Auto Nation: How startup founders are using AI to boost growth",
-      "excerpt": "CEO of Addition Finance Graham Davies explains how automation can help startups create scalable processes and promote growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.angelinvestmentnetwork.net/startup-founders-using-ai-to-boost-growth/",
-      "originalUrl": "https://www.angelinvestmentnetwork.net/startup-founders-using-ai-to-boost-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.angelinvestmentnetwork.net/wp-content/uploads/Frame-12.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Angel Investment Network Blog",
-        "domain": "angelinvestmentnetwork.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-how-language-software-can-strengthen-our-cyberdefenses.md",
-      "title": "How Language Software Can Strengthen Our Cyberdefenses",
-      "excerpt": "Software that understands human speech and writing is increasingly being used to fend off hackers, but experts disagree over the value of this tactic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lifewire.com/how-language-software-can-strengthen-our-cyberdefenses-5222302",
-      "originalUrl": "https://www.lifewire.com/how-language-software-can-strengthen-our-cyberdefenses-5222302",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lifewire.com/thmb/TMkgBeYRwXaOy5HJ9uEUe0ReLlw=/732x477/filters:fill(auto,1)/GettyImages-504662110-7431e8558f734ad0af3848368c98b584.jpg",
-          "width": 732,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lifewire",
-        "domain": "lifewire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

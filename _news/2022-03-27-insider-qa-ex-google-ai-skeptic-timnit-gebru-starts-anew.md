@@ -2,19 +2,19 @@
 category: news
 title: "Insider Q&A: Ex-Google AI skeptic Timnit Gebru starts anew"
 excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence."
-publishedDateTime: 2022-03-27T00:50:00Z
-originalUrl: "https://www.kansascity.com/news/business/national-international/article259809510.html"
-webUrl: "https://www.kansascity.com/news/business/national-international/article259809510.html"
-ampWebUrl: "https://amp.kansascity.com/news/business/national-international/article259809510.html"
-cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/business/national-international/article259809510.html"
+publishedDateTime: 2022-03-27T11:53:00Z
+originalUrl: "https://www.mercedsunstar.com/news/business/article259809510.html"
+webUrl: "https://www.mercedsunstar.com/news/business/article259809510.html"
+ampWebUrl: "https://amp.mercedsunstar.com/news/business/article259809510.html"
+cdnAmpWebUrl: "https://amp-mercedsunstar-com.cdn.ampproject.org/c/s/amp.mercedsunstar.com/news/business/article259809510.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Kansas City Star
-  domain: kansascity.com
+  name: Merced Sun-Star
+  domain: mercedsunstar.com
 
 topics:
   - AI
@@ -51,6 +51,6 @@ related:
         height: 2000
         isCached: true
 
-secured: "Z3tzm522VdwtJ1X/9AyhIjkm6S2KInnF2vcf/nhFB7yt4tUbgeQSJGQX0kHqiTfAfwz4rQt4gbmk3AS4LzXYLxZ34gK9WdN8810auzfXYOTyCxzUb04nedJ/KWSj6IV4B67rjkbxZ/5GG2UMQaV+ST7w4mCMYgL/1hLe4z4QMvz1PPlPh7Zhw4I43r7i9zTvmoAO/KDYP3qEm07rtzOaQ6EPx++ci8JVNwcT4VlZw43e6YmKFCXbdOHFl5df3wTp3IiGOgTqppixOazb8SffG0V73qQV1krdpmGucUVmd4lLxnHzzGf08QSgUuR2j/gdysbEpMuyl5/XmIarSVTGDEN3n4E4KYPpKGD1mFj1rHs=;x1hUtvWH8Tik0oh4Ie1TaA=="
+secured: "2krJN2+eA+TrpsxJAv8tWlB3k2zf/DUGZ6Rebsr4lm7KDiVUi54KI2gjwex1nVQF89Miqm//Sw6GoJJn9nuPPHckQvLsMvcUXnlOUF/wU0iHWh/j7zmNpVRw46uFket/91yVTH2GtJz36PnaNEgVub39Qv38CfzfwzgD2DYwWMTrLjUOZvUcj7s7IjCzxZlW3TbT9+oSCaIaMB7KE57VL+104EyonjMxxGCjVr1ceK7oZUblXjILpuyh4jYhH3dpcxbkaySjobyatPKe16MIjxXrj68ePQG4tuRGbeIL9k+27H7clHSeYP/xk5RWnkVxcs5WUO7ClnzNISMOYlxKGwA8zGtZY3uMcrI7wI0D03Q=;/RLNgTHOtz6tvUipGgh1hw=="
 ---
 

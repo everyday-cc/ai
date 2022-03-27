@@ -31,35 +31,48 @@ images:
     isCached: true
 
 related:
-  - title: "OpenShift 4.10: Red Hat teams with Nvidia to add AI and machine learning"
-    excerpt: "Red Hat is pulling this off by allying with Nvidia. Specifically, this latest OpenShift version is certified to work with NVIDIA AI Enterprise 2.0. Nvidia AI Enterprise is an AI s"
-    publishedDateTime: 2022-03-22T19:42:00Z
-    webUrl: "https://www.zdnet.com/article/red-hat-openshift-for-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/red-hat-openshift-for-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/red-hat-openshift-for-ai/"
+  - title: "AI Weekly: Nvidia’s commitment to voice AI — and a farewell"
+    excerpt: "GTC conference, Nvidia redoubled its commitment to voice AI. In other news, reporter Kyle Wiggers announces he's leaving VentureBeat."
+    publishedDateTime: 2022-03-25T16:20:00Z
+    webUrl: "https://venturebeat.com/2022/03/25/ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell/"
+    ampWebUrl: "https://venturebeat.com/2022/03/25/ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/25/ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 93
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all"
+        width: 1200
+        height: 593
+        isCached: true
+  - title: "CSIRO and Nvidia sign agreement to accelerate Australia's AI capabilities"
+    excerpt: "Australia's Commonwealth Scientific and Industrial Research Organisation (CSIRO) and Nvidia have signed a collaboration agreement to ramp up the country's AI capabilities and adoption of the technology across industry,"
+    publishedDateTime: 2022-03-25T05:18:00Z
+    webUrl: "https://www.zdnet.com/article/csiro-and-nvidia-sign-agreement-to-accelerate-australias-ai-capabilities/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/csiro-and-nvidia-sign-agreement-to-accelerate-australias-ai-capabilities/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiro-and-nvidia-sign-agreement-to-accelerate-australias-ai-capabilities/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 103
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/ad6d8154638891877cfc5fbbd7c0e66596230e02/2022/03/22/bc702cea-0e8e-4b50-810b-a34d658b876a/gettyimages-924478844-redhat-sign.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Nvidia Announces 3 New Powerful AI Chips -- What Investors Need to Know"
-    excerpt: "It's difficult to concisely summarize all of the new products and services announced at the tech company's annual spring GPU Technology Conference (GTC) that kicked off on March 21. But Nvidia's powerful new chip designs and systems aimed at artificial intelligence (AI) are a good place to start."
-    publishedDateTime: 2022-03-24T12:55:00Z
-    webUrl: "https://www.fool.com/investing/2022/03/24/nvidia-new-powerful-ai-chips-what-need-know/"
+    quality: 66
+  - title: "Nvidia Will Be A Prime Contractor For Big AI Supercomputers"
+    excerpt: "Normally, when we look at a system, we think from the compute engines at a very fine detail and then work our way out across the intricacies of the nodes"
+    publishedDateTime: 2022-03-23T23:41:00Z
+    webUrl: "https://www.nextplatform.com/2022/03/23/nvidia-will-be-a-prime-contractor-for-big-ai-supercomputers/"
+    ampWebUrl: "https://www.nextplatform.com/2022/03/23/nvidia-will-be-a-prime-contractor-for-big-ai-supercomputers/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/23/nvidia-will-be-a-prime-contractor-for-big-ai-supercomputers/amp/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
     images:
-      - url: "https://g.foolcdn.com/editorial/images/671704/nvidia-hopper-architecture-h100-sxm.jpg"
-        width: 1600
-        height: 900
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-dgx-logo.jpg"
+        width: 888
+        height: 417
         isCached: true
   - title: "Kroger teams up with Nvidia to build AI lab"
     excerpt: "The Kroger Co. plans to create an artificial intelligence (AI) lab and demonstration center in its Cincinnati headquarters under a collaboration with graphics chip pioneer Nvidia. Santa Clara, Calif.-based Nvidia,"

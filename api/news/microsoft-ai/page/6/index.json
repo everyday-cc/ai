@@ -2,6 +2,154 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-01-17-microsoft-or-googlenot-including-apple-since-unix-and-linux-are-similar-operating-systems.md",
+      "title": "Microsoft or Google?(Not including Apple since UNIX and Linux are similar Operating Systems)",
+      "excerpt": "(declared by Internet Corporation for assigned names and numbers) forced me to migrate to another web cloud host, is when i realised why the Capital Market's has valued Google(founded 20 years back an",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/microsoft-googlenot-including-apple-since-unix-linux",
+      "originalUrl": "https://www.linkedin.com/pulse/microsoft-googlenot-including-apple-since-unix-linux",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQHh5CGcgOO_qA/article-cover_image-shrink_600_2000/0/1642407176748?e=1648684800&v=beta&t=1AERQroJUMwF9yNs2NwH1uR4ITqBGl_8b7lOMv3pwBw",
+          "width": 1022,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-17T00:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-16-data-users-demand-simple-actionable-insights-quickly.md",
+      "title": "Data users demand simple actionable insights quickly",
+      "excerpt": "Big data, cloud computing, and analytics bring tremendous power. To share that, we must provide simple, impactful insights to data users.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/16/data-users-demand-simple-actionable-insights-quickly/",
+      "originalUrl": "https://venturebeat.com/2022/01/16/data-users-demand-simple-actionable-insights-quickly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1321462048.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/16/data-users-demand-simple-actionable-insights-quickly/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/16/data-users-demand-simple-actionable-insights-quickly/amp/",
+      "publishedDateTime": "2022-01-16T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-microsoft-and-a_da-rebuild-ancient-olympia-for-new-ar-experience.md",
+      "title": "Microsoft and A_DA rebuild Ancient Olympia for new AR experience",
+      "excerpt": "AI-enabled auto-translation brings the experience to users in more than 20 languages. To create the digital experience, the studio used a “foundational model” of Ancient Olympia, which A_DA says was created using “hundreds of thousands” of images ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designweek.co.uk/issues/10-16-january-2022/microsoft-a_da-rebuild-ancient-olympia/",
+      "originalUrl": "https://www.designweek.co.uk/issues/10-16-january-2022/microsoft-a_da-rebuild-ancient-olympia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://centaur-wp.s3.eu-central-1.amazonaws.com/designweek/prod/content/uploads/2022/01/11135724/Ada_Ancient_Olympia_Exhibition_Still_5-scaled-1.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T19:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design Week",
+        "domain": "designweek.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-15-ramco-systems-builds-voice-biometric-authentication-on-azure-cognitive-services.md",
       "title": "Ramco Systems builds voice biometric authentication on Azure Cognitive Services",
       "excerpt": "Ramco aims to facilitate authentication in a post-COVID world, where many countries mandate the use of facemasks which can affect facial recognition accuracy.",
@@ -1285,153 +1433,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-xpeng-integrates-text-to-speech-service-from-microsoft-in-p7-smart-sedan.md",
-      "title": "XPENG Integrates Text-to-Speech Service From Microsoft in P7 Smart Sedan",
-      "excerpt": "XPENG has upgraded its auto-grade voice assistant using Microsoft custom neural voice capability, based on Neural Text-to-Speech (TTS), a feature of Azure AI. This press release features multimedia. View the full release here:  XPENG P7 smart cockpit (Photo: Business Wire) XPENG installed the new voice assistant functionality via a major over-the-air (OTA) upgrade for its P7 smart sedan customers in China.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-china-guangzhou-ea429fb4476642e7813d438aa9b2b301",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-china-guangzhou-ea429fb4476642e7813d438aa9b2b301",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-top-programming-languages-this-coding-favourite-just-topped-the-list-again.md",
-      "title": "Top programming languages: This coding favourite just topped the list again",
-      "excerpt": "Software testing outfit Tiobe has awarded Python the programming language of the year for the second time in a row, thanks to the language's chops in machine learning. The award is given by the company to the programming language that has gained the highest increase in ratings in one year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/top-programming-languages-this-developer-favorite-shows-no-sign-of-slowing-down/",
-      "originalUrl": "https://www.zdnet.com/article/top-programming-languages-this-developer-favorite-shows-no-sign-of-slowing-down/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ed880a1e0528a648e5693bdc73c0784d0bc793de/2021/12/20/2ec0bbd4-46c3-430c-87b5-9aaf1dca5995/20211220-owen-beth-report.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/top-programming-languages-this-developer-favorite-shows-no-sign-of-slowing-down/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/top-programming-languages-this-developer-favorite-shows-no-sign-of-slowing-down/",
-      "publishedDateTime": "2022-01-05T04:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-accelerate-the-in-vehicle-digital-experience-with-azure-cognitive-services.md",
-      "title": "Accelerate the in-vehicle digital experience with Azure Cognitive Services",
-      "excerpt": "Microsoft is helping to reshape the automotive industry in the way it serves its drivers with in-vehicle infotainment systems. Together with the car manufacturers, Microsoft is creating new driving experiences with speech based on the text-to-speech and speech-to-text capabilities within Azure Cognitive",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/accelerate-the-invehicle-digital-experience-with-azure-cognitive-services/",
-      "originalUrl": "https://azure.microsoft.com/blog/accelerate-the-invehicle-digital-experience-with-azure-cognitive-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/832c79d4-6a7e-4c24-bb1f-cd13680e49ec.jpg",
-          "width": 1074,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T00:00:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Microsoft AI"
       ]

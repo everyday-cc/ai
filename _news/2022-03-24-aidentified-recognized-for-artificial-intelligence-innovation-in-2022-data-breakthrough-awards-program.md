@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Aidentified Recognized for Artificial Intelligence Innovation in 2022 Data Breakthrough Awards Program"
-excerpt: "Prestigious International Awards Program Honors Outstanding Data Technology Products and CompaniesBOSTON, March 24, 2022 /PRNewswire/ --"
-publishedDateTime: 2022-03-24T13:54:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/aidentified-recognized-for-artificial-intelligence-innovation-in-2022-data-breakthrough-awards-program-1031305163"
-webUrl: "https://markets.businessinsider.com/news/stocks/aidentified-recognized-for-artificial-intelligence-innovation-in-2022-data-breakthrough-awards-program-1031305163"
+excerpt: "Aidentified, the industry's most robust AI-powered prospecting and relationship intelligence platform, today announced that it has been selected as the winner of the \"Best Use of AI in Data Tech\" award in the third annual Data Breakthrough Awards program conducted by Data Breakthrough,"
+publishedDateTime: 2022-03-24T13:44:00Z
+originalUrl: "https://www.rochesterfirst.com/business/press-releases/cision/20220324NE02755/aidentified-recognized-for-artificial-intelligence-innovation-in-2022-data-breakthrough-awards-program/"
+webUrl: "https://www.rochesterfirst.com/business/press-releases/cision/20220324NE02755/aidentified-recognized-for-artificial-intelligence-innovation-in-2022-data-breakthrough-awards-program/"
 type: article
-quality: 66
-heat: 66
+quality: 36
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WROC-TV
+  domain: rochesterfirst.com
 
 topics:
   - AI
@@ -27,6 +23,22 @@ images:
     height: 209
     isCached: true
 
-secured: "FHtBUEGy0m41RKgRt6Hu1rrVTtsWYe3xq3tLkbEqhOrNWlOGZaiSGam7w9pP0bb7x2C+cBBbW7SP3Sw9GGbM295YXfMXCy1x9fBVF/rYqaAjRd2WNIK0OOhfASONRLtgnRNHArbVLv/jtgEYSLD5rSgreOXqbTGzCQAI/evbeWPg8TbUmPFOC3T/glujLfgk7fTXT6BgUi0z829cY/nQ4GquHy+BCXEHF18xPcqEPNsfCg8/BoRJWl1HYySw3baLWxjeoBBE5DwKmD95NfEm0wxhesrSoYcdCyoPYzUMmOi7M5GLqdJ7S2IDElZQu7uxlGd/oZtgU73AaIETrFrjRrzB/D40H5SCJTnvQwEUhJiDN+AsZBUftXXkcFJR6SEGm71/sUVVy0ftM+ain1ayC6C/g/yRhSQFQ9QzQ6J1sflP84m5KqSve2JnMdx24rLpI4LbbfEE/lNHQe3RzRiRQuu6vg0X4Ou/wa/PV4y83AQLRM92Nora3qcltVHIIXLuSAdcubGunOos4khlq3pwnw==;cdTwF6+8JHrAUwlsYxQtZQ=="
+related:
+  - title: "The first AI Anchor adopted by CCTV in cooperation with DeepBrain AI."
+    excerpt: "AI anchor Wang, the first AI anchor adopted by the Chinese Central Television (hereinafter referred to as CCTV), will be introduced this March through a featured program. AI anchor Wang also will be actively used in news and economic programs from this year."
+    publishedDateTime: 2022-03-24T16:31:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=636287"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 39
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
+
+secured: "mo9uwsaJBK9pdv4cZGjRnlsWMc89dKhGEldtbQ3N6OJKmKjW4X4Lh404rWBerFg1EdkP1ZaVVrZSgwT/QIst75bnTBNCj6OXqbq3ulooAGnShfa0zQNnyf+Bl8AbSisFyZNixk1yITD+rK/PT8Wo6VMpS0b6JrZ5/WIOFd4tIWEIUH7ycTrvxfBGIa92qplX50p+YOguFBzdpYMM8rr3ixP8BCxV7coAD6eHlf8mtemAHTIqMteY5+DI4j9yNKdJkYT7bE0Y2fC3kRAcMg2MSZ+CPYwCTN1C8nExd9U+ycMbnxkOgjscRY8NpKg5F7mfVkgrTBoVgW+Vc2lnXzkQMP0wuT3FvucmqIGS7iVDew8=;O2UziEd69Io/zQsY+qqAbg=="
 ---
 

@@ -43,14 +43,14 @@ related:
         isCached: true
   - title: "Insider Q&A: Ex-Google AI skeptic Timnit Gebru starts anew"
     excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence."
-    publishedDateTime: 2022-03-27T00:50:00Z
-    webUrl: "https://www.kansascity.com/news/business/national-international/article259809510.html"
-    ampWebUrl: "https://amp.kansascity.com/news/business/national-international/article259809510.html"
-    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/business/national-international/article259809510.html"
+    publishedDateTime: 2022-03-27T11:53:00Z
+    webUrl: "https://www.mercedsunstar.com/news/business/article259809510.html"
+    ampWebUrl: "https://amp.mercedsunstar.com/news/business/article259809510.html"
+    cdnAmpWebUrl: "https://amp-mercedsunstar-com.cdn.ampproject.org/c/s/amp.mercedsunstar.com/news/business/article259809510.html"
     type: article
     provider:
-      name: Kansas City Star
-      domain: kansascity.com
+      name: Merced Sun-Star
+      domain: mercedsunstar.com
     quality: 37
 
 secured: "6mQm7b4dTLESQLnY2q9zuB6883eZcVMvsLMT43tnL2VDMg1wQDIGyAM6H/n1+41K3kOiN/0UoSFu2UHjULflG9AAoT77Vc9ZTLs+uBl0jgcaffJ1iI4OFba1IiV/ygUR45QaPv84msa/tdzrRJruPMw6TNXXMQE7TaQBt1sPWM4GLSxQydQKxQR608bFFcFpcjBeIhuok02Gw/1j4aN+T16HRdu+91GU04GEayp+Kedasj95dgAd+8XN/xW8EB4naI+YWnaPg3uEksDp83HL4ajx19RbkMMMi80ke0+OqPTQIPsdX2Z0NfkJ/5bcOHbU0Bbye7sP7MIUtbVfX3QD6qsG/jJJueoPTVb9ySKwm3E=;mIryY9UghQU5BLadeMGLXw=="

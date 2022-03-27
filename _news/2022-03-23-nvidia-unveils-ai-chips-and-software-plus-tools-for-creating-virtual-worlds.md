@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia Announces 3 New Powerful AI Chips -- What Investors Need to Know"
+    excerpt: "It's difficult to concisely summarize all of the new products and services announced at the tech company's annual spring GPU Technology Conference (GTC) that kicked off on March 21. But Nvidia's powerful new chip designs and systems aimed at artificial intelligence (AI) are a good place to start."
+    publishedDateTime: 2022-03-24T12:55:00Z
+    webUrl: "https://www.fool.com/investing/2022/03/24/nvidia-new-powerful-ai-chips-what-need-know/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/671704/nvidia-hopper-architecture-h100-sxm.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "NVIDIA unveils Hopper, its new hardware architecture to transform data centers into AI factories"
     excerpt: "NVIDIA just announced Hopper, a new GPU architecture that promises significant performance improvements for AI workloads. We look under the hood to decipher whether the emphasis on Transformer AI models translates to a radical redesign,"
     publishedDateTime: 2022-03-23T15:36:00Z
@@ -57,33 +71,35 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Nvidia unveils new technology to speed up AI, launches new supercomputer"
-    excerpt: "Nvidia Corp on Tuesday announced new chips and technologies that it said will boost the computing speed of increasingly complicated artificial intelligence algorithms, stepping up competition against rival chipmakers vying for lucrative data center business."
-    publishedDateTime: 2022-03-22T19:44:00Z
-    webUrl: "https://www.reuters.com/technology/nvidia-unveils-latest-chip-speed-up-ai-computing-2022-03-22/"
+  - title: "Josh Brown says Nvidia's potential is 'scary' ahead of a potential AI boom"
+    excerpt: "Ritholtz Wealth Management CEO Josh Brown praised chipmaker Nvidia on \"Halftime Report.\""
+    publishedDateTime: 2022-03-24T16:07:00Z
+    webUrl: "https://www.cnbc.com/2022/03/24/josh-brown-says-nvidias-potential-is-scary-ahead-of-a-potential-ai-boom.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
+      name: CNBC
+      domain: cnbc.com
+    quality: 65
     images:
-      - url: "https://www.reuters.com/resizer/aI7zfx5bX1nkr1EiPUXfoyVhWeU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PVBB3JD4BJK6LCNCPVKXMWBPQU.jpg"
-        width: 1200
-        height: 628
+      - url: "https://image.cnbcfm.com/api/v1/image/103263510-20000101-0022-447.jpg?v=1450899072&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Nvidia reveals new Hopper H100 GPU, with 80 billion transistors"
-    excerpt: "Nvidia has announced a new GPU based on its upcoming Hopper architecture. The Hopper architecture replaces Ampere, which has more than $10 billion sales to date. The H100 GPU is the first chip based on Hopper,"
-    publishedDateTime: 2022-03-23T09:59:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-reveals-new-hopper-h100-gpu-with-80-billion-transistors/"
+  - title: "Nvidia develops fastest AI to create 3D renders using a dozen 2D photos"
+    excerpt: "As AI technology is advancing, tech companies have started to utilize it for a lot of applications. Nvidia demonstrated how its latest AI tool uses just a"
+    publishedDateTime: 2022-03-27T13:15:00Z
+    webUrl: "https://www.techworm.net/2022/03/nvidia-ai-create-3d-using-2d-photos.html"
+    ampWebUrl: "https://www.techworm.net/2022/03/nvidia-ai-create-3d-using-2d-photos.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2022/03/nvidia-ai-create-3d-using-2d-photos.html/amp"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
+      name: techworm.net
+      domain: techworm.net
+    quality: 57
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/H100_Hopper_GPU.2e16d0ba.fill-1200x630.png"
-        width: 1200
-        height: 630
+      - url: "https://www.techworm.net/wp-content/uploads/2022/03/1648301970_2022-03-26_1.jpg"
+        width: 1366
+        height: 768
         isCached: true
 
 secured: "EDbjL1pfCSUbwKbv3oaPiZ9UR3c5mB07F8RPUNh2DSdhazPDOdj+tWOimEZ5bn3dpXA9OEC/AzPbLK+2jh98B6o7YtKoiMLw1UNweb19uBnkfv1bi/XEYyOwrDcxV93XCmV/BPBQ2tYvhz8vrDkjHnNk0t5ugqwNln0IQwi69JpRV8RGA+gJ95tNujpvNywyE90ddjumPdn1vdPMD/rfedfbqxStR8rF/WkSKO26IpweGBO7RGLu/8cYHeAvLcnn2AkG2akuCejpVWyP7lMjxIwsxOgR3IfuAWQf/iLaZgthfYoQRS8RcirXrULnVEkUkU76erWkSbt4uxE4ou6t2djO7D1pc/P8R4vDvCVsTpzBEBzST6U2R0v8TatzDClhAyLE1TpZ1DyXVggpt16Kifkh20dnAeGXqcSZEUKFGy4qcOzRXM5yYXOjOsIgngLsPsT2BERuh2uWvml8Bdl5rHKxE2IPEVs78+jSr0TR8S3zMzD+KBfi45nOEX00GjM2SI9bK0vhIDU9CZuy5CDcvg==;6zbecgZs2i0uAlNxL6/WNg=="

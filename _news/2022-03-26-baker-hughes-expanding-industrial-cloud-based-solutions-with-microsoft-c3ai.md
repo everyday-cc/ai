@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft improves Translator and Azure AI services with new AI 'Z-code' models"
-    excerpt: "Microsoft's new Z-code models, which use a 'Mixture of Experts' approach, are meant to make Translator and other Microsoft AI services perform better and be more efficient to run."
-    publishedDateTime: 2022-03-22T19:08:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 117
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/fe1a54347f60483b6b6f64a48f5e3be7dec3ffc9/2022/03/22/059e1b3e-e145-4884-85a7-1e4139be8bfe/microsoftaizcodetranslation.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 738
-        isCached: true
   - title: "Microsoft claims new AI model architecture improves language translation"
     excerpt: "Microsoft claims that its new model architecture, Z-code Mixture of Experts (MoE), improves language translation quality."
     publishedDateTime: 2022-03-23T00:00:00Z
@@ -119,36 +103,6 @@ related:
         width: 3936
         height: 2934
         isCached: true
-  - title: "Microsoft, Nvidia extend Azure confidential computing to GPUs"
-    excerpt: "Microsoft has linked up with Nvidia to enable confidential computing in its Azure cloud to encompass the graphics giant's GPUs. This will allow GPUs to process workloads on Azure that call for the highest level of protection,"
-    publishedDateTime: 2022-03-23T15:06:00Z
-    webUrl: "https://www.theregister.com/2022/03/23/microsoft_and_nvidia_extend_azure/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/03/23/microsoft_and_nvidia_extend_azure/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/23/microsoft_and_nvidia_extend_azure/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 74
-    images:
-      - url: "https://regmedia.co.uk/2021/05/25/azure.jpg"
-        width: 1000
-        height: 666
-        isCached: true
-  - title: "Microsoft Translator, Azure AI receive upgrades in efficiency and quality"
-    excerpt: "Two Microsoft services are getting tune-ups thanks to a host of AI models that will boost efficiency while retaining the computational benefits of the existing setups."
-    publishedDateTime: 2022-03-22T20:32:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-translator-and-azure-ai-receive-upgrades-efficiency-and-quality"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 70
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-translator-android-chinese.jpg"
-        width: 800
-        height: 598
-        isCached: true
   - title: "Newgen Utilizes Microsoft Azure Applied AI Services for Enhanced Automation"
     excerpt: "Newgen Software, a global provider of low code digital transformation platform, is pleased to announce integration with Microsoft Azure Applied AI Services for enhanced automation, and support for Azure Form Recognizer for intelligent document processing."
     publishedDateTime: 2022-03-24T22:51:00Z
@@ -177,6 +131,31 @@ related:
         width: 620
         height: 474
         isCached: true
+  - title: "Microsoft’s FocalNets Replace ViTs’ Self-Attention With Focal Modulation to Improve Visual Modelling"
+    excerpt: "In the five years since their introduction, transformer architectures have come to dominate the natural language processing research field. Recently, vision transformers (ViT) have also demonstrated their power and potential across a wide range of computer vision tasks."
+    publishedDateTime: 2022-03-25T13:52:00Z
+    webUrl: "https://syncedreview.com/2022/03/25/microsofts-focalnets-replace-vits-self-attention-with-focal-modulation-to-improve-visual-modelling/"
+    ampWebUrl: "https://syncedreview.com/2022/03/25/microsofts-focalnets-replace-vits-self-attention-with-focal-modulation-to-improve-visual-modelling/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/03/25/microsofts-focalnets-replace-vits-self-attention-with-focal-modulation-to-improve-visual-modelling/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 46
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2022/03/image-88.png?resize=790%2C313&ssl=1"
+        width: 790
+        height: 313
+        isCached: true
+  - title: "ThetaRay Transaction Monitoring Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to the SONAR AML solution to take advantage of the scalability, reliability and agility of Azure. NEW YORK and TEL AVIV, Israel"
+    publishedDateTime: 2022-03-23T12:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-thetaray-transaction-monitoring-now-available-the-microsoft-azure-/2022/03/23/9569051.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 44
 
 secured: "uLZYl+X5khn5y53v/P+yfIjOB5kwrrZ5fKHYS+gqYeN3at3FeD+3Z9lbsHXwmhLKzJvZndwjf8WSumpLWnlQUuBNyTg9l0lWp6GmJAVJPbuCv+Bv8wPsAGlW6ls2haRDESkdxUA4Ky3r5PUSZZANaD885Xk4iZx53Hkn/utc0QdEAbmvcKzjqEmFpaiA46CsnZCu6uVxqn1S2D/TLlTas7jfb1SFghc+ZL6ETAi6sEpHWFfRBW/euYmoI4oDrye7rOtvm9EEX4z2iGHfsKjBHM7x+6a8t01w6PjQjLvMnyWT033WnHIC8O1CpC40z+voIl65fUVZRkAI2y2fLk83CbOpu1DLlgnKjB7d5kBFm3Zhk8hbMxi64BrMzrYFyjjfWenlReZRJ7esQNwZnIzMJHOWP2B81DwH8p219WglkW6f1CPwHcJc4e+ZLAsWYbiBUi8Ed4ZPSWe1xp/QOsDgeZ2PXoxq54XZca55nCohdoBwmWqKus5Nwm3e/G8i+MWE+yne9qYreqH6kXyFJvkEtA==;tkWehuXmg0QGGQUUshO3cA=="
 ---
