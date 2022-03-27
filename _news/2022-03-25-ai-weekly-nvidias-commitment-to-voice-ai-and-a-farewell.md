@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/25/ai-weekly-nvidias-commitment-to-v
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/25/ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell/amp/"
 type: article
 quality: 93
-heat: 113
+heat: 114
 published: true
 
 provider:

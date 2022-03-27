@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Cisco upgrades target Kubernetes, cloud and AI/ML"
+    excerpt: "Cisco has added new features to its Intersight cloud management system, UCS X-Series server, and HyperFlex hyperconverged system."
+    publishedDateTime: 2022-03-26T23:29:00Z
+    webUrl: "https://www.arnnet.com.au/article/696496/cisco-upgrades-target-kubernetes-cloud-ai-ml/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 56
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_144034004_31.jpg"
+        width: 487
+        height: 315
+        isCached: true
 
 secured: "ymxR6BesikQ/pl626gyUALCmmussUb4Y7+oCjgNLOzzR8zCi/KCPueGp6NYUWxWvARhK+A80pSLEh4NbT4Lio9D+3tqbcsOW7wMHJeFIKzivgBcrP0vr09sqXl0gl5Dd2ApjZRN9nfFnDZ6b23K0rP0ooD/ZR5yB1vp/P4ASMmY0UWYvkN+uiiDGUDa8p4DqkhSDw9t8fIdnEr/JJHcgHG/8zFBSQusGFFKc1KNwx9wbTsqUsb+pj5vV7hIMMG1fbxsYDT73vlDfI62Rmxq7e3yuygWr85QYJFbxprotHXUy8WMsVmdUHt6J8cdAsKPg59bBhfbM84CoVwi++u6DtZRCzNvjR/lW7ReLd4h2S/Zz53X3IcpmIk8QIqdPR3U6fpdCcalinrCqIc9Qq6PH9Qc2J4hz0a3EjziUF1SLzTOrQovVsuEbwFue2E/BwKhBn48zMSeZKhCdp1+9PAAKtolhQK+7adJSYhZMJ4Fw6K8EY7/k7mJeeY2vSRsuX1cQN6J6nhRF261K3jODrPyXPg==;RMpAS1AIhQjWnfriK26M3A=="
 ---

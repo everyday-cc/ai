@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3654492/cisco-upgrades-target-k
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.amp.html"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cisco upgrades target Kubernetes, cloud and AI/ML"
+    excerpt: "Cisco has added new features to its Intersight cloud management system, UCS X-Series server, and HyperFlex hyperconverged system."
+    publishedDateTime: 2022-03-26T23:29:00Z
+    webUrl: "https://www.arnnet.com.au/article/696496/cisco-upgrades-target-kubernetes-cloud-ai-ml/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 56
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_144034004_31.jpg"
+        width: 487
+        height: 315
+        isCached: true
   - title: "Cisco Rolls Out New Systems As It Pushes Its Own Kubernetes Stack"
     excerpt: "There are no shortage of options for enterprises when it comes to Kubernetes platforms. Red Hat has OpenShift, VMware has Tanzu, and SUSE has Rancher. And"
     publishedDateTime: 2022-03-24T17:58:00Z
