@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/aidentified-recogn
 webUrl: "https://markets.businessinsider.com/news/stocks/aidentified-recognized-for-artificial-intelligence-innovation-in-2022-data-breakthrough-awards-program-1031305163"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Business Insider
@@ -26,17 +26,6 @@ images:
     width: 400
     height: 209
     isCached: true
-
-related:
-  - title: "FMG Suite Named \"Best Overall FinTech Mobile App\" in 2022 FinTech Breakthrough Awards Program"
-    excerpt: "Prestigious International Awards Recognize Outstanding Financial Technology Products And CompaniesSAN DIEGO, March 22, 2022 /PRNewswire/ -- FMG"
-    publishedDateTime: 2022-03-22T13:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program-1031298260"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
 
 secured: "FHtBUEGy0m41RKgRt6Hu1rrVTtsWYe3xq3tLkbEqhOrNWlOGZaiSGam7w9pP0bb7x2C+cBBbW7SP3Sw9GGbM295YXfMXCy1x9fBVF/rYqaAjRd2WNIK0OOhfASONRLtgnRNHArbVLv/jtgEYSLD5rSgreOXqbTGzCQAI/evbeWPg8TbUmPFOC3T/glujLfgk7fTXT6BgUi0z829cY/nQ4GquHy+BCXEHF18xPcqEPNsfCg8/BoRJWl1HYySw3baLWxjeoBBE5DwKmD95NfEm0wxhesrSoYcdCyoPYzUMmOi7M5GLqdJ7S2IDElZQu7uxlGd/oZtgU73AaIETrFrjRrzB/D40H5SCJTnvQwEUhJiDN+AsZBUftXXkcFJR6SEGm71/sUVVy0ftM+ain1ayC6C/g/yRhSQFQ9QzQ6J1sflP84m5KqSve2JnMdx24rLpI4LbbfEE/lNHQe3RzRiRQuu6vg0X4Ou/wa/PV4y83AQLRM92Nora3qcltVHIIXLuSAdcubGunOos4khlq3pwnw==;cdTwF6+8JHrAUwlsYxQtZQ=="
 ---

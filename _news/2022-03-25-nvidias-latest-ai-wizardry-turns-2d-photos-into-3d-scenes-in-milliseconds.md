@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Leopard Imaging Expands 3D Depth Time-of-Flight and Stereo Camera Portfolio for Edge Computing Powered by NVIDIA Jetson Edge AI Platform"
-    excerpt: "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, today announced it is building on its portfolio of 3D Depth Time-of-Flight (ToF) and Stereo camera solutions for edge computing."
-    publishedDateTime: 2022-03-23T17:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/leopard-imaging-expands-3d-depth-time-of-flight-and-stereo-camera-portfolio-for-edge-computing-powered-by-nvidia-jetson-edge-ai-platform-1031302315"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1771761/Leopard_Imaging_Inc_NVIDIA_JETSON.jpg"
-        width: 400
-        height: 214
-        isCached: true
   - title: "NVIDIA Instant NeRF tech converts 2D photos into 3D scenes in the 'blink of an AI'"
     excerpt: "NVIDIA Research has unveiled its latest AI technology, Instant NeRF. It is faster than previous NeRF models and can turn a series of 2D images into a 3D scene in seconds."
     publishedDateTime: 2022-03-25T20:21:00Z

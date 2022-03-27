@@ -28,59 +28,49 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia AI Tech Lets Computers Understand the 3D World From 2D Photos"
-    excerpt: "Graphics chips are good at taking 3D scenes like video game battlefields or airplane designs and rendering them as 2D images on a screen. Nvidia, a top maker of such chips, now is using AI to do the exact opposite."
-    publishedDateTime: 2022-03-25T13:00:00Z
-    webUrl: "https://www.cnet.com/tech/computing/nvidia-ai-tech-lets-computers-understand-the-3d-world-from-2d-photos/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-ai-tech-lets-computers-understand-the-3d-world-from-2d-photos/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-ai-tech-lets-computers-understand-the-3d-world-from-2d-photos/"
+  - title: "NVIDIA Ups The Ante On Edge AI With Jetson AGX Orin"
+    excerpt: "With Jetson AGX Orin, NVIDIA promises server-class AI performance at the edge, making it the best-in-class edge platform."
+    publishedDateTime: 2022-03-27T06:23:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 69
-  - title: "Nvidia’s latest AI wizardry turns 2D photos into 3D scenes in milliseconds"
-    excerpt: "Writer at Neural by TNW — Thomas covers AI in all its iterations ... The company ended a week that introduced a new enterprise GPU and an Arm-based “superchip” with a trademark flashy ..."
-    publishedDateTime: 2022-03-25T13:18:00Z
-    webUrl: "https://thenextweb.com/news/nvidia-latest-ai-wizardry-turns-2d-photos-into-3d-scenes-in-milliseconds"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FNVIDIA-Research-Instant-NeRF-Image.jpg&signature=995be6c270f72e8df02361a4130e08bb"
-        width: 1280
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6240029a9902b9aee86f0b13/0x0.jpg?format=jpg&width=1200"
+        width: 1138
         height: 640
         isCached: true
-  - title: "Nvidia announces Eos supercomputer, \"world's fastest AI supercomputer\""
-    excerpt: "Eos will offer an incredible 18 exaflops of AI performance, and we expect it to be the world’s fastest AI supercomputer when it’s deployed,” Paresh Kharya, senior directo"
-    publishedDateTime: 2022-03-23T06:02:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-eos-supercomputer-worlds-fastest-ai-supercomputer/"
+  - title: "NVIDIA Jetson AGX Orin: The Next-Gen Platform That Will Power Our AI Robot Overlords Unveiled"
+    excerpt: "NVIDIA's latest Jetson hardware and Jetpack SDK updates extend the company's already extensive lead in AI and robotics."
+    publishedDateTime: 2022-03-22T16:25:00Z
+    webUrl: "https://hothardware.com/news/nvidia-jetson-agx-orin"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-jetson-agx-orin"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-jetson-agx-orin"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
+      name: HotHardware
+      domain: hothardware.com
+    quality: 63
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/dgx-h100-superpod.2e16d0ba.fill-1200x630.png"
-        width: 1200
-        height: 630
+      - url: "https://images.hothardware.com/contentimages/newsitem/58031/content/small_kit-hero-nvidia-jetson-agx-orin.jpg"
+        width: 708
+        height: 398
         isCached: true
-  - title: "NVIDIA Instant NeRF tech converts 2D photos into 3D scenes in the 'blink of an AI'"
-    excerpt: "NVIDIA Research has unveiled its latest AI technology, Instant NeRF. It is faster than previous NeRF models and can turn a series of 2D images into a 3D scene in seconds."
-    publishedDateTime: 2022-03-25T20:21:00Z
-    webUrl: "https://www.dpreview.com/news/7507822053/nvidia-instant-nerf-tech-converts-2d-photos-into-3d-scenes-in-the-blink-of-an-ai"
+  - title: "NVIDIA (NVDA) Starts Production of DRIVE Orin Platform"
+    excerpt: "NVIDIA Corporation NVDA is boosting its initiatives to empower artificial intelligence (AI ... from Level 2+ systems to Level 5 entirely driverless vehicles. The company’s foray into autonomous ..."
+    publishedDateTime: 2022-03-23T13:47:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-nvda-starts-production-of-drive-orin-platform"
+    ampWebUrl: "https://www.nasdaq.com/articles/nvidia-nvda-starts-production-of-drive-orin-platform?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-nvda-starts-production-of-drive-orin-platform?amp"
     type: article
     provider:
-      name: Digital Photography Review
-      domain: dpreview.com
-    quality: 33
-    images:
-      - url: "https://3.img-dpreview.com/files/p/E~TS940x788~articles/7507822053/nvidia-research-instant-nerf-banner.jpeg"
-        width: 580
-        height: 435
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
 
 secured: "cXoEdfTGenj0TYrQrRwrvXa7i3PBN/gcQe6/dPg1ALk/J6x03387nrnZH7XpMS20y/42Nb0SM3pk+b2/CA9//INowmvL6jbMtUh5vN6JLOYm8ocJkPftSmi+WpQL/12g0uVZ3SWldnGZVxCFdCxdITcag98Tr8U/6ywvIacG4VVSha9hoeTH1ERdFDFJq9uuJKrP+OLRrSqwZjOJ2WtMA9FUQ7hSm83mdCq8xLDWJJn7/NzFvbALzv7IuHZ1PnVKkuvOgam7P6OgLKaR8S87gzbgTDAMwlEL65b2q5OeNLrosHmohWDaByHz5uv+wu+b2UCvERDHhl0E/c42CMWeuWCSzFKXIw2b75EidRGaLBo=;KHGYpCoT5JudgbHjtPd0YQ=="
 ---

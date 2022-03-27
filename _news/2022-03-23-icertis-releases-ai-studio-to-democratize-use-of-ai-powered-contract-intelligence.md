@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
-excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),"
-publishedDateTime: 2022-03-23T10:05:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
+excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),"
+publishedDateTime: 2022-03-23T10:10:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
 type: article
-quality: 14
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Microsoft AI
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Diversity Is Key To The Future Of AI"
@@ -64,20 +70,6 @@ related:
       - url: "https://cdn.modernghana.com/images/content/325202293401-i4dp266gfa-picture-i-tma001-science-artificial-intelligence-.jpg"
         width: 800
         height: 296
-        isCached: true
-  - title: "Artificial Intelligence is not the threat"
-    excerpt: "You have likely heard about artificial intelligence and its ever-increasing role in our lives. AI has changed the way we interact with the world around us, from digital voice assistants to self-driving cars,"
-    publishedDateTime: 2022-03-22T15:01:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-threat-ron-cook-psyd"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFYdvctUnKreg/article-cover_image-shrink_720_1280/0/1647960139939?e=1653523200&v=beta&t=gpvp3U45dZD89bRe0N4oUi1Iss2UYLmecOE3YpVM5cc"
-        width: 1280
-        height: 719
         isCached: true
   - title: "Do you think AI will be a psychologist for humans in the future?"
     excerpt: "Artificial intelligence (AI) is influencing the future of numerous sectors, including psychology. Will AI, on the other hand, completely replace psychologists? Will AI help psychologists and their patients come up with long-term,"
@@ -145,6 +137,6 @@ related:
       domain: ft.com
     quality: 19
 
-secured: "F0bbv4If/IPqwAsXICVs1uJ7AdVwrWY7z93ifl/bDwb68eyP1QULtmHt+iMTaITTbMu8riWUqynepRD1Y79sfHDEroee2/twV3/dtYtiRuD9+Evaju6FP103KvHROwbFxdlC4LsSaovHoiMrVYaxmfSyCQcMJH2ei5q4IhL1C0qAgU8vFDwZ4rX/5fgrI+t/0I3i5o4KivLkcdHKeu2NFR24PIxercToczHLchmYCnoC5Scv+MOWerekH2d1gWYdQH7WzV0gR8MyI0aiwFj28x0JNwTKS1UZRR42nDqLb2MbrdIe+Tj+anZ4KOOrJrA82RNX/okiDm7TXwoZ6xGXPW4JQ3x7xHAF5ze1OPY2a1M=;ctp9ZLij2goBzwmQ3o0Yrg=="
+secured: "A4oY15fSxURStdrZOuwqfsJ68/kfIdiQ6+AdqoRkE1f71EbT/Em5y4kqLQ8QqdeY81EMw2Ctfi6xz6YxoyHnKaeGFcYdeSiWbN/Su0+kxVp2zPCGo2TyznDtt2xF9kM1UbfBJjqWeKU4k+Hb4PdxBm7G2egTOJ9wRW8+TeEA6EZdrnoAX4uGcVg4f3l6RY94vn1ndI7sjLHqCe1oVZowc1a2nAxKZWnDGSEjgy4Pwpe7Eg7skCs6abwUom/XB6ieia1K9yWd2l9oFlL/6G/kZnObmRBuvuCBc8Yg26fZxwQXrtn/kVa08BDz2MdFzz4SioAaq8QdB8SidcXhmH+ckYXYWkwKIpGzUesD1BxX44w=;viGkM4qO+dOhhrS8Meqh4Q=="
 ---
 

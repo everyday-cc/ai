@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/806644/nvidias-robotics-platform-got-a-j
 webUrl: "https://www.slashgear.com/806644/nvidias-robotics-platform-got-a-job-at-amazon/"
 type: article
 quality: 84
-heat: 144
+heat: 124
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "NVIDIA Jetson AGX Orin: The Next-Gen Platform That Will Power Our AI Robot Overlords Unveiled"
-    excerpt: "NVIDIA's latest Jetson hardware and Jetpack SDK updates extend the company's already extensive lead in AI and robotics."
-    publishedDateTime: 2022-03-22T16:25:00Z
-    webUrl: "https://hothardware.com/news/nvidia-jetson-agx-orin"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-jetson-agx-orin"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-jetson-agx-orin"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 63
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/58031/content/small_kit-hero-nvidia-jetson-agx-orin.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "Nvidia introduces Spectrum-4 platform for AI, HPC over Ethernet"
     excerpt: "Nvidia is known for its GPUs, but has introduced Spectrum-4, a combination of networking technologies that reinforces its commitment not only to graphics processors, but also to systems designed to handle the demanding network workloads of AI and high-performance computing."
     publishedDateTime: 2022-03-25T17:49:00Z
@@ -77,17 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "NVIDIA (NVDA) Starts Production of DRIVE Orin Platform"
-    excerpt: "NVIDIA Corporation NVDA is boosting its initiatives to empower artificial intelligence (AI ... from Level 2+ systems to Level 5 entirely driverless vehicles. The company’s foray into autonomous ..."
-    publishedDateTime: 2022-03-23T13:47:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-nvda-starts-production-of-drive-orin-platform"
-    ampWebUrl: "https://www.nasdaq.com/articles/nvidia-nvda-starts-production-of-drive-orin-platform?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-nvda-starts-production-of-drive-orin-platform?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Nvidia teams up with Lucid and BYD for new self-driving platform"
     excerpt: "Graphics chip giant Nvidia on Tuesday debuted its latest self-driving car technology platform, Drive Hyperion 9. The company, which is hosting its GTC conference from March 21 thr"
     publishedDateTime: 2022-03-22T17:00:00Z

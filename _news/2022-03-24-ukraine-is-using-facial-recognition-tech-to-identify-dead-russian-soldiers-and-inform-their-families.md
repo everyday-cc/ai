@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ukraine-using-facial-recognition-tec
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3?amp"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/wuzjmtwqf58e9qde_1648105963.jpeg"
         width: 768
         height: 438
-        isCached: true
-  - title: "The real price of the free facial recognition tech for Ukraine"
-    excerpt: "Authoritarian Tech is a weekly newsletter tracking how people in power are abusing technology and what it means for the rest of us. Also in this edition: Ghana’s rush to a biometric ID system is leaving people behind;"
-    publishedDateTime: 2022-03-22T14:51:00Z
-    webUrl: "https://www.codastory.com/newsletters/ukraine-facial-recognition/"
-    type: article
-    provider:
-      name: codastory.com
-      domain: codastory.com
-    quality: 56
-    images:
-      - url: "https://www.codastory.com/wp-content/uploads/2021/06/Call_for_global_ban_on_biometric_technologies.jpeg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Ukraine uses facial recognition to identify dead Russian soldiers"
     excerpt: "Ukraine starts the use of facial recognition to identify unidentified Russian soldiers who are killed or captured in the war."

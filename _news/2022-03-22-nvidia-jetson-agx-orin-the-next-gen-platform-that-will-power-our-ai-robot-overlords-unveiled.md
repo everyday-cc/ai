@@ -27,51 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA's Robotics Platform Got A Job At Amazon"
-    excerpt: "NVIDIA has revealed the latest version of its robotics platform at GTC 2022, a new Jetson module and a robot reference design to showcase it, along with a high-profile partnership that will see Amazon use its technology for warehouse robots."
-    publishedDateTime: 2022-03-22T17:54:00Z
-    webUrl: "https://www.slashgear.com/806644/nvidias-robotics-platform-got-a-job-at-amazon/"
+  - title: "NVIDIA Ups The Ante On Edge AI With Jetson AGX Orin"
+    excerpt: "With Jetson AGX Orin, NVIDIA promises server-class AI performance at the edge, making it the best-in-class edge platform."
+    publishedDateTime: 2022-03-27T06:23:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/amp/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.slashgear.com/img/gallery/nvidias-robotics-platform-got-a-job-at-amazon/l-intro-1647967346.jpg"
-        width: 1600
-        height: 898
-        isCached: true
-  - title: "Lucid and BYD will use NVIDIA’s DRIVE self-driving platform"
-    excerpt: "NVIDIA announced two new automotive clients for their DRIVE self-driving platform, EV startup Lucid Motors and Chinese EV giant BYD. BYD will use the system in their next-generation vehicles, and Lucid revealed that they are already powering their DreamDrive ADAS system with NVIDIA’s DRIVE Hyperion platform."
-    publishedDateTime: 2022-03-22T17:00:00Z
-    webUrl: "https://electrek.co/2022/03/22/nvidia-adds-lucid-and-byd-as-clients-for-their-drive-self-driving-platform/"
-    ampWebUrl: "https://electrek.co/2022/03/22/nvidia-adds-lucid-and-byd-as-clients-for-their-drive-self-driving-platform/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/03/22/nvidia-adds-lucid-and-byd-as-clients-for-their-drive-self-driving-platform/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 74
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Lucid-ADAS-Sensors.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Nvidia introduces Spectrum-4 platform for AI, HPC over Ethernet"
-    excerpt: "Nvidia is known for its GPUs, but has introduced Spectrum-4, a combination of networking technologies that reinforces its commitment not only to graphics processors, but also to systems designed to handle the demanding network workloads of AI and high-performance computing."
-    publishedDateTime: 2022-03-25T17:49:00Z
-    webUrl: "https://www.networkworld.com/article/3655129/nvidia-introduces-spectrum-4-platform-for-ai-hpc-over-ethernet.html"
-    ampWebUrl: "https://www.networkworld.com/article/3655129/nvidia-introduces-spectrum-4-platform-for-ai-hpc-over-ethernet.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3655129/nvidia-introduces-spectrum-4-platform-for-ai-hpc-over-ethernet.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/01/10/16/datacenter-1280x1280-3-100915910-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6240029a9902b9aee86f0b13/0x0.jpg?format=jpg&width=1200"
+        width: 1138
+        height: 640
         isCached: true
   - title: "NVIDIA (NVDA) Starts Production of DRIVE Orin Platform"
     excerpt: "NVIDIA Corporation NVDA is boosting its initiatives to empower artificial intelligence (AI ... from Level 2+ systems to Level 5 entirely driverless vehicles. The company’s foray into autonomous ..."
@@ -84,31 +54,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Nvidia teams up with Lucid and BYD for new self-driving platform"
-    excerpt: "Graphics chip giant Nvidia on Tuesday debuted its latest self-driving car technology platform, Drive Hyperion 9. The company, which is hosting its GTC conference from March 21 thr"
-    publishedDateTime: 2022-03-22T17:00:00Z
-    webUrl: "https://www.aol.com/finance/nvidia-teams-lucid-byd-self-170052667.html"
+  - title: "Leopard Imaging Expands 3D Depth Time-of-Flight and Stereo Camera Portfolio for Edge Computing Powered by NVIDIA Jetson Edge AI Platform"
+    excerpt: "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, today announced it is building on its portfolio of 3D Depth Time-of-Flight (ToF) and Stereo camera solutions for edge computing."
+    publishedDateTime: 2022-03-23T17:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/leopard-imaging-expands-3d-depth-time-of-flight-and-stereo-camera-portfolio-for-edge-computing-powered-by-nvidia-jetson-edge-ai-platform-1031302315"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/gQZzpeA4GpkvTHC9eTEfRw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/uu/api/res/1.2/x7tNEQ0hugvJtl4zcNJCng--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_yahoo_finance_433/9bdc8d522acf4c68f35ed399b2e67cb9"
-        width: 1200
-        height: 675
+      - url: "https://mma.prnewswire.com/media/1771761/Leopard_Imaging_Inc_NVIDIA_JETSON.jpg"
+        width: 400
+        height: 214
         isCached: true
-  - title: "Nvidia shows us how to reach the singularity"
-    excerpt: "Nvidia's keynote this week was breathtaking in its scope and unfettered ambition to pave the way to an AI future."
-    publishedDateTime: 2022-03-25T09:13:00Z
-    webUrl: "https://www.redsharknews.com/nvidia-shows-us-how-to-reach-the-singularity"
-    ampWebUrl: "https://www.redsharknews.com/nvidia-shows-us-how-to-reach-the-singularity?hs_amp=true"
-    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/nvidia-shows-us-how-to-reach-the-singularity?hs_amp=true"
-    type: article
-    provider:
-      name: redsharknews.com
-      domain: redsharknews.com
-    quality: 24
 
 secured: "RhtFxChCo93YNdgCogOKCyoA3+ZBlwHygAqCHxnT3f1rx5IpvS3dKf4m3N/YqGOc9VnOGUugI3WrU9CPSOBuwm5dWwWvSJhLOyARiXqep0HKQEh1XRYzE6NmIxfMu7X58AqpgJRXHQC1TlmTNtM65+g2ZWlKDcKh9S9gJpJKHxrIR5XKXVIv+c0ylV7QQ54dPuzTgbLjKcGQFdMts9tdo1WTOmiOoM/0ZprmZXjx2T/3Eci1DH1T7geyEkryQJkXI5k3+9V3JarJ1EyRqHkbSqidXJZUIRN6MDaOqHUeC3rqLgSPsnLSVYuExyb1BkujTD4m2dsDkeytkQiAyS2ahBxzdW3fQcXkTh9PX765e1Q=;4vwFV1NgJo5jXyLOLe4naA=="
 ---

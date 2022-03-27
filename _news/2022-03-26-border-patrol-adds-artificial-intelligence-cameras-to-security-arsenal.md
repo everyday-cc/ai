@@ -29,17 +29,17 @@ images:
 related:
   - title: "Border Patrol adds artificial intelligence cameras to security arsenal"
     excerpt: "Border agents in the past five months have participated in 6,630 search and rescues of migrants along the Southwestern border. They’re hoping newly deployed technology will help them not only stop"
-    publishedDateTime: 2022-03-27T02:18:00Z
-    webUrl: "https://www.krqe.com/news/border-report/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/"
-    ampWebUrl: "https://www.krqe.com/news/border-report/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
-    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/border-report/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
+    publishedDateTime: 2022-03-27T01:14:00Z
+    webUrl: "https://cbs4indy.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/"
+    ampWebUrl: "https://cbs4indy.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
+    cdnAmpWebUrl: "https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
     type: article
     provider:
-      name: KRQE
-      domain: krqe.com
+      name: WTTV
+      domain: cbs4indy.com
     quality: 74
     images:
-      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2022/03/CBP-IMAGE-ASTs.png?w=1280"
+      - url: "https://cbs4indy.com/wp-content/uploads/sites/22/2022/03/CBP-IMAGE-ASTs.png?w=1280"
         width: 896
         height: 472
         isCached: true
