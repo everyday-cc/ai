@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 94
 published: true
 
 provider:

@@ -43,6 +43,20 @@ related:
         width: 926
         height: 619
         isCached: true
+  - title: "How to investigate when a robot causes an accident – and why it's important that we do"
+    excerpt: "Robots are featuring more and more in our daily lives. They can be incredibly useful (bionic limbs, robotic lawnmowers, or robots which deliver meals to people in quarantine), or merely entertaining (robotic dogs,"
+    publishedDateTime: 2022-03-27T14:21:00Z
+    webUrl: "https://www.econotimes.com/How-to-investigate-when-a-robot-causes-an-accident--and-why-its-important-that-we-do-1629983"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 31
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/2022032597583afd549277bca_th_1024x0.jpg"
+        width: 496
+        height: 331
+        isCached: true
 
 secured: "kJd7HB0OlteuIl96iwcYFAznmxEA/8BuRqWmZluzTu/sNR2/BI5550tDBkZgP8FS3R5sMYNykxEev5YHWejA3kZRssxG6uPdpdd303IjokbxsLc3DVR1tvQY2o6KWkaWU1KrMMln3k7db0BqUFpABn4GLGQe0howfdLQmO7nb7gv4GbpXcYi0qRitVNHtg8LWxF0YAHxaDjssoBBxK9fIInP1q42ncKMfapFi8Ep7SGcbkgZbGggq9Y9taE567HvglWMvyKGtJ09eXvc3q3NHdIZ5eAZMBVWCqu85PnzRfrCrvMxuCEJ4XrJOBcxHHPsaEGpQ4Y4S+bmzFudqxZAZxy4rr34seFxmSWEV7mt0SM=;UrULyKIC771DLB4xX/ZFAQ=="
 ---

@@ -41,17 +41,17 @@ related:
         isCached: true
   - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
     excerpt: "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program."
-    publishedDateTime: 2022-03-25T20:09:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
+    publishedDateTime: 2022-03-25T23:09:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=637410"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "Qlik’s Elif Tutuk Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "The Business Intelligence Group today announced that Elif Tutuk, Vice President of Innovation and Design at Qlik®, was named a winner in its"
@@ -77,6 +77,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "npqkhtNtLxep2XEUKQDtsEj3AGO/o9pxWI/YsIHHB4hoAjM+QKNaCO42bW51bl/I3gUtpgalV43HluZ7+s0xXjbUdD3EUkDZXqSSzFtpzeMSSEfLS8g/yi3q2sBJABNU/Os+ZkNa2IbEk385x4gd05SUzfJgbn/FUjuBNMpB6dE1RMuj31uIiaW76tw7uGt9xZ8heSHUXdJh/+oDCfq+qfqkmspQ5b/F95w5nKR8Pgkvv9V0tp651fN36/FHH1OJlPkGwlXnoG53NL37P9ro+1eLWiERGUr6lNzMwYyMBuaN7B+hopKGTQCVUJdhebFmjgj7u4gvkQEk62c86ocdzIhZvkWekFx1KYhLp3U9nDk=;oKLoWqsKu6yHQVInYOtzJQ=="
+secured: "PEbzMpmXdAp7H663snG20MVWfVHVB5fQySNx1d29AQXhj6Fht3WVzbky6pVo/AYDbF1IlhFGv/ip5HYPJrX3iajSLUjzh1iXa/1FzEbE0UxVfFR2R6LkKmsXqEb3Z/2+Vrtlbh6iOhmAYlNvsUEn9CPz0t5tUxOIVxUlRIDJy/SWFzw/Cm2UgOWZBd6DK0Ev5HntamCvIU2Q/dPdwPz7G5FXZoWUv6DBKklG5RH/fZns7Nc3+ImZxSox7oY5uxG3udPm6NktPSIny3jKJr+7MUbdnVXJ2tFdOfIXZDYjYmUD+OvcgPJ4TsYdq/eBm511vRm5CrVklHdzu7NGpOaiI106fB3+xkSbr5YD6wOUP8Y=;AVvCgxVr3jMS2lAfX83VyA=="
 ---
 

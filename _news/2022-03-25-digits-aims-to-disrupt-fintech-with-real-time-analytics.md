@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-wi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://techround.co.uk/wp-content/uploads/2022/03/possessed-photography-jIBMSMs4_kA-unsplash.jpg"
         width: 2400
         height: 1727
-        isCached: true
-  - title: "How AI Helps Traditional Banks Compete Against Modern FinTech and Digital Competitors"
-    excerpt: "By Sri Ambati, CEO & Co-founder of H2O.ai AI is becoming an essential technology for the financial services and banking sector as it can help keep organizations stay a step ahead of ever-evolving challenges in meeting customer demands,"
-    publishedDateTime: 2022-03-22T22:01:00Z
-    webUrl: "https://www.globalbankingandfinance.com/how-ai-helps-traditional-banks-compete-against-modern-fintech-and-digital-competitors/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/how-ai-helps-traditional-banks-compete-against-modern-fintech-and-digital-competitors/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-ai-helps-traditional-banks-compete-against-modern-fintech-and-digital-competitors/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 67
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/iStock-1165067636.jpg"
-        width: 750
-        height: 333
         isCached: true
   - title: "Tap the Booming Fintech Market With These ETFs"
     excerpt: "The emergence of cutting-edge technologies like AI, cloud computing, big data, the Internet of Things (IoT) and machine learning is driving the fintech space. The growing popularity of smartphones, rising demand for industrial automation and the increased utilization of wireless communication are boosting the transition to digital platforms."

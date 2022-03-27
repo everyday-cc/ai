@@ -24,22 +24,6 @@ images:
     height: 249
     isCached: true
 
-related:
-  - title: "North America Electronic Health Record (EHR) Markets, 2021-2028: Combining EHR with Artificial Intelligence and Voice Recognition to Gain Traction - R"
-    excerpt: "The \"North America Electronic Health Record Market Forecast to 2028 - COVID-19 Impact and Regional Analysis By Installation Type; Type; End User\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2022-03-22T21:08:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=635403"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-
 secured: "XlainHC14Cj6dG92IJ5PHwOMOkHrBZGCNAvbUUXnBamhAAZr3Mme4XpM09iJa+rhfcFbvdbYSMVpwgJ58jrK1AT54/zwADylbuqkolwVo0vC52YUF5OX5NTKN+Bu2U0oa+s7Dnli96u26EvwfJavc4U4fE/cfAUCOLs6MOx8riBU+yyVZ3nFb7Imaz0Oz6EH9aZARLRPHUc/rAwcQTbzh57WAbvcRWF7mPdv5Z5pfycYBvhjDjzqiMlNUSfBV2DrW249gHaEEGcv5bFX3QD4i1b0RsLP9hlBpVOSDrJgygA5tjOwAWxw608V+Vmhm8n6GYfF7QL0/A17gvrBFllBbaeoQ9wL+0UWMizPtfovehg=;UITR0Am8wCbcVuBLcdrmiQ=="
 ---
 

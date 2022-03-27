@@ -39,22 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Mass. Outlines Strict Guidelines for Facial Recognition"
-    excerpt: "The Massachusetts Facial Recognition Commission released its recommendations to the Legislature for using the controversial technology, including strong limits on when local police may use facial recognition."
-    publishedDateTime: 2022-03-22T23:02:00Z
-    webUrl: "https://www.govtech.com/policy/mass-outlines-strict-guidelines-for-facial-recognition"
-    ampWebUrl: "https://www.govtech.com/policy/mass-outlines-strict-guidelines-for-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/mass-outlines-strict-guidelines-for-facial-recognition?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/585ec8f/2147483647/strip/true/crop/4763x2484+0+413/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2Ff7%2F1b7a168b45eab9c0eac2f749ff40%2Fshutterstock-1307848756.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Debating the role of facial recognition technology in Mass."
     excerpt: "The Commonwealth is rethinking use of facial recognition technology in law enforcement. Right now, at least nine law enforcement offices and departments use it, as well as offices of some federal agencies,"
     publishedDateTime: 2022-03-23T20:13:00Z

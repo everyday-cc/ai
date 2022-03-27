@@ -1,17 +1,15 @@
 ---
 category: news
 title: "Here's how Americans view facial recognition and driverless cars"
-excerpt: "The most strongly opposed applications of artificial intelligence focused on computer chip brain implants and driverless cars."
-publishedDateTime: 2022-03-19T04:07:00Z
-originalUrl: "https://www.ijpr.org/science-technology/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars"
-webUrl: "https://www.ijpr.org/science-technology/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars"
-ampWebUrl: "https://www.ijpr.org/science-technology/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars?_amp=true"
-cdnAmpWebUrl: "https://www-ijpr-org.cdn.ampproject.org/c/s/www.ijpr.org/science-technology/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars?_amp=true"
+excerpt: "In recent years, the proliferation of artificial intelligence has given the world ... More people say it's a good idea than not. Driverless cars? Not so much. The survey focused on six questions ..."
+publishedDateTime: 2022-03-18T17:50:00Z
+originalUrl: "https://www.wfae.org/science-technology/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars"
+webUrl: "https://www.wfae.org/science-technology/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars"
 type: article
 
 provider:
-  name: Jefferson Public Radio
-  domain: ijpr.org
+  name: WFAE
+  domain: wfae.org
 
 topics:
   - AI in Autos
@@ -19,11 +17,11 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/faab271/2147483647/strip/true/crop/3037x1871+0+204/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F03%2F18%2Fface-recognition.getty-431e74c0b0da8664c4ef6d5a7515f829ae18b917.jpg"
-    width: 880
-    height: 542
+  - url: "https://npr.brightspotcdn.com/dims4/default/ca1ea5f/2147483647/strip/true/crop/3037x1594+0+342/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F03%2F18%2Fface-recognition.getty-431e74c0b0da8664c4ef6d5a7515f829ae18b917.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "WUo6iTey6/aLQIMMcMMRW5Xkp8ySCcG3gTYoXcI8NFh54sru8uNFb1SSWBUZT7InmznxcmCzKGTvq3/O6a34yLjPi0RFFXi5XT875/ps3jpXZvfYXPKWCkz+OT/vW9w9f+fYZvp03HDGorQFEBc/OjfZToxeLZimbSP1P5MwFde6T6EwTHZdEIzWUYXr4W6jPLmaRkrevn2XMM+f7OTreENAWF61Dohbqwi9yzy0IEyCasEqibmAm57JQLjrX+74Nv8uRwUz0EweCgCLw7n9uiwOUmzyGI6gO0wYOk52qVmE3Ly6d4XRAuTyGXr3MXyboDjvwMtHEi39eD24lpZhWnaxHcjRjK8BSnMpOKCF7S3VUPv54Xz5/ZK5VBznY3ft+B2HAGnxwzjwboZvpn1TtSdBWlWxxOJEi3ouZNHH8x38OI7Sna4Yqb0EdsKnWppi8aiCVVmoARUXGms707OJFIve1kcSCQcWWjSusUk9MtT9ptu24uDHyG4tAjBOcY7yXOKWCGOYM1bwK5tOyuomBg==;4ZoBea9MYLd5TfNQnvVHsQ=="
+secured: "/GN60zVPfPiOcTDYeqyviOZQnhx/9caJZiJzi+/0G2T0hvS/icKI9NsJH4vS3y29x0MXIdmIj4Uldqbu5RFeJf52tes2b4a4VuqIFP4YwFUDm8sFczDLCJ+8j+UxZJgBloB1dyauIS4DSq0nqZISqoxvOuILmX50Ju9jYTC9MAZ62tYenD/RR7HoM+r37edbvn8B6iNo1MsXhGpA3Pz3JA0X1i+zOCvc8L3VaEnnhEuekHKh7srGLzgtW5nqfXhPCNgkfqJb2XU5bbaattlpz/JqMm89P8d/oZKY80ePHzIJIFayhCk7GQaYN8Rlg7DpSggwCAUImKvvq3+ImU4DlZh9+rr7icTMgj+MsG53MoM=;/ToN1y9k+7gOxFO2+yvXGg=="
 ---
 

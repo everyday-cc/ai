@@ -3,23 +3,23 @@ category: news
 title: "Astute Imaging Acquires Deep Technology AI Startup DilenyTech"
 excerpt: "Astute Imaging LLC, a provider of imaging guided therapy and procedure planning services, announced the acquisition of Dileny Technologies (DilenyTech) LLC, a deep"
 publishedDateTime: 2022-03-16T16:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/astute-imaging-acquires-deep-technology-ai-startup-dilenytech/article_3266d37c-ebf1-55e8-ae39-c165f3a4f516.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/astute-imaging-acquires-deep-technology-ai-startup-dilenytech/article_3266d37c-ebf1-55e8-ae39-c165f3a4f516.html"
+originalUrl: "https://www.goskagit.com/astute-imaging-acquires-deep-technology-ai-startup-dilenytech/article_ce987bc1-9b6e-58b4-94dd-df8c588f8b03.html"
+webUrl: "https://www.goskagit.com/astute-imaging-acquires-deep-technology-ai-startup-dilenytech/article_ce987bc1-9b6e-58b4-94dd-df8c588f8b03.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Skagit Valley Herald
+  domain: goskagit.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+  - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/custom/image/e1586314-89a9-11e7-be8f-ef31f934c462.png?resize=600%2C293"
     width: 600
-    height: 338
+    height: 293
     isCached: true
 
-secured: "sdKHMnVGIJuZUMnQ/WSPJF6K5WdLiyXKgB3qGOYD8A09raBGxe/QHnVtU2IGECws3CInDT7VtN/PIqifHmo8iXO0Pjk+14WHhgM3pxE5yfgZq61a1RogLBTSd8Y3nGIYvTMTRyxGKaXz+AcUmI/mDO1Ef9Q97aa/ws0Qk587qthNPCE+SfFWlVlTUpaM6flmBPE2PckP8SwOswP4/ydE5/FzHz2DL7s4jTbPCaQsIy4ubuVjdh8sP5mvIARLBhjACBa4564SteyP0z1VWf3y61NvULsJO6xTLCF78L4V0RPvcGJINC9Gtu73nQBk867D9fLo2XpE4YBbKSCYL/pDZ9v7NZNdoyOmvS3OjCqdDns=;lMSEJPMYzQw+JHUPcZRKqg=="
+secured: "Kc7q40NhJAlcuRR60p9tCornFnEQwU+hlGUr2e8MAZBsBAJN8hiTCfRcxzEGSGP3SV1yxEymjL/vgfeO22CRPkAnh6O06/C3Z2GE1YaB7eJiGz4dC0Bigo4UsyqqDgx9m7xuTGs42Een3HqrMU1GILEEoE0O5v170GUxpz7+0Ah6aIYvqdrdxGIJKArQFv/XeP82bGvtHIce06T7fpWMesqMVz83h8ibcZU6+X/9RP1qtvVMlVGbSxCF4yrp/5uxcc+o/mapQsksFwnXDk00S/ZttXZv2tfVodI6FOawcW7iXTBKPHVFjS0HflrfS4ozw/cJ+wS5WHd7wefJzjs2YNoQaiyFfQ95p6KyJe8fRr0=;Cqpour4NOftA2rvrT5JogQ=="
 ---
 

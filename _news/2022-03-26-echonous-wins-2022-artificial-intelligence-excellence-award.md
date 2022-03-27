@@ -2,25 +2,26 @@
 category: news
 title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
 excerpt: "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program."
-publishedDateTime: 2022-03-25T20:09:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
+publishedDateTime: 2022-03-25T23:09:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=637410"
+webUrl: "https://us.acrofan.com/detail.php?number=637410"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
     isCached: true
 
 related:
@@ -76,6 +77,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "+xbKRHVaGy/taW1tpHFqCgz6dHTThS5oFAtadh/DU9IqmBdaZ2uOYRQE36PPcPyIG9bcLALdXgErN5huD1y0MTc7jtFeaU147e23Y06DqfztElhcd3CFx6NjQOPCXpHW3g761GA48TLlDJikxoZhTPpR7BeGLFfbArYIgCDy/tLYmWDYhi05EYK/aq/cOr1iYOOC9wX4yc05ik3dwPLzzu5TlgwNRmM7AO4upPZ8ZnACz5ItOKWYJambSH4E8YABvfqmeyYnXxQ9AfEEJTvO5v6O2VrLMenlfSNv1gEmwHhnbzXLc8GWBi6nIiJelBxmU9A2Zi6L7hVcfMoEon6oddU8Jrk7fjoEdFLqo2gfKUw=;ox2M+3ZZn+isfBF4o9h7UQ=="
+secured: "CUst1xyQ0gr2HWmcp+gHFlACc1LYEzO9h/d4WPFqhcvGZ1NjVxd90RtksCxKnhgL8fOvKtNVHWBF5HwcI56XLL/D4Sd+mYv+aHDIBUhA/eOcosdd6zuCGzG2nLzNkDR6B7+FkK/uEqZkiHkhlZQJlLf0AX/c+ny8gkfZRmx22Hb9Z12ynZfbwEQcn7IFdieQpuhmwY8Skdj6oBdi4y35QX+v/38pTnC5Wm0bsHXwwHpOy434/aORegLRczi+ucsxpxwO5djDMZZHqHZSa5/DHmHGzC5v3szDcuzCvgr6fTGT9kO41OT5iYBzenoJA4mGhlHjP6lbXAPvrkaIaMTDhcoRZW7Vtzg4+Cixua6ejQY=;v+2DsAhHDjhkASK6zEmnfA=="
 ---
 
