@@ -444,6 +444,58 @@
       ]
     },
     {
+      "path": "_news/2022-03-11-ai-produced-images-cant-fix-diversity-issues-in-dermatology-databases.md",
+      "title": "AI-produced images can’t fix diversity issues in dermatology databases",
+      "excerpt": "Research teams would have to carefully check if AI-generated images would have any usual quirks that people wouldn’t be able to see with the naked eye. That type of quirk could theoretically ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/3/11/22971207/dermatology-ai-diversity-skin-tone-synthetic-images",
+      "originalUrl": "https://www.theverge.com/2022/3/11/22971207/dermatology-ai-diversity-skin-tone-synthetic-images",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/jgPgR3XgTlswf2yOU30fNxSp1-E=/0x455:4013x2556/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23306742/1296572722.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-11T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-11-ai-software-helps-date-and-decode-ancient-greek-texts.md",
       "title": "AI software helps date and decode ancient Greek texts",
       "excerpt": "AI software can help historians interpret and date ancient texts by reconstructing works destroyed over time, according to a new paper published in Nature. A team of computer scientists and ...",
@@ -1063,49 +1115,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-5-high-profile-health-it-acquisitions-in-2022.md",
-      "title": "5 high-profile health IT acquisitions in 2022",
-      "excerpt": "Microsoft completed its $19.7 billion acquisition of AI speech recognition ... its data and assets from Watson Health, which might be an effort to streamline IBM's operations and focus the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/5-high-profile-health-it-acquisitions-in-2022.html",
-      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/5-high-profile-health-it-acquisitions-in-2022.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T15:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

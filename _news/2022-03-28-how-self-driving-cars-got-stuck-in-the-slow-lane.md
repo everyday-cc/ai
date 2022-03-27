@@ -2,14 +2,14 @@
 category: news
 title: "How self-driving cars got stuck in the slow lane"
 excerpt: "The technology behind autonomous vehicles has proved devilishly hard to perfect. And progress hasn’t been helped by Tesla boss Elon Musk’s army of superfans"
-publishedDateTime: 2022-03-27T12:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/mar/27/how-self-driving-cars-got-stuck-in-the-slow-lane"
-webUrl: "https://www.theguardian.com/technology/2022/mar/27/how-self-driving-cars-got-stuck-in-the-slow-lane"
+publishedDateTime: 2022-03-27T18:13:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/mar/27/how-self-driving-cars-got-stuck-in-the-slow-lane?fr=operanews"
+webUrl: "https://www.theguardian.com/technology/2022/mar/27/how-self-driving-cars-got-stuck-in-the-slow-lane?fr=operanews"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/mar/27/how-self-driving-cars-got-stuck-in-the-slow-lane"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/mar/27/how-self-driving-cars-got-stuck-in-the-slow-lane"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -33,8 +33,8 @@ images:
 related:
   - title: "How self-driving cars got stuck in the slow lane"
     excerpt: "The technology behind autonomous vehicles has proved devilishly hard to perfect. And progress hasn’t been helped by Tesla boss Elon Musk’s army of superfans"
-    publishedDateTime: 2022-03-27T18:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/mar/27/how-self-driving-cars-got-stuck-in-the-slow-lane?fr=operanews"
+    publishedDateTime: 2022-03-27T12:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/mar/27/how-self-driving-cars-got-stuck-in-the-slow-lane"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/mar/27/how-self-driving-cars-got-stuck-in-the-slow-lane"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/mar/27/how-self-driving-cars-got-stuck-in-the-slow-lane"
     type: article
@@ -62,6 +62,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "4AKs6ssYoFuY0l1ShtVEf2AZ33/NunqQqwCm6ErbnC9m8WUY+x59ZqD26FuV2R9M55pTkb+t3RAeZ2JteTLlDa37qjp1aG1sHNdCiws/SJM10MrTzOsGdsIibrvLE7MlRO2n+Q9D58X2+2H/yG5G5EREEkQeCCYtzwftrEQ7/OLDGwVCuG10UI623AclE038eWEIMlnb2WTuDWLA9j/a3K0fkHJqYg0tt53WuVUC2sJeG6qcFA+oo1B/sDdgbIdMeQXiShh7gUC0KZBwADWmVL6FA5g7a5oSdE1hUNJQJk7iF+CgNSuJ4VqxjCd5xfWZMUXZMg1ykaOnmxagGUNuvsSS0fIQJXfg3i9ZWfwBNQF7P8AZmIXytS85tnmgvZo+V3NpcRkzKvv9dEp+Zp0BqdmhK693BpO9oFujB1zt+PI5f+3lKi9c5ujWTDv+Eh4nadMphD3ORRuI8cbLO+sM43iCRqHtFw3xSUAvk+QLTnGDHHhpwd6ybFrHCAiwHW/ZDxJfYMkyBxzkHe1R+6zexw==;3e/vHDamT0MYXNmD87Ib9A=="
+secured: "jK5E0/FLvJHCJ5A7K60XcMiAfUibBJp6qCz7aF69SRyQUKmpmZzLIHS1kjMiOXlT4j6fwy39PPreLWGiEITTYyIwp2AWx5QLvTu6nuoc1eGjJo6m9/kgoK5cLhN3X6d7WegbgRUjDAL9LCaTTw6WDCscx84DSTgs0mTnW48a6JAtZRl+L2Hl4qQIuuMCQlL8CUz7gBES24RsXTKOi9SYatZe2fT7/c1I27o/Wu/3Empk1CPxKKSxGXjfsEJhNDNV08gcTwE9ziA4M+zj2w+Vp+csgycgwDKAo3oGalvrUg7BQokZ50viv4+78YKxDTwk++iHSYoKdaUTR/5rMKvYLgGRzQWfzKMa0zAtgE0EQWw=;QX9poR4HjULVyg2ldO3w0g=="
 ---
 

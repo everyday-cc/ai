@@ -2,6 +2,49 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2022-01-25-artificial-intelligence-ai-in-radiology-market-global-analysis-size-share-growth-trends-and-forecast-2021-2031.md",
+      "title": "Artificial Intelligence (AI) In Radiology Market – Global Analysis, Size, Share, Growth, Trends, and Forecast 2021-2031",
+      "excerpt": "Artificial intelligence (AI) tools and technologies ... evaluation of risk of reoccurrence, and therapy response. Several clinically useful AI tools have been developed to meet these applications ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-radiology-market-global-analysis-size-share-growth-trends-and-forecast-2021-2031%EF%BF%BC",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-radiology-market-global-analysis-size-share-growth-trends-and-forecast-2021-2031%EF%BF%BC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/a684f1fd8c34fd96abc8aeacbb4ad74b94d8807d-1-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T02:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai.md",
       "title": "InstaDeep raises $100M to inject enterprise decision-making with AI",
       "excerpt": "InstaDeep, a company collaborating on AI solutions for organizations including Google AI and BioNTech, has raised $100 million in capital.",
@@ -1173,51 +1216,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-transforming-modern-medical-devices-with-machine-learning-ai-inference.md",
-      "title": "Transforming Modern Medical Devices with Machine Learning & AI Inference",
-      "excerpt": "Consider these 6 factors when selecting an AI accelerator for your medical device. The promise of artificial intelligence (AI) technology is finally enjoying commercial success in many industries, including automotive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/X1P1_web.jpeg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],

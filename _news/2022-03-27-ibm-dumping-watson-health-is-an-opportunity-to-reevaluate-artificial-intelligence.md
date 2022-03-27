@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-27T16:00:00Z
 originalUrl: "https://medcitynews.com/2022/03/ibm-dumping-watson-health-is-an-opportunity-to-reevaluate-artificial-intelligence/"
 webUrl: "https://medcitynews.com/2022/03/ibm-dumping-watson-health-is-an-opportunity-to-reevaluate-artificial-intelligence/"
 type: article
-quality: 49
-heat: 49
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI
   - IBM AI
+  - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://medcitynews.com/uploads/2018/06/GettyImages-865552594.jpg"
@@ -24,6 +26,6 @@ images:
     height: 443
     isCached: true
 
-secured: "oKQFDxKxeVvnNcv+Gmpe/9ZbqV8uf1GiD9s8LmmGitdHv0wZoNJ9Elm3m4UDHtYm3roolTzrbHe97ejBNAUm68wLMD+KvzRpfux9jOKf55fbZqUDwEEkaZ+sALILKqELXjEiYGkHaXuiWcTfOfN8AO10hC7BW8zXSjMQ8QNKjgdtGFdzHQ4Nc/F0p9tR43kfaXtdu8SFasHBi3Y+vaaaAjiwEKne2UbxI6W8IFzA9/FJOh5akTtykQ8ckHiz00Hfak8osVuT4b59fOQU3vCdxzoEVS57/Ws/X7BqV0bXrVBvcMuR+tnGz/+VUW4g5EsFwe/nzt1MlyKPFxQPqWt34ml8+S2aJNlxxDmY4UQjLdk=;1iSVy0+USocdWpBzLdcU0Q=="
+secured: "iADocMu7JSDShvDO7A6fwouUfPBWttAGSbWfxFX2QQCZVH9/KMra4Bj1WfJlerclFSnZu6rygIPsis5XRvjgGGTwYAhkPj1GMSxuxPi1SSelEOyzO0Kq0vC4JDHD9oR9tfCoi8M+n7wrW5IQiRXmvx1MjAu+RI5Ug22kXjkLJ6omHZxCFGskrKh+Poh1PF+431gyzsPB1BMho7Ca4v4E/asbwWrPj1lqqh9tf+kwZVcYmOdeARo8ADzVnwguleyNSWVaKUWcwEaPE/GfU1FXbfDL6PhCxfAsrJV0HnVHqTfLAiv2Do2DEz+6hyo/CP1Cv2m3ILeH95b2uA2eErgikoxiBusAG5ROjtCCChqaTCUY9nnbJyQRGRhI6OFZ8ZaTanMImvP53Rcuu5bG30tjIlvYlEjIMmjQf+ak4ORaGNg3B7l794oEXVRqe01RptwInt8VGgC+2iwWRSA0oFqjeQopdTKdjW57GqPu6nRGtGg7LrNUv8klqVYa8xdTuLy3jmkKKQbCoU0d5dXv5r2Fow==;0Qn1ZB/YSEtDPAj/54PMbA=="
 ---
 

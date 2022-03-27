@@ -117,14 +117,19 @@ related:
         height: 241
         isCached: true
   - title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
-    excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),"
-    publishedDateTime: 2022-03-23T10:05:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
+    excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),"
+    publishedDateTime: 2022-03-23T10:10:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 14
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "UBxYiEaQjT9KZzFLtw+lKIdQdSjX0Z/RPGmFLDNaGZjbXIjGr23f/RwJ5jP1akXsphBMaZ5FULGuo3eiIDeTAGnq7tdxLURYbUuCrIdzWFyWdWi08jgeJ5F3I0P9GsG9/7A+94qlJ2fXsyrFWXd15Nhn3Xm9fhJ/TwnehMnV3pRuVGlC4Xb7gxYxVQ1evJW4zswSY2mAGx72AKR9+7f2vNE623gL1Z8sMmL4LujNdB4qWKaq7QnZz9ib0YfLqIZCauLef46l6sUKFxxOMXxr22EvEwqJyXDRax6RglVHT6qQ4qNStxuXLf/9jSeLg97P5M3Hmf9pM9bSBDww3xSmla0VlEw060TXOMCDBojGazPc3bpEbN7R8q5qwv73bCPR5geOt/G/+N4Zv96mvM4fQOrYoWfo+byhdkgnGMn8gBkAVFF+FnrTb9fQLXd4X7u6gDe5W7iZkyY8BL/0CKakeF4LjLrcXv03RB+BCkg5iSvybpPFCPdfjVnyHPXTizJi/HMDFqo8gUfA5KKEhNfLYg==;/GdXormk2u5S+c/2Yw5rzA=="
 ---

@@ -59,6 +59,22 @@ related:
         width: 448
         height: 336
         isCached: true
+  - title: "AI Tool Predicts Heart Attacks In Patients, Researchers Contend"
+    excerpt: "Cedars-Sinai researchers say they developed an algorithm that accurately predicted which patients would have a heart attack in five years."
+    publishedDateTime: 2022-03-27T18:03:00Z
+    webUrl: "https://patch.com/california/shermanoaks/ai-tool-predicts-heart-attacks-patients-researchers-contend"
+    ampWebUrl: "https://patch.com/california/shermanoaks/amp/30546766/ai-tool-predicts-heart-attacks-in-patients-researchers-contend"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/shermanoaks/amp/30546766/ai-tool-predicts-heart-attacks-in-patients-researchers-contend"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 57
+    images:
+      - url: "https://patch.com/img/cdn20/shutterstock/23539314/20220327/020344/styles/patch_image/public/shutterstock-174191435___27140223435.jpg"
+        width: 1067
+        height: 800
+        isCached: true
   - title: "Cedars-Sinai: Artificial Intelligence Tool May Help Predict Heart Attacks"
     excerpt: "Cedars-Sinai researchers say they’ve developed an artificial intelligence-enabled tool that could help predict if a person will have a heart attack. First reported in The Lancet Digital Health, Cedars officials said the tool has accurately predicted which patients would experience a heart attack within five years,"
     publishedDateTime: 2022-03-23T15:42:00Z

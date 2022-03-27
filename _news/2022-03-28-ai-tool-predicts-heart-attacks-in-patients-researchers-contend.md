@@ -1,27 +1,28 @@
 ---
 category: news
-title: "AI Model May Help Predict Ovarian Cancer Treatment Outcomes"
-excerpt: "An artificial intelligence (AI) model may help predict clinical outcomes at the time of laparoscopic assessment for advanced high-grade serous ovarian cancer (HGSOC), according to a study presented at the Society of Gynecologic Oncology’s Annual Meeting on Women’s Cancer,"
-publishedDateTime: 2022-03-26T04:18:00Z
-originalUrl: "https://www.physiciansweekly.com/ai-model-may-help-predict-ovarian-cancer-treatment-outcomes/"
-webUrl: "https://www.physiciansweekly.com/ai-model-may-help-predict-ovarian-cancer-treatment-outcomes/"
+title: "AI Tool Predicts Heart Attacks In Patients, Researchers Contend"
+excerpt: "Cedars-Sinai researchers say they developed an algorithm that accurately predicted which patients would have a heart attack in five years."
+publishedDateTime: 2022-03-27T18:03:00Z
+originalUrl: "https://patch.com/california/shermanoaks/ai-tool-predicts-heart-attacks-patients-researchers-contend"
+webUrl: "https://patch.com/california/shermanoaks/ai-tool-predicts-heart-attacks-patients-researchers-contend"
+ampWebUrl: "https://patch.com/california/shermanoaks/amp/30546766/ai-tool-predicts-heart-attacks-in-patients-researchers-contend"
+cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/shermanoaks/amp/30546766/ai-tool-predicts-heart-attacks-in-patients-researchers-contend"
 type: article
-quality: 39
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Too Old to Operate
-  domain: physiciansweekly.com
+  name: Patch
+  domain: patch.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.physiciansweekly.com/wp-content/uploads/2022/03/image1648268285.jpg"
-    width: 800
-    height: 600
+  - url: "https://patch.com/img/cdn20/shutterstock/23539314/20220327/020344/styles/patch_image/public/shutterstock-174191435___27140223435.jpg"
+    width: 1067
+    height: 800
     isCached: true
 
 related:
@@ -73,22 +74,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "AI Tool Predicts Heart Attacks In Patients, Researchers Contend"
-    excerpt: "Cedars-Sinai researchers say they developed an algorithm that accurately predicted which patients would have a heart attack in five years."
-    publishedDateTime: 2022-03-27T18:03:00Z
-    webUrl: "https://patch.com/california/shermanoaks/ai-tool-predicts-heart-attacks-patients-researchers-contend"
-    ampWebUrl: "https://patch.com/california/shermanoaks/amp/30546766/ai-tool-predicts-heart-attacks-in-patients-researchers-contend"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/shermanoaks/amp/30546766/ai-tool-predicts-heart-attacks-in-patients-researchers-contend"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 57
-    images:
-      - url: "https://patch.com/img/cdn20/shutterstock/23539314/20220327/020344/styles/patch_image/public/shutterstock-174191435___27140223435.jpg"
-        width: 1067
-        height: 800
-        isCached: true
   - title: "Cedars-Sinai: Artificial Intelligence Tool May Help Predict Heart Attacks"
     excerpt: "Cedars-Sinai researchers say they’ve developed an artificial intelligence-enabled tool that could help predict if a person will have a heart attack. First reported in The Lancet Digital Health, Cedars officials said the tool has accurately predicted which patients would experience a heart attack within five years,"
     publishedDateTime: 2022-03-23T15:42:00Z
@@ -103,7 +88,21 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "AI Model May Help Predict Ovarian Cancer Treatment Outcomes"
+    excerpt: "An artificial intelligence (AI) model may help predict clinical outcomes at the time of laparoscopic assessment for advanced high-grade serous ovarian cancer (HGSOC), according to a study presented at the Society of Gynecologic Oncology’s Annual Meeting on Women’s Cancer,"
+    publishedDateTime: 2022-03-26T04:18:00Z
+    webUrl: "https://www.physiciansweekly.com/ai-model-may-help-predict-ovarian-cancer-treatment-outcomes/"
+    type: article
+    provider:
+      name: Too Old to Operate
+      domain: physiciansweekly.com
+    quality: 39
+    images:
+      - url: "https://www.physiciansweekly.com/wp-content/uploads/2022/03/image1648268285.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
-secured: "+uVgLoxQ2paVZUijMZysZMnxSo1qMAlndI54ATrfoGIl2eK1popBd6AMHDXldXCSVQOjGxDoPzoxdpcsnNVjvCWTiLOECB1kbdZM4WkTPIsVniVPizn+u1AjUwy8sU1QNZ/J4k092VTPZbYp7bvMF2QmKOouP6DPKXXDouzlwWxNi5UiPoIK2q4yx7aI3rARhKZlhTC1Tju+qeTkN2W1U9nsACRmJAgyK0ZOpPOoZFJ2PR7zn2ZgpF6u9acdbhHVeP9LW3u/2JZMeUxaLOV7sBBUA8VNvvCzdArPhMQIJ65Z7zn7yKWuekeEjiJ0B2B08piNMEAUPa0/2mcjUxG9V+jJoNh1tXBISMKE63EuxFwgkC39lhcpolGbS4FIXktSYh3HPGdj74GJJeGnALqwFF38hpjJq1V294Jm566+K0/z3zEq8FkTdy6XHud2dK9BdxT2PiL8OoG4Ysl9Z5VgDgi4u54B5cKDe2aZVmSruzwHdyO1lKd9Tkwzu/jqIAJH8dLr0xBQAThx9wjMDIS7uQ==;9TVNXM4bBbnV9TTm3umb6g=="
+secured: "1KTybvbTflJBxp0oPKtFELyRZDV3RYVu/34FUizFj9GaSlbCdeFv8saUgYyEnbW/RRCSg2MLnIfDEKUUmbbPfRpcc5DHWDj01Rlp73B350m1VTmJ0rhYBsDEQrinuYHKFFXlSvap5UxkIqWf0H70WGNWISal8Ia+TzC5r9ezOm5jBjr4lHAixtVreiAu4cuUspZMbaMy2pZfUkoOsdQnyilLDTDDw3Xw0WTg+/9PdzpgHyLxC8aXfjoMJeJRFR1Z302+vu1v3SzfiVz3h8qyFMxUVMO2u+0WgSiPH70hjR0/tPp2qOowSs2uz2R+W8nLtqo1fk3bHCqZTOrYRrMMghRMA1W3LYmYpmuXfUGbFxg=;vgFOGB6sZF8rAhlmWovfgQ=="
 ---
 

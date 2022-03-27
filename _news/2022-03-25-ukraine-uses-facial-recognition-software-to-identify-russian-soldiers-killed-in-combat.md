@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Ukraine using face recognition technology to identify dead Russian soldiers"
+    excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problemati"
+    publishedDateTime: 2022-03-27T18:23:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ukraine-using-face-recognition-technology-to-identify-dead-russian-soldiers-71648369627325.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ukraine-using-face-recognition-technology-to-identify-dead-russian-soldiers-71648369627325.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ukraine-using-face-recognition-technology-to-identify-dead-russian-soldiers-71648369627325.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 72
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2022/03/27/1600x900/AP03-27-2022-000198A-0_1648390968165_1648391000601.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Ukraine army starts using facial recognition to identify dead Russian soldiers"
     excerpt: "The company has been using a photo of a dead Russian soldier on social media and uploading it to facial recognition software. Them, the software gets an identity match from a database of billions of social media images and will find the deceased’s family ..."
     publishedDateTime: 2022-03-24T23:56:00Z

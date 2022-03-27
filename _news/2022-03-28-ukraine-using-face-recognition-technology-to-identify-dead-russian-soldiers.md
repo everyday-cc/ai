@@ -1,24 +1,30 @@
 ---
 category: news
-title: "The Download: Ukraine claims it’s using facial recognition to identify dead Russian soldiers"
-excerpt: "Ukraine has started using facial recognition technology to identify dead Russian soldiers, a senior government official has claimed. Mykhailo Fedorov, vice prime minister of Ukraine and minister of digital transformation,"
-publishedDateTime: 2022-03-24T14:48:00Z
-originalUrl: "https://www.technologyreview.com/2022/03/24/1048268/the-download-ukraine-claims-its-using-facial-recognition-to-identify-dead-russian-soldiers/"
-webUrl: "https://www.technologyreview.com/2022/03/24/1048268/the-download-ukraine-claims-its-using-facial-recognition-to-identify-dead-russian-soldiers/"
-ampWebUrl: "https://www.technologyreview.com/2022/03/24/1048268/the-download-ukraine-claims-its-using-facial-recognition-to-identify-dead-russian-soldiers/amp/"
-cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/03/24/1048268/the-download-ukraine-claims-its-using-facial-recognition-to-identify-dead-russian-soldiers/amp/"
+title: "Ukraine using face recognition technology to identify dead Russian soldiers"
+excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problemati"
+publishedDateTime: 2022-03-27T18:23:00Z
+originalUrl: "https://tech.hindustantimes.com/tech/news/ukraine-using-face-recognition-technology-to-identify-dead-russian-soldiers-71648369627325.html"
+webUrl: "https://tech.hindustantimes.com/tech/news/ukraine-using-face-recognition-technology-to-identify-dead-russian-soldiers-71648369627325.html"
+ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ukraine-using-face-recognition-technology-to-identify-dead-russian-soldiers-71648369627325.html"
+cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ukraine-using-face-recognition-technology-to-identify-dead-russian-soldiers-71648369627325.html"
 type: article
-quality: 43
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: MIT Technology Review
-  domain: technologyreview.com
+  name: Hindustan Times
+  domain: hindustantimes.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://images.hindustantimes.com/tech/img/2022/03/27/1600x900/AP03-27-2022-000198A-0_1648390968165_1648391000601.jpg"
+    width: 1600
+    height: 900
+    isCached: true
 
 related:
   - title: "Ukraine is using facial recognition tech to identify dead Russian soldiers and inform their families"
@@ -50,22 +56,6 @@ related:
       - url: "https://www.reuters.com/resizer/jEOsKtoPF42qHYwE93qP44J2rYU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YITLSEUA55KQNDGQOHTXJTVUPY.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Ukraine using face recognition technology to identify dead Russian soldiers"
-    excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problemati"
-    publishedDateTime: 2022-03-27T18:23:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ukraine-using-face-recognition-technology-to-identify-dead-russian-soldiers-71648369627325.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ukraine-using-face-recognition-technology-to-identify-dead-russian-soldiers-71648369627325.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ukraine-using-face-recognition-technology-to-identify-dead-russian-soldiers-71648369627325.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 72
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2022/03/27/1600x900/AP03-27-2022-000198A-0_1648390968165_1648391000601.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Ukraine army starts using facial recognition to identify dead Russian soldiers"
     excerpt: "The company has been using a photo of a dead Russian soldier on social media and uploading it to facial recognition software. Them, the software gets an identity match from a database of billions of social media images and will find the deceased’s family ..."
@@ -182,7 +172,18 @@ related:
       name: openDemocracy
       domain: opendemocracy.net
     quality: 50
+  - title: "The Download: Ukraine claims it’s using facial recognition to identify dead Russian soldiers"
+    excerpt: "Ukraine has started using facial recognition technology to identify dead Russian soldiers, a senior government official has claimed. Mykhailo Fedorov, vice prime minister of Ukraine and minister of digital transformation,"
+    publishedDateTime: 2022-03-24T14:48:00Z
+    webUrl: "https://www.technologyreview.com/2022/03/24/1048268/the-download-ukraine-claims-its-using-facial-recognition-to-identify-dead-russian-soldiers/"
+    ampWebUrl: "https://www.technologyreview.com/2022/03/24/1048268/the-download-ukraine-claims-its-using-facial-recognition-to-identify-dead-russian-soldiers/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/03/24/1048268/the-download-ukraine-claims-its-using-facial-recognition-to-identify-dead-russian-soldiers/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 43
 
-secured: "xrBxyzcCEI4MJSNhavTXJ2ZQ6qGhji0KdPKcCy3/Nnw/i0W8juEvFlkIN/OwZ0y6MZfNJg3CMNkCi4NB+I1RIE2fyrml5oVn7GRnzuzvvabGIaoBzUetRasQIfo3tLnu3sa137FkbYsqd2hD49LH5yqkpOCY8sra4vkDdsTwIPQo28DsnQomg6xVLbhVCR3hZvPhkmiwG/grOVOqDCFwhKUYLnxo3LUq2O2GS94QAmdC7XnlkXplIRj0JMsivA6UIlntVEPB4kveYCdmgTr9P5r6YQ/5ngsbJdh7+yVXGObGGi9TSrEEheR/MTqY8dVwwA9ef01vj3oWxFAq8cGBLdsiTA1lpfrQ1HMNqDCfMrE=;PjUQ9bY+/TQUdQTpBR+oFA=="
+secured: "v+aV3CiDuX63pXHGcsDYNfNJqzDq7mOjSA1ncwxzwomdUA/h57bdrBXg2UaI2q5+TscwEOMuK0vEOGGNLP/k9Lm86TGN+BRcoXUV/9RBqvdbPEd0gUByt9Yas2jj0+dUHOOb1BO4kj9nC6Nc164gmTcrhdgRtLtq7En+uuS+6qaUilKT4FYJJG9+TNcVRjIrf6YG5wV0YcZhsYGf2VI+8NAAv/shilV6+V5cskeTDUtuGpSnTBgIRXS2ajdHnjVDMGetIzQFse388maxQ7M8p+Lb5pfSVMkh4MxRVwB+w70Ex7HXOJjtGjMNO0GUcgla9qby54hEakjYPtS9VktaDe6WuHnAIyMIkpD3dnfHHNQ=;1yLuiwu9+ysB/5qAWgoW/g=="
 ---
 

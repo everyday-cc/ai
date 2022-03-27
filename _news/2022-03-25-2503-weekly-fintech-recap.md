@@ -97,18 +97,18 @@ related:
         height: 450
         isCached: true
   - title: "PLUS3 IT SYSTEMS TO EXPAND DATA ANALYTICS AND ARTIFICIAL INTELLIGENCE CAPABILITIES WITH JOINT ARTIFICIAL INTELLIGENCE CENTER AWARD"
-    excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial"
-    publishedDateTime: 2022-03-24T12:50:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence/article_2d4a8a12-262e-52dd-af5b-a24bcacffdff.html"
+    excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial Intelligence Center (JAIC) for Data Readiness for Artificial Intelligence Development (DRAID)."
+    publishedDateTime: 2022-03-24T13:28:00Z
+    webUrl: "https://www.lelezard.com/en/news-20303043.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 7
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 9
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "8s3dizwrsLLCCmtdBFo/f0So7rPMX/BuGYscK3OoxTDl/470M/J+DqzCtkfd7dHAzvFp0D2huoIYjkwD3yCfD1gtsGvCLv0R3IT9zf35Drso+iD/o4dGN4uvzFTYbn2mgxvYDknO++bC6xRhNfu7ppbQ68HnjG29+QlMjcVbCOcdle6ifY6dVIWwjltTFNx4FbvpA0LflZXVR2q0JxJFrIoPnTR1jutFb3ik9pX+Pmt7fCs43f+Bs3dzatezC0e3DRJ3dhoYP6fONlt1JVPvnPDZyIEN4YbCfAa5cxMZ5UH08bok6QZHIeRwceB4JTjwWZH2opPKY5YBo0GqOJvwh1RUqtvLUdDryd4W/2tID0I=;SYDnJanYOXAA/KsXqIRUrw=="
