@@ -92,20 +92,6 @@ related:
         width: 1200
         height: 585
         isCached: true
-  - title: "New Z-code Mixture of Experts models improve quality, efficiency in Translator and Azure AI"
-    excerpt: "The post New Z-code Mixture of Experts models improve quality, efficiency in Translator and Azure AI appeared first on The AI Blog.\n"
-    publishedDateTime: 2022-03-22T17:00:13Z
-    webUrl: "https://blogs.microsoft.com/ai/new-z-code-mixture-of-experts-models-improve-quality-efficiency-in-translator-and-azure-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 94
-    images:
-      - url: "https://blogs.microsoft.com/wp-content/uploads/prod/sites/3/2022/03/Microsoft-Translator-Z-code-1-1200x630-1-1024x538.jpg"
-        width: 1024
-        height: 538
-        isCached: true
   - title: "Microsoft boosts its AI translation capabilities"
     excerpt: "Unlike previous AI models, Z-code models utilize a ... As such, the models learn to translate between multiple languages simultaneously. At the same time, newly introduced Z-code MoE models ..."
     publishedDateTime: 2022-03-24T06:07:00Z

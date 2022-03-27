@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition
 webUrl: "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://cdn.gcn.com/media/img/cd/2022/03/24/facial_recognition_GCN_032422/open-graph.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "AI voice-driven speech recognition suite, Augnito, enhances radiology and clinical reporting for Wellbeing Software"
-    excerpt: "Bespoke speech recognition technology, Augnito, aids Wellbeing Software with highly accurate Radiology Information System workflows. Scribetech has announced the integration of its disruptive, AI-powered voice-driven speech recognition (SR) software,"
-    publishedDateTime: 2022-03-22T15:29:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-03-21/ai-voice-driven-speech-recognition-suite-augnito-enhances-radiology-and-clinical-reporting-for-wellbeing-software"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 32
-    images:
-      - url: "https://cdn.pharmiweb.com/media/14138/shutterstock_2021632928.jpg"
-        width: 1254
-        height: 836
         isCached: true
 
 secured: "hDXQUEf6PGn4J5fNQ21Jt5p+nA5ema/XNe9LtvMbG7KrDJv9GmovAzXA6Y/PhP0O+8cKhoPB8h1hbNEbvWIrkyOuqWDFOxP5GisK3cJRRW/frOVNqm3mVTk1SYIWZZvL+5nMiYtcY+Mp1E3vfabY4HH61r7QnuThEaKA+iW1SSdZVibsDRuKjpi52m1rTVzEBhT/5DIl8ejtFC4Qs+PlKpxKYUbUncXvNkXTog03mwzjFxOmXWif03PffWTsNe15YuK6sodTwWOaRncHK3RJhJOnQrJcRxRyXNe8DX+2/Pbm79aRprc/iNTRtBwHj8ncWq2rxNW8cT0p+Vk1/vs6Zz8mNxq7vNw60S1kTqr6X6I=;fCdHEut/ImQfet/FXJHAtA=="

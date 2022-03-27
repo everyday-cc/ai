@@ -149,18 +149,18 @@ related:
         height: 630
         isCached: true
   - title: "SparkCognition Delivers Visual AI Capabilities Across Industries With Acquisition of Integration Wizards"
-    excerpt: "AI company builds on portfolio of machine learning, deep learning, natural language processing, and knowledge representation to address $14.4B visual AI marketplace"
-    publishedDateTime: 2022-03-25T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/sparkcognition-delivers-visual-ai-capabilities-across-industries-with-acquisition-of-integration-wizards/article_3936c1d1-bed7-5aba-952d-7a107e8683e8.html"
+    excerpt: "AI company builds on portfolio of machine learning, deep learning, natural language processing, and knowledge representation to address $14.4B visual AI marketplace. AUSTIN, Texas"
+    publishedDateTime: 2022-03-25T12:04:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-3f663c073214a6e3417b25b9daed7907"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 22
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/00/3008bf47-deb7-5420-a599-8f8631503669/605b3f21d5fba.image.jpg?crop=922%2C484%2C889%2C0&resize=922%2C484&order=crop%2Cresize"
-        width: 922
-        height: 484
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Revnomix Solutions launches 'RevSeed,' a version 2.0 of Artificial & Machine Learning platform for hotels and resorts"
     excerpt: "Revnomix Solutions LLP, recognized as a startup by the “Department for Promotion of Industry and Internal Trade”, is a seven-year-old revenue management firm with a pan-India presence, provides revenue management services to hotels."

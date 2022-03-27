@@ -87,20 +87,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "AI voice-driven speech recognition suite, Augnito, enhances radiology and clinical reporting for Wellbeing Software"
-    excerpt: "Bespoke speech recognition technology, Augnito, aids Wellbeing Software with highly accurate Radiology Information System workflows. Scribetech has announced the integration of its disruptive, AI-powered voice-driven speech recognition (SR) software,"
-    publishedDateTime: 2022-03-22T15:29:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-03-21/ai-voice-driven-speech-recognition-suite-augnito-enhances-radiology-and-clinical-reporting-for-wellbeing-software"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 32
-    images:
-      - url: "https://cdn.pharmiweb.com/media/14138/shutterstock_2021632928.jpg"
-        width: 1254
-        height: 836
-        isCached: true
 
 secured: "Yw3sjU6sD0Qk0lmQ2k2OQHDO5PWhHnf00H1o5NEn87Ge2w499CerCOrP5C+rVnBUs63hqZhNfRCyISJcOj6MLs1GUNLW8ABMuwzVNgUcmhox1qmJi+E9kdXvDQDw3t4GholbEt8fSuk5OagHGOcIeDIjd0dzxGDkGdYZOwPkdiHAGAaT9QNgbpTBLxY7hoymolEP8r9YWkKqtKWOQQTWwqqybbTL5iHtns7sxKfG5dIhrkINUm60Ff9H95UNyW4y4ptrVt94Do4BnWxWQ13VvbPTOinz8GxDYdQTY8KB3GC5sc2TEGvR1pOKIgVRqUrefhiWX1zrhPCbvLr7sR9B6ns4/lV1tttyD01tMKVBHgot17Nuy55RsZlVjc1zVfxkZHRxiDB8+mUvzURN8Dkk8OJiQalzEJSQCuiNV031HA7Znimm+0h8owXwJeXpEBLVlwEP0m+CU9pSJ6/mdf+tXRj5VDDsyYLABMThHfsUG1UYckUTSpVxh1yucClmSXbyE+Z2DkOYfIVZVnVoJnuwjQ==;THu4Vo5i31T51X+XtcdmBA=="
 ---

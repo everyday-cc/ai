@@ -2,6 +2,127 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-03-16-deep-learning-and-the-future-of-finance.md",
+      "title": "Deep Learning and the Future of Finance",
+      "excerpt": "Deep learning is increasingly deployed by financial services providers across industries within the financial sector. It has the potential to transform business models and markets for trading, credit and blockchain-based finance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/technology/deep-learning-and-the-future-of-finance",
+      "originalUrl": "https://www.bbntimes.com/technology/deep-learning-and-the-future-of-finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/companies/Deep_Learning_in_Finance.jpeg",
+          "width": 1200,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-arista-anet-appears-a-smart-investment-bet-now-heres-why.md",
+      "title": "Arista (ANET) Appears a Smart Investment Bet Now: Here's Why",
+      "excerpt": "The company expanded its cognitive campus ... troubleshooting and location services. This supports video conferencing applications like Google Hangouts, Microsoft Teams and Zoom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why",
+      "originalUrl": "https://www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why?amp",
+      "publishedDateTime": "2022-03-15T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist.md",
+      "title": "What's on Your Artificial Intelligence Compliance, Privacy and Ethics Checklist?",
+      "excerpt": "CIO Anthony McMahon of Target State Consulting suggests in a recent #CIOChat on Twitter that ethical and privacy issues are not unique to artificial intelligence (AI). “Every decision on how to use data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/",
+      "originalUrl": "https://www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/ebd30967e58445b583d6aaf1a1c58b13.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/amp/",
+      "publishedDateTime": "2022-03-15T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-deep-learning-system-market-to-develop-at-cagr-of-391-during-forecast-period-notes-emergen-research-study.md",
       "title": "Deep Learning System Market to Develop at CAGR of 39.1 % During Forecast Period, Notes Emergen Research Study",
       "excerpt": "The global deep learning system market size is expected to reach USD 93.34 Billion at a steady CAGR of 39.1% in 2028, according to latest analysis by",
@@ -603,8 +724,8 @@
       "title": "AI Chip Startups Pull In Funding as They Navigate Supply Constraints",
       "excerpt": "Investors are funneling billions of dollars into startups that make chips designed for artificial-intelligence applications, which have largely avoided the supply-chain constraints and backlogs faced by larger chip makers.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402?tpl=vc",
-      "originalUrl": "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402?tpl=vc",
+      "webUrl": "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402",
+      "originalUrl": "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -621,8 +742,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402",
       "publishedDateTime": "2022-03-15T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -646,8 +767,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -991,126 +1112,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-self-driving-car-technology-market-shaping-from-growth-to-value-byd-volkswagen-ibm.md",
-      "title": "Self-driving Car Technology Market Shaping From Growth To Value : BYD, Volkswagen, IBM",
-      "excerpt": "The Latest survey report on Self-driving Car Technology Market has witnessed continuous growth in the last few years and is projected to grow even further during the forecast peri",
-      "sourceUrl": null,
-      "webUrl": "https://eclecticnortheast.in/2022/03/15/self-driving-car-technology-market-shaping-from-growth-to-value-byd-volkswagen-ibm/",
-      "originalUrl": "https://eclecticnortheast.in/2022/03/15/self-driving-car-technology-market-shaping-from-growth-to-value-byd-volkswagen-ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eclectic Northeast",
-        "domain": "eclecticnortheast.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-can-medtech-manufacturing-benefit-from-deep-learning.md",
-      "title": "Can Medtech Manufacturing Benefit from Deep Learning?",
-      "excerpt": "One particular type of machine learning called “deep learning” could offer particular benefit as it could enable machine vision systems to learn how to recognize and respond to defects much like a human could, according to Bhaskar Ramakrishnan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/automation/can-medtech-manufacturing-benefit-deep-learning",
-      "originalUrl": "https://www.mddionline.com/automation/can-medtech-manufacturing-benefit-deep-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/Screen%20Shot%202018-10-04%20at%209.05.43%20AM.png",
-          "width": 1578,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-engineering-deep-learning-hardware-at-the-university-level.md",
-      "title": "Engineering Deep Learning Hardware at the University Level",
-      "excerpt": "In addition to conducting its own research into AI-specific processors, MIT is introducing coursework to train the next generation of engineers in building hardware for deep learning and AI applications. Traditional hardware architecture for deep learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/engineering-deep-learning-hardware-university-level",
-      "originalUrl": "https://www.designnews.com/electronics-test/engineering-deep-learning-hardware-university-level",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Sze_Emer_photo.jpg",
-          "width": 606,
-          "height": 404,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

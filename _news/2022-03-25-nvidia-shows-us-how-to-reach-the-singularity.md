@@ -9,7 +9,7 @@ ampWebUrl: "https://www.redsharknews.com/nvidia-shows-us-how-to-reach-the-singul
 cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/nvidia-shows-us-how-to-reach-the-singularity?hs_amp=true"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -19,68 +19,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "NVIDIA's Robotics Platform Got A Job At Amazon"
-    excerpt: "NVIDIA has revealed the latest version of its robotics platform at GTC 2022, a new Jetson module and a robot reference design to showcase it, along with a high-profile partnership that will see Amazon use its technology for warehouse robots."
-    publishedDateTime: 2022-03-22T17:54:00Z
-    webUrl: "https://www.slashgear.com/806644/nvidias-robotics-platform-got-a-job-at-amazon/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 84
-    images:
-      - url: "https://www.slashgear.com/img/gallery/nvidias-robotics-platform-got-a-job-at-amazon/l-intro-1647967346.jpg"
-        width: 1600
-        height: 898
-        isCached: true
-  - title: "Lucid and BYD will use NVIDIA’s DRIVE self-driving platform"
-    excerpt: "NVIDIA announced two new automotive clients for their DRIVE self-driving platform, EV startup Lucid Motors and Chinese EV giant BYD. BYD will use the system in their next-generation vehicles, and Lucid revealed that they are already powering their DreamDrive ADAS system with NVIDIA’s DRIVE Hyperion platform."
-    publishedDateTime: 2022-03-22T17:00:00Z
-    webUrl: "https://electrek.co/2022/03/22/nvidia-adds-lucid-and-byd-as-clients-for-their-drive-self-driving-platform/"
-    ampWebUrl: "https://electrek.co/2022/03/22/nvidia-adds-lucid-and-byd-as-clients-for-their-drive-self-driving-platform/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/03/22/nvidia-adds-lucid-and-byd-as-clients-for-their-drive-self-driving-platform/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 74
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Lucid-ADAS-Sensors.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Nvidia introduces Spectrum-4 platform for AI, HPC over Ethernet"
-    excerpt: "Nvidia is known for its GPUs, but has introduced Spectrum-4, a combination of networking technologies that reinforces its commitment not only to graphics processors, but also to systems designed to handle the demanding network workloads of AI and high-performance computing."
-    publishedDateTime: 2022-03-25T17:49:00Z
-    webUrl: "https://www.networkworld.com/article/3655129/nvidia-introduces-spectrum-4-platform-for-ai-hpc-over-ethernet.html"
-    ampWebUrl: "https://www.networkworld.com/article/3655129/nvidia-introduces-spectrum-4-platform-for-ai-hpc-over-ethernet.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3655129/nvidia-introduces-spectrum-4-platform-for-ai-hpc-over-ethernet.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/01/10/16/datacenter-1280x1280-3-100915910-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nvidia teams up with Lucid and BYD for new self-driving platform"
-    excerpt: "Graphics chip giant Nvidia on Tuesday debuted its latest self-driving car technology platform, Drive Hyperion 9. The company, which is hosting its GTC conference from March 21 thr"
-    publishedDateTime: 2022-03-22T17:00:00Z
-    webUrl: "https://www.aol.com/finance/nvidia-teams-lucid-byd-self-170052667.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/gQZzpeA4GpkvTHC9eTEfRw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/uu/api/res/1.2/x7tNEQ0hugvJtl4zcNJCng--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_yahoo_finance_433/9bdc8d522acf4c68f35ed399b2e67cb9"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "W4eEvyqXuIx1ZxrKMJ1UvhmZ6ApdAVE7xzc2mC/oZ94OhfNkU36BMhiuSzAk6HRY42DRm9fZkTtV+xAvpu+aVwQzBf6rP+QmgO6noq4wZHntyRYu93hb+gJF0iz6XeySyecYRIrjWaEOL3GuMqAXsp2C38BID71tFOs6kU9RSvYAOiWhdSYYPhXgSI8WS7rST6DiF1A9XsV9cuGvJRksPB4VmtNCGFnUtlyg8q14DlEXNXY8wsDLvMWV+LstjVVmCOJkxnn2O0UGlg/D8oqVFS0lXQtxKrzuSyAL28InMKRiklkqcVFwGCJMYpo/U15G58SKnGhsqJiJXyInrTZd+yemZ9iYrHkQ1kq+FB+NSPmQQxDDn+2RIU3SY/oE57D0Hpv9+cGS7iB2kV3Ko7D8J64/jw7nYXwOSdt1P2Mt7kiY3rDeRgiOt1kAbKxQUoxhMFywff+4N5Ed1Du354+CIFM4urdEkTvDCWMH6CEr68BRcmYFalIWkVJfFc/1yvkuIy0WUaPLFJlIFcbBWzf4/w==;ert/nh0s7A+ZF4aAIDGqZA=="
 ---

@@ -27,128 +27,87 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia's New Chips Power AI, Autonomous Vehicles, Metaverse Tools"
-    excerpt: "Stephen Shankland has been a reporter at CNET since 1998 and covers browsers, microprocessors, digital photography, quantum computing, supercomputers, drone delivery, and other new technology. He has a soft spot in his heart for standards groups and I/O interfaces."
-    publishedDateTime: 2022-03-22T16:30:00Z
-    webUrl: "https://www.cnet.com/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/"
+  - title: "NVIDIA unveils Hopper, its new hardware architecture to transform data centers into AI factories"
+    excerpt: "NVIDIA just announced Hopper, a new GPU architecture that promises significant performance improvements for AI workloads. We look under the hood to decipher whether the emphasis on Transformer AI models translates to a radical redesign,"
+    publishedDateTime: 2022-03-23T15:36:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-unveils-new-hardware-architecture-to-transform-data-centers-into-ai-factories/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-hardware-architecture-to-transform-data-centers-into-ai-factories/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-hardware-architecture-to-transform-data-centers-into-ai-factories/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 104
+      name: ZDNet
+      domain: zdnet.com
+    quality: 78
     images:
-      - url: "https://www.cnet.com/a/img/resize/e6f9c96c9d41a1111be07334771b84a092d5f7bc/2022/03/22/8a718d1d-ed74-4ab5-aaa0-2517650389e6/nvidia-hopper-h100-ai-chip.jpg?auto=webp&fit=crop&height=630&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/9df28300b54ac5cbaa088fa676f6f9ec7b1b50c9/2022/03/23/aed48689-ecfd-4fc6-a061-5968ab353f5d/hopper-arch-h100-die-image.png?width=1200&fit=bounds&format=pjpg&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Nvidia’s latest AI wizardry turns 2D photos into 3D scenes in milliseconds"
+    excerpt: "Writer at Neural by TNW — Thomas covers AI in all its iterations ... The company ended a week that introduced a new enterprise GPU and an Arm-based “superchip” with a trademark flashy ..."
+    publishedDateTime: 2022-03-25T13:18:00Z
+    webUrl: "https://thenextweb.com/news/nvidia-latest-ai-wizardry-turns-2d-photos-into-3d-scenes-in-milliseconds"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FNVIDIA-Research-Instant-NeRF-Image.jpg&signature=995be6c270f72e8df02361a4130e08bb"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nvidia unveils new technology to speed up AI, launches new supercomputer"
+    excerpt: "Nvidia Corp on Tuesday announced new chips and technologies that it said will boost the computing speed of increasingly complicated artificial intelligence algorithms, stepping up competition against rival chipmakers vying for lucrative data center business."
+    publishedDateTime: 2022-03-22T19:44:00Z
+    webUrl: "https://www.reuters.com/technology/nvidia-unveils-latest-chip-speed-up-ai-computing-2022-03-22/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
+    images:
+      - url: "https://www.reuters.com/resizer/aI7zfx5bX1nkr1EiPUXfoyVhWeU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PVBB3JD4BJK6LCNCPVKXMWBPQU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "NVIDIA Launches ‘Hopper’ GPU Architecture, H100 Becomes New AI-focused Flagship"
+    excerpt: "At its latest GTC, NVIDIA takes the veil off of its latest AI-focused GPU architecture. Named after Grace Hopper, 'Hopper' greatly improves performance in key areas over the previous generation, including both with raw compute,"
+    publishedDateTime: 2022-03-22T17:04:00Z
+    webUrl: "https://techgage.com/article/nvidia-launches-hopper-gpu-architecture-with-h100-becoming-new-ai-focused-flagship/"
+    type: article
+    provider:
+      name: Techgage
+      domain: techgage.com
+    quality: 50
+    images:
+      - url: "https://techgage.com/wp-content/uploads/2022/03/NVIDIA-Hopper-Die-Shot-Thumbnail.jpg"
+        width: 800
+        height: 800
+        isCached: true
+  - title: "Nvidia reveals new Hopper H100 GPU, with 80 billion transistors"
+    excerpt: "Nvidia has announced a new GPU based on its upcoming Hopper architecture. The Hopper architecture replaces Ampere, which has more than $10 billion sales to date. The H100 GPU is the first chip based on Hopper,"
+    publishedDateTime: 2022-03-23T09:59:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-reveals-new-hopper-h100-gpu-with-80-billion-transistors/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/H100_Hopper_GPU.2e16d0ba.fill-1200x630.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia Announces 3 New Powerful AI Chips -- What Investors Need to Know"
-    excerpt: "It's difficult to concisely summarize all of the new products and services announced at the tech company's annual spring GPU Technology Conference (GTC) that kicked off on March 21. But Nvidia's powerful new chip designs and systems aimed at artificial intelligence (AI) are a good place to start."
-    publishedDateTime: 2022-03-24T12:55:00Z
-    webUrl: "https://www.fool.com/investing/2022/03/24/nvidia-new-powerful-ai-chips-what-need-know/"
+  - title: "NVIDIA is turning data centers into 'AI factories' with Hopper GPU"
+    excerpt: "NVIDIA's next-gen Hopper GPU architecture is bringing the AI and Omniverse together, turning data centers into 'AI factories'."
+    publishedDateTime: 2022-03-22T17:20:00Z
+    webUrl: "https://www.tweaktown.com/news/85205/nvidia-is-turning-data-centers-into-ai-factories-with-hopper-gpu/index.html"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/671704/nvidia-hopper-architecture-h100-sxm.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Languages in the metaverse: Why AI is critical for communication in the brave new world"
-    excerpt: "We don’t have the superpower of universal understanding in real life. But what if it’s indeed possible to achieve it in the metaverse?"
-    publishedDateTime: 2022-03-26T16:10:00Z
-    webUrl: "https://venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world/"
-    ampWebUrl: "https://venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1369741848.jpg?w=1200&strip=all"
-        width: 1200
-        height: 624
-        isCached: true
-  - title: "Nvidia bridges real and virtual in the Omniverse with AI"
-    excerpt: "Kicking off NVIDIA’s GTC conference this week, founder and CEO Jensen Huang highlighted a slew of transformative updates featuring NVIDIA artificial"
-    publishedDateTime: 2022-03-23T07:56:00Z
-    webUrl: "https://techhq.com/2022/03/nvidia-bridges-real-and-virtual-in-the-omniverse-with-ai-supercomputing/"
-    ampWebUrl: "https://techhq.com/amp/2022/03/nvidia-bridges-real-and-virtual-in-the-omniverse-with-ai-supercomputing/"
-    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/03/nvidia-bridges-real-and-virtual-in-the-omniverse-with-ai-supercomputing/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 59
-    images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2022/03/NVIDIA-Omniverse-Enterprise-Digital-Twin-Amazon-Image-375x210.jpg"
-        width: 375
-        height: 210
-        isCached: true
-  - title: "Nvidia Will Be A Prime Contractor For Big AI Supercomputers"
-    excerpt: "Normally, when we look at a system, we think from the compute engines at a very fine detail and then work our way out across the intricacies of the nodes"
-    publishedDateTime: 2022-03-23T23:41:00Z
-    webUrl: "https://www.nextplatform.com/2022/03/23/nvidia-will-be-a-prime-contractor-for-big-ai-supercomputers/"
-    ampWebUrl: "https://www.nextplatform.com/2022/03/23/nvidia-will-be-a-prime-contractor-for-big-ai-supercomputers/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/23/nvidia-will-be-a-prime-contractor-for-big-ai-supercomputers/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-dgx-logo.jpg"
-        width: 888
-        height: 417
-        isCached: true
-  - title: "Sequitur Labs Protects NVIDIA Jetson Powered Edge AI Models"
-    excerpt: "Latest release of EmSPARKT Security Suite for the NVIDIA Jetson platformfeatures new trusted applications for AI protection"
-    publishedDateTime: 2022-03-25T09:54:00Z
-    webUrl: "https://www.electronicsforu.com/press-releases/sequitur-labs-protects-nvidia-jetson-powered-edge-ai-models"
-    ampWebUrl: "https://www.electronicsforu.com/press-releases/sequitur-labs-protects-nvidia-jetson-powered-edge-ai-models/amp"
-    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/press-releases/sequitur-labs-protects-nvidia-jetson-powered-edge-ai-models/amp"
-    type: article
-    provider:
-      name: Electronics For You
-      domain: electronicsforu.com
-    quality: 59
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/03/nvidia-jetson-agx-module-1ccw-d-e1648195208564.png"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Kroger teams up with Nvidia to build AI lab"
-    excerpt: "The Kroger Co. plans to create an artificial intelligence (AI) lab and demonstration center in its Cincinnati headquarters under a collaboration with graphics chip pioneer Nvidia. Santa Clara, Calif.-based Nvidia,"
-    publishedDateTime: 2022-03-23T17:48:00Z
-    webUrl: "https://www.supermarketnews.com/technology/kroger-teams-nvidia-build-ai-lab"
-    type: article
-    provider:
-      name: Supermarket News
-      domain: supermarketnews.com
-    quality: 39
-    images:
-      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/Kroger%20Nvidia%20AI%20lab%20partnership.jpeg"
-        width: 770
-        height: 400
-        isCached: true
-  - title: "THE METAVERSE COURTROOM: Using Virtual Reality, Artificial Intelligence and Sensory Devices to Find Justice"
-    excerpt: "It’s 2030 and the new handheld Techsung Global Device 50 (“TGD50”) phone, tablet and laptop battery has a run time of six months between charges. It offers incredible technology except for one thing,"
-    publishedDateTime: 2022-03-24T14:41:00Z
-    webUrl: "https://www.linkedin.com/pulse/metaverse-courtroom-using-virtual-reality-artificial-sensory-jackson"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 19
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGTHhSmb45QPQ/article-cover_image-shrink_720_1280/0/1647358378968?e=1653523200&v=beta&t=AgvD4S0nxDMgeE9ROF0N4qgFG3YpYOmOunBFLjIxfD4"
-        width: 720
-        height: 720
-        isCached: true
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
 
 secured: "EDbjL1pfCSUbwKbv3oaPiZ9UR3c5mB07F8RPUNh2DSdhazPDOdj+tWOimEZ5bn3dpXA9OEC/AzPbLK+2jh98B6o7YtKoiMLw1UNweb19uBnkfv1bi/XEYyOwrDcxV93XCmV/BPBQ2tYvhz8vrDkjHnNk0t5ugqwNln0IQwi69JpRV8RGA+gJ95tNujpvNywyE90ddjumPdn1vdPMD/rfedfbqxStR8rF/WkSKO26IpweGBO7RGLu/8cYHeAvLcnn2AkG2akuCejpVWyP7lMjxIwsxOgR3IfuAWQf/iLaZgthfYoQRS8RcirXrULnVEkUkU76erWkSbt4uxE4ou6t2djO7D1pc/P8R4vDvCVsTpzBEBzST6U2R0v8TatzDClhAyLE1TpZ1DyXVggpt16Kifkh20dnAeGXqcSZEUKFGy4qcOzRXM5yYXOjOsIgngLsPsT2BERuh2uWvml8Bdl5rHKxE2IPEVs78+jSr0TR8S3zMzD+KBfi45nOEX00GjM2SI9bK0vhIDU9CZuy5CDcvg==;6zbecgZs2i0uAlNxL6/WNg=="
 ---

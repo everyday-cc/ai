@@ -2,6 +2,91 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-17-artificial-intelligence-chipsets-market-size-worth-12567-billion-globally-by-2028-at-3408-cagr-verified-market-research.md",
+      "title": "Artificial Intelligence Chipsets Market size worth $ 125.67 Billion, Globally, by 2028 at 34.08 % CAGR: Verified Market Research®",
+      "excerpt": "Verified Market Research recently published a report, \"Artificial Intelligence Chipsets Market\" By Technology (Natural Language",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-chipsets-market-size-worth-125-67-billion-globally-by-2028-at-34-08-cagr-verified-market-research-r--870485877.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-chipsets-market-size-worth-125-67-billion-globally-by-2028-at-34-08-cagr-verified-market-research-r--870485877.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook",
+          "width": 2696,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-durham-startup-restor3d-merging-3d-printing-biomechanics-and-ai-raises-14m-from-147-investors.md",
+      "title": "Durham startup restor3d, merging 3D printing, biomechanics, and AI, raises $14M from 147 investors",
+      "excerpt": "A Durham-based startup with ties to Duke has raised nearly $14M and could raise up to $22M, according to a filing. And 147 people have invested so far.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2022/03/17/durham-startup-restor3d-merging-3d-printing-biomechanics-and-ai-raises-14m-from-147-investors/",
+      "originalUrl": "https://wraltechwire.com/2022/03/17/durham-startup-restor3d-merging-3d-printing-biomechanics-and-ai-raises-14m-from-147-investors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2018/10/money-cash-venture-capital-profit.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2022/03/17/durham-startup-restor3d-merging-3d-printing-biomechanics-and-ai-raises-14m-from-147-investors/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/03/17/durham-startup-restor3d-merging-3d-printing-biomechanics-and-ai-raises-14m-from-147-investors/?amp=1",
+      "publishedDateTime": "2022-03-17T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-dataikus-no-code-cloud-stack-accelerator-is-now-available-on-aws.md",
       "title": "Dataiku’s No-Code Cloud Stack Accelerator Is Now Available on AWS",
       "excerpt": "Dataiku, the platform for Everyday AI, today unveiled the Dataiku cloud stack accelerator on Amazon Web Services (AWS) — a new way of rapidly deploying and managing Dataiku’s data, analytics, and artificial intelligence (AI) platform on AWS.",
@@ -1001,91 +1086,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-israeli-ai-infrastructure-firm-runai-raises-75-million.md",
-      "title": "Israeli AI Infrastructure Firm Run:ai Raises $75 Million",
-      "excerpt": "Run:ai enables organizations to have all their AI resources on a single, unified platform that supports AI at all stages of development.",
-      "sourceUrl": null,
-      "webUrl": "https://nocamels.com/2022/03/ai-run-infrastructure-firm/",
-      "originalUrl": "https://nocamels.com/2022/03/ai-run-infrastructure-firm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/03/run.jpg",
-          "width": 1200,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NoCamels - Israeli Innovation News",
-        "domain": "nocamels.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-deploying-artificial-intelligence-to-prevent-delayed-and-missed-care.md",
-      "title": "Deploying artificial intelligence to prevent delayed and missed care",
-      "excerpt": "Medical imaging is one of the most widely used diagnostic tools in health care with providers ordering dozens of imaging studies for their patients every day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220316/Deploying-artificial-intelligence-to-prevent-delayed-and-missed-care.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220316/Deploying-artificial-intelligence-to-prevent-delayed-and-missed-care.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220316/Deploying-artificial-intelligence-to-prevent-delayed-and-missed-care.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220316/Deploying-artificial-intelligence-to-prevent-delayed-and-missed-care.aspx",
-      "publishedDateTime": "2022-03-16T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

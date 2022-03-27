@@ -99,49 +99,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-23-thetaray-transaction-monitoring-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "ThetaRay Transaction Monitoring Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "ThetaRay, provider of AI-powered transaction monitoring technology to protect banks and fintechs against financial crimes, today announced the availability",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-transaction-monitoring-now-available-in-the-microsoft-azure-marketplace/article_e259606b-33f5-5e67-92f6-1d671657497f.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-transaction-monitoring-now-available-in-the-microsoft-azure-marketplace/article_e259606b-33f5-5e67-92f6-1d671657497f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-23-cloud-migration-for-medical-imaging-data-using-azure-health-data-services-and-ims.md",
       "title": "Cloud migration for medical imaging data using Azure Health Data Services and IMS",
       "excerpt": "This blog is part of a series in collaboration with our partners and customers leveraging the newly announced Azure Health Data Services. Azure Health Data Services, a platform as a service (PaaS) offering designed exclusively to support Protected Health Information (PHI) in the cloud, is a new way of",
@@ -202,7 +159,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -1420,6 +1377,52 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-05-artificial-intelligence-in-healthcare-service-market-next-big-thing-major-giants-ibm-microsoft-atomwise.md",
+      "title": "Artificial Intelligence in Healthcare Service Market Next Big Thing : Major Giants IBM, Microsoft, Atomwise",
+      "excerpt": "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 03/04/2022 -- The Latest research study released by HTF MI",
+      "sourceUrl": null,
+      "webUrl": "https://www.cedars-sinai.org/newsroom/cedars-sinai-establishes-new-division-artificial--intelligence-in-medicine/",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-service-market-next-big-thing-major-giants-ibm-microsoft-atomwise",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.presspage.com/uploads/2110/1920_ai-cedarsp-sinai.jpeg?10000",
+          "width": 1799,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-04T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI",
+        "Machine Learning",
+        "AI in Robotics"
       ]
     }
   ],

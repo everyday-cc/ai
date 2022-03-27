@@ -28,7 +28,7 @@ related:
   - title: "Medical Revolution: AI Firm WEIYUN AI & Robotics Group Launches Orthodontic Smart Alignment System Venus 1.0"
     excerpt: "Recently, the leading surgical robotic and AI customerized industrial Internet company - Weiyun AI&Robotics Group has successfully developed AI SMILE Orthodontic Smart Alignment System named Venus 1.0,"
     publishedDateTime: 2022-03-26T00:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/space-exploration-science-technology-health-business-98ad2bafd450f18e353b9fdcc283f668"
+    webUrl: "https://apnews.com/press-release/PRNewswire/space-exploration-science-technology-health-business-98ad2bafd450f18e353b9fdcc283f668"
     type: article
     provider:
       name: Associated Press

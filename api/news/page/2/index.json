@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-25-mayo-clinic-assessing-google-ai-tool-as-it-seeks-more-insights-from-patient-records.md",
+      "title": "Mayo Clinic Assessing Google AI Tool as It Seeks More Insights From Patient Records",
+      "excerpt": "Mayo Clinic said it is assessing a product from Google Cloud that uses artificial intelligence to better track and analyze language-based information in patients’ electronic health records, such as doctor’s notes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/mayo-clinic-assessing-google-ai-tool-as-it-seeks-more-insights-from-patient-records-11648159790",
+      "originalUrl": "https://www.wsj.com/articles/mayo-clinic-assessing-google-ai-tool-as-it-seeks-more-insights-from-patient-records-11648159790",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-511654/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/mayo-clinic-assessing-google-ai-tool-as-it-seeks-more-insights-from-patient-records-11648159790",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mayo-clinic-assessing-google-ai-tool-as-it-seeks-more-insights-from-patient-records-11648159790",
+      "publishedDateTime": "2022-03-24T14:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-why-you-shouldnt-be-using-ai-for-hiring.md",
+      "title": "Why you shouldn’t be using AI for hiring",
+      "excerpt": "It’s virtually impossible to create bias-free AI recruiting tools. Here are strategies to mitigate the potential damage.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/",
+      "originalUrl": "https://venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281172753.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/amp/",
+      "publishedDateTime": "2022-03-24T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-digits-aims-to-disrupt-fintech-with-real-time-analytics.md",
       "title": "Digits aims to disrupt fintech with real-time analytics",
       "excerpt": "Digits, a leading fintech platform, announced today that it has raised a series C funding round led by SoftBank, with participation from Benchmark and GV, reportedly bringing total funds raised to $97.",
@@ -748,7 +852,7 @@
       "originalUrl": "https://www.zdnet.com/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1152,102 +1256,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-datagen-raises-50-million-series-b-to-empower-computer-vision-teams.md",
-      "title": "Datagen raises $50 million Series B to empower computer vision teams",
-      "excerpt": "Datagen now has a much more scalable way to help clients themselves generate the visual data that they need to train their computer vision applications.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/23/datagen-raises-50-million-series-b-to-empower-computer-vision-teams/",
-      "originalUrl": "https://techcrunch.com/2022/03/23/datagen-raises-50-million-series-b-to-empower-computer-vision-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1303435492.jpg?w=1024",
-          "width": 1024,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/23/datagen-raises-50-million-series-b-to-empower-computer-vision-teams/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/23/datagen-raises-50-million-series-b-to-empower-computer-vision-teams/amp/",
-      "publishedDateTime": "2022-03-23T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-cisco-upgrades-target-kubernetes-cloud-and-aiml.md",
-      "title": "Cisco upgrades target Kubernetes, cloud, and AI/ML",
-      "excerpt": "Cisco has added new features to its Intersight cloud management system, UCS X-Series server, and HyperFlex hyperconverged system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.html",
-      "originalUrl": "https://www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/08/03/istock-1254718662-100908660-large-100921213-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.amp.html",
-      "publishedDateTime": "2022-03-23T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

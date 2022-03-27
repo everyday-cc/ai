@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-22-nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools.md",
+      "title": "Nvidia's New Chips Power AI, Autonomous Vehicles, Metaverse Tools",
+      "excerpt": "Stephen Shankland has been a reporter at CNET since 1998 and covers browsers, microprocessors, digital photography, quantum computing, supercomputers, drone delivery, and other new technology. He has a soft spot in his heart for standards groups and I/O interfaces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/",
+      "originalUrl": "https://www.cnet.com/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/e6f9c96c9d41a1111be07334771b84a092d5f7bc/2022/03/22/8a718d1d-ed74-4ab5-aaa0-2517650389e6/nvidia-hopper-h100-ai-chip.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/",
+      "publishedDateTime": "2022-03-22T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-how-this-ai-predicts-extreme-local-weather-events.md",
+      "title": "How this AI predicts extreme local weather events",
+      "excerpt": "As climate change increases the intensity and frequency of extreme weather events, prediction has never been more important.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-ai-predicts-extreme-local-weather-events/",
+      "originalUrl": "https://www.zdnet.com/article/how-ai-predicts-extreme-local-weather-events/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a52a9e865fc6c94a81086164d6118ca459e60169/2022/03/21/9eb7fcc9-a38f-4eae-89db-07887cd97eb6/gettyimages-182689622.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-ai-predicts-extreme-local-weather-events/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-predicts-extreme-local-weather-events/",
+      "publishedDateTime": "2022-03-22T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-pasqal-quantum-computers-to-become-available-on-azure-quantum-this-year.md",
       "title": "Pasqal quantum computers to become available on Azure Quantum this year",
       "excerpt": "Microsoft has agreed a partnership with quantum startup Pasqal which will see its quantum computers become available on Azure Quantum later this year. This will provide users with cloud-based access to Azure’s first quantum processor based on neutral atom architecture,",
@@ -1134,101 +1238,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-19-daos-will-never-develop-above-their-present-state-without-the-help-of-robots.md",
-      "title": "DAOs will never develop above their present state without the help of robots",
-      "excerpt": "DAOs (decentralized autonomous organizations) are already transforming the world by empowering significant groups of individuals to make autonomous choices. These groups are reducing the need for centralized management teams,",
-      "sourceUrl": null,
-      "webUrl": "https://tokeneo.com/daos-will-never-develop-above-their-present-state-without-the-help-of-robots/",
-      "originalUrl": "https://tokeneo.com/daos-will-never-develop-above-their-present-state-without-the-help-of-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tokeneo.com/uploads/2022/03/AI.jpg",
-          "width": 640,
-          "height": 305,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tokeneo.com/daos-will-never-develop-above-their-present-state-without-the-help-of-robots/amp/",
-      "cdnAmpWebUrl": "https://tokeneo-com.cdn.ampproject.org/c/s/tokeneo.com/daos-will-never-develop-above-their-present-state-without-the-help-of-robots/amp/",
-      "publishedDateTime": "2022-03-18T23:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tokeneo",
-        "domain": "tokeneo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-19-neuro-symbolic-ai-could-provide-machines-with-common-sense.md",
-      "title": "Neuro-symbolic AI could provide machines with common sense",
-      "excerpt": "Machines could plan their actions based on mental representations of the world they develop through intuitive physics and neuro-symbolic AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/",
-      "originalUrl": "https://venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1341811309-e1647616199862.jpg?fit=800%2C500&strip=all",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/amp/",
-      "publishedDateTime": "2022-03-18T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

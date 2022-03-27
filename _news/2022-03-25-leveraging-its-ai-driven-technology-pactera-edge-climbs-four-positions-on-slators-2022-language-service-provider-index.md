@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lever
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service/article_9e4966e0-a8b8-5215-a906-c97477c8b704.html"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "Argos Multilingual Launches AI-driven Translation Memory Cleaning Service"
-    excerpt: "Argos Multilingual has announced the development of an AI-driven service for cleaning translation memory (TM) data."
-    publishedDateTime: 2022-03-22T15:45:00Z
-    webUrl: "https://slator.com/argos-multilingual-launches-ai-driven-translation-memory-cleaning-service/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 38
-    images:
-      - url: "https://slator.com/assets/2021/05/Argos-Multilingual-2021-900x600-CD.png"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "BpMP24rW4lI8Cdh8qsXh8fsf7VFKBeggMAybcSN6iN1wVBWxCK9+hg5hN7CM3VU6TJnK3JRssK8uT2mCoYwwhMgFKhtfckOHeojNtkjtSDV3JxNbsxatzyw+YkwpNtPbHfwGaMvxJCAsh70xD72hNbXdstvT1AOqGy8QcCyoDf9knnDsFejBgDmR6igRwhe6smLqX1GoaPyP6U8VKe8O+OS2GtpRxnn5IDr2lW/bmunZYQXJXuiPYtEzs7r+XdCvMiWr2iN6yy40hY1JOpefInE/zAJTyryopeHjS7BHGhfm+o+9jzouIoBBW7IfzfhEFKhfCj5pNv8cYHAKfRIWDw2xwb7FvlW28HAx/eB0TX/DTNI3F08OkBrbE3QwxhiHaq4z1PQ9C3dGTFoOXC57TGgxzTWeQASxubkyxW3XJHZe76atFJzBMrlP+WweONyKvmKLph5Avxi/DLwsOrhaaOFF2GAhRqNDt6APqovrIv1DoijrBVFEesniHQVK9d/52Khp+eFmUbg59hq38yWWOg==;rfT1QK5D1OmXreC6bOKCug=="
 ---

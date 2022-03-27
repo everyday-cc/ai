@@ -1,26 +1,27 @@
 ---
 category: news
-title: "BairesDev wins the Business Intelligence Group’s 2022 Artificial Intelligence Excellence Award"
-excerpt: "The award recognizes BairesDev’s AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
-publishedDateTime: 2022-03-25T17:18:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
+title: "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award"
+excerpt: "The Business Intelligence Grouptm today announced that BairesDev, a leading technology solutions company, is a winner in its Artificial Intelligence (AI) Excellence Awards program. The award highlights the company's efforts to build new tools,"
+publishedDateTime: 2022-03-25T17:31:00Z
+originalUrl: "https://www.lelezard.com/en/news-20305538.html"
+webUrl: "https://www.lelezard.com/en/news-20305538.html"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -52,19 +53,19 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Chillax Care Limited Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that Chillax Care Limited was named a winner in its Artificial Intelligence Excellence Awards program. With a decade of experience in the baby and consumer electronics industry,"
-    publishedDateTime: 2022-03-22T16:21:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-cf817fa2651334f20d4d5361cc349ab6"
+  - title: "Qlik’s Elif Tutuk Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Elif Tutuk, Vice President of Innovation and Design at Qlik®, was named a winner in its"
+    publishedDateTime: 2022-03-24T12:31:00Z
+    webUrl: "https://www.kentuckytoday.com/news/business/qlik-s-elif-tutuk-named-winner-in-2022-artificial-intelligence-excellence-awards/article_ffd0e99d-89bd-5ce3-b8d9-e08e8628db8e.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
+      name: Kentucky Today
+      domain: kentuckytoday.com
+    quality: 34
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
   - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
     excerpt: "Artificial Intelligence Excellence Award. EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligen"
@@ -76,6 +77,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "+A7pGSFYOQub06LUYaiLMuaa+OQxmi+JpGhgBLuXrN41Ak/kJGQRxdXfGdlndOqbyXYSsFsR3OIOk2Px9T1Fqxv/0WxMZbBlIkWgNUuQraUlgrnc52v2PqQVNdaM9rFAu8y0edCpoT9wzufRHHYxxcCT38AAND7n1EeIQTSxodGR9+79qULt/orIGsqjRAYyHj04U+HHz4fSH3o6jaKG5epmMnLifZyfhJQMI5VNOH4Fa8h9s7kdyM2hBDrwbaq/PW3ooi9Mh9Yff+6FgzMSXIq/SWgfPgfMBnrUS2Fg2gYDq386jK5/+FJQVLdWbtKgdDyhCG10210Qm/KyjT4MhFkglX+M8hg8pQvE51tm5X0=;uL9zYzz1lhEr2NawvJouWQ=="
+secured: "8nuLzQIKyN+ech13HOcjVx3WbRyo7SFR3cV9MrFXcjw+5wASTPxexg6v7wYvjdlgd4kfdjJITQveGPErXhKQAtHBw1QXy3FzjQgEPySXU3xJhYzG9OeLezpNkl5waRODzWbvMvw1evrNyPv4fslV/K5Kl+GBnyFv2o/1ppN+OeYCmwDQLj6pqYukrwesVc6CqgZOb/qMivHhgSw1mnHYpjZkVf7MlLCZeO2uupEoPfuJjH3QPARZo2Dd/yKZDdrEw3NqAVS2HYQi2yuhWR98De8NVVhumvDbtk8H5wu6ufltZRyy4YU3PZhkY2P/k2LLJnzD4BXBbvEEUSNm4vvVYbtsaAE5J5fOkNOhaaxqOSE=;Ere3Du4NH2AHVdBfDgw1jw=="
 ---
 

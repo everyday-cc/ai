@@ -36,20 +36,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 69
-  - title: "Nvidia’s latest AI wizardry turns 2D photos into 3D scenes in milliseconds"
-    excerpt: "Writer at Neural by TNW — Thomas covers AI in all its iterations ... The company ended a week that introduced a new enterprise GPU and an Arm-based “superchip” with a trademark flashy ..."
-    publishedDateTime: 2022-03-25T13:18:00Z
-    webUrl: "https://thenextweb.com/news/nvidia-latest-ai-wizardry-turns-2d-photos-into-3d-scenes-in-milliseconds"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FNVIDIA-Research-Instant-NeRF-Image.jpg&signature=995be6c270f72e8df02361a4130e08bb"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "NVIDIA Instant NeRF tech converts 2D photos into 3D scenes in the 'blink of an AI'"
     excerpt: "NVIDIA Research has unveiled its latest AI technology, Instant NeRF. It is faster than previous NeRF models and can turn a series of 2D images into a 3D scene in seconds."
     publishedDateTime: 2022-03-25T20:21:00Z

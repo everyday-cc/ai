@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-26-languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world.md",
+      "title": "Languages in the metaverse: Why AI is critical for communication in the brave new world",
+      "excerpt": "We don’t have the superpower of universal understanding in real life. But what if it’s indeed possible to achieve it in the metaverse?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world/",
+      "originalUrl": "https://venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1369741848.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world/amp/",
+      "publishedDateTime": "2022-03-26T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-26-ex-google-ai-skeptic-timnit-gebru-starts-anew.md",
       "title": "Ex-Google AI skeptic Timnit Gebru starts anew",
       "excerpt": "When she co-led Google's Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry's approach to artificial intelligence.",
@@ -413,6 +465,112 @@
       ]
     },
     {
+      "path": "_news/2022-03-23-nvidia-unveils-hopper-its-new-hardware-architecture-to-transform-data-centers-into-ai-factories.md",
+      "title": "NVIDIA unveils Hopper, its new hardware architecture to transform data centers into AI factories",
+      "excerpt": "NVIDIA just announced Hopper, a new GPU architecture that promises significant performance improvements for AI workloads. We look under the hood to decipher whether the emphasis on Transformer AI models translates to a radical redesign,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nvidia-unveils-new-hardware-architecture-to-transform-data-centers-into-ai-factories/",
+      "originalUrl": "https://www.zdnet.com/article/nvidia-unveils-new-hardware-architecture-to-transform-data-centers-into-ai-factories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/9df28300b54ac5cbaa088fa676f6f9ec7b1b50c9/2022/03/23/aed48689-ecfd-4fc6-a061-5968ab353f5d/hopper-arch-h100-die-image.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-hardware-architecture-to-transform-data-centers-into-ai-factories/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-hardware-architecture-to-transform-data-centers-into-ai-factories/",
+      "publishedDateTime": "2022-03-23T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles.md",
+      "title": "GTC 2022: NVIDIA flexes its GPU and platform muscles",
+      "excerpt": "NVIDIA's CEO Jensen Huang's 1 hour, 39-minute keynote covered a lot of ground but the unifying themes to the majority of the two dozen announcements were GPU-centered, and its platform approach to everything it builds.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/",
+      "originalUrl": "https://venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/nvidia.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/amp/",
+      "publishedDateTime": "2022-03-22T20:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models.md",
       "title": "Microsoft improves Translator and Azure AI services with new AI 'Z-code' models",
       "excerpt": "Microsoft's new Z-code models, which use a 'Mixture of Experts' approach, are meant to make Translator and other Microsoft AI services perform better and be more efficient to run.",
@@ -421,7 +579,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -1149,6 +1307,58 @@
       ]
     },
     {
+      "path": "_news/2022-03-16-gpt-3-the-breakthrough-on-ai-and-natural-language.md",
+      "title": "GPT-3 the breakthrough on AI and natural language.",
+      "excerpt": "In the artificial intelligence (AI) world, there has been a lot of hype around a newly developed technology known as GPT-3. GPT-3 was created by OpenAI, a research firm co-founded by Elon Musk, and has been considered the most important and rewarding advance in AI for many years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/gpt-3-breakthrough-ai-natural-language-sergio-ortega",
+      "originalUrl": "https://www.linkedin.com/pulse/gpt-3-breakthrough-ai-natural-language-sergio-ortega",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGStm_X3mjjoQ/article-cover_image-shrink_720_1280/0/1647375616110?e=1654128000&v=beta&t=OnmHorNprG3Z4N9d5vXP10zrNcLAkzDdRECOwGSU3Y4",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-apple-wins-appeal-against-speech-recognition-patent-in-siri-suit.md",
       "title": "Apple Wins Appeal Against Speech Recognition Patent in Siri Suit",
       "excerpt": "The Federal Circuit summarily affirmed an administrative tribunal ruling that nixed part of a patent that Apple Inc. was accused of infringing with its Siri technology.",
@@ -1217,187 +1427,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-03-15T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lifewire",
-        "domain": "lifewire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-how-we-handle-language-in-the-metaverse-could-set-the-tone-for-its-future.md",
-      "title": "How we handle language in the metaverse could set the tone for its future",
-      "excerpt": "We may need synthetic data to remove language bias in the metaverse so that everyone has a voice -- not just those who shout the loudest.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/13/how-we-handle-language-in-the-metaverse-could-set-the-tone-for-its-future/",
-      "originalUrl": "https://venturebeat.com/2022/03/13/how-we-handle-language-in-the-metaverse-could-set-the-tone-for-its-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1215375477.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/13/how-we-handle-language-in-the-metaverse-could-set-the-tone-for-its-future/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/13/how-we-handle-language-in-the-metaverse-could-set-the-tone-for-its-future/amp/",
-      "publishedDateTime": "2022-03-13T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-13-wow-this-indian-student-did-what-no-big-tech-firm-could-real-time-translation-of-sign-language.md",
-      "title": "Wow! This Indian student did what NO big tech firm could! Real-time translation of sign language",
-      "excerpt": "An Indian engineering student from Tamil Nadu has developed the new AI model which translates sign language into English instantly. Know the inspiring story.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/wow-this-indian-student-did-what-no-big-tech-firm-could-real-time-translation-of-sign-language-71647082254014.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/wow-this-indian-student-did-what-no-big-tech-firm-could-real-time-translation-of-sign-language-71647082254014.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2022/03/12/1600x900/web-g18e6361fa_1920_1647082773401_1647082789740.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/wow-this-indian-student-did-what-no-big-tech-firm-could-real-time-translation-of-sign-language-71647082254014.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/wow-this-indian-student-did-what-no-big-tech-firm-could-real-time-translation-of-sign-language-71647082254014.html",
-      "publishedDateTime": "2022-03-12T14:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-12-3-ways-natural-language-processing-is-changing-cybersecurity.md",
-      "title": "3 Ways Natural Language Processing is Changing Cybersecurity",
-      "excerpt": "If you’ve used a chatbot, predictive text to finish a thought in an email, or pressed “0” to speak to an operator, you’ve come across natural language processing (NLP). As more enterprises adopt NLP,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/306473/3-ways-natural-language-processing-is-changing-cybersecurity.html",
-      "originalUrl": "https://www.cio.com/article/306473/3-ways-natural-language-processing-is-changing-cybersecurity.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/03/iStock-1354205086.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/306473/3-ways-natural-language-processing-is-changing-cybersecurity.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/306473/3-ways-natural-language-processing-is-changing-cybersecurity.html/amp",
-      "publishedDateTime": "2022-03-11T10:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-ai-could-help-you-understand-animal-speech.md",
-      "title": "AI Could Help You Understand Animal Speech",
-      "excerpt": "Researchers in Copenhagen may have found a way to translate animal sounds to human speech, making it easier for us to communicate with our pets and other animals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lifewire.com/ai-could-help-you-understand-animal-speech-5221922",
-      "originalUrl": "https://www.lifewire.com/ai-could-help-you-understand-animal-speech-5221922",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lifewire.com/thmb/-8IapDgHkSURLTYAwKaaNJXYbPQ=/2121x1414/filters:fill(auto,1)/GettyImages-84303682-7c195ae84a034617bbe5a2a6e6c23853.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-11T07:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Lifewire",

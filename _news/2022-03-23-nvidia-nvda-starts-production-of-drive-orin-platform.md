@@ -37,21 +37,37 @@ related:
         width: 1138
         height: 640
         isCached: true
-  - title: "NVIDIA Jetson AGX Orin: The Next-Gen Platform That Will Power Our AI Robot Overlords Unveiled"
-    excerpt: "NVIDIA's latest Jetson hardware and Jetpack SDK updates extend the company's already extensive lead in AI and robotics."
-    publishedDateTime: 2022-03-22T16:25:00Z
-    webUrl: "https://hothardware.com/news/nvidia-jetson-agx-orin"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-jetson-agx-orin"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-jetson-agx-orin"
+  - title: "Nvidia bridges real and virtual in the Omniverse with AI"
+    excerpt: "Kicking off NVIDIA’s GTC conference this week, founder and CEO Jensen Huang highlighted a slew of transformative updates featuring NVIDIA artificial"
+    publishedDateTime: 2022-03-23T07:56:00Z
+    webUrl: "https://techhq.com/2022/03/nvidia-bridges-real-and-virtual-in-the-omniverse-with-ai-supercomputing/"
+    ampWebUrl: "https://techhq.com/amp/2022/03/nvidia-bridges-real-and-virtual-in-the-omniverse-with-ai-supercomputing/"
+    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/03/nvidia-bridges-real-and-virtual-in-the-omniverse-with-ai-supercomputing/"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 63
+      name: TechHQ
+      domain: techhq.com
+    quality: 59
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/58031/content/small_kit-hero-nvidia-jetson-agx-orin.jpg"
-        width: 708
-        height: 398
+      - url: "https://cdn.techhq.com/wp-content/uploads/2022/03/NVIDIA-Omniverse-Enterprise-Digital-Twin-Amazon-Image-375x210.jpg"
+        width: 375
+        height: 210
+        isCached: true
+  - title: "Sequitur Labs Protects NVIDIA Jetson Powered Edge AI Models"
+    excerpt: "Latest release of EmSPARKT Security Suite for the NVIDIA Jetson platformfeatures new trusted applications for AI protection"
+    publishedDateTime: 2022-03-25T09:54:00Z
+    webUrl: "https://www.electronicsforu.com/press-releases/sequitur-labs-protects-nvidia-jetson-powered-edge-ai-models"
+    ampWebUrl: "https://www.electronicsforu.com/press-releases/sequitur-labs-protects-nvidia-jetson-powered-edge-ai-models/amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/press-releases/sequitur-labs-protects-nvidia-jetson-powered-edge-ai-models/amp"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 59
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/03/nvidia-jetson-agx-module-1ccw-d-e1648195208564.png"
+        width: 500
+        height: 281
         isCached: true
   - title: "Leopard Imaging Expands 3D Depth Time-of-Flight and Stereo Camera Portfolio for Edge Computing Powered by NVIDIA Jetson Edge AI Platform"
     excerpt: "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, today announced it is building on its portfolio of 3D Depth Time-of-Flight (ToF) and Stereo camera solutions for edge computing."

@@ -2,6 +2,154 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-25-meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse.md",
+      "title": "Meta has a giant new AI supercomputer to shape the metaverse",
+      "excerpt": "RSC could be powerful enough to simultaneously translate speech ... \"RSC will enable new AI models that can learn from trillions of examples, understand hundreds of languages and more.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse/",
+      "originalUrl": "https://www.cnet.com/tech/computing/meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 449,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/siHq4W98CK1DZnjUDNNGOJaq8Mk=/1200x630/2022/01/23/1b7d5a6f-b387-4fc8-8304-404b063355b7/facebook-meta-ai-supercomputer.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse/",
+      "publishedDateTime": "2022-01-24T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m.md",
+      "title": "Ceremorphic addresses AI, HPC, and the metaverse with QS 1 chip, lands $50M",
+      "excerpt": "Ceremorphic, a startup, is coming out of stealth mode with $50 million of series A funding along with the announcement of the QS 1 chip.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/",
+      "originalUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1340728386-e1643043402598.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/amp/",
+      "publishedDateTime": "2022-01-24T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-elon-musks-brain-chip-startup-neuralink-looking-to-hire-clinical-trial-director-in-california-as-it-nears-human-trials.md",
+      "title": "Elon Musk's Brain-Chip Startup Neuralink Looking To Hire Clinical Trial Director In California As It Nears Human Trials",
+      "excerpt": "CEO Elon Musk-led brain-machine interface startup Neuralink is recruiting a clinical trial director and a coordinator to realize plans for clinical",
+      "sourceUrl": null,
+      "webUrl": "https://boards.greenhouse.io/neuralink/jobs/4723041003",
+      "originalUrl": "https://www.msn.com/en-us/finance/news/elon-musks-brain-chip-startup-neuralink-looking-to-hire-clinical-trial-director-in-california-as-it-nears-human-trials/ar-AAT5m0f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/497/300/original/Neuralink_logo.jpg?1632771349",
+          "width": 820,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T04:00:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "greenhouse.io/neuralink/jobs/4723041003",
+        "domain": "greenhouse.io/neuralink/jobs/4723041003",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-01-22-elon-musks-brain-chip-startup-prepares-for-first-ever-human-trials.md",
       "title": "Elon Musk’s brain chip startup prepares for first ever human trials",
       "excerpt": "Elon Musk appears close to beginning the first ever human trials of his brain-computer interface technology. A new job posting for a ‘Clinical Trial Director’ at Neuralink reveals that the neurotech startup is preparing to take its brain chip research to the next stage.",
@@ -1273,146 +1421,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-the-ai-powered-enterprise-tools-presented-at-ces-2022.md",
-      "title": "The AI-Powered Enterprise Tools Presented at CES 2022",
-      "excerpt": "Highlights from Las Vegas include AI-powered chips, robots and tractors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/the-ai-powered-enterprise-tools-presented-at-ces-2022-11641598304",
-      "originalUrl": "https://www.wsj.com/articles/the-ai-powered-enterprise-tools-presented-at-ces-2022-11641598304",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-464264/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-07T14:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-new-aiml-processor-supports-socs-and-chiplets-for-smart-edge-devices.md",
-      "title": "New AI/ML processor supports SoCs and chiplets for smart edge devices",
-      "excerpt": "CEVA’s latest NeuPro-M supports both system-on-chip and heterogeneous SoC scalability, targeting edge AI/ML and edge compute.",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/new-ai-ml-processor-supports-socs-and-chiplets-for-smart-edge-devices/",
-      "originalUrl": "https://www.embedded.com/new-ai-ml-processor-supports-socs-and-chiplets-for-smart-edge-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2022/01/CEVA-Neu-Pro-M-features.png",
-          "width": 893,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-07T12:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-why-nvidia-is-needhams-top-aiml-stock-pick-for-2022.md",
-      "title": "Why Nvidia Is Needham's Top AI/ML Stock Pick For 2022",
-      "excerpt": "Semiconductor stocks outperformed the broader technology sector for a third year running in 2021, and entering 2022, mega-trends such as the",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/22/01/24947489/why-nvidia-is-needhams-top-aiml-stock-pick-for-2022",
-      "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/22/01/24947489/why-nvidia-is-needhams-top-aiml-stock-pick-for-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/artificial-intelligence-gc3f7ba6fb_1920.jpg",
-          "width": 1920,
-          "height": 1285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24947489",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24947489",
-      "publishedDateTime": "2022-01-07T11:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

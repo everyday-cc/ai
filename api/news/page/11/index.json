@@ -2,6 +2,126 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-03-15-self-driving-car-technology-market-shaping-from-growth-to-value-byd-volkswagen-ibm.md",
+      "title": "Self-driving Car Technology Market Shaping From Growth To Value : BYD, Volkswagen, IBM",
+      "excerpt": "The Latest survey report on Self-driving Car Technology Market has witnessed continuous growth in the last few years and is projected to grow even further during the forecast peri",
+      "sourceUrl": null,
+      "webUrl": "https://eclecticnortheast.in/2022/03/15/self-driving-car-technology-market-shaping-from-growth-to-value-byd-volkswagen-ibm/",
+      "originalUrl": "https://eclecticnortheast.in/2022/03/15/self-driving-car-technology-market-shaping-from-growth-to-value-byd-volkswagen-ibm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eclectic Northeast",
+        "domain": "eclecticnortheast.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-can-medtech-manufacturing-benefit-from-deep-learning.md",
+      "title": "Can Medtech Manufacturing Benefit from Deep Learning?",
+      "excerpt": "One particular type of machine learning called “deep learning” could offer particular benefit as it could enable machine vision systems to learn how to recognize and respond to defects much like a human could, according to Bhaskar Ramakrishnan ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/automation/can-medtech-manufacturing-benefit-deep-learning",
+      "originalUrl": "https://www.mddionline.com/automation/can-medtech-manufacturing-benefit-deep-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/Screen%20Shot%202018-10-04%20at%209.05.43%20AM.png",
+          "width": 1578,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-engineering-deep-learning-hardware-at-the-university-level.md",
+      "title": "Engineering Deep Learning Hardware at the University Level",
+      "excerpt": "In addition to conducting its own research into AI-specific processors, MIT is introducing coursework to train the next generation of engineers in building hardware for deep learning and AI applications. Traditional hardware architecture for deep learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/engineering-deep-learning-hardware-university-level",
+      "originalUrl": "https://www.designnews.com/electronics-test/engineering-deep-learning-hardware-university-level",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Sze_Emer_photo.jpg",
+          "width": 606,
+          "height": 404,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-medical-imaging-powered-by-ibm.md",
       "title": "Medical Imaging, Powered by IBM",
       "excerpt": "IBM Watson Health and Merge Healthcare are bringing new insights, made possible through artificial intelligence and cognitive computing, to medical imaging. Radiologists are about to get some help with their imaging workload. IBM Watson Health and Merge ...",
@@ -935,144 +1055,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-the-funded-linkedin-co-founder-reid-hoffman-has-teamed-up-with-deepmind-vets-on-a-new-ai-startup.md",
-      "title": "The Funded: LinkedIn co-founder Reid Hoffman has teamed up with DeepMind vets on a new AI startup",
-      "excerpt": "Hoffman, who co-founded LinkedIn Corp., launched the new company with Mustafa Suleyman and Karen Simonyan, both veterans of DeepMind, Google LLC's artificial intelligence research unit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sanjose/news/2022/03/09/linkedin-deepmind-co-founders-launch-ai-startup.html",
-      "originalUrl": "https://www.bizjournals.com/sanjose/news/2022/03/09/linkedin-deepmind-co-founders-launch-ai-startup.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-ibm-watson-lessons-for-knowledge-management.md",
-      "title": "IBM Watson: lessons for knowledge management",
-      "excerpt": "Some months ago reports appeared, especially in the American press, about the sale of IBM Watson Health by IBM. IBM Watson Health would no longer fit into the business strategy of IBM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ibm-watson-lessons-knowledge-management-reinoud-kaasschieter",
-      "originalUrl": "https://www.linkedin.com/pulse/ibm-watson-lessons-knowledge-management-reinoud-kaasschieter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGIGFcStblS3Q/article-cover_image-shrink_720_1280/0/1647015165058?e=1653523200&v=beta&t=NIkBJKONKNTJTep9DqycpCymtaOzYR6gpPCdby3KbxU",
-          "width": 1240,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-how-we-handle-language-in-the-metaverse-could-set-the-tone-for-its-future.md",
-      "title": "How we handle language in the metaverse could set the tone for its future",
-      "excerpt": "We may need synthetic data to remove language bias in the metaverse so that everyone has a voice -- not just those who shout the loudest.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/13/how-we-handle-language-in-the-metaverse-could-set-the-tone-for-its-future/",
-      "originalUrl": "https://venturebeat.com/2022/03/13/how-we-handle-language-in-the-metaverse-could-set-the-tone-for-its-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1215375477.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/13/how-we-handle-language-in-the-metaverse-could-set-the-tone-for-its-future/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/13/how-we-handle-language-in-the-metaverse-could-set-the-tone-for-its-future/amp/",
-      "publishedDateTime": "2022-03-13T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

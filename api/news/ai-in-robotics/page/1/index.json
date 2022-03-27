@@ -417,58 +417,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-23-nvidias-robotics-platform-got-a-job-at-amazon.md",
-      "title": "NVIDIA's Robotics Platform Got A Job At Amazon",
-      "excerpt": "NVIDIA has revealed the latest version of its robotics platform at GTC 2022, a new Jetson module and a robot reference design to showcase it, along with a high-profile partnership that will see Amazon use its technology for warehouse robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/806644/nvidias-robotics-platform-got-a-job-at-amazon/",
-      "originalUrl": "https://www.slashgear.com/806644/nvidias-robotics-platform-got-a-job-at-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/nvidias-robotics-platform-got-a-job-at-amazon/l-intro-1647967346.jpg",
-          "width": 1600,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-22-nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech.md",
       "title": "NVIDIA Unleashes Arsenal Of AI Innovation With Hopper GPU, Grace CPU, Interconnect And Robotics Tech",
       "excerpt": "This year's NVIDIA's GTC keynote was actually a live demo, delivered from the simulated constructs of the metaverse, and the announcements in silicon and AI innovation were more than impressive.",
@@ -1343,6 +1291,49 @@
       "provider": {
         "name": "Automation",
         "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale.md",
+      "title": "Intuition Robotics Launches ElliQ, the Award-Winning Care Companion Robot, for Commercial Sale",
+      "excerpt": "Intuition Robotics today announced the official commercial launch of its digital care companion, ElliQ which is now available for purchase via elliq.com. ElliQ,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale/article_7d7119a1-b5c4-5ceb-bbe8-af6099418b1b.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale/article_7d7119a1-b5c4-5ceb-bbe8-af6099418b1b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

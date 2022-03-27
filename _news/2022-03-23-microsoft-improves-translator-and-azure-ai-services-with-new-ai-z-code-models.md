@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-improves-translat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/"
 type: article
 quality: 117
-heat: 237
+heat: 227
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/45b4e96e6d7f77ec3908f32d51722ee3ca4d3a17/2022/03/22/a4f977f6-3561-4d80-bea7-bd0d86039d14/microsoftgamedevtoolsazure.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 585
-        isCached: true
-  - title: "New Z-code Mixture of Experts models improve quality, efficiency in Translator and Azure AI"
-    excerpt: "The post New Z-code Mixture of Experts models improve quality, efficiency in Translator and Azure AI appeared first on The AI Blog.\n"
-    publishedDateTime: 2022-03-22T17:00:13Z
-    webUrl: "https://blogs.microsoft.com/ai/new-z-code-mixture-of-experts-models-improve-quality-efficiency-in-translator-and-azure-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 94
-    images:
-      - url: "https://blogs.microsoft.com/wp-content/uploads/prod/sites/3/2022/03/Microsoft-Translator-Z-code-1-1200x630-1-1024x538.jpg"
-        width: 1024
-        height: 538
         isCached: true
   - title: "Microsoft adds New AI ‘Z-Code’ Models to Translator and Azure AI Services"
     excerpt: "Microsoft officials have announced that it is improving its Translator and other Azure AI services using a set of AI models called Z-code."
