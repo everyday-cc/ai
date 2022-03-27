@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/aidentified-recogn
 webUrl: "https://markets.businessinsider.com/news/stocks/aidentified-recognized-for-artificial-intelligence-innovation-in-2022-data-breakthrough-awards-program-1031305163"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 23
-  - title: "Nucleus Commercial Finance Wins \"Business Lending Innovation Award\" in 2022 FinTech Breakthrough Awards Program"
-    excerpt: "FinTech Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in the global FinTech market, today announced that"
-    publishedDateTime: 2022-03-22T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nucleus-commercial-finance-wins-business-lending-innovation-award-in-2022-fintech-breakthrough-awards-program/article_5d7a02ca-b3b1-5c0b-bcd0-effc267fa53e.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 19
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "FHtBUEGy0m41RKgRt6Hu1rrVTtsWYe3xq3tLkbEqhOrNWlOGZaiSGam7w9pP0bb7x2C+cBBbW7SP3Sw9GGbM295YXfMXCy1x9fBVF/rYqaAjRd2WNIK0OOhfASONRLtgnRNHArbVLv/jtgEYSLD5rSgreOXqbTGzCQAI/evbeWPg8TbUmPFOC3T/glujLfgk7fTXT6BgUi0z829cY/nQ4GquHy+BCXEHF18xPcqEPNsfCg8/BoRJWl1HYySw3baLWxjeoBBE5DwKmD95NfEm0wxhesrSoYcdCyoPYzUMmOi7M5GLqdJ7S2IDElZQu7uxlGd/oZtgU73AaIETrFrjRrzB/D40H5SCJTnvQwEUhJiDN+AsZBUftXXkcFJR6SEGm71/sUVVy0ftM+ain1ayC6C/g/yRhSQFQ9QzQ6J1sflP84m5KqSve2JnMdx24rLpI4LbbfEE/lNHQe3RzRiRQuu6vg0X4Ou/wa/PV4y83AQLRM92Nora3qcltVHIIXLuSAdcubGunOos4khlq3pwnw==;cdTwF6+8JHrAUwlsYxQtZQ=="
 ---

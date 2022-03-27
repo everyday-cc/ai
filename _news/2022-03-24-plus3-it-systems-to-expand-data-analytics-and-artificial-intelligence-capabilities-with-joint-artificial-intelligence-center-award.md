@@ -126,20 +126,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "TIFIN Announces the Expansion of its Fintech Platform for Personalized Charitable Giving to Democratize Access to Donor Advised Funds"
-    excerpt: "and NEW YORK, March 22, 2022 /PRNewswire/ -- TIFIN, a fintech platform using AI for wealth and asset management, announced the expansion of its giving platform, Louise by TIFIN. Louise provides a ..."
-    publishedDateTime: 2022-03-22T12:58:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tifin-announces-the-expansion-of-its-fintech-platform-for-personalized-charitable-giving-to-democratize-access-to-donor-advised-funds-1031298219"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
-    images:
-      - url: "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "RHTdAQEhEXPr9jEwzLNQyu6l1jHNFZBdnwhhZvfhE8vOgiJhGSzBpkg6ZG7G0a/9vXf0RHUlFq4Pn3B4q1UiAED1f9kLxZzwUVYuzhMhL02POlHwgXPcC25fUkuzNo4oHtw4rpMn7BpRqbyG56WK/ObbKWvkTOL9NzJPkPI+siLlvGus+dYc1Q01pcUskxc50alMhbFUN7va4I91NjQP1O/M3DgdMxoMGIyC3u8Yu8HvCwCiIvS7k9Q8tmVNNdPhAXbZ7+A8Uq9pX1GWKGjhyOAUwYavLj/beijplRqFM35SfcLlMEwm5iIZ4vrdYvzkjMDnzGePV4S6n4MaHYJNDUTanNPqKRAy86tX/cg3ijI=;JUnGzFzb04pFtezW1mLPlA=="
 ---

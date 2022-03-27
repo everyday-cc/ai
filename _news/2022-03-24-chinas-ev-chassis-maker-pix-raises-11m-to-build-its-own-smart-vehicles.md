@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/03/24/pix-moving-chassis-skateboard-11-m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/24/pix-moving-chassis-skateboard-11-million/amp/"
 type: article
 quality: 88
-heat: 88
+heat: 89
 published: true
 
 provider:

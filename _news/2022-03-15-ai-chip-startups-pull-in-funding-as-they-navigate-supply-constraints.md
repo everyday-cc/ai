@@ -3,8 +3,10 @@ category: news
 title: "AI Chip Startups Pull In Funding as They Navigate Supply Constraints"
 excerpt: "Investors are funneling billions of dollars into startups that make chips designed for artificial-intelligence applications, which have largely avoided the supply-chain constraints and backlogs faced by larger chip makers."
 publishedDateTime: 2022-03-15T09:00:00Z
-originalUrl: "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402?tpl=vc"
-webUrl: "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402?tpl=vc"
+originalUrl: "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402"
+webUrl: "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402"
+ampWebUrl: "https://www.wsj.com/amp/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402"
 type: article
 
 provider:
@@ -16,8 +18,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 images:
   - url: "https://images.wsj.net/im-504456/social"
@@ -25,6 +27,6 @@ images:
     height: 640
     isCached: true
 
-secured: "3tKb0+MH7iGeb6LqEYgZAF4KegnUxAm6XbzfYv8c7mzM/6qc9YC0J3/ijs4CpERQYcKytK/1Ug4KnUoBDlBLql+w7crMGp8rnlIr09ksdl0rSQkHUvdfQAk1+KnG895G83GUld8ZlvU5NtSWhfQJDH+gvZX1r1VmBBedhBwj7xsLDemjpjVhJYFE22EHpFs/1LOI1sZCYIvF8vSN5WzxLi8qTEikX2MJ1UPdMfM/uJXhKz12BLhswdRrLjmn6XgJKHIoD4AVKqoqeVr2WvcxFmxi+DXv4m42NLUPT2qLxFrvRn1B0Xxm13/R91nLToDS6dggTfTClwX5rCVmbNdvMwO/S1xmh6Uxhgg8qcHCqvc=;B5hbyGS8JiZYZrINDN8YvQ=="
+secured: "/SBRl4vEi9zqXqBD765Gait4jL8FEjmS18Mvi/sDInxEDVxciCnZl14djS04pncHKOMPluSeKA+bUpuLobpVaLmw94ZV5Y8UcLQ+ETibOfpZe6KwPJF3Ek6ERAZv17etJ23Y6rVwgGNNSefuVF3AM7eT4g9vi09ilKneSW6jJs/k8Xi+udElrpTn4UuJHolUK6WNJkCZPHzkg0zjfDmd93tGXkuGmJIWcyGS7FQQdhhDSCDLC4L6TvNlxl1asFodpvnqoYiogKSeyBCUaOW1kvmJ9mYoV3pzboORzCoi7K5ggT8DdHub6h9UrmY8V5kerg8xLSp17qYWAo+CXz12lqh8jBumGrXCZgTX7TPh+MQ=;fd+2RvrVbfUbi2iMnV/5Sg=="
 ---
 

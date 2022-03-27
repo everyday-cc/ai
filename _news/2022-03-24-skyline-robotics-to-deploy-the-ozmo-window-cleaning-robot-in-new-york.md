@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-c
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1041
     height: 578
     isCached: true
+
+related:
+  - title: "Skyline Robotics unveils 'world's first high-rise window-cleaning robot' Ozmo"
+    excerpt: "Skyline Robotics unveils 'world's first high-rise window-cleaning robot' Ozmo . March 26, 2022 by David Edwards Leave a Comment . Skyline Robo"
+    publishedDateTime: 2022-03-27T05:09:00Z
+    webUrl: "https://menafn.com/1103918603/Skyline-Robotics-unveils-worlds-first-high-rise-window-cleaning-robot-Ozmo"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 51
+    images:
+      - url: "https://menafn.com/updates/pr/2022-03/26/R&AN_b6b0fimage_story.jpeg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "AmdzKmy02YVZz6gbtYnHfHeZpuyYVmrzQFXsXffOx0nvX7cBHncLhx5u4m92ELOln7DLWXkTj90whgictUm2Hrel98HS5TFHAJhzeIwLrK/YNdNqPbtmcEtPeVvWVwYYviB5DnBX+HDoC3ZPRkfDYJVz2+i8Yf3gXXFoalUJvsqH2T0RxhR2HxUAUCFhXx9eUljYydfQSt2kzGFCRFRUqpCKqXfpZh3wm7ZU4stucfFU3n0DY9ifBZ2yNUI1m0YsimP+46HuQJXSiqW7FWsPpcgcAWI+Iei2kDxpNjeaMXDDWzbkirbUdBANdxU3ug9/usq0Z8QuIE36pGEIJOUehyTma16HH0qkdGz5hhR+r6rpJDmxY43IsjD1qjp3aSRLcq+K1TqMCtmI4XRY3bn3XeOMcyHVQ0VhYAY9ZG0tO9xGvD7ViVkzSmUu9S/UHWoIkWdRgwz5bPN77/Dcy7MhFmq6iZkYxMxTYtguylb30b2iH3yfYL1VzOPj7xCcRq4flOqeADVClMRY8CTmfQGlaQ==;UhOgspRo/slYtReEozCmXg=="
 ---

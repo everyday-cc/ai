@@ -37,20 +37,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Deep Learning Market is Going to Boom with Major Giants Qualcomm, Micron Technology, Google, Xilinx"
-    excerpt: "Deep Learning Market – Global Outlook and Forecast 2022-2030 is latest research study released by HTF MI evaluating the market risk side analysis,"
-    publishedDateTime: 2022-03-22T11:59:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-is-going-to-boom-with-major-giants-qualcomm-micron-technology-google-xilinx"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 25
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "c1FWyBPKYeH5T/Pf6apBNqM8oh1B57jqa43x6z5tDlrFOUVcXGr2q/iiMZ6MefCeJ8UQ57pohh4xP4GHUYeGTG6PGIYSxlnEff1Je/U5gita8dF+ECJLIskJnJJ1BF25NMrIlhASJW3D7V8II+FV5DLf8NJmGStHxk/6HLZQN/t9l7WxGWKVkrn1JW0IQJyXK9PeIRSCVz6hVPXtkrtxW/YPDiyIfqwrAbobHJV6j+mAFYQE+gOuKm+NKvzQB6Io2mBmoxZxDq1ZL9Bc3YmF2AV3sO9aUT+2VFw/Srpj8FeaHgbab1SVhKV+4rZSCJ9IIeYljtiwiTD+xzwS0rpZ3ZhS9aY8sB17zDTAx/mQKRgMshgb/Km23K2/4a3V0XYT8hxv9DyGzVpyq7RjVtnzeyT8XUqvyWmpnwPg8z14GnEj0HHgdjo3/TQ1CYtXs4CaZwOUPjzdpddfvO8xWau/WIAeOAN9r4ZipLTycCcaKDVG8KtevZxSkfOAEAFJSPKHCKmjYJ/q+WaB+c2v8iUdFA==;YXFGHEf1Qh/Y/RnbdbyH1w=="
 ---

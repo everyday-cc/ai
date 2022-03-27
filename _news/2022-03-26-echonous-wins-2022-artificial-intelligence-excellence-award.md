@@ -2,41 +2,42 @@
 category: news
 title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
 excerpt: "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program."
-publishedDateTime: 2022-03-25T20:09:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
+publishedDateTime: 2022-03-25T23:09:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=637410"
+webUrl: "https://us.acrofan.com/detail.php?number=637410"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
     isCached: true
 
 related:
-  - title: "BairesDev wins the Business Intelligence Group’s 2022 Artificial Intelligence Excellence Award"
-    excerpt: "The award recognizes BairesDev’s AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
-    publishedDateTime: 2022-03-25T17:18:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
+  - title: "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award"
+    excerpt: "The Business Intelligence Grouptm today announced that BairesDev, a leading technology solutions company, is a winner in its Artificial Intelligence (AI) Excellence Awards program. The award highlights the company's efforts to build new tools,"
+    publishedDateTime: 2022-03-25T17:31:00Z
+    webUrl: "https://www.lelezard.com/en/news-20305538.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 40
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 42
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Lirio Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "Lirio, whose Precision Nudging™ solution promotes health through AI-powered behavior change, today announced that it has been recognized by Business Intelligence Group as an AI Excellence Award winner for 2022."
@@ -66,6 +67,34 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "StrikeReady Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "An AI-driven security company, StrikeReady, announced today that it has been named a winner in Business Intelligence Group’s Artificial Intelligence Excellence Awards program for Natural Language Processing."
+    publishedDateTime: 2022-03-22T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-palo-alto-67e42c2f991943e1b60ada79992b4bf1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Qlik’s Elif Tutuk Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Elif Tutuk, Vice President of Innovation and Design at Qlik®, was named a winner in its"
+    publishedDateTime: 2022-03-24T12:31:00Z
+    webUrl: "https://www.kentuckytoday.com/news/business/qlik-s-elif-tutuk-named-winner-in-2022-artificial-intelligence-excellence-awards/article_ffd0e99d-89bd-5ce3-b8d9-e08e8628db8e.html"
+    type: article
+    provider:
+      name: Kentucky Today
+      domain: kentuckytoday.com
+    quality: 34
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Chillax Care Limited Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "The Business Intelligence Group today announced that Chillax Care Limited was named a winner in its Artificial Intelligence Excellence Awards program. With a decade of experience in the baby and consumer electronics industry,"
     publishedDateTime: 2022-03-22T16:21:00Z
@@ -90,6 +119,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "5PJH5FWuL1vkbtwdJLWM4RCjzEA+OjyU3B8pVAaAj6jxRuEtrnsobYqfY5sVFQt01TZNxjUgd9XuA7l1Vpinl6xSXE5BRGvYhACUzyil2g4VJC8xpYqzvpZrSGYvz04RDBgIwBvieZZcixRM2E2HcNYVj07VdaWbkJtF+cimDoMK9cCoqvkIHAHUlTmir7iR4I5L/WNmmJiRbq5Sc8cD5ro7gn+52STrRkhQ+cTXpJq6+w3mAHNOJ/awKaR4bfu6WjR5bdwKG8CxEh9acbXZv2gosduLmNxhTo2wAneW302F93oZYXBOr3aaK0/sfpiEQvhRf5Iui1EgtoAx8LBHx2V8w5j754K0glHT8YA+vvo=;oCsdo2EJ2XlNNcTYB4uukg=="
+secured: "gdvubVkCFFhMGKqvn9BRA5ARMN6rjGsvtziC1FfRxn9zc1rAq7ghMyhwI/UpKYN8PXZfJmshESuWMKeCw6kYj8f0R8Cg93EsfgtsyEv5BiGuK8YgJAiDB38m6XdOyftgNcd21ZA+Mc3mZ9A6FW/qsoHDKJMkMt6azN4Qw6iP31vv6vxXCgmq5kZiTzqsACrhmaNZ4yLbWwwz07X8lYTBIUJjL6Q1yvbHamBo5OCVPQd7337yY+oK5KAfbkhmfp27CEAIJYM2gBfCgHCe3cptolhuaTWLc4h4J5/V8Y//cbtWYuMVIAo40e2+mXFib4i4PUiJTmN+lkKON42Dek//dDPiOhZSXPK4+ZH9P7MDr+U=;CcNQETVVJ75Sd370eeNhVg=="
 ---
 
