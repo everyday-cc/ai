@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202203/court-orders-suspension-of-
 webUrl: "https://www.biometricupdate.com/202203/court-orders-suspension-of-facial-recognition-use-in-sao-paulo-metro"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 2048
     height: 1365
     isCached: true
-
-related:
-  - title: "São Paulo subway ordered to suspend use of facial recognition"
-    excerpt: "The company responsible for running the São Paulo metro system was ordered to suspend the use of facial recognition technology. According to the decision issued on Tuesday by judge Cynthia Thome at the São Paulo State Court,"
-    publishedDateTime: 2022-03-23T12:47:00Z
-    webUrl: "https://www.zdnet.com/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
 
 secured: "bVPpG9yCLxst5vyht8NrihKPtkNJIdXG/mTLFv8DOppd2ZWaYLFar0FZ/QvAZMWL/buWXMX5+mFPi0O2h/Euh8OMOdIu+TB4TmXJypbYETkcWBenDD4t68Dv1vanmbPFh0tchva4bB7Sh5FKqbFgJ2c8JH0ZiPu2epffTZLttWhqbNFTVQNy+8TOYCQ2FZiyWPl+4h2Xlg7k9mrlCWIliFCgUXD4H4DBPtt+qUG6JICR3DTk4+DtOxagVtl7rqCjMJE5qpnGfWJkDMYKClxMbtAHW6ivNl4C3OC4MhA8gBfK07XV6sDkHusuPZEy+A+BgT7+MGk/RccXAvAMXfXrBK8lfjg+pVLzYuX4Hc0QGZ4faAo2RcURxnmjcd6E/dyPpsADC54ht19dFuRa1FAMYfSEWMyBwlsFMBrQsMROjrW2OlYrzgMgLps01uvoqU0zOyoT9Y3i2MuR/cINSiRq2xlgx8FBtL60wuzi/mSyfjEgFpB3k6D99KodPb1OutOAHRqUv7jb6W+0AZM0Zo3fzA==;Z4YDW/pMzLr6Qg8tgUYiZg=="
 ---

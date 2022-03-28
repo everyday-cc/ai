@@ -3,23 +3,23 @@ category: news
 title: "Astute Imaging Acquires Deep Technology AI Startup DilenyTech"
 excerpt: "Astute Imaging LLC, a provider of imaging guided therapy and procedure planning services, announced the acquisition of Dileny Technologies (DilenyTech) LLC, a deep"
 publishedDateTime: 2022-03-16T16:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/astute-imaging-acquires-deep-technology-ai-startup-dilenytech/article_3266d37c-ebf1-55e8-ae39-c165f3a4f516.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/astute-imaging-acquires-deep-technology-ai-startup-dilenytech/article_3266d37c-ebf1-55e8-ae39-c165f3a4f516.html"
+originalUrl: "https://www.goskagit.com/astute-imaging-acquires-deep-technology-ai-startup-dilenytech/article_ce987bc1-9b6e-58b4-94dd-df8c588f8b03.html"
+webUrl: "https://www.goskagit.com/astute-imaging-acquires-deep-technology-ai-startup-dilenytech/article_ce987bc1-9b6e-58b4-94dd-df8c588f8b03.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Skagit Valley Herald
+  domain: goskagit.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+  - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/custom/image/e1586314-89a9-11e7-be8f-ef31f934c462.png?resize=600%2C293"
     width: 600
-    height: 338
+    height: 293
     isCached: true
 
-secured: "ct8elAyU9vNrskNcdHJb/Dp8NQGUF0oYwt2zKMdt+L0ws15vfMzRWz3t5l25NKjdeGY1gTp2zdohdgusGIUSEcvaFowapeL+tJFY21M6lWQbtpsAeTq5ppO4hOmzpI9pprEFzfKz9VCBIU6brcotoYzRRRHcZBb3YFc0LX/Y5WnyVlmF+SKJMMSes9Et97nSlTbdx67Nm2f1ztCZXjkt3v2ifOt3tyeRECEirKSKMB/aPpPe4t/HSBsfDWczfddAqpmqIsJ/v8gtsywXVSpMD/t6oPQId5uObwwvk3dMRw+MPZ/VdmEn7ryy4D5IucXIMD0aWDIC4JjmWtyJ6OTQHpxnxWOBz/MHmZHX29HRLcvXNKDOwX0kWVJanAhHBV0dt1qKVeengiLjGcoituz4HH57GWvhAPqVwHG3oNBi5dJHQ4sL7iT8+cwTitgNcisNnzWIDXYS+bN0SxJFSVjn1mcVI9r8inRjWs1sHOhZ4eh/EJdia8QTk2rAPyMnaxtLxRhP76UjlnPudnboVCARsw==;3HxsaXH8kUXmcQEUj+QNgA=="
+secured: "/CaiaKM8YHr1GUeykoh4Ad7/6pD5UytOZmg7XVcnLUqDxmzdMiC0LqHtvSLFO1h8/r4XslvKJLv4zj9Mt4dMOp3E1GG5rlvKaJVZsWlGktlxIL2LqeDZlz/CbxcpKyQVdZdN5p8QbTOPtiMlm57pl0/RsuCXFIBQPodXmF7IjKO166iq8bqNUMLdhhGupQ5qkj4VuNkIZjQQU17B6ls9sYeX89fEYKkw+Qj7vVz1DPlOgPPzU5IUxCywyDtq/m+Qjzv6xi9z+J12QAS7unmtRzSsutZtj2RZxJKl2VidyPjrg01yluKlVfyvDQzHE9mGkDSr6ZM8waoyqIIh/JmA+2IxNGKsIaJpW5q635gRxtw=;ho+STXsSvKkz2UvWdh5nmg=="
 ---
 

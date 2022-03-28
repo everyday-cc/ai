@@ -3,8 +3,8 @@ category: news
 title: "Roche announces collaboration with Bristol Myers Squibb to advance personalised healthcare through digital pathology solutions"
 excerpt: "Collaboration builds on commitment to advance personalised healthcare by helping to improve access to new treatment options for patients with solid tumoursAdvances in computation and artificial intell"
 publishedDateTime: 2022-03-25T05:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions/article_aef67db4-3b8c-5c77-b53c-fb0839f69b2d.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions/article_aef67db4-3b8c-5c77-b53c-fb0839f69b2d.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions/article_aef67db4-3b8c-5c77-b53c-fb0839f69b2d.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions/article_aef67db4-3b8c-5c77-b53c-fb0839f69b2d.html"
 type: article
 quality: 11
 heat: 11
@@ -24,6 +24,6 @@ images:
     height: 338
     isCached: true
 
-secured: "vMdOxGNnR67T52d6cxm1V+V3k+IWj6Twe4F8wX2j1L88OlQvP0L98NEnz8f2/ufAz0TiNoQFiWLt7d4bwA0pxXch9Bx8WBkptPeC1SvW054wogyhQx05ZJ51IFK6VN8od+ugqcr5yrej/h56Ol4Kd4ihTsewMMVSR+kvm1AmknudrwGtES0jKwe9NF1jQRKozQYT/bDbwcb1WQc0zoVpXhIAwbbL1pumZiNsooDW0RhxYLI0ZZwmhtvoh9QomMo9GoazCp9LvFv1cXzwd4kd8nQf7XyDDK0xejh678gs6udNwwN2zr/Dtiee0ckNwVJbNtzKANnSWkeOQKh+Qt775m75j65/g6vD8+SIb0hnIXrbI8cOUmppVYjQAdYLD8DH4dRqi5A8at3YuyF8Eye5bYEw7dEJuUcUAn5/yITUHe13w0mdSR5UKt4vyqATUxbI8RKboQGhhvgJ7Cq4n7tX/Ik21losUOn7FRJ93DA4FSWWBd5PI4TSpeDPZkrFu1Sn2l6jGV6CuYTSzrQqDc5gRg==;AU/HAp2wgy5/T1qRKmdHEQ=="
+secured: "6Prp3ip6jR2qEmufVvJVTwtFhlcErkTALKXNDlmYvs3k3jqr7Ihn7pquSzOfoEBTpqWvZM3usG1gIW+Z6he5v+vLtybuKH/GspVDaaMjM26QptDj10Dl3tn+NIg5JGt+yCE2rSZYRUj0dMb3XerPVV9ETZbD1OlPHl0YC3X2oUkCCCMp70B0V0VUk9ZnAp50WLtnuiin/2pQiDAPRl0AG3dJ9t+tPnh9/q0KF4tEowOxtuDyLfpKQfPNxcuz91Kmj5gqQhz5+FaBPALmp/5Yk9a6UUFSuexE2w3rTyAdhunVJrAePN1PjvG4mCef8qbLsWRjpP/y2XENHT5LdhB9svO67LrGEfU07KlJFFYOmt8=;qnIaKt+8JicfJWeMuu+WLA=="
 ---
 

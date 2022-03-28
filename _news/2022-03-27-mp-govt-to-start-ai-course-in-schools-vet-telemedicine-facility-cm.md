@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/current-affairs/mp-gov
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm-122032700740_1.html"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Standard
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Madhya Pradesh govt to start AI course in schools: CM"
+    excerpt: "Chief Minister Shivraj Singh Chouhan said that Madhya Pradesh will become the first state in India where students can study MBBS in Hindi."
+    publishedDateTime: 2022-03-28T04:23:00Z
+    webUrl: "https://indianexpress.com/article/education/madhya-pradesh-govt-to-start-ai-course-in-schools-cm-shivraj-singh-chouhan-7839928/"
+    ampWebUrl: "https://indianexpress.com/article/education/madhya-pradesh-govt-to-start-ai-course-in-schools-cm-shivraj-singh-chouhan-7839928/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/madhya-pradesh-govt-to-start-ai-course-in-schools-cm-shivraj-singh-chouhan-7839928/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 57
+    images:
+      - url: "https://images.indianexpress.com/2021/11/shivraj.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Madhya Pradesh: State to start AI course in schools and vet telemedicine facility, says Shivraj Singh Chouhan"
     excerpt: "The government will launch a veterinary telemedicine facility so that livestock keepers can get advice on the phone regarding diseases of cows and other animals"
     publishedDateTime: 2022-03-27T16:06:00Z

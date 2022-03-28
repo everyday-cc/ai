@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Theia Analytics Group Closes $1M Angel Round"
-    excerpt: "With private investors aboard, TAG accelerates its development of the world’s first governance-focused intelligence engine for solving governance challenges plaguing global fiduciaries WASHINGTON, March 23,"
-    publishedDateTime: 2022-03-23T12:18:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-3541b1447ee1dc2e94125a1eb4d4494e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "25/03 – Weekly Fintech Recap"
     excerpt: "Partnerships Yapily Partners with NayaOne to Offer Open Banking Connectivity Yapily announced a partnership with NayaOne and their Digital Sandpit. The partnership provides hundreds of organizations with access to Yapily’s next-generation financial data and payment initiation solutions."
     publishedDateTime: 2022-03-25T09:42:00Z

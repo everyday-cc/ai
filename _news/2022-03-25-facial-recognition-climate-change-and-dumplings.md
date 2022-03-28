@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition
 webUrl: "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://d279m997dpfwgl.cloudfront.net/wp/2018/12/AP_18116251102533.jpg"
         width: 1700
         height: 1133
-        isCached: true
-  - title: "A state commission wants new limits on how police use facial recognition"
-    excerpt: "A commission has proposed recommendations that the Judiciary Committee's House chairman says will balance implications of facial recognition technology on individual privacy rights, and the \"proper role\" it can play in the criminal justice system."
-    publishedDateTime: 2022-03-23T11:41:00Z
-    webUrl: "https://www.wbur.org/news/2022/03/23/state-commission-limits-police-facial-recognition"
-    ampWebUrl: "https://amp.wbur.org/news/2022/03/23/state-commission-limits-police-facial-recognition"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2022/03/23/state-commission-limits-police-facial-recognition"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 58
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/03/ap_20176661952737-94d26662afce25a605de5d73b33932e4e1e3a047.jpg"
-        width: 1000
-        height: 749
         isCached: true
   - title: "Facial recognition inappropriate for high-risk applications, experts say"
     excerpt: "Accuracy, privacy and transparency issues make facial recognition technology too risky for local agencies, according the University of Pittsburgh’s Institute for Cyber Law, Policy and Security."

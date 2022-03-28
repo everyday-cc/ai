@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-24T15:58:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
 webUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
 type: article
-quality: 90
-heat: 110
+quality: 92
+heat: 112
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Education
+  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/1772498/Watt_Center_Clemson.jpg"
@@ -61,6 +62,6 @@ related:
         height: 225
         isCached: true
 
-secured: "dtFwjzifn6b3iAQ7sSSDunAWjRiafZw10ulPUjqylu3u5QN7tkxp4vyTyflRiM0mHQ+UvBQuAmgFYpSaBMfR+O0a4JqNdbPp/7zYOj+fTvq1prz9FV5l4LxDLFN9iiZexmrx9qxrHBM88v0t1CoBGL4wpJlrILSWSYCu5SzHbWESPNYZpVmlLqZij+oBp/pUZX43GckrvjnTMVVlpW9yELFUOp5goiGjqvrhfKI0Et3qNJGwEOznBCT/vaHmHrV23W2SRjeARmywwJUoNgmU1Ay7jmh+LWOG+kkKr8jmUMxAmPjumr2kYATB2mO2ynuj3H3uhwGqzQS5KWuzzExwgfDarbEEkEmhKROEVGWcVB0=;SP2rsf9PQIuTl0344vwxuw=="
+secured: "GgS1nXbRTIV1EHAloiyy+2UNo7DX5Sdh+FBQG/Y7Km2fAbmcGCz5PTTwTMZpemYVuTAqLa+TTItk0zheidt+rwbFFWGxb3MkwBMtOxHRXOnTyKAZb6iQfFFW7+cPV0fFpN845+T8tPygvQ+lzlfr0u/Z4pu57+EIRtaEdZyuHZMVy7vdv4L07g36ZZHxi38oBsrZGM0tLigM0D2XtBQ9iUrs/oesEH7dxMyfQZWitGE2/iNeASQR5ziS9cZB+8dTRoVhoRcLV8CYxaOS5wQdRIjXqsK20+M0nL3wialyH6FeNMxjZzsQ1tEctBBlAv2pjPvtTpOUdDPz5OYMf+zp9i/OAQ9ztuetQSnxPe0eNXUhUstEp9nclY9fLjJfy6npG4JiJAmJiKzrusIXXVjOEPI/Kg+WkHF01SKSsFx6+oPzyL545ZaN9LUoB9hUWwpTmVXL5wuxu90+qv5vykXPGvKUquuYACPaHKcyz64n2ENRVlcEK85V5pRMeuSpBQ3CIrQmoMrYhBSo9FRcW6l7kw==;UFHPeWD5Uh6NkIvt4Pupow=="
 ---
 

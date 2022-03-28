@@ -56,20 +56,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Overcoming the C-Suite’s Distrust of AI"
-    excerpt: "Business leaders are often comfortable using AI for tactical purposes — but aren’t yet ready to bring it into strategic decision-making."
-    publishedDateTime: 2022-03-23T12:25:00Z
-    webUrl: "https://hbr.org/2022/03/overcoming-the-c-suites-distrust-of-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2022/03/Mar22_23_1194303334.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Artificial Intelligence is the future - Dr. Kpodar"
     excerpt: "Dr. Chris Kpodar, the Chairman and Chief Executive Officer of Solomon Investments Ghana Limited, says artificial intelligence (AI) represents the future and that should be the direction Ghana should be going."
     publishedDateTime: 2022-03-26T10:59:00Z

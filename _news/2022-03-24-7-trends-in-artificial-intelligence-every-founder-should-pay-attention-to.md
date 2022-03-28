@@ -41,34 +41,6 @@ related:
         width: 1200
         height: 840
         isCached: true
-  - title: "CORTIX Platform Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "Awards recognize organizations, products and people bringing AI to life and applying it to solve real problemsKENNESAW, Ga., March 23, 2022"
-    publishedDateTime: 2022-03-23T11:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cortix-platform-named-winner-in-2022-artificial-intelligence-excellence-awards-1031301050"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://mma.prnewswire.com/media/1771721/AI_ExcellenceAward_2022.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Chooch Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that Chooch was named a winner in its Artificial Intelligence Excellence Awards program. Chooch solves a fundamental AI problem: teaching machines to understand visual data."
-    publishedDateTime: 2022-03-23T13:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-accidents-artificial-intelligence-af4498025d62188a349916e2446fc6ad"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Chooch Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "The Business Intelligence Group today announced that Chooch was named a winner in its Artificial Intelligence Excellence Awards program. Chooch solves a fundamental AI problem: teaching machines to understand visual data."
     publishedDateTime: 2022-03-24T01:23:00Z
@@ -82,20 +54,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?36282"
         width: 377
         height: 250
-        isCached: true
-  - title: "Rev Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "Rev, an AI-powered martech solution for B2B sales and marketing teams, today announced it was named the winner of The Business Intelligence Group’s Artificial Intelligence Excellence Awards program in the Theory of Mind category for applications in Automated Reasoning."
-    publishedDateTime: 2022-03-23T13:02:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-artificial-intelligence-93afcf204822e829f0c53b929c7701b6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "AI in Fintech Market Size, Trends, Outlook, Opportunity Forecast 2022-2031"
     excerpt: "Comserve / -- AI in Fintech Market offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts."

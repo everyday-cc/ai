@@ -42,6 +42,22 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Madhya Pradesh govt to start AI course in schools: CM"
+    excerpt: "Chief Minister Shivraj Singh Chouhan said that Madhya Pradesh will become the first state in India where students can study MBBS in Hindi."
+    publishedDateTime: 2022-03-28T04:23:00Z
+    webUrl: "https://indianexpress.com/article/education/madhya-pradesh-govt-to-start-ai-course-in-schools-cm-shivraj-singh-chouhan-7839928/"
+    ampWebUrl: "https://indianexpress.com/article/education/madhya-pradesh-govt-to-start-ai-course-in-schools-cm-shivraj-singh-chouhan-7839928/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/madhya-pradesh-govt-to-start-ai-course-in-schools-cm-shivraj-singh-chouhan-7839928/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 57
+    images:
+      - url: "https://images.indianexpress.com/2021/11/shivraj.jpg"
+        width: 1200
+        height: 667
+        isCached: true
 
 secured: "x+wXE9w2sXVORcnUv4zjehqi5N9kscTg1U4s1lgBFY0zmABlupekl0UidfeABIX48BATgsBEUvZri0V49mvorxJe9xxDq5nwiEF4sLiTKx7rYE6GTVJs9oTKv/5U6tHCUmNA2EDJmmzHxbPUnXzu7yqNzKOiKzdC61QysYzkmzCh1obqxhvZB3wBEugGj6b58gCzDv/mvY/Bhw0uuh3R6FAzNGksi7dgWQZ1Pl3QDhv92TiBvTfB9YLdaAC6h9fkaWGjYA04PXgXaLEoZUMGOWGNR0MAFceUWAm5+rfANHkX/L1oobtWVQFqUSKveOnIC3huLfIYJKoeLpVO3Ua53KNRzyDWaAH4LUJxMe/m4qw=;6tm1rx4ZZAi5jjWYaveSfA=="
 ---

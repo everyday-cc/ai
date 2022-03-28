@@ -55,22 +55,6 @@ related:
         width: 1700
         height: 1133
         isCached: true
-  - title: "A state commission wants new limits on how police use facial recognition"
-    excerpt: "A commission has proposed recommendations that the Judiciary Committee's House chairman says will balance implications of facial recognition technology on individual privacy rights, and the \"proper role\" it can play in the criminal justice system."
-    publishedDateTime: 2022-03-23T11:41:00Z
-    webUrl: "https://www.wbur.org/news/2022/03/23/state-commission-limits-police-facial-recognition"
-    ampWebUrl: "https://amp.wbur.org/news/2022/03/23/state-commission-limits-police-facial-recognition"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2022/03/23/state-commission-limits-police-facial-recognition"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 58
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/03/ap_20176661952737-94d26662afce25a605de5d73b33932e4e1e3a047.jpg"
-        width: 1000
-        height: 749
-        isCached: true
 
 secured: "yjGz4sbBdvA0nL+SOwD3UnASu1JmY1EwowXsD464rfWojI2YelGOTuiykqJedgcBmHnUHvLS4rzmKr5lkB2pus1YAibiycTh76ySzSz/Ef+LOupVVXZ4q0VciV2PMXHdjXqTFNo4URqOCM1TdUlSAs1pMNSTONtEgp5vxDSQ2mK+wD6HneQgr5AtD7+7X340Diyacvx1innM2C/6Q6CjR1nxlGXrAF3Bw4xeuQHOjxgDzCcVoqvPACbgE5Mx8Y5qw+jcFj8k4/tARYDOmD+RdmTv5N7Df/939xphtEiVj5caclfyYI73ImLTlATYf2KVRlDtcB3RBu2du/ppGjRPDVSoODne0lAqd69BSYoggw636frC1+Ftr+sOCQRyQwe0nE4ze4sixpsVL0kcug6N8UvO3F0XWz/6F9dhWCcVlpDzTK0ybI/iTpLl94Utvh91vM2BmvMtFpvFX2cVbojWRF0INtSnjRzR/YGPboOMEUB7OWPu1LAeUzp04Aoqo7lx/POKIJDy4h8ZHzseeOIHHA==;Oa+JIxdUyIYAekm8VdiHPA=="
 ---

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 585
         isCached: true
-  - title: "Microsoft adds New AI ‘Z-Code’ Models to Translator and Azure AI Services"
-    excerpt: "Microsoft officials have announced that it is improving its Translator and other Azure AI services using a set of AI models called Z-code."
-    publishedDateTime: 2022-03-23T12:52:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-adds-new-ai-z-code-models-to-translator-and-azure-ai-services/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/microsoft-adds-new-ai-z-code-models-to-translator-and-azure-ai-services/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-adds-new-ai-z-code-models-to-translator-and-azure-ai-services/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 90
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/Microsoft-adds-New-AI-Z-Code-Models-to-Translator-and-Azure-AI-Services-01.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft boosts its AI translation capabilities"
     excerpt: "Unlike previous AI models, Z-code models utilize a ... As such, the models learn to translate between multiple languages simultaneously. At the same time, newly introduced Z-code MoE models ..."
     publishedDateTime: 2022-03-24T06:07:00Z
@@ -72,22 +56,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/C6bmmDwjYdb4D4whKn5yVc-1200-80.jpg"
         width: 610
         height: 344
-        isCached: true
-  - title: "Microsoft to upgrade language translator with new class of AI model"
-    excerpt: "Microsoft is replacing at least some of its natural-language processing systems with a more efficient class of AI model. These transformer-based architectures have been named \"Z-code Mixture of Experts."
-    publishedDateTime: 2022-03-23T11:02:00Z
-    webUrl: "https://www.theregister.com/2022/03/23/microsoft_translator_z_code/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/03/23/microsoft_translator_z_code/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/23/microsoft_translator_z_code/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 76
-    images:
-      - url: "https://regmedia.co.uk/2022/03/22/neural_network.jpg"
-        width: 3936
-        height: 2934
         isCached: true
   - title: "Newgen Utilizes Microsoft Azure Applied AI Services for Enhanced Automation"
     excerpt: "Newgen Software, a global provider of low code digital transformation platform, is pleased to announce integration with Microsoft Azure Applied AI Services for enhanced automation, and support for Azure Form Recognizer for intelligent document processing."
@@ -117,15 +85,6 @@ related:
         width: 620
         height: 474
         isCached: true
-  - title: "ThetaRay Transaction Monitoring Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to the SONAR AML solution to take advantage of the scalability, reliability and agility of Azure. NEW YORK and TEL AVIV, Israel"
-    publishedDateTime: 2022-03-23T12:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-thetaray-transaction-monitoring-now-available-the-microsoft-azure-/2022/03/23/9569051.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 44
 
 secured: "UPTWEjO0HEgNkfYwypCaIarQ55YKbgRQiXwTJVuT8AkyF+2JrmFCYqj0u+shuGHfWhLCMg2kwKZE6CLjPfYEVd+elo3KptxDam2CBZENjiFT1KYWhtgaGIBXikbaAV8pgzHijJB3nhyTbqi9AkHlwEPPGW4aDZmploN0Vte5AkdsBBLmhf5S1LpQ+zUs65o/B5oskIujJCZrWIwvhUKMR0AtEduA0tIXZiYZZBn/PcAc6P9qllWnjCYZCXeKviMlFhfrNwjyFFudzEewhWuK1N+T6IRG/WulmgpLzFXZ6IBHfB/8gg8ueuIczU30AIhD6GmU9Rg6hat/RGurmM3JqVCsxOi0Udz8tQuoJ2+J+Zc=;mNCmwB8s8mVbLbDrye1l9Q=="
 ---

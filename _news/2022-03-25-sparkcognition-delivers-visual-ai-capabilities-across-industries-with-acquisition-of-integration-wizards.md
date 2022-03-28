@@ -1,27 +1,27 @@
 ---
 category: news
 title: "SparkCognition Delivers Visual AI Capabilities Across Industries With Acquisition of Integration Wizards"
-excerpt: "AI company builds on portfolio of machine learning, deep learning, natural language processing, and knowledge representation to address $14.4B visual AI marketplace"
-publishedDateTime: 2022-03-25T12:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/sparkcognition-delivers-visual-ai-capabilities-across-industries-with-acquisition-of-integration-wizards/article_3936c1d1-bed7-5aba-952d-7a107e8683e8.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/sparkcognition-delivers-visual-ai-capabilities-across-industries-with-acquisition-of-integration-wizards/article_3936c1d1-bed7-5aba-952d-7a107e8683e8.html"
+excerpt: "AI company builds on portfolio of machine learning, deep learning, natural language processing, and knowledge representation to address $14.4B visual AI marketplace. AUSTIN, Texas"
+publishedDateTime: 2022-03-25T12:04:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-3f663c073214a6e3417b25b9daed7907"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-3f663c073214a6e3417b25b9daed7907"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/00/3008bf47-deb7-5420-a599-8f8631503669/605b3f21d5fba.image.jpg?crop=922%2C484%2C889%2C0&resize=922%2C484&order=crop%2Cresize"
-    width: 922
-    height: 484
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -176,6 +176,6 @@ related:
         height: 600
         isCached: true
 
-secured: "MY3xqLrmu9BFyNmeHutiWm8xS77Yq0p/Vt7qS7TMWs16vx3cSy9IqXk4lZg0kns60m9FEpFQVBeaqYaMiEHzrBL6sPY8gPsk4RwI/bzWj+zIzpuommK5eP/AY+SX+8J0wbABqvnM6OWgAe6B/w3R5QKixzvs4HcX/Ma8Y3rix8kTd7hDbnAvcAfY4hMl3Ghde8SVVNh/h65/+PtVzEvuFv2/zr6Nl0ZreJHBjayWqMFYFGFBVXEKxDRjriCFTYIv/KsgrXlXtZJvYBGw8Jw0qRiPuMb5sBA7PqL5XrtpFAAwDWITUqTUomircxvXBmxPpX12T6AgSx39+jo/R2Pxvn35YxhYjwos693VRnJ9/5E=;wExtfpTOObWH9jStTRNKIQ=="
+secured: "PhUhsaR3G4UaI9U4GaFXhlfX4bImVpR3y1Lzgfp0Yz7QQVewQR0EGK7aGzTMpeC5G+8PmGJYYDHgEO3Dfe5nGFFwvQ/0lWTVZrdq4fsX+B2NaQK2IoyTf18qHgpKac8TwhzVdE0bYT7WOygz9aKW7yRdMTLkZBGSEiO4lR1/tFnc5F3SLJO3nDmFUq8efWhs5Gvzj6a6aGn8DNGrYNB767a0YKaKtuLh3kKObpqq6oojelhAfHENjx4LWua8ewft31ZhpOTQQ8R/talOTqmXlkWMYEMx8NBeeCV/jgCAcFy2bWKNDJvREy0STDLp7wgMtYGk/cxkt1MP5W+6zqPc4YkyUu1FtdmLK9VEykwDpMc=;IpiKgQciOj/CmBg23H27Lw=="
 ---
 

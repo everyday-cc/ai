@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Emotion Detection and Recognition Market worth $43.3 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-excerpt: "The major factors driving the market growth include the rising need for accretion of speech-based emotion detection systems to analyze emotional states, Adoption of IoT, AI, ML, a"
-publishedDateTime: 2022-03-23T15:11:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-emotion-detection-recognition-market-worth-433-billion-2027-/2022/03/23/9569467.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-emotion-detection-recognition-market-worth-433-billion-2027-/2022/03/23/9569467.htm"
+excerpt: "According to a research report \"Emotion Detection and Recognition Market with COVID-19 Analysis, by Component (Software (Facial Expression Recognition, Speech & Voice Recognition), Services),"
+publishedDateTime: 2022-03-23T15:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emotion-detection-and-recognition-market-worth-43-3-billion-by-2027---exclusive-report/article_6b5c363d-bbf1-518e-a82b-3c9dce612895.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emotion-detection-and-recognition-market-worth-43-3-billion-by-2027---exclusive-report/article_6b5c363d-bbf1-518e-a82b-3c9dce612895.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
@@ -34,6 +34,6 @@ related:
         height: 337
         isCached: true
 
-secured: "8Fl2XrXdEcermdUTGmM44KOA6shfrWhR+KqeneYIRFxb38OHnUzLAq22l+7qUROQ2YD4dF6BM1N1Rfr1JF4u7dO7EgonGNwrdgYyAabHVaWDsB2vtiqJhoxRthBVNE0ORBHenem34GFvRJK4U6Uf07pnaZdxynJI8mbsvFvt+UE07sX/jPRBuE9/DSPQ12YeMPpVPc5Fa7N68lBUNXQrIb5vCWQhDUHiAUGhfyTPfsK3LPTJEBzGT+3d5qwEQfY/uotzKlz706IkCc3wMdamW2m/5IFaoJFPtJ21wHJfWDuLQnxmZMko6I5dgyI/V8m5eDmX2am+m4+aDuDRuTCwkd/euaf+1zufM3CfzC8KqT74e5tx9Asc8zXdgRnvBCo5aOInpFw4Tj3dilK4pwzSrb577sTnBDwKLvTYHO6jNf5p9G5DewPUoMs1o7taAXVdv9caQPzAvQhf/YWAzS54lWVZsB7x/TBl+dFZ7uTjF7l9HStGjGi5+wQ94/P5KgokMPXToil+EvOD8AqTUgq58A==;GMoNzAnHTciF1BvEeZQrwA=="
+secured: "/Lg2VSRg0eJrAyZuS/lcFrAPOh47pLE3L1TNAkEtTFTSobUfHELwNePXQkqswm/mhtzwVboWkXOLv0Jrn0DkD2lvgaqUHqZJe3UhqDOQWxp6PD6WmIwLQyP2mJFxdUGmLXiCQ19KnrhQJHphUakuzGwKXCd2az9dq07OWg+E8dr660yrOFehSfI7gvn9GJQIlHVo/DUfj0WrHa7imMqXNM+L1V3Wj+h9miAw+3PW0Q3zrjJ9LMYqGmcA80v6I/Xcxud6+eXcD9Eq0wicu0ClYjKQqbSvptPecJX2skJkEUkaqho9OQmnS+V3TJwWNNjZu4pqmHHdxDFpadgbsgQX6tLRBkPOQpN2VCvmuFBYy28R2usbgGZL0XluBMwciDbROwrCqqAC+5UhKXVBdvIhURNdZRtErNpZoKkyNxL1Q1gY8Bm8wcnCHpEaZKQaYHDv8d+hP89WI3olt3S+lEYZHPnZmtQBmyhOhlg4ix/Qsf03gVvSFVzcELQ27PhD2WW+KFiUaQKjrpEDHaCgPf+VYg==;0VSdlCrKWt/5SCxMiJYdqw=="
 ---
 

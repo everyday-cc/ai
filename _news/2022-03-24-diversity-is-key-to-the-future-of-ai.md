@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://cdn.modernghana.com/images/content/325202293401-i4dp266gfa-picture-i-tma001-science-artificial-intelligence-.jpg"
         width: 800
         height: 296
-        isCached: true
-  - title: "Overcoming the C-Suite’s Distrust of AI"
-    excerpt: "Business leaders are often comfortable using AI for tactical purposes — but aren’t yet ready to bring it into strategic decision-making."
-    publishedDateTime: 2022-03-23T12:25:00Z
-    webUrl: "https://hbr.org/2022/03/overcoming-the-c-suites-distrust-of-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2022/03/Mar22_23_1194303334.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Artificial Intelligence is the future - Dr. Kpodar"
     excerpt: "Dr. Chris Kpodar, the Chairman and Chief Executive Officer of Solomon Investments Ghana Limited, says artificial intelligence (AI) represents the future and that should be the direction Ghana should be going."

@@ -24,6 +24,22 @@ images:
     height: 339
     isCached: true
 
+related:
+  - title: "Global Microfinance Market Trajectory & Analytics Report 2022-2026: Artificial Intelligence Poised to Transform the Future of Microfinance - ResearchA"
+    excerpt: "The \"Microfinance - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Microfinance Market to Reach"
+    publishedDateTime: 2022-03-23T18:40:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=636072"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+
 secured: "fkNqab/8LUC0tMoC26TbHCNekh+BA/jlqZplmHjMXDZN7Ww9BKvMjLQ2GyIkBOAcPkM061LXShJhTl1+YwDaE5LCkw6Iqn1+SxGQ13/tETEG9loo53R0h7A/tT5nqdS1g7hedUCmsvBE4Y20NetTw5Jvkk3RrMyMoWbBny2l/fIBc9jqXUJOW6dgX7cs7nGi/4451GKy4zy5n5YuiwWQRvPADEsXn8yGcUA7X4xEab1UdjJVKTfdbjTnvEmRgKCe0WWvcJ1ypKfg4cQpZtRSKg1pI8y3tL1natHUyj9AElD+73b8hsNRfxwMQazojGq9WK7/ks/80/ZtJMSfbqOIB1gTo3uUH9rTxwgauGyTmjhuQ6+NKnjlSx0lMrABI+xukNFqyut8nvqLuMc6my8dYKQu/4LX4dLZ9LN0/Zk9FObsEmLNOAYddnt/v5+PYrzsWu8z7TPrO73E/6hknm3CaBGmqSg13HlvTNqrPwWo8uMOAqrx/JrrjPUW0DFgbCEx5lYRTEuc1f9zz+oO0ZC2vw==;aIMYiTKJkkEXdgbnR2LBCg=="
 ---
 
