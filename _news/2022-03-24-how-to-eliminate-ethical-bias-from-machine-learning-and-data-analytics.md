@@ -3,10 +3,10 @@ category: news
 title: "How To Eliminate Ethical Bias From Machine Learning And Data Analytics"
 excerpt: "Julien Alteirac, Regional Vice President of UK&I at Snowflake explores... Over the next few years the increasing availability of tools such as AutoML will help democratise machine learning (ML) and em"
 publishedDateTime: 2022-03-24T09:35:00Z
-originalUrl: "https://techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/"
-webUrl: "https://techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/"
-ampWebUrl: "https://techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/"
-cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/"
+originalUrl: "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/"
+webUrl: "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/"
+ampWebUrl: "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/"
+cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/"
 type: article
 quality: 76
 heat: -1
@@ -83,6 +83,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Alkami to Acquire Segmint Inc., Leading Financial Data Analytics and Transaction Cleansing Provider"
+    excerpt: "Acquisition combines Segmint's data insights with Alkami's digital account opening and digital banking capabilities to activate financial institutions' user data along the account holder journey"
+    publishedDateTime: 2022-03-28T12:01:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/alkami-to-acquire-segmint-inc-leading-financial-data-analytics-and-transaction-cleansing-provider/article_16385016-89f4-53ce-aa6b-7f207d536693.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 10
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/5a/d5a2d60d-6218-5c2b-bcff-6de937cdbcfd/61f16357d04bb.image.jpg?crop=857%2C450%2C133%2C0&resize=857%2C450&order=crop%2Cresize"
+        width: 857
+        height: 450
+        isCached: true
   - title: "PLUS3 IT SYSTEMS TO EXPAND DATA ANALYTICS AND ARTIFICIAL INTELLIGENCE CAPABILITIES WITH JOINT ARTIFICIAL INTELLIGENCE CENTER AWARD"
     excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial Intelligence Center (JAIC) for Data Readiness for Artificial Intelligence Development (DRAID)."
     publishedDateTime: 2022-03-24T13:28:00Z
@@ -112,6 +126,6 @@ related:
         height: 337
         isCached: true
 
-secured: "aoyNW3w7ZXkZLvzb+rggFeA93cK+nwiGJEDynCDHU4W4v9xPYixNce3J4MckEhi4qXT78TOMz7su5OjjJnoRQK8yiaxuK9uj9GVoa1HWPRhPAp/83SWv3XWiBX+ffdIkAyRhMTne6Lf8kFKzbUXVVcM8tn7Boct2eNu3s2RIFex7yVwSi1FPXzUjU2hyB+ZAtIYJrCCKzcp6ATKkuJgtBpHGyZGWCgzfEE22ciLW5SkOJ6tZBKxUWwMKqsSQzk+/PlI19BY78VSdIWjisLtx2UPUsRUjh248rKOb+TrqHMV40qARBUPa4iplKBgMs1SUHsMS95IMzGwP8bBKR3RKXFTFXaCgbqbM1+ZG4MlyH7ZRvXySZVOpEvGcvjbwD9NtsVIpb6PAUb3Km2d2xkESDxu8PUqx677EpcUr8ak9gTYMG4uUncOhehhKu9b7z6OxbNdO1m758URFOb5Fj++xU0JjLb9mqoD2azeAdzJTEM7AYadahWt5C3o0wrX7eh8nCZEKM2zy4CGjprNp/gxyYA==;SfeQNKzvHl229DDYwR0bGA=="
+secured: "nnAs+QpyR0u+iFMYh11V22bpjWGfgRXgIzrDog3KMjue6Cf5pjw1ap+r8SqGB2c5Do/+8ysObdUn55UEccEL9+2PMDcQm8+CJHrNiFlRrBQBIsZRY2CCH0G+kVyKk39+b7gPAReQMQ7kC1y6cGRApYU7j5jwoXRc+h0/q+4N4STccrsAV/wnDRKQfXoA3AuSphNm83l6PdGYqrxyZvNFYn7V4r7Viz614BT9iEqIv7QXM/T6NIcX5gGHkLUxrZHFQoHoxjP64aixv2LsqjX9YeMkra87V3Uc4EK2K8PKu7xsQj2JV4OGdRrJExzIOE854EWhh9r/8sRCCYMwXJtQdxpOh6u35bh75Y52cD0njYE=;6gFn3VwMUS0xodlyWbIBoA=="
 ---
 

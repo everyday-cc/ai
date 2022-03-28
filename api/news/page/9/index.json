@@ -2,6 +2,363 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-03-17-thaivivat-offers-ai-tech-startup-inspection-app.md",
+      "title": "Thaivivat offers AI tech startup, inspection app",
+      "excerpt": "Thaivivat Insurance (TVI) has launched Motor AI Recognition Solution (MARS), a deep tech startup, and MARS Inspect, a real-time vehicle inspection application, aiming to achieve total premiums of 10 billion baht by 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bangkokpost.com/business/2280383/thaivivat-offers-ai-tech-startup-inspection-app",
+      "originalUrl": "https://www.bangkokpost.com/business/2280383/thaivivat-offers-ai-tech-startup-inspection-app",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.bangkokpost.com/newdesign/assets/images/bg/business/images_business_1.jpg?v=0.1",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T19:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bangkok Post",
+        "domain": "bangkokpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-microsoft-surface-hub-2-smart-camera-with-laptop-grade-chip-12mp-ai-cam-launched.md",
+      "title": "Microsoft Surface Hub 2 Smart Camera with laptop-grade chip, 12MP AI cam launched",
+      "excerpt": "Microsoft has just unveiled its Surface Hub 2 Smart Camera which boasts of some highly impressive features and capabilities. The Microsoft Surface Hub 2 Smart Camera is not just an everyday webcam and it does not come cheap – it is priced at $800.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/03/17/microsoft-surface-hub-2-smart-camera-laptop-grade-chip-12mp-ai-cam-launched/",
+      "originalUrl": "https://www.gizmochina.com/2022/03/17/microsoft-surface-hub-2-smart-camera-laptop-grade-chip-12mp-ai-cam-launched/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/03/Surface-Hub-2S-1-810x298_c.jpg",
+          "width": 810,
+          "height": 298,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/03/17/microsoft-surface-hub-2-smart-camera-laptop-grade-chip-12mp-ai-cam-launched/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/03/17/microsoft-surface-hub-2-smart-camera-laptop-grade-chip-12mp-ai-cam-launched/?amp=1",
+      "publishedDateTime": "2022-03-16T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-these-2-artificial-intelligence-stocks-are-set-for-strong-growth-says-truist.md",
+      "title": "These 2 Artificial Intelligence Stocks Are Set for Strong Growth, Says Truist",
+      "excerpt": "Let’s talk about artificial intelligence. AI is a growing segment of the tech sector, finding uses in almost every industry, especially those featuring autonomous systems. Self-driving cars, industrial robots,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/these-2-artificial-intelligence-stocks-are-set-for-strong-growth-says-truist",
+      "originalUrl": "https://www.nasdaq.com/articles/these-2-artificial-intelligence-stocks-are-set-for-strong-growth-says-truist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/these-2-artificial-intelligence-stocks-are-set-for-strong-growth-says-truist?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/these-2-artificial-intelligence-stocks-are-set-for-strong-growth-says-truist?amp",
+      "publishedDateTime": "2022-03-16T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-downer-group-leverages-ai-infused-analytics-to-drive-the-development-of-next-generation-health-safety-and-environment-management-systems-with.md",
+      "title": "Downer Group leverages AI-infused analytics to drive the development of next-generation health, safety and environment management systems with Crayon",
+      "excerpt": "Systems that collect and analyse evidence at a massive scale to predict potential futures before they occur (without the pre-cognitive humans in a ... In 2021, Downer Group partnered with Microsoft and IT services specialist Crayon to start building ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/en-au/features/downer-group-leverages-ai-infused-analytics-to-drive-the-development-of-next-generation-health-safety-and-environment-management-systems-with-crayon/",
+      "originalUrl": "https://news.microsoft.com/en-au/features/downer-group-leverages-ai-infused-analytics-to-drive-the-development-of-next-generation-health-safety-and-environment-management-systems-with-crayon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/66/2022/03/Downer.Microsoft_Image.selection.02.202219.jpg",
+          "width": 1365,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-how-ibms-watson-can-help-cut-your-tax-bill.md",
+      "title": "How IBM’s Watson Can Help Cut Your Tax Bill",
+      "excerpt": "H&R Block has “hired” IBM’s Watson--a powerful artificial intelligence system--to act as a cyberguide in preparing taxes. To study for the job, Watson digested the federal tax code (more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html",
+      "originalUrl": "https://www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediacloud.kiplinger.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1615837136/kiplinger_placeholder.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html?amp",
+      "cdnAmpWebUrl": "https://www-kiplinger-com.cdn.ampproject.org/c/s/www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html?amp",
+      "publishedDateTime": "2022-03-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kiplinger",
+        "domain": "kiplinger.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-human-brain-inspires-design-of-chips-that-can-rewire-themselves.md",
+      "title": "Human Brain Inspires Design of Chips That Can Rewire Themselves",
+      "excerpt": "who created simulations of the experimental data to demonstrate that the internal physics of the hardware creates a dynamic structure for an artificial neural network, they said. The Purdue team built the device—which operates at room temperature--using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics/human-brain-inspires-design-chips-can-rewire-themselves",
+      "originalUrl": "https://www.designnews.com/electronics/human-brain-inspires-design-chips-can-rewire-themselves",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/HumanAI_0.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-enhancing-dlp-with-natural-language-understanding-for-better-email-security.md",
+      "title": "Enhancing DLP With Natural Language Understanding for Better Email Security",
+      "excerpt": "Natural language understanding is well-suited for scanning enterprise email to detect and filter out spam and other malicious content. Armorblox introduces a data loss prevention service to its email security platform using NLU.",
+      "sourceUrl": null,
+      "webUrl": "https://www.darkreading.com/emerging-tech/enhancing-dlp-with-natural-language-understanding-for-better-email-security",
+      "originalUrl": "https://www.darkreading.com/emerging-tech/enhancing-dlp-with-natural-language-understanding-for-better-email-security",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa07a0d5ae58a2d/62331767ba1c6a10726da896/robot-book-KittipongJirasukhanont-alamy.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-amazon-launches-rpg-for-aws-training.md",
+      "title": "Amazon launches RPG for AWS training",
+      "excerpt": "Amazon launched a 3D online role-paying game where players move through a virtual city helping people solve real-world technology issues and cloud use cases, with goal of building Amazon Web Services (AWS) cloud skills and preparation for the AWS Certified Cloud Practitioner exam.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/amazon-launches-rpg-for-aws-training-577464",
+      "originalUrl": "https://www.crn.com.au/news/amazon-launches-rpg-for-aws-training-577464",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/iStock-1303238248.jpg",
+          "width": 1253,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-israeli-ai-infrastructure-firm-runai-raises-75-million.md",
       "title": "Israeli AI Infrastructure Firm Run:ai Raises $75 Million",
       "excerpt": "Run:ai enables organizations to have all their AI resources on a single, unified platform that supports AI at all stages of development.",
@@ -719,369 +1076,6 @@
         "AI in Finance",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-vidizmo-joins-aws-public-sector-program-to-provide-video-streaming-and-evidence-management-solutions.md",
-      "title": "VIDIZMO Joins AWS Public Sector Program to Provide Video Streaming and Evidence Management Solutions",
-      "excerpt": "Already a validated solution and available in AWS Marketplace, VIDIZMO helps enterprises and government organizations around the world to stream and manage large amounts of video",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/vidizmo-joins-aws-public-sector-program-to-provide-video-streaming-and-evidence-management-solutions/article_b8975bb3-198e-5ec9-9dc4-508f937fe7f7.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/vidizmo-joins-aws-public-sector-program-to-provide-video-streaming-and-evidence-management-solutions/article_b8975bb3-198e-5ec9-9dc4-508f937fe7f7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-prosport-physical-therapy-performance-joins-golden-bear-therapy-partners.md",
-      "title": "ProSport Physical Therapy & Performance joins Golden Bear Therapy Partners",
-      "excerpt": "Golden Bear Therapy Partners is pleased to announce the partnership with ProSport Physical Therapy & Performance of Southern California.     \"I am proud that Joe and the ProSport team has chosen GBTP to partner with,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20290698.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20290698.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-items-tagged-with-mona-lisa.md",
-      "title": "Items tagged with mona lisa",
-      "excerpt": "A list of HotHardware's published articles on the topic of mona lisa",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/tags/mona-lisa",
-      "originalUrl": "https://hothardware.com/tags/mona-lisa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/57988/content/small_mona_lisa_art.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-former-fda-head-scott-gottlieb-md-to-headline-upcoming-artificial-intelligence-in-healthcare-and-diagnostics-conference.md",
-      "title": "Former FDA Head Scott Gottlieb, M.D. to Headline Upcoming Artificial Intelligence in Healthcare and Diagnostics Conference",
-      "excerpt": "Innovative companies bringing artificial intelligence (AI) to hospitals, physicians, and diagnostic providers will gain key insights about the market opportunities to improve patient care and generate more revenue when they hear the keynote address by former Food and Drug Administration (FDA) Commissioner Scott Gottlieb,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/former-fda-head-scott-gottlieb-m-d-to-headline-upcoming-artificial-intelligence-in-healthcare-and/article_80086361-e7d6-56ab-b9d8-8026e9d86631.html",
-      "originalUrl": "https://www.eagletribune.com/region/former-fda-head-scott-gottlieb-m-d-to-headline-upcoming-artificial-intelligence-in-healthcare-and/article_80086361-e7d6-56ab-b9d8-8026e9d86631.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/de/6de880d4-966e-5a77-a86b-9305a9f0f20d/6231fc9d818b4.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips.md",
-      "title": "Chipotle Is Testing An AI-Driven Robot To Make Its Tortilla Chips",
-      "excerpt": "Miso Robotics' Chippy is in test at the Chipotle Cultivate Center with plans to eventually integrate into a Chipotle restaurant in Southern California later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aliciakelso/2022/03/16/chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips/",
-      "originalUrl": "https://www.forbes.com/sites/aliciakelso/2022/03/16/chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604055621f986bf7c978c45c%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aliciakelso/2022/03/16/chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2022/03/16/chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips/amp/",
-      "publishedDateTime": "2022-03-16T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-london-school-of-business-finances-digital-academy-set-to-further-develop-student-skills-in-the-digital-and-tech-sphere.md",
-      "title": "London School of Business & Finance’s Digital Academy Set to Further Develop Student Skills in the Digital and Tech Sphere",
-      "excerpt": "London School of Business & Finance’s Digital Academy Set to Further Develop Student Skills in the Digital and Tech Sphere",
-      "sourceUrl": null,
-      "webUrl": "https://www.fenews.co.uk/education/london-school-of-business-finances-digital-academy-set-to-further-develop-student-skills-in-the-digital-and-tech-sphere/",
-      "originalUrl": "https://www.fenews.co.uk/education/london-school-of-business-finances-digital-academy-set-to-further-develop-student-skills-in-the-digital-and-tech-sphere/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fenews.co.uk/wp-content/uploads/2022/03/Shane-De-Fonseka.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fenews.co.uk",
-        "domain": "fenews.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-gene-therapy-global-market-report-2022.md",
-      "title": "Gene Therapy Global Market Report 2022",
-      "excerpt": "IS YOUR LUCKY DAY] For only $7, get 2 bear market beating options trade straight to your inbox and SMS every month! Click Here Now to Get Started! New York, March 16, 2022 (GLOBE NEWSWIRE) -- Reportlinker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/03/g26165499/gene-therapy-global-market-report-2022",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/g26165499/gene-therapy-global-market-report-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26165499",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26165499",
-      "publishedDateTime": "2022-03-16T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-ai-startup-modern-intelligence-raises-5m-to-launch-innovative-maritime-surveillance-ai.md",
-      "title": "AI Startup Modern Intelligence Raises $5M to Launch Innovative Maritime Surveillance AI",
-      "excerpt": "Cutlass offers new standard in defense, unmatched accuracy and resilience; deployment on existing military platformAUSTIN, Texas, March 16, 2022",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-startup-modern-intelligence-raises-5m-to-launch-innovative-maritime-surveillance-ai-1031285168",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-startup-modern-intelligence-raises-5m-to-launch-innovative-maritime-surveillance-ai-1031285168",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1767450/Modern_Intelligence_Team.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

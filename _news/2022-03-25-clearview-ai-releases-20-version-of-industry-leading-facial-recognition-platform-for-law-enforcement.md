@@ -7,7 +7,7 @@ originalUrl: "https://www.01net.it/clearview-ai-releases-2-0-version-of-industry
 webUrl: "https://www.businesswire.com/news/home/20220325005073/en/ Clearview-AI-Releases-2.0-Version-of-Industry-Leading-Facial-Recognition-Platform-for-Law-Enforcement"
 type: article
 quality: 119
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -121,17 +121,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Rethinking the rules around facial recognition technology"
-    excerpt: "Right now, at least nine law enforcement offices and departments in Massachusetts use it, as well as offices of some federal agencies, drawing mostly on an RMV database and FBI resources. But there's very little oversight in how facial recognition technology is used in law enforcement."
-    publishedDateTime: 2022-03-23T19:30:00Z
-    webUrl: "https://www.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
-    ampWebUrl: "https://amp.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/radioboston/2022/03/23/rethinking-laws-facial-recognition-technology"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 39
   - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
     excerpt: "Clearview AI’s database now features more than 20 billion facial images. Clearview 2.0 offers new compliance and investigation management tools for law enforcement agencies."
     publishedDateTime: 2022-03-25T19:26:00Z

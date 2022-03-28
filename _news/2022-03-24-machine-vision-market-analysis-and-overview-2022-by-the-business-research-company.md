@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Machine Learning Courses Market 2022 with Covid-19 Impact Analysis and Forecast by 2028"
+    excerpt: "MarketsandResearch.biz has presented a new market study on Global Machine Learning Courses Market 2022 by Company, Regions, Type and Application, Forecast to 2028 which delivers an executive-level market analysis that will help clients to build strategies to expand their market operations."
+    publishedDateTime: 2022-03-27T20:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028-2022-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) as a Service Market Revenue Size, Regional Share Analysis & Forecast Till 2027"
     excerpt: "The growing demand for AI & cognitive computing and large-scale adoption of cloud-based solutions for intelligent business applications is propelling"
     publishedDateTime: 2022-03-24T11:39:00Z
@@ -39,19 +53,33 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "ADAS and Autonomous Driving Components Market Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand and Forecast till 2027"
-    excerpt: "The rising number of government initiatives globally related to the safety of the vehicles coupled with the rising demand for safe and efficient vehicles"
-    publishedDateTime: 2022-03-28T11:03:00Z
-    webUrl: "https://www.digitaljournal.com/pr/adas-and-autonomous-driving-components-market-worldwide-industry-share-size-gross-margin-trend-future-demand-and-forecast-till-2027"
+  - title: "Global Cognitive Media Market Provides an In-Depth Insight of Sales, Trends and Forecast"
+    excerpt: "Global Cognitive Media Market research report endows with the key information about the ICT industry, including very important facts and figures, expert"
+    publishedDateTime: 2022-03-24T10:16:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-cognitive-media-market-provides-an-in-depth-insight-of-sales-trends-and-forecast"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 0
+    quality: 32
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/848dd933f2b95b10eb092743860d98932097e224-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/f5bba72678ff93670d5b9b0566e19922cf344b35-1-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "North America Humanoid Robot Market Size, Share, Analysis Challenges, and Future Growth Forecast 2021-2028"
+    excerpt: "Canada registered a research and development expenditure comprising 1.585% of its Gross Domestic Product (GDP).CRIFAX added a r"
+    publishedDateTime: 2022-03-24T15:46:00Z
+    webUrl: "https://menafn.com/1103905939/North-America-Humanoid-Robot-Market-Size-Share-Analysis-Challenges-and-Future-Growth-Forecast-2021-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?868304"
+        width: 422
+        height: 249
         isCached: true
 
 secured: "1Q8SJWvecLLYiIfWkFOAfPZA0Lp1qZffkECaOvvu+12r9Q06/Z5cifcfFDO43UREfXvJK+Zse3wtzjXFX+38EllPFBTUMaOtNpagul8xY+qIFdl5brhLUJlIx+UnlqtOqBPXyWIrRu96UPpB7Frz7e01YOAJzJX5+/9XXTgIVWySsP+KQszzO3cpAGWsMwbNbrZTmFeNCySWrJ13jRrE4VdIamDx2d+7RKD77IAXmYhsJd3KVpNqt9zCMANVQ5A+H3f8RraochSiyBB4S7hUEhnW3KBdWP75yDPdz9lnjjBZDOZ2SZrS3+UJywMIecgL269NlueEm5i9gHgo1flPKJTiZrR60CTNXSNPxsosdl19M7cH+V3XG/swGnufjB/pEBHbQ8EJuYZmixUjOKqHYni8sALoaVhOh7afQ0MZItWO7wHDaVuOhDxhSit0BvqJmTwxDJmL87E0A6ueZ6GkIT7t01S9wDj92IytgsHhsdWpPKTWzYFNd7p2jvY4liF+YSe+zZ/ujpvayibT7DU7mQ==;s5sYF0U/Q2sR6lsBocZ3dw=="

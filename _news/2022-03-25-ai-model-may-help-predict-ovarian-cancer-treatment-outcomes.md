@@ -8,7 +8,7 @@ webUrl: "https://medicalxpress.com/news/2022-03-ai-ovarian-cancer-treatment-outc
 ampWebUrl: "https://medicalxpress.com/news/2022-03-ai-ovarian-cancer-treatment-outcomes.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-ai-ovarian-cancer-treatment-outcomes.amp"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-model-may-help-pred.jpg"

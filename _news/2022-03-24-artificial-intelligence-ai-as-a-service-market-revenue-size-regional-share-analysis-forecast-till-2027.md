@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-as-a-
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-as-a-service-market-revenue-size-regional-share-analysis-forecast-till-2027"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,48 @@ images:
     isCached: true
 
 related:
+  - title: "Global Machine Learning Courses Market 2022 with Covid-19 Impact Analysis and Forecast by 2028"
+    excerpt: "MarketsandResearch.biz has presented a new market study on Global Machine Learning Courses Market 2022 by Company, Regions, Type and Application, Forecast to 2028 which delivers an executive-level market analysis that will help clients to build strategies to expand their market operations."
+    publishedDateTime: 2022-03-27T20:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028-2022-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Cognitive Media Market Provides an In-Depth Insight of Sales, Trends and Forecast"
+    excerpt: "Global Cognitive Media Market research report endows with the key information about the ICT industry, including very important facts and figures, expert"
+    publishedDateTime: 2022-03-24T10:16:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-cognitive-media-market-provides-an-in-depth-insight-of-sales-trends-and-forecast"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 32
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/f5bba72678ff93670d5b9b0566e19922cf344b35-1-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "North America Humanoid Robot Market Size, Share, Analysis Challenges, and Future Growth Forecast 2021-2028"
+    excerpt: "Canada registered a research and development expenditure comprising 1.585% of its Gross Domestic Product (GDP).CRIFAX added a r"
+    publishedDateTime: 2022-03-24T15:46:00Z
+    webUrl: "https://menafn.com/1103905939/North-America-Humanoid-Robot-Market-Size-Share-Analysis-Challenges-and-Future-Growth-Forecast-2021-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?868304"
+        width: 422
+        height: 249
+        isCached: true
   - title: "Machine Vision Market Analysis And Overview 2022 By The Business Research Company"
     excerpt: "TBRC's machine vision market research report covers in-depth breakdowns of market sizing, forecasts, competitors, regional performance, and more."
     publishedDateTime: 2022-03-24T15:30:00Z
@@ -39,20 +81,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/5a/45a3c8ac-1ac5-5b2b-8792-f1afbc9beb35/62150fe91f4d0.image.jpg?crop=750%2C394%2C0%2C14&resize=750%2C394&order=crop%2Cresize"
         width: 750
         height: 394
-        isCached: true
-  - title: "ADAS and Autonomous Driving Components Market Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand and Forecast till 2027"
-    excerpt: "The rising number of government initiatives globally related to the safety of the vehicles coupled with the rising demand for safe and efficient vehicles"
-    publishedDateTime: 2022-03-28T11:03:00Z
-    webUrl: "https://www.digitaljournal.com/pr/adas-and-autonomous-driving-components-market-worldwide-industry-share-size-gross-margin-trend-future-demand-and-forecast-till-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/848dd933f2b95b10eb092743860d98932097e224-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "h10bSf5BCF3v9KBL12QHU+mmLOqCCWCMziDhueqTc5b/q8Qnkmh5sKFfvKqdW8XTL9Ej7JKpjyI0cPHcIlUVNnj8emTtqwOtdgtaWnx805O1+eng+DEEcQ5JpNZHqJRKfFtrk5GtHCYfUj9mvWReguyCBYRWVn5jawSiG232CXLq8xltdl/RFyuCAMEBGrrneUSWBLeW0hSg3wJ7qMUiIeW20W6hsLp3QtuHFLM4R5aw/nNkE5hz9EQ+jgFMEDpaI8w5V4MQMf6wCBoKzYborv1eRSKR5Kpjh86M+t1O05P2LxbrLl/2QclLhUEi9CGajfgHa0arf42PnOJFbyIzE3wRs6bGLDf3dep2jUxBq8M=;zpNrE5sLOxBjnQj7DKBUQw=="

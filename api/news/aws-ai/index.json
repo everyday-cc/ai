@@ -107,6 +107,58 @@
       ]
     },
     {
+      "path": "_news/2022-03-26-aws-is-hungry-for-a-bigger-slice-of-the-video-game-pie.md",
+      "title": "AWS is hungry for a bigger slice of the video game pie",
+      "excerpt": "Cloud adoption has transformed the way games are built, distributed, and played,” said Bill Vass, Vice President, AWS Engineering. “Game developers continue to accelerate t",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/news/aws-is-hungry-for-a-bigger-slice-of-the-video-game-pie",
+      "originalUrl": "https://www.techradar.com/uk/news/aws-is-hungry-for-a-bigger-slice-of-the-video-game-pie",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/V8LKc9rp2MMJqfBD3jNBpN-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.md",
       "title": "ExtraHop adds heat map to its AWS cloud-native security solution",
       "excerpt": "A cloud-native security provider announced Wednesday that it has added heat-mapping capabilities to its Amazon Web Service (AWS) flagship product. The new tier of service, called ExtraHop Reveal(x) 360,",
@@ -307,6 +359,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-24-spectrum-labs-creates-guardian-for-games-to-safeguard-player-experience-in-the-metaverse.md",
+      "title": "Spectrum Labs Creates Guardian for Games to Safeguard Player Experience in the Metaverse",
+      "excerpt": "Spectrum Labs, a leading artificial intelligence (AI)-based content moderation platform, announced today it has created a version of its Guardian product purpose-built for Gaming communities. As the industry faces the challenges and opportunities of nurturing safe and inclusive communities as the next era of the Internet emerges,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-a460f100bde545e19aef4d6672a4f838",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-a460f100bde545e19aef4d6672a4f838",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-expedite-ivr-development-with-industry-grammars-on-amazon-lex.md",
       "title": "Expedite IVR development with industry grammars on Amazon Lex",
       "excerpt": "Amazon Lex is a service for building conversational interfaces into any application using voice and text. With Amazon Lex, you can easily build sophisticated, natural language, conversational bots (chatbots), virtual agents, and interactive voice response (IVR) systems. You can now use industry grammars",
@@ -408,6 +503,126 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-ujet-wins-prestigious-best-of-enterprise-connect-2022-overall-award.md",
+      "title": "UJET Wins Prestigious Best of Enterprise Connect 2022 Overall Award",
+      "excerpt": "Disruptive Contact Center Platform Also Recognized for Innovative Use of Artificial Intelligence in CX UJET, Inc., the world’s most advanced cloud contact center provider, today announced it was awarded the 2022 Best of Enterprise Connect Overall distinction for CX Intercloud,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220322005820/ujet-wins-prestigious-best-of-enterprise-connect-2022-overall-award",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220322005820/ujet-wins-prestigious-best-of-enterprise-connect-2022-overall-award",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-apac-firms-see-need-to-train-staff-in-digital-skills-but-few-actually-do-so.md",
+      "title": "APAC firms see need to train staff in digital skills, but few actually do so",
+      "excerpt": "Some 97% of organisations across seven Asia-Pacific markets, including Singapore and Australia, recognise the need to train their employees in digital skillsets, with cloud and cybersecurity the top-most in demand,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/apac-firms-see-need-to-train-staff-in-digital-skills-but-few-actually-do-so/",
+      "originalUrl": "https://www.zdnet.com/article/apac-firms-see-need-to-train-staff-in-digital-skills-but-few-actually-do-so/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/apac-firms-see-need-to-train-staff-in-digital-skills-but-few-actually-do-so/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apac-firms-see-need-to-train-staff-in-digital-skills-but-few-actually-do-so/",
+      "publishedDateTime": "2022-03-21T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-workplace-digital-skills-training-in-a-bad-place.md",
+      "title": "Workplace digital skills training in a bad place",
+      "excerpt": "Workers aren’t getting enough training in much needed digital skills with two in three workers saying they’re not confident existing workplace training programs will meet their future career needs, a new survey has found.",
+      "sourceUrl": null,
+      "webUrl": "https://ia.acs.org.au/article/2022/workplace-digital-skills-training-in-a-bad-place.html",
+      "originalUrl": "https://ia.acs.org.au/article/2022/workplace-digital-skills-training-in-a-bad-place.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ia.acs.org.au/content/dam/ia/article/images/2022/training%20computer%20skills.jpg",
+          "width": 939,
+          "height": 528,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-21T18:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ia.acs",
+        "domain": "acs.org.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -932,6 +1147,102 @@
       ]
     },
     {
+      "path": "_news/2022-03-16-tonby-robbins-professional-freelancer-in-london.md",
+      "title": "Tonby Robbins: Professional freelancer in London",
+      "excerpt": "Tonby is a freelance professional consultant based in Londo, London | A student of the Open University and has been working as an expert on various projects ever since graduating from college with experience ranging from business to IT development to data analytics and digital transformation initiatives.",
+      "sourceUrl": null,
+      "webUrl": "https://signalscv.com/2022/03/tonby-robbins-professional-freelancer-in-london/",
+      "originalUrl": "https://signalscv.com/2022/03/tonby-robbins-professional-freelancer-in-london/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://signalscv.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Santa Clarita Signal",
+        "domain": "signalscv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-imperva-welcomes-dan-neault-as-svp-and-gm-data-security.md",
+      "title": "Imperva Welcomes Dan Neault as SVP and GM, Data Security",
+      "excerpt": "Imperva, Inc. (@Imperva), the comprehensive digital security leader on a mission to help organizations protect their data and all paths to it, names Dan Neault as Senior Vice President and General Manager of the Data Security business unit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/imperva-welcomes-dan-neault-svp-gm-data-security-itsecuritywire",
+      "originalUrl": "https://www.linkedin.com/pulse/imperva-welcomes-dan-neault-svp-gm-data-security-itsecuritywire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQEXaycyRsUZHw/article-cover_image-shrink_600_2000/0/1647336687983?e=1654128000&v=beta&t=9FubgAqi-i1HJMXQuGQKTGz7A_yI3eejyBycfQjro6w",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-leveraging-standards-to-optimize-ai-at-the-edge-what-agencies-need-to-know.md",
       "title": "Leveraging Standards to Optimize AI at the Edge: What Agencies Need to Know",
       "excerpt": "Ryan Luckay is a cloud-enabled artificial intelligence specialist master at Deloitte Consulting and has worked on numerous proofs of concept using edge AI tools, including OpenVino, Google Cloud Platform AutoML Vision and Amazon Web Services SageMaker.",
@@ -975,6 +1286,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-15-cloud-based-management-system-helps-energy-companies-with-water-efficiency.md",
+      "title": "Cloud-Based Management System Helps Energy Companies with Water Efficiency",
+      "excerpt": "An intelligent water management system is designed to improve water efficiency and sustainability for energy companies with the possibility of expanding the information across industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.environmentalleader.com/2022/03/cloud-based-management-system-helps-energy-companies-with-water-efficiency/",
+      "originalUrl": "https://www.environmentalleader.com/2022/03/cloud-based-management-system-helps-energy-companies-with-water-efficiency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s30148.pcdn.co/wp-content/uploads/2022/03/water-gb9fcc0484_1920-1024x546.jpg",
+          "width": 1024,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Environmental Leader",
+        "domain": "environmentalleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-14-ecopetrol-accenture-and-aws-work-to-help-companies-advance-journey-to-water-neutrality-through-first-of-its-kind-open-platform.md",
       "title": "Ecopetrol, Accenture and AWS Work to Help Companies Advance Journey to Water Neutrality Through First-of-its-Kind Open Platform",
       "excerpt": "Accenture (NYSE: ACN) and Amazon Web Services, Inc. (AWS) announced a first-of-its-kind solution for water intelligence and management to help advance sustainability and operational efficiencies for energy companies.",
@@ -995,397 +1349,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-aws-ceo-adam-selipsky-at-mwc-5g-cybersecurity-and-sustainability-in-the-cloud.md",
-      "title": "AWS CEO Adam Selipsky at MWC – 5G, Cybersecurity and Sustainability in the Cloud",
-      "excerpt": "Thank you for reading my latest article on AWS CEO Adam Selipsky at MWC – 5G, Cybersecurity and Sustainability in the Cloud. Here at LinkedIn and at Forbes I regularly write about management and technology trends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/aws-ceo-adam-selipsky-mwc-5g-cybersecurity-cloud-bernard-marr",
-      "originalUrl": "https://www.linkedin.com/pulse/aws-ceo-adam-selipsky-mwc-5g-cybersecurity-cloud-bernard-marr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHFSegBTexXWg/article-cover_image-shrink_600_2000/0/1646982720606?e=1653523200&v=beta&t=fDifGXe9__AGnR0GfnFXGO5ZNJr7aIo_hOwCnNGQEVo",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T23:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-artificial-intelligence-ai-in-medical-market-will-likely-see-excellent-gains-in-key-business-segments.md",
-      "title": "Artificial Intelligence (AI) in Medical Market Will Likely See Excellent Gains in Key Business Segments",
-      "excerpt": "Global Artificial Intelligence (AI) in Medical Market by Player, Region, Type, Application and Sales Channel is latest research study released by HTF MI evaluating the market, hig",
-      "sourceUrl": null,
-      "webUrl": "https://eclecticnortheast.in/2022/03/11/artificial-intelligence-ai-in-medical-market-will-likely-see-excellent-gains-in-key-business-segments/",
-      "originalUrl": "https://eclecticnortheast.in/2022/03/11/artificial-intelligence-ai-in-medical-market-will-likely-see-excellent-gains-in-key-business-segments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eclectic Northeast",
-        "domain": "eclecticnortheast.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-10-redefining-workplace-meetings-could-be-key-to-employee-retention-during-the-great-resignation.md",
-      "title": "Redefining Workplace Meetings Could Be Key To Employee Retention During The Great Resignation",
-      "excerpt": "Prior to CLIPr, Chen was the head of Amazon Rekognition and the chief product officer of fast-growing video intelligence company VidMob. CLIPr was born from the pandemic to solve this challenge of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/03/10/redefining-workplace-meetings-could-be-key-to-employee-retention-during-the-great-resignation/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/03/10/redefining-workplace-meetings-could-be-key-to-employee-retention-during-the-great-resignation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/622912e15d266438042edc8a/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/03/10/redefining-workplace-meetings-could-be-key-to-employee-retention-during-the-great-resignation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/03/10/redefining-workplace-meetings-could-be-key-to-employee-retention-during-the-great-resignation/amp/",
-      "publishedDateTime": "2022-03-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-extract-granular-sentiment-in-text-with-amazon-comprehend-targeted-sentiment.md",
-      "title": "Extract granular sentiment in text with Amazon Comprehend Targeted Sentiment",
-      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to discover insights from text. As a fully managed service, Amazon Comprehend requires no ML expertise and can scale to large volumes of data. Amazon Comprehend provides several different APIs to easily integrate",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extract-granular-sentiment-in-text-with-amazon-comprehend-targeted-sentiment/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extract-granular-sentiment-in-text-with-amazon-comprehend-targeted-sentiment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/08/Screen-Shot-2022-03-08-at-9.37.08-AM.png",
-          "width": 756,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-09T13:51:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-amazon-sagemaker-autopilot-now-supports-time-series-data.md",
-      "title": "Amazon SageMaker Autopilot now supports time series data",
-      "excerpt": "Amazon SageMaker Autopilot automatically builds, trains, and tunes the best machine learning (ML) models based on your data, while allowing you to maintain full control and visibility. We have recently announced support for time series data in Autopilot. You can use Autopilot to tackle regression and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-autopilot-now-supports-time-series-data/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-autopilot-now-supports-time-series-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/02/ML-7246-image011-1-1142x630.png",
-          "width": 1142,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-09T10:56:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-transforming-qualitative-research-by-automating-speech-to-text-to-text-analytics.md",
-      "title": "Transforming qualitative research by automating speech to text-to-text analytics",
-      "excerpt": "This post is authored by Satish Jha, Intelligent Automation Manager, Matt Docherty, Data Science Manager, Jayesh Muley, Associate Consultant and Tapan Vora, Rapid Prototyping, from ZS Associates. At ZS Associates, we do a significant amount of qualitative market research. The work involves interviewing",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/transforming-qualitative-research-by-automating-speech-to-text-to-text-analytics/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transforming-qualitative-research-by-automating-speech-to-text-to-text-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/25/ML-6161-image005.jpg",
-          "width": 626,
-          "height": 284,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-09T09:40:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-in-an-evolving-cloud-world-azure-passes-aws.md",
-      "title": "In an evolving cloud world, Azure passes AWS",
-      "excerpt": "State of the Cloud survey finds data warehouses, databases, and containers to be the top cloud draws, with serverless and AI/ML rising fast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3652330/in-an-evolving-cloud-world-azure-passes-aws.html",
-      "originalUrl": "https://www.infoworld.com/article/3652330/in-an-evolving-cloud-world-azure-passes-aws.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/01/the_whirlpool_galaxy_m51_by_sloan_digital_sky_survey_cc_by_4-0_via_sdss-100784773-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3652330/in-an-evolving-cloud-world-azure-passes-aws.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3652330/in-an-evolving-cloud-world-azure-passes-aws.amp.html",
-      "publishedDateTime": "2022-03-09T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-rackspace-technology-works-with-delta-thermal-to-help-electric-utilities-and-downstream-industrial-customers-protect-and-grow-the-power-grid.md",
-      "title": "Rackspace Technology Works with Delta Thermal to Help Electric Utilities and Downstream Industrial Customers Protect and Grow the Power Grid with AWS",
-      "excerpt": "Rackspace Technology ® (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company, today announced working with Delta Thermal to protect and grow the power grid enabled by Delta Thermal to help electric utilities and downstream industrial customers predict and prevent costly outages,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-software-utilities-electric-utilities-9bd204f806232bfe1eca2c69de86f3c7",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-software-utilities-electric-utilities-9bd204f806232bfe1eca2c69de86f3c7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-08T08:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

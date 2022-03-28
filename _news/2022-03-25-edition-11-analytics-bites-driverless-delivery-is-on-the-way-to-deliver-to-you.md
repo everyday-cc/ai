@@ -45,19 +45,19 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "Transforming Customer Experience through Artificial Intelligence"
-    excerpt: "The Changing Nature of Customer Expectations Increasing adoption of digital technologies by consumers has led to a newer set of expectations, where customers demand an exceptional experience in their channel of choice,"
-    publishedDateTime: 2022-03-23T20:30:00Z
-    webUrl: "https://www.linkedin.com/pulse/transforming-customer-experience-through-artificial-shiwanand-pathak"
+  - title: "Taiwan Life Insurance’s App, Powered by Lydia AI, Wins a Celent Model Insurer Award 2022 in Data, Analytics, and AI"
+    excerpt: "Lydia AI announced that its client Taiwan Life Insurance has received a Celent Model Insurer award for Data, Analytics and AI for their use of external open health data for digital accelerated underwriting in the company’ s mobile health score application powered by Lydia AI."
+    publishedDateTime: 2022-03-28T13:04:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/taiwan-life-insurances-app-powered-by-lydia-ai-wins-a-celent-model-insurer-award-2022-in-data-analytics-and-ai"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 15
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEVwnP7RHi5LQ/article-cover_image-shrink_600_2000/0/1648066446395?e=1653523200&v=beta&t=L-bYXAYDuJd7x5fLXm9dxcPJPUaLldq1fkDrU9fe35A"
-        width: 1280
-        height: 504
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2022/02/inn-social-default.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Y/GMAS6ZcFLeMYzmKz1cqU01XuxT6Z34LuEciPXRQAWge0TeF7EkAw3xMny02Zx4GDIaVMBuHNPxOFvA9sbgEa7RzlmXoijsnEiCdxfDmNL3QY6QCdm7lctLd3G9nzbSsADBFtZIrfBQoWKtIVLrkiXsVJvHiPqp9hQ9zdfT6XVJAbquDVz/lI+QXH+WnSjs8jKF7cnIMBSnxXtos194pPq9+HroVlQhUlygB848Q+oLH+5ck4HskeBN2MS483jR1WzU6M6RCDeZOUMRXXZPT3KjlODAG4fCm479VBDtM5p0NkAaBMPP4hTYvSYi7nijWE0xaIYXX0P1UfXSgcA6aXmnGxg688zQu2gNwf1Tziw=;J8n4eRTpZqwSGL3JFpEWNw=="

@@ -3,10 +3,8 @@ category: news
 title: "AI Chip Startups Pull In Funding as They Navigate Supply Constraints"
 excerpt: "Investors are funneling billions of dollars into startups that make chips designed for artificial-intelligence applications, which have largely avoided the supply-chain constraints and backlogs faced by larger chip makers."
 publishedDateTime: 2022-03-15T09:00:00Z
-originalUrl: "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402"
-webUrl: "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402"
-ampWebUrl: "https://www.wsj.com/amp/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402"
+originalUrl: "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402?tpl=vc"
+webUrl: "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402?tpl=vc"
 type: article
 
 provider:
@@ -27,6 +25,6 @@ images:
     height: 640
     isCached: true
 
-secured: "RHf51l2HYH+dJquOT/d7jE5mJ7fIz1E21JAb6aBbIVVSR8rrlNWd8xkopWm6dPpaD4vwjurkUPb0FU64oVotxEV1B+lwtFLLX/x6I+tjO9SUcCFSqqX8DMI6ZPynuQ++wYLz5z1nytqrawCxT/JsVnBtkNlskYtY7B9qXnnY+vRHYhlsgbcE/UyqgXAM/3vkNXAl38vAU75BtEnaHOd2bG9VoGC8mS+VjKAxQZ4dLaGTOcW3G1qIAHSa8fzv6Vez9W8EZodjz5eIUF+fFyveuBh2+8SrEm/VvPKG+T6GyfsE2jGYuaUtHmimyFoXtoUUhziXS6xGquovEwhS5MJljEx6nhalaDoj+FVjVVmFw/aqhMs+lniH7QCs2nf+6K3Ftyy3j/wmrpXI8oQ9s5l1WuZEjK6ZdXYrB4I8Snr1lIAEXBY2v+K+etwVsoZLKD/excZnF8kpzAZQz1LGZLLWQ/788zLn9lkA7UXsMnaDVdCJNbuIy/Tdgva9V3sOYK8/oRnR1kuK64JuaUHuKhANRg==;+pOKumtjYuY2QfElL9nfAQ=="
+secured: "6p/yRfZIT85xbGY7G44BZstBqrbiHnVTW9N3VwSbLqd9pDfe8mEwuXgZZbUQFR9H4pvBrlZuRQdSTCDbQp8j0b2ZS8GDCC56wqkUXY/SGYf6QTlHE+wtBAFBXH3UHW1H4ZHaJPNToEghDnK/gCG4Kjis7XEGeCT15RrhGZh+wDPedw5IhPioCFCVKHOVy/f2elOk8DTHUv+tuD1q96tXULt8iepviCGiFbaLWA0yTD3VT5yyYwnUjGVBrXxpC887X2Mo6ZE21yTP7Mh/23eix+UiVzq2q+14cOMGu5f2xmRZC+gD2vgXzdy4IKUrBiDhM/kUu+1ghx8kXQCgtWR93dy5RdoE07QmsgHFbMiv90Q=;d6pwIadt8OMsnaknwP264g=="
 ---
 

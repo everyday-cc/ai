@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Transforming Customer Experience through Artificial Intelligence"
-    excerpt: "The Changing Nature of Customer Expectations Increasing adoption of digital technologies by consumers has led to a newer set of expectations, where customers demand an exceptional experience in their channel of choice,"
-    publishedDateTime: 2022-03-23T20:30:00Z
-    webUrl: "https://www.linkedin.com/pulse/transforming-customer-experience-through-artificial-shiwanand-pathak"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEVwnP7RHi5LQ/article-cover_image-shrink_600_2000/0/1648066446395?e=1653523200&v=beta&t=L-bYXAYDuJd7x5fLXm9dxcPJPUaLldq1fkDrU9fe35A"
-        width: 1280
-        height: 504
-        isCached: true
   - title: "Edition #11 - Analytics Bites - Driverless Delivery is on the Way to Deliver to You"
     excerpt: "Generated Profile Pictures Software company V7 Labs has created a new Google Chrome extension that is capable of detecting fake profile pictures created by artificial intelligence (AI) with a 99.28% rate of accuracy."
     publishedDateTime: 2022-03-24T22:22:00Z
@@ -53,6 +39,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQG_1S4nQZ3AnA/article-cover_image-shrink_720_1280/0/1648071337353?e=1653523200&v=beta&t=9MboRwbJKXNrAMm4oAPjRImOJ1lVDzYhHyAW1-yt8Gg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Taiwan Life Insurance’s App, Powered by Lydia AI, Wins a Celent Model Insurer Award 2022 in Data, Analytics, and AI"
+    excerpt: "Lydia AI announced that its client Taiwan Life Insurance has received a Celent Model Insurer award for Data, Analytics and AI for their use of external open health data for digital accelerated underwriting in the company’ s mobile health score application powered by Lydia AI."
+    publishedDateTime: 2022-03-28T13:04:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/taiwan-life-insurances-app-powered-by-lydia-ai-wins-a-celent-model-insurer-award-2022-in-data-analytics-and-ai"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 15
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2022/02/inn-social-default.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "2Qym4Ta6S7VRYq08x4KHaTogKaYmdtDLPgtWOT/83ugz69zUKaMzVdahlIPcX6Bn+5X42x1lrFPe/wCBV9ehZxo3SKk4zElb6XDAJvTvjz7VzztqLHMUMXOCp4vThw/m+jEsn440PTia2xV40aNTYLd8ZhQJo/VHANVp1vAUmSnxcC/H2jqINrqZjlZ+nwHSVyZm/V8kuxge6vqAw042V4hGR82JNEPNSqITZow8M1ucLgLJHl0A36E1klNkr/ckKin8YAncnji3pj36C9btkXffWUnozqUUX0IpHb31bpItJEpABpE+30SopSRhexdNutI2aiz0n8+r8ezrHhachgYb5/aFnVk94rUAfxI0Lls=;SdDwGh1Po2cgmNuJA0mXvw=="

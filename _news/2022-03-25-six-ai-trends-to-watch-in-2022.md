@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/25/six-ai-tre
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/25/six-ai-trends-to-watch-in-2022/amp/"
 type: article
 quality: 89
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -31,6 +31,36 @@ images:
     isCached: true
 
 related:
+  - title: "Fetch.ai: Artificial Intelligence for Everyone"
+    excerpt: "Fetch.ai combines two of the hottest technologies of our generation - blockchain and artificial intelligence - to create a network of self-sufficient, decentralized AI agents. What are agents in this context?"
+    publishedDateTime: 2022-03-28T13:21:00Z
+    webUrl: "https://www.thenewsminute.com/article/fetchai-artificial-intelligence-everyone-162346"
+    ampWebUrl: "https://www.thenewsminute.com/article/fetchai-artificial-intelligence-everyone-162346?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/fetchai-artificial-intelligence-everyone-162346?amp"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 72
+    images:
+      - url: "https://www.thenewsminute.com/sites/default/files/ArtificialIntelligence_Pixabay_11012022_1200.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Fintech Market 2022 Latest Updates, Business Trends and Future Growth Prospects to 2028"
+    excerpt: "The latest released survey report titled Global Artificial Intelligence (AI) in Fintech Market 2022 by Company, Regions, Type and Application, Forecast to 2028 by MarketsandResearch.biz gives an insight into the trending modern situation and the future growth of the industry for a length of 2022 to 2028."
+    publishedDateTime: 2022-03-27T21:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-fintech-market-2022-latest-updates-business-trends-and-future-growth-prospects-to-2028-2022-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Chooch Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "The Business Intelligence Group today announced that Chooch was named a winner in its Artificial Intelligence Excellence Awards program. Chooch solves a fundamental AI problem: teaching machines to understand visual data."
     publishedDateTime: 2022-03-24T01:23:00Z

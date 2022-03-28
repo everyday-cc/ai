@@ -37,6 +37,20 @@ related:
         width: 631
         height: 523
         isCached: true
+  - title: "AI and Robotics Uncover Cellular Hallmarks of Parkinson’s in Skin Cells"
+    excerpt: "NYSCF researchers hope that the platform will point to new therapeutic avenues for many diseases where traditional drug discovery has been unsuccessful."
+    publishedDateTime: 2022-03-28T12:00:00Z
+    webUrl: "https://www.genengnews.com/artificial-intelligence/ai-and-robotics-uncover-cellular-hallmarks-of-parkinsons-in-skin-cells/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 69
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2021/12/GettyImages-875483824-scaled-e1648237534742.jpg"
+        width: 1400
+        height: 934
+        isCached: true
   - title: "Google helps develop AI-driven lab machine to diagnose Parkinson's"
     excerpt: "A robotic system armed with AI-powered cameras can grow and image skin cells from test tubes to diagnose Parkinson's disease with minimal human help, according to researchers from Google and the New York Stem Cell Foundation."
     publishedDateTime: 2022-03-25T10:16:00Z

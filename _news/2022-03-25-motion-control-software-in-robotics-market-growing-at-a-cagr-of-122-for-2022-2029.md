@@ -24,6 +24,36 @@ images:
     height: 422
     isCached: true
 
+related:
+  - title: "Generic Oncology Drugs Market Are Anticipated To Rise at a Steady CAGR Of 6% from 2022 To 2028"
+    excerpt: "Generic oncology drugs, being able to detect and treat tumors, are utilized extensively in the healthcare industry for treating cancer. Notable"
+    publishedDateTime: 2022-03-28T13:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/generic-oncology-drugs-market-are-anticipated-to-rise-at-a-steady-cagr-of-6-from-2022-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 12
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/848dd933f2b95b10eb092743860d98932097e224-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Global Self-Driving Car Market is Expected to Reach USD 62. 93 Billion Progressing at a CAGR of 22.75 % By Forecast 2027"
+    excerpt: "Self-Driving Car Market Is Expected To Expand Upto USD 62. 93 Billion at a Rate Of 22.75 % percent by 2027. As per Maximize Market Research, due to"
+    publishedDateTime: 2022-03-28T12:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-self-driving-car-market-is-expected-to-reach-usd-62-93-billion-progressing-at-a-cagr-of-22-75-by-forecast-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/848dd933f2b95b10eb092743860d98932097e224-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+
 secured: "hD6txw5WsKmnZ0CaV8VqmQyYNroY+nYHZSsMaVxs/DGL5EbAumXhPG2QbqcBRCvAHw2Fa8OhqBHNwQaERpyQHC9bgpXTlUksIwyJ1z2IwfjfTgS8dT/vp6GLwUKGs2FFhBSgDUgOVw9uWwXzZNlRWlW9J0Y1SLyvjI9s/6wg+JpnBK+Cp/vQF5GI0iliQkZDJXyYNwI/+jLEQXORZ8p+ZiAA0biPWJa3CJUNxEN2MQS0keqLSF64CaoSSZmTMIDvOlTSHHaEMOZfeshaDUoa3wSG/F/Jgu4k1iTyDu0mZJTXiyjdJ3wENoaBFVgH9d6LBlEo0KeifreR+0duNceFyn8xkE62PVO23cmG7A0OIyPLnPgnPulouZlcbGrwJkna7tN8rxVJRzcuEKJA15QmbwHhB4O6RRyXMqlbuv0jzjh0OB/0N85aihVN0447zRA+nnPmspEZRJQtQGxfJIUTVdY83mHUDmjyUvh4xoGfCfb0SJ4LPZDZNvF8dTd6Z55+5xLvWklmcA/rGMJMBRFRAg==;YWwxFpdeJnf7lJLyc5hy3w=="
 ---
 

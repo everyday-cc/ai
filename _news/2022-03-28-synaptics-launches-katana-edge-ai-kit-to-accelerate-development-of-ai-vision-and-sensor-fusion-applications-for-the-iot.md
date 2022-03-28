@@ -1,29 +1,45 @@
 ---
 category: news
 title: "Synaptics Launches Katana Edge AI Kit To Accelerate Development of AI Vision and Sensor Fusion Applications for the IoT"
-excerpt: "SAN JOSE, Calif., March 28, 2022 (GLOBE NEWSWIRE) -- Synaptics Incorporated (Nasdaq: SYNA) today announced an Edge AI evaluation kit (EVK) for the rapid development and prototyping of artificial intelligence (AI) applications at the edge. Based on the ..."
-publishedDateTime: 2022-03-28T10:54:00Z
-originalUrl: "https://www.everythinglubbock.com/business/press-releases/globenewswire/8510833/synaptics-launches-katana-edge-ai-kit-to-accelerate-development-of-ai-vision-and-sensor-fusion-applications-for-the-iot/"
-webUrl: "https://www.everythinglubbock.com/business/press-releases/globenewswire/8510833/synaptics-launches-katana-edge-ai-kit-to-accelerate-development-of-ai-vision-and-sensor-fusion-applications-for-the-iot/"
+excerpt: "Synaptics Incorporated (Nasdaq: SYNA) today announced an Edge AI evaluation kit (EVK) for the rapid development and prototyping of artificial intelligence (AI) applications at the edge. Based on the Synaptics® low-power Katana system-on-chip (SoC) platform,"
+publishedDateTime: 2022-03-28T08:07:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-synaptics-inc-2c1aba5e9fc346544b7238b9b2e0a512"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-synaptics-inc-2c1aba5e9fc346544b7238b9b2e0a512"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
-  name: Everything Lubbock
-  domain: everythinglubbock.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Machine Learning
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://i0.wp.com/www.everythinglubbock.com/wp-content/uploads/sites/35/2022/03/Greg-2-1-1.jpg?w=2000&#038;ssl=1"
-    width: 1920
-    height: 1080
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "YmrffhFJzGJfJkyujW+UGVxAE8zIhyXVl2uJknuhmchTcfp6udUGXVqYU2lhSpwJVk2TBLPGhGObz89Y8jh6VbvTFtrulMmKCqmt+CDs0xmDyW3G4/xfyV7MynjczMQ/FdqXFTBVR5Eil+LoaJ0Hv8Xg6Ck10SVfBjcW/Zk3VuNm1nBJhyzBAqQpHI/iiMeUXcqrLK9L5CI20p62w93Ih096Wrj2Szcg0kbwwbNkPUq9DYGWrE8pcnsqkShrDpc7j109VbdyqnHRebV14O1Qh9sqQFjs+rt2f4UUVcTKUV5HRtFe0heIzhqpqc0v39W4vzR6DLfnGYKlcix2XV5q8LBCzM+FvYS+x93Y1pD+9b4=;suB4E8mFRif3HhYMjZDDgg=="
+related:
+  - title: "AI Chip Company Syntiant Raises $55 Million to Accelerate Growth"
+    excerpt: "Syntiant Corp., a provider of deep learning solutions making edge AI a reality for always-on voice, sensor, audio and image applications, today announced that it has closed $55 million in new funding,"
+    publishedDateTime: 2022-03-28T12:52:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-renesas-electronics-corp-05ead87d8c37109957b3eff68165b552"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "0tWJK461pgR0mj+37O2V3z8+ujjcG7S7MN0vcuwAuwHFTmj5pAKAoL1JouSlJS6FWpFyTHnkj7lo8s1C0JY/l3RwIS+G1brAXOLQ3gCrQjxd5vIeaJOJvM4SYOaK6Lk2th14++tj2rPUvoCAO5ziUHYtxcx+8n7V+eMWetV+HhYYy/kjqiGLr8ZDgzvXTsteamXnhzHuD9alLS1C9dZKl5MjZG3jW0TcDwnWU7aNc8Z6j99u1cqO6Va1uWGK2tWKOvbSqtO9s4SWl1BWeU6M+uG4fpjXU3ffk9Mq3q6xudbTXdtVo0yQM88kNUubxWMqXUBZv1wfwIeVyLXYO3kWC6UJ73ZpS8ZL8NeYuM9RSYs=;NBP/1KuaRadfiQqqJPUf2g=="
 ---
 

@@ -90,7 +90,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 40
+    quality: 42
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/848dd933f2b95b10eb092743860d98932097e224-600x337.jpg"
         width: 600
@@ -111,6 +111,6 @@ related:
         height: 420
         isCached: true
 
-secured: "yufKzF24ovr3cFKGyGvJk/olfUvuz1ADjIbhRgOjVs1h7lkOVaSFodP1ltRfUKZ/IE6ijCJUcjw9T81mcYY0xm3xGTeuc3pBU4TAIMnG8FGviBjNNpAYpPLpAhyegpfCY1ME/FY8gB7ulsUCrwi5eYW5XO1dEDCU7xU5Ijpp4frcRpqn0dzxdAHQ7QX8NxPY0GvqUUZbelTXF5Mv85u1bhp0JAOKC1vtSNUfKzV23X4XXgiTyJzZ4j/G4mgOZAUIv66DPG5oju4y8mm3rr9WdCDp17DER4fOezfDyIkMuug47Bn5CQBsD9gbOvXqWVUeRdHQcsO4uwMpQTXPSM5KX8lVaq1odIqvYmiRs8cv2Vg=;QUIC/kDo0e+SgJ+4CKKqiQ=="
+secured: "Kpyj9q9hbda6oWNqRfCc7ILeLVD8EPgDg7k1WUH2uzonbaET2OIe6B2hUuVw6yalYEKiOJMRi4nDgAVvmokWzwmon9FOVmkuY5VSMLvRvYEu8zkp+wMA8IBuU4EtTc4IT1WU2rMxJ5DcMbLuO9AaKnVGfA/cFDsGzhaO/g9pBEcQaoR7X3+Dt/eU0R9un+WYXIAT6zT8QnwI3AUO9ynB4yjUecOIFHQAycJ9xsn5fvWT4Lo7wL+As8n04LITA8cEr/5nAcfq1MvuZKznc6mQRnfPgzdTzSnD9jQ99AZpU686YIYRncXv/tAajGD1pZ9TEK/YR332B/Zvcwczkq8Z/m4buw37jZFLb4/4A81fstFm726VfSuTduXT20zvMjbl7xFpjx1JqPCf1oZIKjeodezlPfmJIN3NQvL2NsDJyDbY7kmNUe13drZvPhZSYH4nSfG3JY5xk+TWQSBhsZC6eDFqUQxU8bM+RCvUTXave6v2K7D+A7Wo1u1voHIa6yHpLScB8wJh3btUDpWqZOkQqA==;zZKjptSDhKCnhD9U2fcpog=="
 ---
 

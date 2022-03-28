@@ -10,7 +10,7 @@
       "originalUrl": "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.01net.it/clearview-ai-releases-2-0-version-of-industry-leading-facial-recognition-platform-for-law-enforcement/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 229,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -266,6 +266,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-massachusetts-commission-sets-facial-recognition-guidelines.md",
+      "title": "Massachusetts Commission Sets Facial Recognition Guidelines",
+      "excerpt": "Recommendations issued to the state Legislature include banning the technology from being used for live surveillance and that local police be prevented from using it unless explicitly allowed to do so by law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.governing.com/security/massachusetts-commission-sets-facial-recognition-guidelines",
+      "originalUrl": "https://www.governing.com/security/massachusetts-commission-sets-facial-recognition-guidelines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.governing.com/security/massachusetts-commission-sets-facial-recognition-guidelines?_amp=true",
+      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/massachusetts-commission-sets-facial-recognition-guidelines?_amp=true",
+      "publishedDateTime": "2022-03-22T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Governing",
+        "domain": "governing.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1339,49 +1373,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-05-brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway.md",
-      "title": "Brazilian civil rights organizations call for facial recognition ban in São Paulo subway",
-      "excerpt": "Entities unite in an attempt to prevent the use of the technology amid concerns over discrimination against black, non-binary and trans individuals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway/",
-      "originalUrl": "https://www.zdnet.com/article/brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway/",
-      "publishedDateTime": "2022-03-04T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

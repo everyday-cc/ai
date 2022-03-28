@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-28T10:59:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-emotion-recognition-market-is-booming-worldwide-microsoft-softbank-realeyes"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-emotion-recognition-market-is-booming-worldwide-microsoft-softbank-realeyes"
 type: article
-quality: 40
+quality: 42
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Computer Vision
   - AI
   - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/848dd933f2b95b10eb092743860d98932097e224-600x337.jpg"

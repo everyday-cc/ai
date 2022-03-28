@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/israels-ourcrowd-to-open-global-ai-inn
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israels-ourcrowd-to-open-global-ai-innovation-and-research-center-in-abu-dhabi/amp/"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 640
     height: 400
     isCached: true
+
+related:
+  - title: "Israel developing national artificial intelligence strategy"
+    excerpt: "The government of Israel is to publish a national plan to strengthen the nation’s development of artificial intelligence. The country’s finance ministry announced the development of the plan last week,"
+    publishedDateTime: 2022-03-28T13:50:00Z
+    webUrl: "https://www.globalgovernmentforum.com/israel-developing-national-artificial-intelligence-strategy/"
+    type: article
+    provider:
+      name: globalgovernmentforum.com
+      domain: globalgovernmentforum.com
+    quality: 37
+    images:
+      - url: "https://www.globalgovernmentforum.com/wp-content/uploads/Israel_Ministry_of_Finance-620x414.jpg"
+        width: 620
+        height: 414
+        isCached: true
 
 secured: "ZCmDZrFk10G1FlzZb35mY0ZUTDqt8MoyD2B9rDgw+QUqV9IzMAS/ZPKeduKXQQ2TnWEUdp9I7DWBNH0Tkx1Z/pBOkImrViZm1KxkHwVgA6xl21LKPu9YjYkq/hqrr/ZayEe/I2LqyDxDaARrWRnb5kZvrQ8Sl6ZPSMv714BIcgA94NFzhzyY1xCqnrwT4u7ESvZEvhagqYtU/Ex+scBkwWkLfTCDFtPWUvkW76NfdjLy57yh9Py+D6p2VAkYXUvyl+Z55TzpV4ftAq7dhiTNS/VfwF3d/0NZ/xCsyb68KiRTabuWjiGEKAoLOdiFFQYEPunvFVEYj4IabptjdU6Q57LFhhYBP1FCED7K3yZO2og=;C/jmAiHWPFyk5RrDs0n23g=="
 ---

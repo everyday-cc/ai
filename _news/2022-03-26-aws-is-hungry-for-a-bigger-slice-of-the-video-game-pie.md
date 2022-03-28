@@ -7,8 +7,8 @@ originalUrl: "https://www.techradar.com/uk/news/aws-is-hungry-for-a-bigger-slice
 webUrl: "https://www.techradar.com/uk/news/aws-is-hungry-for-a-bigger-slice-of-the-video-game-pie"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: TechRadar
@@ -27,6 +27,22 @@ images:
     width: 970
     height: 545
     isCached: true
+
+related:
+  - title: "Amazon doubles down on cloud gaming with AWS for Games"
+    excerpt: "Amazon Web Services Inc. announced today the availability of a new set of products and services aimed at videogame developers. The new offering, appropriately called AWS for Games, encompasses a suite of services and tools in six areas: cloud game development,"
+    publishedDateTime: 2022-03-24T00:44:00Z
+    webUrl: "https://siliconangle.com/2022/03/23/amazon-doubles-cloud-gaming-aws-games/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/fortnite-gd63bdd316_1920.jpg"
+        width: 1920
+        height: 1278
+        isCached: true
 
 secured: "5OeuF/rMCKwn4FJnQz3Lkn3Gladq7Ti8aYGPLhcFeVGj8ASw88NCQ5UjuNoFDegecFz2wjvgz5nNsw1t8pQN/1lGeNDnUwW/yTt/toQjIl/l+vNXKWzdkTq2NdDT8O3Tku47JVYEltLU8z5VnhrEDICyq7fFpP19UTLaUr6mGJcO3ZTO2lQUMjhS9vp7m627RqtZ5tEsMLJibJKCA67AgsQsgo8TZKR/Da8vlRHBzfDQCrvPiY5BYxqgeGmgYxWLzXTDn732FZOLfHfdq50qaRzunIcSXNcPaFBPJNXW6JY1TzalFS3vQUWzZTt8w2GuXFvN5u4yEIZ2sZQErYLYsyZvhXB70lApS5gdTXQTw5sLOVM6Mg+QaL6h91ghzDVpv6cMoUYqREHbfdkkBuZBXqR8N8a9c74C+RAirMUTfHltHLmhn0DT+G35+iE6srswJwE/xrJVW7WS8d5P4J4ssc3qUb2awC4RdWGzkYdevIFyyiVi06XkQu2r4xrfMen6QOFUQ38L+EX954XbGf/Mww==;5oguIKfm/qLLNiNTmGX5Gw=="
 ---

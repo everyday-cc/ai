@@ -36,7 +36,7 @@ related:
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-model-may-help-pred.jpg"
         width: 800

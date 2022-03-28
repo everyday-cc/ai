@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition
 webUrl: "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Debating the role of facial recognition technology in Mass."
-    excerpt: "The Commonwealth is rethinking use of facial recognition technology in law enforcement. Right now, at least nine law enforcement offices and departments use it, as well as offices of some federal agencies,"
-    publishedDateTime: 2022-03-23T20:13:00Z
-    webUrl: "https://www.wbur.org/radioboston/2022/03/23/march-23-2022-rb"
-    ampWebUrl: "https://amp.wbur.org/radioboston/2022/03/23/march-23-2022-rb"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/radioboston/2022/03/23/march-23-2022-rb"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 59
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2018/12/AP_18116251102533.jpg"
-        width: 1700
-        height: 1133
-        isCached: true
   - title: "Facial recognition inappropriate for high-risk applications, experts say"
     excerpt: "Accuracy, privacy and transparency issues make facial recognition technology too risky for local agencies, according the University of Pittsburgh’s Institute for Cyber Law, Policy and Security."
     publishedDateTime: 2022-03-25T14:00:00Z
