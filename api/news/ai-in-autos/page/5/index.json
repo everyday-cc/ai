@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-02-10-autox-hits-1000-vehicles-milestone-for-its-robo-taxi-fleet-in-china.md",
+      "title": "AutoX hits 1,000 vehicles milestone for its Robo Taxi fleet in China",
+      "excerpt": "In a press statement, the company also states that it has also opened a new Robo Taxi operations center in San Francisco in the United States, to expand self-driving vehicle testing ... vehicle industry leaders like Baidu, Waymo which are both yet to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/",
+      "originalUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/02/auto-x.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/?amp=1",
+      "publishedDateTime": "2022-02-09T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-sonys-ai-drives-a-race-car-like-a-champ.md",
+      "title": "Sony's AI Drives a Race Car Like a Champ",
+      "excerpt": "For instance, Waymo, the self-driving car company owned by Alphabet, says its vehicles have traveled the equivalent of 20 million miles in simulations. Search our artificial intelligence database and discover stories by sector, tech, company, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/sony-ai-drives-race-car-champ/",
+      "originalUrl": "https://www.wired.com/story/sony-ai-drives-race-car-champ/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6202f033c14aa6d334a5d859/master/pass/Business_Gran%20Turismo-1344602439.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/sony-ai-drives-race-car-champ/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sony-ai-drives-race-car-champ/amp",
+      "publishedDateTime": "2022-02-09T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator.md",
       "title": "Raquel Urtasun’s tech company develops self-driving vehicle simulator",
       "excerpt": "TORONTO - One of Canada’s leading autonomous vehicle experts has unveiled a way to help self-driving vehicles develop intuition and experience away",
@@ -1337,92 +1441,6 @@
       "provider": {
         "name": "C4ISRNET",
         "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs.md",
-      "title": "Tesla recalls 'full self-driving' feature that was designed to roll through some stop signs",
-      "excerpt": "Tesla will recall all 53,822 vehicles with its \"full self-driving\" driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios. The recall will impact Model S,",
-      "sourceUrl": null,
-      "webUrl": "https://southeast.newschannelnebraska.com/story/45788410/tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs",
-      "originalUrl": "https://southeast.newschannelnebraska.com/story/45788410/tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://CNNWIRE.images.worldnow.com/images/22122481_G.jpg?lastEditedDate=1643719956000",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T09:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Channel Nebraska",
-        "domain": "newschannelnebraska.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-tesla-recalls-all-53822-vehicles-with-its-full-self-driving-feature.md",
-      "title": "Tesla recalls all 53,822 vehicles with its 'full self-driving' feature",
-      "excerpt": "Tesla will recall all 53,822 vehicles with its \"full self-driving\" driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkow.com/news/tesla-recalls-all-53-822-vehicles-with-its-full-self-driving-feature/article_914bbfed-285f-59c0-aefb-4aa1e46a7280.html",
-      "originalUrl": "https://www.wkow.com/news/tesla-recalls-all-53-822-vehicles-with-its-full-self-driving-feature/article_914bbfed-285f-59c0-aefb-4aa1e46a7280.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wkow.com/content/tncms/assets/v3/editorial/2/e5/2e53caaf-721e-5592-8f36-0e9e74c5c348/61f97c7ad628b.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wkow.com/news/tesla-recalls-all-53-822-vehicles-with-its-full-self-driving-feature/article_914bbfed-285f-59c0-aefb-4aa1e46a7280.amp.html",
-      "cdnAmpWebUrl": "https://www-wkow-com.cdn.ampproject.org/c/s/www.wkow.com/news/tesla-recalls-all-53-822-vehicles-with-its-full-self-driving-feature/article_914bbfed-285f-59c0-aefb-4aa1e46a7280.amp.html",
-      "publishedDateTime": "2022-02-01T07:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKOW",
-        "domain": "wkow.com",
         "images": null,
         "publishers": null,
         "authors": null

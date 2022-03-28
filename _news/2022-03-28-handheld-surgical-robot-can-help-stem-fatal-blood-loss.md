@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-28T09:15:00Z
 originalUrl: "https://robohub.org/handheld-surgical-robot-can-help-stem-fatal-blood-loss/"
 webUrl: "https://robohub.org/handheld-surgical-robot-can-help-stem-fatal-blood-loss/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://robohub.org/wp-content/uploads/2022/03/AI-GUIDE-graphic-425x225.png"
@@ -24,6 +25,6 @@ images:
     height: 225
     isCached: true
 
-secured: "9Erq6xBSHuBM1V5IO9X/nASBh8CVNA6aBx2XXF4nWmKwbvqKVj29NocidZhTD/tpQdUBNdl7AJPZQUhvXxrxaddEGOrntmNC0aEVcL5Tmy7t+kypeEWgYLuqz5la8TG9D6rgeCZNNvxgUpercEMGL1NWYte41p+EJS64kHU6PrBGkQBykSZSj1AT7bYNQdO1Gvgv4uKE+/4Sc01WvIYOb6Y5HeRi1tz7ENqZ41Sr0NmOjBo97aWDtZhhlFv/7sCr/rofLkuWaBGuove43mnn30r+E9VPsBmP1WDGnEeQ7E3scpUdY47nJFeqqCw2ysXOHrqJCWswbp67YhFDsdumOia0xM2pEYYLeVHn5B9FifI=;Jyh8hmK/TM/4xuBFjwt7Qw=="
+secured: "Fwrb0gB8a1Iw+bNPjh9tIhQ7qf5m77Wghz3C9QNcrGv3qox3kBARoe5Zubt5xHFhuZ+MC/NwkJ/PvTGH/jToJiS6bEt7RzjlXbzRIuT9KpJjCkzFBgKTRnqkejQdgSbHCphM6lUxP0l+gXeGI5i7d0zNbgrcf/r4mqMfaA7QpoA4bvPrDYr/antymf4Z5vZdmrNzzUZlBFGMPsL3y56nFFO//NoJHomBSuDKq9tQetNdPBO7Jr4yM0NBW2y6JpiIxl9uzOQxIsiLRi0IK4o8idcN431akskbdwncalLtxJTIYVarL0UvHKjUYbqw62PSfLCA2Pb/vdrRURlcE0DbjcTHWAjMaRnCkBcWH2SP+SnmyJzzBE1/TMbciL3tJZMCtT1Uesv1UM138/9kwPz5DWyenV6iQrrOvgu7tyNPY6gwDrJmOtKc64mEOrk74zGq5r8WZDC1KqmrOlrlatDS57NfucDtQR0ootJHP5K3cmK+JgoadB+pouS2WEJhg+Bm4qiUMxpW6o3WbgWBUarEiQ==;64T2Lx8eybttLsOFUIADmQ=="
 ---
 

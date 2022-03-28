@@ -2,6 +2,178 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2022-02-10-robots-and-being-spied-on-by-smart-technology-are-among-nations-new-fears.md",
+      "title": "Robots and being spied on by smart technology are among nation's new fears",
+      "excerpt": "To mark the launch of new psychological thriller TV The Fear Index; streaming service NOW reveals the nation’s biggest fears and how they control us. The digital age has replaced clowns ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.coventrytelegraph.net/whats-on/whats-on-news/robots-being-spied-smart-technology-23049146",
+      "originalUrl": "https://www.coventrytelegraph.net/whats-on/whats-on-news/robots-being-spied-smart-technology-23049146",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-10T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Coventry Telegraph",
+        "domain": "coventrytelegraph.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-spinny-acquires-ai-powered-car-connectivity-start-up-scouto.md",
+      "title": "Spinny acquires AI-powered car connectivity start-up Scouto",
+      "excerpt": "Feb 10 Pre-owned car retailing platform Spinny has acquired a 100 per cent stake in AI-powered Connected Car startup Scouto for an undisclosed price. Founded by ex-race car driver Akshay Gupta (CEO) & Shubham Sharma (CTO), Scouto has built an end-to-end ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/companies/spinny-acquires-ai-powered-car-connectivity-start-up-scouto/article64999844.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/companies/spinny-acquires-ai-powered-car-connectivity-start-up-scouto/article64999844.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/incoming/xkjt62/article64999969.ece/alternates/LANDSCAPE_615/IMG_hy26Sindhu_5_1_6D94DH64.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/companies/spinny-acquires-ai-powered-car-connectivity-start-up-scouto/article64999844.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/spinny-acquires-ai-powered-car-connectivity-start-up-scouto/article64999844.ece/amp/",
+      "publishedDateTime": "2022-02-10T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-why-microsoft-awarded-this-techie.md",
+      "title": "Why Microsoft Awarded This Techie",
+      "excerpt": "\"During the pandemic I gave out 20+ books on Microsoft Cloud, Azure and AI to IT professionals who lost their jobs due to layoffs so they could upgrade their skills and get back into the industry.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.rediff.com/getahead/report/kasam-shaikh-microsoft-mvp-in-ai/20220209.htm",
+      "originalUrl": "https://www.rediff.com/getahead/report/kasam-shaikh-microsoft-mvp-in-ai/20220209.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://im.rediff.com/getahead/2022/feb/0909kasam-shaikh-lead1.jpg",
+          "width": 420,
+          "height": 290,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.rediff.com/amp/getahead/report/kasam-shaikh-microsoft-mvp-in-ai/20220209.htm",
+      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/getahead/report/kasam-shaikh-microsoft-mvp-in-ai/20220209.htm",
+      "publishedDateTime": "2022-02-10T02:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rediff.com",
+        "domain": "rediff.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech.md",
+      "title": "Microsoft Keeps Its Finance Head Count Flat With AI, Bots and Other Tech",
+      "excerpt": "Microsoft Corp. employs about 5,000 people in its finance team, a number that has remained largely flat in recent years, even though the company’s operations, profit and market capitalization have grown tremendously. Microsoft had 181,000 employees at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "originalUrl": "https://www.wsj.com/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-482958/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "publishedDateTime": "2022-02-10T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto.md",
       "title": "Spinny acquires AI-powered car connectivity solutions startup Scouto",
       "excerpt": "Pre-owned car retailing platform Spinny on Thursday said it has acquired 100 per cent stake in Ahmedabad-based startup Scouto, a move that marks consolidation in the AI-powered used car solutions space. The company, however, did not disclose the amount it ...",
@@ -949,205 +1121,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-sony-ais-first-project-can-drive-circles-around-you.md",
-      "title": "Sony AI's First Project Can Drive Circles Around You",
-      "excerpt": "Sony AI, a research and development division of the multimedia giant, has had its first AI breakthrough, and it makes the rest of us look like Sunday drivers. Called Gran Turismo Sophy, the AI was trained by Gran Turismo 7's hyper-realistic simulated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamespot.com/articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/",
-      "originalUrl": "https://www.gamespot.com/articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/original/1640/16407182/3938443-granturismo73.png",
-          "width": 1918,
-          "height": 1073,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/",
-      "publishedDateTime": "2022-02-09T10:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-the-campaign-against-irs-use-of-facial-recognition-is-a-model-for-digital-activism.md",
-      "title": "The campaign against IRS use of facial recognition is a model for digital activism",
-      "excerpt": "Likes Werner Herzog films and Arsenal FC. Digital activists can celebrate a memorable victory after the IRS ditched a controversial facial recognition system. The agency had planned to use third ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/irs-facial-recognition-reversal-shows-tech-activism-can-work",
-      "originalUrl": "https://thenextweb.com/news/irs-facial-recognition-reversal-shows-tech-activism-can-work",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F02%2FUntitled-design-3.jpg&signature=42e3c8ee5d842e1747b4a6479bf4aeb1",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T10:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-navrina-singh-founded-credo-ai-to-align-ai-with-human-values.md",
-      "title": "Navrina Singh Founded Credo AI To Align AI With Human Values",
-      "excerpt": "“We are already generating revenue. As an early state start-up, I'm a huge believer in commending our lighthouse customers and our design partners who are those AI first ethics forward companies,” says Singh. Credo AI’s customers are primarily among ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/",
-      "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6203e02ea9ce90ee549e7ae6/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/amp/",
-      "publishedDateTime": "2022-02-09T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-autox-hits-1000-vehicles-milestone-for-its-robo-taxi-fleet-in-china.md",
-      "title": "AutoX hits 1,000 vehicles milestone for its Robo Taxi fleet in China",
-      "excerpt": "In a press statement, the company also states that it has also opened a new Robo Taxi operations center in San Francisco in the United States, to expand self-driving vehicle testing ... vehicle industry leaders like Baidu, Waymo which are both yet to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/",
-      "originalUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/02/auto-x.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/?amp=1",
-      "publishedDateTime": "2022-02-09T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

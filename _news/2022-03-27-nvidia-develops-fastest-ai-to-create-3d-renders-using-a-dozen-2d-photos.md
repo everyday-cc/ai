@@ -26,20 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia Announces 3 New Powerful AI Chips -- What Investors Need to Know"
-    excerpt: "It's difficult to concisely summarize all of the new products and services announced at the tech company's annual spring GPU Technology Conference (GTC) that kicked off on March 21. But Nvidia's powerful new chip designs and systems aimed at artificial intelligence (AI) are a good place to start."
-    publishedDateTime: 2022-03-24T12:55:00Z
-    webUrl: "https://www.fool.com/investing/2022/03/24/nvidia-new-powerful-ai-chips-what-need-know/"
+  - title: "AI tool renders 2D photos as all-around 3D scenes in seconds"
+    excerpt: "At last week's GTC developer conference, Nvidia revealed a nifty AI tool that takes a bunch of 2D photos of the same scene from different angles and almost instantly transforms them into a three-dimensional digital rendering."
+    publishedDateTime: 2022-03-28T11:35:00Z
+    webUrl: "https://newatlas.com/photography/nvidia-instant-nerf/"
+    ampWebUrl: "https://newatlas.com/photography/nvidia-instant-nerf/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/photography/nvidia-instant-nerf/?amp=true"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
+      name: New Atlas
+      domain: newatlas.com
+    quality: 87
     images:
-      - url: "https://g.foolcdn.com/editorial/images/671704/nvidia-hopper-architecture-h100-sxm.jpg"
-        width: 1600
-        height: 900
+      - url: "https://assets.newatlas.com/dims4/default/c471061/2147483647/strip/true/crop/1347x898+269+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd1%2F6f%2F3c3e903e4d26907bbf60ce9c19ea%2F01.jpg"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "Nvidia AI Tech Lets Computers Understand the 3D World From 2D Photos"
+    excerpt: "Graphics chips are good at taking 3D scenes like video game battlefields or airplane designs and rendering them as 2D images on a screen. Nvidia, a top maker of such chips, now is using AI to do the exact opposite."
+    publishedDateTime: 2022-03-25T13:00:00Z
+    webUrl: "https://www.cnet.com/tech/computing/nvidia-ai-tech-lets-computers-understand-the-3d-world-from-2d-photos/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-ai-tech-lets-computers-understand-the-3d-world-from-2d-photos/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-ai-tech-lets-computers-understand-the-3d-world-from-2d-photos/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 69
   - title: "Nvidia’s latest AI wizardry turns 2D photos into 3D scenes in milliseconds"
     excerpt: "Writer at Neural by TNW — Thomas covers AI in all its iterations ... The company ended a week that introduced a new enterprise GPU and an Arm-based “superchip” with a trademark flashy ..."
     publishedDateTime: 2022-03-25T13:18:00Z
@@ -53,20 +66,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FNVIDIA-Research-Instant-NeRF-Image.jpg&signature=995be6c270f72e8df02361a4130e08bb"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Josh Brown says Nvidia's potential is 'scary' ahead of a potential AI boom"
-    excerpt: "Ritholtz Wealth Management CEO Josh Brown praised chipmaker Nvidia on \"Halftime Report.\""
-    publishedDateTime: 2022-03-24T16:07:00Z
-    webUrl: "https://www.cnbc.com/2022/03/24/josh-brown-says-nvidias-potential-is-scary-ahead-of-a-potential-ai-boom.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 65
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/103263510-20000101-0022-447.jpg?v=1450899072&w=1920&h=1080"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "NVIDIA’s Tiny New AI Transforms Photos Into Full 3D Scenes in Mere Seconds"
     excerpt: "NVIDIA says their 3D scene rendering AI runs up to 1,000 times faster than older models without sacrificing image quality."
@@ -83,6 +82,20 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2022/03/nvidia-andy-warhol-tribute-black-sweater-polaroid-camera.jpeg"
         width: 1068
         height: 601
+        isCached: true
+  - title: "NVIDIA Instant NeRF tech converts 2D photos into 3D scenes in the 'blink of an AI'"
+    excerpt: "NVIDIA Research has unveiled its latest AI technology, Instant NeRF. It is faster than previous NeRF models and can turn a series of 2D images into a 3D scene in seconds."
+    publishedDateTime: 2022-03-25T20:21:00Z
+    webUrl: "https://www.dpreview.com/news/7507822053/nvidia-instant-nerf-tech-converts-2d-photos-into-3d-scenes-in-the-blink-of-an-ai"
+    type: article
+    provider:
+      name: Digital Photography Review
+      domain: dpreview.com
+    quality: 33
+    images:
+      - url: "https://3.img-dpreview.com/files/p/E~TS940x788~articles/7507822053/nvidia-research-instant-nerf-banner.jpeg"
+        width: 580
+        height: 435
         isCached: true
 
 secured: "KAzkZOWJejW6+2enycxwX9QtRHx7mhPqDKkL3fXmW0b+0ADhbtwJrkrsfkdGDAKw8CiAF1IZA1XWFTUKRxw+GOvqZlQNJutzEn9RwdEy+Gwp/O1JseVM+o01+JEg3SYk3PlE1oPuBx7b+ldBlvwl7wiwPIAS+A5FbHEVcJuoxKbBwMmT/X7Oatwozs99sf+jYlGb1EYrnTKJZuWuD5KsHKsN8MTYi2xNUJU+CpGT5FmjgMvYV/Sst2PovT2TasCAZBIRb4afHAWkeYyXamMhcLNi+w2iF5b17eHmqts8/IIhRsn7vEiQNQFR94gC1Lvs91PA2yGqTEngF/iVNttcslm5zeYjs8F1KjoX0DTx8TRV1IHh+bC0F+ushl05XjZnfHDhe8KMIB4eRyM0Ul//m8YhJ8qgirQqYM5+Zj8WKBvjUz1gzAfTyQg6y9JXNhW0axstRFl4JjgVPUQPmp/nh9EN23fNyRHxajLkxWwTPYbTec5PwpVpWKqXWIgcYxvZMTrSpmPp94gRpapBpOUFQQ==;WZCgI8Fg27YaT5vuHLq72Q=="

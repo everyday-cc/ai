@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-25-zestyai-welcomes-10m-infusion-from-fintech-firm-brex.md",
+      "title": "Zesty.ai Welcomes $10M Infusion From Fintech Firm Brex",
+      "excerpt": "U.S. Fintech company Brex has provided $10 million in growth capital via venture debt to Zesty.ai, a provider of predictive data analytics in the climate risk space. The financing will help Zesty.ai expand into use cases beyond insurance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/11/US-Dollars-Money-Grant.jpg",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/amp/",
+      "publishedDateTime": "2022-03-25T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-how-to-investigate-when-a-robot-causes-an-accident-and-why-its-important-that-we-do.md",
+      "title": "How to investigate when a robot causes an accident, and why it's important that we do",
+      "excerpt": "Robots are featuring more and more in our daily lives. They can be incredibly useful (bionic limbs, robotic lawnmowers, or robots which deliver meals to people in quarantine), or merely entertaining (robotic dogs,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-03-robot-accident-important.html",
+      "originalUrl": "https://techxplore.com/news/2022-03-robot-accident-important.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/how-to-investigate-whe.jpg",
+          "width": 926,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-03-robot-accident-important.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-robot-accident-important.amp",
+      "publishedDateTime": "2022-03-25T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-facial-recognition-climate-change-and-dumplings.md",
       "title": "Facial Recognition, Climate Change, And Dumplings",
       "excerpt": "Bloomberg Opinion columnist Parmy Olson talks about the dangers of facial recognition technology being introduced in war, and columnist Adam Minter describes the importance of Russian cooperation in slowing climate change.",
@@ -1026,7 +1112,7 @@
       "originalUrl": "https://www.fool.com/investing/2022/03/24/nvidia-new-powerful-ai-chips-what-need-know/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1109,91 +1195,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york.md",
-      "title": "Skyline Robotics To Deploy The Ozmo Window-Cleaning Robot In New York",
-      "excerpt": "Deep tech robotics and automation company, Skyline Robotics, completes its $6.5M pre-Series A funding round ahead of the planned deployment of the first Ozmo Window-Cleaning Robot in New York City Skyline Robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/",
-      "originalUrl": "https://techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/03/ozmo.jpg",
-          "width": 1041,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/amp/",
-      "publishedDateTime": "2022-03-24T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi.md",
-      "title": "Edtech startup TagHive all set to deploy its AI-powered app 'Class Saathi'",
-      "excerpt": "Class Saathi is designed to integrate into the education ecosystem and enable data-driven strategy without additional infrastructure. It is an AI-powered self-learning app from TagHive Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812.html",
-      "originalUrl": "https://www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/03/24/1600x900/20220324_165758_0000_(1)_1648122980524_1648122990806.jpg",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812-amp.html",
-      "publishedDateTime": "2022-03-24T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

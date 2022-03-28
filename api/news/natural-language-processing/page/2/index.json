@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-16-gpt-3-the-breakthrough-on-ai-and-natural-language.md",
+      "title": "GPT-3 the breakthrough on AI and natural language.",
+      "excerpt": "In the artificial intelligence (AI) world, there has been a lot of hype around a newly developed technology known as GPT-3. GPT-3 was created by OpenAI, a research firm co-founded by Elon Musk, and has been considered the most important and rewarding advance in AI for many years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/gpt-3-breakthrough-ai-natural-language-sergio-ortega",
+      "originalUrl": "https://www.linkedin.com/pulse/gpt-3-breakthrough-ai-natural-language-sergio-ortega",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGStm_X3mjjoQ/article-cover_image-shrink_720_1280/0/1647375616110?e=1654128000&v=beta&t=OnmHorNprG3Z4N9d5vXP10zrNcLAkzDdRECOwGSU3Y4",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-apple-wins-appeal-against-speech-recognition-patent-in-siri-suit.md",
       "title": "Apple Wins Appeal Against Speech Recognition Patent in Siri Suit",
       "excerpt": "The Federal Circuit summarily affirmed an administrative tribunal ruling that nixed part of a patent that Apple Inc. was accused of infringing with its Siri technology.",
@@ -108,40 +160,6 @@
       "provider": {
         "name": "ITWeb",
         "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-nference-accelerates-self-supervised-language-model-training-with-cerebras-cs-2-system.md",
-      "title": "nference Accelerates Self-Supervised Language Model Training with Cerebras CS-2 System",
-      "excerpt": "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) compute, and nference, an AI-driven health technology company, today announced a collaboration to accelerate natural language processing (NLP) for biomedical research and development by orders of magnitude with a Cerebras CS-2 system installed at the nference headquarters in Cambridge,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-nference-accelerates-self-supervised-language-model-training-with-/2022/03/14/9562834.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-nference-accelerates-self-supervised-language-model-training-with-/2022/03/14/9562834.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

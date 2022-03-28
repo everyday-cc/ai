@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-28-indico-data-applies-ai-to-add-value-to-unstructured-data.md",
+      "title": "Indico Data applies AI to add value to unstructured data",
+      "excerpt": "Unstructured data is one of the most untapped sources of valuable information. Indico Data hopes to help businesses tap it.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-value-to-unstructured-data/",
+      "originalUrl": "https://venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-value-to-unstructured-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/unstructured_data.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-value-to-unstructured-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-value-to-unstructured-data/amp/",
+      "publishedDateTime": "2022-03-28T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-28-a-wave-of-billion-dollar-language-ai-startups-is-coming.md",
       "title": "A Wave Of Billion-Dollar Language AI Startups Is Coming",
       "excerpt": "Given language’s ubiquity throughout the economy, few areas of technology will have a more far-reaching impact in the years ahead than NLP.",
@@ -161,7 +213,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/25/ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -425,7 +477,7 @@
       "originalUrl": "https://www.techradar.com/news/microsoft-boosts-its-ai-translation-capabilities",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -478,7 +530,7 @@
       "originalUrl": "https://www.forbes.com/sites/markminevich/2022/03/23/ai-visionary-and-leader-dr-jane-pinelis-of-the-us-department-of-defense/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1403,58 +1455,6 @@
         "name": "FedScoop",
         "domain": "fedscoop.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-gpt-3-the-breakthrough-on-ai-and-natural-language.md",
-      "title": "GPT-3 the breakthrough on AI and natural language.",
-      "excerpt": "In the artificial intelligence (AI) world, there has been a lot of hype around a newly developed technology known as GPT-3. GPT-3 was created by OpenAI, a research firm co-founded by Elon Musk, and has been considered the most important and rewarding advance in AI for many years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/gpt-3-breakthrough-ai-natural-language-sergio-ortega",
-      "originalUrl": "https://www.linkedin.com/pulse/gpt-3-breakthrough-ai-natural-language-sergio-ortega",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGStm_X3mjjoQ/article-cover_image-shrink_720_1280/0/1647375616110?e=1654128000&v=beta&t=OnmHorNprG3Z4N9d5vXP10zrNcLAkzDdRECOwGSU3Y4",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

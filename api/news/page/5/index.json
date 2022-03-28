@@ -2,6 +2,145 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-22-perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence.md",
+      "title": "Perseverance Rover To Self On Drive On Mars Soon, Thanks To Artificial Intelligence",
+      "excerpt": "Perseverance is collecting rock cores for return to Earth which makes for the first part of the Mars Sample Return campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/science/29044/perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence",
+      "originalUrl": "https://in.mashable.com/science/29044/perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/news/n/nasas-pers/nasas-perseverance-has-a-little-family-portrait-easter-egg_enwu.620.png",
+          "width": 620,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/science/29044/perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/science/29044/perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence?amp=1",
+      "publishedDateTime": "2022-03-22T01:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-ai-experts-warn-of-potential-cyberwar-facing-banking-sector.md",
+      "title": "AI Experts Warn of Potential Cyberwar Facing Banking Sector",
+      "excerpt": "U.S. authorities have flagged the U.S. financial system, a central pillar in the U.S. sanctions regime, as an attractive target, and officials and security experts have warned for weeks about the possibility of retaliatory cyberattacks from Russia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-experts-warn-of-potential-cyberwar-facing-banking-sector-11647941402",
+      "originalUrl": "https://www.wsj.com/articles/ai-experts-warn-of-potential-cyberwar-facing-banking-sector-11647941402",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-509046/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-experts-warn-of-potential-cyberwar-facing-banking-sector-11647941402",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-experts-warn-of-potential-cyberwar-facing-banking-sector-11647941402",
+      "publishedDateTime": "2022-03-22T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-computer-vision-in-healthcare-market-size-to-grow-usd-1182-mn-by-2027.md",
+      "title": "Computer Vision in Healthcare Market Size To Grow USD 1182 Mn By 2027",
+      "excerpt": "As per our report, the global computer vision in healthcare market size was worth USD 475 million in 2022, and this value is further estimated to be",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/computer-vision-in-healthcare-market-size-to-grow-usd-1182-mn-by-2027",
+      "originalUrl": "https://www.digitaljournal.com/pr/computer-vision-in-healthcare-market-size-to-grow-usd-1182-mn-by-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-21T23:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup.md",
       "title": "Microsoft adds Pasqal’s neutral-atom processors to its Azure Quantum cloud computing lineup",
       "excerpt": "Microsoft’s Azure Quantum cloud computing service will be adding a brand-new tool to its toolbox: Pasqal’s neutral-atom quantum processing system.",
@@ -1073,153 +1212,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-19-neuro-symbolic-ai-could-provide-machines-with-common-sense.md",
-      "title": "Neuro-symbolic AI could provide machines with common sense",
-      "excerpt": "Machines could plan their actions based on mental representations of the world they develop through intuitive physics and neuro-symbolic AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/",
-      "originalUrl": "https://venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1341811309-e1647616199862.jpg?fit=800%2C500&strip=all",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/amp/",
-      "publishedDateTime": "2022-03-18T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-19-upstart-presents-free-webinar-on-leveraging-ai-and-fintech-partnerships.md",
-      "title": "Upstart presents free webinar on leveraging AI and fintech partnerships!",
-      "excerpt": "Upstart is partnering with AgFed to bring you a free webinar this Wednesday, on how credit unions can leverage AI and fintech partnerships to expand into new product lines and grow their membership. This virtual event features Jeff Keltner,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cuinsight.com/press-release/upstart-presents-free-webinar-on-leveraging-ai-and-fintech-partnerships/",
-      "originalUrl": "https://www.cuinsight.com/press-release/upstart-presents-free-webinar-on-leveraging-ai-and-fintech-partnerships/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png",
-          "width": 792,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T15:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Credit Union Insight",
-        "domain": "cuinsight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-19-artificial-intelligence-in-drug-discovery-9.md",
-      "title": "Artificial Intelligence in Drug Discovery #9",
-      "excerpt": "In this week’s news digest, we are reviewing advancements by Deepcell, Zephyr AI, Exscientia, Creyon Bio, VAXIMM, DNAnexus, Lantern Pharma, OccamzRazor, Mytide Therapeutics, and other companies. Artif",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-biopharma-9-andrii-buvailo-",
-      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-biopharma-9-andrii-buvailo-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHKvxc1UeQHuw/article-cover_image-shrink_720_1280/0/1647603683019?e=1653523200&v=beta&t=oPb-3wimv2ARkmr98FVn1dp6StFCZNSx1LqCLAt3qYQ",
-          "width": 1123,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

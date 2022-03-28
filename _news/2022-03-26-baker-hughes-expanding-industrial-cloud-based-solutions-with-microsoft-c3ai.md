@@ -53,6 +53,22 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "SparkCognition Delivers Visual AI Capabilities Across Industries"
+    excerpt: "SparkCognition is pleased to announce it has signed a definitive agreement to acquire Integration Wizards, a leader in visual AI."
+    publishedDateTime: 2022-03-28T10:13:00Z
+    webUrl: "https://enterprisetalk.com/news/sparkcognition-delivers-visual-ai-capabilities-across-industries/"
+    ampWebUrl: "https://enterprisetalk.com/news/sparkcognition-delivers-visual-ai-capabilities-across-industries/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/sparkcognition-delivers-visual-ai-capabilities-across-industries/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/SparkCognition-Delivers-Visual-AI-Capabilities-Across-Industries-With-Acquisition-of-Integration-Wizards-01.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft upgrades translation service with AI"
     excerpt: "More to be lost in translationFor a while now there has been a myth that AI can operate good language translation services. In fact, companies have been insisting that translation firms slash their fees and work alongside machine translation systems from Deepl,"
     publishedDateTime: 2022-03-24T12:50:00Z
@@ -66,6 +82,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/df2e43746386b941847aa624bfa70fb3_L.jpg"
         width: 620
         height: 474
+        isCached: true
+  - title: "Artificial Intelligence-Emotion Recognition Market Is Booming Worldwide | Microsoft, Softbank, Realeyes"
+    excerpt: "JCMR recently introduced Artificial Intelligence-Emotion Recognition study with focused approach on market size & volumes by Application,"
+    publishedDateTime: 2022-03-28T10:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-emotion-recognition-market-is-booming-worldwide-microsoft-softbank-realeyes"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 40
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/848dd933f2b95b10eb092743860d98932097e224-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "SparkCognition delivers Visual AI Capabilities across industries with acquisition of Integration Wizards"
     excerpt: "Through this acquisition SparkCognition expands its IP portfolio to include computer vision capabilities bringing greater value to its industry solutions and"

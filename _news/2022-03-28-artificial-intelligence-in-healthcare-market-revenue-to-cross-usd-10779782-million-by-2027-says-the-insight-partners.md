@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-28T08:34:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-revenue-to-cross-usd-107797-82-million-by-2027-says-the-insight-partners"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-revenue-to-cross-usd-107797-82-million-by-2027-says-the-insight-partners"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/345d9689605f742c2fe9066713d8618f6b2aad6d-600x337.jpg"

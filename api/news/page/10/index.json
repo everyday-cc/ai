@@ -2,6 +2,187 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-03-16-self-driving-lab-speeds-up-research-synthesis-of-energy-materials.md",
+      "title": "'Self-driving' lab speeds up research, synthesis of energy materials",
+      "excerpt": "Researchers from North Carolina State University and the University at Buffalo have developed and demonstrated a \"self-driving lab\" that uses artificial intelligence (AI) and fluidic systems to advance our understanding of metal halide perovskite (MHP) nanocrystals.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-03-self-driving-lab-synthesis-energy-materials.html",
+      "originalUrl": "https://phys.org/news/2022-03-self-driving-lab-synthesis-energy-materials.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/self-driving-lab-speed.jpg",
+          "width": 1776,
+          "height": 1775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-03-self-driving-lab-synthesis-energy-materials.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-03-self-driving-lab-synthesis-energy-materials.amp",
+      "publishedDateTime": "2022-03-16T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-seattle-computer-vision-startup-led-by-former-hololens-scientist-lands-34m.md",
+      "title": "Seattle computer vision startup led by former HoloLens scientist lands $3.4M",
+      "excerpt": "The tech: The Seattle startup’s computer vision technology can analyze complex manual steps, offer alerts when mistakes happen, and measure the amount of time spent on each step in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/seattle-computer-vision-startup-led-by-former-hololens-scientist-lands-3-4m/",
+      "originalUrl": "https://www.geekwire.com/2022/seattle-computer-vision-startup-led-by-former-hololens-scientist-lands-3-4m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Fy3z8ATGwck/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2022/seattle-computer-vision-startup-led-by-former-hololens-scientist-lands-3-4m/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/seattle-computer-vision-startup-led-by-former-hololens-scientist-lands-3-4m/amp/",
+      "publishedDateTime": "2022-03-16T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-visionifyais-computer-vision-technology-to-propel-general-shales-brick-inspection-process-on-manufacturing-line.md",
+      "title": "Visionify.ai's Computer Vision Technology to Propel General Shale's Brick Inspection Process on Manufacturing Line",
+      "excerpt": "Visionify.ai, a computer vision technology company that provides turnkey solutions to its customers, today announced it is now a solutions provider for one of General Shale's brick plants. General Shale's family of brands manufacture and supplies high-quality thin bricks for residential and commercial construction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/visionify-ais-computer-vision-technology-to-propel-general-shales-brick-inspection-process-on-manufacturing-line/article_2ccc5b44-9144-527d-95f9-dd8f6189de16.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/visionify-ais-computer-vision-technology-to-propel-general-shales-brick-inspection-process-on-manufacturing-line/article_2ccc5b44-9144-527d-95f9-dd8f6189de16.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-the-vulnerability-of-artificial-intelligence-systems-may-explain-why-they-havent-been-used-extensively-in-ukraine.md",
+      "title": "The Vulnerability of Artificial Intelligence Systems May Explain Why They Haven’t Been Used Extensively in Ukraine",
+      "excerpt": "The news that Ukraine is using facial recognition software is noteworthy largely because it’s one of few documented uses of artificial intelligence in the conflict. A Georgetown University thinktank is trying to figure out why while advising U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/erictegler/2022/03/16/the-vulnerability-of-artificial-intelligence-systems-may-explain-why-they-havent-been-used-extensively-in-ukraine/",
+      "originalUrl": "https://www.forbes.com/sites/erictegler/2022/03/16/the-vulnerability-of-artificial-intelligence-systems-may-explain-why-they-havent-been-used-extensively-in-ukraine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/622fffc7ffe970bf655a46d1/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 904,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/erictegler/2022/03/16/the-vulnerability-of-artificial-intelligence-systems-may-explain-why-they-havent-been-used-extensively-in-ukraine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erictegler/2022/03/16/the-vulnerability-of-artificial-intelligence-systems-may-explain-why-they-havent-been-used-extensively-in-ukraine/amp/",
+      "publishedDateTime": "2022-03-16T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-israeli-neuroscientists-use-artificial-intelligence-to-reassess-studies-on-consciousness.md",
       "title": "Israeli neuroscientists use artificial intelligence to reassess studies on consciousness",
       "excerpt": "Israeli neuroscientists reexamine hundreds of contradictory experiments on the connection between neural activity and consciousness.",
@@ -906,178 +1087,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-robotics-trailblazer-dominik-boesl-joins-micropsi-industries-as-managing-director.md",
-      "title": "Robotics Trailblazer Dominik Boesl Joins Micropsi Industries as Managing Director",
-      "excerpt": "Boesl to leverage 22+ years in robotics and artificial intelligence (AI) to lead product development of ready-to-use and proven MIRAI robot control system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/march-2022/robotics-trailblazer-dominik-boesl-joins-micropsi? Control News & Articles",
-      "originalUrl": "https://www.automation.com/en-us/articles/march-2022/robotics-trailblazer-dominik-boesl-joins-micropsi? Control News & Articles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/30b78daa-fac0-4304-a31d-fcabe86e68ec/Micropsi-news-March-15-2022-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-auto-nation-how-startup-founders-are-using-ai-to-boost-growth.md",
-      "title": "Auto Nation: How startup founders are using AI to boost growth",
-      "excerpt": "CEO of Addition Finance Graham Davies explains how automation can help startups create scalable processes and promote growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.angelinvestmentnetwork.net/startup-founders-using-ai-to-boost-growth/",
-      "originalUrl": "https://www.angelinvestmentnetwork.net/startup-founders-using-ai-to-boost-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.angelinvestmentnetwork.net/wp-content/uploads/Frame-12.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Angel Investment Network Blog",
-        "domain": "angelinvestmentnetwork.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-how-language-software-can-strengthen-our-cyberdefenses.md",
-      "title": "How Language Software Can Strengthen Our Cyberdefenses",
-      "excerpt": "Software that understands human speech and writing is increasingly being used to fend off hackers, but experts disagree over the value of this tactic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lifewire.com/how-language-software-can-strengthen-our-cyberdefenses-5222302",
-      "originalUrl": "https://www.lifewire.com/how-language-software-can-strengthen-our-cyberdefenses-5222302",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lifewire.com/thmb/TMkgBeYRwXaOy5HJ9uEUe0ReLlw=/732x477/filters:fill(auto,1)/GettyImages-504662110-7431e8558f734ad0af3848368c98b584.jpg",
-          "width": 732,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lifewire",
-        "domain": "lifewire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-deep-learning-and-the-future-of-finance.md",
-      "title": "Deep Learning and the Future of Finance",
-      "excerpt": "Deep learning is increasingly deployed by financial services providers across industries within the financial sector. It has the potential to transform business models and markets for trading, credit and blockchain-based finance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/deep-learning-and-the-future-of-finance",
-      "originalUrl": "https://www.bbntimes.com/technology/deep-learning-and-the-future-of-finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/companies/Deep_Learning_in_Finance.jpeg",
-          "width": 1200,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

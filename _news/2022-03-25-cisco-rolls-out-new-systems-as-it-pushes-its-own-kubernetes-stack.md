@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cisco upgrades target Kubernetes, cloud, and AI/ML"
-    excerpt: "Cisco has added new features to its Intersight cloud management system, UCS X-Series server, and HyperFlex hyperconverged system."
-    publishedDateTime: 2022-03-23T17:51:00Z
-    webUrl: "https://www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.html"
-    ampWebUrl: "https://www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 76
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/08/03/istock-1254718662-100908660-large-100921213-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Cisco upgrades target Kubernetes, cloud and AI/ML"
     excerpt: "Cisco has added new features to its Intersight cloud management system, UCS X-Series server, and HyperFlex hyperconverged system."
     publishedDateTime: 2022-03-26T23:29:00Z

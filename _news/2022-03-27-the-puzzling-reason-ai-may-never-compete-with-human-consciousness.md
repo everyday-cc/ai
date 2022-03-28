@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/the-puzzling-reason-ai-may-neve
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-puzzling-reason-ai-may-never-compete-with-human-consciousness/"
 type: article
 quality: 87
-heat: 92
+heat: 93
 published: true
 
 provider:

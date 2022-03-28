@@ -2,9 +2,9 @@
 category: news
 title: "AI/ML Innovations’ Health Gauge Licenses its Patented Technology to MedWatch Technologies, Inc."
 excerpt: "MedWatch™ to address needs in the $327 billion-dollar US diabetes market - - License includes annual payment to Health Gauge of US$120,000, 2% gross sales royalty, US$2Million termination fee, and other royalties and fees - TORONTO,"
-publishedDateTime: 2022-03-28T04:06:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-health-business-artificial-intelligence-software-945a643980ee9740c104064196129b7a"
-webUrl: "https://apnews.com/press-release/accesswire/technology-health-business-artificial-intelligence-software-945a643980ee9740c104064196129b7a"
+publishedDateTime: 2022-03-28T11:36:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-health-business-artificial-intelligence-software-f438f31c26f65d9ae0359cf3e4f074b9"
+webUrl: "https://apnews.com/press-release/accesswire/technology-health-business-artificial-intelligence-software-f438f31c26f65d9ae0359cf3e4f074b9"
 type: article
 quality: 42
 heat: 42
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "31srJL+/5sO90pnrunQFVfSkEBONJSVyrOXcrjqZgDDwXUPgksALbzSqzVLNEuzKvWILOXvL2YmCIcu7Zo1p4/2BgCxGWxyfthbnYGTaUdF0Y5zsQtqwEUSRxu6IX00etDNVf8nUs4sF0YJ5NVee9mliMD84uzWgD/xBRCCMLUyUBufSZTYrnIkdtDoEmwTBUyT9QFvBZuwPzJugQPQfn8E7vGEIvcuAk09BdZEHBlfcy8H+O4S286jHDL31gXPjrXtaIZO9RoM1VFdDwbLvjlYdERzK6Cybow4ZDY16Ypc/Hx+jSw6/rWljmpH2VolzR54jJQlMpV1ERs2PBVgMCJ3sztXuOWHd0cSbi1BEaxg=;TQoJptlYucsLZKsKBuLPFg=="
+secured: "06spvvKXdH2eOb9QRHEgMLxcexe/GpTORX/qzAAX6CBi7jH6uSyH3HcuNBgwIWt026SxSHxulRbM2h1CiXfZsLEAQ2GoOugSfwVRCobtTOJZue8vmbdliRCxxhDJB09q2+JVUbWxOgh9J2Rc0+THU/WdLhZ02msnJHIfP++mXRTSxIcrA+WYqUDGUFFj/Rt1Sd/X6EDQbgZr/w6Wv8uMHnPYf4DwYGqXx1Om2mLNXWJb3OsueHmdvvQcDy7ccYPAYOJ4pj6HNz1p1GSBTY/IfzS9adjd1AjjFnRXwKy4djDiQWp6aMPTfwYVtPc5Ajrw3VJqqYyqL76GX0rf9gbCx7Ujh79KLK8LHnAUf0j3sf4=;xBEzO8Ln5BfcnUvZotXTVQ=="
 ---
 

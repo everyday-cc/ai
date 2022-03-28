@@ -42,52 +42,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Nvidia’s latest AI wizardry turns 2D photos into 3D scenes in milliseconds"
-    excerpt: "Writer at Neural by TNW — Thomas covers AI in all its iterations ... The company ended a week that introduced a new enterprise GPU and an Arm-based “superchip” with a trademark flashy ..."
-    publishedDateTime: 2022-03-25T13:18:00Z
-    webUrl: "https://thenextweb.com/news/nvidia-latest-ai-wizardry-turns-2d-photos-into-3d-scenes-in-milliseconds"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FNVIDIA-Research-Instant-NeRF-Image.jpg&signature=995be6c270f72e8df02361a4130e08bb"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Nvidia develops fastest AI to create 3D renders using a dozen 2D photos"
-    excerpt: "As AI technology is advancing, tech companies have started to utilize it for a lot of applications. Nvidia demonstrated how its latest AI tool uses just a"
-    publishedDateTime: 2022-03-27T13:15:00Z
-    webUrl: "https://www.techworm.net/2022/03/nvidia-ai-create-3d-using-2d-photos.html"
-    ampWebUrl: "https://www.techworm.net/2022/03/nvidia-ai-create-3d-using-2d-photos.html/amp"
-    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2022/03/nvidia-ai-create-3d-using-2d-photos.html/amp"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 57
-    images:
-      - url: "https://www.techworm.net/wp-content/uploads/2022/03/1648301970_2022-03-26_1.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "NVIDIA’s Tiny New AI Transforms Photos Into Full 3D Scenes in Mere Seconds"
-    excerpt: "NVIDIA says their 3D scene rendering AI runs up to 1,000 times faster than older models without sacrificing image quality."
-    publishedDateTime: 2022-03-27T16:10:00Z
-    webUrl: "https://singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/"
-    ampWebUrl: "https://singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 57
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/03/nvidia-andy-warhol-tribute-black-sweater-polaroid-camera.jpeg"
-        width: 1068
-        height: 601
-        isCached: true
 
 secured: "t11T9FI7cdOPy3ezsGl02iMvPdFCnJtLU95JB7joyXW8AkqSj5+x48xiQGvJ0SZyL8DtjLVu6fXWXIiU8qk4KL4LA7Ijg70pyA4bvGDr7eo8Zz15vCJ3jJxpqjPytKh6SD4Me86iWWuuglAfqsQE7ebp9FG/Y/9zIgKlXrAktvxDGL125WyIv7P8RsRPGbC3nszB0E6/qtPU5HVeKWbz7wMlzGnBb/AEfPf22+xdYA3TFGn9hDdBRBfau4dgD/3g5PvbCx7SaCRD6gw8waCn2HINvvWN8erGmzX1KkM29qPIG6sTQpeqsI/0MzYYSC/mBwj/tJ+4BOX1TvA3FWtjQEWgwCjTjuQqwwhzbrGQShzeBtgbfIjYiTv6X0j0YF8lJ+o3gihoThmE6yTGa56767eRzU6hZAogSU1I/+uVif2z01VIcSYj19lVBrEGa4NmtdSf65BTHQiEyZBW2E4/5D6E5AgAiCWsJEQvZnUZlcOJB5EyQjGlPYcMZNF4M5e6NY1EFjmKV46jZsfSZ9T5cQ==;kTSYYgA7agjk0KDjQf+PVA=="
 ---

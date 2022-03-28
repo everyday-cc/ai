@@ -96,6 +96,20 @@ related:
         width: 1251
         height: 1251
         isCached: true
+  - title: "How Sidetrade utilises AI for its FinTech platform"
+    excerpt: "FinTech Magazine speaks to Mark Sheldon, CTO at Sidetrade to learn more about the company and its work with AI within the fintech industry"
+    publishedDateTime: 2022-03-28T08:09:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/how-sidetrade-utilise-ai-for"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/f4eeb53075c3c0944ddd42a4aec76333:be21c30c397a8c807801fb0947bcad80/gettyimages-1283432364-1.jpg.jpg"
+        width: 1799
+        height: 1010
+        isCached: true
   - title: "Top 10 Most Promising Fintech Firms in India 2022"
     excerpt: "FinTech firms are technological alternatives to traditional financial firms’ back-end systems in the twenty-first century. Find out the top 10 most p"
     publishedDateTime: 2022-03-26T17:12:00Z

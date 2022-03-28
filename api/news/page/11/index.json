@@ -2,6 +2,178 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-03-16-robotics-trailblazer-dominik-boesl-joins-micropsi-industries-as-managing-director.md",
+      "title": "Robotics Trailblazer Dominik Boesl Joins Micropsi Industries as Managing Director",
+      "excerpt": "Boesl to leverage 22+ years in robotics and artificial intelligence (AI) to lead product development of ready-to-use and proven MIRAI robot control system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/march-2022/robotics-trailblazer-dominik-boesl-joins-micropsi? Control News & Articles",
+      "originalUrl": "https://www.automation.com/en-us/articles/march-2022/robotics-trailblazer-dominik-boesl-joins-micropsi? Control News & Articles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/30b78daa-fac0-4304-a31d-fcabe86e68ec/Micropsi-news-March-15-2022-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-auto-nation-how-startup-founders-are-using-ai-to-boost-growth.md",
+      "title": "Auto Nation: How startup founders are using AI to boost growth",
+      "excerpt": "CEO of Addition Finance Graham Davies explains how automation can help startups create scalable processes and promote growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.angelinvestmentnetwork.net/startup-founders-using-ai-to-boost-growth/",
+      "originalUrl": "https://www.angelinvestmentnetwork.net/startup-founders-using-ai-to-boost-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.angelinvestmentnetwork.net/wp-content/uploads/Frame-12.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Angel Investment Network Blog",
+        "domain": "angelinvestmentnetwork.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-how-language-software-can-strengthen-our-cyberdefenses.md",
+      "title": "How Language Software Can Strengthen Our Cyberdefenses",
+      "excerpt": "Software that understands human speech and writing is increasingly being used to fend off hackers, but experts disagree over the value of this tactic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lifewire.com/how-language-software-can-strengthen-our-cyberdefenses-5222302",
+      "originalUrl": "https://www.lifewire.com/how-language-software-can-strengthen-our-cyberdefenses-5222302",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lifewire.com/thmb/TMkgBeYRwXaOy5HJ9uEUe0ReLlw=/732x477/filters:fill(auto,1)/GettyImages-504662110-7431e8558f734ad0af3848368c98b584.jpg",
+          "width": 732,
+          "height": 477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lifewire",
+        "domain": "lifewire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-deep-learning-and-the-future-of-finance.md",
+      "title": "Deep Learning and the Future of Finance",
+      "excerpt": "Deep learning is increasingly deployed by financial services providers across industries within the financial sector. It has the potential to transform business models and markets for trading, credit and blockchain-based finance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/technology/deep-learning-and-the-future-of-finance",
+      "originalUrl": "https://www.bbntimes.com/technology/deep-learning-and-the-future-of-finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/companies/Deep_Learning_in_Finance.jpeg",
+          "width": 1200,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-arista-anet-appears-a-smart-investment-bet-now-heres-why.md",
       "title": "Arista (ANET) Appears a Smart Investment Bet Now: Here's Why",
       "excerpt": "The company expanded its cognitive campus ... troubleshooting and location services. This supports video conferencing applications like Google Hangouts, Microsoft Teams and Zoom.",
@@ -939,178 +1111,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-googlers-and-co-offer-video-dataset-generating-kubric.md",
-      "title": "Googlers and co offer video dataset-generating Kubric",
-      "excerpt": "If you need more complex data, such as video footage with depth and object annotations, your available sources dwindle further. Fake computer-generated material avoids these problems by giving you exactly what you need,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/03/15/deep_learning_vision_kubric/",
-      "originalUrl": "https://www.theregister.com/2022/03/15/deep_learning_vision_kubric/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/03/15/shutterstock_3d_objects.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/15/deep_learning_vision_kubric/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/15/deep_learning_vision_kubric/",
-      "publishedDateTime": "2022-03-14T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-firms-step-up-to-cash-in-on-robotaxi-biz.md",
-      "title": "Firms step up to cash in on robotaxi biz",
-      "excerpt": "A Baidu Apollo robotaxi is seen in Beijing in December. HUANG YONG/FOR CHINA DAILY Competition in China's autonomous driving sector is set to heat up as several self-driving companies are accelerating commercial operation of self-driving taxis to provide ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202203/15/WS622fe7f0a310cdd39bc8c937.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202203/15/WS622fe7f0a310cdd39bc8c937.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202203/15/622fe7efa310cdd3d8356f9b.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-how-an-ai-brain-with-only-one-neuron-could-surpass-humans.md",
-      "title": "How an AI brain with only one neuron could surpass humans",
-      "excerpt": "Combined, they make up one of the most advanced organic neural networks known to exist. Current state-of-the-art artificial intelligence systems attempt to emulate the human brain through the ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/how-ai-brain-with-only-one-neuron-could-surpass-humans",
-      "originalUrl": "https://thenextweb.com/news/how-ai-brain-with-only-one-neuron-could-surpass-humans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fbraindrift.jpg&signature=271abfe4da06de8c4e53477f1f404743",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-self-driving-car-technology-market-shaping-from-growth-to-value-byd-volkswagen-ibm.md",
-      "title": "Self-driving Car Technology Market Shaping From Growth To Value : BYD, Volkswagen, IBM",
-      "excerpt": "The Latest survey report on Self-driving Car Technology Market has witnessed continuous growth in the last few years and is projected to grow even further during the forecast peri",
-      "sourceUrl": null,
-      "webUrl": "https://eclecticnortheast.in/2022/03/15/self-driving-car-technology-market-shaping-from-growth-to-value-byd-volkswagen-ibm/",
-      "originalUrl": "https://eclecticnortheast.in/2022/03/15/self-driving-car-technology-market-shaping-from-growth-to-value-byd-volkswagen-ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eclectic Northeast",
-        "domain": "eclecticnortheast.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

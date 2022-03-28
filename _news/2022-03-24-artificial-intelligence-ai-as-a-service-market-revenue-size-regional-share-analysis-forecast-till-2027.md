@@ -40,6 +40,20 @@ related:
         width: 750
         height: 394
         isCached: true
+  - title: "ADAS and Autonomous Driving Components Market Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand and Forecast till 2027"
+    excerpt: "The rising number of government initiatives globally related to the safety of the vehicles coupled with the rising demand for safe and efficient vehicles"
+    publishedDateTime: 2022-03-28T11:03:00Z
+    webUrl: "https://www.digitaljournal.com/pr/adas-and-autonomous-driving-components-market-worldwide-industry-share-size-gross-margin-trend-future-demand-and-forecast-till-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/848dd933f2b95b10eb092743860d98932097e224-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "h10bSf5BCF3v9KBL12QHU+mmLOqCCWCMziDhueqTc5b/q8Qnkmh5sKFfvKqdW8XTL9Ej7JKpjyI0cPHcIlUVNnj8emTtqwOtdgtaWnx805O1+eng+DEEcQ5JpNZHqJRKfFtrk5GtHCYfUj9mvWReguyCBYRWVn5jawSiG232CXLq8xltdl/RFyuCAMEBGrrneUSWBLeW0hSg3wJ7qMUiIeW20W6hsLp3QtuHFLM4R5aw/nNkE5hz9EQ+jgFMEDpaI8w5V4MQMf6wCBoKzYborv1eRSKR5Kpjh86M+t1O05P2LxbrLl/2QclLhUEi9CGajfgHa0arf42PnOJFbyIzE3wRs6bGLDf3dep2jUxBq8M=;zpNrE5sLOxBjnQj7DKBUQw=="
 ---

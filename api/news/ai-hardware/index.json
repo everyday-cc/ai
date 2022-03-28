@@ -118,7 +118,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -170,7 +170,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/25/ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -213,49 +213,6 @@
         "AI",
         "Natural Language Processing",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-nvidia-ai-tech-lets-computers-understand-the-3d-world-from-2d-photos.md",
-      "title": "Nvidia AI Tech Lets Computers Understand the 3D World From 2D Photos",
-      "excerpt": "Graphics chips are good at taking 3D scenes like video game battlefields or airplane designs and rendering them as 2D images on a screen. Nvidia, a top maker of such chips, now is using AI to do the exact opposite.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/nvidia-ai-tech-lets-computers-understand-the-3d-world-from-2d-photos/",
-      "originalUrl": "https://www.cnet.com/tech/computing/nvidia-ai-tech-lets-computers-understand-the-3d-world-from-2d-photos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-ai-tech-lets-computers-understand-the-3d-world-from-2d-photos/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-ai-tech-lets-computers-understand-the-3d-world-from-2d-photos/",
-      "publishedDateTime": "2022-03-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -311,7 +268,7 @@
       "originalUrl": "https://www.fool.com/investing/2022/03/24/nvidia-new-powerful-ai-chips-what-need-know/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1421,6 +1378,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-04-how-kubernetes-extends-to-machine-learning-ml.md",
+      "title": "How Kubernetes extends to machine learning (ML)",
+      "excerpt": "“Kubernetes supports GPUs today, which accelerates the AI workflow and automates the management of GPU-accelerated application containers. These tools enable ML teams to leverage the speed of GPUs within a containerised workflow. “Kubernetes also helps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.information-age.com/how-kubernetes-extends-machine-learning-ml-123492360/",
+      "originalUrl": "https://www.information-age.com/how-kubernetes-extends-machine-learning-ml-123492360/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2020/10/how-kubernetes-extends-machine-learning-ml.jpeg.optimal.jpeg",
+          "width": 1080,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

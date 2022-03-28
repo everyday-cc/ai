@@ -149,6 +149,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-23-icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence.md",
+      "title": "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence",
+      "excerpt": "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-byd-lucid-are-latest-ev-makers-to-adopt-nvidias-self-driving-toolkit.md",
       "title": "BYD, Lucid are latest EV makers to adopt Nvidia’s self-driving toolkit",
       "excerpt": "At Nvidia's GTC conference, BYD and Lucid Motors announced they have adopted Nvidia's Drive Hyperion architecture to aid automated driving and ADAS features.",
@@ -1327,49 +1370,6 @@
       "provider": {
         "name": "Eclectic Northeast",
         "domain": "eclecticnortheast.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-artificial-intelligence-is-redefining-the-travel-industry.md",
-      "title": "Artificial Intelligence is Redefining The Travel Industry",
-      "excerpt": "Artificial intelligence (AI) is transforming the travel industry by offering predictive analytics, tailored recommendations and live updates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/artificial-intelligence-is-redefining-the-travel-industry",
-      "originalUrl": "https://www.bbntimes.com/technology/artificial-intelligence-is-redefining-the-travel-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/companies/Artificial_Intelligence_is_Redefining_The_Travel_Industry.jpg",
-          "width": 1000,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
         "images": null,
         "publishers": null,
         "authors": null

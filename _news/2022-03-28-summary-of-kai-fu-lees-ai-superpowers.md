@@ -23,17 +23,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Lee Kai-Fu says artificial intelligence will accelerate drug discovery"
-    excerpt: "VC investor suggests AI will lower pharmaceutical costs but some critics dismiss its use in drug discovery as ‘hype’"
-    publishedDateTime: 2022-03-23T18:30:00Z
-    webUrl: "https://www.ft.com/content/f1cc2451-cf40-4482-b015-5c0763d3dc65"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 36
-
 secured: "3UrXtUbTMf8dT3VSu5k+2zNHX6qhRfmbhbMXN0g5sxuLAds430mPDTe5yib9khTKF0Xc9XXbYLp/bO1l0W1Byg0vmULpcCIhN7ojVNWZ0KZwefWRnEU+CjKfUKBRgxcLvlAj1Ifj6YApC55Ke7HU6yNunqP/Wsc1h2Dl0bTw3FLCYiJIjKaKF2cCA9XBogOsIzWKGrBpnxebuMDLcvFvhq3ScvyX7DSSXAN58cE/lLnawNivrW1+UZKfk6T4Phn+F6a8aUfZyycNXU1suiTcyweg6xCJ2UQdV4Om3VHs+zuL+Kq8uCMOOsiAUQBun9D1klx/GI/HmU3XJBIb6frjW+Vey/rI/inN+0yMgJpb1cQ=;2PRq9FumIV7GNpPI760Sww=="
 ---
 

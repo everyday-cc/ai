@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/amp/"
 type: article
 quality: 89
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/03/nvidia-jetson-agx-module-1ccw-d-e1648195208564.png"
         width: 500
         height: 281
-        isCached: true
-  - title: "Leopard Imaging Expands 3D Depth Time-of-Flight and Stereo Camera Portfolio for Edge Computing Powered by NVIDIA Jetson Edge AI Platform"
-    excerpt: "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, today announced it is building on its portfolio of 3D Depth Time-of-Flight (ToF) and Stereo camera solutions for edge computing."
-    publishedDateTime: 2022-03-23T17:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/leopard-imaging-expands-3d-depth-time-of-flight-and-stereo-camera-portfolio-for-edge-computing-powered-by-nvidia-jetson-edge-ai-platform-1031302315"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1771761/Leopard_Imaging_Inc_NVIDIA_JETSON.jpg"
-        width: 400
-        height: 214
         isCached: true
 
 secured: "42tLMd5sLNwv6ldVAtIFPGEX2crIvEiwmtpsRNkp7vok/pDNFLy2f7amKsvu6QTrFqKCu/24TwI5HP5VYJJ1i3E0SYZuJMc3wSu/6n+7cd+RWVKffgk3x2SV72z4fLLQ+XLDVugxwiEAtrb6rKmBqBQTLSmAwsFTTb1vipaooiJPf9VtTRsqw3snPwMuEZFiXbdeX36FPkL6MdnmgH89OqItcHvKlO+Gu5lA5TzBNz0h+VTw+GlbkHsXzTiClj9nABJN5x0pwHyTRmC5AI4lGH0iGQM93d9hqXVjar1aBc8yET0pSN0SBge6Z6v7P4DJ9wZtqQVvJX1YRvQH7vg3THaKYEhS9o4DkjlwX4kaQpAuORz/Qx4NvqkaYWl5G1hNL+zcFTEyfMCMD/EXr90VZxE5nCl6eAj+MNI9GfzOpieTJcT0pwibKcxOMk68AM28QcAXCHnEE7Av3HtGKx6nlvvExV8zl8KRlj3ehCfTJc8ZmZ8X0d/mgNkIi6W66lhheV8RhUBGyQbi67QQZdRNrQ==;HSphnGGmsY6qWsATUDJSaA=="
