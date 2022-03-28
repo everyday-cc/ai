@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/amp/"
 type: article
 quality: 89
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia bridges real and virtual in the Omniverse with AI"
-    excerpt: "Kicking off NVIDIA’s GTC conference this week, founder and CEO Jensen Huang highlighted a slew of transformative updates featuring NVIDIA artificial"
-    publishedDateTime: 2022-03-23T07:56:00Z
-    webUrl: "https://techhq.com/2022/03/nvidia-bridges-real-and-virtual-in-the-omniverse-with-ai-supercomputing/"
-    ampWebUrl: "https://techhq.com/amp/2022/03/nvidia-bridges-real-and-virtual-in-the-omniverse-with-ai-supercomputing/"
-    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/03/nvidia-bridges-real-and-virtual-in-the-omniverse-with-ai-supercomputing/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 59
-    images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2022/03/NVIDIA-Omniverse-Enterprise-Digital-Twin-Amazon-Image-375x210.jpg"
-        width: 375
-        height: 210
-        isCached: true
   - title: "Sequitur Labs Protects NVIDIA Jetson Powered Edge AI Models"
     excerpt: "Latest release of EmSPARKT Security Suite for the NVIDIA Jetson platformfeatures new trusted applications for AI protection"
     publishedDateTime: 2022-03-25T09:54:00Z

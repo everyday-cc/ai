@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-28-a-wave-of-billion-dollar-language-ai-startups-is-coming.md",
+      "title": "A Wave Of Billion-Dollar Language AI Startups Is Coming",
+      "excerpt": "Given language’s ubiquity throughout the economy, few areas of technology will have a more far-reaching impact in the years ahead than NLP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6240e81218e4f5d1deaf91c3/0x0.jpg?format=jpg&crop=1744,981,x0,y49,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/",
+      "publishedDateTime": "2022-03-27T17:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-03-26-languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world.md",
       "title": "Languages in the metaverse: Why AI is critical for communication in the brave new world",
       "excerpt": "We don’t have the superpower of universal understanding in real life. But what if it’s indeed possible to achieve it in the metaverse?",
@@ -1388,49 +1441,6 @@
       "provider": {
         "name": "Bloomberg Law",
         "domain": "bloomberglaw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-how-language-software-can-strengthen-our-cyberdefenses.md",
-      "title": "How Language Software Can Strengthen Our Cyberdefenses",
-      "excerpt": "Software that understands human speech and writing is increasingly being used to fend off hackers, but experts disagree over the value of this tactic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lifewire.com/how-language-software-can-strengthen-our-cyberdefenses-5222302",
-      "originalUrl": "https://www.lifewire.com/how-language-software-can-strengthen-our-cyberdefenses-5222302",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lifewire.com/thmb/TMkgBeYRwXaOy5HJ9uEUe0ReLlw=/732x477/filters:fill(auto,1)/GettyImages-504662110-7431e8558f734ad0af3848368c98b584.jpg",
-          "width": 732,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lifewire",
-        "domain": "lifewire.com",
         "images": null,
         "publishers": null,
         "authors": null

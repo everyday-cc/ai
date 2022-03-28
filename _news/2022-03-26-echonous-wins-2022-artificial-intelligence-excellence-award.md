@@ -2,41 +2,42 @@
 category: news
 title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
 excerpt: "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program."
-publishedDateTime: 2022-03-25T20:09:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
+publishedDateTime: 2022-03-25T23:09:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=637410"
+webUrl: "https://us.acrofan.com/detail.php?number=637410"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
     isCached: true
 
 related:
-  - title: "BairesDev wins the Business Intelligence Group’s 2022 Artificial Intelligence Excellence Award"
-    excerpt: "The award recognizes BairesDev’s AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
-    publishedDateTime: 2022-03-25T17:18:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
+  - title: "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award"
+    excerpt: "The Business Intelligence Grouptm today announced that BairesDev, a leading technology solutions company, is a winner in its Artificial Intelligence (AI) Excellence Awards program. The award highlights the company's efforts to build new tools,"
+    publishedDateTime: 2022-03-25T17:31:00Z
+    webUrl: "https://www.lelezard.com/en/news-20305538.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 40
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 42
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Lirio Named Winner in 2022 Artificial Intelligence Excellence Awards"
     excerpt: "Lirio, whose Precision Nudging™ solution promotes health through AI-powered behavior change, today announced that it has been recognized by Business Intelligence Group as an AI Excellence Award winner for 2022."
@@ -52,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Qlik’s Elif Tutuk Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Elif Tutuk, Vice President of Innovation and Design at Qlik®, was named a winner in its"
+    publishedDateTime: 2022-03-24T12:31:00Z
+    webUrl: "https://www.kentuckytoday.com/news/business/qlik-s-elif-tutuk-named-winner-in-2022-artificial-intelligence-excellence-awards/article_ffd0e99d-89bd-5ce3-b8d9-e08e8628db8e.html"
+    type: article
+    provider:
+      name: Kentucky Today
+      domain: kentuckytoday.com
+    quality: 34
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
     excerpt: "Artificial Intelligence Excellence Award. EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligen"
     publishedDateTime: 2022-03-25T15:09:00Z
@@ -62,6 +77,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "3FyuDq8mOwKAmArQOr1SAAmDu3vZgKs/xTNOrJQVRhUsKXPSAVkqXmjDsioILGE2Q3qN5qxJlXM4PJSn3cAjGgCIkCTzOyPXMwlqVTSOrHp120X4ne7kZ4GWekBrogbUpiyZEabL3+Peh8y8SRSuTQZwIWxXK9KZa7nmUNzNWnESaZzUmxvh4kDU3yjC16rmzdVz1qHw7gL9wiq9qRbNh9qEK7QK5SrpVM3LLYY/pMiY+LbXJUg6LR0vD4bjTH3GQrmyNjroI2e8MzBmpfaZ+TcnylmeEdkneqgEIwqI36FROQ6dPRs51CEZTKRUUPjC361wMacNGWVFWL2JuK8iM2Es06pAhgkuGc30q8nK2bI=;Cn6JAXL5F7UAj1fLO6xJ/w=="
+secured: "GJIes7qTfOweKXjl1yuPd4NZQMjp71dE5Hyrfq2uLjBVlRMoo2EsS5lPM1YCWSkvwV/Fwiw7wNvr59LZmqWCySoau2447DcL0Zeb4N4fvvZMHXUVLqt5dVcB7E/QdzE2FpIwc2lxD7r7BkitzdtlZkb1jFJgmgP+no0B03GgPWr5J0yD65imPClXfhNrXtTuxFG6XkAhpyRO2+19uhvrtIVHfF0m3DUteueme26SeoRsJLgcbxT+ndR96RUXiMS04ThhkJI3r6OlX5+84JP6QEI1Eqf6eA67IKojEvUzg9a1euTqxsACxrXXCgdKXm0Fsln/DZpbDON0stOudJVd+hIC7+Xg6pZ6Hql8wFIWkHc=;405mC8Rexbn/Br6MYM8dww=="
 ---
 

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Inspur Information and Feinberg School of Medicine at Northwestern University Improve Patient Outcomes Using AI and Machine Learning"
-excerpt: "At NVIDIA GTC, Inspur Information announced the results of its partnership with the Feinberg School of Medicine at Northwestern University in leveraging artificial intelligence (AI) to advance medical research and healthcare."
-publishedDateTime: 2022-03-25T13:09:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/inspur-information-and-feinberg-school-of-medicine-at-northwestern-university-improve-patient-outcomes-using-ai/article_41633203-a9e4-5e06-aa2d-1806aac9fa61.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/inspur-information-and-feinberg-school-of-medicine-at-northwestern-university-improve-patient-outcomes-using-ai/article_41633203-a9e4-5e06-aa2d-1806aac9fa61.html"
+excerpt: "AI report analysis ensures that lung patients receive necessary follow-up care after medical diagnostic imagingSAN JOSE, Calif.--(BUSINESS WIRE)--At NVIDIA GTC, Inspur Information announced the results of its partnership with the Feinberg School of Medicine at Northwestern University in leveraging artificial intelligence (AI) to advance medical research and healthcare."
+publishedDateTime: 2022-03-25T16:09:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=637255"
+webUrl: "https://us.acrofan.com/detail.php?number=637255"
 type: article
 quality: 23
 heat: 23
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-    width: 600
-    height: 315
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
     isCached: true
 
-secured: "Hj3elsabnGN0Ep1XkWAydfuNPu6dkceAmwhjEp2QWsV9LiG4IvAkq1fEekwnWSMWLzw17yDvnYIGm9T9Jr8Kl+J9qgxuDCWGjaNBjGWmR6pZ8kD3yZL37puTtGww4DgzJn6AWxdByGqk4pUrLsYd980/cYUfBSJDAiKSDw3Hx/HiVWAWtW3G/PA3oUmxWDjF5fOAf4rPLuSbjIIl0ctTx5Elxhd/PaDHUt9TINoM4M1sjoJt2wU1JmWnP15pwhJKaxeTAkomzHMrRUGMlbNNpyCZ/usPdwrNbQDZtgbCKjwcygX4rvCf7qlmj2PkntW5b9c4r2OYrKW+bdCYLf4ygj+vjefhwskAG4MoPj5mrWLxNi8s2iwLSGMfqXz3L8ifpITYpT53OkZFubmzcYTJFBSDjQ8j5GiVZ4ACrOLHuiUUEz7AMYp6YQvAE34Yk97l+5OItZMfQQYMheD30pFRsujiiHBhdce76Q1xM4INGnjCNu+TfW9W05E2xjRjv1zuy7+zXTFaiwFL6vdoo3cpjA==;IfVz1HoOcUv/ku6U1OQmBg=="
+secured: "TwJmT4q7/U04uDRt7gnMD/DqvjgGYyKiOBF158WZaM0V3M/XI/T3itfFIubiXud9e9t+YRbFuA1eNLL4m/Hr2TwBRM91eYzRdAencaNDuPbjcrGb+BgsR8fb4sQtY9RJWljBFiOqqpX8gON+A7SENkhI42BcMT4BXoK3cb2pkyoUAxtCvl4MzmD6XyYycAaMZQTA8ADp9s1DYguWgDSAhct4i+0fdPzkaloWhQvALCVjiocEMINkJWPcOE+y5AFGyc0R2RbKLz8DliUlMaE1+VSg8a/vTxfN4ODFPsE5saXC3675nLsz1sbFF8Jttn5HSGc1Qqdhc45JtqQKIhywLZBXjCUEgsWfPcjTKNJ9GPE=;6RPQCgyuaJEVwaiLPvSSnQ=="
 ---
 

@@ -2,6 +2,81 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-03-16-startup-aims-to-bring-ai-technology-to-defense-starting-with-maritime-surveillance.md",
+      "title": "Startup Aims To Bring AI Technology To Defense, Starting With Maritime Surveillance",
+      "excerpt": "Modern Intelligence, a startup technology company, on Wednesday emerged from stealth mode with a $5 million funding round to help bring a new artificial",
+      "sourceUrl": null,
+      "webUrl": "https://www.defensedaily.com/startup-aims-to-bring-ai-technology-to-defense-starting-with-maritime-surveillance/business-financial/",
+      "originalUrl": "https://www.defensedaily.com/startup-aims-to-bring-ai-technology-to-defense-starting-with-maritime-surveillance/business-financial/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense Daily Network",
+        "domain": "defensedaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-astute-imaging-acquires-deep-technology-ai-startup-dilenytech.md",
+      "title": "Astute Imaging Acquires Deep Technology AI Startup DilenyTech",
+      "excerpt": "Astute Imaging LLC, a provider of imaging guided therapy and procedure planning services, announced the acquisition of Dileny Technologies (DilenyTech) LLC, a deep",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/astute-imaging-acquires-deep-technology-ai-startup-dilenytech/article_3266d37c-ebf1-55e8-ae39-c165f3a4f516.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/astute-imaging-acquires-deep-technology-ai-startup-dilenytech/article_3266d37c-ebf1-55e8-ae39-c165f3a4f516.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-vidizmo-joins-aws-public-sector-program-to-provide-video-streaming-and-evidence-management-solutions.md",
       "title": "VIDIZMO Joins AWS Public Sector Program to Provide Video Streaming and Evidence Management Solutions",
       "excerpt": "Already a validated solution and available in AWS Marketplace, VIDIZMO helps enterprises and government organizations around the world to stream and manage large amounts of video",
@@ -1018,92 +1093,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-crisis-data-an-ethics-case-study.md",
-      "title": "Crisis Data: An Ethics Case Study",
-      "excerpt": "Politico published an article about a nonprofit called Crisis Text Line, which offers support via text messages for people who are going through mental health crises. For years, the nonprofit had been collecting a database of messages exchanged,",
-      "sourceUrl": null,
-      "webUrl": "https://www.scu.edu/ethics/focus-areas/internet-ethics/resources/crisis-data-an-ethics-case-study/",
-      "originalUrl": "https://www.scu.edu/ethics/focus-areas/internet-ethics/resources/crisis-data-an-ethics-case-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.scu.edu/media/ethics-center/internet-ethics/8265910706_0851f637c0_z-360x225.jpg",
-          "width": 360,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T19:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Santa Clara University",
-        "domain": "scu.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-amazon-launches-free-online-game-to-boost-aws-cloud-skills.md",
-      "title": "Amazon Launches Free Online Game To Boost AWS Cloud Skills",
-      "excerpt": "Amazon creates metaverse game AWS Cloud Quest to boost cloud computing skills for AWS certified cloud practitioners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/amazon-launches-metaverse-type-game-for-aws-cloud-training",
-      "originalUrl": "https://www.crn.com/news/cloud/amazon-launches-metaverse-type-game-for-aws-cloud-training",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0273-14ae73d3debe-a89ed4d9b3e1-1000/cloudquest-resized.jpg.jpeg",
-          "width": 599,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T19:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

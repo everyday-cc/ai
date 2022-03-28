@@ -2,6 +2,92 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-03-14-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-purchased-by-miracle-mile-advisors-llc.md",
+      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Shares Purchased by Miracle Mile Advisors LLC",
+      "excerpt": "Miracle Mile Advisors LLC raised its holdings in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 30.3% in the 4th quarter, Holdings Channel reports. The institutional investor owned 28,",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/03/14/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-purchased-by-miracle-mile-advisors-llc/",
+      "originalUrl": "https://www.etfdailynews.com/2022/03/14/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-purchased-by-miracle-mile-advisors-llc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/scripts/SECFilingChart.ashx?Prefix=NASDAQ&Symbol=BOTZ",
+          "width": 650,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/03/14/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-purchased-by-miracle-mile-advisors-llc/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/03/14/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-purchased-by-miracle-mile-advisors-llc/amp/",
+      "publishedDateTime": "2022-03-14T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-14-pharma-leaders-should-step-up-on-artificial-intelligence-concertai.md",
+      "title": "Pharma leaders should step up on artificial intelligence: ConcertAI",
+      "excerpt": "An executive from the AI specialist discusses how recent advances have provided opportunities for industry professionals to champion new ways of thinking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outsourcing-pharma.com/Article/2022/03/14/pharma-leaders-should-step-up-on-artificial-intelligence-concertai",
+      "originalUrl": "https://www.outsourcing-pharma.com/Article/2022/03/14/pharma-leaders-should-step-up-on-artificial-intelligence-concertai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/preclinical-research/pharma-leaders-should-step-up-on-artificial-intelligence-concertai/13319287-1-eng-GB/Pharma-leaders-should-step-up-on-artificial-intelligence-ConcertAI.jpg",
+          "width": 750,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outsourcing-pharma",
+        "domain": "outsourcing-pharma.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-14-xailient-blows-the-doors-off-computer-vision-with-intel-openvino-at-448fps-opening-the-way-for-advanced-applications-in-face-recognition-and.md",
       "title": "Xailient blows the doors off Computer Vision with Intel OpenVINO at 448FPS - opening the way for advanced applications in Face Recognition and Privacy",
       "excerpt": "Xailient specializes in extremely efficient low-power computer vision. OpenVINO specializes in maximizing the performance and speed of computer vision AI workloads. Together, Xailient and OpenVINO deliver every inference of Computer Vision on all configurations of Intel hardware,",
@@ -674,6 +760,50 @@
       ]
     },
     {
+      "path": "_news/2022-03-14-how-3d-tech-advances-will-impact-robotics-vision-systems-in-2022.md",
+      "title": "How 3D Tech Advances Will Impact Robotics Vision Systems in 2022",
+      "excerpt": "Vision technology is shifting from image capture to object recognition and tracking. Robots with advanced 3D capability can differentiate objects, perceive human form. How autonomous robots are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21236082/orbbec-how-3d-tech-advances-will-impact-robotics-vision-systems-in-2022",
+      "originalUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21236082/orbbec-how-3d-tech-advances-will-impact-robotics-vision-systems-in-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/03/IoT_retail_Ekkasit919_dreamstime_l_107745072.622f9279196db.png?auto=format&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-03-14-ibms-watson-steps-out-again.md",
       "title": "IBM’s Watson steps out again",
       "excerpt": "According to IBM, Watson’s engineers have also reduced ... When you look at artificial intelligence and computing, that’s one of the missing pieces.” The top five finalists will pitch ...",
@@ -948,135 +1078,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-13-wow-this-indian-student-did-what-no-big-tech-firm-could-real-time-translation-of-sign-language.md",
-      "title": "Wow! This Indian student did what NO big tech firm could! Real-time translation of sign language",
-      "excerpt": "An Indian engineering student from Tamil Nadu has developed the new AI model which translates sign language into English instantly. Know the inspiring story.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/wow-this-indian-student-did-what-no-big-tech-firm-could-real-time-translation-of-sign-language-71647082254014.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/wow-this-indian-student-did-what-no-big-tech-firm-could-real-time-translation-of-sign-language-71647082254014.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2022/03/12/1600x900/web-g18e6361fa_1920_1647082773401_1647082789740.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/wow-this-indian-student-did-what-no-big-tech-firm-could-real-time-translation-of-sign-language-71647082254014.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/wow-this-indian-student-did-what-no-big-tech-firm-could-real-time-translation-of-sign-language-71647082254014.html",
-      "publishedDateTime": "2022-03-12T14:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-13-healthcare-analytics-and-artificial-intelligence-msc.md",
-      "title": "Healthcare Analytics and Artificial Intelligence (MSc)",
-      "excerpt": "Healthcare Analytics and Artificial Intelligence (MSc) at Sheffield Hallam University, listed on FindAMasters.com - a comprehensive database of Masters, MSc, MA, MPhil & MRes courses in the UK & Irela",
-      "sourceUrl": null,
-      "webUrl": "https://www.findamasters.com/masters-degrees/course/healthcare-analytics-and-artificial-intelligence-msc/?i219d2021c68034",
-      "originalUrl": "https://www.findamasters.com/masters-degrees/course/healthcare-analytics-and-artificial-intelligence-msc/?i219d2021c68034",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fau-res.cloudinary.com/image/upload/mas/search-suggestions.jpg",
-          "width": 766,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-12T14:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Masters",
-        "domain": "findamasters.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-13-artificial-intelligence-helps-treat-spinal-cord-injuries.md",
-      "title": "Artificial Intelligence Helps Treat Spinal Cord Injuries",
-      "excerpt": "By utilizing artificial intelligence (AI) and robotics, researchers have stabilized an enzyme that can degrade scar tissue resulting from spinal cord injuries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-helps-treat-spinal-cord-injuries-206068-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-helps-treat-spinal-cord-injuries-206068-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/spinal-cord-injuries.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-helps-treat-spinal-cord-injuries-206068-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-treat-spinal-cord-injuries-206068-1.htm",
-      "publishedDateTime": "2022-03-12T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

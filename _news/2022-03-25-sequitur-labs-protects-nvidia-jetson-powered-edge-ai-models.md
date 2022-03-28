@@ -43,22 +43,6 @@ related:
         width: 1138
         height: 640
         isCached: true
-  - title: "Nvidia bridges real and virtual in the Omniverse with AI"
-    excerpt: "Kicking off NVIDIA’s GTC conference this week, founder and CEO Jensen Huang highlighted a slew of transformative updates featuring NVIDIA artificial"
-    publishedDateTime: 2022-03-23T07:56:00Z
-    webUrl: "https://techhq.com/2022/03/nvidia-bridges-real-and-virtual-in-the-omniverse-with-ai-supercomputing/"
-    ampWebUrl: "https://techhq.com/amp/2022/03/nvidia-bridges-real-and-virtual-in-the-omniverse-with-ai-supercomputing/"
-    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/03/nvidia-bridges-real-and-virtual-in-the-omniverse-with-ai-supercomputing/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 59
-    images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2022/03/NVIDIA-Omniverse-Enterprise-Digital-Twin-Amazon-Image-375x210.jpg"
-        width: 375
-        height: 210
-        isCached: true
   - title: "NVIDIA (NVDA) Starts Production of DRIVE Orin Platform"
     excerpt: "NVIDIA Corporation NVDA is boosting its initiatives to empower artificial intelligence (AI ... from Level 2+ systems to Level 5 entirely driverless vehicles. The company’s foray into autonomous ..."
     publishedDateTime: 2022-03-23T13:47:00Z

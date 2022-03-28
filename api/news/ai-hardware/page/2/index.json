@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-04-intel-12th-gen-alder-lake-vpro-arrives-with-ai-enhanced-security-for-smbs-and-enterprise.md",
+      "title": "Intel 12th Gen Alder Lake vPro Arrives With AI Enhanced Security For SMBs And Enterprise",
+      "excerpt": "One of the big upgrades of Intel's vPro platform for 12th Gen CPUs is a cutting-edge anomalous behavior detection (ABD) capability to thwart supply chain-style attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/intel-vpro-12th-gen-alder-lake-ai-enhanced-security-businesses",
+      "originalUrl": "https://hothardware.com/news/intel-vpro-12th-gen-alder-lake-ai-enhanced-security-businesses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/57870/content/Intel_vPro_12th_Gen_Badges.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/intel-vpro-12th-gen-alder-lake-ai-enhanced-security-businesses",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-vpro-12th-gen-alder-lake-ai-enhanced-security-businesses",
+      "publishedDateTime": "2022-03-03T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-03-03-luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m.md",
       "title": "Luminous Computing, which is developing a light-based AI accelerator chip, raises $105M",
       "excerpt": "Join today's leading executives online at the Data Summit on March 9th. Register here. According to some experts, the growth in the compute power necessary to develop future AI systems might run up against a wall with mainstream chip technologies.",
@@ -1424,59 +1468,6 @@
         "IBM AI",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-hisense-breakthrough-in-8k-ai-image-quality-chip-technology-empowers-the-global-display-industry.md",
-      "title": "Hisense Breakthrough in 8K AI Image Quality Chip Technology Empowers the Global Display Industry",
-      "excerpt": "It achieves the leapfrog development from 4K to 8K for the first time and makes great breakthroughs in the core technology of AI image quality algorithm. The Hi-View HV8107 chip not only has the ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/hisense-breakthrough-in-8k-ai-image-quality-chip-technology-empowers-the-global-display-industry-1031207935",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/hisense-breakthrough-in-8k-ai-image-quality-chip-technology-empowers-the-global-display-industry-1031207935",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1749697/1.jpg",
-          "width": 303,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-18T01:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

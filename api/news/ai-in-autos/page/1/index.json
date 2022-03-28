@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-28-self-driving-startup-zongmu-raises-157-million-in-new-funds.md",
+      "title": "Self-Driving Startup Zongmu Raises $157 Million in New Funds",
+      "excerpt": "Zongmu Technology Shanghai Co. has raised more than 1 billion yuan ($157 million) in a new round as the Chinese autonomous driving system startup looks to build a new production plant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2022-03-28/self-driving-startup-zongmu-raises-157-million-in-new-funds",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2022-03-28/self-driving-startup-zongmu-raises-157-million-in-new-funds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.jkvjaj52p4/v1/1200x801.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-27T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-chinas-ev-chassis-maker-pix-raises-11m-to-build-its-own-smart-vehicles.md",
       "title": "China’s EV chassis maker PIX raises $11M to build its own smart vehicles",
       "excerpt": "The autonomous driving industry in China has enjoyed a boom over the past two years, with both institutional and corporate investors pouring money into a driverless future. Companies thriving in the downstream,",
@@ -1329,49 +1381,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-13-artificial-intelligence-and-the-future-of-war.md",
-      "title": "Artificial Intelligence and the Future of War",
-      "excerpt": "Consider an alternative history for the war in Ukraine. Intrepid Ukrainian Army units mount an effort to pick off Russian supply convoys. But rather than rely on sporadic air cover, the Russian convoys travel under a blanket of cheap drones.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/artificial-intelligence-and-future",
-      "originalUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/artificial-intelligence-and-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/RussiaDrone.jpg",
-          "width": 1222,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-12T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

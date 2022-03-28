@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-28-self-driving-startup-zongmu-raises-157-million-in-new-funds.md",
+      "title": "Self-Driving Startup Zongmu Raises $157 Million in New Funds",
+      "excerpt": "Zongmu Technology Shanghai Co. has raised more than 1 billion yuan ($157 million) in a new round as the Chinese autonomous driving system startup looks to build a new production plant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2022-03-28/self-driving-startup-zongmu-raises-157-million-in-new-funds",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2022-03-28/self-driving-startup-zongmu-raises-157-million-in-new-funds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.jkvjaj52p4/v1/1200x801.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-27T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-28-a-wave-of-billion-dollar-language-ai-startups-is-coming.md",
+      "title": "A Wave Of Billion-Dollar Language AI Startups Is Coming",
+      "excerpt": "Given language’s ubiquity throughout the economy, few areas of technology will have a more far-reaching impact in the years ahead than NLP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6240e81218e4f5d1deaf91c3/0x0.jpg?format=jpg&crop=1744,981,x0,y49,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/",
+      "publishedDateTime": "2022-03-27T17:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-03-27-this-is-what-makes-deep-learning-so-powerful.md",
       "title": "This is what makes deep learning so powerful",
       "excerpt": "Deep learning's availability of large data and compute power makes it far better than any of the classical machine learning algorithms.",
@@ -10,7 +115,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/27/this-is-what-makes-deep-learning-so-powerful/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -62,7 +167,7 @@
       "originalUrl": "https://www.cnet.com/science/biology/features/the-puzzling-reason-ai-may-never-compete-with-human-consciousness/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -165,7 +270,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1113,92 +1218,6 @@
         "name": "Analytics India Magazine",
         "domain": "analyticsindiamag.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-clearview-ai-releases-20-version-of-industry-leading-facial-recognition-platform-for-law-enforcement.md",
-      "title": "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement",
-      "excerpt": "Clearview AI’s database now features more than 20 billion facial images Clearview 2.0 offers new compliance and investigation management tools for law",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20220325005073/en/ Clearview-AI-Releases-2.0-Version-of-Industry-Leading-Facial-Recognition-Platform-for-Law-Enforcement",
-      "originalUrl": "https://www.01net.it/clearview-ai-releases-2-0-version-of-industry-leading-facial-recognition-platform-for-law-enforcement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-25T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way.md",
-      "title": "This Cheetah Robot Taught Itself How to Sprint in a Weird Way",
-      "excerpt": "Researchers got the machine to run nearly 13 feet per second. It ain't graceful, but this powerful technique is preparing robots for the chaos of the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way/",
-      "originalUrl": "https://www.wired.com/story/this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/623cd76e57d4f7aedf2dbf66/master/pass/minicheetah_stand2-science.jpg",
-          "width": 1348,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way/amp",
-      "publishedDateTime": "2022-03-25T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

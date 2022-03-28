@@ -2,6 +2,153 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-03-09-natural-language-processing-nlp-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032.md",
+      "title": "Natural Language Processing NLP Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032",
+      "excerpt": "Growing demand for improved customer experience, increasing use of smart devices, rising number of choices in application areas are likely to drive the growth of natural language processing market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032",
+      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/Global-Economy-Russia-Ukraine-AFP-1K-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-09-in-an-evolving-cloud-world-azure-passes-aws.md",
+      "title": "In an evolving cloud world, Azure passes AWS",
+      "excerpt": "State of the Cloud survey finds data warehouses, databases, and containers to be the top cloud draws, with serverless and AI/ML rising fast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3652330/in-an-evolving-cloud-world-azure-passes-aws.html",
+      "originalUrl": "https://www.infoworld.com/article/3652330/in-an-evolving-cloud-world-azure-passes-aws.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/01/the_whirlpool_galaxy_m51_by_sloan_digital_sky_survey_cc_by_4-0_via_sdss-100784773-large.jpg?auto=webp&quality=85,70",
+          "width": 700,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3652330/in-an-evolving-cloud-world-azure-passes-aws.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3652330/in-an-evolving-cloud-world-azure-passes-aws.amp.html",
+      "publishedDateTime": "2022-03-09T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-09-the-future-course-of-process-automation-will-be-driven-by-ai-not-bots.md",
+      "title": "The Future Course Of Process Automation Will Be Driven By AI, Not Bots",
+      "excerpt": "Despite its name, robotic process automation doesn’t require physical robots trudging through corporate hallways. It’s the robotic performance of repetitive tasks with well-defined input and outputs—not unlike the coded instruction for factory machines—that gives RPA its name.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/09/the-future-course-of-process-automation-will-be-driven-by-ai-not-bots/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/09/the-future-course-of-process-automation-will-be-driven-by-ai-not-bots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f89f505db3eef289c346955/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/09/the-future-course-of-process-automation-will-be-driven-by-ai-not-bots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/09/the-future-course-of-process-automation-will-be-driven-by-ai-not-bots/amp/",
+      "publishedDateTime": "2022-03-09T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-09-ai-rudder-raises-50-million-in-series-b.md",
       "title": "AI Rudder Raises $50 Million In Series B",
       "excerpt": "The funds will be used to double its headcount, enable job creation for highly specialized and sophisticated roles in technology across the region",
@@ -1040,143 +1187,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-im-the-operator-the-aftermath-of-a-self-driving-tragedy.md",
-      "title": "‘I’m the Operator’: The Aftermath of a Self-Driving Tragedy",
-      "excerpt": "In 2018, an Uber autonomous vehicle fatally struck a pedestrian. In a WIRED exclusive, the human behind the wheel finally speaks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/uber-self-driving-car-fatal-crash/",
-      "originalUrl": "https://www.wired.com/story/uber-self-driving-car-fatal-crash/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6227f004f48a924e02bd4ee5/master/pass/Backchannel_fall_girl_new-7.jpg",
-          "width": 2400,
-          "height": 1801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/uber-self-driving-car-fatal-crash/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/uber-self-driving-car-fatal-crash/amp",
-      "publishedDateTime": "2022-03-08T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-storage-news-ticker-8-march.md",
-      "title": "Storage news ticker – 8 March",
-      "excerpt": "Real-time data company DataStax has announced a new Operator for K8ssandra, the cloud-native, open-source distribution of Apache Cassandra on Kubernetes. It supports multiple Kubernetes clusters, enabling organisations to easily deploy critical,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/cloud/learn/block-storage",
-      "originalUrl": "https://blocksandfiles.com/2022/03/08/storage-news-ticker-8-march/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1.cms.s81c.com/sites/default/files/styles/ibm_cloud_wide_background/public/2019-12-12/003_1.jpg?itok=75eiZEG1",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-08T02:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "blocksandfiles",
-        "domain": "blocksandfiles.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-treasure-data-cdp-now-available-in-aws-marketplace.md",
-      "title": "Treasure Data CDP Now Available in AWS Marketplace",
-      "excerpt": "Treasure Data announced its availability in AWS Marketplace, a digital catalog with thousands of software listings from independent software",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/treasure-data-cdp-now-available-in-aws-marketplace/",
-      "originalUrl": "https://enterprisetalk.com/news/treasure-data-cdp-now-available-in-aws-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/03/Treasure-Data-CDP-Now-Available-in-AWS-Marketplace-To-Meet-Growing-Customer-Demand-Globally-01.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/treasure-data-cdp-now-available-in-aws-marketplace/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/treasure-data-cdp-now-available-in-aws-marketplace/amp/",
-      "publishedDateTime": "2022-03-08T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

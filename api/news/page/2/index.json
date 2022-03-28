@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-25-clearview-ai-releases-20-version-of-industry-leading-facial-recognition-platform-for-law-enforcement.md",
+      "title": "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement",
+      "excerpt": "Clearview AI’s database now features more than 20 billion facial images Clearview 2.0 offers new compliance and investigation management tools for law",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20220325005073/en/ Clearview-AI-Releases-2.0-Version-of-Industry-Leading-Facial-Recognition-Platform-for-Law-Enforcement",
+      "originalUrl": "https://www.01net.it/clearview-ai-releases-2-0-version-of-industry-leading-facial-recognition-platform-for-law-enforcement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way.md",
+      "title": "This Cheetah Robot Taught Itself How to Sprint in a Weird Way",
+      "excerpt": "Researchers got the machine to run nearly 13 feet per second. It ain't graceful, but this powerful technique is preparing robots for the chaos of the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way/",
+      "originalUrl": "https://www.wired.com/story/this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/623cd76e57d4f7aedf2dbf66/master/pass/minicheetah_stand2-science.jpg",
+          "width": 1348,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way/amp",
+      "publishedDateTime": "2022-03-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-six-ai-trends-to-watch-in-2022.md",
       "title": "Six AI Trends To Watch In 2022",
       "excerpt": "Artificial intelligence isn't a new technology, but its impact is only starting to be felt, as businesses and individuals begin to understand the possibilities that AI can offer. AI is set to transform business like never before,",
@@ -297,7 +383,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -543,13 +629,13 @@
     {
       "path": "_news/2022-03-24-sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research.md",
       "title": "SAS and Clemson University deploy AI and machine learning software for education and research",
-      "excerpt": "SAS skills among students and supports analysis of massive datasetsCARY, N.C., March 24, 2022 /PRNewswire/ -- Clemson",
+      "excerpt": "Clemson students and faculty will have access to powerful data science and analytics software from SAS thanks to a new, $3.3 million donation to support teaching and academic research. Extending a 2017 partnership,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613",
+      "webUrl": "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -565,65 +651,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T08:58:00-07:00",
+      "publishedDateTime": "2022-03-24T08:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-fg-partners-computer-society-on-artificial-intelligence.md",
-      "title": "FG partners computer society on Artificial Intelligence",
-      "excerpt": "The Federal Government has indicated its willingness to partner the Nigeria Computer Society on Artificial Intelligence to boost the nation's economy.",
-      "sourceUrl": null,
-      "webUrl": "https://punchng.com/fg-partners-computer-society-on-artificial-intelligence/",
-      "originalUrl": "https://punchng.com/fg-partners-computer-society-on-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/2021/04/Isa-Pantami6.jpg",
-          "width": 750,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://punchng.com/fg-partners-computer-society-on-artificial-intelligence/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-partners-computer-society-on-artificial-intelligence/?amp",
-      "publishedDateTime": "2022-03-24T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -633,8 +665,10 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Education"
       ]
     },
     {
@@ -998,7 +1032,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1186,58 +1220,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-ai-visionary-and-leader-dr-jane-pinelis-of-the-us-department-of-defense.md",
-      "title": "AI Visionary And Leader Dr. Jane Pinelis Of The U.S. Department Of Defense",
-      "excerpt": "My Conversation with one of the most influential, inspirational and brilliant minds. As part of my Series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was honored to interview Dr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2022/03/23/ai-visionary-and-leader-dr-jane-pinelis-of-the-us-department-of-defense/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/03/23/ai-visionary-and-leader-dr-jane-pinelis-of-the-us-department-of-defense/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623bb5ab348e52b4ce4f1c96/0x0.jpg?format=jpg&crop=593,334,x0,y110,safe&fit=crop",
-          "width": 593,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/03/23/ai-visionary-and-leader-dr-jane-pinelis-of-the-us-department-of-defense/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/03/23/ai-visionary-and-leader-dr-jane-pinelis-of-the-us-department-of-defense/amp/",
-      "publishedDateTime": "2022-03-23T18:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://punchng.com/fg-partners-computer-society-on-artificial-intel
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-partners-computer-society-on-artificial-intelligence/?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Punch Newspapers
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Supercomputer to train 176-billion-parameter open-source AI language model"
-    excerpt: "GTC BigScience – a team made up of roughly a thousand developers around the world – has started training its 176-billion-parameter open-source AI language model in a bid to advance research into natural language processing (NLP)."
-    publishedDateTime: 2022-03-25T07:34:00Z
-    webUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=rt-9cs"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/03/25/supercomputer_language_ai/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/25/supercomputer_language_ai/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 57
-    images:
-      - url: "https://regmedia.co.uk/2015/07/31/shutterstock217132183.jpg"
-        width: 648
-        height: 429
-        isCached: true
   - title: "Chasing The World’s First Brain-on-Chip AI Computer"
     excerpt: "New project BayesBrain aims to build the world’s first computer that combines brain cells and silicon microchips. Besides being the most intelligent computing system ever, the brain is also very energy efficient."
     publishedDateTime: 2022-03-25T11:41:00Z

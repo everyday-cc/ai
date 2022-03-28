@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Insider Q&A: Ex-Google AI skeptic Timnit Gebru starts anew"
-excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence"
-publishedDateTime: 2022-03-26T10:01:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/insider-qa-google-ai-skeptic-timnit-gebru-starts-83685774"
-webUrl: "https://abcnews.go.com/Technology/wireStory/insider-qa-google-ai-skeptic-timnit-gebru-starts-83685774"
+excerpt: "When she co-led Google's Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry's approach to artificial intelligence. That was before Google pushed her out of the company more than a year ago."
+publishedDateTime: 2022-03-26T10:00:00Z
+originalUrl: "https://apnews.com/79cd13b50b51452d29963490b96815bd"
+webUrl: "https://apnews.com/79cd13b50b51452d29963490b96815bd"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Natural Language Processing
   - AI
+  - Natural Language Processing
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_3aa9eaa491ab41348e46ce734ce58463_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://storage.googleapis.com/afs-prod/media/3aa9eaa491ab41348e46ce734ce58463/3000.jpeg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
@@ -53,6 +53,6 @@ related:
       domain: mercedsunstar.com
     quality: 37
 
-secured: "z9ML+/tcgZU5+DEe3Ld3oCBxS9IigKmE++TIZqzxhDFBLOGLtOCywr2WCTaP1GitorCJefsN5lhwp+hbwsi+nUmJgpzD5D3KGc5ycS3SnUleXfrOHE4LEXKVw5S4vDhnBOTiQJCzPaNSYO4+CxdvRC4FntEoW/Pin4poDH73JcWtydDYUq/spaXCUrw2C0UOu+1rRCj6BtHlvRwEHTwJ4fLEeD9oubIshMt7OOYzZ2G4v2E9pU59dC+gjKfPjnSDod1XkPaa7h/LbNb4wFGp0Fw2Uc4CCAlqskBWlDIyhqW6+sucg3UQpKslWUluPE2zMWQzlSmZ8xzigBe3EgtTtFRZ3IjQEuo41XIlyvxFDko=;JCB1DXQNhbKDINiIEsKtDw=="
+secured: "VNOxS2BUC4rNe53kQaH4UqZlUZF+Ajk4t0uZv8vdxM2Tv+7HTCwwkfnrtLFeHS1HXg3syVeUXcIz5ll/ciYnhJS9tItkJqZpjBsATtugwHa+oYQZF+FKC8iltGghRen6zoLUsRPPtOY+Jk4WrJbBkqV0DvluRrxvGQzhG7Ri6fIrASZQ1LohFuRpEg69gXG1D+WTZDIH1eGS/Ucl0MbbbZKmuLKxJ/22K6hrYtUOxFksrRCcFI6wFQ/AnRI0slYz/wOd4i/jHDqbf/3R8+9+pKhuNfHCSBOXlODPyJrMwLdcRw1O9BGm7sdfcH+nsqYBwVFiJK+DuqGSgxpziiMswKVDOispTjlz6xJyjj4dNAQ=;rZoeNA2x91o3T+AqBV1y6Q=="
 ---
 

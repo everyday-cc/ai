@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
-excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),"
-publishedDateTime: 2022-03-23T10:10:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
+excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),"
+publishedDateTime: 2022-03-23T10:05:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
 type: article
-quality: 34
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
-  - AI in Autos
+  - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Diversity Is Key To The Future Of AI"
@@ -71,20 +65,6 @@ related:
         width: 800
         height: 296
         isCached: true
-  - title: "Do you think AI will be a psychologist for humans in the future?"
-    excerpt: "Artificial intelligence (AI) is influencing the future of numerous sectors, including psychology. Will AI, on the other hand, completely replace psychologists? Will AI help psychologists and their patients come up with long-term,"
-    publishedDateTime: 2022-03-23T07:38:00Z
-    webUrl: "https://www.linkedin.com/pulse/do-you-think-ai-psychologist-humans-future-sitaram-sharma"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGwZuM9KUpjdg/article-cover_image-shrink_720_1280/0/1648018324120?e=1653523200&v=beta&t=yXTDqQhvvGpfOi59QaQjqR9xN-AxhMTFqPV_kcVbmb8"
-        width: 1280
-        height: 630
-        isCached: true
   - title: "Overcoming the C-Suite’s Distrust of AI"
     excerpt: "Business leaders are often comfortable using AI for tactical purposes — but aren’t yet ready to bring it into strategic decision-making."
     publishedDateTime: 2022-03-23T12:25:00Z
@@ -128,6 +108,6 @@ related:
         height: 241
         isCached: true
 
-secured: "MfxQJEzu8hYsrFBmVb1WrHlLDliwYHkJOQSv1jaWf8J60b50w0JvQCjyGw/ErspZilrRbIKa2aQsC29iznZX8hYE1YuXJiy73DrCFFPvIN7sVaa65UFhJMUwLhEdw6M2J7xgKb55rbaUw0lumoUfpyhybKUs6DpmW9qJzkit/zQJC59QrKp0brh9CW51EZveLdiQ8f7bCOlqVSmWRZf4N37EekPTKn8ztCqU4Ft5qK6FDOd5IDt3yQWbhjdShZQUaAa8PhfYNy1eHttRRhhWdfycG3WEbQNfVT8wCVUuyyi22QrWvE9zM/ewedMVQYxRDL8YtawbMRYxe3S5N3x7djzU64GHmIk0nHCTF8LyW3k=;tmgf9ZgHIV4lTnqh5070bg=="
+secured: "fz9eM/ap7OUCvAIwLmWrHCZcNbcYLiSh8Lo5mGYL1WSFpGVsE+6tL+LFuuT9qEXLfacD2OhFy4u5TexQwtzv/bo0MxyqYuDYTr3ZZgd0CS9dzD+lJnEq5QQE/KKsuBXxgjTIO5YZ5nxHDHG8yYu4OkYY8rBiLQQfNts61UnETOEFGPJQDiukwR6tzY2R47c41WrsgVGzYGyJy79r9+J+OTSoDgfdDmNcWJ4a8A26MPb2+4u5IkFxvr6YWWc/XVN0pkk7qrjwKQ2ZZuB3gxle6s5fKInl8u25+rGpd5qvLh+AdxeQczdb7jekQnL81A29wY7ChY1iHjTS/y+o/fmEVFacoVQvEB0jT3yvMLxE1Bc=;SERgk6OOztxplejJkFaF3Q=="
 ---
 
