@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -153,15 +153,6 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 34
-  - title: "NVIDIA reveals next-gen Hopper GPU architecture, H100 GPU announced"
-    excerpt: "NVIDIA's next-gen Hopper GPU architecture launched, powers the new H100 GPU with 80 billion transistors -- the best for AI and HPC."
-    publishedDateTime: 2022-03-23T05:47:00Z
-    webUrl: "https://www.tweaktown.com/news/85197/nvidia-reveals-next-gen-hopper-gpu-architecture-h100-announced/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
 
 secured: "jhUbg4iodhPAzkMP6IIdl8yFIo0HYnoF5GbTqNCFTbUHmlxEa6tvaJv/kYcmEPU7COOSRauj1OFZtlRmT3SS29+VGtqueb4/HcD5kcebnOf7iQTUNwcGS7O817UblJedl34rCjhM8O4uVI1ts8h6dVEcZuYUveBOXTEGSf75aj3GDn3ZZ9KoX8NqIL1KfqFtZxhNYqVhfAAvrl0BcsuGLjjO5x21q7Z2tURNRdzsldZL2nMQxJI1ld7fzx3021TSn/kV1nN5WjgdLqlHGbMi5pydkaWAB7wzzBfCSRyQcOOEwAXyLGQ0GJeD2EiHHyuRQY666gv332i7wvYsalecitRwX6All2Imy28Es+KkgJHdYvaxpj1N6Ckbd5Um50mnBuG5ot8VYM6CWTL/vYRkfS27Vq9q6nK4UvJepZ0YKghmwQ3MyvfFZw9UVp4pi6LbBZLj0rTAEf+D+Oy1TO8xA+D2fz55Q7Rz6nOOCThjeMfIoj48poSfVq3tshCG6PdUflYan7Kgp5w6Wg95ze/bjQ==;Kt2JVazIC9NEohOysBfQMw=="
 ---

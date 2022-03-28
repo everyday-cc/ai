@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/f1cc2451-cf40-4482-b015-5c0763d3dc65"
 webUrl: "https://www.ft.com/content/f1cc2451-cf40-4482-b015-5c0763d3dc65"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ topics:
   - AI
   - AI in Robotics
   - AI in Healthcare
+
+related:
+  - title: "Summary of Kai-Fu Lee's AI Superpowers"
+    excerpt: "It called for greater funding, policy support, and national coordination for AI development. By 2017, Chinese venture-capital investors had already responded to that call, pouring record sums into artificial intelligence startups."
+    publishedDateTime: 2022-03-27T23:10:00Z
+    webUrl: "https://www.amazon.co.uk/Summary-Kai-Fu-Lees-AI-Superpowers-ebook/dp/B09WH2FZC7"
+    type: article
+    provider:
+      name: Amazon Associates UK
+      domain: amazon.co.uk
+    quality: 37
+    images:
+      - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
+        width: 350
+        height: 450
+        isCached: true
 
 secured: "XkAl9Lsyw6EqJBgSRKrHOX5eQzMDlMllbjVTBFbf9OGgeu7+b1XOjFqE6cGsWBseKQbVKQy5RauefLldc7TRqw7a8vkRrfjtQj+VHbunJ1G/CxbopvWZ7MKHgaxePf12+ZD68kT2P30xeACLFveIwtGRdr9zHcoa0wbqp1oaPx4A3nVd8Q2Hd2Zmx8X6dDQUNOO10rsPs+V6XPJO8kiaZkwtxoarrnlhNACclByD9LC3kZA0d4AY59geTayt/ZZBFTsR7IcSosD+mzwLHp8gjYjpDSRWCiuU9VibazaHPWSdWKmIp7WX/oJvgZWDiNdQqmQeh26jKtyC077BosFmSz7Qj+mS47eZH4mXMGHf4inKmQfH/VPArbhBeSixSC1HEA31Q9B7KPtLZ8Ft2UIKPJuKeQ1SxO4th+2p61/fgoEl06LLIlcSxc2zlm5NA+7oyxwM5VFlMpwNfnuLT6xnfebTa73p3rykXBnA1O+v1FoFkgGiw0e+2X9ZxwFnIipmF7EMvzftUZ1dZn6uOwvwFA==;uUYo1W3+7aCiEFmGUrS2gQ=="
 ---

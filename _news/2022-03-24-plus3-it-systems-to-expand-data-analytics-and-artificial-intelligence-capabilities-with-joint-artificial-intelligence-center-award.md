@@ -1,27 +1,26 @@
 ---
 category: news
 title: "PLUS3 IT SYSTEMS TO EXPAND DATA ANALYTICS AND ARTIFICIAL INTELLIGENCE CAPABILITIES WITH JOINT ARTIFICIAL INTELLIGENCE CENTER AWARD"
-excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial Intelligence Center (JAIC) for Data Readiness for Artificial Intelligence Development (DRAID)."
-publishedDateTime: 2022-03-24T13:28:00Z
-originalUrl: "https://www.lelezard.com/en/news-20303043.html"
-webUrl: "https://www.lelezard.com/en/news-20303043.html"
+excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial"
+publishedDateTime: 2022-03-24T12:50:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence/article_2d4a8a12-262e-52dd-af5b-a24bcacffdff.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence/article_2d4a8a12-262e-52dd-af5b-a24bcacffdff.html"
 type: article
-quality: 9
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -111,6 +110,6 @@ related:
         height: 720
         isCached: true
 
-secured: "Pz3OlIndcihvh/+Y4kBbKPiLAVqdGJKyKz6qbf7D5Ktv50GjB5dLLkFB/oRNtm5kWRu1m49SR2LmBvGZea+XqInBiAm508T7HcXTfu6O53dOYnDmL3epkH/eR9V50jwoLdyj6MaEzKFHdwWqjSTwXW96kAU7ByICJsYcyiqYbK1P22VbgmMcKv1pxp2SLQvVuGeXG2EtC/m20R8NMpU1M0TGzGeCzihh2i1cZ0oDLCErVAXG/Ht2MLLUXxMf0AyMfxr1o8f4DWf4kpT3ZwdQEtD2ZJrocFEy/ExdGTor95HGSMEdgVttKpuyUPCqOp+kIF6Yt+bRfWvnx17dmuPamZblNwp7nl1ODgHeKey0rfo=;1SwH5El8JF2aDoOBcIN46A=="
+secured: "xbKBm92G8ETG8mjlhdbxnwaSSWhp0QN20onIoWWXsQYFux/4/fYiUQLWi/VCjtgnrZrmb+nAMshdZzZJl9ysaYHwqwFLi2gWxNLhXG99qD7GichMNYdm9G0/RPBH4Va9GQh+PF0qW1hT69xc6lgB1BlK+zWFYilxLjxatLkQNrvqK5o3uwoWJvxfKgZ7N0Wb69v31v+DVpS+8p0oNwXvt7kAgLloJM1ZlUlDBx8J5ljP6Y3/tgzeFlbIBWML0RmtvGeyVFz2Dm2t6r9K4TBYmHxciSWZbGwgND0AO1bjs+LvoQ8/Cdva3gWKUz/wvwNlPb5QR+hsOw0SEVFqYHz57Sroy+5D+D4uAakiJipIQHc=;V/CREq1YGP1ByQRKh+gKJQ=="
 ---
 

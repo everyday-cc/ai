@@ -27,37 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Why you shouldn’t be using AI for hiring"
-    excerpt: "It’s virtually impossible to create bias-free AI recruiting tools. Here are strategies to mitigate the potential damage."
-    publishedDateTime: 2022-03-24T19:10:00Z
-    webUrl: "https://venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/"
-    ampWebUrl: "https://venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/amp/"
+  - title: "SAS and Clemson University deploy AI and machine learning software for education and research"
+    excerpt: "SAS skills among students and supports analysis of massive datasetsCARY, N.C., March 24, 2022 /PRNewswire/ -- Clemson"
+    publishedDateTime: 2022-03-24T15:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281172753.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://mma.prnewswire.com/media/1772498/Watt_Center_Clemson.jpg"
+        width: 400
+        height: 266
         isCached: true
-  - title: "The Ten Commandments For Using AI In Hiring Decisions"
-    excerpt: "Want to avoid a Great Resignation-type mass exodus of your workers? Want to win the war for talent in the automation age? Want to treat your fellow workers with the dignity we all deserve? Embrace the Ten Commandments in your organization now."
-    publishedDateTime: 2022-03-26T16:49:00Z
-    webUrl: "https://www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/"
-    ampWebUrl: "https://www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/amp/"
+  - title: "SAS and Clemson University deploy AI and machine learning software for education and research"
+    excerpt: "Clemson students and faculty will have access to powerful  data science and analytics software from ... Read more"
+    publishedDateTime: 2022-03-25T03:31:00Z
+    webUrl: "https://www.ecampusnews.com/2022/03/24/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: ecampusnews.com
+      domain: ecampusnews.com
+    quality: 62
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/623f3fae815938bb87ae6396/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 842
+      - url: "https://www.ecampusnews.com/files/2022/03/SAS-Skills.jpg"
+        width: 510
+        height: 355
         isCached: true
 
 secured: "TwvmdfKkcnUZ0NzSvihwQmT0rrLIA43nzx3MYeSv1S5RbBUTiLQc7OxWaY51RfeuID0by98bMKaemwQiylr9sw5M9vARk92HvG4eOek1u73b9J+OMQWN0E3tkkPBfPNZN4Zr73aCSP5BONxyQByvUIGFfWcxHzIIU5zOkIvkgsZsv3YTQw9eyHSwmDeBjaSc6NwGd96lPWpr7qHiS2DRehDjr4tYkEgwjeqiUe514I5QlzuXX20WNOWU7mjnqNuUzeO6WMpXCP3Pra/XE/m4iK549af9wvFfBsPurrZ1Ay2W7wm+LziSUuyYXXcuSuCLXiBFp41VPB1gaSOvXma01vXq6/6GWI+Ku3S1Gn9MN/w2XhnDem0hqZJPYihV0CjLSVLcC4J1ykJlxKrNM+vrf/ngDWzdv3xX2UXxbu4vkvuh4WiuYeNROm4ACMHRmFSH879rjplmNkOUnkWtoXOD6fXth92CDklH+MvdCSnzVmf0NS7qsB+zLGC03yGdxxo3F57tdx2i/3PwgdqV83iXTQ==;wbsQEMr50u2fVueGkGCJGA=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/brandfeature/the-business-reporter/main-hu
 webUrl: "https://www.reuters.com/brandfeature/the-business-reporter/main-hub/solving-the-problem-of-complex-document-processing-for-insurance-companies"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 4206
     height: 2366
     isCached: true
+
+related:
+  - title: "How Are Insurance Companies Using Artificial Intelligence?"
+    excerpt: "Insurance is a well-established and strictly regulated industry. As a result, insurance companies may have been slower to incorporate technology advancements than other industries."
+    publishedDateTime: 2022-03-24T07:57:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-insurance-companies-using-artificial-intelligence-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFC5E_XJZciYg/article-cover_image-shrink_600_2000/0/1648107550893?e=1654128000&v=beta&t=KjJyLVDAm8FhgQaN5hdsjV6iEsxQUNwazWDMTMzlXqw"
+        width: 1427
+        height: 596
+        isCached: true
 
 secured: "HItnIeTO+DzLkwgfP68id2RUSd20ymGW7eYXsqGuASx+u4MeITsgZeZ5+oYTvOkFyLRarnvnPWZbG8JBAkHvGRUIj4m+UZuFgHl4o945jgrYJbNDg2WDlXEjq4N670IQ8qci6rxLrmD8vdN1NvUzEbZRQYUaT9ACTNiMtzX+Df0I1tW2enKvsjtJUGvZTbF5LOai8CmKYeSmELKmgAchs9v+m9GT0ZwVbYtMy72TPStlmlyVyhO/yHKK86Cmkxu/te6Nqku93ZIBqV/chCpAt1ueJVjPUooEK/K6Q2BHRv5KVl3wttnPsk7ehXrhjLCNelsTzkNunPGzVsB6h6C44MohYEovLaGl2RiUtqXJvzc=;WskfMaz+1FamtcQxO2kKGA=="
 ---

@@ -36,20 +36,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 69
-  - title: "Nvidia announces Eos supercomputer, \"world's fastest AI supercomputer\""
-    excerpt: "Eos will offer an incredible 18 exaflops of AI performance, and we expect it to be the world’s fastest AI supercomputer when it’s deployed,” Paresh Kharya, senior directo"
-    publishedDateTime: 2022-03-23T06:02:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-eos-supercomputer-worlds-fastest-ai-supercomputer/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/dgx-h100-superpod.2e16d0ba.fill-1200x630.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "mDXQtRk46Fnqe2aHPjIpObd1b6jUzZzXuZwj8SJXCIOGF6/xNoAffxixFIgzrTCX7IHsG2PcdttQydaagdmNyzKgZSSuxxGJinh46HmtntxOkl4bNpDDSadq9zLxBZlIQwLBy+P8ZNwuLM5ag8vDKqm1mobalnnva62BJHl8ue3Vfvt1hrTpH1wVen7jpcbuEL/etIkkn+sHKFqzA/h4pRD/qZuogdnRTHxykN2mKlnQbmNajUk4KClie3mbcIs/nVBcZuyC5xu8hxqB3B96BjSipuMWdRb2CpvzNfPT16nXSdqEsczTJcdTZd3CJ6m5MubF0EWclZbg3l41eyKWtvsDtssiZNOulcDW0d5S8IVWioIY2NllflKfXnLBJ2brRcU4ry6sd4TzudLh+hFEvRl5VOTqInqvUMxOUcq+ddhE2myqYCeq6Do5MzH6jDMIWXWtVnxbC22OKOMUdwG6ibu26naUPm9zRp2y5I3LRPm/ciFWbs58dtU/0MuKmKV2hTXuXR7UIhEntW7PVFMAJA==;ROKfo/AdhHETwFSRiHmfYA=="
 ---

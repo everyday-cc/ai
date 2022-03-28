@@ -148,15 +148,6 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 34
-  - title: "NVIDIA reveals next-gen Hopper GPU architecture, H100 GPU announced"
-    excerpt: "NVIDIA's next-gen Hopper GPU architecture launched, powers the new H100 GPU with 80 billion transistors -- the best for AI and HPC."
-    publishedDateTime: 2022-03-23T05:47:00Z
-    webUrl: "https://www.tweaktown.com/news/85197/nvidia-reveals-next-gen-hopper-gpu-architecture-h100-announced/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
 
 secured: "H9EsbcH2K7W/i268PIrdi5CSGozNwyc0lnNtHr7iZhxYaa4FjFNacDkpgwMvrY1Fhpzi2La1cmYzHEotcuB/9C0qLXDknmdsc4yelyRurNa+QfTbsyPIzwRyhRa53C96mFn0z0jFniJl2HLRNATcJjaPkJUy3TZmUAEayR3O+yg3tTqw+I4yPEjYaF/FeX/4s8qUvbdHKEkfz2ZeSe7diVhk+vrxSpQFzdbtnzapXFJ/dPuJZ3MDOF0Ce8djfcULvtSACL6HG8AA8IIMmqVBQ4SIp8+OCd7S7hgr6uJQmjqIEzTCVv3IBJl8wCXe3jletayh7qoXpWXgR6ExYFEln0pOQNDViWlIuZHUyTK5yrw=;zbVCT/rTIem4Q+t9Ker26w=="
 ---

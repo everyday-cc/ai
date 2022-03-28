@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Insider Q&A: Ex-Google AI skeptic Timnit Gebru starts anew"
-excerpt: "When she co-led Google's Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry's approach to artificial intelligence. That was before Google pushed her out of the company more than a year ago."
-publishedDateTime: 2022-03-26T10:00:00Z
-originalUrl: "https://apnews.com/79cd13b50b51452d29963490b96815bd"
-webUrl: "https://apnews.com/79cd13b50b51452d29963490b96815bd"
+excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence"
+publishedDateTime: 2022-03-26T10:01:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/insider-qa-google-ai-skeptic-timnit-gebru-starts-83685774"
+webUrl: "https://abcnews.go.com/Technology/wireStory/insider-qa-google-ai-skeptic-timnit-gebru-starts-83685774"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/3aa9eaa491ab41348e46ce734ce58463/3000.jpeg"
-    width: 3000
-    height: 2000
+  - url: "https://s.abcnews.com/images/Technology/WireAP_3aa9eaa491ab41348e46ce734ce58463_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -52,6 +53,6 @@ related:
       domain: mercedsunstar.com
     quality: 37
 
-secured: "FhL/FCbgXMPIo+pNaEvJolINiYJkgu9hbziEsn4NSlRKzDNUyonSrq5OngmhoFFelcG/nTFDGldGYB8aDtOVXpDiCLxIn2PA8rtgDCre7k97DwNo3y/JwVkJnjha74WTOjWoG3tymXXaARkU1J1D8y6+9369WstSZZmesH8/iBco6zVk9ggcebEEx/rDU/aW1lPnA+SD3Vu+seGxYz35TpQXqsc3inY+jGmwrEWubC0tnHmxwYtfHdNNxRYrWa6AhWEtzariDoB+xZFSyDYvppHqSEsyj+d++3ZBmFAFfpPKTsgCzk/zY2T9Z2jCTJ8DwptDeewi8bqqxj4EAjIohLHGxlEuIjIIPHy0qbFogm4=;EyRBuHJ0IAySn91VlTrwDw=="
+secured: "z9ML+/tcgZU5+DEe3Ld3oCBxS9IigKmE++TIZqzxhDFBLOGLtOCywr2WCTaP1GitorCJefsN5lhwp+hbwsi+nUmJgpzD5D3KGc5ycS3SnUleXfrOHE4LEXKVw5S4vDhnBOTiQJCzPaNSYO4+CxdvRC4FntEoW/Pin4poDH73JcWtydDYUq/spaXCUrw2C0UOu+1rRCj6BtHlvRwEHTwJ4fLEeD9oubIshMt7OOYzZ2G4v2E9pU59dC+gjKfPjnSDod1XkPaa7h/LbNb4wFGp0Fw2Uc4CCAlqskBWlDIyhqW6+sucg3UQpKslWUluPE2zMWQzlSmZ8xzigBe3EgtTtFRZ3IjQEuo41XIlyvxFDko=;JCB1DXQNhbKDINiIEsKtDw=="
 ---
 

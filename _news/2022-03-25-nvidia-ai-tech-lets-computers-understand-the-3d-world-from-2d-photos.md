@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-ai-tech-lets-computers-u
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-ai-tech-lets-computers-understand-the-3d-world-from-2d-photos/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia announces Eos supercomputer, \"world's fastest AI supercomputer\""
-    excerpt: "Eos will offer an incredible 18 exaflops of AI performance, and we expect it to be the world’s fastest AI supercomputer when it’s deployed,” Paresh Kharya, senior directo"
-    publishedDateTime: 2022-03-23T06:02:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-eos-supercomputer-worlds-fastest-ai-supercomputer/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/dgx-h100-superpod.2e16d0ba.fill-1200x630.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "NVIDIA Instant NeRF tech converts 2D photos into 3D scenes in the 'blink of an AI'"
     excerpt: "NVIDIA Research has unveiled its latest AI technology, Instant NeRF. It is faster than previous NeRF models and can turn a series of 2D images into a 3D scene in seconds."
     publishedDateTime: 2022-03-25T20:21:00Z
