@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2022-03-28/self-driving-st
 webUrl: "https://www.bloomberg.com/news/articles/2022-03-28/self-driving-startup-zongmu-raises-157-million-in-new-funds"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -45,7 +45,16 @@ related:
         width: 540
         height: 540
         isCached: true
+  - title: "Self-driving Chinese startup Zongmu raises US$157m in new funds"
+    excerpt: "BEIJING] Zongmu Technology Shanghai has raised more than 1 billion yuan (S$213 million) in a new round as the Chinese autonomous driving system startup looks to build a new production plant. Read more at The Business Times."
+    publishedDateTime: 2022-03-28T02:10:00Z
+    webUrl: "https://www.businesstimes.com.sg/garage/self-driving-chinese-startup-zongmu-raises-us157m-in-new-funds"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 19
 
-secured: "1+EgUCoJhcfX3WLkvHlwC0lH5hUfHZlRxTTPP3RuQQlxWQAwtlFu3YCKRTOOfe5CBCRvBadeusNhrvG4LB0BNpBMBjk5rW10BJKhd9Uz6ZODMggcM68kBkuHYVahKf9490wXvQQFJNCe5Ov3WZUd46P8z06UmTM1l1dV62D72hE+8J0WJV8NaC2PpJrFOu8M6DVDAnc5SObMwcRlbP+9X2fn3lOjRLhifrxJssEZezrF2GF+xS6v7v6yd1FlQSfl8biMyVloirpNJmTj9S5WwcEhcQcE4sYJ+/L5NGrGchun65CAdpvw7pgo8OZRL73emrqduIkZvimbe/blbglTzy9A7maszvuolRWk9NrJYzg=;9yvDLigrzDNfcNYRQojGJA=="
+secured: "91olFd6ZDizkahM5EviWHz0EhWi98YA3ODtF9B2bDDk9plRJ7Pslz5HqxYSyFmP0HjWL1WQoDInZ+tqIg/QKlwDAA+mIUy19eTBRS+/hF5fk8iWLBc5WqQag6kRqSbJ/y2TgAGL7U7mySE45FmPEwpusX58jx0M61gkdU1D/c48Lqaic+SwYa4Wdeg8gRf0OONizFPHXAnhFUPHmPdIhp4Q5giBHudGhhwXp0TYUekhfwO/oCPLdPE9+naY08Lo+2ZTk1fqNxxaPIkRN7T8O/reb4uq4k1a5sDct0/nBwZCwXwidbhAKHDLGgi2fm6tvEJZAKo6cfcTmFRGcln9n9rPb8uOXQnjxz33zSUCw3dIYx2GjQmfVaciKvhPP5NA5KgLlbQSCuVQAY1niGE4tEaoT4zMCaHCDHYNRBBuOSXcmjMVBWqvnb6SzH0tA3K3Fgr+yNzCW6oRuAYsnreAdFkdvAk4maEhd4EBlM8D0HqVADmr3cwy7Fbh9/8EoC6+PguN7qDOPe0FJgan0GBHRhg==;tqSU3qkT6XcMjMsekFJIDQ=="
 ---
 

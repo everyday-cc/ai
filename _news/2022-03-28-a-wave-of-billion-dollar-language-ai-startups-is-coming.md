@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-doll
 ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/"
 type: article
-quality: 91
-heat: 101
+quality: 97
+heat: 107
 published: true
 
 provider:
@@ -24,6 +24,9 @@ topics:
   - Natural Language Processing
   - AI
   - AI Hardware
+  - Google AI
+  - Facebook AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6240e81218e4f5d1deaf91c3/0x0.jpg?format=jpg&crop=1744,981,x0,y49,safe&width=1200"

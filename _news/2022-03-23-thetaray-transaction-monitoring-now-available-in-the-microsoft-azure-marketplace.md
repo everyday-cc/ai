@@ -125,20 +125,6 @@ related:
         width: 620
         height: 474
         isCached: true
-  - title: "Microsoft and Nvidia to bring end-to-end protected GPUs to Azure"
-    excerpt: "Microsoft is working with Nvidia to bring confidential computing to Nvidia GPUs in the cloud; an addition to the protected CPUs already available."
-    publishedDateTime: 2022-03-23T10:33:00Z
-    webUrl: "https://www.computing.co.uk/news/4047082/microsoft-nvidia-bring-end-end-protected-gpus-azure"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 54
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/3a801bd/65d4a20b-dc59-42ef-aef3-e69d0d42fa60/3/nvidia-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
 
 secured: "GXBZnV0rE54xf1QkRcSENe8ty0U4n1TPp9iF01JaG7uJqVf/Fxz68EfnH6cAoSJj3H0/OX3TjkypAOxDCXobx6nG0s62Yr4MdPGQzct3Vq7Vizk2xlF0WB5Anilhi8rZ7snwPNNRO0eq8HRi7gTachNLM16oBRTDezDAaT6N8inGl3Dmp8d5MQP/oHgDbR/+SWZFUnpN5uHI1csWgUjzNFTM4/ZhrbgyIS+bpTpG8zojdj+4zeC4Q27/Y5+BM6U0vpAFEwzC+nuktkp4JSM3SXcOkD6HtGYaiueK0/sR+L5jHgQCo7AQ2ro2mpAMY7Q7PLyVDOLt3LFvZqkIw+U2aH1ah7w5UDN5dM5VY9fHIKE=;fuTbN67R+MVjTs71XyrgLg=="
 ---

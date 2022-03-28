@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Leveraging its AI-Driven Technology, Pactera EDGE Climbs Four Positions on Slator's 2022 Language Service Provider Index"
-excerpt: "Growth in its AI-Enhanced Localization and Globalization Services ... Provider Index is a ranking and an index of the world's largest translation, localization, interpreting, and language technology companies. \"We've experienced significant organic growth ..."
-publishedDateTime: 2022-03-24T18:12:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service/article_9e4966e0-a8b8-5215-a906-c97477c8b704.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service/article_9e4966e0-a8b8-5215-a906-c97477c8b704.html"
+title: "Leveraging its AI-Driven Technology, Pactera EDGE Climbs Four Positions on Slator’s 2022 Language Service Provider Index"
+excerpt: "Enhanced Localization and Globalization Services Solidifies Pactera EDGE as a Market Leader in Effective Brand Translations"
+publishedDateTime: 2022-03-24T18:40:00Z
+originalUrl: "https://www.digitaljournal.com/pr/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service-provider-index"
+webUrl: "https://www.digitaljournal.com/pr/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service-provider-index"
 type: article
 quality: 14
 heat: 14
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://www.prunderground.com/wp-content/uploads/2022/03/SLATOR-LSPSI-Image.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
-secured: "H+EZ8SH+/pifpqacaI0rbMEMjBsoX5VhCOGihn+dOmwYRYzZM497wENyqpFUZDQdIEp/M0rXwfeG0evQ1IjFRQ3/ZKcjthnJ8c/ZtTfg2N8G6STUpGqJS7HEIRUr0i5NLTCOqFrJYdOrsp3qLg0suOvzHmg/kGENfBMjz/TOBleKycg0iOfZvv02E4RLX4BOvcsXHjmcbWV3y3ljC01UenM2ISku6xuRiJmGkhobobNIr1qPWvJPeAlhLBLbSJ9wG/PW22sAC9Nu7NP8uUQLz4yVtOXVZTVlWZBEHVozIHUDhZLgaDQqubdIYWVK1IBWexrBEGbQXiN9ZqSAA0lKfAQhOe2umCy7Dx/9w7/e0KXiWpcrQO4qsBt3BaUkoLMiBcpy8f1sOodQjhzkIW3uqFMaH/XCwrNUE8mzuo7LBYgitzdOhfn4jjfRO0yudMUH2C8FGXlZBF7ne1F1VL2gspukecqLa0k1rMioBgL1YlAD8ZV9fN4lSlnQ4PvsKkVd5qbcCnj79gUQGD37YGpwSw==;2qZzTjBYmPbyBH8bU+Fxjw=="
+secured: "hH96GL31hsKzvFucPeySxB3nrAsTFTSMRAanFEUJv18VRsLC5dKlxdtXLjuXxH+48jJE8xCDRbNBFUyOZIdYEwRuA8UhmwPWt8KYSWB/ehuZlP+4yY0WzeHhGEEhL9jtGJVgsie0VbupLC7cxrG+5RxrXchFGwaZoQ9RRPLK2Bvoy2xQ9uS5HNupIvPMSoz05+UkSV3rQcch9BfC2YEbtyV4d1X95hekiynPu2Oatxb71nhWPkFw483P6bJyttkdychXB2/nOmb5mh/gmRMXMt0JiDUB7/Ah1oC0PiMcI5rmdM+9tfYRtoaNasPUgF8POP2PJ7aYDJJ7InuiK35bbd1rS+P+5tOJ6qq5DSBhIOg=;C8BJ0yt+AH4UyI16NK0IYw=="
 ---
 

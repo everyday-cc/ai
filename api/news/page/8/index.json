@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-03-17-across-china-speech-recognition-software-helps-tibetans-better-communicate.md",
+      "title": "Across China: Speech recognition software helps Tibetans better communicate",
+      "excerpt": "What helped them conquer the language barrier is a speech recognition app on the smartphone that can convert the three main Tibetan dialects -- U-Tsang, Amdo, Kamba -- to texts and translate them into Chinese.",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202203/17/WS6232d8f8a310fd2b29e51891.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202203/17/WS6232d8f8a310fd2b29e51891.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://global.chinadaily.com.cn/images/202203/25/623d95e6a310fd2bec7e6ada.jpeg",
+          "width": 719,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T00:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-tcs-recognized-as-a-leader-in-gartner-magic-quadrant-for-global-outsourced-digital-workplace-services.md",
       "title": "TCS Recognized as a Leader in Gartner® Magic Quadrant™ for Global Outsourced Digital Workplace Services",
       "excerpt": "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS) has been positioned as a Leader in the Gartner Magic Quadrant for Outsourced Digital Workplace Services (ODWS) .The report evaluates the Ability",
@@ -1042,49 +1085,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-predictive-oncology-applies-artificial-intelligence-to-the-research-and-development-process-of-personalized-cancer-therapies.md",
-      "title": "Predictive Oncology applies artificial intelligence to the research and development process of personalized cancer therapies",
-      "excerpt": "Predictive Oncology Inc is a knowledge-driven company focused on applying artificial intelligence (AI) to the research and development process of personalized cancer therapies, which can lead to better treatments,",
-      "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.com/companies/news/976991/predictive-oncology-applies-artificial-intelligence-to-the-research-and-development-process-of-personalized-cancer-therapies-976991.html",
-      "originalUrl": "https://www.proactiveinvestors.com/companies/news/976991/predictive-oncology-applies-artificial-intelligence-to-the-research-and-development-process-of-personalized-cancer-therapies-976991.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzAzXC8yMDIxLTAxLTI5LTE2LTAxLTE4LTBmYjQ3OTQwMjlmNzU2NzY2ZDYwOTZjNzZhMzRmNDFmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ==",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.proactiveinvestors.com/companies/amp/news/976991",
-      "cdnAmpWebUrl": "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/976991",
-      "publishedDateTime": "2022-03-16T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactiveinvestors",
-        "domain": "proactiveinvestors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -103,20 +103,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia reveals new Hopper H100 GPU, with 80 billion transistors"
-    excerpt: "Nvidia has announced a new GPU based on its upcoming Hopper architecture. The Hopper architecture replaces Ampere, which has more than $10 billion sales to date. The H100 GPU is the first chip based on Hopper,"
-    publishedDateTime: 2022-03-23T09:59:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-reveals-new-hopper-h100-gpu-with-80-billion-transistors/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/H100_Hopper_GPU.2e16d0ba.fill-1200x630.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nvidia RTX A4500 workstation GPU review"
     excerpt: "In our GPU rendering tests, as the role of the CPU is minimal ... 3rd Gen Nvidia Tensor cores for AI and Machine Learning. 2nd Gen Nvidia RT cores which are dedicated to ray tracing. Different applications support these cores in different ways."
     publishedDateTime: 2022-03-25T10:19:00Z

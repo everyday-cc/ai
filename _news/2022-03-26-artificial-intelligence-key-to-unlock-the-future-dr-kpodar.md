@@ -98,15 +98,6 @@ related:
         width: 300
         height: 241
         isCached: true
-  - title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
-    excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),"
-    publishedDateTime: 2022-03-23T10:05:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 14
 
 secured: "8dJRtKRCezTevFoWCxJ0goQb/PZOEflPUwI7efWJjWZ4YjcOZCcfM+gj4MwloQwIcCm3EGRiM9ADeHsgNbtFK1xiczRZMN0ps4m2cRnuZ4xdEr/mCB6YrOZ88PGQmaOtQ/gt0TVCunBYaSOv9trEbcKGPyoxSXiLGzm/dvekBku2XRUQOu2UThC3GjrOHRSeGGE/pJ2RHat1FxLpH0M6lPXoSJuSfa3nD63NGUP8fRcsSIORW9OT6hdPq70Ct1mhw0bXIPROCyRKCfte8sSdV1nqWRzc453pyQDjubKYwm++Flg/VANOJnCw26Pv8Og+JyvicNj0bp5y8r10AhVXjXgqFQvE4YUX0cFXOQe2nlE=;4LU6HRZzArrL1qLQygVgpQ=="
 ---

@@ -118,20 +118,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Microsoft and Nvidia to bring end-to-end protected GPUs to Azure"
-    excerpt: "Microsoft is working with Nvidia to bring confidential computing to Nvidia GPUs in the cloud; an addition to the protected CPUs already available."
-    publishedDateTime: 2022-03-23T10:33:00Z
-    webUrl: "https://www.computing.co.uk/news/4047082/microsoft-nvidia-bring-end-end-protected-gpus-azure"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 54
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/3a801bd/65d4a20b-dc59-42ef-aef3-e69d0d42fa60/3/nvidia-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "ThetaRay Transaction Monitoring Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to the SONAR AML solution to take advantage of the scalability, reliability and agility of Azure. NEW YORK and TEL AVIV, Israel"
     publishedDateTime: 2022-03-23T12:14:00Z

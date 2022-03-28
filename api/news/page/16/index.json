@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-03-09-ai-is-helping-treat-healthcare-as-if-its-a-supply-chain-problem.md",
+      "title": "AI is helping treat healthcare as if it’s a supply chain problem",
+      "excerpt": "Global health groups are turning to supply chain software to help patients get better access to treatment and testing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/03/09/1046976/ai-is-helping-treat-healthcare-as-if-its-a-supply-chain-problem/",
+      "originalUrl": "https://www.technologyreview.com/2022/03/09/1046976/ai-is-helping-treat-healthcare-as-if-its-a-supply-chain-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/03/AP_20120422071117.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/03/09/1046976/ai-is-helping-treat-healthcare-as-if-its-a-supply-chain-problem/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/03/09/1046976/ai-is-helping-treat-healthcare-as-if-its-a-supply-chain-problem/amp/",
+      "publishedDateTime": "2022-03-09T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-03-09-natural-language-processing-nlp-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032.md",
       "title": "Natural Language Processing NLP Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032",
       "excerpt": "Growing demand for improved customer experience, increasing use of smart devices, rising number of choices in application areas are likely to drive the growth of natural language processing market.",
@@ -1135,58 +1178,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-this-app-can-diagnose-rare-diseases-from-a-childs-face.md",
-      "title": "This App Can Diagnose Rare Diseases From a Child's Face",
-      "excerpt": "In 2012, Moti Shniberg sold his face recognition startup to Facebook and started looking for a new challenge. “We wanted to take our expertise and do something good,” he says. Then he met the head of a medical genetics center, who explained the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/app-diagnose-rare-diseases-childs-face/",
-      "originalUrl": "https://www.wired.com/story/app-diagnose-rare-diseases-childs-face/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62211b214c3ecf8a19eb6d10/master/pass/Business_Glass%20DNA%20Structure-1133773271.jpg",
-          "width": 2400,
-          "height": 1595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/app-diagnose-rare-diseases-childs-face/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/app-diagnose-rare-diseases-childs-face/amp",
-      "publishedDateTime": "2022-03-08T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

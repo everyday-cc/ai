@@ -7,7 +7,7 @@ originalUrl: "https://physicsworld.com/a/machine-learning-makes-its-mark-on-medi
 webUrl: "https://physicsworld.com/a/machine-learning-makes-its-mark-on-medical-imaging-and-therapy/"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud migration for medical imaging data using Azure Health Data Services and IMS"
-    excerpt: "This blog is part of a series in collaboration with our partners and customers leveraging the newly announced Azure Health Data Services. Azure Health Data Services, a platform as a service (PaaS) offering designed exclusively to support Protected Health Information (PHI) in the cloud, is a new way of"
-    publishedDateTime: 2022-03-23T10:00:31Z
-    webUrl: "https://azure.microsoft.com/blog/cloud-migration-for-medical-imaging-data-using-azure-health-data-services-and-ims/"
+  - title: "Catching up with deep learning in spectral imaging"
+    excerpt: "In recent years, deep learning has shown its power for science and application, and spectral imaging is not an exception. When spectral imaging equips with deep learning, it can make ..."
+    publishedDateTime: 2022-03-25T15:09:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/947692"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/787e5f5b-7eca-4ebb-9a78-ff529f3e28ce.png"
-        width: 640
-        height: 464
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/4c61e309-22ee-403d-bd25-f8be67f6b08b/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 243
         isCached: true
 
 secured: "xOc1zZUGFd8cl8hms/Nd7qgiCdM4P0iYsUbh6dMzWy4AO/+gEwHI6xsIdbWMNltRpFZgnuKBTjVr55vm7hHAXVd0L6ImIN+//d8PMWM1XeBLU30MQE4F3VpqREj6eKTwrlz9Nq/V9q6lnyTSccIsg7BU73ndj2rA6CIHknm5VcGVvn4oE2Lvd+b8z+B2VHHf4kFdAcB1QlkHu0ooF+Ns1PLgnzWIg7X0PDHnYqeGRSNdtURFp7q+mmiY80y36Sg3y0qX8vqxM6VEiYN7xS8TB7FehT2QJcqZ4M7j/bU0OI4XFnkRiCgFHgPP0uDMqE2R2He70TwbLgaSVqAhERt3qxF1eQ1cBTLATE/ztGkH3c0=;07UEFlDXikvqGug2367RAw=="

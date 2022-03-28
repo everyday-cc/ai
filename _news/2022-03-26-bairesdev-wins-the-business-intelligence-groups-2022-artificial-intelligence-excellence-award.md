@@ -1,27 +1,26 @@
 ---
 category: news
-title: "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award"
-excerpt: "The Business Intelligence Grouptm today announced that BairesDev, a leading technology solutions company, is a winner in its Artificial Intelligence (AI) Excellence Awards program. The award highlights the company's efforts to build new tools,"
-publishedDateTime: 2022-03-25T17:31:00Z
-originalUrl: "https://www.lelezard.com/en/news-20305538.html"
-webUrl: "https://www.lelezard.com/en/news-20305538.html"
+title: "BairesDev wins the Business Intelligence Group’s 2022 Artificial Intelligence Excellence Award"
+excerpt: "The award recognizes BairesDev’s AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
+publishedDateTime: 2022-03-25T17:18:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
 type: article
-quality: 42
-heat: 42
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -41,31 +40,17 @@ related:
         isCached: true
   - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
     excerpt: "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program."
-    publishedDateTime: 2022-03-25T23:09:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=637410"
+    publishedDateTime: 2022-03-25T20:09:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 39
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Qlik’s Elif Tutuk Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that Elif Tutuk, Vice President of Innovation and Design at Qlik®, was named a winner in its"
-    publishedDateTime: 2022-03-24T12:31:00Z
-    webUrl: "https://www.kentuckytoday.com/news/business/qlik-s-elif-tutuk-named-winner-in-2022-artificial-intelligence-excellence-awards/article_ffd0e99d-89bd-5ce3-b8d9-e08e8628db8e.html"
-    type: article
-    provider:
-      name: Kentucky Today
-      domain: kentuckytoday.com
-    quality: 34
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
     excerpt: "Artificial Intelligence Excellence Award. EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligen"
@@ -77,6 +62,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "caBdNooJJSi8t6TBefv1yfkzjYeEW2AprxQ5US9JNzNMmB/CBHtOcXA8SXZQohsu/2VsPBErbDp0ovl9TcRB7XoYIgh8wKfiopUHfzw1wGM94kqu5mBxnxvmrdMjIP3FEK1elnLoxmCyHnrFCoVqp95Mq9467Oq2hBpUoeEs0d8O60O4s7OXEq1h7Fyjs2Bj7X4sQn3hi0pZfdRa/hAafc76k8GzNDJrhTLZ5p2o4deuSaYTd+ZzvpSSiG0k46AzOBBGKax7L1F0jxRORsM7v1pqdaeOuqYhpp6c8baPHO8V+gMMbMboRKNOZmZfCBzaJ5sMQOtOJDQfXViBJkBds8LAd0l7BUQ3Y77iqqBIyQs=;OfaakW6kLc4TyhgauoeSig=="
+secured: "2FKEaK4IhedYTd/PG25lsh+4lvMgX49Frgz74OxxUiHBZsiZHOCOjWTXvq8bmzkywURYG0FYWJAowZLZT1FeijKTa+/yuJJjAeEsJFTQmZtq7BE1yyssNd3ddCDRj9hmagAQiDiGocwzaBzmzfQBYHMuQTD9Wl8lrW/kC6MJ4KXkQAS4YO7NeArky68uksOEPNEHK3g0IJ9YaU4zInlAgBjcIK0gcxduHQKg3UvM+TEJJDfM9wiDNlcjZ6E2V/pV7+wCWqJJPyge8Y0/0rFzDamVa3E5Ei/L1QdTQqj8qUwich1y5xW9jgCFpMN093jfMS6bWN9azy0NDasSG3jpRrKezixYFtt9opqa8LUe3lo=;pre4C9ey99bxUnkZgZcWRw=="
 ---
 

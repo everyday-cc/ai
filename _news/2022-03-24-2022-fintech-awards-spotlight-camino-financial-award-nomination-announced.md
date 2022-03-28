@@ -43,20 +43,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "IC Tech Acquisition Spotlight: Artificial Intelligence"
-    excerpt: "The U.S. Intelligence Community is targeting artificial intelligence technology as a critical need for federal agencies in the digital age. Artificial intelligence, or AI, was included in a list of high-priority science and technology needs in the Office of the Director of National Intelligence’s recently published S&T Investment Landscape document for fiscal years 2022-2026."
-    publishedDateTime: 2022-03-23T09:48:00Z
-    webUrl: "https://www.govconwire.com/2022/03/ic-tech-acquisition-spotlight-artificial-intelligence/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 37
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2022/03/00P4y000017uVb1EAE.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "f7GDiwpCgdYoCFaaScqZZT1STnT/0OIY4YDVpRKv2MGqDcrc67t20GwD1+ZoYq1RI2QtQVh59Z7r75Ly0W/BAgt38XZNzswZ0A+T9rCBbUmDuFYLE5+TXXnQ/1Op3O0cjMNYwjcNIHY6uVRtAu0ETJulvoYi8yGwFQnMwoHkxxoIEHgkDL5V8vGAsCaBICthzET2c/Ne4eWfzXD3NAvnARwyJQnAqnuLlqD3PwVzMCd3cAs5x6NXtPAsd/mTvrIWa4BEsRnfVBCG/+mZpUR5OET8AJzRRr44mjXQHZrrVDC+0ABmq3u27pYbnjsTPtcv6OpRXCCzHOO+51AuXJHBdth+tbLWdDZloPDZpS171fo=;Y7V7iTgvUQf9MVuQ9aNjjw=="
 ---

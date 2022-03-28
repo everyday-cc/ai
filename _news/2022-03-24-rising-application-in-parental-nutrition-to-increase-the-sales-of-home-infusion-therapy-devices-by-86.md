@@ -25,22 +25,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Key Applications Of Machine Learning In The Insurance Industry"
-    excerpt: "Data is the foundation of every machine learning algorithm, and the insurance sector has been collecting data from numerous sources and using that to"
-    publishedDateTime: 2022-03-23T09:13:00Z
-    webUrl: "https://www.cioapplications.com/news/key-applications-of-machine-learning-in-the-insurance-industry-nid-9552.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/fc8dkapplied450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
-
 secured: "jdr1RiCgGnvppmZHIkeWQY8RAPhCvjoRBa7IfFEfruaFZXJgOgAI4je4rN5Uip0ROKXG0IJmXx1QMXq25INoF5+7xJuG5zLE9ibc6H0TkGZFVvK9PVPa5fuzZqpZrzPuEC523P3dYV+bv4r39IUTfeGkoRxRhp4Kl/CpyoGAql4u2ZwJ2T5OXdw+1MpY/UzDAT3fcFefXqXgTh7Er7HGMjlzRIIpmsfnKp3OoFpvnptBG1Rbuzq8IwrTBd7/AikB+C2Glc/GfpVGtw6FjdxVXeMFbfc1Ggz0TAfvCQZ9+skp9xTH7YiMFKUtMqxMto3gK4My4JZTkucHcdUCCPIWDGxvEfARgN8/16s8y4h8YFY=;wL0IPp62ouclCUTFRuyFWg=="
 ---
 

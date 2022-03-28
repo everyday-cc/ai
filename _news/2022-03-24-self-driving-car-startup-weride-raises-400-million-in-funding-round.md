@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Self-driving Chinese startup Zongmu raises US$157m in new funds"
+    excerpt: "BEIJING] Zongmu Technology Shanghai has raised more than 1 billion yuan (S$213 million) in a new round as the Chinese autonomous driving system startup looks to build a new production plant. Read more at The Business Times."
+    publishedDateTime: 2022-03-28T02:10:00Z
+    webUrl: "https://www.businesstimes.com.sg/garage/self-driving-chinese-startup-zongmu-raises-us157m-in-new-funds"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 19
 
 secured: "B0R+GSsr1eAfBS8st/OkyrmBCjm5Xijh815zSqU5+DjpQbdAoBuTGvODLUDOIwtDpQasQa0UdVSbfN54dr6fhbB0/cIOhw4c5YJLaKh0ze+tWW5zGpo0ljU7bRt1xeu/lHWmUASr2ZM+mTc0FwrenCkK54b4YF7tGHD3mJKhAuF18KrqPOrnNTkfj7a2sklGl43UkRNyjOXYZ0aUfs6AJns+j3GyLx9Fq7GCNb1Iw9XCkkIc5x44xaQhr6hdxfHU3ojVzpQbeW+btLk5dWJioLRWyDS/ZkPVIP4AFvz2b/hoN29AD1Qs2WDbGjXpG6zoFv+vrsiAvjhnjuSDpGZ/ABcjWySGZZk9cMkglcP4Jzv1Udlwivw+Z5Vpv4FD4XIwSVG6ufzXlmH1EBI9SCWv2T93P7tL39gmH2zIa2pKUpa70IH/ygSh/cRkrqW6/XerzLKhXjqNaeuX0B+Y2Su2pFPwVDbDQGEMTtFovUOagbhQ1JcOVRncznBn/YwTmImdbYxDuvf9wcWqfKW2OF2o9g==;cP9DLHI4idGlz2e6us5ZWA=="
 ---

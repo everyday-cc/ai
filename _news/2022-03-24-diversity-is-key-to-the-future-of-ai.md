@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -102,15 +102,6 @@ related:
         width: 300
         height: 241
         isCached: true
-  - title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
-    excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),"
-    publishedDateTime: 2022-03-23T10:05:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 14
 
 secured: "9j9owqQuooBZjswrei+J5Hm5xH9HXemP5bHQ+h+xH/jFCxe8sqUUFqLycHuNjws497coyCT9aMHwRGMxdA5kYlhcBuThkgIIssUg2ca7dWee4utyyjuzTE/pidG7Ydbl/mfRIii6rigUx8vk1FS354Udq44IK3ZyR87PvqMyluFTls06y/N0K3fd/wcZwv0UFYv1TG1mV86LV1224JFvc8nr7XHXBDm62PcDRbDrtFKTEBy/I+5k/D9XDKWHiLhooEHZIA6YTJV+SOye7rA8AuCxKkj4Pd5gVorXta8g2IPSqHKmonvWy9ZOhSbGXL8wxT/R6WwZwcn1rAxj+poyteV2n/Y+AiuKObdBdWlJ5n8=;gJGbeLkD6ino18VpA31+Jg=="
 ---
