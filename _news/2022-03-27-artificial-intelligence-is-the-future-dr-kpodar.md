@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial Intuition is the Next Phase of Artificial Intelligence"
-    excerpt: "This reduces the problem-solving power of artificial intelligence in dealing with new events. There is no denying that AI has made it easier for humans to predict the future. But, dealing with future events,"
-    publishedDateTime: 2022-03-23T17:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/420776"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1647376951-GettyImages-1327016094copy.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Artificial Intelligence key to unlock the future - Dr Kpodar"
     excerpt: "Artificial Intelligence AI use of simulation of human intelligence in machines that are programmed to think like humans and mimic their actions has assumed national discourse and Ghana must prepare to launch in that space."
     publishedDateTime: 2022-03-25T20:54:00Z

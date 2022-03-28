@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft continues its push to convince more game developers to use Azure"
-    excerpt: "Microsoft is targeting game developers with a new Game Development Virtual Machine and its ID@Azure program, which is generally available as of today."
-    publishedDateTime: 2022-03-23T15:15:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 102
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/45b4e96e6d7f77ec3908f32d51722ee3ca4d3a17/2022/03/22/a4f977f6-3561-4d80-bea7-bd0d86039d14/microsoftgamedevtoolsazure.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 585
-        isCached: true
   - title: "Microsoft boosts its AI translation capabilities"
     excerpt: "Unlike previous AI models, Z-code models utilize a ... As such, the models learn to translate between multiple languages simultaneously. At the same time, newly introduced Z-code MoE models ..."
     publishedDateTime: 2022-03-24T06:07:00Z
@@ -56,22 +40,6 @@ related:
         width: 610
         height: 344
         isCached: true
-  - title: "Microsoft, Nvidia extend Azure confidential computing to GPUs"
-    excerpt: "Microsoft has linked up with Nvidia to enable confidential computing in its Azure cloud to encompass the graphics giant's GPUs. This will allow GPUs to process workloads on Azure that call for the highest level of protection,"
-    publishedDateTime: 2022-03-23T15:06:00Z
-    webUrl: "https://www.theregister.com/2022/03/23/microsoft_and_nvidia_extend_azure/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/03/23/microsoft_and_nvidia_extend_azure/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/23/microsoft_and_nvidia_extend_azure/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 74
-    images:
-      - url: "https://regmedia.co.uk/2021/05/25/azure.jpg"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "Newgen Utilizes Microsoft Azure Applied AI Services for Enhanced Automation"
     excerpt: "Newgen Software, a global provider of low code digital transformation platform, is pleased to announce integration with Microsoft Azure Applied AI Services for enhanced automation, and support for Azure Form Recognizer for intelligent document processing."
     publishedDateTime: 2022-03-24T22:51:00Z
@@ -85,6 +53,34 @@ related:
       - url: "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1648161116/press_release/assets/company_logos/Logo_square_ffrue0.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Baker Hughes Expanding Industrial Cloud-based Solutions with Microsoft, C3.ai"
+    excerpt: "Oilfield services (OFS) giant Baker Hughes Co. is partnering with Microsoft Corp., as well as C3.ai Inc. and Accenture plc, to deploy industrial asset"
+    publishedDateTime: 2022-03-25T19:15:00Z
+    webUrl: "https://www.naturalgasintel.com/baker-hughes-expanding-industrial-cloud-based-solutions-with-microsoft-c3-ai/"
+    type: article
+    provider:
+      name: Natural Gas Intel
+      domain: naturalgasintel.com
+    quality: 51
+    images:
+      - url: "https://www.naturalgasintel.com/wp-content/uploads/2022/03/Microsoft-Corp-20220324.jpg"
+        width: 612
+        height: 612
+        isCached: true
+  - title: "SparkCognition delivers Visual AI Capabilities across industries with acquisition of Integration Wizards"
+    excerpt: "Through this acquisition SparkCognition expands its IP portfolio to include computer vision capabilities bringing greater value to its industry solutions and"
+    publishedDateTime: 2022-03-28T07:19:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272428308/sparkcognition-delivers-visual-ai-capabilities-across-industries-with-acquisition-of-integration-wizards"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 22
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "wR7S6YNcATrMZ93jypOh5M3GauiO+Ysyqx7GULyxjcWrjcH486O/7cvwjP5y/8Zk5yrDzuTtxr3peF/0b1lA3rEr2vvex/uSauEkuDJT0YOgiNXzsvEnmOggUPcL0AXzD/lABRU3AV3v5IwkfURNM4+XutNrf1ZGakxws5GWMvDfA9/ObmNpwkZjYgPSbRGVlq/EHfwbXsmUQJ3vkeotSjzXgjHga2dPwAKsq3ZPI6Xzhg9H3YL+A2ZrYSjlvqBZGbpJiWnDAlPX9dvuYrF2cdxy0+GpqlJqiPZmpchCEHIpanN0nZR6jkT4b5toZKR1b0HYkKQWRbwu8/sf3p/1YBG8YAU+AFe8qQjzKs5YmLeTkcwu9XrchZBjaIkReYxhLuFP7LorFn/7DY/Ce5JB+t/frH8234A0h6TbLjpAqWu6nbORvTEPxOCFOq5r3OrDKPIC52OpXw+tAxjYEGEq9i1FZKBAap+XlRdaI0+D1TVGV6tA98EWo0lsQIf30LnE1zEePCPPQGKAmNaor63G5A==;xPL0Mwb16FBjznpXn1bFQA=="

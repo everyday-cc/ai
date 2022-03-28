@@ -24,22 +24,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Transforming Customer Experience through Artificial Intelligence"
-    excerpt: "The Changing Nature of Customer Expectations Increasing adoption of digital technologies by consumers has led to a newer set of expectations, where customers demand an exceptional experience in their channel of choice,"
-    publishedDateTime: 2022-03-23T20:30:00Z
-    webUrl: "https://www.linkedin.com/pulse/transforming-customer-experience-through-artificial-shiwanand-pathak"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEVwnP7RHi5LQ/article-cover_image-shrink_600_2000/0/1648066446395?e=1653523200&v=beta&t=L-bYXAYDuJd7x5fLXm9dxcPJPUaLldq1fkDrU9fe35A"
-        width: 1280
-        height: 504
-        isCached: true
-
 secured: "fhbv2Tnz4BclhYzlIoOpKJaUKk7l6AafYPaZiHdXg/bzNNdqb5izg5iwWD3DQvdgaSF0wXBtx09oBP6n/81BWzDaLVoClh0xOiU+9Vch2mE+VTlcTetkEHFSgoW4D4+rkys7lMnP7WM5R5lIUwdsvhCTframjVY1rxADeTVQ+aQGwzOG2eHD6/zNoNObZn+AUB7GGIhJmjayUAzJieoGttKq+E7yOekQD/N2r3D3kPwGdR4cAhkWPp5RT8Jw/HgoarOcsRP1RUxGEkKmssl0pcFzTsNl4jjbiHYqIZXXPCZfC2rrLmY0UFZq1dNBY/FIo5REMh5lfYEji+wPmoe13/6cTtlsdV9xgcYqPWZgNm7+qhl5TXH67wv8itybaTsjhUTRDrILa8zx8AtNc7L0uunytFb7KT3g2ZR1TXMTwJOAk6GycRU8DGXKLCyLZuLCKbnDwbFdR0rh1/oCzvaDjKHGRVgJiXd1bU6rr+bZD/Nr/n6ZDFvexXMFuZc0RBdzu/OK1uKSrUU3YOABGPuQ6Q==;0ZdWYOZGoQVHFO59gk2QiQ=="
 ---
 

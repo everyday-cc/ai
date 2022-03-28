@@ -28,19 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "The 4 Improvements Manufacturing Can Realize Through AI"
-    excerpt: "Artificial intelligence is one of the major technological advancements contributing to the growth of the manufacturing sector in the fourth industrial revolution. AI can be widely used in manufacturing to solve the hurdles like long machine downtime and quality issues."
-    publishedDateTime: 2022-03-25T21:28:00Z
-    webUrl: "https://www.manufacturing.net/operations/blog/22132016/the-4-improvements-manufacturing-can-realize-through-ai"
+  - title: "AI-powered speech analytics solutions help businesses enhance VOC & deliver a better customer experience"
+    excerpt: "Did you know, a whopping 61% of consumers are likely to abandon a brand on account of poor customer service? To begin, we all know how that long and arduous waiting time over calls"
+    publishedDateTime: 2022-03-28T09:34:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-powered-speech-analytics-solutions-help-businesses-enhance-voc-deliver-a-better-customer-experience/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-powered-speech-analytics-solutions-help-businesses-enhance-voc-deliver-a-better-customer-experience/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-powered-speech-analytics-solutions-help-businesses-enhance-voc-deliver-a-better-customer-experience/"
     type: article
     provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
+      name: India Times
+      domain: indiatimes.com
+    quality: 40
     images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/03/16x9/AI__circuit_board_1145585734_1298x811__1_.623e33653b213.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
+  - title: "Edition #11 - Analytics Bites - Driverless Delivery is on the Way to Deliver to You"
+    excerpt: "Generated Profile Pictures Software company V7 Labs has created a new Google Chrome extension that is capable of detecting fake profile pictures created by artificial intelligence (AI) with a 99.28% rate of accuracy."
+    publishedDateTime: 2022-03-24T22:22:00Z
+    webUrl: "https://www.linkedin.com/pulse/edition-11-analytics-bites-driverless-delivery-way-deliver-tan"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 33
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQG_1S4nQZ3AnA/article-cover_image-shrink_720_1280/0/1648071337353?e=1653523200&v=beta&t=9MboRwbJKXNrAMm4oAPjRImOJ1lVDzYhHyAW1-yt8Gg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "9GNI9ez2B/Tkh3MmXvHJ1tUdxQqJcJTIQeZkLNyxhDXARmNmEpNMuYJAQtd9TCRDdswwBjnPTRqfxN7+qMDxkprcM/ZED2C/Hfzvz9daAtxaD6LTJx+JJ5OlnoGsU3jvjBe+WhU7qfdxG0Gr2BC3UAR0Qg56I3xdfTfFm7k5IXKE4uzUVB4DRjSW/FaGXotWkVIyeZ/iIq81+rIS0J3mT6g7fYdY1sM9OK6gdTh338qFVxaR8NLiNan2c2pl9B6OAyD/gzadbFJb7MxHOE6NCtEZp/GPDkyR9CTgbk+fLwy+UvsYplcIBOQ9LNg/DT4Uyi5mbYnfcHyqnC7enFg+xJAbDGZGumMe44fKMoFvvuQ=;zcmQ7vqdPeVqzt5CYoAYQw=="

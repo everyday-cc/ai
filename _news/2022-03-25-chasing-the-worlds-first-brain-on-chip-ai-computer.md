@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 636
         isCached: true
+  - title: "How Ethical AI Is Redefining Data Strategy"
+    excerpt: "Industries such as insurance that handle personal information are paying more attention to customers’ desire for responsible, transparent AI."
+    publishedDateTime: 2022-03-28T09:35:00Z
+    webUrl: "https://tdwi.org/articles/2022/03/28/adv-all-how-ethical-ai-is-redefining-data-strategy.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 54
+    images:
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/AI6.jpg"
+        width: 976
+        height: 400
+        isCached: true
 
 secured: "EiONb6J2OYsfhlXQfCjjvHsJyPwueJiX00o2fg/CGp4ttPj1Ml7GBnAwdUj26fIFRP0qsH0M5G24RuutyTD32R8voqz6AF5y9OwXVf2pFSxib8IME0Uwh+b8s1OuZV4VvNGPYqXs86K6hH5BrA0rxyzxV6wfHJio8/V/rG+ELN520hTZEhtsBBB+ZCaWPhMmfYXgLOtxFOKDpM5cs9DpSVmDjoYzMdw4t8lpP5t2DqvhyfVMfBV8Ej82io4I9RUVYsTNHNjBf6FWMVrYusE9Fp4T1re9Novu0TSFYfLmN2ckEuurQvDbCBIDFY06DL+/uwZ7uyKX0+f8R9borT/FjKoV4iF8dZOh2T2UdfMXsSg=;4qjj2JQonkssIj4zZ49Nzg=="
 ---

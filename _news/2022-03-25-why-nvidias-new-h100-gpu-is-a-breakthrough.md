@@ -42,38 +42,6 @@ related:
         width: 1138
         height: 640
         isCached: true
-  - title: "NVIDIA unveils Hopper, its new hardware architecture to transform data centers into AI factories"
-    excerpt: "NVIDIA just announced Hopper, a new GPU architecture that promises significant performance improvements for AI workloads. We look under the hood to decipher whether the emphasis on Transformer AI models translates to a radical redesign,"
-    publishedDateTime: 2022-03-23T15:36:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-unveils-new-hardware-architecture-to-transform-data-centers-into-ai-factories/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-hardware-architecture-to-transform-data-centers-into-ai-factories/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-hardware-architecture-to-transform-data-centers-into-ai-factories/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 78
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/9df28300b54ac5cbaa088fa676f6f9ec7b1b50c9/2022/03/23/aed48689-ecfd-4fc6-a061-5968ab353f5d/hopper-arch-h100-die-image.png?width=1200&fit=bounds&format=pjpg&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How Nvidia is overcoming slowdown issues in GPU clusters"
-    excerpt: "\"A key challenge to reducing this time to train is the performance gains start to decline as you increase the number of GPUs in a data center,\" said Paresh Kharya, Nvidia's director of datacenter computing,"
-    publishedDateTime: 2022-03-23T15:45:00Z
-    webUrl: "https://www.theregister.com/2022/03/23/nvidia_slowdown_gpu/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/03/23/nvidia_slowdown_gpu/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/23/nvidia_slowdown_gpu/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2022/03/23/nvidia_dgx_superpod_h100.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Nvidia CEO says company \"very interested\" in exploring chip manufacturing with Intel"
     excerpt: "Nvidia Corp is interested in exploring using Intel Corp for manufacturing its chips, Chief Executive Officer Jensen Huang said on a call with reporters on Wednesday."
     publishedDateTime: 2022-03-24T09:30:00Z

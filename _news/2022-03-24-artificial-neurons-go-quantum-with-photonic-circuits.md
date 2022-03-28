@@ -41,6 +41,22 @@ related:
         width: 1032
         height: 803
         isCached: true
+  - title: "University of Vienna: Artificial neurons go quantum with photonic circuits"
+    excerpt: "In recent years, artificial intelligence has become ubiquitous, with applications such as speech interpretation, image recognition, medical diagnosis, and many more. At the same time, quantum technolo"
+    publishedDateTime: 2022-03-28T03:34:00Z
+    webUrl: "https://indiaeducationdiary.in/university-of-vienna-artificial-neurons-go-quantum-with-photonic-circuits/"
+    ampWebUrl: "https://indiaeducationdiary.in/university-of-vienna-artificial-neurons-go-quantum-with-photonic-circuits/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-vienna-artificial-neurons-go-quantum-with-photonic-circuits/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 42
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/03/vienna-vv.jpg"
+        width: 847
+        height: 424
+        isCached: true
 
 secured: "bPFVKyi4WQU5juFgt/Ziqa/Eyh/OBVjkVhVg+WJMiyljs/eS4XYz/cKZX3yuh2U8+YXtSxQFxeXIK1dI1MqlWIHVcTcWVnkBInXAgAqAaMB5wl3z5DAefKcxr3kmiEJ0UmHQ9e5SFyqWtfew/W+4X87woN0RJR5rbVUDlH6bi5XI7aT7ZE3IibpkUZo4U58XTvecC/I1nxmPM8W4jaInTfE6AMFsvk4jjvmb9uQhEJj30GFF+xA667lpFfRPDbYWKGPtPtvrxD72AGUkyuRh4nD7xB3NWfrr9z9Y1oWBnaXg5w8nKPmbibzNbUvLANvl8WkTRGa96jiYB3+O4kAK756TM+T+ky/CmkPxVZiL3GY=;L70vSDCFVKNGsaztB+VIVQ=="
 ---

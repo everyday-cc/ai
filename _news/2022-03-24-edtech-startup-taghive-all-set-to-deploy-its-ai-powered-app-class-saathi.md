@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hindustantimes.com/brand-stories/edtech-startup-taghive-
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812-amp.html"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Hindustan Times
@@ -32,6 +32,22 @@ related:
     webUrl: "https://indiaeducationdiary.in/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-for-over-5-million-students-across-50000-public-schools-of-uttar-pradesh/"
     ampWebUrl: "https://indiaeducationdiary.in/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-for-over-5-million-students-across-50000-public-schools-of-uttar-pradesh/"
     cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-for-over-5-million-students-across-50000-public-schools-of-uttar-pradesh/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 53
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
+  - title: "Edtech startup TagHive all set to deploy its AI powered app ‘Class Saathi’ for…"
+    excerpt: "Class Saathi, the AI-powered self-learning app from TagHive Inc. will be deployed in all upper primary schools of Uttar Pradesh. Class Saathi, conceived by a graduate of IIT Kanpur and Harvard Business School,"
+    publishedDateTime: 2022-03-28T03:21:00Z
+    webUrl: "https://indiaeducationdiary.in/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-for-over-5-million-students-across-50000-public-schools-of-uttar-pradesh-2/"
+    ampWebUrl: "https://indiaeducationdiary.in/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-for-over-5-million-students-across-50000-public-schools-of-uttar-pradesh-2/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-for-over-5-million-students-across-50000-public-schools-of-uttar-pradesh-2/"
     type: article
     provider:
       name: India Education Diary
