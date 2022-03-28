@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Insider Q&A: Ex-Google AI skeptic Timnit Gebru starts anew"
-excerpt: "When she co-led Google's Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry's approach to artificial intelligence. That was before Google pushed her out of the company more than a year ago."
-publishedDateTime: 2022-03-26T10:00:00Z
-originalUrl: "https://apnews.com/79cd13b50b51452d29963490b96815bd"
-webUrl: "https://apnews.com/79cd13b50b51452d29963490b96815bd"
+excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence"
+publishedDateTime: 2022-03-26T10:01:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/insider-qa-google-ai-skeptic-timnit-gebru-starts-83685774"
+webUrl: "https://abcnews.go.com/Technology/wireStory/insider-qa-google-ai-skeptic-timnit-gebru-starts-83685774"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/3aa9eaa491ab41348e46ce734ce58463/3000.jpeg"
-    width: 3000
-    height: 2000
+  - url: "https://s.abcnews.com/images/Technology/WireAP_3aa9eaa491ab41348e46ce734ce58463_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -53,6 +53,6 @@ related:
       domain: mercedsunstar.com
     quality: 37
 
-secured: "86IvEC2+zCPQyNSZmafkQSkZEaif8ponBo62KMfYGum96Pvb1STnH2aGVjgVoN03/JiG8kVgSG0SxACTx+3StBuE89WsxgjZ+CmHEYQrOt/Ex7H+5Q7aIcqdCx523BfZhD7aPnEiHsh97CSh7yLB4vSDODD+MXW+Tq+FspvZFVoJcXE8xKnNa/ZFWc1jD47Pk5L4sOfdH4FRkIzt8CYQj7TGpBc7RyRRDGiZSIGvT3VHm/TLp53hWOK2/dostYm5r6DmS8aqM3UqS444XByodhvEpAMxsN3IveHN06k7rgo5doKBjOSxnEGlqciWUnEp1s3EaYTgYo0GBqO/NWVCEkwX3UUSf91NkG09UEAf70If4tB1l5zibj/3tJjnXV3AuDF45DKYqrUaugPJhyyJccTcM4Kayu2PheY3uwuI96ON3ctYiconjrt78NwE3JPw1gsfhPIXrCZteZW/hRurocM19jDLkd3p7VfwT5lkHQG2ubm6H9LQ98M62JOd5yXZcqM77Yk2lQBQt1TbWxCpCg==;qKnBq/cNm8MLIxNcYS3sZg=="
+secured: "gdkWRtWUF76utSbE7BMyzPJLktEW7PaJH5QW2XrK0sLmPZwWLyyRULf8Umd+7xT3tA8Y/HnFLcf96lTJNApGQOrGnUuFtSTKXX7ks4deINPaIL88pW6KIJ6vlAZ/yecZRT5BjMXAWdxNH6l/bfBrGj4aWcPSDbfLbxact+zEWQJvLyaLh2tlr4rgAdM4/r7SwZl05pzvSWtIWID5rD6WK4H0QYyAFZk7YuhbaopiWGdiHELvH38ijWYTjOIAPggYm7sVoa22wtnbkJDiplUw8ed2bwXwjnEL3ft38PBEe4b8CW5/CaI/SFSyyjUipTGeE+EM8LhRQX3n69aGwtLQ6a2hKKlUOo75wT+TcBKPygA=;nSxLw9lUMPENKit+R0ifgg=="
 ---
 

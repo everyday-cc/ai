@@ -2,6 +2,144 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-01-tesla-recalls-all-53822-vehicles-with-its-full-self-driving-feature.md",
+      "title": "Tesla recalls all 53,822 vehicles with its 'full self-driving' feature",
+      "excerpt": "Tesla will recall all 53,822 vehicles with its \"full self-driving\" driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkow.com/news/tesla-recalls-all-53-822-vehicles-with-its-full-self-driving-feature/article_914bbfed-285f-59c0-aefb-4aa1e46a7280.html",
+      "originalUrl": "https://www.wkow.com/news/tesla-recalls-all-53-822-vehicles-with-its-full-self-driving-feature/article_914bbfed-285f-59c0-aefb-4aa1e46a7280.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wkow.com/content/tncms/assets/v3/editorial/2/e5/2e53caaf-721e-5592-8f36-0e9e74c5c348/61f97c7ad628b.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wkow.com/news/tesla-recalls-all-53-822-vehicles-with-its-full-self-driving-feature/article_914bbfed-285f-59c0-aefb-4aa1e46a7280.amp.html",
+      "cdnAmpWebUrl": "https://www-wkow-com.cdn.ampproject.org/c/s/www.wkow.com/news/tesla-recalls-all-53-822-vehicles-with-its-full-self-driving-feature/article_914bbfed-285f-59c0-aefb-4aa1e46a7280.amp.html",
+      "publishedDateTime": "2022-02-01T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKOW",
+        "domain": "wkow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-artificial-intelligence-the-3-big-trends-to-watch-in-2017.md",
+      "title": "Artificial intelligence: The 3 big trends to watch in 2017",
+      "excerpt": "Artificial intelligence: The 3 big trends to watch in 2017 Your email has been sent AI is now woven into our lives at work and home, and 2016 saw major advancements in driverless technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/3-major-ai-trends-to-watch-in-2017/",
+      "originalUrl": "https://www.techrepublic.com/article/3-major-ai-trends-to-watch-in-2017/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2013/12/iStock_000009058764Medium.jpg",
+          "width": 2052,
+          "height": 936,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/3-major-ai-trends-to-watch-in-2017/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/3-major-ai-trends-to-watch-in-2017/amp/",
+      "publishedDateTime": "2022-01-30T22:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-how-has-artificial-intelligence-affected-business.md",
+      "title": "How Has Artificial Intelligence Affected Business?",
+      "excerpt": "Helping business owners for over 15 years. The common uses of artificial intelligence that are discussed in the business world today include self-driving cars and other autonomous systems, the internet of things (IOT), medical diagnoses, robotic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ictsd.org/how-has-artificial-intelligence-affected-business/",
+      "originalUrl": "https://www.ictsd.org/how-has-artificial-intelligence-affected-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnictsd.ictsd.org/how-to-become-a-partnership-and-sell-games-.jpg",
+          "width": 626,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-30T16:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ICTSD",
+        "domain": "ictsd.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-29-watch-now-are-illinois-farmers-ready-for-self-driving-tractors-deere-thinks-so.md",
       "title": "Watch now: Are Illinois farmers ready for self-driving tractors? Deere thinks so.",
       "excerpt": "The high-tech vehicle emblazoned with the Moline company's iconic deer logo marks a massive leap forward for farmers, who will have a solution for improving yields and efficiencies. That could",
@@ -1256,126 +1394,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-ai-is-too-important-to-not-be-regulated-sundar-pichai.md",
-      "title": "AI Is Too Important To Not Be Regulated: Sundar Pichai",
-      "excerpt": "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/",
-      "originalUrl": "https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2019/07/pichai-google-ceo-featured.jpg",
-          "width": 1360,
-          "height": 1020,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/amp/",
-      "publishedDateTime": "2022-01-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-cautions-about-artificial-intelligence-and-response.md",
-      "title": "Cautions About Artificial Intelligence - And Response",
-      "excerpt": "Artificial Intelligence ... road rage, or texting. Self driving cars don’t get tired, they don’t get distracted, and they don’t speed. The point is, these machines have potential to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chattanoogan.com/2017/12/15/360222/Cautions-About-Artificial-Intelligence.aspx",
-      "originalUrl": "https://www.chattanoogan.com/2017/12/15/360222/Cautions-About-Artificial-Intelligence.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chattanoogan.com",
-        "domain": "chattanoogan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-how-will-self-driving-cars-affect-cities-like-chicago.md",
-      "title": "How Will Self-Driving Cars Affect Cities Like Chicago?",
-      "excerpt": "Self-driving cars are spreading out across the country, and you may see one yourself on the Kennedy or Dan Ryan Expressway soon. CBS News’ Laura Podesta has a report, and DePaul University Professor Joe Schwieterman talks with CBS 2’s Jim Williams and Marie Saavedra about how self-driving cars will affect big cities like Chicago.",
-      "sourceUrl": null,
-      "webUrl": "https://chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/",
-      "originalUrl": "https://chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/A62/148/A62148484122E4CB516218C23E149CBE.jpg?Expires=1737763200&KeyName=mcpkey1&Signature=fLzgtdGVzWxw5PRkk1suUHf8_Ok",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/?amp",
-      "cdnAmpWebUrl": "https://chicago-cbslocal-com.cdn.ampproject.org/c/s/chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/?amp",
-      "publishedDateTime": "2022-01-20T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

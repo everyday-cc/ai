@@ -7,7 +7,7 @@ originalUrl: "https://www.01net.it/clearview-ai-releases-2-0-version-of-industry
 webUrl: "https://www.businesswire.com/news/home/20220325005073/en/ Clearview-AI-Releases-2.0-Version-of-Industry-Leading-Facial-Recognition-Platform-for-Law-Enforcement"
 type: article
 quality: 119
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -145,6 +145,20 @@ related:
       - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2022/03/Clearview_AI_Logo.623e145e8f239.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "SparkCognition acquires of Visual AI platform Integration Wizards"
+    excerpt: "HPCL is deploying AI-based visual analytics across its retail network to improve customer satisfaction and safety."
+    publishedDateTime: 2022-03-28T07:23:00Z
+    webUrl: "https://analyticsindiamag.com/sparkcognition-acquires-of-visual-ai-platform-integration-wizards/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Untitled-design-7-2.jpg"
+        width: 2240
+        height: 1260
         isCached: true
   - title: "SparkCognition Delivers Visual AI Capabilities Across Industries With Acquisition of Integration Wizards"
     excerpt: "AI company builds on portfolio of machine learning, deep learning, natural language processing, and knowledge representation to address $14.4B visual AI marketplace. AUSTIN, Texas"

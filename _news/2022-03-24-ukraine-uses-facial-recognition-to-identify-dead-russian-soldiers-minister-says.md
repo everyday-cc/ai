@@ -45,6 +45,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Complex questions as face recognition tech joins Ukraine invasion"
+    excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said."
+    publishedDateTime: 2022-03-28T07:11:00Z
+    webUrl: "https://www.iol.co.za/technology/complex-questions-as-face-recognition-tech-joins-ukraine-invasion-9c034c51-35e9-4050-b997-6f2148442974"
+    ampWebUrl: "https://www.iol.co.za/amp//technology/complex-questions-as-face-recognition-tech-joins-ukraine-invasion-9c034c51-35e9-4050-b997-6f2148442974"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp//technology/complex-questions-as-face-recognition-tech-joins-ukraine-invasion-9c034c51-35e9-4050-b997-6f2148442974"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 74
+    images:
+      - url: "https://image-prod.iol.co.za/resize/650x366/FILE-Ukraine-is-employing-face-recognition-technology-to-identify-invading-Russian-troops-killed-on-its-soil-a-complex-and-unprecedented-avenue-for-software-already-seen-as-problematic-experts-said?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/0d4097e4-fe51-5f08-bb03-70af3e4ce0cc&operation=CROP&offset=0x29&resize=1920x1080"
+        width: 650
+        height: 366
+        isCached: true
+  - title: "Complex questions as face recognition tech joins Ukraine war"
+    excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said."
+    publishedDateTime: 2022-03-28T06:48:00Z
+    webUrl: "https://www.iol.co.za/technology/complex-questions-as-face-recognition-tech-joins-ukraine-war-b45df721-5d03-4670-8f56-849151c4fc40"
+    ampWebUrl: "https://www.iol.co.za/amp//technology/complex-questions-as-face-recognition-tech-joins-ukraine-war-b45df721-5d03-4670-8f56-849151c4fc40"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp//technology/complex-questions-as-face-recognition-tech-joins-ukraine-war-b45df721-5d03-4670-8f56-849151c4fc40"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 74
+    images:
+      - url: "https://image-prod.iol.co.za/resize/650x366/FILE-Ukraine-is-employing-face-recognition-technology-to-identify-invading-Russian-troops-killed-on-its-soil-a-complex-and-unprecedented-avenue-for-software-already-seen-as-problematic-experts-said?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/0d4097e4-fe51-5f08-bb03-70af3e4ce0cc&operation=CROP&offset=0x29&resize=1920x1080"
+        width: 650
+        height: 366
+        isCached: true
   - title: "Ukraine using face recognition technology to identify dead Russian soldiers"
     excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problemati"
     publishedDateTime: 2022-03-27T18:23:00Z

@@ -96,6 +96,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Global Product Analytics Market To Be Grow Due To Rising Adoption Of Artificial Intelligence In The Forecast Period Of 2021-2026"
+    excerpt: "The new report by Expert Market Research titled, ‘Global Product Analytics Market Size, Share, Price, Trends, Growth, Report and Forecast 2021-2026’,"
+    publishedDateTime: 2022-03-28T06:27:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-product-analytics-market-to-be-grow-due-to-rising-adoption-of-artificial-intelligence-in-the-forecast-period-of-2021-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 8
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/345d9689605f742c2fe9066713d8618f6b2aad6d-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "8s3dizwrsLLCCmtdBFo/f0So7rPMX/BuGYscK3OoxTDl/470M/J+DqzCtkfd7dHAzvFp0D2huoIYjkwD3yCfD1gtsGvCLv0R3IT9zf35Drso+iD/o4dGN4uvzFTYbn2mgxvYDknO++bC6xRhNfu7ppbQ68HnjG29+QlMjcVbCOcdle6ifY6dVIWwjltTFNx4FbvpA0LflZXVR2q0JxJFrIoPnTR1jutFb3ik9pX+Pmt7fCs43f+Bs3dzatezC0e3DRJ3dhoYP6fONlt1JVPvnPDZyIEN4YbCfAa5cxMZ5UH08bok6QZHIeRwceB4JTjwWZH2opPKY5YBo0GqOJvwh1RUqtvLUdDryd4W/2tID0I=;SYDnJanYOXAA/KsXqIRUrw=="
 ---

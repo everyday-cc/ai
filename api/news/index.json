@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-28-toyota-starts-testing-self-driving-ride-hailing-fleet.md",
+      "title": "Toyota starts testing self-driving ride-hailing fleet",
+      "excerpt": "Toyota, together with Aurora Innovation Inc., is currently testing a fleet of self-driving Sienna units in Texas.",
+      "sourceUrl": null,
+      "webUrl": "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410",
+      "originalUrl": "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.philkotse.com/2022/03/28/WFFKkBCT/toyota-sienna-aurora-942f_wm.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp",
+      "cdnAmpWebUrl": "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp",
+      "publishedDateTime": "2022-03-27T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philkotse",
+        "domain": "philkotse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-28-self-driving-startup-zongmu-raises-157-million-in-new-funds.md",
       "title": "Self-Driving Startup Zongmu Raises $157 Million in New Funds",
       "excerpt": "Zongmu Technology Shanghai Co. has raised more than 1 billion yuan ($157 million) in a new round as the Chinese autonomous driving system startup looks to build a new production plant.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2022-03-28/self-driving-startup-zongmu-raises-157-million-in-new-funds",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -110,6 +153,57 @@
       ]
     },
     {
+      "path": "_news/2022-03-28-how-ai-is-creating-a-safer-online-world.md",
+      "title": "How AI is creating a safer online world",
+      "excerpt": "By using AI and ML algorithms to identify and categorize content, companies can identify and remove unsafe content as soon as it is created.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online-world/",
+      "originalUrl": "https://venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1150416246.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 636,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online-world/amp/",
+      "publishedDateTime": "2022-03-27T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-27-mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm.md",
       "title": "MP govt to start AI course in schools, vet telemedicine facility: CM",
       "excerpt": "The Madhya Pradesh government will start a course in Artificial Intelligence for students from class 8, which will be the first such initiative in the country, CM Shivraj Singh Chouhan said on Sunday",
@@ -118,7 +212,7 @@
       "originalUrl": "https://www.business-standard.com/article/current-affairs/mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm-122032700740_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -160,7 +254,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/27/this-is-what-makes-deep-learning-so-powerful/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -212,7 +306,7 @@
       "originalUrl": "https://www.cnet.com/science/biology/features/the-puzzling-reason-ai-may-never-compete-with-human-consciousness/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -263,7 +357,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -315,7 +409,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1134,102 +1228,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-facial-recognition-climate-change-and-dumplings.md",
-      "title": "Facial Recognition, Climate Change, And Dumplings",
-      "excerpt": "Bloomberg Opinion columnist Parmy Olson talks about the dangers of facial recognition technology being introduced in war, and columnist Adam Minter describes the importance of Russian cooperation in slowing climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast",
-      "originalUrl": "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2PXbxrf4nZA/v0/1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-25T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-runai-completes-proof-of-concept-with-nvidia.md",
-      "title": "Run:ai Completes Proof of Concept with NVIDIA",
-      "excerpt": "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud GPU flexibility for companies using NVIDIA GPUs in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/runai-completes-proof-of-concept-with-nvidia/",
-      "originalUrl": "https://enterprisetalk.com/news/runai-completes-proof-of-concept-with-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/03/Runai-Completes-Proof-of-Concept-with-NVIDIA-to-Maximize-GPU-Workload-Flexibility-on-Any-Cloud-01.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/runai-completes-proof-of-concept-with-nvidia/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/runai-completes-proof-of-concept-with-nvidia/amp/",
-      "publishedDateTime": "2022-03-25T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

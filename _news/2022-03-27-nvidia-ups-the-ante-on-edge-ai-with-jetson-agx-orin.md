@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/amp/"
 type: article
 quality: 89
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "NVIDIA (NVDA) Starts Production of DRIVE Orin Platform"
-    excerpt: "NVIDIA Corporation NVDA is boosting its initiatives to empower artificial intelligence (AI ... from Level 2+ systems to Level 5 entirely driverless vehicles. The company’s foray into autonomous ..."
-    publishedDateTime: 2022-03-23T13:47:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-nvda-starts-production-of-drive-orin-platform"
-    ampWebUrl: "https://www.nasdaq.com/articles/nvidia-nvda-starts-production-of-drive-orin-platform?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-nvda-starts-production-of-drive-orin-platform?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Leopard Imaging Expands 3D Depth Time-of-Flight and Stereo Camera Portfolio for Edge Computing Powered by NVIDIA Jetson Edge AI Platform"
     excerpt: "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, today announced it is building on its portfolio of 3D Depth Time-of-Flight (ToF) and Stereo camera solutions for edge computing."
     publishedDateTime: 2022-03-23T17:06:00Z

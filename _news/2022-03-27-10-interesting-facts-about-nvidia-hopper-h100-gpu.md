@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Chip_AIM.jpeg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Nvidia Unveils Hopper H100 Data Center GPU"
-    excerpt: "The replacement for Ampere has finally arrived, although gamers will still have to wait until the end of the year to see what Nvidia has in store for them."
-    publishedDateTime: 2022-03-23T14:34:00Z
-    webUrl: "https://www.extremetech.com/computing/332979-nvidia-unveils-hopper-h100-data-center-gpu"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2022/03/hopper-announcement-blog-1260x680-1-640x360.jpg"
-        width: 640
-        height: 360
         isCached: true
   - title: "Nvidia RTX A4500 workstation GPU review"
     excerpt: "In our GPU rendering tests, as the role of the CPU is minimal ... 3rd Gen Nvidia Tensor cores for AI and Machine Learning. 2nd Gen Nvidia RT cores which are dedicated to ray tracing. Different applications support these cores in different ways."

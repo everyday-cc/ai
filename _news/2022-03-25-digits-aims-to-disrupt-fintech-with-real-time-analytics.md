@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-wi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Global Product Analytics Market To Be Grow Due To Rising Adoption Of Artificial Intelligence In The Forecast Period Of 2021-2026"
+    excerpt: "The new report by Expert Market Research titled, ‘Global Product Analytics Market Size, Share, Price, Trends, Growth, Report and Forecast 2021-2026’,"
+    publishedDateTime: 2022-03-28T06:27:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-product-analytics-market-to-be-grow-due-to-rising-adoption-of-artificial-intelligence-in-the-forecast-period-of-2021-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 8
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/345d9689605f742c2fe9066713d8618f6b2aad6d-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "JEGDIrXxbrsYHR/Om+r5+7AX28n4fS1To98Aogz9RKk5VpS0d6Cwnat5Rp4hX5CnsseWBtVLSKsEWvz2HeyFAVK62b4+x1MQAe/IwcSW4EjUUiA1vU5xCIOUIq5qqlZM6YPh6d2df+KDOwQwANqSX/APOCQD6xwkjNPh1B65zgT2q7mlaJKfDnLQtYe6QqMYEmifrlJeW1j+kk+2mBQIIh855py2SOIaGa2Id5KYSTEJxXinMVYCZ+loFUEtEYDrFf5WtIWfrldHzuEg8irUHRQthff6akEvEtlnDlV2isK4AJ7wapWlKrr7Z9j+nwLny0tXhSgf0GI39GXlrgKWuPGBUtwh+e4tMDIxggKn9peUeetRF79CLJs+qX3yD2KMdegMB3X/pAvk5I9aYrmq1Io+YTxi06PWDKb3II+zBru0butIji+qWns1Qr1k+65tFRbx6MZsMxhRrlAhW6aTSzTN32GhxpuqdZiT5tybFo+sOlEepwL7/57d6Qi6J+c3hRTMNLK55dbNqxe6g3i8vw==;D46OKWIGTS5usNuu6Trimg=="

@@ -161,6 +161,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "SparkCognition acquires of Visual AI platform Integration Wizards"
+    excerpt: "HPCL is deploying AI-based visual analytics across its retail network to improve customer satisfaction and safety."
+    publishedDateTime: 2022-03-28T07:23:00Z
+    webUrl: "https://analyticsindiamag.com/sparkcognition-acquires-of-visual-ai-platform-integration-wizards/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Untitled-design-7-2.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "Revnomix Solutions launches 'RevSeed,' a version 2.0 of Artificial & Machine Learning platform for hotels and resorts"
     excerpt: "Revnomix Solutions LLP, recognized as a startup by the “Department for Promotion of Industry and Internal Trade”, is a seven-year-old revenue management firm with a pan-India presence, provides revenue management services to hotels."
     publishedDateTime: 2022-03-24T10:17:00Z

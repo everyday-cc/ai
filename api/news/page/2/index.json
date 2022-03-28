@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-25-facial-recognition-climate-change-and-dumplings.md",
+      "title": "Facial Recognition, Climate Change, And Dumplings",
+      "excerpt": "Bloomberg Opinion columnist Parmy Olson talks about the dangers of facial recognition technology being introduced in war, and columnist Adam Minter describes the importance of Russian cooperation in slowing climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast",
+      "originalUrl": "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2PXbxrf4nZA/v0/1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-runai-completes-proof-of-concept-with-nvidia.md",
+      "title": "Run:ai Completes Proof of Concept with NVIDIA",
+      "excerpt": "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud GPU flexibility for companies using NVIDIA GPUs in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/runai-completes-proof-of-concept-with-nvidia/",
+      "originalUrl": "https://enterprisetalk.com/news/runai-completes-proof-of-concept-with-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/03/Runai-Completes-Proof-of-Concept-with-NVIDIA-to-Maximize-GPU-Workload-Flexibility-on-Any-Cloud-01.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/runai-completes-proof-of-concept-with-nvidia/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/runai-completes-proof-of-concept-with-nvidia/amp/",
+      "publishedDateTime": "2022-03-25T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-iit-mandi-to-organise-robotics-ai-summer-camp-for-school-kids.md",
       "title": "IIT-Mandi to organise Robotics & AI summer camp for school kids",
       "excerpt": "The Indian Institute of Technology Mandi is organising the summer camp on Robotics and Artificial Intelligence (AI) in collaboration with Himachal Pradesh Kaushal Vikas Nigam (HPKVN), Shimla. This summer camp,",
@@ -53,7 +149,7 @@
       "originalUrl": "https://www.01net.it/clearview-ai-releases-2-0-version-of-industry-leading-facial-recognition-platform-for-law-enforcement/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 239,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -477,7 +573,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -732,7 +828,7 @@
       "originalUrl": "https://www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -1124,102 +1220,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.md",
-      "title": "ExtraHop adds heat map to its AWS cloud-native security solution",
-      "excerpt": "A cloud-native security provider announced Wednesday that it has added heat-mapping capabilities to its Amazon Web Service (AWS) flagship product. The new tier of service, called ExtraHop Reveal(x) 360,",
-      "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/article/3654910/extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.html",
-      "originalUrl": "https://www.csoonline.com/article/3654910/extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/07/cloud-security-expert_casb_binary_cloud-computing_cloud-security_by-metamorworks-getty-100803072-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.csoonline.com/article/3654910/extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.amp.html",
-      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3654910/extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.amp.html",
-      "publishedDateTime": "2022-03-24T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones.md",
-      "title": "How Samsung is using AI software to up the camera game on its smartphones",
-      "excerpt": "Samsung has applied approximately 60 AI models for the functions of the cameras on the Galaxy S22 Ultra, which a company executive says allows it to take detailed photos of closeups, night scenes and even match the quality of a DSLR camera.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
-      "originalUrl": "https://www.zdnet.com/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4f683ac35b12bd8929b668b72853ed82a55b545a/2022/02/08/f548c7c3-917b-4523-9ba3-1d19ef8df620/1-30-galaxy-s22-ultra-portrait2-hi.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
-      "publishedDateTime": "2022-03-23T22:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -49,6 +49,20 @@ related:
         width: 540
         height: 540
         isCached: true
+  - title: "Self-driving startup Zongmu raises US$157mil in new funds"
+    excerpt: "A Chinese autonomous driving system startup has raised over RM660mil as it looks to build a new production plant to accelerate research and development."
+    publishedDateTime: 2022-03-28T03:16:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/03/28/self-driving-startup-zongmu-raises-us157mil-in-new-funds"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/03/28/1530098.jpg"
+        width: 1240
+        height: 697
+        isCached: true
 
 secured: "HFXPMwVo4SWRdBCgd95uPPYJe26veogGKvSst6FKo7o6fvUcyv00jAt5cgGdnWtQksfrNBbgwCow+IUS0H30DrB5ZiH3TRg7A5RmJDohMqqByQg6DWReNgrKKlOKFDxj/RSXyOemYcr1t8NIb9+1vcQ+DiKY7Z/Ou+uq5+fsZfTNbh4KFFPPgoLVE4PW03Tfn1l8BEK6B/g43lMudQTLADiSttJpgK5wQXtGNlCdOJrVRxakff28aP1RmNdw9wvzDl8btyGvhhKxI/QVQoBQIPjfHDtcIfEMa5CO2RAm/IURWlRK3p2rWHQfA1hcMp5B70aGG33wx9RBd0xCae0lQsSQaO+LMXGSUByr7S9cCyyERePBebCYskt764q/GL9Y6oW4+4+lwTJKK73XBDkwSaf7PUBieOERFYtYzyi3nDKzWfY17irEE+6/YLoIXK1p8H8VrrfJc9wjUhNTe2Q4iEGMxKIzQakRWRL5O6DEhyzLhIhLq6zEQjFWxWism8EQU97f+s7OyHkT45llgx57rQ==;NhRXvFX1EASS1+BbNMkYuQ=="
 ---

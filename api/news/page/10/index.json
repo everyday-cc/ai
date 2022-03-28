@@ -2,6 +2,91 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-03-16-the-ai-beauty-startup-that-champions-transparency-and-inclusion.md",
+      "title": "The AI beauty startup that champions transparency and inclusion",
+      "excerpt": "Skin Match uses AI to create quick and efficient product finders and ingredients explainers. And, the L'Oréal-backed startup is committed to inclusivity and transparency, says CEO Estella Benz.",
+      "sourceUrl": null,
+      "webUrl": "https://www.voguebusiness.com/beauty/the-ai-beauty-startup-that-champions-transparency-and-inclusion",
+      "originalUrl": "https://www.voguebusiness.com/beauty/the-ai-beauty-startup-that-champions-transparency-and-inclusion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.voguebusiness.com/photos/62306b644430ce077a64ceb2/master/w_3000,h_2000,c_limit/skin-match-future-edit-voguebus-skin-match-mar-22-story-inline-1.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.voguebusiness.com/beauty/the-ai-beauty-startup-that-champions-transparency-and-inclusion/amp",
+      "cdnAmpWebUrl": "https://www-voguebusiness-com.cdn.ampproject.org/c/s/www.voguebusiness.com/beauty/the-ai-beauty-startup-that-champions-transparency-and-inclusion/amp",
+      "publishedDateTime": "2022-03-16T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "voguebusiness",
+        "domain": "voguebusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-artificial-intelligence-in-chipset-market-to-hit-usd-3846-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027.md",
+      "title": "Artificial Intelligence in Chipset Market to Hit USD 38.46 Billion | AI Chipset Market Size, Share, Demand, Growth and Forecast 2027",
+      "excerpt": "Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices to support AI technologies. Increasing utilization of AI technologies is projected to boost the demand for these chipsets over the next couple of years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-chipset-market-to-hit-usd-38-46-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-chipset-market-to-hit-usd-38-46-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/311e103167631b53610564f3bef2b5e4678b5881-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-self-driving-vw-idbuzz-vans-to-start-testing-on-us-roads-in-2023.md",
       "title": "Self-driving VW ID.Buzz vans to start testing on US roads in 2023",
       "excerpt": "Volkswagen's new ID.Buzz is slated to reach U.S. showrooms in 2023, but versions of the electric van fitted with a self-driving system developed by Argo AI will also test on the nation's roads. Volkswagen Group,",
@@ -999,92 +1084,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-how-neutigers-deploys-deep-learning-in-edge-ai-for-easy-covid-detection.md",
-      "title": "How NeuTigers deploys deep learning in edge AI for easy covid detection",
-      "excerpt": "NeuTigers is a Princeton University spinout building edge-AI solutions for healthcare. The startup has developed an app for Covid detection using medical sensors and neural networks. Research led by Niraj Jha,",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/how-neutigers-deploys-deep-learning-in-edge-ai-for-easy-covid-detection/",
-      "originalUrl": "https://analyticsindiamag.com/how-neutigers-deploys-deep-learning-in-edge-ai-for-easy-covid-detection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/neutig-b_11zon.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T05:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-ai-chip-innovator-memryx-hires-two-veteran-semiconductor-leaders-for-top-engineering-and-business-development-roles.md",
-      "title": "AI Chip Innovator MemryX Hires Two Veteran Semiconductor Leaders For Top Engineering and Business Development Roles",
-      "excerpt": "MemryX Inc., a pioneering start-up designing breakthrough silicon for artificial intelligence processing for edge devices, has appointed semiconductor industry veterans Puneet Singh and Roger Peene. Singh will serve as vice president of engineering,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-ann-arbor-artificial-intelligence-engineering-f6f58bc4b2d24c52bdd616badf6fb689",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-ann-arbor-artificial-intelligence-engineering-f6f58bc4b2d24c52bdd616badf6fb689",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

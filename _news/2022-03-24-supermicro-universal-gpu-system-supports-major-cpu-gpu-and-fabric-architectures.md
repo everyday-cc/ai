@@ -24,17 +24,6 @@ images:
     height: 941
     isCached: true
 
-related:
-  - title: "Supermicro Announces Universal GPU System – Supports CPU, GPU and Fabric Architectures"
-    excerpt: "Super Micro Computer, Inc. (SMCI), an enterprise computing, storage, networking solutions and green computing technology company, has announced a revolutionary technology that simplifies large scale GPU deployments and is a future proof design that supports yet to be announced technologies."
-    publishedDateTime: 2022-03-23T13:42:00Z
-    webUrl: "https://insidehpc.com/2022/03/supermicro-announces-universal-gpu-system-supports-cpu-gpu-and-fabric-architectures/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 11
-
 secured: "7wCFyZkzFCuQuFIecDaQ19QcDNxy7DF5NFj0XDCPwry0LVyjU2EN6M0MJN6gdhyDxyQ0AeDYqXoB6bVQ5sHE3N480YA9N53qU8fnKcRnBW6abbQebNrBUpDDwd75JnF2BHI9snTrqNSzSXuan3QEWmQqStX/Xgdyn9/AREroaRINWaalyVO3FSP0gHaSjfWPgWpH4xPmo+6hB3ljlh0IqfBP2vhA0szD3yG3hVRnCC7pI4dqatHbf+43yJgu75kVs+0LOJexMonlDG4FIEx37LRDA76qX/exmxXkn3P1ohdsbq684DDWe0ATGxmwqTixWMn15ARsn7U2fGd434ZuFI4rZdrtn64Hw1t6YTM+cxo=;Aw336sRUS6XUCND92pFqkA=="
 ---
 

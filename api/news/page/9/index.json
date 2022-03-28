@@ -2,6 +2,92 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-03-17-iunu-a-seattle-startup-that-develops-computer-vision-tech-for-greenhouses-raises-24m.md",
+      "title": "IUNU, a Seattle startup that develops computer vision tech for greenhouses, raises $24M",
+      "excerpt": "IUNU, a Seattle startup that develops computer vision tech for greenhouses, raises $24M by Taylor Soper on March 16, 2022 at 7:38 am March 16, 2022 at 11:08 am Share 1 Tweet Share Reddit Email",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/iunu-a-seattle-startup-that-develops-computer-vision-tech-for-greenhouses-raises-24m/",
+      "originalUrl": "https://www.geekwire.com/2022/iunu-a-seattle-startup-that-develops-computer-vision-tech-for-greenhouses-raises-24m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2022/iunu-a-seattle-startup-that-develops-computer-vision-tech-for-greenhouses-raises-24m/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/iunu-a-seattle-startup-that-develops-computer-vision-tech-for-greenhouses-raises-24m/amp/",
+      "publishedDateTime": "2022-03-16T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-using-artificial-intelligence-to-solve-one-of-health-cares-most-enduring-problems.md",
+      "title": "Using Artificial Intelligence to Solve One of Health Care's Most Enduring Problems",
+      "excerpt": "Northwestern Medicine built its own artificial intelligence program to trigger follow up on incidental imaging findings to prevent delayed and missed care . CHICAGO, March 16, 202",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-using-artificial-intelligence-solve-one-health-cares-most-/2022/03/16/9565389.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-using-artificial-intelligence-solve-one-health-cares-most-/2022/03/16/9565389.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1768026/Northwestern_Medicine_Hospital_Exterior.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-quadric-nabs-21m-to-accelerate-production-of-its-ai-edge-chips.md",
       "title": "Quadric nabs $21M to accelerate production of its AI edge chips",
       "excerpt": "Quadric, a startup developing chips for AI workloads at the edge, has raised $21 million in a venture funding round.",
@@ -1005,91 +1091,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-the-ai-beauty-startup-that-champions-transparency-and-inclusion.md",
-      "title": "The AI beauty startup that champions transparency and inclusion",
-      "excerpt": "Skin Match uses AI to create quick and efficient product finders and ingredients explainers. And, the L'Oréal-backed startup is committed to inclusivity and transparency, says CEO Estella Benz.",
-      "sourceUrl": null,
-      "webUrl": "https://www.voguebusiness.com/beauty/the-ai-beauty-startup-that-champions-transparency-and-inclusion",
-      "originalUrl": "https://www.voguebusiness.com/beauty/the-ai-beauty-startup-that-champions-transparency-and-inclusion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.voguebusiness.com/photos/62306b644430ce077a64ceb2/master/w_3000,h_2000,c_limit/skin-match-future-edit-voguebus-skin-match-mar-22-story-inline-1.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.voguebusiness.com/beauty/the-ai-beauty-startup-that-champions-transparency-and-inclusion/amp",
-      "cdnAmpWebUrl": "https://www-voguebusiness-com.cdn.ampproject.org/c/s/www.voguebusiness.com/beauty/the-ai-beauty-startup-that-champions-transparency-and-inclusion/amp",
-      "publishedDateTime": "2022-03-16T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "voguebusiness",
-        "domain": "voguebusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-artificial-intelligence-in-chipset-market-to-hit-usd-3846-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027.md",
-      "title": "Artificial Intelligence in Chipset Market to Hit USD 38.46 Billion | AI Chipset Market Size, Share, Demand, Growth and Forecast 2027",
-      "excerpt": "Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices to support AI technologies. Increasing utilization of AI technologies is projected to boost the demand for these chipsets over the next couple of years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-chipset-market-to-hit-usd-38-46-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-chipset-market-to-hit-usd-38-46-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/311e103167631b53610564f3bef2b5e4678b5881-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

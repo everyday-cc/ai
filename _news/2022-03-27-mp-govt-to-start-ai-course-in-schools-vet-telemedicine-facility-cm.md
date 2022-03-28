@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/current-affairs/mp-gov
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm-122032700740_1.html"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://images.firstpost.com/wp-content/uploads/2020/07/shivraj-singh-chouhan1-PTI.jpg"
         width: 640
         height: 362
+        isCached: true
+  - title: "Madhya Pradesh Government To Start AI Course In Schools, Veterinary Telemedicine Facility: Chief Minister"
+    excerpt: "Madhya Pradesh government will start a course in artificial intelligence (AI) for students from class 8 and also will launch a veterinary telemedicine facility."
+    publishedDateTime: 2022-03-28T05:41:00Z
+    webUrl: "https://www.ndtv.com/education/madhya-pradesh-government-start-ai-course-in-schools-veterinary-telemedicine-facility-chief-minister"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 20
+    images:
+      - url: "https://cache.careers360.mobi/media/article_images/2022/3/26/SCHOOL-STUDENTS-FEATURED-IMAGE.jpg"
+        width: 842
+        height: 537
         isCached: true
 
 secured: "B1AjDk/6EO+LL3YEyg9Du7FSCKfRZ1dmm+HWmmJFahmdT8HeN+YMdylmHzS57vtkTrIp1z7yGtyFFbD202AGOK3zAGBgIHKXVupEBDf8BoF6eTwh1D0NUUNmI0qaK3znwsVHfwO1f4bCcDT5wmP/CKvq8tLaCmX6PYjfuVODn9JTrKjUWNL/LKQUjrQe963cAON8MhyQzZ3OlrGhjib/XrjTmZ+jtHh+RGWjqmk6jeO7NtvEOOWIDs1hnwOpKPZyPq/GQmwye4wSao82kNeg0z9AJyzjds2gXy4XPOb+rDzmoPBPWbKyy85/SrAnXcDCb55h2qa/4q+yeBsjE61fm5SHb/zmDN39eVssKUlbupAnGahgo0yG8Sn68ALYg2LYce+lMnNIuhx9YjYUeb43dm0a9BUuYKFMRZHYynY4RO72Rk/QNbMGLV6zoZuDXKtb+yajmL0BWqqgy53LGefL5Z6HAWN78ffn9Rhyz3u4LZZuwo9CvSE5PMt6lp/Tt1jdkCsVPQhduRqYnzN7waNI/g==;olDGZkDgw6vutV2l0oI0wg=="

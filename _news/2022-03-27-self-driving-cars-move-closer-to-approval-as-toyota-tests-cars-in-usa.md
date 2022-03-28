@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/272425617/self-driving-cars-mo
 webUrl: "https://www.bignewsnetwork.com/news/272425617/self-driving-cars-move-closer-to-approval-as-toyota-tests-cars-in-usa"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Toyota starts testing self-driving ride-hailing fleet"
+    excerpt: "Toyota, together with Aurora Innovation Inc., is currently testing a fleet of self-driving Sienna units in Texas."
+    publishedDateTime: 2022-03-28T06:37:00Z
+    webUrl: "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410"
+    ampWebUrl: "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp"
+    cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp"
+    type: article
+    provider:
+      name: Philkotse
+      domain: philkotse.com
+    quality: 59
+    images:
+      - url: "https://img.philkotse.com/2022/03/28/WFFKkBCT/toyota-sienna-aurora-942f_wm.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Aurora Innovation is testing self-driving Toyotas as taxis in Dallas area"
     excerpt: "Texas is an important testing ground for us,” a spokesperson said. “It’s an ideal state to test in as we plan for the launch of an autonomous trucking product and autonomous ride-hailing product in relatively quick succession."
     publishedDateTime: 2022-03-23T21:09:00Z

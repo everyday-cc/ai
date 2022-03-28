@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online-world/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: VentureBeat
@@ -30,21 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Primed To Disrupt HR And Recruiting"
-    excerpt: "Artificial intelligence technology will help businesses augment their entire HR lifecycle from mapping talent needs to identifying the best ways to attract new talent while keeping existing talent on their teams engaged and happy."
-    publishedDateTime: 2022-03-23T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/23/how-ai-is-primed-to-disrupt-hr-and-recruiting/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/23/how-ai-is-primed-to-disrupt-hr-and-recruiting/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/23/how-ai-is-primed-to-disrupt-hr-and-recruiting/amp/"
+  - title: "Chasing The World’s First Brain-on-Chip AI Computer"
+    excerpt: "New project BayesBrain aims to build the world’s first computer that combines brain cells and silicon microchips. Besides being the most intelligent computing system ever, the brain is also very energy efficient."
+    publishedDateTime: 2022-03-25T11:41:00Z
+    webUrl: "https://siliconsemiconductor.net/article/114480/Chasing_the_world’s_first_Brain-on-Chip_AI_computer"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: siliconsemiconductor
+      domain: siliconsemiconductor.net
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5fec939448bdb0f06c51ff22/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 886
+      - url: "https://data.angel.digital/images/imager.php?w=655&h=300&type=b2&zc=1&i=shutterstock_59831953.jpg"
+        width: 655
+        height: 300
         isCached: true
 
 secured: "bzS/g1oyE8z3ndfHmaf/NI5TeltvsoV9AVQuVwQagEdw1iBM5QBLlKOCm06RVxvRi+y1ftK9lH3EAgaeSL/UW2jfOOFCvqnlEVhiNLyrR4BWpb/N6n9vy1Yz9NWNQ9z/fhQwbFCYCuqMSVfLBR9m6nCHakvwk0JKWDR21q34mQWFWwo/eKXEUHnifChe718fFDzA+JqSMoTcwYHae3e1a13kwvn8f02kYrkZxx/1qG8qkkuialGqWAqfmQ8meGXuFeajumY/aenscKtZGC4KvROo5dhgVPWdn/Wvy3PTLwTxs5+n+/AsVOB36tLV5g9cKXzw1ByopUziuIhqc/IO1g920t/Mgr1ziHZFVH0N4xzE/YDGFGajNUgcrh41I9PQIWvbCMbejoqBX5JxC26QeQ+yt6U4vXR7vAiUU9qHnJQ5DsRMgtZWXfJ42hWxhu/9oOlbFjd8qI1gDix9+MZuUZtedzCf7PoJX2UsdtOwFM09pvJwO605mtnlpBv/WoM0o0DP7e7IrEydU9GTa14o+A==;0D9Jq7RUElyLmv4Yp48jYw=="

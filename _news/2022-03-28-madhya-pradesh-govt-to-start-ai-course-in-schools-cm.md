@@ -58,7 +58,21 @@ related:
         width: 640
         height: 362
         isCached: true
+  - title: "Madhya Pradesh Government To Start AI Course In Schools, Veterinary Telemedicine Facility: Chief Minister"
+    excerpt: "Madhya Pradesh government will start a course in artificial intelligence (AI) for students from class 8 and also will launch a veterinary telemedicine facility."
+    publishedDateTime: 2022-03-28T05:41:00Z
+    webUrl: "https://www.ndtv.com/education/madhya-pradesh-government-start-ai-course-in-schools-veterinary-telemedicine-facility-chief-minister"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 20
+    images:
+      - url: "https://cache.careers360.mobi/media/article_images/2022/3/26/SCHOOL-STUDENTS-FEATURED-IMAGE.jpg"
+        width: 842
+        height: 537
+        isCached: true
 
-secured: "VndwXd2LUJ86XVKDpeL22oMXUREwHhy8ZKknaqBY0+nV1vn1ZQwMWGlttlsr0vtLsgOyRoRxpxyT3ssJJzUIGBfPMB5OLxhiBlCjvrNp+YkHreR1IbZ456reVm59YKDulSdle/PF2824waja2O/MKmdR5Dauo1hqvN5RHHFJvDi5EdHAR5OJLf4mFzvOr+yClUBLmGem8WqE9UdeluJ14Jday2jkHaSM/vIKxuHKF1Nqy+lSdnI/xzT8fgDyQpt+ZXvzjvT/GSoDfCAOE1odcyciwZqrdM8Z5scX1SFS1J/29/ueSsd0NwmHxNrfg3bO0HgCsqO8TCS59N9bFAIJSabpdqjvvFT+3y0dNQYP4ho=;r9GYKB5lL/pogLBOM7tFew=="
+secured: "dg5vlPDLy8GhsrVw3HQrGYkqKzkwwIkmRYk82hPoGJxhScg9an3dRVfnKE6uQUFx9ArKBxRe6z0d5h0bvZSnt19OolC2edknLexixSdcaTBfNf9GUPODobOefBrW1FuZPwfNVWrQZI8xAb+qzXDW9x73mzaLb3jazZbvSNDPd8JG0eokZ/Q7DWZrq6TUN4YEqd9KrEyjWZpVlIQUwbeWjqCFZmaOSDODM2qnlfZDBQAD+u/MlP/XYQRKjpB2SI98dgYjrc2Y/sXLA3egFm0+61mvODJaINwvGGnSJNDg59K/VJAj/zGQyXeRNqqVhdB0VDGZGrDbiC9JU7QBW6mxuFrBM4YVUtA1uj0k/DkOM5ASVaVfdBqAH4nFfiqCHQkRLUVnxtcLT8okxuftZLdPi6op9H9V0Kzd+k+GH8eSqRPAs6hkRRoQrgoRQ7oKnx86K0d/+/rYNm92trDm5IPJzDiqT8LLCLYeKfJhIAOWtbZZiHk97odk75oZsf32XnbKuWbWr2XjUJiWDtxNmWDh0w==;XqhrqsAmpS2/u0hHflmNsA=="
 ---
 

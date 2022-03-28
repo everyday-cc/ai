@@ -147,6 +147,20 @@ related:
       name: WBUR
       domain: wbur.org
     quality: 39
+  - title: "SparkCognition acquires of Visual AI platform Integration Wizards"
+    excerpt: "HPCL is deploying AI-based visual analytics across its retail network to improve customer satisfaction and safety."
+    publishedDateTime: 2022-03-28T07:23:00Z
+    webUrl: "https://analyticsindiamag.com/sparkcognition-acquires-of-visual-ai-platform-integration-wizards/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Untitled-design-7-2.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "SparkCognition Delivers Visual AI Capabilities Across Industries With Acquisition of Integration Wizards"
     excerpt: "AI company builds on portfolio of machine learning, deep learning, natural language processing, and knowledge representation to address $14.4B visual AI marketplace. AUSTIN, Texas"
     publishedDateTime: 2022-03-25T12:04:00Z

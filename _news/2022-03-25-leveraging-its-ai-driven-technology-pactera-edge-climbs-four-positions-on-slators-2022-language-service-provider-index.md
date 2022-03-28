@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Leveraging its AI-Driven Technology, Pactera EDGE Climbs Four Positions on Slator’s 2022 Language Service Provider Index"
-excerpt: "Enhanced Localization and Globalization Services Solidifies Pactera EDGE as a Market Leader in Effective Brand Translations"
-publishedDateTime: 2022-03-24T18:40:00Z
-originalUrl: "https://www.digitaljournal.com/pr/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service-provider-index"
-webUrl: "https://www.digitaljournal.com/pr/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service-provider-index"
+title: "Leveraging its AI-Driven Technology, Pactera EDGE Climbs Four Positions on Slator's 2022 Language Service Provider Index"
+excerpt: "Growth in its AI-Enhanced Localization and Globalization Services ... Provider Index is a ranking and an index of the world's largest translation, localization, interpreting, and language technology companies. \"We've experienced significant organic growth ..."
+publishedDateTime: 2022-03-24T18:12:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service/article_9e4966e0-a8b8-5215-a906-c97477c8b704.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service/article_9e4966e0-a8b8-5215-a906-c97477c8b704.html"
 type: article
 quality: 14
 heat: 14
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.prunderground.com/wp-content/uploads/2022/03/SLATOR-LSPSI-Image.jpg"
-    width: 1200
-    height: 627
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
-secured: "eoMgZw2kjMQcnUohqr3Qnlm+VYdWjtMOKM2nf3bajTIiKxvNJt9YDdlJ2lq2oVqa5iqTDjJH8yueZecRy1f9TCHDVAD4Gx3+irEqFeX8amFZ7Z1CrZl2jtpFlAATRwHUeXYhaO+emn/A+MVoKtgb5DrU65MdZ1ZfOpOLFQKrO5Ljvc/asY+d35QhHEmMZePb1yXrKbWzmaG866LtadCrAMdGpHv1G7lAmYikRCHRDvpeIwNYGt5igjt7DLDD8AQNdPSocnO0jlTHgsbnUvN3h6AZaG+t0Uydm9fXf7UZ8O4vx2ewswYhUnimf847ZBuhZHwMmfQ/PM/g3xoxRxpLpxg+8rg8iP1vqMxlZPISG1JTjtA/ID5WgJmmSP4YUHiEVCt8EFrIU5eKOFo2KbsFTvJC82g9v0PXPwmsbTzDe3xCjkCtFrxN+l4I2r1IKDWhHa1z6O3zql7qylg4A56Mfiz2GVOAuGhMgPFQORZmR5z9f3DaWA5e6A7thxz/Lf1WHhdXzg7OA1sE2ICGxKkw1Q==;z6C5akHKA0FG6uRk2kr32w=="
+secured: "SfLCpKLDJC6kNIh+kV+weGxP9xqbbrc0apudMlP6/VZSsihiLzJuW2IqNcdMgpz8CjuZXHDPw6mLaqwqSyLTjZQaXp6qvXDkxwdrzetnTDFyo+3wGa6kozQ4LspaWYxFbIY4YGcPCAjTZu79MQwj6OQVDkbP1/4RzO55hT6k0obTXhpaf3UC6sE5zio3Vlw+tHTxJyC1hgtQ0cxcA4goKTf1p2NToBRvCJIAeti1CYIBe1omPjExyh/AwI5Tny3serjiR6x7bICHYe7rwPjFh9cSi1CtuqZBEY6kHh49OJjck3gzLDC3KFIY4zQ/OU1J9l0ruRp9H4J/MoJzEV+Zy2QnA0Bp3ChqdHkPNL+uK+Q=;WL58nl+Non0M6aaf4ZklFw=="
 ---
 

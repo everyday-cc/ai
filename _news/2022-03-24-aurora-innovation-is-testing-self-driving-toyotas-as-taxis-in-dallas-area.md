@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Toyota starts testing self-driving ride-hailing fleet"
+    excerpt: "Toyota, together with Aurora Innovation Inc., is currently testing a fleet of self-driving Sienna units in Texas."
+    publishedDateTime: 2022-03-28T06:37:00Z
+    webUrl: "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410"
+    ampWebUrl: "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp"
+    cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp"
+    type: article
+    provider:
+      name: Philkotse
+      domain: philkotse.com
+    quality: 59
+    images:
+      - url: "https://img.philkotse.com/2022/03/28/WFFKkBCT/toyota-sienna-aurora-942f_wm.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Self-driving cars move closer to approval as Toyota tests cars in USA"
     excerpt: "Japan Toyota Motor Company and Aurora Innovation an American developer of automated driving systems have begun testing an autonomous ride-hailing fleet in Texas"
     publishedDateTime: 2022-03-27T03:06:00Z

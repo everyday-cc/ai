@@ -103,20 +103,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia Unveils Hopper H100 Data Center GPU"
-    excerpt: "The replacement for Ampere has finally arrived, although gamers will still have to wait until the end of the year to see what Nvidia has in store for them."
-    publishedDateTime: 2022-03-23T14:34:00Z
-    webUrl: "https://www.extremetech.com/computing/332979-nvidia-unveils-hopper-h100-data-center-gpu"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2022/03/hopper-announcement-blog-1260x680-1-640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "NVIDIA H100 GPU full details: TSMC N4, HBM3, PCIe 5.0, 700W TDP, more"
     excerpt: "NVIDIA's next-gen Hopper GPU architecture is here, with the new flagship H100 GPU: 80 billion transistors, made on TSMC N4 node."
     publishedDateTime: 2022-03-24T02:27:00Z

@@ -2,6 +2,92 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-03-15-how-neutigers-deploys-deep-learning-in-edge-ai-for-easy-covid-detection.md",
+      "title": "How NeuTigers deploys deep learning in edge AI for easy covid detection",
+      "excerpt": "NeuTigers is a Princeton University spinout building edge-AI solutions for healthcare. The startup has developed an app for Covid detection using medical sensors and neural networks. Research led by Niraj Jha,",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/how-neutigers-deploys-deep-learning-in-edge-ai-for-easy-covid-detection/",
+      "originalUrl": "https://analyticsindiamag.com/how-neutigers-deploys-deep-learning-in-edge-ai-for-easy-covid-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/neutig-b_11zon.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-ai-chip-innovator-memryx-hires-two-veteran-semiconductor-leaders-for-top-engineering-and-business-development-roles.md",
+      "title": "AI Chip Innovator MemryX Hires Two Veteran Semiconductor Leaders For Top Engineering and Business Development Roles",
+      "excerpt": "MemryX Inc., a pioneering start-up designing breakthrough silicon for artificial intelligence processing for edge devices, has appointed semiconductor industry veterans Puneet Singh and Roger Peene. Singh will serve as vice president of engineering,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-ann-arbor-artificial-intelligence-engineering-f6f58bc4b2d24c52bdd616badf6fb689",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-ann-arbor-artificial-intelligence-engineering-f6f58bc4b2d24c52bdd616badf6fb689",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-cogniac-and-cisco-meraki-partner-to-automate-operations-with-computer-vision.md",
       "title": "Cogniac and Cisco Meraki Partner to Automate Operations with Computer Vision",
       "excerpt": "Cogniac Corporation (“Cogniac”), a leader in enterprise-class Artificial Intelligence (AI) image and video analysis, and Cisco Meraki have announced a strategic partnership to accelerate the delivery of AI-powered computer vision applications at the edge of the network.",
@@ -1035,92 +1121,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-artificial-intelligence-robotics-technology-park-comes-up-in-bengaluru.md",
-      "title": "Artificial Intelligence & Robotics Technology Park comes up in Bengaluru",
-      "excerpt": "Artificial Intelligence and Robotics Technology Park (ARTPARK), the first of its' kind in the country, a not-for-profit foundation has been launched in the city on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/karnataka/artificial-intelligence-robotics-technology-park-comes-up-in-bengaluru-733406",
-      "originalUrl": "https://www.thehansindia.com/karnataka/artificial-intelligence-robotics-technology-park-comes-up-in-bengaluru-733406",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2022/03/14/1281712-artificial-intelligence.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/karnataka/artificial-intelligence-robotics-technology-park-comes-up-in-bengaluru-733406",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/karnataka/artificial-intelligence-robotics-technology-park-comes-up-in-bengaluru-733406",
-      "publishedDateTime": "2022-03-14T16:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-ai-ethics-part-2-mitigating-bias-in-our-algorithms.md",
-      "title": "AI Ethics Part 2: Mitigating bias in our algorithms",
-      "excerpt": "In first part of this article series, we explored the various forms of AI bias, ways to understand and identify them. This second part will cover various tangible measures that can be undertaken to control,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmo.com.au/blog/data-driven-marketing/2022/03/15/ai-ethics-part-2-mitigating-bias-in-our-algorithms/",
-      "originalUrl": "https://www.cmo.com.au/blog/data-driven-marketing/2022/03/15/ai-ethics-part-2-mitigating-bias-in-our-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://demo.idg.com.au/cmo/cmo50/2021/v2/cmo50_promo_revealed.jpg",
-          "width": 620,
-          "height": 254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cmo.com.au",
-        "domain": "cmo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

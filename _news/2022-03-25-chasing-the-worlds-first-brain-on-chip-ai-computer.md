@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "FG partners computer society on Artificial Intelligence"
-    excerpt: "The Federal Government has indicated its willingness to partner the Nigeria Computer Society on Artificial Intelligence to boost the nation's economy."
-    publishedDateTime: 2022-03-24T15:46:00Z
-    webUrl: "https://punchng.com/fg-partners-computer-society-on-artificial-intelligence/"
-    ampWebUrl: "https://punchng.com/fg-partners-computer-society-on-artificial-intelligence/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-partners-computer-society-on-artificial-intelligence/?amp"
+  - title: "How AI is creating a safer online world"
+    excerpt: "By using AI and ML algorithms to identify and categorize content, companies can identify and remove unsafe content as soon as it is created."
+    publishedDateTime: 2022-03-27T21:10:00Z
+    webUrl: "https://venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online-world/"
+    ampWebUrl: "https://venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online-world/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online-world/amp/"
     type: article
     provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://cdn.punchng.com/2021/04/Isa-Pantami6.jpg"
-        width: 750
-        height: 420
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1150416246.jpg?w=1200&strip=all"
+        width: 1200
+        height: 636
         isCached: true
 
 secured: "EiONb6J2OYsfhlXQfCjjvHsJyPwueJiX00o2fg/CGp4ttPj1Ml7GBnAwdUj26fIFRP0qsH0M5G24RuutyTD32R8voqz6AF5y9OwXVf2pFSxib8IME0Uwh+b8s1OuZV4VvNGPYqXs86K6hH5BrA0rxyzxV6wfHJio8/V/rG+ELN520hTZEhtsBBB+ZCaWPhMmfYXgLOtxFOKDpM5cs9DpSVmDjoYzMdw4t8lpP5t2DqvhyfVMfBV8Ej82io4I9RUVYsTNHNjBf6FWMVrYusE9Fp4T1re9Novu0TSFYfLmN2ckEuurQvDbCBIDFY06DL+/uwZ7uyKX0+f8R9borT/FjKoV4iF8dZOh2T2UdfMXsSg=;4qjj2JQonkssIj4zZ49Nzg=="

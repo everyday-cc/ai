@@ -2,56 +2,56 @@
 category: news
 title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
 excerpt: "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program."
-publishedDateTime: 2022-03-25T20:11:00Z
-originalUrl: "https://www.lelezard.com/en/news-20305699.html"
-webUrl: "https://www.lelezard.com/en/news-20305699.html"
+publishedDateTime: 2022-03-25T20:09:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
+webUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
-  - title: "BairesDev wins the Business Intelligence Group’s 2022 Artificial Intelligence Excellence Award"
-    excerpt: "The award recognizes BairesDev’s AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
-    publishedDateTime: 2022-03-25T17:18:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
+  - title: "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award"
+    excerpt: "The Business Intelligence Grouptm today announced that BairesDev, a leading technology solutions company, is a winner in its Artificial Intelligence (AI) Excellence Awards program. The award highlights the company's efforts to build new tools,"
+    publishedDateTime: 2022-03-25T17:31:00Z
+    webUrl: "https://www.lelezard.com/en/news-20305538.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 40
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 42
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Lirio Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "Lirio, whose Precision Nudging™ solution promotes health through AI-powered behavior change, today announced that it has been recognized by Business Intelligence Group as an AI Excellence Award winner for 2022."
-    publishedDateTime: 2022-03-23T14:54:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/lirio-named-winner-in-2022-artificial-intelligence-excellence-awards/article_9bbf1695-9c20-5f1a-b471-8641194e55f0.html"
+  - title: "Qlik’s Elif Tutuk Named Winner in 2022 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Elif Tutuk, Vice President of Innovation and Design at Qlik®, was named a winner in its"
+    publishedDateTime: 2022-03-24T12:31:00Z
+    webUrl: "https://www.kentuckytoday.com/news/business/qlik-s-elif-tutuk-named-winner-in-2022-artificial-intelligence-excellence-awards/article_ffd0e99d-89bd-5ce3-b8d9-e08e8628db8e.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
+      name: Kentucky Today
+      domain: kentuckytoday.com
+    quality: 34
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/f7/3f75f7aa-4535-5b57-b3e4-69e6a425232d/623b372ea78a5.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
   - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
     excerpt: "Artificial Intelligence Excellence Award. EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligen"
@@ -63,6 +63,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "ssOLAjUqtHGTt0NpxigrKiU7/BNc/e1DhhYPDY0PjlIxfBrgLyxnNjMoqAl5QVzxOdW7ZY7BDsan68QGL//zoAQUc/3EvXJYWLDF87YTAJ5W9Dbh73dWm4xj3B6Q6nj+jLGstBqCrgUIr/SiuS/zzWmfdX3iKqc0N1UEmkynGQZGR6O4RxGzYNZ0xpkiFkOMDWf3oLH3fAeEKvRg30DG4HJzcax4wpz83Z971USOUN8qUBk/QJcmd0WHJT/ABRSBgyiSfmvqPCpSddYG4Hq7iED1Nb9mKJYZjEi3SfNIXh2a48jHHf/oLCJq0jlugvowh0eZ5xt4kRhV8yaRSU5k15m2l7xblQvZGTOcVkQc3h4=;MabmZ6lgts5G5QtPFpQ9iA=="
+secured: "mhkoHr6Wn+saOTNXcBBe9LTp5gvCq/N27GC/wI76Ao49yE1mChFRgzWGT/nbpuemg7RVprk1o7O5jAPUNoDCJiOkIpmT/3c7xk1IJRTWRlZZlZRiNY/1EBS09PSOyiyNOM/3ZWKPHAPTzzVaV3z/AbKmuNMEN0gmJxZP6H3uWDAD4RR5mKokkyTlQEi7Ht5Iwxeoss5n4CrzGVgcIev/Fb3JNAk5xd28j9NIjIc24qJsymuuRxITXqsuIUkmmc91YYXLQCM8iV03Z+8SJhtt9XngeBivH7vIPeV15e2QdbF7Qq4wXKNyuFVfDXgXdXPr9jPPPGQmJBJ94ifMSIQPR7/ubX3jG3eVZva1iVRBu+4=;DqNAY+UsDiQV1c4nGKekgA=="
 ---
 
