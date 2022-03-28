@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -79,15 +79,6 @@ related:
     excerpt: "NVIDIA's next-gen Hopper GPU architecture is here, with the new flagship H100 GPU: 80 billion transistors, made on TSMC N4 node."
     publishedDateTime: 2022-03-24T02:27:00Z
     webUrl: "https://www.tweaktown.com/news/85246/nvidia-h100-gpu-full-details-tsmc-n4-hbm3-pcie-5-0-700w-tdp-more/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
-  - title: "NVIDIA's new Grace CPU Superchip: 144-core CPU, 600GB of GPU memory"
-    excerpt: "NVIDIA's new Grace CPU design unveiled with two new Superchip platforms: 144-core ARM-based Neoverse CPU, and huge 600GB of VRAM."
-    publishedDateTime: 2022-03-23T23:30:00Z
-    webUrl: "https://www.tweaktown.com/news/85228/nvidias-new-grace-cpu-superchip-144-core-600gb-of-gpu-memory/index.html"
     type: article
     provider:
       name: TweakTown

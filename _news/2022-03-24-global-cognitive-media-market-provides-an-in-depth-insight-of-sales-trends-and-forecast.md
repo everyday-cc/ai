@@ -54,6 +54,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Molecular Robots Market By Size, Share, Growth, Dynamic Analysis, And Forecast To 2030"
+    excerpt: "Comserve / -- The global molecular robots market is anticipated to garner a substantial CAGR over the forecast per"
+    publishedDateTime: 2022-03-28T17:08:00Z
+    webUrl: "https://menafn.com/1103925686/Molecular-Robots-Market-By-Size-Share-Growth-Dynamic-Analysis-And-Forecast-To-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 31
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?369614"
+        width: 429
+        height: 249
+        isCached: true
   - title: "North America Humanoid Robot Market Size, Share, Analysis Challenges, and Future Growth Forecast 2021-2028"
     excerpt: "Canada registered a research and development expenditure comprising 1.585% of its Gross Domestic Product (GDP).CRIFAX added a r"
     publishedDateTime: 2022-03-24T15:46:00Z

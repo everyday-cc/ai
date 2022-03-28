@@ -46,18 +46,18 @@ related:
         height: 300
         isCached: true
   - title: "Taiwan Life Insurance’s App, Powered by Lydia AI, Wins a Celent Model Insurer Award 2022 in Data, Analytics, and AI"
-    excerpt: "Lydia AI announced that its client Taiwan Life Insurance has received a Celent Model Insurer award for Data, Analytics and AI for their use of external open health data for digital accelerated underwriting in the company’s mobile health score application powered by Lydia AI."
-    publishedDateTime: 2022-03-28T13:02:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/taiwan-life-insurance-s-app-powered-by-lydia-ai-wins-a-celent-model-insurer-award/article_46a7c78b-39cb-51c8-b237-4954ea70ea1e.html"
+    excerpt: "Lydia AI announced that its client Taiwan Life Insurance has received a Celent Model Insurer award for Data, Analytics and AI for their use of external open health data for digital accelerated underwriting in the company’ s mobile health score application powered by Lydia AI."
+    publishedDateTime: 2022-03-28T13:04:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/taiwan-life-insurances-app-powered-by-lydia-ai-wins-a-celent-model-insurer-award-2022-in-data-analytics-and-ai"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
     quality: 15
     images:
-      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-        width: 300
-        height: 250
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2022/02/inn-social-default.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Y/GMAS6ZcFLeMYzmKz1cqU01XuxT6Z34LuEciPXRQAWge0TeF7EkAw3xMny02Zx4GDIaVMBuHNPxOFvA9sbgEa7RzlmXoijsnEiCdxfDmNL3QY6QCdm7lctLd3G9nzbSsADBFtZIrfBQoWKtIVLrkiXsVJvHiPqp9hQ9zdfT6XVJAbquDVz/lI+QXH+WnSjs8jKF7cnIMBSnxXtos194pPq9+HroVlQhUlygB848Q+oLH+5ck4HskeBN2MS483jR1WzU6M6RCDeZOUMRXXZPT3KjlODAG4fCm479VBDtM5p0NkAaBMPP4hTYvSYi7nijWE0xaIYXX0P1UfXSgcA6aXmnGxg688zQu2gNwf1Tziw=;J8n4eRTpZqwSGL3JFpEWNw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/25/ai-weekly-nvidias-commitment-to-v
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/25/ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell/amp/"
 type: article
 quality: 93
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 66
-  - title: "Nvidia Will Be A Prime Contractor For Big AI Supercomputers"
-    excerpt: "Normally, when we look at a system, we think from the compute engines at a very fine detail and then work our way out across the intricacies of the nodes"
-    publishedDateTime: 2022-03-23T23:41:00Z
-    webUrl: "https://www.nextplatform.com/2022/03/23/nvidia-will-be-a-prime-contractor-for-big-ai-supercomputers/"
-    ampWebUrl: "https://www.nextplatform.com/2022/03/23/nvidia-will-be-a-prime-contractor-for-big-ai-supercomputers/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/23/nvidia-will-be-a-prime-contractor-for-big-ai-supercomputers/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-dgx-logo.jpg"
-        width: 888
-        height: 417
-        isCached: true
 
 secured: "d1fNUaXJL6WvQT9GwjUVqUuYnKsXS0yGJIPRfCLAzA9kHO1VwUuu571WS5lBjW1T+JViEDxoZJoqNxzPrJ3l7v7CGwjwERHWGMG5joKnILmrr6SN5ajh27xzPYm3V1rzrepYVUzjWQFeLQpT0xzoqmwsD3de9gxj1Fqt9OOb3G5jJZRFaUB3HXUKvH+BC1lxIz+jh+EctcLkVAf7Kfyf5hTfle/o7qbOFHj6m26hnaO/xtcOX0blSuxWTMtwBWDtPFMm6JsAaDQKfemHcS/xNECCbpxn0rhT7sBhntJgdfrKNaXApZ98ZLfuCLvvNSXSAxoFFHZOdwUD66uz++RlhzHtIYH7LIGuZet52Qrp2FQmlVf7qLqgASJ1C3zzm/z+UXjGyEu6qLaxh67fWDzUUeQKao22COpzWSZc5bEwMsmndSEQSaT1qd+S5s7KWQKQsGl6GAc4Rn1nXKBkmKvLYYH3bBBU3qf0x+TJcv901jtThQhx21khlqw0DBUSt1Jp5UmQReYjm4CU5geOaFoxUw==;3K8vNShHOgehQpYGyX15pg=="
 ---

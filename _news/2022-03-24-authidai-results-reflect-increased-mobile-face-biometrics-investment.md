@@ -24,6 +24,22 @@ images:
     height: 1365
     isCached: true
 
+related:
+  - title: "Trueface overhauls face biometrics SDK"
+    excerpt: "Trueface shows an update to its software development kit (SDK) with a plethora of changes to its flagship facial recognition product."
+    publishedDateTime: 2022-03-28T17:02:00Z
+    webUrl: "https://www.biometricupdate.com/202203/trueface-overhauls-face-biometrics-sdk"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+
 secured: "Q6e+1h/q5d5HtfuNNo777+xQ7DaqGBn6XPEj4F7fg0H6C6Osy1pqRUFFs5qOp2zVUkwJwsBRaaJb7fi+4cQIF2CPbMgFrnVmCy1b3l4sle7XswvqVnc+Shxkqf2mcaLnJoAZxEkR+C/PDZG3hvli0vK4pgXRkQrEWJmUg+3QbnWzZGUWMoYJ92Gk4eKPE5SChK4PdfpTvPXnk5LvZpbr0q2w3pz7hmIOgT3CJoeCJ8Uh9+FgcWbomqyBnu+oLmchNx1vPsxYbQHAogP/IjZJ41jypktaLEVQk9fMkqTK3pEju7RQVtHRBmbNoY5hyAjZ0eWuyeQiggk31uSywUCSIEFozv36euhmfIu3k+m5FhZXeUEGzGL6/Pl5fRmiF3wPw2JkHzfkGS540RI24gz/6dJcX/UPNvyJBiTNUjYC0ni+HJrwm9zTi9n51rf8xcBwbgFGRtEl1x5xQzLt5eN0rDF1igxnahm+SlWBYAECTBy3wZh2aQo4bmYGOzOtOjG+Bi4DarBLQ25b9ELVhr2kuw==;qPInIYv+WSxGU6VDPbPuhg=="
 ---
 

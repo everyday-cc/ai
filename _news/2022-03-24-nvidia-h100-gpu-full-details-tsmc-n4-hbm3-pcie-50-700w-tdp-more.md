@@ -79,15 +79,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "NVIDIA's new Grace CPU Superchip: 144-core CPU, 600GB of GPU memory"
-    excerpt: "NVIDIA's new Grace CPU design unveiled with two new Superchip platforms: 144-core ARM-based Neoverse CPU, and huge 600GB of VRAM."
-    publishedDateTime: 2022-03-23T23:30:00Z
-    webUrl: "https://www.tweaktown.com/news/85228/nvidias-new-grace-cpu-superchip-144-core-600gb-of-gpu-memory/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
 
 secured: "Xc0GS54bDVIlNE9rTVCWt58pUzCMhHTuBPOgr+I/1/oJsLA1Doiz+5kdnKOKSfuxNVptWrCYuqiIzeOwNyRV7+VPjaGAIBEj47LZgd0mj5DaKOaEtc6EoSJriafw+OfIFUMxanPl9hNKYiZjWwLSNr1txlj4GlbgEziYTbU8AOWEoqFiToefevB82AOMiMWD2puE4YF0JVKULXtubGTnjN9zVwpIkh6XVh9B1qZ50TyRKGV+s1NchAXb6WjR/6Hibrr+LgqwS2q1WiP/9v8Fwj5HfY3sywkPGUJ+rkfUCch9bt93T6vVe04AiUB1z73xD+c80xZ/1+pn0RO4jSYIT/xMrrSf+GagjKI8Qyfajd8=;tVvsNyaYVx9I54BfPRv/PQ=="
 ---

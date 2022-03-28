@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 593
         isCached: true
-  - title: "Nvidia Will Be A Prime Contractor For Big AI Supercomputers"
-    excerpt: "Normally, when we look at a system, we think from the compute engines at a very fine detail and then work our way out across the intricacies of the nodes"
-    publishedDateTime: 2022-03-23T23:41:00Z
-    webUrl: "https://www.nextplatform.com/2022/03/23/nvidia-will-be-a-prime-contractor-for-big-ai-supercomputers/"
-    ampWebUrl: "https://www.nextplatform.com/2022/03/23/nvidia-will-be-a-prime-contractor-for-big-ai-supercomputers/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/23/nvidia-will-be-a-prime-contractor-for-big-ai-supercomputers/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-dgx-logo.jpg"
-        width: 888
-        height: 417
-        isCached: true
 
 secured: "W8dqcEGDCSNbfWn11WytQj6C37rZFnZxHUYMOL66BY7oMbL8i3ps+Pp0csDczAc6K3Rd6yKXity884/4hp/ryr8PiIxiU3XFrlfytfi/hMCmlJKmJ50wfcmthUM1P1woXKLPJR7VKGM5j80ZH5zumUfdQAEnQo+u6v7A7WYxsIGAnrjcjOwXzHLAxpZNDt2jOXeGApmVpkBYFVMW6vTkrkpNzBGUdTh9BYAoQX7jc/cl0r4GPX1ck+wWc1h29EuJ3cILlbwENGKLd1iwx5ag5yX0PRmQDKz3leHRNwwFqJF/UhsCyo6XOQlDcOG3Iu2GE2XV+DicTioUE3M/4W7rSPo2QW+7YViuG/LYGXBgDE3p1Zq701HjvY9Ik3mPp7Yry3nlKYIOHgZSJTCwMoOcA+DJ3LxUDeH/CSPyH80XVMkwNydss5FjtCh61z/AXA4fMmqxojKRYnE3dtJBZa14kru1g4BffPCszc92zsPJNDStHI0AtuoPERcdWSx0UsU0KoaQPss0GTEmLG2fiFMvzQ==;Lr5Xzx5KL99+umgKscTHuA=="
 ---

@@ -66,20 +66,6 @@ related:
         width: 800
         height: 449
         isCached: true
-  - title: "Unique web-based facial recognition tool enhances security and fights crime"
-    excerpt: "Clearview AI facial search engine brings more than 20 billion facial images to its software solution enabling law enforcement and federal agencies to investigate suspects"
-    publishedDateTime: 2022-03-24T00:22:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/21261325/unique-webbased-facial-recognition-tool-enhances-security-and-fights-crime"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 54
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/03/GettyImages_1207760231.623a0db3b4e4d.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Ukraine using Clearview AI facial recognition to identify dead Russian soldiers"
     excerpt: "Clearview AI scans the web to pair images of the same person from a database of billions of social media images and flags the connection"
     publishedDateTime: 2022-03-24T10:44:00Z
@@ -135,6 +121,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Untitled-design-7-2.jpg"
         width: 2240
         height: 1260
+        isCached: true
+  - title: "Clearview facial recognition app up to 20B images"
+    excerpt: "Clearview AI updates its facial recognition system with a significant addition to its face database and compliance and management tools for law enforcement."
+    publishedDateTime: 2022-03-28T17:09:00Z
+    webUrl: "https://www.biometricupdate.com/202203/clearview-facial-recognition-app-up-to-20b-images"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/22132423/police-mobile-phone.jpg"
+        width: 922
+        height: 508
         isCached: true
   - title: "SparkCognition Delivers Visual AI Capabilities Across Industries With Acquisition of Integration Wizards"
     excerpt: "AI company builds on portfolio of machine learning, deep learning, natural language processing, and knowledge representation to address $14.4B visual AI marketplace. AUSTIN, Texas"
