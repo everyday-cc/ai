@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 624
         isCached: true
+  - title: "Nemesysco spinoff unveils emotional detection and AI tools for metaverse"
+    excerpt: "Nemesysco is in the process of spinning off a new voice analytics company called Emotion Logic, which will use AI for emotion detection in the metaverse."
+    publishedDateTime: 2022-03-28T15:00:00Z
+    webUrl: "https://venturebeat.com/2022/03/28/nemesysco-spinoff-unveils-emotional-detection-and-ai-tools-for-metaverse/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-549603135.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 864
+        isCached: true
   - title: "THE METAVERSE COURTROOM: Using Virtual Reality, Artificial Intelligence and Sensory Devices to Find Justice"
     excerpt: "It’s 2030 and the new handheld Techsung Global Device 50 (“TGD50”) phone, tablet and laptop battery has a run time of six months between charges. It offers incredible technology except for one thing,"
     publishedDateTime: 2022-03-24T14:41:00Z

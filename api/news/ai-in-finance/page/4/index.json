@@ -2,6 +2,127 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-27-2-monster-machine-learning-stocks-to-buy-for-the-long-term.md",
+      "title": "2 Monster Machine Learning Stocks to Buy for the Long Term",
+      "excerpt": "Machine learning is a subset of AI that uses data to improve processes, and also make predictions. It's already being applied to dozens of industries globally, streamlining everything from racing to internet search results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2-monster-machine-learning-stocks-to-buy-for-the-long-term",
+      "originalUrl": "https://www.nasdaq.com/articles/2-monster-machine-learning-stocks-to-buy-for-the-long-term",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/2-monster-machine-learning-stocks-to-buy-for-the-long-term?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-monster-machine-learning-stocks-to-buy-for-the-long-term?amp",
+      "publishedDateTime": "2022-01-27T03:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-3-beaten-down-fintech-stocks-to-buy-now.md",
+      "title": "3 Beaten-Down Fintech Stocks to Buy Now",
+      "excerpt": "The fintech industry received more than its fair share of abuse during the current stock market correction. While these are relatively high-risk stocks, it's going to take more than a higher interest rate environment to stop them from disrupting their respective niches.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?time=1643279702",
+      "originalUrl": "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?time=1643279702",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?amp",
+      "publishedDateTime": "2022-01-27T01:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-jd-technology-fintech-unit-of-chinas-jdcom-engages-banks-for-hong-kong-ipo-that-could-raise-up-to-us2-billion-source-says.md",
+      "title": "JD Technology, fintech unit of China’s JD.com, engages banks for Hong Kong IPO that could raise up to US$2 billion, source says",
+      "excerpt": "JD Technology is targeting as much as US$2 billion in a Hong Kong IPO, which could make it the fourth JD group company to be listed in the city.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/25/d94b0b70-3d84-42ab-a198-db3e5316c492_cc8ac43c.jpg?itok=5M0UU_uZ&v=1643095588",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong",
+      "publishedDateTime": "2022-01-25T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-machine-learning-and-artificial-intelligence-implementation-in-practice.md",
       "title": "Machine Learning And Artificial Intelligence: Implementation In Practice",
       "excerpt": "When it comes to AI, more and more companies are facing a choice: whether to develop a project using a traditional approach (predefined rules) or with the implementation of ML (teaching machines to do something not by instruction or logic but by examples or some kind of feedback).",
@@ -1221,145 +1342,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-provenir-customer-reliant-funding-named-lendit-fintech-industry-awards-top-small-business-lending-platform-finalist.md",
-      "title": "Provenir Customer Reliant Funding Named LendIT Fintech Industry Awards ‘Top Small Business Lending Platform’ Finalist",
-      "excerpt": "Provenir, a global leader in AI-powered risk decisioning software, today congratulated its customer Reliant Funding for being recognized as a LendIT Fintech Industry Awards 2021 finalist. The fifth annual LendIT Fintech Industry Awards honor the world’s leading influencers and innovators in 14 unique categories.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-small-business-parsippany-f33dabbcc5a94dd298539f53fcc7389e",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-small-business-parsippany-f33dabbcc5a94dd298539f53fcc7389e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-12T09:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry.md",
-      "title": "Robo Inu Finance Aims to Create a New Era of Payment Methods Using the Fintech Industry",
-      "excerpt": "Robu Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial freedom. They are creating a financial tool for individuals to manage their finances better and for companies to leverage an AI to enhance people's lives in the fintech industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://marketersmedia.com/wp-content/uploads/2022/01/5-8-500x236.jpg",
-          "width": 500,
-          "height": 236,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25011004",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25011004",
-      "publishedDateTime": "2022-01-11T22:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-how-to-build-a-data-science-and-machine-learning-roadmap-in-2022.md",
-      "title": "How to build a data science and machine learning roadmap in 2022",
-      "excerpt": "Despite the growing enthusiasm for DSML's core technologies, getting results from its strategies is elusive for enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/10/how-to-build-a-data-science-and-machine-learning-roadmap-in-2022/",
-      "originalUrl": "https://venturebeat.com/2022/01/10/how-to-build-a-data-science-and-machine-learning-roadmap-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1081869346-e1641824655432.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/10/how-to-build-a-data-science-and-machine-learning-roadmap-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/10/how-to-build-a-data-science-and-machine-learning-roadmap-in-2022/amp/",
-      "publishedDateTime": "2022-01-10T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

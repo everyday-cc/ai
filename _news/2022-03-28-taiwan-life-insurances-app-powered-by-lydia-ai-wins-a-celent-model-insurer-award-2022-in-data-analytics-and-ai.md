@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Taiwan Life Insurance’s App, Powered by Lydia AI, Wins a Celent Model Insurer Award 2022 in Data, Analytics, and AI"
-excerpt: "Lydia AI announced that its client Taiwan Life Insurance has received a Celent Model Insurer award for Data, Analytics and AI for their use of external open health data for digital accelerated underwriting in the company’ s mobile health score application powered by Lydia AI."
-publishedDateTime: 2022-03-28T13:04:00Z
-originalUrl: "https://insurancenewsnet.com/oarticle/taiwan-life-insurances-app-powered-by-lydia-ai-wins-a-celent-model-insurer-award-2022-in-data-analytics-and-ai"
-webUrl: "https://insurancenewsnet.com/oarticle/taiwan-life-insurances-app-powered-by-lydia-ai-wins-a-celent-model-insurer-award-2022-in-data-analytics-and-ai"
+excerpt: "Lydia AI announced that its client Taiwan Life Insurance has received a Celent Model Insurer award for Data, Analytics and AI for their use of external open health data for digital accelerated underwriting in the company’s mobile health score application powered by Lydia AI."
+publishedDateTime: 2022-03-28T13:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/taiwan-life-insurance-s-app-powered-by-lydia-ai-wins-a-celent-model-insurer-award/article_46a7c78b-39cb-51c8-b237-4954ea70ea1e.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/taiwan-life-insurance-s-app-powered-by-lydia-ai-wins-a-celent-model-insurer-award/article_46a7c78b-39cb-51c8-b237-4954ea70ea1e.html"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Insurancenewsnet.com
-  domain: insurancenewsnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI
 
 images:
-  - url: "https://insurancenewsnet.com/wp-content/uploads/2022/02/inn-social-default.jpg"
-    width: 1200
-    height: 630
+  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+    width: 300
+    height: 250
     isCached: true
 
 related:
@@ -55,6 +55,6 @@ related:
         height: 720
         isCached: true
 
-secured: "7BOIJaJHs9oZhlFalTScP0DNXLL9L8AxH/zvqPjdQzl9mr1T1dGDQFmPRKnuQXrNm+vJaxvDv/U8oZwcoYFgbOX1rHh+LoHwtFxaT0mo63Ssy9VNkjjmRtZv8LGURlTsqA6D/zzl6A8U6B3zXHjLJlv4npfYH+3b46uw6al6H5A+LhEY7OTXkJNU9A/TK4LhhhDLLxKo1sokMPKvr7IisfqLOLjVqJv/MbARIMDNSU8KFTywMw6+IU7ko7zkK5go31XbG0gFoOioth4Nng+efOAziA2TAO3X8OhRkE3cLJ1tUCQJrQP3dsliUaP9iU7VCFobKClMm/8xHAWJbxpRIKw+tJRgt848Wjl6g9AzlgY=;azkvEZqjYHEt90DBxSYbnw=="
+secured: "qpthmJq8rZNYcwVhbud5gLS0T7UJz69qjkCe08Olv0gkmY/iUBcIvRjrOJBpyJtui5gNHoHF0maNJNaIhdBHxsEhW+NnVXTLP7DmgZJYkP3MyIKdW48FxQquiuSq7Zifq7G8n9s/AjKhiR7FDALSUOGLtnI3m1VyYd44a01XPJq0GSvxS6lHqP39uyMrSU/b7Npr4GCJchtJ5FG8X17x4390XJk0xUQ8AABoalXRYlaf1LeSI4rjUut/2Eq8DOTU4mtCvAmI3SAa6q6mVo9AdlqsZ1iOIIxbFK17WSgkjLuFtAtMHu+8AU+R2F8lhyxVxCLKwEi8nuMQlcrPWl96o1+21OiBHOIGZg1fsHiS8DA=;i7umPb+DnnguO07GYlqrfg=="
 ---
 

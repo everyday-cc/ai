@@ -3,8 +3,10 @@ category: news
 title: "AI Chip Startups Pull In Funding as They Navigate Supply Constraints"
 excerpt: "Investors are funneling billions of dollars into startups that make chips designed for artificial-intelligence applications, which have largely avoided the supply-chain constraints and backlogs faced by larger chip makers."
 publishedDateTime: 2022-03-15T09:00:00Z
-originalUrl: "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402?tpl=vc"
-webUrl: "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402?tpl=vc"
+originalUrl: "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402"
+webUrl: "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402"
+ampWebUrl: "https://www.wsj.com/amp/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402"
 type: article
 
 provider:
@@ -25,6 +27,6 @@ images:
     height: 640
     isCached: true
 
-secured: "6p/yRfZIT85xbGY7G44BZstBqrbiHnVTW9N3VwSbLqd9pDfe8mEwuXgZZbUQFR9H4pvBrlZuRQdSTCDbQp8j0b2ZS8GDCC56wqkUXY/SGYf6QTlHE+wtBAFBXH3UHW1H4ZHaJPNToEghDnK/gCG4Kjis7XEGeCT15RrhGZh+wDPedw5IhPioCFCVKHOVy/f2elOk8DTHUv+tuD1q96tXULt8iepviCGiFbaLWA0yTD3VT5yyYwnUjGVBrXxpC887X2Mo6ZE21yTP7Mh/23eix+UiVzq2q+14cOMGu5f2xmRZC+gD2vgXzdy4IKUrBiDhM/kUu+1ghx8kXQCgtWR93dy5RdoE07QmsgHFbMiv90Q=;d6pwIadt8OMsnaknwP264g=="
+secured: "zr5DwV3pP/Q+7mdMR0zgssRGTr1w9q9Tg4LHA4WJ0Fi9Cp0EDqs8XDVivAkRc+JTcvHj6brSJD3T5vpfAi0zkkRnWu+I+g4mUPJUzJpmmIi9iOqQh0+YP/Kw43njhWLX8uuPnReisCYIUmgk4cizapi00Yk/cKkHO69QcjazBwAKsuItyO2SBvKgkbjJuOjQNuW07Kc9wGEEeBednrucTX2yqDsNdDeNem531+PWXl3hlpmqMyi04bT/vrvP4ovWVqXKrRZoQJUFKPuCsnlkLGfkCBn7flQYo7YM9kXGc/ncDCPWJqxmnMYvnqx0Oz3MHE2oPTD2uVXRbKb0rT6mqCx92OETHN0fAFUs8c/UUpI=;grqePQXQG/l7R+gChX3FCQ=="
 ---
 

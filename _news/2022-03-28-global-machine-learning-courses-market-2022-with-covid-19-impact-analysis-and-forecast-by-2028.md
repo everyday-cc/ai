@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-27T20:57:00Z
 originalUrl: "https://www.marketwatch.com/press-release/global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028-2022-03-27"
 webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028-2022-03-27"
 type: article
-quality: 57
-heat: 97
+quality: 59
+heat: 99
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

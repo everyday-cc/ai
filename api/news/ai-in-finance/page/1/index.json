@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-28-global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028.md",
+      "title": "Global Machine Learning Courses Market 2022 with Covid-19 Impact Analysis and Forecast by 2028",
+      "excerpt": "MarketsandResearch.biz has presented a new market study on Global Machine Learning Courses Market 2022 by Company, Regions, Type and Application, Forecast to 2028 which delivers an executive-level market analysis that will help clients to build strategies to expand their market operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028-2022-03-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028-2022-03-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-27T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-zestyai-welcomes-10m-infusion-from-fintech-firm-brex.md",
       "title": "Zesty.ai Welcomes $10M Infusion From Fintech Firm Brex",
       "excerpt": "U.S. Fintech company Brex has provided $10 million in growth capital via venture debt to Zesty.ai, a provider of predictive data analytics in the climate risk space. The financing will help Zesty.ai expand into use cases beyond insurance,",
@@ -148,6 +201,49 @@
         "AI",
         "AI in Education",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-israels-ourcrowd-to-open-global-ai-innovation-and-research-center-in-abu-dhabi.md",
+      "title": "Israel’s OurCrowd to open global AI innovation and research center in Abu Dhabi",
+      "excerpt": "Investment firm to launch financial service-focused operation in Emirati capital; Israel-UAE ties warm but flow of investments slower than expected, says company official",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/israels-ourcrowd-to-open-global-ai-innovation-and-research-center-in-abu-dhabi/",
+      "originalUrl": "https://www.timesofisrael.com/israels-ourcrowd-to-open-global-ai-innovation-and-research-center-in-abu-dhabi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2022/02/iStock-1299129724-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/israels-ourcrowd-to-open-global-ai-innovation-and-research-center-in-abu-dhabi/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israels-ourcrowd-to-open-global-ai-innovation-and-research-center-in-abu-dhabi/amp/",
+      "publishedDateTime": "2022-03-24T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -916,6 +1012,58 @@
       ]
     },
     {
+      "path": "_news/2022-03-11-2022-will-be-the-year-of-applied-ai.md",
+      "title": "2022 Will Be The Year Of Applied AI",
+      "excerpt": "For decades, since the 1950s when the term “artificial intelligence” (AI) was allegedly first coined, the concept of a machine ... to financial forecasting to chatbots and customer service ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/11/2022-will-be-the-year-of-applied-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/11/2022-will-be-the-year-of-applied-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/11/2022-will-be-the-year-of-applied-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/11/2022-will-be-the-year-of-applied-ai/amp/",
+      "publishedDateTime": "2022-03-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-10-predictive-analytics-and-machine-learning-market-may-see-a-big-move-alteryx-globe-telecom-schneider-electric-sas-institue-makinarocks.md",
       "title": "Predictive Analytics And Machine Learning Market May See a Big Move | Alteryx, Globe Telecom, Schneider Electric, SAS Institue, MakinaRocks",
       "excerpt": "The latest independent research document on Predictive Analytics And Machine Learning examine investment in Market. It describes how companies deploying",
@@ -1192,136 +1340,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-only-18-percent-of-fintechs-and-financial-services-organizations-believe-their-credit-risk-models-are-highly-accurate.md",
-      "title": "Only 18 Percent of Fintechs and Financial Services Organizations Believe Their Credit Risk Models Are Highly Accurate",
-      "excerpt": "Only 18 percent of fintechs and financial services organizations believe their credit risk models are accurate at least 75 percent of the time. The finding is revealed in new research outlining the greatest credit risk analysis challenges,",
-      "sourceUrl": null,
-      "webUrl": "https://www.silicon.co.uk/press-release/only-18-percent-of-fintechs-and-financial-services-organizations-believe-their-credit-risk-models-are-highly-accurate",
-      "originalUrl": "https://www.silicon.co.uk/press-release/only-18-percent-of-fintechs-and-financial-services-organizations-believe-their-credit-risk-models-are-highly-accurate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-07T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Week Europe",
-        "domain": "silicon.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-fintech-startup-credavenue-turns-unicorn-with-137-million-funding.md",
-      "title": "Fintech Startup CredAvenue Turns Unicorn With $137 Million Funding",
-      "excerpt": "Fintech startup CredAvenue has joined the unicorn club with a Series B fundraising round of $137 million, led by New York-based global private equity and venture capital firm Insi",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/421553",
-      "originalUrl": "https://www.entrepreneur.com/article/421553",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1646651575-new79.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-07T03:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning.md",
-      "title": "Smart Finance announces official launch of cryptocurrency platform based on AI and machine learning",
-      "excerpt": "London – March 3rd, 2022 – Smart Finance declares the launch of its avant-garde decentralized finance (DeFi) platform based on leading-edge artificial intelligence, machine learning and ...",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/press-releases/smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning",
-      "originalUrl": "https://cointelegraph.com/press-releases/smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wOTJmZmE0NDJlNTJkMWY3NzgwN2I5OTEwZWU3YmVjNC5qcGc=.jpg",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/press-releases/smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning/amp",
-      "publishedDateTime": "2022-03-06T14:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

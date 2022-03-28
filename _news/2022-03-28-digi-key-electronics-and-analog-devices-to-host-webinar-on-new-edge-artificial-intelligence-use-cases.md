@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-28T13:37:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/digi-key-electronics-and-analog-devices-to-host-webinar-on-new-edge-artificial-intelligence-use/article_89661c54-bd22-58ac-add7-5c13f5e70175.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/digi-key-electronics-and-analog-devices-to-host-webinar-on-new-edge-artificial-intelligence-use/article_89661c54-bd22-58ac-add7-5c13f5e70175.html"
 type: article
-quality: 24
-heat: 24
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: wfmz.com
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 500
     isCached: true
 
-secured: "bd1vCkkLjDoy8ZNb106r3dXhTfawCN5cnQR2Xns+Qij9Kea0CUy2V4UB/tnPG13FP/NtagLEzJIuD0ZkUr+kWktVsl0DQi1M07Is9PkamjHp+ojosWmJce0gQSa7btInhJkE/IogAbrE0fte/ez2bYaNKZFdjKe/J8RSdJ9zGYKPJornA0Epa52ZB2kYpiPW4EC/vSLXdz03v7yplltC37ixvjoMSDBoRmHm8FHflI/C6QhOPoeSfAS/6aic7YWRKtyIxZsB8+YkP9qQQRzsHiGH0LiI6zGLLetaKCxQZu5FHQPXZhsI4F2PTDFbbulw6ieHZgtO942O3BrEhWxSlT2/UMrA7SKqsYcyd+xd0Ls=;28Q+L6DZqhSOjBSm1L5lwA=="
+secured: "OE7ryd47waKYXiRYsA5PT2ctdymJRE8uCFA7DM/VwqZ0K2mzO31+c/zEHekSsYuTIqV2JRWaA7tHE8EzHn4RABD7q3yy+WaDbpE3rHdvHxGSqbPjYbhTHZFqpxmT8Q9L5as65KgQH8SBIS2NEFm9+x4lpFvcgqNPgX5qpJ86XF0bxLX267TUPKm+6zNbQ/bzDqeTx7HjhdNx1vgndBvnspF2s8wD1yJI3ko5HMaKcawKFn2ttIhXDrENsk1SYjUJJm4sahe2dw+z0l7zEfy4RroAW5IoWd5v7RQS0No0MIzyf1oPbqRLpGpRO1g2w6FfbnvKpSRc3nZhyNHMxzh0UcdOC7reeZJxOM7NYL/grCk=;2A8yt9ePksBPVSfhjzonPw=="
 ---
 

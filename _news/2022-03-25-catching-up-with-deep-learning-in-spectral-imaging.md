@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning makes its mark on medical imaging and therapy"
-    excerpt: "Attendees at the APS March Meeting heard about some of the latest medical applications of artificial intelligence and machine learning"
-    publishedDateTime: 2022-03-24T14:45:00Z
-    webUrl: "https://physicsworld.com/a/machine-learning-makes-its-mark-on-medical-imaging-and-therapy/"
+  - title: "Machine learning techniques can speed up glacier modeling by 1,000 times"
+    excerpt: "A novel glacier model has been developed which can simulate ice dynamics and ice interaction with the climate up to a thousand times faster than previous models. This model can be used to predict the evolution of glaciers and ice sheets under different scenarios."
+    publishedDateTime: 2022-03-28T14:33:00Z
+    webUrl: "https://phys.org/news/2022-03-machine-techniques-glacier.html"
+    ampWebUrl: "https://phys.org/news/2022-03-machine-techniques-glacier.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-03-machine-techniques-glacier.amp"
     type: article
     provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 56
+      name: Phys.org
+      domain: phys.org
+    quality: 58
     images:
-      - url: "https://physicsworld.com/wp-content/uploads/2022/03/AI-tech-concept-1140691248-iStock_metamorworks.jpg"
-        width: 1200
-        height: 675
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-techn-1.jpg"
+        width: 2410
+        height: 2004
         isCached: true
 
 secured: "rE6saYjWn8cP6NRLoRp27Azqj5OS8DQw0kyBIjzVaUIxqzyox//ARE4gMqlSv5lOKxvPKayfgnKSFG6astEfGV0BicsQ1AbvRVEoqBnjpThTvhFXjcXTs4KXbpk/d5DbOwrj7oNcefX8HbLWYhV4gwu6cY5opqHFKUThKGJMcxtYMBjfTmC5XaWmSmrogIGmEWSWyRF0SDDAqtOuqLn06CXDVKkT/2NvT0iOoyI56cwZmk7GE3ct8GkDy8DOBjNEquaBsxxrStsFBqEbWtUbiNm8GxJ8hLuRZU2JH76r71MRwzTJ4SaVPsmZMrQuxNin/OgdGotNU8lWw8M5qj0vxEYcFEuUfXgcidjV2Y1vByk=;O9Zm+SQwaEfuXX28Afl0pg=="

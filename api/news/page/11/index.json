@@ -2,6 +2,180 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-03-16-industrial-artificial-intelligence-market-to-see-booming-growth-alphabet-microsoft-ibm.md",
+      "title": "Industrial Artificial Intelligence Market to See Booming Growth | Alphabet, Microsoft, IBM",
+      "excerpt": "Advance Market Analytics published a new research publication on “Industrial Artificial Intelligence Market Insights, to 2027” with 232 pages",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/industrial-artificial-intelligence-market-to-see-booming-growth-alphabet-microsoft-ibm",
+      "originalUrl": "https://www.digitaljournal.com/pr/industrial-artificial-intelligence-market-to-see-booming-growth-alphabet-microsoft-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/345d9689605f742c2fe9066713d8618f6b2aad6d-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-easing-financial-nerves-with-artificial-intelligence.md",
+      "title": "Easing Financial Nerves With Artificial Intelligence",
+      "excerpt": "In 2022, global anxiety feels unavoidable. From climate change to the continued impact of Covid-19, we are experiencing challenges affecting everyone across the globe. Business leaders are not exempt from this fear.",
+      "sourceUrl": null,
+      "webUrl": "https://internationalbanker.com/technology/easing-financial-nerves-with-artificial-intelligence/",
+      "originalUrl": "https://internationalbanker.com/technology/easing-financial-nerves-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://internationalbanker.com/wp-content/uploads/2022/03/Artificial-Intelligence.png",
+          "width": 1339,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Banker",
+        "domain": "internationalbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-solving-big-problems-with-computer-vision-deep-learning.md",
+      "title": "Solving big problems with computer vision & deep learning",
+      "excerpt": "And the winners were both startups from India. Deep learning solution for hearing impaired Jayasudan Munsamy Jayasudan Munsamy and Arul Praveen T’s DeepVisionTech won two of the three awards ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/business/startups/trend-tracking/solving-big-problems-with-computer-vision-deep-learning/articleshow/90250024.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/business/startups/trend-tracking/solving-big-problems-with-computer-vision-deep-learning/articleshow/90250024.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-90250298,width-1070,height-580,imgsize-8098,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/business/startups/trend-tracking/solving-big-problems-with-computer-vision-deep-learning/amp_articleshow/90250024.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/startups/trend-tracking/solving-big-problems-with-computer-vision-deep-learning/amp_articleshow/90250024.cms",
+      "publishedDateTime": "2022-03-15T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-crisis-data-an-ethics-case-study.md",
+      "title": "Crisis Data: An Ethics Case Study",
+      "excerpt": "Politico published an article about a nonprofit called Crisis Text Line, which offers support via text messages for people who are going through mental health crises. For years, the nonprofit had been collecting a database of messages exchanged,",
+      "sourceUrl": null,
+      "webUrl": "https://www.scu.edu/ethics/focus-areas/internet-ethics/resources/crisis-data-an-ethics-case-study/",
+      "originalUrl": "https://www.scu.edu/ethics/focus-areas/internet-ethics/resources/crisis-data-an-ethics-case-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.scu.edu/media/ethics-center/internet-ethics/8265910706_0851f637c0_z-360x225.jpg",
+          "width": 360,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Santa Clara University",
+        "domain": "scu.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-amazon-launches-free-online-game-to-boost-aws-cloud-skills.md",
       "title": "Amazon Launches Free Online Game To Boost AWS Cloud Skills",
       "excerpt": "Amazon creates metaverse game AWS Cloud Quest to boost cloud computing skills for AWS certified cloud practitioners.",
@@ -902,198 +1076,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-cogniac-and-cisco-meraki-partner-to-automate-operations-with-computer-vision.md",
-      "title": "Cogniac and Cisco Meraki Partner to Automate Operations with Computer Vision",
-      "excerpt": "Cogniac Corporation (“Cogniac”), a leader in enterprise-class Artificial Intelligence (AI) image and video analysis, and Cisco Meraki have announced a strategic partnership to accelerate the delivery of AI-powered computer vision applications at the edge of the network.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-08f4ef5e9778c2bea6f3da6aac460229",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-08f4ef5e9778c2bea6f3da6aac460229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-tensorflowjs-is-a-library-for-machine-learning-in-javascript.md",
-      "title": "TensorFlow.js is a library for machine learning in JavaScript",
-      "excerpt": "Tutorials show you how to use TensorFlow.js with complete, end-to-end examples.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/js/?hl=fi-fi",
-      "originalUrl": "https://www.tensorflow.org/js/?hl=fi-fi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-js-logo-social.png?hl=fi-fi",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-financial-services-businesses-must-stop-putting-customer-due-diligence-on-the-backburner.md",
-      "title": "Financial services businesses must stop putting Customer Due Diligence on the backburner",
-      "excerpt": "Financial crime challenges even the most diligent of organisations. During the Covid-19 pandemic, fraud proliferated in the UK, with professional criminals targeting the public amid Covid-19 disruption to the tune of £37 million in 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/the-long-read/363/financial-services-businesses-must-stop-putting-customer-due-diligence-on-the-backburner",
-      "originalUrl": "https://www.finextra.com/the-long-read/363/financial-services-businesses-must-stop-putting-customer-due-diligence-on-the-backburner",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/oped/363.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-towards-the-reuse-of-supervised-deep-learning-algorithms-in-bioimage-analysis.md",
-      "title": "Towards the reuse of supervised deep learning algorithms in bioimage analysis",
-      "excerpt": "Over the last ten years, the amount of microscopy data acquired has increased dramatically, and so has the appetite to use deep learning to gain knowledge from these data. But how easy is this really?",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/towards-reuse-supervised-deep-learning-algorithms-bioimage-uhlmann",
-      "originalUrl": "https://www.linkedin.com/pulse/towards-reuse-supervised-deep-learning-algorithms-bioimage-uhlmann",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGs3zG-uI9z-w/article-cover_image-shrink_720_1280/0/1647342187150?e=1653523200&v=beta&t=zdG_pUpoHKVs77B_e8UzeujH8QiMPpVE5vSax9Cj6aM",
-          "width": 720,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,162 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-26-report-70-of-us-consumers-want-to-use-ai-for-their-jobs.md",
+      "title": "Report: 70% of U.S. consumers want to use AI for their jobs",
+      "excerpt": "While workers are interested in AI, they still want to maintain control over their solutions, rather than have AI run tasks automatically.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/25/report-70-of-u-s-consumers-want-to-use-ai-for-their-jobs/",
+      "originalUrl": "https://venturebeat.com/2022/03/25/report-70-of-u-s-consumers-want-to-use-ai-for-their-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1314526613-e1648140906488.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/25/report-70-of-u-s-consumers-want-to-use-ai-for-their-jobs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/25/report-70-of-u-s-consumers-want-to-use-ai-for-their-jobs/amp/",
+      "publishedDateTime": "2022-03-25T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-build-a-mental-health-machine-learning-risk-model-using-amazon-sagemaker-data-wrangler.md",
+      "title": "Build a mental health machine learning risk model using Amazon SageMaker Data Wrangler",
+      "excerpt": "This post is co-written by Shibangi Saha, Data Scientist, and Graciela Kravtzov, Co-Founder and CTO, of Equilibrium Point. Many individuals are experiencing new symptoms of mental illness, such as stress, anxiety, depression, substance use, and post-traumatic stress disorder (PTSD). According to Kaiser",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-mental-health-machine-learning-risk-model-using-amazon-sagemaker-data-wrangler/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-mental-health-machine-learning-risk-model-using-amazon-sagemaker-data-wrangler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/17/ML8274-image010-864x630.png",
+          "width": 864,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T13:37:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-improve-search-accuracy-with-spell-checker-in-amazon-kendra.md",
+      "title": "Improve search accuracy with Spell Checker in Amazon Kendra",
+      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning. You can receive spelling suggestions for misspelled terms in your queries by utilizing the Amazon Kendra Spell Checker. Spell Checker helps reduce the frequency of queries returning irrelevant results by providing spelling suggestions",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-search-accuracy-with-spell-checker-in-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-search-accuracy-with-spell-checker-in-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/25/ML-8602-image001-resized.jpg",
+          "width": 800,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T11:08:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-26-sandia-researcher-starts-muslim-community-robotics-team.md",
       "title": "Sandia Researcher Starts Muslim Community Robotics Team",
       "excerpt": "A research scientist at Sandia National Laboratories, who started the nonprofit Itkan Institute of Technology, has formed four student-led robotics teams in North Texas in hopes of encouraging interest in STEM.",
@@ -435,7 +591,7 @@
       "originalUrl": "https://www.01net.it/clearview-ai-releases-2-0-version-of-industry-leading-facial-recognition-platform-for-law-enforcement/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 219,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1040,164 +1196,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-the-check-up-our-latest-health-ai-developments.md",
-      "title": "The Check Up: our latest health AI developments",
-      "excerpt": "Over the years, teams across Google have focused on how technology — specifically artificial intelligence and hardware innovations — can improve access to high-quality, equitable healthcare across the globe.Accessing the right healthcare can be challenging depending on where people live and whether local",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/check-up-ai-developments-2022/",
-      "originalUrl": "https://blog.google/technology/health/check-up-ai-developments-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealth-BannerV2_Pp0TFr5.max-1300x1300.png",
-          "width": 1300,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/health/check-up-ai-developments-2022/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/check-up-ai-developments-2022/amp/",
-      "publishedDateTime": "2022-03-24T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research.md",
-      "title": "SAS and Clemson University deploy AI and machine learning software for education and research",
-      "excerpt": "SAS skills among students and supports analysis of massive datasetsCARY, N.C., March 24, 2022 /PRNewswire/ -- Clemson",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1772498/Watt_Center_Clemson.jpg",
-          "width": 400,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-ukraine-is-using-facial-recognition-tech-to-identify-dead-russian-soldiers-and-inform-their-families.md",
-      "title": "Ukraine is using facial recognition tech to identify dead Russian soldiers and inform their families",
-      "excerpt": "The Ukrainian government is using facial recognition software from the controversial startup Clearview AI to identify dead Russian soldiers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3",
-      "originalUrl": "https://www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/623c81dda2e45b00195027e0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3?amp",
-      "publishedDateTime": "2022-03-24T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

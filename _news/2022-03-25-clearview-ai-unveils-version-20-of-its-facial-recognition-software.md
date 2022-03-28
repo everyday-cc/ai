@@ -84,20 +84,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "NCJTC and Biometrica partner on facial recognition training for law enforcement"
-    excerpt: "The foundational course will train law enforcement in the understanding and ethical use of facial recognition for critical investigations."
-    publishedDateTime: 2022-03-23T22:42:00Z
-    webUrl: "https://www.biometricupdate.com/202203/ncjtc-and-biometrica-partner-on-facial-recognition-training-for-law-enforcement"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 50
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
   - title: "Ukraine using Clearview AI facial recognition to identify dead Russian soldiers"
     excerpt: "Clearview AI scans the web to pair images of the same person from a database of billions of social media images and flags the connection"
     publishedDateTime: 2022-03-24T10:44:00Z

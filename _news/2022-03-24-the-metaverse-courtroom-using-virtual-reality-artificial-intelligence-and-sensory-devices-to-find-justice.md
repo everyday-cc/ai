@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 624
         isCached: true
+  - title: "Nemesysco spinoff unveils emotional detection and AI tools for metaverse"
+    excerpt: "Nemesysco is in the process of spinning off a new voice analytics company called Emotion Logic, which will use AI for emotion detection in the metaverse."
+    publishedDateTime: 2022-03-28T15:00:00Z
+    webUrl: "https://venturebeat.com/2022/03/28/nemesysco-spinoff-unveils-emotional-detection-and-ai-tools-for-metaverse/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-549603135.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 864
+        isCached: true
   - title: "Using AI to communicate in a new world: why it’s so important"
     excerpt: "In a nutshell, it’s a virtual environment designed to facilitate human interaction. Like in a video game, an avatar serves as a person’s digital representation in the metaverse. Virtual reality headsets are designed to allow users to join a metaverse where they can converse with others no matter where they are physically located."
     publishedDateTime: 2022-03-27T16:50:00Z

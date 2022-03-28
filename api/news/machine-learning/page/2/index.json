@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-16-israeli-neuroscientists-use-artificial-intelligence-to-reassess-studies-on-consciousness.md",
+      "title": "Israeli neuroscientists use artificial intelligence to reassess studies on consciousness",
+      "excerpt": "Israeli neuroscientists reexamine hundreds of contradictory experiments on the connection between neural activity and consciousness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.israelnationalnews.com/news/324067",
+      "originalUrl": "https://www.israelnationalnews.com/news/324067",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arutz Sheva",
+        "domain": "israelnationalnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-andrej-karpathy-recreates-a-33-year-old-deep-learning-paper.md",
       "title": "Andrej Karpathy recreates a 33-year-old deep learning paper",
       "excerpt": "It has been 33 years since the paper was first published. But according to a fun experiment conducted by Tesla’s director of AI, Andrej Karpathy, the paper holds good even now.",
@@ -1284,50 +1318,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-ai-core-software-deep-learning-compiler-developed.md",
-      "title": "AI core software 'Deep Learning Compiler' developed",
-      "excerpt": "A Korean research team has unveiled a core technology which reduces the time and cost invested in developing artificial intelligence (AI) chips in small and medium-sized enterprises and startups. Thanks to the development of system software that solved the problems of compatibility and scalability between hardware and software which have been obstacles in the past,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-03-ai-core-software-deep.html",
-      "originalUrl": "https://techxplore.com/news/2022-03-ai-core-software-deep.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/etri-developed-ai-core.jpg",
-          "width": 2880,
-          "height": 1915,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-03-ai-core-software-deep.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ai-core-software-deep.amp",
-      "publishedDateTime": "2022-03-08T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI",
         "Machine Learning"
       ]

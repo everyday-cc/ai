@@ -2,6 +2,83 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-15-self-driving-car-technology-market-shaping-from-growth-to-value-byd-volkswagen-ibm.md",
+      "title": "Self-driving Car Technology Market Shaping From Growth To Value : BYD, Volkswagen, IBM",
+      "excerpt": "The Latest survey report on Self-driving Car Technology Market has witnessed continuous growth in the last few years and is projected to grow even further during the forecast peri",
+      "sourceUrl": null,
+      "webUrl": "https://eclecticnortheast.in/2022/03/15/self-driving-car-technology-market-shaping-from-growth-to-value-byd-volkswagen-ibm/",
+      "originalUrl": "https://eclecticnortheast.in/2022/03/15/self-driving-car-technology-market-shaping-from-growth-to-value-byd-volkswagen-ibm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eclectic Northeast",
+        "domain": "eclecticnortheast.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-14-nference-accelerates-self-supervised-language-model-training-with-cerebras-cs-2-system.md",
+      "title": "nference Accelerates Self-Supervised Language Model Training with Cerebras CS-2 System",
+      "excerpt": "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) compute, and nference, an AI-driven health technology company, today announced a collaboration to accelerate natural language processing (NLP) for biomedical research and development by orders of magnitude with a Cerebras CS-2 system installed at the nference headquarters in Cambridge,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-health-artificial-intelligence-ef5e8ac5c096420cb73f8e3812348db2",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-health-artificial-intelligence-ef5e8ac5c096420cb73f8e3812348db2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-14-artificial-intelligence-is-redefining-the-travel-industry.md",
       "title": "Artificial Intelligence is Redefining The Travel Industry",
       "excerpt": "Artificial intelligence (AI) is transforming the travel industry by offering predictive analytics, tailored recommendations and live updates.",
@@ -1293,101 +1370,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-buffett-backed-byd-to-use-baidu-apollos-autonomous-driving-technology-in-its-evs-as-it-raises-its-game-against-tesla-domestic-rivals.md",
-      "title": "Buffett-backed BYD to use Baidu Apollo’s autonomous driving technology in its EVs as it raises its game against Tesla, domestic rivals",
-      "excerpt": "It will be an important step for Beijing-based Baidu too, as it strives to commercialise its Apollo self-driving technologies after nearly five year of development. “BYD’s EVs have a good ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/china-business/article/3168807/buffett-backed-byd-use-baidu-apollos-autonomous-driving",
-      "originalUrl": "https://www.scmp.com/business/china-business/article/3168807/buffett-backed-byd-use-baidu-apollos-autonomous-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/03/01/0b981023-b94c-4324-be7a-50218aaf4a76_75ac7235.jpg?itok=El5opAGi&v=1646126110",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/china-business/article/3168807/buffett-backed-byd-use-baidu-apollos-autonomous-driving",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/china-business/article/3168807/buffett-backed-byd-use-baidu-apollos-autonomous-driving",
-      "publishedDateTime": "2022-03-01T03:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-baidu-beats-quarterly-revenue-estimates-on-ai-cloud-services-strength.md",
-      "title": "Baidu beats quarterly revenue estimates on AI, cloud services strength",
-      "excerpt": "Chinese search engine giant Baidu Inc reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-driving taxi services. Baidu has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-strength-2528766",
-      "originalUrl": "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-ai-cloud-services-strength-2528766",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--uSFnJqlG--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-03-01t085407z_2_lynxmpei201qj_rtroptp_3_baidu-results.jpg?itok=cYQJyey9",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T00:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -41,15 +41,20 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Aurora Innovation is testing self-driving Toyotas as taxis in Dallas area"
-    excerpt: "Texas is an important testing ground for us,” a spokesperson said. “It’s an ideal state to test in as we plan for the launch of an autonomous trucking product and autonomous ride-hailing product in relatively quick succession."
-    publishedDateTime: 2022-03-23T21:09:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2022/03/23/aurora-autonomous-driverless-toyota-dallas.html"
+  - title: "Self-driving vans from Toyota and Aurora partnership start testing in Texas"
+    excerpt: "They are testing in the Dallas-Fort Worth area, where Aurora has been testing self-driving semi-trailer trucks since 2020. Some of the conditions the prototypes are faced with inc"
+    publishedDateTime: 2022-03-28T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1135428_self-driving-vans-from-toyota-and-aurora-partnership-start-testing-in-texas"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 3
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 22
+    images:
+      - url: "https://images.hgmsites.net/hug/toyota-and-aurora-self-driving-car-prototype_100834160_h.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "N6aZVDIsm5A+E26+sBXfuveR5bAHTHbU49IhpTlGERzrK+FXm9toOg7vcPUhCgZ4qguH+XfzrkzHD+lybwFiO4ITGtZj0QCp/KBymses5Ze7zs2jMeZ2lBQq0e1DvB5QUaSlm4nVpk1+NMDwtrYJWx97LGfPMrIshz8Ifg0QDh/9tF99Q2VNtWLadS7rKPxrwk887GRRkrDAVX32UeIP1L+eWvXZUJdcSDrbBbcN9LSVns4YFB5HC2jGSKmuWmkyXWXJ6VMkeM/XbihZA9xahKTcOOJoLX/T27HC71F6hG5o2SyQJCPDEt68ToZHPl4aWQulOOwesTV+nt1Q3LZgM7vo+cNUSKZSRt+KG/oiM80Jtm0zautIkg2w4AN4TWEjIcTv/7Hm0kA4JEzPq/UMZs0ozdpoHa7wRKTQAIXq/JJqF2ZVjq3MeHEzPjktl/uns9ILbyGBjG/YqmUC6/X7gZnwPSGzOjYXKkroGwexx6Xvhn1Lp1tjYDQemXLU/FgruSDN0lof5qIymTAsuV4ljw==;A58rF3n+LHgNM/vm40+3eA=="
 ---

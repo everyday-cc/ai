@@ -7,7 +7,7 @@ originalUrl: "https://www.01net.it/clearview-ai-releases-2-0-version-of-industry
 webUrl: "https://www.businesswire.com/news/home/20220325005073/en/ Clearview-AI-Releases-2.0-Version-of-Industry-Leading-Facial-Recognition-Platform-for-Law-Enforcement"
 type: article
 quality: 119
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://uploads.dailydot.com/2022/03/facial-recognition-college.jpg?auto=compress&fm=pjpg&ixlib=php-3.3.1"
         width: 2000
         height: 1000
-        isCached: true
-  - title: "NCJTC and Biometrica partner on facial recognition training for law enforcement"
-    excerpt: "The foundational course will train law enforcement in the understanding and ethical use of facial recognition for critical investigations."
-    publishedDateTime: 2022-03-23T22:42:00Z
-    webUrl: "https://www.biometricupdate.com/202203/ncjtc-and-biometrica-partner-on-facial-recognition-training-for-law-enforcement"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 50
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
         isCached: true
   - title: "Ukraine using Clearview AI facial recognition to identify dead Russian soldiers"
     excerpt: "Clearview AI scans the web to pair images of the same person from a database of billions of social media images and flags the connection"

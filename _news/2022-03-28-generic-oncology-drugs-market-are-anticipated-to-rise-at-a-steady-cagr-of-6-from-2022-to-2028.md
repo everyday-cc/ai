@@ -39,6 +39,20 @@ related:
         width: 643
         height: 422
         isCached: true
+  - title: "Assistive Robotics Market Size Estimated to Reach USD 25.16 Billion at a CAGR of 22.1%, in 2028"
+    excerpt: "Presently, integration of Artificial Intelligence (AI) in assistive robotics is resulting in increasing usage in various applications such as product distribution, surveillance, control ..."
+    publishedDateTime: 2022-03-28T14:44:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/assistive-robotics-market-size-estimated-to-reach-usd-25-16-billion-at-a-cagr-of-22-1-in-2028"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 42
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2022/02/inn-social-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Self-Driving Car Market is Expected to Reach USD 62. 93 Billion Progressing at a CAGR of 22.75 % By Forecast 2027"
     excerpt: "Self-Driving Car Market Is Expected To Expand Upto USD 62. 93 Billion at a Rate Of 22.75 % percent by 2027. As per Maximize Market Research, due to"
     publishedDateTime: 2022-03-28T12:54:00Z

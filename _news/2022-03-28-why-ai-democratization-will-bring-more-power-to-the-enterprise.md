@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/28/why-ai-democratization-will-bring
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     height: 534
     isCached: true
 
-related:
-  - title: "Sandbox AQ’s convergence of quantum and AI will transform the enterprise"
-    excerpt: "Sandbox AQ, the Palo Alto, California-based enterprise software-as-a-service (SaaS) company that provides solutions at the intersection of quantum technology and artificial intelligence (AI), has emerged from Alphabet,"
-    publishedDateTime: 2022-03-23T21:33:00Z
-    webUrl: "https://venturebeat.com/2022/03/23/quantum-tech-and-ai-company-sandbox-aq-emerges-from-alphabet/"
-    ampWebUrl: "https://venturebeat.com/2022/03/23/quantum-tech-and-ai-company-sandbox-aq-emerges-from-alphabet/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/23/quantum-tech-and-ai-company-sandbox-aq-emerges-from-alphabet/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/quantum.png?w=1200&strip=all"
-        width: 1038
-        height: 690
-        isCached: true
-
-secured: "3TlV2rMWRp/xIQwmB6+sY3boOvxHETsKksCp/3UOyRrkb3eIjHyb+K/7a0qGYqpBqCshHiHLoFO0O4YPNAqK4FSwP4YzBHtd48c4B5TcpUaDyo9SFoJe6mEdXjCdWxf88mrN0WSjlzymuJHy6LJk03ZBnlyH3HvSnl5hpJJ7sVAwDQOD4GAhDRZnqbn4q03wRcoG3QBcc4kaU1S/0OBsDjQjjopi6A7XF5W4ZbVA0jSf0WK5VdsRcfOQLDYXrOBMpJuSkFuYd0CUmveHod+9IlwgG/FH0D93uBIAT/+p+to9gaRHwcFUr+SJ+637QVoamsmo4dI0W3AQjbX1tes9wyc73VJRg4vVPMx+nJsGZu4=;SDfO+Np6y5oxtyKkmKh9Tg=="
+secured: "u+98xKgF3z11MmKMKft2a41il3Baq1Msv5v3gzojXQSc/tWvcUpMzWtFNuXeAdmdhZToSlJ1ihvoV6W9Xd31pRA+t3+7DDQlN2dvp9qHoXMJI9Fcsp1xzrGrEqGY5vovNlB6OLKlD1d0aO6661heTeFCu+GSNVpdG0aHZ2H0pKavbumgrrsjcGYoOS2DiJhyWPXAOgroz/ApBCcCVJ18QE3Xj7yJkb21AkyYXcXcXPzdsP23KQSAX7uGAt8dsHGnvoa5ayGxIIGhNZGnU/xKNOz0NW0apKhgTIfMytWIMfJcyCrBybRp5Lvo/B+Y5PuauNf0lp+4s1MBX/Z6NK3mO6FeEXxNSA8ruz2L/frrIT/Sae4SR22bKu9RIZnvyQWq6vS9Az9Y2LTrh22OiY5oXqtUKND7aLbH9jVvNEEWMEYQ/h9kS12hhY86Yun+FFL+SUttWoSheB5OMb7GfdspbFoLPjEd+i9AB2oLWWhid540/Fi1Jl/YB+5YfZvUXtmiXSUCpPz3jF9UXadV+ip04g==;AlzQkjW0cSB4cFe789zYsg=="
 ---
 

@@ -46,6 +46,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Crafting Ethical AI That Monitors Unethical AI And Tries To Deter Bad AI From Acting Up, Useful Even For Exalted AI-Based Self-Driving Cars"
+    excerpt: "Let's use Ethical AI to oversee unethical AI, though this can be tricky and care is needed, which is illustrated via examples in the advent of AI-based self-driving cars."
+    publishedDateTime: 2022-03-28T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/03/28/crafting-ethical-ai-that-monitors-unethical-ai-and-tries-to-deter-bad-ai-from-acting-up-useful-even-for-exalted-ai-based-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/03/28/crafting-ethical-ai-that-monitors-unethical-ai-and-tries-to-deter-bad-ai-from-acting-up-useful-even-for-exalted-ai-based-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/28/crafting-ethical-ai-that-monitors-unethical-ai-and-tries-to-deter-bad-ai-from-acting-up-useful-even-for-exalted-ai-based-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 72
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/623126ba2e129e288514bf95/0x0.jpg?format=jpg&crop=2204,1652,x252,y0,safe&width=1200"
+        width: 1200
+        height: 899
+        isCached: true
   - title: "Democratization Of AI Is Said To Be Essential For AI Ethics But The Devil Is In The Details, Including The Case Of AI-Based Self-Driving Cars"
     excerpt: "A lot of discussion these days says that we need to democratize AI, which is quite a topic of great importance. The matter is closely reviewed herein and considered too with an example underlying the advent of AI-based self-driving cars."
     publishedDateTime: 2022-03-24T15:30:00Z
