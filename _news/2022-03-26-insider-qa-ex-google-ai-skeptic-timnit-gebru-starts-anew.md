@@ -51,7 +51,16 @@ related:
       name: Merced Sun-Star
       domain: mercedsunstar.com
     quality: 37
+  - title: "Ex-Google AI skeptic Timnit Gebru starts anew"
+    excerpt: "When she co-led Google's Ethical AI team, Timnit Gebru ... large language models — a type of language technology. Google search uses it to rank queries or those question-and-answer boxes that you see, machine translation, autocorrect and a whole bunch ..."
+    publishedDateTime: 2022-03-28T21:49:00Z
+    webUrl: "https://japantoday.com/category/tech/insider-q-a-ex-google-ai-skeptic-timnit-gebru-starts-anew"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
 
-secured: "m6N4PJCzn23Hb9V11vTReun7xoHrlq76RZz0/sX0ceRscJ7jWZXRflh50Kadk1gLY/4pwtcl14P1vXU64j3JLElafUY4KP9tNin+18H7J0JseCeFZ0bCdkGCg+GagTy6x6+jEO7pa0XaRn+Eo+0ccH+BGRtSTPrXfUhZ0G8rx7vmhtuHiVcuPJhOxaHCjjajGG66E3PqvGYC/GU6UZ/FSZwz21uKXiQq14AQ5bVfHTjq/r3H45O3k/U5gyLHKvUTsxBBI+IGUsbCT7bkP+iO1FQkvWycRKhZ5R9uutlpVmF8FUTDwMEnTDdgYLa6gkVP4Q1sCv71qAPwkszYj2a0tvI42/W122uIOkzw+0imoGk=;2lfhUdUCUtNbuNVSPrCvVQ=="
+secured: "FCIbp4wwhkiiubOyeM9ObKHkZtnMsKC7PNmGGNRSu80W2uFfhDI5E+3dNnhLQDYipjQNbO1QTXrJXvIay9pyc5oqk8LH0iTEpalP9PzLIS4MtVDoArjZPPX9c3DuFMjT597gc5I2zWTdtRFa9n5nkjBtZvwSpjZfgIUlMgpAVHmba8ZNUATRwFKgNARppazSMX1hJHcgfpQdh5CpCv2V1jELq7ZjJwwcZiAUlDgPEOEqLeuavWN+/tPGeAznCXlJ1qWvGlPJoHHRzHchYIb/y2a9jo+CKNZWE567DZC5kxemrA40YeaFIwIKjNnnBhJWY1Z6im2DznY8apvpGwyeRkbPOyhqh+siY3d6vQa2fNw=;i4Il7r4+InfftPjuHILBSg=="
 ---
 

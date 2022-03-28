@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use statistics and AI methods to correct systematic errors of weather models"
-    excerpt: "Better protection of humans and the environment requires precise forecasts of extreme weather phenomena, such as winter storms. Researchers of Karlsruhe Institute of Technology (KIT) have now compared methods of statistics and machine learning for forecasts of wind gusts with a view to make the forecasts more accurate and reliable."
-    publishedDateTime: 2022-03-28T11:42:00Z
-    webUrl: "https://phys.org/news/2022-03-statistics-ai-methods-systematic-errors.html"
-    ampWebUrl: "https://phys.org/news/2022-03-statistics-ai-methods-systematic-errors.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-03-statistics-ai-methods-systematic-errors.amp"
+  - title: "AI Tool Predicts Heart Attacks In Patients, Researchers Contend"
+    excerpt: "Cedars-Sinai researchers say they developed an algorithm that accurately predicted which patients would have a heart attack in five years."
+    publishedDateTime: 2022-03-27T18:03:00Z
+    webUrl: "https://patch.com/california/shermanoaks/ai-tool-predicts-heart-attacks-patients-researchers-contend"
+    ampWebUrl: "https://patch.com/california/shermanoaks/amp/30546766/ai-tool-predicts-heart-attacks-in-patients-researchers-contend"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/shermanoaks/amp/30546766/ai-tool-predicts-heart-attacks-in-patients-researchers-contend"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 50
+      name: Patch
+      domain: patch.com
+    quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/researchers-use-statis-1.jpg"
-        width: 1280
-        height: 720
+      - url: "https://patch.com/img/cdn20/shutterstock/23539314/20220327/020344/styles/patch_image/public/shutterstock-174191435___27140223435.jpg"
+        width: 1067
+        height: 800
         isCached: true
 
 secured: "y4IYtM16brtthb9EjqJpzn033uIgSVf3oiz3AV9dgDUiW5dLKEr1W4ls8/uIlvfRjzWlJP1Y67Te09tSASf8BX76lhPMLoINjeZYKfgEb0UCWFk+Q7zCbSzChSyIeVORFoww+leIdSjtRKu+kVm8WNhCS6eoHMY3nBkZ498uXP4Yb3Bcv6WsOJVNdSMzyXmyL7Y9DqoE/tD1Subj2rZqpymRO+L/AVViU51c8Zidx9SGBlcVObcV3mYVcv8OVARLh8V7EgJ9AMVVtZlfD1xjMn4kLFaP/FZq9MGrD8o4aMVp4nzuDa3GDZVa5Qw+Gv9IULtMGAHyblneUXYmM2HQRVC4mftx0vJdDBN2UL6Z0j0=;LzuXGbjHPzlx/Azen26vlA=="

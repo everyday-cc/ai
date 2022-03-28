@@ -105,22 +105,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Ukraine uses facial recognition to identify dead Russian soldiers & inform relatives"
-    excerpt: "Ukraine is using facial recognition software to identify the bodies of Russian soldiers killed in combat and to trace their families to inform them of their deaths. Ukraine's Vice PM Mykhailo Fedorov said they're doing this as a \"courtesy to the mothers of soldiers\"."
-    publishedDateTime: 2022-03-24T04:21:00Z
-    webUrl: "https://inshorts.com/en/news/ukraine-uses-facial-recognition-to-identify-dead-russian-soldiers-inform-relatives-1648095712654"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/ukraine-uses-facial-recognition-to-identify-dead-russian-soldiers-inform-relatives-1648095712654"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ukraine-uses-facial-recognition-to-identify-dead-russian-soldiers-inform-relatives-1648095712654"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 67
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/03_mar/24_thu/img_1648094486555_42.jpg?"
-        width: 960
-        height: 640
-        isCached: true
   - title: "Ukraine uses facial recognition software to identify Russian soldiers killed in combat"
     excerpt: "The defense ministry began using technology from Clearview AI which scrapes images on the web to match uploaded photos"
     publishedDateTime: 2022-03-24T21:38:00Z
@@ -180,6 +164,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/03/24/ukrainian-firefighters-work-amid-the-rubble-in-the.jpg"
         width: 768
         height: 512
+        isCached: true
+  - title: "Complex questions as face recognition tech joins Russia-Ukraine conflict"
+    excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said Thursday (March 24)."
+    publishedDateTime: 2022-03-28T21:00:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/complex-questions-as-face-recognition-tech-joins-russia-ukraine-conflict"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 53
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/03/29/yu_ukrainephone.jpg?VersionId=mv94_XLSdTM9C.CgSaLR1A0dJdFnj9q4"
+        width: 780
+        height: 520
         isCached: true
   - title: "Does facial recognition tech in Ukraine’s war bring killer robots nearer?"
     excerpt: "The US company Clearview AI has offered the Ukrainian military free use of its controversial facial recognition technology. Reuters reports that “the U.S. startup offered to uncover Russian assailants,"

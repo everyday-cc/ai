@@ -58,6 +58,50 @@
       ]
     },
     {
+      "path": "_news/2022-03-25-ai-model-may-help-predict-ovarian-cancer-treatment-outcomes.md",
+      "title": "AI model may help predict ovarian cancer treatment outcomes",
+      "excerpt": "An artificial intelligence (AI) model may help predict clinical outcomes at the time of laparoscopic assessment for advanced high-grade serous ovarian cancer (HGSOC), according to a study presented at the Society of Gynecologic Oncology's Annual Meeting on Women's Cancer,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-03-ai-ovarian-cancer-treatment-outcomes.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-03-ai-ovarian-cancer-treatment-outcomes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/ai-model-may-help-pred.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-03-ai-ovarian-cancer-treatment-outcomes.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-ai-ovarian-cancer-treatment-outcomes.amp",
+      "publishedDateTime": "2022-03-25T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-google-health-wants-to-speed-up-healthcare-with-machine-learning-and-smartphones.md",
       "title": "Google Health wants to speed up healthcare with machine learning and smartphones",
       "excerpt": "Google Health is having a field day today — the company is dubbing it as \"The Check Up\" — and part of it means checking up on what artificial intelligence has enabled in and out of doctors' offices around the world: using ordinary equipment to quickly generate accurate results.",
@@ -244,17 +288,17 @@
       "title": "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards",
       "excerpt": "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-812be7d276734b00a1b5ecd9b7d1d927",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-812be7d276734b00a1b5ecd9b7d1d927",
+      "webUrl": "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html",
+      "originalUrl": "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/2f/c2fe3e5e-68b4-11ec-b5b1-eb6d367dec1b/61cc72a6c74a5.image.jpg",
+          "width": 320,
+          "height": 325,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -264,11 +308,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T05:41:00-07:00",
+      "publishedDateTime": "2022-03-22T05:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "The Register-Herald",
+        "domain": "register-herald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -722,7 +766,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1294,49 +1339,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-13-healthcare-analytics-and-artificial-intelligence-msc.md",
-      "title": "Healthcare Analytics and Artificial Intelligence (MSc)",
-      "excerpt": "Healthcare Analytics and Artificial Intelligence (MSc) at Sheffield Hallam University, listed on FindAMasters.com - a comprehensive database of Masters, MSc, MA, MPhil & MRes courses in the UK & Irela",
-      "sourceUrl": null,
-      "webUrl": "https://www.findamasters.com/masters-degrees/course/healthcare-analytics-and-artificial-intelligence-msc/?i219d2021c68034",
-      "originalUrl": "https://www.findamasters.com/masters-degrees/course/healthcare-analytics-and-artificial-intelligence-msc/?i219d2021c68034",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fau-res.cloudinary.com/image/upload/mas/search-suggestions.jpg",
-          "width": 766,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-12T14:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Masters",
-        "domain": "findamasters.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -8,7 +8,7 @@ webUrl: "https://www.globalbankingandfinance.com/the-impact-open-banking-cloud-a
 ampWebUrl: "https://www.globalbankingandfinance.com/the-impact-open-banking-cloud-and-ai-are-having-on-the-banking-industry/"
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/the-impact-open-banking-cloud-and-ai-are-having-on-the-banking-industry/"
 type: article
-quality: 73
+quality: 75
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/iStock-1334591614.jpg"

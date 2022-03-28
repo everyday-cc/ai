@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-03-ex-google-ai-skeptic-timnit-gebr
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ex-google-ai-skeptic-timnit-gebru.amp"
 type: article
 quality: 59
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
       name: Merced Sun-Star
       domain: mercedsunstar.com
     quality: 37
+  - title: "Ex-Google AI skeptic Timnit Gebru starts anew"
+    excerpt: "When she co-led Google's Ethical AI team, Timnit Gebru ... large language models — a type of language technology. Google search uses it to rank queries or those question-and-answer boxes that you see, machine translation, autocorrect and a whole bunch ..."
+    publishedDateTime: 2022-03-28T21:49:00Z
+    webUrl: "https://japantoday.com/category/tech/insider-q-a-ex-google-ai-skeptic-timnit-gebru-starts-anew"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
 
 secured: "6mQm7b4dTLESQLnY2q9zuB6883eZcVMvsLMT43tnL2VDMg1wQDIGyAM6H/n1+41K3kOiN/0UoSFu2UHjULflG9AAoT77Vc9ZTLs+uBl0jgcaffJ1iI4OFba1IiV/ygUR45QaPv84msa/tdzrRJruPMw6TNXXMQE7TaQBt1sPWM4GLSxQydQKxQR608bFFcFpcjBeIhuok02Gw/1j4aN+T16HRdu+91GU04GEayp+Kedasj95dgAd+8XN/xW8EB4naI+YWnaPg3uEksDp83HL4ajx19RbkMMMi80ke0+OqPTQIPsdX2Z0NfkJ/5bcOHbU0Bbye7sP7MIUtbVfX3QD6qsG/jJJueoPTVb9ySKwm3E=;mIryY9UghQU5BLadeMGLXw=="
 ---
