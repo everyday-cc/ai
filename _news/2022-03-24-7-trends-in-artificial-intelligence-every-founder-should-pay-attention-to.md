@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Chooch Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that Chooch was named a winner in its Artificial Intelligence Excellence Awards program. Chooch solves a fundamental AI problem: teaching machines to understand visual data."
-    publishedDateTime: 2022-03-24T01:23:00Z
-    webUrl: "https://menafn.com/1103900820/Chooch-Named-Winner-in-2022-Artificial-Intelligence-Excellence-Awards"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?36282"
-        width: 377
-        height: 250
-        isCached: true
   - title: "AI in Fintech Market Size, Trends, Outlook, Opportunity Forecast 2022-2031"
     excerpt: "Comserve / -- AI in Fintech Market offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts."
     publishedDateTime: 2022-03-25T11:53:00Z

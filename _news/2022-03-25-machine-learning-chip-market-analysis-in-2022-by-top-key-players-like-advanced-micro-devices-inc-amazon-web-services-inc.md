@@ -26,22 +26,6 @@ images:
     height: 360
     isCached: true
 
-related:
-  - title: "Global Text-to-Speech Market Key Players and Future Trends Industry Analysis"
-    excerpt: "Increasing geriatric population and rising demand for handheld devices is driving growth of the global text-to-speech market VANCOUVER, BC"
-    publishedDateTime: 2022-03-24T01:22:00Z
-    webUrl: "https://menafn.com/1103898873/Global-Text-to-Speech-Market-Key-Players-and-Future-Trends-Industry-Analysis"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?36282"
-        width: 377
-        height: 250
-        isCached: true
-
 secured: "Z1QtJttvh6C/MSOGJXHJMJxikBrKoH1f0t98JfaKHUQzTnXrrPzhpst5hmP9y7WhOXMRTQuejBXY5CJHu5Y1lM00C+yPpT2BVJK3OoDEjL/bYLb39T+TXzX/w7dfODmW68PwU7/SBDZUPJxaZnh6L+JPEFNHHBAwX1MPBFg6IF5s+4XM+4btFGxSazgcGDFOZp3veZrhnJHM2bY3+tBsXxjgVwr4oO42RNIf3WfWgPq8AOScrhItwZOp5b4NdVFrkjbaCbveftEmwLKgqvsvuwEP9mV5rx4YDH2H99BVxhOBGnRKypRccml+6RuUb5Ae9frFQ5uAbzqsjFCBNsPbByfJS400Ed/LVQS+qtXJPwY=;Eo8zOEOmC/gr+H1X6CDwGg=="
 ---
 

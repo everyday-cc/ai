@@ -41,6 +41,36 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Mercedes to accept legal responsibility for accidents involving self-driving cars"
+    excerpt: "Mercedes has announced that it will take legal responsibility for any crashes that occur while the self-driving system on any of its cars is engaged."
+    publishedDateTime: 2022-03-28T17:55:00Z
+    webUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/"
+    ampWebUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Sunday Times Driving
+      domain: driving.co.uk
+    quality: 39
+    images:
+      - url: "https://www.driving.co.uk/wp-content/uploads/sites/5/2021/09/SAE-levels-of-automation.jpeg?w=1000"
+        width: 1000
+        height: 680
+        isCached: true
+  - title: "Tesla is working to release huge full self-driving beta update"
+    excerpt: "Tesla is currently working on releasing a beta version of its \"Full Self-Driving\" (FSD) software. What features does this beta version include?"
+    publishedDateTime: 2022-03-28T19:21:00Z
+    webUrl: "https://techaeris.com/2022/03/28/tesla-is-working-to-release-huge-full-self-driving-beta-update/"
+    type: article
+    provider:
+      name: Techaeris
+      domain: techaeris.com
+    quality: 39
+    images:
+      - url: "https://techaeris.com/wp-content/uploads/2021/12/Tesla-Model-3.jpg"
+        width: 1170
+        height: 724
+        isCached: true
   - title: "Self-driving cars move closer to approval as Toyota tests cars in USA"
     excerpt: "Japan Toyota Motor Company and Aurora Innovation an American developer of automated driving systems have begun testing an autonomous ride-hailing fleet in Texas"
     publishedDateTime: 2022-03-27T03:06:00Z

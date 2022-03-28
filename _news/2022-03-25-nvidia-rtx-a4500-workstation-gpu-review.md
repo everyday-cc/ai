@@ -71,15 +71,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "NVIDIA H100 GPU full details: TSMC N4, HBM3, PCIe 5.0, 700W TDP, more"
-    excerpt: "NVIDIA's next-gen Hopper GPU architecture is here, with the new flagship H100 GPU: 80 billion transistors, made on TSMC N4 node."
-    publishedDateTime: 2022-03-24T02:27:00Z
-    webUrl: "https://www.tweaktown.com/news/85246/nvidia-h100-gpu-full-details-tsmc-n4-hbm3-pcie-5-0-700w-tdp-more/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
 
 secured: "PBhcPzym2ZA01bulwNtlVpWC/pQbt45VLWhq13Z4ndgBkH0qQsM7ewhD2mtows5IqLKP3T8PimvWTtlixyiaOQWgsd8Vudi6dY8YWfor3Otdv9XrjvIcs9KQjo7gKqCmLknkyjwp5uwS6Zi0cjPpcqM7jHjsu+F+fBffFb2wuLpdH68M1ZZVUlIyHdk3VzXfw1gEba//pIwawFUvI28RmmfGZ6HUtWf6n06tfOsywGRvp1x5OvLy589XDPaP1Bty2nhNaczPz7AVev1m+3bAz6gfa7Xc3az1jJwRnkN5OGgNEZGb3ztT8njaIuUKXncBVeWYRic/A3GtAz5brDbOs7bqp9WEfcJrnd4hW/89OBFQU2Bk9dTEyLu1ViKjxSqx5eXCHwsNYzch9WQS5xuXjst4IOhD/EqnyKbTZOKig6OG6Jxg4LnJ24mS4GS+n5gErzL33Yty7xW43CQAlv3ow5NcGPHFwV+5mr1qybviSsscFhgQ6O/8m8FFv7wpkFNfixbVKqm0cU7wYFQltRMAUg==;fMJL9GbEkMQy8/CZkokIUw=="
 ---

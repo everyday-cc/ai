@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Could Will Smith face charges for slapping Chris Rock?"
+    excerpt: "Actor Will Smith walked onto the stag Sunday evening and slapped comedian Chris Rock during the live broadcast. Rock had just made a joke about Smith’s wife’s lack of hair, which Jada Pinkett Smith says is the result of a medical condition called alopecia."
+    publishedDateTime: 2022-03-28T19:28:00Z
+    webUrl: "https://www.news4jax.com/news/2022/03/28/could-will-smith-face-charges-for-slapping-chris-rock/"
+    ampWebUrl: "https://www.news4jax.com/news/2022/03/28/could-will-smith-face-charges-for-slapping-chris-rock/?outputType=amp"
+    cdnAmpWebUrl: "https://www-news4jax-com.cdn.ampproject.org/c/s/www.news4jax.com/news/2022/03/28/could-will-smith-face-charges-for-slapping-chris-rock/?outputType=amp"
+    type: article
+    provider:
+      name: News4Jax
+      domain: news4jax.com
+    quality: 44
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/FBDVONGKSNFSXN7YCAMWFVRJWM.jpg?_a=ATABld60"
+        width: 700
+        height: 467
+        isCached: true
   - title: "WATCH: Will Smith apologises for attacking Chris Rock during Oscar acceptance speech"
     excerpt: "\"Love will make you do crazy things.\" In one of the most dramatic nights of television in years, Will Smith apologised for attacking Chris Rock while presenting an award at the 94th Academy Awards on Sunday (27 March)."
     publishedDateTime: 2022-03-28T09:12:00Z
@@ -56,20 +72,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2022/03/28/09/55895869-0-image-a-19_1648456495564.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "'Love will make you do crazy things', Will Smith says in Oscar acceptance speech after hitting presenter Chris Rock"
-    excerpt: "Love will make you do crazy things', Will Smith says in Oscar acceptance speech after hitting presenter Chris RockWill Smith insisted he is \"being called on\" to \"protect\" those he loves as he picked up the Best Actor Oscar."
-    publishedDateTime: 2022-03-28T04:55:00Z
-    webUrl: "https://www.asiaone.com/entertainment/love-will-make-you-do-crazy-things-will-smith-says-oscar-acceptance-speech-after"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 2
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Mar2022/20220328_willsmith_pexels%20%281%29.jpg?itok=B5_6c0OX"
-        width: 800
-        height: 567
         isCached: true
 
 secured: "w0o+337yA4MHJrzM60uABeUbxGQK+dJrBJRg8lVM4d7tqfav6ycvOqNg58W6WOiq2+l/eeMw+AGr4GTMyMpfHMNDoJphzGk/D/Ltemcavxsij+YNzrIoMT1vMJxtGasWDQc+im3jKIslDWRi9NOsy8txwMSD+vWFOCxqmzIzFsWPzx3/Xmk4VaGMMr+7NfFOJH93pfwJ3h0j+wNBcRoQlRUWHm1hh/E+fYsJQBwFTi+8vrF1HffnRUqmLikU+43dcnM1ELCT9gxigl8/zzstQrJX3FIH2W++r2QJRP1ol5Cvuqv7klvt+HVsfcZdooCemaSiiWN3PgPD+922E2hRzij8raWOBegLTOGqETqkMrM=;tfB5LlaFHT/RA2oAVxzWUQ=="

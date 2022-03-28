@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202203/authid-ai-results-reflect-i
 webUrl: "https://www.biometricupdate.com/202203/authid-ai-results-reflect-increased-mobile-face-biometrics-investment"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trueface overhauls face biometrics SDK"
-    excerpt: "Trueface shows an update to its software development kit (SDK) with a plethora of changes to its flagship facial recognition product."
-    publishedDateTime: 2022-03-28T17:02:00Z
-    webUrl: "https://www.biometricupdate.com/202203/trueface-overhauls-face-biometrics-sdk"
+  - title: "Here's the 23-page pitch deck that convinced billionaire Jamie Dinan to bet millions on biometric security company authID.ai"
+    excerpt: "After a big investor pulled out a financing deal, authID.ai raised $22.5 million from existing investors including York Capital founder Jamie Dinan."
+    publishedDateTime: 2022-03-28T19:21:00Z
+    webUrl: "https://www.businessinsider.com/authidai-pitch-deck-jamie-dinan-biometrics-auid-2022-3"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://i.insider.com/60afb0eebee0fc0019d59e74?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "Q6e+1h/q5d5HtfuNNo777+xQ7DaqGBn6XPEj4F7fg0H6C6Osy1pqRUFFs5qOp2zVUkwJwsBRaaJb7fi+4cQIF2CPbMgFrnVmCy1b3l4sle7XswvqVnc+Shxkqf2mcaLnJoAZxEkR+C/PDZG3hvli0vK4pgXRkQrEWJmUg+3QbnWzZGUWMoYJ92Gk4eKPE5SChK4PdfpTvPXnk5LvZpbr0q2w3pz7hmIOgT3CJoeCJ8Uh9+FgcWbomqyBnu+oLmchNx1vPsxYbQHAogP/IjZJ41jypktaLEVQk9fMkqTK3pEju7RQVtHRBmbNoY5hyAjZ0eWuyeQiggk31uSywUCSIEFozv36euhmfIu3k+m5FhZXeUEGzGL6/Pl5fRmiF3wPw2JkHzfkGS540RI24gz/6dJcX/UPNvyJBiTNUjYC0ni+HJrwm9zTi9n51rf8xcBwbgFGRtEl1x5xQzLt5eN0rDF1igxnahm+SlWBYAECTBy3wZh2aQo4bmYGOzOtOjG+Bi4DarBLQ25b9ELVhr2kuw==;qPInIYv+WSxGU6VDPbPuhg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/25/six-ai-tre
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/25/six-ai-trends-to-watch-in-2022/amp/"
 type: article
 quality: 89
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Chooch Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that Chooch was named a winner in its Artificial Intelligence Excellence Awards program. Chooch solves a fundamental AI problem: teaching machines to understand visual data."
-    publishedDateTime: 2022-03-24T01:23:00Z
-    webUrl: "https://menafn.com/1103900820/Chooch-Named-Winner-in-2022-Artificial-Intelligence-Excellence-Awards"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?36282"
-        width: 377
-        height: 250
         isCached: true
   - title: "7 Trends in Artificial Intelligence Every Founder Should Pay Attention To"
     excerpt: "If you're wondering how important artificial intelligence is to your business's future, all you have to do is follow the money. In 2021, private companies invested $93.5 billion in AI--more than double the total private investment in 2020."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.joe.ie/amp/movies-tv/will-smith-apology-oscars-745060"
 cdnAmpWebUrl: "https://www-joe-ie.cdn.ampproject.org/c/s/www.joe.ie/amp/movies-tv/will-smith-apology-oscars-745060"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Could Will Smith face charges for slapping Chris Rock?"
+    excerpt: "Actor Will Smith walked onto the stag Sunday evening and slapped comedian Chris Rock during the live broadcast. Rock had just made a joke about Smith’s wife’s lack of hair, which Jada Pinkett Smith says is the result of a medical condition called alopecia."
+    publishedDateTime: 2022-03-28T19:28:00Z
+    webUrl: "https://www.news4jax.com/news/2022/03/28/could-will-smith-face-charges-for-slapping-chris-rock/"
+    ampWebUrl: "https://www.news4jax.com/news/2022/03/28/could-will-smith-face-charges-for-slapping-chris-rock/?outputType=amp"
+    cdnAmpWebUrl: "https://www-news4jax-com.cdn.ampproject.org/c/s/www.news4jax.com/news/2022/03/28/could-will-smith-face-charges-for-slapping-chris-rock/?outputType=amp"
+    type: article
+    provider:
+      name: News4Jax
+      domain: news4jax.com
+    quality: 44
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/FBDVONGKSNFSXN7YCAMWFVRJWM.jpg?_a=ATABld60"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Oscars 2022: Tearful Will Smith DEFENDS Chris Rock slap in Best Actor acceptance speech"
     excerpt: "In his acceptance speech just 40 minutes later ... Netflix's Power Of The Dog led nominations with 12 nods including Best Picture, Best Director and recognition for all of its top actors: Benedict Cumberbatch, Kirsten Dunst, Jesse Plemons and Kodi ..."
     publishedDateTime: 2022-03-28T08:49:00Z
@@ -56,20 +72,6 @@ related:
       - url: "https://www.timesandstar.co.uk/resources/images/13618561/"
         width: 948
         height: 532
-        isCached: true
-  - title: "'Love will make you do crazy things', Will Smith says in Oscar acceptance speech after hitting presenter Chris Rock"
-    excerpt: "Love will make you do crazy things', Will Smith says in Oscar acceptance speech after hitting presenter Chris RockWill Smith insisted he is \"being called on\" to \"protect\" those he loves as he picked up the Best Actor Oscar."
-    publishedDateTime: 2022-03-28T04:55:00Z
-    webUrl: "https://www.asiaone.com/entertainment/love-will-make-you-do-crazy-things-will-smith-says-oscar-acceptance-speech-after"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 2
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Mar2022/20220328_willsmith_pexels%20%281%29.jpg?itok=B5_6c0OX"
-        width: 800
-        height: 567
         isCached: true
 
 secured: "g2cdDvTTf2Ed6jXLmDDCsN1FwOsIr72/bmDvcrBR/53tkfGn6ESyM6QYkHcVgiGHCZzTxTt+7iow76THU/EWny8oQ5WFwgRU8ivbwSR83rSv/Sh/H1M3gfblamgXrNpoWoFef4/n8iVuAB+t29+MA3LduifOMZEkXZPuZzpzObasUzQLRUAdMTJcoFc0VYxIz8a0Cw4OOzr45SC4XyAgR2sxR72EmmzNjyBHflQFeUbInUK1rGlZCzizFUpkkJQ/6E9XhWoWfIyvl64cK0/wDX0v/VUhy/CUVFqJs8Mjo18KpVBw5NIUPVJfjkMIKKzs6f/Z2Mq6vcF/O6kKmZ5zSbZbSMMeAy6JLzwTkm6jGA4=;y7HN6zvw3QWoSQYebJNQQw=="
