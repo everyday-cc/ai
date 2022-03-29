@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://regmedia.co.uk/2019/10/08/shutterstock_ai_chip_design.jpg"
@@ -23,6 +24,6 @@ images:
     height: 750
     isCached: true
 
-secured: "ERKDq8f81h1ygcDo4w0U+otloUzZsPkh2/cynPEQOqlMjk21VxSKRA3/ocFQUvTHWuGxSaQww8QE8J1NZw4vnUW4FtYvxvbcEKegMqq4TLS2Aw5UNUwxbRT7i0jhF7NDsVSsacJdzgxdTNsB2PeHgL1F40xP3bE38AptneE31yZ/sQnLdqI3HLcp2f8ZzmoOtYVODf9n3IXQ3XIAhSYYO5M0d4JVXTTf7L8W7xZaYhJBYuESwTbwdR9g2WC+UYpaxkVTKnD5YKHU6txwz00dVn9kwWnaky0L+uCJ1ZN1eOKGtQQOxbvpjUOJjViwq4Em0sngB46cOsNw8yiRXg32PjmgXDpsE5azNjQhmt5GHko=;WVxBL2QqW+IHznCs8hkPog=="
+secured: "snv0JlD2Cf8WHNMTGclo+mNeOegjl3A05Bu9f9In44ylQNZ6TAgCcONLZeZM/DE1Lmc+dwgYqWxY4YRH4jB66kQGFez7egDiPQOFhBpAGvgSKc18kETAOUPI7HQpr/ZMxKwqawGSRJomwbWU2cR2F5e1eA21wD4EEEllvvg+SIb4esOPGviRYErfjfOUTcF45D6imCsC3HPvWHCSDaBhMcpo41FDtbSXtihMs/9tW5X9kj5poYog1sjLKjkJ+byvYmILWFaxvGjNodYnvH7gxM4jWiuIZ+fDcJ6J5OjdRK2PlVNWClb+j/Obuz3m9c9F/6lEGP73mYnT0+DD/HHopUnReaU9/vr34dqehyO0ms5iuRF3m/hguPFr+k2Aw+Gk/BsttEFwutiI2WliLLvKFTmxuK1MTp8eaPRk/kU/xndqT1pwRoYr2JI5hZZIgcDrmihJZmd2CKewcW29mQzl9Iixf/oB37p0E1yTDfgZVcfLEjwo8uWHFe65UgAXZxNzZfVKA/nr9LFq0dvqfl9I9w==;sXVxqZTMBKX3sqs5Va6Peg=="
 ---
 

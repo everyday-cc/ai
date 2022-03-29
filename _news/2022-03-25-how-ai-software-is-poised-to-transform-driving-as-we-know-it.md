@@ -46,6 +46,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Otter.ai rolls out a new AI-generated meeting summary feature and more collaboration tools"
+    excerpt: "AI-powered voice transcription service Otter.ai is releasing a set of new meeting-focused features to boost collaboration, the company announced on Tuesday. Most notably, the company is adding a new “Automatic Outline” feature that uses Otter’s proprietary AI to automatically"
+    publishedDateTime: 2022-03-29T16:20:00Z
+    webUrl: "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/"
+    ampWebUrl: "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 77
+    images:
+      - url: "https://i.ytimg.com/vi/vdmHxFwZCCU/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Crafting Ethical AI That Monitors Unethical AI And Tries To Deter Bad AI From Acting Up, Useful Even For Exalted AI-Based Self-Driving Cars"
     excerpt: "Let's use Ethical AI to oversee unethical AI, though this can be tricky and care is needed, which is illustrated via examples in the advent of AI-based self-driving cars."
     publishedDateTime: 2022-03-28T15:30:00Z

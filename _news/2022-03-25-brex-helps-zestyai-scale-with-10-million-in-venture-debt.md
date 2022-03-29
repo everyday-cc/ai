@@ -99,20 +99,6 @@ related:
         width: 1260
         height: 754
         isCached: true
-  - title: "Brex Helps Zesty.ai Scale With $10 Million in Growth Capital"
-    excerpt: "This deal marks continued momentum for Brex Venture Debt, which Brex launched in August 2021 as a way to help founders take their business to the next level. It helps growing busi"
-    publishedDateTime: 2022-03-25T00:21:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220324NY02101/brex-helps-zesty-ai-scale-with-10-million-in-growth-capital/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 39
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
-        isCached: true
   - title: "Zesty.ai Receives $10M in Growth Capital"
     excerpt: "Zesty.ai, a San Francisco, CA-based provider of predictive data analytics in the climate risk space, received $10M in venture debt financing"
     publishedDateTime: 2022-03-26T11:08:00Z

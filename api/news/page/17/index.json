@@ -2,6 +2,153 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-03-12-for-indiana-jones-deepminds-most-recent-ai-innovation-may-be-ideal.md",
+      "title": "For Indiana Jones, DeepMind’s most recent AI innovation may be ideal",
+      "excerpt": "Restoring and piecing together old inscriptions, manuscripts and other works might be made easier by a new AI model developed by Alphabet. It is very uncommon for ancient manuscripts to be damaged and partial,",
+      "sourceUrl": null,
+      "webUrl": "https://bestgamingpro.com/for-indiana-jones-deepminds-most-recent-ai-innovation-may-be-ideal/",
+      "originalUrl": "https://bestgamingpro.com/for-indiana-jones-deepminds-most-recent-ai-innovation-may-be-ideal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bestgamingpro.com/wp-content/uploads/2022/03/The-latest-DeepMind-AI-breakthrough-could-be-perfect-for-Indiana-Jones.png",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-12T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bestgamingpro",
+        "domain": "bestgamingpro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-12-the-latest-deepmind-ai-breakthrough-could-be-perfect-for-indiana-jones.md",
+      "title": "The latest DeepMind AI breakthrough could be perfect for Indiana Jones",
+      "excerpt": "Uncovering the mysteries of the ancient world could soon get a little easier thanks to a new release from DeepMind. The Alphabet-owned firm has revealed Ithaca, a new AI model that could help ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/the-latest-deepmind-ai-breakthrough-could-be-perfect-for-indiana-jones",
+      "originalUrl": "https://www.techradar.com/news/the-latest-deepmind-ai-breakthrough-could-be-perfect-for-indiana-jones",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/HVKrcBZzhDZ6z67ppRMnrn-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-12T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-12-conversational-ai-the-future-of-man-machine-singularity.md",
+      "title": "Conversational AI: The Future of Man-Machine Singularity",
+      "excerpt": "The social evolution on this planet has consumed several millennia. The languages we speak globally and interacting with people by understanding the context of discussions have far more refined and polished than what pre-historic humanoids used to practice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/conversational-ai-future-man-machine-singularity-alok-nayak",
+      "originalUrl": "https://www.linkedin.com/pulse/conversational-ai-future-man-machine-singularity-alok-nayak",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE_KpyNBndcXg/article-cover_image-shrink_720_1280/0/1647070382704?e=1653523200&v=beta&t=b16PG9_8vOWe-0ixNoRvrp3gxDrSbknDbwr4cIufnqs",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-11T23:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-12-a-survey-of-ai-news-from-around-the-web.md",
       "title": "A Survey of A.I. News from Around the Web",
       "excerpt": "I wanted to present some curated links about A.I. in case you have an obsession like I do to follow some of the best related stories from around the Web. If you enjoy articles about A.I. at the intersection of breaking news join AiSupremacy here.",
@@ -1003,135 +1150,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-brain-based-computing-chips-not-just-for-ai-anymore.md",
-      "title": "Brain-based computing chips not just for AI anymore",
-      "excerpt": "With the insertion of a little math, researchers have shown that neuromorphic computers, which synthetically replicate the brain's logic, can solve more complex problems than those posed by artificial intelligence and may even earn a place in high-performance computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/03/220310170837.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/03/220310170837.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T16:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-2022-will-be-the-year-of-applied-ai.md",
-      "title": "2022 Will Be The Year Of Applied AI",
-      "excerpt": "For decades, since the 1950s when the term “artificial intelligence” (AI) was allegedly first coined, the concept of a machine ... to financial forecasting to chatbots and customer service ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/11/2022-will-be-the-year-of-applied-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/11/2022-will-be-the-year-of-applied-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/11/2022-will-be-the-year-of-applied-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/11/2022-will-be-the-year-of-applied-ai/amp/",
-      "publishedDateTime": "2022-03-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-artificial-intelligence-ai-in-medical-market-will-likely-see-excellent-gains-in-key-business-segments.md",
-      "title": "Artificial Intelligence (AI) in Medical Market Will Likely See Excellent Gains in Key Business Segments",
-      "excerpt": "Global Artificial Intelligence (AI) in Medical Market by Player, Region, Type, Application and Sales Channel is latest research study released by HTF MI evaluating the market, hig",
-      "sourceUrl": null,
-      "webUrl": "https://eclecticnortheast.in/2022/03/11/artificial-intelligence-ai-in-medical-market-will-likely-see-excellent-gains-in-key-business-segments/",
-      "originalUrl": "https://eclecticnortheast.in/2022/03/11/artificial-intelligence-ai-in-medical-market-will-likely-see-excellent-gains-in-key-business-segments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eclectic Northeast",
-        "domain": "eclecticnortheast.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

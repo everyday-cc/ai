@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/amp/"
 type: article
 quality: 59
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://forkast.news/wp-content/uploads/2022/03/aleksi-raisa-DCCt1CQT8Os-unsplash-1260x754.jpg"
         width: 1260
         height: 754
-        isCached: true
-  - title: "Brex Helps Zesty.ai Scale With $10 Million in Growth Capital"
-    excerpt: "This deal marks continued momentum for Brex Venture Debt, which Brex launched in August 2021 as a way to help founders take their business to the next level. It helps growing busi"
-    publishedDateTime: 2022-03-25T00:21:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220324NY02101/brex-helps-zesty-ai-scale-with-10-million-in-growth-capital/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 39
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
         isCached: true
   - title: "Brex Helps Zesty.ai Scale With $10 Million in Venture Debt"
     excerpt: "In the news release, Brex Helps Zesty.ai Scale With $10 Million in Venture Debt, issued 24-Mar-2022 by Brex over PR Newswire, we are advised by"

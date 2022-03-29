@@ -9,7 +9,7 @@ ampWebUrl: "https://www.iol.co.za/amp//technology/complex-questions-as-face-reco
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp//technology/complex-questions-as-face-recognition-tech-joins-ukraine-invasion-9c034c51-35e9-4050-b997-6f2148442974"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2022/03/27/1600x900/AP03-27-2022-000198A-0_1648390968165_1648391000601.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Ukraine army starts using facial recognition to identify dead Russian soldiers"
-    excerpt: "The company has been using a photo of a dead Russian soldier on social media and uploading it to facial recognition software. Them, the software gets an identity match from a database of billions of social media images and will find the deceased’s family ..."
-    publishedDateTime: 2022-03-24T23:56:00Z
-    webUrl: "https://www.gizchina.com/2022/03/24/ukraine-army-starts-using-facial-recognition-to-identify-dead-russian-soldiers/"
-    ampWebUrl: "https://www.gizchina.com/2022/03/24/ukraine-army-starts-using-facial-recognition-to-identify-dead-russian-soldiers/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/03/24/ukraine-army-starts-using-facial-recognition-to-identify-dead-russian-soldiers/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 70
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2022/03/imagem_2022-03-24_204518.png"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Complex Questions As Face Recognition Tech Joins Ukraine War"
     excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said Thursday."

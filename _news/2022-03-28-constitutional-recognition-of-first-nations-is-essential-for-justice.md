@@ -69,22 +69,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Ukraine army starts using facial recognition to identify dead Russian soldiers"
-    excerpt: "The company has been using a photo of a dead Russian soldier on social media and uploading it to facial recognition software. Them, the software gets an identity match from a database of billions of social media images and will find the deceased’s family ..."
-    publishedDateTime: 2022-03-24T23:56:00Z
-    webUrl: "https://www.gizchina.com/2022/03/24/ukraine-army-starts-using-facial-recognition-to-identify-dead-russian-soldiers/"
-    ampWebUrl: "https://www.gizchina.com/2022/03/24/ukraine-army-starts-using-facial-recognition-to-identify-dead-russian-soldiers/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/03/24/ukraine-army-starts-using-facial-recognition-to-identify-dead-russian-soldiers/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 70
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2022/03/imagem_2022-03-24_204518.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Complex Questions As Face Recognition Tech Joins Ukraine War"
     excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said Thursday."
     publishedDateTime: 2022-03-25T02:07:00Z

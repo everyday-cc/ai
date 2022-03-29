@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/948000"
 webUrl: "https://www.eurekalert.org/news-releases/948000"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 300
     height: 207
     isCached: true
+
+related:
+  - title: "Optimizing the mitigation of heavy metal pollution in biochar-treated soils with machine learning"
+    excerpt: "Environmental pollution is one of the biggest global concerns of our time. Building a sustainable future is only possible if we proactively address every aspect of this problem. In this regard, soil pollution due to the accumulation of heavy metals (HMs) poses a serious threat to sustainable development as well as human health."
+    publishedDateTime: 2022-03-29T17:24:00Z
+    webUrl: "https://phys.org/news/2022-03-optimizing-mitigation-heavy-metal-pollution.html"
+    ampWebUrl: "https://phys.org/news/2022-03-optimizing-mitigation-heavy-metal-pollution.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-03-optimizing-mitigation-heavy-metal-pollution.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 46
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/optimizing-the-mitigat.jpg"
+        width: 602
+        height: 416
+        isCached: true
 
 secured: "PLBG27S6w0RzhHKa1jNOkVfCUN6u9nPt9cJGBYbVRox9K2+0CdWXmlXZtleATcYnpnntPFo+8kUXPcjHt9QNGIwn1IOJQWclliDDvo2/fRugS4x5q0HvQAciIfK+HV4Ej/QE3hyofYVlTyxGQmrcurctpkkA9lLqlsmod7n/kuixJvUpscWbbYnqoyiAx2eIp6NxN1H93dU2z28cVULzmFiSBUrd0eMANqlaBc03Ii7VQYw5yt/CdfWrkcm/F5KZaA7jViDcJBYFp7dNMuSiMtx9efKdFlCl0qUbC6ppNPdR8cyYtgCpm25jaayzcT2Mcij/VWrBdpiT1Z9X6eJDKEVSiewNC7VZpdJZZ7BAsog=;TpwMesFN+hmMujxJ2n2aBg=="
 ---

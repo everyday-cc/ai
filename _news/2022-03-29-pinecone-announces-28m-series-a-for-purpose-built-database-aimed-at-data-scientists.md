@@ -47,7 +47,21 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Pinecone raises $28M to revolutionize unstructured data search with AI"
+    excerpt: "Serverless vector database startup Pinecone Systems Inc. is repositioning itself as a search infrastructure technology provider, having just announced closing on a $28 million round of early-stage funding today."
+    publishedDateTime: 2022-03-29T14:33:00Z
+    webUrl: "https://siliconangle.com/2022/03/29/pinecone-raises-28m-revolutionize-unstructured-data-search-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/Edo-Liberty.png"
+        width: 1322
+        height: 868
+        isCached: true
 
-secured: "9woesH6lBTxV0ddTtWZhC5qORuAA2rQhi/wYc1QlVYgrdldooIjoEIibF7MDOiyZHIKzSbHlN0REZEM8p1ZT2+SpwskOoH/04XIJT8YCNnrqXsT35g/zNDB7QCPKC70llShY+i4M8Sk/8EfXP3Xd7uf16fVNPXvirHmtOuMJ/OB03omJbgOrWdPW91j1f0uZoFCOQjf0DvGHcgUtkNfL6MXw2j26iuJcBVn2pVt2o3tpe6/0voss9PaXktgl7RXqr3zUJq1jodIlX0sYiUjuc7njiRd7Z8EFlWDhHlxXuzulJeczYtUetPVSZ8wR4ketxmbDOQ0beUbuidRAa+RzI1jKftzFDZnXAYJ3TqmGsxg=;4lVdEXBJX4gC7GQLz27gNA=="
+secured: "9VyefUBR6iZ0MafQop3qrE940WwLB4PUxX0ulb0tmcNqGFgRfMLExl3EjxEUhhHKNVP95gt+wCObGUf4stNbcJHCp7dYDnpNLnmxEq42/IfS3qOqIm//awx31ahQU8SzAS5V8JYuWrFpvGlyqNyDv6pbFPGmi+tMYi9BMS3DM/7jVZrWT00CCUUfEXAYmM5zVhu9/v+R4LVTRtoCbJd7r5XUwLr2hHRXGYMx6wN93MLv+5RPpV9SgvWqMe5HHbWGcXYOQZ5yeUzQ+/lyUcnfbmQLPpZ/vf8n89qXYM6OHJTHh1Y5oVFKxFzpLAgPBnYjFv0xU1eVccb1vWhwCiBa4Xsa38gV31/VtF/IMSvuO8T9Mj0awSVQ57oOMsRRHE6tN+F+McBWFEDmw3cn7TNJgaOzanntLXYYC3yiYV7Bk009XS1WXsjIRy4LzLXObTscboZta51Zi+EKgc7q7YKcQBxxEEzPjdwI4pWc584IsT4rCXzGK+XcYH/yRqGxP+Z0ioIM88gRt/tcZnLsxzc7Fg==;9zF0Wa3cQt5O5I4mwxzYbA=="
 ---
 
