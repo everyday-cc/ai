@@ -3,24 +3,24 @@ category: news
 title: "Taiwan Life Insurance’s App, Powered by Lydia AI, Wins a Celent Model Insurer Award 2022 in Data, Analytics, and AI"
 excerpt: "Lydia AI announced that its client Taiwan Life Insurance has received a Celent Model Insurer award for Data, Analytics and AI for their use of external open health data for digital accelerated underwriting in the company’s mobile health score application powered by Lydia AI."
 publishedDateTime: 2022-03-28T13:02:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/taiwan-life-insurance-s-app-powered-by-lydia-ai-wins-a-celent-model-insurer-award/article_46a7c78b-39cb-51c8-b237-4954ea70ea1e.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/taiwan-life-insurance-s-app-powered-by-lydia-ai-wins-a-celent-model-insurer-award/article_46a7c78b-39cb-51c8-b237-4954ea70ea1e.html"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-canada-toronto-b26599da94234d988eba720f458ce775"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-canada-toronto-b26599da94234d988eba720f458ce775"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-    width: 300
-    height: 250
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -55,6 +55,6 @@ related:
         height: 720
         isCached: true
 
-secured: "uGJtjUkhmo3sdfS6Jxfc/YSy0sID2rBK2QfxYX6fQnSh0VQJqCPJnZ773UQVRCffiy1qcoFMkYi4FCirm8KO7Z6baTlDlAHTc+VXfj6Zgertn3I4viwGjyDfh2p1P7jcicVqxPDsC4n+UsE5JSEgpCxvRDGFkRLxcoRfz6iuncNwpe6uMSLuPw0gLS8saLUFzV3I1DTG1oEWRGZA9I+dRlNO3xyx2M/Z3aimI/D0Of+WCkrUMjmR4lX8iDpAKEXLiZNvmzBnSQRlimI/fPpKpkbf8aETRSYDDq1tzB1PHmsGefAx09iymdm06wzzw3/5Tu4mFNyYgQLSF7MF8PUJWHZySb254LVXqh7l6Y4XDYY=;klqSvDp/Mqd3h7qEvTGC2Q=="
+secured: "fZqPRXbHLCbYC7fjU2/dj/gN2oZvBWCmrWGGwx0qG+Tdfol98KYiFsduxJpjf9SMonoXS6ozerSUd49ZL+93h4Bz8Z5MpwjTqk2m7UcVRmMAIA2wita3TBX3/uB7HssH1Zx9eeyhb6VuBef5riJhR0IglD2bxMtMCc5Cm18KXr7A3qPUvCETewncaF6uiCThozD0SZaJ0geTTl/CYTDcXdttynOuvhj+Qx8JumZW8zO1CTDz3wFOblGYzDUJNo2OwmRZ0GMiat1W2139aRNPo5Sl1TO0P8D94bTXLst79liQrwSXGdGoH7RdtY93OdNJBbh0NpDp8RnyTWcXBT1zjD/CM/kzMyoOpsYJ+vNTXGY=;CVO2loZa6m+icbLrUHJ2iw=="
 ---
 

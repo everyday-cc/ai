@@ -7,8 +7,8 @@ originalUrl: "https://www.ciodive.com/press-release/20220324-newgen-utilizes-mic
 webUrl: "https://www.ciodive.com/press-release/20220324-newgen-utilizes-microsoft-azure-applied-ai-services-for-enhanced-automation/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: CIO Dive
@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft boosts its AI translation capabilities"
-    excerpt: "Unlike previous AI models, Z-code models utilize a ... As such, the models learn to translate between multiple languages simultaneously. At the same time, newly introduced Z-code MoE models ..."
-    publishedDateTime: 2022-03-24T06:07:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-boosts-its-ai-translation-capabilities"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 86
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/C6bmmDwjYdb4D4whKn5yVc-1200-80.jpg"
-        width: 610
-        height: 344
-        isCached: true
-  - title: "SparkCognition Delivers Visual AI Capabilities Across Industries"
-    excerpt: "SparkCognition is pleased to announce it has signed a definitive agreement to acquire Integration Wizards, a leader in visual AI."
-    publishedDateTime: 2022-03-28T10:13:00Z
-    webUrl: "https://enterprisetalk.com/news/sparkcognition-delivers-visual-ai-capabilities-across-industries/"
-    ampWebUrl: "https://enterprisetalk.com/news/sparkcognition-delivers-visual-ai-capabilities-across-industries/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/sparkcognition-delivers-visual-ai-capabilities-across-industries/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 57
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/SparkCognition-Delivers-Visual-AI-Capabilities-Across-Industries-With-Acquisition-of-Integration-Wizards-01.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft upgrades translation service with AI"
     excerpt: "More to be lost in translationFor a while now there has been a myth that AI can operate good language translation services. In fact, companies have been insisting that translation firms slash their fees and work alongside machine translation systems from Deepl,"
     publishedDateTime: 2022-03-24T12:50:00Z
@@ -97,19 +67,19 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "SparkCognition delivers Visual AI Capabilities across industries with acquisition of Integration Wizards"
-    excerpt: "Through this acquisition SparkCognition expands its IP portfolio to include computer vision capabilities bringing greater value to its industry solutions and"
-    publishedDateTime: 2022-03-28T07:19:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272428308/sparkcognition-delivers-visual-ai-capabilities-across-industries-with-acquisition-of-integration-wizards"
+  - title: "Aidentified Recognized for Artificial Intelligence Innovation in 2022 Data Breakthrough Awards Program"
+    excerpt: "Aidentified, the industry's most robust AI-powered prospecting and relationship intelligence platform, today announced that it has been selected as the winner of the \"Best Use of AI in Data Tech\" award in the third annual Data Breakthrough Awards program conducted by Data Breakthrough,"
+    publishedDateTime: 2022-03-24T13:44:00Z
+    webUrl: "https://www.rochesterfirst.com/business/press-releases/cision/20220324NE02755/aidentified-recognized-for-artificial-intelligence-innovation-in-2022-data-breakthrough-awards-program/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 22
+      name: WROC-TV
+      domain: rochesterfirst.com
+    quality: 36
     images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
+      - url: "https://mma.prnewswire.com/media/1773223/LinkedIn_Data_Breakthrough_Award_Badge_2022_AIdentified.jpg"
+        width: 400
+        height: 209
         isCached: true
 
 secured: "1w3qCDEYtpyEoU83C55UslHgvL5jTY5kjbB6qbytuZWgFXREt4pI1kqpqETbR/HJpU0SAGkD/maNEU/Wrm7WnO6ZYPhgVnAVK54AAFt2IvAqqYUHW2SHPIauRpDd0xiUuohQjCM1EtwGklUvzri3cAtHwhr/st5VOu5ZXMiGfXsQQTm4ef7FQCpu8Wkv5ogaZf4Jf78WqmGi832mSF2j+8OZ4v1/K5vv3bTGfnyjT3KOHITajVWd3W/ij3oLzLdWEtgyem/wdzpead6vxDwOydOB99Y9jIalttKV4YvzY/QlxEj83h925ymw9Gpzu9LjsWrwDrYjjff0+uokK5Pr5Z/M1u2ZA2jPrROZhPBEQKA=;S0DZMcRBVJw7DiiKPh35MA=="

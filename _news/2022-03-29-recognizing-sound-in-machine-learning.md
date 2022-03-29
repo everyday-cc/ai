@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-28T20:31:00Z
 originalUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2022/recognizing-sound-in-machine-learning.html"
 webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2022/recognizing-sound-in-machine-learning.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/images/inside-our-program/recognizing-sound-in-machine-learning-1200.jpg"

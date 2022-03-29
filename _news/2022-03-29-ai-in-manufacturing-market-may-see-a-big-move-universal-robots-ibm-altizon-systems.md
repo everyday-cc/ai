@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-28T20:06:00Z
 originalUrl: "https://www.digitaljournal.com/pr/ai-in-manufacturing-market-may-see-a-big-move-universal-robots-ibm-altizon-systems"
 webUrl: "https://www.digitaljournal.com/pr/ai-in-manufacturing-market-may-see-a-big-move-universal-robots-ibm-altizon-systems"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/848dd933f2b95b10eb092743860d98932097e224-600x337.jpg"

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft boosts its AI translation capabilities"
-    excerpt: "Unlike previous AI models, Z-code models utilize a ... As such, the models learn to translate between multiple languages simultaneously. At the same time, newly introduced Z-code MoE models ..."
-    publishedDateTime: 2022-03-24T06:07:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-boosts-its-ai-translation-capabilities"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 86
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/C6bmmDwjYdb4D4whKn5yVc-1200-80.jpg"
-        width: 610
-        height: 344
-        isCached: true
   - title: "Newgen Utilizes Microsoft Azure Applied AI Services for Enhanced Automation"
     excerpt: "Newgen Software, a global provider of low code digital transformation platform, is pleased to announce integration with Microsoft Azure Applied AI Services for enhanced automation, and support for Azure Form Recognizer for intelligent document processing."
     publishedDateTime: 2022-03-24T22:51:00Z
@@ -52,22 +38,6 @@ related:
       - url: "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1648161116/press_release/assets/company_logos/Logo_square_ffrue0.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "SparkCognition Delivers Visual AI Capabilities Across Industries"
-    excerpt: "SparkCognition is pleased to announce it has signed a definitive agreement to acquire Integration Wizards, a leader in visual AI."
-    publishedDateTime: 2022-03-28T10:13:00Z
-    webUrl: "https://enterprisetalk.com/news/sparkcognition-delivers-visual-ai-capabilities-across-industries/"
-    ampWebUrl: "https://enterprisetalk.com/news/sparkcognition-delivers-visual-ai-capabilities-across-industries/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/sparkcognition-delivers-visual-ai-capabilities-across-industries/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 57
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/SparkCognition-Delivers-Visual-AI-Capabilities-Across-Industries-With-Acquisition-of-Integration-Wizards-01.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Microsoft upgrades translation service with AI"
     excerpt: "More to be lost in translationFor a while now there has been a myth that AI can operate good language translation services. In fact, companies have been insisting that translation firms slash their fees and work alongside machine translation systems from Deepl,"
@@ -97,19 +67,19 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "SparkCognition delivers Visual AI Capabilities across industries with acquisition of Integration Wizards"
-    excerpt: "Through this acquisition SparkCognition expands its IP portfolio to include computer vision capabilities bringing greater value to its industry solutions and"
-    publishedDateTime: 2022-03-28T07:19:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272428308/sparkcognition-delivers-visual-ai-capabilities-across-industries-with-acquisition-of-integration-wizards"
+  - title: "Aidentified Recognized for Artificial Intelligence Innovation in 2022 Data Breakthrough Awards Program"
+    excerpt: "Aidentified, the industry's most robust AI-powered prospecting and relationship intelligence platform, today announced that it has been selected as the winner of the \"Best Use of AI in Data Tech\" award in the third annual Data Breakthrough Awards program conducted by Data Breakthrough,"
+    publishedDateTime: 2022-03-24T13:44:00Z
+    webUrl: "https://www.rochesterfirst.com/business/press-releases/cision/20220324NE02755/aidentified-recognized-for-artificial-intelligence-innovation-in-2022-data-breakthrough-awards-program/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 22
+      name: WROC-TV
+      domain: rochesterfirst.com
+    quality: 36
     images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
+      - url: "https://mma.prnewswire.com/media/1773223/LinkedIn_Data_Breakthrough_Award_Badge_2022_AIdentified.jpg"
+        width: 400
+        height: 209
         isCached: true
 
 secured: "uLZYl+X5khn5y53v/P+yfIjOB5kwrrZ5fKHYS+gqYeN3at3FeD+3Z9lbsHXwmhLKzJvZndwjf8WSumpLWnlQUuBNyTg9l0lWp6GmJAVJPbuCv+Bv8wPsAGlW6ls2haRDESkdxUA4Ky3r5PUSZZANaD885Xk4iZx53Hkn/utc0QdEAbmvcKzjqEmFpaiA46CsnZCu6uVxqn1S2D/TLlTas7jfb1SFghc+ZL6ETAi6sEpHWFfRBW/euYmoI4oDrye7rOtvm9EEX4z2iGHfsKjBHM7x+6a8t01w6PjQjLvMnyWT033WnHIC8O1CpC40z+voIl65fUVZRkAI2y2fLk83CbOpu1DLlgnKjB7d5kBFm3Zhk8hbMxi64BrMzrYFyjjfWenlReZRJ7esQNwZnIzMJHOWP2B81DwH8p219WglkW6f1CPwHcJc4e+ZLAsWYbiBUi8Ed4ZPSWe1xp/QOsDgeZ2PXoxq54XZca55nCohdoBwmWqKus5Nwm3e/G8i+MWE+yne9qYreqH6kXyFJvkEtA==;tkWehuXmg0QGGQUUshO3cA=="

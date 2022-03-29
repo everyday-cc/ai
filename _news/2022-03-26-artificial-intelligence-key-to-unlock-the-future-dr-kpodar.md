@@ -70,6 +70,20 @@ related:
         width: 300
         height: 241
         isCached: true
+  - title: "How one of the world’s largest wind companies is using AI to capture more energy"
+    excerpt: "Future generations continued to expand on Hansen’s openness to change, evolving to building hydraulic cranes, and ultimately, in 1987, becoming Vestas Wind Systems, one of the largest wind turbine manufacturers in the world."
+    publishedDateTime: 2022-03-24T08:54:00Z
+    webUrl: "https://news.microsoft.com/europe/features/winds-of-change-how-one-of-the-worlds-largest-wind-companies-is-using-ai-to-capture-more-energy/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 34
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/93/2022/03/Vestas-wind-turbines-at-the-Macarthur-Wind-Farm-located-between-Hamilton-and-Warrnambool-in-the-state-of-Victoria-Australia.-Photo-c-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "8dJRtKRCezTevFoWCxJ0goQb/PZOEflPUwI7efWJjWZ4YjcOZCcfM+gj4MwloQwIcCm3EGRiM9ADeHsgNbtFK1xiczRZMN0ps4m2cRnuZ4xdEr/mCB6YrOZ88PGQmaOtQ/gt0TVCunBYaSOv9trEbcKGPyoxSXiLGzm/dvekBku2XRUQOu2UThC3GjrOHRSeGGE/pJ2RHat1FxLpH0M6lPXoSJuSfa3nD63NGUP8fRcsSIORW9OT6hdPq70Ct1mhw0bXIPROCyRKCfte8sSdV1nqWRzc453pyQDjubKYwm++Flg/VANOJnCw26Pv8Og+JyvicNj0bp5y8r10AhVXjXgqFQvE4YUX0cFXOQe2nlE=;4LU6HRZzArrL1qLQygVgpQ=="
 ---

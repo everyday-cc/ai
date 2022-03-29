@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-03-ex-google-ai-skeptic-timnit-gebr
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ex-google-ai-skeptic-timnit-gebru.amp"
 type: article
 quality: 59
-heat: 90
+heat: 89
 published: true
 
 provider:

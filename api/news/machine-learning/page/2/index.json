@@ -183,6 +183,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-16-deep-learning-speeds-triage-of-brain-scans.md",
+      "title": "Deep learning speeds triage of brain scans",
+      "excerpt": "A team headed up at King’s College London hopes that deep learning models could address this bottleneck. The researchers have developed a deep learning framework, based on convolutional neural networks (CNNs), that can identify abnormalities in MRI scans.",
+      "sourceUrl": null,
+      "webUrl": "https://physicsworld.com/a/deep-learning-speeds-triage-of-brain-scans/",
+      "originalUrl": "https://physicsworld.com/a/deep-learning-speeds-triage-of-brain-scans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://physicsworld.com/wp-content/uploads/2022/03/head-MRI-deep-learning.jpg",
+          "width": 1200,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Physics World",
+        "domain": "physicsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-solving-big-problems-with-computer-vision-deep-learning.md",
       "title": "Solving big problems with computer vision & deep learning",
       "excerpt": "And the winners were both startups from India. Deep learning solution for hearing impaired Jayasudan Munsamy Jayasudan Munsamy and Arul Praveen T’s DeepVisionTech won two of the three awards ...",
@@ -1249,49 +1292,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-10-a-quick-guide-to-deep-learning-with-python.md",
-      "title": "A Quick Guide To Deep Learning With Python",
-      "excerpt": "Deep learning is a part of the larger application of machine learning, which, in turn, is a subset of artificial intelligence (AI). Generally, deep learning deals with algorithms that seek to imitate how the human brain is structured and how it works.",
-      "sourceUrl": null,
-      "webUrl": "https://gisuser.com/2022/03/a-quick-guide-to-deep-learning-with-python/",
-      "originalUrl": "https://gisuser.com/2022/03/a-quick-guide-to-deep-learning-with-python/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gisuser.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-09-at-8.20.33-PM-1024x685.png",
-          "width": 1024,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gisuser.com/2022/03/a-quick-guide-to-deep-learning-with-python/amp/",
-      "cdnAmpWebUrl": "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2022/03/a-quick-guide-to-deep-learning-with-python/amp/",
-      "publishedDateTime": "2022-03-09T20:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gisuser.com",
-        "domain": "gisuser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

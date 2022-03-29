@@ -26,6 +26,19 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Enter to save on the latest Discover Samsung deals"
+    excerpt: "Check out the latest deals available during Samsung Discover, where you will find the Samsung Galaxy S22 Ultra and other great products on sale"
+    publishedDateTime: 2022-03-24T16:46:00Z
+    webUrl: "https://pocketnow.com/enter-save-latest-discover-samsung-deals"
+    ampWebUrl: "https://pocketnow.com/enter-save-latest-discover-samsung-deals?amp"
+    cdnAmpWebUrl: "https://pocketnow-com.cdn.ampproject.org/c/s/pocketnow.com/enter-save-latest-discover-samsung-deals?amp"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 24
+
 secured: "DsW5WJQT1hN/vTOPdcAISSLBsxcokqYGf4HLKqpH1kpAN4t0afPlAk1OFf/dk6aZ0SaGykeEkTjzJYCRbetynXKZDwKN+7OkNrwFvqkpW68gxDHpffHDxK/fYITA3JAEM0PJyJJ6EtzP7vIp1N4XJnE4XEJcsuQT52+qVcy5L08eIpS4qdoSI+3Kl5dAN/PzmdFU9l3yswBcRXTBz+W9rM9t/sHxoOKyE1FAOfcyCzfDykNiba9h0reMSZ7do2jbRdX3KczuhY63wYcIGUiXS5OvLqKv0EoSJTIRCKmZCDsSJIytSGHQ04S/jtdpZhcp3d/PkmzHHabPzPJDzcvxCgfHlra/P3kq7OHJJNDNvQhay6gC1ZGftNsEI/07wqJkVNerjDewGwYeRucs4RiYrRxEVt3fGy0er/dGCDK/KJ5o7HfC2XA1yMylxbVL9PpO7GFdSBqYlxQQeLVkWYAQ6Zjz+Lrznyh+gc+MlSkdlHKxB73urlxyiN2QaDknQ3i/w5LQSwqxo9VDiGMrCV988w==;Gk0AJTeTh6/LqVoe4JZoGg=="
 ---
 
