@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 899
         isCached: true
-  - title: "Democratization Of AI Is Said To Be Essential For AI Ethics But The Devil Is In The Details, Including The Case Of AI-Based Self-Driving Cars"
-    excerpt: "A lot of discussion these days says that we need to democratize AI, which is quite a topic of great importance. The matter is closely reviewed herein and considered too with an example underlying the advent of AI-based self-driving cars."
-    publishedDateTime: 2022-03-24T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/03/24/democratization-of-ai-is-said-to-be-essential-for-ai-ethics-but-the-devil-is-in-the-details-including-the-case-of-ai-based-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/03/24/democratization-of-ai-is-said-to-be-essential-for-ai-ethics-but-the-devil-is-in-the-details-including-the-case-of-ai-based-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/24/democratization-of-ai-is-said-to-be-essential-for-ai-ethics-but-the-devil-is-in-the-details-including-the-case-of-ai-based-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/623be5582b07d06603dcafb3/0x0.jpg?format=jpg&crop=2889,1987,x81,y0,safe&fit=crop"
-        width: 2889
-        height: 1987
-        isCached: true
 
 secured: "FfFyAOdfwAeUb3NCS3w4udDy0Q7Z1qVP75nimLGrgd09g1nbKvNBbifhhEgbKLVlXaMBOCVmRsjnWvPJlS0A4K2bYbD+ddLweK8UkCa++ZcGfI0k0scF6mn2ZQKFUsYr3cGCEgIotLhcNUwcShgZnHUL3Pb4WtWEJher+sqxNH6s8xuNtPZrQAMTuFwGcLJUsw+RE9OO+6pamtqGihskacyj1sPdBYfXK4pjzpmSyxtMbhhORMvq3s+jDtMPuFx7d5+Mjc6M3Y9dxScd+sCuQcspOXDuWkNsFDV8iUDjEISS+t61z15nCV0cRk2QhgeO39xiX8eMILqUZ1XiIVwmvMV5qfLK/J6LiK3EnZLEzMA=;c50fEqXNC3K7KoTsdAzTig=="
 ---

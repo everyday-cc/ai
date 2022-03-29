@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/technology-busines
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-renesas-electronics-corp-05ead87d8c37109957b3eff68165b552"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 84
+published: true
 
 provider:
   name: Associated Press
@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "AI chip company Syntiant raises $55mn"
+    excerpt: "Renesas Electronics, Millennium Technology Value Partners and Mirae Asset Capital are among five new investors. Existing investors also participated in the raise. “We are at a p"
+    publishedDateTime: 2022-03-29T08:13:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/ai-chip-company-syntiant-raises-55mn"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 54
+    images:
+      - url: "https://www.newelectronics.co.uk/media/yz1c4pdj/syntiant.jpg"
+        width: 370
+        height: 276
+        isCached: true
+  - title: "Katana Edge AI Kit to accelerate AI vision and sensor fusion development"
+    excerpt: "Synaptics has announced an Edge AI evaluation kit (EVK) for the rapid development and prototyping of artificial intelligence (AI) applications at the edge. Based on the company’s low-power Katana system-on-chip (SoC) platform,"
+    publishedDateTime: 2022-03-29T08:19:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/katana-edge-ai-kit-to-accelerate-ai-vision-and-sensor-fusion-development"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 38
+    images:
+      - url: "https://www.newelectronics.co.uk/media/vhznrcx1/synaptics.png"
+        width: 498
+        height: 280
+        isCached: true
   - title: "Synaptics Launches Katana Edge AI Kit To Accelerate Development of AI Vision and Sensor Fusion Applications for the IoT"
     excerpt: "Synaptics Incorporated (Nasdaq: SYNA) today announced an Edge AI evaluation kit (EVK) for the rapid development and prototyping of artificial intelligence (AI) applications at the edge. Based on the Synaptics® low-power Katana system-on-chip (SoC) platform,"
     publishedDateTime: 2022-03-28T08:07:00Z

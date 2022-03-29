@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ukraine is using facial recognition tech to identify dead Russian soldiers and inform their families"
-    excerpt: "The Ukrainian government is using facial recognition software from the controversial startup Clearview AI to identify dead Russian soldiers."
-    publishedDateTime: 2022-03-24T15:36:00Z
-    webUrl: "https://www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3"
-    ampWebUrl: "https://www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/623c81dda2e45b00195027e0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Complex questions as face recognition tech joins Ukraine invasion"
     excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said."
     publishedDateTime: 2022-03-28T07:11:00Z
@@ -158,6 +142,17 @@ related:
       name: openDemocracy
       domain: opendemocracy.net
     quality: 50
+  - title: "Constitutional recognition of First Nations is essential for justice"
+    excerpt: "Constitutional recognition of Indigenous Australians is a necessary prerequisite for a just legal system, retired NSW chief justice Tom Bathurst has told a gathering of senior lawyers and judges."
+    publishedDateTime: 2022-03-28T09:04:00Z
+    webUrl: "https://www.theaustralian.com.au/business/legal-affairs/constitutional-recognition-of-first-nations-is-essential-for-justice/news-story/a9aea33e3878951021c274cf012c31d3"
+    ampWebUrl: "https://amp.theaustralian.com.au/business/legal-affairs/constitutional-recognition-of-first-nations-is-essential-for-justice/news-story/a9aea33e3878951021c274cf012c31d3"
+    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/legal-affairs/constitutional-recognition-of-first-nations-is-essential-for-justice/news-story/a9aea33e3878951021c274cf012c31d3"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 24
 
 secured: "MIwz9ASK6C6mci1NxQyLXWXiTydV+uZ99l/eM+wCb63pE9po2u7jT68FRWUyZc/AFEJP5Tab0Vd22r7FOoSFWdcyI765udyr+Vi9BY9D07fOhqJlTx6Eq/idweWEtoIPMViaD0P9M6+ZIx7Cf08bAmnTl78WSUFPkYZdTkGfoul8hhf+IRUcW3bmBIwoO48R2gHXRkuLFztCr3dhv/Ed9htTuJ5lUNx5wiwTVmjGlnWB9orGzJtJwDhMlJ0g57UqlzlZaUgAZwAMmweKkwUaKi4hx73Rog/U5KohDO5r7HJeiBnF2sB8xtNrDu7jdJFYcC1iCFctIMnb0zKceQP1QS5K7FYgmEXIIXbJOWJRfsw=;D54wlDT+bhMvEKmz5qmxrQ=="
 ---

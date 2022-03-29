@@ -32,7 +32,7 @@ related:
     provider:
       name: AEC Magazine
       domain: aecmag.com
-    quality: 56
+    quality: 60
     images:
       - url: "https://aecmag.com/wp-content/uploads/2022/03/Untitled-1.jpg"
         width: 1920

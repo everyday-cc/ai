@@ -64,22 +64,6 @@ related:
         width: 800
         height: 449
         isCached: true
-  - title: "‘Don’t stop at one search’: Emails reveal how Clearview pushed college police to use facial recognition on students"
-    excerpt: "The University of Illinois used a free version of Clearview AI to conduct investigations. It then bought the software."
-    publishedDateTime: 2022-03-24T15:33:00Z
-    webUrl: "https://www.dailydot.com/debug/university-illinois-clearview/"
-    ampWebUrl: "https://www.dailydot.com/debug/university-illinois-clearview/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/university-illinois-clearview/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 52
-    images:
-      - url: "https://uploads.dailydot.com/2022/03/facial-recognition-college.jpg?auto=compress&fm=pjpg&ixlib=php-3.3.1"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
     excerpt: "Clearview AI’s database now features more than 20 billion facial images. Clearview 2.0 offers new compliance and investigation management tools for law enforcement agencies."
     publishedDateTime: 2022-03-25T19:26:00Z

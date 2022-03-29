@@ -27,14 +27,14 @@ images:
 
 related:
   - title: "Zoomd Announces the Acquisition of Artificial Intelligence Marketing Platform \"Albert\""
-    excerpt: "Zoomd Technologies Ltd. (TSXV: ZOMD) (OTC: ZMDTF) and its wholly-owned subsidiary Zoomd Ltd. (collectively, \"Zoomd\" or the \"Company\"), the marketing tech (MarTech) user-acquisition and engagement platform,"
-    publishedDateTime: 2022-03-28T12:45:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20220328io05315/zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert"
+    excerpt: "Zoomd acquires substantially all of Albert's assets in a cash & stock transaction; The acquisition adds several Fortune 500 companies to Zoomd's client base; Albert's strong focus"
+    publishedDateTime: 2022-03-28T12:54:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/03/28/9571440.htm"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 48
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 46
     images:
       - url: "https://mma.prnewswire.com/media/1039696/Zoomd_Logo.jpg"
         width: 400

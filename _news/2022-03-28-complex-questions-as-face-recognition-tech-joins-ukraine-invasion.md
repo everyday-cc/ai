@@ -9,8 +9,8 @@ ampWebUrl: "https://www.iol.co.za/amp//technology/complex-questions-as-face-reco
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp//technology/complex-questions-as-face-recognition-tech-joins-ukraine-invasion-9c034c51-35e9-4050-b997-6f2148442974"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 164
+published: true
 
 provider:
   name: IOL News
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ukraine is using facial recognition tech to identify dead Russian soldiers and inform their families"
-    excerpt: "The Ukrainian government is using facial recognition software from the controversial startup Clearview AI to identify dead Russian soldiers."
-    publishedDateTime: 2022-03-24T15:36:00Z
-    webUrl: "https://www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3"
-    ampWebUrl: "https://www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/623c81dda2e45b00195027e0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Complex questions as face recognition tech joins Ukraine war"
     excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said."
     publishedDateTime: 2022-03-28T06:48:00Z
@@ -158,6 +142,17 @@ related:
       name: openDemocracy
       domain: opendemocracy.net
     quality: 50
+  - title: "Constitutional recognition of First Nations is essential for justice"
+    excerpt: "Constitutional recognition of Indigenous Australians is a necessary prerequisite for a just legal system, retired NSW chief justice Tom Bathurst has told a gathering of senior lawyers and judges."
+    publishedDateTime: 2022-03-28T09:04:00Z
+    webUrl: "https://www.theaustralian.com.au/business/legal-affairs/constitutional-recognition-of-first-nations-is-essential-for-justice/news-story/a9aea33e3878951021c274cf012c31d3"
+    ampWebUrl: "https://amp.theaustralian.com.au/business/legal-affairs/constitutional-recognition-of-first-nations-is-essential-for-justice/news-story/a9aea33e3878951021c274cf012c31d3"
+    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/legal-affairs/constitutional-recognition-of-first-nations-is-essential-for-justice/news-story/a9aea33e3878951021c274cf012c31d3"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 24
 
 secured: "8j7yaXU+UiDd0StYuW6jCUEtB2nFvWxHxKGoqdV6rDzfA/NEwwOO8t99mWaysTDtaNgDgPtCFAbaLo65tG15SyGq5SddO/6Dr1BeHDw0LbnjiVRS4KGisSWh5MSKEtctzwi/SkatTMiW9mzBFkO1ziBSOwAvzxFO8tEzACQbY98udR5k+96lGFHeB62gWkNod/TZ9+/vQInrJKOWfnopJbwM2ydB1x/WI1KRmUPGIw2n0tIKqJA8F291EUTzq9kJwt7FRbAJG8hC+hLul8I7RKTwfuFqSNmZv48wFN3OW+cT/GMlCZP4/1W2WDPOH9qm+QdPoTVy+9d0yCe/w0eziITkVLAsIxKc1MVK0tpkvBytNBT1jHVEvvQzzlVEt0yQ9q1RB+R5ay2u4O6Ijw6keF6QY0GPkJzLwoJwNAP4cqYhtfBsa0xHNS+MtGXIqqkA0tfBXfrsGw+eRYAlO2JnBgIsTcrxLMjbK+lejZtFBl3M9Noqa7QzK0BqZ0CxmKAqdS5I43f61P1RnaChpTy1dg==;Vxz6zHjzVYM19RkF2+GObw=="
 ---

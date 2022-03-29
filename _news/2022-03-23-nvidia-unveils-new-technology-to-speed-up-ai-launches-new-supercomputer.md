@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.reuters.com/resizer/aI7zfx5bX1nkr1EiPUXfoyVhWeU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PVBB3JD4BJK6LCNCPVKXMWBPQU.jpg"

@@ -6,9 +6,9 @@ publishedDateTime: 2022-03-29T07:32:00Z
 originalUrl: "https://aecmag.com/ai/artificial-intelligence-ai-in-construction/"
 webUrl: "https://aecmag.com/ai/artificial-intelligence-ai-in-construction/"
 type: article
-quality: 56
-heat: 66
-published: false
+quality: 60
+heat: 70
+published: true
 
 provider:
   name: AEC Magazine
@@ -18,6 +18,8 @@ topics:
   - AI in Healthcare
   - AI
   - AI Ethics
+  - AI in Finance
+  - AI in Robotics
 
 images:
   - url: "https://aecmag.com/wp-content/uploads/2022/03/Untitled-1.jpg"
@@ -41,6 +43,6 @@ related:
         height: 1040
         isCached: true
 
-secured: "FOI+G/FxP94rzVNEzSBtddcr9kmqChqVEpjCDpHldIv0btacowRdIjdAt+d3+Jwm0uzzJwVZvBUZrq0qw/siWmkJDqmlT+gB+u6T+6AWpJTQChnkk+ni3Cn9TOJ4x7MOEgFiJsLo8YAb6u6Tyk1JNUxg4fg/h5h2C1rZI/THhfuSCEN03vxDlsQpHDC8fMsArhyXvTV6gGdiWhZ62PgCKNPRRZZEgbu1rsMmzhyQyZMTt+OazM1EZf9myfmG5F2uE0cwAxM3cOGMZByMNsUu5Om2UPt7a8ahZ0aWxC3mq5wgSWG/VWReUXMFMXp4Mlw+lvyO3YecN32Lw0aQwHPbcVotAo2TktDS5Rxca9LukPQ=;rB4WRwddHFvaKn/S5DIFkQ=="
+secured: "QS4FLNMc5VYdYOK4Ia3JJizQ/8BT7qGjV8FGF2U4vYcINNYNP7xmzm6tg6mjJJgCQZDiV5nOr80olCY+kIfYJBIEmyKLJO85l7hZDOiH/hKGzKOd96gS/jN9EFHUm/C1rc2/+NBEQc8QBhPHlU+84XgcMs7RSuhkiOTrUfmYILMmfK7XW4OZb1s5f6l9MWR2jRafM9JMUm6ynkfSO1psSfxxv2KWN2RNDlqfUganPJUaV1IIVPVBJfGhKRp/Z6KimwajT6c/4+4T1LOEdMst+wgYWDJ15Om3Msc7PMTa8nagRdFFVwHDjJjiyANd4dO5lpu0KN5oQcKjvbYIRG29FmmuIr2Gz5hPttY8OsIIC9gKbFoH3SlwHqMpzlGi7OaMeULclJcgnMXOOjk25tQb3Oxj/kUe1Y/GeEK9Ckn+DtQYEB31LT1qFY7Ng2c1M+UrlhReCI9nkJyz0y/sxni0FpDSXXIra2FJz9RM2uML7yoSUFoKycl+6zq9C9vU51uCzCCI7+Z2dZ9rQUFXSEbnow==;n0z6kE+MlB7BcliEeOkDgA=="
 ---
 

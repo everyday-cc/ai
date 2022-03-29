@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-03-robot-accident-important.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-robot-accident-important.amp"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: techxplore
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to investigate when a robot causes an accident – and why it’s important that we do"
-    excerpt: "Researchers have developed a black box for robots: an internal record of the robot’s inputs and actions. This will help investigate accidents and hopefully prevent future incidents."
-    publishedDateTime: 2022-03-24T15:06:00Z
-    webUrl: "https://theconversation.com/how-to-investigate-when-a-robot-causes-an-accident-and-why-its-important-that-we-do-179143"
-    ampWebUrl: "https://theconversation.com/amp/how-to-investigate-when-a-robot-causes-an-accident-and-why-its-important-that-we-do-179143"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/how-to-investigate-when-a-robot-causes-an-accident-and-why-its-important-that-we-do-179143"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 51
-    images:
-      - url: "https://images.theconversation.com/files/454117/original/file-20220324-27-11mk6pf.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
   - title: "How to investigate when a robot causes an accident – and why it's important that we do"
     excerpt: "Robots are featuring more and more in our daily lives. They can be incredibly useful (bionic limbs, robotic lawnmowers, or robots which deliver meals to people in quarantine), or merely entertaining (robotic dogs,"
     publishedDateTime: 2022-03-27T14:21:00Z

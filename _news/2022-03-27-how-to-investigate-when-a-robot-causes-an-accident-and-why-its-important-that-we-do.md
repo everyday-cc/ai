@@ -41,22 +41,6 @@ related:
         width: 926
         height: 619
         isCached: true
-  - title: "How to investigate when a robot causes an accident – and why it’s important that we do"
-    excerpt: "Researchers have developed a black box for robots: an internal record of the robot’s inputs and actions. This will help investigate accidents and hopefully prevent future incidents."
-    publishedDateTime: 2022-03-24T15:06:00Z
-    webUrl: "https://theconversation.com/how-to-investigate-when-a-robot-causes-an-accident-and-why-its-important-that-we-do-179143"
-    ampWebUrl: "https://theconversation.com/amp/how-to-investigate-when-a-robot-causes-an-accident-and-why-its-important-that-we-do-179143"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/how-to-investigate-when-a-robot-causes-an-accident-and-why-its-important-that-we-do-179143"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 51
-    images:
-      - url: "https://images.theconversation.com/files/454117/original/file-20220324-27-11mk6pf.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
 
 secured: "tcBFGZ8bH7+nNN6vbPaqR/48ZZCh9k1Km78+Etfr0mCj5T9uV/bey7cKVVJgdBf2kS2ibXNr0TLVNFr0E2016Eq/4SMgfHBBRH/XnuEBibD9c+GnXiwhbK3Cj9Z0MasaxSv7EM9wtEeW6dXYv6MdALWKnXimCPSlGQ8VvWwAXr7YZg3/z17V9K6vVidyKM1Z2xXLsZbla6q1NjCCHXqrcAFFg7ORBu5/soWdfvcvNXawO1n2gtxpJNu8VCTFqXLmQb9F8/maFQa5QbIUYZXXmggGPKctKHFtUb2+6kL5beJ9WiTGA9SYBK3Ot1H5LyTYtTX0slgcdmF1WTNhhHI9KC8/TMyq5CX/albliWe7qn4d4LE9MFjJbi7mCdurmEZCq4afOaTnNvWQnFqeAXCq2x7CX6GRQq+bS+RIGrC8+m6075CbWHjC50prK/9wzdajNwTG+5sovRfIlH/viCMBhjbvxshwbBODH6BtiIxcEfKboadLGaUMiyLCqr1EXqLHTVa57fz9LVP6sm7aOSlpXg==;o930vwhXLHed52pS5N6ixw=="
 ---

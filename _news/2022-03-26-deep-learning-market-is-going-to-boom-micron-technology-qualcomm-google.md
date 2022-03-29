@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/deep-learning-market-going-boom-mic
 webUrl: "https://www.linkedin.com/pulse/deep-learning-market-going-boom-micron-technology-qualcomm-zirpe"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -21,22 +21,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Qualcomm Targets Smart Cameras with Fast Semiconductor Chip"
-    excerpt: "Qualcomm is best known for its semiconductors used in mobile applications, but the company has in recent years also moved into surveillance applications for security and industry. Now, the company has introduced a processor chip,"
-    publishedDateTime: 2022-03-24T15:43:00Z
-    webUrl: "https://www.designnews.com/electronics/qualcomm-targets-smart-cameras-fast-semiconductor-chip"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 39
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/qualcommqcs7230.jpg"
-        width: 1480
-        height: 770
-        isCached: true
 
 secured: "c1FWyBPKYeH5T/Pf6apBNqM8oh1B57jqa43x6z5tDlrFOUVcXGr2q/iiMZ6MefCeJ8UQ57pohh4xP4GHUYeGTG6PGIYSxlnEff1Je/U5gita8dF+ECJLIskJnJJ1BF25NMrIlhASJW3D7V8II+FV5DLf8NJmGStHxk/6HLZQN/t9l7WxGWKVkrn1JW0IQJyXK9PeIRSCVz6hVPXtkrtxW/YPDiyIfqwrAbobHJV6j+mAFYQE+gOuKm+NKvzQB6Io2mBmoxZxDq1ZL9Bc3YmF2AV3sO9aUT+2VFw/Srpj8FeaHgbab1SVhKV+4rZSCJ9IIeYljtiwiTD+xzwS0rpZ3ZhS9aY8sB17zDTAx/mQKRgMshgb/Km23K2/4a3V0XYT8hxv9DyGzVpyq7RjVtnzeyT8XUqvyWmpnwPg8z14GnEj0HHgdjo3/TQ1CYtXs4CaZwOUPjzdpddfvO8xWau/WIAeOAN9r4ZipLTycCcaKDVG8KtevZxSkfOAEAFJSPKHCKmjYJ/q+WaB+c2v8iUdFA==;YXFGHEf1Qh/Y/RnbdbyH1w=="
 ---

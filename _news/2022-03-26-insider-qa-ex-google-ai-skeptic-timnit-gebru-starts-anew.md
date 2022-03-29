@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Insider Q&A: Ex-Google AI skeptic Timnit Gebru starts anew"
-excerpt: "When she co-led Google's Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry's approach to artificial intelligence. That was before Google pushed her out of the company more than a year ago."
-publishedDateTime: 2022-03-26T10:00:00Z
-originalUrl: "https://apnews.com/79cd13b50b51452d29963490b96815bd"
-webUrl: "https://apnews.com/79cd13b50b51452d29963490b96815bd"
+excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence"
+publishedDateTime: 2022-03-26T10:01:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/insider-qa-google-ai-skeptic-timnit-gebru-starts-83685774"
+webUrl: "https://abcnews.go.com/Technology/wireStory/insider-qa-google-ai-skeptic-timnit-gebru-starts-83685774"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/3aa9eaa491ab41348e46ce734ce58463/3000.jpeg"
-    width: 3000
-    height: 2000
+  - url: "https://s.abcnews.com/images/Technology/WireAP_3aa9eaa491ab41348e46ce734ce58463_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -61,6 +61,6 @@ related:
       domain: japantoday.com
     quality: 19
 
-secured: "0IP0Qi/gyV2vz9CnhNEjSE9gA7WYD6bqUIIQ+urcn5IO1520ooSLLNpCRohpvAEULAtS3aooTJBtBWA1889Hc7/cXWFBkSyiNRhMKM6kh2lHq+0wkSeaPdikn4KqbJNbR4riwk3Fu8B/qrCPxgz5EyfhJ4mHaxpr8KxqOx8HEo4EsBdqAb/8JDJX9+f48WUMeoaSRXjIsNQ7q6f1pkepfvoDkWIu5fC+1H+AjvA3ed6LBSmycJazhwxjt0PGtZzFSr9qYFG+jr9XiLh9dJld6BtVl7CZPJnIs6+9wcVvwiaEYdRZKnQgTv4A6MFTgYctFdTIQCaxg3qNk5DmvfXPBYo5r4jmZOEnrpFENc7wDXM=;g5AUlmc9EO5Iln9gBINfMA=="
+secured: "SMrVszYsiHKz0JhCk9TG6pMTRdBZgkPrPDOj+tEBqux1yZ+RVFKBH8/iBe3yf/SnVkNMBSlcdZSxvdQvYEFmmvded6JSCUov+VoK//E3w9xKugmtbn1hogp7qBQ5U5Z2eNqAU/f3t0ydMOmhylFwwvCqbp2VWi8GDNQWSXWCw+yoZLhJ18/BdJwK3uCub+DnzH8eg+KLT6JvqiSoTNg9Fa5shyOl4jiEQiAhpQPBSODORR9ovuk96bf50KNslYNxwwDjjUh0F2+mQ0fLBU/MOmctEXglczYGRqj0GpNBTzP6psfe9cXzj3+ljqYZng2VosyqzXevs8TDh5AIVOKtacZiaeikwIkTnuneYrgal+g=;We7cXZuzYhFt2Cubmn88kg=="
 ---
 
