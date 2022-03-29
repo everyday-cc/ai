@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2022/03/28/report-68-of-orgs-rely-on-in-house-e
 ampWebUrl: "https://venturebeat.com/2022/03/28/report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1296686780-e1648496481937.jpg?w=1200&strip=all"
@@ -47,6 +48,6 @@ related:
         height: 450
         isCached: true
 
-secured: "xwytQN4vlLuBKAsNELV5pbbgsViKHuGgD+xZEqy1J0F84zpT8TXT7LWah0ea/1ofC3ldIy6AEoOASHpRmmEa7Tx5jVvKYAKS+wsBgOWVk4awTSXg8/5KRpQFwMs4+MNGD8VQcll0XWYeAczdcVVb7r+GNHeHhaFaFa9VqXqt7BS7cYFN7ygZCtcg6+XNTvrl9usNxcbmCZ+KfQa8Mwo4C1A9NfnS/sjvQni1yqmF98M4rMQos9TVZIXedDvvy2aRmsfAKYijXSJk4iZb5dhWH1txTpqCWM+BGTen2JHDl7vL7Z8/pTzVsmWoyDsSRtbZXbkJ8lAKLnL7ExNL0gwPLOkQ0YyIiWFQQkwhQddXFE4=;+5tvmgakw10ABtdS8Rb6IA=="
+secured: "EyIrWKcR6mWtmmtwmT4jRAJoj2R8EZZlNwDEoO4BZhKNbviKb6RAHy2BNhD40EGdguyINn3Jtk0sil/huvGqDVoFMzKpMCjBz5gLBDpIq497aVH1JQFVG/OgrwhgtxbiRXpe/LdvGKnMR6crtWY+E5yzb+3/LMbxcepNUATTFHWR6igkq3EWqR91mwxpNczud1HzIWNij7T/b6e4wrOaqyezNQcucVd6UnDiwdTso7N76n41pNiJbm89TQ8S6fOH6j86LBlOH04CbWUW169MI4FgjBk7sEh8NQKpRBiKPdyB71ahi++DoJZYKeOSxK1LOtqh1THW4PVIN8fFl6dZVX+lexlVO33LNmCEfDEkTeagQKIhA/TXp8sF2j1hOWK8MKW/RxT18xLe7WEv/OQxNR+uGYPlTWZFezNITFGxR1NfBzCH4V2bi/PTIVeGIj4txNH1jJs6U48+TfYdlQcD+ALzVe1dwqjUInsP/LhtA1ctrQsmCRlStQDjxsjOKwxoAN819s6hxa+67lMkhfZtnQ==;3w8RcthH1VYoFEI5p9+qCA=="
 ---
 

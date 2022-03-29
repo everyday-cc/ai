@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2022-03-28/self-driving-st
 webUrl: "https://www.bloomberg.com/news/articles/2022-03-28/self-driving-startup-zongmu-raises-157-million-in-new-funds"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving car startup WeRide raises $400 million in funding round"
-    excerpt: "Every Wednesday and Friday, TechNode’s Briefing newsletter delivers a roundup of the most important news in China tech, straight to your inbox. Check out our previous newsletters. {{#message}}{{{message}}}{{/message}}{{^message}}Your submission failed ..."
-    publishedDateTime: 2022-03-24T07:13:00Z
-    webUrl: "https://technode.com/2022/03/24/self-driving-car-startup-weride-raises-400-million-in-funding-round/"
-    ampWebUrl: "https://technode.com/2022/03/24/self-driving-car-startup-weride-raises-400-million-in-funding-round/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/03/24/self-driving-car-startup-weride-raises-400-million-in-funding-round/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
   - title: "Self-driving startup Zongmu raises US$157mil in new funds"
     excerpt: "A Chinese autonomous driving system startup has raised over RM660mil as it looks to build a new production plant to accelerate research and development."
     publishedDateTime: 2022-03-28T03:16:00Z

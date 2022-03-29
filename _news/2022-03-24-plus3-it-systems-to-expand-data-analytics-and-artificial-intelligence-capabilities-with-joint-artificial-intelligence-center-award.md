@@ -110,6 +110,20 @@ related:
         width: 857
         height: 450
         isCached: true
+  - title: "Alkami to acquire Segmint Inc., leading financial data analytics and transaction cleansing provider"
+    excerpt: "Alkami Technology, Inc. (Nasdaq: ALKT) (“Alkami”), a leading cloud-based digital banking solutions provider for US financial institutions (FIs), announced it has entered a definitive agreement to acquire Segmint Inc."
+    publishedDateTime: 2022-03-28T20:06:00Z
+    webUrl: "https://www.cuinsight.com/press-release/alkami-to-acquire-segmint-inc-leading-financial-data-analytics-and-transaction-cleansing-provider/"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 10
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
+        isCached: true
   - title: "Global Product Analytics Market To Be Grow Due To Rising Adoption Of Artificial Intelligence In The Forecast Period Of 2021-2026"
     excerpt: "The new report by Expert Market Research titled, ‘Global Product Analytics Market Size, Share, Price, Trends, Growth, Report and Forecast 2021-2026’,"
     publishedDateTime: 2022-03-28T06:27:00Z

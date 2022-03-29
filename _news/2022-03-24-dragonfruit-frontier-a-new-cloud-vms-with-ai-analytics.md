@@ -96,6 +96,20 @@ related:
         width: 857
         height: 450
         isCached: true
+  - title: "Alkami to acquire Segmint Inc., leading financial data analytics and transaction cleansing provider"
+    excerpt: "Alkami Technology, Inc. (Nasdaq: ALKT) (“Alkami”), a leading cloud-based digital banking solutions provider for US financial institutions (FIs), announced it has entered a definitive agreement to acquire Segmint Inc."
+    publishedDateTime: 2022-03-28T20:06:00Z
+    webUrl: "https://www.cuinsight.com/press-release/alkami-to-acquire-segmint-inc-leading-financial-data-analytics-and-transaction-cleansing-provider/"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 10
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
+        isCached: true
   - title: "PLUS3 IT SYSTEMS TO EXPAND DATA ANALYTICS AND ARTIFICIAL INTELLIGENCE CAPABILITIES WITH JOINT ARTIFICIAL INTELLIGENCE CENTER AWARD"
     excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial Intelligence Center (JAIC) for Data Readiness for Artificial Intelligence Development (DRAID)."
     publishedDateTime: 2022-03-24T13:28:00Z

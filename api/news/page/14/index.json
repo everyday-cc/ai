@@ -2,6 +2,101 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-03-15-potentially-huge-new-markets-for-developers.md",
+      "title": "Potentially huge new markets for developers",
+      "excerpt": "Early on, IBM saw that healthcare would be an ideal AI application, where much of Watson’s work was initially focused. But the critical need for hospital beds due to the Pandemic has massively ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/softwaredev/potentially-huge-new-markets-for-developers/",
+      "originalUrl": "https://sdtimes.com/softwaredev/potentially-huge-new-markets-for-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2021/03/away-4610699_640.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-artificial-intelligence-robotics-technology-park-comes-up-in-bengaluru.md",
+      "title": "Artificial Intelligence & Robotics Technology Park comes up in Bengaluru",
+      "excerpt": "Artificial Intelligence and Robotics Technology Park (ARTPARK), the first of its' kind in the country, a not-for-profit foundation has been launched in the city on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/karnataka/artificial-intelligence-robotics-technology-park-comes-up-in-bengaluru-733406",
+      "originalUrl": "https://www.thehansindia.com/karnataka/artificial-intelligence-robotics-technology-park-comes-up-in-bengaluru-733406",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2022/03/14/1281712-artificial-intelligence.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/karnataka/artificial-intelligence-robotics-technology-park-comes-up-in-bengaluru-733406",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/karnataka/artificial-intelligence-robotics-technology-park-comes-up-in-bengaluru-733406",
+      "publishedDateTime": "2022-03-14T16:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-ai-ethics-part-2-mitigating-bias-in-our-algorithms.md",
       "title": "AI Ethics Part 2: Mitigating bias in our algorithms",
       "excerpt": "In first part of this article series, we explored the various forms of AI bias, ways to understand and identify them. This second part will cover various tangible measures that can be undertaken to control,",
@@ -944,110 +1039,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-ibm-watson-lessons-for-knowledge-management.md",
-      "title": "IBM Watson: lessons for knowledge management",
-      "excerpt": "Some months ago reports appeared, especially in the American press, about the sale of IBM Watson Health by IBM. IBM Watson Health would no longer fit into the business strategy of IBM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ibm-watson-lessons-knowledge-management-reinoud-kaasschieter",
-      "originalUrl": "https://www.linkedin.com/pulse/ibm-watson-lessons-knowledge-management-reinoud-kaasschieter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGIGFcStblS3Q/article-cover_image-shrink_720_1280/0/1647015165058?e=1653523200&v=beta&t=NIkBJKONKNTJTep9DqycpCymtaOzYR6gpPCdby3KbxU",
-          "width": 1240,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-how-we-handle-language-in-the-metaverse-could-set-the-tone-for-its-future.md",
-      "title": "How we handle language in the metaverse could set the tone for its future",
-      "excerpt": "We may need synthetic data to remove language bias in the metaverse so that everyone has a voice -- not just those who shout the loudest.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/13/how-we-handle-language-in-the-metaverse-could-set-the-tone-for-its-future/",
-      "originalUrl": "https://venturebeat.com/2022/03/13/how-we-handle-language-in-the-metaverse-could-set-the-tone-for-its-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1215375477.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/13/how-we-handle-language-in-the-metaverse-could-set-the-tone-for-its-future/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/13/how-we-handle-language-in-the-metaverse-could-set-the-tone-for-its-future/amp/",
-      "publishedDateTime": "2022-03-13T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

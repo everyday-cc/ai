@@ -107,6 +107,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-23-chinas-quest-for-greater-technological-self-reliance.md",
+      "title": "China’s Quest for Greater Technological Self-Reliance",
+      "excerpt": "But what is driving this pursuit of self-reliance, especially for China ... world of e-commerce by leapfrogging from cash to cashless payment systems. Alibaba, Baidu, and other PRC firms are also active in cutting-edge artificial intelligence research.",
+      "sourceUrl": null,
+      "webUrl": "https://asiasociety.org/australia/chinas-quest-greater-technological-self-reliance",
+      "originalUrl": "https://asiasociety.org/australia/chinas-quest-greater-technological-self-reliance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://asiasociety.org/sites/default/files/styles/1200w/public/2021-03/Bates%20Gill%20essay%20-%20Made%20in%20China%20chip%20-%20ROMSVETNIK-%20shutterstock.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia Society",
+        "domain": "asiasociety.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-microsoft-claims-new-ai-model-architecture-improves-language-translation.md",
       "title": "Microsoft claims new AI model architecture improves language translation",
       "excerpt": "Microsoft claims that its new model architecture, Z-code Mixture of Experts (MoE), improves language translation quality.",
@@ -1134,58 +1177,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-ai-experts-warn-of-potential-cyberwar-facing-banking-sector.md",
-      "title": "AI Experts Warn of Potential Cyberwar Facing Banking Sector",
-      "excerpt": "U.S. authorities have flagged the U.S. financial system, a central pillar in the U.S. sanctions regime, as an attractive target, and officials and security experts have warned for weeks about the possibility of retaliatory cyberattacks from Russia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-experts-warn-of-potential-cyberwar-facing-banking-sector-11647941402",
-      "originalUrl": "https://www.wsj.com/articles/ai-experts-warn-of-potential-cyberwar-facing-banking-sector-11647941402",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-509046/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-experts-warn-of-potential-cyberwar-facing-banking-sector-11647941402",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-experts-warn-of-potential-cyberwar-facing-banking-sector-11647941402",
-      "publishedDateTime": "2022-03-22T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -58,61 +58,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-24-sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research.md",
-      "title": "SAS and Clemson University deploy AI and machine learning software for education and research",
-      "excerpt": "SAS skills among students and supports analysis of massive datasetsCARY, N.C., March 24, 2022 /PRNewswire/ -- Clemson",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1772498/Watt_Center_Clemson.jpg",
-          "width": 400,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education",
-        "AI in Finance",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-23-programming-languages-python-just-got-a-boost-from-facebooks-meta.md",
       "title": "Programming languages: Python just got a boost from Facebook's Meta",
       "excerpt": "Meta, which owns Facebook, has given $300,00 to the Python Software Foundation (PSF), the group that maintains Core Python (CPython) – the open-source programming language that powers most machine learning (ML) and artificial intelligence apps.",
@@ -395,6 +340,41 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-how-does-ai-fit-into-your-business.md",
+      "title": "How does AI fit into your business?",
+      "excerpt": "you benefit from this branch of AI. Researchers are currently focused on analysing emotions in language that will translate real-time conversations with the nuances of human speech. Augmented ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/O2rQGMAndZnqd1ea",
+      "originalUrl": "https://www.itweb.co.za/content/O2rQGMAndZnqd1ea",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/O2rQGMAndZnqd1ea",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/O2rQGMAndZnqd1ea",
+      "publishedDateTime": "2022-03-14T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
       ]
     },
     {

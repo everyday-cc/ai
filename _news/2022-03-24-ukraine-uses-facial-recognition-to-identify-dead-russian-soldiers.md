@@ -121,22 +121,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Russia-Ukraine War: Kyiv Uses Facial Recognition Software To Identify Dead Russian Troops"
-    excerpt: "Amid Russia’s offensive against Ukraine, Kyiv is currently using facial recognition software for identifying Russian troops killed during the combat"
-    publishedDateTime: 2022-03-24T07:49:00Z
-    webUrl: "https://www.republicworld.com/world-news/russia-ukraine-crisis/russia-ukraine-war-kyiv-uses-facial-recognition-software-to-identify-dead-russian-troops-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/world-news/russia-ukraine-crisis/russia-ukraine-war-kyiv-uses-facial-recognition-software-to-identify-dead-russian-troops-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/russia-ukraine-crisis/russia-ukraine-war-kyiv-uses-facial-recognition-software-to-identify-dead-russian-troops-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 65
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/wuzjmtwqf58e9qde_1648105963.jpeg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Complex Questions As Face Recognition Tech Joins Ukraine War"
     excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said Thursday."
     publishedDateTime: 2022-03-25T02:07:00Z

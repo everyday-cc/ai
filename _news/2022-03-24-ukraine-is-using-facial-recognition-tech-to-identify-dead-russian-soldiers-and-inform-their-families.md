@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ukraine-using-facial-recognition-tec
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3?amp"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -110,22 +110,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/b1236187f5fc799d81709ad426146bccb186b4d6/0_187_5760_3456/master/5760.jpg?width=620&quality=85&auto=format&fit=max&s=dee9433c17da6c8c14788c605f7c32a3"
         width: 620
         height: 372
-        isCached: true
-  - title: "Russia-Ukraine War: Kyiv Uses Facial Recognition Software To Identify Dead Russian Troops"
-    excerpt: "Amid Russia’s offensive against Ukraine, Kyiv is currently using facial recognition software for identifying Russian troops killed during the combat"
-    publishedDateTime: 2022-03-24T07:49:00Z
-    webUrl: "https://www.republicworld.com/world-news/russia-ukraine-crisis/russia-ukraine-war-kyiv-uses-facial-recognition-software-to-identify-dead-russian-troops-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/world-news/russia-ukraine-crisis/russia-ukraine-war-kyiv-uses-facial-recognition-software-to-identify-dead-russian-troops-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/russia-ukraine-crisis/russia-ukraine-war-kyiv-uses-facial-recognition-software-to-identify-dead-russian-troops-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 65
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/wuzjmtwqf58e9qde_1648105963.jpeg"
-        width: 768
-        height: 438
         isCached: true
   - title: "Ukraine uses facial recognition to identify dead Russian soldiers"
     excerpt: "Ukraine starts the use of facial recognition to identify unidentified Russian soldiers who are killed or captured in the war."

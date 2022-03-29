@@ -2,6 +2,93 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-03-16-progress-updates-sitefinity-dx.md",
+      "title": "Progress updates Sitefinity DX",
+      "excerpt": "The latest release of the Progress Sitefinity DX digital experience platform delivers .Net 6 support and new digital asset management, advanced search and audience analysis, segmentation and ...",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/business-software/progress-updates-sitefinity-dx.html",
+      "originalUrl": "https://itwire.com/business-software/progress-updates-sitefinity-dx.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/b4c9dfb15f87c67af432886c067470f0_M.jpg",
+          "width": 375,
+          "height": 289,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-solving-big-problems-with-computer-vision-deep-learning.md",
+      "title": "Solving big problems with computer vision & deep learning",
+      "excerpt": "And the winners were both startups from India. Deep learning solution for hearing impaired Jayasudan Munsamy Jayasudan Munsamy and Arul Praveen T’s DeepVisionTech won two of the three awards ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/business/startups/trend-tracking/solving-big-problems-with-computer-vision-deep-learning/articleshow/90250024.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/business/startups/trend-tracking/solving-big-problems-with-computer-vision-deep-learning/articleshow/90250024.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-90250298,width-1070,height-580,imgsize-8098,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/business/startups/trend-tracking/solving-big-problems-with-computer-vision-deep-learning/amp_articleshow/90250024.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/startups/trend-tracking/solving-big-problems-with-computer-vision-deep-learning/amp_articleshow/90250024.cms",
+      "publishedDateTime": "2022-03-15T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-crisis-data-an-ethics-case-study.md",
       "title": "Crisis Data: An Ethics Case Study",
       "excerpt": "Politico published an article about a nonprofit called Crisis Text Line, which offers support via text messages for people who are going through mental health crises. For years, the nonprofit had been collecting a database of messages exchanged,",
@@ -979,92 +1066,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-ai-chip-innovator-memryx-hires-two-veteran-semiconductor-leaders-for-top-engineering-and-business-development-roles.md",
-      "title": "AI Chip Innovator MemryX Hires Two Veteran Semiconductor Leaders For Top Engineering and Business Development Roles",
-      "excerpt": "MemryX Inc., a pioneering start-up designing breakthrough silicon for artificial intelligence processing for edge devices, has appointed semiconductor industry veterans Puneet Singh and Roger Peene. Singh will serve as vice president of engineering,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-ann-arbor-artificial-intelligence-engineering-f6f58bc4b2d24c52bdd616badf6fb689",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-ann-arbor-artificial-intelligence-engineering-f6f58bc4b2d24c52bdd616badf6fb689",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-cogniac-and-cisco-meraki-partner-to-automate-operations-with-computer-vision.md",
-      "title": "Cogniac and Cisco Meraki Partner to Automate Operations with Computer Vision",
-      "excerpt": "Cogniac Corporation (“Cogniac”), a leader in enterprise-class Artificial Intelligence (AI) image and video analysis, and Cisco Meraki have announced a strategic partnership to accelerate the delivery of AI-powered computer vision applications at the edge of the network.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-08f4ef5e9778c2bea6f3da6aac460229",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-08f4ef5e9778c2bea6f3da6aac460229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -59,6 +59,20 @@ related:
         width: 647
         height: 340
         isCached: true
+  - title: "Will Smith slaps Chris Rock, wins an Oscar (full speech)"
+    excerpt: "It will forever be remembered as the night Will Smith slapped Chris Rock on stage in front of a live TV audience. Not as the crowning achievement of his 30-year acting career, like it should have been"
+    publishedDateTime: 2022-03-29T00:30:00Z
+    webUrl: "https://thethaiger.com/news/world/will-smith-slaps-chris-rock-at-academy-awards-but-why-full-acceptance-speech"
+    type: article
+    provider:
+      name: The Thaiger
+      domain: thethaiger.com
+    quality: 24
+    images:
+      - url: "https://thethaiger.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-28-at-5.28.53-PM.jpg"
+        width: 1470
+        height: 1000
+        isCached: true
   - title: "Will Smith will not face charges after hitting Chris Rock at Oscars, LA Police say"
     excerpt: "Chris Rock made a joke about wife Jada Pinkett Smith, just minutes before Will Smith was named best actor at the ceremony."
     publishedDateTime: 2022-03-28T09:58:00Z

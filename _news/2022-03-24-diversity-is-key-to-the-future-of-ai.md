@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://w5p2r8x5.stackpathcdn.com/v9/mobile/peacefmonline1.png"
         width: 300
         height: 241
-        isCached: true
-  - title: "How one of the world’s largest wind companies is using AI to capture more energy"
-    excerpt: "Future generations continued to expand on Hansen’s openness to change, evolving to building hydraulic cranes, and ultimately, in 1987, becoming Vestas Wind Systems, one of the largest wind turbine manufacturers in the world."
-    publishedDateTime: 2022-03-24T08:54:00Z
-    webUrl: "https://news.microsoft.com/europe/features/winds-of-change-how-one-of-the-worlds-largest-wind-companies-is-using-ai-to-capture-more-energy/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 34
-    images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/93/2022/03/Vestas-wind-turbines-at-the-Macarthur-Wind-Farm-located-between-Hamilton-and-Warrnambool-in-the-state-of-Victoria-Australia.-Photo-c-scaled.jpg"
-        width: 2560
-        height: 1707
         isCached: true
 
 secured: "9j9owqQuooBZjswrei+J5Hm5xH9HXemP5bHQ+h+xH/jFCxe8sqUUFqLycHuNjws497coyCT9aMHwRGMxdA5kYlhcBuThkgIIssUg2ca7dWee4utyyjuzTE/pidG7Ydbl/mfRIii6rigUx8vk1FS354Udq44IK3ZyR87PvqMyluFTls06y/N0K3fd/wcZwv0UFYv1TG1mV86LV1224JFvc8nr7XHXBDm62PcDRbDrtFKTEBy/I+5k/D9XDKWHiLhooEHZIA6YTJV+SOye7rA8AuCxKkj4Pd5gVorXta8g2IPSqHKmonvWy9ZOhSbGXL8wxT/R6WwZwcn1rAxj+poyteV2n/Y+AiuKObdBdWlJ5n8=;gJGbeLkD6ino18VpA31+Jg=="

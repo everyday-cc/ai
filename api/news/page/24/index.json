@@ -2,6 +2,101 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-03-03-washington-to-roll-out-facial-recognition-dropped-by-irs.md",
+      "title": "Washington to Roll Out Facial Recognition Dropped by IRS",
+      "excerpt": "Washington state is getting ready to roll out the ID.me facial recognition system dropped by the IRS over privacy and equity concerns, while human rights activists are asking state government officials to ban the system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/public-safety/washington-to-roll-out-facial-recognition-dropped-by-irs",
+      "originalUrl": "https://www.govtech.com/public-safety/washington-to-roll-out-facial-recognition-dropped-by-irs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/public-safety/washington-to-roll-out-facial-recognition-dropped-by-irs?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/washington-to-roll-out-facial-recognition-dropped-by-irs?_amp=true",
+      "publishedDateTime": "2022-03-02T10:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-ai-computer-maker-cerebras-nabs-totalenergies-se-as-first-energy-sector-customer.md",
+      "title": "AI computer maker Cerebras nabs TotalEnergies SE as first energy sector customer",
+      "excerpt": "The energy giant, a devotee of giant computers, is enthusiastic about the early results of running very large, data-intensive simulation tasks such as oil and gas exploration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-computer-maker-cerebras-nabs-totalenergies-se-as-first-energy-sector-customer/",
+      "originalUrl": "https://www.zdnet.com/article/ai-computer-maker-cerebras-nabs-totalenergies-se-as-first-energy-sector-customer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/eff230571995ff8fc499d826aec6b544704283b7/2022/03/02/951afdba-2f83-4334-8772-7929bcd223fa/cerebras-totalenergies-cs-2-pic-2022.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-computer-maker-cerebras-nabs-totalenergies-se-as-first-energy-sector-customer/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-computer-maker-cerebras-nabs-totalenergies-se-as-first-energy-sector-customer/",
+      "publishedDateTime": "2022-03-02T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-03-03-truecircle-scoops-55m-to-use-ai-to-drive-recycling-efficiency.md",
       "title": "TrueCircle scoops $5.5M to use AI to drive recycling efficiency",
       "excerpt": "UK-based TrueCircle, a computer vision startup founded just last year, has nabbed $5.5 million in pre-seed funding in a bid to bring data-driven AI to the recycling industry to improve recovery rates and quality — with the overarching goal of transforming the economics of waste reuse to",
@@ -1073,102 +1168,6 @@
         "name": "Morningstar, Inc.",
         "domain": "morningstar.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.md",
-      "title": "Researchers explore a human speech recognition model based on machine learning",
-      "excerpt": "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220302/Researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220302/Researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Hearing_Loss-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220302/Researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220302/Researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.aspx",
-      "publishedDateTime": "2022-03-01T21:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-global-deep-learning-chipset-market-share-2022-top-players-demands-trends-future-developments-and-investments-unique-business-prospects.md",
-      "title": "Global Deep Learning Chipset Market Share 2022: Top Players, Demands, Trends, Future Developments and Investments, Unique Business Prospects 2028",
-      "excerpt": "Mar 02, 2022 (The Expresswire) -- The most recent update on Global \"Deep Learning Chipset Market\" 2022 Report gives significant bits of knowledge on market improvements, valuable opportunities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-share-2022-top-players-demands-trends-future-developments-and-investments-unique-business-prospects-2028-2022-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-share-2022-top-players-demands-trends-future-developments-and-investments-unique-business-prospects-2028-2022-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T19:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

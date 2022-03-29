@@ -1013,24 +1013,33 @@
     {
       "path": "_news/2022-03-23-icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence.md",
       "title": "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence",
-      "excerpt": "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),",
+      "excerpt": "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T03:05:00-07:00",
+      "publishedDateTime": "2022-03-23T03:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1040,7 +1049,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI in Autos",
         "AI"
       ]
     },

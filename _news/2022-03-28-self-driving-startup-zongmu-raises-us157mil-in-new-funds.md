@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Self-driving car startup WeRide raises $400 million in funding round"
-    excerpt: "Every Wednesday and Friday, TechNode’s Briefing newsletter delivers a roundup of the most important news in China tech, straight to your inbox. Check out our previous newsletters. {{#message}}{{{message}}}{{/message}}{{^message}}Your submission failed ..."
-    publishedDateTime: 2022-03-24T07:13:00Z
-    webUrl: "https://technode.com/2022/03/24/self-driving-car-startup-weride-raises-400-million-in-funding-round/"
-    ampWebUrl: "https://technode.com/2022/03/24/self-driving-car-startup-weride-raises-400-million-in-funding-round/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/03/24/self-driving-car-startup-weride-raises-400-million-in-funding-round/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
   - title: "Self-driving Chinese startup Zongmu raises US$157m in new funds"
     excerpt: "BEIJING] Zongmu Technology Shanghai has raised more than 1 billion yuan (S$213 million) in a new round as the Chinese autonomous driving system startup looks to build a new production plant. Read more at The Business Times."
     publishedDateTime: 2022-03-28T02:10:00Z

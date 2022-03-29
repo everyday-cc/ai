@@ -58,6 +58,20 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Introducing ‘Bot Libre 9’, the Bot and Artificial Intelligence Platform for the Metaverse"
+    excerpt: "Bot Libre 9, the Bot and Artificial Intelligence Platform, will now be supporting the Metaverse. Bot Libre 9 has been released as a free and open-source"
+    publishedDateTime: 2022-03-29T01:30:00Z
+    webUrl: "https://www.digitaljournal.com/pr/introducing-bot-libre-9-the-bot-and-artificial-intelligence-platform-for-the-metaverse"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.abnewswire.com/uploads/6942854ee9ab76dc39b7352b9973dfd4.png"
+        width: 600
+        height: 267
+        isCached: true
   - title: "THE METAVERSE COURTROOM: Using Virtual Reality, Artificial Intelligence and Sensory Devices to Find Justice"
     excerpt: "It’s 2030 and the new handheld Techsung Global Device 50 (“TGD50”) phone, tablet and laptop battery has a run time of six months between charges. It offers incredible technology except for one thing,"
     publishedDateTime: 2022-03-24T14:41:00Z

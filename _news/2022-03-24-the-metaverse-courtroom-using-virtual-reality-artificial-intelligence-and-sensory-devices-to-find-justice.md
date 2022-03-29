@@ -72,6 +72,20 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Introducing ‘Bot Libre 9’, the Bot and Artificial Intelligence Platform for the Metaverse"
+    excerpt: "Bot Libre 9, the Bot and Artificial Intelligence Platform, will now be supporting the Metaverse. Bot Libre 9 has been released as a free and open-source"
+    publishedDateTime: 2022-03-29T01:30:00Z
+    webUrl: "https://www.digitaljournal.com/pr/introducing-bot-libre-9-the-bot-and-artificial-intelligence-platform-for-the-metaverse"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.abnewswire.com/uploads/6942854ee9ab76dc39b7352b9973dfd4.png"
+        width: 600
+        height: 267
+        isCached: true
 
 secured: "m1yit+eVe5yBKLlVoXTlFUEZk8I9ZtKw6YI7alC8jlfcW9i7YYqsrwdlvYqSAXzpZcNbGg1oqgXfMQMba/C+gYn2TUG+6Zb0od/28H9YtH0KUclB5NyrZ6g4saAq1/BotrICu9bY7WpgDb7Z/jaAaN9G/uV3HXz/j1EKG6K9rgS9GiQU2Q119npcElgGSBJLTazALNj+/dBMiGIbVTtjFPeIehaV92rVZ8kUW6qrKPuukoeg1lDDbmMSBWoX8jZ9qwQiTS0lwlUosZyfEDyzUBNFckTG/RORCgdSzk0s4b4fxcriAXeYVYf5BHcU5vYGSMkK34pbswhCcmj5aLOneRyMDhCUINLMHxiY1n1+4yo=;PRCHs3AtJEAtjIqIwK7Jdw=="
 ---
