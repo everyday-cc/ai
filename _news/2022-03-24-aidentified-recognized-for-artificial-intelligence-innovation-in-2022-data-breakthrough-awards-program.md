@@ -38,20 +38,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Microsoft upgrades translation service with AI"
-    excerpt: "More to be lost in translationFor a while now there has been a myth that AI can operate good language translation services. In fact, companies have been insisting that translation firms slash their fees and work alongside machine translation systems from Deepl,"
-    publishedDateTime: 2022-03-24T12:50:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/54582-microsoft-upgrades-translation-service-with-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 56
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/df2e43746386b941847aa624bfa70fb3_L.jpg"
-        width: 620
-        height: 474
-        isCached: true
   - title: "Baker Hughes Expanding Industrial Cloud-based Solutions with Microsoft, C3.ai"
     excerpt: "Oilfield services (OFS) giant Baker Hughes Co. is partnering with Microsoft Corp., as well as C3.ai Inc. and Accenture plc, to deploy industrial asset"
     publishedDateTime: 2022-03-25T19:15:00Z

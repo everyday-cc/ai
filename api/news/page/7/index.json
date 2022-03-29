@@ -2,6 +2,84 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-21-hearst-invests-in-startup-that-uses-machine-learning-to-aid-businesses-journalists.md",
+      "title": "Hearst Invests In Startup That Uses Machine Learning To Aid Businesses, Journalists",
+      "excerpt": "Applied XL develops \"event-detection algorithms that replicate the rigorous research process of biotech journalists in order to surface important signals,\" says CEO.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/372223/hearst-invests-in-startup-using-machine-learning-t.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/372223/hearst-invests-in-startup-using-machine-learning-t.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-20T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-21-researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored.md",
+      "title": "Researchers Warn: Risks of Using AI To Grow Our Food Are Substantial and Must Not Be Ignored",
+      "excerpt": "Artificial intelligence (AI) is on the cusp of driving an agricultural revolution, and helping confront the challenge of feeding our growing global population in a sustainable way. But researchers warn that using new AI technologies at scale holds huge risks that are not being considered.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored/",
+      "originalUrl": "https://scitechdaily.com/researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Farm-Drone-Spraying-Pesticide-777x518.jpg",
+          "width": 777,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored/amp/",
+      "publishedDateTime": "2022-03-20T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-20-ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars.md",
       "title": "Ethical AI Ambitiously Hoping To Have AI Learn Ethical Behavior By Itself, Such As The Case With AI In Autonomous Self-Driving Cars",
       "excerpt": "Maybe AI can learn to be ethical, though this is harder than it seems, including considerations underlying AI-based self-driving cars.",
@@ -1030,110 +1108,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-poll-shows-americans-optimism-toward-ai-and-and-facial-recognitionbut-brain-implants-not-so-much.md",
-      "title": "Poll Shows Americans’ Optimism Toward AI And And Facial Recognition—But Brain Implants? Not So Much",
-      "excerpt": "like chips implanted in the brain and driverless vehicles. Output of an artificial intelligence system from Google Vision, performing facial recognition on a ... [+] photograph of a man ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
-      "originalUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62335e6539b745afd96e9434/0x0.jpg?format=jpg&crop=3421,1924,x0,y172,safe&fit=crop",
-          "width": 3421,
-          "height": 1924,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
-      "publishedDateTime": "2022-03-18T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-ai-startup-aibee-becomes-unicorn-with-fresh-funds-from-xiaomi.md",
-      "title": "AI Startup Aibee Becomes Unicorn With Fresh Funds From Xiaomi",
-      "excerpt": "Aibee, a Chinese artificial intelligence startup, is getting fresh funding from smartphone maker Xiaomi Corp, which propels its valuation to more than $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2022-03-18/ai-startup-aibee-becomes-unicorn-with-fresh-funds-from-xiaomi",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2022-03-18/ai-startup-aibee-becomes-unicorn-with-fresh-funds-from-xiaomi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivTtsHgCl1wk/v1/1200x859.png",
-          "width": 1200,
-          "height": 859,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T20:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

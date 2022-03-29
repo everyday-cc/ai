@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-01-31-microsofts-satya-nadella-thinks-these-four-technologies-will-reshape-it.md",
-      "title": "Microsoft’s Satya Nadella thinks these four technologies will reshape IT",
-      "excerpt": "Nadella said that the accuracy of the system stemmed from how tunable Microsoft’s cognitive services are. For instance, in the case of McDonalds, the accuracy of the transcription had been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsofts-satya-nadella-thinks-these-four-technologies-will-reshape-it/",
-      "originalUrl": "https://www.techrepublic.com/article/microsofts-satya-nadella-thinks-these-four-technologies-will-reshape-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-30T17:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-31-how-to-add-cognitive-services-to-your-microsoft-azure-resources.md",
       "title": "How to add cognitive services to your Microsoft Azure resources",
       "excerpt": "How to add cognitive services to your Microsoft Azure resources Your email has been sent Cognitive services created in Azure can add powerful features to your organization's application ...",
@@ -1368,6 +1325,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-seeq-recognizes-its-2021-reseller-and-service-partners-of-the-year.md",
+      "title": "Seeq Recognizes its 2021 Reseller and Service Partners of the Year",
+      "excerpt": "Seeq’s annual partner awards program honors excellence in delivering the next generation of process manufacturing improvements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/january-2022/seeq-2021-reseller-service-partners-year",
+      "originalUrl": "https://www.automation.com/en-us/articles/january-2022/seeq-2021-reseller-service-partners-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/dabfb663-eb8a-4226-b3ee-42638db2419d/Seeq-news-Jan-18-2022-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T09:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

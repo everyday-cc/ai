@@ -2,6 +2,110 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2022-02-21-a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.md",
+      "title": "A Look at What’s Next in AI, Virtual Collaboration, and Beyond",
+      "excerpt": "Choose from 900+ sessions across robotics, speech AI, data science, and more The conference is packed with talks from the brightest minds in the business. With over 900 sessions to choose from, you’ll find the insights needed to accelerate your life’s work: whether you’re fascinated by robotics research;",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.html",
+      "originalUrl": "https://www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2022/02/2158900-gtc22-spring-digital-advertorial-bnr-1200x675-engb-100919670-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.amp.html",
+      "publishedDateTime": "2022-02-21T07:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-02-21-irs-adds-option-that-lets-taxpayers-skip-facial-recognition.md",
+      "title": "IRS Adds Option That Lets Taxpayers Skip Facial Recognition",
+      "excerpt": "The Internal Revenue Service on Monday said it has enabled a new option that allows taxpayers to sign up for online accounts with the agency without the use of any biometric data, including facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/personal-finance/taxes/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/",
+      "originalUrl": "https://www.cnet.com/personal-finance/taxes/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 319,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/7betrcU9jHZ1tSz-tNe_qVOBzRw=/1200x630/2020/07/14/02e69693-df4d-4af1-b15c-9c97b90797f9/tax-day-4039.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/",
+      "publishedDateTime": "2022-02-21T07:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-21-self-driving-trucks-still-need-humans.md",
       "title": "Self-driving trucks still need humans",
       "excerpt": "The future of autonomous trucking requires the definition of a man-machine interface that can handle every operational situation.",
@@ -1039,91 +1143,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-20-the-fundamental-goal-of-ai-is-to-allow-people-to-focus-on-the-most-pressing-issues.md",
-      "title": "The fundamental goal of AI is to allow people to focus on the most pressing issues",
-      "excerpt": "Anxiety over artificial intelligence breakthroughs was stoked this week when DeepMind announced the AlphaCode deep learning system, which generates source code. According to my AlphaCode deep dive, DeepMind researchers have done an excellent job of ...",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/the-fundamental-goal-of-ai-is-to-allow-people-to-focus-on-the-most-pressing-issues/",
-      "originalUrl": "https://bestgamingpro.com/the-fundamental-goal-of-ai-is-to-allow-people-to-focus-on-the-most-pressing-issues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-19T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bestgamingpro",
-        "domain": "bestgamingpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-20-who-is-behind-qanon-linguistic-detectives-find-fingerprints.md",
-      "title": "Who Is Behind QAnon? Linguistic Detectives Find Fingerprints",
-      "excerpt": "Sleuths hunting for the writer behind Q have increasingly overlooked Mr. Furber and focused their speculation on another QAnon booster ... prominent experts in such linguistic detective work who reviewed the findings for The Times called the conclusions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html",
-      "originalUrl": "https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/02/19/us/19qanon-promo/19qanon-promo-facebookJumbo.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/19/technology/qanon-messages-authors.amp.html",
-      "publishedDateTime": "2022-02-19T10:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

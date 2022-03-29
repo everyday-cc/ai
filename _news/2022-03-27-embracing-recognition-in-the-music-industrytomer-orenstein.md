@@ -39,15 +39,6 @@ related:
         width: 721
         height: 337
         isCached: true
-  - title: "How does the AI sector regulate the banking and finance ecosystem in India?"
-    excerpt: "Praveen Paulose,  MD & CEO of Celusion Technologies talks about How does the AI sector regulates the banking and finance ecosystem in India?"
-    publishedDateTime: 2022-03-24T11:44:00Z
-    webUrl: "https://www.ciol.com/ai-sector-regulate-banking-finance-ecosystem-india/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 49
 
 secured: "EyxSW5pfwQNDel8RIxkHxrR21/JwYI9cnqw2MFaGghGn3tgG81w/tZxvhQhV/PREHQ4DSxTVV3qz260Pdw6K711Qo49oRv6+SgJYj6+t+fFnIoOfQWpeahiM4tqTxrEV0gk74QbFY1xbe/GbsEaOlsSCNuHw5wUsf7wNIyyOOlV+Z4RIOycSB0tCRid6yK6300HyXQRBSCCXv8E8wfv5dxBkQNBe6gQFItgppvjeAt6Avh4gbtn0pMZM+QS09HQWjs7UjqIuHzEfvhefH19I9G/+lMpPReInCfFFAHxIC86cAdBePoVwOWVFIG8Mwpnw/U7S3HY6rN68OKSXmPYBD06b9z6rw1YJsECGej0u8FF5HoQmT3oPfb5Lsw5/5hmX+SORwx3Ho4/ceuWhhlFJ4Fx0mWM2B3MtYy6wBhe3ACIJwi9fqtzxlpDX7I0KPN3PVz8LlB9Fr5ECbvydD1UemufEib8U2VoU5m6NWCiShtXV+3rMXh/Zb/zN9He/FM/CiZdheQfi7XljBm8fo0NAUQ==;HJCSnybVuucsvY2N40aHmA=="
 ---

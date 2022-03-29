@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/edtech-startup-taghive-all-set-to-dep
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-for-over-5-million-students-across-50000-public-schools-of-uttar-pradesh/"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Edtech startup TagHive all set to deploy its AI-powered app 'Class Saathi'"
-    excerpt: "Class Saathi is designed to integrate into the education ecosystem and enable data-driven strategy without additional infrastructure. It is an AI-powered self-learning app from TagHive Inc."
-    publishedDateTime: 2022-03-24T11:57:00Z
-    webUrl: "https://www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812.html"
-    ampWebUrl: "https://www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 55
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/03/24/1600x900/20220324_165758_0000_(1)_1648122980524_1648122990806.jpg"
-        width: 1600
-        height: 899
-        isCached: true
   - title: "Edtech startup TagHive all set to deploy its AI powered app ‘Class Saathi’ for…"
     excerpt: "Class Saathi, the AI-powered self-learning app from TagHive Inc. will be deployed in all upper primary schools of Uttar Pradesh. Class Saathi, conceived by a graduate of IIT Kanpur and Harvard Business School,"
     publishedDateTime: 2022-03-28T03:21:00Z

@@ -2,6 +2,102 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-03-16-self-driving-vw-idbuzz-vans-to-start-testing-on-us-roads-in-2023.md",
+      "title": "Self-driving VW ID.Buzz vans to start testing on US roads in 2023",
+      "excerpt": "Volkswagen's new ID.Buzz is slated to reach U.S. showrooms in 2023, but versions of the electric van fitted with a self-driving system developed by Argo AI will also test on the nation's roads. Volkswagen Group,",
+      "sourceUrl": null,
+      "webUrl": "https://www.motorauthority.com/news/1135332_self-driving-vw-id-buzz-vans-to-start-testing-on-us-roads-in-2023",
+      "originalUrl": "https://www.motorauthority.com/news/1135332_self-driving-vw-id-buzz-vans-to-start-testing-on-us-roads-in-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hgmsites.net/hug/2024-volkswagen-id-buzz_100832793_h.jpg",
+          "width": 1920,
+          "height": 1205,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Authority",
+        "domain": "motorauthority.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-artificial-intelligence-in-fintech.md",
+      "title": "Artificial Intelligence in Fintech",
+      "excerpt": "What Is Artificial Intelligence in Fintech As artificial intelligence (AI) starts to enter the financial technology (fintech) sector, there is a lot of buzz and excitement around what it could mean for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-fintech-raja-al-mazrouei",
+      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-fintech-raja-al-mazrouei",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGCUzlLrNH1MQ/article-cover_image-shrink_600_2000/0/1647424327619?e=1653523200&v=beta&t=nZUq3B9xcBK7EyvixKj86WTBa5RqSD0x3Ub4xkBqPk4",
+          "width": 1019,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-deep-learning-speeds-triage-of-brain-scans.md",
       "title": "Deep learning speeds triage of brain scans",
       "excerpt": "A team headed up at King’s College London hopes that deep learning models could address this bottleneck. The researchers have developed a deep learning framework, based on convolutional neural networks (CNNs), that can identify abnormalities in MRI scans.",
@@ -972,92 +1068,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-deep-learning-system-market-to-develop-at-cagr-of-391-during-forecast-period-notes-emergen-research-study.md",
-      "title": "Deep Learning System Market to Develop at CAGR of 39.1 % During Forecast Period, Notes Emergen Research Study",
-      "excerpt": "The global deep learning system market size is expected to reach USD 93.34 Billion at a steady CAGR of 39.1% in 2028, according to latest analysis by",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-system-market-to-develop-at-cagr-of-39-1-during-forecast-period-notes-emergen-research-study",
-      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-system-market-to-develop-at-cagr-of-39-1-during-forecast-period-notes-emergen-research-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/Russians-Helsinki-Train-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-why-is-the-health-care-industry-slow-in-adopting-artificial-intelligence.md",
-      "title": "Why is the health care industry slow in adopting artificial intelligence?",
-      "excerpt": "A new report explores several reasons, including barriers to entry, biased algorithms, and limited access to data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benefitspro.com/2022/03/15/why-is-the-health-care-industry-slow-in-adopting-artificial-intelligence/",
-      "originalUrl": "https://www.benefitspro.com/2022/03/15/why-is-the-health-care-industry-slow-in-adopting-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.benefitspro.com/contrib/content/uploads/sites/412/2021/07/digitalization.jpg",
-          "width": 600,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benefitspro.com/2022/03/15/why-is-the-health-care-industry-slow-in-adopting-artificial-intelligence/?amp=1",
-      "cdnAmpWebUrl": "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2022/03/15/why-is-the-health-care-industry-slow-in-adopting-artificial-intelligence/?amp=1",
-      "publishedDateTime": "2022-03-15T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benefits Pro",
-        "domain": "benefitspro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

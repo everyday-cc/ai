@@ -2,6 +2,92 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-03-14-ecopetrol-accenture-and-aws-work-to-help-companies-advance-journey-to-water-neutrality-through-first-of-its-kind-open-platform.md",
+      "title": "Ecopetrol, Accenture and AWS Work to Help Companies Advance Journey to Water Neutrality Through First-of-its-Kind Open Platform",
+      "excerpt": "Accenture (NYSE: ACN) and Amazon Web Services, Inc. (AWS) announced a first-of-its-kind solution for water intelligence and management to help advance sustainability and operational efficiencies for energy companies.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-ecopetrol-sa-water-management-sustainable-development-6e0f744f42024040b3f6fbdd52a7f34d",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-ecopetrol-sa-water-management-sustainable-development-6e0f744f42024040b3f6fbdd52a7f34d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-14-enotai-announces-solution-for-optimising-deep-neural-networks.md",
+      "title": "Enot.ai Announces Solution for Optimising Deep Neural Networks",
+      "excerpt": "Enot, an artificial intelligence firm, has announced the creation of a framework dedicated to optimising deep neural networks.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/enot-ai-announces-solution-for-optimising-deep-neural-networks/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/enot-ai-announces-solution-for-optimising-deep-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/03/Enot.ai-Announces-Solution-for-Optimising-Deep-Neural-Networks-01.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/enot-ai-announces-solution-for-optimising-deep-neural-networks/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/enot-ai-announces-solution-for-optimising-deep-neural-networks/amp/",
+      "publishedDateTime": "2022-03-14T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-14-artificial-intelligence-is-redefining-the-travel-industry.md",
       "title": "Artificial Intelligence is Redefining The Travel Industry",
       "excerpt": "Artificial intelligence (AI) is transforming the travel industry by offering predictive analytics, tailored recommendations and live updates.",
@@ -1054,102 +1140,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-12-ai-our-world-what-is-artificial-intelligence.md",
-      "title": "AI & Our World: What is Artificial Intelligence?",
-      "excerpt": "Let’s talk about a question a lot of people ask themselves… What is AI? The thing about artificial intelligence is that most people don’t really know what it is. A lot of what most individuals think t",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ai-our-world-what-artificial-intelligence-beyond-ai",
-      "originalUrl": "https://www.linkedin.com/pulse/ai-our-world-what-artificial-intelligence-beyond-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGpT_R1uwvZpg/article-cover_image-shrink_720_1280/0/1646766130678?e=1653523200&v=beta&t=Fa7CpGgBpV2n9QlAVmLJcLxShaojsSpPFSexhwlwuv0",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-11T12:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-03-12-3-ways-natural-language-processing-is-changing-cybersecurity.md",
-      "title": "3 Ways Natural Language Processing is Changing Cybersecurity",
-      "excerpt": "If you’ve used a chatbot, predictive text to finish a thought in an email, or pressed “0” to speak to an operator, you’ve come across natural language processing (NLP). As more enterprises adopt NLP,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/306473/3-ways-natural-language-processing-is-changing-cybersecurity.html",
-      "originalUrl": "https://www.cio.com/article/306473/3-ways-natural-language-processing-is-changing-cybersecurity.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/03/iStock-1354205086.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/306473/3-ways-natural-language-processing-is-changing-cybersecurity.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/306473/3-ways-natural-language-processing-is-changing-cybersecurity.html/amp",
-      "publishedDateTime": "2022-03-11T10:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

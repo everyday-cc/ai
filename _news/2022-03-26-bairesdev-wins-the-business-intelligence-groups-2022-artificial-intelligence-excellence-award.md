@@ -27,31 +27,17 @@ images:
 related:
   - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
     excerpt: "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program."
-    publishedDateTime: 2022-03-25T20:11:00Z
-    webUrl: "https://www.lelezard.com/en/news-20305699.html"
+    publishedDateTime: 2022-03-25T20:09:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: Associated Press
+      domain: apnews.com
     quality: 39
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Qlik’s Elif Tutuk Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that Elif Tutuk, Vice President of Innovation and Design at Qlik®, was named a winner in its"
-    publishedDateTime: 2022-03-24T12:31:00Z
-    webUrl: "https://www.kentuckytoday.com/news/business/qlik-s-elif-tutuk-named-winner-in-2022-artificial-intelligence-excellence-awards/article_ffd0e99d-89bd-5ce3-b8d9-e08e8628db8e.html"
-    type: article
-    provider:
-      name: Kentucky Today
-      domain: kentuckytoday.com
-    quality: 34
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
     excerpt: "Artificial Intelligence Excellence Award. EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligen"

@@ -47,6 +47,34 @@ related:
         width: 1240
         height: 697
         isCached: true
+  - title: "Chinese Self-Driving Startup Zongmu Bags USD157 Million in Series E Fundraiser"
+    excerpt: "Zongmu Technology, a Chinese autonomous driving and advanced driver assistance systems developer and provider, has secured CNY1 billion (USD157 million) in its latest financing round. The Series E fundraiser was led by Dongyang Guanding Equity Investment Partnership under Zhejiang province’s Dongyang State-owned Assets Supervision and Administration Commission,"
+    publishedDateTime: 2022-03-29T05:12:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinese-self-driving-startup-zongmu-bags-usd157-million-in-series-e-fundraiser"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 35
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/chinese-self-driving-startup-zongmu-bags-usd157-million-in-series-e-fundraiser/7716074441413.jpg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "Xiaomi-backed self-driving system developer Zongmu raises $157m Series E round"
+    excerpt: "The startup was mulling an IPO on Shanghai's Nasdaq-style STAR Market, and could file its listing application as early as 2022."
+    publishedDateTime: 2022-03-29T04:05:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/xiaomi-zongmu-funding-286555/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 35
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2022/03/zongmu.jpeg"
+        width: 1280
+        height: 664
+        isCached: true
 
 secured: "HFXPMwVo4SWRdBCgd95uPPYJe26veogGKvSst6FKo7o6fvUcyv00jAt5cgGdnWtQksfrNBbgwCow+IUS0H30DrB5ZiH3TRg7A5RmJDohMqqByQg6DWReNgrKKlOKFDxj/RSXyOemYcr1t8NIb9+1vcQ+DiKY7Z/Ou+uq5+fsZfTNbh4KFFPPgoLVE4PW03Tfn1l8BEK6B/g43lMudQTLADiSttJpgK5wQXtGNlCdOJrVRxakff28aP1RmNdw9wvzDl8btyGvhhKxI/QVQoBQIPjfHDtcIfEMa5CO2RAm/IURWlRK3p2rWHQfA1hcMp5B70aGG33wx9RBd0xCae0lQsSQaO+LMXGSUByr7S9cCyyERePBebCYskt764q/GL9Y6oW4+4+lwTJKK73XBDkwSaf7PUBieOERFYtYzyi3nDKzWfY17irEE+6/YLoIXK1p8H8VrrfJc9wjUhNTe2Q4iEGMxKIzQakRWRL5O6DEhyzLhIhLq6zEQjFWxWism8EQU97f+s7OyHkT45llgx57rQ==;NhRXvFX1EASS1+BbNMkYuQ=="
 ---

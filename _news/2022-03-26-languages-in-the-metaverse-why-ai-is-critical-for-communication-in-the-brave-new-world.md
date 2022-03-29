@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world/amp/"
 type: article
 quality: 81
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQGTHhSmb45QPQ/article-cover_image-shrink_720_1280/0/1647358378968?e=1653523200&v=beta&t=AgvD4S0nxDMgeE9ROF0N4qgFG3YpYOmOunBFLjIxfD4"
         width: 720
         height: 720
+        isCached: true
+  - title: "Aventyn® Enters the Health Metaverse With 8chili HintVR™ Virtual Reality Platform for Innovations in Care Coordination"
+    excerpt: "Artificial Intelligence Virtual Reality platforms combined with the power of 3D content and digital health applications enable virtual training, patient engagement, education and health coachingCARLSBAD,"
+    publishedDateTime: 2022-03-29T04:32:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=638190"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "emdPdNmIYvJcffTOXuTd8MCKA86ZNqPRADpG+ZyPhx8aGyD+0IO+XlMWlfpKwgW0QISNalEyhVgm5s6YUcgQOMIO146NQl703nKFvU4DHUoj4vcYLt4QJQTtqTwV2TiD1dJAnsBLj6a8AXFd+aqMOA+K8tAXKCpWo2MrOh7MCJcK9c3i6qeRExLP5yJH/QGPJa+tHXfo2XwSvmYeIllT3wEcO+/7tdVX37LAFq5a+nRT5jvSrO/vOg45VAzgEbAq7yOgeo6JyD5xyR+BiYPHQVaO4K13l7GEcGuK39dXtAvhNy8qxA7xHjLyQ4TNOnIPTaaSLDC3Vb8Y9G/js86ClEZfe7/iMlQpRGJn6RjGEkBRQoi4SMw1Y7UEQAKKGkRqoBM04hChsrrhvbb9aKoLGzAG6ikhhgXHWh33/+Nv73u/5uEMzuIvtZiAPWQ380fuFjlDXnT8AhgDMz5LTw+qpIKtdIOV2li3SZiwPk1h2/fo93LA1/tA1si3nwCa4yvfWrxqGENFTpM7+hF9iv3Acw==;hFQuAzIBWnHKEv52wZUA8w=="

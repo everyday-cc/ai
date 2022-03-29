@@ -2,26 +2,26 @@
 category: news
 title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
 excerpt: "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program."
-publishedDateTime: 2022-03-25T20:11:00Z
-originalUrl: "https://www.lelezard.com/en/news-20305699.html"
-webUrl: "https://www.lelezard.com/en/news-20305699.html"
+publishedDateTime: 2022-03-25T20:09:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
+webUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -39,20 +39,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Qlik’s Elif Tutuk Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that Elif Tutuk, Vice President of Innovation and Design at Qlik®, was named a winner in its"
-    publishedDateTime: 2022-03-24T12:31:00Z
-    webUrl: "https://www.kentuckytoday.com/news/business/qlik-s-elif-tutuk-named-winner-in-2022-artificial-intelligence-excellence-awards/article_ffd0e99d-89bd-5ce3-b8d9-e08e8628db8e.html"
-    type: article
-    provider:
-      name: Kentucky Today
-      domain: kentuckytoday.com
-    quality: 34
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
     excerpt: "Artificial Intelligence Excellence Award. EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligen"
     publishedDateTime: 2022-03-25T15:09:00Z
@@ -63,6 +49,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "Y+q4b17dCGn+A4qcTQrZlF3O/o9fBAxt47PQ8CCzkREoZEQUJs+eyE8dOPHpwJSkU1kGnn0cdLd6sSX5oaXlzX6/5OUffHlTFgGdC9vqSfYTo97Niv/u+7bn+VAuB0DQd2iUXZ7ZJ8YukcjX9zkozA72uvNhOkcQ1xlRsl0WiehohXi5UY27lTOmmuIOzg0R0ujYai1zw0QfqSDlU9kOvwdyzYWC4ZB2n8DW7EEI7uPpYYpbU/GQpLDDzH5TUjpy782PPmqIwgS63AzQlEPGposY9X2cACRySXvYibBGgd+KPIu9MRRjaf7K2eAFI/fkgfm1g0+CAOvACYFlT2MR2ouH9kwr/TfzL/6QS02RBMM=;BcdSRvi0zo2nRkfTqC3L7Q=="
+secured: "+TY3GElQVtd6u7Ejd1Q7rbdhxdAy/qOBhSO64eDBQ8jGnrAvl0tzXbyHnzal5ZiD1/nphXG91w6wDuOYzkLRGFIaRMkLf21fVLCeQXwMOWJZ+FPIKPKGq00qbjTHabQ94EEzn4t/MIcIluiXMVjDwBUL7FGmH++PeTZtH6nvLtnyT1P4DOl8fU625S+eTI2T788cWQLIrUgHAbLiX16eLKE4wu+/c6KYvZPB98tyXjiYeMb4XygfZLCXNDH4Lr0kxva/bQKUy4Uz/2uH6rHFwqdB+MCVwrMlIzAelYDvuIjyPISWTgsKaf3pSvcsdod9UKvinivYbAg9Jl8GjCbSHbVaiL+BBw/3nAQTk2nv7QU=;Tiyml6Guh8DIdNkm9oryOA=="
 ---
 

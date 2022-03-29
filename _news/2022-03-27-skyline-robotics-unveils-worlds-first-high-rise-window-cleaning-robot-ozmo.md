@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103918603/Skyline-Robotics-unveils-worlds-firs
 webUrl: "https://menafn.com/1103918603/Skyline-Robotics-unveils-worlds-first-high-rise-window-cleaning-robot-Ozmo"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Skyline Robotics To Deploy The Ozmo Window-Cleaning Robot In New York"
-    excerpt: "Deep tech robotics and automation company, Skyline Robotics, completes its $6.5M pre-Series A funding round ahead of the planned deployment of the first Ozmo Window-Cleaning Robot in New York City Skyline Robotics,"
-    publishedDateTime: 2022-03-24T12:00:00Z
-    webUrl: "https://techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/"
-    ampWebUrl: "https://techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/amp/"
+  - title: "Kinova unveils 'first' Canadian collaborative robot"
+    excerpt: "Kinova unveils 'first' Canadian collaborative robot . March 26, 2022 by David Edwards Leave a Comment . Kinova has launched Link 6, a new gene"
+    publishedDateTime: 2022-03-27T05:01:00Z
+    webUrl: "https://menafn.com/1103918604/Kinova-unveils-first-Canadian-collaborative-robot"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 74
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/03/ozmo.jpg"
-        width: 1041
-        height: 578
+      - url: "https://menafn.com/updates/pr/2022-03/26/R&AN_e9c08image_story.png"
+        width: 800
+        height: 800
         isCached: true
 
 secured: "3jFItFtlBNIn75Kj8uUL8CuIo1eYs7Diy+GRcTuqRvhM1+Dav4kgD4Jn75fnVnt+YyJdDr6Q33RJ5rRiJPzlNEPozbESWBPU2iN37se+WgOUIVuyh5fUJ4c4vGx+pYXE1Zx1MET+igNl5YDr6iTk3h/cMp2+mqLsihcgSsa93QQUtW/0l+4SfNkVbbw17FXm+DrUBTJ5EDN+ixF0dKdVcPRP65Xu1FxIiP8SEBdRrifsK1tWJ/xR4rtSjQKo2nPcoB4GZ9kRJp6qk/4Q0EzumdjoD5FyOI8F5Sqm1NV5mT1ZBQU+ycz0o/h15YB8Ae/3//DtTxwPWuCVPcVyuWiDDU1rWLsQ/MKuKWNNGgEjq8Q=;bHTVgRBPunzFtfvKA+TrMQ=="

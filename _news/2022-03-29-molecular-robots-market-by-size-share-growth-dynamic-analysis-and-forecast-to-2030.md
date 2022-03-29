@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) as a Service Market Revenue Size, Regional Share Analysis & Forecast Till 2027"
-    excerpt: "The growing demand for AI & cognitive computing and large-scale adoption of cloud-based solutions for intelligent business applications is propelling"
-    publishedDateTime: 2022-03-24T11:39:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-as-a-service-market-revenue-size-regional-share-analysis-forecast-till-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 38
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/f5bba72678ff93670d5b9b0566e19922cf344b35-1-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "North America Humanoid Robot Market Size, Share, Analysis Challenges, and Future Growth Forecast 2021-2028"
     excerpt: "Canada registered a research and development expenditure comprising 1.585% of its Gross Domestic Product (GDP).CRIFAX added a r"
     publishedDateTime: 2022-03-24T15:46:00Z

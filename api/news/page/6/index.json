@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-22-tifin-announces-the-expansion-of-its-fintech-platform-for-personalized-charitable-giving-to-democratize-access-to-donor-advised-funds.md",
+      "title": "TIFIN Announces the Expansion of its Fintech Platform for Personalized Charitable Giving to Democratize Access to Donor Advised Funds",
+      "excerpt": "TIFIN’s Louise Platform that allows advisors to enable personalized giving for their client families acquires Amicus.io to broaden access and meet clients’ giving needs without minimums BOULDER, Colo.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-philanthropy-21384d282862ee5c35e1b4bb1c70058d",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-philanthropy-21384d282862ee5c35e1b4bb1c70058d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-press-ganeys-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards.md",
+      "title": "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards",
+      "excerpt": "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-812be7d276734b00a1b5ecd9b7d1d927",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-812be7d276734b00a1b5ecd9b7d1d927",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T05:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-ujet-wins-prestigious-best-of-enterprise-connect-2022-overall-award.md",
       "title": "UJET Wins Prestigious Best of Enterprise Connect 2022 Overall Award",
       "excerpt": "Disruptive Contact Center Platform Also Recognized for Innovative Use of Artificial Intelligence in CX UJET, Inc., the world’s most advanced cloud contact center provider, today announced it was awarded the 2022 Best of Enterprise Connect Overall distinction for CX Intercloud,",
@@ -1106,84 +1192,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-hearst-invests-in-startup-that-uses-machine-learning-to-aid-businesses-journalists.md",
-      "title": "Hearst Invests In Startup That Uses Machine Learning To Aid Businesses, Journalists",
-      "excerpt": "Applied XL develops \"event-detection algorithms that replicate the rigorous research process of biotech journalists in order to surface important signals,\" says CEO.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/372223/hearst-invests-in-startup-using-machine-learning-t.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/372223/hearst-invests-in-startup-using-machine-learning-t.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-20T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored.md",
-      "title": "Researchers Warn: Risks of Using AI To Grow Our Food Are Substantial and Must Not Be Ignored",
-      "excerpt": "Artificial intelligence (AI) is on the cusp of driving an agricultural revolution, and helping confront the challenge of feeding our growing global population in a sustainable way. But researchers warn that using new AI technologies at scale holds huge risks that are not being considered.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored/",
-      "originalUrl": "https://scitechdaily.com/researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Farm-Drone-Spraying-Pesticide-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored/amp/",
-      "publishedDateTime": "2022-03-20T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

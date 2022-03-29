@@ -1,21 +1,25 @@
 ---
 category: news
 title: "SAS and Clemson University deploy AI and machine learning software for education and research"
-excerpt: "Clemson students and faculty will have access to powerful data science and analytics software from SAS thanks to a new, $3.3 million donation to support teaching and academic research. Extending a 2017 partnership,"
-publishedDateTime: 2022-03-24T15:51:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm"
+excerpt: "SAS skills among students and supports analysis of massive datasetsCARY, N.C., March 24, 2022 /PRNewswire/ -- Clemson"
+publishedDateTime: 2022-03-24T15:58:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
+webUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
 type: article
-quality: 62
-heat: 72
+quality: 92
+heat: 102
 published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
+  - Facebook AI
   - AI
   - Machine Learning
   - AI in Education
@@ -42,6 +46,6 @@ related:
         height: 355
         isCached: true
 
-secured: "2aY3+tq/eYuO0t0WTVqCG9VftzMbXQPwntFdy6w6vwy4gnc1WUUK1t/Kcf5xp/bpFQiH1ZtjgpnZGYId2Pfa6zkAC2ZqJ5Le5CpZecj9k7x4CnmILJxrR3DD5Y9anVrB+UYYRyGDlYR+CUAzGx9KcwHPYfICS2A75k+p4tjkkDTeUM2DjGWv7teIjCKkJKNo6zIK9acW+xc3EaC+vv6gpwqIhuZI1DmjLL5atjBsi0lPZDrxRoV6kd4zHW8IuEHMfryHZVD6L5f++Yg6ct2fe5eG5JNfCqM2vBI/rV7KLeOQHsNslekZo2lMQfhfCwoiBIAhpnZ8O2WI+vqe9aeG7J9wtwkYU7aGFRn9PRwbyrPsFKUgRLAaRTbkZpZahc+JjU8EIKx8BtSdPM/FAq4WkBlptMC0CUT22idPO/85L51xJHRrLXxWJvaPUke2of6EqmAWqrDgZlfWj6mU3qRdAtBHos2ut6uw2D2rLZp3XzOt+2HiMD/SvY2m8VwQ8prcM17304Xq3ciB3o/9qRc0vw==;w3UDS6eIKvzKPekHV8bFDA=="
+secured: "HPjP8dBjFi4X8IYaB05lI2UA9mo7SUx/DyuPrBKJ8AHCF1vTOczmWMJic98GguBqrjG0kVhCpWTmMUIof/JVadBmOk/5Yj8pH4nl5Bi1Kvi1T7IqkwG6O1V+mDXdC/yVM6TfgZnq1RBYpKXvYWWf/mje3EZKhsvZvvPm5LGuQCC2oVwpzcuZd/N+Rp1W9qoUTxPeayUpoYG+4arRsMU66llipYaa1DEQKkEEoVpRpT4cuNWd73DGETnzajqOdAfq0Cv7qAKfpXuKfMAa3G3gAyebQAi8eyyMQaOPsklDyY4fUEXm/nohWRKURkWmnKgdK0bS2t7Aao/8+pJIN6dyyGRpPK8EehECi6F5xUsurHM=;08soYOwgv2FSO5/5RkNcRQ=="
 ---
 

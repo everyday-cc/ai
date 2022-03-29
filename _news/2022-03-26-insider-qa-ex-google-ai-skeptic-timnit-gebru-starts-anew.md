@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-26T10:00:00Z
 originalUrl: "https://apnews.com/79cd13b50b51452d29963490b96815bd"
 webUrl: "https://apnews.com/79cd13b50b51452d29963490b96815bd"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -16,7 +16,6 @@ provider:
 
 topics:
   - AI
-  - Natural Language Processing
 
 images:
   - url: "https://storage.googleapis.com/afs-prod/media/3aa9eaa491ab41348e46ce734ce58463/3000.jpeg"
@@ -62,6 +61,6 @@ related:
       domain: japantoday.com
     quality: 19
 
-secured: "hr9e1w56r/NzvsqagIejfZnigPvA8snKA9Yhh1rotPsRrvd1ReJ4nq8APVQptgq4F0lxQjQotW+G2/Q04maObBA3YxwZBQ9VXofHYWzvle94vUFxOXmV5CKvvgUwGiWHph/gLM3Zt6P5nKoIxnELtdaZNSihzPqTAA+MzY5TrzYfsd5greq46em998uWDF3M2ne1YbjVgyck0yIlUAXcQPxvQWYLoaobeLG5IcHLgIdKhTqB9hXHlcEP5x6orTKRyjwCbzZAOYPrc9OLLgFnKq4vdc4MDwN9nMfwI8E78VvCCi6bOmwWxOAQ7J6CRNn85az7cwMhGfygzRMEuUh5i9zN9wcfsOR+ZgP9+JCW6IdbvBcw+1u9jx6GjI5yfY82enVJi7R3gXFCx3jGHfJ4GuFNKV+IYGZ8HVegZQc78afb76WVlEs43JaZC1PnpbmnkE6+tdQU7Ld1Yq9QbLD5CmQxT7+fSz2B+Vl7GFM4bBquOSy8zHhJtSms8i3s5VDlrSf/tgzhwffxMkesJoKxgg==;Orx93x48v/tTkOVUSQltyQ=="
+secured: "CUypjDPKdOZMU0Jwpu/PMwHqjL59NBmFbKwiDRW/6sWT8EHWIfs02bkP+5jHRWKzkPpQtIYOLHS4UhTxU21JqMmvv2hU+5Q7KqrLnwgkbpB0KQwjRH8T3KhdTkMFhZr5qBWmDv4V7cCzCepoH5f9tpE+WR/ROTkGVxYXlENsXhEtlxnrZ3oRyPOkj044aPJ3UxLYfx+P3ZlqLfM8JxVJ4zhYD2tBK3n+/ulUoun7oqExlvEFew8QZTq7/YnGAssbTti8eYmQ/IJvLCVnzSn0KqrHxX4dBum9ZvSzLVD5ydDr71ZDuihMi4dEHYmfulObbAeKAhQKoPMcEdEWfceu7o+6ryMpY+Kfi9WRga8/JgA=;zIotIUzPIqR8WFOsXzA3kQ=="
 ---
 
