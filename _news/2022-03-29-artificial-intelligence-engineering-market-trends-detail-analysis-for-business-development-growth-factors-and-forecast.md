@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-29T13:08:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-engineering-market-trends-detail-analysis-for-business-development-growth-factors-and-forecast"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-engineering-market-trends-detail-analysis-for-business-development-growth-factors-and-forecast"
 type: article
-quality: 27
+quality: 29
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/15a44ea548b6d083a148f7c8b0969d98af09a227-600x337.jpg"

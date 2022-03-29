@@ -28,7 +28,16 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 1
+  - title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit Î»ambeq, Enhancing Accessibility"
+    excerpt: "OXFORD, England, March 29, 2022 /PRNewswire/ -- The quantum natural language processing team at Quantinuum, the world's leading integrated quantum computing company, has released a major update to its open-source Python library and toolkit,"
+    publishedDateTime: 2022-03-29T08:38:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1243933&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
-secured: "KIw4/qv49HtAmt40UgkTyg0VMi2rZCeZLpbYf0X2/xNQEvTk4FO0BGgJenQorQwCZLS/ciqTousSiGccsk3zWUx2waG1eecZr4hw0thIe/8/DP+PxJG64VIRdVxjGpxh35Xsn08WqglxTx8tC5IKQQDBaAbcPa4HL1Jdja4UuobG0ajAUA5iJ9mgnxK2Z/n4P9LKPmEExLT1ZGBQ3nDZvMeebmwKD45L/AOvoE6oWl9CR9/UQDjM8Iy/1lKg8k8g2M1FE6GaYLb4EPRwAdJZRtQiL9L6ju+4l/cibq7jLoGDWNmf9ggLJk96w2A4Ov/VETfWpZtfilx6aMXamsLz16evubkWMtYkNIYxCb5OKEI=;f96nT9eIJnFpNcYA0spPLw=="
+secured: "SLw1g+mUPIvpmua02FBylSGGbE3dKryDXQLGhOnjCD8DmBY7t/aaXg3uWlrGbQq0vc8e0T1+No+et0psvMpIMGmOXcZZOE7RpJQroYg5pEdpmHv4dKwth+a4JqGLVGMotoWYay9Y6DVy5fhyrYtch0fg7MMOxtGCwPlRPZ92YYAnlr8AeNuslklc8lL1ZrUW07kKzgYaiH1TcY/ZSVeEhn2EZZxOqlLlRRYBcFd8TDGBkp+g5qKT1ikYNUBReC3C9dVIIR9VgtteVxkTDRyGKHn+J5bJIBElkSBFw68xiO1M5A3C48CFvc1ZLzJg3y6jS0rK5YLLABHhyUna19ml9cwFj6idUHIo4RuvkbTvZEI=;cY8ElxNvj+AEpVpcAaDR5Q=="
 ---
 

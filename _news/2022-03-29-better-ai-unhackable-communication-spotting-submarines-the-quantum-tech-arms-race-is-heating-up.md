@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-03-ai-unhackable-submarines-quantum
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ai-unhackable-submarines-quantum-tech.amp"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1356
     height: 668
     isCached: true
+
+related:
+  - title: "The quantum tech arms race is bringing us better AI and unhackable comms"
+    excerpt: "Quantum tech promises breakthroughs in weapons, communications, sensing, and computing tech that could change the balance of military power."
+    publishedDateTime: 2022-03-29T15:21:00Z
+    webUrl: "https://thenextweb.com/news/quantum-tech-arms-race-bringing-us-better-ai-unhackable-comms"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 66
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2Fvriuw.jpg&signature=b5c3eff22090df30c2826d7b023f28fc"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "ZeIOz4DtvwGrACOygEaK3ppZmuNoyBJrL3qGZzpvAHmWMlQH/gpGDoA2xnqG5q+MeuvgP20qmFIRsB+poFz0mDAx6qsMR7sPTFI7lskPbS7ytzfFV1JaFzJCcPdwZSsG7TG7DPL7Dr6iik36g3BBXLCr24l+1WJlH5fpYLGaK5iL/8YPq6UK1daoiLlIbHGzv2Apn4B8NaZY85hr203cGjmM+TQi2YATksAot8Nj/aBdgEtzxfkD037LRTfoCFpUEA7jzp9XGOh789jb1DvYDorcYDGddwMk1SuohrJghLRKyQleufaJMGUP8LNIqS9ZgDTbF8eO/l3mAqQG+KaB+zjE05aWB2T5hd22Jnx3xDI=;DHZ+7Sz+PmskmMLPVuXKLw=="
 ---

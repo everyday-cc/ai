@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/28/why-ai-democratization-will-bring
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 800
     height: 534
     isCached: true
+
+related:
+  - title: "Ulta Beauty & Haut.AI partner to bring new era of beauty and healthcare with AI-powered hyper-personalization"
+    excerpt: "Haut.AI, a leading research and development company specializing in next-generation artificial intelligence for skincare and longevity, announced a strategic partnership with Ulta Beauty, the largest beauty retailer in the United States."
+    publishedDateTime: 2022-03-29T14:14:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/947752"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 35
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ff8d058f-1d38-4160-b965-a43684191c1e/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
+        isCached: true
 
 secured: "u+98xKgF3z11MmKMKft2a41il3Baq1Msv5v3gzojXQSc/tWvcUpMzWtFNuXeAdmdhZToSlJ1ihvoV6W9Xd31pRA+t3+7DDQlN2dvp9qHoXMJI9Fcsp1xzrGrEqGY5vovNlB6OLKlD1d0aO6661heTeFCu+GSNVpdG0aHZ2H0pKavbumgrrsjcGYoOS2DiJhyWPXAOgroz/ApBCcCVJ18QE3Xj7yJkb21AkyYXcXcXPzdsP23KQSAX7uGAt8dsHGnvoa5ayGxIIGhNZGnU/xKNOz0NW0apKhgTIfMytWIMfJcyCrBybRp5Lvo/B+Y5PuauNf0lp+4s1MBX/Z6NK3mO6FeEXxNSA8ruz2L/frrIT/Sae4SR22bKu9RIZnvyQWq6vS9Az9Y2LTrh22OiY5oXqtUKND7aLbH9jVvNEEWMEYQ/h9kS12hhY86Yun+FFL+SUttWoSheB5OMb7GfdspbFoLPjEd+i9AB2oLWWhid540/Fi1Jl/YB+5YfZvUXtmiXSUCpPz3jF9UXadV+ip04g==;AlzQkjW0cSB4cFe789zYsg=="
 ---

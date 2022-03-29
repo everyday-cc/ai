@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Newgen Utilizes Microsoft Azure Applied AI Services for Enhanced Automation"
-    excerpt: "Newgen Software, a global provider of low code digital transformation platform, is pleased to announce integration with Microsoft Azure Applied AI Services for enhanced automation, and support for Azure Form Recognizer for intelligent document processing."
-    publishedDateTime: 2022-03-24T22:51:00Z
-    webUrl: "https://www.ciodive.com/press-release/20220324-newgen-utilizes-microsoft-azure-applied-ai-services-for-enhanced-automation/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 67
-    images:
-      - url: "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1648161116/press_release/assets/company_logos/Logo_square_ffrue0.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Baker Hughes Expanding Industrial Cloud-based Solutions with Microsoft, C3.ai"
     excerpt: "Oilfield services (OFS) giant Baker Hughes Co. is partnering with Microsoft Corp., as well as C3.ai Inc. and Accenture plc, to deploy industrial asset"
     publishedDateTime: 2022-03-25T19:15:00Z

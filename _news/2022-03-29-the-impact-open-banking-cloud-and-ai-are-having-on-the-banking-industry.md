@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/the-impact-open-banking-clou
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/the-impact-open-banking-cloud-and-ai-are-having-on-the-banking-industry/"
 type: article
 quality: 75
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFQPgNTaZwdEA/article-cover_image-shrink_600_2000/0/1648381205739?e=1654128000&v=beta&t=WBuihpvCbRf-YxmhFGjgDLpzBhYp9p2OtEBnDJtPfVA"
         width: 721
         height: 337
+        isCached: true
+  - title: "Breaking into the black box of artificial intelligence"
+    excerpt: "In February 2020, with COVID-19 spreading rapidly around the globe and antigen tests hard to come by, some physicians turned to artificial intelligence (AI) to try to diagnose cases 1. Some researchers tasked deep neural networks — complex systems that are adept at finding subtle patterns in images — with looking at X-rays and chest computed tomography (CT) scans to quickly distinguish between people with COVID-based pneumonia and those without 2."
+    publishedDateTime: 2022-03-29T14:28:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-00858-1"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-00858-1/d41586-022-00858-1_20249634.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "+dusDNZiiknnyYoIirMwLCGGvDpd47T1cd8ouQHygaBxN1UGFpBzn7lxjp+Oo5H/hcGSh5vLglzyiGZEz9JIxmrZweLGMtbGfNAfDtSFQyRiv50DvQazUFBawdUtmF1Wy9x9kMUzcXDNvG5rMYPUxMxDRjigQuX9WeTeakQSlji3q3wKpR/7Kf7AkCo0lc66PVGLxr+Sf3Isb2rzvvKLpf9KmcU+jd1DH2eKVkaYeWZUPSwcZpS99zglfycsP7wiW8E98ax8k+ilG8kJtxNc0HfyoanUk/FVCnptlRXaqsrgL19TRttzn/Zx/HBrZGMH171fyB+YhhRkuHRgmWIdLT6VwXgByaEkB59734qgGX8=;PT25Y2rOGWt7Qz0rbuTVyA=="

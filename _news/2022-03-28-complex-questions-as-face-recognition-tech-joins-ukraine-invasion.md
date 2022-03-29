@@ -9,7 +9,7 @@ ampWebUrl: "https://www.iol.co.za/amp//technology/complex-questions-as-face-reco
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp//technology/complex-questions-as-face-recognition-tech-joins-ukraine-invasion-9c034c51-35e9-4050-b997-6f2148442974"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://www.gizchina.com/wp-content/uploads/images/2022/03/imagem_2022-03-24_204518.png"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Ukraine uses facial recognition software to identify Russian soldiers killed in combat"
-    excerpt: "The defense ministry began using technology from Clearview AI which scrapes images on the web to match uploaded photos"
-    publishedDateTime: 2022-03-24T21:38:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 66
-    images:
-      - url: "https://i.guim.co.uk/img/media/b1236187f5fc799d81709ad426146bccb186b4d6/0_187_5760_3456/master/5760.jpg?width=620&quality=85&auto=format&fit=max&s=dee9433c17da6c8c14788c605f7c32a3"
-        width: 620
-        height: 372
         isCached: true
   - title: "Complex Questions As Face Recognition Tech Joins Ukraine War"
     excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said Thursday."

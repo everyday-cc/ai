@@ -1,0 +1,39 @@
+---
+category: news
+title: "ConcertAI sings a unicorn tune as the FDA-partnered clinical trials software upstart expands"
+excerpt: "The crescendo is building at ConcertAI as the artificial intelligence life sciences startup reels in its ensemble to boost clinical study diversity, expand decentralized clinical trials and pile on the real-world data for cancer treatments."
+publishedDateTime: 2022-03-29T15:11:00Z
+originalUrl: "https://endpts.com/concertai-sings-a-unicorn-tune-as-the-fda-partnered-clinical-trials-software-upstart-expands/"
+webUrl: "https://endpts.com/concertai-sings-a-unicorn-tune-as-the-fda-partnered-clinical-trials-software-upstart-expands/"
+type: article
+quality: 8
+heat: -1
+published: false
+
+provider:
+  name: ENDPOINTS NEWS
+  domain: endpts.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+related:
+  - title: "ConcertAI, a Startup Focused on Cancer Research, Raises $150 Million"
+    excerpt: "The firm uses AI to match patients to specific clinical trials, and to make jumbled medical data AI-ready to sift for more insights. Sixth Street provided funding that values the firm at $1.9 billion"
+    publishedDateTime: 2022-03-29T09:30:00Z
+    webUrl: "https://www.wsj.com/articles/concertai-a-startup-focused-on-cancer-research-raises-150-million-11648549801"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-513830/social"
+        width: 1280
+        height: 640
+        isCached: true
+
+secured: "Vr4SzFCjjR8Tcnk/vnYKiy+huCY4uaWjhRwta7jUqSLT2ex5cRpbPS5hNI/f4hE4b7XEGzYpyJuaOPD3DonUBHb5bww0yJhJCl4m9BaKwA3T8fSTQulHwJJsknroXTdCTJoL+uAUsSQT1lPvWZ0Pc7N+2Y7MI1k5J2DLTZVvS9oqGjlSAeuTS4uP5lDeCHXlLMl6JRHSNb1k3LFc3V8EEyJq/Z6owzFPXNPGziMZ+jQvxUM1i6lOL1bGcmVtPg2ShXPVlE4Oy9P55YA+z/tjBPzQFNe2Niuthsrp9k7W5vNMQmSrjPsJ4EgTgVYHtMU1lghBZZZux/KJm+YSdhLjsDjIa+CYoEgj5++jhvsOvTcBpwU/7WUYoafrfqMXh7Ye1FS/SIpG3CkRKONSca23aWYWkaIit/jC/xRvOpaOR2PxfV0TDwXPGkafHRgGZvUsGXaj3n26Y6SCqjNE7jXdk3JPd8CLsa0AziR7PtzRvLHqc1FAtTXuo+2cjgOSjtihXuauXKxJXqVxoNNV+wxXiw==;xPlm+YOZ6nURdRCfm5eCtA=="
+---
+

@@ -8,9 +8,9 @@ webUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intellige
 ampWebUrl: "https://amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: The Guardian
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://i.guim.co.uk/img/media/d8c69d04629d9134fa97a4e9bd21e535e527d028/0_38_2401_1441/master/2401.jpg?width=620&quality=85&auto=format&fit=max&s=96b559e5e97e6b4eb1d1e90d48241536"
@@ -48,6 +49,6 @@ related:
         height: 506
         isCached: true
 
-secured: "eZjAgvVH3gZHssf+6e3H1gm83WmES0z+jGWXyt0yaUqr5rYNBsD3AE+0XPH/CcSi2DKKrQPpRvNyEF+76NE/1Sq/PnJ4j24kV1pfxNees6YGcCfJhBpJ03mPj3osngcLLWxLC225Gj/WA99YNYmGgghHdeR2PUB/e2+7qC9B/hA0iSYx24Dod1Wdjad5uQTuzZvbU/0u8qFPyFC46a3GGrgNKf3jkUUD8qIKbYmLxkiJA/4jU7mBkyTrO0q1HT7D2VBtGdTjyvv4+MFJFyO7eYHcgUUd5BOcCC7siL6bwBJ4dkcXfnTfLCooE7Drj5XYSA/ytA4XhCL32Nwb9FmzWTEpsP/Apc+q4qV3CM2roAI=;PJImlLccV2tiZf94vcxiow=="
+secured: "xgANEkVeLJK1u8JKgrwXrINEgdEtu0Q8S2kNusvwPocTR5ZWU6zM01mbmgZNHKKZiVKtEkxWA012Fdd2M7f8luZtWpM6OJVHqj+onSGqTB3rwD0psB3IK+N0NCD5PgPZtJV8OFS/MUh0QST803lF4guK8W0FJT9zqcWot+muNcWcLQIAax6bgesCrTM3LiOKbg/dp+ePyN2o6SFk85mtI/4/QbX/u3VquNNgJCbCqGs5XZIs7+ncYUVW69RtC/2oecbxqEIJjHV2wYQFM8V2v1p8tLKVL+bZjkhizYQqugV59LKrlwhccpGDNTuNnzIfshwKOk3z/BnYbuwhxoki/axoGSz4gTTX0Y4zfpNzZwCUGmPpYCtl/mlkeXkB/VTntbdhqJ13Wscf1p19WJnRLqhIwifXSYRHc92/MduXm7IKlk0qgklPS5H2Jqbym0FTj9vi0gQ6xwm24RKLaQWxsd2XiCeruHnbOt41etsDRWDfFhtM5Vcu83+dlj270OQnz9I22F6Ew5tOHzpstb3sUg==;pZ+JVs3+h3uQHjMjr4p5jQ=="
 ---
 

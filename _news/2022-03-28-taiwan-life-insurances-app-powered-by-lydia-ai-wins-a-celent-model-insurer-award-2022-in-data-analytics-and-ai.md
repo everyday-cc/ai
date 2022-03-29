@@ -40,20 +40,6 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "Edition #11 - Analytics Bites - Driverless Delivery is on the Way to Deliver to You"
-    excerpt: "Generated Profile Pictures Software company V7 Labs has created a new Google Chrome extension that is capable of detecting fake profile pictures created by artificial intelligence (AI) with a 99.28% rate of accuracy."
-    publishedDateTime: 2022-03-24T22:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/edition-11-analytics-bites-driverless-delivery-way-deliver-tan"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 33
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQG_1S4nQZ3AnA/article-cover_image-shrink_720_1280/0/1648071337353?e=1653523200&v=beta&t=9MboRwbJKXNrAMm4oAPjRImOJ1lVDzYhHyAW1-yt8Gg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "dFQfhu8nR4OdAVY0Yg6CNYH8g1trNhFl7pLzH4OTTgiOHzRimHgRpTyDObfx4hGOL5XqiHDC8G9/wDTvWJ+4nyeCqM2Vszp9sdPKS0H9hDczov5d2y5yvwduZIRSeq6aaOFcX9h3i3YHWqTKHbrjJsyzhwA/RX/VXmVZN+Q3IpPXoUMJw3R4+YsrOLQMYydrg6VQb5TYMLLIamfxAK0uI4mZ4vnaQeRyqSem/GhymFRzywljanLzRzrZMzvBg2TLOh6iMpix69n9Rxvxnc7ZIXDndpcWP0sV8SCuMS2VmgsQV+TVkkdZu+Cn57cEqvb8zlMrxkchbpxunhN2BLjE4YVxVcFvFkvNrzmD6D8EJ00=;fHu6s7TEI52EXW/PXBlEjg=="
 ---

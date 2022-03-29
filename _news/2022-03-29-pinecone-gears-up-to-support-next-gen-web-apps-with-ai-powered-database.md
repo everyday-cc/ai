@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "Pinecone announces $28M Series A for purpose-built database aimed at data scientists"
+    excerpt: "When Pinecone launched last year, the company’s message was around building a serverless vector database designed specifically for the needs of data scientists. While that database is at the core of what the company is doing,"
+    publishedDateTime: 2022-03-29T14:53:00Z
+    webUrl: "https://techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/"
+    ampWebUrl: "https://techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 82
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1225803116.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "aqAfbqF+VRDa8WTXpzzvc0tINk1hLLRAtmSTTvUJCBwO782OPk+3OAMltTYHo5tGOSAVHDJiCXrXe3MHVImR5R+Wo/iq52l2kJAGJtNBAXLpJ2/Cgnq6wgnmhJ7HGznOa8AgmD/eT0Kn4mU5D1cVVMcvhKTBjZ1JH3ctI/S/ZmXf4RRWD3t6Ej+9K3FoUHiL6CjnAp0TW0UNueD89oZgh8IdZZUtWXMsC5M5MIvbRh4Dk9xdImo0GA5jLJfCDS8okkKjIoOcV9oH5WfzI++5jCFAeNvuUSXTdoK5Dj02c017NQCbVhKJ1iUlKiFjyL0ZakWNVAaEI42ibdAs8k9nAOvxOyUI+kINDK5j5PlgCAo=;aw/0GnlHdAoWCL5ZUgXEvw=="
 ---

@@ -89,22 +89,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Ukraine uses facial recognition software to identify Russian soldiers killed in combat"
-    excerpt: "The defense ministry began using technology from Clearview AI which scrapes images on the web to match uploaded photos"
-    publishedDateTime: 2022-03-24T21:38:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 66
-    images:
-      - url: "https://i.guim.co.uk/img/media/b1236187f5fc799d81709ad426146bccb186b4d6/0_187_5760_3456/master/5760.jpg?width=620&quality=85&auto=format&fit=max&s=dee9433c17da6c8c14788c605f7c32a3"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Face recognition tech joins Ukraine war"
     excerpt: "WASHINGTON: Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said on Thursday."
     publishedDateTime: 2022-03-25T03:15:00Z

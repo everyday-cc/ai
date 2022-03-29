@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Healthtech Startup Qure.ai Bags $40 Mn Funding To Disrupt Radiology ‘Status Quo’"
+    excerpt: "Healthtech startup, Qure.ai, has raised $40 Mn in a strategic funding round led by Novo Holdings and HealthQuad."
+    publishedDateTime: 2022-03-29T15:33:00Z
+    webUrl: "https://inc42.com/buzz/healthtech-startup-qure-ai-bags-40-mn-funding-to-disrupt-radiology-status-quo/"
+    ampWebUrl: "https://inc42.com/buzz/healthtech-startup-qure-ai-bags-40-mn-funding-to-disrupt-radiology-status-quo/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/healthtech-startup-qure-ai-bags-40-mn-funding-to-disrupt-radiology-status-quo/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 52
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/03/qure-social.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Qure.ai raises $40 Million from healthcare investors Novo Holdings and HealthQuad"
     excerpt: "The funding will accelerate the AI-driven healthcare company's market expansion into the global market and support new product development"
     publishedDateTime: 2022-03-29T11:00:00Z
@@ -42,42 +58,19 @@ related:
         isCached: true
   - title: "Healthtech AI startup Qure.ai raises $40 mn"
     excerpt: "Healthtech AI platform Qure.ai (Qure) on Tuesday announced it has secured $40 million in a funding round led by Novo Holdings and HealthQuad, along with existing investor MassMutual Ventures. Qure.ai offers advanced technology that reads and interprets medical images like X-rays,"
-    publishedDateTime: 2022-03-29T13:07:00Z
-    webUrl: "https://menafn.com/1103931667/Healthtech-AI-startup-Qureai-raises-40-mn"
+    publishedDateTime: 2022-03-29T13:13:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=942271"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Daijiworld
+      domain: daijiworld.com
     quality: 37
     images:
-      - url: "https://menafn.com/updates/pr/2022-03/29/I_0eec6image_story.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "Qure.ai raises $40M for AI-powered medical imaging diagnostics"
-    excerpt: "Qure.ai announced today that it closed a funding round worth $40 million as it looks to extend the global reach of its diagnostic offerings."
-    publishedDateTime: 2022-03-29T11:40:00Z
-    webUrl: "https://www.massdevice.com/qure-ai-raises-40m-for-ai-powered-medical-imaging-diagnostics/"
-    type: article
-    provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 37
-    images:
-      - url: "https://939506.smushcdn.com/2491169/wp-content/uploads/2019/05/MDO_webAD_5-19_Vs1.jpg?lossy=1&strip=1&webp=1"
-        width: 300
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/bhima_sq1_march2022.jpg"
+        width: 280
         height: 250
         isCached: true
-  - title: "Middle East’s largest AI-based digital health platform raises $44 million in Series B funding"
-    excerpt: "The new funds will be used to expand Altibbi’s offering into online pharmacy and diagnostics collection to establish the regions first end-to-end fully integrated digital health primary care offering,"
-    publishedDateTime: 2022-03-28T09:10:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/healthcare/middle-easts-largest-ai-based-digital-health-platform-raises-44-million-in-series-b-funding"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 6
 
-secured: "i0fOJQ0KFGvOYyKR6kKZpGS0srimxMngIcXDKIq5yOxBKbN3EQGIXhDFzxu1ueNlf3m+ME99eHVxDH73N5wNXEFcF7QoKRk2zhIu5DxUDwrIYcHo9rqkxU3pQr5s+FwH9TELcj+X+39MJ4V61pnvPh8cRShaENIre/l37OY/Gcp/6fDnPV5L7pSK8zP1ciwZzp4a3+/MHjoVNLFh7ByFdLmHu0sGwsAKALMt2aH05BVIGmdd+Ee3XmK3FDJRQTcSvD9XffqTt9FkYq2i85R73byYrIO8QK8Pcb4X+6AyEnzhH1ER0OTCxUDBxHPBhrjRnWDD1Pyvr3UI5MqHYfLysosTIquWA2HiHx2IorWgAvY=;eC/T2uRMeEwjMyVHaR4YQQ=="
+secured: "/kHuz4cVq/r6CIBkza7tXmfpMwiVLNcKqowIMy3/kXDs73hzlfgi/Xh/ntIMTvi8wB6tqndfswbqhlUgyOj6NfPkkJC6/Ci3uBMvKkFxhkaAW+OoZgfgSC8ieSu99JKq1ES+zEsdyM1ZkxFlVpxDDJTkYJjTIByt+2ykh2RFcEX/UpUqIU9nKRClft/7mSC9Mccb9hwrlPiTwQhaDmLYCV9ohKZJh41N0F5VOgO5J7mPHJDlNNby1P90El3FrpaiFvwwqsvHmOUQRhNc3lOAoGRHTKJqaM+OJjwEKS5j0fHKvaeYCvUlM3ujC7dYhkuTzBJRhK/Haf0fCjq8aspdADx9Ipn+x7U2PQs3NYNdN9e8ieLUV/I4uNO9UihlU6wpKdwONL7YcNiAF3zQl/AKvpJEnBaqOvcw/0xjnTSbJiH7a3H8M83rjFtHzvUw4t//SZcDpY23euJGKFHHAxzwuqOIauUuVG9Hqo5tUts/eiSKcQpeygCYAzod4Hiyf1vAlcIc0TJt+8yvAqzd0powsw==;Whsis+eyUkM7V0nyhIQnKg=="
 ---
 

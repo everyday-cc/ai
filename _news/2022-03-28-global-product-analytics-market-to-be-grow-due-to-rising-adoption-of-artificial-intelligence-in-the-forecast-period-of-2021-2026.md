@@ -33,6 +33,20 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 28
+  - title: "Intellect Data Announces Intellect INFER, the Advanced Text, Image, and Video Analytics Platform Powered by Intellect²"
+    excerpt: "Intellect Data, Inc. is proud to release Intellect² INFER, a platform that enables data teams of all skill levels to implement powerful solutions that can quickly analyze and turn any image, video, or text into actionable data intelligence."
+    publishedDateTime: 2022-03-29T15:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/intellect-data-announces-intellect-infer-the-advanced-text-image-and-video-analytics-platform-powered-by-intellect²"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/15a44ea548b6d083a148f7c8b0969d98af09a227-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "+unX48hmmakE4To9PKMGXbr+mR2cZtNvzLQRqyd9Q8JSo/9CpB+ko07hanq2LT2YUNYS9xcBbvjRw8jz2zSZ0Eq8G1mm1Xbh4mbbzae9omtkqhH5eedoFMe6iatrC6KC3lW5bUy6sUI709evlmrbNQ79jmtO5YaViA49WPOC+CxoekFXejdetkafiMd+nvTZbNyrCt9lI83EBfq0EtY/y6wXEms2PWZXpE099dOh6LTF+Tff+z0+NrHIeRNHL55MYrMZC2dlmde2PW2U1LQVBWfM4uo7Cvg3le8ANf3FBhsvw5Z+rSBBR6kRJDFEw0SsjSYU7wY3E/5iyGhEZ3+T8yKvthbdIO5CtddrxTM86lw=;O1nC9LUN322cL+nHP9qECA=="
 ---

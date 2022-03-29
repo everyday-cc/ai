@@ -67,6 +67,15 @@ related:
         width: 498
         height: 280
         isCached: true
+  - title: "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices"
+    excerpt: "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment by Qualcomm Ventures,"
+    publishedDateTime: 2022-03-29T15:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-omniml-secures-10-million-accelerate-ai-computing-edge-/2022/03/29/9572736.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "0tWJK461pgR0mj+37O2V3z8+ujjcG7S7MN0vcuwAuwHFTmj5pAKAoL1JouSlJS6FWpFyTHnkj7lo8s1C0JY/l3RwIS+G1brAXOLQ3gCrQjxd5vIeaJOJvM4SYOaK6Lk2th14++tj2rPUvoCAO5ziUHYtxcx+8n7V+eMWetV+HhYYy/kjqiGLr8ZDgzvXTsteamXnhzHuD9alLS1C9dZKl5MjZG3jW0TcDwnWU7aNc8Z6j99u1cqO6Va1uWGK2tWKOvbSqtO9s4SWl1BWeU6M+uG4fpjXU3ffk9Mq3q6xudbTXdtVo0yQM88kNUubxWMqXUBZv1wfwIeVyLXYO3kWC6UJ73ZpS8ZL8NeYuM9RSYs=;NBP/1KuaRadfiQqqJPUf2g=="
 ---

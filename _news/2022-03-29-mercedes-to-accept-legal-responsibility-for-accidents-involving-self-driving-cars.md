@@ -43,6 +43,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Toyota and Aurora Are Testing Self-Driving Vehicles in Texas"
+    excerpt: "About a year after announcing plans to partner on the development of self-driving vehicles, Toyota and Aurora Innovation have put their prototypes on the road. These are based on"
+    publishedDateTime: 2022-03-29T14:12:00Z
+    webUrl: "https://www.auto123.com/en/news/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
+    ampWebUrl: "https://www.auto123.com/en/news/amp/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
+    cdnAmpWebUrl: "https://www-auto123-com.cdn.ampproject.org/c/s/www.auto123.com/en/news/amp/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
+    type: article
+    provider:
+      name: Auto123
+      domain: auto123.com
+    quality: 44
+    images:
+      - url: "http://picolio.auto123.com/auto123-media/articles/2022/3/69082/toyota-aurora-1fr.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Tesla is working to release huge full self-driving beta update"
     excerpt: "Tesla is currently working on releasing a beta version of its \"Full Self-Driving\" (FSD) software. What features does this beta version include?"
     publishedDateTime: 2022-03-28T19:21:00Z
