@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning as a Service Market to Clock CAGR of 36.10% During Forecast Period, Observes TMR Study"
-    excerpt: "The global machine learning as a service market was valued at US$ 3.9 Bn in 2020. The global market is expected to rise at a CAGR of"
-    publishedDateTime: 2022-03-29T03:30:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-to-clock-cagr-of-36-10-during-forecast-period-observes-tmr-study-855708372.html"
+  - title: "Dynamic Nature of Retail Industry Fueling Demand for Machine Learning as a Service, TMR Insights"
+    excerpt: "Transparency Market Research delivers key insights on the global machine learning as a service market. In terms of revenue, the global machine"
+    publishedDateTime: 2022-03-29T07:38:00Z
+    webUrl: "https://www.digitaljournal.com/pr/dynamic-nature-of-retail-industry-fueling-demand-for-machine-learning-as-a-service-tmr-insights"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 23
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 41
     images:
-      - url: "https://mma.prnewswire.com/media/1682871/TMR_Logo_Logo.jpg?p=facebook"
-        width: 768
-        height: 402
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/848dd933f2b95b10eb092743860d98932097e224-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "XDDNGBXspnfv1azZts79cUsQ46LrjmSy7BjBS+X8cLT9cQtJFlOO6OHNI7dYVvtIz53QbN+xEbAvoiTwXz5NnizSKzy4VNEBj+aaOx56RhkphH9jCgxB7Ng8lFwXAgDM4Dw3Eck4Ipq1Xu+7uyJpZmOENBPAIuqysmPrclRiyLTz+GuQL8bWr01ltqSvVHcN9QlIxwj4eFwJJIR+Tm10AvTiautgbQNmWbHYZDxr9jSHM83R68CBMnnaRuPfoHlnpRRq5rojUm2kdDzMrnSIG1bXMt7qfhGXe5MfCq8j46wEmDQKHWclguVhGZdC3WMVav1WXSlmP8uMX0fhQEbpRmEi2bYW57p4nH3zqiW8Vt0=;EFcvjc9J50BqJMpdCy7U7A=="

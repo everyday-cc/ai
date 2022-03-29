@@ -53,20 +53,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Aidentified Recognized for Artificial Intelligence Innovation in 2022 Data Breakthrough Awards Program"
-    excerpt: "Aidentified, the industry's most robust AI-powered prospecting and relationship intelligence platform, today announced that it has been selected as the winner of the \"Best Use of AI in Data Tech\" award in the third annual Data Breakthrough Awards program conducted by Data Breakthrough,"
-    publishedDateTime: 2022-03-24T13:44:00Z
-    webUrl: "https://www.rochesterfirst.com/business/press-releases/cision/20220324NE02755/aidentified-recognized-for-artificial-intelligence-innovation-in-2022-data-breakthrough-awards-program/"
-    type: article
-    provider:
-      name: WROC-TV
-      domain: rochesterfirst.com
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/1773223/LinkedIn_Data_Breakthrough_Award_Badge_2022_AIdentified.jpg"
-        width: 400
-        height: 209
-        isCached: true
 
 secured: "uLZYl+X5khn5y53v/P+yfIjOB5kwrrZ5fKHYS+gqYeN3at3FeD+3Z9lbsHXwmhLKzJvZndwjf8WSumpLWnlQUuBNyTg9l0lWp6GmJAVJPbuCv+Bv8wPsAGlW6ls2haRDESkdxUA4Ky3r5PUSZZANaD885Xk4iZx53Hkn/utc0QdEAbmvcKzjqEmFpaiA46CsnZCu6uVxqn1S2D/TLlTas7jfb1SFghc+ZL6ETAi6sEpHWFfRBW/euYmoI4oDrye7rOtvm9EEX4z2iGHfsKjBHM7x+6a8t01w6PjQjLvMnyWT033WnHIC8O1CpC40z+voIl65fUVZRkAI2y2fLk83CbOpu1DLlgnKjB7d5kBFm3Zhk8hbMxi64BrMzrYFyjjfWenlReZRJ7esQNwZnIzMJHOWP2B81DwH8p219WglkW6f1CPwHcJc4e+ZLAsWYbiBUi8Ed4ZPSWe1xp/QOsDgeZ2PXoxq54XZca55nCohdoBwmWqKus5Nwm3e/G8i+MWE+yne9qYreqH6kXyFJvkEtA==;tkWehuXmg0QGGQUUshO3cA=="
 ---

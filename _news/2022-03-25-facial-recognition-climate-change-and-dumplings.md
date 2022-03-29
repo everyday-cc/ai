@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition
 webUrl: "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://cdn.gcn.com/media/img/cd/2022/03/24/facial_recognition_GCN_032422/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Space in Language and Cognition"
+    excerpt: "Niraula, Shanta Mishra, Ramesh C. and Dasen, Pierre R. 2004. Linguistic Relativity and Spatial Concept Development in Nepal. Psychology and Developing Societies, Vol ..."
+    publishedDateTime: 2022-03-26T05:50:00Z
+    webUrl: "https://www.cambridge.org/core/books/space-in-language-and-cognition/D07AD2885A025E00B1C94ED722071D80"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 24
+    images:
+      - url: "https://assets.cambridge.org/97805218/12627/large_cover/9780521812627i.jpg"
+        width: 405
+        height: 648
         isCached: true
 
 secured: "hDXQUEf6PGn4J5fNQ21Jt5p+nA5ema/XNe9LtvMbG7KrDJv9GmovAzXA6Y/PhP0O+8cKhoPB8h1hbNEbvWIrkyOuqWDFOxP5GisK3cJRRW/frOVNqm3mVTk1SYIWZZvL+5nMiYtcY+Mp1E3vfabY4HH61r7QnuThEaKA+iW1SSdZVibsDRuKjpi52m1rTVzEBhT/5DIl8ejtFC4Qs+PlKpxKYUbUncXvNkXTog03mwzjFxOmXWif03PffWTsNe15YuK6sodTwWOaRncHK3RJhJOnQrJcRxRyXNe8DX+2/Pbm79aRprc/iNTRtBwHj8ncWq2rxNW8cT0p+Vk1/vs6Zz8mNxq7vNw60S1kTqr6X6I=;fCdHEut/ImQfet/FXJHAtA=="

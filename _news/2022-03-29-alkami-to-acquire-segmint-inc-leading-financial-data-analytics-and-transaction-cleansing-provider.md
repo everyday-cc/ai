@@ -52,19 +52,19 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Dragonfruit Frontier, a new Cloud VMS with AI analytics"
-    excerpt: "Frontier enables secure management of hundreds of locations from a single browser with no additional hardware costs"
-    publishedDateTime: 2022-03-24T13:28:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-management-software-vms/product/21261608/dragonfruit-ai-dragonfruit-frontier-a-new-cloud-vms-with-ai-analytics"
+  - title: "3 Best Fintech Stocks for a Portfolio Boost"
+    excerpt: "Rising interest rates and higher inflation means you're looking for more opportunities to invest, maybe in niche markets. Why not consider fintech, short for \"financial technology.\""
+    publishedDateTime: 2022-03-29T06:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/423314"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/03/Dragonfruit_Frontier.623c6e6b6c4e6.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-423314.jpeg"
+        width: 1000
+        height: 603
         isCached: true
   - title: "25/03 – Weekly Fintech Recap"
     excerpt: "Partnerships Yapily Partners with NayaOne to Offer Open Banking Connectivity Yapily announced a partnership with NayaOne and their Digital Sandpit. The partnership provides hundreds of organizations with access to Yapily’s next-generation financial data and payment initiation solutions."
@@ -93,20 +93,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/5a/d5a2d60d-6218-5c2b-bcff-6de937cdbcfd/61f16357d04bb.image.jpg?crop=857%2C450%2C133%2C0&resize=857%2C450&order=crop%2Cresize"
         width: 857
         height: 450
-        isCached: true
-  - title: "PLUS3 IT SYSTEMS TO EXPAND DATA ANALYTICS AND ARTIFICIAL INTELLIGENCE CAPABILITIES WITH JOINT ARTIFICIAL INTELLIGENCE CENTER AWARD"
-    excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial Intelligence Center (JAIC) for Data Readiness for Artificial Intelligence Development (DRAID)."
-    publishedDateTime: 2022-03-24T13:28:00Z
-    webUrl: "https://www.lelezard.com/en/news-20303043.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 9
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "Global Product Analytics Market To Be Grow Due To Rising Adoption Of Artificial Intelligence In The Forecast Period Of 2021-2026"
     excerpt: "The new report by Expert Market Research titled, ‘Global Product Analytics Market Size, Share, Price, Trends, Growth, Report and Forecast 2021-2026’,"

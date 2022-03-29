@@ -83,21 +83,7 @@ related:
         width: 600
         height: 267
         isCached: true
-  - title: "THE METAVERSE COURTROOM: Using Virtual Reality, Artificial Intelligence and Sensory Devices to Find Justice"
-    excerpt: "It’s 2030 and the new handheld Techsung Global Device 50 (“TGD50”) phone, tablet and laptop battery has a run time of six months between charges. It offers incredible technology except for one thing,"
-    publishedDateTime: 2022-03-24T14:41:00Z
-    webUrl: "https://www.linkedin.com/pulse/metaverse-courtroom-using-virtual-reality-artificial-sensory-jackson"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 19
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGTHhSmb45QPQ/article-cover_image-shrink_720_1280/0/1647358378968?e=1653523200&v=beta&t=AgvD4S0nxDMgeE9ROF0N4qgFG3YpYOmOunBFLjIxfD4"
-        width: 720
-        height: 720
-        isCached: true
 
-secured: "2R2s9mHtdKOpWEPpJjlnlWDYsvGNDIvt43K3mJjAFqDF8+2X3gu9oNEi9hWLSCuZh06jRsx34RHHh469bT/4FbzTAo5ZhiFjyajWAUrpWBpEL+BoieTepqLZ8EPYUv9x2xrR5OJqLcyTBnMZtITCNXYJYSQI1Rs4uOqdPJvXS7r94H+4+0PQNiTu5ULWQs7ov7t0B5dKzXpTGTOq72TtCgXBYUKBKupzFiW/DwsprrZw7OZR10uXB61++UCzk5c3vDCRQ5XK6B/wURoMEYDChByMTya5PL5qOYLpRwS0qZKPNI2qAylqCDI71e1TdxAvKZqIovY3LGumGnF5GFkhdOnx/9b5zHPJROiH60peLOU=;IMYfyko7bPpVWbrN60qu9g=="
+secured: "tlJ2EFEX52Kd1p0ddlmZaoVnXpssCk0k5pSMsoVvTiQKRcWIPzNOi20J5NUvx2CeHY3CIfMrDNC2s99oQoZqAugZ4s92VqzFMmZKgCM5Eb4dLpYGexIAob28x3X5EahYkTU7k7Q8IYavCunZQxrZphfM2Sb+pMJGtmZbAGn/ESCwWaXqRl6R+pknhMORDfdWKrbS3OUAubyBKnzZRdbU0JpFAnTkw/mvZ5fF1e931SSLVCFvLuhw+zPuHP1STx6Q8lFreg3ecPNF0YrGEjfNeQeRv8SblrC6uwWZRNI3E3cVTfg9a1wUh4j97sLc3TcY97h7UKQAujKjbswSLFPNfo7cXxo47jLe+S21lmwbDLmlomz4+2GVmDa8aYi3uqwy23GU2UjAV4MFr83ZfLnZ41TnGvGQS/PDmK6+OrSSfHJ9LCyGIMGM+Tb6n+vg4DmoxEpRHHmLWhmgML1OfZCdA9NU87llM/hXo1CBiUscS/ZV/yzMM/J7Pk3osNffmHSDDc1Zgq1VZk+Byoux4fYMqw==;fbJzVh4tUBt8++rFzC12/A=="
 ---
 

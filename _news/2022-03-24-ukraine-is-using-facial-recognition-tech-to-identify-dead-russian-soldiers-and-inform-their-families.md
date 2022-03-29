@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ukraine-using-facial-recognition-tec
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3?amp"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -162,17 +162,6 @@ related:
       name: openDemocracy
       domain: opendemocracy.net
     quality: 50
-  - title: "The Download: Ukraine claims it’s using facial recognition to identify dead Russian soldiers"
-    excerpt: "Ukraine has started using facial recognition technology to identify dead Russian soldiers, a senior government official has claimed. Mykhailo Fedorov, vice prime minister of Ukraine and minister of digital transformation,"
-    publishedDateTime: 2022-03-24T14:48:00Z
-    webUrl: "https://www.technologyreview.com/2022/03/24/1048268/the-download-ukraine-claims-its-using-facial-recognition-to-identify-dead-russian-soldiers/"
-    ampWebUrl: "https://www.technologyreview.com/2022/03/24/1048268/the-download-ukraine-claims-its-using-facial-recognition-to-identify-dead-russian-soldiers/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/03/24/1048268/the-download-ukraine-claims-its-using-facial-recognition-to-identify-dead-russian-soldiers/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 43
 
 secured: "Bq+7vTEo/gGHprFe3bDUhXSa7qnwFSAJdtjnQ3Vb2PHrhMOFtUmaaUX/EGiO7Yx1ZRCwhOhO5iDVoxSnaOFWdc1kLRCcLpZk5Q4TgBdo6V8IQQGtdZUlH60hdKJhRpvWyEvXe8nzWjcDh/Tyv6ar/eGzKoki9MZgCe16uQeAupvqUUdSwLJJ5iHbYmD7wehPSpqLsdRvY00O9JOa0U7MEbeq9RFXNTf4b/ux3D9qbwyrnELo56wmUcNTmen6aKwbregH23qUGnh4buATBPqnzZj3AL//0TtzS7Eh42fr0jUD1s/kRCTmsSnRkaNp1pUbEro50HJsvSR1xtghGTldU1zvx7916BXZnCIb+C5x0GuDISgDS49Z5opkg3IKho+WLn5Fv/DZQ4xYKPrWQ+tad6Hih8zBnkmEV3iYt0mGYm/5lfRNGBJrkXp8c6zvZeWLhTNHqQhTNYhcJRaYUsD+fBOf6GaYubQCkOcyGNOK/0vbbPITGlj7lqiizSkw1FVnIUayivm3dPtDMBYN3fBacw==;p9jZah2vT05l4c6RnpBRTA=="
 ---

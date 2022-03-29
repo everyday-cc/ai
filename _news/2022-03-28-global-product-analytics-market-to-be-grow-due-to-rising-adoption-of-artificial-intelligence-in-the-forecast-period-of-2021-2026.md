@@ -51,19 +51,19 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Dragonfruit Frontier, a new Cloud VMS with AI analytics"
-    excerpt: "Frontier enables secure management of hundreds of locations from a single browser with no additional hardware costs"
-    publishedDateTime: 2022-03-24T13:28:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-management-software-vms/product/21261608/dragonfruit-ai-dragonfruit-frontier-a-new-cloud-vms-with-ai-analytics"
+  - title: "3 Best Fintech Stocks for a Portfolio Boost"
+    excerpt: "Rising interest rates and higher inflation means you're looking for more opportunities to invest, maybe in niche markets. Why not consider fintech, short for \"financial technology.\""
+    publishedDateTime: 2022-03-29T06:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/423314"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/03/Dragonfruit_Frontier.623c6e6b6c4e6.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-423314.jpeg"
+        width: 1000
+        height: 603
         isCached: true
   - title: "25/03 – Weekly Fintech Recap"
     excerpt: "Partnerships Yapily Partners with NayaOne to Offer Open Banking Connectivity Yapily announced a partnership with NayaOne and their Digital Sandpit. The partnership provides hundreds of organizations with access to Yapily’s next-generation financial data and payment initiation solutions."
@@ -106,20 +106,6 @@ related:
       - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
         width: 792
         height: 266
-        isCached: true
-  - title: "PLUS3 IT SYSTEMS TO EXPAND DATA ANALYTICS AND ARTIFICIAL INTELLIGENCE CAPABILITIES WITH JOINT ARTIFICIAL INTELLIGENCE CENTER AWARD"
-    excerpt: "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial Intelligence Center (JAIC) for Data Readiness for Artificial Intelligence Development (DRAID)."
-    publishedDateTime: 2022-03-24T13:28:00Z
-    webUrl: "https://www.lelezard.com/en/news-20303043.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 9
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "+unX48hmmakE4To9PKMGXbr+mR2cZtNvzLQRqyd9Q8JSo/9CpB+ko07hanq2LT2YUNYS9xcBbvjRw8jz2zSZ0Eq8G1mm1Xbh4mbbzae9omtkqhH5eedoFMe6iatrC6KC3lW5bUy6sUI709evlmrbNQ79jmtO5YaViA49WPOC+CxoekFXejdetkafiMd+nvTZbNyrCt9lI83EBfq0EtY/y6wXEms2PWZXpE099dOh6LTF+Tff+z0+NrHIeRNHL55MYrMZC2dlmde2PW2U1LQVBWfM4uo7Cvg3le8ANf3FBhsvw5Z+rSBBR6kRJDFEw0SsjSYU7wY3E/5iyGhEZ3+T8yKvthbdIO5CtddrxTM86lw=;O1nC9LUN322cL+nHP9qECA=="

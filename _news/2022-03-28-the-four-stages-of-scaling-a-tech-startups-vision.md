@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/28/the-four-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/28/the-four-stages-of-scaling-a-tech-startups-vision/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "AI-driven Decision Making in Startup Investing"
-    excerpt: "Bringing AI-driven decision making to startup investing is a hotly-debated topic. Conversations quickly turn to startup investing being an artisan trade that AI can’t capture the nuance of, and concerns are raised that algorithms will exacerbate known biases in the system."
-    publishedDateTime: 2022-03-25T12:43:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-driven-decision-making-startup-investing-guy-conway"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 17
 
 secured: "vzStJnXv9jwkPrH62er0vW8/wD57ASh2d8XhA9pwqpN+jBE+vGbcS35IYZlDEjA0n/4phkGvSt5wgBt5N4t6tVV3CSQX6RywtVbsbddg+j6mXS9M+EqrylVqfHKLhaBQ1z3WkUiIjSB3rLW4EFLrWrln4O9IqD2JL8ENyBaQU0mxOzIT128YsJVDIpl7aMpW0ggndA5bwzMmhsvYM/rGSIwKS0N8G7qPYJ/IZ7kOorFfKBDP5XwO1XE8Sw2ZEz3nCJgQ2OdFHWPsi2DggzhQYMz8Pju8qn+6UoCaZY9jZdMT4X9akLBxSm1AJWF8V0xCr2uYfIW8pmkItJOubrGRQEwn+g1TLCKeuuLjAfh6wLsJsOEcPxU0/pgd5lRfd3aDbyH219zzuGTArwKkRuBBJLkTT28fkXf2ZsnUyf259NPHTENvo8RJdoKFTAY1cBWqeHpW5I+siVQjk05G0HwLbV/K/D1Zj4u5dIzHbS6UMvozV4Ewp0e47PUOjudpyBc3squ7KeJJ/Y3cfQhy6WfSlg==;wPD1LgNDz7LDxsClg6Urxw=="
 ---

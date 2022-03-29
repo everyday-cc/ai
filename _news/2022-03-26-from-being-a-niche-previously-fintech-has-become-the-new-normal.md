@@ -110,15 +110,6 @@ related:
         width: 442
         height: 250
         isCached: true
-  - title: "Brex Helps Zesty.ai Scale With $10 Million in Venture Debt"
-    excerpt: "U.S. fintech company Brex, the company reimagining finance for growing businesses, has provided $10 million in growth capital via venture debt to Zesty.ai,"
-    publishedDateTime: 2022-03-24T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/brex-helps-zesty-ai-scale-with-10-million-in-venture-debt/article_f4233c87-bb99-5481-9ca9-f3f4eb64e018.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 19
 
 secured: "54AofHQrXhY73oTUYN1XMAQLMzeCqyOTQCp06M79441/rgU76u8Dvx9GcKIbfVQ/rOoaxgeR/Bf7qzdFNLakI1pZYGwmDiXr2rhyhMm8HTimbUmTsDdGs9b670bfedPbs+0Cbb+EXRuZ21Fv5qGOFBrh0ooGWvGfyuRwMbz2spaPEjTUWzL/47Bd5ioDpqT+h+IOmY0Q+4vpc+3MvhtAhtExZyIniIAk177cSaskHDvxkil4Z4+9r7sLRdC3hrd3hsiYM3IclmkjKY+85KjFxNHbWZo65KGFEj6TFEmNy/vDeJkJXmmZhEIQPwfTtourDZbfbn8jaXvhPUuUfX2bEyloo2LL7pjrUhB9RGwkCoQ=;/MkppLNnkbZkh/d5Osr7Vg=="
 ---

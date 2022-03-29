@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/amp/"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -110,15 +110,6 @@ related:
         width: 442
         height: 250
         isCached: true
-  - title: "Brex Helps Zesty.ai Scale With $10 Million in Venture Debt"
-    excerpt: "U.S. fintech company Brex, the company reimagining finance for growing businesses, has provided $10 million in growth capital via venture debt to Zesty.ai,"
-    publishedDateTime: 2022-03-24T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/brex-helps-zesty-ai-scale-with-10-million-in-venture-debt/article_f4233c87-bb99-5481-9ca9-f3f4eb64e018.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 19
 
 secured: "MbswYZ4AT//7Qu62Ozbl+WK6+MuS+WUmfm8j8r3pMK4wLtwnUWCHbqVni8cFdYrGKUP0sP3AAkt8gI35MNgJfP8uR5tobfh19k7j/ZbbmGCqrr+ftWlLtS8DFUYBQvsayNBkwdtXhEgngI1STnxHwIw1YLmHjh1BY4rHeIdgkt+7EP1xnXAM8qsFgM1FMndh2zreqKB5IGcCbqSGi8NRWAvbYmXsGLrYYItHbe/LA63TODX42I4MSPUS2IMEgScdTnSUORL6uqEEPOAfbockYAR9C0VyS4w85ne2QqXawbmHnqJVIxFwdCqyLdQedpNDWPo9SVVNcEP04Gc1jnLaWUwsZsIdiFyvikjPq8XttpXqoW3PtXxoYfVAalSctx/u1cRkJFH2mJnmZeal+R+ChTpHrAtN8i/i/HArpHNQxaNk1RXOlkjRekx1tfGoxMotGTXSGKqavNzmoc+PcJjS6zn4M5E9Vb+K4JUJceHb0kovBEvPYp89XMJ1qS8ovjuwi66XunN/EtCqRYNdvwAn7w==;8uVIFrNcZMKuRHoRUbBr2w=="
 ---

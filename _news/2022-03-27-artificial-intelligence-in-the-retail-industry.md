@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-retail-indu
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-retail-industry-karthick-chandrasekar"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -29,20 +29,93 @@ images:
     isCached: true
 
 related:
-  - title: "EMBRACING RECOGNITION IN THE MUSIC INDUSTRY—TOMER ORENSTEIN"
-    excerpt: "Human life is a loop of constant endings and new beginnings. The end of something bad and boring is the beginning of something new and exciting, but half of the time, vice versa. Every day,"
-    publishedDateTime: 2022-03-27T16:23:00Z
-    webUrl: "https://www.influencive.com/embracing-recognition-in-the-music-industry-tomer-orenstein/"
+  - title: "The Impact Open Banking, Cloud and AI are having on the Banking Industry"
+    excerpt: "At this point, I think it’s worth looking at how the conjunction of OB with the investment being made in technologies such as Cloud Computing and AI is impacting banking. I do not doubt that one of the biggest contributors to the rise of FinTech has been ..."
+    publishedDateTime: 2022-03-28T18:30:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-impact-open-banking-cloud-and-ai-are-having-on-the-banking-industry/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/the-impact-open-banking-cloud-and-ai-are-having-on-the-banking-industry/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/the-impact-open-banking-cloud-and-ai-are-having-on-the-banking-industry/"
     type: article
     provider:
-      name: Bad
-      domain: influencive.com
-    quality: 24
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 75
     images:
-      - url: "https://www.influencive.com/wp-content/uploads/2022/03/F73ED9A6-A294-4771-983C-98A43810115B.jpeg"
-        width: 845
-        height: 1268
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/iStock-1334591614.jpg"
+        width: 750
+        height: 500
         isCached: true
+  - title: "Accelerating Financial Services With AI"
+    excerpt: "AI is enabling brighter financial futures for consumers and businesses. From traditional banks to new fintechs, the financial services industry is powering use cases with AI such as preventing payments fraud,"
+    publishedDateTime: 2022-03-28T19:37:00Z
+    webUrl: "https://www.globalbankingandfinance.com/accelerating-financial-services-with-ai/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/accelerating-financial-services-with-ai/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/accelerating-financial-services-with-ai/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 59
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/Accelerating-FSI_Image_700x500.jpg"
+        width: 700
+        height: 500
+        isCached: true
+  - title: "5 Innovations in the fintech industry that’ll change how you think about banking!"
+    excerpt: "There’s hardly any aspect of life left where technology has not impacted. From simple mobility solutions to getting groceries delivered to your doorstep to staying connected with your loved ones, technology has made lives easier and better."
+    publishedDateTime: 2022-03-25T05:14:00Z
+    webUrl: "https://www.gadgetsnow.com/gn-advertorial/5-innovations-in-the-fintech-industry-thatll-change-how-you-think-about-banking/articleshow/90417712.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/gn-advertorial/5-innovations-in-the-fintech-industry-thatll-change-how-you-think-about-banking/amp_articleshow/90417712.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/gn-advertorial/5-innovations-in-the-fintech-industry-thatll-change-how-you-think-about-banking/amp_articleshow/90417712.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 54
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-90417712,imgsize-27784,width-800/90417712.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Machine Learning and Artificial Intelligence are Driving Recruitment Innovation"
+    excerpt: "Experts say that artificial intelligence and machine learning recruitment and onboarding solutions are seeing a huge increase in demand."
+    publishedDateTime: 2022-03-28T15:25:00Z
+    webUrl: "https://nearshoreamericas.com/machine-learning-and-artificial-intelligence-are-driving-recruitment-innovation/"
+    type: article
+    provider:
+      name: Nearshore Americas
+      domain: nearshoreamericas.com
+    quality: 50
+    images:
+      - url: "https://nearshoreamericas.com/wp-content/uploads/2022/03/machine-learning.jpeg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Better AI, unhackable communication, spotting submarines: the quantum tech arms race is heating up"
+    excerpt: "China and the US are racing for quantum technology breakthroughs in weapons, communications, sensing, and computing that could tilt the balance between the world’s military forces."
+    publishedDateTime: 2022-03-28T19:14:00Z
+    webUrl: "https://theconversation.com/better-ai-unhackable-communication-spotting-submarines-the-quantum-tech-arms-race-is-heating-up-179482"
+    ampWebUrl: "https://theconversation.com/amp/better-ai-unhackable-communication-spotting-submarines-the-quantum-tech-arms-race-is-heating-up-179482"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/better-ai-unhackable-communication-spotting-submarines-the-quantum-tech-arms-race-is-heating-up-179482"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 43
+    images:
+      - url: "https://images.theconversation.com/files/454601/original/file-20220328-15-1u91k6l.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
+  - title: "AI-driven Decision Making in Startup Investing"
+    excerpt: "Bringing AI-driven decision making to startup investing is a hotly-debated topic. Conversations quickly turn to startup investing being an artisan trade that AI can’t capture the nuance of, and concerns are raised that algorithms will exacerbate known biases in the system."
+    publishedDateTime: 2022-03-25T12:43:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-driven-decision-making-startup-investing-guy-conway"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 17
 
 secured: "gzygKWxqyz3lDigEuRguLBlazvvPPP2M4HNP0H30wd/azEhY9aXmV0sMb63QQtvy43Q7wN447+GD+v30J+Oz89CIEK/ijJeTLUnRvq4tDQmasJ/ji2+EFxv8Kvvokw9CKRRyrA16yN/hA+COGegN0056ALelmTsNvjtNtntA+sZKz3mC0h4I/Rl+HqVfZadbChSDwdPiRtJCc1kZtiKR41I1yyUqwxrBGxrvGEt8nWCYYFtPUHVZwRrnrN1ICgc2tDtZgxypxRDFVw8q/A/cV0j4X5CqGap/wqsxGS/lRJqqapDukNy6jsGd1EC9d2Z8NKl8bT5JHb/TCsuDs758Epc+o+/23Uj67T0H3fF9T2g=;eYCDiaLNyvtL39V9wzl7og=="
 ---

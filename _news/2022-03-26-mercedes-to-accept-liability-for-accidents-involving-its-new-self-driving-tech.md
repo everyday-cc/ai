@@ -7,7 +7,7 @@ originalUrl: "https://www.insurancetimes.co.uk/news/mercedes-to-accept-liability
 webUrl: "https://www.insurancetimes.co.uk/news/mercedes-to-accept-liability-for-accidents-involving-its-new-self-driving-tech/1440701.article"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unlike Tesla, Mercedes takes legal responsibility for self-driving tech"
-    excerpt: "By accepting responsibility, Mercedes hopes it will be able to easier navigate the still-bare US rules regarding self-driving tech."
-    publishedDateTime: 2022-03-24T13:36:00Z
-    webUrl: "https://knowtechie.com/mercedes-takes-legal-responsibility-for-self-driving-tech/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 39
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2021/07/mercedes-benz-steering-wheel-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Unlike Tesla, Mercedes’ self-driving tech will take full legal responsibility for drivers"
-    excerpt: "Mercedes is looking to make its mark in the world of self-driving tech. The company announced (h/t Road & Track) it would be taking full responsibility for its tech when drivers engage Drive Pilot, the company’s autopilot system."
-    publishedDateTime: 2022-03-24T13:33:00Z
-    webUrl: "https://knowtechie.com/unlike-tesla-mercedes-self-driving-tech-will-take-full-legal-responsibility-for-drivers/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 30
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2021/07/mercedes-benz-steering-wheel-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Mercedes will accept liability if its self-driving tech causes crash"
     excerpt: "While Mercedes says it will accept liability if its new Drive Pilot system caused a crash, it warned that drivers who 'fail to comply with their duty of care' would be legally responsible for collisions."
     publishedDateTime: 2022-03-28T16:07:00Z
@@ -81,15 +53,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Laws governing self-driving cars could be overhauled after Melbourne Tesla crash"
-    excerpt: "Crashes involving self-driving cars will be subject to scrutiny on par with aviation disasters under changes proposed by safety experts and the government."
-    publishedDateTime: 2022-03-25T00:50:00Z
-    webUrl: "https://www.thechronicle.com.au/motoring/motoring-news/laws-governing-selfdriving-cars-could-be-overhauled-after-melbourne-tesla-crash/news-story/181c5693703063a051effd52179bc671"
-    type: article
-    provider:
-      name: The Toowoomba Chronicle
-      domain: thechronicle.com.au
-    quality: 14
 
 secured: "sJ9/X5OF2JTJUEQN7KBNMQzrkfDDkh48R52KnnnMQPaBvYJEfN8RMf0/Zvbr5hKdbjsq9VPuMgIbKFUoFqsby+CS7bKRc76c3iFGjUUPL91JBnaEpvdGoUCbH71IcLGTMCfxDXYwkjsMj8PFkkvYA7zQF526Gu8rEr01ZpcdK6R6Lerz9bulwkB8/3bdsyTKhKydJAIyFY43qaehip/VM0UJFhXo2fCFPzgM8yP9YCbLw1y3Vc9PiXYJfQS87agKF4yMNQhkfSBbcHmHKckuaXWZulWtFxCANXz6gGAb19Q1+FRypWZQYWI+a71Kz1uV0nSJupplrFRUU1KPi/OKVZPLS2HBvB7zDxpnW5l40F131P6LlbDvbZmrT5dHNMYySZl8kU8W7U4l73yWRgW47nSEynifR4WLx458Y5wxBYyesnRcSncjod+tQ4QJLrQYFPgFsvLUO7sWDlvXwkzuGXGCINfWO1GjQhhFuy1hBcHS6qOriVr+1bIqPL7gelgHCT8+SVFzEu7sihgiay05RA==;s8juw4dplk/dLg4yb+/b/g=="
 ---

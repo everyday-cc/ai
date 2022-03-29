@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/947728"
 webUrl: "https://www.eurekalert.org/news-releases/947728"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "AI enables personalized treatment of myocarditis"
-    excerpt: "A research team from the University of Bern and Inselspital, Bern University Hospital, has received funding from the Center for Artificial Intelligence in Medicine for a research project to personalize the diagnosis and treatment of myocarditis."
-    publishedDateTime: 2022-03-24T14:35:00Z
-    webUrl: "https://idw-online.de/de/news790748"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 39
-    images:
-      - url: "https://files.idw-online.de/corona_idw.png"
-        width: 615
-        height: 284
-        isCached: true
 
 secured: "Ze5l5/ikaoK2UHXtONFlMeu8iOPq1o2f3NCIkPwY7An4S0A358fnrEEujfiw/iayzvlaOPl+ML+jhiQzI4qG1YTFSzWYuA8khZZpPUOKkv3vHt8nLMRwZHFSP1CFIz+mwBGp0aE9AtXncfXyHHq3/yb0r5GVHerpRz8kpMzAT4yKhlzfZVDRQuEmqJupK1saRyHyfz4uWcP6JRVCIxXFJeqIswb/X5ajMTj0bUkcezpF5y2ClJFPUXyJJf42XMhZtX4bfhIR1oNy+qL1NhO7Fj6LYAfdShnEHorcdS5GdVCr+WpMBfvZaoaCjbnvSNKSIYXYOfEeET7BruPw5PyQx10uZxD6rFYTk6CsgzH6SPg=;dDT33i9v1kuWzAOT5LjZig=="
 ---

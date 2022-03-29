@@ -7,7 +7,7 @@ originalUrl: "https://www.ciodive.com/press-release/20220324-newgen-utilizes-mic
 webUrl: "https://www.ciodive.com/press-release/20220324-newgen-utilizes-microsoft-azure-applied-ai-services-for-enhanced-automation/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/848dd933f2b95b10eb092743860d98932097e224-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Aidentified Recognized for Artificial Intelligence Innovation in 2022 Data Breakthrough Awards Program"
-    excerpt: "Aidentified, the industry's most robust AI-powered prospecting and relationship intelligence platform, today announced that it has been selected as the winner of the \"Best Use of AI in Data Tech\" award in the third annual Data Breakthrough Awards program conducted by Data Breakthrough,"
-    publishedDateTime: 2022-03-24T13:44:00Z
-    webUrl: "https://www.rochesterfirst.com/business/press-releases/cision/20220324NE02755/aidentified-recognized-for-artificial-intelligence-innovation-in-2022-data-breakthrough-awards-program/"
-    type: article
-    provider:
-      name: WROC-TV
-      domain: rochesterfirst.com
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/1773223/LinkedIn_Data_Breakthrough_Award_Badge_2022_AIdentified.jpg"
-        width: 400
-        height: 209
         isCached: true
 
 secured: "1w3qCDEYtpyEoU83C55UslHgvL5jTY5kjbB6qbytuZWgFXREt4pI1kqpqETbR/HJpU0SAGkD/maNEU/Wrm7WnO6ZYPhgVnAVK54AAFt2IvAqqYUHW2SHPIauRpDd0xiUuohQjCM1EtwGklUvzri3cAtHwhr/st5VOu5ZXMiGfXsQQTm4ef7FQCpu8Wkv5ogaZf4Jf78WqmGi832mSF2j+8OZ4v1/K5vv3bTGfnyjT3KOHITajVWd3W/ij3oLzLdWEtgyem/wdzpead6vxDwOydOB99Y9jIalttKV4YvzY/QlxEj83h925ymw9Gpzu9LjsWrwDrYjjff0+uokK5Pr5Z/M1u2ZA2jPrROZhPBEQKA=;S0DZMcRBVJw7DiiKPh35MA=="
