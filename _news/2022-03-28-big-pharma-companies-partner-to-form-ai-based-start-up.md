@@ -6,9 +6,9 @@ publishedDateTime: 2022-03-28T10:48:00Z
 originalUrl: "https://pharmaphorum.com/digital/big-pharma-companies-partner-form-ai-start-up-targeted-therapies/"
 webUrl: "https://pharmaphorum.com/digital/big-pharma-companies-partner-form-ai-start-up-targeted-therapies/"
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 137
+heat: 137
+published: true
 
 provider:
   name: pharmaphorum
@@ -23,6 +23,6 @@ images:
     height: 675
     isCached: true
 
-secured: "E2mVu5/uk+41hgQp11rRYG4kTw0xqY7AWUHDhk9IMi951C40hVr34ScooqUdvq8jEUMTFTszOgQm0r9FPZmSAa04a9xblsxY6z/HMUaz/9KVKPxTcuw4V8B5Cp6p6woG98UidjCopzjam/KnaBLow0iDtumuWsxRtC1wKH+cvBtmbFDMcKkriee1sldE4BozkwK8LNN56QwLoWGEko2h4syYDB40MhxEV2xT0Ql2VcGQJHk9pVrRK+J+pSpNSWwrZXt+jHbdMtCfAiTEdfK6uKYR2/ImmYpFY2Stgd0HWh1aW7McTUCBODCc0sRaPl8pA++vnaKQSWuUUcNBJBHTGDspxOThxTEVeY2zGFgGFt/GWdNsUSljgDObZQA+gem55jiFoSmf++j6BP3mXM05RHqQHC7FPXDdWRfjMQbg9ENcnvQb92rYf3U/3jP425Z5YvbqWLWQ3dRTwly3ph2lBQdyFv27TG+CYLFXPVecCK6xWYVdjsW1z1HsREluYA6KO0IA6LEqrwSBZ4lg677/Kw==;HGjV3iJypNDEZzN1h48q9w=="
+secured: "tEgoLPJ2p3F+rNCbRbUJYTlSRfQGRyGKmapBC+9YSeEO0EoImsZ037tJvvtguiY4xqovy0gl29+kLStdBbhCJicXSN633XywwUNJGwVWEmVt0Y/evoDze9Q5qD0Fth47OFyCtpambBf1XLqySVlKITlrYgr5S0JI9fJKTWDSumtqDQ5BHq3fTvvJ6cvj++9jRCcfsq1Jz3Ww4s/Ev0rjz0QyiPTwOS90K3BjzNBxhtvSWzeKRlPnRXQF2Ldz9S80WN0XXG8K7fgw+dxRU+SmtvcaswPt6AXWBRTWPH6ApXqYaFxbkiet5KcEEuPJQpsc6FyWCe7Ik3FnfLFPlOBLU6QzlftPT0HERdEdW953nV2RbokKMd1gyqZ45meQQduBVtv5mzDmWZrvZ/pIVNnR3nCLTewqvkoiY6T3cKEe3eof9jV81DBhl35dO08THlnFaw0iIjL/tSIq5PamvIr/++U0mWjP58jQnpxv+76jW7Fsp3Wc/Q9F8xEpXDN8nR1FSXnX7nrbGcsKyF6FVRiH3m6XmPH67JfK/XoEcrbMlcw=;hcoCNkvDSIZydu2a9wDOXA=="
 ---
 

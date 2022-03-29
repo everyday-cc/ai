@@ -146,6 +146,20 @@ related:
       name: openDemocracy
       domain: opendemocracy.net
     quality: 50
+  - title: "The West and Russia Face Tough Choices in Ukraine"
+    excerpt: "No ceasefire, other than simply one permitting Russia to replenish its spent and starved forces, is possible, unless its terms form the basis for terminating the war itself. Vladimir Putin, however, appears to be an immediate hurdle."
+    publishedDateTime: 2022-03-29T13:05:00Z
+    webUrl: "https://nationalinterest.org/feature/west-and-russia-face-tough-choices-ukraine-201477"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 39
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/ukraine_38.jpg"
+        width: 1100
+        height: 733
+        isCached: true
   - title: "Constitutional recognition of First Nations is essential for justice"
     excerpt: "Constitutional recognition of Indigenous Australians is a necessary prerequisite for a just legal system, retired NSW chief justice Tom Bathurst has told a gathering of senior lawyers and judges."
     publishedDateTime: 2022-03-28T09:04:00Z

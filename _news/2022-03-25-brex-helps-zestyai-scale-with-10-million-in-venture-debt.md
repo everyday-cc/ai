@@ -51,6 +51,22 @@ related:
         width: 1000
         height: 603
         isCached: true
+  - title: "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding"
+    excerpt: "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding. | Crowdfund Insider: Global Fintech News, including Crowdfunding,"
+    publishedDateTime: 2022-03-29T13:21:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 53
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/03/Effectiv-AI-Founders-Team.jpeg"
+        width: 1766
+        height: 1325
+        isCached: true
   - title: "From being a niche previously, fintech has become the new normal"
     excerpt: "Over the last five years, the growth of fintech startups and solutions has resulted in a fundamentally new and altered financial services sector. Customer expectations are changing, competition is fierce,"
     publishedDateTime: 2022-03-26T12:30:00Z
@@ -66,6 +82,22 @@ related:
       - url: "https://images.assettype.com/freepressjournal/2020-02/c8a4770b-9848-4959-9f62-09611ff9f33a/Fin_tech.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 672
+        isCached: true
+  - title: "Gaming fintech firm enables Bitcoin tips for streamers"
+    excerpt: "Gaming fintech ZEBEDEE launched ZBD Streamer on Tuesday, enabling content creators to collect Bitcoin tips while live streaming on online platforms."
+    publishedDateTime: 2022-03-29T13:00:00Z
+    webUrl: "https://forkast.news/headlines/gaming-fintech-bitcoin-tips-streamers/"
+    ampWebUrl: "https://forkast.news/headlines/gaming-fintech-bitcoin-tips-streamers/amp/"
+    cdnAmpWebUrl: "https://forkast-news.cdn.ampproject.org/c/s/forkast.news/headlines/gaming-fintech-bitcoin-tips-streamers/amp/"
+    type: article
+    provider:
+      name: forkast
+      domain: forkast.news
+    quality: 44
+    images:
+      - url: "https://forkast.news/wp-content/uploads/2022/03/aleksi-raisa-DCCt1CQT8Os-unsplash-1260x754.jpg"
+        width: 1260
+        height: 754
         isCached: true
   - title: "Brex Helps Zesty.ai Scale With $10 Million in Growth Capital"
     excerpt: "This deal marks continued momentum for Brex Venture Debt, which Brex launched in August 2021 as a way to help founders take their business to the next level. It helps growing busi"

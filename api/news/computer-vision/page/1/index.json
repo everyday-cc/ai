@@ -105,7 +105,7 @@
       "originalUrl": "https://www.iol.co.za/technology/complex-questions-as-face-recognition-tech-joins-ukraine-invasion-9c034c51-35e9-4050-b997-6f2148442974",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -200,7 +200,7 @@
       "originalUrl": "https://www.01net.it/clearview-ai-releases-2-0-version-of-industry-leading-facial-recognition-platform-for-law-enforcement/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 179,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1149,6 +1149,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-15-mice-can-recognise-3d-objects-from-memory-of-their-2d-photos-study-suggests.md",
+      "title": "Mice can recognise 3D objects from memory of their 2D photos, study suggests",
+      "excerpt": "“Our findings also provide strong support that a functional mouse hippocampus is required for this form of nonspatial visual recognition memory and picture-object equivalence,” he adde",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/news/science/mice-object-recognition-2d-photographs-b2036016.html",
+      "originalUrl": "https://www.independent.co.uk/news/science/mice-object-recognition-2d-photographs-b2036016.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/03/15/10/122287_web.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/news/science/mice-object-recognition-2d-photographs-b2036016.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/science/mice-object-recognition-2d-photographs-b2036016.html",
+      "publishedDateTime": "2022-03-15T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-cogniac-and-cisco-meraki-partner-to-automate-operations-with-computer-vision.md",
       "title": "Cogniac and Cisco Meraki Partner to Automate Operations with Computer Vision",
       "excerpt": "Cogniac Corporation (“Cogniac”), a leader in enterprise-class Artificial Intelligence (AI) image and video analysis, and Cisco Meraki have announced a strategic partnership to accelerate the delivery of AI-powered computer vision applications at the edge of the network.",
@@ -1316,40 +1359,6 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-xailient-blows-the-doors-off-computer-vision-with-intel-openvino-at-448fps-opening-the-way-for-advanced-applications-in-face-recognition-and.md",
-      "title": "Xailient blows the doors off Computer Vision with Intel OpenVINO at 448FPS - opening the way for advanced applications in Face Recognition and Privacy",
-      "excerpt": "Xailient specializes in extremely efficient low-power computer vision. OpenVINO specializes in maximizing the performance and speed of computer vision AI workloads. Together, Xailient and OpenVINO deliver every inference of Computer Vision on all configurations of Intel hardware,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/03/14/9563016.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/03/14/9563016.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

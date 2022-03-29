@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
-excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the System of Record of Workforce."
-publishedDateTime: 2022-03-29T10:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job/article_2fd5f0bc-7c9a-5a66-ab21-96c17348c926.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job/article_2fd5f0bc-7c9a-5a66-ab21-96c17348c926.html"
+excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the System of Record of Workforce. NEW YORK"
+publishedDateTime: 2022-03-29T12:00:00Z
+originalUrl: "https://kdvr.com/business/press-releases/cision/20220329NY06338/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites/"
+webUrl: "https://kdvr.com/business/press-releases/cision/20220329NY06338/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites/"
 type: article
 quality: 21
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: FOX31 Denver
+  domain: kdvr.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://i0.wp.com/kdvr.com/wp-content/uploads/sites/11/2022/03/AP22088020686831.jpg?w=2000&#038;ssl=1"
+    width: 1999
+    height: 1342
     isCached: true
 
 related:
@@ -46,22 +46,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622114219/itpro/Clearview_AI_shutterstock.jpg"
         width: 1260
         height: 710
-        isCached: true
-  - title: "Clearview AI’s Dystopian Face Rec Tech Now Being Used to Identify Dead Russian Troops"
-    excerpt: "Ukraine's vice prime minister said the military uses Clearview AI to identify the soldier and then contacts their family via social media."
-    publishedDateTime: 2022-03-24T20:25:00Z
-    webUrl: "https://gizmodo.com/clearview-ai-s-dystopian-face-rec-tech-now-being-used-t-1848697923"
-    ampWebUrl: "https://gizmodo.com/clearview-ai-s-dystopian-face-rec-tech-now-being-used-t-1848697923/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-s-dystopian-face-rec-tech-now-being-used-t-1848697923/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 80
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/663e607278f51154150a1b97d9faab6f.jpg"
-        width: 800
-        height: 449
         isCached: true
   - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
     excerpt: "Clearview AI’s database now features more than 20 billion facial images. Clearview 2.0 offers new compliance and investigation management tools for law enforcement agencies."
@@ -120,6 +104,6 @@ related:
         height: 450
         isCached: true
 
-secured: "QgxXKk/BMDanGU/sHyqJmA3lF5TU1T3+5gdk02G4FUHajSV6d4UuTt8zLJj5kHX1E7ZOhwrkPRkCW/0RpUaqvAHA+BLl0+fjkRw4AyoWqklwZmuxi8UP9j2P6C81/ro6nCcDIxEQxkrCJwv+2Occ7ghhqlNV6YmZVyJ0j3ULYd46TN4nfvxucMY8aC47xb9UxEV9hhQ/n60XdIOUA5jD3734M0UtUce6mvTd4GictpxYbEZk2+t9LaG0rqWMCqFPqlDiTP7sSTbNFK5vevJZeImyAs406IdC/x0UxBlyUskDIGw9v0MO/DrM3LBa8GBwMee6jWQkscr3U0BiZhZH5iCNceGoBPsOEw5weG3oW1w=;FRbQJ1y/18n+mI9C7gAPDQ=="
+secured: "9RuYrPagNVQDC7RkUtLTcOZWoq9/xWVSf2wdmx8N7zxVLh7Aufv+vxvqaI4MwuerjmSc+/P4iOTbsox4EFwjFs9vfYzzLDOf9ll97T9t9d2MoofdVxNqHGTHjIcjyUpG9dp4b4XwiAMyr6pOiG9PBdCqlwyBp8dC++pzwk7kUXCINBVaRrauiOOGg/PPj51I0viF6BBtlnJSvhunjIY82utmecqn5fONNsidbYO0I5z2W9P5i5b1eoLnL8kWkMb5DpLp/fVQFtSY1Mv6FnTRLOslx31MdL4TSfNYAAT5GiSOrHuNgs8MboyEmKfhdN837mg1oro8qfgRtI+zYA1sN5L0DXNMritJ1wmy8tfgv4I=;FiXf4LT9/ZaJRTBO+CDAwg=="
 ---
 

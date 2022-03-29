@@ -2,6 +2,229 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2022-02-11-maryland-armed-robbery-victim-allegedly-shot-teenage-attacker-in-self-defense-authorities-say.md",
+      "title": "Maryland armed robbery victim allegedly shot teenage attacker in self-defense, authorities say",
+      "excerpt": "The victim discharged his registered weapon in what police believe to be self-defense, striking one 17-year-old robbery ... and apprehended the 16-year-old and other 17-year-old suspects driving the vehicle. The 16-year-old and two 17-year-old suspects ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/maryland-armed-robbery-victim-shot-attacker-self-defense",
+      "originalUrl": "https://www.foxnews.com/us/maryland-armed-robbery-victim-shot-attacker-self-defense",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d273baf0-893e-4c61-968f-cb155b30fc76/bd6188a2-b614-44ff-9382-d274216cf78d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/maryland-armed-robbery-victim-shot-attacker-self-defense.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/maryland-armed-robbery-victim-shot-attacker-self-defense.amp",
+      "publishedDateTime": "2022-02-10T10:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-facial-analysis-improves-diagnosis.md",
+      "title": "Facial analysis improves diagnosis",
+      "excerpt": "\"The goal is to detect such diseases at an early stage and initiate appropriate therapy as soon as possible ... this varies from disease to disease. Artificial intelligence (AI) uses these ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-02-facial-analysis-diagnosis.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-02-facial-analysis-diagnosis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/facial-analysis-improv.jpg",
+          "width": 1051,
+          "height": 1388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-02-facial-analysis-diagnosis.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-facial-analysis-diagnosis.amp",
+      "publishedDateTime": "2022-02-10T10:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-three-daily-it-chores-where-artificial-intelligence-ai-can-help.md",
+      "title": "Three Daily IT Chores Where Artificial Intelligence (AI) Can Help",
+      "excerpt": "Automation and artificial intelligence are not new concepts, but recent technological advancements are pushing the limits of what robots can accomplish. Here are the top three ways AI can aid teams, businesses, and customers by automating tedious IT ...",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/featured/three-daily-it-chores-where-artificial-intelligence-ai-can-help/",
+      "originalUrl": "https://enterprisetalk.com/featured/three-daily-it-chores-where-artificial-intelligence-ai-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/02/Three-Daily-IT-Chores-Where-Artificial-Intelligence-AI-Can-Help-01.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/featured/three-daily-it-chores-where-artificial-intelligence-ai-can-help/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/three-daily-it-chores-where-artificial-intelligence-ai-can-help/amp/",
+      "publishedDateTime": "2022-02-10T09:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-new-algorithm-bill-could-force-facebook-to-change-how-the-news-feed-works.md",
+      "title": "New algorithm bill could force Facebook to change how the news feed works",
+      "excerpt": "Photo by Leigh Vogel for The Verge A new bipartisan bill, introduced on Wednesday, could ... testimony from Facebook whistleblower Frances Haugen in 2020, members of both parties have started working together to find ways to regulate algorithms that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/2/10/22927472/klobuchar-lummis-algorithm-bill-section-230-misinformation-teenager-mental-health",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/new-algorithm-bill-could-force-facebook-to-change-how-the-news-feed-works/ar-AATHH8i",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 291,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/sNodlR-Z5KIzTklQkFw80EiLyQE=/0x302:2040x1370/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23194488/lvogel_220119_4968_0010.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-10T09:35:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2022/2/10/22927472/klobuchar-lummis-algorithm-bill-section-230-misinformation-teenager-mental-health",
+        "domain": "theverge.com/2022/2/10/22927472/klobuchar-lummis-algorithm-bill-section-230-misinformation-teenager-mental-health",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-billion-dollar-fintech-liquidity-group-uses-ai-to-fund-another-fintech-with-30-million.md",
+      "title": "Billion dollar fintech Liquidity Group uses AI to fund another fintech with $30 million",
+      "excerpt": "“Our AI platform allows us to move at light speed – going from ... and we look forward to supporting other great fintech companies in the future.” “Liquidity’s capital infusion will fuel our continued rapid growth,” said ThinkMarkets CEO ...",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/billion-dollar-fintech-liquidity-group-uses-ai-to-fund-another-fintech-with-30-million/",
+      "originalUrl": "https://techbullion.com/billion-dollar-fintech-liquidity-group-uses-ai-to-fund-another-fintech-with-30-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/02/fintech-liquidity-fund-with-AI.png",
+          "width": 700,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/billion-dollar-fintech-liquidity-group-uses-ai-to-fund-another-fintech-with-30-million/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/billion-dollar-fintech-liquidity-group-uses-ai-to-fund-another-fintech-with-30-million/amp/",
+      "publishedDateTime": "2022-02-10T09:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-7-aai-airports-chosen-for-voice-of-customer-recognition-2021.md",
       "title": "7 AAI airports chosen for Voice of Customer recognition 2021",
       "excerpt": "The Ministry of Civil Aviation (MoCA) on Thursday said seven airports that participated in the ACI-ASQ survey in 2021 have been chosen for ‘Voice of Customer Recognition’ under Airports Council International (ACI) World’s Voice of the Customer ...",
@@ -911,246 +1134,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs.md",
-      "title": "Government injects £23m to boost UK skills and diversity in AI jobs",
-      "excerpt": "The government has pumped £23m into Artificial Intelligence (AI) and data conversion courses for young and underrepresented groups, as the UK aims to be the industry leader. There will be up to two thousand scholarships for masters AI conversion courses ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all",
-      "originalUrl": "https://www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2021/09/679721416.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all&amp=1",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all&amp=1",
-      "publishedDateTime": "2022-02-09T22:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-kobold-metals-raises-1925-million-to-use-ai-to-find-battery-minerals.md",
-      "title": "KoBold Metals Raises $192.5 Million to Use AI to Find Battery Minerals",
-      "excerpt": "ADELAIDE, Australia—KoBold Metals, a startup backed by Bill Gates’s Breakthrough Energy Ventures that aims to use artificial intelligence to find metals needed for the electric-vehicle boom, raised $192.5 million in its latest financing round ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801",
-      "originalUrl": "https://www.wsj.com/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-483374/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801",
-      "publishedDateTime": "2022-02-09T22:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-joint-robotics-autonomous-systems-and-artificial-intelligence-ras-ai-demonstration.md",
-      "title": "Joint Robotics, Autonomous Systems, and Artificial Intelligence (RAS-AI) Demonstration",
-      "excerpt": "‘Robotics, Autonomous Systems and Artificial Intelligence’ was recently added to the Sovereign Industrial Capability Priorities list and the RAS-AI consortium is proud to be a part of the journey to delivering the best capability to our warfighter",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/joint-robotics-autonomous-systems-artificial-intelligence-",
-      "originalUrl": "https://www.linkedin.com/pulse/joint-robotics-autonomous-systems-artificial-intelligence-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGA2w2xa0Dqiw/article-cover_image-shrink_720_1280/0/1644469170228?e=1650499200&v=beta&t=nz5RLteTBzY34hdOOQ7_fWq4IfkBd_47qdvGmr3LuaA",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T22:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-ibm-flash-storage-line-gets-ransomware-protection.md",
-      "title": "IBM flash storage line gets ransomware protection",
-      "excerpt": "In keeping with its vendor-neutral strategy, IBM designed Cyber Vault to be used with any storage that works with by its Spectrum Virtualize software. It enables rapid deployment of block storage ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/cloud/learn/block-storage",
-      "originalUrl": "https://siliconangle.com/2022/02/08/ibm-flash-storage-line-gets-ransomware-protection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1.cms.s81c.com/sites/default/files/styles/ibm_cloud_wide_background/public/2019-12-12/003_1.jpg?itok=75eiZEG1",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T20:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-all-symbols-in-tensorflow-datasets.md",
-      "title": "All symbols in TensorFlow Datasets",
-      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols?hl=es",
-      "originalUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols?hl=es",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=es",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

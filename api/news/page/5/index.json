@@ -2,6 +2,204 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-23-how-ai-is-primed-to-disrupt-hr-and-recruiting.md",
+      "title": "How AI Is Primed To Disrupt HR And Recruiting",
+      "excerpt": "Artificial intelligence technology will help businesses augment their entire HR lifecycle from mapping talent needs to identifying the best ways to attract new talent while keeping existing talent on their teams engaged and happy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/23/how-ai-is-primed-to-disrupt-hr-and-recruiting/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/23/how-ai-is-primed-to-disrupt-hr-and-recruiting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5fec939448bdb0f06c51ff22/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 886,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/23/how-ai-is-primed-to-disrupt-hr-and-recruiting/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/23/how-ai-is-primed-to-disrupt-hr-and-recruiting/amp/",
+      "publishedDateTime": "2022-03-23T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-programming-languages-python-just-got-a-boost-from-facebooks-meta.md",
+      "title": "Programming languages: Python just got a boost from Facebook's Meta",
+      "excerpt": "Meta, which owns Facebook, has given $300,00 to the Python Software Foundation (PSF), the group that maintains Core Python (CPython) – the open-source programming language that powers most machine learning (ML) and artificial intelligence apps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/programming-languages-python-just-got-a-boost-from-facebooks-meta/",
+      "originalUrl": "https://www.zdnet.com/article/programming-languages-python-just-got-a-boost-from-facebooks-meta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d356be695cdf709763e99fddffcf0d879708410e/2022/03/23/d20302d3-4f81-4089-a04f-847d852941fa/guido-van-rossum-small.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/programming-languages-python-just-got-a-boost-from-facebooks-meta/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/programming-languages-python-just-got-a-boost-from-facebooks-meta/",
+      "publishedDateTime": "2022-03-23T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-the-great-puzzle-of-the-body-and-disease-is-beginning-to-yield-to-ai-says-recursion-ceo.md",
+      "title": "The great puzzle of the body and disease is beginning to yield to AI, says Recursion CEO",
+      "excerpt": "One way to think about artificial intelligence, in its modern deep learning form ... than the industry rule that fewer than one in ten initiatives develop a successful therapy. Now is the moment of holding one's breath for AI in drug discovery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-great-puzzle-of-the-body-and-disease-is-beginning-to-yield-to-ai-says-recursion-ceo/",
+      "originalUrl": "https://www.zdnet.com/article/the-great-puzzle-of-the-body-and-disease-is-beginning-to-yield-to-ai-says-recursion-ceo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/672dfa43190bfb5d45d452d240248fdbf8b6e6eb/2022/03/23/2979bb02-57af-4988-b48a-66ec8dc4b0ea/recursion-scientists.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-great-puzzle-of-the-body-and-disease-is-beginning-to-yield-to-ai-says-recursion-ceo/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-great-puzzle-of-the-body-and-disease-is-beginning-to-yield-to-ai-says-recursion-ceo/",
+      "publishedDateTime": "2022-03-23T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age.md",
+      "title": "Investigation into the potential of artificial intelligence in the digital age",
+      "excerpt": "As a general-purpose technology, artificial intelligence (AI) has the potential to change our lives. It could bring many benefits, from increasing farming efficiency to helping to fight climate change and making transport safer,",
+      "sourceUrl": null,
+      "webUrl": "https://epthinktank.eu/2022/03/23/investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age/",
+      "originalUrl": "https://epthinktank.eu/2022/03/23/investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/epthinktank.eu/wp-content/uploads/2022/03/EPRS-AaG-729329-Investigation-artificial-intelligence-digital-age-FINAL.png?fit=1024%2C545&ssl=1",
+          "width": 1024,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://epthinktank.eu/2022/03/23/investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age/?amp=1",
+      "cdnAmpWebUrl": "https://epthinktank-eu.cdn.ampproject.org/c/s/epthinktank.eu/2022/03/23/investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age/?amp=1",
+      "publishedDateTime": "2022-03-23T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EP Research Service",
+        "domain": "epthinktank.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-reinventing-how-aiml-teams-gather-data-needed-for-computer-vision-network-training.md",
       "title": "Reinventing how AI/ML teams gather data needed for computer vision network training",
       "excerpt": "Datagen, the data-as-code leader for computer vision AI, today announced the closure of a $50 million Series B financing round led by new investor Scale Venture Partners. The round also included participation from existing investors TLV Partners,",
@@ -1002,207 +1200,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-how-amazon-search-achieves-low-latency-high-throughput-t5-inference-with-nvidia-triton-on-aws.md",
-      "title": "How Amazon Search achieves low-latency, high-throughput T5 inference with NVIDIA Triton on AWS",
-      "excerpt": "Amazon Search’s vision is to enable customers to search effortlessly. Our spelling correction helps you find what you want even if you don’t know the exact spelling of the intended words. In the past, we used classical machine learning (ML) algorithms with manual feature engineering for spelling correction.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-achieves-low-latency-high-throughput-t5-inference-with-nvidia-triton-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-achieves-low-latency-high-throughput-t5-inference-with-nvidia-triton-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/21/ML-8065-image001-feature.png",
-          "width": 612,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T09:47:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech.md",
-      "title": "NVIDIA Unleashes Arsenal Of AI Innovation With Hopper GPU, Grace CPU, Interconnect And Robotics Tech",
-      "excerpt": "This year's NVIDIA's GTC keynote was actually a live demo, delivered from the simulated constructs of the metaverse, and the announcements in silicon and AI innovation were more than impressive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 333,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6239f7d526cef725d5475b3a/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech/amp/",
-      "publishedDateTime": "2022-03-22T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools.md",
-      "title": "Nvidia's New Chips Power AI, Autonomous Vehicles, Metaverse Tools",
-      "excerpt": "Stephen Shankland has been a reporter at CNET since 1998 and covers browsers, microprocessors, digital photography, quantum computing, supercomputers, drone delivery, and other new technology. He has a soft spot in his heart for standards groups and I/O interfaces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/",
-      "originalUrl": "https://www.cnet.com/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/e6f9c96c9d41a1111be07334771b84a092d5f7bc/2022/03/22/8a718d1d-ed74-4ab5-aaa0-2517650389e6/nvidia-hopper-h100-ai-chip.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/",
-      "publishedDateTime": "2022-03-22T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-live-at-pack-expo-east-tutor-intelligence-rewrites-the-rules-of-collaborative-robots.md",
-      "title": "Live at PACK EXPO East: Tutor Intelligence Rewrites the Rules of Collaborative Robots",
-      "excerpt": "Tutor Intelligence's vision system with hybrid human and artificial intelligence learns tasks without custom programming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automationworld.com/factory/robotics/article/22131529/collaborative-robots-adapt-to-complex-environments-in-kitting-feeding-packing-applications",
-      "originalUrl": "https://www.automationworld.com/factory/robotics/article/22131529/collaborative-robots-adapt-to-complex-environments-in-kitting-feeding-packing-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2022/03/Tutor_March2022.6239274e9d9fa.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation World",
-        "domain": "automationworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

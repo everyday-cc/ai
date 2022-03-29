@@ -56,6 +56,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "NVIDIA Launches GeForce RTX 3090 Ti GPU"
+    excerpt: "NVIDIA launched the GeForce RTX 3090 Ti GPU, powered by Ampere—NVIDIA’s ... those building research systems for data science and AI, or processing large data sets, and those making massive ..."
+    publishedDateTime: 2022-03-29T13:01:00Z
+    webUrl: "https://worthplaying.com/article/2022/3/29/news/131286-nvidia-launches-geforce-rtx-3090-ti-gpu/"
+    type: article
+    provider:
+      name: Worth Playing
+      domain: worthplaying.com
+    quality: 19
 
 secured: "EKghnBPotRcYau+XUa1MXvsTcpWhxunvFtfGRaB00J6tAQhMsfyFWmD0byv83JYwtJzDcU9OIjnXpAS6VtHeOVSJzetQiNJrPDYcgYde/U579W5oS6+/ZSSOxZ5YSbI9xprP8ei91g8BYx52kmtSYo13xpqKQKSD8qfR5bOFkRUDYkSi7R3CekiswIYHpaVG3rVMIC3Y2B4uoU3kwNBPtjAibhVcPNcIT3WEbJcGNCYa+Hi9E9TjKeqXt30zxvG6BhCN7RsWMONl8d0SfMEnIQMGGPJE/LJVAiZTQLSvyHhbSNHprPtbwqWchb3sdp5eqErQNHso5QgjsZkg726X1SyYA+aNN5ZNBuIaQJjYOM0=;78KvDzIqr0W3UurGGHfK8A=="
 ---

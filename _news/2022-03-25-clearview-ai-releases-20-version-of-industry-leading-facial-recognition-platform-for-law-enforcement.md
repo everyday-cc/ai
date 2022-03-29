@@ -7,7 +7,7 @@ originalUrl: "https://www.01net.it/clearview-ai-releases-2-0-version-of-industry
 webUrl: "https://www.businesswire.com/news/home/20220325005073/en/ Clearview-AI-Releases-2.0-Version-of-Industry-Leading-Facial-Recognition-Platform-for-Law-Enforcement"
 type: article
 quality: 119
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -32,22 +32,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622114219/itpro/Clearview_AI_shutterstock.jpg"
         width: 1260
         height: 710
-        isCached: true
-  - title: "Clearview AI’s Dystopian Face Rec Tech Now Being Used to Identify Dead Russian Troops"
-    excerpt: "Ukraine's vice prime minister said the military uses Clearview AI to identify the soldier and then contacts their family via social media."
-    publishedDateTime: 2022-03-24T20:25:00Z
-    webUrl: "https://gizmodo.com/clearview-ai-s-dystopian-face-rec-tech-now-being-used-t-1848697923"
-    ampWebUrl: "https://gizmodo.com/clearview-ai-s-dystopian-face-rec-tech-now-being-used-t-1848697923/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-s-dystopian-face-rec-tech-now-being-used-t-1848697923/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 80
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/663e607278f51154150a1b97d9faab6f.jpg"
-        width: 800
-        height: 449
         isCached: true
   - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
     excerpt: "Clearview AI’s database now features more than 20 billion facial images. Clearview 2.0 offers new compliance and investigation management tools for law enforcement agencies."
@@ -106,18 +90,18 @@ related:
         height: 450
         isCached: true
   - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
-    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the System of Record of Workforce."
-    publishedDateTime: 2022-03-29T10:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job/article_2fd5f0bc-7c9a-5a66-ab21-96c17348c926.html"
+    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the System of Record of Workforce. NEW YORK"
+    publishedDateTime: 2022-03-29T12:00:00Z
+    webUrl: "https://kdvr.com/business/press-releases/cision/20220329NY06338/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: FOX31 Denver
+      domain: kdvr.com
     quality: 21
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://i0.wp.com/kdvr.com/wp-content/uploads/sites/11/2022/03/AP22088020686831.jpg?w=2000&#038;ssl=1"
+        width: 1999
+        height: 1342
         isCached: true
 
 secured: "7oQdKM/tnOx3UVLA47MevaBLrFHZjFrBIAOpyYvju9c+5MQ12PNWX9A2v1wlIwIBvhSwvEEfTZ0yuUma2guRKI/+75I9f+htILn5gpOBFzWODq/dXOiQ4jDaOqEEYLUKOo11htu810/lAHW0ex0FhaPArUIrweIbhIgBPGqiTfY+qIn0aR83UDxY620l3Ij6mmnl52Nsjh/0Dq9MF77sK+ACG0M6NlRj7Cs44blqojw3DcJsURNUYUoxIlpdhrbLF/4iyODiytbaWSZMvpCNFwEObogqZIjZECmEeBMD9Myz9lHpTkCZKWPkRKJzKwriVkZecf6m6sbmdeM9nb9iOQTwp6mJXnoDcf98INUAGVa/2X0LEVfYhlMAT6Rnc5li1X6tTuZpAWHbgtGUCHu0sLwLnK5NOoeJDNQ9RrY0goqbz0q4B1cGgaw57VllwbpNjTSW0ILY5e7RrI7TYmBRTZYxuwwLgKoeagO/T/2mlYtO/D3rpFQmlhqh6xe0ybotouo/yDSwRAsQbhXQd6lvczPOrSBcEoZP24DVA7c28t0=;MsnSEG62LsCbMS0VwpEvEQ=="

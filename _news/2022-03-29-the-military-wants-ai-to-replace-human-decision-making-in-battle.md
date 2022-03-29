@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/technology/2022/03/29/darpa-artific
 webUrl: "https://www.washingtonpost.com/technology/2022/03/29/darpa-artificial-intelligence-battlefield-medical-decisions/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,21 +25,60 @@ images:
     isCached: true
 
 related:
-  - title: "AI on its way to replacing humans in hypersonic weapon design"
-    excerpt: "The hypersonic missile is really such an example, where A.I. begins to take the wheel. This could lead to a \"Terminator\" style scenario of A.I. taking over control of critical military decision making thereby becoming an existential risk."
-    publishedDateTime: 2022-03-28T12:05:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-its-way-replacing-humans-hypersonic-weapon-design-spencer-"
+  - title: "The Ten Commandments For Using AI In Hiring Decisions"
+    excerpt: "Want to avoid a Great Resignation-type mass exodus of your workers? Want to win the war for talent in the automation age? Want to treat your fellow workers with the dignity we all deserve? Embrace the Ten Commandments in your organization now."
+    publishedDateTime: 2022-03-26T16:49:00Z
+    webUrl: "https://www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/"
+    ampWebUrl: "https://www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/623f3fae815938bb87ae6396/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 842
+        isCached: true
+  - title: "Machine Learning and Artificial Intelligence are Driving Recruitment Innovation"
+    excerpt: "Experts say that artificial intelligence and machine learning recruitment and onboarding solutions are seeing a huge increase in demand."
+    publishedDateTime: 2022-03-28T15:25:00Z
+    webUrl: "https://nearshoreamericas.com/machine-learning-and-artificial-intelligence-are-driving-recruitment-innovation/"
+    type: article
+    provider:
+      name: Nearshore Americas
+      domain: nearshoreamericas.com
+    quality: 50
+    images:
+      - url: "https://nearshoreamericas.com/wp-content/uploads/2022/03/machine-learning.jpeg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "The 4 Improvements Manufacturing Can Realize Through AI"
+    excerpt: "Artificial intelligence is one of the major technological advancements contributing to the growth of the manufacturing sector in the fourth industrial revolution. AI can be widely used in manufacturing to solve the hurdles like long machine downtime and quality issues."
+    publishedDateTime: 2022-03-25T21:28:00Z
+    webUrl: "https://www.manufacturing.net/operations/blog/22132016/the-4-improvements-manufacturing-can-realize-through-ai"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/03/16x9/AI__circuit_board_1145585734_1298x811__1_.623e33653b213.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI-driven Decision Making in Startup Investing"
+    excerpt: "Bringing AI-driven decision making to startup investing is a hotly-debated topic. Conversations quickly turn to startup investing being an artisan trade that AI can’t capture the nuance of, and concerns are raised that algorithms will exacerbate known biases in the system."
+    publishedDateTime: 2022-03-25T12:43:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-driven-decision-making-startup-investing-guy-conway"
     type: article
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHIjgVgvMGgyA/article-cover_image-shrink_720_1280/0/1648468260711?e=1654128000&v=beta&t=JfmN8DfPd0ZZbpF9XZwHng_PNhqF3Hh-e0HwkdZsoos"
-        width: 1195
-        height: 720
-        isCached: true
+    quality: 17
 
-secured: "s64zhzztXh9LnEo7ED7ag8gfHl3ceAGry5PXOlSr5optF2qW3cQYKk/2dQDrXHHU9B/mh2uINKK4kogWqa67w3yk+4EpvvIatROK0nSVN1f1lx3dKXdf4jblwB1AS2RC9NosGHXT1TXMX+/BxhrxcBjXdUoZqf18MLqN/8nv+T694yF2HURM09XpicaLnthwtiXwjuHibZvaX0upj1WA0RonJp6gAI1tqmPYrr+RoTLzuer6YPB7Hc67YYfonundXQzzJiixUDx2EP+5ZS0945tAg2P/Ec3IQKF8gudaDsuks4/IP0wVyynZVcoJZWnEG4rRGQbmJMicUKailR9MLYbWFzLaIYcOAJ3eSTFXB7I=;Uo+7t6Q4OhngU6BXRFdEFA=="
+secured: "s5EVCYTUDuYTi6+8FZO/xPwPP9YdjuF8nCBgvKG17RuV63138FOIa2367YsJ/7hp/dVVjV5i6Ch2xNKWvMaBfXEGpaWCEr9CkwBhQbxly7/n8wIaxV3PSmYy2EdztdAlWD8TsqffMlRoEWK2cMWm7Lag3BUA9KXCUGLjLXGZL3+ofl+2bLMRosExhFY+O33JNk7mZkCXILOG5CbZnJjccroYiiql81l3gslGWGfV3E/VAOF4/G7KL5tD2jO/PW9/vf11+EKN4vj5Gjkd+9H+LbWRQiDtaCIdt7Tu5xml5Ix64EAduBuEI45BFvcxFgggfG79GqY10eOMed8fPOAvHlz027WHQ0O2lJUKYh8YeLcY4RKjOUCbhgo5XkBZ7J2bXqJvWjIxUcXS+OCpyzW4HHRUTnpXsoAL7spOR3mDadv8XTkVG5SU7/Hvtc5iIvuCWOWc3BWf1E9GiujnjExikCCD8zQz/lGIniAHh0xmija2D2c6o2wZJ+mUMvYeS7MC5mD0ydijYNyTJVCpdUBEFQ==;aaw6htHp1Cu1qGE6p3EVYQ=="
 ---
 

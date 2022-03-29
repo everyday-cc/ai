@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/michaelashley/2022/03/26/the-ten-comman
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: Forbes
@@ -30,22 +30,57 @@ images:
     isCached: true
 
 related:
-  - title: "Why you shouldn’t be using AI for hiring"
-    excerpt: "It’s virtually impossible to create bias-free AI recruiting tools. Here are strategies to mitigate the potential damage."
-    publishedDateTime: 2022-03-24T19:10:00Z
-    webUrl: "https://venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/"
-    ampWebUrl: "https://venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/amp/"
+  - title: "Machine Learning and Artificial Intelligence are Driving Recruitment Innovation"
+    excerpt: "Experts say that artificial intelligence and machine learning recruitment and onboarding solutions are seeing a huge increase in demand."
+    publishedDateTime: 2022-03-28T15:25:00Z
+    webUrl: "https://nearshoreamericas.com/machine-learning-and-artificial-intelligence-are-driving-recruitment-innovation/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Nearshore Americas
+      domain: nearshoreamericas.com
+    quality: 50
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281172753.jpg?w=1200&strip=all"
+      - url: "https://nearshoreamericas.com/wp-content/uploads/2022/03/machine-learning.jpeg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "The 4 Improvements Manufacturing Can Realize Through AI"
+    excerpt: "Artificial intelligence is one of the major technological advancements contributing to the growth of the manufacturing sector in the fourth industrial revolution. AI can be widely used in manufacturing to solve the hurdles like long machine downtime and quality issues."
+    publishedDateTime: 2022-03-25T21:28:00Z
+    webUrl: "https://www.manufacturing.net/operations/blog/22132016/the-4-improvements-manufacturing-can-realize-through-ai"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/03/16x9/AI__circuit_board_1145585734_1298x811__1_.623e33653b213.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200
         height: 675
         isCached: true
+  - title: "The military wants AI to replace human decision-making in battle"
+    excerpt: "DARPA, the innovation arm of the U.S. military, wants artificial intelligence to make battlefield medical decisions, raising red flags from some experts and ethicists."
+    publishedDateTime: 2022-03-29T10:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2022/03/29/darpa-artificial-intelligence-battlefield-medical-decisions/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WUZQQVURSMI6ZDO5KIJWTCGSMM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "AI-driven Decision Making in Startup Investing"
+    excerpt: "Bringing AI-driven decision making to startup investing is a hotly-debated topic. Conversations quickly turn to startup investing being an artisan trade that AI can’t capture the nuance of, and concerns are raised that algorithms will exacerbate known biases in the system."
+    publishedDateTime: 2022-03-25T12:43:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-driven-decision-making-startup-investing-guy-conway"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 17
 
 secured: "iACR2rl37dz8jRm6RmxBshkxcmCaIg1DIcR9Q/m3wb5Naj7Ty/w/BwBbHR4zv/2i35xSGveHtBoy3nF/YEpfgdobQDl6dLm8wNXLU2X/JvTfwuBre7AUUbb2K5Mq7f89Jvo7hfu8IpPP+U0AE8RrjOCoU3Pc/oyBkYvAN9r4veNpLP4/JniAUCDFGVMMs6BVQrT8MbwY1ZiK44Q2CDfXkwd5A1sYWM87GDq+eAxONm3gsC5VTGIvysEWnZhRpy+oNZ9Z8NXXRAvevTaLPwH4xcWVEDybdBxjxSG3sSeLBEy/+DRHk69pFb7q6Rx4sN62DxgBQr+FQgp56Gwc8zWSWl9d5x7mkOu6MCzNu9c/6c8BKvWNo8CvGyK5FX9GosJxu0Q2LWLbgiCJ/82DOXxi5CXebtwM9bCv4lrs2EyADwJvi00hDXj1FYT+oY8sASyqlAp+WQuqBpnRYU3bpe5FYXUDuQI5bs2MGnjQvc0ssNfcoDxlHh71Rwke5+4TSSFTLz6Vwamz+fJAbjj+xUH/iA==;yBz+Oauca3gUU4BU9hj0/g=="
 ---

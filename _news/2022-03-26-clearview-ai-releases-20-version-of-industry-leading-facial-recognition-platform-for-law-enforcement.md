@@ -48,22 +48,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Clearview AI’s Dystopian Face Rec Tech Now Being Used to Identify Dead Russian Troops"
-    excerpt: "Ukraine's vice prime minister said the military uses Clearview AI to identify the soldier and then contacts their family via social media."
-    publishedDateTime: 2022-03-24T20:25:00Z
-    webUrl: "https://gizmodo.com/clearview-ai-s-dystopian-face-rec-tech-now-being-used-t-1848697923"
-    ampWebUrl: "https://gizmodo.com/clearview-ai-s-dystopian-face-rec-tech-now-being-used-t-1848697923/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-s-dystopian-face-rec-tech-now-being-used-t-1848697923/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 80
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/663e607278f51154150a1b97d9faab6f.jpg"
-        width: 800
-        height: 449
-        isCached: true
   - title: "SparkCognition acquires of Visual AI platform Integration Wizards"
     excerpt: "HPCL is deploying AI-based visual analytics across its retail network to improve customer satisfaction and safety."
     publishedDateTime: 2022-03-28T07:23:00Z
@@ -107,18 +91,18 @@ related:
         height: 450
         isCached: true
   - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
-    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the System of Record of Workforce."
-    publishedDateTime: 2022-03-29T10:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job/article_2fd5f0bc-7c9a-5a66-ab21-96c17348c926.html"
+    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the System of Record of Workforce. NEW YORK"
+    publishedDateTime: 2022-03-29T12:00:00Z
+    webUrl: "https://kdvr.com/business/press-releases/cision/20220329NY06338/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: FOX31 Denver
+      domain: kdvr.com
     quality: 21
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://i0.wp.com/kdvr.com/wp-content/uploads/sites/11/2022/03/AP22088020686831.jpg?w=2000&#038;ssl=1"
+        width: 1999
+        height: 1342
         isCached: true
 
 secured: "vpSdbv4uy8uJTYIjHFTWBnwZZEZx+8VeqapNqGWPSSm+iiam6jBMndLWhS5oqYCUdR4JAZeqqeYbEGYjPHRQEiLBxF40EbyYFDIcULIWSXsQBeQbAzSAGE4TOIkHySdIA/TXpRchjbIyLanJtMrYNkED1qMCVD2Xh5HWhxTtG8p+bijB4bDBt46adhCrvDIJsjFgT7w1T22fdSS0chd8KJXGoIHggozXx/KHS9pOMOhFFFA1DJDIveqlfE/+saL30L8Vlknol+wAKRW1BVt8PSnpCjXBZmdDyoSvS2+hC0jc9BCAltHHF+XzEAl4t5u/XZt6WCRF52cQixBDGrdYrbVRy8cam5+R1CNoEFSmKkMdmLZ1IcfSvGgXlvxyuJa4I5QzYR0rgwBr8u262QWJz2udWcORn/8Sb7M+QN6vN93be8N0FNA2h1nHTUxSMWdUJSZWpRqnzHn/YPD9Aa3XUJXhxWfsDjrV4X33f6pPH5NOGjAzlO7jRMuEJNxlJy6y86j/2RTC0LmMweBTro1m6A==;f1iDZsOIusE1AW5W6lIevw=="

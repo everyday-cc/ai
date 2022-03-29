@@ -77,45 +77,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Machine Learning and Artificial Intelligence are Driving Recruitment Innovation"
-    excerpt: "Experts say that artificial intelligence and machine learning recruitment and onboarding solutions are seeing a huge increase in demand."
-    publishedDateTime: 2022-03-28T15:25:00Z
-    webUrl: "https://nearshoreamericas.com/machine-learning-and-artificial-intelligence-are-driving-recruitment-innovation/"
-    type: article
-    provider:
-      name: Nearshore Americas
-      domain: nearshoreamericas.com
-    quality: 50
-    images:
-      - url: "https://nearshoreamericas.com/wp-content/uploads/2022/03/machine-learning.jpeg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Better AI, unhackable communication, spotting submarines: the quantum tech arms race is heating up"
-    excerpt: "China and the US are racing for quantum technology breakthroughs in weapons, communications, sensing, and computing that could tilt the balance between the world’s military forces."
-    publishedDateTime: 2022-03-28T19:14:00Z
-    webUrl: "https://theconversation.com/better-ai-unhackable-communication-spotting-submarines-the-quantum-tech-arms-race-is-heating-up-179482"
-    ampWebUrl: "https://theconversation.com/amp/better-ai-unhackable-communication-spotting-submarines-the-quantum-tech-arms-race-is-heating-up-179482"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/better-ai-unhackable-communication-spotting-submarines-the-quantum-tech-arms-race-is-heating-up-179482"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 43
-    images:
-      - url: "https://images.theconversation.com/files/454601/original/file-20220328-15-1u91k6l.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
-  - title: "AI-driven Decision Making in Startup Investing"
-    excerpt: "Bringing AI-driven decision making to startup investing is a hotly-debated topic. Conversations quickly turn to startup investing being an artisan trade that AI can’t capture the nuance of, and concerns are raised that algorithms will exacerbate known biases in the system."
-    publishedDateTime: 2022-03-25T12:43:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-driven-decision-making-startup-investing-guy-conway"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 17
 
 secured: "gzygKWxqyz3lDigEuRguLBlazvvPPP2M4HNP0H30wd/azEhY9aXmV0sMb63QQtvy43Q7wN447+GD+v30J+Oz89CIEK/ijJeTLUnRvq4tDQmasJ/ji2+EFxv8Kvvokw9CKRRyrA16yN/hA+COGegN0056ALelmTsNvjtNtntA+sZKz3mC0h4I/Rl+HqVfZadbChSDwdPiRtJCc1kZtiKR41I1yyUqwxrBGxrvGEt8nWCYYFtPUHVZwRrnrN1ICgc2tDtZgxypxRDFVw8q/A/cV0j4X5CqGap/wqsxGS/lRJqqapDukNy6jsGd1EC9d2Z8NKl8bT5JHb/TCsuDs758Epc+o+/23Uj67T0H3fF9T2g=;eYCDiaLNyvtL39V9wzl7og=="
 ---

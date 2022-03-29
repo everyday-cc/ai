@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/the-impact-open-banking-clou
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/the-impact-open-banking-cloud-and-ai-are-having-on-the-banking-industry/"
 type: article
 quality: 75
-heat: 135
+heat: 105
 published: true
 
 provider:
@@ -74,45 +74,6 @@ related:
         width: 721
         height: 337
         isCached: true
-  - title: "Machine Learning and Artificial Intelligence are Driving Recruitment Innovation"
-    excerpt: "Experts say that artificial intelligence and machine learning recruitment and onboarding solutions are seeing a huge increase in demand."
-    publishedDateTime: 2022-03-28T15:25:00Z
-    webUrl: "https://nearshoreamericas.com/machine-learning-and-artificial-intelligence-are-driving-recruitment-innovation/"
-    type: article
-    provider:
-      name: Nearshore Americas
-      domain: nearshoreamericas.com
-    quality: 50
-    images:
-      - url: "https://nearshoreamericas.com/wp-content/uploads/2022/03/machine-learning.jpeg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Better AI, unhackable communication, spotting submarines: the quantum tech arms race is heating up"
-    excerpt: "China and the US are racing for quantum technology breakthroughs in weapons, communications, sensing, and computing that could tilt the balance between the world’s military forces."
-    publishedDateTime: 2022-03-28T19:14:00Z
-    webUrl: "https://theconversation.com/better-ai-unhackable-communication-spotting-submarines-the-quantum-tech-arms-race-is-heating-up-179482"
-    ampWebUrl: "https://theconversation.com/amp/better-ai-unhackable-communication-spotting-submarines-the-quantum-tech-arms-race-is-heating-up-179482"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/better-ai-unhackable-communication-spotting-submarines-the-quantum-tech-arms-race-is-heating-up-179482"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 43
-    images:
-      - url: "https://images.theconversation.com/files/454601/original/file-20220328-15-1u91k6l.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
-  - title: "AI-driven Decision Making in Startup Investing"
-    excerpt: "Bringing AI-driven decision making to startup investing is a hotly-debated topic. Conversations quickly turn to startup investing being an artisan trade that AI can’t capture the nuance of, and concerns are raised that algorithms will exacerbate known biases in the system."
-    publishedDateTime: 2022-03-25T12:43:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-driven-decision-making-startup-investing-guy-conway"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 17
 
 secured: "+dusDNZiiknnyYoIirMwLCGGvDpd47T1cd8ouQHygaBxN1UGFpBzn7lxjp+Oo5H/hcGSh5vLglzyiGZEz9JIxmrZweLGMtbGfNAfDtSFQyRiv50DvQazUFBawdUtmF1Wy9x9kMUzcXDNvG5rMYPUxMxDRjigQuX9WeTeakQSlji3q3wKpR/7Kf7AkCo0lc66PVGLxr+Sf3Isb2rzvvKLpf9KmcU+jd1DH2eKVkaYeWZUPSwcZpS99zglfycsP7wiW8E98ax8k+ilG8kJtxNc0HfyoanUk/FVCnptlRXaqsrgL19TRttzn/Zx/HBrZGMH171fyB+YhhRkuHRgmWIdLT6VwXgByaEkB59734qgGX8=;PT25Y2rOGWt7Qz0rbuTVyA=="
 ---

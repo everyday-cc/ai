@@ -152,6 +152,20 @@ related:
       name: openDemocracy
       domain: opendemocracy.net
     quality: 50
+  - title: "The West and Russia Face Tough Choices in Ukraine"
+    excerpt: "No ceasefire, other than simply one permitting Russia to replenish its spent and starved forces, is possible, unless its terms form the basis for terminating the war itself. Vladimir Putin, however, appears to be an immediate hurdle."
+    publishedDateTime: 2022-03-29T13:05:00Z
+    webUrl: "https://nationalinterest.org/feature/west-and-russia-face-tough-choices-ukraine-201477"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 39
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/ukraine_38.jpg"
+        width: 1100
+        height: 733
+        isCached: true
 
 secured: "k0HXldqx8NnhlmQZi5rWv1rygLhnGJVSV4TqFhCsYdakv+dDt/tfFyqaQa5EtUR+OK4CQsPBAANt8/WhypQWa9ibzpDlku3QihhkQ7qDL1EL6jV6V2RIOMdV/kEHj7U7cod84pzmOQ3Z4rZdJ0Aum0NjlkqzPYqWU6Vq2cmDck7Gs+6mY0ozlcCkJpazk/DinMyWdHYbbnuo32zhwiliFj4aLI2RLUdN8ufbSSlhRdC2keSSiI4Bc4RH+FQxI+u/40P7bp4L7XxxASVkvIO8pqjbSPWbWH9Mxh84+GsiWWiKM2G6ZdpNm8jxGLVuwtlTikBP8+m9/p26uA1e5NNz3dT6PcKgzes7inGTJUz5X0s9vAWPExCA5SwCfGFYjvJ1giYhvTNERhMBz1eDqWT7wS6PnWWONYYltbIEhDuNMS67F5H9O4PfMfhfHA5CRKX52Z4oyOz49CMLA7nMMdZmJA1U6q5/2nCqTGkANGrsP2Qq2NT4hX4hYSBTZuF1objgbA2O5wz87sOEeq4D7tnmyg==;8/roGTTB5r7EF/9abFjITA=="
 ---

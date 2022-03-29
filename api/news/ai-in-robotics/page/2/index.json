@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-17-global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5.md",
+      "title": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Up 5%",
+      "excerpt": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating)’s stock price shot up 5% during trading on Wednesday . The stock traded as high as $27.86 and last traded at $27.86.",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/03/17/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5/",
+      "originalUrl": "https://www.etfdailynews.com/2022/03/17/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/03/17/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/03/17/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5/amp/",
+      "publishedDateTime": "2022-03-17T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-robotic-fish-designed-to-enable-efficient-offshore-inspection-regimes.md",
       "title": "Robotic fish designed to enable efficient offshore inspection regimes",
       "excerpt": "Verlume has joined with consortium partners to progress the development of an autonomous underwater robot that moves like a fish to enable efficient offshore inspection regimes in harsh and hard-to-reach environments.",
@@ -490,24 +533,33 @@
     {
       "path": "_news/2022-03-15-intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale.md",
       "title": "Intuition Robotics Launches ElliQ, the Award-Winning Care Companion Robot, for Commercial Sale",
-      "excerpt": "Intuition Robotics today announced the official commercial launch of its digital care companion, ElliQ which is now available for purchase via elliq.com. ElliQ, the sidekick for healthier, happier aging,",
+      "excerpt": "NEW YORK, March 15, 2022 /PRNewswire/ -- Intuition Robotics today announced the ... ElliQ then proactively motivates them to take control of their physical, mental, and social health.",
       "sourceUrl": null,
-      "webUrl": "https://www.klfy.com/business/press-releases/cision/20220315NY88718/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale/",
-      "originalUrl": "https://www.klfy.com/business/press-releases/cision/20220315NY88718/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale/",
+      "webUrl": "https://ktla.com/business/press-releases/cision/20220315NY88718/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale/",
+      "originalUrl": "https://ktla.com/business/press-releases/cision/20220315NY88718/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png",
+          "width": 600,
+          "height": 207,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T05:06:00-07:00",
+      "publishedDateTime": "2022-03-15T04:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KLFY",
-        "domain": "klfy.com",
+        "name": "KTLA",
+        "domain": "ktla.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1281,50 +1333,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-harnessing-ai-and-robotics-to-treat-spinal-cord-injuries.md",
-      "title": "Harnessing AI and Robotics to treat spinal cord injuries",
-      "excerpt": "By employing artificial intelligence (AI) and robotics to formulate therapeutic proteins, a team has successfully stabilized an enzyme able to degrade scar tissue resulting from spinal cord injuries and promote tissue regeneration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/03/220307113045.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/03/220307113045.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 261,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-07T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

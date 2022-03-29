@@ -24,15 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Blockchain Market, Global Outlook and Forecast 2022-2028"
-    excerpt: "The global AI in Blockchain market was valued at million in 2021 and is projected to reach US$ million by 2028, at a CAGR of % during the forecast period. The U.S. Market is Estimated at $ Million in 2021,"
-    publishedDateTime: 2022-03-28T07:46:00Z
-    webUrl: "https://galleonnews.com/news/241686/ai-in-blockchain-market-global-outlook-and-forecast-2022-2028/"
+  - title: "The top 8 search topics on Bloomberg's AI-powered Research Analytics Platform: What analysts are looking into"
+    excerpt: "Financial professionals, specifically analysts, need quality data and information on emerging trends to keep their competitive edge."
+    publishedDateTime: 2022-03-28T15:58:00Z
+    webUrl: "https://www.bloomberg.com/professional/blog/the-top-8-search-topics-on-bloombergs-ai-powered-research-analytics-platform-what-analysts-are-looking-into/?tactic-page=597225"
     type: article
     provider:
-      name: Galleon News
-      domain: galleonnews.com
-    quality: 17
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 28
 
 secured: "+unX48hmmakE4To9PKMGXbr+mR2cZtNvzLQRqyd9Q8JSo/9CpB+ko07hanq2LT2YUNYS9xcBbvjRw8jz2zSZ0Eq8G1mm1Xbh4mbbzae9omtkqhH5eedoFMe6iatrC6KC3lW5bUy6sUI709evlmrbNQ79jmtO5YaViA49WPOC+CxoekFXejdetkafiMd+nvTZbNyrCt9lI83EBfq0EtY/y6wXEms2PWZXpE099dOh6LTF+Tff+z0+NrHIeRNHL55MYrMZC2dlmde2PW2U1LQVBWfM4uo7Cvg3le8ANf3FBhsvw5Z+rSBBR6kRJDFEw0SsjSYU7wY3E/5iyGhEZ3+T8yKvthbdIO5CtddrxTM86lw=;O1nC9LUN322cL+nHP9qECA=="
 ---

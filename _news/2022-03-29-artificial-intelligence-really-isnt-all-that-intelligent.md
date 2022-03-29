@@ -8,8 +8,8 @@ webUrl: "https://www.infoworld.com/article/3651357/artificial-intelligence-reall
 ampWebUrl: "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.amp.html"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_automation_thinkstock_643956998-100749919-large.jpg?auto=webp&quality=85,70"
@@ -30,6 +31,6 @@ images:
     height: 800
     isCached: true
 
-secured: "0N5bqqmEpNXusUJzIbxzR3CKNvEVZ+yP6RtUhdp2E58o/xDDylqnati8hNypjQi4yRg0vwKuhhRNZMBjvwNoo/ffVsuK3ZymtE8CVUNi1FaIyFJZMz6w5b6kto1m2Q9H04+79sQFbkYB57wbwaVCKSPqvCWFiR0ryObf79HkCaONve0OyS3fTGahe/+apR9jsNCSfAdas62A/mVYhynBNG2qpIz1aJneT7ItNaG5z0nK/9JqZqFh21pLSPfxV5v2IzrfvgwcOwLgTUlOgt/wk45/aJRgXLURBZLWSwKLEp2Jj8jkehEC5mMNt+Yc6Qkwz68elNG9h53Urt5v918aWhVg/YwRpSu1bT0QiJtgpJc=;UKKj/u5xPEEdB4Nnw7s+SA=="
+secured: "9sfwrxNzK+5H5A2Z5Xx7M85IK57eqvlbghNboBxpdCNUVoXEAW5OgZpWFw9i851pJG8qJPgSsc+8iJx+VtR1oMfh6YdE5MPns0s2uCiKWzDJefro1I1pZF/FHCCMFaYegWvBGAIZofa147gvzRVni8ppJ2aBpNDp39ispvXjGo8CpFkP/4J918t4l8OPXcFZhEBFbSNGxKzJIoMu4a3w9uX9Bm5quHmp7eJz/vdooxanwgYBt52SSFBL7SwTFdxDu4+H+jAAy9gyatswecOTivWmsrEvnhYOAQcuI8rMlHvkqv24fXfoXyNwHH/p4j1AocDkg6+T+fL8lpmpPCLCtHX+MB3q0uPYg79eyiMjfihNichXcbFa3meTh47HmQROeU56RRYIZ96MIXiCZtPfWTJxdJQnHs18LRSEi73hwihPKxHaefknJejOvvGbj9QmY9U0/Hexsa9CewXB9aRHx9Sr0EN7oib3qSNjYq0JFSx4V4ajRv3vZ/O47lvWP/jsxvkXoIAzq/C3d3clsdSKUw==;QmKz5Y2JrLeLSdDVyrTDlQ=="
 ---
 

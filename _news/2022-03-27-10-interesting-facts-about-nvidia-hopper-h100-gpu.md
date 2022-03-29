@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "NVIDIA Launches GeForce RTX 3090 Ti GPU"
+    excerpt: "NVIDIA launched the GeForce RTX 3090 Ti GPU, powered by Ampere—NVIDIA’s ... those building research systems for data science and AI, or processing large data sets, and those making massive ..."
+    publishedDateTime: 2022-03-29T13:01:00Z
+    webUrl: "https://worthplaying.com/article/2022/3/29/news/131286-nvidia-launches-geforce-rtx-3090-ti-gpu/"
+    type: article
+    provider:
+      name: Worth Playing
+      domain: worthplaying.com
+    quality: 19
 
 secured: "jhUbg4iodhPAzkMP6IIdl8yFIo0HYnoF5GbTqNCFTbUHmlxEa6tvaJv/kYcmEPU7COOSRauj1OFZtlRmT3SS29+VGtqueb4/HcD5kcebnOf7iQTUNwcGS7O817UblJedl34rCjhM8O4uVI1ts8h6dVEcZuYUveBOXTEGSf75aj3GDn3ZZ9KoX8NqIL1KfqFtZxhNYqVhfAAvrl0BcsuGLjjO5x21q7Z2tURNRdzsldZL2nMQxJI1ld7fzx3021TSn/kV1nN5WjgdLqlHGbMi5pydkaWAB7wzzBfCSRyQcOOEwAXyLGQ0GJeD2EiHHyuRQY666gv332i7wvYsalecitRwX6All2Imy28Es+KkgJHdYvaxpj1N6Ckbd5Um50mnBuG5ot8VYM6CWTL/vYRkfS27Vq9q6nK4UvJepZ0YKghmwQ3MyvfFZw9UVp4pi6LbBZLj0rTAEf+D+Oy1TO8xA+D2fz55Q7Rz6nOOCThjeMfIoj48poSfVq3tshCG6PdUflYan7Kgp5w6Wg95ze/bjQ==;Kt2JVazIC9NEohOysBfQMw=="
 ---
