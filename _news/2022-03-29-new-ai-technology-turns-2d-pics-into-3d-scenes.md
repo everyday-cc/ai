@@ -97,6 +97,20 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "Nvidia says its AI model can turn 2D photos into 3D scenes in seconds"
+    excerpt: "Nvidia said this tech could create virtual world avatars, reconstruct scenes for 3D maps or train self-driving cars about real-world objects."
+    publishedDateTime: 2022-03-29T10:51:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/nvidia-ai-2d-3d-photo-research"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/03/NVIDIA_Research_Instant_NeRF_Image.jpg"
+        width: 1201
+        height: 655
+        isCached: true
   - title: "NVIDIA Instant NeRF tech converts 2D photos into 3D scenes in the 'blink of an AI'"
     excerpt: "NVIDIA Research has unveiled its latest AI technology, Instant NeRF. It is faster than previous NeRF models and can turn a series of 2D images into a 3D scene in seconds."
     publishedDateTime: 2022-03-25T20:21:00Z

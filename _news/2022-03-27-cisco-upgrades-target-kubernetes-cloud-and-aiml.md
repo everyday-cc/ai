@@ -7,7 +7,7 @@ originalUrl: "https://www.arnnet.com.au/article/696496/cisco-upgrades-target-kub
 webUrl: "https://www.arnnet.com.au/article/696496/cisco-upgrades-target-kubernetes-cloud-ai-ml/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 487
     height: 315
     isCached: true
-
-related:
-  - title: "Cisco Rolls Out New Systems As It Pushes Its Own Kubernetes Stack"
-    excerpt: "There are no shortage of options for enterprises when it comes to Kubernetes platforms. Red Hat has OpenShift, VMware has Tanzu, and SUSE has Rancher. And"
-    publishedDateTime: 2022-03-24T17:58:00Z
-    webUrl: "https://www.nextplatform.com/2022/03/24/cisco-rolls-out-new-systems-as-it-pushes-its-own-kubernetes-stack/"
-    ampWebUrl: "https://www.nextplatform.com/2022/03/24/cisco-rolls-out-new-systems-as-it-pushes-its-own-kubernetes-stack/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/24/cisco-rolls-out-new-systems-as-it-pushes-its-own-kubernetes-stack/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 44
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/cisco-intersight-datacenter-logo.jpg"
-        width: 626
-        height: 348
-        isCached: true
 
 secured: "+wldvXFy+1fQhlYBGBWyfH36lxC40kCYOjbR3GZhy1Nckwo8Jze4evGsdQ2j79bqdOA9oiGMJzmYaeqJrt5QvUtE9jCYDrBdyDTerYuVNPaCEkoWPZvKw21wf0fWCWjhU9oZb4gS3CnSI/dpudV75UJ6/FwnJygJIR3VW8fya9EK/fAmsNjv26JUJUQvcbt9pWuWYIM6wdqjYULVMXgUFIkQvVx1ekQlzcLxXAsZl+DD1a6ifn3Njjzg3J2vbYRnmr1BUTSBds2mEB/B3k8xiNuOOkOrkS529mgnhOMZkTpkVim5555ZJ8D0ktBW3m7R4prgzh+xVNaT/mBeq0KvqtXZ/v2CkTR3nMnmlHLYq0A=;fdk0V2RSqA1nWHmPNmekpg=="
 ---

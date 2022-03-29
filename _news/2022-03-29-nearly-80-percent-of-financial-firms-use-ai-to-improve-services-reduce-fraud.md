@@ -9,8 +9,8 @@ ampWebUrl: "https://www.globalbankingandfinance.com/nearly-80-percent-of-financi
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 56
+published: false
 
 provider:
   name: List of Banks in Belarus
@@ -25,36 +25,6 @@ images:
     width: 700
     height: 500
     isCached: true
-
-related:
-  - title: "Vulnerabilities arise in financial services as AI and machine learning use balloons"
-    excerpt: "The scale at which financial services firms are adopting artificial intelligence and machine learning continues to grow, bringing with it new dimensions of risk"
-    publishedDateTime: 2022-03-24T17:51:00Z
-    webUrl: "https://www.risk.net/market-access/technology-and-data/7942636/vulnerabilities-arise-in-financial-services-as-ai-use-balloons"
-    type: article
-    provider:
-      name: Risk
-      domain: risk.net
-    quality: 50
-    images:
-      - url: "https://www.risk.net/sites/risk/files/styles/metatag_image/public/2022-03/GettyImages-1084580876.jpg?itok=_os7FtmX"
-        width: 378
-        height: 234
-        isCached: true
-  - title: "Vulnerabilities arise in financial services as AI use balloons"
-    excerpt: "The scale at which financial services firms are adopting artificial intelligence and machine learning continues to grow, bringing with it new dimensions of risk"
-    publishedDateTime: 2022-03-24T17:26:00Z
-    webUrl: "https://www.risk.net/market-access/technology-and-data/7942636/vulnerabilities-arise-in-financial-services-as-ai-use-balloons"
-    type: article
-    provider:
-      name: Risk
-      domain: risk.net
-    quality: 39
-    images:
-      - url: "https://www.risk.net/sites/risk/files/styles/metatag_image/public/2022-03/GettyImages-1084580876.jpg?itok=_os7FtmX"
-        width: 378
-        height: 234
-        isCached: true
 
 secured: "H50NSmwkcP5rxdLRe8GzeOpCWo/MCX9IvL7zGamCsuZpHcHRRS0rYtdtFWFU+66CAOuBPd8gaMXd/XPj2xq39ReBa0vnFvhld3CYW/iR1lvLAogYfQDtZVOucIwqm2IHX450cpe8ghq19TVtJjPFfTzmiqgBbN6MbhJYTcAurybNw5LHaFmIweA5RM9JFqbqMcfQO+MTsD1vS+FFR98c/2fYk1IDmJSuuvU/d8cI4NL1ZpWkEHv+UjzoNdqz2QCgp+BxhUKWE5bMorcoUJS10FqrLGP9INf3dcTLlgjAbSeuTmyThN/fg89WisbFziwh62gIwZN5zg32HW/Li0QOuGgdO/M93LqEcLGY7cWJP64=;/DN07NMxhmXioYjyjg42SQ=="
 ---

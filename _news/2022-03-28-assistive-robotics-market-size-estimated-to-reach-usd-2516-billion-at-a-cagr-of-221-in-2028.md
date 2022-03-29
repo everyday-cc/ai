@@ -39,6 +39,34 @@ related:
         width: 643
         height: 422
         isCached: true
+  - title: "Deep Learning Market: $179.96 Billion by 2030, at 39.2% of CAGR"
+    excerpt: "Cumulative spending in the healthcare, travel, tourism and hospitality industries present new opportunities in the coming years. Increase in computing"
+    publishedDateTime: 2022-03-29T10:56:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-179-96-billion-by-2030-at-39-2-of-cagr"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/15a44ea548b6d083a148f7c8b0969d98af09a227-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Industrial Robotics Market to hit US$ 48,166.9 million, Globally, by 2025 at 14.2% CAGR: The Insight Partners"
+    excerpt: "The Insight Partners published the latest research study on “Industrial Robotics Market Forecast to 2025 – Global Analysis – by Types, Function, and"
+    publishedDateTime: 2022-03-29T11:29:00Z
+    webUrl: "https://www.digitaljournal.com/pr/industrial-robotics-market-to-hit-us-48166-9-million-globally-by-2025-at-14-2-cagr-the-insight-partners"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 35
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/15a44ea548b6d083a148f7c8b0969d98af09a227-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Generic Oncology Drugs Market Are Anticipated To Rise at a Steady CAGR Of 6% from 2022 To 2028"
     excerpt: "Generic oncology drugs, being able to detect and treat tumors, are utilized extensively in the healthcare industry for treating cancer. Notable"
     publishedDateTime: 2022-03-28T13:44:00Z

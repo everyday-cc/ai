@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Forbes Names Landing AI a Top Startup Employer"
-excerpt: "Landing AI, which provides software that makes building and deploying AI solutions in manufacturing fast and easy, today announced that it has been recognized by Forbes as one of America's Best Startup Employers 2022."
-publishedDateTime: 2022-03-16T21:26:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/forbes-names-landing-ai-a-top-startup-employer/article_8b36efb0-21fe-5f75-880c-2781ca79f9a9.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/forbes-names-landing-ai-a-top-startup-employer/article_8b36efb0-21fe-5f75-880c-2781ca79f9a9.html"
+excerpt: "Landing AI, which provides software that makes building and deploying AI solutions in manufacturing fast and easy, today announced that it has been recognized by Forbes as one of America’s Best Startup Employers 2022."
+publishedDateTime: 2022-03-16T21:27:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-9e2f09776c74103a11aeceacbaf1e95f"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-9e2f09776c74103a11aeceacbaf1e95f"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "cWJwa1RMnV/wnLTrSJ6Kvsf9ejRzdZTRKng/egGrA5wbMx45HnjGM6mknEFMNC/onrwJYXHaLcsrTmA98rW/DDS/8nnSSCrIkyVO0Kdbl6IK08RA5TxSx6dtpbHpzYIcw7j1M3593g3hqK9FS5Qb3d3K6+KttVwbqFzYL76gUByoSg0vI1TjqrP3B3gPY8qxthfGYl399nDrCIGbf/2weoh80Y7nPfKO6jy7aCM+EmzPOP9UZPkOWBn+aI4bNit1MlXiSSW5CdhqQGY7+QYyXdwg/sLArKWg9UgfnKnQUyud0U4zhnaiujdH1499t42EVb1bPQ8fDzR+UqtUATP719A1MS9CkVhOeIVfeJybdaniv/gJ3tOv9tovwU6B+6rh89dfvb+Gfg1ZcFAm1xJ3sA5bYPilkv3hPkM/vOLzE2AxLBWikoFQLpQb9W1gnAEOKaFctv1VUfXNkY3iv+u+MM/Dt9lgaTIO46vAHXPM3WF2NWcRr0LRLfo7ytbDileQQkY7Tt1bl3UBBjIHMb2Epg==;XAvBuh88AgbK6WpYaa8Eyw=="
+secured: "2PQ51CVMKgQjEaLt/w2LIC7VV8X7alE98T5LahesUfNlUSaxLetv4Z6EM/NHAc+0zDuxU7+c7HZqvT/2KGPn40UFkpGRMUBw9jIGPpEYTIXHuhJh7yDR9VR4l+dwVS5FGd4MBmHbx0Zu4MOtHKpMIa/RI81DtStcxFOlKU8YYKn+XVlwl4YJLYrWwpiOeJJ6xA9DrykCTzAAWbOdeK8Y2YfbC68+pekmxrrq01vUw/iOSxw6G73gFj78J9Vb4dHmgkFtifsVISquEKPPOBB34jQ3UpDpQATE53zIRzyq15WPlBKNjpJmGC6Av3N+levjqKWMDFruACHqeX4WPah/emSdegLdkJHVqeUdsAll8/E=;zfEsnC0ZOoaKlctO4u8C4Q=="
 ---
 

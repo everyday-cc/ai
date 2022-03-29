@@ -64,20 +64,6 @@ related:
         width: 800
         height: 449
         isCached: true
-  - title: "Clearview AI facial recognition being used to deliver news of Russian war dead to families"
-    excerpt: "Ukraine military is matching images of Russian soldiers killed in combat to social media profiles with Clearview AI’s biometric app."
-    publishedDateTime: 2022-03-24T17:11:00Z
-    webUrl: "https://www.biometricupdate.com/202203/clearview-ai-facial-recognition-being-used-to-deliver-news-of-russian-war-dead-to-families"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 44
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/24130344/ukraine-war-zone-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
     excerpt: "Clearview AI’s database now features more than 20 billion facial images. Clearview 2.0 offers new compliance and investigation management tools for law enforcement agencies."
     publishedDateTime: 2022-03-25T19:26:00Z
@@ -119,6 +105,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
+    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the System of Record of Workforce."
+    publishedDateTime: 2022-03-29T10:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job/article_2fd5f0bc-7c9a-5a66-ab21-96c17348c926.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 21
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "n51S78z1Mmk4JM8F/5lLK2jzFKCMpZPqVwRh7qY6qK3m3GB3VkB0KtEgRK51PlVMBcR7BMx2C83ZcRsHTuuL03PKl/bUwgHIRMxuBBl4w+uOJ0W9t7EKPBjBrHYUJjXCf2dIvK4wTLvmjxps7wG3EbFl9ggmPbfd+TxO8hcDBDxRCLWQBZxGY8iyuvjAw28nBEWOG+v/P8WMzH/9VQbeOczcvsX9hwT1VX562U4JwK8qYhuu8o1ks03ucgh+kim/EP69euntG2/d1C1LE6lVSBayzoXcFoWiqwArM7uBVJezq+Cxcx/IuZ72ruINeIK714dSH7vqibPL7XvEnQKAt+2f4GLWKj5DxWQJA0FXYoI=;vfzjEdMV4o2psdoG70COnA=="

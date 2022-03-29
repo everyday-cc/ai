@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "3 Best Fintech Stocks for a Portfolio Boost"
+    excerpt: "Rising interest rates and higher inflation means you're looking for more opportunities to invest, maybe in niche markets. Why not consider fintech, short for \"financial technology.\""
+    publishedDateTime: 2022-03-29T06:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/423314"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-423314.jpeg"
+        width: 1000
+        height: 603
+        isCached: true
   - title: "From being a niche previously, fintech has become the new normal"
     excerpt: "Over the last five years, the growth of fintech startups and solutions has resulted in a fundamentally new and altered financial services sector. Customer expectations are changing, competition is fierce,"
     publishedDateTime: 2022-03-26T12:30:00Z
@@ -109,6 +123,20 @@ related:
       - url: "https://assets.bizclikmedia.net/1800/f4eeb53075c3c0944ddd42a4aec76333:be21c30c397a8c807801fb0947bcad80/gettyimages-1283432364-1.jpg.jpg"
         width: 1799
         height: 1010
+        isCached: true
+  - title: "25/03 – Weekly Fintech Recap"
+    excerpt: "Partnerships Yapily Partners with NayaOne to Offer Open Banking Connectivity Yapily announced a partnership with NayaOne and their Digital Sandpit. The partnership provides hundreds of organizations with access to Yapily’s next-generation financial data and payment initiation solutions."
+    publishedDateTime: 2022-03-25T09:42:00Z
+    webUrl: "https://financialit.net/news/digital-banking/2503-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_5.jpeg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "svoatVkudb/wnNdxUBP0UnRHDZP+/Qqcaro4CmMisBmNQBKw8ZZKz9dZ9A3PdIwYnV2tzZOjr7hlEQKJjmP2eaXk8GAMOZCDoi9xZLFNxAn71jDF2ecoFmTwQjO19XnoMgrZHo8f004AETj/njs43a0kQfa2zrTxJLPxDfPXM24drDwlbZtZKgwRaxKVwlsZlaIFOhz8FtjBZADBdziwm2mswzMhsrYBhr+MGymxljFA2LdLutzMWxZHg8d8Uh3wHD4/PSWwXXYget/P93w3sUF4cMp5ehXlpyKuTLcZ33yphjSkaqYnEquDzlenhO3FZCViuU9gPH/XpqKoGL4h5V3FrTOLH4XbB8zTANXkCgk=;IeKh8MCGbFnJR4Ec3X0sHA=="

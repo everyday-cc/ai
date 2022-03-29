@@ -1,20 +1,21 @@
 ---
 category: news
 title: "Zoomd Announces the Acquisition of Artificial Intelligence Marketing Platform \"Albert\""
-excerpt: "Zoomd acquires substantially all of Albert's assets in a cash & stock transaction; The acquisition adds several Fortune 500 companies to Zoomd's client base; Albert's strong focus"
-publishedDateTime: 2022-03-28T12:54:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/03/28/9571440.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/03/28/9571440.htm"
+excerpt: "Zoomd Technologies Ltd. (TSXV: ZOMD) (OTC: ZMDTF) and its wholly-owned subsidiary Zoomd Ltd. (collectively, \"Zoomd\" or the \"Company\"), the marketing tech (MarTech) user-acquisition and engagement platform,"
+publishedDateTime: 2022-03-28T12:45:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20220328io05315/zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20220328io05315/zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
+  - Facebook AI
   - AI
   - AI in Marketing
 
@@ -40,6 +41,6 @@ related:
         height: 400
         isCached: true
 
-secured: "CNStDNUcmLVhnxknWVVSuw4MB+zR4AzzlvP90n6a5NOpx8zSNXZrOrGvDFppHxHG+QuqyuFJjhBvbpW8NxdGRkdYEagQ+4hiiKmd0HPQCf8ndGYKCDU75FfgD3+xISzMun6oCrqfH7He7epD9iibG3bHPbrvMsaKPSZBrcsnIj2qYusrp37Lo+kgrY9pYFZOCxpT3HKPUOZLum/ZyfbSHSrgDLIL/tUW/ia1mQrXMLEvfGxJNWhmcqNDmU0BowPFrXpNoeOK+dp5Xc8qxd9kx2XMLJHabfOXwze6+Xj2BcurV+/aKmTN6tr+qQqZ6MAoSCGzp0fRAASB1iJ7Rs/RLWP4TwhCvGERoMDNyulIMLk=;w2SJP2567Nj9CinrbEWJvg=="
+secured: "kXe2EsJndLEQdFRTfZ4geR97UdpxioIa9XUmScCb/0ku2Z099sOFA1IQz8ZQ2Pw1FQ3U24+CLmR6JiNSPlZSp8HXmpE8mCgVUXu8NOaCHZo7j9YJscibla5IlKJRpAFWwGnE+3pgTh3mIAltq1eoxRz9c1F8qUcYri4J0qwnymtRPTlb90l9oVxM+N8t+Fua0taXJDGQ2a9nt3P/XPh3SOv2uR/wLxx+toOnDKMaPxBYKi0XCfatU5NYL7LmkFppZS54bdC1bpxEU4lOiAu7vsmFA9ncUmtu//+alSx/d2WbfoL7L5EnBZfHsi7TNszZ63q/oXFgu0ISn+eapw/61RdH6VIlGUYeg9nFmrFGYCc=;MlrtNqfRqFb7mIfeIm2yaA=="
 ---
 

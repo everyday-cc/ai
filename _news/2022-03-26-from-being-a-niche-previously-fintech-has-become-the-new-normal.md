@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "3 Best Fintech Stocks for a Portfolio Boost"
+    excerpt: "Rising interest rates and higher inflation means you're looking for more opportunities to invest, maybe in niche markets. Why not consider fintech, short for \"financial technology.\""
+    publishedDateTime: 2022-03-29T06:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/423314"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-423314.jpeg"
+        width: 1000
+        height: 603
+        isCached: true
   - title: "Brex Helps Zesty.ai Scale With $10 Million in Growth Capital"
     excerpt: "This deal marks continued momentum for Brex Venture Debt, which Brex launched in August 2021 as a way to help founders take their business to the next level. It helps growing busi"
     publishedDateTime: 2022-03-25T00:21:00Z
@@ -95,6 +109,20 @@ related:
       - url: "https://assets.bizclikmedia.net/1800/f4eeb53075c3c0944ddd42a4aec76333:be21c30c397a8c807801fb0947bcad80/gettyimages-1283432364-1.jpg.jpg"
         width: 1799
         height: 1010
+        isCached: true
+  - title: "25/03 – Weekly Fintech Recap"
+    excerpt: "Partnerships Yapily Partners with NayaOne to Offer Open Banking Connectivity Yapily announced a partnership with NayaOne and their Digital Sandpit. The partnership provides hundreds of organizations with access to Yapily’s next-generation financial data and payment initiation solutions."
+    publishedDateTime: 2022-03-25T09:42:00Z
+    webUrl: "https://financialit.net/news/digital-banking/2503-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_5.jpeg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Top 10 Most Promising Fintech Firms in India 2022"
     excerpt: "FinTech firms are technological alternatives to traditional financial firms’ back-end systems in the twenty-first century. Find out the top 10 most p"

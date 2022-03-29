@@ -21,6 +21,7 @@ topics:
   - AI in Autos
   - AI
   - AI Ethics
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/622a4da448f19c30f3859096/0x0.jpg?format=jpg&width=1200&fit=bounds"

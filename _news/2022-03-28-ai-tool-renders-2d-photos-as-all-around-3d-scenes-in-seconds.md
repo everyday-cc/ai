@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/photography/nvidia-instant-nerf/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/photography/nvidia-instant-nerf/?amp=true"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2022/03/nvidia-andy-warhol-tribute-black-sweater-polaroid-camera.jpeg"
         width: 1068
         height: 601
+        isCached: true
+  - title: "Nvidia says its AI model can turn 2D photos into 3D scenes in seconds"
+    excerpt: "Nvidia said this tech could create virtual world avatars, reconstruct scenes for 3D maps or train self-driving cars about real-world objects."
+    publishedDateTime: 2022-03-29T10:51:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/nvidia-ai-2d-3d-photo-research"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/03/NVIDIA_Research_Instant_NeRF_Image.jpg"
+        width: 1201
+        height: 655
         isCached: true
   - title: "New AI technology turns 2D pics into 3D scenes"
     excerpt: "When the first instant photo was taken 75 years ago with a Polaroid camera, it was groundbreaking to rapidly capture the 3D world in a realistic 2D image. Today, AI researchers are working on the opposite: turning a collection of still images into a digital 3D scene in a matter of seconds."

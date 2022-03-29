@@ -25,6 +25,22 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "Lt. Gen. Michael Groen, Joint Artificial Intelligence Center Director, Gets 2nd Wash100 Recognition"
+    excerpt: "Executive Mosaic has featured Lt. Gen. Michael Groen, director of the Joint Artificial Intelligence Center, in the 2022 Wash100 class for his AI enablement vision. This year marks his second consecutive selection to Executive Mosaic’s annual list of the most influential figures in the government contracting sector."
+    publishedDateTime: 2022-03-29T09:54:00Z
+    webUrl: "https://www.govconwire.com/2022/03/lt-gen-michael-groen-named-to-wash100-for-2nd-straight-year/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 23
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2022/03/unnamed-file-17.jpeg"
+        width: 1200
+        height: 628
+        isCached: true
+
 secured: "5MfUr8ocL33RyL8PnOXSW/+ataXuWK73GO1Ueu9AKBzr2pXsxuyVGpdtlkCiPEiOkrcpxkqeNLeoaYzi/89vqPOzIylB6KQWEnBt9n3wgaOAJW2cO6tRrGueC5LNVDpCxS32nfQWv5lyAbztoUlhfDj2GTb7KbUSQ0NWD5MaeWkYzXw2UQfjqL0EO5jRp4zhOwEIFgkjPBHa+RoleTX0KKoaJnlCVAvrs5jbRqa7LUENiopFI11smdjxs6UfxIHe6FFLIhbHnfslZKS8E8JzwULJ/akzhiQRl+mpnFWJ9xOostml1/BmM0lBvesXxpGwiwOqK6jEq6fjoQkrK+ER4WkNG7z+nTeZw01Oiad0YyE=;k0MDKR/Wqg3oSC/oQiPhzQ=="
 ---
 
