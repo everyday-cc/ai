@@ -2,7 +2,7 @@
 name: "Tanium"
 overview: "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale."
 type: "profile"
-heat: 31
+heat: 77
 
 website: https://www.tanium.com
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Tanium"
 
-secured: "KOcB1odUefX0aKTpUA3UNAwhjiJR+cjTiqM5SOJPQR2PPJTzpY9hhWcD7x7CjHUOQBIc1Gt0FWXN+5rq+s8siZBdhBhiZ9rxEgp8Do28yYlhkV140TDPGH3uqZ+suWOPkQT8+xDe1gfYkm0nJ8NHHTtJvtoOmTbQzy830EAqiO1gBe+8ISEIHGXLrWOE0U+pNlOcLwZ9vhJe36krTDFaK8TBIiIQR8l/kDCCKJZu2AU3SxyGiyeLvdOc/AWFKz4N+WnT40uGpx1lRvkpORif+r07ChZHQyBE/ATRrQL1GmGV0musN5j8CkwJJDz2aUgrx9Kxa5VFS1vot6TNwT6zGYtDAI4f2cCFNtlJdaHluMGq4jrTKS2b+gbvitqHMmqErvxtLgO63B3W8++8+X3Xn/EU6GW/KqhzJHtCVvIX5kk=;SMW3Ka8LSYiU+jwkEYNNcg=="
+secured: "WOVpwUSeTjrkcowAFKvCX9fwj83EvYkF5HfON8fgpJzmXLkSN8Bt2SLuzsyD8gvfptVyl4Y9c0aqi6GVkCacRTJkKv4Kspapx+NVk8hBNcLAy9hzqVhUpvAzQ3+9h+L5Nr8L2/HoZqoEwJcsswUGivDZ8cPKruTC6J2ENe/rH9l8wy/Nzy6zF//7hWrAvMe68tgmWSH2fWwiJPEwNtYiSJWUZl93AAo6WWWEDkedyPhIcRUGeExFxRJCDzEUQLI42ASojny6XSGBaVtelan8eKghjUaq3cam9q92+vaBy3eId5oRFYHLZKEsfIBz4WAXM5Nm0VnYy2PYr49oEFE864Av0DdqXeVGQb7M3QPYIn7U9S9ZqMmPa0folEhDWxRTerLHCe3MNbAoPeYgYMZf/O99ZjOGdgYI35Qy9yGslhU=;LtHRXO/h3WOgddktoAStXg=="
 ---
 

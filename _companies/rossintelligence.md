@@ -2,7 +2,7 @@
 name: "ROSS Intelligence"
 overview: "Founded in 2014, ROSS Intelligence has become a global leader in artificial intelligence solution for Legal Technologies."
 type: "profile"
-heat: 50
+heat: 32
 
 website: https://rossintelligence.com/
 
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ZF0J_Q0AK0E"
 
-secured: "M7E10IsB9YSl0NPWIXIERFC1EWCF9gWBeN0kBiFJe7THgApvPVb4y/oel5QUdXRnXUVHkSeyX0/OP3lCpu3Rr3NTF1zpnMC61fG5PAB556at7LSSqpFRlsFzcAUuU/ciwZHVdSVV6F7ippgKwf4ahQonsMYwurZAUNgOic+Bd+0LJ1NjW8ttxUiRQs1xIPCAGUaBqKmgNNiPeLRxZhZKvc3x7NM6h3KN4QtY9Cr+DJL3+THNbt5E4qhDX1mqLENqC6ii3N3LfVCJyk9sX+7TOIxCQ1oRtZwiFjRYJko3poHU+L1o7j65FULPHtk51Mk5Y/PZsPz3HRedlGzqQo7VvsyG4daUJ/KLNEHJss3G38i5/3g56CcWK2D5j3sVZXHkzBDMg6Th9G6lITmxD6rQNbPxOJlqNiHFa6pd+qF36c8=;ExTxE/2vRqIVnKOWWNV3tg=="
+secured: "9/pFpqIzoLVSoGtEtCa78GCpp4okRQ1bdxhU7f+I+tPzTDv649OjNSJLRa6pydAUUaKyiq8WZN9395KuI6eHk7JPS2GJNyGPWf1l+H53fbzz2yosgE4E+zukDV4BZMEYQG2HKyfNnm9jQiZnVDZU03+U4W3LGAriMHJ48zrzRnp0Al7lvM+fe4ZxMCnxCm/Jr9sRkqnE+3uNtTf3IZ86HGq+hTlVg3ZtGtodogI41Og5o4vgb2YoNxhNdE3bRD/ogjTK6K8KzsI5ZK3xaWdurJM3AHMmNHyODkcb7ZAB1gy2vnOPyTRTxHTMEa3Q9hMKONN/r5R7V0mQoVyRYBaq/2BZMXcU/ry962DMo/p0FVG2LyplCQObuC8KP3JEraapS4caiR7h5lJW2cnpnTj4TItD4AU98j5pVGJY4Vs7Ohw=;fo0cJiRIEbthjHMzmyI2Gw=="
 ---
 
