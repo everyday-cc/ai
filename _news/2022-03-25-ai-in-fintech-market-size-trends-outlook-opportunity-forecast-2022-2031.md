@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "7 Trends in Artificial Intelligence Every Founder Should Pay Attention To"
-    excerpt: "If you're wondering how important artificial intelligence is to your business's future, all you have to do is follow the money. In 2021, private companies invested $93.5 billion in AI--more than double the total private investment in 2020."
-    publishedDateTime: 2022-03-24T09:38:00Z
-    webUrl: "https://www.inc.com/anna-meyer/artificial-intelligence-ai-index-report.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 38
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1372528489_498131_nyu3az.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "fHCUIaVBYlJBIJkafySIbjUPWP4ZugIk6Kvu+cJK3+L21kWRhl/l7VWd2NEfilsnw79Mqae+0gF8dIiGR5mHWGT48UxkgJYnlSiyYL0WiVayFB9xILvZ0UPRHT7SIds37vws49U02qXdSI0p1HrgFEuJYNUysUgflQ13TxsQUPsdB6TtzEoC+zJ6szqlb285AWHMZmK3VnJLWJ2W4WkQxzPlKCAEwozrP4Vk1vrikeCw14hFfDnDleuLTyVjwD4H6BesMY7zfKj+9lJ6Y7iOyLDPBegLl2MFavqPPiUnTy5fYUm0MJMawOnxrzugE2ZG1alm8xGp8xE0P7Uv7mvhe5nlaf1uyE6WfyJhaEgFsUE=;oViHO9x1qmDbGEa7fXfj1g=="
 ---

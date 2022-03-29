@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2022/03/28/ai-visionary-an
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/03/28/ai-visionary-and-cio-leader-atefeh-riazi-of-memorial-sloan-kettering/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

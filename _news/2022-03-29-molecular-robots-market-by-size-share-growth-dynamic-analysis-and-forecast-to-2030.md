@@ -53,20 +53,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Global Cognitive Media Market Provides an In-Depth Insight of Sales, Trends and Forecast"
-    excerpt: "Global Cognitive Media Market research report endows with the key information about the ICT industry, including very important facts and figures, expert"
-    publishedDateTime: 2022-03-24T10:16:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-cognitive-media-market-provides-an-in-depth-insight-of-sales-trends-and-forecast"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 32
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/f5bba72678ff93670d5b9b0566e19922cf344b35-1-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "North America Humanoid Robot Market Size, Share, Analysis Challenges, and Future Growth Forecast 2021-2028"
     excerpt: "Canada registered a research and development expenditure comprising 1.585% of its Gross Domestic Product (GDP).CRIFAX added a r"
     publishedDateTime: 2022-03-24T15:46:00Z

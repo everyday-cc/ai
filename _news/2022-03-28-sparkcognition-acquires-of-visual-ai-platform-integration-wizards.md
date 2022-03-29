@@ -80,20 +80,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Ukraine using Clearview AI facial recognition to identify dead Russian soldiers"
-    excerpt: "Clearview AI scans the web to pair images of the same person from a database of billions of social media images and flags the connection"
-    publishedDateTime: 2022-03-24T10:44:00Z
-    webUrl: "https://www.telegraph.co.uk/world-news/2022/03/24/ukraine-using-clearview-ai-facial-recognition-identify-dead/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 50
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/world-news/2022/03/24/TELEMMGLPICT000290512701_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
-        width: 1024
-        height: 536
-        isCached: true
   - title: "Clearview AI facial recognition being used to deliver news of Russian war dead to families"
     excerpt: "Ukraine military is matching images of Russian soldiers killed in combat to social media profiles with Clearview AI’s biometric app."
     publishedDateTime: 2022-03-24T17:11:00Z
@@ -149,20 +135,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Revnomix Solutions launches 'RevSeed,' a version 2.0 of Artificial & Machine Learning platform for hotels and resorts"
-    excerpt: "Revnomix Solutions LLP, recognized as a startup by the “Department for Promotion of Industry and Internal Trade”, is a seven-year-old revenue management firm with a pan-India presence, provides revenue management services to hotels."
-    publishedDateTime: 2022-03-24T10:17:00Z
-    webUrl: "https://www.indiablooms.com/finance-details/15693/revnomix-solutions-launches-revseed-a-version-2-0-of-artificial-machine-learning-platform-for-hotels-and-resorts.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 16
-    images:
-      - url: "https://www.indiablooms.com/finance_pic/2022/d6dd90b9ca272e40deb320829306611f.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "n51S78z1Mmk4JM8F/5lLK2jzFKCMpZPqVwRh7qY6qK3m3GB3VkB0KtEgRK51PlVMBcR7BMx2C83ZcRsHTuuL03PKl/bUwgHIRMxuBBl4w+uOJ0W9t7EKPBjBrHYUJjXCf2dIvK4wTLvmjxps7wG3EbFl9ggmPbfd+TxO8hcDBDxRCLWQBZxGY8iyuvjAw28nBEWOG+v/P8WMzH/9VQbeOczcvsX9hwT1VX562U4JwK8qYhuu8o1ks03ucgh+kim/EP69euntG2/d1C1LE6lVSBayzoXcFoWiqwArM7uBVJezq+Cxcx/IuZ72ruINeIK714dSH7vqibPL7XvEnQKAt+2f4GLWKj5DxWQJA0FXYoI=;vfzjEdMV4o2psdoG70COnA=="

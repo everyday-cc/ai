@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 692
         isCached: true
-  - title: "How To Eliminate Ethical Bias From Machine Learning And Data Analytics"
-    excerpt: "Julien Alteirac, Regional Vice President of UK&I at Snowflake explores... Over the next few years the increasing availability of tools such as AutoML will help democratise machine learning (ML) and em"
-    publishedDateTime: 2022-03-24T09:35:00Z
-    webUrl: "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/"
-    ampWebUrl: "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 76
-    images:
-      - url: "https://techround.co.uk/wp-content/uploads/2022/03/possessed-photography-jIBMSMs4_kA-unsplash.jpg"
-        width: 2400
-        height: 1727
-        isCached: true
   - title: "Dragonfruit Frontier, a new Cloud VMS with AI analytics"
     excerpt: "Frontier enables secure management of hundreds of locations from a single browser with no additional hardware costs"
     publishedDateTime: 2022-03-24T13:28:00Z

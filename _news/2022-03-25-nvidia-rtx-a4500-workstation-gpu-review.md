@@ -41,22 +41,6 @@ related:
         width: 1138
         height: 640
         isCached: true
-  - title: "Nvidia CEO says company \"very interested\" in exploring chip manufacturing with Intel"
-    excerpt: "Nvidia Corp is interested in exploring using Intel Corp for manufacturing its chips, Chief Executive Officer Jensen Huang said on a call with reporters on Wednesday."
-    publishedDateTime: 2022-03-24T09:30:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/nvidia-ceo-says-company-very-interested-in-exploring-chip-manufacturing-with-intel/articleshow/90416403.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/nvidia-ceo-says-company-very-interested-in-exploring-chip-manufacturing-with-intel/amp_articleshow/90416403.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/nvidia-ceo-says-company-very-interested-in-exploring-chip-manufacturing-with-intel/amp_articleshow/90416403.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 52
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-90416403,imgsize-96278,width-800/90416403.jpg"
-        width: 800
-        height: 550
-        isCached: true
   - title: "Why NVIDIA’s new H100 GPU is a breakthrough"
     excerpt: "NVIDIA has highlighted the Transformer engine for its ability to combine data formats with algorithms to fasten the hardware performance."
     publishedDateTime: 2022-03-25T11:35:00Z

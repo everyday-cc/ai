@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ukraine-using-facial-recognition-tec
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3?amp"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -110,20 +110,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/b1236187f5fc799d81709ad426146bccb186b4d6/0_187_5760_3456/master/5760.jpg?width=620&quality=85&auto=format&fit=max&s=dee9433c17da6c8c14788c605f7c32a3"
         width: 620
         height: 372
-        isCached: true
-  - title: "Ukraine uses facial recognition to identify dead Russian soldiers"
-    excerpt: "Ukraine starts the use of facial recognition to identify unidentified Russian soldiers who are killed or captured in the war."
-    publishedDateTime: 2022-03-24T10:37:00Z
-    webUrl: "https://techstory.in/ukraine-uses-facial-recognition-to-identify-dead-russian-soldiers/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 54
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-24-at-4.10.34-PM-360x240.jpeg"
-        width: 360
-        height: 240
         isCached: true
   - title: "Complex Questions As Face Recognition Tech Joins Ukraine War"
     excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said Thursday."

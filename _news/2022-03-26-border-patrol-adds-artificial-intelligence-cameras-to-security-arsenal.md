@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wnct.com/border-report-tour/border-patrol-adds-artificia
 cdnAmpWebUrl: "https://www-wnct-com.cdn.ampproject.org/c/s/www.wnct.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -59,17 +59,6 @@ related:
         width: 896
         height: 472
         isCached: true
-  - title: "C3 AI announces AI cybersecurity grant recipients"
-    excerpt: "C3 AI has announced the third group of Digital Transformation Institute (DTI) grant recipients to accelerate the development of AI and machine learning technologies in hopes to combat emerging threats."
-    publishedDateTime: 2022-03-24T10:00:00Z
-    webUrl: "https://venturebeat.com/2022/03/24/c3-ai-announces-ai-cybersecurity-grant-recipients/"
-    ampWebUrl: "https://venturebeat.com/2022/03/24/c3-ai-announces-ai-cybersecurity-grant-recipients/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/24/c3-ai-announces-ai-cybersecurity-grant-recipients/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
 
 secured: "qlMrIBkTtamLS9QC0XMEoGUJGcb5F9ayqVo3ktxl3eEgFLH+JcjlO5HBFfD6sniIwz8fcSrIRMjcfOpPpjQv2rYQewzQ5EAZus8zNH5TpIZM6R0Cse3OEYW6kVE2oXhCMzgZWZySG2piFVhWrFFKJdt1E/3XqCjGTIP/PL8SjQQCUagvTGmW31DnDtvvywlIUkdP3oEp5e08u3pm5GOB9OWzfWwRHvsbRoPoE518h1+lUDlPm5nas+q32DoothM+FIZ4WkNlR4n1HJDQxfykPlzBMrG8/5wmh6uf+bdXDE8hyTW0NN9rx/qN5WKpxH7npIJYPRVe7YCfwiI4E0pwUbXfSULzbwfIqVHc2B/s6WY=;iCVvXzpOU6YBX1RW6hMBvg=="
 ---

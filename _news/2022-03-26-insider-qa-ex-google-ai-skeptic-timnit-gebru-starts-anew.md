@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-26T10:00:00Z
 originalUrl: "https://apnews.com/79cd13b50b51452d29963490b96815bd"
 webUrl: "https://apnews.com/79cd13b50b51452d29963490b96815bd"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://storage.googleapis.com/afs-prod/media/3aa9eaa491ab41348e46ce734ce58463/3000.jpeg"

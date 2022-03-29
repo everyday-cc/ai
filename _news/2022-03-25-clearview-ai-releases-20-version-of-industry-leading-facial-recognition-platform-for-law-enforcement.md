@@ -7,7 +7,7 @@ originalUrl: "https://www.01net.it/clearview-ai-releases-2-0-version-of-industry
 webUrl: "https://www.businesswire.com/news/home/20220325005073/en/ Clearview-AI-Releases-2.0-Version-of-Industry-Leading-Facial-Recognition-Platform-for-Law-Enforcement"
 type: article
 quality: 119
-heat: 219
+heat: 199
 published: true
 
 provider:
@@ -64,20 +64,6 @@ related:
       - url: "https://uploads.dailydot.com/2022/03/facial-recognition-college.jpg?auto=compress&fm=pjpg&ixlib=php-3.3.1"
         width: 2000
         height: 1000
-        isCached: true
-  - title: "Ukraine using Clearview AI facial recognition to identify dead Russian soldiers"
-    excerpt: "Clearview AI scans the web to pair images of the same person from a database of billions of social media images and flags the connection"
-    publishedDateTime: 2022-03-24T10:44:00Z
-    webUrl: "https://www.telegraph.co.uk/world-news/2022/03/24/ukraine-using-clearview-ai-facial-recognition-identify-dead/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 50
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/world-news/2022/03/24/TELEMMGLPICT000290512701_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
-        width: 1024
-        height: 536
         isCached: true
   - title: "Clearview AI facial recognition being used to deliver news of Russian war dead to families"
     excerpt: "Ukraine military is matching images of Russian soldiers killed in combat to social media profiles with Clearview AI’s biometric app."
@@ -148,20 +134,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Revnomix Solutions launches 'RevSeed,' a version 2.0 of Artificial & Machine Learning platform for hotels and resorts"
-    excerpt: "Revnomix Solutions LLP, recognized as a startup by the “Department for Promotion of Industry and Internal Trade”, is a seven-year-old revenue management firm with a pan-India presence, provides revenue management services to hotels."
-    publishedDateTime: 2022-03-24T10:17:00Z
-    webUrl: "https://www.indiablooms.com/finance-details/15693/revnomix-solutions-launches-revseed-a-version-2-0-of-artificial-machine-learning-platform-for-hotels-and-resorts.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 16
-    images:
-      - url: "https://www.indiablooms.com/finance_pic/2022/d6dd90b9ca272e40deb320829306611f.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "7oQdKM/tnOx3UVLA47MevaBLrFHZjFrBIAOpyYvju9c+5MQ12PNWX9A2v1wlIwIBvhSwvEEfTZ0yuUma2guRKI/+75I9f+htILn5gpOBFzWODq/dXOiQ4jDaOqEEYLUKOo11htu810/lAHW0ex0FhaPArUIrweIbhIgBPGqiTfY+qIn0aR83UDxY620l3Ij6mmnl52Nsjh/0Dq9MF77sK+ACG0M6NlRj7Cs44blqojw3DcJsURNUYUoxIlpdhrbLF/4iyODiytbaWSZMvpCNFwEObogqZIjZECmEeBMD9Myz9lHpTkCZKWPkRKJzKwriVkZecf6m6sbmdeM9nb9iOQTwp6mJXnoDcf98INUAGVa/2X0LEVfYhlMAT6Rnc5li1X6tTuZpAWHbgtGUCHu0sLwLnK5NOoeJDNQ9RrY0goqbz0q4B1cGgaw57VllwbpNjTSW0ILY5e7RrI7TYmBRTZYxuwwLgKoeagO/T/2mlYtO/D3rpFQmlhqh6xe0ybotouo/yDSwRAsQbhXQd6lvczPOrSBcEoZP24DVA7c28t0=;MsnSEG62LsCbMS0VwpEvEQ=="

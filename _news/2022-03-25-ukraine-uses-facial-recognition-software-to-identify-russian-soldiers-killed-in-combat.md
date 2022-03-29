@@ -111,20 +111,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Ukraine uses facial recognition to identify dead Russian soldiers"
-    excerpt: "Ukraine starts the use of facial recognition to identify unidentified Russian soldiers who are killed or captured in the war."
-    publishedDateTime: 2022-03-24T10:37:00Z
-    webUrl: "https://techstory.in/ukraine-uses-facial-recognition-to-identify-dead-russian-soldiers/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 54
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-24-at-4.10.34-PM-360x240.jpeg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "Complex Questions As Face Recognition Tech Joins Ukraine War"
     excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said Thursday."
     publishedDateTime: 2022-03-25T02:07:00Z

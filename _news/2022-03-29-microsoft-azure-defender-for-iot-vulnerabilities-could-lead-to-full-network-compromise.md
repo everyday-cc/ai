@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/28/microsoft-azure-defender-for-iot-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/microsoft-azure-defender-for-iot-vulnerabilities-could-lead-to-full-network-compromise/amp/"
 type: article
 quality: 95
-heat: 95
+heat: 96
 published: true
 
 provider:

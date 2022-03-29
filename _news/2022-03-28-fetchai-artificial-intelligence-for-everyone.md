@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "7 Trends in Artificial Intelligence Every Founder Should Pay Attention To"
-    excerpt: "If you're wondering how important artificial intelligence is to your business's future, all you have to do is follow the money. In 2021, private companies invested $93.5 billion in AI--more than double the total private investment in 2020."
-    publishedDateTime: 2022-03-24T09:38:00Z
-    webUrl: "https://www.inc.com/anna-meyer/artificial-intelligence-ai-index-report.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 38
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1372528489_498131_nyu3az.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AI in Fintech Market Size, Trends, Outlook, Opportunity Forecast 2022-2031"
     excerpt: "Comserve / -- AI in Fintech Market offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts."
     publishedDateTime: 2022-03-25T11:53:00Z

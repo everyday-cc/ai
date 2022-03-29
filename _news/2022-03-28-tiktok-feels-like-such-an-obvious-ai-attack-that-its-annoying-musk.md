@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/tiktok-feels-like-such-an-obvious
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/tiktok-feels-like-such-an-obvious-ai-attack-that-its-annoying-musk-1648401417467"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1080
     height: 827
     isCached: true
+
+related:
+  - title: "Elon Musk blasts TikTok as an “AI attack” after teasing his own social media platform"
+    excerpt: "Tesla CEO Elon Musk has taken a jab at TikTok, calling the company's AI \"annoying,\" days after teasing his own social media platform."
+    publishedDateTime: 2022-03-29T02:39:00Z
+    webUrl: "https://www.dexerto.com/entertainment/elon-musk-blasts-tiktok-ai-attack-teasing-new-social-media-platform-1793336/"
+    ampWebUrl: "https://www.dexerto.com/entertainment/elon-musk-blasts-tiktok-ai-attack-teasing-new-social-media-platform-1793336/?amp"
+    cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/entertainment/elon-musk-blasts-tiktok-ai-attack-teasing-new-social-media-platform-1793336/?amp"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 50
+    images:
+      - url: "https://www.dexerto.com/wp-content/uploads/2022/03/29/Untitled-design-54.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "j8yjaIaKVgtAiJkI6Vd0ik1mJAPqEQayhc6asjLExOjgB0pSxR6d4tYprCy01vfytO10PtP2aUrCo4CIk69y2pRorbrrsGX1G+mthx0lNljlX7bJFyf3zyyrxs7TVqDFUgFrtTvxF+qt7I+6VTj4jMAj5AgsEdKDG+qfPmYytN07VE7ko0jynRmjf0fiLDLG7rNL71EKvwqp1Gy0sY1cNOTJ5bhkXGlaBU8hyVrpQV46+gfiKFimUeRVK2CJ92ctFauHszpOMJRv0ruFF19CVxM9SElaHvKQv7nEhYEH+l0jpuWgkhOydAc6hK69V8IFbHx7bU+V6NPCeoBOXHz3Vqkmc6ywbi5L3Eo1LvBXSP4=;ThMohcAyTDSQF1HOMCpNWA=="
 ---

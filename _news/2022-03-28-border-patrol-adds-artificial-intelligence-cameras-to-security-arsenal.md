@@ -59,17 +59,6 @@ related:
         width: 896
         height: 472
         isCached: true
-  - title: "C3 AI announces AI cybersecurity grant recipients"
-    excerpt: "C3 AI has announced the third group of Digital Transformation Institute (DTI) grant recipients to accelerate the development of AI and machine learning technologies in hopes to combat emerging threats."
-    publishedDateTime: 2022-03-24T10:00:00Z
-    webUrl: "https://venturebeat.com/2022/03/24/c3-ai-announces-ai-cybersecurity-grant-recipients/"
-    ampWebUrl: "https://venturebeat.com/2022/03/24/c3-ai-announces-ai-cybersecurity-grant-recipients/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/24/c3-ai-announces-ai-cybersecurity-grant-recipients/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
 
 secured: "tLFOABgSgDofNt4blzw+Sw5+aAm580YJ+YVhEgaNL1yOOLAHkCsSxzBaHEZyePircb55pqw6QrQvy4JCHNymtD3FWqfBsATKT12OiCRowNPvfS32vf8C1Anmkl/SGSGqwnkjzXZasVzpt/HdrMI7NzwYaVFjEneLv+bpKTl32CJLCOrsl2QKL634c7PurTkqbxecEEKjP5rBbw2MYdlVtjDuWX3iqBubVTlgdER4Qay5bqw8JbmTpD4GvkXM8eFwT3aKfPKOZbgPZr+vu6alBApB751usNW8IcYMQ1NWz7FlhoPoma7Qrp6YqIX+G14ttijnAZO7s1Tg4gaYAQJ7G8l4iIZ2Arn80flZ72CRT3OswoGoDmsUNaYep6fGdvLQXtJYXdCT5SASVbsfHvIM3t70Kr6ADjdXIWft84fIuRJURXg0aJ1OVbPq79tAeTOG0teDyqRLgr1sT5OBZp7l3OTxN1dPLNfNpxVbmycCtDblBEwqaThrP6Z8aOf7p+vB2sT2GTknadswnxFrxyMw/w==;rfn/WMywA3FqFn76eh9/3Q=="
 ---

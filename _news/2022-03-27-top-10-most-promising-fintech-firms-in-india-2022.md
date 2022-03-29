@@ -110,20 +110,6 @@ related:
         width: 1799
         height: 1010
         isCached: true
-  - title: "Future watch: The future is fintech"
-    excerpt: "Learn how industry leaders make innovation happen in their changing markets, and where these transformations will take us next."
-    publishedDateTime: 2022-03-24T14:01:00Z
-    webUrl: "https://www.fastcompany.com/90734036/future-watch-the-future-is-fintech"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 24
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/03/The-future-is-fintech.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Brex Helps Zesty.ai Scale With $10 Million in Venture Debt"
     excerpt: "U.S. fintech company Brex, the company reimagining finance for growing businesses, has provided $10 million in growth capital via venture debt to Zesty.ai,"
     publishedDateTime: 2022-03-24T15:00:00Z
