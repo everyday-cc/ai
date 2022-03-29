@@ -87,6 +87,20 @@ related:
         width: 721
         height: 337
         isCached: true
+  - title: "REN Min: Relying on Artificial Intelligence to Open a New Era in the Education Industry"
+    excerpt: "Education is the foundation of a country and the foundation of a strong country. It is of great significance to the future destiny and future development"
+    publishedDateTime: 2022-03-29T18:30:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ren-min-relying-on-artificial-intelligence-to-open-a-new-era-in-the-education-industry"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 48
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/7db448fc881b6b5c26e8531765d0fd0eeb014838-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "wynBq5snZnaeqOVY8+LhGr6uDGezFLoM4onQvvlFXY0AjNjMgH3+MqXFeDplm42Ke/uKlXGtDrHmXknEzp+c0EFU98FSjjbR/VBvLiT/RbmyfvCflwPN05y9TWeZPMNoaIZM21tqqVvBkmEp456DfQUmYUDwtCud/CAQ0ronsIaH7RSDABY37P8w+5cf22WEanGLM6b5Br9Sr5tkYJPSHKGAfuVg4NBYmFYQA5profI3SXfpjc++pgxslGiHpe3bIOdpY384GlVaT4K14JP+5eEnQFg+d1lK4UHqioaIs9OkEbxX/NA3F48kaeichGmP0EN7gtOvF6B/d5RQWRAFqnylS08xdGx7ancmu2K+RR32SQjYJDATKz/Arg+Lv/qUOATx5GvjmRfGqqE7sK4J+rnVzwZoQOnMl3Ax2/zoEEKkdQmA9HmpI2VKSUeQYfDBrOpT2YtOdpuQOHCiP7exPKnBnH3pfVrx6khdBuM4Mps3M5UWkFeKORynrf1TXCG2qkfm6lFIhlWvrHCFthWH7g==;7aqv9dYzVxf2uP72JD7LMw=="
 ---

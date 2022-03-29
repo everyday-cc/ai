@@ -58,17 +58,17 @@ related:
         isCached: true
   - title: "Healthtech AI startup Qure.ai raises $40 mn"
     excerpt: "Healthtech AI platform Qure.ai (Qure) on Tuesday announced it has secured $40 million in a funding round led by Novo Holdings and HealthQuad, along with existing investor MassMutual Ventures. Qure.ai offers advanced technology that reads and interprets medical images like X-rays,"
-    publishedDateTime: 2022-03-29T13:13:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=942271"
+    publishedDateTime: 2022-03-29T13:07:00Z
+    webUrl: "https://menafn.com/1103931667/Healthtech-AI-startup-Qureai-raises-40-mn"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 37
     images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/bhima_sq1_march2022.jpg"
-        width: 280
-        height: 250
+      - url: "https://menafn.com/updates/pr/2022-03/29/I_0eec6image_story.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "VpBTHEv7NTX/d05OPs/SEZB7NRc/kpR0qt9v/eGghbQptSi0HD0wzISXD2F1oJEGDFP+DI6HhiinI0FXDm1hTcobmDeKYIu4/HEXCE6jXD2Ssl2RZ6+AwkW9ba/sXAcWAKxQYzW35EWixaUPEcvdr+E3Qg0KZRbUhkWnxBQ4VSoqvvT9jVmJ/pyWtU0di5nadEc524TlxOroZFNGMmP7Orgah2EQCZv3Bi25288xRrPpJeSvauX6Na1KprzrDwAUayyooeRIufub64oc93xBRElxxwDpGOqG/6zo+U+7fAQPSssxw4rEg+H4PUtQMt4fpxtOElg0e0es6XAG17BJYNyZPy5WeOj0gwX27uw+6j5W5B/ujTiGnWoBcg++9xFA4lOUmOxkNEEz3WV9kxtZ9ortyjS57nuMsyWyJyPHXzIKNn893axgRsWTydQONUEHAQXdeP8h4hDQ1dv+yIigTgS0enRFHv8/YXYK3ML3P0vEUhjfidcA1tUKToSKGCR42721YE6lWhGVE7LsmMvyhw==;9H0qIWwZBf0bP1CaQTrV1g=="

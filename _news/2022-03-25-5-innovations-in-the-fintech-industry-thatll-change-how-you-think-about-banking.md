@@ -73,6 +73,20 @@ related:
         width: 721
         height: 337
         isCached: true
+  - title: "REN Min: Relying on Artificial Intelligence to Open a New Era in the Education Industry"
+    excerpt: "Education is the foundation of a country and the foundation of a strong country. It is of great significance to the future destiny and future development"
+    publishedDateTime: 2022-03-29T18:30:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ren-min-relying-on-artificial-intelligence-to-open-a-new-era-in-the-education-industry"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 48
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/7db448fc881b6b5c26e8531765d0fd0eeb014838-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Breaking into the black box of artificial intelligence"
     excerpt: "In February 2020, with COVID-19 spreading rapidly around the globe and antigen tests hard to come by, some physicians turned to artificial intelligence (AI) to try to diagnose cases 1. Some researchers tasked deep neural networks — complex systems that are adept at finding subtle patterns in images — with looking at X-rays and chest computed tomography (CT) scans to quickly distinguish between people with COVID-based pneumonia and those without 2."
     publishedDateTime: 2022-03-29T14:28:00Z

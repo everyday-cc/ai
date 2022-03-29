@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
-excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the System of Record of Workforce. NEW YORK"
-publishedDateTime: 2022-03-29T12:00:00Z
-originalUrl: "https://kdvr.com/business/press-releases/cision/20220329NY06338/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites/"
-webUrl: "https://kdvr.com/business/press-releases/cision/20220329NY06338/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites/"
+excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
+publishedDateTime: 2022-03-29T10:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+webUrl: "https://markets.businessinsider.com/news/stocks/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
 type: article
-quality: 21
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: FOX31 Denver
-  domain: kdvr.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://i0.wp.com/kdvr.com/wp-content/uploads/sites/11/2022/03/AP22088020686831.jpg?w=2000&#038;ssl=1"
-    width: 1999
-    height: 1342
-    isCached: true
 
 related:
   - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
@@ -46,6 +44,20 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622114219/itpro/Clearview_AI_shutterstock.jpg"
         width: 1260
         height: 710
+        isCached: true
+  - title: "Task force, commission want government intervention with AI; especially facial recognition"
+    excerpt: "Reports pushing recommendations for more-careful use of public algorithms continue to get more direct and succinct, especially about facial recognition."
+    publishedDateTime: 2022-03-29T18:07:00Z
+    webUrl: "https://www.biometricupdate.com/202203/task-force-commission-want-government-intervention-with-ai-especially-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 44
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
     excerpt: "Clearview AI’s database now features more than 20 billion facial images. Clearview 2.0 offers new compliance and investigation management tools for law enforcement agencies."
@@ -104,6 +116,6 @@ related:
         height: 450
         isCached: true
 
-secured: "9RuYrPagNVQDC7RkUtLTcOZWoq9/xWVSf2wdmx8N7zxVLh7Aufv+vxvqaI4MwuerjmSc+/P4iOTbsox4EFwjFs9vfYzzLDOf9ll97T9t9d2MoofdVxNqHGTHjIcjyUpG9dp4b4XwiAMyr6pOiG9PBdCqlwyBp8dC++pzwk7kUXCINBVaRrauiOOGg/PPj51I0viF6BBtlnJSvhunjIY82utmecqn5fONNsidbYO0I5z2W9P5i5b1eoLnL8kWkMb5DpLp/fVQFtSY1Mv6FnTRLOslx31MdL4TSfNYAAT5GiSOrHuNgs8MboyEmKfhdN837mg1oro8qfgRtI+zYA1sN5L0DXNMritJ1wmy8tfgv4I=;FiXf4LT9/ZaJRTBO+CDAwg=="
+secured: "CEUWrbF6G4ehKWAq0kYs4BstuYwKF/e+tKDM1eAlMmOXV46ZGILh6N2/C32zCNs5r3rR1fADhsfZqD9r40L3b36WSzQwQcSIrD8B0GlOnUOJ9kXAmQuoQwSzUWXoJx2lZwyLgJmeb6gxA0xHcyQNOrR7SSU7lWztSqR2N+q7VYurJPb9CsOIrTrfu4y+hD5zKGMd/ZJ58BXL5/6CbDlaH5JW5T5Brh0jC5H3a2tMU5QKc9GVsnu4oFNMirQeKkfN2uvnq2iqe9T84uoA8pW99NOiTFzAm5wjqd44Agm2dxg8SPXr06MKBkyjePQKaFJhVE/HJh9aRxKX+SdOWT53iES3Cd+wtxoSqY3M/+FBvlg=;VqHbxxWWP4jLqyJlVmeG2A=="
 ---
 

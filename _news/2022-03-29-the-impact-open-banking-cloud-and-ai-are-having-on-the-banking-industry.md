@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/the-impact-open-banking-clou
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/the-impact-open-banking-cloud-and-ai-are-having-on-the-banking-industry/"
 type: article
 quality: 75
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
     images:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFQPgNTaZwdEA/article-cover_image-shrink_600_2000/0/1648381205739?e=1654128000&v=beta&t=WBuihpvCbRf-YxmhFGjgDLpzBhYp9p2OtEBnDJtPfVA"
         width: 721
+        height: 337
+        isCached: true
+  - title: "REN Min: Relying on Artificial Intelligence to Open a New Era in the Education Industry"
+    excerpt: "Education is the foundation of a country and the foundation of a strong country. It is of great significance to the future destiny and future development"
+    publishedDateTime: 2022-03-29T18:30:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ren-min-relying-on-artificial-intelligence-to-open-a-new-era-in-the-education-industry"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 48
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/7db448fc881b6b5c26e8531765d0fd0eeb014838-600x337.jpg"
+        width: 600
         height: 337
         isCached: true
   - title: "Breaking into the black box of artificial intelligence"

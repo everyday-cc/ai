@@ -40,6 +40,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Pharmaceutical Robots Market Revenue to Cross US$ 383.91 million by 2028 says, The Insight Partners"
+    excerpt: "Traditional Robots Held the Largest Share by Product Segment in Pharmaceutical Robots Market During 2021–2028 NEW YORK, UNITED STATES, Mar"
+    publishedDateTime: 2022-03-29T18:01:00Z
+    webUrl: "https://menafn.com/1103929261/Pharmaceutical-Robots-Market-Revenue-to-Cross-US-38391-million-by-2028-says-The-Insight-Partners"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?873407"
+        width: 421
+        height: 250
+        isCached: true
   - title: "Cognitive Media Market is Expected to Reach USD 3.31 Billion By 2026"
     excerpt: "The development of media industries owing to the rise in demand for consumers and is propelling the market growth. Cognitive Media Market Size – USD 0.52"
     publishedDateTime: 2022-03-25T10:14:00Z

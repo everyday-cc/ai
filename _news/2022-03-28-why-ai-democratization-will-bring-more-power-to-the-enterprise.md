@@ -39,7 +39,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 37
+    quality: 54
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/cctv-security-technology-with-lock-icon-digital-remix.jpg"
         width: 5000

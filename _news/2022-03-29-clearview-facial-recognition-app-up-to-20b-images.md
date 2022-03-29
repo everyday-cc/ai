@@ -48,6 +48,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Task force, commission want government intervention with AI; especially facial recognition"
+    excerpt: "Reports pushing recommendations for more-careful use of public algorithms continue to get more direct and succinct, especially about facial recognition."
+    publishedDateTime: 2022-03-29T18:07:00Z
+    webUrl: "https://www.biometricupdate.com/202203/task-force-commission-want-government-intervention-with-ai-especially-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 44
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
     excerpt: "Clearview AI’s database now features more than 20 billion facial images. Clearview 2.0 offers new compliance and investigation management tools for law enforcement agencies."
     publishedDateTime: 2022-03-25T19:26:00Z
@@ -76,6 +90,15 @@ related:
         width: 2240
         height: 1260
         isCached: true
+  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
+    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
+    publishedDateTime: 2022-03-29T10:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
   - title: "SparkCognition Delivers Visual AI Capabilities Across Industries With Acquisition of Integration Wizards"
     excerpt: "AI company builds on portfolio of machine learning, deep learning, natural language processing, and knowledge representation to address $14.4B visual AI marketplace. AUSTIN, Texas"
     publishedDateTime: 2022-03-25T12:04:00Z
@@ -89,20 +112,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
-    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the System of Record of Workforce. NEW YORK"
-    publishedDateTime: 2022-03-29T12:00:00Z
-    webUrl: "https://kdvr.com/business/press-releases/cision/20220329NY06338/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites/"
-    type: article
-    provider:
-      name: FOX31 Denver
-      domain: kdvr.com
-    quality: 21
-    images:
-      - url: "https://i0.wp.com/kdvr.com/wp-content/uploads/sites/11/2022/03/AP22088020686831.jpg?w=2000&#038;ssl=1"
-        width: 1999
-        height: 1342
         isCached: true
 
 secured: "R3TawqRQ4g+QMGAkHYbrDMjsIx7JDQcFdy80bJGczcqxCjuU3ET6dI8/E2DIQYhR4OU/uuKxt0OvFtvoAAxkRH4m4+iCd7wDfV5tXcfPW2fOkNVx1EadqaRJFIoDopSJXGN4h8LGeM1hYnXNnDjl814wPX1jIFnQU6rnevaJhkDbXtU8X3GgpJqT7q7dUiRf3I8H+QmhffqpIcIVSaF1kFOpJw6RtmLpdu+5d2ZD0hGdOr2z7rh2VdHh2eV5iVMGaH3SmO+3MQVHzaVQh3rvL8qwd4Q8RaevFY0Bfhij3WGFwm2nG8vzGHkzfRckCf9YOCJPskBRg2S9YhcB23sn1y0mUaSUwDunNCHJCkKnad5RrTjFBnfIsApbmqyUKxcG39qKWeHNLA5DkeXDZHuO4ZOyhrMcuwbdAbJOGloJeUgQKhNbHTbweqHCCGa3scK8twmtSXYTwG1rX3ROT1E3BEvPcm+lSI8lOJ4NG6Id4xKrvS01/HTMrSekbPn5ovJg/FDp9457/SyDKHuFXwapGA==;VRJJkhxjIX1ar2bMzIPOnQ=="

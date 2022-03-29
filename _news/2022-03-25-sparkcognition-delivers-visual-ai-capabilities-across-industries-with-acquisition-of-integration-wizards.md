@@ -48,6 +48,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Task force, commission want government intervention with AI; especially facial recognition"
+    excerpt: "Reports pushing recommendations for more-careful use of public algorithms continue to get more direct and succinct, especially about facial recognition."
+    publishedDateTime: 2022-03-29T18:07:00Z
+    webUrl: "https://www.biometricupdate.com/202203/task-force-commission-want-government-intervention-with-ai-especially-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 44
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
     excerpt: "Clearview AI’s database now features more than 20 billion facial images. Clearview 2.0 offers new compliance and investigation management tools for law enforcement agencies."
     publishedDateTime: 2022-03-25T19:26:00Z
@@ -91,19 +105,14 @@ related:
         height: 508
         isCached: true
   - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
-    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the System of Record of Workforce. NEW YORK"
-    publishedDateTime: 2022-03-29T12:00:00Z
-    webUrl: "https://kdvr.com/business/press-releases/cision/20220329NY06338/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites/"
+    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
+    publishedDateTime: 2022-03-29T10:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
     type: article
     provider:
-      name: FOX31 Denver
-      domain: kdvr.com
-    quality: 21
-    images:
-      - url: "https://i0.wp.com/kdvr.com/wp-content/uploads/sites/11/2022/03/AP22088020686831.jpg?w=2000&#038;ssl=1"
-        width: 1999
-        height: 1342
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
 
 secured: "PhUhsaR3G4UaI9U4GaFXhlfX4bImVpR3y1Lzgfp0Yz7QQVewQR0EGK7aGzTMpeC5G+8PmGJYYDHgEO3Dfe5nGFFwvQ/0lWTVZrdq4fsX+B2NaQK2IoyTf18qHgpKac8TwhzVdE0bYT7WOygz9aKW7yRdMTLkZBGSEiO4lR1/tFnc5F3SLJO3nDmFUq8efWhs5Gvzj6a6aGn8DNGrYNB767a0YKaKtuLh3kKObpqq6oojelhAfHENjx4LWua8ewft31ZhpOTQQ8R/talOTqmXlkWMYEMx8NBeeCV/jgCAcFy2bWKNDJvREy0STDLp7wgMtYGk/cxkt1MP5W+6zqPc4YkyUu1FtdmLK9VEykwDpMc=;IpiKgQciOj/CmBg23H27Lw=="
 ---

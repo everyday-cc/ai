@@ -59,20 +59,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Complex Questions As Face Recognition Tech Joins Ukraine War"
-    excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said Thursday."
-    publishedDateTime: 2022-03-25T02:07:00Z
-    webUrl: "https://www.ibtimes.com/complex-questions-face-recognition-tech-joins-ukraine-war-3450495"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 54
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/03/24/ukrainian-firefighters-work-amid-the-rubble-in-the.jpg"
-        width: 768
-        height: 512
-        isCached: true
   - title: "Face recognition tech joins Ukraine war"
     excerpt: "WASHINGTON: Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said on Thursday."
     publishedDateTime: 2022-03-25T03:15:00Z

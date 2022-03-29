@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-oracle-announces-mysql-heatwave-ml
 webUrl: "https://www.tmcnet.com/usubmit/-oracle-announces-mysql-heatwave-ml-the-easiest-fastest-/2022/03/29/9572782.htm"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Oracle adds autoML to its MySQL HeatWave service"
+    excerpt: "Oracle has added autoML, real-time elasticity, and price-performance trade-offs to Heatwave, the analytics engine it piggybacks on MySQL transactional database. Nipun Agarwal, veep of HeatWave and advanced development at Oracle,"
+    publishedDateTime: 2022-03-29T18:00:00Z
+    webUrl: "https://www.theregister.com/2022/03/29/oracle_automl_mysql/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/03/29/oracle_automl_mysql/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/29/oracle_automl_mysql/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 59
+    images:
+      - url: "https://regmedia.co.uk/2019/03/06/shutterstock_oracle2.jpg"
+        width: 648
+        height: 432
+        isCached: true
 
 secured: "TmTW6f786AYKlNl8P/dsU9nYJcn7m6sFMM6jEbB9zWuE5SYJ4Mug6I4jOHES9z1fEG8I9HGTF8dskb32TZh+mqY2Yilg5QdIrj1q36JfTFB9fa/uNDO1OCWw8B6IMacfWhJWvHle8IhphzTcvS6C0/r26yCGrfd62NcdX8imeIhcRYRx9G5NliUAKvvotNdwtYVILqs1wNfrrSIy0U1oKf7vNg9Kq8OHK9h8dRxbacuTlYEg+VytvI6313xj7hcVKLQphcH2ZLfjUS/dPHlv+f4eJLc7z+tf7HrWC6A0QeRAa/wZTv6nyq08oNLhipDiRkOrpTyAhVDlAdMKUwIPyKgqCRjxd1Low0rpMkYh4AY=;l65bTe29YMV6Se6MilWEmw=="
 ---

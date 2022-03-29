@@ -2,25 +2,25 @@
 category: news
 title: "Healthtech AI startup Qure.ai raises $40 mn"
 excerpt: "Healthtech AI platform Qure.ai (Qure) on Tuesday announced it has secured $40 million in a funding round led by Novo Holdings and HealthQuad, along with existing investor MassMutual Ventures. Qure.ai offers advanced technology that reads and interprets medical images like X-rays,"
-publishedDateTime: 2022-03-29T13:13:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=942271"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=942271"
+publishedDateTime: 2022-03-29T13:07:00Z
+originalUrl: "https://menafn.com/1103931667/Healthtech-AI-startup-Qureai-raises-40-mn"
+webUrl: "https://menafn.com/1103931667/Healthtech-AI-startup-Qureai-raises-40-mn"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
 
 images:
-  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/bhima_sq1_march2022.jpg"
-    width: 280
-    height: 250
+  - url: "https://menafn.com/updates/pr/2022-03/29/I_0eec6image_story.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -71,6 +71,6 @@ related:
         height: 450
         isCached: true
 
-secured: "j9UIrkc9fSKAlB6sRskL1NtbAE623tKFIhpgeLbRJ9/VJOh3m1r27rlSrM6czxa8kx8C4BUhdNjG4rFDvbQc6SDJhIZIAFWSHxZcksPSVkN9/dV1jSCrkXqebGVVqWhrfLlPvRMbH/etKvt1zEmt2wIb6YyDEUpWRqKPQaFMJ3fNXByeF2vCDfrQgkyCuqh6h0LrLAg1iTaapQQ5ZmxNDqcGB3S8YAuGTd5WQSLYjpXm/TOYfJH5xZEL6vS9hZSUo8yPutMXSSFQgiDaXHvLJYyiIx2ucOOjoUbBQ3V57wwtGrhUli1kRN9cKllKnZoD8xUosXgaR0VkbgQlVBOdLJot5xvc3C7nWxTud0hyGXY=;4tJZzqwu4sVZHKSjsN0EGQ=="
+secured: "88U/V9BoVJorWv5bJb1WNNBMQw4W3p+ppQzbT2qOqqPV/bdRt8hKoc+JFhSU8oyopib+FwMEZBCV6E8OgOOyOb3aTRNFrNC5xGWF5tQodph1FDyimfWsZno3dK9nsY93dbu36/0A7/bVOY84RQHxn6Fkjq9PDWs8nYnZ7TyUtXK+PrsoGyF2Wl/BDBwttqi6MT/3HMtrmJb+iiPB4KYKS63SvG1QPVHRn7uMDXfs69Zamqhsp1vhsvC8fu9R6PeHITs9LbJG/5x2SJv1FKs6ER+3b8ZaHJkJeiHmgMEK+24qqAXBo7THC/bUmwEL3F3LEsjQjq74b9t2EpONbYgKrZPmZljEqBiU8U1lTegOGUU=;wfG2TTyjr1duNvQq4q9+Eg=="
 ---
 

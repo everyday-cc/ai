@@ -53,6 +53,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Pharmaceutical Robots Market Revenue to Cross US$ 383.91 million by 2028 says, The Insight Partners"
+    excerpt: "Traditional Robots Held the Largest Share by Product Segment in Pharmaceutical Robots Market During 2021–2028 NEW YORK, UNITED STATES, Mar"
+    publishedDateTime: 2022-03-29T18:01:00Z
+    webUrl: "https://menafn.com/1103929261/Pharmaceutical-Robots-Market-Revenue-to-Cross-US-38391-million-by-2028-says-The-Insight-Partners"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?873407"
+        width: 421
+        height: 250
+        isCached: true
 
 secured: "RB/xi5nwca+pIA9SBEY3GSW9WRJfEJuyCgc54Wpg5w+4W6FBF6QhZJXQ8Xom3yQ5rbJ/XPad5fuuSG9O0vfFY7S3GPADpTxbDI3KS28ucMO6JzWUbA6yrFAu0eOMoX3PoFl+tttODVjMVo7wtZ60KCmonhLyBYEohdf2MUmmOxWLAT6H1oGcFUUnoU6x/rDYgAcgZMuCE79GSk/lMEdQwH4DWEUDK855aUFjnKsJ7oc/xXRuZoTbl9v4VvBZNW0iLKv8rOqGc5eb56fpGwxYRVza43rdoKfHqyjxBxWwraf92mSyqpmYd01sUrwDFITzISPOumDjZm4FmK/ip7Mqt5i6n0GaZOU1dwq9+IcEv2Y=;Tbrb+2ZJ7XZ/5MhOAhiD7w=="
 ---
