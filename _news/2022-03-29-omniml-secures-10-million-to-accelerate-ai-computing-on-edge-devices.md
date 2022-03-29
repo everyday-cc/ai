@@ -1,28 +1,22 @@
 ---
 category: news
 title: "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices"
-excerpt: "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment"
-publishedDateTime: 2022-03-29T15:42:00Z
-originalUrl: "https://www.lelezard.com/en/news-20309928.html"
-webUrl: "https://www.lelezard.com/en/news-20309928.html"
+excerpt: "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment by Qualcomm Ventures,"
+publishedDateTime: 2022-03-29T15:26:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/03/29/9572736.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/03/29/9572736.htm"
 type: article
-quality: 39
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Facebook AI
+  - Machine Learning
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "AI Chip Company Syntiant Raises $55 Million to Accelerate Growth"
@@ -82,6 +76,6 @@ related:
         height: 450
         isCached: true
 
-secured: "iX435/MgZ4eJ0gn9BRatkqveNmmXAveQgl0/UUgRPK2oqBb/kKxgAkJzl07gU37ReI/ejEY6i58/rMF7nPD8AbHmooyokGVf8aLLWDwToUOmhtzKNtzWuRr792X2hNgIUP/3PDOc623NiKtyGr7UmmCVF1+hUgha8Ozh/m+4SxAI5OtGFslcTfcBxifTIlv0tblyDAKnrx5fMhHUIz+yVYwQxMAcMcP+7tNUltF3wRHuk+8Szgg38dFDzirBZL1a16VdWr0OLgrti95DeoCFO3WPXtCg+zbqkMs221Mx0I6l7+MhoqFuiDdNDi1L8xIjKyfA6lJKQksc/O1ZQFhBSVooHang+283VbUz1r4UJko=;inxPop1uLpuozuOKsWUS9g=="
+secured: "gTQjmxF4w8vYO3yCATXsjchSsrsrdm3jHYYTr6tMGgnoTb7lejXCEG5xzoVeHEKSCHPZhQN7ZTTi9gOzvJ9Ee3tnf9QLoWemcEEBeVobfFzho3gFny6EjK9U4oWKzfctxCKxzW059axWB4bYaTOXA8ZHtlxP47BQ4+dT1/bCDfd9osA6+5Lbn89H6leKXGFlE0EMW+siC8nqkq2xyAu/gqEM4pZ+jkXqjb8BmylYzeu4iR5HZP7GNLwpz9yTB1IM0wsrydXGntZ3gQKyHbj1iZq8CXZJ6IHNigU0I0OKcpdK2exueYN2YD16O2ItuvrFlo+rkr+CdIfjVv9jXTHLAA0azuw6HzS8yJmoh/8CAZ0=;3Qx9ZCydRrhHyWmMWNO3kg=="
 ---
 

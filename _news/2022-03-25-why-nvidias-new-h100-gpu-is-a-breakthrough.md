@@ -56,6 +56,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "10 Interesting Facts About NVIDIA Hopper H100 GPU"
+    excerpt: "NVIDIA unveiled the latest AI accelerator - the H100 Tensor Core GPU. It’s a successor to the wildly successful A100 GPU launched two years ago."
+    publishedDateTime: 2022-03-29T03:37:00Z
+    webUrl: "https://www.linkedin.com/pulse/10-interesting-facts-nvidia-hopper-h100-gpu-janakiram-msv"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGhfwiGZ4PRfw/article-cover_image-shrink_600_2000/0/1648524931225?e=1654128000&v=beta&t=3Bu1pr2Ytof_QTgPQs0YAVvcwa3LJWd0Hje-cJraT8A"
+        width: 958
+        height: 539
+        isCached: true
   - title: "NVIDIA Launches GeForce RTX 3090 Ti GPU"
     excerpt: "NVIDIA launched the GeForce RTX 3090 Ti GPU, powered by Ampere—NVIDIA’s ... those building research systems for data science and AI, or processing large data sets, and those making massive ..."
     publishedDateTime: 2022-03-29T13:01:00Z

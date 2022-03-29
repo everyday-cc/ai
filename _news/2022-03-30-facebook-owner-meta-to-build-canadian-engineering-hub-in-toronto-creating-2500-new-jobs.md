@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.cp24.com/news/2022/3/29/1_5839512.html"
 cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2022/3/29/1_5839512.html"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook owner Meta to hire 2,500 in Canadian roles, create Toronto engineering hub"
+    excerpt: "Meta founder Mark Zuckerberg’s ambitious vision to create an immersive digital realm will be aided by thousands of Canadian hires and a new engineering hub in the country."
+    publishedDateTime: 2022-03-29T21:06:00Z
+    webUrl: "https://www.bnnbloomberg.ca/facebook-owner-meta-to-hire-2-500-in-canadian-roles-create-toronto-engineering-hub-1.1744867"
+    ampWebUrl: "https://www.bnnbloomberg.ca/facebook-owner-meta-to-hire-2-500-in-canadian-roles-create-toronto-engineering-hub-1.1744867.amp.html"
+    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/facebook-owner-meta-to-hire-2-500-in-canadian-roles-create-toronto-engineering-hub-1.1744867.amp.html"
+    type: article
+    provider:
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 38
+    images:
+      - url: "https://www.bnnbloomberg.ca/img/bnn/amp/BNN_placeholder.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Facebook to Set Up New Engineering Hub in Canada, Create 2,500 New Jobs"
     excerpt: "Meta formerly Facebook has today announced the creation of a new engineering hub in Canada based in Toronto, alongside increased hiring across Canada. This is expected to create up to 2,500 new jobs over the next several years."
     publishedDateTime: 2022-03-29T18:48:00Z

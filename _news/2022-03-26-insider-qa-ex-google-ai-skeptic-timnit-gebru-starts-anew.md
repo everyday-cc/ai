@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Insider Q&A: Ex-Google AI skeptic Timnit Gebru starts anew"
-excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence"
-publishedDateTime: 2022-03-26T10:01:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/insider-qa-google-ai-skeptic-timnit-gebru-starts-83685774"
-webUrl: "https://abcnews.go.com/Technology/wireStory/insider-qa-google-ai-skeptic-timnit-gebru-starts-83685774"
+excerpt: "When she co-led Google's Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry's approach to artificial intelligence. That was before Google pushed her out of the company more than a year ago."
+publishedDateTime: 2022-03-26T10:00:00Z
+originalUrl: "https://apnews.com/79cd13b50b51452d29963490b96815bd"
+webUrl: "https://apnews.com/79cd13b50b51452d29963490b96815bd"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_3aa9eaa491ab41348e46ce734ce58463_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://storage.googleapis.com/afs-prod/media/3aa9eaa491ab41348e46ce734ce58463/3000.jpeg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
@@ -61,6 +62,6 @@ related:
       domain: japantoday.com
     quality: 19
 
-secured: "SMrVszYsiHKz0JhCk9TG6pMTRdBZgkPrPDOj+tEBqux1yZ+RVFKBH8/iBe3yf/SnVkNMBSlcdZSxvdQvYEFmmvded6JSCUov+VoK//E3w9xKugmtbn1hogp7qBQ5U5Z2eNqAU/f3t0ydMOmhylFwwvCqbp2VWi8GDNQWSXWCw+yoZLhJ18/BdJwK3uCub+DnzH8eg+KLT6JvqiSoTNg9Fa5shyOl4jiEQiAhpQPBSODORR9ovuk96bf50KNslYNxwwDjjUh0F2+mQ0fLBU/MOmctEXglczYGRqj0GpNBTzP6psfe9cXzj3+ljqYZng2VosyqzXevs8TDh5AIVOKtacZiaeikwIkTnuneYrgal+g=;We7cXZuzYhFt2Cubmn88kg=="
+secured: "DWRMxoJbzuzFYyBHB52NkHaPePg9LZhX2DChaX6FCjY/KRzcmFvCECKIkN63GfTKqxdUUDRXZRxl81EuC43zpSTYvEvOahy61cZC0JhR4SJK/hA6+pNgSzXfBfNukKLg/l849KAyj/h58vG4hFLtblT8SovAFYmfdOZC+gp4tttp8NdL9cWPadjhrOBQkTcyuQ5xttNvg7qwfk9yP4cCQsHwfFDHMCDkzuzo1c4z3F9lusndlAtzS5be9s00ZXbgfmyL2V3x7AmM/qr84gPFJY6pT5r6cCtLKOu25tzq+vd647TmK0NJHtO638MQwqpdt2eBho6gMOeJiraYffsk+shnRr0fhJP8Ye0cRBN3t0s=;ftKGDB5/npCzQZ73WARaig=="
 ---
 

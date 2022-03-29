@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook owner Meta to hire 2,500 in Canadian roles, create Toronto engineering hub"
+    excerpt: "Meta founder Mark Zuckerberg’s ambitious vision to create an immersive digital realm will be aided by thousands of Canadian hires and a new engineering hub in the country."
+    publishedDateTime: 2022-03-29T21:06:00Z
+    webUrl: "https://www.bnnbloomberg.ca/facebook-owner-meta-to-hire-2-500-in-canadian-roles-create-toronto-engineering-hub-1.1744867"
+    ampWebUrl: "https://www.bnnbloomberg.ca/facebook-owner-meta-to-hire-2-500-in-canadian-roles-create-toronto-engineering-hub-1.1744867.amp.html"
+    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/facebook-owner-meta-to-hire-2-500-in-canadian-roles-create-toronto-engineering-hub-1.1744867.amp.html"
+    type: article
+    provider:
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 38
+    images:
+      - url: "https://www.bnnbloomberg.ca/img/bnn/amp/BNN_placeholder.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Facebook owner Meta to build Canadian engineering hub in Toronto, creating 2,500 new jobs"
     excerpt: "Meta Platforms Inc. — parent company of Facebook, Instagram and WhatsApp — announced plans to build a new Canadian engineering hub located in Toronto Tuesday afternoon."
     publishedDateTime: 2022-03-29T17:20:00Z
@@ -56,6 +72,6 @@ related:
         height: 630
         isCached: true
 
-secured: "UlVNvCN69yOCcofMpvV5j0LpfU+XObex382h9ICU6BqUbFYspfObxXfNhHNAh+QzM42/Gayioa2kJnmJVEFyRtmrUoqG5lEs38GvtT+akuplpM4qAroZllubUd73GjyNVQAq4PpJ7tv8Lb0c4+nen4Set2o1xSgkBR+YGPwPyRzqsuNV12XTROEjnjHVmZ+ug4JWaU6MBLR/Q61CtvLhp6h9D8HmsBCLg8VMIQQYrs6LsvpN33cfZOma5NyCp1/txtRnb3FDyoecHjr/B5LlFaLjQOpu/4amV8fAoGEjkc1dTou8Rx1SuFsbaw0fRlbygtREjB5KNOsbi2OE1ZAGwVGZGX/8CmOJQz59pp7lGd0=;eYL5dLe3Ol/tVzuWi26QZQ=="
+secured: "dWraIB3HLBowQXLZNbdwQI8FNdvGS7TUXwvjcZtAmpj2n6mwiySOoToeU5RqYc/6IWYB+u1TeVIETPRQwbh2KcBH/7Ygf7BhJZ2a5ZvR+4c5+kU7Rq37HrAy+gJEO9TOejtb4xSCZGIoasI+UjiI8vfahrSkOsdRD4PWgpYPYoEbuyt7VyeohvjIc/lj6jyW4/0t13q9QCp94T/NTHS0USuxMx4QkU0cXZYlcEasXUZjT0T2mYwxeoX+vvW1D05EYiX2eGM2eVz3d1nm1xFILKNiBQEd/N4ZJEngpdCs7LQze9JY0NcdfZLQsYnpzj7WLsQ6JRRFbxNLIF9kGiII9hZbWKK+Ow2Jgl9S3GG5XSNlTFCx7qCZvzWSD0Me6Ked1aSfaVzm8MDrrxEOi4EEJV/vlayhEL2u1U65oSpxHiBDf5rTp6oNjvzW1yzn6Wc6dsS+DNCLom3Zqw8bLc5Fg66sSQz+ym5XTa4a5glEiVu1B5AsJESCcdBstcY7TUwJ+b8JaAfVoAVZkbYuDD4aWQ==;HVfYp0iZz7ZTKMOTohi5yA=="
 ---
 

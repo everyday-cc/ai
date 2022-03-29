@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-30-video-teslas-new-full-self-driving-technology-still-a-work-in-progress.md",
+      "title": "VIDEO: Tesla's new \"full-self driving\" technology still a work in progress",
+      "excerpt": "Don't let the phrase \"full-self driving\" fool you. It's going to be a while before drivers can let their Tesla do all the",
+      "sourceUrl": null,
+      "webUrl": "https://www.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress",
+      "originalUrl": "https://www.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.kelownanow.com/files/files/images/tewtes.jpg",
+          "width": 828,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress",
+      "cdnAmpWebUrl": "https://amp-kelownanow-com.cdn.ampproject.org/c/s/amp.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress",
+      "publishedDateTime": "2022-03-29T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kelowna",
+        "domain": "kelownanow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-heatwave-ml-real-time-intelligence-comes-to-mysql.md",
+      "title": "HeatWave ML: Real-Time Intelligence Comes To MySQL",
+      "excerpt": "Senior Analyst, Matt Kimball, covers Oracle's new MySQL Heatwave which enables organizations to run OLTP and analytics from a single database, eliminating extract, transform, load (ETL) functions or the need to maintain multiple databases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624360b4b7f6e4cfc8415639/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/amp/",
+      "publishedDateTime": "2022-03-29T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-otterai-which-powers-speech-transcription-with-ai-unveils-updates.md",
       "title": "Otter.ai, which powers speech transcription with AI, unveils updates",
       "excerpt": "The new Otter.ai hopes to streamline communication with what the company claims is \"the first use of conversational AI to power meetings.\"",
@@ -10,7 +105,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/29/otter-ai-which-powers-speech-transcription-with-ai-unveils-updates/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -49,7 +144,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1097,7 +1193,7 @@
       "originalUrl": "https://www.globalbankingandfinance.com/the-impact-open-banking-cloud-and-ai-are-having-on-the-banking-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1130,101 +1226,6 @@
         "AI in Finance",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-ai-visionary-and-cio-leader-atefeh-riazi-of-memorial-sloan-kettering.md",
-      "title": "AI Visionary And CIO Leader Atefeh Riazi Of Memorial Sloan Kettering",
-      "excerpt": "My Conversation with one of the most influential, inspirational and brilliant minds. As part of my Series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was honored to converse with Atefeh (Atti) Riazi,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2022/03/28/ai-visionary-and-cio-leader-atefeh-riazi-of-memorial-sloan-kettering/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/03/28/ai-visionary-and-cio-leader-atefeh-riazi-of-memorial-sloan-kettering/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6241da25a9cfb1481d6edf12/0x0.jpg?format=jpg&crop=2316,1303,x0,y142,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/03/28/ai-visionary-and-cio-leader-atefeh-riazi-of-memorial-sloan-kettering/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/03/28/ai-visionary-and-cio-leader-atefeh-riazi-of-memorial-sloan-kettering/amp/",
-      "publishedDateTime": "2022-03-28T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-education-minister-praises-tech-innovations-as-he-meets-robots.md",
-      "title": "Education minister praises tech innovations as he meets robots",
-      "excerpt": "Education Minister Prodromos Prodromou highlighted the importance of digital skills on Monday during his visit to the digitally supported learning environment at the pedagogical institute. The minister had the opportunity to meet and interact with humanoid robots NAO and PEPPER and learn about the robotics kits,",
-      "sourceUrl": null,
-      "webUrl": "https://cyprus-mail.com/2022/03/28/education-minister-praises-tech-innovations-as-he-meets-robots/",
-      "originalUrl": "https://cyprus-mail.com/2022/03/28/education-minister-praises-tech-innovations-as-he-meets-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cyprus-mail.com/wp-content/uploads/2022/03/prodromou.jpg",
-          "width": 1920,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-28T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cyprus Mail",
-        "domain": "cyprus-mail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

@@ -25,81 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota starts testing self-driving ride-hailing fleet"
-    excerpt: "Toyota, together with Aurora Innovation Inc., is currently testing a fleet of self-driving Sienna units in Texas."
-    publishedDateTime: 2022-03-28T06:37:00Z
-    webUrl: "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410"
-    ampWebUrl: "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp"
-    cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp"
+  - title: "VIDEO: Tesla's new \"full-self driving\" technology still a work in progress"
+    excerpt: "Don't let the phrase \"full-self driving\" fool you. It's going to be a while before drivers can let their Tesla do all the"
+    publishedDateTime: 2022-03-29T21:15:00Z
+    webUrl: "https://www.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress"
+    ampWebUrl: "https://amp.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress"
+    cdnAmpWebUrl: "https://amp-kelownanow-com.cdn.ampproject.org/c/s/amp.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress"
     type: article
     provider:
-      name: Philkotse
-      domain: philkotse.com
-    quality: 59
+      name: Kelowna
+      domain: kelownanow.com
+    quality: 72
     images:
-      - url: "https://img.philkotse.com/2022/03/28/WFFKkBCT/toyota-sienna-aurora-942f_wm.jpg"
-        width: 900
-        height: 600
+      - url: "https://amp.kelownanow.com/files/files/images/tewtes.jpg"
+        width: 828
+        height: 453
         isCached: true
-  - title: "Toyota and Aurora Are Testing Self-Driving Vehicles in Texas"
-    excerpt: "About a year after announcing plans to partner on the development of self-driving vehicles, Toyota and Aurora Innovation have put their prototypes on the road. These are based on"
-    publishedDateTime: 2022-03-29T14:12:00Z
-    webUrl: "https://www.auto123.com/en/news/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
-    ampWebUrl: "https://www.auto123.com/en/news/amp/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
-    cdnAmpWebUrl: "https://www-auto123-com.cdn.ampproject.org/c/s/www.auto123.com/en/news/amp/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
+  - title: "Here’s why Elon Musk says Tesla’s self-driving feature doesn’t work downtown Toronto"
+    excerpt: "Canadian Tesla drivers are getting to test out the Full Self-Driving (FSD) Beta across the country, for now, downtown Toronto is off limit."
+    publishedDateTime: 2022-03-29T20:08:00Z
+    webUrl: "https://dailyhive.com/toronto/tesla-self-driving-downtown-toronto"
     type: article
     provider:
-      name: Auto123
-      domain: auto123.com
-    quality: 44
+      name: Daily Hive
+      domain: dailyhive.com
+    quality: 32
     images:
-      - url: "http://picolio.auto123.com/auto123-media/articles/2022/3/69082/toyota-aurora-1fr.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Mercedes to accept legal responsibility for accidents involving self-driving cars"
-    excerpt: "Mercedes has announced that it will take legal responsibility for any crashes that occur while the self-driving system on any of its cars is engaged."
-    publishedDateTime: 2022-03-28T17:55:00Z
-    webUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/"
-    ampWebUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Sunday Times Driving
-      domain: driving.co.uk
-    quality: 39
-    images:
-      - url: "https://www.driving.co.uk/wp-content/uploads/sites/5/2021/09/SAE-levels-of-automation.jpeg?w=1000"
-        width: 1000
-        height: 680
-        isCached: true
-  - title: "Self-driving cars move closer to approval as Toyota tests cars in USA"
-    excerpt: "Japan Toyota Motor Company and Aurora Innovation an American developer of automated driving systems have begun testing an autonomous ride-hailing fleet in Texas"
-    publishedDateTime: 2022-03-27T03:06:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272425617/self-driving-cars-move-closer-to-approval-as-toyota-tests-cars-in-usa"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1648272795281.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Self-driving vans from Toyota and Aurora partnership start testing in Texas"
-    excerpt: "They are testing in the Dallas-Fort Worth area, where Aurora has been testing self-driving semi-trailer trucks since 2020. Some of the conditions the prototypes are faced with inc"
-    publishedDateTime: 2022-03-28T14:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1135428_self-driving-vans-from-toyota-and-aurora-partnership-start-testing-in-texas"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 22
-    images:
-      - url: "https://images.hgmsites.net/hug/toyota-and-aurora-self-driving-car-prototype_100834160_h.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://images.dailyhive.com/20220329123729/shutterstock_1481877533-500x256.jpg"
+        width: 500
+        height: 256
         isCached: true
 
 secured: "vf/XrOFRHxwBEdA7vSitmL+j909ZilU+931Log+Ix+nCxap9XVoKX9xXxTFv3iHRFjlaVD9c1+peTWYAlR4eLaV00ZwZSi0Sh6JM5KeARbGSKfAuZCvcUrY6is/WuCWki/+5KEt5DKgRJXF9CeY4pcYxsilrQMXkHxkENIGby7uWDdcfonu/0fLDzcYN+Kq2EoiFpeywY9GZPVkk86MiaGxLi80bnzPtzZtKxaaJkRDbwrUSzIdELRSotc+47+VtgImpJFLjz7QcjJCJhutS+gUyssWpbI7IlwUOggbUC9bTcEwsxBg/vu+aL7ZIe0FNvMJ77CkLWH63PFMqCG0xu0vq8giJLuwBtIeMS93pVUBaOOLTarLPAcD5vh58SRFTKoNzPkXSJKqLOnAvZjWOfMejZKEHqzY7wr6ptA6QmPfUWWwBEeXzsiXbnBJHQN4up3nJ2XT4Ef4iV3onubkKOb5RS7bYuRCwhZUE2/S2BaGyTxJbOlIFNZeBY9+ih84O0nHPxck4884rCLZxtr0BLg==;vmeVCPwaWOVcu+vV/tqYHg=="

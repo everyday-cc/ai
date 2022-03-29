@@ -9,7 +9,7 @@ ampWebUrl: "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-f
 cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.driving.co.uk/wp-content/uploads/sites/5/2021/09/SAE-levels-of-automation.jpeg?w=1000"
         width: 1000
         height: 680
-        isCached: true
-  - title: "Tesla is working to release huge full self-driving beta update"
-    excerpt: "Tesla is currently working on releasing a beta version of its \"Full Self-Driving\" (FSD) software. What features does this beta version include?"
-    publishedDateTime: 2022-03-28T19:21:00Z
-    webUrl: "https://techaeris.com/2022/03/28/tesla-is-working-to-release-huge-full-self-driving-beta-update/"
-    type: article
-    provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 39
-    images:
-      - url: "https://techaeris.com/wp-content/uploads/2021/12/Tesla-Model-3.jpg"
-        width: 1170
-        height: 724
         isCached: true
   - title: "Self-driving cars move closer to approval as Toyota tests cars in USA"
     excerpt: "Japan Toyota Motor Company and Aurora Innovation an American developer of automated driving systems have begun testing an autonomous ride-hailing fleet in Texas"

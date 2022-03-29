@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-29T16:34:00Z
 originalUrl: "https://siliconangle.com/2022/03/29/omniml-exists-stealth-10m-bring-powerful-ai-edge/"
 webUrl: "https://siliconangle.com/2022/03/29/omniml-exists-stealth-10m-bring-powerful-ai-edge/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/cctv-security-technology-with-lock-icon-digital-remix.jpg"

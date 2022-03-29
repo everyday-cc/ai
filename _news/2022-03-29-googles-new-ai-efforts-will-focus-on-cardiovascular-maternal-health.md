@@ -8,8 +8,8 @@ webUrl: "https://healthitanalytics.com/news/googles-new-ai-efforts-will-focus-on
 ampWebUrl: "https://healthitanalytics.com/news/amp/googles-new-ai-efforts-will-focus-on-cardiovascular-maternal-health"
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/googles-new-ai-efforts-will-focus-on-cardiovascular-maternal-health"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -20,6 +20,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "7JxQSB1mgaE0ExotFLicCEeKacGXpd7jH/EUYnRzCipb3LgMtdj93ERnQKFlOyRGM95cVcztfoXwCmfv3nS5xkzqn3Vbh+jockuZAWWg6sH9v5+wTqXU1GGNTwl4xngyLWPyzpKtg8/DiZSZwxLvg3gcShiQDeMDTX4+YxvQYxMMOeyRpWP6pqnaP4o8ITbykxKDQmKG5RJdZLc55QuhD1vDZk+Ym85Bdx6wbR9Ir+H2kmXxGMdrAhtAuKjWPrttcMc6MgoMiPfJHmbNKdGSGiJ/6az8oOTTCAqhwpw4klU7mHLh5HKQnZq3tK7ZcTEPCCtNEraVmipwyIrJ2NcnWkSz7U5OLDB4PxgmFIKp1P0=;Fj1wH7HJTrx4yR8+IAptrg=="
+images:
+  - url: "https://healthitanalytics.com/images/sized/2020-08-28-GettyImages-922385448-e4b00c1efb9503a805928b101c78b499.png"
+    width: 480
+    height: 278
+    isCached: true
+
+secured: "dqXTx1IJNbZvgPV6JODHcxC2E2N4Gi7Hn5EFjO4wvuhKeIm6L44meQItrKH+U3crV/E2n0NWBwhOcNgpQnhW5LKW25RbQ+N74uy7wFUOdDLeFFLOp7Pda7Qw33DENYodmOI3cmJv5zPzLYBMODTqz4taNow2FUA8fAJQu/fweGeQnHHqNj7rukn76Oc+Y9lrVKokM2EII+QzV7FG6yDmbyMEqEYU8eEs95uwxB/HgSYpx69KyaLNWXX2juOk7X6C1+WsgGiV0YqFK4+MBVbCkP5/l8NWVUax5maZ3mPQsI2cHXY8myj3c0MYikKWS4ucgVfHVWMmkeKbXt9BRjssSE+LgxEwW7COesCpVQvXUw4=;nQ1EZ1r9/SSPgWcATXkOjA=="
 ---
 

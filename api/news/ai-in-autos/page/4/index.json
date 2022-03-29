@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-21-self-driving-trucks-still-need-humans.md",
+      "title": "Self-driving trucks still need humans",
+      "excerpt": "The future of autonomous trucking requires the definition of a man-machine interface that can handle every operational situation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/self-driving-trucks-still-need-humans/",
+      "originalUrl": "https://www.techrepublic.com/article/self-driving-trucks-still-need-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2014/03/truck_849x565_031814.jpg?x23932",
+          "width": 849,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/self-driving-trucks-still-need-humans/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/self-driving-trucks-still-need-humans/amp/",
+      "publishedDateTime": "2022-02-21T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-21-teslas-autopilot-feature-is-reportedly-being-investigated-by-german-regulators.md",
       "title": "Tesla's Autopilot feature is reportedly being investigated by German regulators",
       "excerpt": "Tesla's Autopilot is being probed by regulators at Germany's Federal Motor Transport Authority, according to newspaper Bild am Sonntag.",
@@ -1351,49 +1403,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-13-5-chinese-stocks-in-cathie-woods-portfolio.md",
-      "title": "5 Chinese Stocks in Cathie Wood’s Portfolio",
-      "excerpt": "For example, the company’s Advanced Driving Support System (ADAS), Apollo, has twice as much data on miles driven than any other initiative in the world, giving Baidu (and China) a large lead in the global AI arms race. In addition, Baidu’s cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-chinese-stocks-in-cathie-woods-portfolio-1022410/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-chinese-stocks-in-cathie-woods-portfolio-1022410/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/03/08164427/Cathie-Wood-ARK-Investment-Management-1267.jpg",
-          "width": 1613,
-          "height": 2048,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-12T11:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

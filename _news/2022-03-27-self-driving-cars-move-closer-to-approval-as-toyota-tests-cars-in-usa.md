@@ -73,20 +73,6 @@ related:
         width: 1000
         height: 680
         isCached: true
-  - title: "Tesla is working to release huge full self-driving beta update"
-    excerpt: "Tesla is currently working on releasing a beta version of its \"Full Self-Driving\" (FSD) software. What features does this beta version include?"
-    publishedDateTime: 2022-03-28T19:21:00Z
-    webUrl: "https://techaeris.com/2022/03/28/tesla-is-working-to-release-huge-full-self-driving-beta-update/"
-    type: article
-    provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 39
-    images:
-      - url: "https://techaeris.com/wp-content/uploads/2021/12/Tesla-Model-3.jpg"
-        width: 1170
-        height: 724
-        isCached: true
   - title: "Self-driving vans from Toyota and Aurora partnership start testing in Texas"
     excerpt: "They are testing in the Dallas-Fort Worth area, where Aurora has been testing self-driving semi-trailer trucks since 2020. Some of the conditions the prototypes are faced with inc"
     publishedDateTime: 2022-03-28T14:00:00Z

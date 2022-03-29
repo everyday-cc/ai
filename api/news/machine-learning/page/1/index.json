@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-30-heatwave-ml-real-time-intelligence-comes-to-mysql.md",
+      "title": "HeatWave ML: Real-Time Intelligence Comes To MySQL",
+      "excerpt": "Senior Analyst, Matt Kimball, covers Oracle's new MySQL Heatwave which enables organizations to run OLTP and analytics from a single database, eliminating extract, transform, load (ETL) functions or the need to maintain multiple databases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624360b4b7f6e4cfc8415639/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/amp/",
+      "publishedDateTime": "2022-03-29T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-automated-scalable-and-cost-effective-ml-on-aws-detecting-invasive-australian-tree-ferns-in-hawaiian-forests.md",
       "title": "Automated, scalable, and cost-effective ML on AWS: Detecting invasive Australian tree ferns in Hawaiian forests",
       "excerpt": "This is blog post is co-written by Theresa Cabrera Menard, an Applied Scientist/Geographic Information Systems Specialist at The Nature Conservancy (TNC) in Hawaii. In recent years, Amazon and AWS have developed a series of sustainability initiatives with the overall goal of helping preserve the natural",
@@ -104,6 +156,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-28-global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028.md",
+      "title": "Global Machine Learning Courses Market 2022 with Covid-19 Impact Analysis and Forecast by 2028",
+      "excerpt": "MarketsandResearch.biz has presented a new market study on Global Machine Learning Courses Market 2022 by Company, Regions, Type and Application, Forecast to 2028 which delivers an executive-level market analysis that will help clients to build strategies to expand their market operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028-2022-03-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028-2022-03-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-27T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -543,6 +648,49 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-deep-bio-presented-deep-learning-based-cancer-research-at-the-uscap-111th-annual-meeting.md",
+      "title": "Deep Bio Presented Deep Learning-based Cancer Research at the USCAP 111th Annual Meeting",
+      "excerpt": "These deep learning-based pathology algorithms demonstrated their potential utility as cancer diagnostic support software. The studies explore how deep learning can be utilized in cancer diagnosis ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deep-bio-presented-deep-learning-based-cancer-research-at-the-uscap-111th-annual-meeting/article_fb89bd72-1138-5658-a13c-550b38c89c13.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deep-bio-presented-deep-learning-based-cancer-research-at-the-uscap-111th-annual-meeting/article_fb89bd72-1138-5658-a13c-550b38c89c13.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1264,126 +1412,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-mathematical-paradoxes-demonstrate-the-limits-of-ai.md",
-      "title": "Mathematical paradoxes demonstrate the limits of AI",
-      "excerpt": "Humans are usually pretty good at recognising when they get things wrong, but artificial intelligence ... paradox shows AI’s limitations. Neural networks, the state of the art tool in AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/946785",
-      "originalUrl": "https://www.eurekalert.org/news-releases/946785",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-artificial-intelligence-chipsets-market-size-worth-12567-billion-globally-by-2028-at-3408-cagr-verified-market-research.md",
-      "title": "Artificial Intelligence Chipsets Market size worth $ 125.67 Billion, Globally, by 2028 at 34.08 % CAGR: Verified Market Research®",
-      "excerpt": "Verified Market Research recently published a report, \"Artificial Intelligence Chipsets Market\" By Technology (Natural Language Processing, Machine Learning), By Hardware (Memory, Network),",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-chipsets-market-size-worth-125-67-billion-globally-by-2028-at-34-08/article_873fe271-a5f9-503b-97c5-e72bee51cd92.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-chipsets-market-size-worth-125-67-billion-globally-by-2028-at-34-08/article_873fe271-a5f9-503b-97c5-e72bee51cd92.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-human-brain-inspires-design-of-chips-that-can-rewire-themselves.md",
-      "title": "Human Brain Inspires Design of Chips That Can Rewire Themselves",
-      "excerpt": "who created simulations of the experimental data to demonstrate that the internal physics of the hardware creates a dynamic structure for an artificial neural network, they said. The Purdue team built the device—which operates at room temperature--using ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics/human-brain-inspires-design-chips-can-rewire-themselves",
-      "originalUrl": "https://www.designnews.com/electronics/human-brain-inspires-design-chips-can-rewire-themselves",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/HumanAI_0.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

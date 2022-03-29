@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-quantinuum-announces-updates-quant
 webUrl: "https://www.tmcnet.com/usubmit/-quantinuum-announces-updates-quantum-natural-language-processing-toolkit-/2022/03/29/9572002.htm"
 type: article
 quality: 1
-heat: 1
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Quantinuum Updates to Quantum Natural Language Processing Toolkit lambeq"
+    excerpt: "The quantum natural language processing team at Quantinuum, an integrated quantum computing company, has released an update to its open-source Python library and toolkit, lambeq (pronounced “lambek”)."
+    publishedDateTime: 2022-03-29T21:45:00Z
+    webUrl: "https://insidehpc.com/2022/03/quantinuum-updates-to-quantum-natural-language-processing-toolkit-lambeq/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 18
   - title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit Lambeq, Enhancing Accessibility"
     excerpt: "Lambeq update introduces many new important features to provide researchers and developers with more options and flexibility in turning sentences into quantum circuits OXFORD, England,"
     publishedDateTime: 2022-03-29T09:10:00Z
@@ -38,6 +47,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "qTKfJT+eUkdWqLM68pfqQ1xmnXKsOCXJi8YwJBsViX4OSuTVSdpTmsE8B/y8MxNLHIUWLDTlXRVAe7zbqL2jeayEFfzJvNpYM5DsG8l7cNk7QFBL9EO+4OGe16EgYOrLgPG5EiDMGe3LL+qjxYgDP35+x05L1MV9B15d6MALa5580xlReoHMdfFuUkPvxHAHLt7o8a6qzB0k+nMSxBKWzYlu/gQ04t8evxESPxT5wnD1EMogUf0PC7J07ZLtJAvhIYUboTLxiFhRYvNaLb1PP3YkwhvAAsyDHp/Cunh9Ch/9ackzRy1LtxOZbL63MpxeI2Dj/O14jHNMia6EO8Dyr1cKO06HH9VSfZAuLoFdKP8=;Ex+1hZBWu5sH7NkxF7iGow=="
+secured: "3VSjjYOidmGO7Zko5fBXcWAmNBphkPqXM//3WhdEYVWfltzZQhbWQfo2TlF3gEgrnJtTn+XqLC51AszmMn9oEVSpuIEGvocMuPX2B8eg49kjH9rfuICwgj0t3ai3yKI+Em7hKFE5UKGBPGhPfl4D567lrKPvCJvko4CsstBW+LphjtbFpxjXzLdqxen8EIH79qQT3n0jVWkifaKXAHZJTg6En2+DjO9eCiI+rh+6AgzZkCCnz2enSibAOA+H03bTVNJMmhYCyEkCCvjP5BTCpg8sk+YVtWe+nETNpn+834ZxQPNNUKVMXIkOkBZe9nM8iskX1hEP8WOj86d3gUfIERjR1stp6r9TPEy8y4VL3aM=;h28u6DlfEEi0yU4Gn195/g=="
 ---
 

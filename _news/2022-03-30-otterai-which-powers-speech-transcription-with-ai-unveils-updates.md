@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/03/29/otter-ai-which-powers-speech-transcr
 ampWebUrl: "https://venturebeat.com/2022/03/29/otter-ai-which-powers-speech-transcription-with-ai-unveils-updates/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/otter-ai-which-powers-speech-transcription-with-ai-unveils-updates/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1367728606-e1645809619993.jpg?fit=800%2C547&strip=all"
@@ -47,6 +48,6 @@ related:
         height: 900
         isCached: true
 
-secured: "PKmc62tuO8l8kJsJrrHURRVuYRwnOD5KMfK3zYIIOiEOTxh9GP8mNHDMuLJWSKBa04zmxVaAzVJEPZIJVN01CmwYCHwNBpMnyZrlCKD4I4lt0l+6jOycNnC8tcs4VNYUUrv585BNN5fp9pzxRQTTGNeBZgETPfnG+PKKfxJs2whCrZC6hxjBa5tnf2/tufptFSUcmo1skzlOQxL/5pOfTi1zx2E213u9elOAKDN6xrurHcIa2TxDoczqlxtW/ZEV7GmHxraKOhI/eKNsa/794lyAj0QS3pyW1Kav1DrGRLSbcEI5i0CIWY7Mcc+WLdR1dGNBiQv2LNjCBtBeLLW1CnqRTodBOCfcHTE9mmC8Kq8=;7PEflh8YA4jK7g7e5nEyeg=="
+secured: "s/FIiazQg63GvmzUWlkPF1aHBPvTl9hiq4GH6HYUlq/0XxEhaBmqXg5uloJhscE3YK5y3vwvzqHBLllU9Y6p4AeNuNzO94CvAWS0e3ANOSrG8mzdKKY2ig34+NYAJqRpSvHs+T+u+Y3xMNxQEsQn6Zn6dYQ6QKBSlL+1zpb4iiKqZ/rSKKrWOxwLvGQSL1gRm7qBz980+ySOghTYP9hwIpQSNbv4ukWVw5E8b4Qe9C/fFFCVVFNZqV7SWEqpQuJCjcMQ/kNwx0fLK/RGMxzldDRxnNI/ROqFexunYW4s49dm5X6eEMxcmPshgMxaciPhJ5TFLnB//ze168TfHLIsPnYMnrmT0EuUe4eVPv4L8bCmlljKr+5ncyX6BtjHAz6pFPNrHeKiv/gjO5SxfWKoh+aSffD/2c77t7i2dAbzFDM29L+Q19ZIps6LR6e09fXDRt4l3R6GgLIrpmuFovbohbqg4jdEf78M58rPaLKBdJ35FO200G+Ke6wPf06tOFwrHrkGTDC73SSW6MJr07AEaw==;am8zb+6WUyl5ES9BDQpDjA=="
 ---
 

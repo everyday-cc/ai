@@ -59,20 +59,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Face recognition tech joins Ukraine war"
-    excerpt: "WASHINGTON: Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said on Thursday."
-    publishedDateTime: 2022-03-25T03:15:00Z
-    webUrl: "https://www.bangkokpost.com/world/2285146/face-recognition-tech-joins-ukraine-war"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 54
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20220325/c1_4264694_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Complex questions as face recognition tech joins Russia-Ukraine conflict"
     excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said Thursday (March 24)."
     publishedDateTime: 2022-03-28T21:00:00Z

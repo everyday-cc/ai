@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-28-ai-visionary-and-cio-leader-atefeh-riazi-of-memorial-sloan-kettering.md",
+      "title": "AI Visionary And CIO Leader Atefeh Riazi Of Memorial Sloan Kettering",
+      "excerpt": "My Conversation with one of the most influential, inspirational and brilliant minds. As part of my Series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was honored to converse with Atefeh (Atti) Riazi,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2022/03/28/ai-visionary-and-cio-leader-atefeh-riazi-of-memorial-sloan-kettering/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/03/28/ai-visionary-and-cio-leader-atefeh-riazi-of-memorial-sloan-kettering/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6241da25a9cfb1481d6edf12/0x0.jpg?format=jpg&crop=2316,1303,x0,y142,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/03/28/ai-visionary-and-cio-leader-atefeh-riazi-of-memorial-sloan-kettering/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/03/28/ai-visionary-and-cio-leader-atefeh-riazi-of-memorial-sloan-kettering/amp/",
+      "publishedDateTime": "2022-03-28T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-28-education-minister-praises-tech-innovations-as-he-meets-robots.md",
+      "title": "Education minister praises tech innovations as he meets robots",
+      "excerpt": "Education Minister Prodromos Prodromou highlighted the importance of digital skills on Monday during his visit to the digitally supported learning environment at the pedagogical institute. The minister had the opportunity to meet and interact with humanoid robots NAO and PEPPER and learn about the robotics kits,",
+      "sourceUrl": null,
+      "webUrl": "https://cyprus-mail.com/2022/03/28/education-minister-praises-tech-innovations-as-he-meets-robots/",
+      "originalUrl": "https://cyprus-mail.com/2022/03/28/education-minister-praises-tech-innovations-as-he-meets-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cyprus-mail.com/wp-content/uploads/2022/03/prodromou.jpg",
+          "width": 1920,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-28T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cyprus Mail",
+        "domain": "cyprus-mail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-03-28-datarobots-cloud-80-uses-ai-and-ml-to-predict-the-unpredictable.md",
       "title": "DataRobot’s Cloud 8.0 uses AI and ML to predict the unpredictable",
       "excerpt": "With the release of Cloud 8.0, DataRobot’s Continuous AI capabilities are available in on-premises environments and leading public clouds.",
@@ -457,7 +552,7 @@
       "originalUrl": "https://www.iol.co.za/technology/complex-questions-as-face-recognition-tech-joins-ukraine-invasion-9c034c51-35e9-4050-b997-6f2148442974",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -500,7 +595,7 @@
       "originalUrl": "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -691,6 +786,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-28-global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028.md",
+      "title": "Global Machine Learning Courses Market 2022 with Covid-19 Impact Analysis and Forecast by 2028",
+      "excerpt": "MarketsandResearch.biz has presented a new market study on Global Machine Learning Courses Market 2022 by Company, Regions, Type and Application, Forecast to 2028 which delivers an executive-level market analysis that will help clients to build strategies to expand their market operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028-2022-03-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028-2022-03-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-27T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -899,7 +1047,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1095,144 +1243,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-26-languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world.md",
-      "title": "Languages in the metaverse: Why AI is critical for communication in the brave new world",
-      "excerpt": "We don’t have the superpower of universal understanding in real life. But what if it’s indeed possible to achieve it in the metaverse?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world/",
-      "originalUrl": "https://venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1369741848.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/26/languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world/amp/",
-      "publishedDateTime": "2022-03-26T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-26-ex-google-ai-skeptic-timnit-gebru-starts-anew.md",
-      "title": "Ex-Google AI skeptic Timnit Gebru starts anew",
-      "excerpt": "When she co-led Google's Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry's approach to artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-03-ex-google-ai-skeptic-timnit-gebru.html",
-      "originalUrl": "https://techxplore.com/news/2022-03-ex-google-ai-skeptic-timnit-gebru.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ex-google-ai-skeptic-t.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-03-ex-google-ai-skeptic-timnit-gebru.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ex-google-ai-skeptic-timnit-gebru.amp",
-      "publishedDateTime": "2022-03-26T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-26-border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal.md",
-      "title": "Border Patrol adds artificial intelligence cameras to security arsenal",
-      "excerpt": "Border agents in the past five months have participated in 6,630 search and rescues of migrants along the Southwestern border. They’re hoping newly deployed technology will help them not only stop",
-      "sourceUrl": null,
-      "webUrl": "https://www.wnct.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/",
-      "originalUrl": "https://www.wnct.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wnct.com/wp-content/uploads/sites/99/2022/03/CBP-IMAGE-ASTs.png?w=1280",
-          "width": 896,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wnct.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/",
-      "cdnAmpWebUrl": "https://www-wnct-com.cdn.ampproject.org/c/s/www.wnct.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/",
-      "publishedDateTime": "2022-03-26T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WNCT",
-        "domain": "wnct.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

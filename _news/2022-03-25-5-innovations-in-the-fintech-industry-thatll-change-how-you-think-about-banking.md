@@ -43,6 +43,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "How Speech Recognition and AI are Fighting Insurance Fraud"
+    excerpt: "By Nigel Cannings, CTO at Intelligent Voice. Speech recognition and AI technology are at the forefront of the fight against fraud in the insurance sector. As fraudulent individuals and organisations evolve,"
+    publishedDateTime: 2022-03-29T21:24:00Z
+    webUrl: "https://www.globalbankingandfinance.com/how-speech-recognition-and-ai-are-fighting-insurance-fraud/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/how-speech-recognition-and-ai-are-fighting-insurance-fraud/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-speech-recognition-and-ai-are-fighting-insurance-fraud/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 74
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/iStock-1173091710.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Accelerating Financial Services With AI"
     excerpt: "AI is enabling brighter financial futures for consumers and businesses. From traditional banks to new fintechs, the financial services industry is powering use cases with AI such as preventing payments fraud,"
     publishedDateTime: 2022-03-28T19:37:00Z

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Services Market Size and Analysis, Trends, Recent Developments, and Forecast Till 2028"
+    excerpt: "Elevating demand for APIs to develop smarter applications, the increasing use of the service in the functioning of different industries are some of the factors boosting the cognitive services market."
+    publishedDateTime: 2022-03-28T12:30:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cognitive-services-market-size-and-analysis-trends-recent-developments-and-forecast-till-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 26
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/7db448fc881b6b5c26e8531765d0fd0eeb014838-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "2GwnCsp4ldIOt1AMXuw84HhlLLbMiUdPqoq5D9Xli7G6bpsV2ofSY+DmknYPqUghfBiSbB1gK60f8QwHPih5Yha/+FXoH0imeQEboStWpNV5cdKvglkaXOVSy6zX03Fqg18sUZ8omM588iwTTT3S/cNwZiddb+hL4NpEFBgjMdATTTndHNfUM1zZxxlDVZsDBQp6kVXOwi9LeBOus2PCwgM0S7SUqvCdKfzHfS+bQY/g/ygBSjeVp3n9JreyCxg4Z0lcnm8GcJ5sihs6BqdQZEl/7b3Wj5UndCcjI3ertAMey+QMTKwQhLS6hybDmB0juJwasyD1Yw7j1GxtlVS+C9OpAwHjinRLOFc4qr5uAOw=;mGCgObJd6Im8QTN0Y/4wGA=="
 ---
