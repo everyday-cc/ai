@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326427"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326427"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -41,7 +41,21 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Meet Buddy, The AI Robot Helping Teach"
+    excerpt: "Buddy is an artificially intelligent robot that is being shown off at Bett 2022 as a way to help teach students. The smart robot is built to help communicate emotionally with children for connected learning engagement. That means that this little bot buddy ..."
+    publishedDateTime: 2022-03-30T09:30:00Z
+    webUrl: "https://www.techlearning.com/news/meet-buddy-the-ai-robot-helping-teach"
+    type: article
+    provider:
+      name: techlearning
+      domain: techlearning.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/bEAyqPUWEtdUVAKp2eewND-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "juLM8Ik7msvI/pZJPJoKGUFgL/vamfb9phBs9eq4cLXH6Jjs3VjQxsRMPEpX8Gbl+ML8U7YIfj7URnJmvoj6h4pthLPp3jK5nZ2rqPY0sZDjC7QZS6JRI/979iVjuNFGw1EBI/QG9ft5hhyknuxXRCmI4lgTjHfRBJ5GtFZIqrNcs3gvKv7FrAF6tz49uQhE5r9kX9hqPkU9N7CBZIY2HiB5BNhb4sTYT515bMtLLsTJL8BxgsXvUNgOxI9AdEe9bmOWh23Lbbg/tvAahmzKrXh8NYK3nHDP4naGQq5gfU6BSCuGnxfeR+sYdANi/yfNi4AK/G/Qm337HA87b4UKmV9MGTu+w7WXKL7SJBu+hmE=;fR7gG5dRFpbFNyroI4C1Sw=="
+secured: "+8mAQX5sAnD5EMFrWJZT/QGllwVhQ1hBZXK+Y4OZJ7w3+lEZ822XtVpC+1VkU79GLQ12g3jAfOvWM4HOr+M/2hrhzLvxg5cqz3R79YD8YdKlL/tjgzIbuT9x0oZpCRo9R+mpBRjNfTE+7ZRGbZKLclC+dCsB8/jn5gmjJbhohFx9dTw8+RuTmFmyg8U7hra+UJB/pSpzAdKCndJpgRxHctulNjxrVAOChb2XMtQsgLJ64fYLgEziQZlOcKFjGnIt9vIU+GeJ/7HfziTpfaf3/Bhwc6NCfUIFgxT6lXhfFbpxNE3+yiddNnkWuIrdfqmaTNBw2GzhHKJy0R/KzVfe4rmtOy+mKvEs6l/0y7ayuRe0IUC2Ni3rxdDx1HoWuHxeHtBUIg6eBnJ9Mquz6lj0R0ykyqLxChfG7JGCQtNYtaB1s8m6YL7c4vHBVvkAz44scZKuvewkNFxyxGYPKZcHPrujbZcbeWmSLN2abrD8T+S0yJeUHPBaD9a/70IZv014JT4+RCYbU5iEE0JGw9hOAQ==;PNZejx2x28vhq9ClfdxhkA=="
 ---
 

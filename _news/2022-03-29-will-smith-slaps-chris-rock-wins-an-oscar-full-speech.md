@@ -73,6 +73,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Will Smith would face little more than a slap if charged"
+    excerpt: "Will Smith’s slap seen around the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap of his own — on the wrist."
+    publishedDateTime: 2022-03-30T09:33:00Z
+    webUrl: "https://www.fbcnews.com.fj/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged/"
+    type: article
+    provider:
+      name: fbcnews
+      domain: fbcnews.com.fj
+    quality: 24
+    images:
+      - url: "https://www.fbcnews.com.fj/wp-content/uploads/2022/03/w.sMITH_.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Will Smith will not face charges after hitting Chris Rock at Oscars, LA Police say"
     excerpt: "Chris Rock made a joke about wife Jada Pinkett Smith, just minutes before Will Smith was named best actor at the ceremony."
     publishedDateTime: 2022-03-28T09:58:00Z
@@ -87,15 +101,6 @@ related:
         width: 948
         height: 532
         isCached: true
-  - title: "Will Smith would face little more than a slap if charged"
-    excerpt: "The Los Angeles Police Department has said it was aware of the incident but was not investigating because Rock declined to file a police report."
-    publishedDateTime: 2022-03-30T06:24:00Z
-    webUrl: "https://lasvegassun.com/news/2022/mar/29/will-smith-would-face-little-more-than-a-slap-if-c/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 4
 
 secured: "h/RE4mavqHFYIIYtc2dadAtRo7E9OiCcbWzl0885Kue7/CNcNEimcVyqL+vnsOdSVd34B7xoneDBNkA31JJOwK7sCYFoCAsp0TU+ttB8h6CvGPT7flLFVKOHJBI0yH3IS/Q2cG54R+S2tzEvhOY++nsM4FDfWc7Ze5nufQ6dmzSCAOVEpbOIHENv0FV6A0KFOkotq+VN8tO36RoB4KgvDI+hu13LIun4HposUwu3I5NyKFTLoGYE2xB+oRMKGRbmv0MCecAmm3OgMjYfMGQPckx+NojdeT4gE/HZXQcrfISqxJpTc9OHWDluGAJKPX4BdwQNUqev9V78K5nQoxISPi1F6aGuyPDsNG/peOE3ca0=;1iEt/bVAyKYerSXywPjXuA=="
 ---

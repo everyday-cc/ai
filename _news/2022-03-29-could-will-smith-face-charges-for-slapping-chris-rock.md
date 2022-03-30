@@ -73,6 +73,20 @@ related:
         width: 1470
         height: 1000
         isCached: true
+  - title: "Will Smith would face little more than a slap if charged"
+    excerpt: "Will Smith’s slap seen around the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap of his own — on the wrist."
+    publishedDateTime: 2022-03-30T09:33:00Z
+    webUrl: "https://www.fbcnews.com.fj/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged/"
+    type: article
+    provider:
+      name: fbcnews
+      domain: fbcnews.com.fj
+    quality: 24
+    images:
+      - url: "https://www.fbcnews.com.fj/wp-content/uploads/2022/03/w.sMITH_.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Will Smith will not face charges after hitting Chris Rock at Oscars, LA Police say"
     excerpt: "Chris Rock made a joke about wife Jada Pinkett Smith, just minutes before Will Smith was named best actor at the ceremony."
     publishedDateTime: 2022-03-28T09:58:00Z
@@ -87,15 +101,6 @@ related:
         width: 948
         height: 532
         isCached: true
-  - title: "Will Smith would face little more than a slap if charged"
-    excerpt: "The Los Angeles Police Department has said it was aware of the incident but was not investigating because Rock declined to file a police report."
-    publishedDateTime: 2022-03-30T06:24:00Z
-    webUrl: "https://lasvegassun.com/news/2022/mar/29/will-smith-would-face-little-more-than-a-slap-if-c/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 4
 
 secured: "OjkHds8mLGo4MFdzfK+5xz3EiAy8uoWRP2P/KMroRU3ZKks89jWd2m1xq2Mhf4UzvGuUYqx4sYOq779bi4DavcMtLxgpShQ9wbTigZ66xPOaeGRwwGUMTF4vU02C8KhksRJS66V7Kh9ehYycwdEaowZROUvwVGtsZe6+OP/Ipa/FL3q2da0qnHOdpkle2Dh8yCKhcByyM4oeGAbhnCW2gKHxfxCRn1W+X+Jg1669H1lQuZeoA2FVN2tQOmrjepX3KtffIA6Em7eDhu7PBsGxqXgXr5sDvXQaUYd7weVpWYPkTU23LJW8Jdask7JFVE3uIlDUP8zsy4OKki998Tl/z8KumoLesSjXymhf8ZXLQdVWf3Eoud8qQYA/na6gaOHkQkuMXni7HoYs3GJ+PT391gkzOSpHmOaKaR98Q47LdniXOAKIzDEv4K5TITnig3Qq8CkWEMmTNdTnoEQI/F8ho5K3+sNmJX7TTjYyhbiWl2KcYlqb04bYR8I6rAEvEzJ7dZK1qT5U2xpqENZyDlkUrQ==;hdaX9n3zb1HSkqT/WUs/yQ=="
 ---

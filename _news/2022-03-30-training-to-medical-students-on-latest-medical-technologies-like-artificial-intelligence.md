@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/training-to-medical-students-on-lates
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence/"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://chronicle.brightspotcdn.com/dims4/default/f5cb660/2147483647/strip/true/crop/5399x2834+1+589/resize/1200x630!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.amazonaws.com%2F37%2F40%2F9d5d13f2410e9f106ca413488d7c%2Fparkssmartnonprofitsummary0323-gettyimages-1337928487.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "\"Global Recognition for Unique AI Human Technology\" DeepBrain AI participates 'NVIDIA GTC 2022', Presenting AI Human Technology and Research"
-    excerpt: "DeepBrain AI CTO Kyung-Soo Chae presents time-reducing, lip sync video synthesis technology. Participates in \"Digital Human and Interactive AI\" session panel to introduce current status of AI Human industry."
-    publishedDateTime: 2022-03-30T03:10:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=639050"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 4
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
         isCached: true
 
 secured: "MofyELS/29lckolB1Z9DACgFXTxlJGspaJqtEbrQYxoYRYBgUl/ppYX3DfpsOqooRvxkLNikqrj2T0TRlZiGED3WoJV59E9I6ue/8wUDXCNZkHJv0X+Z25mFHDL+AWSrVU6X/rBTV8LgKZBJkZ16HzwX6XBYwUEL5ZXC1p/Ce8qhZZV284UkaJsyrfdRv9cf9VfjBEzP4L0xlOMj4szA8taQJ5x9l0Qp+LCyevyLYzwfiXv9Xxhw99099+MrDs3hnqLMdNURVWVeeoqfZl4/1Q7Xf+EFX6u3N/cHo80PmwjlBLT0CNJmQK6txypp7Vf+VWje/J3Cu/CyGUSHMayilFk90dxKIc+o6ww6xCHu5w8=;zwNTPxnqWK9HTA0411ZIeQ=="

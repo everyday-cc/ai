@@ -51,6 +51,20 @@ related:
         width: 648
         height: 432
         isCached: true
+  - title: "Oracle releases new machine learning integrations with its MySQL HeatWave cloud service"
+    excerpt: "Oracle MySQL HeatWave now supports in-database machine learning (ML) in addition to the previously available transaction processing and analytics—the only MySQL cloud database service to do so. MySQL HeatWave ML fully automates the ML lifecycle and stores all trained models inside the MySQL database,"
+    publishedDateTime: 2022-03-30T08:59:00Z
+    webUrl: "https://analyticsindiamag.com/oracle-releases-new-machine-learning-integrations-with-its-mysql-heatwave-cloud-service/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 31
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Oracle-Offers-Free-Training-And-Certification-For-Oracle-Cloud-Infrastructure.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "TmTW6f786AYKlNl8P/dsU9nYJcn7m6sFMM6jEbB9zWuE5SYJ4Mug6I4jOHES9z1fEG8I9HGTF8dskb32TZh+mqY2Yilg5QdIrj1q36JfTFB9fa/uNDO1OCWw8B6IMacfWhJWvHle8IhphzTcvS6C0/r26yCGrfd62NcdX8imeIhcRYRx9G5NliUAKvvotNdwtYVILqs1wNfrrSIy0U1oKf7vNg9Kq8OHK9h8dRxbacuTlYEg+VytvI6313xj7hcVKLQphcH2ZLfjUS/dPHlv+f4eJLc7z+tf7HrWC6A0QeRAa/wZTv6nyq08oNLhipDiRkOrpTyAhVDlAdMKUwIPyKgqCRjxd1Low0rpMkYh4AY=;l65bTe29YMV6Se6MilWEmw=="
 ---

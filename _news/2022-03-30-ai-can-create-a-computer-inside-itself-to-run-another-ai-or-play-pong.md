@@ -8,8 +8,8 @@ webUrl: "https://www.newscientist.com/article/2314039-ai-can-create-a-computer-i
 ampWebUrl: "https://www.newscientist.com/article/2314039-ai-can-create-a-computer-inside-itself-to-run-another-ai-or-play-pong/amp/"
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2314039-ai-can-create-a-computer-inside-itself-to-run-another-ai-or-play-pong/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://images.newscientist.com/wp-content/uploads/2022/03/29162923/SEI_96027808.jpg?width=1200&enable=upscale"

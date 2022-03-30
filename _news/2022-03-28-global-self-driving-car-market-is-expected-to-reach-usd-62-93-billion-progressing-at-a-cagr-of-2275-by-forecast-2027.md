@@ -67,6 +67,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Global Surgical Robots Market Size Is Projected To Reach USD 6875.1 Million By 2028, Exhibiting A CAGR Of 21.4% Between 2022 And 2028"
+    excerpt: "The increasing unmet medical requirements, and technological advancement. According to Asian Robotics Review, the surgical robotics market might get"
+    publishedDateTime: 2022-03-30T09:41:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-surgical-robots-market-size-is-projected-to-reach-usd-6875-1-million-by-2028-exhibiting-a-cagr-of-21-4-between-2022-and-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 8
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-War-AFP-1K-01-1-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "H4AG8rfum4W/89smhPHqLz3Hve307gywzdXSXLELTRNHHFD7wqtuWWTZ/AlCP9V/AS1G4nwqxJMFz79s6krU50vLOgW8SRMc68Nl1fWa11zyFuJrtrfFS5NsnXDvFGW78iqhmvr80bHju8S71y+Dkd1XnW0Q2gWFebwdm3vcy9FDoAvdvEbFiKksdavqMXv9FedWpiboRuKepDYgqpdj+8xHjIb5UR7B5mciKqJudU6YnwUtIE4cWsx04mPIZx8V7GAlzfYO4utsX7bMTszTs8rhlUsmMVSAzaT0vnK6Be++1LNk/NXEjq4MJiGvvw4/3JR0yNpIgz7PDzxuCEyWAzp70sN1zYfTPUbfAvjffjo=;KKqRwXZYZlK3lPKj50/REA=="
 ---

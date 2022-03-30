@@ -53,6 +53,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Global Surgical Robots Market Size Is Projected To Reach USD 6875.1 Million By 2028, Exhibiting A CAGR Of 21.4% Between 2022 And 2028"
+    excerpt: "The increasing unmet medical requirements, and technological advancement. According to Asian Robotics Review, the surgical robotics market might get"
+    publishedDateTime: 2022-03-30T09:41:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-surgical-robots-market-size-is-projected-to-reach-usd-6875-1-million-by-2028-exhibiting-a-cagr-of-21-4-between-2022-and-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 8
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-War-AFP-1K-01-1-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Global Self-Driving Car Market is Expected to Reach USD 62. 93 Billion Progressing at a CAGR of 22.75 % By Forecast 2027"
     excerpt: "Self-Driving Car Market Is Expected To Expand Upto USD 62. 93 Billion at a Rate Of 22.75 % percent by 2027. As per Maximize Market Research, due to"
     publishedDateTime: 2022-03-28T12:54:00Z

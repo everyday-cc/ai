@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-03-machine-techniques-glacier.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-03-machine-techniques-glacier.amp"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 2410
     height: 2004
     isCached: true
-
-related:
-  - title: "Catching up with deep learning in spectral imaging"
-    excerpt: "In recent years, deep learning has shown its power for science and application, and spectral imaging is not an exception. When spectral imaging equips with deep learning, it can make ..."
-    publishedDateTime: 2022-03-25T15:09:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/947692"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/4c61e309-22ee-403d-bd25-f8be67f6b08b/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 243
-        isCached: true
 
 secured: "TgII+rl0/uQ2aQ7FQsFp0Glm/jeLyMgXCuXok4GcOCCBQ8qM9xCke5UC1o1AKINkO6IBHEFHfc0reXbRRLS7XlzKHvBEjO/NHSF2JdBi8GlmMQtHStOfHA+i6VTqGJ2wn+hTQPTpgqmfWJvban/TNonhjBJ0BFRpJDAQJvcFc9DnEK3tWsZ8mXa4G41Cx4eExQC4BxOM+Uf2uBd2f+ir4Udt/atf84hExCJDvBAg3CnAXkY39xj4hD6UOhdoatKrHSJ3/P5x89N/uxFsTBbEPuknPBDsKXIksJ9yWFFDRLmC+1/QNFMfPPl9yHUVcHO5u/rdnppg0AonZLdIktb33t/Y9HSwGsZr6Pyj0rC39qwbDlYJHR4ks1JsJHspxxlrMDyRncc86NBspLsXB9Q71sLKNM1g9TxoNdNruwb0blYrB4Unoq8d3a4iKubot6fD9TLZ2eMu6sINLEOAuaet0LsEGlMYU7Iiyg+mNsfXLPUBsZnDwILT1mryWxGq089lrpNpxm3NioBCMSYAITOs/A==;5CPVD+qx4t5Ms/4Ext3XbA=="
 ---

@@ -2,24 +2,24 @@
 category: news
 title: "Peers challenge police use of artificial intelligence"
 excerpt: "The Lords Justice and Home Affairs Committee raised concerns about a lack of oversight for new technologies used by law enforcement agencies."
-publishedDateTime: 2022-03-30T07:31:00Z
-originalUrl: "https://www.burytimes.co.uk/news/national/20030184.peers-challenge-police-use-artificial-intelligence/"
-webUrl: "https://www.burytimes.co.uk/news/national/20030184.peers-challenge-police-use-artificial-intelligence/"
+publishedDateTime: 2022-03-30T08:01:00Z
+originalUrl: "https://www.echo-news.co.uk/news/national/20030184.peers-challenge-police-use-artificial-intelligence/"
+webUrl: "https://www.echo-news.co.uk/news/national/20030184.peers-challenge-police-use-artificial-intelligence/"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Bury Times
-  domain: burytimes.co.uk
+  name: Echo news
+  domain: echo-news.co.uk
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://www.burytimes.co.uk/resources/images/13598725/"
+  - url: "https://www.echo-news.co.uk/resources/images/13598725/"
     width: 2400
     height: 1600
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "f/DPbcnWwYoMMedmJJECX1JEIa9jz48M9z2SYSnzNu5SSLMgirgpWG1uwRzJYlyml1Cn3hJFd9J1Cnr/t2FiNnRmnKMCaqIuETjjZHndhypuNhnMGZtX2RS/iJlE9r4kLh8Inliwr21eTL1Qfrv9MTAWPGs8E/LFiytKx3lcqw5p2vuetz7xitmOb/YUBY3Aqcj1/rvKq6Mc6gwpczeyITiTSNZNST675xTtyvle37MZEoL/KvarKluij246SaDbh/Lk9lTXP1hhLl1QRd1IXxQNqFtXEzIDUlA9KcSgDufaxClJKzTRgGFF9dToE0YXHerX0aH0flPf3Txd/rrRo2m69Qxg+XS1QurSYtKLW9Q=;7SmS4c7vvs96E2RsFOCy/w=="
+secured: "FnzfxUMVCHXWwG6D+izDa8BANH+JTdz855cOFZRI11O435MkAINJjdMjbCcmpDLtIrK9YtTQV2SKN8faFB4OhFAlE1No4SaZBTQYiar/Ay0J/StmyuUVTFr1hLu7urQF5sxrkDlK9jFzQDXJZECJ1f78ydjm0SJaMP/z6nhUDgLXNVEIe0vT3HbazNiQNFt9Y5AoWD1j+pn2s56/mcVudQf4k2ON8goC6wzi8DM3ioY4Bh2f0S5tdFi8NVtx/G5Pn528OGhS/sBAXkMt7+zVA0p1vm0Sd/Jqkes7SvTb6mjDeeUr7lXnOhx45CQEaGx0tZ9IuKPkvaG2ukEX0sZW8TJ6crpJq92ry2eA6BYF8XI=;FvgmYlwDdFKe7fp1ZNcUEA=="
 ---
 

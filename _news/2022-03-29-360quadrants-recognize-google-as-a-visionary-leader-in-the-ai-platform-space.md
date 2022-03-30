@@ -28,22 +28,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Qlik Positioned in the Leaders Quadrant of Gartner® Magic Quadrant™ for Analytics and Business ..."
-    excerpt: "Qlik ® today announced it is positioned by Gartner, Inc. in the Leaders quadrant of the 2022 Magic Quadrant for Analytics and Business"
-    publishedDateTime: 2022-03-25T15:21:00Z
-    webUrl: "https://www.register-herald.com/region/qlik-positioned-in-the-leaders-quadrant-of-gartner-magic-quadrant-for-analytics-and-business/article_c02a7692-577c-51c7-b4dd-310e38e9acc6.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 10
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/2f/c2fe3e5e-68b4-11ec-b5b1-eb6d367dec1b/61cc72a6c74a5.image.jpg"
-        width: 320
-        height: 325
-        isCached: true
-
 secured: "/yGtRX18sydkkjKJIZhGdnBBU6fAB8Abjf6VuK1c5wpU9Ah44nqQJu8tAChEww/13USMRZTyfMV09PRazYLj9RR9aNqav+wLwJuT+nlJJgrdL8LP2w3wIr9VFnpfqU5SIOjIeDXEGAmWACzzUrYUTK8WrhRiVFvZA1c9l3xb7GnL9kPoWx94bqpVVLC0TVg6v7QPulDFJP429MWpYuI/bI/7n5Wl/EYVWYJcGAJ81VHvweKz07JVfR8sRcy+iXZlFQfmWR0c3Zg2DSmqkoDgne83K93twg4y2uEm0Wp5aetWJdbzExFEA7EYJNQchgTOEvmCbRyDQCnao02/WRUD6LaE/+OzSrQRc9z1iL5/vJw=;inxbqPet91/tI+mi8niKHg=="
 ---
 

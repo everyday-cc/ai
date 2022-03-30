@@ -1,0 +1,61 @@
+---
+category: news
+title: "Meet Buddy, The AI Robot Helping Teach"
+excerpt: "Buddy is an artificially intelligent robot that is being shown off at Bett 2022 as a way to help teach students. The smart robot is built to help communicate emotionally with children for connected learning engagement. That means that this little bot buddy ..."
+publishedDateTime: 2022-03-30T09:30:00Z
+originalUrl: "https://www.techlearning.com/news/meet-buddy-the-ai-robot-helping-teach"
+webUrl: "https://www.techlearning.com/news/meet-buddy-the-ai-robot-helping-teach"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: techlearning
+  domain: techlearning.com
+
+topics:
+  - AI
+  - AI in Robotics
+
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/bEAyqPUWEtdUVAKp2eewND-1200-80.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "KT launches AI quarantine robot"
+    excerpt: "KT has launched an artificial intelligence (AI) quarantine robot intended for use at hospitals and other large facilities receiving many visitors. With quarantine robots being just the start of things to come,"
+    publishedDateTime: 2022-03-30T06:06:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2022/03/133_326427.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326427"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326427"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 74
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202203/2b579531f9c14bba911005012964263f.jpg"
+        width: 980
+        height: 653
+        isCached: true
+  - title: "Aimpoint Digital Launches Aimpoint Labs to Deliver Artificial Intelligence and Machine Learning Solutions"
+    excerpt: "Aimpoint Digital is pleased to announce that its new venture Aimpoint Labs is now up and running. A trusted data and analytics consulting and solutions development firm based in the US and UK, Aimpoint Digital is dedicated to helping businesses develop into analytics-driven organizations by extracting tangible value from data."
+    publishedDateTime: 2022-03-29T14:32:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-business-software-artificial-intelligence-074fcf46b90526613184b7f2777679fe"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "p6qZAx9Qtm0vu+nF8vTbwmrwW83BqxmfAQUZ1AFoRBSuby/K9tB/ys3C0ZU4qjTUTG7CAaslfX4LxpNI9O4ekB2za1BNtMMQg4o4Ww7GwHVKzbeuYUDJiHepTpjdgGQ/uMu8vuN2hTP2CqHTJArVlvtud16SE+QvLFNVtaJa4dp0++62G8Ll+zG42qisKeEf4sL1gx3qTcxAJ1icKMzKs/EioM6aabyxCI2pKFPf51DsfTe10y83hWdjxLK/zjtv0ALVpLXYSq7KoJPp/CIKNrbMnNMcYdB1lE4zcKm3EoYfcqBksVP55+WamAUMi9/6BAdHFRx6VB1WR51SdSPW1qGGlBeswRfB8lMaF7R16eU=;quAyvUosSweRTeE6ggz1FA=="
+---
+

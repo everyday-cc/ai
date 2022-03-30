@@ -39,15 +39,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
-    excerpt: "Artificial Intelligence Excellence Award. EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligen"
-    publishedDateTime: 2022-03-25T15:09:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20220325005460/echonous-wins-2022-artificial-intelligence-excellence-award"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "/RgHh270zE2jgxyOgElgS/xSOyvn0C9pzY5acoZj5JzkjQ5+HNxiibdBWBFMasaJFknMQ/vNvYX64j6bDoEwSmgkVW8q5bxeIIuITaXmJrxc7ZLyl43bP3Syk13ZohLhHGNyaMj2Yo0YUz1R3vPI5qrRuBOPViDOG0BW9vg+qKnct9PttsO+zUu30Drqt89JdRRO60pGCn3QeTbJDbktOv3rgvI5nQIyCcN2GwYwJiu4GctqKfKcO+eEgAHEKNX1J42kguNUabEY9DcGqC1nRVOviC8hyBLPSNxR4S0MHiRvzroImrn5DJIslvORHAZLkhM/I4DTBCrZ29RXu2JB74J0UcHC/UteC5hdSlP0A1c=;JeUJLjo6GEnU6NeHB3nxwQ=="
 ---

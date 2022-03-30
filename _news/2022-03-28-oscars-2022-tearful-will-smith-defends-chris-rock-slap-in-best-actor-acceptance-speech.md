@@ -73,6 +73,20 @@ related:
         width: 1470
         height: 1000
         isCached: true
+  - title: "Will Smith would face little more than a slap if charged"
+    excerpt: "Will Smith’s slap seen around the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap of his own — on the wrist."
+    publishedDateTime: 2022-03-30T09:33:00Z
+    webUrl: "https://www.fbcnews.com.fj/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged/"
+    type: article
+    provider:
+      name: fbcnews
+      domain: fbcnews.com.fj
+    quality: 24
+    images:
+      - url: "https://www.fbcnews.com.fj/wp-content/uploads/2022/03/w.sMITH_.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Will Smith will not face charges after hitting Chris Rock at Oscars, LA Police say"
     excerpt: "Chris Rock made a joke about wife Jada Pinkett Smith, just minutes before Will Smith was named best actor at the ceremony."
     publishedDateTime: 2022-03-28T09:58:00Z
@@ -87,15 +101,6 @@ related:
         width: 948
         height: 532
         isCached: true
-  - title: "Will Smith would face little more than a slap if charged"
-    excerpt: "The Los Angeles Police Department has said it was aware of the incident but was not investigating because Rock declined to file a police report."
-    publishedDateTime: 2022-03-30T06:24:00Z
-    webUrl: "https://lasvegassun.com/news/2022/mar/29/will-smith-would-face-little-more-than-a-slap-if-c/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 4
 
 secured: "PytyhCL1ew4CsPsktGk+zkYJ6TMre/C1yqjO795UPyjYPBMVIBO5g+OuKEqZDoInfXY+4794NAILaxKm9TqpZUNRGDT8Axr8z4Vpy2QwhpUYnlZUC9uIbX6eYrMplhf7GQANtwgqRDCEeVQJK4ECz22QWGJWgqTWLpHVe1Oowi1kmfkMzMpsrM7ewq7oW4+q0lefzihqe4mTwvLjN+pXRHVd0P0XZnfBlIflP/Fx01/pN8Rxli9BZShq16+03G+nMLk9/L7qNlttMDqzAOvOW/W36TwVCWYIePk7WlkPLwfKtZfMNXCPK7ljN2YAePyQCt8LElmgQeQ8h52UO8AInclmjRYlNozkOpdevnchDMY=;HU3FKXDSxOFhKgTZDQYWLA=="
 ---

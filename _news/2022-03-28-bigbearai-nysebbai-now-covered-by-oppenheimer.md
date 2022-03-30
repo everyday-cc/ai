@@ -36,6 +36,17 @@ related:
         width: 600
         height: 385
         isCached: true
+  - title: "BigBear.ai (NYSE:BBAI) Upgraded to Hold at Zacks Investment Research"
+    excerpt: "Zacks Investment Research upgraded shares of BigBear.ai (NYSE:BBAI – Get Rating) from a sell rating to a hold rating in a research note released on Tuesday morning, Zacks.com reports. According to Zacks,"
+    publishedDateTime: 2022-03-30T08:36:00Z
+    webUrl: "https://www.etfdailynews.com/2022/03/30/bigbear-ai-nysebbai-upgraded-to-hold-at-zacks-investment-research/"
+    ampWebUrl: "https://www.etfdailynews.com/2022/03/30/bigbear-ai-nysebbai-upgraded-to-hold-at-zacks-investment-research/amp/"
+    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/03/30/bigbear-ai-nysebbai-upgraded-to-hold-at-zacks-investment-research/amp/"
+    type: article
+    provider:
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 37
 
 secured: "PJTRXuZjbvQmORHdMD/4aNAtVWVVnDIUr+LFt0vXdFnWfm9tTtCCSZC8q3gQqp2WSp4YLLCIMm5I3QMsE0YYgY7OVNoTXyh5O2RWOchqtO4rliwP/3nhvty7X5JK49djUjD4LT5LyyFgUg5lorGsV8S7oMRlHzjE8AGvYv7J07DCcJmJm/JT/Kq639Y1amLzkllh8NEcnc6q2aXs1gkdFTTmmiRtdfXHDyHDmae7jAkusBSryl5ViNvaueX/rCNjQlbJxRqgUAz12ybl9gLD4zSu6wruZTCz+noyBrDSg5FTO9wSY+1aVarTDmF8uaTbmkSL78KgYjcS06Rd0iYgmgCiXxhF8QQl4gMaicVE+IA=;L/m4heScPHIAjH7GMRyPiA=="
 ---

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-22-voice-recognition-technologies-market-2022-demand-market-share-trend-business-growth-prime-key-players-analysis-and-forecast-by-2027.md",
+      "title": "Voice Recognition Technologies Market 2022: Demand, Market Share, Trend, Business Growth, Prime Key Players Analysis and Forecast by 2027",
+      "excerpt": "Global \"Voice Recognition Technologies\" Market (2022-2027) report identifies Sales of Market by regional analysis",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/voice-recognition-technologies-market-2022-demand-market-share-trend-business-growth-prime-key-players-analysis-and-forecast-by-2027-2022-02-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/voice-recognition-technologies-market-2022-demand-market-share-trend-business-growth-prime-key-players-analysis-and-forecast-by-2027-2022-02-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-21T21:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-22-lord-lebedevs-peerage-under-spotlight-after-his-lack-of-contribution-to-parliament-since-maiden-speech.md",
       "title": "Lord Lebedev's peerage under spotlight after his lack of contribution to Parliament since maiden speech",
       "excerpt": "Boris Johnson recommended Evgeny Lebedev for a peerage, but the tycoon has not voted or contributed since his maiden speech.",
@@ -1428,59 +1480,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-could-expiration-dates-for-ai-systems-help-prevent-bias.md",
-      "title": "Could ‘expiration dates’ for AI systems help prevent bias?",
-      "excerpt": "Sainbayar Sukhbaatar, a research scientist at Meta (formerly Facebook), explored a data-focused “expiration” approach with a system that “deletes” stale data in an AI architecture called ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/11/could-expiration-dates-for-ai-systems-help-prevent-bias/",
-      "originalUrl": "https://venturebeat.com/2022/02/11/could-expiration-dates-for-ai-systems-help-prevent-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/gender-e1628617989130.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/11/could-expiration-dates-for-ai-systems-help-prevent-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/could-expiration-dates-for-ai-systems-help-prevent-bias/amp/",
-      "publishedDateTime": "2022-02-11T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

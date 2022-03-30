@@ -88,14 +88,19 @@ related:
         height: 1000
         isCached: true
   - title: "Will Smith would face little more than a slap if charged"
-    excerpt: "The Los Angeles Police Department has said it was aware of the incident but was not investigating because Rock declined to file a police report."
-    publishedDateTime: 2022-03-30T06:24:00Z
-    webUrl: "https://lasvegassun.com/news/2022/mar/29/will-smith-would-face-little-more-than-a-slap-if-c/"
+    excerpt: "Will Smith’s slap seen around the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap of his own — on the wrist."
+    publishedDateTime: 2022-03-30T09:33:00Z
+    webUrl: "https://www.fbcnews.com.fj/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged/"
     type: article
     provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 4
+      name: fbcnews
+      domain: fbcnews.com.fj
+    quality: 24
+    images:
+      - url: "https://www.fbcnews.com.fj/wp-content/uploads/2022/03/w.sMITH_.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "w0o+337yA4MHJrzM60uABeUbxGQK+dJrBJRg8lVM4d7tqfav6ycvOqNg58W6WOiq2+l/eeMw+AGr4GTMyMpfHMNDoJphzGk/D/Ltemcavxsij+YNzrIoMT1vMJxtGasWDQc+im3jKIslDWRi9NOsy8txwMSD+vWFOCxqmzIzFsWPzx3/Xmk4VaGMMr+7NfFOJH93pfwJ3h0j+wNBcRoQlRUWHm1hh/E+fYsJQBwFTi+8vrF1HffnRUqmLikU+43dcnM1ELCT9gxigl8/zzstQrJX3FIH2W++r2QJRP1ol5Cvuqv7klvt+HVsfcZdooCemaSiiWN3PgPD+922E2hRzij8raWOBegLTOGqETqkMrM=;tfB5LlaFHT/RA2oAVxzWUQ=="
 ---

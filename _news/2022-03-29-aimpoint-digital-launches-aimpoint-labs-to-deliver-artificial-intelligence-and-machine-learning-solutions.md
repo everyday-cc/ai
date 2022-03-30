@@ -42,6 +42,20 @@ related:
         width: 980
         height: 653
         isCached: true
+  - title: "Meet Buddy, The AI Robot Helping Teach"
+    excerpt: "Buddy is an artificially intelligent robot that is being shown off at Bett 2022 as a way to help teach students. The smart robot is built to help communicate emotionally with children for connected learning engagement. That means that this little bot buddy ..."
+    publishedDateTime: 2022-03-30T09:30:00Z
+    webUrl: "https://www.techlearning.com/news/meet-buddy-the-ai-robot-helping-teach"
+    type: article
+    provider:
+      name: techlearning
+      domain: techlearning.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/bEAyqPUWEtdUVAKp2eewND-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "jN9JjTe3pybcDuGKbVibzQ47W4M+OBAUzHPASBkT+eXOtIVh5etcrgwH4RvWjyaeRyMCS7xJjhhkcXDNjN8LJtwmgnR9uYFtvs+Vw4ak2chD3B6htq/N2PDN9xvFXh7oeMgNtxeKwIjWP/iwX8xmeHkByCvwyEAAJ4aRLGDRsH+cZEhXnwEa4FehmBWZq0scDh+7JxIq8AVIBpJv/uA1Rulkg22trQFSn2BgXOtAmSqJ8V09QiMoQiJuXXghjgHpVzMSxNJXqfboudKolTOwHL7DXwtU3gUhNjJrz4aSgut6LEsQAuWgDO3LSIvJx5Zi5FmDL5+hL/S4a09QvA0toEBpsADNNIzHr2vKuvnSZpI=;MkVeyocTYNd8Ff3a0Lmp5g=="
 ---

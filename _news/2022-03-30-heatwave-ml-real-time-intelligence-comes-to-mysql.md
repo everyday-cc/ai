@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-rea
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://regmedia.co.uk/2019/03/06/shutterstock_oracle2.jpg"
         width: 648
         height: 432
+        isCached: true
+  - title: "Oracle releases new machine learning integrations with its MySQL HeatWave cloud service"
+    excerpt: "Oracle MySQL HeatWave now supports in-database machine learning (ML) in addition to the previously available transaction processing and analytics—the only MySQL cloud database service to do so. MySQL HeatWave ML fully automates the ML lifecycle and stores all trained models inside the MySQL database,"
+    publishedDateTime: 2022-03-30T08:59:00Z
+    webUrl: "https://analyticsindiamag.com/oracle-releases-new-machine-learning-integrations-with-its-mysql-heatwave-cloud-service/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 31
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Oracle-Offers-Free-Training-And-Certification-For-Oracle-Cloud-Infrastructure.jpeg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Oracle Announces MySQL HeatWave ML--the Easiest, Fastest,"
     excerpt: "Oracle today announced that Oracle MySQL HeatWave now supports in-database machine learning (ML) in addition to the previously available transaction processing and analytics—the only MySQL cloud database service to do so."

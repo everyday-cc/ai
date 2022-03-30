@@ -1,25 +1,26 @@
 ---
 category: news
-title: "Using Artificial Intelligence to Solve One of Health Care’s Most Enduring Problems"
-excerpt: "Northwestern Medicine built its own artificial intelligence program to trigger follow up on incidental imaging findings to prevent delayed and missed care. CHICAGO, March 16, 2022"
-publishedDateTime: 2022-03-16T18:30:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-health-artificial-intelligence-diagnostic-imaging-e36e018883a17427cc31a1f1b7e18a86"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-health-artificial-intelligence-diagnostic-imaging-e36e018883a17427cc31a1f1b7e18a86"
+title: "Using Artificial Intelligence to Solve One of Health Care's Most Enduring Problems"
+excerpt: "Northwestern Medicine built its own artificial intelligence program to trigger follow up on incidental imaging findings to prevent delayed and missed care . CHICAGO, March 16, 202"
+publishedDateTime: 2022-03-16T18:39:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-using-artificial-intelligence-solve-one-health-cares-most-/2022/03/16/9565389.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-using-artificial-intelligence-solve-one-health-cares-most-/2022/03/16/9565389.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1768026/Northwestern_Medicine_Hospital_Exterior.jpg"
+    width: 400
+    height: 266
     isCached: true
 
-secured: "DeiY+ZjNhXqBe23dtMw+pJiURSd3c9qK8Kpysxs6q2zMfh2Hq12CMG1sfXj+ZpoDqgF4QJqNO0zfzPeMk3wvNFGrpAGX8bH7rXJ5aDYj7OD1fEW1hRQj5Kzc93VV2iN8jkCgUCnFSGNitub+4g2+0846CfiCEJJMOEcwV+lbXLe4xgsVRjz+Mko6ZptiI6WfkmL9GBCakOJToQbbtqjT8F+4HoAK/xehP8aiqyojffjnbUUloY9dA1w1KFt2lGu9c9lILSwuzzLjB5HeNF8Jqz0axtsTY+zsagaOWwptw+YkYjbk99agy9k0t12asTMZAif8cb6hsTfbKiav9xF0oz/4TER/tJxrwPvD/MnZX/I=;QPch1Vq0JGcilDdaZx9RWw=="
+secured: "xlwum2rmqcrcN9DfSox6a4PgagCeQ3V5BQ+WejLYuGQm+nGcL2ttVf7vVsDC8RvoUPT6JBcmxEvj5ASGPFhm2Hfjse/OuFmsGFswhRGqOBO/r+59cDlEwNr4XLUexcnlEXYABx0ZzriYA9SgKAgrYJwD9aqigWmlbMnbDL8JmTNcmF6Tc1xIXjO306Fiy+e0fenB1/d6ut712lJ5ajuOMwlKaBwjDYQwdPTYWBYP5PjpAn1wmMmTsPDsqtwqJwmp7A3li5hE8gVEYRnodLI+l1/hevCmT9E2vfNeCo6S7ZS1uGZ0s+Bqz6cdncVD6fybF0Ci3YSZKEco2YhG1rzMXW0If+kXOYKzhyOBiu45vT0=;DghlTwHsNAsVp6cK1I5TwA=="
 ---
 
