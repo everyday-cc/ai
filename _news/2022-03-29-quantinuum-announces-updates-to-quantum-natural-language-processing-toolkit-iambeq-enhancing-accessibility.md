@@ -3,8 +3,8 @@ category: news
 title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit Î»ambeq, Enhancing Accessibility"
 excerpt: "OXFORD, England, March 29, 2022 /PRNewswire/ -- The quantum natural language processing team at Quantinuum, the world's leading integrated quantum computing company, has released a major update to its open-source Python library and toolkit,"
 publishedDateTime: 2022-03-29T08:38:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1244006&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1244006&cat=PR News Wire"
+originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1243933&cat=PR News Wire"
+webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1243933&cat=PR News Wire"
 type: article
 quality: 0
 heat: -1
@@ -61,6 +61,6 @@ related:
       domain: ryt9.com
     quality: 1
 
-secured: "yhdoUtMyjcvpBq0GhaFTb/YEapwp2CfW54y4Y7KSC57DuwSQj9ZrTfpOUcOIk/3E8YmZJNVTK57r5vqxtsnkCmo8KIfzD6OVSCFk7sBBnFX9IUWLzNKa+5wT3bKMXYPWJc4UidrrbuqesL07uUF0tbC/e/GMeOKeYoIv4oqrjltNukEkhWPrIOKZ2VVWCsX5mgLGJ5JbyAUlVnJJphdRcJmZUp8JKpygV3XsFpbQQgPyRQvpdcTGgZ57qE8gAPh8+6xy00vm6dFLXewyhV+19nwYXOU8jaZjtzxOrRb/za6qHsuHkgOtzowiVb+qHg/4OR8gJMM2sOpBiD+zyEJhTLEiJbL/8p/Ff3t+AHFMLsw=;0CKQhyK110dlzYe41diOcg=="
+secured: "sLJiuAy3uM3BqHV1d8n1rJ352aZU1UOAynGS9oN6K9zvM6oMkL31d9rXU+T1kU2qKj5QM6l1AESpwawhrEPV0/7Z8Cc5Uc2ROx2zl3rMvRx5BSXL2ypVlZAxSrVudEEsK8LXatduWxpHP+h3LdgY+Qe7EFDugoLzVNhck4/NZjZwHHfXMMwBTHQMo7PMc/nD+ow2BwEuWh4EGeU2U/Sux7ukZEkgr2fQ2Hmzj9XXo0djUVNpAbJrF4bRFAb5VZ6h7o0Zf8doGOw1N3THSM+6MH4ioBN2O2b6d6FlYQDyvsDpp9EsyycZc5vklUlOlJaNtpd3FQ4c41EIE13dEJnh9dfaa1mhxYrmYoDu9w19RSc=;iTfzbMvashVVp0j6pmhWOg=="
 ---
 

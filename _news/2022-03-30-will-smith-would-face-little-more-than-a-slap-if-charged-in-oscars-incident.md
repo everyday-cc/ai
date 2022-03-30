@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Will Smith would face little more than a slap if charged in Oscars incident"
+    excerpt: "Will Smith’s slap seen ‘round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim."
+    publishedDateTime: 2022-03-30T17:24:00Z
+    webUrl: "https://www.baltimoresun.com/entertainment/ct-ent-will-smith-charges-20220330-jcsb4nlxyffj7ht5yqikeccpsa-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 22
+    images:
+      - url: "https://www.baltimoresun.com/resizer/9ajx7fFPv06NFgGW6Hx_QpK1fsg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/S4PNXHL24WRC6LAUKS5JT47KDY.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "NWkz6HK3rl31gy2Fx/gEm0DKbi2qyNT0puhZdg2d9rZOVp93jTzzJACDiCIODcTTKKi24q3Bm/rZxFZ4zqTeDd4wW6WN1w6zEKmemkiy+qOh1zYrvIhXshOObh5IaADJVBMYawElqGLOVkR3X92m8biuM9g27tpICuc332r9ahdhJErkzxMYVf7TVIrQfe0/bF+HSLB/ndIspOZDBgagwx/sIICT8IELbTV7qXbdLPWuV0xVy3ukDak1T861ZWyalZ5Fcbmobn9C1lq0bdr45l1z9VUfF07xNUuHGRR10BkrVVWUwO7ovtPSAro3+AbbmMplr7A8fNPGadOIQhb9fEkHbjZipwYwocioWQ0yLFU=;n0Fj9god+EsVW9Aghwm1Hw=="
 ---

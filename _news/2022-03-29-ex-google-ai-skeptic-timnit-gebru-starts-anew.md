@@ -51,6 +51,17 @@ related:
         isCached: true
   - title: "Insider Q&A: Ex-Google AI skeptic Timnit Gebru starts anew"
     excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence."
+    publishedDateTime: 2022-03-30T15:40:00Z
+    webUrl: "https://www.kansas.com/news/business/article259809510.html"
+    ampWebUrl: "https://amp.kansas.com/news/business/article259809510.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article259809510.html"
+    type: article
+    provider:
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 39
+  - title: "Insider Q&A: Ex-Google AI skeptic Timnit Gebru starts anew"
+    excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence."
     publishedDateTime: 2022-03-27T11:53:00Z
     webUrl: "https://www.mercedsunstar.com/news/business/article259809510.html"
     ampWebUrl: "https://amp.mercedsunstar.com/news/business/article259809510.html"

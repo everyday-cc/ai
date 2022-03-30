@@ -42,6 +42,20 @@ related:
         width: 620
         height: 511
         isCached: true
+  - title: "Google is using AI to better detect searches from people in crisis"
+    excerpt: "Specifically, Google is integrating its latest machine learning model, MUM, into its search engine to “more accurately detect a wider range of personal crisis searches.” The company unveiled MUM at its IO conference last year, and has since used it to ..."
+    publishedDateTime: 2022-03-30T16:18:00Z
+    webUrl: "https://www.theverge.com/2022/3/30/23001468/google-search-ai-mum-personal-crisis-information"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 69
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/mDlCd6Mu3WvQRoqmpC0FmRYsjQI=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10802119/akrales_180508_2553_0015.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "3nxyQul/QRSCNgoPaT3LTpjHKaoI8TQlHXTzb5uBnKkc1KVA6b2xjUhD+K2Uf8hJGDzaXoVbi7vHCxSH78CoGLb/i6s944uXFugj4+/Yb66z/b3oEdhEorn9EUwQ8lvIRR3PAB9c7q2YS4+PkyJIF1sfjuzDcocZZ38z+5MC5d6yNKAYlHHfHB5uIhKy5K9LBDx9GGhfO5v2RKGj3Wl4lq1nYH/00QzwbXXPzByGjLFCaGNeaHXioIyAX7mMxs+rhjLSikwwN4MoMgWWN3p8iHnG5E84RY9lhohKs6YVE+yfZhkkWCH1Jn9SOaVSGlyrrIKjnUfNlchmHR9aDagYf1fFqqs40d3WNmFPIkRlG94=;f2bLZg+RgA8L/pP3LPfiYA=="
 ---

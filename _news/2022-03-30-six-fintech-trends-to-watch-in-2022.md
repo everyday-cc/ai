@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/amp/"
 type: article
 quality: 74
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -194,6 +194,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Fintech's New Era: Profits, Perils and Limitless Potential"
+    excerpt: "In fact, it’s estimated that global banks have the potential to generate up to $1 trillion in additional value annually through AI technologies, according to McKinsey & Company. If keeping ahead of the technological curve is paramount for a company in the fintech industry,"
+    publishedDateTime: 2022-03-30T16:43:00Z
+    webUrl: "https://www.chron.com/business/article/Fintech-s-New-Era-Profits-Perils-and-Limitless-17040789.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/24/77/75/22282050/3/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "10 Tech Companies Selected for 12th Annual FinTech Innovation Lab New York, Run by Accenture and Partnership Fund for New York City"
     excerpt: "Ten emerging technology companies have been selected to participate in the 2022 FinTech Innovation Lab New York, a 12-week program founded and run by Accenture (NYSE: ACN) and the Partnership Fund for New York City that helps early- and growth-stage fintechs accelerate product and business development through in-depth engagement with top financial services and venture capital executives."

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Synaptics Showcases Edge AI Strengths at tinyML Summit"
-excerpt: "Synaptics Incorporated (Nasdaq: SYNA ) will demonstrate how its ultra-low-power, edge-based artificial intelligence (AI) SoC s"
-publishedDateTime: 2022-03-28T14:17:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-synaptics-inc-abaad9458ac506a55728cf15f77ea591"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-synaptics-inc-abaad9458ac506a55728cf15f77ea591"
+excerpt: "Synaptics Incorporated (Nasdaq: SYNA) will demonstrate how its ultra-low-power, edge-based artificial intelligence (AI) SoC solutions can be used to quickly and easily implement vision, sound-event detection (SED),"
+publishedDateTime: 2022-03-28T14:50:00Z
+originalUrl: "https://fox8.com/business/press-releases/globenewswire/8511210/synaptics-showcases-edge-ai-strengths-at-tinyml-summit/"
+webUrl: "https://fox8.com/business/press-releases/globenewswire/8511210/synaptics-showcases-edge-ai-strengths-at-tinyml-summit/"
 type: article
-quality: 39
-heat: 39
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: FOX8 Cleveland
+  domain: fox8.com
 
 topics:
-  - AI Hardware
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://i0.wp.com/fox8.com/wp-content/uploads/sites/12/2022/03/thumbnail_IMG_5799.jpg?w=2000&#038;ssl=1"
+    width: 750
+    height: 560
     isCached: true
 
-secured: "LnWBC8plWma6lwA/qYBz/17HgEJdcfvqKNnLSUafuWEhcQQ8aeTa15rYStWWsJiUT4heqgDwvkdAkfdXrz+sbuCap+x7AWwNwUG6yK8Aqtomi7XTnWWPMtM92tY/vHFVVuwTpo89JAwXaVIZNecw53mspQsnktYfNWBGkWppKZPaT2aJzwjxTXNBDYgPEhXmR2YMoP/dQlkcezKE9dsvUFWTWkFLS711x36/BmIPSrUhAWlggMlkThZFfKbzvxq3t7MKhfYJ6uJKYuFkn5ztk1N157qaQ6ks27nE4u9iR1AS9gwYLVa/p92joVK+ur6UziyVmU2RvUiixT6OnKkekfSYIm6+OZ+HuuMdwOP06i0=;xQPX0yxUVn/9argJv1TuOw=="
+secured: "/JmozqSlR7inO6b8LNGpyCkwcijClKxklwThl0nFo0O+vY79BZFMFnHktKk2ef7lPk6vlDdExjPqfCCWhbkGMyFomnoZoCTNo0GcJCAlx3gySeJp8/2os2R4LmglPFjDEbsEhBJ1vjrewfZihcYQSkNqMTYh5FKYJ/33CCPJzyWletf8gcZYjdp5fnlIMnEfHBD+TEN81P9ud+ytjeOpQjV4qchro3LelURSsQB8r5ku68gcA/GdUGtoVVDVeAt/Ft8TqbreWUQGRD8Fkje59aHYaFdlyhHcwrOEQTija7SHqt2HuDBE6nlXB+ydOYnhx2nGaauWsh2/yco+QhmODrkoGW0SJctUcovKUec7+P0=;PxCLwA1ZuqmfVG6p9jNEWg=="
 ---
 

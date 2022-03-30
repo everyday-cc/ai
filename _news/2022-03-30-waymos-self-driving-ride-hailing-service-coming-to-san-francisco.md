@@ -9,7 +9,7 @@ ampWebUrl: "https://ktla.com/news/california/waymos-self-driving-ride-hailing-se
 cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/waymos-self-driving-ride-hailing-service-coming-to-san-francisco/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -59,7 +59,39 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Waymo to test autonomous vehicles in San Francisco"
+    excerpt: "Google spinoff Waymo said Wednesday it has started testing its fully automated all-electric vehicles around San Francisco without a human safety driver."
+    publishedDateTime: 2022-03-30T17:18:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2022/03/30/Waymo-autonomous-vehicle-San-Francisco/6791648659153/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/03/30/Waymo-autonomous-vehicle-San-Francisco/6791648659153/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/03/30/Waymo-autonomous-vehicle-San-Francisco/6791648659153/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/6791648659153/2022/1/fb594ae25d0234df96e1fd796dd21fcc/v1.5/Waymo-to-test-autonomous-vehicles-in-San-Francisco.jpg"
+        width: 800
+        height: 532
+        isCached: true
+  - title: "Apple ups driver count for self-driving car tests, signaling increase in program resources"
+    excerpt: "Apple is continuing to slowly expand its autonomous vehicle testing program in California as it has 10 new drivers registered to its crew."
+    publishedDateTime: 2022-03-30T16:07:00Z
+    webUrl: "https://9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/"
+    ampWebUrl: "https://9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 34
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
 
-secured: "qMSQke8W31LClhWOHZXjE4TvuFgz9NvrqHMWwtAdmFtWlK0Ts6RHU3m51eJu2MK6sTCrO2vqygeRxpWyGwh/puZ8qjjlxi04CNHfqQUjd8N1L8KG1TqGptISxWVHvNoMS4d9g6I9PakwjQbYsstgTbEOyKzfKF/mpjmryRA7IrFLXYvs4xumeq+0eh+w7etS8uO5QqRvm0aSGHyJkmQqgTiKFiqKV4F0t5mxyIZY00ABAoxpsof3EVqj2ulvfukD5bJ/3x990BnCd6Z9U84eYrpg1hJEnMt3C4IOdD02/eJxtZpOT6YQJ9EUN0xeW3IGPXgFHnORPtpnhdML7tq/og3m0/SidnPpobzD4rfZa2I=;hby/kGSvJcrhNJ4glYjfQQ=="
+secured: "AtQ6qv8GvWEy+OL6mEKOdtE6U5Prylx0BLeX1jdgPm3rsVBpVUb+jokZl60n2i+h2Gs77NrIKC0myiFMB2vJeAxMESbpEgTXXrkSWBZTKhlY8wWpPK1ixhhJYpUNoDQeL0yDB1B5UYkFYlqcRTp9OSNkdd5bCwAgegg9WFctUplff/o46BQPv+o48hoPxq5GX/map++3ULMlHbKH/A7GHfZYWie0TCxQ6SthcbfjvV8oFxEGvNAIFKklLGDdcTejND03tmYmCIRZreNVFhqyq6dOgDVljoyykE7ZEYUjLAzpDpJ5qccIyvrcm/M7AfDYmRhgnZqW9nzbFO+AVv1n6uWAIQOwX84Wbp4sSfFpavY+S3t/Pj26I8FYGZk4pORnmIQOBjOViUhUVNM2Oca0Y9sHXeCAxA+8DWUfEm1gn2kG1hUr32QXnmRZn8+rY8Vli7tE/ibwnHBcZvPFgaTUtarMpRFQAuYTgcoDhjOp/jNECEHztr4dmV49kps08WWK0eVmqzE2MrFiZPw5YNh4RA==;PyCKY7bDBZfUNMXHRn67Og=="
 ---
 

@@ -3,10 +3,10 @@ category: news
 title: "Breaking into the black box of artificial intelligence"
 excerpt: "In February 2020, with COVID-19 spreading rapidly around the globe and antigen tests hard to come by, some physicians turned to artificial intelligence (AI) to try to diagnose cases 1. Some researchers tasked deep neural networks — complex systems that are adept at finding subtle patterns in images — with looking at X-rays and chest computed tomography (CT) scans to quickly distinguish between people with COVID-based pneumonia and those without 2."
 publishedDateTime: 2022-03-29T14:28:00Z
-originalUrl: "https://www.nature.com/articles/d41586-022-00858-1?error=cookies_not_supported&code=b416cd61-ab8f-4dea-a6f7-c76c01e7969f"
-webUrl: "https://www.nature.com/articles/d41586-022-00858-1?error=cookies_not_supported&code=b416cd61-ab8f-4dea-a6f7-c76c01e7969f"
+originalUrl: "https://www.nature.com/articles/d41586-022-00858-1?hss_channel=tw-292547396"
+webUrl: "https://www.nature.com/articles/d41586-022-00858-1?hss_channel=tw-292547396"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: nature.com
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -81,6 +80,6 @@ related:
         height: 756
         isCached: true
 
-secured: "p0RBCC17wAL/IQTu9emhHCibA3iM1kW81CD3e/UK94RrHvSyIEvTbHGKQSsoDRYZaQP35fKMrYzNH/2uNThg7eP6zhdhsyZq0V3CfLagQuOHreLmeCUV0xUP0KANwCV5NvRj/isdINj4AwI1zZPcaznT/N2Vjz4xyYqNMuy4T01NJUN173RTrCTVA5dtm6pZMbQBYR5U7yc/UiWQ8JkR1o6JYS1m9O8ra25PZoWMpox3IZPjY2Dc7nMrJvpn3UDT6tUPQqmUYUKnp73JJ7TNBW8V8XAvJ6aJAbQx/c8s9pCUtbeMomBqi2CjgNm0k2Gu/xN5vEkJR0aZidwk5R2AlEoeuJXNB8msYaE618cgbWM=;2SQrKfGTC8XYDqBeUPS7Jw=="
+secured: "Ppx5nhUmvFUFi5wdGB0cdfvIIVHMsWgTETfs7zqrgAWw8dkEIu8obwrygudyrBOn0W+r/qJYxds51NdDcJByQ+CrOcriFPBWQ+m1fBpmRpaYyGMWX4nj+bjQFUyn09YYI7FKqVf7uMpvbfP7rnYOlvhO78XGk9mrEj+nyhHoFzNIz1lJA5fNPe8Rg23P8iG80UzavKLB5AyGIPmv2WIZcHfdFRHvDOf8S+STgtVkQtBaMzDwyxEc7n7fqSYkRtxS19EGy+sY6G7NWtoKmZjFwum7rJpRqY0aQd/JupOorLPcHKIWdo5hJciFWpPXJ3lzV/oe09l1L+d85yp9bcDX9Ia/amPsX/3F7BrP7OjrLqs=;LVc4EoQtBgjyurf8Qg7SDg=="
 ---
 

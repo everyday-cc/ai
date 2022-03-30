@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-inv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intel teases first Arc A-series desktop GPU ahead of summer launch"
+    excerpt: "Intel says it will release its first Arc A-series desktop GPU this summer, and has offered a brief peek at the card itself.."
+    publishedDateTime: 2022-03-30T17:13:00Z
+    webUrl: "https://www.engadget.com/intel-arc-a-series-limited-edition-desktop-gpu-release-date-163842328.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 69
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-03/739df840-b044-11ec-bfba-0b813432a84a"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Tap the Booming Fintech Market With These ETFs"
     excerpt: "The emergence of cutting-edge technologies like AI, cloud computing, big data, the Internet of Things (IoT) and machine learning is driving the fintech space. The growing popularity of smartphones, rising demand for industrial automation and the increased utilization of wireless communication are boosting the transition to digital platforms."
     publishedDateTime: 2022-03-26T11:00:00Z
@@ -42,6 +56,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Intel shares first look at Arc A-series desktop GPU"
+    excerpt: "After a delay into Q2 2022, INtel has finally shared a first look at its upcoming line of desktop GPUs with a peek at a limited edition card."
+    publishedDateTime: 2022-03-30T17:30:00Z
+    webUrl: "https://dotesports.com/hardware/news/intel-shares-first-look-at-arc-a-series-desktop-gpu"
+    type: article
+    provider:
+      name: Dot Esports
+      domain: dotesports.com
+    quality: 39
+    images:
+      - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/03/30115623/Intel-Arc-A-Series-Limited-Edition-768x399.jpg"
+        width: 768
+        height: 399
+        isCached: true
   - title: "The Intel Arc Alchemist GPU Shows Off in a New Blender Benchmark"
     excerpt: "Intel Graphics has released a video that shows the 3D rendering program Blender being accelerated on an Intel Arc Alchemist"
     publishedDateTime: 2022-03-28T06:53:00Z

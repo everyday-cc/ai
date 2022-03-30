@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sentinelandenterprise.com/2022/03/27/facial-scanning-com
 cdnAmpWebUrl: "https://www-sentinelandenterprise-com.cdn.ampproject.org/c/s/www.sentinelandenterprise.com/2022/03/27/facial-scanning-coming-to-an-airport-near-you-raising-some-concerns/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Sentinel & Enterprise
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial scanning coming to an airport near you, raising some concerns"
+    excerpt: "It's only a matter of time before New England air travelers join others across the country in experiencing a new airport screening method that seems ripped straight from the pages of Philip K. Dick's \"The Minority Report."
+    publishedDateTime: 2022-03-30T17:30:00Z
+    webUrl: "https://techxplore.com/news/2022-03-facial-scanning-airport.html"
+    ampWebUrl: "https://techxplore.com/news/2022-03-facial-scanning-airport.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-facial-scanning-airport.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/face-scan.jpg"
+        width: 1920
+        height: 1274
+        isCached: true
   - title: "Facial Scanning Coming to an Airport Near You, Raising Some Concerns"
     excerpt: "It’s only a matter of time before New England air travelers join others across the country in experiencing a new airport screening method that seems ripped straight from the pag"
     publishedDateTime: 2022-03-28T14:39:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/28/datarobots-cloud-8-0-uses-ai-and-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/datarobots-cloud-8-0-uses-ai-and-ml-to-predict-the-unpredictable/amp/"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:

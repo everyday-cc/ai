@@ -1,0 +1,85 @@
+---
+category: news
+title: "Intel teases first Arc A-series desktop GPU ahead of summer launch"
+excerpt: "Intel says it will release its first Arc A-series desktop GPU this summer, and has offered a brief peek at the card itself.."
+publishedDateTime: 2022-03-30T17:13:00Z
+originalUrl: "https://www.engadget.com/intel-arc-a-series-limited-edition-desktop-gpu-release-date-163842328.html"
+webUrl: "https://www.engadget.com/intel-arc-a-series-limited-edition-desktop-gpu-release-date-163842328.html"
+type: article
+quality: 69
+heat: -1
+published: false
+
+provider:
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-03/739df840-b044-11ec-bfba-0b813432a84a"
+    width: 1920
+    height: 1080
+    isCached: true
+
+related:
+  - title: "Intel ARC Invades The Dedicated GPU Market With Truly Exciting Features"
+    excerpt: "Everything you need to know about Intel Arc A-Series graphics. Plus: How Team Blue is doing things differently than AMD and Nvidia, while still catering to both gamers and content creators."
+    publishedDateTime: 2022-03-30T14:59:00Z
+    webUrl: "https://www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/"
+    ampWebUrl: "https://www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62443dfb55a2f5a5444ab6ab/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Tap the Booming Fintech Market With These ETFs"
+    excerpt: "The emergence of cutting-edge technologies like AI, cloud computing, big data, the Internet of Things (IoT) and machine learning is driving the fintech space. The growing popularity of smartphones, rising demand for industrial automation and the increased utilization of wireless communication are boosting the transition to digital platforms."
+    publishedDateTime: 2022-03-26T11:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs"
+    ampWebUrl: "https://www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "Intel shares first look at Arc A-series desktop GPU"
+    excerpt: "After a delay into Q2 2022, INtel has finally shared a first look at its upcoming line of desktop GPUs with a peek at a limited edition card."
+    publishedDateTime: 2022-03-30T17:30:00Z
+    webUrl: "https://dotesports.com/hardware/news/intel-shares-first-look-at-arc-a-series-desktop-gpu"
+    type: article
+    provider:
+      name: Dot Esports
+      domain: dotesports.com
+    quality: 39
+    images:
+      - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/03/30115623/Intel-Arc-A-Series-Limited-Edition-768x399.jpg"
+        width: 768
+        height: 399
+        isCached: true
+  - title: "The Intel Arc Alchemist GPU Shows Off in a New Blender Benchmark"
+    excerpt: "Intel Graphics has released a video that shows the 3D rendering program Blender being accelerated on an Intel Arc Alchemist"
+    publishedDateTime: 2022-03-28T06:53:00Z
+    webUrl: "https://www.guru3d.com/news-story/the-intel-arc-alchemist-gpu-shows-off-in-a-new-blender-benchmark.html"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 19
+
+secured: "0k7f4Qui3wXbVNNGbUk0RTKzSzs3o5muw7RK0dfsy+XV8dJ17FWGKG+dpy+xrNfBLsILaoy3SBOflplmzyDW+jubL9/7+/fEIjIAjg/pJ3rRe201eF04hgxMuuHI9Ca7xqhsoriSQ+nvnG2zgAVfGUwfH9zKktrZ3r+Wkyh3X54TeLvqHmcXKzH3D1No8RMO+a4e68I75KzgbeXJykZkYC85GDEgDoGtIw/Pm2X6WKH5u0bmUQQeerlpqal8rjlUtzoiqhi2hIbvdMpcU+PfQcU7Olz4tPtBuKQhhZ/HRPWxm3IsNzsqtVweWZPE7lwfTsLKZNWibcXGkfX0agZrvLU32B4RV+zaQyRjYzjLQgM=;lnPnTJM+WAYhgXwJ3ot41g=="
+---
+

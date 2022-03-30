@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 111
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google is using AI to better detect searches from people in crisis"
+    excerpt: "Specifically, Google is integrating its latest machine learning model, MUM, into its search engine to “more accurately detect a wider range of personal crisis searches.” The company unveiled MUM at its IO conference last year, and has since used it to ..."
+    publishedDateTime: 2022-03-30T16:18:00Z
+    webUrl: "https://www.theverge.com/2022/3/30/23001468/google-search-ai-mum-personal-crisis-information"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 69
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/mDlCd6Mu3WvQRoqmpC0FmRYsjQI=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10802119/akrales_180508_2553_0015.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "New AI System Assists in Detecting Heart Transplant Reactions"
     excerpt: "To help improve heart transplants, investigators from Brigham and Women’s Hospital created an artificial intelligence (AI) system known as the Cardiac Rejection Assessment Neural Estimator (CRANE), which can help clinicians detect and manage adverse immune system reactions."
     publishedDateTime: 2022-03-29T16:53:00Z

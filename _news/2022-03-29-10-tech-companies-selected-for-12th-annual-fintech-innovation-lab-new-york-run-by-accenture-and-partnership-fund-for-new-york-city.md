@@ -205,6 +205,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Fintech's New Era: Profits, Perils and Limitless Potential"
+    excerpt: "In fact, it’s estimated that global banks have the potential to generate up to $1 trillion in additional value annually through AI technologies, according to McKinsey & Company. If keeping ahead of the technological curve is paramount for a company in the fintech industry,"
+    publishedDateTime: 2022-03-30T16:43:00Z
+    webUrl: "https://www.chron.com/business/article/Fintech-s-New-Era-Profits-Perils-and-Limitless-17040789.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/24/77/75/22282050/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "MkGxfLakcQlR4lVuY9+W5W2YFbcnd31avZc7TsQVqHBR/N/SPI//gavffYVrtWAjsgec7OjYkHfwFVy3Jc+2j3rZxg+usMjjTKITKK/cfeyXjQvqA9Aqk6Hsxdr685vk1wGQEkXcFjLDuRs0rwlQnRLVEvTDw+8l07KD9GWixiWaEdui3UjZTDwGLwEg8FxEvs1dqNmXcCoO91BLZboWLd24x2nxTJATRNw1ju19Q/xd5LpfZXsinRklizos43ATNhOB6pYR0oxRMlc7ZdR8udW5Au4bEserkRqdWNd4fLYMKmDnGCIAaZUILjWlMMztvEWtQgZ+mh6T1M05bAVO5022GkVnOqBtNrSMmmfCQ8w=;n0tmFcChvJlQvcsR5sVrNg=="
 ---

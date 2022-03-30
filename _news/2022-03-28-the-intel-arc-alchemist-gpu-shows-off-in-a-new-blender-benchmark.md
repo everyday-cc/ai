@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel teases first Arc A-series desktop GPU ahead of summer launch"
+    excerpt: "Intel says it will release its first Arc A-series desktop GPU this summer, and has offered a brief peek at the card itself.."
+    publishedDateTime: 2022-03-30T17:13:00Z
+    webUrl: "https://www.engadget.com/intel-arc-a-series-limited-edition-desktop-gpu-release-date-163842328.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 69
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-03/739df840-b044-11ec-bfba-0b813432a84a"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Tap the Booming Fintech Market With These ETFs"
     excerpt: "The emergence of cutting-edge technologies like AI, cloud computing, big data, the Internet of Things (IoT) and machine learning is driving the fintech space. The growing popularity of smartphones, rising demand for industrial automation and the increased utilization of wireless communication are boosting the transition to digital platforms."
     publishedDateTime: 2022-03-26T11:00:00Z
@@ -46,6 +60,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Intel shares first look at Arc A-series desktop GPU"
+    excerpt: "After a delay into Q2 2022, INtel has finally shared a first look at its upcoming line of desktop GPUs with a peek at a limited edition card."
+    publishedDateTime: 2022-03-30T17:30:00Z
+    webUrl: "https://dotesports.com/hardware/news/intel-shares-first-look-at-arc-a-series-desktop-gpu"
+    type: article
+    provider:
+      name: Dot Esports
+      domain: dotesports.com
+    quality: 39
+    images:
+      - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/03/30115623/Intel-Arc-A-Series-Limited-Edition-768x399.jpg"
+        width: 768
+        height: 399
+        isCached: true
 
 secured: "4lxzlBgOSHFKW5GK+8KnNxETNXCfGSCbPMKz6NkL2lKsGdHcZRx+EZLJRnU4T4hNg3FfzIIK5P+tbIrtUSw2v27NFt8UpLRIw9SzcuRg3loBmLxV9AY9wwG9bh0Da86gYaCfYWcHkEYufv1w8qEhKu9l7iHR3X17UUiRGzbe9cT7NYVP2PSOTuOL1MA+HPT1fMyC+DVolqaUwp/m9r0+lMBKd8GPMkggrm44as4TrpvAEYjw/yuZ1pXEF5996jOmby7yFmeAPAqrlRlCrHgpj9jGY8dmm92E3CgkeAgW9W24EZJHHMm7PzNCWQ5fK7a5I0xrhD+0Ko+3iTZYmwGhiNUJB+R/JkwNWFWMw7PYInI=;PfbeKJMRuk7qEASwe8kOcQ=="
 ---

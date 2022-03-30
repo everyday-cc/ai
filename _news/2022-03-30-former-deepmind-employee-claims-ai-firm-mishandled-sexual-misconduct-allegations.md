@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Former DeepMind employee acuses company of mishandling sexual abuse complaint"
+    excerpt: "A former DeepMind employee has accused the company of mishandling a series of serious sexual harassment allegations.."
+    publishedDateTime: 2022-03-30T17:28:00Z
+    webUrl: "https://www.engadget.com/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html"
+    ampWebUrl: "https://www.engadget.com/amp/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 101
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-03/ad7e15c0-b04b-11ec-bff4-5322771aed2e"
+        width: 1600
+        height: 1000
+        isCached: true
   - title: "DeepMind accused of mishandling sexual misconduct allegations"
     excerpt: "A former DeepMind employee has accused the artificial intelligence group’s leadership of mishandling multiple allegations of sexual misconduct and harassment, raising concerns over how grievances are dealt with at the Google-acquired company."
     publishedDateTime: 2022-03-30T15:35:00Z

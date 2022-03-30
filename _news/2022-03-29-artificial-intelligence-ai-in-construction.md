@@ -7,7 +7,7 @@ originalUrl: "https://aecmag.com/ai/artificial-intelligence-ai-in-construction/"
 webUrl: "https://aecmag.com/ai/artificial-intelligence-ai-in-construction/"
 type: article
 quality: 60
-heat: 81
+heat: 80
 published: true
 
 provider:

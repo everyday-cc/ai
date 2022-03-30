@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.govtech.com/products/tsa-continues-facial-recognition-rollout-at-airports",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -126,6 +126,49 @@
       "provider": {
         "name": "IOL News",
         "domain": "iol.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-27-facial-scanning-coming-to-an-airport-near-you-raising-some-concerns.md",
+      "title": "Facial scanning coming to an airport near you, raising some concerns",
+      "excerpt": "It’s only a matter of time before New England air travelers join others across the country in experiencing a new airport screening method that seems ripped straight from the pages of Philip K.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sentinelandenterprise.com/2022/03/27/facial-scanning-coming-to-an-airport-near-you-raising-some-concerns/",
+      "originalUrl": "https://www.sentinelandenterprise.com/2022/03/27/facial-scanning-coming-to-an-airport-near-you-raising-some-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sentinelandenterprise.com/wp-content/uploads/2022/03/BHR-L-tsa1.jpg?w=1024&h=750",
+          "width": 1024,
+          "height": 749,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sentinelandenterprise.com/2022/03/27/facial-scanning-coming-to-an-airport-near-you-raising-some-concerns/amp/",
+      "cdnAmpWebUrl": "https://www-sentinelandenterprise-com.cdn.ampproject.org/c/s/www.sentinelandenterprise.com/2022/03/27/facial-scanning-coming-to-an-airport-near-you-raising-some-concerns/amp/",
+      "publishedDateTime": "2022-03-27T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sentinel & Enterprise",
+        "domain": "sentinelandenterprise.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1316,49 +1359,6 @@
       "provider": {
         "name": "The Independent",
         "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-cogniac-and-cisco-meraki-partner-to-automate-operations-with-computer-vision.md",
-      "title": "Cogniac and Cisco Meraki Partner to Automate Operations with Computer Vision",
-      "excerpt": "Cogniac Corporation (“Cogniac”), a leader in enterprise-class Artificial Intelligence (AI) image and video analysis, and Cisco Meraki have announced a strategic partnership to accelerate the delivery of AI-powered computer vision applications at the edge of the network.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-08f4ef5e9778c2bea6f3da6aac460229",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-08f4ef5e9778c2bea6f3da6aac460229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

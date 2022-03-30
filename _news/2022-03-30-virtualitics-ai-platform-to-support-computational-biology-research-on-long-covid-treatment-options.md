@@ -1,28 +1,51 @@
 ---
 category: news
 title: "Virtualitics AI Platform to Support Computational Biology Research on Long Covid Treatment Options"
-excerpt: "Institute for Systems Biology to accelerate time to insight by unlocking Advanced Analytics capabilities and collaboration tools for their 150+ researchers"
-publishedDateTime: 2022-03-30T13:17:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/virtualitics-ai-platform-to-support-computational-biology-research-on-long-covid-treatment-options/article_7f65b1bb-c06e-5a39-984e-6a62ca12b824.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/virtualitics-ai-platform-to-support-computational-biology-research-on-long-covid-treatment-options/article_7f65b1bb-c06e-5a39-984e-6a62ca12b824.html"
+excerpt: "Institute for Systems Biology to accelerate time to insight by unlocking Advanced Analytics capabilities and collaboration tools for their 150+"
+publishedDateTime: 2022-03-30T13:25:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/virtualitics-ai-platform-to-support-computational-biology-research-on-long-covid-treatment-options-1031319152"
+webUrl: "https://markets.businessinsider.com/news/stocks/virtualitics-ai-platform-to-support-computational-biology-research-on-long-covid-treatment-options-1031319152"
 type: article
-quality: 23
-heat: 23
+quality: 55
+heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/45/445e738d-d6e1-521e-9060-7b1727d7c275/624458dfc5e75.image.jpg?resize=914%2C500"
-    width: 914
-    height: 500
+  - url: "https://mma.prnewswire.com/media/1776318/ISB_PredictExplore.jpg"
+    width: 400
+    height: 219
     isCached: true
 
-secured: "KjjgUL7mpJPmucRYHTGbNEC2wO2OgEWFHV3kIiCVZgAUfWgv46tFMaKlYOfN/WkiuS8dqT3dlwLvG1sOkz2GDtd40pc9JZFWrNAHOZfgNzw/T6KJqA2pnEjp5gpF7ZR9zQxBCd/TS69Zb7DklZMRzp38I4lkWA1kplWMMq1/qelLXb/aAr00KitCKXoGBVEC7HcEStefiqq84IGuSRRt05M5Rl5R9taPlJlV1zfM0qns8mjoqM3MEBJr80/ybo8yY8WWn96+DfoAi164c6ehxFWRJqY5d0Kst16azcRMKTp7ckm07GbR3gPE9dlCPKe0Vsd6pii5aAz9umQWOmZG8piefS75R74QpHnrJGm4Yf4=;9zdtZCBjaAnV2q6n0gJR4A=="
+related:
+  - title: "Reputation launches AI platform to provide enterprises with competitive intelligence"
+    excerpt: "California-based Reputation has launched Competitive Intelligence, a new product aimed at helping enterprises better track their rivals."
+    publishedDateTime: 2022-03-30T14:59:00Z
+    webUrl: "https://venturebeat.com/2022/03/30/reputation-launches-ai-platform-to-provide-enterprises-with-competitive-intelligence/"
+    ampWebUrl: "https://venturebeat.com/2022/03/30/reputation-launches-ai-platform-to-provide-enterprises-with-competitive-intelligence/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/reputation-launches-ai-platform-to-provide-enterprises-with-competitive-intelligence/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/Customize-Brands-to-Compare-e1648650585265.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "qc13qJmpdA2Ouy+g+0NLiL0prTuinla3DXEcSwK4+INPxMXWahVghpCYT90fOJDnRIsu5EYWO32BqKdZ1OLMD5ZkycQTAsPqNulGf0OhNPwlh39DonMZ04H5u5eHnTZHr1Y3JwsatjqIP8ujHCZMhc0yYT48IM4kW7rygYww0ZhEVV5ofufLsn3X/sXVBaFZZhl0/k+FfhnjC+sB+Bc0JWIJGdYLmfidxt2/gDE7WBIksLvG3csrbL3q4g8IJxRN2t54w97G5BzH0N9O4TGkv2R0r+GZGJuo10alLgFlM3m3zXRFYTB8yIyLzprfWikCde3dXlRBxpzGO177KiqkASxoSZdFuahAwexooNb3iSM=;N7bcf6R26x4qSKx01aElfg=="
 ---
 

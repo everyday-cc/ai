@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "As Adoption of AI Plateaus, Organizations Must Ensure Value to Avoid AI Winter According to New O’Reilly Report"
+    excerpt: "O’Reilly has released the results of its annual AI Adoption in the Enterprise survey. The benchmark report explores trends in how artificial intelligence is implemented, including the techniques, tools,"
+    publishedDateTime: 2022-03-30T17:37:00Z
+    webUrl: "https://tdwi.org/articles/2022/03/30/oreilly-ai-survey.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 0
+
 secured: "YF0yuTnVQZ15RCgHpBh19az7FzECDlrk5jzWynT4GheHkS50b7ObOJDHeb8FBcgAzgFUCC05oMAVy7NbX5jWYI1mnAdB5hvQkhas1KFjkSueQ5Zirrawhgsbvz7PRmnQ8jwXeteIazNWmS6VSMq9F/tm9BYJBBvRbYiMyTS/wnS9voWlBjO3mWjcMV+vWqHQSYOfEg7pgxS0CGhmJdX1exdZYOCs50hj2A6zL00/SS0KXzhoq+RkzJRSdGP4aFHTTT4UVRNldcXaNK3PG2nWQdI2wuwRRf3fFQ1x2/NpAXYWVOcchJW1GCW0Gw/+L/hCXXrUyI5GOoONtR5GVNG96PKivAryLLojGmZe8+8eFHk=;wS8DDhspPvb7DzzHueiv2w=="
 ---
 

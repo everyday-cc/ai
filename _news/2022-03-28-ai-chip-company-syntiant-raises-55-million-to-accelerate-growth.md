@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/technology-busines
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-renesas-electronics-corp-05ead87d8c37109957b3eff68165b552"
 type: article
 quality: 54
-heat: 85
+heat: 84
 published: true
 
 provider:

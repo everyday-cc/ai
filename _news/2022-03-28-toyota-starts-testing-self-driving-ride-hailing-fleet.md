@@ -59,6 +59,38 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Waymo to test autonomous vehicles in San Francisco"
+    excerpt: "Google spinoff Waymo said Wednesday it has started testing its fully automated all-electric vehicles around San Francisco without a human safety driver."
+    publishedDateTime: 2022-03-30T17:18:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2022/03/30/Waymo-autonomous-vehicle-San-Francisco/6791648659153/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/03/30/Waymo-autonomous-vehicle-San-Francisco/6791648659153/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/03/30/Waymo-autonomous-vehicle-San-Francisco/6791648659153/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/6791648659153/2022/1/fb594ae25d0234df96e1fd796dd21fcc/v1.5/Waymo-to-test-autonomous-vehicles-in-San-Francisco.jpg"
+        width: 800
+        height: 532
+        isCached: true
+  - title: "Apple ups driver count for self-driving car tests, signaling increase in program resources"
+    excerpt: "Apple is continuing to slowly expand its autonomous vehicle testing program in California as it has 10 new drivers registered to its crew."
+    publishedDateTime: 2022-03-30T16:07:00Z
+    webUrl: "https://9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/"
+    ampWebUrl: "https://9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 34
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "N6aZVDIsm5A+E26+sBXfuveR5bAHTHbU49IhpTlGERzrK+FXm9toOg7vcPUhCgZ4qguH+XfzrkzHD+lybwFiO4ITGtZj0QCp/KBymses5Ze7zs2jMeZ2lBQq0e1DvB5QUaSlm4nVpk1+NMDwtrYJWx97LGfPMrIshz8Ifg0QDh/9tF99Q2VNtWLadS7rKPxrwk887GRRkrDAVX32UeIP1L+eWvXZUJdcSDrbBbcN9LSVns4YFB5HC2jGSKmuWmkyXWXJ6VMkeM/XbihZA9xahKTcOOJoLX/T27HC71F6hG5o2SyQJCPDEt68ToZHPl4aWQulOOwesTV+nt1Q3LZgM7vo+cNUSKZSRt+KG/oiM80Jtm0zautIkg2w4AN4TWEjIcTv/7Hm0kA4JEzPq/UMZs0ozdpoHa7wRKTQAIXq/JJqF2ZVjq3MeHEzPjktl/uns9ILbyGBjG/YqmUC6/X7gZnwPSGzOjYXKkroGwexx6Xvhn1Lp1tjYDQemXLU/FgruSDN0lof5qIymTAsuV4ljw==;A58rF3n+LHgNM/vm40+3eA=="
 ---

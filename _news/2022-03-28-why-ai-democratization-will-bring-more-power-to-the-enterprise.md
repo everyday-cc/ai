@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/28/why-ai-democratization-will-bring
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

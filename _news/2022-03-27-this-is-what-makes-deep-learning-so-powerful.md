@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/27/this-is-what-makes-deep-learning-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/27/this-is-what-makes-deep-learning-so-powerful/amp/"
 type: article
 quality: 89
-heat: 96
+heat: 89
 published: true
 
 provider:

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Builder.ai Raises $100M Series C Funding Led by Global Software Investor Insight Partners"
-excerpt: "Builder.ai® today announced an investment of $100 million in a Series C funding round led by Insight Partners, a New York-based global venture capital"
-publishedDateTime: 2022-03-30T09:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/builder-ai-raises-100m-series-c-funding-led-by-global-software-investor-insight-partners/article_01505cae-7cd2-5f44-bcc2-5aa94ad67ba1.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/builder-ai-raises-100m-series-c-funding-led-by-global-software-investor-insight-partners/article_01505cae-7cd2-5f44-bcc2-5aa94ad67ba1.html"
+excerpt: "Builder.ai ® today announced an investment of $100 million in a Series C funding round led by Insight Partners, a New York-based global venture capital and private equity firm. The round, which brings the company’s total funding to $195 million across three total rounds,"
+publishedDateTime: 2022-03-30T09:01:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-software-london-9671bbe31dc579ba189380fa2b9f0b9e"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-software-london-9671bbe31dc579ba189380fa2b9f0b9e"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/10/2108d428-ed98-5ef6-9bd0-47fd1c8bd67b/60300f5cac884.image.jpg?crop=1669%2C876%2C347%2C0&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -53,6 +53,6 @@ related:
         height: 506
         isCached: true
 
-secured: "4paTLIqilRpm73aqYyp9rdy9mfPze8n4ylqvAXpROLFpOIiGiSih1eEROOkFOf/CDaGH+q5fLYs+/3k4DqP50WIBB2k0/RWdr0lC0z7JSAabCZX90urn9/xa3fwrapyG9emg6BrsIXopHWe5oFnCatJwun7dK86hHfgCi760d5UmjM6r5LxeuFU1IiLPWym1gq2LIQhaEWydqYFBelQydlFQAgnfTUpvHwpkL8GbNldU6pNgGZkGngJijACBHsSIliq7dx8ewEN5IXQvNELdXsMDfiPA9zr6VGdeyLHy8db1nVipCHM9ucfG8Owb1lR6daiE2dAM0G3hKpsJpTyh0WD/BzFJf6MwfnTCizTC4cg=;jvx3l9QSIfXQ8TIHejfgCA=="
+secured: "/FKnyE6M+IO1iQ11K4Wd3tsBKDAkok6h7r8nLR6tRBAf0ZjwBo94JIf/MjIraAs0kb+T8PW9WKQL89lXdxSTqa17X8nm8CuStXe/q9lB5mvm7Q2Qmp/D6Bb3Pk0F3QwtQvSVzX26LWuqDBXfKDxgreob6wlNZaFP5PlrbWKg469JHjSc0YwTWjWz/aHdm1XMRjb6Bh+2IyTtRETvKPMekxOzzEJpfzHwZ4gqVmSmxBWGcZS3nElfFUqNpeVh829ZOdC93AfDNONnAaeqJHZQXnXfiHQu2Z42Us7TiMeb1qeUTiS/My4kwQUrUVXYDcuxZ6GfS4fT2It2VBDAm5RZgbAlyDbXSVHNhVhMV79ZY+g=;2LVI6c1MvwYJxC8Wn3upkQ=="
 ---
 
