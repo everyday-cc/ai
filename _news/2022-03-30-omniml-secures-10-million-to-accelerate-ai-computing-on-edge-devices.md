@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=638792"
 webUrl: "https://us.acrofan.com/detail.php?number=638792"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,52 @@ images:
     isCached: true
 
 related:
-  - title: "Early Money: San Jose AI startup OmniML, led by former Facebook engineer, comes out of stealth with $10M"
-    excerpt: "Artificial intelligence startup OmniML Inc. came out of stealth on Tuesday with $10 million in seed funding. The San Jose company is developing what it says are smaller and faster machine-learning models for the use of AI on devices at the edge of data ..."
-    publishedDateTime: 2022-03-29T18:30:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2022/03/29/former-facebook-engineers-ai-startup-raises-10m.html"
+  - title: "Accelerating Financial Services With AI"
+    excerpt: "AI is enabling brighter financial futures for consumers and businesses. From traditional banks to new fintechs, the financial services industry is powering use cases with AI such as preventing payments fraud,"
+    publishedDateTime: 2022-03-28T19:37:00Z
+    webUrl: "https://www.globalbankingandfinance.com/accelerating-financial-services-with-ai/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/accelerating-financial-services-with-ai/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/accelerating-financial-services-with-ai/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 59
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/Accelerating-FSI_Image_700x500.jpg"
+        width: 700
+        height: 500
+        isCached: true
+  - title: "Nearly 80 Percent of Financial Firms Use AI to Improve Services, Reduce Fraud"
+    excerpt: "NVIDIA’s “State of AI in Financial Services” survey details the growth of AI adoption in capital markets, retail banking and investment firms. From the largest firms trading on Wall Street to banks providing customers with fraud protection to fintechs recommending best-fit products to consumers,"
+    publishedDateTime: 2022-03-28T19:37:00Z
+    webUrl: "https://www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 56
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/State-of-AI-in-FSI_Image_700x500.jpg"
+        width: 700
+        height: 500
+        isCached: true
+  - title: "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices"
+    excerpt: "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment"
+    publishedDateTime: 2022-03-29T15:42:00Z
+    webUrl: "https://www.lelezard.com/en/news-20309928.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 39
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "AR1+yrwpEB+0VOe5NQl7+voNDdYYSzy5mnhskDtlBdQzikcexTCJQ5huNU6jIh3QyV9Tb7hulfus3KHqTvgPEwpqg59Sp1RGOQ5HcBLQB49p6ALXEKLRDPHf+dATEgXHkjummXJtCNgfngnXma1w0rXBxDiDjiGbP6bTGxL4pU7BcT47iuKWp+oGZs20F9ZQc6ThUwBF/8c16xdDgvVM/RUYerA+GJfzMsj50QHaGVVTMULaCLQ4L4DbZvmyFiBRlEftlFIeS4if7PThCQo40HF0/DzrkcbXlDVdjPXn9AhAQXb6kWL3MTJf/YoXXSnzdZDkSdDxgkISNpoILYuw5XFMrGBV2BzbUXECGuo50Q4=;+qc9q3LKR8NaAsJVwlAqNw=="
 ---

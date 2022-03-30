@@ -24,6 +24,22 @@ images:
     height: 576
     isCached: true
 
+related:
+  - title: "Miniature medical robots step out from sci-fi"
+    excerpt: "Tiny machines that deliver therapeutic payloads to precise locations in the body are the stuff of science fiction. But some researchers are trying to turn them into a clinical reality."
+    publishedDateTime: 2022-03-29T23:38:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-00859-0?code=8a30d1fa-dc6c-4f42-b19d-ce79ebbf28c6&error=cookies_not_supported"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-00859-0/d41586-022-00859-0_20258918.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+
 secured: "vzZwvr9P+jWJGVplJ8+y2retprEWV4lTZN2y3qF1g5oCFBgGrSBAV4SXAicBVLMRMjC/IDMQj5i9MulkjkpdDEzGHb5MuyXSV5O1+Dg/32J/zBq5UXgtK74JUQeQ0yjjbMni0B7S8iWDVllTwoJouUcVKayv7lJy4KdIL9hFYpZ0BV5aJMA6ovA0//d/zJpnCZ3/x0ektnV5zrdyWuHLPnOVpEd0IX6l8PND8byGkewVKoPHzZMalXM0agW43Uz0ylfuS75UbeS5sWJzjx9Pcqv6oaWG/pzQed1sQ63QeOe+ZDOvmygEvz/RODIdjkLs69jrwGRYsLcbpcBhQerNcv/prOw2vaQbL7Vo4weU3spUMtsWsRKpxg5YxcQkbN3LkNMi++yBYCY8MseBclNShLTSFsrdml5H3YRG8JOQ9jD2OMjliX8JmIt5d/b/M0oGnQAVt6VJhESl2qCBe61soVgBKYJKVmN5cfkZaPgRJl06VHuuyMH0q0ujB6EcVNtPm0PQRSUlQKNVq8ejGA0aNg==;h6l/0qd4c2vgvlkWxCzyBQ=="
 ---
 

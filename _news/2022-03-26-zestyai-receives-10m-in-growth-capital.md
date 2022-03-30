@@ -103,17 +103,6 @@ related:
         width: 1260
         height: 754
         isCached: true
-  - title: "Brex Helps Zesty.ai Scale With $10 Million in Venture Debt"
-    excerpt: "In the news release, Brex Helps Zesty.ai Scale With $10 Million in Venture Debt, issued 24-Mar-2022 by Brex over PR Newswire, we are advised by"
-    publishedDateTime: 2022-03-25T05:49:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/brex-helps-zesty-ai-scale-with-$10-million-in-venture-debt-1031305455"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/brex-helps-zesty-ai-scale-with-$10-million-in-venture-debt-1031305455"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/brex-helps-zesty-ai-scale-with-$10-million-in-venture-debt-1031305455"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 39
   - title: "How Sidetrade utilises AI for its FinTech platform"
     excerpt: "FinTech Magazine speaks to Mark Sheldon, CTO at Sidetrade to learn more about the company and its work with AI within the fintech industry"
     publishedDateTime: 2022-03-28T08:09:00Z

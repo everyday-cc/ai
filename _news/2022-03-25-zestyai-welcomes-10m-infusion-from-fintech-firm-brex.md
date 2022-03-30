@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/amp/"
 type: article
 quality: 59
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -89,17 +89,6 @@ related:
         width: 1260
         height: 754
         isCached: true
-  - title: "Brex Helps Zesty.ai Scale With $10 Million in Venture Debt"
-    excerpt: "In the news release, Brex Helps Zesty.ai Scale With $10 Million in Venture Debt, issued 24-Mar-2022 by Brex over PR Newswire, we are advised by"
-    publishedDateTime: 2022-03-25T05:49:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/brex-helps-zesty-ai-scale-with-$10-million-in-venture-debt-1031305455"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/brex-helps-zesty-ai-scale-with-$10-million-in-venture-debt-1031305455"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/brex-helps-zesty-ai-scale-with-$10-million-in-venture-debt-1031305455"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 39
   - title: "Zesty.ai Receives $10M in Growth Capital"
     excerpt: "Zesty.ai, a San Francisco, CA-based provider of predictive data analytics in the climate risk space, received $10M in venture debt financing"
     publishedDateTime: 2022-03-26T11:08:00Z

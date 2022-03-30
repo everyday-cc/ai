@@ -48,20 +48,20 @@
       ]
     },
     {
-      "path": "_news/2022-03-29-the-impact-open-banking-cloud-and-ai-are-having-on-the-banking-industry.md",
-      "title": "The Impact Open Banking, Cloud and AI are having on the Banking Industry",
-      "excerpt": "At this point, I think it’s worth looking at how the conjunction of OB with the investment being made in technologies such as Cloud Computing and AI is impacting banking. I do not doubt that one of the biggest contributors to the rise of FinTech has been ...",
+      "path": "_news/2022-03-29-accelerating-financial-services-with-ai.md",
+      "title": "Accelerating Financial Services With AI",
+      "excerpt": "AI is enabling brighter financial futures for consumers and businesses. From traditional banks to new fintechs, the financial services industry is powering use cases with AI such as preventing payments fraud,",
       "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/the-impact-open-banking-cloud-and-ai-are-having-on-the-banking-industry/",
-      "originalUrl": "https://www.globalbankingandfinance.com/the-impact-open-banking-cloud-and-ai-are-having-on-the-banking-industry/",
+      "webUrl": "https://www.globalbankingandfinance.com/accelerating-financial-services-with-ai/",
+      "originalUrl": "https://www.globalbankingandfinance.com/accelerating-financial-services-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/iStock-1334591614.jpg",
-          "width": 750,
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/Accelerating-FSI_Image_700x500.jpg",
+          "width": 700,
           "height": 500,
           "title": null,
           "attribution": null,
@@ -70,9 +70,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/the-impact-open-banking-cloud-and-ai-are-having-on-the-banking-industry/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/the-impact-open-banking-cloud-and-ai-are-having-on-the-banking-industry/",
-      "publishedDateTime": "2022-03-28T11:30:00-07:00",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/accelerating-financial-services-with-ai/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/accelerating-financial-services-with-ai/",
+      "publishedDateTime": "2022-03-28T12:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "List of Banks in Belarus",
@@ -87,8 +87,7 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "AI Ethics"
+        "AI"
       ]
     },
     {
@@ -205,7 +204,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {

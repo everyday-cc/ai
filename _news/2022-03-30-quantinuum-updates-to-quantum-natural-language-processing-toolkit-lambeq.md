@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2022/03/quantinuum-updates-to-quantum-natura
 webUrl: "https://insidehpc.com/2022/03/quantinuum-updates-to-quantum-natural-language-processing-toolkit-lambeq/"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit λambeq, Enhancing Accessibility"
+    excerpt: "OXFORD, England, March 29, 2022 /PRNewswire/ -- The quantum natural language processing team at Quantinuum, the world's leading integrated quantum computing company, has released a major update to its open-source Python librar."
+    publishedDateTime: 2022-03-29T23:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=638278"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 21
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit ?ambeq, Enhancing Accessibility"
     excerpt: "OXFORD, England, March 29, 2022 /CNW/ -- The quantum natural language processing team at Quantinuum, the world's leading integrated quantum computing company, has released a major update to its open-source Python library and toolkit,"
     publishedDateTime: 2022-03-29T08:06:00Z

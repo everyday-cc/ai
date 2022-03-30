@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-12-ibm-makes-watson-available-in-any-cloud-environment-boosts-hybrid-cloud-offerings.md",
+      "title": "IBM makes Watson available in any cloud environment, boosts hybrid cloud offerings",
+      "excerpt": "San Francisco — IBM Corp. is bolstering its hybrid cloud offerings and making its AI crown jewel available on any cloud environment. This means businesses can deploy Watson Assistant and Watson OpenScale, for example, and run it on premises ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/ibm-makes-watson-available-in-any-cloud-environment-boosts-hybrid-cloud-offerings/108935",
+      "originalUrl": "https://www.itbusiness.ca/news/ibm-makes-watson-available-in-any-cloud-environment-boosts-hybrid-cloud-offerings/108935",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2019/02/20190212_133216-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/ibm-makes-watson-available-in-any-cloud-environment-boosts-hybrid-cloud-offerings/108935?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-makes-watson-available-in-any-cloud-environment-boosts-hybrid-cloud-offerings/108935?amp=1",
+      "publishedDateTime": "2022-02-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-ibm-launches-watson-backed-virtual-assistant-for-td-securities.md",
       "title": "IBM launches Watson-backed virtual assistant for TD Securities",
       "excerpt": "IBM unveiled a new AI-based virtual assistant powered by IBM Watson Assistant that is designed to help customers answer crucial questions. The first company to take advantage of the tool is TD Securities, which will use the virtual agent system for its ...",
@@ -1383,49 +1426,6 @@
       "provider": {
         "name": "KXLY 4 News",
         "domain": "kxly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-30-ibm-artificial-intelligence-supercomputer-watson-has-8-stock-picks-for-2022.md",
-      "title": "IBM Artificial Intelligence Supercomputer Watson Has 8 Stock Picks For 2022",
-      "excerpt": "It’s the time of year that investors consider which stocks to buy and sell to build their portfolio for the next 12 months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/trading-ideas/long-ideas/21/12/24814302/ibm-artificial-intelligence-supercomputer-watson-has-8-stock-picks-for-2022",
-      "originalUrl": "https://www.benzinga.com/trading-ideas/long-ideas/21/12/24814302/ibm-artificial-intelligence-supercomputer-watson-has-8-stock-picks-for-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/ai.jpg",
-          "width": 1920,
-          "height": 914,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24814302",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24814302",
-      "publishedDateTime": "2021-12-29T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

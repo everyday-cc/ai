@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/202
 webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2022/03/29/former-facebook-engineers-ai-startup-raises-10m.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices"
-    excerpt: "GGV Capital Leads Seed Round, with Additional Investments from Qualcomm Ventures, Foothill Ventures and moreSAN JOSE, Calif.--(BUSINESS WIRE)--#AI--OmniML, a startup developing smaller and faster machine learning models,"
-    publishedDateTime: 2022-03-29T18:08:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=638792"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 37
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "y1tS1NYIonjaRfSZVRESHKTVU5UFr1wMrJkJbfz04VGPk4Zy9eVdn+JltEaEk00poGW6xo4lQS6yP6FiORrnZcUzzIhEqDPxAZBmycBiY7L5Pal63MHLUy8zm6yjoSHzbEl46CqKyQhNZsCn5/JZux9mvTmbyqy3yoQ8HoxFuJI2Xm3bzQ413qU9Zb2ACvyT8vhYq58ObhKgBs81cdjD0s4jf3CJV+S4o/QcdtAT7Gj2LH+ErwGKwkVd7HMkNr9H1os5Wj404aieDjeMRq2LEi53xzjJfc97gsBpMPGe6uo8axOUA0Sn4qyl+Y9TC/aLyEFbqkU3A9zsYjpAFDrdlZ2C5R9YmB1Ylce9gQCOIQsSuJIQGUYzhJf5isBhbkdSVYY3FIEFyLyXmQzuz8cRkaRqFrZVn6pIgYqeS4xnmIfiZR5sdN+v1u2a9KcCrgz3I4q6Qx0uBIjaHwPuSU2r3A8entDMGa5Bo6lTbbVoHxxaIj/6ELdiXYYkwe9IMWnelTkiJ+9ARm36+jemE52YXw==;o8zOejNXDqiacMBQzr/pDQ=="
 ---

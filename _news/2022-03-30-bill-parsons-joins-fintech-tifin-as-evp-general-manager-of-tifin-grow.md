@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow"
-excerpt: "TIFIN, a fintech platform using AI and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran Bill Parsons has joined the firm as Executive Vice President & General Manager of TIFIN Grow."
-publishedDateTime: 2022-03-29T19:23:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-bill-parsons-joins-fintech-tif-as-evp-general-/2022/03/29/9572869.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-bill-parsons-joins-fintech-tif-as-evp-general-/2022/03/29/9572869.htm"
+excerpt: "Former Envestnet/Yodlee executive will lead the recently announced platform that combines risk, planning and financial personality to help wealth"
+publishedDateTime: 2022-03-29T19:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow-1031316438"
+webUrl: "https://markets.businessinsider.com/news/stocks/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow-1031316438"
 type: article
-quality: 24
-heat: 24
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
@@ -24,6 +28,6 @@ images:
     height: 400
     isCached: true
 
-secured: "mDzL5YFgwo9FM/8wDoL6eR3YlXX79iPfWT+hJPz6bHVWpmOy72JLE9zj8PcssJpH040lZwQEnIgvfSFspD8hSJZ6g/Rlq1HEeX2Mk8GSEw5yNU7/MU4oPPJ7Eoeekq7T6dHO9zBeHJoc+/+wdBK3+RVAdZLi49vGMCkxKlw0kGmB06V1g321hBGIyZIIeQvybs1csJWZ3rHzPcUZGCvV7Lug0HZSKOjBB1m4Io7KMPDZxxsA3kw8TaupSFRVgcKmyXY1Sqspw78CQdSsXuiESohgufPS57dnvsO3cY+LYe3WBkH3hg6oPvHjELiJihAEWuFhLUhmUiTZW7Gw/vs08jz/Gj2xtkPfqS+lkkdgNzs=;4OU8JFZBaATF6TNVy5l94Q=="
+secured: "nnGFD65hR5zYD0Oo4oRNEU0kZL+Kr6mQGa1rzvkl1lfPB79izfVjBcRn9zjFusDCsQ141JF+/54dSmHZjLMqU9tB75Lv+sLH8Xzwb68pdSorjwIJzptp1GSfKC48hiznSG5QwQR2PPU3HZQvxgfhMBNrz4Jo1M8XT734pLvxFWMuQ9bmGYMu/eUxA1Bk9zeMNYFjwwytA95YAcPGKaFQL4RVUSAJKaLhsHJnVYJ+cVpO6cczB5ur6shGDBsmNI9/fcAJfOXdn4NmMY4cuwJSpl1hxqNREpkpN97pD5NwL59awP/G66KvONfZSdSlbj48jb+TlqhztAPAKcMLpuPMRnThTOOgNd8KSLNQXoJtydc=;i0NBb05AfrMNAwaNz0EgHg=="
 ---
 

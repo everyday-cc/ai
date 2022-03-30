@@ -3,8 +3,8 @@ category: news
 title: "Lantheus Announces Collaboration to Support Prostate Cancer Clinical Development"
 excerpt: "Lantheus Holdings, Inc. (“the Company”) (NASDAQ: LNTH), an established leader and fully integrated provider committed to innovative imaging diagnostics, targeted therapeutics and artificial intelligence solutions to Find,"
 publishedDateTime: 2022-03-29T12:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/03/29/9572192.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/03/29/9572192.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-lantheus-announces-collaboration-support-prostate-cancer-clinical-development-/2022/03/29/9572192.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-lantheus-announces-collaboration-support-prostate-cancer-clinical-development-/2022/03/29/9572192.htm"
 type: article
 quality: 0
 heat: 0
@@ -18,6 +18,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "PN+kX6xA+DRX7Y+/Sngjj0NO9cQIVIHyDLIrlCHEy+kJzoU0fyVR8R6pdaAt53PFr9PR012tB2oVD1GzJJKJs5vXtsyIQMyXrcP5e+YRqxCIxsQicMV0EtWzTblhebv4C4wROFzlsrJ6CYZgTdLqDLjYqW2PEm3y0OFLhK6ZwksGM4/zlyFxb+LMAZCwwjt7PvAKlBG5nhFvxQBf7j2YoIt5ITvz9ABNfWy3gnrzMLdg1rhfvx6Muo2zlWTb6gil813jKt1G7+O2kff7bJHe9rexXHtod+nVW0LsleY2PKKSpIZUQaNRL9F3eZNXYPu7O2x5skyvE7B18776GlVWqlkzbU4ukhG2cuzY4umzuz0=;/KvLGygIoQ1/lb+0smByJQ=="
+secured: "3yzJyTLPh5f64e3k0Xdw46am2aUZ9k+NikBFlJ9VtYB2llzgwd1yCqLMZfnmCMh9LPzexceFMqSPqZGMGE9D0LdBzNmvTsju1LCnA6tqVpgK7z8AlWM+d796/rrqjZrFcdX6AvD/hCWxIphX8BJArQHXR6tcTCh8WcMq4D9v93UWnq7nNd6Y3cbObQGs4Q441wdGsgAtLAfrnl1thKXGu6m+L9lkdcAe9oI4bKOlsoao0eR0nwGrlTM6Y0D8OK9NRnRZfGxxzH6XrOVRJ1n+CsOqW8XIy551Rj0YSfLrTj3/EBqFiMY13BAicPWTGIr+/sZDpDVUr+6jPhg5NMufCUlVYy38p+i+ycS4kTwAyfc=;pAKbSZGm5t705M3AXZQOUA=="
 ---
 
