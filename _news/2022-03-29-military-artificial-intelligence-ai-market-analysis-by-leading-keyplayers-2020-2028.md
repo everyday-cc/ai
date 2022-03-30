@@ -33,7 +33,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 24
+    quality: 26
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-War-AFP-1K-01-1-600x337.jpg"
         width: 600

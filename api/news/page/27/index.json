@@ -2,6 +2,581 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2022-03-03-three-ways-to-overcome-industrial-ai-roadblocks.md",
+      "title": "Three Ways To Overcome Industrial AI Roadblocks",
+      "excerpt": "Industrial AI can unlock any number of game-changing benefits for the oil/gas and energy sectors: overhauling inefficient operations, increasing productivity and cost efficiencies, reducing downtime,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/three-ways-to-overcome-industrial-ai-roadblocks/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/three-ways-to-overcome-industrial-ai-roadblocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/612cfe722afc9777411adcb0/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/three-ways-to-overcome-industrial-ai-roadblocks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/03/three-ways-to-overcome-industrial-ai-roadblocks/amp/",
+      "publishedDateTime": "2022-03-03T03:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-why-ai-and-robotics-are-the-key-to-true-digital-transformation.md",
+      "title": "Why AI and Robotics are the Key to True Digital Transformation",
+      "excerpt": "Artificial Intelligence (AI) and robotics are terms used to describe machines with human-like abilities, or the simulation of natural intelligence in machines, that is programmed to learn and mimic the actions of humans.",
+      "sourceUrl": null,
+      "webUrl": "https://za.investing.com/news/why-ai-and-robotics-are-the-key-to-true-digital-transformation-2515818",
+      "originalUrl": "https://za.investing.com/news/why-ai-and-robotics-are-the-key-to-true-digital-transformation-2515818",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png",
+          "width": 251,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-03T03:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing.com",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-nice-accelerates-self-service-success-with-the-launch-of-innovative-ai-powered-capabilities-in-its-cxone-spring-2022-release.md",
+      "title": "NICE Accelerates Self-Service Success with the Launch of Innovative AI-Powered Capabilities in its CXone Spring 2022 Release",
+      "excerpt": "NICE (Nasdaq: NICE) today announced the Spring 2022 release of CXone, which adds innovative new capabilities that accelerate self-service success. Further expanding on NICE's CXi platform and its focus on the end-to-end digital customer journey,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/03/03/9556391.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/03/03/9556391.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-03T03:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations.md",
+      "title": "Five Ways Artificial Intelligence Is Reshaping Enterprise Sales Operations",
+      "excerpt": "AI helps by automating the process based on behavioral trends and uncovering effective next steps while providing full-funnel visibility for managers and other members of the revenue operations organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/03/five-ways-artificial-intelligence-is-reshaping-enterprise-sales-operations/amp/",
+      "publishedDateTime": "2022-03-03T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-these-ai-mistakes-are-slowly-killing-your-customer-experience.md",
+      "title": "These AI Mistakes Are Slowly Killing Your Customer Experience",
+      "excerpt": "AI assumes an expanded role in the customer service landscape. For one, companies started using AI to automate customer behavior pattern analysis — processing gigabytes of data at a velocity that humans can never match.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2022/03/03/these-ai-mistakes-are-slowly-killing-your-customer-experience/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2022/03/03/these-ai-mistakes-are-slowly-killing-your-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621f8ce871defbdeb0c90630/0x0.jpg?format=jpg&crop=3659,2597,x0,y0,safe&fit=crop",
+          "width": 3659,
+          "height": 2597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2022/03/03/these-ai-mistakes-are-slowly-killing-your-customer-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/03/03/these-ai-mistakes-are-slowly-killing-your-customer-experience/amp/",
+      "publishedDateTime": "2022-03-03T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-making-financial-auditing-more-assured-with-blockchain.md",
+      "title": "Making Financial Auditing More Assured With Blockchain",
+      "excerpt": "As a technology, blockchain comes with a few well-known qualities—tools based on the technology are impossible to breach, they store transactions and other records in real-time, the data stored in blockchains cannot be manipulated without authorization and many others.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/03/making-financial-auditing-more-assured-with-blockchain/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/03/making-financial-auditing-more-assured-with-blockchain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6212d5286c70df80ffc0952e/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1035,
+          "height": 924,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/03/making-financial-auditing-more-assured-with-blockchain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/03/03/making-financial-auditing-more-assured-with-blockchain/amp/",
+      "publishedDateTime": "2022-03-03T02:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-intellimationai-launches-its-nlp-and-ml-based-product-adept-for-insurance-sector.md",
+      "title": "Intellimation.ai launches its NLP and ML-based product ADEPT for insurance sector",
+      "excerpt": "Intellimation.ai, a Natural Language Processing and Machine Learning- based cognitive fintech company is launching its product ADEPT for the insurance and insurance brokerage industry. ADEPT is an extension of their core AI platform Vector into the insurance sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/intellimationai-launches-its-nlp-and-ml-based-product-adept-for-insurance-sector",
+      "originalUrl": "https://www.freepressjournal.in/business/intellimationai-launches-its-nlp-and-ml-based-product-adept-for-insurance-sector",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/2020-12/53f13fba-b585-457f-b1cc-d140e296ef74/nawab_malik.jpeg",
+          "width": 770,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/intellimationai-launches-its-nlp-and-ml-based-product-adept-for-insurance-sector",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/intellimationai-launches-its-nlp-and-ml-based-product-adept-for-insurance-sector",
+      "publishedDateTime": "2022-03-03T02:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-ending-the-chatbots-spiral-of-misery.md",
+      "title": "Ending the Chatbot’s ‘Spiral of Misery’",
+      "excerpt": "By Steve Lohr This article is part of a new series on artificial intelligence’s potential ... journey to its chatbot technology than IBM. After its Watson supercomputer triumphed over human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/03/03/technology/ai-chatbot.html",
+      "originalUrl": "https://www.nytimes.com/2022/03/03/technology/ai-chatbot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/03/01/multimedia/01AI-CHATBOT1-GIF/01AI-CHATBOT1-GIF-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/03/03/technology/ai-chatbot.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/03/03/technology/ai-chatbot.amp.html",
+      "publishedDateTime": "2022-03-03T02:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer.md",
+      "title": "Graphcore unveils next-generation AI chips and plans for powerful supercomputer",
+      "excerpt": "Graphcore, a company developing AI accelerator chips, has announced the latest generation of its products and plans for an AI supercomputer.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/",
+      "originalUrl": "https://venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/amp/",
+      "publishedDateTime": "2022-03-03T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-global-artificial-intelligence-ai-in-drug.md",
+      "title": "Global Artificial Intelligence (AI) in Drug...",
+      "excerpt": "The Global Artificial Intelligence in Drug Discovery Market size is expected to reach USD 4,197.5 Million by 2028, exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/03/g25957282/global-artificial-intelligence-ai-in-drug-discovery-market-4197-5-mn-by-2028-growth-forecast-at-41",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/g25957282/global-artificial-intelligence-ai-in-drug-discovery-market-4197-5-mn-by-2028-growth-forecast-at-41",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25957282",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25957282",
+      "publishedDateTime": "2022-03-03T00:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-global-artificial-intelligence-ai-market-application-trends-growth-opportunities-and-worldwide-forecast-2022-to-2027.md",
+      "title": "Global Artificial Intelligence (AI) Market Application, Trends, Growth, Opportunities and Worldwide Forecast 2022 To 2027",
+      "excerpt": "New York, US, The report by Zion Market Research on the Artificial Intelligence (AI) Market for CRM by Application",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-market-application-trends-growth-opportunities-and-worldwide-forecast-2022-to-2027-2022-03-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-market-application-trends-growth-opportunities-and-worldwide-forecast-2022-to-2027-2022-03-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-02T23:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-wellbeing-digital-sciences-subsidiary-irp-health-receives-approval-from-veterans-affairs-canada-for-reactivation-program.md",
+      "title": "Wellbeing Digital Sciences Subsidiary IRP Health Receives Approval From Veterans Affairs Canada for Reactivation Program",
+      "excerpt": "Wellbeing Digital Sciences Inc. (\"Wellbeing\" or the \"Company\") (NEO: MEDI) (OTC:KONEF) (FRA: MY0), an evidence-based healthcare company focused on innovative clinical solutions, artificial intelligence-powered digital therapeutics and contract research,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/03/g25956689/wellbeing-digital-sciences-subsidiary-irp-health-receives-approval-from-veterans-affairs-canada-fo",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/g25956689/wellbeing-digital-sciences-subsidiary-irp-health-receives-approval-from-veterans-affairs-canada-fo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25956689",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25956689",
+      "publishedDateTime": "2022-03-02T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-03-cognitive-services-market-growth-trends-2022-future-prospects-opportunities-drivers-competitive-strategies-and-forecast-up-to-2026.md",
       "title": "Cognitive Services Market Growth Trends 2022, Future Prospects, Opportunities, Drivers, Competitive Strategies and Forecast up to 2026",
       "excerpt": "Mar 03, 2022 (The Expresswire) -- Global “Cognitive Services Market” report presents information about market size, share, pricing trends, emerging growth, and provides an understanding of the ...",
@@ -651,591 +1226,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-faros-ai-raises-16m-to-launch-an-engops-platform-for-software-development.md",
-      "title": "Faros AI raises $16M to launch an ‘EngOps’ platform for software development",
-      "excerpt": "Faros AI, which is developing an 'EngOps' platform for enterprise customers, has raised $16 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/02/faros-ai-raises-16m-to-launch-an-engops-platform-for-software-development/",
-      "originalUrl": "https://venturebeat.com/2022/03/02/faros-ai-raises-16m-to-launch-an-engops-platform-for-software-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/Application-developer.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/02/faros-ai-raises-16m-to-launch-an-engops-platform-for-software-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/faros-ai-raises-16m-to-launch-an-engops-platform-for-software-development/amp/",
-      "publishedDateTime": "2022-03-02T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-sonata-software-named-microsoft-azure-expert-managed-service-provider.md",
-      "title": "Sonata Software named Microsoft Azure Expert Managed Service Provider",
-      "excerpt": "Sonata Software a global IT Services and Technology Solutions Company today announced that it has been named a Microsoft Azure Expert Managed Service Provider",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272351681/sonata-software-named-microsoft-azure-expert-managed-service-provider",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272351681/sonata-software-named-microsoft-azure-expert-managed-service-provider",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/ani1646235347.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-02T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-ai-model-detects-mental-disorders-based-on-web-posts.md",
-      "title": "AI model detects mental disorders based on web posts",
-      "excerpt": "Dartmouth researchers have built an artificial intelligence model for detecting mental disorders using conversations on Reddit, part of an emerging wave of screening tools that use computers to analyze social media posts and gain an insight into people's mental states.",
-      "sourceUrl": null,
-      "webUrl": "https://home.dartmouth.edu/news/2022/03/ai-model-detects-mental-disorders-based-web-posts",
-      "originalUrl": "https://techxplore.com/news/2022-03-ai-mental-disorders-based-web.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://home.dartmouth.edu/sites/home/files/styles/max_width_720px/public/2022-03/20220225_computer_science_rg_008.jpg?itok=-Qsb_hC4",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-02T06:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-4-takeaways-for-student-loan-borrowers-after-bidens-big-speech.md",
-      "title": "4 Takeaways For Student Loan Borrowers After Biden’s Big Speech",
-      "excerpt": "Biden did not mention student loan forgiveness or other student loan relief during his State of the Union address. Here’s what it means for borrowers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/",
-      "originalUrl": "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/621f8b986e1c008edddcafb9/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1067,
-          "height": 711,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/amp/",
-      "publishedDateTime": "2022-03-02T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical.md",
-      "title": "Sanctuary claims it’s creating robots with human-level intelligence, but experts are skeptical",
-      "excerpt": "AI today (mostly) excels at narrow ... would seem to just be a pretty standard reinforcement learning (RL) robotics startup,” Matthew Guzdial, a University of Alberta assistant professor ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/",
-      "originalUrl": "https://venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1338009807.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical/amp/",
-      "publishedDateTime": "2022-03-02T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-europe-is-in-danger-of-using-the-wrong-definition-of-ai.md",
-      "title": "Europe Is in Danger of Using the Wrong Definition of AI",
-      "excerpt": "Some intelligent systems are at risk of being excluded from oversight in the EU's proposed legislation. This is bad for both businesses and citizens.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-regulation-european-union/",
-      "originalUrl": "https://www.wired.com/story/artificial-intelligence-regulation-european-union/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/621ed5534f9a52429a2b4140/master/pass/030122_Europe%20Is%20in%20Danger%20of%20Using%20the%20Wrong%20Definition%20of%20AI%20(0;00;00;00).jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-regulation-european-union/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-regulation-european-union/amp",
-      "publishedDateTime": "2022-03-02T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-level-ai-which-provides-call-center-automation-software-raises-20m.md",
-      "title": "Level AI, which provides call center automation software, raises $20M",
-      "excerpt": "Level AI, a company providing call center automation software, has raised $20 million in funding from venture capital investors.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/02/level-ai-which-provides-call-center-automation-software-raises-20m/",
-      "originalUrl": "https://venturebeat.com/2022/03/02/level-ai-which-provides-call-center-automation-software-raises-20m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/india-call-center-masks.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/02/level-ai-which-provides-call-center-automation-software-raises-20m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/level-ai-which-provides-call-center-automation-software-raises-20m/amp/",
-      "publishedDateTime": "2022-03-02T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-amid-war-an-independent-russian-radio-station-goes-silent.md",
-      "title": "Amid war, an independent Russian radio station goes silent",
-      "excerpt": "In the days since Russian President Vladimir Putin ordered an invasion of Ukraine on February 24, officials have begun a crackdown on independent media and protesters who have come out in their thousands to decry the war ... of ill fortune, who was ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/",
-      "originalUrl": "https://www.aljazeera.com/news/2022/3/2/amid-war-an-independent-russian-radio-station-goes-silent",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/themes/fortune/amp/assets/it_pays_to_know.png",
-          "width": 1250,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-03-02T05:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Jazeera English",
-        "domain": "aljazeera.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-pepper-the-robot-offers-friendly-face-tackling-crimes-against-children.md",
-      "title": "Pepper the robot offers friendly face tackling crimes against children",
-      "excerpt": "The semi-humanoid robot Pepper is being used by police in the United Arab Emirates to uncover crimes against children such as abuse and exploitation, a sensitive area where a friendly android face could prove more approachable and less traumatic for those involved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.laprensalatina.com/pepper-the-robot-offers-friendly-face-tackling-crimes-against-children/",
-      "originalUrl": "https://www.laprensalatina.com/pepper-the-robot-offers-friendly-face-tackling-crimes-against-children/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.laprensalatina.com/wp-content/uploads/2022/03/4418555f46dfa57ee74e09e597cb156b06f0c15bw-1024x768.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.laprensalatina.com/pepper-the-robot-offers-friendly-face-tackling-crimes-against-children/amp/",
-      "cdnAmpWebUrl": "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/pepper-the-robot-offers-friendly-face-tackling-crimes-against-children/amp/",
-      "publishedDateTime": "2022-03-02T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "La Prensa Latina",
-        "domain": "laprensalatina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-this-fintechs-hypergrowth-could-last-for-years.md",
-      "title": "This Fintech's Hypergrowth Could Last for Years",
-      "excerpt": "Upstart Auto went live in 2021 after the company acquired Prodigy and married its AI with Prodigy's retail software. It gives automotive dealers a digital sales tool that can instantly get lending decisions from Upstart instead of going back and forth with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/03/02/this-fintechs-hypergrowth-could-last-for-years/",
-      "originalUrl": "https://www.fool.com/investing/2022/03/02/this-fintechs-hypergrowth-could-last-for-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/668280/gettyimages-1319565513-1.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-02T05:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-how-to-help-humans-understand-robots.md",
-      "title": "How to help humans understand robots",
-      "excerpt": "Scientists who study human-robot interaction often focus on understanding human intentions from a robot's perspective, so the robot learns to cooperate with people more effectively. But human-robot interaction is a two-way street,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-03-humans-robots.html",
-      "originalUrl": "https://techxplore.com/news/2022-03-humans-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-robot.jpg",
-          "width": 1920,
-          "height": 1169,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-03-humans-robots.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-humans-robots.amp",
-      "publishedDateTime": "2022-03-02T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-its-time-to-automate-insurance-document-processing-workflows.md",
-      "title": "It’s Time To Automate Insurance Document-Processing Workflows",
-      "excerpt": "A hyperautomation platform can thus automate the processing of insurance supplemental forms. AI technologies (computer vision, natural language processing, machine learning and fuzzy logic), along with business rules and workflows, can accomplish end-to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/02/its-time-to-automate-insurance-document-processing-workflows/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/02/its-time-to-automate-insurance-document-processing-workflows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f89f505db3eef289c346955/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/02/its-time-to-automate-insurance-document-processing-workflows/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/02/its-time-to-automate-insurance-document-processing-workflows/amp/",
-      "publishedDateTime": "2022-03-02T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

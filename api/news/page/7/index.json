@@ -2,6 +2,490 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-23-sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition.md",
+      "title": "São Paulo subway ordered to suspend use of facial recognition",
+      "excerpt": "The company responsible for running the São Paulo metro system was ordered to suspend the use of facial recognition technology. According to the decision issued on Tuesday by judge Cynthia Thome at the São Paulo State Court,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
+      "originalUrl": "https://www.zdnet.com/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
+      "publishedDateTime": "2022-03-23T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes.md",
+      "title": "Business Leaders And AI In 2022: Five Ways To Achieve Transformative Outcomes",
+      "excerpt": "Multimodal AI will expand the scope of AI applicability, creating use cases far beyond what anyone could have imagined a few years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60a2963f177a3e9f63eec918/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/amp/",
+      "publishedDateTime": "2022-03-23T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence.md",
+      "title": "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence",
+      "excerpt": "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-cloud-migration-for-medical-imaging-data-using-azure-health-data-services-and-ims.md",
+      "title": "Cloud migration for medical imaging data using Azure Health Data Services and IMS",
+      "excerpt": "This blog is part of a series in collaboration with our partners and customers leveraging the newly announced Azure Health Data Services. Azure Health Data Services, a platform as a service (PaaS) offering designed exclusively to support Protected Health Information (PHI) in the cloud, is a new way of",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/cloud-migration-for-medical-imaging-data-using-azure-health-data-services-and-ims/",
+      "originalUrl": "https://azure.microsoft.com/blog/cloud-migration-for-medical-imaging-data-using-azure-health-data-services-and-ims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/787e5f5b-7eca-4ebb-9a78-ff529f3e28ce.png",
+          "width": 640,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T03:00:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-darktrace-ai-stops-cyber-attack-exploiting-log4j-vulnerability-at-global-financial-services-provider.md",
+      "title": "DARKTRACE AI STOPS CYBER-ATTACK EXPLOITING LOG4J VULNERABILITY AT GLOBAL FINANCIAL SERVICES PROVIDER",
+      "excerpt": "Darktrace, a global leader in cyber security AI, today announced that a global provider of financial services recently detected and stopped an attacker attempting to leverage a vulnerability in Log4j to deploy malicious code across the organization.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/darktrace-ai-stops-cyber-attack-exploiting-log4j-vulnerability-at-global-financial-services-provider-1031300596",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/darktrace-ai-stops-cyber-attack-exploiting-log4j-vulnerability-at-global-financial-services-provider-1031300596",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai.md",
+      "title": "Trustworthy AI: How to ensure trust and ethics in AI",
+      "excerpt": "AI we can trust. Oftentimes discussions about ethics and trust in AI have a very narrow focus, limited to fairness and bias, which can be frustrating as a professional in the indu",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/",
+      "originalUrl": "https://venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-811140846-e1647972470657.jpg?fit=800%2C566&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/amp/",
+      "publishedDateTime": "2022-03-22T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-handheld-robot-uses-ai-to-help-first-responders-stem-bleeding.md",
+      "title": "Handheld robot uses AI to help first responders stem bleeding",
+      "excerpt": "Researchers at MIT's Lincoln Laboratory have developed a handheld robot that can help minimally trained responders to control severe internal bleeding in victims of traumatic injury, by helping them insert a needle and catheter into a major blood vessel.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/",
+      "originalUrl": "https://newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/450aa75/2147483647/strip/true/crop/900x600+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F66%2F91%2Fcc101cde4df58d8ff485eaec84a3%2Fai-guide.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/?amp=true",
+      "publishedDateTime": "2022-03-22T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles.md",
+      "title": "GTC 2022: NVIDIA flexes its GPU and platform muscles",
+      "excerpt": "NVIDIA's CEO Jensen Huang's 1 hour, 39-minute keynote covered a lot of ground but the unifying themes to the majority of the two dozen announcements were GPU-centered, and its platform approach to everything it builds.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/",
+      "originalUrl": "https://venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/nvidia.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/amp/",
+      "publishedDateTime": "2022-03-22T20:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-expedite-ivr-development-with-industry-grammars-on-amazon-lex.md",
+      "title": "Expedite IVR development with industry grammars on Amazon Lex",
+      "excerpt": "Amazon Lex is a service for building conversational interfaces into any application using voice and text. With Amazon Lex, you can easily build sophisticated, natural language, conversational bots (chatbots), virtual agents, and interactive voice response (IVR) systems. You can now use industry grammars",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-ivr-development-with-industry-grammars-on-amazon-lex/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-ivr-development-with-industry-grammars-on-amazon-lex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T18:17:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-chinas-quest-for-greater-technological-self-reliance.md",
+      "title": "China’s Quest for Greater Technological Self-Reliance",
+      "excerpt": "But what is driving this pursuit of self-reliance, especially for China ... world of e-commerce by leapfrogging from cash to cashless payment systems. Alibaba, Baidu, and other PRC firms are also active in cutting-edge artificial intelligence research.",
+      "sourceUrl": null,
+      "webUrl": "https://asiasociety.org/australia/chinas-quest-greater-technological-self-reliance",
+      "originalUrl": "https://asiasociety.org/australia/chinas-quest-greater-technological-self-reliance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://asiasociety.org/sites/default/files/styles/1200w/public/2021-03/Bates%20Gill%20essay%20-%20Made%20in%20China%20chip%20-%20ROMSVETNIK-%20shutterstock.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia Society",
+        "domain": "asiasociety.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-microsoft-claims-new-ai-model-architecture-improves-language-translation.md",
       "title": "Microsoft claims new AI model architecture improves language translation",
       "excerpt": "Microsoft claims that its new model architecture, Z-code Mixture of Experts (MoE), improves language translation quality.",
@@ -719,435 +1203,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-adt-commercial-to-showcase-humanoid-robotics-indoor-drones-at-isc-west-2022.md",
-      "title": "ADT Commercial to showcase humanoid robotics, indoor drones at ISC West 2022",
-      "excerpt": "Over the last several years, the world and overall commercial security landscape transform rapidly in response to various threats. As the industry has looked for a path forward, it’s",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html?ref=nav",
-      "originalUrl": "https://www.sourcesecurity.com/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html?ref=nav",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
-      "publishedDateTime": "2022-03-22T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-gigantor-technologies-provides-an-unbounded-future-for-ai.md",
-      "title": "Gigantor Technologies’ Provides an Unbounded Future for AI",
-      "excerpt": "Gigantor's newest innovation enhances Artificial Intelligence (AI) neural networks by enabling higher frame rates at the highest resolution (HD, 4K, and 8K). In the Patent Title, 'Unbounded ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/gigantor-technologies-provides-an-unbounded-future-for-ai/article_36a01318-5835-5e1e-ab3f-63bec027805d.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/gigantor-technologies-provides-an-unbounded-future-for-ai/article_36a01318-5835-5e1e-ab3f-63bec027805d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-icertis-launches-industry-first-contract-intelligence-solution-for-healthcare-providers.md",
-      "title": "Icertis Launches Industry-First Contract Intelligence Solution for Healthcare Providers",
-      "excerpt": "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced the launch of  (ICI) for Healthcare Providers. The industry-first CLM solution helps healthcare providers accelerate digital transformation by modernizing complex agreements such as payer,",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/legalnewswire/news.php?id=2996268",
-      "originalUrl": "https://www.law.com/legalnewswire/news.php?id=2996268",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1765967/Patient_Centered_Care_and_Contracts.jpg?w=500",
-          "width": 500,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-how-this-ai-predicts-extreme-local-weather-events.md",
-      "title": "How this AI predicts extreme local weather events",
-      "excerpt": "As climate change increases the intensity and frequency of extreme weather events, prediction has never been more important.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-ai-predicts-extreme-local-weather-events/",
-      "originalUrl": "https://www.zdnet.com/article/how-ai-predicts-extreme-local-weather-events/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a52a9e865fc6c94a81086164d6118ca459e60169/2022/03/21/9eb7fcc9-a38f-4eae-89db-07887cd97eb6/gettyimages-182689622.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-ai-predicts-extreme-local-weather-events/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-predicts-extreme-local-weather-events/",
-      "publishedDateTime": "2022-03-22T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program.md",
-      "title": "FMG Suite Named “Best Overall FinTech Mobile App” in 2022 FinTech Breakthrough Awards Program",
-      "excerpt": "Prestigious International Awards Recognize Outstanding Financial Technology Products And Companies. SAN DIEGO, March 22, 2022 /PRNewswire/ -- FMG Suite, a SaaS company specializin",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-software-financial-technology-85789954dc965304c49a73b0dd051a25",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-software-financial-technology-85789954dc965304c49a73b0dd051a25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-evisort-named-winner-in-2022-artificial-intelligence-excellence-awards.md",
-      "title": "Evisort Named Winner in 2022 Artificial Intelligence Excellence Awards",
-      "excerpt": "The Business Intelligence Group today announced that Evisort is a winner in its inaugural Artificial Intelligence Excellence Awards program. Evisort is the leading provider of artificial intelligence (AI) solutions for contract management and analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailytimes.com/business/evisort-named-winner-in-2022-artificial-intelligence-excellence-awards/article_0556d31a-3dfc-5f45-812e-d9942ede5d91.html",
-      "originalUrl": "https://www.thedailytimes.com/business/evisort-named-winner-in-2022-artificial-intelligence-excellence-awards/article_0556d31a-3dfc-5f45-812e-d9942ede5d91.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/assets/v3/editorial/6/12/6123a593-b9fc-50cb-ba41-b52887096dc9/6239cccfe4213.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thedailytimes.com",
-        "domain": "thedailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-tifin-announces-the-expansion-of-its-fintech-platform-for-personalized-charitable-giving-to-democratize-access-to-donor-advised-funds.md",
-      "title": "TIFIN Announces the Expansion of its Fintech Platform for Personalized Charitable Giving to Democratize Access to Donor Advised Funds",
-      "excerpt": "TIFIN’s Louise Platform that allows advisors to enable personalized giving for their client families acquires Amicus.io to broaden access and meet clients’ giving needs without minimums BOULDER, Colo.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-philanthropy-21384d282862ee5c35e1b4bb1c70058d",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-philanthropy-21384d282862ee5c35e1b4bb1c70058d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-press-ganeys-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards.md",
-      "title": "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards",
-      "excerpt": "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-812be7d276734b00a1b5ecd9b7d1d927",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-812be7d276734b00a1b5ecd9b7d1d927",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-ujet-wins-prestigious-best-of-enterprise-connect-2022-overall-award.md",
-      "title": "UJET Wins Prestigious Best of Enterprise Connect 2022 Overall Award",
-      "excerpt": "Disruptive Contact Center Platform Also Recognized for Innovative Use of Artificial Intelligence in CX UJET, Inc., the world’s most advanced cloud contact center provider, today announced it was awarded the 2022 Best of Enterprise Connect Overall distinction for CX Intercloud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20220322005820/ujet-wins-prestigious-best-of-enterprise-connect-2022-overall-award",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220322005820/ujet-wins-prestigious-best-of-enterprise-connect-2022-overall-award",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-pasqal-quantum-computers-to-become-available-on-azure-quantum-this-year.md",
-      "title": "Pasqal quantum computers to become available on Azure Quantum this year",
-      "excerpt": "Microsoft has agreed a partnership with quantum startup Pasqal which will see its quantum computers become available on Azure Quantum later this year. This will provide users with cloud-based access to Azure’s first quantum processor based on neutral atom architecture,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/367139/pasqal-quantum-computers-to-become-available",
-      "originalUrl": "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/367139/pasqal-quantum-computers-to-become-available",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1581677441/itpro/Azure.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.modernghana.com/amp/news/1148074/african-governments-mus
 cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1148074/african-governments-must-embrace-artificial-intell.html"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Modernghana.com
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence key to unlock the future - Dr Kpodar"
-    excerpt: "Artificial Intelligence AI use of simulation of human intelligence in machines that are programmed to think like humans and mimic their actions has assumed national discourse and Ghana must prepare to launch in that space."
-    publishedDateTime: 2022-03-25T20:54:00Z
-    webUrl: "https://www.modernghana.com/news/1147718/artificial-intelligence-key-to-unlock-the-future.html"
-    ampWebUrl: "https://www.modernghana.com/amp/news/1147718/artificial-intelligence-key-to-unlock-the-future.html"
-    cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1147718/artificial-intelligence-key-to-unlock-the-future.html"
-    type: article
-    provider:
-      name: Modernghana.com
-      domain: modernghana.com
-    quality: 57
-    images:
-      - url: "https://cdn.modernghana.com/images/content/325202293401-i4dp266gfa-picture-i-tma001-science-artificial-intelligence-.jpg"
-        width: 800
-        height: 296
-        isCached: true
   - title: "Artificial Intelligence is the future - Dr. Kpodar"
     excerpt: "Dr. Chris Kpodar, the Chairman and Chief Executive Officer of Solomon Investments Ghana Limited, says artificial intelligence (AI) represents the future and that should be the direction Ghana should be going."
     publishedDateTime: 2022-03-26T10:59:00Z

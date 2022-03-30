@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/barrycollins/2022/03/29/ai-handing-out-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/03/29/ai-handing-out-rough-justice-in-the-uk/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/iStock-1334591614.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "Artificial intelligence in the Retail Industry"
-    excerpt: "In the early days, people used to go to the retail stores, and all the things were done manually. Processes like billing, porting of materials, and security check-in needed a lot of time and additional resources."
-    publishedDateTime: 2022-03-27T12:17:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-retail-industry-karthick-chandrasekar"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFQPgNTaZwdEA/article-cover_image-shrink_600_2000/0/1648381205739?e=1654128000&v=beta&t=WBuihpvCbRf-YxmhFGjgDLpzBhYp9p2OtEBnDJtPfVA"
-        width: 721
-        height: 337
         isCached: true
 
 secured: "EPa4VjnCcN70YzwWkhjJCOBRe4hHHmOEaO83mlwUKYqm+P6nLKMC5FomNishLGWVgdwpCgIo0fQr2YQNUzPANaLc4jlBq8k5SebXgFE5+C1lsjoW19GxK+ecuu8d4pOsQoAZh8G2JElSzXrtYUlfiIXYIIxDiRdQVmjxROARFGlpxJn++PgCIxer9f8jAVHQrRHK3UPlcvxLSs1QKt3RTjr5JEGBbgg4398wliRRyG0MMdfnACqAt0MzNQsthOz6cyfjBQj2A/z1S95+V7eYpJ1PGw+1Ky79VFNLDtLkQ0wg5Tl14OeSWVULNINJfRZSXpR6C6eindXLtdW7nfhiP+ePnZZsGUfcbeD7ATMq6O0CyYpwpe4ClwrdFRWgah4Ntc9wpLJRQLnqHSP2fstyZ5GUnHRESvhtSaDG/71xgq0F2GhLgCp4/a7HyCWxYrtubk81iTVm8SgyqCszSNz4vl0lexMARt+86DMaFHKxtI0LmAUIUWYxIq6+UDKA+9PhZuLUwdt+X58vadh0tooKrA==;fwFcsH1MZhMH6J9MjESVzQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.khon2.com/business/press-releases/cision/20220328SF055
 webUrl: "https://www.khon2.com/business/press-releases/cision/20220328SF05526/outreach-named-a-leader-in-revenue-operations-and-intelligence-by-independent-research-firm/"
 type: article
 quality: 12
-heat: 12
+heat: -1
 published: false
 
 provider:
@@ -24,20 +24,42 @@ images:
     isCached: true
 
 related:
-  - title: "Gong Named A Leader In Revenue Operations And Intelligence, According To Independent Analyst Firm"
-    excerpt: "\"Companies that want to optimize buyer engagement and seller performance with a provider that has a proven track record should consider Gong\" PALO ALTO, Calif., March 28, 2022 /PRNewswire/ -- Gong, the Reality Platform™ leveraging artificial intelligence to transform go-to-market teams,"
-    publishedDateTime: 2022-03-28T15:42:00Z
-    webUrl: "https://who13.com/business/press-releases/cision/20220328LA04678/gong-named-a-leader-in-revenue-operations-and-intelligence-according-to-independent-analyst-firm/"
+  - title: "Get Ready For The Industrial Intelligence Revolution"
+    excerpt: "Industry 4.0 is bringing disruptive changes, converting industrial spaces to smart, connected and intelligent environments. Manufacturing has been irreversibly changed."
+    publishedDateTime: 2022-03-30T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/amp/"
     type: article
     provider:
-      name: who13
-      domain: who13.com
-    quality: 9
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://i0.wp.com/who13.com/wp-content/uploads/sites/19/2021/09/police_lights_400x225.jpg?w=2000&#038;ssl=1"
-        width: 400
-        height: 225
+      - url: "https://imageio.forbes.com/specials-images/imageserve/612cfe722afc9777411adcb0/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
+    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
+    publishedDateTime: 2022-03-29T10:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
+  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
+    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
+    publishedDateTime: 2022-03-30T01:50:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 21
 
 secured: "dG6NCORwwsSpCtypkBQZo/fyivRScVqoWWa0ZOnM4gTOY9dPiSG0uZ25uR9PSvE5Eef5c56xfATcSncj6ICyot+W93hPzuJdBFhSUO0Ybn9TetsWVHLweGbJ1o6YjxB+kJi5B9zRYaForzPqarAkP65HZRxIlKTUikCymHRVvc73NTJU75346rprlr1V56KR9L1s/cqp+1LtHxuOuH0S/+5G4rw53IHrqflM6nfm93tj8RKR4R0C9UPzT/hl1ERMfMxFrBPHc4VE8qCPhPYZb6fxfQ+iUi1L5MUN396yozvAzt8dcZXVHM0v/xmx+w4QMjYsiSwKYKErhPdHzriazPmECoJ2SOYVOYfQQu8yxGE=;SzJrQ5sNFxWGnVM4CH+qHw=="
 ---

@@ -2,26 +2,26 @@
 category: news
 title: "Border Patrol adds artificial intelligence cameras to security arsenal"
 excerpt: "Border agents in the past five months have participated in 6,630 search and rescues of migrants along the Southwestern border. They’re hoping newly deployed technology will help them not only stop"
-publishedDateTime: 2022-03-27T01:14:00Z
-originalUrl: "https://cbs4indy.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/"
-webUrl: "https://cbs4indy.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/"
-ampWebUrl: "https://cbs4indy.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
-cdnAmpWebUrl: "https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
+publishedDateTime: 2022-03-26T19:26:00Z
+originalUrl: "https://www.rochesterfirst.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/"
+webUrl: "https://www.rochesterfirst.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/"
+ampWebUrl: "https://www.rochesterfirst.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
+cdnAmpWebUrl: "https://www-rochesterfirst-com.cdn.ampproject.org/c/s/www.rochesterfirst.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: WTTV
-  domain: cbs4indy.com
+  name: WROC-TV
+  domain: rochesterfirst.com
 
 topics:
   - AI
   - AI in Security
 
 images:
-  - url: "https://cbs4indy.com/wp-content/uploads/sites/22/2022/03/CBP-IMAGE-ASTs.png?w=1280"
+  - url: "https://www.rochesterfirst.com/wp-content/uploads/sites/66/2022/03/CBP-IMAGE-ASTs.png?w=1280"
     width: 896
     height: 472
     isCached: true
@@ -60,6 +60,6 @@ related:
         height: 472
         isCached: true
 
-secured: "GwUfHDD1MDxZ22YVgIOERN8H5NsmetWmU6BjKMrEEVOp/0D1T7tX3mmaM2qP9nnZPILRJpJh9CYfFQrb+D4P5q1XdrA6Izrd4xP0JGwsYWgU4wL1Us2x7ZzkRoPj1fvPru3Sr0SKr5m+2ptLsoJnq5hJJc4I4T2JmGhqv3hRp2z1wPq7C7ja9m9/GZ5WRHs79kbGAfzu+mFVyCLXWanAnjAlT9T8lfVixBXrTC5nti6+nZ+pRUBqWGiIXhUYxYjK1uDFCcy5AtZdNKT7+st4xE1eaRHrlTq21p+xKkIpGTE+e8vOefNARhQaLFVBCTFy9wkGQHi0JZUhfZzPOyvI1PWxKqqSQB0gr0EhSvfxaBnCCcF9nlWQblZ8bxTzG1tGb6zxY1pkUViibMtigHJMRLR48ntdwfKTBeGyPUbKmOQVbbFVdz9vxjy32jGnrYxydJyaPcyh7fN5IOTre3F0QVHe/P2F3J2VdCZjf9Ia3L9iYKgqRS06BY3ilmNGIySeepb2+ZUQkW/Y+XB5BM3P9Q==;diZK1UCA7Y8dLnvdy4TfHw=="
+secured: "/++tDl+OpcuNYPjgY9nSsjf8lYQ26WigPzKfCNNBXj+RVFMnbb5Tc/WNfQ4IUnXgvs7mHfpDY2dkJnxynkxUnq9SsLPxiw2FJ6YlGDTvj4sSAVfa/h5awx5/asxdnXowTqJrctVfh677PIaOaI0VvODT9KkCR/Gu00gpnO2/k0PeEpzvA4O3Kkqxy5/sxn07m+KgI51zAyEo0D3pRpxGB2TfcyE0sz+23LY8wjefpWHT+MGUNk7D8YT3+D23DBa/TRpGxvi2OJr6lc7LADRT6dhaQJYk/dG5IVhB6Qh3CdqejTtjP4a6vPNbYMus35W0Ru1OBVwgDSq9/rD+ETi2EHsI82TSXrzbuV+PGSyapRM=;vfhES5vBA1aW5kRQdZJ2YA=="
 ---
 

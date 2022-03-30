@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-30T11:13:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-bfsi-market-global-research-top-leading-player-emerging-trends-region-by-forecast-to-2028"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-bfsi-market-global-research-top-leading-player-emerging-trends-region-by-forecast-to-2028"
 type: article
-quality: 15
+quality: 17
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-War-AFP-1K-01-1-600x337.jpg"

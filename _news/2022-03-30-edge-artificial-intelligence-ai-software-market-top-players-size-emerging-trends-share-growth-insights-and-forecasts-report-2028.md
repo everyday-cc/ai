@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-30T11:43:00Z
 originalUrl: "https://www.digitaljournal.com/pr/edge-artificial-intelligence-ai-software-market-top-players-size-emerging-trends-share-growth-insights-and-forecasts-report-2028"
 webUrl: "https://www.digitaljournal.com/pr/edge-artificial-intelligence-ai-software-market-top-players-size-emerging-trends-share-growth-insights-and-forecasts-report-2028"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-War-AFP-1K-01-1-600x337.jpg"

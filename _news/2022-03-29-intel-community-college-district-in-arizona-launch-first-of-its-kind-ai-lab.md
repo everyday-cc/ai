@@ -23,6 +23,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Artificial intelligence classes at Chandler-Gilbert Community College have backing from Intel"
+    excerpt: "The Maricopa County Community College District and Intel Corp. unveiled what they called a first-of-its-kind lab focused on artificial intelligence."
+    publishedDateTime: 2022-03-30T13:30:00Z
+    webUrl: "https://www.azcentral.com/story/money/business/tech/2022/03/30/intel-backed-program-mcccd-expands-artificial-intelligence-training/7192979001/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 8
+
 secured: "PmIzlw1SI4Ixk+asxg+Xnw9MM5OC4hSU8nrIqA2cbIsL6luMHso3aGeE7cZkUZA5sAnES520OuO5DhnLn6m/lVzQbVVnB4/MnYlAcOoHMJ9MhJm9CXUHiEK3u9cbPicABLSnf4MhlYsqwRH9y/cbJUCEoo4WyOsIobQgwmVwNESlqGQC0syBvpe59L5PIP59bvnDxkT/S97E1dPAn7B2LHlnvhI7YTVjgGzBfjsl41cc6c3/jCqU5SxAHzFeJ4Q97bB4beFv6hf/S2IU2XCKWqBjFcI8nc45d/Cm9meMDM4yc8roNapq1WXa3WwQT0L/YDAyvF9G2Fqa0cOykqoRkzYO82JjymC4HNxYD/F0MBI=;FPbNPOjiqVp65m9g+3X2cA=="
 ---
 

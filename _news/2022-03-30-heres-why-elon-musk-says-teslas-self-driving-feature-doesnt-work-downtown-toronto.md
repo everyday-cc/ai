@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "VIDEO: Tesla's new \"full-self driving\" technology still a work in progress"
-    excerpt: "Don't let the phrase \"full-self driving\" fool you. It's going to be a while before drivers can let their Tesla do all the"
-    publishedDateTime: 2022-03-29T21:15:00Z
-    webUrl: "https://www.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress"
-    ampWebUrl: "https://amp.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress"
-    cdnAmpWebUrl: "https://amp-kelownanow-com.cdn.ampproject.org/c/s/amp.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress"
+  - title: "Lotus Eletre SUV revealed with hidden self-driving tech Tesla doesn't use"
+    excerpt: "The Eletre is slightly longer than a Ford Explorer, but only has two rows of seats. It’s equipped with a 600 hp all-wheel-drive system that Lotus says will be able to accelerate"
+    publishedDateTime: 2022-03-30T12:39:00Z
+    webUrl: "https://www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-tech-tesla"
+    ampWebUrl: "https://www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-tech-tesla.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-tech-tesla.amp"
     type: article
     provider:
-      name: Kelowna
-      domain: kelownanow.com
-    quality: 72
+      name: Fox News
+      domain: foxnews.com
+    quality: 88
     images:
-      - url: "https://amp.kelownanow.com/files/files/images/tewtes.jpg"
-        width: 828
-        height: 453
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/03/720/405/lotus-5.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Tesla is working to release huge full self-driving beta update"
     excerpt: "Tesla is currently working on releasing a beta version of its \"Full Self-Driving\" (FSD) software. What features does this beta version include?"

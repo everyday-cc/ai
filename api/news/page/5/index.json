@@ -2,6 +2,430 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-25-south-africa-to-add-robotics-coding-to-school-curriculum.md",
+      "title": "South Africa to Add Robotics & Coding to School Curriculum",
+      "excerpt": "The Department of Basic Education (DBE) announced that it will be adding robotics and coding to the South African curriculum. According to the annual performance plan 2022/2023 which was released by the department recently,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnewsafrica.com/2022/03/south-africa-to-add-robotics-coding-to-school-curriculum/",
+      "originalUrl": "https://www.itnewsafrica.com/2022/03/south-africa-to-add-robotics-coding-to-school-curriculum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itnewsafrica.com/wp-content/uploads/2022/03/Coding-Kids-1.jpg",
+          "width": 800,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itnewsafrica.com/2022/03/south-africa-to-add-robotics-coding-to-school-curriculum/?amp",
+      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2022/03/south-africa-to-add-robotics-coding-to-school-curriculum/?amp",
+      "publishedDateTime": "2022-03-25T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News Africa",
+        "domain": "itnewsafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-ibm-understands-the-art-of-the-deal.md",
+      "title": "IBM understands the art of the deal",
+      "excerpt": "They’d be good for IBM, and maybe even America ... suggesting that infrastructure projects incorporate internet-of-things technology and artificial intelligence, urging the country to use data to curb waste and supporting efforts to reform the tax ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.breakingviews.com/considered-view/ibm-understands-the-art-of-the-deal/",
+      "originalUrl": "https://www.breakingviews.com/considered-view/ibm-understands-the-art-of-the-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.breakingviews.com/wp-content/uploads/2016/11/ibmwatson.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Breakingviews",
+        "domain": "breakingviews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-newgen-utilizes-microsoft-azure-applied-ai-services-for-enhanced-automation.md",
+      "title": "Newgen Utilizes Microsoft Azure Applied AI Services for Enhanced Automation",
+      "excerpt": "Newgen Software, a global provider of low code digital transformation platform, is pleased to announce integration with Microsoft Azure Applied AI Services for enhanced automation, and support for Azure Form Recognizer for intelligent document processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ciodive.com/press-release/20220324-newgen-utilizes-microsoft-azure-applied-ai-services-for-enhanced-automation/",
+      "originalUrl": "https://www.ciodive.com/press-release/20220324-newgen-utilizes-microsoft-azure-applied-ai-services-for-enhanced-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1648161116/press_release/assets/company_logos/Logo_square_ffrue0.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T15:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO Dive",
+        "domain": "ciodive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-mayo-clinic-assessing-google-ai-tool-as-it-seeks-more-insights-from-patient-records.md",
+      "title": "Mayo Clinic Assessing Google AI Tool as It Seeks More Insights From Patient Records",
+      "excerpt": "Mayo Clinic said it is assessing a product from Google Cloud that uses artificial intelligence to better track and analyze language-based information in patients’ electronic health records, such as doctor’s notes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/mayo-clinic-assessing-google-ai-tool-as-it-seeks-more-insights-from-patient-records-11648159790",
+      "originalUrl": "https://www.wsj.com/articles/mayo-clinic-assessing-google-ai-tool-as-it-seeks-more-insights-from-patient-records-11648159790",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-511654/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/mayo-clinic-assessing-google-ai-tool-as-it-seeks-more-insights-from-patient-records-11648159790",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mayo-clinic-assessing-google-ai-tool-as-it-seeks-more-insights-from-patient-records-11648159790",
+      "publishedDateTime": "2022-03-24T14:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-why-you-shouldnt-be-using-ai-for-hiring.md",
+      "title": "Why you shouldn’t be using AI for hiring",
+      "excerpt": "It’s virtually impossible to create bias-free AI recruiting tools. Here are strategies to mitigate the potential damage.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/",
+      "originalUrl": "https://venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281172753.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/amp/",
+      "publishedDateTime": "2022-03-24T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-digits-aims-to-disrupt-fintech-with-real-time-analytics.md",
+      "title": "Digits aims to disrupt fintech with real-time analytics",
+      "excerpt": "Digits, a leading fintech platform, announced today that it has raised a series C funding round led by SoftBank, with participation from Benchmark and GV, reportedly bringing total funds raised to $97.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/",
+      "originalUrl": "https://venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1180543360.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/amp/",
+      "publishedDateTime": "2022-03-24T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-bear-robotics-raises-81m-in-series-b-funding.md",
+      "title": "Bear Robotics Raises $81M in Series B Funding",
+      "excerpt": "Bear Robotics, a Redwood City, CA-based provider of hospitality robotics and artificial intelligence solutions, raised $81M in Series B funding",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2022/03/bear-robotics-raises-81m-in-series-b-funding.html",
+      "originalUrl": "https://www.finsmes.com/2022/03/bear-robotics-raises-81m-in-series-b-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2022/03/bear-robotics-2.jpeg",
+          "width": 1250,
+          "height": 1875,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes.com",
+        "domain": "finsmes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service-provider-index.md",
+      "title": "Leveraging its AI-Driven Technology, Pactera EDGE Climbs Four Positions on Slator's 2022 Language Service Provider Index",
+      "excerpt": "Growth in its AI-Enhanced Localization and Globalization Services ... Provider Index is a ranking and an index of the world's largest translation, localization, interpreting, and language technology companies. \"We've experienced significant organic growth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service/article_9e4966e0-a8b8-5215-a906-c97477c8b704.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service/article_9e4966e0-a8b8-5215-a906-c97477c8b704.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-top-ai-execs-including-richard-socher-launch-aix-ventures.md",
+      "title": "Top AI execs, including Richard Socher, launch AIX Ventures",
+      "excerpt": "Richard Socher, former Salesforce chief scientist, is among the founding partners of AIX Ventures, a new $50 million AI venture fund.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/24/top-ai-execs-including-richard-socher-launch-aix-ventures/",
+      "originalUrl": "https://venturebeat.com/2022/03/24/top-ai-execs-including-richard-socher-launch-aix-ventures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-886575164.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-google-health-wants-to-speed-up-healthcare-with-machine-learning-and-smartphones.md",
       "title": "Google Health wants to speed up healthcare with machine learning and smartphones",
       "excerpt": "Google Health is having a field day today — the company is dubbing it as \"The Check Up\" — and part of it means checking up on what artificial intelligence has enabled in and out of doctors' offices around the world: using ordinary equipment to quickly generate accurate results.",
@@ -757,456 +1181,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-microsoft-boosts-its-ai-translation-capabilities.md",
-      "title": "Microsoft boosts its AI translation capabilities",
-      "excerpt": "Unlike previous AI models, Z-code models utilize a ... As such, the models learn to translate between multiple languages simultaneously. At the same time, newly introduced Z-code MoE models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/microsoft-boosts-its-ai-translation-capabilities",
-      "originalUrl": "https://www.techradar.com/news/microsoft-boosts-its-ai-translation-capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/C6bmmDwjYdb4D4whKn5yVc-1200-80.jpg",
-          "width": 610,
-          "height": 344,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T23:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones.md",
-      "title": "How Samsung is using AI software to up the camera game on its smartphones",
-      "excerpt": "Samsung has applied approximately 60 AI models for the functions of the cameras on the Galaxy S22 Ultra, which a company executive says allows it to take detailed photos of closeups, night scenes and even match the quality of a DSLR camera.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
-      "originalUrl": "https://www.zdnet.com/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4f683ac35b12bd8929b668b72853ed82a55b545a/2022/02/08/f548c7c3-917b-4523-9ba3-1d19ef8df620/1-30-galaxy-s22-ultra-portrait2-hi.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
-      "publishedDateTime": "2022-03-23T22:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-cedars-sinai-says-artificial-intelligence-tool-may-help-predict-heart-attacks.md",
-      "title": "Cedars-Sinai Says Artificial Intelligence Tool May Help Predict Heart Attacks",
-      "excerpt": "Cedars-Sinai researchers developed an artificial-intelligence algorithm that expedites the process to quantify a patient's coronary plaque. And after \"training'' the algorithm, researchers said it accurately predicted the five-year heart attack risk for 1,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcsandiego.com/news/national-international/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2903072/",
-      "originalUrl": "https://www.nbcsandiego.com/news/national-international/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2903072/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcsandiego.com/2019/09/Silent_Heart_Attacks_55sec_365_large_448x336.jpg?quality=85&strip=all&fit=448%2C336",
-          "width": 448,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcsandiego.com/news/national-international/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2903072/?amp",
-      "cdnAmpWebUrl": "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/national-international/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2903072/?amp",
-      "publishedDateTime": "2022-03-23T21:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC 7 San Diego",
-        "domain": "nbcsandiego.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-amds-fsr-20-is-john-henry-versus-nvidia-dlsss-machine-learning.md",
-      "title": "AMD’s FSR 2.0 is John Henry versus Nvidia DLSS’s machine learning",
-      "excerpt": "AMD's FSR 2.0 is coming soon to games like DeathLoop, and it is closing the gap against Nvidia's DLSS technology.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/23/amds-fsr-2-0-is-john-henry-versus-nvidia-dlsss-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2022/03/23/amds-fsr-2-0-is-john-henry-versus-nvidia-dlsss-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/deathloop-fsr.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/23/amds-fsr-2-0-is-john-henry-versus-nvidia-dlsss-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/23/amds-fsr-2-0-is-john-henry-versus-nvidia-dlsss-machine-learning/amp/",
-      "publishedDateTime": "2022-03-23T19:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-ai-visionary-and-leader-dr-jane-pinelis-of-the-us-department-of-defense.md",
-      "title": "AI Visionary And Leader Dr. Jane Pinelis Of The U.S. Department Of Defense",
-      "excerpt": "My Conversation with one of the most influential, inspirational and brilliant minds. As part of my Series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was honored to interview Dr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2022/03/23/ai-visionary-and-leader-dr-jane-pinelis-of-the-us-department-of-defense/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/03/23/ai-visionary-and-leader-dr-jane-pinelis-of-the-us-department-of-defense/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623bb5ab348e52b4ce4f1c96/0x0.jpg?format=jpg&crop=593,334,x0,y110,safe&fit=crop",
-          "width": 593,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/03/23/ai-visionary-and-leader-dr-jane-pinelis-of-the-us-department-of-defense/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/03/23/ai-visionary-and-leader-dr-jane-pinelis-of-the-us-department-of-defense/amp/",
-      "publishedDateTime": "2022-03-23T18:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-set-up-a-text-summarization-project-with-hugging-face-transformers-part-2.md",
-      "title": "Set up a text summarization project with Hugging Face Transformers: Part 2",
-      "excerpt": "This is the second post in a two-part series in which I propose a practical guide for organizations so you can assess the quality of text summarization models for your domain. For an introduction to text summarization, an overview of this tutorial, and the steps to create a baseline for our project (also",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-2-set-up-a-text-summarization-project-with-hugging-face-transformers/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-2-set-up-a-text-summarization-project-with-hugging-face-transformers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T14:14:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-optimize-customer-engagement-with-reinforcement-learning.md",
-      "title": "Optimize customer engagement with reinforcement learning",
-      "excerpt": "This is a guest post co-authored by Taylor Names, Staff Machine Learning Engineer, Dev Gupta, Machine Learning Manager, and Argie Angeleas, Senior Product Manager at Ibotta. Ibotta is an American technology company that enables users with its desktop and mobile apps to earn cash back on in-store, mobile",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-customer-engagement-with-reinforcement-learning/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-customer-engagement-with-reinforcement-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/17/ml-7771-image007.png",
-          "width": 839,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T14:07:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-amazon-launches-aws-for-games-dedicated-products-and-services-for-the-gaming-industry.md",
-      "title": "Amazon launches AWS for Games, dedicated products and services for the gaming industry",
-      "excerpt": "AWS, Microsoft and Google are all stepping up their pitches to game developers and publishers as the industry grows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-launches-aws-for-games-dedicated-products-and-services-for-the-gaming-industry/",
-      "originalUrl": "https://www.zdnet.com/article/amazon-launches-aws-for-games-dedicated-products-and-services-for-the-gaming-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/af25c7eda187b9b71e922f0678484a7966af3102/2022/03/23/5a956e2a-eafc-4896-8d6f-c2324413032e/awsforgames.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-launches-aws-for-games-dedicated-products-and-services-for-the-gaming-industry/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-launches-aws-for-games-dedicated-products-and-services-for-the-gaming-industry/",
-      "publishedDateTime": "2022-03-23T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-spectrum-labs-creates-guardian-for-games-to-safeguard-player-experience-in-the-metaverse.md",
-      "title": "Spectrum Labs Creates Guardian for Games to Safeguard Player Experience in the Metaverse",
-      "excerpt": "Spectrum Labs, a leading artificial intelligence (AI)-based content moderation platform, announced today it has created a version of its Guardian product purpose-built for Gaming communities. As the industry faces the challenges and opportunities of nurturing safe and inclusive communities as the next era of the Internet emerges,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-a460f100bde545e19aef4d6672a4f838",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-a460f100bde545e19aef4d6672a4f838",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

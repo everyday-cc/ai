@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-15-leveraging-standards-to-optimize-ai-at-the-edge-what-agencies-need-to-know.md",
+      "title": "Leveraging Standards to Optimize AI at the Edge: What Agencies Need to Know",
+      "excerpt": "Ryan Luckay is a cloud-enabled artificial intelligence specialist master at Deloitte Consulting and has worked on numerous proofs of concept using edge AI tools, including OpenVino, Google Cloud Platform AutoML Vision and Amazon Web Services SageMaker.",
+      "sourceUrl": null,
+      "webUrl": "https://fedtechmagazine.com/article/2022/03/leveraging-standards-optimize-ai-edge-what-agencies-need-know",
+      "originalUrl": "https://fedtechmagazine.com/article/2022/03/leveraging-standards-optimize-ai-edge-what-agencies-need-know",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202203/GettyImages-898824628.jpg?itok=pI-2vOYS",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fedtechmagazine.com/article/2022/03/leveraging-standards-optimize-ai-edge-what-agencies-need-know?amp",
+      "cdnAmpWebUrl": "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2022/03/leveraging-standards-optimize-ai-edge-what-agencies-need-know?amp",
+      "publishedDateTime": "2022-03-14T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fedtechmagazine.com",
+        "domain": "fedtechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-cloud-based-management-system-helps-energy-companies-with-water-efficiency.md",
+      "title": "Cloud-Based Management System Helps Energy Companies with Water Efficiency",
+      "excerpt": "An intelligent water management system is designed to improve water efficiency and sustainability for energy companies with the possibility of expanding the information across industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.environmentalleader.com/2022/03/cloud-based-management-system-helps-energy-companies-with-water-efficiency/",
+      "originalUrl": "https://www.environmentalleader.com/2022/03/cloud-based-management-system-helps-energy-companies-with-water-efficiency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s30148.pcdn.co/wp-content/uploads/2022/03/water-gb9fcc0484_1920-1024x546.jpg",
+          "width": 1024,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Environmental Leader",
+        "domain": "environmentalleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-14-ecopetrol-accenture-and-aws-work-to-help-companies-advance-journey-to-water-neutrality-through-first-of-its-kind-open-platform.md",
       "title": "Ecopetrol, Accenture and AWS Work to Help Companies Advance Journey to Water Neutrality Through First-of-its-Kind Open Platform",
       "excerpt": "Accenture (NYSE: ACN) and Amazon Web Services, Inc. (AWS) announced a first-of-its-kind solution for water intelligence and management to help advance sustainability and operational efficiencies for energy companies.",
@@ -1310,92 +1396,6 @@
       "provider": {
         "name": "Joplin Globe",
         "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-voipfuture-has-joined-aws-isv-accelerate-program.md",
-      "title": "Voipfuture Has Joined AWS ISV Accelerate Program",
-      "excerpt": "Voipfuture, a provider of a unique carrier-grade, dual-visibility voice service quality monitoring and analytics solution, has announced today that it has been accepted",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voipfuture-has-joined-aws-isv-accelerate-program/article_7164cf91-4b6b-5e06-bb41-be033504d8fa.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voipfuture-has-joined-aws-isv-accelerate-program/article_7164cf91-4b6b-5e06-bb41-be033504d8fa.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-nobleai-announces-rollout-of-aws-govcloud.md",
-      "title": "Noble.AI Announces Rollout of AWS GovCloud",
-      "excerpt": "Noble.AI announced the rollout of AWS GovCloud support for their Science-Based AI Platform. By choosing to enable GovCloud, Noble.AI",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-govcloud/",
-      "originalUrl": "https://enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-govcloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/02/Noble.AI-Announces-Rollout-of-AWS-GovCloud_-Enabling-Customers-to-tackle-their-most-strategic-R_D-workloads-01-1.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-govcloud/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-govcloud/amp/",
-      "publishedDateTime": "2022-02-24T01:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
         "images": null,
         "publishers": null,
         "authors": null

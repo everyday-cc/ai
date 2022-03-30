@@ -42,17 +42,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "About AI on the rise"
-    excerpt: "A series exploring how the pandemic has supercharged the use of artificial intelligence tools at work and school"
-    publishedDateTime: 2022-03-29T19:32:00Z
-    webUrl: "https://www.theguardian.com/us-news/2022/mar/29/about-ai-on-the-rise"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2022/mar/29/about-ai-on-the-rise"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2022/mar/29/about-ai-on-the-rise"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 37
   - title: "Ulta Beauty & Haut.AI partner to bring new era of beauty and healthcare with AI-powered hyper-personalization"
     excerpt: "Haut.AI, a leading research and development company specializing in next-generation artificial intelligence for skincare and longevity, announced a strategic partnership with Ulta Beauty, the largest beauty retailer in the United States."
     publishedDateTime: 2022-03-29T14:14:00Z

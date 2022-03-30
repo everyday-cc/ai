@@ -2,6 +2,456 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-24-microsoft-boosts-its-ai-translation-capabilities.md",
+      "title": "Microsoft boosts its AI translation capabilities",
+      "excerpt": "Unlike previous AI models, Z-code models utilize a ... As such, the models learn to translate between multiple languages simultaneously. At the same time, newly introduced Z-code MoE models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/microsoft-boosts-its-ai-translation-capabilities",
+      "originalUrl": "https://www.techradar.com/news/microsoft-boosts-its-ai-translation-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/C6bmmDwjYdb4D4whKn5yVc-1200-80.jpg",
+          "width": 610,
+          "height": 344,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones.md",
+      "title": "How Samsung is using AI software to up the camera game on its smartphones",
+      "excerpt": "Samsung has applied approximately 60 AI models for the functions of the cameras on the Galaxy S22 Ultra, which a company executive says allows it to take detailed photos of closeups, night scenes and even match the quality of a DSLR camera.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
+      "originalUrl": "https://www.zdnet.com/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4f683ac35b12bd8929b668b72853ed82a55b545a/2022/02/08/f548c7c3-917b-4523-9ba3-1d19ef8df620/1-30-galaxy-s22-ultra-portrait2-hi.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
+      "publishedDateTime": "2022-03-23T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-cedars-sinai-says-artificial-intelligence-tool-may-help-predict-heart-attacks.md",
+      "title": "Cedars-Sinai Says Artificial Intelligence Tool May Help Predict Heart Attacks",
+      "excerpt": "Cedars-Sinai researchers developed an artificial-intelligence algorithm that expedites the process to quantify a patient's coronary plaque. And after \"training'' the algorithm, researchers said it accurately predicted the five-year heart attack risk for 1,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcsandiego.com/news/national-international/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2903072/",
+      "originalUrl": "https://www.nbcsandiego.com/news/national-international/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2903072/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcsandiego.com/2019/09/Silent_Heart_Attacks_55sec_365_large_448x336.jpg?quality=85&strip=all&fit=448%2C336",
+          "width": 448,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcsandiego.com/news/national-international/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2903072/?amp",
+      "cdnAmpWebUrl": "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/national-international/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2903072/?amp",
+      "publishedDateTime": "2022-03-23T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC 7 San Diego",
+        "domain": "nbcsandiego.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-amds-fsr-20-is-john-henry-versus-nvidia-dlsss-machine-learning.md",
+      "title": "AMD’s FSR 2.0 is John Henry versus Nvidia DLSS’s machine learning",
+      "excerpt": "AMD's FSR 2.0 is coming soon to games like DeathLoop, and it is closing the gap against Nvidia's DLSS technology.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/23/amds-fsr-2-0-is-john-henry-versus-nvidia-dlsss-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2022/03/23/amds-fsr-2-0-is-john-henry-versus-nvidia-dlsss-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/deathloop-fsr.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/23/amds-fsr-2-0-is-john-henry-versus-nvidia-dlsss-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/23/amds-fsr-2-0-is-john-henry-versus-nvidia-dlsss-machine-learning/amp/",
+      "publishedDateTime": "2022-03-23T19:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-ai-visionary-and-leader-dr-jane-pinelis-of-the-us-department-of-defense.md",
+      "title": "AI Visionary And Leader Dr. Jane Pinelis Of The U.S. Department Of Defense",
+      "excerpt": "My Conversation with one of the most influential, inspirational and brilliant minds. As part of my Series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was honored to interview Dr.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2022/03/23/ai-visionary-and-leader-dr-jane-pinelis-of-the-us-department-of-defense/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/03/23/ai-visionary-and-leader-dr-jane-pinelis-of-the-us-department-of-defense/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623bb5ab348e52b4ce4f1c96/0x0.jpg?format=jpg&crop=593,334,x0,y110,safe&fit=crop",
+          "width": 593,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/03/23/ai-visionary-and-leader-dr-jane-pinelis-of-the-us-department-of-defense/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/03/23/ai-visionary-and-leader-dr-jane-pinelis-of-the-us-department-of-defense/amp/",
+      "publishedDateTime": "2022-03-23T18:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-set-up-a-text-summarization-project-with-hugging-face-transformers-part-2.md",
+      "title": "Set up a text summarization project with Hugging Face Transformers: Part 2",
+      "excerpt": "This is the second post in a two-part series in which I propose a practical guide for organizations so you can assess the quality of text summarization models for your domain. For an introduction to text summarization, an overview of this tutorial, and the steps to create a baseline for our project (also",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-2-set-up-a-text-summarization-project-with-hugging-face-transformers/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-2-set-up-a-text-summarization-project-with-hugging-face-transformers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T14:14:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-optimize-customer-engagement-with-reinforcement-learning.md",
+      "title": "Optimize customer engagement with reinforcement learning",
+      "excerpt": "This is a guest post co-authored by Taylor Names, Staff Machine Learning Engineer, Dev Gupta, Machine Learning Manager, and Argie Angeleas, Senior Product Manager at Ibotta. Ibotta is an American technology company that enables users with its desktop and mobile apps to earn cash back on in-store, mobile",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-customer-engagement-with-reinforcement-learning/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-customer-engagement-with-reinforcement-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/17/ml-7771-image007.png",
+          "width": 839,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T14:07:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-amazon-launches-aws-for-games-dedicated-products-and-services-for-the-gaming-industry.md",
+      "title": "Amazon launches AWS for Games, dedicated products and services for the gaming industry",
+      "excerpt": "AWS, Microsoft and Google are all stepping up their pitches to game developers and publishers as the industry grows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/amazon-launches-aws-for-games-dedicated-products-and-services-for-the-gaming-industry/",
+      "originalUrl": "https://www.zdnet.com/article/amazon-launches-aws-for-games-dedicated-products-and-services-for-the-gaming-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/af25c7eda187b9b71e922f0678484a7966af3102/2022/03/23/5a956e2a-eafc-4896-8d6f-c2324413032e/awsforgames.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-launches-aws-for-games-dedicated-products-and-services-for-the-gaming-industry/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-launches-aws-for-games-dedicated-products-and-services-for-the-gaming-industry/",
+      "publishedDateTime": "2022-03-23T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-spectrum-labs-creates-guardian-for-games-to-safeguard-player-experience-in-the-metaverse.md",
+      "title": "Spectrum Labs Creates Guardian for Games to Safeguard Player Experience in the Metaverse",
+      "excerpt": "Spectrum Labs, a leading artificial intelligence (AI)-based content moderation platform, announced today it has created a version of its Guardian product purpose-built for Gaming communities. As the industry faces the challenges and opportunities of nurturing safe and inclusive communities as the next era of the Internet emerges,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-a460f100bde545e19aef4d6672a4f838",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-a460f100bde545e19aef4d6672a4f838",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-ontology-of-the-everyday-peoplereigns-automation-of-it-and-hr.md",
       "title": "Ontology of the everyday: PeopleReign's automation of IT and HR",
       "excerpt": "Automating language is not magic; it can take years of careful work to piece together what people mean in the context of corporate help desks, HR programs and the like. Such is the work of startup PeopleReign.",
@@ -748,447 +1198,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition.md",
-      "title": "São Paulo subway ordered to suspend use of facial recognition",
-      "excerpt": "The company responsible for running the São Paulo metro system was ordered to suspend the use of facial recognition technology. According to the decision issued on Tuesday by judge Cynthia Thome at the São Paulo State Court,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
-      "originalUrl": "https://www.zdnet.com/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
-      "publishedDateTime": "2022-03-23T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes.md",
-      "title": "Business Leaders And AI In 2022: Five Ways To Achieve Transformative Outcomes",
-      "excerpt": "Multimodal AI will expand the scope of AI applicability, creating use cases far beyond what anyone could have imagined a few years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60a2963f177a3e9f63eec918/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/amp/",
-      "publishedDateTime": "2022-03-23T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence.md",
-      "title": "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence",
-      "excerpt": "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-cloud-migration-for-medical-imaging-data-using-azure-health-data-services-and-ims.md",
-      "title": "Cloud migration for medical imaging data using Azure Health Data Services and IMS",
-      "excerpt": "This blog is part of a series in collaboration with our partners and customers leveraging the newly announced Azure Health Data Services. Azure Health Data Services, a platform as a service (PaaS) offering designed exclusively to support Protected Health Information (PHI) in the cloud, is a new way of",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/cloud-migration-for-medical-imaging-data-using-azure-health-data-services-and-ims/",
-      "originalUrl": "https://azure.microsoft.com/blog/cloud-migration-for-medical-imaging-data-using-azure-health-data-services-and-ims/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/787e5f5b-7eca-4ebb-9a78-ff529f3e28ce.png",
-          "width": 640,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T03:00:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai.md",
-      "title": "Trustworthy AI: How to ensure trust and ethics in AI",
-      "excerpt": "AI we can trust. Oftentimes discussions about ethics and trust in AI have a very narrow focus, limited to fairness and bias, which can be frustrating as a professional in the indu",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/",
-      "originalUrl": "https://venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-811140846-e1647972470657.jpg?fit=800%2C566&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/amp/",
-      "publishedDateTime": "2022-03-22T21:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-handheld-robot-uses-ai-to-help-first-responders-stem-bleeding.md",
-      "title": "Handheld robot uses AI to help first responders stem bleeding",
-      "excerpt": "Researchers at MIT's Lincoln Laboratory have developed a handheld robot that can help minimally trained responders to control severe internal bleeding in victims of traumatic injury, by helping them insert a needle and catheter into a major blood vessel.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/",
-      "originalUrl": "https://newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/450aa75/2147483647/strip/true/crop/900x600+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F66%2F91%2Fcc101cde4df58d8ff485eaec84a3%2Fai-guide.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/?amp=true",
-      "publishedDateTime": "2022-03-22T21:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles.md",
-      "title": "GTC 2022: NVIDIA flexes its GPU and platform muscles",
-      "excerpt": "NVIDIA's CEO Jensen Huang's 1 hour, 39-minute keynote covered a lot of ground but the unifying themes to the majority of the two dozen announcements were GPU-centered, and its platform approach to everything it builds.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/",
-      "originalUrl": "https://venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/nvidia.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/amp/",
-      "publishedDateTime": "2022-03-22T20:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-expedite-ivr-development-with-industry-grammars-on-amazon-lex.md",
-      "title": "Expedite IVR development with industry grammars on Amazon Lex",
-      "excerpt": "Amazon Lex is a service for building conversational interfaces into any application using voice and text. With Amazon Lex, you can easily build sophisticated, natural language, conversational bots (chatbots), virtual agents, and interactive voice response (IVR) systems. You can now use industry grammars",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-ivr-development-with-industry-grammars-on-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-ivr-development-with-industry-grammars-on-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T18:17:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-chinas-quest-for-greater-technological-self-reliance.md",
-      "title": "China’s Quest for Greater Technological Self-Reliance",
-      "excerpt": "But what is driving this pursuit of self-reliance, especially for China ... world of e-commerce by leapfrogging from cash to cashless payment systems. Alibaba, Baidu, and other PRC firms are also active in cutting-edge artificial intelligence research.",
-      "sourceUrl": null,
-      "webUrl": "https://asiasociety.org/australia/chinas-quest-greater-technological-self-reliance",
-      "originalUrl": "https://asiasociety.org/australia/chinas-quest-greater-technological-self-reliance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://asiasociety.org/sites/default/files/styles/1200w/public/2021-03/Bates%20Gill%20essay%20-%20Made%20in%20China%20chip%20-%20ROMSVETNIK-%20shutterstock.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia Society",
-        "domain": "asiasociety.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

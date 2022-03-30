@@ -29,22 +29,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "New Dating App to Prevent Catfishing With Facial Recognition"
-    excerpt: "A new dating app is using facial biometrics to make it more difficult for con artists to connect with victims on its platform"
-    publishedDateTime: 2022-03-25T20:32:00Z
-    webUrl: "https://mobileidworld.com/new-dating-app-prevent-catfishing-with-facial-recognition-032503/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/anonymous-beautiful-black-and-white-1651202.jpg"
-        width: 800
-        height: 552
-        isCached: true
-
 secured: "khHBPoBD0lnfsjeaoedD5/6T5TIY3zppxNJQ48n56xdcwn9eZCb906kGUKqxFdnVe0lrpnyuQOYD//NOdOnTjaJekU+WSM0KlZj+PVN60jx3lcX0Y+aEhvKEOZxKfFhBagXCoWC0hYX9eUEkdWAhxvvD4Vjeq/5vn2MpxLB4dpPn6kiJEBhhEgnFQxf11iQwfEIWTlVctq+KpeUXs5aHjDQ4ZN7Bz1t/C+636cNS3WjCGS2VQQ9nFtuz7MiktAR3Q+kxsQtJWKvIVioh35rniZQ1ohQmG+c0SsJu31uMOiq7V7QdDZOS6r3nPN6oa3utF3dfU9rUvgydTb7rUPQ3BO4iY3AkrHyKxfLxNHjU8g/13NIs34TRNy8aZ0X4X5wGvQA66/exsdn4FL3pKwf+0TpinEjb27P5nfT2s04o6wif1XPDnyEWHzeN2qy37FMZRlJgtLZWj9zyBLcp0XCs9M8+hsdm/e5uc8WLRoM86UoqZ/2AkeWIgxX8T4iOy48cetZ2XjjOF7TMy0ZhdAYSyQ==;XyeXK1XmqPO17J/sR0lGqA=="
 ---
 

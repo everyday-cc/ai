@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Will Smith would face little more than a slap if charged"
-excerpt: "Will Smith’s slap seen around the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap of his own — on the wrist."
-publishedDateTime: 2022-03-30T09:33:00Z
-originalUrl: "https://www.fbcnews.com.fj/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged/"
-webUrl: "https://www.fbcnews.com.fj/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged/"
+excerpt: "Will Smith’s slap seen ’round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap of his own — on the wrist."
+publishedDateTime: 2022-03-30T12:28:00Z
+originalUrl: "https://www.seattletimes.com/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged/"
+webUrl: "https://www.seattletimes.com/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged/"
+ampWebUrl: "https://www.seattletimes.com/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged/?amp=1"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: fbcnews
-  domain: fbcnews.com.fj
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.fbcnews.com.fj/wp-content/uploads/2022/03/w.sMITH_.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Could Will Smith face charges for slapping Chris Rock?"
@@ -40,6 +36,22 @@ related:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/FBDVONGKSNFSXN7YCAMWFVRJWM.jpg?_a=ATABld60"
         width: 700
         height: 467
+        isCached: true
+  - title: "Will Smith would face little more than a slap on the wrist if charged"
+    excerpt: "Will Smith’s slap seen ’round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap"
+    publishedDateTime: 2022-03-30T12:39:00Z
+    webUrl: "https://ktla.com/news/local-news/will-smith-would-face-little-more-than-a-slap-on-the-wrist-if-charged/"
+    ampWebUrl: "https://ktla.com/news/local-news/will-smith-would-face-little-more-than-a-slap-on-the-wrist-if-charged/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/will-smith-would-face-little-more-than-a-slap-on-the-wrist-if-charged/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 44
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/03/AP22087219214844.jpg?w=1280"
+        width: 1024
+        height: 683
         isCached: true
   - title: "WATCH: Will Smith apologises for attacking Chris Rock during Oscar acceptance speech"
     excerpt: "\"Love will make you do crazy things.\" In one of the most dramatic nights of television in years, Will Smith apologised for attacking Chris Rock while presenting an award at the 94th Academy Awards on Sunday (27 March)."
@@ -102,6 +114,6 @@ related:
         height: 532
         isCached: true
 
-secured: "PYBYSF+SPkRjOg0J/hW4q19WObpYksd+IRoFEAVOvrzPMxTYR5OtJmpqQvvYU98MCZe9IKoG0MUwttEE41rsX4a0/eQUuEeEQqwArlthw6i6aiceFSEi8b/u0C6saSwym9Vfa0NZW2mSb4wI3Q7Q4p8V9DnfwVtR5HD9uOf5PnRl7Q9pe+upIqWLPqM6ofiuvn/W0Pfo2TP/O9FiTLdVJjAUKCpALwFhmMtqOOv1pyFiiTeKE0Ez18UGy1w+y06mM5hJShLePi29bZutfh0mCioiQWGXao8q7UupiPo8KPv1AlJhLF7nvz5b8kZYgNcLd/k7qYCRsoHwfPMAVyLC8eKQL0WU10SkTyyKiW/DXZM=;p/IO8RlNXO9s2zhN/b6NgA=="
+secured: "2bafAEMUDaMdRT0lffwDu64RoFBDrmqBV3qwGCHmDrBmVp/vusSpAKV56dzKAclKSc5+YTZiA5EWMeycQdbdyt1v5+Q0/MiwjugPQxryEcgtG8gYspqyJfKhaCSurHORn1C+om+2s8EQUUtVKCeUdh6uSSeuJ0HJONwNd9BReMTTFO4nwZt6gUt/7APuitO+C1sSsgqCkAWjsON9B2e9Ip1R1EMFnTVMoJwiR7avRm4m/P5XTIn4NKJdXDVUNWEYeWvcyfzg0X2yCzpK5a5TFjaMklVmkRX5Bq/myNWQ3uzwXhB60NFu+YKywfzEXuwlyVJvuzmgiSpxvjqvFCJJUAZb0YllRMuEuAdiAKZUOhQXaAx2MbgYpa8q4LB0bjaA2gbxUMDlVCWOMmQbSVEWpLssNVkjmNFzyPBy6DQ/AL0afVS/HIYNCAk9vzgV7sKkj8C6SHOy0N+f6//XmDHHpkVsL4GiNjetFaBxl7MUD0iW8UtZfp2DKk/x07SVBMU8ULuFZ0tQWwfx2B9h5UXoaQ==;8fuB91FZvaxee2snxFN1eg=="
 ---
 

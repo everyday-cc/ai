@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/photography/nvidia-instant-nerf/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/photography/nvidia-instant-nerf/?amp=true"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://it-online.co.za/wp-content/uploads/2022/03/nvidia-3d.jpg"
         width: 1075
         height: 484
-        isCached: true
-  - title: "NVIDIA Instant NeRF tech converts 2D photos into 3D scenes in the 'blink of an AI'"
-    excerpt: "NVIDIA Research has unveiled its latest AI technology, Instant NeRF. It is faster than previous NeRF models and can turn a series of 2D images into a 3D scene in seconds."
-    publishedDateTime: 2022-03-25T20:21:00Z
-    webUrl: "https://www.dpreview.com/news/7507822053/nvidia-instant-nerf-tech-converts-2d-photos-into-3d-scenes-in-the-blink-of-an-ai"
-    type: article
-    provider:
-      name: Digital Photography Review
-      domain: dpreview.com
-    quality: 33
-    images:
-      - url: "https://3.img-dpreview.com/files/p/E~TS940x788~articles/7507822053/nvidia-research-instant-nerf-banner.jpeg"
-        width: 580
-        height: 435
         isCached: true
 
 secured: "KbyY2UufpUPC8/teF+mEgrMmxHVjXhKtK7MvG6/Fwi0IXgfxIGDGbYeVLsp7F1zm1+C9yoOKI7nTw+5XKRwFuqZkZn9xRkiCOZKgX2biT3jdhmLZcnGjOmLIxM/PULv+LbOc4pZlt3OiuCLB178sFFb8pwQD2le6RssSIptKG4yiNzihOXEWQz/xY1vzKAPD+p8kogdjuWpubx/Xp4+z7WsWpg1ULhurHf7tM12YbRK9HFz1IwSAt034ubhViHXw/76/KlsiYEFsgrnD5XmWhHdIbtemAI8/7V2QqsbwlH9dSkIA+RjWtCd53q9oBPdjQRPDU7dit86+4Em1lAjGL7MKhHV+Hp4f7jFtR2tDBaM=;i/LAHrmS5WvP8vsI+7i8ug=="

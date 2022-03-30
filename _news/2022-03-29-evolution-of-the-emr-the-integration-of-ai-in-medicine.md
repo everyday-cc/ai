@@ -38,20 +38,6 @@ related:
         width: 251
         height: 282
         isCached: true
-  - title: "Breaking into the black box of artificial intelligence"
-    excerpt: "In February 2020, with COVID-19 spreading rapidly around the globe and antigen tests hard to come by, some physicians turned to artificial intelligence (AI) to try to diagnose cases 1. Some researchers tasked deep neural networks — complex systems that are adept at finding subtle patterns in images — with looking at X-rays and chest computed tomography (CT) scans to quickly distinguish between people with COVID-based pneumonia and those without 2."
-    publishedDateTime: 2022-03-29T14:28:00Z
-    webUrl: "https://www.nature.com/articles/d41586-022-00858-1?hss_channel=tw-292547396"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-00858-1/d41586-022-00858-1_20249634.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AI System Helps Spot Signs of Heart Transplant Rejection"
     excerpt: "The Cardiac Rejection Assessment Neural Estimator (CRANE) could help clinicians more accurately diagnose rejection and estimate its severity in endomyocardial biopsies."
     publishedDateTime: 2022-03-29T19:53:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-val
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-value-to-unstructured-data/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 800
     height: 533
     isCached: true
+
+related:
+  - title: "Moving from Unstructured to Structured Data Helps Providers Address Workforce Management Challenges"
+    excerpt: "Natural language processing and artificial intelligence automation can be useful tools to boost clinical efficiency by extracting information from unstructured and locked-down sources."
+    publishedDateTime: 2022-03-29T12:59:00Z
+    webUrl: "https://healthitanalytics.com/news/moving-from-unstructured-to-structured-data-helps-providers-address-workforce-management-challenges"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/moving-from-unstructured-to-structured-data-helps-providers-address-workforce-management-challenges"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/moving-from-unstructured-to-structured-data-helps-providers-address-workforce-management-challenges"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 30
+    images:
+      - url: "https://healthitanalytics.com/images/sized/2022-03-25-GettyImages-1295784523-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
+        isCached: true
 
 secured: "9VM0s3QGWX8Hbggg83T53YituzYHOPRbNOsJ5/MSq78K5u68ciLcTdd/SwbE4eQirly94bbKpiG6T4PtIWYSWik59j+RYjNmWCuMys/bWYHvO0YPrJWZitQRWC2mYhaSe9LocQ4vn1WkOyOrbWH3ErskEt3vVrzqYV9lxlKKI8AnYcgm20dexDXaF8cvHBCH+7w8mpRFX8C9fsSXOrwbuP7jxG7SEnciSaZrWi5p36lYWijoF9YzL6fcRxoNIK3N2T0tQAZJ+/oq1ek4f9sJf/7DHY48JWT9dm+P/xjKKve02KBIFA/V2KO1i1vx9hU+vNuCR0llgE8nCMZJsiGZ4tDSyq4KVl6BTNamq7kwf/ECeqaV8lkwzhmXnWB7wTE/1Idj1E5VYncRcL3pOdgrMQticim36sPu8WSal52Q30hHxmaNgVClkP+QBNIog2XmY93Y9Eopp6/W4D3DfSOYRnTeMt0+YIj5MRlcnjkHaPOwo3ufR3sfXRzseHoXZWV8j+5pzLAwDuUiYHiEwMR9kA==;+knm21qlcVYTEob1ffN6TA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2022/03/29/resolving-arti
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/03/29/resolving-artificial-intelligences-trust-problem/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Scarcity Of AI Talent: A Problem Of Our Own Making Is A Problem We Can Solve"
+    excerpt: "The scarcity of AI talent is not an inevitable state of nature — it’s just easy to tell ourselves the story that it is, even as our own actions perpetuate the problem. The good news is that the problems we create,"
+    publishedDateTime: 2022-03-30T13:05:00Z
+    webUrl: "https://www.forbes.com/sites/judithspitz/2022/03/30/the-scarcity-of-ai-talent-a-problem-of-our-own-making-is-a-problem-we-can-solve/"
+    ampWebUrl: "https://www.forbes.com/sites/judithspitz/2022/03/30/the-scarcity-of-ai-talent-a-problem-of-our-own-making-is-a-problem-we-can-solve/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/judithspitz/2022/03/30/the-scarcity-of-ai-talent-a-problem-of-our-own-making-is-a-problem-we-can-solve/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/622772ce83369a21d3beb604/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Study shows AI as a promising tool for breast cancer screening programs"
     excerpt: "A major new study in Radiology shows that artificial intelligence (AI) is a promising tool for breast cancer detection in screening mammography programs."
     publishedDateTime: 2022-03-30T06:33:00Z

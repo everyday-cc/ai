@@ -85,26 +85,6 @@ related:
         width: 720
         height: 469
         isCached: true
-  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
-    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
-    publishedDateTime: 2022-03-29T10:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
-  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
-    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
-    publishedDateTime: 2022-03-30T01:50:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 21
   - title: "Middle East’s largest AI-based digital health platform raises $44 million in Series B funding"
     excerpt: "The new funds will be used to expand Altibbi’s offering into online pharmacy and diagnostics collection to establish the regions first end-to-end fully integrated digital health primary care offering,"
     publishedDateTime: 2022-03-28T09:10:00Z

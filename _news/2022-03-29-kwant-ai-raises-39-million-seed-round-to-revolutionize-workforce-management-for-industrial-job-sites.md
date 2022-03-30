@@ -22,79 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding"
-    excerpt: "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding. | Crowdfund Insider: Global Fintech News, including Crowdfunding,"
-    publishedDateTime: 2022-03-29T13:21:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/amp/"
+  - title: "Get Ready For The Industrial Intelligence Revolution"
+    excerpt: "Industry 4.0 is bringing disruptive changes, converting industrial spaces to smart, connected and intelligent environments. Manufacturing has been irreversibly changed."
+    publishedDateTime: 2022-03-30T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 53
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/03/Effectiv-AI-Founders-Team.jpeg"
-        width: 1766
-        height: 1325
-        isCached: true
-  - title: "Kenyan Fintech Churpy Attracts $1M Seed Round Led By Unicorn Growth Capital"
-    excerpt: "Kenyan Fintech Churpy Attracts $1M Seed Round Led By Unicorn Growth Capital. | Crowdfund Insider: Global Fintech News, including Crowdfunding, Blockchain and"
-    publishedDateTime: 2022-03-30T02:26:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/03/189072-kenyan-fintech-churpy-attracts-1m-seed-round-led-by-unicorn-growth-capital/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/03/189072-kenyan-fintech-churpy-attracts-1m-seed-round-led-by-unicorn-growth-capital/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/189072-kenyan-fintech-churpy-attracts-1m-seed-round-led-by-unicorn-growth-capital/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 42
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/01/Unicorn.jpg"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "Swiss spend management fintech Yokoy raises $80m"
-    excerpt: "To date, Yokoy has raised more than $107m and it says the new funding will be used to fuel international expansion, product developing and expanding headcount."
-    publishedDateTime: 2022-03-29T10:14:00Z
-    webUrl: "https://www.altfi.com/article/9029_swiss-spend-management-platform-yokoy-raises-80m"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 39
-    images:
-      - url: "https://www.altfi.com/images/featured/swiss-spend-management-platform-yokoy-raises-80m.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/612cfe722afc9777411adcb0/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 720
-        isCached: true
-  - title: "Fintech Effectiv raises $4m from Accel for fraud and risk management platform"
-    excerpt: "Fintech startup Effectiv has today announced a $4 million seed funding round, led by Accel with participation from REV (funded by RELX) and other industry leaders. Effectiv offers a next-generation, no-code risk management platform for mid-sized banks,"
-    publishedDateTime: 2022-03-29T14:20:00Z
-    webUrl: "https://apnews.com/press-release/NewsDirectCorporation/technology-business-c58d1ac5538864eda77b591d265ab961"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Fintech Effectiv raises $4m from Accel for fraud and risk management platform"
-    excerpt: "Fintech startup Effectiv has today announced a $4 million seed funding round, led by Accel with participation from REV (funded by RELX) and other industry leaders. Effectiv offers a next-generation, no-code risk management platform for mid-sized banks,"
-    publishedDateTime: 2022-03-29T17:53:00Z
-    webUrl: "https://menafn.com/1103933031/Fintech-Effectiv-raises-4m-from-Accel-for-fraud-and-risk-management-platform"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 36
-    images:
-      - url: "https://menafn.com/updates/pr/2022-03/29/ND_aecb4image_story.png"
-        width: 720
-        height: 469
+        height: 800
         isCached: true
   - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
     excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
@@ -107,15 +49,20 @@ related:
       name: finanzen
       domain: finanzen.at
     quality: 21
-  - title: "Middle East’s largest AI-based digital health platform raises $44 million in Series B funding"
-    excerpt: "The new funds will be used to expand Altibbi’s offering into online pharmacy and diagnostics collection to establish the regions first end-to-end fully integrated digital health primary care offering,"
-    publishedDateTime: 2022-03-28T09:10:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/healthcare/middle-easts-largest-ai-based-digital-health-platform-raises-44-million-in-series-b-funding"
+  - title: "Outreach Named a Leader in Revenue Operations and Intelligence By Independent Research Firm"
+    excerpt: "As a result, revenue leaders are dealing with a widening sales execution gap,\" said Manny Medina, co-founder and CEO of Outreach. \"We realized we could play a valuable role by helping revenue organizations close that gap."
+    publishedDateTime: 2022-03-28T15:24:00Z
+    webUrl: "https://www.khon2.com/business/press-releases/cision/20220328SF05526/outreach-named-a-leader-in-revenue-operations-and-intelligence-by-independent-research-firm/"
     type: article
     provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 6
+      name: KHON2
+      domain: khon2.com
+    quality: 12
+    images:
+      - url: "https://i0.wp.com/www.khon2.com/wp-content/uploads/sites/8/2022/03/Locations-Open-House-3.27.22_Photo.jpg?w=2000&#038;ssl=1"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "CEUWrbF6G4ehKWAq0kYs4BstuYwKF/e+tKDM1eAlMmOXV46ZGILh6N2/C32zCNs5r3rR1fADhsfZqD9r40L3b36WSzQwQcSIrD8B0GlOnUOJ9kXAmQuoQwSzUWXoJx2lZwyLgJmeb6gxA0xHcyQNOrR7SSU7lWztSqR2N+q7VYurJPb9CsOIrTrfu4y+hD5zKGMd/ZJ58BXL5/6CbDlaH5JW5T5Brh0jC5H3a2tMU5QKc9GVsnu4oFNMirQeKkfN2uvnq2iqe9T84uoA8pW99NOiTFzAm5wjqd44Agm2dxg8SPXr06MKBkyjePQKaFJhVE/HJh9aRxKX+SdOWT53iES3Cd+wtxoSqY3M/+FBvlg=;VqHbxxWWP4jLqyJlVmeG2A=="
 ---

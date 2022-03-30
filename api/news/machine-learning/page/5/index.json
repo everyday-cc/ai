@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-02-21-researchers-use-magnetic-systems-to-artificially-reproduce-the-learning-and-forgetting-functions-of-the-brain.md",
+      "title": "Researchers use magnetic systems to artificially reproduce the learning and forgetting functions of the brain",
+      "excerpt": "Neuromorphic computing, a new brain-inspired computation paradigm, reproduces the activity of biological synapses by using artificial neural networks. Such devices work as a system of switches ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-02-magnetic-artificially-functions-brain.html",
+      "originalUrl": "https://phys.org/news/2022-02-magnetic-artificially-functions-brain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/researchers-reproduce.jpg",
+          "width": 1410,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-02-magnetic-artificially-functions-brain.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-magnetic-artificially-functions-brain.amp",
+      "publishedDateTime": "2022-02-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-19-ais-true-purpose-is-freeing-up-humans-to-find-the-biggest-problems.md",
       "title": "AI’s true purpose is freeing up humans to find the biggest problems",
       "excerpt": "We start with a reasonable intuition (abduction ... Take chess and go, two board games that have received much attention from the AI community in the past decades. Chess was once called the ...",
@@ -1399,49 +1442,6 @@
         "Facebook AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-expert-believes-machine-learning-can-improve-after-failing-during-covid.md",
-      "title": "Expert believes machine learning can improve after failing during Covid",
-      "excerpt": "Machine learning and artificial intelligence (AI) systems have long been touted as the future of medicine. A patient can walk into a doctors office, and after a quick scan discover their risk for a variety of diseases, and be given information on how to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/health/article-10494799/Expert-believes-machine-learning-improve-failing-Covid.html",
-      "originalUrl": "https://www.dailymail.co.uk/health/article-10494799/Expert-believes-machine-learning-improve-failing-Covid.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/02/09/20/53985879-0-image-a-59_1644439690246.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/health/article-10494799/amp/Expert-believes-machine-learning-improve-failing-Covid.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/health/article-10494799/amp/Expert-believes-machine-learning-improve-failing-Covid.html",
-      "publishedDateTime": "2022-02-09T13:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-10-expert-believes-machine-learning-can-improve-after-failing-during-covid.md",
+      "title": "Expert believes machine learning can improve after failing during Covid",
+      "excerpt": "Machine learning and artificial intelligence (AI) systems have long been touted as the future of medicine. A patient can walk into a doctors office, and after a quick scan discover their risk for a variety of diseases, and be given information on how to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/health/article-10494799/Expert-believes-machine-learning-improve-failing-Covid.html",
+      "originalUrl": "https://www.dailymail.co.uk/health/article-10494799/Expert-believes-machine-learning-improve-failing-Covid.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/02/09/20/53985879-0-image-a-59_1644439690246.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/health/article-10494799/amp/Expert-believes-machine-learning-improve-failing-Covid.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/health/article-10494799/amp/Expert-believes-machine-learning-improve-failing-Covid.html",
+      "publishedDateTime": "2022-02-09T13:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms.md",
       "title": "Palo Alto Networks Adds Deep Learning Algorithms to Security Platforms",
       "excerpt": "Code-named Nebula, version 10.2 of PAN-OS added deep learning algorithms that Palo Alto Networks can apply to, for example, instantly identifying zero-day threats or malware that is using specific techniques to evade legacy cybersecurity platforms.",
@@ -1351,40 +1394,6 @@
       "provider": {
         "name": "ITWeb",
         "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-chop-researchers-use-deep-learning-to-find-genetic-causes-of-mental-health-disorders-in-frequently-understudied-african-american-population.md",
-      "title": "CHOP researchers use deep learning to find genetic causes of mental health disorders in frequently understudied African American population",
-      "excerpt": "A new study from researchers at Children’s Hospital of Philadelphia (CHOP) shows that a deep learning model has promising accuracy when helping to diagnose a variety of common mental health ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/942008",
-      "originalUrl": "https://www.eurekalert.org/news-releases/942008",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T08:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

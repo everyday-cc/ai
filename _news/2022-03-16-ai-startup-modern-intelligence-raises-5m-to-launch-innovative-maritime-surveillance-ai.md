@@ -1,29 +1,25 @@
 ---
 category: news
 title: "AI Startup Modern Intelligence Raises $5M to Launch Innovative Maritime Surveillance AI"
-excerpt: "Cutlass offers new standard in defense, unmatched accuracy and resilience; deployment on existing military platformAUSTIN, Texas, March 16, 2022"
-publishedDateTime: 2022-03-16T13:50:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-startup-modern-intelligence-raises-5m-to-launch-innovative-maritime-surveillance-ai-1031285168"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-startup-modern-intelligence-raises-5m-to-launch-innovative-maritime-surveillance-ai-1031285168"
+excerpt: "AI startup Modern Intelligence has secured a $5 million seed round, the company announced today. Led by Bedrock founder and managing partner Geoff Lewis, with participation of Vine Ventures, Air Street Capital,"
+publishedDateTime: 2022-03-16T14:03:00Z
+originalUrl: "https://fox2now.com/business/press-releases/cision/20220316DA93531/ai-startup-modern-intelligence-raises-5m-to-launch-innovative-maritime-surveillance-ai/"
+webUrl: "https://fox2now.com/business/press-releases/cision/20220316DA93531/ai-startup-modern-intelligence-raises-5m-to-launch-innovative-maritime-surveillance-ai/"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Fox2Now St. Louis
+  domain: fox2now.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1767450/Modern_Intelligence_Team.jpg"
+  - url: "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2022/03/400x225-Kenny-Chesney.jpg?w=2000&#038;ssl=1"
     width: 400
-    height: 267
+    height: 225
     isCached: true
 
-secured: "0xvwQP3JNITPfhDZTB9NiFxW/7cGJfxBpJhVLOvotzUvmL46Yvms0n1iFoo870eCDPWa/aUDqcQMJhgcjP6TqTXNg+9Abng8vLKOPTiPMLFBb58ZpfuaH9ZdGEjyvXDPKVLidBhsLB+3FP0NgGHGl1vYc7m/ReEVf+myzgGKCnSr4/tziu64HDru3LawI7Nrqgmb6/5MWRNJ68nkCFGEWCYol/hrMxjsoZP66DDGSQ2i05fuF6VqaH5eIl1qihNiuXHZmfrzCxTCL8bGE77kzSlIC/kHVeuQumBJr0CWBdE1WdJMZI6cPqzkZhDRztzuucB5x0aq0ieaL6nv7+HVyHrf1QVD5Wvtp8SKaFH7FzRNXiP5lEdRTOoVbqc4vNnCDtwZ/xbuqAJZqbyX5KWhqxIYogJuAixNbdyEmsYUVgOdbqEoweUf+OJ+gUqRO56ydc3lNIYB5gT5gXDdUnX5gko+LdxL4/ru6kWkoVND4iFbyIgXe3pttqRRGtji6/r/H6E4gZrjk/SY2u9B0rRCTQ==;1P95q39SV/J0O/zNuCQ2Qg=="
+secured: "1ICao5J+1xCg8242VJil/v6Q+gQysMdJ6zHEH1g2t8ANyDF7hi/q7TKMqT4B84Qi+bHh6/GkowFG2hf3yrAgH9E6yPGvMpemtuFW8hVXDiGJHEPZW+U4uCve0gA8FDb3m2uIkCge1gpdc4cq5LTEK+SZ7d1V46svvVcxduLogQgj5e87m3xbDwodvIKiGPqOBTyvZfZMGXlmiEyXppuwbRaLG0//BPdmMQCx7+E9z5+EkkoYfGCyHW9gQTXQRqrSFz7y2AcyEwclBTkvoPbB9Ddx1wBI3dRRA2a6H52gCHJ+3ddiqWWj+7PF/MaouNWOlUtPBIYdpkDDgwy7gqelFsdgvLKIIJhZcEp9j1UU2Aw=;6PihW+MN0g5ZCILoJYihXw=="
 ---
 

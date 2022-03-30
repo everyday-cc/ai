@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-30-lotus-eletre-suv-revealed-with-hidden-self-driving-tech-tesla-doesnt-use.md",
+      "title": "Lotus Eletre SUV revealed with hidden self-driving tech Tesla doesn't use",
+      "excerpt": "The Eletre is slightly longer than a Ford Explorer, but only has two rows of seats. It’s equipped with a 600 hp all-wheel-drive system that Lotus says will be able to accelerate",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-tech-tesla",
+      "originalUrl": "https://www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-tech-tesla",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/03/720/405/lotus-5.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-tech-tesla.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-tech-tesla.amp",
+      "publishedDateTime": "2022-03-30T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-video-teslas-new-full-self-driving-technology-still-a-work-in-progress.md",
       "title": "VIDEO: Tesla's new \"full-self driving\" technology still a work in progress",
       "excerpt": "Don't let the phrase \"full-self driving\" fool you. It's going to be a while before drivers can let their Tesla do all the",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1357,49 +1409,6 @@
       "provider": {
         "name": "theregister",
         "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-self-driving-lab-speeds-up-research-synthesis-of-energy-materials.md",
-      "title": "'Self-driving' lab speeds up research, synthesis of energy materials",
-      "excerpt": "Researchers from North Carolina State University and the University at Buffalo have developed and demonstrated a \"self-driving lab\" that uses artificial intelligence (AI) and fluidic systems to advance our understanding of metal halide perovskite (MHP) nanocrystals.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-03-self-driving-lab-synthesis-energy-materials.html",
-      "originalUrl": "https://phys.org/news/2022-03-self-driving-lab-synthesis-energy-materials.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/self-driving-lab-speed.jpg",
-          "width": 1776,
-          "height": 1775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-03-self-driving-lab-synthesis-energy-materials.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-03-self-driving-lab-synthesis-energy-materials.amp",
-      "publishedDateTime": "2022-03-16T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/WnpNgM2KDm2qVrGd"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/WnpNgM2KDm2qVrGd"
 type: article
 quality: 7
-heat: 7
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "3 African institutions partner to use artificial intelligence to tackle climate change"
+    excerpt: "The West African Science Services Centre on Climate Change and Adapted Land Use (WASCAL) in partnership two other institutions, RUFORUM, an organisation made up of African universities working to promote agricultural development and"
+    publishedDateTime: 2022-03-30T12:09:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/pressreleases/3-African-institutions-partner-to-use-artificial-intelligence-to-tackle-climate-change-1503218"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 29
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/581/58150522.jpg"
+        width: 600
+        height: 225
+        isCached: true
 
 secured: "zDa3aizNPNPQexOac3J+ZNyMBkCssDCiN8Y7r/qmwGYfpioiFkcjKZruX1X4v4Q0FkP47mT/hcPemi6LsL+ZQQQAXzhv5TgUHzykW+76T53uQCuj20P1oLAzmggRAHwMCXomE571LRNM+ZUH7WiQIEQvJupvFSXzbiXttwyqwLnKR48JxnC4INqFge6LzowOgABHxMOMWpGUVL3FTx31mfrEBVTuzME3eMek/YEbBsbGCV4Nr6wnPNW1pnwJcHM0A6VG7BqgQT3YIJQb1Ok6DsEzOW2ndeEgQeCQRbyy12fdSNhBYbWqQ1r4Xc4ar+yt5JcFRnK0g3JDo3gV28yGVOcZns/X95viUclt75mTumlYeU/XXM4yxiQYyiE/KOuGWMxzrryy66tl3fKi4LJ76ReMSIYNL8Au1NN0YgBFF0H2lJhjtL9GIygalqIdXsnXxkg8XLl7DAT8OGuij1cOdJahTJJXeLd8RBR6tYmlMJwaRhSvJiVFv6jGLa0oPiZj1D1nNDTzL5EQ6u0zyNsf8Q==;vJwiCvb5/gLn6Ja223W8Bg=="
 ---

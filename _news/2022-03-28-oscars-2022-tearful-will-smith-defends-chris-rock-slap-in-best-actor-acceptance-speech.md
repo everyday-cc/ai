@@ -43,6 +43,22 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Will Smith would face little more than a slap on the wrist if charged"
+    excerpt: "Will Smith’s slap seen ’round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap"
+    publishedDateTime: 2022-03-30T12:39:00Z
+    webUrl: "https://ktla.com/news/local-news/will-smith-would-face-little-more-than-a-slap-on-the-wrist-if-charged/"
+    ampWebUrl: "https://ktla.com/news/local-news/will-smith-would-face-little-more-than-a-slap-on-the-wrist-if-charged/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/will-smith-would-face-little-more-than-a-slap-on-the-wrist-if-charged/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 44
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/03/AP22087219214844.jpg?w=1280"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "WATCH: Will Smith apologises for attacking Chris Rock during Oscar acceptance speech"
     excerpt: "\"Love will make you do crazy things.\" In one of the most dramatic nights of television in years, Will Smith apologised for attacking Chris Rock while presenting an award at the 94th Academy Awards on Sunday (27 March)."
     publishedDateTime: 2022-03-28T09:12:00Z
@@ -74,19 +90,16 @@ related:
         height: 1000
         isCached: true
   - title: "Will Smith would face little more than a slap if charged"
-    excerpt: "Will Smith’s slap seen around the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap of his own — on the wrist."
-    publishedDateTime: 2022-03-30T09:33:00Z
-    webUrl: "https://www.fbcnews.com.fj/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged/"
+    excerpt: "Will Smith’s slap seen ’round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap of his own — on the wrist."
+    publishedDateTime: 2022-03-30T12:28:00Z
+    webUrl: "https://www.seattletimes.com/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged/"
+    ampWebUrl: "https://www.seattletimes.com/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged/?amp=1"
     type: article
     provider:
-      name: fbcnews
-      domain: fbcnews.com.fj
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 24
-    images:
-      - url: "https://www.fbcnews.com.fj/wp-content/uploads/2022/03/w.sMITH_.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Will Smith will not face charges after hitting Chris Rock at Oscars, LA Police say"
     excerpt: "Chris Rock made a joke about wife Jada Pinkett Smith, just minutes before Will Smith was named best actor at the ceremony."
     publishedDateTime: 2022-03-28T09:58:00Z
