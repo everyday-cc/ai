@@ -84,6 +84,20 @@ related:
         width: 696
         height: 436
         isCached: true
+  - title: "Healthtech AI startup Qure.ai secures $40 mn"
+    excerpt: "Healthtech AI startup Qure.ai secures $40 mn - Healthtech AI platform Qure.ai (Qure) on Tuesday announced it has secured $40 million in a funding round led"
+    publishedDateTime: 2022-03-30T03:44:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/healthtech-ai-startup-qureai-secures-40-mn-nid-218474-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 37
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/3DGw905H.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "/kHuz4cVq/r6CIBkza7tXmfpMwiVLNcKqowIMy3/kXDs73hzlfgi/Xh/ntIMTvi8wB6tqndfswbqhlUgyOj6NfPkkJC6/Ci3uBMvKkFxhkaAW+OoZgfgSC8ieSu99JKq1ES+zEsdyM1ZkxFlVpxDDJTkYJjTIByt+2ykh2RFcEX/UpUqIU9nKRClft/7mSC9Mccb9hwrlPiTwQhaDmLYCV9ohKZJh41N0F5VOgO5J7mPHJDlNNby1P90El3FrpaiFvwwqsvHmOUQRhNc3lOAoGRHTKJqaM+OJjwEKS5j0fHKvaeYCvUlM3ujC7dYhkuTzBJRhK/Haf0fCjq8aspdADx9Ipn+x7U2PQs3NYNdN9e8ieLUV/I4uNO9UihlU6wpKdwONL7YcNiAF3zQl/AKvpJEnBaqOvcw/0xjnTSbJiH7a3H8M83rjFtHzvUw4t//SZcDpY23euJGKFHHAxzwuqOIauUuVG9Hqo5tUts/eiSKcQpeygCYAzod4Hiyf1vAlcIc0TJt+8yvAqzd0powsw==;Whsis+eyUkM7V0nyhIQnKg=="
 ---

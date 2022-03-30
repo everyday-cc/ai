@@ -59,20 +59,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia RTX A4500 workstation GPU review"
-    excerpt: "In our GPU rendering tests, as the role of the CPU is minimal ... 3rd Gen Nvidia Tensor cores for AI and Machine Learning. 2nd Gen Nvidia RT cores which are dedicated to ray tracing. Different applications support these cores in different ways."
-    publishedDateTime: 2022-03-25T10:19:00Z
-    webUrl: "https://aecmag.com/workstations/nvidia-rtx-a4500-workstation-gpu-review/"
-    type: article
-    provider:
-      name: AEC Magazine
-      domain: aecmag.com
-    quality: 39
-    images:
-      - url: "https://aecmag.com/wp-content/uploads/2022/03/Nvidia-RTX-A4500-review.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "NVIDIA Launches GeForce RTX 3090 Ti GPU"
     excerpt: "NVIDIA launched the GeForce RTX 3090 Ti GPU, powered by Ampere—NVIDIA’s ... those building research systems for data science and AI, or processing large data sets, and those making massive ..."
     publishedDateTime: 2022-03-29T13:01:00Z

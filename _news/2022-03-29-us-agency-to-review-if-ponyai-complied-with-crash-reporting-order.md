@@ -1,25 +1,27 @@
 ---
 category: news
-title: "U.S. Agency to Review if Pony.ai Complied With Crash Reporting Order"
+title: "U.S. Agency To Review If Pony.ai Complied With Crash Reporting Order"
 excerpt: "The National Highway Traffic Safety Administration (NHTSA) on Tuesday said it will review whether startup technology firm Pony.ai complied with government reporting requirements for driverless crashes."
 publishedDateTime: 2022-03-29T15:23:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2022-03-29/u-s-agency-to-review-if-pony-ai-complied-with-crash-reporting-order"
-webUrl: "https://money.usnews.com/investing/news/articles/2022-03-29/u-s-agency-to-review-if-pony-ai-complied-with-crash-reporting-order"
+originalUrl: "https://www.ibtimes.com/us-agency-review-if-ponyai-complied-crash-reporting-order-3454652"
+webUrl: "https://www.ibtimes.com/us-agency-review-if-ponyai-complied-crash-reporting-order-3454652"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI
+
+images:
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/sm/public/2022/03/29/ukraine-says-russia-is-still-trying-to-break.jpg"
+    width: 385
+    height: 257
+    isCached: true
 
 related:
   - title: "NHTSA plans to review if Pony.ai complied with crash reporting order"
@@ -37,6 +39,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ytvtbswv5y17Aiv7+n2wYmJJlndVtsBRClu9P69ZTKI6nFnE/9+z7JHsKhk2FYqgIREdIdyU4ji467hCSxyNgoYwI48nh0p2gVq8BikxX3gr+mTUHfGIxYwW8wF4ctTt3x8SYfYJw1/eFAbG14oIlDQgL+X5u2ibe6V+BSqf5uf2OvZ5dwYoGR37qnZ1gHAkaBsl5xmz8SlXawZXbBGwMTdeprghPw+VXmffe63qeJ8p2wSOs7U9cxzWUUlv2ERdMp6356JLwgSQf+peiXfAa7F7rHNgN6xAKS9QSV6QidnS8zH1Dbv+gM8mUjTl7KOm4Ngkk9RTLrbLmy0xu8gEiMtsMqj93Ue19lr9suAm9tAbrCmnPo6lwK5I2VfDfIEW06/gUk8lMDsCtzvQxgayrOBHczDCVjkq50NsmcrPyb7BxJJlhEVsWoLGrNsnSTaE1UBZ3VZ0470GsSeYuzJddMwjX3L3z+OnNOH9tqXsbXBS8B8Yl0vtexK0ZYKkTN5YWKx5JJUfVeAN4B5A/7LtbA==;sb9CHLZQDxF1k4INRiE+tw=="
+secured: "8inJb6/WVU1wemIAwr/y35+WeWJU2lcqrXXYlKwMqJK5tK9Mh1XM3GsSCi0O9nU8vp5tcWKXvYObtgXbi5dEcj8MJv/cu7cNQPQZF6XPIJJ4zcwzUSmAygBSpdTT4Ex8eW2KdYOcLU8lcUo98XT1JTkdYYZ8LbSR7UkVOqcykAhUCicAVbeHKskt3WrKGR4gLjgHrduRziX5Z6Pp0f0rxgYcD7+uABZSfh52OCH85KE4undzySVuRjqKOhg4TwM+My2ub+u5KGaETrOG/UvBYIBYDvrZGoEL14csfpO56TO/pDDyCDTNOsKa4BmVo8ItuoJN3/eQYPBumsYcCr8zrwCUlnIpm5YXbKG77AopYbo=;5GOo2MTfKZV7u1sceQEjAg=="
 ---
 

@@ -191,6 +191,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-30-training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence.md",
+      "title": "Training to medical students on latest medical Technologies like artificial intelligence",
+      "excerpt": "Department of Health Research / Indian Council of Medical Research has recently launched a Policy on Biomedical Innovation & Entrepreneurship for Medical Professionals, Scientists and Technologists at Medical,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence/",
+      "originalUrl": "https://indiaeducationdiary.in/training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence/",
+      "publishedDateTime": "2022-03-29T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-heatwave-ml-real-time-intelligence-comes-to-mysql.md",
       "title": "HeatWave ML: Real-Time Intelligence Comes To MySQL",
       "excerpt": "Senior Analyst, Matt Kimball, covers Oracle's new MySQL Heatwave which enables organizations to run OLTP and analytics from a single database, eliminating extract, transform, load (ETL) functions or the need to maintain multiple databases.",
@@ -511,7 +554,7 @@
       "originalUrl": "https://inc42.com/buzz/healthtech-startup-qure-ai-bags-40-mn-funding-to-disrupt-radiology-status-quo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1093,8 +1136,8 @@
       "title": "D-Link M15 Eagle Pro AI AX1500 review: How going a bit dumb can be very smart",
       "excerpt": "With so many things in computing these days, it's all about smart features. And these are great when they work, but what happens when they don't? In that case, you're stuck hoping the machine will fix it.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/",
-      "originalUrl": "https://www.zdnet.com/article/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/",
+      "webUrl": "https://www.zdnet.com/home-and-office/smart-office/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/",
+      "originalUrl": "https://www.zdnet.com/home-and-office/smart-office/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
@@ -1111,8 +1154,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/home-and-office/smart-office/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/smart-office/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/",
       "publishedDateTime": "2022-03-28T21:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1137,59 +1180,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-artificial-intelligence-beats-eight-world-champions-at-bridge.md",
-      "title": "Artificial intelligence beats eight world champions at bridge",
-      "excerpt": "Victory marks milestone for AI as bridge requires more human skills than other strategy games",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge",
-      "originalUrl": "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d8c69d04629d9134fa97a4e9bd21e535e527d028/0_38_2401_1441/master/2401.jpg?width=620&quality=85&auto=format&fit=max&s=96b559e5e97e6b4eb1d1e90d48241536",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge",
-      "publishedDateTime": "2022-03-28T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     },
     {

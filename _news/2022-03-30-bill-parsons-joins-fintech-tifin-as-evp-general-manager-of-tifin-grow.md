@@ -2,32 +2,24 @@
 category: news
 title: "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow"
 excerpt: "Former Envestnet/Yodlee executive will lead the recently announced platform that combines risk, planning and financial personality to help wealth"
-publishedDateTime: 2022-03-29T19:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow-1031316438"
-webUrl: "https://markets.businessinsider.com/news/stocks/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow-1031316438"
+publishedDateTime: 2022-03-30T02:23:00Z
+originalUrl: "https://www.finanzen.at/nachrichten/aktien/bill-parsons-joins-fintech-tifin-as-evp-&-general-manager-of-tifin-grow-1031316438"
+webUrl: "https://www.finanzen.at/nachrichten/aktien/bill-parsons-joins-fintech-tifin-as-evp-&-general-manager-of-tifin-grow-1031316438"
+ampWebUrl: "https://www.finanzen.at/nachrichten/amp/bill-parsons-joins-fintech-tifin-as-evp-&-general-manager-of-tifin-grow-1031316438"
+cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/bill-parsons-joins-fintech-tifin-as-evp-&-general-manager-of-tifin-grow-1031316438"
 type: article
-quality: 54
-heat: 54
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: finanzen
+  domain: finanzen.at
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg"
-    width: 400
-    height: 400
-    isCached: true
-
-secured: "nnGFD65hR5zYD0Oo4oRNEU0kZL+Kr6mQGa1rzvkl1lfPB79izfVjBcRn9zjFusDCsQ141JF+/54dSmHZjLMqU9tB75Lv+sLH8Xzwb68pdSorjwIJzptp1GSfKC48hiznSG5QwQR2PPU3HZQvxgfhMBNrz4Jo1M8XT734pLvxFWMuQ9bmGYMu/eUxA1Bk9zeMNYFjwwytA95YAcPGKaFQL4RVUSAJKaLhsHJnVYJ+cVpO6cczB5ur6shGDBsmNI9/fcAJfOXdn4NmMY4cuwJSpl1hxqNREpkpN97pD5NwL59awP/G66KvONfZSdSlbj48jb+TlqhztAPAKcMLpuPMRnThTOOgNd8KSLNQXoJtydc=;i0NBb05AfrMNAwaNz0EgHg=="
+secured: "xMchJVFyS2Wm7hXrkGB3PrRpYVJr3Q3ZnvEAbc+mMtU+VG5ONzu6MxTFqVtX6JqN17AzobiOyGW8uwWQSEzH2gRCIKfYocg8pAMdWz8lCRI1cZ9xObp6vOV5ezg9LUHORV7jLMnt/vrS0MEBvJ2P7LFdd+W863DVj/fS5pu8AW2Et7hGF74Zshgxh3wVTuXBAPmykJIsZpKqlMDk6+MXp9AVLkS+ZdEBpl0pAU5D8pph7D/gh5UFCSk7afw2bY92OCEinwF/S6fNYM3Ec4RxurokL0mpxyOmTwv/QNypiJEvhb00kzIcJa5rnql6R3JFergoPRMpC4HzzET7oVjNnlN0Bzy6UNrDQYdHGzV7xoU=;ySDmfW+U+g9WqWsLobrETw=="
 ---
 

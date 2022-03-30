@@ -49,20 +49,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia RTX A4500 workstation GPU review"
-    excerpt: "In our GPU rendering tests, as the role of the CPU is minimal ... 3rd Gen Nvidia Tensor cores for AI and Machine Learning. 2nd Gen Nvidia RT cores which are dedicated to ray tracing. Different applications support these cores in different ways."
-    publishedDateTime: 2022-03-25T10:19:00Z
-    webUrl: "https://aecmag.com/workstations/nvidia-rtx-a4500-workstation-gpu-review/"
-    type: article
-    provider:
-      name: AEC Magazine
-      domain: aecmag.com
-    quality: 39
-    images:
-      - url: "https://aecmag.com/wp-content/uploads/2022/03/Nvidia-RTX-A4500-review.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "10 Interesting Facts About NVIDIA Hopper H100 GPU"
     excerpt: "NVIDIA unveiled the latest AI accelerator - the H100 Tensor Core GPU. It’s a successor to the wildly successful A100 GPU launched two years ago."
     publishedDateTime: 2022-03-29T03:37:00Z

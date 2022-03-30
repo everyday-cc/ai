@@ -2,6 +2,108 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-24-how-fluid-organizations-use-ai-to-strengthen-their-people.md",
+      "title": "How Fluid Organizations Use AI To Strengthen Their People",
+      "excerpt": "Although easier said than done, in a world where technology is power, it’s time to share some of that power with your employees so they can help steer your company in the direction you want it to go.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/how-fluid-organizations-use-ai-to-strengthen-their-people/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/how-fluid-organizations-use-ai-to-strengthen-their-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623b21add5d49c100fe53d75/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/how-fluid-organizations-use-ai-to-strengthen-their-people/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/24/how-fluid-organizations-use-ai-to-strengthen-their-people/amp/",
+      "publishedDateTime": "2022-03-24T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-diversity-is-key-to-the-future-of-ai.md",
+      "title": "Diversity Is Key To The Future Of AI",
+      "excerpt": "Personally, I felt this film sparked an incredibly important conversation for the technology sector: it urgently needs diverse and underrepresented backgrounds to contribute to the development of AI and ML.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623b68a3912723ed0abcdd19/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/amp/",
+      "publishedDateTime": "2022-03-24T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.md",
       "title": "ExtraHop adds heat map to its AWS cloud-native security solution",
       "excerpt": "A cloud-native security provider announced Wednesday that it has added heat-mapping capabilities to its Amazon Web Service (AWS) flagship product. The new tier of service, called ExtraHop Reveal(x) 360,",
@@ -1114,93 +1216,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age.md",
-      "title": "Investigation into the potential of artificial intelligence in the digital age",
-      "excerpt": "As a general-purpose technology, artificial intelligence (AI) has the potential to change our lives. It could bring many benefits, from increasing farming efficiency to helping to fight climate change and making transport safer,",
-      "sourceUrl": null,
-      "webUrl": "https://epthinktank.eu/2022/03/23/investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age/",
-      "originalUrl": "https://epthinktank.eu/2022/03/23/investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/epthinktank.eu/wp-content/uploads/2022/03/EPRS-AaG-729329-Investigation-artificial-intelligence-digital-age-FINAL.png?fit=1024%2C545&ssl=1",
-          "width": 1024,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://epthinktank.eu/2022/03/23/investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age/?amp=1",
-      "cdnAmpWebUrl": "https://epthinktank-eu.cdn.ampproject.org/c/s/epthinktank.eu/2022/03/23/investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age/?amp=1",
-      "publishedDateTime": "2022-03-23T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EP Research Service",
-        "domain": "epthinktank.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-reinventing-how-aiml-teams-gather-data-needed-for-computer-vision-network-training.md",
-      "title": "Reinventing how AI/ML teams gather data needed for computer vision network training",
-      "excerpt": "Datagen, the data-as-code leader for computer vision AI, today announced the closure of a $50 million Series B financing round led by new investor Scale Venture Partners. The round also included participation from existing investors TLV Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://www.geektime.com/datagen-raises-50-million-series-b/",
-      "originalUrl": "https://www.geektime.com/datagen-raises-50-million-series-b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geektime.com/content/images/2022/03/-----------------------------------------------.jpg",
-          "width": 2000,
-          "height": 1045,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geektime.com/datagen-raises-50-million-series-b/amp/",
-      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/datagen-raises-50-million-series-b/amp/",
-      "publishedDateTime": "2022-03-23T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geektime",
-        "domain": "geektime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

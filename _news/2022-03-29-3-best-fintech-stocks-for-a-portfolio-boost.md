@@ -121,19 +121,19 @@ related:
         width: 1799
         height: 1010
         isCached: true
-  - title: "25/03 – Weekly Fintech Recap"
-    excerpt: "Partnerships Yapily Partners with NayaOne to Offer Open Banking Connectivity Yapily announced a partnership with NayaOne and their Digital Sandpit. The partnership provides hundreds of organizations with access to Yapily’s next-generation financial data and payment initiation solutions."
-    publishedDateTime: 2022-03-25T09:42:00Z
-    webUrl: "https://financialit.net/news/digital-banking/2503-weekly-fintech-recap"
+  - title: "AI in Fintech Market Size, Trends, Outlook, Opportunity Forecast 2022-2031"
+    excerpt: "Comserve / -- AI in Fintech Market offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts."
+    publishedDateTime: 2022-03-25T11:53:00Z
+    webUrl: "https://menafn.com/1103913701/AI-in-Fintech-Market-Size-Trends-Outlook-Opportunity-Forecast-2022-2031"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
     images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_5.jpeg"
-        width: 1280
-        height: 720
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?186546"
+        width: 448
+        height: 249
         isCached: true
   - title: "Top 10 Most Promising Fintech Firms in India 2022"
     excerpt: "FinTech firms are technological alternatives to traditional financial firms’ back-end systems in the twenty-first century. Find out the top 10 most p"

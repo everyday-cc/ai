@@ -2,6 +2,169 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-03-16-sxsw-facebook-whistleblower-frances-haugen-on-social-media-reform.md",
+      "title": "SXSW: Facebook whistleblower Frances Haugen on social media reform",
+      "excerpt": "Haugen, who worked at Google and Pinterest before joining Facebook (now Meta) in 2019, said she had asked to work in an area of the company that fights misinformation after losing a friend to",
+      "sourceUrl": null,
+      "webUrl": "https://www.krqe.com/news/national/sxsw-facebook-whistleblower-frances-haugen-on-social-media-reform/",
+      "originalUrl": "https://www.krqe.com/news/national/sxsw-facebook-whistleblower-frances-haugen-on-social-media-reform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.krqe.com/wp-content/uploads/sites/12/2022/03/378636513c1849f7b81694294344adc7.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.krqe.com/news/national/sxsw-facebook-whistleblower-frances-haugen-on-social-media-reform/amp/",
+      "cdnAmpWebUrl": "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/national/sxsw-facebook-whistleblower-frances-haugen-on-social-media-reform/amp/",
+      "publishedDateTime": "2022-03-15T20:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRQE",
+        "domain": "krqe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-crisis-data-an-ethics-case-study.md",
+      "title": "Crisis Data: An Ethics Case Study",
+      "excerpt": "Politico published an article about a nonprofit called Crisis Text Line, which offers support via text messages for people who are going through mental health crises. For years, the nonprofit had been collecting a database of messages exchanged,",
+      "sourceUrl": null,
+      "webUrl": "https://www.scu.edu/ethics/focus-areas/internet-ethics/resources/crisis-data-an-ethics-case-study/",
+      "originalUrl": "https://www.scu.edu/ethics/focus-areas/internet-ethics/resources/crisis-data-an-ethics-case-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.scu.edu/media/ethics-center/internet-ethics/8265910706_0851f637c0_z-360x225.jpg",
+          "width": 360,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Santa Clara University",
+        "domain": "scu.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-amazon-launches-free-online-game-to-boost-aws-cloud-skills.md",
+      "title": "Amazon Launches Free Online Game To Boost AWS Cloud Skills",
+      "excerpt": "Amazon creates metaverse game AWS Cloud Quest to boost cloud computing skills for AWS certified cloud practitioners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/amazon-launches-metaverse-type-game-for-aws-cloud-training",
+      "originalUrl": "https://www.crn.com/news/cloud/amazon-launches-metaverse-type-game-for-aws-cloud-training",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0273-14ae73d3debe-a89ed4d9b3e1-1000/cloudquest-resized.jpg.jpeg",
+          "width": 599,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T19:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-can-robots-understand-welfare-exploring-machine-bureaucracies-in-welfare-to-work.md",
+      "title": "Can Robots Understand Welfare? Exploring Machine Bureaucracies in Welfare-to-Work",
+      "excerpt": "In several countries, these forms of market governance are now being eclipsed by new modes of digital governance that seek to reshape the delivery of services using algorithms and machine learning. Australia,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/journal-of-social-policy/article/can-robots-understand-welfare-exploring-machine-bureaucracies-in-welfaretowork/488DC4BF167D98C5A3F92F4ABC69D68C",
+      "originalUrl": "https://www.cambridge.org/core/journals/journal-of-social-policy/article/can-robots-understand-welfare-exploring-machine-bureaucracies-in-welfaretowork/488DC4BF167D98C5A3F92F4ABC69D68C",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-the-downfall-of-one-of-the-worlds-biggest-brains.md",
       "title": "The Downfall of One of the World’s Biggest Brains",
       "excerpt": "In 2011, when Watson, IBM’s computer system played against champions ... What does this say about the promise of AI for medicine? I’m Lizzie O’Leary and you’re listening to what next ...",
@@ -902,179 +1065,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-microsoft-expands-healthcare-cloud-strategy-with-new-solutions-and-capabilities-across-data-ai-and-clinician-experiences.md",
-      "title": "Microsoft expands healthcare cloud strategy with new solutions and capabilities across data, AI and clinician experiences",
-      "excerpt": "Delivers industry's first generally available solution that ingests, manages and transforms a combination of clinical, imaging and MedTech",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-expands-healthcare-cloud-strategy-with-new-solutions-and-capabilities-across-data-ai-and-clinician-experiences-1031280929",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-expands-healthcare-cloud-strategy-with-new-solutions-and-capabilities-across-data-ai-and-clinician-experiences-1031280929",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-how-neutigers-deploys-deep-learning-in-edge-ai-for-easy-covid-detection.md",
-      "title": "How NeuTigers deploys deep learning in edge AI for easy covid detection",
-      "excerpt": "NeuTigers is a Princeton University spinout building edge-AI solutions for healthcare. The startup has developed an app for Covid detection using medical sensors and neural networks. Research led by Niraj Jha,",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/how-neutigers-deploys-deep-learning-in-edge-ai-for-easy-covid-detection/",
-      "originalUrl": "https://analyticsindiamag.com/how-neutigers-deploys-deep-learning-in-edge-ai-for-easy-covid-detection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/neutig-b_11zon.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T05:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-mice-can-recognise-3d-objects-from-memory-of-their-2d-photos-study-suggests.md",
-      "title": "Mice can recognise 3D objects from memory of their 2D photos, study suggests",
-      "excerpt": "“Our findings also provide strong support that a functional mouse hippocampus is required for this form of nonspatial visual recognition memory and picture-object equivalence,” he adde",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/news/science/mice-object-recognition-2d-photographs-b2036016.html",
-      "originalUrl": "https://www.independent.co.uk/news/science/mice-object-recognition-2d-photographs-b2036016.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2022/03/15/10/122287_web.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.co.uk/news/science/mice-object-recognition-2d-photographs-b2036016.html",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/science/mice-object-recognition-2d-photographs-b2036016.html",
-      "publishedDateTime": "2022-03-15T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-ai-chip-innovator-memryx-hires-two-veteran-semiconductor-leaders-for-top-engineering-and-business-development-roles.md",
-      "title": "AI Chip Innovator MemryX Hires Two Veteran Semiconductor Leaders For Top Engineering and Business Development Roles",
-      "excerpt": "MemryX Inc., a pioneering start-up designing breakthrough silicon for artificial intelligence processing for edge devices, has appointed semiconductor industry veterans Puneet Singh and Roger Peene. Singh will serve as vice president of engineering,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-ann-arbor-artificial-intelligence-engineering-f6f58bc4b2d24c52bdd616badf6fb689",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-ann-arbor-artificial-intelligence-engineering-f6f58bc4b2d24c52bdd616badf6fb689",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

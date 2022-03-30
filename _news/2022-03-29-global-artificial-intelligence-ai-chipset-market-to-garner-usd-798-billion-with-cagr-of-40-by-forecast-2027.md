@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Media Market is Expected to Reach USD 3.31 Billion By 2026"
-    excerpt: "The development of media industries owing to the rise in demand for consumers and is propelling the market growth. Cognitive Media Market Size – USD 0.52"
-    publishedDateTime: 2022-03-25T10:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cognitive-media-market-is-expected-to-reach-usd-3-31-billion-by-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/311e103167631b53610564f3bef2b5e4678b5881-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Generic Oncology Drugs Market Are Anticipated To Rise at a Steady CAGR Of 6% from 2022 To 2028"
     excerpt: "Generic oncology drugs, being able to detect and treat tumors, are utilized extensively in the healthcare industry for treating cancer. Notable"
     publishedDateTime: 2022-03-28T13:44:00Z
