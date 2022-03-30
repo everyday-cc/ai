@@ -2,6 +2,195 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-02-09-ai-driven-congruence-therapeutics-gets-50m-to-stabilize-misfolded-proteins.md",
+      "title": "AI-driven Congruence Therapeutics gets $50M to stabilize misfolded proteins",
+      "excerpt": "For proteins to function properly, they must take on the right shape. Misfolded proteins are the root of many diseases. Congruence Therapeutics is using computational tools to discover and develop ...",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2022/02/ai-driven-congruence-therapeutics-gets-50m-to-stabilize-misfolded-proteins/",
+      "originalUrl": "https://medcitynews.com/2022/02/ai-driven-congruence-therapeutics-gets-50m-to-stabilize-misfolded-proteins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2017/02/GettyImages-172595086.jpg",
+          "width": 683,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T09:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-implement-mlops-using-aws-pre-trained-ai-services-with-aws-organizations.md",
+      "title": "Implement MLOps using AWS pre-trained AI Services with AWS Organizations",
+      "excerpt": "The AWS Machine Learning Operations (MLOps) framework is an iterative and repetitive process for evolving AI models over time. Like DevOps, practitioners gain efficiencies promoting their artifacts through various environments (such as quality assurance, integration, and production) for quality control.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implement-mlops-using-aws-pre-trained-ai-services-with-aws-organizations/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/implement-mlops-using-aws-pre-trained-ai-services-with-aws-organizations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/03/ml_6569_fig1-whitebackground.png",
+          "width": 1100,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T09:11:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-ask-a-techspert-what-does-ai-do-when-it-doesnt-know.md",
+      "title": "Ask a Techspert: What does AI do when it doesn’t know?",
+      "excerpt": "As humans, we constantly learn from the world around us. We experience inputs that shape our knowledge — including the boundaries of both what we know and what we don’t know.Many of today’s machines also learn by example. However, these machines are typically trained on datasets and information that",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/health/ask-a-techspert-what-does-ai-do-when-it-doesnt-know/",
+      "originalUrl": "https://blog.google/technology/health/ask-a-techspert-what-does-ai-do-when-it-doesnt-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ask_techspert-AI-01_rV1ecRI.max-1300x1300.png",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/health/ask-a-techspert-what-does-ai-do-when-it-doesnt-know/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ask-a-techspert-what-does-ai-do-when-it-doesnt-know/amp/",
+      "publishedDateTime": "2022-02-08T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-3m-mmodal-fluency-for-imaging-earns-1-best-in-klas-ranking-for-speech-recognition-front-end-imaging.md",
+      "title": "3M M*Modal Fluency for Imaging earns #1 Best in KLAS ranking for Speech Recognition: Front-End, Imaging",
+      "excerpt": "M™ M*Modal Fluency for Imaging has been recognized as the Best in KLAS awards 2022 leader in the Speech Recognition Front-End, Imaging category in its annual software and services report. An artificial intelligence (AI)-powered,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-health-80063727c265ca7f3159b2e80a5dccf1",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-health-80063727c265ca7f3159b2e80a5dccf1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T08:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-nhs-in-england-set-to-trial-a-new-approach-for-ethical-adoption-of-ai-in-healthcare.md",
       "title": "NHS in England set to trial a new approach for ethical adoption of AI in healthcare",
       "excerpt": "Biases in artificial intelligence will aim to be eradicated in a world first as the NHS in England trials a new approach to the ethical adoption of AI in healthcare. Algorithmic Impact Assessment (AIA), designed by the Ada Lovelace Institute, will be ...",
@@ -960,187 +1149,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-adobe-premiere-pro-update-adds-ai-powered-remix-for-music-and-3x-faster-speech-to-text.md",
-      "title": "Adobe Premiere Pro update adds AI-powered Remix for music and 3x faster Speech to Text",
-      "excerpt": "Remix is powered by Adobe Sensei, Adobe's AI technology. Artificial intelligence is used to ... Hardware acceleration plays a key role by using the GPU to speed up exports. The chart below shows the significant difference between Premiere Pro 22.1.1 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dpreview.com/news/6096859866/adobe-premiere-pro-update-adds-ai-powered-remix-for-music-and-3x-faster-speech-to-text",
-      "originalUrl": "https://www.dpreview.com/news/6096859866/adobe-premiere-pro-update-adds-ai-powered-remix-for-music-and-3x-faster-speech-to-text",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3.img-dpreview.com/files/p/E~TS590x0~articles/6096859866/premiere-pro-update-banner.jpeg",
-          "width": 590,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.dpreview.com/news/6096859866/adobe-premiere-pro-update-adds-ai-powered-remix-for-music-and-3x-faster-speech-to-text.amp",
-      "cdnAmpWebUrl": "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/6096859866/adobe-premiere-pro-update-adds-ai-powered-remix-for-music-and-3x-faster-speech-to-text.amp",
-      "publishedDateTime": "2022-02-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Photography Review",
-        "domain": "dpreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-benefits-of-5g-in-banking-and-financial-services.md",
-      "title": "Benefits of 5G in banking and financial services",
-      "excerpt": "5G, the high-speed network technology, following various benefits in banking and financial service. With the help of low latency ... Issues will be instantly resolved thanks to AI and machine learning equipped customer ‘bots’, making the whole process ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/benefits-5g-banking-financial-services-arun-rabra",
-      "originalUrl": "https://www.linkedin.com/pulse/benefits-5g-banking-financial-services-arun-rabra",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGtY31R9ZfoQg/article-cover_image-shrink_600_2000/0/1644348379508?e=1650499200&v=beta&t=Z2udv0vMsuS03QGhW2qlNHP-C2ZTMRY8EXpXd_BsXEo",
-          "width": 713,
-          "height": 463,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-collaborative-robot-leverages-motion-control-speed-and-agility.md",
-      "title": "Collaborative Robot Leverages Motion Control Speed and Agility",
-      "excerpt": "With that in mind, ABB has identified three growing trends in ... covering automation and control, motion control, power transmission, robotics, and fluid power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/collaborative-robot-leverages-motion-control-speed-and-agility",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/collaborative-robot-leverages-motion-control-speed-and-agility",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/YuMi%20VIII.jpg",
-          "width": 7360,
-          "height": 5197,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-if-robots-replace-humans-maybe-they-should-be-taxed.md",
-      "title": "If Robots Replace Humans, Maybe They Should Be Taxed",
-      "excerpt": "In Gates' mind the the tax revenue would come from profits generated by the cost savings made with robotic automation or directly through some sort of “robot tax.” Gates doesn't believe robotics companies will be outraged by the tax and he feels it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/if-robots-replace-humans-maybe-they-should-be-taxed",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/if-robots-replace-humans-maybe-they-should-be-taxed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/RobotTax.png",
-          "width": 794,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

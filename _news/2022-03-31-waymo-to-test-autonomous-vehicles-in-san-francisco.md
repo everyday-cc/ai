@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo Expands Self-Driving Car Trials to San Francisco"
+    excerpt: "Way-mo, way-mo, off to work they go. Waymo employees in San Francisco will be able to catch a ride to work from its fleet of self-driving, all-electric Jaguar I-PACE cars."
+    publishedDateTime: 2022-03-30T19:15:00Z
+    webUrl: "https://www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco"
+    ampWebUrl: "https://www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00sHEbCBZPkX4vW3zeodaKj-1.fit_lim.size_1200x630.v1648664014.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Waymo’s self-driving ride-hailing service coming to San Francisco"
     excerpt: "The autonomous vehicle unit of Alphabet, Google’s parent company, said Wednesday that it started carrying employees in electric Jaguar I-Pace SUVs without human backup drivers. Previously the ..."
     publishedDateTime: 2022-03-30T15:21:00Z
@@ -43,22 +59,6 @@ related:
         width: 1280
         height: 838
         isCached: true
-  - title: "Toyota starts testing self-driving ride-hailing fleet"
-    excerpt: "Toyota, together with Aurora Innovation Inc., is currently testing a fleet of self-driving Sienna units in Texas."
-    publishedDateTime: 2022-03-28T06:37:00Z
-    webUrl: "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410"
-    ampWebUrl: "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp"
-    cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp"
-    type: article
-    provider:
-      name: Philkotse
-      domain: philkotse.com
-    quality: 59
-    images:
-      - url: "https://img.philkotse.com/2022/03/28/WFFKkBCT/toyota-sienna-aurora-942f_wm.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Waymo to expand autonomous vehicle rides to San Francisco"
     excerpt: "Waymo's self-driving ride-hailing service is branching out to San Francisco. The autonomous vehicle unit of Alphabet, Google's"
     publishedDateTime: 2022-03-30T15:40:00Z
@@ -74,22 +74,6 @@ related:
       - url: "https://ktar.com/wp-content/uploads/2022/03/ap_3ce6b56f7dc54a5fbf81f12951ee1c54.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Apple ups driver count for self-driving car tests, signaling increase in program resources"
-    excerpt: "Apple is continuing to slowly expand its autonomous vehicle testing program in California as it has 10 new drivers registered to its crew."
-    publishedDateTime: 2022-03-30T16:07:00Z
-    webUrl: "https://9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/"
-    ampWebUrl: "https://9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 34
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "/jXLdr13xg/fiK8EkWDTLZK2aNiE/Bmg1eakzh63cK8ucOh/atuMh1vyTaSQpXEBJZwAkNbN1KEEs5KTOIi/UNd5gpHW+3AodBrAi5hJs2COe5uFiSBsK8ahJranrQFKfm7qQkfzi3ffHVYsFM73SfHi4Z/CFO7aKAORdmeKkn4kRQ55dmgeUQ8hXARH4PxYZKlbnGAK7gQBBHY/W4N2vWjPraWZrVNrsEzENVMoJeDE5RH7d+rdaDrb/4XGd5/6132sbYo/DyBLltZsqkxMc0JvbLAGCld4ElAOA3onafljf23BhPzLDaqRYoV/HNcBDLWfmR00oqaxKDViNKgxjFBUbFDIskikMwAk0aZdZ38=;n74fo3RTd6d9RZPVaAQ4LA=="

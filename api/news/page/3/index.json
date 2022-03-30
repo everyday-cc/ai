@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-29-tsa-continues-facial-recognition-rollout-at-airports.md",
+      "title": "TSA Continues Facial Recognition Rollout at Airports",
+      "excerpt": "For five years, the Transportation Security Administration has tested facial recognition technology at select airports as a method to automate identity verification at checkpoints.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/tsa-continues-facial-recognition-rollout-at-airports",
+      "originalUrl": "https://www.govtech.com/products/tsa-continues-facial-recognition-rollout-at-airports",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/e5bdf5f/2147483647/strip/true/crop/940x490+0+67/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F7a%2F7d%2F80c58fef8b932e1f1ad5c9c6f006%2Fshutterstock-camera-lens-up-close.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/tsa-continues-facial-recognition-rollout-at-airports?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/tsa-continues-facial-recognition-rollout-at-airports?_amp=true",
+      "publishedDateTime": "2022-03-28T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models.md",
       "title": "Report: 68% of orgs rely on in-house evaluation to tune AI models",
       "excerpt": "The addition of data annotation to this list of popular AI technologies indicates more sophisticated use cases are on the way as AI matures.",
@@ -536,7 +579,7 @@
       "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-renesas-electronics-corp-05ead87d8c37109957b3eff68165b552",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -903,6 +946,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-28-toyota-starts-testing-self-driving-ride-hailing-fleet.md",
+      "title": "Toyota starts testing self-driving ride-hailing fleet",
+      "excerpt": "Toyota, together with Aurora Innovation Inc., is currently testing a fleet of self-driving Sienna units in Texas.",
+      "sourceUrl": null,
+      "webUrl": "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410",
+      "originalUrl": "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.philkotse.com/2022/03/28/WFFKkBCT/toyota-sienna-aurora-942f_wm.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp",
+      "cdnAmpWebUrl": "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp",
+      "publishedDateTime": "2022-03-27T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philkotse",
+        "domain": "philkotse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-28-self-driving-startup-zongmu-raises-157-million-in-new-funds.md",
       "title": "Self-Driving Startup Zongmu Raises $157 Million in New Funds",
       "excerpt": "Zongmu Technology Shanghai Co. has raised more than 1 billion yuan ($157 million) in a new round as the Chinese autonomous driving system startup looks to build a new production plant.",
@@ -963,7 +1049,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1112,100 +1198,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-03-27-mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm.md",
-      "title": "MP govt to start AI course in schools, vet telemedicine facility: CM",
-      "excerpt": "The Madhya Pradesh government will start a course in Artificial Intelligence for students from class 8, which will be the first such initiative in the country, CM Shivraj Singh Chouhan said on Sunday",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/current-affairs/mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm-122032700740_1.html",
-      "originalUrl": "https://www.business-standard.com/article/current-affairs/mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm-122032700740_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-10/04/full/1601810115-3042.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/current-affairs/mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm-122032700740_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm-122032700740_1.html",
-      "publishedDateTime": "2022-03-27T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-27-this-is-what-makes-deep-learning-so-powerful.md",
-      "title": "This is what makes deep learning so powerful",
-      "excerpt": "Deep learning's availability of large data and compute power makes it far better than any of the classical machine learning algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/27/this-is-what-makes-deep-learning-so-powerful/",
-      "originalUrl": "https://venturebeat.com/2022/03/27/this-is-what-makes-deep-learning-so-powerful/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1282957835-e1647956083281.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/27/this-is-what-makes-deep-learning-so-powerful/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/27/this-is-what-makes-deep-learning-so-powerful/amp/",
-      "publishedDateTime": "2022-03-27T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

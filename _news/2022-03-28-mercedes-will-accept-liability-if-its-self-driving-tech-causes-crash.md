@@ -7,7 +7,7 @@ originalUrl: "https://www.thisismoney.co.uk/money/cars/article-10659461/Mercedes
 webUrl: "https://www.thisismoney.co.uk/money/cars/article-10659461/Mercedes-accept-liability-self-driving-tech-causes-crash.html?mrn_rm=rta"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 636
     height: 382
     isCached: true
-
-related:
-  - title: "Mercedes to accept legal responsibility for accidents involving self-driving cars"
-    excerpt: "Mercedes has announced that it will take legal responsibility for any crashes that occur while the self-driving system on any of its cars is engaged."
-    publishedDateTime: 2022-03-28T17:55:00Z
-    webUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/"
-    ampWebUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Sunday Times Driving
-      domain: driving.co.uk
-    quality: 39
-    images:
-      - url: "https://www.driving.co.uk/wp-content/uploads/sites/5/2021/09/SAE-levels-of-automation.jpeg?w=1000"
-        width: 1000
-        height: 680
-        isCached: true
 
 secured: "552jflOTbLuupmYd76n+VgUUDDDDD6e/zdG7tU+HHZLiARpzPiaPWkQCxK6fVUww1kBw66ttb9F5Iiy7M3taA+ybrpP2/CBtyA88T6qZQYiFIPVAya/zawzhx7cGWLhlaCQ+sjeIT964tjM0FoVJ/dXfvn1255NyYRLqp+znDNUNPOKlCDSaRSVpngINRwoFLufLZ7AGOpQ9h4aUd9/eeGDuu0FlJqjNCsMoqHh+Up/jZa8cg6rNCJhn6zhSWGNOuRGOwnhlHVoSg6Rey5r01+qlOHbVhfFHgkzlZCbP6LgjUjUWWpEiSwPORp2G63ZTiCtVRk1qKy2AWEyVWh4qwy6evfna6iyO7T3Fx7G8IhdHFqOCwefj8dRkVl6O5e7J/9RcVtjfD9TQ8h/M2ureqcGtNTlNqfgRq0Wjhp5idXbnbuL6iMhACFqqe9+SzEKKz/PMQcf+yEJ0EVinAxpRsf2gm0GGuijNp1gPLNh+raJvKklWsPZrqAIE7TjUXxRwbO10V4TYd14pgMzJpRGV1w==;ar+tih3P2sAXWn9nQNwjvg=="
 ---

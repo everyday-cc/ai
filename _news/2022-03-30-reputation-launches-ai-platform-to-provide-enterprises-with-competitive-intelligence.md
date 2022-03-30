@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/30/reputation-launches-ai-platform-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/reputation-launches-ai-platform-to-provide-enterprises-with-competitive-intelligence/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1776318/ISB_PredictExplore.jpg"
         width: 400
         height: 219
+        isCached: true
+  - title: "Virtualitics AI Platform to Support Computational Biology Research on Long Covid Treatment Options"
+    excerpt: "Virtualitics AI Platform to Support Computational Biology Research on Long Covid Treatment Options . Institute for Systems Biology to accelerate time to insig"
+    publishedDateTime: 2022-03-30T19:54:00Z
+    webUrl: "https://www.biopharmadive.com/press-release/20220330-virtualitics-ai-platform-to-support-computational-biology-research-on-long/"
+    type: article
+    provider:
+      name: BioPharma Dive
+      domain: biopharmadive.com
+    quality: 23
+    images:
+      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1648669334/press_release/assets/header_images/Facebook_1200x675-1_hoxhvt.png"
+        width: 1500
+        height: 700
         isCached: true
 
 secured: "Bx8mw7jDypSIwtGtnTcr1p74kQVd4KWiD9MtM0EBmgKVkIVRqF2jFWXOtzkbVwidcDH1XPOyORjbw1XXknVxDv+E24lm1WqTtC4UFJ4K6Scqmp4n3Bp08kK7+ym+E4y+DeJRzVllk5+63gi13wHGDiZKhisp01QeRddUMgVXfTt02zZ5mmAYxAONALELLdJfH4KqMQO5PkTSB/v3E2zClZZcefTCk4d+da8/eTlH+WI2EXU5Q1I/I2Vh2Yfxv7wE21IcIYXowfvTN2FU7VEZy7oo9QrP0+Vg2I2zggQxkZbeTrV+v3RjzWgimLWKReptN3LMpwqWfZP7ubIvIISHqZJ2d0FriEUsSPNgq/hUTz0=;c7etX/kckpSbFpso5A5H9Q=="

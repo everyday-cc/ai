@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Virtualitics AI Platform to Support Computational Biology Research on Long Covid Treatment Options"
+    excerpt: "Virtualitics AI Platform to Support Computational Biology Research on Long Covid Treatment Options . Institute for Systems Biology to accelerate time to insig"
+    publishedDateTime: 2022-03-30T19:54:00Z
+    webUrl: "https://www.biopharmadive.com/press-release/20220330-virtualitics-ai-platform-to-support-computational-biology-research-on-long/"
+    type: article
+    provider:
+      name: BioPharma Dive
+      domain: biopharmadive.com
+    quality: 23
+    images:
+      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1648669334/press_release/assets/header_images/Facebook_1200x675-1_hoxhvt.png"
+        width: 1500
+        height: 700
+        isCached: true
 
 secured: "qc13qJmpdA2Ouy+g+0NLiL0prTuinla3DXEcSwK4+INPxMXWahVghpCYT90fOJDnRIsu5EYWO32BqKdZ1OLMD5ZkycQTAsPqNulGf0OhNPwlh39DonMZ04H5u5eHnTZHr1Y3JwsatjqIP8ujHCZMhc0yYT48IM4kW7rygYww0ZhEVV5ofufLsn3X/sXVBaFZZhl0/k+FfhnjC+sB+Bc0JWIJGdYLmfidxt2/gDE7WBIksLvG3csrbL3q4g8IJxRN2t54w97G5BzH0N9O4TGkv2R0r+GZGJuo10alLgFlM3m3zXRFYTB8yIyLzprfWikCde3dXlRBxpzGO177KiqkASxoSZdFuahAwexooNb3iSM=;N7bcf6R26x4qSKx01aElfg=="
 ---

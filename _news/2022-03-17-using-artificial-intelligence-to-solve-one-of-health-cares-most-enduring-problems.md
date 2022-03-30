@@ -2,14 +2,14 @@
 category: news
 title: "Using Artificial Intelligence to Solve One of Health Care's Most Enduring Problems"
 excerpt: "Northwestern Medicine built its own artificial intelligence program to trigger follow up on incidental imaging findings to prevent delayed and missed care . CHICAGO, March 16, 202"
-publishedDateTime: 2022-03-16T18:39:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-using-artificial-intelligence-solve-one-health-cares-most-/2022/03/16/9565389.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-using-artificial-intelligence-solve-one-health-cares-most-/2022/03/16/9565389.htm"
+publishedDateTime: 2022-03-16T21:28:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220316DC94486/using-artificial-intelligence-to-solve-one-of-health-cares-most-enduring-problems/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220316DC94486/using-artificial-intelligence-to-solve-one-of-health-cares-most-enduring-problems/"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI in Healthcare
@@ -21,6 +21,6 @@ images:
     height: 266
     isCached: true
 
-secured: "SGPbcIfwna+TekDofu1Ip/O2xcAmncHbvMYT3AicPZpvQY0KZ83X2wyLm0QgfQwiMAfWkp1tRZR9f6qZr2/b6LuqAB2Wmqy+8IskThWbA7wc7zdJ7hfNuPCWCmvo6tpu3eipn8BBtYuR0A4+CIOHfk63zJWojJu51q2Tn8EjfWfip/07nBOJ7luW5jxw9IbycXwRCKp61Yp5HU+9Z3uhySUEhQe8MW/1J/bhCq1dpaU6y+oaFwxZexEHy2I65KLfx4C8sO5z70+X+fev6CoFgXrM9TSyWwpA+NUYmEccKrWccU9aMgA5r/+lbv9Xd2GMuqrqSzLtH6qLaIb0xg4Gua3SrFXMRuEnTw1bJGaUvKE=;L+jQm1fZaLRovsEcOcC8Gw=="
+secured: "KUn8psJZl583Pk9BX+gOV4u2wB1wJYJYCxu1nf9Iqx5anL2nNaJMZGi6eiWmkgxDnXVdGaj2VM+B7zBEjut4NkZIjnaZ0or1RgwviK+hG4UOkc7+4rnHBhi5i1aCr8UdutbQyW3S9iiguFLITtQlXrf2B5jYhSgaap3EnbWEvXqYDf6zyBLXBgkNbmcsnSKVCaLXzR9RF28sZZ3a7eXvJVFtQGpEXDG0u8HeGBkjWvh+7hjbrGdFC+4gSMiExAgG7wgEcNuEqjh1bITFu1J4y2AI4x4SGlPFKx7y+qCCZ4RctwgyOvO6kEVz3McDJHd37B/Bqp4FrUvxShyITyq8aTt5ccfFTXTJJ/qwlrHmxQs=;MsYER8Sw/xQBO7bvcpcZeg=="
 ---
 

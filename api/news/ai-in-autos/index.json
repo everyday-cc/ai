@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-03-30-waymos-self-driving-ride-hailing-service-coming-to-san-francisco.md",
-      "title": "Waymo’s self-driving ride-hailing service coming to San Francisco",
-      "excerpt": "The autonomous vehicle unit of Alphabet, Google’s parent company, said Wednesday that it started carrying employees in electric Jaguar I-Pace SUVs without human backup drivers. Previously the ...",
+      "path": "_news/2022-03-31-waymo-expands-self-driving-car-trials-to-san-francisco.md",
+      "title": "Waymo Expands Self-Driving Car Trials to San Francisco",
+      "excerpt": "Way-mo, way-mo, off to work they go. Waymo employees in San Francisco will be able to catch a ride to work from its fleet of self-driving, all-electric Jaguar I-PACE cars.",
       "sourceUrl": null,
-      "webUrl": "https://ktla.com/news/california/waymos-self-driving-ride-hailing-service-coming-to-san-francisco/",
-      "originalUrl": "https://ktla.com/news/california/waymos-self-driving-ride-hailing-service-coming-to-san-francisco/",
+      "webUrl": "https://www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco",
+      "originalUrl": "https://www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://ktla.com/wp-content/uploads/sites/4/2022/03/GettyImages-1142591427.jpg?w=1280",
-          "width": 1280,
-          "height": 838,
+          "url": "https://i.pcmag.com/imagery/articles/00sHEbCBZPkX4vW3zeodaKj-1.fit_lim.size_1200x630.v1648664014.jpg",
+          "width": 1120,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://ktla.com/news/california/waymos-self-driving-ride-hailing-service-coming-to-san-francisco/amp/",
-      "cdnAmpWebUrl": "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/waymos-self-driving-ride-hailing-service-coming-to-san-francisco/amp/",
-      "publishedDateTime": "2022-03-30T08:21:00-07:00",
+      "ampWebUrl": "https://www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco?amp=true",
+      "publishedDateTime": "2022-03-30T12:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -296,6 +305,49 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-03-28-toyota-starts-testing-self-driving-ride-hailing-fleet.md",
+      "title": "Toyota starts testing self-driving ride-hailing fleet",
+      "excerpt": "Toyota, together with Aurora Innovation Inc., is currently testing a fleet of self-driving Sienna units in Texas.",
+      "sourceUrl": null,
+      "webUrl": "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410",
+      "originalUrl": "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.philkotse.com/2022/03/28/WFFKkBCT/toyota-sienna-aurora-942f_wm.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp",
+      "cdnAmpWebUrl": "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp",
+      "publishedDateTime": "2022-03-27T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philkotse",
+        "domain": "philkotse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1366,49 +1418,6 @@
       "provider": {
         "name": "Pew Research Center",
         "domain": "pewresearch.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-matlab-expands-to-reach-self-driving-wireless-markets.md",
-      "title": "MATLAB expands to reach self-driving, wireless markets",
-      "excerpt": "MathWorks, maker of the long-standing MATLAB suite, is focusing its latest software updates on reaching beyond its traditional scientific base and eyeing up autonomous vehicle developers, makers of devices with wireless communications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/03/16/matlab_update_markets/",
-      "originalUrl": "https://www.theregister.com/2022/03/16/matlab_update_markets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/03/31/driving.jpg",
-          "width": 1000,
-          "height": 475,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/16/matlab_update_markets/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/16/matlab_update_markets/",
-      "publishedDateTime": "2022-03-16T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "ISG Acquires AI Platform Solution Agreemint"
-excerpt: "Information Services Group (Nasdaq: III), a leading global technology research and advisory firm, said today it has acquired automated contracting solution Agreemint from its foun"
-publishedDateTime: 2022-03-29T13:40:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-isg-acquires-ai-platform-solution-agreemint-/2022/03/29/9572513.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-isg-acquires-ai-platform-solution-agreemint-/2022/03/29/9572513.htm"
+excerpt: "Information Services Group ( ISG) (Nasdaq: III), a leading global technology research and advisory firm, said today it has acquired automated contracting solution Agreemint from its founders. Terms were not disclosed."
+publishedDateTime: 2022-03-29T13:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-stamford-8fb43337a5e047d0b719ab45118fd3eb"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-stamford-8fb43337a5e047d0b719ab45118fd3eb"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "TBBIKVncRVC3momkkzr9PMowQaptVrLmFco0fug3HKN1W2J8GYZS8Rm7uUsLwfOXq6kO6rEAUE9NYN/CNSs7/AyazgmAKSfKdzqsyl3fzumMwpPgiLIIsN/hVKKmCGpkEbyh23XV/C8HK+75L3PGKqLpgCMnvF/+XqORALaoHtPySUKjcxA4QDgCsJM4aKPpIpBCyovJUieJjq61v69PbQcDH3U36mqfcOawFvyt1Nw4iFXJnZ+62fhsU7oOQuUnySczY4nj5s0+QK9SX/+qKB/De69vdc9sTy2X3z7ENJ2oE+aG0TEBI/LtaflEuxNQQn9M3faC3Nj8MFFvl8YPTIeYLrUUjFWinDPLIyjt9/8=;bIQrXx4RNzP/maWO2H5nFw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "pwp9YxS1KLmY8XW1y7eCXcBy9In2vQg5UzdHw7UymcE7dn48v2xLLV6BfSUKOmo9R8AWWvNdrfyRX//456cFbomA8KK9xpu/AfMgpPclMeZGY+ebvOhvUUtL5kUNCfE/Xpm6xMpj67cpQr9dXiHSTEA9oKAIXiUnJc8HWEFfopKpzGAJWILMhS7CpwVidvNOHY60VLepm/JGddLOk3R+uKCtVP4yYgy4N1MXJvnOx3ekqMC+4DAqpGzSoQr0eyETFp3siaAfXutokYeBEVgq0K7WEIgMq8uMBImZEk7LDmB9sznR4yPDi+qaQdLAnFv2iWad7uh779svYbxqN6QBDrcvHa24aXmPgsU62+MRmns=;si13gW5y+scmX1uZpSahUQ=="
 ---
 

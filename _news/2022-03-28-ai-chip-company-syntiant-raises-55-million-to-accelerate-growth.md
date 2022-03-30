@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/technology-busines
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-renesas-electronics-corp-05ead87d8c37109957b3eff68165b552"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://www.newelectronics.co.uk/media/vhznrcx1/synaptics.png"
         width: 498
         height: 280
+        isCached: true
+  - title: "Syntiant raises $55M to bring AI to any battery-powered device"
+    excerpt: "The investment in Syntiant is led by partner Renesas Electronics Corporation, Millennium Technology Value Partners, and Mirae Asset Capital."
+    publishedDateTime: 2022-03-30T18:12:00Z
+    webUrl: "https://www.biometricupdate.com/202203/syntiant-raises-55m-to-bring-ai-to-any-battery-powered-device"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/15161907/market-growth-expansion-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Synaptics Launches Katana Edge AI Kit To Accelerate Development of AI Vision and Sensor Fusion Applications for the IoT"
     excerpt: "Synaptics Incorporated (Nasdaq: SYNA) today announced an Edge AI evaluation kit (EVK) for the rapid development and prototyping of artificial intelligence (AI) applications at the edge. Based on the Synaptics® low-power Katana system-on-chip (SoC) platform,"

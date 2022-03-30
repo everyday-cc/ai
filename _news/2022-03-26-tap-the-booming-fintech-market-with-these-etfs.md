@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Opinion: Intel spices up PC market with Arc GPU launch"
+    excerpt: "Intel officially announced today the Arc A series, which is targeted at laptops. A version of Arc for desktops has been promised for the second quarter,"
+    publishedDateTime: 2022-03-30T18:36:00Z
+    webUrl: "https://www.techspot.com/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/03/2022-03-30-image-43.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Intel teases first Arc A-series desktop GPU ahead of summer launch"
     excerpt: "Intel says it will release its first Arc A-series desktop GPU this summer, and has offered a brief peek at the card itself.."
     publishedDateTime: 2022-03-30T17:13:00Z

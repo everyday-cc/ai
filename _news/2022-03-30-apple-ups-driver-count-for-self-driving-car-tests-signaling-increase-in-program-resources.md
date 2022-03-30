@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo’s self-driving ride-hailing service coming to San Francisco"
-    excerpt: "The autonomous vehicle unit of Alphabet, Google’s parent company, said Wednesday that it started carrying employees in electric Jaguar I-Pace SUVs without human backup drivers. Previously the ..."
-    publishedDateTime: 2022-03-30T15:21:00Z
-    webUrl: "https://ktla.com/news/california/waymos-self-driving-ride-hailing-service-coming-to-san-francisco/"
-    ampWebUrl: "https://ktla.com/news/california/waymos-self-driving-ride-hailing-service-coming-to-san-francisco/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/waymos-self-driving-ride-hailing-service-coming-to-san-francisco/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 74
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/03/GettyImages-1142591427.jpg?w=1280"
-        width: 1280
-        height: 838
-        isCached: true
   - title: "Toyota starts testing self-driving ride-hailing fleet"
     excerpt: "Toyota, together with Aurora Innovation Inc., is currently testing a fleet of self-driving Sienna units in Texas."
     publishedDateTime: 2022-03-28T06:37:00Z
@@ -59,39 +43,67 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Waymo to expand autonomous vehicle rides to San Francisco"
-    excerpt: "Waymo's self-driving ride-hailing service is branching out to San Francisco. The autonomous vehicle unit of Alphabet, Google's"
-    publishedDateTime: 2022-03-30T15:40:00Z
-    webUrl: "https://ktar.com/story/4977554/waymo-to-expand-autonomous-vehicle-rides-to-san-francisco/"
-    ampWebUrl: "https://ktar.com/story/4977554/waymo-to-expand-autonomous-vehicle-rides-to-san-francisco/amp/"
-    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4977554/waymo-to-expand-autonomous-vehicle-rides-to-san-francisco/amp/"
+  - title: "Toyota and Aurora Are Testing Self-Driving Vehicles in Texas"
+    excerpt: "About a year after announcing plans to partner on the development of self-driving vehicles, Toyota and Aurora Innovation have put their prototypes on the road. These are based on"
+    publishedDateTime: 2022-03-29T14:12:00Z
+    webUrl: "https://www.auto123.com/en/news/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
+    ampWebUrl: "https://www.auto123.com/en/news/amp/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
+    cdnAmpWebUrl: "https://www-auto123-com.cdn.ampproject.org/c/s/www.auto123.com/en/news/amp/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
     type: article
     provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 59
+      name: Auto123
+      domain: auto123.com
+    quality: 44
     images:
-      - url: "https://ktar.com/wp-content/uploads/2022/03/ap_3ce6b56f7dc54a5fbf81f12951ee1c54.jpg"
-        width: 1280
-        height: 853
+      - url: "http://picolio.auto123.com/auto123-media/articles/2022/3/69082/toyota-aurora-1fr.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Waymo to test autonomous vehicles in San Francisco"
-    excerpt: "Google spinoff Waymo said Wednesday it has started testing its fully automated all-electric vehicles around San Francisco without a human safety driver."
-    publishedDateTime: 2022-03-30T17:18:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2022/03/30/Waymo-autonomous-vehicle-San-Francisco/6791648659153/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/03/30/Waymo-autonomous-vehicle-San-Francisco/6791648659153/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/03/30/Waymo-autonomous-vehicle-San-Francisco/6791648659153/"
+  - title: "Mercedes to accept legal responsibility for accidents involving self-driving cars"
+    excerpt: "Mercedes has announced that it will take legal responsibility for any crashes that occur while the self-driving system on any of its cars is engaged."
+    publishedDateTime: 2022-03-28T17:55:00Z
+    webUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/"
+    ampWebUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
+      name: Sunday Times Driving
+      domain: driving.co.uk
+    quality: 39
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/6791648659153/2022/1/fb594ae25d0234df96e1fd796dd21fcc/v1.5/Waymo-to-test-autonomous-vehicles-in-San-Francisco.jpg"
-        width: 800
-        height: 532
+      - url: "https://www.driving.co.uk/wp-content/uploads/sites/5/2021/09/SAE-levels-of-automation.jpeg?w=1000"
+        width: 1000
+        height: 680
+        isCached: true
+  - title: "Self-driving cars move closer to approval as Toyota tests cars in USA"
+    excerpt: "Japan Toyota Motor Company and Aurora Innovation an American developer of automated driving systems have begun testing an autonomous ride-hailing fleet in Texas"
+    publishedDateTime: 2022-03-27T03:06:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272425617/self-driving-cars-move-closer-to-approval-as-toyota-tests-cars-in-usa"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1648272795281.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Self-driving vans from Toyota and Aurora partnership start testing in Texas"
+    excerpt: "They are testing in the Dallas-Fort Worth area, where Aurora has been testing self-driving semi-trailer trucks since 2020. Some of the conditions the prototypes are faced with inc"
+    publishedDateTime: 2022-03-28T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1135428_self-driving-vans-from-toyota-and-aurora-partnership-start-testing-in-texas"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 22
+    images:
+      - url: "https://images.hgmsites.net/hug/toyota-and-aurora-self-driving-car-prototype_100834160_h.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
-secured: "MKiosCM1eijfdFUTf8EKNaQdphblkmDTKakv8gaAllrp+Ry6OU2+Q9E8R/Q8M3TRvU24IVBSOBWiCtEJAqmzSD96ZY6PTKMUFT8H2DePvOwiYNmgam0nY7et1fg9jrkp4FmwaNfI8oMlpv9WPsu65lsfMwNZODIgj/1GxFALHUrm2SEuMDPNPsGHVo2uCYysvLl4g0GYExJZc6JqmhWtuZFr5XROuA4oc9MCrj42ytTQaaBR7XpMAi9HBDdX73cP4r0xj6c+Z1j8+wrAb3F6fCCJZ0p8iZ8EMDdtMVarF05xBrkqUZrgC6km6/VgisrzcjL9Pcm1w/eyoyePNtUtzpCpopGmJQXlzWgQeLCFX6M=;POBOybbqgk2peGqsDGMBaw=="
+secured: "FKUSl1LXJn6/y28AXJ2eKuoYo6Dc+f/pIa2Hfmgx0DoeorUphu0X1CwHvSD7E0i8iOVbLq+zLfy2Sy1BDHroON7qvsVF2D5/WBYJ8Zk0VQjuCBu7wnj9sF5PT6dnZOewxkh5PaptpKUGcq15Ti7T0LfMAY+5uAvXlrLhQAgL4caG+b/rqXFCaTdALQ2a5iPKMf7hpMYLPnp/0tTO7sje3c0rOiv0qc76SOF5j5PMnqS4yRROBffEG06q3LOl2e2lkFu7S3I6z2ntoVREdCP13X2nO1iQ5p3ff2CBAzC+hDg+qcA6bY6hWZPxWPZAPK+8hhx70LRDAFrvVjWCLhxol5pM9TDnax9GxDOSpNA4kOUfEXHH8GUvEkFVhlMRAzUiZh3IB4yJrKAa+7oTaxgdUtZ1gSmXk0DCwi9KzSdCdtIQ03n5rXF3br1k4qLIgueXMpFWdXh4EHwNFuILh942gn1/Kjtqvt7KQfY2UYTQ1QKVprGR2xaPEpMBfDrdtwS6AmaEa/S916gFPHkqm0PHKQ==;Amer49pXuU5aPJVbdbC5gA=="
 ---
 

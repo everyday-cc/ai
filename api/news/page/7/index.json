@@ -2,6 +2,204 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-23-nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office.md",
+      "title": "Nvidia’s Clara Holoscan MGX means to bring high-powered AI to the doctor’s office",
+      "excerpt": "Nvidia, a company best known for its high-powered graphic processing units (GPUs) debuted a platform for the development of AI-powered medical devices. The device, called Clara Holoscan MGX, provides computing power allowing medical sensors to process multiple data streams in parallel,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/23/nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office/",
+      "originalUrl": "https://techcrunch.com/2022/03/23/nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/nvidia-clara-holoscan-mgx-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/23/nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/23/nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office/amp/",
+      "publishedDateTime": "2022-03-23T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-cedars-sinai-says-artificial-intelligence-tool-may-help-predict-heart-attacks.md",
+      "title": "Cedars-Sinai Says Artificial Intelligence Tool May Help Predict Heart Attacks",
+      "excerpt": "Cedars-Sinai researchers developed an artificial-intelligence algorithm that expedites the process to quantify a patient's coronary plaque. And after \"training'' the algorithm, researchers said it accurately predicted the five-year heart attack risk for 1,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbclosangeles.com/news/local/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2854582/",
+      "originalUrl": "https://www.nbclosangeles.com/news/local/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2854582/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbclosangeles.com/2019/09/Silent_Heart_Attacks_55sec_365_large_448x336.jpg?quality=85&strip=all&fit=448%2C336",
+          "width": 448,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbclosangeles.com/news/local/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2854582/?amp",
+      "cdnAmpWebUrl": "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/local/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2854582/?amp",
+      "publishedDateTime": "2022-03-23T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Los Angeles",
+        "domain": "nbclosangeles.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-delphia-review-portfolio-management-meets-machine-learning.md",
+      "title": "Delphia Review: Portfolio Management Meets Machine Learning",
+      "excerpt": "Delphia's portfolios are built around algorithms predicting market movements. The price of admission? Your data. Learn more in our Delphia review.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
+      "originalUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/affiliates/images/Delphia_Review_WBiWR0A.original.png?width=1200&crop=2:1,offset-y0",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure.md",
+      "title": "Microsoft continues its push to convince more game developers to use Azure",
+      "excerpt": "Microsoft is targeting game developers with a new Game Development Virtual Machine and its ID@Azure program, which is generally available as of today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/45b4e96e6d7f77ec3908f32d51722ee3ca4d3a17/2022/03/22/a4f977f6-3561-4d80-bea7-bd0d86039d14/microsoftgamedevtoolsazure.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure/",
+      "publishedDateTime": "2022-03-23T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-emotion-detection-and-recognition-market-worth-433-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
       "title": "Emotion Detection and Recognition Market worth $43.3 billion by 2027 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "The major factors driving the market growth include the rising need for accretion of speech-based emotion detection systems to analyze emotional states, Adoption of IoT, AI, ML, a",
@@ -599,32 +797,32 @@
       "title": "DARKTRACE AI STOPS CYBER-ATTACK EXPLOITING LOG4J VULNERABILITY AT GLOBAL FINANCIAL SERVICES PROVIDER",
       "excerpt": "Darktrace, a global leader in cyber security AI, today announced that a global provider of financial services recently detected and stopped an attacker attempting to leverage a vulnerability in Log4j to deploy malicious code across the organization.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-financial-services-7fbe2c04e075b78ac3ea5be23b90b8f5",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-financial-services-7fbe2c04e075b78ac3ea5be23b90b8f5",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/darktrace-ai-stops-cyber-attack-exploiting-log4j-vulnerability-at-global-financial-services-provider-1031300596",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/darktrace-ai-stops-cyber-attack-exploiting-log4j-vulnerability-at-global-financial-services-provider-1031300596",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T02:30:00-07:00",
+      "publishedDateTime": "2022-03-23T02:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -991,187 +1189,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-training-fundamentals-of-deep-learning-cuda.md",
-      "title": "Training: Fundamentals of Deep Learning & CUDA",
-      "excerpt": "Fundamentals of Deep Learning & CUDA, May 2 nd – May 4 th 2022 Content. Accelerators are ubiquitous in today's HPC landscape, offering much higher performance c",
-      "sourceUrl": null,
-      "webUrl": "https://www.uibk.ac.at/fz-hpc/news/fundamentals-of-deep-learning---cuda.html.en",
-      "originalUrl": "https://www.uibk.ac.at/fz-hpc/news/fundamentals-of-deep-learning---cuda.html.en",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.uibk.ac.at/images/900x-auto/fz-hpc/news/images/nvidia_course_news.png",
-          "width": 900,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "uibk.ac.at",
-        "domain": "uibk.ac.at",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more.md",
-      "title": "Companies are commercializing multimodal AI models to analyze videos and more",
-      "excerpt": "Multimodal AI systems, which can understand the relationships between video, text, audio, and more, are becoming commercialized.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/22/companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more/",
-      "originalUrl": "https://venturebeat.com/2022/03/22/companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/YouTube.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/22/companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more/amp/",
-      "publishedDateTime": "2022-03-22T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-massachusetts-commission-sets-facial-recognition-guidelines.md",
-      "title": "Massachusetts Commission Sets Facial Recognition Guidelines",
-      "excerpt": "Recommendations issued to the state Legislature include banning the technology from being used for live surveillance and that local police be prevented from using it unless explicitly allowed to do so by law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.governing.com/security/massachusetts-commission-sets-facial-recognition-guidelines",
-      "originalUrl": "https://www.governing.com/security/massachusetts-commission-sets-facial-recognition-guidelines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.governing.com/security/massachusetts-commission-sets-facial-recognition-guidelines?_amp=true",
-      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/massachusetts-commission-sets-facial-recognition-guidelines?_amp=true",
-      "publishedDateTime": "2022-03-22T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Governing",
-        "domain": "governing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-openshift-410-red-hat-teams-with-nvidia-to-add-ai-and-machine-learning.md",
-      "title": "OpenShift 4.10: Red Hat teams with Nvidia to add AI and machine learning",
-      "excerpt": "Red Hat is pulling this off by allying with Nvidia. Specifically, this latest OpenShift version is certified to work with NVIDIA AI Enterprise 2.0. Nvidia AI Enterprise is an AI s",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/red-hat-openshift-for-ai/",
-      "originalUrl": "https://www.zdnet.com/article/red-hat-openshift-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ad6d8154638891877cfc5fbbd7c0e66596230e02/2022/03/22/bc702cea-0e8e-4b50-810b-a34d658b876a/gettyimages-924478844-redhat-sign.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/red-hat-openshift-for-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/red-hat-openshift-for-ai/",
-      "publishedDateTime": "2022-03-22T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

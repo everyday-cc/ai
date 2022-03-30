@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-09-nhs-in-england-set-to-trial-a-new-approach-for-ethical-adoption-of-ai-in-healthcare.md",
+      "title": "NHS in England set to trial a new approach for ethical adoption of AI in healthcare",
+      "excerpt": "Biases in artificial intelligence will aim to be eradicated in a world first as the NHS in England trials a new approach to the ethical adoption of AI in healthcare. Algorithmic Impact Assessment (AIA), designed by the Ada Lovelace Institute, will be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220208/NHS-in-England-set-to-trial-a-new-approach-for-ethical-adoption-of-AI-in-healthcare.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220208/NHS-in-England-set-to-trial-a-new-approach-for-ethical-adoption-of-AI-in-healthcare.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220208/NHS-in-England-set-to-trial-a-new-approach-for-ethical-adoption-of-AI-in-healthcare.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220208/NHS-in-England-set-to-trial-a-new-approach-for-ethical-adoption-of-AI-in-healthcare.aspx",
+      "publishedDateTime": "2022-02-08T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-how-artificial-intelligence-and-big-data-can-help-preserve-wildlife.md",
       "title": "How artificial intelligence and big data can help preserve wildlife",
       "excerpt": "The field of animal ecology has entered the era of big data and the Internet of Things. Unprecedented amounts of data are now being collected on wildlife populations, thanks to sophisticated ...",
@@ -1299,49 +1343,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-putting-artificial-intelligence-to-work-in-cancer-diagnosis-and-treatment.md",
-      "title": "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment",
-      "excerpt": "Artificial intelligence's future involvement in healthcare, particularly in the detection and treatment of cancer, is anticipated to take a variety of forms, ranging from identifying a specific form of cancer to evaluating which therapy method may best ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/industry/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment",
-      "originalUrl": "https://www.designnews.com/industry/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/JDW04Yweb.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

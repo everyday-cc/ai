@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Opinion: Intel spices up PC market with Arc GPU launch"
+    excerpt: "Intel officially announced today the Arc A series, which is targeted at laptops. A version of Arc for desktops has been promised for the second quarter,"
+    publishedDateTime: 2022-03-30T18:36:00Z
+    webUrl: "https://www.techspot.com/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/03/2022-03-30-image-43.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tap the Booming Fintech Market With These ETFs"
     excerpt: "The emergence of cutting-edge technologies like AI, cloud computing, big data, the Internet of Things (IoT) and machine learning is driving the fintech space. The growing popularity of smartphones, rising demand for industrial automation and the increased utilization of wireless communication are boosting the transition to digital platforms."
     publishedDateTime: 2022-03-26T11:00:00Z
@@ -80,6 +96,6 @@ related:
       domain: guru3d.com
     quality: 19
 
-secured: "0k7f4Qui3wXbVNNGbUk0RTKzSzs3o5muw7RK0dfsy+XV8dJ17FWGKG+dpy+xrNfBLsILaoy3SBOflplmzyDW+jubL9/7+/fEIjIAjg/pJ3rRe201eF04hgxMuuHI9Ca7xqhsoriSQ+nvnG2zgAVfGUwfH9zKktrZ3r+Wkyh3X54TeLvqHmcXKzH3D1No8RMO+a4e68I75KzgbeXJykZkYC85GDEgDoGtIw/Pm2X6WKH5u0bmUQQeerlpqal8rjlUtzoiqhi2hIbvdMpcU+PfQcU7Olz4tPtBuKQhhZ/HRPWxm3IsNzsqtVweWZPE7lwfTsLKZNWibcXGkfX0agZrvLU32B4RV+zaQyRjYzjLQgM=;lnPnTJM+WAYhgXwJ3ot41g=="
+secured: "bbZfR4930mlgRr5jj4PijUp8FdFgnfP/KgjXjg1BK5hJX4cHD+S65g5B8tH4+gpso/43pBQZ90V0ykZVFcTRbfymPIR6gapF5B6PWUmpSE+j3RhjhcO7lPYY2U4Rusulaw16N5T4Vm8iR8jdUKt3QsYJLTdjbFYud7BP19YNZAc7aNI5+VoqwGJ/tbRFHjqG8AvGGNYNe53v5GDeEmDFgb9m2H8c6NsnZ36iO1kBG5oxcCS6TAYqmdBQnM/92aKkpI82S7vhOi/yS8IsaZeys4xOC/2vw0QPFa60bIGPPc9HjB5fPcjek9HwHwXB2b4TsjEBEt7MF1G8+wMG8JzYvT3aB1QoIBww+YiD25LLZCQpYz6V+X2R/9usYxUNMK2YfwjN4tAL1UUN1YNSyF7VExyb65WPm3sVxgcTffzGpWm/YT37GisDLltyuehgVG2q5fTgol+Iyc+SDIGIzwdYsrCmUSyQ2GplloojrJW7CQQpLxr0ObnXlQL1ekR1S7Hjht0NDVzWTR/xwDfSkSEsmA==;nHVKyrUSWeG9NQqJkGD6kw=="
 ---
 

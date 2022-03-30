@@ -9,7 +9,7 @@ ampWebUrl: "https://www.auto123.com/en/news/amp/toyota-aurora-self-driving-vehic
 cdnAmpWebUrl: "https://www-auto123-com.cdn.ampproject.org/c/s/www.auto123.com/en/news/amp/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,21 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "US authorities are defining safety standards for the self-driving vehicles of tomorrow"
-    excerpt: "Self-driving vehicles will now have their own automotive safety standards, according to the US National Highway Traffic Safety Administration (NHTSA). The goal is to clarify how passenger safety will be ensured in future vehicles without manual controls."
-    publishedDateTime: 2022-03-30T01:49:00Z
-    webUrl: "https://www.malaymail.com/news/drive/2022/03/30/us-authorities-are-defining-safety-standards-for-the-self-driving-vehicles/2050434"
-    ampWebUrl: "https://www.malaymail.com/amp/news/drive/2022/03/30/us-authorities-are-defining-safety-standards-for-the-self-driving-vehicles/2050434"
-    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/drive/2022/03/30/us-authorities-are-defining-safety-standards-for-the-self-driving-vehicles/2050434"
+  - title: "Toyota starts testing self-driving ride-hailing fleet"
+    excerpt: "Toyota, together with Aurora Innovation Inc., is currently testing a fleet of self-driving Sienna units in Texas."
+    publishedDateTime: 2022-03-28T06:37:00Z
+    webUrl: "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410"
+    ampWebUrl: "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp"
+    cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp"
     type: article
     provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 36
+      name: Philkotse
+      domain: philkotse.com
+    quality: 59
     images:
-      - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-03/20220330_auto_car_ETX_01-seo.jpg"
+      - url: "https://img.philkotse.com/2022/03/28/WFFKkBCT/toyota-sienna-aurora-942f_wm.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Mercedes to accept legal responsibility for accidents involving self-driving cars"
+    excerpt: "Mercedes has announced that it will take legal responsibility for any crashes that occur while the self-driving system on any of its cars is engaged."
+    publishedDateTime: 2022-03-28T17:55:00Z
+    webUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/"
+    ampWebUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Sunday Times Driving
+      domain: driving.co.uk
+    quality: 39
+    images:
+      - url: "https://www.driving.co.uk/wp-content/uploads/sites/5/2021/09/SAE-levels-of-automation.jpeg?w=1000"
+        width: 1000
+        height: 680
+        isCached: true
+  - title: "Apple ups driver count for self-driving car tests, signaling increase in program resources"
+    excerpt: "Apple is continuing to slowly expand its autonomous vehicle testing program in California as it has 10 new drivers registered to its crew."
+    publishedDateTime: 2022-03-30T16:07:00Z
+    webUrl: "https://9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/"
+    ampWebUrl: "https://9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 34
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
   - title: "Self-driving cars move closer to approval as Toyota tests cars in USA"
     excerpt: "Japan Toyota Motor Company and Aurora Innovation an American developer of automated driving systems have begun testing an autonomous ride-hailing fleet in Texas"
@@ -71,15 +103,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Exclusive: Beep in talks to deploy self-driving shuttles in downtown Orlando"
-    excerpt: "Beep Inc. has rolled out self-driving shuttles from Wyoming to Georgia — but its next expansion may be in the city where it began: #Orlando. #tech #innovation #autonomousvehicles #AV #localbusiness @B"
-    publishedDateTime: 2022-03-29T18:42:00Z
-    webUrl: "https://www.bizjournals.com/orlando/inno/stories/news/2022/03/29/beep-in-talks-to-deploy-self-driving-shuttles-in-d.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 1
 
 secured: "ursoEIYlLZliMZHWPX3VldQYotJGoHRQcaqFF3wvTGme0LmpD8ewK88ycVsFx2pDlfnZuT4eghVSA4v26VMLa6rE5d6B1Dzh7ZQDtomTUE83OepkamA1H9vrVIMm+5fj1WMvW1/+c3eIeieIz/OCU+sCV6qZkwgOW2bDz/9g8ExnsFJz1SVomCgPOPDVk8vN42TQtTJyaKVNF2OXYR9LFkqhq95Y3CDAwha1GCYBcE8wdnS3M60gJtA4ecFRl4Q2CVbvlZQlzNJM57uWMW4Nn3ZbJbAyuL++jFrrKDMNBVFbrTs4WuE1/CWviSJlUpXaZfLYKMPpgPEpiOn3sISgGtK/ONZFtzWz6RGLUORKmQs=;PcJYADVHsrrhcSa2wgT+EA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-r
 cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,81 @@ images:
     isCached: true
 
 related:
-  - title: "Mercedes will accept liability if its self-driving tech causes crash"
-    excerpt: "While Mercedes says it will accept liability if its new Drive Pilot system caused a crash, it warned that drivers who 'fail to comply with their duty of care' would be legally responsible for collisions."
-    publishedDateTime: 2022-03-28T16:07:00Z
-    webUrl: "https://www.thisismoney.co.uk/money/cars/article-10659461/Mercedes-accept-liability-self-driving-tech-causes-crash.html?mrn_rm=rta"
+  - title: "Toyota starts testing self-driving ride-hailing fleet"
+    excerpt: "Toyota, together with Aurora Innovation Inc., is currently testing a fleet of self-driving Sienna units in Texas."
+    publishedDateTime: 2022-03-28T06:37:00Z
+    webUrl: "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410"
+    ampWebUrl: "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp"
+    cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp"
     type: article
     provider:
-      name: This is Money
-      domain: thisismoney.co.uk
+      name: Philkotse
+      domain: philkotse.com
+    quality: 59
+    images:
+      - url: "https://img.philkotse.com/2022/03/28/WFFKkBCT/toyota-sienna-aurora-942f_wm.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Toyota and Aurora Are Testing Self-Driving Vehicles in Texas"
+    excerpt: "About a year after announcing plans to partner on the development of self-driving vehicles, Toyota and Aurora Innovation have put their prototypes on the road. These are based on"
+    publishedDateTime: 2022-03-29T14:12:00Z
+    webUrl: "https://www.auto123.com/en/news/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
+    ampWebUrl: "https://www.auto123.com/en/news/amp/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
+    cdnAmpWebUrl: "https://www-auto123-com.cdn.ampproject.org/c/s/www.auto123.com/en/news/amp/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
+    type: article
+    provider:
+      name: Auto123
+      domain: auto123.com
+    quality: 44
+    images:
+      - url: "http://picolio.auto123.com/auto123-media/articles/2022/3/69082/toyota-aurora-1fr.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Apple ups driver count for self-driving car tests, signaling increase in program resources"
+    excerpt: "Apple is continuing to slowly expand its autonomous vehicle testing program in California as it has 10 new drivers registered to its crew."
+    publishedDateTime: 2022-03-30T16:07:00Z
+    webUrl: "https://9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/"
+    ampWebUrl: "https://9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 34
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Self-driving cars move closer to approval as Toyota tests cars in USA"
+    excerpt: "Japan Toyota Motor Company and Aurora Innovation an American developer of automated driving systems have begun testing an autonomous ride-hailing fleet in Texas"
+    publishedDateTime: 2022-03-27T03:06:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272425617/self-driving-cars-move-closer-to-approval-as-toyota-tests-cars-in-usa"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 24
     images:
-      - url: "https://i.dailymail.co.uk/1s/2022/03/28/13/55903909-0-image-a-25_1648469712736.jpg"
-        width: 636
-        height: 382
+      - url: "https://cdn.bignewsnetwork.com/cus1648272795281.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Self-driving vans from Toyota and Aurora partnership start testing in Texas"
+    excerpt: "They are testing in the Dallas-Fort Worth area, where Aurora has been testing self-driving semi-trailer trucks since 2020. Some of the conditions the prototypes are faced with inc"
+    publishedDateTime: 2022-03-28T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1135428_self-driving-vans-from-toyota-and-aurora-partnership-start-testing-in-texas"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 22
+    images:
+      - url: "https://images.hgmsites.net/hug/toyota-and-aurora-self-driving-car-prototype_100834160_h.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "B+w7UEdmDk37JLHV+zW33Uw3M4FlCvARufFPY4CClvpya5pMgpaZEKxifQ/B6U807fVdBj4pweMEXDWwQrA+t7+njI+M/FSXQTl9KHYNXqw0zrSkf/OuT43MVxXBplE9QfSDGhWFq6Zyi5kOm39ABpw8B2O18yfJR78jF2NVYxZNMcPbHixCj7WsVAzII87jiKQnN/l6R5abdyfVQvXnMe5A3xPJIUhFgtwjQcVDHbrFNlF/c/cwGnAuyDES6t7Y/1cssjfWrI1K4xSZzJ8Ljf75ibUe/i+yMHNBXgwEQeJSvP34uCIYvFvnucKm3TYh9Dfh52nFo+Gd4jnW3EMBE9gIevtGgzYRN39IBFeFVL70ze9Wv29rYCe8t7ghnMY+MbKqqQIGTmfX5XlINLWoo8sFHkdww/VqbmTXzZaj3HKq2OLM128JAP5iQAkJywFmcFeUMRTcm9jrL/s+vDNf/MFt7hqra/24LiYC4L/b7iu46Al+cmBGOBJzqU59YbIJJ4JJaXrrvpesbkQJkyG8mA==;sUgy6akoxXnlTbPBGFaTew=="

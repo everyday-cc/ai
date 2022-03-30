@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-25-zestyai-welcomes-10m-infusion-from-fintech-firm-brex.md",
+      "title": "Zesty.ai Welcomes $10M Infusion From Fintech Firm Brex",
+      "excerpt": "U.S. Fintech company Brex has provided $10 million in growth capital via venture debt to Zesty.ai, a provider of predictive data analytics in the climate risk space. The financing will help Zesty.ai expand into use cases beyond insurance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/11/US-Dollars-Money-Grant.jpg",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/amp/",
+      "publishedDateTime": "2022-03-25T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-facial-recognition-climate-change-and-dumplings.md",
+      "title": "Facial Recognition, Climate Change, And Dumplings",
+      "excerpt": "Bloomberg Opinion columnist Parmy Olson talks about the dangers of facial recognition technology being introduced in war, and columnist Adam Minter describes the importance of Russian cooperation in slowing climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast",
+      "originalUrl": "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2PXbxrf4nZA/v0/1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-chasing-the-worlds-first-brain-on-chip-ai-computer.md",
       "title": "Chasing The World’s First Brain-on-Chip AI Computer",
       "excerpt": "New project BayesBrain aims to build the world’s first computer that combines brain cells and silicon microchips. Besides being the most intelligent computing system ever, the brain is also very energy efficient.",
@@ -325,8 +420,8 @@
       "title": "Supercomputer to train 176-billion-parameter open-source AI language model",
       "excerpt": "GTC BigScience – a team made up of roughly a thousand developers around the world – has started training its 176-billion-parameter open-source AI language model in a bid to advance research into natural language processing (NLP).",
       "sourceUrl": null,
-      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/03/25/supercomputer_language_ai/",
-      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/03/25/supercomputer_language_ai/",
+      "webUrl": "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=rt-9cs",
+      "originalUrl": "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=rt-9cs",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -393,6 +488,83 @@
       "provider": {
         "name": "IT News Africa",
         "domain": "itnewsafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions.md",
+      "title": "Roche announces collaboration with Bristol Myers Squibb to advance personalised healthcare through digital pathology solutions",
+      "excerpt": "Collaboration builds on commitment to advance personalised healthcare by helping to improve access to new treatment options for patients with solid tumoursAdvances in computation and artificial intell",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions/article_aef67db4-3b8c-5c77-b53c-fb0839f69b2d.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions/article_aef67db4-3b8c-5c77-b53c-fb0839f69b2d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-office-envy-inside-argodesigns-new-hq-robotics-startup-raises-millions.md",
+      "title": "Office Envy: Inside Argodesign's new HQ | Robotics startup raises millions",
+      "excerpt": "Brent: Just before SXSW kicked off a couple weeks back, I had a chance to visit Argodesign's new headquarters, which is just a stone's",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/austin/inno/newsletter/27156396?limit=20&skip=0",
+      "originalUrl": "https://www.bizjournals.com/austin/inno/newsletter/27156396?limit=20&skip=0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -977,204 +1149,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-brex-helps-zestyai-scale-with-10-million-in-venture-debt.md",
-      "title": "Brex Helps Zesty.ai Scale With $10 Million in Venture Debt",
-      "excerpt": "U.S. fintech company Brex, the company reimagining finance for growing businesses, has provided $10 million in growth capital via venture debt to Zesty.ai, a leading provider of predictive data analytics in the climate risk space.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-4315776ed596b0f7bf4505296c3c5cb6",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-4315776ed596b0f7bf4505296c3c5cb6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-small-data-big-impact-making-the-most-of-ai-with-less.md",
-      "title": "Small Data, Big Impact: Making The Most Of AI With Less",
-      "excerpt": "Headlines have reiterated that investments in big data have continued to increase, and the big data story they’re selling us on just keeps getting bigger. But it’s time to burst that bubble. For the last decade,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/small-data-big-impact-making-the-most-of-ai-with-less/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/small-data-big-impact-making-the-most-of-ai-with-less/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623b583afbf6be86c7a2616b/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/small-data-big-impact-making-the-most-of-ai-with-less/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/24/small-data-big-impact-making-the-most-of-ai-with-less/amp/",
-      "publishedDateTime": "2022-03-24T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-chinas-ev-chassis-maker-pix-raises-11m-to-build-its-own-smart-vehicles.md",
-      "title": "China’s EV chassis maker PIX raises $11M to build its own smart vehicles",
-      "excerpt": "The autonomous driving industry in China has enjoyed a boom over the past two years, with both institutional and corporate investors pouring money into a driverless future. Companies thriving in the downstream,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/24/pix-moving-chassis-skateboard-11-million/",
-      "originalUrl": "https://techcrunch.com/2022/03/24/pix-moving-chassis-skateboard-11-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/Pix-moving.jpeg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/24/pix-moving-chassis-skateboard-11-million/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/24/pix-moving-chassis-skateboard-11-million/amp/",
-      "publishedDateTime": "2022-03-24T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-nvidia-announces-3-new-powerful-ai-chips-what-investors-need-to-know.md",
-      "title": "Nvidia Announces 3 New Powerful AI Chips -- What Investors Need to Know",
-      "excerpt": "It's difficult to concisely summarize all of the new products and services announced at the tech company's annual spring GPU Technology Conference (GTC) that kicked off on March 21. But Nvidia's powerful new chip designs and systems aimed at artificial intelligence (AI) are a good place to start.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/03/24/nvidia-new-powerful-ai-chips-what-need-know/",
-      "originalUrl": "https://www.fool.com/investing/2022/03/24/nvidia-new-powerful-ai-chips-what-need-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/671704/nvidia-hopper-architecture-h100-sxm.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Opinion: Intel spices up PC market with Arc GPU launch"
+    excerpt: "Intel officially announced today the Arc A series, which is targeted at laptops. A version of Arc for desktops has been promised for the second quarter,"
+    publishedDateTime: 2022-03-30T18:36:00Z
+    webUrl: "https://www.techspot.com/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/03/2022-03-30-image-43.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Intel teases first Arc A-series desktop GPU ahead of summer launch"
     excerpt: "Intel says it will release its first Arc A-series desktop GPU this summer, and has offered a brief peek at the card itself.."
     publishedDateTime: 2022-03-30T17:13:00Z
@@ -76,6 +92,6 @@ related:
       domain: guru3d.com
     quality: 19
 
-secured: "x9/7ucPxNAxd+rdn2dyVv6lC8PEZTOf2xyYtbP+PACuHEmBwu2GzHDYU80ycZnDHPc5J+RSEJrBiFaQ3Ty3wS1Q/voq4kbu1fWxrpIUTlbduZeLYoYhVTwsY19uVUyBRCapa3aqzAFITTxztqfYIE1Ww/cDR4XWNhFM+zZXi4uBNL0685PverqpFjuw/IuwWnVIidw6UV6+ZqQ8e2SLhBAneRTVKgswYD/gsFjZjcbTkZRkTXPUGtt6WeqMjRyp2ud2aP6u33ZQ9ivilCyd67eMnQy4XQmjm7vQTNQMwg4KFMCQZhRkJFCFxqbtz2HgotIB62BSkUDW8sM928H3pDpOJTZAfWzjEn4V6uCG2hAw=;A30PUaucRVCuXJqTZUQUFQ=="
+secured: "VM+iiNGMJsyQx/Sngmxw6ouTMPzCLXkC97ydXxXHRv+tiXyIGemA2gEW7TuDD2r4kjy20ZVD8s+7ym9j2rpgrYGqGFJP2/1qheseOIgtCjcfi/iZvq+CmRmN7I9EnIYj/Ck5ldx54mjNdeNYicSEsTlojt2W+Ds1j1WZiZowX+65pzxZenPyq2P+ZAVrA4+r33eFdsEbFcuwMZIbVbazth5QLCSoapHxqLlPAMmwgXOkGntPm8MXvRHa+oLsfvKypiMbZQzVkIfDSVR+dNqt+m3nHDmAMAT+xq99UqhSOYUVWPDq9yAaObCJbOduVgGWp41uaAPcOm9msxnWfWqvhOqPcoB5Q9LFYWiX9Yjsxy4bC61HQorWDdYlFO5liKbrTI3eBOUx4hPMsI9DMoTFvC2wv6jdnUMNWWbXK59cZljoXG4uulYQL6sM7M47T0FFrXHTJtLSsd3yapPQBQDhvMmDgBbpxL4TXzTTLul3Nvl5S7E2KUjcF76v8eYvhS9HFXJH3S1GMEeuu+/QudnfHw==;574StEgVQA7ANb6aXOz5kw=="
 ---
 

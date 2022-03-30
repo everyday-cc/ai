@@ -35,6 +35,17 @@ related:
         width: 1138
         height: 640
         isCached: true
+  - title: "Why Nvidia's 2 Smallest Segments Are Its Most Exciting"
+    excerpt: "Nvidia reports revenue under four main segments, and while gaming and the data center contribute the overwhelming majority of sales, the other two segments might be the most exciting. Here's why. If you're an active investor,"
+    publishedDateTime: 2022-03-30T11:10:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-nvidias-2-smallest-segments-are-its-most-exciting"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-nvidias-2-smallest-segments-are-its-most-exciting?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-nvidias-2-smallest-segments-are-its-most-exciting?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "10 Interesting Facts About NVIDIA Hopper H100 GPU"
     excerpt: "NVIDIA unveiled the latest AI accelerator - the H100 Tensor Core GPU. It’s a successor to the wildly successful A100 GPU launched two years ago."
     publishedDateTime: 2022-03-29T03:37:00Z

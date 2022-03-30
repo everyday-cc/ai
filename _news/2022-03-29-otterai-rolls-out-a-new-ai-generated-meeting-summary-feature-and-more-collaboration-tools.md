@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 899
         isCached: true
+  - title: "Scaling up plant-based products with artificial intelligence"
+    excerpt: "The Kraft Heinz Company and food tech start-up TheNotCompany, Inc. announced a joint venture designed to reimagine global food production and advance toward a more sustainable future."
+    publishedDateTime: 2022-03-30T19:07:00Z
+    webUrl: "https://www.foodengineeringmag.com/articles/100171-scaling-up-plant-based-proteins-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Food Engineering
+      domain: foodengineeringmag.com
+    quality: 37
+    images:
+      - url: "https://www.foodengineeringmag.com/ext/resources/eNews/2022/FE_Online-03-22-Heinz-theNOTCompany.jpg?height=635&t=1648667790&width=1200"
+        width: 900
+        height: 550
+        isCached: true
 
 secured: "GzUO6ENBcu25ummyF+3x3j7LNNquwpSEx0P5l4CpNxL9lssBnww1YnZOUlYVVW/1lOfKJxAFRNlTB0hOLvwIrYgb/AETP+GCtVhe65sXEAxYOwao+yAtqhzFx10bNGZrdFSZUFTAWWP/RIZp4Lf6C3hqAvqcarssICAzTLYkC3oVzIck7mxqq/kbJjBh1HKLdzc8GeoZmbjlLhYsFPXBA8u8eKEl84Dz4Io1ZaFPKjNaNoxFUsXlkF4y0ux8ceI0yGJOJmM7kco9ieYDoy2yEahYGYibLiUpEYfY17UtWSKZaTo5mJ/UtJfhV9ucVLHoQtR0oq1nhvyeo6c4+FaGdfUQ3mMtV2k25qO2bAs6PN8=;A9tR7ZNfVv+l2c2pXa9n4w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-mark
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-marketing-tools-that-are-biased/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/623126ba2e129e288514bf95/0x0.jpg?format=jpg&crop=2204,1652,x252,y0,safe&width=1200"
         width: 1200
         height: 899
+        isCached: true
+  - title: "Scaling up plant-based products with artificial intelligence"
+    excerpt: "The Kraft Heinz Company and food tech start-up TheNotCompany, Inc. announced a joint venture designed to reimagine global food production and advance toward a more sustainable future."
+    publishedDateTime: 2022-03-30T19:07:00Z
+    webUrl: "https://www.foodengineeringmag.com/articles/100171-scaling-up-plant-based-proteins-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Food Engineering
+      domain: foodengineeringmag.com
+    quality: 37
+    images:
+      - url: "https://www.foodengineeringmag.com/ext/resources/eNews/2022/FE_Online-03-22-Heinz-theNOTCompany.jpg?height=635&t=1648667790&width=1200"
+        width: 900
+        height: 550
         isCached: true
 
 secured: "C6sdez0Fe6sQsvcK+nxB8TNSLpWi0fgCC5zEUNSJHkAg2bShoMhMGaNc8+sPV6TiB3PxDo8+rW6hkMk1CJfHhduONzkjL5DCfbGw7kUDM9aD2XHKeJMnLGhvm7CfaluWhQ2VL+8k5SZNvhWU/Gt/9WMzULndCPq2hVlIQAyF3AK5MxZ9aibDklWltKpOjuZhr2A65foTefKxEA0GARYiZaDljzFYMeFEWe/RAajNqkDKbjuSTneBCHU1vN4DYgYOPLi/WUOWskQEOGCtCMRW9xI/YEOcQv3X5RxDhpEPoBWFyjnqmUPl+o0LIUl8sP0pmSgaonQXjtF91dFDuML5M0sstWtzKjT5k/ibkH2muaSewxecRwJOdD+JYxDdqA7sYWtDVwR++s/8sCPvB+/aoqxV5UvwGkVhcMdiBZ6ODuDsrftuVQ2tKv22rtPV2kd3CewyM4SzBPu54iiZWIOk27MY8PjMjGfL/JBIgIN0MXwF3YDNOfZJJJ7JwoENdNYJtr4AHwuM7jsJq9z1Y0ivxg==;HZZEHaaaQqNWAX7u3SbkZA=="

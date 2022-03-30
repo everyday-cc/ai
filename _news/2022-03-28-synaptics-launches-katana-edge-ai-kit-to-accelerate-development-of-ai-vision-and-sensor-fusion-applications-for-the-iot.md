@@ -67,6 +67,20 @@ related:
         width: 498
         height: 280
         isCached: true
+  - title: "Syntiant raises $55M to bring AI to any battery-powered device"
+    excerpt: "The investment in Syntiant is led by partner Renesas Electronics Corporation, Millennium Technology Value Partners, and Mirae Asset Capital."
+    publishedDateTime: 2022-03-30T18:12:00Z
+    webUrl: "https://www.biometricupdate.com/202203/syntiant-raises-55m-to-bring-ai-to-any-battery-powered-device"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/15161907/market-growth-expansion-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "0tWJK461pgR0mj+37O2V3z8+ujjcG7S7MN0vcuwAuwHFTmj5pAKAoL1JouSlJS6FWpFyTHnkj7lo8s1C0JY/l3RwIS+G1brAXOLQ3gCrQjxd5vIeaJOJvM4SYOaK6Lk2th14++tj2rPUvoCAO5ziUHYtxcx+8n7V+eMWetV+HhYYy/kjqiGLr8ZDgzvXTsteamXnhzHuD9alLS1C9dZKl5MjZG3jW0TcDwnWU7aNc8Z6j99u1cqO6Va1uWGK2tWKOvbSqtO9s4SWl1BWeU6M+uG4fpjXU3ffk9Mq3q6xudbTXdtVo0yQM88kNUubxWMqXUBZv1wfwIeVyLXYO3kWC6UJ73ZpS8ZL8NeYuM9RSYs=;NBP/1KuaRadfiQqqJPUf2g=="
 ---

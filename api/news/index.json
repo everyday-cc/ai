@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-31-waymo-expands-self-driving-car-trials-to-san-francisco.md",
+      "title": "Waymo Expands Self-Driving Car Trials to San Francisco",
+      "excerpt": "Way-mo, way-mo, off to work they go. Waymo employees in San Francisco will be able to catch a ride to work from its fleet of self-driving, all-electric Jaguar I-PACE cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco",
+      "originalUrl": "https://www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00sHEbCBZPkX4vW3zeodaKj-1.fit_lim.size_1200x630.v1648664014.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco?amp=true",
+      "publishedDateTime": "2022-03-30T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure.md",
       "title": "Chip Design Moves To The Cloud With Synopsys And Microsoft Azure",
       "excerpt": "The two companies have collaborated to enable engineers to design chips using cloud resources and dynamic licensing. Digital chips are the new lifeblood for nearly every human endeavor and currency for innovation. But design a chip is a very expensive ...",
@@ -200,49 +252,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-30-waymos-self-driving-ride-hailing-service-coming-to-san-francisco.md",
-      "title": "Waymo’s self-driving ride-hailing service coming to San Francisco",
-      "excerpt": "The autonomous vehicle unit of Alphabet, Google’s parent company, said Wednesday that it started carrying employees in electric Jaguar I-Pace SUVs without human backup drivers. Previously the ...",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/news/california/waymos-self-driving-ride-hailing-service-coming-to-san-francisco/",
-      "originalUrl": "https://ktla.com/news/california/waymos-self-driving-ride-hailing-service-coming-to-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktla.com/wp-content/uploads/sites/4/2022/03/GettyImages-1142591427.jpg?w=1280",
-          "width": 1280,
-          "height": 838,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ktla.com/news/california/waymos-self-driving-ride-hailing-service-coming-to-san-francisco/amp/",
-      "cdnAmpWebUrl": "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/waymos-self-driving-ride-hailing-service-coming-to-san-francisco/amp/",
-      "publishedDateTime": "2022-03-30T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-30-intel-launches-arc-graphics-chips-for-gaming-laptops.md",
       "title": "Intel launches Arc graphics chips for gaming laptops",
       "excerpt": "It feels like ages ago when Intel first started working on its discrete graphics chips, which will ship soon under the Intel Arc brand name.",
@@ -303,7 +312,7 @@
       "originalUrl": "https://www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -355,7 +364,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/30/reputation-launches-ai-platform-to-provide-enterprises-with-competitive-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -805,6 +814,57 @@
       ]
     },
     {
+      "path": "_news/2022-03-30-builderai-raises-100m-series-c-led-by-insight-partners-to-scale-up-its-software-automation.md",
+      "title": "Builder.ai raises $100M Series C led by Insight Partners to scale up its software automation",
+      "excerpt": "When we started covering Builder.ai a few years ago, the startup was tapping into a new wave of businesses wanting their own native apps. The previous wave of agency-built and outsourced apps was waining,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/30/builder-ai-raises-100m-series-c-led-by-insight-partners-to-scale-up-its-software-automation/",
+      "originalUrl": "https://techcrunch.com/2022/03/30/builder-ai-raises-100m-series-c-led-by-insight-partners-to-scale-up-its-software-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/builder-studio-store.jpg?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/30/builder-ai-raises-100m-series-c-led-by-insight-partners-to-scale-up-its-software-automation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/30/builder-ai-raises-100m-series-c-led-by-insight-partners-to-scale-up-its-software-automation/amp/",
+      "publishedDateTime": "2022-03-30T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-kt-launches-ai-quarantine-robot.md",
       "title": "KT launches AI quarantine robot",
       "excerpt": "KT has launched an artificial intelligence (AI) quarantine robot intended for use at hospitals and other large facilities receiving many visitors. With quarantine robots being just the start of things to come,",
@@ -1181,58 +1241,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-otterai-which-powers-speech-transcription-with-ai-unveils-updates.md",
-      "title": "Otter.ai, which powers speech transcription with AI, unveils updates",
-      "excerpt": "The new Otter.ai hopes to streamline communication with what the company claims is \"the first use of conversational AI to power meetings.\"",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/29/otter-ai-which-powers-speech-transcription-with-ai-unveils-updates/",
-      "originalUrl": "https://venturebeat.com/2022/03/29/otter-ai-which-powers-speech-transcription-with-ai-unveils-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1367728606-e1645809619993.jpg?fit=800%2C547&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/29/otter-ai-which-powers-speech-transcription-with-ai-unveils-updates/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/otter-ai-which-powers-speech-transcription-with-ai-unveils-updates/amp/",
-      "publishedDateTime": "2022-03-29T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

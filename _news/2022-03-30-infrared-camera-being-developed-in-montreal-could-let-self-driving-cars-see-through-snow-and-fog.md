@@ -59,20 +59,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Six Things You Don't Know About Self-Driving Cars"
-    excerpt: "There are no self-driving cars for sale today; The first true self-driving cars will be taxis and big rigs; Self-driving systems will have remote"
-    publishedDateTime: 2022-03-26T01:35:00Z
-    webUrl: "https://www.capitalone.com/cars/learn/finding-the-right-car/six-things-you-dont-know-about-selfdriving-cars/1378"
-    type: article
-    provider:
-      name: Capital One
-      domain: capitalone.com
-    quality: 24
-    images:
-      - url: "https://ecm.capitalone.com/Auto/assets/images/1378-hero-six-things-you-dont-know-about-self-driving-cars.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "7Rm1N+U+yrTVguLSeYHGj1uTPEGYLB+nKq+mXTmgEQsbMg5NpeQKjSxjZZBd1vFfiTUi0oLSwkY/bwqINzeF8EX/vu79RMfyUMTzpjmPq+lq0FDjj9q5CFvayykzVvkOV2DRgptUD5LWsR9qrhvuutL14dhByezhaB6l1MEQ5ArgwYyly9fj6I08TnIV7qeae9dVUZnVtsO+mwTjAyppMUu13uTZfxMlDYiBJMYVBD+u7s1chVfiJzkqMYa7xfW0WaV1TzylZ+wegN2QMdWWX+O1LUaqmLtDTjku+ESgjBij1SShJWDkYok4kvcvMit8LSbLAlYNP5e+pXHXGPMn5JFSi+AtAAht3V7d8s3vTsQiyBGxak9cyzJhuJNK9o7UCUng+eoRzQI0AhrzkNgkZXH83pTeOPn9o8iYE6PgF8D0bdbKgt4K2Gp2iR6QZlIcPQcsV1Nbt4cV9hmLjlQ4sGzEOY4Nyz8XMu0cIAMyKoCo23wuB6Jv4Pr76o5ApdcvYIiZsjUGgqxp9jXvWNWpvw==;cqJr5lQ2rbtaFbHH1i8Szw=="
 ---

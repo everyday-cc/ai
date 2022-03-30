@@ -1,0 +1,101 @@
+---
+category: news
+title: "Opinion: Intel spices up PC market with Arc GPU launch"
+excerpt: "Intel officially announced today the Arc A series, which is targeted at laptops. A version of Arc for desktops has been promised for the second quarter,"
+publishedDateTime: 2022-03-30T18:36:00Z
+originalUrl: "https://www.techspot.com/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html"
+webUrl: "https://www.techspot.com/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html"
+ampWebUrl: "https://www.techspot.com/amp/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html"
+cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html"
+type: article
+quality: 89
+heat: -1
+published: false
+
+provider:
+  name: TechSpot
+  domain: techspot.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://static.techspot.com/images2/news/bigimage/2022/03/2022-03-30-image-43.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "Intel ARC Invades The Dedicated GPU Market With Truly Exciting Features"
+    excerpt: "Everything you need to know about Intel Arc A-Series graphics. Plus: How Team Blue is doing things differently than AMD and Nvidia, while still catering to both gamers and content creators."
+    publishedDateTime: 2022-03-30T14:59:00Z
+    webUrl: "https://www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/"
+    ampWebUrl: "https://www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62443dfb55a2f5a5444ab6ab/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Intel teases first Arc A-series desktop GPU ahead of summer launch"
+    excerpt: "Intel says it will release its first Arc A-series desktop GPU this summer, and has offered a brief peek at the card itself.."
+    publishedDateTime: 2022-03-30T17:13:00Z
+    webUrl: "https://www.engadget.com/intel-arc-a-series-limited-edition-desktop-gpu-release-date-163842328.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 69
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-03/739df840-b044-11ec-bfba-0b813432a84a"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Tap the Booming Fintech Market With These ETFs"
+    excerpt: "The emergence of cutting-edge technologies like AI, cloud computing, big data, the Internet of Things (IoT) and machine learning is driving the fintech space. The growing popularity of smartphones, rising demand for industrial automation and the increased utilization of wireless communication are boosting the transition to digital platforms."
+    publishedDateTime: 2022-03-26T11:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs"
+    ampWebUrl: "https://www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "Intel shares first look at Arc A-series desktop GPU"
+    excerpt: "After a delay into Q2 2022, INtel has finally shared a first look at its upcoming line of desktop GPUs with a peek at a limited edition card."
+    publishedDateTime: 2022-03-30T17:30:00Z
+    webUrl: "https://dotesports.com/hardware/news/intel-shares-first-look-at-arc-a-series-desktop-gpu"
+    type: article
+    provider:
+      name: Dot Esports
+      domain: dotesports.com
+    quality: 39
+    images:
+      - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/03/30115623/Intel-Arc-A-Series-Limited-Edition-768x399.jpg"
+        width: 768
+        height: 399
+        isCached: true
+  - title: "The Intel Arc Alchemist GPU Shows Off in a New Blender Benchmark"
+    excerpt: "Intel Graphics has released a video that shows the 3D rendering program Blender being accelerated on an Intel Arc Alchemist"
+    publishedDateTime: 2022-03-28T06:53:00Z
+    webUrl: "https://www.guru3d.com/news-story/the-intel-arc-alchemist-gpu-shows-off-in-a-new-blender-benchmark.html"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 19
+
+secured: "hg1YgXU4pMWaTiVH0vZ9tl5r/q4oZ9eMtBFfQfg1VMjLH1qW6+a/T548W447Yalf5OPCdkOnQkfDWp54U8w/WOm4S+mzqjo7Wo7oloyIsDNNyvvFV2Ly3e7Es109kJIfdrOMifsJ9JZKe50UyAb4PsOQw8MJokDcJaOJY9gfOpxkexXD+jlUUqNEF6h9/Obsn1nee2i68omhiUqeXzI4tjRrhUdzn0ZPo+P5taU6xGH5i23dzZYnnnlWxqh3J0CbcKQ75/nJAbm4AQGmGWuI3OuTEVPyjdQrrfT3d/6DielMhpuFgxcAyKesMGtRL+pPEadhm4ebysc4TSpkOqEiumuLywfT2qdsQyFMogOaZcI=;7UcfN/LXcGAtKaZnEy2JvQ=="
+---
+

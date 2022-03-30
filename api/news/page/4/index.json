@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-27-mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm.md",
+      "title": "MP govt to start AI course in schools, vet telemedicine facility: CM",
+      "excerpt": "The Madhya Pradesh government will start a course in Artificial Intelligence for students from class 8, which will be the first such initiative in the country, CM Shivraj Singh Chouhan said on Sunday",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/current-affairs/mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm-122032700740_1.html",
+      "originalUrl": "https://www.business-standard.com/article/current-affairs/mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm-122032700740_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-10/04/full/1601810115-3042.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/current-affairs/mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm-122032700740_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm-122032700740_1.html",
+      "publishedDateTime": "2022-03-27T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-27-this-is-what-makes-deep-learning-so-powerful.md",
+      "title": "This is what makes deep learning so powerful",
+      "excerpt": "Deep learning's availability of large data and compute power makes it far better than any of the classical machine learning algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/27/this-is-what-makes-deep-learning-so-powerful/",
+      "originalUrl": "https://venturebeat.com/2022/03/27/this-is-what-makes-deep-learning-so-powerful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1282957835-e1647956083281.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/27/this-is-what-makes-deep-learning-so-powerful/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/27/this-is-what-makes-deep-learning-so-powerful/amp/",
+      "publishedDateTime": "2022-03-27T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-27-facial-scanning-coming-to-an-airport-near-you-raising-some-concerns.md",
       "title": "Facial scanning coming to an airport near you, raising some concerns",
       "excerpt": "It’s only a matter of time before New England air travelers join others across the country in experiencing a new airport screening method that seems ripped straight from the pages of Philip K.",
@@ -104,7 +198,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -208,7 +302,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-marketing-tools-that-are-biased/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1127,101 +1221,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-zestyai-welcomes-10m-infusion-from-fintech-firm-brex.md",
-      "title": "Zesty.ai Welcomes $10M Infusion From Fintech Firm Brex",
-      "excerpt": "U.S. Fintech company Brex has provided $10 million in growth capital via venture debt to Zesty.ai, a provider of predictive data analytics in the climate risk space. The financing will help Zesty.ai expand into use cases beyond insurance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/11/US-Dollars-Money-Grant.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/amp/",
-      "publishedDateTime": "2022-03-25T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-facial-recognition-climate-change-and-dumplings.md",
-      "title": "Facial Recognition, Climate Change, And Dumplings",
-      "excerpt": "Bloomberg Opinion columnist Parmy Olson talks about the dangers of facial recognition technology being introduced in war, and columnist Adam Minter describes the importance of Russian cooperation in slowing climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast",
-      "originalUrl": "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2PXbxrf4nZA/v0/1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-25T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
