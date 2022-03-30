@@ -40,15 +40,34 @@ related:
         width: 1024
         height: 575
         isCached: true
-  - title: "Builder.ai Raises $100M Series C Funding Led by Global Software Investor Insight Partners"
-    excerpt: "Builder.ai® today announced an investment of $100 million in a Series C funding round led by Insight Partners, a New York-based global venture capital and private equity firm. The round, which brings the company's total funding to $195 million across three total rounds,"
-    publishedDateTime: 2022-03-30T09:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/builder-ai-raises-100m-series-c-funding-led-by-global-software-investor-insight-partners-1031317964"
+  - title: "Builder.ai Raises $100M in Series C Funding"
+    excerpt: "Builder.ai, a London, UK-based provider of an AI-powered low-code/no-code app development platform, raised $100M in Series C funding"
+    publishedDateTime: 2022-03-30T21:28:00Z
+    webUrl: "https://www.finsmes.com/2022/03/builder-ai-raises-100m-in-series-c-funding.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/03/builder_ai.jpeg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Builder.ai Raises $100M Series C Funding Led by Global Software Investor Insight Partners"
+    excerpt: "Builder.ai ® today announced an investment of $100 million in a Series C funding round led by Insight Partners, a New York-based global venture capital and private equity firm. The round, which brings the company’s total funding to $195 million across three total rounds,"
+    publishedDateTime: 2022-03-30T09:01:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-software-london-9671bbe31dc579ba189380fa2b9f0b9e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "NddTG3qkUPr2cMMvaNDG9KarOyMWfAX9XVF2XnoVIQAfix31zK1eOX6mu6nX2HfBlauqV1EaECNZiONxemDeQDMFkd5wtzWf9NnGLrRmSiGuBU9Hv3atFOdpxyQUOE7mqShCKVQOIo+EdNMKEuKP4HMKHwmI2yfuGw7d2jLaAzPZR3h/zH05gXBvrDbDIAct34UO47X8DhKjKxAGs622qsuKLJNA/rYSkkdyVvYAujV4PEUmxvc8sZHcX4aWXUOmP1TGVxjMFAEcfnRPN8ruyQBEnXq5+hw7RMdUrzWKcObikw+DeEqXnbr7iGUg8mQ3uAmFXpC6XJ4eCL8I4ykWPNZp9W2I20PztWJu4quqfYkn/Ufu8gQKRSYWkjW9aFS0epSSONw9toI6vYjFkmGnC/PUUXUNhUidIXjZqzYX+FamN7vVIZpXh1LIPZC30FPMnJcmvPL489VBJCkQ1tFuQmj4Wm+YyLG5ZQS2M8FkdPmyHl96y1AB6o5hwCzfob3E1XeRnP3brmcGJ3F293z0rw==;Vxz6ctrGtDi62nwPWuPQoA=="
 ---

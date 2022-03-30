@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco?amp=true"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Waymo to expand autonomous vehicle rides to San Francisco"
+    excerpt: "Waymo's self-driving ride-hailing service is branching out to San Francisco. The autonomous vehicle unit of Alphabet, Google's parent company, said Wednesday that it Previously the company had been testing the vehicles with a safety driver behind the wheel just in case."
+    publishedDateTime: 2022-03-30T20:40:00Z
+    webUrl: "https://www.seattlepi.com/business/article/Waymo-to-expand-autonomous-vehicle-rides-to-San-17038901.php"
+    ampWebUrl: "https://www.seattlepi.com/business/amp/Waymo-to-expand-autonomous-vehicle-rides-to-San-17038901.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/business/amp/Waymo-to-expand-autonomous-vehicle-rides-to-San-17038901.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 59
+    images:
+      - url: "https://s.hdnux.com/photos/01/24/77/63/22281419/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Waymo to test autonomous vehicles in San Francisco"
     excerpt: "Google spinoff Waymo said Wednesday it has started testing its fully automated all-electric vehicles around San Francisco without a human safety driver."
     publishedDateTime: 2022-03-30T17:18:00Z
@@ -80,6 +96,6 @@ related:
         height: 532
         isCached: true
 
-secured: "TfuOGDuWlguGYE322raawWNPwHnKxEsjZGzWdT8gqSXUQxd1B8yTwtBlJXFA2sjs0DmVkDNUcbT9CbxhGjCPD9cAEf6zbMmJdm6va47USQYamssPTwKGCvIwxn43jNd1P7pD6z8D0ifqviYfOWMI4g3m33lfhhaS5JwCxuwj2+SDdK3XajCGq2UEXIKyLc7Aqpa8OSlufQYestkzER/B2xq1P3Z+reDQJcBuUNON+OYoQ9cgV9iW3DDxosHD0kKpzUQ6PQlMwHlbp4ZEFZ9pijDef28o8K8567MB0igvrTvxJpkP5xhQRm5pqhzHksONlEz8Yy/8lfjPR3nwHTJi21bpQnh5cOCQXXanScuKZTc=;jwuf6j8eFPaJXaObrH8/rQ=="
+secured: "1RZMdnzkJ83gIke1jGB3sghSn3JM7dr7LeBY4EIqKF4or4uipL8tkawbKavtIobEA4eS5gvDqiz4Opmidmj1d+qMQZf1Z+iXoiW1T38v+v+jFkuVqc3qNfn5oPhJNtP0xRWsm2nRXK0A6r74HhSBLz9ZV/kMyYiNIKnUGB8wI2wc4IkRoGObtAnu/3WwntbezIVqgvzi3x0oBcs97jyFCGyfZcWQ8E7WZrHsOtJt7CQCAIT62xegq3ukIVXK84+98+vPDBDVKTZCPIpFpqAMZY0z71H8AKej+nTXoqzYE9dWoxHTsdWVdNodpe3oa5MTSNzyCminrkpy+tZ3HeXmJbrmTnNGhmTXzAoUXOG/jpqLMLNbdhoR+knAzkYfXW1+yGEYGaLkgAxvHlDJcB6FCTgKYL7QZUn8ZyFswxEmC/kcT/ftOZH/7P+J8RNApaED/MFNWT+2oUwIrImhAU2HYc9jOkRRo5HAaMSklGUX0xu+b4F6iFR3Y/KNm8UyAGEneBdxAtIoNuo72pm0/HOtOQ==;lNfTJoIIdfgLV9FWtEnF+A=="
 ---
 

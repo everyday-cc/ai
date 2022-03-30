@@ -24,6 +24,22 @@ images:
     height: 436
     isCached: true
 
+related:
+  - title: "Investing in Fully Automated Robot Waste Sorting Plants"
+    excerpt: "Customers, consumers and regulators alike are calling for higher recycling rates and more ambitious circular economy goals across the world. As a result,"
+    publishedDateTime: 2022-03-30T18:42:00Z
+    webUrl: "https://wasteadvantagemag.com/investing-in-fully-automated-robot-waste-sorting-plants/"
+    type: article
+    provider:
+      name: Waste Advantage Magazine
+      domain: wasteadvantagemag.com
+    quality: 39
+    images:
+      - url: "https://wasteadvantagemag.com/wp-content/uploads/2022/03/HP_picking_plastic-2.png"
+        width: 750
+        height: 500
+        isCached: true
+
 secured: "8p/wflTYRR+xKGqMbD8gkVC1b+9SqRMjgebwOQlXlwmkMBxNAWEwYSTfra1gJsjhhxYAoMxW6eZds7xntdh+KyvqmYqbu132LK0PNmfwuEoruSnjIyBxmGPLr86DcHV4u0wI6jVhBVEgJyyylYMuZoWtB1DUoxmP0gsx0+vmK1rYhtNVgZOwtiO2N4zfVjhGXL9YaeguBsAB3OKGtKtJgIR2sTDg07RTU63Kw4yonl0KmMRNynQQjTTBDhvd42tdpVi/zs2j/E4VyImC93jeECEqzHu+PVMxsLkrkczN65kHFWHoJUoGGNJ6b16zlr8c0tWeu7VJmvuADMIvC8KNavDV3a9Vzq2CZArLe70jEav91ENaRsxulTY9eexA1M/KZw+btff7unB1FZUGeOyAQwqQcn9BQIH3KsxUaCAomrqxcqvs4LXDDvMXVueXYr6tcBc/XY7WD+cleHf8o2okfFDe8KJk3AusjsiybH6GWuuQolcNo7+X4wSq/xu2VA5xa4e/vn0UfgOIe1GSkkmtcw==;V5WZonQAS3nmoL5BwtbvPQ=="
 ---
 

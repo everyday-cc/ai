@@ -8,9 +8,9 @@ webUrl: "https://techxplore.com/news/2022-03-detox-potentially-offensive-languag
 ampWebUrl: "https://techxplore.com/news/2022-03-detox-potentially-offensive-language-ai.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-detox-potentially-offensive-language-ai.amp"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: techxplore
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/how-to-detox-potential.jpg"
@@ -42,6 +43,6 @@ related:
         height: 260
         isCached: true
 
-secured: "JD+NmhI9P7nO3RdOhxI8NTYz/lSw9cxgXj6V9oC5xY2AXMOd0QxbMvrmKC1f8WMG88qP86rxJKtUYQHUhgQqztWz59sDbMlvYldFokQ0akTfsIPU647UrmpPudvc7QkQGPvLv/JpyOyVuCNQmQbsT/xNGmuAk6VAwmqtt3L4A/3Sv6KwU/Yiqplj+bekQAThm49iy4IZUU42IH1nLOHN+brsRMaIsvhaqiZ6ZmDf+dxVdc4au5nPauQP7Hqr32aWXD0qB8MK2FDTAcTk35q4LUyGSlfPPJ5PhDvH/8PMBaB3bC/ojQ2FUPULB5abrBqaSB1hPcjkk97/VCVIR07PqgsBLBvVuoaJIZ8cfaiyaOU=;yW61/OLgSZzxNkz9vE5hRw=="
+secured: "pQLvFskj2ljNH92m5Akldxqtnirdy1dv5aZNKaPrk61RTksoKu5dGkHJKcEzPHC49N2tX7BaIDSPMgYKIQFG3VjyGGYVNIxNseOv9qMLpqqWUZW+rLQ3U6YBq0uNNep9InCUoNWNxMorr1kcUpM0Xo3EXoiGe5Wi1/0+5ICQaYEU3jXlbMT3lUnEiwNKbc9o7a0vsGkK5YRWouMmjDTR6X2C43l0WapUVbtjW55G91RXS5bAUPxPDmykl1GetOCcLqZv5XgXeXYPHJbiAeFjlOgUfqrLeFd6AQvxz4DZJsVzqigec1+trvDpuomptvEmxk5llDDXYyRCJAXpppYgWcoFFTRY3YSRqHOtiFSHLtht6fYZn3zbjGvEMwrO3Mki/lrXOUpDD4wIMyAHOU9YtRHEORDUzxt2l2rBTp7eUeSSGsmApQbCrrtqJeJqj279YoTqVwHw37lnXnP05uHOPy3/k/eHIW/0OQBNrKnosnhqyOGYrU++rD4eqEzOd2JoHtMWA6mXL7gl8Wb+EU9bxg==;I7DNHC8mT8pHx5uqZ3iaMw=="
 ---
 

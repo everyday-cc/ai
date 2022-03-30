@@ -3,8 +3,8 @@ category: news
 title: "Insider Q&A: Ex-Google AI skeptic Timnit Gebru starts anew"
 excerpt: "When she co-led Google's Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry's approach to artificial intelligence. That was before Google pushed her out of the company more than a year ago."
 publishedDateTime: 2022-03-26T10:00:00Z
-originalUrl: "https://apnews.com/79cd13b50b51452d29963490b96815bd"
-webUrl: "https://apnews.com/79cd13b50b51452d29963490b96815bd"
+originalUrl: "https://apnews.com/article/technology-business-artificial-intelligence-79cd13b50b51452d29963490b96815bd"
+webUrl: "https://apnews.com/article/technology-business-artificial-intelligence-79cd13b50b51452d29963490b96815bd"
 type: article
 quality: 39
 heat: -1
@@ -73,6 +73,6 @@ related:
       domain: japantoday.com
     quality: 19
 
-secured: "AOSc5RJUdzx/oSpO07co8RmI0qob7V9+yYARjF6STNMMSvsyyDTJCWc8GdQqp8xrp8NRnV9qqJLCTQPRCZzDN/OtoYOO7BZ3Gmo5IDOxRLVoghIv2uveWfovhHDEgu0T4ttF3fIm4Lyxmw0rKXd7yBDUopHlpmS/EFNavwAuYuXjq5QhxdP/vW8pR2h96IQkHXg/Pybawh0TdVftk/3gmy5lKR61OR6wyLl8z5XQQSfExEt9zXjDFlnxUn3anejvuR7oR5rmhCxh+L9Inhkq6yinZWdAmgFqYIraTd99lgXj5pm4Dg11olV5kPJxXsTt6tIL9vV5tKmsvFi44nS3YWg5KoqJujpLth9yellumMeq/UKsUqPhEcKLq76Y/O/Y0z/+v35wTzSofT9H7NOhiCX9ljJWUYiiVkpccq7xaK/t8+gOdLx4q7bhBqkcPXzfYO1P+fu+7P/qh5PU56E8BHx76eBzSZtRdoij03SS7sqp4szWgaQMLxO/4X0nh+CWzAB61E+sfPb1M5CGhJvoFA==;SvSmrRsoxEz5y1IkYzu9Tw=="
+secured: "SwUEHVsB8o1brb9SepP8tZmBUztgVC+vZDNYqP4Fq2gNafjHsk+EYZHTFLzw2Hdn4gckIornKbozp3nf4EPJ+fzCdRFDepyXq1K38aMI+6Cpm3R1MLdOFJNW1M4GEChHIz6083Mz6P+rXfcw76nRakRwJzxNolflZU8qr+K41uFdALOCW1psghI0mlNxzLBVrs5mCcb1itdaiBwyhqfUtaVeTzlpNVSq3s17lltKahnOt/f/Ko9PqJwgS6uw5SAd8j1tRn3wCnmkBOWyvvdjGLQ7ywrIwaO+hYKswkasg6yDlhwb/vIGXrWeTQpPVoO/djoLWgoqeUsnkOKgHwzV31A1ae7BMfIfj3omABNqH8o=;e81xtfPfZ5ZPiLJV+XD+Gw=="
 ---
 

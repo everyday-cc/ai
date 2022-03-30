@@ -75,6 +75,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Waymo to expand autonomous vehicle rides to San Francisco"
+    excerpt: "Waymo's self-driving ride-hailing service is branching out to San Francisco. The autonomous vehicle unit of Alphabet, Google's parent company, said Wednesday that it Previously the company had been testing the vehicles with a safety driver behind the wheel just in case."
+    publishedDateTime: 2022-03-30T20:40:00Z
+    webUrl: "https://www.seattlepi.com/business/article/Waymo-to-expand-autonomous-vehicle-rides-to-San-17038901.php"
+    ampWebUrl: "https://www.seattlepi.com/business/amp/Waymo-to-expand-autonomous-vehicle-rides-to-San-17038901.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/business/amp/Waymo-to-expand-autonomous-vehicle-rides-to-San-17038901.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 59
+    images:
+      - url: "https://s.hdnux.com/photos/01/24/77/63/22281419/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "/jXLdr13xg/fiK8EkWDTLZK2aNiE/Bmg1eakzh63cK8ucOh/atuMh1vyTaSQpXEBJZwAkNbN1KEEs5KTOIi/UNd5gpHW+3AodBrAi5hJs2COe5uFiSBsK8ahJranrQFKfm7qQkfzi3ffHVYsFM73SfHi4Z/CFO7aKAORdmeKkn4kRQ55dmgeUQ8hXARH4PxYZKlbnGAK7gQBBHY/W4N2vWjPraWZrVNrsEzENVMoJeDE5RH7d+rdaDrb/4XGd5/6132sbYo/DyBLltZsqkxMc0JvbLAGCld4ElAOA3onafljf23BhPzLDaqRYoV/HNcBDLWfmR00oqaxKDViNKgxjFBUbFDIskikMwAk0aZdZ38=;n74fo3RTd6d9RZPVaAQ4LA=="
 ---

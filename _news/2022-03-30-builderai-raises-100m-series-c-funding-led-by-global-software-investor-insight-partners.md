@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Builder.ai Raises $100M Series C Funding Led by Global Software Investor Insight Partners"
-excerpt: "Builder.ai® today announced an investment of $100 million in a Series C funding round led by Insight Partners, a New York-based global venture capital and private equity firm. The round, which brings the company's total funding to $195 million across three total rounds,"
-publishedDateTime: 2022-03-30T09:05:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/builder-ai-raises-100m-series-c-funding-led-by-global-software-investor-insight-partners-1031317964"
-webUrl: "https://markets.businessinsider.com/news/stocks/builder-ai-raises-100m-series-c-funding-led-by-global-software-investor-insight-partners-1031317964"
+excerpt: "Builder.ai ® today announced an investment of $100 million in a Series C funding round led by Insight Partners, a New York-based global venture capital and private equity firm. The round, which brings the company’s total funding to $195 million across three total rounds,"
+publishedDateTime: 2022-03-30T09:01:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-software-london-9671bbe31dc579ba189380fa2b9f0b9e"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-software-london-9671bbe31dc579ba189380fa2b9f0b9e"
 type: article
-quality: 38
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Builder.ai raises $100M Series C led by Insight Partners to scale up its software automation"
@@ -52,7 +54,21 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Builder.ai Raises $100M in Series C Funding"
+    excerpt: "Builder.ai, a London, UK-based provider of an AI-powered low-code/no-code app development platform, raised $100M in Series C funding"
+    publishedDateTime: 2022-03-30T21:28:00Z
+    webUrl: "https://www.finsmes.com/2022/03/builder-ai-raises-100m-in-series-c-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/03/builder_ai.jpeg"
+        width: 400
+        height: 400
+        isCached: true
 
-secured: "kvHVMEzcP5xUixKwEJmbhjCIFjfLABac88nLoV78nw6P1zBmmcMewDQul6fYs0cOJh0kOWOiGpHC6cYHC/NBmmWIsbcc7tnQbkgu5srLrHAWSFVwQndTiwngcaKEGw5IopvgjZGPyByQ+oTLZhBWW7EcVHQ8H6sEaUsSUrXaNmMUZTmQzLW8TL0FddkZyLhczksKAOErkKx9YyBR3SVSgbTz1OVEnT3sGZFpAzcreSSDx/sUToapiMrihpFTnHFDB6XH2i6/+0ms7SLsRuqkHPADgeE7k75j0JmJYrzHN3IdLuU6WrAC2qm7Qoca3AZ9H2tyo4SVWcDX+5m8retH3bFDae2Zvd2jG8Ksh/WfQL+z8fCUC3xtv0yvqY/XP55Y9BkzfRcSDVcZxpdAhbKOEOTtUIMloRoUDcR5zXG8hvX6frSXUtqCDP7DgmTWiyS++1BuSOaoC+oTVWWGukpnC2BE48EWVSCmOStocyQYZzxldCXl2sUeXiEzviuE65bdZxCodC/ckO0rezTFdUn9EA==;/G+nU19hmpP6CBvMJMotNw=="
+secured: "Lzgviw71QBXDnwnVoz3qhhxnW24fTakvJ7rUUdnfnWs5Z8YBplk5Ae0nGpB7YhgiVMFCabOI3R7czJiCXUlw870fdE8qOvxvisJv7eJIZtFIL0HMKfmasXn28+RnKuhjmtxN6Knwi+n7CWPWsBKd7CM2iT3HZT3yt4sWbNnJBI4todSAY01k8oz0oySLbP7ier3lGq5kOP8jn5lAZMe9vSaav81j6J0lVuwhGDdjphEwfDm9cDDr3d8ve5HUgb5KStr0QVPvtZOQKnsK9nMQEFcdKdEh3G7dzKIv1rIY15QC7EfAJtzJypi2dIeX/Cb/L3tEV72lpk2iFjgJCkvP+kCn8lJ+kFgk4Qo1CrP5UXo=;Zq8LVb4T05OiJlHLwHNnUg=="
 ---
 

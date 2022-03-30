@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla
 cdnAmpWebUrl: "https://amp-kelownanow-com.cdn.ampproject.org/c/s/amp.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kelowna resident amongst first group of drivers in Canada to receive Tesla's new self-driving software"
+    excerpt: "Tesla starting to roll out the beta version of its self-driving system to owners in Canada. The new software is a level two semi-autonomous, meaning the vehicle can drive itself with some assistance from the driver."
+    publishedDateTime: 2022-03-30T21:08:00Z
+    webUrl: "https://www.castanet.net/news/Kelowna/364472/Kelowna-resident-amongst-first-group-of-drivers-in-Canada-to-receive-Teslas-new-self-driving-software"
+    type: article
+    provider:
+      name: Castanet
+      domain: castanet.net
+    quality: 23
+    images:
+      - url: "https://www.castanet.net/content/2022/3/364472_0.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "P7ZQKrk/8bTOEYdtoK1hIammgogAr2T+LJKX7D6ua8W6zWkhk14tBgT9DKsGNrDf8tNJxA7UVOxM8Ifh9NEGWJkib7WYQzYaxqqQ7/2Q3ZlemHzVGwtqbZYkvXch2gCbylm7BFnf6yg8pZgLyhzCKbSivR94Brd8+q3PjI/XAgIj0+QeJpV/TbLM8JHKrrHmN5TAo4lQWb5EYQj1e/Ejbh3U2jEU0Z2kLOvaKst5WOL8OxkvyA5ymEVQ+mJp0AtS7lWkyNkGbhyPel+67DRtQIKsca7r7c9kqL2HQOJUmaQxX7QMp2nLom09x/HWH7b/pTrOr3ek/SNu7iPUjlI9sR3Z+tl7BfFXHL2lnILepwBSdObF8spvtbXyKUG3r7uppp7MAqT9FhYnQYbGiczfkNTodVbKj6lh9NSWtFnilU6kSQ6DKbU77pjpYBfGqB6o+IjzcmPlz8SdcfvllHT/gXib1y/ceftzrmYh35ikq/bvmMENbzozjK0kKny5A+OXmwSVFv0Rj+z5tHwH5oBg1g==;LcNg4yrdGzcPsceSAzAXbg=="

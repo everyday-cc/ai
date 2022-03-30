@@ -70,6 +70,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "\"Global Recognition for Unique AI Human Technology\" DeepBrain AI participates 'NVIDIA GTC 2022', Presenting AI Human Technology and Research Outcome"
+    excerpt: "DeepBrain AI CTO Kyung-Soo Chae presents time-reducing, lip sync video synthesis technology. Participates in \"Digital Human and Interactive AI\" session panel to introduce current status of AI Human industry."
+    publishedDateTime: 2022-03-30T03:34:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai/article_84ad56c7-e432-5421-a282-c9d48010ae88.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/d4/0d426e0b-9545-5ad0-a2b1-9a902fd9b70f/6243d30c04387.image.jpg?crop=917%2C481%2C0%2C37&resize=917%2C481&order=crop%2Cresize"
+        width: 917
+        height: 481
+        isCached: true
 
 secured: "HqaVzVtMsrlPE7P9ajtato/BY3ri70Y5QoQL7o3eKGKS0Q3+S/ozA6gQUvPrIbMPVH8DoRXjoaAx/XbtTRUsJOULV5+ERjsz4MIjOzaq5l5bbEX5Ah1aVi89uL+RBGjO9y7oL/NOlR+vZ6a+FqLiiQ/CmXWpTTBqpJ8/0JN04NEGyaql6gr2KyIrOE4oOm+jdmR1PYkBM3a7R0hl9gOLF5/pDooxvFng19goRxtYBRM0kHbANrgmgpQGKcEGNK9ISQBOEYD64lLwVdjT1ncFjieeWMFaqUOYUp8u9UjLlOvMIFxPwx+RNyLTbBGCdbjyZXoupE+DT1HzsRitZJFNLyDqfhAteuqnbusgOpwzlTA=;re3VY1IOQBrpZJRij3vE1A=="
 ---

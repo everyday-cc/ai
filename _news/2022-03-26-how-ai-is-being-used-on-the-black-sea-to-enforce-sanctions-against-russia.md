@@ -9,7 +9,7 @@ ampWebUrl: "https://www.protocol.com/amp/ai-ukraine-russia-maritime-risk-2657040
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ai-ukraine-russia-maritime-risk-2657040152"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -25,6 +25,19 @@ images:
     width: 400
     height: 225
     isCached: true
+
+related:
+  - title: "Fact or Fiction: Russia uses artificial intelligence, deep fakes in propaganda warfare"
+    excerpt: "Russia uses artificial intelligence, deep fakes in propaganda warfare Video Online, on GlobalNews.ca"
+    publishedDateTime: 2022-03-30T00:39:00Z
+    webUrl: "https://globalnews.ca/video/8720618/fact-or-fiction-russia-uses-artificial-intelligence-deep-fakes-in-propaganda-warfare/"
+    ampWebUrl: "https://globalnews.ca/video/8720618/fact-or-fiction-russia-uses-artificial-intelligence-deep-fakes-in-propaganda-warfare/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/video/8720618/fact-or-fiction-russia-uses-artificial-intelligence-deep-fakes-in-propaganda-warfare/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 29
 
 secured: "7aLHgxVufrXeou3UWO2SyZxEmAYhuCBnQtwZf9OAzo2aM78LvYNft8fG/QA9Bneo7xE/YRLQ5KCadXLpDP5dv/B33sNJUCEXfOqCOSoSxzq2qdM/jtQou9cGIQnosp32rf8GAXkG34JG5j1gCU3q28orrAgPBYI1Yr8FSVjBpG/2eILWZz3VNe7ZUpe45/x6u63QFrxy9kwgnBkNE6OP79u9XVzOUFtaUcFsG/rQlbg1hNqcJd4DnfVmlD2vul1ORzDiDUDVgbZrqFHC+0SyW5a0Z1U27dsy9Nx4yghYzX3+BYDeRHmWFI8xBL8JVtTBDCPB0aIsd/Z/AY+n33lVf0BuUmqaoKXkWfBSgzWgAPinZKdRZeaVDHDrUaLNFMbwH3zDVMdDKT39iImbxm5N/oVk9z3I1OK+o/2Zoq/JcyqlpyEdar0fLZ/mI9YX8rGYJE/uXSeZk53PkxyjV3Uy1rS0dNb1aDehL8rIaqUJ8SvCtmYIpoSyl8DXIkKqC2vjaENrrMdVKHS1mSzEnCCAbQ==;1D/VSzxBqXU1W3qRM82LMQ=="
 ---
