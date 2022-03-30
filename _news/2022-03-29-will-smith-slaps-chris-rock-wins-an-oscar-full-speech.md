@@ -41,22 +41,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Will Smith would face little more than a slap if charged"
-    excerpt: "Will Smith’s slap seen ’round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap of his own — on the wrist."
-    publishedDateTime: 2022-03-30T05:20:00Z
-    webUrl: "https://www.ksat.com/entertainment/2022/03/30/will-smith-would-face-little-more-than-a-slap-if-charged/"
-    ampWebUrl: "https://www.ksat.com/entertainment/2022/03/30/will-smith-would-face-little-more-than-a-slap-if-charged/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/entertainment/2022/03/30/will-smith-would-face-little-more-than-a-slap-if-charged/?outputType=amp"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 44
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/PT7LUGTP3VFPNMBCQEYLIFVN5A.jpg?_a=ATABld60"
-        width: 700
-        height: 467
-        isCached: true
   - title: "WATCH: Will Smith apologises for attacking Chris Rock during Oscar acceptance speech"
     excerpt: "\"Love will make you do crazy things.\" In one of the most dramatic nights of television in years, Will Smith apologised for attacking Chris Rock while presenting an award at the 94th Academy Awards on Sunday (27 March)."
     publishedDateTime: 2022-03-28T09:12:00Z
@@ -103,6 +87,15 @@ related:
         width: 948
         height: 532
         isCached: true
+  - title: "Will Smith would face little more than a slap if charged"
+    excerpt: "The Los Angeles Police Department has said it was aware of the incident but was not investigating because Rock declined to file a police report."
+    publishedDateTime: 2022-03-30T06:24:00Z
+    webUrl: "https://lasvegassun.com/news/2022/mar/29/will-smith-would-face-little-more-than-a-slap-if-c/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 4
 
 secured: "h/RE4mavqHFYIIYtc2dadAtRo7E9OiCcbWzl0885Kue7/CNcNEimcVyqL+vnsOdSVd34B7xoneDBNkA31JJOwK7sCYFoCAsp0TU+ttB8h6CvGPT7flLFVKOHJBI0yH3IS/Q2cG54R+S2tzEvhOY++nsM4FDfWc7Ze5nufQ6dmzSCAOVEpbOIHENv0FV6A0KFOkotq+VN8tO36RoB4KgvDI+hu13LIun4HposUwu3I5NyKFTLoGYE2xB+oRMKGRbmv0MCecAmm3OgMjYfMGQPckx+NojdeT4gE/HZXQcrfISqxJpTc9OHWDluGAJKPX4BdwQNUqev9V78K5nQoxISPi1F6aGuyPDsNG/peOE3ca0=;1iEt/bVAyKYerSXywPjXuA=="
 ---

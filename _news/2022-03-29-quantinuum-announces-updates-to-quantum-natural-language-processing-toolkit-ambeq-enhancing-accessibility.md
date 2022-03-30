@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit λambeq, Enhancing Accessibility"
-excerpt: "λambeq update introduces many new important features to provide researchers and developers with more options and flexibility in turning sentences into quantum circuits"
-publishedDateTime: 2022-03-29T08:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-ambeq-enhancing-accessibility/article_aa3c43f1-35a6-57cf-99b0-7683165e3dc8.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-ambeq-enhancing-accessibility/article_aa3c43f1-35a6-57cf-99b0-7683165e3dc8.html"
+excerpt: "λambeq update introduces many new important features to provide researchers and developers with more options and flexibility in turning sentences"
+publishedDateTime: 2022-03-29T08:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-λambeq-enhancing-accessibility-1031314301"
+webUrl: "https://markets.businessinsider.com/news/stocks/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-λambeq-enhancing-accessibility-1031314301"
 type: article
-quality: 21
-heat: 21
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
-    isCached: true
 
 related:
   - title: "Quantinuum Updates to Quantum Natural Language Processing Toolkit lambeq"
@@ -62,6 +60,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "B+zIXgnWMvjXIlekBX9u2yi7KvfAYgn9EJPPxP8pzv9KRIzNVK39KdMcJiyxmxwWmj8MeDoHRaAdYsIswGJBR1b3mfTPgkVrinntKPLAW15QaBWHsujtMaoqAXKZ9DIhiGEjlJ+rnkRSh3cBww6W75TKkTHPPZ0oSooTZsJO6JyfjXYIX9PQy49aesZAQn33zdAioFU8kz2AZ/0hmrjJfytjUjjRUwT5yWKwO6RfPyV/WBrJDG6fVEw15jmgEEMemwQe3CtJJ1J5XDW8I/+r2Ql+9zMkvVwVEqa1fpnpx0hCZA1CRv51x3pHEU14PObzn1/Exzzzk0fvZsltVNbCt5czL9MWfDjRsSWvgkN12X4=;zsxhXTt52GKsB69++dxbCg=="
+secured: "SKINC8qob9VbNWpHk8G3t4UzBsFnv3Bf2Sii7vJ545Rb/sq9VIzrY9Uhj305WfiDnFmZ7FHZBIiJZPJD02Y0h+nNh7uxk9k2HOeJOERvanYEBdVKNhl9T9Y0bOvvFvm+j4lD1eSIrctT8i8UO54z5IRrTiS1p+L+ttW+FEi6/aQ1yRnmdttZeyRtQ6n/8aDLMyb7eIrhutEypXGYNGUwCQXvpuRwfqSpGQZvkr884aBYPpYLHffLbuMDrKhTC0tkAWQ73Y8m97WPvh37uU3zN6Z1Rdl+jPMzAT/5QY8y80Qo2/MoNwiurMoHk3CQlofRwedq99cGRj7Qo4aqRl+S9QMkJZuYy///kqGWqhlY4VQ=;2YUWgxgoUM89stsg9lvL6w=="
 ---
 

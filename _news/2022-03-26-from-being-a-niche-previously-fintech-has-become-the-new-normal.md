@@ -27,22 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Zesty.ai Welcomes $10M Infusion From Fintech Firm Brex"
-    excerpt: "U.S. Fintech company Brex has provided $10 million in growth capital via venture debt to Zesty.ai, a provider of predictive data analytics in the climate risk space. The financing will help Zesty.ai expand into use cases beyond insurance,"
-    publishedDateTime: 2022-03-25T13:02:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/amp/"
+  - title: "Tap the Booming Fintech Market With These ETFs"
+    excerpt: "The emergence of cutting-edge technologies like AI, cloud computing, big data, the Internet of Things (IoT) and machine learning is driving the fintech space. The growing popularity of smartphones, rising demand for industrial automation and the increased utilization of wireless communication are boosting the transition to digital platforms."
+    publishedDateTime: 2022-03-26T11:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs"
+    ampWebUrl: "https://www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs?amp"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/11/US-Dollars-Money-Grant.jpg"
-        width: 1280
-        height: 960
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "3 Best Fintech Stocks for a Portfolio Boost"
     excerpt: "Rising interest rates and higher inflation means you're looking for more opportunities to invest, maybe in niche markets. Why not consider fintech, short for \"financial technology.\""
     publishedDateTime: 2022-03-29T06:00:00Z
@@ -56,22 +51,6 @@ related:
       - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-423314.jpeg"
         width: 1000
         height: 603
-        isCached: true
-  - title: "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding"
-    excerpt: "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding. | Crowdfund Insider: Global Fintech News, including Crowdfunding,"
-    publishedDateTime: 2022-03-29T13:21:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 53
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/03/Effectiv-AI-Founders-Team.jpeg"
-        width: 1766
-        height: 1325
         isCached: true
   - title: "Gaming fintech firm enables Bitcoin tips for streamers"
     excerpt: "Gaming fintech ZEBEDEE launched ZBD Streamer on Tuesday, enabling content creators to collect Bitcoin tips while live streaming on online platforms."
@@ -89,34 +68,6 @@ related:
         width: 1260
         height: 754
         isCached: true
-  - title: "Zesty.ai Receives $10M in Growth Capital"
-    excerpt: "Zesty.ai, a San Francisco, CA-based provider of predictive data analytics in the climate risk space, received $10M in venture debt financing"
-    publishedDateTime: 2022-03-26T11:08:00Z
-    webUrl: "https://www.finsmes.com/2022/03/zesty-ai-receives-10m-in-growth-capital.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/03/zesty.png"
-        width: 1251
-        height: 1251
-        isCached: true
-  - title: "How Sidetrade utilises AI for its FinTech platform"
-    excerpt: "FinTech Magazine speaks to Mark Sheldon, CTO at Sidetrade to learn more about the company and its work with AI within the fintech industry"
-    publishedDateTime: 2022-03-28T08:09:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/how-sidetrade-utilise-ai-for"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/f4eeb53075c3c0944ddd42a4aec76333:be21c30c397a8c807801fb0947bcad80/gettyimages-1283432364-1.jpg.jpg"
-        width: 1799
-        height: 1010
-        isCached: true
   - title: "Top 10 Most Promising Fintech Firms in India 2022"
     excerpt: "FinTech firms are technological alternatives to traditional financial firms’ back-end systems in the twenty-first century. Find out the top 10 most p"
     publishedDateTime: 2022-03-26T17:12:00Z
@@ -130,6 +81,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?869496"
         width: 442
         height: 250
+        isCached: true
+  - title: "Top 20+ Upcoming Fintech Events to Attend in Europe"
+    excerpt: "Technological advances and evolving customer expectations are changing the financial landscape, stimulating fintech development and innovation. To keep up with the burgeoning fintech industry, top-quality fintech events are being organized on a regular basis to educate attendees on the latest trends and enable professionals to build meaningful connections."
+    publishedDateTime: 2022-03-28T11:01:00Z
+    webUrl: "https://fintechnews.ch/fintech/top-20-upcoming-fintech-events-to-attend-in-europe/52085/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/03/Top-20-Upcoming-Fintech-Events-to-Attend-in-Europe-.png?x30842"
+        width: 1024
+        height: 567
         isCached: true
 
 secured: "54AofHQrXhY73oTUYN1XMAQLMzeCqyOTQCp06M79441/rgU76u8Dvx9GcKIbfVQ/rOoaxgeR/Bf7qzdFNLakI1pZYGwmDiXr2rhyhMm8HTimbUmTsDdGs9b670bfedPbs+0Cbb+EXRuZ21Fv5qGOFBrh0ooGWvGfyuRwMbz2spaPEjTUWzL/47Bd5ioDpqT+h+IOmY0Q+4vpc+3MvhtAhtExZyIniIAk177cSaskHDvxkil4Z4+9r7sLRdC3hrd3hsiYM3IclmkjKY+85KjFxNHbWZo65KGFEj6TFEmNy/vDeJkJXmmZhEIQPwfTtourDZbfbn8jaXvhPUuUfX2bEyloo2LL7pjrUhB9RGwkCoQ=;/MkppLNnkbZkh/d5Osr7Vg=="

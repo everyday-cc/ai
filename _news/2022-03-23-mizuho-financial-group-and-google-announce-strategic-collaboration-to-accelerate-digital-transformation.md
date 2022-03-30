@@ -3,12 +3,9 @@ category: news
 title: "Mizuho Financial Group and Google Announce Strategic Collaboration to Accelerate Digital Transformation"
 excerpt: "Mizuho Financial Group, Inc. and Google Cloud have announced a strategic collaboration to accelerate the Group's digital transformation and retail innovation strategy. \"The global spread of COVID-19,"
 publishedDateTime: 2022-03-23T14:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mizuho-financial-group-and-google-announce-strategic-collaboration-to-accelerate-digital-transformation/article_eef9eeeb-2a8a-52f7-a3ee-e808910c4c48.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mizuho-financial-group-and-google-announce-strategic-collaboration-to-accelerate-digital-transformation/article_eef9eeeb-2a8a-52f7-a3ee-e808910c4c48.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/mizuho-financial-group-and-google-announce-strategic-collaboration-to-accelerate-digital-transformation/article_eef9eeeb-2a8a-52f7-a3ee-e808910c4c48.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/mizuho-financial-group-and-google-announce-strategic-collaboration-to-accelerate-digital-transformation/article_eef9eeeb-2a8a-52f7-a3ee-e808910c4c48.html"
 type: article
-quality: 8
-heat: 8
-published: false
 
 provider:
   name: WFMZ-TV
@@ -24,6 +21,6 @@ images:
     height: 338
     isCached: true
 
-secured: "JsWvtz2igk9m5tsdiFakYGo2EN/x1iGOjFdfg/8Sr668tCaBjzoK7eIUDNY3Wlmt18SNyx45NduF4BW0Mys908B6o3cRaP9v75RZjqtM7evaK5gtzXKpDbRC9F7vIZ/5MPU5rt24wcQVI9lqfqPIV14c5dKme7GR5e17VPVwYBgm2xvpUc06tu0agGFdWW1FxBgPQ6naM96HOsRj3euGh8HFT1w6By1yd6hD4xZD0eb+SkTFuQSTiuLE9tE4XyA3YbpC4gPUVRBVdiEx/Gh4hXFhNFZ0FCXxb/S1vMQDMaQJUzTmDjxcVWBX6AHYJ1yfFkBjc7tGIVr22mmufSxMhRMfBK8hcXqJML7Oh1OWEcqxE1RAdcFiNE44pz0AU/ZZBhwdOgdAS0HTvsFhmOF/NUB1AHGJp0OF72WOPBD+Apyimq6ch5UMOTxY1luyNThDKu358+QOaJmGKa3Cw9v5R6zD/pM46VbR1c92+X5CnvFJEJpU3yL8BPlzmsV7u7K56IwZW5OGTYwSeUqa5OjloQ==;6C4DubvyAoSsuhRF4Ik7cQ=="
+secured: "KwCCsV/KEwN8kvxTu6qZKFNjlaUqBYT+5jAxw9sCcNHPRusmxKUcIobcQJOgwh3mKqMF3yaa/kEPnRhIQktq+wYWZINOL4b7p7UutYuxj14a9RkjzMvSYSc5OT7KwT/PLTDxDYD7/cODdy/OfdPLxNjnoL8TlSY4/Koe9RU7TQYO/lNVG7reBs49IyyoYLPMUqGZLzGsFXsPJ93yDRNpvmLERK0ir9JzDDz5U2l9cMBigSAN2wU1KmD5a2sZkqv6lfT1c04wxOlcNszlpPHAPjixgqPh+o/Xm9nn0VABd9p4rX0dDgTQANfVV8Cv4iCU0HlDsjvE/jJEXfj53aNLBlG5GNjSAItVx037U9XRuOY=;JxvIuBl6r+W7C9h6Zq0RYQ=="
 ---
 

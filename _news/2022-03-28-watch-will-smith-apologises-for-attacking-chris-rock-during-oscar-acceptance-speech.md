@@ -43,22 +43,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Will Smith would face little more than a slap if charged"
-    excerpt: "Will Smith’s slap seen ’round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap of his own — on the wrist."
-    publishedDateTime: 2022-03-30T05:20:00Z
-    webUrl: "https://www.ksat.com/entertainment/2022/03/30/will-smith-would-face-little-more-than-a-slap-if-charged/"
-    ampWebUrl: "https://www.ksat.com/entertainment/2022/03/30/will-smith-would-face-little-more-than-a-slap-if-charged/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/entertainment/2022/03/30/will-smith-would-face-little-more-than-a-slap-if-charged/?outputType=amp"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 44
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/PT7LUGTP3VFPNMBCQEYLIFVN5A.jpg?_a=ATABld60"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Oscars 2022: Tearful Will Smith DEFENDS Chris Rock slap in Best Actor acceptance speech"
     excerpt: "In his acceptance speech just 40 minutes later ... Netflix's Power Of The Dog led nominations with 12 nods including Best Picture, Best Director and recognition for all of its top actors: Benedict Cumberbatch, Kirsten Dunst, Jesse Plemons and Kodi ..."
     publishedDateTime: 2022-03-28T08:49:00Z
@@ -103,6 +87,15 @@ related:
         width: 948
         height: 532
         isCached: true
+  - title: "Will Smith would face little more than a slap if charged"
+    excerpt: "The Los Angeles Police Department has said it was aware of the incident but was not investigating because Rock declined to file a police report."
+    publishedDateTime: 2022-03-30T06:24:00Z
+    webUrl: "https://lasvegassun.com/news/2022/mar/29/will-smith-would-face-little-more-than-a-slap-if-c/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 4
 
 secured: "g2cdDvTTf2Ed6jXLmDDCsN1FwOsIr72/bmDvcrBR/53tkfGn6ESyM6QYkHcVgiGHCZzTxTt+7iow76THU/EWny8oQ5WFwgRU8ivbwSR83rSv/Sh/H1M3gfblamgXrNpoWoFef4/n8iVuAB+t29+MA3LduifOMZEkXZPuZzpzObasUzQLRUAdMTJcoFc0VYxIz8a0Cw4OOzr45SC4XyAgR2sxR72EmmzNjyBHflQFeUbInUK1rGlZCzizFUpkkJQ/6E9XhWoWfIyvl64cK0/wDX0v/VUhy/CUVFqJs8Mjo18KpVBw5NIUPVJfjkMIKKzs6f/Z2Mq6vcF/O6kKmZ5zSbZbSMMeAy6JLzwTkm6jGA4=;y7HN6zvw3QWoSQYebJNQQw=="
 ---

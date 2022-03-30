@@ -167,7 +167,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028-2022-03-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1149,8 +1149,8 @@
       "title": "Google uses deep learning to design faster, smaller AI chips",
       "excerpt": "Googlers and UC Berkeley academics say they have devised a way to use artificial intelligence to design faster and smaller chips that accelerate artificial intelligence. In a note shared on Thursday,",
       "sourceUrl": null,
-      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/03/18/google_deep_learning_chip_design/",
-      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/03/18/google_deep_learning_chip_design/",
+      "webUrl": "https://www.theregister.com/2022/03/18/google_deep_learning_chip_design/",
+      "originalUrl": "https://www.theregister.com/2022/03/18/google_deep_learning_chip_design/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1169,7 +1169,7 @@
       "type": "article",
       "ampWebUrl": "https://www.theregister.com/AMP/2022/03/18/google_deep_learning_chip_design/",
       "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/18/google_deep_learning_chip_design/",
-      "publishedDateTime": "2022-03-17T20:12:00-07:00",
+      "publishedDateTime": "2022-03-17T20:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "theregister",
@@ -1183,9 +1183,8 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {

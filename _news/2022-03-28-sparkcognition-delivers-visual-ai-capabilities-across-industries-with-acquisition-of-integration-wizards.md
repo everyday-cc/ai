@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "SparkCognition acquires Bangalore-based AI startup Integration Wizards"
-    excerpt: "\"The team is excited to capitalize on SparkCognitions incredible depth of talent, considerable IP portfolio, and deep subject matter expertise, providing our customers with even greater value and a broader AI based portfolio,"
-    publishedDateTime: 2022-03-25T13:16:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/articleshow/90443970.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/amp_articleshow/90443970.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/amp_articleshow/90443970.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-846637,msid-90445030/automation_ai_thumb-image_ettech3.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "SparkCognition Delivers Visual AI Capabilities Across Industries"
     excerpt: "SparkCognition is pleased to announce it has signed a definitive agreement to acquire Integration Wizards, a leader in visual AI."
     publishedDateTime: 2022-03-28T10:13:00Z

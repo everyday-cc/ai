@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding"
+    excerpt: "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding. | Crowdfund Insider: Global Fintech News, including Crowdfunding,"
+    publishedDateTime: 2022-03-29T13:21:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 53
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/03/Effectiv-AI-Founders-Team.jpeg"
+        width: 1766
+        height: 1325
+        isCached: true
+  - title: "Kenyan Fintech Churpy Attracts $1M Seed Round Led By Unicorn Growth Capital"
+    excerpt: "Kenyan Fintech Churpy Attracts $1M Seed Round Led By Unicorn Growth Capital. | Crowdfund Insider: Global Fintech News, including Crowdfunding, Blockchain and"
+    publishedDateTime: 2022-03-30T02:26:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/03/189072-kenyan-fintech-churpy-attracts-1m-seed-round-led-by-unicorn-growth-capital/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/03/189072-kenyan-fintech-churpy-attracts-1m-seed-round-led-by-unicorn-growth-capital/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/189072-kenyan-fintech-churpy-attracts-1m-seed-round-led-by-unicorn-growth-capital/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 42
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/01/Unicorn.jpg"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "Swiss spend management fintech Yokoy raises $80m"
     excerpt: "To date, Yokoy has raised more than $107m and it says the new funding will be used to fuel international expansion, product developing and expanding headcount."
     publishedDateTime: 2022-03-29T10:14:00Z
@@ -53,6 +85,35 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
+    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
+    publishedDateTime: 2022-03-29T10:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
+  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
+    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
+    publishedDateTime: 2022-03-30T01:50:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 21
+  - title: "Middle East’s largest AI-based digital health platform raises $44 million in Series B funding"
+    excerpt: "The new funds will be used to expand Altibbi’s offering into online pharmacy and diagnostics collection to establish the regions first end-to-end fully integrated digital health primary care offering,"
+    publishedDateTime: 2022-03-28T09:10:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/healthcare/middle-easts-largest-ai-based-digital-health-platform-raises-44-million-in-series-b-funding"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 6
 
 secured: "uLc6pyeYn+XcDXw09BlL/Z3h0IrLB4xu5xF9KRPSCI8mve3RF9dGUGUwsBBcpEeXqrqg84BhRvvGbpX8gl8PIq2Ukeq2Ad6lj34BNj9CiWzvZKDxpBRqVwyrdjKYtKV6nfV21ai2dHj2AKnXCrPN+rep6aeWfk1lweKzhQoqPAaszXDQpvscij2xiIZluHhSTxt5wKZCno9N16l3+QRE9VwSf78m3hJimFeqwrPgghituStVH6T4I9RjlbUMPS8ENnKhdBSNPNkfEWFmlayejxVljqfzf/5h32imVeWRCRuahrFVUSxGj5KYHMFtMw6Dy9YsbP/2f6uR9+WQmeNm3QpCvdseM8lqSjagWW/cw7+XVSIGlE3kt2pRDzWp1QNPeXWyd3XeXiyIOxdatW6iZbIiKyt9Gpz1vqool9Mw1gpHnAYm5WuAIGcIKK08I+hHCUHwqpkVnvF11fTu1LmaDvbW18iSInTGRdX4292zG8H6axMf4IbGzYcp1R1txPPTAKQjQGEO2ar5ClsRe1dwAw==;YRoCE4JxWsLFs9iLyNIkqw=="
 ---

@@ -704,50 +704,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-18-google-uses-deep-learning-to-design-faster-smaller-ai-chips.md",
-      "title": "Google uses deep learning to design faster, smaller AI chips",
-      "excerpt": "Googlers and UC Berkeley academics say they have devised a way to use artificial intelligence to design faster and smaller chips that accelerate artificial intelligence. In a note shared on Thursday,",
-      "sourceUrl": null,
-      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/03/18/google_deep_learning_chip_design/",
-      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/03/18/google_deep_learning_chip_design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2019/10/08/shutterstock_ai_chip_design.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/18/google_deep_learning_chip_design/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/18/google_deep_learning_chip_design/",
-      "publishedDateTime": "2022-03-17T20:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-03-18-your-chipotle-chips-may-soon-be-made-by-a-robot-named-chippy.md",
       "title": "Your Chipotle Chips May Soon Be Made By A Robot Named 'Chippy'",
       "excerpt": "Chipotle announced on Wednesday that it is testing out an alternative way to make its tortilla chips using an AI-powered robot named “Chippy.” The creation of the robot is intended to help businesses run more efficiently and to help employees not have to do mundane tasks.",
@@ -1183,6 +1139,101 @@
       ]
     },
     {
+      "path": "_news/2022-03-15-runai-raises-75m-to-grow-its-ai-workload-virtualization-platform.md",
+      "title": "Run:ai raises $75M to grow its AI workload virtualization platform",
+      "excerpt": "“Particularly with compute intensive AI model training, greedy data scientists can become GPU hoarders,” he said. So the ability of Run:ai’s GPU abstraction layer and orchestration platform ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/03/15/runai-raises-75m-grow-ai-workload-virtualization-platform/",
+      "originalUrl": "https://siliconangle.com/2022/03/15/runai-raises-75m-grow-ai-workload-virtualization-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/Runai-team.jpg",
+          "width": 4167,
+          "height": 2083,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-running-ai-workloads-is-coming-to-a-virtual-machine-near-you-powered-by-gpus-and-kubernetes.md",
+      "title": "Running AI workloads is coming to a virtual machine near you, powered by GPUs and Kubernetes",
+      "excerpt": "Run:AI's main technical achievements go by the names of fractional GPU sharing, thin GPU provisioning, and job swapping. Fractional GPU sharing enables running many containers on a single GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/running-ai-workloads-is-coming-to-a-virtual-machine-near-you-powered-by-gpus-and-kubernetes/",
+      "originalUrl": "https://www.zdnet.com/article/running-ai-workloads-is-coming-to-a-virtual-machine-near-you-powered-by-gpus-and-kubernetes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/921561ee0b007f7c9e3b842e9a08566e3effe571/2019/04/03/ddde131a-b90d-43ef-a19c-ff426d64170d/holger-link-724884-unsplash.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/running-ai-workloads-is-coming-to-a-virtual-machine-near-you-powered-by-gpus-and-kubernetes/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/running-ai-workloads-is-coming-to-a-virtual-machine-near-you-powered-by-gpus-and-kubernetes/",
+      "publishedDateTime": "2022-03-15T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-ai-chip-innovator-memryx-hires-two-veteran-semiconductor-leaders-for-top-engineering-and-business-development-roles.md",
       "title": "AI Chip Innovator MemryX Hires Two Veteran Semiconductor Leaders For Top Engineering and Business Development Roles",
       "excerpt": "MemryX Inc., a pioneering start-up designing breakthrough silicon for artificial intelligence processing for edge devices, has appointed semiconductor industry veterans Puneet Singh and Roger Peene. Singh will serve as vice president of engineering,",
@@ -1404,50 +1455,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-ai-core-software-deep-learning-compiler-developed.md",
-      "title": "AI core software 'Deep Learning Compiler' developed",
-      "excerpt": "A Korean research team has unveiled a core technology which reduces the time and cost invested in developing artificial intelligence (AI) chips in small and medium-sized enterprises and startups. Thanks to the development of system software that solved the problems of compatibility and scalability between hardware and software which have been obstacles in the past,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-03-ai-core-software-deep.html",
-      "originalUrl": "https://techxplore.com/news/2022-03-ai-core-software-deep.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/etri-developed-ai-core.jpg",
-          "width": 2880,
-          "height": 1915,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-03-ai-core-software-deep.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ai-core-software-deep.amp",
-      "publishedDateTime": "2022-03-08T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

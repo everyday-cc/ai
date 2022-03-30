@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/news/sparkcognition-delivers-visual-ai-ca
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/sparkcognition-delivers-visual-ai-capabilities-across-industries/amp/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: enterprisetalk
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "SparkCognition acquires Bangalore-based AI startup Integration Wizards"
-    excerpt: "\"The team is excited to capitalize on SparkCognitions incredible depth of talent, considerable IP portfolio, and deep subject matter expertise, providing our customers with even greater value and a broader AI based portfolio,"
-    publishedDateTime: 2022-03-25T13:16:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/articleshow/90443970.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/amp_articleshow/90443970.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/amp_articleshow/90443970.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-846637,msid-90445030/automation_ai_thumb-image_ettech3.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "SparkCognition acquires of Visual AI platform Integration Wizards"
     excerpt: "HPCL is deploying AI-based visual analytics across its retail network to improve customer satisfaction and safety."
     publishedDateTime: 2022-03-28T07:23:00Z

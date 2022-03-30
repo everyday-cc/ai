@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Will Smith would face little more than a slap if charged"
-excerpt: "Will Smith’s slap seen ’round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap of his own — on the wrist."
-publishedDateTime: 2022-03-30T05:20:00Z
-originalUrl: "https://www.ksat.com/entertainment/2022/03/30/will-smith-would-face-little-more-than-a-slap-if-charged/"
-webUrl: "https://www.ksat.com/entertainment/2022/03/30/will-smith-would-face-little-more-than-a-slap-if-charged/"
-ampWebUrl: "https://www.ksat.com/entertainment/2022/03/30/will-smith-would-face-little-more-than-a-slap-if-charged/?outputType=amp"
-cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/entertainment/2022/03/30/will-smith-would-face-little-more-than-a-slap-if-charged/?outputType=amp"
+excerpt: "The Los Angeles Police Department has said it was aware of the incident but was not investigating because Rock declined to file a police report."
+publishedDateTime: 2022-03-30T06:24:00Z
+originalUrl: "https://lasvegassun.com/news/2022/mar/29/will-smith-would-face-little-more-than-a-slap-if-c/"
+webUrl: "https://lasvegassun.com/news/2022/mar/29/will-smith-would-face-little-more-than-a-slap-if-c/"
 type: article
-quality: 44
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: KSAT
-  domain: ksat.com
+  name: Las Vegas Sun
+  domain: lasvegassun.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/PT7LUGTP3VFPNMBCQEYLIFVN5A.jpg?_a=ATABld60"
-    width: 700
-    height: 467
-    isCached: true
 
 related:
   - title: "Could Will Smith face charges for slapping Chris Rock?"
@@ -104,6 +96,6 @@ related:
         height: 532
         isCached: true
 
-secured: "dlOmdubjeJLgZe6xK98miW+16FP+s48j9iQoxL6ktePz1hLcUa0AKxaml7cpz4LQgm5t8sYkIa2r4PEgbwRkHyK6cQ1UeAyynBaHOtQxwtbKmmz2GKPAJW4mlQexo5kqtLCT23/4UDEpzpTjLT6u7UpFJSZmG6N0qrXxrjH59n7kUAd9XctDX/dZRZCG7tAT/cFsmKblIGEiebpqmp4I83SOewLi8uz+XCbJnG98tVjODtdP7ohySe4Z3xHI3E3wAKffy0RoFdbOblYfOnHSayi9Asz4DSoXoc+RG/iccRvdJhwRefLhAEClko6ZfD1MqRRXLJN3FTUlRO6075z/rZCJVULIHMIc8VQIhANoNYU=;ILAQE8LASxc8Sw071kBCIg=="
+secured: "V959tLPG9OYnRAOYrLkSMK0biGWmLjvp5GnNLqrXwOOoPLg5unwynJb5pD5N1G8ggsxjCBr859AbfmznLByFLnPqNdMMUVV1Xeda9pH9HqBONjqyivsu7kAvTyn8utrU+G+o770JBaQduIb1Q1FW5m51OsQsl2SxSKko3BgDKdjGVL0C7pcw92jxeLVzI3jgpra5qh96sWqxLV6dm37jjTM2X5l8CJJ257zfmI6IC8F0EbGX0i5hmXgRdC5X+pcoiGg8l9271r6BAspaW9UbFvQBb82kAWhiK/CD1DC2z7rBT9Go+LGQRww3c/0l/SPSn3otzbPqymSsBusVOOtEDkfYRwpUjCgYMXXBl5W0gie71Hruqckx3WsOoA659eivpMBArOODBpw6gChphnMfN1nes62d+lyAx+LYGCi6ySY3Lao2PVylJuSDkqyA1uBztgQQ+uGg9RGJ01+wf7tPOIIIcdAn8uLAF2LpM/ovnrpQ7N1PH1UbC4BvNTadtfwIN/Yv1ys4fDOlLRQZPymw9A==;gSxGM2tYoKNqw/qqsVVxRQ=="
 ---
 

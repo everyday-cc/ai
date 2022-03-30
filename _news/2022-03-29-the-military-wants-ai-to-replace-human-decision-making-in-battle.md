@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The military wants AI to replace human decision-making in battle"
+    excerpt: "Through a new program, called In the Moment, the Defense Advanced Research Projects Agency (DARPA) wants to develop technology that would make quick decisions in stressful situations using algorithms and data,"
+    publishedDateTime: 2022-03-30T06:04:00Z
+    webUrl: "https://www.stripes.com/theaters/us/2022-03-30/The-military-wants-AI-to-replace-human-decision-making-in-battle-5523158.html"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 37
+    images:
+      - url: "https://www.stripes.com/incoming/z8v6jy-DARPA.jpg/alternates/LANDSCAPE_480/DARPA.jpg"
+        width: 480
+        height: 299
+        isCached: true
 
 secured: "s5EVCYTUDuYTi6+8FZO/xPwPP9YdjuF8nCBgvKG17RuV63138FOIa2367YsJ/7hp/dVVjV5i6Ch2xNKWvMaBfXEGpaWCEr9CkwBhQbxly7/n8wIaxV3PSmYy2EdztdAlWD8TsqffMlRoEWK2cMWm7Lag3BUA9KXCUGLjLXGZL3+ofl+2bLMRosExhFY+O33JNk7mZkCXILOG5CbZnJjccroYiiql81l3gslGWGfV3E/VAOF4/G7KL5tD2jO/PW9/vf11+EKN4vj5Gjkd+9H+LbWRQiDtaCIdt7Tu5xml5Ix64EAduBuEI45BFvcxFgggfG79GqY10eOMed8fPOAvHlz027WHQ0O2lJUKYh8YeLcY4RKjOUCbhgo5XkBZ7J2bXqJvWjIxUcXS+OCpyzW4HHRUTnpXsoAL7spOR3mDadv8XTkVG5SU7/Hvtc5iIvuCWOWc3BWf1E9GiujnjExikCCD8zQz/lGIniAHh0xmija2D2c6o2wZJ+mUMvYeS7MC5mD0ydijYNyTJVCpdUBEFQ==;aaw6htHp1Cu1qGE6p3EVYQ=="
 ---

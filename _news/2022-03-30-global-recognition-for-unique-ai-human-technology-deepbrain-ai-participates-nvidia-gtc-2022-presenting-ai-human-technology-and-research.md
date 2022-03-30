@@ -1,31 +1,27 @@
 ---
 category: news
-title: "\"Global Recognition for Unique AI Human Technology\" DeepBrain AI participates 'NVIDIA GTC 2022', Presenting AI Human Technology and Research Outcome"
-excerpt: "DeepBrain AI CTO Kyung-Soo Chae presents time-reducing, lip sync video synthesis technology. Participates in 'Digital Human and Interactive AI'"
-publishedDateTime: 2022-03-30T03:49:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome-1031316927"
-webUrl: "https://markets.businessinsider.com/news/stocks/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome-1031316927"
+title: "\"Global Recognition for Unique AI Human Technology\" DeepBrain AI participates 'NVIDIA GTC 2022', Presenting AI Human Technology and Research"
+excerpt: "DeepBrain AI CTO Kyung-Soo Chae presents time-reducing, lip sync video synthesis technology. Participates in \"Digital Human and Interactive AI\" session panel to introduce current status of AI Human industry."
+publishedDateTime: 2022-03-30T03:10:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=639050"
+webUrl: "https://us.acrofan.com/detail.php?number=639050"
 type: article
-quality: 30
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
-  - Facebook AI
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1775564/image_5001494_28856558.jpg"
-    width: 400
-    height: 243
+  - url: "http://us.acrofan.com/img/noImg.jpg"
+    width: 500
+    height: 324
     isCached: true
 
 related:
@@ -60,6 +56,6 @@ related:
         height: 630
         isCached: true
 
-secured: "l3ks+4tGJoxfki2kvaKHZzrI7sD3GxgdF6YWY7U3arM0YwdJk6mOuG/k3VMLEBK3E/mb+8xVaDoU++KLDYkdqnYDJXE201gjBL4nNoIHNabPtGDJ+ZQBs32KYk4lDEGYG32bJzryqZkfDe23Sij/6ImB5xovCjSSvMOPrwEGQcBL3m7XOW9CL3lj+4kt5x88KStQfSeeIIUKGVUTT8YKGIM6WU67+KT2qdGxGVhVDITRfa1A2cHtm9BcwJw/nHKBj5O7oeXLQO2WDnQQki7edEVZ7QpvBuXJcu9BCFfLcKip/Myp8vT0s0Nsc+KJSHZQYbP7IZir5yNkTsPPtqV8ydh2NCB/sglvUK4Z8B+DV74=;4qMa7lHHKm+Jfmkxb376yg=="
+secured: "bczq+dlKtIuDucyQVUebisXi23WuRYKg7tQEUHE+XNc2sR65ipksMVa32QcOGnYm3ksBIXQIZ91AyJBGMmmczfYiACuiabwaLsMfE4jdOu6fgnpAmSjSMHEEv2EsMlZoHTovKLPlSY439jpXnSHy7IzV/3+0nm1Uw/7Um2uOC+WwnjiJN2wEd8v/JPjUYOmK3J/TC4jxGNvTPnxZJ1oKKu84ZlmJ3dKyHIjtV/Ickij5FLkHKPTkn2t5Ip1i/PcI8f6b3V3MTn3heKxt87jM/DiluC3PXVpxKiuHhsjrLQYcwP9xiPe2D0cqC3e/AswQsNEtv7DEgvFLLoyGdyejHa+yJyJs42kgHKFUBcydYl8=;RRbRyW8dBMh+ppEeucb66w=="
 ---
 

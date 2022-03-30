@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Will Smith would face little more than a slap if charged"
-    excerpt: "Will Smith’s slap seen ’round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap of his own — on the wrist."
-    publishedDateTime: 2022-03-30T05:20:00Z
-    webUrl: "https://www.ksat.com/entertainment/2022/03/30/will-smith-would-face-little-more-than-a-slap-if-charged/"
-    ampWebUrl: "https://www.ksat.com/entertainment/2022/03/30/will-smith-would-face-little-more-than-a-slap-if-charged/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/entertainment/2022/03/30/will-smith-would-face-little-more-than-a-slap-if-charged/?outputType=amp"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 44
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/PT7LUGTP3VFPNMBCQEYLIFVN5A.jpg?_a=ATABld60"
-        width: 700
-        height: 467
-        isCached: true
   - title: "WATCH: Will Smith apologises for attacking Chris Rock during Oscar acceptance speech"
     excerpt: "\"Love will make you do crazy things.\" In one of the most dramatic nights of television in years, Will Smith apologised for attacking Chris Rock while presenting an award at the 94th Academy Awards on Sunday (27 March)."
     publishedDateTime: 2022-03-28T09:12:00Z
@@ -103,6 +87,15 @@ related:
         width: 948
         height: 532
         isCached: true
+  - title: "Will Smith would face little more than a slap if charged"
+    excerpt: "The Los Angeles Police Department has said it was aware of the incident but was not investigating because Rock declined to file a police report."
+    publishedDateTime: 2022-03-30T06:24:00Z
+    webUrl: "https://lasvegassun.com/news/2022/mar/29/will-smith-would-face-little-more-than-a-slap-if-c/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 4
 
 secured: "OjkHds8mLGo4MFdzfK+5xz3EiAy8uoWRP2P/KMroRU3ZKks89jWd2m1xq2Mhf4UzvGuUYqx4sYOq779bi4DavcMtLxgpShQ9wbTigZ66xPOaeGRwwGUMTF4vU02C8KhksRJS66V7Kh9ehYycwdEaowZROUvwVGtsZe6+OP/Ipa/FL3q2da0qnHOdpkle2Dh8yCKhcByyM4oeGAbhnCW2gKHxfxCRn1W+X+Jg1669H1lQuZeoA2FVN2tQOmrjepX3KtffIA6Em7eDhu7PBsGxqXgXr5sDvXQaUYd7weVpWYPkTU23LJW8Jdask7JFVE3uIlDUP8zsy4OKki998Tl/z8KumoLesSjXymhf8ZXLQdVWf3Eoud8qQYA/na6gaOHkQkuMXni7HoYs3GJ+PT391gkzOSpHmOaKaR98Q47LdniXOAKIzDEv4K5TITnig3Qq8CkWEMmTNdTnoEQI/F8ho5K3+sNmJX7TTjYyhbiWl2KcYlqb04bYR8I6rAEvEzJ7dZK1qT5U2xpqENZyDlkUrQ==;hdaX9n3zb1HSkqT/WUs/yQ=="
 ---

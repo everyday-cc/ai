@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/amp/"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 123
+published: true
 
 provider:
   name: Crowdfund Insider
@@ -27,110 +27,93 @@ images:
     isCached: true
 
 related:
-  - title: "Zesty.ai Welcomes $10M Infusion From Fintech Firm Brex"
-    excerpt: "U.S. Fintech company Brex has provided $10 million in growth capital via venture debt to Zesty.ai, a provider of predictive data analytics in the climate risk space. The financing will help Zesty.ai expand into use cases beyond insurance,"
-    publishedDateTime: 2022-03-25T13:02:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/amp/"
+  - title: "Kenyan Fintech Churpy Attracts $1M Seed Round Led By Unicorn Growth Capital"
+    excerpt: "Kenyan Fintech Churpy Attracts $1M Seed Round Led By Unicorn Growth Capital. | Crowdfund Insider: Global Fintech News, including Crowdfunding, Blockchain and"
+    publishedDateTime: 2022-03-30T02:26:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/03/189072-kenyan-fintech-churpy-attracts-1m-seed-round-led-by-unicorn-growth-capital/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/03/189072-kenyan-fintech-churpy-attracts-1m-seed-round-led-by-unicorn-growth-capital/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/189072-kenyan-fintech-churpy-attracts-1m-seed-round-led-by-unicorn-growth-capital/amp/"
     type: article
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
-    quality: 59
+    quality: 42
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/11/US-Dollars-Money-Grant.jpg"
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/01/Unicorn.jpg"
         width: 1280
         height: 960
         isCached: true
-  - title: "3 Best Fintech Stocks for a Portfolio Boost"
-    excerpt: "Rising interest rates and higher inflation means you're looking for more opportunities to invest, maybe in niche markets. Why not consider fintech, short for \"financial technology.\""
-    publishedDateTime: 2022-03-29T06:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/423314"
+  - title: "Swiss spend management fintech Yokoy raises $80m"
+    excerpt: "To date, Yokoy has raised more than $107m and it says the new funding will be used to fuel international expansion, product developing and expanding headcount."
+    publishedDateTime: 2022-03-29T10:14:00Z
+    webUrl: "https://www.altfi.com/article/9029_swiss-spend-management-platform-yokoy-raises-80m"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
+      name: altfi
+      domain: altfi.com
+    quality: 39
     images:
-      - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-423314.jpeg"
-        width: 1000
-        height: 603
-        isCached: true
-  - title: "From being a niche previously, fintech has become the new normal"
-    excerpt: "Over the last five years, the growth of fintech startups and solutions has resulted in a fundamentally new and altered financial services sector. Customer expectations are changing, competition is fierce,"
-    publishedDateTime: 2022-03-26T12:30:00Z
-    webUrl: "https://www.freepressjournal.in/business/from-being-a-niche-previously-fintech-has-become-the-new-normal"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/from-being-a-niche-previously-fintech-has-become-the-new-normal"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/from-being-a-niche-previously-fintech-has-become-the-new-normal"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 44
-    images:
-      - url: "https://images.assettype.com/freepressjournal/2020-02/c8a4770b-9848-4959-9f62-09611ff9f33a/Fin_tech.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+      - url: "https://www.altfi.com/images/featured/swiss-spend-management-platform-yokoy-raises-80m.jpg"
         width: 1200
-        height: 672
+        height: 720
         isCached: true
-  - title: "Gaming fintech firm enables Bitcoin tips for streamers"
-    excerpt: "Gaming fintech ZEBEDEE launched ZBD Streamer on Tuesday, enabling content creators to collect Bitcoin tips while live streaming on online platforms."
-    publishedDateTime: 2022-03-29T13:00:00Z
-    webUrl: "https://forkast.news/headlines/gaming-fintech-bitcoin-tips-streamers/"
-    ampWebUrl: "https://forkast.news/headlines/gaming-fintech-bitcoin-tips-streamers/amp/"
-    cdnAmpWebUrl: "https://forkast-news.cdn.ampproject.org/c/s/forkast.news/headlines/gaming-fintech-bitcoin-tips-streamers/amp/"
+  - title: "Fintech Effectiv raises $4m from Accel for fraud and risk management platform"
+    excerpt: "Fintech startup Effectiv has today announced a $4 million seed funding round, led by Accel with participation from REV (funded by RELX) and other industry leaders. Effectiv offers a next-generation, no-code risk management platform for mid-sized banks,"
+    publishedDateTime: 2022-03-29T14:20:00Z
+    webUrl: "https://apnews.com/press-release/NewsDirectCorporation/technology-business-c58d1ac5538864eda77b591d265ab961"
     type: article
     provider:
-      name: forkast
-      domain: forkast.news
-    quality: 44
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
     images:
-      - url: "https://forkast.news/wp-content/uploads/2022/03/aleksi-raisa-DCCt1CQT8Os-unsplash-1260x754.jpg"
-        width: 1260
-        height: 754
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Zesty.ai Receives $10M in Growth Capital"
-    excerpt: "Zesty.ai, a San Francisco, CA-based provider of predictive data analytics in the climate risk space, received $10M in venture debt financing"
-    publishedDateTime: 2022-03-26T11:08:00Z
-    webUrl: "https://www.finsmes.com/2022/03/zesty-ai-receives-10m-in-growth-capital.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/03/zesty.png"
-        width: 1251
-        height: 1251
-        isCached: true
-  - title: "How Sidetrade utilises AI for its FinTech platform"
-    excerpt: "FinTech Magazine speaks to Mark Sheldon, CTO at Sidetrade to learn more about the company and its work with AI within the fintech industry"
-    publishedDateTime: 2022-03-28T08:09:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/how-sidetrade-utilise-ai-for"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/f4eeb53075c3c0944ddd42a4aec76333:be21c30c397a8c807801fb0947bcad80/gettyimages-1283432364-1.jpg.jpg"
-        width: 1799
-        height: 1010
-        isCached: true
-  - title: "Top 10 Most Promising Fintech Firms in India 2022"
-    excerpt: "FinTech firms are technological alternatives to traditional financial firms’ back-end systems in the twenty-first century. Find out the top 10 most p"
-    publishedDateTime: 2022-03-26T17:12:00Z
-    webUrl: "https://menafn.com/1103917638/Top-10-Most-Promising-Fintech-Firms-in-India-2022"
+  - title: "Fintech Effectiv raises $4m from Accel for fraud and risk management platform"
+    excerpt: "Fintech startup Effectiv has today announced a $4 million seed funding round, led by Accel with participation from REV (funded by RELX) and other industry leaders. Effectiv offers a next-generation, no-code risk management platform for mid-sized banks,"
+    publishedDateTime: 2022-03-29T17:53:00Z
+    webUrl: "https://menafn.com/1103933031/Fintech-Effectiv-raises-4m-from-Accel-for-fraud-and-risk-management-platform"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 24
+    quality: 36
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?869496"
-        width: 442
-        height: 250
+      - url: "https://menafn.com/updates/pr/2022-03/29/ND_aecb4image_story.png"
+        width: 720
+        height: 469
         isCached: true
+  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
+    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
+    publishedDateTime: 2022-03-29T10:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
+  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
+    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
+    publishedDateTime: 2022-03-30T01:50:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 21
+  - title: "Middle East’s largest AI-based digital health platform raises $44 million in Series B funding"
+    excerpt: "The new funds will be used to expand Altibbi’s offering into online pharmacy and diagnostics collection to establish the regions first end-to-end fully integrated digital health primary care offering,"
+    publishedDateTime: 2022-03-28T09:10:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/healthcare/middle-easts-largest-ai-based-digital-health-platform-raises-44-million-in-series-b-funding"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 6
 
 secured: "eF+Bq9MSKAzKqov083BDlCikoQZ215GlZs6xfSfJhuHuK2YM2BYtW7U73Y2jV5thiEHKxfwDvKRPkmoPKTVn6h/OHb2Qi95iPEFU/0N7X9eqTAE/wPDlQlPW795PPdSS0Kz7Js42od1/AgGqh22OqXDGQVJsUziFFB/7NQEGsX0dXp1eBLchA5vfXlRWnrfQpyGJTIYnq+Op/+9jeHKoXRAr3FudDQMnycegkf14fHngRq9tg8EVS/+JfJTtez+m5SaMGcC2QZCciGmvHZe4yzDNoXTJNM2+TYBErXYRk4GEny5Veo7/F+LY4kKbx0Zt5s7L4+5Hgql61I09hAaYjXaXDdNds2vfFAwM5Wr3+YEBCPEL/bK8syDVLOZrkLHZes5tayW64CxPi4HB3dUV8bLZuuCxuRyUzFQBZs34dyosc0eAUaXp7ZQ4tCw3vDAPTXd6kzmHZ3T/Cm6li1NLfBh6730tz0xznVphsV+HtYIW+egtsT9T//ZUj3MTLk/y6FlAOq1xIH5mMftKvpgM7g==;t5r3+CKo9XQbRZCCw2VI/Q=="
 ---
