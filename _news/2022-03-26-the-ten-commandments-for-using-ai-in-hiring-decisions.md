@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaelashley/2022/03/26/the-ten-comman
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://nearshoreamericas.com/wp-content/uploads/2022/03/machine-learning.jpeg"
         width: 1920
         height: 1280
-        isCached: true
-  - title: "The 4 Improvements Manufacturing Can Realize Through AI"
-    excerpt: "Artificial intelligence is one of the major technological advancements contributing to the growth of the manufacturing sector in the fourth industrial revolution. AI can be widely used in manufacturing to solve the hurdles like long machine downtime and quality issues."
-    publishedDateTime: 2022-03-25T21:28:00Z
-    webUrl: "https://www.manufacturing.net/operations/blog/22132016/the-4-improvements-manufacturing-can-realize-through-ai"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/03/16x9/AI__circuit_board_1145585734_1298x811__1_.623e33653b213.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "The military wants AI to replace human decision-making in battle"
     excerpt: "DARPA, the innovation arm of the U.S. military, wants artificial intelligence to make battlefield medical decisions, raising red flags from some experts and ethicists."

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Fintech Market 2022 Latest Updates, Business Trends and Future Growth Prospects to 2028"
-    excerpt: "The latest released survey report titled Global Artificial Intelligence (AI) in Fintech Market 2022 by Company, Regions, Type and Application, Forecast to 2028 by MarketsandResearch.biz gives an insight into the trending modern situation and the future growth of the industry for a length of 2022 to 2028."
-    publishedDateTime: 2022-03-27T21:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-fintech-market-2022-latest-updates-business-trends-and-future-growth-prospects-to-2028-2022-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Molecular Robots Market By Size, Share, Growth, Dynamic Analysis, And Forecast To 2030"
     excerpt: "Comserve / -- The global molecular robots market is anticipated to garner a substantial CAGR over the forecast per"
     publishedDateTime: 2022-03-28T17:08:00Z

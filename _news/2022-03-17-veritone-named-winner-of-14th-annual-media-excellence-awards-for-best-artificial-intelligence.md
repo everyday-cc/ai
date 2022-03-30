@@ -1,26 +1,19 @@
 ---
 category: news
 title: "Veritone Named Winner of 14th Annual Media Excellence Awards for Best Artificial Intelligence"
-excerpt: "Veritone, Inc. , creator of aiWAREtm, a hyper-expansive enterprise AI platform, is pleased to announce it has been named the winner of the 14th Annual Media Excellence Awards (MEA) for Best Artificial Intelligence."
-publishedDateTime: 2022-03-17T11:08:00Z
-originalUrl: "https://www.lelezard.com/en/news-20291969.html"
-webUrl: "https://www.lelezard.com/en/news-20291969.html"
+excerpt: "(NASDAQ: VERI), creator of aiWARE™, a hyper-expansive enterprise AI platform, is pleased to announce it has been named the winner of the 14th Annual Media Excellence Awards (MEA) for Best Artificial Intelligence."
+publishedDateTime: 2022-03-17T11:00:00Z
+originalUrl: "https://www.silicon.co.uk/press-release/veritone-named-winner-of-14th-annual-media-excellence-awards-for-best-artificial-intelligence"
+webUrl: "https://www.silicon.co.uk/press-release/veritone-named-winner-of-14th-annual-media-excellence-awards-for-best-artificial-intelligence"
 type: article
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Tech Week Europe
+  domain: silicon.co.uk
 
 topics:
-  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "P/jBkdRizJLoDZ1vcGLVvHVeNt+j1uxLvh1dHYloOlzZ9Mq+zRvgjjv3Qb3aNiXDqe7Ch5lZOJ33qyrz7KuJ5USNVb74H2abNkxL3sXjXoK5iSBkFZPTt2kcRu6xQfDTWJOpjUQ/HfI7lxAcWZVvUhUFlYOlkW5QueHBJoqm2jkzm4WHwbjB2rULSRDQ1t9mI/N0spXaLxVuLi8RZ1cx4p5zqhAOdgPbFAMtU7JG3vU6uTdiD/ycEHTwsfQWaRaYDdpC8as6WZTatcLVb+ijDFCYTZVRN4d8gQyHiGXGkmBR8+X6sTGrc1gsYKw2sPcuYYeA4S2IcpPmYovTiKI/qV6sagpqoOijQEuiFrVpZ7c=;ywBz+yfHGrFvOe+QTVHp5A=="
+secured: "qH61biFLbjyO1yqVhJwfKJuzVwbl1R7/j5mHsXmZRT4Dvx2aBtayC6+SZchf9xTQxg7How+YLJspqeCNvZaPyidlJ8GMUAUv4EYRRbvmv8MC+Wjp365+akt92+dOCWGmzTxWBvMt7Un3QaUCSPp8y5J0v7huCaOL8DCEbVJro6up8t0dQS4VjkX1yn3E22MftEVtvhPpkbNpd+g272SrhUX0k8p/YToFhv7M4SgdAIx5K2qaFePtLSxiaziVGWJD/aOf8cJQSHzAV/Dr4O1N+RnaDnxUrW3+cbqCPkOWjiat5aYc6AmhXkGnFE15Fp9UAvTMNc2q97fQz2nSBxEsZodXgxs5SMnb1RZeTBzjQ1g=;pXFWWkxn6pbMfu1bmAat8g=="
 ---
 

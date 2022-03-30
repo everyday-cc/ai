@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-03-30-former-deepmind-employee-claims-ai-firm-mishandled-sexual-misconduct-allegations.md",
-      "title": "Former DeepMind employee claims AI firm mishandled sexual misconduct allegations",
-      "excerpt": "A former employee at British artificial intelligence (AI) developer DeepMind has accused the firm of mishandling multiple sexual misconduct allegations.",
+      "path": "_news/2022-03-30-deepmind-accused-of-mishandling-sexual-misconduct-allegations.md",
+      "title": "DeepMind accused of mishandling sexual misconduct allegations",
+      "excerpt": "A former DeepMind employee has accused the artificial intelligence group’s leadership of mishandling multiple allegations of sexual misconduct and harassment, raising concerns over how grievances are dealt with at the Google-acquired company.",
       "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/former-deepmind-employee-claims-ai-firm-mishandled-sexual-misconduct-allegations/",
-      "originalUrl": "https://www.cityam.com/former-deepmind-employee-claims-ai-firm-mishandled-sexual-misconduct-allegations/",
+      "webUrl": "https://arstechnica.com/tech-policy/2022/03/deepmind-accused-of-mishandling-sexual-misconduct-allegations/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2022/03/deepmind-accused-of-mishandling-sexual-misconduct-allegations/",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cityam.com/wp-content/uploads/2021/09/Google-Announces-EUR-1-Billion-Investment-In-Germany-Including-Renewable-Energies-1337404394-1.jpg",
-          "width": 1024,
-          "height": 683,
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/deepmind-760x380.jpeg",
+          "width": 760,
+          "height": 380,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cityam.com/former-deepmind-employee-claims-ai-firm-mishandled-sexual-misconduct-allegations/?amp=1",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/former-deepmind-employee-claims-ai-firm-mishandled-sexual-misconduct-allegations/?amp=1",
-      "publishedDateTime": "2022-03-30T03:48:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T08:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

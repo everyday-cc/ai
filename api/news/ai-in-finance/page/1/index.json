@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-03-29-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding.md",
-      "title": "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding",
-      "excerpt": "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding. | Crowdfund Insider: Global Fintech News, including Crowdfunding,",
+      "path": "_news/2022-03-30-six-fintech-trends-to-watch-in-2022.md",
+      "title": "Six Fintech Trends To Watch In 2022",
+      "excerpt": "Despite pandemic-induced delays, 2021 was still a strong year for growth in the fintech industry. What can we expect going forward in fintech?",
       "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 194,
       "tags": null,
       "images": [
         {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2022/03/Effectiv-AI-Founders-Team.jpeg",
-          "width": 1766,
-          "height": 1325,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62436cd289a4b767dd415637/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/amp/",
-      "publishedDateTime": "2022-03-29T06:21:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/amp/",
+      "publishedDateTime": "2022-03-30T07:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -142,7 +151,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028-2022-03-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -184,92 +193,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-03-27-fintech-roundup-will-financial-technology-startups-dodge-the-venture-slowdown.md",
-      "title": "Fintech Roundup: Will financial technology startups dodge the venture slowdown?",
-      "excerpt": "On March 25, PitchBook released its 2021 Annual Fintech Report, which found that the fintech industry raised $121.6 billion last year — up 153% year-over-year in terms of global VC deal value. Alex and I will be doing a deep dive on that report next week,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/27/fintech-roundup-will-financial-technology-startups-dodge-the-venture-slowdown/",
-      "originalUrl": "https://techcrunch.com/2022/03/27/fintech-roundup-will-financial-technology-startups-dodge-the-venture-slowdown/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/Nora-Apsel-headshot-USE-1.jpg?w=680",
-          "width": 680,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/27/fintech-roundup-will-financial-technology-startups-dodge-the-venture-slowdown/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/27/fintech-roundup-will-financial-technology-startups-dodge-the-venture-slowdown/amp/",
-      "publishedDateTime": "2022-03-27T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-26-tap-the-booming-fintech-market-with-these-etfs.md",
-      "title": "Tap the Booming Fintech Market With These ETFs",
-      "excerpt": "The emergence of cutting-edge technologies like AI, cloud computing, big data, the Internet of Things (IoT) and machine learning is driving the fintech space. The growing popularity of smartphones, rising demand for industrial automation and the increased utilization of wireless communication are boosting the transition to digital platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs",
-      "originalUrl": "https://www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs?amp",
-      "publishedDateTime": "2022-03-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     },
     {
@@ -1296,6 +1219,101 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-financial-services-businesses-must-stop-putting-customer-due-diligence-on-the-backburner.md",
+      "title": "Financial services businesses must stop putting Customer Due Diligence on the backburner",
+      "excerpt": "Financial crime challenges even the most diligent of organisations. During the Covid-19 pandemic, fraud proliferated in the UK, with professional criminals targeting the public amid Covid-19 disruption to the tune of £37 million in 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/the-long-read/363/financial-services-businesses-must-stop-putting-customer-due-diligence-on-the-backburner",
+      "originalUrl": "https://www.finextra.com/the-long-read/363/financial-services-businesses-must-stop-putting-customer-due-diligence-on-the-backburner",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/oped/363.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-how-ai-reshapes-the-fintech-landscape.md",
+      "title": "How AI reshapes the Fintech Landscape?",
+      "excerpt": "AI is no more an enemy of finance space as it was a decade ago when it was met with blank stares by leaders in the field. Enabling technology into the finance landscape has brought in more resilience,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/how-ai-reshapes-fintech-landscape-mileseducation",
+      "originalUrl": "https://www.linkedin.com/pulse/how-ai-reshapes-fintech-landscape-mileseducation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE4c6S_TVyX-A/article-cover_image-shrink_720_1280/0/1647337835691?e=1653523200&v=beta&t=7Mw6OVefYeN4oFPTpPXsZExUWtgYyDk-_ANzjnBMPns",
+          "width": 1188,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T02:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],

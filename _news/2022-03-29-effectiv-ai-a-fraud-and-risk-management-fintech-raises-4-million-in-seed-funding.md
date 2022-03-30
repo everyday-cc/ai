@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/amp/"
 type: article
 quality: 53
-heat: 103
-published: true
+heat: -1
+published: false
 
 provider:
   name: Crowdfund Insider
@@ -27,21 +27,113 @@ images:
     isCached: true
 
 related:
-  - title: "Kenyan Fintech Churpy Attracts $1M Seed Round Led By Unicorn Growth Capital"
-    excerpt: "Kenyan Fintech Churpy Attracts $1M Seed Round Led By Unicorn Growth Capital. | Crowdfund Insider: Global Fintech News, including Crowdfunding, Blockchain and"
-    publishedDateTime: 2022-03-30T02:26:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/03/189072-kenyan-fintech-churpy-attracts-1m-seed-round-led-by-unicorn-growth-capital/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/03/189072-kenyan-fintech-churpy-attracts-1m-seed-round-led-by-unicorn-growth-capital/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/189072-kenyan-fintech-churpy-attracts-1m-seed-round-led-by-unicorn-growth-capital/amp/"
+  - title: "Six Fintech Trends To Watch In 2022"
+    excerpt: "Despite pandemic-induced delays, 2021 was still a strong year for growth in the fintech industry. What can we expect going forward in fintech?"
+    publishedDateTime: 2022-03-30T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 42
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/01/Unicorn.jpg"
-        width: 1280
-        height: 960
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62436cd289a4b767dd415637/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Fintech Roundup: Will financial technology startups dodge the venture slowdown?"
+    excerpt: "On March 25, PitchBook released its 2021 Annual Fintech Report, which found that the fintech industry raised $121.6 billion last year — up 153% year-over-year in terms of global VC deal value. Alex and I will be doing a deep dive on that report next week,"
+    publishedDateTime: 2022-03-27T14:16:00Z
+    webUrl: "https://techcrunch.com/2022/03/27/fintech-roundup-will-financial-technology-startups-dodge-the-venture-slowdown/"
+    ampWebUrl: "https://techcrunch.com/2022/03/27/fintech-roundup-will-financial-technology-startups-dodge-the-venture-slowdown/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/27/fintech-roundup-will-financial-technology-startups-dodge-the-venture-slowdown/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 70
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/03/Nora-Apsel-headshot-USE-1.jpg?w=680"
+        width: 680
+        height: 453
+        isCached: true
+  - title: "Fintech, CreditRich, Pins Agreement With Qolo As New Payment Processor To Improve Existing App"
+    excerpt: "This Deal Now Creates Continued Pathways for Improving Credit and Building Wealth in Underserved Communities. CreditRich, a new fintech company that allows users to round up their spare change to pay their bills intelligently and improve their credit ..."
+    publishedDateTime: 2022-03-28T12:02:00Z
+    webUrl: "https://www.forbes.com/sites/coreincarter/2022/03/28/fintech-creditrich-pins-agreement-with-qolo-as-new-payment-processor-to-improve-existing-app/"
+    ampWebUrl: "https://www.forbes.com/sites/coreincarter/2022/03/28/fintech-creditrich-pins-agreement-with-qolo-as-new-payment-processor-to-improve-existing-app/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/coreincarter/2022/03/28/fintech-creditrich-pins-agreement-with-qolo-as-new-payment-processor-to-improve-existing-app/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 62
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62414429c8c870d5a5e22e59/0x0.jpg?format=jpg&crop=1820,1024,x0,y147,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Fintech Market 2022 Latest Updates, Business Trends and Future Growth Prospects to 2028"
+    excerpt: "The latest released survey report titled Global Artificial Intelligence (AI) in Fintech Market 2022 by Company, Regions, Type and Application, Forecast to 2028 by MarketsandResearch.biz gives an insight into the trending modern situation and the future growth of the industry for a length of 2022 to 2028."
+    publishedDateTime: 2022-03-27T21:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-fintech-market-2022-latest-updates-business-trends-and-future-growth-prospects-to-2028-2022-03-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "3 Best Fintech Stocks for a Portfolio Boost"
+    excerpt: "Rising interest rates and higher inflation means you're looking for more opportunities to invest, maybe in niche markets. Why not consider fintech, short for \"financial technology.\""
+    publishedDateTime: 2022-03-29T06:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/423314"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-423314.jpeg"
+        width: 1000
+        height: 603
+        isCached: true
+  - title: "From being a niche previously, fintech has become the new normal"
+    excerpt: "Over the last five years, the growth of fintech startups and solutions has resulted in a fundamentally new and altered financial services sector. Customer expectations are changing, competition is fierce,"
+    publishedDateTime: 2022-03-26T12:30:00Z
+    webUrl: "https://www.freepressjournal.in/business/from-being-a-niche-previously-fintech-has-become-the-new-normal"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/from-being-a-niche-previously-fintech-has-become-the-new-normal"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/from-being-a-niche-previously-fintech-has-become-the-new-normal"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 44
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2020-02/c8a4770b-9848-4959-9f62-09611ff9f33a/Fin_tech.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "Gaming fintech firm enables Bitcoin tips for streamers"
+    excerpt: "Gaming fintech ZEBEDEE launched ZBD Streamer on Tuesday, enabling content creators to collect Bitcoin tips while live streaming on online platforms."
+    publishedDateTime: 2022-03-29T13:00:00Z
+    webUrl: "https://forkast.news/headlines/gaming-fintech-bitcoin-tips-streamers/"
+    ampWebUrl: "https://forkast.news/headlines/gaming-fintech-bitcoin-tips-streamers/amp/"
+    cdnAmpWebUrl: "https://forkast-news.cdn.ampproject.org/c/s/forkast.news/headlines/gaming-fintech-bitcoin-tips-streamers/amp/"
+    type: article
+    provider:
+      name: forkast
+      domain: forkast.news
+    quality: 44
+    images:
+      - url: "https://forkast.news/wp-content/uploads/2022/03/aleksi-raisa-DCCt1CQT8Os-unsplash-1260x754.jpg"
+        width: 1260
+        height: 754
         isCached: true
   - title: "Swiss spend management fintech Yokoy raises $80m"
     excerpt: "To date, Yokoy has raised more than $107m and it says the new funding will be used to fuel international expansion, product developing and expanding headcount."
@@ -57,43 +149,62 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Fintech Effectiv raises $4m from Accel for fraud and risk management platform"
-    excerpt: "Fintech startup Effectiv has today announced a $4 million seed funding round, led by Accel with participation from REV (funded by RELX) and other industry leaders. Effectiv offers a next-generation, no-code risk management platform for mid-sized banks,"
-    publishedDateTime: 2022-03-29T14:20:00Z
-    webUrl: "https://apnews.com/press-release/NewsDirectCorporation/technology-business-c58d1ac5538864eda77b591d265ab961"
+  - title: "Top 10 Most Promising Fintech Firms in India 2022"
+    excerpt: "FinTech firms are technological alternatives to traditional financial firms’ back-end systems in the twenty-first century. Find out the top 10 most p"
+    publishedDateTime: 2022-03-26T17:12:00Z
+    webUrl: "https://menafn.com/1103917638/Top-10-Most-Promising-Fintech-Firms-in-India-2022"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?869496"
+        width: 442
+        height: 250
+        isCached: true
+  - title: "Top 20+ Upcoming Fintech Events to Attend in Europe"
+    excerpt: "Technological advances and evolving customer expectations are changing the financial landscape, stimulating fintech development and innovation. To keep up with the burgeoning fintech industry, top-quality fintech events are being organized on a regular basis to educate attendees on the latest trends and enable professionals to build meaningful connections."
+    publishedDateTime: 2022-03-28T11:01:00Z
+    webUrl: "https://fintechnews.ch/fintech/top-20-upcoming-fintech-events-to-attend-in-europe/52085/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/03/Top-20-Upcoming-Fintech-Events-to-Attend-in-Europe-.png?x30842"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow"
+    excerpt: "TIFIN, a fintech platform using AI and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran Bill Parsons has joined the firm as Executive Vice President & General Manager of TIFIN Grow."
+    publishedDateTime: 2022-03-29T19:16:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-ef2bfcfef318948975a1a828c66b4ee2"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 36
+    quality: 24
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
-  - title: "Fintech Effectiv raises $4m from Accel for fraud and risk management platform"
-    excerpt: "Fintech startup Effectiv has today announced a $4 million seed funding round, led by Accel with participation from REV (funded by RELX) and other industry leaders. Effectiv offers a next-generation, no-code risk management platform for mid-sized banks,"
-    publishedDateTime: 2022-03-29T17:53:00Z
-    webUrl: "https://menafn.com/1103933031/Fintech-Effectiv-raises-4m-from-Accel-for-fraud-and-risk-management-platform"
+  - title: "10 Tech Companies Selected for 12th Annual FinTech Innovation Lab New York, Run by Accenture and Partnership Fund for New York City"
+    excerpt: "Ten emerging technology companies have been selected to participate in the 2022 FinTech Innovation Lab New York, a 12-week program founded and run by Accenture (NYSE: ACN) and the Partnership Fund for New York City that helps early- and growth-stage fintechs accelerate product and business development through in-depth engagement with top financial services and venture capital executives."
+    publishedDateTime: 2022-03-29T10:29:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-new-york-new-york-city-environment-61994af845e24227b653ee9f422d7065"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 36
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
     images:
-      - url: "https://menafn.com/updates/pr/2022-03/29/ND_aecb4image_story.png"
-        width: 720
-        height: 469
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Middle East’s largest AI-based digital health platform raises $44 million in Series B funding"
-    excerpt: "The new funds will be used to expand Altibbi’s offering into online pharmacy and diagnostics collection to establish the regions first end-to-end fully integrated digital health primary care offering,"
-    publishedDateTime: 2022-03-28T09:10:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/healthcare/middle-easts-largest-ai-based-digital-health-platform-raises-44-million-in-series-b-funding"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 6
 
 secured: "eF+Bq9MSKAzKqov083BDlCikoQZ215GlZs6xfSfJhuHuK2YM2BYtW7U73Y2jV5thiEHKxfwDvKRPkmoPKTVn6h/OHb2Qi95iPEFU/0N7X9eqTAE/wPDlQlPW795PPdSS0Kz7Js42od1/AgGqh22OqXDGQVJsUziFFB/7NQEGsX0dXp1eBLchA5vfXlRWnrfQpyGJTIYnq+Op/+9jeHKoXRAr3FudDQMnycegkf14fHngRq9tg8EVS/+JfJTtez+m5SaMGcC2QZCciGmvHZe4yzDNoXTJNM2+TYBErXYRk4GEny5Veo7/F+LY4kKbx0Zt5s7L4+5Hgql61I09hAaYjXaXDdNds2vfFAwM5Wr3+YEBCPEL/bK8syDVLOZrkLHZes5tayW64CxPi4HB3dUV8bLZuuCxuRyUzFQBZs34dyosc0eAUaXp7ZQ4tCw3vDAPTXd6kzmHZ3T/Cm6li1NLfBh6730tz0xznVphsV+HtYIW+egtsT9T//ZUj3MTLk/y6FlAOq1xIH5mMftKvpgM7g==;t5r3+CKo9XQbRZCCw2VI/Q=="
 ---

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota starts testing self-driving ride-hailing fleet"
-    excerpt: "Toyota, together with Aurora Innovation Inc., is currently testing a fleet of self-driving Sienna units in Texas."
-    publishedDateTime: 2022-03-28T06:37:00Z
-    webUrl: "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410"
-    ampWebUrl: "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp"
-    cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp"
-    type: article
-    provider:
-      name: Philkotse
-      domain: philkotse.com
-    quality: 59
-    images:
-      - url: "https://img.philkotse.com/2022/03/28/WFFKkBCT/toyota-sienna-aurora-942f_wm.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Toyota and Aurora Are Testing Self-Driving Vehicles in Texas"
     excerpt: "About a year after announcing plans to partner on the development of self-driving vehicles, Toyota and Aurora Innovation have put their prototypes on the road. These are based on"
     publishedDateTime: 2022-03-29T14:12:00Z
@@ -57,21 +41,21 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Mercedes to accept legal responsibility for accidents involving self-driving cars"
-    excerpt: "Mercedes has announced that it will take legal responsibility for any crashes that occur while the self-driving system on any of its cars is engaged."
-    publishedDateTime: 2022-03-28T17:55:00Z
-    webUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/"
-    ampWebUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
+  - title: "US authorities are defining safety standards for the self-driving vehicles of tomorrow"
+    excerpt: "Self-driving vehicles will now have their own automotive safety standards, according to the US National Highway Traffic Safety Administration (NHTSA). The goal is to clarify how passenger safety will be ensured in future vehicles without manual controls."
+    publishedDateTime: 2022-03-30T01:49:00Z
+    webUrl: "https://www.malaymail.com/news/drive/2022/03/30/us-authorities-are-defining-safety-standards-for-the-self-driving-vehicles/2050434"
+    ampWebUrl: "https://www.malaymail.com/amp/news/drive/2022/03/30/us-authorities-are-defining-safety-standards-for-the-self-driving-vehicles/2050434"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/drive/2022/03/30/us-authorities-are-defining-safety-standards-for-the-self-driving-vehicles/2050434"
     type: article
     provider:
-      name: Sunday Times Driving
-      domain: driving.co.uk
-    quality: 39
+      name: malaymail
+      domain: malaymail.com
+    quality: 36
     images:
-      - url: "https://www.driving.co.uk/wp-content/uploads/sites/5/2021/09/SAE-levels-of-automation.jpeg?w=1000"
-        width: 1000
-        height: 680
+      - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-03/20220330_auto_car_ETX_01-seo.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Self-driving vans from Toyota and Aurora partnership start testing in Texas"
     excerpt: "They are testing in the Dallas-Fort Worth area, where Aurora has been testing self-driving semi-trailer trucks since 2020. Some of the conditions the prototypes are faced with inc"
@@ -87,6 +71,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Exclusive: Beep in talks to deploy self-driving shuttles in downtown Orlando"
+    excerpt: "Beep Inc. has rolled out self-driving shuttles from Wyoming to Georgia — but its next expansion may be in the city where it began: #Orlando. #tech #innovation #autonomousvehicles #AV #localbusiness @B"
+    publishedDateTime: 2022-03-29T18:42:00Z
+    webUrl: "https://www.bizjournals.com/orlando/inno/stories/news/2022/03/29/beep-in-talks-to-deploy-self-driving-shuttles-in-d.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 1
 
 secured: "6dywlPVlnbKySoFKJCPDuUnTnf+ymL9dX2jP+68a6UV6Fz7rPkd0KJhNuWh61J9Ih1uBGHBTLoSSaFcUdbATPLGgr+i5ghnsoR0I0BhzaApH4C5QhekuoWYQck1HOkymnLHjq7sBrCXRsX9UpZI9240z/6i2gWcOdI3cTWk47hMOj7DuOhO2QxxL+2ssJrV4TS/7ucAaomzv9CMEsHKVejtAbbHKRqR2rS35chQ9vceq+xLYdMlONTrLwPHPC4hct6IStBE9nJLwHYEdxIyyW4+AQ/08UI8v+xGn+quolLOFFl85J/a8q6Jc2DEts/Xl9AGY7PJz/nDhWyX6Cr+7L9r47eKBHBXI7absYZ6Q2GotGnJTG4aPsbLqd7ylSuhve19lzsTVVQBHiLqY/k4wENCa+imCud7EMiJw+N4lAPYn+6AusIyXkNvslp8BZIe8SrKcDo5dJD4YUoLzZSbaSmsIKqFNM9eriD1SZPw6Som4cKszSwV/U51riJlC2bbUReIEPchpwGBAOn1oo+CFRA==;fWwSY3+kvXbpPhwMW0iSDg=="
 ---

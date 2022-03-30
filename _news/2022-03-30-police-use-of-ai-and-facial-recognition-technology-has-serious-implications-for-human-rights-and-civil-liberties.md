@@ -43,18 +43,18 @@ related:
   - title: "Peers challenge police use of artificial intelligence"
     excerpt: "The Lords Justice and Home Affairs Committee raised concerns about a lack of oversight for new technologies used by law enforcement agencies."
     publishedDateTime: 2022-03-30T08:01:00Z
-    webUrl: "https://www.dorsetecho.co.uk/news/national/20030184.peers-challenge-police-use-artificial-intelligence/"
+    webUrl: "https://www.echo-news.co.uk/news/national/20030184.peers-challenge-police-use-artificial-intelligence/"
     type: article
     provider:
-      name: Dorset Echo
-      domain: dorsetecho.co.uk
+      name: Echo news
+      domain: echo-news.co.uk
     quality: 37
     images:
-      - url: "https://www.dorsetecho.co.uk/resources/images/13598725/"
+      - url: "https://www.echo-news.co.uk/resources/images/13598725/"
         width: 2400
         height: 1600
         isCached: true
 
-secured: "OQAqRBVRz2dtZ3tsGHyFFm1ouCgZLZ3NNvMglYWZARUM65xn0h4lYbAAm7gBXhSZw2Lw/ILq9KDm+3D2bpRN6siGQBehwU0GCZuEYsqYa3xzUeGCMx9tTeI0ITBtir1ic/9wqSWLQe1alMR0LDPHydSdhEMj//nnfk7YM/1IbT10zPSMzaR24DFtE+SsJUbbTmlzxEpeiZnYCOQzVnVkQMTT66oIYrWGvZKBx/PjalQ8hnrr8wWXa/t0E0u3+xmNOK5ipikclUEB6+mFHle1Ece1pjS0l1DodwoKAArqUBNkNSfrqLJGh0YJCR76CjEzE3zRycsuOHEmz6HmDixXoSsu3pb9l0N8NJr+deABJco=;++6kpMwQKyXWksC2TCCsTQ=="
+secured: "rWSC7/Gy8PhQn8ChQ8Mi9q61BaWPeVRivKxOmzbE4gYZ5TgwIrTath8l59780GA+GmIQjSJOFx4vSUA23LOqKJwVs9DwpqpNjL/kLSvuJJfL3Bs+aKxgv8kzVw9M7NgEn5j/QbNcHeV2E2/CLeN49r/TwOfxctLHQV0uELKjDSDa+QFo3Af6KP8uzTjkGrJEX8ZWaAC+byrq3Tp4Uh5T53xX5yBKvTm8HGBHUot+4IgeaATycQl/jW9DVm2stmRQdGMyY0QNIKW5HhOXNHo39V6V8jPfAFNjNjkt/OP+ZknZFZ0ZCFdKO66QHNLe98HIhMj0qMDbWNSl3MwBna1kr7PWbHlmhne/6iB9VRa9VjV1+7tiS26vPoO9ZXG79fcSv8gPIPdrvBenVDVD3R/VacXvHkoL1/bmzAU79WTw1k4v15/lvCwimuPWRNmbjucKIq0acNWR68e9rPrEWicIj6sxJHrO6nhXOUmrrCmyBbdFKhnyyU9xgNGwigiDqAJsuewXFKBPnqkMcyBCyHoLxg==;mljo4Eob5RTzQT1ffPNEYg=="
 ---
 

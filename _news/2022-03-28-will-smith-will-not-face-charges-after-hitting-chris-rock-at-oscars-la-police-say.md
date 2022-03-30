@@ -41,6 +41,22 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Will Smith would face little more than a slap if charged"
+    excerpt: "But what does that recognition say to us about the legitimacy and credibility ... Defense attorney Adam Braun said it’s unrealistic Smith would face charges in the absence of serious injuries and without support from Rock. “Although a prosecution ..."
+    publishedDateTime: 2022-03-30T14:48:00Z
+    webUrl: "https://www.fox13now.com/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged"
+    ampWebUrl: "https://www.fox13now.com/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged?_amp=true"
+    cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged?_amp=true"
+    type: article
+    provider:
+      name: KSTU
+      domain: fox13now.com
+    quality: 44
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/9436275/2147483647/strip/true/crop/1000x563+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F5f%2F15%2F4139fb01488aa8a20226930f842e%2F1000.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Will Smith would face little more than a slap on the wrist if charged"
     excerpt: "Will Smith’s slap seen ’round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap"
     publishedDateTime: 2022-03-30T12:39:00Z
@@ -103,17 +119,6 @@ related:
         width: 1470
         height: 1000
         isCached: true
-  - title: "Will Smith would face little more than a slap if charged"
-    excerpt: "Will Smith’s slap seen ’round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap of his own — on the wrist."
-    publishedDateTime: 2022-03-30T12:28:00Z
-    webUrl: "https://www.seattletimes.com/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged/"
-    ampWebUrl: "https://www.seattletimes.com/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
 
 secured: "w0o+337yA4MHJrzM60uABeUbxGQK+dJrBJRg8lVM4d7tqfav6ycvOqNg58W6WOiq2+l/eeMw+AGr4GTMyMpfHMNDoJphzGk/D/Ltemcavxsij+YNzrIoMT1vMJxtGasWDQc+im3jKIslDWRi9NOsy8txwMSD+vWFOCxqmzIzFsWPzx3/Xmk4VaGMMr+7NfFOJH93pfwJ3h0j+wNBcRoQlRUWHm1hh/E+fYsJQBwFTi+8vrF1HffnRUqmLikU+43dcnM1ELCT9gxigl8/zzstQrJX3FIH2W++r2QJRP1ol5Cvuqv7klvt+HVsfcZdooCemaSiiWN3PgPD+922E2hRzij8raWOBegLTOGqETqkMrM=;tfB5LlaFHT/RA2oAVxzWUQ=="
 ---

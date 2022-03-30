@@ -19,19 +19,65 @@ topics:
   - AI
 
 related:
-  - title: "Exclusive: Deepgram adds 23 new languages and dialects to voice recognition engine"
-    excerpt: "Deepgram Inc., developer of a voice-recognition engine that it delivers as a service via application program interfaces, announced today that it has added 23 new language and dialect models to its original U."
-    publishedDateTime: 2022-03-29T15:00:00Z
-    webUrl: "https://siliconangle.com/2022/03/29/exclusive-quotes-tkdeepgram-adds-23-new-languages-dialects-voice-recognition-engine/"
+  - title: "Toyota and Aurora Are Testing Self-Driving Vehicles in Texas"
+    excerpt: "About a year after announcing plans to partner on the development of self-driving vehicles, Toyota and Aurora Innovation have put their prototypes on the road. These are based on"
+    publishedDateTime: 2022-03-29T14:12:00Z
+    webUrl: "https://www.auto123.com/en/news/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
+    ampWebUrl: "https://www.auto123.com/en/news/amp/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
+    cdnAmpWebUrl: "https://www-auto123-com.cdn.ampproject.org/c/s/www.auto123.com/en/news/amp/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 18
+      name: Auto123
+      domain: auto123.com
+    quality: 44
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/modern-microphone.jpg"
-        width: 2000
-        height: 1333
+      - url: "http://picolio.auto123.com/auto123-media/articles/2022/3/69082/toyota-aurora-1fr.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "US authorities are defining safety standards for the self-driving vehicles of tomorrow"
+    excerpt: "Self-driving vehicles will now have their own automotive safety standards, according to the US National Highway Traffic Safety Administration (NHTSA). The goal is to clarify how passenger safety will be ensured in future vehicles without manual controls."
+    publishedDateTime: 2022-03-30T01:49:00Z
+    webUrl: "https://www.malaymail.com/news/drive/2022/03/30/us-authorities-are-defining-safety-standards-for-the-self-driving-vehicles/2050434"
+    ampWebUrl: "https://www.malaymail.com/amp/news/drive/2022/03/30/us-authorities-are-defining-safety-standards-for-the-self-driving-vehicles/2050434"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/drive/2022/03/30/us-authorities-are-defining-safety-standards-for-the-self-driving-vehicles/2050434"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 36
+    images:
+      - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-03/20220330_auto_car_ETX_01-seo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving cars move closer to approval as Toyota tests cars in USA"
+    excerpt: "Japan Toyota Motor Company and Aurora Innovation an American developer of automated driving systems have begun testing an autonomous ride-hailing fleet in Texas"
+    publishedDateTime: 2022-03-27T03:06:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272425617/self-driving-cars-move-closer-to-approval-as-toyota-tests-cars-in-usa"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1648272795281.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Self-driving vans from Toyota and Aurora partnership start testing in Texas"
+    excerpt: "They are testing in the Dallas-Fort Worth area, where Aurora has been testing self-driving semi-trailer trucks since 2020. Some of the conditions the prototypes are faced with inc"
+    publishedDateTime: 2022-03-28T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1135428_self-driving-vans-from-toyota-and-aurora-partnership-start-testing-in-texas"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 22
+    images:
+      - url: "https://images.hgmsites.net/hug/toyota-and-aurora-self-driving-car-prototype_100834160_h.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "mNnpdVDIbew/xg8byrkImFmIZ3TJoTE31ak/qUPiprKodqiWOYpAeco1GsxahehFyf4FFm9de1+I2Dg5cdTF/xFlOwt2OdmBs9rfd++Gtwrx4LY2NXjanOQ4kixhbbR0z00kKYqPoVpctRVee2XlKG2uhpDJ1zuulEIguZO/o8u93plHnUApkRpVj4qgVisg7ClEBzhQhyLG2dw+GZGDaE2Y54vMbgKc5EzPwkij+wlNDV/77AGRmg2wYkf+b5HCQGTZjBiD1x+Qm+0AUI2RyB70ZhAx7+bpiP/0CUiidjlN2wO+TyPqd2BW3Ao46i7l+FHlgkOgqgfhQxvsWLnp/dLxoZoA2MNjrWUAA2q9FInO4BAiGQ1gmwXLWCIx6PqvzHH2YlOKeClfycg23ZmPgsUIANNRdGp5QHd8gJ67k1+A/DgjXfVFeZNwK4nULb0TC1SPU0I0W/LCdZPYuZSyyyxRRYrLhxTDpXZI0GqdZILUuOSMxPgt1xJB3cDAiEntUcyGHTsChg76otU2158ZVw==;zhiMnexw5w74X/zxrrDjiQ=="

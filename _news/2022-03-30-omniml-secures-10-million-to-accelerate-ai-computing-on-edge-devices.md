@@ -56,6 +56,20 @@ related:
         width: 700
         height: 500
         isCached: true
+  - title: "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices"
+    excerpt: "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment by Qualcomm Ventures,"
+    publishedDateTime: 2022-03-29T15:08:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-san-jose-venture-capital-artificial-intelligence-3c9b1122a386442a83dab3822c84a7dd"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Top AI trends for financial services in 2022"
     excerpt: "Globally in 2020, more than 70 billion real-time payment transactions were processed – an increase of 41% compared to the previous year. by Charles Sutton, Financial Services and FinTech Lead EMEA, NVIDIA This massive rise in transactions has presented an opportunity for criminals to conduct more fraudulent activities like account takeovers,"
     publishedDateTime: 2022-03-30T11:06:00Z
@@ -69,20 +83,6 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2022/03/Picture1-1.png"
         width: 624
         height: 289
-        isCached: true
-  - title: "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices"
-    excerpt: "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment by Qualcomm Ventures,"
-    publishedDateTime: 2022-03-29T15:08:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-san-jose-venture-capital-artificial-intelligence-3c9b1122a386442a83dab3822c84a7dd"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "AR1+yrwpEB+0VOe5NQl7+voNDdYYSzy5mnhskDtlBdQzikcexTCJQ5huNU6jIh3QyV9Tb7hulfus3KHqTvgPEwpqg59Sp1RGOQ5HcBLQB49p6ALXEKLRDPHf+dATEgXHkjummXJtCNgfngnXma1w0rXBxDiDjiGbP6bTGxL4pU7BcT47iuKWp+oGZs20F9ZQc6ThUwBF/8c16xdDgvVM/RUYerA+GJfzMsj50QHaGVVTMULaCLQ4L4DbZvmyFiBRlEftlFIeS4if7PThCQo40HF0/DzrkcbXlDVdjPXn9AhAQXb6kWL3MTJf/YoXXSnzdZDkSdDxgkISNpoILYuw5XFMrGBV2BzbUXECGuo50Q4=;+qc9q3LKR8NaAsJVwlAqNw=="

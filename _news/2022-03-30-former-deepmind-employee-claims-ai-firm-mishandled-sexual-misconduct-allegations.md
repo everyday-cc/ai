@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cityam.com/former-deepmind-employee-claims-ai-firm-misha
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/former-deepmind-employee-claims-ai-firm-mishandled-sexual-misconduct-allegations/?amp=1"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: City A.M.
@@ -28,20 +28,18 @@ images:
 
 related:
   - title: "DeepMind accused of mishandling sexual misconduct allegations"
-    excerpt: "DeepMind, which is owned by Google, said the senior researcher ‘who was investigated for misconduct was dismissed without any severance payments’ © FT montage/Dreamstime"
-    publishedDateTime: 2022-03-30T04:01:00Z
-    webUrl: "https://www.ft.com/content/928c5a91-baaa-41f2-b922-a07c74704e47"
-    ampWebUrl: "https://amp.ft.com/content/928c5a91-baaa-41f2-b922-a07c74704e47"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/928c5a91-baaa-41f2-b922-a07c74704e47"
+    excerpt: "A former DeepMind employee has accused the artificial intelligence group’s leadership of mishandling multiple allegations of sexual misconduct and harassment, raising concerns over how grievances are dealt with at the Google-acquired company."
+    publishedDateTime: 2022-03-30T15:35:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2022/03/deepmind-accused-of-mishandling-sexual-misconduct-allegations/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8ff2c32e-ee71-44d8-b6f3-377795448690.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/03/deepmind-760x380.jpeg"
+        width: 760
+        height: 380
         isCached: true
   - title: "An ex-DeepMind employee has publicly accused the firm of mishandling her complaints of sexual harassment: 'The same stories keep recurring.'"
     excerpt: "The claims follow years of complaints by former Googlers that it has a poor handle on allegations of inappropriate behavior."

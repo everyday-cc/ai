@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Will Smith would face little more than a slap if charged"
-excerpt: "Will Smith’s slap seen ’round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap of his own — on the wrist."
-publishedDateTime: 2022-03-30T12:28:00Z
-originalUrl: "https://www.seattletimes.com/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged/"
-webUrl: "https://www.seattletimes.com/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged/"
-ampWebUrl: "https://www.seattletimes.com/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged/?amp=1"
+excerpt: "But what does that recognition say to us about the legitimacy and credibility ... Defense attorney Adam Braun said it’s unrealistic Smith would face charges in the absence of serious injuries and without support from Rock. “Although a prosecution ..."
+publishedDateTime: 2022-03-30T14:48:00Z
+originalUrl: "https://www.fox13now.com/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged"
+webUrl: "https://www.fox13now.com/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged"
+ampWebUrl: "https://www.fox13now.com/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged?_amp=true"
+cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/entertainment/will-smith-would-face-little-more-than-a-slap-if-charged?_amp=true"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: KSTU
+  domain: fox13now.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/9436275/2147483647/strip/true/crop/1000x563+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F5f%2F15%2F4139fb01488aa8a20226930f842e%2F1000.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Could Will Smith face charges for slapping Chris Rock?"
@@ -114,6 +120,6 @@ related:
         height: 532
         isCached: true
 
-secured: "2bafAEMUDaMdRT0lffwDu64RoFBDrmqBV3qwGCHmDrBmVp/vusSpAKV56dzKAclKSc5+YTZiA5EWMeycQdbdyt1v5+Q0/MiwjugPQxryEcgtG8gYspqyJfKhaCSurHORn1C+om+2s8EQUUtVKCeUdh6uSSeuJ0HJONwNd9BReMTTFO4nwZt6gUt/7APuitO+C1sSsgqCkAWjsON9B2e9Ip1R1EMFnTVMoJwiR7avRm4m/P5XTIn4NKJdXDVUNWEYeWvcyfzg0X2yCzpK5a5TFjaMklVmkRX5Bq/myNWQ3uzwXhB60NFu+YKywfzEXuwlyVJvuzmgiSpxvjqvFCJJUAZb0YllRMuEuAdiAKZUOhQXaAx2MbgYpa8q4LB0bjaA2gbxUMDlVCWOMmQbSVEWpLssNVkjmNFzyPBy6DQ/AL0afVS/HIYNCAk9vzgV7sKkj8C6SHOy0N+f6//XmDHHpkVsL4GiNjetFaBxl7MUD0iW8UtZfp2DKk/x07SVBMU8ULuFZ0tQWwfx2B9h5UXoaQ==;8fuB91FZvaxee2snxFN1eg=="
+secured: "m0zi8ek26t/bwXbJvv9p+86htpgbdxi+Co7OiH6x25eV0SmU5JTe+XZrf//qCpWOCt9lJn+mzUxbL2O++lQsv0TaYO5kb/K2d/AwpyhSR/34MIb83BzoQdSEZGPCHyEtNMHubPxDJhoPg5IClkhXYPora3z4G9B0fBo671MdXpQIlKVCymHMj04wpWO82q2d9WRRh4RghraAsGz7P1BvLS2z5nxypHDbk5P83I4ixhzURrUti282eENRsK1DsphUO9fP2QoiOKguMeaqJpcp0yjM4v2FB8CbLd7NesxIYFOAEWtsBbR771Agh7QrudaC1fdAquX/ieq/wCEy2i323EgYQ+0jm3taDVvu4cVMD/g=;ORmyPlZ3UYuaYuwVj7t/HA=="
 ---
 

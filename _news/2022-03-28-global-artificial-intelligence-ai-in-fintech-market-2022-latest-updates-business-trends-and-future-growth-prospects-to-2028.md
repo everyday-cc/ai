@@ -29,103 +29,185 @@ images:
     isCached: true
 
 related:
-  - title: "Global Machine Learning Courses Market 2022 with Covid-19 Impact Analysis and Forecast by 2028"
-    excerpt: "MarketsandResearch.biz has presented a new market study on Global Machine Learning Courses Market 2022 by Company, Regions, Type and Application, Forecast to 2028 which delivers an executive-level market analysis that will help clients to build strategies to expand their market operations."
-    publishedDateTime: 2022-03-27T20:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028-2022-03-27"
+  - title: "Six Fintech Trends To Watch In 2022"
+    excerpt: "Despite pandemic-induced delays, 2021 was still a strong year for growth in the fintech industry. What can we expect going forward in fintech?"
+    publishedDateTime: 2022-03-30T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62436cd289a4b767dd415637/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Global Mobile Speech Recognition Software Market 2022 2028 Research Study Provides Projections of COVID-19 Pandemic in its New Report"
-    excerpt: "Global Mobile Speech Recognition Software Market 2022 by Company, Regions, Type and Application, Forecast to 2028 report has been recently issued by MarketsandResearch.biz. The study features the upcoming opportunities that can be tapped to penetrate the market or enhance the revenue share of the existing business."
-    publishedDateTime: 2022-03-29T19:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-mobile-speech-recognition-software-market-2022-2028-research-study-provides-projections-of-covid-19-pandemic-in-its-new-report-2022-03-29"
+  - title: "Fintech Roundup: Will financial technology startups dodge the venture slowdown?"
+    excerpt: "On March 25, PitchBook released its 2021 Annual Fintech Report, which found that the fintech industry raised $121.6 billion last year — up 153% year-over-year in terms of global VC deal value. Alex and I will be doing a deep dive on that report next week,"
+    publishedDateTime: 2022-03-27T14:16:00Z
+    webUrl: "https://techcrunch.com/2022/03/27/fintech-roundup-will-financial-technology-startups-dodge-the-venture-slowdown/"
+    ampWebUrl: "https://techcrunch.com/2022/03/27/fintech-roundup-will-financial-technology-startups-dodge-the-venture-slowdown/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/27/fintech-roundup-will-financial-technology-startups-dodge-the-venture-slowdown/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 70
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://techcrunch.com/wp-content/uploads/2022/03/Nora-Apsel-headshot-USE-1.jpg?w=680"
+        width: 680
+        height: 453
         isCached: true
-  - title: "Molecular Robots Market By Size, Share, Growth, Dynamic Analysis, And Forecast To 2030"
-    excerpt: "Comserve / -- The global molecular robots market is anticipated to garner a substantial CAGR over the forecast per"
-    publishedDateTime: 2022-03-28T17:08:00Z
-    webUrl: "https://menafn.com/1103925686/Molecular-Robots-Market-By-Size-Share-Growth-Dynamic-Analysis-And-Forecast-To-2030"
+  - title: "Fintech, CreditRich, Pins Agreement With Qolo As New Payment Processor To Improve Existing App"
+    excerpt: "This Deal Now Creates Continued Pathways for Improving Credit and Building Wealth in Underserved Communities. CreditRich, a new fintech company that allows users to round up their spare change to pay their bills intelligently and improve their credit ..."
+    publishedDateTime: 2022-03-28T12:02:00Z
+    webUrl: "https://www.forbes.com/sites/coreincarter/2022/03/28/fintech-creditrich-pins-agreement-with-qolo-as-new-payment-processor-to-improve-existing-app/"
+    ampWebUrl: "https://www.forbes.com/sites/coreincarter/2022/03/28/fintech-creditrich-pins-agreement-with-qolo-as-new-payment-processor-to-improve-existing-app/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/coreincarter/2022/03/28/fintech-creditrich-pins-agreement-with-qolo-as-new-payment-processor-to-improve-existing-app/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 62
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62414429c8c870d5a5e22e59/0x0.jpg?format=jpg&crop=1820,1024,x0,y147,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "3 Best Fintech Stocks for a Portfolio Boost"
+    excerpt: "Rising interest rates and higher inflation means you're looking for more opportunities to invest, maybe in niche markets. Why not consider fintech, short for \"financial technology.\""
+    publishedDateTime: 2022-03-29T06:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/423314"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-423314.jpeg"
+        width: 1000
+        height: 603
+        isCached: true
+  - title: "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding"
+    excerpt: "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding. | Crowdfund Insider: Global Fintech News, including Crowdfunding,"
+    publishedDateTime: 2022-03-29T13:21:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 53
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/03/Effectiv-AI-Founders-Team.jpeg"
+        width: 1766
+        height: 1325
+        isCached: true
+  - title: "From being a niche previously, fintech has become the new normal"
+    excerpt: "Over the last five years, the growth of fintech startups and solutions has resulted in a fundamentally new and altered financial services sector. Customer expectations are changing, competition is fierce,"
+    publishedDateTime: 2022-03-26T12:30:00Z
+    webUrl: "https://www.freepressjournal.in/business/from-being-a-niche-previously-fintech-has-become-the-new-normal"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/from-being-a-niche-previously-fintech-has-become-the-new-normal"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/from-being-a-niche-previously-fintech-has-become-the-new-normal"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 44
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2020-02/c8a4770b-9848-4959-9f62-09611ff9f33a/Fin_tech.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "Gaming fintech firm enables Bitcoin tips for streamers"
+    excerpt: "Gaming fintech ZEBEDEE launched ZBD Streamer on Tuesday, enabling content creators to collect Bitcoin tips while live streaming on online platforms."
+    publishedDateTime: 2022-03-29T13:00:00Z
+    webUrl: "https://forkast.news/headlines/gaming-fintech-bitcoin-tips-streamers/"
+    ampWebUrl: "https://forkast.news/headlines/gaming-fintech-bitcoin-tips-streamers/amp/"
+    cdnAmpWebUrl: "https://forkast-news.cdn.ampproject.org/c/s/forkast.news/headlines/gaming-fintech-bitcoin-tips-streamers/amp/"
+    type: article
+    provider:
+      name: forkast
+      domain: forkast.news
+    quality: 44
+    images:
+      - url: "https://forkast.news/wp-content/uploads/2022/03/aleksi-raisa-DCCt1CQT8Os-unsplash-1260x754.jpg"
+        width: 1260
+        height: 754
+        isCached: true
+  - title: "Swiss spend management fintech Yokoy raises $80m"
+    excerpt: "To date, Yokoy has raised more than $107m and it says the new funding will be used to fuel international expansion, product developing and expanding headcount."
+    publishedDateTime: 2022-03-29T10:14:00Z
+    webUrl: "https://www.altfi.com/article/9029_swiss-spend-management-platform-yokoy-raises-80m"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 39
+    images:
+      - url: "https://www.altfi.com/images/featured/swiss-spend-management-platform-yokoy-raises-80m.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "Top 10 Most Promising Fintech Firms in India 2022"
+    excerpt: "FinTech firms are technological alternatives to traditional financial firms’ back-end systems in the twenty-first century. Find out the top 10 most p"
+    publishedDateTime: 2022-03-26T17:12:00Z
+    webUrl: "https://menafn.com/1103917638/Top-10-Most-Promising-Fintech-Firms-in-India-2022"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 31
+    quality: 24
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?369614"
-        width: 429
-        height: 249
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?869496"
+        width: 442
+        height: 250
         isCached: true
-  - title: "Facial Recognition Market 2022 Outlook, Current and Future Industry Landscape Analysis 2032"
-    excerpt: "According to a recent study done by FMI, the  Facial Recognition Market  is expected to reach US$ 22.5 billion by 2032, up from US$ 5.2 billion in 2022, expanding at a high CAGR of 15.7%. This study explains that increase in government investments in emerging technologies of CCTV cameras in most public places to minimize criminal activities and terrorist attacks"
-    publishedDateTime: 2022-03-30T07:25:00Z
-    webUrl: "https://www.fmiblog.com/2022/03/30/facial-recognition-market-2022-outlook-current-and-future-industry-landscape-analysis-2032/"
+  - title: "Top 20+ Upcoming Fintech Events to Attend in Europe"
+    excerpt: "Technological advances and evolving customer expectations are changing the financial landscape, stimulating fintech development and innovation. To keep up with the burgeoning fintech industry, top-quality fintech events are being organized on a regular basis to educate attendees on the latest trends and enable professionals to build meaningful connections."
+    publishedDateTime: 2022-03-28T11:01:00Z
+    webUrl: "https://fintechnews.ch/fintech/top-20-upcoming-fintech-events-to-attend-in-europe/52085/"
     type: article
     provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 29
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
     images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2022/03/FMI-4.jpg"
-        width: 1008
-        height: 504
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/03/Top-20-Upcoming-Fintech-Events-to-Attend-in-Europe-.png?x30842"
+        width: 1024
+        height: 567
         isCached: true
-  - title: "Conversational Artificial Intelligence (AI) Market to 2028: Growth Analysis by Manufacturers, Regions, Types and Applications"
-    excerpt: "The global conversational Artificial Intelligence (AI) market size reached USD 4.91 Billion in 2020 and is expected to register a CAGR of 22.6%, during"
-    publishedDateTime: 2022-03-30T07:13:00Z
-    webUrl: "https://www.digitaljournal.com/pr/conversational-artificial-intelligence-ai-market-to-2028-growth-analysis-by-manufacturers-regions-types-and-applications"
+  - title: "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow"
+    excerpt: "TIFIN, a fintech platform using AI and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran Bill Parsons has joined the firm as Executive Vice President & General Manager of TIFIN Grow."
+    publishedDateTime: 2022-03-29T19:16:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-ef2bfcfef318948975a1a828c66b4ee2"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 27
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Italy-Wine-Asti-Spumante-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Cognitive Services Market Size and Analysis, Trends, Recent Developments, and Forecast Till 2028"
-    excerpt: "Elevating demand for APIs to develop smarter applications, the increasing use of the service in the functioning of different industries are some of the factors boosting the cognitive services market."
-    publishedDateTime: 2022-03-28T12:30:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cognitive-services-market-size-and-analysis-trends-recent-developments-and-forecast-till-2028"
+  - title: "10 Tech Companies Selected for 12th Annual FinTech Innovation Lab New York, Run by Accenture and Partnership Fund for New York City"
+    excerpt: "Ten emerging technology companies have been selected to participate in the 2022 FinTech Innovation Lab New York, a 12-week program founded and run by Accenture (NYSE: ACN) and the Partnership Fund for New York City that helps early- and growth-stage fintechs accelerate product and business development through in-depth engagement with top financial services and venture capital executives."
+    publishedDateTime: 2022-03-29T10:29:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-new-york-new-york-city-environment-61994af845e24227b653ee9f422d7065"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 26
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/7db448fc881b6b5c26e8531765d0fd0eeb014838-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Artificial Intelligence in BFSI Market Global Research, Top Leading player, Emerging Trends, Region by Forecast to 2028"
-    excerpt: "A new market study on the Artificial Intelligence in BFSI market applies both primary and secondary research techniques to identify new opportunities for"
-    publishedDateTime: 2022-03-30T11:13:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-bfsi-market-global-research-top-leading-player-emerging-trends-region-by-forecast-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 17
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-War-AFP-1K-01-1-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "D5G58Ds/P3sxds0r7Rh/k3ElHuqGLSr6/nlt5ZTPq4iJrBixsEq0zZAOdhl5z0DJJvcCfeIh2v1T3PF5LuTH309H9yuwKBNHoQUy9nfW7n35jWM9MWmbq5xB+xCs9RB+i/2clnmZrhcSB5lusnL6FcO3mY6rwXUN83dEpGxIuap9bgzXkdfJ+6CrBV1fgMCBda7GunDrKewLQ+eO/5bt6gUOARvFmpQhxR6eSH8p6dHTNzcqCN2Gp0h0o2qNTlpunogDKh9TrYKPwL2l7cRxLN8erICBGISazyEO2YNHeMa9h39RpW2W0lBSH5h9weX4Eg/8/mb4lgNokkNitPPzpJ5FsJ0QUG+Nvkyraja6UgE=;Z8DqoxP42ps5/YLidZwnGw=="

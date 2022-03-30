@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/NewsDirectCorporation/technology-
 webUrl: "https://apnews.com/press-release/NewsDirectCorporation/technology-business-c58d1ac5538864eda77b591d265ab961"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,52 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding"
-    excerpt: "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding. | Crowdfund Insider: Global Fintech News, including Crowdfunding,"
-    publishedDateTime: 2022-03-29T13:21:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 53
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/03/Effectiv-AI-Founders-Team.jpeg"
-        width: 1766
-        height: 1325
-        isCached: true
-  - title: "Kenyan Fintech Churpy Attracts $1M Seed Round Led By Unicorn Growth Capital"
-    excerpt: "Kenyan Fintech Churpy Attracts $1M Seed Round Led By Unicorn Growth Capital. | Crowdfund Insider: Global Fintech News, including Crowdfunding, Blockchain and"
-    publishedDateTime: 2022-03-30T02:26:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/03/189072-kenyan-fintech-churpy-attracts-1m-seed-round-led-by-unicorn-growth-capital/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/03/189072-kenyan-fintech-churpy-attracts-1m-seed-round-led-by-unicorn-growth-capital/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/189072-kenyan-fintech-churpy-attracts-1m-seed-round-led-by-unicorn-growth-capital/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 42
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/01/Unicorn.jpg"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "Swiss spend management fintech Yokoy raises $80m"
-    excerpt: "To date, Yokoy has raised more than $107m and it says the new funding will be used to fuel international expansion, product developing and expanding headcount."
-    publishedDateTime: 2022-03-29T10:14:00Z
-    webUrl: "https://www.altfi.com/article/9029_swiss-spend-management-platform-yokoy-raises-80m"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 39
-    images:
-      - url: "https://www.altfi.com/images/featured/swiss-spend-management-platform-yokoy-raises-80m.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Fintech Effectiv raises $4m from Accel for fraud and risk management platform"
     excerpt: "Fintech startup Effectiv has today announced a $4 million seed funding round, led by Accel with participation from REV (funded by RELX) and other industry leaders. Effectiv offers a next-generation, no-code risk management platform for mid-sized banks,"
     publishedDateTime: 2022-03-29T17:53:00Z
@@ -85,15 +39,6 @@ related:
         width: 720
         height: 469
         isCached: true
-  - title: "Middle East’s largest AI-based digital health platform raises $44 million in Series B funding"
-    excerpt: "The new funds will be used to expand Altibbi’s offering into online pharmacy and diagnostics collection to establish the regions first end-to-end fully integrated digital health primary care offering,"
-    publishedDateTime: 2022-03-28T09:10:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/healthcare/middle-easts-largest-ai-based-digital-health-platform-raises-44-million-in-series-b-funding"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 6
 
 secured: "cq0PlkDh8NThRXMAcbeY/5hnTSV8lDfT8wfff728B39KxIoxSpNFGDI/vmG26iOndBzRJUc/A0KOg5UcAWsdJFPXazXCJN5gjYIbhgrow5ykIlmwABBmII4fabMcE/rY9fHj8VM6nY0LOKnMQxzN2n0KsXrfA/l+uD8mQFwYqHy9FLzJveXFoxONV4cGNV5vuQcyXL5MgNWR6qoAN5WIvH9u7rNNsJg925+ra/b5sxP2fT1e5RfLi25sz2GOstDf5W8NvSmQYdPYziQW6sT6qLHPhEwALM5e+BvJ23d5xmYND213G7P/r0UytqpA9+3INY9KkoXQd8HsLCp+8Uv5CVDL9AGbIDkiE4zCEm5aPxc=;bzbLUbnVJiYKQJV/jTg42Q=="
 ---

@@ -24,7 +24,7 @@ related:
   - title: "3 African institutions partner to use artificial intelligence to tackle climate change"
     excerpt: "The West African Science Services Centre on Climate Change and Adapted Land Use (WASCAL) in partnership two other institutions, RUFORUM, an organisation made up of African universities working to promote agricultural development and"
     publishedDateTime: 2022-03-30T12:09:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/pressreleases/3-African-institutions-partner-to-use-artificial-intelligence-to-tackle-climate-change-1503218"
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/3-African-institutions-partner-to-use-artificial-intelligence-to-tackle-climate-change-1503218"
     type: article
     provider:
       name: Ghanaweb.com

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Fintech Market 2022 Latest Updates, Business Trends and Future Growth Prospects to 2028"
-    excerpt: "The latest released survey report titled Global Artificial Intelligence (AI) in Fintech Market 2022 by Company, Regions, Type and Application, Forecast to 2028 by MarketsandResearch.biz gives an insight into the trending modern situation and the future growth of the industry for a length of 2022 to 2028."
-    publishedDateTime: 2022-03-27T21:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-fintech-market-2022-latest-updates-business-trends-and-future-growth-prospects-to-2028-2022-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Mobile Speech Recognition Software Market 2022 2028 Research Study Provides Projections of COVID-19 Pandemic in its New Report"
     excerpt: "Global Mobile Speech Recognition Software Market 2022 by Company, Regions, Type and Application, Forecast to 2028 report has been recently issued by MarketsandResearch.biz. The study features the upcoming opportunities that can be tapped to penetrate the market or enhance the revenue share of the existing business."
     publishedDateTime: 2022-03-29T19:52:00Z
