@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "huggingface"
   url: "https://twitter.com/huggingface"
-  followers: 80496
+  followers: 80502
 
 size: 11-50 employees
 yearFounded: 2016
