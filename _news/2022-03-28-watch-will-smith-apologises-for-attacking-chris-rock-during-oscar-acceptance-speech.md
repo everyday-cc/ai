@@ -43,6 +43,22 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Will Smith would face little more than a slap if charged"
+    excerpt: "Will Smith’s slap seen ’round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted hed"
+    publishedDateTime: 2022-03-30T00:21:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/smith-face-slap-charged-83752237"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/smith-face-slap-charged-83752237"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/smith-face-slap-charged-83752237"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_643be489b43e4dcea8c5ae804e8396c8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Oscars 2022: Tearful Will Smith DEFENDS Chris Rock slap in Best Actor acceptance speech"
     excerpt: "In his acceptance speech just 40 minutes later ... Netflix's Power Of The Dog led nominations with 12 nods including Best Picture, Best Director and recognition for all of its top actors: Benedict Cumberbatch, Kirsten Dunst, Jesse Plemons and Kodi ..."
     publishedDateTime: 2022-03-28T08:49:00Z

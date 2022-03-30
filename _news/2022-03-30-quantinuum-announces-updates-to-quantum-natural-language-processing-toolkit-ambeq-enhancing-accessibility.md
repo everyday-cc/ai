@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit λambeq, Enhancing Accessibility"
-excerpt: "OXFORD, England, March 29, 2022 /PRNewswire/ -- The quantum natural language processing team at Quantinuum, the world's leading integrated quantum computing company, has released a major update to its open-source Python librar."
-publishedDateTime: 2022-03-29T23:00:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=638278"
-webUrl: "https://us.acrofan.com/detail.php?number=638278"
+excerpt: "λambeq update introduces many new important features to provide researchers and developers with more options and flexibility in turning sentences"
+publishedDateTime: 2022-03-30T01:50:00Z
+originalUrl: "https://www.finanzen.at/nachrichten/aktien/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-λambeq-enhancing-accessibility-1031314301"
+webUrl: "https://www.finanzen.at/nachrichten/aktien/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-λambeq-enhancing-accessibility-1031314301"
+ampWebUrl: "https://www.finanzen.at/nachrichten/amp/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-Î»ambeq-enhancing-accessibility-1031314301"
+cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-Î»ambeq-enhancing-accessibility-1031314301"
 type: article
 quality: 21
 heat: 21
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: finanzen
+  domain: finanzen.at
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "http://us.acrofan.com/img/noImg.jpg"
-    width: 500
-    height: 324
-    isCached: true
 
 related:
   - title: "Quantinuum Updates to Quantum Natural Language Processing Toolkit lambeq"
@@ -62,6 +58,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "6NQr5eCBMjOYA0+aQyI6+M7h9peVUnDXptgulbkdyc2ScLFZuQ/w4j68Y1gMyLweyKbT+Vix2ZJIkFiWohQLXyibVuRg36yGMRKgCIZdZFI1LS5krOWjoboZsGGVFhDJ77bt1k2TIggc+U1eu8yCofdmc6dMI7FjbXtjhXHl01HMAAcdgRPwWRm2XsUjIH+cJD1IS8sAhPrpYUfWf1xi597KGiw2w290t0Ba7DlLWB4jvDoTfFG0SFddT4geaOROWBwNAEHhRmSc74spXdbeVkld7VlqaimvGvEl/Lqm485WTkSv4gBZQRRK5qPHCXs/W6kmc4tPNV0XU8C1WVt+DkIoSqQt0bH4aU+M8upJVgY=;DHX61m5BK2FtpcVV7rYPag=="
+secured: "2tlZtsEItm3ncJLw0sTS9g6LgqBN6+vGJS6U6jU52WOXS+FnIYCztu28l38zXLk/Lw65E+4HW/0qm3SiH6dl/bFAUlLHr5cIU844R5uew2bxeTV43YioIKzMnSzFY8lzgiaQzCsEhefmB810YOQZSoOal0TwydFsFtlUoSdXMKD6R/cjrI0wjOKtDURjcacul4Zyqo/dgRrJxovKSs89fRx5FYkcmqGSE0nfI+wquPYd6eCFzlmSXmWNGTjsrkw4w9Jr05uU7suZi78r6bq/u9kRH8/PIrPpTf25DlJQsN1nl3v56nyDrQVu/aJmOoGQZY/CHAtVUvxU6WK5yFIr3vf54g0WfmKfEmkSpKwxoaw=;FsytG9bPxV8mITjPMEPENQ=="
 ---
 

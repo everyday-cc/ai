@@ -2,6 +2,59 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2022-02-10-microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech.md",
+      "title": "Microsoft Keeps Its Finance Head Count Flat With AI, Bots and Other Tech",
+      "excerpt": "Microsoft Corp. employs about 5,000 people in its finance team, a number that has remained largely flat in recent years, even though the company’s operations, profit and market capitalization have grown tremendously. Microsoft had 181,000 employees at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "originalUrl": "https://www.wsj.com/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-482958/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "publishedDateTime": "2022-02-10T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto.md",
       "title": "Spinny acquires AI-powered car connectivity solutions startup Scouto",
       "excerpt": "Pre-owned car retailing platform Spinny on Thursday said it has acquired 100 per cent stake in Ahmedabad-based startup Scouto, a move that marks consolidation in the AI-powered used car solutions space. The company, however, did not disclose the amount it ...",
@@ -1097,58 +1150,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-autox-hits-1000-vehicles-milestone-for-its-robo-taxi-fleet-in-china.md",
-      "title": "AutoX hits 1,000 vehicles milestone for its Robo Taxi fleet in China",
-      "excerpt": "In a press statement, the company also states that it has also opened a new Robo Taxi operations center in San Francisco in the United States, to expand self-driving vehicle testing ... vehicle industry leaders like Baidu, Waymo which are both yet to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/",
-      "originalUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/02/auto-x.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/?amp=1",
-      "publishedDateTime": "2022-02-09T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

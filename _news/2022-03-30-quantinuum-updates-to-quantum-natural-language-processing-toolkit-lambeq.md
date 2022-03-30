@@ -20,19 +20,16 @@ topics:
 
 related:
   - title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit λambeq, Enhancing Accessibility"
-    excerpt: "OXFORD, England, March 29, 2022 /PRNewswire/ -- The quantum natural language processing team at Quantinuum, the world's leading integrated quantum computing company, has released a major update to its open-source Python librar."
-    publishedDateTime: 2022-03-29T23:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=638278"
+    excerpt: "λambeq update introduces many new important features to provide researchers and developers with more options and flexibility in turning sentences"
+    publishedDateTime: 2022-03-30T01:50:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-λambeq-enhancing-accessibility-1031314301"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-Î»ambeq-enhancing-accessibility-1031314301"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-Î»ambeq-enhancing-accessibility-1031314301"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
+      name: finanzen
+      domain: finanzen.at
     quality: 21
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
   - title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit ?ambeq, Enhancing Accessibility"
     excerpt: "OXFORD, England, March 29, 2022 /CNW/ -- The quantum natural language processing team at Quantinuum, the world's leading integrated quantum computing company, has released a major update to its open-source Python library and toolkit,"
     publishedDateTime: 2022-03-29T08:06:00Z

@@ -2,6 +2,57 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2022-02-21-how-ai-is-changing-data-infrastructure.md",
+      "title": "How AI is changing data Infrastructure",
+      "excerpt": "The impact artificial intelligence (AI) is having on enterprise data processes and workloads is well-documented, as is its capability to monitor and manage complex systems. But what is not widely reco",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastructure/",
+      "originalUrl": "https://venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/subspace-globe.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastructure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastructure/amp/",
+      "publishedDateTime": "2022-02-21T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-21-israeli-ai-edtech-startup-magnilearn-joins-forces-with-korean-education-company.md",
       "title": "Israeli AI EdTech startup MagniLearn joins forces with Korean education company",
       "excerpt": "MagniLearn has partnered with Korean company BELT English to integrate its AI learning platform across schools in South Korea.",
@@ -1073,58 +1124,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-20-deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiments.md",
-      "title": "DeepMind Teaches AI to Assist With Nuclear Fusion Experiments",
-      "excerpt": "DeepMind wants to use artificial intelligence to help scientists experiment with nuclear fusion, which it believes is a contender for \"a source of clean, limitless energy\" here on Earth.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/news/138806/deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiments",
-      "originalUrl": "https://uk.pcmag.com/news/138806/deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiments",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/d/deepmind-t/deepmind-teaches-ai-to-assist-with-nuclear-fusion-experiment_4sv2.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-19T08:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

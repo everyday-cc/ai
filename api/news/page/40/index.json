@@ -2,6 +2,58 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2022-02-18-leveraging-computer-vision-for-monitoring-alzheimers-disease-progression.md",
+      "title": "Leveraging Computer Vision For Monitoring Alzheimer's Disease Progression",
+      "excerpt": "The growing involvement of technologies such as AI and computer vision in healthcare enables health experts to predict and track the advancement of Alzheimer’s disease in patients. The mere possibilit",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/leveraging-computer-vision-monitoring-alzheimers-disease-naveen-joshi",
+      "originalUrl": "https://www.linkedin.com/pulse/leveraging-computer-vision-monitoring-alzheimers-disease-naveen-joshi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFaoO-s7Tt0IA/article-cover_image-shrink_720_1280/0/1643831757120?e=1651104000&v=beta&t=7yKLv7ACZO-opMqqhV85Sxd5Zl3u-2ffos9KOsaFO30",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-18T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-18-sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up.md",
       "title": "Sirona Medical Acquires Nines AI’s algorithms to rebuild radiology’s IT from the ground up",
       "excerpt": "This acquisition comes during a somewhat shaky moment in AI-based radiology. But Sirona is betting this move proves out its thesis: to bring AI into the clinical workflow, we need to rebuild ...",
@@ -1132,58 +1184,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-this-googler-wants-to-add-every-voice-to-ai.md",
-      "title": "This Googler wants to ‘add every voice’ to AI",
-      "excerpt": "Early in his career, Laurence Moroney was working on an equation — not something related to his job in tech, but to his bank account. “At one point, I calculated I was about three weeks away from being homeless,” Laurence says. “My motivation was to put a meal on the table and keep a roof over my head.”Today",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/inside-google/googlers/laurence-moroney-every-voice-ai/",
-      "originalUrl": "https://blog.google/inside-google/googlers/laurence-moroney-every-voice-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_2_LZXl4TX.max-1300x1300.png",
-          "width": 1201,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/inside-google/googlers/laurence-moroney-every-voice-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/laurence-moroney-every-voice-ai/amp/",
-      "publishedDateTime": "2022-02-17T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

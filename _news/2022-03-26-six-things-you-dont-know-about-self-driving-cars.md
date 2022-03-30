@@ -57,6 +57,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Infrared camera being developed in Montreal could let self-driving cars see through snow and fog"
+    excerpt: "Autonomous vehicles that “see” through snow and fog, cameras that can identify expired fruits and vegetables, and better toxic gas detectors are some of the potential applications of a technology being worked on by researchers at Polytechnique Montréal."
+    publishedDateTime: 2022-03-30T01:18:00Z
+    webUrl: "https://montrealgazette.com/technology/infrared-camera-being-developed-in-montreal-could-let-self-driving-cars-see-through-snow-and-fog"
+    ampWebUrl: "https://montrealgazette.com/technology/infrared-camera-being-developed-in-montreal-could-let-self-driving-cars-see-through-snow-and-fog/wcm/e5bc4c88-7dc3-42b0-acf8-65e9e0c8044a/amp/"
+    cdnAmpWebUrl: "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/technology/infrared-camera-being-developed-in-montreal-could-let-self-driving-cars-see-through-snow-and-fog/wcm/e5bc4c88-7dc3-42b0-acf8-65e9e0c8044a/amp/"
+    type: article
+    provider:
+      name: Montreal News
+      domain: montrealgazette.com
+    quality: 31
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/montrealgazette/wp-content/uploads/2022/03/1302193971.jpg"
+        width: 1000
+        height: 750
+        isCached: true
 
 secured: "wRDi4pxIr+leJlNYizYNJgZLwwWhRUk01eOaM5TNbblhw5GV9RCWRYrssBVgWMrOPx7r2NwTln2ozzgwAwFyUycNDWouCKNELMtcjjne+GqU47/SzapatT+r33XgHl1qOVKl1HJNfVp5O2YzgsPxQAZVLqoGU31Wne+6yjHViz8kOLQu4CZ1Z3iiCD9bgu7HtK8IhdtcsS02fZt0Puf6WOAIUnmQ1/MPK6oeT6N35jkqJ2rMN+wllXkmuOZ1TBQfqgTUQyV7sRSbXJ8/0Rp79hYyjniV/LXras8SN3p6pI4fgsBAo+HnBSdc2yfjms7vUCBcUNvdoepGLO+7LMH8ADl5g/VPalEoqtDKdjD2kvUmOzdsihdS1dithEY/5liWhrDjL43oZaATAglgHw85SeE83OOcdEO/KgzKGuKkg6rw7dAF9liV6X5HJj2qaWnZ8QkwG+I1OebftpgjHZ7TmeEVU+bAL7sN2QcbWsZLJdmS+4SMHL+YZqY8ntT/1ln2UQwC6ifOsZ7N8RQglapmXw==;ab+sODlkTcL3UKMGgygCgw=="
 ---

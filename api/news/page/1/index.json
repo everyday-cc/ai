@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-30-sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs.md",
+      "title": "Sarcos merges with RE2, aims to have robots take on dangerous jobs",
+      "excerpt": "Sarcos and RE2 grew up working on defense projects but they’re now aiming to expand and take on industrial roles. They’re particularly interested in supporting and maybe replacing humans working unstructured spaces where complete automation is difficult.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/29/sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs/",
+      "originalUrl": "https://venturebeat.com/2022/03/29/sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/08/robotsinfactory.jpg?fit=800%2C333&strip=all",
+          "width": 799,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/29/sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs/amp/",
+      "publishedDateTime": "2022-03-29T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-ai-handing-out-rough-justice-in-the-uk.md",
       "title": "AI Handing Out Rough Justice In The U.K.",
       "excerpt": "Report raises fears over the use of AI in the U.K. justice system, with algorithms used to determine risk of reoffending and sham marriages",
@@ -459,7 +511,7 @@
       "originalUrl": "https://inc42.com/buzz/healthtech-startup-qure-ai-bags-40-mn-funding-to-disrupt-radiology-status-quo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1041,8 +1093,8 @@
       "title": "D-Link M15 Eagle Pro AI AX1500 review: How going a bit dumb can be very smart",
       "excerpt": "With so many things in computing these days, it's all about smart features. And these are great when they work, but what happens when they don't? In that case, you're stuck hoping the machine will fix it.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/home-and-office/smart-office/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/",
-      "originalUrl": "https://www.zdnet.com/home-and-office/smart-office/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/",
+      "webUrl": "https://www.zdnet.com/article/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/",
+      "originalUrl": "https://www.zdnet.com/article/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
@@ -1059,8 +1111,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/home-and-office/smart-office/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/smart-office/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/",
       "publishedDateTime": "2022-03-28T21:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1180,49 +1232,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-stem-programs-launch-at-the-county-library-for-robotics-month.md",
-      "title": "STEM programs launch at the county library for Robotics Month",
-      "excerpt": "Did you know that April is Robotics Month? Jeff Buydos, from the county library, joined us on the show to share what kind of programs are offered. Kids can learn all about engineering, robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc4.com/gtu/stem-programs-launch-at-the-county-library-for-robotics-month/",
-      "originalUrl": "https://www.abc4.com/gtu/stem-programs-launch-at-the-county-library-for-robotics-month/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abc4.com/wp-content/uploads/sites/4/2022/03/AD8F06836FB07EDFE09279FCDB51733A.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.abc4.com/gtu/stem-programs-launch-at-the-county-library-for-robotics-month/amp/",
-      "cdnAmpWebUrl": "https://www-abc4-com.cdn.ampproject.org/c/s/www.abc4.com/gtu/stem-programs-launch-at-the-county-library-for-robotics-month/amp/",
-      "publishedDateTime": "2022-03-28T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abc4.com",
-        "domain": "abc4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

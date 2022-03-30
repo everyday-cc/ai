@@ -7,7 +7,7 @@ originalUrl: "https://www.01net.it/clearview-ai-releases-2-0-version-of-industry
 webUrl: "https://www.businesswire.com/news/home/20220325005073/en/ Clearview-AI-Releases-2.0-Version-of-Industry-Leading-Facial-Recognition-Platform-for-Law-Enforcement"
 type: article
 quality: 119
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -112,6 +112,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
+    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
+    publishedDateTime: 2022-03-30T01:50:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 21
 
 secured: "7oQdKM/tnOx3UVLA47MevaBLrFHZjFrBIAOpyYvju9c+5MQ12PNWX9A2v1wlIwIBvhSwvEEfTZ0yuUma2guRKI/+75I9f+htILn5gpOBFzWODq/dXOiQ4jDaOqEEYLUKOo11htu810/lAHW0ex0FhaPArUIrweIbhIgBPGqiTfY+qIn0aR83UDxY620l3Ij6mmnl52Nsjh/0Dq9MF77sK+ACG0M6NlRj7Cs44blqojw3DcJsURNUYUoxIlpdhrbLF/4iyODiytbaWSZMvpCNFwEObogqZIjZECmEeBMD9Myz9lHpTkCZKWPkRKJzKwriVkZecf6m6sbmdeM9nb9iOQTwp6mJXnoDcf98INUAGVa/2X0LEVfYhlMAT6Rnc5li1X6tTuZpAWHbgtGUCHu0sLwLnK5NOoeJDNQ9RrY0goqbz0q4B1cGgaw57VllwbpNjTSW0ILY5e7RrI7TYmBRTZYxuwwLgKoeagO/T/2mlYtO/D3rpFQmlhqh6xe0ybotouo/yDSwRAsQbhXQd6lvczPOrSBcEoZP24DVA7c28t0=;MsnSEG62LsCbMS0VwpEvEQ=="
 ---

@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-03-17-the-most-valuable-use-cases-for-artificial-intelligence-in-web-applications.md",
+      "title": "The most valuable use cases for artificial intelligence in web applications",
+      "excerpt": "Capable of automating manual tasks, AI can lead to smarter decision ... a web application (such as Google Lens or Google Translate). At the moment the big breakthroughs are related to images and language, so web applications processing these are the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.information-age.com/most-valuable-use-cases-for-artificial-intelligence-in-web-applications-123498983/",
+      "originalUrl": "https://www.information-age.com/most-valuable-use-cases-for-artificial-intelligence-in-web-applications-123498983/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2022/03/most-valuable-use-cases-for-artificial-intelligence-in-web-applications.jpeg.optimal.jpeg",
+          "width": 1013,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5.md",
       "title": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Up 5%",
       "excerpt": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating)’s stock price shot up 5% during trading on Wednesday . The stock traded as high as $27.86 and last traded at $27.86.",
@@ -1044,48 +1087,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-forbes-names-landing-ai-a-top-startup-employer.md",
-      "title": "Forbes Names Landing AI a Top Startup Employer",
-      "excerpt": "Landing AI, which provides software that makes building and deploying AI solutions in manufacturing fast and easy, today announced that it has been recognized by Forbes as one of America’s Best Startup Employers 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-9e2f09776c74103a11aeceacbaf1e95f",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-9e2f09776c74103a11aeceacbaf1e95f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

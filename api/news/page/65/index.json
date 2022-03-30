@@ -2,6 +2,58 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2022-01-30-top-trends-in-natural-language-processing-market-with-leading-key-players-industry-share-and-latest-opportunities.md",
+      "title": "Top Trends in Natural Language Processing Market with Leading Key Players, Industry Share and Latest Opportunities",
+      "excerpt": "Jan 30, 2022 (The Expresswire) -- The global “Natural Language Processing Market 2022” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/top-trends-in-natural-language-processing-market-with-leading-key-players-industry-share-and-latest-opportunities-2022-01-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/top-trends-in-natural-language-processing-market-with-leading-key-players-industry-share-and-latest-opportunities-2022-01-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-29T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-30-ai-chip-startup-ceremorphic-comes-out-of-stealth-mode.md",
       "title": "AI chip startup Ceremorphic comes out of stealth mode",
       "excerpt": "A host of novel chip features including analog computation will deliver a more-efficient, more reliable, more secure AI processor for multiple markets, CEO Venkat Mattel claims.",
@@ -1150,49 +1202,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-waymo-sues-california-dmv-over-robotaxi-safety-data.md",
-      "title": "Waymo Sues California DMV Over Robotaxi Safety Data",
-      "excerpt": "The driverless car company — which is owned by Google parent Alphabet Inc. — operates an autonomous taxi fleet in San Francisco, and the question in the suit is whether public safety-related data can be a trade secret.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data",
-      "originalUrl": "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/0ed328f/2147483647/strip/true/crop/940x490+0+46/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa0%2F40%2Ff54af073727f3f1d09fcd332e8ba%2Fwaymo.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data?_amp=true",
-      "publishedDateTime": "2022-01-28T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

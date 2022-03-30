@@ -70,6 +70,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Healthtech AI startup Qure.ai raises $40 mn"
+    excerpt: "Healthtech AI platform Qure.ai (Qure) on Tuesday announced it has secured $40 million in a funding round led by Novo Holdings and HealthQuad, along with existing investor MassMutual Ventures. Qure.ai offers advanced technology that reads and interprets medical images like X-rays,"
+    publishedDateTime: 2022-03-29T17:00:00Z
+    webUrl: "https://www.canindia.com/healthtech-ai-startup-qure-ai-raises-40-mn/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 37
+    images:
+      - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
+        width: 696
+        height: 436
+        isCached: true
 
 secured: "/kHuz4cVq/r6CIBkza7tXmfpMwiVLNcKqowIMy3/kXDs73hzlfgi/Xh/ntIMTvi8wB6tqndfswbqhlUgyOj6NfPkkJC6/Ci3uBMvKkFxhkaAW+OoZgfgSC8ieSu99JKq1ES+zEsdyM1ZkxFlVpxDDJTkYJjTIByt+2ykh2RFcEX/UpUqIU9nKRClft/7mSC9Mccb9hwrlPiTwQhaDmLYCV9ohKZJh41N0F5VOgO5J7mPHJDlNNby1P90El3FrpaiFvwwqsvHmOUQRhNc3lOAoGRHTKJqaM+OJjwEKS5j0fHKvaeYCvUlM3ujC7dYhkuTzBJRhK/Haf0fCjq8aspdADx9Ipn+x7U2PQs3NYNdN9e8ieLUV/I4uNO9UihlU6wpKdwONL7YcNiAF3zQl/AKvpJEnBaqOvcw/0xjnTSbJiH7a3H8M83rjFtHzvUw4t//SZcDpY23euJGKFHHAxzwuqOIauUuVG9Hqo5tUts/eiSKcQpeygCYAzod4Hiyf1vAlcIc0TJt+8yvAqzd0powsw==;Whsis+eyUkM7V0nyhIQnKg=="
 ---

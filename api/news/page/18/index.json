@@ -2,6 +2,49 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-03-11-ai-could-help-you-understand-animal-speech.md",
+      "title": "AI Could Help You Understand Animal Speech",
+      "excerpt": "Researchers in Copenhagen may have found a way to translate animal sounds to human speech, making it easier for us to communicate with our pets and other animals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lifewire.com/ai-could-help-you-understand-animal-speech-5221922",
+      "originalUrl": "https://www.lifewire.com/ai-could-help-you-understand-animal-speech-5221922",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lifewire.com/thmb/-8IapDgHkSURLTYAwKaaNJXYbPQ=/2121x1414/filters:fill(auto,1)/GettyImages-84303682-7c195ae84a034617bbe5a2a6e6c23853.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-11T07:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lifewire",
+        "domain": "lifewire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-11-deep-learning-a-framework-for-image-analysis-in-life-sciences.md",
       "title": "Deep learning: A framework for image analysis in life sciences",
       "excerpt": "Scientists are constantly seeking imaging systems that are faster, more powerful and capable of supporting longer observation times. This is especially true in life sciences, where objects of interest are rarely visible to the naked eye.",
@@ -1090,49 +1133,6 @@
         "AI in Autos",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-tinymls-role-in-enabling-computer-vision-at-the-edge-thought-leaders.md",
-      "title": "tinyML’s Role in Enabling Computer Vision at the Edge – Thought Leaders",
-      "excerpt": "Founder & Chief Product Officer, Deeplite Computer vision has great potential to improve our everyday lives – and there are many applications and uses for it. A few examples include: Smart doorbells for home security help prevent “porch pirates” and break-ins.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/tinymls-role-in-enabling-computer-vision-at-the-edge-thought-leaders/",
-      "originalUrl": "https://www.unite.ai/tinymls-role-in-enabling-computer-vision-at-the-edge-thought-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:595/q:auto/https://www.unite.ai/wp-content/uploads/2019/12/computer-vision1-e1575654264450.png",
-          "width": 1000,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T10:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

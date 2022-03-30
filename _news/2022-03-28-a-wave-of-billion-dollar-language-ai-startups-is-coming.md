@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/"
 type: article
 quality: 97
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -33,24 +33,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Supercomputer to train 176-billion-parameter open-source AI language model"
-    excerpt: "GTC BigScience – a team made up of roughly a thousand developers around the world – has started training its 176-billion-parameter open-source AI language model in a bid to advance research into natural language processing (NLP)."
-    publishedDateTime: 2022-03-25T07:34:00Z
-    webUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=rt-9cs"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/03/25/supercomputer_language_ai/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/25/supercomputer_language_ai/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 57
-    images:
-      - url: "https://regmedia.co.uk/2015/07/31/shutterstock217132183.jpg"
-        width: 648
-        height: 429
-        isCached: true
 
 secured: "AN4F2RjoSq35ic2Er+g/xybGBQI77S30kSCjHIbwzoGcvRZFL5q0iQTlRybkM9zI3o7IXKD8TMba84Fg/oVZfOQ6uhkkUCq/fsqiT01YPFVg1D/JmQckozkrLMp93pit4OaoWQck3j9bPACT2Tu5DaE2o5hkCX+XM99t2EnlDZEyptsfF485TcKoyc5reKF+F6fmDRo8orfRIiwSLXs62Fh0VqorSn5BmR++bydWuBDf8oVx1wAKwDcPoZXe1EcdJOqqtICp2cmWSlC24wJ9Uq5NIzcpL4BZfmWBdrDWWYRTNKGG7wVRhgWzYDd7zOXbpS97kO0wvrKVhWBxVXnxV3OnVFuNqme6yQkUIAo7X+NvXBKM7yJqonDGLDnVM/VkqTAo4czE1eSGG2cTrZ4pnciZabGmCKdk1+qR3dr4piRxyMzUkavf8W7y7fdykbOxIblgrlddjMQAd/98gUHJpug4hPlX4U35L/Spf8WHDzAVjMVcaW375mljf/WYBLktpwrtzvCHPOdGPPXKShzJTA==;ehYd5v+yypz0Z1kdHUrdiw=="
 ---

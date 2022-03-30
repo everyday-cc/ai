@@ -113,6 +113,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 31
+  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
+    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
+    publishedDateTime: 2022-03-30T01:50:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 21
 
 secured: "PhUhsaR3G4UaI9U4GaFXhlfX4bImVpR3y1Lzgfp0Yz7QQVewQR0EGK7aGzTMpeC5G+8PmGJYYDHgEO3Dfe5nGFFwvQ/0lWTVZrdq4fsX+B2NaQK2IoyTf18qHgpKac8TwhzVdE0bYT7WOygz9aKW7yRdMTLkZBGSEiO4lR1/tFnc5F3SLJO3nDmFUq8efWhs5Gvzj6a6aGn8DNGrYNB767a0YKaKtuLh3kKObpqq6oojelhAfHENjx4LWua8ewft31ZhpOTQQ8R/talOTqmXlkWMYEMx8NBeeCV/jgCAcFy2bWKNDJvREy0STDLp7wgMtYGk/cxkt1MP5W+6zqPc4YkyUu1FtdmLK9VEykwDpMc=;IpiKgQciOj/CmBg23H27Lw=="
 ---

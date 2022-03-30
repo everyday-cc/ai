@@ -41,6 +41,22 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Will Smith would face little more than a slap if charged"
+    excerpt: "Will Smith’s slap seen ’round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted hed"
+    publishedDateTime: 2022-03-30T00:21:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/smith-face-slap-charged-83752237"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/smith-face-slap-charged-83752237"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/smith-face-slap-charged-83752237"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_643be489b43e4dcea8c5ae804e8396c8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "WATCH: Will Smith apologises for attacking Chris Rock during Oscar acceptance speech"
     excerpt: "\"Love will make you do crazy things.\" In one of the most dramatic nights of television in years, Will Smith apologised for attacking Chris Rock while presenting an award at the 94th Academy Awards on Sunday (27 March)."
     publishedDateTime: 2022-03-28T09:12:00Z

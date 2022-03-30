@@ -3,10 +3,10 @@ category: news
 title: "D-Link M15 Eagle Pro AI AX1500 review: How going a bit dumb can be very smart"
 excerpt: "With so many things in computing these days, it's all about smart features. And these are great when they work, but what happens when they don't? In that case, you're stuck hoping the machine will fix it."
 publishedDateTime: 2022-03-29T04:54:00Z
-originalUrl: "https://www.zdnet.com/home-and-office/smart-office/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/"
-webUrl: "https://www.zdnet.com/home-and-office/smart-office/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/"
-ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/smart-office/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/smart-office/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/"
+originalUrl: "https://www.zdnet.com/article/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/"
+webUrl: "https://www.zdnet.com/article/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/d-link-m15-eagle-pro-ai-ax1500-review-how-going-a-bit-dumb-can-be-very-smart/"
 type: article
 quality: 84
 heat: 84
@@ -29,6 +29,6 @@ images:
     height: 208
     isCached: true
 
-secured: "kbUyrS01Ktx8BE2OxHabZRrDx/1xPKu9UGxtIuWVCNgwCq3zwqMBFeOD1bqbwEYNivpbR1ZIkKI06eK2vvoyNpWuhj/hH0Vt6bALnlTtK903bmmDPGlLUJbdLspzn2y/L1Vjd3zXQ9YyJ0tY7ts3KdGlbhdVNX0hf7aUqToLf5INvBMY1ftQeUqbJW5p99P/IVLJNbdRTbWe9RZC3/GJH5TYyaB3+IuqiQhgLg0AmNz7H3pj3ICmW0emo8+AHbnPE/bMHwktWmb2Up/nqvY5pTbnLWfEOKxc/UgDPUN4IUEleiNUWDdz6PbkCzCA/EU9gW3uEqknHU97hhv9i61r3I6F/BJDlltmLRHToabXEMOjkuKxoglxr2SwcSHfNGXNkr37vSc1KS5fG00ruHKu5BTzehRXPN0JS6hMAL6ZEXFp3FM+F1KGj2rng/Ax6iuYUE9yM0pSIyLnuKL/IfQkvOsxBjThG7mGaYU9cZYjSkasiBU6UVOsKv2c3RmtDFEr22nnu3kWw9zd41bjx9dfqw==;aOIOcPQBnnIrSWOGRV6flA=="
+secured: "uZcFWAtAxIas/kasjmVB53yF++SwZwIQAQNhQT3QLwmuGGEse1+JDis1XaQT8h2HzU/iRnXp2wcrs6hsmdEGlrDdYOD7OI5vJh/OCWIl992DBQCimyX9JBnaIGUMA1I0/rXJ3VU+UIka1euACpqs+leSifMSQSA1l4ofcvGG08M3dzyg1mjuya/JeoSRu0O/8X4B+lfM/1crIoDr+NOAZ0pUBlMxoAXF5nnGdXnlShLsnq+giHYCW9Y+OrFIZ3eoeeRgnHPEmHOCOTKBktl5mayZTU0AGUklqq62ozxO3WrNOAB+npqSWsXVJCowwf0jlLfGTxjZNkSnJqCSq3xyM2JPpbBm2NhTOpu3xt1a5BU=;De+ozLQeh/F8Cf11JlX2Gg=="
 ---
 

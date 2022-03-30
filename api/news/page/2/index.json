@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-29-stem-programs-launch-at-the-county-library-for-robotics-month.md",
+      "title": "STEM programs launch at the county library for Robotics Month",
+      "excerpt": "Did you know that April is Robotics Month? Jeff Buydos, from the county library, joined us on the show to share what kind of programs are offered. Kids can learn all about engineering, robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc4.com/gtu/stem-programs-launch-at-the-county-library-for-robotics-month/",
+      "originalUrl": "https://www.abc4.com/gtu/stem-programs-launch-at-the-county-library-for-robotics-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abc4.com/wp-content/uploads/sites/4/2022/03/AD8F06836FB07EDFE09279FCDB51733A.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.abc4.com/gtu/stem-programs-launch-at-the-county-library-for-robotics-month/amp/",
+      "cdnAmpWebUrl": "https://www-abc4-com.cdn.ampproject.org/c/s/www.abc4.com/gtu/stem-programs-launch-at-the-county-library-for-robotics-month/amp/",
+      "publishedDateTime": "2022-03-28T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "abc4.com",
+        "domain": "abc4.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-accelerating-financial-services-with-ai.md",
       "title": "Accelerating Financial Services With AI",
       "excerpt": "AI is enabling brighter financial futures for consumers and businesses. From traditional banks to new fintechs, the financial services industry is powering use cases with AI such as preventing payments fraud,",
@@ -785,7 +828,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1159,58 +1202,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/amp/",
       "publishedDateTime": "2022-03-27T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-27-nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin.md",
-      "title": "NVIDIA Ups The Ante On Edge AI With Jetson AGX Orin",
-      "excerpt": "With Jetson AGX Orin, NVIDIA promises server-class AI performance at the edge, making it the best-in-class edge platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6240029a9902b9aee86f0b13/0x0.jpg?format=jpg&width=1200",
-          "width": 1138,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/amp/",
-      "publishedDateTime": "2022-03-26T23:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

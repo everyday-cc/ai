@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-03-16-the-downfall-of-one-of-the-worlds-biggest-brains.md",
+      "title": "The Downfall of One of the World’s Biggest Brains",
+      "excerpt": "In 2011, when Watson, IBM’s computer system played against champions ... What does this say about the promise of AI for medicine? I’m Lizzie O’Leary and you’re listening to what next ...",
+      "sourceUrl": null,
+      "webUrl": "https://slate.com/transcripts/MFJZV1plN0RuMmJZWTNvRGZNak9ZbnRHYTBxa1A0c2gyZTNaUS91djBHOD0=",
+      "originalUrl": "https://slate.com/transcripts/MFJZV1plN0RuMmJZWTNvRGZNak9ZbnRHYTBxa1A0c2gyZTNaUS91djBHOD0=",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slate.com/media/sites/slate-com/icon.400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slate",
+        "domain": "slate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-inside-the-terrifying-future-of-shapeshifting-robots-that-will-manipulate-your-emotions.md",
       "title": "Inside the terrifying future of shapeshifting robots that will manipulate your emotions",
       "excerpt": "As humans work to become less socially robotic these days, robots are becoming more human-like. With recent advancements, robots could be shifting shapes, helping manage your emotions and much more. Have a look.",
@@ -1032,49 +1075,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-cogniac-and-cisco-meraki-partner-to-automate-operations-with-computer-vision.md",
-      "title": "Cogniac and Cisco Meraki Partner to Automate Operations with Computer Vision",
-      "excerpt": "Cogniac Corporation (“Cogniac”), a leader in enterprise-class Artificial Intelligence (AI) image and video analysis, and Cisco Meraki have announced a strategic partnership to accelerate the delivery of AI-powered computer vision applications at the edge of the network.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-08f4ef5e9778c2bea6f3da6aac460229",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-08f4ef5e9778c2bea6f3da6aac460229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

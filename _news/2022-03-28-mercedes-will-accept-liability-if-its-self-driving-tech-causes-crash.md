@@ -39,20 +39,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Mercedes-Benz to Accept Liability for Automated Driving System Road Accidents"
-    excerpt: "That’s a notch up from the self-driving tech boasted by Tesla, which is still at Level 2. The system allows complete hands-free driving as artificial intelligence takes over all the car’s basic functions. It does have a lot of limitations though."
-    publishedDateTime: 2022-03-25T07:26:00Z
-    webUrl: "https://www.benzinsider.com/2022/03/mercedes-benz-to-accept-liability-for-automated-driving-system-road-accidents/"
-    type: article
-    provider:
-      name: BenzInsider
-      domain: benzinsider.com
-    quality: 21
-    images:
-      - url: "https://www.benzinsider.com/wp-content/uploads/2022/03/mercedes-benz-drive-pilot.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "552jflOTbLuupmYd76n+VgUUDDDDD6e/zdG7tU+HHZLiARpzPiaPWkQCxK6fVUww1kBw66ttb9F5Iiy7M3taA+ybrpP2/CBtyA88T6qZQYiFIPVAya/zawzhx7cGWLhlaCQ+sjeIT964tjM0FoVJ/dXfvn1255NyYRLqp+znDNUNPOKlCDSaRSVpngINRwoFLufLZ7AGOpQ9h4aUd9/eeGDuu0FlJqjNCsMoqHh+Up/jZa8cg6rNCJhn6zhSWGNOuRGOwnhlHVoSg6Rey5r01+qlOHbVhfFHgkzlZCbP6LgjUjUWWpEiSwPORp2G63ZTiCtVRk1qKy2AWEyVWh4qwy6evfna6iyO7T3Fx7G8IhdHFqOCwefj8dRkVl6O5e7J/9RcVtjfD9TQ8h/M2ureqcGtNTlNqfgRq0Wjhp5idXbnbuL6iMhACFqqe9+SzEKKz/PMQcf+yEJ0EVinAxpRsf2gm0GGuijNp1gPLNh+raJvKklWsPZrqAIE7TjUXxRwbO10V4TYd14pgMzJpRGV1w==;ar+tih3P2sAXWn9nQNwjvg=="
 ---
