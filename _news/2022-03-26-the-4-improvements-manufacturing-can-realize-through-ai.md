@@ -69,15 +69,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "AI-driven Decision Making in Startup Investing"
-    excerpt: "Bringing AI-driven decision making to startup investing is a hotly-debated topic. Conversations quickly turn to startup investing being an artisan trade that AI can’t capture the nuance of, and concerns are raised that algorithms will exacerbate known biases in the system."
-    publishedDateTime: 2022-03-25T12:43:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-driven-decision-making-startup-investing-guy-conway"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 17
 
 secured: "fhbv2Tnz4BclhYzlIoOpKJaUKk7l6AafYPaZiHdXg/bzNNdqb5izg5iwWD3DQvdgaSF0wXBtx09oBP6n/81BWzDaLVoClh0xOiU+9Vch2mE+VTlcTetkEHFSgoW4D4+rkys7lMnP7WM5R5lIUwdsvhCTframjVY1rxADeTVQ+aQGwzOG2eHD6/zNoNObZn+AUB7GGIhJmjayUAzJieoGttKq+E7yOekQD/N2r3D3kPwGdR4cAhkWPp5RT8Jw/HgoarOcsRP1RUxGEkKmssl0pcFzTsNl4jjbiHYqIZXXPCZfC2rrLmY0UFZq1dNBY/FIo5REMh5lfYEji+wPmoe13/6cTtlsdV9xgcYqPWZgNm7+qhl5TXH67wv8itybaTsjhUTRDrILa8zx8AtNc7L0uunytFb7KT3g2ZR1TXMTwJOAk6GycRU8DGXKLCyLZuLCKbnDwbFdR0rh1/oCzvaDjKHGRVgJiXd1bU6rr+bZD/Nr/n6ZDFvexXMFuZc0RBdzu/OK1uKSrUU3YOABGPuQ6Q==;0ZdWYOZGoQVHFO59gk2QiQ=="
 ---

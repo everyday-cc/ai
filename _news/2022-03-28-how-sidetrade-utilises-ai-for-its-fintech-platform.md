@@ -117,20 +117,6 @@ related:
         width: 1251
         height: 1251
         isCached: true
-  - title: "AI in Fintech Market Size, Trends, Outlook, Opportunity Forecast 2022-2031"
-    excerpt: "Comserve / -- AI in Fintech Market offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts."
-    publishedDateTime: 2022-03-25T11:53:00Z
-    webUrl: "https://menafn.com/1103913701/AI-in-Fintech-Market-Size-Trends-Outlook-Opportunity-Forecast-2022-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?186546"
-        width: 448
-        height: 249
-        isCached: true
   - title: "Top 10 Most Promising Fintech Firms in India 2022"
     excerpt: "FinTech firms are technological alternatives to traditional financial firms’ back-end systems in the twenty-first century. Find out the top 10 most p"
     publishedDateTime: 2022-03-26T17:12:00Z

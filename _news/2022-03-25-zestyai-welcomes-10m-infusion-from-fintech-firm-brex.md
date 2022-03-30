@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/amp/"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -116,20 +116,6 @@ related:
       - url: "https://assets.bizclikmedia.net/1800/f4eeb53075c3c0944ddd42a4aec76333:be21c30c397a8c807801fb0947bcad80/gettyimages-1283432364-1.jpg.jpg"
         width: 1799
         height: 1010
-        isCached: true
-  - title: "AI in Fintech Market Size, Trends, Outlook, Opportunity Forecast 2022-2031"
-    excerpt: "Comserve / -- AI in Fintech Market offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts."
-    publishedDateTime: 2022-03-25T11:53:00Z
-    webUrl: "https://menafn.com/1103913701/AI-in-Fintech-Market-Size-Trends-Outlook-Opportunity-Forecast-2022-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?186546"
-        width: 448
-        height: 249
         isCached: true
   - title: "Top 10 Most Promising Fintech Firms in India 2022"
     excerpt: "FinTech firms are technological alternatives to traditional financial firms’ back-end systems in the twenty-first century. Find out the top 10 most p"

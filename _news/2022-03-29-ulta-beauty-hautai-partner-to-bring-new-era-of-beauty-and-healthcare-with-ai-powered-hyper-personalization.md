@@ -55,6 +55,17 @@ related:
         width: 5000
         height: 3333
         isCached: true
+  - title: "About AI on the rise"
+    excerpt: "A series exploring how the pandemic has supercharged the use of artificial intelligence tools at work and school"
+    publishedDateTime: 2022-03-29T19:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/2022/mar/29/about-ai-on-the-rise"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2022/mar/29/about-ai-on-the-rise"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2022/mar/29/about-ai-on-the-rise"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 37
 
 secured: "KnkXwWRmwEt1EVaZAIJSjxR4aIaQphf5Jk7aBJegr2lkhzlZXQOJb5jJfbf4HUG5IfVGsW9T1tZ9IkQBQ0dCWYwjlik8s1cabmvdnoTvciXi6hQh4tSicfREj1Mwsv5LZsNGAOX3QHfa+AixodCoVHe6tLlnbkUOgOqFYoiaHTQ2z4UQenz1jtE4rYdOqBqjQixHCDV6IjWBZWBG5LQirPvqw9w02wVRm7IAZbRXyR1ulsTooxc/v5wINnPhbStJCclDxEOosiud+mqVzuPNXjPLdmNbr97T8dEGjYtczOtoZ1etKA1KMNIj7au7nN/4gX9hKyOFuS/ywaaFckBArphhO8dsNTUxoswNE+E/xvVrjoHXu1KcR7iDVg417qw0JbDEOS2dDL5j2BUQusZEOfs0MNJY11y/hz6fQWtfZVdxGJMr2FDbUKljfpKNF2NvGtJDZxsdyfxggsyydjU7l6NlUvPaJn3EK3ZJBq305DsnJ23wNVC7VALoBX8zr3jl7WDkrTmWG2D5r+LmIT7IgQ==;SSiLxOP2/hGga3n5S67VIg=="
 ---

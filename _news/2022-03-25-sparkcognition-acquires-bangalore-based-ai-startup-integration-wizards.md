@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/startups/sparkcognition-acquires-ba
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/amp_articleshow/90443970.cms"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/SparkCognition-Delivers-Visual-AI-Capabilities-Across-Industries-With-Acquisition-of-Integration-Wizards-01.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "SparkCognition acquires of Visual AI platform Integration Wizards"
+    excerpt: "HPCL is deploying AI-based visual analytics across its retail network to improve customer satisfaction and safety."
+    publishedDateTime: 2022-03-28T07:23:00Z
+    webUrl: "https://analyticsindiamag.com/sparkcognition-acquires-of-visual-ai-platform-integration-wizards/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Untitled-design-7-2.jpg"
+        width: 2240
+        height: 1260
         isCached: true
   - title: "SparkCognition delivers Visual AI Capabilities across industries with acquisition of Integration Wizards"
     excerpt: "Through this acquisition SparkCognition expands its IP portfolio to include computer vision capabilities bringing greater value to its industry solutions and"

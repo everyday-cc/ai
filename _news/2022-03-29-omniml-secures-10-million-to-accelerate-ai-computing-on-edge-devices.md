@@ -2,21 +2,27 @@
 category: news
 title: "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices"
 excerpt: "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment by Qualcomm Ventures,"
-publishedDateTime: 2022-03-29T15:26:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/03/29/9572736.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/03/29/9572736.htm"
+publishedDateTime: 2022-03-29T15:08:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-san-jose-venture-capital-artificial-intelligence-3c9b1122a386442a83dab3822c84a7dd"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-san-jose-venture-capital-artificial-intelligence-3c9b1122a386442a83dab3822c84a7dd"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Accelerating Financial Services With AI"
@@ -66,6 +72,6 @@ related:
         height: 339
         isCached: true
 
-secured: "6uyTb2NS7+OwpBTte3vAz8OmokQu/EMxAv1tLWLD+G3ZxcBLEBpH+2PrerIisMzIZAfOkb6BNNdLhO49g9H9brzlyqYdu05bplVEMDQcTb3vmdbvsdY/DO5GkidneOAfH0bGpXHWciDkaRWTxd4lunE80O2n+RZ84xlPtLEOG63G5wFcqv1155ymIVzZFrq25ytou91ZvmzpcQAl2gPpfghP4FFCFHoOb6Nb/T4Uj9LNZqbNE9rYdOvz2AK/mUg4SdLQZpSzBpZ/7SP/xhDduhzbfCgLgdTQ+7EG2qcAElM9XNvtYq82UiTe4R24xuKq+Ze7zK4eQQNgTgYDU6wX9gaPrpOi5FzcK0elbRWHxqU=;pkv+jbcdEEZqqme67qiJdw=="
+secured: "6YpnFVxxawYHXXdhYS9uSwbVmnsH5WsHVe2/WS52RwvkKdm7T/S10JOnpOhUrCpOq5rgH8L7Up5AdJmXdhlM44LCP3scDkLCctvZOSsfZul8iOWJu2V0GnSwZCJVo9zy4HsVLQGc4z/Hu40aLWP3llQYi9/lpzjxtyVVPS4XWTsMbLnpULytDgG2uKpiHNCnd9vQiUreSx615W0ljl3zo2+SBB+oErMouTHvL7T4HKOdXzZ8UOOLi00CtcECMopswLixHf4mVA+xa5rJ8A08oyRhoWL5HvTKEvsILUDkSUZ+f3UzEKYC7PmZlWRSSKMzHhcmaGvU2chES5eb2q51s1RxScroQJrRCVUqyfCj2QM=;FGpx3ckWdvTrWMMuOotp2w=="
 ---
 

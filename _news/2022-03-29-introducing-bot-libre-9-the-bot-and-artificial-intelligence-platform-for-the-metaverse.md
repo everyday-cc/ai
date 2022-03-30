@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 864
         isCached: true
+  - title: "Why does conversational AI matter in the metaverse?"
+    excerpt: "NVIDIA said that Riva 2.0 has been integrated into TAO, a low code product for deployment and customisation of speech applications."
+    publishedDateTime: 2022-03-30T05:48:00Z
+    webUrl: "https://analyticsindiamag.com/why-does-conversational-ai-matter-in-the-metaverse/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/AIM-illustrations.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Using AI to communicate in a new world: why it’s so important"
     excerpt: "In a nutshell, it’s a virtual environment designed to facilitate human interaction. Like in a video game, an avatar serves as a person’s digital representation in the metaverse. Virtual reality headsets are designed to allow users to join a metaverse where they can converse with others no matter where they are physically located."
     publishedDateTime: 2022-03-27T16:50:00Z

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
-    excerpt: "Clearview AI’s database now features more than 20 billion facial images Clearview 2.0 offers new compliance and investigation management tools for law"
-    publishedDateTime: 2022-03-25T11:13:00Z
-    webUrl: "https://www.businesswire.com/news/home/20220325005073/en/ Clearview-AI-Releases-2.0-Version-of-Industry-Leading-Facial-Recognition-Platform-for-Law-Enforcement"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 119
   - title: "Clearview AI unveils version 2.0 of its facial recognition software"
     excerpt: "Clearview 2.0 also features reporting and workflow enhancements that provide a more comprehensive overview of a case, limiting privacy invasion and police overreach. “Clearview"
     publishedDateTime: 2022-03-25T14:45:00Z
@@ -47,6 +38,22 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622114219/itpro/Clearview_AI_shutterstock.jpg"
         width: 1260
         height: 710
+        isCached: true
+  - title: "South Wales Police returns to use of controversial facial recognition software"
+    excerpt: "Without checks it could 'undermine a range of human rights, risk the fairness of trials and damage the rule of law' a new report has warned"
+    publishedDateTime: 2022-03-30T03:00:00Z
+    webUrl: "https://www.walesonline.co.uk/news/politics/south-wales-police-returns-use-23533221"
+    ampWebUrl: "https://www.walesonline.co.uk/news/politics/south-wales-police-returns-use-23533221.amp"
+    cdnAmpWebUrl: "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/news/politics/south-wales-police-returns-use-23533221.amp"
+    type: article
+    provider:
+      name: Wales Online
+      domain: walesonline.co.uk
+    quality: 55
+    images:
+      - url: "https://i2-prod.walesonline.co.uk/incoming/article17554893.ece/ALTERNATES/s615/1_AWR_MAI_facialrecognitionprotest_120120jpeg3jpeg.jpg"
+        width: 615
+        height: 409
         isCached: true
   - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
     excerpt: "Clearview AI’s database now features more than 20 billion facial images. Clearview 2.0 offers new compliance and investigation management tools for law enforcement agencies."
@@ -62,20 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "SparkCognition acquires of Visual AI platform Integration Wizards"
-    excerpt: "HPCL is deploying AI-based visual analytics across its retail network to improve customer satisfaction and safety."
-    publishedDateTime: 2022-03-28T07:23:00Z
-    webUrl: "https://analyticsindiamag.com/sparkcognition-acquires-of-visual-ai-platform-integration-wizards/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Untitled-design-7-2.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "Clearview facial recognition app up to 20B images"
     excerpt: "Clearview AI updates its facial recognition system with a significant addition to its face database and compliance and management tools for law enforcement."
     publishedDateTime: 2022-03-28T17:09:00Z
@@ -90,40 +83,6 @@ related:
         width: 922
         height: 508
         isCached: true
-  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
-    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
-    publishedDateTime: 2022-03-29T10:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
-  - title: "SparkCognition Delivers Visual AI Capabilities Across Industries With Acquisition of Integration Wizards"
-    excerpt: "AI company builds on portfolio of machine learning, deep learning, natural language processing, and knowledge representation to address $14.4B visual AI marketplace. AUSTIN, Texas"
-    publishedDateTime: 2022-03-25T12:04:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-3f663c073214a6e3417b25b9daed7907"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
-    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
-    publishedDateTime: 2022-03-30T01:50:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 21
 
 secured: "my2g7FqB/+3eINJQ6fx4w2MIVzzZW1teNv6Hm09nFamHXY1AD6bphM7XRmU/GISVWHsqVTM94ULUjmQs1NySsFR6F5wr5K+xD2O/nV6Lq/t8Kc3PUhw3aegIxMA1183cbYIOpoW0qBaD6vwaJfqrlkyC6+6PJIXmZrInboO+F+DCcNf2vwFrIMa0VmHxPrPanD+ysbTjgXnEDPjwWj+BeGvVx8ubwiwBcp99lZpzHn2Coq9lp4L1f/afjaQKjIJ+3n8FRGOnBxIluQ4QwUzlX8tGCu/3oiYiA0ueOkti4SPHAS9DCmb0ea6hZVcRxn7CvdX3b7bTywtitXjkaRJdUYySFR/+KpHQFwUw4m8k1qM0Wz8LVfj/FkUKGN8RKMoiqtbxdszNt+f19E5BpHCbuXxzjbq2fUZGl/+sQEj/lud3GgnAxccv9fqHVjT/aUlgSPp2sj5xh76p5SWGPQpRuSwiaXaGLXlXE9EyL0zpHa6nmVN5hBUW3guD1zxz99nAYHpMocfPxKnczzxQiRmRiA==;YdwCXkEWhqkoFL30L5DHHw=="
 ---

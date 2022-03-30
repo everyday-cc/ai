@@ -45,17 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nvidia AI Tech Lets Computers Understand the 3D World From 2D Photos"
-    excerpt: "Graphics chips are good at taking 3D scenes like video game battlefields or airplane designs and rendering them as 2D images on a screen. Nvidia, a top maker of such chips, now is using AI to do the exact opposite."
-    publishedDateTime: 2022-03-25T13:00:00Z
-    webUrl: "https://www.cnet.com/tech/computing/nvidia-ai-tech-lets-computers-understand-the-3d-world-from-2d-photos/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-ai-tech-lets-computers-understand-the-3d-world-from-2d-photos/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-ai-tech-lets-computers-understand-the-3d-world-from-2d-photos/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 69
   - title: "Nvidia develops fastest AI to create 3D renders using a dozen 2D photos"
     excerpt: "As AI technology is advancing, tech companies have started to utilize it for a lot of applications. Nvidia demonstrated how its latest AI tool uses just a"
     publishedDateTime: 2022-03-27T13:15:00Z

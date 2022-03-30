@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online-world/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chasing The World’s First Brain-on-Chip AI Computer"
-    excerpt: "New project BayesBrain aims to build the world’s first computer that combines brain cells and silicon microchips. Besides being the most intelligent computing system ever, the brain is also very energy efficient."
-    publishedDateTime: 2022-03-25T11:41:00Z
-    webUrl: "https://siliconsemiconductor.net/article/114480/Chasing_the_world’s_first_Brain-on-Chip_AI_computer"
-    type: article
-    provider:
-      name: siliconsemiconductor
-      domain: siliconsemiconductor.net
-    quality: 54
-    images:
-      - url: "https://data.angel.digital/images/imager.php?w=655&h=300&type=b2&zc=1&i=shutterstock_59831953.jpg"
-        width: 655
-        height: 300
-        isCached: true
   - title: "How Ethical AI Is Redefining Data Strategy"
     excerpt: "Industries such as insurance that handle personal information are paying more attention to customers’ desire for responsible, transparent AI."
     publishedDateTime: 2022-03-28T09:35:00Z

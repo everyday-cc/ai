@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 864
         isCached: true
+  - title: "Why does conversational AI matter in the metaverse?"
+    excerpt: "NVIDIA said that Riva 2.0 has been integrated into TAO, a low code product for deployment and customisation of speech applications."
+    publishedDateTime: 2022-03-30T05:48:00Z
+    webUrl: "https://analyticsindiamag.com/why-does-conversational-ai-matter-in-the-metaverse/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/AIM-illustrations.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Introducing ‘Bot Libre 9’, the Bot and Artificial Intelligence Platform for the Metaverse"
     excerpt: "Bot Libre 9, the Bot and Artificial Intelligence Platform, will now be supporting the Metaverse. Bot Libre 9 has been released as a free and open-source"
     publishedDateTime: 2022-03-29T01:30:00Z

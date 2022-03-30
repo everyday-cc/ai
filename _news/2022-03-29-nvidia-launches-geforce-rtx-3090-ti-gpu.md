@@ -35,20 +35,6 @@ related:
         width: 1138
         height: 640
         isCached: true
-  - title: "Why NVIDIA’s new H100 GPU is a breakthrough"
-    excerpt: "NVIDIA has highlighted the Transformer engine for its ability to combine data formats with algorithms to fasten the hardware performance."
-    publishedDateTime: 2022-03-25T11:35:00Z
-    webUrl: "https://analyticsindiamag.com/why-nvidias-new-h100-gpu-is-a-breakthrough/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Chip_AIM.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "10 Interesting Facts About NVIDIA Hopper H100 GPU"
     excerpt: "NVIDIA unveiled the latest AI accelerator - the H100 Tensor Core GPU. It’s a successor to the wildly successful A100 GPU launched two years ago."
     publishedDateTime: 2022-03-29T03:37:00Z

@@ -45,20 +45,6 @@ related:
         width: 1138
         height: 640
         isCached: true
-  - title: "Why NVIDIA’s new H100 GPU is a breakthrough"
-    excerpt: "NVIDIA has highlighted the Transformer engine for its ability to combine data formats with algorithms to fasten the hardware performance."
-    publishedDateTime: 2022-03-25T11:35:00Z
-    webUrl: "https://analyticsindiamag.com/why-nvidias-new-h100-gpu-is-a-breakthrough/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Chip_AIM.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "NVIDIA Launches GeForce RTX 3090 Ti GPU"
     excerpt: "NVIDIA launched the GeForce RTX 3090 Ti GPU, powered by Ampere—NVIDIA’s ... those building research systems for data science and AI, or processing large data sets, and those making massive ..."
     publishedDateTime: 2022-03-29T13:01:00Z
@@ -69,6 +55,6 @@ related:
       domain: worthplaying.com
     quality: 19
 
-secured: "ejs0SHrffjVaW/m6fW9x/E3qo8H+BvXhfjkY95/c+b4VLUgXC3MuadUxT4Rja3++8QLwjoDMxr/3purVHmKo+hYiIMQRG8Lz19oD3/r/y1WfBkSte0+Xn4h0jTTPIRQ9wMdtX3SRy4f+S3zeuSUm0Ef8fOWpR353lTMb52EmykNum1lQxblhmvvydhZirMlHSORq/NJWQYquVrQA8vldnUypmlgRn7b0sTpZ9/ea7rFy9FF+eXZoituAybr5rayYhKxCEXUAZx8w96dnb8SBc5sy2H80earLagF/KqetogJX42yZ72K0qlypBUUy0zKwBzjN3nL9wmVCQRNQPdv3M9sfJrvh6PpDjb/ckrvnR4M=;UFtDmeYr+IOxzUjnzTM4ng=="
+secured: "xhJ3wAnrDiv1cChOwl3BILLgu+bDgleHEEvjwUK/mNvz7slK2z9nYMnxJFX2fpicqXMNCMA8M9eQon/RPiICyZ3h5KyWwVlJF6m8klVeScY8JE3yx4bPPsOxeGiEsAmL1k9lx8twqfKYBRvNx/KHefX6oRq+vyUV3K+ENIE3Pyb82O/gGjR+vmkPCwMqmKsYfQg/aByzdRJPXGvvtUIzFzDakGT/WHT/ToHFph2ck9rwOGs+2kEJvBPviBWUibTzdLT5qM51pxH1vCP7zJtrwnbmTUklalM7qpagNpFO9zHSPpKGijYrZehtVTZAX5BkN6HJfF6Fw1q2Gm51gX1oK1klXZ1L7fQod3kwxvJykbAEowq8GlQrCP1Stm5X3Nm4rIvrH8XAuo63Jv+NR090l1hRqqKf1nVhjuh9OxiQIN5yXqBvwEUuQsMFTvHMbJHT2ACqUsU4EoiokbxNSg4M+lmaj7vRyxBjnjM0+J1FpxcXsnjQVUKClMuTSXa7zaXxwV78dPSo17ip8B6zf6hh8g==;QQyOiUoO16MLqtdzRtM4KQ=="
 ---
 

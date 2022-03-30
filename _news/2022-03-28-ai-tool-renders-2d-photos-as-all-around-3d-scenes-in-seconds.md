@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/photography/nvidia-instant-nerf/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/photography/nvidia-instant-nerf/?amp=true"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia AI Tech Lets Computers Understand the 3D World From 2D Photos"
-    excerpt: "Graphics chips are good at taking 3D scenes like video game battlefields or airplane designs and rendering them as 2D images on a screen. Nvidia, a top maker of such chips, now is using AI to do the exact opposite."
-    publishedDateTime: 2022-03-25T13:00:00Z
-    webUrl: "https://www.cnet.com/tech/computing/nvidia-ai-tech-lets-computers-understand-the-3d-world-from-2d-photos/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-ai-tech-lets-computers-understand-the-3d-world-from-2d-photos/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-ai-tech-lets-computers-understand-the-3d-world-from-2d-photos/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 69
   - title: "Nvidia’s latest AI wizardry turns 2D photos into 3D scenes in milliseconds"
     excerpt: "Writer at Neural by TNW — Thomas covers AI in all its iterations ... The company ended a week that introduced a new enterprise GPU and an Arm-based “superchip” with a trademark flashy ..."
     publishedDateTime: 2022-03-25T13:18:00Z

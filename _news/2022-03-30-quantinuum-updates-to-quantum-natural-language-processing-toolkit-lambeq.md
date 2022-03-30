@@ -20,25 +20,19 @@ topics:
 
 related:
   - title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit λambeq, Enhancing Accessibility"
-    excerpt: "λambeq update introduces many new important features to provide researchers and developers with more options and flexibility in turning sentences"
-    publishedDateTime: 2022-03-30T01:50:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-λambeq-enhancing-accessibility-1031314301"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-Î»ambeq-enhancing-accessibility-1031314301"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-Î»ambeq-enhancing-accessibility-1031314301"
+    excerpt: "λambeq update introduces many new important features to provide researchers and developers with more options and flexibility in turning sentences into quantum circuits"
+    publishedDateTime: 2022-03-29T08:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-ambeq-enhancing-accessibility/article_aa3c43f1-35a6-57cf-99b0-7683165e3dc8.html"
     type: article
     provider:
-      name: finanzen
-      domain: finanzen.at
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 21
-  - title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit ?ambeq, Enhancing Accessibility"
-    excerpt: "OXFORD, England, March 29, 2022 /CNW/ -- The quantum natural language processing team at Quantinuum, the world's leading integrated quantum computing company, has released a major update to its open-source Python library and toolkit,"
-    publishedDateTime: 2022-03-29T08:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-quantinuum-announces-updates-quantum-natural-language-processing-toolkit-/2022/03/29/9572002.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit Lambeq, Enhancing Accessibility"
     excerpt: "Lambeq update introduces many new important features to provide researchers and developers with more options and flexibility in turning sentences into quantum circuits OXFORD, England,"
     publishedDateTime: 2022-03-29T09:10:00Z
@@ -47,6 +41,15 @@ related:
     provider:
       name: Finanznachrichten
       domain: finanznachrichten.de
+    quality: 1
+  - title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit ?ambeq, Enhancing Accessibility"
+    excerpt: "The quantum natural language processing team at Quantinuum, the world's leading integrated quantum computing company, has released a major update to its open-source Python library and toolkit, ?ambeq (pronounced \"Lambek\")."
+    publishedDateTime: 2022-03-30T05:35:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/257319"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
     quality: 1
   - title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit Î»ambeq, Enhancing Accessibility"
     excerpt: "OXFORD, England, March 29, 2022 /PRNewswire/ -- The quantum natural language processing team at Quantinuum, the world's leading integrated quantum computing company, has released a major update to its open-source Python library and toolkit,"

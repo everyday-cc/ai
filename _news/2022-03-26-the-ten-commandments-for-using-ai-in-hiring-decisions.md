@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaelashley/2022/03/26/the-ten-comman
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "AI-driven Decision Making in Startup Investing"
-    excerpt: "Bringing AI-driven decision making to startup investing is a hotly-debated topic. Conversations quickly turn to startup investing being an artisan trade that AI can’t capture the nuance of, and concerns are raised that algorithms will exacerbate known biases in the system."
-    publishedDateTime: 2022-03-25T12:43:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-driven-decision-making-startup-investing-guy-conway"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 17
 
 secured: "iACR2rl37dz8jRm6RmxBshkxcmCaIg1DIcR9Q/m3wb5Naj7Ty/w/BwBbHR4zv/2i35xSGveHtBoy3nF/YEpfgdobQDl6dLm8wNXLU2X/JvTfwuBre7AUUbb2K5Mq7f89Jvo7hfu8IpPP+U0AE8RrjOCoU3Pc/oyBkYvAN9r4veNpLP4/JniAUCDFGVMMs6BVQrT8MbwY1ZiK44Q2CDfXkwd5A1sYWM87GDq+eAxONm3gsC5VTGIvysEWnZhRpy+oNZ9Z8NXXRAvevTaLPwH4xcWVEDybdBxjxSG3sSeLBEy/+DRHk69pFb7q6Rx4sN62DxgBQr+FQgp56Gwc8zWSWl9d5x7mkOu6MCzNu9c/6c8BKvWNo8CvGyK5FX9GosJxu0Q2LWLbgiCJ/82DOXxi5CXebtwM9bCv4lrs2EyADwJvi00hDXj1FYT+oY8sASyqlAp+WQuqBpnRYU3bpe5FYXUDuQI5bs2MGnjQvc0ssNfcoDxlHh71Rwke5+4TSSFTLz6Vwamz+fJAbjj+xUH/iA==;yBz+Oauca3gUU4BU9hj0/g=="
 ---

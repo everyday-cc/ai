@@ -20,19 +20,21 @@ topics:
   - AI
 
 related:
-  - title: "IIT-Mandi to organise Robotics & AI summer camp for school kids"
-    excerpt: "The Indian Institute of Technology Mandi is organising the summer camp on Robotics and Artificial Intelligence (AI) in collaboration with Himachal Pradesh Kaushal Vikas Nigam (HPKVN), Shimla. This summer camp,"
-    publishedDateTime: 2022-03-25T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/iit-mandi-to-organise-robotics-ai-summer-camp-for-school-kids/"
+  - title: "Amity University organises tech masterclass for BTech & MCA students"
+    excerpt: "Amity Technical Placement Centre, Amity University, Noida, Uttar Pradesh is organised a 32-hour engagement activity and training programme - Microsoft Azure Masterclass - in assoc"
+    publishedDateTime: 2022-03-28T09:32:00Z
+    webUrl: "https://www.telegraphindia.com/edugraph/news/amity-university-organises-tech-masterclass-for-btech-mca-students/cid/1857953"
+    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/news/amity-university-organises-tech-masterclass-for-btech-mca-students/cid/1857953"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/amity-university-organises-tech-masterclass-for-btech-mca-students/cid/1857953"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 69
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 44
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Robotics.jpg"
-        width: 2240
-        height: 1260
+      - url: "https://assets.telegraphindia.com/telegraph/2022/Mar/1648459792_amity21.jpg"
+        width: 558
+        height: 372
         isCached: true
 
 secured: "ZJPobfjyKSZ0qmfuGCWQv1Ds5wRZjr2JY7Nn7+WiPLPVtH32DLOMGrriCcKXY7ri+VDhP1zeiq1DYr/KVBdTLCxUCx5BAUXtz5M5zHtcM6vHyaL4bgYjp1XrngJ7y+GugRApx7L+JFR66EYOs7oz5fmd1eYWXlJk8VMNa3nk+MABHyx4c2m65Va0hptmTXMougGzgLUM+uU7XDZPdv5u+wk3oCfTu48F4UOVeJnpmjnKhDKB/dzLYYM+XrJj/MJoCpk+oRt2WjN5mssDa19U1dUf8moSWgsdijshX8IK6XAJDJjCTmhWA3dKLFfzfipmlctTQugPE+gDfkDkX2YvLHRHFXZPHWHFhVEXUWXoMzs=;OhmF083pXyEhMV6AfHDUNg=="

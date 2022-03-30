@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Will Smith would face little more than a slap if charged"
-excerpt: "Will Smith’s slap seen ’round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted hed"
-publishedDateTime: 2022-03-30T00:21:00Z
-originalUrl: "https://abcnews.go.com/Entertainment/wireStory/smith-face-slap-charged-83752237"
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/smith-face-slap-charged-83752237"
-ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/smith-face-slap-charged-83752237"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/smith-face-slap-charged-83752237"
+excerpt: "Will Smith’s slap seen ’round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap of his own — on the wrist."
+publishedDateTime: 2022-03-30T05:20:00Z
+originalUrl: "https://www.ksat.com/entertainment/2022/03/30/will-smith-would-face-little-more-than-a-slap-if-charged/"
+webUrl: "https://www.ksat.com/entertainment/2022/03/30/will-smith-would-face-little-more-than-a-slap-if-charged/"
+ampWebUrl: "https://www.ksat.com/entertainment/2022/03/30/will-smith-would-face-little-more-than-a-slap-if-charged/?outputType=amp"
+cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/entertainment/2022/03/30/will-smith-would-face-little-more-than-a-slap-if-charged/?outputType=amp"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: KSAT
+  domain: ksat.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Entertainment/WireAP_643be489b43e4dcea8c5ae804e8396c8_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/PT7LUGTP3VFPNMBCQEYLIFVN5A.jpg?_a=ATABld60"
+    width: 700
+    height: 467
     isCached: true
 
 related:
@@ -104,6 +104,6 @@ related:
         height: 532
         isCached: true
 
-secured: "AeWx4Tt0WR0/omXb/T0j+ncpxusvp4ApzJX8XQmgkZLfc84JpU1WOFvhp4fhid1myizKw8NzGqSq7frZ6jc3x5Ge1Boa8wtMYbBCqumHMvl1J71XE7hD8/34ObYl1a8yYdvcAtSt21K0KwPOEZGpdvK6eTbabcbF3TuR1wAZjzPfzOowaCCPu0enlTSQv81YvaIu2dTsu/+43aW67gmDUfqDQEKObRYpenPo5qSQsUog/Zpzwzv27EPCoELAnJN8eOoK//h38Qd/euXb3RwHrc8myHKkOVkPfGtrz5WT3HAH286Bdy3O2i6umwKRC/lwkD/rIAqbMVQ3zyoH2ao8ifzvZfZBfcIBOrdg8t6mAFssj0UrKfsKN5EMAsC2Ay8a04PcATTzvoe2zpw04uouUlYLuxJcrDNMoKys8Q5XYsR0ta7UpaoqXWmAB96DnWePD3/gErKixNocrZzU/ZjcxDvSjb/sfjy6sfg3ruvy6KKdoU/Dc0Lwxi0XYNZmFynNRek+pGzFZL3ClVTEgkecBw==;ZbaBRCR28UD+GCAmCOOlkw=="
+secured: "dlOmdubjeJLgZe6xK98miW+16FP+s48j9iQoxL6ktePz1hLcUa0AKxaml7cpz4LQgm5t8sYkIa2r4PEgbwRkHyK6cQ1UeAyynBaHOtQxwtbKmmz2GKPAJW4mlQexo5kqtLCT23/4UDEpzpTjLT6u7UpFJSZmG6N0qrXxrjH59n7kUAd9XctDX/dZRZCG7tAT/cFsmKblIGEiebpqmp4I83SOewLi8uz+XCbJnG98tVjODtdP7ohySe4Z3xHI3E3wAKffy0RoFdbOblYfOnHSayi9Asz4DSoXoc+RG/iccRvdJhwRefLhAEClko6ZfD1MqRRXLJN3FTUlRO6075z/rZCJVULIHMIc8VQIhANoNYU=;ILAQE8LASxc8Sw071kBCIg=="
 ---
 

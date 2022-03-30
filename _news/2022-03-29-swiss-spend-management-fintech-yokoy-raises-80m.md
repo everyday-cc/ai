@@ -27,6 +27,20 @@ images:
 related:
   - title: "Fintech Effectiv raises $4m from Accel for fraud and risk management platform"
     excerpt: "Fintech startup Effectiv has today announced a $4 million seed funding round, led by Accel with participation from REV (funded by RELX) and other industry leaders. Effectiv offers a next-generation, no-code risk management platform for mid-sized banks,"
+    publishedDateTime: 2022-03-29T14:20:00Z
+    webUrl: "https://apnews.com/press-release/NewsDirectCorporation/technology-business-c58d1ac5538864eda77b591d265ab961"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Fintech Effectiv raises $4m from Accel for fraud and risk management platform"
+    excerpt: "Fintech startup Effectiv has today announced a $4 million seed funding round, led by Accel with participation from REV (funded by RELX) and other industry leaders. Effectiv offers a next-generation, no-code risk management platform for mid-sized banks,"
     publishedDateTime: 2022-03-29T17:53:00Z
     webUrl: "https://menafn.com/1103933031/Fintech-Effectiv-raises-4m-from-Accel-for-fraud-and-risk-management-platform"
     type: article

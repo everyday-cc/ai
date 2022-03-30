@@ -7,8 +7,8 @@ originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/3672
 webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367222/clearview-ai-version-20-facial-recognition"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: IT Pro
@@ -29,15 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
-    excerpt: "Clearview AI’s database now features more than 20 billion facial images Clearview 2.0 offers new compliance and investigation management tools for law"
-    publishedDateTime: 2022-03-25T11:13:00Z
-    webUrl: "https://www.businesswire.com/news/home/20220325005073/en/ Clearview-AI-Releases-2.0-Version-of-Industry-Leading-Facial-Recognition-Platform-for-Law-Enforcement"
+  - title: "South Wales Police returns to use of controversial facial recognition software"
+    excerpt: "Without checks it could 'undermine a range of human rights, risk the fairness of trials and damage the rule of law' a new report has warned"
+    publishedDateTime: 2022-03-30T03:00:00Z
+    webUrl: "https://www.walesonline.co.uk/news/politics/south-wales-police-returns-use-23533221"
+    ampWebUrl: "https://www.walesonline.co.uk/news/politics/south-wales-police-returns-use-23533221.amp"
+    cdnAmpWebUrl: "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/news/politics/south-wales-police-returns-use-23533221.amp"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 119
+      name: Wales Online
+      domain: walesonline.co.uk
+    quality: 55
+    images:
+      - url: "https://i2-prod.walesonline.co.uk/incoming/article17554893.ece/ALTERNATES/s615/1_AWR_MAI_facialrecognitionprotest_120120jpeg3jpeg.jpg"
+        width: 615
+        height: 409
+        isCached: true
   - title: "Task force, commission want government intervention with AI; especially facial recognition"
     excerpt: "Reports pushing recommendations for more-careful use of public algorithms continue to get more direct and succinct, especially about facial recognition."
     publishedDateTime: 2022-03-29T18:07:00Z
@@ -66,20 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "SparkCognition acquires of Visual AI platform Integration Wizards"
-    excerpt: "HPCL is deploying AI-based visual analytics across its retail network to improve customer satisfaction and safety."
-    publishedDateTime: 2022-03-28T07:23:00Z
-    webUrl: "https://analyticsindiamag.com/sparkcognition-acquires-of-visual-ai-platform-integration-wizards/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Untitled-design-7-2.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "Clearview facial recognition app up to 20B images"
     excerpt: "Clearview AI updates its facial recognition system with a significant addition to its face database and compliance and management tools for law enforcement."
     publishedDateTime: 2022-03-28T17:09:00Z
@@ -94,40 +87,6 @@ related:
         width: 922
         height: 508
         isCached: true
-  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
-    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
-    publishedDateTime: 2022-03-29T10:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
-  - title: "SparkCognition Delivers Visual AI Capabilities Across Industries With Acquisition of Integration Wizards"
-    excerpt: "AI company builds on portfolio of machine learning, deep learning, natural language processing, and knowledge representation to address $14.4B visual AI marketplace. AUSTIN, Texas"
-    publishedDateTime: 2022-03-25T12:04:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-3f663c073214a6e3417b25b9daed7907"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
-    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
-    publishedDateTime: 2022-03-30T01:50:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 21
 
 secured: "cfhDY7qyVEvYGW3dDuMu+a7MWt+0E1jDYCae162ChisZndIu3ytQ96GYXMdH372s7ijQHcdMasv2fKTdEZMWIkulNDeLKeQ1jaHjJjj0RqYYsUieqcsbjBNGuZwNxiTMfrXtanRtXz9ze1Xd4SbJ8M5DuaykN11KVMOIm1B82U8p7izqp6N01MqsQY+vYRbrX4vqbd17SiFk7Nd3nJE5KrU0ucnSz7EEvPcswV8WmKNeWrQRDPmHBMjxUrEElUr00DIt582hS/00NGFd6cHl2z2Ch5MMrPLb4ocOEAUAiQFQMxhf/znc+UcjKkpn50gGgGQfyEf3yFL+YlOiyX1gr9df30pgkKS1qW0FEl6df+g=;5q7Bjf5HA3dX1E2HPKePNA=="
 ---

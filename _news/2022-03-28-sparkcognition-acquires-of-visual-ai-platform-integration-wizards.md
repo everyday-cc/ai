@@ -25,105 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
-    excerpt: "Clearview AI’s database now features more than 20 billion facial images Clearview 2.0 offers new compliance and investigation management tools for law"
-    publishedDateTime: 2022-03-25T11:13:00Z
-    webUrl: "https://www.businesswire.com/news/home/20220325005073/en/ Clearview-AI-Releases-2.0-Version-of-Industry-Leading-Facial-Recognition-Platform-for-Law-Enforcement"
+  - title: "SparkCognition acquires Bangalore-based AI startup Integration Wizards"
+    excerpt: "\"The team is excited to capitalize on SparkCognitions incredible depth of talent, considerable IP portfolio, and deep subject matter expertise, providing our customers with even greater value and a broader AI based portfolio,"
+    publishedDateTime: 2022-03-25T13:16:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/articleshow/90443970.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/amp_articleshow/90443970.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/amp_articleshow/90443970.cms"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 119
-  - title: "Clearview AI unveils version 2.0 of its facial recognition software"
-    excerpt: "Clearview 2.0 also features reporting and workflow enhancements that provide a more comprehensive overview of a case, limiting privacy invasion and police overreach. “Clearview"
-    publishedDateTime: 2022-03-25T14:45:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367222/clearview-ai-version-20-facial-recognition"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 84
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622114219/itpro/Clearview_AI_shutterstock.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-  - title: "Task force, commission want government intervention with AI; especially facial recognition"
-    excerpt: "Reports pushing recommendations for more-careful use of public algorithms continue to get more direct and succinct, especially about facial recognition."
-    publishedDateTime: 2022-03-29T18:07:00Z
-    webUrl: "https://www.biometricupdate.com/202203/task-force-commission-want-government-intervention-with-ai-especially-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 44
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement"
-    excerpt: "Clearview AI’s database now features more than 20 billion facial images. Clearview 2.0 offers new compliance and investigation management tools for law enforcement agencies."
-    publishedDateTime: 2022-03-25T19:26:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/press-release/21261824/clearview-ai-clearview-ai-releases-20-version-of-industry-leading-facial-recognition-platform-for-law-enforcement"
-    type: article
-    provider:
-      name: Officer
-      domain: officer.com
-    quality: 39
-    images:
-      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2022/03/Clearview_AI_Logo.623e145e8f239.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Clearview facial recognition app up to 20B images"
-    excerpt: "Clearview AI updates its facial recognition system with a significant addition to its face database and compliance and management tools for law enforcement."
-    publishedDateTime: 2022-03-28T17:09:00Z
-    webUrl: "https://www.biometricupdate.com/202203/clearview-facial-recognition-app-up-to-20b-images"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/22132423/police-mobile-phone.jpg"
-        width: 922
-        height: 508
-        isCached: true
-  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
-    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
-    publishedDateTime: 2022-03-29T10:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
-  - title: "SparkCognition Delivers Visual AI Capabilities Across Industries With Acquisition of Integration Wizards"
-    excerpt: "AI company builds on portfolio of machine learning, deep learning, natural language processing, and knowledge representation to address $14.4B visual AI marketplace. AUSTIN, Texas"
-    publishedDateTime: 2022-03-25T12:04:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-3f663c073214a6e3417b25b9daed7907"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-846637,msid-90445030/automation_ai_thumb-image_ettech3.jpg"
+        width: 600
         height: 450
         isCached: true
-  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
-    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
-    publishedDateTime: 2022-03-30T01:50:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+  - title: "SparkCognition Delivers Visual AI Capabilities Across Industries"
+    excerpt: "SparkCognition is pleased to announce it has signed a definitive agreement to acquire Integration Wizards, a leader in visual AI."
+    publishedDateTime: 2022-03-28T10:13:00Z
+    webUrl: "https://enterprisetalk.com/news/sparkcognition-delivers-visual-ai-capabilities-across-industries/"
+    ampWebUrl: "https://enterprisetalk.com/news/sparkcognition-delivers-visual-ai-capabilities-across-industries/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/sparkcognition-delivers-visual-ai-capabilities-across-industries/amp/"
     type: article
     provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 21
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/SparkCognition-Delivers-Visual-AI-Capabilities-Across-Industries-With-Acquisition-of-Integration-Wizards-01.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "SparkCognition delivers Visual AI Capabilities across industries with acquisition of Integration Wizards"
+    excerpt: "Through this acquisition SparkCognition expands its IP portfolio to include computer vision capabilities bringing greater value to its industry solutions and"
+    publishedDateTime: 2022-03-28T07:19:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272428308/sparkcognition-delivers-visual-ai-capabilities-across-industries-with-acquisition-of-integration-wizards"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 22
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "n51S78z1Mmk4JM8F/5lLK2jzFKCMpZPqVwRh7qY6qK3m3GB3VkB0KtEgRK51PlVMBcR7BMx2C83ZcRsHTuuL03PKl/bUwgHIRMxuBBl4w+uOJ0W9t7EKPBjBrHYUJjXCf2dIvK4wTLvmjxps7wG3EbFl9ggmPbfd+TxO8hcDBDxRCLWQBZxGY8iyuvjAw28nBEWOG+v/P8WMzH/9VQbeOczcvsX9hwT1VX562U4JwK8qYhuu8o1ks03ucgh+kim/EP69euntG2/d1C1LE6lVSBayzoXcFoWiqwArM7uBVJezq+Cxcx/IuZ72ruINeIK714dSH7vqibPL7XvEnQKAt+2f4GLWKj5DxWQJA0FXYoI=;vfzjEdMV4o2psdoG70COnA=="
 ---
