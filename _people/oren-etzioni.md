@@ -18,7 +18,7 @@ twitter:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=-hmxit8AAAAJ
-  citations: 42910
+  citations: 42925
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Oren_Etzioni
