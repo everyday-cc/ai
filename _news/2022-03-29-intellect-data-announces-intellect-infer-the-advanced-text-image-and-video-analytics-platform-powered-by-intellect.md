@@ -25,28 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "The top 8 search topics on Bloomberg's AI-powered Research Analytics Platform: What analysts are looking into"
-    excerpt: "Financial professionals, specifically analysts, need quality data and information on emerging trends to keep their competitive edge."
-    publishedDateTime: 2022-03-28T15:58:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/the-top-8-search-topics-on-bloombergs-ai-powered-research-analytics-platform-what-analysts-are-looking-into/?tactic-page=597225"
+  - title: "Alkami to Acquire Segmint Inc., Leading Financial Data Analytics and Transaction Cleansing Provider"
+    excerpt: "Acquisition combines Segmint's data insights with Alkami's digital account opening and digital banking capabilities to activate financial institutions' user data along the account holder journey"
+    publishedDateTime: 2022-03-28T12:01:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/alkami-to-acquire-segmint-inc-leading-financial-data-analytics-and-transaction-cleansing-provider/article_16385016-89f4-53ce-aa6b-7f207d536693.html"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 28
-  - title: "Global Product Analytics Market To Be Grow Due To Rising Adoption Of Artificial Intelligence In The Forecast Period Of 2021-2026"
-    excerpt: "The new report by Expert Market Research titled, ‘Global Product Analytics Market Size, Share, Price, Trends, Growth, Report and Forecast 2021-2026’,"
-    publishedDateTime: 2022-03-28T06:27:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-product-analytics-market-to-be-grow-due-to-rising-adoption-of-artificial-intelligence-in-the-forecast-period-of-2021-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 8
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 10
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/345d9689605f742c2fe9066713d8618f6b2aad6d-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/5a/d5a2d60d-6218-5c2b-bcff-6de937cdbcfd/61f16357d04bb.image.jpg?crop=857%2C450%2C133%2C0&resize=857%2C450&order=crop%2Cresize"
+        width: 857
+        height: 450
+        isCached: true
+  - title: "Alkami to acquire Segmint Inc., leading financial data analytics and transaction cleansing provider"
+    excerpt: "Alkami Technology, Inc. (Nasdaq: ALKT) (“Alkami”), a leading cloud-based digital banking solutions provider for US financial institutions (FIs), announced it has entered a definitive agreement to acquire Segmint Inc."
+    publishedDateTime: 2022-03-28T20:06:00Z
+    webUrl: "https://www.cuinsight.com/press-release/alkami-to-acquire-segmint-inc-leading-financial-data-analytics-and-transaction-cleansing-provider/"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 10
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
         isCached: true
 
 secured: "Cr/hO8HE+TnWjimnOUAxT6B/V7rLyyyh6xkPNI8ZD1xvTn8s/KOdFlrU61IZuZmXLZhTepou0Yqu4trnEKMMDrs5SSzYZP1PSJ+JevEi6L+flaBOYLhSXbqQaQa2Lq3ndR3o0dK/fzQZDpDWQuxKr9/84O9zFJqCsokOMRMT/mAPG4eHD9PzM4kIYgpjPIrmAANS4GbKJLMy4VoBJox8EiQN77VKKX9vyUVpzMs9+CoUHW6DaqjlFnOdO7q8DnhJtsi/6xJ5YdH1Xyn46Xh4VN12j/PEG0UUQBPmgJnbHtIxW+BOiMH9NcqM3nEiJL1IO4LM6N/CwynUF7jHc/GNosj+fUwj7mC0/buSkMxmK9c=;Y6q2ju1pY9fh/NQUdcRshA=="

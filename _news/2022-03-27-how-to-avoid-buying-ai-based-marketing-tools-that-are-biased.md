@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-mark
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-marketing-tools-that-are-biased/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/623126ba2e129e288514bf95/0x0.jpg?format=jpg&crop=2204,1652,x252,y0,safe&width=1200"
         width: 1200
         height: 899
-        isCached: true
-  - title: "Google developing AI smartphone healthcare tools"
-    excerpt: "Google Health introduced new research projects that would use artificial intelligence to turn smartphones into stethoscopes and other at-home AI disease screening tools, according to a March 24 blog post."
-    publishedDateTime: 2022-03-25T17:47:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/google-developing-ai-smartphone-healthcare-tools.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "C6sdez0Fe6sQsvcK+nxB8TNSLpWi0fgCC5zEUNSJHkAg2bShoMhMGaNc8+sPV6TiB3PxDo8+rW6hkMk1CJfHhduONzkjL5DCfbGw7kUDM9aD2XHKeJMnLGhvm7CfaluWhQ2VL+8k5SZNvhWU/Gt/9WMzULndCPq2hVlIQAyF3AK5MxZ9aibDklWltKpOjuZhr2A65foTefKxEA0GARYiZaDljzFYMeFEWe/RAajNqkDKbjuSTneBCHU1vN4DYgYOPLi/WUOWskQEOGCtCMRW9xI/YEOcQv3X5RxDhpEPoBWFyjnqmUPl+o0LIUl8sP0pmSgaonQXjtF91dFDuML5M0sstWtzKjT5k/ibkH2muaSewxecRwJOdD+JYxDdqA7sYWtDVwR++s/8sCPvB+/aoqxV5UvwGkVhcMdiBZ6ODuDsrftuVQ2tKv22rtPV2kd3CewyM4SzBPu54iiZWIOk27MY8PjMjGfL/JBIgIN0MXwF3YDNOfZJJJ7JwoENdNYJtr4AHwuM7jsJq9z1Y0ivxg==;HZZEHaaaQqNWAX7u3SbkZA=="

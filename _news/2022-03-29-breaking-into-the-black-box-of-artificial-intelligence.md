@@ -3,8 +3,8 @@ category: news
 title: "Breaking into the black box of artificial intelligence"
 excerpt: "In February 2020, with COVID-19 spreading rapidly around the globe and antigen tests hard to come by, some physicians turned to artificial intelligence (AI) to try to diagnose cases 1. Some researchers tasked deep neural networks — complex systems that are adept at finding subtle patterns in images — with looking at X-rays and chest computed tomography (CT) scans to quickly distinguish between people with COVID-based pneumonia and those without 2."
 publishedDateTime: 2022-03-29T14:28:00Z
-originalUrl: "https://www.nature.com/articles/d41586-022-00858-1?error=cookies_not_supported&code=b416cd61-ab8f-4dea-a6f7-c76c01e7969f"
-webUrl: "https://www.nature.com/articles/d41586-022-00858-1?error=cookies_not_supported&code=b416cd61-ab8f-4dea-a6f7-c76c01e7969f"
+originalUrl: "https://www.nature.com/articles/d41586-022-00858-1?hss_channel=tw-292547396"
+webUrl: "https://www.nature.com/articles/d41586-022-00858-1?hss_channel=tw-292547396"
 type: article
 quality: 37
 heat: -1
@@ -67,6 +67,6 @@ related:
         height: 450
         isCached: true
 
-secured: "r3cW/Ws7aJjAHC92sEB69GER3iwzqAirrgYj3tVLGW4oGly0oBoHp+QaGD3MnL6mgJk0oxuHr9Q7IXDEKaQJDS6aKf4qrsDp2iaq378oTxKxg1Lhw+TqDhw89VHBSEDCQxkfnFeKUe70osn7bmp5jOQUc4a2cD7RpBytwmKRhImtQQwqVnmxrNnaoRMdvRsK9apG4d38NhZ+sA/3bQV59Pnbrb0tPofZ7MuLhhBEf9xDNSsibsJElh9zh/kzI0b9NUELe7Fp5zqLhXZ4jKgogNy+aMwHnyH6g3LjE5Ybatzwzqx3ItmjJ9Qzwli0S4GyoHe+t9pCKd/kNSB9BCoDtx5AiT6E8IIlA1YwYnFyu5o=;rfb9ZB+IzCvAf4AEPFHUEA=="
+secured: "Q4++aYqrf6AW1n8fV92Gqedwt31hq1FIVblYOyLaIUKuOwgd71VIxI40ijGOIHEzv6Nah/QLCCVEhp8PjlAMhQ3F2y8XCoxK23V0rlkhkezxIf+ixbtCLJJw2FAxRg3T0n5CJg96RanTkVky1vOQ5KOd8jyyCg4PcgXMS+QJwUNOVbCMu6I3bgKeey0XmgFVV0bhQRMLp3o7xQXwMG8lyrpVRw4rtiuXdlMdj8C3OKLbhx2+pz6xUayJRbPT/JTY95O7KaoTuk8ctJ8IInJhOuLHoOVXJHp3BMsTnUlMqRiVf0UOY+1T56/NqtpRJU/t1lh0GLtrkMk6w0RpAlsPbRcSte9honFL6wNs+4wJ9Ms=;ysUZ7d6UVzR5Nd1rmV+DRw=="
 ---
 

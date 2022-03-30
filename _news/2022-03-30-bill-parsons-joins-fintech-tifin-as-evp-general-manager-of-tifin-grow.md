@@ -2,28 +2,28 @@
 category: news
 title: "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow"
 excerpt: "TIFIN, a fintech platform using AI and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran Bill Parsons has joined the firm as Executive Vice President & General Manager of TIFIN Grow."
-publishedDateTime: 2022-03-29T19:16:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-ef2bfcfef318948975a1a828c66b4ee2"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-ef2bfcfef318948975a1a828c66b4ee2"
+publishedDateTime: 2022-03-29T19:23:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-bill-parsons-joins-fintech-tif-as-evp-general-/2022/03/29/9572869.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-bill-parsons-joins-fintech-tif-as-evp-general-/2022/03/29/9572869.htm"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
-secured: "kt876FCtVBl44Leh0IlBWDnhQRcz3A5S3/CBqOTD93VxYR4XYI9xDp8HsM6+1bCKD+No/miqxKPnsin50G2/nFp9Bl/bGqvZu+tRFONZTD2mEyoxrwUYuAiu4IsdGJy93J0B21oajmScSHtQyRd0GZycP5/hXTj2CEem0ydNReyM2CvXb4RI+qFuHt+oQSSfB41bQi/AaL5dssf0kvDWspt/PFN6Ghh2Dcgvz1MqCVripll6qnLm7NXE0ZXDoAWWbq21nODlQ/fimsVYA/cfPmJqTvb2EwWcnRo9LzPizNb7sQYB3fl/fM3JaUbLGsMCg8QlatE7cPUepr322q+j3zzQMw2RfCe128vCH5A6I6E=;53jsqh63VgVD2LWV3OI+dg=="
+secured: "elfQ1ljVz7ozTySYn12GeJD3p8TXvmPffjOBYmVJ2KWGfANcs0F2ueDrr+jIiDcFY+icRUEKbInBZ2xuC81pR693/elE1ChVeQZR+dTvNi1M4FY48tViW0lqRmJEpYrr1KtVwdes8+Cc9j2lYWa3gxzN+5PHNZJlA39134eO3YYjpgVqRIeRlIydNO91muc2mh2mxknHmcFu6GVtEFdVkAp62ip4fmw/R0lUe5GwtyHHIB35YwdB2ZNWnsPVdq4OMfpFXnp7dPB7JqE9mO34S4MB4B305+PbdSJKRCFwgqr3TFgtoyq+RCeg5vuTo4OwW3pCwiJP6xSRT1ngmg79pSelpKGjeBOizdWXa2c6tX8=;WtY7P6CgWLj6Ukty74FItA=="
 ---
 

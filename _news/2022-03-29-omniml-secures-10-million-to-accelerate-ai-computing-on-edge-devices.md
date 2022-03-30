@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-29T15:08:00Z
 originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-san-jose-venture-capital-artificial-intelligence-3c9b1122a386442a83dab3822c84a7dd"
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-san-jose-venture-capital-artificial-intelligence-3c9b1122a386442a83dab3822c84a7dd"
 type: article
-quality: 56
+quality: 37
 heat: -1
 published: false
 
@@ -15,9 +15,7 @@ provider:
   domain: apnews.com
 
 topics:
-  - Machine Learning
   - AI
-  - AI Hardware
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -58,6 +56,20 @@ related:
         width: 700
         height: 500
         isCached: true
+  - title: "Top AI trends for financial services in 2022"
+    excerpt: "Globally in 2020, more than 70 billion real-time payment transactions were processed – an increase of 41% compared to the previous year. by Charles Sutton, Financial Services and FinTech Lead EMEA, NVIDIA This massive rise in transactions has presented an opportunity for criminals to conduct more fraudulent activities like account takeovers,"
+    publishedDateTime: 2022-03-30T11:06:00Z
+    webUrl: "https://ibsintelligence.com/blogs/top-ai-trends-for-financial-services-in-2022/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/03/Picture1-1.png"
+        width: 624
+        height: 289
+        isCached: true
   - title: "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices"
     excerpt: "GGV Capital Leads Seed Round, with Additional Investments from Qualcomm Ventures, Foothill Ventures and moreSAN JOSE, Calif.--(BUSINESS WIRE)--#AI--OmniML, a startup developing smaller and faster machine learning models,"
     publishedDateTime: 2022-03-29T18:08:00Z
@@ -73,6 +85,6 @@ related:
         height: 339
         isCached: true
 
-secured: "6YpnFVxxawYHXXdhYS9uSwbVmnsH5WsHVe2/WS52RwvkKdm7T/S10JOnpOhUrCpOq5rgH8L7Up5AdJmXdhlM44LCP3scDkLCctvZOSsfZul8iOWJu2V0GnSwZCJVo9zy4HsVLQGc4z/Hu40aLWP3llQYi9/lpzjxtyVVPS4XWTsMbLnpULytDgG2uKpiHNCnd9vQiUreSx615W0ljl3zo2+SBB+oErMouTHvL7T4HKOdXzZ8UOOLi00CtcECMopswLixHf4mVA+xa5rJ8A08oyRhoWL5HvTKEvsILUDkSUZ+f3UzEKYC7PmZlWRSSKMzHhcmaGvU2chES5eb2q51s1RxScroQJrRCVUqyfCj2QM=;FGpx3ckWdvTrWMMuOotp2w=="
+secured: "KGzFoGNARaq9lP+t4w1zLXUu16NoNNr6jqTfMc8jFfhrs6Wcvz2s6tCOiB2pgCcjgsOKILQlIe6GmU0Zv/8sa8EnzHcbHl5aqUB6Xp1brmjKeqn2uwak8XZU0Sof5fFfkY481rakhq8hTIVNTAp5V7YrDfmQ4s8WORmnqlyvMv05aLkwrdiGbr1EpHKhG1x0cNrNSvS10L7OaE5Lhs4AB1HZIH5aQU7oDF4N7/5H/AOxEn/4ySpbF26oKWfr324psQWh64iXjEjthcn+79eI7Kbu22VN7dMa3JE/Z/eeUkcJbP9AUs0CqYuCgF2ntnZ8WPy65rWrUn23z/ncdD3KqC2pBGX1k8MBxEr0oPhe/aw=;G8SYcXPdcmdJJoNzOkSZww=="
 ---
 

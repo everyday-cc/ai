@@ -57,34 +57,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Healthtech AI startup Qure.ai raises $40 mn"
-    excerpt: "Healthtech AI platform Qure.ai (Qure) on Tuesday announced it has secured $40 million in a funding round led by Novo Holdings and HealthQuad, along with existing investor MassMutual Ventures. Qure.ai offers advanced technology that reads and interprets medical images like X-rays,"
-    publishedDateTime: 2022-03-29T13:07:00Z
-    webUrl: "https://menafn.com/1103931667/Healthtech-AI-startup-Qureai-raises-40-mn"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2022-03/29/I_0eec6image_story.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "Healthtech AI startup Qure.ai raises $40 mn"
-    excerpt: "Healthtech AI platform Qure.ai (Qure) on Tuesday announced it has secured $40 million in a funding round led by Novo Holdings and HealthQuad, along with existing investor MassMutual Ventures. Qure.ai offers advanced technology that reads and interprets medical images like X-rays,"
-    publishedDateTime: 2022-03-29T17:00:00Z
-    webUrl: "https://www.canindia.com/healthtech-ai-startup-qure-ai-raises-40-mn/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 37
-    images:
-      - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
-        width: 696
-        height: 436
-        isCached: true
   - title: "Healthtech AI startup Qure.ai secures $40 mn"
     excerpt: "Healthtech AI startup Qure.ai secures $40 mn - Healthtech AI platform Qure.ai (Qure) on Tuesday announced it has secured $40 million in a funding round led"
     publishedDateTime: 2022-03-30T03:44:00Z

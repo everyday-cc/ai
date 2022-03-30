@@ -25,6 +25,22 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "AI Enabled Smart Trackers Market Is Likely to Experience a Tremendous Growth in Near Future | IBM, Amazon, Intel, Facebook"
+    excerpt: "Global AI Enabled Smart Trackers Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report Ocean, is"
+    publishedDateTime: 2022-03-30T10:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-enabled-smart-trackers-market-is-likely-to-experience-a-tremendous-growth-in-near-future-ibm-amazon-intel-facebook"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 13
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-War-AFP-1K-01-1-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+
 secured: "4keIWYszB/fBATHC1riF8orAW6Wr6P2BpSkQE3LUzPOjNMbpva+JEq0ma0GJGCzBiUzmfMg9hRAGLdKp6QJGAXsIdzDJkaky2x5xQhdi1pdYgsT0wXEqTx7rdPh2dUPWrxeWTkPN/amym1Z8iFm2+xsqqzxhou7pRf4CeEcNIKbPWcE4GXGm5Xs1sCtMiGpMS6qU//RzGBfHjoWBikEp+8di8UmWI4xASLICwd51GCFFYs6HRUlIyGI7SPU1WaRD8bBb0gEVAvlfS38+riix/+w+H+t9ht15Ql5SAXxlJJeL5ve+Or6fsI5keutNSD6hbI1QSkHxhRii02Ai15249GN5t1uAeRlTl6ENzL3F80s=;26k//VhKShKJLJ22kgrWcA=="
 ---
 

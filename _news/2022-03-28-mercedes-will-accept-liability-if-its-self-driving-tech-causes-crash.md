@@ -7,7 +7,7 @@ originalUrl: "https://www.thisismoney.co.uk/money/cars/article-10659461/Mercedes
 webUrl: "https://www.thisismoney.co.uk/money/cars/article-10659461/Mercedes-accept-liability-self-driving-tech-causes-crash.html?mrn_rm=rta"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 636
     height: 382
     isCached: true
-
-related:
-  - title: "Mercedes to accept liability for accidents involving its new self driving tech"
-    excerpt: "The car manufacturer will not accept blame where a driver has failed to take control of a vehicle when prompted, however"
-    publishedDateTime: 2022-03-25T17:17:00Z
-    webUrl: "https://www.insurancetimes.co.uk/news/mercedes-to-accept-liability-for-accidents-involving-its-new-self-driving-tech/1440701.article"
-    type: article
-    provider:
-      name: Insurance Times
-      domain: insurancetimes.co.uk
-    quality: 35
-    images:
-      - url: "https://d17mj6xr9uykrr.cloudfront.net/Pictures/1024x536/5/5/7/89557_drivingdata_325533.jpg"
-        width: 1024
-        height: 536
-        isCached: true
 
 secured: "552jflOTbLuupmYd76n+VgUUDDDDD6e/zdG7tU+HHZLiARpzPiaPWkQCxK6fVUww1kBw66ttb9F5Iiy7M3taA+ybrpP2/CBtyA88T6qZQYiFIPVAya/zawzhx7cGWLhlaCQ+sjeIT964tjM0FoVJ/dXfvn1255NyYRLqp+znDNUNPOKlCDSaRSVpngINRwoFLufLZ7AGOpQ9h4aUd9/eeGDuu0FlJqjNCsMoqHh+Up/jZa8cg6rNCJhn6zhSWGNOuRGOwnhlHVoSg6Rey5r01+qlOHbVhfFHgkzlZCbP6LgjUjUWWpEiSwPORp2G63ZTiCtVRk1qKy2AWEyVWh4qwy6evfna6iyO7T3Fx7G8IhdHFqOCwefj8dRkVl6O5e7J/9RcVtjfD9TQ8h/M2ureqcGtNTlNqfgRq0Wjhp5idXbnbuL6iMhACFqqe9+SzEKKz/PMQcf+yEJ0EVinAxpRsf2gm0GGuijNp1gPLNh+raJvKklWsPZrqAIE7TjUXxRwbO10V4TYd14pgMzJpRGV1w==;ar+tih3P2sAXWn9nQNwjvg=="
 ---

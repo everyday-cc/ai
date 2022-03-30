@@ -1,23 +1,25 @@
 ---
 category: news
 title: "Lantheus Announces Collaboration to Support Prostate Cancer Clinical Development"
-excerpt: "Lantheus Holdings, Inc. (“the Company”) (NASDAQ: LNTH), an established leader and fully integrated provider committed to innovative imaging diagnostics, targeted therapeutics and artificial intelligence solutions to Find,"
-publishedDateTime: 2022-03-29T12:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/03/29/9572192.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/03/29/9572192.htm"
+excerpt: "Novartis will include PYLARIFY® (piflufolastat F18) in their clinical trials for Pluvicto™ (lutetium Lu 177 vipivotide tetraxetan) for the selection of patients with prostate cancer Reno, Nevada (UroToday."
+publishedDateTime: 2022-03-29T13:04:00Z
+originalUrl: "https://www.urotoday.com/recent-abstracts/urologic-oncology/prostate-cancer/136289-lantheus-announces-collaboration-to-support-prostate-cancer-clinical-development.html"
+webUrl: "https://www.urotoday.com/recent-abstracts/urologic-oncology/prostate-cancer/136289-lantheus-announces-collaboration-to-support-prostate-cancer-clinical-development.html"
+ampWebUrl: "https://www.urotoday.com/recent-abstracts/urologic-oncology/prostate-cancer/136289-lantheus-announces-collaboration-to-support-prostate-cancer-clinical-development.amp.html"
+cdnAmpWebUrl: "https://www-urotoday-com.cdn.ampproject.org/c/s/www.urotoday.com/recent-abstracts/urologic-oncology/prostate-cancer/136289-lantheus-announces-collaboration-to-support-prostate-cancer-clinical-development.amp.html"
 type: article
-quality: 0
-heat: 0
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: UroToday
+  domain: urotoday.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "GMkw9608IafFBaZ1HyBj/gMa4EozolNNxwg8FOPKqOWVT4DoN1VkgmHOCxizr9sdkhBX9k/kd/UlYyrsfizrUx3pWzIf7uIhHpVFh3iFAtWPuKRpIMi60eXiYnbLgEdBu1qSTjluBLMNOLh6I6TiqoamLGZULp8dsMICeNThDHmJIiuble+tSbu8cHNOCWgp4m58e2L8h3SQmxJiva5x4uhn8eazGvgDinz+TiAjLSxtIroRGStaM6ZSVgB51WunLjRUbLieatv30ojOqDNYMimoYokVKpmD31iUZriwXfHqWEgzJ+PkFsN21/ZbZRifHTO7dWmmig51tjTumuMtfpR/AirRnuR3R0QqtZK4yQA=;073VKVm8G/vZvn1S+MfSzw=="
+secured: "8vsWeYRrO/smREZPbS/5PvfBkCoQrRRpzcMTPcUB55N8QVDJBb9BzvdDiWfN6l2S0dsZEH10+UalYpamYC1JH6ZOqxOxYPK/FWvNaP3yyS8r28MWANkfV1hPG0FYcp/AKWEiMLq7qOOY3J/Chqy5kZwxFebI/bqkFOfW+zj5Ebbx8LquX9aUwDjYjs7sDvQuwzztbiBmFGPWlJPbl91RoEQqC9hRRChmFUk9A+MyLiVWmzw8dAe/fdit0lPxbAb1wK67WwvJbYJ6Y5phHF18FDbHAjJK1FRErDz16SZRun8yhnkiEHq7jaz6i/N5Pqm0smEauFZVGRlnQGEUrHSRqU0JoHjuk0EieY4+jb3JT1g=;ltu8J08DMpX0OmjDGDDMfA=="
 ---
 

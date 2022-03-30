@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Builder.ai Raises $100M Series C Funding Led by Global Software Investor Insight Partners"
-excerpt: "Builder.ai® today announced an investment of $100 million in a Series C funding round led by Insight Partners, a New York-based global venture capital and private equity firm. The round, which brings the company's total funding to $195 million across three total rounds,"
-publishedDateTime: 2022-03-30T09:00:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20220330ln07315/builderai-raises-100m-series-c-funding-led-by-global-software-investor-insight-partners"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20220330ln07315/builderai-raises-100m-series-c-funding-led-by-global-software-investor-insight-partners"
+excerpt: "Builder.ai ® today announced an investment of $100 million in a Series C funding round led by Insight Partners, a New York-based global venture capital and private equity firm. The round, which brings the company’s total funding to $195 million across three total rounds,"
+publishedDateTime: 2022-03-30T09:01:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-software-london-9671bbe31dc579ba189380fa2b9f0b9e"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-software-london-9671bbe31dc579ba189380fa2b9f0b9e"
 type: article
-quality: 8
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Zesty.ai Receives $10M in Growth Capital"
@@ -33,6 +39,6 @@ related:
         height: 1251
         isCached: true
 
-secured: "EdnKTeX6mov8/ih3bheD0apMp/MFFXN2y4X+hqEo00z+mADC80GjD5Vk+Q/69YfCBi0eQ3Bf0MA99va1NxugKW1Dy3CIT9B0OkTEo9Z7iwpFQIR9k27fETpE11acVwPS+HZrdS4IUbFntctKfcGTWgU9FS7IuxELvBGlssgDPyxFbNlQpunS2RjeJeh0aW0fEZOqAJNEPUBL6n3FpWX0lEfqJVo96rPd1lCR6ZILElEnHuclvz9P/jeZX3U+LpqLeZQFpxewNPfRf++vi/dCMi0Ml6vDUx5um1jlEkszqsBdtoyNHDiiSQBcfKTLk2xz5yMwC/3W9MxP33Oo261t+cbspLlOoJGZPidOGUrm2YE=;9id3Aj03SPa1ZGvUeDjnbw=="
+secured: "5rXtcsEVwoAIn1Xt3RDvS1ychpoXEBJA0nHY1ya4U+lo8ctYb0Q5Jt/DI+IhJhkTogxmrw6R4QgmRBusy76gBjesa/aIU5HYtV7zeh7cu1xU1xw2UHBwEXhN4nSgUKFHpWct+kCNXNxrKKmaV2zmVCBaPHh5LxT+8cWkY7Y7iXU4mAB41h6jpt4ZOat7Vk4YU+vQkIkv5H+rSqDre0Ajmv4Vp1QmduHVUBGY+w+NdOUNHFQuIOxeHTYV5tnfPRXT3MBpPKYWxDB5cw23ce29XUklQMyrf0rIz2SFVX52qq/TlB80X4WpLZ5N7mGCJpQHJYyS+QSmppGAWlCPydR8P32Ui0c1Lme4kLWagUhDFJk=;4QbTz2qNQOg9pQkxv8BVPw=="
 ---
 

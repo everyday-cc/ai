@@ -7,8 +7,8 @@ originalUrl: "https://www.genengnews.com/artificial-intelligence/ai-and-robotics
 webUrl: "https://www.genengnews.com/artificial-intelligence/ai-and-robotics-uncover-cellular-hallmarks-of-parkinsons-in-skin-cells/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: GEN
@@ -23,22 +23,6 @@ images:
     width: 1400
     height: 934
     isCached: true
-
-related:
-  - title: "AI & robotics uncover hidden signatures of Parkinson’s disease for drugs that “actually work”"
-    excerpt: "Scientists at NYSCF Research Institute have collaborated with Google Research to use <a href=\"/products/183/Control-Automation\">robotics and AI to discover new cellular signatures of disease.<br /><br"
-    publishedDateTime: 2022-03-25T17:46:00Z
-    webUrl: "https://www.dpaonthenet.net/article/190039/AI-robotics-uncover-hidden-signatures-of-Parkinson-s-disease-for-drugs-that--actually-work-.aspx"
-    type: article
-    provider:
-      name: dpaonthenet
-      domain: dpaonthenet.net
-    quality: 58
-    images:
-      - url: "https://www.dpaonthenet.net/global/showimage/Article/201547/"
-        width: 375
-        height: 238
-        isCached: true
 
 secured: "KaWqOdxkWwDY/kDO0ou/lWuC5KSPtz9MznjRBy9hkdnIorhW8cC232/LGbzKI7ERhkk3/FYTl5Jlz/XpaBp4F51CzkCg6763gHu6q5QrZBDy4XLSG/3PIEt2SicyXxS4ALm4+75YDDFfl2+Dq+3EjLb3D9xJog/PqbpWK2dI7cjVV76yU1v8+Vo8Zxd2GoCMv+Y/ynToUEv38fyyBfkfg5KYRC3L+x9WF2aV5mjAMNJ/vrtGK+XGua9RP0+/o497bfo4ga+2P2xQqGZu0U/u6Np+egqDzTQksbPMK6W0YEgHb2aKowcMmCcufRRINnvsz+7G0UZ9hIE8BfwrsGA8sSVWqkbxRg0S0d7WmLJCpcE=;cOZPR7JYRHDZpYs9+rqRPw=="
 ---

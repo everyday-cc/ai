@@ -26,17 +26,31 @@ images:
     isCached: true
 
 related:
+  - title: "Committee challenges police use of AI"
+    excerpt: "A committee has warned that law-enforcement agencies’ use of artificial intelligence and facial-recognition technology is not subject to proper oversight and risks exacerbating discrimination."
+    publishedDateTime: 2022-03-30T10:33:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/03/police-use-of-artificial-intelligence-must-not-undermine-human-rights-says-committee/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/17970/dreamstime_xxl_130604225.jpg?crop=0,0.064166666666666677,0,0.44364583333333329&cropmode=percentage&width=1200&height=450&rnd=132931061510000000"
+        width: 1200
+        height: 450
+        isCached: true
   - title: "Peers challenge police use of artificial intelligence"
     excerpt: "The Lords Justice and Home Affairs Committee raised concerns about a lack of oversight for new technologies used by law enforcement agencies."
     publishedDateTime: 2022-03-30T08:01:00Z
-    webUrl: "https://www.echo-news.co.uk/news/national/20030184.peers-challenge-police-use-artificial-intelligence/"
+    webUrl: "https://www.dorsetecho.co.uk/news/national/20030184.peers-challenge-police-use-artificial-intelligence/"
     type: article
     provider:
-      name: Echo news
-      domain: echo-news.co.uk
-    quality: 39
+      name: Dorset Echo
+      domain: dorsetecho.co.uk
+    quality: 37
     images:
-      - url: "https://www.echo-news.co.uk/resources/images/13598725/"
+      - url: "https://www.dorsetecho.co.uk/resources/images/13598725/"
         width: 2400
         height: 1600
         isCached: true

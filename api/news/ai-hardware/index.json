@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-30-milken-lerner-back-healthcare-start-up-that-leverages-ai.md",
+      "title": "Milken, Lerner Back Healthcare Start-up That Leverages AI",
+      "excerpt": "Zephyr AI, a healthcare technology company backed by blue-chip investors including Michael Milken and the Lerner family, has raised $18.5 million in its latest seed funding round. Although the round is fairly small,",
+      "sourceUrl": null,
+      "webUrl": "https://www.institutionalinvestor.com/article/b1xcyzkgf83dyc/Milken-Lerner-Back-Healthcare-Start-up-That-Leverages-AI",
+      "originalUrl": "https://www.institutionalinvestor.com/article/b1xcyzkgf83dyc/Milken-Lerner-Back-Healthcare-Start-up-That-Leverages-AI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.institutionalinvestor.com/media/AMG/II/articles/1/1/1/art_zephyr.jpg",
+          "width": 1000,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Institutional Investor",
+        "domain": "institutionalinvestor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-03-28-teslas-head-of-ai-is-on-sabbatical-and-people-are-worried.md",
       "title": "Tesla’s head of AI is on sabbatical and people are worried",
       "excerpt": "Elon Musk announced that Tesla’s head of AI, Andrej Karpathy, is on a four-month sabbatical, and people are worried since other Tesla execs have left after going on sabbatical. It comes as Tesla expands its Full Self-Driving (FSD) Beta to Canada.",
@@ -1402,49 +1446,6 @@
       "provider": {
         "name": "Digi Times",
         "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-cerebras-brings-wafer-size-ai-chips-to-medical-data-analysis.md",
-      "title": "Cerebras brings wafer-size AI chips to medical data analysis",
-      "excerpt": "AI chip startup Cerebras Systems has deployed one of its CS-2 systems at a well-funded startup that uses natural language processing to analyze massive amounts of biomedical data. As announced on Monday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/03/14/cerebras_ai_chips/",
-      "originalUrl": "https://www.theregister.com/2022/03/14/cerebras_ai_chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/03/14/cs21_7nm_planview_dinner.jpg",
-          "width": 9144,
-          "height": 6094,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/14/cerebras_ai_chips/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/14/cerebras_ai_chips/",
-      "publishedDateTime": "2022-03-14T20:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -27,22 +27,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "See What You Can do to Protect Your Vision"
-    excerpt: "Threats to our vision are everywhere, from flying dust and debris in industrial settings, to overexposure to computer, mobile device, and television screens."
-    publishedDateTime: 2022-03-25T17:33:00Z
-    webUrl: "https://www.lvb.com/sponsored_content/see-what-you-can-do-to-protect-your-vision/"
-    type: article
-    provider:
-      name: Lehigh Valley Business
-      domain: lvb.com
-    quality: 24
-    images:
-      - url: "https://lvb.com/files/2022/03/3.28.22-AC-206-207_SOCIAL_GettyImages-536914933.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-
 secured: "LLgWa14GtPuXm9RYPSZOCHLKN+wkY2eg+jM9RQxotSKNgdZ5vDvXhOYEXU5BGjqI3DsesYGjrqoF3nB6eixiNliJpp7eB8nBhfJS9aDaY5lRYfA7l5Xqx77mb2FT89kLB/JMCx0fkDiHOcE1KmkpyUUrWRl1xocpEwtV1GAt6nQUBcjGPq5/gtvVTfKoucc1PB7WBjaJiCzCnB1j47dQ+Od1650K+rc4bwoLb+yTwP2Fv+1Uhk0FA8VsQXp/92OnZmQut37iP6xVcWm7AuF83gByRKPC4YTAHbRu+y89L8jSJ/XZP7HZ+Xc7w/v8j9LhxCXhiq0CAuJGyLaiX6/8NhGbMjrEdwGPclpMvipzQKoHSiDLgm9Xu9KV0eY8FDKG3nEGAW9W3KtmQrDMFOUQmYIXvXpN6aQnKcaNiLYxDDEDI/fVvwjxsyeh6pqAiMXtVUJb+dvMb6vJYqH76MYXFHDHCJT8P3zc4XXDYPxzdsUoOUo2Wiq02yuly/SM+zmPipS7ovJUlJihAzj2b9vsjg==;JKgQG/CgSiVHAYC1YVm1vQ=="
 ---
 

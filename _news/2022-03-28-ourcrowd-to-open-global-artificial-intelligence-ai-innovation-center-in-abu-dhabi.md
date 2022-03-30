@@ -38,6 +38,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Artificial Intelligence (AI) In Food And Beverages Market Competitive Research And Precise Outlook 2027"
+    excerpt: "Comserve / -- The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a rob"
+    publishedDateTime: 2022-03-30T11:40:00Z
+    webUrl: "https://menafn.com/1103933747/Artificial-Intelligence-AI-In-Food-And-Beverages-Market-Competitive-Research-And-Precise-Outlook-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?868122"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "kjd3Z7j+/a29HB/B0QrIBS60Q0pT1BA7JWg6Dxc48Zyr4dfqoCnx/0/2aiSLeTyu+ZqPfiLdTKq5Dm6EV6kCEGj9INOimU802La7HN/634+IjQFH0qHjf8wqW55adZ58McsfbE2RGgZ37zqu4ROYQC5n/CTJY08YPm1LEtkT8gTlvslb12/AyEo4zjebgiwEawEG5seM3RiOdWOR48qs9a5FXEy6DLRiSsWHpAUGQ578kixzreGhCVx/O91UcfZhooP7mpx7qEqwtp9Wh1JFzAcEJ0aFBOgthsrkeMBz95OqvKKCy293o0xW0MJ+rne4XU2gVXO43XE3HCsMgVf52AgWqniiCz1eGGrerh10wW0=;hdpCHI0snVtftrFp6l9ERA=="
 ---

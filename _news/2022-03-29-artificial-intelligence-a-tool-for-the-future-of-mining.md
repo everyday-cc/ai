@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-29T11:15:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 315
     isCached: true
 
-secured: "IdewzoxQAA1G4qKxndMrPU3BzhW1xruo2sYVNX0zq6XSsxNbbZlv4uO35K9rqIZXZQLQG7A1wWJCe1asEM9amirgheXn6466+INC3dhlRqCZqxu7gIAckYS5nyiuQQ7nFMbhM4f1dNIdQ3xT4qzVTioR8dxZqeUUqSBgRcaDVo/ZcY8x4KGEcYEtM7W++9t4W+kCknqX0b/eszuixtX9in4pfY3RbEvNMIYZEgmRCkHpsp9ne7g7KEku8QGRJD9NG/lM33OVcsFXWiKzBWt2Dmq4DfpfKlzb2LFVzjrHMdlSTutFcTSpHVd+jvH/fMW5tYcJoxufEIiYfjIpKiNH3pGWbwdqeqbSTOx6nwfmCwY=;ibcBzI+OG2PNUkEpL/+ccQ=="
+secured: "oS2M9sQgaDFanw/JNkPmbGwXnlbu/VbJMolwaTGD5gq1pz7pM3BBA4Ewe3IDYTc1p44KX2ssSuiXlAw7i9RMXEuAylYFjzryF6PJ8ncmdFESX3vvzwNv9kWJmnjPphYiHw/j8KEhZrWgxEL6APqZrwhfQonHwULI3i9mq47720RmkVYwyKNxAXcxroZ+66sVDGHTF/mySA6wtJ2vK1+Wv6dv5J4lYqpZLWDiopNi7vypdBNPk3SjH5eUe/YOuVmegHZyUZvurdVzqtNrKBr6rh/5Q6jtfWpteTvn6ICXKrJBgmeVLeV/WTYaHWWx7qt7C9NuerFOZyCJT8cXWjKStzHAEA95HG+1XE1jKb03abA=;kqY6kJWvXWlGRXSEd4Brrw=="
 ---
 

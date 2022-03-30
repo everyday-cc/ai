@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-30-arize-ai-release-its-advance-machine-learning-observability-platform.md",
+      "title": "Arize AI Release Its Advance Machine Learning Observability Platform",
+      "excerpt": "Arize AI, the leader in machine learning observability and model performance monitoring, today introduced the next generation of its ML",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/arize-ai-release-its-advance-machine-learning-observability-platform/",
+      "originalUrl": "https://enterprisetalk.com/news/arize-ai-release-its-advance-machine-learning-observability-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/03/Arize-AI-Introduces-Next-Generation-of-Its-Machine-Learning-Observability-Platform_-Goes-Self-Serve-For-Any-Organization-Seeking-Optimize-AI-Investments-01.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/arize-ai-release-its-advance-machine-learning-observability-platform/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/arize-ai-release-its-advance-machine-learning-observability-platform/amp/",
+      "publishedDateTime": "2022-03-30T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-omniml-releases-platform-for-building-lightweight-ml-models-for-the-edge.md",
       "title": "OmniML releases platform for building lightweight ML models for the edge",
       "excerpt": "OmniML’s solution enables users to design, optimize and deploy advanced machine learning models to hardware devices at the network edge. It’s designed to enable enterprises to use small, scalable, and efficient machine learning models to give edge devices the ability to perform AI inference tasks.",
@@ -219,7 +262,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028-2022-03-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1351,49 +1394,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-mathematical-paradoxes-demonstrate-the-limits-of-ai.md",
-      "title": "Mathematical paradoxes demonstrate the limits of AI",
-      "excerpt": "Humans are usually pretty good at recognizing when they get things wrong, but artificial intelligence ... paradox shows AI's limitations. Neural networks, the state of the art tool in AI, roughly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/03/220317120356.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/03/220317120356.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

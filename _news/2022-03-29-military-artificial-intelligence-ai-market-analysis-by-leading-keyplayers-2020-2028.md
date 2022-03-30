@@ -24,6 +24,22 @@ images:
     height: 250
     isCached: true
 
+related:
+  - title: "Edge Artificial Intelligence (AI) Software Market Top Players, Size, Emerging Trends, Share, Growth, Insights and Forecasts Report 2028"
+    excerpt: "Software market for the forecast period of 2021 – 2028 the study provides vital intelligence on the major opportunities”. The edge Artificial Intelligence (AI) software market size reached USD 585.1 Million in 2020 and is expected to register a CAGR of 20."
+    publishedDateTime: 2022-03-30T11:43:00Z
+    webUrl: "https://www.digitaljournal.com/pr/edge-artificial-intelligence-ai-software-market-top-players-size-emerging-trends-share-growth-insights-and-forecasts-report-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-War-AFP-1K-01-1-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+
 secured: "mPu7JacZgEwPmcS9Q6+sSf8xIsC6+5wtiD2BSy9+9BAlmVqiGhbzXzmJnzkew5i2bsJrxlZ4SCi9tlfTfft1t9ZzYY9aeAy79GAkAUt6ZS5eQQ0n3iyy5E+zeg+aUvMV0ndOTiT9DgL+zx6X93nW6lTELaa4pyIUO7XIZU3cmfe+2QHH49tM/p6nC+1v7iz4XG1p8PFpsxEF0PwUYkmmUegkQv/GaPtaYPh+POhfPLlJN4qAN0A1Aj/myv7CHyyfSe0+8vmBbpYuyzxZ9BmbJykv+bqu1ixC8kk3k4q+lQeyR18jJZYJ1OqkL18r0XIBvZftYwVr4YrDmFrKh3zjalXbxa8TdOxhhYdh7Wz9pEg=;YzSm539JYpfhoduEzFq2tA=="
 ---
 

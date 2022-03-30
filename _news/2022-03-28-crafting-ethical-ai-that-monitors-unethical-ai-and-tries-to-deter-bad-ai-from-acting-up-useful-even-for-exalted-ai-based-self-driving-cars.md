@@ -64,20 +64,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Google developing AI smartphone healthcare tools"
-    excerpt: "Google Health introduced new research projects that would use artificial intelligence to turn smartphones into stethoscopes and other at-home AI disease screening tools, according to a March 24 blog post."
-    publishedDateTime: 2022-03-25T17:47:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/google-developing-ai-smartphone-healthcare-tools.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "XUe36aoyO0+Rn/mdY5vqqaTsS+BPfDj6WUrd6S9184JEQk3pOA+0Qbcjw8gbX2KFlSoHw3bcJ2Ad2pgJzt17w/UP+qzkyQiheN5sT1ap3gMBLaEGl3/15FvmuhbopECcSPKDmggKP83EbcBjud36sEdYPP8Tsp18U1fwmCsZt6bqoSvNU11oefXwhC1kOBg556OJvYl50NIG74KfAD1rzJDiUERXvCLu0+xcXjalLjqhbTNwljLXapR1pukzKv5a2Lq1di9JyeP/x/NL7HdlWI8TAzI9esqarnXaBTJ9SQWbaU4nkkPVMtcxqdjvO04Jv7Od1enY1QvPflTF049V2Rwr1sdNDyoYTH04y26azCgmD13bRIIxA7++CQhPFhAO0XmBW5EqhuT3gHLr4nKTCRjgm6hl+sfO4RFRL3N+wrX9GD40vImDZzns0RnRhEYvvCfvWpUdF3SR+cLXbUSxPKD4E89g8tM2Wd92hHQRZZJ4ID7cgAe+Ne0Yero/0b44z7PRew0i8D+wOc9DzCMXzw==;QjxwMHuIR2dNN1EYJE8TwA=="
 ---

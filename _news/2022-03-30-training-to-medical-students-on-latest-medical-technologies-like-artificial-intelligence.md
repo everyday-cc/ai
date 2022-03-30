@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/training-to-medical-students-on-lates
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence/"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "\"Global Recognition for Unique AI Human Technology\" DeepBrain AI participates 'NVIDIA GTC 2022', Presenting AI Human Technology and Research Outcome"
+    excerpt: "DeepBrain AI CTO Kyung-Soo Chae presents time-reducing, lip sync video synthesis technology. Participates in 'Digital Human and Interactive AI'"
+    publishedDateTime: 2022-03-30T03:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome-1031316927"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/1775564/image_5001494_28856558.jpg"
+        width: 400
+        height: 243
+        isCached: true
   - title: "How to Make the Most of Artificial Intelligence and Other Technologies: Advice From Experts"
     excerpt: "Technology is often presented as the solution to many problems for nonprofits — reducing staff burnout, better targeting of fundraising efforts, and improving budgeting, to name just a few. It can help with all those things,"
     publishedDateTime: 2022-03-28T15:15:00Z

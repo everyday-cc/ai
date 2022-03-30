@@ -41,6 +41,20 @@ related:
         width: 534
         height: 462
         isCached: true
+  - title: "\"Global Recognition for Unique AI Human Technology\" DeepBrain AI participates 'NVIDIA GTC 2022', Presenting AI Human Technology and Research Outcome"
+    excerpt: "DeepBrain AI CTO Kyung-Soo Chae presents time-reducing, lip sync video synthesis technology. Participates in 'Digital Human and Interactive AI'"
+    publishedDateTime: 2022-03-30T03:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome-1031316927"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/1775564/image_5001494_28856558.jpg"
+        width: 400
+        height: 243
+        isCached: true
 
 secured: "qLGtbFIp6PtPoIlQwTJ0o6T20/++dMt7zoGd6EBHd4ERzpNQksyW2TjJpcCs1CPpQJpT4AIKUDc/ueP0fiKzQYjgjz3Rokl62iN1Rvgk0awIWsE9HIZCErmn1PKth/t/qqqy1y/Rjwy65KDts9TGB2oAbq866M2expyj8oVHm/EBhkKmS247bn3dOE5KlKZVP2TdihhTwLcIEXAaVHTZBmsmxZA7fCL/knsjg8jvTWaGN1SCqRj0WQaPIXgTCCfdX7tLp36n6t5M1I1o39VPbQ8mxgxi5Mdfa6qiFvBYOJgDUjtxpWwRbeKlLms+oR/HJsz6Ep8AOszgiQ41K8aZPx0z0AkpG7O3D9TgP6752qOgUjzHRZyn3nWVtSFWJ/7TDzLobHfbgMoQcxXg2DUImy6vvHmb+iaS/QkCfEDZkSBtcCv9N33MAqFRfIAxMAf65+ZBj4vtX5pCcAB18B5ybGYzozgGp4rVyxhBG5TS1ugwbG/hMQjbz55l7T1yNv18nA6NA66gkwYqRVjQB97eJw==;YWpYtJYR3OAUlifMf1J19A=="
 ---

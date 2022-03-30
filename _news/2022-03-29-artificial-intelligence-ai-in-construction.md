@@ -7,7 +7,7 @@ originalUrl: "https://aecmag.com/ai/artificial-intelligence-ai-in-construction/"
 webUrl: "https://aecmag.com/ai/artificial-intelligence-ai-in-construction/"
 type: article
 quality: 60
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/02/OurCrowd-Global-Summit-2018.jpg"
         width: 1280
         height: 1040
+        isCached: true
+  - title: "Artificial Intelligence (AI) In Food And Beverages Market Competitive Research And Precise Outlook 2027"
+    excerpt: "Comserve / -- The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a rob"
+    publishedDateTime: 2022-03-30T11:40:00Z
+    webUrl: "https://menafn.com/1103933747/Artificial-Intelligence-AI-In-Food-And-Beverages-Market-Competitive-Research-And-Precise-Outlook-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?868122"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "P1KPC6mE7hUxK1iulsydUXAdj86oNNjaudDCGS2Ahu63BVc8QO74s86L8Jc26OglCnCz3CSfw6OEWBZRMg27dg3gw87M+AdYITCAedITk139C2qIanP8d1UosFAodK5RNAwrQoUen/Bf26VDt4L8pa8JC5DaD1lH0URyDMx54Hh7HOC7Fj4ty+h9wyrlGgG2mL5ZpMib5IAhEf7WY/q6dUO5xSNB+nnKU43DVH+J/iy/n5O/WtU4RdXqh4lUybfNKljdWxp8gVrqG5Bz5U+tT7/5UklGdJBBr4omSRrQtSj4Jxt3uxEot5OdGxeZ0XWFab0jwD9mau6RlHZu505uu2IX0latfwEOqKsuEFz7jpyb92Af8IWjISLg4bXA9qoLft/LFswTQUlRyil2R98plM5t0QGIFP2ODp/gMeE59ZMO4lFaE6kBNDxSNwJjFEiCfMIPmFB3jDVWNFgTvmsIIuVmc2qrthhWQmhZbYoMMwJSsdYlQQBEGmlLWQHtghJYrM5bsEDmWm78qo0ubFkk3g==;iMXuMs992zSh7tH7xJHgrA=="

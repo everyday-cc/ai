@@ -73,15 +73,6 @@ related:
         width: 780
         height: 520
         isCached: true
-  - title: "Does facial recognition tech in Ukraine’s war bring killer robots nearer?"
-    excerpt: "The US company Clearview AI has offered the Ukrainian military free use of its controversial facial recognition technology. Reuters reports that “the U.S. startup offered to uncover Russian assailants,"
-    publishedDateTime: 2022-03-25T18:48:00Z
-    webUrl: "https://www.opendemocracy.net/en/technology-and-democracy/facial-recognition-ukraine-war-killer-robot-autonomous-military-ai/"
-    type: article
-    provider:
-      name: openDemocracy
-      domain: opendemocracy.net
-    quality: 50
   - title: "The West and Russia Face Tough Choices in Ukraine"
     excerpt: "No ceasefire, other than simply one permitting Russia to replenish its spent and starved forces, is possible, unless its terms form the basis for terminating the war itself. Vladimir Putin, however, appears to be an immediate hurdle."
     publishedDateTime: 2022-03-29T13:05:00Z

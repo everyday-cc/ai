@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-machine-learning-
 webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028-2022-03-27"
 type: article
 quality: 59
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Mobile Speech Recognition Software Market 2022 2028 Research Study Provides Projections of COVID-19 Pandemic in its New Report"
+    excerpt: "Global Mobile Speech Recognition Software Market 2022 by Company, Regions, Type and Application, Forecast to 2028 report has been recently issued by MarketsandResearch.biz. The study features the upcoming opportunities that can be tapped to penetrate the market or enhance the revenue share of the existing business."
+    publishedDateTime: 2022-03-29T19:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-mobile-speech-recognition-software-market-2022-2028-research-study-provides-projections-of-covid-19-pandemic-in-its-new-report-2022-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -97,6 +111,20 @@ related:
     quality: 26
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/7db448fc881b6b5c26e8531765d0fd0eeb014838-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence in BFSI Market Global Research, Top Leading player, Emerging Trends, Region by Forecast to 2028"
+    excerpt: "A new market study on the Artificial Intelligence in BFSI market applies both primary and secondary research techniques to identify new opportunities for"
+    publishedDateTime: 2022-03-30T11:13:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-bfsi-market-global-research-top-leading-player-emerging-trends-region-by-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 15
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-War-AFP-1K-01-1-600x337.jpg"
         width: 600
         height: 337
         isCached: true
