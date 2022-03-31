@@ -39,6 +39,20 @@ related:
         width: 990
         height: 660
         isCached: true
+  - title: "Top Japanese innovation comes to the NEC – MACH 2022"
+    excerpt: "From a machining and turning perspective, visitors to NCMT’s dual stands will be able to see a raft of new technology from its principals Okuma and Makino."
+    publishedDateTime: 2022-03-28T07:21:00Z
+    webUrl: "https://www.pesmedia.com/ncmt-mach-2022-24032022"
+    type: article
+    provider:
+      name: pesmedia
+      domain: pesmedia.com
+    quality: 24
+    images:
+      - url: "https://pesmedia.com/uploads/pes/articles/2022/03/24/39457/16481180915336.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "9j2NVIoPo81xiVxOzgXtc6gDaYsBJgOAjQA+ravrYmml+geBY24IApurZgsE2/AiFiIf9n+KtxbCTFkAX8/zvTi4nnkdOs1nHprgLPI43vTPMTp0+NXiQR8VisQM65nREzOMBmPAF25efUlYQjKkReE0E3++ZKwU+H+/hiyZGFVNZH2CQHfXo9a6gyIDODQnxU5BtKyZ5GD1pzZeMvmHe3CbPsGgEWjSGKMFkwFIlisTP5gnpRuweVvNWxDd8OgJqLz05S2E53OC+ui1exP6HTQQ3mXurzJFIRTR0+qsaUZLNJrXLJI25SOA5FUP+pyluafkiAQ41wkY50yBfsoeSH1pzFvd/fLgakOiw8mhKEwZOLKajF3fQ1l8GUpbcWkCBOzMMV7et8zsLNi0733/xgFBlNg6c81gEH2eVSaF4yIMMEVDuCMfHph5iRvFFlE92sX8RgJTO/M6lKEr49bxAz7EcqIbfRROr1ipBR9kUNYHv9SUwERFKCiSB35Vou7Oa/1uQt6SOsOEpndmatpJGA==;AoDt3qANbx71l56BJ0ERGg=="
 ---

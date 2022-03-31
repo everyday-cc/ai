@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/30/reputation-launches-ai-platform-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/reputation-launches-ai-platform-to-provide-enterprises-with-competitive-intelligence/amp/"
 type: article
 quality: 80
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1776318/ISB_PredictExplore.jpg"
         width: 400
         height: 219
+        isCached: true
+  - title: "Full Sail University's Computer Science Bachelor of Science Degree Program Launches Its Artificial Intelligence Concentration"
+    excerpt: "Full Sail University is an award-winning higher education institution for those pursuing careers in entertainment media and emerging technologies. Today, the university is proud to announce that the Computer Science Bachelor of Science degree program has launched its Artificial Intelligence (AI) concentration."
+    publishedDateTime: 2022-03-31T13:10:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/full-sail-universitys-computer-science-bachelor-of-science-degree-program-launches-its-artificial-intelligence-concentration/article_36ce6f40-25e1-5e17-8752-09a21a96e89b.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 27
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
   - title: "Virtualitics AI Platform to Support Computational Biology Research on Long Covid Treatment Options"
     excerpt: "Virtualitics AI Platform to Support Computational Biology Research on Long Covid Treatment Options . Institute for Systems Biology to accelerate time to insig"

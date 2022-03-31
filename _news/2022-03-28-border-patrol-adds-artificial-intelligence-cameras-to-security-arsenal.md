@@ -9,8 +9,8 @@ ampWebUrl: "https://wreg.com/news/border-patrol-adds-artificial-intelligence-cam
 cdnAmpWebUrl: "https://wreg-com.cdn.ampproject.org/c/s/wreg.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: WREG
@@ -25,24 +25,6 @@ images:
     width: 896
     height: 472
     isCached: true
-
-related:
-  - title: "Border Patrol adds artificial intelligence cameras to security arsenal"
-    excerpt: "Border agents in the past five months have participated in 6,630 search and rescues of migrants along the Southwestern border. They’re hoping newly deployed technology will help them not only stop"
-    publishedDateTime: 2022-03-26T19:26:00Z
-    webUrl: "https://www.rochesterfirst.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/"
-    ampWebUrl: "https://www.rochesterfirst.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
-    cdnAmpWebUrl: "https://www-rochesterfirst-com.cdn.ampproject.org/c/s/www.rochesterfirst.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/"
-    type: article
-    provider:
-      name: WROC-TV
-      domain: rochesterfirst.com
-    quality: 74
-    images:
-      - url: "https://www.rochesterfirst.com/wp-content/uploads/sites/66/2022/03/CBP-IMAGE-ASTs.png?w=1280"
-        width: 896
-        height: 472
-        isCached: true
 
 secured: "tLFOABgSgDofNt4blzw+Sw5+aAm580YJ+YVhEgaNL1yOOLAHkCsSxzBaHEZyePircb55pqw6QrQvy4JCHNymtD3FWqfBsATKT12OiCRowNPvfS32vf8C1Anmkl/SGSGqwnkjzXZasVzpt/HdrMI7NzwYaVFjEneLv+bpKTl32CJLCOrsl2QKL634c7PurTkqbxecEEKjP5rBbw2MYdlVtjDuWX3iqBubVTlgdER4Qay5bqw8JbmTpD4GvkXM8eFwT3aKfPKOZbgPZr+vu6alBApB751usNW8IcYMQ1NWz7FlhoPoma7Qrp6YqIX+G14ttijnAZO7s1Tg4gaYAQJ7G8l4iIZ2Arn80flZ72CRT3OswoGoDmsUNaYep6fGdvLQXtJYXdCT5SASVbsfHvIM3t70Kr6ADjdXIWft84fIuRJURXg0aJ1OVbPq79tAeTOG0teDyqRLgr1sT5OBZp7l3OTxN1dPLNfNpxVbmycCtDblBEwqaThrP6Z8aOf7p+vB2sT2GTknadswnxFrxyMw/w==;rfn/WMywA3FqFn76eh9/3Q=="
 ---

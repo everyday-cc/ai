@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-emotion-
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-emotion-recognition-market-is-booming-worldwide-microsoft-softbank-realeyes"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Contact Center Intelligence Market to See Booming Growth | IBM, Google, Microsoft"
-    excerpt: "The latest study released on the Global Contact Center Intelligence Market by AMA Research evaluates market size, trend, and forecast to 2027. The Contact"
-    publishedDateTime: 2022-03-31T10:39:00Z
-    webUrl: "https://www.digitaljournal.com/pr/contact-center-intelligence-market-to-see-booming-growth-ibm-google-microsoft"
+  - title: "Microsoft DataNext: ‘Putting AI Innovation into Action’ ended on a successful note"
+    excerpt: "Microsoft DataNext summit saw participation from over 1000+ industry leaders across enterprises, small-medium businesses and startups."
+    publishedDateTime: 2022-03-31T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-datanext-putting-ai-innovation-into-action-ended-on-a-successful-note/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 36
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 48
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/Covid-Testing-AFP-1K-600x337.jpeg"
-        width: 600
-        height: 337
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Microsoft-DataNext-logo-33-2.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "DqJIRVvrngUs35AegEjT3AefyJfcibLPlt8II/Hx0HRC1yvBhJNAlZNwtKvFvytSgdBWGclnkq1AimNZ2UGIIgvVMR8VgRuk7Bbq559FFoVkerKINKKNcoeH6j1hszjGCZesisCSD6O33pJxtRiH2L/OFIvo0qmctfmoXzGkf0xOvWBX6JxL9pU6yBF0Cc37H+ZdajJyftmb1RyaNjSES1GI7s5z7kVjLRRWmOkC8oxdTWn/mR/+K+Q+80cZ8wTyQ9IJLIteMLj38jAXsInNYBL4CI9zcatPiklEArbU54SSNhjCKpqiVOCcPwDjEi9/Lgy7yKlMO2lajcvdyEpghtuC/mNvmU+2iUkbD64ZYIE=;N6Cu1zV5E4WMeerqiPVXGg=="

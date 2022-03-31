@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-03-30-south-wales-police-returns-to-use-of-controversial-facial-recognition-software.md",
-      "title": "South Wales Police returns to use of controversial facial recognition software",
-      "excerpt": "Without checks it could 'undermine a range of human rights, risk the fairness of trials and damage the rule of law' a new report has warned",
+      "path": "_news/2022-03-31-a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras.md",
+      "title": "A Berlin train station is to trial facial recognition technology in its security cameras",
+      "excerpt": "A train station in Berlin is to begin testing new levels of security through its surveillance cameras, by trialling the use of facial recognition technology. The city’s Sudkreuz station will use ...",
       "sourceUrl": null,
-      "webUrl": "https://www.walesonline.co.uk/news/politics/south-wales-police-returns-use-23533221",
-      "originalUrl": "https://www.walesonline.co.uk/news/politics/south-wales-police-returns-use-23533221",
+      "webUrl": "https://jerseyeveningpost.com/uncategorised/2022/03/31/a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras/",
+      "originalUrl": "https://jerseyeveningpost.com/uncategorised/2022/03/31/a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 102,
       "tags": null,
       "images": [
         {
-          "url": "https://i2-prod.walesonline.co.uk/incoming/article17554893.ece/ALTERNATES/s615/1_AWR_MAI_facialrecognitionprotest_120120jpeg3jpeg.jpg",
-          "width": 615,
-          "height": 409,
+          "url": "https://jerseyeveningpost.com/wp-content/uploads/2022/03/31145256/Img32956208.jpg",
+          "width": 800,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.walesonline.co.uk/news/politics/south-wales-police-returns-use-23533221.amp",
-      "cdnAmpWebUrl": "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/news/politics/south-wales-police-returns-use-23533221.amp",
-      "publishedDateTime": "2022-03-29T20:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T06:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wales Online",
-        "domain": "walesonline.co.uk",
+        "name": "Jersey Evening Post",
+        "domain": "jerseyeveningpost.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,7 +41,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "AI in Security"
       ]
     },
     {

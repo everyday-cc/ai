@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-03-18-combining-afm-and-deep-learning-to-improve-nanomanipulation.md",
-      "title": "Combining AFM and Deep Learning to Improve Nanomanipulation",
-      "excerpt": "Deep learning algorithms contribute to artificial intelligence (AI) – computer processes that do not need constant user input to yield results. They instruct computers to process data and learn from it (known as training the algorithm) to inform their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.azonano.com/article.aspx?ArticleID=6047",
-      "originalUrl": "https://www.azonano.com/article.aspx?ArticleID=6047",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1otjdv2bf0507.cloudfront.net/images/Article_Images/ImageForArticle_6047_16475098610109717.jpg",
-          "width": 1000,
-          "height": 568,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azonano.com/amp/article.aspx?ArticleID=6047",
-      "cdnAmpWebUrl": "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/article.aspx?ArticleID=6047",
-      "publishedDateTime": "2022-03-17T18:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZoNano",
-        "domain": "azonano.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-18-tempe-machine-learning-startup-sells-to-new-mexico-cybersecurity-firm.md",
       "title": "Tempe machine learning startup sells to New Mexico cybersecurity firm",
       "excerpt": "Cyr3con uses machine learning to analyze digital threats and risk. Aaron Sandeen, CEO of Cyber Security Works, told Business First that the deal closed in January before being announced on March 15. He declined to disclose financial details and said that Tempe,",
@@ -1288,6 +1245,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-13-google-acquires-neural-network-startup-to-improve-speech-and-image-recognition-software.md",
+      "title": "Google acquires neural network startup to improve speech and image recognition software",
+      "excerpt": "Recently, Krizhevsky and Sutskever, who will both be moving to Google, developed a system that dramatically improved the state of the art in object recognition. “This is a wonderful opportunity ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/general/google-speech-recognition-dnnresearch-373125/",
+      "originalUrl": "https://bgr.com/general/google-speech-recognition-dnnresearch-373125/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2012/07/google-sign-9.jpeg?quality=82&strip=all",
+          "width": 652,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/general/google-speech-recognition-dnnresearch-373125/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/general/google-speech-recognition-dnnresearch-373125/amp/",
+      "publishedDateTime": "2022-03-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

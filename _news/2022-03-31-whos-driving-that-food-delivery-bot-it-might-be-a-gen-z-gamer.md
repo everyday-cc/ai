@@ -27,6 +27,24 @@ images:
     height: 1188
     isCached: true
 
+related:
+  - title: "Who Drives the Food Delivery Bot When Something Goes Wrong?"
+    excerpt: "Many food delivery robots aren't autonomous in the purest sense and require a human superviser and driver. Delivery robot startups like Coco are benefiting from a relatively untapped workforce: Generation Z."
+    publishedDateTime: 2022-03-31T00:00:00Z
+    webUrl: "https://www.govtech.com/fs/who-drives-the-food-delivery-bot-when-something-goes-wrong"
+    ampWebUrl: "https://www.govtech.com/fs/who-drives-the-food-delivery-bot-when-something-goes-wrong?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/who-drives-the-food-delivery-bot-when-something-goes-wrong?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/1cf3225/2147483647/strip/true/crop/3000x1564+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd8%2F6a%2Fd246648649ae886e19e943134bb4%2Fbiz-cpt-delivery-robots-1-la.jpg"
+        width: 840
+        height: 438
+        isCached: true
+
 secured: "+pvCQIRGXlmZvC86z8jRTNhcrNb4isaciQODj71Io7ZaceCguXecc7q8c+tlKvVT7/keMQ0ziudSee26/HjrUBIEkKll11m5N8h1/hor3AHIaPXZvH/oUv1RX6QSes+V58lC2RSMroWL+gVP+Rpu9AvPY6aC+PVBL3dkNmKKwimkV0uY5r3keqwzWQOLyOpfMz8X/u2bJsXXQrQcjooznGzcTTFxwG2sLNovJv7ZQYWEMv4hfAWwu+QdshEwsohqn0tfhofawq/m7l2A0fsu3gouqiQHj8OCyN3QC5XFCave7p3ZTf5ZfHZ46EJDhJNr7H3wC9IUmGs914CzmgOqjtlhzp5aOQvrW0Mk5NWLHMYi15T7RPolpYOJM3hsPgRzyGpZKJr8UcPuhcU98mVubYEI3uNuYNF8Q0uAMPGhaILIwag74Tjc1pSNOFMHf98X3tZ0LOHAr+uzLPl9Df1kyFADrNhfmwt+J8EqoO14A/AjKLcFS3+i7Cm62OJU/+EWOYxsOZ8nTvFv7THluIDr0Q==;yLD7lyVOV/Y7wk8Pfetrig=="
 ---
 

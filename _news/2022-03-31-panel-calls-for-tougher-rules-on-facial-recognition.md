@@ -25,35 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "South Wales Police returns to use of controversial facial recognition software"
-    excerpt: "Without checks it could 'undermine a range of human rights, risk the fairness of trials and damage the rule of law' a new report has warned"
-    publishedDateTime: 2022-03-30T03:00:00Z
-    webUrl: "https://www.walesonline.co.uk/news/politics/south-wales-police-returns-use-23533221"
-    ampWebUrl: "https://www.walesonline.co.uk/news/politics/south-wales-police-returns-use-23533221.amp"
-    cdnAmpWebUrl: "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/news/politics/south-wales-police-returns-use-23533221.amp"
+  - title: "A Berlin train station is to trial facial recognition technology in its security cameras"
+    excerpt: "A train station in Berlin is to begin testing new levels of security through its surveillance cameras, by trialling the use of facial recognition technology. The city’s Sudkreuz station will use ..."
+    publishedDateTime: 2022-03-31T13:53:00Z
+    webUrl: "https://jerseyeveningpost.com/uncategorised/2022/03/31/a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras/"
     type: article
     provider:
-      name: Wales Online
-      domain: walesonline.co.uk
-    quality: 55
+      name: Jersey Evening Post
+      domain: jerseyeveningpost.com
+    quality: 62
     images:
-      - url: "https://i2-prod.walesonline.co.uk/incoming/article17554893.ece/ALTERNATES/s615/1_AWR_MAI_facialrecognitionprotest_120120jpeg3jpeg.jpg"
-        width: 615
-        height: 409
+      - url: "https://jerseyeveningpost.com/wp-content/uploads/2022/03/31145256/Img32956208.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Task force, commission want government intervention with AI; especially facial recognition"
-    excerpt: "Reports pushing recommendations for more-careful use of public algorithms continue to get more direct and succinct, especially about facial recognition."
-    publishedDateTime: 2022-03-29T18:07:00Z
-    webUrl: "https://www.biometricupdate.com/202203/task-force-commission-want-government-intervention-with-ai-especially-facial-recognition"
+  - title: "Facial recognition cameras to keep tabs on suspects in Kancheepuram"
+    excerpt: "Surveillance system will trigger an alert whenever suspects with criminal antecedents pass through dozens of sophisticated cameras, installed along the industrial belt of Oragadam in Kancheepuram district."
+    publishedDateTime: 2022-03-27T13:55:00Z
+    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/facial-recognition-cameras-to-keep-tabs-on-suspects-in-kancheepuram/article65264879.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/facial-recognition-cameras-to-keep-tabs-on-suspects-in-kancheepuram/article65264879.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/facial-recognition-cameras-to-keep-tabs-on-suspects-in-kancheepuram/article65264879.ece/amp/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 44
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://www.thehindu.com/incoming/f8g5hs/article65265020.ece/alternates/LANDSCAPE_615/8bc32f0d-62b9-4b10-9f2b-0f449d6045e2.jpg"
+        width: 615
+        height: 383
+        isCached: true
+  - title: "Facial Recognition Cameras To 'Keep An Eye' On Suspects In Kancheepuram"
+    excerpt: "The surveillance system will trigger an alert whenever suspects with criminal antecedents pass through dozens of sophisticated cameras, installed along the industrial belt of Oragadam in"
+    publishedDateTime: 2022-03-30T13:50:00Z
+    webUrl: "https://thelogicalindian.com/trending/facial-recognition-cameras-34740"
+    ampWebUrl: "https://thelogicalindian.com/amp/trending/facial-recognition-cameras-34740"
+    cdnAmpWebUrl: "https://thelogicalindian-com.cdn.ampproject.org/c/s/thelogicalindian.com/amp/trending/facial-recognition-cameras-34740"
+    type: article
+    provider:
+      name: The Logical Indian
+      domain: thelogicalindian.com
+    quality: 59
+    images:
+      - url: "https://thelogicalindian.com/h-upload/2022/03/30/214615-untitled-design-2022-03-30t162035427.jpg"
+        width: 1080
+        height: 1080
         isCached: true
   - title: "Panel calls for tougher rules on facial recognition use"
     excerpt: "A state commission is recommending strict new limits on the use of facial recognition technology by law enforcement officials and a requirement that judges issue probable cause warrants"
@@ -70,6 +86,6 @@ related:
         height: 315
         isCached: true
 
-secured: "1vQhTa4FpolSd2wWM+Y/ix0ZkaaV5I/2L8OKMMT/K0VGlrfgPwFjPIxSXb85RN9KKk7q1/pnnvhg4LSaP9qE1Cq2FHAUfbd/+BheoNUEmXPr5p11NdWMBcGKMH8aKF7b0ttZBPgpfAEyzEf9Vdqgo/qlm9lrWcx7gHrsDkrLP/+LOCeUgdAKvN3swlhinFGc5L1oq4H3H8CICNCL8REVXJo3naTUmus/1IxfFlAqtoXkAcGLuG/SbF58mr4sv506YGLHdVBczoXEJ6HxHOA8Wi0FyAYf4WH9t+3B9DQAQJA/1ZvpTeOCFqBNZ48bpjgKgi5aRp4FYUlcYIeDV72ds3LYSAoGO11uN4RbflipBUE=;gBsLNqCrbPEPxzJkz0YUKw=="
+secured: "MDLhGuXydg+mleI6jQz7M98OPK+yBQuB+uK3Cdpkv0yE2PobBLwp2K9Dlil7ITjaakwza44Le5SrpxcF+h7LTbtbh3g6woh5l5BP7uJ/uuf5NUw+3LdtVsEmHQTgROmX5mQ/fUlkQKrww1TEXxYiuhx+R057OKbS9N46n8kjrEnakLZM8fIjJJDCpVY6cbDcM9WCSRZ1OOCN3g6D9To0bStssw4EYxBffsOXqC7FxG+xfvrBqGHAkHh0ymNypOoGzbXjZPp0AT+YRRJCwwBxAEMbHo7nEypDx4B4i3y2OGNJisbQ5mYjGiN0mM+b9xlt/px11ctfmvK4N5tMdWAyHPP9X83dBqTATT1Akkw2Hb18dEdAxQvFbqJYQxXWXQRH+mSVdEI8OJ5c900fmjnGUuk2MgqbeWHgthJJWW8v1ZL1eHEv1KQ2ZaiR/yx7Y73eU0gu0P/EvuJxXPmM2XjpfALbhi51brEs5HC/mFZ4rlkGMKn88CkNZTmtqqr2aVOjGGW5Bpj+iqEFCoAfi+bk9A==;OCfgfxB3sn+a2ngiu46toA=="
 ---
 

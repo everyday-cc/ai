@@ -733,19 +733,19 @@
     {
       "path": "_news/2022-03-18-dataikus-no-code-cloud-stack-accelerator-is-now-available-on-aws.md",
       "title": "Dataiku's No-Code Cloud Stack Accelerator Is Now Available on AWS",
-      "excerpt": "Dataiku, the platform for Everyday AI, today unveiled the Dataiku cloud stack accelerator on Amazon Web Services (AWS) — a… | London | Technology | Technology |",
+      "excerpt": "Customers like the Seattle Seahawks are deploying Dataiku on AWS, building models, and creating insights in hours NEW YORK, March 17, 2022 /PRNewswire/ -- Dataiku, the platform for Everyday AI, today unveiled the Dataiku cloud stack accelerator on Amazon Web Services (AWS) — a new way of rapidly deploying and managing Dataiku's data,",
       "sourceUrl": null,
-      "webUrl": "https://bdaily.co.uk/articles/2022/03/18/dataikus-no-code-cloud-stack-accelerator-is-now-available-on-aws",
-      "originalUrl": "https://bdaily.co.uk/articles/2022/03/18/dataikus-no-code-cloud-stack-accelerator-is-now-available-on-aws",
+      "webUrl": "https://us.acrofan.com/detail.php?number=633255",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=633255",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bdaily.co.uk/images/uploads/iFJg6ldR3QdXTRrS0MWiI9D6hovcMvFg4IW9okwb.jpeg?w=1200&h=627&fm=jpg&fit=crop-50-50&s=3986c8ad3f1bbc4e1be11c102d82efb8",
-          "width": 1200,
-          "height": 627,
+          "url": "http://us.acrofan.com/img/noImg.jpg",
+          "width": 500,
+          "height": 324,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -755,11 +755,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T03:24:00-07:00",
+      "publishedDateTime": "2022-03-17T21:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bdaily Business Network",
-        "domain": "bdaily.co.uk",
+        "name": "아크로팬",
+        "domain": "acrofan.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -769,9 +769,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
+        "AWS AI",
+        "AI"
       ]
     },
     {

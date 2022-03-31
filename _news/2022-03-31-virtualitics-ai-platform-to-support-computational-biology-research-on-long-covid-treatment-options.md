@@ -54,6 +54,20 @@ related:
         width: 400
         height: 219
         isCached: true
+  - title: "Full Sail University's Computer Science Bachelor of Science Degree Program Launches Its Artificial Intelligence Concentration"
+    excerpt: "Full Sail University is an award-winning higher education institution for those pursuing careers in entertainment media and emerging technologies. Today, the university is proud to announce that the Computer Science Bachelor of Science degree program has launched its Artificial Intelligence (AI) concentration."
+    publishedDateTime: 2022-03-31T13:10:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/full-sail-universitys-computer-science-bachelor-of-science-degree-program-launches-its-artificial-intelligence-concentration/article_36ce6f40-25e1-5e17-8752-09a21a96e89b.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 27
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "khfNW1OtlTemgd3JkzzrSyDKWN/7MSuEiXXgJNvlEL6tVthbmLkWdsGcSe+m6itY7zs+Yto18f2iFWsYa//gL8lsmI+tIk+vTlpFO9ScHiLwZQP0H0Zr73sJHKGR7a+ufZ2E7RKcr3fKoEemxWYTeOLcRuc7J6Q5eBgTc5KEMdss0wU7cLEgdlpbfTlvn1lS0yn+QZEgrM6i/ZOh5bQic29tKbha+194Di/BblyqIaTI26ImAvUWpLr4YP9fG2NRjjGo5TNoYKwpDkfmANXjiF6TazT/hgWiwtYYa/DgiWGcyrJZVfK9Kk5xeiCv8Nko293e9f/PETeyLSrdw6sD1mM16iLlPNCvoqU6LeBg2WE=;AkdgUNr95O79mRMJJazbjA=="
 ---

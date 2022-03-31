@@ -2,21 +2,27 @@
 category: news
 title: "Renalytix Reports Financial Results for Second Quarter of Fiscal Year 2022"
 excerpt: "Renalytix plc (NASDAQ: RNLX) (LSE: RENX), an artificial intelligence-enabled in vitro diagnostics company, focused on optimizing clinical management of kidney disease to drive improved patient outcomes and advance value-based care,"
-publishedDateTime: 2022-03-31T06:00:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8513474/renalytix-reports-financial-results-for-second-quarter-of-fiscal-year-2022"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8513474/renalytix-reports-financial-results-for-second-quarter-of-fiscal-year-2022"
+publishedDateTime: 2022-03-31T11:03:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/covid-technology-science-health-business-b0f4f68c856590d203f963d2c72f6455"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/covid-technology-science-health-business-b0f4f68c856590d203f963d2c72f6455"
 type: article
-quality: 2
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Here's what to expect from Renalytix AI's earnings report"
@@ -38,6 +44,6 @@ related:
       domain: businessinsider.com
     quality: 47
 
-secured: "eM+B5st8zKDr8CLHBX/6eauJgkCtrLVOEY1fufKlX2lEIW3V3dfrq5gaj9e6xf/bOTdpj+ekXSuSLyXfY0Nl+1nDMlNaYEgQjuBmfK4fB3QMPjdXt/rK2p4EZnKBtPhKzQun5mLTgGxmifEiI46+GWkeJ7iNyCM9SShjLtzXFRGcOCAZ7xRd8yjquZgIca5qrFTZCESjPgi3QhjBoENck+zx+5ihCA6XTg+hlVIf8Ncb7zv9u5z6ebGspDDecDRPtaFJmkP7q1yVEI/68hOliP+ToBgGyQ1Xr7CjFFaMe6kg/KzFVOHcgyRWUEsNq07iPvi0olyhX6MLdR/LByBvpVA78/VZS/ZfKgcR6ejX9AE=;dEE7lu3p9rDs0o3VKcy4BQ=="
+secured: "SUsSb3+gbH8dzCDZlAuAo7l3LBBUhyZuiOJndge8vLEkdSO9B42ZxYczJEbRXFd0Ipu6zj+wtThMvKte6mycLdQCUvwTnXie7aeDjcR76GfOcdi0pEeO6LjPWT+UxjNFfLvovg6tutqGtPs+NYm4PoBY3cZzsEhH2lP+FVCXmeOYfT7AHpVe6R27i6v8/9BOH/3Aw/hNaKaYyFqt91BzbYMYAVxYYS4uc/qsxJ+jyDisIA5qcoxs1PEH5DPyVrddSrmYktaa3viQ20IQqP/RGIuXxs0rLxA2hL+8m2zvSDWy03OSs8L8j52qPKdM5P6aFQW2aBVZOY4Gny3M1IinSfxmwx0D5Z5pav0eZn6sBTc=;kvc9i5ijJHD0xx2Ih/TFtA=="
 ---
 
