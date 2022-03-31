@@ -2,6 +2,41 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-03-15-how-does-ai-fit-into-your-business.md",
+      "title": "How does AI fit into your business?",
+      "excerpt": "you benefit from this branch of AI. Researchers are currently focused on analysing emotions in language that will translate real-time conversations with the nuances of human speech. Augmented ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/O2rQGMAndZnqd1ea",
+      "originalUrl": "https://www.itweb.co.za/content/O2rQGMAndZnqd1ea",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/O2rQGMAndZnqd1ea",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/O2rQGMAndZnqd1ea",
+      "publishedDateTime": "2022-03-14T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-medical-imaging-powered-by-ibm.md",
       "title": "Medical Imaging, Powered by IBM",
       "excerpt": "IBM Watson Health and Merge Healthcare are bringing new insights, made possible through artificial intelligence and cognitive computing, to medical imaging. Radiologists are about to get some help with their imaging workload. IBM Watson Health and Merge ...",
@@ -994,40 +1029,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-the-funded-linkedin-co-founder-reid-hoffman-has-teamed-up-with-deepmind-vets-on-a-new-ai-startup.md",
-      "title": "The Funded: LinkedIn co-founder Reid Hoffman has teamed up with DeepMind vets on a new AI startup",
-      "excerpt": "Hoffman, who co-founded LinkedIn Corp., launched the new company with Mustafa Suleyman and Karen Simonyan, both veterans of DeepMind, Google LLC's artificial intelligence research unit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sanjose/news/2022/03/09/linkedin-deepmind-co-founders-launch-ai-startup.html",
-      "originalUrl": "https://www.bizjournals.com/sanjose/news/2022/03/09/linkedin-deepmind-co-founders-launch-ai-startup.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

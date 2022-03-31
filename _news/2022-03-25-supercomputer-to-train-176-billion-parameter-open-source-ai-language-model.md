@@ -3,8 +3,8 @@ category: news
 title: "Supercomputer to train 176-billion-parameter open-source AI language model"
 excerpt: "GTC BigScience – a team made up of roughly a thousand developers around the world – has started training its 176-billion-parameter open-source AI language model in a bid to advance research into natural language processing (NLP)."
 publishedDateTime: 2022-03-25T07:34:00Z
-originalUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=rt-9cs"
-webUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=rt-9cs"
+originalUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=keepreading-top"
+webUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=keepreading-top"
 ampWebUrl: "https://www.theregister.com/AMP/2022/03/25/supercomputer_language_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/25/supercomputer_language_ai/"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 429
     isCached: true
 
-secured: "71DOqLwg5DP6abSZKDwRPD+GRW7QBDKNnklnxrvHntffT1uhlhZKppdV1RcagTb6mnZiAGD7DltaLrbfA59uHPE1jOxOgFM1kG1mKwSGoioJPh6nn22IrEMEinXCbI+lGbs/OePndOr11rG1IJ/wjJh5JPAIBAMxAJfQKIAIU04rJan/Uu0KdN5vdY2OWNUYITlpoujvzBD6kSE7uYM3cyi3a07cYGUtUFfw74iPqJ5dMUwK4p7isJ9X5wzXAdB6Kd2snoDwSrxdJSnfGGswgpaE74mnyQ+CtWHRBP18GjZYBr+zBCdi78QSUW22hYspjTsviPUHHZNY4YeX/rpp3xjVRXJIZg9aH55I3eoEtUEs5dSjv2dIHVT31xuVrlJYxBBHBDxNfYKzy1N3/jz8N0mQC73VQVYPYuwqxYdkuztTptDDEDAIDOj2aK6u/zt9NRDQmG6hBYTYZRaaQw+QwYmCiKMYUycMtrLeYQzpSMSyNQoTiJx2xEFv6TV8LB8Uk7/zxmZN3OHxtPx1s/QU6w==;TNCEshZoP2Ccb3IZlBsl5Q=="
+secured: "udlRrPQVNnEjmF8TTlpoGvku6oZS0GoEFkz2RT1korV8SkPoyAQ+3DFxAw5Q0UytGK+o7+7xi+62wS4QhRapIF9e3A0ctKadxukHBb+Lq72FN+kbZzeQN+Iqe7hQnOejILqlFYmvcY9T9/flxUVphkAjqcTc7wczHGC/dxR5l8j5x/iiWUMwCjGVndidmXXT7OHBeEmoj1SFZJ1s/hWbeQ1d6nQXo1ZCK/8A5WhL0wtwP/q3PfajnspCpqEP+3gltLuWXSDps0eDRfgXqltuiCkTXqGYjfahswRUl1ByJd/a/ChmQob/AQC7trH8ePjRvOuogTgsPp03ZGGGWP7Oj6mo2gSAmvJS/GVXT5VdeXw=;aqRwN0zWPRHeoq7zdIIKQw=="
 ---
 

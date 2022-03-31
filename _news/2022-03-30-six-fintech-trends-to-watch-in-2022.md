@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/amp/"
 type: article
 quality: 74
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -106,22 +106,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/03/Effectiv-AI-Founders-Team.jpeg"
         width: 1766
         height: 1325
-        isCached: true
-  - title: "From being a niche previously, fintech has become the new normal"
-    excerpt: "Over the last five years, the growth of fintech startups and solutions has resulted in a fundamentally new and altered financial services sector. Customer expectations are changing, competition is fierce,"
-    publishedDateTime: 2022-03-26T12:30:00Z
-    webUrl: "https://www.freepressjournal.in/business/from-being-a-niche-previously-fintech-has-become-the-new-normal"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/from-being-a-niche-previously-fintech-has-become-the-new-normal"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/from-being-a-niche-previously-fintech-has-become-the-new-normal"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 44
-    images:
-      - url: "https://images.assettype.com/freepressjournal/2020-02/c8a4770b-9848-4959-9f62-09611ff9f33a/Fin_tech.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 672
         isCached: true
   - title: "Gaming fintech firm enables Bitcoin tips for streamers"
     excerpt: "Gaming fintech ZEBEDEE launched ZBD Streamer on Tuesday, enabling content creators to collect Bitcoin tips while live streaming on online platforms."

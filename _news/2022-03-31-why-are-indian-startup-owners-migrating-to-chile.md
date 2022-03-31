@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Why are Indian startup owners migrating to Chile?"
-excerpt: "Gerardo Alonso Velasco Baratawidjaja, president of the Chile-ASEAN Chamber of Commerce, told the Chilean media outlet Rest of World that in his country: “There is a stable and smaller market, prone to testing and creating pilots for products and services;"
+excerpt: "Lately, Indian startups have come to test the Chilean market. For example, data services firm Evalueserve to Toolyt, an AI-based personal assistance. In December 2021, the Indian startup DispatchTrack bought the Chilean Beetrack to grow its leadership in logistics technology in the country and in the Latin American region."
 publishedDateTime: 2022-03-31T03:40:00Z
-originalUrl: "https://www.timesunion.com/business/article/Why-are-Indian-startup-owners-migrating-to-Chile-17047415.php?IPID=Times-Union-jobs-entrepreneurship-river"
-webUrl: "https://www.timesunion.com/business/article/Why-are-Indian-startup-owners-migrating-to-Chile-17047415.php?IPID=Times-Union-jobs-entrepreneurship-river"
+originalUrl: "https://www.chron.com/business/article/Why-are-Indian-startup-owners-migrating-to-Chile-17047415.php"
+webUrl: "https://www.chron.com/business/article/Why-are-Indian-startup-owners-migrating-to-Chile-17047415.php"
 type: article
 quality: 22
 heat: 22
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 1333
     isCached: true
 
-secured: "QKbtosMo/P/tHqua83eGAhJ9fWIKFBrAXq5oQlhEKaquyf9RfOiNf64hJF9ezbrvzmBtIE5V1yHVGYxBjo/S9M7hwKCbAUMHcD6d3RCCg4Jj9h5zi1okAM6y8sLgLyyLwQSemBXjBrAgx9NteIeOqj4GpgTojlauM1w5tzqO8WIshJ8hKdRqBesjLvZPcBekMjepti6H/+1UeRyzMMTta7rpm90xuvy5JaaiHwX8LynqiWrIqmSV6eeP74D3RwiOC9Mog1ua7isXUUEcLJ/dQ1hH9X/5gEeEhzVbJZl4/9cU+7SnImwMrdyXwcgn3embFl80/zP1HUlLlzFZCobj1uun6HrPTBdi1WzffVfyW2A=;QmDNBFbPF5BGqfzA13y6xA=="
+secured: "C3GBuAhW33qfiwHZDbNRHZSpH7w9AFRV29NwZVMJgS0eyG4TGHbWJcQxur+XNRIoC1MnUMpO5Nod/XIc8DM1+7UaDuuRNFPQsznyTB6D8yb5aIA102Yx9d3tpABmQyc1e0JL/OHr2C4J4WwGBMR6Qqz3xBIg+jMB9jD3BAbzLjQJbHPD/oOK9mkBHTKTasj9jaVjccNvxXvkS8I+8j+77+JsaB/FsUEbgDevYlLvP8lmbuBVuJ4/fe8JrZkZU/V4H8LrIKhn2OiLvcY92Y2bEtS0w7cFxed+ipJGaLW4NohzaxRXWu5KjO0zylNQYdrLyGXDFFxGIMWdXuqLeLRKtersDK/jziJ23zak8K/MX8A=;2OqmLcF7AD+GB8EERXcXTQ=="
 ---
 

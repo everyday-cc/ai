@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Ex-Google AI skeptic Timnit Gebru starts anew"
-    excerpt: "When she co-led Google's Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry's approach to artificial intelligence."
-    publishedDateTime: 2022-03-26T11:55:00Z
-    webUrl: "https://techxplore.com/news/2022-03-ex-google-ai-skeptic-timnit-gebru.html"
-    ampWebUrl: "https://techxplore.com/news/2022-03-ex-google-ai-skeptic-timnit-gebru.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ex-google-ai-skeptic-timnit-gebru.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ex-google-ai-skeptic-t.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "Insider Q&A: Ex-Google AI skeptic Timnit Gebru starts anew"
     excerpt: "When she co-led Google’s Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry’s approach to artificial intelligence."
     publishedDateTime: 2022-03-30T15:40:00Z

@@ -77,6 +77,20 @@ related:
         width: 1648
         height: 927
         isCached: true
+  - title: "Intel Arc GPU specs, release date, features and more"
+    excerpt: "Like the A350M, this GPU has 1,150MHz graphics clock and 4GB of VRAM ... These GPUs also support Intel's XeSS AI-powered supersampling tech, which taps into the power of special Matrix Extensions (XMX) AI engines in the Arc GPUs to algorithmically improve ..."
+    publishedDateTime: 2022-03-31T04:17:00Z
+    webUrl: "https://www.tomsguide.com/uk/news/intel-arc-gpu-specs-release-date-features-and-more"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/VDHdG2hYWc7mJSeegAXAEb-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Intel shares first look at Arc A-series desktop GPU"
     excerpt: "After a delay into Q2 2022, INtel has finally shared a first look at its upcoming line of desktop GPUs with a peek at a limited edition card."
     publishedDateTime: 2022-03-30T17:30:00Z
