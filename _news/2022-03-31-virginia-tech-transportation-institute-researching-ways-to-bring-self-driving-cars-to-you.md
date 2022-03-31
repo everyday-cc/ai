@@ -59,22 +59,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Mercedes to accept legal responsibility for accidents involving self-driving cars"
-    excerpt: "Mercedes has announced that it will take legal responsibility for any crashes that occur while the self-driving system on any of its cars is engaged."
-    publishedDateTime: 2022-03-28T17:55:00Z
-    webUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/"
-    ampWebUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Sunday Times Driving
-      domain: driving.co.uk
-    quality: 39
-    images:
-      - url: "https://www.driving.co.uk/wp-content/uploads/sites/5/2021/09/SAE-levels-of-automation.jpeg?w=1000"
-        width: 1000
-        height: 680
-        isCached: true
   - title: "Apple ups driver count for self-driving car tests, signaling increase in program resources"
     excerpt: "Apple is continuing to slowly expand its autonomous vehicle testing program in California as it has 10 new drivers registered to its crew."
     publishedDateTime: 2022-03-30T16:07:00Z

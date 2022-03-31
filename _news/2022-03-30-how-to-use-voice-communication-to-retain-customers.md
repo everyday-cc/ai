@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26364476"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26364476"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,33 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "How 8x8 uses conversational AI to improve customer, employee dialogues"
-    excerpt: "New contact center tools analyze conversations and extract insights from dialogues to understand the needs of customers."
-    publishedDateTime: 2022-03-31T03:13:00Z
-    webUrl: "https://www.zdnet.com/article/how-8x8-uses-conversational-ai-to-improve-customer-employee-dialogues/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/beb34b0aa6c0d38c595e934d50af9f0cc501598b/2018/06/14/1a189bbe-6536-4124-bdf0-c88e751581ca/8x8-picture.jpg?width=770&height=578&fit=crop&auto=webp"
-        width: 770
-        height: 578
-        isCached: true
-  - title: "Why does conversational AI matter in the metaverse?"
-    excerpt: "NVIDIA said that Riva 2.0 has been integrated into TAO, a low code product for deployment and customisation of speech applications."
-    publishedDateTime: 2022-03-30T05:48:00Z
-    webUrl: "https://analyticsindiamag.com/why-does-conversational-ai-matter-in-the-metaverse/"
+  - title: "Intuit’s Radhika Kannan on how the company is leveraging AI to enhance customer experience"
+    excerpt: "As a global technology platform company, Intuit helps customers and communities overcome their most important financial challenges."
+    publishedDateTime: 2022-03-30T06:35:00Z
+    webUrl: "https://analyticsindiamag.com/intuits-radhika-kannan-on-how-the-company-is-leveraging-ai-to-enhance-customer-experience/"
     type: article
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 41
+    quality: 29
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/AIM-illustrations.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/intuit.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "Df/LjMUWRoqEBE4UgNb/dY9YfnZTizs5ZGVQFPta+dPVyYovI596VQSgUAM9HeWefiH1xi3yptD6h5SGD0LTnnxAJEolloSi2VFNcsPi+8h8V1+0k5iJg07HmcrW8hbGQxBfTWAEJE2YVtXGZWKAo1QFe1eduW36+yCCZjgm4+rjjtY5Ye+xrHKubkcxHnp3OekUWXycy5kyjyt0ZEVR3aUSrpiIktYuY2HqZo6W61ahoemDrHlQ2qU9iligEqqa0bvqx6SkpkFq7LCOoQUcQydRhzDzHIW4CDkjYqWQ7ufuzKNKeR20QPiIpuvVkxw4gYRjGuhzarxJknlm36P/75KudvhWSWRWMVByTtXXoBM=;FJRiz+XiinCpQFkrKbfRcg=="

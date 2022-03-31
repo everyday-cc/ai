@@ -30,51 +30,49 @@ images:
     isCached: true
 
 related:
-  - title: "How to avoid buying AI-based marketing tools that are biased"
-    excerpt: "If your marketing team is looking to buy an off-the-shelf AI-powered marketing product, ask the vendor these 5 questions first."
-    publishedDateTime: 2022-03-26T21:10:00Z
-    webUrl: "https://venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-marketing-tools-that-are-biased/"
-    ampWebUrl: "https://venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-marketing-tools-that-are-biased/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-marketing-tools-that-are-biased/amp/"
+  - title: "Why AI democratization will bring more power to the enterprise"
+    excerpt: "Using techniques like natural language processing (NLP) and neural networking, AI will very likely bring an end to the graphical user and even command line interfaces, which require a fair amount ..."
+    publishedDateTime: 2022-03-28T13:32:00Z
+    webUrl: "https://venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/"
+    ampWebUrl: "https://venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/05/mobile-devices-emitting-data-in-a-crowd-of-people-picture-id522636128-1.jpg?w=1200&strip=all"
-        width: 1024
-        height: 768
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/ai_democratization.jpg?fit=800%2C534&strip=all"
+        width: 800
+        height: 534
         isCached: true
-  - title: "Crafting Ethical AI That Monitors Unethical AI And Tries To Deter Bad AI From Acting Up, Useful Even For Exalted AI-Based Self-Driving Cars"
-    excerpt: "Let's use Ethical AI to oversee unethical AI, though this can be tricky and care is needed, which is illustrated via examples in the advent of AI-based self-driving cars."
-    publishedDateTime: 2022-03-28T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/03/28/crafting-ethical-ai-that-monitors-unethical-ai-and-tries-to-deter-bad-ai-from-acting-up-useful-even-for-exalted-ai-based-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/03/28/crafting-ethical-ai-that-monitors-unethical-ai-and-tries-to-deter-bad-ai-from-acting-up-useful-even-for-exalted-ai-based-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/28/crafting-ethical-ai-that-monitors-unethical-ai-and-tries-to-deter-bad-ai-from-acting-up-useful-even-for-exalted-ai-based-self-driving-cars/amp/"
+  - title: "OmniML exits stealth with $10M to bring more powerful AI to the edge"
+    excerpt: "A startup called OmniML stepped out of the shadows today, armed with $10 million in seed funding to pursue its mission of accelerating artificial intelligence on low-powered devices at the network edge."
+    publishedDateTime: 2022-03-29T16:34:00Z
+    webUrl: "https://siliconangle.com/2022/03/29/omniml-exists-stealth-10m-bring-powerful-ai-edge/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/623126ba2e129e288514bf95/0x0.jpg?format=jpg&crop=2204,1652,x252,y0,safe&width=1200"
-        width: 1200
-        height: 899
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/cctv-security-technology-with-lock-icon-digital-remix.jpg"
+        width: 5000
+        height: 3333
         isCached: true
-  - title: "Scaling up plant-based products with artificial intelligence"
-    excerpt: "The Kraft Heinz Company and food tech start-up TheNotCompany, Inc. announced a joint venture designed to reimagine global food production and advance toward a more sustainable future."
-    publishedDateTime: 2022-03-30T19:07:00Z
-    webUrl: "https://www.foodengineeringmag.com/articles/100171-scaling-up-plant-based-proteins-with-artificial-intelligence"
+  - title: "Ulta Beauty & Haut.AI partner to bring new era of beauty and healthcare with AI-powered hyper-personalization"
+    excerpt: "Haut.AI, a leading research and development company specializing in next-generation artificial intelligence for skincare and longevity, announced a strategic partnership with Ulta Beauty, the largest beauty retailer in the United States."
+    publishedDateTime: 2022-03-29T14:14:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/947752"
     type: article
     provider:
-      name: Food Engineering
-      domain: foodengineeringmag.com
-    quality: 37
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 35
     images:
-      - url: "https://www.foodengineeringmag.com/ext/resources/eNews/2022/FE_Online-03-22-Heinz-theNOTCompany.jpg?height=635&t=1648667790&width=1200"
-        width: 900
-        height: 550
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ff8d058f-1d38-4160-b965-a43684191c1e/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
         isCached: true
 
 secured: "GzUO6ENBcu25ummyF+3x3j7LNNquwpSEx0P5l4CpNxL9lssBnww1YnZOUlYVVW/1lOfKJxAFRNlTB0hOLvwIrYgb/AETP+GCtVhe65sXEAxYOwao+yAtqhzFx10bNGZrdFSZUFTAWWP/RIZp4Lf6C3hqAvqcarssICAzTLYkC3oVzIck7mxqq/kbJjBh1HKLdzc8GeoZmbjlLhYsFPXBA8u8eKEl84Dz4Io1ZaFPKjNaNoxFUsXlkF4y0ux8ceI0yGJOJmM7kco9ieYDoy2yEahYGYibLiUpEYfY17UtWSKZaTo5mJ/UtJfhV9ucVLHoQtR0oq1nhvyeo6c4+FaGdfUQ3mMtV2k25qO2bAs6PN8=;A9tR7ZNfVv+l2c2pXa9n4w=="

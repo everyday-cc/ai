@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Ecopetrol, Accenture and AWS Work to Help Companies Advance Journey to Water Neutrality Through First-of-its-Kind Open Platform"
-excerpt: "By combining data from previously disparate sources across Ecopetrol’s operations, and using AWS cloud-based machine learning and artificial intelligence services, this technology will enable ..."
+excerpt: "Accenture (NYSE: ACN) and Amazon Web Services, Inc. (AWS) announced a first-of-its-kind solution for water intelligence and management to help advance sustainability and operational efficiencies for energy companies."
 publishedDateTime: 2022-03-14T11:59:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20220314005250/ecopetrol-accenture-and-aws-work-to-help-companies-advance-journey-to-water-neutrality-through-first-of-its-kind-open-platform"
-webUrl: "https://www.morningstar.com/news/business-wire/20220314005250/ecopetrol-accenture-and-aws-work-to-help-companies-advance-journey-to-water-neutrality-through-first-of-its-kind-open-platform"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-ecopetrol-sa-water-management-sustainable-development-6e0f744f42024040b3f6fbdd52a7f34d"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-ecopetrol-sa-water-management-sustainable-development-6e0f744f42024040b3f6fbdd52a7f34d"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "j72NlLfj94N9s1n6cjl5yN52t2cWTElWp4qXWzdGSvS8NZqbMQgXsq9rST+5Gf2v4gvQbvK+t/i0w6IcmWnMUcdEqN4yybTmeazgj+5mR9Y+9fxW94rLBDJhGQ6EGf8nX7hsvRK924oAYRujDXvDxS0BHbk7jmQ8bCkgc3lH4zmGA3Dh8XU7aYHnGjvT3bcbbYIO3F+V0XkXsLfIoCpTN8d4/IiBtBDcfjz1CC/TRsWaBK3eFR8Q7Z3PFwSdqkxq/Uh1RYPam5Tu78rDsQbpdsb3DWoem2rrh6idqpa43N0FCbRrbvOGPNf9d0ibqL1IT7hOLnAh+zlodcp1Ou5XdeXnOkArwlAZDPAnhjf8ZKc=;SOI96W/ZJ8DhVoDtQXGJbg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "c+vx0F3sENXw5+R5JX8/xqJiJTcsnlNS7yhAi6w4unjyzskNDFmT+4EoydjlXa/UzvEc+EAXQ6AwPyS47Rk2UKyDo1SErn1/N/3VDsX/3rpJfYue+00L7vRPgENsJCBQWo6rdPCgGBlzlzQ6j7l4h0NkdsyPzOQh9Y7BRHmlIEz2vGqYfuYvcw1UdXXl2QO/tEotx4EY9wk6eW1XdrDAqgqI4qTzbqyFVb+w3WwaQvHYSw12siEoh2wV+jYWX+nVfK3ac3FoiIPQtGlryqg2Kl3XiickkoPw6efr/9Yx61tyJQ3N2yyDBVi4r4yfYgxKuAOCpjccHAry4gH2ARy+0ml10Y3pydIbkOhvDnCK+4U=;1kGmb3uvip0lUWL/jF5FWQ=="
 ---
 

@@ -25,103 +25,93 @@ images:
     isCached: true
 
 related:
-  - title: "Global Machine Learning Courses Market 2022 with Covid-19 Impact Analysis and Forecast by 2028"
-    excerpt: "MarketsandResearch.biz has presented a new market study on Global Machine Learning Courses Market 2022 by Company, Regions, Type and Application, Forecast to 2028 which delivers an executive-level market analysis that will help clients to build strategies to expand their market operations."
-    publishedDateTime: 2022-03-27T20:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028-2022-03-27"
+  - title: "Conversational data platform taps AI for sentiment analysis"
+    excerpt: "Arena's no-code communication platform uses engagement data gained from conversations and combines it with artificial intelligence (AI) to better understand who might want to buy what among its customers,"
+    publishedDateTime: 2022-03-31T14:24:00Z
+    webUrl: "https://venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/"
+    ampWebUrl: "https://venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/10/youappi-App-Re-Engagement-Image-for-VB.jpg?w=1200&strip=all"
+        width: 900
+        height: 599
+        isCached: true
+  - title: "How 8x8 uses conversational AI to improve customer, employee dialogues"
+    excerpt: "New contact center tools analyze conversations and extract insights from dialogues to understand the needs of customers."
+    publishedDateTime: 2022-03-31T03:13:00Z
+    webUrl: "https://www.zdnet.com/article/how-8x8-uses-conversational-ai-to-improve-customer-employee-dialogues/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/beb34b0aa6c0d38c595e934d50af9f0cc501598b/2018/06/14/1a189bbe-6536-4124-bdf0-c88e751581ca/8x8-picture.jpg?width=770&height=578&fit=crop&auto=webp"
+        width: 770
+        height: 578
+        isCached: true
+  - title: "Revving Up Relational Databases For Scorching Native AI Performance"
+    excerpt: "There may not be as much structured data in the world as there is unstructured data, but one could easily argue that the structured data – mostly"
+    publishedDateTime: 2022-03-30T16:07:00Z
+    webUrl: "https://www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/"
+    ampWebUrl: "https://www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 57
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/heatwave.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Why does conversational AI matter in the metaverse?"
+    excerpt: "NVIDIA said that Riva 2.0 has been integrated into TAO, a low code product for deployment and customisation of speech applications."
+    publishedDateTime: 2022-03-30T05:48:00Z
+    webUrl: "https://analyticsindiamag.com/why-does-conversational-ai-matter-in-the-metaverse/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/AIM-illustrations.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Syniverse and Kore.ai Form Partnership to Offer CPaaS Professional Services for Enterprises"
+    excerpt: "Syniverse®, “the world’s most connected company” ®, today said it has formed a global partnership with Kore.ai to complement its Communications Platform-as-a-Service (CPaaS) strategy by providing conversational artificial intelligence (AI) and professional services for Forbes Global 2000 enterprises."
+    publishedDateTime: 2022-03-30T12:06:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/syniverse-and-kore-ai-form-partnership-to-offer-cpaas-professional-services-for-enterprises/article_10fb2a87-6f48-58f9-95d6-287fa3fb6769.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 27
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/9/32/93247ee6-1253-51c4-be5c-f942f4adaf40/62444a566e2f8.image.jpg?crop=1460%2C767%2C0%2C326&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Mobile Speech Recognition Software Market 2022 2028 Research Study Provides Projections of COVID-19 Pandemic in its New Report"
-    excerpt: "Global Mobile Speech Recognition Software Market 2022 by Company, Regions, Type and Application, Forecast to 2028 report has been recently issued by MarketsandResearch.biz. The study features the upcoming opportunities that can be tapped to penetrate the market or enhance the revenue share of the existing business."
-    publishedDateTime: 2022-03-29T19:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-mobile-speech-recognition-software-market-2022-2028-research-study-provides-projections-of-covid-19-pandemic-in-its-new-report-2022-03-29"
+  - title: "Aventyn® Enters the Health Metaverse With 8chili HintVR™ Virtual Reality Platform for Innovations in Care Coordination"
+    excerpt: "Artificial Intelligence Virtual Reality platforms combined with the power of 3D content and digital health applications enable virtual training, patient engagement, education and health coachingCARLSBAD,"
+    publishedDateTime: 2022-03-29T04:32:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=638190"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Molecular Robots Market By Size, Share, Growth, Dynamic Analysis, And Forecast To 2030"
-    excerpt: "Comserve / -- The global molecular robots market is anticipated to garner a substantial CAGR over the forecast per"
-    publishedDateTime: 2022-03-28T17:08:00Z
-    webUrl: "https://menafn.com/1103925686/Molecular-Robots-Market-By-Size-Share-Growth-Dynamic-Analysis-And-Forecast-To-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 31
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?369614"
-        width: 429
-        height: 249
-        isCached: true
-  - title: "Facial Recognition Market 2022 Outlook, Current and Future Industry Landscape Analysis 2032"
-    excerpt: "According to a recent study done by FMI, the  Facial Recognition Market  is expected to reach US$ 22.5 billion by 2032, up from US$ 5.2 billion in 2022, expanding at a high CAGR of 15.7%. This study explains that increase in government investments in emerging technologies of CCTV cameras in most public places to minimize criminal activities and terrorist attacks"
-    publishedDateTime: 2022-03-30T07:25:00Z
-    webUrl: "https://www.fmiblog.com/2022/03/30/facial-recognition-market-2022-outlook-current-and-future-industry-landscape-analysis-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 29
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2022/03/FMI-4.jpg"
-        width: 1008
-        height: 504
-        isCached: true
-  - title: "Cognitive Services Market Size and Analysis, Trends, Recent Developments, and Forecast Till 2028"
-    excerpt: "Elevating demand for APIs to develop smarter applications, the increasing use of the service in the functioning of different industries are some of the factors boosting the cognitive services market."
-    publishedDateTime: 2022-03-28T12:30:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cognitive-services-market-size-and-analysis-trends-recent-developments-and-forecast-till-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 26
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/7db448fc881b6b5c26e8531765d0fd0eeb014838-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Artificial Intelligence in BFSI Market Global Research, Top Leading player, Emerging Trends, Region by Forecast to 2028"
-    excerpt: "A new market study on the Artificial Intelligence in BFSI market applies both primary and secondary research techniques to identify new opportunities for"
-    publishedDateTime: 2022-03-30T11:13:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-bfsi-market-global-research-top-leading-player-emerging-trends-region-by-forecast-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 17
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-War-AFP-1K-01-1-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Machine Learning Market Growth Analysis, Segmentation, Size, Share, Trend, Future Demand and Leading Players Updates by Forecast to 2028"
-    excerpt: "Key Companies Profiled are Hewlett Packard Enterprise Development LP, SAS Institute, Inc., Amazon Web Services, Inc., SAP SE, Baidu ... increasing popularity of self-driving cars from the ..."
-    publishedDateTime: 2022-03-29T07:35:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-market-growth-analysis-segmentation-size-share-trend-future-demand-and-leading-players-updates-by-forecast-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 8
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/5993b720d9ef7071b8911094c233c01fc025ee40-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "DWdtvlHxFSncWYU8lzmWOMi+/E7NQzrkgcymAhZvrKF/2AAmt+DPLwKln+oJ9+CNrf6iQcKqXxGBI6dc9O99XYWP1YQNo+xEqzKvxCdZysRTdK0SN4wi70tibUfyQ9Uw4H553lhcrTG8ziB1uFfty+AMT4PeuEzR4MjpYw6QDmtsCEYkp21nBxMKQk2D/lsUlz2COmd1E0LDIlSUHsUzfyEYKlUwESdUJW6vTNg4V1muVqrqo4Ya5PZQu+36zr3FKgmsYTHW9xHO1rIXRXbgRKZLDEV+p16+msrNUKDcCM5ms5xVCaV9JTlnfC2NDmdK+XTxMC9YtjqxOQT4CyWhJvBEzGaK2N1vsYDZdblZrVc=;/5NaepCLlxglXtvARosnfQ=="

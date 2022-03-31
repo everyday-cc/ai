@@ -55,6 +55,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "M&A wrap: ECPR founder sells firm to new CEO; SparkCognition adds 'visual AI tech'"
+    excerpt: "\"I could not be happier for the opportunity to sell this firm to her because I am confident that she will preserve the legacy of the business while taking it to new heights,\" PR maven Elizabeth Christian,"
+    publishedDateTime: 2022-03-31T15:00:00Z
+    webUrl: "https://www.bizjournals.com/austin/news/2022/03/31/m-a-wrap-longtime-ecpr-exec-buys-austin.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 11
 
 secured: "n51S78z1Mmk4JM8F/5lLK2jzFKCMpZPqVwRh7qY6qK3m3GB3VkB0KtEgRK51PlVMBcR7BMx2C83ZcRsHTuuL03PKl/bUwgHIRMxuBBl4w+uOJ0W9t7EKPBjBrHYUJjXCf2dIvK4wTLvmjxps7wG3EbFl9ggmPbfd+TxO8hcDBDxRCLWQBZxGY8iyuvjAw28nBEWOG+v/P8WMzH/9VQbeOczcvsX9hwT1VX562U4JwK8qYhuu8o1ks03ucgh+kim/EP69euntG2/d1C1LE6lVSBayzoXcFoWiqwArM7uBVJezq+Cxcx/IuZ72ruINeIK714dSH7vqibPL7XvEnQKAt+2f4GLWKj5DxWQJA0FXYoI=;vfzjEdMV4o2psdoG70COnA=="
 ---

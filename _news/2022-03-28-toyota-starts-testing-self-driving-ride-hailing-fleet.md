@@ -9,7 +9,7 @@ ampWebUrl: "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-f
 cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "http://picolio.auto123.com/auto123-media/articles/2022/3/69082/toyota-aurora-1fr.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Mercedes to accept legal responsibility for accidents involving self-driving cars"
-    excerpt: "Mercedes has announced that it will take legal responsibility for any crashes that occur while the self-driving system on any of its cars is engaged."
-    publishedDateTime: 2022-03-28T17:55:00Z
-    webUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/"
-    ampWebUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Sunday Times Driving
-      domain: driving.co.uk
-    quality: 39
-    images:
-      - url: "https://www.driving.co.uk/wp-content/uploads/sites/5/2021/09/SAE-levels-of-automation.jpeg?w=1000"
-        width: 1000
-        height: 680
         isCached: true
   - title: "Virginia Tech Transportation Institute researching ways to bring self-driving cars to you"
     excerpt: "Researchers in Blacksburg are leading cutting edge research to help self-driving come to a city near you. BLACKSBURG, Va. – Researchers in Blacksburg are leading cutting-edge research to help self-driving come to a city near you. Manufacturers are ..."

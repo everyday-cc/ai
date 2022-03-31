@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/amp/"
 type: article
 quality: 82
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/06ejXjgqVaRZFxsW2g2uIL6/hero-image.fill.size_1200x675.v1648590637.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Revving Up Relational Databases For Scorching Native AI Performance"
-    excerpt: "There may not be as much structured data in the world as there is unstructured data, but one could easily argue that the structured data – mostly"
-    publishedDateTime: 2022-03-30T16:07:00Z
-    webUrl: "https://www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/"
-    ampWebUrl: "https://www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 57
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/heatwave.jpg"
-        width: 1024
-        height: 768
         isCached: true
   - title: "Nearly 80 Percent of Financial Firms Use AI to Improve Services, Reduce Fraud"
     excerpt: "NVIDIA’s “State of AI in Financial Services” survey details the growth of AI adoption in capital markets, retail banking and investment firms. From the largest firms trading on Wall Street to banks providing customers with fraud protection to fintechs recommending best-fit products to consumers,"

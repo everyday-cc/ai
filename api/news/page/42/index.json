@@ -2,6 +2,57 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-02-21-y-combinator-startup-nanonets-uses-ai-to-extract-data-from-documents-check-out-the-17-slide-pitch-deck-it-used-to-raise-10-million.md",
+      "title": "Y Combinator startup Nanonets uses AI to extract data from documents. Check out the 17-slide pitch deck it used to raise $10 million.",
+      "excerpt": "Nanonets' software uses machine learning to make it easier for enterprises to extract data from documents, such as scanned invoices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-startup-nanonets-raises-10m-pitch-deck-2022-2",
+      "originalUrl": "https://www.businessinsider.com/ai-startup-nanonets-raises-10m-pitch-deck-2022-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/620ba2d916a6300018c90e1c?width=1200&format=jpeg",
+          "width": 971,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-21T00:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-21-cerence-expands-cloud-capabilities-for-korean-drivers-through-interoperability-with-kts-ai-assistant-giga-genie.md",
       "title": "Cerence Expands Cloud Capabilities for Korean Drivers through Interoperability with KT's AI Assistant, GiGA Genie",
       "excerpt": "CloseCurlyDoubleQuote; Cerence Cognitive Arbitrator makes it fast and easy for automakers to build in-car voice systems that deliver co-existence between the wide variety of virtual assistants, third-party services, and content – including KT&CloseCurlyQ ...",
@@ -1095,48 +1146,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-02-19-study-says-companies-will-increase-spending-on-ai-solutions-by-196-this-year.md",
-      "title": "Study says companies will increase spending on AI solutions by 19.6% this year",
-      "excerpt": "Advancements in language, voice and vision technologies, and multi-modal AI solutions are revolutionizing human efficiencies,” says Ritu Jyoti, group vice president, Worldwide Artificial Intelligence (AI) and Automation Research at IDC. “Overall ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cxotoday.com/ai/companies-to-increase-spends-on-ai-solutions-this-year-says-idc/",
-      "originalUrl": "https://www.mactech.com/2022/02/19/study-says-companies-will-increase-spending-on-ai-solutions-by-19-6-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cxotoday.com/ashojoac/2021/08/ai-game.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-19T03:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MacTech",
-        "domain": "mactech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

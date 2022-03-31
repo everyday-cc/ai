@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Syniverse and Kore.ai Form Partnership to Offer CPaaS Professional Services for Enterprises"
-    excerpt: "Syniverse®, “the world’s most connected company” ®, today said it has formed a global partnership with Kore.ai to complement its Communications Platform-as-a-Service (CPaaS) strategy by providing conversational artificial intelligence (AI) and professional services for Forbes Global 2000 enterprises."
-    publishedDateTime: 2022-03-30T12:06:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/syniverse-and-kore-ai-form-partnership-to-offer-cpaas-professional-services-for-enterprises/article_10fb2a87-6f48-58f9-95d6-287fa3fb6769.html"
+  - title: "ACY Securities taps Capitalise.ai to bring auto-trading to clients"
+    excerpt: "ACY Securities traders will get free access to Capitalise.ai's full suite of capabilities, including backtesting, loop strategies, and smart notifications."
+    publishedDateTime: 2022-03-30T21:08:00Z
+    webUrl: "https://financefeeds.com/acy-securities-taps-capitalise-ai-to-bring-auto-trading-to-clients/"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 27
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/9/32/93247ee6-1253-51c4-be5c-f942f4adaf40/62444a566e2f8.image.jpg?crop=1460%2C767%2C0%2C326&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
+      name: financefeeds
+      domain: financefeeds.com
+    quality: 17
 
 secured: "FKvYsx0t/offLIU66pcwdnlsgq3vnwxX0y6ARhvNwOfMsRSgcDX32+yjt11YEE6810gg+8fd+wosko23KhqqDQ5MRdCLV7SxxhPZyNEYloqkj/vgNIGdXPZpK2lzjFQkd25EWCBVLRiaD2e3zhY5NBj9Qv1UYP9MoOVbAxEN9sw0ymUTaE6JU6brKnz+kizmcdd/ZtEdlklkB2TFmSDO+0VzHCZozCidwZGO5YBEjXyP4rVmLdwC5vtrY1/NGd1qilCTjWepKxETThwbSao+aKSJwM4krGSvApRFXFazwDhU2Y/rL+LVsxKfNc+ConbXqSONFFOKXXgZz7QUFye+401ZbMvM9I6vTfS8ZwYdGFE=;Z/V/zGdfWdxfZZpEVsjhSg=="
 ---

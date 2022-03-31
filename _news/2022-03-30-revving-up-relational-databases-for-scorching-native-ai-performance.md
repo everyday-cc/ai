@@ -26,79 +26,92 @@ images:
     isCached: true
 
 related:
-  - title: "Google Using AI To Improve Search Results For Those Experiencing Personal Crises"
-    excerpt: "Google is rolling out improvements to its search engine that will provide more reliable, trustworthy and actionable information for users experiencing personal crises, such as suicidal thoughts, sexual assault,"
-    publishedDateTime: 2022-03-31T03:08:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/amp/"
+  - title: "Conversational data platform taps AI for sentiment analysis"
+    excerpt: "Arena's no-code communication platform uses engagement data gained from conversations and combines it with artificial intelligence (AI) to better understand who might want to buy what among its customers,"
+    publishedDateTime: 2022-03-31T14:24:00Z
+    webUrl: "https://venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/"
+    ampWebUrl: "https://venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/624519d473a84b78766f0b1b/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/10/youappi-App-Re-Engagement-Image-for-VB.jpg?w=1200&strip=all"
+        width: 900
+        height: 599
+        isCached: true
+  - title: "How 8x8 uses conversational AI to improve customer, employee dialogues"
+    excerpt: "New contact center tools analyze conversations and extract insights from dialogues to understand the needs of customers."
+    publishedDateTime: 2022-03-31T03:13:00Z
+    webUrl: "https://www.zdnet.com/article/how-8x8-uses-conversational-ai-to-improve-customer-employee-dialogues/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/beb34b0aa6c0d38c595e934d50af9f0cc501598b/2018/06/14/1a189bbe-6536-4124-bdf0-c88e751581ca/8x8-picture.jpg?width=770&height=578&fit=crop&auto=webp"
+        width: 770
+        height: 578
+        isCached: true
+  - title: "Why does conversational AI matter in the metaverse?"
+    excerpt: "NVIDIA said that Riva 2.0 has been integrated into TAO, a low code product for deployment and customisation of speech applications."
+    publishedDateTime: 2022-03-30T05:48:00Z
+    webUrl: "https://analyticsindiamag.com/why-does-conversational-ai-matter-in-the-metaverse/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/AIM-illustrations.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Conversational Artificial Intelligence (AI) Market to 2028: Growth Analysis by Manufacturers, Regions, Types and Applications"
+    excerpt: "The global conversational Artificial Intelligence (AI) market size reached USD 4.91 Billion in 2020 and is expected to register a CAGR of 22.6%, during"
+    publishedDateTime: 2022-03-30T07:13:00Z
+    webUrl: "https://www.digitaljournal.com/pr/conversational-artificial-intelligence-ai-market-to-2028-growth-analysis-by-manufacturers-regions-types-and-applications"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 27
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Italy-Wine-Asti-Spumante-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Syniverse and Kore.ai Form Partnership to Offer CPaaS Professional Services for Enterprises"
+    excerpt: "Syniverse®, “the world’s most connected company” ®, today said it has formed a global partnership with Kore.ai to complement its Communications Platform-as-a-Service (CPaaS) strategy by providing conversational artificial intelligence (AI) and professional services for Forbes Global 2000 enterprises."
+    publishedDateTime: 2022-03-30T12:06:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/syniverse-and-kore-ai-form-partnership-to-offer-cpaas-professional-services-for-enterprises/article_10fb2a87-6f48-58f9-95d6-287fa3fb6769.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 27
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/9/32/93247ee6-1253-51c4-be5c-f942f4adaf40/62444a566e2f8.image.jpg?crop=1460%2C767%2C0%2C326&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
-        height: 729
+        height: 630
         isCached: true
-  - title: "Google applies advanced AI to suicide prevention and reducing graphic search results"
-    excerpt: "Google has been rolling out smarter Artificial Intelligence systems, and says it is now putting them to work to help keep people safe. In particular, the search giant shared new information Wednesday about how it is using these advanced systems for suicide and domestic violence prevention,"
-    publishedDateTime: 2022-03-30T16:00:00Z
-    webUrl: "https://mashable.com/article/google-suicide-domestic-violence-ai-prevention"
-    ampWebUrl: "https://mashable.com/article/google-suicide-domestic-violence-ai-prevention?amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/google-suicide-domestic-violence-ai-prevention?amp"
+  - title: "Aventyn® Enters the Health Metaverse With 8chili HintVR™ Virtual Reality Platform for Innovations in Care Coordination"
+    excerpt: "Artificial Intelligence Virtual Reality platforms combined with the power of 3D content and digital health applications enable virtual training, patient engagement, education and health coachingCARLSBAD,"
+    publishedDateTime: 2022-03-29T04:32:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=638190"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 80
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
     images:
-      - url: "https://helios-i.mashable.com/imagery/articles/06ejXjgqVaRZFxsW2g2uIL6/hero-image.fill.size_1200x675.v1648590637.jpg"
-        width: 1200
-        height: 675
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
-  - title: "Nearly 80 Percent of Financial Firms Use AI to Improve Services, Reduce Fraud"
-    excerpt: "NVIDIA’s “State of AI in Financial Services” survey details the growth of AI adoption in capital markets, retail banking and investment firms. From the largest firms trading on Wall Street to banks providing customers with fraud protection to fintechs recommending best-fit products to consumers,"
-    publishedDateTime: 2022-03-28T19:37:00Z
-    webUrl: "https://www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 56
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/State-of-AI-in-FSI_Image_700x500.jpg"
-        width: 700
-        height: 500
-        isCached: true
-  - title: "Google and Meta are using artificial intelligence to mitigate problems such as suicide, violence and machismo"
-    excerpt: "Google presented innovations in artificial intelligence systems that nourish its search engine. These improvements aim to optimize the content that users access when searching for information about suicide,"
-    publishedDateTime: 2022-03-30T16:00:00Z
-    webUrl: "https://www.infobae.com/en/2022/03/30/google-and-meta-are-using-artificial-intelligence-to-mitigate-problems-such-as-suicide-violence-and-machismo/"
-    ampWebUrl: "https://www.infobae.com/en/2022/03/30/google-and-meta-are-using-artificial-intelligence-to-mitigate-problems-such-as-suicide-violence-and-machismo/?outputType=amp-type"
-    cdnAmpWebUrl: "https://www-infobae-com.cdn.ampproject.org/c/s/www.infobae.com/en/2022/03/30/google-and-meta-are-using-artificial-intelligence-to-mitigate-problems-such-as-suicide-violence-and-machismo/?outputType=amp-type"
-    type: article
-    provider:
-      name: Infobae
-      domain: infobae.com
-    quality: 38
-    images:
-      - url: "https://www.infobae.com/new-resizer/7Ywmlp2b-31JXSukx1M-tYktDRQ=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/AA6Y3H4UCZHRJOCY4ACA42DMN4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "How AI Technology Helps Restaurants Improve the Customer Experience"
-    excerpt: "As The New York Times recently reported, the pressures on staffing is one of the reasons restaurants have been moving away from answering customer telephone calls. Some restaurant owners reported being just too busy preparing"
-    publishedDateTime: 2022-03-29T18:11:00Z
-    webUrl: "https://restauranttechnologynews.com/2022/03/how-ai-technology-helps-restaurants-improve-the-customer-experience/"
-    type: article
-    provider:
-      name: restauranttechnologynews
-      domain: restauranttechnologynews.com
-    quality: 17
 
 secured: "RtRYYOS6xwLQTtDZ8KMeNdMgMsjr1PA61uK2qb8MPH8otX6Lj3vHPKI5hg48rBy8bKuCcmbrPq/gQN4RLbgqIJ13xcqVoZb7GT5wFuhSLtwOMOKEQjnuh3BYsJdREUnehQ0gQJFI/0XyLBdHZstC7B0Oi+1GdR96zrBErq7/Om4Drtyk8HqzgkAe5BeS8wdNGn0a7WsHkehVPUn23kY/LCK8KrKYDM8cNRe1aFV/9VPt/upXsbyzIAEKZZfvWk4xrSYZa2UUyTrLVoyC6+iAxglv6VafxxN0MSDfBL6hYK2P879lq3LQRUHfRlMnnuaRzFKPdOzFsokMhI/gH5dYfEP4dpiPvX6WuQPZH0hS7AY=;/wlXk0Vs76Ga11oN5LabTg=="
 ---

@@ -27,97 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota starts testing self-driving ride-hailing fleet"
-    excerpt: "Toyota, together with Aurora Innovation Inc., is currently testing a fleet of self-driving Sienna units in Texas."
-    publishedDateTime: 2022-03-28T06:37:00Z
-    webUrl: "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410"
-    ampWebUrl: "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp"
-    cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp"
+  - title: "Crafting Ethical AI That Monitors Unethical AI And Tries To Deter Bad AI From Acting Up, Useful Even For Exalted AI-Based Self-Driving Cars"
+    excerpt: "Let's use Ethical AI to oversee unethical AI, though this can be tricky and care is needed, which is illustrated via examples in the advent of AI-based self-driving cars."
+    publishedDateTime: 2022-03-28T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/03/28/crafting-ethical-ai-that-monitors-unethical-ai-and-tries-to-deter-bad-ai-from-acting-up-useful-even-for-exalted-ai-based-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/03/28/crafting-ethical-ai-that-monitors-unethical-ai-and-tries-to-deter-bad-ai-from-acting-up-useful-even-for-exalted-ai-based-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/28/crafting-ethical-ai-that-monitors-unethical-ai-and-tries-to-deter-bad-ai-from-acting-up-useful-even-for-exalted-ai-based-self-driving-cars/amp/"
     type: article
     provider:
-      name: Philkotse
-      domain: philkotse.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 72
     images:
-      - url: "https://img.philkotse.com/2022/03/28/WFFKkBCT/toyota-sienna-aurora-942f_wm.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Toyota and Aurora Are Testing Self-Driving Vehicles in Texas"
-    excerpt: "About a year after announcing plans to partner on the development of self-driving vehicles, Toyota and Aurora Innovation have put their prototypes on the road. These are based on"
-    publishedDateTime: 2022-03-29T14:12:00Z
-    webUrl: "https://www.auto123.com/en/news/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
-    ampWebUrl: "https://www.auto123.com/en/news/amp/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
-    cdnAmpWebUrl: "https://www-auto123-com.cdn.ampproject.org/c/s/www.auto123.com/en/news/amp/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
-    type: article
-    provider:
-      name: Auto123
-      domain: auto123.com
-    quality: 44
-    images:
-      - url: "http://picolio.auto123.com/auto123-media/articles/2022/3/69082/toyota-aurora-1fr.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Virginia Tech Transportation Institute researching ways to bring self-driving cars to you"
-    excerpt: "Researchers in Blacksburg are leading cutting edge research to help self-driving come to a city near you. BLACKSBURG, Va. – Researchers in Blacksburg are leading cutting-edge research to help self-driving come to a city near you. Manufacturers are ..."
-    publishedDateTime: 2022-03-31T01:38:00Z
-    webUrl: "https://www.wsls.com/news/local/2022/03/31/virginia-tech-transportation-institute-researching-ways-to-bring-self-driving-cars-to-you/"
-    ampWebUrl: "https://www.wsls.com/news/local/2022/03/31/virginia-tech-transportation-institute-researching-ways-to-bring-self-driving-cars-to-you/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsls-com.cdn.ampproject.org/c/s/www.wsls.com/news/local/2022/03/31/virginia-tech-transportation-institute-researching-ways-to-bring-self-driving-cars-to-you/?outputType=amp"
-    type: article
-    provider:
-      name: WSLS 10
-      domain: wsls.com
-    quality: 35
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/03-30-2022/t_325edbb1af134364812308208d8d82e0_name_image.jpg?_a=ATABld60"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "Apple ups driver count for self-driving car tests, signaling increase in program resources"
-    excerpt: "Apple is continuing to slowly expand its autonomous vehicle testing program in California as it has 10 new drivers registered to its crew."
-    publishedDateTime: 2022-03-30T16:07:00Z
-    webUrl: "https://9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/"
-    ampWebUrl: "https://9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 34
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/623126ba2e129e288514bf95/0x0.jpg?format=jpg&crop=2204,1652,x252,y0,safe&width=1200"
         width: 1200
-        height: 628
+        height: 899
         isCached: true
-  - title: "Self-driving cars move closer to approval as Toyota tests cars in USA"
-    excerpt: "Japan Toyota Motor Company and Aurora Innovation an American developer of automated driving systems have begun testing an autonomous ride-hailing fleet in Texas"
-    publishedDateTime: 2022-03-27T03:06:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272425617/self-driving-cars-move-closer-to-approval-as-toyota-tests-cars-in-usa"
+  - title: "Qure.ai raises $40M for AI-powered medical imaging diagnostics"
+    excerpt: "Qure.ai announced today that it closed a funding round worth $40 million as it looks to extend the global reach of its diagnostic offerings."
+    publishedDateTime: 2022-03-29T11:40:00Z
+    webUrl: "https://www.massdevice.com/qure-ai-raises-40m-for-ai-powered-medical-imaging-diagnostics/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
+      name: MassDevice
+      domain: massdevice.com
+    quality: 37
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1648272795281.jpg"
-        width: 630
-        height: 420
+      - url: "https://939506.smushcdn.com/2491169/wp-content/uploads/2019/05/MDO_webAD_5-19_Vs1.jpg?lossy=1&strip=1&webp=1"
+        width: 300
+        height: 250
         isCached: true
-  - title: "Self-driving vans from Toyota and Aurora partnership start testing in Texas"
-    excerpt: "They are testing in the Dallas-Fort Worth area, where Aurora has been testing self-driving semi-trailer trucks since 2020. Some of the conditions the prototypes are faced with inc"
-    publishedDateTime: 2022-03-28T14:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1135428_self-driving-vans-from-toyota-and-aurora-partnership-start-testing-in-texas"
+  - title: "Scaling up plant-based products with artificial intelligence"
+    excerpt: "The Kraft Heinz Company and food tech start-up TheNotCompany, Inc. announced a joint venture designed to reimagine global food production and advance toward a more sustainable future."
+    publishedDateTime: 2022-03-30T19:07:00Z
+    webUrl: "https://www.foodengineeringmag.com/articles/100171-scaling-up-plant-based-proteins-with-artificial-intelligence"
     type: article
     provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 22
+      name: Food Engineering
+      domain: foodengineeringmag.com
+    quality: 37
     images:
-      - url: "https://images.hgmsites.net/hug/toyota-and-aurora-self-driving-car-prototype_100834160_h.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.foodengineeringmag.com/ext/resources/eNews/2022/FE_Online-03-22-Heinz-theNOTCompany.jpg?height=635&t=1648667790&width=1200"
+        width: 900
+        height: 550
+        isCached: true
+  - title: "Infrared camera being developed in Montreal could let self-driving cars see through snow and fog"
+    excerpt: "Autonomous vehicles that “see” through snow and fog, cameras that can identify expired fruits and vegetables, and better toxic gas detectors are some of the potential applications of a technology being worked on by researchers at Polytechnique Montréal."
+    publishedDateTime: 2022-03-30T01:18:00Z
+    webUrl: "https://montrealgazette.com/technology/infrared-camera-being-developed-in-montreal-could-let-self-driving-cars-see-through-snow-and-fog"
+    ampWebUrl: "https://montrealgazette.com/technology/infrared-camera-being-developed-in-montreal-could-let-self-driving-cars-see-through-snow-and-fog/wcm/e5bc4c88-7dc3-42b0-acf8-65e9e0c8044a/amp/"
+    cdnAmpWebUrl: "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/technology/infrared-camera-being-developed-in-montreal-could-let-self-driving-cars-see-through-snow-and-fog/wcm/e5bc4c88-7dc3-42b0-acf8-65e9e0c8044a/amp/"
+    type: article
+    provider:
+      name: Montreal News
+      domain: montrealgazette.com
+    quality: 31
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/montrealgazette/wp-content/uploads/2022/03/1302193971.jpg"
+        width: 1000
+        height: 750
         isCached: true
 
 secured: "B+w7UEdmDk37JLHV+zW33Uw3M4FlCvARufFPY4CClvpya5pMgpaZEKxifQ/B6U807fVdBj4pweMEXDWwQrA+t7+njI+M/FSXQTl9KHYNXqw0zrSkf/OuT43MVxXBplE9QfSDGhWFq6Zyi5kOm39ABpw8B2O18yfJR78jF2NVYxZNMcPbHixCj7WsVAzII87jiKQnN/l6R5abdyfVQvXnMe5A3xPJIUhFgtwjQcVDHbrFNlF/c/cwGnAuyDES6t7Y/1cssjfWrI1K4xSZzJ8Ljf75ibUe/i+yMHNBXgwEQeJSvP34uCIYvFvnucKm3TYh9Dfh52nFo+Gd4jnW3EMBE9gIevtGgzYRN39IBFeFVL70ze9Wv29rYCe8t7ghnMY+MbKqqQIGTmfX5XlINLWoo8sFHkdww/VqbmTXzZaj3HKq2OLM128JAP5iQAkJywFmcFeUMRTcm9jrL/s+vDNf/MFt7hqra/24LiYC4L/b7iu46Al+cmBGOBJzqU59YbIJJ4JJaXrrvpesbkQJkyG8mA==;sUgy6akoxXnlTbPBGFaTew=="

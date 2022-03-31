@@ -24,38 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to avoid buying AI-based marketing tools that are biased"
-    excerpt: "If your marketing team is looking to buy an off-the-shelf AI-powered marketing product, ask the vendor these 5 questions first."
-    publishedDateTime: 2022-03-26T21:10:00Z
-    webUrl: "https://venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-marketing-tools-that-are-biased/"
-    ampWebUrl: "https://venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-marketing-tools-that-are-biased/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-marketing-tools-that-are-biased/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/05/mobile-devices-emitting-data-in-a-crowd-of-people-picture-id522636128-1.jpg?w=1200&strip=all"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Otter.ai rolls out a new AI-generated meeting summary feature and more collaboration tools"
-    excerpt: "AI-powered voice transcription service Otter.ai is releasing a set of new meeting-focused features to boost collaboration, the company announced on Tuesday. Most notably, the company is adding a new “Automatic Outline” feature that uses Otter’s proprietary AI to automatically"
-    publishedDateTime: 2022-03-29T16:20:00Z
-    webUrl: "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/"
-    ampWebUrl: "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 77
-    images:
-      - url: "https://i.ytimg.com/vi/vdmHxFwZCCU/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Crafting Ethical AI That Monitors Unethical AI And Tries To Deter Bad AI From Acting Up, Useful Even For Exalted AI-Based Self-Driving Cars"
     excerpt: "Let's use Ethical AI to oversee unethical AI, though this can be tricky and care is needed, which is illustrated via examples in the advent of AI-based self-driving cars."
     publishedDateTime: 2022-03-28T15:30:00Z
@@ -71,6 +39,52 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/623126ba2e129e288514bf95/0x0.jpg?format=jpg&crop=2204,1652,x252,y0,safe&width=1200"
         width: 1200
         height: 899
+        isCached: true
+  - title: "Mercedes to accept legal responsibility for accidents involving self-driving cars"
+    excerpt: "Mercedes has announced that it will take legal responsibility for any crashes that occur while the self-driving system on any of its cars is engaged."
+    publishedDateTime: 2022-03-28T17:55:00Z
+    webUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/"
+    ampWebUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Sunday Times Driving
+      domain: driving.co.uk
+    quality: 39
+    images:
+      - url: "https://www.driving.co.uk/wp-content/uploads/sites/5/2021/09/SAE-levels-of-automation.jpeg?w=1000"
+        width: 1000
+        height: 680
+        isCached: true
+  - title: "Qure.ai raises $40M for AI-powered medical imaging diagnostics"
+    excerpt: "Qure.ai announced today that it closed a funding round worth $40 million as it looks to extend the global reach of its diagnostic offerings."
+    publishedDateTime: 2022-03-29T11:40:00Z
+    webUrl: "https://www.massdevice.com/qure-ai-raises-40m-for-ai-powered-medical-imaging-diagnostics/"
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 37
+    images:
+      - url: "https://939506.smushcdn.com/2491169/wp-content/uploads/2019/05/MDO_webAD_5-19_Vs1.jpg?lossy=1&strip=1&webp=1"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Infrared camera being developed in Montreal could let self-driving cars see through snow and fog"
+    excerpt: "Autonomous vehicles that “see” through snow and fog, cameras that can identify expired fruits and vegetables, and better toxic gas detectors are some of the potential applications of a technology being worked on by researchers at Polytechnique Montréal."
+    publishedDateTime: 2022-03-30T01:18:00Z
+    webUrl: "https://montrealgazette.com/technology/infrared-camera-being-developed-in-montreal-could-let-self-driving-cars-see-through-snow-and-fog"
+    ampWebUrl: "https://montrealgazette.com/technology/infrared-camera-being-developed-in-montreal-could-let-self-driving-cars-see-through-snow-and-fog/wcm/e5bc4c88-7dc3-42b0-acf8-65e9e0c8044a/amp/"
+    cdnAmpWebUrl: "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/technology/infrared-camera-being-developed-in-montreal-could-let-self-driving-cars-see-through-snow-and-fog/wcm/e5bc4c88-7dc3-42b0-acf8-65e9e0c8044a/amp/"
+    type: article
+    provider:
+      name: Montreal News
+      domain: montrealgazette.com
+    quality: 31
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/montrealgazette/wp-content/uploads/2022/03/1302193971.jpg"
+        width: 1000
+        height: 750
         isCached: true
 
 secured: "3+zYnBkE73VFYh0Trg7JtjbS+1mureofFP9+DOAFdKXjl3eTVqD9/IMvB9bioY2oosadVEC30OzzkGGh9vLde57/T3KDN3wv+N40+A4efKRNpVf+7EpdvlfTTd/sPyzab1eERHrAUabwNTSKUnpGUKfgZAeBS+Sl7Eaf4Luzo0U3FgFDsXohEJgN/Fmo18zxFjpkqgOTx9KcdPQQBtKcf+H2otbzNPmH0v5BGigFX1CyPlOTMStX5iHJT5C1HMrpLsjcSLFXV5/S5cPr6ef02ZtsnLV2T4sO2XFbnQC5Aqxo/1OuNFbSfmBvuNgb6CyOetKaFJhoFh0hGj0u3YTG0d/2mgGqjS/ct4OK0vNl6YjA61+0w4AoI+cj0OhoiRNufX4hBoXPwyloxnigZL1teveWhJWlaApC7PsO8trX0MD5xIVIUEVqT8WeIw8kYX6U44aXptbab8s8t0ey6wxnsbusL/mdh1pWZVbHAU+dILU2We4naPth4eLf+IYFBp+zOADpoydoCZQDxLXyevI/hQ==;t2qA+YdTSgmLZb6PkJskyw=="

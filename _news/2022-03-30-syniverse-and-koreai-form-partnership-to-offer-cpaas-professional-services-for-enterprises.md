@@ -7,7 +7,7 @@ originalUrl: "https://www.joplinglobe.com/region/national_business/syniverse-and
 webUrl: "https://www.joplinglobe.com/region/national_business/syniverse-and-kore-ai-form-partnership-to-offer-cpaas-professional-services-for-enterprises/article_10fb2a87-6f48-58f9-95d6-287fa3fb6769.html"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,93 @@ images:
     isCached: true
 
 related:
-  - title: "Capitalise.ai and ACY Securities announce a partnership, allowing professional traders enjoy a no-code auto-trading experience, driven by AI"
-    excerpt: "ACY Securities, one of the world's fastest growing multi-asset online trading providers, integrates Capitalise.ai auto-trading and AI based platform to offer traders a top notch standard for a profess"
-    publishedDateTime: 2022-03-29T15:41:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/capitalise-ai-and-acy-securities-announce-a-partnership-allowing-professional-traders-enjoy-a-no-code/article_4100bc74-014c-5c23-8d29-53c4d1bc0eb9.html"
+  - title: "Conversational data platform taps AI for sentiment analysis"
+    excerpt: "Arena's no-code communication platform uses engagement data gained from conversations and combines it with artificial intelligence (AI) to better understand who might want to buy what among its customers,"
+    publishedDateTime: 2022-03-31T14:24:00Z
+    webUrl: "https://venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/"
+    ampWebUrl: "https://venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/amp/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 2
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/10/youappi-App-Re-Engagement-Image-for-VB.jpg?w=1200&strip=all"
+        width: 900
+        height: 599
+        isCached: true
+  - title: "How 8x8 uses conversational AI to improve customer, employee dialogues"
+    excerpt: "New contact center tools analyze conversations and extract insights from dialogues to understand the needs of customers."
+    publishedDateTime: 2022-03-31T03:13:00Z
+    webUrl: "https://www.zdnet.com/article/how-8x8-uses-conversational-ai-to-improve-customer-employee-dialogues/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/beb34b0aa6c0d38c595e934d50af9f0cc501598b/2018/06/14/1a189bbe-6536-4124-bdf0-c88e751581ca/8x8-picture.jpg?width=770&height=578&fit=crop&auto=webp"
+        width: 770
+        height: 578
+        isCached: true
+  - title: "Revving Up Relational Databases For Scorching Native AI Performance"
+    excerpt: "There may not be as much structured data in the world as there is unstructured data, but one could easily argue that the structured data – mostly"
+    publishedDateTime: 2022-03-30T16:07:00Z
+    webUrl: "https://www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/"
+    ampWebUrl: "https://www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 57
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/heatwave.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Why does conversational AI matter in the metaverse?"
+    excerpt: "NVIDIA said that Riva 2.0 has been integrated into TAO, a low code product for deployment and customisation of speech applications."
+    publishedDateTime: 2022-03-30T05:48:00Z
+    webUrl: "https://analyticsindiamag.com/why-does-conversational-ai-matter-in-the-metaverse/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/AIM-illustrations.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Conversational Artificial Intelligence (AI) Market to 2028: Growth Analysis by Manufacturers, Regions, Types and Applications"
+    excerpt: "The global conversational Artificial Intelligence (AI) market size reached USD 4.91 Billion in 2020 and is expected to register a CAGR of 22.6%, during"
+    publishedDateTime: 2022-03-30T07:13:00Z
+    webUrl: "https://www.digitaljournal.com/pr/conversational-artificial-intelligence-ai-market-to-2028-growth-analysis-by-manufacturers-regions-types-and-applications"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 27
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Italy-Wine-Asti-Spumante-AFP-1K-01-600x337.jpg"
         width: 600
-        height: 338
+        height: 337
+        isCached: true
+  - title: "Aventyn® Enters the Health Metaverse With 8chili HintVR™ Virtual Reality Platform for Innovations in Care Coordination"
+    excerpt: "Artificial Intelligence Virtual Reality platforms combined with the power of 3D content and digital health applications enable virtual training, patient engagement, education and health coachingCARLSBAD,"
+    publishedDateTime: 2022-03-29T04:32:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=638190"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "rjs9knC4zRVLPLSdZh8gQaVujIAXMRQpCOA+V4J7pLvlpIGit0be+pI4iFF7Sc3ju+EYlz4npXY/QGJdG7gx4K/ZJIA7pjrrUyRwQ0tJZsEI/sjzywyrZfjEPTJoXxTiiwLkrKN5J/gyMLbhzsJA63bjrl3YccsJY4m5FV5MQ5lhj5Wg/Yk07vznBfzmqOqmo0H29izqE6A/jTAnkAZzlRLwE6Sacnk4jSlXGvPhxDxjDrE09bSexDUDcUmvwIWzvtv5mw+nv6430Ps36OVSfXxjPOx/4JWtljx46Ff99a7mTAbETpRhy+hYdNn2usgjMPzdexI9i49+LGGbg2YbB6Lmz/Mr35AovRMaOYITu/M=;xE7kHDGNxbAoe4BVgnOdOQ=="

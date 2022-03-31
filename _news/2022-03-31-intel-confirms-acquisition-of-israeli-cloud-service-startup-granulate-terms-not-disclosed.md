@@ -42,7 +42,37 @@ related:
         width: 1024
         height: 678
         isCached: true
+  - title: "Intel buys cloud optimization startup Granulate"
+    excerpt: "Intel hopes to gain an extra edge in the cloud and datacenter markets with the acquisition of Granulate, a developer of software that optimizes complex and old workloads for modern CPUs. The semiconductor giant said today it has reached a deal to buy the Israel-based startup,"
+    publishedDateTime: 2022-03-31T14:30:00Z
+    webUrl: "https://www.theregister.com/2022/03/31/intel_buys_cloud_optimization_software/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/03/31/intel_buys_cloud_optimization_software/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/31/intel_buys_cloud_optimization_software/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 42
+    images:
+      - url: "https://regmedia.co.uk/2022/03/31/shutterstock_intel.jpg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Intel snaps up Israeli AI workload optimisation start-up Granulate"
+    excerpt: "Intel has confirmed today (31 March) that it is acquiring Israeli AI start-up Granulate to help its cloud and data centre customers optimise workload performance. While neither company has revealed details of the transactions, sources familiar with the ..."
+    publishedDateTime: 2022-03-31T14:37:00Z
+    webUrl: "https://www.siliconrepublic.com/business/intel-granulate-acquisition-workload-optimisation"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/03/a-37.jpeg"
+        width: 800
+        height: 600
+        isCached: true
 
-secured: "CObIiWt8cF/T7SBUeLpsRQHYNfYE6+CrEIecBo1iiYOAYgBvnibB+uMhrfvtKx68PfqAiIgBkbB4YxILQVrYeeOjVzj8Y+SHA83BBd9f6qu81oRiLYqmgthz4rochaOdykMOyVDrHTLioHYx3+fJ4wtrZk3hZf6cysce3l20+bJ3NgmcMCf2YO38J4SmalcQjKOErS6X2ORuE6MoTVIrIaBcN+JZLly/D24McUfui2AyhD8XKuhWSauHTws2CllEAIBnJ2RgLqZA9hOIsjZY9/R+vMy57vbznbbaYLFaIGr1WJjqgnmmCRALCiSFW7VQKE8Zed+NzyHsY/QQ6AT0qqJMHQVjsneIEwfs62B2wPg=;iOrpyHed4v8TSmI+uVekTw=="
+secured: "kwLKZFO/4C5sz9T9YpNnvUjcPZuOMufE4TK/AzQZVHWRU6rCNBxCPX/hvPDXJVf7ESYds2avnLdngLTUimnI0aoKDVnFNm87Ohfrz5jyowM+Ql2tdvt3nSQtWbwXGUdasItxqDTG9LUR+rq2Ey7oOgiCEgC2939xctVjr5mI6u9JMhxfx/nFbdKo0et0BeBTqnBJ4m4LyWcm2SiypL87yohIfuBGYPT/8f4lwV1u0w9Mn+IMQguQ4r4jQnrcga4xBq33LutxUT8FiMoEXIZZZaKq79rWEW4tiZNByX1wpAqI6SBlO17Tn2MehEnP/68LCGS68DHIXjJWU0oMYz+au20lQPPPlVrAL6jB/j3IM8sZYStZr7eoTj4FRgBYhwkDVUkUWUN1IMe3FlJqAhZ1Hikmj6owow2n9vmZMro0NkKa+rRX28Obqu5WtsCAlEShhbxiUQ+n1/s9J4gUMKFHHCKvVTg6iEEWCqpILlN1l1fHcek8b/KToVimtzy6Y5Yue7Xq7DUijgZ6vNqj6/nGnw==;H4HjVzL+EzAHb22Vw85LKg=="
 ---
 

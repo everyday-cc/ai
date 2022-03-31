@@ -82,20 +82,6 @@ related:
         width: 1008
         height: 504
         isCached: true
-  - title: "Conversational Artificial Intelligence (AI) Market to 2028: Growth Analysis by Manufacturers, Regions, Types and Applications"
-    excerpt: "The global conversational Artificial Intelligence (AI) market size reached USD 4.91 Billion in 2020 and is expected to register a CAGR of 22.6%, during"
-    publishedDateTime: 2022-03-30T07:13:00Z
-    webUrl: "https://www.digitaljournal.com/pr/conversational-artificial-intelligence-ai-market-to-2028-growth-analysis-by-manufacturers-regions-types-and-applications"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 27
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Italy-Wine-Asti-Spumante-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Cognitive Services Market Size and Analysis, Trends, Recent Developments, and Forecast Till 2028"
     excerpt: "Elevating demand for APIs to develop smarter applications, the increasing use of the service in the functioning of different industries are some of the factors boosting the cognitive services market."
     publishedDateTime: 2022-03-28T12:30:00Z

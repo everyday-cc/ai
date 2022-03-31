@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/28/why-ai-democratization-will-bring
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Otter.ai rolls out a new AI-generated meeting summary feature and more collaboration tools"
+    excerpt: "AI-powered voice transcription service Otter.ai is releasing a set of new meeting-focused features to boost collaboration, the company announced on Tuesday. Most notably, the company is adding a new “Automatic Outline” feature that uses Otter’s proprietary AI to automatically"
+    publishedDateTime: 2022-03-29T16:20:00Z
+    webUrl: "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/"
+    ampWebUrl: "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 77
+    images:
+      - url: "https://i.ytimg.com/vi/vdmHxFwZCCU/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "OmniML exits stealth with $10M to bring more powerful AI to the edge"
     excerpt: "A startup called OmniML stepped out of the shadows today, armed with $10 million in seed funding to pursue its mission of accelerating artificial intelligence on low-powered devices at the network edge."
     publishedDateTime: 2022-03-29T16:34:00Z

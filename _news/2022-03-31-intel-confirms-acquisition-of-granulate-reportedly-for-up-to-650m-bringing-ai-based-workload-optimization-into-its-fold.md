@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/03/31/intel-confirms-acquisition-of-gran
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/31/intel-confirms-acquisition-of-granulate-reportedly-for-up-to-650m-bringing-ai-based-workload-optimization-into-its-fold/amp/"
 type: article
 quality: 63
-heat: 73
+heat: 93
 published: true
 
 provider:
@@ -31,6 +31,36 @@ images:
     isCached: true
 
 related:
+  - title: "Intel buys cloud optimization startup Granulate"
+    excerpt: "Intel hopes to gain an extra edge in the cloud and datacenter markets with the acquisition of Granulate, a developer of software that optimizes complex and old workloads for modern CPUs. The semiconductor giant said today it has reached a deal to buy the Israel-based startup,"
+    publishedDateTime: 2022-03-31T14:30:00Z
+    webUrl: "https://www.theregister.com/2022/03/31/intel_buys_cloud_optimization_software/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/03/31/intel_buys_cloud_optimization_software/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/31/intel_buys_cloud_optimization_software/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 42
+    images:
+      - url: "https://regmedia.co.uk/2022/03/31/shutterstock_intel.jpg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Intel snaps up Israeli AI workload optimisation start-up Granulate"
+    excerpt: "Intel has confirmed today (31 March) that it is acquiring Israeli AI start-up Granulate to help its cloud and data centre customers optimise workload performance. While neither company has revealed details of the transactions, sources familiar with the ..."
+    publishedDateTime: 2022-03-31T14:37:00Z
+    webUrl: "https://www.siliconrepublic.com/business/intel-granulate-acquisition-workload-optimisation"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/03/a-37.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Intel confirms acquisition of Israeli cloud service startup Granulate, terms not disclosed"
     excerpt: "Intel Corporation (INTC) has signed an agreement to acquire Granulate Cloud Solutions, an Israel-based developer of real-time continuous optimization software.The acquisition"
     publishedDateTime: 2022-03-31T12:46:00Z
@@ -48,6 +78,6 @@ related:
         height: 499
         isCached: true
 
-secured: "fRi2wxTZON32FMU1BjOerJ3qYQo3O0SojSbnaKrZbqO4gBC8vMbI4uROW0ssbU2+TaJD1PqJgw2Jq9Kuc8bawOW8Omg7TjBzN9NG06rt2fg5YCywmnmahJlYYQDFXA5WK1tEyvPfjTkkgVhO6SpLIWDoREG4zUECEt+W/JQxM1YSZ7YcVOfg7+D7pfshegfycpTHRoWt4YiiEokF78FnZR6VmKeW/HLY3yy8J+zK6MNPRJ6j8W+pwyOiC/qSvklLMD2OEizPNMdQ5MakuYZcA32Kj4Hd3p6AsFYTMrKrkKHzyYapff6dIsK+39Ygw05LlLtSBktWWwGyGxW8VSt+cJBvYhJxLHQF6qL9FYRDz+Q=;Gt/v7fk6VoOuadkFsP2x5g=="
+secured: "D+K3ATaS3lIjlo/IfG2vUibJUff/rDETHfmpr6WS9+TYIOt0G9szpZ+RUDx4gvFKLh1+XydrJqSJUw5Dd5waB6Ki59jWnvZSCcm6JmO0CE/mZPT/oeN35Y83545DE3YDOloJkJZEGKhg8Zb3Xs2v4y53fUdLjYs0+QeMjjSxSVohu7seWxYM/mucUskHeT5wjOnrM4kkfm2TDC2Q8tpa+5DlrG4iYthjJH9xDbY7CANoVo1syRbU6fChD1/a8Tg5e73vgJRuld8sywXJ2kt6KOl8l1XCktZJqEvvs+1+I1dXVJeVLGGo7dwIuyvsA3ZILizLu/PBs45wIaoxs3+oG+CXbkn2ZNeTJ43AnwRYs3g/ql80cZ+eayBj7hC3ePywb2ddTTvI33lqjVYHUDwJ3bRXlbvv4glIqK+d9UyQBoisZwXFqZw/NNw0Io7fuFDCZJYauxh5vyztrZUBg8nMxONjtvx8OvwVdHfBKrsuHcMbBHcf/DyfxOayGBaLNznBdRnH8iMfhuxIJ6aPLbDOyg==;cbGcdxqQmcdS8qotFl2s/Q=="
 ---
 
