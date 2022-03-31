@@ -2,7 +2,7 @@
 name: "Q-CTRL"
 overview: "The world is witnessing the dawn of a new industry.  We’ll help you take control of your quantum future."
 type: "profile"
-heat: 82
+heat: 72
 
 website: https://q-ctrl.com/
 
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Ez300fBAfY8"
 
-secured: "I5ob3qPLlnvp0nolcLhXvNg79DKp+/UWwYtrM7GsFuFHUS0JXCeS8wipRnOM+0h7K2XfDovRSno32KPCTKYfEnG1LahXqmBKHWq6kpSSOUgbhvvpUw2RbgLRa3YXAkD4JTHPsDv1hEwC4N+c8iPy4PFYP11Oro4arA/TCcB2OZShQBOwgNdiTFLmFlDmVRhaX/QS+7tQsAAWd7rxW0hJUJUAU3IL/eFUoPD42U8zKUsfCK/8qeYVAjHIAYCrg6GXro5gdDbt/yXB8qH7fhENPlq0QwPFGLXDV6D6w1GWyljXA06sKga+s5dkw6AmJ9mSaNvIfZv4NlAVna12b1gIlr0ofE1QGW/txxQ4rPeRWVMbJ0JGEfDFKXyXKRyO484Q9od8/0ifTCBcSALFoUV2DoVU9ncqTDRxhzxj/cEsA4Y=;REH118VvH6D4PXXEiijP4w=="
+secured: "4EbRvxUYH6b9rZtywB48SwnMJS9TSt28razkWC/z9PJ/FrNFqDWfhZYxRsF+AtwAygo0BuPWMbdOfzZfP0UnMKkCOq/nS6ZenvUNOGkAW+/sYtSbto3eREZhRbdp3UToFg7HhK4FXyBtuqe0D6rPw1hZrwhqSIW2qSKH5y5LwA3i1bzspb8+YoXDZEUhtBShJKdjH8BnGqjpGioHwX+QQGi5p6mgC8AqSpWHkjekMe0Cnaz/FZ6EVYQ7W11Tc+UIbEWkYlALKfsawaSsFGRtC5tXtMLY2OGDRBHlU/dwaXlDD9NsAkKehawRbvSGyXqWLkJuV2asSvDiUttNuE6zZ2XMQk3ZWfm0BECRltdoGO32qKqLZ+SjbY3JQME5KoqCbvIebgekPM2zHe2MgLS/55PNmpw4+9rv3Ui8tjGivRg=;QUNza+lx+j+oQXr4/VPp1g=="
 ---
 
