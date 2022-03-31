@@ -38,6 +38,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence (AI) In Genomics Market 2022: Future Outlook, Growth, Industry Analysis, Business Opportunities"
+    excerpt: "In terms of revenue, artificial intelligence (AI) in genomics market was valued at US$ 458.21 Mn in 2021 growing at a CAGR"
+    publishedDateTime: 2022-03-31T14:53:00Z
+    webUrl: "https://www.wicz.com/story/46197760/artificial-intelligence-ai-in-genomics-market-2022-future-outlook-growth-industry-analysis-business-opportunities"
+    type: article
+    provider:
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 30
+    images:
+      - url: "https://EINPRESSWIRE.images.worldnow.com/images/22441134_G.jpg?lastEditedDate=1648724002000"
+        width: 600
+        height: 400
+        isCached: true
   - title: "AI in Blockchain Market, Global Outlook and Forecast 2022-2028"
     excerpt: "The global AI in Blockchain market was valued at million in 2021 and is projected to reach US$ million by 2028, at a CAGR of % during the forecast period. The U.S. Market is Estimated at $ Million in 2021,"
     publishedDateTime: 2022-03-28T07:46:00Z

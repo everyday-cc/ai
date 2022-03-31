@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/03/31/intel-confirms-acquisition-of-gran
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/31/intel-confirms-acquisition-of-granulate-reportedly-for-up-to-650m-bringing-ai-based-workload-optimization-into-its-fold/amp/"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1091107492/image_1091107492.jpg?io=getty-c-w750"
         width: 750
         height: 499
+        isCached: true
+  - title: "Intel acquires infrastructure optimization startup Granulate for a reported $650M"
+    excerpt: "Intel Corp. is acquiring Granulate Cloud Solutions Ltd., a startup that uses artificial intelligence to help companies speed up their applications and reduce infrastructure costs. Intel announced the deal this morning."
+    publishedDateTime: 2022-03-31T17:26:00Z
+    webUrl: "https://siliconangle.com/2022/03/31/intel-acquires-infrastructure-optimization-startup-granulate-reported-650m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/Image-10.png"
+        width: 935
+        height: 518
         isCached: true
 
 secured: "D+K3ATaS3lIjlo/IfG2vUibJUff/rDETHfmpr6WS9+TYIOt0G9szpZ+RUDx4gvFKLh1+XydrJqSJUw5Dd5waB6Ki59jWnvZSCcm6JmO0CE/mZPT/oeN35Y83545DE3YDOloJkJZEGKhg8Zb3Xs2v4y53fUdLjYs0+QeMjjSxSVohu7seWxYM/mucUskHeT5wjOnrM4kkfm2TDC2Q8tpa+5DlrG4iYthjJH9xDbY7CANoVo1syRbU6fChD1/a8Tg5e73vgJRuld8sywXJ2kt6KOl8l1XCktZJqEvvs+1+I1dXVJeVLGGo7dwIuyvsA3ZILizLu/PBs45wIaoxs3+oG+CXbkn2ZNeTJ43AnwRYs3g/ql80cZ+eayBj7hC3ePywb2ddTTvI33lqjVYHUDwJ3bRXlbvv4glIqK+d9UyQBoisZwXFqZw/NNw0Io7fuFDCZJYauxh5vyztrZUBg8nMxONjtvx8OvwVdHfBKrsuHcMbBHcf/DyfxOayGBaLNznBdRnH8iMfhuxIJ6aPLbDOyg==;cbGcdxqQmcdS8qotFl2s/Q=="

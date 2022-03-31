@@ -2,6 +2,58 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2022-03-10-how-global-businesses-can-use-ai-translation-to-improve-productivity.md",
+      "title": "How Global Businesses Can Use AI Translation To Improve Productivity",
+      "excerpt": "Language barrier difficulties are already being successfully tackled by AI translators. Recent breakthroughs in the field of machine learning have helped translation evolve by leaps and bounds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/10/how-global-businesses-can-use-ai-translation-to-improve-productivity/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/10/how-global-businesses-can-use-ai-translation-to-improve-productivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/622905639ed56182bd2edc8a/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/10/how-global-businesses-can-use-ai-translation-to-improve-productivity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/10/how-global-businesses-can-use-ai-translation-to-improve-productivity/amp/",
+      "publishedDateTime": "2022-03-10T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-10-importance-of-document-processing-solutions-and-tools-in-business.md",
       "title": "Importance Of Document Processing Solutions And Tools In Business",
       "excerpt": "According to a Gartner news release, finance departments alone can save 25,000 hours of rework due to human errors at the cost of $878,000 per year for an enterprise with 40 full-time accounting personnel by implementing intelligent document processing solutions and tools.",
@@ -1126,58 +1178,6 @@
         "Facebook AI",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-10-hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live.md",
-      "title": "Hear how Snorkel AI pitched and won over Greylock on TechCrunch Live",
-      "excerpt": "Snorkel AI was founded in the summer of 2019 and over two quick years raised a total of $135.3 million in funding over five rounds. The rocket ship seemingly still has fuel, too. The company isn’t slowing down,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/09/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/",
-      "originalUrl": "https://techcrunch.com/2022/03/09/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/TCL-2022-03-09-featured-1920x1080-1-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/09/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/09/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/amp/",
-      "publishedDateTime": "2022-03-09T08:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

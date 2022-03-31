@@ -1,0 +1,68 @@
+---
+category: news
+title: "Artificial Intelligence (AI) In Genomics Market 2022: Future Outlook, Growth, Industry Analysis, Business Opportunities"
+excerpt: "In terms of revenue, artificial intelligence (AI) in genomics market was valued at US$ 458.21 Mn in 2021 growing at a CAGR"
+publishedDateTime: 2022-03-31T14:53:00Z
+originalUrl: "https://www.wicz.com/story/46197760/artificial-intelligence-ai-in-genomics-market-2022-future-outlook-growth-industry-analysis-business-opportunities"
+webUrl: "https://www.wicz.com/story/46197760/artificial-intelligence-ai-in-genomics-market-2022-future-outlook-growth-industry-analysis-business-opportunities"
+type: article
+quality: 30
+heat: -1
+published: false
+
+provider:
+  name: FOX 40 WICZ TV
+  domain: wicz.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://EINPRESSWIRE.images.worldnow.com/images/22441134_G.jpg?lastEditedDate=1648724002000"
+    width: 600
+    height: 400
+    isCached: true
+
+related:
+  - title: "AI in Computer Vision Market Opportunity Analysis and Industry Forecast worth $51.3 billion by 2026"
+    excerpt: "\"AI in Computer Vision Market\" AI in computer vision market size is projected to grow from USD 15.9 billion in 2021 to USD 51.3 billion by 2026, at a CAGR"
+    publishedDateTime: 2022-03-30T23:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-opportunity-analysis-and-industry-forecast-worth-51-3-billion-by-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 40
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/5993b720d9ef7071b8911094c233c01fc025ee40-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence for Defense Market- emerging trends, opportunities and forecast"
+    excerpt: "The research and analytics firm Datavagyanik released the updated version of its report on “Artificial Intelligence for Defense Market – Country"
+    publishedDateTime: 2022-03-28T16:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-for-defense-market-emerging-trends-opportunities-and-forecast"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 29
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/848dd933f2b95b10eb092743860d98932097e224-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "AI in Blockchain Market, Global Outlook and Forecast 2022-2028"
+    excerpt: "The global AI in Blockchain market was valued at million in 2021 and is projected to reach US$ million by 2028, at a CAGR of % during the forecast period. The U.S. Market is Estimated at $ Million in 2021,"
+    publishedDateTime: 2022-03-28T07:46:00Z
+    webUrl: "https://galleonnews.com/news/241686/ai-in-blockchain-market-global-outlook-and-forecast-2022-2028/"
+    type: article
+    provider:
+      name: Galleon News
+      domain: galleonnews.com
+    quality: 17
+
+secured: "xt7I8NFrg03tZHVUNz6DvTNVsoVKmOwl3qivAYPjFzUR0hxXFIKliHChooa+ZzLx26tO6SJXSvkgxheiQtbyi245PWPXWoB+g9KX2fw9aIzTIMH4A10bel4BedEbSQZPBFztnnUgbOkuUUH//ln8DV5IzdDDqP/xXSUK8HhGEIYW8mw/5DdSsidwNhWhAGpMtdpQ1cf+CbXqXbILBwaWgxHJPC+/czxVMpZ6dbJuwE81gu+DW1oG0Gok+16oZmTFbLEXH1q2Gpq1PtDgptv5hh0Y/Dn2GIXS+mzbMcc1zqB/4KR/66qn3PSzJDFKrLqDGiqPQc8ZGdEf/AdllAXODsOdQdAkqkofeRWm/54rMpE=;C7Y1l5vfgGTO09kyleTgLw=="
+---
+

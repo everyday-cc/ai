@@ -73,6 +73,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Intel Arc-A GPU offers full AV1 hardware acceleration"
+    excerpt: "Introduced as Intel’s solution for both gamers and content creators, the new Arc-A graphic products are, the company says, “more than another piece of hardware in your PC” they are “your portal to play and create” on PC."
+    publishedDateTime: 2022-03-31T16:31:00Z
+    webUrl: "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/"
+    ampWebUrl: "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/"
+    cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/"
+    type: article
+    provider:
+      name: provideocoalition.com
+      domain: provideocoalition.com
+    quality: 59
+    images:
+      - url: "https://www.provideocoalition.com/wp-content/uploads/intelarca000.jpg"
+        width: 1420
+        height: 946
+        isCached: true
   - title: "Intel Shows off the First Arc A-Series Desktop GPU; Slated to Release in Summer 2022"
     excerpt: "Intel has revealed its first Intel Arc desktop GPU, along with its A-series Arc Gaming GPUs for laptops. Here are the details to know."
     publishedDateTime: 2022-03-31T06:49:00Z

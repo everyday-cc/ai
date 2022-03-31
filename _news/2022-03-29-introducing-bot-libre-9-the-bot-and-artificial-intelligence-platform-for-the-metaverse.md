@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 864
         isCached: true
+  - title: "Israeli voice analysis firm plans to spin off metaverse-focused company"
+    excerpt: "After 22 years of an almost stealth-like corporate existence, an Israeli artificial intelligence firm is making more ripples in voice and emotion recognition."
+    publishedDateTime: 2022-03-31T16:49:00Z
+    webUrl: "https://www.biometricupdate.com/202203/israeli-voice-analysis-firm-plans-to-spin-off-metaverse-focused-company"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/04115533/voice-biometrics-smart-speakers.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "SsPXb22vHMFpWzitDSSXGSgMDAUjGTmwixeFz62ED75pld2QtLw5i6YDjUGBQtL0+zk+3DQSpIlDY7f26YaVFvzViWnYBXY0qkWI/FkFbUwCWEzrzj6mAwCp30dr/Bjt2LFy+opJmFNTIDC8y1pw2lIcjurwDiw3nF26nwmFon/St3VstxuANpVHCkh7LwHXKO7Y6mAqGJRkOmaPxqOIreYk3kppUAc6nv+7gejHDL9G+gXrmMyeREKp3N2QO5sIXiCxdtmF8jkl29unSjXfsZcelZmbZHWc+zKMjkjg5a3B1a0qM0aEk3CzdwGm6KM0qxaFNTKZwIDFK4JpiGkUgckqvQ+HcTPnvSbkVm1psGvNSKL9opaJ1eJknk82F43tDcU4nl7BUL8d7mZhYdFLUiEKoHrRLLqL6NOKlcDxbYX2CfZcOfz4i47/2p9Ij+OF+fa2UPyWwbqYsZpcOkj4uVHZG1u1seLrklKpruLjNKwt0zPXInBPLnUothymDtzTW/OX8td1edciV7VAAsyH2A==;8ROk9z12BTQXcMAH0x9+8Q=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 828
         height: 453
         isCached: true
+  - title: "B.C. resident amongst first group of drivers in Canada to receive Tesla's new self-driving software"
+    excerpt: "Tesla starting to roll out the beta version of its self-driving system to owners in Canada. The new software is a level two semi-autonomous, meaning the vehicle can drive itself with some assistance from the driver."
+    publishedDateTime: 2022-03-31T15:39:00Z
+    webUrl: "https://www.vancouverisawesome.com/bc-news/bc-resident-amongst-first-group-of-drivers-in-canada-to-receive-teslas-new-self-driving-software-5218157"
+    type: article
+    provider:
+      name: Vancouver Is Awesome
+      domain: vancouverisawesome.com
+    quality: 25
+    images:
+      - url: "https://www.vmcdn.ca/f/files/glaciermedia/images/getty-images/persondrivingcar.jpg;w=1200;h=800;mode=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kelowna resident amongst first group of drivers in Canada to receive Tesla's new self-driving software"
     excerpt: "Tesla starting to roll out the beta version of its self-driving system to owners in Canada. The new software is a level two semi-autonomous, meaning the vehicle can drive itself with some assistance from the driver."
     publishedDateTime: 2022-03-30T21:08:00Z

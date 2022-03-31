@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/metas-ai-luminary-lecun-explores-deep-lea
 ampWebUrl: "https://www.zdnet.com/google-amp/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/"
 type: article
-quality: 104
-heat: 104
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/d42df9d1daed1dad8a379ab0a69ec88a5d09e3a5/2022/03/31/602b7f95-1939-459f-b036-4776385ec5d2/lecun-splash-image.jpg?width=1200&fit=bounds&auto=webp"
@@ -30,6 +31,6 @@ images:
     height: 809
     isCached: true
 
-secured: "TqunW97/IBAT30rR0/BO3GlwKqEY801PHupVklFCC0SeJW/xKsPd2y+yQJO7yv2pDvBFOxBlK09RFMnCvWoJCvYjtfxjI9+hS+HvaJdJtB280bEwqOFTlKXQ8o10FDmFQQf11KxYTYQ4W+wKTCTs4Dg5XTZdfM+jC7UKYdYik0LlNQsw08NDvA1+tx0KhWEvliD1IV2dxKF2v2f5GlBZBDqPz7Jy9Fpe5i8jH7tU5kELxLpOWbLycHXdE4kUz7+nQn0etT2mnU7F52Ifgp8OrEe01KONmqK9dAy1KgPwZYo/8e6nZsphApaheTSh0B1SHaxelMc0XoWtUTHNJspjOaT/nWsdCP4V5/ptYa++ris=;ERE4XhFPxCZ/wmwp/SzOMg=="
+secured: "rO7ibx89SMZbaFfQuK20S7Kq4gH4gKXA5e9ny4JY95wbf6KbKb6dVresDhGKcTFWvUVwqTRCWZODT0F+idLkaVbI/XzeeIa4SPxldTegZ6WhpiVSWml5aCsRi7LB70ZqA8ELn9QIN41AXGltDV/oZ4EtCogSVhqgAvy+oVLI67yHnpkxdX7LOiuEinAg8nWD63YuzdNWnN0vKaqyH/VEwXc/XM/MTSMcGK7ZEcMyYnkyw1KT0ILc82ZYHjtIEqXMT3gJIxYPnguBFxk0PuXipVaeUsl23hMKMUrxqfMN2m773teMLZKOwlYtM6e3MKRNVCVkqjGiz1PyJn+w1x+hVuWFuddzFv9zUoVd0+BKpjAxTGzsY8MBiZoDJ50+gE1M0eCBTA//AMKEvPOruaGP3GUC/SFQKkZLNRLQNll/4JyDlTca/NgA45NtWnler0ynxPRaaNFXcygXz0EEGVnQw2Xx1Tgf557qgEVgvGdCPmdWgny2I/TLrebM3fdij67NnSVUtMaKEzZaBFg1dmA5Iw==;RrA8E9aK1VJPP6tjkT9AAQ=="
 ---
 

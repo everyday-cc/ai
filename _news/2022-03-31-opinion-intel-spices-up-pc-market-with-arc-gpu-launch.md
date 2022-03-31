@@ -61,6 +61,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Intel Arc-A GPU offers full AV1 hardware acceleration"
+    excerpt: "Introduced as Intel’s solution for both gamers and content creators, the new Arc-A graphic products are, the company says, “more than another piece of hardware in your PC” they are “your portal to play and create” on PC."
+    publishedDateTime: 2022-03-31T16:31:00Z
+    webUrl: "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/"
+    ampWebUrl: "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/"
+    cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/"
+    type: article
+    provider:
+      name: provideocoalition.com
+      domain: provideocoalition.com
+    quality: 59
+    images:
+      - url: "https://www.provideocoalition.com/wp-content/uploads/intelarca000.jpg"
+        width: 1420
+        height: 946
+        isCached: true
   - title: "Intel launches ARC and reveals full Alchemist GPU lineup for laptops"
     excerpt: "Intel reveals the full details surrounding its Arc Alchemist laptop GPU lineup and shows some gaming performance charts for the Arc 3 models."
     publishedDateTime: 2022-03-30T23:30:00Z

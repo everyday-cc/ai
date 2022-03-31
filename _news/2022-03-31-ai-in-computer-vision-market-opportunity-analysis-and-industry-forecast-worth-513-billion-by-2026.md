@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) In Genomics Market 2022: Future Outlook, Growth, Industry Analysis, Business Opportunities"
+    excerpt: "In terms of revenue, artificial intelligence (AI) in genomics market was valued at US$ 458.21 Mn in 2021 growing at a CAGR"
+    publishedDateTime: 2022-03-31T14:53:00Z
+    webUrl: "https://www.wicz.com/story/46197760/artificial-intelligence-ai-in-genomics-market-2022-future-outlook-growth-industry-analysis-business-opportunities"
+    type: article
+    provider:
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 30
+    images:
+      - url: "https://EINPRESSWIRE.images.worldnow.com/images/22441134_G.jpg?lastEditedDate=1648724002000"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Artificial Intelligence for Defense Market- emerging trends, opportunities and forecast"
     excerpt: "The research and analytics firm Datavagyanik released the updated version of its report on “Artificial Intelligence for Defense Market – Country"
     publishedDateTime: 2022-03-28T16:34:00Z

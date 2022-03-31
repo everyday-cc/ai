@@ -43,6 +43,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "'A ghost is driving the car' — my peaceful and productive experience in a Waymo self-driving van"
+    excerpt: "Riding in a self-driving van underscored the potential of autonomous vehicles, which some believe will be a multitrillion-dollar market for investors."
+    publishedDateTime: 2022-03-30T14:34:00Z
+    webUrl: "https://www.cnbc.com/2022/03/30/waymo-self-driving-experience-mostly-peaceful-and-productive.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/03/30/waymo-self-driving-experience-mostly-peaceful-and-productive.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/03/30/waymo-self-driving-experience-mostly-peaceful-and-productive.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 76
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107037293-IMG-9997.jpg?v=1648561728"
+        width: 4032
+        height: 3024
+        isCached: true
   - title: "Waymo’s self-driving ride-hailing service coming to San Francisco"
     excerpt: "The autonomous vehicle unit of Alphabet, Google’s parent company, said Wednesday that it started carrying employees in electric Jaguar I-Pace SUVs without human backup drivers. Previously the ..."
     publishedDateTime: 2022-03-30T15:21:00Z
@@ -90,6 +106,20 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi_com/6791648659153/2022/1/fb594ae25d0234df96e1fd796dd21fcc/v1.5/Waymo-to-test-autonomous-vehicles-in-San-Francisco.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "Waymo's self-driving cars no longer require a safety driver in San Francisco"
+    excerpt: "Waymo's self-driving cars have been providing lifts to Waymo employees in San Francisco since mid-2021, though always with a safety driver behind the wheel. Now the cars will star"
+    publishedDateTime: 2022-03-31T15:30:00Z
+    webUrl: "https://www.motorauthority.com/news/1135468_waymo-s-self-driving-cars-no-longer-require-a-safety-driver-in-san-francisco"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 36
+    images:
+      - url: "https://images.hgmsites.net/hug/waymo-self-driving-car-prototype-in-san-francisco-california_100834714_h.jpg"
+        width: 1920
+        height: 1194
         isCached: true
 
 secured: "cwl9EY1cZiOZIqACSFfMxwiut0HoLaL4hox6ISON25UUqGon4C1mBqWRh1k2kYxxo3FnGMChODi/dm4UZaPBRUlgQXSWrsw30p/ql4LStdzJDmd+wEXGgI4wm9Go0DfllLIgFNa364cxb726wM4WjAmbNK/JiG+EzHqq186N3IH2t6kpBxaDOvfZ461VPQmyDVKcFRXWP/Q6Z8XPCM3OqTRqfAfEtdEssKgFKJ2TJkt27OBxeGJNYvdD08H9PfeVT9KkqYdMz9MnQSM9Ro8etR+FqPPFPQZZVs6bECZVRvht8U0PsGxly5qjbYYfjdCMgTkwf28ChicqsVkOZ9c7+0omvgIxPJN8Wi03A0sFPKU=;ErUgUNfJQBLJRlYjaBORVQ=="
