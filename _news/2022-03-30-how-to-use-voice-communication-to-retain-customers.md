@@ -41,6 +41,20 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Why does conversational AI matter in the metaverse?"
+    excerpt: "NVIDIA said that Riva 2.0 has been integrated into TAO, a low code product for deployment and customisation of speech applications."
+    publishedDateTime: 2022-03-30T05:48:00Z
+    webUrl: "https://analyticsindiamag.com/why-does-conversational-ai-matter-in-the-metaverse/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/AIM-illustrations.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "Df/LjMUWRoqEBE4UgNb/dY9YfnZTizs5ZGVQFPta+dPVyYovI596VQSgUAM9HeWefiH1xi3yptD6h5SGD0LTnnxAJEolloSi2VFNcsPi+8h8V1+0k5iJg07HmcrW8hbGQxBfTWAEJE2YVtXGZWKAo1QFe1eduW36+yCCZjgm4+rjjtY5Ye+xrHKubkcxHnp3OekUWXycy5kyjyt0ZEVR3aUSrpiIktYuY2HqZo6W61ahoemDrHlQ2qU9iligEqqa0bvqx6SkpkFq7LCOoQUcQydRhzDzHIW4CDkjYqWQ7ufuzKNKeR20QPiIpuvVkxw4gYRjGuhzarxJknlm36P/75KudvhWSWRWMVByTtXXoBM=;FJRiz+XiinCpQFkrKbfRcg=="
 ---

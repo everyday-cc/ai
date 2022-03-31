@@ -209,6 +209,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Fintech's New Era: Profits, Perils and Limitless Potential"
+    excerpt: "In fact, it’s estimated that global banks have the potential to generate up to $1 trillion in additional value annually through AI technologies, according to McKinsey & Company. Related: The Rapid Growth Of Fintech: A Revolution In The Payments Industry If keeping ahead of the technological curve is paramount for a company in the fintech industry,"
+    publishedDateTime: 2022-03-30T20:43:00Z
+    webUrl: "https://www.timesunion.com/business/article/Fintech-s-New-Era-Profits-Perils-and-Limitless-17040789.php?IPID=Times-Union-jobs-entrepreneurship-river"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/24/77/75/22282050/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "10 Tech Companies Selected for 12th Annual FinTech Innovation Lab New York, Run by Accenture and Partnership Fund for New York City"
     excerpt: "Ten emerging technology companies have been selected to participate in the 2022 FinTech Innovation Lab New York, a 12-week program founded and run by Accenture (NYSE: ACN) and the Partnership Fund for New York City that helps early- and growth-stage fintechs accelerate product and business development through in-depth engagement with top financial services and venture capital executives."
     publishedDateTime: 2022-03-29T10:29:00Z

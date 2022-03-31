@@ -55,6 +55,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "South Korea’s KT debuts AI quarantine robots to fight virus disinfection"
+    excerpt: "KT, a South Korean company, launches another innovative robot designed for hotels and restaurants. This time it is announcing the arrival of its new AI Quarantine robot to help fight virus infections."
+    publishedDateTime: 2022-03-31T08:41:00Z
+    webUrl: "https://www.econotimes.com/South-Koreas-KT-debuts-AI-quarantine-robots-to-fight-virus-disinfection-1630451"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 53
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/2022033175c07e84673d7d807_th_1024x0.jpg"
+        width: 640
+        height: 420
+        isCached: true
 
 secured: "p6qZAx9Qtm0vu+nF8vTbwmrwW83BqxmfAQUZ1AFoRBSuby/K9tB/ys3C0ZU4qjTUTG7CAaslfX4LxpNI9O4ekB2za1BNtMMQg4o4Ww7GwHVKzbeuYUDJiHepTpjdgGQ/uMu8vuN2hTP2CqHTJArVlvtud16SE+QvLFNVtaJa4dp0++62G8Ll+zG42qisKeEf4sL1gx3qTcxAJ1icKMzKs/EioM6aabyxCI2pKFPf51DsfTe10y83hWdjxLK/zjtv0ALVpLXYSq7KoJPp/CIKNrbMnNMcYdB1lE4zcKm3EoYfcqBksVP55+WamAUMi9/6BAdHFRx6VB1WR51SdSPW1qGGlBeswRfB8lMaF7R16eU=;quAyvUosSweRTeE6ggz1FA=="
 ---

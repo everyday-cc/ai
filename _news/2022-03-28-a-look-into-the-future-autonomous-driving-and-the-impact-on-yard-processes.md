@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/look-future-autonomous-driving-impa
 webUrl: "https://www.linkedin.com/pulse/look-future-autonomous-driving-impact-yard-processes-"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "The future: AI prevents Dementia?"
+    excerpt: "The same technology used in self driving cars, smart assistants and disease mapping may also help to solve one of healthcare’s biggest problems—how to stave off dementia."
+    publishedDateTime: 2022-03-31T08:54:00Z
+    webUrl: "https://www.wafb.com/2022/03/31/future-ai-prevents-dementia/"
+    type: article
+    provider:
+      name: WAFB
+      domain: wafb.com
+    quality: 39
+    images:
+      - url: "https://gray-wafb-prod.cdn.arcpublishing.com/resizer/vNDVi7-8mGzOJWlYk4qum7RzuN8=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/L52MA6JOIJAATAFTBZSK4AVKQY.jpg"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "5L11NE9x6XdfXnlXO5+kV/ut61JqhwvoakXNTMOOh3zPB/+irrxr3McWoXhuAxFB7SjfjUxwFO/fJ0jFilGOuVZJTIWHFyl6m8m8zHq6eUbd58T8HlrdhJfeCIJNb6JUe0hjEZdtbUV74lhIz5V6AF0Mx4cx4xB1P/kq07QOdDh3sG1WCH10sGKYdz7Rgu7lLKmOGLXEqAicZMbf0T28xXwEguzyeaqYraTxmYfgB548NGiZSD7oUjDqEQrustpM/2Fdk5rynxZbJy7wWHhG541VE2UJOhoRXCZvlnptzCfLLrW/bxV0fEqap+DuSODWRyBOWC6Fwjmv7sdYCa2u2sFUw0HsG4gwFEMNAKUmtls=;QfizUJXPKcfEWjz69EIeJA=="
 ---

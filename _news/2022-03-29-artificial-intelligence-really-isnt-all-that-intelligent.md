@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3651357/artificial-intelligence-re
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.amp.html"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Reliable intelligence: the real smarts of the city"
+    excerpt: "Yet it remains a concept that’s hard to define, as the World Economic Forum found when it asked numerous experts and city technology officers what it meant and the value it delivered. From citizen-based intelligence to strengthening public trust to widgets designed to make life easier,"
+    publishedDateTime: 2022-03-31T06:30:00Z
+    webUrl: "https://techcentral.co.za/reliable-intelligence-the-real-smarts-of-the-city-atvprom/209455/"
+    ampWebUrl: "https://techcentral.co.za/reliable-intelligence-the-real-smarts-of-the-city-atvprom/209455/?amp=1"
+    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/reliable-intelligence-the-real-smarts-of-the-city-atvprom/209455/?amp=1"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 44
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/03/atvance-intellect-smart-cities-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
 
 secured: "9sfwrxNzK+5H5A2Z5Xx7M85IK57eqvlbghNboBxpdCNUVoXEAW5OgZpWFw9i851pJG8qJPgSsc+8iJx+VtR1oMfh6YdE5MPns0s2uCiKWzDJefro1I1pZF/FHCCMFaYegWvBGAIZofa147gvzRVni8ppJ2aBpNDp39ispvXjGo8CpFkP/4J918t4l8OPXcFZhEBFbSNGxKzJIoMu4a3w9uX9Bm5quHmp7eJz/vdooxanwgYBt52SSFBL7SwTFdxDu4+H+jAAy9gyatswecOTivWmsrEvnhYOAQcuI8rMlHvkqv24fXfoXyNwHH/p4j1AocDkg6+T+fL8lpmpPCLCtHX+MB3q0uPYg79eyiMjfihNichXcbFa3meTh47HmQROeU56RRYIZ96MIXiCZtPfWTJxdJQnHs18LRSEi73hwihPKxHaefknJejOvvGbj9QmY9U0/Hexsa9CewXB9aRHx9Sr0EN7oib3qSNjYq0JFSx4V4ajRv3vZ/O47lvWP/jsxvkXoIAzq/C3d3clsdSKUw==;QmKz5Y2JrLeLSdDVyrTDlQ=="
 ---

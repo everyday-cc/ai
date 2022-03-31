@@ -69,6 +69,29 @@ related:
         width: 800
         height: 520
         isCached: true
+  - title: "Synopsys launches pay-as-you-go chip design and verification tools on Azure"
+    excerpt: "Synopsys has picked Microsoft's Azure HBv3 cloud to offer pay-as-you-go on-line IC design and verification electronic design automation (EDA) tools, to be"
+    publishedDateTime: 2022-03-31T08:19:00Z
+    webUrl: "https://www.electronicsweekly.com/news/design/eda-and-ip/synopsys-launches-pay-go-chip-design-verification-tools-azure-2022-03/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 54
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/03/31092650/Synopsys-cloud2.jpg"
+        width: 810
+        height: 331
+        isCached: true
+  - title: "Microsoft launches Zulu translations"
+    excerpt: "Microsoft has added Zulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages across the entire Microsoft ecosystem of products and services."
+    publishedDateTime: 2022-03-31T09:22:00Z
+    webUrl: "https://it-online.co.za/2022/03/31/microsoft-launches-zulu-translations/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "wstarhyvIOlqR21hX7eWM5b62w6Q+h+vH+78654nMkOBlh8S0Gl/UJEhfbiha7S7WOSFyTuw1MtYuByNiSMIlwTlhsI6PcRgZztf3PRWDbNV7/Yypirk3L6ni/R3CrIVSOFO35Pwy9wWT3TekntvxTNa80pmWvFsZOt4uUzOawZxFIZ9ytX+u9gWeW5QWJz8HRRIOXOD1Cma8VBRgEmcbIKsLRxQ0gM2tXVYf70ZakyyhPiqSwKNWHJ/DXwHc8uwgzbGwR+tZ0xiAuW831PGZ5SCJLgI7qiyJJoMC+62AnYIeL0LmAElRdibTz4Yt500VADd2Qp+iG7xgnkgduxCCIgcoeULG1Cn9ankFExK3+qXxbXLZnnrH0SnEpfylDXzzZ/Ons4D72deDng2pN0nSeu2NuFhzhOAvtxNNotlD0bxXL4Pg8ESNObnWzZG9WPBW6WO9r68iAqed5bvYiv9YYLXeZRIf8CGr2OyeaQrjBah2P3gencsixO/J/Dr/Qh8ToOOrJsz9+DMPYepAeYARg==;vsTPfzM/4FZBSpQccq9TGA=="
 ---

@@ -2,6 +2,126 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-02-27-nasscom-coe-iot-ai-launches-third-edition-of-healthcare-innovation-challenge.md",
+      "title": "NASSCOM CoE- IOT & AI launches third edition of Healthcare Innovation Challenge",
+      "excerpt": "In this program, there is participation from hospitals, diagnostic chains, insurance players, pharma companies and government delegates, technology enterprises and deeptech start-ups",
+      "sourceUrl": null,
+      "webUrl": "https://www.expresshealthcare.in/news/nasscom-coe-iot-ai-launches-third-edition-of-healthcare-innovation-challenge/433791/",
+      "originalUrl": "https://www.expresshealthcare.in/news/nasscom-coe-iot-ai-launches-third-edition-of-healthcare-innovation-challenge/433791/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.expresshealthcare.in/wp-content/uploads/2022/02/27202523/98148b81-8f28-4b5c-a222-55b360195244.jpg",
+          "width": 750,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/nasscom-coe-iot-ai-launches-third-edition-of-healthcare-innovation-challenge/433791/",
+      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/nasscom-coe-iot-ai-launches-third-edition-of-healthcare-innovation-challenge/433791/",
+      "publishedDateTime": "2022-02-27T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "expresshealthcare",
+        "domain": "expresshealthcare.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-02-27-cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist.md",
+      "title": "Cheap Stocks To Buy Now? 5 Fintech Stocks For Your March Watchlist",
+      "excerpt": "Do You Have These 5 Fintech Stocks On Your List Going Into March 2022? Those who invested in fintech stocks have been on a roller coaster ride over the past few years. Many fintech companies skyrocketed during the pandemic due to the increasing adoption of their products and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist",
+      "originalUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist?amp",
+      "publishedDateTime": "2022-02-27T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-27-can-911-staff-shortages-be-alleviated-by-ai-technology.md",
+      "title": "Can 911 Staff Shortages Be Alleviated by AI Technology?",
+      "excerpt": "As government call centers grapple with the nationwide staffing shortage and an influx in demand, some are implementing artificial intelligence tools to improve wait times and accessibility for callers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.governing.com/work/can-911-staff-shortages-be-alleviated-by-ai-technology",
+      "originalUrl": "https://www.governing.com/work/can-911-staff-shortages-be-alleviated-by-ai-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/b50a7b2/2147483647/strip/true/crop/770x402+0+56/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd3%2Fca%2Fbb56bffc29ca615bbb2330a88b5c%2Fshutterstock-call-center-header.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.governing.com/work/can-911-staff-shortages-be-alleviated-by-ai-technology?_amp=true",
+      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/work/can-911-staff-shortages-be-alleviated-by-ai-technology?_amp=true",
+      "publishedDateTime": "2022-02-26T22:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Governing",
+        "domain": "governing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-02-27-muhc-uses-artificial-intelligence-to-train-neurosurgery-students.md",
       "title": "MUHC uses artificial intelligence to train neurosurgery students",
       "excerpt": "A new study from the Montreal Neurological Institute found that when it comes to teaching brain surgery, artificial intelligence (AI) performs better than real teachers.",
@@ -1022,144 +1142,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-intel-targets-edgy-5g-and-ai-with-new-chips-software.md",
-      "title": "Intel targets edgy 5G and AI with new chips, software",
-      "excerpt": "Intel has lifted the lid on new technologies for the edge and AI ahead of the Mobile World Congress conference including new Xeon D chips with integrated acceleration features and an updated OpenVINO toolkit for AI inferencing.",
-      "sourceUrl": null,
-      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/02/25/intel_xeon_d_openvino/",
-      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/02/25/intel_xeon_d_openvino/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/02/24/handout_intel_xeon_d_2700.jpg",
-          "width": 1920,
-          "height": 690,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/02/25/intel_xeon_d_openvino/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/25/intel_xeon_d_openvino/",
-      "publishedDateTime": "2022-02-25T06:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership.md",
-      "title": "The Strategic Building Blocks Of Ethical AI: Representation, Governance And Leadership",
-      "excerpt": "Consider three fundamental strategies needed to achieve fairness in AI development and use: executive leader readiness, representation of women and people of color and stakeholder governance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/amp/",
-      "publishedDateTime": "2022-02-25T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-facial-recognition-market-size-worth-1267bn-globally-by-2028-at-142-cagr-exclusive-report-by-the-insight-partners.md",
-      "title": "Facial Recognition Market Size Worth $12.67Bn, Globally, by 2028 at 14.2% CAGR - Exclusive Report by The Insight Partners",
-      "excerpt": "The Insight Partners published latest research study on \"Facial Recognition Market Forecast to 2028 - COVID-19 Impact and",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/02/n25834423/facial-recognition-market-size-worth-12-67bn-globally-by-2028-at-14-2-cagr-exclusive-report-by-the",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/n25834423/facial-recognition-market-size-worth-12-67bn-globally-by-2028-at-14-2-cagr-exclusive-report-by-the",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25834423",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25834423",
-      "publishedDateTime": "2022-02-25T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

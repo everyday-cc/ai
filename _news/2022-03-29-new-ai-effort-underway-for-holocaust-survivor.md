@@ -2,9 +2,9 @@
 category: news
 title: "New AI Effort Underway For Holocaust Survivor..."
 excerpt: "Watch \"a new artificial intelligence effort is underway to enable interactive conversations with holocaust survivors even after they die\", a video on CBSNews.com. View more videos and watch CBS News,"
-publishedDateTime: 2022-03-28T19:25:00Z
-originalUrl: "https://www.cbsnews.com/newyork/live/video/20220328192556-a-new-artificial-intelligence-effort-is-underway-to-enable-interactive-conversations-with-holocaust-survivors-even-after-they-die/"
-webUrl: "https://www.cbsnews.com/newyork/live/video/20220328192556-a-new-artificial-intelligence-effort-is-underway-to-enable-interactive-conversations-with-holocaust-survivors-even-after-they-die/"
+publishedDateTime: 2022-03-28T20:25:00Z
+originalUrl: "https://www.cbsnews.com/newyork/live/video/20220328202558-a-new-artificial-intelligence-effort-is-underway-to-enable-interactive-conversations-with-holocaust-survivors-even-after-they-die/"
+webUrl: "https://www.cbsnews.com/newyork/live/video/20220328202558-a-new-artificial-intelligence-effort-is-underway-to-enable-interactive-conversations-with-holocaust-survivors-even-after-they-die/"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "dUXh16k8H0W7q8FARQKxVq3xcy+ygbBRgux+3zZoZlCgnzYy3mARttDY+EGaLZFNxqwjUqFca3NTFgx82GWtRKSFGSvX6qx3S+xKzmuHd2/pk7r15onbF5Zjg07RwLajVtm35f4/BXJaKSXm4dTrZPa8aZY09ro0BMQQ23nIslwZ+4p515Q7dn/gocHQYAPWvogLR6p2pUlwXbI4GQ5uzidUvytfZwNhyxywHDBwan/CItMfjgo4c7OzudKpSpqHHX8PoRqRet2QL2SIpMHpcuE5E1NYKkd8SCsfd1Yq9O3SjZJfCW+b2dsNxaFwV4gZ4mYOL1WIyutVGr+9ZKLpZ/kBoJ/bK1Tich8s0buzJK0=;K1XuwE6+eeBB4lWw+QgDQw=="
+secured: "obcJiBbYgrP5yCcneZR158xIgLgWofRBqvN4oxtxOa5MuGuM6XTI+XXU1fMzCdUa+C/0VemmHXqy4ejv8Pt1cwdqM/LJF4Dlk+eGKFuIB8w7u3D+aRxolCtXr+X/txP1vMQAcGIkFXX9aSAInK5rTdSNwx2pAYnsVEilh5nrcFS/iYb/9Ss9MmZV3urA3CP+/KW9CgK22aKtvzn02A5RORsjoAGi/AlEeMbqhDdZqE5d/LLDbJzbpkk4c+wWMy2U4BN/4OgfQ/YVxg2Iaz2RHgn7+D9/lNmBhtkl/nQVz6mNQOfcb6+wUGFSchaX2wcKExUuqbNRhML49mF/s8eTFFIutGoXXn8tDeyn6H3gFBo=;pkOgF1kqlbR90bt8LxHgeg=="
 ---
 

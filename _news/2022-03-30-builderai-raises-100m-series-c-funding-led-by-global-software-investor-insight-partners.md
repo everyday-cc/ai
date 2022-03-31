@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Builder.ai Raises $100M Series C Funding Led by Global Software Investor Insight Partners"
-excerpt: "Builder.ai ® today announced an investment of $100 million in a Series C funding round led by Insight Partners, a New York-based global venture capital and private equity firm. The round, which brings the company’s total funding to $195 million across three total rounds,"
-publishedDateTime: 2022-03-30T09:01:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-software-london-9671bbe31dc579ba189380fa2b9f0b9e"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-software-london-9671bbe31dc579ba189380fa2b9f0b9e"
+excerpt: "Builder.ai® today announced an investment of $100 million in a Series C funding round led by Insight Partners, a New York-based global venture capital and private equity firm. The round, which brings the company's total funding to $195 million across three total rounds,"
+publishedDateTime: 2022-03-30T09:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/builder-ai-raises-100m-series-c-funding-led-by-global-software-investor-insight-partners-1031317964"
+webUrl: "https://markets.businessinsider.com/news/stocks/builder-ai-raises-100m-series-c-funding-led-by-global-software-investor-insight-partners-1031317964"
 type: article
-quality: 28
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Builder.ai raises $100M Series C led by Insight Partners to scale up its software automation"
@@ -69,6 +67,6 @@ related:
         height: 400
         isCached: true
 
-secured: "Lzgviw71QBXDnwnVoz3qhhxnW24fTakvJ7rUUdnfnWs5Z8YBplk5Ae0nGpB7YhgiVMFCabOI3R7czJiCXUlw870fdE8qOvxvisJv7eJIZtFIL0HMKfmasXn28+RnKuhjmtxN6Knwi+n7CWPWsBKd7CM2iT3HZT3yt4sWbNnJBI4todSAY01k8oz0oySLbP7ier3lGq5kOP8jn5lAZMe9vSaav81j6J0lVuwhGDdjphEwfDm9cDDr3d8ve5HUgb5KStr0QVPvtZOQKnsK9nMQEFcdKdEh3G7dzKIv1rIY15QC7EfAJtzJypi2dIeX/Cb/L3tEV72lpk2iFjgJCkvP+kCn8lJ+kFgk4Qo1CrP5UXo=;Zq8LVb4T05OiJlHLwHNnUg=="
+secured: "u5/QyfkEL2gcXK9hjxhTrwLWrT69IcQnEg+ll6oZ3donPvevn7Cp6HYncFfzmFIkdZYWXP6XkjcVLeJu1/71wQ3wJZV1oOclyVAmqMDX7OJyIV/65Dbejoff/O8WrDImLZqANXeIY7rMZLLkxGN+CSV1ht0lIXNGchNMxj2JvecoLyN5bDteNGCC1YYkQ0n9FH9LyiIu0uBt2fA0Y9G/3ZvdQo4oXV6bWdgOUx5FDofcdQ5MMlLt48keIUojLSYBg5VfvfuDNiKGINTpwsNa8mU+WUMOzeDcdeRKTHMgYfD5pz6Gt6Ki72CcHXYT1z+lKFf0fpMir3lHBBRQu2xbYJanY1U8QF4ZyOC3cZvkks+WAG+JWyo9KruLyjThzta/GiKEC5Hy5YOmHjD53ameye2Pj7bMGSQdb6ddEbSNWz48vd5pJ2unOPJrAoWQzQpwuMHiVzuzsFohsXxCb3OWfg3MPO7RHC24L4ImuRSHPL2vDWTUVZ7KUmFYVlpUWy/BKS0/iSc/zSrWhCne0FOamg==;7j0Mh/uTTU7vmrq36zO1DQ=="
 ---
 

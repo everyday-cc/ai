@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/technology/2022/03/29/darpa-artific
 webUrl: "https://www.washingtonpost.com/technology/2022/03/29/darpa-artificial-intelligence-battlefield-medical-decisions/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Ten Commandments For Using AI In Hiring Decisions"
-    excerpt: "Want to avoid a Great Resignation-type mass exodus of your workers? Want to win the war for talent in the automation age? Want to treat your fellow workers with the dignity we all deserve? Embrace the Ten Commandments in your organization now."
-    publishedDateTime: 2022-03-26T16:49:00Z
-    webUrl: "https://www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/"
-    ampWebUrl: "https://www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/amp/"
+  - title: "AI on its way to replacing humans in hypersonic weapon design"
+    excerpt: "The hypersonic missile is really such an example, where A.I. begins to take the wheel. This could lead to a \"Terminator\" style scenario of A.I. taking over control of critical military decision making thereby becoming an existential risk."
+    publishedDateTime: 2022-03-28T12:05:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-its-way-replacing-humans-hypersonic-weapon-design-spencer-"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/623f3fae815938bb87ae6396/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 842
-        isCached: true
-  - title: "Machine Learning and Artificial Intelligence are Driving Recruitment Innovation"
-    excerpt: "Experts say that artificial intelligence and machine learning recruitment and onboarding solutions are seeing a huge increase in demand."
-    publishedDateTime: 2022-03-28T15:25:00Z
-    webUrl: "https://nearshoreamericas.com/machine-learning-and-artificial-intelligence-are-driving-recruitment-innovation/"
-    type: article
-    provider:
-      name: Nearshore Americas
-      domain: nearshoreamericas.com
-    quality: 50
-    images:
-      - url: "https://nearshoreamericas.com/wp-content/uploads/2022/03/machine-learning.jpeg"
-        width: 1920
-        height: 1280
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHIjgVgvMGgyA/article-cover_image-shrink_720_1280/0/1648468260711?e=1654128000&v=beta&t=JfmN8DfPd0ZZbpF9XZwHng_PNhqF3Hh-e0HwkdZsoos"
+        width: 1195
+        height: 720
         isCached: true
   - title: "The military wants AI to replace human decision-making in battle"
     excerpt: "Through a new program, called In the Moment, the Defense Advanced Research Projects Agency (DARPA) wants to develop technology that would make quick decisions in stressful situations using algorithms and data,"

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-31-are-we-ready-to-transform-lives-with-ai.md",
+      "title": "Are We Ready To Transform Lives With AI?",
+      "excerpt": "AI has paved the way for dynamic changes at the workplace and in personal life, by automating a host of processes and activities",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/423551",
+      "originalUrl": "https://www.entrepreneur.com/article/423551",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1648708439-Myproject141.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T23:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-waymo-expands-self-driving-car-trials-to-san-francisco.md",
       "title": "Waymo Expands Self-Driving Car Trials to San Francisco",
       "excerpt": "Way-mo, way-mo, off to work they go. Waymo employees in San Francisco will be able to catch a ride to work from its fleet of self-driving, all-electric Jaguar I-PACE cars.",
@@ -157,7 +210,7 @@
       "originalUrl": "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1365,49 +1418,6 @@
       "provider": {
         "name": "Pew Research Center",
         "domain": "pewresearch.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-matlab-expands-to-reach-self-driving-wireless-markets.md",
-      "title": "MATLAB expands to reach self-driving, wireless markets",
-      "excerpt": "MathWorks, maker of the long-standing MATLAB suite, is focusing its latest software updates on reaching beyond its traditional scientific base and eyeing up autonomous vehicle developers, makers of devices with wireless communications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/03/16/matlab_update_markets/",
-      "originalUrl": "https://www.theregister.com/2022/03/16/matlab_update_markets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/03/31/driving.jpg",
-          "width": 1000,
-          "height": 475,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/16/matlab_update_markets/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/16/matlab_update_markets/",
-      "publishedDateTime": "2022-03-16T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
         "images": null,
         "publishers": null,
         "authors": null

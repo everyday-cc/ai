@@ -1,0 +1,49 @@
+---
+category: news
+title: "Reliable intelligence: the real smarts of the city"
+excerpt: "Yet it remains a concept that’s hard to define, as the World Economic Forum found when it asked numerous experts and city technology officers what it meant and the value it delivered. From citizen-based intelligence to strengthening public trust to widgets designed to make life easier,"
+publishedDateTime: 2022-03-31T06:30:00Z
+originalUrl: "https://techcentral.co.za/reliable-intelligence-the-real-smarts-of-the-city-atvprom/209455/"
+webUrl: "https://techcentral.co.za/reliable-intelligence-the-real-smarts-of-the-city-atvprom/209455/"
+ampWebUrl: "https://techcentral.co.za/reliable-intelligence-the-real-smarts-of-the-city-atvprom/209455/?amp=1"
+cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/reliable-intelligence-the-real-smarts-of-the-city-atvprom/209455/?amp=1"
+type: article
+quality: 44
+heat: -1
+published: false
+
+provider:
+  name: TechCentral
+  domain: techcentral.co.za
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://techcentral.co.za/wp-content/uploads/2022/03/atvance-intellect-smart-cities-1500-800.jpg"
+    width: 1500
+    height: 800
+    isCached: true
+
+related:
+  - title: "Artificial intelligence really isn’t all that intelligent"
+    excerpt: "Narrow AI applications such as Google Search and Amazon Alexa are great at solving specific problems, but only as long as you stick to the script."
+    publishedDateTime: 2022-03-29T10:04:00Z
+    webUrl: "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.html"
+    ampWebUrl: "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 91
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_automation_thinkstock_643956998-100749919-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "BBA9OaU4m/TU/d1unVqBvnxgwvVDaysheF+g3tMB1wb5m5ioEeihodAWjYpCW6xaRLU8DjuvEPCtv3p+xQxKm3wTdORfgXoLisRg8ggPGr/v/4XXqRVOPc2CEiYiPYaL5ZQhgLzlx0xcBM+8GVw2wSwmvRb17B2yrRoVi3jb4lqTIsnUBBW4jVgO+bRTf2xfjQkJq1Wh25eZJXDIkoVze7pcEgCsj1Yt4qIEMVFiEhGPORVRUaapP076iV+BBzZD60j96zaobdJAuk/GRiQtA2YnDNUDSQ8vOnlJFC0ABieG0B/J0fl8o2r8s/jntQ3tzXIYbkUet1iIMMrrxzNE63MG8c+hiDxp5UoESpN4bIs=;ZMcaLc6WiwaNsnJVJrnQjQ=="
+---
+

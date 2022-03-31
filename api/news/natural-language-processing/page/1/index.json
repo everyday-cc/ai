@@ -106,7 +106,7 @@
       "originalUrl": "https://www.globalbankingandfinance.com/how-speech-recognition-and-ai-are-fighting-insurance-fraud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -497,6 +497,49 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-26-insider-qa-ex-google-ai-skeptic-timnit-gebru-starts-anew.md",
+      "title": "Insider Q&A: Ex-Google AI skeptic Timnit Gebru starts anew",
+      "excerpt": "When she co-led Google's Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry's approach to artificial intelligence. That was before Google pushed her out of the company more than a year ago.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/79cd13b50b51452d29963490b96815bd",
+      "originalUrl": "https://apnews.com/79cd13b50b51452d29963490b96815bd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/3aa9eaa491ab41348e46ce734ce58463/3000.jpeg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-26T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1439,49 +1482,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-slatorcon-remote-makes-a-bullish-case-for-the-language-industry.md",
-      "title": "SlatorCon Remote Makes a Bullish Case for the Language Industry",
-      "excerpt": "SlatorCon Remote March 2022 was the biggest ever. Over 550 delegates tuned in from opposite sides of the globe for Session I: Australia & Asia-Pacific and Session II: Americas & Europe. A third logged on from the Americas,",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/slatorcon-remote-makes-a-bullish-case-for-the-language-industry/",
-      "originalUrl": "https://slator.com/slatorcon-remote-makes-a-bullish-case-for-the-language-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2022/03/SlatorCon-Remote-March-2022-Highlights-from-Localization-Conference.png",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

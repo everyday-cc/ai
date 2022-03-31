@@ -2,6 +2,162 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-03-21-why-ai-is-harder-than-we-think-human-intelligence-vs-machine-intelligence.md",
+      "title": "Why AI is Harder Than We Think - Human Intelligence vs Machine Intelligence",
+      "excerpt": "Melanie Mitchell wrote a paper titled \"Why AI is Harder Than We Think\" almost a year back. My observation is very similar, it is hard problem to crack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/why-ai-harder-than-we-think-human-intelligence-vs-machine-m-a",
+      "originalUrl": "https://www.linkedin.com/pulse/why-ai-harder-than-we-think-human-intelligence-vs-machine-m-a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQHR-AdLzu4Uaw/article-cover_image-shrink_600_2000/0/1647870433150?e=1653523200&v=beta&t=0mBOXeajSXYBsfM6FkX8ZnFr_MTHX0fMT-BD51c6_r4",
+          "width": 877,
+          "height": 523,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-21T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-21-are-there-any-risks-in-using-artificial-intelligence-to-grow-food.md",
+      "title": "Are there any risks in Using Artificial Intelligence to Grow Food?",
+      "excerpt": "It's no longer news that the world is changing rapidly and technology is the major driving force, causing major disruptions and changing what value means across different sectors and the food agricultural sector is not left out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/any-risks-using-artificial-intelligence-grow-food-nicholas-alifa",
+      "originalUrl": "https://www.linkedin.com/pulse/any-risks-using-artificial-intelligence-grow-food-nicholas-alifa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGoJvDx1Y6bWQ/article-cover_image-shrink_720_1280/0/1639399952851?e=1654128000&v=beta&t=Rb1ZJp2nNA_HtB4nbyknNjmLyMLmLlCjhlYec0_SLps",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-21T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-21-metas-yann-lecun-strives-for-human-level-ai.md",
+      "title": "Meta’s Yann LeCun strives for human-level AI",
+      "excerpt": "LeCun believes that deep learning and artificial neural networks will play a big role in the future of AI. More specifically, he advocates for self-supervised learning, a branch of ML that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/21/metas-yann-lecun-strives-for-human-level-ai/",
+      "originalUrl": "https://venturebeat.com/2022/03/21/metas-yann-lecun-strives-for-human-level-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1284279630-e1647617169803.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/21/metas-yann-lecun-strives-for-human-level-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/21/metas-yann-lecun-strives-for-human-level-ai/amp/",
+      "publishedDateTime": "2022-03-21T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-21-ai-robots-for-the-elderly-mean-well-but-raise-ethical-issues.md",
       "title": "AI Robots for the Elderly Mean Well, but Raise Ethical Issues",
       "excerpt": "AI robots are increasingly being used to supplement care for the elderly, but experts warn they'll never replace human companionship.",
@@ -1028,145 +1184,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-19-upstart-presents-free-webinar-on-leveraging-ai-and-fintech-partnerships.md",
-      "title": "Upstart presents free webinar on leveraging AI and fintech partnerships!",
-      "excerpt": "Upstart is partnering with AgFed to bring you a free webinar this Wednesday, on how credit unions can leverage AI and fintech partnerships to expand into new product lines and grow their membership. This virtual event features Jeff Keltner,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cuinsight.com/press-release/upstart-presents-free-webinar-on-leveraging-ai-and-fintech-partnerships/",
-      "originalUrl": "https://www.cuinsight.com/press-release/upstart-presents-free-webinar-on-leveraging-ai-and-fintech-partnerships/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png",
-          "width": 792,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T15:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Credit Union Insight",
-        "domain": "cuinsight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-19-artificial-intelligence-in-drug-discovery-9.md",
-      "title": "Artificial Intelligence in Drug Discovery #9",
-      "excerpt": "In this week’s news digest, we are reviewing advancements by Deepcell, Zephyr AI, Exscientia, Creyon Bio, VAXIMM, DNAnexus, Lantern Pharma, OccamzRazor, Mytide Therapeutics, and other companies. Artif",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-biopharma-9-andrii-buvailo-",
-      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-biopharma-9-andrii-buvailo-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHKvxc1UeQHuw/article-cover_image-shrink_720_1280/0/1647603683019?e=1653523200&v=beta&t=oPb-3wimv2ARkmr98FVn1dp6StFCZNSx1LqCLAt3qYQ",
-          "width": 1123,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-19-trueface-clarifai-join-data-ethics-consortium-for-security.md",
-      "title": "Trueface, Clarifai join Data Ethics Consortium for Security",
-      "excerpt": "DECS is an organization focusing on aiding developers and policymakers to ensure artificial intelligence and machine learning tools are deployed safely.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202203/trueface-clarifai-join-data-ethics-consortium-for-security",
-      "originalUrl": "https://www.biometricupdate.com/202203/trueface-clarifai-join-data-ethics-consortium-for-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg",
-          "width": 2048,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

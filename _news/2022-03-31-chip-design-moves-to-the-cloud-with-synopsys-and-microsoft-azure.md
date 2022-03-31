@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/amp/"
 type: article
 quality: 121
-heat: 151
+heat: 171
 published: true
 
 provider:
@@ -64,6 +64,20 @@ related:
         width: 800
         height: 520
         isCached: true
+  - title: "Synopsys launches pay-as-you-go chip design and verification tools on Azure"
+    excerpt: "Synopsys has picked Microsoft's Azure HBv3 cloud to offer pay-as-you-go on-line IC design and verification electronic design automation (EDA) tools, to be"
+    publishedDateTime: 2022-03-31T08:19:00Z
+    webUrl: "https://www.electronicsweekly.com/news/design/eda-and-ip/synopsys-launches-pay-go-chip-design-verification-tools-azure-2022-03/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 54
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/03/31092650/Synopsys-cloud2.jpg"
+        width: 810
+        height: 331
+        isCached: true
   - title: "Microsoft Translator launches Zulu"
     excerpt: "Microsoft has added Zulu to its Microsoft Azure Cognitive Services Translator. This enables text and documents to be translated to and from one of South Africa’s official languages across the entire Microsoft ecosystem of products and services,"
     publishedDateTime: 2022-03-31T07:41:00Z
@@ -75,6 +89,15 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
+  - title: "Microsoft launches Zulu translations"
+    excerpt: "Microsoft has added Zulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages across the entire Microsoft ecosystem of products and services."
+    publishedDateTime: 2022-03-31T09:22:00Z
+    webUrl: "https://it-online.co.za/2022/03/31/microsoft-launches-zulu-translations/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "hRv61nsVUnp4SSCrjJatkSfIkPpjvXQFjxzorEmmYWWUrFa+bTY19tA7vtXlyomHhar1ghucC11t0UhMBKMaD5CrIHhCQET0xIyEEH9wURP468x5lyrpEqK5poqDdOWHYn8Zh/vx+sKrBoj6C4/Ese9K9ulZ9Vb2pFqKg5Jyl9m1mzbe/ybO28zK7+tXxChy2EAUzMop5TxihiiFTMMrxO8eJGErMXv+5xGYiZXSQC127xbd3pNoNfZBaIGHrCRLRVqdwWKTGr7vRyaJpbf+tbD9jw1NLub2qOz+rlnUrFiU36f1oOLKs1yUVi6XcuF3U/1On1Q/WZyRhslWbbAIi0faIJbRLtxwKFxrpRw901zSJRU/rLQqvCdiaNQnu15lDgXPl2d7al2nJyrPKzlbRzew1KRuh9G1f/pBqwW/JPqcHXqi6YG9PToNJEINMkkixTmywclDZOeDyD9BozEq+RIFaIh6ADk/rYm16BSiYrkupegipMtxX1PFEILwQWa2Ca+s446nUwUUyW9vTyjowQ==;ZIO6dvqMN3mFBFXmatrz1g=="
 ---

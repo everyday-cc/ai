@@ -2,26 +2,26 @@
 category: news
 title: "Panel calls for tougher rules on facial recognition"
 excerpt: "A state commission is recommending strict new limits on the use of facial recognition technology by law enforcement officials and a requirement that judges issue probable cause warrants"
-publishedDateTime: 2022-03-30T22:00:00Z
-originalUrl: "https://www.eagletribune.com/news/panel-calls-for-tougher-rules-on-facial-recognition/article_2859ed7e-b028-11ec-81ad-4b03c4b50f1e.html"
-webUrl: "https://www.eagletribune.com/news/panel-calls-for-tougher-rules-on-facial-recognition/article_2859ed7e-b028-11ec-81ad-4b03c4b50f1e.html"
+publishedDateTime: 2022-03-31T08:00:00Z
+originalUrl: "https://www.gloucestertimes.com/news/panel-calls-for-tougher-rules-on-facial-recognition/article_2175c9f0-b074-11ec-bac9-630277a2c86f.html"
+webUrl: "https://www.gloucestertimes.com/news/panel-calls-for-tougher-rules-on-facial-recognition/article_2175c9f0-b074-11ec-bac9-630277a2c86f.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Gloucester Daily Times
+  domain: gloucestertimes.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
+  - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg?resize=600%2C315"
     width: 600
-    height: 333
+    height: 315
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "v1Yg6M6na0xV7jqXrkQvcS8a742IGAoQ9qcH/2BY+K5BvZkphPtnOpNmCiszf1dlK3xbGAXnAZBm6OhfPs4yYJcvTfvZwsA3wqQ6MZqz09EwK0EPRQWvKAVDqt6UJBLdihtWkMKrMa9aQBrh0ZYDPIm4pxd29/hAgunfnj+fRUgzsG7J1shsC5MezlcaaNPL9qg3Tl6ixg91IjuP582/xilGzZjRvFdeyIczVAtBI63Vv9Ni02tGNJPOjZCBcWk5ucOkRAe9Jj2nMb4BYkbMok14BnjX0Rq55otjPXbMF26OgUs1fAeLostUy8qeEwAVLSG32SJfO7ZVgmCWjV3AhILuzgoar0/64lz1jKTfBeOZxuA2W/iahgkzS2wh05giPFIhflstrhAWyGIaIjLzGZz6k+w/DIcoPO4XS7XVmSrma1OSo0/evT+6ZqB6WDHK3tLDjKi2luYRMHiOlVHGkTPsBJ7RC6Dk9BBq7SOadB6862M6E/YmQq11nv+dH3v3edC6o2bRxXvfS3rT8ZVeXQ==;/pNV+QapptAutD6oUkL0iw=="
+secured: "3x7b1TRU/3h75tbFqLAjoPAp0geZzraWIVPBR8o42v2J6QS752uSpQakwpI0aX3aNsBybcsKC5BeNj4lsGT5WtdapxSxO8ogeG6WQcqpSeen6hGamNZGot0BpY34/qQHMe5tx5dWxfTzjzT7tX1tgDk+u7CgCmVt6ED7aTQCXii76IVhduZpU6prCzQBiElolRZif2XiZt5W0wfaoyuJzh44A+yA765Ul+9xDySd1Uy/VFzPBonPVan36Pj4StUd3aCSwQaTlrAQ7VzV6aOtG97UNHVoWQ3ZQCs1jdFPKId5KM9zz8rpcvLE/+9AsJxvnnHphxZDQubu3lm/1rzlJjTSGoQfkZv8FPGqLM0b8BQ=;oKkAqBXNkz24XQRRpry7kA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/how-8x8-uses-conversational-ai-to-im
 webUrl: "https://www.zdnet.com/article/how-8x8-uses-conversational-ai-to-improve-customer-employee-dialogues/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://cdn.benzinga.com/files/andre-francois-mckenzie-jrjhtbj-pgu-unsplash_1.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Why does conversational AI matter in the metaverse?"
+    excerpt: "NVIDIA said that Riva 2.0 has been integrated into TAO, a low code product for deployment and customisation of speech applications."
+    publishedDateTime: 2022-03-30T05:48:00Z
+    webUrl: "https://analyticsindiamag.com/why-does-conversational-ai-matter-in-the-metaverse/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/AIM-illustrations.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "lYlYjA0340rrNIaByeethgGXPBRjkZp8JPyh+RllqBDedOUwez236f9wTNwuvnzTJv8zpBDYLnrkBvrjewUXKLXoBwiFsIxEOHdx/9MyM87TI274LGV6aBbMTu8bseyp1vpz+GkOVHfgIT+DuHMADDJjHiLEbtkrL4JldQ0kFq19j3KD6JNCEcdy2BmrpXxwtId++Ye/FWL6xIzx9l9WEboi9acj/Z+FFWrgQOiI+m11g90r+1Him1SWcFajAVGfA0v7GhsSQ6hE2OrBax1t2JQxZQ4zANwh+Kmg6FgpWKEolz+85uSHYDXScqdmmdutQvtJl+FAZzvILhuaVdLIJ8R2WrCLtOJS9dOn6VkTRMdflJ9rnOoSkh02Ik1/VzXpm2gXow5EBeqNTadfnnVd3vex5WdHTBxeaMrdPZ2WhnnigM93TvqnlNyMlHxAtxk9qWNJyI2bxRXQBqNiUs7CVoJa0EcgPO5mqzcuabzRJVg1LTChd+ZuwfGauhhiqY+bEqkPa9OnSACtEub9Vtu/Fg==;l8h57aDAD88oz6ily9e3AA=="

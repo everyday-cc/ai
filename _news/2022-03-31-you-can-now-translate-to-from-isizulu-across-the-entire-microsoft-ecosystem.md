@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "Synopsys launches pay-as-you-go chip design and verification tools on Azure"
+    excerpt: "Synopsys has picked Microsoft's Azure HBv3 cloud to offer pay-as-you-go on-line IC design and verification electronic design automation (EDA) tools, to be"
+    publishedDateTime: 2022-03-31T08:19:00Z
+    webUrl: "https://www.electronicsweekly.com/news/design/eda-and-ip/synopsys-launches-pay-go-chip-design-verification-tools-azure-2022-03/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 54
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/03/31092650/Synopsys-cloud2.jpg"
+        width: 810
+        height: 331
+        isCached: true
   - title: "Microsoft Translator launches Zulu"
     excerpt: "Microsoft has added Zulu to its Microsoft Azure Cognitive Services Translator. This enables text and documents to be translated to and from one of South Africa’s official languages across the entire Microsoft ecosystem of products and services,"
     publishedDateTime: 2022-03-31T07:41:00Z
@@ -71,7 +85,16 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
+  - title: "Microsoft launches Zulu translations"
+    excerpt: "Microsoft has added Zulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages across the entire Microsoft ecosystem of products and services."
+    publishedDateTime: 2022-03-31T09:22:00Z
+    webUrl: "https://it-online.co.za/2022/03/31/microsoft-launches-zulu-translations/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
-secured: "ldm45w6dgzVlGRUmcIi6S11dgCjdprulGp1m2wwbEVqc+Vqf6yXbUCH///CRtUkDWmCEyTmc1T1CG9/rw48utlAi2WhACoZn/u+tSH8TKF00Ee/2D6mKSqwtg6im1c14ktypi6nmJmDLRRqejGMIYPAzdMyYgTdWMeoj7x82L6YEEr/+86nejadLr7u9/dxmxQ3HvqAWxybOixOl3Wfv6o8o4miTMJgyaTnriRrTV5bf4Xb4hhnxkbY2yuLl5H6UHpcelNSRg1UFtZ+h+Fhwzgz6uh/DPMzoTW73C1X/PMcTKhXMRbkebZBl4TGYgAwZ3mJ7I33D5jq2OydrvZ7xg5Pqq3m90+IpjcUvsiG61nQ=;qEtBhuuqsTApJbSvLoUTXA=="
+secured: "Wv/hBRmc4bisnjSSfnGKwrY1XJ8DMMh02jOKuJf96NZAhTDlwyZtsHYw1nruN4CViuiBjURBkCIiAAtIhFU90KET7qfBHMdUOXWwRttLeqeotlD6Avfom8HBSjswY1T4AdH8hR/9xyl6A3/v4EbSYYGh25gIzkYD6DhcQToGMvggaD5rctmise2NPoIJ93ZZXNAVSoMit4CxkD6+Icd2FuaOVnVQVLjMhyt4T1NyMW92xKuKH2QAGi5wBdDcLCuzaGtPj3X5kwTCBEEjA+F7i6DYjdGSjzl6B8tG4hItj510ORJKKuwRzDia5J6PB+0kZ/kP7Humfh71jaBvFubi7Vx6Cube5eWikd4/UQ9POne8iZ1QIRv19/TF1YoI9yNW+sQT97w6BxR56WFO3csDDibuAJZF+/nSeOAcjTVH8rdAjcTTq5WtGcY793enLOyy9l8WG8DHOSNpeQDGIDWb6PcPquYDAv3kz2FkJHTHF8UmkWUy8QsvkifO8fA3O+GiQ7skRI/bdouOglvwKPkx/g==;nKsPvurLuwM1GqvgcYRwsw=="
 ---
 
