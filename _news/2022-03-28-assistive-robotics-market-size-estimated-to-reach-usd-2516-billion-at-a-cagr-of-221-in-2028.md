@@ -39,6 +39,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Robotics Prosthetic market is expected to grow at a CAGR of 8.2% – An exclusive market research report by Lucintel"
+    excerpt: "\"Trends and Forecast for the Global Robotics Prosthetic Market\"Trends, opportunities and forecast in robotics prosthetic market to 2024 by technology"
+    publishedDateTime: 2022-03-30T23:45:00Z
+    webUrl: "https://www.digitaljournal.com/pr/robotics-prosthetic-market-is-expected-to-grow-at-a-cagr-of-8-2-an-exclusive-market-research-report-by-lucintel"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 32
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/5993b720d9ef7071b8911094c233c01fc025ee40-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Generic Oncology Drugs Market Are Anticipated To Rise at a Steady CAGR Of 6% from 2022 To 2028"
     excerpt: "Generic oncology drugs, being able to detect and treat tumors, are utilized extensively in the healthcare industry for treating cancer. Notable"
     publishedDateTime: 2022-03-28T13:44:00Z

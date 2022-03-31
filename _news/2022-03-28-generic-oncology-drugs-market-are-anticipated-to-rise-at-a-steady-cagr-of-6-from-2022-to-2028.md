@@ -53,6 +53,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Robotics Prosthetic market is expected to grow at a CAGR of 8.2% – An exclusive market research report by Lucintel"
+    excerpt: "\"Trends and Forecast for the Global Robotics Prosthetic Market\"Trends, opportunities and forecast in robotics prosthetic market to 2024 by technology"
+    publishedDateTime: 2022-03-30T23:45:00Z
+    webUrl: "https://www.digitaljournal.com/pr/robotics-prosthetic-market-is-expected-to-grow-at-a-cagr-of-8-2-an-exclusive-market-research-report-by-lucintel"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 32
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/5993b720d9ef7071b8911094c233c01fc025ee40-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Global Surgical Robots Market Size Is Projected To Reach USD 6875.1 Million By 2028, Exhibiting A CAGR Of 21.4% Between 2022 And 2028"
     excerpt: "The increasing unmet medical requirements, and technological advancement. According to Asian Robotics Review, the surgical robotics market might get"
     publishedDateTime: 2022-03-30T09:41:00Z

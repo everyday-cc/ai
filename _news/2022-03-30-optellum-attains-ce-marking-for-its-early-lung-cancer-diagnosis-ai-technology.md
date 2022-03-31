@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Optellum Attains CE Marking for Its Early Lung Cancer Diagnosis AI Technology"
-excerpt: "Optellum Virtual Nodule Clinic, including its proprietary artificial intelligence lung cancer prediction solution, has achieved CE certification under the European Union's Medical Device Regulation OXFORD,"
-publishedDateTime: 2022-03-30T07:00:00Z
-originalUrl: "https://fox59.com/business/press-releases/cision/20220330DA07788/optellum-attains-ce-marking-for-its-early-lung-cancer-diagnosis-ai-technology/"
-webUrl: "https://fox59.com/business/press-releases/cision/20220330DA07788/optellum-attains-ce-marking-for-its-early-lung-cancer-diagnosis-ai-technology/"
+excerpt: "Optellum Virtual Nodule Clinic, including its proprietary artificial intelligence lung cancer prediction solution, has achieved CE certification"
+publishedDateTime: 2022-03-30T07:07:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/optellum-attains-ce-marking-for-its-early-lung-cancer-diagnosis-ai-technology-1031317700"
+webUrl: "https://markets.businessinsider.com/news/stocks/optellum-attains-ce-marking-for-its-early-lung-cancer-diagnosis-ai-technology-1031317700"
 type: article
-quality: 34
-heat: 34
+quality: 64
+heat: 64
 published: false
 
 provider:
-  name: FOX59 News
-  domain: fox59.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -23,6 +27,6 @@ images:
     height: 300
     isCached: true
 
-secured: "mclSOpiTjKoE3TNawSkWLVBVuovp/aziWJ/yH7eTGPNiDklAZ9pxRs6/aZmWH8Z9qfiGNWz4qTJWZgoEJD7Nff2/WoqKhI7zPX8pChCsrdZ9XIR4qg9FsI7shnRvtKLQa3Au/XjL3DgmRQZANSNtDT9UQXhpZ0vJORgkm+gwcS1BgpEqTaIrWRtIV6a0EkMZpbL5EPRAQcZN8iNGfCZXEkK8G+0sEyuH3lipKc0aAGIShzVGhWC7GFkutLUFBOtcersz3B64KqQzPwKmf9noxL6RAbw3GtPq+Fdusb8AD+edibyqOnZsivt4xSFfQNtKYsjoqNXsgpCzOUyEPJb+TrWLWH/XwNFXzq9WkOfYlTU=;/qdDTAtVBKcIdcBJgGfkgw=="
+secured: "Z1toE+i0B5ZGilLzR5RDqyjIfHnZFYrrWJ0RQ+G/e0RUrzsU1wCocDhNSJCRNwaRBoUaKHl0oopDOiOHi58pUmJNlLW7shxcizs2YqsCe8cZJC00yryvqgLeL49dvcWefYtOfLJLXxgdFIL/zCI+3v91qrauEna4mWEik9YYLEjl4ttkJkvQxIY0zuZdL1Bf2mI7k0ccBBl3cdUFx3ccJrq6WHmfAa671mnVqUSwGLZLhpLNvL8E0l43Sgk/aQBWPnDcSNdsK95z9I8I2le9lNGDPHvditLSmOV/cGxdkCmoyFBaruiVUfiFk3kpxeSrPHXY2mVIqzkk4XGSOuQQUi3MJgktIPeOWQXAAwwuqm8=;H84czHhY4e+31/XJoZ/qrg=="
 ---
 

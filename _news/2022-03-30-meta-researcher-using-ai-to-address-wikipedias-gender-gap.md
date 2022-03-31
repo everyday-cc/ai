@@ -7,7 +7,7 @@ originalUrl: "https://www.axios.com/meta-researcher-ai-wikipedia-gender-gap-fe6d
 webUrl: "https://www.axios.com/meta-researcher-ai-wikipedia-gender-gap-fe6db4c3-f04b-4ce9-8516-8777234c1b74.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta AI’s open-source system attempts to right gender bias in Wikipedia biographies"
+    excerpt: "Meta AI's open-sourced the model and corresponding dataset relates to not only women, but women in science and those located in Asia and Africa."
+    publishedDateTime: 2022-03-30T22:51:00Z
+    webUrl: "https://venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/"
+    ampWebUrl: "https://venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/women-in-tech.jpg?fit=800%2C598&strip=all"
+        width: 800
+        height: 598
+        isCached: true
   - title: "Meta open-sources AI models to generate biographies for notable women on Wikipedia"
     excerpt: "Meta Platforms Inc.’s artificial intelligence research unit said today it has developed an AI model that can research and write drafts of Wikipedia-style biographical entries, in order to address a noticeable imbalance on the world’s most popular encyclopedia."
     publishedDateTime: 2022-03-30T16:49:00Z

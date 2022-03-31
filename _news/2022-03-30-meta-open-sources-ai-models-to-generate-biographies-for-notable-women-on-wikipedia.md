@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta AI’s open-source system attempts to right gender bias in Wikipedia biographies"
+    excerpt: "Meta AI's open-sourced the model and corresponding dataset relates to not only women, but women in science and those located in Asia and Africa."
+    publishedDateTime: 2022-03-30T22:51:00Z
+    webUrl: "https://venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/"
+    ampWebUrl: "https://venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/women-in-tech.jpg?fit=800%2C598&strip=all"
+        width: 800
+        height: 598
+        isCached: true
   - title: "Meta researcher using AI to address Wikipedia's gender gap"
     excerpt: "Meta researcher Angela Fan is employing a novel approach to get Wikipedia to include more biographies of women: She's using AI to write the rough drafts. Why it matters: Only about 20 percent of those profiled on the online encyclopedia are women,"
     publishedDateTime: 2022-03-30T13:30:00Z

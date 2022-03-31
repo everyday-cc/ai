@@ -67,6 +67,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Intel launches ARC and reveals full Alchemist GPU lineup for laptops"
+    excerpt: "Intel reveals the full details surrounding its Arc Alchemist laptop GPU lineup and shows some gaming performance charts for the Arc 3 models."
+    publishedDateTime: 2022-03-30T23:30:00Z
+    webUrl: "https://www.pcinvasion.com/intel-laptop-arc-alchemist-gpu-specs/"
+    ampWebUrl: "https://www.pcinvasion.com/intel-laptop-arc-alchemist-gpu-specs/amp/"
+    cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/intel-laptop-arc-alchemist-gpu-specs/amp/"
+    type: article
+    provider:
+      name: pcinvasion.com
+      domain: pcinvasion.com
+    quality: 59
+    images:
+      - url: "https://d30xqvs6b65d10.cloudfront.net/wp-content/uploads/2022/03/intel-arc-a-series-1-16x9.jpg.rendition.intel_.web_.1648.927.jpg"
+        width: 1648
+        height: 927
+        isCached: true
   - title: "Intel shares first look at Arc A-series desktop GPU"
     excerpt: "After a delay into Q2 2022, INtel has finally shared a first look at its upcoming line of desktop GPUs with a peek at a limited edition card."
     publishedDateTime: 2022-03-30T17:30:00Z

@@ -1,0 +1,82 @@
+---
+category: news
+title: "Google Using New AI to Better Detect Searches Made by People During Personal Crises"
+excerpt: "Imad is a senior reporter covering Google and internet culture. Hailing from Texas, Imad started his journalism career in 2013 and has amassed bylines with The New York Times, The Washington Post, ESPN and Wired,"
+publishedDateTime: 2022-03-30T23:39:00Z
+originalUrl: "https://www.cnet.com/tech/services-and-software/google-using-new-ai-to-better-detect-searches-made-by-people-during-personal-crises/"
+webUrl: "https://www.cnet.com/tech/services-and-software/google-using-new-ai-to-better-detect-searches-made-by-people-during-personal-crises/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/google-using-new-ai-to-better-detect-searches-made-by-people-during-personal-crises/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-using-new-ai-to-better-detect-searches-made-by-people-during-personal-crises/"
+type: article
+quality: 81
+heat: -1
+published: false
+
+provider:
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.cnet.com/a/img/resize/c074ac3ccc68a64818a589605f98a5aeebc04806/2022/02/03/e3a5502b-5219-4ced-9a00-d5afddedd9a7/htdia-google-search-00-08-30-29-still088.jpg?auto=webp&fit=crop&height=630&width=1200"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "How AI Is Using Facial Detection To Spot Rare Diseases In Children"
+    excerpt: "This is where computer vision can help. Shniberg built Face.com, a facial recognition platform that discovered over 18 billion faces on the internet. He sold the company to Facebook in 2012. When he and his partner, Lior Wolf, looked at other impactful ..."
+    publishedDateTime: 2022-03-29T10:59:00Z
+    webUrl: "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/"
+    ampWebUrl: "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6242c02ee1639ec08c4650f5/0x0.png?format=png&width=1200"
+        width: 620
+        height: 511
+        isCached: true
+  - title: "Google is using AI to better detect searches from people in crisis"
+    excerpt: "Specifically, Google is integrating its latest machine learning model, MUM, into its search engine to “more accurately detect a wider range of personal crisis searches.” The company unveiled MUM at its IO conference last year, and has since used it to ..."
+    publishedDateTime: 2022-03-30T16:18:00Z
+    webUrl: "https://www.theverge.com/2022/3/30/23001468/google-search-ai-mum-personal-crisis-information"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 69
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/mDlCd6Mu3WvQRoqmpC0FmRYsjQI=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10802119/akrales_180508_2553_0015.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "New AI System Assists in Detecting Heart Transplant Reactions"
+    excerpt: "To help improve heart transplants, investigators from Brigham and Women’s Hospital created an artificial intelligence (AI) system known as the Cardiac Rejection Assessment Neural Estimator (CRANE), which can help clinicians detect and manage adverse immune system reactions."
+    publishedDateTime: 2022-03-29T16:53:00Z
+    webUrl: "https://healthitanalytics.com/news/new-ai-system-assists-in-detecting-heart-transplant-reactions"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/new-ai-system-assists-in-detecting-heart-transplant-reactions"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/new-ai-system-assists-in-detecting-heart-transplant-reactions"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 57
+    images:
+      - url: "https://healthitanalytics.com/images/sized/2020-08-28-GettyImages-922385448-e4b00c1efb9503a805928b101c78b499.png"
+        width: 480
+        height: 278
+        isCached: true
+
+secured: "L6eRjEcvEp49nYCe6R6wii2L+V09AMZSN2PLoajcb6eKwbEfcTL3Nl+QSCavEuO45uO8ngyvO3zk+O2OEmAfuVE06AB4Iy9pWYNmtIsiw1a72JnMRgZ7WmK7ZyOClSpLVlCVMI080vB80HqIJCs5FQNKjFKQvjoFDkENpW3sQ09a0nu6Bho5cvrVi26ltGoKIh5U+rzfvOZK6+VewvTPF1tw3Zl9eF68h62om1MLDWNYnrta1vJiFJ8RUHL9yLmOr96P7J5Co1k2t7L/ueOC33NdgIEdPNYMLSxvdm3OzToMIJuQNbom9R7Kx0bIAfxY3Wwc9nKcg3CwlNv+VcynjoNGTWEvtiuPZk1RZztfRPo=;W2XBGbFwkV3qZgaC8wEl8w=="
+---
+

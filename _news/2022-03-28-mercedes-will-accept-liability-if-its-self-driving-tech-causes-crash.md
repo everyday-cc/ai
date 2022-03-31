@@ -7,7 +7,7 @@ originalUrl: "https://www.thisismoney.co.uk/money/cars/article-10659461/Mercedes
 webUrl: "https://www.thisismoney.co.uk/money/cars/article-10659461/Mercedes-accept-liability-self-driving-tech-causes-crash.html?mrn_rm=rta"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 636
     height: 382
     isCached: true
+
+related:
+  - title: "This new Mercedes self-driving system lets you take your eyes off the road"
+    excerpt: "A new system from Mercedes-Benz achieves Level 3 autonomy, meaning that when the car is driving for you, you're allowed to not pay attention."
+    publishedDateTime: 2022-03-30T23:00:00Z
+    webUrl: "https://www.popsci.com/technology/drive-pilot-mercedes-benz-test-ride/"
+    ampWebUrl: "https://www.popsci.com/technology/drive-pilot-mercedes-benz-test-ride/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/drive-pilot-mercedes-benz-test-ride/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 42
+    images:
+      - url: "https://www.popsci.com/uploads/2022/03/30/unnamed.jpeg?auto=webp"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "552jflOTbLuupmYd76n+VgUUDDDDD6e/zdG7tU+HHZLiARpzPiaPWkQCxK6fVUww1kBw66ttb9F5Iiy7M3taA+ybrpP2/CBtyA88T6qZQYiFIPVAya/zawzhx7cGWLhlaCQ+sjeIT964tjM0FoVJ/dXfvn1255NyYRLqp+znDNUNPOKlCDSaRSVpngINRwoFLufLZ7AGOpQ9h4aUd9/eeGDuu0FlJqjNCsMoqHh+Up/jZa8cg6rNCJhn6zhSWGNOuRGOwnhlHVoSg6Rey5r01+qlOHbVhfFHgkzlZCbP6LgjUjUWWpEiSwPORp2G63ZTiCtVRk1qKy2AWEyVWh4qwy6evfna6iyO7T3Fx7G8IhdHFqOCwefj8dRkVl6O5e7J/9RcVtjfD9TQ8h/M2ureqcGtNTlNqfgRq0Wjhp5idXbnbuL6iMhACFqqe9+SzEKKz/PMQcf+yEJ0EVinAxpRsf2gm0GGuijNp1gPLNh+raJvKklWsPZrqAIE7TjUXxRwbO10V4TYd14pgMzJpRGV1w==;ar+tih3P2sAXWn9nQNwjvg=="
 ---

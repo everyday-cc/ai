@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/products/tsa-continues-facial-recognition-ro
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/tsa-continues-facial-recognition-rollout-at-airports?_amp=true"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Spirit Uses Facial Recognition at Atlanta, Ga., Airport"
+    excerpt: "Spirit Airlines has begun using facial-scanning technology at Atlanta's Hartsfield-Jackson International Airport to speed up boarding for passengers who, the company claims, can opt out of the scan."
+    publishedDateTime: 2022-03-30T23:17:00Z
+    webUrl: "https://www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport"
+    ampWebUrl: "https://www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/ed0e6ad/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fbd%2F81%2F9260b1c2d432f9131c8a14ee5dbd%2Fshutterstock-358447820.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Global Voice Recognition for Automotive Market 2022 Industry Overview, Competition by Manufacturers, Production Capacity by Region, Forecast by 2028"
     excerpt: "MarketsandResearch.biz has rolled out a report titled Global Voice Recognition for Automotive Market 2022 by Company, Regions, Type and Application, Forecast to 2028 which reviews the many aspects of the industry like market size,"
     publishedDateTime: 2022-03-28T21:18:00Z

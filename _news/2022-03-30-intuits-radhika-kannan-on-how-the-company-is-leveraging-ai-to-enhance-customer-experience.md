@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Intuit’s Radhika Kannan on how the company is leveraging AI to enhance customer experience"
-excerpt: "As a global technology platform company, Intuit helps customers and communities overcome their most important financial challenges."
-publishedDateTime: 2022-03-30T06:35:00Z
-originalUrl: "https://analyticsindiamag.com/intuits-radhika-kannan-on-how-the-company-is-leveraging-ai-to-enhance-customer-experience/"
-webUrl: "https://analyticsindiamag.com/intuits-radhika-kannan-on-how-the-company-is-leveraging-ai-to-enhance-customer-experience/"
+excerpt: "Kannan said that they currently have AWS infrastructure support, including EMR notebooks that can run distributed workloads for large datasets with sizes of the order of TBs, Sagemaker notebooks having CPU and GPU capabilities that can scale according to ..."
+publishedDateTime: 2022-03-30T06:30:00Z
+originalUrl: "https://analyticsindiamag.com/intuits-radhika-kannan-on-how-the-company-is-leveraging-ai-to-enhance-customer-experience%EF%BF%BC/"
+webUrl: "https://analyticsindiamag.com/intuits-radhika-kannan-on-how-the-company-is-leveraging-ai-to-enhance-customer-experience%EF%BF%BC/"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -25,23 +25,16 @@ images:
     isCached: true
 
 related:
-  - title: "How to use Voice Communication to Retain Customers?"
-    excerpt: "In a world full of messages and videos, voice remains the most powerful tool we can use to retain customers. This is largely down to emotional intelligence. When it comes to customer service, customers like and are loyal to companies that listen and respond to their issues accordingly,"
-    publishedDateTime: 2022-03-30T00:44:00Z
-    webUrl: "https://www.benzinga.com/general/education/22/03/26364476/how-to-use-voice-communication-to-retain-customers"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26364476"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26364476"
+  - title: "How AI Technology Helps Restaurants Improve the Customer Experience"
+    excerpt: "As The New York Times recently reported, the pressures on staffing is one of the reasons restaurants have been moving away from answering customer telephone calls. Some restaurant owners reported being just too busy preparing"
+    publishedDateTime: 2022-03-29T18:11:00Z
+    webUrl: "https://restauranttechnologynews.com/2022/03/how-ai-technology-helps-restaurants-improve-the-customer-experience/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/andre-francois-mckenzie-jrjhtbj-pgu-unsplash_1.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
+      name: restauranttechnologynews
+      domain: restauranttechnologynews.com
+    quality: 17
 
-secured: "RX/HgNSZSgDmM1J/m6MbcQuruCxmLHPn0yFQEoft03t9fq7OqQZbI4ToRLsKq9LZCUB/u0lIITMF6KFJjs3CIL/1Ch+U0uRvjd0Mh+E+Mmh7648n7VfjaQXAoBCSlzLFiEaBNuIkOn8SEvcbFz1Eay/KIK3X1VGgr1nwxeM8TZDyvkpiQsUeAd3mp1ZeJAyfZ2gMmI2i4DXB/ZdOGiV4p6OdzmIJKRskMs8Xq/G5HZmlAsdpOXENPto9LJgdCwHqE88NXu3ZlzbqdDBuCDLbFCDYe9iU/1kTT6+TOM/iHvA7cw12CqNX5tjZBEAdkFk4yUWIA0CgKXfVf/tRyDPjibR1RGbD/PMmpRi8x74RgNioZLDOqzwUziYB+OLThM+pz0CZrEDa7kBQWUccn0jdrkUN+aLCYCJ7FnqDmQaNPauuwV6j9yikSpw+GIzG3gTvdNrPHlHOdW/MtcLcOFX2c/XJxbcjLSwrryZYGZcQamYTdmx1rAB3Eyeog9olkjEMTgdUlS+Vbl86fQf7RN7Tmw==;UgFdkhkLfvef6n1UK7pH4Q=="
+secured: "XGoWXmltesy51bnT+LlTAxlmcrl9zsJQsPuwB8Ar4zwO1THkGF9Cs897u1Dc2U0iJ0lz+Cc3SGN1Z4U9ZclJgUWy+eP9StjPSnkCnY9qOgfJdcjqRayq6zLgA5HUCKcYjMacK1aNCW5+O+2sxorzxwHx2BRmHwLYmzg4/rB7vcTW4K23ohPvMeBzp2pPM4Juc95Kyh1whEnGIRjj5iKv0aQhKsRkny27UXc0QxsYAI6X4xO4xzvzfjuczR5WZ2RzjyC783Nr0khvnECoJZyFGqRPKJC6utNMx5PF2gmXNQEKAEoSHp9dCYCCWmM9yZu9NgAgMO9BTdyWkCQpkvrhF0He3To5TL67rfkwDBDTxbs=;KcYXF7HnRM9NHfAI/jc+Vg=="
 ---
 

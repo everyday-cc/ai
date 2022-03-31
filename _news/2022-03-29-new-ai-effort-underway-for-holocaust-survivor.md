@@ -2,9 +2,9 @@
 category: news
 title: "New AI Effort Underway For Holocaust Survivor..."
 excerpt: "Watch \"a new artificial intelligence effort is underway to enable interactive conversations with holocaust survivors even after they die\", a video on CBSNews.com. View more videos and watch CBS News,"
-publishedDateTime: 2022-03-28T20:25:00Z
-originalUrl: "https://www.cbsnews.com/newyork/live/video/20220328202558-a-new-artificial-intelligence-effort-is-underway-to-enable-interactive-conversations-with-holocaust-survivors-even-after-they-die/"
-webUrl: "https://www.cbsnews.com/newyork/live/video/20220328202558-a-new-artificial-intelligence-effort-is-underway-to-enable-interactive-conversations-with-holocaust-survivors-even-after-they-die/"
+publishedDateTime: 2022-03-28T19:25:00Z
+originalUrl: "https://www.cbsnews.com/newyork/live/video/20220328192556-a-new-artificial-intelligence-effort-is-underway-to-enable-interactive-conversations-with-holocaust-survivors-even-after-they-die/"
+webUrl: "https://www.cbsnews.com/newyork/live/video/20220328192556-a-new-artificial-intelligence-effort-is-underway-to-enable-interactive-conversations-with-holocaust-survivors-even-after-they-die/"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Hjz74+fEt6uanuSoW7CFRgv3YyDOc+H95LcuUN9bGAq9sZ0gAVz0reyhYnecmttOQVKXhAaw3aPn9PT4dlk4hBX0Gch16BV2/Vpk9xYN/ID3hPTzTi8Ad1P6oxJzZymvu2JXC0y1KNu6LhdGWkR6dgmeAq4B8EbRc0adL7YZocJIwKOiqKacj+N0EwCmbSRm71vJ7RSS/nxHfiH0bxn9b5ngSjWBvO/a+yVvVmkTi4myFDqqyi2RfqvJwP1pGzutvYhqHpP5V831T/hpnYnuKIhCvHgD08RDqg/DpEm7zvdOTm9Imiu2WZwA16V+vZgL1fYfxSecbVlX6Kb79BWRcxiREDG1P+QCOJUV+zgjJ5qENB/+nfsZBL4EWmbvaHYj3kxF/DRBs7FZeEktRaQJz7g3CSWyuTPsIJxrMRBlugj7WxaXFXOdaGGelRKqXI4RarMOqbdGQEabYcCiK6u8b73yAtxHmE/6k7bvRsKoQ1d9Nv3SzYanxuH9vm7bebJaOLIs1oqKCXEJj2JeqTiFLg==;skstgg/nBzbHHs8eEZT/jQ=="
+secured: "dUXh16k8H0W7q8FARQKxVq3xcy+ygbBRgux+3zZoZlCgnzYy3mARttDY+EGaLZFNxqwjUqFca3NTFgx82GWtRKSFGSvX6qx3S+xKzmuHd2/pk7r15onbF5Zjg07RwLajVtm35f4/BXJaKSXm4dTrZPa8aZY09ro0BMQQ23nIslwZ+4p515Q7dn/gocHQYAPWvogLR6p2pUlwXbI4GQ5uzidUvytfZwNhyxywHDBwan/CItMfjgo4c7OzudKpSpqHHX8PoRqRet2QL2SIpMHpcuE5E1NYKkd8SCsfd1Yq9O3SjZJfCW+b2dsNxaFwV4gZ4mYOL1WIyutVGr+9ZKLpZ/kBoJ/bK1Tich8s0buzJK0=;K1XuwE6+eeBB4lWw+QgDQw=="
 ---
 

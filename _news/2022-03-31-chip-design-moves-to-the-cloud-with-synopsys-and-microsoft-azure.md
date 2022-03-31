@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/amp/"
 type: article
 quality: 121
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Synopsys Launches Disruptive Cloud-Based SaaS Solution To Accelerate And Democratize Chip Design"
+    excerpt: "In a move that could have broad-reaching implications for chip design and the Electronic Design Automation industry, Synopsys has launched a new cloud-based SaaS solution, dubbed Synopsys Cloud, which makes its cutting-edge design a tools available to a diverse spectrum of potential customers."
+    publishedDateTime: 2022-03-30T23:33:00Z
+    webUrl: "https://www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/"
+    ampWebUrl: "https://www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6244e7327f1720b840503f2b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 740
+        isCached: true
 
 secured: "hRv61nsVUnp4SSCrjJatkSfIkPpjvXQFjxzorEmmYWWUrFa+bTY19tA7vtXlyomHhar1ghucC11t0UhMBKMaD5CrIHhCQET0xIyEEH9wURP468x5lyrpEqK5poqDdOWHYn8Zh/vx+sKrBoj6C4/Ese9K9ulZ9Vb2pFqKg5Jyl9m1mzbe/ybO28zK7+tXxChy2EAUzMop5TxihiiFTMMrxO8eJGErMXv+5xGYiZXSQC127xbd3pNoNfZBaIGHrCRLRVqdwWKTGr7vRyaJpbf+tbD9jw1NLub2qOz+rlnUrFiU36f1oOLKs1yUVi6XcuF3U/1On1Q/WZyRhslWbbAIi0faIJbRLtxwKFxrpRw901zSJRU/rLQqvCdiaNQnu15lDgXPl2d7al2nJyrPKzlbRzew1KRuh9G1f/pBqwW/JPqcHXqi6YG9PToNJEINMkkixTmywclDZOeDyD9BozEq+RIFaIh6ADk/rYm16BSiYrkupegipMtxX1PFEILwQWa2Ca+s446nUwUUyW9vTyjowQ==;ZIO6dvqMN3mFBFXmatrz1g=="
 ---

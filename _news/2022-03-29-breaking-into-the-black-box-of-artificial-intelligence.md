@@ -3,8 +3,8 @@ category: news
 title: "Breaking into the black box of artificial intelligence"
 excerpt: "In February 2020, with COVID-19 spreading rapidly around the globe and antigen tests hard to come by, some physicians turned to artificial intelligence (AI) to try to diagnose cases 1. Some researchers tasked deep neural networks — complex systems that are adept at finding subtle patterns in images — with looking at X-rays and chest computed tomography (CT) scans to quickly distinguish between people with COVID-based pneumonia and those without 2."
 publishedDateTime: 2022-03-29T14:28:00Z
-originalUrl: "https://www.nature.com/articles/d41586-022-00858-1?error=cookies_not_supported&code=b416cd61-ab8f-4dea-a6f7-c76c01e7969f"
-webUrl: "https://www.nature.com/articles/d41586-022-00858-1?error=cookies_not_supported&code=b416cd61-ab8f-4dea-a6f7-c76c01e7969f"
+originalUrl: "https://www.nature.com/articles/d41586-022-00858-1"
+webUrl: "https://www.nature.com/articles/d41586-022-00858-1"
 type: article
 quality: 39
 heat: -1
@@ -81,6 +81,6 @@ related:
         height: 756
         isCached: true
 
-secured: "1VwO0otZ4zJHquETxKwkYuLG8cwtF0kpPj2UvKP9df9a8TXRJc9HjwIDlxiZ/aA+fZFwhr0291He5gnjz4L36LxvTzG1BxfeQnI7LXl9FR6ChzyxfAnG2oS8qyLxkv8/jV8xybaKa7tqGnrw6c+AegRKah5GYiR8cBP7Gn2JXgIKYs2XwC2zVFodHqHmIMXe0Rg0v4OCI6obQmXIeIcopsybGRMoqsnxsgm3oem5kP1EWVxid+8c/Hu4Nilfn22C+avPpazfu3BOVe2RrqlK1+FLms+S3PvQhbLPwpObzQ9W638tPZcheh406lkQ+PvUulH96/Ke49tJyWRqzNpmR+XuKOvlvH4B324HhiPdOHz22H6Mc/i6uFsWJGsoSHkZVprB1IMpfHepdnvvvIz76wtdBkDmsmx0dycCJdsoc3JWqbjbaKD1Yj4rv4grW9tWUYE9xEQNNrqYfDqm1MuDuNF6SVp6duUHA+hfGO5qddCd7dYgbV3WjAETlWdVF7rKuQXnnVbVGgUvWk5rt8e8+g==;NZ89HeMXb2NoLPplvRag5g=="
+secured: "QNnM/e2AWZUmwyo9OzSgjpwXL3MWt2qk4Ujei4QAIghsRZKHkU2mA0GUz43uPqfAJl5Vp8tf830my8fs0bqyRQ6zYeOInmpeeZkmJrU2ZuOMo8x78aJiRkywrEpqESCp+7xoSFrEHPQCu87gOM2OraF8hewEdWsKcKbiM4+H/6og4zNeC5jPhNO3g/F1XezOG95joEvycwfNFhvEepqYWkCJU0mbM7oRt1XPvLbWm3MXqRsEnRBoUhQ/Iip4A1DYrYpiQjD0JDPmb6Y7Tqtsn3BOTmS+I/kbQ95HgjjLvIjQuc5TGQIeXbCIw5xQ+YdWaLs8xQucYimtroXB2LkfPd3Q+n/muGJoOUjDjfg66Z0=;vphLGr44X5lkISZ20AWtdA=="
 ---
 

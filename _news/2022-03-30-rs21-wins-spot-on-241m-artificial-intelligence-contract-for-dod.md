@@ -3,8 +3,8 @@ category: news
 title: "RS21 Wins Spot on $241M Artificial Intelligence Contract for DoD"
 excerpt: "Data Science and AI Company Qualifies to Participate in the DoD Data Readiness for Artificial Intelligence Development Program"
 publishedDateTime: 2022-03-29T17:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod/article_e73d4602-9e81-53e4-a8ff-11bd7d085fcd.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod/article_e73d4602-9e81-53e4-a8ff-11bd7d085fcd.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod/article_e73d4602-9e81-53e4-a8ff-11bd7d085fcd.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod/article_e73d4602-9e81-53e4-a8ff-11bd7d085fcd.html"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 338
     isCached: true
 
-secured: "LYWW5fU0mrVQrceTJEKo8mmp+zDG2wlTvd+6Cv9/JFawXtyBgSjJJOktdvNnA7mKidSgoQ8FSU76KHI1TRS8+kPcPlMKVsCqAZ+xTI+Bdp2fq3bfkGQiaNoOEf+byNCDmvEYA0qtz411B4SrIYUxhyBlzmsuQIQzXYSr8URcSFtXSntuZJpGnHys7An+jUoEbJ7ItXqPOSXC9qNgOGit0Q8ggj+5oly4m4bu9DzBnXPDygfUowREQazbUde9s4GYGQY62HOjNNyKTtXvoYmj1t1T8n8G0ZJGw9jtolb5ufgw6U/7jnB8tRvGTUrCm3/0qq6FCojcTUh5rC1f3VsdjHebMjNyLNuxKOQwcyjxrkVo4ZaJVa2e3D4/hwWZ/tDf8lC6c9Zxft531iCOwwo3aBdN981w/qVGAmmsq9DYF0bQCLPAee0U688RxPRN1dAtI9pTb+xnxiPKlT4WGEs2tbrBVo20zE+ZsGa42GwX2UTAA7rw9dzh9gLp3smXKkcZHodUKhVDwqA3yC27aLRcyg==;+6UUxXkiEqqj1xsIwi1jsg=="
+secured: "n9z5jBlMYk3/MKeQryL2b5C13QzZ/SvZ/DE0qzxBPQQSgSGdEeT7H89FIQaG6p63+j8iYGXq6u1EJlzU0b2CHZVpI0Rtkelj/jY3QixfkRiS5kzSFJMP2ZiFxJyKGUy8t6E3eLw9Ie4YOnQUYX4u6CptcLEfFPYV0fmFMr2QPNv0qCnr7xrF43qmb9uuv8687AywbyT9rtE+rrNI/Z95Vw5O+BL6UMUVZs5NUg4pogpQeh+bgvli6fsbxuj53Cy3ZtDScrVmFegW0VxVjZOyoHoso/Fw0z8HFTXi4JZIQHiECdA/6Q9kKZFhzUD3ue6IAQqaxGV/HiF5ssR+6s69BC1gvcH20nXN6cAJe1CAfv8=;bWeKRDdiaR9A/wQ4qNioTw=="
 ---
 

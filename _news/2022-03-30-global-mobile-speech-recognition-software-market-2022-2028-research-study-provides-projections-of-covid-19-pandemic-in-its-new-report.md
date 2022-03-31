@@ -113,6 +113,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Machine Learning Market Growth Analysis, Segmentation, Size, Share, Trend, Future Demand and Leading Players Updates by Forecast to 2028"
+    excerpt: "Key Companies Profiled are Hewlett Packard Enterprise Development LP, SAS Institute, Inc., Amazon Web Services, Inc., SAP SE, Baidu ... increasing popularity of self-driving cars from the ..."
+    publishedDateTime: 2022-03-29T07:35:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-market-growth-analysis-segmentation-size-share-trend-future-demand-and-leading-players-updates-by-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 8
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/5993b720d9ef7071b8911094c233c01fc025ee40-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "v1jtTLDzi/fbyZ+r77KIEhW5MxroipFKju3rXj+YXRiDFWOjsgeceyoeY6zMkIl+BtI+MCKUiwJrO8Sn53xgfHRQFTva+jr9h0Ah87e3FMDYoOQHisvhykTWBYk81iZHpv9oljvRjb7u9AAMxnwYIg4Wgoaz67t96Ufu7nbAX0tfgynmSIDsjuu17aeSZl9gap4IYCqMlznC94YbzO8VEsKPs5B2e5xMJqXasnLx1vLDpuN6qC6F515LF0wJRCukOs1mw7dAJLZ+EnwGrem1cqwv9KtpT+PFKxMlAn2UswJoOQ4VvsIigsJVSJdqw7M4pOVL/0hu7qUEctsYnR//bT5mApTCHDVjeI29G3wA8W0=;9yt42c7eehAdt6hs8IXHOg=="
 ---

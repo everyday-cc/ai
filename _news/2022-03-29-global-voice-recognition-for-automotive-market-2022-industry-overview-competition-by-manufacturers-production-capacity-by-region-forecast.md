@@ -45,6 +45,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Spirit Uses Facial Recognition at Atlanta, Ga., Airport"
+    excerpt: "Spirit Airlines has begun using facial-scanning technology at Atlanta's Hartsfield-Jackson International Airport to speed up boarding for passengers who, the company claims, can opt out of the scan."
+    publishedDateTime: 2022-03-30T23:17:00Z
+    webUrl: "https://www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport"
+    ampWebUrl: "https://www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/ed0e6ad/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fbd%2F81%2F9260b1c2d432f9131c8a14ee5dbd%2Fshutterstock-358447820.jpg"
+        width: 840
+        height: 438
+        isCached: true
 
 secured: "0TRcs/5TJPqoc/9PzuLyecUn2lZpcCsNYgUgkxCVk7qsi6RsiH/JSHukMsqMq6OgMRJ1o9NscJr2t2oRuktP6mpqa5GS53Riauxi8Bevuejg/QC1MBusrnRrNcdN+SGcewPxbsOnG1liCne8toYaG0WFlvyXq1iGresf34Z2LxFfkhnZK4Sjf3TqjOndzi1IhAGMJQWKBH/jlgeiroWw1bxOLQc+hnnikyFnznp40LSj4VDbUX/LUZ+1+AnKqeypLwVMGY+qLfe9FEF0qEHjEQvA3iLMa3ZbDiCx4mdbr42yjNRFU7BLl7hYWh1QqQdp113gAF/JO/hCuDAF2Za7vS62zz+gda0cs52+onQBhYY=;K3lrJUI8NcIH70qNHOWInQ=="
 ---

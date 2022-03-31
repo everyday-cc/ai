@@ -1,23 +1,23 @@
 ---
 category: news
 title: "SAS and Clemson University deploy AI and machine learning software for education and research"
-excerpt: "Clemson students and faculty will have access to powerful data science and analytics software from SAS thanks to a new, $3.3 million donation to support teaching and academic research. Extending a 2017 partnership,"
-publishedDateTime: 2022-03-24T15:51:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm"
+excerpt: "SAS skills among students and supports analysis of massive datasetsCARY, N.C., March 24, 2022 /PRNewswire/ -- Clemson"
+publishedDateTime: 2022-03-24T15:58:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
+webUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
 type: article
-quality: 62
-heat: 72
-published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
   - AI in Education
 
 images:
@@ -26,22 +26,6 @@ images:
     height: 266
     isCached: true
 
-related:
-  - title: "SAS and Clemson University deploy AI and machine learning software for education and research"
-    excerpt: "Clemson students and faculty will have access to powerful  data science and analytics software from ... Read more"
-    publishedDateTime: 2022-03-25T03:31:00Z
-    webUrl: "https://www.ecampusnews.com/2022/03/24/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research/"
-    type: article
-    provider:
-      name: ecampusnews.com
-      domain: ecampusnews.com
-    quality: 62
-    images:
-      - url: "https://www.ecampusnews.com/files/2022/03/SAS-Skills.jpg"
-        width: 510
-        height: 355
-        isCached: true
-
-secured: "JYvCga6uECSzHgYJLnN4THoB2mzz1mEhZllIYyCgL27q4CoqOPW2uWzqsIfolmolw4NHlNbac8ZVz4Ug8/h1kqNsgAqUbSbNL+0hZ5/AwQAbBvqe26S6xcasVlqjHkNoxPb5P2yglA2q2sZJsl/D13yYiB7Tmm/y1064CgRx+pzwbzPTbVd0jqOaPOOD/sUI4XSf/54e6+xu7/b0jeh8HA6sAoR3MPFelpLNJMIgk7NxARjqzqvAXS8NcfngSl24MFK7Tj9m8Zl4YsShMcTYsvOvia6xnC/8tKtYz48HoGS7/nzRjL4uGkTJFP9DwEgsLY4Xss5AqkODHouX/mjktrWjfqsEqhORaQjupWDTMFMlPzALtDi9EMFRBUrSPqchy9KV97+mHvW3nPtWELUtaf9xhtdilkTaJeoFZtZwGUS5FIYutk2AWjMqk5I+xOgmdxzrUYzmUg/04jjjOLHj0URKIrF0d+Dzh9bEoAwgXjOw6yTeeQhwkVsjQAncD+Lu0Y00lzbGz8Oe39V87t9aPA==;50x1qf+aG7iVGOP1ArgCGw=="
+secured: "8YZa6sg+ANy4IQBjZpyklqeUlQMruMCIEM6aLdAZcvhkG9EYU6waQzQngJQzdeqq7csPtP+Wn8Oe/Yl7torGLTECsKiRm9vNrn2443pWzk+dF/IjKsIjXExfCFhpiCW+7KYMD2hXY6Ej06UTrUsqlSRqQp18skI2JjfWGofbPccRmXVJRtKT6LOFsd4JC7KtuFQO6O0BBfC/0Ib0lG7xRG82LTykxZD7aTFSuESqouJJ1/sBDBXyrBTelAhPKeQBscufXe45QYN8dKLutQV/LZ1g6czXEbbf5SYRsQ+qhYRirek+TNplBOoNH6b245HugTc7E9VHtrlgiX0yXA9edZJHsSs27/124ouiMFfMDx0=;e0owPccAf1cEv4o8Sqvy2A=="
 ---
 
