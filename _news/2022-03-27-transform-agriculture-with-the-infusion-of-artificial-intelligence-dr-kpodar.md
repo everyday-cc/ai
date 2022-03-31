@@ -40,20 +40,6 @@ related:
         width: 800
         height: 490
         isCached: true
-  - title: "Artificial Intelligence is the future - Dr. Kpodar"
-    excerpt: "Dr. Chris Kpodar, the Chairman and Chief Executive Officer of Solomon Investments Ghana Limited, says artificial intelligence (AI) represents the future and that should be the direction Ghana should be going."
-    publishedDateTime: 2022-03-26T10:59:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/regional/Artificial-Intelligence-is-the-future-Dr-Kpodar-1500107"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 37
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/580/58088361.jpg"
-        width: 600
-        height: 250
-        isCached: true
   - title: "Artificial Intelligence Is The Future - Dr Kpodar"
     excerpt: "Dr Chris Kpodar, the Chairman and Chief Executive Officer of Solomon Investments Ghana Limited, says artificial intelligence (AI) represents the future and that should be the direction Ghana should be going."
     publishedDateTime: 2022-03-26T22:37:00Z

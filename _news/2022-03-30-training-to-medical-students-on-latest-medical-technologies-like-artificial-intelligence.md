@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/training-to-medical-students-on-lates
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence/"
 type: article
 quality: 65
-heat: 106
+heat: 107
 published: true
 
 provider:

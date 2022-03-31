@@ -87,17 +87,6 @@ related:
         width: 1648
         height: 927
         isCached: true
-  - title: "Tap the Booming Fintech Market With These ETFs"
-    excerpt: "The emergence of cutting-edge technologies like AI, cloud computing, big data, the Internet of Things (IoT) and machine learning is driving the fintech space. The growing popularity of smartphones, rising demand for industrial automation and the increased utilization of wireless communication are boosting the transition to digital platforms."
-    publishedDateTime: 2022-03-26T11:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs"
-    ampWebUrl: "https://www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "The Intel Arc Alchemist GPU Shows Off in a New Blender Benchmark"
     excerpt: "Intel Graphics has released a video that shows the 3D rendering program Blender being accelerated on an Intel Arc Alchemist"
     publishedDateTime: 2022-03-28T06:53:00Z

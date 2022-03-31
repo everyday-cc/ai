@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-inv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -77,17 +77,6 @@ related:
         width: 1648
         height: 927
         isCached: true
-  - title: "Tap the Booming Fintech Market With These ETFs"
-    excerpt: "The emergence of cutting-edge technologies like AI, cloud computing, big data, the Internet of Things (IoT) and machine learning is driving the fintech space. The growing popularity of smartphones, rising demand for industrial automation and the increased utilization of wireless communication are boosting the transition to digital platforms."
-    publishedDateTime: 2022-03-26T11:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs"
-    ampWebUrl: "https://www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tap-the-booming-fintech-market-with-these-etfs?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Intel shares first look at Arc A-series desktop GPU"
     excerpt: "After a delay into Q2 2022, INtel has finally shared a first look at its upcoming line of desktop GPUs with a peek at a limited edition card."
     publishedDateTime: 2022-03-30T17:30:00Z

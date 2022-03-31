@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Using AI To Improve Search Results For Those Experiencing Personal Crises"
+    excerpt: "Google is rolling out improvements to its search engine that will provide more reliable, trustworthy and actionable information for users experiencing personal crises, such as suicidal thoughts, sexual assault,"
+    publishedDateTime: 2022-03-31T03:08:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/624519d473a84b78766f0b1b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 729
+        isCached: true
   - title: "Google applies advanced AI to suicide prevention and reducing graphic search results"
     excerpt: "Google has been rolling out smarter Artificial Intelligence systems, and says it is now putting them to work to help keep people safe. In particular, the search giant shared new information Wednesday about how it is using these advanced systems for suicide and domestic violence prevention,"
     publishedDateTime: 2022-03-30T16:00:00Z
@@ -42,6 +58,47 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Revving Up Relational Databases For Scorching Native AI Performance"
+    excerpt: "There may not be as much structured data in the world as there is unstructured data, but one could easily argue that the structured data – mostly"
+    publishedDateTime: 2022-03-30T16:07:00Z
+    webUrl: "https://www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/"
+    ampWebUrl: "https://www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 57
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/heatwave.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Nearly 80 Percent of Financial Firms Use AI to Improve Services, Reduce Fraud"
+    excerpt: "NVIDIA’s “State of AI in Financial Services” survey details the growth of AI adoption in capital markets, retail banking and investment firms. From the largest firms trading on Wall Street to banks providing customers with fraud protection to fintechs recommending best-fit products to consumers,"
+    publishedDateTime: 2022-03-28T19:37:00Z
+    webUrl: "https://www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 56
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/State-of-AI-in-FSI_Image_700x500.jpg"
+        width: 700
+        height: 500
+        isCached: true
+  - title: "How AI Technology Helps Restaurants Improve the Customer Experience"
+    excerpt: "As The New York Times recently reported, the pressures on staffing is one of the reasons restaurants have been moving away from answering customer telephone calls. Some restaurant owners reported being just too busy preparing"
+    publishedDateTime: 2022-03-29T18:11:00Z
+    webUrl: "https://restauranttechnologynews.com/2022/03/how-ai-technology-helps-restaurants-improve-the-customer-experience/"
+    type: article
+    provider:
+      name: restauranttechnologynews
+      domain: restauranttechnologynews.com
+    quality: 17
 
 secured: "BkYbAzjkRxzI5+DiDnKYUe3VWfCVaGnD1w5JhONOQqHxra5Q4cI1MaeHBuIQd4tiU7px4c+802L7uCGiq9iOcCaMdIScVHoUSVflwPwVw/3eDDPeGKskvv45+15zYbAd+Bpw/DvI1uMBwEBAfJtFZ49N0ULJ2npUucb43y7kwMLq3X9QcdSo9oZIj+vJG60+BKTpSQBb1XyrjLljpm8qS17O8bFMnM6KZgYZ/sT85ZRXV82LsdXY8bQBK/jy3jqmbeXze0eIUVR20iviaFuBxZHItuiuQwyAYRt98/k5UzHtNzXr+OEPh3bMN6PA4Qlzj8WNSRneNsCZYQsnKlc4PVWz5hNi1DsSmve7XqTXu6w=;MBslBaU8oliTrKd36CK23w=="
 ---

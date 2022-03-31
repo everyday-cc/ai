@@ -27,64 +27,79 @@ images:
     isCached: true
 
 related:
-  - title: "Accelerating Financial Services With AI"
-    excerpt: "AI is enabling brighter financial futures for consumers and businesses. From traditional banks to new fintechs, the financial services industry is powering use cases with AI such as preventing payments fraud,"
-    publishedDateTime: 2022-03-28T19:37:00Z
-    webUrl: "https://www.globalbankingandfinance.com/accelerating-financial-services-with-ai/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/accelerating-financial-services-with-ai/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/accelerating-financial-services-with-ai/"
+  - title: "Google Using AI To Improve Search Results For Those Experiencing Personal Crises"
+    excerpt: "Google is rolling out improvements to its search engine that will provide more reliable, trustworthy and actionable information for users experiencing personal crises, such as suicidal thoughts, sexual assault,"
+    publishedDateTime: 2022-03-31T03:08:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/amp/"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 82
     images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/Accelerating-FSI_Image_700x500.jpg"
-        width: 700
-        height: 500
+      - url: "https://imageio.forbes.com/specials-images/imageserve/624519d473a84b78766f0b1b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 729
         isCached: true
-  - title: "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices"
-    excerpt: "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment by Qualcomm Ventures,"
-    publishedDateTime: 2022-03-29T15:08:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-san-jose-venture-capital-artificial-intelligence-3c9b1122a386442a83dab3822c84a7dd"
+  - title: "Google applies advanced AI to suicide prevention and reducing graphic search results"
+    excerpt: "Google has been rolling out smarter Artificial Intelligence systems, and says it is now putting them to work to help keep people safe. In particular, the search giant shared new information Wednesday about how it is using these advanced systems for suicide and domestic violence prevention,"
+    publishedDateTime: 2022-03-30T16:00:00Z
+    webUrl: "https://mashable.com/article/google-suicide-domestic-violence-ai-prevention"
+    ampWebUrl: "https://mashable.com/article/google-suicide-domestic-violence-ai-prevention?amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/google-suicide-domestic-violence-ai-prevention?amp"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
+      name: Mashable
+      domain: mashable.com
+    quality: 80
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://helios-i.mashable.com/imagery/articles/06ejXjgqVaRZFxsW2g2uIL6/hero-image.fill.size_1200x675.v1648590637.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Top AI trends for financial services in 2022"
-    excerpt: "Globally in 2020, more than 70 billion real-time payment transactions were processed – an increase of 41% compared to the previous year. by Charles Sutton, Financial Services and FinTech Lead EMEA, NVIDIA This massive rise in transactions has presented an opportunity for criminals to conduct more fraudulent activities like account takeovers,"
-    publishedDateTime: 2022-03-30T11:06:00Z
-    webUrl: "https://ibsintelligence.com/blogs/top-ai-trends-for-financial-services-in-2022/"
+  - title: "Revving Up Relational Databases For Scorching Native AI Performance"
+    excerpt: "There may not be as much structured data in the world as there is unstructured data, but one could easily argue that the structured data – mostly"
+    publishedDateTime: 2022-03-30T16:07:00Z
+    webUrl: "https://www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/"
+    ampWebUrl: "https://www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/amp/"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 57
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/03/Picture1-1.png"
-        width: 624
-        height: 289
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/heatwave.jpg"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices"
-    excerpt: "GGV Capital Leads Seed Round, with Additional Investments from Qualcomm Ventures, Foothill Ventures and moreSAN JOSE, Calif.--(BUSINESS WIRE)--#AI--OmniML, a startup developing smaller and faster machine learning models,"
-    publishedDateTime: 2022-03-29T18:08:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=638792"
+  - title: "Google and Meta are using artificial intelligence to mitigate problems such as suicide, violence and machismo"
+    excerpt: "Google presented innovations in artificial intelligence systems that nourish its search engine. These improvements aim to optimize the content that users access when searching for information about suicide,"
+    publishedDateTime: 2022-03-30T16:00:00Z
+    webUrl: "https://www.infobae.com/en/2022/03/30/google-and-meta-are-using-artificial-intelligence-to-mitigate-problems-such-as-suicide-violence-and-machismo/"
+    ampWebUrl: "https://www.infobae.com/en/2022/03/30/google-and-meta-are-using-artificial-intelligence-to-mitigate-problems-such-as-suicide-violence-and-machismo/?outputType=amp-type"
+    cdnAmpWebUrl: "https://www-infobae-com.cdn.ampproject.org/c/s/www.infobae.com/en/2022/03/30/google-and-meta-are-using-artificial-intelligence-to-mitigate-problems-such-as-suicide-violence-and-machismo/?outputType=amp-type"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 37
+      name: Infobae
+      domain: infobae.com
+    quality: 38
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://www.infobae.com/new-resizer/7Ywmlp2b-31JXSukx1M-tYktDRQ=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/AA6Y3H4UCZHRJOCY4ACA42DMN4.jpg"
+        width: 1200
+        height: 628
         isCached: true
+  - title: "How AI Technology Helps Restaurants Improve the Customer Experience"
+    excerpt: "As The New York Times recently reported, the pressures on staffing is one of the reasons restaurants have been moving away from answering customer telephone calls. Some restaurant owners reported being just too busy preparing"
+    publishedDateTime: 2022-03-29T18:11:00Z
+    webUrl: "https://restauranttechnologynews.com/2022/03/how-ai-technology-helps-restaurants-improve-the-customer-experience/"
+    type: article
+    provider:
+      name: restauranttechnologynews
+      domain: restauranttechnologynews.com
+    quality: 17
 
 secured: "z1HhA7Ag91O56rs4L9uGW3STsW0FJGJcSMYKcxxkViKBBuRFv00Z43GmEur+yudGgW6AxXMti0/DK9weStTw+94dL4NUb2uNF0XYOaHeYyNWnpAfWpRLuWLk7tinSkk4SJTToIfM0dsnmts/RoJ7FStV0NbnuNFwg6MEVnisioBnSnbsAn1/o/dPdtsGpqaUFiQ4zti5rwuHpFNOfa8diZLjuu4tjGBJOMjnSVnuzzebMohZVtCezKxKY1GQWS4wMoe7XKhU/MKx0qjcqWepqFAwhuYIxnZ5xstkSIKKA11QMjyu5RY5SfhvpFr2xlp2IccMg/ntGD7vafYSDokcPS20UcWjdsm3bKs4LtFxq7nyu5WfCK7/a5aP2r6x6OlxJ8LPS8hTdmIP+2j2opzRUkH0Y6s1omTokTOuYHsQ4wkp76C1GfzA0Ys9CHspaVl7sYnM7vB4bKfvV7bFsAWXXvbbnuR6F1NnOvzZKBhvZHICxBJCwz/BZZfFQwhCIaVq8pPC2KuAIliDqTIQX26Bhg==;CQ9/lNq0hfR9/73e0iTnbA=="
 ---

@@ -2,6 +2,100 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-03-23-sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition.md",
+      "title": "São Paulo subway ordered to suspend use of facial recognition",
+      "excerpt": "The company responsible for running the São Paulo metro system was ordered to suspend the use of facial recognition technology. According to the decision issued on Tuesday by judge Cynthia Thome at the São Paulo State Court,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
+      "originalUrl": "https://www.zdnet.com/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
+      "publishedDateTime": "2022-03-23T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes.md",
+      "title": "Business Leaders And AI In 2022: Five Ways To Achieve Transformative Outcomes",
+      "excerpt": "Multimodal AI will expand the scope of AI applicability, creating use cases far beyond what anyone could have imagined a few years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60a2963f177a3e9f63eec918/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/amp/",
+      "publishedDateTime": "2022-03-23T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence.md",
       "title": "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence",
       "excerpt": "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),",
@@ -101,32 +195,32 @@
       "title": "DARKTRACE AI STOPS CYBER-ATTACK EXPLOITING LOG4J VULNERABILITY AT GLOBAL FINANCIAL SERVICES PROVIDER",
       "excerpt": "Darktrace, a global leader in cyber security AI, today announced that a global provider of financial services recently detected and stopped an attacker attempting to leverage a vulnerability in Log4j to deploy malicious code across the organization.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/darktrace-ai-stops-cyber-attack-exploiting-log4j-vulnerability-at-global-financial-services-provider-1031300596",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/darktrace-ai-stops-cyber-attack-exploiting-log4j-vulnerability-at-global-financial-services-provider-1031300596",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-financial-services-7fbe2c04e075b78ac3ea5be23b90b8f5",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-financial-services-7fbe2c04e075b78ac3ea5be23b90b8f5",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T02:45:00-07:00",
+      "publishedDateTime": "2022-03-23T02:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1109,83 +1203,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-adt-commercial-to-showcase-humanoid-robotics-indoor-drones-at-isc-west-2022.md",
-      "title": "ADT Commercial to showcase humanoid robotics, indoor drones at ISC West 2022",
-      "excerpt": "Over the last several years, the world and overall commercial security landscape transform rapidly in response to various threats. As the industry has looked for a path forward, it’s",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
-      "publishedDateTime": "2022-03-22T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-gigantor-technologies-provides-an-unbounded-future-for-ai.md",
-      "title": "Gigantor Technologies’ Provides an Unbounded Future for AI",
-      "excerpt": "Gigantor's newest innovation enhances Artificial Intelligence (AI) neural networks by enabling higher frame rates at the highest resolution (HD, 4K, and 8K). In the Patent Title, 'Unbounded ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/gigantor-technologies-provides-an-unbounded-future-for-ai/article_36a01318-5835-5e1e-ab3f-63bec027805d.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/gigantor-technologies-provides-an-unbounded-future-for-ai/article_36a01318-5835-5e1e-ab3f-63bec027805d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

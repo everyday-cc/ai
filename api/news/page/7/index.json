@@ -2,6 +2,100 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-24-how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones.md",
+      "title": "How Samsung is using AI software to up the camera game on its smartphones",
+      "excerpt": "Samsung has applied approximately 60 AI models for the functions of the cameras on the Galaxy S22 Ultra, which a company executive says allows it to take detailed photos of closeups, night scenes and even match the quality of a DSLR camera.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
+      "originalUrl": "https://www.zdnet.com/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4f683ac35b12bd8929b668b72853ed82a55b545a/2022/02/08/f548c7c3-917b-4523-9ba3-1d19ef8df620/1-30-galaxy-s22-ultra-portrait2-hi.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
+      "publishedDateTime": "2022-03-23T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-cedars-sinai-says-artificial-intelligence-tool-may-help-predict-heart-attacks.md",
+      "title": "Cedars-Sinai Says Artificial Intelligence Tool May Help Predict Heart Attacks",
+      "excerpt": "Cedars-Sinai researchers developed an artificial-intelligence algorithm that expedites the process to quantify a patient's coronary plaque. And after \"training'' the algorithm, researchers said it accurately predicted the five-year heart attack risk for 1,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcsandiego.com/news/national-international/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2903072/",
+      "originalUrl": "https://www.nbcsandiego.com/news/national-international/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2903072/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcsandiego.com/2019/09/Silent_Heart_Attacks_55sec_365_large_448x336.jpg?quality=85&strip=all&fit=448%2C336",
+          "width": 448,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcsandiego.com/news/national-international/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2903072/?amp",
+      "cdnAmpWebUrl": "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/national-international/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2903072/?amp",
+      "publishedDateTime": "2022-03-23T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC 7 San Diego",
+        "domain": "nbcsandiego.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-amds-fsr-20-is-john-henry-versus-nvidia-dlsss-machine-learning.md",
       "title": "AMD’s FSR 2.0 is John Henry versus Nvidia DLSS’s machine learning",
       "excerpt": "AMD's FSR 2.0 is coming soon to games like DeathLoop, and it is closing the gap against Nvidia's DLSS technology.",
@@ -1086,100 +1180,6 @@
         "name": "theverge.com/2022/3/23/22991667/snap-buys-nextmind-brain-computer-interface-spectacles-ar-glasses",
         "domain": "theverge.com/2022/3/23/22991667/snap-buys-nextmind-brain-computer-interface-spectacles-ar-glasses",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition.md",
-      "title": "São Paulo subway ordered to suspend use of facial recognition",
-      "excerpt": "The company responsible for running the São Paulo metro system was ordered to suspend the use of facial recognition technology. According to the decision issued on Tuesday by judge Cynthia Thome at the São Paulo State Court,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
-      "originalUrl": "https://www.zdnet.com/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
-      "publishedDateTime": "2022-03-23T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes.md",
-      "title": "Business Leaders And AI In 2022: Five Ways To Achieve Transformative Outcomes",
-      "excerpt": "Multimodal AI will expand the scope of AI applicability, creating use cases far beyond what anyone could have imagined a few years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60a2963f177a3e9f63eec918/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/amp/",
-      "publishedDateTime": "2022-03-23T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

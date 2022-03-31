@@ -41,22 +41,6 @@ related:
         width: 700
         height: 500
         isCached: true
-  - title: "Nearly 80 Percent of Financial Firms Use AI to Improve Services, Reduce Fraud"
-    excerpt: "NVIDIA’s “State of AI in Financial Services” survey details the growth of AI adoption in capital markets, retail banking and investment firms. From the largest firms trading on Wall Street to banks providing customers with fraud protection to fintechs recommending best-fit products to consumers,"
-    publishedDateTime: 2022-03-28T19:37:00Z
-    webUrl: "https://www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 56
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/State-of-AI-in-FSI_Image_700x500.jpg"
-        width: 700
-        height: 500
-        isCached: true
   - title: "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices"
     excerpt: "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment by Qualcomm Ventures,"
     publishedDateTime: 2022-03-29T15:08:00Z

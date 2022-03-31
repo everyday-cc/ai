@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2022/03/28/ai-visionary-an
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/03/28/ai-visionary-and-cio-leader-atefeh-riazi-of-memorial-sloan-kettering/amp/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -40,7 +40,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6244fcbb6b9172a70d31a3b8/0x0.jpg?format=jpg&width=1200"
         width: 1200

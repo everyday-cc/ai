@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-31-ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-estee-lauder.md",
+      "title": "AI Visionary, Leader And 21st Century Maverick Sol Rashidi Of Estée Lauder",
+      "excerpt": "My Conversation with one of the most influential, inspirational and brilliant minds. As part of my Series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was honored to converse with Sol Rashidi.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6244fcbb6b9172a70d31a3b8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/amp/",
+      "publishedDateTime": "2022-03-30T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner.md",
       "title": "Will Zalatoris On Predictive Analytics, Fantasy Golf And Tips For Picking A Masters Winner",
       "excerpt": "Last year’s Masters runner-up Will Zalatoris offers tips to fantasy golf players on how to pick winners in Augusta.",
@@ -1340,41 +1393,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-ibm-watson-could-revolutionize-healthcare.md",
-      "title": "IBM Watson Could Revolutionize Healthcare",
-      "excerpt": "If you’ve been watching Jeopardy! over the past couple days, you probably know that IBM’s highly-advanced artificial intelligence software, Watson, has been competing against Jeopardy!’",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2011/02/ibm_watson_could_revolutionize_healthcare.html",
-      "originalUrl": "https://www.medgadget.com/2011/02/ibm_watson_could_revolutionize_healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

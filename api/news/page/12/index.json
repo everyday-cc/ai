@@ -2,6 +2,102 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-03-18-the-role-of-artificial-intelligence-in-transforming-call-centers.md",
+      "title": "The Role Of Artificial Intelligence In Transforming Call Centers",
+      "excerpt": "A 2020 survey from Interactions LLC discovered that mid-to-high level executives now consider improved customer experience as the most important reason to implement AI. This finding pushes “cost reduc",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/role-artificial-intelligence-transforming-call-centers-aiqomai",
+      "originalUrl": "https://www.linkedin.com/pulse/role-artificial-intelligence-transforming-call-centers-aiqomai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGqd7zWpfE0Hg/article-cover_image-shrink_720_1280/0/1647552201094?e=1653523200&v=beta&t=XG2YDr477P-pZs5ZSfmWGjsZwYl0hefnclq2Q2S_O_E",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-chipotle-tests-chippy-an-ai-kitchen-assistant-from-miso-robotics.md",
+      "title": "Chipotle Tests Chippy: An AI Kitchen Assistant From Miso Robotics",
+      "excerpt": "Chipotle Mexican Grill has revealed a new autonomous kitchen assistant that makes tortilla chips. The unit, dubbed Chippy, was developed in collaboration with Miso Robotics, whose Flippy robots have seen deployments in several White Castle restaurants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iotworldtoday.com/2022/03/17/chipotle-tests-chippy-an-ai-kitchen-assistant-from-miso-robotics/",
+      "originalUrl": "https://www.iotworldtoday.com/2022/03/17/chipotle-tests-chippy-an-ai-kitchen-assistant-from-miso-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.iotworldtoday.com/files/2022/03/5138.jpg",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iotworldtoday",
+        "domain": "iotworldtoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-some-segments-of-the-public-support-facial-recognition-use-by-police-but-not-all.md",
       "title": "Some segments of the public support facial recognition use by police — but not all",
       "excerpt": "A new Pew poll finds that a plurality of Americans support facial recognition use among law enforcement, but racial divides exist.",
@@ -1040,101 +1136,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-harness-the-power-of-artificial-intelligence-fueled-by-first-party-data.md",
-      "title": "Harness the power of artificial intelligence fueled by first-party data",
-      "excerpt": "Own paid channels, own the competition Advertising consistently struggles to engage customers with relevant messages that are delivered when and where they’re likely to convert. Traditional advertisin",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/harness-power-artificial-intelligence-fueled-data-scarpati-mba",
-      "originalUrl": "https://www.linkedin.com/pulse/harness-power-artificial-intelligence-fueled-data-scarpati-mba",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEhREq2qLA77g/article-cover_image-shrink_600_2000/0/1647526465943?e=1654128000&v=beta&t=ozM6V4Rb4FhLOX53rQUyvuEXjDVwoq8izxQa0-ugTEw",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-1-how-americans-think-about-artificial-intelligence.md",
-      "title": "1. How Americans think about artificial intelligence",
-      "excerpt": "Artificial intelligence (AI) is spreading through society into some of the most important sectors of people’s lives – from health care and legal services",
-      "sourceUrl": null,
-      "webUrl": "https://www.pewresearch.org/internet/2022/03/17/how-americans-think-about-artificial-intelligence/",
-      "originalUrl": "https://www.pewresearch.org/internet/2022/03/17/how-americans-think-about-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/03/PS_2022.03.17_ai-he_01-01.png?w=420",
-          "width": 420,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pew Research Center",
-        "domain": "pewresearch.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

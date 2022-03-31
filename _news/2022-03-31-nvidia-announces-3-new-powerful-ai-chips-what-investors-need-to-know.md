@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sharewise.com/us/news_articles/Nvidia_Announces_3_New_Po
 cdnAmpWebUrl: "https://www-sharewise-com.cdn.ampproject.org/c/s/www.sharewise.com/us/news_articles/Nvidia_Announces_3_New_Powerful_AI_Chips_What_Investors_Need_to_Know_TheMotleyFool_20220324_1355/amp"
 type: article
 quality: 74
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: sharewise.com
@@ -25,6 +25,24 @@ images:
     width: 718
     height: 404
     isCached: true
+
+related:
+  - title: "How Nvidia is harnessing AI to improve predictive maintenance"
+    excerpt: "Nvidia is pursuing a tech-stack-based approach starting with new silicon to help manufacturers make sense of the massive amount of data and help with predictive maintenance, which is core to many organizations' Maintenance,"
+    publishedDateTime: 2022-03-30T22:20:00Z
+    webUrl: "https://venturebeat.com/2022/03/30/how-nvidia-is-harnessing-ai-to-improve-predictive-maintenance/"
+    ampWebUrl: "https://venturebeat.com/2022/03/30/how-nvidia-is-harnessing-ai-to-improve-predictive-maintenance/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/how-nvidia-is-harnessing-ai-to-improve-predictive-maintenance/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/nvidia.jpg?w=1200&strip=all"
+        width: 1200
+        height: 604
+        isCached: true
 
 secured: "dCr5uvVMvORo85DVEeoJkkZ+IGUyKK0xc3Pkw+pSZ/GKDwMCmVPV3Ua4/bQR1X/314MUvAiuYn2+pXV6StRQ937tve+aheTpGuYqUHLHEQLNmiWVU2c6F4lDGqXHyQsKWmP0j5MMDgZ0mG4eepWcZb7rFDMdLw9G2lfC20oWFGmec/U68EZRUMVdjAOUhohawoKWZmkDgsCRnsfPlqaZANLHwqR48dFq3rJvmUztPdUhDNOShdG+65/cBfJzu8XCwWxRWsFAlKAVi8pjI7ONmfZtrzcMyFRmk0KKSxsvVySySNmDpnTmPvaavYdZZoNPgxjh5ZBr+CuS7S5dMGiYL5oHRdMig0l9aLL7bBjQXZc=;jY3B6TJFAOFmEpExDyZyIg=="
 ---

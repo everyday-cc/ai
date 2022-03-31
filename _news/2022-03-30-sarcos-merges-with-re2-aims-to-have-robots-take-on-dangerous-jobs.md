@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/29/sarcos-merges-with-re2-aims-to-ha
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs/amp/"
 type: article
 quality: 104
-heat: 105
+heat: 106
 published: true
 
 provider:

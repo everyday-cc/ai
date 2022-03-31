@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-25-ibm-understands-the-art-of-the-deal.md",
+      "title": "IBM understands the art of the deal",
+      "excerpt": "They’d be good for IBM, and maybe even America ... suggesting that infrastructure projects incorporate internet-of-things technology and artificial intelligence, urging the country to use data to curb waste and supporting efforts to reform the tax ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.breakingviews.com/considered-view/ibm-understands-the-art-of-the-deal/",
+      "originalUrl": "https://www.breakingviews.com/considered-view/ibm-understands-the-art-of-the-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.breakingviews.com/wp-content/uploads/2016/11/ibmwatson.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Breakingviews",
+        "domain": "breakingviews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-newgen-utilizes-microsoft-azure-applied-ai-services-for-enhanced-automation.md",
+      "title": "Newgen Utilizes Microsoft Azure Applied AI Services for Enhanced Automation",
+      "excerpt": "Newgen Software, a global provider of low code digital transformation platform, is pleased to announce integration with Microsoft Azure Applied AI Services for enhanced automation, and support for Azure Form Recognizer for intelligent document processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ciodive.com/press-release/20220324-newgen-utilizes-microsoft-azure-applied-ai-services-for-enhanced-automation/",
+      "originalUrl": "https://www.ciodive.com/press-release/20220324-newgen-utilizes-microsoft-azure-applied-ai-services-for-enhanced-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1648161116/press_release/assets/company_logos/Logo_square_ffrue0.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T15:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO Dive",
+        "domain": "ciodive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-mayo-clinic-assessing-google-ai-tool-as-it-seeks-more-insights-from-patient-records.md",
       "title": "Mayo Clinic Assessing Google AI Tool as It Seeks More Insights From Patient Records",
       "excerpt": "Mayo Clinic said it is assessing a product from Google Cloud that uses artificial intelligence to better track and analyze language-based information in patients’ electronic health records, such as doctor’s notes.",
@@ -158,49 +244,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-25-leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service-provider-index.md",
-      "title": "Leveraging its AI-Driven Technology, Pactera EDGE Climbs Four Positions on Slator’s 2022 Language Service Provider Index",
-      "excerpt": "Enhanced Localization and Globalization Services Solidifies Pactera EDGE as a Market Leader in Effective Brand Translations",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service-provider-index",
-      "originalUrl": "https://www.digitaljournal.com/pr/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service-provider-index",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prunderground.com/wp-content/uploads/2022/03/SLATOR-LSPSI-Image.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-25-bear-robotics-raises-81m-in-series-b-funding.md",
       "title": "Bear Robotics Raises $81M in Series B Funding",
       "excerpt": "Bear Robotics, a Redwood City, CA-based provider of hospitality robotics and artificial intelligence solutions, raised $81M in Series B funding",
@@ -240,6 +283,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service-provider-index.md",
+      "title": "Leveraging its AI-Driven Technology, Pactera EDGE Climbs Four Positions on Slator's 2022 Language Service Provider Index",
+      "excerpt": "Growth in its AI-Enhanced Localization and Globalization Services ... Provider Index is a ranking and an index of the world's largest translation, localization, interpreting, and language technology companies. \"We've experienced significant organic growth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service/article_9e4966e0-a8b8-5215-a906-c97477c8b704.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service/article_9e4966e0-a8b8-5215-a906-c97477c8b704.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1106,100 +1192,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones.md",
-      "title": "How Samsung is using AI software to up the camera game on its smartphones",
-      "excerpt": "Samsung has applied approximately 60 AI models for the functions of the cameras on the Galaxy S22 Ultra, which a company executive says allows it to take detailed photos of closeups, night scenes and even match the quality of a DSLR camera.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
-      "originalUrl": "https://www.zdnet.com/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4f683ac35b12bd8929b668b72853ed82a55b545a/2022/02/08/f548c7c3-917b-4523-9ba3-1d19ef8df620/1-30-galaxy-s22-ultra-portrait2-hi.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
-      "publishedDateTime": "2022-03-23T22:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-cedars-sinai-says-artificial-intelligence-tool-may-help-predict-heart-attacks.md",
-      "title": "Cedars-Sinai Says Artificial Intelligence Tool May Help Predict Heart Attacks",
-      "excerpt": "Cedars-Sinai researchers developed an artificial-intelligence algorithm that expedites the process to quantify a patient's coronary plaque. And after \"training'' the algorithm, researchers said it accurately predicted the five-year heart attack risk for 1,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcsandiego.com/news/national-international/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2903072/",
-      "originalUrl": "https://www.nbcsandiego.com/news/national-international/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2903072/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcsandiego.com/2019/09/Silent_Heart_Attacks_55sec_365_large_448x336.jpg?quality=85&strip=all&fit=448%2C336",
-          "width": 448,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcsandiego.com/news/national-international/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2903072/?amp",
-      "cdnAmpWebUrl": "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/national-international/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2903072/?amp",
-      "publishedDateTime": "2022-03-23T21:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC 7 San Diego",
-        "domain": "nbcsandiego.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

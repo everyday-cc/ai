@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-30-will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner.md",
+      "title": "Will Zalatoris On Predictive Analytics, Fantasy Golf And Tips For Picking A Masters Winner",
+      "excerpt": "Last year’s Masters runner-up Will Zalatoris offers tips to fantasy golf players on how to pick winners in Augusta.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/",
+      "originalUrl": "https://www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62434ef83c1a23cbed4ab6ab/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/amp/",
+      "publishedDateTime": "2022-03-30T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-milken-lerner-back-healthcare-start-up-that-leverages-ai.md",
+      "title": "Milken, Lerner Back Healthcare Start-up That Leverages AI",
+      "excerpt": "Zephyr AI, a healthcare technology company backed by blue-chip investors including Michael Milken and the Lerner family, has raised $18.5 million in its latest seed funding round. Although the round is fairly small,",
+      "sourceUrl": null,
+      "webUrl": "https://www.institutionalinvestor.com/article/b1xcyzkgf83dyc/Milken-Lerner-Back-Healthcare-Start-up-That-Leverages-AI",
+      "originalUrl": "https://www.institutionalinvestor.com/article/b1xcyzkgf83dyc/Milken-Lerner-Back-Healthcare-Start-up-That-Leverages-AI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.institutionalinvestor.com/media/AMG/II/articles/1/1/1/art_zephyr.jpg",
+          "width": 1000,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Institutional Investor",
+        "domain": "institutionalinvestor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-builderai-raises-100m-series-c-led-by-insight-partners-to-scale-up-its-software-automation.md",
       "title": "Builder.ai raises $100M Series C led by Insight Partners to scale up its software automation",
       "excerpt": "When we started covering Builder.ai a few years ago, the startup was tapping into a new wave of businesses wanting their own native apps. The previous wave of agency-built and outsourced apps was waining,",
@@ -147,7 +243,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/29/sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -388,7 +484,7 @@
       "originalUrl": "https://indiaeducationdiary.in/training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1117,111 +1213,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children.md",
-      "title": "How AI Is Using Facial Detection To Spot Rare Diseases In Children",
-      "excerpt": "This is where computer vision can help. Shniberg built Face.com, a facial recognition platform that discovered over 18 billion faces on the internet. He sold the company to Facebook in 2012. When he and his partner, Lior Wolf, looked at other impactful ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/",
-      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6242c02ee1639ec08c4650f5/0x0.png?format=png&width=1200",
-          "width": 620,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/amp/",
-      "publishedDateTime": "2022-03-29T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-artificial-intelligence-really-isnt-all-that-intelligent.md",
-      "title": "Artificial intelligence really isn’t all that intelligent",
-      "excerpt": "Narrow AI applications such as Google Search and Amazon Alexa are great at solving specific problems, but only as long as you stick to the script.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.html",
-      "originalUrl": "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_automation_thinkstock_643956998-100749919-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.amp.html",
-      "publishedDateTime": "2022-03-29T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

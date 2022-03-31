@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-28-todays-homebuying-process-is-a-fixer-upper-lets-use-ai-to-remodel.md",
+      "title": "Today’s Homebuying Process Is A Fixer-Upper; Let’s Use AI To Remodel",
+      "excerpt": "In the spirit of opening new doors, here are three ways real estate companies can leverage AI to help buyers find and secure their dream homes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/03/28/todays-homebuying-process-is-a-fixer-upper-lets-use-ai-to-remodel/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/03/28/todays-homebuying-process-is-a-fixer-upper-lets-use-ai-to-remodel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623e28836ef7b58a90859094/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 841,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/03/28/todays-homebuying-process-is-a-fixer-upper-lets-use-ai-to-remodel/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/03/28/todays-homebuying-process-is-a-fixer-upper-lets-use-ai-to-remodel/amp/",
+      "publishedDateTime": "2022-03-28T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-28-big-pharma-companies-partner-to-form-ai-based-start-up.md",
       "title": "Big pharma companies partner to form AI-based start-up",
       "excerpt": "Israel-based AION Labs and German independent research institute BioMed X announced its third global call for applications to form a new start-up company focused on using AI to design and optimise antibodies for targeted therapies.",
@@ -632,7 +683,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -780,6 +831,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-27-border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal.md",
+      "title": "Border Patrol adds artificial intelligence cameras to security arsenal",
+      "excerpt": "Border agents in the past five months have participated in 6,630 search and rescues of migrants along the Southwestern border. They’re hoping newly deployed technology will help them not only stop",
+      "sourceUrl": null,
+      "webUrl": "https://www.rochesterfirst.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/",
+      "originalUrl": "https://www.rochesterfirst.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rochesterfirst.com/wp-content/uploads/sites/66/2022/03/CBP-IMAGE-ASTs.png?w=1280",
+          "width": 896,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rochesterfirst.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/",
+      "cdnAmpWebUrl": "https://www-rochesterfirst-com.cdn.ampproject.org/c/s/www.rochesterfirst.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/",
+      "publishedDateTime": "2022-03-26T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WROC-TV",
+        "domain": "rochesterfirst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-03-26-the-ten-commandments-for-using-ai-in-hiring-decisions.md",
       "title": "The Ten Commandments For Using AI In Hiring Decisions",
       "excerpt": "Want to avoid a Great Resignation-type mass exodus of your workers? Want to win the war for talent in the automation age? Want to treat your fellow workers with the dignity we all deserve? Embrace the Ten Commandments in your organization now.",
@@ -891,7 +985,7 @@
       "originalUrl": "https://techxplore.com/news/2022-03-ex-google-ai-skeptic-timnit-gebru.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1112,99 +1206,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-26-report-70-of-us-consumers-want-to-use-ai-for-their-jobs.md",
-      "title": "Report: 70% of U.S. consumers want to use AI for their jobs",
-      "excerpt": "While workers are interested in AI, they still want to maintain control over their solutions, rather than have AI run tasks automatically.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/25/report-70-of-u-s-consumers-want-to-use-ai-for-their-jobs/",
-      "originalUrl": "https://venturebeat.com/2022/03/25/report-70-of-u-s-consumers-want-to-use-ai-for-their-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1314526613-e1648140906488.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/25/report-70-of-u-s-consumers-want-to-use-ai-for-their-jobs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/25/report-70-of-u-s-consumers-want-to-use-ai-for-their-jobs/amp/",
-      "publishedDateTime": "2022-03-25T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-26-artificial-intelligence-key-to-unlock-the-future-dr-kpodar.md",
-      "title": "Artificial Intelligence key to unlock the future - Dr Kpodar",
-      "excerpt": "Artificial Intelligence AI use of simulation of human intelligence in machines that are programmed to think like humans and mimic their actions has assumed national discourse and Ghana must prepare to launch in that space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernghana.com/news/1147718/artificial-intelligence-key-to-unlock-the-future.html",
-      "originalUrl": "https://www.modernghana.com/news/1147718/artificial-intelligence-key-to-unlock-the-future.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.modernghana.com/images/content/325202293401-i4dp266gfa-picture-i-tma001-science-artificial-intelligence-.jpg",
-          "width": 800,
-          "height": 296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernghana.com/amp/news/1147718/artificial-intelligence-key-to-unlock-the-future.html",
-      "cdnAmpWebUrl": "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1147718/artificial-intelligence-key-to-unlock-the-future.html",
-      "publishedDateTime": "2022-03-25T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Modernghana.com",
-        "domain": "modernghana.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -41,22 +41,6 @@ related:
         width: 700
         height: 500
         isCached: true
-  - title: "Nearly 80 Percent of Financial Firms Use AI to Improve Services, Reduce Fraud"
-    excerpt: "NVIDIA’s “State of AI in Financial Services” survey details the growth of AI adoption in capital markets, retail banking and investment firms. From the largest firms trading on Wall Street to banks providing customers with fraud protection to fintechs recommending best-fit products to consumers,"
-    publishedDateTime: 2022-03-28T19:37:00Z
-    webUrl: "https://www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 56
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/State-of-AI-in-FSI_Image_700x500.jpg"
-        width: 700
-        height: 500
-        isCached: true
   - title: "Top AI trends for financial services in 2022"
     excerpt: "Globally in 2020, more than 70 billion real-time payment transactions were processed – an increase of 41% compared to the previous year. by Charles Sutton, Financial Services and FinTech Lead EMEA, NVIDIA This massive rise in transactions has presented an opportunity for criminals to conduct more fraudulent activities like account takeovers,"
     publishedDateTime: 2022-03-30T11:06:00Z
