@@ -73,10 +73,26 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Intel Shows off the First Arc A-Series Desktop GPU; Slated to Release in Summer 2022"
+    excerpt: "Intel has revealed its first Intel Arc desktop GPU, along with its A-series Arc Gaming GPUs for laptops. Here are the details to know."
+    publishedDateTime: 2022-03-31T06:49:00Z
+    webUrl: "https://beebom.com/intel-first-arc-a-series-desktop-gpu-release-summer-2022/"
+    ampWebUrl: "https://beebom.com/intel-first-arc-a-series-desktop-gpu-release-summer-2022/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/intel-first-arc-a-series-desktop-gpu-release-summer-2022/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 52
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2022/03/Intel-Arc-desktop-GPU-feat..jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Intel Arc GPU specs, release date, features and more"
-    excerpt: "Like the A350M, this GPU has 1,150MHz graphics clock and 4GB of VRAM ... These GPUs also support Intel's XeSS AI-powered supersampling tech, which taps into the power of special Matrix Extensions (XMX) AI engines in the Arc GPUs to algorithmically improve ..."
-    publishedDateTime: 2022-03-31T04:17:00Z
-    webUrl: "https://www.tomsguide.com/uk/news/intel-arc-gpu-specs-release-date-features-and-more"
+    excerpt: "Arc graphics cards are discrete GPUs that are more powerful than the Intel Iris Xe GPUs integrated into Intel CPUs. Now that they're here, Intel is in a position to challenge Nvid"
+    publishedDateTime: 2022-03-31T04:00:00Z
+    webUrl: "https://www.tomsguide.com/news/intel-arc-gpu-specs-release-date-features-and-more"
     type: article
     provider:
       name: Tom's Guide

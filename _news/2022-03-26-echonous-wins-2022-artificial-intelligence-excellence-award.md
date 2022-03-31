@@ -2,28 +2,25 @@
 category: news
 title: "EchoNous Wins 2022 Artificial Intelligence Excellence Award"
 excerpt: "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program."
-publishedDateTime: 2022-03-25T20:09:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
-webUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-ultrasound-fa70393282ce4f1799d164c7ccfb724f"
+publishedDateTime: 2022-03-25T20:11:00Z
+originalUrl: "https://www.lelezard.com/en/news-20305699.html"
+webUrl: "https://www.lelezard.com/en/news-20305699.html"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "/RgHh270zE2jgxyOgElgS/xSOyvn0C9pzY5acoZj5JzkjQ5+HNxiibdBWBFMasaJFknMQ/vNvYX64j6bDoEwSmgkVW8q5bxeIIuITaXmJrxc7ZLyl43bP3Syk13ZohLhHGNyaMj2Yo0YUz1R3vPI5qrRuBOPViDOG0BW9vg+qKnct9PttsO+zUu30Drqt89JdRRO60pGCn3QeTbJDbktOv3rgvI5nQIyCcN2GwYwJiu4GctqKfKcO+eEgAHEKNX1J42kguNUabEY9DcGqC1nRVOviC8hyBLPSNxR4S0MHiRvzroImrn5DJIslvORHAZLkhM/I4DTBCrZ29RXu2JB74J0UcHC/UteC5hdSlP0A1c=;JeUJLjo6GEnU6NeHB3nxwQ=="
+secured: "4KqNuNY4YMxfT03wU4jGOJ8i2l2fcovipCwHMy+7xUqlBFppeaE/R+N87bvVKn6X3YIrSrOgHCYdAgYIrCKpvqBePqCuhgcKTWpr+5sbmbHQCoKdDt5z9gjs4+RUzFkY+91P5t+vU51oXXziY2l0nxSp/ixf/FjCP1Ks60BXyh+72PaqBrVvVJl0grrcu2XhyL3NFdJyLzf9YkK0jkuuZ+RuBDsWoFYQYKH8s2SnxJbBhqw5ub2/yIczS7qt8CqrwqSvEs9DqUb2+1y/sx34O1pxHZ45P9IgOcAH5yXQtQts3z5bmMAY1gzgimddcG0Gp1jJR+vlNuvtCd+0XbTJ91/bFxzfIHDDvAWK6SeMFU8=;j7Hoa5wjTGHtMpei7XX1xg=="
 ---
 

@@ -1,27 +1,31 @@
 ---
 category: news
 title: "\"Global Recognition for Unique AI Human Technology\" DeepBrain AI participates 'NVIDIA GTC 2022', Presenting AI Human Technology and Research Outcome"
-excerpt: "DeepBrain AI CTO Kyung-Soo Chae presents time-reducing, lip sync video synthesis technology. Participates in \"Digital Human and Interactive AI\" session panel to introduce current status of AI Human industry."
-publishedDateTime: 2022-03-30T03:34:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai/article_84ad56c7-e432-5421-a282-c9d48010ae88.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai/article_84ad56c7-e432-5421-a282-c9d48010ae88.html"
+excerpt: "DeepBrain AI CTO Kyung-Soo Chae presents time-reducing, lip sync video synthesis technology. Participates in 'Digital Human and Interactive AI'"
+publishedDateTime: 2022-03-30T03:49:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome-1031316927"
+webUrl: "https://markets.businessinsider.com/news/stocks/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome-1031316927"
 type: article
-quality: 0
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/d4/0d426e0b-9545-5ad0-a2b1-9a902fd9b70f/6243d30c04387.image.jpg?crop=917%2C481%2C0%2C37&resize=917%2C481&order=crop%2Cresize"
-    width: 917
-    height: 481
+  - url: "https://mma.prnewswire.com/media/1775564/image_5001494_28856558.jpg"
+    width: 400
+    height: 243
     isCached: true
 
 related:
@@ -84,6 +88,6 @@ related:
         height: 324
         isCached: true
 
-secured: "4EgDtNSS3v2/lBlN0eKgocVe5YhgIfZ567JBN0CeMo5SiFdaMZK4GIpvvKzWrnb8tqW7vwG7UaiiE7T5KLAJ1R4IxgWfk9N0bjWtvykkll1Ehj3wrdX9KADtGAODRzbue5WYepsaEEs74Nq2LHSLKP7aVHU/X0Z3v0XVPkdTWtq1/lfKRiBlYdsj+8y1RqJRWKx09iSky5WWoVjyfIgnjnUyltR+eJ5wN6E5ihCC+rVRotfnl9fuzWxZxiByV+ofrcfoCs3QvGo4sy9Oc0Xzp0ZYu4hIk5ZpSGqGCHg5tqUT/uw2HxiIh5oUBbt/tn2Y8lJ1iuV4Wr3waHLCbNO4baWy5/wPNDoHnaXz1R8XMrxGLHdo4ZP21gWS/HtHXadVUNGpi4NHGTDgybNHnTiwQCEeM96Bex/AL7AtdrDoDVaYprbkhQyiOi4PRvkxO3JY0SXfaG7VTybqlLax6YB+4Nkx20gsVG09Iy0O/w6ypsMRXjeqUFPzMgACfbPw5VPYC8IyeD7sgwFlt4UBe691wA==;HTqjSdnl3bCKQoLxD9zCEA=="
+secured: "kBr7ocr2VQCzxljVNuP2/lHV+I01Fmdv2baOBnwYnwMIkHd9NsUpmrKYasm2jynZvuACfRJyPgDtiTe08PQlu1EXg4mI20dLuc+mTFMhZb+gJfVRqL2KTVLZ2sbb3rBhXTesISWaMEpszESmNc/x6BrhPBZPv0W0TGLfsPKbWJ8KDKegynGcn8O/vU/wtSqPGIyCABZwRJE4ipC8wYqlAzm7gBLFeqK9tGVnrwR1y5OQsRJZ8bqAZ760OLArQICSrDdmLhPnOquhSaCngZk2svklm0ZmHzMTF6WWxpQ11+WzYROaNW17X0+M5jKBN8sGL95yy0hyawkDZ5MiXQBKe/c3NmNbuuGPLcgTMd9F9Wc=;FbgHB0w2L/f8ZTgkLh0yvQ=="
 ---
 

@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-24-microsoft-boosts-its-ai-translation-capabilities.md",
+      "title": "Microsoft boosts its AI translation capabilities",
+      "excerpt": "Unlike previous AI models, Z-code models utilize a ... As such, the models learn to translate between multiple languages simultaneously. At the same time, newly introduced Z-code MoE models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/microsoft-boosts-its-ai-translation-capabilities",
+      "originalUrl": "https://www.techradar.com/news/microsoft-boosts-its-ai-translation-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/C6bmmDwjYdb4D4whKn5yVc-1200-80.jpg",
+          "width": 610,
+          "height": 344,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones.md",
       "title": "How Samsung is using AI software to up the camera game on its smartphones",
       "excerpt": "Samsung has applied approximately 60 AI models for the functions of the cameras on the Galaxy S22 Ultra, which a company executive says allows it to take detailed photos of closeups, night scenes and even match the quality of a DSLR camera.",
@@ -972,8 +1025,8 @@
       "title": "Deep Bio Presented Deep Learning-based Cancer Research at the USCAP 111th Annual Meeting",
       "excerpt": "These deep learning-based pathology algorithms demonstrated their potential utility as cancer diagnostic support software. The studies explore how deep learning can be utilized in cancer diagnosis ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/deep-bio-presented-deep-learning-based-cancer-research-at-the-uscap-111th-annual-meeting/article_fb89bd72-1138-5658-a13c-550b38c89c13.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/deep-bio-presented-deep-learning-based-cancer-research-at-the-uscap-111th-annual-meeting/article_fb89bd72-1138-5658-a13c-550b38c89c13.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deep-bio-presented-deep-learning-based-cancer-research-at-the-uscap-111th-annual-meeting/article_fb89bd72-1138-5658-a13c-550b38c89c13.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deep-bio-presented-deep-learning-based-cancer-research-at-the-uscap-111th-annual-meeting/article_fb89bd72-1138-5658-a13c-550b38c89c13.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -992,7 +1045,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T06:08:00-07:00",
+      "publishedDateTime": "2022-03-23T06:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "WFMZ-TV",
@@ -1147,48 +1200,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-snap-buys-brain-computer-interface-startup-for-future-ar-glasses.md",
-      "title": "Snap buys brain-computer interface startup for future AR glasses",
-      "excerpt": "Meta, Apple, and a slew of other tech companies are building augmented reality glasses with displays that place computing on the world around you. The idea is that this type of product will one day become useful in a similar way to how smartphones transformed what computers can do.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/3/23/22991667/snap-buys-nextmind-brain-computer-interface-spectacles-ar-glasses",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/snap-buys-brain-computer-interface-startup-for-future-ar-glasses/ar-AAVpcdR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/UvP-RTF2oKzEcEarNqu4n7AWuNE=/0x120:6144x3337/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23337938/NextMind.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theverge.com/2022/3/23/22991667/snap-buys-nextmind-brain-computer-interface-spectacles-ar-glasses",
-        "domain": "theverge.com/2022/3/23/22991667/snap-buys-nextmind-brain-computer-interface-spectacles-ar-glasses",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

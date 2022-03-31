@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Intel Arc GPU specs, release date, features and more"
-excerpt: "Like the A350M, this GPU has 1,150MHz graphics clock and 4GB of VRAM ... These GPUs also support Intel's XeSS AI-powered supersampling tech, which taps into the power of special Matrix Extensions (XMX) AI engines in the Arc GPUs to algorithmically improve ..."
-publishedDateTime: 2022-03-31T04:17:00Z
-originalUrl: "https://www.tomsguide.com/uk/news/intel-arc-gpu-specs-release-date-features-and-more"
-webUrl: "https://www.tomsguide.com/uk/news/intel-arc-gpu-specs-release-date-features-and-more"
+excerpt: "Arc graphics cards are discrete GPUs that are more powerful than the Intel Iris Xe GPUs integrated into Intel CPUs. Now that they're here, Intel is in a position to challenge Nvid"
+publishedDateTime: 2022-03-31T04:00:00Z
+originalUrl: "https://www.tomsguide.com/news/intel-arc-gpu-specs-release-date-features-and-more"
+webUrl: "https://www.tomsguide.com/news/intel-arc-gpu-specs-release-date-features-and-more"
 type: article
 quality: 39
 heat: -1
@@ -87,6 +87,22 @@ related:
         width: 1648
         height: 927
         isCached: true
+  - title: "Intel Shows off the First Arc A-Series Desktop GPU; Slated to Release in Summer 2022"
+    excerpt: "Intel has revealed its first Intel Arc desktop GPU, along with its A-series Arc Gaming GPUs for laptops. Here are the details to know."
+    publishedDateTime: 2022-03-31T06:49:00Z
+    webUrl: "https://beebom.com/intel-first-arc-a-series-desktop-gpu-release-summer-2022/"
+    ampWebUrl: "https://beebom.com/intel-first-arc-a-series-desktop-gpu-release-summer-2022/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/intel-first-arc-a-series-desktop-gpu-release-summer-2022/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 52
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2022/03/Intel-Arc-desktop-GPU-feat..jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Intel shares first look at Arc A-series desktop GPU"
     excerpt: "After a delay into Q2 2022, INtel has finally shared a first look at its upcoming line of desktop GPUs with a peek at a limited edition card."
     publishedDateTime: 2022-03-30T17:30:00Z
@@ -111,6 +127,6 @@ related:
       domain: guru3d.com
     quality: 19
 
-secured: "98E5O1TJf/HaiAJF2TOACAmsDI6QtY+fESn6slyA6miFA8208wSwxcFMrlkYw22f9ND0KeXQ2NVYovv9hi3imWfRLQoQc0d7OT75X+OEhZu3Nxqei04VinucevsSoNPjJA4OFeuF8lnMLQG2biWvAjCpU28neanK4ZfHVsTfz/mX7jqG+M1Nj1sje++m8P4sWta6A97/Bg/cb4nMZIzBlUEVbPn7DiSrLmVxup7h8PWod0bvoWRna/SMvrGOIFQ9Nzof9PjDZPBzBBoLlMFEkuVJXQ3J2XWn0Rhl/0ppe2bFUjUtbP43Qq1bW/t5gmItkofa2rpNhoBLFvdUc/CDeFi05wsMf6VUOGM6Xa4iiic=;Ri0Rc6jxu8rEc0YbnG+dgA=="
+secured: "xkDg5PbvlntDYhKaYZScItvqjtli7bc8avoeK8wcN9O88/aLAblRsfvFG+SIZ+4PsVfUHBFgVbj8LyCR8N/YCLKjJiBUQHwaXF3HD5jRXMlyQ2qEjF3QZYnS0YwHUiUllbETjVB/pJ86o1upSeZOPCsmP41CcUl4ozI4OhBYFXeDCbt6OcZSxh4VXP629Sx1ESYUZcJanLFbEvsh9+0u0tmfBry/c6JLQfF8vJfniWvGhVxI8F8o4WboxEBIFIdwg1bwuicrDVjrMNsNrjSdcGzKaC8E23Pk9ARdtzRmZRW6wmqxSQ+pIazrD9CylAC6eLKsXhoE1lJYsH8Sc1RLCHX7fK48dhZdYUZh9wTYdvo=;aMfReBkqJJj7xs/rTByoYQ=="
 ---
 

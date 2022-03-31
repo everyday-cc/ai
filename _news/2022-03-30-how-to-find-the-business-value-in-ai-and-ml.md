@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/amp/"
 type: article
 quality: 104
-heat: 156
+heat: 155
 published: true
 
 provider:
