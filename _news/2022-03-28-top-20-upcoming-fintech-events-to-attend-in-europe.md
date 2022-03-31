@@ -149,6 +149,22 @@ related:
         width: 1260
         height: 754
         isCached: true
+  - title: "Bill Parsons Joins Fintech TIFIN as EVP, GM of TIFIN Grow"
+    excerpt: "TIFIN, which \"shapes the future of investor experiences,\" has announced tBill Parsons has joined as EVP, GM of TIFIN Grow."
+    publishedDateTime: 2022-03-31T01:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/03/189097-bill-parsons-joins-fintech-tifin-as-evp-gm-of-tifin-grow/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/03/189097-bill-parsons-joins-fintech-tifin-as-evp-gm-of-tifin-grow/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/189097-bill-parsons-joins-fintech-tifin-as-evp-gm-of-tifin-grow/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Fintech-Blooming.jpg"
+        width: 1600
+        height: 1184
+        isCached: true
   - title: "Swiss spend management fintech Yokoy raises $80m"
     excerpt: "To date, Yokoy has raised more than $107m and it says the new funding will be used to fuel international expansion, product developing and expanding headcount."
     publishedDateTime: 2022-03-29T10:14:00Z

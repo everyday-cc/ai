@@ -1,31 +1,27 @@
 ---
 category: news
 title: "\"Global Recognition for Unique AI Human Technology\" DeepBrain AI participates 'NVIDIA GTC 2022', Presenting AI Human Technology and Research Outcome"
-excerpt: "DeepBrain AI CTO Kyung-Soo Chae presents time-reducing, lip sync video synthesis technology. Participates in 'Digital Human and Interactive AI'"
-publishedDateTime: 2022-03-30T03:49:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome-1031316927"
-webUrl: "https://markets.businessinsider.com/news/stocks/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome-1031316927"
+excerpt: "DeepBrain AI CTO Kyung-Soo Chae presents time-reducing, lip sync video synthesis technology. Participates in \"Digital Human and Interactive AI\" session panel to introduce current status of AI Human industry."
+publishedDateTime: 2022-03-30T03:34:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai/article_84ad56c7-e432-5421-a282-c9d48010ae88.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai/article_84ad56c7-e432-5421-a282-c9d48010ae88.html"
 type: article
-quality: 30
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Facebook AI
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1775564/image_5001494_28856558.jpg"
-    width: 400
-    height: 243
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/d4/0d426e0b-9545-5ad0-a2b1-9a902fd9b70f/6243d30c04387.image.jpg?crop=917%2C481%2C0%2C37&resize=917%2C481&order=crop%2Cresize"
+    width: 917
+    height: 481
     isCached: true
 
 related:
@@ -88,6 +84,6 @@ related:
         height: 324
         isCached: true
 
-secured: "HwIOujnSKLIshuz+CkNrYpaQVPGzqKiWTLOGsVKx5G/O0bqSPcUCkpd4ri/1SeIwJazAiezYTp1Hgs8s43MAVZDXXINdtuCcJIdFyjx6hwFh1dZKquNfehVidGR15oSD0A4yK0k+8jnxTNvMhSyoiEzeRg81i6cwRkDl8IEBNBFHd1tJMEP6aEcSuk920fWZslUNd9epWUBBD0arkcOtQQh48PNl3d5i0B7vkVVSO7uMx1yWRRTedvJbU5GJD647hn4ws//T4Eu0VnLDcID8xhsdONzVJoouI3QVxAvOrpRYtGZT/WLvdoiRAfXGjoNUOYJE8vFxxglhYTcEpvDH4OFRAOEoDI8/ZUFyyY/bRIY=;3gVB3p4hmukRyY7sjeOroQ=="
+secured: "yrW5OeVO6ZWbSPe1nfcUQ9QpVPtH0ytWeGBxlkn2fGXfqCPaHfv4EXBkadOdQOyRNrCE+cb6Jz/DTotFB6yw223M/qTBns82yWNJGf/OLlDxjL+8QMuOkeTdxpFqR/4UE7oYKNleYoTk/+H7bHtxygny92s6wiFLDsV58pUm2PK9WqqUgpCP/TPFQ401eho+5/PkAUQ13rYZ358ofroFWZ+GqDhLzgMBU0AHWxvIXJ1CJvQRvXqnej3DbTL3z0QHKy2SmHNUUWPYPGENziKntcEjE/m9ltmw6krEoOC1Cs2Pc+JLpS/r/LT/eyzvcLjJtsd5vwhytBdL4Ywd4vZmpOS+r/TFrNVt23023ME6fV8=;qufoa6HI8PRr1NKjLKn8xw=="
 ---
 

@@ -41,6 +41,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Tesla Full Self-Driving tech on pause as chief engineer takes leave"
+    excerpt: "The delay-plagued autonomous driving program is faced with a new obstacle. Tesla's Full Self-Driving program is likely set to face new delays, with a lead"
+    publishedDateTime: 2022-03-31T00:41:00Z
+    webUrl: "https://www.drive.com.au/news/tesla-full-self-driving-tech-development-on-pause-as-chief-engineer-takes-leave/"
+    type: article
+    provider:
+      name: Drive.com.au
+      domain: drive.com.au
+    quality: 39
+    images:
+      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,h_720,w_1280/q_auto:eco/f_auto/v1/cms/uploads/gth84rmv86yo5ygasmpq?_a=AAAH2GX"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Here’s why Elon Musk says Tesla’s self-driving feature doesn’t work downtown Toronto"
     excerpt: "Canadian Tesla drivers are getting to test out the Full Self-Driving (FSD) Beta across the country, for now, downtown Toronto is off limit."
     publishedDateTime: 2022-03-29T20:08:00Z

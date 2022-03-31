@@ -73,6 +73,22 @@ related:
         width: 1000
         height: 680
         isCached: true
+  - title: "Virginia Tech Transportation Institute researching ways to bring self-driving cars to you"
+    excerpt: "Researchers in Blacksburg are leading cutting edge research to help self-driving come to a city near you. BLACKSBURG, Va. – Researchers in Blacksburg are leading cutting-edge research to help self-driving come to a city near you. Manufacturers are ..."
+    publishedDateTime: 2022-03-31T01:38:00Z
+    webUrl: "https://www.wsls.com/news/local/2022/03/31/virginia-tech-transportation-institute-researching-ways-to-bring-self-driving-cars-to-you/"
+    ampWebUrl: "https://www.wsls.com/news/local/2022/03/31/virginia-tech-transportation-institute-researching-ways-to-bring-self-driving-cars-to-you/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsls-com.cdn.ampproject.org/c/s/www.wsls.com/news/local/2022/03/31/virginia-tech-transportation-institute-researching-ways-to-bring-self-driving-cars-to-you/?outputType=amp"
+    type: article
+    provider:
+      name: WSLS 10
+      domain: wsls.com
+    quality: 35
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/03-30-2022/t_325edbb1af134364812308208d8d82e0_name_image.jpg?_a=ATABld60"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Apple ups driver count for self-driving car tests, signaling increase in program resources"
     excerpt: "Apple is continuing to slowly expand its autonomous vehicle testing program in California as it has 10 new drivers registered to its crew."
     publishedDateTime: 2022-03-30T16:07:00Z

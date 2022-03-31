@@ -1,23 +1,20 @@
 ---
 category: news
 title: "SAS and Clemson University deploy AI and machine learning software for education and research"
-excerpt: "SAS skills among students and supports analysis of massive datasetsCARY, N.C., March 24, 2022 /PRNewswire/ -- Clemson"
-publishedDateTime: 2022-03-24T15:58:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
-webUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
+excerpt: "Clemson students and faculty will have access to powerful data science and analytics software from SAS thanks to a new, $3.3 million donation to support teaching and academic research. Extending a 2017 partnership,"
+publishedDateTime: 2022-03-24T15:51:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
   - AI in Education
 
 images:
@@ -26,6 +23,6 @@ images:
     height: 266
     isCached: true
 
-secured: "8YZa6sg+ANy4IQBjZpyklqeUlQMruMCIEM6aLdAZcvhkG9EYU6waQzQngJQzdeqq7csPtP+Wn8Oe/Yl7torGLTECsKiRm9vNrn2443pWzk+dF/IjKsIjXExfCFhpiCW+7KYMD2hXY6Ej06UTrUsqlSRqQp18skI2JjfWGofbPccRmXVJRtKT6LOFsd4JC7KtuFQO6O0BBfC/0Ib0lG7xRG82LTykxZD7aTFSuESqouJJ1/sBDBXyrBTelAhPKeQBscufXe45QYN8dKLutQV/LZ1g6czXEbbf5SYRsQ+qhYRirek+TNplBOoNH6b245HugTc7E9VHtrlgiX0yXA9edZJHsSs27/124ouiMFfMDx0=;e0owPccAf1cEv4o8Sqvy2A=="
+secured: "P1VuyVVycpEavYH+qN87S9UKwMY2JyChdflO+Eg50tmUMOIOsvaMltmQLKz4Ctb5y+yFKnC/w46v3sgWuitwLt7Dm/Ki7ZcmZX8rqM62YSOOHr2TT9uhweRrBYyMJsS6MaVEJtHL39/xDF4Jxhm6uwOobzQhirkgJtexwOik4Z/lb8B5mIeobl3Trc90cOfIBi9Ku+U8oaa0GBzQlXNTizhW5CJnjj6mnjc5/Go5RrHI6oJ+A7FJL1rjEwRVDIrnv4/vdZYUdk2jLWJ5kbkMcIzygmkm4t4FB9WBRhpKSDVdUvMp8KOXdCpa2OzfNJr7QKnc1xkJTgeuBP5rDmt+6vm3CNJbxY/oWQph0Lv/cuc=;smDenrddBukhS8GJCXtbxg=="
 ---
 

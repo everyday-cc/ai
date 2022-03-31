@@ -149,6 +149,22 @@ related:
         width: 1260
         height: 754
         isCached: true
+  - title: "Bill Parsons Joins Fintech TIFIN as EVP, GM of TIFIN Grow"
+    excerpt: "TIFIN, which \"shapes the future of investor experiences,\" has announced tBill Parsons has joined as EVP, GM of TIFIN Grow."
+    publishedDateTime: 2022-03-31T01:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/03/189097-bill-parsons-joins-fintech-tifin-as-evp-gm-of-tifin-grow/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/03/189097-bill-parsons-joins-fintech-tifin-as-evp-gm-of-tifin-grow/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/189097-bill-parsons-joins-fintech-tifin-as-evp-gm-of-tifin-grow/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Fintech-Blooming.jpg"
+        width: 1600
+        height: 1184
+        isCached: true
   - title: "Top 10 Most Promising Fintech Firms in India 2022"
     excerpt: "FinTech firms are technological alternatives to traditional financial firms’ back-end systems in the twenty-first century. Find out the top 10 most p"
     publishedDateTime: 2022-03-26T17:12:00Z

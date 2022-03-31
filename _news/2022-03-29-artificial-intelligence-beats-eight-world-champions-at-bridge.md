@@ -3,13 +3,13 @@ category: news
 title: "Artificial intelligence beats eight world champions at bridge"
 excerpt: "Victory marks milestone for AI as bridge requires more human skills than other strategy games"
 publishedDateTime: 2022-03-29T04:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge?via=indexdotco"
-webUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge?via=indexdotco"
+originalUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
+webUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
 type: article
-quality: 57
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Autos
   - AI
 
 images:
@@ -47,6 +48,6 @@ related:
         height: 506
         isCached: true
 
-secured: "Vj6rmJzjh8x0v877szF7er8l6ArWvWZelapbpsOEaP12S16gkm25YWI6XLKMfM0s5ojIgC3KyToz/M0y7UIapy7py/To027m4KeZh5Z8G7qOb1FKOUqWy13eS03oLDAHjcF7RxwfpeyZHPqcP/7pwXKHL4bsPRdmgFeC5CCeJ56C+mxORFz8RH+bNvqHtEsAHWoL0hQGs9bKlIVd6ZilVu/ASzBAPc8qCqUOjEYTyV0lpinHvvKA0iheO8V+OY/S70/gWpBSMzHflM/C7Bp62OBtuR6qL9hq8BDfEKYxGSVwkGIuD3nqBakiau+kPL46BcKuO8o34c39dbbhsCumarJR8/jc0tRGtwczCF54Zxg=;UotjM4te5EdFZYw+moGaGw=="
+secured: "Mx31+jQomjY/zPaqeFMazwFQyE7whiCWmszIO4Vs7GYUcZmCMzmKTJO4Jvp6Vy9W6w7XZoTydeghdhDdDXV2jWsvu3FmAJ7UXRe7pTBAdukkG9UhQ79Ya103RAliHDTTM86x4853kUC5fDbET/zBW9E8UXHBme9RLY8S3g0EiZDLkR8O2uJZyUyjJN2w4KcVoidMy+4jSWshTRzQ2IcmUOFDaO4aQJEaZNdtpg6xAZcF5KDrLJCr/RvPXYv5Lj4e4d4N1kfCO5aXqqGzNZxGQKIL8jkK19pNn8G+3xn6qhWmeQxiTEEFi3+KH9wqYiTRajIQ9myUNhivzmdFDZNNX9BydqH5NSFPM1ucPhMC9yQ=;PPFc87DTg9SIlv0CU0Z3+A=="
 ---
 

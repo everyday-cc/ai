@@ -54,10 +54,24 @@ related:
         width: 721
         height: 337
         isCached: true
+  - title: "Using artificial intelligence in agriculture"
+    excerpt: "The adoption of pesticides, fertilisers and high-yield crop breeds, among other measures, transformed agriculture and ensured a secure food supply for many millions of people over several decades. Concurrently,"
+    publishedDateTime: 2022-03-29T18:00:00Z
+    webUrl: "https://kathmandupost.com/columns/2022/03/30/using-artificial-intelligence-in-agriculture"
+    type: article
+    provider:
+      name: kathmandupost
+      domain: kathmandupost.com
+    quality: 41
+    images:
+      - url: "https://assets-cdn.kathmandupost.com/uploads/source/news/2022/opinion/shutterstock_1307579191.jpg"
+        width: 3397
+        height: 3492
+        isCached: true
   - title: "Breaking into the black box of artificial intelligence"
     excerpt: "In February 2020, with COVID-19 spreading rapidly around the globe and antigen tests hard to come by, some physicians turned to artificial intelligence (AI) to try to diagnose cases 1. Some researchers tasked deep neural networks — complex systems that are adept at finding subtle patterns in images — with looking at X-rays and chest computed tomography (CT) scans to quickly distinguish between people with COVID-based pneumonia and those without 2."
     publishedDateTime: 2022-03-29T14:28:00Z
-    webUrl: "https://www.nature.com/articles/d41586-022-00858-1"
+    webUrl: "https://www.nature.com/articles/d41586-022-00858-1?error=cookies_not_supported&code=b416cd61-ab8f-4dea-a6f7-c76c01e7969f"
     type: article
     provider:
       name: Nature

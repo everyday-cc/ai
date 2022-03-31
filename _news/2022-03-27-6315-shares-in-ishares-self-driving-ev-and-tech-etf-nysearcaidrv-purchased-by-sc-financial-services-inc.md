@@ -9,7 +9,7 @@ ampWebUrl: "https://www.etfdailynews.com/2022/03/27/6315-shares-in-ishares-self-
 cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/03/27/6315-shares-in-ishares-self-driving-ev-and-tech-etf-nysearcaidrv-purchased-by-s-c-financial-services-inc/amp/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 650
     height: 350
     isCached: true
-
-related:
-  - title: "Spire Wealth Management Boosts Stock Position in iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV)"
-    excerpt: "Spire Wealth Management grew its holdings in shares of iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV – Get Rating) by 118.6% in the fourth quarter, according to its most recent filing with the Securities and Exchange Commission (SEC)."
-    publishedDateTime: 2022-03-26T08:04:00Z
-    webUrl: "https://www.etfdailynews.com/2022/03/26/spire-wealth-management-boosts-stock-position-in-ishares-self-driving-ev-and-tech-etf-nysearcaidrv/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/03/26/spire-wealth-management-boosts-stock-position-in-ishares-self-driving-ev-and-tech-etf-nysearcaidrv/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/03/26/spire-wealth-management-boosts-stock-position-in-ishares-self-driving-ev-and-tech-etf-nysearcaidrv/amp/"
-    type: article
-    provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 29
-    images:
-      - url: "https://www.marketbeat.com/scripts/SECFilingChart.ashx?Prefix=NYSEARCA&Symbol=IDRV"
-        width: 650
-        height: 350
-        isCached: true
 
 secured: "TX3cFJRMOlM1dPoz9ti0+kmhcLogn2X4cZSrS7kOrQGlD+lWxpchsmB0qq0xnhk2uOEgotLJHyOCvmvr9qpjictviHHX1TVT+NraZRrdFUbUEcCbq21i1HbkkkLfGEagNWXxemSteideoJphM2RFV50Z3ItiOUp4j4njr7/obTe/znsf3DAP+d5PRRhgVEWX6dHkwvaUePN4nF9l9hjggnSLgGPaD6Tpc1KngjSqwHLqSb5WVg/vbK8V3dGWzpctXFhenm7sIzlEsILM/Yp3Z3HWsFncDsFzeoJrImTJ9mVW2TeNCvgSn/G14WFU2iEpBFPbVMguBDV7GP5MdYL40ixMReuSIxAyiQyHYAha/C4pfL5biw98KR41XCSEPqxZAGfGHo1jdy+wbmE3egm5tP1fwoPQbJL4d0b6AJYcgLDlMkrBUZ4xV2hTSpTbUJIhAOzv3p7fmxylLKNXiZTYnM5wnnBrw6z+KDuid54O9MmJL5hZ3BrAn0098CiamkOQG2Tm6GkgiNoIzo+HOC3xkA==;cR3K9JwWR+k6m9lZDiSYJg=="
 ---

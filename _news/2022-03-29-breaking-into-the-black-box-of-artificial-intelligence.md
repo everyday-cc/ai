@@ -3,8 +3,8 @@ category: news
 title: "Breaking into the black box of artificial intelligence"
 excerpt: "In February 2020, with COVID-19 spreading rapidly around the globe and antigen tests hard to come by, some physicians turned to artificial intelligence (AI) to try to diagnose cases 1. Some researchers tasked deep neural networks — complex systems that are adept at finding subtle patterns in images — with looking at X-rays and chest computed tomography (CT) scans to quickly distinguish between people with COVID-based pneumonia and those without 2."
 publishedDateTime: 2022-03-29T14:28:00Z
-originalUrl: "https://www.nature.com/articles/d41586-022-00858-1"
-webUrl: "https://www.nature.com/articles/d41586-022-00858-1"
+originalUrl: "https://www.nature.com/articles/d41586-022-00858-1?error=cookies_not_supported&code=b416cd61-ab8f-4dea-a6f7-c76c01e7969f"
+webUrl: "https://www.nature.com/articles/d41586-022-00858-1?error=cookies_not_supported&code=b416cd61-ab8f-4dea-a6f7-c76c01e7969f"
 type: article
 quality: 39
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: nature.com
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-00858-1/d41586-022-00858-1_20249634.jpg"
@@ -55,6 +55,20 @@ related:
         width: 721
         height: 337
         isCached: true
+  - title: "Using artificial intelligence in agriculture"
+    excerpt: "The adoption of pesticides, fertilisers and high-yield crop breeds, among other measures, transformed agriculture and ensured a secure food supply for many millions of people over several decades. Concurrently,"
+    publishedDateTime: 2022-03-29T18:00:00Z
+    webUrl: "https://kathmandupost.com/columns/2022/03/30/using-artificial-intelligence-in-agriculture"
+    type: article
+    provider:
+      name: kathmandupost
+      domain: kathmandupost.com
+    quality: 41
+    images:
+      - url: "https://assets-cdn.kathmandupost.com/uploads/source/news/2022/opinion/shutterstock_1307579191.jpg"
+        width: 3397
+        height: 3492
+        isCached: true
   - title: "About AI on the rise"
     excerpt: "A series exploring how the pandemic has supercharged the use of artificial intelligence tools at work and school"
     publishedDateTime: 2022-03-29T19:32:00Z
@@ -81,6 +95,6 @@ related:
         height: 756
         isCached: true
 
-secured: "QNnM/e2AWZUmwyo9OzSgjpwXL3MWt2qk4Ujei4QAIghsRZKHkU2mA0GUz43uPqfAJl5Vp8tf830my8fs0bqyRQ6zYeOInmpeeZkmJrU2ZuOMo8x78aJiRkywrEpqESCp+7xoSFrEHPQCu87gOM2OraF8hewEdWsKcKbiM4+H/6og4zNeC5jPhNO3g/F1XezOG95joEvycwfNFhvEepqYWkCJU0mbM7oRt1XPvLbWm3MXqRsEnRBoUhQ/Iip4A1DYrYpiQjD0JDPmb6Y7Tqtsn3BOTmS+I/kbQ95HgjjLvIjQuc5TGQIeXbCIw5xQ+YdWaLs8xQucYimtroXB2LkfPd3Q+n/muGJoOUjDjfg66Z0=;vphLGr44X5lkISZ20AWtdA=="
+secured: "jFHhvaEYMhz4AEFoJu1MeipmzX4uVB+toDl4p5bFIvPHMFRXjpAyBjPFm1csX7o2TF9TZKqeSuMVIcOobatlLkkq/H1DBU5E3cjiLRcH2wYVaoH/4v6hfZq/B7iaCnhFDd59lFvEqG29Y6cBq4cxRG3Qp4JzEVMkSuzmisS4+8ujQiZqJcTpGurINTs7MXTwV9LIHqwY7GpvjGCIAM6cyIvp7auw3rLNbHwzM04pz7QEFaezUdCYHaxG/0qdJHsdEJoTklMSf2DS+z67xKRzWhKXIpmLw3zXfFrKQSm6rSxYJjsq0FO2u5sKxz5QnG759H21CgqDxNcXEzVggLOch6v2y8mUL5WkXv5XacpWZsM=;ZC78eQBZnGZf5H3G0yqsUQ=="
 ---
 

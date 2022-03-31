@@ -2,9 +2,9 @@
 category: news
 title: "Google uses deep learning to design faster, smaller AI chips"
 excerpt: "Googlers and UC Berkeley academics say they have devised a way to use artificial intelligence to design faster and smaller chips that accelerate artificial intelligence. In a note shared on Thursday,"
-publishedDateTime: 2022-03-18T03:38:00Z
-originalUrl: "https://www.theregister.com/2022/03/18/google_deep_learning_chip_design/"
-webUrl: "https://www.theregister.com/2022/03/18/google_deep_learning_chip_design/"
+publishedDateTime: 2022-03-18T03:12:00Z
+originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/03/18/google_deep_learning_chip_design/"
+webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/03/18/google_deep_learning_chip_design/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/03/18/google_deep_learning_chip_design/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/18/google_deep_learning_chip_design/"
 type: article
@@ -14,9 +14,9 @@ provider:
   domain: theregister.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI Hardware
+  - AI
+  - Machine Learning
 
 images:
   - url: "https://regmedia.co.uk/2019/10/08/shutterstock_ai_chip_design.jpg"
@@ -24,6 +24,6 @@ images:
     height: 750
     isCached: true
 
-secured: "AscK4v6/K+fUfAmHiCKDBeWQzWBnYo3iVwc5yM2TQDBSQ3UjuZb+mjFxY/naOIxNkLdQyVQ/mutSlfyIc7p+BFNDWEDdak3cMDU32c+blgnU9yVeThMLBIGrpnGTPBB4U1D3iTA3Ovgm3Y+ZCPLCj0ESbYUJaX79nNqwYNDeBxW755Tyk4kvSf1NyRcMxQ9JqtNsb/Vup/V3FbjTC8MY477b+dxgkR+5b2TjfiEnKlSus85WRNaA7XFLQF3Scdm7vwkgSh6yt9H+COmRP7YezLfuYE1a9TWv5efqlgPNttzoBpPoN0Nqt5K+JZdCsWVFO8EW0/7AQzhWO8GZqUz+i2eJOetTCeMOO/uQEDtjxZfczTA4pO1V9USFebITxWqY7tgfZIZtt5YfpSFsYiSXmsirYlLxTFhkmlKm8vJZcEpbBU7wdUUM6/eaELC+hfoXpj8ywBt9vre3XjD1T+UQtsrlNUVjHPUbUE2IGH5ewqf2egtqx+1gcS41V4AfwzA5GHNIwP48mL9eprtScVt8JA==;QbtqCjuMXwejMp7ZhoRsMA=="
+secured: "V1uww1KhJ4NclNUUZa4IhbTsGXXpyzquutcwiaRqEq08T2l3HPa1gE7rPWnPTsGngQZ0/Ft03UnJuKX/RwqPcqTIHUaWdyXJ2pXb8tuz0mn5J9N9ucSNo2H/2u78XKNdvjni2LpXI+Pgs7GMjtMXsQxKjQzP4EVmWLWZ4MJvB9BqvO2vmmUmFmfE8Ytq1J8+LpKDm1dQ2wVS4/LSR0CodtE/vpgU/KMUYlTgroBwe7JkDnUFYG+bKlT9c+QSL+Dv/tGmEPAxWSBuRop9ULITKSurbh+cIJiQ8AEslJrjChsCjWEYxzgWp3gN+ycaerLssS/N0Y7NDVOUvwUYYjcAfl4aD+2dDNKpkggXIQlOFz0=;ZGMp9rrc92ITWz0VZ0vmOA=="
 ---
 
