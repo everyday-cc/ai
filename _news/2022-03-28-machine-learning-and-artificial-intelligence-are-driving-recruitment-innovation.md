@@ -44,7 +44,7 @@ related:
   - title: "CORSIGHT AI ANNOUNCES U.S. EXPANSION DUE TO MARKET DEMAND FOR LEADING AI FACIAL RECOGNITION TECHNOLOGY"
     excerpt: "Building On Widespread Customer Adoption and Demand, Corsight Brings Millisecond AI Facial Recognition Technology to Private and Public Sectors Worldwide"
     publishedDateTime: 2022-03-31T13:06:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/corsight-ai-announces-u-s-expansion-due-to-market-demand-for-leading-ai-facial-recognition/article_d776c69f-2b5f-5064-b6c4-3aae81c529bb.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/corsight-ai-announces-u-s-expansion-due-to-market-demand-for-leading-ai-facial-recognition/article_d776c69f-2b5f-5064-b6c4-3aae81c529bb.html"
     type: article
     provider:
       name: WFMZ-TV

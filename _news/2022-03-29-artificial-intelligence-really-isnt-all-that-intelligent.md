@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3651357/artificial-intelligence-re
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.amp.html"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Physiological signals could be the key to 'emotionally intelligent' AI, scientists say"
+    excerpt: "Speech and language recognition technology is a rapidly developing field, which has led to the emergence of novel speech dialog systems, such as Amazon Alexa and Siri. A significant milestone in the development of dialog artificial intelligence (AI) systems is the addition of emotional intelligence."
+    publishedDateTime: 2022-03-31T16:30:00Z
+    webUrl: "https://techxplore.com/news/2022-03-physiological-key-emotionally-intelligent-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2022-03-physiological-key-emotionally-intelligent-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-physiological-key-emotionally-intelligent-ai.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 49
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/physiological-signals.jpg"
+        width: 544
+        height: 344
+        isCached: true
   - title: "Reliable intelligence: the real smarts of the city"
     excerpt: "Yet it remains a concept that’s hard to define, as the World Economic Forum found when it asked numerous experts and city technology officers what it meant and the value it delivered. From citizen-based intelligence to strengthening public trust to widgets designed to make life easier,"
     publishedDateTime: 2022-03-31T06:30:00Z

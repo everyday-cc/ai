@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Physiological signals could be the key to 'emotionally intelligent' AI, scientists say"
+    excerpt: "Speech and language recognition technology is a rapidly developing field, which has led to the emergence of novel speech dialog systems, such as Amazon Alexa and Siri. A significant milestone in the development of dialog artificial intelligence (AI) systems is the addition of emotional intelligence."
+    publishedDateTime: 2022-03-31T16:30:00Z
+    webUrl: "https://techxplore.com/news/2022-03-physiological-key-emotionally-intelligent-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2022-03-physiological-key-emotionally-intelligent-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-physiological-key-emotionally-intelligent-ai.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 49
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/physiological-signals.jpg"
+        width: 544
+        height: 344
+        isCached: true
 
 secured: "BBA9OaU4m/TU/d1unVqBvnxgwvVDaysheF+g3tMB1wb5m5ioEeihodAWjYpCW6xaRLU8DjuvEPCtv3p+xQxKm3wTdORfgXoLisRg8ggPGr/v/4XXqRVOPc2CEiYiPYaL5ZQhgLzlx0xcBM+8GVw2wSwmvRb17B2yrRoVi3jb4lqTIsnUBBW4jVgO+bRTf2xfjQkJq1Wh25eZJXDIkoVze7pcEgCsj1Yt4qIEMVFiEhGPORVRUaapP076iV+BBzZD60j96zaobdJAuk/GRiQtA2YnDNUDSQ8vOnlJFC0ABieG0B/J0fl8o2r8s/jntQ3tzXIYbkUet1iIMMrrxzNE63MG8c+hiDxp5UoESpN4bIs=;ZMcaLc6WiwaNsnJVJrnQjQ=="
 ---

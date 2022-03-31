@@ -71,6 +71,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Intel to acquire AI startup Granulate Cloud Solutions for US$650 million"
+    excerpt: "After more than a week of rumors, Intel has now confirmed it will be acquiring startup Granulate Cloud Solutions, an artificial intelligence (AI) software optimisation startup, for a reported US$650 million."
+    publishedDateTime: 2022-03-31T19:57:00Z
+    webUrl: "https://www.crn.com.au/news/intel-to-acquire-ai-startup-granulate-cloud-solutions-for-us650-million-578160"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 36
+    images:
+      - url: "https://i.nextmedia.com.au/News/20220401065706_CRN_14_intelstock.jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Intel confirms acquisition of Israeli cloud service startup Granulate, terms not disclosed"
     excerpt: "Intel Corporation (INTC) has signed an agreement to acquire Granulate Cloud Solutions, an Israel-based developer of real-time continuous optimization software.The acquisition"
     publishedDateTime: 2022-03-31T12:46:00Z
@@ -102,6 +116,6 @@ related:
         height: 518
         isCached: true
 
-secured: "tcN39kqNQoWxTgrr1ed6bwcQ2A8E/jx3x+nD2im12MoQmLwCdDQkSAh08c0g8d730jBQ9Kl1f/glOW9Xq7lQKET7RRV7cbvnGxG/7E/0c3SZsFrsdZ+hEZWwfyfo8QJetROmG2D70Sdv0toH50CjscU81jIZoG41vVbPeXqfTN16GIA2cOaiJebdY31C8BfePd784SyakemGH2azQGBh5mc9RcHDJVkr1H8yJyswTNmHJpO2iY0ETO0ATwLu2jFIl/yKlNheOzkYCkPuqkH6+MWiWMznMI8GQylfblTB2EVWaFQ+AwRtLXJSKxxQPIt8CmroHzGpZ5isp3ciQXz7VY4Vbu+X77ZLAw8XCQWo5rs=;Nevj/NdS488V6yYf0LT8vw=="
+secured: "/PS4aRZTLnOZc/PTL+He5fN9tnJOXUu5QO0moIB2Dl/Up8mYcD0Bs/kPHxDXmaoH68QEZPBmgEWbZqS9agmoElANb9vfRNLzW4KwsUXpi4lLHBw5+q4bk5GLylkrvaPoauAGu1YX5TsgCO6oT7Gb5AfS7/9lvF2FlNdWxZfCtr6Sru+QipMqM/85+y7gwGBo89ZJKZg74/xAhBsIR3tkHDc4dF14rrqKzvoVOBBE42/3tOE/R7OrXI8V7saeYsGRJHm+Obuowq87TJe0Ljw02lH82OOpwH+JodmHTmBViDelgM34TBMc/p5aacaOR8mXGmYswWN8naoFB+34WFD1tn7I4kdqK2XmKVVF1HcE9EcGZZxJiBkjwYO/jnF+pu4TAeaPnNyU72bQAni6MIcpv3D4QBaQliHLcU4IVdoh4Y/DvrEwSNAbIxuG5/2yQJ+DSO/owBJ7zxNZScdQ/UHH1CEo1TiplihvL8g9Qy1QWgmJ5d0xyoQrdiYuHyxYm+NP0BYHQRBlrC75u4nK0BWf7Q==;VV1V9xOFLR2jF5yb4e4nxg=="
 ---
 

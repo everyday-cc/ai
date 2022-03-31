@@ -169,17 +169,17 @@ related:
         isCached: true
   - title: "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow"
     excerpt: "TIFIN, a fintech platform using AI and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran Bill Parsons has joined the firm as Executive Vice President & General Manager of TIFIN Grow."
-    publishedDateTime: 2022-03-29T19:16:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-ef2bfcfef318948975a1a828c66b4ee2"
+    publishedDateTime: 2022-03-29T19:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-bill-parsons-joins-fintech-tif-as-evp-general-/2022/03/29/9572869.htm"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 24
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Fintech's New Era: Profits, Perils and Limitless Potential"
     excerpt: "In fact, it’s estimated that global banks have the potential to generate up to $1 trillion in additional value annually through AI technologies, according to McKinsey & Company. If keeping ahead of the technological curve is paramount for a company in the fintech industry,"

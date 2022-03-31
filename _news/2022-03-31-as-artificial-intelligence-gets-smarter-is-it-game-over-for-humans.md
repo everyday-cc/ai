@@ -8,8 +8,8 @@ webUrl: "https://www.theguardian.com/technology/2022/mar/31/as-artificial-intell
 ampWebUrl: "https://amp.theguardian.com/technology/2022/mar/31/as-artificial-intelligence-gets-smarter-is-it-game-over-for-humans"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/mar/31/as-artificial-intelligence-gets-smarter-is-it-game-over-for-humans"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://i.guim.co.uk/img/media/66bd9677ed70281c822c8b94084bf76cc79a6317/0_0_5500_4125/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=32325bee4133d1ee0b73a925e9c25f0d"

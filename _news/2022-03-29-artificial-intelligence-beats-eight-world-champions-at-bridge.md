@@ -3,13 +3,13 @@ category: news
 title: "Artificial intelligence beats eight world champions at bridge"
 excerpt: "Victory marks milestone for AI as bridge requires more human skills than other strategy games"
 publishedDateTime: 2022-03-29T04:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
-webUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
+originalUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge?fr=operanews"
+webUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge?fr=operanews"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
 type: article
-quality: 59
-heat: 69
+quality: 57
+heat: -1
 published: false
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -48,6 +47,6 @@ related:
         height: 506
         isCached: true
 
-secured: "jg8+IvV+hCx2RtQ3Rc43GEM8Dej6NobAvsOsNpkQrPj2bejo5VUeg9JOUiuVW/o/P0P+obwnSfVVwIfRjrDRYHylo0h0jV2eK4WBNV9YmPOfZJpEpZ1jRJN6L+tLdvnufnzPsPBi6zjNC+N4G2Nl1hHWNcZE/661GI87in4ii7w3JX4520D2yMrw1v598MFesm05/Ct4AJ0EiNEvB6hokMLKNQ5XSj+0ltAHWJEMEO9LV4rgJ6Y/rM1QtC4cTmbkMYf3x3T3c64F5W6tHxdLp/Tid1oFSAMg91pPb7K3m+ckb7JqNWNtV1J4zzm+xCPEe4upp76k0ldKi3DNgMt/wDXIb76OoBcysnf3XS0wawiVgY8ORH6cu08fPpdZfBOt7pWzSMyCocrrQS3r70/rJ/Qs131hQbeO6nD7kijrt+lvZLc+VkZ3At4MCzR92xIAEUm7dgGECMT4QptB6YUq4z90shVO3oH176Ep3NCt3xMiiHKQ3Nkll2+0Q4QYZQgfrzY0GF4Y5awQe8cZ0DB89w==;02QqbfehveSh28nW8Jn8UA=="
+secured: "nj519tzzpJG8+8ay3rw+cLEBOJK711Oa2A4ro9w4vIf0/rss/FUbamheTfJ9cAAs27NNTCHw5PnQ52hgesLdCVhm5g5iWYDjaqgdvpyiYwe9DLbFPloRAowliPOJqdzsrCiQhmD8epHSi0TYolfHGjeoOWeKCopA7T6T1oVkAb9oONYBYSkbY41rnlxESymGsP/LePWdeck99CUuXkbmhuT1klgmvmWeUbf3hEkxOs+2xdgV2nrke/oPvhYVhTM4q9uDx2sC0lKHmLk1Ah0ItVAP8wiLi2dupAqwpqe/khlZfUC9wIr0enEbUpLRkCTMkrK/8mUxqjP9AJhguaORsEHBwUPq067H+CG+cdaFbpA=;XdBIdcGIxlY3cX4vIMGZLg=="
 ---
 

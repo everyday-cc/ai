@@ -2,9 +2,9 @@
 category: news
 title: "Google uses deep learning to design faster, smaller AI chips"
 excerpt: "Googlers and UC Berkeley academics say they have devised a way to use artificial intelligence to design faster and smaller chips that accelerate artificial intelligence. In a note shared on Thursday,"
-publishedDateTime: 2022-03-18T03:12:00Z
-originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/03/18/google_deep_learning_chip_design/"
-webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/03/18/google_deep_learning_chip_design/"
+publishedDateTime: 2022-03-18T03:38:00Z
+originalUrl: "https://www.theregister.com/2022/03/18/google_deep_learning_chip_design/"
+webUrl: "https://www.theregister.com/2022/03/18/google_deep_learning_chip_design/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/03/18/google_deep_learning_chip_design/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/18/google_deep_learning_chip_design/"
 type: article
@@ -24,6 +24,6 @@ images:
     height: 750
     isCached: true
 
-secured: "xmUcb+p6+sFha4Ebe20XPVRtCiTvcaQoUpmPC0Xit4+yCzVs2ZoPdKrbEo6xtxxvLEEhLMT1z+suHqvWbDodORBOEvTt/1ywJYgo7RqhBJZNLj66wdBmRSQQwLON/lLsRn0oxWQJjbblwsowA1zp6v217yulnKKh0BmQ5bpQBA1YAmk9RqdWGEFr+R0mS+QOWVQiAbcVga1gXjpMDXDi6zYv8jS/9PJsorHxVwTZL5IDq+TxuBaZlVyrXrnqg/Kw8h3yGJ3hMFPOg67Y4AWTEwwIH9UA/lxVE4foj+DaeJuCCUjR3ScxBYsO0gS4eqY93m0pFpWhn4g1PE+bUaws6VwF66xSHqxZsmqUXdBSif8=;J5pt7dA5E2AFxlKlHexsqw=="
+secured: "eakqcPq2eovGVw/R48XB1FTZk0/rpPPxVVQlKkV3nJ8sHv6Iipqr13lGvm4hZ2Ej3xi4UpO0/o/arMoKWJvyPa0xsHVDUkxiwDxdkGHI6sI88yVN+EeDHu9Ee0hlUjYlPfc9t5hYliHmohiyEWjwNpbxHSzZIO+palhO12udWpbzDf6fm59P1pqRpURVtWG+dhKgcgc5xYSi1smtIcNkc5N9n6Zed9+ARxrj9JwvoaZ0xbmpyfjpbPn08pYkFrm28sBBsKmuae3qay8hyKsDYnOGhGFJjifvjvRyHwLuVq/xCbB+Tw/LbfBCMt9+r27cJvJuPYh5qRE1XtERkZxyq6eT41ZU59QutFU4vGAbFXo=;8t7HIqpKIKRIDAgFCz3Dxg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-31T13:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/black-crow-ai-raises-25-million-series-a-financing-to-make-enterprise-grade-machine-learning/article_c8ea8ee8-dcad-57a6-941e-604aed0965f0.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/black-crow-ai-raises-25-million-series-a-financing-to-make-enterprise-grade-machine-learning/article_c8ea8ee8-dcad-57a6-941e-604aed0965f0.html"
 type: article
-quality: 16
+quality: 14
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: wfmz.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 related:
   - title: "Black Crow AI raises $25M to predict which products ecommerce customers will buy"
@@ -53,6 +52,6 @@ related:
         height: 675
         isCached: true
 
-secured: "FLA88NgiP6HdH8Q001MvyNSBALkpqPtZWFyQAChlffFXvDYVjF83JCWH4gO3Lrk6ltn+6kk5dK4dXGYELKmKw7cDc4mBodLYYTLEGdRErJQhX413usT9zKuQAjqNiZJcnz/byQbcR6mf6dFUIf4KY/if/rKZi5D0fQOrlU/K4qJULGSUOuEOZ5oKWQLpaOonlUDpvtkAg5FrNsX8XqHKV73R9Kpi2kFLU93KlTJy9Xi3xLgguNz/8NpGcTN3khYlMowerkPoe0pCjxo0M5ogsesbKF1bUEEzeBGRj2evAs7rU3/+f+GF/FqX9+12X6q8etzG5DihPrJoGnMw+QVkF9wmZDEx6Sd2q4+C+D8WoTJAbsfUy3yYDca7DtHs9MNTJT+RMC1u6fUL7bcKsKBC6cLVhMCJq7XeMzSw6AA2icVLOuK+6aM5oPjoBY8yOicqgsbEmQlOeTG0eGIlxI7qhQv9Z4uwuCaGpDqK0TRWu9aFJ1M6XjXkRScmahvDZPDfZKsySR0CW7cg0I4Cch+auQ==;T/rIyj2I1CgkrJcG4WD/Pw=="
+secured: "2khqx+XWi6QlXyUKnjXKiHhvKVrngGTBNVIXWc/U7HgtDyysSpwvRE8t3HnQfuQSb0adD1YsPApeC3NuwfuveU1mPOzGj5yNE6ruwB6rxyWqcpmNa0q5VZhW0AQW/N6SGj2ehSPT6KsU8ysRcSq1xRpx7UWGz9cmpGR5z1srpBNrue+JRWXftuz7tsKBBiheNC1ZFZwH1y1m/w56yl742lLq/po12aa/xx2e2HeFa1jM66LjHSc29F8HzjSruWl2Bzd8boshj/Wx1WURI3jfKw6jXOP+c0Rf+6Y867f+aTJ4LSXaOb71rgCdvRb9JTZ2R/rZ8+s6GQe+ANmsCG3AoHz+u0YyxpD5aX7r6Fa4WEkSdh0R5HYN7nl1OswOhd13yBk9pAuHbAzJXcPYb+EHtzUcT8a84BrDfasYlrcyO7xZ692QYJ5fjQQu5Xkh9nf3nxUM7H38O++JDnM7PxKAr7hyoYuICuubLcwvSsN8KmxvWo2GdZ+WfD8p+MWhjjhcf6SVHjYmIU9Uvn9ceLpv1Q==;xfUUnyPaTfHumOCj7NFhLA=="
 ---
 

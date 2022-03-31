@@ -3,8 +3,8 @@ category: news
 title: "Supercomputer to train 176-billion-parameter open-source AI language model"
 excerpt: "GTC BigScience – a team made up of roughly a thousand developers around the world – has started training its 176-billion-parameter open-source AI language model in a bid to advance research into natural language processing (NLP)."
 publishedDateTime: 2022-03-25T07:34:00Z
-originalUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=keepreading-top"
-webUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=keepreading-top"
+originalUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=amp-keepreading-top"
+webUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=amp-keepreading-top"
 ampWebUrl: "https://www.theregister.com/AMP/2022/03/25/supercomputer_language_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/25/supercomputer_language_ai/"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 429
     isCached: true
 
-secured: "kS3FapCoapFtGWYW5NCu/9FRR2PhFg+knG3ej2upNCmTrUxoxLgR8i8JSw18vjIUOOOM6p+8YtI/R8QUL4di6sBvyFMWF65iw7bmp6xqDwoUlUXh685gTnrplPADDS+iSZzg/yo5niyR+sWD0N0T5avZQxHx9ltyR1ZvlU88RfOgfJ4wJg9OdgHAZBLWDOkTTYz9puK/gcxfpicf74JgNBijn2p8DALBKlWZWZJ6nyO3vrdKx2nghnuQZXhU3Omhp6KBDHwiwHOI6f8IuNjbtYnmCpQ60qJt84+rnAEDanIJbroXgIR0H5q1kL/Pn+5PRIHPsVmUiFbYjUeWH/hm0eNNQCEoDY7dJkeoF18PnQIWBoAZ95ZE+Jw93ICacfChOOyD2nKShXK9oDPgBJOcNN/XMX3GKcV4IqPX8Xy0zndGMXttb259BidFr17Rp2l2MgFx9pJ3vogoz0jcZAyQiaR5a66ShrBjnUMLi4wUh/LiKRPcou+AhAiSDGXfVibSql2UgIghGDXJXnNhUQGEqA==;KMQLf+SfQQYoYpGVGjoMzA=="
+secured: "bjaW2JjS18baGCuWif+Jr8RVS43Kn4BdWJBgEWlJKHbzZKJPO5G7xoOgxw8uQYYUj4suztxKDf3emU411uTAI+EQZbBMAbcm2MkDLiukw0LzBIj6Ado+A5BF9RN6fDpLFLCEwWiqj+D4RLCKvwMh9fehwXJ+4Bpn88Gih3siyQIaUBqF020G1SMGeAQ3ly0CFidxCClox/Aa64YbT6j5Yzar2Ckb+1zsIoxH8WauHgYP5QETQMeXrfufcXSN73akrxicHqVX7IrK/asXZ6uqQy71qBftcNVYAfC2Iy1i//QzLu+WcE4iBT0Zce72xjSGPfuvOzURvOn+j4kGShsOiN0n3+79RbRbT9V0GkkRONI=;Ap8KrQcUEjylCAd21ypGZA=="
 ---
 

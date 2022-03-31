@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Self-driving cars move closer to approval as Toyota tests cars in USA"
-    excerpt: "Japan Toyota Motor Company and Aurora Innovation an American developer of automated driving systems have begun testing an autonomous ride-hailing fleet in Texas"
-    publishedDateTime: 2022-03-27T03:06:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272425617/self-driving-cars-move-closer-to-approval-as-toyota-tests-cars-in-usa"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1648272795281.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "wKZS5/0K5mKkcL8Cs4BoGE5exRDZBiq0n8+JQuv6I6wHsYifyJlC/4iu++KDcPvebxfoOdROt8xATGa9QGwJ1uslGT6aMLGbo8DLfRTVkkXZy3zd4WTu1njq/l76Wn7YeumKAba0H7c4uu0rAQCIEZr6NYPZzlqn6H9KpCg0yqqCdf8Z3pThoVUGY9V8Prnxb1nHZscg6N6tvV0U8Qd8xVqqdBL7qZDp6ebUwyxP9Blu+nk5j65EStjK7XOs4z7YHsamZOXd8Ide20p9Gyo47EFGrqSIH4loGsFt0wh4X2gQtB03Dl2PZxNUbWMsUOgjOhCBo2sQGGQ/tJ/iayWvCJ3qRHj+yypTPt0WNInDBx/WLtwfUuVYjaZZNtZIRe7ragPkEHgkWTKHiXf+e2QoPTzNg51C7zl6W1Pbm6LOQ8I74pxUnGL83GifE7ROW0dr/mcUSS1oONddZzSuxSvKVZ3fqTs+t/haVNtf1STdQO+XaEqqHvVFGj7biUVHbdNmmwWIz6U+KKDWKcrZF3T8RA==;ig/Hc31urewC5upctlSlpA=="
 ---

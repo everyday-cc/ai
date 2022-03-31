@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Self-driving cars move closer to approval as Toyota tests cars in USA"
-    excerpt: "Japan Toyota Motor Company and Aurora Innovation an American developer of automated driving systems have begun testing an autonomous ride-hailing fleet in Texas"
-    publishedDateTime: 2022-03-27T03:06:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272425617/self-driving-cars-move-closer-to-approval-as-toyota-tests-cars-in-usa"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1648272795281.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Self-driving vans from Toyota and Aurora partnership start testing in Texas"
     excerpt: "They are testing in the Dallas-Fort Worth area, where Aurora has been testing self-driving semi-trailer trucks since 2020. Some of the conditions the prototypes are faced with inc"
     publishedDateTime: 2022-03-28T14:00:00Z

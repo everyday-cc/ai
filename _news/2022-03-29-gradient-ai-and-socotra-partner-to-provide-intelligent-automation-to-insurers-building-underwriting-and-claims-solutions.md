@@ -23,6 +23,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "How Mobi724 Uses Artificial Intelligence to Power Its Solutions to Provide Unparalleled Marketing Efficiency and Increased Payment Card Spend"
+    excerpt: "How Mobi724 Uses Artificial Intelligence to Power Its Solutions to Provide Unparalleled Marketing Efficiency and Increased Payment Card Spend"
+    publishedDateTime: 2022-03-31T20:14:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/03/31/how-mobi724-uses-artificial-intelligence-to-power-its-solutions-to-provide"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 0
+
 secured: "4TrX26lr9ksPxEW4s5A3y6+vWEFesamMhs+bnS80sgqxF62izGVorpJ4MciQmCNRnVgw0Mm5Z5Odmu8VG55g4Ruqo+E+8b/4NbHoPisIGumX2iZlPrLYajgE0N5UOgzD4BHO27FH9w7hv1QFSmSkUr6bcVd+h2nwt6HyQrU+7L6bziIcdhvN/9hCWolSnqTZjmGSxrtZALIiH9NZ56fVOMqkY5+jPNWYQ7qNik9XqGCqKC2s7w7/rmcHWtmKXJGb0T6kIo9huIwvMt+xPC7E3NnLOV+d853MHs3yzgcjw0R3BUBbS863RqcrY8GSYpwyb/3RIdHo8TdHdbg89ycZQ1lUAQCUvg+mSgZ3jFqsOtk=;8ZIKdjSjKjcnmhVcoXm0KQ=="
 ---
 

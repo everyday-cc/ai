@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Thought Leaders and Early Adopters of AI to Share Insights at the 35th Global Edition of WorldAIShow Dubai"
-excerpt: "In light of technology moving in full speed, Trescon's World AI Show will bring together pre-qualified CIOs, CEOs, CTOs, Heads of AI, Chief Digital Officers, Heads of Innovation and International AI e"
-publishedDateTime: 2022-03-31T15:29:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-03/55660637-thought-leaders-and-early-adopters-of-ai-to-share-insights-at-the-35th-global-edition-of-worldaishow-dubai-011.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2022-03/55660637-thought-leaders-and-early-adopters-of-ai-to-share-insights-at-the-35th-global-edition-of-worldaishow-dubai-011.htm"
+title: "Thought Leaders and Early Adopters of AI to Share Insights at the 35th Global Edition of #WorldAIShow Dubai"
+excerpt: "World AI Show - world's longest and continuously running AI event that extensively highlights latest trends and challenges in Artificial Intelligence, Machine Learning and RPA is now in its"
+publishedDateTime: 2022-03-31T13:12:00Z
+originalUrl: "https://www.asiaone.com/business/thought-leaders-and-early-adopters-ai-share-insights-35th-global-edition-worldaishow-dubai"
+webUrl: "https://www.asiaone.com/business/thought-leaders-and-early-adopters-ai-share-insights-35th-global-edition-worldaishow-dubai"
 type: article
 quality: 21
 heat: 21
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://www.acnnewswire.com/topimg/Low_wais22dubaiSavethedate.jpg"
-    width: 650
-    height: 340
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/asiaone_default.jpg?h=ec041e41&itok=CTqGNnDp"
+    width: 600
+    height: 316
     isCached: true
 
-secured: "c0V+RpnI8FvnXA80BlBspW9JqO85nk+5ormytU3eiLwp7hUxFwai3sNJBhKtnHSnb/2bTKQv3TyvDb7/iMwz/CViBUHTSO+lf5xHK5fKBfYcte1GFhh0xCQHzKv4vvTloJ9DJQenW9i1X5Vx5CCJbMgVdncbBDr0pVGUM7wLd2v/wo5iRuwBYGF+OXLrjwOZBIIDsJhrqpI6cHFVRX9D0CGPYJRGiFyDCGsUeXNTYUdu5WwBts31jtpjpc28kbXS55UvvGBzwVerLYf3iNM65mWGH5kpc2I1c4pqGZtlgP7eyhY8FWU4YWNsfcICBxIzpIJpVIeqMkFgHfccqXx7G2MECDMN7cjrbQDHTjNBVp0=;wknV3VvP9udrAjdlTsznMQ=="
+secured: "HHTqRB5BvFqPAQ98Gjvf8nrGbTOCC7i2ohwoXPG0zQMkYBVKbMFCA/2+2yZHeLOuW5fsAV6WNW7oNrgB/tv+pBitPdvVg5p3SJ3dcQwvzBCC2yN1YoiZiaUDyMH1Tg/V8ZrB4lxrQTyppm87y8mZclXE/NciVn4MuAYa9Nnijfftom0gssKJ6GMl9ey6JL16ORIMheXEVkIhY6gNmGzpV3Pn56GFH+UK1Oabt+VxjPpc1hmT+gq6ZXS1t/bTlhY1Hj2qdePjOuPQ4IXDDtTNIjPyE2dRgGrfM03yWEVF2uC8NJ8A9ETSZ91VXjbwkwiaHFeTzifFfnO8CeKFIgq5Cbuu+4BXlrud+w/42XgArcU=;IHbfrMl7UQZAutTNtnAE2g=="
 ---
 

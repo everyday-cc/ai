@@ -3,8 +3,8 @@ category: news
 title: "CORSIGHT AI ANNOUNCES U.S. EXPANSION DUE TO MARKET DEMAND FOR LEADING AI FACIAL RECOGNITION TECHNOLOGY"
 excerpt: "Building On Widespread Customer Adoption and Demand, Corsight Brings Millisecond AI Facial Recognition Technology to Private and Public Sectors Worldwide"
 publishedDateTime: 2022-03-31T13:06:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/corsight-ai-announces-u-s-expansion-due-to-market-demand-for-leading-ai-facial-recognition/article_d776c69f-2b5f-5064-b6c4-3aae81c529bb.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/corsight-ai-announces-u-s-expansion-due-to-market-demand-for-leading-ai-facial-recognition/article_d776c69f-2b5f-5064-b6c4-3aae81c529bb.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/corsight-ai-announces-u-s-expansion-due-to-market-demand-for-leading-ai-facial-recognition/article_d776c69f-2b5f-5064-b6c4-3aae81c529bb.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/corsight-ai-announces-u-s-expansion-due-to-market-demand-for-leading-ai-facial-recognition/article_d776c69f-2b5f-5064-b6c4-3aae81c529bb.html"
 type: article
 quality: 38
 heat: -1
@@ -56,6 +56,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "7RwtNzvcZHu64wwjgbpQESx9DXaz/e6B8lARLoUdhVs8cBGcc2TYtdaLz65d3AP6w5U6+klcgA5cdvmv1GBkByyWmHdw8ODBRU5nk8LM1utNk28QH65E8O+kCjnzmD87GmrauqFn5UuCkuMdYWWYfSVFMQ29g8xIkP5x0D3VWYMiFu3EFO5miwppFdcaf+oi3QYJwbr0UunbjtTJuO5yhjFjb+z0Phdycx9vxTXZAmQRpjGyeF3gBv+HIaisW6+lZhCeO4P6BCMHO1lwQnbTmb0uUnpvASiee56SXtk/5Z6tEnLTNAE2h7NMfbnD1UrXZq7vYZkvZk7UKQhnmnqtOU9hvqGExSRRyo1t8OsDpNDhdId4t7b9mUAYmtjb2tp2nCgABh2+KLkfxxPwLzT3jX/0Sq4zROwxDT4M2A0rOlFr3uyHPaEuYlEW0qzik8TOTBxxsqG/XnXfK4jE+cis6Fm+dlOBbE/GZnT/d70ARVibAFJAYRsRwnWVwxORKf3L/pmPXDA5fUjhjezb1l7LXQ==;r4fYe/gAvM1b8h3uD5gdjg=="
+secured: "JBiT1mkdwOBCUcrDWuY9EqKdPteWUmOa/OycPYh97/zrwEh+dzl9QgF1decN563ctm8+HI1C1qAw9rmCOTxBHPOBX4h+QXodKuogPXJquDaWeEOrGWBkkfU7bL/HgVJGvWVfMc4EJmDNNLONgbbr43IPOwcRvTjiwNwwwmV4uWIi4p84W3ay4i+rbqcTB8W9JGG2uh9H7eUOL9CBJ6KmI6iG75PLGKE4I8aZh3ytplkyQ4r2Ku0+ag9aURtEGRWyiOt7XFzD+b46Wj06t06Y/mL9ZJ9cWtcN0URQXH26+QrY4wEHcqq7Y8Ba24Nv42BeUvjwZFLX/ZBD3hf+e8ibxXa9t1XSX59r1eR8JI/6osk=;JYQT/0TCrN62fXneSpDRbw=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-25-facial-recognition-climate-change-and-dumplings.md",
+      "title": "Facial Recognition, Climate Change, And Dumplings",
+      "excerpt": "Bloomberg Opinion columnist Parmy Olson talks about the dangers of facial recognition technology being introduced in war, and columnist Adam Minter describes the importance of Russian cooperation in slowing climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast",
+      "originalUrl": "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2PXbxrf4nZA/v0/1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-chasing-the-worlds-first-brain-on-chip-ai-computer.md",
       "title": "Chasing The World’s First Brain-on-Chip AI Computer",
       "excerpt": "New project BayesBrain aims to build the world’s first computer that combines brain cells and silicon microchips. Besides being the most intelligent computing system ever, the brain is also very energy efficient.",
@@ -325,8 +377,8 @@
       "title": "Supercomputer to train 176-billion-parameter open-source AI language model",
       "excerpt": "GTC BigScience – a team made up of roughly a thousand developers around the world – has started training its 176-billion-parameter open-source AI language model in a bid to advance research into natural language processing (NLP).",
       "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=keepreading-top",
-      "originalUrl": "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=keepreading-top",
+      "webUrl": "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=amp-keepreading-top",
+      "originalUrl": "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=amp-keepreading-top",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1006,19 +1058,19 @@
     {
       "path": "_news/2022-03-24-sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research.md",
       "title": "SAS and Clemson University deploy AI and machine learning software for education and research",
-      "excerpt": "\" Clemson's partnership with SAS has greatly benefitted our faculty, staff and students, and I am grateful for this gift that will continue to provide them with the best software",
+      "excerpt": "SAS skills among students and supports analysis of massive datasets CARY, N.C., March 24, 2022 /PRNewswire/ -- Clemson students and faculty will have access to powerful data science and analytics software from SAS thanks to a new,",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research/article_c7c53b51-318c-5866-9bfb-f95f6d207a5c.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research/article_c7c53b51-318c-5866-9bfb-f95f6d207a5c.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-health-business-clemson-university-1cb40a84c95f8818113e8bb1b8d4105a",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-health-business-clemson-university-1cb40a84c95f8818113e8bb1b8d4105a",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/c0/0c0a025b-2822-5127-b4aa-b4b41f9acebe/623c92a466690.image.jpg?crop=1765%2C927%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1031,8 +1083,8 @@
       "publishedDateTime": "2022-03-24T08:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1097,49 +1149,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-brex-helps-zestyai-scale-with-10-million-in-venture-debt.md",
-      "title": "Brex Helps Zesty.ai Scale With $10 Million in Venture Debt",
-      "excerpt": "U.S. fintech company Brex, the company reimagining finance for growing businesses, has provided $10 million in growth capital via venture debt to Zesty.ai, a leading provider of predictive data analytics in the climate risk space.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-4315776ed596b0f7bf4505296c3c5cb6",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-4315776ed596b0f7bf4505296c3c5cb6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }
