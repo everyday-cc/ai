@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-16-gene-therapy-global-market-report-2022.md",
+      "title": "Gene Therapy Global Market Report 2022",
+      "excerpt": "IS YOUR LUCKY DAY] For only $7, get 2 bear market beating options trade straight to your inbox and SMS every month! Click Here Now to Get Started! New York, March 16, 2022 (GLOBE NEWSWIRE) -- Reportlinker.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/03/g26165499/gene-therapy-global-market-report-2022",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/g26165499/gene-therapy-global-market-report-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26165499",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26165499",
+      "publishedDateTime": "2022-03-16T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-the-vulnerability-of-artificial-intelligence-systems-may-explain-why-they-havent-been-used-extensively-in-ukraine.md",
       "title": "The Vulnerability of Artificial Intelligence Systems May Explain Why They Haven’t Been Used Extensively in Ukraine",
       "excerpt": "The news that Ukraine is using facial recognition software is noteworthy largely because it’s one of few documented uses of artificial intelligence in the conflict. A Georgetown University thinktank is trying to figure out why while advising U.",
@@ -1296,49 +1339,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-ai-in-healthcare-market-is-projected-to-reach-1944-billion-by-2030.md",
-      "title": "AI in Healthcare Market is projected to reach $194.4 billion by 2030",
-      "excerpt": "COVID-19 is an infectious disease caused by the most recently discovered novel corona virus. Largely unknown before the outbreak began in Wuhan (China) in December 2019, COVID-19 has moved from a regional crisis to a global pandemic in just a matter of a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-in-healthcare-market-is-projected-to-reach-194-4-billion-by-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-healthcare-market-is-projected-to-reach-194-4-billion-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T03:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

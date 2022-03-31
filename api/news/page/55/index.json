@@ -2,6 +2,99 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2022-02-10-government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs.md",
+      "title": "Government injects £23m to boost UK skills and diversity in AI jobs",
+      "excerpt": "The government has pumped £23m into Artificial Intelligence (AI) and data conversion courses for young and underrepresented groups, as the UK aims to be the industry leader. There will be up to two thousand scholarships for masters AI conversion courses ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all",
+      "originalUrl": "https://www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2021/09/679721416.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all&amp=1",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all&amp=1",
+      "publishedDateTime": "2022-02-09T22:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-kobold-metals-raises-1925-million-to-use-ai-to-find-battery-minerals.md",
+      "title": "KoBold Metals Raises $192.5 Million to Use AI to Find Battery Minerals",
+      "excerpt": "ADELAIDE, Australia—KoBold Metals, a startup backed by Bill Gates’s Breakthrough Energy Ventures that aims to use artificial intelligence to find metals needed for the electric-vehicle boom, raised $192.5 million in its latest financing round ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801",
+      "originalUrl": "https://www.wsj.com/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-483374/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801",
+      "publishedDateTime": "2022-02-09T22:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-joint-robotics-autonomous-systems-and-artificial-intelligence-ras-ai-demonstration.md",
       "title": "Joint Robotics, Autonomous Systems, and Artificial Intelligence (RAS-AI) Demonstration",
       "excerpt": "‘Robotics, Autonomous Systems and Artificial Intelligence’ was recently added to the Sovereign Industrial Capability Priorities list and the RAS-AI consortium is proud to be a part of the journey to delivering the best capability to our warfighter",
@@ -1065,101 +1158,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-health-bulletin-for-feb-10-17-dementia-infants-and-toddlers-and-health-and-wellness.md",
-      "title": "Health Bulletin for Feb. 10-17 – Dementia, infants and toddlers and health and wellness",
-      "excerpt": "Low Impact Aerobics – An ongoing class for seniors. Mondays at 10:30 a.m. and Thursdays at 10 a.m., Zion Lutheran Church, 8304 E. Buckeye Ave., Spokane Valley. Free. (509) 926-5407. Smart Driver ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.spokesman.com/stories/2022/feb/09/health-bulletin-for-feb-10-17-dementia-infants-and/",
-      "originalUrl": "https://www.spokesman.com/stories/2022/feb/09/health-bulletin-for-feb-10-17-dementia-infants-and/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumb.spokesman.com/tu8tlF_QKzAj2M-nQcC701-x4o8=/480x0/media.spokesman.com/photos/2022/02/08/6202dc5900ddb.hires.jpg",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.spokesman.com/stories/2022/feb/09/health-bulletin-for-feb-10-17-dementia-infants-and/?amp-content=amp",
-      "cdnAmpWebUrl": "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2022/feb/09/health-bulletin-for-feb-10-17-dementia-infants-and/?amp-content=amp",
-      "publishedDateTime": "2022-02-09T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Spokesman-Review",
-        "domain": "spokesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-sonys-ai-drives-a-race-car-like-a-champ.md",
-      "title": "Sony's AI Drives a Race Car Like a Champ",
-      "excerpt": "For instance, Waymo, the self-driving car company owned by Alphabet, says its vehicles have traveled the equivalent of 20 million miles in simulations. Search our artificial intelligence database and discover stories by sector, tech, company, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/sony-ai-drives-race-car-champ/",
-      "originalUrl": "https://www.wired.com/story/sony-ai-drives-race-car-champ/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 289,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6202f033c14aa6d334a5d859/master/pass/Business_Gran%20Turismo-1344602439.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/sony-ai-drives-race-car-champ/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sony-ai-drives-race-car-champ/amp",
-      "publishedDateTime": "2022-02-09T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

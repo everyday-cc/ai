@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-29-automated-scalable-and-cost-effective-ml-on-aws-detecting-invasive-australian-tree-ferns-in-hawaiian-forests.md",
+      "title": "Automated, scalable, and cost-effective ML on AWS: Detecting invasive Australian tree ferns in Hawaiian forests",
+      "excerpt": "This is blog post is co-written by Theresa Cabrera Menard, an Applied Scientist/Geographic Information Systems Specialist at The Nature Conservancy (TNC) in Hawaii. In recent years, Amazon and AWS have developed a series of sustainability initiatives with the overall goal of helping preserve the natural",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automated-scalable-and-cost-effective-ml-on-aws-detecting-invasive-australian-tree-ferns-in-hawaiian-forests/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automated-scalable-and-cost-effective-ml-on-aws-detecting-invasive-australian-tree-ferns-in-hawaiian-forests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/15/blog_pic4.png",
+          "width": 879,
+          "height": 293,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T09:53:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-automatically-generate-model-evaluation-metrics-using-sagemaker-autopilot-model-quality-reports.md",
+      "title": "Automatically generate model evaluation metrics using SageMaker Autopilot Model Quality Reports",
+      "excerpt": "Amazon SageMaker Autopilot helps you complete an end-to-end machine learning (ML) workflow by automating the steps of feature engineering, training, tuning, and deploying an ML model for inference. You provide SageMaker Autopilot with a tabular data set and a target attribute to predict. Then, SageMaker",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-generate-model-evaluation-metrics-using-sagemaker-autopilot-model-quality-reports/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-generate-model-evaluation-metrics-using-sagemaker-autopilot-model-quality-reports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/22/confusion-matrix-638x630.png",
+          "width": 638,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T09:47:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-go-with-the-flow-state-what-music-and-ai-have-in-common.md",
       "title": "Go with the flow state: What music and AI have in common",
       "excerpt": "Carrie Cai, Ben Zevenbergen and Johnny Soraker all work on developing artificial intelligence (AI) responsibly at Google, in the larger research community and across the technology industry. Carrie is a research scientist focusing on human-AI interaction, Ben is an ethicist and policy advisor and Johnny",
@@ -62,7 +167,7 @@
       "originalUrl": "https://inc42.com/buzz/healthtech-startup-qure-ai-bags-40-mn-funding-to-disrupt-radiology-status-quo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -343,7 +448,7 @@
       "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1091,102 +1196,6 @@
         "AI Ethics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-education-minister-praises-tech-innovations-as-he-meets-robots.md",
-      "title": "Education minister praises tech innovations as he meets robots",
-      "excerpt": "Education Minister Prodromos Prodromou highlighted the importance of digital skills on Monday during his visit to the digitally supported learning environment at the pedagogical institute. The minister had the opportunity to meet and interact with humanoid robots NAO and PEPPER and learn about the robotics kits,",
-      "sourceUrl": null,
-      "webUrl": "https://cyprus-mail.com/2022/03/28/education-minister-praises-tech-innovations-as-he-meets-robots/",
-      "originalUrl": "https://cyprus-mail.com/2022/03/28/education-minister-praises-tech-innovations-as-he-meets-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cyprus-mail.com/wp-content/uploads/2022/03/prodromou.jpg",
-          "width": 1920,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-28T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cyprus Mail",
-        "domain": "cyprus-mail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-datarobots-cloud-80-uses-ai-and-ml-to-predict-the-unpredictable.md",
-      "title": "DataRobot’s Cloud 8.0 uses AI and ML to predict the unpredictable",
-      "excerpt": "With the release of Cloud 8.0, DataRobot’s Continuous AI capabilities are available in on-premises environments and leading public clouds.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/28/datarobots-cloud-8-0-uses-ai-and-ml-to-predict-the-unpredictable/",
-      "originalUrl": "https://venturebeat.com/2022/03/28/datarobots-cloud-8-0-uses-ai-and-ml-to-predict-the-unpredictable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1145968976.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/28/datarobots-cloud-8-0-uses-ai-and-ml-to-predict-the-unpredictable/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/datarobots-cloud-8-0-uses-ai-and-ml-to-predict-the-unpredictable/amp/",
-      "publishedDateTime": "2022-03-28T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

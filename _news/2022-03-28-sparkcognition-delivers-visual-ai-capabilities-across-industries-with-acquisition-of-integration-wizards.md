@@ -25,45 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "SparkCognition Delivers Visual AI Capabilities Across Industries"
-    excerpt: "SparkCognition is pleased to announce it has signed a definitive agreement to acquire Integration Wizards, a leader in visual AI."
-    publishedDateTime: 2022-03-28T10:13:00Z
-    webUrl: "https://enterprisetalk.com/news/sparkcognition-delivers-visual-ai-capabilities-across-industries/"
-    ampWebUrl: "https://enterprisetalk.com/news/sparkcognition-delivers-visual-ai-capabilities-across-industries/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/sparkcognition-delivers-visual-ai-capabilities-across-industries/amp/"
+  - title: "New Citi Field entrance option: Facial recognition"
+    excerpt: "Mets fans will have the option of registering for facial recognition technology to enter Citi Field in lieu of showing a mobile ticket."
+    publishedDateTime: 2022-03-31T18:32:00Z
+    webUrl: "https://www.newsday.com/sports/baseball/mets/facial-recognition-citi-field-nljqymcu"
+    ampWebUrl: "https://www.newsday.com/amp/sports/baseball/mets/facial-recognition-citi-field-nljqymcu"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/sports/baseball/mets/facial-recognition-citi-field-nljqymcu"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 57
+      name: Newsday
+      domain: newsday.com
+    quality: 59
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/SparkCognition-Delivers-Visual-AI-Capabilities-Across-Industries-With-Acquisition-of-Integration-Wizards-01.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cdn-ace.newsday.com/ace/c:YmI3NTJjODctOGI2ZS00:MTlhZTE0/preview/1280"
+        width: 1280
+        height: 960
         isCached: true
-  - title: "SparkCognition acquires of Visual AI platform Integration Wizards"
-    excerpt: "HPCL is deploying AI-based visual analytics across its retail network to improve customer satisfaction and safety."
-    publishedDateTime: 2022-03-28T07:23:00Z
-    webUrl: "https://analyticsindiamag.com/sparkcognition-acquires-of-visual-ai-platform-integration-wizards/"
+  - title: "Task force, commission want government intervention with AI; especially facial recognition"
+    excerpt: "Reports pushing recommendations for more-careful use of public algorithms continue to get more direct and succinct, especially about facial recognition."
+    publishedDateTime: 2022-03-29T18:07:00Z
+    webUrl: "https://www.biometricupdate.com/202203/task-force-commission-want-government-intervention-with-ai-especially-facial-recognition"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 44
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Untitled-design-7-2.jpg"
-        width: 2240
-        height: 1260
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
-  - title: "M&A wrap: ECPR founder sells firm to new CEO; SparkCognition adds 'visual AI tech'"
-    excerpt: "\"I could not be happier for the opportunity to sell this firm to her because I am confident that she will preserve the legacy of the business while taking it to new heights,\" PR maven Elizabeth Christian,"
-    publishedDateTime: 2022-03-31T15:00:00Z
-    webUrl: "https://www.bizjournals.com/austin/news/2022/03/31/m-a-wrap-longtime-ecpr-exec-buys-austin.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 11
 
 secured: "aptC/DqtzofQO/T+SwfJojwG0mTyAeVQIGIzTsV/atEzzWT5D6Uis1jBaxe2bUfhSG7Jj0c+x3D1uFmAGWkzjFT24alG2fOm/Y+gB1gI35f8/dDHEpzaD25agl2pLTLR6+L8zjlcuI6nMNRhLHj6FV8R50OuJEC7VknsFSWUJyR6xoSeS58khRXSLDUU89kInjvvRytNytccN+6BZiAgAGvsDHFbIhggzGEu1940MfeKJQiQAN+KNlcpmsmgU9PzcegEBTMX2TlAI0cJFd3pBn31xmOGDeRbb2O7tOMdCpvBxDozz5pe9i0SoSmNfAPtBKIrfEc0YbvxkTMU1bZOl3Sc0wqsV91b6OWWfDiRFsg=;QrbcoBINWPsjalN6Hq+/oA=="
 ---

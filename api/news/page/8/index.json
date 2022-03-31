@@ -2,6 +2,99 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-03-23-nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office.md",
+      "title": "Nvidia’s Clara Holoscan MGX means to bring high-powered AI to the doctor’s office",
+      "excerpt": "Nvidia, a company best known for its high-powered graphic processing units (GPUs) debuted a platform for the development of AI-powered medical devices. The device, called Clara Holoscan MGX, provides computing power allowing medical sensors to process multiple data streams in parallel,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/23/nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office/",
+      "originalUrl": "https://techcrunch.com/2022/03/23/nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/nvidia-clara-holoscan-mgx-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/23/nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/23/nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office/amp/",
+      "publishedDateTime": "2022-03-23T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-cedars-sinai-says-artificial-intelligence-tool-may-help-predict-heart-attacks.md",
+      "title": "Cedars-Sinai Says Artificial Intelligence Tool May Help Predict Heart Attacks",
+      "excerpt": "Cedars-Sinai researchers developed an artificial-intelligence algorithm that expedites the process to quantify a patient's coronary plaque. And after \"training'' the algorithm, researchers said it accurately predicted the five-year heart attack risk for 1,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbclosangeles.com/news/local/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2854582/",
+      "originalUrl": "https://www.nbclosangeles.com/news/local/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2854582/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbclosangeles.com/2019/09/Silent_Heart_Attacks_55sec_365_large_448x336.jpg?quality=85&strip=all&fit=448%2C336",
+          "width": 448,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbclosangeles.com/news/local/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2854582/?amp",
+      "cdnAmpWebUrl": "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/local/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2854582/?amp",
+      "publishedDateTime": "2022-03-23T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Los Angeles",
+        "domain": "nbclosangeles.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-delphia-review-portfolio-management-meets-machine-learning.md",
       "title": "Delphia Review: Portfolio Management Meets Machine Learning",
       "excerpt": "Delphia's portfolios are built around algorithms predicting market movements. The price of admission? Your data. Learn more in our Delphia review.",
@@ -1096,101 +1189,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-training-fundamentals-of-deep-learning-cuda.md",
-      "title": "Training: Fundamentals of Deep Learning & CUDA",
-      "excerpt": "Fundamentals of Deep Learning & CUDA, May 2 nd – May 4 th 2022 Content. Accelerators are ubiquitous in today's HPC landscape, offering much higher performance c",
-      "sourceUrl": null,
-      "webUrl": "https://www.uibk.ac.at/fz-hpc/news/fundamentals-of-deep-learning---cuda.html.en",
-      "originalUrl": "https://www.uibk.ac.at/fz-hpc/news/fundamentals-of-deep-learning---cuda.html.en",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.uibk.ac.at/images/900x-auto/fz-hpc/news/images/nvidia_course_news.png",
-          "width": 900,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "uibk.ac.at",
-        "domain": "uibk.ac.at",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more.md",
-      "title": "Companies are commercializing multimodal AI models to analyze videos and more",
-      "excerpt": "Multimodal AI systems, which can understand the relationships between video, text, audio, and more, are becoming commercialized.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/22/companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more/",
-      "originalUrl": "https://venturebeat.com/2022/03/22/companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/YouTube.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/22/companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more/amp/",
-      "publishedDateTime": "2022-03-22T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

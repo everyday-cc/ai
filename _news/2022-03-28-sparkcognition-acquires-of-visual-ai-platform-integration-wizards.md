@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "SparkCognition delivers Visual AI Capabilities across industries with acquisition of Integration Wizards"
-    excerpt: "Through this acquisition SparkCognition expands its IP portfolio to include computer vision capabilities bringing greater value to its industry solutions and"
-    publishedDateTime: 2022-03-28T07:19:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272428308/sparkcognition-delivers-visual-ai-capabilities-across-industries-with-acquisition-of-integration-wizards"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 22
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "M&A wrap: ECPR founder sells firm to new CEO; SparkCognition adds 'visual AI tech'"
     excerpt: "\"I could not be happier for the opportunity to sell this firm to her because I am confident that she will preserve the legacy of the business while taking it to new heights,\" PR maven Elizabeth Christian,"
     publishedDateTime: 2022-03-31T15:00:00Z

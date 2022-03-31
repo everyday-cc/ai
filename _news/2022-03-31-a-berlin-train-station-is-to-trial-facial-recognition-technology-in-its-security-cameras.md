@@ -7,7 +7,7 @@ originalUrl: "https://jerseyeveningpost.com/uncategorised/2022/03/31/a-berlin-tr
 webUrl: "https://jerseyeveningpost.com/uncategorised/2022/03/31/a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras/"
 type: article
 quality: 62
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
         width: 600
         height: 333
+        isCached: true
+  - title: "Facebook is trialling facial recognition software"
+    excerpt: "Hot on the heels of the iPhone X, Facebook is working on facial recognition technology to help users recover their accounts.The social network is giving select users the ability to verify their account,"
+    publishedDateTime: 2022-03-31T19:57:00Z
+    webUrl: "https://jerseyeveningpost.com/uncategorised/2022/03/31/facebook-is-trialling-facial-recognition-software/"
+    type: article
+    provider:
+      name: Jersey Evening Post
+      domain: jerseyeveningpost.com
+    quality: 39
+    images:
+      - url: "https://jerseyeveningpost.com/wp-content/uploads/2022/03/31195720/Img32963673.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "2QIX/+sG15ofDWTEINqkElgeTfXhdAsaPDsGTso03IVpfq25G801gSxr7ZpWTDKMa+Uwc7Hs7LTfx1jlwHJkOnk3BrtVJp8S78rI1xsxY+xllUVgpkR4mCmu/XptTyRFlzEYg7WFPZagZlVzAhvUpqHX0weBYwRRtiUlFZkkmLPeBF73yCSX9K9ARkw1oRe1Kpacrz7J768SHhkv+y3vZKcL0Cx9OsGF3I7mAx0bV053hNZMywqmEB9WY2u26wZyquBdNyjqjn+7Th4hawn4AS9Nz9KJOHN4wQi063K5tVk8QzrOPq0uupgQJ82hbserVVeuACqU7H18tcucM3xD8YrMeTf66EOo2QCzYZ4ySpzuEeNE2ou3tcQ/gqrOhgfzgBPXU6Swy7KfN9V6l/sU+RUohs4J1COfQBsdOh/mVWYNT395rTUyUmrVva5xEIFI+zmnLaVLeKCRUkZYcPGabZWvhFmJ0fvjg4+dxfDRd9cRrKIigfaQ9IrtuCXqKbK6o0whEddCqVySWQq7Uc8Vrg==;mHIfp7ZZlLt6W7yWq9rUUA=="

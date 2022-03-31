@@ -48,20 +48,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "SparkCognition delivers Visual AI Capabilities across industries with acquisition of Integration Wizards"
-    excerpt: "Through this acquisition SparkCognition expands its IP portfolio to include computer vision capabilities bringing greater value to its industry solutions and"
-    publishedDateTime: 2022-03-28T07:19:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272428308/sparkcognition-delivers-visual-ai-capabilities-across-industries-with-acquisition-of-integration-wizards"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 22
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "furD+YdK1Rpxo7LAPo4QAXMgi2i+7/s3slfo0boABwdEjQKbWd0GojekuTZyZmiMGLXAYM2OD/wN+QXi/jXGU/uGI2GZxIlb/s/ZBIHcTLR72nZX3uCZhytHZSVpxkkGUk7VicQUH4MdRXFr/B/Wfmi966O04MSdC0t6w6+sCEwHvI4kLhTF74nb6293QtkHl02ojCFzwFOQuXlkhwci/UvR3vXF+wJS4fADPj8RBJQ3WC59IJJTV+cL/FLSgmH4BZAy8m5Ta0taVKi4Esr0+mmTy5mIymHK4CnfQVXLzUwPwuEgxQ3kMD/eqoixj34QfchwSfSm+A+th8Z4rcHn8/znyugRB8LGbBhxALco0SanMB7/SYodD7O+io+/Ptx4IEQNb2oGlw5VmT+J8mIHX1uDciJcCSo/2U/WMj1CnQo+DJtKuBkp21weJ9oN/nbEfyXgMgaBXFqFVbpWzmSErqWmE7vHUnp7ayGAuf+uTbX3ftQJnxNc7ekAtUn0wwLB+5ls680Djs72JfrWT6joWQ==;zlgaNNgegvrb4jm2LxBjAg=="
 ---

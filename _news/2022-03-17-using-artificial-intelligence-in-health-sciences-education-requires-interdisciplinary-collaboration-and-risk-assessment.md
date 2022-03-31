@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Using artificial intelligence in health sciences education requires interdisciplinary collaboration and risk assessment"
-excerpt: "Harley, Assistant Professor, Medicine and Health Sciences, McGill University Over the past five years, there has been an increase in research and development related to the use of artificial intelligence (AI) in health sciences education in fields such as medicine,"
-publishedDateTime: 2022-03-17T12:25:00Z
-originalUrl: "https://nationalpost.com/pmn/news-pmn/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment"
-webUrl: "https://nationalpost.com/pmn/news-pmn/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment"
-ampWebUrl: "https://nationalpost.com/pmn/news-pmn/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment/wcm/7f593bce-ec59-4ca2-a81b-106ec75c8e49/amp/"
-cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment/wcm/7f593bce-ec59-4ca2-a81b-106ec75c8e49/amp/"
+excerpt: "there has been an increase in research and development related to the use of artificial intelligence (AI) in health sciences education in fields such as medicine, nursing and occupational therapy."
+publishedDateTime: 2022-03-17T16:28:00Z
+originalUrl: "https://theconversation.com/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment-176628"
+webUrl: "https://theconversation.com/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment-176628"
+ampWebUrl: "https://theconversation.com/amp/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment-176628"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment-176628"
 type: article
 
 provider:
-  name: National Post
-  domain: nationalpost.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - AI in Healthcare
   - AI
   - AI in Education
 
-secured: "sT5pNTIxH8AjTOAUgAs+t4EJYCprm2YwcOlxIJ7VPLEs92QDaIHglDqj2uzI3+iaVPZ1i2Qq3qJCVli5UAs6uxEyIec3GAcTfP1GKOeUaVtVc30GXEGc3Ci/Ildi/2Wd40MItIHAtPPve+xT3bwoysI1mv8IIgkrZlSYolDecQdvAe22ylhhJNP6TyHDMtbLVzqJ0/RIlQhGxZUfFOBeUx6T88+KjiozAGc7TH+8iVYEUXB15gz6MLc+FqFrUCqpY01/35VEzrS9vNsG3tY1Qfs8gJBtKsCSszezYNlvgm7R4nutghvLdJJgPNDbWF3lvsBXBUXzC8+GKbKfyBWlIotfIGC8P9DXjhDOy8Gi+6g=;M0nnpBZtlGavXwYy8Xn/ig=="
+secured: "i3fA32LSFi5qyuXbnft7SORKBrxwQ0zwA3LFTiuj+/TL4ktB+2NrJpbPDBppc16G4CUFUpr1pBUtoxMoocjcsXiUDtdu9Ho9yIsPtnxqkUS7DHL57nhuhGSZPv15o4FNEWZTkbqZIL3enhimj0lRg8uNkf1ymk4QrIq3nXSbFEiZF7bfBKoACZAtRdpKZpDyVkZKxmRuPKldhx11WjmRyHIlpajhd1XDP9Bv3yF5ZfTyd2253QoLAzugt/XXLE+2a6el/3N4wdnZbPUb2uyNc8sTWiyca04PKX+jO7DitZtbqfR5UBlVg0rG6ie4g3FWyU+Rhs2C+vm1anYSUgE27tQSkKezWZUVeaoDyA3go9Y=;RTGVAz273uFIGuKjxzBtCA=="
 ---
 

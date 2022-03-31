@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/amp/"
 type: article
 quality: 89
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://healthitanalytics.com/images/sized/2020-08-28-GettyImages-922385448-e4b00c1efb9503a805928b101c78b499.png"
         width: 480
         height: 278
+        isCached: true
+  - title: "Google Uses AI Searches To Detect If Someone Is In Crisis"
+    excerpt: "Google is one of the pioneers in the use of artificial intelligence. The company recently announced that it could use AI techniques to analyze users’ searches and detect whether they are in a crisis. To do this, Google has developed machine learning models."
+    publishedDateTime: 2022-03-31T18:44:00Z
+    webUrl: "https://www.androidheadlines.com/2022/03/google-uses-ai-searches-to-detect-if-someone-is-in-crisis.html"
+    ampWebUrl: "https://www.androidheadlines.com/2022/03/google-uses-ai-searches-to-detect-if-someone-is-in-crisis.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/03/google-uses-ai-searches-to-detect-if-someone-is-in-crisis.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 57
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2018/12/Google-Search-Incognito-AH-01.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "l5ID0lYONIbEhi/Ti8EzL7kgSh8sx+Kn2z2PUeQOmdg9OVYz3WJP9NA8H+E70JJCvJ5qVLe0ER+qWQJ9g8TdMz/PaSLPNnck0OEZMoZRDKXZW51uDQiN2Aw4gE6GLSrvYX2UXaczrz8jcG7RnaCXxT7sFnCg71UCWlbzPktBSfJQGJYVF8vP1NnC1hzdFcbi+WpKTnOWjdSEPvA61VpRWlbl8xogwkUVqaG9nm0Ptrugis7Ng+SoFZe6pi26OxFAUe4JLzqJECkIMi092La+MLZuOOwPa1xT9mbnwfLRonFwx2hDGOapABiwGucLfY/mDKYobcyVdUiPZt8FCgXE/B0R3kix2UThPNrRX7Yq/qDQ1VF0kzIPjGh5A3IIpScsLN+Al5bj9MbA78URUBu27XLiCLesHP7AnFgM6UPFxSgKJTIOueFY5V20TtdzdnmB564F5BiwrRwFVshoprX8jNxX3VUDKpAnjw3zSksLPNBZNh8K0Ts6CaPVK1kcAEH1fdO+ETzdzdvHTiHhJKagNQ==;jhjx8PKZhoAur2lMuCg7cg=="

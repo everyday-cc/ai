@@ -2,6 +2,93 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-03-18-your-chipotle-chips-may-soon-be-made-by-a-robot-named-chippy.md",
+      "title": "Your Chipotle Chips May Soon Be Made By A Robot Named 'Chippy'",
+      "excerpt": "Chipotle announced on Wednesday that it is testing out an alternative way to make its tortilla chips using an AI-powered robot named “Chippy.” The creation of the robot is intended to help businesses run more efficiently and to help employees not have to do mundane tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/your-chipotle-chips-may-soon-be-made-robot-named-chippy-3441498",
+      "originalUrl": "https://www.ibtimes.com/your-chipotle-chips-may-soon-be-made-robot-named-chippy-3441498",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/11/27/chipotle-delivery.jpg",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/your-chipotle-chips-may-soon-be-made-robot-named-chippy-3441498?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/your-chipotle-chips-may-soon-be-made-robot-named-chippy-3441498?amp=1",
+      "publishedDateTime": "2022-03-17T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-how-web-30-is-transforming-the-financial-services-industry.md",
+      "title": "How Web 3.0 is Transforming the Financial Services Industry?",
+      "excerpt": "Sabrina Akramova , Editor & Content Manager at Financial IT; 17.03.2022 04:45 pm ; #web #internet #web3. How Web 3.0 is Transforming the Financial Services Industry? We live in th",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/blog/web-internet-web3/how-web-30-transforming-financial-services-industry",
+      "originalUrl": "https://financialit.net/blog/web-internet-web3/how-web-30-transforming-financial-services-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/img_7407_3.jpeg",
+          "width": 3024,
+          "height": 3236,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-microsoft-announces-auto-generated-captions-for-images-in-edge.md",
       "title": "Microsoft announces auto-generated captions for images in Edge",
       "excerpt": "Microsoft uses Azure Cognitive Services to analyze and describe pictures with missing \"alt text.\" When Edge detects an unlabeled image, it sends it to Microsoft's servers for processing.",
@@ -137,6 +224,41 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment.md",
+      "title": "Using artificial intelligence in health sciences education requires interdisciplinary collaboration and risk assessment",
+      "excerpt": "there has been an increase in research and development related to the use of artificial intelligence (AI) in health sciences education in fields such as medicine, nursing and occupational therapy.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment-176628",
+      "originalUrl": "https://theconversation.com/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment-176628",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment-176628",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment-176628",
+      "publishedDateTime": "2022-03-17T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Education"
       ]
     },
     {
@@ -849,41 +971,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-17-using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment.md",
-      "title": "Using artificial intelligence in health sciences education requires interdisciplinary collaboration and risk assessment",
-      "excerpt": "Harley, Assistant Professor, Medicine and Health Sciences, McGill University Over the past five years, there has been an increase in research and development related to the use of artificial intelligence (AI) in health sciences education in fields such as medicine,",
-      "sourceUrl": null,
-      "webUrl": "https://nationalpost.com/pmn/news-pmn/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment",
-      "originalUrl": "https://nationalpost.com/pmn/news-pmn/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nationalpost.com/pmn/news-pmn/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment/wcm/7f593bce-ec59-4ca2-a81b-106ec75c8e49/amp/",
-      "cdnAmpWebUrl": "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment/wcm/7f593bce-ec59-4ca2-a81b-106ec75c8e49/amp/",
-      "publishedDateTime": "2022-03-17T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Post",
-        "domain": "nationalpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
       "path": "_news/2022-03-17-speech-recognition-software-helps-tibetans-better-communicate.md",
       "title": "Speech recognition software helps Tibetans better communicate",
       "excerpt": "What helped them conquer the language barrier is a speech recognition app on the smartphone that can convert the three main Tibetan dialects — U-Tsang, Amdo, Kamba — to texts and translate them into Chinese.",
@@ -1009,91 +1096,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-irobot-brings-smart-mapping-features-to-midrange-i3-i3-roombas.md",
-      "title": "iRobot Brings Smart-Mapping Features to Midrange i3, i3+ Roombas",
-      "excerpt": "iRobot on Thursday released Genius 4.0, a software update that brings smart-mapping features to the midrange Roomba i3+ and i3, and new object-recognition abilities to the high-end Roomba j7+ and j7.",
-      "sourceUrl": null,
-      "webUrl": "https://in.pcmag.com/robot-vacuums/148431/irobot-brings-smart-mapping-features-to-midrange-i3-i3-roombas",
-      "originalUrl": "https://in.pcmag.com/robot-vacuums/148431/irobot-brings-smart-mapping-features-to-midrange-i3-i3-roombas",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_in/news/i/irobot-bri/irobot-brings-smart-mapping-features-to-midrange-i3-i3-roomb_hmh1.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-veritone-named-winner-of-14th-annual-media-excellence-awards-for-best-artificial-intelligence.md",
-      "title": "Veritone Named Winner of 14th Annual Media Excellence Awards for Best Artificial Intelligence",
-      "excerpt": "(NASDAQ: VERI), creator of aiWARE™, a hyper-expansive enterprise AI platform, is pleased to announce it has been named the winner of the 14th Annual Media Excellence Awards (MEA) for Best Artificial Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.silicon.co.uk/press-release/veritone-named-winner-of-14th-annual-media-excellence-awards-for-best-artificial-intelligence",
-      "originalUrl": "https://www.silicon.co.uk/press-release/veritone-named-winner-of-14th-annual-media-excellence-awards-for-best-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Week Europe",
-        "domain": "silicon.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

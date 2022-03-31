@@ -25,51 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "Healthtech Startup Qure.ai Bags $40 Mn Funding To Disrupt Radiology ‘Status Quo’"
-    excerpt: "Healthtech startup, Qure.ai, has raised $40 Mn in a strategic funding round led by Novo Holdings and HealthQuad."
-    publishedDateTime: 2022-03-29T15:33:00Z
-    webUrl: "https://inc42.com/buzz/healthtech-startup-qure-ai-bags-40-mn-funding-to-disrupt-radiology-status-quo/"
-    ampWebUrl: "https://inc42.com/buzz/healthtech-startup-qure-ai-bags-40-mn-funding-to-disrupt-radiology-status-quo/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/healthtech-startup-qure-ai-bags-40-mn-funding-to-disrupt-radiology-status-quo/amp/"
+  - title: "Why and Where Should Healthcare Companies Increase AI Investments"
+    excerpt: "Although democratizing healthcare is no small task, the industry is ripe for big change and artificial intelligence and machine learning will be huge players in that transformation. In fact, the AI healthcare market is projected to hit a value of $39.5 ..."
+    publishedDateTime: 2022-03-31T17:23:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments?amp"
     type: article
     provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 52
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
+  - title: "Fraud prevention is the biggest driver for investments in AI"
+    excerpt: "Provenir has found in its newest study that more than 90% of European fintechs will adopt AI-enabled risk decisioning to combat fraud"
+    publishedDateTime: 2022-03-30T15:00:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/fraud-prevention-is-the-biggest-driver-for-investments-in-ai"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
     images:
-      - url: "https://inc42.com/wp-content/uploads/2022/03/qure-social.png"
-        width: 1200
-        height: 628
+      - url: "https://assets.bizclikmedia.net/320/bfca612340fe1f864902b119bca0d493:80e4dca0cc1926f25a00854946cb3bae/gettyimages-1222889675.jpg"
+        width: 320
+        height: 242
         isCached: true
-  - title: "Healthtech startup Qure.ai raises $40 million in funding led by Novo Holdings, HealthQuad"
-    excerpt: "The startup will use the capital to extend and strengthen its global reach, especially in the US and Europe, and intensify product development for critical care and community diagnostics."
-    publishedDateTime: 2022-03-29T12:15:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/healthtech-startup-qure-ai-raises-40-million-in-funding-led-by-novo-holdings-healthquad/articleshow/90520240.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/healthtech-startup-qure-ai-raises-40-million-in-funding-led-by-novo-holdings-healthquad/amp_articleshow/90520240.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/healthtech-startup-qure-ai-raises-40-million-in-funding-led-by-novo-holdings-healthquad/amp_articleshow/90520240.cms"
+  - title: "Artificial Intelligence in Healthcare Market Trends, Size, Segment and Industry Growth by Forecast to 2027"
+    excerpt: "Reports And Data Rising volume of complex data and reduction in hardware costs is projected to drive growth of the artificial intelligence"
+    publishedDateTime: 2022-03-30T11:46:00Z
+    webUrl: "https://menafn.com/1103936346/Artificial-Intelligence-in-Healthcare-Market-Trends-Size-Segment-and-Industry-Growth-by-Forecast-to-2027"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 48
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 36
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-7938,msid-90520184/prashant-warier-cofounder-and-ceo-qure-ai-.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Healthtech AI startup Qure.ai secures $40 mn"
-    excerpt: "Healthtech AI startup Qure.ai secures $40 mn - Healthtech AI platform Qure.ai (Qure) on Tuesday announced it has secured $40 million in a funding round led"
-    publishedDateTime: 2022-03-30T03:44:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/healthtech-ai-startup-qureai-secures-40-mn-nid-218474-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 37
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/3DGw905H.jpg"
-        width: 570
-        height: 367
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?868122"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "RFgnO8XnG8OH1QOkjMEvcFOtoP8roRnc+uE//4airnmti+/844P/7dy3fuwJ9fa8h415NdIfaWQGqiXHmAHoA3AMhWGtAeE10Vc8johxGCxgfW8nUGRTUznqeKYkHVwVXMX3/wD/h9D/jPSBOkLRuCVM6OpGzdbG+RGjEcjQzfAoiymopf4DpTbuKRxAa1twTxKxBe1GfGXdvy1sxM2fUOT+u+Y/gU/UBvSaBNMSfZAIxv7qOAmNuZZJAT4u0zXmWc2uPZJxQb2RKYS7kjXsfNbDu16e3zYn4Pw5H+4hVPveUQoMezdLhgkbyLQJWgrAHhHxtjIQeIu0abbLxiUEhSQ66qAMWQxAPoAFKnN1ykM=;u6NULiAO+CeNN2B7ozFUrw=="

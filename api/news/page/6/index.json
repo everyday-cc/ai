@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-25-chasing-the-worlds-first-brain-on-chip-ai-computer.md",
+      "title": "Chasing The World’s First Brain-on-Chip AI Computer",
+      "excerpt": "New project BayesBrain aims to build the world’s first computer that combines brain cells and silicon microchips. Besides being the most intelligent computing system ever, the brain is also very energy efficient.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconsemiconductor.net/article/114480/Chasing_The_World’s_First_Brain-on-Chip",
+      "originalUrl": "https://siliconsemiconductor.net/article/114480/Chasing_The_World’s_First_Brain-on-Chip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data.angel.digital/images/imager.php?w=655&h=300&type=b2&zc=1&i=1648050917-ERC_Diverse_@Fostering_Science_copy.jpg",
+          "width": 655,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "siliconsemiconductor",
+        "domain": "siliconsemiconductor.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-iit-mandi-to-organise-robotics-ai-summer-camp-for-school-kids.md",
+      "title": "IIT-Mandi to organise Robotics & AI summer camp for school kids",
+      "excerpt": "The Indian Institute of Technology Mandi is organising the summer camp on Robotics and Artificial Intelligence (AI) in collaboration with Himachal Pradesh Kaushal Vikas Nigam (HPKVN), Shimla. This summer camp,",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/iit-mandi-to-organise-robotics-ai-summer-camp-for-school-kids/",
+      "originalUrl": "https://analyticsindiamag.com/iit-mandi-to-organise-robotics-ai-summer-camp-for-school-kids/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Robotics.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-clearview-ai-releases-20-version-of-industry-leading-facial-recognition-platform-for-law-enforcement.md",
       "title": "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement",
       "excerpt": "Clearview AI’s database now features more than 20 billion facial images Clearview 2.0 offers new compliance and investigation management tools for law",
@@ -1054,109 +1140,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-small-data-big-impact-making-the-most-of-ai-with-less.md",
-      "title": "Small Data, Big Impact: Making The Most Of AI With Less",
-      "excerpt": "Headlines have reiterated that investments in big data have continued to increase, and the big data story they’re selling us on just keeps getting bigger. But it’s time to burst that bubble. For the last decade,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/small-data-big-impact-making-the-most-of-ai-with-less/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/small-data-big-impact-making-the-most-of-ai-with-less/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623b583afbf6be86c7a2616b/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/small-data-big-impact-making-the-most-of-ai-with-less/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/24/small-data-big-impact-making-the-most-of-ai-with-less/amp/",
-      "publishedDateTime": "2022-03-24T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-chinas-ev-chassis-maker-pix-raises-11m-to-build-its-own-smart-vehicles.md",
-      "title": "China’s EV chassis maker PIX raises $11M to build its own smart vehicles",
-      "excerpt": "The autonomous driving industry in China has enjoyed a boom over the past two years, with both institutional and corporate investors pouring money into a driverless future. Companies thriving in the downstream,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/24/pix-moving-chassis-skateboard-11-million/",
-      "originalUrl": "https://techcrunch.com/2022/03/24/pix-moving-chassis-skateboard-11-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/Pix-moving.jpeg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/24/pix-moving-chassis-skateboard-11-million/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/24/pix-moving-chassis-skateboard-11-million/amp/",
-      "publishedDateTime": "2022-03-24T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

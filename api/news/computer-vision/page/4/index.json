@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-18-facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023.md",
+      "title": "Facial recognition firm aims to collect 100 billion photos by 2023",
+      "excerpt": "Clearview AI told investors it would have 100 billion facial photos in its databases by the end of the year. The company claims its \"index of faces\" has grown from 3 billion to 10 billion since 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/news/facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023",
+      "originalUrl": "https://www.washingtonexaminer.com/news/facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/88a7b6c/2147483647/strip/true/crop/2290x1296+0+15/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fcc%2F12%2F115a2d5d4575b9e48cdac542565d%2Ffelicity-ace-photo6.jpeg",
+          "width": 530,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonexaminer.com/news/facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023?_amp=true",
+      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023?_amp=true",
+      "publishedDateTime": "2022-02-17T10:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-facial-recognition-technology-taken-to-the-next-level-in-virtual-reality.md",
       "title": "Facial recognition technology taken to the next level in virtual reality",
       "excerpt": "An international team of researchers from Australia, New Zealand and India has taken facial recognition technology to the next level, using a person’s expression to manipulate objects in a virtual reality setting without the use of a handheld controller or touchpad.",
@@ -1332,58 +1375,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-scandit-raises-150m-to-automate-inventory-scanning-with-computer-vision.md",
-      "title": "Scandit raises $150M to automate inventory scanning with computer vision",
-      "excerpt": "Scandit, a company developing algorithms to help companies manage inventory by scanning labels, has raised $150 million in capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/09/scandit-raises-150m-to-automate-inventory-scanning-with-computer-vision/",
-      "originalUrl": "https://venturebeat.com/2022/02/09/scandit-raises-150m-to-automate-inventory-scanning-with-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/shutterstock_149630039.jpg?w=1200&#038;strip=all",
-          "width": 1000,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T00:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

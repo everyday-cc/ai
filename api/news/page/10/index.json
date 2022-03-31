@@ -2,6 +2,93 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-03-22-computer-vision-in-healthcare-market-size-to-grow-usd-1182-mn-by-2027.md",
+      "title": "Computer Vision in Healthcare Market Size To Grow USD 1182 Mn By 2027",
+      "excerpt": "As per our report, the global computer vision in healthcare market size was worth USD 475 million in 2022, and this value is further estimated to be",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/computer-vision-in-healthcare-market-size-to-grow-usd-1182-mn-by-2027",
+      "originalUrl": "https://www.digitaljournal.com/pr/computer-vision-in-healthcare-market-size-to-grow-usd-1182-mn-by-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-21T23:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-apac-firms-see-need-to-train-staff-in-digital-skills-but-few-actually-do-so.md",
+      "title": "APAC firms see need to train staff in digital skills, but few actually do so",
+      "excerpt": "Some 97% of organisations across seven Asia-Pacific markets, including Singapore and Australia, recognise the need to train their employees in digital skillsets, with cloud and cybersecurity the top-most in demand,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/apac-firms-see-need-to-train-staff-in-digital-skills-but-few-actually-do-so/",
+      "originalUrl": "https://www.zdnet.com/article/apac-firms-see-need-to-train-staff-in-digital-skills-but-few-actually-do-so/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/apac-firms-see-need-to-train-staff-in-digital-skills-but-few-actually-do-so/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apac-firms-see-need-to-train-staff-in-digital-skills-but-few-actually-do-so/",
+      "publishedDateTime": "2022-03-21T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-workplace-digital-skills-training-in-a-bad-place.md",
       "title": "Workplace digital skills training in a bad place",
       "excerpt": "Workers aren’t getting enough training in much needed digital skills with two in three workers saying they’re not confident existing workplace training programs will meet their future career needs, a new survey has found.",
@@ -1116,101 +1203,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-20-mit-and-tsinghua-scholars-use-deepminds-alphafold-approach-to-boost-covid-19-antibodies.md",
-      "title": "MIT and Tsinghua scholars use DeepMind's AlphaFold approach to boost COVID-19 antibodies",
-      "excerpt": "Using knowledge of proteins advanced by DeepMind, Tsinghua University scientists devise mutated monoclonal antibodies that resist COVID-19's immune escape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/mit-and-tsinghua-scholars-use-deepminds-alphafold-approach-to-boost-covid-19-antibodies/",
-      "originalUrl": "https://www.zdnet.com/article/mit-and-tsinghua-scholars-use-deepminds-alphafold-approach-to-boost-covid-19-antibodies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/abd53615ffa5b14b3bd167072ef976e5f18578d2/2022/03/20/4b8f646c-55c4-4661-8f7b-4bc80c59f9bb/shan-et-al-ddr-predictor-2022.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mit-and-tsinghua-scholars-use-deepminds-alphafold-approach-to-boost-covid-19-antibodies/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mit-and-tsinghua-scholars-use-deepminds-alphafold-approach-to-boost-covid-19-antibodies/",
-      "publishedDateTime": "2022-03-20T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-20-young-scientists-awards-for-school-students-bringing-innovation-to-ai-robotics.md",
-      "title": "Young Scientists Awards for school students bringing innovation to AI & Robotics",
-      "excerpt": "To make digital documents and online material more accessible to people who are blind, I have developed a 'Tactile Display' with the help of people who can read digital text and documents.”",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/young-scientists-awards-for-school-students-bringing-innovation-to-ai-robotics/",
-      "originalUrl": "https://analyticsindiamag.com/young-scientists-awards-for-school-students-bringing-innovation-to-ai-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/young-scientist-private.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-20T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

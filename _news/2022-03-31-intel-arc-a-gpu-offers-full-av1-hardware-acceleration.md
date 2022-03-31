@@ -147,6 +147,20 @@ related:
         width: 800
         height: 560
         isCached: true
+  - title: "Intel's Arc GPU will be a \"limited edition\" release in 2022"
+    excerpt: "While integrated Iris Xe graphics represents what Intel can do with ultra-book-level GPUs, the company is also looking to challenge NVIDIA in 2022 with its"
+    publishedDateTime: 2022-03-31T14:33:00Z
+    webUrl: "https://www.onmsft.com/news/intels-arc-gpu-will-be-a-limited-edition-release-in-2022"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2022/03/Arc-GPU.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "The Intel Arc Alchemist GPU Shows Off in a New Blender Benchmark"
     excerpt: "Intel Graphics has released a video that shows the 3D rendering program Blender being accelerated on an Intel Arc Alchemist"
     publishedDateTime: 2022-03-28T06:53:00Z
@@ -157,6 +171,6 @@ related:
       domain: guru3d.com
     quality: 19
 
-secured: "QB9nFpqpa7YlUaB0IUx1zXoTVFOtUajxm3Pozn6njskWS92vt41WyYvemyAkDP/AtB+PKXBaEzGCLt6LfM8eW6UX7NhCrCl1iEJgBnLeU+lIB6LCewZdg6DDK2uSkxZ8FmQfh1wQ5N0FSBKUL2IzAozKpo9yM+QeNIEAxjfmqJN3zT4ZE5qZqvxGek8Qergw4J+abiCwdrvMW0cMxT73V9EdtnCVsgeP89J2LRWITXr1V6CGT5ZAbfOzt85adNlotyI/N9MHcdJDhbjKshtqt+JWhXahpjUalpiznea+uSbZVzNv/w1+o/4t9S3z38l7wRTZCbNH997TRR1kTNNv05JDI0Zz2dsdx6w4xyeGJ94=;BV0ln1kaQxEIUZmFcQgSUg=="
+secured: "L75roIFBs6RL/DayIThtWGej3OpBrPKVVT5nDbZaZJZ6qC3S7d2Bcg+YrlMp0OPU4EWfJhtIe0wYQMIkMTb7DdAR1yg+ieQbZCeZGL7SIJV/qVAFYeF2MjLigO3OH/U9bCZdKqKiAQHtr2vEzzgTFpKBOPp2t9M72r3IcAPxRmtSdLTYxwlKj8MSpanAe8E3chNs0UCtBuhcvsy1kHrEYy0yIoVmF/uGkP34qXDKwOOrB4PYHQg2tBoJurwQDdfvcSQqwoyzFYuOkxGOJOC9hrwpGmh/PdapsENVyQpX90EBHgMOjFRACfsaKlmqKp6sHmaCeUCLGjEDJpWyPNXt8Tn5onzdY6z8VJKhOc3oayJwEvg/NesbX9jsT0K8kXI3rjxK0SOCl+opL5IPwTl/FI88V2tlvj/V2bUiiDhQYf4PH5uIxdL0AJ12ktyMgeHy+Tr9iFU7Ugy7AbZ7wvH/tcWxOYJ3zfZekUsI/E6JeICiujedarJBZ0o+Y4pmnJIyMfBKA3pDHHAK9rJeuUHCsA==;f1EF/7GG3GegIc8HRguHdg=="
 ---
 

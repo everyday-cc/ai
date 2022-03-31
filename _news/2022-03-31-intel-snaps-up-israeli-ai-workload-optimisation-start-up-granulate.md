@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Intel Buying AI Startup To Cut Cloud Costs, Boost CPU Compute Abilities"
+    excerpt: "an artificial intelligence (AI) software optimization startup, for a reported $650 million. The Santa Clara, Calif.-based chip giant said it will leverage Granulate’s technology to help its customers maximize compute workloads performance and reduce ..."
+    publishedDateTime: 2022-03-31T19:24:00Z
+    webUrl: "https://www.crn.com/news/data-center/intel-buying-ai-startup-to-cut-cloud-costs-boost-cpu-compute-abilities"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0273-14cc74acf44c-1d63ad299148-1000/p1010704.jpeg"
+        width: 398
+        height: 398
+        isCached: true
   - title: "Intel confirms acquisition of Israeli cloud service startup Granulate, terms not disclosed"
     excerpt: "Intel Corporation (INTC) has signed an agreement to acquire Granulate Cloud Solutions, an Israel-based developer of real-time continuous optimization software.The acquisition"
     publishedDateTime: 2022-03-31T12:46:00Z

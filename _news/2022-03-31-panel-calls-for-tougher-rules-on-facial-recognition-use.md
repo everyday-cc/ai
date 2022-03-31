@@ -85,6 +85,20 @@ related:
         width: 600
         height: 333
         isCached: true
+  - title: "Facebook is trialling facial recognition software"
+    excerpt: "Hot on the heels of the iPhone X, Facebook is working on facial recognition technology to help users recover their accounts.The social network is giving select users the ability to verify their account,"
+    publishedDateTime: 2022-03-31T19:57:00Z
+    webUrl: "https://jerseyeveningpost.com/uncategorised/2022/03/31/facebook-is-trialling-facial-recognition-software/"
+    type: article
+    provider:
+      name: Jersey Evening Post
+      domain: jerseyeveningpost.com
+    quality: 39
+    images:
+      - url: "https://jerseyeveningpost.com/wp-content/uploads/2022/03/31195720/Img32963673.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "ZDlaYO3M+H8s/h8FyOyIbj6pi0f/xlefr23Yfb71ISjNZWn4YYFfKIfo5Jshj+Ghywy1jv6YCQ/yDyIM81yqp5oYdGvRULYEAhHaro037gDSt7QrzEBzgBLNGV2Q4jjX+i58QGKp2WdJwHtWwk0zJlfSkZb4DjLXGhU9uRb3PuffkuTINCpjzOlVBZW0d2qLeREzZTi4XiA8I14wHctQZEtwTDV4gBZwlUP4CChAC0jejX/ZrjoFc/dsjRrovdk32ip2AxmxJzTuBkIZU2nhwi9BAegei5dEqc9eVt7TvqEmzWJfEibC8kmDVf6aip1NofMXmAilDU34ZAIbb+yI8NgHSYjaYAL2x0QjkaxyWjg=;umhR4NsUeUeOChJNQywkxQ=="
 ---

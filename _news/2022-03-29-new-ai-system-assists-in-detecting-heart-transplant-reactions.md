@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Google Uses AI Searches To Detect If Someone Is In Crisis"
+    excerpt: "Google is one of the pioneers in the use of artificial intelligence. The company recently announced that it could use AI techniques to analyze users’ searches and detect whether they are in a crisis. To do this, Google has developed machine learning models."
+    publishedDateTime: 2022-03-31T18:44:00Z
+    webUrl: "https://www.androidheadlines.com/2022/03/google-uses-ai-searches-to-detect-if-someone-is-in-crisis.html"
+    ampWebUrl: "https://www.androidheadlines.com/2022/03/google-uses-ai-searches-to-detect-if-someone-is-in-crisis.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/03/google-uses-ai-searches-to-detect-if-someone-is-in-crisis.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 57
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2018/12/Google-Search-Incognito-AH-01.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "3nxyQul/QRSCNgoPaT3LTpjHKaoI8TQlHXTzb5uBnKkc1KVA6b2xjUhD+K2Uf8hJGDzaXoVbi7vHCxSH78CoGLb/i6s944uXFugj4+/Yb66z/b3oEdhEorn9EUwQ8lvIRR3PAB9c7q2YS4+PkyJIF1sfjuzDcocZZ38z+5MC5d6yNKAYlHHfHB5uIhKy5K9LBDx9GGhfO5v2RKGj3Wl4lq1nYH/00QzwbXXPzByGjLFCaGNeaHXioIyAX7mMxs+rhjLSikwwN4MoMgWWN3p8iHnG5E84RY9lhohKs6YVE+yfZhkkWCH1Jn9SOaVSGlyrrIKjnUfNlchmHR9aDagYf1fFqqs40d3WNmFPIkRlG94=;f2bLZg+RgA8L/pP3LPfiYA=="
 ---

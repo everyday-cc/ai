@@ -3,8 +3,8 @@ category: news
 title: "Philips enables seamless echocardiography workflows with the launch of Ultrasound Workspace at ACC 2022"
 excerpt: "Industry leading vendor-neutralsolution for automated 2D and 3D quantification forbrowser-accessible echocardiography analysis and reporting New solution provides seamless diagnostic workflows and identical applications,"
 publishedDateTime: 2022-03-31T12:02:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-health-europe-netherlands-c1964a95ca03d016e71a07d61930d7d3"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-health-europe-netherlands-c1964a95ca03d016e71a07d61930d7d3"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-health-europe-netherlands-c1964a95ca03d016e71a07d61930d7d3"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-health-europe-netherlands-c1964a95ca03d016e71a07d61930d7d3"
 type: article
 quality: 8
 heat: 8
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "AgulrP/tcQfXdYrnPR2xuy+68VAY/1wRxf1f36mdOvB8XYF5MTO5lEHhHOzJPEXaSU5EFjEY8uxgsDEbQDt5PXED5p35qKGAMRkhTFpeDkmV12r9hqe5VpZxLTRHoRtuPs11viN6D1UvxyTv3SQ97SOLL4/rXIJ+MMrLNTxiqxhU48o1zXq3QPH4/OhPvJO48xGoYOh0BXbua4Oj4VOAD7qh1HNsnmdbhOWvAtgJhVtfC5LkWROZ2qqg83ULOQf0qs7lREhu0y3AzhBrvyc6Cs5/FbQvo0KW2RZfim1VfTTduWWhz1gT304JYpO3UqdKxOhDmQyh4QqWjUgZbE5y3pCzR0cFjkpqYsp8lGeErWI=;zGD5sW/59T7l0Wmc/xQ0gQ=="
+secured: "+kb1GHN51VOBgr+27oNYH/5bTSp9Ub4itt50oPS2+7wgXYMTnOeEhXu1gGZJDGdYAmr/E7n9G1J2KkSKzVZ3N8bHdSJeK1RYzXadOqdSusCorlf6S0dawxKxtZWQgKIaGeGVE8JTCMmJOkBOeFs1IZWoaz17mQC49hjSJvFT0ZNrA7zgeDL8HjenuEgDitUEk/aYgZvifialQRwnat2sjMZstg5pL7D6jHsLwe9Yf7TEdGIMnTImKC4tXuNUQi8bzD3ToDXPD4t1+E9GG5OMoReYA50ELdwXpDzSIHbomeefsSJD+jaynzawXKnFvBuPgF3qSUqXQiA19RPqMMHqyTX75p6NeLYFj/abc9h6vOI=;s34RqNDlBdP2HJP7Fl5Gcg=="
 ---
 

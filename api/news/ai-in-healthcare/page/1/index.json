@@ -2,6 +2,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-01-why-and-where-should-healthcare-companies-increase-ai-investments.md",
+      "title": "Why and Where Should Healthcare Companies Increase AI Investments",
+      "excerpt": "Although democratizing healthcare is no small task, the industry is ripe for big change and artificial intelligence and machine learning will be huge players in that transformation. In fact, the AI healthcare market is projected to hit a value of $39.5 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments",
+      "originalUrl": "https://www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments?amp",
+      "publishedDateTime": "2022-03-31T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-milken-lerner-back-healthcare-start-up-that-leverages-ai.md",
       "title": "Milken, Lerner Back Healthcare Start-up That Leverages AI",
       "excerpt": "Zephyr AI, a healthcare technology company backed by blue-chip investors including Michael Milken and the Lerner family, has raised $18.5 million in its latest seed funding round. Although the round is fairly small,",
@@ -694,6 +728,41 @@
       ]
     },
     {
+      "path": "_news/2022-03-17-using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment.md",
+      "title": "Using artificial intelligence in health sciences education requires interdisciplinary collaboration and risk assessment",
+      "excerpt": "there has been an increase in research and development related to the use of artificial intelligence (AI) in health sciences education in fields such as medicine, nursing and occupational therapy.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment-176628",
+      "originalUrl": "https://theconversation.com/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment-176628",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment-176628",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment-176628",
+      "publishedDateTime": "2022-03-17T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-opinion-using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment.md",
       "title": "Opinion: Using artificial intelligence in health sciences education requires interdisciplinary collaboration and risk assessment",
       "excerpt": "There are growing applications of artificial intelligence in health sciences education. Students and practitioners need to be educated on using these technologies and made aware of their implications.",
@@ -822,41 +891,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment.md",
-      "title": "Using artificial intelligence in health sciences education requires interdisciplinary collaboration and risk assessment",
-      "excerpt": "Harley, Assistant Professor, Medicine and Health Sciences, McGill University Over the past five years, there has been an increase in research and development related to the use of artificial intelligence (AI) in health sciences education in fields such as medicine,",
-      "sourceUrl": null,
-      "webUrl": "https://nationalpost.com/pmn/news-pmn/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment",
-      "originalUrl": "https://nationalpost.com/pmn/news-pmn/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nationalpost.com/pmn/news-pmn/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment/wcm/7f593bce-ec59-4ca2-a81b-106ec75c8e49/amp/",
-      "cdnAmpWebUrl": "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment/wcm/7f593bce-ec59-4ca2-a81b-106ec75c8e49/amp/",
-      "publishedDateTime": "2022-03-17T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Post",
-        "domain": "nationalpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Education"
       ]
     },
     {
@@ -1270,49 +1304,6 @@
       "provider": {
         "name": "Eagle-Tribune",
         "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-gene-therapy-global-market-report-2022.md",
-      "title": "Gene Therapy Global Market Report 2022",
-      "excerpt": "IS YOUR LUCKY DAY] For only $7, get 2 bear market beating options trade straight to your inbox and SMS every month! Click Here Now to Get Started! New York, March 16, 2022 (GLOBE NEWSWIRE) -- Reportlinker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/03/g26165499/gene-therapy-global-market-report-2022",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/g26165499/gene-therapy-global-market-report-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26165499",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26165499",
-      "publishedDateTime": "2022-03-16T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

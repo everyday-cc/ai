@@ -2,6 +2,93 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-03-18-expertai-takes-top-honors-in-fintech-breakthrough-awards-for-best-use-of-ai-in-fintech.md",
+      "title": "Expert.ai Takes Top Honors in FinTech Breakthrough Awards for \"Best Use of AI in FinTech\"",
+      "excerpt": "Expert.ai (EXAI:IM), the leader in artificial intelligence (AI) for language understanding, has been named the winner in the 6 th Annual FinTech Breakthrough Awards for \"Best Use of AI in FinTech.\" Attracting nearly 4,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-expertai-takes-top-honors-fintech-breakthrough-awards-best-/2022/03/18/9566450.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-expertai-takes-top-honors-fintech-breakthrough-awards-best-/2022/03/18/9566450.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-poll-shows-americans-optimism-toward-ai-and-and-facial-recognitionbut-brain-implants-not-so-much.md",
+      "title": "Poll Shows Americans’ Optimism Toward AI And And Facial Recognition—But Brain Implants? Not So Much",
+      "excerpt": "like chips implanted in the brain and driverless vehicles. Output of an artificial intelligence system from Google Vision, performing facial recognition on a ... [+] photograph of a man ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
+      "originalUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62335e6539b745afd96e9434/0x0.jpg?format=jpg&crop=3421,1924,x0,y172,safe&fit=crop",
+          "width": 3421,
+          "height": 1924,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
+      "publishedDateTime": "2022-03-18T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-ai-startup-aibee-becomes-unicorn-with-fresh-funds-from-xiaomi.md",
       "title": "AI Startup Aibee Becomes Unicorn With Fresh Funds From Xiaomi",
       "excerpt": "Aibee, a Chinese artificial intelligence startup, is getting fresh funding from smartphone maker Xiaomi Corp, which propels its valuation to more than $1 billion.",
@@ -1046,93 +1133,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-your-chipotle-chips-may-soon-be-made-by-a-robot-named-chippy.md",
-      "title": "Your Chipotle Chips May Soon Be Made By A Robot Named 'Chippy'",
-      "excerpt": "Chipotle announced on Wednesday that it is testing out an alternative way to make its tortilla chips using an AI-powered robot named “Chippy.” The creation of the robot is intended to help businesses run more efficiently and to help employees not have to do mundane tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/your-chipotle-chips-may-soon-be-made-robot-named-chippy-3441498",
-      "originalUrl": "https://www.ibtimes.com/your-chipotle-chips-may-soon-be-made-robot-named-chippy-3441498",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/11/27/chipotle-delivery.jpg",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/your-chipotle-chips-may-soon-be-made-robot-named-chippy-3441498?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/your-chipotle-chips-may-soon-be-made-robot-named-chippy-3441498?amp=1",
-      "publishedDateTime": "2022-03-17T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-how-web-30-is-transforming-the-financial-services-industry.md",
-      "title": "How Web 3.0 is Transforming the Financial Services Industry?",
-      "excerpt": "Sabrina Akramova , Editor & Content Manager at Financial IT; 17.03.2022 04:45 pm ; #web #internet #web3. How Web 3.0 is Transforming the Financial Services Industry? We live in th",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/blog/web-internet-web3/how-web-30-transforming-financial-services-industry",
-      "originalUrl": "https://financialit.net/blog/web-internet-web3/how-web-30-transforming-financial-services-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/img_7407_3.jpeg",
-          "width": 3024,
-          "height": 3236,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

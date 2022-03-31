@@ -43,6 +43,22 @@ related:
         width: 1020
         height: 573
         isCached: true
+  - title: "Facebook owner Meta to build Canadian engineering hub in Toronto, creating 2,500 new jobs"
+    excerpt: "Meta Platforms Inc. — parent company of Facebook, Instagram and WhatsApp — announced ... while growing the existing Canadian Reality Labs and AI Research teams. The company says these teams will help develop their new virtual reality technology known ..."
+    publishedDateTime: 2022-03-31T18:43:00Z
+    webUrl: "https://www.cp24.com/news/facebook-owner-meta-to-build-canadian-engineering-hub-in-toronto-creating-2-500-new-jobs-1.5839512?cache=%3FclipId%3D89926%2F7.365606%2F7.359056%2F7.359056"
+    ampWebUrl: "https://beta.cp24.com/news/2022/3/29/1_5839512.html"
+    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2022/3/29/1_5839512.html"
+    type: article
+    provider:
+      name: CP24
+      domain: cp24.com
+    quality: 35
+    images:
+      - url: "https://beta.cp24.com/content/dam/cp24/videos/axis/2022/3/29/2412240/_jcr_content/renditions/videothumbnail.1648672669485.jpg"
+        width: 1020
+        height: 573
+        isCached: true
   - title: "Facebook to Set Up New Engineering Hub in Canada, Create 2,500 New Jobs"
     excerpt: "Meta formerly Facebook has today announced the creation of a new engineering hub in Canada based in Toronto, alongside increased hiring across Canada. This is expected to create up to 2,500 new jobs over the next several years."
     publishedDateTime: 2022-03-29T18:48:00Z

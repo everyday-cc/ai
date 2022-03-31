@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/news/sparkcognition-delivers-visual-ai-ca
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/sparkcognition-delivers-visual-ai-capabilities-across-industries/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Untitled-design-7-2.jpg"
         width: 2240
         height: 1260
-        isCached: true
-  - title: "SparkCognition delivers Visual AI Capabilities across industries with acquisition of Integration Wizards"
-    excerpt: "Through this acquisition SparkCognition expands its IP portfolio to include computer vision capabilities bringing greater value to its industry solutions and"
-    publishedDateTime: 2022-03-28T07:19:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272428308/sparkcognition-delivers-visual-ai-capabilities-across-industries-with-acquisition-of-integration-wizards"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 22
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "M&A wrap: ECPR founder sells firm to new CEO; SparkCognition adds 'visual AI tech'"
     excerpt: "\"I could not be happier for the opportunity to sell this firm to her because I am confident that she will preserve the legacy of the business while taking it to new heights,\" PR maven Elizabeth Christian,"

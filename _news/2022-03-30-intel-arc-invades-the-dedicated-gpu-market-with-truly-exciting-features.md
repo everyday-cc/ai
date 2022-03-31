@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-inv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -150,6 +150,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/intel.jpeg"
         width: 800
         height: 560
+        isCached: true
+  - title: "Intel's Arc GPU will be a \"limited edition\" release in 2022"
+    excerpt: "While integrated Iris Xe graphics represents what Intel can do with ultra-book-level GPUs, the company is also looking to challenge NVIDIA in 2022 with its"
+    publishedDateTime: 2022-03-31T14:33:00Z
+    webUrl: "https://www.onmsft.com/news/intels-arc-gpu-will-be-a-limited-edition-release-in-2022"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2022/03/Arc-GPU.png"
+        width: 1024
+        height: 768
         isCached: true
   - title: "The Intel Arc Alchemist GPU Shows Off in a New Blender Benchmark"
     excerpt: "Intel Graphics has released a video that shows the 3D rendering program Blender being accelerated on an Intel Arc Alchemist"

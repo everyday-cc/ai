@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-01-new-citi-field-entrance-option-facial-recognition.md",
+      "title": "New Citi Field entrance option: Facial recognition",
+      "excerpt": "Mets fans will have the option of registering for facial recognition technology to enter Citi Field in lieu of showing a mobile ticket.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.com/sports/baseball/mets/facial-recognition-citi-field-nljqymcu",
+      "originalUrl": "https://www.newsday.com/sports/baseball/mets/facial-recognition-citi-field-nljqymcu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-ace.newsday.com/ace/c:YmI3NTJjODctOGI2ZS00:MTlhZTE0/preview/1280",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/sports/baseball/mets/facial-recognition-citi-field-nljqymcu",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/sports/baseball/mets/facial-recognition-citi-field-nljqymcu",
+      "publishedDateTime": "2022-03-31T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras.md",
       "title": "A Berlin train station is to trial facial recognition technology in its security cameras",
       "excerpt": "A train station in Berlin is to begin testing new levels of security through its surveillance cameras, by trialling the use of facial recognition technology. The city’s Sudkreuz station will use ...",
@@ -10,7 +53,7 @@
       "originalUrl": "https://jerseyeveningpost.com/uncategorised/2022/03/31/a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -54,7 +97,7 @@
       "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1335,40 +1378,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-visionifyais-computer-vision-technology-to-propel-general-shales-brick-inspection-process-on-manufacturing-line.md",
-      "title": "Visionify.ai's Computer Vision Technology to Propel General Shale's Brick Inspection Process on Manufacturing Line",
-      "excerpt": "Visionify.ai, a computer vision technology company that provides turnkey solutions to its customers, today announced it is now a solutions provider for one of General Shale's brick plants. General Shale's family of brands manufacture and supplies high-quality thin bricks for residential and commercial construction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/visionify-ais-computer-vision-technology-to-propel-general-shales-brick-inspection-process-on-manufacturing-line/article_2ccc5b44-9144-527d-95f9-dd8f6189de16.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/visionify-ais-computer-vision-technology-to-propel-general-shales-brick-inspection-process-on-manufacturing-line/article_2ccc5b44-9144-527d-95f9-dd8f6189de16.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -6,7 +6,7 @@ publishedDateTime: 2022-03-30T03:49:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome-1031316927"
 webUrl: "https://markets.businessinsider.com/news/stocks/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome-1031316927"
 type: article
-quality: 30
+quality: 32
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://mma.prnewswire.com/media/1775564/image_5001494_28856558.jpg"

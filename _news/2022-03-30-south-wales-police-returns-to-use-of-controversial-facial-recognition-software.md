@@ -9,7 +9,7 @@ ampWebUrl: "https://www.walesonline.co.uk/news/politics/south-wales-police-retur
 cdnAmpWebUrl: "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/news/politics/south-wales-police-returns-use-23533221.amp"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 615
     height: 409
     isCached: true
-
-related:
-  - title: "Task force, commission want government intervention with AI; especially facial recognition"
-    excerpt: "Reports pushing recommendations for more-careful use of public algorithms continue to get more direct and succinct, especially about facial recognition."
-    publishedDateTime: 2022-03-29T18:07:00Z
-    webUrl: "https://www.biometricupdate.com/202203/task-force-commission-want-government-intervention-with-ai-especially-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 44
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "K0P+CYmsjeUUT2pLGWopD0MUuI5T2KzGwPPGElqKejzCtdkx+wDvENMHEMG08nl8JyzJE7WzLnawusq5isRsSd36kCMPKVtHK89SBoMbyjqgFj3y0hAdGSzVSGqfUzClMosQejMKJmTchDq02wZDw30Na/wiLkHqp++hP1tGiVk8Rfk8N7eahv7nuo1q9AT7LldpqPWcgCp+F96VhMdfAxi5I64CAiJg859oXVePnwUlDVO3TMf4q61Xwp+L7XFx81P5GpttG3kk6LN/dMWMF/gJJPP8Kbm6jf/6TMrO7Ay2vgpRp7tpinFG1u5QVJ9LR+xlGC8Y3CnTUVa8gcbYDUsUqV/NG41mOfCXvJbjova97eZebiK9tv580Mv+d58sONiWVB04r0g0PfzGeWXdOmYYbs1ltPwwX1ZG7eramZ1pEEpBCUNfTNMByKukdxKEONHKgZMuee4Glgw3j1hwg2WB7T2mebfLbG0rF1xSVFEilz0oU9im0F3LpCeNZ9AOOC7MHv6HC8XTI6EF+4dRNQ==;phkbWPsw2mxELSXmPCeQrg=="
 ---
