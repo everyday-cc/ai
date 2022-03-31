@@ -163,20 +163,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Top 10 Most Promising Fintech Firms in India 2022"
-    excerpt: "FinTech firms are technological alternatives to traditional financial firms’ back-end systems in the twenty-first century. Find out the top 10 most p"
-    publishedDateTime: 2022-03-26T17:12:00Z
-    webUrl: "https://menafn.com/1103917638/Top-10-Most-Promising-Fintech-Firms-in-India-2022"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?869496"
-        width: 442
-        height: 250
-        isCached: true
   - title: "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow"
     excerpt: "TIFIN, a fintech platform using AI and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran Bill Parsons has joined the firm as Executive Vice President & General Manager of TIFIN Grow."
     publishedDateTime: 2022-03-29T19:23:00Z

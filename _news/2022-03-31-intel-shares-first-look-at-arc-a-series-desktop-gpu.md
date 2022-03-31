@@ -117,6 +117,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel teases first Arc desktop GPU"
+    excerpt: "Intel Arc graphics include AI-enhanced XeSS upscaling, AI-accelerated media capabilities, Intel Deep Link technology, etc."
+    publishedDateTime: 2022-03-31T08:20:00Z
+    webUrl: "https://analyticsindiamag.com/intel-teases-first-arc-desktop-gpu/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/intel.jpeg"
+        width: 800
+        height: 560
+        isCached: true
   - title: "The Intel Arc Alchemist GPU Shows Off in a New Blender Benchmark"
     excerpt: "Intel Graphics has released a video that shows the 3D rendering program Blender being accelerated on an Intel Arc Alchemist"
     publishedDateTime: 2022-03-28T06:53:00Z

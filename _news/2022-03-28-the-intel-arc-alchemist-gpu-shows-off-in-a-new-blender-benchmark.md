@@ -125,6 +125,20 @@ related:
         width: 768
         height: 399
         isCached: true
+  - title: "Intel teases first Arc desktop GPU"
+    excerpt: "Intel Arc graphics include AI-enhanced XeSS upscaling, AI-accelerated media capabilities, Intel Deep Link technology, etc."
+    publishedDateTime: 2022-03-31T08:20:00Z
+    webUrl: "https://analyticsindiamag.com/intel-teases-first-arc-desktop-gpu/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/intel.jpeg"
+        width: 800
+        height: 560
+        isCached: true
 
 secured: "4lxzlBgOSHFKW5GK+8KnNxETNXCfGSCbPMKz6NkL2lKsGdHcZRx+EZLJRnU4T4hNg3FfzIIK5P+tbIrtUSw2v27NFt8UpLRIw9SzcuRg3loBmLxV9AY9wwG9bh0Da86gYaCfYWcHkEYufv1w8qEhKu9l7iHR3X17UUiRGzbe9cT7NYVP2PSOTuOL1MA+HPT1fMyC+DVolqaUwp/m9r0+lMBKd8GPMkggrm44as4TrpvAEYjw/yuZ1pXEF5996jOmby7yFmeAPAqrlRlCrHgpj9jGY8dmm92E3CgkeAgW9W24EZJHHMm7PzNCWQ5fK7a5I0xrhD+0Ko+3iTZYmwGhiNUJB+R/JkwNWFWMw7PYInI=;PfbeKJMRuk7qEASwe8kOcQ=="
 ---

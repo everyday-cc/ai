@@ -40,6 +40,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "The quantum memristor, the missing link between artificial intelligence and quantum computing?"
+    excerpt: "The potential of artificial intelligence to help overcome the challenges we face is certain, but the limited computational capabilities of conventional computers are a hindrance to solving certain problems."
+    publishedDateTime: 2022-03-31T10:29:00Z
+    webUrl: "https://www.actuia.com/english/the-quantum-memristor-the-missing-link-between-artificial-intelligence-and-quantum-computing/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 27
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2022/03/memristor-quantique-chainon-manquant-intelligence-artificielle-informatique-quantique-1200x600.png"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "ZeIOz4DtvwGrACOygEaK3ppZmuNoyBJrL3qGZzpvAHmWMlQH/gpGDoA2xnqG5q+MeuvgP20qmFIRsB+poFz0mDAx6qsMR7sPTFI7lskPbS7ytzfFV1JaFzJCcPdwZSsG7TG7DPL7Dr6iik36g3BBXLCr24l+1WJlH5fpYLGaK5iL/8YPq6UK1daoiLlIbHGzv2Apn4B8NaZY85hr203cGjmM+TQi2YATksAot8Nj/aBdgEtzxfkD037LRTfoCFpUEA7jzp9XGOh789jb1DvYDorcYDGddwMk1SuohrJghLRKyQleufaJMGUP8LNIqS9ZgDTbF8eO/l3mAqQG+KaB+zjE05aWB2T5hd22Jnx3xDI=;DHZ+7Sz+PmskmMLPVuXKLw=="
 ---

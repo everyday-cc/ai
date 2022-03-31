@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Reducing CO2 by AI design and robotics"
-    excerpt: "Foldstruct's Tal Friedman on why AI design strategies and automated smart manufacturing will change our industry for good"
-    publishedDateTime: 2022-03-29T09:02:00Z
-    webUrl: "https://aecmag.com/sustainability/reducing-co2-by-ai-design-and-robotics/"
+  - title: "Legal-Tech: Artificial Intelligence and Robotics in the Legal Space"
+    excerpt: "Legal technology services, artificial intelligence and robotics are on the rise and expected to be in even higher demand in the coming years"
+    publishedDateTime: 2022-03-31T10:27:00Z
+    webUrl: "https://www.herald.ng/artificial-intelligence-and-robotics-in-legal-space/"
+    ampWebUrl: "https://www.herald.ng/artificial-intelligence-and-robotics-in-legal-space/amp/"
+    cdnAmpWebUrl: "https://www-herald-ng.cdn.ampproject.org/c/s/www.herald.ng/artificial-intelligence-and-robotics-in-legal-space/amp/"
     type: article
     provider:
-      name: AEC Magazine
-      domain: aecmag.com
-    quality: 69
+      name: herald.ng
+      domain: herald.ng
+    quality: 89
     images:
-      - url: "https://aecmag.com/wp-content/uploads/2022/03/green1.jpg"
-        width: 1500
-        height: 844
+      - url: "https://i2.wp.com/www.herald.ng/wp-content/uploads/2022/03/43F2C738-3662-46DF-966D-0BB1E989D49B.jpeg?fit=705%2C435&ssl=1"
+        width: 705
+        height: 435
         isCached: true
 
 secured: "WYy+Y8xcwOfwBiTgQciaVfpvNlKNV8C+9aqdsHmQ4KWB2CIM0koIz8xAIkbHp/2nJ5eJXk1I0MdwLtq37IquHYrFNeNuLOzoxGfcGPP05pQbkI6UBfsNueNMzPUlQxiv1tSqehbA222RbF6cDjX8an0zEUXeicxbmSmKbTXBhGfPYXUaNSTQvHnQc28A3gqhelpf+/3R5EP0c+k6Y5obYPzoo4H4dcVmsK5bcDsYjj0AINmOMVAoQRPQucof5ZumR4x5UVnherUDgHToS6Vti3IAAq9+LcTCDrXr+zuKxZBwFPAUgJS4ua/ltVCeGiwDQlmmWEavIz+vIOCzBiNJi5rxHLfSfk9iEjzg8sRECTfzLlfTzf9lS0u7GtCD8XrOAx/RrrGRY0MeBTNj5+i5P+wUgcHpPM6oI6kLb4U/9m6Cp2519REW8BP2/HDFbVeNrkzBeL2KRS0PHR3gOUzKEkgRZ9Zifzhl2E9niIiOio6p2hzLXankfQ63qGcCbEXOklzKCWY3NMdrarmk/HAhTw==;kLKtP7oDVvY555WVY4WWkA=="

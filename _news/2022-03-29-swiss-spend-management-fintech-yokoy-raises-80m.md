@@ -149,20 +149,6 @@ related:
         width: 1600
         height: 1184
         isCached: true
-  - title: "Top 10 Most Promising Fintech Firms in India 2022"
-    excerpt: "FinTech firms are technological alternatives to traditional financial firms’ back-end systems in the twenty-first century. Find out the top 10 most p"
-    publishedDateTime: 2022-03-26T17:12:00Z
-    webUrl: "https://menafn.com/1103917638/Top-10-Most-Promising-Fintech-Firms-in-India-2022"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?869496"
-        width: 442
-        height: 250
-        isCached: true
   - title: "Top 20+ Upcoming Fintech Events to Attend in Europe"
     excerpt: "Technological advances and evolving customer expectations are changing the financial landscape, stimulating fintech development and innovation. To keep up with the burgeoning fintech industry, top-quality fintech events are being organized on a regular basis to educate attendees on the latest trends and enable professionals to build meaningful connections."
     publishedDateTime: 2022-03-28T11:01:00Z

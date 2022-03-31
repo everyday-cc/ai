@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/amp/"
 type: article
 quality: 74
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -152,20 +152,6 @@ related:
       - url: "https://www.altfi.com/images/featured/swiss-spend-management-platform-yokoy-raises-80m.jpg"
         width: 1200
         height: 720
-        isCached: true
-  - title: "Top 10 Most Promising Fintech Firms in India 2022"
-    excerpt: "FinTech firms are technological alternatives to traditional financial firms’ back-end systems in the twenty-first century. Find out the top 10 most p"
-    publishedDateTime: 2022-03-26T17:12:00Z
-    webUrl: "https://menafn.com/1103917638/Top-10-Most-Promising-Fintech-Firms-in-India-2022"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?869496"
-        width: 442
-        height: 250
         isCached: true
   - title: "Top 20+ Upcoming Fintech Events to Attend in Europe"
     excerpt: "Technological advances and evolving customer expectations are changing the financial landscape, stimulating fintech development and innovation. To keep up with the burgeoning fintech industry, top-quality fintech events are being organized on a regular basis to educate attendees on the latest trends and enable professionals to build meaningful connections."

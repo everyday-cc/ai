@@ -9,7 +9,7 @@ ampWebUrl: "https://www.walesonline.co.uk/news/politics/south-wales-police-retur
 cdnAmpWebUrl: "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/news/politics/south-wales-police-returns-use-23533221.amp"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -41,19 +41,33 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Panel calls for tougher rules on facial recognition"
+  - title: "Panel calls for tougher rules on facial recognition use"
     excerpt: "A state commission is recommending strict new limits on the use of facial recognition technology by law enforcement officials and a requirement that judges issue probable cause warrants"
-    publishedDateTime: 2022-03-31T08:00:00Z
-    webUrl: "https://www.gloucestertimes.com/news/panel-calls-for-tougher-rules-on-facial-recognition/article_2175c9f0-b074-11ec-bac9-630277a2c86f.html"
+    publishedDateTime: 2022-03-31T10:00:00Z
+    webUrl: "https://www.newburyportnews.com/news/panel-calls-for-tougher-rules-on-facial-recognition-use/article_033e86d2-b071-11ec-a068-e7e10db0e323.html"
     type: article
     provider:
-      name: Gloucester Daily Times
-      domain: gloucestertimes.com
+      name: The Daily News of Newburyport
+      domain: newburyportnews.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg?resize=600%2C315"
+      - url: "https://bloximages.chicago2.vip.townnews.com/newburyportnews.com/content/tncms/custom/image/867ad2ec-8965-11e5-8451-8f0d0d73f7e3.jpg?resize=600%2C315"
         width: 600
         height: 315
+        isCached: true
+  - title: "Panel calls for tougher rules on facial recognition"
+    excerpt: "A state commission is recommending strict new limits on the use of facial recognition technology by law enforcement officials and a requirement that judges issue probable cause warrants"
+    publishedDateTime: 2022-03-30T22:00:00Z
+    webUrl: "https://www.eagletribune.com/news/panel-calls-for-tougher-rules-on-facial-recognition/article_2859ed7e-b028-11ec-81ad-4b03c4b50f1e.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
+        width: 600
+        height: 333
         isCached: true
 
 secured: "K0P+CYmsjeUUT2pLGWopD0MUuI5T2KzGwPPGElqKejzCtdkx+wDvENMHEMG08nl8JyzJE7WzLnawusq5isRsSd36kCMPKVtHK89SBoMbyjqgFj3y0hAdGSzVSGqfUzClMosQejMKJmTchDq02wZDw30Na/wiLkHqp++hP1tGiVk8Rfk8N7eahv7nuo1q9AT7LldpqPWcgCp+F96VhMdfAxi5I64CAiJg859oXVePnwUlDVO3TMf4q61Xwp+L7XFx81P5GpttG3kk6LN/dMWMF/gJJPP8Kbm6jf/6TMrO7Ay2vgpRp7tpinFG1u5QVJ9LR+xlGC8Y3CnTUVa8gcbYDUsUqV/NG41mOfCXvJbjova97eZebiK9tv580Mv+d58sONiWVB04r0g0PfzGeWXdOmYYbs1ltPwwX1ZG7eramZ1pEEpBCUNfTNMByKukdxKEONHKgZMuee4Glgw3j1hwg2WB7T2mebfLbG0rF1xSVFEilz0oU9im0F3LpCeNZ9AOOC7MHv6HC8XTI6EF+4dRNQ==;phkbWPsw2mxELSXmPCeQrg=="

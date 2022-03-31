@@ -40,15 +40,6 @@ related:
         width: 1024
         height: 575
         isCached: true
-  - title: "Builder.ai Raises $100M Series C Funding Led by Global Software Investor Insight Partners"
-    excerpt: "Builder.ai® today announced an investment of $100 million in a Series C funding round led by Insight Partners, a New York-based global venture capital and private equity firm. The round, which brings the company's total funding to $195 million across three total rounds,"
-    publishedDateTime: 2022-03-30T09:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/builder-ai-raises-100m-series-c-funding-led-by-global-software-investor-insight-partners-1031317964"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
   - title: "Builder.ai Lands $100M As Low-Code Space Is On Fire"
     excerpt: "Startups developing tools for people who want to develop apps with minimal coding-related toil have been racking up a lot of funding rounds in recent months. Indications are that’s likely to continue."
     publishedDateTime: 2022-03-30T13:56:00Z
@@ -62,6 +53,20 @@ related:
       - url: "https://news.crunchbase.com/wp-content/uploads/2020/12/ai.png"
         width: 900
         height: 506
+        isCached: true
+  - title: "Builder.ai Raises $100M Series C Funding Led by Global Software Investor Insight Partners"
+    excerpt: "Builder.ai ® today announced an investment of $100 million in a Series C funding round led by Insight Partners, a New York-based global venture capital and private equity firm. The round, which brings the company’s total funding to $195 million across three total rounds,"
+    publishedDateTime: 2022-03-30T09:01:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-software-london-9671bbe31dc579ba189380fa2b9f0b9e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "GXjWn22/9d1waZY3VYXtOe6pgfX+UaGcz90qa9yImJQZ2utCz9eun7N9A0Nt6VZfkpUXjh+8r5y8y+QN/k6CNj2OqfIRe/AyDRqiFKLP02SxlVnG8XuJEuaeDHMqGo5sY354Psmgr3q4P9kmtBwey00aY5DZBQiii6N+cZIGuozV6cVL59mCWjAmCXwnBjxCeTtkiXhNf7Z3gizRTopac35k0AFv+G6bTHhJPXzpdS+683p+vsXezJLmtMG0GohwHbgEhjpTMV1EQtp7rF25np082ouG35bPI3r5nhUDFJL60Hn4wrXH0VDMM+vEDx+9u0nRH7XM8UCrm3IH+P2A1lK9zYJOZ49NkOoTD1cjxnk=;n8YgPNmVKwLbaRxrfMi6KQ=="

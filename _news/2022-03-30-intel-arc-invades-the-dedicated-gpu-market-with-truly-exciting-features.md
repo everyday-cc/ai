@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-inv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
       - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/03/30115623/Intel-Arc-A-Series-Limited-Edition-768x399.jpg"
         width: 768
         height: 399
+        isCached: true
+  - title: "Intel teases first Arc desktop GPU"
+    excerpt: "Intel Arc graphics include AI-enhanced XeSS upscaling, AI-accelerated media capabilities, Intel Deep Link technology, etc."
+    publishedDateTime: 2022-03-31T08:20:00Z
+    webUrl: "https://analyticsindiamag.com/intel-teases-first-arc-desktop-gpu/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/intel.jpeg"
+        width: 800
+        height: 560
         isCached: true
   - title: "The Intel Arc Alchemist GPU Shows Off in a New Blender Benchmark"
     excerpt: "Intel Graphics has released a video that shows the 3D rendering program Blender being accelerated on an Intel Arc Alchemist"
