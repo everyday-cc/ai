@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/why-and-where-should-healthcare-comp
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments?amp"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "AI Is Transforming Customer Experience Across Industries – But What About Healthcare?"
+    excerpt: "Patients are wielding their power as consumers, and AI might just be the key for healthcare marketers to unlock the new patient economy."
+    publishedDateTime: 2022-04-01T04:35:00Z
+    webUrl: "https://www.adexchanger.com/data-driven-thinking/ai-is-transforming-customer-experience-across-industries-but-what-about-healthcare/"
+    type: article
+    provider:
+      name: AdExchanger
+      domain: adexchanger.com
+    quality: 27
 
 secured: "nBV+WdJIP3OWvqFjevcpmhfbpYARMfqOFAIUwn/OP13wRNrEgSnBxmSvIiXYmERcJhmzbZ9k4/FWozOkaMQ51kRS0xoNalX+GIVl7DgeSpmPPqRpF4rdie2pBf3rRYyJv87g+e+gb5ym7HQlqQzZIGrksa5JG5gKCE6jIS1s0uKn6wUTvWpxNbzqOPHxKHSfij9Tru/7FAyZyVcOoRWX15hh2/qatFfMCnvel/j0dhAcuy0Xm4hwqMEFId9IMK00vadgq9InJGGeRZRwUxEgRrn/Rl2ipEqE31gBNaipbaN6UivzohcxO8WWwP2mSrpCn+JvToGepFDpSeFehVbCK39nLmiidrrxUBnkQo8GPWE=;jaBfxfRbP5ZBbBD95MLVXg=="
 ---

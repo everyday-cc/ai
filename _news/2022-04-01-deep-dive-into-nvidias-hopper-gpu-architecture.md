@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nextplatform.com/2022/03/31/deep-dive-into-nvidias-hoppe
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/31/deep-dive-into-nvidias-hopper-gpu-architecture/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Next Platform
@@ -27,33 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "10 Interesting Facts About NVIDIA Hopper H100 GPU"
-    excerpt: "At the Graphics Technology Conference (GTC), NVIDIA unveiled the latest AI accelerator - the H100 Tensor Core GPU. It’s a successor to the wildly successful A100 GPU launched two years ago. With 9X faster AI training and 30X faster inference, it’s more ..."
-    publishedDateTime: 2022-03-27T11:37:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62404bee2e866c2678125ebb/0x0.jpg?format=jpg&width=1200"
-        width: 1138
-        height: 640
-        isCached: true
-  - title: "Why Nvidia's 2 Smallest Segments Are Its Most Exciting"
-    excerpt: "Nvidia reports revenue under four main segments, and while gaming and the data center contribute the overwhelming majority of sales, the other two segments might be the most exciting. Here's why. If you're an active investor,"
-    publishedDateTime: 2022-03-30T11:10:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-nvidias-2-smallest-segments-are-its-most-exciting"
-    ampWebUrl: "https://www.nasdaq.com/articles/why-nvidias-2-smallest-segments-are-its-most-exciting?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-nvidias-2-smallest-segments-are-its-most-exciting?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "10 Interesting Facts About NVIDIA Hopper H100 GPU"
     excerpt: "NVIDIA unveiled the latest AI accelerator - the H100 Tensor Core GPU. It’s a successor to the wildly successful A100 GPU launched two years ago."
     publishedDateTime: 2022-03-29T03:37:00Z

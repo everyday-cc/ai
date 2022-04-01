@@ -64,6 +64,15 @@ related:
         width: 320
         height: 242
         isCached: true
+  - title: "AI Is Transforming Customer Experience Across Industries – But What About Healthcare?"
+    excerpt: "Patients are wielding their power as consumers, and AI might just be the key for healthcare marketers to unlock the new patient economy."
+    publishedDateTime: 2022-04-01T04:35:00Z
+    webUrl: "https://www.adexchanger.com/data-driven-thinking/ai-is-transforming-customer-experience-across-industries-but-what-about-healthcare/"
+    type: article
+    provider:
+      name: AdExchanger
+      domain: adexchanger.com
+    quality: 27
 
 secured: "IqCNJ6yx4COQPjOvMfOUZSp9zgICWEC9FVOaAV4hlwib9008Uct/0bWHAqt+vYSuMRaviJ7KhNtQCCD4pr6oPbf11vMtH7Hp38w0OTbBJQZqSC3F6AaJCZZZYxZd5w9O+AfSA0qVVBHSQu1JYycTN4bml+LgT5k1sEspRhvWHIITTAHfe7614bMyPcsrUQrksE3Ny3+kdIKiCnhMQ9xa+UZVdmOXwX6QfIwEilS+GLbaPOyXPsXoc1xxJLjT3Qk9pY603BKFpVADw/VEet7uKwcS1ff9jDMbB6fG3LmaXd4iO7pVkXkRbPze5hL4kGX+fZl4VL/4uuj4XF2osK3pGCdGQ+3ZOfUrHdzcehFfeko=;/TZxq5dRaswBpeigByPbMg=="
 ---

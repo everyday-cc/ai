@@ -28,7 +28,7 @@ related:
   - title: "Miniature medical robots step out from sci-fi"
     excerpt: "Tiny machines that deliver therapeutic payloads to precise locations in the body are the stuff of science fiction. But some researchers are trying to turn them into a clinical reality."
     publishedDateTime: 2022-03-29T23:38:00Z
-    webUrl: "https://www.nature.com/articles/d41586-022-00859-0?code=8a30d1fa-dc6c-4f42-b19d-ce79ebbf28c6&error=cookies_not_supported"
+    webUrl: "https://www.nature.com/articles/d41586-022-00859-0?error=cookies_not_supported&code=8a30d1fa-dc6c-4f42-b19d-ce79ebbf28c6"
     type: article
     provider:
       name: Nature
