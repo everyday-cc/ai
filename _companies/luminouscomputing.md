@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "LuminousAI"
   url: "https://twitter.com/LuminousAI"
-  followers: 1301
+  followers: 1302
 
 size: 2-10 employees
 yearFounded: 2018
