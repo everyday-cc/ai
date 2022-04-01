@@ -2,6 +2,153 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-03-16-gpt-3-the-breakthrough-on-ai-and-natural-language.md",
+      "title": "GPT-3 the breakthrough on AI and natural language.",
+      "excerpt": "In the artificial intelligence (AI) world, there has been a lot of hype around a newly developed technology known as GPT-3. GPT-3 was created by OpenAI, a research firm co-founded by Elon Musk, and has been considered the most important and rewarding advance in AI for many years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/gpt-3-breakthrough-ai-natural-language-sergio-ortega",
+      "originalUrl": "https://www.linkedin.com/pulse/gpt-3-breakthrough-ai-natural-language-sergio-ortega",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGStm_X3mjjoQ/article-cover_image-shrink_720_1280/0/1647375616110?e=1654128000&v=beta&t=OnmHorNprG3Z4N9d5vXP10zrNcLAkzDdRECOwGSU3Y4",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-runai-raises-75m-for-its-ai-platform.md",
+      "title": "Run:ai raises $75M for its AI platform",
+      "excerpt": "Tel Aviv-based Run:ai, a startup that makes it easier for developers and operations teams to manage and optimize their AI infrastructure, today announced that it has raised a $75 million Series C ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/15/runai-raises-75m-for-its-ai-optimization-and-orchestration-platform/",
+      "originalUrl": "https://techcrunch.com/2022/03/15/runai-raises-75m-for-its-ai-optimization-and-orchestration-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-578633163.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/15/runai-raises-75m-for-its-ai-optimization-and-orchestration-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/15/runai-raises-75m-for-its-ai-optimization-and-orchestration-platform/amp/",
+      "publishedDateTime": "2022-03-15T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-on1-announces-resize-ai-machine-learning-makes-it-on1s-most-advanced-enlargement-app.md",
+      "title": "ON1 announces Resize AI: Machine learning makes it ON1's most advanced enlargement app",
+      "excerpt": "Have you ever wanted to make a large print from a small file? If so, you've likely used some form of photo enlargement. While traditional technology uses interpolation, ON1's new Resize AI app uses machine learning to recreate detail as you increase the pixels in your photos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dpreview.com/news/6778688427/on1-announces-resize-ai-machine-learning-makes-it-on1-s-most-advanced-enlargement-app",
+      "originalUrl": "https://www.dpreview.com/news/6778688427/on1-announces-resize-ai-machine-learning-makes-it-on1-s-most-advanced-enlargement-app",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2.img-dpreview.com/files/p/E~TS590x0~articles/6778688427/CleanShot_2022-03-15_at_14.02.51.jpeg",
+          "width": 590,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.dpreview.com/news/6778688427/on1-announces-resize-ai-machine-learning-makes-it-on1-s-most-advanced-enlargement-app.amp",
+      "cdnAmpWebUrl": "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/6778688427/on1-announces-resize-ai-machine-learning-makes-it-on1-s-most-advanced-enlargement-app.amp",
+      "publishedDateTime": "2022-03-15T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Photography Review",
+        "domain": "dpreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-tonby-robbins-professional-freelancer-in-london.md",
       "title": "Tonby Robbins: Professional freelancer in London",
       "excerpt": "Tonby is a freelance professional consultant based in Londo, London | A student of the Open University and has been working as an expert on various projects ever since graduating from college with experience ranging from business to IT development to data analytics and digital transformation initiatives.",
@@ -946,135 +1093,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-mice-can-recognise-3d-objects-from-memory-of-their-2d-photos-study-suggests.md",
-      "title": "Mice can recognise 3D objects from memory of their 2D photos, study suggests",
-      "excerpt": "“Our findings also provide strong support that a functional mouse hippocampus is required for this form of nonspatial visual recognition memory and picture-object equivalence,” he adde",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/news/science/mice-object-recognition-2d-photographs-b2036016.html",
-      "originalUrl": "https://www.independent.co.uk/news/science/mice-object-recognition-2d-photographs-b2036016.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2022/03/15/10/122287_web.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.co.uk/news/science/mice-object-recognition-2d-photographs-b2036016.html",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/science/mice-object-recognition-2d-photographs-b2036016.html",
-      "publishedDateTime": "2022-03-15T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-ai-chip-innovator-memryx-hires-two-veteran-semiconductor-leaders-for-top-engineering-and-business-development-roles.md",
-      "title": "AI Chip Innovator MemryX Hires Two Veteran Semiconductor Leaders For Top Engineering and Business Development Roles",
-      "excerpt": "MemryX Inc., a pioneering start-up designing breakthrough silicon for artificial intelligence processing for edge devices, has appointed semiconductor industry veterans Puneet Singh and Roger Peene. Singh will serve as vice president of engineering,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-ann-arbor-artificial-intelligence-engineering-f6f58bc4b2d24c52bdd616badf6fb689",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-ann-arbor-artificial-intelligence-engineering-f6f58bc4b2d24c52bdd616badf6fb689",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-cogniac-and-cisco-meraki-partner-to-automate-operations-with-computer-vision.md",
-      "title": "Cogniac and Cisco Meraki Partner to Automate Operations with Computer Vision",
-      "excerpt": "Cogniac Corporation (“Cogniac”), a leader in enterprise-class Artificial Intelligence (AI) image and video analysis, and Cisco Meraki have announced a strategic partnership to accelerate the delivery of AI-powered computer vision applications at the edge of the network.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-08f4ef5e9778c2bea6f3da6aac460229",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-08f4ef5e9778c2bea6f3da6aac460229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -1,0 +1,65 @@
+---
+category: news
+title: "Podcast transcript: Do we need AI regulation?"
+excerpt: "The first one is Sabina mentioned, have a review board, make AI ethics core to your data science and AI programme. And make sure that you have some external stakeholders there, the contrarians and the people, not only who will benefit from it, but who may ..."
+publishedDateTime: 2022-04-01T06:39:00Z
+originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367274/podcast-transcript-do-we-need-ai-regulation"
+webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367274/podcast-transcript-do-we-need-ai-regulation"
+type: article
+quality: 69
+heat: 89
+published: true
+
+provider:
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1648740079/itpro/Podcast%20images/Episode%20125/IT_Pro_Podcast_Transcript_image.jpg"
+    width: 375
+    height: 210
+    isCached: true
+
+related:
+  - title: "AI-Influenced Weapons Need Better Regulation"
+    excerpt: "With Russia’s invasion of Ukraine as the backdrop, the United Nations recently held a meeting to discuss the use of autonomous weapons systems, commonly referred to as killer robots. These are essentially weapons that are programmed to find a class of targets,"
+    publishedDateTime: 2022-03-30T11:36:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-influenced-weapons-need-better-regulation/"
+    ampWebUrl: "https://www.scientificamerican.com/article/ai-influenced-weapons-need-better-regulation/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-influenced-weapons-need-better-regulation/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 59
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/ED3FFD93-22A2-482E-B04CC7E1D8371D34.jpg"
+        width: 790
+        height: 496
+        isCached: true
+  - title: "Don’t Let Regulation Get In the Way of Artificial Intelligence Research"
+    excerpt: "The United States' Artificial Intelligence Strategic Plan should focus on enabling a wide range of actors to play a role in strengthening American AI innovation."
+    publishedDateTime: 2022-03-29T20:05:00Z
+    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/don’t-let-regulation-get-way"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 37
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/f-35s.jpg"
+        width: 1222
+        height: 688
+        isCached: true
+
+secured: "477UKXmi9B4IBUfr/SBiK+5jxuV/E07D7zh+ikRgIEt9jMBeKbpRf2aHbIJbbFtFnqUz4I+QEWDXBUbdAA0730hdjjLz2Q2Orr5uBt5tJVB/3iE22KaOP/KO5YyDwWyQyxJcdWLPxySDlbPD4e1Gpi6DeIyexZ90WM7dCKJRe9D7QRFGRaI4X0wcs3dZboB+mQMctKy7Ag/6rFFh0T+4ko+oUxg3FvAKS4FFrLNnbqS8tcAbWuOnckCllNWGn435EHuoLMVSO2ogvNI0vSl8OMXCnG2+Lj7ot0E4XYhlSXtfcL3iuHO+L4Gt6MaDyPzWVmqX3bup4UkXtSMFpPuKyhyFvlZPltUnUAehm+8V0bc=;WQMfwZPpNDMUROegWn8/ig=="
+---
+

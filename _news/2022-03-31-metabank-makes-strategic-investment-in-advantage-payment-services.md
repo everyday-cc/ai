@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "MetaBank makes investment in Advantage Payment Services"
+    excerpt: "Advantage Payment Services (APS), a leader in financial data management for top FinTech payments organisations, has received a strategic"
+    publishedDateTime: 2022-04-01T07:57:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/metabank-makes-investment-in-advantage-payment-services/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/03/Finovate-Spring_MPU-300x250-1.jpg"
+        width: 600
+        height: 500
+        isCached: true
   - title: "MetaBank makes strategic investment in Advantage Payment Services"
     excerpt: "Advantage Payment Services (APS), the leader in financial data management ... The next generation of automation leverages Artificial Intelligence and Machine Learning to further increase productivity and empower real-time risk management decisioning."
     publishedDateTime: 2022-03-31T18:12:00Z

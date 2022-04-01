@@ -40,6 +40,15 @@ related:
         width: 800
         height: 490
         isCached: true
+  - title: "New fund targets early stage African AI start-ups"
+    excerpt: "The Swedish AI Fund (SAIF) is an NGO with the purpose of providing financial aid, grants, and scholarships globally to those who are working, researching, and/or involved in the AI industry towards equality,"
+    publishedDateTime: 2022-04-01T07:27:00Z
+    webUrl: "https://it-online.co.za/2022/04/01/new-fund-targets-early-stage-african-ai-start-ups/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 17
 
 secured: "5izxE6M1ox6ZuCE1hA2f+88WAml92AleVH2DXnEL+zIyW0SN102x+og7hYhi6HvRxtFI9m+hTAUv7TtYB3iMkaRhOcpVnR11bCAXk+qaQjYPzDfvN+uZOlnnWmyjZiFHb+665qovn2GvRz2OqXTsLFXxDrmFKX+qM6xgx00zuoLOPB7unBXTLaR1diZGyuXk4BnfGGrBcMoaoDFDN1K+X6E17oHy0+lSijtQ7BN0rAADdEpo4Gxtp26Nu9ERL/277MoZ5cssTAxufs0PNFw/1fcSKr0B33KouqElg9MBfRkG6C5zai6BolqUh2w7s08JBYAAESyom1M5cgV8E+KFkeq9kPB7BspQdxUSblsFj+U=;3MQOWS93FtDBnaC4vYZPlA=="
 ---

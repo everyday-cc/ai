@@ -36,6 +36,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Four trends showcase artificial intelligence in healthcare"
+    excerpt: "Explore four trends in artificial intelligence in healthcare, including AI’s ability to analyze large datasets and improve access to health services."
+    publishedDateTime: 2022-04-01T05:00:00Z
+    webUrl: "https://www.modernhealthcare.com/technology/four-trends-showcase-artificial-intelligence-healthcare"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 54
+    images:
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/1200x630/public/Gottlieb_Scott%202.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Fraud prevention is the biggest driver for investments in AI"
     excerpt: "Provenir has found in its newest study that more than 90% of European fintechs will adopt AI-enabled risk decisioning to combat fraud"
     publishedDateTime: 2022-03-30T15:00:00Z

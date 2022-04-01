@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Fintech Roundup: Will financial technology startups dodge the venture slowdown?"
-    excerpt: "On March 25, PitchBook released its 2021 Annual Fintech Report, which found that the fintech industry raised $121.6 billion last year — up 153% year-over-year in terms of global VC deal value. Alex and I will be doing a deep dive on that report next week,"
-    publishedDateTime: 2022-03-27T14:16:00Z
-    webUrl: "https://techcrunch.com/2022/03/27/fintech-roundup-will-financial-technology-startups-dodge-the-venture-slowdown/"
-    ampWebUrl: "https://techcrunch.com/2022/03/27/fintech-roundup-will-financial-technology-startups-dodge-the-venture-slowdown/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/27/fintech-roundup-will-financial-technology-startups-dodge-the-venture-slowdown/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 70
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/03/Nora-Apsel-headshot-USE-1.jpg?w=680"
-        width: 680
-        height: 453
-        isCached: true
   - title: "Fintech, CreditRich, Pins Agreement With Qolo As New Payment Processor To Improve Existing App"
     excerpt: "This Deal Now Creates Continued Pathways for Improving Credit and Building Wealth in Underserved Communities. CreditRich, a new fintech company that allows users to round up their spare change to pay their bills intelligently and improve their credit ..."
     publishedDateTime: 2022-03-28T12:02:00Z
@@ -100,20 +84,6 @@ related:
       - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-423314.jpeg"
         width: 1000
         height: 603
-        isCached: true
-  - title: "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow"
-    excerpt: "Former Envestnet/Yodlee executive will lead the recently announced platform that combines risk, planning and financial personality to help wealth"
-    publishedDateTime: 2022-03-29T19:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow-1031316438"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding"
     excerpt: "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding. | Crowdfund Insider: Global Fintech News, including Crowdfunding,"
@@ -176,6 +146,20 @@ related:
       - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/03/Top-20-Upcoming-Fintech-Events-to-Attend-in-Europe-.png?x30842"
         width: 1024
         height: 567
+        isCached: true
+  - title: "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow"
+    excerpt: "TIFIN, a fintech platform using AI and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran Bill Parsons has joined the firm as Executive Vice President & General Manager of TIFIN Grow."
+    publishedDateTime: 2022-03-29T19:16:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-ef2bfcfef318948975a1a828c66b4ee2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Fintech's New Era: Profits, Perils and Limitless Potential"
     excerpt: "In fact, it’s estimated that global banks have the potential to generate up to $1 trillion in additional value annually through AI technologies, according to McKinsey & Company. If keeping ahead of the technological curve is paramount for a company in the fintech industry,"

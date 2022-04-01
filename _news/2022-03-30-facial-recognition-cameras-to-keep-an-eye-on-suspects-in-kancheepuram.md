@@ -41,22 +41,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Facial recognition cameras to keep tabs on suspects in Kancheepuram"
-    excerpt: "Surveillance system will trigger an alert whenever suspects with criminal antecedents pass through dozens of sophisticated cameras, installed along the industrial belt of Oragadam in Kancheepuram district."
-    publishedDateTime: 2022-03-27T13:55:00Z
-    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/facial-recognition-cameras-to-keep-tabs-on-suspects-in-kancheepuram/article65264879.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/facial-recognition-cameras-to-keep-tabs-on-suspects-in-kancheepuram/article65264879.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/facial-recognition-cameras-to-keep-tabs-on-suspects-in-kancheepuram/article65264879.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/incoming/f8g5hs/article65265020.ece/alternates/LANDSCAPE_615/8bc32f0d-62b9-4b10-9f2b-0f449d6045e2.jpg"
-        width: 615
-        height: 383
-        isCached: true
   - title: "Panel calls for tougher rules on facial recognition use"
     excerpt: "A state commission is recommending strict new limits on the use of facial recognition technology by law enforcement officials and a requirement that judges issue probable cause warrants"
     publishedDateTime: 2022-03-31T10:00:00Z

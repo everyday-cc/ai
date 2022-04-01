@@ -53,6 +53,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence as a Service Market to Garner USD 38.99 Billion With CAGR of 39.2 % By Forecast 2027"
+    excerpt: "Artificial Intelligence as a Service Market size is expected to grow at a CAGR of 39.2 % through 2021 to 2027, reaching nearly USD 38.99 Billion."
+    publishedDateTime: 2022-04-01T07:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-as-a-service-market-to-garner-usd-38-99-billion-with-cagr-of-39-2-by-forecast-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 22
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/aef0bb667ac62bccbac8d816d53a436b40ef43f5-1-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Generic Oncology Drugs Market Are Anticipated To Rise at a Steady CAGR Of 6% from 2022 To 2028"
     excerpt: "Generic oncology drugs, being able to detect and treat tumors, are utilized extensively in the healthcare industry for treating cancer. Notable"
     publishedDateTime: 2022-03-28T13:44:00Z
@@ -78,20 +92,6 @@ related:
     quality: 8
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-War-AFP-1K-01-1-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Global Self-Driving Car Market is Expected to Reach USD 62. 93 Billion Progressing at a CAGR of 22.75 % By Forecast 2027"
-    excerpt: "Self-Driving Car Market Is Expected To Expand Upto USD 62. 93 Billion at a Rate Of 22.75 % percent by 2027. As per Maximize Market Research, due to"
-    publishedDateTime: 2022-03-28T12:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-self-driving-car-market-is-expected-to-reach-usd-62-93-billion-progressing-at-a-cagr-of-22-75-by-forecast-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/848dd933f2b95b10eb092743860d98932097e224-600x337.jpg"
         width: 600
         height: 337
         isCached: true

@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?427128"
-    width: 268
-    height: 249
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?850872"
+    width: 312
+    height: 250
     isCached: true
 
-secured: "VVExGmvw2+28B96Wafc43cY9xTnUDzhaa86J8HZvYaseE1RiNMynBQ//kTraNaHV4BOPQ9lDbAnGotN+ecZ6GiKTLzEoOqe9mZdPw3BkUGNL57+KZCPLwGwfcC9uuqBE2Dm0fbOd0IHfS7j7JPV+ujL0JFHtpBXkAZP9twW+bc8ho5ckbi3YJ9ivxqgTzFOoChdE0t9rsvFvvHPkt6+vCiYQHHxOKLd1hwR2TT7d5CY5i/iiCpN5KS5N9fxWK/k9Hs8iwPcJA3KzWFADa84B04//x48HDLR1Hq55PFtBGWmpaUDyl25YXQyjLs1xiwyfYmYsm+3HCOvjaFpyKNPFNBPyAiWi9ApZvEjlAd08Bss=;P67jfM7vNhtzaR4BTnaKiA=="
+secured: "8ZGdWHplQAwYHKy+Kczmb327SbSF49BE1O5fmMc9fJf8V/WYEGaWcICEufkDMXQAe5Rias0u1YdN7wTnf9zakG/RwS8V8zQ4oetu+JyCHdOoDgOt1l/cARkVt5VzerOD8T5rVKCj+20ZWB/3AZxULpzAvcxQtaZN2rq/TJvvwt2meLT98nW3OVY9FzTRQankEpskL2XCoDwmxH6S+Fv6/pboUwxlMCDrSq/pPYXgxip32fChnNjzix8xQNqXGAbm+x71XaFFTa7Y/dHx8S1qmmSerCoF0mSGJegjZhb6IiulLqhRRn+75UI8gPAevFp1XMpzaNesXtZim6FqyHQUWNX3qEmpAf5HCBb4VaZ3hzo=;R5aImSlSx5GSF8xeAgUnEQ=="
 ---
 

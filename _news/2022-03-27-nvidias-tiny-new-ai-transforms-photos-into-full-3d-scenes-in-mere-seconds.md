@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nvidia develops fastest AI to create 3D renders using a dozen 2D photos"
-    excerpt: "As AI technology is advancing, tech companies have started to utilize it for a lot of applications. Nvidia demonstrated how its latest AI tool uses just a"
-    publishedDateTime: 2022-03-27T13:15:00Z
-    webUrl: "https://www.techworm.net/2022/03/nvidia-ai-create-3d-using-2d-photos.html"
-    ampWebUrl: "https://www.techworm.net/2022/03/nvidia-ai-create-3d-using-2d-photos.html/amp"
-    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2022/03/nvidia-ai-create-3d-using-2d-photos.html/amp"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 57
-    images:
-      - url: "https://www.techworm.net/wp-content/uploads/2022/03/1648301970_2022-03-26_1.jpg"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Nvidia says its AI model can turn 2D photos into 3D scenes in seconds"
     excerpt: "Nvidia said this tech could create virtual world avatars, reconstruct scenes for 3D maps or train self-driving cars about real-world objects."
     publishedDateTime: 2022-03-29T10:51:00Z

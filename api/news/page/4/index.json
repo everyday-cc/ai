@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-29-tsa-continues-facial-recognition-rollout-at-airports.md",
+      "title": "TSA Continues Facial Recognition Rollout at Airports",
+      "excerpt": "For five years, the Transportation Security Administration has tested facial recognition technology at select airports as a method to automate identity verification at checkpoints.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/tsa-continues-facial-recognition-rollout-at-airports",
+      "originalUrl": "https://www.govtech.com/products/tsa-continues-facial-recognition-rollout-at-airports",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/e5bdf5f/2147483647/strip/true/crop/940x490+0+67/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F7a%2F7d%2F80c58fef8b932e1f1ad5c9c6f006%2Fshutterstock-camera-lens-up-close.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/tsa-continues-facial-recognition-rollout-at-airports?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/tsa-continues-facial-recognition-rollout-at-airports?_amp=true",
+      "publishedDateTime": "2022-03-28T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models.md",
+      "title": "Report: 68% of orgs rely on in-house evaluation to tune AI models",
+      "excerpt": "The addition of data annotation to this list of popular AI technologies indicates more sophisticated use cases are on the way as AI matures.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/28/report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models/",
+      "originalUrl": "https://venturebeat.com/2022/03/28/report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1296686780-e1648496481937.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/28/report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models/amp/",
+      "publishedDateTime": "2022-03-28T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-stem-programs-launch-at-the-county-library-for-robotics-month.md",
       "title": "STEM programs launch at the county library for Robotics Month",
       "excerpt": "Did you know that April is Robotics Month? Jeff Buydos, from the county library, joined us on the show to share what kind of programs are offered. Kids can learn all about engineering, robotics,",
@@ -393,6 +488,48 @@
       ]
     },
     {
+      "path": "_news/2022-03-28-african-governments-must-embrace-artificial-intelligence-dr-kpodar.md",
+      "title": "African Governments must embrace Artificial Intelligence – Dr. Kpodar",
+      "excerpt": "African Governments must embrace Artificial Intelligence AI Dr. Chris Kpodar, Chief Technical Advisor, Centre for Greater Impact Africa, CGIA has stated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernghana.com/news/1148074/african-governments-must-embrace-artificial-intell.html",
+      "originalUrl": "https://www.modernghana.com/news/1148074/african-governments-must-embrace-artificial-intell.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.modernghana.com/images/content/328202210514-k5fri7u2h0-dr-kpodar-third-from-left-with-other-officials-.jpg",
+          "width": 800,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernghana.com/amp/news/1148074/african-governments-must-embrace-artificial-intell.html",
+      "cdnAmpWebUrl": "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1148074/african-governments-must-embrace-artificial-intell.html",
+      "publishedDateTime": "2022-03-28T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Modernghana.com",
+        "domain": "modernghana.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-28-why-ai-democratization-will-bring-more-power-to-the-enterprise.md",
       "title": "Why AI democratization will bring more power to the enterprise",
       "excerpt": "Using techniques like natural language processing (NLP) and neural networking, AI will very likely bring an end to the graphical user and even command line interfaces, which require a fair amount ...",
@@ -589,7 +726,7 @@
       "originalUrl": "https://newatlas.com/photography/nvidia-instant-nerf/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1053,152 +1190,6 @@
         "Google AI",
         "Facebook AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-how-ai-is-creating-a-safer-online-world.md",
-      "title": "How AI is creating a safer online world",
-      "excerpt": "By using AI and ML algorithms to identify and categorize content, companies can identify and remove unsafe content as soon as it is created.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online-world/",
-      "originalUrl": "https://venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1150416246.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online-world/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online-world/amp/",
-      "publishedDateTime": "2022-03-27T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028.md",
-      "title": "Global Machine Learning Courses Market 2022 with Covid-19 Impact Analysis and Forecast by 2028",
-      "excerpt": "MarketsandResearch.biz has presented a new market study on Global Machine Learning Courses Market 2022 by Company, Regions, Type and Application, Forecast to 2028 which delivers an executive-level market analysis that will help clients to build strategies to expand their market operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028-2022-03-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028-2022-03-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-27T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-03-27-mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm.md",
-      "title": "MP govt to start AI course in schools, vet telemedicine facility: CM",
-      "excerpt": "The Madhya Pradesh government will start a course in Artificial Intelligence for students from class 8, which will be the first such initiative in the country, CM Shivraj Singh Chouhan said on Sunday",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/current-affairs/mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm-122032700740_1.html",
-      "originalUrl": "https://www.business-standard.com/article/current-affairs/mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm-122032700740_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-10/04/full/1601810115-3042.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/current-affairs/mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm-122032700740_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm-122032700740_1.html",
-      "publishedDateTime": "2022-03-27T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

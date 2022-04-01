@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
-excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what’s possible with Contract Lifecycle Management (CLM),"
-publishedDateTime: 2022-03-23T10:10:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-fc9af8e074da500427d56b3f2f56bde7"
+excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),"
+publishedDateTime: 2022-03-23T10:05:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
-  - AI in Autos
+  - Microsoft AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "8MCrhUZHVBjlgBGvnsX7OepWsqyLwnosVsBpkF0qWY0jAAtquFjzUV8dlOvkJbn0t7gAazzVKqWfgy6uZTos5Y0IkIOdfLLnp8riOzG0fn4oOk5t/Es08MhugPG0PYo9FYdsan/zO849IidbtECUa2tezBe3N3jUo0+RiAuruVAGWFdFsffQgrj/PFLWAx0i6VJ4rBJZRO+dhpUGj/V53hIAo9RZmyMlfRyCTFlYYXMKM+K6RpsFCesb6JZSMX+f2WO8S93L0oLtaMERz+Mha0NHBexQPWCerUYcB4ElBywbh2qEME82UJbhUMchlRy5u0uy3p9ckiLoup8fnkkzOQ07XZ1l0045VOAgMCy7vuI=;OMbqbNGDGunM5LtcNGC1vQ=="
+secured: "f1htdQjAz01TpYUjq2ACVJbP0G7wdj8BljqgnjphdWfoBYV/gZ4b28CtjFefGZoyxi86Z+ScmIbIyZ5lKoyXm5PxgwyuOJFKYi5qz7vuo8QoWgYDu43jw1tqTsvOPNU3ag4x+ps9f4/uqmuKs6cbFyPO+EZC5h4Ncu7S19kMy+XQ4/0aCg1HYNMQ+MMfA3mWbvWmodFKu2mArYZ99nT3tW0n2B0YTISvfzsKHRAM+bq6sZtKKPP1UJGzYFXL3eD+czCJfbeFYYyJYp+ChmAdcnv/we2mECBTwkviWbIrfRiqjPL7D9Mi8dHgKIqv4wukAQt96z7HT9qtGLMymDQ8lJShprsYlceN6f/WTCD4OiE=;J5jcXdrSruVrn0rpUs/5Rg=="
 ---
 

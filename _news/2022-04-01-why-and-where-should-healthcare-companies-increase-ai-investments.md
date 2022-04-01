@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/why-and-where-should-healthcare-comp
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments?amp"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Four trends showcase artificial intelligence in healthcare"
+    excerpt: "Explore four trends in artificial intelligence in healthcare, including AI’s ability to analyze large datasets and improve access to health services."
+    publishedDateTime: 2022-04-01T05:00:00Z
+    webUrl: "https://www.modernhealthcare.com/technology/four-trends-showcase-artificial-intelligence-healthcare"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 54
+    images:
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/1200x630/public/Gottlieb_Scott%202.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Qure.ai raises $40 Million from healthcare investors Novo Holdings and HealthQuad"
     excerpt: "The funding will accelerate the AI-driven healthcare company's market expansion into the global market and support new product development"
     publishedDateTime: 2022-03-29T11:00:00Z

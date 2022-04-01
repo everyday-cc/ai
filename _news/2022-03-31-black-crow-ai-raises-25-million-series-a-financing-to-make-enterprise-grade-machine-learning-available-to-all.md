@@ -1,22 +1,29 @@
 ---
 category: news
 title: "Black Crow AI Raises $25 Million Series A Financing to Make Enterprise-Grade Machine Learning Available to All"
-excerpt: "Imaginary Ventures leads the round with participation from founders of leading digital commerce brands, demonstrating the power of Black Crow AI's breakthrough approach to delivering 'machine learning for everyone'."
-publishedDateTime: 2022-03-31T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/black-crow-ai-raises-25-million-series-a-financing-to-make-enterprise-grade-machine-learning/article_c8ea8ee8-dcad-57a6-941e-604aed0965f0.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/black-crow-ai-raises-25-million-series-a-financing-to-make-enterprise-grade-machine-learning/article_c8ea8ee8-dcad-57a6-941e-604aed0965f0.html"
+excerpt: "Imaginary Ventures leads the round with participation from founders of leading digital commerce brands, demonstrating the power of Black Crow AI’s breakthrough approach to delivering ‘machine learning for everyone’."
+publishedDateTime: 2022-03-31T13:37:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/science-business-7144501f7458c8aee9d260d8a8bca1f1"
+webUrl: "https://apnews.com/press-release/pr-newswire/science-business-7144501f7458c8aee9d260d8a8bca1f1"
 type: article
-quality: 14
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Black Crow AI raises $25M to predict which products ecommerce customers will buy"
@@ -52,6 +59,6 @@ related:
         height: 675
         isCached: true
 
-secured: "yPDPkABD+ouhi+UELMdr+gn7QiAFrh+bgIY4sUfcGRrDswAqSxXq1bQDKiXiyzh4PEQoNjz0YDWCgf2UQVXy9XOM2JSss3KB2SeGeTbJUfYEoQ7nU61oZty/3yQXThyR278ebqD7lYHOVM13pTjVoT/uGCSZYvzeoy6IILCgjFQjvXtlPJ9CCUmpK3vU41Djwl+Dj/VAWT+VCGqWz8pD+SRYytO158j065yxHQMu1qi3hqZOChDgU4L5UJcWOvK5MMmX3eDKUohhj95K6sGDDl2ismGjZrgtp+4zBqBONvGNc7RsRETmOqVxWviXhKCuhSBt6n+ko+Rz0WLhNjPL9jR1SClX3jS4kudS2hidwvgyn6/97jciPOt+v1n4F6GOEqzMcbXyLxWsTjtGizg74Z1/2rlViLChTMfurK4PD1OBzkaAAjs9QwFscytx3oiwfZoBy6SWHhfYovb4osl4we02iKhDITuDnERAvSqGDVPEY4HRDbcNiWDa2P/potNP+Diwvzv73cf0Qj2H5Vmf7Q==;42SdS3y9XbMQFUf03x14Mg=="
+secured: "3rYCKxmb6Y55s513zIFp41VshTodVlkeE8YIafaEybSb1hU83RUHpRnOZwbYs+XtT5gt72NSHcrGBb+8mZq05wllDrNBVs8FFSNRtcqvUP8HfqLfpdSqAVN0BMStduPUMlBS+JhwHVsiN0Tnok0S/TxdtaeB85+0LB0tb8+WfpYmim2eFatNCzq2Id7I3m0zTUWLEH12WeJ4ATm0fLT1Q5TkhTgIBCY3CM9mkAOXnXcxjt61XBLQCkY0Eg3bWEncYqTxSnkGsfzo9xfGChae5Bd1yYx3Y10JiBy+MXk45nMROKRYgSyxsaumBqh7ze+rc/D+PQT32TJ6dKDdZvs2rAsOdF7bs+XrVFjj6PlyDqw=;APPAdUF+ClLF1MPiGhfsRg=="
 ---
 

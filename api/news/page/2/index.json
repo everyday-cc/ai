@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-30-battery-free-makecode-empowers-kids-to-code-sustainably.md",
+      "title": "Battery-free MakeCode empowers kids to code sustainably",
+      "excerpt": "The post Battery-free MakeCode empowers kids to code sustainably appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://news.northwestern.edu/stories/2022/03/battery-free-makecode-empowers-kids-to-code-sustainably/",
+      "originalUrl": "https://news.northwestern.edu/stories/2022/03/battery-free-makecode-empowers-kids-to-code-sustainably/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.northwestern.edu/assets/Stories/2022/03/_resampled/ScaleWidthWyI0ODAiXQ/hester640.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T13:52:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-betting-on-ai-vcs-back-startups-as-the-tech-world-booms.md",
+      "title": "Betting on AI, VCs back startups as the tech world booms",
+      "excerpt": "Businesses seeking new information systems have typically had two choices — they could purchase one from an external vendor or build a new system using in-house developers. Today, there is a third alternative — low-code/no-code applications powered by AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/30/betting-on-ai-vcs-back-startups-as-the-tech-world-booms/",
+      "originalUrl": "https://venturebeat.com/2022/03/30/betting-on-ai-vcs-back-startups-as-the-tech-world-booms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-505117919.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/30/betting-on-ai-vcs-back-startups-as-the-tech-world-booms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/betting-on-ai-vcs-back-startups-as-the-tech-world-booms/amp/",
+      "publishedDateTime": "2022-03-30T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-waymo-expands-self-driving-car-trials-to-san-francisco.md",
       "title": "Waymo Expands Self-Driving Car Trials to San Francisco",
       "excerpt": "Way-mo, way-mo, off to work they go. Waymo employees in San Francisco will be able to catch a ride to work from its fleet of self-driving, all-electric Jaguar I-PACE cars.",
@@ -417,7 +520,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -1156,92 +1259,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-video-teslas-new-full-self-driving-technology-still-a-work-in-progress.md",
-      "title": "VIDEO: Tesla's new \"full-self driving\" technology still a work in progress",
-      "excerpt": "Don't let the phrase \"full-self driving\" fool you. It's going to be a while before drivers can let their Tesla do all the",
-      "sourceUrl": null,
-      "webUrl": "https://www.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress",
-      "originalUrl": "https://www.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.kelownanow.com/files/files/images/tewtes.jpg",
-          "width": 828,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress",
-      "cdnAmpWebUrl": "https://amp-kelownanow-com.cdn.ampproject.org/c/s/amp.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress",
-      "publishedDateTime": "2022-03-29T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kelowna",
-        "domain": "kelownanow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence.md",
-      "title": "Training to medical students on latest medical Technologies like artificial intelligence",
-      "excerpt": "Department of Health Research / Indian Council of Medical Research has recently launched a Policy on Biomedical Innovation & Entrepreneurship for Medical Professionals, Scientists and Technologists at Medical,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence/",
-      "originalUrl": "https://indiaeducationdiary.in/training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence/",
-      "publishedDateTime": "2022-03-29T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

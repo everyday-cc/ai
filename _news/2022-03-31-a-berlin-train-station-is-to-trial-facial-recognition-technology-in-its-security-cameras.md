@@ -7,7 +7,7 @@ originalUrl: "https://jerseyeveningpost.com/uncategorised/2022/03/31/a-berlin-tr
 webUrl: "https://jerseyeveningpost.com/uncategorised/2022/03/31/a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras/"
 type: article
 quality: 62
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition cameras to keep tabs on suspects in Kancheepuram"
-    excerpt: "Surveillance system will trigger an alert whenever suspects with criminal antecedents pass through dozens of sophisticated cameras, installed along the industrial belt of Oragadam in Kancheepuram district."
-    publishedDateTime: 2022-03-27T13:55:00Z
-    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/facial-recognition-cameras-to-keep-tabs-on-suspects-in-kancheepuram/article65264879.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/facial-recognition-cameras-to-keep-tabs-on-suspects-in-kancheepuram/article65264879.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/facial-recognition-cameras-to-keep-tabs-on-suspects-in-kancheepuram/article65264879.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/incoming/f8g5hs/article65265020.ece/alternates/LANDSCAPE_615/8bc32f0d-62b9-4b10-9f2b-0f449d6045e2.jpg"
-        width: 615
-        height: 383
-        isCached: true
   - title: "Facial Recognition Cameras To 'Keep An Eye' On Suspects In Kancheepuram"
     excerpt: "The surveillance system will trigger an alert whenever suspects with criminal antecedents pass through dozens of sophisticated cameras, installed along the industrial belt of Oragadam in"
     publishedDateTime: 2022-03-30T13:50:00Z

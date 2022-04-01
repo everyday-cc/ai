@@ -9,7 +9,7 @@ ampWebUrl: "https://www.scientificamerican.com/article/ai-influenced-weapons-nee
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-influenced-weapons-need-better-regulation/?amp=true"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     width: 790
     height: 496
     isCached: true
+
+related:
+  - title: "Podcast transcript: Do we need AI regulation?"
+    excerpt: "The first one is Sabina mentioned, have a review board, make AI ethics core to your data science and AI programme. And make sure that you have some external stakeholders there, the contrarians and the people, not only who will benefit from it, but who may ..."
+    publishedDateTime: 2022-04-01T06:39:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367274/podcast-transcript-do-we-need-ai-regulation"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 69
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1648740079/itpro/Podcast%20images/Episode%20125/IT_Pro_Podcast_Transcript_image.jpg"
+        width: 375
+        height: 210
+        isCached: true
+  - title: "Don’t Let Regulation Get In the Way of Artificial Intelligence Research"
+    excerpt: "The United States' Artificial Intelligence Strategic Plan should focus on enabling a wide range of actors to play a role in strengthening American AI innovation."
+    publishedDateTime: 2022-03-29T20:05:00Z
+    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/don’t-let-regulation-get-way"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 37
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/f-35s.jpg"
+        width: 1222
+        height: 688
+        isCached: true
 
 secured: "TfWtJV+UkNYHSagUoUUlhF7QOq7I250SIud40UtQtkGKtdO7+50g3P/FyIVpD4VmfLkOGpYFODoDrYgtDKkj1kPufvaoVD2FINyliUlXtfZ+ZAq2xihcXbydaLKC9Utdmh+XTZHJLWF3nJ27Etg72+bKHkV8fiQ9swUVFvDEFDy7BXlSzIIImIPDrhr4tjK1n5sH5DujD1+ienFzz6PcJ3xu/fE1Ckk/YOawQxyK7C9QTMyV5Mz6RlKhNQyirLJ9oatWnfMtRofK6v2FdF/P1P7Y3L4bA9Sg0tntud4i+nZF2LIDu2IJjWeKfWHMWbnvEeBDK/VDCFZGcKUEy66xZ6pOcU/T9KaIhoLZIlBvIJ0Ww9QM0Q7icm8uIjneBdm2WLS/TzSyrnYyWmm8Fadwh7RZRw8lWMZEGSE5QzlVG/egHXtN2EJwCggzj6YXiQaad8588FDlWJcm53BwNXcDQGEZeQuwIdBYhBCXTA6Gvu+PNhFJYQlNG5sSwb7wskaOSZBEfEmeKYtn4etIXb2+Kw==;pOeTjlTniS5/SP6UJLNeLg=="
 ---

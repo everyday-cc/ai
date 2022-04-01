@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow"
-excerpt: "Former Envestnet/Yodlee executive will lead the recently announced platform that combines risk, planning and financial personality to help wealth"
-publishedDateTime: 2022-03-29T19:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow-1031316438"
-webUrl: "https://markets.businessinsider.com/news/stocks/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow-1031316438"
+excerpt: "TIFIN, a fintech platform using AI and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran Bill Parsons has joined the firm as Executive Vice President & General Manager of TIFIN Grow."
+publishedDateTime: 2022-03-29T19:16:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-ef2bfcfef318948975a1a828c66b4ee2"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-ef2bfcfef318948975a1a828c66b4ee2"
 type: article
-quality: 54
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -44,22 +40,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/62436cd289a4b767dd415637/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Fintech Roundup: Will financial technology startups dodge the venture slowdown?"
-    excerpt: "On March 25, PitchBook released its 2021 Annual Fintech Report, which found that the fintech industry raised $121.6 billion last year — up 153% year-over-year in terms of global VC deal value. Alex and I will be doing a deep dive on that report next week,"
-    publishedDateTime: 2022-03-27T14:16:00Z
-    webUrl: "https://techcrunch.com/2022/03/27/fintech-roundup-will-financial-technology-startups-dodge-the-venture-slowdown/"
-    ampWebUrl: "https://techcrunch.com/2022/03/27/fintech-roundup-will-financial-technology-startups-dodge-the-venture-slowdown/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/27/fintech-roundup-will-financial-technology-startups-dodge-the-venture-slowdown/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 70
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/03/Nora-Apsel-headshot-USE-1.jpg?w=680"
-        width: 680
-        height: 453
         isCached: true
   - title: "Fintech, CreditRich, Pins Agreement With Qolo As New Payment Processor To Improve Existing App"
     excerpt: "This Deal Now Creates Continued Pathways for Improving Credit and Building Wealth in Underserved Communities. CreditRich, a new fintech company that allows users to round up their spare change to pay their bills intelligently and improve their credit ..."
@@ -224,6 +204,6 @@ related:
         height: 450
         isCached: true
 
-secured: "LOMYKC2EU26VuzVCzqMWTv7OLEND2kfPNPPYW6zNM9LhdtjcVZmI61UFd1WhZNO8F1u/6r6jkXNN967nAaknZZrvYJlydTm1V3cfcYZ3XID8enBlM5YhoD0Rlig13wy6sfSSx+GW/3VptmPo0jsEPJizxsx22PSaR9Ad0pFHlh9b39Zq21n5o+xMTtLB0f3kaCRqU1vYrrje5e23um6pr2PAUnxPb81MvnyXSTxbPErFjUBXgNb6dYNjD2MFYmxo96XjVqYJ8Dz4nmxPSxexT37uvgQQ7Xl9xBIk1V+KRAw0lxwtRF0+0UKQKlAKE/oSAKyHEl3bN5VHBd8EGZNrKI+/CSc3c0dkRYzoGEoztSg=;bVRT7reuOnCONIyWEpu0Jg=="
+secured: "Neh8AdwP8oiCo4cA6xw8FBuziil1ATIRgKSP9KZRW1AIv3Uy0ok54ejrBPcqeX/YJRbfw3LuNzcYsMFHD0iM2mw0f3e7VnX1bPlv2qpjpMFvT9NPmfKUM6j9DD1bGfLOAtQWlFSEHnDI6oTJf0Fk8cx7pRCR+1ZphgWTCsfNm0xnNFnnV1MnaeeqfntD8n4G21OJWkY4PWEIeqAIcd7IDPLrubJMSiS6xA3heqGMQbiXqsFh9FuwBGhJgGOiHHwcwmJL3baeELD3HMA4iQEvCwkV3AqlB1ZM67HbfUm3YvqyeHKf+JYvgIWpLexXl6u4JJNiE+GL8DdrCYIoYyisIo2jPHN8eechKL42KLo1ZD0=;c4NoKWALoJlZAo8y5MQaog=="
 ---
 
