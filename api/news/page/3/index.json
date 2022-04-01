@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-30-boostupai-raises-29m-to-better-support-revenue-operations.md",
+      "title": "BoostUp.ai raises $29M to better support revenue operations",
+      "excerpt": "Santa Clara headquartered revenue operations platform BoostUp.ai today raised $28.5 million as part of its series B round of funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/29/boostup-ai-raises-29m-to-better-support-revenue-operations/",
+      "originalUrl": "https://venturebeat.com/2022/03/29/boostup-ai-raises-29m-to-better-support-revenue-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-680315933.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/29/boostup-ai-raises-29m-to-better-support-revenue-operations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/boostup-ai-raises-29m-to-better-support-revenue-operations/amp/",
+      "publishedDateTime": "2022-03-29T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-personalize-cross-channel-customer-experiences-with-amazon-sagemaker-amazon-personalize-and-twilio-segment.md",
       "title": "Personalize cross-channel customer experiences with Amazon SageMaker, Amazon Personalize, and Twilio Segment",
       "excerpt": "Today, customers interact with brands over an increasingly large digital and offline footprint, generating a wealth of interaction data known as behavioral data. As a result, marketers and customer experience teams must work with multiple overlapping tools to engage and target those customers across",
@@ -1152,58 +1203,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-microsoft-azure-defender-for-iot-vulnerabilities-could-lead-to-full-network-compromise.md",
-      "title": "Microsoft Azure Defender for IoT vulnerabilities could lead to ‘full network compromise’",
-      "excerpt": "Five critical vulnerabilities in Microsoft Azure Defender for IoT were disclosed by researchers at SentinelOne.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/28/microsoft-azure-defender-for-iot-vulnerabilities-could-lead-to-full-network-compromise/",
-      "originalUrl": "https://venturebeat.com/2022/03/28/microsoft-azure-defender-for-iot-vulnerabilities-could-lead-to-full-network-compromise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/sentinellabs-azure.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/28/microsoft-azure-defender-for-iot-vulnerabilities-could-lead-to-full-network-compromise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/microsoft-azure-defender-for-iot-vulnerabilities-could-lead-to-full-network-compromise/amp/",
-      "publishedDateTime": "2022-03-28T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/30/meta-ais-open-source-system-attem
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/amp/"
 type: article
 quality: 83
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 842
         height: 472
         isCached: true
+  - title: "AI could help write biographies of more women on Wikipedia"
+    excerpt: "An algorithm capable of writing biographies of women who deserve to be included in Wikipedia has been developed."
+    publishedDateTime: 2022-04-01T02:06:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2022/04/01/ai-could-help-write-biographies-of-more-women-on-wikipedia/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "3ciOkj0x2VpQ8cWTv4SKmxoafzapNgjiIVr+gUIu0lDtxNYdtVgeUmiiRCSmUt+sgiPC0fphHbgyJiNbd8Gmwqb0QJvvyaUGg4jKxMXw8mviaWSaeA6Ag3x5cxxNL5eSOXJbLoVG68jwmtGKbX2ZpoLloPc5y66zAyHUlYRRQoT2CvUFKokktsAVTgSpmIHyHjuX1eI5CQnrTNM/XV8pqfrPhgGNQMhATdR2XNy3iuNiWYZgUn1FwqTioagg6WPnA5nEopTGre8gdZPnQRlhST6L3xv13VygFN5Y3YWYgwftDsWozfuX1hNzt1ku5FvTCP2djbBOiOJM27oZ6fj5rNzajHRaXBQVQspzqmbuc6hRni4CkUUTK1T0zfjMMvGTsYj6A2d7/fbhoOYkgnFAeaYQTBw4B4S1DS7WDDYezQrPdD55ojTqz04lt4QVdqOo0SRSfb5qNWZn8uwWCrUZEiZOyOxCnCzdm7Gme5L+Ibr9BwYx0AHzfyfL9sjRBmX49uKs339Kgq1cFBxtbyw0nA==;nfJTyUelvyd3gVmGKSanNA=="
 ---

@@ -95,6 +95,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "The Global Artificial Intelligence in HR Market Will Grow to USD 17.61 Billion by 2027, at a CAGR of 35.26% - ResearchAndMarkets.com"
+    excerpt: "ResearchAndMarkets.com The \"Global Artificial Intelligence in HR Market (2022-2027) by Offering, Technology, Application, Industry and Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-03-31T16:53:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220331005896/the-global-artificial-intelligence-in-hr-market-will-grow-to-usd-1761-billion-by-2027-at-a-cagr-of-3526-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "IyR1k5PjsJ9zQ0G+iA/39Ri6bV7DK9zbWUHDLDvIWI2iYWJroSB3SHl9O5Wxu/QU9Ku+57YcMHV8oC1ZIMsiObYqx/bWX07JyJdLlb2mgfwUq9Ux4hZGh7Eh4l/fdzjQM9x+EzZgHggc24OyH43sZO+WqOUj01niKmgnSgdEQlNLUJDpgNtrNQzUvrV036PkSJShlRdy6JcOE9pibys61YtV9FTaVFt6lCJNiYf/XxEwVdi2H+FQi97KVe6Y9DU6UQt/iQvPEMvHP+E4QlTeivcVfrQKbIXmKRO8zNlZq0ywXgTLj8rrn6UXbtS9YC3uJahjMqtE2GsY2f0BixQSZNekLhBJKEyHrbK+c3vGU4g=;bcEHOZ/qM/9b+nmjKWb0Ww=="
 ---

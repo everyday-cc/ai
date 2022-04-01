@@ -70,6 +70,15 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "AI could help write biographies of more women on Wikipedia"
+    excerpt: "An algorithm capable of writing biographies of women who deserve to be included in Wikipedia has been developed."
+    publishedDateTime: 2022-04-01T02:06:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2022/04/01/ai-could-help-write-biographies-of-more-women-on-wikipedia/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "y7gfBuCN+VoeIRcm1x++x0ODrFty8M6JmTFd0XNV+rsWz7+nMVAs29qx57freyZlnF5UkiLJMYGfxYKFyRzUmQxSL7a1gyK/KL/n/4NWvsdp1KxGnSJASOwR+VhtN/CXjAM5V8uoxBa5pm8MhpWO1GGWZhdvXOLDmv/Lsslywap8+Gaao6LTUW0/RF6WYXM1fisn7rb09MWDEJuFF/IJSwxFJ9Yd3d0rh2N4JPzhznJqcyCKayiaPIOu0qIwcmU4baXupEF3/buEVWwCK2+s9rjEtEyrmdU3IpxBByzZ8FAlwQiOHcltj2Gv+KLiWmg8R7CgZVITui1c2crD59sG2eF9F8XO35pilg1594VvUg18cvNpg/nY49unfuzs+KNM7bgThg63J4TVkyS1JHPR+wF5FIn62CgmGH5kSVehgqKRllmiqNB4KHtdq/J/ZvbMfgVA8H7FbCm9VOl479u33vnDQryCvevf5DFThLnH8z8b5aG0wB11uohVKgAwy9gDTBXYZTTiIQWfBOsKmO2F0A==;BCI5JvFNKC4uZtwAdFKzcw=="
 ---

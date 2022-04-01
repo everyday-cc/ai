@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit λambeq, Enhancing Accessibility"
-excerpt: "λambeq update introduces many new important features to provide researchers and developers with more options and flexibility in turning sentences"
-publishedDateTime: 2022-03-29T08:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-λambeq-enhancing-accessibility-1031314301"
-webUrl: "https://markets.businessinsider.com/news/stocks/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-λambeq-enhancing-accessibility-1031314301"
+excerpt: "λambeq update introduces many new important features to provide researchers and developers with more options and flexibility in turning sentences into quantum circuits"
+publishedDateTime: 2022-03-29T08:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-ambeq-enhancing-accessibility/article_aa3c43f1-35a6-57cf-99b0-7683165e3dc8.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-ambeq-enhancing-accessibility/article_aa3c43f1-35a6-57cf-99b0-7683165e3dc8.html"
 type: article
-quality: 31
-heat: 31
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
 
 related:
   - title: "Quantinuum Updates to Quantum Natural Language Processing Toolkit lambeq"
@@ -53,13 +55,13 @@ related:
   - title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit Î»ambeq, Enhancing Accessibility"
     excerpt: "OXFORD, England, March 29, 2022 /PRNewswire/ -- The quantum natural language processing team at Quantinuum, the world's leading integrated quantum computing company, has released a major update to its open-source Python library and toolkit,"
     publishedDateTime: 2022-03-29T08:38:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1243933&cat=PR News Wire"
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1244006&cat=PR News Wire"
     type: article
     provider:
       name: Webindia 123
       domain: webindia123.com
     quality: 0
 
-secured: "ozedrLUld/397zDB6HfJAyqqX6TM/UdiVP3pIkT1OHzcgVqXczAy259g9s1a8m2uIhxluOFHB+ad66LffThWzOWMwn7ieWUFryLccEQsMtYTuDcgsvMdNiKfPG+YPj89oz27v9NxXneGeq6v+b3M4FOE95p0CqnERtO3MpDpqlqOga0fPR/OFD5vy0DQvvyvlF8C3zXhM+MuRdMGezmKAtRjRZKZ1gMkFaWHasBScqjX9c78GPitgXz0/oRtXBAIDbdzfSpln2xJ1IT21X2eZhJ2LlKNIgAdZvUkAcX36klCaVlKU268QPXQ9ktjmvepg3R0at6me7v4FMJ9UYDBwiXVaLotiVPjNvRHwjDp98E=;crcqUhv+VzXzPrjxxo7mhA=="
+secured: "XR2LJm840EsR5/5/vro32VbSs05BrOL/xwOa21ronmESVGIZypOMnD8ZnrHQZLj9GJgMKhPayvXkgXfT4tcRVn9dq2EzRyg0lx6Vvsib9VkWmDbybafiPSKn8mpOqW/pnaA2BUMZnsFJIxsm+Y6vHkBKgXwu7eecO1Eozv7x/c7025dmWcK7OpC+gn4HVClLOsa+kNlztvEcQvZWf3Z2y6HWr+2q8NA+upbKo93aUDOik9/uq2uemgqx1pA0A7aR4DUiwaoxJfwlEhRITwGntvcvwzdPzxA3ogK51nRitv5ZXJvW0OQMGrvJ401MohM9RKMNzD/+Pln7RMwmoIEGJmmFk0u6mZzQFvhRhUK8he8=;D1jmV7MWxgl2ILHVlpssTw=="
 ---
 
