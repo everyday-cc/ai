@@ -37,6 +37,22 @@ related:
         width: 1138
         height: 640
         isCached: true
+  - title: "Deep Dive Into Nvidia’s “Hopper” GPU Architecture"
+    excerpt: "the difference between HPC and AI may be moot in the next decade or so. This is, in a nutshell, the bet that Nvidia is making as focuses its GPU compute engines on neural network transformer models and expands its DGX systems to being able to support ..."
+    publishedDateTime: 2022-03-31T23:15:00Z
+    webUrl: "https://www.nextplatform.com/2022/03/31/deep-dive-into-nvidias-hopper-gpu-architecture/"
+    ampWebUrl: "https://www.nextplatform.com/2022/03/31/deep-dive-into-nvidias-hopper-gpu-architecture/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/31/deep-dive-into-nvidias-hopper-gpu-architecture/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-hopper-sxm5-logo.jpg"
+        width: 1073
+        height: 668
+        isCached: true
   - title: "10 Interesting Facts About NVIDIA Hopper H100 GPU"
     excerpt: "NVIDIA unveiled the latest AI accelerator - the H100 Tensor Core GPU. It’s a successor to the wildly successful A100 GPU launched two years ago."
     publishedDateTime: 2022-03-29T03:37:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326427"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326427"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://s1.econotimes.com/assets/uploads/2022033175c07e84673d7d807_th_1024x0.jpg"
         width: 640
         height: 420
+        isCached: true
+  - title: "Nebula 41 launches AI powered art engine allowing anyone to become an artist"
+    excerpt: "The platform allows user to mint their created work on the Ethereum blockchain as an unchangeable and tamper-proof NFTLONDON, UK - 31 March, 2022 - Nebula"
+    publishedDateTime: 2022-03-31T23:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/nebula-41-launches-ai-powered-art-engine-allowing-anyone-to-become-an-artist"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 34
+    images:
+      - url: "https://www.abnewswire.com/uploads/f298cdad121b83f0bbbd8dc48439fd69.jpg"
+        width: 600
+        height: 277
         isCached: true
 
 secured: "+8mAQX5sAnD5EMFrWJZT/QGllwVhQ1hBZXK+Y4OZJ7w3+lEZ822XtVpC+1VkU79GLQ12g3jAfOvWM4HOr+M/2hrhzLvxg5cqz3R79YD8YdKlL/tjgzIbuT9x0oZpCRo9R+mpBRjNfTE+7ZRGbZKLclC+dCsB8/jn5gmjJbhohFx9dTw8+RuTmFmyg8U7hra+UJB/pSpzAdKCndJpgRxHctulNjxrVAOChb2XMtQsgLJ64fYLgEziQZlOcKFjGnIt9vIU+GeJ/7HfziTpfaf3/Bhwc6NCfUIFgxT6lXhfFbpxNE3+yiddNnkWuIrdfqmaTNBw2GzhHKJy0R/KzVfe4rmtOy+mKvEs6l/0y7ayuRe0IUC2Ni3rxdDx1HoWuHxeHtBUIg6eBnJ9Mquz6lj0R0ykyqLxChfG7JGCQtNYtaB1s8m6YL7c4vHBVvkAz44scZKuvewkNFxyxGYPKZcHPrujbZcbeWmSLN2abrD8T+S0yJeUHPBaD9a/70IZv014JT4+RCYbU5iEE0JGw9hOAQ==;PNZejx2x28vhq9ClfdxhkA=="

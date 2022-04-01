@@ -114,7 +114,16 @@ related:
         width: 935
         height: 518
         isCached: true
+  - title: "Intel to buy cloud service startup Granulate in deal pegged at $650M"
+    excerpt: "Intel Corp. on Thursday said it has agreed to acquire Israeli startup Granulate Cloud Solutions Ltd. in a deal reported to be worth about $650 million. The companies didn't disclose the price but Haaretz reported in Israel last week that it would be $650 million."
+    publishedDateTime: 2022-03-31T23:00:00Z
+    webUrl: "https://www.bizjournals.com/phoenix/news/2022/03/31/intel-to-buy-cloud-service-startup-granulate.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 2
 
-secured: "/gVCCsaK8V0hnYuFSZpkuDZmkBKlipcOYruN1PdMYV6Pn4VeD3gxORut5S6LxkSIo3+N4HyfVQyyvZ1u85Kd4uxVE8KmCSY9n5Ik2ahARuV96LZ1EfQ/yetICDn/VPm3CsYjmNSjVH4fP9f6NarXRS7ALBa5Mrm6iS3WWhrwBz5GC+JnStHQAoibEZdvpQWY2+L7JwEVOWkNmZ8eg5F9SV4Zm+OVLSht+H2BopQkH4ALf5Er1MTORiOt+A5UoMXyfGAktRJs8dRKFa84zjdEAdOZ0pwXtpu2H0uK9ft/Yap2lTte5RhC/64/aj+52hJke8mgXmXIi9eK/GrjzQEFusRC7ZHDVBZhdkXQ0bOA9ws=;9eT/3WRJvW49b3adIjglzg=="
+secured: "OUMBX+ixguIVtPfMgbKXjbY8r9xuwOVAK7tT0qM1wCmEhZyuMhfMAXD7IyhZsP5Lqn6SKkr2sYrn0/0lwK7XK/RFt7IxRVpolkWAkRbrV2UVK3UE2GoE9q4BzVuAM3yHvy4lvuoLe58Xpk0OzQgqHmlPdPTQcKxIjbvGR7UEjUFWqiaTOCxf6jU8riBfO42ZpwG8T5NGn+Vrx+DEHpyDilliz7ajd3WguazHPEamymOGtea6JEbWfzMajdipEJ5jQHzwqENGfZaIQeDCVT4Fil/JGPngyIg5asVeKFIuUINcdZz5cWjO6ua4rAn6dev0E96zyVq349we4sKo6pakAMLRsnNt/l7itY1zCC0XWP9Iurj/VNHfUNm229VXLzjWtH6W1SHj3UHypWTpyHfSnvqQIQ5WUxQV9GuRigWtJzXsdAVWe08indo46xss5TSLSfEJawsA3mGG6MLzOGFRe+oLWX+b6i61KAC4hMwUAgt2u5+knUwcB53uM6i1Q6HDA+pfLTHMvFdRaKCqPNfZ1g==;KqZbEbjaJdzfSFtpKVw4/Q=="
 ---
 

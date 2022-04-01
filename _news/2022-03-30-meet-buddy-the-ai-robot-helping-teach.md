@@ -69,6 +69,20 @@ related:
         width: 640
         height: 420
         isCached: true
+  - title: "Nebula 41 launches AI powered art engine allowing anyone to become an artist"
+    excerpt: "The platform allows user to mint their created work on the Ethereum blockchain as an unchangeable and tamper-proof NFTLONDON, UK - 31 March, 2022 - Nebula"
+    publishedDateTime: 2022-03-31T23:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/nebula-41-launches-ai-powered-art-engine-allowing-anyone-to-become-an-artist"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 34
+    images:
+      - url: "https://www.abnewswire.com/uploads/f298cdad121b83f0bbbd8dc48439fd69.jpg"
+        width: 600
+        height: 277
+        isCached: true
 
 secured: "p6qZAx9Qtm0vu+nF8vTbwmrwW83BqxmfAQUZ1AFoRBSuby/K9tB/ys3C0ZU4qjTUTG7CAaslfX4LxpNI9O4ekB2za1BNtMMQg4o4Ww7GwHVKzbeuYUDJiHepTpjdgGQ/uMu8vuN2hTP2CqHTJArVlvtud16SE+QvLFNVtaJa4dp0++62G8Ll+zG42qisKeEf4sL1gx3qTcxAJ1icKMzKs/EioM6aabyxCI2pKFPf51DsfTe10y83hWdjxLK/zjtv0ALVpLXYSq7KoJPp/CIKNrbMnNMcYdB1lE4zcKm3EoYfcqBksVP55+WamAUMi9/6BAdHFRx6VB1WR51SdSPW1qGGlBeswRfB8lMaF7R16eU=;quAyvUosSweRTeE6ggz1FA=="
 ---

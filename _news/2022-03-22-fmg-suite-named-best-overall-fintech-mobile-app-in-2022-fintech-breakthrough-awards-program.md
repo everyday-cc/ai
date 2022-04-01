@@ -1,24 +1,26 @@
 ---
 category: news
 title: "FMG Suite Named \"Best Overall FinTech Mobile App\" in 2022 FinTech Breakthrough Awards Program"
-excerpt: "Prestigious International Awards Recognize Outstanding Financial Technology Products And CompaniesSAN DIEGO, March 22, 2022 /PRNewswire/ -- FMG"
-publishedDateTime: 2022-03-22T13:17:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program-1031298260"
-webUrl: "https://markets.businessinsider.com/news/stocks/fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program-1031298260"
+excerpt: "FMG Suite, a SaaS company specializing in marketing software and services for financial advisors and insurance agents, today announced that it has been named \"Best Overall FinTech Mobile App\" in the sixth annual FinTech Breakthrough Awards program conducted by FinTech Breakthrough,"
+publishedDateTime: 2022-03-22T13:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program/article_e7c33434-e531-532a-8883-6f3cfb3de93f.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program/article_e7c33434-e531-532a-8883-6f3cfb3de93f.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "vi1OyT1AnV8Fgs40dJh9EOiSO4mXQL9PeHXsaQlF2949Qrtu9JgH4SA6i9Huuc9Sj8iahqpxK9t8SnHnEFoMkeAxqXctfVYgNbFC+J9U8Q8bNJ7QJm/GRVu09/4IF/4lWRc5J/2G+znudT/1Qi9MQvxYQSnvOEZQsi59vlpnspZAg5D+KkG1Rp4AbbDiBapeAoR3aLRgrzLrLQAUJEeJcgVVIGogpQSyGBtFstF5KXNld7gSOFaJ4Ol+jxJzBfngIQmOdSBYOxqZArgez2g+LhrymQZMdYKVQyg66lpdsbJUVk9h4fYrPArg9Kt+4JYihP2SIyyyXLzCFN2Ma9LN/GX1rJ0JC6qizZUbnLFJJcQ=;FwQ/Ll0U2Y4N8VH5656Opw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
+
+secured: "bAbinkuRgYZM/chOse+K4kKaFGo0B9BNSWnDAOi+fWTakXIzP/dp1Zcd0IYKneCwY7nwpS3kAu9lT9kxKtWqzfBeuI9YO4TPY4xwJwasct/hg+mKQyAuglVPBYok+gmvDbjAy/DXHb23ZPRudK3wuYqV82jC8O3lGpVyukQAf4tc43sT/BFaOKW74RJ+wg0zj8so3l0U9FYmBlRJTpYDDja8uzmuWwesFXkaooDI6cx8ubljhWu740feHW3gg29Zq78cig4OQQ06h9KWtHgBHg1u88eW2iMcxF6bcSyFwfv+0OSEAnMXsybD9kVXURmnep7jYSvRSSVQVcJULxsbaSPXkVRulUfLT6YcHZWBA1Y=;HLJMiHilsOm1TuYb8ts4+w=="
 ---
 

@@ -1,0 +1,88 @@
+---
+category: news
+title: "Nebula 41 launches AI powered art engine allowing anyone to become an artist"
+excerpt: "The platform allows user to mint their created work on the Ethereum blockchain as an unchangeable and tamper-proof NFTLONDON, UK - 31 March, 2022 - Nebula"
+publishedDateTime: 2022-03-31T23:15:00Z
+originalUrl: "https://www.digitaljournal.com/pr/nebula-41-launches-ai-powered-art-engine-allowing-anyone-to-become-an-artist"
+webUrl: "https://www.digitaljournal.com/pr/nebula-41-launches-ai-powered-art-engine-allowing-anyone-to-become-an-artist"
+type: article
+quality: 34
+heat: -1
+published: false
+
+provider:
+  name: Digital Journal
+  domain: digitaljournal.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.abnewswire.com/uploads/f298cdad121b83f0bbbd8dc48439fd69.jpg"
+    width: 600
+    height: 277
+    isCached: true
+
+related:
+  - title: "KT launches AI quarantine robot"
+    excerpt: "KT has launched an artificial intelligence (AI) quarantine robot intended for use at hospitals and other large facilities receiving many visitors. With quarantine robots being just the start of things to come,"
+    publishedDateTime: 2022-03-30T06:06:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2022/03/133_326427.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326427"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326427"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 74
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202203/2b579531f9c14bba911005012964263f.jpg"
+        width: 980
+        height: 653
+        isCached: true
+  - title: "Aimpoint Digital Launches Aimpoint Labs to Deliver Artificial Intelligence and Machine Learning Solutions"
+    excerpt: "Aimpoint Digital is pleased to announce that its new venture Aimpoint Labs is now up and running. A trusted data and analytics consulting and solutions development firm based in the US and UK, Aimpoint Digital is dedicated to helping businesses develop into analytics-driven organizations by extracting tangible value from data."
+    publishedDateTime: 2022-03-29T14:32:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-business-software-artificial-intelligence-074fcf46b90526613184b7f2777679fe"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Meet Buddy, The AI Robot Helping Teach"
+    excerpt: "Buddy is an artificially intelligent robot that is being shown off at Bett 2022 as a way to help teach students. The smart robot is built to help communicate emotionally with children for connected learning engagement. That means that this little bot buddy ..."
+    publishedDateTime: 2022-03-30T09:30:00Z
+    webUrl: "https://www.techlearning.com/news/meet-buddy-the-ai-robot-helping-teach"
+    type: article
+    provider:
+      name: techlearning
+      domain: techlearning.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/bEAyqPUWEtdUVAKp2eewND-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "South Korea’s KT debuts AI quarantine robots to fight virus disinfection"
+    excerpt: "KT, a South Korean company, launches another innovative robot designed for hotels and restaurants. This time it is announcing the arrival of its new AI Quarantine robot to help fight virus infections."
+    publishedDateTime: 2022-03-31T08:41:00Z
+    webUrl: "https://www.econotimes.com/South-Koreas-KT-debuts-AI-quarantine-robots-to-fight-virus-disinfection-1630451"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 53
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/2022033175c07e84673d7d807_th_1024x0.jpg"
+        width: 640
+        height: 420
+        isCached: true
+
+secured: "OmqQcbOTAxtnH3qNLPrx6PH7cI5U1UH0DrqOdRc+a8Wyja4hPuTQOq+oA8kp6EpznXfgBB2WuP0xcv9IIzGa7G1WhfoPYyiysiVcM3qwDER3X7zNf6Mt+YjrMnerN4CflJNr55BpC1vXHWZ192iJfSaVr+9BnIxyn4Rh6AtDGmGRfX/NUuNLJPqs8cZ1eGJ5HCssjRp+ydG1ZN4KAm+oolM/HZ3pzRKaYWmCJ6s6xyvX0KRukHv4AgGgpxlMU1CUq56iKxvNoxtKzHtVzX1Nc2ZrN7tqXOkHPijqGu7KxmNL2wZ6cakB6N2zEZRSTreH0qJ6Iwuz3BhI3FGcVg0kWw5Qrr46c2p0GfdL6oZCSqo=;cj5zcjXdkSNiH56eMHNhBQ=="
+---
+

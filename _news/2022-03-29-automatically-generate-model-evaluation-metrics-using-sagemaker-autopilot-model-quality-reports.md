@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automatically-genera
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automatically-generate-model-evaluation-metrics-using-sagemaker-autopilot-model-quality-reports/"
 type: article
 quality: 77
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -27,6 +27,22 @@ images:
     width: 638
     height: 630
     isCached: true
+
+related:
+  - title: "Prepare data from Databricks for machine learning using Amazon SageMaker Data Wrangler"
+    excerpt: "Data science and data engineering teams spend a significant portion of their time in the data preparation phase of a machine learning (ML) lifecycle performing data selection, cleaning, and transformation steps. It’s a necessary and important step of any ML workflow in order to generate meaningful insights"
+    publishedDateTime: 2022-03-31T23:07:22Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-databricks-for-machine-learning-using-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 98
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/24/ML-8541-image001-1232x630.png"
+        width: 1232
+        height: 630
+        isCached: true
 
 secured: "tzzrGGzaSNZ8N1a6GBWjjQVdck5xsfY5TtbmRcZXJJvTGkffp56C1IiiW+OjzOcns4rIvyPuI3GyKIpCH4iJ0w73GLm5IgC7JcSayUKavv7uUt13do26Z8gSPsr6nAsJfIRGXS3gbTjM5Vbbnsb2vWz+jhIYem+Rt7xlQ1aj2dlHOK0QODdKs8rA4Tnudx/veiGNEXwwa9fMqULCuy2dI22Yyax4dT7Gz3STdjs+1OBSHaO9Jc1jSR5PP2ZOQ/RrDWShIjI0CdfBHw6WdMSo2sbHmynU8TCVbKBdSMoDy9KdPwfkBlQVTM9BaBi589z/cpssbGt/5z72PsjGA8FWMngf7mKkPw4aaV5UOPDlbhU=;qtsK7tZHyDOntoykFJEinA=="
 ---

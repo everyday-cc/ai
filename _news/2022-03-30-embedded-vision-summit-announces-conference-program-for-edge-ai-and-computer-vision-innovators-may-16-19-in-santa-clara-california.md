@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Embedded Vision Summit® Announces Conference Program for Edge AI and Computer Vision Innovators, May 16-19 in Santa Clara, California"
-excerpt: "The premier event for product creators incorporating computer vision and edge AI in products and applications returns—in person!"
-publishedDateTime: 2022-03-29T17:49:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/embedded-vision-summit-announces-conference-program-for-edge-ai-and-computer-vision-innovators-may-16/article_0be0cc89-33f5-5ef4-80dc-f11a3978921a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/embedded-vision-summit-announces-conference-program-for-edge-ai-and-computer-vision-innovators-may-16/article_0be0cc89-33f5-5ef4-80dc-f11a3978921a.html"
+title: "Embedded Vision Summit® Announces Conference Program for Edge AI and Computer Vision Innovators, May 16-19 in Santa Clara, California'"
+excerpt: "The premier event for product creators incorporating computer vision and edge AI in products and applications returns — in person! SANTA CLARA, Calif., March 29, 2022 /PRNewswire/ -- The Edge AI ..."
+publishedDateTime: 2022-03-29T18:36:00Z
+originalUrl: "https://menafn.com/1103933372/Embedded-Vision-Summit-Announces-Conference-Program-for-Edge-AI-and-Computer-Vision-Innovators-May-16-19-in-Santa-Clara-California"
+webUrl: "https://menafn.com/1103933372/Embedded-Vision-Summit-Announces-Conference-Program-for-Edge-AI-and-Computer-Vision-Innovators-May-16-19-in-Santa-Clara-California"
 type: article
-quality: 3
-heat: 3
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "ozXSfR5McELIEZ0QWUZDF6kMjiRJhWBgEw81fce/TPmAGqA9UInw/VR93q6WANdpMJ3z9RLWSf2P4+d7YP+v2TfUKc/43GHONz8HCwUsDVx4tCclG6jJEMXZOmjaoMvAlDgtOrEo2Ue/equuXrGHojcNy8vkrGlEjPbewKyg4OeFRck/ILFJS1GB9BX/RlIzjjhhkmhj3KAxzxi89L9QIn7BXbCO+KUGk2dF2jA/3FWw64LDmYzEbWzVXnBo+mXvMJdpPoynAxf4u8/N7X4dt6sSk20xApXVDTaQi4sJESRQCOWPdZnS2RSRodkjHIv+2M1KTCnx/CUMsb2pxtkY0lgQMd8IdrT6qfpUsdBhGSLMahjzJ7NyC9l3jK4z6ISjGk7F7qfsGt0115vG9YoOle0yIi+iOMo19q5U1EU6DbnQwJUpl129VzmJnYlR6E4U7+e2UtMLSWx/FghodbtV/GZ+YcgdTQGIbGBR8AMZlqzFOyhr5DgsikaHOegzBCxDHcc8l4/1U1Np6y30+AnmZw==;7Z7JcURjR9SmNHy+UJFEpg=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?115652"
+    width: 375
+    height: 250
+    isCached: true
+
+secured: "gX+NzfXqRHopu3DX/ZvZNhwrjIUy1155fCOHGlbU6pocr7bEWyP5wKBKV/NbelX/KmiReNRXxGywbdCPvXL1juJRAOufBhk7wZdOZUKfwgTjh/8/YJi2a4znH3KMFUQl9ZrMjo8wk7XVRk5OTD5AyvwXaRafvu+co6EP8zRTrk0MRb7aOzJVT0sc8A/GfX5NI488rIa85VqKwsZcW/tpDUc0AKXUEyZ0CWEeQW748MZNOjzyesif/QJZrGHJ3cQyCpypApzxHpUG5+YrdIR3gedWVUJqsjgVmowMLfUUuHCEPts7bptec0dfFwa9msK2loS35dOXCdjo7ERFDSmF8GghPDy/I0cYSgdrWaakqho=;xbaf2NCOziorKsMEwf5+Hw=="
 ---
 

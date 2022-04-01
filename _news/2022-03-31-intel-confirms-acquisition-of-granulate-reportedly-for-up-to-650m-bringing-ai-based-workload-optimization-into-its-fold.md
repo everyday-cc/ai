@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/03/31/intel-confirms-acquisition-of-gran
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/31/intel-confirms-acquisition-of-granulate-reportedly-for-up-to-650m-bringing-ai-based-workload-optimization-into-its-fold/amp/"
 type: article
 quality: 63
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -119,6 +119,15 @@ related:
         width: 935
         height: 518
         isCached: true
+  - title: "Intel to buy cloud service startup Granulate in deal pegged at $650M"
+    excerpt: "Intel Corp. on Thursday said it has agreed to acquire Israeli startup Granulate Cloud Solutions Ltd. in a deal reported to be worth about $650 million. The companies didn't disclose the price but Haaretz reported in Israel last week that it would be $650 million."
+    publishedDateTime: 2022-03-31T23:00:00Z
+    webUrl: "https://www.bizjournals.com/phoenix/news/2022/03/31/intel-to-buy-cloud-service-startup-granulate.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 2
 
 secured: "D+K3ATaS3lIjlo/IfG2vUibJUff/rDETHfmpr6WS9+TYIOt0G9szpZ+RUDx4gvFKLh1+XydrJqSJUw5Dd5waB6Ki59jWnvZSCcm6JmO0CE/mZPT/oeN35Y83545DE3YDOloJkJZEGKhg8Zb3Xs2v4y53fUdLjYs0+QeMjjSxSVohu7seWxYM/mucUskHeT5wjOnrM4kkfm2TDC2Q8tpa+5DlrG4iYthjJH9xDbY7CANoVo1syRbU6fChD1/a8Tg5e73vgJRuld8sywXJ2kt6KOl8l1XCktZJqEvvs+1+I1dXVJeVLGGo7dwIuyvsA3ZILizLu/PBs45wIaoxs3+oG+CXbkn2ZNeTJ43AnwRYs3g/ql80cZ+eayBj7hC3ePywb2ddTTvI33lqjVYHUDwJ3bRXlbvv4glIqK+d9UyQBoisZwXFqZw/NNw0Io7fuFDCZJYauxh5vyztrZUBg8nMxONjtvx8OvwVdHfBKrsuHcMbBHcf/DyfxOayGBaLNznBdRnH8iMfhuxIJ6aPLbDOyg==;cbGcdxqQmcdS8qotFl2s/Q=="
 ---

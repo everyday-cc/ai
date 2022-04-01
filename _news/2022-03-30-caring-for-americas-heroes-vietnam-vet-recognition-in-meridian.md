@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How to Strengthen America’s Artificial Intelligence Innovation"
+    excerpt: "The United States' Artificial Intelligence Strategic Plan should focus on enabling a wide range of actors to play a role in strengthening American AI innovation."
+    publishedDateTime: 2022-03-31T22:10:00Z
+    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/how-strengthen-america’s-artificial"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 37
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/f-35s.jpg"
+        width: 1222
+        height: 688
+        isCached: true
   - title: "Vietnam veteran recognition dinner held in Rupert"
     excerpt: "No one would have guessed that the veterans honored on March 29 had served during the time of the most unpopular war in the history of the United"
     publishedDateTime: 2022-03-31T14:02:00Z

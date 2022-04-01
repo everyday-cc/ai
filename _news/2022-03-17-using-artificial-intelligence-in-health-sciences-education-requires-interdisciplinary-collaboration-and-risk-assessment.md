@@ -2,22 +2,26 @@
 category: news
 title: "Using artificial intelligence in health sciences education requires interdisciplinary collaboration and risk assessment"
 excerpt: "there has been an increase in research and development related to the use of artificial intelligence (AI) in health sciences education in fields such as medicine, nursing and occupational therapy."
-publishedDateTime: 2022-03-17T16:28:00Z
-originalUrl: "https://theconversation.com/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment-176628"
-webUrl: "https://theconversation.com/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment-176628"
-ampWebUrl: "https://theconversation.com/amp/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment-176628"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment-176628"
+publishedDateTime: 2022-03-16T20:50:00Z
+originalUrl: "https://menafn.com/1103862504/Using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment"
+webUrl: "https://menafn.com/1103862504/Using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment"
 type: article
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Healthcare
   - AI
   - AI in Education
 
-secured: "i3fA32LSFi5qyuXbnft7SORKBrxwQ0zwA3LFTiuj+/TL4ktB+2NrJpbPDBppc16G4CUFUpr1pBUtoxMoocjcsXiUDtdu9Ho9yIsPtnxqkUS7DHL57nhuhGSZPv15o4FNEWZTkbqZIL3enhimj0lRg8uNkf1ymk4QrIq3nXSbFEiZF7bfBKoACZAtRdpKZpDyVkZKxmRuPKldhx11WjmRyHIlpajhd1XDP9Bv3yF5ZfTyd2253QoLAzugt/XXLE+2a6el/3N4wdnZbPUb2uyNc8sTWiyca04PKX+jO7DitZtbqfR5UBlVg0rG6ie4g3FWyU+Rhs2C+vm1anYSUgE27tQSkKezWZUVeaoDyA3go9Y=;RTGVAz273uFIGuKjxzBtCA=="
+images:
+  - url: "https://menafn.com/updates/pr/2022-03/16/TC_0937aimage_story.jpg"
+    width: 1888
+    height: 768
+    isCached: true
+
+secured: "o3lcckk2noZ4MzUdsiBFmDnWSYNpfLEZI3ln57uXvCp9jyoe8nPxAjXDeEgioSuPZwZRnkUKjEDvXE26ef8yEGXGVcRyz08GE0P2mLvUl0rziSAktekEZqH3mzhzhhTtNE4tQdLh8VCaryALulRQjKlLQzXmSzAfErIvrOMm8+Tui2U8Yy69juO1GllMJ0cu2vsIzGoR9xR0mh6it+4KWJUxA2ROFkM3zHBqKIT7911oYf1lmyNDmBqcx7B85Pa+rTvK26Dcn/y510dZlGzNfrZNXErZHaquvjMO17m7NUD7ncvA0w/m+P9eE/SkPfXS4NOOjGuIOBM14TuJvUZbxB25T5VDbx5tsKN7MVw2mEY=;ejl3BlfxX859NwNOB0Tmug=="
 ---
 

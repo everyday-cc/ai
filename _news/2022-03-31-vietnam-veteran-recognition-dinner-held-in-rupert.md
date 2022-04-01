@@ -41,6 +41,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "How to Strengthen America’s Artificial Intelligence Innovation"
+    excerpt: "The United States' Artificial Intelligence Strategic Plan should focus on enabling a wide range of actors to play a role in strengthening American AI innovation."
+    publishedDateTime: 2022-03-31T22:10:00Z
+    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/how-strengthen-america’s-artificial"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 37
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/f-35s.jpg"
+        width: 1222
+        height: 688
+        isCached: true
 
 secured: "y5D6ti6dq/MELEP3nz7aUjroaqlAJHHLhso84mgYWtjHCccNjW2vSYH97D2vWaOZ0ihV07zJVqIulqBHCMA3iTqcKBTDDAJPEB/m4lNnPFtTwPi13NkvCsIM/d1aqW7oe+RZcN6V5i82PukR1vpqKIrQNh39QeU4b3/zeKbNc8xv1GXmM7P3h0lF1p0FfSz0fIV0gsdavq2CuNTe/Aw7bChyBWD8kcmDQTBEtOcIBizaudwO20t+vrKHU2rORZn+RFN0wIg3I2+nGr1Hiqu9SkBmN4AKqvFuFlhqxSzzW/+DVQ3tKztjBsNjGRHIUiB2EqJDGVV+rsvnJ0+TqH2xNGqMZ33MO48L/azjHuCk2zg=;HiKmSr1Ia3IT3C3YrqhRhQ=="
 ---

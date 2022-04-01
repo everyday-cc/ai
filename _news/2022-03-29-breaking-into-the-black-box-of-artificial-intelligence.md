@@ -3,10 +3,10 @@ category: news
 title: "Breaking into the black box of artificial intelligence"
 excerpt: "In February 2020, with COVID-19 spreading rapidly around the globe and antigen tests hard to come by, some physicians turned to artificial intelligence (AI) to try to diagnose cases 1. Some researchers tasked deep neural networks — complex systems that are adept at finding subtle patterns in images — with looking at X-rays and chest computed tomography (CT) scans to quickly distinguish between people with COVID-based pneumonia and those without 2."
 publishedDateTime: 2022-03-29T14:28:00Z
-originalUrl: "https://www.nature.com/articles/d41586-022-00858-1"
-webUrl: "https://www.nature.com/articles/d41586-022-00858-1"
+originalUrl: "https://www.nature.com/articles/d41586-022-00858-1?error=cookies_not_supported&code=b416cd61-ab8f-4dea-a6f7-c76c01e7969f"
+webUrl: "https://www.nature.com/articles/d41586-022-00858-1?error=cookies_not_supported&code=b416cd61-ab8f-4dea-a6f7-c76c01e7969f"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: nature.com
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -95,6 +94,6 @@ related:
         height: 756
         isCached: true
 
-secured: "opA+MB0ej/2vX0d1OrEhB6Xq4K2Kt5uThYTg4q7AevA13WAh4MTF4xPQL/9lIiqZ7aXfUfjPW56IH1d99kvgwbw9/S0TOWHZkzcmeFwLZ9xWTrKhm77CeFsYRKwgz3ZbXTRHaUzWk96mBGs1l+KkYwAgeGZYYr6OdV8oWc1d6wQl/3W88Z0msUOikcFsVBX3ONt9cMblF53XzQVFvRcexe+GXgCBrGomEAAywTYERgpv7VUuVMDq1L0ZAVNgFWp0q2ch0mVUiXGvlclTdKzzSgCbdJIcSpZPC0QRv9b3Gh4ebvjVEeUpBo3lERJO9V8FQuqqYdi2r5oezOeVeB3mP8s52yFWY4ZObQH+PC0vAisTC8mTrEDO4q9Mt+wUV8k7VJ/RVQ1OYCj+W+/OJVktGy1YlRHz/asXHAWBonoDU3jfJd5/uWOoeANXCyIKNxl7RIyPrqNhNmKlH8XVh5VGmgtZyKs0Lpb56PJxbKNDp1G6SlzMAuHfCLGaPNwVtOS1dM1ulTA/aSQa++UN2Krj8w==;Jt2OEwWStOGSCb2hMHO0HA=="
+secured: "ab/50IWSdqYfaYO5kP6MXKmJU/qFzsaY6Dm2xxEKKPJKZo+zfvoc15vh9cegMd2qbk5ao3u8qSbHABWOt6AZ3W9ALDc/qkNbUB9zIwxBElNj5PVXKFfKxd+emAIsV7485LXROYFaeTSJ6zalzJBNzvGVJPJlWfF9888uUTZWxUYTtlfXLMb5L2S5xEyyaJuWBwD0Q/TsxgkxORfp/Na5+CFqENp7Oapb7UyykT0qG1BIJvrMHh8ZFSTRqSW1iJn0WGpjuinKwY6bAcQgzdAEylsYOHSoLeEpD7nQ+q/4mIJVwdXiF9xKTsyD9ArYseshZMjbgUJoBpfsv0KGM6wiaHsw3JI+HlN5XZjMbT5HYSo=;HlS0eRU6YlkuB8HDnY5UJg=="
 ---
 

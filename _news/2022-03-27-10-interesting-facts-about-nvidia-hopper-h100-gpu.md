@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/amp/"
 type: article
 quality: 89
-heat: 120
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Dive Into Nvidia’s “Hopper” GPU Architecture"
+    excerpt: "the difference between HPC and AI may be moot in the next decade or so. This is, in a nutshell, the bet that Nvidia is making as focuses its GPU compute engines on neural network transformer models and expands its DGX systems to being able to support ..."
+    publishedDateTime: 2022-03-31T23:15:00Z
+    webUrl: "https://www.nextplatform.com/2022/03/31/deep-dive-into-nvidias-hopper-gpu-architecture/"
+    ampWebUrl: "https://www.nextplatform.com/2022/03/31/deep-dive-into-nvidias-hopper-gpu-architecture/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/31/deep-dive-into-nvidias-hopper-gpu-architecture/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-hopper-sxm5-logo.jpg"
+        width: 1073
+        height: 668
+        isCached: true
   - title: "Why Nvidia's 2 Smallest Segments Are Its Most Exciting"
     excerpt: "Nvidia reports revenue under four main segments, and while gaming and the data center contribute the overwhelming majority of sales, the other two segments might be the most exciting. Here's why. If you're an active investor,"
     publishedDateTime: 2022-03-30T11:10:00Z

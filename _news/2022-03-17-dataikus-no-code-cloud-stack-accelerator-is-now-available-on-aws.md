@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Dataiku's No-Code Cloud Stack Accelerator Is Now Available on AWS"
-excerpt: "today unveiled the Dataiku cloud stack accelerator on Amazon Web Services (AWS) — a new way of rapidly deploying and managing Dataiku's data, analytics, and artificial intelligence (AI ..."
-publishedDateTime: 2022-03-17T15:15:00Z
-originalUrl: "https://www.asiaone.com/business/dataikus-no-code-cloud-stack-accelerator-now-available-aws"
-webUrl: "https://www.asiaone.com/business/dataikus-no-code-cloud-stack-accelerator-now-available-aws"
+title: "Dataiku’s No-Code Cloud Stack Accelerator Is Now Available on AWS"
+excerpt: "Dataiku, the platform for Everyday AI, today unveiled the Dataiku cloud stack accelerator on Amazon Web Services (AWS) — a new way of rapidly deploying and managing Dataiku’s data, analytics, and artificial intelligence (AI) platform on AWS."
+publishedDateTime: 2022-03-17T13:02:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-business-sports-artificial-intelligence-e0f753d39d82f8d9861fd13111e0a240"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-business-sports-artificial-intelligence-e0f753d39d82f8d9861fd13111e0a240"
 type: article
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2022/pr-newswire_500_4_1256.jpg?h=7de12b8a&itok=Wc55GeeM"
-    width: 600
-    height: 316
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "uQzJRS4TEpKA1MWfUOognMAyFp4JyQYHiU6MmvUEwohTUJFdF23zIMLcuu49/syTZtNiD2gEYdd7Z5BL+43KJk0ZG9mUBAO/d6c3JCsYjSg85frFjr7hbINSdu7/7s0YgyGE5A6xxYR19MLb0Sx1fdnMNuqNuiL8+veZl9XfzyfWt4PDgHXJq1tcf8E/gMpTtQheLfLusadEJamxTVsrCwteXMpp1pvnT7qlzwCDnvssbaVrWNp4MCRVU9dN9JfNJIVu/t+rMybi5kvth/0ArTdkoZIZE4dc4LPwl4jmnnC3UL/YvDxdGvrC+O5Ikgmw6M+ySQGN4UyiUvW1ia5FqDhslu2O+sdPymwiOzLNzGs=;FeOU4KkkhrbeffraTZsL+Q=="
+secured: "Fb8eaxug2NjTYbP+hCYEjoE2rh2XaA6eh9yqr4kjWtBdDHMLu2EMSyMNh383iS6o3cLtG8MBMdDCqSVVTzH09Sr1zQcK6EOpCJ9Urd90wss1dU7aUIDKQSQDCul0L6V0R6h4DZn2hQxq6i06wVvyp299qTo+chEp3ZUnwZt4gsEBtLS841ocxid8/NBC1d41EbifYr3fyEbuemFSV9dq0iZH0ovrz92GsHzVrJRQ3pgerVdHnE3c2rdz8/eilAAEsIkN/44wRgpKLMjuVOatc24pG8ruUinYFzS09YpzIOilK0C2oCtdYHNV8jlPZRs3WsfeNeZerEb7vCy1Wl5XuWyQ+nywxzW2APN2XQguehw=;P6VTHRSAOOjgVGF//fPVsQ=="
 ---
 
