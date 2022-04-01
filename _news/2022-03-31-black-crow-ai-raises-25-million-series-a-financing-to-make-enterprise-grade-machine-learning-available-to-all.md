@@ -1,57 +1,21 @@
 ---
 category: news
 title: "Black Crow AI Raises $25 Million Series A Financing to Make Enterprise-Grade Machine Learning Available to All"
-excerpt: "Imaginary Ventures leads the round with participation from founders of leading digital commerce brands, demonstrating the power of Black Crow AI's breakthrough approach to delivering 'machine learning for everyone'."
-publishedDateTime: 2022-03-31T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/black-crow-ai-raises-25-million-series-a-financing-to-make-enterprise-grade-machine-learning/article_c8ea8ee8-dcad-57a6-941e-604aed0965f0.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/black-crow-ai-raises-25-million-series-a-financing-to-make-enterprise-grade-machine-learning/article_c8ea8ee8-dcad-57a6-941e-604aed0965f0.html"
+excerpt: "Imaginary Ventures leads the round with participation from founders of leading digital commerce brands, demonstrating the power of Black Crow AI’s breakthrough approach to delivering ‘machine learning for everyone’."
+publishedDateTime: 2022-03-31T13:37:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/science-business-7144501f7458c8aee9d260d8a8bca1f1"
+webUrl: "https://apnews.com/press-release/pr-newswire/science-business-7144501f7458c8aee9d260d8a8bca1f1"
 type: article
-quality: 14
-heat: -1
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
-related:
-  - title: "Black Crow AI raises $25M to predict which products ecommerce customers will buy"
-    excerpt: "Black Crow, a startup developing a system to generate predictions for ecommerce retailers, has raised $25 million in a series A funding round."
-    publishedDateTime: 2022-03-31T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/03/31/black-crow-ai-raises-25m-to-predict-which-products-ecommerce-customers-will-buy/"
-    ampWebUrl: "https://techcrunch.com/2022/03/31/black-crow-ai-raises-25m-to-predict-which-products-ecommerce-customers-will-buy/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/31/black-crow-ai-raises-25m-to-predict-which-products-ecommerce-customers-will-buy/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 82
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-155278713.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "A Burlington company using AI to predict sepsis faster than hospitals just raised $6 million in seed money"
-    excerpt: "A Burlington start-up using artificial intelligence to predict deadly diseases like sepsis earlier than current methods allow raised $6 million in seed funding, including from prominent investors like a former CEO of IBM. Biocogniv uses AI to process ..."
-    publishedDateTime: 2022-03-31T09:11:00Z
-    webUrl: "https://www.burlingtonfreepress.com/story/money/2022/03/31/heading-off-sepsis-btv-company-uses-ai-get-ahead-deadly-disease/7191747001/"
-    ampWebUrl: "https://amp.burlingtonfreepress.com/amp/7191747001"
-    cdnAmpWebUrl: "https://amp-burlingtonfreepress-com.cdn.ampproject.org/c/s/amp.burlingtonfreepress.com/amp/7191747001"
-    type: article
-    provider:
-      name: The Burlington Free Press
-      domain: burlingtonfreepress.com
-    quality: 39
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/03/28/PBUR/8ab0f3fe-ee8d-4c9c-a161-1b0bfa9d72d0-IMG_8422.jpg?auto=webp&crop=1888,1062,x0,y207&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-
-secured: "kw9bN28PdQKHVp/RbUS4wzEoYH7r4tZoi3RGLvEaveZ4D7VZBAq1hX3kwr0jzzPTM8xFoYMjcEv7fumpKV8tp/rBgHWgMpdxztczOoYuBWYN+ukx+uRZH8+ZsTl4r4707/h9c2uWiNxvDq/vyB482/2o3I73W1vywoo9cd7WGr8yELKGUNjqpsmSoHJX4kWQ+Ry8wqqMHp0DbnEmLSTN0LDLG15465YBf3mXEkCAfnZse/K/0uIf1Foh1bbRyL++Pb+9pe8M9vNXPczAGtKsgh+1/qEMSildocjMF6SyeUAzTiTrPXEhasrA4aBiuhB4eOrO7Q7crdK5KU67QXQi3sJ4FfUGfEIi+66T+Bd0vxQgaKy2dWC5pnB/gvLjFm0YOSoZrIgpZkFWL1NLphgaXZZicoQ1cmluH8MjdclWxUB9jdua+dN/nVG9zjLrW3ZMyu5aHOdVxM1BxJvUAthD8F8mWPN68+ILwlK0iy0WSMZ+6JQC1OknCuCd/OflWYfX3tIfN6F3WBxMqpJlJTnQAg==;sZMcx+l1aprNvXEjp4knwA=="
+secured: "BjP2RdmWLtTyD2l+dvud1bkMkIe9Pig4gYv+lpwWjncpWZsJaekEl81vl0hksUQR4UWgd8oZR2YJMrfOfgIc2BOvM66fgSiVTSl6QW2Ph7aA3IaKjAbR1LqZlB4TeN8aUEf+LCSgLiJHj4D2OFMJwOZSR558Sp0uOqXJq/J0RpTi30v6giEQ5j1eiyoS70snBs7pHJJjIGLFYI50/XwgjT2m4KCAYEEZk5jFE/2FmLOnpzt1IotW4eEwmYSSXdWeH9nnSxK0V99EplBhmavCsGIHMi27wx+P1SM/g4hDpJv75+iBXkSouGeCSvF9LmOJjSfIel9qomh2HmB/RM70HetFsbRQoWfiXtM9pNc5cf8=;QT+4gGu+p2sMqlRN3MxqXQ=="
 ---
 
