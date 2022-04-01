@@ -16,12 +16,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: "https://cdn.kpbs.org/dims4/default/ab640a7/2147483647/strip/false/crop/3037x1594+0+342/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F03%2F18%2Fface-recognition.getty-431e74c0b0da8664c4ef6d5a7515f829ae18b917.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "QR9QmPiYcMVo9M4d/uu+9Iky/FwNOet8eAV0HGMXiP8I5aJDuN7VozVFwTyFSXoc9zYAw70zKGZeuG7OREB7XHfKugwA57JgDDEQBz/+PgiwceoBAfssNME2BQRdGWFPi8B9XpCnKUhCVRvlCoNmjGI7EtmP0bDigUOZSSfnDJbf18okNu1fg3qlpHlbmHaFbpgIiO3GDOfkwvsV+xfsGDxjaoaDZadX7IL8kO00ZSshnBF/x2ZQkme6ucRnVaAq44T3//jM+akGLagQk1/a1DupAzzMOhI3IcWjQJAPJYPATSRMnUfUyUsEKxC5KkY9drYHZ9puXt5XE972K2EN7/DtsuRiiNsf+9VVQaXl0CM=;iqAmA11cs/DrC7G9dfydUQ=="
+secured: "+ErEnzzZOiVGVlFEwT2Jhk0PRaDV7OBIIly/3vb7sP28dr6FhY6jZrlxZPD/17ABjU/pEIoxk1rdQQ4gGdsXgJRx03vomKKobykifq4FfbjJbp7yi2yvqzXEay495liig1wm4JqPLtqqbVM4WsYe7BZQkh1YWhRA8kdXbMlXYBFZtqxQi0LQaF/lSsY0vj3oPCl49LWPPcD7TmUPod4ilyi6fOXWiWaomWXj5zT/5IgvP7nzXvkbmlOlG0tRNJiVYkmrvCyY9h2kF37j+4y7Eoi/gPJ3NfApctPEaYHXmwT46e2WUPnl8eq4yQV7XCQ7w59Mev169Jzv7hGETWknYZkyHN7MTn+Zd1M45LfOK3E=;5KB2rC6DxbvL/1qPd8GpJg=="
 ---
 
