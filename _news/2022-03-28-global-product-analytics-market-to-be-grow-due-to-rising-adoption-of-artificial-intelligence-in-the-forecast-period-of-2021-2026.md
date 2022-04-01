@@ -49,6 +49,15 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 28
+  - title: "AI-Augmented Analytics is Transforming Business Intelligence and Simplifying Data Complexity"
+    excerpt: "In this contributed article, Ajay Khanna, CEO & Founder of Tellius, highlights that when it comes to business intelligence and data analytics, AI is a driving a new wave of innovation called augmented analytics that makes it easier for individuals of all technical skill levels to analyze volumes of data to accelerate more valuable business insights."
+    publishedDateTime: 2022-04-01T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/04/01/ai-augmented-analytics-is-transforming-business-intelligence-and-simplifying-data-complexity/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 6
 
 secured: "+unX48hmmakE4To9PKMGXbr+mR2cZtNvzLQRqyd9Q8JSo/9CpB+ko07hanq2LT2YUNYS9xcBbvjRw8jz2zSZ0Eq8G1mm1Xbh4mbbzae9omtkqhH5eedoFMe6iatrC6KC3lW5bUy6sUI709evlmrbNQ79jmtO5YaViA49WPOC+CxoekFXejdetkafiMd+nvTZbNyrCt9lI83EBfq0EtY/y6wXEms2PWZXpE099dOh6LTF+Tff+z0+NrHIeRNHL55MYrMZC2dlmde2PW2U1LQVBWfM4uo7Cvg3le8ANf3FBhsvw5Z+rSBBR6kRJDFEw0SsjSYU7wY3E/5iyGhEZ3+T8yKvthbdIO5CtddrxTM86lw=;O1nC9LUN322cL+nHP9qECA=="
 ---

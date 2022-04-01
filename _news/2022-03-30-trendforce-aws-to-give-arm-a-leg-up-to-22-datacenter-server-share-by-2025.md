@@ -30,7 +30,7 @@ related:
   - title: "TrendForce: AWS to give Arm a leg up to 22% of datacenter servers by 2025"
     excerpt: "The increasing adoption of Arm-compatible processors by cloud service providers is expected to grow the CPU architecture's penetration rate in datacenter servers to 22 percent by 2025, according to a report by Taiwan-based research firm TrendForce."
     publishedDateTime: 2022-03-29T19:55:00Z
-    webUrl: "https://www.theregister.com/2022/03/29/aws_arm_servers_datacenters/"
+    webUrl: "https://www.theregister.com/2022/03/29/aws_arm_servers_datacenters/?td=amp-keepreading-top"
     ampWebUrl: "https://www.theregister.com/AMP/2022/03/29/aws_arm_servers_datacenters/"
     cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/29/aws_arm_servers_datacenters/"
     type: article

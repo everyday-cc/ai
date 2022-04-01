@@ -9,7 +9,7 @@ ampWebUrl: "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-f
 cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -89,6 +89,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Winter Haven testing self-driving shuttle that could help its downtown flourish"
+    excerpt: "Haven, it’s an idea still heating up and one the city is still studying. Monday, commissioners approved a Memorandum of Understanding with COAST to begin studying the transit system and the feasibility of bringing it to Downtown Winter Haven full time."
+    publishedDateTime: 2022-04-01T12:38:00Z
+    webUrl: "https://www.abcactionnews.com/news/region-polk/winter-haven-testing-self-driving-shuttle-that-could-help-its-downtown-flourish"
+    type: article
+    provider:
+      name: ABC Action News
+      domain: abcactionnews.com
+    quality: 0
 
 secured: "N6aZVDIsm5A+E26+sBXfuveR5bAHTHbU49IhpTlGERzrK+FXm9toOg7vcPUhCgZ4qguH+XfzrkzHD+lybwFiO4ITGtZj0QCp/KBymses5Ze7zs2jMeZ2lBQq0e1DvB5QUaSlm4nVpk1+NMDwtrYJWx97LGfPMrIshz8Ifg0QDh/9tF99Q2VNtWLadS7rKPxrwk887GRRkrDAVX32UeIP1L+eWvXZUJdcSDrbBbcN9LSVns4YFB5HC2jGSKmuWmkyXWXJ6VMkeM/XbihZA9xahKTcOOJoLX/T27HC71F6hG5o2SyQJCPDEt68ToZHPl4aWQulOOwesTV+nt1Q3LZgM7vo+cNUSKZSRt+KG/oiM80Jtm0zautIkg2w4AN4TWEjIcTv/7Hm0kA4JEzPq/UMZs0ozdpoHa7wRKTQAIXq/JJqF2ZVjq3MeHEzPjktl/uns9ILbyGBjG/YqmUC6/X7gZnwPSGzOjYXKkroGwexx6Xvhn1Lp1tjYDQemXLU/FgruSDN0lof5qIymTAsuV4ljw==;A58rF3n+LHgNM/vm40+3eA=="
 ---

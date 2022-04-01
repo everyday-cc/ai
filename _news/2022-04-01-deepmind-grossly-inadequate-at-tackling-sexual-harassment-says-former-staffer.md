@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-01T01:14:00Z
 originalUrl: "https://www.theregister.com/2022/03/31/deepmind_harassment_open_letter/?td=rt-3a"
 webUrl: "https://www.theregister.com/2022/03/31/deepmind_harassment_open_letter/?td=rt-3a"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: theregister

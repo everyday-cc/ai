@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-26-sandia-researcher-starts-muslim-community-robotics-team.md",
+      "title": "Sandia Researcher Starts Muslim Community Robotics Team",
+      "excerpt": "A research scientist at Sandia National Laboratories, who started the nonprofit Itkan Institute of Technology, has formed four student-led robotics teams in North Texas in hopes of encouraging interest in STEM.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team",
+      "originalUrl": "https://www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/b52f988/2147483647/strip/true/crop/6000x3129+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F2e%2Ff5%2F10034c7d449ca15c150596324164%2Fmuslim-robotics.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team?_amp=true",
+      "publishedDateTime": "2022-03-25T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell.md",
       "title": "AI Weekly: Nvidia’s commitment to voice AI — and a farewell",
       "excerpt": "GTC conference, Nvidia redoubled its commitment to voice AI. In other news, reporter Kyle Wiggers announces he's leaving VentureBeat.",
@@ -663,26 +706,17 @@
       "title": "Supercomputer to train 176-billion-parameter open-source AI language model",
       "excerpt": "GTC BigScience – a team made up of roughly a thousand developers around the world – has started training its 176-billion-parameter open-source AI language model in a bid to advance research into natural language processing (NLP).",
       "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=keepreading-top",
-      "originalUrl": "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=keepreading-top",
+      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/03/25/supercomputer_language_ai/",
+      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/03/25/supercomputer_language_ai/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2015/07/31/shutterstock217132183.jpg",
-          "width": 648,
-          "height": 429,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/25/supercomputer_language_ai/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/25/supercomputer_language_ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-03-25T00:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1094,58 +1128,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-digits-aims-to-disrupt-fintech-with-real-time-analytics.md",
-      "title": "Digits aims to disrupt fintech with real-time analytics",
-      "excerpt": "Digits, a leading fintech platform, announced today that it has raised a series C funding round led by SoftBank, with participation from Benchmark and GV, reportedly bringing total funds raised to $97.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/",
-      "originalUrl": "https://venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1180543360.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/amp/",
-      "publishedDateTime": "2022-03-24T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

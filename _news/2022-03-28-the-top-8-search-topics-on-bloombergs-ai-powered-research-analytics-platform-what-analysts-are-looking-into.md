@@ -52,6 +52,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI-Augmented Analytics is Transforming Business Intelligence and Simplifying Data Complexity"
+    excerpt: "In this contributed article, Ajay Khanna, CEO & Founder of Tellius, highlights that when it comes to business intelligence and data analytics, AI is a driving a new wave of innovation called augmented analytics that makes it easier for individuals of all technical skill levels to analyze volumes of data to accelerate more valuable business insights."
+    publishedDateTime: 2022-04-01T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/04/01/ai-augmented-analytics-is-transforming-business-intelligence-and-simplifying-data-complexity/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 6
 
 secured: "MAyJAp8hlnt/cROVFJ5IP1u+qexU4P7xGAarWhLkhkzle+TmGQbZL+HBM/NPBCdnx1LQ4ZbbBZkCgs+MAkqo6HDO6YNe5xlzKuVYUIFbm82awIWLZZEk/2m+0q/ING6v9IRMSdLjuE9vFX7AbGNarTc53ZRq3c4KrzGlLODeNEEzy/soxcnIohg2G0D10L2LFbOT2R5jJbZEeOZCUke8/MmuvLeyj9RVvptXGRnyTWQo9SIXU/3pE6R4PMJIovVPDrf9sUtwJGRPSLsgpT+tdCPFmbyr9PTgyLajDCaM9ZJhWiQRG52tEuhbvgS+lfq8M7d7rbMR2Vf1Km4pqV9eUu8vs9A4mHCRIUrltQw8rjV3CYKNV4cznp7eo8+HBAVNOC3FT56+HzJQceRoiNXEP2hZq3GDAj4oR4il5gKwsKnZOA35k4Pa91x1H7ulIBJWOznHreM8w21runZf27jwHPYF86ZjmEGVQgfoUlBynOUq8gAx7jBOLELS9LKwxxyI3T59YtcCcEg6HHzZzI8l/A==;jTcBaxix+Y6Di3Xj3ST6oA=="
 ---

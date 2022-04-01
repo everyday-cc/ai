@@ -621,6 +621,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-27-are-dystopian-societies-always-flawless-and-meant-to-introduce-a-rebellious-character-who-will-pu.md",
+      "title": "Are dystopian societies always flawless and meant to introduce a rebellious character who will pu...",
+      "excerpt": "Are dystopian societies always flawless and meant to introduce a rebellious character who will put an end to it ? by Ana Goerrian 1. Types of Dystopias 1.1. Animal Farm. 1.1.1. bu",
+      "sourceUrl": null,
+      "webUrl": "https://www.mindmeister.com/2231619053/are-dystopian-societies-always-flawless-and-meant-to-introduce-a-rebellious-character-who-will-put-an-",
+      "originalUrl": "https://www.mindmeister.com/2231619053/are-dystopian-societies-always-flawless-and-meant-to-introduce-a-rebellious-character-who-will-put-an-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mindmeister.com/export/image/2231619053?height=600&t=4RmeP3jIMT&variable_size=1&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-26T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MindMeister",
+        "domain": "mindmeister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-26-chinas-latest-brainwave-controlling-space-robots-using-mind-power.md",
       "title": "China’s latest brainwave? Controlling space robots using mind power",
       "excerpt": "A device that can be controlled by a user’s brain has achieved unprecedented accuracy in tests and could be used at the Chinese space station, scientists say.",
@@ -1346,49 +1389,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-20-young-scientists-awards-for-school-students-bringing-innovation-to-ai-robotics.md",
-      "title": "Young Scientists Awards for school students bringing innovation to AI & Robotics",
-      "excerpt": "To make digital documents and online material more accessible to people who are blind, I have developed a 'Tactile Display' with the help of people who can read digital text and documents.”",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/young-scientists-awards-for-school-students-bringing-innovation-to-ai-robotics/",
-      "originalUrl": "https://analyticsindiamag.com/young-scientists-awards-for-school-students-bringing-innovation-to-ai-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/young-scientist-private.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-20T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-03-22-gigantor-technologies-provides-an-unbounded-future-for-ai.md",
+      "title": "Gigantor Technologies’ Provides an Unbounded Future for AI",
+      "excerpt": "Gigantor's newest innovation enhances Artificial Intelligence (AI) neural networks by enabling higher frame rates at the highest resolution (HD, 4K, and 8K). In the Patent Title, 'Unbounded ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/gigantor-technologies-provides-an-unbounded-future-for-ai/article_36a01318-5835-5e1e-ab3f-63bec027805d.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/gigantor-technologies-provides-an-unbounded-future-for-ai/article_36a01318-5835-5e1e-ab3f-63bec027805d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-icertis-launches-industry-first-contract-intelligence-solution-for-healthcare-providers.md",
       "title": "Icertis Launches Industry-First Contract Intelligence Solution for Healthcare Providers",
       "excerpt": "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced the launch of  (ICI) for Healthcare Providers. The industry-first CLM solution helps healthcare providers accelerate digital transformation by modernizing complex agreements such as payer,",
@@ -1131,49 +1174,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-supermicro-breakthrough-universal-gpu-system-supports-all-major-cpu-gpu-and-fabric-architectures.md",
-      "title": "Supermicro Breakthrough Universal GPU System - Supports All Major CPU, GPU, and Fabric Architectures",
-      "excerpt": "Simplifies Customer Deployments, Delivers Ultimate Modularity and Customization Options for AI, ML, and HPC SAN JOSE, Calif., March 21, 2022",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/supermicro-breakthrough-universal-gpu-system-supports-all-major-cpu-gpu-and-fabric-architectures-1031295157",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/supermicro-breakthrough-universal-gpu-system-supports-all-major-cpu-gpu-and-fabric-architectures-1031295157",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

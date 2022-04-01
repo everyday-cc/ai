@@ -67,6 +67,29 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Cognitive Services Market Size and Analysis, Trends, Recent Developments, and Forecast Till 2028"
+    excerpt: "Elevating demand for APIs to develop smarter applications, the increasing use of the service in the functioning of different industries are some of the factors boosting the cognitive services market."
+    publishedDateTime: 2022-03-28T12:30:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cognitive-services-market-size-and-analysis-trends-recent-developments-and-forecast-till-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 26
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/7db448fc881b6b5c26e8531765d0fd0eeb014838-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Cognitive Computing Market 2028 Industry Analysis, Trends, Market Size and Forecasts"
+    excerpt: "Key Companies Covered in the Cognitive Computing Market Research Report Are  3M, Google LLC, Hewlett Packard Enterprise Development LP, In"
+    publishedDateTime: 2022-04-01T13:44:00Z
+    webUrl: "https://menafn.com/1103949522/Cognitive-Computing-Market-2028-Industry-Analysis-Trends-Market-Size-and-Forecasts"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
 
 secured: "CHLQqIJd6z3aLCnXvc1hv6mnqnq6/sLAR2nOPK3Xh0eeymQt01WRsPyS3E60YJaXxx1KqoaNv/0zCBgdIl3tAztyWz7KRomCbcyz1JI6OLEH/7sayRkIhCTOwpWQxdHyBSytN8/UEGFdnujGG/DsWKObTex4pk0Cxafa+eje5A1GjRNA3Fal1Qfg1lb1xMT7ce8MMtcDQ6gJJGWqg5QSrOIA17SSfFlmExFpETzfo8TdQ9OzCy7/4fbdmOjE/SiEWF+v+qlsnaRr3SzA2z65OaGOMc6NEwi1NHD2u23NuW++Tfa89zoGMAXkBGgoyYNJzdpvqx1i3B5xeEyyTupO5xiJGmKMCCYyV89fJhXKIDmHue9APBH+Kc7lz3Fq4Gwkclk2hA/zYinxLmjqvaLqoD+kFfNYjgXXo/2GRz4zW1O+7HxRxEaBaaM6wAp8kks7sVlKkcNc32lSBvF68le5w/jtlwxelXRBOBem4xHfaxVUzsrVBM/5RNMW+7MsGVyvTsJmQzQass9JoZD3uoZmdw==;98duq3THqIKbzGIEbWtGLw=="
 ---

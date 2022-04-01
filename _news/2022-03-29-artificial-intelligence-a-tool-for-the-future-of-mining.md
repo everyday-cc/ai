@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence: A tool for the future of mining"
-excerpt: "More than $379,000 in funding will support the development of a new deep learning approach for processing geophysical information. QUÉBEC and MONTRÉAL, March 29, 2022 /CNW Telbec/ - Given the massive amounts of information that must be analyzed in"
-publishedDateTime: 2022-03-29T15:39:00Z
-originalUrl: "https://www.quebec.ca/en/news/actualites/detail/artificial-intelligence-a-tool-for-the-future-of-mining-38987"
-webUrl: "https://www.quebec.ca/en/news/actualites/detail/artificial-intelligence-a-tool-for-the-future-of-mining-38987"
+excerpt: "Given the massive amounts of information that must be analyzed in the early stages of mining exploration, data interpretation is a considerable challenge for geologists. Professor Erwan Gloaguen of Institut national de la recherche scientifique (INRS) and his research partners decided to take developments in this field a step further by adapting existing deep learning architectures to interpret data from airborne imagery."
+publishedDateTime: 2022-03-29T11:15:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
-  name: quebec
-  domain: quebec.ca
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Machine Learning
   - AI
 
-secured: "/M8ry2f6hEe03l5bJ1tT7AuIXmNp+kSLuSn6EBxOgGHwT8jrOh2zzYRchRT8zw40rpoBI8CjETQ4HNV7XsDCRuVFHPFj6vsSLobuf8obvFw/KhWNsjiuslPXsYd5yFDbH07XbmXcC0LLMb1jI2WxmiSOWflAdF7q4TcoiOk5OW3A+ERq2rVHLGP0aXb+l2tMIpTBj9TL4ZLe1Y3LOI2otQC0M3jwkbZaBSU2PIp9+3g7QdWW0lMY0e4BRQPMt2KVtpO/CLIO8WedWxuMr6gS2tkVU1cclfG+rkh6yOPjsroIMY144Ya43yXBowIGa5xd4AQnDeUg08//ouXWwWDw+x76iF5D6mFZd+aDIPj+gGpIW3tnRFDq5+uJc9VgNocT1I1SOhNojxQbLB6pHRccORfE5rz//IEu6IbB/5OznfhNKQCXSMoNgVeavbKTRHJJ7Zv/eECTvl2y1So1TCP0FkkLoB66wr+k64ZMWhLLFdSL5Zc25FqJj6QvXeia/nx2skx7X6uWJ+Lg4K1MN/Rgfw==;hDlV8DCv8+w5rDDmf2mupw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1775269/Institut_National_de_la_recherche_scientifique__INRS__Artificial.jpg"
+    width: 400
+    height: 315
+    isCached: true
+
+secured: "1aWw2jiyVEqZhnhEoxm8T+MZK6fqm4Dk+zA+JFpJ0YkYZRo3sJ3JzIPBgPANxRlrLazDBi3Yl0KL+0CP5YR8eIJafrMUfxBTgbgfU7gTrCU/zjfrNmgrGQ2e+/xegYQgDwoR36KbPq4USpexzNSshuizERreCi/6tgODUQdlP2r5Nz2kdHeBRaovGN2KGr3rorEFlH1KX9dTJjdfdbYJRuI9ZwpHqVHpnND6ot0XnIhzwics8L62uvqVLaKKGvfEVanBhhtNR9JFRa4JjyH6g4wWb0WWdvvoWWkyxM/0TDtLvjwjG146B9G3UPkLhn/KLZKLiBuziMmFlyQji8UPwTY48o8gkCvYTptFRuKrnFk=;9p+K/BG3YPqbwsqIQxMNJA=="
 ---
 

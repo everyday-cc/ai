@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-01T07:51:00Z
 originalUrl: "https://jerseyeveningpost.com/uncategorised/2022/04/01/meet-the-car-that-can-be-controlled-by-huaweis-mate-10-pro-smartphone/"
 webUrl: "https://jerseyeveningpost.com/uncategorised/2022/04/01/meet-the-car-that-can-be-controlled-by-huaweis-mate-10-pro-smartphone/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Jersey Evening Post

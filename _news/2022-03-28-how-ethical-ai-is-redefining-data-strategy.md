@@ -25,21 +25,97 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is creating a safer online world"
-    excerpt: "By using AI and ML algorithms to identify and categorize content, companies can identify and remove unsafe content as soon as it is created."
-    publishedDateTime: 2022-03-27T21:10:00Z
-    webUrl: "https://venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online-world/"
-    ampWebUrl: "https://venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online-world/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online-world/amp/"
+  - title: "Crafting Ethical AI That Monitors Unethical AI And Tries To Deter Bad AI From Acting Up, Useful Even For Exalted AI-Based Self-Driving Cars"
+    excerpt: "Let's use Ethical AI to oversee unethical AI, though this can be tricky and care is needed, which is illustrated via examples in the advent of AI-based self-driving cars."
+    publishedDateTime: 2022-03-28T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/03/28/crafting-ethical-ai-that-monitors-unethical-ai-and-tries-to-deter-bad-ai-from-acting-up-useful-even-for-exalted-ai-based-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/03/28/crafting-ethical-ai-that-monitors-unethical-ai-and-tries-to-deter-bad-ai-from-acting-up-useful-even-for-exalted-ai-based-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/28/crafting-ethical-ai-that-monitors-unethical-ai-and-tries-to-deter-bad-ai-from-acting-up-useful-even-for-exalted-ai-based-self-driving-cars/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 72
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1150416246.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/623126ba2e129e288514bf95/0x0.jpg?format=jpg&crop=2204,1652,x252,y0,safe&width=1200"
         width: 1200
-        height: 636
+        height: 899
+        isCached: true
+  - title: "Here’s Why AI Ethics Is Touting That Human-Centered AI Is Crucial To Our AI Symbiotic Existence, Such As The Advent Of Autonomous Self-Driving Cars"
+    excerpt: "The trend toward Human-Centered AI (HCAI) is important and here's why we need to make this happen, including too for the advent of AI systems such as autonomous self-driving cars."
+    publishedDateTime: 2022-04-01T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/01/heres-why-ai-ethics-is-touting-that-human-centered-ai-is-crucial-to-our-ai-symbiotic-existence-such-as-the-advent-of-autonomous-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/01/heres-why-ai-ethics-is-touting-that-human-centered-ai-is-crucial-to-our-ai-symbiotic-existence-such-as-the-advent-of-autonomous-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/01/heres-why-ai-ethics-is-touting-that-human-centered-ai-is-crucial-to-our-ai-symbiotic-existence-such-as-the-advent-of-autonomous-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62427f3c055f1d39bb6f0b2a/0x0.jpg?format=jpg&crop=3992,2661,x520,y0,safe&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Mercedes to accept legal responsibility for accidents involving self-driving cars"
+    excerpt: "Mercedes has announced that it will take legal responsibility for any crashes that occur while the self-driving system on any of its cars is engaged."
+    publishedDateTime: 2022-03-28T17:55:00Z
+    webUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/"
+    ampWebUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Sunday Times Driving
+      domain: driving.co.uk
+    quality: 39
+    images:
+      - url: "https://www.driving.co.uk/wp-content/uploads/sites/5/2021/09/SAE-levels-of-automation.jpeg?w=1000"
+        width: 1000
+        height: 680
+        isCached: true
+  - title: "Qure.ai raises $40M for AI-powered medical imaging diagnostics"
+    excerpt: "Qure.ai announced today that it closed a funding round worth $40 million as it looks to extend the global reach of its diagnostic offerings."
+    publishedDateTime: 2022-03-29T11:40:00Z
+    webUrl: "https://www.massdevice.com/qure-ai-raises-40m-for-ai-powered-medical-imaging-diagnostics/"
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 37
+    images:
+      - url: "https://939506.smushcdn.com/2491169/wp-content/uploads/2019/05/MDO_webAD_5-19_Vs1.jpg?lossy=1&strip=1&webp=1"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Scaling up plant-based products with artificial intelligence"
+    excerpt: "The Kraft Heinz Company and food tech start-up TheNotCompany, Inc. announced a joint venture designed to reimagine global food production and advance toward a more sustainable future."
+    publishedDateTime: 2022-03-30T19:07:00Z
+    webUrl: "https://www.foodengineeringmag.com/articles/100171-scaling-up-plant-based-proteins-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Food Engineering
+      domain: foodengineeringmag.com
+    quality: 37
+    images:
+      - url: "https://www.foodengineeringmag.com/ext/resources/eNews/2022/FE_Online-03-22-Heinz-theNOTCompany.jpg?height=635&t=1648667790&width=1200"
+        width: 900
+        height: 550
+        isCached: true
+  - title: "Infrared camera being developed in Montreal could let self-driving cars see through snow and fog"
+    excerpt: "Autonomous vehicles that “see” through snow and fog, cameras that can identify expired fruits and vegetables, and better toxic gas detectors are some of the potential applications of a technology being worked on by researchers at Polytechnique Montréal."
+    publishedDateTime: 2022-03-30T01:18:00Z
+    webUrl: "https://montrealgazette.com/technology/infrared-camera-being-developed-in-montreal-could-let-self-driving-cars-see-through-snow-and-fog"
+    ampWebUrl: "https://montrealgazette.com/technology/infrared-camera-being-developed-in-montreal-could-let-self-driving-cars-see-through-snow-and-fog/wcm/e5bc4c88-7dc3-42b0-acf8-65e9e0c8044a/amp/"
+    cdnAmpWebUrl: "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/technology/infrared-camera-being-developed-in-montreal-could-let-self-driving-cars-see-through-snow-and-fog/wcm/e5bc4c88-7dc3-42b0-acf8-65e9e0c8044a/amp/"
+    type: article
+    provider:
+      name: Montreal News
+      domain: montrealgazette.com
+    quality: 31
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/montrealgazette/wp-content/uploads/2022/03/1302193971.jpg"
+        width: 1000
+        height: 750
         isCached: true
 
 secured: "p1n00HKMMJkMfOLGYUBlrItyAETC9blGWRQ0N7lZ1dhJBLXiELmcZJbGTpwqfvSTye9aKcovfKS3TMlvYVUXSSzDJr9o5bjy92ltKY3lxyrhU2NFAfnslm3a4Mks7+bElGuFWRMPuzUXj8UI/2DQXYpMAtLwg8tLpteMZAHtwUD7E9wxRLHzIG2HBVpKz2I7BHZ8quS3LX2cMLS6HPnMl3zzBFTBf+nugVi02LMFzABntnRwiJvVXbFu1hPxKr1nKPuCZJ6fOGTtojyqqlkd1hSAQamzW9ZikR17z95WzpfN4VS3J2mc4YLg/oxw7HfcMuVof//4QprcYPHRheOdMxpdSFxKoo19qF0rIJIbM/brTVtqScM1RUQitODnrBpLKXgy7KMTT603+99YEWIRkgw6iFpKEjZMU9SAwjsAhFZ3Vh1jJYkCqhh8KpIOJTJvPRBAUDuh7D30OZodghq7GL4Xu0vquwv2X5s5X6ramVCS8LQsoy5lr9XrZMU2sRnrCJ/pxcGm7Asvm4/JgAj3Pw==;Ajn85IkDUPbY00mH+Dr67A=="

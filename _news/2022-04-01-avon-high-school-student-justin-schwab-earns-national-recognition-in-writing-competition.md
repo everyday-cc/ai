@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-01T12:30:00Z
 originalUrl: "https://www.morningjournal.com/2022/04/01/avon-high-school-student-justin-schwab-earns-national-recognition-in-writing-competition/"
 webUrl: "https://www.morningjournal.com/2022/04/01/avon-high-school-student-justin-schwab-earns-national-recognition-in-writing-competition/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Morning Journal

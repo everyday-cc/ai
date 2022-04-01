@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Single-Neuron-Based AI Reacts to the Human Voice"
+    excerpt: "Stemming from research conducted by two universities, the engineers developed an artificial neuron that eventually responded to conversations in the lab."
+    publishedDateTime: 2022-04-01T05:05:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21237552/electronic-design-single-neuronbased-ai-reacts-to-the-human-voice"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/03/Promo_Neuron_ED.62435f8061d88.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI on its way to replacing humans in hypersonic weapon design"
     excerpt: "The hypersonic missile is really such an example, where A.I. begins to take the wheel. This could lead to a \"Terminator\" style scenario of A.I. taking over control of critical military decision making thereby becoming an existential risk."
     publishedDateTime: 2022-03-28T12:05:00Z

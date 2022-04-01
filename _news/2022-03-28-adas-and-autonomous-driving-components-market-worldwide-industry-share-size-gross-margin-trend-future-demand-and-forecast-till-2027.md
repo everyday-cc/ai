@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Molecular Robots Market By Size, Share, Growth, Dynamic Analysis, And Forecast To 2030"
+    excerpt: "Comserve / -- The global molecular robots market is anticipated to garner a substantial CAGR over the forecast per"
+    publishedDateTime: 2022-03-28T17:08:00Z
+    webUrl: "https://menafn.com/1103925686/Molecular-Robots-Market-By-Size-Share-Growth-Dynamic-Analysis-And-Forecast-To-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 31
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?369614"
+        width: 429
+        height: 249
+        isCached: true
   - title: "Electronic Skin Market Share, Size, Key Players, Trends, Competitive And Regional Forecast To 2027"
     excerpt: "High demand for electronic skin in the healthcare sector to treat diabetes and cardiology diseases is driving market growth. NEW YORK, NY,"
     publishedDateTime: 2022-03-30T11:55:00Z

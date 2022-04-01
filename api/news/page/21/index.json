@@ -2,6 +2,41 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-03-14-hub-security-partners-with-enlitic-to-secure-health-data-enhance-patient-care-through-artificial-intelligence.md",
+      "title": "HUB Security Partners with Enlitic to Secure Health Data, Enhance Patient Care Through Artificial Intelligence",
+      "excerpt": "Artificial intelligence (AI) technology in healthcare requires secure patient data to reach its true potential. Healthcare providers have that data but have struggled to protect it. In 2021, the U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/business/press-releases/cision/20220314LN90671/hub-security-partners-with-enlitic-to-secure-health-data-enhance-patient-care-through-artificial-intelligence/",
+      "originalUrl": "https://www.kxan.com/business/press-releases/cision/20220314LN90671/hub-security-partners-with-enlitic-to-secure-health-data-enhance-patient-care-through-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-03-14-cognitive-cloud-market-poised-to-register-16-cagr-by-2023-cognitive-cloud-market-growth-analysis-and-covid-research-report.md",
       "title": "Cognitive Cloud Market Poised to Register 16% CAGR by 2023 | Cognitive Cloud Market Growth Analysis and COVID Research Report",
       "excerpt": "Market Synopsis The data analysts at Market Research Future Reports (MRFR) have revealed that the global cognitive cloud market is predicted to",
@@ -1070,58 +1105,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-12-conversational-ai-the-future-of-man-machine-singularity.md",
-      "title": "Conversational AI: The Future of Man-Machine Singularity",
-      "excerpt": "The social evolution on this planet has consumed several millennia. The languages we speak globally and interacting with people by understanding the context of discussions have far more refined and polished than what pre-historic humanoids used to practice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/conversational-ai-future-man-machine-singularity-alok-nayak",
-      "originalUrl": "https://www.linkedin.com/pulse/conversational-ai-future-man-machine-singularity-alok-nayak",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE_KpyNBndcXg/article-cover_image-shrink_720_1280/0/1647070382704?e=1653523200&v=beta&t=b16PG9_8vOWe-0ixNoRvrp3gxDrSbknDbwr4cIufnqs",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-11T23:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

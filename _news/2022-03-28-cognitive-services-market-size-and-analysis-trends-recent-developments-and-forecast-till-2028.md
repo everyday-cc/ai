@@ -25,90 +25,71 @@ images:
     isCached: true
 
 related:
-  - title: "Global Machine Learning Courses Market 2022 with Covid-19 Impact Analysis and Forecast by 2028"
-    excerpt: "MarketsandResearch.biz has presented a new market study on Global Machine Learning Courses Market 2022 by Company, Regions, Type and Application, Forecast to 2028 which delivers an executive-level market analysis that will help clients to build strategies to expand their market operations."
-    publishedDateTime: 2022-03-27T20:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-courses-market-2022-with-covid-19-impact-analysis-and-forecast-by-2028-2022-03-27"
+  - title: "Machine Learning Chips Market 2022 Size, Future Growth Factors, Top Industry Players, CAGR Value, Development, Forecast 2028"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” “Machine Learning Chips Market”"
+    publishedDateTime: 2022-03-29T07:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-chips-market-2022-size-future-growth-factors-top-industry-players-cagr-value-development-forecast-2028-2022-03-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Mobile Speech Recognition Software Market 2022 2028 Research Study Provides Projections of COVID-19 Pandemic in its New Report"
-    excerpt: "Global Mobile Speech Recognition Software Market 2022 by Company, Regions, Type and Application, Forecast to 2028 report has been recently issued by MarketsandResearch.biz. The study features the upcoming opportunities that can be tapped to penetrate the market or enhance the revenue share of the existing business."
-    publishedDateTime: 2022-03-29T19:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-mobile-speech-recognition-software-market-2022-2028-research-study-provides-projections-of-covid-19-pandemic-in-its-new-report-2022-03-29"
+  - title: "Military Robots Market, Revenue Growth, Key Factors, Major Companies, Forecast To 2028"
+    excerpt: "Reports and Data has recently published a novel report on global Military Robots market to provide a comprehensive analysis of historical and upcoming"
+    publishedDateTime: 2022-03-30T01:19:00Z
+    webUrl: "https://www.digitaljournal.com/pr/military-robots-market-revenue-growth-key-factors-major-companies-forecast-to-2028"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 31
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/7db448fc881b6b5c26e8531765d0fd0eeb014838-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Molecular Robots Market By Size, Share, Growth, Dynamic Analysis, And Forecast To 2030"
-    excerpt: "Comserve / -- The global molecular robots market is anticipated to garner a substantial CAGR over the forecast per"
-    publishedDateTime: 2022-03-28T17:08:00Z
-    webUrl: "https://menafn.com/1103925686/Molecular-Robots-Market-By-Size-Share-Growth-Dynamic-Analysis-And-Forecast-To-2030"
+  - title: "Artificial Intelligence Engineering Market Trends, Detail Analysis for Business Development, Growth Factors and Forecast"
+    excerpt: "The latest study provides an insightful analysis of the broad competitive landscape of the global Artificial Intelligence Engineering market, emphasizing"
+    publishedDateTime: 2022-03-29T13:08:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-engineering-market-trends-detail-analysis-for-business-development-growth-factors-and-forecast"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 29
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/15a44ea548b6d083a148f7c8b0969d98af09a227-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Computer Vision in Aerospace and Defense Market 2022 Size, Share, Growth Factors, Revenue, Recent Trends, Upcoming Demand and Forecast to 2028"
+    excerpt: "Global Computer Vision in Aerospace and Defense market report provides highest data such as opportunities, risk, prime challenges, technological advancement, development strategy,"
+    publishedDateTime: 2022-03-29T10:29:00Z
+    webUrl: "https://www.wicz.com/story/46174810/Computer-Vision-in-Aerospace-and-Defense-Market-2022-Size-Share-Growth-Factors-Revenue-Recent-Trends-Upcoming-Demand-and-Forecast-to-2028"
+    type: article
+    provider:
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 3
+    images:
+      - url: "https://ABSOLUTEREPORTS.images.worldnow.com/images/22424033_G.png?lastEditedDate=1648535342000"
+        width: 829
+        height: 373
+        isCached: true
+  - title: "Cognitive Computing Market 2028 Industry Analysis, Trends, Market Size and Forecasts"
+    excerpt: "Key Companies Covered in the Cognitive Computing Market Research Report Are  3M, Google LLC, Hewlett Packard Enterprise Development LP, In"
+    publishedDateTime: 2022-04-01T13:44:00Z
+    webUrl: "https://menafn.com/1103949522/Cognitive-Computing-Market-2028-Industry-Analysis-Trends-Market-Size-and-Forecasts"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 31
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?369614"
-        width: 429
-        height: 249
-        isCached: true
-  - title: "Facial Recognition Market 2022 Outlook, Current and Future Industry Landscape Analysis 2032"
-    excerpt: "According to a recent study done by FMI, the  Facial Recognition Market  is expected to reach US$ 22.5 billion by 2032, up from US$ 5.2 billion in 2022, expanding at a high CAGR of 15.7%. This study explains that increase in government investments in emerging technologies of CCTV cameras in most public places to minimize criminal activities and terrorist attacks"
-    publishedDateTime: 2022-03-30T07:25:00Z
-    webUrl: "https://www.fmiblog.com/2022/03/30/facial-recognition-market-2022-outlook-current-and-future-industry-landscape-analysis-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 29
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2022/03/FMI-4.jpg"
-        width: 1008
-        height: 504
-        isCached: true
-  - title: "Artificial Intelligence in BFSI Market Global Research, Top Leading player, Emerging Trends, Region by Forecast to 2028"
-    excerpt: "A new market study on the Artificial Intelligence in BFSI market applies both primary and secondary research techniques to identify new opportunities for"
-    publishedDateTime: 2022-03-30T11:13:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-bfsi-market-global-research-top-leading-player-emerging-trends-region-by-forecast-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 17
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-War-AFP-1K-01-1-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Machine Learning Market Growth Analysis, Segmentation, Size, Share, Trend, Future Demand and Leading Players Updates by Forecast to 2028"
-    excerpt: "Key Companies Profiled are Hewlett Packard Enterprise Development LP, SAS Institute, Inc., Amazon Web Services, Inc., SAP SE, Baidu ... increasing popularity of self-driving cars from the ..."
-    publishedDateTime: 2022-03-29T07:35:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-market-growth-analysis-segmentation-size-share-trend-future-demand-and-leading-players-updates-by-forecast-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 8
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/5993b720d9ef7071b8911094c233c01fc025ee40-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+    quality: 0
 
 secured: "jWtia597nbdIV1yXK/b8PlmSIktcqND/9RpvwNgUuut/27SbdxNoKsQj7Z0B8lIsWDYy5SSKoKoGrLVhAQ581D5jNrMRfxWjv+c6aUiV0zcFq0xGjBLlnLjLErqSEFOe1ct2Jk/HA8D4gmWPkIZklpSkUG9FGa/UO0U9JToIW8wlcyNMld7ENbPc05LwxUZaW2xZfDq6lNIr+Oksn8txIU2uplAYvHpVRRhv8rh44eJ7xAxlARhBW4dCyQYVQzXTcZ115CQTqxvnZHsyadCZxblSYIntO/+TrthNbwVGSavxYdD/2w8RT4yC3vsFWDzMgvaUxvPyzc3zJP7O0W0CgJ/tRzqWEewDtlND2vOFmqY=;EDODz5P0NDRN4l57EkNEfg=="
 ---

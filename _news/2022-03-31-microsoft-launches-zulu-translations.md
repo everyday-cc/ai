@@ -67,17 +67,6 @@ related:
         width: 800
         height: 520
         isCached: true
-  - title: "Lumeo announces the integration of the Microsoft Azure Face Service with vision AI models and analytics"
-    excerpt: "Lumeo, a designer of computer vision solutions, announces the integration of the Microsoft Azure Face Service with its ever-growing library of vision AI (Artificial Intelligence) models and analytics. The Azure Face Service provides AI algorithms that ..."
-    publishedDateTime: 2022-04-01T11:36:00Z
-    webUrl: "https://www.sourcesecurity.com/news/lumeo-announces-integration-microsoft-azure-face-co-14053-ga-co-14411-ga-co-1648794885-ga.1648805569.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/lumeo-announces-integration-microsoft-azure-face-co-14053-ga-co-14411-ga-co-1648794885-ga.1648805569.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/lumeo-announces-integration-microsoft-azure-face-co-14053-ga-co-14411-ga-co-1648794885-ga.1648805569.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 55
   - title: "Synopsys launches pay-as-you-go chip design and verification tools on Azure"
     excerpt: "Synopsys has picked Microsoft's Azure HBv3 cloud to offer pay-as-you-go on-line IC design and verification electronic design automation (EDA) tools, to be"
     publishedDateTime: 2022-03-31T08:19:00Z
@@ -103,6 +92,15 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
+  - title: "Lumeo announces the integration of the Microsoft Azure Face Service with vision AI models and analytics"
+    excerpt: "Lumeo, a designer of computer vision solutions, announces the integration of the Microsoft Azure Face Service with its ever-growing library of vision AI (Artificial Intelligence) models and"
+    publishedDateTime: 2022-04-01T11:37:00Z
+    webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/lumeo-announces-integration-microsoft-azure-face-co-14053-ga-co-14411-ga-co-1648794885-ga.1648805569.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 33
 
 secured: "+y4c6JA8MbqdG5O8GilsKIt/PAMceXTpnFolJccSePg6SvGIU+cLsyYQ5cjRB6OpaAgeFKBAW2tJAh9DXgY8Rvo3qg3PYB2Pp0uynlwDR/bPUbDNyvOm/+NEbTlHsroy4PO0WfMhg6pYXznk3il9ttydO5ZIEykjZ70vUl9kJ0fwdowTBY/E0MFWxIiZQQwOlH31FxD2RajswSTMJsz95kPEAHMYSUzUKU7kPFxG1Tcub/QZNvriE112p22iiRRWfDQ2evOgDY1b9cZtczDe+19zjeZku85idLCuJivh7FsAmiiWKF6mhuf1Q/BDQrK8XHR2v7bpKlRfqIGDd68gtlLAqK8Az/vC97tfOMIvFSA=;dkkM2lgUN7Q/ptQnR/sxLw=="
 ---

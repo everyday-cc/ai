@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103936250/Electronic-Skin-Market-Share-Size-Ke
 webUrl: "https://menafn.com/1103936250/Electronic-Skin-Market-Share-Size-Key-Players-Trends-Competitive-And-Regional-Forecast-To-2027"
 type: article
 quality: 10
-heat: 10
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Molecular Robots Market By Size, Share, Growth, Dynamic Analysis, And Forecast To 2030"
+    excerpt: "Comserve / -- The global molecular robots market is anticipated to garner a substantial CAGR over the forecast per"
+    publishedDateTime: 2022-03-28T17:08:00Z
+    webUrl: "https://menafn.com/1103925686/Molecular-Robots-Market-By-Size-Share-Growth-Dynamic-Analysis-And-Forecast-To-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 31
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?369614"
+        width: 429
+        height: 249
+        isCached: true
   - title: "ADAS and Autonomous Driving Components Market Worldwide Industry Share, Size, Gross Margin, Trend, Future Demand and Forecast till 2027"
     excerpt: "The rising number of government initiatives globally related to the safety of the vehicles coupled with the rising demand for safe and efficient vehicles"
     publishedDateTime: 2022-03-28T11:03:00Z

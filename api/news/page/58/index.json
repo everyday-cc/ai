@@ -2,6 +2,49 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-02-09-global-industrial-robotics-market-to-surpass-us-691-mn-by-end-of-2027-says-coherent-market-insights.md",
+      "title": "Global Industrial Robotics Market to Surpass US$ 69.1 Mn by end of 2027, Says Coherent Market Insights",
+      "excerpt": "According to Coherent Market Insights, The global industrial robotics market was valued at US$ 49.0 Mn in 2019 and is forecast to reach a value of US$ 69.1 Mn by 2027 at a CAGR of 6.4% between 2020 and 2027.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/02/08/9541431.htm",
+      "originalUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/02/08/9541431.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2019-aug/2411888530-keyboard-USB-laptop.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-new-chip-rewires-itself-like-the-brain-to-help-ai-learn-continuously.md",
       "title": "New Chip Rewires Itself Like the Brain to Help AI Learn Continuously",
       "excerpt": "On top of that, the devices can be manufactured using conventional chip fabrication technology. After testing the performance of individual devices, the researchers then used their data to create simulations of large networks of them. They used the ...",
@@ -1123,41 +1166,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-google-subsidiary-deepmind-goes-retro-to-push-ai-forward.md",
-      "title": "Google Subsidiary DeepMind Goes RETRO to Push AI Forward",
-      "excerpt": "have boosted the branch of artificial intelligence called natural language processing (NLP). But while the applications for NLP algorithms are myriad, they operate on text data, which makes them complex and expensive and often limits their usefulness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward",
-      "originalUrl": "https://www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward?amp",
-      "publishedDateTime": "2022-02-07T17:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI"
       ]
     }
   ],

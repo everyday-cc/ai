@@ -1,27 +1,21 @@
 ---
 category: news
 title: "The Global Artificial Intelligence in HR Market Will Grow to USD 17.61 Billion by 2027, at a CAGR of 35.26% - ResearchAndMarkets.com"
-excerpt: "The “Global Artificial Intelligence in HR Market (2022-2027) by Offering, Technology, Application, Industry and Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
+excerpt: "ResearchAndMarkets.com The \"Global Artificial Intelligence in HR Market (2022-2027) by Offering, Technology, Application, Industry and Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
 publishedDateTime: 2022-03-31T16:53:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-middle-east-artificial-intelligence-f316a3396a8e4a7cb554c5de1ee01bcf"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-middle-east-artificial-intelligence-f316a3396a8e4a7cb554c5de1ee01bcf"
+originalUrl: "https://www.morningstar.com/news/business-wire/20220331005896/the-global-artificial-intelligence-in-hr-market-will-grow-to-usd-1761-billion-by-2027-at-a-cagr-of-3526-researchandmarketscom"
+webUrl: "https://www.morningstar.com/news/business-wire/20220331005896/the-global-artificial-intelligence-in-hr-market-will-grow-to-usd-1761-billion-by-2027-at-a-cagr-of-3526-researchandmarketscom"
 type: article
-quality: 6
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Assistive Robotics Market Size Estimated to Reach USD 25.16 Billion at a CAGR of 22.1%, in 2028"
@@ -109,6 +103,6 @@ related:
         height: 337
         isCached: true
 
-secured: "yIy79uSxJx+474VZTIzD8vS6tGtLxWnLhs2Lj2tDSE8syo7kqJQ979XOxeczIEB/mXIOcs8lhUHIO4f6jEL0mYs5+/s9ei5AwR11+r51AOnLC2raoRDESkOQkgn0O5ALLSi+flmIWSmLtttOSuUw244JcVHglAObAZa1R0oEUB/xcvQmoRHkGjTwsdxgB4/BoQQJQ5p6xiX4PvK8RCGgdxpd3/IWVOVLC76LQOHqeBs7pWAgay14x8hXe4q3fSUHg/IDEudAFQc5u3TPJKXald3Mjtv80CUX4MNvwCKz5nlzTa6VpUQpaOoUUSVTAjLfqHIDc5D7NaeFCxEAH98oU9DUpjzDHd4v1Jq0nHyXOZ4=;IfhMbWRZQSQshl2oroegJQ=="
+secured: "a2dehCfKSTs+7x0Eyd/XantlVLgD0kDZN9L+/RU7svdEkCuOnKjI5vr8aQ5lgqlnFZoQwtQJvHgRh1RArvPGl4h3Xcd44cjf17/lOtVxrbaw6Wr5cOhdMO4nkOU9a2VoBc9zYwElrqcc+Sn122u9Irj3MaoROcGRO85hpRXToB+Mw8bEEKMuDLF5/bsojW3i7sYvJFvsvEMQ5Eg83DoIzQQDoFg2xL8V7iS+WZrgx2Kjkbascd+wOP0fMUwsC+duvIBAjYT9gjuyEbPX5f+TgA1GXHL6E67yejgW5HtFSlR3uJvTVpKpd0HTM/WmLJKIy9nHiW4FbNpQUT/UglkUeOiK2D3dPkux1whZpIdwVbQ=;IxCZReLSCtdWZfMmp/B9pw=="
 ---
 

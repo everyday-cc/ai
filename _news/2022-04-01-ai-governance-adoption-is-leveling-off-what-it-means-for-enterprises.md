@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-01T12:40:00Z
 originalUrl: "https://venturebeat.com/2022/04/01/ai-governance-adoption-is-leveling-off-what-it-means-for-enterprises/"
 webUrl: "https://venturebeat.com/2022/04/01/ai-governance-adoption-is-leveling-off-what-it-means-for-enterprises/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

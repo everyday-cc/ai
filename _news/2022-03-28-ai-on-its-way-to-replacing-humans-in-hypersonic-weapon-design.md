@@ -42,6 +42,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Single-Neuron-Based AI Reacts to the Human Voice"
+    excerpt: "Stemming from research conducted by two universities, the engineers developed an artificial neuron that eventually responded to conversations in the lab."
+    publishedDateTime: 2022-04-01T05:05:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21237552/electronic-design-single-neuronbased-ai-reacts-to-the-human-voice"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/03/Promo_Neuron_ED.62435f8061d88.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The military wants AI to replace human decision-making in battle"
     excerpt: "Through a new program, called In the Moment, the Defense Advanced Research Projects Agency (DARPA) wants to develop technology that would make quick decisions in stressful situations using algorithms and data,"
     publishedDateTime: 2022-03-30T06:04:00Z

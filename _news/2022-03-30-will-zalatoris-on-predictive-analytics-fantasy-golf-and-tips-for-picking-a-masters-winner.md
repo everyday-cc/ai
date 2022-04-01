@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/amp/"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI-Augmented Analytics is Transforming Business Intelligence and Simplifying Data Complexity"
+    excerpt: "In this contributed article, Ajay Khanna, CEO & Founder of Tellius, highlights that when it comes to business intelligence and data analytics, AI is a driving a new wave of innovation called augmented analytics that makes it easier for individuals of all technical skill levels to analyze volumes of data to accelerate more valuable business insights."
+    publishedDateTime: 2022-04-01T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/04/01/ai-augmented-analytics-is-transforming-business-intelligence-and-simplifying-data-complexity/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 6
 
 secured: "hZiDNzaVInaY72KtQCRem4bCoyjhZJ5fsIsccOhzoJQoRU6FlK+wz7shUGZwGy/WKp9bQLOlemyWDZ45kO5agZDZ7lA+ffzb3DsOSz1s4LCze7lAcN4f5X8RGCUGqXr81AsmBY5NNNQXiBCgsOi1t571oscE9WYTN3OM4JCPscOLv6kLQdxkfswrlZRNjzNHNaHB8HRgYFsmG6U5gnugygHQuHCJmQVOAuXI8ypGSkT6wLYezPaJGdY6T8a3+6w/yqf6WyB4TQ5xeRN9dOhZUiq617zp9IJU8irjEEhenWc7JOSmPbNEeb/x9ipE68a5U1kgc0x3zNGaRAh0BZhLsJbZhify+6o9rrRUuBvNXu4h317L3WRQM3wFMrTARnCgtyTDDyWfz1Vo6+C9GdSEOeQf9cshbuhJHxtAJ8kOpQWPpEY0XfvBIl5yI9c9d24EBIDddwF98ZBgi8Pzm06beYQ6htfJZ/BJTS6vcMtLX+PmA/XxI5nPfetvQmy4wWnxPXgUOL7Xf+o2fzY2pKLMBw==;tU3TWhtAFuTReHYJdDKMww=="
 ---

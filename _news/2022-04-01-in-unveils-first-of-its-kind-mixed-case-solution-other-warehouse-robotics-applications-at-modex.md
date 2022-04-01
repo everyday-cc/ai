@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-01T13:04:00Z
 originalUrl: "https://www.dcvelocity.com/articles/54265-in-unveils-first-of-its-kind-mixed-case-solution-other-warehouse-robotics-applications-at-modex"
 webUrl: "https://www.dcvelocity.com/articles/54265-in-unveils-first-of-its-kind-mixed-case-solution-other-warehouse-robotics-applications-at-modex"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: DC Velocity

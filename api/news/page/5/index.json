@@ -398,6 +398,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-27-are-dystopian-societies-always-flawless-and-meant-to-introduce-a-rebellious-character-who-will-pu.md",
+      "title": "Are dystopian societies always flawless and meant to introduce a rebellious character who will pu...",
+      "excerpt": "Are dystopian societies always flawless and meant to introduce a rebellious character who will put an end to it ? by Ana Goerrian 1. Types of Dystopias 1.1. Animal Farm. 1.1.1. bu",
+      "sourceUrl": null,
+      "webUrl": "https://www.mindmeister.com/2231619053/are-dystopian-societies-always-flawless-and-meant-to-introduce-a-rebellious-character-who-will-put-an-",
+      "originalUrl": "https://www.mindmeister.com/2231619053/are-dystopian-societies-always-flawless-and-meant-to-introduce-a-rebellious-character-who-will-put-an-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mindmeister.com/export/image/2231619053?height=600&t=4RmeP3jIMT&variable_size=1&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-26T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MindMeister",
+        "domain": "mindmeister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-27-how-to-avoid-buying-ai-based-marketing-tools-that-are-biased.md",
       "title": "How to avoid buying AI-based marketing tools that are biased",
       "excerpt": "If your marketing team is looking to buy an off-the-shelf AI-powered marketing product, ask the vendor these 5 questions first.",
@@ -1168,49 +1211,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-26-sandia-researcher-starts-muslim-community-robotics-team.md",
-      "title": "Sandia Researcher Starts Muslim Community Robotics Team",
-      "excerpt": "A research scientist at Sandia National Laboratories, who started the nonprofit Itkan Institute of Technology, has formed four student-led robotics teams in North Texas in hopes of encouraging interest in STEM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team",
-      "originalUrl": "https://www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/b52f988/2147483647/strip/true/crop/6000x3129+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F2e%2Ff5%2F10034c7d449ca15c150596324164%2Fmuslim-robotics.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team?_amp=true",
-      "publishedDateTime": "2022-03-25T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

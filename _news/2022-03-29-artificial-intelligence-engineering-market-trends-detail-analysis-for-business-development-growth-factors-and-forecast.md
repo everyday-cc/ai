@@ -53,6 +53,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Cognitive Services Market Size and Analysis, Trends, Recent Developments, and Forecast Till 2028"
+    excerpt: "Elevating demand for APIs to develop smarter applications, the increasing use of the service in the functioning of different industries are some of the factors boosting the cognitive services market."
+    publishedDateTime: 2022-03-28T12:30:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cognitive-services-market-size-and-analysis-trends-recent-developments-and-forecast-till-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 26
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/7db448fc881b6b5c26e8531765d0fd0eeb014838-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Computer Vision in Aerospace and Defense Market 2022 Size, Share, Growth Factors, Revenue, Recent Trends, Upcoming Demand and Forecast to 2028"
     excerpt: "Global Computer Vision in Aerospace and Defense market report provides highest data such as opportunities, risk, prime challenges, technological advancement, development strategy,"
     publishedDateTime: 2022-03-29T10:29:00Z
@@ -67,6 +81,15 @@ related:
         width: 829
         height: 373
         isCached: true
+  - title: "Cognitive Computing Market 2028 Industry Analysis, Trends, Market Size and Forecasts"
+    excerpt: "Key Companies Covered in the Cognitive Computing Market Research Report Are  3M, Google LLC, Hewlett Packard Enterprise Development LP, In"
+    publishedDateTime: 2022-04-01T13:44:00Z
+    webUrl: "https://menafn.com/1103949522/Cognitive-Computing-Market-2028-Industry-Analysis-Trends-Market-Size-and-Forecasts"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
 
 secured: "jwO9azuCE6mytWR7xs7aeInT2GvPsKRK0Peze1hwFqlFCgL8/8iV632xtOIOT009E/fgn6vPcSiEFqW8ugFsrhVlBWj3e6WMd6/y+0q4lGCBf9EvdJWHR3qwzXq7My/bs3a9ZDfKNk/Zl4ka/ZDDBdOizTJWLE9c5xnCwijRuYc1Iowm2AUzVSzDiBjTMWb9n/u3tZEgmMWUzJtOox/cAcXmFNRVlgNjVri0glIsWNdda3xZ2ojipNf/W+T+FkAX280JtqjnOcjn48KrJPhhBv2dHBP7Rj++c75Wz8JCR8ta4u85tYZtn4dE9BvlMsZBW7XdDiOJFRZOfYEkl1RDJQ+bxxH18ew/zbRGdtGfVxE=;YxaGSdOIlu/63L0dU+0QEw=="
 ---

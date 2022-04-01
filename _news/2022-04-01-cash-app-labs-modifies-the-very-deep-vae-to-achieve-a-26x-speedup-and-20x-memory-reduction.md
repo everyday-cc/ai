@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-01T13:13:00Z
 originalUrl: "https://syncedreview.com/2022/04/01/cash-app-labs-modifies-the-very-deep-vae-to-achieve-a-2-6x-speedup-and-20x-memory-reduction/"
 webUrl: "https://syncedreview.com/2022/04/01/cash-app-labs-modifies-the-very-deep-vae-to-achieve-a-2-6x-speedup-and-20x-memory-reduction/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: syncedreview

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "MetaBank makes investment in Advantage Payment Services"
-    excerpt: "Advantage Payment Services (APS), a leader in financial data management for top FinTech payments organisations, has received a strategic"
-    publishedDateTime: 2022-04-01T07:57:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/metabank-makes-investment-in-advantage-payment-services/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/03/Finovate-Spring_MPU-300x250-1.jpg"
-        width: 600
-        height: 500
-        isCached: true
   - title: "MetaBank makes strategic investment in Advantage Payment Services"
     excerpt: "Advantage Payment Services (APS), the leader in financial data management ... The next generation of automation leverages Artificial Intelligence and Machine Learning to further increase productivity and empower real-time risk management decisioning."
     publishedDateTime: 2022-03-31T18:12:00Z
@@ -53,6 +39,15 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "MetaBank Makes Investment in Advantage Payment Services"
+    excerpt: "APS, the leader in financial data management for major Fintech payments organizations, has received a strategic investment from MetaBank."
+    publishedDateTime: 2022-04-01T13:36:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/04/189208-metabank-makes-investment-in-advantage-payment-services/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
 
 secured: "yiHcx5FslPVFarsXgdqRRkHdQ7LWulh7Ct2YqGZ2efdQ1Gp7FREpxBxywFT1v/6EXdFas5G7JlKBY8QXUOPJ3nwEOrFEj5HA8omsJX70GbCFr/kpUlmG4XKAXnUlYewZ05pVq1Z8l5i52yPyYVe729Eu6wMYDyl0ct0llGM1Qx1Mb64QccF2rPqsKzBbXt9/ZHf0d8wCsv51JRTPwQzzHbxoyycNuUJlCAGeLmLKiXQAOyJK42Esgf3r3LLPhUwuR4GOx5EhMkqUYvbJbuO3wSTpltISvGdhW9F1F1cSyUbqib52DyxjpjY5CxnmsmwMAfAodYweBMIW9niDxIr6UaLeawrfv+JqyKBsWvHYe+C/5RwqvTJVWWvac70Eio5Tw2ubx8A/HI12wXBZjtqf2phQW9kzgSypGyazlolvclPdAcOwzGqltNItXLfX4b6a2q61FO4jK1gv/gps1oStUYCclyXyzhQnRFwJVZ40knYy4/HBvzL0voOrE65NLLfzAomlF3HrSg3ewv5hLkHMTg==;FHbVBYBlhbA+5PdsVPZrOw=="
 ---

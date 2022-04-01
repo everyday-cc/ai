@@ -60,6 +60,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Facial Recognition Market 2022 Outlook, Current and Future Industry Landscape Analysis 2032"
+    excerpt: "According to a recent study done by FMI, the  Facial Recognition Market  is expected to reach US$ 22.5 billion by 2032, up from US$ 5.2 billion in 2022, expanding at a high CAGR of 15.7%. This study explains that increase in government investments in emerging technologies of CCTV cameras in most public places to minimize criminal activities and terrorist attacks"
+    publishedDateTime: 2022-03-30T07:25:00Z
+    webUrl: "https://www.fmiblog.com/2022/03/30/facial-recognition-market-2022-outlook-current-and-future-industry-landscape-analysis-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 29
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2022/03/FMI-4.jpg"
+        width: 1008
+        height: 504
+        isCached: true
 
 secured: "yEuDkcOdKA/vsJ+wKuVVRNmzEuudUtC5iLmaCCFd++3szZb9bOkqpoLWhOUyvebjpqAUT3/ymvAMipyBZluKkQxDIGJ8B+vnGZSB4kB8HSYLJd2cjsHvH6LfPKTJ2b/JIESChGIKUTftED1FxPd7hVKb40XdWKsZ2IzTF47PzuDtowq2vIhcDt92gwbScN86bJxFqPkFpEiaEmTYFx8aEEC9zSagmeH5DaluD+Pn8I7HDbs8BnSOE4Ay1WY37wF+dw1tWHZ2jVWN04SiM6WZNgYOi2maRsDzOooroAPXP+sBvq/+9EZ2s2nsOygAcR/5PAD8zGYSbuXnaGK3UTnBUJvDGo2QB7onuqbK9FAp4js=;t/RBAEykFDUIjGkDxhjf8g=="
 ---

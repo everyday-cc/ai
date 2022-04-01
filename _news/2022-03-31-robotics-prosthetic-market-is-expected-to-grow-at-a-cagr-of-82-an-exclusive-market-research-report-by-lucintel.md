@@ -96,19 +96,14 @@ related:
         height: 337
         isCached: true
   - title: "The Global Artificial Intelligence in HR Market Will Grow to USD 17.61 Billion by 2027, at a CAGR of 35.26% - ResearchAndMarkets.com"
-    excerpt: "The “Global Artificial Intelligence in HR Market (2022-2027) by Offering, Technology, Application, Industry and Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
+    excerpt: "ResearchAndMarkets.com The \"Global Artificial Intelligence in HR Market (2022-2027) by Offering, Technology, Application, Industry and Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2022-03-31T16:53:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-middle-east-artificial-intelligence-f316a3396a8e4a7cb554c5de1ee01bcf"
+    webUrl: "https://www.morningstar.com/news/business-wire/20220331005896/the-global-artificial-intelligence-in-hr-market-will-grow-to-usd-1761-billion-by-2027-at-a-cagr-of-3526-researchandmarketscom"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 6
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "Jh0aL2AJaVl9nfvKInSE6zl4PqLuARvnz2+fRZVTwu/+p5XLSMtUgseqyfdmoZjz9HARX+pKBeRSWTlsqlry/q6AXUxHjEEJHwqhtuJkw2q/munme5ZGGfQ2POA0vZQBdp19KFQ0WMQY5GBmgLrjkqiJ3cyksbfAlfRuj+1F6O8S1xGr9lSC77RCc2akL5xPRmNJkGsgG3Hvpnfm/wcN2tVtvd3zAgYpX6FJW+kfbTLfpNzZuyRMGtnTpD8xIcFNmroM7nAwWDNojjNY3YJB0fXDWKgQTONqDhPIEjx9cXBBfTyTd+9EVhEfSv+YrKQAMH+sxjZwmMVdgjZotHsshDuabLXfo5PvYhbhYENV6TS0usX8neSQx623KnuVgFwjsa5MskyNhv/sYBFfCUSyefVor2PDbxIAyE7Ta44qre7IfI9Il11mHLW0gyhU0fVL6GLOprt8cYmYrW4lBb5t6RRa7FEA3u7Y5z6bYZKp/8IDD0GiNrs4n3eqG5kXyQWYygKW1DE7tIHkKdgdhV6miQ==;9/hnGJhJlZuOzSngIMCL5w=="
 ---

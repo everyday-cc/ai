@@ -54,20 +54,6 @@ related:
         width: 3397
         height: 3492
         isCached: true
-  - title: "Breaking into the black box of artificial intelligence"
-    excerpt: "In February 2020, with COVID-19 spreading rapidly around the globe and antigen tests hard to come by, some physicians turned to artificial intelligence (AI) to try to diagnose cases 1. Some researchers tasked deep neural networks — complex systems that are adept at finding subtle patterns in images — with looking at X-rays and chest computed tomography (CT) scans to quickly distinguish between people with COVID-based pneumonia and those without 2."
-    publishedDateTime: 2022-03-29T14:28:00Z
-    webUrl: "https://www.nature.com/articles/d41586-022-00858-1?error=cookies_not_supported&code=b416cd61-ab8f-4dea-a6f7-c76c01e7969f"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-00858-1/d41586-022-00858-1_20249634.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "About AI on the rise"
     excerpt: "A series exploring how the pandemic has supercharged the use of artificial intelligence tools at work and school"
     publishedDateTime: 2022-03-29T19:32:00Z
@@ -79,6 +65,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 37
+  - title: "Breaking into the black box of artificial intelligence"
+    excerpt: "In February 2020, with COVID-19 spreading rapidly around the globe and antigen tests hard to come by, some physicians turned to artificial intelligence (AI) to try to diagnose cases 1. Some researchers tasked deep neural networks — complex systems that are adept at finding subtle patterns in images — with looking at X-rays and chest computed tomography (CT) scans to quickly distinguish between people with COVID-based pneumonia and those without 2."
+    publishedDateTime: 2022-03-29T14:28:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-00858-1"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 19
 
 secured: "VyfcwOZhMzi0o31tm1EhbdmK/BY31PKtuWE4Oua3fJzh1O1Rf1I9UJDZd66ZkeLM78QJfj9PN3oR4RyYozRIeypoiYtle6Fll1AsVywuj4tVlAXrSoX+IitTFsIHe4zL9AF0wPxntMocykcK+3W9HJHc89OI/mxFM7cSLNbxrmClhPw+Hw3CeNuhoiePA/Deovi1I/kJy/zqbH+1E9IhJX0euxKHZix/mOrbgNWhDwVsLFeVCSoc2dSaCgDqvx8GIbsZFLtr1Q5A2C7CAoO5Z0/M2a8Nl4pllP0dEMp2TplJLVz9gacUc7n5C1pLOu5ElMiKA2U7V1DEaGGEhpRyP7U3ahkt0FWJfq9dl8xxdet2KUnU4Hy3A2s0BsGMp6cOF67CcTeX1jQPq2AHioOLdgKzqgg9t273Yv6ILd2fOFpUAmQqM1Xo2RMStmr9N4lVw72MDxRWOhUcx8Tj4dt7VJhVu403+HY1Su3k8nZ3ind4ofdT0gBmy+l1xr4w5dqHsI3cPrGLLZiPOj7uY2u+Dg==;fmDG48QgDWgE656VM4uo3Q=="
 ---

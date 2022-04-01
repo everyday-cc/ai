@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-01T13:22:00Z
 originalUrl: "https://www.cmswire.com/customer-experience/5-best-practices-for-using-ai-in-your-cx-strategy/"
 webUrl: "https://www.cmswire.com/customer-experience/5-best-practices-for-using-ai-in-your-cx-strategy/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: CMS Wire

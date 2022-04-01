@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 616
         isCached: true
+  - title: "Oracle cranks up MySQL HeatWave’s thermostat for in-database machine learning"
+    excerpt: "In making its move to becoming a serious competitor in the MySQL space, Oracle took the database in a unique direction with HeatWave: It optimized for analytics in addition to transaction processing by taking advantage of MySQL’s support for pluggable storage engines."
+    publishedDateTime: 2022-04-01T12:35:00Z
+    webUrl: "https://venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/"
+    ampWebUrl: "https://venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 88
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/08/Oracle-e1617192273881.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Oracle releases new machine learning integrations with its MySQL HeatWave cloud service"
     excerpt: "Oracle MySQL HeatWave now supports in-database machine learning (ML) in addition to the previously available transaction processing and analytics—the only MySQL cloud database service to do so. MySQL HeatWave ML fully automates the ML lifecycle and stores all trained models inside the MySQL database,"
     publishedDateTime: 2022-03-30T08:59:00Z
