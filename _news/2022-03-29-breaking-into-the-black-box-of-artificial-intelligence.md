@@ -3,10 +3,10 @@ category: news
 title: "Breaking into the black box of artificial intelligence"
 excerpt: "In February 2020, with COVID-19 spreading rapidly around the globe and antigen tests hard to come by, some physicians turned to artificial intelligence (AI) to try to diagnose cases 1. Some researchers tasked deep neural networks — complex systems that are adept at finding subtle patterns in images — with looking at X-rays and chest computed tomography (CT) scans to quickly distinguish between people with COVID-based pneumonia and those without 2."
 publishedDateTime: 2022-03-29T14:28:00Z
-originalUrl: "https://www.nature.com/articles/d41586-022-00858-1"
-webUrl: "https://www.nature.com/articles/d41586-022-00858-1"
+originalUrl: "https://www.nature.com/articles/d41586-022-00858-1?error=cookies_not_supported&code=b416cd61-ab8f-4dea-a6f7-c76c01e7969f"
+webUrl: "https://www.nature.com/articles/d41586-022-00858-1?error=cookies_not_supported&code=b416cd61-ab8f-4dea-a6f7-c76c01e7969f"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: nature.com
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -81,6 +80,6 @@ related:
         height: 756
         isCached: true
 
-secured: "KAD4gkNiVytjeh9doi8zP1q6t2fNJ4bvo5wVhwx2Rr3+T9aWK/VcJ4+ANeOJ86F8B94M8DYXF4nuW6dtxVQaeHqVTuBJmc8FNGa4D+vqRIZNhqCs0MqDQNB/NiuHSQRAmFR3g/IwG4jp48GAe1gfl7ej5HzLUu4S4RHIU4ojeNpU77chTH0KsKYwhocS921L3o1sZimB10BpPMp0mm1RS0BrmnieBsiigApw+tO+1RaghQjJ+sJBOcqe68McqPg4PYNi4bgv+Dnf3H08VTosXjb+LtPLab5KlPYcwHoFY2rPGF+q78Ks/85OldP8tgVsWftoIi9oAHTg123j1a802MPPZqZopoSPqYQxdjg8jG4=;FQKdl1WP3ECBIMiWlIKj6Q=="
+secured: "Of4IhNPPhDTn/3Td9rdvrGv9zseocebW5mBM0H5bbxcRrqVq/i9G8Ctonz7rKCFcjAH4znTcKU8OaQK+IYu5fvpqD1guH44zwn4cnx5HAKna6eYG9ipZaoZ+iIk6uHWuFNCtm5x48Am16RFmr0yON93eq3IPCFtqYNdim772vBXtuvAgFSE0kqEu4DFxnVws18Lx7E8qKCr91GbIAR/fleYnWhTu/bMXF0GKMggtwMSlzhyl8sX874psVDoU9QlIEhojO1s0GA4Q8t+U/AnwZ8gvrYXqZ0RkKODChwoYOmznmE8a4kbHrSSGqfyu3BwyQCf+ShBHux3nmqFbzvckW2q+VC87eT/G3oIp5xhFREU=;we0qLrlqy/ctAY5yWVUMjw=="
 ---
 

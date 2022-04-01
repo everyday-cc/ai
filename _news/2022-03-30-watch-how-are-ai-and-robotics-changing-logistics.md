@@ -41,6 +41,20 @@ related:
         width: 705
         height: 435
         isCached: true
+  - title: "Scientists use AI and robotics to repair spinal injury symptoms"
+    excerpt: "A team at Rutgers University have figured out how to regenerate tissue for spinal injury symptoms - using AI to create therapeutic proteins"
+    publishedDateTime: 2022-04-01T11:43:00Z
+    webUrl: "https://www.openaccessgovernment.org/scientists-use-ai-robotics-repair-spinal-injury-symptoms/133041/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 69
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/04/RN-spinal-cord-AI.jpg"
+        width: 468
+        height: 311
+        isCached: true
 
 secured: "WYy+Y8xcwOfwBiTgQciaVfpvNlKNV8C+9aqdsHmQ4KWB2CIM0koIz8xAIkbHp/2nJ5eJXk1I0MdwLtq37IquHYrFNeNuLOzoxGfcGPP05pQbkI6UBfsNueNMzPUlQxiv1tSqehbA222RbF6cDjX8an0zEUXeicxbmSmKbTXBhGfPYXUaNSTQvHnQc28A3gqhelpf+/3R5EP0c+k6Y5obYPzoo4H4dcVmsK5bcDsYjj0AINmOMVAoQRPQucof5ZumR4x5UVnherUDgHToS6Vti3IAAq9+LcTCDrXr+zuKxZBwFPAUgJS4ua/ltVCeGiwDQlmmWEavIz+vIOCzBiNJi5rxHLfSfk9iEjzg8sRECTfzLlfTzf9lS0u7GtCD8XrOAx/RrrGRY0MeBTNj5+i5P+wUgcHpPM6oI6kLb4U/9m6Cp2519REW8BP2/HDFbVeNrkzBeL2KRS0PHR3gOUzKEkgRZ9Zifzhl2E9niIiOio6p2hzLXankfQ63qGcCbEXOklzKCWY3NMdrarmk/HAhTw==;kLKtP7oDVvY555WVY4WWkA=="
 ---

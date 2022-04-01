@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-01T09:28:00Z
 originalUrl: "https://www.businessinsider.com/how-to-make-career-change-machine-learning-2022-3"
 webUrl: "https://www.businessinsider.com/how-to-make-career-change-machine-learning-2022-3"
 type: article
-quality: 21
-heat: 21
+quality: 23
+heat: 23
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://i.insider.com/59026ae27dea7220328b496e?width=1200&format=jpeg"

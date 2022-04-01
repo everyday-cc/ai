@@ -9,7 +9,7 @@ ampWebUrl: "https://www.iol.co.za/amp//technology/complex-questions-as-face-reco
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp//technology/complex-questions-as-face-recognition-tech-joins-ukraine-invasion-9c034c51-35e9-4050-b997-6f2148442974"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://image-prod.iol.co.za/resize/650x366/FILE-Ukraine-is-employing-face-recognition-technology-to-identify-invading-Russian-troops-killed-on-its-soil-a-complex-and-unprecedented-avenue-for-software-already-seen-as-problematic-experts-said?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/0d4097e4-fe51-5f08-bb03-70af3e4ce0cc&operation=CROP&offset=0x29&resize=1920x1080"
         width: 650
         height: 366
-        isCached: true
-  - title: "Ukraine using face recognition technology to identify dead Russian soldiers"
-    excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problemati"
-    publishedDateTime: 2022-03-27T18:23:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ukraine-using-face-recognition-technology-to-identify-dead-russian-soldiers-71648369627325.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ukraine-using-face-recognition-technology-to-identify-dead-russian-soldiers-71648369627325.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ukraine-using-face-recognition-technology-to-identify-dead-russian-soldiers-71648369627325.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 72
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2022/03/27/1600x900/AP03-27-2022-000198A-0_1648390968165_1648391000601.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Complex questions as face recognition tech joins Russia-Ukraine conflict"
     excerpt: "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said Thursday (March 24)."
