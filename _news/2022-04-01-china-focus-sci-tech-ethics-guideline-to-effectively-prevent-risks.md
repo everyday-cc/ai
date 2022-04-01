@@ -27,17 +27,17 @@ images:
 related:
   - title: "Sci-tech ethics guideline to effectively prevent risks"
     excerpt: "China's first national guideline on the ethical governance of science and technology will effectively prevent potential risks that could arise from sci-tech development, according to senior officials from the Ministry of Science and Technology."
-    publishedDateTime: 2022-04-01T07:41:00Z
-    webUrl: "https://english.news.cn/20220401/609f730fa3eb45b5ab2646f895c9bccc/c.html"
+    publishedDateTime: 2022-04-01T05:29:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202204/01/WS62468da5a310fd2b29e54abd.html"
     type: article
     provider:
-      name: China
-      domain: news.cn
+      name: China Daily
+      domain: chinadaily.com.cn
     quality: 39
     images:
-      - url: "https://english.news.cn/20220401/609f730fa3eb45b5ab2646f895c9bccc/20220401609f730fa3eb45b5ab2646f895c9bccc_de9a616c-0815-4766-afb0-cf4aa543692c.jpg"
-        width: 900
-        height: 600
+      - url: "http://img2.chinadaily.com.cn/images/202204/01/62468da5a310fd2bec803fb6.jpeg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "/YQtwkm2T4fXTSVsqAo8fCbleGSiirEZJoLRlSyWDObgyiDMivlkxSxZ1k3yNYXTzPAJFunwxtxv3nOrtr+8sm2H7d0BAkZaa4goHoX9AHGg3VJVysJvcmjhiGt+R+7XgxpfliNWpijHxFkIAFeNVAerkbGHE7ZISZL6xkhVjgM6GQJxs+WaGx0F3yZQcxFA0FIZNIhxMOvZ2yazSPrrWh4vNGuCZVl0ov9WcfssnWVBaLCkyBZ7z+s9g8Ww8TnlzP4YFhWbhojKgDt2l2z9uWg+vpLXV7rDPSN3zrU+K3BD6N8HZvRzH8aG9YzP7Ix5J9s/Engc9dPwuGsyIyCa/m6v6OzWEzXg35Cec9awdg0=;NmUxyRTE0u+f06pzoaqrYA=="

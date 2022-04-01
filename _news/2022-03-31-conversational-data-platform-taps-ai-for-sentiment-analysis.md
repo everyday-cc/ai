@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/31/conversational-data-platform-taps
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/AIM-illustrations.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "The Role of AI in Conversational Commerce"
+    excerpt: "Artificial intelligence (AI) plays a crucial role in conversational commerce by providing businesses advanced chatbots and virtual assistants to engage in a personalized way with customers."
+    publishedDateTime: 2022-04-01T09:42:00Z
+    webUrl: "https://www.bbntimes.com/companies/the-role-of-ai-in-conversational-commerce"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 37
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Role_of_AI_in_Conversational_Commerce.jpeg"
+        width: 1024
+        height: 600
         isCached: true
   - title: "Conversational Artificial Intelligence (AI) Market to 2028: Growth Analysis by Manufacturers, Regions, Types and Applications"
     excerpt: "The global conversational Artificial Intelligence (AI) market size reached USD 4.91 Billion in 2020 and is expected to register a CAGR of 22.6%, during"

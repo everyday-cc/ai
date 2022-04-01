@@ -2,6 +2,39 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-29-envista-obtains-510k-fda-clearance-for-ai-mandibular-nerve-tracing.md",
+      "title": "Envista Obtains 510(k) FDA Clearance For AI Mandibular Nerve Tracing",
+      "excerpt": "Envista Holdings Corp. (NVST) said that it has received the 510(k) Food and Drug Administration clearance for its Assisted Intelligence (AI) mandibular nerve tracing feature in its image acquisition and diagnostic software platform DTX Studio Clinic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/envista-obtains-510k-fda-clearance-for-ai-mandibular-nerve-tracing",
+      "originalUrl": "https://www.nasdaq.com/articles/envista-obtains-510k-fda-clearance-for-ai-mandibular-nerve-tracing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/envista-obtains-510k-fda-clearance-for-ai-mandibular-nerve-tracing?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/envista-obtains-510k-fda-clearance-for-ai-mandibular-nerve-tracing?amp",
+      "publishedDateTime": "2022-03-28T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-tsa-continues-facial-recognition-rollout-at-airports.md",
       "title": "TSA Continues Facial Recognition Rollout at Airports",
       "excerpt": "For five years, the Transportation Security Administration has tested facial recognition technology at select airports as a method to automate identity verification at checkpoints.",
@@ -488,48 +521,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-28-african-governments-must-embrace-artificial-intelligence-dr-kpodar.md",
-      "title": "African Governments must embrace Artificial Intelligence – Dr. Kpodar",
-      "excerpt": "African Governments must embrace Artificial Intelligence AI Dr. Chris Kpodar, Chief Technical Advisor, Centre for Greater Impact Africa, CGIA has stated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernghana.com/news/1148074/african-governments-must-embrace-artificial-intell.html",
-      "originalUrl": "https://www.modernghana.com/news/1148074/african-governments-must-embrace-artificial-intell.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.modernghana.com/images/content/328202210514-k5fri7u2h0-dr-kpodar-third-from-left-with-other-officials-.jpg",
-          "width": 800,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernghana.com/amp/news/1148074/african-governments-must-embrace-artificial-intell.html",
-      "cdnAmpWebUrl": "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1148074/african-governments-must-embrace-artificial-intell.html",
-      "publishedDateTime": "2022-03-28T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Modernghana.com",
-        "domain": "modernghana.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-28-why-ai-democratization-will-bring-more-power-to-the-enterprise.md",
       "title": "Why AI democratization will bring more power to the enterprise",
       "excerpt": "Using techniques like natural language processing (NLP) and neural networking, AI will very likely bring an end to the graphical user and even command line interfaces, which require a fair amount ...",
@@ -726,7 +717,7 @@
       "originalUrl": "https://newatlas.com/photography/nvidia-instant-nerf/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {

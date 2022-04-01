@@ -108,6 +108,20 @@ related:
         width: 750
         height: 499
         isCached: true
+  - title: "Intel to acquire cloud optimization startup Granulate"
+    excerpt: "US chipmaker Intel plans to acquire Granulate Cloud Solutions in a deal expected to close in the second quarter of 2022. Israel-based Granulate develops real-time continuous optimization software for the cloud and data center,"
+    publishedDateTime: 2022-04-01T09:24:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/intel-to-acquire-cloud-optimization-startup-granulate/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 22
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/IntelLogo.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Intel acquires infrastructure optimization startup Granulate for a reported $650M"
     excerpt: "Intel Corp. is acquiring Granulate Cloud Solutions Ltd., a startup that uses artificial intelligence to help companies speed up their applications and reduce infrastructure costs. Intel announced the deal this morning."
     publishedDateTime: 2022-03-31T17:26:00Z

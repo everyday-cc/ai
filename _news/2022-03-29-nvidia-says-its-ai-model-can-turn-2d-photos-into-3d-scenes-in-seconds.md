@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NVIDIA’s Tiny New AI Transforms Photos Into Full 3D Scenes in Mere Seconds"
-    excerpt: "NVIDIA says their 3D scene rendering AI runs up to 1,000 times faster than older models without sacrificing image quality."
-    publishedDateTime: 2022-03-27T16:10:00Z
-    webUrl: "https://singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/"
-    ampWebUrl: "https://singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/03/27/nvidias-tiny-new-ai-transforms-photos-into-full-3d-scenes-in-mere-seconds/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 57
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/03/nvidia-andy-warhol-tribute-black-sweater-polaroid-camera.jpeg"
-        width: 1068
-        height: 601
-        isCached: true
   - title: "New AI technology turns 2D pics into 3D scenes"
     excerpt: "When the first instant photo was taken 75 years ago with a Polaroid camera, it was groundbreaking to rapidly capture the 3D world in a realistic 2D image. Today, AI researchers are working on the opposite: turning a collection of still images into a digital 3D scene in a matter of seconds."
     publishedDateTime: 2022-03-29T09:48:00Z

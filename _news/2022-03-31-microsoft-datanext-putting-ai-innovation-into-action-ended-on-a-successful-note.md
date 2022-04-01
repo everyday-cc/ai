@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft selects AI start-ups to accelerate progress on environmental sustainability"
+    excerpt: "Companies focused reducing carbon emissions and waste, preserving water and protecting ecosystems will join Microsoft’s Accelerator."
+    publishedDateTime: 2022-04-01T08:57:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2022/04/01/microsoft-selects-ai-start-ups-to-accelerate-progress-on-environmental-sustainability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 47
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/68/2022/03/MicrosoftTeams-image-11-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
   - title: "Artificial Intelligence-Emotion Recognition Market Is Booming Worldwide | Microsoft, Softbank, Realeyes"
     excerpt: "JCMR recently introduced Artificial Intelligence-Emotion Recognition study with focused approach on market size & volumes by Application,"
     publishedDateTime: 2022-03-28T10:59:00Z

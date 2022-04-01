@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-03-17-what-impact-will-the-ai-revolution-have-on-your-practice.md",
+      "title": "What impact will the AI revolution have on your practice?",
+      "excerpt": "Once thought of as a timepoint in the distant future, healthcare has already entered the artificial intelligence era and it will have a transformative impact across the spectrum of medical practice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.urologytimes.com/view/what-impact-will-the-ai-revolution-have-on-your-practice",
+      "originalUrl": "https://www.urologytimes.com/view/what-impact-will-the-ai-revolution-have-on-your-practice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/0vv8moc6/urologytimes/0757c66511f9d4fcacf768d0ff1dc3640c3b9757-4800x3000.jpg?fit=crop&auto=format",
+          "width": 4800,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "urologytimes",
+        "domain": "urologytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-harness-the-power-of-artificial-intelligence-fueled-by-first-party-data.md",
       "title": "Harness the power of artificial intelligence fueled by first-party data",
       "excerpt": "Own paid channels, own the competition Advertising consistently struggles to engage customers with relevant messages that are delivered when and where they’re likely to convert. Traditional advertisin",
@@ -229,8 +272,8 @@
       "title": "Dataiku’s No-Code Cloud Stack Accelerator Is Now Available on AWS",
       "excerpt": "Dataiku, the platform for Everyday AI, today unveiled the Dataiku cloud stack accelerator on Amazon Web Services (AWS) — a new way of rapidly deploying and managing Dataiku’s data, analytics, and artificial intelligence (AI) platform on AWS.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-science-business-sports-artificial-intelligence-e0f753d39d82f8d9861fd13111e0a240",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-science-business-sports-artificial-intelligence-e0f753d39d82f8d9861fd13111e0a240",
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-science-business-sports-artificial-intelligence-e0f753d39d82f8d9861fd13111e0a240",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-science-business-sports-artificial-intelligence-e0f753d39d82f8d9861fd13111e0a240",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1038,49 +1081,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-aws-launches-game-based-courses-to-teach-cloud-skills.md",
-      "title": "AWS launches game-based courses to teach cloud skills",
-      "excerpt": "Amazon Web Services (AWS) has announced two new free training initiatives to provide hands-on cloud computing skills training in a fun and engaging way. The first initiative is a new game-based role-playing experience,",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/aws-launches-game-based-courses-to-teach-cloud-skills/",
-      "originalUrl": "https://analyticsindiamag.com/aws-launches-game-based-courses-to-teach-cloud-skills/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Untitled-design-3-1.png",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T22:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

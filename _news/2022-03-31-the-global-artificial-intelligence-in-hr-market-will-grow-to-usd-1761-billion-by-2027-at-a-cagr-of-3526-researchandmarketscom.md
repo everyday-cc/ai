@@ -1,21 +1,27 @@
 ---
 category: news
 title: "The Global Artificial Intelligence in HR Market Will Grow to USD 17.61 Billion by 2027, at a CAGR of 35.26% - ResearchAndMarkets.com"
-excerpt: "ResearchAndMarkets.com The \"Global Artificial Intelligence in HR Market (2022-2027) by Offering, Technology, Application, Industry and Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
+excerpt: "The “Global Artificial Intelligence in HR Market (2022-2027) by Offering, Technology, Application, Industry and Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
 publishedDateTime: 2022-03-31T16:53:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20220331005896/the-global-artificial-intelligence-in-hr-market-will-grow-to-usd-1761-billion-by-2027-at-a-cagr-of-3526-researchandmarketscom"
-webUrl: "https://www.morningstar.com/news/business-wire/20220331005896/the-global-artificial-intelligence-in-hr-market-will-grow-to-usd-1761-billion-by-2027-at-a-cagr-of-3526-researchandmarketscom"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-middle-east-artificial-intelligence-f316a3396a8e4a7cb554c5de1ee01bcf"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-middle-east-artificial-intelligence-f316a3396a8e4a7cb554c5de1ee01bcf"
 type: article
-quality: 0
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Assistive Robotics Market Size Estimated to Reach USD 25.16 Billion at a CAGR of 22.1%, in 2028"
@@ -68,7 +74,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 22
+    quality: 24
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/aef0bb667ac62bccbac8d816d53a436b40ef43f5-1-600x337.jpg"
         width: 600
@@ -103,6 +109,6 @@ related:
         height: 337
         isCached: true
 
-secured: "C3BtHYhglXtc6/+dAt3wsKphn196lF15jwGDnLgol8y48j+YhXAftYM6S7CaMJQJ2xuaal7Pf5/nourWNtVijVS6isro9hvkBZIocywM4gvKUEPctAigp5Yakn6K9cAxp9UCbMuO2WRW7LsW1MLcIV6NtM/t5IyLbgk3DD3m6ZuOTVjuxhQcZmOcOYV4Qjdg3zM5XNTANskDZ0y35JpsRN0e9egOEYbCLJDhQdBfAqoHjD+iUwsar9kx1WDDAxCjQpAb9KdXbatJXL1TsQbrydvQ3QRIyWDyZMO8IAcZOI8bdbAtbJEFu3lcpjQuEV7Mv0+Ji+9ZcOeBH0rwQa4EUdjyaOlmKR0A+/Aw7/j0yt0=;WSd4m4hxl1HjJLsOy/HCYw=="
+secured: "yIy79uSxJx+474VZTIzD8vS6tGtLxWnLhs2Lj2tDSE8syo7kqJQ979XOxeczIEB/mXIOcs8lhUHIO4f6jEL0mYs5+/s9ei5AwR11+r51AOnLC2raoRDESkOQkgn0O5ALLSi+flmIWSmLtttOSuUw244JcVHglAObAZa1R0oEUB/xcvQmoRHkGjTwsdxgB4/BoQQJQ5p6xiX4PvK8RCGgdxpd3/IWVOVLC76LQOHqeBs7pWAgay14x8hXe4q3fSUHg/IDEudAFQc5u3TPJKXald3Mjtv80CUX4MNvwCKz5nlzTa6VpUQpaOoUUSVTAjLfqHIDc5D7NaeFCxEAH98oU9DUpjzDHd4v1Jq0nHyXOZ4=;IfhMbWRZQSQshl2oroegJQ=="
 ---
 

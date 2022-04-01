@@ -83,6 +83,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Panel calls for tougher rules on facial recognition"
+    excerpt: "A state commission is recommending strict new limits on the use of facial recognition technology by law enforcement officials and a requirement that judges issue probable cause warrants"
+    publishedDateTime: 2022-04-01T09:00:00Z
+    webUrl: "https://www.salemnews.com/news/panel-calls-for-tougher-rules-on-facial-recognition/article_bb672e48-b112-11ec-ac6f-cf4f95248be3.html"
+    type: article
+    provider:
+      name: The Salem News
+      domain: salemnews.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/salemnews.com/content/tncms/custom/image/29c67f80-6b81-11e5-9882-1ba0e94cc00f.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "MDLhGuXydg+mleI6jQz7M98OPK+yBQuB+uK3Cdpkv0yE2PobBLwp2K9Dlil7ITjaakwza44Le5SrpxcF+h7LTbtbh3g6woh5l5BP7uJ/uuf5NUw+3LdtVsEmHQTgROmX5mQ/fUlkQKrww1TEXxYiuhx+R057OKbS9N46n8kjrEnakLZM8fIjJJDCpVY6cbDcM9WCSRZ1OOCN3g6D9To0bStssw4EYxBffsOXqC7FxG+xfvrBqGHAkHh0ymNypOoGzbXjZPp0AT+YRRJCwwBxAEMbHo7nEypDx4B4i3y2OGNJisbQ5mYjGiN0mM+b9xlt/px11ctfmvK4N5tMdWAyHPP9X83dBqTATT1Akkw2Hb18dEdAxQvFbqJYQxXWXQRH+mSVdEI8OJ5c900fmjnGUuk2MgqbeWHgthJJWW8v1ZL1eHEv1KQ2ZaiR/yx7Y73eU0gu0P/EvuJxXPmM2XjpfALbhi51brEs5HC/mFZ4rlkGMKn88CkNZTmtqqr2aVOjGGW5Bpj+iqEFCoAfi+bk9A==;OCfgfxB3sn+a2ngiu46toA=="
 ---

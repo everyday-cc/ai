@@ -75,7 +75,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 22
+    quality: 24
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/aef0bb667ac62bccbac8d816d53a436b40ef43f5-1-600x337.jpg"
         width: 600
@@ -96,14 +96,19 @@ related:
         height: 337
         isCached: true
   - title: "The Global Artificial Intelligence in HR Market Will Grow to USD 17.61 Billion by 2027, at a CAGR of 35.26% - ResearchAndMarkets.com"
-    excerpt: "ResearchAndMarkets.com The \"Global Artificial Intelligence in HR Market (2022-2027) by Offering, Technology, Application, Industry and Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
+    excerpt: "The “Global Artificial Intelligence in HR Market (2022-2027) by Offering, Technology, Application, Industry and Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
     publishedDateTime: 2022-03-31T16:53:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20220331005896/the-global-artificial-intelligence-in-hr-market-will-grow-to-usd-1761-billion-by-2027-at-a-cagr-of-3526-researchandmarketscom"
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-middle-east-artificial-intelligence-f316a3396a8e4a7cb554c5de1ee01bcf"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 6
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "R6QzESIdG4+57E3mKZXE8lJXgcBFK2y5V+B5HVIsu9zPoUXWJ1ZCYajPI+yhem/6+9tkLALQYEBTN9VmT+0Yl8hUfopDLmhxi9OHz/IyKZUP4+1E7VBmCu6WMr5EBh9MqPQcZcq7zIlaKo3Yi5R5n1aLPaf2754cqbbbTR4nfmI1dNkwjztYRYqYekLMRBflOuRubX0uj/cSaiyxS3kLR1mUYiRaAVN490EPqh7pHu6an6sINdcG5niIjtriPOM96vLqj5eui8f+F5rbiz0sQYVihm6bzfEczrCYW/xGOeGYWwwkGWauSQMbOOvE/ZO08sGTp0FD7o3VAxQ1+jxvzSFYShDLYaFSoX7j+By+KEc=;+oPQn9SXM2e9T2bZYgB9NA=="
 ---

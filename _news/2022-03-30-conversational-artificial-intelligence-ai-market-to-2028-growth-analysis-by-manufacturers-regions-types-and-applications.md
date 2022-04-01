@@ -85,6 +85,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The Role of AI in Conversational Commerce"
+    excerpt: "Artificial intelligence (AI) plays a crucial role in conversational commerce by providing businesses advanced chatbots and virtual assistants to engage in a personalized way with customers."
+    publishedDateTime: 2022-04-01T09:42:00Z
+    webUrl: "https://www.bbntimes.com/companies/the-role-of-ai-in-conversational-commerce"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 37
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Role_of_AI_in_Conversational_Commerce.jpeg"
+        width: 1024
+        height: 600
+        isCached: true
   - title: "Syniverse and Kore.ai Form Partnership to Offer CPaaS Professional Services for Enterprises"
     excerpt: "Syniverse®, “the world’s most connected company” ®, today said it has formed a global partnership with Kore.ai to complement its Communications Platform-as-a-Service (CPaaS) strategy by providing conversational artificial intelligence (AI) and professional services for Forbes Global 2000 enterprises."
     publishedDateTime: 2022-03-30T12:06:00Z

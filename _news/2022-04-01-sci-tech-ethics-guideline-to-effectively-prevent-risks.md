@@ -2,26 +2,26 @@
 category: news
 title: "Sci-tech ethics guideline to effectively prevent risks"
 excerpt: "China's first national guideline on the ethical governance of science and technology will effectively prevent potential risks that could arise from sci-tech development, according to senior officials from the Ministry of Science and Technology."
-publishedDateTime: 2022-04-01T07:41:00Z
-originalUrl: "https://english.news.cn/20220401/609f730fa3eb45b5ab2646f895c9bccc/c.html"
-webUrl: "https://english.news.cn/20220401/609f730fa3eb45b5ab2646f895c9bccc/c.html"
+publishedDateTime: 2022-04-01T05:29:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202204/01/WS62468da5a310fd2b29e54abd.html"
+webUrl: "https://www.chinadaily.com.cn/a/202204/01/WS62468da5a310fd2b29e54abd.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: China
-  domain: news.cn
+  name: China Daily
+  domain: chinadaily.com.cn
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://english.news.cn/20220401/609f730fa3eb45b5ab2646f895c9bccc/20220401609f730fa3eb45b5ab2646f895c9bccc_de9a616c-0815-4766-afb0-cf4aa543692c.jpg"
-    width: 900
-    height: 600
+  - url: "http://img2.chinadaily.com.cn/images/202204/01/62468da5a310fd2bec803fb6.jpeg"
+    width: 720
+    height: 480
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 420
         isCached: true
 
-secured: "wHRmTwz45B8G8goAQ7vnI8adCztTPLlm/hrRew7XzjQD1ZblCpbBqGBYsAStFd2oZeL77dOqicOFEGZRPjtynxOMkR/N2onLh1pyU1iMMm+7z8dVdLHQg0WYaF6pCCHtWkiGdVsn7mP5y45bv31+HeOHoiivek1E+S1lKsWVFdRpkWLDlmMR5EOXL3Y7tQZ/OHhABiz6a9i9u7HqxHXjmG9JD+CYF1nXbXRruii365QH/k5h0AUAozvlUjpPry3ml7ALATFGL9q8YAta51C6st+TVK9rXwxWKQdAqbgP/MJ+GLCdqSvcBNxf/J8r7JtC8LyhMYafLDVTYjoJG48iFrMb5GvLwxULP16gIT8OXOg=;+ryBaoP/SjkSO1b/FOWcmw=="
+secured: "zhtAsY4EGbSYtuVcgT0HxreUwGuZhoGZErjJF1FbrV8J95vmv7gX/e6q49PkwUIf/CjvbA9SiuNxWRCD4RDcObj0QgJGPKVXtN0TpWQWhAnvk9Lhj7654Y1ifDcr49uh0gDsx5kYElu76petPX9hLC25ETTV1PuTL+YxRU2ffsrqtUNmxBSOJMnw28YeN3euC9AkRoQVPfBow0YqHHTzi4N//5zlopdrwY1QP3bMg8/AnvoD1V4J0ErhIMR9gtfxIEOPmkN7+FXj26zxbXCEgTZJBEP2eeYOceThzg7zED2cPvHECXxetjpCEGDK89KWE4RhDR/7pKMXE0lUzYBZZJSB0IVfoskc0r+wmT9JgR8=;iCSH+SOkOQ41umR4/li2zA=="
 ---
 

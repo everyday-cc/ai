@@ -34,20 +34,6 @@ related:
         width: 800
         height: 490
         isCached: true
-  - title: "Transform agriculture with the infusion of Artificial Intelligence – Dr. Kpodar"
-    excerpt: "Dr. Chris Kpodar, Chief Technical Advisor, Centre for Greater Impact Africa, (CGIA) has called on governments developing nations to infuse Artificial Intelligence to transform agriculture for food sustenance,"
-    publishedDateTime: 2022-03-27T15:36:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Transform-agriculture-with-the-infusion-of-Artificial-Intelligence-Dr-Kpodar-1500599"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 33
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/666/66636042.jpg"
-        width: 600
-        height: 389
-        isCached: true
 
 secured: "lFXSMB1vvWU6PNiKqbyQa4VyP7XsFEHp4JwntDqXZPSc2UAILsPYPVZAeU8wGxrlJbYNllHtxhtGZpHnNf1sBH/UykXnD/oN5GBzLMB0wiLtd0hBTQDUprjJenKSv3QG1aoAOjfl4LeOHV1AyAyaJDMG1wlIexwnJxMnaxtY85SuvJKJ6WHYnNLKX/Q/lwbVww0JllNFVfzFygRFj5hZRVtUm255fceaR60NmrEW36gtxSpUUoCcLKtjZAToF4OaGdn3rh/krhCaKtP4n5bq5K4BQSOmc2xVOEGGaBEHjpMcfO0EiEG3G1cwPjc9H79EcPxAlOUiHUD5gOdRvm0O35Lav0lWpzPuWy+o2xFiTsE=;SNwV/J+uZfIgwWMSGabfBg=="
 ---

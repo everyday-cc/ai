@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/deepmind-employee-accuses-company-misha
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html"
 type: article
 quality: 101
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://i.insider.com/60fec4bd28e2cf00189070e4?width=700"
         width: 700
         height: 525
+        isCached: true
+  - title: "Deepmind rubbish at spotting sexual harassment"
+    excerpt: "In this case it is a human problem It is starting to look like the humans behind AI are worse than the actual technology as a former DeepMind employee has blasted the AI lab for being “grossly inadequate\" in dealing with internal sexual harassment."
+    publishedDateTime: 2022-04-01T09:56:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/54624-deepmind-rubbish-at-spotting-sexual-harassment"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/07d580bdbdac081780e69bc19a2dbef5_L.jpg"
+        width: 620
+        height: 453
         isCached: true
 
 secured: "D2DT8lXqF5v5R1TitEsPRWSWgGOzswEbkeJmjRAgrf/CY6bFz8846PvAXsV82KKswpF5oO2F3429i7GO6BVhEoGmmgSEChgNiemRZ14Xqpa1mFZpmcBdKi9/8K6N3KaLhZGVS36/UpUcyTy6f3vzKKa+ChEOo6xV5QsM93zLnrV66/48qMf3G/AyOCmp38ARrg6bEGblGNgU9E01VF3RkBXtjhzMYMLbrb8vTF7Hx9HKo2iZ8drRyJpJmPdvpowLKRIQ6d2izOU0Q/3/pZroDVYAkesof7cgO/vQp+hY3CP8cDgUOPOvF47YzCYVYwclHm/Dp5yxuAFYiS+pfc8JyGZ9/MkbM5UkUyBAhiwXecvVkJXA9TU6qpWmd5g2sqTP8Y5C2T/0lRAiwQsi7lT2Gp2D6RrV7BM6nLV34VwwI/rnGdy3lSWvEBbkB7d2FxBJl/7+OhtDcx863FiM6AMLYts/mOvcwnmtx6BN6IGy2+f2g/CLFLzfeSXfwV/f0XxFt7O0yO9zaEMgnL7NvpgH/w==;MSRndeU3nb2GYqkOgz6myA=="

@@ -75,6 +75,20 @@ related:
         width: 700
         height: 525
         isCached: true
+  - title: "Deepmind rubbish at spotting sexual harassment"
+    excerpt: "In this case it is a human problem It is starting to look like the humans behind AI are worse than the actual technology as a former DeepMind employee has blasted the AI lab for being “grossly inadequate\" in dealing with internal sexual harassment."
+    publishedDateTime: 2022-04-01T09:56:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/54624-deepmind-rubbish-at-spotting-sexual-harassment"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/07d580bdbdac081780e69bc19a2dbef5_L.jpg"
+        width: 620
+        height: 453
+        isCached: true
 
 secured: "mB7Wan4b6+4jTKosxCT3lke8cS9GXkO3CfEh0ZiP4h5WFlck1RyPzxXTTnLB5iQUVALjkt5XwVbz3DMcqs4N5DqpUYMiuf9R9ovtElEozm28d+6qLrSFHqZ5fLfky+1DYSV4NC+Feb3xCLcDWXwWzpukpZ5oMUKfOu8TuIZltjeV5WR1ezrE+x08IQQPGmlbHXe3GlQiHEnv4b3VKrPgzXW4dm6bmquIho19nbKK4us4CEWQTsnpZsSGWlJoFsjYbn0R2IXSfs2c9UeGJrYZKrp3/GUiQYXh7fvlzBrGIaBQLEgixa5lOy6NgPdjBZ3Frbw/xp8kMen5/M4q8lqEvoO9iE+Nq2yDzkr5mfuh99xrTxHchH4uhPN53dvjEGztHUUrHQEHBxKRI9Qwl2ForOQg1Xm1sY+M4tULIvfT7mWAEkLc9ZsDtfIUuBlclsZDTlWQK8dll5ju+fPFljwcRsWGkUtt8AIoTmIFGZLRj3VW9laNbdwTSiQGUate1WSz2qC8ngrUFd3G3wnhmpKm/A==;nnpXScVtH9rRbKzJ7ptHrw=="
 ---
