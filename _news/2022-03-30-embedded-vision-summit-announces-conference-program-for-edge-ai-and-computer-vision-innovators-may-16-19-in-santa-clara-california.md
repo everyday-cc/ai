@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Embedded Vision Summit® Announces Conference Program for Edge AI and Computer Vision Innovators, May 16-19 in Santa Clara, California'"
-excerpt: "The premier event for product creators incorporating computer vision and edge AI in products and applications returns — in person! SANTA CLARA, Calif., March 29, 2022 /PRNewswire/ -- The Edge AI ..."
-publishedDateTime: 2022-03-29T18:36:00Z
-originalUrl: "https://menafn.com/1103933372/Embedded-Vision-Summit-Announces-Conference-Program-for-Edge-AI-and-Computer-Vision-Innovators-May-16-19-in-Santa-Clara-California"
-webUrl: "https://menafn.com/1103933372/Embedded-Vision-Summit-Announces-Conference-Program-for-Edge-AI-and-Computer-Vision-Innovators-May-16-19-in-Santa-Clara-California"
+title: "Embedded Vision Summit® Announces Conference Program for Edge AI and Computer Vision Innovators, May 16-19 in Santa Clara, California"
+excerpt: "The premier event for product creators incorporating computer vision and edge AI in products and applications returns—in person! SANTA CLARA, Calif., March 29, 2022 /PRNewswire/ -- The Edge AI ..."
+publishedDateTime: 2022-03-29T18:23:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/embedded-vision-summit-announces-conference-program-for-edge-ai-and-computer-vision-innovators-may-16/article_0be0cc89-33f5-5ef4-80dc-f11a3978921a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/embedded-vision-summit-announces-conference-program-for-edge-ai-and-computer-vision-innovators-may-16/article_0be0cc89-33f5-5ef4-80dc-f11a3978921a.html"
 type: article
-quality: 22
-heat: 22
+quality: 3
+heat: 3
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?244432"
-    width: 374
-    height: 250
-    isCached: true
-
-secured: "d49KAJbODgNjRZ7HTv57GTOGVuMyYoMbhkJW4F+8zuBylEby4jGZw+o2EjrsmHV8ys3W2Etj3dbPamLh//bsvb0NV7Lk3Dbyh3a2kmTgVqEMTg4oX9rX5ki55xUXae5nxzIAphHVD2qxnNb6e1mvcu913glYOVPf5wLJFjc+0uBjLE3QWRTLzy1wuujioQ2+u9jBJVvUi+/9t9MdL//dD0mIcNzXhmNZ7mlPfN55m0LsBb2wAR9vH9+FkrOxSCnKZiVnFPV/wgbzYPpdYeIHHGq0Uz4U7BSSlZDTZcr3WPqs3jpJW64xQVX8jzYrr7+M8DPT/OPwa3oQCmybV5fjs/2IPq6Iny2QpuiBfdAHyaI=;be1bTaBduNMf8eDmBBEAAw=="
+secured: "7hIRe66C4RYSSrD88LDpY1L/beBuYaNBqERz173WGAQPXqcWvoG9XiSOb60+ugULA+Unzn7RV5uTo13HfFuA06yTiu43LcFFgqBN8U5mNcu9LGFmPXeBa4N2WTX97zqygtvE7ZubpeyK25j7ZOio1ncGHAOUT6kqGwqgzU8TnSZ2h6MhVW/PCrf/ovp51OTzRynGQYz1L1NAQwG1tMPb5LgdkYNvXp48k2CtEQiOe1aG5DJNdVYCq/1qKZ2eJ2tdhfCM4tzPzl9bCtc8aLQm0Q2S2PQ74Hft2NP7lWjPUSA+kALb5aJ1iJtIs8Ita3PyfR0tbXpwBR8Wp1udg/U1sKDrNZTtPqz1CsmbFVf3IgI=;9WxobdLrxFW27Ok/ZR8WSg=="
 ---
 

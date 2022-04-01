@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -496,6 +496,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-baidu-to-launch-self-driving-taxi-service-in-zhejiang.md",
+      "title": "Baidu to launch self-driving taxi service in Zhejiang",
+      "excerpt": "Chinese tech giant Baidu Inc said it will offer self-driving taxi service in Wuzhen, Zhejiang province, on Saturday, as part of the company's broader drive to accelerate the large-scale commercialization of autonomous driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202203/25/WS623d6a6ca310fd2b29e53570.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202203/25/WS623d6a6ca310fd2b29e53570.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202203/25/623d6a6ca310fd2bec7e59fd.jpeg",
+          "width": 714,
+          "height": 476,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1028,6 +1071,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-20-general-motors-acquires-softbank-vision-funds-stake-in-driverless-car-unit-cruise-for-21b.md",
+      "title": "General Motors acquires SoftBank Vision Funds' stake in driverless-car unit Cruise for $2.1b",
+      "excerpt": "General Motors announced it is acquiring SoftBank Vision Fund 1’s equity ownership stake in Cruise for $2.1 billion and separately will make an additional $1.35 billion investment in Cruise, replacing a previous commitment made by the fund in 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.poandpo.com/companies/general-motors-acquires-softbank-vision-funds-stake-in-driverlesscar-unit-cruise-for-21b/",
+      "originalUrl": "https://www.poandpo.com/companies/general-motors-acquires-softbank-vision-funds-stake-in-driverlesscar-unit-cruise-for-21b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0322/general_motors.jpg",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.poandpo.com/companies/general-motors-acquires-softbank-vision-funds-stake-in-driverlesscar-unit-cruise-for-21b.amp",
+      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/companies/general-motors-acquires-softbank-vision-funds-stake-in-driverlesscar-unit-cruise-for-21b.amp",
+      "publishedDateTime": "2022-03-20T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "poandpo.com",
+        "domain": "poandpo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-19-dubai-eyes-the-future-with-self-driving-cabs.md",
       "title": "Dubai eyes the future with self-driving cabs",
       "excerpt": "aims to overhaul the taxi sector by employing artificial intelligence and smart systems. And as a step towards that, the RTA has already begun laying the groundwork by signing a partnership agreement with General Motors-backed Cruise to run driverless ...",
@@ -1337,92 +1423,6 @@
       "provider": {
         "name": "The Jerusalem Post Blogs",
         "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-how-ai-helps-autonomous-driving-achieve-a-breakthrough.md",
-      "title": "How AI helps autonomous driving achieve a breakthrough",
-      "excerpt": "Autonomous driving is a big hope for the future, but tragic accidents are a source of concern. Berlin-based start-up Deep Safety wants to make autonomous vehicles safe",
-      "sourceUrl": null,
-      "webUrl": "https://www.db.com/what-next/digital-disruption/better-than-humans/how-ai-helps-autonomous-driving-achieve-a-breakthrough/index?language_id=1",
-      "originalUrl": "https://www.db.com/what-next/digital-disruption/better-than-humans/how-ai-helps-autonomous-driving-achieve-a-breakthrough/index?language_id=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://master.dwebcms.db.com/application/version/latest/files/DB-Share-Logo_1200x627.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "db",
-        "domain": "db.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns.md",
-      "title": "AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns",
-      "excerpt": "Developments in artificial intelligence and human enhancement technologies have ... media companies to find false information on their sites and the development of driverless passenger vehicles. The other three, often described as types of human ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pewresearch.org/internet/2022/03/17/ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns/",
-      "originalUrl": "https://www.pewresearch.org/internet/2022/03/17/ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/03/PS_22.03.06_AIandHE_featured.png?w=640",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pew Research Center",
-        "domain": "pewresearch.org",
         "images": null,
         "publishers": null,
         "authors": null

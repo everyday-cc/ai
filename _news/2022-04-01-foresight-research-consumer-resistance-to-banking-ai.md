@@ -23,6 +23,22 @@ images:
     height: 338
     isCached: true
 
+related:
+  - title: "Foresight Research: Consumer Resistance to Banking AI"
+    excerpt: "Few banks are disclosing the number of AI users that engage with their chatbots. Why? Bank of America reported about 20 million or about 30% of their customers arere using ERICA – their chatbot. ERICA has been in use for about 4 years,"
+    publishedDateTime: 2022-04-01T17:39:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220401DE10867/foresight-research-consumer-resistance-to-banking-ai/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 37
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
+
 secured: "6f/wl5hkA5vgsvqhOhm2USDXd+4zyT+q5DtjSdItpXdcvYnhjqaZumRCK+y9ojRoo5gA7mYTztj99WRZ1vUvgoeTJavb5ozr6MtcWCLW+qZFVR/+Pm0ZzhDOR1qmRxak2QpnfL+hifkUw6N8v7DqUlitzaNQrIV7Th/pOcL3McuJYxzKvjSN2kkz0yWqzDGIKFDEvQH6DC2uJ9JLYMjZasxEkJqdAWlH/U79/QpD+1G0LYQ3alMHtmqMQ5TaH3uOQJNvB95otj7eIWrTCtAEAKZDWgElqlu5F6qTP1xxUCfqbI3Jj+vgPg0C7gO4DzhFASF10i9WC6uVIUUV1JWkIAxzTJliqbomXPUK5WthRnc=;w4T35CCIAErpLe4SMUeI0g=="
 ---
 

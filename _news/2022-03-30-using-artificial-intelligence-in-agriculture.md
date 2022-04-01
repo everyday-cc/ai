@@ -53,6 +53,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 37
+  - title: "Hand-wringing about AI spreads to government and big business"
+    excerpt: "A UK justice committee has reacted with alarm at the lack of awareness, control and oversight of AI technologies including biometric surveillance."
+    publishedDateTime: 2022-04-01T16:37:00Z
+    webUrl: "https://www.biometricupdate.com/202204/hand-wringing-about-ai-spreads-to-government-and-big-business"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
+        width: 1600
+        height: 1109
+        isCached: true
   - title: "Breaking into the black box of artificial intelligence"
     excerpt: "In February 2020, with COVID-19 spreading rapidly around the globe and antigen tests hard to come by, some physicians turned to artificial intelligence (AI) to try to diagnose cases 1. Some researchers tasked deep neural networks — complex systems that are adept at finding subtle patterns in images — with looking at X-rays and chest computed tomography (CT) scans to quickly distinguish between people with COVID-based pneumonia and those without 2."
     publishedDateTime: 2022-03-29T14:28:00Z

@@ -2,6 +2,153 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-03-08-fast-company-names-liveperson-the-1-most-innovative-ai-company-in-the-world.md",
+      "title": "Fast Company names LivePerson the #1 Most Innovative AI Company in the World",
+      "excerpt": "PRNewswire/-- LivePerson (Nasdaq: LPSN), a global leader in Conversational AI, has been named to Fast Company's prestigious annual list of the World's Most Innovative Companies for 2022. Fast Company ranked LivePerson at #1 on its World's Most Innovative Companies in Artificial Intelligence list,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/fast-company-names-liveperson-the-1-most-innovative-ai-company-in-the-world-1031262599",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/fast-company-names-liveperson-the-1-most-innovative-ai-company-in-the-world-1031262599",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1761621/LivePerson_Inc_Press_Release_Fast_Company_2x.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-08T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-08-data-ethics-consortium-for-security-decs-guides-startups-and-policy-makers-on-ethical-ai-practices.md",
+      "title": "Data Ethics Consortium for Security (DECS) Guides Startups and Policy Makers on Ethical AI Practices",
+      "excerpt": "NEW YORK, NY / ACCESSWIRE / March 8, 2022 / Amina Alsherif founded the nonprofit Data Ethics Consortium for Security (DECS) to respond to a growing",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/data-ethics-consortium-for-security-decs-guides-startups-and-policy-makers-on-ethical-ai-practices",
+      "originalUrl": "https://www.digitaljournal.com/pr/data-ethics-consortium-for-security-decs-guides-startups-and-policy-makers-on-ethical-ai-practices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.accesswire.com/users/newswire/images/692022/MqyCsDngQzjNg6XNZ30dKLve0G6ZTVVXTt-y0p3wLYc9KeJopux5-pvtHuojX-Oy26-YJl1o8Ok4hfWn6_sj4kq3n1gPruZTVn3ZH8xNfwl7HDajw4Jg8WZuJKC_B6dRTZnQu71Z.jpg",
+          "width": 835,
+          "height": 835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-08T05:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-03-08-digital-radar-on-a-chip-speeds-autonomous-vehicle-adoption.md",
+      "title": "Digital radar on a chip speeds autonomous vehicle adoption",
+      "excerpt": "A new radar-on-a-chip is on the way this year, capable of mass production and 4D digital imaging, heralding a new chapter for autonomous vehicles and next-gen advanced driver assistance systems (ADAS).",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/digital-radar-on-a-chip-speeds-autonomous-vehicle-adoption/",
+      "originalUrl": "https://www.zdnet.com/article/digital-radar-on-a-chip-speeds-autonomous-vehicle-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b919c30148a7aa2d2ca7b73f468227fe0cb44a40/2022/03/07/9578af55-0abc-4222-8797-967debe060e6/uhnder-radar-on-a-chip.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/digital-radar-on-a-chip-speeds-autonomous-vehicle-adoption/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/digital-radar-on-a-chip-speeds-autonomous-vehicle-adoption/",
+      "publishedDateTime": "2022-03-08T05:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-08-this-app-can-diagnose-rare-diseases-from-a-childs-face.md",
       "title": "This App Can Diagnose Rare Diseases From a Child's Face",
       "excerpt": "In 2012, Moti Shniberg sold his face recognition startup to Facebook and started looking for a new challenge. “We wanted to take our expertise and do something good,” he says. Then he met the head of a medical genetics center, who explained the ...",
@@ -1022,126 +1169,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-us-chip-giant-nvidia-acquires-israeli-data-storage-company-excelero.md",
-      "title": "US chip giant Nvidia acquires Israeli data storage company Excelero",
-      "excerpt": "AI research and other activities. The US firm, founded in 1993 by Jensen Huang, Chris Malachowsky and Curtis Priem as a graphics chip company, inventing the graphics processing unit (GPU), is today a leader in the field of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/us-chip-giant-nvidia-acquires-israeli-data-storage-company-excelero/",
-      "originalUrl": "https://www.timesofisrael.com/us-chip-giant-nvidia-acquires-israeli-data-storage-company-excelero/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2022/03/Excelero-Team-Pic-640x400.jpeg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/us-chip-giant-nvidia-acquires-israeli-data-storage-company-excelero/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/us-chip-giant-nvidia-acquires-israeli-data-storage-company-excelero/amp/",
-      "publishedDateTime": "2022-03-07T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-amp-robotics-expands-partnership-with-evergreen.md",
-      "title": "AMP Robotics Expands Partnership with Evergreen",
-      "excerpt": "AMP’s technology identifies and sorts green and clear PET from post-consumer bales of plastic soft drink bottles at speeds up to three times faster.",
-      "sourceUrl": null,
-      "webUrl": "https://www.waste360.com/business/amp-robotics-expands-partnership-evergreen",
-      "originalUrl": "https://www.waste360.com/business/amp-robotics-expands-partnership-evergreen",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.waste360.com/sites/waste360.com/files/amproboticsfeat.png",
-          "width": 1540,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-07T06:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Waste360",
-        "domain": "waste360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-only-18-percent-of-fintechs-and-financial-services-organizations-believe-their-credit-risk-models-are-highly-accurate.md",
-      "title": "Only 18 Percent of Fintechs and Financial Services Organizations Believe Their Credit Risk Models Are Highly Accurate",
-      "excerpt": "Only 18 percent of fintechs and financial services organizations believe their credit risk models are accurate at least 75 percent of the time. The finding is revealed in new research outlining the greatest credit risk analysis challenges,",
-      "sourceUrl": null,
-      "webUrl": "https://www.silicon.co.uk/press-release/only-18-percent-of-fintechs-and-financial-services-organizations-believe-their-credit-risk-models-are-highly-accurate",
-      "originalUrl": "https://www.silicon.co.uk/press-release/only-18-percent-of-fintechs-and-financial-services-organizations-believe-their-credit-risk-models-are-highly-accurate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-07T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Week Europe",
-        "domain": "silicon.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -6,8 +6,8 @@ publishedDateTime: 2022-03-29T11:15:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mma.prnewswire.com/media/1775269/Institut_National_de_la_recherche_scientifique__INRS__Artificial.jpg"
@@ -23,6 +24,6 @@ images:
     height: 315
     isCached: true
 
-secured: "1aWw2jiyVEqZhnhEoxm8T+MZK6fqm4Dk+zA+JFpJ0YkYZRo3sJ3JzIPBgPANxRlrLazDBi3Yl0KL+0CP5YR8eIJafrMUfxBTgbgfU7gTrCU/zjfrNmgrGQ2e+/xegYQgDwoR36KbPq4USpexzNSshuizERreCi/6tgODUQdlP2r5Nz2kdHeBRaovGN2KGr3rorEFlH1KX9dTJjdfdbYJRuI9ZwpHqVHpnND6ot0XnIhzwics8L62uvqVLaKKGvfEVanBhhtNR9JFRa4JjyH6g4wWb0WWdvvoWWkyxM/0TDtLvjwjG146B9G3UPkLhn/KLZKLiBuziMmFlyQji8UPwTY48o8gkCvYTptFRuKrnFk=;9p+K/BG3YPqbwsqIQxMNJA=="
+secured: "KODP0CdvlsYiHYYVELjocfKSzl5oD17FaxXhF/wmbH7imvDxYuaDE6C4Nkp1Ld6BOp3FJLfjWJpTRxFQ/NSzOglm0COdxXYfWDbOskgm6beVX9BvDMt9TeFcW6nUDPp4mEMrRMDT0fGu7jXFmV2R9aL0mlnKnM7AWCXNF1R3Iz+YARGqHoIL/HOcG9m128sUjWGgBVteiSV6q6Tr7gcJdUIs4pyHJ+YIy/lesXWtaBTIo0REduCpW4kbqmQGVOQf5wMIWtPDtiOBggZpiBCx/Io2mltmSHDzM6s/jk41AltZmk8goHCikVgcE6ya/vocgR2Ynbrb8fYDxEFkZ2NYUJtt2ypt1/FTmWCQTv2bHVJmZ8XX9QxRhsV+drrkGw4L8TAPjjfwGL4kgBn/ElT4KxU7nwptRohQtL4MjdFsw44CsD/HeswXFrw7qBuh3JSrIN5f9dqjyt5J35IjPJdyGNMfKFUVwIaKfHm2d2vja0E+IjmJWAcyXBI01R42IV5UaGUcag4S4peGymu2nG6N3A==;l4wB697NH6/JduUei8o4jg=="
 ---
 

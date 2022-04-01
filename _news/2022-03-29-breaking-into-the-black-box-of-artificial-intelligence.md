@@ -60,6 +60,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 37
+  - title: "Hand-wringing about AI spreads to government and big business"
+    excerpt: "A UK justice committee has reacted with alarm at the lack of awareness, control and oversight of AI technologies including biometric surveillance."
+    publishedDateTime: 2022-04-01T16:37:00Z
+    webUrl: "https://www.biometricupdate.com/202204/hand-wringing-about-ai-spreads-to-government-and-big-business"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
+        width: 1600
+        height: 1109
+        isCached: true
   - title: "Can AI be for good? Wunderman Thompson Commerce investigates the benefits of AI business solutions for businesses and consumers"
     excerpt: "Between regular post-shopping festival delivery woes and the pandemic induced global manpower shortage, is it time for businesses to adopt AI to resolve supply chain business challenges and more? Consumers seem to think so;"
     publishedDateTime: 2022-03-29T01:32:00Z

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Startup Zongmu Raises $157 Million in New Funds"
-    excerpt: "Zongmu Technology Shanghai Co. has raised more than 1 billion yuan ($157 million) in a new round as the Chinese autonomous driving system startup looks to build a new production plant."
-    publishedDateTime: 2022-03-28T01:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-03-28/self-driving-startup-zongmu-raises-157-million-in-new-funds"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.jkvjaj52p4/v1/1200x801.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Self-driving startup Zongmu raises US$157mil in new funds"
     excerpt: "A Chinese autonomous driving system startup has raised over RM660mil as it looks to build a new production plant to accelerate research and development."
     publishedDateTime: 2022-03-28T03:16:00Z

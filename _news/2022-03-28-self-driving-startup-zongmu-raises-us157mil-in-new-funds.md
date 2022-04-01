@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/03/28/self-driving-
 webUrl: "https://www.thestar.com.my/tech/tech-news/2022/03/28/self-driving-startup-zongmu-raises-us157mil-in-new-funds"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Startup Zongmu Raises $157 Million in New Funds"
-    excerpt: "Zongmu Technology Shanghai Co. has raised more than 1 billion yuan ($157 million) in a new round as the Chinese autonomous driving system startup looks to build a new production plant."
-    publishedDateTime: 2022-03-28T01:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-03-28/self-driving-startup-zongmu-raises-157-million-in-new-funds"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.jkvjaj52p4/v1/1200x801.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Chinese Self-Driving Startup Zongmu Bags USD157 Million in Series E Fundraiser"
     excerpt: "Zongmu Technology, a Chinese autonomous driving and advanced driver assistance systems developer and provider, has secured CNY1 billion (USD157 million) in its latest financing round. The Series E fundraiser was led by Dongyang Guanding Equity Investment Partnership under Zhejiang province’s Dongyang State-owned Assets Supervision and Administration Commission,"
     publishedDateTime: 2022-03-29T05:12:00Z

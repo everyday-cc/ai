@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Intuit’s Radhika Kannan on how the company is leveraging AI to enhance customer experience"
-excerpt: "Kannan said that they currently have AWS infrastructure support, including EMR notebooks that can run distributed workloads for large datasets with sizes of the order of TBs, Sagemaker notebooks having CPU and GPU capabilities that can scale according to ..."
-publishedDateTime: 2022-03-30T06:30:00Z
-originalUrl: "https://analyticsindiamag.com/intuits-radhika-kannan-on-how-the-company-is-leveraging-ai-to-enhance-customer-experience%EF%BF%BC/"
-webUrl: "https://analyticsindiamag.com/intuits-radhika-kannan-on-how-the-company-is-leveraging-ai-to-enhance-customer-experience%EF%BF%BC/"
+excerpt: "As a global technology platform company, Intuit helps customers and communities overcome their most important financial challenges."
+publishedDateTime: 2022-03-30T06:35:00Z
+originalUrl: "https://analyticsindiamag.com/intuits-radhika-kannan-on-how-the-company-is-leveraging-ai-to-enhance-customer-experience/"
+webUrl: "https://analyticsindiamag.com/intuits-radhika-kannan-on-how-the-company-is-leveraging-ai-to-enhance-customer-experience/"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 900
     isCached: true
 
-secured: "1519mqBWh5tVFvYcH0jJRebLFqBx1Chkyy5ENpAcO9EB2ts0y00Ro0G/wQQsU88b8Sk6cvOamLNGCpM7dCM4WZ4Mgc2c97b9WvH3MhJVscBbFy856uMUvt8+K9laPVKWmFKtt8HVagJmgLhbpEvJcirVz1ByiPFSOef8sSeptnC2/M8gQEob1VWlsaB5r5ZDGIagUTZo3CYgo8Gho92/8bXMN5V5i6Bv4iglpOISNJ8mFCmOYpyVZb4sekzII9xLmGpunZ5HLLIFPcLwvhPoky5jk98WsjjUvTHDUoahR9hlt2s9GG3ZMM40Cil2Rl5CdnMX4cWY/QrrH1jRAoVRMmCs1EUHy2yiCtWeH8vz1LbERnChLV4ElYu6Y5K9bmfH8GJHBh8rg0JFnFM+j8l3hYo8meilq+Xf7FKzkchuBi/6b3TGRRC5YGVCMSt53J5ZQnkK6BvZXUiCs9yPHQdi4dvHR0zEGzxeby3EFv97UVBIoVfZO3dltICZ8XMa+xOkuF38i4/TDvMI51tSmT1xNg==;K4QKpeKlL0156PdVqgbFCQ=="
+related:
+  - title: "How to use Voice Communication to Retain Customers?"
+    excerpt: "In a world full of messages and videos, voice remains the most powerful tool we can use to retain customers. This is largely down to emotional intelligence. When it comes to customer service, customers like and are loyal to companies that listen and respond to their issues accordingly,"
+    publishedDateTime: 2022-03-30T00:44:00Z
+    webUrl: "https://www.benzinga.com/general/education/22/03/26364476/how-to-use-voice-communication-to-retain-customers"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26364476"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26364476"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/andre-francois-mckenzie-jrjhtbj-pgu-unsplash_1.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "y+B/2q0fw5M1u/600wQwucpMMw4qAhnSiAIbkDA1nFOJfYtBqx0p6M7RLlWk/U57am6oBqHUTFb7pJuFVfBg6gJWM19gbfCa4XdhLeBKOKSIvISqqcvFYB8uFW2gUaT7w+FEpyfkhGukvtI+4SQoD96z5FzhZRdfCdGuV402R/InVIU4ggrrNfKhmiCJmoaFQC7pM1c+rnlWEvSwJBo3I16W5VML3pBNURG0xreqCn//FO+RhW2AR7gLpmWQNggfyZylD1knYRrQONCbad4Y6PqM8Rb/lCtrsOkF2tK8PZdvT/9aSMNxjx/QAOsT758AWBuoZ/+XAi4q4Em3Oe5n8eXTbeWvDNyYYXOXHNQeeDw=;EW0RLrjLQKQiJ+QYSbUltw=="
 ---
 

@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/01/heres-why-ai-ethics-
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/01/heres-why-ai-ethics-is-touting-that-human-centered-ai-is-crucial-to-our-ai-symbiotic-existence-such-as-the-advent-of-autonomous-self-driving-cars/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/01/heres-why-ai-ethics-is-touting-that-human-centered-ai-is-crucial-to-our-ai-symbiotic-existence-such-as-the-advent-of-autonomous-self-driving-cars/amp/"
 type: article
-quality: 66
+quality: 68
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/62427f3c055f1d39bb6f0b2a/0x0.jpg?format=jpg&crop=3992,2661,x520,y0,safe&width=1200"
@@ -122,6 +123,6 @@ related:
         height: 750
         isCached: true
 
-secured: "PmLMnK8UFL4NUxrklV9waIC01FHtBwXmmrHEIKK7DuAdhhCWRDkaADDiTrm1GwkH3xFRFtqdJj24aDwcgaA1Bdm++k7Rml/yHh9A01zmWEMriTtQKqhiwuX7V2dXyLLT5bja4QWwgKz4X5PRayPZSo7fdtNxLKwUhNwYbhWtSgelFrfCeBCgouikVthrDvG4i4IIEFSkBr063b3CFh3SaE34Y7Qt4TtYuuAVpMVpgJR1q96KLqbIO3aAtbk5aR/hDF9DkAmJy0aDSFFfyemMj+RYjngld5kl5zcpJjGXbLw05MWiYb2QpBDWvghtdDKF6naMAW/zKBK+d6rm3zbmVC62X44Lee4OkHJWKpVPO10=;h4j9s9ogQ2arliralPKqhA=="
+secured: "i6CNskq0lfLUNbR0HGg8iAp69eDqPcfP7coCPUw5VqvODW2/XM3qFMggrIjec5BbB8SlAA/R0mu+YJaIQFbyflAAh/IKF3Ha1WAlzKqpmxk2gig8GS3Pv6Shfm4ra9X+ahLAeCCwY3PbZWF1p6KntL8fN1v7e0dN68N6AsaA7d7JLkM0Xs3OwwNlxgCQ9MKUZYMTntIkHt5eBFR9ZPO/Be5OAZxhOzU3ysSg9MJfcXuWLRL052MYJ59CRs1WdB1da8Ys7wZmMJGg266JDtAzLhyoRhZ8ThglZMyTvmLRLXXo9pF4V+oFCs64kfwGw0Ev0AbRP8retQDlZOd6htrug+YjyT6SOgkS/VQDjt13i2yN6FaSuPHqPvjGng2isZi/1K8/qn9LXm5Yyk1akQgt1pW0AISGR+cIGXJmqhfhvO9LFRRbSGXnbE8qcs/RLPNAC3yCx7CNNzirPg92i112hvJxHInq6mmZuSET1UbzWDbvHA9jF3JA+k/yba3jeB3KMHP0EZzBMpQ0O/VaFbU3sw==;tw2ad1mwd2aDpJDS5GHJ8w=="
 ---
 

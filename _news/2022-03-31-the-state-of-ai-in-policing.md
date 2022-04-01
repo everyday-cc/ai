@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "A Wave Of Billion-Dollar Language AI Startups Is Coming"
-    excerpt: "Given language’s ubiquity throughout the economy, few areas of technology will have a more far-reaching impact in the years ahead than NLP."
-    publishedDateTime: 2022-03-28T00:48:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/"
-    ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/"
+  - title: "The Dangers Of Not Aligning Artificial Intelligence With Human Values"
+    excerpt: "I speak to Brian Christian, author of 'The Alignment Problem – How AI Learns Human Values' about how we still face some significant hurdles when it comes to building machines that are truly capable of thinking and acting like humans."
+    publishedDateTime: 2022-04-01T05:16:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 97
+    quality: 91
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6240e81218e4f5d1deaf91c3/0x0.jpg?format=jpg&crop=1744,981,x0,y49,safe&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62468a610c6dc8f419eac76b/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
         isCached: true

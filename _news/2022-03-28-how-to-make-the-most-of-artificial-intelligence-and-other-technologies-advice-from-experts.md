@@ -55,6 +55,15 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "\"Global Recognition for Unique AI Human Technology\" DeepBrain AI participates 'NVIDIA GTC 2022', Presenting AI Human Technology and Research Outcome"
+    excerpt: "DeepBrain AI CTO Kyung-Soo Chae presents time-reducing, lip sync video synthesis technology. Participates in 'Digital Human and Interactive AI'"
+    publishedDateTime: 2022-03-30T03:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome-1031316927"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 10
   - title: "\"Global Recognition for Unique AI Human Technology\" DeepBrain AI participates 'NVIDIA GTC 2022', Presenting AI Human Technology and Research"
     excerpt: "DeepBrain AI CTO Kyung-Soo Chae presents time-reducing, lip sync video synthesis technology. Participates in \"Digital Human and Interactive AI\" session panel to introduce current status of AI Human industry."
     publishedDateTime: 2022-03-30T19:10:00Z
@@ -68,20 +77,6 @@ related:
       - url: "http://us.acrofan.com/img/noImg.jpg"
         width: 500
         height: 324
-        isCached: true
-  - title: "\"Global Recognition for Unique AI Human Technology\" DeepBrain AI participates 'NVIDIA GTC 2022', Presenting AI Human Technology and Research Outcome"
-    excerpt: "DeepBrain AI CTO Kyung-Soo Chae presents time-reducing, lip sync video synthesis technology. Participates in \"Digital Human and Interactive AI\" session panel to introduce current status of AI Human industry."
-    publishedDateTime: 2022-03-30T03:34:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai/article_84ad56c7-e432-5421-a282-c9d48010ae88.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/d4/0d426e0b-9545-5ad0-a2b1-9a902fd9b70f/6243d30c04387.image.jpg?crop=917%2C481%2C0%2C37&resize=917%2C481&order=crop%2Cresize"
-        width: 917
-        height: 481
         isCached: true
 
 secured: "qLGtbFIp6PtPoIlQwTJ0o6T20/++dMt7zoGd6EBHd4ERzpNQksyW2TjJpcCs1CPpQJpT4AIKUDc/ueP0fiKzQYjgjz3Rokl62iN1Rvgk0awIWsE9HIZCErmn1PKth/t/qqqy1y/Rjwy65KDts9TGB2oAbq866M2expyj8oVHm/EBhkKmS247bn3dOE5KlKZVP2TdihhTwLcIEXAaVHTZBmsmxZA7fCL/knsjg8jvTWaGN1SCqRj0WQaPIXgTCCfdX7tLp36n6t5M1I1o39VPbQ8mxgxi5Mdfa6qiFvBYOJgDUjtxpWwRbeKlLms+oR/HJsz6Ep8AOszgiQ41K8aZPx0z0AkpG7O3D9TgP6752qOgUjzHRZyn3nWVtSFWJ/7TDzLobHfbgMoQcxXg2DUImy6vvHmb+iaS/QkCfEDZkSBtcCv9N33MAqFRfIAxMAf65+ZBj4vtX5pCcAB18B5ybGYzozgGp4rVyxhBG5TS1ugwbG/hMQjbz55l7T1yNv18nA6NA66gkwYqRVjQB97eJw==;YWpYtJYR3OAUlifMf1J19A=="

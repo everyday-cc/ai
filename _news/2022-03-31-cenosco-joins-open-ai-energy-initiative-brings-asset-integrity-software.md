@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Cenosco Joins Open AI Energy Initiative; Brings Asset Integrity Software"
-excerpt: "Addition completes AI-powered end-to-end suite of integrity solutions for asset-intensive industries, such as chemicals, oil and gas and renewable energy."
-publishedDateTime: 2022-03-30T22:38:00Z
-originalUrl: "https://www.wicz.com/story/46191652/cenosco-joins-open-ai-energy-initiative-brings-asset-integrity-software"
-webUrl: "https://www.wicz.com/story/46191652/cenosco-joins-open-ai-energy-initiative-brings-asset-integrity-software"
+title: "Cenosco Joins Open AI Energy Initiative Brings Asset Integrity Software"
+excerpt: "Open AI Energy Initiative  Addition completes AI-powered end-to-end suite of integrity solutions for asset-intensive industries,"
+publishedDateTime: 2022-03-30T23:22:00Z
+originalUrl: "https://menafn.com/1103940409/Cenosco-Joins-Open-AI-Energy-Initiative-Brings-Asset-Integrity-Software&source=24"
+webUrl: "https://menafn.com/1103940409/Cenosco-Joins-Open-AI-Energy-Initiative-Brings-Asset-Integrity-Software&source=24"
 type: article
-quality: 38
-heat: 38
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: FOX 40 WICZ TV
-  domain: wicz.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://EINPRESSWIRE.images.worldnow.com/images/22436275_G.png?lastEditedDate=1648665524000"
+  - url: "https://menafn.com/updates/pr/2022-03/30/EP_ad29aimage_story.png"
     width: 500
     height: 281
     isCached: true
 
-secured: "FhjV5lr7D3ojVEdUS0U2G/sJLrtl8u2a0D23SIsZRN2b4eZLe23hJ0fKF7kW5B2itRlRuvqy3wSgcRlLLEzhRmGQ7YyQ+vFEzwqUtsqM7lb/4SDJzZORPQ7ttXc+Vb9G4M9ieOpdA6QVPg2MQO88fQhaOaut2oj45fxc86HJXkrMCJqTWWaZNH0szUjHuzpNWmdldVKmolyqMtmikJ3IIfu1j5Yyi0g6Pe0eTVJHuyTl2qZEYN/l/o3HfkVlpSDO7kvjjx/TNCInwfoUUc/WKyFiPCx+m568lKxoBdr52/VYnQaILleznW2xzy3OChCMRa8SDKbgid8B9fnwILtL9nG0/cKNNIhiEeb6Ccr5RMSdnS5TerNpC32OHHGKr96lg1wCP7kdGQtDW0XPdgMCkl0I3qx1a/h65J09WV04pCNiTrY75fYOXQ/Z8mJVfLU3zYCThQgk/r/f4LJwyvtHfkXG5NYVqw4Bk9NKIp3sfwBDnULWRgkfAlx3iDgbn+tLR4OYlrBu7jY1CxRGqGa/Jw==;awVDbdiZus5fnzU/bMflcg=="
+secured: "iQ1Qm2n/uUCJDpo0FgZ8HdHzu1dS8N3fmCVxEVs+TEN2zcldUpybRdNbYYQ1Um/iJiglLa3PUcrN+4HYaPbT4OOL0k1CAE4/SEFglLueSm6RNArTTTKxSXy/i9X0gEYsdHWu1707mNsaz+BnacJDe342BPBdbrPLWunHa/nWrFY30nwnaHU6FW7ZQlqa5+JmuuczyBHb4RSBUq9WLmb9b/rZ5CGb1W4IyPyvooSUcoHwTL9/PGz4mxmGYOepzr+a0AA1yzcVFV3jv24Q61osqYS9NkSRC75gvoVke8hJ7lazs/2gyvH6mo5IuR1LYo9XQ78VuT2O63560O6fNr0gkLzyE2Jast3rO0kaHtl9VBM=;k9L37Gg/5/tzIP2dZNe6bA=="
 ---
 

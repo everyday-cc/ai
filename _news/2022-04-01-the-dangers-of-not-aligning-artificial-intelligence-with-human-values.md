@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "The State of AI in Policing"
+    excerpt: "Advanced technologies, especially artificial intelligence (AI), are leveraged by many companies in various industries to help fuel business growth, achieve efficiencies and support human workers. Organizations that implement AI solutions tend to benefit from enhanced performance due to the plethora of opportunities and applications,"
+    publishedDateTime: 2022-03-30T19:49:00Z
+    webUrl: "https://www.unite.ai/the-state-of-ai-in-policing/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 37
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:971/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2022/03/surveillance.jpeg"
+        width: 928
+        height: 600
+        isCached: true
 
 secured: "/3qlQ0N2mNnl0UpBkHJq+0bt+YWilWb9BJmG+AArNMRDcOem2WkCHRQLaoIxQIrTZMMW5kbEVS9he05odBCTIvdhk020u7gGynzih5lDDCG1lnAFLlxJbsOO7FLUSSFtuhHCKlmec+32Wk/Myodn5vE5MTapo3JqxU0qYnnDW67JUEYIDY5IC+5mvFTcXkazeKFv12waRwMCHieJireF8riQ5UVZ6FhoRh4wIBn1OJjwnpAi3uu4plPAyE7FE853CTSnPmupX/XB/d3UnyKYHx85xOOsIC/2I/Js5tk+LVWSDT5/FdldoICdcwV8ADjhIc1ws+IQW+kHiaknQP6Jlap+EX0MIVsXe/V95T4JczsnfWCL+ME/Q/fUqod5TS/QlH4mtLDJ1AeWZcS9KbFX8fpsFEnMxdANOfUsx5llri7Y5ShOi3VbQTxZWCWB7YXgjEIAUUfea50H/d77aVWFtk0wilqYFgLzHMk2GDGp4DnGeGaH7ILaJP+m3h0wad9/LCqSpvp3fKfz3rOrdVdgMg==;7he5I/6w3R1gHNeZtSjP+A=="
 ---
