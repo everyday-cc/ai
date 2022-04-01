@@ -5,7 +5,12 @@ excerpt: "AI's perceived risk isn't only from autonomous weapon systems that cou
 publishedDateTime: 2022-04-01T18:54:00Z
 originalUrl: "https://economictimes.indiatimes.com/opinion/et-commentary/why-its-time-to-address-artificial-intelligences-ethical-dilemma/articleshow/90599546.cms"
 webUrl: "https://economictimes.indiatimes.com/opinion/et-commentary/why-its-time-to-address-artificial-intelligences-ethical-dilemma/articleshow/90599546.cms"
+ampWebUrl: "https://m.economictimes.com/opinion/et-commentary/why-its-time-to-address-artificial-intelligences-ethical-dilemma/amp_articleshow/90599546.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/why-its-time-to-address-artificial-intelligences-ethical-dilemma/amp_articleshow/90599546.cms"
 type: article
+quality: 77
+heat: 87
+published: true
 
 provider:
   name: India Times
@@ -15,7 +20,32 @@ topics:
   - AI in Robotics
   - AI
   - AI Ethics
+  - AI in Healthcare
 
-secured: "ZA+yH5QlyIUTER2mKdvGU4U7uNE8RszrPlhwtkHFHYgf043CMC1vV+kOc+gQSF1hSXQnwvxn3/0QKSgESn7CK7u9zSgQoiiRJ3ohDw7t+4isejVe5B1S4/Yu+AOsefYPzEgnCoIZjOPNUu86fl6V8A4xIs3rGEmXFjG9iCwvibFxVqu2fs1VBUeaF1W3uaKNpJ1Sh1HWHzvajyLXZgCLWcsyIh9OJKAKC8vTWIOhTHhDGCsMej39ExtyTQJXPTuSQxbCz37Ldjo7WmiQ72TdWOgWQWanelTGIRDXj3nYfcaaWubVPJT0Lqz5JPQQkQJQsC+f6lxjMofqqo/9gBMB/dnYkFXmPU7YV1Ep47H0p7C9Go78X0iYj48tg+5nuFipzpm6u31xc/mBO0SCnppn8LUC84dCWyvcKwpdbBG7/q0veOEZlE3zYWu9oPRMDsCWqVXtBC7fnsobUqUdBx91p2DmvxImsgiYVx0nb54388UM9qzVb/anQccej3IK3qoJON+Fs4e0medEMrjL6V8wTA==;Q6RNIB1zDsM6zEbHwHRjQw=="
+images:
+  - url: "https://img.etimg.com/thumb/height-450,width-600,imgsize-110988,msid-90599600/.jpg"
+    width: 600
+    height: 450
+    isCached: true
+
+related:
+  - title: "Can AI help to address the looming global food crisis?"
+    excerpt: "The global food supply is under duress, with Russia's invasion of the Ukraine applying even more pressure. With world populations mounting, can AI make a difference in farming and agricultural yields?"
+    publishedDateTime: 2022-03-29T09:33:00Z
+    webUrl: "https://diginomica.com/can-ai-help-address-looming-global-food-crisis"
+    ampWebUrl: "https://diginomica.com/can-ai-help-address-looming-global-food-crisis?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/can-ai-help-address-looming-global-food-crisis?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 57
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2022-03/robot-farming.jpg"
+        width: 1279
+        height: 848
+        isCached: true
+
+secured: "zINVA/PvfgxOhCfBAFxiw/4rykiLeb5ssV8seYbthoWgf9AFM2zrsVOPT5iVWTXmPLA/9dbpk+S3nNbopPwJ7bn4+1mqDZCZo/ANptDPryAR5J1mXiw4nDo707PAPfZmIBYNWeiwxznwic2WuC8QzFyBQ2TfZ61bcE4RUvvGV5WL38SXXutEfk4hlqKCJtLEiM3nsAkV3hZuuia1T0L0PY8GnEpGedTekA6rX8Vr+dUUq13M7KKEWZtcp4o1fc6PaBpavnN8W7+h6I9dGZUK6mCQEQAJhh1e1l2RvREIApWCjXNlNVrlQfghlzQcCd713Cu8CmSDN1RjP7UtdVJ03mEF+Jhi0AKs2DwQYhckBx0=;ct1EpkbRYBDS8vz7oJ6ttw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/authidai-pitch-deck-jamie-dinan-bi
 webUrl: "https://www.businessinsider.com/authidai-pitch-deck-jamie-dinan-biometrics-auid-2022-3"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "VideaHealth Raises $20 Million to Expand AI in the Dentist’s Chair for Millions of Patients"
+    excerpt: "VideaHealth, the leading dental diagnostic AI solution, today announced $20 million in Series A financing led by Spark Capital. Existing investors Zetta Venture Partners and Pillar VC also contributed to the round."
+    publishedDateTime: 2022-03-31T11:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-boston-b39ed1799069474bb6896ecbc22132c3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "+9d/BOhSQeiIs/mzdWIO/HQ0XVNcLfB0h+x8FA0FyBRSQONB7g9Fx/T4lxfIMps9Ef2SPQyREUdeIjDpTZOq0qN4BAbCTL1rMuoefvhev/7JvGaBVct5BgTXHVjGFX3ZWrP/hI8Dka+YsfMD+hjhUQ8PMKmw6kXyc8EleTaZsApcGAf9eU/LJ2QNxgan+RyL4bHucdYPyQ4GOiobz0QybqFrxNR0BhNXjtDezynYLgXua7z0e8pSpOndLTDWL7D+n/b6uy9fmqMITrbATM0YtOX+q4UrEgYj57+jZ0iMHGHqhHfHQldD1P3LI7t0F/iUGWutxoc4lxWvCX2b6MMcsPCm5LkMloQJJDfoD0qt130/W1jA60iYo+YQlC7b9ZoNVwLbufOnIoGfzc6Zsd8CPSkhG29Hzlp7twLICeIC8vpLKOt9n6p+YN96YBAkv5jrZqcXuBn4ZfUSn+wlfVZQeVKpVjzLkZL0VkhZU3uKas2g2nG98Ln6sSaIUS/LINmWqzdIwlC/mmw7wV9yvJVZ7A==;/vczj5NxSCWHcYGUgb18rQ=="
 ---

@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 620
         isCached: true
+  - title: "AI And The Secret To Employee Happiness"
+    excerpt: "People want a better work experience—and they’ll take their talents elsewhere if they don’t get it. AI can help you deliver."
+    publishedDateTime: 2022-04-01T18:14:00Z
+    webUrl: "https://www.forbes.com/sites/servicenow/2022/04/01/ai-and-the-secret-to-employee-happiness/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Using artificial intelligence in agriculture"
     excerpt: "The adoption of pesticides, fertilisers and high-yield crop breeds, among other measures, transformed agriculture and ensured a secure food supply for many millions of people over several decades. Concurrently,"
     publishedDateTime: 2022-03-29T18:00:00Z
@@ -88,6 +97,15 @@ related:
       name: Nature
       domain: nature.com
     quality: 19
+  - title: "Why AI In Insurance Is The Key To Survival"
+    excerpt: "Insurance is one of these areas, with providers increasingly leveraging AI to understand risk and reduce costs. Examples within the consumer field include \"black box\" telematics platforms that allow providers to gather all the relevant data points necessary to understand someone's driving style and adjust their premiums."
+    publishedDateTime: 2022-04-01T17:20:00Z
+    webUrl: "https://insurancenewsnet.com/innarticle/why-ai-in-insurance-is-the-key-to-survival"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 17
 
 secured: "VyfcwOZhMzi0o31tm1EhbdmK/BY31PKtuWE4Oua3fJzh1O1Rf1I9UJDZd66ZkeLM78QJfj9PN3oR4RyYozRIeypoiYtle6Fll1AsVywuj4tVlAXrSoX+IitTFsIHe4zL9AF0wPxntMocykcK+3W9HJHc89OI/mxFM7cSLNbxrmClhPw+Hw3CeNuhoiePA/Deovi1I/kJy/zqbH+1E9IhJX0euxKHZix/mOrbgNWhDwVsLFeVCSoc2dSaCgDqvx8GIbsZFLtr1Q5A2C7CAoO5Z0/M2a8Nl4pllP0dEMp2TplJLVz9gacUc7n5C1pLOu5ElMiKA2U7V1DEaGGEhpRyP7U3ahkt0FWJfq9dl8xxdet2KUnU4Hy3A2s0BsGMp6cOF67CcTeX1jQPq2AHioOLdgKzqgg9t273Yv6ILd2fOFpUAmQqM1Xo2RMStmr9N4lVw72MDxRWOhUcx8Tj4dt7VJhVu403+HY1Su3k8nZ3ind4ofdT0gBmy+l1xr4w5dqHsI3cPrGLLZiPOj7uY2u+Dg==;fmDG48QgDWgE656VM4uo3Q=="
 ---

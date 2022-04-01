@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-01T18:14:00Z
 originalUrl: "https://www.natlawreview.com/article/just-released-2022-q1-aibiometric-litigation-trends"
 webUrl: "https://www.natlawreview.com/article/just-released-2022-q1-aibiometric-litigation-trends"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The National Law Review

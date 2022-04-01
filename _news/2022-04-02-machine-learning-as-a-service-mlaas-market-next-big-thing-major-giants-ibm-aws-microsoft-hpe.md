@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-01T18:06:00Z
 originalUrl: "https://www.digitaljournal.com/pr/machine-learning-as-a-service-mlaas-market-next-big-thing-major-giants-ibm-aws-microsoft-hpe"
 webUrl: "https://www.digitaljournal.com/pr/machine-learning-as-a-service-mlaas-market-next-big-thing-major-giants-ibm-aws-microsoft-hpe"
 type: article
+quality: 76
+heat: 96
+published: true
 
 provider:
   name: Digital Journal
@@ -16,6 +19,43 @@ topics:
   - AI
   - AWS AI
   - Microsoft AI
+  - AI in Finance
+
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/b6be821d016d05754280ca0ef93d4ae4874badff-e1648768638750-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+related:
+  - title: "AI in Manufacturing Market May See a Big Move : Universal Robots, IBM, Altizon Systems"
+    excerpt: "AI in Manufacturing Market Overview, Demand, New Opportunities & SWOT Analysis by 2027This press release was orginally distributed by SBWireNew Jersey, NJ"
+    publishedDateTime: 2022-03-28T20:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-manufacturing-market-may-see-a-big-move-universal-robots-ibm-altizon-systems"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 48
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/848dd933f2b95b10eb092743860d98932097e224-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Contact Center Intelligence Market to See Booming Growth | IBM, Google, Microsoft"
+    excerpt: "The latest study released on the Global Contact Center Intelligence Market by AMA Research evaluates market size, trend, and forecast to 2027. The Contact"
+    publishedDateTime: 2022-03-31T10:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/contact-center-intelligence-market-to-see-booming-growth-ibm-google-microsoft"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 36
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/Covid-Testing-AFP-1K-600x337.jpeg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "m06gcPEPPBVcc8B2JpHCzMjCttUFw6lxYpx/1SpjE1zqQyKdA5eiFxZXAL5c7Rqm/rKnAu1ZDTtPUsjgLOOLeb9Pwnw0yPcsWIZS4zkKYs8I+W4zz6vYXL787csinFZe+yjWzia7LXBKg/Cp8v+7IPw6dvSNqX9PwJX/IrW0JuqaKEe7xf0R0njl7xNJDAtJbb+L4ugBKb/sBjjLwTrxF0nGrvrC0xq1qbHKpGpGgw0uJ3EaIPQf7ArLqcIdEsxA8TwVGUZh8mAIfLnVgZSvNQ5B+EPZDzqyaV7Y4NsnAXhPUGFDsEiwu52kAtz8pJaOZx+RW06pjABi/g6NbxOIaz9tL9YCbRBgWfmddfl2lkY=;A+TtxqUpz49caT4iPoaX+A=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-03-30T22:38:00Z
 originalUrl: "https://www.wicz.com/story/46191652/cenosco-joins-open-ai-energy-initiative-brings-asset-integrity-software"
 webUrl: "https://www.wicz.com/story/46191652/cenosco-joins-open-ai-energy-initiative-brings-asset-integrity-software"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: FOX 40 WICZ TV

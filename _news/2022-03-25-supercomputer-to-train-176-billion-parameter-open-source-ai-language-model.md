@@ -3,8 +3,10 @@ category: news
 title: "Supercomputer to train 176-billion-parameter open-source AI language model"
 excerpt: "GTC BigScience – a team made up of roughly a thousand developers around the world – has started training its 176-billion-parameter open-source AI language model in a bid to advance research into natural language processing (NLP)."
 publishedDateTime: 2022-03-25T07:34:00Z
-originalUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=keepreading-btm"
-webUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=keepreading-btm"
+originalUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=rt-9cs"
+webUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=rt-9cs"
+ampWebUrl: "https://www.theregister.com/AMP/2022/03/25/supercomputer_language_ai/"
+cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/25/supercomputer_language_ai/"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "n1/IQOXeMqjSWFNyzm8F6VSSvC/PDYCNMj97aMjHFmVVu6sJWf+anCm5ri4pVoxv/hBM3fbCco2VS2gw7q7ki+MfgSiyM06TF9MwrA+7k9XdOyRSqBLtEJ4yr9qJtkIEDWBm47Sz7K+ytTs7gKO1VercB1DZ/lcpYMDi0Sa8/meJwa7fQmU/5g4aArlqjxFvxj+401VxsXdyAuHgkL955Z3XiZP5sxFOMuM0QcjG5Q7EYM0eBv5zVC95Hbgdu8Ugy+Ggm3TgCRsjSbUBumOSnCn13HRQC/zNDD8Up5kHfehQOa9gZgv5WtFJ/FHrdUV53g/6BnUX706dUEDuj9TReDgfoXGMm/J3mm849BESHQVwq4mhGKFjy2tdxyGxEvV6ovbj+DSyZG/7DXdFVAS+VXYgE+TxYI/I6Msy6lbtFRtQr9Ir/wTECbdLDAInBtAalVoQ61G9wYKPvbVbt0O0ivMy3Ud+HQQ1hHxGjdHlIqdhCyC8Yg9e6meyYBaQscT/o35hyf3NfDHZdIGDJNpXjg==;HnwDP5h1oOMFKo0EZHLRWQ=="
+images:
+  - url: "https://regmedia.co.uk/2015/07/31/shutterstock217132183.jpg"
+    width: 648
+    height: 429
+    isCached: true
+
+secured: "0P49CL4+nsIOfhySjU63Yh/POqAWAlS3vTQ+7WSH0DNdRl518LOMk05sQ6QddATuOUXIDwdcPQsEz3KImpEFdhBdKadMgSRTCncqd5QQvmCemhk+By6/h+DqJfusq+yAB5uc2hSWe3/Gw14rvBKmv3BGdZWj0wELuvR/VrG+NQZqVh468jTibzKLDwQSDlZKK/3gUWbwLoYaTFZiUMvy2UJKAb46gGUWzFCZufE0srPUDf0nc3Fnq7dM2AswIOgQs9D04gfZoOcKT3MRTSC88wsxZtMBNnGHR1GiPt9N5byRiSSS6bcaJXHaTJ80gdYBOtgTvi+tdHDRECDooF4i6petMTzyx9H7MrOwQuSUHkg=;njMJiS6zPlYlrNGKJuFw1A=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-03-31T16:53:00Z
 originalUrl: "https://www.morningstar.com/news/business-wire/20220331005896/the-global-artificial-intelligence-in-hr-market-will-grow-to-usd-1761-billion-by-2027-at-a-cagr-of-3526-researchandmarketscom"
 webUrl: "https://www.morningstar.com/news/business-wire/20220331005896/the-global-artificial-intelligence-in-hr-market-will-grow-to-usd-1761-billion-by-2027-at-a-cagr-of-3526-researchandmarketscom"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Morningstar, Inc.
@@ -13,6 +16,92 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Assistive Robotics Market Size Estimated to Reach USD 25.16 Billion at a CAGR of 22.1%, in 2028"
+    excerpt: "Presently, integration of Artificial Intelligence (AI) in assistive robotics is resulting in increasing usage in various applications such as product distribution, surveillance, control ..."
+    publishedDateTime: 2022-03-28T14:44:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/assistive-robotics-market-size-estimated-to-reach-usd-25-16-billion-at-a-cagr-of-22-1-in-2028"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 42
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2022/02/inn-social-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) Chipset Market to Garner USD 79.8 Billion With CAGR Of 40% By Forecast 2027"
+    excerpt: "Chipset Market Is Expected To Reach USD 79.8 Billion In 2027 At A CAGR Of 40%percent. MMR’s study, “Global Artificial Intelligence (AI) Chi"
+    publishedDateTime: 2022-03-29T11:29:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-artificial-intelligence-ai-chipset-market-to-garner-usd-79-8-billion-with-cagr-of-40-by-forecast-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 32
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/15a44ea548b6d083a148f7c8b0969d98af09a227-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Robotics Prosthetic market is expected to grow at a CAGR of 8.2% – An exclusive market research report by Lucintel"
+    excerpt: "\"Trends and Forecast for the Global Robotics Prosthetic Market\"Trends, opportunities and forecast in robotics prosthetic market to 2024 by technology"
+    publishedDateTime: 2022-03-30T23:45:00Z
+    webUrl: "https://www.digitaljournal.com/pr/robotics-prosthetic-market-is-expected-to-grow-at-a-cagr-of-8-2-an-exclusive-market-research-report-by-lucintel"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 32
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/5993b720d9ef7071b8911094c233c01fc025ee40-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence as a Service Market to Garner USD 38.99 Billion With CAGR of 39.2 % By Forecast 2027"
+    excerpt: "Artificial Intelligence as a Service Market size is expected to grow at a CAGR of 39.2 % through 2021 to 2027, reaching nearly USD 38.99 Billion."
+    publishedDateTime: 2022-04-01T07:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-as-a-service-market-to-garner-usd-38-99-billion-with-cagr-of-39-2-by-forecast-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/aef0bb667ac62bccbac8d816d53a436b40ef43f5-1-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Generic Oncology Drugs Market Are Anticipated To Rise at a Steady CAGR Of 6% from 2022 To 2028"
+    excerpt: "Generic oncology drugs, being able to detect and treat tumors, are utilized extensively in the healthcare industry for treating cancer. Notable"
+    publishedDateTime: 2022-03-28T13:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/generic-oncology-drugs-market-are-anticipated-to-rise-at-a-steady-cagr-of-6-from-2022-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 12
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/848dd933f2b95b10eb092743860d98932097e224-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Global Surgical Robots Market Size Is Projected To Reach USD 6875.1 Million By 2028, Exhibiting A CAGR Of 21.4% Between 2022 And 2028"
+    excerpt: "The increasing unmet medical requirements, and technological advancement. According to Asian Robotics Review, the surgical robotics market might get"
+    publishedDateTime: 2022-03-30T09:41:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-surgical-robots-market-size-is-projected-to-reach-usd-6875-1-million-by-2028-exhibiting-a-cagr-of-21-4-between-2022-and-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 8
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-War-AFP-1K-01-1-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "j+42KBrbBraaajR+SFgMWibhD7+SqI1cfi6FZQQt0XGIjiT5KIb21ttl8dn4DI5hvbveKuT0/fZWEEsJs79pfA3AioUjlqYHlMQ3lZL1Sn7RYYMrZxR3uCBbv2s+kXhd/J0FtJ/pNTYW8LOBb/VO8eSokkeZCMyHhsVU+KSI72o5q4+bBi1P1lpBPs3b9ypNkOrvrqtShzl3xQ21qBSbqbhL+3NgTgYTThqhcpR7QZKTlqxQmfjhqrrIk7JN1GDytDzqMOroR0XNFTa+xpMKzf0GRrYoD6zqiTSE2vWW9J7d0eWvGU0fWdRZC2bcst5i10WJTJgYTAm78/XsgGVRu4p7p+gUvZmP/JDcL/QvGGw=;BHk+n3ZnOdPhxYGXwfZ+LQ=="
 ---

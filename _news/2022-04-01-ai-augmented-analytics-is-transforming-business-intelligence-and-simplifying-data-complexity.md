@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-01T13:00:00Z
 originalUrl: "https://insidebigdata.com/2022/04/01/ai-augmented-analytics-is-transforming-business-intelligence-and-simplifying-data-complexity/"
 webUrl: "https://insidebigdata.com/2022/04/01/ai-augmented-analytics-is-transforming-business-intelligence-and-simplifying-data-complexity/"
 type: article
-quality: 6
+quality: 8
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Will Zalatoris On Predictive Analytics, Fantasy Golf And Tips For Picking A Masters Winner"

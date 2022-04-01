@@ -69,6 +69,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Benefits of Facial Recognition Tech and Why It Requires Privacy Laws"
+    excerpt: "Many of you might have seen facial recognition technology in action before. Facebook uses it to suggest friends, and"
+    publishedDateTime: 2022-04-01T12:22:00Z
+    webUrl: "https://techacute.com/benefits-of-facial-recognition-tech-and-why-it-requires-privacy-laws/"
+    type: article
+    provider:
+      name: techacute.com
+      domain: techacute.com
+    quality: 39
+    images:
+      - url: "https://techacute.com/wp-content/uploads/2022/04/Benefits-of-Facial-Recognition-Tech-and-Why-It-Requires-Privacy-Laws-Group-People-Street.jpg"
+        width: 1400
+        height: 934
+        isCached: true
   - title: "Facebook is trialling facial recognition software"
     excerpt: "Hot on the heels of the iPhone X, Facebook is working on facial recognition technology to help users recover their accounts.The social network is giving select users the ability to verify their account,"
     publishedDateTime: 2022-03-31T19:57:00Z

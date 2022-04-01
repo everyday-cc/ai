@@ -24,6 +24,19 @@ images:
     height: 508
     isCached: true
 
+related:
+  - title: "Face scanner Clearview AI aims to branch out beyond police"
+    excerpt: "A controversial facial recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and the Ukrainian military now plans to offer its technology to banks and other private businesses."
+    publishedDateTime: 2022-04-01T20:39:00Z
+    webUrl: "https://www.seattletimes.com/business/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/"
+    ampWebUrl: "https://www.seattletimes.com/business/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+
 secured: "R3TawqRQ4g+QMGAkHYbrDMjsIx7JDQcFdy80bJGczcqxCjuU3ET6dI8/E2DIQYhR4OU/uuKxt0OvFtvoAAxkRH4m4+iCd7wDfV5tXcfPW2fOkNVx1EadqaRJFIoDopSJXGN4h8LGeM1hYnXNnDjl814wPX1jIFnQU6rnevaJhkDbXtU8X3GgpJqT7q7dUiRf3I8H+QmhffqpIcIVSaF1kFOpJw6RtmLpdu+5d2ZD0hGdOr2z7rh2VdHh2eV5iVMGaH3SmO+3MQVHzaVQh3rvL8qwd4Q8RaevFY0Bfhij3WGFwm2nG8vzGHkzfRckCf9YOCJPskBRg2S9YhcB23sn1y0mUaSUwDunNCHJCkKnad5RrTjFBnfIsApbmqyUKxcG39qKWeHNLA5DkeXDZHuO4ZOyhrMcuwbdAbJOGloJeUgQKhNbHTbweqHCCGa3scK8twmtSXYTwG1rX3ROT1E3BEvPcm+lSI8lOJ4NG6Id4xKrvS01/HTMrSekbPn5ovJg/FDp9457/SyDKHuFXwapGA==;VRJJkhxjIX1ar2bMzIPOnQ=="
 ---
 

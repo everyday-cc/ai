@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-01T18:25:00Z
 originalUrl: "https://techcrunch.com/2022/04/01/ai-act-powers/"
 webUrl: "https://techcrunch.com/2022/04/01/ai-act-powers/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: TechCrunch

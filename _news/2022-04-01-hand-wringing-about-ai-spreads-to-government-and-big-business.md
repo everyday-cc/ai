@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 620
         isCached: true
+  - title: "AI And The Secret To Employee Happiness"
+    excerpt: "People want a better work experience—and they’ll take their talents elsewhere if they don’t get it. AI can help you deliver."
+    publishedDateTime: 2022-04-01T18:14:00Z
+    webUrl: "https://www.forbes.com/sites/servicenow/2022/04/01/ai-and-the-secret-to-employee-happiness/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Using artificial intelligence in agriculture"
     excerpt: "The adoption of pesticides, fertilisers and high-yield crop breeds, among other measures, transformed agriculture and ensured a secure food supply for many millions of people over several decades. Concurrently,"
     publishedDateTime: 2022-03-29T18:00:00Z
@@ -74,6 +83,15 @@ related:
       name: Nature
       domain: nature.com
     quality: 19
+  - title: "Why AI In Insurance Is The Key To Survival"
+    excerpt: "Insurance is one of these areas, with providers increasingly leveraging AI to understand risk and reduce costs. Examples within the consumer field include \"black box\" telematics platforms that allow providers to gather all the relevant data points necessary to understand someone's driving style and adjust their premiums."
+    publishedDateTime: 2022-04-01T17:20:00Z
+    webUrl: "https://insurancenewsnet.com/innarticle/why-ai-in-insurance-is-the-key-to-survival"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 17
   - title: "Can AI be for good? Wunderman Thompson Commerce investigates the benefits of AI business solutions for businesses and consumers"
     excerpt: "Between regular post-shopping festival delivery woes and the pandemic induced global manpower shortage, is it time for businesses to adopt AI to resolve supply chain business challenges and more? Consumers seem to think so;"
     publishedDateTime: 2022-03-29T01:32:00Z

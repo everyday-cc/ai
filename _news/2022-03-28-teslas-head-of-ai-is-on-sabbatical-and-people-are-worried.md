@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/03/28/tesla-head-ai-andrej-karpathy-sabbati
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/03/28/tesla-head-ai-andrej-karpathy-sabbatical-people-worried/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 280
         height: 250
         isCached: true
+  - title: "Podcast: another TSLA stock split, Tesla head of AI on sabbatical, Porsche 911 electric, and more"
+    excerpt: "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy, including Tesla announcing another TSLA stock split, Tesla’s head of AI going on sabbatical,"
+    publishedDateTime: 2022-04-01T19:23:00Z
+    webUrl: "https://electrek.co/2022/04/01/podcast-tsla-stock-split-tesla-head-ai-sabbatical-porsche-911-electric/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 51
 
 secured: "MX3jycD+6rTPWy9xi+DB6crukPnZ2DNy4il+pbeW4xAGpJwkxqmRO+uoD5YZ/92/bttOpZGPYZOk8gZpdWRLobZVUnp3q2JtVR/9GB9c2kgTCrmX570gRvBn6xIhdpqC3d8hpSOHiLYEKsts/7GurzEfNftKG4NOOfl0LGBJ0d9OTJ8dR8afGQQe4U01YZaVcuP39+TInUTevTwJ5UpR7XquvFd40l+1sEVbH9QEbI4xPVrFQdNgDWtVjrjDqyzIrj3yCvbHsvzz9vRek338d/9eE20ZBdHQ5s5OwSrgj+Gd0v0nAto8uuPwZWW7WmytykY0ODvIyGD5I3+8ylk1pzHx8euyd7dxleqTIF+XYkmGDWsyPSfkWMEFZvagjZeCU8iEPhRpDsqDeE362cme4HHz7cHmci3BxZRP+ma8iAcprLtOp1JCKncvNJMDxA6iHK48RxsgPpJjIJy6oGjCLhxN7SOJhLwWo3+z16E2PVMXcRcL28XZ4r8OmMx8hdpFamWNkMeTS18rNYnwv0ri3Q==;/BLwsc4JitMghNXWovVPTA=="
 ---

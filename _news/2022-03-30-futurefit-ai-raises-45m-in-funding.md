@@ -38,15 +38,6 @@ related:
         width: 500
         height: 324
         isCached: true
-  - title: "Middle East’s largest AI-based digital health platform raises $44 million in Series B funding"
-    excerpt: "The new funds will be used to expand Altibbi’s offering into online pharmacy and diagnostics collection to establish the regions first end-to-end fully integrated digital health primary care offering,"
-    publishedDateTime: 2022-03-28T09:10:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/healthcare/middle-easts-largest-ai-based-digital-health-platform-raises-44-million-in-series-b-funding"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 6
 
 secured: "68QvsDqU/6YXlFg834IE11mj1xYeNRY72WaK6KBSsP5AFosXn6E5dyHK4UqFu3WUcHE4sdqlm6x/gSJsgf9j9E1rDhGUrdgtAzleR3iijJKiM9ZvyheYDWLyIgvjWdqes27bUfAu2th1sxY3y5e/lqjxJ3/mTDxrDcOd0QK+5OVHsCLL+b1Ec2xxBaiOk92w9sAnxwPEGdYwbAPfkl+c+1LxeOA/p61PmZZsdZSk2/FFNq8JqRSimKBGrB8CstRPRLFUSzBM273VqQkjJo++FR35OYrT0trEYiE5RaElDWEDUg1g89XO55carGD4GY/W22FP4tm5bJEeDEwx6dBnJ9vShHffCF7WgpJJ5pp+bqU=;UltX+5ULNUrzpRGRUoaQ5A=="
 ---

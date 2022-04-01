@@ -25,58 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Training to medical students on latest medical Technologies like artificial intelligence"
-    excerpt: "Department of Health Research / Indian Council of Medical Research has recently launched a Policy on Biomedical Innovation & Entrepreneurship for Medical Professionals, Scientists and Technologists at Medical,"
-    publishedDateTime: 2022-03-29T20:19:00Z
-    webUrl: "https://indiaeducationdiary.in/training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence/"
-    ampWebUrl: "https://indiaeducationdiary.in/training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence/"
+  - title: "Aerospace Robotics Market To Accelerate Growth To Over 12% By 2026 With Technological Advancements"
+    excerpt: "The Business Research Company’s Aerospace Robotics Global Market Report 2022 – Market Size, Trends, And Global Forecast 2022-2026"
+    publishedDateTime: 2022-03-31T15:38:00Z
+    webUrl: "https://www.wicz.com/story/46198015/aerospace-robotics-market-to-accelerate-growth-to-over-12-by-2026-with-technological-advancements"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 65
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 40
     images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
-        width: 534
-        height: 462
+      - url: "https://EINPRESSWIRE.images.worldnow.com/images/22441293_G.png?lastEditedDate=1648726728000"
+        width: 900
+        height: 454
         isCached: true
-  - title: "How to Make the Most of Artificial Intelligence and Other Technologies: Advice From Experts"
-    excerpt: "Technology is often presented as the solution to many problems for nonprofits — reducing staff burnout, better targeting of fundraising efforts, and improving budgeting, to name just a few. It can help with all those things,"
-    publishedDateTime: 2022-03-28T15:15:00Z
-    webUrl: "https://www.philanthropy.com/article/how-to-make-the-most-of-artificial-intelligence-and-other-technologies-advice-from-experts"
+  - title: "Household Robots Market | Latest Innovation, Advance Technology, Top Companies Forecast 2022-2031"
+    excerpt: "Comserve / -- Household Robots Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies, Tendencies and Forecast The household robots market is expected to register a CAGR of 20."
+    publishedDateTime: 2022-03-28T17:08:00Z
+    webUrl: "https://menafn.com/1103926206/Household-Robots-Market-Latest-Innovation-Advance-Technology-Top-Companies-Forecast-2022-2031"
     type: article
     provider:
-      name: The Chronicle of Philanthropy
-      domain: philanthropy.com
-    quality: 29
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 26
     images:
-      - url: "https://chronicle.brightspotcdn.com/dims4/default/f5cb660/2147483647/strip/true/crop/5399x2834+1+589/resize/1200x630!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.amazonaws.com%2F37%2F40%2F9d5d13f2410e9f106ca413488d7c%2Fparkssmartnonprofitsummary0323-gettyimages-1337928487.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "\"Global Recognition for Unique AI Human Technology\" DeepBrain AI participates 'NVIDIA GTC 2022', Presenting AI Human Technology and Research Outcome"
-    excerpt: "DeepBrain AI CTO Kyung-Soo Chae presents time-reducing, lip sync video synthesis technology. Participates in 'Digital Human and Interactive AI'"
-    publishedDateTime: 2022-03-30T03:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome-1031316927"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 10
-  - title: "\"Global Recognition for Unique AI Human Technology\" DeepBrain AI participates 'NVIDIA GTC 2022', Presenting AI Human Technology and Research"
-    excerpt: "DeepBrain AI CTO Kyung-Soo Chae presents time-reducing, lip sync video synthesis technology. Participates in \"Digital Human and Interactive AI\" session panel to introduce current status of AI Human industry."
-    publishedDateTime: 2022-03-30T19:10:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=639050"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 6
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?369614"
+        width: 429
+        height: 249
         isCached: true
 
 secured: "Y1Qy1LOdPK6j2yxGfc4SeM55VAWH/aEXEb0FMVkYj7p5GOpf7woXFYubfOlZXEwxcGyWxGviduXBPJvosuxlVPizfbTBlNtdBgBUS6VPm3wJWLhV5aYbEm67GN8yoS4AKXxDYbihq+Oa9jRWVnrHVE1TkfVOKGC+ixehling/IBF7z/Gzj7a0FokLfkY1RhtquC5ckvZ0WQvZ2wcvyu/OCuNas5EFnojAVRj+rTjOIAny+fCe22sOu90pJ6Xt3ihBXWsSWI7W707G7RnJ1EUBVUff17BisG+Ue0B7RJ7wTokY61S6vD7wF+ROqWHf4HS54r02RFTBlLkqCes2aNAA0Txk7IQwzD7QcvKxs7sDcs=;py7dCcUtbRJv+jneygkRbg=="

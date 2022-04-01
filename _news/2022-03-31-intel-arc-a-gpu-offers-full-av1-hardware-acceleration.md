@@ -170,6 +170,15 @@ related:
       name: Guru3D.com
       domain: guru3d.com
     quality: 19
+  - title: "AMD reminds us that its mobile GPU is more powerful than Intel's"
+    excerpt: "Intel had a pretty exciting week with the announcement of its Arc 3 laptop GPUs. During its presentation, Intel showed off several slides showing how the Arc 3 mobile graphics silicon fares against their own previous gen Iris X."
+    publishedDateTime: 2022-04-01T17:26:00Z
+    webUrl: "https://www.pcgamer.com/au/amd-reminds-us-that-its-mobile-gpu-is-more-powerful-than-intels/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 19
 
 secured: "L75roIFBs6RL/DayIThtWGej3OpBrPKVVT5nDbZaZJZ6qC3S7d2Bcg+YrlMp0OPU4EWfJhtIe0wYQMIkMTb7DdAR1yg+ieQbZCeZGL7SIJV/qVAFYeF2MjLigO3OH/U9bCZdKqKiAQHtr2vEzzgTFpKBOPp2t9M72r3IcAPxRmtSdLTYxwlKj8MSpanAe8E3chNs0UCtBuhcvsy1kHrEYy0yIoVmF/uGkP34qXDKwOOrB4PYHQg2tBoJurwQDdfvcSQqwoyzFYuOkxGOJOC9hrwpGmh/PdapsENVyQpX90EBHgMOjFRACfsaKlmqKp6sHmaCeUCLGjEDJpWyPNXt8Tn5onzdY6z8VJKhOc3oayJwEvg/NesbX9jsT0K8kXI3rjxK0SOCl+opL5IPwTl/FI88V2tlvj/V2bUiiDhQYf4PH5uIxdL0AJ12ktyMgeHy+Tr9iFU7Ugy7AbZ7wvH/tcWxOYJ3zfZekUsI/E6JeICiujedarJBZ0o+Y4pmnJIyMfBKA3pDHHAK9rJeuUHCsA==;f1EF/7GG3GegIc8HRguHdg=="
 ---

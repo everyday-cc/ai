@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/deepmind-employee-accuses-company-misha
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html"
 type: article
 quality: 101
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://www.cityam.com/wp-content/uploads/2021/09/Google-Announces-EUR-1-Billion-Investment-In-Germany-Including-Renewable-Energies-1337404394-1.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "DeepMind Appeared At The Center Of Sexual Harassment Scandal"
+    excerpt: "Recently, DeepMind, an artificial intelligence company owned by Google-parent Alphabet has been the talk of the town. Several former employees were accusing the company of mishandling serious ..."
+    publishedDateTime: 2022-03-31T13:16:00Z
+    webUrl: "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/"
+    ampWebUrl: "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2022/03/DeepMind-accused-of-mishandling-Sexual-Misconduct-allegations_TechnoidHost.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "An ex-DeepMind employee has publicly accused the firm of mishandling her complaints of sexual harassment: 'The same stories keep recurring.'"
     excerpt: "The claims follow years of complaints by former Googlers that it has a poor handle on allegations of inappropriate behavior."

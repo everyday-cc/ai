@@ -39,6 +39,20 @@ related:
         width: 900
         height: 454
         isCached: true
+  - title: "Global Entertainment Robot Market to 2026 - Growing Technological Advancements and Increasing Investments in R&D are Driving the Industry - ResearchAn"
+    excerpt: "The \"Entertainment Robot Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The entertainment robot market is projected to grow at a CAGR of 21.78% to reach US$9."
+    publishedDateTime: 2022-03-30T02:08:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=639590"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "JrO9SYewd1ztJwax6Wjl/yQ0I+6flLoLCEfDHv5yeXnJJAdeAUweSqIutoaB7+4PI4JAeRbf849stR2faJA9yAHJM8VRbiJZO9uIRKtNdHgazVQ4B48Hj/bHJutp1sVsOa2O/I6wFhAC1cTeI2fyrj9t1JNfEC7a3Tjd+3Bji1t1+EfVzq2M6s3VyslkWL8UupT5Skj6nGV9+pXMCeJ05TLvv5hzCaTBB2zVALq/SOV6pHN1tYv5C3n0GqZ6Oi5nCbAhcn3WoiNfTdM3YJuAGiDyIo2x3DRwLysDrzT5iJOE7a0Kw9S2XMBLczOqFv7c+yJG+Qdx2XXU0wp1aMI21+AaUyeFL+QkThAX3ss2C1c=;TCQxbDODI4VdMTlYP01pDQ=="
 ---

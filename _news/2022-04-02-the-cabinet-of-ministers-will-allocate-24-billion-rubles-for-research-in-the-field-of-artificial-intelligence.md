@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-01T19:57:00Z
 originalUrl: "https://www.akm.ru/eng/news/the-cabinet-of-ministers-will-allocate-2-4-billion-rubles-for-research-in-the-field-of-artificial-in/"
 webUrl: "https://www.akm.ru/eng/news/the-cabinet-of-ministers-will-allocate-2-4-billion-rubles-for-research-in-the-field-of-artificial-in/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: akm.ru

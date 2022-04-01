@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-inv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -173,6 +173,15 @@ related:
     provider:
       name: Guru3D.com
       domain: guru3d.com
+    quality: 19
+  - title: "AMD reminds us that its mobile GPU is more powerful than Intel's"
+    excerpt: "Intel had a pretty exciting week with the announcement of its Arc 3 laptop GPUs. During its presentation, Intel showed off several slides showing how the Arc 3 mobile graphics silicon fares against their own previous gen Iris X."
+    publishedDateTime: 2022-04-01T17:26:00Z
+    webUrl: "https://www.pcgamer.com/au/amd-reminds-us-that-its-mobile-gpu-is-more-powerful-than-intels/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
     quality: 19
 
 secured: "sWEHGCp7ssdqUx3w2oIywnqyjsGK18GKmQGTZ699nzNIzkFTJ263Ui841wcYP3KQ0CSRZWJ+2maspgpGPqnwAzzrXR3A1feLZoRrvwWg/jq0vwywqtg1y19P+InenLyIztaQwAJqVcZZto+F0cEQeM9I/JvOoIXY7zkj9kWdPijAhFSFYXI2GuZjh6F34HIisU1l3DHmD8nqoIoP7xJe5kHwWD++ABjZrhCbfuI/Iln/JS2i84EytQBkUPxnZmxnEgB8ckWGcugpO5Gs3W1i/tJyYUl2W14+BZMTLYrfGlfY2jlyIPFnGZGtavNAgzkSP6m3rhBq4vp70x1E17EzYAnjexbJbq/wvnc8upR3i0s=;KkzIzxf3v36BN8RmJiY1hw=="

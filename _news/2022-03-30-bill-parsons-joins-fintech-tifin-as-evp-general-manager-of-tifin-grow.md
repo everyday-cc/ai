@@ -2,17 +2,17 @@
 category: news
 title: "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow"
 excerpt: "TIFIN, a fintech platform using AI and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran Bill Parsons has joined the firm as Executive Vice President & General Manager of TIFIN Grow."
-publishedDateTime: 2022-03-29T19:23:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-bill-parsons-joins-fintech-tif-as-evp-general-/2022/03/29/9572869.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-bill-parsons-joins-fintech-tif-as-evp-general-/2022/03/29/9572869.htm"
+publishedDateTime: 2022-03-29T19:16:00Z
+originalUrl: "https://fox8.com/business/press-releases/cision/20220329LA05757/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow/"
+webUrl: "https://fox8.com/business/press-releases/cision/20220329LA05757/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: FOX8 Cleveland
+  domain: fox8.com
 
 topics:
   - AI in Finance
@@ -198,6 +198,29 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "The Fintech Road to Carbon Neutrality"
+    excerpt: "Fintech companies have huge implications in the world on the global economy, and on global warming. Currently, the world is facing one of its greatest challenges yet, to prevent rising global temperatures,"
+    publishedDateTime: 2022-04-01T18:45:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-fintech-road-to-carbon-neutrality/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 4
+  - title: "10x1000 Tech for Inclusion Enhances Fintech Learning Programs to Continue Bridging the Global Digital Skills Gap"
+    excerpt: "Fintech training platform 10x1000 Tech for Inclusion (“10x1000”) today released its results for 2021. With the vision to train 1,000 emerging talents and tech leaders each year for ten years, the platform saw a total of 1,"
+    publishedDateTime: 2022-04-01T03:58:00Z
+    webUrl: "https://www.eagletribune.com/region/10x1000-tech-for-inclusion-enhances-fintech-learning-programs-to-continue-bridging-the-global-digital-skills/article_30b7b953-8341-5726-825f-d151007e6e38.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 3
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/b/d7/bd7ea278-a2d6-5863-b651-ff66d398a185/62467a14f063b.image.jpg?crop=1791%2C940%2C0%2C108&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "10 Tech Companies Selected for 12th Annual FinTech Innovation Lab New York, Run by Accenture and Partnership Fund for New York City"
     excerpt: "Ten emerging technology companies have been selected to participate in the 2022 FinTech Innovation Lab New York, a 12-week program founded and run by Accenture (NYSE: ACN) and the Partnership Fund for New York City that helps early- and growth-stage fintechs accelerate product and business development through in-depth engagement with top financial services and venture capital executives."
     publishedDateTime: 2022-03-29T10:29:00Z
@@ -213,6 +236,6 @@ related:
         height: 450
         isCached: true
 
-secured: "VBlP3OeAex9afVwF+XI34ezo/VRo5qwn0fq1Ilcs8nSFXPVpwEgYYwUhdMib+bnm3tZ4H2J8gwoco9H3G2MSfDyasbYalN89JSF9nPZkXPdk9py1dFRd0YCrgy7+SQriLaPpptdxbgv6plIxps+8XRHlldAm+v8K0pHFcmEMuM16xMx+bHfTx+OVCnqTFj/o00zadIZbBRaKMdIeycYLHYdr/cQQyMrWlK/NcjLaRVqLka0mrBMBkqkg2nGt2gJEuRqO/hDpGPDimq+ha84CIapzYUgflFlLyW1ZV3gCdboAc16OOi702ybbMrsCHtyDyPHOfQ1H9rgvRcJE0oU09VqEo6vlGiHJY9zsMFPfgVf+4iOzdwKw71x9DOfDbywHFq9O376RZkeBbr1O3hqW2CgspJ6dssK9WbqODl8b+UZBPzxB5Huyu7bSlVHB1CytAEh9D7EE/0+qFDrHWGOMH6zIK4wK+873a3NQ8skgmU7Z6Vjd+aiFdZI2MRbXrrWnsRt8c++uKzXfJVFYLjV80g==;dcW3xjH/1joX5n++hWMbHA=="
+secured: "PouDO++H/CJZA0dp5ij8LvnJMJtbsLaoxBXSSDqsMUe1dzTgn7rsw8j39/Q+M+z+1K+mDputRDIZgLyMoJQOYEJ2X8AdK3/wy7JmGdtvTs1dXEVvzCi6VpwyemfRG7RaDLxdZvTZmldSvAWlcnhiwVokRYSBGAz3hbkmFSqFASDZXo7csFjGTKy+rHrI9J2309ohNzuEOHWUFUfQkLNFMjHxS1y/xnbC8Vq2shDLFGF1ForssxmjKZybQzxf43BDfk4bMMyq5hXPIAtrDchpQwrFsM+pKzKacAGd9E9vk/a7e98LqXmwm6jICyAklyiW25JJhEj/QuosDFVbMsWFzp66sBc3Xm8H3nnPmx2Fk2I=;xgV4x01axy1APTQHNuqesg=="
 ---
 
