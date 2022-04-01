@@ -40,6 +40,22 @@ related:
         width: 800
         height: 598
         isCached: true
+  - title: "AI could be used to generate more biographies of women on Wikipedia"
+    excerpt: "An algorithm capable of writing biographies of women who deserve to be included in Wikipedia has been developed. The idea is to be able to submit, in an automatic fashion, a multitude of profiles so that they can then be validated and completed by the editors of"
+    publishedDateTime: 2022-04-01T00:11:00Z
+    webUrl: "https://www.malaymail.com/news/tech-gadgets/2022/04/01/ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia/2050907"
+    ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2022/04/01/ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia/2050907"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2022/04/01/ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia/2050907"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 59
+    images:
+      - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-04/meta_wikipedia_010422-seo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Meta researcher using AI to address Wikipedia's gender gap"
     excerpt: "Meta researcher Angela Fan is employing a novel approach to get Wikipedia to include more biographies of women: She's using AI to write the rough drafts. Why it matters: Only about 20 percent of those profiled on the online encyclopedia are women,"
     publishedDateTime: 2022-03-30T13:30:00Z

@@ -8,16 +8,21 @@ webUrl: "https://www.cnbc.com/2022/03/29/inflection-ai-reid-hoffmans-start-up-po
 ampWebUrl: "https://www.cnbc.com/amp/2022/03/29/inflection-ai-reid-hoffmans-start-up-poaches-staff-from-google-meta.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/03/29/inflection-ai-reid-hoffmans-start-up-poaches-staff-from-google-meta.html"
 type: article
-quality: 142
-heat: 142
+quality: 144
+heat: 144
 published: true
 
 provider:
   name: com/2022/03/29/inflection-ai-reid-hoffmans-start-up-poaches-staff-from-google-meta.html
   domain: com/2022/03/29/inflection-ai-reid-hoffmans-start-up-poaches-staff-from-google-meta.html
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/102361208-20150122-0467-1057.jpg?v=1421960237"
@@ -25,6 +30,6 @@ images:
     height: 1333
     isCached: true
 
-secured: "DeWm07Qm9sUzQfTkpwhZMernT8gAraVe2I3JwGzyeA+AEGf2chIWfFLSn/RmbcuvgjFH/8wuDMgxzc4r4eWQmLZaE+4LK0Pt9Mp+tUvQdeb74OnXT1xMKlX81X+mbH2bFlGMajxFZtc01nJzlBQxE94hexoKATVEqWJn+eEUM22AO+1ztmHVlsuazfupc1tz9kJy6iWb5LctxEv/mnxCnoUeHtlpVmT2s6rVWlLeWBC95Obz9OFmNrSo1I0c+jlxu0bYbTAkd+P2aRaZJc99LQRAVzs3wM9Hl8J8HtJ0qhGXi+5PPagOxWptuj6GJhaVij5JgbT+8eiJTKPUR48SQdsGlw009tjm5y8o1zWNQJ0Kv3eBCzXc55JQnwfi+xO7Mx9FYHSuA92JfbKXRQoydlarkEnsyH09sgvK4i2x8vmDxZWC7ql5KGBYwcznjenyADyrxx8KGQAFNIBeT3W3JHuCTPD8urMezItw9KlWSISHuKIGtEBt0JhxQvr3nnCldoBIs7zHX7yZ+GfIjHN8DLkOQxyB/zfE3S9yVkwe7wg=;8VqyoTn5aygTg+lb+O1wbg=="
+secured: "qxYrjMvtMmlrPePiJQ+1lnMsNIVA884I9XoF15ciY38vSrPl4YdfaaD2Uz1ybuLdgo6lpA+Wo577Ook5yWNRDp9lwx9MAE8e1yBsXXd+ooQ10G7Wi7xyrPrb+5m2IPtNewl9OGXFslBflWPB3Ijzw7N6xPuvh2af5BRkP6JM1vHK6N/dhBKdi1M1X/RG+st4Bpm+qed9BlReC7xn7JUO3G/iOM2xC2Fwiq5+wIpj0ifEJjrVEnxaMD7QmRbIS8e4nIdivAhDNcDr9tdFp7zLPddTbkDgG/mixrrZ3miXt4NIHEeQrgMcl3lTm4XyNS8PYHaEZmazp9iOUMLZGf0u6AvA6wBmsPfzqzcSQ8HyRK6CsqW5G+aehVLfvmDK7u7sQUafNwCMg2cTfpyZv41xgRYZGCxBpSU6/+/ba8AZ3TdWAnvhvz0fzfm4tcwv34lI5VWYFKA3aL8U7JLT6tOJt4fgl7e8H2gdzd8G1i4OBPDez7vm1mcnKDtb9ByqiHn/ZeMjM/gEbd2YYsgOS9jp2zPytv3DD6tAbxpJ0lCre+M=;gpVyBTJTAboTgZsATep3ww=="
 ---
 

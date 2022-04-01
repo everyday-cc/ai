@@ -3,24 +3,24 @@ category: news
 title: "Inspur Information AI Servers to Fully Support the Newly Announced NVIDIA H100 Tensor Core GPU"
 excerpt: "Inspur Information, a leading IT infrastructure provider, announced its AI servers fully support the new NVIDIA H100 Tensor Core GPU in four- and eight-way configurations. The servers will offer unprecedented computing performance,"
 publishedDateTime: 2022-03-22T17:06:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-f730c71d87f64819813c13d39437358d"
-webUrl: "https://apnews.com/press-release/business-wire/technology-f730c71d87f64819813c13d39437358d"
+originalUrl: "https://www.joplinglobe.com/region/national_business/inspur-information-ai-servers-to-fully-support-the-newly-announced-nvidia-h100-tensor-core-gpu/article_bdbf4083-5e1c-541e-a1c2-1b4c5bd4f124.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/inspur-information-ai-servers-to-fully-support-the-newly-announced-nvidia-h100-tensor-core-gpu/article_bdbf4083-5e1c-541e-a1c2-1b4c5bd4f124.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+    width: 300
+    height: 250
     isCached: true
 
-secured: "JVofCasYqHvdQgqBRecoko8EEP4X0slaQYjVMPVDEvzusUZjb0+2sJdo83mPHxMH7MmUixtaIqWzOwlloCCVD7rFcM0IzTusKoIWOlAPyYvZlW3LSU1jPq7O5scoHUc7xGVIVlbKi+ncOkua5hC0rrxuH/knmZkRf3ReVuTPNEPcaBgvSbOo3nzLcL3SKXzV04ui1W18OhzXIJqY8iwUu85olcmWwAliV41Lrqg/GOZgfsmjbaJ6wWsKSK3jOEf8uJFlg/AQCOR7u+QZqRc3OIMbzVwu3hJ5v5hHioQW2Qm78F9GcAmZGGVuJRym2GByz6iE0oPTMC2s4p3Rc9xdETDdCY7EDnC7a4EFWlzVRFc=;pJPVaXTGPNe10bx8uRGpQQ=="
+secured: "643HC0RHK4OJji0+HrIEUsCBroqKbgzUqeXNZFKBZoBjKDKzWbW6E6So00DVVJDP4cNFSCJRKs3WNzDqQ/8MTQ+umAS4yNkm0xzEKsRvJc4xqZJuK9SW5Aiy0z31rYYsw7hCQf+6xp0iEAiyBMesfMU13B5mUfYt7k2a0hhf2HQNurR51R8FO/z/Er4Rj9rsBBSwBNWX+PRNueTx5zCICAOlElOknOO+PxtMhr4Cwgi4NIieH0Rd02AKAcdwjKRmy/nQPf/IqWkokHz7lvfas8Y3EQNmyBMIvZdZnbv11IHu7mTB8cmbcQkaozLLab5mLutX0f6uiizWJpy1KsBl6iwaLuB2qLeq4jQGSF92SCk=;3lBNfs3NHvvVpTSEyrjiMg=="
 ---
 

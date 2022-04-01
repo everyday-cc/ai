@@ -1,15 +1,15 @@
 ---
 category: news
 title: "SAS and Clemson University deploy AI and machine learning software for education and research"
-excerpt: "SAS skills among students and supports analysis of massive datasets CARY, N.C., March 24, 2022 /PRNewswire/ -- Clemson students and faculty will have access to powerful data science and analytics software from SAS thanks to a new,"
-publishedDateTime: 2022-03-24T15:43:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-health-business-clemson-university-1cb40a84c95f8818113e8bb1b8d4105a"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-health-business-clemson-university-1cb40a84c95f8818113e8bb1b8d4105a"
+excerpt: "Clemson students and faculty will have access to powerful data science and analytics software from SAS thanks to a new, $3.3 million donation to support teaching and academic research. Extending a 2017 partnership,"
+publishedDateTime: 2022-03-24T15:51:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
@@ -18,11 +18,11 @@ topics:
   - AI in Education
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1772498/Watt_Center_Clemson.jpg"
+    width: 400
+    height: 266
     isCached: true
 
-secured: "fz9O2rJCka8223kHCXcNhE1ZTxwZrDpRAMoDyZVPNl0jCteVdCKehbuOOXLbR/vLz/QkKTaJMocULxd6ChETkFQE4jIbrKtb1N3w+afkM4wItwonf6OWnFpZCo4nhGgqr3zHoE5FAEkn3R20P07/yNZzGrfvEsTP0c8djJfCD5u6fIqcnjwGos8kT9/Jp1b8GnGc4SP+DGY8lojaEvaFjgAVsmzHmCvNnRr9exzlLz+sZMHrOxGVRt6/CnsowRsiZftXK5Ri/vSlWdVg7fi51mIJkMfJrSm4qmZV4uwriGlElH99hGnp2sT3LkRtZ582lGlOP3/DPDcwpW2GaDrI7BsOHbCyFLs0NicR79pz1Xw=;R+B+F+q2ZGQh1Y6ZhNk8NA=="
+secured: "3vPCkCPcU5nqrvkIpLWWROk6wC5hktzxoiAsRNpIN4ums5vRpH7t47WJ/fGGBUtC8qMUx+qf5OsKh1sv50ZXIUN5qI+pZle72+bWd9Oer4GiHfoZ35e6D1iDeEyojhf6WXO/jEW3zY/7q1W5CyySkCl5TMPtn3Sm63IEj5ctn6bl/neKyXO/nVTmjPkQJTML/EWJ5ZSnozqpXDPb6yYEjdSIHJOnwrKopm8M0a526wyK+rtUAmicHm2O5RMgfU+uzdRT1Zs1di4qyTIY971E2MyQ9zp9N5uZ2VPUfha3aw8c1MVJN7dDBaMKbo/J6Gcm9LUhAmt2/nNz140pwlqdmnTevEJWicmQ2Qi6icMyT+0=;qR3MadxtinctRMX3RjSGyw=="
 ---
 

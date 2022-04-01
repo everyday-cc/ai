@@ -91,6 +91,20 @@ related:
         width: 1000
         height: 603
         isCached: true
+  - title: "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow"
+    excerpt: "Former Envestnet/Yodlee executive will lead the recently announced platform that combines risk, planning and financial personality to help wealth"
+    publishedDateTime: 2022-03-29T19:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow-1031316438"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding"
     excerpt: "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding. | Crowdfund Insider: Global Fintech News, including Crowdfunding,"
     publishedDateTime: 2022-03-29T13:21:00Z
@@ -166,20 +180,6 @@ related:
       - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/03/Top-20-Upcoming-Fintech-Events-to-Attend-in-Europe-.png?x30842"
         width: 1024
         height: 567
-        isCached: true
-  - title: "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow"
-    excerpt: "TIFIN, a fintech platform using AI and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran Bill Parsons has joined the firm as Executive Vice President & General Manager of TIFIN Grow."
-    publishedDateTime: 2022-03-29T19:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-bill-parsons-joins-fintech-tif-as-evp-general-/2022/03/29/9572869.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Fintech's New Era: Profits, Perils and Limitless Potential"
     excerpt: "In fact, it’s estimated that global banks have the potential to generate up to $1 trillion in additional value annually through AI technologies, according to McKinsey & Company. If keeping ahead of the technological curve is paramount for a company in the fintech industry,"

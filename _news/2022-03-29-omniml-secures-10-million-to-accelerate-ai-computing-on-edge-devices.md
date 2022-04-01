@@ -1,27 +1,27 @@
 ---
 category: news
 title: "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices"
-excerpt: "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment by Qualcomm Ventures,"
-publishedDateTime: 2022-03-29T15:08:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-san-jose-venture-capital-artificial-intelligence-3c9b1122a386442a83dab3822c84a7dd"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-san-jose-venture-capital-artificial-intelligence-3c9b1122a386442a83dab3822c84a7dd"
+excerpt: "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment"
+publishedDateTime: 2022-03-29T15:42:00Z
+originalUrl: "https://www.lelezard.com/en/news-20309928.html"
+webUrl: "https://www.lelezard.com/en/news-20309928.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - Facebook AI
   - AI
-  - AI Hardware
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -70,6 +70,6 @@ related:
         height: 339
         isCached: true
 
-secured: "KGzFoGNARaq9lP+t4w1zLXUu16NoNNr6jqTfMc8jFfhrs6Wcvz2s6tCOiB2pgCcjgsOKILQlIe6GmU0Zv/8sa8EnzHcbHl5aqUB6Xp1brmjKeqn2uwak8XZU0Sof5fFfkY481rakhq8hTIVNTAp5V7YrDfmQ4s8WORmnqlyvMv05aLkwrdiGbr1EpHKhG1x0cNrNSvS10L7OaE5Lhs4AB1HZIH5aQU7oDF4N7/5H/AOxEn/4ySpbF26oKWfr324psQWh64iXjEjthcn+79eI7Kbu22VN7dMa3JE/Z/eeUkcJbP9AUs0CqYuCgF2ntnZ8WPy65rWrUn23z/ncdD3KqC2pBGX1k8MBxEr0oPhe/aw=;G8SYcXPdcmdJJoNzOkSZww=="
+secured: "aBOaehJhvF6E/AOpXEABLH3qYPMfhHgmZgsKbNHKYd0Qp+nzk9vD/rE/mJ7AAsVLkCYjtAFu1zzA5pdEbI1hqkdQvJE++GcSz7lAvS4/65FoiP7CDqxfK2Kx8tPtBpI+tEBCNEuxQzPVs49HQHWH4PD7Rboxd5uJFzWAWS0BAT0WQRpYmLE+qzgi7RfNiEk7MfPHCr67uxo8fqMM1xlhfB/YHEUZmlB1S1+w7P6zg6k86tWclPQnmnMVuerwroUR2I6kRndMZdojQHHaaOdy3TPowo9pr/ilCzTdfGrnwC2IY6zhPuw9VHLwUOYocyN/kuh49IpcGurbx28dSKqWiOAaJFujJAYAaxaeD0UD43U=;QlkZ+BXUaNungTPKPQdkdg=="
 ---
 
