@@ -2,7 +2,7 @@
 name: "BigPanda"
 overview: "BigPanda Autonomous Operations platform helps IT Ops, NOC and DevOps teams detect, investigate, and resolve IT incidents faster and more easily than ever before. Powered by Open Box Machine Learning, BigPanda correlates IT noise into insights, automates incident management, and unifies fragmented IT operations. Customers such as Intel, TiVO, Turner Broadcasting and Workday rely on BigPanda to reduce their operating costs, improve service availability and performance, and de-risk and accelerate their digital transformation initiatives. Founded in 2012, BigPanda is backed by top-tier investors including Sequoia Capital, Mayfield, and Battery Ventures. Visit www.bigpanda.io for more information."
 type: "profile"
-heat: 58
+heat: 31
 
 website: https://www.bigpanda.io/
 
@@ -31,7 +31,7 @@ topics:
   - AI
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1507509693584977937/ltATDCnx_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1509909345693159431/6GBgIuoW_400x400.jpg"
     width: 400
     height: 400
     isCached: true
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "0MQoUeJRJklK8KPFAzOCW/WkUGKMAjkbK/7exST8kTkOBCpQ4O0z+G3CSIEyuZcSGbxI25iBRXNeQUigGOkD9bkZIUbE9+iggqRgjHpLE9jSSIGIgcMz0tlq7SMqNuDD1JgQt3EO2pUTd4zmZVDyUkwkvSaWlRd6NToQUwt3qcwAwdF0AC8pmlAfsuFurI0bFA2/6kXe6UcB4yX665PDYKjZeYz6Dv0M+N6FYkJEvNGds2MnE9UVylc29hVUiPR/slQW3z/QfyzELDaFoSY9Wu6ahPLShbguzbGA5AqxFT5sJcTxpA9EHo4Nc+8AMzzm/6HExTaeSX7O83CW4kNq5TuCrRn9MWMTnJQcziA3QG6Q9v6Yn9Lwo94CfkY5ozSu9AOVnwI41ZNGTuUXSSB1rWK+nwAamghBAQZJO5GeQwY=;Ym6NR5Nig/4lNyBrpwGEBA=="
+secured: "xF+tjqOB5tyVR7A1LPEqK+bRRpUOJqdp547JNF2sFoQUDFm3ZQO6run2NLSFBD95H9BYGQgRdOdWB80vlyD1nm1yh39oWWFKLodN/orT30nFPTJ1EcoIIXevd5VQ+sr4PnaHAm93HBghkwc5pcRpU1l15gT3Udcglk6v1xTaM/kyzBdoTAfnAUBm0HeYClnj9XQwceb4oAnWY6E57+2654ShdLF/At5bG5WWzmUVSG2LqMR05BAZoJjf1IU/KyWrcCfzA+rgl7zyTCTpfjFJSRpQ0Xbddf3MB7X9aUwbQK4zlTXbhE2JYDGpdrlm3l5q6m2OIw7Xn+yhg7F8ZPf7o9Frnz6seeT1i1ydIxbXm/0wn1plo76V2qGDlisp81LF3WUn5L1uUl0hgGEIUUXBpQuhs7zekSxvf5lub/OZP3c=;nHwFFA24cN09LtkSnGYt9Q=="
 ---
 

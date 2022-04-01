@@ -2,7 +2,7 @@
 name: "DeepL"
 overview: "DeepL develops AI products to expand human possibility and bring cultures closer together. "
 type: "profile"
-heat: 89
+heat: 106
 
 website: http://www.deepl.com/
 
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=-zBT7vwa3PA"
 
-secured: "/ex9P2/ZMB9nnN9FikO1/kex0vX+myOiyEY3L0RDlofMWU/T+ccenAkBQ1JS6TEHRgPGJr9s8PfvvPErWauNDyngYHJe1Xx15b/1STS0RPgIo6XHJ/qtSCwLDoZBcXgMzq+BFr8CzuYVrXZsVSB1d9/XlF+0DpRN+SylwHPQjZMrKH7ASuZssgCzypfDkkF8u4sjeoAQTWrCy9yp5qp1GCNbtuVgDsjsUX1jjEOjiYRgqQS2jvcVTdguB/1fAJyZvzvQoXXOgI9/uSDJc/u4KngXHyaZZY8aa1gwbJ2qywBUKrs+prlIuzi9QxWzq/7+SzthjMttU2SmwjhC6NIU2qfHyB86lbEsRWbq/fehvejB5EjAA2i4QzXaob32jXPepWn0cJEt4UuRvbBzQqLXBmVOPohegiAsrobaaFkvUA8=;hrhvnQZ1ACCAIkSR9+4D/A=="
+secured: "8nYTorgnfKD+CeVRsiLg8Ujj2V7A1msAxCUs9H2y7x0hM1f8Gz5QXP3yFRJRvBQNHwr++HCt8qZQdkRGnHs8993x7SAYmh7kNzVw8pDHsUuBnupMSv8wkkMBmGIOM3eI0ahNwkBd6L5FWPzRqtEpco5Iggf+7TX6fR2FsoY0vkL5KdG2Cir3WxmrMx0Mx/GuO84OdV3IhEKz4n1N+AGMmr7hfjfRsCukEEjp4Y5JdMkZtNGJtIazTJPfVw8DI3gRgoBLalDOU9h4hOjIMmgP64+jXgd4qpjxUDUrp/7oVGieOe2Mgkpp0JP+YX1HqCrnRHeVv4XceqMrugx6Xk3XmpGCca7qM8LjiQfQ4d3BBGuET0zuxhkVfHxP9iPUpc1j8jKCkEelWrEJctD/pFjuRpW33efi0i4tMnNxmyGbvys=;EBU6n91Nb0jVh/kCheeTuA=="
 ---
 

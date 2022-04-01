@@ -2,7 +2,7 @@
 name: "Arterys"
 overview: "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc."
 type: "profile"
-heat: 72
+heat: 89
 
 website: https://arterys.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "arterysinc"
   url: "https://twitter.com/arterysinc"
-  followers: 1981
+  followers: 1982
 
 size: 51-200 employees
 yearFounded: 2016
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=R_GU1ne-oW0"
 
-secured: "uHMRYiqL0URqDAkra7btwWIymauGRcjs/VseQJtue7YuDnNWP1uxYYUA5mA2zqE53KCvo8sXg5UQnjecSFds/N+rFUmhCIuKYBGHMwM8W36Or47GxAXjJdGe+YtAusJuoSVTrlcdpbm/P6JjbTwQXdU8g9G9ho94mu9Dh5qsywnXccZnkp7UUZy9OO5uTawD8rFCLV9zHSdwnuaHN1nQfjwsTjcV9t6c2EMwynm3HlB5r4QxMwkRvi9Zh8zlfmlxU7iauURh87Z0axW9BfcgAcRGtrbW4PDjLmXeq4d5uGJAdlthnfsroc1pXYjoTMdUfppUGRIjso5RqN9Iu696VONX2vszZpdVZxe+bd8fGC/CdDEvoAcNrOijQC9G0znMHUFFpNJc2dww9MPURl3HAtahURQyKmKOhf835NRGQX8=;wb6LUMVXBA6K7nV24cocRg=="
+secured: "EEj5LeaUG0ZvI7/HPnBS+NUuXAYZVY03MUfBsXa4WRX5Dt/sF7BtQt/A8EXkJ0tg3j0Q/VonCHdaLdFQjSqnS0CDO5jcTHvsETCgRmUFdeJfEeMNLPlk7dtyz/LkplmfWG4QHIKRZq1pbkB3abNoWCvnj0Xb1ROQdpzCcBdmHAw3fuuIgqk9tKR5++FdHFt1x9jf5E5Ma1rxGbauElsJa+HhwjgUJGQauAjVeOJZPlylAJvJdhRYAJsZVLUCWTBIEpghuUIO+JS2LgW5V4dS53TvZniFq3Li5Bl3cJu3/kdgTGcqG1u6Gq40m3GSF15JIdepkyxmxxaQo3olFejsCzBZ19REmTHl1FQI1kefI4RX47pDWP8GcEu3YUOxxdYXRMPPwte/hDEl0hHzv8AdcRIVkEaM9sJP0L83qFZ9X4A=;TmAGTzH45QT8MjnroY7CRw=="
 ---
 
