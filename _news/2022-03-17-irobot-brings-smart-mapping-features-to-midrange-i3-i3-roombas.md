@@ -19,6 +19,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "IHr95gGAdsf/QG1I3fbGoutALowhM3Xd6zVT37kY8is4dZPMptIftgBNqNi5XJ+GHG0u2KpDevJjJQocGZ5S+RaePFAAb7o6PDwyayvJPDsG4+VTo7eOJw7WkuKVt05/OXDcrXxXD2xzbTCRRlGXCOsGd/ael3S4uQIRjZ22Hj2rmmsrQnirYccsEv0HVhVyXPhyA8nGHc0pNE6evuUbJf1AUGma/YJ8mSHKDpP03V6qQz6+bJr+Gi/G+X6LxanGbVI3DdxbLaAR9kVW9ZMxfXSXL4OGj9hqqKSPeVilFCtZFWaeS1PN8qahVBk0h/Ix+1jGHDFGdRSL9/im4CO1XkNdvq4lkLrY0A5aFmS/Y+U=;fEHi77Ft1J5qSr9EyDgt8g=="
+images:
+  - url: "https://sm.pcmag.com/t/pcmag_in/news/i/irobot-bri/irobot-brings-smart-mapping-features-to-midrange-i3-i3-roomb_hmh1.1200.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "CeX2gdClqW3CrUMuMCc3ridVtVylsWeS6qXeyjmFQi4UQ7lEMHeHeAPTeiQJ7/FVB3aDlmNkjwd/FBMVb8zI3t9UnSOYRvwJQ8TDey4RWdNq1BL/lIpq41VCwI74gEAy9XAfoqAQsZSJ/TXfK38pfcF+ZBiMAmZDxnMLzhniyEcCUEshLBbiupTFGmooJvmxHf2ukGCbycTZjcE9XCr2n9vSGuiJxJe4eIqv4tBrk0sZCvLhGCiQeTz0Y88MANb0u+sLGMQvA9gPRaPWD/CBYcd/4p/9yXghf7Av6Hk9FKgtsNlgTzO17kXeDSQVa+fKVK+PF1x7AydcucjZ3MRGlIat+1lrG9QCPpGSAHNpES0=;tDHAPxGIhGiAbVGmCYlmlQ=="
 ---
 

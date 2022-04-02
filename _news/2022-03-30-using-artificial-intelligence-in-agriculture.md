@@ -115,20 +115,6 @@ related:
       name: Insurancenewsnet.com
       domain: insurancenewsnet.com
     quality: 17
-  - title: "Can AI be for good? Wunderman Thompson Commerce investigates the benefits of AI business solutions for businesses and consumers"
-    excerpt: "Between regular post-shopping festival delivery woes and the pandemic induced global manpower shortage, is it time for businesses to adopt AI to resolve supply chain business challenges and more? Consumers seem to think so;"
-    publishedDateTime: 2022-03-29T01:32:00Z
-    webUrl: "https://campaignbriefasia.com/2022/03/29/can-ai-be-for-good-wunderman-thompson-commerce-investigates-the-benefits-of-ai-business-solutions-for-businesses-and-consumers/"
-    type: article
-    provider:
-      name: campaignbriefasia.com
-      domain: campaignbriefasia.com
-    quality: 9
-    images:
-      - url: "https://asset-cdn.campaignbrief.com/wp-content/uploads/sites/2/2022/03/29092639/Wunderman-x-Adopt-or-Fail.jpg"
-        width: 1640
-        height: 756
-        isCached: true
 
 secured: "oESrif+Y53/u2e1J7MoMh3iQvumkgcEXRMD/tE+kBdBTod6lhSISmOQ49D7XO01Q9/YfovkCx0aATk2h+EolSAavFd7UAlAL1X9bC3i4KXJsxOzI3QOO5RdYDCRV6Yk52QgMRt95aLTJxlkYtAC646JysRqBVTFyRq7j3GMz3V1EmNpw2b2mVJEv82N7yI2rqPUDAGd1ojKaGMS6171s59BjXMhZxid/BcLu2GFXML4vqupHH/D/rlhjRSc3kzODpFYrBAU6eozfNSBMC/WxODG2YMMTAolSKh1sRLsJxQCqY4ECVI4DUpcATyx/GEFB1dXvRw909HbEuOS3fcAYKWxokk3ASxOTngv/LscrEU8=;bUMTLVhgQxT8JmhZOrj2KQ=="
 ---

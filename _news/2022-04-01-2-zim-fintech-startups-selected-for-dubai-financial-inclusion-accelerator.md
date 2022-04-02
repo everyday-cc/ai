@@ -201,6 +201,15 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 4
+  - title: "3 Ways To Play The $300 Billion Fintech Boom"
+    excerpt: "Fintech, aided by the emergence of artificial intelligence and big data, is one of the world’s fastest-growing - and most lucrative - new industries"
+    publishedDateTime: 2022-04-02T19:00:00Z
+    webUrl: "https://oilprice.com/Finance/the-Markets/3-Ways-To-Play-The-300-Billion-Fintech-Boom.html"
+    type: article
+    provider:
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 4
   - title: "10x1000 Tech for Inclusion Enhances Fintech Learning Programs to Continue Bridging the Global Digital Skills Gap"
     excerpt: "Fintech training platform 10x1000 Tech for Inclusion (“10x1000”) today released its results for 2021. With the vision to train 1,000 emerging talents and tech leaders each year for ten years, the platform saw a total of 1,"
     publishedDateTime: 2022-04-01T03:58:00Z

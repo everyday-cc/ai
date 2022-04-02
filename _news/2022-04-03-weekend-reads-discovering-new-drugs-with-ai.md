@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-02T19:41:00Z
 originalUrl: "https://southseattleemerald.com/2022/04/02/weekend-reads-discovering-new-drugs-with-ai/"
 webUrl: "https://southseattleemerald.com/2022/04/02/weekend-reads-discovering-new-drugs-with-ai/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: South Seattle Emerald

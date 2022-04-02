@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-02T18:01:00Z
 originalUrl: "https://www.salon.com/2022/04/02/bees-will-self-isolate-when-theyre-sick-and-other-lessons-from-the-social-lives-of-animals/"
 webUrl: "https://www.salon.com/2022/04/02/bees-will-self-isolate-when-theyre-sick-and-other-lessons-from-the-social-lives-of-animals/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Salon

@@ -710,49 +710,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-01-deep-dive-into-nvidias-hopper-gpu-architecture.md",
-      "title": "Deep Dive Into Nvidia’s “Hopper” GPU Architecture",
-      "excerpt": "the difference between HPC and AI may be moot in the next decade or so. This is, in a nutshell, the bet that Nvidia is making as focuses its GPU compute engines on neural network transformer models and expands its DGX systems to being able to support ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2022/03/31/deep-dive-into-nvidias-hopper-gpu-architecture/",
-      "originalUrl": "https://www.nextplatform.com/2022/03/31/deep-dive-into-nvidias-hopper-gpu-architecture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-hopper-sxm5-logo.jpg",
-          "width": 1073,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2022/03/31/deep-dive-into-nvidias-hopper-gpu-architecture/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/31/deep-dive-into-nvidias-hopper-gpu-architecture/amp/",
-      "publishedDateTime": "2022-03-31T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-31-prepare-data-from-databricks-for-machine-learning-using-amazon-sagemaker-data-wrangler.md",
       "title": "Prepare data from Databricks for machine learning using Amazon SageMaker Data Wrangler",
       "excerpt": "Data science and data engineering teams spend a significant portion of their time in the data preparation phase of a machine learning (ML) lifecycle performing data selection, cleaning, and transformation steps. It’s a necessary and important step of any ML workflow in order to generate meaningful insights",
@@ -1048,7 +1005,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1167,6 +1124,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-black-crow-ai-raises-25m-to-predict-which-products-ecommerce-customers-will-buy.md",
+      "title": "Black Crow AI raises $25M to predict which products ecommerce customers will buy",
+      "excerpt": "Black Crow, a startup developing a system to generate predictions for ecommerce retailers, has raised $25 million in a series A funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/31/black-crow-ai-raises-25m-to-predict-which-products-ecommerce-customers-will-buy/",
+      "originalUrl": "https://techcrunch.com/2022/03/31/black-crow-ai-raises-25m-to-predict-which-products-ecommerce-customers-will-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-155278713.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/31/black-crow-ai-raises-25m-to-predict-which-products-ecommerce-customers-will-buy/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/31/black-crow-ai-raises-25m-to-predict-which-products-ecommerce-customers-will-buy/amp/",
+      "publishedDateTime": "2022-03-31T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

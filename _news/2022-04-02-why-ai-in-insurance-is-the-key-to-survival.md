@@ -112,20 +112,6 @@ related:
         width: 1600
         height: 1109
         isCached: true
-  - title: "Can AI be for good? Wunderman Thompson Commerce investigates the benefits of AI business solutions for businesses and consumers"
-    excerpt: "Between regular post-shopping festival delivery woes and the pandemic induced global manpower shortage, is it time for businesses to adopt AI to resolve supply chain business challenges and more? Consumers seem to think so;"
-    publishedDateTime: 2022-03-29T01:32:00Z
-    webUrl: "https://campaignbriefasia.com/2022/03/29/can-ai-be-for-good-wunderman-thompson-commerce-investigates-the-benefits-of-ai-business-solutions-for-businesses-and-consumers/"
-    type: article
-    provider:
-      name: campaignbriefasia.com
-      domain: campaignbriefasia.com
-    quality: 9
-    images:
-      - url: "https://asset-cdn.campaignbrief.com/wp-content/uploads/sites/2/2022/03/29092639/Wunderman-x-Adopt-or-Fail.jpg"
-        width: 1640
-        height: 756
-        isCached: true
 
 secured: "DMFwbVvNS2frenKq89SVMNuUAK6fBe95arpJOaT4qqB6/t5MoxuNu8fbZ9SjYUajU1+cfs6SHA9p+dp2QPXBnoMWjewKIbitZpdiPBSdGA8X1pTb1kAOsuxOpH0CmLDrAtd7vr9vT67fRxBUmARvXBR/PWaNxr68wVzCikvfVscRDVCua471+iZgfUmPYsxSFBeu38j8jySlI+sg4lcvzktWa2RBdiR4U8JNyENcqmpKMFGNbxX3bBphNqnfRTA93rIjZRLVz4lnJIs8OI+k0bR3AxgkloF1tirfyJobsT769vDo6CohvpkLJFYYv/U/vJH0Dq+0N+qav3LWoSfJpyypxSemcSwPdS+XCQQ7+6lWrRjeLV9phOTO+dO+VlCZ/KuJkbmWte2N3lLDOifofk8iNko0BIFWSMFhsr0CAL+tB7EXjkZ/RJvddd4c6umZTqzT7AS2LPg0zPFbnSwjiD6Nsxqp/zjMKO3EnqZMfbmrOJ8Nt00IZ/2vJ67bF71EDfiCVOLAd8gN7VHFZjsy8g==;W1GLJh1RmbJgHiQq4XhFrg=="
 ---

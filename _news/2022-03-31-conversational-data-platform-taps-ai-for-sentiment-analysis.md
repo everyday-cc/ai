@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/31/conversational-data-platform-taps
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -99,20 +99,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/9/32/93247ee6-1253-51c4-be5c-f942f4adaf40/62444a566e2f8.image.jpg?crop=1460%2C767%2C0%2C326&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Aventyn® Enters the Health Metaverse With 8chili HintVR™ Virtual Reality Platform for Innovations in Care Coordination"
-    excerpt: "Artificial Intelligence Virtual Reality platforms combined with the power of 3D content and digital health applications enable virtual training, patient engagement, education and health coachingCARLSBAD,"
-    publishedDateTime: 2022-03-29T04:32:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=638190"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
 
 secured: "ksB+eLjfIJbBCVW0Xm+HFpzT48HDb5tuT9lS0Ujh53FRepLlxYRyoThFK8GiWbSdpdojKNjrEi81NXx2jR0WHriILBrGzMla2myYpgn8ei4ZGScxZxJsUg166Kg+W0/jE0z84GbCJo9OcjcZDOKzQDWqnK3yONhl0Zdwo/ZUX9XKK1jHWb2ikEKMVSg2wiOR+mkjEAlOcnrWwmZhk66IYdHAJvWTXwffRmtXmpHdkjPnq4cC5hoU8I20EqxQoZ0Lcqh4RW3WxG+1hhOhRrQ+++ZQ9NbEI1U+61rHtm1RDRj7fDWIy7yWz5XPZYLpSVr1xkwwBmCaJ99mZ2KhVwucdkf25YxFYT0OO1m/6NxS28KzfYM6gd6D2CSQejdSD0pSITsavc30S8jrHABmGev2YmWWWBGdMqgYVLb7TSjZrAO9v2q3kQM9/picrIfuCAUQlEXBsKZqy6wkYY5OSY6n9ldKIjuQbcHmWeIzur6jULSfRVNLhqSZfAduNVn3ij84NrcCajNq4921FsNJXFkYUw==;K67vV+YpywNu/sO4+Cs7Pg=="

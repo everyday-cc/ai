@@ -1,24 +1,41 @@
 ---
 category: news
 title: "Fast internet brings tech jobs to Nairobi's poor neighbourhoods"
-excerpt: "Companies often outsource work that underpins artificial intelligence to people who label roadside objects, or teach driverless cars to recognise their surroundings, distinguish between a smudge ..."
-publishedDateTime: 2022-03-31T09:45:00Z
-originalUrl: "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/"
-webUrl: "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/"
+excerpt: "Daniel Nzoma's face glows in the light of a computer screen as he reviews computer codes used for driverless cars and crop disease detection, an unusual job in Nairobi's crowded Pipeline ..."
+publishedDateTime: 2022-03-31T10:06:00Z
+originalUrl: "https://www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods"
+webUrl: "https://www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods"
+ampWebUrl: "https://www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods?amp"
 type: article
+quality: 69
+heat: 79
+published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "5kdJny2kF/5ENBZpf33wGvoEf6TYWm9Rt2iNAoTjGy0UnYGKk+zYio9BqWUpEqBhx5ffIINhO7F2XaBwdqPisefLdkoqM13s5zAk8ThXXAIRUGJGmvqmgJY1fLrB9WWyI+euR66ArYLs1TchaslELdaFmAD+GEPB27g8kojqKPafjubGHuLx23Z9IW4G7tZ6DMMh9PxQiW+vJLxxoirZnUPlU9p9siqQVo3ktZG1ynvA0QqkcfkOD7k7RagGsCIBBMcB7G3enZmzXmPu5PNbeWVsh/NE13YUUz9iMHKwEwMFhzS+XF/UBVswBUwAtZwROyS5DRQ8lwtrizZZ09sKfKWaBimvgbLtWRhYBu/a2WQ=;dk69OoYiXRNKSu+DoQ7tHA=="
+related:
+  - title: "Fast internet brings tech jobs to the poor"
+    excerpt: "Daniel Nzoma’s face glows in the light of a computer screen as he reviews computer codes used for driverless cars and crop disease detection, an unusual job in Nairobi’s crowded Pipeline neighbourhood."
+    publishedDateTime: 2022-04-01T22:04:00Z
+    webUrl: "https://www.herald.co.zw/fast-internet-brings-tech-jobs-to-the-poor/"
+    type: article
+    provider:
+      name: The Herald-Zimbabwe
+      domain: herald.co.zw
+    quality: 24
+    images:
+      - url: "https://www.herald.co.zw/wp-content/uploads/sites/2/2019/04/3004-1-1-SAMSUNG-GALAXY-NOTE-5-INTERNET-PROBLEMS.jpg"
+        width: 680
+        height: 380
+        isCached: true
+
+secured: "xFVwrMPkkUKarCCPM6Zs0mkPrzFE2Gaw3V65C1UELcO1htmTsRjFlY65A08viiWZKLZtQZEYKpvzbi8PGLGFYtCMLsHqyADF8qRHCSw0ErWBHe7Wi+p/FdQAs5nbHJW6pB/ES0X5Rm8N1kHxlxT8s6Zgx0S5RPoqbtbIoVtBJ3jSjNwCvF1lUoG6jrBBp8HTGM2OLeG38xv5q+uubfIDZckF4jEeS4Ume5pZkgZHnunihf8e+wgWfMdYz4WdIP4aNx5iEc0r3TeFqdMj9MhH4fr4AYsWHAx1IJ2wVT+GEtSa5ascE8xoBkRcDzTe3UbqHz+dYLQAKwccwCtJ9aWL20JBB03P4q/wCTAMd5C3As0=;PDnhbAVsgMYHEeNC+wgh1w=="
 ---
 

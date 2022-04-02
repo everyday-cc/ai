@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/03/31/understanding-ed
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/03/31/understanding-education-40-the-machine-learning-driven-future-of-learning/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "Revolutionising the understanding of the brain and the future of AI"
+    excerpt: "We know that the brain combines sensory input from all over your body into a single perception, but not how. We think brains 'compute' in some sense, but we can't say what those computations are. We believe that the brain is organised as a hierarchy,"
+    publishedDateTime: 2022-04-02T18:50:00Z
+    webUrl: "https://menafn.com/1103953444/Revolutionising-the-understanding-of-the-brain-and-the-future-of-AI"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 17
 
 secured: "liOjKWR54saSfuK6M04WQK/7Bjk8B2rzH9vSlFbtskYZ4IH6wZ+EOorhHbCwOKgmgUbI8K5/46vG1u5rCMviav8Ru6O+whibPGcZioDSs6JK86T96rgVmAME1tfRJtFRSaheNeM4Ffv9Ci1epRfWZYfAw8uOdDlM/tDxw8Kfheoq4z5XNlGw6oiSQKLKsAdGVVXN8Kpf+2ZyzuOe4EPz65UqlxwGsEGB1S2EAr0PRaFEdn5hjaPXMLFALMwovvVpBYc0E+6ySyOF8igvpqxdVkNJzDeE5ccdm47T+sAxgsK1TGTgSCZ9INWlPbPECXvN4WkbL+HHuzQqZUo3HpEF9qscOyFSzoNnjh7PFQgTcL00ID0CZnJu6Ae2L3lxCZQ2bzRLs+35Etl/B6VD6msmgCep8OrqTX1mQJpGGtER/5oeAuO/sw/PyeyJugRFfvBYwgRDUXgmrCPyGxmsD4vcIdk1z9jxSqpAoztryuQaGV64t6MnSRFoQRw0gLs1mGIkONV9JI311eddm9xEDPos4Q==;/R1m9OSZU3r/JAlVXjzHLg=="
 ---

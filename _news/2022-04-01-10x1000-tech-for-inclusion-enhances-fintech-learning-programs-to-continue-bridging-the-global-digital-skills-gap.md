@@ -216,6 +216,15 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 4
+  - title: "3 Ways To Play The $300 Billion Fintech Boom"
+    excerpt: "Fintech, aided by the emergence of artificial intelligence and big data, is one of the world’s fastest-growing - and most lucrative - new industries"
+    publishedDateTime: 2022-04-02T19:00:00Z
+    webUrl: "https://oilprice.com/Finance/the-Markets/3-Ways-To-Play-The-300-Billion-Fintech-Boom.html"
+    type: article
+    provider:
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 4
   - title: "10 Tech Companies Selected for 12th Annual FinTech Innovation Lab New York, Run by Accenture and Partnership Fund for New York City"
     excerpt: "Ten emerging technology companies have been selected to participate in the 2022 FinTech Innovation Lab New York, a 12-week program founded and run by Accenture (NYSE: ACN) and the Partnership Fund for New York City that helps early- and growth-stage fintechs accelerate product and business development through in-depth engagement with top financial services and venture capital executives."
     publishedDateTime: 2022-03-29T10:29:00Z

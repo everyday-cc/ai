@@ -96,20 +96,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Aventyn® Enters the Health Metaverse With 8chili HintVR™ Virtual Reality Platform for Innovations in Care Coordination"
-    excerpt: "Artificial Intelligence Virtual Reality platforms combined with the power of 3D content and digital health applications enable virtual training, patient engagement, education and health coachingCARLSBAD,"
-    publishedDateTime: 2022-03-29T04:32:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=638190"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "qTCA8swjKPzftca1xXj9G/Z2TiZpT+wI/7XVkzdx4vn8WL9tVU+3UnkFUQqotXbCDYoZCViZLu+8hLhoRtK5gA0C4YXttCnlzOe4hSHhfebRuQQV14qijaXlEMJqMMXlMzvHHxN23pbWMcOXftxRvs2uyVbzdHMU/+olgySbTIHdqz0Dsh4L1+lyKocT6osyUJCc2EjyqUk9P5Z5XkpMTfmT65aV+rG7JkoFXFRQDPtd8MT0V8WhDBtjdioVR4eeFt67pN4i28FxOv0CLPqshqovxZE9zI6JHCA6FXrXk62l6sgv5VFJK7nTzRB9xzU3f0As+skFdyqRzU5Sbwe4Mcp1yv4xmASrDNsTRS51EaU=;aMGYFhbEFn8mMmVNe0pI3A=="
 ---

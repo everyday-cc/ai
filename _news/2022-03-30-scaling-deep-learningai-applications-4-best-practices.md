@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Revolutionising the understanding of the brain and the future of AI"
+    excerpt: "We know that the brain combines sensory input from all over your body into a single perception, but not how. We think brains 'compute' in some sense, but we can't say what those computations are. We believe that the brain is organised as a hierarchy,"
+    publishedDateTime: 2022-04-02T18:50:00Z
+    webUrl: "https://menafn.com/1103953444/Revolutionising-the-understanding-of-the-brain-and-the-future-of-AI"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 17
 
 secured: "zRI7z30iCR7LNNzxGN8OlJE0UOUnDjfuODDvGIO2Q6IUTFBSxTKhO7pnN+9TvkL3D54935qqaNteV/SPKkQz9fDGAzne0LO1Lg3zl3qfDIwOFsowL6CXiZD4TRfvWB00dCF8sJ7HrXcj9i7EqsiJ3ITawuVmaTUDmMiV2j8tsxHyJ96aOfYpEZ7wxXLa32Gpc6hNEd127jRsqrGqnRI1KNSbpV6IHL/RYPv41BhB9ROfjf5UZk3C9Tf8OmTpSEQIblnBJ55zgVTGj2rXhNFKoV60XEpW9qG2Q4XzM4m1ty0WtjSajR8BqKnmUf2cLTi9G/0WheqkD0nDyf+3r36t8cPLldf/cybNNmPhXlbC9cQ=;xgr4ivNHwXPZeJcjOwCyRw=="
 ---

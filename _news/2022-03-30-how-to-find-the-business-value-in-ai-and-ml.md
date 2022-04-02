@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -118,20 +118,6 @@ related:
       name: Insurancenewsnet.com
       domain: insurancenewsnet.com
     quality: 17
-  - title: "Can AI be for good? Wunderman Thompson Commerce investigates the benefits of AI business solutions for businesses and consumers"
-    excerpt: "Between regular post-shopping festival delivery woes and the pandemic induced global manpower shortage, is it time for businesses to adopt AI to resolve supply chain business challenges and more? Consumers seem to think so;"
-    publishedDateTime: 2022-03-29T01:32:00Z
-    webUrl: "https://campaignbriefasia.com/2022/03/29/can-ai-be-for-good-wunderman-thompson-commerce-investigates-the-benefits-of-ai-business-solutions-for-businesses-and-consumers/"
-    type: article
-    provider:
-      name: campaignbriefasia.com
-      domain: campaignbriefasia.com
-    quality: 9
-    images:
-      - url: "https://asset-cdn.campaignbrief.com/wp-content/uploads/sites/2/2022/03/29092639/Wunderman-x-Adopt-or-Fail.jpg"
-        width: 1640
-        height: 756
-        isCached: true
 
 secured: "a7Q5nueI8FRswapABe7jDenHyz6MAU9hiap00bpDbjtQ7xxYNnxcXx/Q33bVU9xrbciEvbhQxdWPVvAcfw/45Ha3SvGJf6y/Oyz6s9H87rBY9YPU8ZM0uGigVnMi7NXkedLCqnaMUvGsR/+ViZf9aKQ/B2gBynwiIKI8IgVvUWqq84hqvBXCZ817gQmhwpK6s83FSkDfVvSIh2611YbRK5AnPdZTDKs5kKU1pgDOKmnRIvDNZ1LmoCydSM46rrYm4FJFwImNbKENbFM7zQJ1Afg45IAbi/Euh/tbDJgHXJIxdodaflQuRMswW1L0KRTtsSpTuzNS0rLSAYZz01oCHej5NWCyQOwA8XJPix4XGB3Ytcyplnw9rqp5IndZA9FE/Cf2l8oUiB+xBYGdpfaAn2yrpw4dl+lixyHIznjfIb9fqAK1omifmvaR4Yc8c+YIbUrAQ6EctXKEP5A6nDQpi+CaJtdzxk/F4TDLrw1PlnR+AAf315I5oZl8jWIbpF5ts5or4KgvyeOUEf6Z+YPN9w==;HzU9e1GoKa2pEhk6JotjFA=="
 ---
