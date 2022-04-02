@@ -54,22 +54,6 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "Revving Up Relational Databases For Scorching Native AI Performance"
-    excerpt: "There may not be as much structured data in the world as there is unstructured data, but one could easily argue that the structured data – mostly"
-    publishedDateTime: 2022-03-30T16:07:00Z
-    webUrl: "https://www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/"
-    ampWebUrl: "https://www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 57
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/heatwave.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Why does conversational AI matter in the metaverse?"
     excerpt: "NVIDIA said that Riva 2.0 has been integrated into TAO, a low code product for deployment and customisation of speech applications."
     publishedDateTime: 2022-03-30T05:48:00Z

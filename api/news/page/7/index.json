@@ -2,6 +2,178 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-25-supercomputer-to-train-176-billion-parameter-open-source-ai-language-model.md",
+      "title": "Supercomputer to train 176-billion-parameter open-source AI language model",
+      "excerpt": "GTC BigScience – a team made up of roughly a thousand developers around the world – has started training its 176-billion-parameter open-source AI language model in a bid to advance research into natural language processing (NLP).",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=amp-keepreading-top",
+      "originalUrl": "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=amp-keepreading-top",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2015/07/31/shutterstock217132183.jpg",
+          "width": 648,
+          "height": 429,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/25/supercomputer_language_ai/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/25/supercomputer_language_ai/",
+      "publishedDateTime": "2022-03-25T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-south-africa-to-add-robotics-coding-to-school-curriculum.md",
+      "title": "South Africa to Add Robotics & Coding to School Curriculum",
+      "excerpt": "The Department of Basic Education (DBE) announced that it will be adding robotics and coding to the South African curriculum. According to the annual performance plan 2022/2023 which was released by the department recently,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnewsafrica.com/2022/03/south-africa-to-add-robotics-coding-to-school-curriculum/",
+      "originalUrl": "https://www.itnewsafrica.com/2022/03/south-africa-to-add-robotics-coding-to-school-curriculum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itnewsafrica.com/wp-content/uploads/2022/03/Coding-Kids-1.jpg",
+          "width": 800,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itnewsafrica.com/2022/03/south-africa-to-add-robotics-coding-to-school-curriculum/?amp",
+      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2022/03/south-africa-to-add-robotics-coding-to-school-curriculum/?amp",
+      "publishedDateTime": "2022-03-25T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News Africa",
+        "domain": "itnewsafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-baidu-to-launch-self-driving-taxi-service-in-zhejiang.md",
+      "title": "Baidu to launch self-driving taxi service in Zhejiang",
+      "excerpt": "Chinese tech giant Baidu Inc said it will offer self-driving taxi service in Wuzhen, Zhejiang province, on Saturday, as part of the company's broader drive to accelerate the large-scale commercialization of autonomous driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202203/25/WS623d6a6ca310fd2b29e53570.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202203/25/WS623d6a6ca310fd2b29e53570.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202203/25/623d6a6ca310fd2bec7e59fd.jpeg",
+          "width": 714,
+          "height": 476,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions.md",
+      "title": "Roche announces collaboration with Bristol Myers Squibb to advance personalised healthcare through digital pathology solutions",
+      "excerpt": "Collaboration builds on commitment to advance personalised healthcare by helping to improve access to new treatment options for patients with solid tumoursAdvances in computation and artificial intell",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions/article_aef67db4-3b8c-5c77-b53c-fb0839f69b2d.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions/article_aef67db4-3b8c-5c77-b53c-fb0839f69b2d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-office-envy-inside-argodesigns-new-hq-robotics-startup-raises-millions.md",
       "title": "Office Envy: Inside Argodesign's new HQ | Robotics startup raises millions",
       "excerpt": "Brent: Just before SXSW kicked off a couple weeks back, I had a chance to visit Argodesign's new headquarters, which is just a stone's",
@@ -364,6 +536,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-25-leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service-provider-index.md",
+      "title": "Leveraging its AI-Driven Technology, Pactera EDGE Climbs Four Positions on Slator’s 2022 Language Service Provider Index",
+      "excerpt": "Enhanced Localization and Globalization Services Solidifies Pactera EDGE as a Market Leader in Effective Brand Translations",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service-provider-index",
+      "originalUrl": "https://www.digitaljournal.com/pr/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service-provider-index",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prunderground.com/wp-content/uploads/2022/03/SLATOR-LSPSI-Image.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-bear-robotics-raises-81m-in-series-b-funding.md",
       "title": "Bear Robotics Raises $81M in Series B Funding",
       "excerpt": "Bear Robotics, a Redwood City, CA-based provider of hospitality robotics and artificial intelligence solutions, raised $81M in Series B funding",
@@ -403,49 +618,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service-provider-index.md",
-      "title": "Leveraging its AI-Driven Technology, Pactera EDGE Climbs Four Positions on Slator's 2022 Language Service Provider Index",
-      "excerpt": "Growth in its AI-Enhanced Localization and Globalization Services ... Provider Index is a ranking and an index of the world's largest translation, localization, interpreting, and language technology companies. \"We've experienced significant organic growth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service/article_9e4966e0-a8b8-5215-a906-c97477c8b704.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service/article_9e4966e0-a8b8-5215-a906-c97477c8b704.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -984,193 +1156,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york.md",
-      "title": "Skyline Robotics To Deploy The Ozmo Window-Cleaning Robot In New York",
-      "excerpt": "Deep tech robotics and automation company, Skyline Robotics, completes its $6.5M pre-Series A funding round ahead of the planned deployment of the first Ozmo Window-Cleaning Robot in New York City Skyline Robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/",
-      "originalUrl": "https://techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/03/ozmo.jpg",
-          "width": 1041,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/amp/",
-      "publishedDateTime": "2022-03-24T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi.md",
-      "title": "Edtech startup TagHive all set to deploy its AI-powered app 'Class Saathi'",
-      "excerpt": "Class Saathi is designed to integrate into the education ecosystem and enable data-driven strategy without additional infrastructure. It is an AI-powered self-learning app from TagHive Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812.html",
-      "originalUrl": "https://www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/03/24/1600x900/20220324_165758_0000_(1)_1648122980524_1648122990806.jpg",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812-amp.html",
-      "publishedDateTime": "2022-03-24T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-how-fluid-organizations-use-ai-to-strengthen-their-people.md",
-      "title": "How Fluid Organizations Use AI To Strengthen Their People",
-      "excerpt": "Although easier said than done, in a world where technology is power, it’s time to share some of that power with your employees so they can help steer your company in the direction you want it to go.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/how-fluid-organizations-use-ai-to-strengthen-their-people/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/how-fluid-organizations-use-ai-to-strengthen-their-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623b21add5d49c100fe53d75/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/how-fluid-organizations-use-ai-to-strengthen-their-people/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/24/how-fluid-organizations-use-ai-to-strengthen-their-people/amp/",
-      "publishedDateTime": "2022-03-24T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-diversity-is-key-to-the-future-of-ai.md",
-      "title": "Diversity Is Key To The Future Of AI",
-      "excerpt": "Personally, I felt this film sparked an incredibly important conversation for the technology sector: it urgently needs diverse and underrepresented backgrounds to contribute to the development of AI and ML.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623b68a3912723ed0abcdd19/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/amp/",
-      "publishedDateTime": "2022-03-24T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -1,24 +1,32 @@
 ---
 category: news
 title: "Lemonade's Low-Risk, High-Reward Global AI Opportunity"
-excerpt: "In this video clip from \"The Crypto Show\" on Motley Fool Live, recorded on March 23, Fool.com contributors Travis Hoium and Jon Quast discuss how the insurance technology company plans to use its AI for this new venture."
-publishedDateTime: 2022-04-02T10:30:00Z
-originalUrl: "https://www.nasdaq.com/articles/lemonades-low-risk-high-reward-global-ai-opportunity"
-webUrl: "https://www.nasdaq.com/articles/lemonades-low-risk-high-reward-global-ai-opportunity"
-ampWebUrl: "https://www.nasdaq.com/articles/lemonades-low-risk-high-reward-global-ai-opportunity?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/lemonades-low-risk-high-reward-global-ai-opportunity?amp"
+excerpt: "In this video clip from \"The Crypto Show\" on Motley Fool Live, recorded on March 23, Fool.com contributors Travis Hoium and Jon Quast discuss how the insurance technology company plans to use its AI for this new venture. Travis Hoium: Yeah. I also have a ..."
+publishedDateTime: 2022-04-02T10:31:00Z
+originalUrl: "https://www.fool.com/investing/2022/04/02/lemonades-low-risk-high-reward-global-ai-opportuni/"
+webUrl: "https://www.fool.com/investing/2022/04/02/lemonades-low-risk-high-reward-global-ai-opportuni/"
 type: article
 quality: 67
 heat: 67
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-secured: "fEUo20qZM/0mtPeMQjeHRwfqTLv/Mm3Zo2T2O9JajhPPYkbfCAKgIIJrVslwO3XgcQIlRpY7ehPnc0md4I/74/+ix8I068fbMDkrnjSsr5Gm9LXbCtg1nDP76UfgCBosQ/UVPaR8BaSEb/3Rm8cQQbC9ei0zNPabpQArJPS/5U2czL7xvhtQgcju2XAc82mVVjDRsf7PIUFSt/ESMaZc5khF7s9GFdR6lo+28M/cS7chRF2Yh92hxninUVgMuCxP4q1szYDl61X9BTKcogQU25Tlqn8qPbvPoGzpf+bTve68/+dzWAYPp2ckbs+sgCMq5OrCqU5vJabNF2/kpm6MTuXvLeLpJrtTaEXE291E6Ow=;2CxE3Tm6XFkjL79JwF9hiA=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/672865/farming-field.jpg"
+    width: 2119
+    height: 1414
+    isCached: true
+
+secured: "uiaW7wj0HZtnj62GCGLFMws5i5aAS/SQPI77en9SnIQlMNvJHJsBK7qrWmcwuwI6HO0jORT43awbmByORtYxr7pqnNqXQ3qdb/lrOsljScTfKuZL/UKArwxHG0AFrdPf9EDO3OC1NCFMVXua4WUJ6F0SqBO1+hRamhozkMq/CWN2snmqU2QggkIinUDm0HHX3MxIVCb9M8kZJ4XEsLMP+lzKJTzOeZbgJ07MSH5wUPKxRppmy8tA4tFXx9yUqudT+2aGDUlbDboKyuTsNcGuaOE5ykZU/nuOPGviIcjIysVcdkuiEtRTZrbMlM3uT7v3vH3USqgUEFVQwz4r0DunOEniTum9utZViKf77sWEnJM=;6yImC5XAMP3du46arRbysA=="
 ---
 

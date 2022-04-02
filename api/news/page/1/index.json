@@ -2,6 +2,143 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-03-lisk-machine-learning-lml-price-reaches-00235-on-top-exchanges.md",
+      "title": "Lisk Machine Learning (LML) Price Reaches $0.0235 on Top Exchanges",
+      "excerpt": "Lisk Machine Learning (LML) traded flat against the U.S. dollar during the twenty-four hour period ending at 13:00 PM Eastern on April 2nd. During the last seven days, Lisk Machine Learning has traded flat against the U.S. dollar. One Lisk Machine Learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/",
+      "originalUrl": "https://www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/amp/",
+      "publishedDateTime": "2022-04-02T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-03-the-importance-of-data-audits-when-building-ai.md",
+      "title": "The importance of data audits when building AI",
+      "excerpt": "As Zillow recently found out the hard way, if you don't conduct proper data audits, you can run into costly data mismatch problems",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/02/the-importance-of-data-audits-when-building-ai/",
+      "originalUrl": "https://venturebeat.com/2022/04/02/the-importance-of-data-audits-when-building-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1152951178.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/02/the-importance-of-data-audits-when-building-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/the-importance-of-data-audits-when-building-ai/amp/",
+      "publishedDateTime": "2022-04-02T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-02-elevating-human-machine-relationships-with-no-code-reusable-ai.md",
+      "title": "Elevating human-machine relationships with no-code, reusable AI",
+      "excerpt": "As shown in Figure 2, the bottom layer is a set of general-purpose machine learning models that any AI system relies on. For example, data-driven neural (deep) learning models, such as BERT and ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/02/elevating-human-machine-relationships-with-no-code-reusable-ai/",
+      "originalUrl": "https://venturebeat.com/2022/04/02/elevating-human-machine-relationships-with-no-code-reusable-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-594827905.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/02/elevating-human-machine-relationships-with-no-code-reusable-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/elevating-human-machine-relationships-with-no-code-reusable-ai/amp/",
+      "publishedDateTime": "2022-04-02T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-02-leverage-machine-learning-on-your-iphone-to-translate-braille-with-this-free-app.md",
       "title": "Leverage machine learning on your iPhone to translate Braille with this free app",
       "excerpt": "An iOS developer built an app using CoreML and Vision to find Braille. Meet Braille Scanner, a new, free iPhone app.",
@@ -911,7 +1048,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1046,162 +1183,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-black-crow-ai-raises-25m-to-predict-which-products-ecommerce-customers-will-buy.md",
-      "title": "Black Crow AI raises $25M to predict which products ecommerce customers will buy",
-      "excerpt": "Black Crow, a startup developing a system to generate predictions for ecommerce retailers, has raised $25 million in a series A funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/31/black-crow-ai-raises-25m-to-predict-which-products-ecommerce-customers-will-buy/",
-      "originalUrl": "https://techcrunch.com/2022/03/31/black-crow-ai-raises-25m-to-predict-which-products-ecommerce-customers-will-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-155278713.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/31/black-crow-ai-raises-25m-to-predict-which-products-ecommerce-customers-will-buy/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/31/black-crow-ai-raises-25m-to-predict-which-products-ecommerce-customers-will-buy/amp/",
-      "publishedDateTime": "2022-03-31T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-intel-confirms-acquisition-of-granulate-reportedly-for-up-to-650m-bringing-ai-based-workload-optimization-into-its-fold.md",
-      "title": "Intel confirms acquisition of Granulate, reportedly for up to $650M, bringing AI-based workload optimization into its fold",
-      "excerpt": "Last year, when we wrote about new investment for Israeli startup Granulate — which applies AI to high-priority computing workloads to optimize how they travel across a customers’ cloud and on-premises networks — we noted that the network management space was going through some",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/31/intel-confirms-acquisition-of-granulate-reportedly-for-up-to-650m-bringing-ai-based-workload-optimization-into-its-fold/",
-      "originalUrl": "https://techcrunch.com/2022/03/31/intel-confirms-acquisition-of-granulate-reportedly-for-up-to-650m-bringing-ai-based-workload-optimization-into-its-fold/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1095112402.jpg?w=1024",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/31/intel-confirms-acquisition-of-granulate-reportedly-for-up-to-650m-bringing-ai-based-workload-optimization-into-its-fold/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/31/intel-confirms-acquisition-of-granulate-reportedly-for-up-to-650m-bringing-ai-based-workload-optimization-into-its-fold/amp/",
-      "publishedDateTime": "2022-03-31T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-understanding-education-40-the-machine-learning-driven-future-of-learning.md",
-      "title": "Understanding Education 4.0: The Machine Learning-Driven Future Of Learning",
-      "excerpt": "Education 4.0 involves machine learning in education to align with future trends in order to develop and improve individualized education, which will eventually define how future generations of children will work and live.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/31/understanding-education-40-the-machine-learning-driven-future-of-learning/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/31/understanding-education-40-the-machine-learning-driven-future-of-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6239a9d4ae5da62d2188f0df/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/31/understanding-education-40-the-machine-learning-driven-future-of-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/03/31/understanding-education-40-the-machine-learning-driven-future-of-learning/amp/",
-      "publishedDateTime": "2022-03-31T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

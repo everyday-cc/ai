@@ -3,10 +3,10 @@ category: news
 title: "Breaking into the black box of artificial intelligence"
 excerpt: "In February 2020, with COVID-19 spreading rapidly around the globe and antigen tests hard to come by, some physicians turned to artificial intelligence (AI) to try to diagnose cases 1. Some researchers tasked deep neural networks — complex systems that are adept at finding subtle patterns in images — with looking at X-rays and chest computed tomography (CT) scans to quickly distinguish between people with COVID-based pneumonia and those without 2."
 publishedDateTime: 2022-03-29T14:28:00Z
-originalUrl: "https://www.nature.com/articles/d41586-022-00858-1?error=cookies_not_supported&code=b416cd61-ab8f-4dea-a6f7-c76c01e7969f"
-webUrl: "https://www.nature.com/articles/d41586-022-00858-1?error=cookies_not_supported&code=b416cd61-ab8f-4dea-a6f7-c76c01e7969f"
+originalUrl: "https://www.nature.com/articles/d41586-022-00858-1"
+webUrl: "https://www.nature.com/articles/d41586-022-00858-1"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: nature.com
 
 topics:
+  - Machine Learning
   - AI
 
 images:
@@ -128,6 +129,6 @@ related:
         height: 756
         isCached: true
 
-secured: "R/taoghbF+csBTI/Gmbl2QyUPHl689Rxj8ixd9Rvh/mf3w1VsfG52F8b5weSDpUNnD+9pkoMYFEhicukDxp+3ipx6ndrVyGtud1zTlQMecWI3ashg5vkKv8EevGmX2dfFng78XysMCFFBud8LVOyobtuVOd/5B3FZHW5ndjbqxsR2HJoLWcE/J4RY9AHkI77h+wbesqzLLaocDMUG0vMsEiJRzB03u26RRRtKv7omYdhdCRgHhE/ucPTYENtC+5KawcRDe2LqNv2haowZXtjSlBA1Ix68rVVM9q1F7O6y9v3o9a55TFTIenCQa9LdbQwQaAkU4l44TgXoFTsmrGPFc0PYl45TiYDcKJNjAj46Nw=;xqxTmphrO0J2k2ChAEQsFw=="
+secured: "Abi7CV2ULkOAgdJVuf8gzTGR8+X8CdQtu9mt6mKczdklu4Mx5SJZA+d+qvVXYEIisco3xEbb4XMppRrorhyts4V1nlnDZKUQq/ff3PE+wD8VkIF0Rd2iJPGWF/jZM7vVFEXsm7NtfJbv9ZFwK48/vvKNX7MW5LYsILlyrOCzrBUfGit6Eb1H43PNjuSzOBOrnG49Xjf1PECOfWMUMuwXcUPshierdkh83vZVFzVoWL9Gy3yXU6op42yOeuuQy+oOaZs+njeCHTGsVFmTSGewbY2c/WfyqW6PXxlNTm7PIjqcZrNc/fVTZAYmBbcyhtvSZGs9BkGEuTAtY8MhSB1FrovXdwTQsQDYKjwvYtCbm9Y=;bQTdGRhcBWLSwRDxtOFaEQ=="
 ---
 
