@@ -5,12 +5,7 @@ excerpt: "A controversial facial recognition company that’s built a massive ph
 publishedDateTime: 2022-04-01T20:29:00Z
 originalUrl: "https://abcnews.go.com/Technology/wireStory/face-scanner-clearview-ai-aims-branch-police-83819354"
 webUrl: "https://abcnews.go.com/Technology/wireStory/face-scanner-clearview-ai-aims-branch-police-83819354"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/face-scanner-clearview-ai-aims-branch-police-83819354"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/face-scanner-clearview-ai-aims-branch-police-83819354"
 type: article
-quality: 57
-heat: 57
-published: false
 
 provider:
   name: ABC
@@ -19,12 +14,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_5b9defe112f648c79fe90ad49bf2b37b_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
-
-secured: "vlxpUuK7KMkZ/DJn1Kohy30N0OszrYrI1iH7PlzgopS4YprPIp91mIH3pNW9pq6LxfkhcJvAK1rHJiicg3WshJBRrVeLVdXG87QyRMYespglQB+NoAeFWcxRPeQ8X7IuUZmwAdrowyemJR9BlP7aLLiDlP1iIrTklFS/XeBmIaPdiHBZA05dbFTFaz5FVukDX21flUzq+VGnRtBuFcL9rw/4rctPZQ6aKhWYvzmB4y0/UVFJbvBrhEBxNwKtAxyzzU5/+Fsarbfs5qeRCknrpAY6ULG5M12XC55wbxsLPgHup8QjamMHllD2m7fL2yWDFzwBu5sGNHIV8AWL0Qn1KDV2XM7qOzXfnpo6iQ6WvUI=;UUfDlNI3JogZd6KSNzQRQA=="
+secured: "2f73VM7tcTlaqLLn1LHVFu9btL1WLQyqJGrplq0YVE6LL15F48VM0mCHyBLbxNN6kcRURpyZAXFlcgiv3jA4GMjV9+QeF011jQ7KyaMe2BAi1SxuXJFS9uLLvxVcXZk7PHrkwGxVSvIzy5Bud2aIV6cwDRzGnFRTclYWVHwsRB3YGjPQkWg5N6MwOCpTZOlm6m/qDWqjVrhkRoEq1CfJhN6VnsSA0b7HHylnFJIYfyaPPXbLBcgRj9JBOOiBMsS5+BFL2sjWExGasCdvBo8Y5tGcetC1S0NBbbhfZt4DzJ2zmAuoPu28ghGDn8/iIzbdriYoNx/yl7KLnWpl7w/aKi2bYtV/usy6WibqV/ha7s42Ua3qtkr4BUH8fsQrmeml6DhTD0RhrdeT4ECGlS24O6k2eoE/SmPUxKuViFykKF53U5cCcZzipmetFDX/OFy50YUm3RSN90j6Fv+FWkeJwIeM1xwdVdMaIpuRxYC6AHPzLcHdg2UhD1bJntMW0Njg/igzD4aeStzQ8S722HqrsA==;kf+lB82VTjw+y7oELn/qaA=="
 ---
 
