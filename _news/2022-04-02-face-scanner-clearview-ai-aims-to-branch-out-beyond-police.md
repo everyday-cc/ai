@@ -2,27 +2,27 @@
 category: news
 title: "Face scanner Clearview AI aims to branch out beyond police"
 excerpt: "A controversial facial recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and the Ukrainian military now plans to offer its t"
-publishedDateTime: 2022-04-02T03:19:00Z
-originalUrl: "https://www.sandiegouniontribune.com/business/nation/story/2022-04-01/face-scanner-clearview-ai-aims-to-branch-out-beyond-police"
-webUrl: "https://www.sandiegouniontribune.com/business/nation/story/2022-04-01/face-scanner-clearview-ai-aims-to-branch-out-beyond-police"
-ampWebUrl: "https://www.sandiegouniontribune.com/business/nation/story/2022-04-01/face-scanner-clearview-ai-aims-to-branch-out-beyond-police?_amp=true"
-cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/nation/story/2022-04-01/face-scanner-clearview-ai-aims-to-branch-out-beyond-police?_amp=true"
+publishedDateTime: 2022-04-01T20:29:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/face-scanner-clearview-ai-aims-branch-police-83819354"
+webUrl: "https://abcnews.go.com/Technology/wireStory/face-scanner-clearview-ai-aims-branch-police-83819354"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/face-scanner-clearview-ai-aims-branch-police-83819354"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/face-scanner-clearview-ai-aims-branch-police-83819354"
 type: article
 quality: 57
 heat: 67
 published: false
 
 provider:
-  name: San Diego Union-Tribune
-  domain: sandiegouniontribune.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/bae6a8a/2147483647/strip/true/crop/5981x4000+9+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9f%2F8b%2Fa4139fab807b4970e386690b1476%2F9845c6d335744141be79f2e7240da9ee"
-    width: 320
-    height: 214
+  - url: "https://s.abcnews.com/images/Technology/WireAP_5b9defe112f648c79fe90ad49bf2b37b_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 508
         isCached: true
 
-secured: "RJcXHbAlM4ka5AnHfkTVWyrif8YIIcqS7Pvo8Eft5FpARd9/U+qaSPPtwB8vK10vfOOp1hbIgXeJcg4NdTbL2VWInIZ0iH+0QBrO/Ty4TOFpgXvNVhX0/812lxwuHB6lGQqjF4Z+w8gwcr/C5ClX0lWLWRHzG/mqCNMNhUbiT8nS+iXvdWEIC8coGhlxsLTpKnKz9osDtFz3wYp4huMx+t5I6+1ePYS2nL/3ivpZoM5ad2Dz4w5tJaWYmy9THIvX9PqnF20FENWzOWm9H+Xwt4zaE5RGN568XbXhCT2/sa26/1p9FJa+7o7QdmmBurCG7Mu+QxofiGlWDsi1YuElS14LIAdajtokSHxKhLHwKR4=;RyRogKMvQ+clK1ITgi3oIA=="
+secured: "wZMKYZGXivyPi/RhRhyPFc2PA+iO/KeFEkmfYgbvhNW4wdkr3CCWArvwMXKoUD/EjQIzvh+rs+2wxVt4iUVlN8puU3YVlaeewKgA/y0Y+INSHebrj1JiZGGhdM3t9z4+DKle9zvKOfQ1Amd0KymhzQTbt7ZL+kXSn4fNcoUBzUiX/0sbpI7a3h8YqCmC2EBLAMLBS2kCm4m7dg668Z0TfeGjbN1buUGwO67cjZOxEvdQy/llPhiHbb//KIbePiAyBY1uaSO/WZD+5jYwwCtI+kU+LcFuvzgX/yr0l8QYPg1TnzqOJClG10N3N8OtfjbibVQfBhvCgLNfLsaCQWMuZ6Q4hPG2H1hDawgf8M5nh9c=;NX+cSb84zXSZascF3t3bZw=="
 ---
 

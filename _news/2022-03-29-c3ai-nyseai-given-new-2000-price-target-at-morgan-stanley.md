@@ -9,8 +9,8 @@ ampWebUrl: "https://www.etfdailynews.com/2022/03/29/c3-ai-nyseai-given-new-20-00
 cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/03/29/c3-ai-nyseai-given-new-20-00-price-target-at-morgan-stanley/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: ETF Daily News
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "BigBear.ai (NYSE:BBAI) Now Covered by Oppenheimer"
-    excerpt: "Equities research analysts at Oppenheimer started coverage on shares of BigBear.ai (NYSE:BBAI – Get Rating) in a report released on Monday, The Fly reports. The brokerage set an “outperform” rating on the stock."
-    publishedDateTime: 2022-03-28T11:34:00Z
-    webUrl: "https://www.etfdailynews.com/2022/03/28/bigbear-ai-nysebbai-now-covered-by-oppenheimer/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/03/28/bigbear-ai-nysebbai-now-covered-by-oppenheimer/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/03/28/bigbear-ai-nysebbai-now-covered-by-oppenheimer/amp/"
-    type: article
-    provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 37
   - title: "BigBear.ai (NYSE:BBAI) Upgraded to Hold at Zacks Investment Research"
     excerpt: "Zacks Investment Research upgraded shares of BigBear.ai (NYSE:BBAI – Get Rating) from a sell rating to a hold rating in a research note released on Tuesday morning, Zacks.com reports. According to Zacks,"
     publishedDateTime: 2022-03-30T08:36:00Z

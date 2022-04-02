@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Several Respected AI Scientists Left Meta Platforms This Year - Report"
-excerpt: "Several artificial intelligence (AI) scientists left Meta Platforms (NASDAQ: FB ) this year following the company's pivot toward the metaverse. CNBC reports that at least four respected Meta AI members have exited the company over recent months,"
-publishedDateTime: 2022-04-01T11:00:00Z
-originalUrl: "https://za.investing.com/news/several-respected-ai-scientists-left-meta-platforms-this-year--report-2530907"
-webUrl: "https://za.investing.com/news/several-respected-ai-scientists-left-meta-platforms-this-year--report-2530907"
+excerpt: "Several artificial intelligence (AI) scientists left Meta Platforms (NASDAQ:FB) this year following the company's pivot toward the metaverse. CNBC reports that at least four respected Meta AI members have exited the company over recent months,"
+publishedDateTime: 2022-04-01T10:41:00Z
+originalUrl: "https://www.investing.com/news/stock-market-news/several-respected-ai-scientists-left-meta-platforms-this-year--report-432SI-2796285"
+webUrl: "https://www.investing.com/news/stock-market-news/several-respected-ai-scientists-left-meta-platforms-this-year--report-432SI-2796285"
 type: article
 quality: 39
 heat: 39
@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-    width: 251
-    height: 282
+  - url: "https://i-invdn-com.investing.com/news/LYNXNPEF13106_L.jpg"
+    width: 800
+    height: 494
     isCached: true
 
-secured: "nyzVdv5Yh3kwtNsgetK3lURI5RVmqbWmVClxBbF8/SU9XA0cXQ7Xkt2JGUAtpWVX5N+0NEZc3/ZnPQrbRM7sJkE2IQOV6hIwqzz/SL54KUla+MvNHG0WmZs+y7vWq4nCkC0H+r11bnUW+Nvwl28rjBSu2V0st4fJv9Q8A1/FhYhhZC3lPlhJXOuz8/6YrHlNVxUulpp2ROMwn5SDnCTo1X2Ji8ZIlS4IWsAL6pzMcOHk1YLOpFpyOPLk2wGqwXNVNkYXBSOmYZI8QWt98qhA0P6G+CT4hFWi2/A9IuvBy2HrvzdxglzCfPY7tm2oo/NmB/TQhDZiQHrARaOCSK4ZqZMDq0uHDhYJbZpP/5fFB6w=;mM8PM2qcAZc4V4dAUmKTCw=="
+secured: "tN0eoBhVwcwgYReJ3khUSVVyOyIr1g9PISt5FS+94N+u87HZ9VxZEI5i6H+1FB4rE206ZA59A8o1jYb4PbiZdr2k1L/MTQkfM/ZVXmpt+s9S+2QtqigUYbr2bSYLvHxzOXOcOxP3qWp4Y80VdNqRqnirtYnyVXhcfCXhZhtjZId2BpAsdngNu+MzlghCFcrarWtcx4VVkZ2Y3gG0VahJKOo9i6ROnNmhq97l92bvoH09rCgGeH+JSzQ+LL4F4/ESnK5aUldfLNhKygaGoQtYGS7Tck51BZb4+JrQIrTtlzMJs5jUVzTrW83vbXqlgQR4vM6vSQ2arhOpEzVGlpQRc457doEARTeI2d/o97AN3hg=;xf/sPJusUfH/nEGrFgSrtA=="
 ---
 

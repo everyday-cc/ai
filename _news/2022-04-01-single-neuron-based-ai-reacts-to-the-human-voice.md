@@ -39,20 +39,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "AI on its way to replacing humans in hypersonic weapon design"
-    excerpt: "The hypersonic missile is really such an example, where A.I. begins to take the wheel. This could lead to a \"Terminator\" style scenario of A.I. taking over control of critical military decision making thereby becoming an existential risk."
-    publishedDateTime: 2022-03-28T12:05:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-its-way-replacing-humans-hypersonic-weapon-design-spencer-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHIjgVgvMGgyA/article-cover_image-shrink_720_1280/0/1648468260711?e=1654128000&v=beta&t=JfmN8DfPd0ZZbpF9XZwHng_PNhqF3Hh-e0HwkdZsoos"
-        width: 1195
-        height: 720
-        isCached: true
   - title: "The military wants AI to replace human decision-making in battle"
     excerpt: "Through a new program, called In the Moment, the Defense Advanced Research Projects Agency (DARPA) wants to develop technology that would make quick decisions in stressful situations using algorithms and data,"
     publishedDateTime: 2022-03-30T06:04:00Z

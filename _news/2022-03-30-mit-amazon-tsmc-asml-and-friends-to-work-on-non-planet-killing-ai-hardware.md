@@ -3,8 +3,8 @@ category: news
 title: "MIT, Amazon, TSMC, ASML and friends to work on non-planet-killing AI hardware"
 excerpt: "Big names in tech are collaborating with academics to develop energy-optimized machine-learning and quantum-computing systems under the MIT AI Hardware Program, an initiative announced on Tuesday.  Chip makers like TSMC and Analog Devices,"
 publishedDateTime: 2022-03-30T03:09:00Z
-originalUrl: "https://www.theregister.com/2022/03/30/mit_ai_chips/?td=rt-9cp"
-webUrl: "https://www.theregister.com/2022/03/30/mit_ai_chips/?td=rt-9cp"
+originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/03/30/mit_ai_chips/"
+webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/03/30/mit_ai_chips/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/03/30/mit_ai_chips/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/30/mit_ai_chips/"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 600
     isCached: true
 
-secured: "/Zsa5ah4fJWA/PrmLjazNhWYnWfw804+ObPvVIL2QR+t9ZEakygG/iFqkuXUybcRo/Ef9wRz7UrBqfn1W4nrIXpL+ncVWchggohdfCmnb+rskquWTJdS397UJrKOdZ6hNH5W0uG4iV36/n+nro5KIzeYcMHxTuwdGcr/HxTKDOywYF0rWe432WvIlGmBWdMD6/utCXdDdbUGNItOwhuiAZX9DznEw99sEBRFoPX056dJfMacXJ2pcR0wMn9RYEhWX/Czbh1yKNoQ2t/VufEkl1a4ESnPQo9OlGGhgdwcjxHB+RCp2xPtnffOEvMEGFoNcrKnis3ERIhbX7T6GPJTOnMavbHM88RlhtqVlTTcLj31eY7ukGqzUY08FKoh4AVL0X9vNUIWA3UdeGYGJ7rPYuvj1ZjgF9kqtV7wbuaxTANlmJM4Kpe5lHoks6ShaV3JRbblmEIMRMMxOC2MF/ZlZ3ChYMWwxGjN4R+EhoozLNpdCzXdwI+xs8Ywcid4xHHK92ZEE7bF21N8vPO4lE/40w==;qnJ8WQudfEWYu5zY7HjERg=="
+secured: "NZkGN+qs7lswqVUKaNYSjPiSIJo8uc2b60allDW25Z/viNf8pWam3gpWjyhOjHKjb5Tc8ENGf8YDOm/5oKdiS2TrrapS9eLo+bFSkQ9LgjmadxIcqQ01vCXBtx7a6GH6nRHyE4G4BbeubeILb6jMFgen38zF1Rnn4ciUUUrjiYLJp0EOs4m+K1+A13Q5kYTW1kRDUgYTeDDs0vShKP2GtKJamdNWxyd3GoubCPveMQ0QcgsqJ2fy9vri6AmwXLGaqWQJQacRM6rzlWvrjQNSXRFAvn/voSQZD+6v6edymNMhn1XjrqTvMm1J1OW9q9IWX6YfRKkyAE+9hKxW+NUppCrs2puPPK+n7gDs4WOiNlk=;TNLSYbs9Fnar+Ug3MgAgZg=="
 ---
 

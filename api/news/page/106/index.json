@@ -2,6 +2,48 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2022-01-02-book-review-the-age-of-ai-and-our-human-future-by-henry-a-kissinger-eric-schmidt-daniel-huttenlocher.md",
+      "title": "Book Review: The Age of AI and Our Human Future by Henry A Kissinger, Eric Schmidt & Daniel Huttenlocher",
+      "excerpt": "But AI left to its own would have its own strategies for invading other countries, which cannot go unchecked. The Age of AI, by Henry Kissinger, Eric Schmidt ... The authors take us through ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.economist.com/books-and-arts/2021/11/20/henry-kissinger-and-eric-schmidt-take-on-ai",
+      "originalUrl": "https://www.msn.com/en-in/news/other/book-review-the-age-of-ai-and-our-human-future-by-henry-a-kissinger-eric-schmidt-26-daniel-huttenlocher/ar-AASlhoK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.economist.com/img/b/1280/720/90/sites/default/files/images/print-edition/20211120_BKP001_0.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-02T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "economist.com/books-and-arts/2021/11/20/henry-kissinger-and-eric-schmidt-take-on-ai",
+        "domain": "economist.com/books-and-arts/2021/11/20/henry-kissinger-and-eric-schmidt-take-on-ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-02-ethical-impact-of-ai-on-health-safety-and-wellbeing.md",
       "title": "Ethical impact of AI on health, safety and wellbeing",
       "excerpt": "Across industry, the use of AI has become a key feature of the technological revolution in workplace safety, health and wellbeing.",
@@ -1027,48 +1069,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-tusimples-autonomous-truck-driving-test-was-an-unqualified-success.md",
-      "title": "TuSimple’s Autonomous Truck Driving Test Was an ‘Unqualified Success’",
-      "excerpt": "Analysts at Morgan Stanley say TuSimple's fully autonomous semi-truck run cements the company's position as 'autonomous leader.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/tusimple-tsp-autonomous-truck-driving-test-analysts-51640878794",
-      "originalUrl": "https://www.barrons.com/articles/tusimple-tsp-autonomous-truck-driving-test-analysts-51640878794",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-325875/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/tusimple-tsp-autonomous-truck-driving-test-analysts-51640878794",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tusimple-tsp-autonomous-truck-driving-test-analysts-51640878794",
-      "publishedDateTime": "2021-12-30T14:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

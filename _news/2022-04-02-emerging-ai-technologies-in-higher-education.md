@@ -2,14 +2,14 @@
 category: news
 title: "Emerging AI Technologies in Higher Education"
 excerpt: "Artificial intelligence in higher education institutions has significantly improved teaching and learning. But AI technologies extend beyond the curriculum. With the help of the cloud, they’re being leveraged to streamline network infrastructures as more ..."
-publishedDateTime: 2022-04-01T22:49:00Z
-originalUrl: "https://edtechmagazine.com/higher/k12/higher/k12/article/2022/04/emerging-ai-technologies-higher-education"
-webUrl: "https://edtechmagazine.com/higher/k12/higher/k12/article/2022/04/emerging-ai-technologies-higher-education"
-ampWebUrl: "https://edtechmagazine.com/higher/k12/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp"
-cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp"
+publishedDateTime: 2022-04-02T00:17:00Z
+originalUrl: "https://edtechmagazine.com/higher/higher/k12/k12/higher/article/2022/04/emerging-ai-technologies-higher-education"
+webUrl: "https://edtechmagazine.com/higher/higher/k12/k12/higher/article/2022/04/emerging-ai-technologies-higher-education"
+ampWebUrl: "https://edtechmagazine.com/higher/higher/k12/k12/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
+cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/higher/k12/k12/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -21,7 +21,7 @@ topics:
   - AI in Education
 
 images:
-  - url: "https://edtechmagazine.com/higher/k12/higher/k12/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r"
+  - url: "https://edtechmagazine.com/higher/higher/k12/k12/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r"
     width: 1440
     height: 500
     isCached: true
@@ -57,6 +57,20 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "New AI technology turns 2D pics into 3D scenes"
+    excerpt: "When the first instant photo was taken 75 years ago with a Polaroid camera, it was groundbreaking to rapidly capture the 3D world in a realistic 2D image. Today, AI researchers are working on the opposite: turning a collection of still images into a digital 3D scene in a matter of seconds."
+    publishedDateTime: 2022-03-29T09:48:00Z
+    webUrl: "https://it-online.co.za/2022/03/29/new-ai-technology-turns-2d-pics-into-3d-scenes/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 37
+    images:
+      - url: "https://it-online.co.za/wp-content/uploads/2022/03/nvidia-3d.jpg"
+        width: 1075
+        height: 484
+        isCached: true
   - title: "How to Make the Most of Artificial Intelligence and Other Technologies: Advice From Experts"
     excerpt: "Technology is often presented as the solution to many problems for nonprofits — reducing staff burnout, better targeting of fundraising efforts, and improving budgeting, to name just a few. It can help with all those things,"
     publishedDateTime: 2022-03-28T15:15:00Z
@@ -72,6 +86,6 @@ related:
         height: 630
         isCached: true
 
-secured: "rc7PIKok72K91rq94If81TFmNdRXPby0nVdmxYBjosPxx0hPQUyFanztiQp+ZZyEYzbaKmBiynLLdiYuN3lvp3QcQUdqngnCMGBXfwrBEyEw+6RUlj7dEkAwK0Gew06H6QDoBahkdT2XStXIPkcdEsgf8TOn/YePd1NdI48J/zP6MQyeBloEXZXBfjhzyf+89i9I6/VfJIUUQE5k9k3f/rQGa1Z+EcDOcZryuLd6urda3vYq//XeapwQ3grrPTh6hVqLygE7oFHcfqfYxXZYM4OHDDnv6+4Oty8u8V9uDwcNZK0hwK81ABolDR5aX2MzJmQ1nUd2HjsMO0PoP9VWwxj02FS7de3WGrQjkKKkYt4=;5En4Hgzl008sAWBCZlrkbQ=="
+secured: "BGjpKsr0LbpommBAu71oS6RJwiPrKGoknDapC93het1vUROV98EGBq7uPw3MIgmWrP1T6CziPP7DJCzU8J/dehZaV7Kj+klB7bWDBTPAaNbvmo/ouwy1KAQm/7d06IU77u0HoZOXKIORxv220LNB8BgPiwjcWLU8GesVcxhz4lHvQexAD69Va1KOwWtZw/DAkx6lYaagdmqPdHmIbayvWa3iANM1ap1VaV1ZiuyLwd3PBi1iszZdIBsRyd1HS3V3VNNQxNE7ifyAH/Jq9QzahvdayLZMDmFzfo8SRwfMXQLjHPWqIWNeYHfrDtDELpE+qgpGH00TkWXOYP5rFuBBx7oZRCQMRNCRDl8cWZ8du4o=;DsQAP4R7fCmYo4pktpLh5A=="
 ---
 

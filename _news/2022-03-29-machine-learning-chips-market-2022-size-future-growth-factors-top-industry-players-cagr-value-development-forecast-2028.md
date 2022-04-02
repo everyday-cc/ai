@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Services Market Size and Analysis, Trends, Recent Developments, and Forecast Till 2028"
-    excerpt: "Elevating demand for APIs to develop smarter applications, the increasing use of the service in the functioning of different industries are some of the factors boosting the cognitive services market."
-    publishedDateTime: 2022-03-28T12:30:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cognitive-services-market-size-and-analysis-trends-recent-developments-and-forecast-till-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 26
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/7db448fc881b6b5c26e8531765d0fd0eeb014838-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Cognitive Computing Market 2028 Industry Analysis, Trends, Market Size and Forecasts"
     excerpt: "Key Companies Covered in the Cognitive Computing Market Research Report Are  3M, Google LLC, Hewlett Packard Enterprise Development LP, In"
     publishedDateTime: 2022-04-01T13:44:00Z

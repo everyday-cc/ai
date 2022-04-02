@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Healthcare Accelerator announces 12 start-ups for inaugural programme"
-    excerpt: "AWS Healthcare Accelerator has selected 12 participants for the first programme in the UK. The companies were selected from 117 applications from 13 countries by a panel from Amazon Web Services (AWS) and Public,"
-    publishedDateTime: 2022-03-28T12:45:00Z
-    webUrl: "https://healthinvestor.co.uk/aws-healthcare-accelerator-announces-12-start-ups-for-inaugural-programme/"
+  - title: "Sygno, Provider of Automated Machine Learning Monitoring Models, Enters ING Labs Program"
+    excerpt: "Sygno, Provider of Automated Machine Learning Monitoring Models, Enters ING Labs Program. | Crowdfund Insider: Global Fintech News, including Crowdfunding,"
+    publishedDateTime: 2022-03-29T23:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/03/189040-sygno-provider-of-automated-machine-learning-monitoring-models-enters-ing-labs-program/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/03/189040-sygno-provider-of-automated-machine-learning-monitoring-models-enters-ing-labs-program/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/189040-sygno-provider-of-automated-machine-learning-monitoring-models-enters-ing-labs-program/amp/"
     type: article
     provider:
-      name: HealthInvestor
-      domain: healthinvestor.co.uk
-    quality: 55
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 50
     images:
-      - url: "https://healthinvestor.co.uk/wp-content/uploads/2020/03/hi-uk-feature-whos-to-blame-digital-health-web-700x400-1.jpg"
-        width: 700
-        height: 400
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment.jpg"
+        width: 1280
+        height: 998
         isCached: true
 
 secured: "bIVfr6zl4mO6fQLZRhGCSDGx+btTyP3xscp7s3u33bBZKddqDrEgrADl/x+L88pxiYMa7XpUDb3d/1Ebt/fqfnnUwUcDiKWbRpoeHNH4mQDpsvIJFNrXrtKBmj5w/tt8GJzwotgEEgRmtZhreFT8n1hnsL9Yg/3YClCOOVVSdl7z7Z6A5tFX/2X3eJVnCCez0pLJ0wIpgPJV8BF6nRq5gv7EWOScWLLvn1PHThCD/nTQ1h+qtSzbBQqVdQ+eSnv+RASXNVE6ZgwE2/dAPHjTVIlPkKbhiI+BJTwmxAQvlNKQ83B5fTw0j9FbeIBDPjqSQFWfi3a18om4oF6+USwaYX5nEfhXyIl1NAiT6XcyAAs=;40+m9rzE+213H1Hxn/yZtg=="

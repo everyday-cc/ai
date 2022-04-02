@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Fintech, CreditRich, Pins Agreement With Qolo As New Payment Processor To Improve Existing App"
-    excerpt: "This Deal Now Creates Continued Pathways for Improving Credit and Building Wealth in Underserved Communities. CreditRich, a new fintech company that allows users to round up their spare change to pay their bills intelligently and improve their credit ..."
-    publishedDateTime: 2022-03-28T12:02:00Z
-    webUrl: "https://www.forbes.com/sites/coreincarter/2022/03/28/fintech-creditrich-pins-agreement-with-qolo-as-new-payment-processor-to-improve-existing-app/"
-    ampWebUrl: "https://www.forbes.com/sites/coreincarter/2022/03/28/fintech-creditrich-pins-agreement-with-qolo-as-new-payment-processor-to-improve-existing-app/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/coreincarter/2022/03/28/fintech-creditrich-pins-agreement-with-qolo-as-new-payment-processor-to-improve-existing-app/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62414429c8c870d5a5e22e59/0x0.jpg?format=jpg&crop=1820,1024,x0,y147,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "3 Best Fintech Stocks for a Portfolio Boost"
     excerpt: "Rising interest rates and higher inflation means you're looking for more opportunities to invest, maybe in niche markets. Why not consider fintech, short for \"financial technology.\""
     publishedDateTime: 2022-03-29T06:00:00Z

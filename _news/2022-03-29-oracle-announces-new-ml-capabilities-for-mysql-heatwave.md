@@ -1,29 +1,28 @@
 ---
 category: news
-title: "Oracle adds autoML to its MySQL HeatWave service"
-excerpt: "Oracle has added autoML, real-time elasticity, and price-performance trade-offs to Heatwave, the analytics engine it piggybacks on MySQL transactional database. Nipun Agarwal, veep of HeatWave and advanced development at Oracle,"
-publishedDateTime: 2022-03-29T18:00:00Z
-originalUrl: "https://www.theregister.com/2022/03/29/oracle_automl_mysql/"
-webUrl: "https://www.theregister.com/2022/03/29/oracle_automl_mysql/"
-ampWebUrl: "https://www.theregister.com/AMP/2022/03/29/oracle_automl_mysql/"
-cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/29/oracle_automl_mysql/"
+title: "Oracle Announces New ML Capabilities for MySQL HeatWave"
+excerpt: "Oracle announced its MySQL HeatWave database service now supports in-database machine learning as an additional capability to the service’s"
+publishedDateTime: 2022-03-29T16:44:00Z
+originalUrl: "https://www.datanami.com/2022/03/29/oracles-announces-new-ml-capabilities-for-mysql-heatwave/"
+webUrl: "https://www.datanami.com/2022/03/29/oracles-announces-new-ml-capabilities-for-mysql-heatwave/"
 type: article
-quality: 59
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: theregister
-  domain: theregister.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
-  - Machine Learning
+  - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://regmedia.co.uk/2019/03/06/shutterstock_oracle2.jpg"
-    width: 648
-    height: 432
+  - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/cloud_database_shutterstock_Blackboard.jpg"
+    width: 1000
+    height: 667
     isCached: true
 
 related:
@@ -59,19 +58,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Oracle Announces New ML Capabilities for MySQL HeatWave"
-    excerpt: "Oracle announced its MySQL HeatWave database service now supports in-database machine learning as an additional capability to the service’s"
-    publishedDateTime: 2022-03-29T16:44:00Z
-    webUrl: "https://www.datanami.com/2022/03/29/oracles-announces-new-ml-capabilities-for-mysql-heatwave/"
+  - title: "Oracle adds autoML to its MySQL HeatWave service"
+    excerpt: "Oracle has added autoML, real-time elasticity, and price-performance trade-offs to Heatwave, the analytics engine it piggybacks on MySQL transactional database. Nipun Agarwal, veep of HeatWave and advanced development at Oracle,"
+    publishedDateTime: 2022-03-29T18:00:00Z
+    webUrl: "https://www.theregister.com/2022/03/29/oracle_automl_mysql/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/03/29/oracle_automl_mysql/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/29/oracle_automl_mysql/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 41
+      name: theregister
+      domain: theregister.com
+    quality: 59
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/cloud_database_shutterstock_Blackboard.jpg"
-        width: 1000
-        height: 667
+      - url: "https://regmedia.co.uk/2019/03/06/shutterstock_oracle2.jpg"
+        width: 648
+        height: 432
         isCached: true
   - title: "Oracle releases new machine learning integrations with its MySQL HeatWave cloud service"
     excerpt: "Oracle MySQL HeatWave now supports in-database machine learning (ML) in addition to the previously available transaction processing and analytics—the only MySQL cloud database service to do so. MySQL HeatWave ML fully automates the ML lifecycle and stores all trained models inside the MySQL database,"
@@ -97,6 +98,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "ZP+R6HNHeYLWb8HOtTe5ft2h0JZiduJh+f53sTQYYKOFfRBCLLgOSjbtFJiByYQUubtSLsbrJ6vZl7wI6NNBKUOKcrM+EDtkR2o6HateqhneMRCuqy96Ny8M9pTC46wyXt2IPWFRMCp7t55R2gkeDMcCCGI1VJgeLJLQMufqhs13bgRcpDc1HDBE6Yyx/nvj+lJGlMHmW80KslfgzjwjhdIHd3Zvy9sLkX8WFC3aZYlUd21FRtmLepfqQ1rMhoZilFhd9OTWSF85r8VyVog+EGdTtHH6C3ehlo8q9/MqGpEOAf4D+vCVA2bDWHskQCSjBhyKP0o76ln/rXonT64QdF7IjdA1Ee+L0E5LbaUrCtyvT0Pq80REc/O8AcIRD2BEhVPz22Jmvb6HxZdDJBDI1eJfRu6tG2nP4vs2TtiJryrqVK+CYOUFYL97fcuKJFCLYn5sCPloc7DQSsaiB/PP7Ga7qD3oYdqQRhCisiFuL9rdprtSCHtTj+OGJXVBxPk7JVYYArZPsVJxhKlhsFRLKw==;yiFGrVi8vsjO9hPDFjSV4g=="
+secured: "YfoHN/KYrjwYMYsV77EL7ASd7BmANL3pArj+yVa5Pn4Lv7UmD9SYRKgs45IeTnz4zpMz49n3g+d8q/xgd23D9KFlpE8L8Xoq5qQWrc/bX0kK+nxWF0q9cFd+Rb7EJkxa1ELZnSllaeFN3uemdsq1VY3r3a33FAcXgC9tapOPEvCgmG35WK94OUGKy3kPXAlzFRrQ7Hz9FcvehF9ErGzdFEp/DPIdnepD1xk0XdkZ7rSGHKrUrzS4Su5x7yaMxD0rNgIspTCbz64nOfMgJPcNUYX3RXQGYHDyZ5ZbgWcm5dDCI7MJMfz5IPrKuUzz7JZl4uDItQoCFP+CmCmbPXx17epgr4ihP0v8y307pppmShg=;d0ZPZNJYtKs+mmm+P1lu7Q=="
 ---
 

@@ -3,10 +3,10 @@ category: news
 title: "Breaking into the black box of artificial intelligence"
 excerpt: "In February 2020, with COVID-19 spreading rapidly around the globe and antigen tests hard to come by, some physicians turned to artificial intelligence (AI) to try to diagnose cases 1. Some researchers tasked deep neural networks — complex systems that are adept at finding subtle patterns in images — with looking at X-rays and chest computed tomography (CT) scans to quickly distinguish between people with COVID-based pneumonia and those without 2."
 publishedDateTime: 2022-03-29T14:28:00Z
-originalUrl: "https://www.nature.com/articles/d41586-022-00858-1?error=cookies_not_supported&code=b416cd61-ab8f-4dea-a6f7-c76c01e7969f"
-webUrl: "https://www.nature.com/articles/d41586-022-00858-1?error=cookies_not_supported&code=b416cd61-ab8f-4dea-a6f7-c76c01e7969f"
+originalUrl: "https://www.nature.com/articles/d41586-022-00858-1"
+webUrl: "https://www.nature.com/articles/d41586-022-00858-1"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: nature.com
 
 topics:
+  - Machine Learning
   - AI
 
 images:
@@ -112,6 +113,6 @@ related:
         height: 756
         isCached: true
 
-secured: "brSKO9G1RVuIxFQNo5CFMS8W1avKMxOlVXgvXxJOmmHO8qAJA+Soog67F+IhL8F6ZP5kdVEAfJ30SCxlLBVINq7agR2N8W0RV7rjXpvEJ7aHtALOgdwwNgyGN3PHKR0GVt4YsrUa8z3j2ax6QxhJWyM+XVqstPDomt0LwnnmkeIDgg1/Pri4zH771QVuibjlI6e6RrVpOQ3Uwax3kDiP3lQuGbJ5sYeNvbC8ZE1sOxC3SjTQRCbeKgkhmanb/aaOAcnLvl3YWIXPZmS0URh6JUU0O3vQO13WhMAizhSjdyrJA5YjgDOs2y/ALwz42xxk2xqpMNVqHqV7J8FK/04TXNYB5u8dpH7xT5QGH6lsPAU=;WsjhjEDAF5PyXDALfqHoBw=="
+secured: "rYzagtJUSl0fqLd+PhN9BRM2j2+QhmkZIzqrwyU8UgORJPIE2QBoOim87nlADOcunVRQgOR9vRgSTScCk2nIuQ4xGxnhJpFEANOdlXiVY1tb3YZfMEoHsPkcrpF/G/bdT7ysQN/eW/5AhYVVUFPBRvkxj9VcgeMuPn9c3akWJsM7vGpgIBk2d45wLm5QxnT9kbSaacGDdprG6Ga+zWovLemGs3TIv6IqlYsVC/EOIeEHQpnWNnwPcjoAo9m4RQWK2ct85Kp3gwdLo5oqzbo5l4EXPhC5R35qfvUJShsVJx18BUMMzqLJEEw4ODIx88jb+5M8Ep2fvnS3cPlWNEqeRui+T/P0T0MZlv3K+Q9xCsE=;Wd/x87XAdjsj1zxLX2P/hQ=="
 ---
 

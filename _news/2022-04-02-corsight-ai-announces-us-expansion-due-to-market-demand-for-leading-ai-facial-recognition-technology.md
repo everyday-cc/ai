@@ -27,17 +27,17 @@ images:
 related:
   - title: "Emerging AI Technologies in Higher Education"
     excerpt: "Artificial intelligence in higher education institutions has significantly improved teaching and learning. But AI technologies extend beyond the curriculum. With the help of the cloud, they’re being leveraged to streamline network infrastructures as more ..."
-    publishedDateTime: 2022-04-01T22:49:00Z
-    webUrl: "https://edtechmagazine.com/higher/k12/higher/k12/article/2022/04/emerging-ai-technologies-higher-education"
-    ampWebUrl: "https://edtechmagazine.com/higher/k12/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp"
-    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp"
+    publishedDateTime: 2022-04-02T00:17:00Z
+    webUrl: "https://edtechmagazine.com/higher/higher/k12/k12/higher/article/2022/04/emerging-ai-technologies-higher-education"
+    ampWebUrl: "https://edtechmagazine.com/higher/higher/k12/k12/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
+    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/higher/k12/k12/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
     type: article
     provider:
       name: EdTech
       domain: edtechmagazine.com
     quality: 74
     images:
-      - url: "https://edtechmagazine.com/higher/k12/higher/k12/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r"
+      - url: "https://edtechmagazine.com/higher/higher/k12/k12/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r"
         width: 1440
         height: 500
         isCached: true
@@ -56,6 +56,20 @@ related:
       - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
         width: 534
         height: 462
+        isCached: true
+  - title: "New AI technology turns 2D pics into 3D scenes"
+    excerpt: "When the first instant photo was taken 75 years ago with a Polaroid camera, it was groundbreaking to rapidly capture the 3D world in a realistic 2D image. Today, AI researchers are working on the opposite: turning a collection of still images into a digital 3D scene in a matter of seconds."
+    publishedDateTime: 2022-03-29T09:48:00Z
+    webUrl: "https://it-online.co.za/2022/03/29/new-ai-technology-turns-2d-pics-into-3d-scenes/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 37
+    images:
+      - url: "https://it-online.co.za/wp-content/uploads/2022/03/nvidia-3d.jpg"
+        width: 1075
+        height: 484
         isCached: true
   - title: "How to Make the Most of Artificial Intelligence and Other Technologies: Advice From Experts"
     excerpt: "Technology is often presented as the solution to many problems for nonprofits — reducing staff burnout, better targeting of fundraising efforts, and improving budgeting, to name just a few. It can help with all those things,"
