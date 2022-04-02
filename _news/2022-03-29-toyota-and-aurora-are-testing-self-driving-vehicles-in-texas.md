@@ -9,7 +9,7 @@ ampWebUrl: "https://www.auto123.com/en/news/amp/toyota-aurora-self-driving-vehic
 cdnAmpWebUrl: "https://www-auto123-com.cdn.ampproject.org/c/s/www.auto123.com/en/news/amp/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,53 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota starts testing self-driving ride-hailing fleet"
-    excerpt: "Toyota, together with Aurora Innovation Inc., is currently testing a fleet of self-driving Sienna units in Texas."
-    publishedDateTime: 2022-03-28T06:37:00Z
-    webUrl: "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410"
-    ampWebUrl: "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp"
-    cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp"
+  - title: "Elon Musk blames streetcars for lack of self-driving Teslas in Toronto"
+    excerpt: "Canadian Telsa fans have been over-the-moon in recent weeks to learn that the American electric vehicle giant has been rolling out its"
+    publishedDateTime: 2022-03-31T14:14:00Z
+    webUrl: "https://www.blogto.com/tech/2022/03/elon-musk-blames-streetcars-lack-self-driving-teslas-toronto/"
     type: article
     provider:
-      name: Philkotse
-      domain: philkotse.com
-    quality: 59
+      name: blogTO
+      domain: blogto.com
+    quality: 39
     images:
-      - url: "https://img.philkotse.com/2022/03/28/WFFKkBCT/toyota-sienna-aurora-942f_wm.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Virginia Tech Transportation Institute researching ways to bring self-driving cars to you"
-    excerpt: "Researchers in Blacksburg are leading cutting edge research to help self-driving come to a city near you. BLACKSBURG, Va. – Researchers in Blacksburg are leading cutting-edge research to help self-driving come to a city near you. Manufacturers are ..."
-    publishedDateTime: 2022-03-31T01:38:00Z
-    webUrl: "https://www.wsls.com/news/local/2022/03/31/virginia-tech-transportation-institute-researching-ways-to-bring-self-driving-cars-to-you/"
-    ampWebUrl: "https://www.wsls.com/news/local/2022/03/31/virginia-tech-transportation-institute-researching-ways-to-bring-self-driving-cars-to-you/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsls-com.cdn.ampproject.org/c/s/www.wsls.com/news/local/2022/03/31/virginia-tech-transportation-institute-researching-ways-to-bring-self-driving-cars-to-you/?outputType=amp"
-    type: article
-    provider:
-      name: WSLS 10
-      domain: wsls.com
-    quality: 35
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/03-30-2022/t_325edbb1af134364812308208d8d82e0_name_image.jpg?_a=ATABld60"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "Apple ups driver count for self-driving car tests, signaling increase in program resources"
-    excerpt: "Apple is continuing to slowly expand its autonomous vehicle testing program in California as it has 10 new drivers registered to its crew."
-    publishedDateTime: 2022-03-30T16:07:00Z
-    webUrl: "https://9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/"
-    ampWebUrl: "https://9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 34
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://media.blogto.com/articles/20220330-elon-musk-toronto.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70"
         width: 1200
-        height: 628
+        height: 630
+        isCached: true
+  - title: "US authorities are defining safety standards for the self-driving vehicles of tomorrow"
+    excerpt: "Self-driving vehicles will now have their own automotive safety standards, according to the US National Highway Traffic Safety Administration (NHTSA). The goal is to clarify how passenger safety will be ensured in future vehicles without manual controls."
+    publishedDateTime: 2022-03-30T01:49:00Z
+    webUrl: "https://www.malaymail.com/news/drive/2022/03/30/us-authorities-are-defining-safety-standards-for-the-self-driving-vehicles/2050434"
+    ampWebUrl: "https://www.malaymail.com/amp/news/drive/2022/03/30/us-authorities-are-defining-safety-standards-for-the-self-driving-vehicles/2050434"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/drive/2022/03/30/us-authorities-are-defining-safety-standards-for-the-self-driving-vehicles/2050434"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 36
+    images:
+      - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-03/20220330_auto_car_ETX_01-seo.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Self-driving vans from Toyota and Aurora partnership start testing in Texas"
     excerpt: "They are testing in the Dallas-Fort Worth area, where Aurora has been testing self-driving semi-trailer trucks since 2020. Some of the conditions the prototypes are faced with inc"
@@ -89,6 +71,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Exclusive: Beep in talks to deploy self-driving shuttles in downtown Orlando"
+    excerpt: "Beep Inc. has rolled out self-driving shuttles from Wyoming to Georgia — but its next expansion may be in the city where it began: #Orlando. #tech #innovation #autonomousvehicles #AV #localbusiness @B"
+    publishedDateTime: 2022-03-29T18:42:00Z
+    webUrl: "https://www.bizjournals.com/orlando/inno/stories/news/2022/03/29/beep-in-talks-to-deploy-self-driving-shuttles-in-d.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 1
   - title: "Winter Haven testing self-driving shuttle that could help its downtown flourish"
     excerpt: "Haven, it’s an idea still heating up and one the city is still studying. Monday, commissioners approved a Memorandum of Understanding with COAST to begin studying the transit system and the feasibility of bringing it to Downtown Winter Haven full time."
     publishedDateTime: 2022-04-01T12:38:00Z

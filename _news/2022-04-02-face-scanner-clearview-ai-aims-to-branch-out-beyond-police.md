@@ -1,23 +1,30 @@
 ---
 category: news
 title: "Face scanner Clearview AI aims to branch out beyond police"
-excerpt: "A controversial facial recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and the Ukrainian military now plans to offer its technology to banks and other private businesses."
-publishedDateTime: 2022-04-01T20:39:00Z
-originalUrl: "https://www.seattletimes.com/business/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/"
-webUrl: "https://www.seattletimes.com/business/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/"
-ampWebUrl: "https://www.seattletimes.com/business/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/?amp=1"
+excerpt: "A controversial facial recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and the Ukrainian military now plans to offer its t"
+publishedDateTime: 2022-04-01T20:29:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
+webUrl: "https://abcnews.go.com/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
 type: article
-quality: 37
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
+  - Computer Vision
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/Technology/WireAP_5b9defe112f648c79fe90ad49bf2b37b_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Clearview facial recognition app up to 20B images"
@@ -35,6 +42,6 @@ related:
         height: 508
         isCached: true
 
-secured: "O9gcotQzdaDUM1zr4ngKzigj9P9HUZWT+J8XhDyFLkI6up+4DCVfQk55xQyQ7BK61Q98IumxhozAYsTLrzvUM37x1RhYFGzK2knLTzrB8KygNgcbRazHZrR08PHxcmtT0ky3L6cOBEBqwLal7COum2GrAf8YO+EfSBecN1apnjAmJ0ZTy/e0gUMePMv5V8AaAozc9FyKCFuu2kztXCyCCKwtQLqmV7zMSrncHFrosfjW1dBhEBdoSwnNTBZLNCjQ7jVkJXtAtT+sZv4FEEMcjXQcEUPFLlhT05XIgljiqkVr8bzHogSV5vhNhJek7bET75nkH3z5/lfie88gJFPJt5Jsaj3d1UuMoUYTbFYyWKCXx9FCOAmm5BrRAgD4DY7yL8ZCpGGymfYwjwdqcYHWOd7YC/9oB1U3MvOFzrIL97Q9axUZLxxgLsCA1dZFUJx1eb20RcU+NRirT7QRe+fH5caXDkCiPPfgHBT1UIQEb8V3GgDHJWUhBMwxqXSfoQajNTWLFE2YsyMYhDyMM44lqA==;CdlxLh7fVYQPYtD1PkUufg=="
+secured: "vkcruM4GhAf1gy1R9iCkVuhkTDK7qGzeO3ZjSkilYB9WEWdjunaiU6wPbP3uKTJ1sdoL7fYJMvsOKSpSlbJz5sPc0dcvi8Mxf6tjDFIeVzZTgBd6peb8CH6YyF76QHFY53hAt4z0n2gp+o1NE7AgOOpBX8mJPhJfGHh3DiabLcl7C6MhJz69T4qDTtu++f1+1tw0IjUdmtghC3XmWoVCG+jqUo6SKEfPnySYC6dMWW8IzWD2OWPL7hgotiRrscB/tZn8XLqzGZhpACH345Ltmv0Rmqrlh6FKDMJPbQaFbkKPArKACz40K1RGRddhN7yYHr27qXnXvV76GVVLnT+gfMGE9Tcn8OzeujsT2QwpRkc=;tfm+OAGDxrEJbUO+eqdGlQ=="
 ---
 

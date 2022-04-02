@@ -24,22 +24,6 @@ images:
     height: 551
     isCached: true
 
-related:
-  - title: "A look into the future: Autonomous driving and the impact on yard processes."
-    excerpt: "Published by Kiana Bakhtiari, Consultant Yard Logistics at Westernacher The current coronavirus pandemic is the driver for increasing online trade, which has also led to increased freight traffic. Already,"
-    publishedDateTime: 2022-03-28T06:55:00Z
-    webUrl: "https://www.linkedin.com/pulse/look-future-autonomous-driving-impact-yard-processes-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 21
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGL7cZNc6_9zQ/article-cover_image-shrink_720_1280/0/1647447419788?e=1654128000&v=beta&t=L53IjIEFCI5D7ZSJUiwprWbL0Znvfm8Flp5mqJWSGfE"
-        width: 1280
-        height: 720
-        isCached: true
-
 secured: "opjK3hhXnuLDC2YkEargCCfErDzPxsh11CXo80CyFEAnYvRd4fhf+B4dV+9/kJreljYFBfRkf/prObHeD6HyWTC+0RgGxHQIdfNOlCT6zZqCcx67j3aCkLoIgXpPALc4V3jn6hHaAxNJ24mB1IVIF1PxWRB1WpjnEvX027auQHy8pybQX3IkBNoV7FS33ovwqA2QjBz+zWFgj555HHu/IA0WGpTterSZWlWkBPFqoQ64ajbbAamb1BwTiiSNSlQ/wLMLdKWs1SrvuLpcMUCAHKwKxMVdBRwitGdml47jgwVRCZq7N9+mxvOsO2mDacr7cYJPT7mxQoVlPPIrLxIRLa5CRojVi1KmNCo5xi566bg=;3QF9iM9ftEnzF5kjmNOnEQ=="
 ---
 

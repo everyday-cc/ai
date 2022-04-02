@@ -169,15 +169,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "The Intel Arc Alchemist GPU Shows Off in a New Blender Benchmark"
-    excerpt: "Intel Graphics has released a video that shows the 3D rendering program Blender being accelerated on an Intel Arc Alchemist"
-    publishedDateTime: 2022-03-28T06:53:00Z
-    webUrl: "https://www.guru3d.com/news-story/the-intel-arc-alchemist-gpu-shows-off-in-a-new-blender-benchmark.html"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 19
 
 secured: "t2A34PRhJ4ofmr6FvogGgePQmy40R4wdIewE+gbTuAYMqU3fj9uIRosjtnBOqFrFUwOjT6ec5UULvGYeX60YQpWptgA8qNB4Sb3hpgkPI8I3C1jTzL+6rojOqY1R48X8mz9MxBByFbvgjL4ZJcW/XnhZsFxAlewrBeZolVPWsfkAZk/aNI7JA7F0ppWQhHqcqsP4rp+Ue6TwGWeN+gVjbNcBJT5LCHXV3dvmchrG2tX63JHF47OmmJAhhZXaF4mI1yZFLdQT4DR0Id3DylyMr3EvBOoPjlZU08R5OUCXmkxozLWjY50G910zyJ/TdYgxLfR5Y4xYHKPrk4pVs69RgyOd5BlCBvOZScpM5ANLgunJruF9zKlIHzVCfzVLWKVSmvoRBlCgwyAIZKTWTW1qhQkVfrtNEpZyJfBlraYQY71kUnSOFEYaR59z0v/fu/FOD/CJWljANxbC9+8JonukWC4rvicBz2JA9zv6Yb72UxtJh0MxNQN70UI56V7++Ql4FnXOpR0m5MRh1Tk5Tw5sJg==;XkCJtM1g4roaCQYoVWNvNA=="
 ---

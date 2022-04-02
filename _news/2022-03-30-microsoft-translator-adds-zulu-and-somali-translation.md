@@ -39,6 +39,20 @@ related:
         width: 559
         height: 419
         isCached: true
+  - title: "Microsoft Translator launches Zulu as next African language to be translated"
+    excerpt: "Microsoft has added Zulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages across the entire Microsoft ecosystem of products and services."
+    publishedDateTime: 2022-04-01T22:00:00Z
+    webUrl: "https://news.microsoft.com/en-xm/2022/04/01/microsoft-translator-launches-zulu-as-next-african-language-to-be-translated/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 36
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/133/2022/03/shutterstock16289833603032022151939-1.jpg"
+        width: 950
+        height: 389
+        isCached: true
 
 secured: "1Wu6BiGAelLJCRhCl0wL2leBKDptefOLqLwD1kQJ+gkxZm/aI/8yGpBz0C9ZP7AerNi8R/02YAd/Nu12f7WaV87MVYQCfRjUmufRm37y9ROIIxcx1X6GUY5ZWUo20ROZl4nDm/qMb1bAJegn+Yrvc67tVtdmz0VK91sJeabKzh1NLqHnln5hcoo5sb7v9Oze8rENPgdbOSWfArVVWBGaw/q7BjO/RpwSPEuh4iAPrdBP1KKraPQm40sqOBI/FQpyd+D3Iu6kKxaZ90hkLMtWMIWR7LwP19sQoypwyZuHYkXa3HqpNjMb1DAXT+sA/kx86U10OcptQS9exGGMsKJMNZIJ6EUihPphEDmvcwSXQ+A=;pLdfu6w/ZC3KzYOiY3w9eA=="
 ---

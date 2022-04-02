@@ -2,6 +2,49 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2022-02-11-toronto-tech-institute-tracking-long-covid-with-artificial-intelligence-social-media.md",
+      "title": "Toronto tech institute tracking long COVID with artificial intelligence, social media",
+      "excerpt": "THE CANADIAN PRESS/AP- NIAID/National Institutes of Health via AP TORONTO — A Toronto tech institute is using artificial intelligence and social media to track and determine which long COVID symptoms are most prevalent. The Vector Institute, an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mountainviewtoday.ca/national-business/toronto-tech-institute-tracking-long-covid-with-artificial-intelligence-social-media-5052540",
+      "originalUrl": "https://www.mountainviewtoday.ca/national-business/toronto-tech-institute-tracking-long-covid-with-artificial-intelligence-social-media-5052540",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2022/02/20220208140228-6202c4fe39bd76110c9e347bjpeg.jpg;w=650;h=433;mode=crop",
+          "width": 650,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mountainviewtoday.ca/amp/national-business/toronto-tech-institute-tracking-long-covid-with-artificial-intelligence-social-media-5052540",
+      "cdnAmpWebUrl": "https://www-mountainviewtoday-ca.cdn.ampproject.org/c/s/www.mountainviewtoday.ca/amp/national-business/toronto-tech-institute-tracking-long-covid-with-artificial-intelligence-social-media-5052540",
+      "publishedDateTime": "2022-02-11T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mountainviewtoday",
+        "domain": "mountainviewtoday.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-portworx-by-pure-storage-announces-strategic-engagement-with-aws.md",
       "title": "Portworx by Pure Storage Announces Strategic Engagement with AWS",
       "excerpt": "Also Read: Recognizing and Eliminating Bias in Artificial Intelligence As part of its work with AWS, Portworx has also announced an Early Access Programme for Portworx Backup as-a-Service (BaaS) on AWS. Portworx BaaS introduces a modern data protection ...",
@@ -1138,49 +1181,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-signiant-announces-integration-with-aws-media2cloud.md",
-      "title": "Signiant announces integration with AWS Media2Cloud",
-      "excerpt": "With Media2Cloud, frame-level metadata is generated using machine learning (ML) and artificial intelligence (AI) from Amazon Rekognition, Amazon Transcribe, and Amazon Comprehend. With this integration, customers of products such as Media Shuttle and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.html",
-      "originalUrl": "https://www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rapidtvnews.com/images/2022/Feb_2022/Signiant_Media2Cloud_I10Feb2022.jpg",
-          "width": 874,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.amp.html",
-      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2022021062048/signiant-announces-integration-with-aws-media2cloud.amp.html",
-      "publishedDateTime": "2022-02-10T11:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rapid TV",
-        "domain": "rapidtvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

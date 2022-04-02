@@ -41,6 +41,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market importunity Analysis, Growth, Key Players, Shares, Drivers, Challenges with Forecast to 2026"
+    excerpt: "The study on the global market for Artificial Intelligence (AI) in Automotive evaluated the historical and current performance of this market, especially highlighting the key trends and growth opportunities."
+    publishedDateTime: 2022-04-01T12:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-importunity-analysis-growth-key-players-shares-drivers-challenges-with-forecast-to-2026-2022-04-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Market Growth Analysis, Segmentation, Size, Share, Trend, Future Demand and Leading Players Updates by Forecast to 2028"
     excerpt: "Key Companies Profiled are Hewlett Packard Enterprise Development LP, SAS Institute, Inc., Amazon Web Services, Inc., SAP SE, Baidu ... increasing popularity of self-driving cars from the ..."
     publishedDateTime: 2022-03-29T07:35:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/amp/"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 28
-  - title: "Global Product Analytics Market To Be Grow Due To Rising Adoption Of Artificial Intelligence In The Forecast Period Of 2021-2026"
-    excerpt: "The new report by Expert Market Research titled, ‘Global Product Analytics Market Size, Share, Price, Trends, Growth, Report and Forecast 2021-2026’,"
-    publishedDateTime: 2022-03-28T06:27:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-product-analytics-market-to-be-grow-due-to-rising-adoption-of-artificial-intelligence-in-the-forecast-period-of-2021-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 8
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/345d9689605f742c2fe9066713d8618f6b2aad6d-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AI-Augmented Analytics is Transforming Business Intelligence and Simplifying Data Complexity"
     excerpt: "In this contributed article, Ajay Khanna, CEO & Founder of Tellius, highlights that when it comes to business intelligence and data analytics, AI is a driving a new wave of innovation called augmented analytics that makes it easier for individuals of all technical skill levels to analyze volumes of data to accelerate more valuable business insights."
     publishedDateTime: 2022-04-01T13:00:00Z

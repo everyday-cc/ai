@@ -2,6 +2,58 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2022-01-18-5-stocks-offering-exposure-to-the-promising-semiconductor-industry.md",
+      "title": "5 Stocks Offering Exposure to the Promising Semiconductor Industry",
+      "excerpt": "The Analog/Mixed Signal Semiconductor industry is one of the most attractive segments of the market where secular growth drivers are huge and deep. ADI, MCHP, MPWR, NXPI and ON",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/413594",
+      "originalUrl": "https://www.entrepreneur.com/article/413594",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-413594.jpeg",
+          "width": 635,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-18-global-artificial-intelligence-healthcare-market-growth-trend-analysis-report-by-major-segments-regions-and-leading-players-forecast-2027.md",
       "title": "Global Artificial Intelligence Healthcare Market Growth, Trend Analysis Report By Major Segments, Regions, And Leading Players Forecast 2027",
       "excerpt": "Jan 18, 2022 (Heraldkeepers) -- Global Artificial Intelligence (AI) Healthcare Market Overview: The Global Artificial Intelligence (AI) Healthcare Market Research Report offers qualitative and ...",
@@ -1121,50 +1173,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-hands-on-machine-learning-with-aws-and-nvidia.md",
-      "title": "Hands-on Machine Learning with AWS and NVIDIA",
-      "excerpt": "In this course, you will gain hands-on experience on building, training, and deploying scalable machine learning models with Amazon SageMaker and Amazon EC2 instances powered by NVIDIA GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/education/skillbuilder/hands-on-machine-learning-with-aws-and-nvidia-0_uuLQhb76EeuDZhJOHjRP6Q",
-      "originalUrl": "https://www.usnews.com/education/skillbuilder/hands-on-machine-learning-with-aws-and-nvidia-0_uuLQhb76EeuDZhJOHjRP6Q",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-16T19:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

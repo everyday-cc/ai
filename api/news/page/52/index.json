@@ -2,6 +2,49 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2022-02-14-ubtech-robotics-launches-mobile-disinfectant-robot.md",
+      "title": "UBTECH Robotics Launches Mobile Disinfectant Robot",
+      "excerpt": "Chinese robotics startup, UBTECH Robotics (UBTECH) has launched a mobile disinfectant robot called ADIBOT-A to meet the demand for autonomous cleaning regimes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.retail-insight-network.com/research-reports/ubtech-robotics-launches-mobile-disinfectant-robot/",
+      "originalUrl": "https://www.retail-insight-network.com/research-reports/ubtech-robotics-launches-mobile-disinfectant-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/02/Image-2-3.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-14T01:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Verdict Retail",
+        "domain": "retail-insight-network.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-14-it-skills-and-ethical-ai-among-key-focus-in-new-zealands-draft-transformation-plan.md",
       "title": "IT skills and ethical AI among key focus in New Zealand's draft transformation plan",
       "excerpt": "The plan [PDF] also noted the importance of taking a data-driven approach by adopting technologies such as AI that could have flow-on benefits, such as emissions reduction and greater productivity, as well as taking an ethical approach to AI adoption.",
@@ -1072,59 +1115,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-02-11T10:55:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-how-suddeutsche-zeitung-optimized-their-audio-narration-process-with-amazon-polly.md",
-      "title": "How Süddeutsche Zeitung optimized their audio narration process with Amazon Polly",
-      "excerpt": "This is a guest post by Jakob Kohl, a Software Developer at the Süddeutsche Zeitung. Süddeutsche Zeitung is one of the leading quality dailies in Germany when it comes to paid subscriptions and unique users. Its website, SZ.de, reaches more than 15 million monthly unique users as of October 2021. Thanks",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-suddeutsche-zeitung-optimized-their-audio-narration-process-with-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-suddeutsche-zeitung-optimized-their-audio-narration-process-with-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/03/tts-architecture-ml-blog.drawio-002-1260x479.png",
-          "width": 1260,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-11T10:37:04-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

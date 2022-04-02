@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-inv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -165,15 +165,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "The Intel Arc Alchemist GPU Shows Off in a New Blender Benchmark"
-    excerpt: "Intel Graphics has released a video that shows the 3D rendering program Blender being accelerated on an Intel Arc Alchemist"
-    publishedDateTime: 2022-03-28T06:53:00Z
-    webUrl: "https://www.guru3d.com/news-story/the-intel-arc-alchemist-gpu-shows-off-in-a-new-blender-benchmark.html"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 19
   - title: "AMD reminds us that its mobile GPU is more powerful than Intel's"
     excerpt: "Intel had a pretty exciting week with the announcement of its Arc 3 laptop GPUs. During its presentation, Intel showed off several slides showing how the Arc 3 mobile graphics silicon fares against their own previous gen Iris X."
     publishedDateTime: 2022-04-01T17:26:00Z

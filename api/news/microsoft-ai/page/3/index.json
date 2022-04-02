@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-24-cognitive-systems-spending-market-global-outlook-demand-and-scope-2021-to-2028.md",
+      "title": "Cognitive Systems Spending Market Global Outlook, Demand and Scope 2021 to 2028",
+      "excerpt": "Feb 24, 2022 (AmericaNewsHour) -- Key Companies Covered in the Cognitive Systems Spending Market Research HP, IBM, Microsoft ... and reliability of their services. Ranging from artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-systems-spending-market-global-outlook-demand-and-scope-2021-to-2028-2022-02-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-systems-spending-market-global-outlook-demand-and-scope-2021-to-2028-2022-02-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T17:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-24-ncar-pits-azure-cloud-against-its-own-big-iron-for-climate-models.md",
       "title": "NCAR Pits Azure Cloud Against Its Own Big Iron For Climate Models",
       "excerpt": "AI, on the other hand, takes an absolutely massive amount of ... as part of the Microsoft presentation on running HPC on Azure. On the Cheyenne side, the server nodes are equipped with a pair of 18-core “Broadwell” Xeon E5-2697 v4 processors running ...",
@@ -1302,59 +1354,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-navrina-singh-founded-credo-ai-to-align-ai-with-human-values.md",
-      "title": "Navrina Singh Founded Credo AI To Align AI With Human Values",
-      "excerpt": "“We are already generating revenue. As an early state start-up, I'm a huge believer in commending our lighthouse customers and our design partners who are those AI first ethics forward companies,” says Singh. Credo AI’s customers are primarily among ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/",
-      "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6203e02ea9ce90ee549e7ae6/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/amp/",
-      "publishedDateTime": "2022-02-09T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

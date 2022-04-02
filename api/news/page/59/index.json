@@ -2,6 +2,48 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-02-08-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report.md",
+      "title": "Apple buys artificial intelligence music startup for undisclosed sum: report",
+      "excerpt": "Apple (NASDAQ:AAPL) has acquired a London-based startup known as AI Music to help generate customized music, Bloomberg reports. According to the news outlet, Apple could use the technology to help ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report",
+      "originalUrl": "https://seekingalpha.com/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1048245156/image_1048245156.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report",
+      "publishedDateTime": "2022-02-08T04:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-vecima-and-bluepeak-announce-industrys-first-cloud-based-distributed-access-architecture-controller-deployed-on-aws.md",
       "title": "Vecima and Bluepeak Announce Industry's First Cloud-Based Distributed Access Architecture Controller Deployed on AWS",
       "excerpt": "At the same time, the vast suite of AWS services, such as data lakes, artificial intelligence (AI) and machine learning (ML) services, and data and analytics creation all become native add-ons to this progressive architecture. Many cable operators are ...",
@@ -1094,58 +1136,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa.md",
-      "title": "The Great Resignation gives birth to digital employees powered by AI, ML, and RPA",
-      "excerpt": "Companies across numerous industries are increasingly relying on digital workers to automate and streamline various tasks — and, in turn, these virtual employees powered by AI, machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/07/the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa/",
-      "originalUrl": "https://venturebeat.com/2022/02/07/the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-970562458.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/07/the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/07/the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa/amp/",
-      "publishedDateTime": "2022-02-07T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

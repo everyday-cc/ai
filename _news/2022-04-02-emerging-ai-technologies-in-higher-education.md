@@ -2,11 +2,11 @@
 category: news
 title: "Emerging AI Technologies in Higher Education"
 excerpt: "Artificial intelligence in higher education institutions has significantly improved teaching and learning. But AI technologies extend beyond the curriculum. With the help of the cloud, they’re being leveraged to streamline network infrastructures as more ..."
-publishedDateTime: 2022-04-01T21:54:00Z
-originalUrl: "https://edtechmagazine.com/higher/k12/higher/higher/article/2022/04/emerging-ai-technologies-higher-education"
-webUrl: "https://edtechmagazine.com/higher/k12/higher/higher/article/2022/04/emerging-ai-technologies-higher-education"
-ampWebUrl: "https://edtechmagazine.com/higher/k12/higher/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
-cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/higher/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
+publishedDateTime: 2022-04-01T22:49:00Z
+originalUrl: "https://edtechmagazine.com/higher/k12/higher/k12/article/2022/04/emerging-ai-technologies-higher-education"
+webUrl: "https://edtechmagazine.com/higher/k12/higher/k12/article/2022/04/emerging-ai-technologies-higher-education"
+ampWebUrl: "https://edtechmagazine.com/higher/k12/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp"
+cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp"
 type: article
 quality: 74
 heat: 104
@@ -21,7 +21,7 @@ topics:
   - AI in Education
 
 images:
-  - url: "https://edtechmagazine.com/higher/k12/higher/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r"
+  - url: "https://edtechmagazine.com/higher/k12/higher/k12/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r"
     width: 1440
     height: 500
     isCached: true
@@ -72,6 +72,6 @@ related:
         height: 630
         isCached: true
 
-secured: "lHvQ3gVF56N+Qxik+XlYQPcX1uHtm8ypxo5o6QPn+SqN3xNxEwAM+zHro9SKcNLj8c/Bxs4Pe3xs81H9gEyftlNAczhIWWPzy6Ngfrf+OrwOP9NcbAMWb1o50b6ii7WMW0HFRNXSn1ImtuTDrslKOD0MICtdXh0Ay8gYtqnQo3nYEM/H413EFwRWYUH/U9w5bwSO7o2EHqyQhPSYPR9L/DT7obsIiTG2UOpInfLu0hiph+4YPh+vVfTiSx4i8of7JuMWtsdRggrjCqHOn+BjycwlXxz1Ma55J/N4mn8ZVCPdqWvSte7Be8lPSg4zy0oMZ85dNlAoDokKxNrDudpCViMYff/qWtNpTQcrHqZQ6Ak=;oZzEh6IID2dz0vP7LB8A0Q=="
+secured: "rc7PIKok72K91rq94If81TFmNdRXPby0nVdmxYBjosPxx0hPQUyFanztiQp+ZZyEYzbaKmBiynLLdiYuN3lvp3QcQUdqngnCMGBXfwrBEyEw+6RUlj7dEkAwK0Gew06H6QDoBahkdT2XStXIPkcdEsgf8TOn/YePd1NdI48J/zP6MQyeBloEXZXBfjhzyf+89i9I6/VfJIUUQE5k9k3f/rQGa1Z+EcDOcZryuLd6urda3vYq//XeapwQ3grrPTh6hVqLygE7oFHcfqfYxXZYM4OHDDnv6+4Oty8u8V9uDwcNZK0hwK81ABolDR5aX2MzJmQ1nUd2HjsMO0PoP9VWwxj02FS7de3WGrQjkKKkYt4=;5En4Hgzl008sAWBCZlrkbQ=="
 ---
 
