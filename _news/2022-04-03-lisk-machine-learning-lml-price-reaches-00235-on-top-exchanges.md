@@ -44,6 +44,6 @@ related:
       domain: etfdailynews.com
     quality: 37
 
-secured: "gZEPh2tQo2ElRbiqzyX5hegcTFagxg3ltE99rvoMMOghMOELYBfLWe/Hk/80fbm3ufT+SAbI0e+ILoDtP/P9Zz1DMwj2OFMyG3GBw4EyDH6muLCCjZudn03ncevxdnXNLkYYfsTiqhSQuAqAVKUVY8GD1k19VjftwQk8G0SB+VWW7Cs1P7s7JR0Aa/e1HJ/uH3wcexMdV4bzAwGsMmuUstTyskrbf8sU1hpipCAfb55XnAHvm6g+i6+pbFFqNT8UYUKWvzg32SjXnHTaN3SRZtC5pAyX8QfylooPWWc8Xia40MnZL02Z2rDxj0uNJ6FIAKN5nSB0NLuFfLzg5E+ENQPc7wBsSnmRdtnK9p2FqjY=;kfOFah1BC2HY4gJPS2SC1A=="
+secured: "WU0OaD7/hEdZsywYPcYzzM2g/hu/AO9zN8W49DXgGtusJEI57wBVhAtViNSBlBPzsYM1aBKIa06Bt/oAlN0II3bvMlYnXayDlfkrFjYRkxLEchrQNb+H+dMB5EDKCMKPbmoCxXlzi3qmxVW6uh+UmDaLNqG+49DT4y3WksXM5P3TiSvPJrq5cMlaIG/xayYgvgEaYek+++AKjfsXM4GES23+QSmCX33IyV+PRFKoAo4szYrCi8tY46a7/psWRUDt0gxOtya+HBzZzrB034h0YXxepPtvUJwU3sPLcRxubzeCC9FydT0wl1/dca8iapbEIQGZvFiEX1zoPVZFehGOPlXe//Oz6mhl6njuyhlCf18=;oPs8PQT1CEucTyiluoQ9hA=="
 ---
 
