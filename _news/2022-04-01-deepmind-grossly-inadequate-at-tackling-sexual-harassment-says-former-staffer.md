@@ -3,14 +3,9 @@ category: news
 title: "DeepMind 'grossly inadequate' at tackling sexual harassment, says former staffer"
 excerpt: "A former DeepMind employee has blasted the AI lab for being, in her view, \"grossly inadequate\" in dealing with internal sexual harassment. She also urged the organization to end its policy of NDAs that prevent victims from speaking out."
 publishedDateTime: 2022-04-01T01:14:00Z
-originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/03/31/deepmind_harassment_open_letter/"
-webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/03/31/deepmind_harassment_open_letter/"
-ampWebUrl: "https://www.theregister.com/AMP/2022/03/31/deepmind_harassment_open_letter/"
-cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/31/deepmind_harassment_open_letter/"
+originalUrl: "https://www.theregister.com/2022/03/31/deepmind_harassment_open_letter/?td=rt-3a"
+webUrl: "https://www.theregister.com/2022/03/31/deepmind_harassment_open_letter/?td=rt-3a"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
   name: theregister
@@ -20,12 +15,6 @@ topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://regmedia.co.uk/2022/03/31/shutterstock_deepmind_logo.jpg"
-    width: 1200
-    height: 627
-    isCached: true
-
-secured: "1PIQzDtEFwE78QE4EATL/KqLoZSqRYvXwXdlHjvk/c9BBZQBFmcU/NgTdQYtw6URJvu5fAMvlyjVo1Pmy2OLh3kmK53xxYVQcuNbH/3PGWI10cGce1LFUNPuKDVNKKv6FA7Pf5Ugzsg6y33E3RwBRO1jZEpqaLJcFsb5JWN049BsFk8Bb58rFGYDTCOOfF+6jA6x20JvbkByFMasu9YZjwLrH+fMfQOAliDk2jUXkXwRUIFLecwXNiz6Q7R6VsS63Tj0tF4Ezu56Ro3sxl7OnWLuzLbYuTZ4UR/rXdWxCLbwxC9acLaAToeAMiwBp8X6fMWb28EWUS/ccQ5XfHezOPNKiMniRfnVtRuTGQM4KB4=;CnooAXEFufQVk3Ij77rpSQ=="
+secured: "Son2zQ13Zl5cGNKURXTx5yWfgalKOqT7FTKJeWMwyvt+IWD21D2efoPkDwFSRGLn6x6xuUob2Nd56BVy2T5jfJyDS7nOQjjg1PLX/62H7jOvJt4W9eq/v/eX1dDmr5NgDBrl3maL9hZPvl2OE6wM6umKz0BjfFspea5PIQvMfvux84wsMpYOh2bMPZFPEKoBETCBCAnROmXl2e+uNg1EJCHPg0WFtxKeMuOC3o9RwIczOEjBfgh08Akj8obvx57OGfVpAlMV81hZ3KhniHmOBJdsh7uanndpIuWjgRyOi1ISQrCJ8XzOKzmTnPyAMbU1wqiRpVn7Lmo5HYVHCwcT0lBRHHrsj0Vsr2aE4llljfTC8i8RCExqdznWHtRDrpVsNpDYBLnUfTc57Ig1PEh6gMS/vzpP7W5snPOTqyzG6s3FE9OhMRD5kYfAnxzW31p57G4Dug2wZ7k7NnbezH31Y3LpQydXfVhAM5IPrppRNHB1G3QIWnVDNHhQ5AA6tiBr4XNZczYGoCQUyvwoEzYpVg==;BDGaP6Ga03Gol19xPF3nTg=="
 ---
 

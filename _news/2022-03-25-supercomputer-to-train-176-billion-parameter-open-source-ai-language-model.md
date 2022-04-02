@@ -3,10 +3,8 @@ category: news
 title: "Supercomputer to train 176-billion-parameter open-source AI language model"
 excerpt: "GTC BigScience – a team made up of roughly a thousand developers around the world – has started training its 176-billion-parameter open-source AI language model in a bid to advance research into natural language processing (NLP)."
 publishedDateTime: 2022-03-25T07:34:00Z
-originalUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=rt-9cs"
-webUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=rt-9cs"
-ampWebUrl: "https://www.theregister.com/AMP/2022/03/25/supercomputer_language_ai/"
-cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/25/supercomputer_language_ai/"
+originalUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=amp-keepreading-btm"
+webUrl: "https://www.theregister.com/2022/03/25/supercomputer_language_ai/?td=amp-keepreading-btm"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://regmedia.co.uk/2015/07/31/shutterstock217132183.jpg"
-    width: 648
-    height: 429
-    isCached: true
-
-secured: "eifsd7Nzn2zAsMaKfUGd74xTRhR3mGUATMKuNqpC+LelUWdI8Ist05ObWyUhOT/BaDqQa/DJrkhNOJ6Leumd19getJdH0KHKMxPLVAQzbPTAMLfG8VeoThQjXDHEpt3OWyaxyU1AkgZwhPRR3VB5LD10OEVUhrrEKboaIPR6wB5k3Xlq7drPMaoFwQ3h+JiCVnNxnFqdR4YFyz6IzcgNmYVatEk3TLtzrOBvoDNoyRLq0r+m5TqpajBfh8b6yC0VYm9npqWS4jfTYNOsWAxEY/raypO+BlAiO8QN/VIIe9YKwUOhszsfV73x4qaGcH4vYFHZRcqfpiUWbNo05wWotqjE7a/xSfbvcR3ljPeXOCmPZ5nDQcXK1UD3erkocplQy34NIFRFwOf6qqmr5FL8onLY90+mC8iYDGQduXTG+uPzhhENcaymSlXBrXt0t1a184uN/tP8/211Lwi+ZM8mkOtF7YlAKZT0atJhJ5LJwthWCr+mqevUmmUKe6QYWrUgSd5jsR2SZ3aePKvEVPPwwg==;amPbDpjVTXegtPueEH4Dvw=="
+secured: "4ZCAyjr0YAtOEIRdZqcGdquSx2UN2pA6TuB3n1kZ9kxcq4jVzUWHxICCjITPh2/Lo0FQCI3NtPjBZf27XQZGgxu66/cp07aRBt82VoHj2SFySuNbQOLEznVy2t40Nn7qxki1nTRccUMrcTuW0dOmtjx7yyBnZJCR8Mzt63wxmqKjGqG6QOcvWbTDdVx0qjeKBTF8maViuo7ejmS/NrizYVpEJUUcFQbL6QGmMmDSnJAB1ZocB/+5aLfv7+eP9jAy0jSZutW4vRWZJ52M+qDcW2wK3YKwQNnz9a/MaYeYW33enfhPYol53mtaHTtfKz0li/0JRXwzH2sKWHzor8B2BeBkwmgD+mknI9F7GX7qTwY4Ym4WDWTfEp+3E4+/reIf6HJA3BDuxpwU14XDJ7PvhKo512guDGkEr8svyd5hZbzTZulvoKikW5igClS6tNMrX35SKCUSi9e7UFHZfacX9t7ggQcn0Zsrt8EAkK2QSOV52lo+aar9LyaNJFdtHV54Zk0H2WlHFurCeMCmoA5dTQ==;TKM/KfUXLPwP6enJy+tlRg=="
 ---
 
