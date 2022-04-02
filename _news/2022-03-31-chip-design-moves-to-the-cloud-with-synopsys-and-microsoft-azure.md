@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/amp/"
 type: article
 quality: 121
-heat: 181
+heat: 191
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Microsoft-.jpg"
         width: 800
         height: 520
+        isCached: true
+  - title: "Microsoft, Mlytics Partner To Scale AI Capabilities And Improve Web Performance"
+    excerpt: "further reiterating the importance of the decision to choose Microsoft as its AI cloud computing partner, and Azure Machine Learning as a key part of Mlytics’ AI strategies. Microsoft Azure Machine Learning has maintained agility, scalability ..."
+    publishedDateTime: 2022-04-02T09:23:00Z
+    webUrl: "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/"
+    ampWebUrl: "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 70
+    images:
+      - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
   - title: "Synopsys launches pay-as-you-go chip design and verification tools on Azure"
     excerpt: "Synopsys has picked Microsoft's Azure HBv3 cloud to offer pay-as-you-go on-line IC design and verification electronic design automation (EDA) tools, to be"

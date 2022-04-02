@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The top 8 search topics on Bloomberg's AI-powered Research Analytics Platform: What analysts are looking into"
-    excerpt: "Financial professionals, specifically analysts, need quality data and information on emerging trends to keep their competitive edge."
-    publishedDateTime: 2022-03-28T15:58:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/the-top-8-search-topics-on-bloombergs-ai-powered-research-analytics-platform-what-analysts-are-looking-into/?tactic-page=597225"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 28
 
 secured: "umk18/srlP7EpZYRmMDvOVfr1cvNwPFstOBCoULUTd90Bu3bFDe7q+/yQcTlhqHvHq0FN4J4ovvunCfv1I1GH4daDXL7qR/tsx6Czhp67fgpQC3dZwYIIzRFrljqf445SSfCbmJCDZa0D/u+kFBbABR4q6iF8c8lQmNOTuit9Rbbpq25M/hmoj5a19lN1ZYEQMyMt5BIWAy6syXlG0NyhzkLB1ZnSDEZld2GeDhH9jyjJkGCfKnpQ2lBDqT2oFWhTE8l5meafSMrc8iS/trQQdApwOdXDFGazBAmV2hVcx+dwpekb6FE2MaYcfGfWhhVhOGTpVWLfL79CLXGvmp0VHnp8xYlf7zqfl1HiOGEKb0=;ATPcfyQYfKz39p/4EDV9BA=="
 ---

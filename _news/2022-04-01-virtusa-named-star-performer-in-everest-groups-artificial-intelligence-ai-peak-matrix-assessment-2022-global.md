@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Virtusa named \"Star Performer\" in Everest Group's Artificial Intelligence (AI) PEAK Matrix® Assessment 2022 - Global"
-excerpt: "Virtusa named \"Star Performer\" in Everest Group's Artificial Intelligence (AI) PEAK Matrix® Assessment 2022 - Global. SOUTHBOROUGH, Mass., April 01, 2022 (GLOBE NEWSWIRE) -- Virt"
-publishedDateTime: 2022-04-01T15:00:00Z
-originalUrl: "https://sip-trunking.tmcnet.com/news/2022/04/01/9575214.htm"
-webUrl: "https://sip-trunking.tmcnet.com/news/2022/04/01/9575214.htm"
+title: "Virtusa named “Star Performer” in Everest Group’s Artificial Intelligence (AI) PEAK Matrix® Assessment 2022 – Global"
+excerpt: "Virtusa Corporation, a global provider of digital strategy, digital engineering and IT services and solutions that help clients change and disrupt markets through innovation engineering, today announced it has been named a “Star Performer” in Everest Group’s Artificial Intelligence (AI) PEAK Matrix® Assessment 2022 - Global."
+publishedDateTime: 2022-04-01T13:02:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-artificial-intelligence-virtusa-corp-cce104ae958a64766a62a73928106eb0"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-artificial-intelligence-virtusa-corp-cce104ae958a64766a62a73928106eb0"
 type: article
-quality: 9
-heat: 9
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "oJ8nQLiH3l5WfbfvjsiQEEuUlEZzxgYiAntvKBthEtUu77qMSuT6rLU6utyPNSllqcYMrWyAo19hweuq4qavpkyHBMe9mtgH11qkISXL7UNmTh09kmOsb1yZoTOczfLnjEuaPeF+q6n0UkW8m1rxhFZASJOBHR0nvSHkC7/geYFTNKjJbjQiUKngUgBbsIfjNhLJASujeKIhdxKd3QK6MhW4mXRwC/Shq9BS1PXsp0N1nynMtIJf+fgoU5wDFKdIDyiOdXJ/iNWjEalJEJvK7uPfFdKfGtDu6WaKpTypRN30XaCT+guPI5xn4SXGrHZ4ASKOpjnX+bLB3nkb6l/DyaAsoUb4g1PbQA7yB5xebkg=;fCnF+dd7JoG/UKNP6i+MFQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "JkjMpS05/PrgJD3ycrQ2lB6f7Z1aGd+oeCc8+zBHhbPdy7M/XgVqfO3C12OO4NszFazltsgi+cuOqTa32UYO3vvW5IVrQEVYJT8Z8IC6GGKBYcYiT1ucoVJqeBxJcd96MoPemZv6Z0vetVtc9HX0iKwMLW/Nr3LQ0m63Cn5oUq+GhFJxUgA8BFUIHm8E+ZEdRexMGuvNeFMKkjR7sOR1tpyxgMnCY6PYpAv5QNoZt+inubJVmatDqii9F4+/4aykqs9Dx8v6szbdQGYaQSusfsYxTMS+b/wWz8GLtqeVtwkCWw7L9pCl0OG9F/3yU2g5npQ/scOC3ve4R1QzdJHH2LEZfjwgJSViKFjpqMCdJ6c=;y9heHUv/BK3EPAVbDUmHIQ=="
 ---
 

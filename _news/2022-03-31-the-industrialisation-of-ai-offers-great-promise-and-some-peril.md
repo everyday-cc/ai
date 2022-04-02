@@ -62,20 +62,6 @@ related:
       name: finanzen
       domain: finanzen.at
     quality: 21
-  - title: "Outreach Named a Leader in Revenue Operations and Intelligence By Independent Research Firm"
-    excerpt: "As a result, revenue leaders are dealing with a widening sales execution gap,\" said Manny Medina, co-founder and CEO of Outreach. \"We realized we could play a valuable role by helping revenue organizations close that gap."
-    publishedDateTime: 2022-03-28T15:24:00Z
-    webUrl: "https://www.khon2.com/business/press-releases/cision/20220328SF05526/outreach-named-a-leader-in-revenue-operations-and-intelligence-by-independent-research-firm/"
-    type: article
-    provider:
-      name: KHON2
-      domain: khon2.com
-    quality: 12
-    images:
-      - url: "https://i0.wp.com/www.khon2.com/wp-content/uploads/sites/8/2022/03/Locations-Open-House-3.27.22_Photo.jpg?w=2000&#038;ssl=1"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "e3YcoXNKLOoDafe1flA0VYIevpBE3jUpeSxlaP51Nn1R5p2UjZwUlii4whkgX7468EhOAy8whoejEPbWPw142WMfWZPbho7VSWY6Bbmhfv8npFUxh5HYvGiPUDu49T3og2k7llHo4HEoZEwK9pk7iaalHCYI2FXfdoYVcSxPiDWccYFy65vCjSk6P/KDrfNWELUKGXuVRGVmvZgubM/Gt9C7q8Nc8+MvAetA7QR6olPtbq0I/JpTNX9kHWt9schsyuR8sAXeV3fXCw3yTkXkWvJPaSMP9YMYDCu+dDd2pDeqBV4i1/aB5J0xKII2tQ1SAt1iHavSdxAt7ezbYeeZI1jiJGNnGIPoZjmwv0mHkq0p119kNGLrV2MTKOOkoz7I8WBKRDJXpvMAlp2CgW/tOH1TVOZxx8029b9qhC2ocnlt9xPt7TYozlAZTK5hFFsHEo81LL4SfFaYHJbrx3CPeZjvXpaZc99zJ62zdNjUMIDfFJ+vO+UnX4Qr6RFZxk0WMu+H93oG7+ZgLDgK1+Pqqg==;dMLlRcpNKK9J8zvqQwGQXA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://aecmag.com/ai/artificial-intelligence-ai-in-construction/"
 webUrl: "https://aecmag.com/ai/artificial-intelligence-ai-in-construction/"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "OurCrowd to Open Global Artificial Intelligence (AI) Innovation Center in Abu Dhabi"
-    excerpt: "Global securities crowdfunding platform OurCrowd will open a global artificial intelligence innovation center in Abu Dhabi later this year, according to a report. The new center is part of the ongoing initiative to connect countries that have normalized relations with Israel because of the Abraham Accords."
-    publishedDateTime: 2022-03-28T15:25:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/03/189025-ourcrowd-to-open-global-artificial-intelligence-ai-innovation-center-in-abu-dhabi/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 46
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/02/OurCrowd-Global-Summit-2018.jpg"
-        width: 1280
-        height: 1040
-        isCached: true
   - title: "Artificial Intelligence (AI) In Food And Beverages Market Competitive Research And Precise Outlook 2027"
     excerpt: "Comserve / -- The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a rob"
     publishedDateTime: 2022-03-30T11:40:00Z

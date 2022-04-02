@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/amp/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The top 8 search topics on Bloomberg's AI-powered Research Analytics Platform: What analysts are looking into"
-    excerpt: "Financial professionals, specifically analysts, need quality data and information on emerging trends to keep their competitive edge."
-    publishedDateTime: 2022-03-28T15:58:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/the-top-8-search-topics-on-bloombergs-ai-powered-research-analytics-platform-what-analysts-are-looking-into/?tactic-page=597225"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 28
   - title: "AI-Augmented Analytics is Transforming Business Intelligence and Simplifying Data Complexity"
     excerpt: "In this contributed article, Ajay Khanna, CEO & Founder of Tellius, highlights that when it comes to business intelligence and data analytics, AI is a driving a new wave of innovation called augmented analytics that makes it easier for individuals of all technical skill levels to analyze volumes of data to accelerate more valuable business insights."
     publishedDateTime: 2022-04-01T13:00:00Z

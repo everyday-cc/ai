@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/accelerating-financial-servi
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/accelerating-financial-services-with-ai/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
         width: 580
         height: 339
+        isCached: true
+  - title: "Scaling up plant-based products with artificial intelligence"
+    excerpt: "The Kraft Heinz Company and food tech start-up TheNotCompany, Inc. announced a joint venture designed to reimagine global food production and advance toward a more sustainable future."
+    publishedDateTime: 2022-03-30T19:07:00Z
+    webUrl: "https://www.foodengineeringmag.com/articles/100171-scaling-up-plant-based-proteins-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Food Engineering
+      domain: foodengineeringmag.com
+    quality: 37
+    images:
+      - url: "https://www.foodengineeringmag.com/ext/resources/eNews/2022/FE_Online-03-22-Heinz-theNOTCompany.jpg?height=635&t=1648667790&width=1200"
+        width: 900
+        height: 550
         isCached: true
 
 secured: "vIMIMr+4HtE3NKcqT8nrw6bUCUXr4C/UB0OuyCSzgl4vj/MbLlAfeC+VAfDSzaTosE+O8XDTrS9nt0v0Oelg4kKRHAEtcM/rsiXgEB/4mLaUSfsDG1NqoflH7l75sxKDoxCDkugHekKjvj9FdBsFgNKSTiHTCr6htXjSTIVQEDdkPdSiDtSJd8FXCZztW6YFag0p2SR30FHKDVauQ7+r+vS3cTDfPIgausBKGR7iAmi9Ke66pU55O2YjwH+DRPxRFp9YKhNjVygCvgEs+HOeUL/hQJ1T4tjN/4pxVjnKxjEmDyZ12HpCUwRNU8bPpw5YVdfNjzsq3qRnjrrjPD888PTBV0nJJptfwwkkAaY+lXow6igksvySiOIHt2poWe/2eE+ZszvFDosgx4Ppooz1pgLM5zAxUVv3xeDL71oI8vi3Jejse/Q4DW6LXDMW/mCpLGm8t8nh6/58o8YnnY51S51e2Y17QsQ6WCanizCbiMjhag5fUoSKAW6ZUy0YZjKlcOaLkTKehzS1ZbWpV/Dvng==;23pw1qku3xYOjtO5zhGvoQ=="

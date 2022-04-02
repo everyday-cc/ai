@@ -41,20 +41,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Machine Learning and Artificial Intelligence are Driving Recruitment Innovation"
-    excerpt: "Experts say that artificial intelligence and machine learning recruitment and onboarding solutions are seeing a huge increase in demand."
-    publishedDateTime: 2022-03-28T15:25:00Z
-    webUrl: "https://nearshoreamericas.com/machine-learning-and-artificial-intelligence-are-driving-recruitment-innovation/"
-    type: article
-    provider:
-      name: Nearshore Americas
-      domain: nearshoreamericas.com
-    quality: 50
-    images:
-      - url: "https://nearshoreamericas.com/wp-content/uploads/2022/03/machine-learning.jpeg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "LxPqPgCS8K0dACDOBY2m85ZYwXFF7bO1uTeFk2Sm/7zQ5EfpUfP95+2nyonZXqS+5iE+5wqSmYY5DeY2a9yC+pQqQ75IZmfpXyO7gzIPal5VC0kKVe4WPXLuNbUC7CAy98BaxLiT/ZA8SQcNLLXBNzkBHt1WpzYUhJqzzda0fwMbKL2ugA9jRcImUgVN2LlLRBqvaun+eg2Ygf3yCh53LCHhRxpTMC4b/FZW5z4Quh63exqnVEGza4UpF/l2Kd2yK28axOQkxpGe99ZPs5klJabkjdjLpM0HxLtRagS9ZPTGY/rKswXtMi/QMLQKuzrMdIdIxlWXemNDsamnvNQ9HlI573z3tYsexakaCgXpmrBV4y+TfmY/0mzzpetd+VJZiXjzeDqLsO09eYZQEEvC/ny8hqK8b1Z0druQ8bsbf34tp516bwRQFkhJdxDGko5wYcceD2ZSxbUVUnX/S/3l/hxns4UxQjWxw09ohASkeEkwJvVrWLioG6FCasUkH1f+Jb6oQzzTwMcOg03290G/Zg==;62dzrapipx9YDjzUVLga2g=="
 ---

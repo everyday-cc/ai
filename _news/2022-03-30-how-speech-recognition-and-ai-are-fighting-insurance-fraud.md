@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/how-speech-recognition-and-a
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-speech-recognition-and-ai-are-fighting-insurance-fraud/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning and Artificial Intelligence are Driving Recruitment Innovation"
-    excerpt: "Experts say that artificial intelligence and machine learning recruitment and onboarding solutions are seeing a huge increase in demand."
-    publishedDateTime: 2022-03-28T15:25:00Z
-    webUrl: "https://nearshoreamericas.com/machine-learning-and-artificial-intelligence-are-driving-recruitment-innovation/"
-    type: article
-    provider:
-      name: Nearshore Americas
-      domain: nearshoreamericas.com
-    quality: 50
-    images:
-      - url: "https://nearshoreamericas.com/wp-content/uploads/2022/03/machine-learning.jpeg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "CORSIGHT AI ANNOUNCES U.S. EXPANSION DUE TO MARKET DEMAND FOR LEADING AI FACIAL RECOGNITION TECHNOLOGY"
     excerpt: "Building On Widespread Customer Adoption and Demand, Corsight Brings Millisecond AI Facial Recognition Technology to Private and Public Sectors Worldwide"
     publishedDateTime: 2022-03-31T13:06:00Z

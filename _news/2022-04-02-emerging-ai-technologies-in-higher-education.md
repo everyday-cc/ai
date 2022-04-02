@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Emerging AI Technologies in Higher Education"
-excerpt: "Artificial intelligence in higher education institutions has significantly improved teaching and learning. But AI technologies extend beyond the curriculum. With the help of the cloud, they’re being leveraged to streamline network infrastructures as more ..."
-publishedDateTime: 2022-04-02T00:17:00Z
-originalUrl: "https://edtechmagazine.com/higher/higher/k12/k12/higher/article/2022/04/emerging-ai-technologies-higher-education"
-webUrl: "https://edtechmagazine.com/higher/higher/k12/k12/higher/article/2022/04/emerging-ai-technologies-higher-education"
-ampWebUrl: "https://edtechmagazine.com/higher/higher/k12/k12/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
-cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/higher/k12/k12/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
+excerpt: "Technologies that utilize artificial intelligence and the cloud can help university networks adapt to the changing networking landscape."
+publishedDateTime: 2022-04-01T20:29:00Z
+originalUrl: "https://edtechmagazine.com/higher/higher/article/2022/04/emerging-ai-technologies-higher-education"
+webUrl: "https://edtechmagazine.com/higher/higher/article/2022/04/emerging-ai-technologies-higher-education"
+ampWebUrl: "https://edtechmagazine.com/higher/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
+cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -21,7 +21,7 @@ topics:
   - AI in Education
 
 images:
-  - url: "https://edtechmagazine.com/higher/higher/k12/k12/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r"
+  - url: "https://edtechmagazine.com/higher/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r"
     width: 1440
     height: 500
     isCached: true
@@ -71,21 +71,7 @@ related:
         width: 1075
         height: 484
         isCached: true
-  - title: "How to Make the Most of Artificial Intelligence and Other Technologies: Advice From Experts"
-    excerpt: "Technology is often presented as the solution to many problems for nonprofits — reducing staff burnout, better targeting of fundraising efforts, and improving budgeting, to name just a few. It can help with all those things,"
-    publishedDateTime: 2022-03-28T15:15:00Z
-    webUrl: "https://www.philanthropy.com/article/how-to-make-the-most-of-artificial-intelligence-and-other-technologies-advice-from-experts"
-    type: article
-    provider:
-      name: The Chronicle of Philanthropy
-      domain: philanthropy.com
-    quality: 29
-    images:
-      - url: "https://chronicle.brightspotcdn.com/dims4/default/f5cb660/2147483647/strip/true/crop/5399x2834+1+589/resize/1200x630!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.amazonaws.com%2F37%2F40%2F9d5d13f2410e9f106ca413488d7c%2Fparkssmartnonprofitsummary0323-gettyimages-1337928487.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "JkOu309c+BpXP0BgYguMnQ3It+l3Xa9r5ROXw/TTE7bJrxVU7MSaRrbFdZWu7zfiN3efZlBfpL0td7puB1e9TPovY9SLcV2pFk+dHCnKSmmExva/FcxOdmkZ96TsiOUfiKJ1A6vSv6s8ifCHRP+1N1R3aukTTQgKoyKed0qsPJrhlwO12Onkz5g6gtqIuVXhx2lf+cbjB/ucpkJ7VwyEQKUg4i8SMNLntcwuFaA7WHeh3+/VY+uO5pMI2rM1pO4jkyBx5U52675ve/edpSRy04Qqj4RDnzkv2Uy5au5uuBe/ejNPd2+cHYvkSjkQNCWKXN8mRHq5uVhbX8ipRVwMdizMT9ZkxjCvWwR/F+rI8zW46j7QvVPEiU2A70DIT6DfjDgoE7ZRSpZzn1JKdK8VLbmg7E8vyAvbcfZVYmISdzmDT+TvXCEMm3RbRDhklNboDj5obW2R5RRFPNQCV3rLiAUN1cxveCDkBBGfzbMdBx+fPIKseNndmgnzY8KRm/5Bx0JqcAu2tMmGwEZsi02Bzw==;1wAc3U4cXDj05rtrROKgOw=="
+secured: "FfXFMsXdV0eEO4dkxQSJXGsyiakgUYGdfbuss43+dC5iz5Mtf+N9ZebmiSiXKl992/42njOimq+MMJB7nhNN5tXVYILbikJlzMhBMirzsWVwpc2Qo9VI+W7K47K96CSgXt7tBWt6NwqDnRShFx/rpV56F9mrDBqy3yfkKBKHXABeSL+gaMlaHyLLNjw/n4McT2ArgvBaLdlkWNKVUTzkaGhoWeEcpQgeTO+vrvJWM0wOJOrYC6oF8Y589olmlszSY71WpMDSYy6ulpWEOk3l0p5WAVogkuPuW6LBEMZnA1Jj1LRzj9XzAByrqwu/qxIk3YmZQWX+M4/YmuYcQIIdILWxeZApfxSDzFEIK2JarSY=;X8oM+ivA7e+reGc4bUmuCg=="
 ---
 

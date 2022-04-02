@@ -3,10 +3,10 @@ category: news
 title: "How To Eliminate Ethical Bias From Machine Learning And Data Analytics"
 excerpt: "Julien Alteirac, Regional Vice President of UK&I at Snowflake explores... Over the next few years the increasing availability of tools such as AutoML will help democratise machine learning (ML) and em"
 publishedDateTime: 2022-03-24T09:35:00Z
-originalUrl: "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/"
-webUrl: "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/"
-ampWebUrl: "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/"
-cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/"
+originalUrl: "https://techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/"
+webUrl: "https://techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/"
+ampWebUrl: "https://techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/"
+cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 1727
     isCached: true
 
-secured: "NY0U/RqydIf+SfLioj8AKggxNw2c06Ka8zG+YO6JC0XCehPnaj++zQhN1p+wVTiQeMIoQguPPF5ZHsBPdblfsf5or+61ZEm3N6WtCV1c2KGuGFYS87rprCetNlrBWdh77FZ/902FHU5jkUDe3KV+pNsEDRPI0vAlSwPsBv/7RUBP3VqnCWOEu0G9XdJzk0Du1WcfJvSHirPFQRFUmJ01tKJqb3k7abJoFt67wHQdIGi7pZS1UemJenBRDm19IMKu4KV81xXVRdD4tK/kCb2EETxkiwEDIwJ52saIKJHgDkqvNZveYwAYj7+oxZBqPhQgKFgkVAdjxetvfBWQs1SgNh2kTk+OWxeRq+2r1MFi/Wn0OiTHYNgZweXn3h7CMWvzOT/VQZrAtiWH04itl/A7jD/2Cr9+H294O/yftEleZIHnbET/EUSmgSfAtVre46kU/v7iDQ/eaFVAI2Qof2aDoGbXu5vJccpWsuPKdMesNZnYr0G674mqHONHTRLEk81exlpg65AJlAMaxbjnxmxhdQ==;Xiy5GKudJ/7oJrsXsSwd6Q=="
+secured: "YpHOm7CgWQWkR0dFSmAiiO0/RnT/BodizrqxmqibjqHe8LwkxX0AHdtc3hULHKylsq1w6ITgk/926QQ8bibz6NUG8uVAYz7nXGtYmrzGM23KH1f/dVG0VYqLZGcyQluFhQ2UW6TmgnkPE9kZMzqR8xBKOBGLOadSP4WDKAW+VK33wfACBexW2Igk+Uaa2AGEaUJxZXCrCLBjqkiyodCI3vngwwIMg7bYOK8MCWf0j2NZ3OeMcvG7vaBVtJTdwTfU7COAbrj2Pk8snkIjAtNWLAJk0O4RoC4xPQ6Rci31XpFWbGltwb4DTgMHOxMMIh/ZWdY9TDlOD/TEqSD9qHmN1+Ue97hhG8FUSrtbBuheehg=;RQXnz/8kSV7ijmGIhCp4pA=="
 ---
 

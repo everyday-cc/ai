@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Lumeo announces the integration of the Microsoft Azure Face Service with vision AI models and analytics"
-excerpt: "Lumeo, a designer of computer vision solutions, announces the integration of the Microsoft Azure Face Service with its ever-growing library of vision AI (Artificial Intelligence) models and"
-publishedDateTime: 2022-04-01T11:37:00Z
-originalUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/lumeo-announces-integration-microsoft-azure-face-co-14053-ga-co-14411-ga-co-1648794885-ga.1648805569.html"
-webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/lumeo-announces-integration-microsoft-azure-face-co-14053-ga-co-14411-ga-co-1648794885-ga.1648805569.html"
+title: "Microsoft, Mlytics Partner To Scale AI Capabilities And Improve Web Performance"
+excerpt: "further reiterating the importance of the decision to choose Microsoft as its AI cloud computing partner, and Azure Machine Learning as a key part of Mlytics’ AI strategies. Microsoft Azure Machine Learning has maintained agility, scalability ..."
+publishedDateTime: 2022-04-02T09:23:00Z
+originalUrl: "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/"
+webUrl: "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/"
+ampWebUrl: "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/amp/"
+cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/amp/"
 type: article
-quality: 33
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: SourceSecurity
-  domain: sourcesecurity.com
+  name: Impacts
+  domain: techbullion.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
+    isCached: true
 
 related:
   - title: "Chip Design Moves To The Cloud With Synopsys And Microsoft Azure"
@@ -67,22 +75,6 @@ related:
         width: 800
         height: 520
         isCached: true
-  - title: "Microsoft, Mlytics Partner To Scale AI Capabilities And Improve Web Performance"
-    excerpt: "further reiterating the importance of the decision to choose Microsoft as its AI cloud computing partner, and Azure Machine Learning as a key part of Mlytics’ AI strategies. Microsoft Azure Machine Learning has maintained agility, scalability ..."
-    publishedDateTime: 2022-04-02T09:23:00Z
-    webUrl: "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/"
-    ampWebUrl: "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 70
-    images:
-      - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Synopsys launches pay-as-you-go chip design and verification tools on Azure"
     excerpt: "Synopsys has picked Microsoft's Azure HBv3 cloud to offer pay-as-you-go on-line IC design and verification electronic design automation (EDA) tools, to be"
     publishedDateTime: 2022-03-31T08:19:00Z
@@ -108,6 +100,15 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
+  - title: "Lumeo announces the integration of the Microsoft Azure Face Service with vision AI models and analytics"
+    excerpt: "Lumeo, a designer of computer vision solutions, announces the integration of the Microsoft Azure Face Service with its ever-growing library of vision AI (Artificial Intelligence) models and"
+    publishedDateTime: 2022-04-01T11:37:00Z
+    webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/lumeo-announces-integration-microsoft-azure-face-co-14053-ga-co-14411-ga-co-1648794885-ga.1648805569.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 33
   - title: "Microsoft launches Zulu translations"
     excerpt: "Microsoft has added Zulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages across the entire Microsoft ecosystem of products and services."
     publishedDateTime: 2022-03-31T09:22:00Z
@@ -118,6 +119,6 @@ related:
       domain: it-online.co.za
     quality: 19
 
-secured: "5aRrSUMmtAaXpIYgkwonYEK2o15iE7x8BjwhkunGIj5GZcw+bNWiHcMpxnUv2gRbAAtyLk+yT4/xtOCgvp0dANeD3lfYfhvaaGVvM+oIVnd2eisDlfSThrUbjNNBkqnGmFhpNCgKZqyHr05dTpiWUWwFzg1dPKbTjoFIW6maBbiwFd0P0qe5UQ8wZ80Fa5pJeD6rCwdZFQnz2U50FJvg+IicAijTeEqkzzeaM7o25tkWzizkc++LqFjxQMNaXIn9KAzqc8Kq0SB4JgqzmIgWEqFF5T+ug2c+lz6wCU8ekExckYIuYrQxkwLEm+B2/5AdPoEuT6NHdNY6D6BE02WE0UQ8m5fyB4cVQUay2ivpcYppUWgpr34xuJPqzlVdSnN8Z062v7W7wPy7a8WK9CODZCxQtYgKV9wLvLMvhkOjMOsRpgeIQ7DiT/W6ULVVaTFyKAwIt1YnC6r5Ku4dizTTQisus6oxYyE5jFZmn45bOF5O6nBH/1FqvJARJT/TIHT9Sjp309dF86ynMZZeqij0dw==;v5Fjbaqb0ixuHg8XdDgEPQ=="
+secured: "BaRndT+e8bF0oENFOo14kxyDpgtphwfLhDZLtPPR23No9ErMEYFPe3CSzXtBNX6rq0PsSaMW7MAefRvZyD7/aOp4d7fMSkST5/KUGcX5egTccSC8jYHtfFYwEdHQIIaV3Nu2YAvr+3yVZ+FP7f1/VrgP2qEg6TUJt3Lk9NnqmKmm0L8bHNv1Ft+l4HJu+r9aUBa1MCzdWASLgrBmnGWz+Qd9uy5JlhwXtjmh2W9SALNfMbfhuA4Jr9qul4mpRPfJoYLbLTeP0FXdQEf25RLEdo4ZoV9P9y+FYCs9/+yUv9yPoAzatvs1IxX3F7i2fE3IMGnfkTKtSBNKuqu4MBbUYlmcX8PB5xlZR4Jx96Yc1xs=;vcztVm7TKn0vwZxCddgUUg=="
 ---
 

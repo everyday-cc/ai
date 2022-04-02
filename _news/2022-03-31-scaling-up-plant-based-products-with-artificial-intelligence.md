@@ -24,83 +24,63 @@ images:
     isCached: true
 
 related:
-  - title: "Crafting Ethical AI That Monitors Unethical AI And Tries To Deter Bad AI From Acting Up, Useful Even For Exalted AI-Based Self-Driving Cars"
-    excerpt: "Let's use Ethical AI to oversee unethical AI, though this can be tricky and care is needed, which is illustrated via examples in the advent of AI-based self-driving cars."
-    publishedDateTime: 2022-03-28T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/03/28/crafting-ethical-ai-that-monitors-unethical-ai-and-tries-to-deter-bad-ai-from-acting-up-useful-even-for-exalted-ai-based-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/03/28/crafting-ethical-ai-that-monitors-unethical-ai-and-tries-to-deter-bad-ai-from-acting-up-useful-even-for-exalted-ai-based-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/28/crafting-ethical-ai-that-monitors-unethical-ai-and-tries-to-deter-bad-ai-from-acting-up-useful-even-for-exalted-ai-based-self-driving-cars/amp/"
+  - title: "Accelerating Financial Services With AI"
+    excerpt: "AI is enabling brighter financial futures for consumers and businesses. From traditional banks to new fintechs, the financial services industry is powering use cases with AI such as preventing payments fraud,"
+    publishedDateTime: 2022-03-28T19:37:00Z
+    webUrl: "https://www.globalbankingandfinance.com/accelerating-financial-services-with-ai/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/accelerating-financial-services-with-ai/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/accelerating-financial-services-with-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/623126ba2e129e288514bf95/0x0.jpg?format=jpg&crop=2204,1652,x252,y0,safe&width=1200"
-        width: 1200
-        height: 899
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/Accelerating-FSI_Image_700x500.jpg"
+        width: 700
+        height: 500
         isCached: true
-  - title: "Here’s Why AI Ethics Is Touting That Human-Centered AI Is Crucial To Our AI Symbiotic Existence, Such As The Advent Of Autonomous Self-Driving Cars"
-    excerpt: "The trend toward Human-Centered AI (HCAI) is important and here's why we need to make this happen, including too for the advent of AI systems such as autonomous self-driving cars."
-    publishedDateTime: 2022-04-01T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/01/heres-why-ai-ethics-is-touting-that-human-centered-ai-is-crucial-to-our-ai-symbiotic-existence-such-as-the-advent-of-autonomous-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/01/heres-why-ai-ethics-is-touting-that-human-centered-ai-is-crucial-to-our-ai-symbiotic-existence-such-as-the-advent-of-autonomous-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/01/heres-why-ai-ethics-is-touting-that-human-centered-ai-is-crucial-to-our-ai-symbiotic-existence-such-as-the-advent-of-autonomous-self-driving-cars/amp/"
+  - title: "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices"
+    excerpt: "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment"
+    publishedDateTime: 2022-03-29T15:42:00Z
+    webUrl: "https://www.lelezard.com/en/news-20309928.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62427f3c055f1d39bb6f0b2a/0x0.jpg?format=jpg&crop=3992,2661,x520,y0,safe&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Mercedes to accept legal responsibility for accidents involving self-driving cars"
-    excerpt: "Mercedes has announced that it will take legal responsibility for any crashes that occur while the self-driving system on any of its cars is engaged."
-    publishedDateTime: 2022-03-28T17:55:00Z
-    webUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/"
-    ampWebUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Sunday Times Driving
-      domain: driving.co.uk
+      name: Le Lézard
+      domain: lelezard.com
     quality: 39
     images:
-      - url: "https://www.driving.co.uk/wp-content/uploads/sites/5/2021/09/SAE-levels-of-automation.jpeg?w=1000"
-        width: 1000
-        height: 680
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Qure.ai raises $40M for AI-powered medical imaging diagnostics"
-    excerpt: "Qure.ai announced today that it closed a funding round worth $40 million as it looks to extend the global reach of its diagnostic offerings."
-    publishedDateTime: 2022-03-29T11:40:00Z
-    webUrl: "https://www.massdevice.com/qure-ai-raises-40m-for-ai-powered-medical-imaging-diagnostics/"
+  - title: "Top AI trends for financial services in 2022"
+    excerpt: "Globally in 2020, more than 70 billion real-time payment transactions were processed – an increase of 41% compared to the previous year. by Charles Sutton, Financial Services and FinTech Lead EMEA, NVIDIA This massive rise in transactions has presented an opportunity for criminals to conduct more fraudulent activities like account takeovers,"
+    publishedDateTime: 2022-03-30T11:06:00Z
+    webUrl: "https://ibsintelligence.com/blogs/top-ai-trends-for-financial-services-in-2022/"
     type: article
     provider:
-      name: MassDevice
-      domain: massdevice.com
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/03/Picture1-1.png"
+        width: 624
+        height: 289
+        isCached: true
+  - title: "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices"
+    excerpt: "GGV Capital Leads Seed Round, with Additional Investments from Qualcomm Ventures, Foothill Ventures and moreSAN JOSE, Calif.--(BUSINESS WIRE)--#AI--OmniML, a startup developing smaller and faster machine learning models,"
+    publishedDateTime: 2022-03-29T18:08:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=638792"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
     quality: 37
     images:
-      - url: "https://939506.smushcdn.com/2491169/wp-content/uploads/2019/05/MDO_webAD_5-19_Vs1.jpg?lossy=1&strip=1&webp=1"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Infrared camera being developed in Montreal could let self-driving cars see through snow and fog"
-    excerpt: "Autonomous vehicles that “see” through snow and fog, cameras that can identify expired fruits and vegetables, and better toxic gas detectors are some of the potential applications of a technology being worked on by researchers at Polytechnique Montréal."
-    publishedDateTime: 2022-03-30T01:18:00Z
-    webUrl: "https://montrealgazette.com/technology/infrared-camera-being-developed-in-montreal-could-let-self-driving-cars-see-through-snow-and-fog"
-    ampWebUrl: "https://montrealgazette.com/technology/infrared-camera-being-developed-in-montreal-could-let-self-driving-cars-see-through-snow-and-fog/wcm/e5bc4c88-7dc3-42b0-acf8-65e9e0c8044a/amp/"
-    cdnAmpWebUrl: "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/technology/infrared-camera-being-developed-in-montreal-could-let-self-driving-cars-see-through-snow-and-fog/wcm/e5bc4c88-7dc3-42b0-acf8-65e9e0c8044a/amp/"
-    type: article
-    provider:
-      name: Montreal News
-      domain: montrealgazette.com
-    quality: 31
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/montrealgazette/wp-content/uploads/2022/03/1302193971.jpg"
-        width: 1000
-        height: 750
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "3+zYnBkE73VFYh0Trg7JtjbS+1mureofFP9+DOAFdKXjl3eTVqD9/IMvB9bioY2oosadVEC30OzzkGGh9vLde57/T3KDN3wv+N40+A4efKRNpVf+7EpdvlfTTd/sPyzab1eERHrAUabwNTSKUnpGUKfgZAeBS+Sl7Eaf4Luzo0U3FgFDsXohEJgN/Fmo18zxFjpkqgOTx9KcdPQQBtKcf+H2otbzNPmH0v5BGigFX1CyPlOTMStX5iHJT5C1HMrpLsjcSLFXV5/S5cPr6ef02ZtsnLV2T4sO2XFbnQC5Aqxo/1OuNFbSfmBvuNgb6CyOetKaFJhoFh0hGj0u3YTG0d/2mgGqjS/ct4OK0vNl6YjA61+0w4AoI+cj0OhoiRNufX4hBoXPwyloxnigZL1teveWhJWlaApC7PsO8trX0MD5xIVIUEVqT8WeIw8kYX6U44aXptbab8s8t0ey6wxnsbusL/mdh1pWZVbHAU+dILU2We4naPth4eLf+IYFBp+zOADpoydoCZQDxLXyevI/hQ==;t2qA+YdTSgmLZb6PkJskyw=="

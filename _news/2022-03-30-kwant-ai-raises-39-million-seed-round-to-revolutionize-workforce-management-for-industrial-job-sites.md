@@ -61,20 +61,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 31
-  - title: "Outreach Named a Leader in Revenue Operations and Intelligence By Independent Research Firm"
-    excerpt: "As a result, revenue leaders are dealing with a widening sales execution gap,\" said Manny Medina, co-founder and CEO of Outreach. \"We realized we could play a valuable role by helping revenue organizations close that gap."
-    publishedDateTime: 2022-03-28T15:24:00Z
-    webUrl: "https://www.khon2.com/business/press-releases/cision/20220328SF05526/outreach-named-a-leader-in-revenue-operations-and-intelligence-by-independent-research-firm/"
-    type: article
-    provider:
-      name: KHON2
-      domain: khon2.com
-    quality: 12
-    images:
-      - url: "https://i0.wp.com/www.khon2.com/wp-content/uploads/sites/8/2022/03/Locations-Open-House-3.27.22_Photo.jpg?w=2000&#038;ssl=1"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "eZmbrDR86vZsujluh3NW8U3ImkHAgbJyx/klmubtK4JfRtOd1yT/YyEzPcrTywHMelSfcrcAxxObIQw5RZpklzLwTJhyqA7zsQH8VStg9F/1QzsxIiAsSUPPyTmZ7+gN6bn6rbxOt4jsG8HSwgpkLstwaqf7B6l5Xj6ybrbYbegZERxsgbJaHnUsysc2BRFQm0gEF12G/FGnBc8+P6EsvZ3agWKPC931wUXgltvwasSPtvE3FImc/qlY411YScv9tnZ0Irq16xRZzyDkXzgkqXndG1nBBKICWJUE4MRYypxA/pM3S9fx8vSxnVEH/s/+1SO3+xGXJD2DTRn7Hi6fVic0Ly0iyrzZ3N8G2IZvOq4=;rKDhb7csZrz6XNLc6oSU4A=="
 ---

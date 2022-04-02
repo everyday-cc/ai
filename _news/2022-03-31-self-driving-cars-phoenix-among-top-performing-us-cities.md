@@ -26,6 +26,24 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "Mercedes to accept legal responsibility for accidents involving self-driving cars"
+    excerpt: "Mercedes has announced that it will take legal responsibility for any crashes that occur while the self-driving system on any of its cars is engaged."
+    publishedDateTime: 2022-03-28T17:55:00Z
+    webUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/"
+    ampWebUrl: "https://www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/technology/mercedes-to-accept-legal-responsibility-for-accidents-involving-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Sunday Times Driving
+      domain: driving.co.uk
+    quality: 39
+    images:
+      - url: "https://www.driving.co.uk/wp-content/uploads/sites/5/2021/09/SAE-levels-of-automation.jpeg?w=1000"
+        width: 1000
+        height: 680
+        isCached: true
+
 secured: "8TRlaSBGStF6pZ658VnL66hAWF/SIfnbA0Ld4gupYUznar/t0CRtrarR7896IAneWmvodDMGzlGeIYlASrVC3CKdit6D36d2XtYxfHBVkcR1xE/7bnQ+wEBnsN/gxSWla0KUwxMEMDmVG4mGmOECl2g6Iyh3OzEJXfo3cMcsXxworF6Op/Pg8XzbO2BjC14RM9dSx32p1B42TtT+adwK3ceAYb+5vcTvc3Cvn3mBEtbLMyQiwUKJlQ3NHaA396nUCUo/dA+GkDJYIKBsYZWqLorv6UdsB9t4K90KB6RMuoyUcGNKGfFeY17XQgwr2pY1HcIv/DWqersCNYKhaUtn66oYTiqMpQGyFHttt4wewvk=;K8f6qTI3NgtVWo0KJ8qarw=="
 ---
 
