@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/03/30/mit_ai_chips/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/30/mit_ai_chips/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices"
+    excerpt: "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment"
+    publishedDateTime: 2022-03-29T15:42:00Z
+    webUrl: "https://www.lelezard.com/en/news-20309928.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 39
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "lU4ogF4MFldknN9b9WuGXXb7p1MB5F2HA38DovthvRbe9gbstGzqTftRsqnISalcK0XVglTLzbEMUwJXyTlgR2kAKhETnSPEmY4H863l0mIu18KvwT+u1l5RXZWDkT/kT39ddE6w2k4aRASl9YmqK/7rSpv+HxPv603XGxNgdSTGkRjsKwMRUnFiyc7xHFzQ0snheqGoRggaM2a2Ajx0+Et5K499TOgszA6sRy9iaWg2GXEfhbg3ibkg6vGxNbx5T2Dd+HM1HK7U8x2JCCCs+XWFJ9GZx7PmKHx2NRw3G4yJKJCJURJUQ/HWF8legXisk1dHftc95d/1hjH9Y1h0N0ufqcfGtsP+eU72rs8FxNn2bnVP7SG+qSffl9UccZOgvZR4LBHyriTEDk3a6O94k1RAHUIJH8RcZlrsSNRtd5XTD6nGWV6NS1zz80qS3yeV32h17888QWdrB1pbTEKGxA2RRxp4koQaTmM5ZhC5tSjXVtUBjz4qXRdn9VGJcnSoqLmja7NhlQ8R6X66BSUDQg==;ps5DMyORmMQvfDe8rPw7qw=="
 ---

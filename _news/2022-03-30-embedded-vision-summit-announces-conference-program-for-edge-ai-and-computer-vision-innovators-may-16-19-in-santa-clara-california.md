@@ -6,6 +6,9 @@ publishedDateTime: 2022-03-29T17:49:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/embedded-vision-summit-announces-conference-program-for-edge-ai-and-computer-vision-innovators-may-16/article_0be0cc89-33f5-5ef4-80dc-f11a3978921a.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/embedded-vision-summit-announces-conference-program-for-edge-ai-and-computer-vision-innovators-may-16/article_0be0cc89-33f5-5ef4-80dc-f11a3978921a.html"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: WFMZ-TV

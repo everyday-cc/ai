@@ -20,17 +20,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Ex-Google AI skeptic Timnit Gebru starts anew"
-    excerpt: "When she co-led Google's Ethical AI team, Timnit Gebru ... large language models — a type of language technology. Google search uses it to rank queries or those question-and-answer boxes that you see, machine translation, autocorrect and a whole bunch ..."
-    publishedDateTime: 2022-03-28T21:49:00Z
-    webUrl: "https://japantoday.com/category/tech/insider-q-a-ex-google-ai-skeptic-timnit-gebru-starts-anew"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 19
-
 secured: "GdALsv8mbFph5kFcBkkGBzKk7lPLZuQ/MQ3ppobSEurdMu1H0GYfpSBTMmH7MnwTHVDV3HM7+h/j/mi2METsWEZvFaLPR3Z1MzcYnIvxPT9VMli0pvLzjb7poenyIi1cxDfjMbKGu88y4bX5ZwbTt28NHdYWIC/WuQgdTblo7g0vpdJPL7DhgkNjBGQsi1JDUYKR2yGABNTGxqitSHoYXvfCTouegwJtxtVBpZcHfwI//mfvZT/Hu+m6oAqJp4359To8Im6i+m8hFmjM1HUsuE0fKASbPKEbJ+tiC3grNxG6yx68+mlLZ31nBEJKTM3VkS7w7QgOBRJmJfkYbHhkrzuAEGNiJutD+WapJEUM/vw=;5guxbysAKXCimOPzt9+fOg=="
 ---
 

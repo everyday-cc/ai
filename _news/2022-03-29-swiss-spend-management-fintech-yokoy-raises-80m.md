@@ -55,6 +55,20 @@ related:
         width: 1000
         height: 603
         isCached: true
+  - title: "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow"
+    excerpt: "Former Envestnet/Yodlee executive will lead the recently announced platform that combines risk, planning and financial personality to help wealth"
+    publishedDateTime: 2022-03-29T21:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow-1031316438"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding"
     excerpt: "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding. | Crowdfund Insider: Global Fintech News, including Crowdfunding,"
     publishedDateTime: 2022-03-29T13:21:00Z
@@ -103,19 +117,21 @@ related:
         width: 1600
         height: 1184
         isCached: true
-  - title: "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow"
-    excerpt: "TIFIN, a fintech platform using AI and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran Bill Parsons has joined the firm as Executive Vice President & General Manager of TIFIN Grow."
-    publishedDateTime: 2022-03-29T19:16:00Z
-    webUrl: "https://fox8.com/business/press-releases/cision/20220329LA05757/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow/"
+  - title: "Future of fintech: Tech-driven access key to acquiring, delivering products and services to customers"
+    excerpt: "This is expected to drive new business models to enable new customer acquisition, better customer engagement, provide newer financial products and add monetisation layers. India continues to grow and lead in the fintech sector globally,"
+    publishedDateTime: 2022-04-02T15:51:00Z
+    webUrl: "https://www.freepressjournal.in/business/future-of-fintech-tech-driven-access-key-to-acquiring-delivering-products-and-services-to-customers"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/future-of-fintech-tech-driven-access-key-to-acquiring-delivering-products-and-services-to-customers"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/future-of-fintech-tech-driven-access-key-to-acquiring-delivering-products-and-services-to-customers"
     type: article
     provider:
-      name: FOX8 Cleveland
-      domain: fox8.com
-    quality: 24
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 29
     images:
-      - url: "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://gumlet.assettype.com/freepressjournal/2021-03/7f3c4e87-b81a-4cc4-b09a-ba8fabd7cd0b/pexels_photo_393034.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 500
+        height: 333
         isCached: true
   - title: "Fintech's New Era: Profits, Perils and Limitless Potential"
     excerpt: "In fact, it’s estimated that global banks have the potential to generate up to $1 trillion in additional value annually through AI technologies, according to McKinsey & Company. If keeping ahead of the technological curve is paramount for a company in the fintech industry,"
@@ -168,6 +184,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Venture Capital Giant Backs Swiss Fintech"
+    excerpt: "A Zurich-based fintech has attracted the attention of, and financing from, venture capital firm Sequoia Capital."
+    publishedDateTime: 2022-03-29T09:17:00Z
+    webUrl: "https://www.finews.com/news/english-news/50797-silicon-valley-giant-backs-yokoy"
+    type: article
+    provider:
+      name: finews
+      domain: finews.com
+    quality: 4
   - title: "The Fintech Road to Carbon Neutrality"
     excerpt: "Fintech companies have huge implications in the world on the global economy, and on global warming. Currently, the world is facing one of its greatest challenges yet, to prevent rising global temperatures,"
     publishedDateTime: 2022-04-01T18:45:00Z

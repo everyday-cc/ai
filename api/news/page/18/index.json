@@ -2,6 +2,91 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-03-16-the-ai-beauty-startup-that-champions-transparency-and-inclusion.md",
+      "title": "The AI beauty startup that champions transparency and inclusion",
+      "excerpt": "Skin Match uses AI to create quick and efficient product finders and ingredients explainers. And, the L'Oréal-backed startup is committed to inclusivity and transparency, says CEO Estella Benz.",
+      "sourceUrl": null,
+      "webUrl": "https://www.voguebusiness.com/beauty/the-ai-beauty-startup-that-champions-transparency-and-inclusion",
+      "originalUrl": "https://www.voguebusiness.com/beauty/the-ai-beauty-startup-that-champions-transparency-and-inclusion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.voguebusiness.com/photos/62306b644430ce077a64ceb2/master/w_3000,h_2000,c_limit/skin-match-future-edit-voguebus-skin-match-mar-22-story-inline-1.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.voguebusiness.com/beauty/the-ai-beauty-startup-that-champions-transparency-and-inclusion/amp",
+      "cdnAmpWebUrl": "https://www-voguebusiness-com.cdn.ampproject.org/c/s/www.voguebusiness.com/beauty/the-ai-beauty-startup-that-champions-transparency-and-inclusion/amp",
+      "publishedDateTime": "2022-03-16T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "voguebusiness",
+        "domain": "voguebusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-artificial-intelligence-in-chipset-market-to-hit-usd-3846-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027.md",
+      "title": "Artificial Intelligence in Chipset Market to Hit USD 38.46 Billion | AI Chipset Market Size, Share, Demand, Growth and Forecast 2027",
+      "excerpt": "Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices to support AI technologies. Increasing utilization of AI technologies is projected to boost the demand for these chipsets over the next couple of years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-chipset-market-to-hit-usd-38-46-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-chipset-market-to-hit-usd-38-46-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/311e103167631b53610564f3bef2b5e4678b5881-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-the-metaverse-gets-a-boost-nexstem-announces-the-general-availability-of-its-award-winning-bci-headsets-that-control-devices-through-thought.md",
       "title": "The Metaverse Gets a Boost: NexStem Announces the General Availability of Its Award-winning BCI Headsets That Control Devices Through Thought Alone",
       "excerpt": "NexStem, a MedTech and robotics startup that creates non-invasive robotic solutions controlled exclusively by a user’s thoughts, today announced the finalization of its latest round of funding and the general availability of its NexStem Headsets and Wisdom-SDK (software development kit).",
@@ -1001,92 +1086,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-robotics-trailblazer-dominik-boesl-joins-micropsi-industries-as-managing-director.md",
-      "title": "Robotics Trailblazer Dominik Boesl Joins Micropsi Industries as Managing Director",
-      "excerpt": "Boesl to leverage 22+ years in robotics and artificial intelligence (AI) to lead product development of ready-to-use and proven MIRAI robot control system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/march-2022/robotics-trailblazer-dominik-boesl-joins-micropsi? Control News & Articles",
-      "originalUrl": "https://www.automation.com/en-us/articles/march-2022/robotics-trailblazer-dominik-boesl-joins-micropsi? Control News & Articles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/30b78daa-fac0-4304-a31d-fcabe86e68ec/Micropsi-news-March-15-2022-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-teaching-kubernetes-to-do-fractions-and-multiplication-on-gpus.md",
-      "title": "Teaching Kubernetes To Do Fractions And Multiplication On GPUs",
-      "excerpt": "Kubernetes is still thinking in terms of integers when it comes to GPU allocation, according to Run:AI, but undoubtedly others have seen this problem and may be working on it. (Some of the server virtualization providers who have a vested interest in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2022/03/15/teaching-kubernetes-to-do-fractions-and-multiplication-on-gpus/",
-      "originalUrl": "https://www.nextplatform.com/2022/03/15/teaching-kubernetes-to-do-fractions-and-multiplication-on-gpus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/run-ai-logo.jpg",
-          "width": 827,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2022/03/15/teaching-kubernetes-to-do-fractions-and-multiplication-on-gpus/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/15/teaching-kubernetes-to-do-fractions-and-multiplication-on-gpus/amp/",
-      "publishedDateTime": "2022-03-15T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

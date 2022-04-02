@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices"
+    excerpt: "GGV Capital Leads Seed Round, with Additional Investments from Qualcomm Ventures, Foothill Ventures and moreSAN JOSE, Calif.--(BUSINESS WIRE)--#AI--OmniML, a startup developing smaller and faster machine learning models,"
+    publishedDateTime: 2022-03-29T18:08:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=638792"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 37
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Seeed and alwaysAI Partner to Accelerate Deploying Computer Vision at The Edge"
     excerpt: "Today, Seeed, an AIoT hardware service platform, and alwaysAI, a computer vision software platform leader, announced their partnership to advance the development and deployment of computer vision applications on the edge."
     publishedDateTime: 2022-03-29T12:39:00Z

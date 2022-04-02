@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow"
-excerpt: "TIFIN, a fintech platform using AI and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran Bill Parsons has joined the firm as Executive Vice President & General Manager of TIFIN Grow."
-publishedDateTime: 2022-03-29T19:16:00Z
-originalUrl: "https://fox8.com/business/press-releases/cision/20220329LA05757/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow/"
-webUrl: "https://fox8.com/business/press-releases/cision/20220329LA05757/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow/"
+excerpt: "Former Envestnet/Yodlee executive will lead the recently announced platform that combines risk, planning and financial personality to help wealth"
+publishedDateTime: 2022-03-29T21:16:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow-1031316438"
+webUrl: "https://markets.businessinsider.com/news/stocks/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow-1031316438"
 type: article
-quality: 24
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: FOX8 Cleveland
-  domain: fox8.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
@@ -117,6 +121,22 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Future of fintech: Tech-driven access key to acquiring, delivering products and services to customers"
+    excerpt: "This is expected to drive new business models to enable new customer acquisition, better customer engagement, provide newer financial products and add monetisation layers. India continues to grow and lead in the fintech sector globally,"
+    publishedDateTime: 2022-04-02T15:51:00Z
+    webUrl: "https://www.freepressjournal.in/business/future-of-fintech-tech-driven-access-key-to-acquiring-delivering-products-and-services-to-customers"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/future-of-fintech-tech-driven-access-key-to-acquiring-delivering-products-and-services-to-customers"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/future-of-fintech-tech-driven-access-key-to-acquiring-delivering-products-and-services-to-customers"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 29
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2021-03/7f3c4e87-b81a-4cc4-b09a-ba8fabd7cd0b/pexels_photo_393034.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 500
+        height: 333
+        isCached: true
   - title: "Fintech's New Era: Profits, Perils and Limitless Potential"
     excerpt: "In fact, it’s estimated that global banks have the potential to generate up to $1 trillion in additional value annually through AI technologies, according to McKinsey & Company. If keeping ahead of the technological curve is paramount for a company in the fintech industry,"
     publishedDateTime: 2022-03-30T16:43:00Z
@@ -168,6 +188,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Venture Capital Giant Backs Swiss Fintech"
+    excerpt: "A Zurich-based fintech has attracted the attention of, and financing from, venture capital firm Sequoia Capital."
+    publishedDateTime: 2022-03-29T09:17:00Z
+    webUrl: "https://www.finews.com/news/english-news/50797-silicon-valley-giant-backs-yokoy"
+    type: article
+    provider:
+      name: finews
+      domain: finews.com
+    quality: 4
   - title: "The Fintech Road to Carbon Neutrality"
     excerpt: "Fintech companies have huge implications in the world on the global economy, and on global warming. Currently, the world is facing one of its greatest challenges yet, to prevent rising global temperatures,"
     publishedDateTime: 2022-04-01T18:45:00Z
@@ -206,6 +235,6 @@ related:
         height: 450
         isCached: true
 
-secured: "PouDO++H/CJZA0dp5ij8LvnJMJtbsLaoxBXSSDqsMUe1dzTgn7rsw8j39/Q+M+z+1K+mDputRDIZgLyMoJQOYEJ2X8AdK3/wy7JmGdtvTs1dXEVvzCi6VpwyemfRG7RaDLxdZvTZmldSvAWlcnhiwVokRYSBGAz3hbkmFSqFASDZXo7csFjGTKy+rHrI9J2309ohNzuEOHWUFUfQkLNFMjHxS1y/xnbC8Vq2shDLFGF1ForssxmjKZybQzxf43BDfk4bMMyq5hXPIAtrDchpQwrFsM+pKzKacAGd9E9vk/a7e98LqXmwm6jICyAklyiW25JJhEj/QuosDFVbMsWFzp66sBc3Xm8H3nnPmx2Fk2I=;xgV4x01axy1APTQHNuqesg=="
+secured: "8uZAekc4/K2+XZydx5uzsLM7m6DIBdwSB/tFWCjJVoiq/tWs+r1kcMI3InmR56Cw0uDVrydIb2q5AD7/tXIHAJXYr+G2t35y2XH5pIQ5xG2XjyXkCY1JCDaCrYAb2UfuGbaDwLeYB7yXUsxLBHJg2c6zlfYhevZhzMDrbo2/BnE9o8u9opAfCes0E1Xpqq2/mCAEAlb4wq5gTF+OFaGNJwQPF3ODAeElO+Bx9oVWQABDgKyZrY2PF77MSdLxJcQzbGchoDo+9qc0XNgqxrhv719TmEozBTCO4+LhQ6eQFHnlilza87Mo39flroAlfg7iPbgZhchW8ApuSVEgycullOCkTS59QoA1xJZ9HTKlQr0=;RJ1qcW3ffha7druX/2FbTA=="
 ---
 

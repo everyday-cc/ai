@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/amp/"
 type: article
 quality: 82
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/06ejXjgqVaRZFxsW2g2uIL6/hero-image.fill.size_1200x675.v1648590637.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Nearly 80 Percent of Financial Firms Use AI to Improve Services, Reduce Fraud"
-    excerpt: "NVIDIA’s “State of AI in Financial Services” survey details the growth of AI adoption in capital markets, retail banking and investment firms. From the largest firms trading on Wall Street to banks providing customers with fraud protection to fintechs recommending best-fit products to consumers,"
-    publishedDateTime: 2022-03-28T19:37:00Z
-    webUrl: "https://www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 56
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/State-of-AI-in-FSI_Image_700x500.jpg"
-        width: 700
-        height: 500
         isCached: true
   - title: "Google and Meta are using artificial intelligence to mitigate problems such as suicide, violence and machismo"
     excerpt: "Google presented innovations in artificial intelligence systems that nourish its search engine. These improvements aim to optimize the content that users access when searching for information about suicide,"

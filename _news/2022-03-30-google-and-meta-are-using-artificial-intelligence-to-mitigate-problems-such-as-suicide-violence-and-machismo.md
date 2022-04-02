@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nearly 80 Percent of Financial Firms Use AI to Improve Services, Reduce Fraud"
-    excerpt: "NVIDIA’s “State of AI in Financial Services” survey details the growth of AI adoption in capital markets, retail banking and investment firms. From the largest firms trading on Wall Street to banks providing customers with fraud protection to fintechs recommending best-fit products to consumers,"
-    publishedDateTime: 2022-03-28T19:37:00Z
-    webUrl: "https://www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/nearly-80-percent-of-financial-firms-use-ai-to-improve-services-reduce-fraud/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 56
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/State-of-AI-in-FSI_Image_700x500.jpg"
-        width: 700
-        height: 500
-        isCached: true
   - title: "How AI Technology Helps Restaurants Improve the Customer Experience"
     excerpt: "As The New York Times recently reported, the pressures on staffing is one of the reasons restaurants have been moving away from answering customer telephone calls. Some restaurant owners reported being just too busy preparing"
     publishedDateTime: 2022-03-29T18:11:00Z

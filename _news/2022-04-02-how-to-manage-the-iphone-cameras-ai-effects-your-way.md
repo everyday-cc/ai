@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/diy/iphone-camera-ai/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/diy/iphone-camera-ai/?amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s what Twitter makes of the iPhone X facial recognition feature"
-    excerpt: "Twitter is having lots of fun with Apple’s latest news. The tech giant has unveiled its new iPhone X (pronounced ‘ten’) which will enable the user, among other things, to unlock the phone using their face."
-    publishedDateTime: 2022-03-31T17:11:00Z
-    webUrl: "https://jerseyeveningpost.com/uncategorised/2022/03/31/heres-what-twitter-makes-of-the-iphone-x-facial-recognition-feature/"
+  - title: "Leverage machine learning on your iPhone to translate Braille with this free app"
+    excerpt: "An iOS developer built an app using CoreML and Vision to find Braille. Meet Braille Scanner, a new, free iPhone app."
+    publishedDateTime: 2022-04-02T14:14:00Z
+    webUrl: "https://9to5mac.com/2022/04/02/machine-learning-iphone-app-braille-scanner/"
+    ampWebUrl: "https://9to5mac.com/2022/04/02/machine-learning-iphone-app-braille-scanner/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/04/02/machine-learning-iphone-app-braille-scanner/amp/"
     type: article
     provider:
-      name: Jersey Evening Post
-      domain: jerseyeveningpost.com
-    quality: 39
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 86
     images:
-      - url: "https://jerseyeveningpost.com/wp-content/uploads/2022/03/31181109/Img32961031.jpg"
-        width: 800
-        height: 600
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/04/braille-scanner.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "c38e9Ji5zGDxABI3/oQsg5zRgMhw+uBJC+IeluSs7ijuzopYJcmDKHV+x6TXE0nHq+uqcNTgVul2CG2Qjq0dHoWCTVrkyn2wAaKiIKye/2MU+N6ftnBlLX75M7+jlHTUsKd/YJUPEK0zAHSvuOpaYLqVp5QaruUCQ8nYu9ivl+9D3kMcSOlOF9Jkigc/KhEoKQ8yqpaEsu+6ZdzbrrvgUDhnRyDSgIXbHmxjdDCR6iEqTGkb0kixcjUjI6guktBSf3j8PYgTw9aY/CdAMTo923bjXZ2r+s2exDXQqeSeTNRD35tj0a6q3R77sUzwRMFhykotf0HBCAU5AU8nj9CVZ0CZ0goclq/l8elGeB7IEeS/64PqPSbwcpQ0EUQVARovO9i6qTOmsUuFEOtaSoFfAs6wluIc315kLmO/sFhErWXUzrLZdidstPkgC9FkQKTQbIhzH5Y/Zx4UKzOL671q0pV7LIE5LHnzX0/q07LN7HW74h/fBCvTNGRASfu2V7I/zqz5+4EHp5gwlog5cSu7xA==;yqdMNay/Zxh5SqtnovHNDQ=="

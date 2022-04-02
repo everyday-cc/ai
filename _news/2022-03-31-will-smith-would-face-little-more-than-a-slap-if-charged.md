@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Could Will Smith face charges for slapping Chris Rock?"
-    excerpt: "Actor Will Smith walked onto the stag Sunday evening and slapped comedian Chris Rock during the live broadcast. Rock had just made a joke about Smith’s wife’s lack of hair, which Jada Pinkett Smith says is the result of a medical condition called alopecia."
-    publishedDateTime: 2022-03-28T19:28:00Z
-    webUrl: "https://www.news4jax.com/news/2022/03/28/could-will-smith-face-charges-for-slapping-chris-rock/"
-    ampWebUrl: "https://www.news4jax.com/news/2022/03/28/could-will-smith-face-charges-for-slapping-chris-rock/?outputType=amp"
-    cdnAmpWebUrl: "https://www-news4jax-com.cdn.ampproject.org/c/s/www.news4jax.com/news/2022/03/28/could-will-smith-face-charges-for-slapping-chris-rock/?outputType=amp"
-    type: article
-    provider:
-      name: News4Jax
-      domain: news4jax.com
-    quality: 44
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/FBDVONGKSNFSXN7YCAMWFVRJWM.jpg?_a=ATABld60"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Will Smith would face little more than a slap if charged"
     excerpt: "But what does that recognition say to us about the legitimacy and credibility ... Defense attorney Adam Braun said it’s unrealistic Smith would face charges in the absence of serious injuries and without support from Rock. “Although a prosecution ..."
     publishedDateTime: 2022-03-30T14:48:00Z
@@ -73,19 +57,65 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Will Smith slaps Chris Rock, wins an Oscar (full speech)"
-    excerpt: "It will forever be remembered as the night Will Smith slapped Chris Rock on stage in front of a live TV audience. Not as the crowning achievement of his 30-year acting career, like it should have been"
-    publishedDateTime: 2022-03-29T00:30:00Z
-    webUrl: "https://thethaiger.com/news/world/will-smith-slaps-chris-rock-at-academy-awards-but-why-full-acceptance-speech"
+  - title: "Will Smith would face little more than a slap on the wrist if charged, convicted"
+    excerpt: "Were he to be charged with a misdemeanor, Will Smith could walk away having to attend anger management classes."
+    publishedDateTime: 2022-03-30T09:42:00Z
+    webUrl: "https://www.whas11.com/article/entertainment/events/oscars/will-smith-chris-rock-oscars-legal-repercussions/507-796c8c22-6e4b-43b1-b177-e059270537b3"
+    ampWebUrl: "https://www.whas11.com/amp/article/entertainment/events/oscars/will-smith-chris-rock-oscars-legal-repercussions/507-796c8c22-6e4b-43b1-b177-e059270537b3"
+    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/entertainment/events/oscars/will-smith-chris-rock-oscars-legal-repercussions/507-796c8c22-6e4b-43b1-b177-e059270537b3"
     type: article
     provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 24
+      name: WHAS11 News
+      domain: whas11.com
+    quality: 39
     images:
-      - url: "https://thethaiger.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-28-at-5.28.53-PM.jpg"
-        width: 1470
-        height: 1000
+      - url: "https://media.whas11.com/assets/CCT/images/af53a0cc-ce38-4575-af37-f8db3d36ca6e/af53a0cc-ce38-4575-af37-f8db3d36ca6e_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Will Smith Would Face Little More Than a Slap on the Wrist If Charged, Legal Experts Say"
+    excerpt: "But what does that recognition say to us about the legitimacy and credibility ... Defense attorney Adam Braun said it's unrealistic Smith would face charges in the absence of serious injuries and without support from Rock. “Although a prosecution is ..."
+    publishedDateTime: 2022-03-30T15:49:00Z
+    webUrl: "https://www.nbcmiami.com/entertainment/entertainment-news/will-smith-would-face-little-more-than-a-slap-on-the-wrist-if-charged-legal-experts-say/2725164/"
+    ampWebUrl: "https://www.nbcmiami.com/entertainment/entertainment-news/will-smith-would-face-little-more-than-a-slap-on-the-wrist-if-charged-legal-experts-say/2725164/?amp"
+    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/entertainment/entertainment-news/will-smith-would-face-little-more-than-a-slap-on-the-wrist-if-charged-legal-experts-say/2725164/?amp"
+    type: article
+    provider:
+      name: NBC 6 South Florida
+      domain: nbcmiami.com
+    quality: 35
+    images:
+      - url: "https://media.nbcmiami.com/2022/03/GettyImages-1239555048.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Will Smith would face little more than a slap if charged in Oscars incident"
+    excerpt: "Will Smith’s slap seen ‘round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim."
+    publishedDateTime: 2022-03-30T14:24:00Z
+    webUrl: "https://www.chicagotribune.com/entertainment/ct-ent-will-smith-charges-20220330-jcsb4nlxyffj7ht5yqikeccpsa-story.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 22
+    images:
+      - url: "https://www.chicagotribune.com/resizer/DA0lqoElD7tOG1r6GdyAiHJ_fdE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/S4PNXHL24WRC6LAUKS5JT47KDY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Will Smith would face little more than a slap if charged in Oscars incident"
+    excerpt: "Will Smith’s slap seen ‘round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim."
+    publishedDateTime: 2022-03-30T17:24:00Z
+    webUrl: "https://www.baltimoresun.com/entertainment/ct-ent-will-smith-charges-20220330-jcsb4nlxyffj7ht5yqikeccpsa-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 22
+    images:
+      - url: "https://www.baltimoresun.com/resizer/9ajx7fFPv06NFgGW6Hx_QpK1fsg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/S4PNXHL24WRC6LAUKS5JT47KDY.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "BJB9r3YrQusAn6qyy+Ixzvm5NlCehaGwHh3eGFLg8XkzdYoil43Pnox1anI8WcNNKxMOJopjUfZsXDDn2wkVCI6A0lriWcDmPXe9nyP1Vfnh20K7/M+t+5Yav+2M/v6i9sOMZ2xNphf/0kgZHArDZKYEaT/PjZEg2H2LqJFltidprqiY6j2AuAHfNJ0t3bs/C4bWjqIbqxgm9xpwkeBMa3Tdv2K8Qn21S1Eb8PV+6fp9wOZVA88IPoGZgOb7MJi+fbMCewwl8xC+4wlruS6PKrrLnz47fUw9cbIub0LtldGpheL+Xs42otAuS/gou70RqS1x78N803I15scMNBQ6H7H8i1PE6U9Uw8qEEGu/qg4=;6wRN6xJ3dZlj9Aoqx0sZ5g=="

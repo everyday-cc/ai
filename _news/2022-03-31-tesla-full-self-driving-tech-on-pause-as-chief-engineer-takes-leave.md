@@ -41,20 +41,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Tesla is working to release huge full self-driving beta update"
-    excerpt: "Tesla is currently working on releasing a beta version of its \"Full Self-Driving\" (FSD) software. What features does this beta version include?"
-    publishedDateTime: 2022-03-28T19:21:00Z
-    webUrl: "https://techaeris.com/2022/03/28/tesla-is-working-to-release-huge-full-self-driving-beta-update/"
-    type: article
-    provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 39
-    images:
-      - url: "https://techaeris.com/wp-content/uploads/2021/12/Tesla-Model-3.jpg"
-        width: 1170
-        height: 724
-        isCached: true
   - title: "Here’s why Elon Musk says Tesla’s self-driving feature doesn’t work downtown Toronto"
     excerpt: "Canadian Tesla drivers are getting to test out the Full Self-Driving (FSD) Beta across the country, for now, downtown Toronto is off limit."
     publishedDateTime: 2022-03-29T20:08:00Z

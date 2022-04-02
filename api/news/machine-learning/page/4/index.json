@@ -2,6 +2,52 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-05-artificial-intelligence-in-healthcare-service-market-next-big-thing-major-giants-ibm-microsoft-atomwise.md",
+      "title": "Artificial Intelligence in Healthcare Service Market Next Big Thing : Major Giants IBM, Microsoft, Atomwise",
+      "excerpt": "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 03/04/2022 -- The Latest research study released by HTF MI",
+      "sourceUrl": null,
+      "webUrl": "https://www.cedars-sinai.org/newsroom/cedars-sinai-establishes-new-division-artificial--intelligence-in-medicine/",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-service-market-next-big-thing-major-giants-ibm-microsoft-atomwise",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.presspage.com/uploads/2110/1920_ai-cedarsp-sinai.jpeg?10000",
+          "width": 1799,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-04T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-03-04-how-kubernetes-extends-to-machine-learning-ml.md",
       "title": "How Kubernetes extends to machine learning (ML)",
       "excerpt": "“Kubernetes supports GPUs today, which accelerates the AI workflow and automates the management of GPU-accelerated application containers. These tools enable ML teams to leverage the speed of GPUs within a containerised workflow. “Kubernetes also helps ...",
@@ -1363,58 +1409,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-reducing-cloud-waste-by-optimizing-kubernetes-with-machine-learning.md",
-      "title": "Reducing cloud waste by optimizing Kubernetes with machine learning",
-      "excerpt": "Applications are proliferating, cloud complexity is exploding, and Kubernetes is prevailing as the foundation for application deployment in the cloud. That sounds like an optimization task ripe for machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/reducing-cloud-waste-by-optimizing-kubernetes-with-machine-learning/",
-      "originalUrl": "https://www.zdnet.com/article/reducing-cloud-waste-by-optimizing-kubernetes-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/1f0604a1d9d2b6a77b5795fba70aebe4371a290b/2022/02/23/d2f728c8-9ea7-4ef2-9d7e-c956359e61bd/stormforge.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 821,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/reducing-cloud-waste-by-optimizing-kubernetes-with-machine-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/reducing-cloud-waste-by-optimizing-kubernetes-with-machine-learning/",
-      "publishedDateTime": "2022-02-23T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

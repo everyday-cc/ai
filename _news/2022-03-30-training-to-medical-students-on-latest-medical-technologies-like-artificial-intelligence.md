@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "Emerging AI Technologies in Higher Education"
-    excerpt: "Technologies that utilize artificial intelligence and the cloud can help university networks adapt to the changing networking landscape."
-    publishedDateTime: 2022-04-01T20:29:00Z
-    webUrl: "https://edtechmagazine.com/higher/higher/article/2022/04/emerging-ai-technologies-higher-education"
-    ampWebUrl: "https://edtechmagazine.com/higher/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
-    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
+    excerpt: "Artificial intelligence in higher education institutions has significantly improved teaching and learning. But AI technologies extend beyond the curriculum. With the help of the cloud, they’re being leveraged to streamline network infrastructures as more ..."
+    publishedDateTime: 2022-04-01T22:49:00Z
+    webUrl: "https://edtechmagazine.com/higher/k12/higher/k12/article/2022/04/emerging-ai-technologies-higher-education"
+    ampWebUrl: "https://edtechmagazine.com/higher/k12/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp"
+    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp"
     type: article
     provider:
       name: EdTech
       domain: edtechmagazine.com
     quality: 74
     images:
-      - url: "https://edtechmagazine.com/higher/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r"
+      - url: "https://edtechmagazine.com/higher/k12/higher/k12/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r"
         width: 1440
         height: 500
         isCached: true

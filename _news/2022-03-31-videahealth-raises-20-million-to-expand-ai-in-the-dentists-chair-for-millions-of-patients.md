@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-boston-b39ed1799069474bb6896ecbc22132c3"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Here's the 23-page pitch deck that convinced billionaire Jamie Dinan to bet millions on biometric security company authID.ai"
-    excerpt: "After a big investor pulled out a financing deal, authID.ai raised $22.5 million from existing investors including York Capital founder Jamie Dinan."
-    publishedDateTime: 2022-03-28T19:21:00Z
-    webUrl: "https://www.businessinsider.com/authidai-pitch-deck-jamie-dinan-biometrics-auid-2022-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: "https://i.insider.com/60afb0eebee0fc0019d59e74?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "O4qCzoq9LSfm5pHuAjbiExnMuVmbP3G2OneKSPgjbUH6h3Vf/23xlVec2WjdjXfPRjPgUqYOn9RMZzjDGbJLGYAN+d9HkgVsFFmp84n9e9f8Cbz12Vs7BQ7fpZTZtYBzpALxBQkTimIgTIoMZf6o6EBLHd16gckHY5+XYkUEfYIzpDButr0bydKQblDPqACQIySsl/feViaDztleimds9gvb5fnGdZu2o3HjgI9tbqQzDDze9q66eCeSbVNtzPu/84FXJpCN6XpzHxk9PN6/IzU730cT5ecRzwBPP0IWXBOZ7xNBofNA+2sRhtiFYMu/nwUlv5NW3POvg4pBiCkgpquHNbS4Nxg6qSUICOow+9o=;qiroVJdKvzSlBjNlf1b5Tw=="
 ---

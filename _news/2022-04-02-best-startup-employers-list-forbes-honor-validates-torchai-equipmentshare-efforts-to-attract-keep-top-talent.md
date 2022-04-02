@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-02T13:26:00Z
 originalUrl: "https://www.startlandnews.com/2022/04/forbes-torch-ai-equipmentshare/"
 webUrl: "https://www.startlandnews.com/2022/04/forbes-torch-ai-equipmentshare/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: startlandnews

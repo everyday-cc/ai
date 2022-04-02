@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-19-poor-ai-has-to-suffer-listening-to-people-describing-their-drug-experiences.md",
+      "title": "Poor AI Has To Suffer Listening to People Describing Their Drug Experiences",
+      "excerpt": "Two researchers and psychiatrists published research about taken from an AI's interpretation of almost 7,000 psychedelic trip reports written by users.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/neoscope/ai-trip-reports-drugs",
+      "originalUrl": "https://futurism.com/neoscope/ai-trip-reports-drugs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2022/03/ai-trip-reports-psychedelics-600x315.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/ai-trip-reports-drugs/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-trip-reports-drugs/amp",
+      "publishedDateTime": "2022-03-19T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-19-neuro-symbolic-ai-could-provide-machines-with-common-sense.md",
       "title": "Neuro-symbolic AI could provide machines with common sense",
       "excerpt": "Machines could plan their actions based on mental representations of the world they develop through intuitive physics and neuro-symbolic AI.",
@@ -1305,59 +1348,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-the-hidden-role-of-facial-recognition-tech-in-many-arrests.md",
-      "title": "The Hidden Role of Facial Recognition Tech in Many Arrests",
-      "excerpt": "The technology is spreading fast among police, and often wrong. But people charged with crimes are rarely told they were fingered by an algorithm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/hidden-role-facial-recognition-tech-arrests/",
-      "originalUrl": "https://www.wired.com/story/hidden-role-facial-recognition-tech-arrests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61789281300796688742b837/191:100/w_1280,c_limit/Business-Police-Face-Recognition-1128869156.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-07T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -33,6 +33,20 @@ related:
         width: 498
         height: 280
         isCached: true
+  - title: "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices"
+    excerpt: "GGV Capital Leads Seed Round, with Additional Investments from Qualcomm Ventures, Foothill Ventures and moreSAN JOSE, Calif.--(BUSINESS WIRE)--#AI--OmniML, a startup developing smaller and faster machine learning models,"
+    publishedDateTime: 2022-03-29T18:08:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=638792"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 37
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "tM78wcwW7jWfhA5aCmNE9nQSHsHR4SyvCM3laH07PQDN4ZAREkPd6bWsk02sn0oLWBFtbidkcljxl+/sszHSDZr+Gig+iQX6WAbDwahff+9FuG4KFEF5g1+EU/cLmPnu4zv2kgU60N091C4heqJfVmquNC3/2doc7NvVr7twxHrpF/HVyne8YOXfC7Op89Y3Y2SE1Cc/9GPooXxfGUABLVBPzaAG3Tyed16w/skeC2MqaSdhWsT9izUS6n/PeAxuO+K+NDfGX/Iq4oBiAzgeieUS9ne9wXGfvs0VXAgYMQwiPBUTcBpRiuONaElzKUvQjyvz8Er3mWOvaWcmE0O/Tx+mUsVv4ag1aQoj770V7dE=;Vw8W5n8SyYz4OO0E17KI9A=="
 ---

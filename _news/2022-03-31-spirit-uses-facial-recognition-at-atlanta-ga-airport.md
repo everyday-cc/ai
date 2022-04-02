@@ -43,20 +43,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Global Voice Recognition for Automotive Market 2022 Industry Overview, Competition by Manufacturers, Production Capacity by Region, Forecast by 2028"
-    excerpt: "MarketsandResearch.biz has rolled out a report titled Global Voice Recognition for Automotive Market 2022 by Company, Regions, Type and Application, Forecast to 2028 which reviews the many aspects of the industry like market size,"
-    publishedDateTime: 2022-03-28T21:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-for-automotive-market-2022-industry-overview-competition-by-manufacturers-production-capacity-by-region-forecast-by-2028-2022-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "KRqDJ7RiPMrujTqB1gNiE5Rdx4Xv0cQP2steVx3OwZT/gbaWs09E6kWxvM6aO/+FYLJ3Jg/62Io/Ao+UBjMWAu7WKxD9PxR7mHAvBAgLjYHgtnK5FakxKbwxMRFa174sq8QAFX2vgWXvCjfr8u69Ole4RtSEmUgj2fl7WQgQq1TurSXpncU1vkYsJyvhw3XRb+/YaN7tBKxexU+Q++3527DGiDx6Gv6vMKCvr+saiDjHplN0qGa/+f+7mHIQqB2bd7bvtaya88Fa4mPdkV090NvcyK+OFmwPV1ouzzBWAWhykUlJdv1BvekokeAkmZLKhwDAJgtbH3WukhU5MM7rtTzdPKO0xuaJAfTHp6q3UAg=;GeydGVF45Ukd990HecY1ew=="
 ---

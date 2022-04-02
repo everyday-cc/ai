@@ -24,64 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Accelerating Financial Services With AI"
-    excerpt: "AI is enabling brighter financial futures for consumers and businesses. From traditional banks to new fintechs, the financial services industry is powering use cases with AI such as preventing payments fraud,"
-    publishedDateTime: 2022-03-28T19:37:00Z
-    webUrl: "https://www.globalbankingandfinance.com/accelerating-financial-services-with-ai/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/accelerating-financial-services-with-ai/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/accelerating-financial-services-with-ai/"
+  - title: "Katana Edge AI Kit to accelerate AI vision and sensor fusion development"
+    excerpt: "Synaptics has announced an Edge AI evaluation kit (EVK) for the rapid development and prototyping of artificial intelligence (AI) applications at the edge. Based on the company’s low-power Katana system-on-chip (SoC) platform,"
+    publishedDateTime: 2022-03-29T08:19:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/katana-edge-ai-kit-to-accelerate-ai-vision-and-sensor-fusion-development"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 59
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 38
     images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/Accelerating-FSI_Image_700x500.jpg"
-        width: 700
-        height: 500
+      - url: "https://www.newelectronics.co.uk/media/vhznrcx1/synaptics.png"
+        width: 498
+        height: 280
         isCached: true
-  - title: "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices"
-    excerpt: "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment"
-    publishedDateTime: 2022-03-29T15:42:00Z
-    webUrl: "https://www.lelezard.com/en/news-20309928.html"
+  - title: "Seeed and alwaysAI Partner to Accelerate Deploying Computer Vision at The Edge"
+    excerpt: "Today, Seeed, an AIoT hardware service platform, and alwaysAI, a computer vision software platform leader, announced their partnership to advance the development and deployment of computer vision applications on the edge."
+    publishedDateTime: 2022-03-29T12:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-seeed-alwaysai-partner-accelerate-deploying-computer-vision-the-/2022/03/29/9572354.htm"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Top AI trends for financial services in 2022"
-    excerpt: "Globally in 2020, more than 70 billion real-time payment transactions were processed – an increase of 41% compared to the previous year. by Charles Sutton, Financial Services and FinTech Lead EMEA, NVIDIA This massive rise in transactions has presented an opportunity for criminals to conduct more fraudulent activities like account takeovers,"
-    publishedDateTime: 2022-03-30T11:06:00Z
-    webUrl: "https://ibsintelligence.com/blogs/top-ai-trends-for-financial-services-in-2022/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/03/Picture1-1.png"
-        width: 624
-        height: 289
-        isCached: true
-  - title: "Scaling up plant-based products with artificial intelligence"
-    excerpt: "The Kraft Heinz Company and food tech start-up TheNotCompany, Inc. announced a joint venture designed to reimagine global food production and advance toward a more sustainable future."
-    publishedDateTime: 2022-03-30T19:07:00Z
-    webUrl: "https://www.foodengineeringmag.com/articles/100171-scaling-up-plant-based-proteins-with-artificial-intelligence"
-    type: article
-    provider:
-      name: Food Engineering
-      domain: foodengineeringmag.com
-    quality: 37
-    images:
-      - url: "https://www.foodengineeringmag.com/ext/resources/eNews/2022/FE_Online-03-22-Heinz-theNOTCompany.jpg?height=635&t=1648667790&width=1200"
-        width: 900
-        height: 550
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
 
 secured: "AR1+yrwpEB+0VOe5NQl7+voNDdYYSzy5mnhskDtlBdQzikcexTCJQ5huNU6jIh3QyV9Tb7hulfus3KHqTvgPEwpqg59Sp1RGOQ5HcBLQB49p6ALXEKLRDPHf+dATEgXHkjummXJtCNgfngnXma1w0rXBxDiDjiGbP6bTGxL4pU7BcT47iuKWp+oGZs20F9ZQc6ThUwBF/8c16xdDgvVM/RUYerA+GJfzMsj50QHaGVVTMULaCLQ4L4DbZvmyFiBRlEftlFIeS4if7PThCQo40HF0/DzrkcbXlDVdjPXn9AhAQXb6kWL3MTJf/YoXXSnzdZDkSdDxgkISNpoILYuw5XFMrGBV2BzbUXECGuo50Q4=;+qc9q3LKR8NaAsJVwlAqNw=="
 ---
