@@ -9,7 +9,7 @@ ampWebUrl: "https://edtechmagazine.com/higher/higher/article/2022/04/emerging-ai
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
 type: article
 quality: 74
-heat: 104
+heat: 105
 published: true
 
 provider:

@@ -1,51 +1,47 @@
 ---
 category: news
-title: "How to find the business value in AI and ML"
-excerpt: "Despite the fact that businesses are increasingly undertaking initiatives to leverage ML and AI, many tools and projects lack appropriate resources, are far less productive than they should be, lag in deployment,"
-publishedDateTime: 2022-03-30T13:11:00Z
-originalUrl: "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/"
-webUrl: "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/"
-ampWebUrl: "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/amp/"
+title: "The Age of Artificial Intelligence and Cloud Computing"
+excerpt: "The use of AI in legacy modernization will reduce time-to-market, boost reliability, and motivate organizations to modernize applications at a faster pace."
+publishedDateTime: 2022-04-02T11:08:00Z
+originalUrl: "https://www.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
+webUrl: "https://www.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
+ampWebUrl: "https://amp.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
+cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
 type: article
-quality: 104
-heat: 184
-published: true
+quality: 59
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Ellen
+  domain: ibtimes.sg
 
 topics:
+  - AI in Healthcare
   - AI
-  - Machine Learning
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1336522614.jpg?w=1200&strip=all"
-    width: 1200
-    height: 620
+  - url: "https://data.ibtimes.sg/en/full/56509/vaidyanathan-ganesa-sankaran.jpg"
+    width: 960
+    height: 675
     isCached: true
 
 related:
-  - title: "The Age of Artificial Intelligence and Cloud Computing"
-    excerpt: "The use of AI in legacy modernization will reduce time-to-market, boost reliability, and motivate organizations to modernize applications at a faster pace."
-    publishedDateTime: 2022-04-02T11:08:00Z
-    webUrl: "https://www.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
-    ampWebUrl: "https://amp.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
+  - title: "How to find the business value in AI and ML"
+    excerpt: "Despite the fact that businesses are increasingly undertaking initiatives to leverage ML and AI, many tools and projects lack appropriate resources, are far less productive than they should be, lag in deployment,"
+    publishedDateTime: 2022-03-30T13:11:00Z
+    webUrl: "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/"
+    ampWebUrl: "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/amp/"
     type: article
     provider:
-      name: Ellen
-      domain: ibtimes.sg
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://data.ibtimes.sg/en/full/56509/vaidyanathan-ganesa-sankaran.jpg"
-        width: 960
-        height: 675
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1336522614.jpg?w=1200&strip=all"
+        width: 1200
+        height: 620
         isCached: true
   - title: "AI And The Secret To Employee Happiness"
     excerpt: "People want a better work experience—and they’ll take their talents elsewhere if they don’t get it. AI can help you deliver."
@@ -133,6 +129,6 @@ related:
         height: 756
         isCached: true
 
-secured: "a7Q5nueI8FRswapABe7jDenHyz6MAU9hiap00bpDbjtQ7xxYNnxcXx/Q33bVU9xrbciEvbhQxdWPVvAcfw/45Ha3SvGJf6y/Oyz6s9H87rBY9YPU8ZM0uGigVnMi7NXkedLCqnaMUvGsR/+ViZf9aKQ/B2gBynwiIKI8IgVvUWqq84hqvBXCZ817gQmhwpK6s83FSkDfVvSIh2611YbRK5AnPdZTDKs5kKU1pgDOKmnRIvDNZ1LmoCydSM46rrYm4FJFwImNbKENbFM7zQJ1Afg45IAbi/Euh/tbDJgHXJIxdodaflQuRMswW1L0KRTtsSpTuzNS0rLSAYZz01oCHej5NWCyQOwA8XJPix4XGB3Ytcyplnw9rqp5IndZA9FE/Cf2l8oUiB+xBYGdpfaAn2yrpw4dl+lixyHIznjfIb9fqAK1omifmvaR4Yc8c+YIbUrAQ6EctXKEP5A6nDQpi+CaJtdzxk/F4TDLrw1PlnR+AAf315I5oZl8jWIbpF5ts5or4KgvyeOUEf6Z+YPN9w==;HzU9e1GoKa2pEhk6JotjFA=="
+secured: "c3TBScyMzdhi7ciFdphF5ZCW68CLlNzwlBo4eeQO7i4/dFsAuAIh+ecPhoIvS2HzKN9tBjEOy+aihuHgxTvZyvRqux6pmWxMS/xZMrFnptWWDXF6YLd/LUJDjtspVJslini6SHH3Efm98dQp2n76TLKUiIHWejM6SJenNQglN1JRljJqho0osGjH1yOFg4bK6gdtRAAL+ePzeoMFmd3/kZ3nulYKvQFxEA7sXOOWgp3q4VJS0q0BMIuYgyfftusDQ4Ug/isugpc4W9oNw6vzieXH0jPuoyZuCyoyNGccKCvujI1qFQBVZ934UqWglcsyhSFzFlYbz7FGsl9Cxbj1BGacPNls4PZE5Ig+rLh6t/I=;K0eWNJSBeRBZHbVQgeO/HA=="
 ---
 

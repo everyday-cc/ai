@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence beats eight world champions at bridge"
 excerpt: "Victory marks milestone for AI as bridge requires more human skills than other strategy games"
 publishedDateTime: 2022-03-29T04:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
-webUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
+originalUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge?fr=operanews"
+webUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge?fr=operanews"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
 type: article
@@ -48,6 +48,6 @@ related:
         height: 506
         isCached: true
 
-secured: "cydVmucQMYjyubitUw7Auy7vJVLUoxHMaylUtRiL0N/GXwGSjSf8Wbb4lzczRgIiZrKhPnZvlQ6LYjfv/gBbwTo3BsArrMeZ5LTlAcxYSur7NOxYd7zODIsOSOoo0Emu2a1UwVdYh0WhPFAouPMX+X2lO+7r95Hk5Jf55uMFzYnORfVzAH1AG1IsjoLLYrR685TJMgsxn+lTbaD9EoRPwrCzVDHw2yjdipAzejfGaaq1sjaHOPxg8q39XzUkgvE/rk+8mTaCd3hZjNsw+Z8h01OZ1rjObQUHaw4zLYOWa9cSfSMHom8dfSYPbrtZ9eWRhfYOgldWgNfGdmeyfGdwxyrUlHucoFoDd5G51vLFpgMIrxDXRFKzcJQy0GRutC80okwNtOsKPZrzbea7mPcmPIiFyAvOkcUlc3DDk7xZkG4gpBOlZVo8U6flK2OwPWZ33IoyuPa4t8a9DNRbA3Sgtc+eEbV+g0zujpn2YB5qGd/Fw6/Sjw2zMx5Jw9Wr8wKgv1X7XqmA2BgE9Fv47pG02g==;Fy9QkK0JD4LoQCYQmKXeBQ=="
+secured: "XSFvBWEz61Bd08rDx1RU5FnZRqw2Vt9u4Wri+CPJdAPOO4BSpJFt1QgoMw44UUGtDsxH0RG3SLmvAqWCMWLrIsbgJ8IkmYMyfwLPjXpa/Hfup6N8dgjwMLVETlSs36f7CQEKkvXa6sWMr7wBsoCFWebjsuE55AdtCmZg9PbIwKTfpOYNW6vHUz5v+izbnam4Sw1WyqO3AuyxpaCoTmkjJe7SDHBeTsrmEZidyOMV9sj+nhPgSq7GdEkO3tWvU3Rcyjvk87XWFFdnybhkC5rSctshHGbxObOtYsLNEijaf/D59o/KymA3cKiShUpgkpLAgr5qXGYu0Q2f321+w1e9Od7o6YjbprYz1HW23RWCSbo=;ezamdsnIR6cucD5C6McW2w=="
 ---
 

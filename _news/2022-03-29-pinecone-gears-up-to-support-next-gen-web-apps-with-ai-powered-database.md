@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 110
 published: true
 
 provider:

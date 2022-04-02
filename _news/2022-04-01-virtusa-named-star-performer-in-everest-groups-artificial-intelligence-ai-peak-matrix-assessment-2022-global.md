@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-01T13:02:00Z
 originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-artificial-intelligence-virtusa-corp-cce104ae958a64766a62a73928106eb0"
 webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-artificial-intelligence-virtusa-corp-cce104ae958a64766a62a73928106eb0"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

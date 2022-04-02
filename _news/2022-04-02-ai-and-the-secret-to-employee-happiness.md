@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 620
         isCached: true
+  - title: "The Age of Artificial Intelligence and Cloud Computing"
+    excerpt: "The use of AI in legacy modernization will reduce time-to-market, boost reliability, and motivate organizations to modernize applications at a faster pace."
+    publishedDateTime: 2022-04-02T11:08:00Z
+    webUrl: "https://www.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
+    ampWebUrl: "https://amp.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
+    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
+    type: article
+    provider:
+      name: Ellen
+      domain: ibtimes.sg
+    quality: 59
+    images:
+      - url: "https://data.ibtimes.sg/en/full/56509/vaidyanathan-ganesa-sankaran.jpg"
+        width: 960
+        height: 675
+        isCached: true
   - title: "Using artificial intelligence in agriculture"
     excerpt: "The adoption of pesticides, fertilisers and high-yield crop breeds, among other measures, transformed agriculture and ensured a secure food supply for many millions of people over several decades. Concurrently,"
     publishedDateTime: 2022-03-29T18:00:00Z

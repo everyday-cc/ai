@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Household Robots Market | Latest Innovation, Advance Technology, Top Companies Forecast 2022-2031"
-    excerpt: "Comserve / -- Household Robots Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies, Tendencies and Forecast The household robots market is expected to register a CAGR of 20."
-    publishedDateTime: 2022-03-28T17:08:00Z
-    webUrl: "https://menafn.com/1103926206/Household-Robots-Market-Latest-Innovation-Advance-Technology-Top-Companies-Forecast-2022-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 26
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?369614"
-        width: 429
-        height: 249
-        isCached: true
   - title: "Global Entertainment Robot Market to 2026 - Growing Technological Advancements and Increasing Investments in R&D are Driving the Industry - ResearchAn"
     excerpt: "The \"Entertainment Robot Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The entertainment robot market is projected to grow at a CAGR of 21.78% to reach US$9."
     publishedDateTime: 2022-03-30T02:08:00Z

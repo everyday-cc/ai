@@ -1,44 +1,30 @@
 ---
 category: news
 title: "Face scanner Clearview AI aims to branch out beyond police"
-excerpt: "A controversial face recognition company that's built a massive photographic dossier of the world's people for use by police, national governments and — most recently — the Ukrainian military is now planning to offer its technology to banks and other private businesses."
-publishedDateTime: 2022-04-01T22:16:00Z
-originalUrl: "https://apnews.com/article/russia-ukraine-technology-business-europe-national-governments-4a4db5b7340792f8a8b08c41c4653f5a"
-webUrl: "https://apnews.com/article/russia-ukraine-technology-business-europe-national-governments-4a4db5b7340792f8a8b08c41c4653f5a"
+excerpt: "A controversial facial recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and the Ukrainian military now plans to offer its t"
+publishedDateTime: 2022-04-01T20:29:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
+webUrl: "https://abcnews.go.com/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
 type: article
-quality: 37
-heat: -1
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/5b9defe112f648c79fe90ad49bf2b37b/3000.jpeg"
-    width: 3000
-    height: 2000
+  - url: "https://s.abcnews.com/images/Technology/WireAP_5b9defe112f648c79fe90ad49bf2b37b_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
-related:
-  - title: "Clearview facial recognition app up to 20B images"
-    excerpt: "Clearview AI updates its facial recognition system with a significant addition to its face database and compliance and management tools for law enforcement."
-    publishedDateTime: 2022-03-28T17:09:00Z
-    webUrl: "https://www.biometricupdate.com/202203/clearview-facial-recognition-app-up-to-20b-images"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/22132423/police-mobile-phone.jpg"
-        width: 922
-        height: 508
-        isCached: true
-
-secured: "ogMVlEJQ8JRSLqqsHfZoc6/m2QZIObeLzkldVfqjMpl/OAbtlq87fWjOX7uJZK0O6ktN2qgp35f4gPF0QBvDtqhZifAMVsPsuCZNVro3bKk3M6jU03e2EgZbMtB6+dRXEthm3MWRLcpTTJLtdrjpIJzYDi6jqVhc/lEucopwqMK8ke9WJNaQq6cigP3FJGAEGfob/eUYsMdKe80CyUJjQ0+aqwW2+s0nZMTysuqhgjAUphhaISdwbJ/ZUdXA9z4WaGIMFa+vcCTC38m8FP/ybReW/WcoCIVAmOJUGhA4Wy51VKy3HSEv6BVfJyIEoe8dTGQwhaRMB9T/JUYNmwgKn/DmCSTHPabPYJnXqSLpP5I=;UZIuLgB5XZwR36V2LhVC/g=="
+secured: "qXF7ewGIhHs75afZFl0tXmAP2l0NJ9QbVqEkxiAtVsIqP2yxo9tFzkI6LMaPO0qILXnt5PbMSODgJCihHGiBDp5VYMZaei0njBI8P03YV+bTSvmJTYjK/2XFw2I/9DFz3WBq1odPvCtAyRTiE4hrgfAbMT2J8dIKXV60hezvoPIQj3MXvoNnPTlsMAbRdnYa4s/CgQfA/LDsbVFEEOMiNxFhAf87KJbIdgNi0l9xc0LQF9ssRMT/6HKECspgd9WSPFZFfFnqazDEYeVmKymVLUdGbMQAtkkPl84/Y+OEc4CVQ6syijeC46RLZLIrp2Dnc/8dQD6M7NPk+kFrVwFXeBMFMFGoZhVoNXCnTKCf7do=;J+4OlG/Rv1BCNwsloCfjEg=="
 ---
 

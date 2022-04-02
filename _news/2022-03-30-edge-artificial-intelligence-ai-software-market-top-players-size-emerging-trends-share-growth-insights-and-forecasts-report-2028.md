@@ -69,20 +69,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Molecular Robots Market By Size, Share, Growth, Dynamic Analysis, And Forecast To 2030"
-    excerpt: "Comserve / -- The global molecular robots market is anticipated to garner a substantial CAGR over the forecast per"
-    publishedDateTime: 2022-03-28T17:08:00Z
-    webUrl: "https://menafn.com/1103925686/Molecular-Robots-Market-By-Size-Share-Growth-Dynamic-Analysis-And-Forecast-To-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 31
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?369614"
-        width: 429
-        height: 249
-        isCached: true
   - title: "Military Robots Market, Revenue Growth, Key Factors, Major Companies, Forecast To 2028"
     excerpt: "Reports and Data has recently published a novel report on global Military Robots market to provide a comprehensive analysis of historical and upcoming"
     publishedDateTime: 2022-03-30T01:19:00Z
