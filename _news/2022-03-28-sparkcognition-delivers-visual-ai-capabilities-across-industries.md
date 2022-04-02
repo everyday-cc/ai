@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/news/sparkcognition-delivers-visual-ai-ca
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/sparkcognition-delivers-visual-ai-capabilities-across-industries/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: enterprisetalk
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "SparkCognition acquires of Visual AI platform Integration Wizards"
-    excerpt: "HPCL is deploying AI-based visual analytics across its retail network to improve customer satisfaction and safety."
-    publishedDateTime: 2022-03-28T07:23:00Z
-    webUrl: "https://analyticsindiamag.com/sparkcognition-acquires-of-visual-ai-platform-integration-wizards/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Untitled-design-7-2.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "M&A wrap: ECPR founder sells firm to new CEO; SparkCognition adds 'visual AI tech'"
     excerpt: "\"I could not be happier for the opportunity to sell this firm to her because I am confident that she will preserve the legacy of the business while taking it to new heights,\" PR maven Elizabeth Christian,"
     publishedDateTime: 2022-03-31T15:00:00Z

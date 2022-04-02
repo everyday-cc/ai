@@ -2,6 +2,101 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-03-18-dataikus-no-code-cloud-stack-accelerator-is-now-available-on-aws.md",
+      "title": "Dataiku's No-Code Cloud Stack Accelerator Is Now Available on AWS",
+      "excerpt": "Dataiku, the platform for Everyday AI, today unveiled the Dataiku cloud stack accelerator on Amazon Web Services (AWS) — a… | London | Technology | Technology |",
+      "sourceUrl": null,
+      "webUrl": "https://bdaily.co.uk/articles/2022/03/18/dataikus-no-code-cloud-stack-accelerator-is-now-available-on-aws",
+      "originalUrl": "https://bdaily.co.uk/articles/2022/03/18/dataikus-no-code-cloud-stack-accelerator-is-now-available-on-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bdaily.co.uk/images/uploads/iFJg6ldR3QdXTRrS0MWiI9D6hovcMvFg4IW9okwb.jpeg?w=1200&h=627&fm=jpg&fit=crop-50-50&s=3986c8ad3f1bbc4e1be11c102d82efb8",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bdaily Business Network",
+        "domain": "bdaily.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-how-machine-learning-and-edge-computing-power-sustainability.md",
+      "title": "How Machine Learning And Edge Computing Power Sustainability",
+      "excerpt": "Less work. Less electricity used. That’s the sustainability power of edge computing and machine learning, and we’re just getting started.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/18/how-machine-learning-and-edge-computing-power-sustainability/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/18/how-machine-learning-and-edge-computing-power-sustainability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6233402bd6429ea2350435ec/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/18/how-machine-learning-and-edge-computing-power-sustainability/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/18/how-machine-learning-and-edge-computing-power-sustainability/amp/",
+      "publishedDateTime": "2022-03-18T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-poll-shows-americans-optimism-toward-ai-and-and-facial-recognitionbut-brain-implants-not-so-much.md",
       "title": "Poll Shows Americans’ Optimism Toward AI And And Facial Recognition—But Brain Implants? Not So Much",
       "excerpt": "like chips implanted in the brain and driverless vehicles. Output of an artificial intelligence system from Google Vision, performing facial recognition on a ... [+] photograph of a man ...",
@@ -1037,101 +1132,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-the-detail-of-the-courses-offered-by-amazon-web-services-aws-to-learn-about-computing-at-no-cost.md",
-      "title": "The detail of the courses offered by Amazon Web Services (AWS) to learn about computing at no cost",
-      "excerpt": "Within this framework, Amazon Web Services (AWS) launched two new free, hands-on training initiatives to enable people to acquire computer skills in the cloud, so that young students and professionals alike will be able to gain more knowledge and experience in computing jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infobae.com/en/2022/03/17/they-launch-free-training-to-develop-basic-skills-on-the-web-who-they-are-intended-for-and-how-to-access/",
-      "originalUrl": "https://www.infobae.com/en/2022/03/17/they-launch-free-training-to-develop-basic-skills-on-the-web-who-they-are-intended-for-and-how-to-access/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.infobae.com/new-resizer/LKEqd76Q2uNRvn5E2TGv_RzgsQg=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/TBHMVTO5BJGA7N7UYGFQ47PAQA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infobae.com/en/2022/03/17/they-launch-free-training-to-develop-basic-skills-on-the-web-who-they-are-intended-for-and-how-to-access/?outputType=amp-type",
-      "cdnAmpWebUrl": "https://www-infobae-com.cdn.ampproject.org/c/s/www.infobae.com/en/2022/03/17/they-launch-free-training-to-develop-basic-skills-on-the-web-who-they-are-intended-for-and-how-to-access/?outputType=amp-type",
-      "publishedDateTime": "2022-03-17T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Infobae",
-        "domain": "infobae.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-dont-miss-the-microsoft-azure-nvidia-breakthroughs-at-spring-gtc.md",
-      "title": "Don’t miss the Microsoft Azure + NVIDIA breakthroughs at spring GTC",
-      "excerpt": "Headlining Microsoft’s sessions at GTC will be two executive keynotes with the chance to win a free NVIDIA Jetson Nano 4GB Developer Kit.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/17/dont-miss-the-microsoft-azure-nvidia-breakthroughs-at-spring-gtc/",
-      "originalUrl": "https://venturebeat.com/2022/03/17/dont-miss-the-microsoft-azure-nvidia-breakthroughs-at-spring-gtc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1322658147.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/17/dont-miss-the-microsoft-azure-nvidia-breakthroughs-at-spring-gtc/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/17/dont-miss-the-microsoft-azure-nvidia-breakthroughs-at-spring-gtc/amp/",
-      "publishedDateTime": "2022-03-17T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

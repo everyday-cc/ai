@@ -75,22 +75,6 @@ related:
         width: 647
         height: 340
         isCached: true
-  - title: "Oscars 2022: Tearful Will Smith DEFENDS Chris Rock slap in Best Actor acceptance speech"
-    excerpt: "In his acceptance speech just 40 minutes later ... Netflix's Power Of The Dog led nominations with 12 nods including Best Picture, Best Director and recognition for all of its top actors: Benedict Cumberbatch, Kirsten Dunst, Jesse Plemons and Kodi ..."
-    publishedDateTime: 2022-03-28T08:49:00Z
-    webUrl: "https://www.dailymail.co.uk/tvshowbiz/article-10659271/Oscars-2022-Tearful-Smith-DEFENDS-Chris-Rock-slap-Best-Actor-acceptance-speech.html"
-    ampWebUrl: "https://www.dailymail.co.uk/tvshowbiz/article-10659271/amp/Oscars-2022-Tearful-Smith-DEFENDS-Chris-Rock-slap-Best-Actor-acceptance-speech.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/tvshowbiz/article-10659271/amp/Oscars-2022-Tearful-Smith-DEFENDS-Chris-Rock-slap-Best-Actor-acceptance-speech.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 36
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/03/28/09/55895869-0-image-a-19_1648456495564.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Will Smith slaps Chris Rock, wins an Oscar (full speech)"
     excerpt: "It will forever be remembered as the night Will Smith slapped Chris Rock on stage in front of a live TV audience. Not as the crowning achievement of his 30-year acting career, like it should have been"
     publishedDateTime: 2022-03-29T00:30:00Z

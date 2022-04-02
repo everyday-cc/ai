@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-bfsi-
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-bfsi-market-global-research-top-leading-player-emerging-trends-region-by-forecast-to-2028"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "Artificial Intelligence for Defense Market- emerging trends, opportunities and forecast"
+    excerpt: "The research and analytics firm Datavagyanik released the updated version of its report on “Artificial Intelligence for Defense Market – Country"
+    publishedDateTime: 2022-03-28T16:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-for-defense-market-emerging-trends-opportunities-and-forecast"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 29
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/848dd933f2b95b10eb092743860d98932097e224-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "sP1Rk1pmoFpOJEBaC/kSv8EXGOEJGEQQSeGaYx0Y77H8RV4xKsNfyA98lQ9I46z43nM6ntbbTQ4YCWfxPeODjt3NnJWZq9ow5Akz551bNRtKFqk6yH21bVqkeujPQ6RW5ZKG3AYfOzZifGtVFMkso1bmxPqco7zYVY4U/13xEUq34wjps+h7Rp0dgt1noEfmVLZvZlFE8PXKUFmTk+WZGLaLoU+VJm5rjvVFNkY1hpuW+YU80k/K+8EMwYoL/AB99TO8zuNpZ9pXegLuTKn/DshIQAgru7IZ6rRojp9ZF1+P7p8h5dyHfcOFb1ArSYchJOZWhcRjleCz1NgmVqpQiV2CSTuJYYUgNNM5qfe3kWw=;r6Z4Xtn47Cg1xWKTcrEFzA=="
 ---

@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "SparkCognition acquires of Visual AI platform Integration Wizards"
-    excerpt: "HPCL is deploying AI-based visual analytics across its retail network to improve customer satisfaction and safety."
-    publishedDateTime: 2022-03-28T07:23:00Z
-    webUrl: "https://analyticsindiamag.com/sparkcognition-acquires-of-visual-ai-platform-integration-wizards/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Untitled-design-7-2.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
 
 secured: "furD+YdK1Rpxo7LAPo4QAXMgi2i+7/s3slfo0boABwdEjQKbWd0GojekuTZyZmiMGLXAYM2OD/wN+QXi/jXGU/uGI2GZxIlb/s/ZBIHcTLR72nZX3uCZhytHZSVpxkkGUk7VicQUH4MdRXFr/B/Wfmi966O04MSdC0t6w6+sCEwHvI4kLhTF74nb6293QtkHl02ojCFzwFOQuXlkhwci/UvR3vXF+wJS4fADPj8RBJQ3WC59IJJTV+cL/FLSgmH4BZAy8m5Ta0taVKi4Esr0+mmTy5mIymHK4CnfQVXLzUwPwuEgxQ3kMD/eqoixj34QfchwSfSm+A+th8Z4rcHn8/znyugRB8LGbBhxALco0SanMB7/SYodD7O+io+/Ptx4IEQNb2oGlw5VmT+J8mIHX1uDciJcCSo/2U/WMj1CnQo+DJtKuBkp21weJ9oN/nbEfyXgMgaBXFqFVbpWzmSErqWmE7vHUnp7ayGAuf+uTbX3ftQJnxNc7ekAtUn0wwLB+5ls680Djs72JfrWT6joWQ==;zlgaNNgegvrb4jm2LxBjAg=="
 ---

@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-26-trullion-tackles-applying-ai-to-accounting-workflows.md",
+      "title": "Trullion tackles applying AI to accounting workflows",
+      "excerpt": "Trullion thinks AI may be used to unify the \"unstructured and structured worlds of accounting by translating them into financial workflows.\"",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/25/trullion-tackles-applying-ai-to-accounting-workflows/",
+      "originalUrl": "https://venturebeat.com/2022/03/25/trullion-tackles-applying-ai-to-accounting-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1213844364-e1648239295181.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/25/trullion-tackles-applying-ai-to-accounting-workflows/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/25/trullion-tackles-applying-ai-to-accounting-workflows/amp/",
+      "publishedDateTime": "2022-03-25T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-26-report-70-of-us-consumers-want-to-use-ai-for-their-jobs.md",
       "title": "Report: 70% of U.S. consumers want to use AI for their jobs",
       "excerpt": "While workers are interested in AI, they still want to maintain control over their solutions, rather than have AI run tasks automatically.",
@@ -1119,49 +1170,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions.md",
-      "title": "Roche announces collaboration with Bristol Myers Squibb to advance personalised healthcare through digital pathology solutions",
-      "excerpt": "Collaboration builds on commitment to advance personalised healthcare by helping to improve access to new treatment options for patients with solid tumoursAdvances in computation and artificial intell",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions/article_aef67db4-3b8c-5c77-b53c-fb0839f69b2d.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions/article_aef67db4-3b8c-5c77-b53c-fb0839f69b2d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

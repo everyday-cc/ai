@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26364476"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26364476"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Intuit’s Radhika Kannan on how the company is leveraging AI to enhance customer experience"
+    excerpt: "As a global technology platform company, Intuit helps customers and communities overcome their most important financial challenges."
+    publishedDateTime: 2022-03-30T06:35:00Z
+    webUrl: "https://analyticsindiamag.com/intuits-radhika-kannan-on-how-the-company-is-leveraging-ai-to-enhance-customer-experience/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 29
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/intuit.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "Df/LjMUWRoqEBE4UgNb/dY9YfnZTizs5ZGVQFPta+dPVyYovI596VQSgUAM9HeWefiH1xi3yptD6h5SGD0LTnnxAJEolloSi2VFNcsPi+8h8V1+0k5iJg07HmcrW8hbGQxBfTWAEJE2YVtXGZWKAo1QFe1eduW36+yCCZjgm4+rjjtY5Ye+xrHKubkcxHnp3OekUWXycy5kyjyt0ZEVR3aUSrpiIktYuY2HqZo6W61ahoemDrHlQ2qU9iligEqqa0bvqx6SkpkFq7LCOoQUcQydRhzDzHIW4CDkjYqWQ7ufuzKNKeR20QPiIpuvVkxw4gYRjGuhzarxJknlm36P/75KudvhWSWRWMVByTtXXoBM=;FJRiz+XiinCpQFkrKbfRcg=="
 ---

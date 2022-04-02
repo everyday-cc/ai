@@ -28,14 +28,14 @@ related:
   - title: "Face scanner Clearview AI aims to branch out beyond police"
     excerpt: "A controversial facial recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and the Ukrainian military now plans to offer its t"
     publishedDateTime: 2022-04-01T20:29:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
+    webUrl: "https://abcnews.go.com/Technology/wireStory/face-scanner-clearview-ai-aims-branch-police-83819354"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/face-scanner-clearview-ai-aims-branch-police-83819354"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/face-scanner-clearview-ai-aims-branch-police-83819354"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 59
+    quality: 57
     images:
       - url: "https://s.abcnews.com/images/Technology/WireAP_5b9defe112f648c79fe90ad49bf2b37b_16x9_992.jpg"
         width: 992

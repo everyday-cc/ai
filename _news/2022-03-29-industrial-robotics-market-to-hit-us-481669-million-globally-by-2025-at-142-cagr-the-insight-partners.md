@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market Revenue to Cross USD 107,797.82 million by 2027 Says, The Insight Partners"
-    excerpt: "According to The Insight Partners new research study on “Artificial Intelligence (AI) in Healthcare Market Forecast to 2027 – COVID-19 Impact and Global"
-    publishedDateTime: 2022-03-28T08:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-revenue-to-cross-usd-107797-82-million-by-2027-says-the-insight-partners"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 32
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/345d9689605f742c2fe9066713d8618f6b2aad6d-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare Diagnosis Market revenue to Cross USD 66,811.97 million by 2027 says, The Insight Partners"
-    excerpt: "According to The Insight Partners latest study on “Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 – COVID-19 Impact and"
-    publishedDateTime: 2022-03-28T08:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-diagnosis-market-revenue-to-cross-usd-66811-97-million-by-2027-says-the-insight-partners"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 25
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/345d9689605f742c2fe9066713d8618f6b2aad6d-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Pharmaceutical Robots Market Revenue to Cross US$ 383.91 million by 2028 says, The Insight Partners"
     excerpt: "Traditional Robots Held the Largest Share by Product Segment in Pharmaceutical Robots Market During 2021–2028 NEW YORK, UNITED STATES, Mar"
     publishedDateTime: 2022-03-29T18:01:00Z

@@ -2,6 +2,92 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2022-02-23-american-oncology-network-aon-and-viecure-announce-strategic-collaboration-to-accelerate-adoption-of-precision-oncology-and-personalized-cancer.md",
+      "title": "American Oncology Network (AON) and VieCure Announce Strategic Collaboration to Accelerate Adoption of Precision Oncology and Personalized Cancer Care",
+      "excerpt": "American Oncology Network, LLC (AON) , a high-growth medical oncology provider with a focus on supporting the long-term viability of oncology treatment in community-based settings, announced today a strategic collaboration with VieCure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/02/23/9550827.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/02/23/9550827.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-syria-supports-russias-recognition-of-breakaway-ukraine-regions.md",
+      "title": "Syria Supports Russia’s Recognition of Breakaway Ukraine Regions",
+      "excerpt": "Syria supports Russia’s recognition of the independence of two breakaway regions ... will help increase this cooperation,” Foreign Minister Fayssal Mikdad said in a speech carried by Syrian state media. Russia is the Syrian regime's most powerful ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/russia-ukraine-latest-news/card/syria-supports-russia-s-recognition-of-breakaway-ukraine-regions-GDedMbZ0wEpd8uhm0sMD",
+      "originalUrl": "https://www.wsj.com/livecoverage/russia-ukraine-latest-news/card/syria-supports-russia-s-recognition-of-breakaway-ukraine-regions-GDedMbZ0wEpd8uhm0sMD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-490969/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-23-aporia-takes-aim-at-ml-observability-responsible-ai-and-more.md",
       "title": "Aporia takes aim at ML observability, responsible AI and more",
       "excerpt": "After launching its platform in 2021, and seeing good traction, Aporia today announced a $25 million Series A funding round.",
@@ -1062,101 +1148,6 @@
         "Computer Vision",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-irs-will-let-tax-payers-opt-out-of-facial-recognition-but-theres-a-big-catch.md",
-      "title": "IRS will let tax payers opt out of facial recognition, but there's a big catch",
-      "excerpt": "Although the IRS has dropped its plans to use video selfies to verify the identities of taxpayers, this year's tax season is still set to be a bit more chaotic than usual. Originally the government agency had planned to use the third-party identity verification provider ID.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/irs-will-let-tax-payers-opt-out-of-facial-recognition-but-theres-a-big-catch",
-      "originalUrl": "https://www.techradar.com/news/irs-will-let-tax-payers-opt-out-of-facial-recognition-but-theres-a-big-catch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/AhxWMLamn9z3RMdEzxGwYE-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-tull-family-foundation-gifts-prep-school-20m-for-labs-robotics.md",
-      "title": "Tull Family Foundation Gifts Prep School $20M for Labs, Robotics",
-      "excerpt": "Sewickley Academy in Pittsburgh will use the donation for facilities, scholarships and STEM offerings such as adding cybersecurity, artificial intelligence and advanced robotics to its computer science department.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/k-12/tull-family-foundation-gifts-prep-school-20m-for-labs-robotics",
-      "originalUrl": "https://www.govtech.com/education/k-12/tull-family-foundation-gifts-prep-school-20m-for-labs-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/5ddf76b/2147483647/strip/true/crop/2048x1068+0+432/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd0%2F05%2F86c20d864ffdb8a6a71d21d4bca1%2Fsewickley-academy.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/k-12/tull-family-foundation-gifts-prep-school-20m-for-labs-robotics?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/tull-family-foundation-gifts-prep-school-20m-for-labs-robotics?_amp=true",
-      "publishedDateTime": "2022-02-22T11:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

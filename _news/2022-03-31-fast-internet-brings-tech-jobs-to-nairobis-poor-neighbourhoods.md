@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-
 webUrl: "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Reuters
@@ -28,6 +28,22 @@ images:
     height: 628
     isCached: true
 
-secured: "8IRnGVNIHbPMLldLKTT1dx7odjXrDyLY4HG8o6dA5zD35tcpQViHwBKX+XxZmaVQtjZrrxIqG+okTgBSb/ExBbimFAOLkh7FSZR6nFcUoCkZgCjsdUaUpyl1HE5UtoxmiXZpNmS595nUM+EIjlQIc8VmL3LmP+GfsFEwZaI3eN7VpxjisdzPMqOxiCRSj9i54BcQrnaBndLOReuZwcfq8pkm27ht++B/+rpeOSmYLsBPwkPyp1M/Kmv3nqUs9lRfBu8qAf1Bs9ufGa7Jxu6JB/dwPoHVNVthxV2WlQT7Igt4vd3SDRqR8CTvUg742iS/CA24TieyegLCDijoDO6bLitWyxTavnHAf6QX9gvPmMo=;M1/6Jv5InY5NKZ68gLCRcw=="
+related:
+  - title: "Fast internet brings tech jobs to the poor"
+    excerpt: "Daniel Nzoma’s face glows in the light of a computer screen as he reviews computer codes used for driverless cars and crop disease detection, an unusual job in Nairobi’s crowded Pipeline neighbourhood."
+    publishedDateTime: 2022-04-01T22:04:00Z
+    webUrl: "https://www.herald.co.zw/fast-internet-brings-tech-jobs-to-the-poor/"
+    type: article
+    provider:
+      name: The Herald-Zimbabwe
+      domain: herald.co.zw
+    quality: 24
+    images:
+      - url: "https://www.herald.co.zw/wp-content/uploads/sites/2/2019/04/3004-1-1-SAMSUNG-GALAXY-NOTE-5-INTERNET-PROBLEMS.jpg"
+        width: 680
+        height: 380
+        isCached: true
+
+secured: "36hdawfuffV1vbJrA1Gt0w4c48MLPX2lKzm5adFW3UMAgG0ZgCy7wNz7Xc/wRPwh0XU3YC4cOs3TgT+tTvgOWmuyq9jfXCaGpgkVTjZczfi60s7AovgxRZSFphy7wA5tAGddCzPTfMofv3ydFBiEmzgqR4N/OSQ7jYeZTHYhIGT1XCA7oFmGBI0DUhwMZAznU97XuX80W6DkFFrSoAkuF9hSprum0mCrg/FLt6r7Qd/iJIc0oD1BoI5dGUdvEhGKwnNkuioN/FS112thfwwbS/2YArCB6gcjS+l7l2qyVK+yQP4IQ4nxcvZdztFTLMojsHhhFu+QZPeLvPUvlaNTq3IMENyXghzA3UBd01axNyA=;ZeNtNRn4H8PLCZBk07p4ag=="
 ---
 

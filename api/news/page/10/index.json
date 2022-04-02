@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-03-23-inspur-information-ai-servers-to-fully-support-the-newly-announced-nvidia-h100-tensor-core-gpu.md",
+      "title": "Inspur Information AI Servers to Fully Support the Newly Announced NVIDIA H100 Tensor Core GPU",
+      "excerpt": "Inspur Information, a leading IT infrastructure provider, announced its AI servers fully support the new NVIDIA H100 Tensor Core GPU in four- and eight-way configurations. The servers will offer unprecedented computing performance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/inspur-information-ai-servers-to-fully-support-the-newly-announced-nvidia-h100-tensor-core-gpu/article_bdbf4083-5e1c-541e-a1c2-1b4c5bd4f124.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/inspur-information-ai-servers-to-fully-support-the-newly-announced-nvidia-h100-tensor-core-gpu/article_bdbf4083-5e1c-541e-a1c2-1b4c5bd4f124.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.cnhionline.com/ksherman/images/rtj_ad.gif",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-byd-lucid-are-latest-ev-makers-to-adopt-nvidias-self-driving-toolkit.md",
       "title": "BYD, Lucid are latest EV makers to adopt Nvidia’s self-driving toolkit",
       "excerpt": "At Nvidia's GTC conference, BYD and Lucid Motors announced they have adopted Nvidia's Drive Hyperion architecture to aid automated driving and ADAS features.",
@@ -414,6 +457,48 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-breyer-capital-backs-quantum-ai-startup-sandbox-aq.md",
+      "title": "Breyer Capital Backs Quantum AI Startup, Sandbox AQ",
+      "excerpt": "Hidary, the inspiration for Sandbox AQ and some of its team began at Alphabet Inc. (NASDAQ: GOOG) in 2016. In 202",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-texas-4e7e00b9602e4a67a7a1fbc16b682bb0",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-texas-4e7e00b9602e4a67a7a1fbc16b682bb0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1035,111 +1120,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-meet-the-deepmind-mafia-these-18-alumni-from-googles-ai-research-lab-are-raising-millions-for-their-own-startups-from-climate-to-crypto.md",
-      "title": "Meet the DeepMind mafia: These 18 alumni from Google's AI research lab are raising millions for their own startups, from climate to crypto",
-      "excerpt": "Over the past decade, Google-owned artificial intelligence research lab DeepMind has become a repository for top AI talent. Since Google bought the London-based startup for an estimated $500 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/former-deepmind-employees-who-founded-own-AI-startups-2022-3",
-      "originalUrl": "https://www.businessinsider.com/former-deepmind-employees-who-founded-own-AI-startups-2022-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62349c08c5cf2000184dc442?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-ukraine-and-russia-have-both-weaponized-facial-recognition-in-very-different-ways.md",
-      "title": "Ukraine and Russia have both weaponized facial recognition — in very different ways",
-      "excerpt": "Ukraine is using the technology to ID the dead and find Russian infiltrators. Russia is using it to crush dissent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3",
-      "originalUrl": "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 240,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6238d63cd199330018a3626d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp",
-      "publishedDateTime": "2022-03-21T13:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

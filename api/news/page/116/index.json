@@ -2,6 +2,83 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2021-12-17-effect-of-bilingualism-on-infants-cognitive-flexibility.md",
+      "title": "Effect of bilingualism on infants’ cognitive flexibility",
+      "excerpt": "Research suggests that bilinguals often outperform monolinguals on tasks that tap into executive functions, such as those requiring conflict resolution and cognitive flexibility. Recently, better attentional control has been detected in infants as young as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/effect-of-bilingualism-on-infants-cognitive-flexibility/FC2A581BD243D3F1CAE953FBF0BDB61C",
+      "originalUrl": "https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/effect-of-bilingualism-on-infants-cognitive-flexibility/FC2A581BD243D3F1CAE953FBF0BDB61C",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-kahu-ki-rotorua-kereama-heke-growing-future-for-whanau-through-electrical-apprenticeship.md",
+      "title": "Kahu ki Rotorua: Kereama Heke growing future for whānau through electrical apprenticeship",
+      "excerpt": "Click here for English translation He tangata whakatō moemoeā e ngangahau ai tana whānau a Kereama ... where te reo Māori became their second language. One day I may speak on the pae like ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nzherald.co.nz/rotorua-daily-post/news/kahu-ki-rotorua-kereama-heke-growing-future-for-whanau-through-electrical-apprenticeship/NATTO7NYPMKH3ADCNFHJCZ2ELQ/",
+      "originalUrl": "https://www.nzherald.co.nz/rotorua-daily-post/news/kahu-ki-rotorua-kereama-heke-growing-future-for-whanau-through-electrical-apprenticeship/NATTO7NYPMKH3ADCNFHJCZ2ELQ/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nzherald.co.nz/resizer/L3cgkh8lOHYNFBetcINEGgsVvs8=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/QVCVEXFNA4ZKKTPAJTTIAEZ2GU.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Zealand Herald",
+        "domain": "nzherald.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-unbabel-acquires-language-translation-company-lingo24-to-deliver-multilingual-content-for-global-marketing-teams.md",
       "title": "Unbabel Acquires Language Translation Company Lingo24 to Deliver Multilingual Content for Global Marketing Teams",
       "excerpt": "The Move Expands Unbabel's Language Operations (LangOps) Capabilities to Bring Multilingual Customer Experiences Across Marketing and Customer Service Unbabel, an AI-powered language operations ...",
@@ -949,92 +1026,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-timekettle-wt2-edge-1st-bi-directional-simultaneous-ai-translation-earbuds.md",
-      "title": "Timekettle WT2 Edge: 1st Bi-Directional Simultaneous AI Translation Earbuds",
-      "excerpt": "For example, if we are in conference with foreign-language speakers, we normally have such kind of sense that we have to wait for the translation for a long time once we use some translation tools ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/timekettle-wt2-edge-1st-bi-directional-simultaneous-ai-translation-earbuds",
-      "originalUrl": "https://www.digitaljournal.com/pr/timekettle-wt2-edge-1st-bi-directional-simultaneous-ai-translation-earbuds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/676729/image.png",
-          "width": 602,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-09T02:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-va-aims-to-reduce-administrative-tasks-with-ai-machine-learning.md",
-      "title": "VA Aims To Reduce Administrative Tasks With AI, Machine Learning",
-      "excerpt": "The AI and machine learning technology outlined in the presolicitation could also support new EHR infrastructure and focus on an improved user experience, mainly with an improved platform ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2022/01/us-army-announces-new-machine-learning-tech-burn-treatment/360303/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2022/01/03/GettyImages_184355967/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

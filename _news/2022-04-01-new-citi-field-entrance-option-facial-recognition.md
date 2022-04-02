@@ -41,20 +41,17 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "SparkCognition delivers Visual AI Capabilities across industries with acquisition of Integration Wizards"
-    excerpt: "Through this acquisition SparkCognition expands its IP portfolio to include computer vision capabilities bringing greater value to its industry solutions and"
-    publishedDateTime: 2022-03-28T07:19:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272428308/sparkcognition-delivers-visual-ai-capabilities-across-industries-with-acquisition-of-integration-wizards"
+  - title: "Constitutional recognition of First Nations is essential for justice"
+    excerpt: "Constitutional recognition of Indigenous Australians is a necessary prerequisite for a just legal system, retired NSW chief justice Tom Bathurst has told a gathering of senior lawyers and judges."
+    publishedDateTime: 2022-03-28T09:04:00Z
+    webUrl: "https://www.theaustralian.com.au/business/legal-affairs/constitutional-recognition-of-first-nations-is-essential-for-justice/news-story/a9aea33e3878951021c274cf012c31d3"
+    ampWebUrl: "https://amp.theaustralian.com.au/business/legal-affairs/constitutional-recognition-of-first-nations-is-essential-for-justice/news-story/a9aea33e3878951021c274cf012c31d3"
+    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/legal-affairs/constitutional-recognition-of-first-nations-is-essential-for-justice/news-story/a9aea33e3878951021c274cf012c31d3"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 22
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 24
 
 secured: "aQ4k6771SyqhpRr0BwqvIQZW3s/uFhKfIB70ijGFwcyvDX29XlBOUGmKGrY/tYfuUoagT6BLxyr5SYi+tGh0nh2N4SzMSEkekWMqwK3KrPxaZA+SpZN+/arVzgLW2CLeEo/VS1vOaqijWRsf2n/R9yr1IxfuiXekjY3aUh8fafGiM4dhZfzCrHOIASfijy8tUKWfNcdetlv9D5a3iuzamnUbeedj8gzWVrwnqBUHFNVx45Yfio39wxumNTNT/c2dX/vRvokSL5GwRFN55kTyW3YSSBbHRYKiMi7XIwgN7Wvdwv82mCRCLH1VjOoynVbM7uoj5hxZGPthSQ0Of05vAU+sLzGLBxJFlj3s95Zh5eo=;s0pCSfyR+KYvgGh46u5EfA=="
 ---

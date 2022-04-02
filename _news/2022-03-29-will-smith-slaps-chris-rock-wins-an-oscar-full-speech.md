@@ -89,22 +89,6 @@ related:
         width: 647
         height: 340
         isCached: true
-  - title: "Oscars 2022: Tearful Will Smith DEFENDS Chris Rock slap in Best Actor acceptance speech"
-    excerpt: "In his acceptance speech just 40 minutes later ... Netflix's Power Of The Dog led nominations with 12 nods including Best Picture, Best Director and recognition for all of its top actors: Benedict Cumberbatch, Kirsten Dunst, Jesse Plemons and Kodi ..."
-    publishedDateTime: 2022-03-28T08:49:00Z
-    webUrl: "https://www.dailymail.co.uk/tvshowbiz/article-10659271/Oscars-2022-Tearful-Smith-DEFENDS-Chris-Rock-slap-Best-Actor-acceptance-speech.html"
-    ampWebUrl: "https://www.dailymail.co.uk/tvshowbiz/article-10659271/amp/Oscars-2022-Tearful-Smith-DEFENDS-Chris-Rock-slap-Best-Actor-acceptance-speech.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/tvshowbiz/article-10659271/amp/Oscars-2022-Tearful-Smith-DEFENDS-Chris-Rock-slap-Best-Actor-acceptance-speech.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 36
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/03/28/09/55895869-0-image-a-19_1648456495564.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Will Smith Would Face Little More Than A Slap If Charged"
     excerpt: "Will Smith’s slap seen ’round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap of his own — on the wrist."
     publishedDateTime: 2022-03-30T19:23:00Z

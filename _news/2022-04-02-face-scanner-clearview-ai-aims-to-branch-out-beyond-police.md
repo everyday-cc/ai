@@ -3,13 +3,13 @@ category: news
 title: "Face scanner Clearview AI aims to branch out beyond police"
 excerpt: "A controversial facial recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and the Ukrainian military now plans to offer its t"
 publishedDateTime: 2022-04-01T20:29:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
-webUrl: "https://abcnews.go.com/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
+originalUrl: "https://abcnews.go.com/Technology/wireStory/face-scanner-clearview-ai-aims-branch-police-83819354"
+webUrl: "https://abcnews.go.com/Technology/wireStory/face-scanner-clearview-ai-aims-branch-police-83819354"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/face-scanner-clearview-ai-aims-branch-police-83819354"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/face-scanner-clearview-ai-aims-branch-police-83819354"
 type: article
-quality: 59
-heat: 69
+quality: 57
+heat: 67
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
   domain: abcnews.go.com
 
 topics:
-  - Computer Vision
   - AI
 
 images:
@@ -42,6 +41,6 @@ related:
         height: 508
         isCached: true
 
-secured: "vkcruM4GhAf1gy1R9iCkVuhkTDK7qGzeO3ZjSkilYB9WEWdjunaiU6wPbP3uKTJ1sdoL7fYJMvsOKSpSlbJz5sPc0dcvi8Mxf6tjDFIeVzZTgBd6peb8CH6YyF76QHFY53hAt4z0n2gp+o1NE7AgOOpBX8mJPhJfGHh3DiabLcl7C6MhJz69T4qDTtu++f1+1tw0IjUdmtghC3XmWoVCG+jqUo6SKEfPnySYC6dMWW8IzWD2OWPL7hgotiRrscB/tZn8XLqzGZhpACH345Ltmv0Rmqrlh6FKDMJPbQaFbkKPArKACz40K1RGRddhN7yYHr27qXnXvV76GVVLnT+gfMGE9Tcn8OzeujsT2QwpRkc=;tfm+OAGDxrEJbUO+eqdGlQ=="
+secured: "Hray2f0KjAC4vAp4e6t7Z22N4wD4dCtIIRi77S1g5G0HbS/2OInicsTNovidpoxHJKLl09rqiLlPytOpGXnUC+m2h2dtM6wHwM+Lb/iTa6a1zmVkG1MGz90kwrc7R/BHIPfpJAzyZcCyQR+vqHQEMYxyElQKEX+9DVvP2ODQUhKX2C9hUgBFr7kWA5+0Ux6IhROeb1DYlFv0hGfS/mg2atIl7xyualnoSF+lA36X4yZT6aAdXMWk5GmE98oK1lpq6y7lLbBzIg27FWUyDc2g2nGXYaeKe2eA4javRMSLfsw402lLYorPlbmAcrYH/0vtgg/yBT1Oax7wkTp4HzgntJlfo0Xh4XdZ56TISd57Brc=;iLRyMKrF3kfdA0zGrDwRlw=="
 ---
 

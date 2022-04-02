@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Automotive Market importunity Analysis, Growth, Key Players, Shares, Drivers, Challenges with Forecast to 2026"
+    excerpt: "The study on the global market for Artificial Intelligence (AI) in Automotive evaluated the historical and current performance of this market, especially highlighting the key trends and growth opportunities."
+    publishedDateTime: 2022-04-01T12:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-importunity-analysis-growth-key-players-shares-drivers-challenges-with-forecast-to-2026-2022-04-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Military Artificial Intelligence (AI) Market Analysis By Leading Keyplayers 2020 -2028"
+    excerpt: "Emergen Research Logo Increasing hostility across various countries and increasing government expenditure on R&D for military purposes ar"
+    publishedDateTime: 2022-03-29T16:16:00Z
+    webUrl: "https://menafn.com/1103931280/Military-Artificial-Intelligence-AI-Market-Analysis-By-Leading-Keyplayers-2020-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 46
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?104175"
+        width: 375
+        height: 250
+        isCached: true
   - title: "AI in Computer Vision Market Opportunity Analysis and Industry Forecast worth $51.3 billion by 2026"
     excerpt: "\"AI in Computer Vision Market\" AI in computer vision market size is projected to grow from USD 15.9 billion in 2021 to USD 51.3 billion by 2026, at a CAGR"
     publishedDateTime: 2022-03-30T23:10:00Z
@@ -39,43 +67,104 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence for Defense Market- emerging trends, opportunities and forecast"
-    excerpt: "The research and analytics firm Datavagyanik released the updated version of its report on “Artificial Intelligence for Defense Market – Country"
-    publishedDateTime: 2022-03-28T16:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-for-defense-market-emerging-trends-opportunities-and-forecast"
+  - title: "Molecular Robots Market By Size, Share, Growth, Dynamic Analysis, And Forecast To 2030"
+    excerpt: "Comserve / -- The global molecular robots market is anticipated to garner a substantial CAGR over the forecast per"
+    publishedDateTime: 2022-03-28T17:08:00Z
+    webUrl: "https://menafn.com/1103925686/Molecular-Robots-Market-By-Size-Share-Growth-Dynamic-Analysis-And-Forecast-To-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 31
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?369614"
+        width: 429
+        height: 249
+        isCached: true
+  - title: "Military Robots Market, Revenue Growth, Key Factors, Major Companies, Forecast To 2028"
+    excerpt: "Reports and Data has recently published a novel report on global Military Robots market to provide a comprehensive analysis of historical and upcoming"
+    publishedDateTime: 2022-03-30T01:19:00Z
+    webUrl: "https://www.digitaljournal.com/pr/military-robots-market-revenue-growth-key-factors-major-companies-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 31
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/7db448fc881b6b5c26e8531765d0fd0eeb014838-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence Engineering Market Trends, Detail Analysis for Business Development, Growth Factors and Forecast"
+    excerpt: "The latest study provides an insightful analysis of the broad competitive landscape of the global Artificial Intelligence Engineering market, emphasizing"
+    publishedDateTime: 2022-03-29T13:08:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-engineering-market-trends-detail-analysis-for-business-development-growth-factors-and-forecast"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 29
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/848dd933f2b95b10eb092743860d98932097e224-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/15a44ea548b6d083a148f7c8b0969d98af09a227-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "Facial Recognition Market 2022 Outlook, Current and Future Industry Landscape Analysis 2032"
-    excerpt: "According to a recent study done by FMI, the  Facial Recognition Market  is expected to reach US$ 22.5 billion by 2032, up from US$ 5.2 billion in 2022, expanding at a high CAGR of 15.7%. This study explains that increase in government investments in emerging technologies of CCTV cameras in most public places to minimize criminal activities and terrorist attacks"
-    publishedDateTime: 2022-03-30T07:25:00Z
-    webUrl: "https://www.fmiblog.com/2022/03/30/facial-recognition-market-2022-outlook-current-and-future-industry-landscape-analysis-2032/"
+  - title: "Edge Artificial Intelligence (AI) Software Market Top Players, Size, Emerging Trends, Share, Growth, Insights and Forecasts Report 2028"
+    excerpt: "Software market for the forecast period of 2021 – 2028 the study provides vital intelligence on the major opportunities”. The edge Artificial Intelligence (AI) software market size reached USD 585.1 Million in 2020 and is expected to register a CAGR of 20."
+    publishedDateTime: 2022-03-30T11:43:00Z
+    webUrl: "https://www.digitaljournal.com/pr/edge-artificial-intelligence-ai-software-market-top-players-size-emerging-trends-share-growth-insights-and-forecasts-report-2028"
     type: article
     provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 29
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 26
     images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2022/03/FMI-4.jpg"
-        width: 1008
-        height: 504
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-War-AFP-1K-01-1-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "AI in Blockchain Market, Global Outlook and Forecast 2022-2028"
-    excerpt: "The global AI in Blockchain market was valued at million in 2021 and is projected to reach US$ million by 2028, at a CAGR of % during the forecast period. The U.S. Market is Estimated at $ Million in 2021,"
-    publishedDateTime: 2022-03-28T07:46:00Z
-    webUrl: "https://galleonnews.com/news/241686/ai-in-blockchain-market-global-outlook-and-forecast-2022-2028/"
+  - title: "Electronic Skin Market Share, Size, Key Players, Trends, Competitive And Regional Forecast To 2027"
+    excerpt: "High demand for electronic skin in the healthcare sector to treat diabetes and cardiology diseases is driving market growth. NEW YORK, NY,"
+    publishedDateTime: 2022-03-30T11:55:00Z
+    webUrl: "https://menafn.com/1103936250/Electronic-Skin-Market-Share-Size-Key-Players-Trends-Competitive-And-Regional-Forecast-To-2027"
     type: article
     provider:
-      name: Galleon News
-      domain: galleonnews.com
-    quality: 17
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 10
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?868122"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "Machine Learning Market Growth Analysis, Segmentation, Size, Share, Trend, Future Demand and Leading Players Updates by Forecast to 2028"
+    excerpt: "Key Companies Profiled are Hewlett Packard Enterprise Development LP, SAS Institute, Inc., Amazon Web Services, Inc., SAP SE, Baidu ... increasing popularity of self-driving cars from the ..."
+    publishedDateTime: 2022-03-29T07:35:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-market-growth-analysis-segmentation-size-share-trend-future-demand-and-leading-players-updates-by-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 8
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/5993b720d9ef7071b8911094c233c01fc025ee40-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Computer Vision in Aerospace and Defense Market 2022 Size, Share, Growth Factors, Revenue, Recent Trends, Upcoming Demand and Forecast to 2028"
+    excerpt: "Global Computer Vision in Aerospace and Defense market report provides highest data such as opportunities, risk, prime challenges, technological advancement, development strategy,"
+    publishedDateTime: 2022-03-29T10:29:00Z
+    webUrl: "https://www.wicz.com/story/46174810/Computer-Vision-in-Aerospace-and-Defense-Market-2022-Size-Share-Growth-Factors-Revenue-Recent-Trends-Upcoming-Demand-and-Forecast-to-2028"
+    type: article
+    provider:
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 3
+    images:
+      - url: "https://ABSOLUTEREPORTS.images.worldnow.com/images/22424033_G.png?lastEditedDate=1648535342000"
+        width: 829
+        height: 373
+        isCached: true
 
 secured: "xt7I8NFrg03tZHVUNz6DvTNVsoVKmOwl3qivAYPjFzUR0hxXFIKliHChooa+ZzLx26tO6SJXSvkgxheiQtbyi245PWPXWoB+g9KX2fw9aIzTIMH4A10bel4BedEbSQZPBFztnnUgbOkuUUH//ln8DV5IzdDDqP/xXSUK8HhGEIYW8mw/5DdSsidwNhWhAGpMtdpQ1cf+CbXqXbILBwaWgxHJPC+/czxVMpZ6dbJuwE81gu+DW1oG0Gok+16oZmTFbLEXH1q2Gpq1PtDgptv5hh0Y/Dn2GIXS+mzbMcc1zqB/4KR/66qn3PSzJDFKrLqDGiqPQc8ZGdEf/AdllAXODsOdQdAkqkofeRWm/54rMpE=;C7Y1l5vfgGTO09kyleTgLw=="
 ---

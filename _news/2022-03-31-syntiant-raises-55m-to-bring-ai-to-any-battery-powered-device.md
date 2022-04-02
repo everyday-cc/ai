@@ -66,20 +66,6 @@ related:
         width: 498
         height: 280
         isCached: true
-  - title: "Synaptics Launches Katana Edge AI Kit To Accelerate Development of AI Vision and Sensor Fusion Applications for the IoT"
-    excerpt: "Synaptics Incorporated (Nasdaq: SYNA) today announced an Edge AI evaluation kit (EVK) for the rapid development and prototyping of artificial intelligence (AI) applications at the edge. Based on the Synaptics® low-power Katana system-on-chip (SoC) platform,"
-    publishedDateTime: 2022-03-28T08:07:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-synaptics-inc-2c1aba5e9fc346544b7238b9b2e0a512"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "2p8bSIA92szd18biy1dw5kXHf2NexlZ3ZdbL+IlD4ICes31yNGLgVkYDkW9S0NnQg/FBpiGXGZoVT4Eji1axyR9NomLeYzdyUXBdcBWX7IMWmO15ktCWerIomCS+pZqh+n74gMEpcF2dSRwlX0BTl933nexbOaAY554UpdP6f3in5p8C8Za2fDpXchBTX86Yfc6giS70AOTD7DyldmcmXw4NULlCVFRnJnum3Ti2PwoSVm4hajH+4URVLnWQaztYFvgtgFMzFMsWBiO9Sieg5+rpGBTbJW03anZhcOxdkVnno4RFluMzATRhToRJaP/IiI4lUXigpMBNxpgXFBy5sNIEkFd0GpbLjA1cczOSXQI=;Yjk0vTO6OyygWCP+sOkz6A=="
 ---
