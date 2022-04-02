@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 899
         isCached: true
-  - title: "How Ethical AI Is Redefining Data Strategy"
-    excerpt: "Industries such as insurance that handle personal information are paying more attention to customers’ desire for responsible, transparent AI."
-    publishedDateTime: 2022-03-28T09:35:00Z
-    webUrl: "https://tdwi.org/articles/2022/03/28/adv-all-how-ethical-ai-is-redefining-data-strategy.aspx"
-    type: article
-    provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 54
-    images:
-      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/AI6.jpg"
-        width: 976
-        height: 400
-        isCached: true
   - title: "Mercedes to accept legal responsibility for accidents involving self-driving cars"
     excerpt: "Mercedes has announced that it will take legal responsibility for any crashes that occur while the self-driving system on any of its cars is engaged."
     publishedDateTime: 2022-03-28T17:55:00Z

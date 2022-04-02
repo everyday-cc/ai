@@ -133,20 +133,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Top 20+ Upcoming Fintech Events to Attend in Europe"
-    excerpt: "Technological advances and evolving customer expectations are changing the financial landscape, stimulating fintech development and innovation. To keep up with the burgeoning fintech industry, top-quality fintech events are being organized on a regular basis to educate attendees on the latest trends and enable professionals to build meaningful connections."
-    publishedDateTime: 2022-03-28T11:01:00Z
-    webUrl: "https://fintechnews.ch/fintech/top-20-upcoming-fintech-events-to-attend-in-europe/52085/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/03/Top-20-Upcoming-Fintech-Events-to-Attend-in-Europe-.png?x30842"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Fintech's New Era: Profits, Perils and Limitless Potential"
     excerpt: "In fact, it’s estimated that global banks have the potential to generate up to $1 trillion in additional value annually through AI technologies, according to McKinsey & Company. If keeping ahead of the technological curve is paramount for a company in the fintech industry,"
     publishedDateTime: 2022-03-30T16:43:00Z

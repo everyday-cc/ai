@@ -40,6 +40,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Contact Center Intelligence Market to See Booming Growth | IBM, Google, Microsoft"
+    excerpt: "The latest study released on the Global Contact Center Intelligence Market by AMA Research evaluates market size, trend, and forecast to 2027. The Contact"
+    publishedDateTime: 2022-03-31T10:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/contact-center-intelligence-market-to-see-booming-growth-ibm-google-microsoft"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 36
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/Covid-Testing-AFP-1K-600x337.jpeg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "bpkUFUPu690jornM2Jx2I4USqulQBIXrtvKbDmdj4jIJG7RBfptHhZ5LYJwIxrmyTRRSF1+wqBYqhWkyGoRt2irMRaoZoa94g3KsxuMlP3c/1YS4ImLNorKYXPwi7PGHXFDQH0NeQV1c/5hrqEyJK8gz4m4oAA2Y+Czea+JdV11sIvUJi4AYjBYc9fFaznnYbBMIK9PKLbm2XA1CTBXh74GhQKXqFiZrdHefqe1//s9ig1W4ospHBZ7c9b2+vddzSh08PHyv8vMMN2UvpkJto0sQ8AjuSEmw8tDSxoY3xsb7Lbp+ZaALWbALqsah1sNG/Fhw4u20tvW2KVYGFdbOtM+BiJKQqoTJJlhv1K1GHZQ=;OU4jez/jv7jfNyOkKKPK5Q=="
 ---

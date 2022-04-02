@@ -41,17 +41,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Constitutional recognition of First Nations is essential for justice"
-    excerpt: "Constitutional recognition of Indigenous Australians is a necessary prerequisite for a just legal system, retired NSW chief justice Tom Bathurst has told a gathering of senior lawyers and judges."
-    publishedDateTime: 2022-03-28T09:04:00Z
-    webUrl: "https://www.theaustralian.com.au/business/legal-affairs/constitutional-recognition-of-first-nations-is-essential-for-justice/news-story/a9aea33e3878951021c274cf012c31d3"
-    ampWebUrl: "https://amp.theaustralian.com.au/business/legal-affairs/constitutional-recognition-of-first-nations-is-essential-for-justice/news-story/a9aea33e3878951021c274cf012c31d3"
-    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/legal-affairs/constitutional-recognition-of-first-nations-is-essential-for-justice/news-story/a9aea33e3878951021c274cf012c31d3"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 24
 
 secured: "my2g7FqB/+3eINJQ6fx4w2MIVzzZW1teNv6Hm09nFamHXY1AD6bphM7XRmU/GISVWHsqVTM94ULUjmQs1NySsFR6F5wr5K+xD2O/nV6Lq/t8Kc3PUhw3aegIxMA1183cbYIOpoW0qBaD6vwaJfqrlkyC6+6PJIXmZrInboO+F+DCcNf2vwFrIMa0VmHxPrPanD+ysbTjgXnEDPjwWj+BeGvVx8ubwiwBcp99lZpzHn2Coq9lp4L1f/afjaQKjIJ+3n8FRGOnBxIluQ4QwUzlX8tGCu/3oiYiA0ueOkti4SPHAS9DCmb0ea6hZVcRxn7CvdX3b7bTywtitXjkaRJdUYySFR/+KpHQFwUw4m8k1qM0Wz8LVfj/FkUKGN8RKMoiqtbxdszNt+f19E5BpHCbuXxzjbq2fUZGl/+sQEj/lud3GgnAxccv9fqHVjT/aUlgSPp2sj5xh76p5SWGPQpRuSwiaXaGLXlXE9EyL0zpHa6nmVN5hBUW3guD1zxz99nAYHpMocfPxKnczzxQiRmRiA==;YdwCXkEWhqkoFL30L5DHHw=="
 ---

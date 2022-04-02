@@ -43,20 +43,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Artificial Intelligence-Emotion Recognition Market Is Booming Worldwide | Microsoft, Softbank, Realeyes"
-    excerpt: "JCMR recently introduced Artificial Intelligence-Emotion Recognition study with focused approach on market size & volumes by Application,"
-    publishedDateTime: 2022-03-28T10:59:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-emotion-recognition-market-is-booming-worldwide-microsoft-softbank-realeyes"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 42
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/848dd933f2b95b10eb092743860d98932097e224-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "qbZUxt+32FhxWhPBAXfpYpKRBzLk6UiPGptuk+jdHVAO6dTQE9YtyqTMwf18tNUdSl7xLt62Xf+uRiCzv1ZsdB1LmQ10Xd/Vhkl+V6m022fiXpY2uR2AQgA/TYjQ+deG+2o0Wskf0q1eX83UmTwh6AFttOUWjnkO+Q/CgitEQ5cUfjPVew8PYLWtjCM3lE/1HFzBa1v3GXsJX/gkcs2H02hnSFH1JVYKkR2Yfvyvv+57LvqdfZ798sXucjJoewIpCyj+mEcGQ++pz0SX8DcejyMuAE4ucvUuIy93vMKsFukiJnmC9BuLtjXmlSnh3zJ4uHrsP4y47Tx+sk4dWa+nntKTsLO1SFupnw5jKk6aw/A=;Raj3t4aWz14TMixjNr8UZQ=="
 ---

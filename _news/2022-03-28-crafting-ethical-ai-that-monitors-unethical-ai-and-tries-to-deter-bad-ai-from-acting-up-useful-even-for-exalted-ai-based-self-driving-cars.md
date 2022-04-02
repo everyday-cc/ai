@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/03/28/crafting-ethical-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/28/crafting-ethical-ai-that-monitors-unethical-ai-and-tries-to-deter-bad-ai-from-acting-up-useful-even-for-exalted-ai-based-self-driving-cars/amp/"
 type: article
 quality: 72
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/62427f3c055f1d39bb6f0b2a/0x0.jpg?format=jpg&crop=3992,2661,x520,y0,safe&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "How Ethical AI Is Redefining Data Strategy"
-    excerpt: "Industries such as insurance that handle personal information are paying more attention to customers’ desire for responsible, transparent AI."
-    publishedDateTime: 2022-03-28T09:35:00Z
-    webUrl: "https://tdwi.org/articles/2022/03/28/adv-all-how-ethical-ai-is-redefining-data-strategy.aspx"
-    type: article
-    provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 54
-    images:
-      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/AI6.jpg"
-        width: 976
-        height: 400
         isCached: true
   - title: "Mercedes to accept legal responsibility for accidents involving self-driving cars"
     excerpt: "Mercedes has announced that it will take legal responsibility for any crashes that occur while the self-driving system on any of its cars is engaged."

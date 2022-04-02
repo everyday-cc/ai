@@ -3,8 +3,8 @@ category: news
 title: "Miniature medical robots step out from sci-fi"
 excerpt: "Tiny machines that deliver therapeutic payloads to precise locations in the body are the stuff of science fiction. But some researchers are trying to turn them into a clinical reality."
 publishedDateTime: 2022-03-29T23:38:00Z
-originalUrl: "https://www.nature.com/articles/d41586-022-00859-0?error=cookies_not_supported&code=8a30d1fa-dc6c-4f42-b19d-ce79ebbf28c6"
-webUrl: "https://www.nature.com/articles/d41586-022-00859-0?error=cookies_not_supported&code=8a30d1fa-dc6c-4f42-b19d-ce79ebbf28c6"
+originalUrl: "https://www.nature.com/articles/d41586-022-00859-0?code=8a30d1fa-dc6c-4f42-b19d-ce79ebbf28c6&error=cookies_not_supported"
+webUrl: "https://www.nature.com/articles/d41586-022-00859-0?code=8a30d1fa-dc6c-4f42-b19d-ce79ebbf28c6&error=cookies_not_supported"
 type: article
 quality: 39
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 576
         isCached: true
 
-secured: "ZV/W8TMzE0+uqOE+zyp64RdMWMa4q6IzcxYGJdJBsdONZQ6e4wUCVXPjb6nq09nc2blgQN5zI/7pz5SNBcIwgfBxGf4RvKOkw9MO9STRuMqGdtZAjfpEIntIwp3sdy5jrtAEg2HkZy4qzCO1zf3J4Y5gQHMf+rgO5Gu9TMS+hMG6KNwhRaGVtethSR/I58N0uk+qt1ND785xQzmzKBN/qvpEADcibkSevTuZtPrhy2qVgoMgZXwlEIX7eF2aWPJKfP3vvpfaiZO6m03uwxbi8dEdWUdqhf4Y+Cyp17R2pSRntIfZsGupoWK3iYirmGI4MkDPvVFwh86hO9zVP10vzXHvM06+Mq2J/ZQKkNKmYLJ7USdGm71FiakvAMaRHnOUD/rE8DVS6zxudUxZiX8FCkJekfHXlLZs1SiJfemnsVnP0IijlRQWilvnWK8QXdgRyVluanpFzB+rXY+tn7pHNLKqAtxLyovp2xtSlUNTePo9zp2cOfI0vDgYhxNR+WkZF+E+z/XeaSjThz61BbxfIQ==;RPxoqRvsuSPQri1LyXDb5Q=="
+secured: "i504ypq11ugBkUjrIUnxjSzj9l9JR7wGWpetJ6rxwGnzWLfiOwRK9zYUveKvqUMNo11hTmstbq5L7eva0Lom0JXT4N5tkrWcLOSB4g1LUqDllVIIrTvy59s0VsMkc5WMqPbDCLMh49QdQjPTZNZsLN3DFSOC2Zm7qo9Qqcx8BpLzQz7MYn9U4KmQ36x9HwfvfaaA8/z8MiBFfeyNYueJ+jETf2bStLgSCvpAY2i9c2PDJ0Tjou0NoV6BgN73jDRkT5bo46vdjfzDa1h0iKqQw97nJyAkLiwRJtKZywdxPCwRkV1qbs9IqFGhYpzca2sl+6oKaI57mqtyYbLoN8CZ5fmwRu/a1XNV/JHiwrFGvvM=;Kwi+b73p0OC4HQAUEkIz/Q=="
 ---
 

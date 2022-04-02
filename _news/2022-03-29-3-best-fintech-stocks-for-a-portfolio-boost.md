@@ -123,20 +123,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Top 20+ Upcoming Fintech Events to Attend in Europe"
-    excerpt: "Technological advances and evolving customer expectations are changing the financial landscape, stimulating fintech development and innovation. To keep up with the burgeoning fintech industry, top-quality fintech events are being organized on a regular basis to educate attendees on the latest trends and enable professionals to build meaningful connections."
-    publishedDateTime: 2022-03-28T11:01:00Z
-    webUrl: "https://fintechnews.ch/fintech/top-20-upcoming-fintech-events-to-attend-in-europe/52085/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/03/Top-20-Upcoming-Fintech-Events-to-Attend-in-Europe-.png?x30842"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow"
     excerpt: "TIFIN, a fintech platform using AI and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran Bill Parsons has joined the firm as Executive Vice President & General Manager of TIFIN Grow."
     publishedDateTime: 2022-03-29T19:16:00Z

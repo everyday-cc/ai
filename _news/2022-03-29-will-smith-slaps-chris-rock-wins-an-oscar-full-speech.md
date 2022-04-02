@@ -73,22 +73,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "WATCH: Will Smith apologises for attacking Chris Rock during Oscar acceptance speech"
-    excerpt: "\"Love will make you do crazy things.\" In one of the most dramatic nights of television in years, Will Smith apologised for attacking Chris Rock while presenting an award at the 94th Academy Awards on Sunday (27 March)."
-    publishedDateTime: 2022-03-28T09:12:00Z
-    webUrl: "https://www.joe.ie/movies-tv/will-smith-apology-oscars-745060"
-    ampWebUrl: "https://www.joe.ie/amp/movies-tv/will-smith-apology-oscars-745060"
-    cdnAmpWebUrl: "https://www-joe-ie.cdn.ampproject.org/c/s/www.joe.ie/amp/movies-tv/will-smith-apology-oscars-745060"
-    type: article
-    provider:
-      name: Joe
-      domain: www.joe.ie
-    quality: 37
-    images:
-      - url: "https://img.maximummedia.ie/joe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDIyXFxcLzAzXFxcLzI4MTAwMTEwXFxcL3NsYXAucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZVxcXC9uby1pbWFnZS5wbmc_aWQ9MjY0YTJkYmUzNzBmMmM2NzVmY2RcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMDJmNzYwZTgzMDJiMDJhNjUzOTJhOTk3MzNhM2RlNzBmYTRjNjI0NSJ9/slap.png"
-        width: 647
-        height: 340
-        isCached: true
   - title: "Will Smith Would Face Little More Than A Slap If Charged"
     excerpt: "Will Smith’s slap seen ’round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap of his own — on the wrist."
     publishedDateTime: 2022-03-30T19:23:00Z
@@ -102,20 +86,6 @@ related:
       - url: "https://cdn.field59.com/KOTV/55ab2a1249b7a421f96cf9905a98039e2e03c603.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Will Smith will not face charges after hitting Chris Rock at Oscars, LA Police say"
-    excerpt: "Chris Rock made a joke about wife Jada Pinkett Smith, just minutes before Will Smith was named best actor at the ceremony."
-    publishedDateTime: 2022-03-28T09:58:00Z
-    webUrl: "https://www.timesandstar.co.uk/news/national/uk-today/20025330.will-smith-will-not-face-charges-hitting-chris-rock-oscars-la-police-say/"
-    type: article
-    provider:
-      name: Times Star
-      domain: timesandstar.co.uk
-    quality: 18
-    images:
-      - url: "https://www.timesandstar.co.uk/resources/images/13618561/"
-        width: 948
-        height: 532
         isCached: true
 
 secured: "h/RE4mavqHFYIIYtc2dadAtRo7E9OiCcbWzl0885Kue7/CNcNEimcVyqL+vnsOdSVd34B7xoneDBNkA31JJOwK7sCYFoCAsp0TU+ttB8h6CvGPT7flLFVKOHJBI0yH3IS/Q2cG54R+S2tzEvhOY++nsM4FDfWc7Ze5nufQ6dmzSCAOVEpbOIHENv0FV6A0KFOkotq+VN8tO36RoB4KgvDI+hu13LIun4HposUwu3I5NyKFTLoGYE2xB+oRMKGRbmv0MCecAmm3OgMjYfMGQPckx+NojdeT4gE/HZXQcrfISqxJpTc9OHWDluGAJKPX4BdwQNUqev9V78K5nQoxISPi1F6aGuyPDsNG/peOE3ca0=;1iEt/bVAyKYerSXywPjXuA=="

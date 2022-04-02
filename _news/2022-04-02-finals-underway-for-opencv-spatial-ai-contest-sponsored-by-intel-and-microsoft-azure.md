@@ -1,47 +1,29 @@
 ---
 category: news
 title: "Finals Underway for OpenCV Spatial AI Contest Sponsored by Intel and Microsoft Azure"
-excerpt: "LEGO® and OAK-D-LITE Edge AI hardware this spring. The top 3 teams will be chosen in April and featured at Microsoft Build 2022. PALO ALTO, Calif., April 1,"
+excerpt: "LEGO® and OAK-D-LITE Edge AI hardware this spring. The top 3 teams will be chosen in April and featured at Microsoft Build 2022."
 publishedDateTime: 2022-04-01T23:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26435461/finals-underway-for-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure"
-webUrl: "https://www.benzinga.com/pressreleases/22/04/n26435461/finals-underway-for-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure"
-ampWebUrl: "https://www.benzinga.com/amp/content/26435461"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26435461"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/finals-underway-for-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure/article_6f4ddeda-e897-5fe8-af95-fe51582cdc67.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/finals-underway-for-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure/article_6f4ddeda-e897-5fe8-af95-fe51582cdc67.html"
 type: article
-quality: 82
-heat: 92
-published: true
+quality: 62
+heat: 62
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Microsoft AI
   - AI
+  - Microsoft AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
-related:
-  - title: "Contact Center Intelligence Market to See Booming Growth | IBM, Google, Microsoft"
-    excerpt: "The latest study released on the Global Contact Center Intelligence Market by AMA Research evaluates market size, trend, and forecast to 2027. The Contact"
-    publishedDateTime: 2022-03-31T10:39:00Z
-    webUrl: "https://www.digitaljournal.com/pr/contact-center-intelligence-market-to-see-booming-growth-ibm-google-microsoft"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 36
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/Covid-Testing-AFP-1K-600x337.jpeg"
-        width: 600
-        height: 337
-        isCached: true
-
-secured: "vQfpYiKaKXhaak2wy8XRvfp9+1qYDYOhmUAmMSvtjaMpxyuxl+80sICSC+kBzGsfJJIqDt3UZrAFyh/sHsIuAnLi0uQIV577GoBxdWCAZqsAc6HLHHCN99MTddH0IgsIHpw65dj6nvZntNCxlfP3rY0lZMgHtVvUA+3ShYLpQbpwLuNDlvhyXZfLDelxc4fmpYJZEfGqKLt3BDS4j+FnErbRi4bpnngozI+9dlXLdn2gh05XI7S6yyZOypgYJ5kkVOi0eMqQhJ0J8CAsJ0/u29GCsfn2nThJ/oG4cHFlrdrsgKjyCY0qJIKvOlTkVnwR0q02Q6+6eGYRWVJSBb/8nUwUFECzmeRGpbhVxTT8NnI=;JEcjVhPHwgdGFI4PYXwu6w=="
+secured: "gDg+45y+iimwgfUeA2bKgAwDKcHe/HA673ExOrv+UTVww7TmJf8+rikaYMXton0hXlLN8H9ixbx+wWane2nAr6mL+zDL7Yx2D9zQMXIUFJ2+8+tf6/RNkuyMNYJPn3gyevGV1PCDurm8wQwOuX1ZrO+D/2WaMa1tkZmx7i7PsExIrT3JWk2G+IBNkIEfFx2P22r/jJ+sShlIw7LhyCCj76b2y2QQmLKJWqz8w4jjY8bjlXm8jYQ1IKWITk5MPepPEKJeoSVRfv7jLFlPCy4LJ9/cebv1wec1ZdQd4lpTtXBTh8EOZCdwXIsmpFbc/HM28Lv1tE0pPlfqI29rhxkTTOemw3GeMHN88jQJyNH/Mm4=;b0Yg1rd72kVfgEXfXHh3Ig=="
 ---
 

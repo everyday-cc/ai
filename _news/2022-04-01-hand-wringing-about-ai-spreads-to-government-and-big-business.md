@@ -63,6 +63,20 @@ related:
         width: 3397
         height: 3492
         isCached: true
+  - title: "Breaking into the black box of artificial intelligence"
+    excerpt: "In February 2020, with COVID-19 spreading rapidly around the globe and antigen tests hard to come by, some physicians turned to artificial intelligence (AI) to try to diagnose cases 1. Some researchers tasked deep neural networks — complex systems that are adept at finding subtle patterns in images — with looking at X-rays and chest computed tomography (CT) scans to quickly distinguish between people with COVID-based pneumonia and those without 2."
+    publishedDateTime: 2022-03-29T14:28:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-00858-1?error=cookies_not_supported&code=b416cd61-ab8f-4dea-a6f7-c76c01e7969f"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-00858-1/d41586-022-00858-1_20249634.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "About AI on the rise"
     excerpt: "A series exploring how the pandemic has supercharged the use of artificial intelligence tools at work and school"
     publishedDateTime: 2022-03-29T19:32:00Z
@@ -74,15 +88,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 37
-  - title: "Breaking into the black box of artificial intelligence"
-    excerpt: "In February 2020, with COVID-19 spreading rapidly around the globe and antigen tests hard to come by, some physicians turned to artificial intelligence (AI) to try to diagnose cases 1. Some researchers tasked deep neural networks — complex systems that are adept at finding subtle patterns in images — with looking at X-rays and chest computed tomography (CT) scans to quickly distinguish between people with COVID-based pneumonia and those without 2."
-    publishedDateTime: 2022-03-29T14:28:00Z
-    webUrl: "https://www.nature.com/articles/d41586-022-00858-1"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 19
   - title: "Why AI In Insurance Is The Key To Survival"
     excerpt: "Insurance is one of these areas, with providers increasingly leveraging AI to understand risk and reduce costs. Examples within the consumer field include \"black box\" telematics platforms that allow providers to gather all the relevant data points necessary to understand someone's driving style and adjust their premiums."
     publishedDateTime: 2022-04-01T17:20:00Z

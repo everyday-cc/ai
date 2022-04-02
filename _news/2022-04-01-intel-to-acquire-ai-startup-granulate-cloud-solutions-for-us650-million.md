@@ -84,6 +84,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Intel To Acquire AI-Based Startup Granulate"
+    excerpt: "The AI-based startup helps customers reduce CPU utilization and application latencies by learning their application and deploying a customized set of continuous optimizations. The takeover deal has been widely reported for the past week. The transaction ..."
+    publishedDateTime: 2022-03-31T15:07:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/intel-to-acquire-aibased-startup-granulate-2795672"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 37
+    images:
+      - url: "https://i-invdn-com.investing.com/news/moved_LYNXNPEI2E0UI_L.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Intel confirms acquisition of Israeli cloud service startup Granulate, terms not disclosed"
     excerpt: "Intel Corporation (INTC) has signed an agreement to acquire Granulate Cloud Solutions, an Israel-based developer of real-time continuous optimization software.The acquisition"
     publishedDateTime: 2022-03-31T12:46:00Z

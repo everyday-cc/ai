@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Alkami to Acquire Segmint Inc., Leading Financial Data Analytics and Transaction Cleansing Provider"
-    excerpt: "Acquisition combines Segmint's data insights with Alkami's digital account opening and digital banking capabilities to activate financial institutions' user data along the account holder journey"
-    publishedDateTime: 2022-03-28T12:01:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/alkami-to-acquire-segmint-inc-leading-financial-data-analytics-and-transaction-cleansing-provider/article_16385016-89f4-53ce-aa6b-7f207d536693.html"
+  - title: "Taiwan Life Insurance’s App, Powered by Lydia AI, Wins a Celent Model Insurer Award 2022 in Data, Analytics, and AI"
+    excerpt: "Lydia AI announced that its client Taiwan Life Insurance has received a Celent Model Insurer award for Data, Analytics and AI for their use of external open health data for digital accelerated underwriting in the company’s mobile health score application powered by Lydia AI."
+    publishedDateTime: 2022-03-28T13:02:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/taiwan-life-insurance-s-app-powered-by-lydia-ai-wins-a-celent-model-insurer-award/article_46a7c78b-39cb-51c8-b237-4954ea70ea1e.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 10
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 15
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/5a/d5a2d60d-6218-5c2b-bcff-6de937cdbcfd/61f16357d04bb.image.jpg?crop=857%2C450%2C133%2C0&resize=857%2C450&order=crop%2Cresize"
-        width: 857
-        height: 450
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
         isCached: true
   - title: "Alkami to acquire Segmint Inc., leading financial data analytics and transaction cleansing provider"
     excerpt: "Alkami Technology, Inc. (Nasdaq: ALKT) (“Alkami”), a leading cloud-based digital banking solutions provider for US financial institutions (FIs), announced it has entered a definitive agreement to acquire Segmint Inc."
