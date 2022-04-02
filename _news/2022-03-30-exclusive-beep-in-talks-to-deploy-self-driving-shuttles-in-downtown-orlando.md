@@ -65,20 +65,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving vans from Toyota and Aurora partnership start testing in Texas"
-    excerpt: "They are testing in the Dallas-Fort Worth area, where Aurora has been testing self-driving semi-trailer trucks since 2020. Some of the conditions the prototypes are faced with inc"
-    publishedDateTime: 2022-03-28T14:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1135428_self-driving-vans-from-toyota-and-aurora-partnership-start-testing-in-texas"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 22
-    images:
-      - url: "https://images.hgmsites.net/hug/toyota-and-aurora-self-driving-car-prototype_100834160_h.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Winter Haven testing self-driving shuttle that could help its downtown flourish"
     excerpt: "Haven, it’s an idea still heating up and one the city is still studying. Monday, commissioners approved a Memorandum of Understanding with COAST to begin studying the transit system and the feasibility of bringing it to Downtown Winter Haven full time."
     publishedDateTime: 2022-04-01T12:38:00Z

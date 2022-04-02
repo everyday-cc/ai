@@ -30,49 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI democratization will bring more power to the enterprise"
-    excerpt: "Using techniques like natural language processing (NLP) and neural networking, AI will very likely bring an end to the graphical user and even command line interfaces, which require a fair amount ..."
-    publishedDateTime: 2022-03-28T13:32:00Z
-    webUrl: "https://venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/"
-    ampWebUrl: "https://venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/amp/"
+  - title: "Fell Asleep During That Zoom Meeting? Otter AI Will Fill You In"
+    excerpt: "AI service will automatically capture the key talking points from online meetings, in case you weren't paying attention!"
+    publishedDateTime: 2022-03-29T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/"
+    ampWebUrl: "https://www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/ai_democratization.jpg?fit=800%2C534&strip=all"
-        width: 800
-        height: 534
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6242c3659a2e14fe944650f5/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "OmniML exits stealth with $10M to bring more powerful AI to the edge"
-    excerpt: "A startup called OmniML stepped out of the shadows today, armed with $10 million in seed funding to pursue its mission of accelerating artificial intelligence on low-powered devices at the network edge."
-    publishedDateTime: 2022-03-29T16:34:00Z
-    webUrl: "https://siliconangle.com/2022/03/29/omniml-exists-stealth-10m-bring-powerful-ai-edge/"
+  - title: "Otter's AI now spares you the pain of summarizing meetings"
+    excerpt: "The new version should make it easier to translate meetings into real-world decisions, too. Otter is introducing a \"Meeting Gems\" panel that can create to-do entries and highlight crucial moments by highlighting segments from the notes."
+    publishedDateTime: 2022-03-29T12:41:00Z
+    webUrl: "https://www.engadget.com/otter-ai-meeting-summary-120032728.html?src=rss"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
+      name: Engadget
+      domain: engadget.com
+    quality: 67
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/cctv-security-technology-with-lock-icon-digital-remix.jpg"
-        width: 5000
-        height: 3333
-        isCached: true
-  - title: "Ulta Beauty & Haut.AI partner to bring new era of beauty and healthcare with AI-powered hyper-personalization"
-    excerpt: "Haut.AI, a leading research and development company specializing in next-generation artificial intelligence for skincare and longevity, announced a strategic partnership with Ulta Beauty, the largest beauty retailer in the United States."
-    publishedDateTime: 2022-03-29T14:14:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/947752"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 35
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ff8d058f-1d38-4160-b965-a43684191c1e/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 225
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-03/ce5fc620-aecb-11ec-9fde-98efe51417d3"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "ZLOOpYwD5jprTkbHRKU9L5/cnZVnEsCx7B+O9hecifMnIRxVbdLEyqAGU/HTD4VebkpMoDL9kf/Au6o08wUWeLcE5XsWZfW1Qqv7qICGBdscmQYhnK83WaxXhpbKE4ZlHy7B+eqUpXWJB+p+hjjwACcZgm2EAdLyKwPuWUTp7P0U0AWcQY2oY+fiADsv108/6JPl8Gf/lrvwQM2ZE368REpKjZlH6URgx8ZP7aHqRXc7dfc6juwBoivD0Xcu+/8OZkZQy7nfBrrvxUkxUUK5z2FVnNuaA0InL5I2x5TzgivMt8AQAkpzdriyuOsZQDL5qGn7GweuMOfxlI4cApQsmmw/om7C2edecujfOu2mGjreOAQj4WVSQdfuLu8Bl2UCIcLdvZUPEKKRYDLmHBOuuV7r6YfL2mLU48m9c4CaQn+3vJFvVDIbfseN8kpZI780Wrjluwfw31y/Kf4VBTsp1wrOodugO83zkxeIzEy4nZapXQbdZfTnevJuz9ZuZwzcynWQOgmytCUMQuXo0ZSl2w==;0o8q8DXWPADoxqhRudXnAg=="

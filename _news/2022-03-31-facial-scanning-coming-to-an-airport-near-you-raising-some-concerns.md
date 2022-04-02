@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-03-facial-scanning-airport.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-facial-scanning-airport.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1920
     height: 1274
     isCached: true
-
-related:
-  - title: "Facial Scanning Coming to an Airport Near You, Raising Some Concerns"
-    excerpt: "It’s only a matter of time before New England air travelers join others across the country in experiencing a new airport screening method that seems ripped straight from the pag"
-    publishedDateTime: 2022-03-28T14:39:00Z
-    webUrl: "https://www.aviationpros.com/aviation-security/news/21261914/facial-scanning-coming-to-an-airport-near-you-raising-some-concerns"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 19
 
 secured: "hEwgttUmvwhBdslrX+ZXVdg/7BvnCtPGxzUQ820Eah5FviibR5z8GJ2iGqQfwE+v5T6BeMw38X7WOpHRka66/z48csHq6T671Jukdp5TUaIaJZ/pS8OU/1Qrt1Bs7L2N6qBcVhSGFHhqgVcPDbDtMFsGI/NkfddXovph4OLQMrwtbxv+GaYd21JRy6txQ/uxCxWcokCzViTsGG+lBiqrfzUDJcCHeKToI7MlDqHOQaFQo/1L+tNGh1CbEXQSfWXBswiS2m9KAd7R/fxrhYZAYl4v0BCvY9PaUJylV98Gj0jHah0u5acEWtyyRLw8hWXdmWB4quoStJYwHFELiB9HwyNFFdx0U4tVXgO4y+TC8cWtjIGcR4mSygTVgOnpe94TuvRQPSe8m0+dchlCbuOBz3p7V/HXsFpGuzx41jsfeyQFOdFN6lT/QMPaWEdrWV7geShu4DblQm4R78VsnMfxN7ynLedTJbHQLaljlPA8F6XoL2SZQrfxKu5T45VXNtNgdquFSxEjK9cyDRmxHe2q7w==;9XadOymqxyL1xeFvElUw3Q=="
 ---

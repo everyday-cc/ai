@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "New fund targets early stage African AI start-ups"
+    excerpt: "The Swedish AI Fund (SAIF) is an NGO with the purpose of providing financial aid, grants, and scholarships globally to those who are working, researching, and/or involved in the AI industry towards equality,"
+    publishedDateTime: 2022-04-01T07:27:00Z
+    webUrl: "https://it-online.co.za/2022/04/01/new-fund-targets-early-stage-african-ai-start-ups/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 17
   - title: "Is RegTech the answer to South African financial institutions’ ineffective terrorist financing controls?"
     excerpt: "Using machine learning, new transactional patterns that highlight potential terrorist financing can be detected without human intervention, says Francois Combrinck, capability architect at Ovations."
     publishedDateTime: 2022-03-30T09:06:00Z

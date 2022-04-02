@@ -1,22 +1,30 @@
 ---
 category: news
-title: "AMD reminds us that its mobile GPU is more powerful than Intel's"
-excerpt: "Intel had a pretty exciting week with the announcement of its Arc 3 laptop GPUs. During its presentation, Intel showed off several slides showing how the Arc 3 mobile graphics silicon fares against their own previous gen Iris X."
-publishedDateTime: 2022-04-01T17:26:00Z
-originalUrl: "https://www.pcgamer.com/au/amd-reminds-us-that-its-mobile-gpu-is-more-powerful-than-intels/"
-webUrl: "https://www.pcgamer.com/au/amd-reminds-us-that-its-mobile-gpu-is-more-powerful-than-intels/"
+title: "Intel Shows Off its First Ever Desktop Gaming GPU"
+excerpt: "Intel debuted its first Arc GPUs today for laptops, and also gave us a first look at the desktop Arc GPUs via an official teaser image. Perhaps"
+publishedDateTime: 2022-04-02T07:15:00Z
+originalUrl: "https://propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/"
+webUrl: "https://propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/"
+ampWebUrl: "https://propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/amp/"
+cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/amp/"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: PC Gamer
-  domain: pcgamer.com
+  name: ProPakistani
+  domain: propakistani.pk
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://propakistani.pk/wp-content/uploads/2022/04/intel-1.jpg"
+    width: 1000
+    height: 560
+    isCached: true
 
 related:
   - title: "Intel ARC Invades The Dedicated GPU Market With Truly Exciting Features"
@@ -97,22 +105,6 @@ related:
         width: 1648
         height: 927
         isCached: true
-  - title: "Intel Shows Off its First Ever Desktop Gaming GPU"
-    excerpt: "Intel debuted its first Arc GPUs today for laptops, and also gave us a first look at the desktop Arc GPUs via an official teaser image. Perhaps"
-    publishedDateTime: 2022-04-02T07:15:00Z
-    webUrl: "https://propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/"
-    ampWebUrl: "https://propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 59
-    images:
-      - url: "https://propakistani.pk/wp-content/uploads/2022/04/intel-1.jpg"
-        width: 1000
-        height: 560
-        isCached: true
   - title: "Intel Shows off the First Arc A-Series Desktop GPU; Slated to Release in Summer 2022"
     excerpt: "Intel has revealed its first Intel Arc desktop GPU, along with its A-series Arc Gaming GPUs for laptops. Here are the details to know."
     publishedDateTime: 2022-03-31T06:49:00Z
@@ -185,7 +177,16 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "AMD reminds us that its mobile GPU is more powerful than Intel's"
+    excerpt: "Intel had a pretty exciting week with the announcement of its Arc 3 laptop GPUs. During its presentation, Intel showed off several slides showing how the Arc 3 mobile graphics silicon fares against their own previous gen Iris X."
+    publishedDateTime: 2022-04-01T17:26:00Z
+    webUrl: "https://www.pcgamer.com/au/amd-reminds-us-that-its-mobile-gpu-is-more-powerful-than-intels/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 19
 
-secured: "t2A34PRhJ4ofmr6FvogGgePQmy40R4wdIewE+gbTuAYMqU3fj9uIRosjtnBOqFrFUwOjT6ec5UULvGYeX60YQpWptgA8qNB4Sb3hpgkPI8I3C1jTzL+6rojOqY1R48X8mz9MxBByFbvgjL4ZJcW/XnhZsFxAlewrBeZolVPWsfkAZk/aNI7JA7F0ppWQhHqcqsP4rp+Ue6TwGWeN+gVjbNcBJT5LCHXV3dvmchrG2tX63JHF47OmmJAhhZXaF4mI1yZFLdQT4DR0Id3DylyMr3EvBOoPjlZU08R5OUCXmkxozLWjY50G910zyJ/TdYgxLfR5Y4xYHKPrk4pVs69RgyOd5BlCBvOZScpM5ANLgunJruF9zKlIHzVCfzVLWKVSmvoRBlCgwyAIZKTWTW1qhQkVfrtNEpZyJfBlraYQY71kUnSOFEYaR59z0v/fu/FOD/CJWljANxbC9+8JonukWC4rvicBz2JA9zv6Yb72UxtJh0MxNQN70UI56V7++Ql4FnXOpR0m5MRh1Tk5Tw5sJg==;XkCJtM1g4roaCQYoVWNvNA=="
+secured: "zpI0GX/r+CSUS3U68nZSCDhedAxPzAPSJNNHEwigJS+Q6D8S9noQ/ul0Qcql39yD1PlJLc1MJY/jsl2WkfvMZN1Ap+bpZcQcyKY7tOUOYZ2+IDhvMNRtyulkmISQeUaBn3lPw0bDzgxkBIzW/Nc0ypBCn9pEuRMIO5asV4EJkqOiqaafAbydwoJiFWlP3qrfsYUqyvTyKdVf6I+oxP3TdtzaT47OkK8hyREAHyMYUDH0WYnl75NtjMZQwkNAEhCwALxkwoDYPbTJNK2H5WxKQTZWe0UA0/a1IAKnN4qGYVfNe05E2Wcdwm0Th8lYRqtdMOGxL5Hqbxcxmi9MwRPx27k9valgUagGbMJnCsxSnXA=;mOLcR9pAl0k66ktu/mS1eA=="
 ---
 

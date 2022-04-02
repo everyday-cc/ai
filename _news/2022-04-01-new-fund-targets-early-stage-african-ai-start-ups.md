@@ -18,22 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "African Governments must embrace Artificial Intelligence – Dr. Kpodar"
-    excerpt: "African Governments must embrace Artificial Intelligence AI Dr. Chris Kpodar, Chief Technical Advisor, Centre for Greater Impact Africa, CGIA has stated."
-    publishedDateTime: 2022-03-28T13:53:00Z
-    webUrl: "https://www.modernghana.com/news/1148074/african-governments-must-embrace-artificial-intell.html"
-    ampWebUrl: "https://www.modernghana.com/amp/news/1148074/african-governments-must-embrace-artificial-intell.html"
-    cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1148074/african-governments-must-embrace-artificial-intell.html"
+  - title: "3 African institutions partner to use artificial intelligence to tackle climate change"
+    excerpt: "The West African Science Services Centre on Climate Change and Adapted Land Use (WASCAL) in partnership two other institutions, RUFORUM, an organisation made up of African universities working to promote agricultural development and"
+    publishedDateTime: 2022-03-30T12:09:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/3-African-institutions-partner-to-use-artificial-intelligence-to-tackle-climate-change-1503218"
     type: article
     provider:
-      name: Modernghana.com
-      domain: modernghana.com
-    quality: 57
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 29
     images:
-      - url: "https://cdn.modernghana.com/images/content/328202210514-k5fri7u2h0-dr-kpodar-third-from-left-with-other-officials-.jpg"
-        width: 800
-        height: 490
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/581/58150522.jpg"
+        width: 600
+        height: 225
         isCached: true
+  - title: "Is RegTech the answer to South African financial institutions’ ineffective terrorist financing controls?"
+    excerpt: "Using machine learning, new transactional patterns that highlight potential terrorist financing can be detected without human intervention, says Francois Combrinck, capability architect at Ovations."
+    publishedDateTime: 2022-03-30T09:06:00Z
+    webUrl: "https://www.itweb.co.za/content/WnpNgM2KDm2qVrGd"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/WnpNgM2KDm2qVrGd"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/WnpNgM2KDm2qVrGd"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 7
 
 secured: "lFXSMB1vvWU6PNiKqbyQa4VyP7XsFEHp4JwntDqXZPSc2UAILsPYPVZAeU8wGxrlJbYNllHtxhtGZpHnNf1sBH/UykXnD/oN5GBzLMB0wiLtd0hBTQDUprjJenKSv3QG1aoAOjfl4LeOHV1AyAyaJDMG1wlIexwnJxMnaxtY85SuvJKJ6WHYnNLKX/Q/lwbVww0JllNFVfzFygRFj5hZRVtUm255fceaR60NmrEW36gtxSpUUoCcLKtjZAToF4OaGdn3rh/krhCaKtP4n5bq5K4BQSOmc2xVOEGGaBEHjpMcfO0EiEG3G1cwPjc9H79EcPxAlOUiHUD5gOdRvm0O35Lav0lWpzPuWy+o2xFiTsE=;SNwV/J+uZfIgwWMSGabfBg=="
 ---

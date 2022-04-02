@@ -3,8 +3,8 @@ category: news
 title: "Meta A.I. Department Thins Out"
 excerpt: "Facebook parent Meta (NASDAQ:FB) has lost some of its top artificial intelligence scientists this year as the company continues its pivot toward the metaverse. At least four prominent members of Meta AI have departed in recent months,"
 publishedDateTime: 2022-04-01T14:05:00Z
-originalUrl: "https://www.baystreet.ca/articles/techinsider/76100/040122"
-webUrl: "https://www.baystreet.ca/articles/techinsider/76100/040122"
+originalUrl: "https://www.baystreet.ca/articles/techinsider/76100/Meta-AI-Department-Thins-Out"
+webUrl: "https://www.baystreet.ca/articles/techinsider/76100/Meta-AI-Department-Thins-Out"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "cJ6loj50ojJlS20aaP5cSmYzXFxou+GA8QJIzSLnAURvQJ26EijR/gBEvwF2jk4QcQUeLRXQW8PKmZbgavkTkYBrUb9MkekQyZuJp2KhNr/TS11eJO9aCx3mcHMdPppHdB36A73RCbvq3bhI+q9Tj7DL8V72S6+Dz9SFKrhJhA3kzFG0GUwSe7xU8+cNVVXncpQ98WPQN2o4SLdT7HrFolxLN+ca8eh74mYhFKC9gl3jJ7NVyecP3IHmkE/SyW33fOt2jrHr3aInwLSbO9f96xC91HFrgI0XDNg6sFUwGHmkox0z2eQofKunfdDUjFbNnRan0s5zt5PD2nBFZmvGcNmeUW+3z9qf3c/mFhThh3NOz3QwHGX59A6MpszYb1pvD5MWo0Or46T19WNmkYRoRdVwiz7z4xAwPnEpUcGBHa02f+pS1lrPGOhGSbwpvIOUHvDwioQAoXG2Tu4k59+q2L3sSRD2SRHHnd+uAymsY5idoUXVAMcdlx6Z6JFJ2u30ltW8nhc3X5UeYhu7exr3sg==;pDV74hjuj+Uc+4XLtHWZHQ=="
+secured: "872UDi5UvsV/CmEcxbbYpHk4lQ6+IFs89cRNus8HSrEIcGaJrosKTLnS6uWWwrpoImrZZNlTjc/iPB7ek6ejX3bKCeO+p79d0t/RlwkodVCPl9IaUHNAlK/tjUMVTJQZQDac95/tO06r7Uc+4X5VTnrM4B9dHvQ14XIgfcW0CZP01YnI87ISFXP7Hnk9paUTAvFLDEtvHZJdh+X2v0PBGsFvbG66139ak87HvSKt8H+Gk/7XVnRED1sNxjkhZ9JlZ65fiuEIkvkdJv4hrsofhochkM+emjSRsYlIPOiSXCNKCADRgM0aCdnwGU9lzqeS8HkmC5O4iOn+v3g8Qt9wSySOJLBaW9EzTSwshyVmSpQ=;DeAzQQRtpIw2tGGQAF0T5Q=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.joplinglobe.com/region/national_business/baker-mckenzi
 webUrl: "https://www.joplinglobe.com/region/national_business/baker-mckenzie-survey-as-usage-of-artificial-intelligence-proliferates-companies-may-underestimate-ai-s-business/article_7924c27c-0493-52c4-aed3-767b18ba941a.html"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 300
     height: 250
     isCached: true
+
+related:
+  - title: "Survey: Local TV Managers Support Using AI In Newsgathering"
+    excerpt: "The Associated Press has surveyed local TV, radio, print and digital news outlets on their use and understanding of artificial intelligence in their operations"
+    publishedDateTime: 2022-03-31T16:36:00Z
+    webUrl: "https://www.tvtechnology.com/news/survey-tv-radio-digital-managers-support-using-ai-in-newsgathering"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/UVp4toMBipUZUtxdepAUBb-1200-80.jpg"
+        width: 726
+        height: 408
+        isCached: true
 
 secured: "y8dqsURbkHm2eoozXf0c6rUgF/wIHtD9wmVVqNepl8JhbEHR/6d7INeHICGd+JKfCp+gcggs6EzKglIHhYKBWC8eV+uVply2ggVL394Lp2PMhGMBvuln5xoCSLT3c1kmkjVXYtw2vf7N504j998JkzLqgpkPWhsVTEj20zPYZ8BkWnnqRvZr8lFaD2/dtYqgBM2TgZhp6hEizH/e+etJdGJLlkahPuhKByCxMCgCSQuXAuY5aWBu37faaSM4smXD0VdoULGj1iRUl80HoXL1jf7eMSrVmGR8Jn36kOe8uRde595YFzT6AhtdeqSP1KNev8k/xr3BAFSt+kMSoEyieW62f0I7WJawJqIgRQoY4CSTvTeCKL7Su4OT4nGEXdxLgbLwKiD91f5q3j5c/2B/xEj2UjZ2Ybg78kmja/Kzinl+6hq/1QVitz7vIjWkLG+SmGQShRUlsILo7Yk4udTBn1E8yAuPyaVn8y4rpoPTwjL+swXZM6r4WaVBJSpvzq3wfcyJbyCebkKYEmvXeBOj3w==;XEwKxR3/J1aV3g+zcTz/HA=="
 ---

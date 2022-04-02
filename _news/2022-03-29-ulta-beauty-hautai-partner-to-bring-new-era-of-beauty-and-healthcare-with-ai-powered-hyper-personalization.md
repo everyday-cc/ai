@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/947752"
 webUrl: "https://www.eurekalert.org/news-releases/947752"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -25,51 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI democratization will bring more power to the enterprise"
-    excerpt: "Using techniques like natural language processing (NLP) and neural networking, AI will very likely bring an end to the graphical user and even command line interfaces, which require a fair amount ..."
-    publishedDateTime: 2022-03-28T13:32:00Z
-    webUrl: "https://venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/"
-    ampWebUrl: "https://venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/amp/"
+  - title: "Innovative AI skincare company Haut.AI partners with retail giant Ulta Beauty to revolutionise the beauty and skincare industry"
+    excerpt: "The AI-powered, hyper-personalised skin and beauty technology partnership that’s disrupting the beauty industry"
+    publishedDateTime: 2022-03-29T19:15:00Z
+    webUrl: "https://cosmeticsbusiness.com/news/article_page/Innovative_AI_skincare_company_HautAI_partners_with_retail_giant_Ulta_Beauty_to_revolutionise_the_beauty_and_skincare_industry/199828"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Cosmetics Business
+      domain: cosmeticsbusiness.com
+    quality: 9
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/ai_democratization.jpg?fit=800%2C534&strip=all"
+      - url: "https://hpcismart.com/images/website/ProductProfiles/DIR_68/F_121735.png"
         width: 800
-        height: 534
-        isCached: true
-  - title: "Otter.ai rolls out a new AI-generated meeting summary feature and more collaboration tools"
-    excerpt: "AI-powered voice transcription service Otter.ai is releasing a set of new meeting-focused features to boost collaboration, the company announced on Tuesday. Most notably, the company is adding a new “Automatic Outline” feature that uses Otter’s proprietary AI to automatically"
-    publishedDateTime: 2022-03-29T16:20:00Z
-    webUrl: "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/"
-    ampWebUrl: "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 77
-    images:
-      - url: "https://i.ytimg.com/vi/vdmHxFwZCCU/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "OmniML exits stealth with $10M to bring more powerful AI to the edge"
-    excerpt: "A startup called OmniML stepped out of the shadows today, armed with $10 million in seed funding to pursue its mission of accelerating artificial intelligence on low-powered devices at the network edge."
-    publishedDateTime: 2022-03-29T16:34:00Z
-    webUrl: "https://siliconangle.com/2022/03/29/omniml-exists-stealth-10m-bring-powerful-ai-edge/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/cctv-security-technology-with-lock-icon-digital-remix.jpg"
-        width: 5000
-        height: 3333
+        height: 600
         isCached: true
 
 secured: "KnkXwWRmwEt1EVaZAIJSjxR4aIaQphf5Jk7aBJegr2lkhzlZXQOJb5jJfbf4HUG5IfVGsW9T1tZ9IkQBQ0dCWYwjlik8s1cabmvdnoTvciXi6hQh4tSicfREj1Mwsv5LZsNGAOX3QHfa+AixodCoVHe6tLlnbkUOgOqFYoiaHTQ2z4UQenz1jtE4rYdOqBqjQixHCDV6IjWBZWBG5LQirPvqw9w02wVRm7IAZbRXyR1ulsTooxc/v5wINnPhbStJCclDxEOosiud+mqVzuPNXjPLdmNbr97T8dEGjYtczOtoZ1etKA1KMNIj7au7nN/4gX9hKyOFuS/ywaaFckBArphhO8dsNTUxoswNE+E/xvVrjoHXu1KcR7iDVg417qw0JbDEOS2dDL5j2BUQusZEOfs0MNJY11y/hz6fQWtfZVdxGJMr2FDbUKljfpKNF2NvGtJDZxsdyfxggsyydjU7l6NlUvPaJn3EK3ZJBq305DsnJ23wNVC7VALoBX8zr3jl7WDkrTmWG2D5r+LmIT7IgQ==;SSiLxOP2/hGga3n5S67VIg=="

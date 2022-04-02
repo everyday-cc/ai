@@ -23,22 +23,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Tesla’s head of AI is on sabbatical and people are worried"
-    excerpt: "Elon Musk announced that Tesla’s head of AI, Andrej Karpathy, is on a four-month sabbatical, and people are worried since other Tesla execs have left after going on sabbatical. It comes as Tesla expands its Full Self-Driving (FSD) Beta to Canada."
-    publishedDateTime: 2022-03-28T14:28:00Z
-    webUrl: "https://electrek.co/2022/03/28/tesla-head-ai-andrej-karpathy-sabbatical-people-worried/"
-    ampWebUrl: "https://electrek.co/2022/03/28/tesla-head-ai-andrej-karpathy-sabbatical-people-worried/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/03/28/tesla-head-ai-andrej-karpathy-sabbatical-people-worried/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 106
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/03/Andrej-Karpathy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla's head of AI is on four-month sabbatical"
     excerpt: "Tesla CEO Elon Musk has announced that the electric vehicle company's head of AI, Andrej Karpathy, is on a four-month sabbatical, and people are worried since other Tesla executives have left after going on sabbatical."
     publishedDateTime: 2022-03-29T13:23:00Z

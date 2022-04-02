@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-dur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Otter.ai rolls out a new AI-generated meeting summary feature and more collaboration tools"
+    excerpt: "AI-powered voice transcription service Otter.ai is releasing a set of new meeting-focused features to boost collaboration, the company announced on Tuesday. Most notably, the company is adding a new “Automatic Outline” feature that uses Otter’s proprietary AI to automatically"
+    publishedDateTime: 2022-03-29T16:20:00Z
+    webUrl: "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/"
+    ampWebUrl: "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 77
+    images:
+      - url: "https://i.ytimg.com/vi/vdmHxFwZCCU/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Otter's AI now spares you the pain of summarizing meetings"
     excerpt: "The new version should make it easier to translate meetings into real-world decisions, too. Otter is introducing a \"Meeting Gems\" panel that can create to-do entries and highlight crucial moments by highlighting segments from the notes."
     publishedDateTime: 2022-03-29T12:41:00Z

@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Otter.ai rolls out a new AI-generated meeting summary feature and more collaboration tools"
+    excerpt: "AI-powered voice transcription service Otter.ai is releasing a set of new meeting-focused features to boost collaboration, the company announced on Tuesday. Most notably, the company is adding a new “Automatic Outline” feature that uses Otter’s proprietary AI to automatically"
+    publishedDateTime: 2022-03-29T16:20:00Z
+    webUrl: "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/"
+    ampWebUrl: "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 77
+    images:
+      - url: "https://i.ytimg.com/vi/vdmHxFwZCCU/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
 
 secured: "NENEK2FlcNmsrHVxpp/nDkKkBRNhyJCS8VolUwXGayBeGxLtLSDgRDX40QQZhTGJ3fxlHMO9RInraoh3+hmBJAzIRT39uX48knlIfZVZvx5Ga4EMHf1RKwp8iUDs5uZGU+NKcPQ1XrUSULzM8oOv5mpycMzWBkbPkJY8ddgYxaqeldxRurLvrahs+hLW/BpZdxxoEUURw8JytT3TFQc3ndOHwnqlGnnJ6aOs2KjuWFik8j+BDKexCtBuVMPr8ew4GdbCSmXcAeEuGSc7ErLibJnNSaVgVg20r0wjZ0JG9qw77e/fTkuS1ClrKxJddtz39FEbxmHFqnA4Ylhc0FFlyQK7/1y8k0a+sV4JuXY6vP0XAfqy0aryeehH3IQmthr3nH3aEw7EbhBdeBghQP1SphEcRpwmq1f6o7GFh50RoX2kTVtEzk+xHZUQzKINE+Vt0bGJlMsXoFDDmTdKckaU8Eug+3eZWVjX8JsPUSaLDc6CY3j2u6wqIcRAFJlbwpFHcmqltUbyrAdfaoq3epAgpg==;vTDLT2xMRjCwotN6bCwbpg=="
 ---
