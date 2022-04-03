@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/947752"
 webUrl: "https://www.eurekalert.org/news-releases/947752"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -25,29 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Seeed and alwaysAI Partner to Accelerate Deploying Computer Vision at The Edge"
-    excerpt: "Today, Seeed, an AIoT hardware service platform, and alwaysAI, a computer vision software platform leader, announced their partnership to advance the development and deployment of computer vision applications on the edge."
-    publishedDateTime: 2022-03-29T12:39:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-seeed-alwaysai-partner-accelerate-deploying-computer-vision-the-/2022/03/29/9572354.htm"
+  - title: "Otter.ai rolls out a new AI-generated meeting summary feature and more collaboration tools"
+    excerpt: "AI-powered voice transcription service Otter.ai is releasing a set of new meeting-focused features to boost collaboration, the company announced on Tuesday. Most notably, the company is adding a new “Automatic Outline” feature that uses Otter’s proprietary AI to automatically"
+    publishedDateTime: 2022-03-29T16:20:00Z
+    webUrl: "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/"
+    ampWebUrl: "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
-  - title: "Innovative AI skincare company Haut.AI partners with retail giant Ulta Beauty to revolutionise the beauty and skincare industry"
-    excerpt: "The AI-powered, hyper-personalised skin and beauty technology partnership that’s disrupting the beauty industry"
-    publishedDateTime: 2022-03-29T19:15:00Z
-    webUrl: "https://cosmeticsbusiness.com/news/article_page/Innovative_AI_skincare_company_HautAI_partners_with_retail_giant_Ulta_Beauty_to_revolutionise_the_beauty_and_skincare_industry/199828"
-    type: article
-    provider:
-      name: Cosmetics Business
-      domain: cosmeticsbusiness.com
-    quality: 9
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 77
     images:
-      - url: "https://hpcismart.com/images/website/ProductProfiles/DIR_68/F_121735.png"
-        width: 800
-        height: 600
+      - url: "https://i.ytimg.com/vi/vdmHxFwZCCU/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
+  - title: "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices"
+    excerpt: "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment"
+    publishedDateTime: 2022-03-29T15:42:00Z
+    webUrl: "https://www.lelezard.com/en/news-20309928.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 39
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "New program bolsters innovation in next-generation artificial intelligence hardware"
+    excerpt: "MIT today announced the launch of the MIT AI Hardware Program which will include five inaugural companies joined together with the aim of advancing transformative AI technologies for the next decade."
+    publishedDateTime: 2022-03-29T13:16:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/947787"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 11
 
 secured: "KnkXwWRmwEt1EVaZAIJSjxR4aIaQphf5Jk7aBJegr2lkhzlZXQOJb5jJfbf4HUG5IfVGsW9T1tZ9IkQBQ0dCWYwjlik8s1cabmvdnoTvciXi6hQh4tSicfREj1Mwsv5LZsNGAOX3QHfa+AixodCoVHe6tLlnbkUOgOqFYoiaHTQ2z4UQenz1jtE4rYdOqBqjQixHCDV6IjWBZWBG5LQirPvqw9w02wVRm7IAZbRXyR1ulsTooxc/v5wINnPhbStJCclDxEOosiud+mqVzuPNXjPLdmNbr97T8dEGjYtczOtoZ1etKA1KMNIj7au7nN/4gX9hKyOFuS/ywaaFckBArphhO8dsNTUxoswNE+E/xvVrjoHXu1KcR7iDVg417qw0JbDEOS2dDL5j2BUQusZEOfs0MNJY11y/hz6fQWtfZVdxGJMr2FDbUKljfpKNF2NvGtJDZxsdyfxggsyydjU7l6NlUvPaJn3EK3ZJBq305DsnJ23wNVC7VALoBX8zr3jl7WDkrTmWG2D5r+LmIT7IgQ==;SSiLxOP2/hGga3n5S67VIg=="
 ---

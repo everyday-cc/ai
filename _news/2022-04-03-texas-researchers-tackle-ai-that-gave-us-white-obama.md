@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Texas researchers tackle AI that gave us ‘White Obama’"
-excerpt: "UT’s Machine Learning Lab held a public lecture Friday titled, “AI for Accurate and Fair Imaging.” Researchers with the lab’s Institute for Foundations of Machine Learning (IFML ..."
-publishedDateTime: 2022-04-02T23:08:00Z
-originalUrl: "https://fox2now.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/"
-webUrl: "https://fox2now.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/"
-ampWebUrl: "https://fox2now.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
-cdnAmpWebUrl: "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
+excerpt: "UT’s Machine Learning Lab held a public lecture Friday titled, “AI for Accurate and Fair Imaging.” Researchers with the lab’s Institute for Foundations of Machine Learning (IFML) have been working to improve the algorithm that in 2020 produced an ..."
+publishedDateTime: 2022-04-03T02:10:00Z
+originalUrl: "https://www.wavy.com/news/technology/texas-researchers-tackle-ai-that-gave-us-white-obama/"
+webUrl: "https://www.wavy.com/news/technology/texas-researchers-tackle-ai-that-gave-us-white-obama/"
+ampWebUrl: "https://www.wavy.com/news/technology/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
+cdnAmpWebUrl: "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Fox2Now St. Louis
-  domain: fox2now.com
+  name: WAVY
+  domain: wavy.com
 
 topics:
   - AI
 
 images:
-  - url: "https://fox2now.com/wp-content/uploads/sites/14/2022/04/OBAMA-AI.jpg?w=1280"
+  - url: "https://www.wavy.com/wp-content/uploads/sites/3/2022/04/OBAMA-AI.jpg?w=1280"
     width: 1122
     height: 629
     isCached: true
@@ -43,6 +43,6 @@ related:
         height: 629
         isCached: true
 
-secured: "g3vu9P1Cde1ArAYHtkB1lPCYDYsnMNPFCHQ5Gtpb/IEhJfVgPu1t43XLq4WiP3ZnuWI8LRtvjbutOLoOLRdPh8hAkHPRnp42b/bi0cIn3J9Jz6I71M6JG1HGFrC9utO1rsHGNYbXwB2v9VYG5p/qOaZmegOq+WlnVFHxgzfbOucHDiFoIg6eHV+Vn1d2zR/g3mZmQjPti9VdWlmoRmPyjFzpIBOZNmRGghuuFRZxgvRLMKHz1rvFY1n/I0usOCqdqMd5Zht0Aj/yJOJId5tLb8QIZ9io50CdocvUpf2k97kURCqEbrw/HycFcBrlcfdqjA6uQD8pe9T7zX09G+HqChxHxVBuu9oLe0ddcnhxA7/Ap+TI5dAk3lnl2U0RttYkH+NkJzFZBssATSvBESvAYGyzEC61mG/Rz6nybQAzCU7ectarR1EkmitBeCij1qUqjO/ChmZWjA+BXBn07W1BNgM9Q7LHzqK0gRN5RVIg7om+9hocaQaHZ5WREZyPKeEgvTi9ff8i11r7u/zoO1qb6Q==;3Q5POl9prEJ2bMU4Y6MIsw=="
+secured: "lFubQ8QDkHSf/2FQKsITrD1hoebycT0mDyBjmWwbroJoZOxwRETn10O/44MsHmzwFa5UB+TQH0/U0qjafelEi21gszR7IsbgzFFvskH6MUbUlDte9LCsWHfTcK9NEFbDSWUMDDJNakAo0pLfq6piXJJZeXoW+EM3M9312vGuWyBt8+m705DPlfkcQ1zn/N+7cejJRwZxT0bg6rVoTuMKuODz4nssC6ES8UzrUQ8+7NI6IbmuO33LL0dzYROT6bUEmMKSuhyBi/KhWqDaVVRtvROzL4wFAPlH7oJIb05QJHU+TtEpXaMKdhCdy6d9YLJKG3DNxMx/0/s314YAYpdP2axz2ak8bzm10SlOGqftEN4=;+bbiMbQXVLczr4P+IcMLfg=="
 ---
 

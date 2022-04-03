@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) Chipset Market to Garner USD 79.8 Billion With CAGR Of 40% By Forecast 2027"
-    excerpt: "Chipset Market Is Expected To Reach USD 79.8 Billion In 2027 At A CAGR Of 40%percent. MMR’s study, “Global Artificial Intelligence (AI) Chi"
-    publishedDateTime: 2022-03-29T11:29:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-artificial-intelligence-ai-chipset-market-to-garner-usd-79-8-billion-with-cagr-of-40-by-forecast-2027"
+  - title: "Pharmaceutical Robots Market Revenue to Cross US$ 383.91 million by 2028 says, The Insight Partners"
+    excerpt: "Traditional Robots Held the Largest Share by Product Segment in Pharmaceutical Robots Market During 2021–2028 NEW YORK, UNITED STATES, Mar"
+    publishedDateTime: 2022-03-29T18:01:00Z
+    webUrl: "https://menafn.com/1103929261/Pharmaceutical-Robots-Market-Revenue-to-Cross-US-38391-million-by-2028-says-The-Insight-Partners"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 32
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/15a44ea548b6d083a148f7c8b0969d98af09a227-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?873407"
+        width: 421
+        height: 250
         isCached: true
 
 secured: "R6QzESIdG4+57E3mKZXE8lJXgcBFK2y5V+B5HVIsu9zPoUXWJ1ZCYajPI+yhem/6+9tkLALQYEBTN9VmT+0Yl8hUfopDLmhxi9OHz/IyKZUP4+1E7VBmCu6WMr5EBh9MqPQcZcq7zIlaKo3Yi5R5n1aLPaf2754cqbbbTR4nfmI1dNkwjztYRYqYekLMRBflOuRubX0uj/cSaiyxS3kLR1mUYiRaAVN490EPqh7pHu6an6sINdcG5niIjtriPOM96vLqj5eui8f+F5rbiz0sQYVihm6bzfEczrCYW/xGOeGYWwwkGWauSQMbOOvE/ZO08sGTp0FD7o3VAxQ1+jxvzSFYShDLYaFSoX7j+By+KEc=;+oPQn9SXM2e9T2bZYgB9NA=="

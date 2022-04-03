@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Healthtech startup Qure.ai raises $40 million in funding led by Novo Holdings, HealthQuad"
-    excerpt: "The startup will use the capital to extend and strengthen its global reach, especially in the US and Europe, and intensify product development for critical care and community diagnostics."
-    publishedDateTime: 2022-03-29T12:15:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/healthtech-startup-qure-ai-raises-40-million-in-funding-led-by-novo-holdings-healthquad/articleshow/90520240.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/healthtech-startup-qure-ai-raises-40-million-in-funding-led-by-novo-holdings-healthquad/amp_articleshow/90520240.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/healthtech-startup-qure-ai-raises-40-million-in-funding-led-by-novo-holdings-healthquad/amp_articleshow/90520240.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 48
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-7938,msid-90520184/prashant-warier-cofounder-and-ceo-qure-ai-.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "P6mHuQwR5okNb40Rh+03bAPeAPcVgKX6TB7FgN5HYBrq1ItHiEPCzGvHo8v7TRohTqHPNhsJTpRkau+zP9wQt6t6DcT0mXANF/34h00DtwrE1xlxey+1f6AZIUT3DkStqtcSIRZOawdmR/LcdF2BL6edXOshZa44Rg7YfEgLU2pzND1MR7gFru2/vB+vcNK31C7FYF2cHHE8PDuKM5EYmVWDYeHkLdCTtCc6azoOxw3bvUKhLqGiJr7bKFu/nMdblp6XvIOfq6R+SYsGQ2VM6eAFeTZqhT1enziUGcb2A9tifBuGVxhifT7btmUalXxjEngmIuQGEqDLJDiBXPiExW8bBGyMEshsLDW+Qjg4ueOuRXWWM+/PAPrHIse4o1LUuPTK/Mrz584FQPZO8ZUrK8oUx80KC5OCLhfNKLD3tO66KwWKhQ08aOn19nxzt7i74eAwnu5cKtieX0jnz3+csOaPsyJMAKV4HS9vFiHRJMSK+5hPCVtISKXRFghmHkCsWdUqLLhgffHmIIkyxuW3+A==;lME+IcXWgHLud0/MxA8yjQ=="
 ---

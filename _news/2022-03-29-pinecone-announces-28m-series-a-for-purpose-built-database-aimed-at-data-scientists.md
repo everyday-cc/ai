@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-fo
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/amp/"
 type: article
 quality: 82
-heat: -1
-published: false
+heat: 102
+published: true
 
 provider:
   name: TechCrunch
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pinecone gears up to support next-gen web apps with AI-powered database"
-    excerpt: "Pinecone's AI-powered database is optimized to speed up queries to improve the efficiency of complex operations."
-    publishedDateTime: 2022-03-29T13:00:00Z
-    webUrl: "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/"
-    ampWebUrl: "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1352189853-1-e1648494908738.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Pinecone raises $28M to revolutionize unstructured data search with AI"
     excerpt: "Serverless vector database startup Pinecone Systems Inc. is repositioning itself as a search infrastructure technology provider, having just announced closing on a $28 million round of early-stage funding today."
     publishedDateTime: 2022-03-29T14:33:00Z
@@ -60,6 +44,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/Edo-Liberty.png"
         width: 1322
         height: 868
+        isCached: true
+  - title: "AI search startup Pinecone has raised $28 million backed by Tiger Global and Menlo Ventures — we got a look at its 18-slide Series A pitch deck"
+    excerpt: "Whether trawling through Twitter for a specific tweet, or digging out an old story on Insider, firms of all stripes rely on localized search apps."
+    publishedDateTime: 2022-03-29T13:17:00Z
+    webUrl: "https://www.businessinsider.com/pinecone-raises-28-million-series-a-for-ai-powered-search-2022-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
+    images:
+      - url: "https://i.insider.com/62418d86a2e45b001950a795?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "9VyefUBR6iZ0MafQop3qrE940WwLB4PUxX0ulb0tmcNqGFgRfMLExl3EjxEUhhHKNVP95gt+wCObGUf4stNbcJHCp7dYDnpNLnmxEq42/IfS3qOqIm//awx31ahQU8SzAS5V8JYuWrFpvGlyqNyDv6pbFPGmi+tMYi9BMS3DM/7jVZrWT00CCUUfEXAYmM5zVhu9/v+R4LVTRtoCbJd7r5XUwLr2hHRXGYMx6wN93MLv+5RPpV9SgvWqMe5HHbWGcXYOQZ5yeUzQ+/lyUcnfbmQLPpZ/vf8n89qXYM6OHJTHh1Y5oVFKxFzpLAgPBnYjFv0xU1eVccb1vWhwCiBa4Xsa38gV31/VtF/IMSvuO8T9Mj0awSVQ57oOMsRRHE6tN+F+McBWFEDmw3cn7TNJgaOzanntLXYYC3yiYV7Bk009XS1WXsjIRy4LzLXObTscboZta51Zi+EKgc7q7YKcQBxxEEzPjdwI4pWc584IsT4rCXzGK+XcYH/yRqGxP+Z0ioIM88gRt/tcZnLsxzc7Fg==;9zF0Wa3cQt5O5I4mwxzYbA=="

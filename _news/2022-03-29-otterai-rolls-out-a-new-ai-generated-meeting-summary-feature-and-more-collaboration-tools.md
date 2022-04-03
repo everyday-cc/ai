@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: TechCrunch
@@ -30,36 +30,43 @@ images:
     isCached: true
 
 related:
-  - title: "Fell Asleep During That Zoom Meeting? Otter AI Will Fill You In"
-    excerpt: "AI service will automatically capture the key talking points from online meetings, in case you weren't paying attention!"
-    publishedDateTime: 2022-03-29T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/"
-    ampWebUrl: "https://www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/amp/"
+  - title: "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices"
+    excerpt: "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment"
+    publishedDateTime: 2022-03-29T15:42:00Z
+    webUrl: "https://www.lelezard.com/en/news-20309928.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6242c3659a2e14fe944650f5/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Otter's AI now spares you the pain of summarizing meetings"
-    excerpt: "The new version should make it easier to translate meetings into real-world decisions, too. Otter is introducing a \"Meeting Gems\" panel that can create to-do entries and highlight crucial moments by highlighting segments from the notes."
-    publishedDateTime: 2022-03-29T12:41:00Z
-    webUrl: "https://www.engadget.com/otter-ai-meeting-summary-120032728.html?src=rss"
+  - title: "Ulta Beauty & Haut.AI partner to bring new era of beauty and healthcare with AI-powered hyper-personalization"
+    excerpt: "Haut.AI, a leading research and development company specializing in next-generation artificial intelligence for skincare and longevity, announced a strategic partnership with Ulta Beauty, the largest beauty retailer in the United States."
+    publishedDateTime: 2022-03-29T14:14:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/947752"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 35
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-03/ce5fc620-aecb-11ec-9fde-98efe51417d3"
-        width: 1920
-        height: 1280
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ff8d058f-1d38-4160-b965-a43684191c1e/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
         isCached: true
+  - title: "New program bolsters innovation in next-generation artificial intelligence hardware"
+    excerpt: "MIT today announced the launch of the MIT AI Hardware Program which will include five inaugural companies joined together with the aim of advancing transformative AI technologies for the next decade."
+    publishedDateTime: 2022-03-29T13:16:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/947787"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 11
 
 secured: "ZLOOpYwD5jprTkbHRKU9L5/cnZVnEsCx7B+O9hecifMnIRxVbdLEyqAGU/HTD4VebkpMoDL9kf/Au6o08wUWeLcE5XsWZfW1Qqv7qICGBdscmQYhnK83WaxXhpbKE4ZlHy7B+eqUpXWJB+p+hjjwACcZgm2EAdLyKwPuWUTp7P0U0AWcQY2oY+fiADsv108/6JPl8Gf/lrvwQM2ZE368REpKjZlH6URgx8ZP7aHqRXc7dfc6juwBoivD0Xcu+/8OZkZQy7nfBrrvxUkxUUK5z2FVnNuaA0InL5I2x5TzgivMt8AQAkpzdriyuOsZQDL5qGn7GweuMOfxlI4cApQsmmw/om7C2edecujfOu2mGjreOAQj4WVSQdfuLu8Bl2UCIcLdvZUPEKKRYDLmHBOuuV7r6YfL2mLU48m9c4CaQn+3vJFvVDIbfseN8kpZI780Wrjluwfw31y/Kf4VBTsp1wrOodugO83zkxeIzEy4nZapXQbdZfTnevJuz9ZuZwzcynWQOgmytCUMQuXo0ZSl2w==;0o8q8DXWPADoxqhRudXnAg=="
 ---

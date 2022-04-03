@@ -9,8 +9,8 @@ ampWebUrl: "https://inc42.com/buzz/healthtech-startup-qure-ai-bags-40-mn-funding
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/healthtech-startup-qure-ai-bags-40-mn-funding-to-disrupt-radiology-status-quo/amp/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: inc42.com
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Healthtech startup Qure.ai raises $40 million in funding led by Novo Holdings, HealthQuad"
-    excerpt: "The startup will use the capital to extend and strengthen its global reach, especially in the US and Europe, and intensify product development for critical care and community diagnostics."
-    publishedDateTime: 2022-03-29T12:15:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/healthtech-startup-qure-ai-raises-40-million-in-funding-led-by-novo-holdings-healthquad/articleshow/90520240.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/healthtech-startup-qure-ai-raises-40-million-in-funding-led-by-novo-holdings-healthquad/amp_articleshow/90520240.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/healthtech-startup-qure-ai-raises-40-million-in-funding-led-by-novo-holdings-healthquad/amp_articleshow/90520240.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 48
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-7938,msid-90520184/prashant-warier-cofounder-and-ceo-qure-ai-.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Healthtech AI startup Qure.ai secures $40 mn"
     excerpt: "Healthtech AI startup Qure.ai secures $40 mn - Healthtech AI platform Qure.ai (Qure) on Tuesday announced it has secured $40 million in a funding round led"
     publishedDateTime: 2022-03-30T03:44:00Z

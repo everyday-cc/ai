@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103929261/Pharmaceutical-Robots-Market-Revenue
 webUrl: "https://menafn.com/1103929261/Pharmaceutical-Robots-Market-Revenue-to-Cross-US-38391-million-by-2028-says-The-Insight-Partners"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -25,17 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Industrial Robotics Market to hit US$ 48,166.9 million, Globally, by 2025 at 14.2% CAGR: The Insight Partners"
-    excerpt: "The Insight Partners published the latest research study on “Industrial Robotics Market Forecast to 2025 – Global Analysis – by Types, Function, and"
-    publishedDateTime: 2022-03-29T11:29:00Z
-    webUrl: "https://www.digitaljournal.com/pr/industrial-robotics-market-to-hit-us-48166-9-million-globally-by-2025-at-14-2-cagr-the-insight-partners"
+  - title: "Global Surgical Robots Market Size Is Projected To Reach USD 6875.1 Million By 2028, Exhibiting A CAGR Of 21.4% Between 2022 And 2028"
+    excerpt: "The increasing unmet medical requirements, and technological advancement. According to Asian Robotics Review, the surgical robotics market might get"
+    publishedDateTime: 2022-03-30T09:41:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-surgical-robots-market-size-is-projected-to-reach-usd-6875-1-million-by-2028-exhibiting-a-cagr-of-21-4-between-2022-and-2028"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 35
+    quality: 8
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/15a44ea548b6d083a148f7c8b0969d98af09a227-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-War-AFP-1K-01-1-600x337.jpg"
         width: 600
         height: 337
         isCached: true

@@ -73,22 +73,6 @@ related:
         width: 1766
         height: 1325
         isCached: true
-  - title: "Gaming fintech firm enables Bitcoin tips for streamers"
-    excerpt: "Gaming fintech ZEBEDEE launched ZBD Streamer on Tuesday, enabling content creators to collect Bitcoin tips while live streaming on online platforms."
-    publishedDateTime: 2022-03-29T13:00:00Z
-    webUrl: "https://forkast.news/headlines/gaming-fintech-bitcoin-tips-streamers/"
-    ampWebUrl: "https://forkast.news/headlines/gaming-fintech-bitcoin-tips-streamers/amp/"
-    cdnAmpWebUrl: "https://forkast-news.cdn.ampproject.org/c/s/forkast.news/headlines/gaming-fintech-bitcoin-tips-streamers/amp/"
-    type: article
-    provider:
-      name: forkast
-      domain: forkast.news
-    quality: 44
-    images:
-      - url: "https://forkast.news/wp-content/uploads/2022/03/aleksi-raisa-DCCt1CQT8Os-unsplash-1260x754.jpg"
-        width: 1260
-        height: 754
-        isCached: true
   - title: "Future of fintech: Tech-driven access key to acquiring, delivering products and services to customers"
     excerpt: "This is expected to drive new business models to enable new customer acquisition, better customer engagement, provide newer financial products and add monetisation layers. India continues to grow and lead in the fintech sector globally,"
     publishedDateTime: 2022-04-02T15:51:00Z

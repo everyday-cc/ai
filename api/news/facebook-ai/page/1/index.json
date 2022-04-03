@@ -458,6 +458,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-18-how-ai-is-a-great-tool-to-improve-your-business-search-results.md",
+      "title": "How AI is a Great Tool to Improve Your Business Search Results",
+      "excerpt": "AI can also assist with search engine ranking page analysis, keyword research, and much more. According to statistics, 30 % of businesses that used AI in SEO reported a 6-10% revenue increase after implementing the technology. Notably, AI has significantly ...",
+      "sourceUrl": null,
+      "webUrl": "https://gisuser.com/2022/03/how-ai-is-a-great-tool-to-improve-your-business-search-results/",
+      "originalUrl": "https://gisuser.com/2022/03/how-ai-is-a-great-tool-to-improve-your-business-search-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gisuser.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-17-at-10.04.35-AM-1024x678.png",
+          "width": 1024,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gisuser.com/2022/03/how-ai-is-a-great-tool-to-improve-your-business-search-results/amp/",
+      "cdnAmpWebUrl": "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2022/03/how-ai-is-a-great-tool-to-improve-your-business-search-results/amp/",
+      "publishedDateTime": "2022-03-17T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gisuser.com",
+        "domain": "gisuser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-facebooks-meta-to-build-1b-data-center-for-metaverse.md",
       "title": "Facebook’s Meta To Build $1B Data Center For Metaverse",
       "excerpt": "Facebook’s parent Meta is building a $1 billion data center for its metaverse in Spain as well as a Metaverse Innovation Hub.",
@@ -1409,49 +1452,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-facebooks-hyped-new-ai-concept-looks-busted-as-hell.md",
-      "title": "Facebook's hyped new 'AI concept' looks busted as hell",
-      "excerpt": "The biggest stories of the day delivered to your inbox.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/facebook-meta-ai-builder-bot",
-      "originalUrl": "https://mashable.com/article/facebook-meta-ai-builder-bot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/00WJ1YKZuWlWoFBX77qQhh3/hero-image.fill.size_1200x675.v1645662499.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/facebook-meta-ai-builder-bot?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facebook-meta-ai-builder-bot?amp",
-      "publishedDateTime": "2022-02-23T18:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "Texas researchers tackle AI that gave us ‘White Obama’"
-    excerpt: "UT’s Machine Learning Lab held a public lecture Friday titled, “AI for Accurate and Fair Imaging.” Researchers with the lab’s Institute for Foundations of Machine Learning (IFML ..."
-    publishedDateTime: 2022-04-02T23:08:00Z
-    webUrl: "https://fox2now.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/"
-    ampWebUrl: "https://fox2now.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
-    cdnAmpWebUrl: "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
+    excerpt: "UT’s Machine Learning Lab held a public lecture Friday titled, “AI for Accurate and Fair Imaging.” Researchers with the lab’s Institute for Foundations of Machine Learning (IFML) have been working to improve the algorithm that in 2020 produced an ..."
+    publishedDateTime: 2022-04-03T02:10:00Z
+    webUrl: "https://www.wavy.com/news/technology/texas-researchers-tackle-ai-that-gave-us-white-obama/"
+    ampWebUrl: "https://www.wavy.com/news/technology/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
+    cdnAmpWebUrl: "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
     type: article
     provider:
-      name: Fox2Now St. Louis
-      domain: fox2now.com
+      name: WAVY
+      domain: wavy.com
     quality: 57
     images:
-      - url: "https://fox2now.com/wp-content/uploads/sites/14/2022/04/OBAMA-AI.jpg?w=1280"
+      - url: "https://www.wavy.com/wp-content/uploads/sites/3/2022/04/OBAMA-AI.jpg?w=1280"
         width: 1122
         height: 629
         isCached: true

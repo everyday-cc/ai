@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Emerging AI Technologies in Higher Education"
-excerpt: "Artificial intelligence in higher education institutions has significantly improved teaching and learning. But AI technologies extend beyond the curriculum. With the help of the cloud, they’re being leveraged to streamline network infrastructures as more ..."
-publishedDateTime: 2022-04-01T22:49:00Z
-originalUrl: "https://edtechmagazine.com/higher/k12/higher/k12/article/2022/04/emerging-ai-technologies-higher-education"
-webUrl: "https://edtechmagazine.com/higher/k12/higher/k12/article/2022/04/emerging-ai-technologies-higher-education"
-ampWebUrl: "https://edtechmagazine.com/higher/k12/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp"
-cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp"
+excerpt: "Technologies that utilize artificial intelligence and the cloud can help university networks adapt to the changing networking landscape."
+publishedDateTime: 2022-04-01T20:29:00Z
+originalUrl: "https://edtechmagazine.com/higher/k12/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education"
+webUrl: "https://edtechmagazine.com/higher/k12/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education"
+ampWebUrl: "https://edtechmagazine.com/higher/k12/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
+cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
 type: article
 quality: 74
 heat: 94
@@ -21,7 +21,7 @@ topics:
   - AI in Education
 
 images:
-  - url: "https://edtechmagazine.com/higher/k12/higher/k12/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r"
+  - url: "https://edtechmagazine.com/higher/k12/higher/higher/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r"
     width: 1440
     height: 500
     isCached: true
@@ -58,6 +58,6 @@ related:
         height: 250
         isCached: true
 
-secured: "CyAuz6vfITKMi2TC5Dh2vhMalSKsakmzOi5usP7m+E2i1QXAh1TtjLfj3DWgFH/kpa7zr8HwsPsmuHUK/WE4ZBa0vQ8KCyYRstV1+y8WFD0yYmN+Vzg+b9edUYJlXqJOBu0BN72rwP5TNiffdARWsbO3Ehgx8nMZRBmF6g6wpEXtwWiR4OL8OVGfQeYvNQ3S1SQO7NMZiPPqpcEYulhOJBlVV36swnBKbtfBCeklBgkJdJq+9XEiKXRRAfE1IpX75tIQMNyvpTFRaTYnHFczcyRjzvyW4MF/mzCsqdT0n+SJ6ju69mpXGBJ0jjNcpoEuH8o3q9P0i6IXEqjw3AbRfa5Oe3Wfz8B4XI10g3beuuY=;3+dKkyq+ZWPqepRZQ4rSlA=="
+secured: "PKQZjIv35guq3FuOmK3EpJOhtqQ8zFlnEelb5txyO5KItkjg/3b/devN3PC4NPrt9sx6xChTsoI/ehqzaXBcpCSqJ3i8sTF1ZUEXihIq0hJTIiy3KfB+FhhNDcssYautIVQrSdrMLJCm8yiKqcrkSvaqMvtKGZxu2TP+ePYYfFbo4VZSSLyTEAvaoQhuwiPi34nmoc5OJE38wudPVX4fa0MzA/0VuxKPoGr1YhfsVSBBXlNLFrMEbNiOQMaCl2/p+kfLiSSpfKXUK/kOdtI84ZY4F7JJvF/ljGA2f/zhtCC/JX2lh2xW7K/FRDjD6bD4GvLwXugIZcxiEerNKD9O3Z8+IJsJxh+2uDQaOhe+NeM=;2U8OBTKrEvE/9IOb0lamHw=="
 ---
 

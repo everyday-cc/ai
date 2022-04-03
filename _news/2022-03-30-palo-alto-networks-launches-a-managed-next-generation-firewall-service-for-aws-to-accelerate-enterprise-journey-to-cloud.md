@@ -2,28 +2,22 @@
 category: news
 title: "Palo Alto Networks Launches a Managed Next-Generation Firewall Service for AWS to Accelerate Enterprise Journey to Cloud"
 excerpt: "Palo Alto Networks (NASDAQ: PANW), a 10-time leader in network firewalls, today announced that it has teamed up with Amazon Web Services (AWS) to unveil the new Palo Alto Networks Cloud NGFW for AWS — a managed Next-Generation Firewall (NGFW) service designed to simplify securing AWS deployments — enabling organizations to speed their pace of innovation while remaining highly secure."
-publishedDateTime: 2022-03-30T14:15:00Z
-originalUrl: "https://www.fox21news.com/business/press-releases/cision/20220330SF08107/palo-alto-networks-launches-a-managed-next-generation-firewall-service-for-aws-to-accelerate-enterprise-journey-to-cloud/"
-webUrl: "https://www.fox21news.com/business/press-releases/cision/20220330SF08107/palo-alto-networks-launches-a-managed-next-generation-firewall-service-for-aws-to-accelerate-enterprise-journey-to-cloud/"
+publishedDateTime: 2022-03-30T12:15:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/palo-alto-networks-launches-a-managed-next-generation-firewall-service-for-aws-to-accelerate-enterprise/article_42fc2de3-2a21-5d7b-b45b-32c5759351ad.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/palo-alto-networks-launches-a-managed-next-generation-firewall-service-for-aws-to-accelerate-enterprise/article_42fc2de3-2a21-5d7b-b45b-32c5759351ad.html"
 type: article
-quality: 14
-heat: 14
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: FOX21 News
-  domain: fox21news.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://i0.wp.com/www.fox21news.com/wp-content/uploads/sites/37/2022/04/UkraineZelenskyyAP22091683469886.jpg?w=2000&#038;ssl=1"
-    width: 1024
-    height: 576
-    isCached: true
-
-secured: "9tuMkNLaE5x4Z9hxip+UIOntItQwiRNIn2TS8z1/ct+3Tb1kNt46LDN8h9HBKHk8KhYlzhx2Y6PBXmGZtHpJiFUf7pTnc0tdJzJLc/L8DDXRfnEid5fz/0eQ+4o8eR3jSr7mRhaKwi29hzVd50aRP9ytvirWOdlq1uDkmUQby2ST5hP6oTdQJqBnrIza82bxAHUCvBRoRoDX45rgko25gvi8oBhnJPUjfPMRsTPsYPGqxehG180/1qAjBa0x4IeUwEjTTB/4hzhqkh4JijXoWRh8ENcl3G+zsmyrsn5sotktj9QhrTegRuyXm5gvfIngX2NaehAjlqVhn6zpx54DzDDOuM/bx/zWHVx4BgfzhMo=;73OuyQgMYTI5BHNfYeLbew=="
+secured: "PxzFykcCrKThfVPMeew9pIVC0V5NlsJe9PgV61eCk+Fux+9aqdTyHjj70kWHm/t+pTknH8OYIMk+DOxaG5Y8tZAn63CwPDKaY9r66dr9fVA01VTDtMjKEfteDAk2MJyruPUSmvpNQWmWnnwmDXwTtOsx52AiMj84ZaAyvqo1DH/7TzzSo29WP0Kitj4nBEA+BjGLXn7XnhvlEEMQneeVIjjNJn3/coE9eorZvHWrj8sfxaUupYmURplSA5jliyZ53joViohoGpNnghe+9DHax3X6X/7aVFPsQ8kV5Wk/NdJZ5e+3W+gBDPqXHVFiNLWEvzidpdsEi8YL7radfZRRM2ot00SO0ShL1CHtB2CnwXPrjmkVPZ75FbZI7CbYO0WtnzYhhEMdLcJhVXcNqsp6VKpgz4CG4EM47S7MBWNwqwnp2H8vpLF/WumjyyuFhsfc3u0xdy5jgd8uZw6R3cx/HYhup35oWOhdnvTUGPxxK0YrCWnqkZ4eKcuhkd4Spi0hWmw9riU/ORtlQ8SpqYgkhA==;Z0466WkR/gwGBvcPvIphRA=="
 ---
 

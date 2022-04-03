@@ -25,22 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "MIT, Amazon, TSMC, ASML and friends to work on non-planet-killing AI hardware"
-    excerpt: "Big names in tech are collaborating with academics to develop energy-optimized machine-learning and quantum-computing systems under the MIT AI Hardware Program, an initiative announced on Tuesday.  Chip makers like TSMC and Analog Devices,"
-    publishedDateTime: 2022-03-30T03:09:00Z
-    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/03/30/mit_ai_chips/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/03/30/mit_ai_chips/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/30/mit_ai_chips/"
+  - title: "Otter.ai rolls out a new AI-generated meeting summary feature and more collaboration tools"
+    excerpt: "AI-powered voice transcription service Otter.ai is releasing a set of new meeting-focused features to boost collaboration, the company announced on Tuesday. Most notably, the company is adding a new “Automatic Outline” feature that uses Otter’s proprietary AI to automatically"
+    publishedDateTime: 2022-03-29T16:20:00Z
+    webUrl: "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/"
+    ampWebUrl: "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/"
     type: article
     provider:
-      name: theregister
-      domain: theregister.com
-    quality: 56
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 77
     images:
-      - url: "https://regmedia.co.uk/2021/09/20/shutterstock_silicon_wafer.jpg"
-        width: 1200
-        height: 600
+      - url: "https://i.ytimg.com/vi/vdmHxFwZCCU/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
+  - title: "Ulta Beauty & Haut.AI partner to bring new era of beauty and healthcare with AI-powered hyper-personalization"
+    excerpt: "Haut.AI, a leading research and development company specializing in next-generation artificial intelligence for skincare and longevity, announced a strategic partnership with Ulta Beauty, the largest beauty retailer in the United States."
+    publishedDateTime: 2022-03-29T14:14:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/947752"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 35
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ff8d058f-1d38-4160-b965-a43684191c1e/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
+        isCached: true
+  - title: "New program bolsters innovation in next-generation artificial intelligence hardware"
+    excerpt: "MIT today announced the launch of the MIT AI Hardware Program which will include five inaugural companies joined together with the aim of advancing transformative AI technologies for the next decade."
+    publishedDateTime: 2022-03-29T13:16:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/947787"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 11
 
 secured: "aBOaehJhvF6E/AOpXEABLH3qYPMfhHgmZgsKbNHKYd0Qp+nzk9vD/rE/mJ7AAsVLkCYjtAFu1zzA5pdEbI1hqkdQvJE++GcSz7lAvS4/65FoiP7CDqxfK2Kx8tPtBpI+tEBCNEuxQzPVs49HQHWH4PD7Rboxd5uJFzWAWS0BAT0WQRpYmLE+qzgi7RfNiEk7MfPHCr67uxo8fqMM1xlhfB/YHEUZmlB1S1+w7P6zg6k86tWclPQnmnMVuerwroUR2I6kRndMZdojQHHaaOdy3TPowo9pr/ilCzTdfGrnwC2IY6zhPuw9VHLwUOYocyN/kuh49IpcGurbx28dSKqWiOAaJFujJAYAaxaeD0UD43U=;QlkZ+BXUaNungTPKPQdkdg=="
 ---
