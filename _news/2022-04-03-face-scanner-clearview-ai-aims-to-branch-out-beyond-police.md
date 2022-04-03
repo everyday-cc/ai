@@ -27,20 +27,20 @@ images:
 
 related:
   - title: "Face scanner Clearview AI aims to branch out beyond police"
-    excerpt: "A controversial facial recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and the Ukrainian military now plans to offer its t"
-    publishedDateTime: 2022-04-01T20:29:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
+    excerpt: "A controversial face recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and — most recently —"
+    publishedDateTime: 2022-04-01T20:20:00Z
+    webUrl: "https://www.cbs17.com/news/technology/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/"
+    ampWebUrl: "https://www.cbs17.com/news/technology/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/amp/"
+    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/technology/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/amp/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CBS17 Raleigh
+      domain: cbs17.com
     quality: 57
     images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_5b9defe112f648c79fe90ad49bf2b37b_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2022/04/95496aaa47cb4607bac96fef8b9f7fb8.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "miFg5AM3rAInZjhIftfXouv6ZzxhleP7QjueasJJgGwVSNwvGHFrFRZjDMWrDte3IMh0/Y1zu6RGZWrnDjBCPIXkQQp6qMYj79tHQsL0kHo84d17Wi0IWjZmznqkuMrst2mZRtoXszXM6jyKVxQScCBZSrpsBTKSiK1cvetTiQgoYoT2d7FwrSkNocJzdMi3z4bOq3fJo39bzbamOU4n52NvAzI411FhtZPPva1v5GjmLmC2x0p7t742NaL2y5/RL9oR4+1ttwWIROgOD3zUoKaG9Kd3F1eSnb2hBSZfWMKKuY3BsPGWi0wDjVpiq0VVgpR4Z0rC457gU2EH9Swp1pa9cdUcvlBluOwZesFiwgM=;mtJDJuRFc5d8Aofbzb6o+w=="

@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Scaling Deep Learning/AI Applications: 4 Best Practices"
-    excerpt: "productionizing machine learning (ML), deep learning (DL), and AI applications is problematic. Many engineers would attest that a large percentage – estimated at 90% – of ML models never see ..."
-    publishedDateTime: 2022-03-29T23:56:00Z
-    webUrl: "https://www.eweek.com/big-data-and-analytics/scaling-deep-learning-ai-applications/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 84
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2022/01/BMC-BMC_ZSO_Image1.jpeg"
-        width: 800
-        height: 800
-        isCached: true
 
 secured: "0DkbH8pyy3HDQAhYXiVtD/MRkUmUdh396oNn8BsRMm3LqhjtnrE2/Ilsm+Q3X5UELUNabpm76ae522LSUNeq0aKE+5Q1qbJdcC1DRc6u5UZjWPXdqBK74Uq3lfLsde22prUYQDvDdQv2Y6WNQ6xIMDbAObJjcLBjgtto9zR3QlOiB+24WQBEa0aZ4cZJVyCAo2aR9QRzqkVEEwrS7IGLfVWVIvBEwlGamh5roN04TgawQQ9nmaVEVlaizuUfj6hBRST58xHLGSvDeFDZz7Td2Mb7XUWebD2qS5Ok/FyPg5kwlYnG8nXHjlVe+qJX6klmP4z3T+9pcvaIPsZ1J0/8awU5YbgpOsY0EyExOuDVTTD88uj9dHffwJRBQxzGjxRs9ytPuX5aYQIFc1HaWUoNGasekX5m/uuuFEnSqMp9VYZpFxX76jtt7ikstR160iYiE90N9Jg440f7vNVNKxYergjcTzZli9EF8n/22MWPE6hUUdNz4HCYuvOfJx7THdAAXtpd+OWJZ6TdDaRaRSsrwA==;hnkZKDYYTlPoioRUHDDTEA=="
 ---

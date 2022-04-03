@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/03/31/understanding-ed
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/03/31/understanding-education-40-the-machine-learning-driven-future-of-learning/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scaling Deep Learning/AI Applications: 4 Best Practices"
-    excerpt: "productionizing machine learning (ML), deep learning (DL), and AI applications is problematic. Many engineers would attest that a large percentage – estimated at 90% – of ML models never see ..."
-    publishedDateTime: 2022-03-29T23:56:00Z
-    webUrl: "https://www.eweek.com/big-data-and-analytics/scaling-deep-learning-ai-applications/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 84
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2022/01/BMC-BMC_ZSO_Image1.jpeg"
-        width: 800
-        height: 800
-        isCached: true
   - title: "Revolutionising the understanding of the brain and the future of AI"
     excerpt: "We know that the brain combines sensory input from all over your body into a single perception, but not how. We think brains 'compute' in some sense, but we can't say what those computations are. We believe that the brain is organised as a hierarchy,"
     publishedDateTime: 2022-04-02T18:50:00Z

@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI-based advanced analytics is making credit, debit cards smarter"
+    excerpt: "Banking and fintech firms have been using artificial intelligence (AI) for the last few years to improve fraud detection on credit and debit cards, analyze patterns of defaulters, caution users from overspending and even help them determine their spendings."
+    publishedDateTime: 2022-04-03T16:49:00Z
+    webUrl: "https://www.livemint.com/technology/aibased-advanced-analytics-is-making-credit-debit-cards-smarter-11649003838074.html"
+    ampWebUrl: "https://www.livemint.com/technology/aibased-advanced-analytics-is-making-credit-debit-cards-smarter/amp-11649003838074.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/aibased-advanced-analytics-is-making-credit-debit-cards-smarter/amp-11649003838074.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2022/04/03/600x338/analytics_1649004420915_1649004436324.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "umk18/srlP7EpZYRmMDvOVfr1cvNwPFstOBCoULUTd90Bu3bFDe7q+/yQcTlhqHvHq0FN4J4ovvunCfv1I1GH4daDXL7qR/tsx6Czhp67fgpQC3dZwYIIzRFrljqf445SSfCbmJCDZa0D/u+kFBbABR4q6iF8c8lQmNOTuit9Rbbpq25M/hmoj5a19lN1ZYEQMyMt5BIWAy6syXlG0NyhzkLB1ZnSDEZld2GeDhH9jyjJkGCfKnpQ2lBDqT2oFWhTE8l5meafSMrc8iS/trQQdApwOdXDFGazBAmV2hVcx+dwpekb6FE2MaYcfGfWhhVhOGTpVWLfL79CLXGvmp0VHnp8xYlf7zqfl1HiOGEKb0=;ATPcfyQYfKz39p/4EDV9BA=="
 ---

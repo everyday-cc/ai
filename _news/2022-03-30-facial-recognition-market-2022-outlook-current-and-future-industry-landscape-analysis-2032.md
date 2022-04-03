@@ -7,7 +7,7 @@ originalUrl: "https://www.fmiblog.com/2022/03/30/facial-recognition-market-2022-
 webUrl: "https://www.fmiblog.com/2022/03/30/facial-recognition-market-2022-outlook-current-and-future-industry-landscape-analysis-2032/"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Drug Discovery Market In-depth Analysis by Risk Factors, Economic Fluctuations and Industry Dynamics by 2027"
-    excerpt: "Astute Analytica released a new report on the global AI In Drug Discovery market. In addition to primary and secondary research, the report provides a"
-    publishedDateTime: 2022-03-31T05:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-in-depth-analysis-by-risk-factors-economic-fluctuations-and-industry-dynamics-by-2027"
+  - title: "AI SEO Tools Market Size Industry 2022, Share, Growth, Regional Trends, Opportunity Assessment and Comprehensive Research Study till 2028"
+    excerpt: "Global “AI SEO Tools Market” (2022) Gives a start to finish investigation of critical angles like development drivers, significant difficulties, size, share, recent trends and open doors that will affect the business patterns over the gauge timetable."
+    publishedDateTime: 2022-04-01T11:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-seo-tools-market-size-industry-2022-share-growth-regional-trends-opportunity-assessment-and-comprehensive-research-study-till-2028-2022-04-01"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 15
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-Kyiv-AFP-1K-04-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Global Surgical Robots Market Size Is Projected To Reach USD 6875.1 Million By 2028, Exhibiting A CAGR Of 21.4% Between 2022 And 2028"
-    excerpt: "The increasing unmet medical requirements, and technological advancement. According to Asian Robotics Review, the surgical robotics market might get"
-    publishedDateTime: 2022-03-30T09:41:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-surgical-robots-market-size-is-projected-to-reach-usd-6875-1-million-by-2028-exhibiting-a-cagr-of-21-4-between-2022-and-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 8
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-War-AFP-1K-01-1-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Cognitive Computing Market 2028 Industry Analysis, Trends, Market Size and Forecasts"
     excerpt: "Key Companies Covered in the Cognitive Computing Market Research Report Are  3M, Google LLC, Hewlett Packard Enterprise Development LP, In"
