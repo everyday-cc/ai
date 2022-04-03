@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/phoenix/inno/stories/news/2022/03/30/i
 webUrl: "https://www.bizjournals.com/phoenix/inno/stories/news/2022/03/30/intel-artificial-intelligence-lab-arizona.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Intel, Community College District in Arizona Launch First-of-its-Kind AI Lab"
-    excerpt: "Intel and Arizona’s Maricopa County Community College District (MCCCD) today announced a new artificial intelligence (AI) incubator lab for students aspiring to land jobs in areas ranging from business to nursing to healthcare — and other professions that increasingly draw on AI technology."
-    publishedDateTime: 2022-03-29T16:02:00Z
-    webUrl: "https://www.eagletribune.com/region/intel-community-college-district-in-arizona-launch-first-of-its-kind-ai-lab/article_f13dce9f-1b11-52ae-ad13-a058c88171ce.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 34
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/5/b9/5b96dcd1-087e-514e-aa18-bdf729d8f2ea/62432df66058f.image.jpg?crop=1583%2C831%2C0%2C238&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial intelligence classes at Chandler-Gilbert Community College have backing from Intel"
     excerpt: "The Maricopa County Community College District and Intel Corp. unveiled what they called a first-of-its-kind lab focused on artificial intelligence."
     publishedDateTime: 2022-03-30T13:30:00Z

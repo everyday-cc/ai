@@ -7,7 +7,7 @@ originalUrl: "https://www.actuia.com/english/the-quantum-memristor-the-missing-l
 webUrl: "https://www.actuia.com/english/the-quantum-memristor-the-missing-link-between-artificial-intelligence-and-quantum-computing/"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "The quantum tech arms race is bringing us better AI and unhackable comms"
-    excerpt: "Quantum tech promises breakthroughs in weapons, communications, sensing, and computing tech that could change the balance of military power."
-    publishedDateTime: 2022-03-29T15:21:00Z
-    webUrl: "https://thenextweb.com/news/quantum-tech-arms-race-bringing-us-better-ai-unhackable-comms"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 66
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2Fvriuw.jpg&signature=b5c3eff22090df30c2826d7b023f28fc"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "CvsJHU4pvHLvEwpH6wCeZdfMIxA5Fg3+wZa5D9BecUNQbuO3X2UANVBQ++k9dfBCAxa1DiWeEobHXYmXHMoFMVqYSMudt5yWfSskCR8A91oGNyne5ZAK0N1cIjmJgL9e4eCZ5RwbYtnRUAQFsXKdzOwmF+6PJ7iv64a1V/OidDEyvhDCyxDdYI+VLKPtVMOzwvvL6cNbBDR/LiM7uyD/wHx9LZhX8C0rIoLWnf1lFs7bHbW+90jjMeZP+6wNsx7Txhm2k7mpQrm0H2b1tf9MHtlzfn243dFMQHi5yNaVRWT7XSY7plJ/09m0jUV7EOyXNjhuP+LmmYmquwzJzSDnggEMDvAq8ENZFpLFNW5wp0u+3gCDz0vFpAPiSqknW1DrTHSvCDRKZYOB8EmGtkNMowf99PaV++fENBYJ49vzIhz8aeU7zJa4sib2+esumFfWc8gEkmhH6e8TYsFGiEyyw/FSwx5Tvdk5DEgdLHXAwyaowOW3xnwS7p1r49+vcxNNwsb0JweiQR/X7GfDaiAYbQ==;MtUVw/+f4+RR/lglahAXcQ=="
 ---

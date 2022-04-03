@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "HC Wainwright Reiterates Buy Rating for Renalytix AI (NASDAQ:RNLX)"
+    excerpt: "Renalytix AI (NASDAQ:RNLX – Get Rating)‘s stock had its “buy” rating restated by equities researchers at HC Wainwright in a research note issued on Friday, TipRanks reports. They presently have a $30."
+    publishedDateTime: 2022-04-03T08:10:00Z
+    webUrl: "https://www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/"
+    ampWebUrl: "https://www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/amp/"
+    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/amp/"
+    type: article
+    provider:
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 57
+    images:
+      - url: "https://www.marketbeat.com/scripts/RatingsChart.ashx?Prefix=NASDAQ&Symbol=RNLX"
+        width: 600
+        height: 385
+        isCached: true
   - title: "Here's what to expect from Renalytix AI's earnings report"
     excerpt: "Renalytix AI reveals earnings for Q2 on March 31.Wall Street predict expect Renalytix AI will release losses per share of $0.160.Go here to track"
     publishedDateTime: 2022-03-30T13:07:00Z

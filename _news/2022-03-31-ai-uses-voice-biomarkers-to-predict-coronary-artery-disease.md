@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-03-ai-voice-biomarkers-coronary-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-ai-voice-biomarkers-coronary-artery.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 2880
     height: 1907
     isCached: true
+
+related:
+  - title: "AI uses voice biomarkers to predict coronary artery disease"
+    excerpt: "Imagine being able to record yourself reading and then having your clinician use those recordings to screen for various diseases, even from thousands of miles away."
+    publishedDateTime: 2022-04-03T09:00:00Z
+    webUrl: "https://www.lowellsun.com/2022/04/03/ai-uses-voice-biomarkers-to-predict-coronary-artery-disease/"
+    ampWebUrl: "https://www.lowellsun.com/2022/04/03/ai-uses-voice-biomarkers-to-predict-coronary-artery-disease/amp/"
+    cdnAmpWebUrl: "https://www-lowellsun-com.cdn.ampproject.org/c/s/www.lowellsun.com/2022/04/03/ai-uses-voice-biomarkers-to-predict-coronary-artery-disease/amp/"
+    type: article
+    provider:
+      name: The Lowell Sun
+      domain: lowellsun.com
+    quality: 57
+    images:
+      - url: "https://www.lowellsun.com/wp-content/uploads/2022/04/low-l-hearthealth.jpg?w=1024&h=683"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "ECfPPLCKveDgZx5XskVepQA8fosx6ld6PjjszcV5J1wSgRb6e4t+7Hhcicv0HT3pcx5EOMGmBZ0/WK4arwjrA6ZR9B51sHy+MEtNv79P7n9BdcxmHGinwd8pmOGBQrV2uf/VoK8bvUOIVJXqrxtzeA2zLcCcvOtwv8isH9iaf9HSpTo2VCl+QwIlyrW/UOg0ylARRyzwBb3X5mGO5GnW99Vjw+ptbn24DS/SVF4c0/7OpqhCmWEUTYEL5wXhXGeqLmgwZmMXGS1svR2rC62XrINbtuN6SGfDYcfeQ70LOFq0hF2ix9jC03b1ZJ+IDFTVpM9NKcA468FIBnAon4QERxgouGWtgbV9PNMsTi0jci5ew0Xms77+GGsFj2IisPzK3Lpg1WQMD50/9OaCvpflGFRcV2/GFyRsmB+MlumckfrimzUoRRNalh7yK3EbVELX60dGcxZROmUNczatB2iz3ukJui2H73oSS6opGkIUvKhmKOS85kDA/6Mn+agtgvE9I1weAIUw5qsoE77Ui5ZSqQ==;pGYaf9PYdljCknOL0xAe4g=="
 ---

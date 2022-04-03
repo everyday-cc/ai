@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Military Artificial Intelligence (AI) Market Analysis By Leading Keyplayers 2020 -2028"
-    excerpt: "Emergen Research Logo Increasing hostility across various countries and increasing government expenditure on R&D for military purposes ar"
-    publishedDateTime: 2022-03-29T16:16:00Z
-    webUrl: "https://menafn.com/1103931280/Military-Artificial-Intelligence-AI-Market-Analysis-By-Leading-Keyplayers-2020-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 46
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?104175"
-        width: 375
-        height: 250
-        isCached: true
   - title: "AI in Computer Vision Market Opportunity Analysis and Industry Forecast worth $51.3 billion by 2026"
     excerpt: "\"AI in Computer Vision Market\" AI in computer vision market size is projected to grow from USD 15.9 billion in 2021 to USD 51.3 billion by 2026, at a CAGR"
     publishedDateTime: 2022-03-30T23:10:00Z

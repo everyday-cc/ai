@@ -7,7 +7,7 @@ originalUrl: "https://www.siliconindia.com/news/startups/healthtech-ai-startup-q
 webUrl: "https://www.siliconindia.com/news/startups/healthtech-ai-startup-qureai-secures-40-mn-nid-218474-cid-19.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 570
     height: 367
     isCached: true
-
-related:
-  - title: "Healthtech Startup Qure.ai Bags $40 Mn Funding To Disrupt Radiology ‘Status Quo’"
-    excerpt: "Healthtech startup, Qure.ai, has raised $40 Mn in a strategic funding round led by Novo Holdings and HealthQuad."
-    publishedDateTime: 2022-03-29T15:33:00Z
-    webUrl: "https://inc42.com/buzz/healthtech-startup-qure-ai-bags-40-mn-funding-to-disrupt-radiology-status-quo/"
-    ampWebUrl: "https://inc42.com/buzz/healthtech-startup-qure-ai-bags-40-mn-funding-to-disrupt-radiology-status-quo/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/healthtech-startup-qure-ai-bags-40-mn-funding-to-disrupt-radiology-status-quo/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 52
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/03/qure-social.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "P6mHuQwR5okNb40Rh+03bAPeAPcVgKX6TB7FgN5HYBrq1ItHiEPCzGvHo8v7TRohTqHPNhsJTpRkau+zP9wQt6t6DcT0mXANF/34h00DtwrE1xlxey+1f6AZIUT3DkStqtcSIRZOawdmR/LcdF2BL6edXOshZa44Rg7YfEgLU2pzND1MR7gFru2/vB+vcNK31C7FYF2cHHE8PDuKM5EYmVWDYeHkLdCTtCc6azoOxw3bvUKhLqGiJr7bKFu/nMdblp6XvIOfq6R+SYsGQ2VM6eAFeTZqhT1enziUGcb2A9tifBuGVxhifT7btmUalXxjEngmIuQGEqDLJDiBXPiExW8bBGyMEshsLDW+Qjg4ueOuRXWWM+/PAPrHIse4o1LUuPTK/Mrz584FQPZO8ZUrK8oUx80KC5OCLhfNKLD3tO66KwWKhQ08aOn19nxzt7i74eAwnu5cKtieX0jnz3+csOaPsyJMAKV4HS9vFiHRJMSK+5hPCVtISKXRFghmHkCsWdUqLLhgffHmIIkyxuW3+A==;lME+IcXWgHLud0/MxA8yjQ=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Military Artificial Intelligence (AI) Market Analysis By Leading Keyplayers 2020 -2028"
-    excerpt: "Emergen Research Logo Increasing hostility across various countries and increasing government expenditure on R&D for military purposes ar"
-    publishedDateTime: 2022-03-29T16:16:00Z
-    webUrl: "https://menafn.com/1103931280/Military-Artificial-Intelligence-AI-Market-Analysis-By-Leading-Keyplayers-2020-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 46
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?104175"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Military Robots Market, Revenue Growth, Key Factors, Major Companies, Forecast To 2028"
     excerpt: "Reports and Data has recently published a novel report on global Military Robots market to provide a comprehensive analysis of historical and upcoming"
     publishedDateTime: 2022-03-30T01:19:00Z

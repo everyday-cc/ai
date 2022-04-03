@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220330/AI-shows-potential-to
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220330/AI-shows-potential-to-aid-clinicians-in-fracture-diagnosis.aspx"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI shows potential in breast cancer screening programs"
-    excerpt: "A major new study in Radiology shows that artificial intelligence (AI) is a promising tool for breast cancer detection in screening mammography programs."
-    publishedDateTime: 2022-03-29T15:13:00Z
-    webUrl: "https://medicalxpress.com/news/2022-03-ai-potential-breast-cancer-screening.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-03-ai-potential-breast-cancer-screening.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-ai-potential-breast-cancer-screening.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-shows-potential-in.jpg"
-        width: 2075
-        height: 811
-        isCached: true
   - title: "Study shows AI as a promising tool for breast cancer screening programs"
     excerpt: "A major new study in Radiology shows that artificial intelligence (AI) is a promising tool for breast cancer detection in screening mammography programs."
     publishedDateTime: 2022-03-30T06:33:00Z

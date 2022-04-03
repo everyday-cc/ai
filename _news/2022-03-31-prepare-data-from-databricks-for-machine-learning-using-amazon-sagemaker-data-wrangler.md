@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-da
 webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-databricks-for-machine-learning-using-amazon-sagemaker-data-wrangler/"
 type: article
 quality: 98
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1232
     height: 630
     isCached: true
-
-related:
-  - title: "Automatically generate model evaluation metrics using SageMaker Autopilot Model Quality Reports"
-    excerpt: "Amazon SageMaker Autopilot helps you complete an end-to-end machine learning (ML) workflow by automating the steps of feature engineering, training, tuning, and deploying an ML model for inference. You provide SageMaker Autopilot with a tabular data set and a target attribute to predict. Then, SageMaker"
-    publishedDateTime: 2022-03-29T16:47:55Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automatically-generate-model-evaluation-metrics-using-sagemaker-autopilot-model-quality-reports/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 77
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/22/confusion-matrix-638x630.png"
-        width: 638
-        height: 630
-        isCached: true
 
 secured: "Riw++Hhjt/WilyA0G+ajtG2tKs4QV/2vgqFDRlwccrkDa6EsQgGUMB3wh37/RTvY3VCccCgKSPs0OyaKHT8c46aCijSBsYTUK+zlgGotQTL8c1+jJo46mN3xgZ22UB88WzECQR0zO/PfwoYksmTB3rrQ2ooVx3u5gUHKZa12F7+dn5Ckyhi/wtkKVy2DJCZvnzs4OO7GUFnFhuqn8f0/VS1nLSKfydbIFHpjG+qOrE3yt3i7mq9B1l+d9wj7UxjAjToLtK4i5fqTTn6xIQdJYtvgbdfuF/UOS39U+ClC2VoZ3tBsO4ZDScXTuSniHhknhkOnQgMnuhxzoea+Osu4W41ty+dyykfTxJw2CO0z8E8=;p5BhZpdmrDfHnwQ3enBFcA=="
 ---
