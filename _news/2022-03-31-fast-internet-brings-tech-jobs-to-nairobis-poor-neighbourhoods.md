@@ -1,24 +1,32 @@
 ---
 category: news
 title: "Fast internet brings tech jobs to Nairobi's poor neighbourhoods"
-excerpt: "Daniel Nzoma's face glows in the light of a computer screen as he reviews computer codes used for driverless cars and crop disease detection, an unusual job in Nairobi's crowded Pipeline ..."
-publishedDateTime: 2022-03-31T10:06:00Z
-originalUrl: "https://www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods"
-webUrl: "https://www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods"
-ampWebUrl: "https://www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods?amp"
+excerpt: "Companies often outsource work that underpins artificial intelligence to people who label roadside objects, or teach driverless cars to recognise their surroundings, distinguish between a smudge ..."
+publishedDateTime: 2022-03-31T09:45:00Z
+originalUrl: "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/"
+webUrl: "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/"
 type: article
 quality: 69
 heat: 79
 published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/4M_ZfsExf_mvYT37MXUvNasYssQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OOEUTUKC2VNONJNEVBOTIYDQO4.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Fast internet brings tech jobs to the poor"
@@ -36,6 +44,6 @@ related:
         height: 380
         isCached: true
 
-secured: "xFVwrMPkkUKarCCPM6Zs0mkPrzFE2Gaw3V65C1UELcO1htmTsRjFlY65A08viiWZKLZtQZEYKpvzbi8PGLGFYtCMLsHqyADF8qRHCSw0ErWBHe7Wi+p/FdQAs5nbHJW6pB/ES0X5Rm8N1kHxlxT8s6Zgx0S5RPoqbtbIoVtBJ3jSjNwCvF1lUoG6jrBBp8HTGM2OLeG38xv5q+uubfIDZckF4jEeS4Ume5pZkgZHnunihf8e+wgWfMdYz4WdIP4aNx5iEc0r3TeFqdMj9MhH4fr4AYsWHAx1IJ2wVT+GEtSa5ascE8xoBkRcDzTe3UbqHz+dYLQAKwccwCtJ9aWL20JBB03P4q/wCTAMd5C3As0=;PDnhbAVsgMYHEeNC+wgh1w=="
+secured: "4L9I2QgA+DcMYjMw97rgxuP6rTyK1oHXIBb3z7hE9X0qFfnTZ2q9VhBEWo44SjyHlA+EZwMPMgyaAYQghqf/RPWmKy44p6zTBa+iVHCA9xOCAjP5Uz4n8OGvyu7XByHK65XZ85XKIPtCSUqY1+QNKskoEYYqErVQU9haSJ3AhA7+2EtYtmRkOzS2l4SJjCBvEiIq3JYmbycRnqzGhm7G1oSA5INzdmRrXqOKalYDpZ6se+EE/GsXZuEjk7D4u9Q7P9lg7erZ2NI4jCKS+XdkSdFiaAt2qDOCCXmIIxWpSLaq0UWWWSEDNbHdgwu3R74xF+PQg7wFj7ymePZKrT+FLqUrh4mThhZcaAkOEjvfhSc=;37QVU8NkRJrBmfqNpYXCew=="
 ---
 

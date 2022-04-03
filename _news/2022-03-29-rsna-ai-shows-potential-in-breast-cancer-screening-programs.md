@@ -57,6 +57,22 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Study shows AI as a promising tool for breast cancer screening programs"
+    excerpt: "A major new study in Radiology shows that artificial intelligence (AI) is a promising tool for breast cancer detection in screening mammography programs."
+    publishedDateTime: 2022-03-30T06:33:00Z
+    webUrl: "https://www.news-medical.net/news/20220330/Study-shows-AI-as-a-promising-tool-for-breast-cancer-screening-programs.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220330/Study-shows-AI-as-a-promising-tool-for-breast-cancer-screening-programs.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220330/Study-shows-AI-as-a-promising-tool-for-breast-cancer-screening-programs.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/91618146-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "AI Shows Promise as Breast Cancer Detection Method for Women"
     excerpt: "In this new study from Norway, artificial intelligence (AI) was used with mammography screenings to predict risk of breast cancer in women vs double reading of mammographic screening by independent radiologists."
     publishedDateTime: 2022-03-29T13:33:00Z

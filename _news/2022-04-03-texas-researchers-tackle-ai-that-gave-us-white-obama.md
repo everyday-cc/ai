@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Texas researchers tackle AI that gave us ‘White Obama’"
-excerpt: "Researchers at the University of Texas at Austin are leading the way when it comes to fine-tuning the accuracy of artificial intelligence."
-publishedDateTime: 2022-04-02T20:56:00Z
-originalUrl: "https://www.texomashomepage.com/news/texas-news/texas-researchers-tackle-ai-that-gave-us-white-obama/"
-webUrl: "https://www.texomashomepage.com/news/texas-news/texas-researchers-tackle-ai-that-gave-us-white-obama/"
-ampWebUrl: "https://www.texomashomepage.com/news/texas-news/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
-cdnAmpWebUrl: "https://www-texomashomepage-com.cdn.ampproject.org/c/s/www.texomashomepage.com/news/texas-news/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
+excerpt: "UT’s Machine Learning Lab held a public lecture Friday titled, “AI for Accurate and Fair Imaging.” Researchers with the lab’s Institute for Foundations of Machine Learning (IFML ..."
+publishedDateTime: 2022-04-02T23:08:00Z
+originalUrl: "https://fox2now.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/"
+webUrl: "https://fox2now.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/"
+ampWebUrl: "https://fox2now.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
+cdnAmpWebUrl: "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: TexomasHomepage.com
-  domain: texomashomepage.com
+  name: Fox2Now St. Louis
+  domain: fox2now.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.kxan.com/wp-content/uploads/sites/40/2022/04/OBAMA-IMAGE.jpg?w=900"
-    width: 900
-    height: 371
+  - url: "https://fox2now.com/wp-content/uploads/sites/14/2022/04/OBAMA-AI.jpg?w=1280"
+    width: 1122
+    height: 629
     isCached: true
 
 related:
@@ -43,6 +43,6 @@ related:
         height: 629
         isCached: true
 
-secured: "Go3nivNQ3AoAP+CRl4MkK75I5uY3ChL15dY989EfIhih7TNvPbAin4JQEJiGZQ4w6wYQtwRoiQXuUBjLyNcCN+YJJOXl+fzEUog65LuB7MDeDKzxL63U2jKD6Mj9n6MdVNb3ZaJqGXcA6+Iulwj1XxIc1/L3pNVFUsfC63RoczL2/daQGaKQmCJsEx7ZGgizefRfbOLy/n+skPGsJCJrsSdra3mqt4jlTeSzyoKfuKmGk2U3Xcr0enHdzcBVRiGiTo4t0tqKcU4CTt/A2YAXiTqklDB+CqQ8W4PnHyoioy6cAVw2X44VF50eiV7/xA5kEFc1vEepR0JHzp9r0nDhh7N+EepRypzWKfHOb4RZmlU=;jSCYQvFoJQDUQe1vlLmbdQ=="
+secured: "jDCiNKljcqdXeHdNKa/MOMGwjLzzUqkKJNuYY+RiMrP/HiyA6juZmyCL5elvm6QJ2iamI9MtYhZezmQ73BD7V7iHkdiBCimqnfUqvi8aI8hCtL8gIbnxnwptvVcgFtWQB/bQKEwknVdMK/puimuc3VU9PsmHgzjJekNlztX+NjdtW2VMztL4/b8Bhl4VYlQEa3eHN3hVugBqbeGE/+OYF63JP/xVeRp0Sva9CDDDibqp2fyAKzumMVDjCaBYckPNA7jdmDrWpVNGjWgoIWAQXOHs9CrsmPD7flC4g7fIktXX8SrisYZgily1WXCiEwMN93j3PW49ZgdoY3ZP2fOeLdcXF8SYXC+noGVxPx2fWsM=;xKIe2biSBLvxNIvZbTqosQ=="
 ---
 

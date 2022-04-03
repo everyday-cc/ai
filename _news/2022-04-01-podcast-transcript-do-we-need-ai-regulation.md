@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/3672
 webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367274/podcast-transcript-do-we-need-ai-regulation"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/ED3FFD93-22A2-482E-B04CC7E1D8371D34.jpg"
         width: 790
         height: 496
+        isCached: true
+  - title: "Lost in AI transcription: Adult words creep into YouTube children’s videos"
+    excerpt: "Ten per cent of these videos contained at least one “highly inappropriate taboo word” for children, says US-based Ashique KhudaBukhsh, an assistant professor at Rochester Institute of Technology's software engineering department."
+    publishedDateTime: 2022-04-02T22:30:00Z
+    webUrl: "https://indianexpress.com/article/technology/lost-in-ai-transcription-adult-words-creep-into-youtube-childrens-videos-7849949/"
+    ampWebUrl: "https://indianexpress.com/article/technology/lost-in-ai-transcription-adult-words-creep-into-youtube-childrens-videos-7849949/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/lost-in-ai-transcription-adult-words-creep-into-youtube-childrens-videos-7849949/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 55
+    images:
+      - url: "https://images.indianexpress.com/2022/04/p1-anchor-3col.jpg"
+        width: 1200
+        height: 667
         isCached: true
   - title: "Don’t Let Regulation Get In the Way of Artificial Intelligence Research"
     excerpt: "The United States' Artificial Intelligence Strategic Plan should focus on enabling a wide range of actors to play a role in strengthening American AI innovation."

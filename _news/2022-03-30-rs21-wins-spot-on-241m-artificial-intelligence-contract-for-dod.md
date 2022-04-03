@@ -3,8 +3,8 @@ category: news
 title: "RS21 Wins Spot on $241M Artificial Intelligence Contract for DoD"
 excerpt: "Data Science and AI Company Qualifies to Participate in the DoD Data Readiness for Artificial Intelligence Development Program"
 publishedDateTime: 2022-03-29T17:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod/article_e73d4602-9e81-53e4-a8ff-11bd7d085fcd.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod/article_e73d4602-9e81-53e4-a8ff-11bd7d085fcd.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod/article_e73d4602-9e81-53e4-a8ff-11bd7d085fcd.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod/article_e73d4602-9e81-53e4-a8ff-11bd7d085fcd.html"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 338
     isCached: true
 
-secured: "Edq8lHApk//C+j51Gmezxhp2YorRmld0ADr9CuhFW3rsjelIKtyn59sySM1v8PFVAd8bATWQuXT+2Sc9eHhSxA8CVfqD6tFkyRT+0nt5EUCllcjkVkjFDh9zsagwbkGoaBrFjOlPezqKwV1j/3POaTFxKuZXF1PRXoF2lPnAcYDzdVU0ApyXRJHnFyJcGrxpQAK+4LTVdX49s5rqjz1QMvMTupegu/3lz1Kxu5GVFFxbOBXeRjORx0viQA8+BrIS9I5kC1PrNSDqOOzOVj2UCLioEI+7SlZHaKjuhVHzI7MxY0JsEyqlCShXNIrv1owk5ex/EDBJTNNZOJ3PUzidPMI47ljMA4QZj6sRE5bA8tV1RovGrjFYSBkNyDnrTzjNOZW/3E5DkIsE7ZXeJm09z3OIq5COjEXVJLJIT7iJfY5ZEHGQyJGQ/j3gr/msB/F/6k6539nQCBvW2+2Qta8ecwCrPgyOhBq2x0e+p2NG5O7g6GHyClG3N2OIAdGJwe4SSZJKm4feuYfqCrsDuh3bjA==;66ku9TDqN8nyV+yOhz5jJQ=="
+secured: "edqyq3E//EiAiJO0pIMr6Lh5Y1zbiRemf2D1mfGFi8fCMbwQwqxBwyZ7eQhDRUhm4sgh76B4IcgfgK4+nGkpJT8UkLO4ZD27pCD6z25/2cii7vs9n56mFCC74RL4Krab44ddvNRwaYi93AGKzXIgi4puZEyiDdE7dMprGwttfWeak3o6jWZjfqSDjkRvbsRQg+xIBKbl/qG5ywl7yTjPuE1SR52hPBZWuF1kifeyJsvGQQ6LE6DaXBeFW0jje0R0Izw2/unTPAXCcDy/bDd8/5CYO+/i1agBK9MFqI1IetoKjZlAdJfab1jh4Kv4oRFJDi2UDTNLdRwUi50NIkYXyEVZwAbSCOM2kjSsFwxbLkE=;meZlxgHcZh/k3/15v/8Cbw=="
 ---
 
