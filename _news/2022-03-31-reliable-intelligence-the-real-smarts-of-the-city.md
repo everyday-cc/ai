@@ -59,17 +59,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
-    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
-    publishedDateTime: 2022-03-30T01:50:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 21
 
 secured: "BBA9OaU4m/TU/d1unVqBvnxgwvVDaysheF+g3tMB1wb5m5ioEeihodAWjYpCW6xaRLU8DjuvEPCtv3p+xQxKm3wTdORfgXoLisRg8ggPGr/v/4XXqRVOPc2CEiYiPYaL5ZQhgLzlx0xcBM+8GVw2wSwmvRb17B2yrRoVi3jb4lqTIsnUBBW4jVgO+bRTf2xfjQkJq1Wh25eZJXDIkoVze7pcEgCsj1Yt4qIEMVFiEhGPORVRUaapP076iV+BBzZD60j96zaobdJAuk/GRiQtA2YnDNUDSQ8vOnlJFC0ABieG0B/J0fl8o2r8s/jntQ3tzXIYbkUet1iIMMrrxzNE63MG8c+hiDxp5UoESpN4bIs=;ZMcaLc6WiwaNsnJVJrnQjQ=="
 ---

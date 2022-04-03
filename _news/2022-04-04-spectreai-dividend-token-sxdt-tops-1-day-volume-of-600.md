@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-03T18:24:00Z
 originalUrl: "https://www.etfdailynews.com/2022/04/03/spectre-ai-dividend-token-sxdt-tops-1-day-volume-of-6-00/"
 webUrl: "https://www.etfdailynews.com/2022/04/03/spectre-ai-dividend-token-sxdt-tops-1-day-volume-of-6-00/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: ETF Daily News

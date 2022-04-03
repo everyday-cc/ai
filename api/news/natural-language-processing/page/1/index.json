@@ -237,6 +237,40 @@
       ]
     },
     {
+      "path": "_news/2022-03-29-kyndi-releases-natural-language-search-solution.md",
+      "title": "Kyndi releases Natural Language Search Solution",
+      "excerpt": "Kyndi, a natural language processing (NLP) company, is releasing the Kyndi Natural Language Search Solution, an end-to-end offering designed to maximize the relevancy and speed of finding answers in unstructured, text-based data. Today, individuals still ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/News/News/Kyndi-releases-Natural-Language-Search-Solution-152116.aspx",
+      "originalUrl": "https://www.kmworld.com/Articles/News/News/Kyndi-releases-Natural-Language-Search-Solution-152116.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-ambeq-enhancing-accessibility.md",
       "title": "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit ?ambeq, Enhancing Accessibility",
       "excerpt": "OXFORD, England, March 29, 2022 /CNW/ -- The quantum natural language processing team at Quantinuum, the world's leading integrated quantum computing company, has released a major update to its open-source Python library and toolkit,",
@@ -582,22 +616,13 @@
       "title": "Insider Q&A: Ex-Google AI skeptic Timnit Gebru starts anew",
       "excerpt": "When she co-led Google's Ethical AI team, Timnit Gebru was a prominent insider voice questioning the tech industry's approach to artificial intelligence. That was before Google pushed her out of the company more than a year ago.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/79cd13b50b51452d29963490b96815bd",
-      "originalUrl": "https://apnews.com/79cd13b50b51452d29963490b96815bd",
+      "webUrl": "https://apnews.com/article/technology-business-artificial-intelligence-79cd13b50b51452d29963490b96815bd",
+      "originalUrl": "https://apnews.com/article/technology-business-artificial-intelligence-79cd13b50b51452d29963490b96815bd",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/3aa9eaa491ab41348e46ce734ce58463/3000.jpeg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1414,58 +1439,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-why-ai-is-harder-than-we-think-human-intelligence-vs-machine-intelligence.md",
-      "title": "Why AI is Harder Than We Think - Human Intelligence vs Machine Intelligence",
-      "excerpt": "Melanie Mitchell wrote a paper titled \"Why AI is Harder Than We Think\" almost a year back. My observation is very similar, it is hard problem to crack.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/why-ai-harder-than-we-think-human-intelligence-vs-machine-m-a",
-      "originalUrl": "https://www.linkedin.com/pulse/why-ai-harder-than-we-think-human-intelligence-vs-machine-m-a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQHR-AdLzu4Uaw/article-cover_image-shrink_600_2000/0/1647870433150?e=1653523200&v=beta&t=0mBOXeajSXYBsfM6FkX8ZnFr_MTHX0fMT-BD51c6_r4",
-          "width": 877,
-          "height": 523,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

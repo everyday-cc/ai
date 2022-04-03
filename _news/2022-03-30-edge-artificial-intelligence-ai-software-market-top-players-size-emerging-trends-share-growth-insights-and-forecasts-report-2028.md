@@ -55,20 +55,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Military Robots Market, Revenue Growth, Key Factors, Major Companies, Forecast To 2028"
-    excerpt: "Reports and Data has recently published a novel report on global Military Robots market to provide a comprehensive analysis of historical and upcoming"
-    publishedDateTime: 2022-03-30T01:19:00Z
-    webUrl: "https://www.digitaljournal.com/pr/military-robots-market-revenue-growth-key-factors-major-companies-forecast-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 31
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/7db448fc881b6b5c26e8531765d0fd0eeb014838-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence (AI) In Genomics Market 2022: Future Outlook, Growth, Industry Analysis, Business Opportunities"
     excerpt: "In terms of revenue, artificial intelligence (AI) in genomics market was valued at US$ 458.21 Mn in 2021 growing at a CAGR"
     publishedDateTime: 2022-03-31T14:53:00Z
@@ -82,6 +68,20 @@ related:
       - url: "https://EINPRESSWIRE.images.worldnow.com/images/22441134_G.jpg?lastEditedDate=1648724002000"
         width: 600
         height: 400
+        isCached: true
+  - title: "AI in Retail and e-Commerce Market 2022 Growth by Opportunities, Application, Current Trend and Forecast by 2031"
+    excerpt: "Comserve / -- Global AI in Retail and e-Commerce Market: Drivers, Restraints, Opportunities, Trends, and Forecast up to 2031 Overview Globally, the retail industry has become more competitive than ever as customers have plenty of choices while buying any product."
+    publishedDateTime: 2022-04-03T21:39:00Z
+    webUrl: "https://menafn.com/1103954850/AI-in-Retail-and-e-Commerce-Market-2022-Growth-by-Opportunities-Application-Current-Trend-and-Forecast-by-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 16
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?757197"
+        width: 375
+        height: 249
         isCached: true
   - title: "Electronic Skin Market Share, Size, Key Players, Trends, Competitive And Regional Forecast To 2027"
     excerpt: "High demand for electronic skin in the healthcare sector to treat diabetes and cardiology diseases is driving market growth. NEW YORK, NY,"

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-03T19:03:00Z
 originalUrl: "https://medcitynews.com/2022/04/bayer-reloads-leaps-with-e1-3-billion-to-step-up-investments-in-biotech-innovation/"
 webUrl: "https://medcitynews.com/2022/04/bayer-reloads-leaps-with-e1-3-billion-to-step-up-investments-in-biotech-innovation/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: MedCity News

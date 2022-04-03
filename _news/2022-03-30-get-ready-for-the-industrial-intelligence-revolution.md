@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -63,17 +63,6 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
-    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
-    publishedDateTime: 2022-03-30T01:50:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 21
 
 secured: "ZLSnU5nSK5fXE7M32Hpdb0z8oEvknozoBw1JJmafYd66eCR6wTD9LrhCaeVROZw0ghjdAaHfjs2QwKt5QaXBSNl6vbL89GVU4S4Ad4rHc6fjTtOCwSBM5jsELZ3Qu6PNnD5A4YR9/5elPN7nYLzFWItRMFqHvDEqUYuezeVNE2E0L7kighwEOCPgDVOBlzYePUMmGEVniDErIC2bLgZ1xYkfcEgiVK34f217FHVsGm1NSSlMqn66dqbt9aUJIK1hUn93tAXjy7vr1aq0veq6F9x4q2Rsg/f/UIvmnXwB86gmSVNRhcArlvj6E+zlLooqs1pCL/lkZMshJp/HewyaOmU8qYsKQ/pvoKoGV33PQ0PQ4Y4TiiBqbOMNL5VfnkAKQaN79KjOEpf2kBai3CXhgrlNLO29QtHUahNc454K764mDfLmSSRrfG6cHd9gukaxiRmEGK4hFub45Z7moSm83v5jqWcDfpJU3q33MfIm+DgtByPVqjBU7Woknahwmwjq5fTqs2Hj9O9VBRhlSnxCyQ==;dt9rd1YkMvRTY1Af4TrKnA=="
 ---

@@ -28,6 +28,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 0
+  - title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit Î»ambeq, Enhancing Accessibility"
+    excerpt: "The new release has been designed for a growing community of researchers, developers and users versed in quantum natural language processing (QNLP) and natural language processing (NLP)."
+    publishedDateTime: 2022-04-03T18:38:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1244820&cat=PRN"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "/F/x6zopW1OS+wYEV5OqLKJbwSKRGvK8IDwhy2EjowxVFD9VvIIQiAdvYuAUtQld2BrEgZuGkdPkHzX4zIjYnRKOtUzyZvFg13djZDxo3pJXcuX70f+IFQHTG77UIzcJUVKTCULeO4tkWAHuiJhnZDIFh05MJN1EaxXN3pAjDEELSTMtvLhqocfkcfjVXh7NOiduTlUPxdKc8CdOa+wFkFFezQHfnXMmARy9cE8nEirEZqcOfswBguu8ScY/8Aa+s/A+1mELovaDIFUw3It+1lJCrqWgoM6ce4nAvFh/hc11945910hBHYCb00zPGPUNy9yJyzRT3sRCTba4qxhiUyS5718GdUlLqZQWfVaFqwg=;hUzOc79CQRiZkSwcBo+1Mg=="
 ---

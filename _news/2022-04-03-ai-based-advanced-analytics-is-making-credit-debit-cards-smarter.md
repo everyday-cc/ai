@@ -8,7 +8,7 @@ webUrl: "https://www.livemint.com/technology/aibased-advanced-analytics-is-makin
 ampWebUrl: "https://www.livemint.com/technology/aibased-advanced-analytics-is-making-credit-debit-cards-smarter/amp-11649003838074.html"
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/aibased-advanced-analytics-is-making-credit-debit-cards-smarter/amp-11649003838074.html"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 

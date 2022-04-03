@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-03T18:41:00Z
 originalUrl: "https://www.dailypioneer.com/2022/india/ai-reduces-its-flights-to-lanka-as-crisis-deepens.html"
 webUrl: "https://www.dailypioneer.com/2022/india/ai-reduces-its-flights-to-lanka-as-crisis-deepens.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Pioneer

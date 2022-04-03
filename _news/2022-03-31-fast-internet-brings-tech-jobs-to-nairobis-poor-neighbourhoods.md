@@ -5,10 +5,12 @@ excerpt: "Daniel Nzoma's face glows in the light of a computer screen as he revi
 publishedDateTime: 2022-03-31T10:06:00Z
 originalUrl: "https://www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods"
 webUrl: "https://www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods"
+ampWebUrl: "https://www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods?amp"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
   name: Nasdaq
@@ -34,6 +36,6 @@ related:
         height: 380
         isCached: true
 
-secured: "eaAyjTgSY8sFkxAtRZavPjDfP/y8WIzcbh8YkWdXdyfrgKltXN+FwtY8PWf52oCvl8bhkW9VqzenXwm7k94oUWl8Z6WXU8IyJSZKTb07T1BKrRDmTNXtDWeU+R+Lcf0XbT22VCzziU3GYEUC9hovovYh+Ebu3EKBW1HVoSgJZ+mKdwPlU3JJMQGayLYEdESNIYDegF4lVwWRuEss0f65ZS8T3TwMTcMGO4FsYsi5rIiWiCOnUtE0lDrmbtsnXIRyzeDYcxDECZs1P0LyIBNoUWeXBnUkeJC2ZtmecQYdkPuslWy7OBCtbOvmYM2tlPH45yUWr+9nQhoSvjPvzFF5mikR1daHDZDZhroN53/D4p8=;tooToBrn8ONPE3she1R4kw=="
+secured: "+1qgEenrqnPO1xnyDW9doZVvxR7ntvd31UWBDzknl3C3v4MsAZIhS1Lu90EPENj4IqDZVAi7w5cpAR4PYzFE16ceql2EX2e8R4PKaTyBJhwgYzvuxrjjvkIQliDGtJAeDh6Prj/YddXI4S8b+vkRPcrseFtAIi3/dLJkDmi5Qq2UBDchugsydr4Owl8ZeI9wdOdoEFlON53NoMuAxQIXI238WDj69ufry/zhXpA/OIBw3qeIhGEOuWgIT62WR5At5/Yo6CuARe+y44sWs+U0mL+iPQWhPHWiA2dyIomZX9fBaEUdheXqjX3atjrQqQ0OueiBaOP2M38lOlAFMlMiVD8wwtYJSbrpDJ+Cu3SGaZw=;gHvgoi7k+/oPhLI+lcVkug=="
 ---
 

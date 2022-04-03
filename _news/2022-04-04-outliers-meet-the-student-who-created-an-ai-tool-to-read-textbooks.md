@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-03T18:14:00Z
 originalUrl: "https://timesofindia.indiatimes.com/india/meet-the-student-who-created-an-ai-tool-to-read-textbooks/articleshow/82731290.cms"
 webUrl: "https://timesofindia.indiatimes.com/india/meet-the-student-who-created-an-ai-tool-to-read-textbooks/articleshow/82731290.cms"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: India Times

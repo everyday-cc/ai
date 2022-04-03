@@ -48,6 +48,15 @@ related:
         width: 732
         height: 411
         isCached: true
+  - title: "Dubai Police officer named among 30 leading Arab artificial intelligence experts"
+    excerpt: "Engineer Dr Major Issa Ibrahim Basaeed, head of artificial intelligence applications and emerging technologies at the General Department of Artificial Intelligence in Dubai Police, has been recognised among the region's top 30 leading Arab experts in AI by MIT Technology Review Arabia."
+    publishedDateTime: 2022-04-03T18:43:00Z
+    webUrl: "https://menafn.com/1103956202/Dubai-Police-officer-named-among-30-leading-Arab-artificial-intelligence-experts"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 27
   - title: "Second Palestinian professor makes it to list of 30 Leading Arab Experts in AI"
     excerpt: "A second Palestinian professor has made it to MIT Technology Review Arabia’s first edition of “30 Leading Arab Experts in AI” list for 2022. Nizar Habash, a computer science professor at New York University Abu Dhabi and the director of the Computational Approaches to Modeling Language (CAMeL) Lab,"
     publishedDateTime: 2022-03-30T11:35:00Z

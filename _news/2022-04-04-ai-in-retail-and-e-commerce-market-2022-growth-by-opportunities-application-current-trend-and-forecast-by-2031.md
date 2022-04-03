@@ -1,34 +1,43 @@
 ---
 category: news
-title: "Artificial Intelligence (AI) in Automotive Market importunity Analysis, Growth, Key Players, Shares, Drivers, Challenges with Forecast to 2026"
-excerpt: "The study on the global market for Artificial Intelligence (AI) in Automotive evaluated the historical and current performance of this market, especially highlighting the key trends and growth opportunities."
-publishedDateTime: 2022-04-01T12:30:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-importunity-analysis-growth-key-players-shares-drivers-challenges-with-forecast-to-2026-2022-04-01"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-importunity-analysis-growth-key-players-shares-drivers-challenges-with-forecast-to-2026-2022-04-01"
+title: "AI in Retail and e-Commerce Market 2022 Growth by Opportunities, Application, Current Trend and Forecast by 2031"
+excerpt: "Comserve / -- Global AI in Retail and e-Commerce Market: Drivers, Restraints, Opportunities, Trends, and Forecast up to 2031 Overview Globally, the retail industry has become more competitive than ever as customers have plenty of choices while buying any product."
+publishedDateTime: 2022-04-03T21:39:00Z
+originalUrl: "https://menafn.com/1103954850/AI-in-Retail-and-e-Commerce-Market-2022-Growth-by-Opportunities-Application-Current-Trend-and-Forecast-by-2031"
+webUrl: "https://menafn.com/1103954850/AI-in-Retail-and-e-Commerce-Market-2022-Growth-by-Opportunities-Application-Current-Trend-and-Forecast-by-2031"
 type: article
-quality: 48
-heat: 48
+quality: 16
+heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
-  - AI Hardware
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?757197"
+    width: 375
+    height: 249
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Automotive Market importunity Analysis, Growth, Key Players, Shares, Drivers, Challenges with Forecast to 2026"
+    excerpt: "The study on the global market for Artificial Intelligence (AI) in Automotive evaluated the historical and current performance of this market, especially highlighting the key trends and growth opportunities."
+    publishedDateTime: 2022-04-01T12:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-importunity-analysis-growth-key-players-shares-drivers-challenges-with-forecast-to-2026-2022-04-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Computer Vision Market Opportunity Analysis and Industry Forecast worth $51.3 billion by 2026"
     excerpt: "\"AI in Computer Vision Market\" AI in computer vision market size is projected to grow from USD 15.9 billion in 2021 to USD 51.3 billion by 2026, at a CAGR"
     publishedDateTime: 2022-03-30T23:10:00Z
@@ -71,20 +80,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI in Retail and e-Commerce Market 2022 Growth by Opportunities, Application, Current Trend and Forecast by 2031"
-    excerpt: "Comserve / -- Global AI in Retail and e-Commerce Market: Drivers, Restraints, Opportunities, Trends, and Forecast up to 2031 Overview Globally, the retail industry has become more competitive than ever as customers have plenty of choices while buying any product."
-    publishedDateTime: 2022-04-03T21:39:00Z
-    webUrl: "https://menafn.com/1103954850/AI-in-Retail-and-e-Commerce-Market-2022-Growth-by-Opportunities-Application-Current-Trend-and-Forecast-by-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 16
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?757197"
-        width: 375
-        height: 249
-        isCached: true
   - title: "Electronic Skin Market Share, Size, Key Players, Trends, Competitive And Regional Forecast To 2027"
     excerpt: "High demand for electronic skin in the healthcare sector to treat diabetes and cardiology diseases is driving market growth. NEW YORK, NY,"
     publishedDateTime: 2022-03-30T11:55:00Z
@@ -100,6 +95,6 @@ related:
         height: 250
         isCached: true
 
-secured: "10HHiN3QhEMnm+9zuS3+4ctvmIJxFeqNZZPcjuedp4bPeffbicU5X26Ui1KiZbhTwAKKrYAQYUMdLV/KUGF/WPEBtzzYEq8sQLNE1FiHC777XLbwdo9n2ZGr6vxY5PVYqK58mBIyrP5j56sebWQYmRwZpi3q2kSOOJyJ1V+YPJh0tfdn1gKLK4A41QcwWqkUjeKiUqhY8MCoA3ZfJuj/parXGzqk8qP2Uq3kMXni7qVhs9H9MdBG/kB2+0dw0dC/cYz56nFUgqhMnpFSYtWYj3PpHoQMF0FOIGGLh0MB8UtT1PEkevBncQbk8W3YPz22cdh8EDtPjaWfMeXSWdSn2SIys/JvfGQ3WvNTRKkECI4=;QSg3GCIUrra1rUZVDZQq9A=="
+secured: "5cQu/Ji/zb1Wxd8rh8LBmGYrzlOwkaVSIpF7K6xGbaxFj+it+icW5ixyTpMM13WtldvDiY54IE25yQ7+W8qUcA9ps0/TDt3AlObTKLHT/uFUriHHxM+hK7Xszp0LY2THks/BsFLd0ZfV7NNzjEhXWBu+4dzlB+NSxcJZ4gLBuFbh8yB7XbI5S9uMn2e1OON2Y26dmfRN1VORtEGiEUeGJXUyitUKHVVhHF4aduJltHJNUCpQeDMU6+PWntYHHuuIbS8nCbBMH4slnFOoqV85bS5CxjpLBQ5unWv/h/L+UScGadBK5hJdH0Q3jHk3mhTu1E1Luv/1DG9bLR7+hUiuzWGgJ0o3uF8NMXuLr1VduqA=;FclQlmNIQej0weaCwKVftg=="
 ---
 

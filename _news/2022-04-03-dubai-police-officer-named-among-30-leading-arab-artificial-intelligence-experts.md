@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/tech/dubai-police-officer-named-among-3
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/tech/dubai-police-officer-named-among-30-leading-arab-artificial-intelligence-experts?amp=1"
 type: article
 quality: 67
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
         width: 732
         height: 411
         isCached: true
+  - title: "Dubai Police officer named among 30 leading Arab artificial intelligence experts"
+    excerpt: "Engineer Dr Major Issa Ibrahim Basaeed, head of artificial intelligence applications and emerging technologies at the General Department of Artificial Intelligence in Dubai Police, has been recognised among the region's top 30 leading Arab experts in AI by MIT Technology Review Arabia."
+    publishedDateTime: 2022-04-03T18:43:00Z
+    webUrl: "https://menafn.com/1103956202/Dubai-Police-officer-named-among-30-leading-Arab-artificial-intelligence-experts"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 27
   - title: "Palestinian professor included in list of 30 Leading Arab Experts in AI"
     excerpt: "MIT Technology Review Arabia has listed a Palestinian computer science professor in its first edition of “30 Leading Arab Experts in AI” list for 2022. MIT Technology Review Arabia included Mustafa Jarrar,"
     publishedDateTime: 2022-03-30T09:57:00Z
