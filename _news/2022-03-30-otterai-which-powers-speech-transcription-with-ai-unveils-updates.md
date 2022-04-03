@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/29/otter-ai-which-powers-speech-tran
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/otter-ai-which-powers-speech-transcription-with-ai-unveils-updates/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Otter.ai overhauls its popular transcription platform"
-    excerpt: "The AI-powered transcription service is setting its sights on improving the in- and post-meeting experience for workers around the world."
-    publishedDateTime: 2022-03-29T09:00:00Z
-    webUrl: "https://www.computerworld.com/article/3654958/otter-ai-overhauls-its-popular-transcription-platform.html"
-    ampWebUrl: "https://www.computerworld.com/article/3654958/otter-ai-overhauls-its-popular-transcription-platform.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3654958/otter-ai-overhauls-its-popular-transcription-platform.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2022/03/home-feed-and-meeting-gems-panel-100923010-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Otter.Ai, AI-Powered Speech Transcription Service, Unveils New Updates"
     excerpt: "Otter.ai, a California-based firm , has announced a major update to its transcription-focused speech-to-text Otter platform."
     publishedDateTime: 2022-03-30T10:39:00Z

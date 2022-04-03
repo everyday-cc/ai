@@ -38,6 +38,15 @@ related:
         width: 300
         height: 225
         isCached: true
+  - title: "Seeed and alwaysAI Partner to Accelerate Deploying Computer Vision at The Edge"
+    excerpt: "Today, Seeed, an AIoT hardware service platform, and alwaysAI, a computer vision software platform leader, announced their partnership to advance the development and deployment of computer vision applications on the edge."
+    publishedDateTime: 2022-03-29T12:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-seeed-alwaysai-partner-accelerate-deploying-computer-vision-the-/2022/03/29/9572354.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
 
 secured: "yldD9hC7Xk5MJ4o9S8KYnUa5xUfetuz3GubOUxkoPXoa0qgaY4tPkbO8BaSB+NRpD/Ut550LTXtcSTt65JQq7BZGSQw9gU65pZU4LdCBSWvjNhzg0nQEiuckXl+DsE5xB4CS4bQEOTq1sFP4ToM1WxgMThN9ULtUTwb82BLGdEkqOIm+8tOv29yvXP+KShupIKFHqmZPStAhvSGI5i36IakVJEtkT7/pzuQPAhtxJylHaLCZ1NlpjP07o327F2xQkHQG5fuc3rnrDpEL0cI+4jtL3CALBtXucDSjZHk6FWTkVkJvTLU2BZ0q1GVfUQbvkuxRhheFbkNZKaugEplUqyARN+SZ6bUha8tc9GZSf17CxOOvBx5NZyUgNS9/1WIpekRW3xsIErwMdxE4GPNjF9RouVcrs+X1H/cU09O1fCfuA8E0o2UaNbgqMm8WcjaTrj4iSn/xcq7zSqKSvN40X5J02X5lk+ltKOyxuPWGBxg65VI16LbJBx5LiANTeUhwpF99UG8SAPkC+ru4iCy4+Q==;d7GC2iltbX3gEqjarQPRow=="
 ---

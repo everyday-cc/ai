@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103933747/Artificial-Intelligence-AI-In-Food-A
 webUrl: "https://menafn.com/1103933747/Artificial-Intelligence-AI-In-Food-And-Beverages-Market-Competitive-Research-And-Precise-Outlook-2027"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in construction"
-    excerpt: "With the explosion of terms like Artificial Intelligence (AI) and Machine Learning (ML) in construction, AEC Magazine caught up with Senthil Kumar, CTO and head of AI at start-up Slate.ai to discuss how the technology can assist the complexity in the building industry Q: Senthil,"
-    publishedDateTime: 2022-03-29T07:32:00Z
-    webUrl: "https://aecmag.com/ai/artificial-intelligence-ai-in-construction/"
+  - title: "2022-2027 Global and Regional Artificial Intelligence (AI) Chips Industry Status and Prospects Professional Market Research Report Standard Version"
+    excerpt: "Chips market was valued at 5972.91 Million USD in 2021 and will grow with a CAGR of 36.2% from 2021 to 2027, based on Research newly published report. The prime objective of this report is to provide the insights on the post COVID-19 impact which will help market players in this field evaluate their business approaches."
+    publishedDateTime: 2022-04-01T07:08:00Z
+    webUrl: "https://galleonnews.com/news/243609/2022-2027-global-and-regional-artificial-intelligence-ai-chips-industry-status-and-prospects-professional-market-research-report-standard-version/"
     type: article
     provider:
-      name: AEC Magazine
-      domain: aecmag.com
-    quality: 60
-    images:
-      - url: "https://aecmag.com/wp-content/uploads/2022/03/Untitled-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Galleon News
+      domain: galleonnews.com
+    quality: 11
 
 secured: "0bkW5le8+LX7lkcgNRqKlX3EScypoS8/9Ttq9rnyPiqJVA3VBvLfkZ4GIcgJtz1yX9zb3FPaUCx2cynp3SUJJo3LZ9rmkbbbzt5y9wPIf3rk2DX4iC9ef6Bf2K99Nu+LFLynFyli9ll49390W8S+tUm1VZlb0Z0wiFRSqJI3/KAyL56JO0oc1Run0FvG/kmLzvAayAX6AjPpWj8dRCKJkGDnP7CdcDAjEEonvMhvR0r+S3T56HFsrNHh+TFNrdpFCa4yAwf2UWAgviJjVmqvyuhW/DT45BP8c5wpQHCIolMgLLKgAK7U8YpUx9tj6CrpeBIoZWt5XkVfAblDAq6XpGAkC9cuEeCXU3j8xSrMruI=;C5R+4+p0LibWAoebbR/JcQ=="
 ---

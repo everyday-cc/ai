@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=638792"
 webUrl: "https://us.acrofan.com/detail.php?number=638792"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,29 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Katana Edge AI Kit to accelerate AI vision and sensor fusion development"
-    excerpt: "Synaptics has announced an Edge AI evaluation kit (EVK) for the rapid development and prototyping of artificial intelligence (AI) applications at the edge. Based on the company’s low-power Katana system-on-chip (SoC) platform,"
-    publishedDateTime: 2022-03-29T08:19:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/katana-edge-ai-kit-to-accelerate-ai-vision-and-sensor-fusion-development"
+  - title: "Early Money: San Jose AI startup OmniML, led by former Facebook engineer, comes out of stealth with $10M"
+    excerpt: "Artificial intelligence startup OmniML Inc. came out of stealth on Tuesday with $10 million in seed funding. The San Jose company is developing what it says are smaller and faster machine-learning models for the use of AI on devices at the edge of data ..."
+    publishedDateTime: 2022-03-29T18:30:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2022/03/29/former-facebook-engineers-ai-startup-raises-10m.html"
     type: article
     provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 38
-    images:
-      - url: "https://www.newelectronics.co.uk/media/vhznrcx1/synaptics.png"
-        width: 498
-        height: 280
-        isCached: true
-  - title: "Seeed and alwaysAI Partner to Accelerate Deploying Computer Vision at The Edge"
-    excerpt: "Today, Seeed, an AIoT hardware service platform, and alwaysAI, a computer vision software platform leader, announced their partnership to advance the development and deployment of computer vision applications on the edge."
-    publishedDateTime: 2022-03-29T12:39:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-seeed-alwaysai-partner-accelerate-deploying-computer-vision-the-/2022/03/29/9572354.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "AR1+yrwpEB+0VOe5NQl7+voNDdYYSzy5mnhskDtlBdQzikcexTCJQ5huNU6jIh3QyV9Tb7hulfus3KHqTvgPEwpqg59Sp1RGOQ5HcBLQB49p6ALXEKLRDPHf+dATEgXHkjummXJtCNgfngnXma1w0rXBxDiDjiGbP6bTGxL4pU7BcT47iuKWp+oGZs20F9ZQc6ThUwBF/8c16xdDgvVM/RUYerA+GJfzMsj50QHaGVVTMULaCLQ4L4DbZvmyFiBRlEftlFIeS4if7PThCQo40HF0/DzrkcbXlDVdjPXn9AhAQXb6kWL3MTJf/YoXXSnzdZDkSdDxgkISNpoILYuw5XFMrGBV2BzbUXECGuo50Q4=;+qc9q3LKR8NaAsJVwlAqNw=="
 ---

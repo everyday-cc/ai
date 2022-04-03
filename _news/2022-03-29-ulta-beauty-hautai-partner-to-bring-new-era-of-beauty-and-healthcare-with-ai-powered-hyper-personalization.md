@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Seeed and alwaysAI Partner to Accelerate Deploying Computer Vision at The Edge"
+    excerpt: "Today, Seeed, an AIoT hardware service platform, and alwaysAI, a computer vision software platform leader, announced their partnership to advance the development and deployment of computer vision applications on the edge."
+    publishedDateTime: 2022-03-29T12:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-seeed-alwaysai-partner-accelerate-deploying-computer-vision-the-/2022/03/29/9572354.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
   - title: "Innovative AI skincare company Haut.AI partners with retail giant Ulta Beauty to revolutionise the beauty and skincare industry"
     excerpt: "The AI-powered, hyper-personalised skin and beauty technology partnership that’s disrupting the beauty industry"
     publishedDateTime: 2022-03-29T19:15:00Z

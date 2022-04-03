@@ -42,22 +42,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Otter.ai overhauls its popular transcription platform"
-    excerpt: "The AI-powered transcription service is setting its sights on improving the in- and post-meeting experience for workers around the world."
-    publishedDateTime: 2022-03-29T09:00:00Z
-    webUrl: "https://www.computerworld.com/article/3654958/otter-ai-overhauls-its-popular-transcription-platform.html"
-    ampWebUrl: "https://www.computerworld.com/article/3654958/otter-ai-overhauls-its-popular-transcription-platform.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3654958/otter-ai-overhauls-its-popular-transcription-platform.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2022/03/home-feed-and-meeting-gems-panel-100923010-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "hp9BKNuWHe3nK+L3sWqjG2T5riNOejvuiNDsuO576yH7j38R3ev3a7qk0yDAyvX3XWiUjLI/UYqFHPaDocmJcMptoB8VuDCogJ/to8Z3iqVFLS7gRe2EYEFUYchjgQgf/t4UoXuD4jUtiyzFlxz+oF1rIc+bNTUoM2KsQwQGEA6ismcFhume5rXOxmFYtftHQnZz7YwcuLgAfQOf6eC2hk23Hmj6cFs9OvAlBMVg7F2+1NHSCIybRmAQavRnuzZzuR+2W4Ela0rOUs3WlobehdZoTKSN/qKsec58460bE3qHPlGWEQhXM8ULif0KvZfnMea0TlyAUqzLlPZHJwdMIvorRF0aNSseBRczXnvXCuo=;6g50WlX6IQsAHHWmm/8Bfw=="
 ---
