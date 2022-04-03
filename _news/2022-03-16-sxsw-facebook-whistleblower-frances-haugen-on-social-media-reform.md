@@ -5,8 +5,6 @@ excerpt: "“Facebook has claimed third party fact checking will save us; AI wil
 publishedDateTime: 2022-03-16T04:02:00Z
 originalUrl: "https://www.kxan.com/news/sxsw/sxsw-facebook-whistleblower-frances-haugen-on-social-media-reform/"
 webUrl: "https://www.kxan.com/news/sxsw/sxsw-facebook-whistleblower-frances-haugen-on-social-media-reform/"
-ampWebUrl: "https://www.kxan.com/news/sxsw/sxsw-facebook-whistleblower-frances-haugen-on-social-media-reform/amp/"
-cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/sxsw/sxsw-facebook-whistleblower-frances-haugen-on-social-media-reform/amp/"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://www.kxan.com/wp-content/uploads/sites/40/2021/12/378636513c1849f7b81694294344adc7.jpg?w=1280"
-    width: 1280
-    height: 853
-    isCached: true
-
-secured: "LLjuYXlrRELdGMb+jFqk0FpgGxq5uUJhSjVtTuKzHjHr7WP30V0xWoyt0GegUZTHOW9GDG2U6OZ0J1g8HtkbVA5Y0W4ViriygmWQkpshkzGrpDdJATS9JEQR3TmcRJewaxt+AG7Gyn4/kNQNjCEYqOObsQk637/oBtCgAW2/Rr65zD96e7MlcXIodax2Ch7DX78hme9QYpVsT3oPS1abb/fAOPU0y3VYKEVJLszWk0eIPgqf9gwMQ3lwjosLqO4U/Z9coleGp+cTcCnuEQvpI9+y3+kxzQ8wVri2ldmQGqBHTJUpnohU/0HvUpE64GkA9k53wBGIbR0qccUMjDtRhKAbwmqW7tGTeCYTlZPYP1c=;O+oR0oXjQ2HpxlXw2XurNg=="
+secured: "tzBgkvCDYM3KehFpMhK8d7A7T8yGlYys9+ZgYa1twca0v6+C89k6u9Aw//5Oc7h0WzV3xv+yrK5/yseF9NQviAf+NObMSrBRtjXbNnGRTVOsZxXVfu0r9hTHnqMFORwqMbsSMbR2DJIjFdr/WC+0AiCzVDW0LEJsiqUMDSpihuY5U8g/fPV98uBx5luJhC0Fn44uu+ptWiaJLrG6E/9XHdOs9V0xJWLukKcRjeJ6h4pB8fEqaepzi9tXumzUNjZHkfHQM1dJZzFGWzxbgCzdn8Of2v1wIilYswqxH+S02y/1Hmp9NzKOXZ/opwdg75PczzUhbMqNLKlUlNyTLSJp7yjodfCnbUeRcOvKjZiFD88=;I1CVPX+N9lnBhvi1eZXcQw=="
 ---
 
