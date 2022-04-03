@@ -13,6 +13,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mma.prnewswire.com/media/1775269/Institut_National_de_la_recherche_scientifique__INRS__Artificial.jpg"
@@ -20,6 +21,6 @@ images:
     height: 315
     isCached: true
 
-secured: "WKgG21lu0ZxAC9+pbd+rM5SRCUWsTcY/2UvO5eLI1V9dlWa2LuUiK0yc8Nx+wzG2Nji6/Xudb1F74mSDic1FTMOzQweH6NuEBxLLGTtYlEa+sPkkSKKZeWgezySNXgkqukSj5T4RVqTAd5tIu3xu81C6ehvIkRkgUqJpJs4Alne3rlXlMmSuueIflYgTIIH1Sb3Ek35ZG3xtjyzYXMOGpASjgsgC0LEW9QXBePwRdJolwXxdsnHcD6+h20pnHL2enKYzar/DuQ5FlSJoQ9f1Qt0IXYVQfdA84qnsi8PiYcYMwYQoyWatxzyjOunNwPwbZNZmQ8BHgCec2IEnkgtFo3PL1xAJN2WE9O1UREUtcA8=;ClBT2UWTKPNrDXYIYHaC/w=="
+secured: "cnR1gGSy6skgsRCPQJJfF0oJVR+S3ArrzdWCEW4WK5qaxAuOnTCRFP7KwjQkuBw+EbPeABvFJ8ho5NdPQ/IWHC4TxZ+K0htCB31KHGt7TOKFyvXaAldtm+LvlIvACmu+C4pH6/XPBsXkUB5exn6Hq8G7tLhvoUrQ0DySUNluLZma1AvzEqqiwnFnKy8SaDsKaoqbX4qmoHzlIzt11IjFeIMyo2AzB2aGx80hfXbtdUH6IZB6+qR5OZ1oFzSHYL+wmnGNWhtZTMGjygQAc3/Uz7U+Yq7rPRQkU7lmOfpKwD/ddT/Vi/lsnmVNjveyZ3r7o0HTTLv4chmpHqMYWImc9vWqTSCTwNcrSWl0xVGW64TH/3AzwABsSr1vp/3Jahbm3NCrf0qARrbHgBleQeJIvRFN6Nyt51g0JEr7Lf7AYqsefGySQY8D8QnsQQezipGfJJy+OzR/WNb4z+/id6pm9SaMI8y6syas7yryiX0kA79FWL39/uVXduGPLz//La0YAhv+5LJWhyfYYkrtmNinKg==;BBCC4gE0OovKMu46e4hCMQ=="
 ---
 

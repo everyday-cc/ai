@@ -109,15 +109,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "How AI Technology Helps Restaurants Improve the Customer Experience"
-    excerpt: "As The New York Times recently reported, the pressures on staffing is one of the reasons restaurants have been moving away from answering customer telephone calls. Some restaurant owners reported being just too busy preparing"
-    publishedDateTime: 2022-03-29T18:11:00Z
-    webUrl: "https://restauranttechnologynews.com/2022/03/how-ai-technology-helps-restaurants-improve-the-customer-experience/"
-    type: article
-    provider:
-      name: restauranttechnologynews
-      domain: restauranttechnologynews.com
-    quality: 17
 
 secured: "EslDkqqgpPis5xGYRvy5nC1lm5MNw05HYYuFOWijobP3m9yjrcw69YvlmrbqhDlKPzyPd/SSpppohDHPxoJeY8mY3lYl8Vrlc/TjxJyymZG782Q4UR5qpraQ/+RWcZGkgEv6bSItLF0EL+j9FCM258hE3JmJItwubYAeT8vjQ16BHAV5XKAorZ4X/GjlTIEWbXcYWeMEJmqEiKFDG+O/aC8aosuFANEUZKVgSVhH4xpA8YR6ieBYk6TGm/fk1MsVd/IuwbTr+9dCoqSzWTecOmBXy7SAHig15WpEQ9G3BqTAPpNebc5lyHvawIzvSxexBmjmRJHCDkHsfshJ+/RFSwdSP4xxlFqFkryLcL8wecQ=;rw8NoIH0XCHzilC7WivkfQ=="
 ---

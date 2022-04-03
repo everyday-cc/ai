@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 616
         isCached: true
-  - title: "Oracle adds autoML to its MySQL HeatWave service"
-    excerpt: "Oracle has added autoML, real-time elasticity, and price-performance trade-offs to Heatwave, the analytics engine it piggybacks on MySQL transactional database. Nipun Agarwal, veep of HeatWave and advanced development at Oracle,"
-    publishedDateTime: 2022-03-29T18:00:00Z
-    webUrl: "https://www.theregister.com/2022/03/29/oracle_automl_mysql/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/03/29/oracle_automl_mysql/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/29/oracle_automl_mysql/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2019/03/06/shutterstock_oracle2.jpg"
-        width: 648
-        height: 432
-        isCached: true
   - title: "Oracle releases new machine learning integrations with its MySQL HeatWave cloud service"
     excerpt: "Oracle MySQL HeatWave now supports in-database machine learning (ML) in addition to the previously available transaction processing and analytics—the only MySQL cloud database service to do so. MySQL HeatWave ML fully automates the ML lifecycle and stores all trained models inside the MySQL database,"
     publishedDateTime: 2022-03-30T08:59:00Z
@@ -78,15 +62,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Oracle Announces MySQL HeatWave ML--the Easiest, Fastest,"
-    excerpt: "Oracle today announced that Oracle MySQL HeatWave now supports in-database machine learning (ML) in addition to the previously available transaction processing and analytics—the only MySQL cloud database service to do so."
-    publishedDateTime: 2022-03-29T17:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-oracle-announces-mysql-heatwave-ml-the-easiest-fastest-/2022/03/29/9572782.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "0rckQSTVH/IQjhYc+bI/dbE9VuzQ5uw3w69ZbV4gu8+oIJf8mb7xK0W0EtM09qZWrYGZWzaT4qqtThRRi6uIPzuJsaVpUoJQgpyN+foeOnwJXRPBbV1nUweNazNm+f2Wh09SCw+0QS8V9JNP9rIIStWDFVat3SEF+cOBfiqh3BGDx/1kDJllbVY3hkDvm7bDWHbxBSKBlO31JatIxxacsTkSqSHIgaboMbgLYn32Qwf+ZEH+6QZHaAHxS7cWcLW3kydBwTVs9aEBO9z5DH6j4kxbep3l7ahCNHgxpRMFL4VF84jGU5ED29mq+f60OOqculRjUd/p8ZtWyb/8orqH3M+LkQe0+45a38ZKBTwBuS6mZojZIlHIMqsnc048sQezOVUeUaY+eJpVvzKUllOR9ACywzjXVB5VyU+8fdLUx9RbifmsqzVqwjPma59MvL8XhZ9EXTF73h6/FQMJ5FMsxv4+uxmysLpQ6S6JhIV1DyzV3o43tG+7LYUIZ7NKQE1bgAZL8bGhh/qJn7sCZvN/Rg==;JCQJuHFfF8piyKrDv/bkKg=="
 ---

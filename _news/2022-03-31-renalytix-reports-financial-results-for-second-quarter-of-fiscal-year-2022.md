@@ -41,6 +41,22 @@ related:
         width: 600
         height: 385
         isCached: true
+  - title: "Renalytix AI plc (NASDAQ:RNLX) Receives Consensus Recommendation of “Buy” from Analysts"
+    excerpt: "Renalytix AI plc (NASDAQ:RNLX – Get Rating) has been assigned a consensus rating of “Buy” from the seven brokerages that are currently covering the stock, MarketBeat.com reports. One equities research analyst has rated the stock with a hold rating and five have given a buy rating to the company."
+    publishedDateTime: 2022-04-03T11:28:00Z
+    webUrl: "https://www.etfdailynews.com/2022/04/03/renalytix-ai-plc-nasdaqrnlx-receives-consensus-recommendation-of-buy-from-analysts/"
+    ampWebUrl: "https://www.etfdailynews.com/2022/04/03/renalytix-ai-plc-nasdaqrnlx-receives-consensus-recommendation-of-buy-from-analysts/amp/"
+    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/03/renalytix-ai-plc-nasdaqrnlx-receives-consensus-recommendation-of-buy-from-analysts/amp/"
+    type: article
+    provider:
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 49
+    images:
+      - url: "https://www.marketbeat.com/scripts/RatingsChart.ashx?Prefix=NASDAQ&Symbol=RNLX"
+        width: 600
+        height: 385
+        isCached: true
   - title: "Here's what to expect from Renalytix AI's earnings report"
     excerpt: "Renalytix AI reveals earnings for Q2 on March 31.Wall Street predict expect Renalytix AI will release losses per share of $0.160.Go here to track"
     publishedDateTime: 2022-03-30T13:07:00Z

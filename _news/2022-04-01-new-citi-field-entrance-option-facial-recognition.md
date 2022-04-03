@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsday.com/amp/sports/baseball/mets/facial-recognition-
 cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/sports/baseball/mets/facial-recognition-citi-field-nljqymcu"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Newsday
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Task force, commission want government intervention with AI; especially facial recognition"
-    excerpt: "Reports pushing recommendations for more-careful use of public algorithms continue to get more direct and succinct, especially about facial recognition."
-    publishedDateTime: 2022-03-29T18:07:00Z
-    webUrl: "https://www.biometricupdate.com/202203/task-force-commission-want-government-intervention-with-ai-especially-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 44
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Facial recognition firm to expand reach"
     excerpt: "A controversial facial recognition company that's built a massive photographic dossier of the world's people for use by police, natio"
     publishedDateTime: 2022-04-02T05:12:00Z

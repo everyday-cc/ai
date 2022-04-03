@@ -2,49 +2,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_news/2022-03-07-self-driving-cars-may-increase-traffic-says-tesla-ceo-elon-musk.md",
-      "title": "‘Self-driving Cars May Increase Traffic’ Says Tesla CEO Elon Musk",
-      "excerpt": "Self-driving vehicles will make travel much easier, and they will allow groups of individuals who are now unable to operate a vehicle on their own to gain personal mobility.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/mobility/28399/self-driving-cars-may-increase-traffic-says-tesla-ceo-elon-musk",
-      "originalUrl": "https://in.mashable.com/mobility/28399/self-driving-cars-may-increase-traffic-says-tesla-ceo-elon-musk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/eadbe1d3-ce78-49e5-86dd-2656a7facf35_91he.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/mobility/28399/self-driving-cars-may-increase-traffic-says-tesla-ceo-elon-musk?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/mobility/28399/self-driving-cars-may-increase-traffic-says-tesla-ceo-elon-musk?amp=1",
-      "publishedDateTime": "2022-03-07T07:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-07-4-stocks-in-spotlight-with-ai-making-inroads-in-medtech.md",
       "title": "4 Stocks in Spotlight With AI Making Inroads in MedTech",
       "excerpt": "Artificial Intelligence (AI)-driven technologies are playing a vital ... In September, SYNH acquired StudyKIK, which expands Syneos Health’s ability to accelerate site start-up as well as patient enrolment engagement through their global network of ...",
@@ -1116,6 +1073,49 @@
         "Google AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-05-mtsu-among-seven-tennessee-colleges-to-partner-with-amazon-for-free-tuition.md",
+      "title": "MTSU among seven Tennessee colleges to partner with Amazon for free tuition",
+      "excerpt": "Amazon and the institute also sponsored the first DeepRacer event on campus in November, which allowed middle school and high school teams to compete by collecting and assimilating real-time visual data to guide the navigation of autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dnj.com/story/news/2022/03/04/amazon-career-choice-tennessee-united-states-free-tuition-college-mtsu/9378214002/",
+      "originalUrl": "https://www.dnj.com/story/news/2022/03/04/amazon-career-choice-tennessee-united-states-free-tuition-college-mtsu/9378214002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2022/02/15/USAT/6400450c-6279-4541-b6c1-34a4bf89b0ca-Amazon_associate_box.jpg?auto=webp&crop=5870,3302,x0,y274&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.dnj.com/amp/9378214002",
+      "cdnAmpWebUrl": "https://amp-dnj-com.cdn.ampproject.org/c/s/amp.dnj.com/amp/9378214002",
+      "publishedDateTime": "2022-03-04T16:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily News Journal",
+        "domain": "dnj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

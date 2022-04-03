@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/amp/"
 type: article
 quality: 82
-heat: 142
+heat: 132
 published: true
 
 provider:
@@ -108,15 +108,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "How AI Technology Helps Restaurants Improve the Customer Experience"
-    excerpt: "As The New York Times recently reported, the pressures on staffing is one of the reasons restaurants have been moving away from answering customer telephone calls. Some restaurant owners reported being just too busy preparing"
-    publishedDateTime: 2022-03-29T18:11:00Z
-    webUrl: "https://restauranttechnologynews.com/2022/03/how-ai-technology-helps-restaurants-improve-the-customer-experience/"
-    type: article
-    provider:
-      name: restauranttechnologynews
-      domain: restauranttechnologynews.com
-    quality: 17
 
 secured: "GreFtJ/w3dii/4IWV5tMoMCz+qHag58taiLxlrNFSnuG4bb8+BajS4EkWj2ZKMk0Ho4Cz2buzOtOhQChkp8xydGGhOywrMQeHAppkLrIoh57eRe2O02BytEjo3YFpDT738UzhGCMWbyWnf+kC9uzhbOJSlpeBT5qYQDnyNNshyXsfdUMQkVRQbbR9KNHlO2OEX/G/vx5Uy8exyJu9yH2UQv5rAFgbJ4u5dzbDlqaDdan+B0278+AVQbam/2plP7C5/Mr20zRJWUdgOLx0B2qmi9WHkl+iy/ctyFZBqtxZrCdbTkzmyFgcwtVPFA4/V1mi2wz0q1PsDHsIEnzP7ggFIa1edZeOWIyaKS+909rkhosHscKz5ND6o867vq7TOnQUbC32GUK9NGY0aN2kjq0V1273iDSnBxn6p3pYnFehUlJKqNt2chfvw9XdiilZqc0WOttrwtPFtrzHIJevRbUEa+7qD4paTTNo82dCN3MtUhOmYQX6dSvu9jeFMH0/A7yFwl/OlJwySjWRURzid36Ww==;YhZTvJI0sI7cpY2RswT+Qg=="
 ---

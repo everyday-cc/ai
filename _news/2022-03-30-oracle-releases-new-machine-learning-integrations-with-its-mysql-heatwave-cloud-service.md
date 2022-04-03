@@ -57,31 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Oracle adds autoML to its MySQL HeatWave service"
-    excerpt: "Oracle has added autoML, real-time elasticity, and price-performance trade-offs to Heatwave, the analytics engine it piggybacks on MySQL transactional database. Nipun Agarwal, veep of HeatWave and advanced development at Oracle,"
-    publishedDateTime: 2022-03-29T18:00:00Z
-    webUrl: "https://www.theregister.com/2022/03/29/oracle_automl_mysql/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/03/29/oracle_automl_mysql/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/29/oracle_automl_mysql/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2019/03/06/shutterstock_oracle2.jpg"
-        width: 648
-        height: 432
-        isCached: true
-  - title: "Oracle Announces MySQL HeatWave ML--the Easiest, Fastest,"
-    excerpt: "Oracle today announced that Oracle MySQL HeatWave now supports in-database machine learning (ML) in addition to the previously available transaction processing and analytics—the only MySQL cloud database service to do so."
-    publishedDateTime: 2022-03-29T17:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-oracle-announces-mysql-heatwave-ml-the-easiest-fastest-/2022/03/29/9572782.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "7Dc5PgbS3HqulnpE6Zo96I4+0QMIoAVRslFubIemk6W9g3Ht9Qp70M6qzAJL2G78R1XJcnEgQk8/jsWzItwrm23+cORWUdvtCHpG1YC5v6frQ5B6rZ2hINtR9vYRYGz85XHYZEF4BZOVL5e9coNjv4t67+ygyDO8eLd6IPVZZc42ICUvjV9g5DArd/Gr4aAGFdTA9sMoJRDcwJpxuIbvUgnN91WcBB49PIF+e8JJohYjYAq6TI6Y+ltIYaiMuQjK4GBmKKVqPR7SiJDgwmymfH3qo74YOhsFqN9Ppv7dtQ2gGZmBUke6c8JlGTw0HV/t41J+xy6Kpnv8Ra7vXsfYThMTjUxtAB5Libtxs9pxBeJu7DDc4BOjpti8f/O7tL/OubWTEmN8ObnCwMAr7hjjWuBhuD+dcLvsmgp3OuVCbbAa/kplZCRigCNbGDTnl6zVQHjLW3zTZyhw/3ybWXubyvM2WgFFeSl7ZNqkSSM9WAOd0OFg0KQsnzTfNQlFnvW6QnN3fBv1jD4uu2MiFlgyRA==;TZRapU11kcS0M76Xqr8ifg=="
 ---

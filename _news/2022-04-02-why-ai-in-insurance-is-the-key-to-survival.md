@@ -59,20 +59,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Using artificial intelligence in agriculture"
-    excerpt: "The adoption of pesticides, fertilisers and high-yield crop breeds, among other measures, transformed agriculture and ensured a secure food supply for many millions of people over several decades. Concurrently,"
-    publishedDateTime: 2022-03-29T18:00:00Z
-    webUrl: "https://kathmandupost.com/columns/2022/03/30/using-artificial-intelligence-in-agriculture"
-    type: article
-    provider:
-      name: kathmandupost
-      domain: kathmandupost.com
-    quality: 41
-    images:
-      - url: "https://assets-cdn.kathmandupost.com/uploads/source/news/2022/opinion/shutterstock_1307579191.jpg"
-        width: 3397
-        height: 3492
-        isCached: true
   - title: "About AI on the rise"
     excerpt: "A series exploring how the pandemic has supercharged the use of artificial intelligence tools at work and school"
     publishedDateTime: 2022-03-29T19:32:00Z
