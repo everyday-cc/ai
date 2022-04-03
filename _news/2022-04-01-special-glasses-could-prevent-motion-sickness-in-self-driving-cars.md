@@ -55,6 +55,15 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Winter Haven testing self-driving shuttle that could help its downtown flourish"
+    excerpt: "Haven, it’s an idea still heating up and one the city is still studying. Monday, commissioners approved a Memorandum of Understanding with COAST to begin studying the transit system and the feasibility of bringing it to Downtown Winter Haven full time."
+    publishedDateTime: 2022-04-01T12:38:00Z
+    webUrl: "https://www.abcactionnews.com/news/region-polk/winter-haven-testing-self-driving-shuttle-that-could-help-its-downtown-flourish"
+    type: article
+    provider:
+      name: ABC Action News
+      domain: abcactionnews.com
+    quality: 0
 
 secured: "CG+oCWJ8d4b7HgMViuLd3/NIGyQ1ZODZinthp0sckCh0ZypH63q5GFnOMAU1Us3x/FH6KsfUxn6y4Cl27CkJ6G3D5yW7PPms4MSSfxKzHu0FFLYMFSr4+waclP5X0UoPSeUy/DAsYjqK6vXH5olc6W2ts5V0wK/eAZBmiMwxx7sC1ltzu1Xu7oxXcyHnJgVW9xnBkBK78jzsW/p6L+QxCFILaoV/KiTnB/C3rsuOs/cw1OBlJWhmhFiefYdZpkm98wLfHHsOKkvy9qVpKTsQAOjOD6S3ed1rZ0j9RoEcOTyFisEOBaZx2UedWC/8XKsUBiCRWi5JKlcw6DbjYPTOP7ztYy9YOgnnNzAxNM6YJ4zp0prHjB+XGjBGosEoKkDIf3EoifSHhoQFH4GrvUqFbfDZAQAfJTJnZU63eO2ahIYrNJIT/mMGFfDB3mXJCdo3rOFzzaaXjVFMg1O5+ZbHW5dhy9JCqobscP0MwZtFIq6sOoZ4F7aEr62zYZlmQgc2JSCZV8bRWW5xbJAaMf/acw==;TiP+tWIadsQk+Yx9Timulw=="
 ---

@@ -55,22 +55,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding"
-    excerpt: "Effectiv AI, a Fraud and Risk Management Fintech, Raises $4 Million in Seed Funding. | Crowdfund Insider: Global Fintech News, including Crowdfunding,"
-    publishedDateTime: 2022-03-29T13:21:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/189061-effectiv-ai-a-fraud-and-risk-management-fintech-raises-4-million-in-seed-funding/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 53
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/03/Effectiv-AI-Founders-Team.jpeg"
-        width: 1766
-        height: 1325
-        isCached: true
   - title: "Bill Parsons Joins Fintech TIFIN as EVP, GM of TIFIN Grow"
     excerpt: "TIFIN, which \"shapes the future of investor experiences,\" has announced tBill Parsons has joined as EVP, GM of TIFIN Grow."
     publishedDateTime: 2022-03-31T01:17:00Z

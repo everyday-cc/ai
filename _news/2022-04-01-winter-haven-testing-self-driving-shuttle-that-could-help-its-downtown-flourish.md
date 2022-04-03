@@ -19,61 +19,50 @@ topics:
   - AI
 
 related:
-  - title: "Toyota and Aurora Are Testing Self-Driving Vehicles in Texas"
-    excerpt: "About a year after announcing plans to partner on the development of self-driving vehicles, Toyota and Aurora Innovation have put their prototypes on the road. These are based on"
-    publishedDateTime: 2022-03-29T14:12:00Z
-    webUrl: "https://www.auto123.com/en/news/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
-    ampWebUrl: "https://www.auto123.com/en/news/amp/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
-    cdnAmpWebUrl: "https://www-auto123-com.cdn.ampproject.org/c/s/www.auto123.com/en/news/amp/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
+  - title: "Apple ups driver count for self-driving car tests, signaling increase in program resources"
+    excerpt: "Apple is continuing to slowly expand its autonomous vehicle testing program in California as it has 10 new drivers registered to its crew."
+    publishedDateTime: 2022-03-30T16:07:00Z
+    webUrl: "https://9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/"
+    ampWebUrl: "https://9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/03/30/apple-ups-driver-count-for-self-driving-car-tests-signaling-increase-in-program-resources/amp/"
     type: article
     provider:
-      name: Auto123
-      domain: auto123.com
-    quality: 44
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 34
     images:
-      - url: "http://picolio.auto123.com/auto123-media/articles/2022/3/69082/toyota-aurora-1fr.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Elon Musk blames streetcars for lack of self-driving Teslas in Toronto"
-    excerpt: "Canadian Telsa fans have been over-the-moon in recent weeks to learn that the American electric vehicle giant has been rolling out its"
-    publishedDateTime: 2022-03-31T14:14:00Z
-    webUrl: "https://www.blogto.com/tech/2022/03/elon-musk-blames-streetcars-lack-self-driving-teslas-toronto/"
-    type: article
-    provider:
-      name: blogTO
-      domain: blogto.com
-    quality: 39
-    images:
-      - url: "https://media.blogto.com/articles/20220330-elon-musk-toronto.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70"
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
-  - title: "US authorities are defining safety standards for the self-driving vehicles of tomorrow"
-    excerpt: "Self-driving vehicles will now have their own automotive safety standards, according to the US National Highway Traffic Safety Administration (NHTSA). The goal is to clarify how passenger safety will be ensured in future vehicles without manual controls."
-    publishedDateTime: 2022-03-30T01:49:00Z
-    webUrl: "https://www.malaymail.com/news/drive/2022/03/30/us-authorities-are-defining-safety-standards-for-the-self-driving-vehicles/2050434"
-    ampWebUrl: "https://www.malaymail.com/amp/news/drive/2022/03/30/us-authorities-are-defining-safety-standards-for-the-self-driving-vehicles/2050434"
-    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/drive/2022/03/30/us-authorities-are-defining-safety-standards-for-the-self-driving-vehicles/2050434"
+  - title: "Aurora Upgrades Autonomous Driving System"
+    excerpt: "Aurora Innovation Inc. is upgrading its self-driving truck technology as it prepares to commercialize its autonomous vehicle technology."
+    publishedDateTime: 2022-03-31T14:30:00Z
+    webUrl: "https://www.ttnews.com/articles/aurora-upgrades-autonomous-driving-system"
     type: article
     provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 36
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
     images:
-      - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-03/20220330_auto_car_ETX_01-seo.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/aurora-truck-1200.jpg?itok=C7N5srxF"
+        width: 470
+        height: 246
         isCached: true
-  - title: "Exclusive: Beep in talks to deploy self-driving shuttles in downtown Orlando"
-    excerpt: "Beep Inc. has rolled out self-driving shuttles from Wyoming to Georgia — but its next expansion may be in the city where it began: #Orlando. #tech #innovation #autonomousvehicles #AV #localbusiness @B"
-    publishedDateTime: 2022-03-29T18:42:00Z
-    webUrl: "https://www.bizjournals.com/orlando/inno/stories/news/2022/03/29/beep-in-talks-to-deploy-self-driving-shuttles-in-d.html"
+  - title: "Special glasses could prevent motion sickness in self-driving cars"
+    excerpt: "Researchers could have solved the problem of motion sickness in self-driving cars.A team from the University of Michigan has developed and patented a headset/eyewear system that can prevent motion sickness by displaying light in a wearer’s"
+    publishedDateTime: 2022-04-01T03:12:00Z
+    webUrl: "https://jerseyeveningpost.com/uncategorised/2022/04/01/special-glasses-could-prevent-motion-sickness-in-self-driving-cars/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 1
+      name: Jersey Evening Post
+      domain: jerseyeveningpost.com
+    quality: 24
+    images:
+      - url: "https://jerseyeveningpost.com/wp-content/uploads/2022/04/01041230/Img32977125.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "ekl2zll1TnxDoL1aKJ/C2SibkJaA/45G/cudJmY9ugxA1OZzlsI2NwDAzwdK/S0eER4t/XdyZdQe5yRatuK6ZSckuju7lUJFahq86hTWl+nYFe9cgRNO7g1UdL6R0MNUOkTL/S1uxA9QuSePhnBG4YmM8oTfc0dpD7RHUjJkBY0fp6QNR/+NA3mdCZmEobG3R8ODYMVub1zQVjPfHpsJfKPARDWjuiugwvzlXdRKp52E0JFjZrVFKJ8CEoAQDulgBE4aRRD2mk7brQA5tU3puurZO95xpmqdt4lhDddQ7HqaNP1oiyBOXD6qUmIE/5SbiqGcKHkHmF6KR8KOgoKllUWXiq5e5D9quZXVbqTT8FO+2bwT7jTOG3I/uFBqrgV6pSOO1oSC4QQOUXzFSDHu5OE8sg55njn2cSiWMgO+v1nNtkcU9aGzl6ude5ji6GU0yOO0lQOoYBV+XnG69fBfGw3nmOJ8KRRaOeVFxUjysIml19vtEqEojRnFM/Cmrg5lAjLje1VNKsCShHqhsUSJXw==;KzZYqsDq3bjO7M6Am2x3MA=="
 ---

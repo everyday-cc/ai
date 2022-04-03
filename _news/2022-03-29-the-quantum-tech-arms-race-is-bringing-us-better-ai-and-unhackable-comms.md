@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/quantum-tech-arms-race-bringing-us-bet
 webUrl: "https://thenextweb.com/news/quantum-tech-arms-race-bringing-us-better-ai-unhackable-comms"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Better AI, unhackable communication, spotting submarines: The quantum tech arms race is heating up"
-    excerpt: "Quantum technology, which makes use of the surprising and often counterintuitive properties of the subatomic universe, is revolutionizing the way information is gathered, stored, shared and analyzed."
-    publishedDateTime: 2022-03-29T13:37:00Z
-    webUrl: "https://techxplore.com/news/2022-03-ai-unhackable-submarines-quantum-tech.html"
-    ampWebUrl: "https://techxplore.com/news/2022-03-ai-unhackable-submarines-quantum-tech.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ai-unhackable-submarines-quantum-tech.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 43
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/better-ai-unhackable-c.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "The quantum memristor, the missing link between artificial intelligence and quantum computing?"
     excerpt: "The potential of artificial intelligence to help overcome the challenges we face is certain, but the limited computational capabilities of conventional computers are a hindrance to solving certain problems."
     publishedDateTime: 2022-03-31T10:29:00Z

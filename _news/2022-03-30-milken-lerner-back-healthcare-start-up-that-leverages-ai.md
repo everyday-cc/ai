@@ -7,8 +7,8 @@ originalUrl: "https://www.institutionalinvestor.com/article/b1xcyzkgf83dyc/Milke
 webUrl: "https://www.institutionalinvestor.com/article/b1xcyzkgf83dyc/Milken-Lerner-Back-Healthcare-Start-up-That-Leverages-AI"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Institutional Investor
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Healthtech AI startup Qure.ai raises $40 mn"
-    excerpt: "Healthtech AI platform Qure.ai (Qure) on Tuesday announced it has secured $40 million in a funding round led by Novo Holdings and HealthQuad, along with existing investor MassMutual Ventures. Qure.ai offers advanced technology that reads and interprets medical images like X-rays,"
-    publishedDateTime: 2022-03-29T13:07:00Z
-    webUrl: "https://menafn.com/1103931667/Healthtech-AI-startup-Qureai-raises-40-mn"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2022-03/29/I_0eec6image_story.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Healthtech AI startup Qure.ai raises $40 mn"
     excerpt: "Healthtech AI platform Qure.ai (Qure) on Tuesday announced it has secured $40 million in a funding round led by Novo Holdings and HealthQuad, along with existing investor MassMutual Ventures. Qure.ai offers advanced technology that reads and interprets medical images like X-rays,"
     publishedDateTime: 2022-03-29T17:00:00Z

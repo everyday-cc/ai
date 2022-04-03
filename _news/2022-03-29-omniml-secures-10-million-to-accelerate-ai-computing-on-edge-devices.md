@@ -41,29 +41,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Ulta Beauty & Haut.AI partner to bring new era of beauty and healthcare with AI-powered hyper-personalization"
-    excerpt: "Haut.AI, a leading research and development company specializing in next-generation artificial intelligence for skincare and longevity, announced a strategic partnership with Ulta Beauty, the largest beauty retailer in the United States."
-    publishedDateTime: 2022-03-29T14:14:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/947752"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 35
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ff8d058f-1d38-4160-b965-a43684191c1e/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 225
-        isCached: true
-  - title: "New program bolsters innovation in next-generation artificial intelligence hardware"
-    excerpt: "MIT today announced the launch of the MIT AI Hardware Program which will include five inaugural companies joined together with the aim of advancing transformative AI technologies for the next decade."
-    publishedDateTime: 2022-03-29T13:16:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/947787"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 11
 
 secured: "aBOaehJhvF6E/AOpXEABLH3qYPMfhHgmZgsKbNHKYd0Qp+nzk9vD/rE/mJ7AAsVLkCYjtAFu1zzA5pdEbI1hqkdQvJE++GcSz7lAvS4/65FoiP7CDqxfK2Kx8tPtBpI+tEBCNEuxQzPVs49HQHWH4PD7Rboxd5uJFzWAWS0BAT0WQRpYmLE+qzgi7RfNiEk7MfPHCr67uxo8fqMM1xlhfB/YHEUZmlB1S1+w7P6zg6k86tWclPQnmnMVuerwroUR2I6kRndMZdojQHHaaOdy3TPowo9pr/ilCzTdfGrnwC2IY6zhPuw9VHLwUOYocyN/kuh49IpcGurbx28dSKqWiOAaJFujJAYAaxaeD0UD43U=;QlkZ+BXUaNungTPKPQdkdg=="
 ---

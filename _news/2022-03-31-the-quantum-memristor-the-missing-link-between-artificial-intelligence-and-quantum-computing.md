@@ -39,22 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Better AI, unhackable communication, spotting submarines: The quantum tech arms race is heating up"
-    excerpt: "Quantum technology, which makes use of the surprising and often counterintuitive properties of the subatomic universe, is revolutionizing the way information is gathered, stored, shared and analyzed."
-    publishedDateTime: 2022-03-29T13:37:00Z
-    webUrl: "https://techxplore.com/news/2022-03-ai-unhackable-submarines-quantum-tech.html"
-    ampWebUrl: "https://techxplore.com/news/2022-03-ai-unhackable-submarines-quantum-tech.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ai-unhackable-submarines-quantum-tech.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 43
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/better-ai-unhackable-c.jpg"
-        width: 1356
-        height: 668
-        isCached: true
 
 secured: "CvsJHU4pvHLvEwpH6wCeZdfMIxA5Fg3+wZa5D9BecUNQbuO3X2UANVBQ++k9dfBCAxa1DiWeEobHXYmXHMoFMVqYSMudt5yWfSskCR8A91oGNyne5ZAK0N1cIjmJgL9e4eCZ5RwbYtnRUAQFsXKdzOwmF+6PJ7iv64a1V/OidDEyvhDCyxDdYI+VLKPtVMOzwvvL6cNbBDR/LiM7uyD/wHx9LZhX8C0rIoLWnf1lFs7bHbW+90jjMeZP+6wNsx7Txhm2k7mpQrm0H2b1tf9MHtlzfn243dFMQHi5yNaVRWT7XSY7plJ/09m0jUV7EOyXNjhuP+LmmYmquwzJzSDnggEMDvAq8ENZFpLFNW5wp0u+3gCDz0vFpAPiSqknW1DrTHSvCDRKZYOB8EmGtkNMowf99PaV++fENBYJ49vzIhz8aeU7zJa4sib2+esumFfWc8gEkmhH6e8TYsFGiEyyw/FSwx5Tvdk5DEgdLHXAwyaowOW3xnwS7p1r49+vcxNNwsb0JweiQR/X7GfDaiAYbQ==;MtUVw/+f4+RR/lglahAXcQ=="
 ---

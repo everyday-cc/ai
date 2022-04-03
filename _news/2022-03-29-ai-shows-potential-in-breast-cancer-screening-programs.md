@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-03-ai-potential-breast-cancer-sc
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-ai-potential-breast-cancer-screening.amp"
 type: article
 quality: 57
-heat: 97
+heat: 77
 published: true
 
 provider:
@@ -58,29 +58,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "RSNA: AI Shows Potential in Breast Cancer Screening Programs"
-    excerpt: "A major new study in Radiology shows that artificial intelligence (AI) is a promising tool for breast cancer detection in screening mammography programs. Mammograms acquired through population-based breast cancer screening programs produce"
-    publishedDateTime: 2022-03-29T14:17:00Z
-    webUrl: "https://www.lelezard.com/en/news-20309674.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "AI Shows Promise as Breast Cancer Detection Method for Women"
-    excerpt: "In this new study from Norway, artificial intelligence (AI) was used with mammography screenings to predict risk of breast cancer in women vs double reading of mammographic screening by independent radiologists."
-    publishedDateTime: 2022-03-29T13:33:00Z
-    webUrl: "https://www.ajmc.com/view/ai-shows-promise-as-breast-cancer-detection-method-for-women"
-    type: article
-    provider:
-      name: The American Journal of Managed Care
-      domain: ajmc.com
-    quality: 17
 
 secured: "P0pRnEdGrSQhJ4KNgOpF1JriRWbV3ujRWpldCls4+bfxC6TGpqVF6VHS6OZqUZOekHNZym3VJ/ydl2hMe0yk1uL44GJQUv0L5lnAPJehVgv92A+HkzPIVPX6JQbKQYPfhWsUPtiO1HwGugDn8qwOgegqZYVNQDmBrCWNz5Yw7P5aL+xUBNURcl3fvuK5uWtUQTcKdFIAh6HV1piGM7kyJpV42MEfsBOaAQZWBEW8JQrcB9HViiWc72S3xYubuEO5tVkLsDfKWAr97W9WU/S/WhXv4zZPVZSWctJnPHZF8+9nuTk4l5vKFiUhnUI3b6KWmV5RUWKScq9ujJCRFYx4CE8s3joxS6lL/F2mUe2kVcKm9MVbc9QFpJSppzxD+FnRq811ClH+OisrKfXWuVMM1g7QLHJ0cAuXF6O0Sjy8o4SDEkgRwzQz1IAxKLBL1pzyaG08ZJlKB99IJeIZQ7t9SpMskgKYR0VacQOCYVZh/bBYXG4SniDv4FwxufMMvQCI19x4GFvIkT/i+xVSOvc8BQ==;i00obEBDBAh9yAFpwb2fOw=="
 ---

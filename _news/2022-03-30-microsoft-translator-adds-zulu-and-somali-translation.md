@@ -7,7 +7,7 @@ originalUrl: "https://www.onmsft.com/news/microsoft-translator-adds-zulu-and-som
 webUrl: "https://www.onmsft.com/news/microsoft-translator-adds-zulu-and-somali"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: Investing.com
       domain: investing.com
-    quality: 36
+    quality: 53
     images:
       - url: "https://d71-invdn-com.investing.com/content/picb05238a98835896c71b3233e790ef79e.jpg"
         width: 559

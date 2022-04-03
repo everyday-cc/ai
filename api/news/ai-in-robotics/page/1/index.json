@@ -306,7 +306,7 @@
       "originalUrl": "https://www.koreatimes.co.kr/www/tech/2022/03/133_326427.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1080,6 +1080,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-24-survey-confidence-in-intelligent-robots-for-warehouse-automation-at-all-time-high.md",
+      "title": "Survey: confidence in intelligent robots for warehouse automation at all-time high",
+      "excerpt": "Covariant surveys over 300 logistics professionals on plans to modernize fulfillment centers{/exp:eehive_hacksaw",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmr.com/article/survey_confidence_in_intelligent_robots_for_warehouse_automation_at_all_tim",
+      "originalUrl": "https://www.scmr.com/article/survey_confidence_in_intelligent_robots_for_warehouse_automation_at_all_tim",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mmh.com/images/2021_article/Covariant_Capacity_LLC_58_Crop.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain Management Review",
+        "domain": "scmr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-cagr-of-227-cleaning-robot-market-size-to-hit-usd-3494-billion-in-2028-says-brandessence-market-research.md",
       "title": "CAGR of 22.7%, Cleaning Robot Market Size to hit USD 34.94 Billion in 2028, Says Brandessence Market Research",
       "excerpt": "The Cleaning Robot Market Value is expected to record a valuation of USD 34.94 Billion by 2028, Registering to Accelerate at a 22.7% CAGR, According to the most recent study by Brandessence Market Research.",
@@ -1336,58 +1379,6 @@
         "name": "SourceSecurity",
         "domain": "sourcesecurity.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-how-this-ai-predicts-extreme-local-weather-events.md",
-      "title": "How this AI predicts extreme local weather events",
-      "excerpt": "As climate change increases the intensity and frequency of extreme weather events, prediction has never been more important.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-ai-predicts-extreme-local-weather-events/",
-      "originalUrl": "https://www.zdnet.com/article/how-ai-predicts-extreme-local-weather-events/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a52a9e865fc6c94a81086164d6118ca459e60169/2022/03/21/9eb7fcc9-a38f-4eae-89db-07887cd97eb6/gettyimages-182689622.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-ai-predicts-extreme-local-weather-events/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-predicts-extreme-local-weather-events/",
-      "publishedDateTime": "2022-03-22T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

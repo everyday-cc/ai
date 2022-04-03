@@ -85,20 +85,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Artificial Intelligence Engineering Market Trends, Detail Analysis for Business Development, Growth Factors and Forecast"
-    excerpt: "The latest study provides an insightful analysis of the broad competitive landscape of the global Artificial Intelligence Engineering market, emphasizing"
-    publishedDateTime: 2022-03-29T13:08:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-engineering-market-trends-detail-analysis-for-business-development-growth-factors-and-forecast"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 29
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/15a44ea548b6d083a148f7c8b0969d98af09a227-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Edge Artificial Intelligence (AI) Software Market Top Players, Size, Emerging Trends, Share, Growth, Insights and Forecasts Report 2028"
     excerpt: "Software market for the forecast period of 2021 – 2028 the study provides vital intelligence on the major opportunities”. The edge Artificial Intelligence (AI) software market size reached USD 585.1 Million in 2020 and is expected to register a CAGR of 20."
     publishedDateTime: 2022-03-30T11:43:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/"
 type: article
 quality: 77
-heat: 107
+heat: 87
 published: true
 
 provider:
@@ -44,29 +44,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Ulta Beauty & Haut.AI partner to bring new era of beauty and healthcare with AI-powered hyper-personalization"
-    excerpt: "Haut.AI, a leading research and development company specializing in next-generation artificial intelligence for skincare and longevity, announced a strategic partnership with Ulta Beauty, the largest beauty retailer in the United States."
-    publishedDateTime: 2022-03-29T14:14:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/947752"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 35
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ff8d058f-1d38-4160-b965-a43684191c1e/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 225
-        isCached: true
-  - title: "New program bolsters innovation in next-generation artificial intelligence hardware"
-    excerpt: "MIT today announced the launch of the MIT AI Hardware Program which will include five inaugural companies joined together with the aim of advancing transformative AI technologies for the next decade."
-    publishedDateTime: 2022-03-29T13:16:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/947787"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 11
 
 secured: "ZLOOpYwD5jprTkbHRKU9L5/cnZVnEsCx7B+O9hecifMnIRxVbdLEyqAGU/HTD4VebkpMoDL9kf/Au6o08wUWeLcE5XsWZfW1Qqv7qICGBdscmQYhnK83WaxXhpbKE4ZlHy7B+eqUpXWJB+p+hjjwACcZgm2EAdLyKwPuWUTp7P0U0AWcQY2oY+fiADsv108/6JPl8Gf/lrvwQM2ZE368REpKjZlH6URgx8ZP7aHqRXc7dfc6juwBoivD0Xcu+/8OZkZQy7nfBrrvxUkxUUK5z2FVnNuaA0InL5I2x5TzgivMt8AQAkpzdriyuOsZQDL5qGn7GweuMOfxlI4cApQsmmw/om7C2edecujfOu2mGjreOAQj4WVSQdfuLu8Bl2UCIcLdvZUPEKKRYDLmHBOuuV7r6YfL2mLU48m9c4CaQn+3vJFvVDIbfseN8kpZI780Wrjluwfw31y/Kf4VBTsp1wrOodugO83zkxeIzEy4nZapXQbdZfTnevJuz9ZuZwzcynWQOgmytCUMQuXo0ZSl2w==;0o8q8DXWPADoxqhRudXnAg=="
 ---

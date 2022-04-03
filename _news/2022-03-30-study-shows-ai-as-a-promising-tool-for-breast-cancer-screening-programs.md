@@ -58,29 +58,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "RSNA: AI Shows Potential in Breast Cancer Screening Programs"
-    excerpt: "A major new study in Radiology shows that artificial intelligence (AI) is a promising tool for breast cancer detection in screening mammography programs. Mammograms acquired through population-based breast cancer screening programs produce"
-    publishedDateTime: 2022-03-29T14:17:00Z
-    webUrl: "https://www.lelezard.com/en/news-20309674.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "AI Shows Promise as Breast Cancer Detection Method for Women"
-    excerpt: "In this new study from Norway, artificial intelligence (AI) was used with mammography screenings to predict risk of breast cancer in women vs double reading of mammographic screening by independent radiologists."
-    publishedDateTime: 2022-03-29T13:33:00Z
-    webUrl: "https://www.ajmc.com/view/ai-shows-promise-as-breast-cancer-detection-method-for-women"
-    type: article
-    provider:
-      name: The American Journal of Managed Care
-      domain: ajmc.com
-    quality: 17
 
 secured: "ZOgt0WgnQuqEt+vJ0pepXDcOZvTB6O3zDfWavNffsFdcez3GYBdOwzypX10xWgaN2uXwhPiCSFnYP0X8fgXObP2OF1Y9TJhT89dqQyeck/rxqiAMcwTL7tMzRs5SwIo6e8uUAEItlvVygum1ZGzDMMunrtnwsa5sJOiAQS1Q3NEK9ChXwebB2eEnLYOnyLDmCTv7ZITwyu+qXtJkuUmNgrBjihqfYecsnKFjxVGsRwBVAqfKL3bMqJ9YlnRS0eI6ial5+H8fr+k2uiPcCuyJ2p16E3oqw/89NH2FaaMgi2IPGshcR71JJsDuaPzEnPNl5ngOgY5ISBxGt9HP/E9iiVGYAaFNcLqySz9UHLI75V4gXsED/Kqf7eTn0oyMlhXCbo9MxS5rWHyWoFpb3JyY+4pGj8qVN5njPOyWmIak/gymvdmTS/5PKdAgR+VH/Ey0R4s5Nu7UlAPiVyikLrLMAiueX/p2XsEqROOVGHwGA6gK/52ThGllxrYsg8sU35GYfB/+a0XXeofnjoKB8Zc7vg==;fqdvpZjX62okMSeBGSop3A=="
 ---

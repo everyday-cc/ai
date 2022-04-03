@@ -27,54 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota and Aurora Are Testing Self-Driving Vehicles in Texas"
-    excerpt: "About a year after announcing plans to partner on the development of self-driving vehicles, Toyota and Aurora Innovation have put their prototypes on the road. These are based on"
-    publishedDateTime: 2022-03-29T14:12:00Z
-    webUrl: "https://www.auto123.com/en/news/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
-    ampWebUrl: "https://www.auto123.com/en/news/amp/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
-    cdnAmpWebUrl: "https://www-auto123-com.cdn.ampproject.org/c/s/www.auto123.com/en/news/amp/toyota-aurora-self-driving-vehicles-testing-texas/69082/"
+  - title: "Self-driving forklifts aim to make factories safer"
+    excerpt: "A self-driving forklift may be the next wave of warehouse and factory innovations, saving companies on labor and, ideally, making industrial settings safer for everyone. Why it matters: Demand for logistics help is soaring,"
+    publishedDateTime: 2022-03-31T10:00:00Z
+    webUrl: "https://www.axios.com/self-driving-forklifts-aim-to-make-factories-safer-d482316f-e00d-4f62-8d32-bc0a6d1ca1d5.html"
     type: article
     provider:
-      name: Auto123
-      domain: auto123.com
-    quality: 44
-    images:
-      - url: "http://picolio.auto123.com/auto123-media/articles/2022/3/69082/toyota-aurora-1fr.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Elon Musk blames streetcars for lack of self-driving Teslas in Toronto"
-    excerpt: "Canadian Telsa fans have been over-the-moon in recent weeks to learn that the American electric vehicle giant has been rolling out its"
-    publishedDateTime: 2022-03-31T14:14:00Z
-    webUrl: "https://www.blogto.com/tech/2022/03/elon-musk-blames-streetcars-lack-self-driving-teslas-toronto/"
-    type: article
-    provider:
-      name: blogTO
-      domain: blogto.com
+      name: Axios
+      domain: axios.com
     quality: 39
     images:
-      - url: "https://media.blogto.com/articles/20220330-elon-musk-toronto.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70"
-        width: 1200
-        height: 630
+      - url: "https://images.axios.com/HT77q7HYPLCRZC01gC5JRte9ZWo=/1366x768/smart/2022/03/28/1648504361258.jpg"
+        width: 1366
+        height: 768
         isCached: true
-  - title: "Exclusive: Beep in talks to deploy self-driving shuttles in downtown Orlando"
-    excerpt: "Beep Inc. has rolled out self-driving shuttles from Wyoming to Georgia — but its next expansion may be in the city where it began: #Orlando. #tech #innovation #autonomousvehicles #AV #localbusiness @B"
-    publishedDateTime: 2022-03-29T18:42:00Z
-    webUrl: "https://www.bizjournals.com/orlando/inno/stories/news/2022/03/29/beep-in-talks-to-deploy-self-driving-shuttles-in-d.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 1
-  - title: "Winter Haven testing self-driving shuttle that could help its downtown flourish"
-    excerpt: "Haven, it’s an idea still heating up and one the city is still studying. Monday, commissioners approved a Memorandum of Understanding with COAST to begin studying the transit system and the feasibility of bringing it to Downtown Winter Haven full time."
-    publishedDateTime: 2022-04-01T12:38:00Z
-    webUrl: "https://www.abcactionnews.com/news/region-polk/winter-haven-testing-self-driving-shuttle-that-could-help-its-downtown-flourish"
-    type: article
-    provider:
-      name: ABC Action News
-      domain: abcactionnews.com
-    quality: 0
 
 secured: "Gscy+Ykh5TuXP4TeWCclv21Iq5Ds2cfYjEpZOUQqUxtd7O38tejokoskDoVcXhOurfYKEt05snHhZDEu8KwhiCrcM4ygJOEPnAubWmQZAo9eaolyvNJl4CuoImTfeuNmsiklY5ouxc1PvOTAolubYz+NwLjaW17v81EJ6d91nCgwN2z6AqMjlMLa5qcqkrf/Dor0rvohPqL0qjfS2pvW1RTq+KesciAsNeqIkyJGQfnFICfAet8n3r45zEYivxs5BUiUHTDaDeO5lDab79M/fv4BR07RX7zqi3DGDVubEKQYrCd6+2Qz25FWBDFbG7hpj5UfLsx4L0ZJQnAOALoDnPB8d9+4PnuM7nyCUn1DJLTnUyu1Igb4eHtQfY4l27/Ydt376pe03sKDT2QHDWH/DukhqHcyM3fMAuZR5CtKoYuPgwZiTlx6toFsRTjgjKjqDduYc1h4RVv1qfFf/ZBCCuyKOEpCBENV8Gd/awvW12RIG1yMy6p9M8vyncTDV1RBxyeAO4NL5lzIljxz2yan2Q==;5mr+e98ndfnKIfjwfIvrhA=="
 ---

@@ -6,9 +6,9 @@ publishedDateTime: 2022-03-31T07:11:00Z
 originalUrl: "https://za.investing.com/news/microsoft-translator-launches-zulu-as-next-african-language-to-be-translated-2530103"
 webUrl: "https://za.investing.com/news/microsoft-translator-launches-zulu-as-next-african-language-to-be-translated-2530103"
 type: article
-quality: 36
-heat: -1
-published: false
+quality: 53
+heat: 73
+published: true
 
 provider:
   name: Investing.com
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d71-invdn-com.investing.com/content/picb05238a98835896c71b3233e790ef79e.jpg"
