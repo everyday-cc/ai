@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-03T13:15:00Z
 originalUrl: "https://thenextweb.com/news/datarobots-vision-to-democratize-machine-learning-with-no-code-ai"
 webUrl: "https://thenextweb.com/news/datarobots-vision-to-democratize-machine-learning-with-no-code-ai"
 type: article
+quality: 86
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -18,7 +21,48 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
-secured: "E6CX5eH+9+rva2fypIJOBlaLgjESKB431daM6Vm86nFj9jc3pdLAwRR4T6p0Ex6bGaDzYPz7aKwpph/aFPCmBhArzXK+x7a5aKi+ZCLiChztN9l8qRQSY4RdoE8x3DkUWAZJpQb2WahaJN99CU4Nl3n/23wGUqNsE8o/x2dn9qLo2biXfJs+0niai8/AARLvkAb+Pur+erZ9Ca8cdSEiYUUcK9S9RZZndwwg0+R+eK4C9tsR2R7Eq63tV9fJUF6sQLc31QV3vvjA6wVhBdcPYCttkyyAdfkhJI3Gp7Onnwi5tfP68+/MSdii2S9VdYHZ/SYNxfb2DV9QPkuMcO62r6Z8qfuMNS1qr7Sg35ygQjA47+slg5UfmSrHTjzllBSe+AbleqlVwlSMlUTOXpJQ65tQpsL6Ka16SvXCx9txqV27XJKOXvkWC5jnFVLeFi9oVBq/wdhc/cFRuKs9BtV2ypktzKQMhgrDwkeqsS4IjQ/ZN96DD7UEkrRmtzgMVnY8bhLfhgRzgiAA8g1nvfNH7g==;3+EQm02CWuJkRQU+O/EwXA=="
+images:
+  - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FDataRobot-hed.jpg&signature=72c189e0d98284d7f1e24b48dbee894c"
+    width: 1280
+    height: 640
+    isCached: true
+
+related:
+  - title: "Elevating human-machine relationships with no-code, reusable AI"
+    excerpt: "As shown in Figure 2, the bottom layer is a set of general-purpose machine learning models that any AI system relies on. For example, data-driven neural (deep) learning models, such as BERT and ..."
+    publishedDateTime: 2022-04-02T16:36:00Z
+    webUrl: "https://venturebeat.com/2022/04/02/elevating-human-machine-relationships-with-no-code-reusable-ai/"
+    ampWebUrl: "https://venturebeat.com/2022/04/02/elevating-human-machine-relationships-with-no-code-reusable-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/elevating-human-machine-relationships-with-no-code-reusable-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-594827905.jpg?w=1200&strip=all"
+        width: 1200
+        height: 679
+        isCached: true
+  - title: "Revving Up Relational Databases For Scorching Native AI Performance"
+    excerpt: "There may not be as much structured data in the world as there is unstructured data, but one could easily argue that the structured data – mostly"
+    publishedDateTime: 2022-03-30T16:07:00Z
+    webUrl: "https://www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/"
+    ampWebUrl: "https://www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 57
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/heatwave.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+
+secured: "v/FMlxQFQ54aD6CbvvcV3lIojUOQshj3AjfHG8YM9Ibylz6m2BXbMkwpvepwIoMvBJ1mnNXiIQTW4lIrIPOnvxYgZ0jkMmXjAtk4T9p2WOb4nNlQR5n/MABs1VMyuPmOxS4sUFbPixF/Y7zJsxz6Tv3H2EH8a6vwCS+SGqWzdNNfLll0fm6guYXd2kQrD9KPYiPRSmhUl135tqrxy1TK0q/ISAwjd3GuKM31v1z18uODM0hhYrT2XUpEUPsRllVwlz9cJykfmJoJUqIdNNkBgufVJa39UhulgIs03YEn8G2Sdpmgo9Wy1Gesr3y2fMRVZl2IV9S10T5BE41QdOvFQVtnrXiuaSVr4aJ7AYaFr/U=;0RtBu2ltv04eM7DvogYTIw=="
 ---
 

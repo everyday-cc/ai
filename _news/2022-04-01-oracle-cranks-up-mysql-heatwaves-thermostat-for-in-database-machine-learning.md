@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/amp/"
 type: article
 quality: 88
-heat: -1
-published: false
+heat: 98
+published: true
 
 provider:
   name: VentureBeat
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "HeatWave ML: Real-Time Intelligence Comes To MySQL"
-    excerpt: "Senior Analyst, Matt Kimball, covers Oracle's new MySQL Heatwave which enables organizations to run OLTP and analytics from a single database, eliminating extract, transform, load (ETL) functions or the need to maintain multiple databases."
-    publishedDateTime: 2022-03-29T19:53:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/624360b4b7f6e4cfc8415639/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 616
-        isCached: true
   - title: "Oracle releases new machine learning integrations with its MySQL HeatWave cloud service"
     excerpt: "Oracle MySQL HeatWave now supports in-database machine learning (ML) in addition to the previously available transaction processing and analytics—the only MySQL cloud database service to do so. MySQL HeatWave ML fully automates the ML lifecycle and stores all trained models inside the MySQL database,"
     publishedDateTime: 2022-03-30T08:59:00Z

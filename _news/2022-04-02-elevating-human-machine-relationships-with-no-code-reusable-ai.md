@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/02/elevating-human-machine-relations
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/elevating-human-machine-relationships-with-no-code-reusable-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "DataRobot’s vision to democratize machine learning with no-code AI"
+    excerpt: "The growing digitization of nearly every aspect of our world and lives has created immense opportunities for the productive application of machine learning and data science. Organizations and ..."
+    publishedDateTime: 2022-04-03T13:15:00Z
+    webUrl: "https://thenextweb.com/news/datarobots-vision-to-democratize-machine-learning-with-no-code-ai"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 86
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FDataRobot-hed.jpg&signature=72c189e0d98284d7f1e24b48dbee894c"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Revving Up Relational Databases For Scorching Native AI Performance"
     excerpt: "There may not be as much structured data in the world as there is unstructured data, but one could easily argue that the structured data – mostly"
     publishedDateTime: 2022-03-30T16:07:00Z

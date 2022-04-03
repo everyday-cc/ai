@@ -2,57 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-03-30-reputation-launches-ai-platform-to-provide-enterprises-with-competitive-intelligence.md",
-      "title": "Reputation launches AI platform to provide enterprises with competitive intelligence",
-      "excerpt": "California-based Reputation has launched Competitive Intelligence, a new product aimed at helping enterprises better track their rivals.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/30/reputation-launches-ai-platform-to-provide-enterprises-with-competitive-intelligence/",
-      "originalUrl": "https://venturebeat.com/2022/03/30/reputation-launches-ai-platform-to-provide-enterprises-with-competitive-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/Customize-Brands-to-Compare-e1648650585265.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/30/reputation-launches-ai-platform-to-provide-enterprises-with-competitive-intelligence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/reputation-launches-ai-platform-to-provide-enterprises-with-competitive-intelligence/amp/",
-      "publishedDateTime": "2022-03-30T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-30-six-fintech-trends-to-watch-in-2022.md",
       "title": "Six Fintech Trends To Watch In 2022",
       "excerpt": "Despite pandemic-induced delays, 2021 was still a strong year for growth in the fintech industry. What can we expect going forward in fintech?",
@@ -61,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -165,7 +114,7 @@
       "originalUrl": "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -268,7 +217,7 @@
       "originalUrl": "https://www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-tech-tesla",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1266,6 +1215,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-go-with-the-flow-state-what-music-and-ai-have-in-common.md",
+      "title": "Go with the flow state: What music and AI have in common",
+      "excerpt": "Carrie Cai, Ben Zevenbergen and Johnny Soraker all work on developing artificial intelligence (AI) responsibly at Google, in the larger research community and across the technology industry. Carrie is a research scientist focusing on human-AI interaction, Ben is an ethicist and policy advisor and Johnny",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/go-flow-state-what-music-and-ai-have-common/",
+      "originalUrl": "https://blog.google/technology/ai/go-flow-state-what-music-and-ai-have-common/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Music_AI_hero-01.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     }
   ],

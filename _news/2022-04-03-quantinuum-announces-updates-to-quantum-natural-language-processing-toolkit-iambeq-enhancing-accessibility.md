@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Quantinuum Updates to Quantum Natural Language Processing Toolkit lambeq"
-    excerpt: "The quantum natural language processing team at Quantinuum, an integrated quantum computing company, has released an update to its open-source Python library and toolkit, lambeq (pronounced “lambek”)."
-    publishedDateTime: 2022-03-29T21:45:00Z
-    webUrl: "https://insidehpc.com/2022/03/quantinuum-updates-to-quantum-natural-language-processing-toolkit-lambeq/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 18
   - title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit ?ambeq, Enhancing Accessibility"
     excerpt: "The quantum natural language processing team at Quantinuum, the world's leading integrated quantum computing company, has released a major update to its open-source Python library and toolkit, ?ambeq (pronounced \"Lambek\")."
     publishedDateTime: 2022-03-30T05:35:00Z

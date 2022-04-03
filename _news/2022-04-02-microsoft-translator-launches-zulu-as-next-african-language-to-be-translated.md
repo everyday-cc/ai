@@ -43,20 +43,6 @@ related:
         width: 559
         height: 419
         isCached: true
-  - title: "Microsoft Translator adds Zulu and Somali translation"
-    excerpt: "Microsoft Translator supports over 100 different languages and is available for users on Office, Translator for Bing, and Microsoft Translator apps. And now, there are two more that you can enjoy. Microsoft has just added two more languages to Translator,"
-    publishedDateTime: 2022-03-29T21:07:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-translator-adds-zulu-and-somali"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/08/MIcrosoft-Translator-Android-App.jpg"
-        width: 1024
-        height: 768
-        isCached: true
 
 secured: "0jZIogBgBEEytSmRiCKPjp97DLvB0YEHugGW+Z4InmkRGcoiiz/toB5VffG0LXYWjB1Xv0+270oEF523z5FL6O/3ODgYPVaST4J5UOtUSPi1hH9dgatlsapHuIypmbIYNbNtKYbCvCXf9EqIfy9JTFQoLsvrNGZm3JV2mAlCWWF3NnqYVBFHM6lGancnZFUiQpsOvi0lCIN36yAz5VT/+D8JgD8+b0McjU6gzPkp78lA+KtAp9m4dTnPQwjpJj0LKubDjzMh+thTR9QVSTUZ6+omVq5qQHpNGFFapmU1IqSfHnStPle5ZSkUfPQn0SUnI0La2z/eGiFJjkoyMWRb6KnV3kbIDcCgpGj/uV1Fq9g=;w3LtbeaE8inwDHAWo5pOnQ=="
 ---

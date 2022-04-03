@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Supermicro Breakthrough Universal GPU System - Supports All Major CPU, GPU, and Fabric Architectures"
-excerpt: "Simplifies Customer Deployments, Delivers Ultimate Modularity and Customization Options for AI, ML, and HPC SAN JOSE, Calif., March 21, 2022"
-publishedDateTime: 2022-03-21T14:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/supermicro-breakthrough-universal-gpu-system-supports-all-major-cpu-gpu-and-fabric-architectures-1031295157"
-webUrl: "https://markets.businessinsider.com/news/stocks/supermicro-breakthrough-universal-gpu-system-supports-all-major-cpu-gpu-and-fabric-architectures-1031295157"
+excerpt: "(SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing technology, has announced a revolutionary technology that simplifies large scale GPU deployments and is a future proof design that supports yet to be announced technologies."
+publishedDateTime: 2022-03-21T13:41:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-san-jose-1d27a23535ea3776588e28dbf527a5c7"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-san-jose-1d27a23535ea3776588e28dbf527a5c7"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "z5cG/wxRXhP6q3TdwUVarKQUQ3ICctfocXfr+uROG5svGJoDQ83A053tPAQxd4z3HbwEWfL7PrNNHn3C4TOoZFHIpsVnkZBk5JoMxZHOZTuBFgDD0ZpAW4InXaPcTlTpTPw9sjCMdiie1DivKWVFK936+Dfh9SuPAMwVYKxRCUEoCRz2sAEKss+eR13oLqWa6iA7arLA6sUIP1itxrvabHXyMWDnctY+V2ZN0gsUUaBxOUbcIpYgRX99HjzOnkUQNsf2FfRNQ6OaWS1IJdOQ/FFoWOgW9Yq9Fe1hwKO5XaRyW4VJjTglYY5pVqDQkW0dJmZyfycJX2JiGOONCPXEvWK67U9Z3kHNz1baAn+yuDD5GOYm6EefVwA/7aX4a13cd1vwISSMhQR8wKa/Nz7Ktn04RJEdWkzFqIGKpab/H//pStVYag4s70TqNRWk+HaVvfFGIzIdPHGl1cjiN5U9K/WBO+SR017UuGRik/ETl1ZM5nLFNJPrM6hbaUB1aTOgWRODEV+1ztKanb20NY6JWg==;bDCfP4TcQsTLDDebtU0Z5g=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "AIsAHR46q1saNPSwx0XKLEEy+FLSpaVZ9eDWTlAC8mK1HLLLO2HxgHyVWkW//6rT2R7IT0se8Bw8mMFu59sBjZbDK1uROpu5EW6ux8u9HJUUTewoLuaYBGuChpMph4TSsWbIGI9WCOQHybvyqWFgb6m/0EEuAd3e/dpnWb3jKR5S/JnxEZJqfddonaxRel7pst6aNzIbqop0o0FnAr5ZWKaUHu8Ck61X0b2LRAy5eARXePtLZONRJiaFcW7DfAkBVzJTzgSxsuh6lJG0SUoluRXcW8ju5sjjAsTHNeSq77oSlqtNFOLqqJNcmviuTookLSQ2WaMYsKXdp+BTBuoErQFt4yOGcQAscZznMkbwD+c=;SRTaJThjdamagSC1zrb33A=="
 ---
 

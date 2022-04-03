@@ -2,49 +2,6 @@
   "page": 37,
   "value": [
     {
-      "path": "_news/2022-02-26-indian-student-builds-an-ai-model-to-translate-sign-language-into-english-in-real-time.md",
-      "title": "Indian Student Builds an AI Model to Translate Sign Language into English in Real-Time",
-      "excerpt": "Priyanjali Gupta, an engineering student in India, has developed an AI-based model to translate sign languages to English in real-time.",
-      "sourceUrl": null,
-      "webUrl": "https://beebom.com/indian-student-builds-ai-model-translate-sign-language/",
-      "originalUrl": "https://beebom.com/indian-student-builds-ai-model-translate-sign-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beebom.com/wp-content/uploads/2022/02/Indian-student-AI-sign-language-translator-feat..jpg?w=750&quality=75",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beebom.com/indian-student-builds-ai-model-translate-sign-language/amp/",
-      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/indian-student-builds-ai-model-translate-sign-language/amp/",
-      "publishedDateTime": "2022-02-25T13:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Beebom",
-        "domain": "beebom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-26-smartcows-new-dev-kit-promises-conversational-ai-video-apps.md",
       "title": "SmartCow’s new dev kit promises conversational AI, video apps",
       "excerpt": "Enterprises needing to beef up development of conversational AI and video-based applications may want to know about SmartCow.ai, an AI engineering company specializing in video analytics and AIoT devices that use containers for deployments.",
@@ -1185,6 +1142,48 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-25-ai-powered-martech-startup-intelligent-relations-announces-acquisition-of-net-positive-agency.md",
+      "title": "AI-Powered MarTech Startup Intelligent Relations Announces Acquisition of Net Positive Agency",
+      "excerpt": "BOSTON, MA / ACCESSWIRE / February 24, 2022 / Intelligent Relations today announces the acquisition of specialist PR and SEO agency the Net Positive Agency for a mix of cash and equity. The acquisition will enable Intelligent Relations to bolster its existing artificial intelligence powered PR platform with new services and capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/technology-business-boston-artificial-intelligence-8499951b72af857155bf6e8ef91c3d7d",
+      "originalUrl": "https://apnews.com/press-release/accesswire/technology-business-boston-artificial-intelligence-8499951b72af857155bf6e8ef91c3d7d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-24T10:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

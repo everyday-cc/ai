@@ -39,20 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence Service Market Comprehensive Study Explore Huge Growth in Future"
-    excerpt: "Artificial Intelligence Service Market Will Generate Massive Revenue in Coming YearsThis press release was orginally distributed by SBWireNew Jersey, NJ"
-    publishedDateTime: 2022-03-29T20:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-service-market-comprehensive-study-explore-huge-growth-in-future"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 30
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/7db448fc881b6b5c26e8531765d0fd0eeb014838-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence as a Service Market to Garner USD 38.99 Billion With CAGR of 39.2 % By Forecast 2027"
     excerpt: "Artificial Intelligence as a Service Market size is expected to grow at a CAGR of 39.2 % through 2021 to 2027, reaching nearly USD 38.99 Billion."
     publishedDateTime: 2022-04-01T07:54:00Z

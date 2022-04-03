@@ -42,6 +42,15 @@ related:
       name: ETF Daily News
       domain: etfdailynews.com
     quality: 51
+  - title: "Fetch.ai Price Tops $0.46 on Exchanges (FET)"
+    excerpt: "Fetch.ai (FET) traded down 3.9% against the U.S. dollar during the 1 day period ending at 9:00 AM E.T. on April 3rd. One Fetch.ai coin can now be bought for about $0.46 or 0.00001000 BTC on major exchanges. In the last week, Fetch.ai has traded up 11.1% ..."
+    publishedDateTime: 2022-04-03T13:19:00Z
+    webUrl: "https://www.etfdailynews.com/2022/04/03/fetch-ai-price-tops-0-46-on-exchanges-fet/"
+    type: article
+    provider:
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 17
 
 secured: "D5brcof2N7ezE3t6VmakRgsd5Elp3etMrBkgJ4Otk+p0qblLC2cbi1ZZT7u0Uok6Zn7dp73yQ+JNOoP5Owqcvje47x04ectLFac+vmypU3Sdamd2Cl5cjl9LNKvWyZSmquO44yUQX1VB1B9vepR7zsS/7tI+fluH7LbjhCu9m4p4e/Z0HA9lCiwL33k5Dbg/UzhwOC+bTmvEBj0gVz9A0puwXuRfHwKPjnEZaPo6sZT6eBUynrqUTNcsg37mhEM8b1Bb6nw5TX1KEoJw4VXVoLuxRGfvOL/O11zYIGdsGpgXeCOA5dU7EpeH5Dcduzo/QPjivgQFuiTvnMO0CVDSE6RB52vmzXNWRXWHRzcnuq4=;In807mbRJFjqWZnQ/wjNDg=="
 ---

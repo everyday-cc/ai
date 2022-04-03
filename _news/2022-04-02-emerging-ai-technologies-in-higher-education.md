@@ -9,7 +9,7 @@ ampWebUrl: "https://edtechmagazine.com/higher/k12/higher/higher/higher/article/2
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Training to medical students on latest medical Technologies like artificial intelligence"
-    excerpt: "Department of Health Research / Indian Council of Medical Research has recently launched a Policy on Biomedical Innovation & Entrepreneurship for Medical Professionals, Scientists and Technologists at Medical,"
-    publishedDateTime: 2022-03-29T20:19:00Z
-    webUrl: "https://indiaeducationdiary.in/training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence/"
-    ampWebUrl: "https://indiaeducationdiary.in/training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 65
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
-        width: 534
-        height: 462
-        isCached: true
   - title: "CORSIGHT AI ANNOUNCES U.S. EXPANSION DUE TO MARKET DEMAND FOR LEADING AI FACIAL RECOGNITION TECHNOLOGY'"
     excerpt: "Building On Widespread Customer Adoption and Demand, Corsight Brings Millisecond AI Facial Recognition Technology to Private and Public Sectors"
     publishedDateTime: 2022-04-01T20:43:00Z

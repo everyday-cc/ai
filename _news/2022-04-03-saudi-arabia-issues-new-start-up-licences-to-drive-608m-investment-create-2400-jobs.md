@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-03T13:00:00Z
 originalUrl: "https://www.arabianbusiness.com/startup/saudi-arabia-issues-new-start-up-licences-to-drive-608m-investment-create-2400-jobs"
 webUrl: "https://www.arabianbusiness.com/startup/saudi-arabia-issues-new-start-up-licences-to-drive-608m-investment-create-2400-jobs"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Arabian Business

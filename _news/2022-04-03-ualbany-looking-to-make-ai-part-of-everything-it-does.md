@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-03T13:00:00Z
 originalUrl: "https://www.timesunion.com/business/article/UAlbany-looking-to-make-AI-part-of-everything-it-17048647.php"
 webUrl: "https://www.timesunion.com/business/article/UAlbany-looking-to-make-AI-part-of-everything-it-17048647.php"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Times Union

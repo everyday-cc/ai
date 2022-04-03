@@ -47,14 +47,14 @@ related:
         height: 675
         isCached: true
   - title: "Black Crow AI Raises $25 Million Series A Financing to Make Enterprise-Grade Machine Learning Available to All"
-    excerpt: "Imaginary Ventures leads the round with participation from founders of leading digital commerce brands, demonstrating the power of Black Crow AI's breakthrough approach to delivering 'machine learning for everyone'."
-    publishedDateTime: 2022-03-31T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/black-crow-ai-raises-25-million-series-a-financing-to-make-enterprise-grade-machine-learning/article_c8ea8ee8-dcad-57a6-941e-604aed0965f0.html"
+    excerpt: "Imaginary Ventures leads the round with participation from founders of leading digital commerce brands, demonstrating the power of Black Crow AI’s breakthrough approach to delivering ‘machine learning for everyone’."
+    publishedDateTime: 2022-03-31T13:37:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/science-business-7144501f7458c8aee9d260d8a8bca1f1"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 14
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
 
 secured: "EbpgIn++uMNLGuBRzA+56EApe3zr9nlBqrcyBkPGLu5iC+Lhk7qWSf5Rt3AH6KcXg4O+YSXu03qJ80NSgKMwZJqmlujIcPAgGGSaWBcu5kAQy9BXGrjJgbaHn0Wo41Xlq49Nv7Tu6x4iXIvY3l5Zm658nSINE/e2zsbva2tzxlzKGos9kr+4Zijmw6VwreFNHG93ad8RBFllHpRBnd0TUS1m2gSqdHBIW2LQTNptwy+pMbB3GjvTp4pdwNLxJFv+HBeiZAVzRTf8/DcS8Y/bQF/O4xIsCjZeLvvzfH8q1fV3Qb684ODE8ZDkfRSqTtAsRFBTPuHqq6Hh7j3UaovUm/qhGQCwZPCRR5tf8+mI3zw4tUeDAJkgZ+isaNL+o6NP9lq5Fjt1CnrV3KEXvN4E2x8E+PNqSTkuYWKbzHjAwgD7RBdQNZuNKWoRCSywWv+YNazQO0RRaUX/h0mAZJdwQPwb4BWSwX1bhrP8Cu/l4r1x6yLk21VNeVRphJ0pl0LY1YstD294q4azOZNNtj0N1Q==;VXtyaV0USPkv8OmsaMslfg=="
 ---

@@ -2,53 +2,19 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2022-03-22-tifin-announces-the-expansion-of-its-fintech-platform-for-personalized-charitable-giving-to-democratize-access-to-donor-advised-funds.md",
-      "title": "TIFIN Announces the Expansion of its Fintech Platform for Personalized Charitable Giving to Democratize Access to Donor Advised Funds",
-      "excerpt": "TIFIN's Louise Platform that allows advisors to enable personalized giving for their client families acquires Amicus.io to broaden access and meet clients' giving needs without minimums BOULDER, Colo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/03/22/9568051.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/03/22/9568051.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-22-evisort-named-winner-in-2022-artificial-intelligence-excellence-awards.md",
       "title": "Evisort Named Winner in 2022 Artificial Intelligence Excellence Awards",
       "excerpt": "The Business Intelligence Group today announced that Evisort is a winner in its inaugural Artificial Intelligence Excellence Awards program. Evisort is the leading provider of artificial intelligence (AI) solutions for contract management and analytics.",
       "sourceUrl": null,
-      "webUrl": "https://www.thedailytimes.com/business/evisort-named-winner-in-2022-artificial-intelligence-excellence-awards/article_0556d31a-3dfc-5f45-812e-d9942ede5d91.html",
-      "originalUrl": "https://www.thedailytimes.com/business/evisort-named-winner-in-2022-artificial-intelligence-excellence-awards/article_0556d31a-3dfc-5f45-812e-d9942ede5d91.html",
+      "webUrl": "https://www.valdostadailytimes.com/news/business/evisort-named-winner-in-2022-artificial-intelligence-excellence-awards/article_5d8d9a85-9a49-5348-b76f-5902c734ec82.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/evisort-named-winner-in-2022-artificial-intelligence-excellence-awards/article_5d8d9a85-9a49-5348-b76f-5902c734ec82.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/assets/v3/editorial/6/12/6123a593-b9fc-50cb-ba41-b52887096dc9/6239cccfe4213.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/f/ff/fff7e599-6920-5698-af49-458060661e82/6239ccec33715.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -63,8 +29,8 @@
       "publishedDateTime": "2022-03-22T06:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "thedailytimes.com",
-        "domain": "thedailytimes.com",
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1165,6 +1131,57 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-21-how-businesses-can-boost-their-roi-with-agile-ai.md",
+      "title": "How Businesses Can Boost Their ROI With Agile AI",
+      "excerpt": "This will allow businesses to prioritize optimizing delivery outputs. Start Small and Scale AI Applications Across the Organization Businesses starting out with enterprise AI deployment should work closely with internal teams to identify potential use ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/21/how-businesses-can-boost-their-roi-with-agile-ai/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/21/how-businesses-can-boost-their-roi-with-agile-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6212d7fb4a3a5e8d8f6d35a4/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 965,
+          "height": 934,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/21/how-businesses-can-boost-their-roi-with-agile-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/03/21/how-businesses-can-boost-their-roi-with-agile-ai/amp/",
+      "publishedDateTime": "2022-03-21T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

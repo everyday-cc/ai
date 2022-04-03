@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-23-delphia-review-portfolio-management-meets-machine-learning.md",
+      "title": "Delphia Review: Portfolio Management Meets Machine Learning",
+      "excerpt": "Delphia's portfolios are built around algorithms predicting market movements. The price of admission? Your data. Learn more in our Delphia review.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
+      "originalUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/affiliates/images/Delphia_Review_WBiWR0A.original.png?width=1200&crop=2:1,offset-y0",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-deep-bio-presented-deep-learning-based-cancer-research-at-the-uscap-111th-annual-meeting.md",
       "title": "Deep Bio Presented Deep Learning-based Cancer Research at the USCAP 111th Annual Meeting",
       "excerpt": "These deep learning-based pathology algorithms demonstrated their potential utility as cancer diagnostic support software. The studies explore how deep learning can be utilized in cancer diagnosis ...",
@@ -1237,49 +1290,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-on1-announces-resize-ai-machine-learning-makes-it-on1s-most-advanced-enlargement-app.md",
-      "title": "ON1 announces Resize AI: Machine learning makes it ON1's most advanced enlargement app",
-      "excerpt": "Have you ever wanted to make a large print from a small file? If so, you've likely used some form of photo enlargement. While traditional technology uses interpolation, ON1's new Resize AI app uses machine learning to recreate detail as you increase the pixels in your photos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dpreview.com/news/6778688427/on1-announces-resize-ai-machine-learning-makes-it-on1-s-most-advanced-enlargement-app",
-      "originalUrl": "https://www.dpreview.com/news/6778688427/on1-announces-resize-ai-machine-learning-makes-it-on1-s-most-advanced-enlargement-app",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2.img-dpreview.com/files/p/E~TS590x0~articles/6778688427/CleanShot_2022-03-15_at_14.02.51.jpeg",
-          "width": 590,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.dpreview.com/news/6778688427/on1-announces-resize-ai-machine-learning-makes-it-on1-s-most-advanced-enlargement-app.amp",
-      "cdnAmpWebUrl": "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/6778688427/on1-announces-resize-ai-machine-learning-makes-it-on1-s-most-advanced-enlargement-app.amp",
-      "publishedDateTime": "2022-03-15T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Photography Review",
-        "domain": "dpreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

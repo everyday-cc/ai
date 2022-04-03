@@ -41,20 +41,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Here’s why Elon Musk says Tesla’s self-driving feature doesn’t work downtown Toronto"
-    excerpt: "Canadian Tesla drivers are getting to test out the Full Self-Driving (FSD) Beta across the country, for now, downtown Toronto is off limit."
-    publishedDateTime: 2022-03-29T20:08:00Z
-    webUrl: "https://dailyhive.com/toronto/tesla-self-driving-downtown-toronto"
-    type: article
-    provider:
-      name: Daily Hive
-      domain: dailyhive.com
-    quality: 32
-    images:
-      - url: "https://images.dailyhive.com/20220329123729/shutterstock_1481877533-500x256.jpg"
-        width: 500
-        height: 256
-        isCached: true
 
 secured: "c+JMroVYAhZ3vBBV/JX03va2OeL1dmd55KO2K36ksmxTa+JEjZh0aO9+fkj8LivGbn9WjTarMxP02uuY8SftElo7g9phlFaAy5DFlRkbdj8F/TLmrTL7F9sTRF5lQ90tyK4UeOunwMHlqu6R3M1FgVqBJXxCHxlaYTW9uLjDEF5+TjFJ/BEE/wCzCla7839+BxulblGCeY80VHud7XrALu5JDqnFA1quHHQskkFKg5YBl1krlPHgZG4YKZyEwkT2gXtLQhj6Scf+GtLUFHP9jebC8/Uw/Pz/NDhWH5p/MPWQF8LO9vKCH+H3VbmfkzxRVtWMOCZBMSMueQ19pFwO4jC+sarABCYPT+vUpf5k9XY=;Q25VB1yv/T1ARFAj7myi4A=="
 ---

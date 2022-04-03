@@ -41,22 +41,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "Training to medical students on latest medical Technologies like artificial intelligence"
-    excerpt: "Department of Health Research / Indian Council of Medical Research has recently launched a Policy on Biomedical Innovation & Entrepreneurship for Medical Professionals, Scientists and Technologists at Medical,"
-    publishedDateTime: 2022-03-29T20:19:00Z
-    webUrl: "https://indiaeducationdiary.in/training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence/"
-    ampWebUrl: "https://indiaeducationdiary.in/training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/training-to-medical-students-on-latest-medical-technologies-like-artificial-intelligence/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 65
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
-        width: 534
-        height: 462
-        isCached: true
 
 secured: "F8lFEqV8iHc8wYQobEKhHpG3rKfNrejnHBKv+SFyZILTykNRMcOjAhc/KzTiHs3qSuHIpLhJ647nbaJJxciFlpR3BtZ+4oqNDyWo+CQ9YhMMUVlOtHE2vF+d2kAqKT3FfojHKmZ/8Dg4k4c0t7jL+2Bi0R2pYQbyn6vhc3DjtFUgAy0CLVPEGx5Q1Q8MJ/qqvFidvRKaU2NKndNspASYduVzMVAC93WS7yLdOHUnd+pp0ZlN7GkKzE3rEmhiSo75b2gb6x+ghuK8AmLkD3nf1TSb7eas2+3231w/pb5Ts22c3HHtG8n8mCOaOFw6I8NWWnaJo6Howd9GejlUpp9M6ICYEMAM8kSUhMAKCqOsXZw=;d2FhGfWoE/Rv+GtXyZUZHA=="
 ---

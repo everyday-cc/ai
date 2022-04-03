@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-03-11-will-transformers-take-over-artificial-intelligence.md",
-      "title": "Will Transformers Take Over Artificial Intelligence?",
-      "excerpt": "A simple algorithm that revolutionizes how neural networks approach language is now taking on image classification as well. It may not stop there.",
-      "sourceUrl": null,
-      "webUrl": "https://www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310/",
-      "originalUrl": "https://www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Transformers_1200_social.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quanta Magazine",
-        "domain": "quantamagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-10-baidus-autonomous-driving-chief-wants-robotaxis-to-ditch-human-drivers-but-regulatory-hurdles-are-steep.md",
       "title": "Baidu’s autonomous driving chief wants robotaxis to ditch human drivers, but regulatory hurdles are steep",
       "excerpt": "Nine years after Baidu started researching autonomous driving, the internet search and artificial intelligence giant says its self-driving cars are ready for a broader roll-out across China and ...",
@@ -1386,6 +1343,58 @@
         "AI in Autos",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-02-28-self-driving-trucks-start-to-propel-land-rush-near-major-cities.md",
+      "title": "Self-Driving Trucks Start to Propel Land Rush Near Major Cities",
+      "excerpt": "Alterra Property and Embark are forming an alliance to create autonomous-trucking hubs across the U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/self-driving-trucks-start-to-propel-land-rush-near-major-cities-11646053200",
+      "originalUrl": "https://www.wsj.com/articles/self-driving-trucks-start-to-propel-land-rush-near-major-cities-11646053200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-492555/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-trucks-start-to-propel-land-rush-near-major-cities-11646053200",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-trucks-start-to-propel-land-rush-near-major-cities-11646053200",
+      "publishedDateTime": "2022-02-28T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

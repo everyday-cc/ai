@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/tech/dubai-police-officer-named-among-3
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/tech/dubai-police-officer-named-among-30-leading-arab-artificial-intelligence-experts?amp=1"
 type: article
 quality: 67
-heat: 97
+heat: 98
 published: true
 
 provider:

@@ -2,49 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2022-03-25-chasing-the-worlds-first-brain-on-chip-ai-computer.md",
-      "title": "Chasing The World’s First Brain-on-Chip AI Computer",
-      "excerpt": "New project BayesBrain aims to build the world’s first computer that combines brain cells and silicon microchips. Besides being the most intelligent computing system ever, the brain is also very energy efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconsemiconductor.net/article/114480/Chasing_The_World’s_First_Brain-on-Chip",
-      "originalUrl": "https://siliconsemiconductor.net/article/114480/Chasing_The_World’s_First_Brain-on-Chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.angel.digital/images/imager.php?w=655&h=300&type=b2&zc=1&i=1648050917-ERC_Diverse_@Fostering_Science_copy.jpg",
-          "width": 655,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-25T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "siliconsemiconductor",
-        "domain": "siliconsemiconductor.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-25-iit-mandi-to-organise-robotics-ai-summer-camp-for-school-kids.md",
       "title": "IIT-Mandi to organise Robotics & AI summer camp for school kids",
       "excerpt": "The Indian Institute of Technology Mandi is organising the summer camp on Robotics and Artificial Intelligence (AI) in collaboration with Himachal Pradesh Kaushal Vikas Nigam (HPKVN), Shimla. This summer camp,",
@@ -1130,6 +1087,51 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research.md",
+      "title": "SAS and Clemson University deploy AI and machine learning software for education and research",
+      "excerpt": "Clemson students and faculty will have access to powerful data science and analytics software from SAS thanks to a new, $3.3 million donation to support teaching and academic research. Extending a 2017 partnership,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1772498/Watt_Center_Clemson.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Education"
       ]
     }
   ],

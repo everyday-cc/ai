@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/corsigh
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/corsight-ai-announces-u-s-expansion-due-to-market-demand-for-leading-ai-facial-recognition/article_d776c69f-2b5f-5064-b6c4-3aae81c529bb.html"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "How Speech Recognition and AI are Fighting Insurance Fraud"
-    excerpt: "By Nigel Cannings, CTO at Intelligent Voice. Speech recognition and AI technology are at the forefront of the fight against fraud in the insurance sector. As fraudulent individuals and organisations evolve,"
-    publishedDateTime: 2022-03-29T21:24:00Z
-    webUrl: "https://www.globalbankingandfinance.com/how-speech-recognition-and-ai-are-fighting-insurance-fraud/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/how-speech-recognition-and-ai-are-fighting-insurance-fraud/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-speech-recognition-and-ai-are-fighting-insurance-fraud/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 74
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/iStock-1173091710.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "LxPqPgCS8K0dACDOBY2m85ZYwXFF7bO1uTeFk2Sm/7zQ5EfpUfP95+2nyonZXqS+5iE+5wqSmYY5DeY2a9yC+pQqQ75IZmfpXyO7gzIPal5VC0kKVe4WPXLuNbUC7CAy98BaxLiT/ZA8SQcNLLXBNzkBHt1WpzYUhJqzzda0fwMbKL2ugA9jRcImUgVN2LlLRBqvaun+eg2Ygf3yCh53LCHhRxpTMC4b/FZW5z4Quh63exqnVEGza4UpF/l2Kd2yK28axOQkxpGe99ZPs5klJabkjdjLpM0HxLtRagS9ZPTGY/rKswXtMi/QMLQKuzrMdIdIxlWXemNDsamnvNQ9HlI573z3tYsexakaCgXpmrBV4y+TfmY/0mzzpetd+VJZiXjzeDqLsO09eYZQEEvC/ny8hqK8b1Z0druQ8bsbf34tp516bwRQFkhJdxDGko5wYcceD2ZSxbUVUnX/S/3l/hxns4UxQjWxw09ohASkeEkwJvVrWLioG6FCasUkH1f+Jb6oQzzTwMcOg03290G/Zg==;62dzrapipx9YDjzUVLga2g=="
 ---

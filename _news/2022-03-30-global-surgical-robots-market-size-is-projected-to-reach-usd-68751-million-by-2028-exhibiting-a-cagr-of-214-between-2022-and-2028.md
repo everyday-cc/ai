@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/global-surgical-robots-market-si
 webUrl: "https://www.digitaljournal.com/pr/global-surgical-robots-market-size-is-projected-to-reach-usd-6875-1-million-by-2028-exhibiting-a-cagr-of-21-4-between-2022-and-2028"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,45 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "Facial Recognition Market 2022 Outlook, Current and Future Industry Landscape Analysis 2032"
+    excerpt: "According to a recent study done by FMI, the  Facial Recognition Market  is expected to reach US$ 22.5 billion by 2032, up from US$ 5.2 billion in 2022, expanding at a high CAGR of 15.7%. This study explains that increase in government investments in emerging technologies of CCTV cameras in most public places to minimize criminal activities and terrorist attacks"
+    publishedDateTime: 2022-03-30T07:25:00Z
+    webUrl: "https://www.fmiblog.com/2022/03/30/facial-recognition-market-2022-outlook-current-and-future-industry-landscape-analysis-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 29
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2022/03/FMI-4.jpg"
+        width: 1008
+        height: 504
+        isCached: true
+  - title: "AI In Drug Discovery Market In-depth Analysis by Risk Factors, Economic Fluctuations and Industry Dynamics by 2027"
+    excerpt: "Astute Analytica released a new report on the global AI In Drug Discovery market. In addition to primary and secondary research, the report provides a"
+    publishedDateTime: 2022-03-31T05:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-in-depth-analysis-by-risk-factors-economic-fluctuations-and-industry-dynamics-by-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 15
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-Kyiv-AFP-1K-04-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Cognitive Computing Market 2028 Industry Analysis, Trends, Market Size and Forecasts"
+    excerpt: "Key Companies Covered in the Cognitive Computing Market Research Report Are  3M, Google LLC, Hewlett Packard Enterprise Development LP, In"
+    publishedDateTime: 2022-04-01T13:44:00Z
+    webUrl: "https://menafn.com/1103949522/Cognitive-Computing-Market-2028-Industry-Analysis-Trends-Market-Size-and-Forecasts"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
 
 secured: "R6QzESIdG4+57E3mKZXE8lJXgcBFK2y5V+B5HVIsu9zPoUXWJ1ZCYajPI+yhem/6+9tkLALQYEBTN9VmT+0Yl8hUfopDLmhxi9OHz/IyKZUP4+1E7VBmCu6WMr5EBh9MqPQcZcq7zIlaKo3Yi5R5n1aLPaf2754cqbbbTR4nfmI1dNkwjztYRYqYekLMRBflOuRubX0uj/cSaiyxS3kLR1mUYiRaAVN490EPqh7pHu6an6sINdcG5niIjtriPOM96vLqj5eui8f+F5rbiz0sQYVihm6bzfEczrCYW/xGOeGYWwwkGWauSQMbOOvE/ZO08sGTp0FD7o3VAxQ1+jxvzSFYShDLYaFSoX7j+By+KEc=;+oPQn9SXM2e9T2bZYgB9NA=="
 ---

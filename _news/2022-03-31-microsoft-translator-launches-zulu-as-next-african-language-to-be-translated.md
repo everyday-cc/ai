@@ -7,8 +7,8 @@ originalUrl: "https://za.investing.com/news/microsoft-translator-launches-zulu-a
 webUrl: "https://za.investing.com/news/microsoft-translator-launches-zulu-as-next-african-language-to-be-translated-2530103"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Investing.com
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Translator adds Zulu and Somali translation"
-    excerpt: "Microsoft Translator supports over 100 different languages and is available for users on Office, Translator for Bing, and Microsoft Translator apps. And now, there are two more that you can enjoy. Microsoft has just added two more languages to Translator,"
-    publishedDateTime: 2022-03-29T21:07:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-translator-adds-zulu-and-somali"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/08/MIcrosoft-Translator-Android-App.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Microsoft Translator launches Zulu as next African language to be translated"
     excerpt: "Microsoft has added Zulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages across the entire Microsoft ecosystem of products and services."
     publishedDateTime: 2022-04-01T22:00:00Z

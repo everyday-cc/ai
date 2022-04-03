@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -56,17 +56,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "About AI on the rise"
-    excerpt: "A series exploring how the pandemic has supercharged the use of artificial intelligence tools at work and school"
-    publishedDateTime: 2022-03-29T19:32:00Z
-    webUrl: "https://www.theguardian.com/us-news/2022/mar/29/about-ai-on-the-rise"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2022/mar/29/about-ai-on-the-rise"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2022/mar/29/about-ai-on-the-rise"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 37
   - title: "Hand-wringing about AI spreads to government and big business"
     excerpt: "A UK justice committee has reacted with alarm at the lack of awareness, control and oversight of AI technologies including biometric surveillance."
     publishedDateTime: 2022-04-01T16:37:00Z

@@ -65,17 +65,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "About AI on the rise"
-    excerpt: "A series exploring how the pandemic has supercharged the use of artificial intelligence tools at work and school"
-    publishedDateTime: 2022-03-29T19:32:00Z
-    webUrl: "https://www.theguardian.com/us-news/2022/mar/29/about-ai-on-the-rise"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2022/mar/29/about-ai-on-the-rise"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2022/mar/29/about-ai-on-the-rise"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 37
   - title: "Why AI In Insurance Is The Key To Survival"
     excerpt: "Insurance is one of these areas, with providers increasingly leveraging AI to understand risk and reduce costs. Examples within the consumer field include \"black box\" telematics platforms that allow providers to gather all the relevant data points necessary to understand someone's driving style and adjust their premiums."
     publishedDateTime: 2022-04-01T17:20:00Z

@@ -45,6 +45,22 @@ related:
         width: 790
         height: 496
         isCached: true
+  - title: "Otter.Ai, AI-Powered Speech Transcription Service, Unveils New Updates"
+    excerpt: "Otter.ai, a California-based firm , has announced a major update to its transcription-focused speech-to-text Otter platform."
+    publishedDateTime: 2022-03-30T10:39:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/otter-ai-ai-powered-speech-transcription-service-unveils-new-updates/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/otter-ai-ai-powered-speech-transcription-service-unveils-new-updates/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/otter-ai-ai-powered-speech-transcription-service-unveils-new-updates/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/Otter.Ai_-AI-Powered-Speech-Transcription-Service_-Unveils-New-Updates-01.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Lost in AI transcription: Adult words creep into YouTube children’s videos"
     excerpt: "Ten per cent of these videos contained at least one “highly inappropriate taboo word” for children, says US-based Ashique KhudaBukhsh, an assistant professor at Rochester Institute of Technology's software engineering department."
     publishedDateTime: 2022-04-02T22:30:00Z
@@ -60,20 +76,6 @@ related:
       - url: "https://images.indianexpress.com/2022/04/p1-anchor-3col.jpg"
         width: 1200
         height: 667
-        isCached: true
-  - title: "Don’t Let Regulation Get In the Way of Artificial Intelligence Research"
-    excerpt: "The United States' Artificial Intelligence Strategic Plan should focus on enabling a wide range of actors to play a role in strengthening American AI innovation."
-    publishedDateTime: 2022-03-29T20:05:00Z
-    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/don’t-let-regulation-get-way"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/f-35s.jpg"
-        width: 1222
-        height: 688
         isCached: true
 
 secured: "saOTXHGFKJUUbcZCmp7jAq6/IPulSfztoulmAISAjHNKuIf7MxIgJT+DtzodbvxdLv874Dpm+V61durKyXG249holLK7Hf4Wxc0l2P8icwME/CXz+myFmszifo+msIQt81tH+6UFb7DsqxbAHvnwhnuBqLBR3k206QAUxlQT+UFgQrSRp5HFD8a32vleKKzaQiYX3EKeoMYeEqNl/U2rv/tywtaHZh73i3OYu7B/N9Ly1c0CFxRHNxud6CXIdP4sxUG5HELin3nfn6wO3yowL/rIyatM5g0zi7TlnJsjF8PCQGttpSRM+RD3zfY0TjOxKPmT/IHnVdDupiwukUjYxoOftnpwJUNCyZ3HwY3/gTsznBDR94iL6s7KEuAMz/C8iAOqLh2MZzqgQpgy5T+IS1RrvhnXlZCQaAsocMHomgbtac70Vk4ZGhsOoKEr5vs54s+a8BgOntjCj2TDRJquJ+7E01SJorEY2+tF/p6f6L58UoZGFilp2mYzNcsi8WWCQTcR76fT3RhsX5OHV+p55g==;aZD7scfmMx6dHlvHF/Aecg=="

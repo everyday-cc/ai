@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-03T12:00:00Z
 originalUrl: "https://www.sandiegouniontribune.com/news/education/story/2022-04-03/free-speech-fire-sdsu"
 webUrl: "https://www.sandiegouniontribune.com/news/education/story/2022-04-03/free-speech-fire-sdsu"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: San Diego Union-Tribune

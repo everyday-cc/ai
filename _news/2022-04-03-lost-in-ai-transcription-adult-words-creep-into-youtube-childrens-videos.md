@@ -56,19 +56,21 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "Don’t Let Regulation Get In the Way of Artificial Intelligence Research"
-    excerpt: "The United States' Artificial Intelligence Strategic Plan should focus on enabling a wide range of actors to play a role in strengthening American AI innovation."
-    publishedDateTime: 2022-03-29T20:05:00Z
-    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/don’t-let-regulation-get-way"
+  - title: "Otter.Ai, AI-Powered Speech Transcription Service, Unveils New Updates"
+    excerpt: "Otter.ai, a California-based firm , has announced a major update to its transcription-focused speech-to-text Otter platform."
+    publishedDateTime: 2022-03-30T10:39:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/otter-ai-ai-powered-speech-transcription-service-unveils-new-updates/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/otter-ai-ai-powered-speech-transcription-service-unveils-new-updates/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/otter-ai-ai-powered-speech-transcription-service-unveils-new-updates/amp/"
     type: article
     provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
     images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/f-35s.jpg"
-        width: 1222
-        height: 688
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/Otter.Ai_-AI-Powered-Speech-Transcription-Service_-Unveils-New-Updates-01.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "4k1eRAGMFJHbMV5roICduvl1rVSXfrTRphItiI2bMRVTwvTu0hSvNO+LLswOKGc/qQWMTOu2mtzQ22sKPkGyR+/kT9h5ThAeku/iya3TUStWAcqdG/qL07fwM/fW8/S7RDglkqNi9HaBOi0xvL2jbgadSKKcgRRHgkGTOUCgiKZ6+6CGNP5xhiiLK+Kk8KkpWzwCWkn6v9vW/NEZcbk4LR15hbIXaBjMBfAY7qoygxk02d5SfOmK2Vm7U7fZUDTAXwbPmiTHPtcA2HAXNcI3pQgpGPxIY8MtqwtR49qjP6BDSA533Mzl0bmzE64R6kaacA2wIDrtLG8pL9EFKleqeRYOmoZPIEcWQ2YS4Bm9XjM=;LU94f2lGml4RGBO8gbOoXQ=="

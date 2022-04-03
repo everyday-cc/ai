@@ -43,6 +43,34 @@ related:
         width: 1200
         height: 664
         isCached: true
+  - title: "Intel Unveils First AI Incubator Lab"
+    excerpt: "Intel's AI for Workforce program, an effort to promote workforce skills in artificial intelligence through partnerships with community colleges, governments and other organizations, has announced its first AI incubator lab. Housed at Chandler-Gilbert ..."
+    publishedDateTime: 2022-04-03T15:39:00Z
+    webUrl: "https://campustechnology.com/Articles/2022/03/29/Intel-Unveils-First-AI-Incubator-Lab.aspx?p=1"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 37
+    images:
+      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Intel Arc is off to a bad start on laptops — Nvidia blows it away"
+    excerpt: "the Intel A370M is off to a tricky start. As spotted by our sister site, Tom’s Hardware, the YouTube channel Benchmark Lab has been testing Intel’s Arc Alchemist debut against the Nvidia GeForce GTX 1650 Mobile across ten gaming benchmarks. The result?"
+    publishedDateTime: 2022-04-03T15:30:00Z
+    webUrl: "https://www.tomsguide.com/news/intel-arc-is-off-to-a-bad-start-on-laptops-nvidia-blows-it-away"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 22
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/VDHdG2hYWc7mJSeegAXAEb-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "WMEGHELeNKrAQCEcDGf6MMygQv7/1PBBd3Gb892G42uscLmXXbngJCqJxb672UU5NIvcw3WhVNCTvo3o3FaRrm7b2V4uxyUXBr42NOsadHwiz0LgIDao85CRW2uiO3xnOjMAaInFzm2oNj5Gkyp8p1UT+mR5Kb5skWwzcgaPmd+Iy5sOBMF8mPpSBtIR3spedq/usr3sUfm439yHd7zEH1Hd5Np7v1rplicP9Gj9onOZLnmulmGYg7aDwbvpNWN3Phu8+OA+JNYuekU3pVSG3jcHhnpgtk6xuIZaiKsu+MwaeLMU2B0+tLwEZln2Ucu72Oblo7gF7DVbPSl+nlTT5Qe6em/Fknxc53gd+MV6z0Jh2c2Z+Huche9csESYVzucjhmGJJWyDTRIV77wrS5fJldntiWWmvGrCp+eWbDBCJBLtl74xnrwAsoS0fh9zOrYXbJJxPfQiIcdpRQVnUbRURmIV/n71KRFa0envCBKCFNIqa9L62N7mcB/Qn5rH9HYvOxokmZs101JEY2NO9cgAA==;4oJhLhxg+N9hDOx/yhvD5w=="
 ---

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow"
-    excerpt: "Former Envestnet/Yodlee executive will lead the recently announced platform that combines risk, planning and financial personality to help wealth"
-    publishedDateTime: 2022-03-29T21:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow-1031316438"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Bill Parsons Joins Fintech TIFIN as EVP, GM of TIFIN Grow"
     excerpt: "TIFIN, which \"shapes the future of investor experiences,\" has announced tBill Parsons has joined as EVP, GM of TIFIN Grow."
     publishedDateTime: 2022-03-31T01:17:00Z

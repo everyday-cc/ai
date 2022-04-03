@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/03/31/intel-confirms-acquisition-of-gran
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/31/intel-confirms-acquisition-of-granulate-reportedly-for-up-to-650m-bringing-ai-based-workload-optimization-into-its-fold/amp/"
 type: article
 quality: 63
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -147,6 +147,15 @@ related:
         width: 935
         height: 518
         isCached: true
+  - title: "Intel To Acquire Israeli AI Workload Optimization Firm Granulate For $650M"
+    excerpt: "US chipmaker giant Intel Corporation, announced on Thursday it will acquire Tel Aviv-based AI-powered optimization software developer Granulate Cloud Solutions Ltd. Financial details were not publicly disclosed, although TechCrunch learned from sources ..."
+    publishedDateTime: 2022-04-03T13:08:00Z
+    webUrl: "https://nocamels.com/2022/04/intel-granulate-ai-computing/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 15
   - title: "Intel to buy cloud service startup Granulate in deal pegged at $650M"
     excerpt: "Intel Corp. on Thursday said it has agreed to acquire Israeli startup Granulate Cloud Solutions Ltd. in a deal reported to be worth about $650 million. The companies didn't disclose the price but Haaretz reported in Israel last week that it would be $650 million."
     publishedDateTime: 2022-03-31T23:00:00Z

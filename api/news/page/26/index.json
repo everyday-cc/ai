@@ -2,58 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_news/2022-03-10-deepmind-claims-its-ai-can-decipher-ancient-greek-texts-from-damaged-artifacts.md",
-      "title": "DeepMind claims its AI can decipher ancient Greek texts from damaged artifacts",
-      "excerpt": "DeepMind says it has developed a system called Ithaca that can restore ancient Greek texts from damaged artifacts.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/09/deepmind-claims-its-ai-can-decipher-ancient-greek-texts-from-damaged-artifacts/",
-      "originalUrl": "https://venturebeat.com/2022/03/09/deepmind-claims-its-ai-can-decipher-ancient-greek-texts-from-damaged-artifacts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/09/deepmind-claims-its-ai-can-decipher-ancient-greek-texts-from-damaged-artifacts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/09/deepmind-claims-its-ai-can-decipher-ancient-greek-texts-from-damaged-artifacts/amp/",
-      "publishedDateTime": "2022-03-09T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-09-tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem.md",
       "title": "Tomahawk Robotics Integrates AeroVironment UAS Into Kinesis Ecosystem",
       "excerpt": "Tomahawk Robotics is the leading innovator of common control solutions that transform ... Designed from the ground up with the user in mind, Kinesis is the only multi-domain, cross-architecture ...",
@@ -1169,6 +1117,49 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-08-artificial-intelligence-can-help-strengthen-corporate-social-responsibility.md",
+      "title": "Artificial intelligence can help strengthen corporate social responsibility",
+      "excerpt": "Artificial intelligence, like the chips Tesla is developing for its self-driving cars, has been described as the next frontier in anti-corruption. (AP Photo/Gillian Flaccus) AI holds a number of ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103814501/Artificial-intelligence-can-help-strengthen-corporate-social-responsibility",
+      "originalUrl": "https://menafn.com/1103814501/Artificial-intelligence-can-help-strengthen-corporate-social-responsibility",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-03/08/TC_da185image_story.jpg",
+          "width": 678,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-08T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

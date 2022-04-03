@@ -7,7 +7,7 @@ originalUrl: "https://www.redmondpie.com/teslas-full-self-driving-beta-should-be
 webUrl: "https://www.redmondpie.com/teslas-full-self-driving-beta-should-be-ready-for-some-europeans-in-summer/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "VIDEO: Tesla's new \"full-self driving\" technology still a work in progress"
-    excerpt: "Don't let the phrase \"full-self driving\" fool you. It's going to be a while before drivers can let their Tesla do all the"
-    publishedDateTime: 2022-03-29T21:15:00Z
-    webUrl: "https://www.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress"
-    ampWebUrl: "https://amp.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress"
-    cdnAmpWebUrl: "https://amp-kelownanow-com.cdn.ampproject.org/c/s/amp.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress"
-    type: article
-    provider:
-      name: Kelowna
-      domain: kelownanow.com
-    quality: 72
-    images:
-      - url: "https://amp.kelownanow.com/files/files/images/tewtes.jpg"
-        width: 828
-        height: 453
-        isCached: true
   - title: "B.C. resident amongst first group of drivers in Canada to receive Tesla's new self-driving software"
     excerpt: "Tesla starting to roll out the beta version of its self-driving system to owners in Canada. The new software is a level two semi-autonomous, meaning the vehicle can drive itself with some assistance from the driver."
     publishedDateTime: 2022-03-31T15:39:00Z

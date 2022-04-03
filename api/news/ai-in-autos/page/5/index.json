@@ -2,59 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-02-17-moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars.md",
-      "title": "Moral Judgments About AI Will Shape Legal And Ethical Assignment Of Blame, Including The Particular Use Case Of AI-Based Self-Driving Cars",
-      "excerpt": "Moral judgments about AI are shaping how we ethical and legally treat AI that goes awry, including in the use case of AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620c57f8995b45d70b859096/0x0.jpg?format=jpg&crop=2097,982,x0,y31,safe&fit=crop",
-          "width": 2097,
-          "height": 982,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/amp/",
-      "publishedDateTime": "2022-02-17T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2022-02-17-jaguar-land-rover-teams-up-with-silicon-valley-firm-to-up-its-digital-tech-game.md",
       "title": "Jaguar Land Rover teams up with Silicon Valley firm to up its digital tech game",
       "excerpt": "Detroit - Jaguar Land Rover is teaming up with Silicon Valley-based artificial intelligence company Nvidia ... has a previous deal with Alphabet's Waymo unit to deploy autonomous driving technology.",
@@ -1434,6 +1381,49 @@
         "AI",
         "AI in Autos",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-07-nsas-cybersecurity-directorate-looks-to-scale-up-this-year.md",
+      "title": "NSA’s cybersecurity directorate looks to scale up this year",
+      "excerpt": "NSA will be digging deeper under the hood to understand the security vulnerabilities across the entire lifecycle for applying machine learning or artificial intelligence into a system — such as a driverless vehicle — Ziring said, citing an example of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.navytimes.com/cyber/2022/02/01/nsas-cybersecurity-directorate-looks-to-scale-up-this-year/",
+      "originalUrl": "https://www.navytimes.com/cyber/2022/02/01/nsas-cybersecurity-directorate-looks-to-scale-up-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.navytimes.com/resizer/pQ5Rd8V5hGPV7iTsi4pJQ3bUWdA=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/PVBSGFPEURG43OMLBEF4AGLDEY.jpg",
+          "width": 1024,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-07T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Navy Times",
+        "domain": "navytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

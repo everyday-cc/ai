@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.cp24.com/news/2022/3/29/1_5839512.html"
 cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2022/3/29/1_5839512.html"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1020
     height: 573
     isCached: true
-
-related:
-  - title: "Facebook owner Meta to hire 2,500 in Canadian roles, create Toronto engineering hub"
-    excerpt: "Meta founder Mark Zuckerberg’s ambitious vision to create an immersive digital realm will be aided by thousands of Canadian hires and a new engineering hub in the country."
-    publishedDateTime: 2022-03-29T21:06:00Z
-    webUrl: "https://www.bnnbloomberg.ca/facebook-owner-meta-to-hire-2-500-in-canadian-roles-create-toronto-engineering-hub-1.1744867"
-    ampWebUrl: "https://www.bnnbloomberg.ca/facebook-owner-meta-to-hire-2-500-in-canadian-roles-create-toronto-engineering-hub-1.1744867.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/facebook-owner-meta-to-hire-2-500-in-canadian-roles-create-toronto-engineering-hub-1.1744867.amp.html"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 38
-    images:
-      - url: "https://www.bnnbloomberg.ca/img/bnn/amp/BNN_placeholder.jpg"
-        width: 620
-        height: 349
-        isCached: true
 
 secured: "liWt0fw9FXYesTg0lRKuaaH8vIjx9V8CorIZ7QRsF10tN5CahA5PUq0nGnQimOuXCBl+TuANiyLtsL60vXAi+MOHATlBd1pZJdlhqFCFGqDAnRBYGYKb95LHuxxXtGtv7oRdCu0Qk1AZTp5OXCyAD1K+apf3kvcdrKreYedB4vGf/wVGhTKGGJIVlzMfC9HGVvb1WnVuesAL13Ja4AAQGx8tJZeFGMxMNxOpVfZC+wJJimlfMGHvX1x57v2C+qb5HIbjIgAz2JIfRbLuryssMUDa3aVFEVHLuhelanr8DyaMUSePGuTYKBkGzABCmksAHN6jLFneQG7Sr7cDiSqliYACmC9PesvxeYUMWgqHWWYkBxbEmOwtmQLsnCuiPsBkyM8Kzo7hwxZZQMAQ4W8+vD+3PZ8SWlfD7uXW7GSwNglt2ucbfK0ajxfmz0CQ7JfbPBWWiIYjY6Pgvapf6TZukLlDJkve8QigW+T9X/lNlGTwytgY4qLL9BQfJJ2PWDd9OmhB98SuD63fd3m05i027w==;zdE1884eRkt2YsyNFHgBYg=="
 ---

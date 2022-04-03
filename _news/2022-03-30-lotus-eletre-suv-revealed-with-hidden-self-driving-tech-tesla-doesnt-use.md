@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-te
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-tech-tesla.amp"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://images.drive.com.au/driveau/image/upload/c_fill,h_720,w_1280/q_auto:eco/f_auto/v1/cms/uploads/gth84rmv86yo5ygasmpq?_a=AAAH2GX"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Here’s why Elon Musk says Tesla’s self-driving feature doesn’t work downtown Toronto"
-    excerpt: "Canadian Tesla drivers are getting to test out the Full Self-Driving (FSD) Beta across the country, for now, downtown Toronto is off limit."
-    publishedDateTime: 2022-03-29T20:08:00Z
-    webUrl: "https://dailyhive.com/toronto/tesla-self-driving-downtown-toronto"
-    type: article
-    provider:
-      name: Daily Hive
-      domain: dailyhive.com
-    quality: 32
-    images:
-      - url: "https://images.dailyhive.com/20220329123729/shutterstock_1481877533-500x256.jpg"
-        width: 500
-        height: 256
         isCached: true
 
 secured: "t8gztnHZIWRHCbjf5NyI47u8HwNtTWTk7unsfw6kj7A6rKCaEPSPt1lqkhVlI3u0denlV6nlIRIUIH8ANGpAwrcrJcASUgNy67wOKRtKiZHaWifD0BFgzqU5qnU8+UFSeB1psMD65e5HGuV5qAePKaw5q3ZjEHELAEes4X2VaZKLh1mq/H4X6U1/Kjyfi60cNgiHjn1l6WIqZvxqYJmMcSrM6Tj+dPNVQ8jKDQBQb2stQEoPFtk+6Hy8YPgobNJgmROgtTLtct/Hemg0Pi5E2JxplcTTk5p2pQ3wgSOl0eoPv+z/cEa4/+cXdHqkh7qLueFDFxB9bXyRxci7a2tjKwgcN7UvwzDMPP98SK7WI5m4HI0iljRhwhf3rE7o2jJ/GZH73REa3juzXo7P5rb6BV+wC0sCxp4VPY8/PqN2k6zLO/EGyVqhmfk88zFZTIaZP9OgagPsoJwEQiqNTSJq6Mw9tbq/qeddehL0PjxkiXsmtthquC4wanX/1uiMz1PBqJMz/0uB/e13faZYSVMqnA==;s9OgALj3Kr7lFqBvcL456g=="
