@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://images.livemint.com/img/2022/04/03/600x338/analytics_1649004420915_1649004436324.jpg"
@@ -52,6 +53,6 @@ related:
       domain: insidebigdata.com
     quality: 8
 
-secured: "lLhuFCYUaJ606PZI6eL7CTmtzOnwfRZtZW9wCz1MTT0NTqYwe5/Dh7/z/LL+0VP3920QcFSsalX0AUWz0B8e2ECoSyK2tcX6elNGNDpmCW45eH/mCgaHihXqFLjbpNxLIMryHBSWJfW6TIRrl0FALo+SbFY0pH6Y7AkZu4FOMSHPIwji7Ov12DA5+9FsouSTEgIrs9Tkf1RAf5eEd02Y6rfEsZZ0l+nphN/AmbFGK7mYPh1aMZ0/hManIhqa3i0KJjSd3+ZUxzRQZtbDCoNzhazubAj9LFLQliCs5wyhYmdL78WawjI+KJbw4azbDTsbRXy2QGPB3j9hcJU/lxrVYdN7bFiHFRA4EmcqFH/zgDQ=;VoDanqhXURUZQRUib9Vw7Q=="
+secured: "V+XbsKrSzRxToSrFl/zZhuEMh9BRXQ74Z5cPJXpgPsaShdy9zAwMfPpuUMTeKw81roXdY8sy4zQtovgC5ABv2gGPBZQdNGQoqLR3HlwMlprnqHUWcwdiXuzJBCJnqE/o+66Ghzwru6zWnVETP98C3/gbJMLkcQrh+yFsyjZOcZnHvP2FC3tIUDhv86DosOvuvW5aXkC+WMthsG8SpUco51VDRwNZUulPMZkIEHtbS4x5Uc2yGC3hsHghf7qt6V3qTh+Bl3OSEqNxVhMEcNvvq6Ew4TofhrI5DOIGMWEUUqzAANVQGxkS3D3muTtnl7OcEh3vCeksUt72tvVamMEDnw/3/OlXbANn+h5Lml02+mrpAq9XmN1050qKSvDbMSxr4spZrysYJEPlPnBjDH3fL1LtoJ8R2sGZ2zpot4FisETrt1PpEHVx3bWbcUJRmE5lM2oQWkG18xh17Y9tLKLrJvEa0oUvvteq25weEZg4JuT1cB/qchkuXcM6l5izvEl+lsUHfVthoEfSsCN9/CZ5PA==;Uq+sECoD1lyWBLr+Gg3DLA=="
 ---
 
