@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "ConcertAI, a Startup Focused on Cancer Research, Raises $150 Million"
-    excerpt: "The firm uses AI to match patients to specific clinical trials, and to make jumbled medical data AI-ready to sift for more insights. Sixth Street provided funding that values the firm at $1.9 billion"
-    publishedDateTime: 2022-03-29T09:30:00Z
-    webUrl: "https://www.wsj.com/articles/concertai-a-startup-focused-on-cancer-research-raises-150-million-11648549801"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-513830/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "ConcertAI rakes in $150M to elevate cancer research"
     excerpt: "ConcertAI, an oncology-focused real-world data and SaaS startup, has scored $150 million in Series C funding at a $1.9 billion valuation from Sixth Street. Why it matters: An enormous amount of spend goes towards cancer care,"
     publishedDateTime: 2022-03-29T16:51:00Z

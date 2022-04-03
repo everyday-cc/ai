@@ -89,20 +89,6 @@ related:
         width: 1600
         height: 1184
         isCached: true
-  - title: "Swiss spend management fintech Yokoy raises $80m"
-    excerpt: "To date, Yokoy has raised more than $107m and it says the new funding will be used to fuel international expansion, product developing and expanding headcount."
-    publishedDateTime: 2022-03-29T10:14:00Z
-    webUrl: "https://www.altfi.com/article/9029_swiss-spend-management-platform-yokoy-raises-80m"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 39
-    images:
-      - url: "https://www.altfi.com/images/featured/swiss-spend-management-platform-yokoy-raises-80m.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Future of fintech: Tech-driven access key to acquiring, delivering products and services to customers"
     excerpt: "This is expected to drive new business models to enable new customer acquisition, better customer engagement, provide newer financial products and add monetisation layers. India continues to grow and lead in the fintech sector globally,"
     publishedDateTime: 2022-04-02T15:51:00Z
@@ -170,15 +156,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Venture Capital Giant Backs Swiss Fintech"
-    excerpt: "A Zurich-based fintech has attracted the attention of, and financing from, venture capital firm Sequoia Capital."
-    publishedDateTime: 2022-03-29T09:17:00Z
-    webUrl: "https://www.finews.com/news/english-news/50797-silicon-valley-giant-backs-yokoy"
-    type: article
-    provider:
-      name: finews
-      domain: finews.com
-    quality: 4
   - title: "The Fintech Road to Carbon Neutrality"
     excerpt: "Fintech companies have huge implications in the world on the global economy, and on global warming. Currently, the world is facing one of its greatest challenges yet, to prevent rising global temperatures,"
     publishedDateTime: 2022-04-01T18:45:00Z
@@ -210,20 +187,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/b/d7/bd7ea278-a2d6-5863-b651-ff66d398a185/62467a14f063b.image.jpg?crop=1791%2C940%2C0%2C108&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "10 Tech Companies Selected for 12th Annual FinTech Innovation Lab New York, Run by Accenture and Partnership Fund for New York City"
-    excerpt: "Ten emerging technology companies have been selected to participate in the 2022 FinTech Innovation Lab New York, a 12-week program founded and run by Accenture (NYSE: ACN) and the Partnership Fund for New York City that helps early- and growth-stage fintechs accelerate product and business development through in-depth engagement with top financial services and venture capital executives."
-    publishedDateTime: 2022-03-29T10:29:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-new-york-new-york-city-environment-61994af845e24227b653ee9f422d7065"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "eF+Bq9MSKAzKqov083BDlCikoQZ215GlZs6xfSfJhuHuK2YM2BYtW7U73Y2jV5thiEHKxfwDvKRPkmoPKTVn6h/OHb2Qi95iPEFU/0N7X9eqTAE/wPDlQlPW795PPdSS0Kz7Js42od1/AgGqh22OqXDGQVJsUziFFB/7NQEGsX0dXp1eBLchA5vfXlRWnrfQpyGJTIYnq+Op/+9jeHKoXRAr3FudDQMnycegkf14fHngRq9tg8EVS/+JfJTtez+m5SaMGcC2QZCciGmvHZe4yzDNoXTJNM2+TYBErXYRk4GEny5Veo7/F+LY4kKbx0Zt5s7L4+5Hgql61I09hAaYjXaXDdNds2vfFAwM5Wr3+YEBCPEL/bK8syDVLOZrkLHZes5tayW64CxPi4HB3dUV8bLZuuCxuRyUzFQBZs34dyosc0eAUaXp7ZQ4tCw3vDAPTXd6kzmHZ3T/Cm6li1NLfBh6730tz0xznVphsV+HtYIW+egtsT9T//ZUj3MTLk/y6FlAOq1xIH5mMftKvpgM7g==;t5r3+CKo9XQbRZCCw2VI/Q=="

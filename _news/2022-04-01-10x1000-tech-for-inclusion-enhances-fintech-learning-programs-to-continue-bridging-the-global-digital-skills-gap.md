@@ -103,20 +103,6 @@ related:
         width: 1600
         height: 1184
         isCached: true
-  - title: "Swiss spend management fintech Yokoy raises $80m"
-    excerpt: "To date, Yokoy has raised more than $107m and it says the new funding will be used to fuel international expansion, product developing and expanding headcount."
-    publishedDateTime: 2022-03-29T10:14:00Z
-    webUrl: "https://www.altfi.com/article/9029_swiss-spend-management-platform-yokoy-raises-80m"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 39
-    images:
-      - url: "https://www.altfi.com/images/featured/swiss-spend-management-platform-yokoy-raises-80m.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Future of fintech: Tech-driven access key to acquiring, delivering products and services to customers"
     excerpt: "This is expected to drive new business models to enable new customer acquisition, better customer engagement, provide newer financial products and add monetisation layers. India continues to grow and lead in the fintech sector globally,"
     publishedDateTime: 2022-04-02T15:51:00Z
@@ -184,15 +170,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Venture Capital Giant Backs Swiss Fintech"
-    excerpt: "A Zurich-based fintech has attracted the attention of, and financing from, venture capital firm Sequoia Capital."
-    publishedDateTime: 2022-03-29T09:17:00Z
-    webUrl: "https://www.finews.com/news/english-news/50797-silicon-valley-giant-backs-yokoy"
-    type: article
-    provider:
-      name: finews
-      domain: finews.com
-    quality: 4
   - title: "The Fintech Road to Carbon Neutrality"
     excerpt: "Fintech companies have huge implications in the world on the global economy, and on global warming. Currently, the world is facing one of its greatest challenges yet, to prevent rising global temperatures,"
     publishedDateTime: 2022-04-01T18:45:00Z
@@ -211,20 +188,6 @@ related:
       name: Crude Oil Prices
       domain: oilprice.com
     quality: 4
-  - title: "10 Tech Companies Selected for 12th Annual FinTech Innovation Lab New York, Run by Accenture and Partnership Fund for New York City"
-    excerpt: "Ten emerging technology companies have been selected to participate in the 2022 FinTech Innovation Lab New York, a 12-week program founded and run by Accenture (NYSE: ACN) and the Partnership Fund for New York City that helps early- and growth-stage fintechs accelerate product and business development through in-depth engagement with top financial services and venture capital executives."
-    publishedDateTime: 2022-03-29T10:29:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-new-york-new-york-city-environment-61994af845e24227b653ee9f422d7065"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "6avMZd0mun07RxolKzop9NzpraVHICbt6p2vyTbZ7GhUN1Z3uOYiVG6Xxo7xETBoZNZplhAJR4kirG5SjEgXZmPOmyUn7DsHngBjMJy+Srr+F5nk+WRmSi72SP9nrjiYUNXUGAwhp8rnMKd3T0/YaDKr2FvEjMMY6bc0z8/J8VQV79m6tTBqouktMV/8Q2X1A4KNNkghmNQcp7S/sEuslVqnFOh+dBhcBWkmsBaSgUNOcoqZL0sjdj1ohHeauzdsnl2lRuldych/ueBugHssCufeJX1IcPtRkBBnNW2JZ9iBbdh5jVdfYODIp1MLmLeX8N1AZRI9ytQdQ/l2JyST0/YFlyDsADF+9NWDnTMm5KGmD+r9gOyU5bnOtE2HjMDleedUzyT9y8//nkb2P7tn7n5cRtc5Xa82GS29h3H5D+V0D6H8Gpo6JBLRwrTU+B2cZUTZz6MbPvtvkZ01AA/R6xepQ7O4cncPEzXKT4nYMpLq9t/FdKZNWEFz7uxSydhwPPomR40EEvDO0H/Jgs3B9Q==;oHYe3RTPDuFnYklS9o5FGQ=="
 ---

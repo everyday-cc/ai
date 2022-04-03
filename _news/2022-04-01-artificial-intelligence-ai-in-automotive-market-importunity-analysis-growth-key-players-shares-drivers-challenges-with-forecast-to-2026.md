@@ -127,20 +127,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Computer Vision in Aerospace and Defense Market 2022 Size, Share, Growth Factors, Revenue, Recent Trends, Upcoming Demand and Forecast to 2028"
-    excerpt: "Global Computer Vision in Aerospace and Defense market report provides highest data such as opportunities, risk, prime challenges, technological advancement, development strategy,"
-    publishedDateTime: 2022-03-29T10:29:00Z
-    webUrl: "https://www.wicz.com/story/46174810/Computer-Vision-in-Aerospace-and-Defense-Market-2022-Size-Share-Growth-Factors-Revenue-Recent-Trends-Upcoming-Demand-and-Forecast-to-2028"
-    type: article
-    provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 3
-    images:
-      - url: "https://ABSOLUTEREPORTS.images.worldnow.com/images/22424033_G.png?lastEditedDate=1648535342000"
-        width: 829
-        height: 373
-        isCached: true
 
 secured: "10HHiN3QhEMnm+9zuS3+4ctvmIJxFeqNZZPcjuedp4bPeffbicU5X26Ui1KiZbhTwAKKrYAQYUMdLV/KUGF/WPEBtzzYEq8sQLNE1FiHC777XLbwdo9n2ZGr6vxY5PVYqK58mBIyrP5j56sebWQYmRwZpi3q2kSOOJyJ1V+YPJh0tfdn1gKLK4A41QcwWqkUjeKiUqhY8MCoA3ZfJuj/parXGzqk8qP2Uq3kMXni7qVhs9H9MdBG/kB2+0dw0dC/cYz56nFUgqhMnpFSYtWYj3PpHoQMF0FOIGGLh0MB8UtT1PEkevBncQbk8W3YPz22cdh8EDtPjaWfMeXSWdSn2SIys/JvfGQ3WvNTRKkECI4=;QSg3GCIUrra1rUZVDZQq9A=="
 ---

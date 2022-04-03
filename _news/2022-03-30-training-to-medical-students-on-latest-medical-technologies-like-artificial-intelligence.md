@@ -57,20 +57,6 @@ related:
         width: 444
         height: 250
         isCached: true
-  - title: "New AI technology turns 2D pics into 3D scenes"
-    excerpt: "When the first instant photo was taken 75 years ago with a Polaroid camera, it was groundbreaking to rapidly capture the 3D world in a realistic 2D image. Today, AI researchers are working on the opposite: turning a collection of still images into a digital 3D scene in a matter of seconds."
-    publishedDateTime: 2022-03-29T09:48:00Z
-    webUrl: "https://it-online.co.za/2022/03/29/new-ai-technology-turns-2d-pics-into-3d-scenes/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 37
-    images:
-      - url: "https://it-online.co.za/wp-content/uploads/2022/03/nvidia-3d.jpg"
-        width: 1075
-        height: 484
-        isCached: true
 
 secured: "MofyELS/29lckolB1Z9DACgFXTxlJGspaJqtEbrQYxoYRYBgUl/ppYX3DfpsOqooRvxkLNikqrj2T0TRlZiGED3WoJV59E9I6ue/8wUDXCNZkHJv0X+Z25mFHDL+AWSrVU6X/rBTV8LgKZBJkZ16HzwX6XBYwUEL5ZXC1p/Ce8qhZZV284UkaJsyrfdRv9cf9VfjBEzP4L0xlOMj4szA8taQJ5x9l0Qp+LCyevyLYzwfiXv9Xxhw99099+MrDs3hnqLMdNURVWVeeoqfZl4/1Q7Xf+EFX6u3N/cHo80PmwjlBLT0CNJmQK6txypp7Vf+VWje/J3Cu/CyGUSHMayilFk90dxKIc+o6ww6xCHu5w8=;zwNTPxnqWK9HTA0411ZIeQ=="
 ---

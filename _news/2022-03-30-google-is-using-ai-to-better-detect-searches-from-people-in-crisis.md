@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Using Facial Detection To Spot Rare Diseases In Children"
-    excerpt: "This is where computer vision can help. Shniberg built Face.com, a facial recognition platform that discovered over 18 billion faces on the internet. He sold the company to Facebook in 2012. When he and his partner, Lior Wolf, looked at other impactful ..."
-    publishedDateTime: 2022-03-29T10:59:00Z
-    webUrl: "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/"
-    ampWebUrl: "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/amp/"
+  - title: "Google Using AI To Improve Search Results For Those Experiencing Personal Crises"
+    excerpt: "Google is rolling out improvements to its search engine that will provide more reliable, trustworthy and actionable information for users experiencing personal crises, such as suicidal thoughts, sexual assault,"
+    publishedDateTime: 2022-03-31T03:08:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 82
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6242c02ee1639ec08c4650f5/0x0.png?format=png&width=1200"
-        width: 620
-        height: 511
+      - url: "https://imageio.forbes.com/specials-images/imageserve/624519d473a84b78766f0b1b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 729
         isCached: true
   - title: "Google Using New AI to Better Detect Searches Made by People During Personal Crises"
     excerpt: "Imad is a senior reporter covering Google and internet culture. Hailing from Texas, Imad started his journalism career in 2013 and has amassed bylines with The New York Times, The Washington Post, ESPN and Wired,"
@@ -61,21 +61,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New AI System Assists in Detecting Heart Transplant Reactions"
-    excerpt: "To help improve heart transplants, investigators from Brigham and Women’s Hospital created an artificial intelligence (AI) system known as the Cardiac Rejection Assessment Neural Estimator (CRANE), which can help clinicians detect and manage adverse immune system reactions."
-    publishedDateTime: 2022-03-29T16:53:00Z
-    webUrl: "https://healthitanalytics.com/news/new-ai-system-assists-in-detecting-heart-transplant-reactions"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/new-ai-system-assists-in-detecting-heart-transplant-reactions"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/new-ai-system-assists-in-detecting-heart-transplant-reactions"
+  - title: "Google applies advanced AI to suicide prevention and reducing graphic search results"
+    excerpt: "Google has been rolling out smarter Artificial Intelligence systems, and says it is now putting them to work to help keep people safe. In particular, the search giant shared new information Wednesday about how it is using these advanced systems for suicide and domestic violence prevention,"
+    publishedDateTime: 2022-03-30T16:00:00Z
+    webUrl: "https://mashable.com/article/google-suicide-domestic-violence-ai-prevention"
+    ampWebUrl: "https://mashable.com/article/google-suicide-domestic-violence-ai-prevention?amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/google-suicide-domestic-violence-ai-prevention?amp"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 57
+      name: Mashable
+      domain: mashable.com
+    quality: 80
     images:
-      - url: "https://healthitanalytics.com/images/sized/2020-08-28-GettyImages-922385448-e4b00c1efb9503a805928b101c78b499.png"
-        width: 480
-        height: 278
+      - url: "https://helios-i.mashable.com/imagery/articles/06ejXjgqVaRZFxsW2g2uIL6/hero-image.fill.size_1200x675.v1648590637.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Google Uses AI Searches To Detect If Someone Is In Crisis"
     excerpt: "Google is one of the pioneers in the use of artificial intelligence. The company recently announced that it could use AI techniques to analyze users’ searches and detect whether they are in a crisis. To do this, Google has developed machine learning models."
@@ -93,6 +93,31 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Google and Meta are using artificial intelligence to mitigate problems such as suicide, violence and machismo"
+    excerpt: "Google presented innovations in artificial intelligence systems that nourish its search engine. These improvements aim to optimize the content that users access when searching for information about suicide,"
+    publishedDateTime: 2022-03-30T16:00:00Z
+    webUrl: "https://www.infobae.com/en/2022/03/30/google-and-meta-are-using-artificial-intelligence-to-mitigate-problems-such-as-suicide-violence-and-machismo/"
+    ampWebUrl: "https://www.infobae.com/en/2022/03/30/google-and-meta-are-using-artificial-intelligence-to-mitigate-problems-such-as-suicide-violence-and-machismo/?outputType=amp-type"
+    cdnAmpWebUrl: "https://www-infobae-com.cdn.ampproject.org/c/s/www.infobae.com/en/2022/03/30/google-and-meta-are-using-artificial-intelligence-to-mitigate-problems-such-as-suicide-violence-and-machismo/?outputType=amp-type"
+    type: article
+    provider:
+      name: Infobae
+      domain: infobae.com
+    quality: 38
+    images:
+      - url: "https://www.infobae.com/new-resizer/7Ywmlp2b-31JXSukx1M-tYktDRQ=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/AA6Y3H4UCZHRJOCY4ACA42DMN4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "How AI Technology Helps Restaurants Improve the Customer Experience"
+    excerpt: "As The New York Times recently reported, the pressures on staffing is one of the reasons restaurants have been moving away from answering customer telephone calls. Some restaurant owners reported being just too busy preparing"
+    publishedDateTime: 2022-03-29T18:11:00Z
+    webUrl: "https://restauranttechnologynews.com/2022/03/how-ai-technology-helps-restaurants-improve-the-customer-experience/"
+    type: article
+    provider:
+      name: restauranttechnologynews
+      domain: restauranttechnologynews.com
+    quality: 17
 
 secured: "EslDkqqgpPis5xGYRvy5nC1lm5MNw05HYYuFOWijobP3m9yjrcw69YvlmrbqhDlKPzyPd/SSpppohDHPxoJeY8mY3lYl8Vrlc/TjxJyymZG782Q4UR5qpraQ/+RWcZGkgEv6bSItLF0EL+j9FCM258hE3JmJItwubYAeT8vjQ16BHAV5XKAorZ4X/GjlTIEWbXcYWeMEJmqEiKFDG+O/aC8aosuFANEUZKVgSVhH4xpA8YR6ieBYk6TGm/fk1MsVd/IuwbTr+9dCoqSzWTecOmBXy7SAHig15WpEQ9G3BqTAPpNebc5lyHvawIzvSxexBmjmRJHCDkHsfshJ+/RFSwdSP4xxlFqFkryLcL8wecQ=;rw8NoIH0XCHzilC7WivkfQ=="
 ---

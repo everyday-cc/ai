@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/
 webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21237552/electronic-design-single-neuronbased-ai-reacts-to-the-human-voice"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The military wants AI to replace human decision-making in battle"
-    excerpt: "DARPA, the innovation arm of the U.S. military, wants artificial intelligence to make battlefield medical decisions, raising red flags from some experts and ethicists."
-    publishedDateTime: 2022-03-29T10:00:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2022/03/29/darpa-artificial-intelligence-battlefield-medical-decisions/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WUZQQVURSMI6ZDO5KIJWTCGSMM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "The military wants AI to replace human decision-making in battle"
     excerpt: "Through a new program, called In the Moment, the Defense Advanced Research Projects Agency (DARPA) wants to develop technology that would make quick decisions in stressful situations using algorithms and data,"
     publishedDateTime: 2022-03-30T06:04:00Z

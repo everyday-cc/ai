@@ -50,20 +50,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Qure.ai raises $40 Million from healthcare investors Novo Holdings and HealthQuad"
-    excerpt: "The funding will accelerate the AI-driven healthcare company's market expansion into the global market and support new product development"
-    publishedDateTime: 2022-03-29T11:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/qure-ai-raises-40-million-from-healthcare-investors-novo-holdings-and-healthquad/article_629b183c-43e9-56fb-b945-b20ec4f02525.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 49
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Trends, Size, Segment and Industry Growth by Forecast to 2027"
     excerpt: "Reports And Data Rising volume of complex data and reduction in hardware costs is projected to drive growth of the artificial intelligence"
     publishedDateTime: 2022-03-30T11:46:00Z

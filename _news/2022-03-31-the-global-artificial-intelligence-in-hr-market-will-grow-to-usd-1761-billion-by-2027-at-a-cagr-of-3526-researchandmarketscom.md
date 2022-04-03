@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning Market: $179.96 Billion by 2030, at 39.2% of CAGR"
-    excerpt: "Cumulative spending in the healthcare, travel, tourism and hospitality industries present new opportunities in the coming years. Increase in computing"
-    publishedDateTime: 2022-03-29T10:56:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-179-96-billion-by-2030-at-39-2-of-cagr"
+  - title: "Edge AI Hardware Market: 44% of Growth to"
+    excerpt: "The Edge AI Hardware Market value is set to grow by USD 6.93 billion, progressing at a CAGR of 17.37% from 2021 to 2026, as per the latest report by Technavio. This growth can be attributed to rise in IoT application by various end-user industries coupled with increase in demand for smart homes and smart cities."
+    publishedDateTime: 2022-04-01T17:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-edge-ai-hardware-market-44-growth-originate-from-/2022/04/01/9575316.htm"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 39
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/15a44ea548b6d083a148f7c8b0969d98af09a227-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://mma.prnewswire.com/media/1778061/Edge_AI_Hardware_Market_Infographic.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Aerospace Artificial Intelligence Market: Machine Learning Technology to Rake at 45.4% CAGR During 2020-2028"
     excerpt: "According to the report published by Allied Market Research, the global aerospace artificial intelligence market garnered $373.6 million in 2020, and is expected to generate $5.82 billion by 2028, registering a CAGR of 43.4% from 2021 to 2028. The report ..."
@@ -43,6 +43,20 @@ related:
     quality: 35
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/Covid-Testing-AFP-1K-600x337.jpeg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence Service Market Comprehensive Study Explore Huge Growth in Future"
+    excerpt: "Artificial Intelligence Service Market Will Generate Massive Revenue in Coming YearsThis press release was orginally distributed by SBWireNew Jersey, NJ"
+    publishedDateTime: 2022-03-29T20:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-service-market-comprehensive-study-explore-huge-growth-in-future"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 30
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/7db448fc881b6b5c26e8531765d0fd0eeb014838-600x337.jpg"
         width: 600
         height: 337
         isCached: true

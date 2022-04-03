@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/opinion/et-commentary/why-its-time-to-ad
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/why-its-time-to-address-artificial-intelligences-ethical-dilemma/amp_articleshow/90599546.cms"
 type: article
 quality: 77
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 600
     height: 450
     isCached: true
-
-related:
-  - title: "Can AI help to address the looming global food crisis?"
-    excerpt: "The global food supply is under duress, with Russia's invasion of the Ukraine applying even more pressure. With world populations mounting, can AI make a difference in farming and agricultural yields?"
-    publishedDateTime: 2022-03-29T09:33:00Z
-    webUrl: "https://diginomica.com/can-ai-help-address-looming-global-food-crisis"
-    ampWebUrl: "https://diginomica.com/can-ai-help-address-looming-global-food-crisis?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/can-ai-help-address-looming-global-food-crisis?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 57
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2022-03/robot-farming.jpg"
-        width: 1279
-        height: 848
-        isCached: true
 
 secured: "UuYibq+S1uAn7a2WuPLiWIRhaTZSkJsiSLZ+4iptbKR8BXqKNS/agOhoTHgBtZRHdMkCxjOPItlaylaZ1mOuVUfz82U/4jxz18xmaZZTSkxiqz+uyMsuoQ7j8w61eSuZVHo3jQ7k3SV1WQBbCHMTXllv3F/oW2Sd1GCjqBa2wMn0y2MuTSxmE/XeFLH17ChmFaJbIdDG+94q542bdmWHgB/WQguu5tnIkICJfd+oFTMQZKcOlJQSqej7KQGBdNUdUzZTwE0GPIF/OIJa+7iAV/jvvNkQhi0Lt1p2YqqbepwQ2bq/hIuoNwUN5H2SoAcIohetnnol9mUGlfmPtVtDO30X9vdpYNkiz2xDbwEhiyrgij3mC4fIv3rPI1wNdqHhbbKxhDua1jKVk/RqCnRT2dEcxL5d/h8c5gOTerMyQloGJKTcnf+nChHcLxyn2motVvdmTojMhfGXTjTv3KSj9/+F6As8R0qBVX4bUUGhfnOKkH7vZbZwWbtCjzAIhhBrKcAeSEUvMNQuFR26DYeWuQ==;hEFjVrEXR5Zo3/mbmog1yA=="
 ---

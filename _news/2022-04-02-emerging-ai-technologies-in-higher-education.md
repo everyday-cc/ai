@@ -9,7 +9,7 @@ ampWebUrl: "https://edtechmagazine.com/higher/k12/higher/k12/article/2022/04/eme
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?71741"
         width: 444
         height: 250
-        isCached: true
-  - title: "New AI technology turns 2D pics into 3D scenes"
-    excerpt: "When the first instant photo was taken 75 years ago with a Polaroid camera, it was groundbreaking to rapidly capture the 3D world in a realistic 2D image. Today, AI researchers are working on the opposite: turning a collection of still images into a digital 3D scene in a matter of seconds."
-    publishedDateTime: 2022-03-29T09:48:00Z
-    webUrl: "https://it-online.co.za/2022/03/29/new-ai-technology-turns-2d-pics-into-3d-scenes/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 37
-    images:
-      - url: "https://it-online.co.za/wp-content/uploads/2022/03/nvidia-3d.jpg"
-        width: 1075
-        height: 484
         isCached: true
 
 secured: "CyAuz6vfITKMi2TC5Dh2vhMalSKsakmzOi5usP7m+E2i1QXAh1TtjLfj3DWgFH/kpa7zr8HwsPsmuHUK/WE4ZBa0vQ8KCyYRstV1+y8WFD0yYmN+Vzg+b9edUYJlXqJOBu0BN72rwP5TNiffdARWsbO3Ehgx8nMZRBmF6g6wpEXtwWiR4OL8OVGfQeYvNQ3S1SQO7NMZiPPqpcEYulhOJBlVV36swnBKbtfBCeklBgkJdJq+9XEiKXRRAfE1IpX75tIQMNyvpTFRaTYnHFczcyRjzvyW4MF/mzCsqdT0n+SJ6ju69mpXGBJ0jjNcpoEuH8o3q9P0i6IXEqjw3AbRfa5Oe3Wfz8B4XI10g3beuuY=;3+dKkyq+ZWPqepRZQ4rSlA=="

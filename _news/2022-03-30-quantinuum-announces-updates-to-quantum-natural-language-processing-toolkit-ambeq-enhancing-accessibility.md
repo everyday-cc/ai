@@ -28,15 +28,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 18
-  - title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit Lambeq, Enhancing Accessibility"
-    excerpt: "Lambeq update introduces many new important features to provide researchers and developers with more options and flexibility in turning sentences into quantum circuits OXFORD, England,"
-    publishedDateTime: 2022-03-29T09:10:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-03/55626709-quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-lambeq-enhancing-accessibility-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 1
   - title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit Î»ambeq, Enhancing Accessibility"
     excerpt: "The new release has been designed for a growing community of researchers, developers and users versed in quantum natural language processing (QNLP) and natural language processing (NLP)."
     publishedDateTime: 2022-04-02T19:37:00Z

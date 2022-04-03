@@ -42,15 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
-    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
-    publishedDateTime: 2022-03-29T10:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+  - title: "Reliable intelligence: the real smarts of the city"
+    excerpt: "Yet it remains a concept that’s hard to define, as the World Economic Forum found when it asked numerous experts and city technology officers what it meant and the value it delivered. From citizen-based intelligence to strengthening public trust to widgets designed to make life easier,"
+    publishedDateTime: 2022-03-31T06:30:00Z
+    webUrl: "https://techcentral.co.za/reliable-intelligence-the-real-smarts-of-the-city-atvprom/209455/"
+    ampWebUrl: "https://techcentral.co.za/reliable-intelligence-the-real-smarts-of-the-city-atvprom/209455/?amp=1"
+    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/reliable-intelligence-the-real-smarts-of-the-city-atvprom/209455/?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 44
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/03/atvance-intellect-smart-cities-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
     excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
     publishedDateTime: 2022-03-30T01:50:00Z

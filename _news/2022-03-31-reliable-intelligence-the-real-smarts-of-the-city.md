@@ -27,38 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence really isn’t all that intelligent"
-    excerpt: "Narrow AI applications such as Google Search and Amazon Alexa are great at solving specific problems, but only as long as you stick to the script."
-    publishedDateTime: 2022-03-29T10:04:00Z
-    webUrl: "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.html"
-    ampWebUrl: "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.amp.html"
+  - title: "Get Ready For The Industrial Intelligence Revolution"
+    excerpt: "Industry 4.0 is bringing disruptive changes, converting industrial spaces to smart, connected and intelligent environments. Manufacturing has been irreversibly changed."
+    publishedDateTime: 2022-03-30T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_automation_thinkstock_643956998-100749919-large.jpg?auto=webp&quality=85,70"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/612cfe722afc9777411adcb0/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Physiological signals could be the key to 'emotionally intelligent' AI, scientists say"
-    excerpt: "Speech and language recognition technology is a rapidly developing field, which has led to the emergence of novel speech dialog systems, such as Amazon Alexa and Siri. A significant milestone in the development of dialog artificial intelligence (AI) systems is the addition of emotional intelligence."
-    publishedDateTime: 2022-03-31T16:30:00Z
-    webUrl: "https://techxplore.com/news/2022-03-physiological-key-emotionally-intelligent-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2022-03-physiological-key-emotionally-intelligent-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-physiological-key-emotionally-intelligent-ai.amp"
+  - title: "The industrialisation of AI offers great promise and some peril"
+    excerpt: "Private companies, not universities, are pioneering artificial intelligence research and reaping almost all the gains"
+    publishedDateTime: 2022-03-31T14:40:00Z
+    webUrl: "https://www.ft.com/content/aefa14ab-b469-4cd7-beb3-3dc987a5ed7f"
+    ampWebUrl: "https://amp.ft.com/content/aefa14ab-b469-4cd7-beb3-3dc987a5ed7f"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/aefa14ab-b469-4cd7-beb3-3dc987a5ed7f"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 49
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/physiological-signals.jpg"
-        width: 544
-        height: 344
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5a2d2db5-8491-4816-9b07-15959ee1fa3b.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
+  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
+    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
+    publishedDateTime: 2022-03-30T01:50:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/kwant-ai-raises-$3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 21
 
 secured: "BBA9OaU4m/TU/d1unVqBvnxgwvVDaysheF+g3tMB1wb5m5ioEeihodAWjYpCW6xaRLU8DjuvEPCtv3p+xQxKm3wTdORfgXoLisRg8ggPGr/v/4XXqRVOPc2CEiYiPYaL5ZQhgLzlx0xcBM+8GVw2wSwmvRb17B2yrRoVi3jb4lqTIsnUBBW4jVgO+bRTf2xfjQkJq1Wh25eZJXDIkoVze7pcEgCsj1Yt4qIEMVFiEhGPORVRUaapP076iV+BBzZD60j96zaobdJAuk/GRiQtA2YnDNUDSQ8vOnlJFC0ABieG0B/J0fl8o2r8s/jntQ3tzXIYbkUet1iIMMrrxzNE63MG8c+hiDxp5UoESpN4bIs=;ZMcaLc6WiwaNsnJVJrnQjQ=="
 ---

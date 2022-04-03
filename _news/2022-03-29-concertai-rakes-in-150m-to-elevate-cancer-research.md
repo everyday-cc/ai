@@ -7,7 +7,7 @@ originalUrl: "https://www.axios.com/pro/health-tech-deals/2022/03/29/concertai-1
 webUrl: "https://www.axios.com/pro/health-tech-deals/2022/03/29/concertai-150m-sixth-street-series-c-cancer-artificial-intelligence"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "ConcertAI, a Startup Focused on Cancer Research, Raises $150 Million"
-    excerpt: "The firm uses AI to match patients to specific clinical trials, and to make jumbled medical data AI-ready to sift for more insights. Sixth Street provided funding that values the firm at $1.9 billion"
-    publishedDateTime: 2022-03-29T09:30:00Z
-    webUrl: "https://www.wsj.com/articles/concertai-a-startup-focused-on-cancer-research-raises-150-million-11648549801"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-513830/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "ConcertAI sings a unicorn tune as the FDA-partnered clinical trials software upstart expands"
     excerpt: "The crescendo is building at ConcertAI as the artificial intelligence life sciences startup reels in its ensemble to boost clinical study diversity, expand decentralized clinical trials and pile on the real-world data for cancer treatments."
     publishedDateTime: 2022-03-29T15:11:00Z

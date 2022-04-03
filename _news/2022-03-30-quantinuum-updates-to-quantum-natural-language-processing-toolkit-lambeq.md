@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit Lambeq, Enhancing Accessibility"
-    excerpt: "Lambeq update introduces many new important features to provide researchers and developers with more options and flexibility in turning sentences into quantum circuits OXFORD, England,"
-    publishedDateTime: 2022-03-29T09:10:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-03/55626709-quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-lambeq-enhancing-accessibility-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 1
   - title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit ?ambeq, Enhancing Accessibility"
     excerpt: "The quantum natural language processing team at Quantinuum, the world's leading integrated quantum computing company, has released a major update to its open-source Python library and toolkit, ?ambeq (pronounced \"Lambek\")."
     publishedDateTime: 2022-03-30T05:35:00Z

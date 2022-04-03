@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The military wants AI to replace human decision-making in battle"
-    excerpt: "DARPA, the innovation arm of the U.S. military, wants artificial intelligence to make battlefield medical decisions, raising red flags from some experts and ethicists."
-    publishedDateTime: 2022-03-29T10:00:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2022/03/29/darpa-artificial-intelligence-battlefield-medical-decisions/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WUZQQVURSMI6ZDO5KIJWTCGSMM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Single-Neuron-Based AI Reacts to the Human Voice"
     excerpt: "Stemming from research conducted by two universities, the engineers developed an artificial neuron that eventually responded to conversations in the lab."
     publishedDateTime: 2022-04-01T05:05:00Z

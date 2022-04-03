@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "First of its kind AI associates degree program launches at Maricopa Community Colleges"
-    excerpt: "The Maricopa County Community College District (MCCCD), in partnership with Intel, will open the doors to the first of its kind artificial intelligence (AI) incubation lab on Tuesday."
-    publishedDateTime: 2022-03-29T11:00:00Z
-    webUrl: "https://www.abc15.com/news/state/first-of-its-kind-ai-associates-degree-program-launches-at-maricopa-community-colleges"
-    ampWebUrl: "https://www.abc15.com/news/state/first-of-its-kind-ai-associates-degree-program-launches-at-maricopa-community-colleges?_amp=true"
-    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/state/first-of-its-kind-ai-associates-degree-program-launches-at-maricopa-community-colleges?_amp=true"
-    type: article
-    provider:
-      name: ABC15 Arizona
-      domain: abc15.com
-    quality: 49
-    images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/408/5c3d34b8b29a45469a86c02775b7a2cf/40894b97d8d94ab184a233c7f73bdf1b/poster_23e39d54cee349c998233cfb16b4a07f.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Intel, Community College District in Arizona Launch First-of-its-Kind AI Lab"
     excerpt: "Intel and Arizona’s Maricopa County Community College District (MCCCD) today announced a new artificial intelligence (AI) incubator lab for students aspiring to land jobs in areas ranging from business to nursing to healthcare — and other professions that increasingly draw on AI technology."
     publishedDateTime: 2022-03-29T16:02:00Z

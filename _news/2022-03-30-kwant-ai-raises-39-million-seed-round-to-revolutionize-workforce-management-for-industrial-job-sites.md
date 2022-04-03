@@ -52,15 +52,22 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Kwant AI Raises $3.9 Million Seed Round to Revolutionize Workforce Management for Industrial Job Sites"
-    excerpt: "New York-based AI SaaS startup brings AI technology to the field, adding efficiency and safety to the global construction industry with the"
-    publishedDateTime: 2022-03-29T10:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kwant-ai-raises-3-9-million-seed-round-to-revolutionize-workforce-management-for-industrial-job-sites-1031314587"
+  - title: "Reliable intelligence: the real smarts of the city"
+    excerpt: "Yet it remains a concept that’s hard to define, as the World Economic Forum found when it asked numerous experts and city technology officers what it meant and the value it delivered. From citizen-based intelligence to strengthening public trust to widgets designed to make life easier,"
+    publishedDateTime: 2022-03-31T06:30:00Z
+    webUrl: "https://techcentral.co.za/reliable-intelligence-the-real-smarts-of-the-city-atvprom/209455/"
+    ampWebUrl: "https://techcentral.co.za/reliable-intelligence-the-real-smarts-of-the-city-atvprom/209455/?amp=1"
+    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/reliable-intelligence-the-real-smarts-of-the-city-atvprom/209455/?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 44
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/03/atvance-intellect-smart-cities-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
 
 secured: "eZmbrDR86vZsujluh3NW8U3ImkHAgbJyx/klmubtK4JfRtOd1yT/YyEzPcrTywHMelSfcrcAxxObIQw5RZpklzLwTJhyqA7zsQH8VStg9F/1QzsxIiAsSUPPyTmZ7+gN6bn6rbxOt4jsG8HSwgpkLstwaqf7B6l5Xj6ybrbYbegZERxsgbJaHnUsysc2BRFQm0gEF12G/FGnBc8+P6EsvZ3agWKPC931wUXgltvwasSPtvE3FImc/qlY411YScv9tnZ0Irq16xRZzyDkXzgkqXndG1nBBKICWJUE4MRYypxA/pM3S9fx8vSxnVEH/s/+1SO3+xGXJD2DTRn7Hi6fVic0Ly0iyrzZ3N8G2IZvOq4=;rKDhb7csZrz6XNLc6oSU4A=="
 ---
