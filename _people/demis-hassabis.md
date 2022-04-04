@@ -13,11 +13,11 @@ website: http://t.co/8B3TFG0hNp
 twitter:
   username: demishassabis
   url: https://twitter.com/demishassabis
-  followers: 249574
+  followers: 249576
 
 googleScholar:
   url: https://scholar.google.com/citations?user=dYpPMQEAAAAJ
-  citations: 74339
+  citations: 74585
 
 topics:
   - AI
