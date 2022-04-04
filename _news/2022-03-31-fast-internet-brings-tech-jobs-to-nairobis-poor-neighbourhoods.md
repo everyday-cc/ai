@@ -1,49 +1,20 @@
 ---
 category: news
 title: "Fast internet brings tech jobs to Nairobi's poor neighbourhoods"
-excerpt: "Companies often outsource work that underpins artificial intelligence to people who label roadside objects, or teach driverless cars to recognise their surroundings, distinguish between a smudge ..."
-publishedDateTime: 2022-03-31T09:45:00Z
-originalUrl: "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/"
-webUrl: "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/"
+excerpt: "Daniel Nzoma's face glows in the light of a computer screen as he reviews computer codes used for driverless cars and crop disease detection, an unusual job in Nairobi's crowded Pipeline ..."
+publishedDateTime: 2022-03-31T10:06:00Z
+originalUrl: "https://www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods"
+webUrl: "https://www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods"
 type: article
-quality: 69
-heat: 79
-published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.reuters.com/resizer/4M_ZfsExf_mvYT37MXUvNasYssQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OOEUTUKC2VNONJNEVBOTIYDQO4.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-related:
-  - title: "Fast internet brings tech jobs to the poor"
-    excerpt: "Daniel Nzoma’s face glows in the light of a computer screen as he reviews computer codes used for driverless cars and crop disease detection, an unusual job in Nairobi’s crowded Pipeline neighbourhood."
-    publishedDateTime: 2022-04-01T22:04:00Z
-    webUrl: "https://www.herald.co.zw/fast-internet-brings-tech-jobs-to-the-poor/"
-    type: article
-    provider:
-      name: The Herald-Zimbabwe
-      domain: herald.co.zw
-    quality: 24
-    images:
-      - url: "https://www.herald.co.zw/wp-content/uploads/sites/2/2019/04/3004-1-1-SAMSUNG-GALAXY-NOTE-5-INTERNET-PROBLEMS.jpg"
-        width: 680
-        height: 380
-        isCached: true
-
-secured: "4IGLQcDOqX8wXboMh1/y5WJBb7Dh851qOItCCla3SS/w0KIGpGqPB035Z/0Ne+PKuYSzDt0WH9YM+CWhKhocnCHlc4c7fGXMGlVXN1xOlEdDC1A2QfXXuukLzGFuPQ7i6zRtrjzFiwRJXsFC8Gv3GK22ZWSgW0WDhoWOUGCIzmiK8ctSCz9aVuVL7yImCfejMzRfKGo3zeguliFIVOs/G+UpXR1KPEMToYGulUfa1FfiNZcdplK2/hrvDggZaIlJ6TYiT9iuq0DfKcLstJ5ca09Ep0d5HpAx1q++h7wfkY60FSRm4pLrvEWqpRmZ7CIFEAWuRMPqz217B4ANHs2NwRmDITazOAy79jq0OZV3kww=;zpHuxUE7zg/SS+c1LvhTLg=="
+secured: "fleUbfnxZMjmR9SN4V1k7TTooYX44tkFC6P0f93mokDNWuJTr0KdyPILKeXUv3s33iOcNqxYIvl2WASmBMzw2kF/dyIlhfe9RKhxipcs7wB83MlE1mJeq5Lgy5uOGbMebj1mDHRAoZQffbU941XQUbazcxS4fdrodOKhs/z9As+p70wQSObAc2Eo6oeDl6/rUi485r4FBWx6cEz4D3dOzFKSQUzD3P1Mfs5iNGBDzhpuoa6WMyaPhFD0LvyDdtAkz/yebs8Am+X6yz0GN/YRzE8MHX451vbG/GXis85nBYdfugagynAbgbQKFEXmHhkIrp3crOJ4iYNqWvVd8D6a5sf5vSIIrBnWm9nMrRlYro0=;LQmC2xl1A/HQqIUKI4OxQQ=="
 ---
 

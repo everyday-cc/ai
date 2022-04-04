@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://erepublic.brightspotcdn.com/dims4/default/aa7c503/2147483647/strip/true/crop/1440x751+0+105/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9e%2F71%2F67a0aaf546c78384ec8f6ce8981d%2Funiversity-at-albany.jpg"

@@ -1,54 +1,20 @@
 ---
 category: news
 title: "Face scanner Clearview AI aims to branch out beyond police"
-excerpt: "A controversial face recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and — most recently —"
-publishedDateTime: 2022-04-01T20:20:00Z
-originalUrl: "https://www.wearecentralpa.com/tech-news/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/"
-webUrl: "https://www.wearecentralpa.com/tech-news/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/"
+excerpt: "A controversial face recognition company that's built a massive photographic dossier of the world's people for use by police, national governments and — most recently — the Ukrainian military is now planning to offer its technology to banks and other private businesses."
+publishedDateTime: 2022-04-01T22:16:00Z
+originalUrl: "https://apnews.com/article/russia-ukraine-technology-business-europe-national-governments-4a4db5b7340792f8a8b08c41c4653f5a"
+webUrl: "https://apnews.com/article/russia-ukraine-technology-business-europe-national-governments-4a4db5b7340792f8a8b08c41c4653f5a"
 type: article
-quality: 17
-heat: -1
-published: false
 
 provider:
-  name: WEARECENTRALPA
-  domain: wearecentralpa.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - Computer Vision
   - AI
 
-related:
-  - title: "Face Scanner Clearview AI Aims to Branch out Beyond Police"
-    excerpt: "A controversial face recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and — most recently — the Ukrainian military is now p"
-    publishedDateTime: 2022-04-03T10:03:00Z
-    webUrl: "https://english.aawsat.com/home/article/3570036/face-scanner-clearview-ai-aims-branch-out-beyond-police"
-    ampWebUrl: "https://english.aawsat.com/home/article/3570036/face-scanner-clearview-ai-aims-branch-out-beyond-police?amp"
-    cdnAmpWebUrl: "https://english-aawsat-com.cdn.ampproject.org/c/s/english.aawsat.com/home/article/3570036/face-scanner-clearview-ai-aims-branch-out-beyond-police?amp"
-    type: article
-    provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
-    quality: 57
-    images:
-      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2022/04/03/1000.jpeg?itok=BR_JAnpB"
-        width: 480
-        height: 320
-        isCached: true
-  - title: "Face scanner Clearview AI aims to branch out beyond police"
-    excerpt: "A controversial face recognition company that’s built a massive photographic dossier of the world's people for use by police, national governments and – most recently – the Ukrainian military is now planning to offer its technology to banks and other private businesses."
-    publishedDateTime: 2022-04-04T07:45:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/04/04/face-scanner-clearview-ai-aims-to-branch-out-beyond-police"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/04/04/1538710.jpg"
-        width: 1240
-        height: 826
-        isCached: true
-
-secured: "jKn5bDNO7VDCG39qBtSVEsI4rqtQklIFzitZHy4pGi+NT6k3HxXyIqYb0ZdHYNqHiOpipsjborse/tJTxx+Dhkdo+HE7cNiogxGjwGdf0QQ266zgym0GRZr1+x1UNBUnqEWOB7c8oUl/OZo/c51eA4pijIzkV/LytP4NBMCZyrsBUTck3GgLs/ttLT/bEviQyEj/QM5qIzI+V1Dz4yDU3ACw8yOT3z1+jcwZ3GHmqbFqxb9XgCO1T5hDRkQqHVyEYh/kz4rTUzmOAcsc2hLJ6gjVi6opHWnVTxvknNav2B1gVmzzDQMiY1Vv5pCOnWp5xDmqBeQBOWbvmfzu3qST0hMpem0gbUiX6JoFy2KBdVq60Bk+/XjOwXP3XBHZBibEsYfwzzi0Fl/NMV2ArS6IiRd8btRC19uLnHwI42LwOMgb0deJjlz3sQyDYHw5KTV+D3op629FIrA49JVHRDK9zfxyXnkUua2hL4ZFn0gqLHTv2dKvpFvkeZaB55IW48ycd0wJO+JB9Cgy6Skwy7yhBg==;35MeNz9Rxw32qMj43KPNhA=="
+secured: "LX+9S5rd89Rw/jPQCuVP/sW8veaz25HFaCXwN3e6rPEdrGwbxlbB7ftgI8qd2ptOTuontfGdlw3NhsyTdusRgXFv0xBlQsQSR1h7sSbTBxcvY7+CYQpCXcCoZyNCfSLaxxa7UJcBAHK7cYBFlOc7Wf1anTxWkq/c1VNhovmz8iD9TQYKi+Nx7zHvaQ9b+pZHu8gOOdXqeGXvUxRRSu63om+gP3P/OcjNwvXqerTharqb0Le70EHtWzzvNJu2Fuh3MQ8/gLRp6w4FiGwaIrm+LsBzqtVP5xiiQ3SgfEvfNQYXuVACYlkzQW4jDUWBfc03Uc9mLbXfl3KZi8rD5gazTzWtKRL5Jk/w9fcrG7BUp/PtPO95MBcds3qy+TeOMeDthLo4RUNmY2GwKLCeyyrHU9q9icMjzkbWctYFM/Qrs0ZOvcgu5XkOv8tP1dfJIpQQgk8cunZdCz2zu62lYm5FUJfFIfq3/WUD3RwtRYMwT3UO2Zjfe4uXEKg32VqZLs0/yJTUvvDXrIK7x2FsPykb/w==;A7CcQTfihf124lOt8kXDbg=="
 ---
 

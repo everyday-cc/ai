@@ -14,12 +14,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
-    isCached: true
-
-secured: "cgBnKDaNZL2mq8PsliAPJnZxF7mZ5Rg9qG7X8Rq/H+ZeRuPeAvN/lfnn4VY1pbsgbl+Ot80aTMH7UBrkUyL+kt2mF+nrQcaJH+VS9JD90GzhWTaBWMLfHRcosMV2nMwGbXA9c6zNjCe9Bruvla/a9WKgvmnMRhPFpmnGu3KJuXsuuisG6z2UHyF6WPTgarUo9ZT3NHUQaTboGVtWfb5RIH1HqVSmt+lCHVxaE6Lt0LF2oi4yaYtL5zjiIpEeQOWaLK9xBwR4SJszh/VpOO8H4EklOoZecIrAkKzp1StPa3DhNWteyLWDq6BmiRPv5UEIOs3UexzN6H0TFTvTJ5Y10MDhoACYILmTvzSUi9XWdo4=;l8VQI5LgaPaaY4IW7CPX3Q=="
+secured: "/QQJQS9o+OHWI63r+jcdFFMb5iVbWutVYVvNatXqiaUkSW8pAaUOPvtEneeX/adrhkpAcNsYZtpn5Rsiou86RVF+fNpIX16lBusRMNG7wvFoUQlZLP/eVOa/6P9JDF3qOz1Mk509Ik7xy9fV45NH70ugk/fm1poyltncVWmMxmlLaepEgEjO1SGwur6l7BE4AOFO5vayYGIhCzHFeNFfkrOXbTmnD5I84bGAOAXodLFxGHxXOqo7aVcCbi1gJhqAA0bEnR/ZmIE3vxzuZbSSfGIyirR4YVX7hiz7cMVFso+v3ihwWFl3Ivt5T/WXfV/spgeG5ikqPWAQdLheyKnagh9ysVWaNBhboWbW2JMfW0G0CBx7bibusxi9tmAqT5Jb8j7vTUdqZh3qaZApgqZurgUnfAY/luhSDy+UNQc3cJ/e46W29cEPj6URahXl+dnqHPRrOq2AJcgWp56lmY7YA5zvK6gz1f5UifjyQISCwdjQjwMuQzETMXKZuhRuh5ThFce9bKY1FMBMc48XuDpbmg==;MK8iPNzFCQ+T5Vs7eZ6XVg=="
 ---
 
