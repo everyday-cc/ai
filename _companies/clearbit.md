@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "clearbit"
   url: "https://twitter.com/clearbit"
-  followers: 4447
+  followers: 4448
 
 locations:
   - San Francisco
@@ -22,7 +22,7 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1433149472599642120/Am7F6Hbo_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1511018930155888643/GvNtOWok_400x400.png"
     width: 400
     height: 400
     isCached: true
