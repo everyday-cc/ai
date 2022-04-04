@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Artificial Intelligence Market Size Projection, Sales Statistics, Research Insights and Business Overview by 2027"
+    excerpt: "The global healthcare artificial intelligence market is likely to thrive at a healthy CAGR of over 51.9% during the review timeframe. The report further predicts that the market will attain USD 12.22 Billion by the end of 2027, says Market Research Future ..."
+    publishedDateTime: 2022-04-04T11:30:00Z
+    webUrl: "https://www.medgadget.com/2022/04/healthcare-artificial-intelligence-market-size-projection-sales-statistics-research-insights-and-business-overview-by-2027.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 26
   - title: "2022-2027 Global and Regional Artificial Intelligence (AI) Chips Industry Status and Prospects Professional Market Research Report Standard Version"
     excerpt: "Chips market was valued at 5972.91 Million USD in 2021 and will grow with a CAGR of 36.2% from 2021 to 2027, based on Research newly published report. The prime objective of this report is to provide the insights on the post COVID-19 impact which will help market players in this field evaluate their business approaches."
     publishedDateTime: 2022-04-01T07:08:00Z

@@ -24,22 +24,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Microsoft selects AI start-ups to accelerate progress on environmental sustainability"
-    excerpt: "Companies focused reducing carbon emissions and waste, preserving water and protecting ecosystems will join Microsoft’s Accelerator."
-    publishedDateTime: 2022-04-01T08:57:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2022/04/01/microsoft-selects-ai-start-ups-to-accelerate-progress-on-environmental-sustainability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 47
-    images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/68/2022/03/MicrosoftTeams-image-11-scaled.jpg"
-        width: 2560
-        height: 1920
-        isCached: true
-
 secured: "tsy2Xwb0DKiTOf5XSomcf8ZRapTGeHPDr1npHEZtc9DG5Ty/Y/nXoArIWew3d8ssxx5hqZirPPEv1byXDV9A40KvwvLaIMjLzQZM+TclKnxBKx6xUXGYiEAxXIkKS4ANZnK8QIMqMSK28xZrRuE0KAGvUZQ1CYOshpx8Fhjrel0ePgwNbG39Y/c70s+gfKig2EgOHx3MohszcbW3rbbBtl7Ij3AEs2az/l3itw8GRFk2qcjbUWGu3PGiz6o03BYW3zVLfQcC28ZoFw/PJnOglIt6krtDU3cAi5Cy9g8Bt/ny3aXMOoawaMeaJkaYteMYGWVgtLIyS10vyS+Rp6cN+dRC83OIUVlg/nNtqss3vmg=;aMryRhCKSiTiVJrRAroTpQ=="
 ---
 

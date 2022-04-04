@@ -2,6 +2,455 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-31-ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-estee-lauder.md",
+      "title": "AI Visionary, Leader And 21st Century Maverick Sol Rashidi Of Estée Lauder",
+      "excerpt": "My Conversation with one of the most influential, inspirational and brilliant minds. As part of my Series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was honored to converse with Sol Rashidi.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6244fcbb6b9172a70d31a3b8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/amp/",
+      "publishedDateTime": "2022-03-30T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework.md",
+      "title": "NSW government AI projects face ethics assessment under new assurance framework",
+      "excerpt": "The mandated AI Assurance Framework will help agencies establish clear governance and accountability measures when using AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
+      "originalUrl": "https://www.zdnet.com/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
+      "publishedDateTime": "2022-03-30T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design.md",
+      "title": "Synopsys Launches Disruptive Cloud-Based SaaS Solution To Accelerate And Democratize Chip Design",
+      "excerpt": "In a move that could have broad-reaching implications for chip design and the Electronic Design Automation industry, Synopsys has launched a new cloud-based SaaS solution, dubbed Synopsys Cloud, which makes its cutting-edge design a tools available to a diverse spectrum of potential customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/",
+      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6244e7327f1720b840503f2b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/amp/",
+      "publishedDateTime": "2022-03-30T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-cea-leta-finds-inspiration-for-edge-ai-in-insects-nervous-systems.md",
+      "title": "CEA-Leta finds inspiration for edge AI in insect’s nervous systems",
+      "excerpt": "Scientist Elisa Vianello has received a grant to use novel nanoscale memory technologies that mimic the biological mechanisms from insects to create silicon-based, energy-efficient nanoscale systems for edge AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/30/cea-leta-finds-inspiration-in-insects-nervous-systems-for-edge-ai/",
+      "originalUrl": "https://venturebeat.com/2022/03/30/cea-leta-finds-inspiration-in-insects-nervous-systems-for-edge-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/crickets.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/30/cea-leta-finds-inspiration-in-insects-nervous-systems-for-edge-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/cea-leta-finds-inspiration-in-insects-nervous-systems-for-edge-ai/amp/",
+      "publishedDateTime": "2022-03-30T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-spirit-uses-facial-recognition-at-atlanta-ga-airport.md",
+      "title": "Spirit Uses Facial Recognition at Atlanta, Ga., Airport",
+      "excerpt": "Spirit Airlines has begun using facial-scanning technology at Atlanta's Hartsfield-Jackson International Airport to speed up boarding for passengers who, the company claims, can opt out of the scan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport",
+      "originalUrl": "https://www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/ed0e6ad/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fbd%2F81%2F9260b1c2d432f9131c8a14ee5dbd%2Fshutterstock-358447820.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport?_amp=true",
+      "publishedDateTime": "2022-03-30T16:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies.md",
+      "title": "Meta AI’s open-source system attempts to right gender bias in Wikipedia biographies",
+      "excerpt": "Meta AI's open-sourced the model and corresponding dataset relates to not only women, but women in science and those located in Asia and Africa.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/",
+      "originalUrl": "https://venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/women-in-tech.jpg?fit=800%2C598&strip=all",
+          "width": 800,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/amp/",
+      "publishedDateTime": "2022-03-30T15:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-how-nvidia-is-harnessing-ai-to-improve-predictive-maintenance.md",
+      "title": "How Nvidia is harnessing AI to improve predictive maintenance",
+      "excerpt": "Nvidia is pursuing a tech-stack-based approach starting with new silicon to help manufacturers make sense of the massive amount of data and help with predictive maintenance, which is core to many organizations' Maintenance,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/30/how-nvidia-is-harnessing-ai-to-improve-predictive-maintenance/",
+      "originalUrl": "https://venturebeat.com/2022/03/30/how-nvidia-is-harnessing-ai-to-improve-predictive-maintenance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/nvidia.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/30/how-nvidia-is-harnessing-ai-to-improve-predictive-maintenance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/how-nvidia-is-harnessing-ai-to-improve-predictive-maintenance/amp/",
+      "publishedDateTime": "2022-03-30T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-peopleai-ceo-oleg-rogynskyy-on-using-ai-to-promote-sales-and-revenue.md",
+      "title": "People.ai CEO Oleg Rogynskyy on Using AI to Promote Sales and Revenue",
+      "excerpt": "An expert in the field explains that AI is very much in its infancy – but has enormous potential in the near term.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/it-management/people-ai-ceo-oleg-rogynskyy-using-ai-to-promote-sales-and-revenue/",
+      "originalUrl": "https://www.eweek.com/it-management/people-ai-ceo-oleg-rogynskyy-using-ai-to-promote-sales-and-revenue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/03/eSPEAKS-thumbnail-9.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-battery-free-makecode-empowers-kids-to-code-sustainably.md",
+      "title": "Battery-free MakeCode empowers kids to code sustainably",
+      "excerpt": "The post Battery-free MakeCode empowers kids to code sustainably appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://news.northwestern.edu/stories/2022/03/battery-free-makecode-empowers-kids-to-code-sustainably/",
+      "originalUrl": "https://news.northwestern.edu/stories/2022/03/battery-free-makecode-empowers-kids-to-code-sustainably/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.northwestern.edu/assets/Stories/2022/03/_resampled/ScaleWidthWyI0ODAiXQ/hester640.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T13:52:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-betting-on-ai-vcs-back-startups-as-the-tech-world-booms.md",
       "title": "Betting on AI, VCs back startups as the tech world booms",
       "excerpt": "Businesses seeking new information systems have typically had two choices — they could purchase one from an external vendor or build a new system using in-house developers. Today, there is a third alternative — low-code/no-code applications powered by AI.",
@@ -61,7 +510,7 @@
       "originalUrl": "https://www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -828,452 +1277,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-syniverse-and-koreai-form-partnership-to-offer-cpaas-professional-services-for-enterprises.md",
-      "title": "Syniverse and Kore.ai Form Partnership to Offer CPaaS Professional Services for Enterprises",
-      "excerpt": "Syniverse®, “the world’s most connected company” ®, today said it has formed a global partnership with Kore.ai to complement its Communications Platform-as-a-Service (CPaaS) strategy by providing conversational artificial intelligence (AI) and professional services for Forbes Global 2000 enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/syniverse-and-kore-ai-form-partnership-to-offer-cpaas-professional-services-for-enterprises/article_88054479-a0c8-5a20-96e2-232b8574137e.html",
-      "originalUrl": "https://www.eagletribune.com/region/syniverse-and-kore-ai-form-partnership-to-offer-cpaas-professional-services-for-enterprises/article_88054479-a0c8-5a20-96e2-232b8574137e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/8/d9/8d988135-5218-5ce3-b387-8d6e62d636e9/62444a53293a0.image.jpg?crop=1460%2C767%2C0%2C326&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-30T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-ai-powered-building-design-platform-beamup-emerges-from-stealth-with-15m.md",
-      "title": "AI-powered building design platform BeamUP emerges from stealth with $15M",
-      "excerpt": "BeamUP, a startup developing an AI-powered building design platform, has raised $15 million in a venture round. It plans to use the funds to expand its team.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/30/ai-powered-building-design-platform-beamup-emerges-from-stealth-with-15m/",
-      "originalUrl": "https://techcrunch.com/2022/03/30/ai-powered-building-design-platform-beamup-emerges-from-stealth-with-15m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-863910288.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/30/ai-powered-building-design-platform-beamup-emerges-from-stealth-with-15m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/30/ai-powered-building-design-platform-beamup-emerges-from-stealth-with-15m/amp/",
-      "publishedDateTime": "2022-03-30T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner.md",
-      "title": "Will Zalatoris On Predictive Analytics, Fantasy Golf And Tips For Picking A Masters Winner",
-      "excerpt": "Last year’s Masters runner-up Will Zalatoris offers tips to fantasy golf players on how to pick winners in Augusta.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/",
-      "originalUrl": "https://www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62434ef83c1a23cbed4ab6ab/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/amp/",
-      "publishedDateTime": "2022-03-30T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-builderai-raises-100m-series-c-led-by-insight-partners-to-scale-up-its-software-automation.md",
-      "title": "Builder.ai raises $100M Series C led by Insight Partners to scale up its software automation",
-      "excerpt": "When we started covering Builder.ai a few years ago, the startup was tapping into a new wave of businesses wanting their own native apps. The previous wave of agency-built and outsourced apps was waining,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/30/builder-ai-raises-100m-series-c-led-by-insight-partners-to-scale-up-its-software-automation/",
-      "originalUrl": "https://techcrunch.com/2022/03/30/builder-ai-raises-100m-series-c-led-by-insight-partners-to-scale-up-its-software-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/builder-studio-store.jpg?w=1024",
-          "width": 1024,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/30/builder-ai-raises-100m-series-c-led-by-insight-partners-to-scale-up-its-software-automation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/30/builder-ai-raises-100m-series-c-led-by-insight-partners-to-scale-up-its-software-automation/amp/",
-      "publishedDateTime": "2022-03-30T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-kt-launches-ai-quarantine-robot.md",
-      "title": "KT launches AI quarantine robot",
-      "excerpt": "KT has launched an artificial intelligence (AI) quarantine robot intended for use at hospitals and other large facilities receiving many visitors. With quarantine robots being just the start of things to come,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2022/03/133_326427.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2022/03/133_326427.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202203/2b579531f9c14bba911005012964263f.jpg",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326427",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326427",
-      "publishedDateTime": "2022-03-29T23:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs.md",
-      "title": "Sarcos merges with RE2, aims to have robots take on dangerous jobs",
-      "excerpt": "Sarcos and RE2 grew up working on defense projects but they’re now aiming to expand and take on industrial roles. They’re particularly interested in supporting and maybe replacing humans working unstructured spaces where complete automation is difficult.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/29/sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs/",
-      "originalUrl": "https://venturebeat.com/2022/03/29/sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/08/robotsinfactory.jpg?fit=800%2C333&strip=all",
-          "width": 799,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/29/sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs/amp/",
-      "publishedDateTime": "2022-03-29T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house.md",
-      "title": "Tier Mobility’s buy of Fantasmo brings camera positioning tech in-house",
-      "excerpt": "Shared micromobility company Tier Mobility said on Wednesday it has acquired Fantasmo, a U.S.-based computer vision-powered e-scooter parking startup whose tech Tier had been trialing in multiple ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/30/tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house/",
-      "originalUrl": "https://techcrunch.com/2022/03/30/tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/image001-1-1.png?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/30/tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/30/tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house/amp/",
-      "publishedDateTime": "2022-03-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-ai-handing-out-rough-justice-in-the-uk.md",
-      "title": "AI Handing Out Rough Justice In The U.K.",
-      "excerpt": "Report raises fears over the use of AI in the U.K. justice system, with algorithms used to determine risk of reoffending and sham marriages",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/ai-handing-out-rough-justice-in-the-uk/",
-      "originalUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/ai-handing-out-rough-justice-in-the-uk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62430d3e3c540bd1d38590c8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/ai-handing-out-rough-justice-in-the-uk/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/03/29/ai-handing-out-rough-justice-in-the-uk/amp/",
-      "publishedDateTime": "2022-03-29T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-omniml-releases-platform-for-building-lightweight-ml-models-for-the-edge.md",
-      "title": "OmniML releases platform for building lightweight ML models for the edge",
-      "excerpt": "OmniML’s solution enables users to design, optimize and deploy advanced machine learning models to hardware devices at the network edge. It’s designed to enable enterprises to use small, scalable, and efficient machine learning models to give edge devices the ability to perform AI inference tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/29/omniai-releases-platform-for-building-lightweight-ml-models-for-the-edge/",
-      "originalUrl": "https://venturebeat.com/2022/03/29/omniai-releases-platform-for-building-lightweight-ml-models-for-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/GettyImages-1193139738-e1632245679253.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/29/omniai-releases-platform-for-building-lightweight-ml-models-for-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/omniai-releases-platform-for-building-lightweight-ml-models-for-the-edge/amp/",
-      "publishedDateTime": "2022-03-29T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

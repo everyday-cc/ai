@@ -2,6 +2,452 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-30-syniverse-and-koreai-form-partnership-to-offer-cpaas-professional-services-for-enterprises.md",
+      "title": "Syniverse and Kore.ai Form Partnership to Offer CPaaS Professional Services for Enterprises",
+      "excerpt": "Syniverse®, “the world’s most connected company” ®, today said it has formed a global partnership with Kore.ai to complement its Communications Platform-as-a-Service (CPaaS) strategy by providing conversational artificial intelligence (AI) and professional services for Forbes Global 2000 enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/syniverse-and-kore-ai-form-partnership-to-offer-cpaas-professional-services-for-enterprises/article_88054479-a0c8-5a20-96e2-232b8574137e.html",
+      "originalUrl": "https://www.eagletribune.com/region/syniverse-and-kore-ai-form-partnership-to-offer-cpaas-professional-services-for-enterprises/article_88054479-a0c8-5a20-96e2-232b8574137e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/8/d9/8d988135-5218-5ce3-b387-8d6e62d636e9/62444a53293a0.image.jpg?crop=1460%2C767%2C0%2C326&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-ai-powered-building-design-platform-beamup-emerges-from-stealth-with-15m.md",
+      "title": "AI-powered building design platform BeamUP emerges from stealth with $15M",
+      "excerpt": "BeamUP, a startup developing an AI-powered building design platform, has raised $15 million in a venture round. It plans to use the funds to expand its team.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/30/ai-powered-building-design-platform-beamup-emerges-from-stealth-with-15m/",
+      "originalUrl": "https://techcrunch.com/2022/03/30/ai-powered-building-design-platform-beamup-emerges-from-stealth-with-15m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-863910288.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/30/ai-powered-building-design-platform-beamup-emerges-from-stealth-with-15m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/30/ai-powered-building-design-platform-beamup-emerges-from-stealth-with-15m/amp/",
+      "publishedDateTime": "2022-03-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner.md",
+      "title": "Will Zalatoris On Predictive Analytics, Fantasy Golf And Tips For Picking A Masters Winner",
+      "excerpt": "Last year’s Masters runner-up Will Zalatoris offers tips to fantasy golf players on how to pick winners in Augusta.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/",
+      "originalUrl": "https://www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62434ef83c1a23cbed4ab6ab/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/amp/",
+      "publishedDateTime": "2022-03-30T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-builderai-raises-100m-series-c-led-by-insight-partners-to-scale-up-its-software-automation.md",
+      "title": "Builder.ai raises $100M Series C led by Insight Partners to scale up its software automation",
+      "excerpt": "When we started covering Builder.ai a few years ago, the startup was tapping into a new wave of businesses wanting their own native apps. The previous wave of agency-built and outsourced apps was waining,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/30/builder-ai-raises-100m-series-c-led-by-insight-partners-to-scale-up-its-software-automation/",
+      "originalUrl": "https://techcrunch.com/2022/03/30/builder-ai-raises-100m-series-c-led-by-insight-partners-to-scale-up-its-software-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/builder-studio-store.jpg?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/30/builder-ai-raises-100m-series-c-led-by-insight-partners-to-scale-up-its-software-automation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/30/builder-ai-raises-100m-series-c-led-by-insight-partners-to-scale-up-its-software-automation/amp/",
+      "publishedDateTime": "2022-03-30T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-kt-launches-ai-quarantine-robot.md",
+      "title": "KT launches AI quarantine robot",
+      "excerpt": "KT has launched an artificial intelligence (AI) quarantine robot intended for use at hospitals and other large facilities receiving many visitors. With quarantine robots being just the start of things to come,",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2022/03/133_326427.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2022/03/133_326427.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202203/2b579531f9c14bba911005012964263f.jpg",
+          "width": 980,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326427",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326427",
+      "publishedDateTime": "2022-03-29T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs.md",
+      "title": "Sarcos merges with RE2, aims to have robots take on dangerous jobs",
+      "excerpt": "Sarcos and RE2 grew up working on defense projects but they’re now aiming to expand and take on industrial roles. They’re particularly interested in supporting and maybe replacing humans working unstructured spaces where complete automation is difficult.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/29/sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs/",
+      "originalUrl": "https://venturebeat.com/2022/03/29/sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/08/robotsinfactory.jpg?fit=800%2C333&strip=all",
+          "width": 799,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/29/sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs/amp/",
+      "publishedDateTime": "2022-03-29T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house.md",
+      "title": "Tier Mobility’s buy of Fantasmo brings camera positioning tech in-house",
+      "excerpt": "Shared micromobility company Tier Mobility said on Wednesday it has acquired Fantasmo, a U.S.-based computer vision-powered e-scooter parking startup whose tech Tier had been trialing in multiple ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/30/tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house/",
+      "originalUrl": "https://techcrunch.com/2022/03/30/tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/image001-1-1.png?w=1024",
+          "width": 1024,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/30/tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/30/tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house/amp/",
+      "publishedDateTime": "2022-03-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-ai-handing-out-rough-justice-in-the-uk.md",
+      "title": "AI Handing Out Rough Justice In The U.K.",
+      "excerpt": "Report raises fears over the use of AI in the U.K. justice system, with algorithms used to determine risk of reoffending and sham marriages",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/ai-handing-out-rough-justice-in-the-uk/",
+      "originalUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/ai-handing-out-rough-justice-in-the-uk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62430d3e3c540bd1d38590c8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/ai-handing-out-rough-justice-in-the-uk/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/03/29/ai-handing-out-rough-justice-in-the-uk/amp/",
+      "publishedDateTime": "2022-03-29T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-omniml-releases-platform-for-building-lightweight-ml-models-for-the-edge.md",
+      "title": "OmniML releases platform for building lightweight ML models for the edge",
+      "excerpt": "OmniML’s solution enables users to design, optimize and deploy advanced machine learning models to hardware devices at the network edge. It’s designed to enable enterprises to use small, scalable, and efficient machine learning models to give edge devices the ability to perform AI inference tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/29/omniai-releases-platform-for-building-lightweight-ml-models-for-the-edge/",
+      "originalUrl": "https://venturebeat.com/2022/03/29/omniai-releases-platform-for-building-lightweight-ml-models-for-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/GettyImages-1193139738-e1632245679253.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/29/omniai-releases-platform-for-building-lightweight-ml-models-for-the-edge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/omniai-releases-platform-for-building-lightweight-ml-models-for-the-edge/amp/",
+      "publishedDateTime": "2022-03-29T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-how-speech-recognition-and-ai-are-fighting-insurance-fraud.md",
       "title": "How Speech Recognition and AI are Fighting Insurance Fraud",
       "excerpt": "By Nigel Cannings, CTO at Intelligent Voice. Speech recognition and AI technology are at the forefront of the fight against fraud in the insurance sector. As fraudulent individuals and organisations evolve,",
@@ -349,19 +795,19 @@
     {
       "path": "_news/2022-03-30-rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod.md",
       "title": "RS21 Wins Spot on $241M Artificial Intelligence Contract for DoD",
-      "excerpt": "Data Science and AI Company Qualifies to Participate in the DoD Data Readiness for Artificial Intelligence Development Program",
+      "excerpt": "ALBUQUERQUE, N.M., March 29, 2022 /PRNewswire-PRWeb/ -- RS21, a data science company developing artificial intelligence (AI ... We navigate complex data issues in the fields of healthcare, defense, safety, urban planning, energy, cyber, land use, climate ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod/article_e73d4602-9e81-53e4-a8ff-11bd7d085fcd.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod/article_e73d4602-9e81-53e4-a8ff-11bd7d085fcd.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/03/n26355645/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/n26355645/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -369,13 +815,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26355645",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26355645",
       "publishedDateTime": "2022-03-29T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -385,6 +831,7 @@
         "news"
       ],
       "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -672,6 +1119,48 @@
       ]
     },
     {
+      "path": "_news/2022-03-29-omniml-secures-10-million-to-accelerate-ai-computing-on-edge-devices.md",
+      "title": "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices",
+      "excerpt": "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment by Qualcomm Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-san-jose-venture-capital-artificial-intelligence-3c9b1122a386442a83dab3822c84a7dd",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-san-jose-venture-capital-artificial-intelligence-3c9b1122a386442a83dab3822c84a7dd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists.md",
       "title": "Pinecone announces $28M Series A for purpose-built database aimed at data scientists",
       "excerpt": "When Pinecone launched last year, the company’s message was around building a serverless vector database designed specifically for the needs of data scientists. While that database is at the core of what the company is doing,",
@@ -721,482 +1210,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database.md",
-      "title": "Pinecone gears up to support next-gen web apps with AI-powered database",
-      "excerpt": "Pinecone's AI-powered database is optimized to speed up queries to improve the efficiency of complex operations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/",
-      "originalUrl": "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1352189853-1-e1648494908738.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/amp/",
-      "publishedDateTime": "2022-03-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-dubai-meet-the-genius-who-became-the-worlds-youngest-computer-programmer-aged-6.md",
-      "title": "Dubai: Meet the genius who became the world's youngest computer programmer aged 6",
-      "excerpt": "“I developed some AI projects using IBM Watson and Python including a chatbot, voice assistance and an image recognition system to detect fire and smoke.” Explaining the image recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/offbeat/dubai-meet-a-six-year-old-who-is-the-worlds-youngest-computer-programmer",
-      "originalUrl": "https://www.khaleejtimes.com/offbeat/dubai-meet-a-six-year-old-who-is-the-worlds-youngest-computer-programmer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=21481706-ebe9-5dc7-abfb-9e8b2e3da653&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84543&x=0&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/offbeat/dubai-meet-a-six-year-old-who-is-the-worlds-youngest-computer-programmer?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/offbeat/dubai-meet-a-six-year-old-who-is-the-worlds-youngest-computer-programmer?amp=1",
-      "publishedDateTime": "2022-03-29T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in.md",
-      "title": "Fell Asleep During That Zoom Meeting? Otter AI Will Fill You In",
-      "excerpt": "AI service will automatically capture the key talking points from online meetings, in case you weren't paying attention!",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/",
-      "originalUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6242c3659a2e14fe944650f5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/amp/",
-      "publishedDateTime": "2022-03-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-artificial-intelligence-a-tool-for-the-future-of-mining.md",
-      "title": "Artificial intelligence: A tool for the future of mining",
-      "excerpt": "Given the massive amounts of information that must be analyzed in the early stages of mining exploration, data interpretation is a considerable challenge for geologists. Professor Erwan Gloaguen of Institut national de la recherche scientifique (INRS) and his research partners decided to take developments in this field a step further by adapting existing deep learning architectures to interpret data from airborne imagery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1775269/Institut_National_de_la_recherche_scientifique__INRS__Artificial.jpg",
-          "width": 400,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children.md",
-      "title": "How AI Is Using Facial Detection To Spot Rare Diseases In Children",
-      "excerpt": "This is where computer vision can help. Shniberg built Face.com, a facial recognition platform that discovered over 18 billion faces on the internet. He sold the company to Facebook in 2012. When he and his partner, Lior Wolf, looked at other impactful ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/",
-      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6242c02ee1639ec08c4650f5/0x0.png?format=png&width=1200",
-          "width": 620,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/amp/",
-      "publishedDateTime": "2022-03-29T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-artificial-intelligence-really-isnt-all-that-intelligent.md",
-      "title": "Artificial intelligence really isn’t all that intelligent",
-      "excerpt": "Narrow AI applications such as Google Search and Amazon Alexa are great at solving specific problems, but only as long as you stick to the script.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.html",
-      "originalUrl": "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_automation_thinkstock_643956998-100749919-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.amp.html",
-      "publishedDateTime": "2022-03-29T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-concertai-a-startup-focused-on-cancer-research-raises-150-million.md",
-      "title": "ConcertAI, a Startup Focused on Cancer Research, Raises $150 Million",
-      "excerpt": "The firm uses AI to match patients to specific clinical trials, and to make jumbled medical data AI-ready to sift for more insights. Sixth Street provided funding that values the firm at $1.9 billion",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/concertai-a-startup-focused-on-cancer-research-raises-150-million-11648549801",
-      "originalUrl": "https://www.wsj.com/articles/concertai-a-startup-focused-on-cancer-research-raises-150-million-11648549801",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-513830/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-reid-hoffmans-new-start-up-poaches-first-staff-from-google-and-meta.md",
-      "title": "Reid Hoffman's new start-up poaches first staff from Google and Meta",
-      "excerpt": "Inflection AI, the start-up launched by LinkedIn billionaire Reid Hoffman and DeepMind co-founder Mustafa Suleyman, has poached staff from Google and Meta.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/03/29/inflection-ai-reid-hoffmans-start-up-poaches-staff-from-google-meta.html",
-      "originalUrl": "https://www.msn.com/en-us/finance/other/reid-hoffmans-new-start-up-poaches-first-staff-from-google-and-meta/ar-AAVBWX6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/102361208-20150122-0467-1057.jpg?v=1421960237",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/03/29/inflection-ai-reid-hoffmans-start-up-poaches-staff-from-google-meta.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/03/29/inflection-ai-reid-hoffmans-start-up-poaches-staff-from-google-meta.html",
-      "publishedDateTime": "2022-03-29T01:48:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2022/03/29/inflection-ai-reid-hoffmans-start-up-poaches-staff-from-google-meta.html",
-        "domain": "com/2022/03/29/inflection-ai-reid-hoffmans-start-up-poaches-staff-from-google-meta.html",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-ambeq-enhancing-accessibility.md",
-      "title": "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit ?ambeq, Enhancing Accessibility",
-      "excerpt": "OXFORD, England, March 29, 2022 /CNW/ -- The quantum natural language processing team at Quantinuum, the world's leading integrated quantum computing company, has released a major update to its open-source Python library and toolkit,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-quantinuum-announces-updates-quantum-natural-language-processing-toolkit-/2022/03/29/9572002.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-quantinuum-announces-updates-quantum-natural-language-processing-toolkit-/2022/03/29/9572002.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T01:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-artificial-intelligence-ai-in-construction.md",
-      "title": "Artificial Intelligence (AI) in construction",
-      "excerpt": "With the explosion of terms like Artificial Intelligence (AI) and Machine Learning (ML) in construction, AEC Magazine caught up with Senthil Kumar, CTO and head of AI at start-up Slate.ai to discuss how the technology can assist the complexity in the building industry Q: Senthil,",
-      "sourceUrl": null,
-      "webUrl": "https://aecmag.com/ai/artificial-intelligence-ai-in-construction/",
-      "originalUrl": "https://aecmag.com/ai/artificial-intelligence-ai-in-construction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://aecmag.com/wp-content/uploads/2022/03/Untitled-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AEC Magazine",
-        "domain": "aecmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics",
-        "AI in Finance",
-        "AI in Robotics"
       ]
     }
   ],

@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: Intel spices up PC market with Arc GPU launch"
-    excerpt: "Intel officially announced today the Arc A series, which is targeted at laptops. A version of Arc for desktops has been promised for the second quarter,"
-    publishedDateTime: 2022-03-30T18:36:00Z
-    webUrl: "https://www.techspot.com/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/03/2022-03-30-image-43.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Intel teases first Arc A-series desktop GPU ahead of summer launch"
-    excerpt: "Intel says it will release its first Arc A-series desktop GPU this summer, and has offered a brief peek at the card itself.."
-    publishedDateTime: 2022-03-30T17:13:00Z
-    webUrl: "https://www.engadget.com/intel-arc-a-series-limited-edition-desktop-gpu-release-date-163842328.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-03/739df840-b044-11ec-bfba-0b813432a84a"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Intel Arc-A GPU offers full AV1 hardware acceleration"
     excerpt: "Introduced as Intel’s solution for both gamers and content creators, the new Arc-A graphic products are, the company says, “more than another piece of hardware in your PC” they are “your portal to play and create” on PC."
     publishedDateTime: 2022-03-31T16:31:00Z
@@ -103,6 +73,22 @@ related:
         width: 1000
         height: 560
         isCached: true
+  - title: "The Intel Arc GPU Lineup May Be A Serious Competitor"
+    excerpt: "The Intel Arc GPU series is coming out soon to laptops and desktops. What do they have to offer compared to the current competition?"
+    publishedDateTime: 2022-04-04T10:27:00Z
+    webUrl: "https://unbox.ph/editorials/the-intel-arc-gpu-lineup-may-be-a-serious-competitor/"
+    ampWebUrl: "https://unbox.ph/editorials/the-intel-arc-gpu-lineup-may-be-a-serious-competitor/amp/"
+    cdnAmpWebUrl: "https://unbox-ph.cdn.ampproject.org/c/s/unbox.ph/editorials/the-intel-arc-gpu-lineup-may-be-a-serious-competitor/amp/"
+    type: article
+    provider:
+      name: Unbox
+      domain: unbox.ph
+    quality: 59
+    images:
+      - url: "http://unbox.ph/wp-content/uploads/2022/04/arc-gpu.jpeg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Intel Shows off the First Arc A-Series Desktop GPU; Slated to Release in Summer 2022"
     excerpt: "Intel has revealed its first Intel Arc desktop GPU, along with its A-series Arc Gaming GPUs for laptops. Here are the details to know."
     publishedDateTime: 2022-03-31T06:49:00Z
@@ -133,20 +119,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel shares first look at Arc A-series desktop GPU"
-    excerpt: "After a delay into Q2 2022, INtel has finally shared a first look at its upcoming line of desktop GPUs with a peek at a limited edition card."
-    publishedDateTime: 2022-03-30T17:30:00Z
-    webUrl: "https://dotesports.com/hardware/news/intel-shares-first-look-at-arc-a-series-desktop-gpu"
-    type: article
-    provider:
-      name: Dot Esports
-      domain: dotesports.com
-    quality: 39
-    images:
-      - url: "https://cdn1.dotesports.com/wp-content/uploads/2022/03/30115623/Intel-Arc-A-Series-Limited-Edition-768x399.jpg"
-        width: 768
-        height: 399
-        isCached: true
   - title: "Intel teases first Arc desktop GPU"
     excerpt: "Intel Arc graphics include AI-enhanced XeSS upscaling, AI-accelerated media capabilities, Intel Deep Link technology, etc."
     publishedDateTime: 2022-03-31T08:20:00Z
@@ -175,6 +147,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "AMD reminds us that its mobile GPU is more powerful than Intel's"
+    excerpt: "Intel had a pretty exciting week with the announcement of its Arc 3 laptop GPUs. During its presentation, Intel showed off several slides showing how the Arc 3 mobile graphics silicon fares against their own previous gen Iris X."
+    publishedDateTime: 2022-04-01T17:26:00Z
+    webUrl: "https://www.pcgamer.com/au/amd-reminds-us-that-its-mobile-gpu-is-more-powerful-than-intels/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 19
 
 secured: "PRVq1n9dlHyNVJhdVGwuvAiMNUC+1Bh9otFkFEgQX5qM55A5I91lVdTVHaycNyhW/ABslisvR70+Q4GzNGj7Kvzz96q/yYDTROwDVSF+Z5bxyO5TivAyF27JRWkoYU5lrgXJT6o5pRYYOQUZ6Ye7M0L8TY6oa7reiVYRTB+UXpESCyYs7JF5g6cZmjPrVlPP39cLD18KH3fvSpmdtBrlGASit9hvaGvzgAECdAz6aAF827tFrRaE8m5gDUCL6OsjR/Sj/FlKTHmMgFSEl4NAIBVJ+YcNwYyaK27RqWQ4PuDMpLgUlUcmBtFTnj+S4RrfPpMNA3dXJ7hccnwykFBpnuKoothmkoC6Mdp0T1Thtes4FdKt1dqtI2esO4W/FQbbOpVM+9OHQpqVoXtmF0CGdNtnPOrLMF7RNDCcmWPm2jLNps2c/I1Q3FPBk9u9Tm5zwPD35+ltEuXeYMn1KELQFYrNHvo745B8sjDHj9mPycVHr68XNERJfpIUQKLtEZOByIroL3CmpL9QeKrGjG0sDA==;Fy8TO4lS2rMYT7kXSbBS3w=="
 ---

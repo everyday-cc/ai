@@ -43,22 +43,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Waymo to test autonomous vehicles in San Francisco"
-    excerpt: "Google spinoff Waymo said Wednesday it has started testing its fully automated all-electric vehicles around San Francisco without a human safety driver."
-    publishedDateTime: 2022-03-30T17:18:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2022/03/30/Waymo-autonomous-vehicle-San-Francisco/6791648659153/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/03/30/Waymo-autonomous-vehicle-San-Francisco/6791648659153/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/03/30/Waymo-autonomous-vehicle-San-Francisco/6791648659153/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/6791648659153/2022/1/fb594ae25d0234df96e1fd796dd21fcc/v1.5/Waymo-to-test-autonomous-vehicles-in-San-Francisco.jpg"
-        width: 800
-        height: 532
-        isCached: true
   - title: "Waymo's self-driving cars no longer require a safety driver in San Francisco"
     excerpt: "Waymo's self-driving cars have been providing lifts to Waymo employees in San Francisco since mid-2021, though always with a safety driver behind the wheel. Now the cars will star"
     publishedDateTime: 2022-03-31T15:30:00Z

@@ -57,22 +57,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Waymo to test autonomous vehicles in San Francisco"
-    excerpt: "Google spinoff Waymo said Wednesday it has started testing its fully automated all-electric vehicles around San Francisco without a human safety driver."
-    publishedDateTime: 2022-03-30T17:18:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2022/03/30/Waymo-autonomous-vehicle-San-Francisco/6791648659153/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/03/30/Waymo-autonomous-vehicle-San-Francisco/6791648659153/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/03/30/Waymo-autonomous-vehicle-San-Francisco/6791648659153/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/6791648659153/2022/1/fb594ae25d0234df96e1fd796dd21fcc/v1.5/Waymo-to-test-autonomous-vehicles-in-San-Francisco.jpg"
-        width: 800
-        height: 532
-        isCached: true
 
 secured: "YxfAxaIryAdd2NFzxKS120w2JMqJrNrgpFcF6Z+hUQ9wX8fSmsCmOL5TwYRHyKWDb1Bn0E7SQX2pnASxDOudh9dNP4QEPUUCUh9cbK3H6d0dIgXSjIqFw8Ydkof4W1JChPQscrKx/uVIKtdQiBWwxY3N9cQfvfM/5qLLv3ItT1KRPNN8vZG9VI+EVQ5Z0eirQ+wHRsgxp8AqDPu/GaFkpnRqq9M680GInstsgs/8FVQBMAoTTFt33L9LHoQQ7ZvHdWC17ZjYlrSCwBv5VaJ9eeYrmeNLrVTmIulerjCLbNDskPvFxpTermlGloqbXCvQBUzt52+9C7xWtYx1xz/S7BbV0JGJ/h4iowfyGMx/Hvdp/QMWBlSSzxFdZg1ASSPXjRm2f00WFNssrmF9AbjJHYh+BUjFyAFDzF91TgrfP6f3CvLu6zZ72BRHDXFFgcG7bjRsnfBdBA+HtAESoxaM0a/U8UTR454aGTYUKbv9mBCZHgcIZTOEwBKmuVO8WYuRlSKDMbSL4VNXT3YJ1n/jgg==;O2RZdyYH1oJUdTWffE+63w=="
 ---

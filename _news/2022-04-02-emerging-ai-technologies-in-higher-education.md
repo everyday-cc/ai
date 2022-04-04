@@ -3,13 +3,13 @@ category: news
 title: "Emerging AI Technologies in Higher Education"
 excerpt: "Technologies that utilize artificial intelligence and the cloud can help university networks adapt to the changing networking landscape."
 publishedDateTime: 2022-04-01T20:29:00Z
-originalUrl: "https://edtechmagazine.com/higher/k12/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education"
-webUrl: "https://edtechmagazine.com/higher/k12/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education"
-ampWebUrl: "https://edtechmagazine.com/higher/k12/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
-cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
+originalUrl: "https://edtechmagazine.com/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education"
+webUrl: "https://edtechmagazine.com/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education"
+ampWebUrl: "https://edtechmagazine.com/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
+cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
 type: article
-quality: 74
-heat: 84
+quality: 76
+heat: 86
 published: true
 
 provider:
@@ -17,11 +17,12 @@ provider:
   domain: edtechmagazine.com
 
 topics:
+  - AI in Autos
   - AI
   - AI in Education
 
 images:
-  - url: "https://edtechmagazine.com/higher/k12/higher/higher/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r"
+  - url: "https://edtechmagazine.com/higher/higher/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r"
     width: 1440
     height: 500
     isCached: true
@@ -42,6 +43,6 @@ related:
         height: 250
         isCached: true
 
-secured: "o9QlQji1BsS1syzC9KQ4PIv4nZN+SUaI2EUKfC+/Ie3WZ0UfujfwPM+JGYBfVx3+109V6g+Nlc8MfiCN/Aij4Zto5DiCeIMQfKefLyuaPqYpN4Ss5/XkCHH3tnUwmhHPE4rYTN3IdLy6ngGF+1UZPL2lnTJr6mJ4uKOGfRyYY9gkzOtLZUqHp9LNlGEab+xNdYl8yZX/HqySkuDJBo1NFqdy/9Z/jK23ius/W6swqlDZPlLHgIPR2siP6WgMTiWcDCUpNHnWWD+1Q+A1p2K66NfMPoJCD8prIeatDaHSi0sXkAcVyEyCBaNyzYKPESyDUON4EFPsCiSHs+rPzNqvKLUFo4Q2BMBbPSgMOh8U+kwHopL1LwxEmSfobESp9rNnO5osoNSpc1WvMKqajDBIJ6pGjfBADI+lPfQ5dZ6Nq3Re31tvIezV0PzZyBRCR6H4DBgZ45ehGMivRYaWxbMo/pdS7viMnJz3Y6C9HpJuVjMJ/Gw8/P7HjtyFRAUS7mU1hx/WZQzk95o/3K0TUTD6bQ==;+fM8GB5jC9aKdwTicQ+u+Q=="
+secured: "QZUv06kt6POTLB6onbxX/fliGTMcDhRXwx2pE5XCjjzmyBazgZ8MaFsMH+9VKrZbi7FjkLiryxHf4uwB1ERaYoFT9ER2AgcI+jAuTg2M8reLDqet4sU8hqlVNkI5GuszuMKxFSmBNIqX/M1TJurFKStihyhHJ9cK3xTyWkG0xMXx5CYtd5tQpeTBoNPMG2tZvdDwiVjqnpiODp/P9oDmJKIIFNzUdRwGLRQCI2qTWFmuIit+rKSXCR+P5T9jhBqfbzq4LSk1aqoCYFkSGsDd7No0x0Za4emMcRrKeQzoKT1jKxzqFEbfae4NVgdsFo6Kq7y+fzfkfJcmE0p5jXkNTX8Pi1B7vcHQ8bUz4oTHtcU=;dw7ykQWa9jzXND0bcXpaLw=="
 ---
 

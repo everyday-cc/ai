@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.fairobserver.com/wp-content/uploads/2021/07/artificial-intelligence.jpg"

@@ -1,8 +1,8 @@
 ---
 category: news
 title: "AI in Computer Vision Market Opportunity Analysis and Industry Forecast worth $51.3 billion by 2026"
-excerpt: "[246 Pages Report] AI in computer vision market size is projected to grow from USD 15.9 billion in 2021 to USD 51.3 billion by 2026, at a CAGR of 26.3% from 2021 to 2026. The report “AI in ..."
-publishedDateTime: 2022-03-30T23:11:00Z
+excerpt: "\"AI in Computer Vision Market\" AI in computer vision market size is projected to grow from USD 15.9 billion in 2021 to USD 51.3 billion by 2026, at a CAGR"
+publishedDateTime: 2022-03-30T23:10:00Z
 originalUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-opportunity-analysis-and-industry-forecast-worth-51-3-billion-by-2026"
 webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-opportunity-analysis-and-industry-forecast-worth-51-3-billion-by-2026"
 type: article
@@ -15,8 +15,8 @@ provider:
   domain: digitaljournal.com
 
 topics:
-  - Computer Vision
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/bitcoin-illustration-DJC-1600px-600x337.jpeg"
@@ -82,6 +82,6 @@ related:
         height: 249
         isCached: true
 
-secured: "Zobr520ObBoNSrOUnwfeCIQA3ZKAYNkPPConmYfdUnqrK0k4Ku/JYDGdwXfjvtmuNCCAA3dz/W6xkj8naJPcMf3Xce1QtsKG2ffobyTm8q18YctkbLAYo7OGyTCgbZKWWNWOHPX4IB5mL/ZmSH2nB6e+bfGdJwk3DW2b51sygRE4wKLFGAe2I2EJNem/5UUln8JcI2zi2gi43dgBr1vP1R2wU/2Kf0wR1mBefVaNuU8ZaDZWJOubHrew/1qDnFJhmBuWRPi8XJoPAenyYnsCh2oRi6J7A5Yymg1RVtWMSPuXtTsgxSDzod0ip9cilmTYdXAxTPSkea1VRN+aJ3T9xmRdffF6fzchWDmVlu3Ijrs=;Rd0pDwhWXHsDIzjuOWJlJQ=="
+secured: "xwxJEaCx3herHnUeedL/B9N8ajh3N+3JIi5g4M3nkojumKWUm0KFElOpuP0QUbH1hFBs+8DS8liAhqBZ7ibumds0kyg0eo3z4RINhmA0KYPkAsDJtZ91+Tq0252ZeKGDh0lqmLRAfNz/rygw/+k+Xxy2Et34tmaRR642PBWRxts7/rFuWVxg+qfB0h4rl7X90QDqpyr8rnNjcqLsI/6SK/JO4TuUTwo9Vn5B+OHbRwCY/jt+5naWcZsG8zhIhjhztimHI4z3Mgt/ooIHpiCIhSgn0/pSLPV/1rgopYx7K0y5RW4BwTQUAV5cI98Iw5QbFSmck+DClEPg7dz00UNHoJLQREdeFaCE+WkHhf6Ei3Y=;DlaaIBRHD0RzSzYPypOMsg=="
 ---
 

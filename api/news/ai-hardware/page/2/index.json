@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-16-artificial-intelligence-in-chipset-market-to-hit-usd-3846-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027.md",
+      "title": "Artificial Intelligence in Chipset Market to Hit USD 38.46 Billion | AI Chipset Market Size, Share, Demand, Growth and Forecast 2027",
+      "excerpt": "Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices to support AI technologies. Increasing utilization of AI technologies is projected to boost the demand for these chipsets over the next couple of years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-chipset-market-to-hit-usd-38-46-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-chipset-market-to-hit-usd-38-46-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/311e103167631b53610564f3bef2b5e4678b5881-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-runai-lands-75m-to-dynamically-allocate-hardware-resources-for-ai-training.md",
+      "title": "Run:AI lands $75M to dynamically allocate hardware resources for AI training",
+      "excerpt": "This in turn enables models that would otherwise be constrained by hardware, chiefly GPU memory, to run ostensibly unimpeded on-premises, on public clouds, or at the edge. Exactly how Run ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/15/runai-lands-75m-to-dynamically-allocate-hardware-resources-for-ai-training/",
+      "originalUrl": "https://venturebeat.com/2022/03/15/runai-lands-75m-to-dynamically-allocate-hardware-resources-for-ai-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-582649612.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 839,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/15/runai-lands-75m-to-dynamically-allocate-hardware-resources-for-ai-training/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/15/runai-lands-75m-to-dynamically-allocate-hardware-resources-for-ai-training/amp/",
+      "publishedDateTime": "2022-03-15T19:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-runai-raises-75m-for-its-ai-platform.md",
       "title": "Run:ai raises $75M for its AI platform",
       "excerpt": "Tel Aviv-based Run:ai, a startup that makes it easier for developers and operations teams to manage and optimize their AI infrastructure, today announced that it has raised a $75 million Series C ...",
@@ -1308,92 +1403,6 @@
       "provider": {
         "name": "bestgamingpro",
         "domain": "bestgamingpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-intel-targets-edgy-5g-and-ai-with-new-chips-software.md",
-      "title": "Intel targets edgy 5G and AI with new chips, software",
-      "excerpt": "Intel has lifted the lid on new technologies for the edge and AI ahead of the Mobile World Congress conference including new Xeon D chips with integrated acceleration features and an updated OpenVINO toolkit for AI inferencing.",
-      "sourceUrl": null,
-      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/02/25/intel_xeon_d_openvino/",
-      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/02/25/intel_xeon_d_openvino/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/02/24/handout_intel_xeon_d_2700.jpg",
-          "width": 1920,
-          "height": 690,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/02/25/intel_xeon_d_openvino/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/25/intel_xeon_d_openvino/",
-      "publishedDateTime": "2022-02-25T06:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-how-ai-technology-can-tackle-future-pandemics.md",
-      "title": "How AI Technology Can Tackle Future Pandemics",
-      "excerpt": "Artificial intelligence (AI) has come to bear on many of our responses to SARS-CoV-2 (COVID-19), and will continue to help us tackle future pandemics",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/Article.aspx?ArticleID=480",
-      "originalUrl": "https://www.azorobotics.com/Article.aspx?ArticleID=480",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/Article_Images/ImageForArticle_480_16457846554832959.jpg",
-          "width": 1000,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/article.aspx?ArticleID=480",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/article.aspx?ArticleID=480",
-      "publishedDateTime": "2022-02-25T02:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
         "images": null,
         "publishers": null,
         "authors": null

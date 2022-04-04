@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Artificial Intelligence Market Size Projection, Sales Statistics, Research Insights and Business Overview by 2027"
+    excerpt: "The global healthcare artificial intelligence market is likely to thrive at a healthy CAGR of over 51.9% during the review timeframe. The report further predicts that the market will attain USD 12.22 Billion by the end of 2027, says Market Research Future ..."
+    publishedDateTime: 2022-04-04T11:30:00Z
+    webUrl: "https://www.medgadget.com/2022/04/healthcare-artificial-intelligence-market-size-projection-sales-statistics-research-insights-and-business-overview-by-2027.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 26
   - title: "Cognitive Computing Market 2028 Industry Analysis, Trends, Market Size and Forecasts"
     excerpt: "Key Companies Covered in the Cognitive Computing Market Research Report Are  3M, Google LLC, Hewlett Packard Enterprise Development LP, In"
     publishedDateTime: 2022-04-01T13:44:00Z

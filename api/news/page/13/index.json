@@ -2,6 +2,525 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-03-21-byjus-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp.md",
+      "title": "BYJU'S appoints ex-Facebook tech lead Majid Yazdani as VP",
+      "excerpt": "Yazdani previously worked as a staff scientist at Linkedin and at the Idiap Research Institute in Switzerland. He joined Facebook AI (Meta AI) in 2018 to construct neural networks with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/business/2022/mar/21/byjus-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp-2432576.html",
+      "originalUrl": "https://www.newindianexpress.com/business/2022/mar/21/byjus-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp-2432576.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/3/21/w600X390/Majid.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/business/2022/mar/21/byjus-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp-2432576.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/mar/21/byjus-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp-2432576.amp",
+      "publishedDateTime": "2022-03-21T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-21-how-businesses-can-boost-their-roi-with-agile-ai.md",
+      "title": "How Businesses Can Boost Their ROI With Agile AI",
+      "excerpt": "This will allow businesses to prioritize optimizing delivery outputs. Start Small and Scale AI Applications Across the Organization Businesses starting out with enterprise AI deployment should work closely with internal teams to identify potential use ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/21/how-businesses-can-boost-their-roi-with-agile-ai/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/21/how-businesses-can-boost-their-roi-with-agile-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6212d7fb4a3a5e8d8f6d35a4/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 965,
+          "height": 934,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/21/how-businesses-can-boost-their-roi-with-agile-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/03/21/how-businesses-can-boost-their-roi-with-agile-ai/amp/",
+      "publishedDateTime": "2022-03-21T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-21-neuro-symbolic-ai-brings-us-closer-to-machines-with-common-sense.md",
+      "title": "Neuro-symbolic AI brings us closer to machines with common sense",
+      "excerpt": "“We’re trying to bring together the power of symbolic languages ... consistency and translation invariance. One of the main challenges that remain is how to design AI systems that learn ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/neuro-symbolic-ai-closer-machines-with-common-sense",
+      "originalUrl": "https://thenextweb.com/news/neuro-symbolic-ai-closer-machines-with-common-sense",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2Fnvkjaf.jpg&signature=0d2183fa7434696c2e8b738a16e66fa6",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-21T01:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-21-gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-65m.md",
+      "title": "Gensyn applies a token to distributed computing for AI developers, raises $6.5M",
+      "excerpt": "For self-driving cars and other applications developed using AI, you need what’s known as ‘deep learning’, the core concepts of which emerged in the ‘50s. This requires training models based on similar patterns as seen in the human brain.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/",
+      "originalUrl": "https://techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/DSC064882.jpg?w=588",
+          "width": 588,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/21/gensyn-applies-a-token-to-distributed-computing-for-ai-developers-raises-6-5m/amp/",
+      "publishedDateTime": "2022-03-21T00:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-21-byjus-appoints-former-facebook-tech-lead-majid-yazdani-as-vp-byjus-lab-to-scale-research-and-innovation-vertical.md",
+      "title": "BYJU’S appoints former Facebook tech lead Majid Yazdani as VP, BYJU’S Lab to scale research and innovation vertical",
+      "excerpt": "BYJU’S, the world’s leading edtech company, today announced the appointment of Majid Yazdani as Vice President at BYJU’S Lab to propel and further shape the future of education. Working on personalisa",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/byjus-appoints-former-facebook-tech-lead-majid-yazdani-as-vp-byjus-lab-to-scale-research-and-innovation-vertical/",
+      "originalUrl": "https://indiaeducationdiary.in/byjus-appoints-former-facebook-tech-lead-majid-yazdani-as-vp-byjus-lab-to-scale-research-and-innovation-vertical/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2022/03/Majid-Yazdani-750x430.jpeg",
+          "width": 750,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/byjus-appoints-former-facebook-tech-lead-majid-yazdani-as-vp-byjus-lab-to-scale-research-and-innovation-vertical/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/byjus-appoints-former-facebook-tech-lead-majid-yazdani-as-vp-byjus-lab-to-scale-research-and-innovation-vertical/",
+      "publishedDateTime": "2022-03-20T23:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-21-leveraging-computer-vision-for-effective-crowd-management-in-smart-cities.md",
+      "title": "Leveraging Computer Vision For Effective Crowd Management In Smart Cities",
+      "excerpt": "Government organizations can implement computer vision in smart cities to maintain social distancing and avoid stampedes and other disasters in crowded areas. As the global population continues to grow at an alarming rate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/leveraging-computer-vision-effective-crowd-management-naveen-joshi",
+      "originalUrl": "https://www.linkedin.com/pulse/leveraging-computer-vision-effective-crowd-management-naveen-joshi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE20RsUcujCmg/article-cover_image-shrink_600_2000/0/1643833710753?e=1653523200&v=beta&t=eRvNdillJADcwCRaRpGpIRZQJrC_4s1Tj8L-ky5VJiw",
+          "width": 1000,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-20T21:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-21-hearst-invests-in-startup-that-uses-machine-learning-to-aid-businesses-journalists.md",
+      "title": "Hearst Invests In Startup That Uses Machine Learning To Aid Businesses, Journalists",
+      "excerpt": "Applied XL develops \"event-detection algorithms that replicate the rigorous research process of biotech journalists in order to surface important signals,\" says CEO.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/372223/hearst-invests-in-startup-using-machine-learning-t.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/372223/hearst-invests-in-startup-using-machine-learning-t.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-20T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-21-driving-into-the-future-this-chennai-based-startup-is-helping-vehicles-make-better-decisions-through-connectivity.md",
+      "title": "Driving into the future: This Chennai-based startup is helping vehicles make better decisions through connectivity",
+      "excerpt": "Ever since Tesla CEO Elon Musk popularised the vision of driverless vehicles interacting ... in the vehicle,” Venkat says. Using Artificial Intelligence, data stored in the cloud is processed ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2022/03/chennai-startup-provides-full-stack-connectivity-automotive-saas/amp",
+      "originalUrl": "https://yourstory.com/2022/03/chennai-startup-provides-full-stack-connectivity-automotive-saas/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/40d66ae0f37111eb854989d40ab39087/ImagesFrames27-1647505616198.png ",
+          "width": 1600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2022/03/chennai-startup-provides-full-stack-connectivity-automotive-saas/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/03/chennai-startup-provides-full-stack-connectivity-automotive-saas/amp",
+      "publishedDateTime": "2022-03-20T20:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-21-how-artificial-intelligence-is-revolutionizing-digital-marketing.md",
+      "title": "How Artificial Intelligence is Revolutionizing Digital Marketing",
+      "excerpt": "Artificial intelligence, AI for short, is a newcomer in the digital marketing arena. And yet it has the power to create a true revolution in the field if businesses choose to embrace it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/how-artificial-intelligence-revolutionizing-digital-antonel-neculai",
+      "originalUrl": "https://www.linkedin.com/pulse/how-artificial-intelligence-revolutionizing-digital-antonel-neculai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHs6zFiHUvVLQ/article-cover_image-shrink_720_1280/0/1647818713011?e=1654128000&v=beta&t=7VgxfETC_OyYbAj8LaJpdtuXENGOO3QzlP_W7LCPLhA",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-20T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-21-researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored.md",
+      "title": "Researchers Warn: Risks of Using AI To Grow Our Food Are Substantial and Must Not Be Ignored",
+      "excerpt": "Artificial intelligence (AI) is on the cusp of driving an agricultural revolution, and helping confront the challenge of feeding our growing global population in a sustainable way. But researchers warn that using new AI technologies at scale holds huge risks that are not being considered.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored/",
+      "originalUrl": "https://scitechdaily.com/researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Farm-Drone-Spraying-Pesticide-777x518.jpg",
+          "width": 777,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored/amp/",
+      "publishedDateTime": "2022-03-20T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-20-ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars.md",
+      "title": "Ethical AI Ambitiously Hoping To Have AI Learn Ethical Behavior By Itself, Such As The Case With AI In Autonomous Self-Driving Cars",
+      "excerpt": "Maybe AI can learn to be ethical, though this is harder than it seems, including considerations underlying AI-based self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/622bfb12203a72d0156f3303/0x0.jpg?format=jpg&crop=3097,1742,x476,y301,safe&fit=crop",
+          "width": 3097,
+          "height": 1742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/amp/",
+      "publishedDateTime": "2022-03-20T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-03-20-mask-and-you-shall-receive-new-facial-recognition-technology-can-recognise-faces-even-whilst-wearing-a-mask.md",
       "title": "Mask and you shall receive: New facial recognition technology can recognise faces even whilst wearing a mask",
       "excerpt": "The problem is that many facial recognition softwares fail liveness checks when a mask is present, due to the inability to see a whole face - or worse they will validate a fraudulent scan due to a low number of data points being scanned and poor liveness ...",
@@ -616,472 +1135,6 @@
       "provider": {
         "name": "KPBS",
         "domain": "kpbs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-03-19-artificial-intelligence-in-drug-discovery-9.md",
-      "title": "Artificial Intelligence in Drug Discovery #9",
-      "excerpt": "In this week’s news digest, we are reviewing advancements by Deepcell, Zephyr AI, Exscientia, Creyon Bio, VAXIMM, DNAnexus, Lantern Pharma, OccamzRazor, Mytide Therapeutics, and other companies. Artif",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-biopharma-9-andrii-buvailo-",
-      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-biopharma-9-andrii-buvailo-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHKvxc1UeQHuw/article-cover_image-shrink_720_1280/0/1647603683019?e=1653523200&v=beta&t=oPb-3wimv2ARkmr98FVn1dp6StFCZNSx1LqCLAt3qYQ",
-          "width": 1123,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-19-trueface-clarifai-join-data-ethics-consortium-for-security.md",
-      "title": "Trueface, Clarifai join Data Ethics Consortium for Security",
-      "excerpt": "DECS is an organization focusing on aiding developers and policymakers to ensure artificial intelligence and machine learning tools are deployed safely.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202203/trueface-clarifai-join-data-ethics-consortium-for-security",
-      "originalUrl": "https://www.biometricupdate.com/202203/trueface-clarifai-join-data-ethics-consortium-for-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg",
-          "width": 2048,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-19-decoding-brain-signals-to-control-a-robotic-arm.md",
-      "title": "Decoding brain signals to control a robotic arm",
-      "excerpt": "Researchers have developed a mind-reading system for decoding neural ... can be used by a person to control a robotic arm through a brain-machine interface (BMI). A BMI is a device that translates ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/946870",
-      "originalUrl": "https://www.eurekalert.org/news-releases/946870",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-19-what-happened-to-delivery-robots-in-san-francisco.md",
-      "title": "What happened to delivery robots in San Francisco?",
-      "excerpt": "After a number of companies launched delivery robots in 2017, the city has cracked down on the emerging tech, making it difficult to operate on city streets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sanfrancisco/news/2022/03/18/0318-listextra-robotics.html",
-      "originalUrl": "https://www.bizjournals.com/sanfrancisco/news/2022/03/18/0318-listextra-robotics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-19-ai-tool-that-analyse-microscope-images-won-startup-competition.md",
-      "title": "AI tool that analyse microscope images won startup competition",
-      "excerpt": "An AI tool that improves the opportunities for analysing images taken with a microscope. This is the project that won the pitching competition Chalmers Ventures Startup Camp 2022!",
-      "sourceUrl": null,
-      "webUrl": "https://www.gu.se/en/news/ai-tool-that-analyse-microscope-images-won-startup-competition",
-      "originalUrl": "https://www.gu.se/en/news/ai-tool-that-analyse-microscope-images-won-startup-competition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gu.se/sites/default/files/styles/50_10_6_small_1x/public/2022-03/Pitch-competition.jpg?h=c216157a&itok=XjPhorBR",
-          "width": 512,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "University of Gothenburg",
-        "domain": "www.gu.se",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-19-robotic-assistance-devices-receives-order-for-ava-security-robot-from-a-leading-provider-of-portable-security-systems.md",
-      "title": "Robotic Assistance Devices Receives Order for AVA Security Robot from a Leading Provider of Portable Security Systems",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), today announced that its wholly-owned subsidiary Robotic Assistance Devices Inc. (RAD) has received an order for an AVA autonomous access control device from a subsidiary of one of RAD’s existing authorized dealers.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-robotics-artificial-intelligence-7d83274094564fff4496b7b05527a3fb",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-robotics-artificial-intelligence-7d83274094564fff4496b7b05527a3fb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-19-robotic-assistance-devices-receives-order-for-ava-security-robot-from-a-leading-provider-of.md",
-      "title": "Robotic Assistance Devices Receives Order for AVA Security Robot from a Leading Provider of ...",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), today announced that its wholly-owned subsidiary Robotic Assistance Devices Inc. (RAD) has received an order for an AVA autonomous access control device from a subsidiary of one of RAD’s existing authorized dealers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/robotic-assistance-devices-receives-order-for-ava-security-robot-from-a-leading-provider-of/article_c015e3d2-131b-5f2e-907b-ba73c827b870.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/robotic-assistance-devices-receives-order-for-ava-security-robot-from-a-leading-provider-of/article_c015e3d2-131b-5f2e-907b-ba73c827b870.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-19-stepping-up-as-a-machine-learning-developer-my-experience-with-the-google-machine-learning-bootcamp.md",
-      "title": "Stepping up as a Machine Learning Developer —My Experience With the Google Machine Learning Bootcamp",
-      "excerpt": "As a developer, I had developed a certain level of curiosity about machine learning. I had also heard that many former developers were switching their",
-      "sourceUrl": null,
-      "webUrl": "https://developers.googleblog.com/2022/03/GoogleMachineLearningBootcamp.html",
-      "originalUrl": "https://developers.googleblog.com/2022/03/GoogleMachineLearningBootcamp.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwSLoqG4FIYlaJMtUspuFmG4sIpiXaFR_5JoR9AiiFLTmEmSANh7hpEy0zrXpi28Eg07xJ6STKluaTO-Mz1f7E4BjjYa6nXRoKwvZdV0RzoMTDVUro8i5VchDLU1n2qEa9g_qq1xuJGh3kmVgdIAcLK-IfiezD1NZBg4YcHIJDAI-1QpHI9Fov8b_m/w1200-h630-p-k-no-nu/GDG_GDE%20Machine%20Learning%20v1.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "googleblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-ai-and-the-science-of-facial-emotion-recognition.md",
-      "title": "AI and the science of facial emotion recognition",
-      "excerpt": "How AI is Revolutionising Facial Emotion Recognition (FER) From unlocking our phones to accessing personal documents on our computers, facial recognition technology has become a part and parcel in ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-the-science-of-facial-emotion-recognition/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-the-science-of-facial-emotion-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/08/Kunal-Kislay-CEO-1.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-the-science-of-facial-emotion-recognition/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-the-science-of-facial-emotion-recognition/",
-      "publishedDateTime": "2022-03-18T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-ai-drug-algorithms-can-be-flipped-to-invent-bioweapons.md",
-      "title": "AI drug algorithms can be flipped to invent bioweapons",
-      "excerpt": "AI algorithms designed to generate therapeutic drugs can be easily repurposed to invent lethal biochemical weapons, a US startup has warned. Experts have sounded alarm bells over the potential for machine-learning systems to be used for good and bad.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/03/18/ai_weapons_learning/",
-      "originalUrl": "https://www.theregister.com/2022/03/18/ai_weapons_learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/03/18/germs_shutterstock.jpg",
-          "width": 1000,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/18/ai_weapons_learning/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/18/ai_weapons_learning/",
-      "publishedDateTime": "2022-03-18T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-heres-how-americans-view-facial-recognition-and-driverless-cars.md",
-      "title": "Here's how Americans view facial recognition and driverless cars",
-      "excerpt": "In recent years, the proliferation of artificial intelligence has given the world ... More people say it's a good idea than not. Driverless cars? Not so much. The survey focused on six questions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wlrn.org/news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars",
-      "originalUrl": "https://www.wlrn.org/news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/f6fb8c7/2147483647/strip/true/crop/3830x2359+0+257/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2018%2F03%2F29%2F2-copy-9fa3de93ec0c9713951c32b0a5d0b41a53a05646.jpg",
-          "width": 880,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wlrn.org/news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars?_amp=true",
-      "cdnAmpWebUrl": "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars?_amp=true",
-      "publishedDateTime": "2022-03-18T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WLRN",
-        "domain": "wlrn.org",
         "images": null,
         "publishers": null,
         "authors": null

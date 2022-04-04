@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-00858-1/d41586-022-00858-1_20249634.jpg"

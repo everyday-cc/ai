@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-02-15-beijing-visitors-go-hi-tech-to-avoid-getting-lost-in-translation.md",
+      "title": "Beijing visitors go hi-tech to avoid getting lost in translation",
+      "excerpt": "ZHANGJIAKOU, China, Feb 15 (Reuters) - Businesses at the Beijing Olympics are getting around the language barrier by using high ... an artificial intelligence (AI) smart translator developed in China. \"I thought the app worked very well, it seemed to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/beijing-visitors-go-hi-tech-avoid-getting-lost-translation-2022-02-15/",
+      "originalUrl": "https://www.reuters.com/technology/beijing-visitors-go-hi-tech-avoid-getting-lost-translation-2022-02-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/CWl1hFxcYlumTqokdV5ePg1TlTs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X5N3IS5GP5JI5EWCEIOXBWJKY4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-14T19:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-an-arduino-with-better-speech-recognition-than-siri.md",
+      "title": "An Arduino With Better Speech Recognition Than Siri",
+      "excerpt": "The lowly Arduino, an 8-bit AVR microcontroller with a pitiful amount of RAM, terribly small Flash storage space, and effectively no peripherals to speak of, has better speech recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2013/12/31/an-arduino-with-better-speech-recognition-than-siri/",
+      "originalUrl": "https://hackaday.com/2013/12/31/an-arduino-with-better-speech-recognition-than-siri/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img.youtube.com/vi/xpJXD2z8eWs/0.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-report-29-of-execs-have-observed-ai-bias-in-voice-technologies.md",
       "title": "Report: 29% of execs have observed AI bias in voice technologies",
       "excerpt": "What’s more, nearly a third of respondents have experienced AI bias, or imbalances in the types of voices that are understood by speech recognition. There are significant enhancements to be ...",
@@ -1332,102 +1427,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-we-need-to-decouple-ai-from-human-brains-and-biases.md",
-      "title": "We need to decouple AI from human brains and biases",
-      "excerpt": "Hardly a decade later, these same scientists contributed to dramatic breakthroughs in robotics, natural language processing, and computer vision. Although a lot of time has passed since then ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/we-need-decouple-ai-from-human-brains-biases",
-      "originalUrl": "https://thenextweb.com/news/we-need-decouple-ai-from-human-brains-biases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FBrainAi-CALLUM-EDIT.jpg&signature=cd986f4c8514cb750531f05dae512116",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-05T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-vivoka-and-id-rd-expand-voice-biometrics-partnership-explore-new-use-cases.md",
-      "title": "Vivoka and ID R&D expand voice biometrics partnership, explore new use cases",
-      "excerpt": "To this end, voice recognition’s anti-spoofing technologies should also be developed further. The second use case mentioned in the Vivoka video is self-service kiosks, whose applications, according to the company, have increased substantially during the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202202/vivoka-and-id-rd-expand-voice-biometrics-partnership-explore-new-use-cases",
-      "originalUrl": "https://www.biometricupdate.com/202202/vivoka-and-id-rd-expand-voice-biometrics-partnership-explore-new-use-cases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/04115533/voice-biometrics-smart-speakers.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-04T08:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

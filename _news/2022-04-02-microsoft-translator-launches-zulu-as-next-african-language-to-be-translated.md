@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "You Can Now Translate To & From isiZulu Across the Entire Microsoft Ecosystem"
+    excerpt: "Microsoft has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from South Africa’s most-spoken official language across the entire Microsoft ecosystem of products and services."
+    publishedDateTime: 2022-03-31T07:34:00Z
+    webUrl: "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/"
+    ampWebUrl: "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/?amp"
+    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/?amp"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 73
+    images:
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Microsoft-.jpg"
+        width: 800
+        height: 520
+        isCached: true
   - title: "Microsoft Adds IsiZulu To Cognitive Services Translator, Bing, LinkedIn"
     excerpt: "Microsoft (NASDAQ: MSFT ) has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages. This development announced on Thursday is across the entire Microsoft ecosystem of products and services."
     publishedDateTime: 2022-04-04T07:13:00Z
@@ -56,6 +72,20 @@ related:
       - url: "https://d71-invdn-com.investing.com/content/picb05238a98835896c71b3233e790ef79e.jpg"
         width: 559
         height: 419
+        isCached: true
+  - title: "Microsoft selects AI start-ups to accelerate progress on environmental sustainability"
+    excerpt: "Companies focused reducing carbon emissions and waste, preserving water and protecting ecosystems will join Microsoft’s Accelerator."
+    publishedDateTime: 2022-04-01T08:57:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2022/04/01/microsoft-selects-ai-start-ups-to-accelerate-progress-on-environmental-sustainability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 47
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/68/2022/03/MicrosoftTeams-image-11-scaled.jpg"
+        width: 2560
+        height: 1920
         isCached: true
 
 secured: "0jZIogBgBEEytSmRiCKPjp97DLvB0YEHugGW+Z4InmkRGcoiiz/toB5VffG0LXYWjB1Xv0+270oEF523z5FL6O/3ODgYPVaST4J5UOtUSPi1hH9dgatlsapHuIypmbIYNbNtKYbCvCXf9EqIfy9JTFQoLsvrNGZm3JV2mAlCWWF3NnqYVBFHM6lGancnZFUiQpsOvi0lCIN36yAz5VT/+D8JgD8+b0McjU6gzPkp78lA+KtAp9m4dTnPQwjpJj0LKubDjzMh+thTR9QVSTUZ6+omVq5qQHpNGFFapmU1IqSfHnStPle5ZSkUfPQn0SUnI0La2z/eGiFJjkoyMWRb6KnV3kbIDcCgpGj/uV1Fq9g=;w3LtbeaE8inwDHAWo5pOnQ=="

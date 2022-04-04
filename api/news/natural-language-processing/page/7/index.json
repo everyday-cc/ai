@@ -2,6 +2,102 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-25-vodafone-upgrades-customer-service-with-ai-and-speech-recognition-technology.md",
+      "title": "Vodafone upgrades customer service with AI and speech recognition technology",
+      "excerpt": "Ever get frustrated when you can’t talk to a real person? Vodafone’s answer to this won’t be adding real people but rather AI-powered chat bots and smart speech recognition tools as a way of improving the customer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techguide.com.au/news/mobiles-news/vodafone-upgrades-customer-service-with-ai-and-speech-recognition-technology/",
+      "originalUrl": "https://www.techguide.com.au/news/mobiles-news/vodafone-upgrades-customer-service-with-ai-and-speech-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techguide.com.au/wp-content/uploads/2016/10/vodafixed-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techguide.com.au/amp/news/mobiles-news/vodafone-upgrades-customer-service-with-ai-and-speech-recognition-technology/",
+      "cdnAmpWebUrl": "https://www-techguide-com-au.cdn.ampproject.org/c/s/www.techguide.com.au/amp/news/mobiles-news/vodafone-upgrades-customer-service-with-ai-and-speech-recognition-technology/",
+      "publishedDateTime": "2022-01-24T21:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech Guide",
+        "domain": "techguide.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-meta-unveils-new-ai-supercomputer-destined-to-be-worlds-fastest.md",
+      "title": "Meta unveils new AI supercomputer destined to be world's fastest",
+      "excerpt": "Meta has unveiled the AI Research SuperCluster (RSC), a new supercomputer that’s among the fastest in the world. And it’ll only get faster – by the end of the year it should rank number one, with computing power on the exascale.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/",
+      "originalUrl": "https://newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 389,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/f2fac32/2147483647/strip/true/crop/1200x800+304+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc3%2F17%2F7537049247e4aaaf863110e796e0%2Fmeta-rsc-2.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/?amp=true",
+      "publishedDateTime": "2022-01-24T20:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-transforming-modern-medical-devices-with-machine-learning-ai-inference.md",
       "title": "Transforming Modern Medical Devices with Machine Learning & AI Inference",
       "excerpt": "Consider these 6 factors when selecting an AI accelerator for your medical device. The promise of artificial intelligence (AI) technology is finally enjoying commercial success in many industries, including automotive,",
@@ -1346,110 +1442,6 @@
         "AI",
         "Machine Learning",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-facebooks-spanish-language-moderators-are-calling-their-work-a-nightmare.md",
-      "title": "Facebook’s Spanish-Language Moderators Are Calling Their Work A “Nightmare”",
-      "excerpt": "Contractors who moderate Spanish-language content on Facebook said they’ve been forced to come to the office during COVID surges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/sarahemerson/facebooks-spanish-language-moderators-said-theyre-treated",
-      "originalUrl": "https://www.buzzfeednews.com/article/sarahemerson/facebooks-spanish-language-moderators-said-theyre-treated",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-12/11/22/campaign_images/c84267b5258a/after-the-us-election-key-people-are-leaving-face-2-3876-1607724390-7_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/sarahemerson/facebooks-spanish-language-moderators-said-theyre-treated",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/sarahemerson/facebooks-spanish-language-moderators-said-theyre-treated",
-      "publishedDateTime": "2022-01-13T16:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BuzzFeed News",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond.md",
-      "title": "16 Industries And Functions That Will Benefit From AI In 2022 And Beyond",
-      "excerpt": "The experts of Forbes Technology Council are always looking ahead to the latest trends in cutting-edge technology. Below, 16 of them share the industries they believe have the most to gain from implementing AI as well as how the technology will be specifically applied in 2022 and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61df1425c8d22322f13806f0%2F0x0.jpg",
-          "width": 1200,
-          "height": 978,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/amp/",
-      "publishedDateTime": "2022-01-13T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

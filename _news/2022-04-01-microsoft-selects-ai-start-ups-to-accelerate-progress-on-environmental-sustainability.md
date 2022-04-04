@@ -29,19 +29,63 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft DataNext: ‘Putting AI Innovation into Action’ ended on a successful note"
-    excerpt: "Microsoft DataNext summit saw participation from over 1000+ industry leaders across enterprises, small-medium businesses and startups."
-    publishedDateTime: 2022-03-31T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-datanext-putting-ai-innovation-into-action-ended-on-a-successful-note/"
+  - title: "You Can Now Translate To & From isiZulu Across the Entire Microsoft Ecosystem"
+    excerpt: "Microsoft has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from South Africa’s most-spoken official language across the entire Microsoft ecosystem of products and services."
+    publishedDateTime: 2022-03-31T07:34:00Z
+    webUrl: "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/"
+    ampWebUrl: "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/?amp"
+    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/?amp"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 48
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 73
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Microsoft-DataNext-logo-33-2.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Microsoft-.jpg"
+        width: 800
+        height: 520
+        isCached: true
+  - title: "Microsoft Adds IsiZulu To Cognitive Services Translator, Bing, LinkedIn"
+    excerpt: "Microsoft (NASDAQ: MSFT ) has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages. This development announced on Thursday is across the entire Microsoft ecosystem of products and services."
+    publishedDateTime: 2022-04-04T07:13:00Z
+    webUrl: "https://za.investing.com/news/microsoft-adds-isizulu-to-cognitive-services-translator-bing-linkedin-2531559"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 54
+    images:
+      - url: "https://d71-invdn-com.investing.com/content/pic843b8ee3e77e75b195875aa09f7635dc.jpg"
+        width: 559
+        height: 314
+        isCached: true
+  - title: "Microsoft Translator Launches Zulu As Next African Language To Be Translated"
+    excerpt: "Microsoft (NASDAQ: MSFT ) has added Zulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages across the entire Microsoft ecosystem of products and services."
+    publishedDateTime: 2022-03-31T07:11:00Z
+    webUrl: "https://za.investing.com/news/microsoft-translator-launches-zulu-as-next-african-language-to-be-translated-2530103"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 53
+    images:
+      - url: "https://d71-invdn-com.investing.com/content/picb05238a98835896c71b3233e790ef79e.jpg"
+        width: 559
+        height: 419
+        isCached: true
+  - title: "Microsoft Translator launches Zulu as next African language to be translated"
+    excerpt: "Microsoft has added Zulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages across the entire Microsoft ecosystem of products and services."
+    publishedDateTime: 2022-04-01T22:00:00Z
+    webUrl: "https://news.microsoft.com/en-xm/2022/04/01/microsoft-translator-launches-zulu-as-next-african-language-to-be-translated/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 36
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/133/2022/03/shutterstock16289833603032022151939-1.jpg"
+        width: 950
+        height: 389
         isCached: true
 
 secured: "qbqCV15fnVZQnh1wU2vh1To+exAKd97TGMk6IolVav/9XvLY/rf9JmtG9OpasAu7uIX1Zp1WDbeK8DzzfgVuEZimwhNgv6QzLUa9DbwLkli8DHMspxiy08UmLcbT+ZF9sgbtZvZvGPZpoxmvHM8e//SMAK36JXT3M8Cp9x5dhjCoGVXEhallC7JdNsohQs+gK3o7+f2XUsMGZlNPJhvKRZPKWbudvWF/twBNWsMmzRSeBY6dDReDilQlkvOTH93vZaaFkEE1m1VPPcdBvb1pthu8KO3IYjvLS2mRbqWMmRa8kzFYckMa89dGzOiRxSCS0CDN0aULZV60fvXyHthXc8Lo5VoIi1P3I5MuE0w7EOoaiMn6JgPFriuWj/FxfdW+zzEgcaREOTqw/0InZhWrS/w2yUQWIlwzfbJXoXvyDicMrWAfCk677LVbcKUSwoHlJEEWAMcWGIZvU0Q+KbPrgatNBny6L1ksrrb9UWveAY1gtQr5JE4dRNYJtZ6iWD+zmR6lu2RmBmriht8njv1bAQ==;72plmHcJvqdflM8Kp7eG7g=="

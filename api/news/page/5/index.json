@@ -2,6 +2,483 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-29-pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database.md",
+      "title": "Pinecone gears up to support next-gen web apps with AI-powered database",
+      "excerpt": "Pinecone's AI-powered database is optimized to speed up queries to improve the efficiency of complex operations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/",
+      "originalUrl": "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1352189853-1-e1648494908738.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/amp/",
+      "publishedDateTime": "2022-03-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-dubai-meet-the-genius-who-became-the-worlds-youngest-computer-programmer-aged-6.md",
+      "title": "Dubai: Meet the genius who became the world's youngest computer programmer aged 6",
+      "excerpt": "“I developed some AI projects using IBM Watson and Python including a chatbot, voice assistance and an image recognition system to detect fire and smoke.” Explaining the image recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/offbeat/dubai-meet-a-six-year-old-who-is-the-worlds-youngest-computer-programmer",
+      "originalUrl": "https://www.khaleejtimes.com/offbeat/dubai-meet-a-six-year-old-who-is-the-worlds-youngest-computer-programmer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=21481706-ebe9-5dc7-abfb-9e8b2e3da653&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84543&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/offbeat/dubai-meet-a-six-year-old-who-is-the-worlds-youngest-computer-programmer?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/offbeat/dubai-meet-a-six-year-old-who-is-the-worlds-youngest-computer-programmer?amp=1",
+      "publishedDateTime": "2022-03-29T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in.md",
+      "title": "Fell Asleep During That Zoom Meeting? Otter AI Will Fill You In",
+      "excerpt": "AI service will automatically capture the key talking points from online meetings, in case you weren't paying attention!",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/",
+      "originalUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6242c3659a2e14fe944650f5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/amp/",
+      "publishedDateTime": "2022-03-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-artificial-intelligence-a-tool-for-the-future-of-mining.md",
+      "title": "Artificial intelligence: A tool for the future of mining",
+      "excerpt": "Given the massive amounts of information that must be analyzed in the early stages of mining exploration, data interpretation is a considerable challenge for geologists. Professor Erwan Gloaguen of Institut national de la recherche scientifique (INRS) and his research partners decided to take developments in this field a step further by adapting existing deep learning architectures to interpret data from airborne imagery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1775269/Institut_National_de_la_recherche_scientifique__INRS__Artificial.jpg",
+          "width": 400,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children.md",
+      "title": "How AI Is Using Facial Detection To Spot Rare Diseases In Children",
+      "excerpt": "This is where computer vision can help. Shniberg built Face.com, a facial recognition platform that discovered over 18 billion faces on the internet. He sold the company to Facebook in 2012. When he and his partner, Lior Wolf, looked at other impactful ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6242c02ee1639ec08c4650f5/0x0.png?format=png&width=1200",
+          "width": 620,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/amp/",
+      "publishedDateTime": "2022-03-29T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-artificial-intelligence-really-isnt-all-that-intelligent.md",
+      "title": "Artificial intelligence really isn’t all that intelligent",
+      "excerpt": "Narrow AI applications such as Google Search and Amazon Alexa are great at solving specific problems, but only as long as you stick to the script.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.html",
+      "originalUrl": "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_automation_thinkstock_643956998-100749919-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.amp.html",
+      "publishedDateTime": "2022-03-29T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-concertai-a-startup-focused-on-cancer-research-raises-150-million.md",
+      "title": "ConcertAI, a Startup Focused on Cancer Research, Raises $150 Million",
+      "excerpt": "The firm uses AI to match patients to specific clinical trials, and to make jumbled medical data AI-ready to sift for more insights. Sixth Street provided funding that values the firm at $1.9 billion",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/concertai-a-startup-focused-on-cancer-research-raises-150-million-11648549801",
+      "originalUrl": "https://www.wsj.com/articles/concertai-a-startup-focused-on-cancer-research-raises-150-million-11648549801",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-513830/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-reid-hoffmans-new-start-up-poaches-first-staff-from-google-and-meta.md",
+      "title": "Reid Hoffman's new start-up poaches first staff from Google and Meta",
+      "excerpt": "Inflection AI, the start-up launched by LinkedIn billionaire Reid Hoffman and DeepMind co-founder Mustafa Suleyman, has poached staff from Google and Meta.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/03/29/inflection-ai-reid-hoffmans-start-up-poaches-staff-from-google-meta.html",
+      "originalUrl": "https://www.msn.com/en-us/finance/other/reid-hoffmans-new-start-up-poaches-first-staff-from-google-and-meta/ar-AAVBWX6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/102361208-20150122-0467-1057.jpg?v=1421960237",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/03/29/inflection-ai-reid-hoffmans-start-up-poaches-staff-from-google-meta.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/03/29/inflection-ai-reid-hoffmans-start-up-poaches-staff-from-google-meta.html",
+      "publishedDateTime": "2022-03-29T01:48:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2022/03/29/inflection-ai-reid-hoffmans-start-up-poaches-staff-from-google-meta.html",
+        "domain": "com/2022/03/29/inflection-ai-reid-hoffmans-start-up-poaches-staff-from-google-meta.html",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-ambeq-enhancing-accessibility.md",
+      "title": "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit ?ambeq, Enhancing Accessibility",
+      "excerpt": "OXFORD, England, March 29, 2022 /CNW/ -- The quantum natural language processing team at Quantinuum, the world's leading integrated quantum computing company, has released a major update to its open-source Python library and toolkit,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-quantinuum-announces-updates-quantum-natural-language-processing-toolkit-/2022/03/29/9572002.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-quantinuum-announces-updates-quantum-natural-language-processing-toolkit-/2022/03/29/9572002.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T01:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-artificial-intelligence-ai-in-construction.md",
+      "title": "Artificial Intelligence (AI) in construction",
+      "excerpt": "With the explosion of terms like Artificial Intelligence (AI) and Machine Learning (ML) in construction, AEC Magazine caught up with Senthil Kumar, CTO and head of AI at start-up Slate.ai to discuss how the technology can assist the complexity in the building industry Q: Senthil,",
+      "sourceUrl": null,
+      "webUrl": "https://aecmag.com/ai/artificial-intelligence-ai-in-construction/",
+      "originalUrl": "https://aecmag.com/ai/artificial-intelligence-ai-in-construction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://aecmag.com/wp-content/uploads/2022/03/Untitled-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T00:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AEC Magazine",
+        "domain": "aecmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics",
+        "AI in Finance",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-at-pompeii-a-robot-dog-is-helping-guard-and-protect-the-ruins.md",
       "title": "At Pompeii, A Robot Dog Is Helping Guard And Protect The Ruins",
       "excerpt": "A quadruped robot named Spot is the latest piece of cutting-edge technology to come into service at Italy’s Archeological Park of Pompeii in a bid to protect the ancient site.",
@@ -725,476 +1202,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-why-ai-democratization-will-bring-more-power-to-the-enterprise.md",
-      "title": "Why AI democratization will bring more power to the enterprise",
-      "excerpt": "Using techniques like natural language processing (NLP) and neural networking, AI will very likely bring an end to the graphical user and even command line interfaces, which require a fair amount ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/",
-      "originalUrl": "https://venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/ai_democratization.jpg?fit=800%2C534&strip=all",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/amp/",
-      "publishedDateTime": "2022-03-28T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-fetchai-artificial-intelligence-for-everyone.md",
-      "title": "Fetch.ai: Artificial Intelligence for Everyone",
-      "excerpt": "Fetch.ai combines two of the hottest technologies of our generation - blockchain and artificial intelligence - to create a network of self-sufficient, decentralized AI agents. What are agents in this context?",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenewsminute.com/article/fetchai-artificial-intelligence-everyone-162346",
-      "originalUrl": "https://www.thenewsminute.com/article/fetchai-artificial-intelligence-everyone-162346",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenewsminute.com/sites/default/files/ArtificialIntelligence_Pixabay_11012022_1200.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenewsminute.com/article/fetchai-artificial-intelligence-everyone-162346?amp",
-      "cdnAmpWebUrl": "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/fetchai-artificial-intelligence-everyone-162346?amp",
-      "publishedDateTime": "2022-03-28T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The News Minute",
-        "domain": "thenewsminute.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-ai-chip-company-syntiant-raises-55-million-to-accelerate-growth.md",
-      "title": "AI Chip Company Syntiant Raises $55 Million to Accelerate Growth",
-      "excerpt": "Syntiant Corp., a provider of deep learning solutions making edge AI a reality for always-on voice, sensor, audio and image applications, today announced that it has closed $55 million in new funding,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-renesas-electronics-corp-05ead87d8c37109957b3eff68165b552",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-renesas-electronics-corp-05ead87d8c37109957b3eff68165b552",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-28T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-the-four-stages-of-scaling-a-tech-startups-vision.md",
-      "title": "The Four Stages Of Scaling A Tech Startup’s Vision",
-      "excerpt": "Creating and refining a vision is more akin to a journey up a mountain peak. You can see the peak in the distance early on, but the precise route to reaching the summit remains unknown as you sit in the foothills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/28/the-four-stages-of-scaling-a-tech-startups-vision/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/28/the-four-stages-of-scaling-a-tech-startups-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623dcc148152a42245b2e217/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/28/the-four-stages-of-scaling-a-tech-startups-vision/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/28/the-four-stages-of-scaling-a-tech-startups-vision/amp/",
-      "publishedDateTime": "2022-03-28T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-ai-tool-renders-2d-photos-as-all-around-3d-scenes-in-seconds.md",
-      "title": "AI tool renders 2D photos as all-around 3D scenes in seconds",
-      "excerpt": "At last week's GTC developer conference, Nvidia revealed a nifty AI tool that takes a bunch of 2D photos of the same scene from different angles and almost instantly transforms them into a three-dimensional digital rendering.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/photography/nvidia-instant-nerf/",
-      "originalUrl": "https://newatlas.com/photography/nvidia-instant-nerf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/c471061/2147483647/strip/true/crop/1347x898+269+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd1%2F6f%2F3c3e903e4d26907bbf60ce9c19ea%2F01.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/photography/nvidia-instant-nerf/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/photography/nvidia-instant-nerf/?amp=true",
-      "publishedDateTime": "2022-03-28T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-todays-homebuying-process-is-a-fixer-upper-lets-use-ai-to-remodel.md",
-      "title": "Today’s Homebuying Process Is A Fixer-Upper; Let’s Use AI To Remodel",
-      "excerpt": "In the spirit of opening new doors, here are three ways real estate companies can leverage AI to help buyers find and secure their dream homes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/03/28/todays-homebuying-process-is-a-fixer-upper-lets-use-ai-to-remodel/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/03/28/todays-homebuying-process-is-a-fixer-upper-lets-use-ai-to-remodel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623e28836ef7b58a90859094/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 841,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/03/28/todays-homebuying-process-is-a-fixer-upper-lets-use-ai-to-remodel/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/03/28/todays-homebuying-process-is-a-fixer-upper-lets-use-ai-to-remodel/amp/",
-      "publishedDateTime": "2022-03-28T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-big-pharma-companies-partner-to-form-ai-based-start-up.md",
-      "title": "Big pharma companies partner to form AI-based start-up",
-      "excerpt": "Israel-based AION Labs and German independent research institute BioMed X announced its third global call for applications to form a new start-up company focused on using AI to design and optimise antibodies for targeted therapies.",
-      "sourceUrl": null,
-      "webUrl": "https://pharmaphorum.com/digital/big-pharma-companies-partner-form-ai-start-up-targeted-therapies/",
-      "originalUrl": "https://pharmaphorum.com/digital/big-pharma-companies-partner-form-ai-start-up-targeted-therapies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pharmaphorum.com/wp-content/uploads/2022/03/antibodies.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-28T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pharmaphorum",
-        "domain": "pharmaphorum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-indico-data-applies-ai-to-add-value-to-unstructured-data.md",
-      "title": "Indico Data applies AI to add value to unstructured data",
-      "excerpt": "Unstructured data is one of the most untapped sources of valuable information. Indico Data hopes to help businesses tap it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-value-to-unstructured-data/",
-      "originalUrl": "https://venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-value-to-unstructured-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/unstructured_data.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-value-to-unstructured-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-value-to-unstructured-data/amp/",
-      "publishedDateTime": "2022-03-28T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-complex-questions-as-face-recognition-tech-joins-ukraine-invasion.md",
-      "title": "Complex questions as face recognition tech joins Ukraine invasion",
-      "excerpt": "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/technology/complex-questions-as-face-recognition-tech-joins-ukraine-invasion-9c034c51-35e9-4050-b997-6f2148442974",
-      "originalUrl": "https://www.iol.co.za/technology/complex-questions-as-face-recognition-tech-joins-ukraine-invasion-9c034c51-35e9-4050-b997-6f2148442974",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/650x366/FILE-Ukraine-is-employing-face-recognition-technology-to-identify-invading-Russian-troops-killed-on-its-soil-a-complex-and-unprecedented-avenue-for-software-already-seen-as-problematic-experts-said?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/0d4097e4-fe51-5f08-bb03-70af3e4ce0cc&operation=CROP&offset=0x29&resize=1920x1080",
-          "width": 650,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp//technology/complex-questions-as-face-recognition-tech-joins-ukraine-invasion-9c034c51-35e9-4050-b997-6f2148442974",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp//technology/complex-questions-as-face-recognition-tech-joins-ukraine-invasion-9c034c51-35e9-4050-b997-6f2148442974",
-      "publishedDateTime": "2022-03-28T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-toyota-starts-testing-self-driving-ride-hailing-fleet.md",
-      "title": "Toyota starts testing self-driving ride-hailing fleet",
-      "excerpt": "Toyota, together with Aurora Innovation Inc., is currently testing a fleet of self-driving Sienna units in Texas.",
-      "sourceUrl": null,
-      "webUrl": "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410",
-      "originalUrl": "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.philkotse.com/2022/03/28/WFFKkBCT/toyota-sienna-aurora-942f_wm.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp",
-      "cdnAmpWebUrl": "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/toyota-self-driving-ride-hailing-fleet-test-12410/amp",
-      "publishedDateTime": "2022-03-27T23:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philkotse",
-        "domain": "philkotse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

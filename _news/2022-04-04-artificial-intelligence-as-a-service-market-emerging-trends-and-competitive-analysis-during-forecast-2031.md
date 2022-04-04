@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-04T06:24:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-as-a-service-market-emerging-trends-and-competitive-analysis-during-forecast-2031"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-as-a-service-market-emerging-trends-and-competitive-analysis-during-forecast-2031"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Finance
+  - AI in Robotics
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/bitcoin-illustration-DJC-1600px-600x337.jpeg"

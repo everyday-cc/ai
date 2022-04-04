@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26435461"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26435461"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Lumeo announces the integration of the Microsoft Azure Face Service with vision AI models and analytics"
+    excerpt: "Lumeo, a designer of computer vision solutions, announces the integration of the Microsoft Azure Face Service with its ever-growing library of vision AI (Artificial Intelligence) models and"
+    publishedDateTime: 2022-04-01T11:37:00Z
+    webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/lumeo-announces-integration-microsoft-azure-face-co-14053-ga-co-14411-ga-co-1648794885-ga.1648805569.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 33
 
 secured: "cln09/ODoU5ph1X7fUoP/kW7fY8hpfkixl5dpryppntdPgC71Lhbp+crynOQWCIc1ckVltiMHnkwzAsw5uCuDbH3blE3Irtshhctpf2xtZhXYjeU2iBbeqsDS8Yxz30zxwi4CtgDom2S/PF7F74ZtuW0rqqcJ4i0Jd6JTRHAxmAax78lqnZjozQJorf9LUMmsE3femaFkZC/RWDhVClpiC3QjacPXCpibGqAWDo4Wo3nSSAFDsxnkJpTl0IiPwcX+nYW6lXZnkdIPcPBdBdns1IQEIb5edvd2a5vRNGij8PJfuXQbaO5mxqlOHDeeHGpaBV2+DdmRZGdrRkeNHmzgni45orxTLspXSrTtO97Ltzut2aa2F5eTdtV0aA1sGLQcjL7CJrUOUyNmL/gxTgs+jcwVoo1RmqZra+TwnNgQGf0120uu9Y8UcfYGo8TVFX71hlBoeVCp6zm4jE8EoJUXLr21+IwYTcNgfJ4KpCAQgiufbAhLOdGGp1AAV2uKoOzpUNDraRkRFstSJ+Hr4k/LA==;k0vo0RZ2mkaUsoCqcpuxwQ=="
 ---

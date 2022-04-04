@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-lau
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/amp/"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: Forbes
@@ -31,54 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chip Design Moves To The Cloud With Synopsys And Microsoft Azure"
-    excerpt: "The two companies have collaborated to enable engineers to design chips using cloud resources and dynamic licensing. Digital chips are the new lifeblood for nearly every human endeavor and currency for innovation. But design a chip is a very expensive ..."
-    publishedDateTime: 2022-03-30T17:32:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/623e3bcc2e4fd6128c007e8d/0x0.jpg?format=jpg&crop=2201,1238,x119,y0,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "You Can Now Translate To & From isiZulu Across the Entire Microsoft Ecosystem"
-    excerpt: "Microsoft has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from South Africa’s most-spoken official language across the entire Microsoft ecosystem of products and services."
-    publishedDateTime: 2022-03-31T07:34:00Z
-    webUrl: "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/"
-    ampWebUrl: "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/?amp"
-    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/?amp"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 73
-    images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Microsoft-.jpg"
-        width: 800
-        height: 520
-        isCached: true
-  - title: "Microsoft, Mlytics Partner To Scale AI Capabilities And Improve Web Performance"
-    excerpt: "further reiterating the importance of the decision to choose Microsoft as its AI cloud computing partner, and Azure Machine Learning as a key part of Mlytics’ AI strategies. Microsoft Azure Machine Learning has maintained agility, scalability ..."
-    publishedDateTime: 2022-04-02T09:23:00Z
-    webUrl: "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/"
-    ampWebUrl: "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 70
-    images:
-      - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Synopsys launches pay-as-you-go chip design and verification tools on Azure"
     excerpt: "Synopsys has picked Microsoft's Azure HBv3 cloud to offer pay-as-you-go on-line IC design and verification electronic design automation (EDA) tools, to be"
     publishedDateTime: 2022-03-31T08:19:00Z
@@ -93,35 +45,6 @@ related:
         width: 810
         height: 331
         isCached: true
-  - title: "Microsoft Translator launches Zulu"
-    excerpt: "Microsoft has added Zulu to its Microsoft Azure Cognitive Services Translator. This enables text and documents to be translated to and from one of South Africa’s official languages across the entire Microsoft ecosystem of products and services,"
-    publishedDateTime: 2022-03-31T07:41:00Z
-    webUrl: "https://mybroadband.co.za/news/software/439476-microsoft-translator-launches-zulu.html"
-    ampWebUrl: "https://mybroadband.co.za/news/software/439476-microsoft-translator-launches-zulu.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/439476-microsoft-translator-launches-zulu.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
-  - title: "Lumeo announces the integration of the Microsoft Azure Face Service with vision AI models and analytics"
-    excerpt: "Lumeo, a designer of computer vision solutions, announces the integration of the Microsoft Azure Face Service with its ever-growing library of vision AI (Artificial Intelligence) models and"
-    publishedDateTime: 2022-04-01T11:37:00Z
-    webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/lumeo-announces-integration-microsoft-azure-face-co-14053-ga-co-14411-ga-co-1648794885-ga.1648805569.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 33
-  - title: "Microsoft launches Zulu translations"
-    excerpt: "Microsoft has added Zulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages across the entire Microsoft ecosystem of products and services."
-    publishedDateTime: 2022-03-31T09:22:00Z
-    webUrl: "https://it-online.co.za/2022/03/31/microsoft-launches-zulu-translations/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
 
 secured: "dHSotIr/kGY8sBlpH3NOBZCxE5Ty+kRRUwRJIlRCbN1LOQ0J6UwTLnmTKJfDZxCJr+d5vT4UbHbyREU24/8MCpFCcXwi1UAMePeU0XCgc8on4p4ln9MHWAMhxQfkeweiS5rs1oC3kqwNYWBMRZMrqEJIqDM9p9aBdd2rbQ1fwgR8Sc2EIqngrv4TNXNld00JFGcBVrRED+WvJ0sQUOY0kDpPqML89E8Naz/VCTHudyEBgXnF90CcE+9C4XQTnYkCDROqfEcpc3ya5m8lO5i5RhbROQDUkxkUtjYoVbWBmmVowBZIcn+Vs7Xe0AVRKzydIuoTrmU9kjFlwQm1Pz4LSgmLDFe50kKq+ZXDNh3lKGRCYaxO+IrOjjOyc7RyEu0ZGKVIMNTBUpi7MbaFV77vqOxCc37oJjQMDJMjM0tRS8jyvatOSGHziLUd3apu6RvyT5B734PwBkBQ+fhRpo3d9vgesBiZy+XBxrg0JIjO4dYMJZLs0HckqwlctsEofKjpOZVrMH7VL5VFtc+3JqTyxQ==;xDG/VWPMMVxyRhP6+YI8og=="
 ---

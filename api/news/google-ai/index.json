@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-03-31-deepmind-appeared-at-the-center-of-sexual-harassment-scandal.md",
+      "title": "DeepMind Appeared At The Center Of Sexual Harassment Scandal",
+      "excerpt": "Recently, DeepMind, an artificial intelligence company owned by Google-parent Alphabet has been the talk of the town. Several former employees were accusing the company of mishandling serious ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/",
+      "originalUrl": "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/03/DeepMind-accused-of-mishandling-Sexual-Misconduct-allegations_TechnoidHost.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/amp/",
+      "publishedDateTime": "2022-03-31T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-former-deepmind-employee-acuses-company-of-mishandling-sexual-abuse-complaint.md",
       "title": "Former DeepMind employee acuses company of mishandling sexual abuse complaint",
       "excerpt": "A former DeepMind employee has accused the company of mishandling a series of serious sexual harassment allegations..",
@@ -1419,49 +1462,6 @@
         "AI",
         "Machine Learning",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-03-10-deepmind-introduces-ai-model-to-decipher-ancient-texts.md",
-      "title": "DeepMind introduces AI model to decipher ancient texts",
-      "excerpt": "Normally, historians demonstrated an accuracy of 25 per cent when working on their own, but the outcome improved to 72 per cent after Ithaca.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/deepmind-introduces-ai-model-to-decipher-ancient-texts/",
-      "originalUrl": "https://analyticsindiamag.com/deepmind-introduces-ai-model-to-decipher-ancient-texts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/unnamed-1300x459.gif",
-          "width": 1300,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-09T23:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

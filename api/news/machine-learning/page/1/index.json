@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-04-australian-football-uses-machine-learning-to-block-abusive-social-media-posts.md",
+      "title": "Australian Football Uses Machine Learning To Block Abusive Social Media Posts",
+      "excerpt": "Australia's A-Leagues and players’ union Professional Footballers Australia (PFA) are taking their own steps against online abuse by filtering player's social media proactively.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2022/04/04/australian-football-uses-machine-learning-to-block-abusive-social-media-posts/",
+      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2022/04/04/australian-football-uses-machine-learning-to-block-abusive-social-media-posts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624ac2971a063eb15f547a08/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2022/04/04/australian-football-uses-machine-learning-to-block-abusive-social-media-posts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2022/04/04/australian-football-uses-machine-learning-to-block-abusive-social-media-posts/amp/",
+      "publishedDateTime": "2022-04-04T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-career-roadmap-machine-learning-engineer.md",
+      "title": "Career roadmap: Machine learning engineer",
+      "excerpt": "As organizations worldwide adopt machine learning across virtually every industry, the demand for machine learning engineers is on the rise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.html",
+      "originalUrl": "https://www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2022/03/nkridler-career-roadmaps-100923109-medium.jpg?auto=webp&quality=85,70",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.amp.html",
+      "publishedDateTime": "2022-04-04T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-dbi-and-braintoy-to-bring-machine-learning-solutions-for-bangladeshi-market.md",
       "title": "DBI and Braintoy to bring machine learning solutions for Bangladeshi market",
       "excerpt": "Bangladesh-based market research company DBI Research Private Limited and Canada-based technology company Braintoy have announced a partnership to promote and market Machine Learning and Artificial Intelligence-based products and services in the Bangladesh market.",
@@ -889,6 +993,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-29-artificial-intelligence-a-tool-for-the-future-of-mining.md",
+      "title": "Artificial intelligence: A tool for the future of mining",
+      "excerpt": "Given the massive amounts of information that must be analyzed in the early stages of mining exploration, data interpretation is a considerable challenge for geologists. Professor Erwan Gloaguen of Institut national de la recherche scientifique (INRS) and his research partners decided to take developments in this field a step further by adapting existing deep learning architectures to interpret data from airborne imagery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1775269/Institut_National_de_la_recherche_scientifique__INRS__Artificial.jpg",
+          "width": 400,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-03-28-datarobots-cloud-80-uses-ai-and-ml-to-predict-the-unpredictable.md",
       "title": "DataRobot’s Cloud 8.0 uses AI and ML to predict the unpredictable",
       "excerpt": "With the release of Cloud 8.0, DataRobot’s Continuous AI capabilities are available in on-premises environments and leading public clouds.",
@@ -1325,155 +1472,6 @@
         "Machine Learning",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-amds-fsr-20-is-john-henry-versus-nvidia-dlsss-machine-learning.md",
-      "title": "AMD’s FSR 2.0 is John Henry versus Nvidia DLSS’s machine learning",
-      "excerpt": "AMD's FSR 2.0 is coming soon to games like DeathLoop, and it is closing the gap against Nvidia's DLSS technology.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/23/amds-fsr-2-0-is-john-henry-versus-nvidia-dlsss-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2022/03/23/amds-fsr-2-0-is-john-henry-versus-nvidia-dlsss-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/deathloop-fsr.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/23/amds-fsr-2-0-is-john-henry-versus-nvidia-dlsss-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/23/amds-fsr-2-0-is-john-henry-versus-nvidia-dlsss-machine-learning/amp/",
-      "publishedDateTime": "2022-03-23T19:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-cisco-upgrades-target-kubernetes-cloud-and-aiml.md",
-      "title": "Cisco upgrades target Kubernetes, cloud, and AI/ML",
-      "excerpt": "Cisco has added new features to its Intersight cloud management system, UCS X-Series server, and HyperFlex hyperconverged system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.html",
-      "originalUrl": "https://www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/08/03/istock-1254718662-100908660-large-100921213-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.amp.html",
-      "publishedDateTime": "2022-03-23T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-delphia-review-portfolio-management-meets-machine-learning.md",
-      "title": "Delphia Review: Portfolio Management Meets Machine Learning",
-      "excerpt": "Delphia's portfolios are built around algorithms predicting market movements. The price of admission? Your data. Learn more in our Delphia review.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
-      "originalUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/affiliates/images/Delphia_Review_WBiWR0A.original.png?width=1200&crop=2:1,offset-y0",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/philkafarakis/2022/03/31/emerging-foodt
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/philkafarakis/2022/03/31/emerging-foodtech-robots-and-the-resilient-spirit-of-techspitality-in-the-food-business/amp/"
 type: article
 quality: 79
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 700
     height: 394
     isCached: true
+
+related:
+  - title: "The Top 8 Ways Ai is Changing the Foodtech Industry"
+    excerpt: "Among the various manufacturing industries worldwide, the food technology industry is one of the most important. Artificial intelligence, machine"
+    publishedDateTime: 2022-04-04T11:57:00Z
+    webUrl: "https://www.cioapplications.com/news/the-top-8-ways-ai-is-changing-the-foodtech-industry-nid-9676.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 37
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/dbeco450.jpg"
+        width: 450
+        height: 308
+        isCached: true
 
 secured: "BjEHgMj922nL3JBHgjr2tSe5U9eHRqnLX1P3ngcW3bRlXK5lytiHlPyobZ1yxXu0vk5PM09vOJ/F928alJ9kgH7s4C9hGjbXVs8kqjNGMtcqg3zN9tSo5vnW+WR0+4/d+QfLX2luzoeoiZr/5Hebv5RzL4CaS/MmG/cZmfRzi7rk3zJnweYynFEVKBigXpJpomkF9nmj0Rz31H2CsvNveUF6tnc78BNrklWM/BYtZp6aB9+QvPyokGXAGMvrKaeD9iZwqjwqLK5sdQ1L7wHQ3HsrafqtOjx2akbaw9Fmmi3Q+7sqP5LUz/ynvSLVBiGZrrKVOzRK/v/eLK+CExjjwjOTy8ugYQd423FZWcTmg0+z4blhYSAOcNRvlYAxV+l9OhdqZ5LIdbZJGhStUGwDCccPb/+HF6kObmiD5hFevWBxAZ8Eiuuz1jYW1GQm6/iGs6kcb0c6Hj6cGmec2uXlCJWSAV1yu1CfVz6XqDnbMJhoUtANN2I1U3UF3wigwputzP1ouTsUgIRmjVrxJhzQGA==;Q5pb9eSuDvkBcws/swqWnA=="
 ---

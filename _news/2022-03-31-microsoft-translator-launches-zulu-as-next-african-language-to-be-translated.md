@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "You Can Now Translate To & From isiZulu Across the Entire Microsoft Ecosystem"
+    excerpt: "Microsoft has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from South Africa’s most-spoken official language across the entire Microsoft ecosystem of products and services."
+    publishedDateTime: 2022-03-31T07:34:00Z
+    webUrl: "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/"
+    ampWebUrl: "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/?amp"
+    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/?amp"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 73
+    images:
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Microsoft-.jpg"
+        width: 800
+        height: 520
+        isCached: true
   - title: "Microsoft Adds IsiZulu To Cognitive Services Translator, Bing, LinkedIn"
     excerpt: "Microsoft (NASDAQ: MSFT ) has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages. This development announced on Thursday is across the entire Microsoft ecosystem of products and services."
     publishedDateTime: 2022-04-04T07:13:00Z
@@ -39,6 +55,20 @@ related:
       - url: "https://d71-invdn-com.investing.com/content/pic843b8ee3e77e75b195875aa09f7635dc.jpg"
         width: 559
         height: 314
+        isCached: true
+  - title: "Microsoft selects AI start-ups to accelerate progress on environmental sustainability"
+    excerpt: "Companies focused reducing carbon emissions and waste, preserving water and protecting ecosystems will join Microsoft’s Accelerator."
+    publishedDateTime: 2022-04-01T08:57:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2022/04/01/microsoft-selects-ai-start-ups-to-accelerate-progress-on-environmental-sustainability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 47
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/68/2022/03/MicrosoftTeams-image-11-scaled.jpg"
+        width: 2560
+        height: 1920
         isCached: true
   - title: "Microsoft Translator launches Zulu as next African language to be translated"
     excerpt: "Microsoft has added Zulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages across the entire Microsoft ecosystem of products and services."

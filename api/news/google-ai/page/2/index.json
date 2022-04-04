@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-10-deepmind-introduces-ai-model-to-decipher-ancient-texts.md",
+      "title": "DeepMind introduces AI model to decipher ancient texts",
+      "excerpt": "Normally, historians demonstrated an accuracy of 25 per cent when working on their own, but the outcome improved to 72 per cent after Ithaca.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/deepmind-introduces-ai-model-to-decipher-ancient-texts/",
+      "originalUrl": "https://analyticsindiamag.com/deepmind-introduces-ai-model-to-decipher-ancient-texts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/unnamed-1300x459.gif",
+          "width": 1300,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T23:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-10-deepminds-new-ai-model-helps-decipher-date-and-locate-ancient-inscriptions.md",
       "title": "DeepMind’s new AI model helps decipher, date, and locate ancient inscriptions",
       "excerpt": "The latest example is an AI model created by Alphabet-subsidiary ... who was co-lead on the work alongside DeepMind staff research scientist Yannis Assael. “However, it’s really difficult ...",
@@ -1421,59 +1464,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-numpy-api-on-tensorflow.md",
-      "title": "NumPy API on TensorFlow",
-      "excerpt": "TensorFlow implements a subset of the NumPy API, available as tf.experimental.numpy. This allows running NumPy code, accelerated by TensorFlow, while also allowing access to all of TensorFlow's APIs. This call enables type promotion in TensorFlow and also ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/guide/tf_numpy",
-      "originalUrl": "https://www.tensorflow.org/guide/tf_numpy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-11T00:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
       ]
     }
   ],

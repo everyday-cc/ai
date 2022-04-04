@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-04-massaging-ai-language-models-for-fun-profit-and-ethics.md",
+      "title": "Massaging AI language models for fun, profit and ethics",
+      "excerpt": "For applications where there is lots of data, such as natural language processing (NLP), the amount of domain knowledge injected into the system has gone down over time. In the early days of deep learning, people would routinely train a small deep learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/massaging-ai-language-models-for-fun-profit-and-ethics/",
+      "originalUrl": "https://www.zdnet.com/article/massaging-ai-language-models-for-fun-profit-and-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/massaging-ai-language-models-for-fun-profit-and-ethics/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/massaging-ai-language-models-for-fun-profit-and-ethics/",
+      "publishedDateTime": "2022-04-04T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-04-02-why-its-time-to-address-the-ethical-dilemmas-of-artificial-intelligence.md",
       "title": "Why it's time to address the ethical dilemmas of artificial intelligence",
       "excerpt": "AI's perceived risk isn't only from autonomous weapon systems that countries like the US, China, Israel and Turkey produce that can track and target humans and assets without human intervention. It's equally about the deployment of AI and such technologies for mass surveillance,",
@@ -1363,49 +1407,6 @@
         "AI Ethics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-future-of-tv-were-putting-new-personalised-features-into-shows-using-an-ethical-version-of-ai.md",
-      "title": "Future of TV: we’re putting new personalised features into shows using an ethical version of AI",
-      "excerpt": "Philip Jackson receives funding from UKRI via EPSRC and InnovateUK, including projects with BBC R&D, and from Bang & Olufsen, the Danish luxury consumer electronics brand. “Look away now if you ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/future-of-tv-were-putting-new-personalised-features-into-shows-using-an-ethical-version-of-ai-176996",
-      "originalUrl": "https://theconversation.com/future-of-tv-were-putting-new-personalised-features-into-shows-using-an-ethical-version-of-ai-176996",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/450098/original/file-20220304-25-1iigid3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=203&fit=crop",
-          "width": 320,
-          "height": 203,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/future-of-tv-were-putting-new-personalised-features-into-shows-using-an-ethical-version-of-ai-176996",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/future-of-tv-were-putting-new-personalised-features-into-shows-using-an-ethical-version-of-ai-176996",
-      "publishedDateTime": "2022-03-07T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

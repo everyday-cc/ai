@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-04-04-microsoft-adds-isizulu-to-cognitive-services-translator-bing-linkedin.md",
-      "title": "Microsoft Adds IsiZulu To Cognitive Services Translator, Bing, LinkedIn",
-      "excerpt": "Microsoft (NASDAQ: MSFT ) has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages. This development announced on Thursday is across the entire Microsoft ecosystem of products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://za.investing.com/news/microsoft-adds-isizulu-to-cognitive-services-translator-bing-linkedin-2531559",
-      "originalUrl": "https://za.investing.com/news/microsoft-adds-isizulu-to-cognitive-services-translator-bing-linkedin-2531559",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d71-invdn-com.investing.com/content/pic843b8ee3e77e75b195875aa09f7635dc.jpg",
-          "width": 559,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T00:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing.com",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-03-ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings.md",
       "title": "AI Weekly: As demand for chatbots increases, so does the need for better offerings",
       "excerpt": "Chatbots are blossoming in functionality as well as in other essential areas such as business sales, analytics, customer service and overall end-user satisfaction. But the architectures of these offerings can sometimes be limiting.",
@@ -98,6 +55,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-02-microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance.md",
+      "title": "Microsoft, Mlytics Partner To Scale AI Capabilities And Improve Web Performance",
+      "excerpt": "further reiterating the importance of the decision to choose Microsoft as its AI cloud computing partner, and Azure Machine Learning as a key part of Mlytics’ AI strategies. Microsoft Azure Machine Learning has maintained agility, scalability ...",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/",
+      "originalUrl": "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/amp/",
+      "publishedDateTime": "2022-04-02T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-02-microsoft-hires-ex-seattle-police-chief-best-for-security-role.md",
       "title": "Microsoft Hires Ex-Seattle Police Chief Best for Security Role",
       "excerpt": "Microsoft Corp. has hired former Seattle police chief Carmen Best as director of global security risk operations. Best will be in charge of the Redmond, Washington-based company’s “global virtual security operations team,",
@@ -106,7 +106,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2022-04-01/microsoft-hires-former-seattle-police-chief-carmen-best-as-security-executive",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -159,7 +159,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26435461/finals-underway-for-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -290,6 +290,50 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-you-can-now-translate-to-from-isizulu-across-the-entire-microsoft-ecosystem.md",
+      "title": "You Can Now Translate To & From isiZulu Across the Entire Microsoft Ecosystem",
+      "excerpt": "Microsoft has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from South Africa’s most-spoken official language across the entire Microsoft ecosystem of products and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/",
+      "originalUrl": "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Microsoft-.jpg",
+          "width": 800,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/?amp",
+      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/?amp",
+      "publishedDateTime": "2022-03-31T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News Africa",
+        "domain": "itnewsafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1423,59 +1467,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-microsoft-surface-hub-2-smart-camera-with-laptop-grade-chip-12mp-ai-cam-launched.md",
-      "title": "Microsoft Surface Hub 2 Smart Camera with laptop-grade chip, 12MP AI cam launched",
-      "excerpt": "Microsoft has just unveiled its Surface Hub 2 Smart Camera which boasts of some highly impressive features and capabilities. The Microsoft Surface Hub 2 Smart Camera is not just an everyday webcam and it does not come cheap – it is priced at $800.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/03/17/microsoft-surface-hub-2-smart-camera-laptop-grade-chip-12mp-ai-cam-launched/",
-      "originalUrl": "https://www.gizmochina.com/2022/03/17/microsoft-surface-hub-2-smart-camera-laptop-grade-chip-12mp-ai-cam-launched/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/03/Surface-Hub-2S-1-810x298_c.jpg",
-          "width": 810,
-          "height": 298,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/03/17/microsoft-surface-hub-2-smart-camera-laptop-grade-chip-12mp-ai-cam-launched/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/03/17/microsoft-surface-hub-2-smart-camera-laptop-grade-chip-12mp-ai-cam-launched/?amp=1",
-      "publishedDateTime": "2022-03-16T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

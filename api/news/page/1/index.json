@@ -2,36 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-04-04-microsoft-adds-isizulu-to-cognitive-services-translator-bing-linkedin.md",
-      "title": "Microsoft Adds IsiZulu To Cognitive Services Translator, Bing, LinkedIn",
-      "excerpt": "Microsoft (NASDAQ: MSFT ) has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages. This development announced on Thursday is across the entire Microsoft ecosystem of products and services.",
+      "path": "_news/2022-04-04-massaging-ai-language-models-for-fun-profit-and-ethics.md",
+      "title": "Massaging AI language models for fun, profit and ethics",
+      "excerpt": "For applications where there is lots of data, such as natural language processing (NLP), the amount of domain knowledge injected into the system has gone down over time. In the early days of deep learning, people would routinely train a small deep learning ...",
       "sourceUrl": null,
-      "webUrl": "https://za.investing.com/news/microsoft-adds-isizulu-to-cognitive-services-translator-bing-linkedin-2531559",
-      "originalUrl": "https://za.investing.com/news/microsoft-adds-isizulu-to-cognitive-services-translator-bing-linkedin-2531559",
+      "webUrl": "https://www.zdnet.com/article/massaging-ai-language-models-for-fun-profit-and-ethics/",
+      "originalUrl": "https://www.zdnet.com/article/massaging-ai-language-models-for-fun-profit-and-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 86,
       "tags": null,
-      "images": [
-        {
-          "url": "https://d71-invdn-com.investing.com/content/pic843b8ee3e77e75b195875aa09f7635dc.jpg",
-          "width": 559,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T00:13:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/massaging-ai-language-models-for-fun-profit-and-ethics/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/massaging-ai-language-models-for-fun-profit-and-ethics/",
+      "publishedDateTime": "2022-04-04T04:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Investing.com",
-        "domain": "investing.com",
-        "images": null,
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,7 +40,164 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations.md",
+      "title": "Here's How AI Optimizes Executive-Level Decision-Making In Mega-Corporations",
+      "excerpt": "Artificial intelligence's application is altering business and at the same time, it is evolving as significant gains in computing capability allow for more complicated programs than ever before. Enterprise AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6239aa5f2d68c629702662a8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/amp/",
+      "publishedDateTime": "2022-04-04T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-australian-football-uses-machine-learning-to-block-abusive-social-media-posts.md",
+      "title": "Australian Football Uses Machine Learning To Block Abusive Social Media Posts",
+      "excerpt": "Australia's A-Leagues and players’ union Professional Footballers Australia (PFA) are taking their own steps against online abuse by filtering player's social media proactively.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2022/04/04/australian-football-uses-machine-learning-to-block-abusive-social-media-posts/",
+      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2022/04/04/australian-football-uses-machine-learning-to-block-abusive-social-media-posts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624ac2971a063eb15f547a08/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2022/04/04/australian-football-uses-machine-learning-to-block-abusive-social-media-posts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2022/04/04/australian-football-uses-machine-learning-to-block-abusive-social-media-posts/amp/",
+      "publishedDateTime": "2022-04-04T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-career-roadmap-machine-learning-engineer.md",
+      "title": "Career roadmap: Machine learning engineer",
+      "excerpt": "As organizations worldwide adopt machine learning across virtually every industry, the demand for machine learning engineers is on the rise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.html",
+      "originalUrl": "https://www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2022/03/nkridler-career-roadmaps-100923109-medium.jpg?auto=webp&quality=85,70",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.amp.html",
+      "publishedDateTime": "2022-04-04T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -172,6 +329,58 @@
         "AI",
         "AI in Finance",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-04-03-ai-algorithms-could-disrupt-our-ability-to-think.md",
+      "title": "AI algorithms could disrupt our ability to think",
+      "excerpt": "We already know AI-powered apps diminish our privacy. If they also diminish our human agency, that could have serious consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/",
+      "originalUrl": "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1263568743.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/amp/",
+      "publishedDateTime": "2022-04-03T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -623,6 +832,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-02-microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance.md",
+      "title": "Microsoft, Mlytics Partner To Scale AI Capabilities And Improve Web Performance",
+      "excerpt": "further reiterating the importance of the decision to choose Microsoft as its AI cloud computing partner, and Azure Machine Learning as a key part of Mlytics’ AI strategies. Microsoft Azure Machine Learning has maintained agility, scalability ...",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/",
+      "originalUrl": "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/amp/",
+      "publishedDateTime": "2022-04-02T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-02-microsoft-hires-ex-seattle-police-chief-best-for-security-role.md",
       "title": "Microsoft Hires Ex-Seattle Police Chief Best for Security Role",
       "excerpt": "Microsoft Corp. has hired former Seattle police chief Carmen Best as director of global security risk operations. Best will be in charge of the Redmond, Washington-based company’s “global virtual security operations team,",
@@ -631,7 +883,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2022-04-01/microsoft-hires-former-seattle-police-chief-carmen-best-as-security-executive",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -684,7 +936,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26435461/finals-underway-for-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -723,15 +975,15 @@
       "title": "Emerging AI Technologies in Higher Education",
       "excerpt": "Technologies that utilize artificial intelligence and the cloud can help university networks adapt to the changing networking landscape.",
       "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/higher/k12/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education",
-      "originalUrl": "https://edtechmagazine.com/higher/k12/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education",
+      "webUrl": "https://edtechmagazine.com/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education",
+      "originalUrl": "https://edtechmagazine.com/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://edtechmagazine.com/higher/k12/higher/higher/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r",
+          "url": "https://edtechmagazine.com/higher/higher/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r",
           "width": 1440,
           "height": 500,
           "title": null,
@@ -741,8 +993,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/higher/k12/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education?amp",
+      "ampWebUrl": "https://edtechmagazine.com/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education?amp",
+      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education?amp",
       "publishedDateTime": "2022-04-01T13:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -757,6 +1009,7 @@
         "news"
       ],
       "topics": [
+        "AI in Autos",
         "AI",
         "AI in Education"
       ]
@@ -892,262 +1145,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-machine-learning-as-a-service-mlaas-market-next-big-thing-major-giants-ibm-aws-microsoft-hpe.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Next Big Thing : Major Giants IBM, AWS, Microsoft, HPE",
-      "excerpt": "This press release was orginally distributed by SBWireNew Jersey, NJ -- (SBWIRE) -- 04/01/2022 -- The Latest research study released by HTF MI",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/machine-learning-as-a-service-mlaas-market-next-big-thing-major-giants-ibm-aws-microsoft-hpe",
-      "originalUrl": "https://www.digitaljournal.com/pr/machine-learning-as-a-service-mlaas-market-next-big-thing-major-giants-ibm-aws-microsoft-hpe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/b6be821d016d05754280ca0ef93d4ae4874badff-e1648768638750-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-01T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning.md",
-      "title": "Oracle cranks up MySQL HeatWave’s thermostat for in-database machine learning",
-      "excerpt": "In making its move to becoming a serious competitor in the MySQL space, Oracle took the database in a unique direction with HeatWave: It optimized for analytics in addition to transaction processing by taking advantage of MySQL’s support for pluggable storage engines.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/08/Oracle-e1617192273881.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/amp/",
-      "publishedDateTime": "2022-04-01T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-worlds-smartest-traffic-management-system-launches-in-australia.md",
-      "title": "\"World's smartest traffic management system\" launches in Australia",
-      "excerpt": "Modern cities produce an absolute avalanche of data every second of every day, from cameras and sensors belonging to dozens of separate systems. In such a smart world, it's amazing that so many traffic lights are still so dumb.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/",
-      "originalUrl": "https://newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/d27f7eb/2147483647/strip/true/crop/2940x1960+146+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fdb%2Fa7%2Fd895452c4b34b0bb2bb27d53b99f%2Fdepositphotos-325652746-xl.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/?amp=true",
-      "publishedDateTime": "2022-04-01T00:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-podcast-transcript-do-we-need-ai-regulation.md",
-      "title": "Podcast transcript: Do we need AI regulation?",
-      "excerpt": "The first one is Sabina mentioned, have a review board, make AI ethics core to your data science and AI programme. And make sure that you have some external stakeholders there, the contrarians and the people, not only who will benefit from it, but who may ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367274/podcast-transcript-do-we-need-ai-regulation",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367274/podcast-transcript-do-we-need-ai-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1648740079/itpro/Podcast%20images/Episode%20125/IT_Pro_Podcast_Transcript_image.jpg",
-          "width": 375,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-the-dangers-of-not-aligning-artificial-intelligence-with-human-values.md",
-      "title": "The Dangers Of Not Aligning Artificial Intelligence With Human Values",
-      "excerpt": "I speak to Brian Christian, author of 'The Alignment Problem – How AI Learns Human Values' about how we still face some significant hurdles when it comes to building machines that are truly capable of thinking and acting like humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62468a610c6dc8f419eac76b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/amp/",
-      "publishedDateTime": "2022-03-31T22:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

@@ -5,10 +5,12 @@ excerpt: "We already know AI-powered apps diminish our privacy. If they also dim
 publishedDateTime: 2022-04-03T13:20:00Z
 originalUrl: "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/"
 webUrl: "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/"
+ampWebUrl: "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/amp/"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 89
+heat: 99
+published: true
 
 provider:
   name: VentureBeat
@@ -20,23 +22,30 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1263568743.jpg?w=1200&strip=all"
+    width: 1200
+    height: 798
+    isCached: true
 
 related:
-  - title: "'Don't Blindly Rely on the Algorithms': How Firms Can Limit Liability Amid AI Explosion"
-    excerpt: "The minute you hear the phrase ‘AI’ or ‘algorithms,’ as in-house counsel, that is a signal to you that that is a product or tool that requires further scrutiny, said Kristin Madigan, a partner at Crowell & Moring."
-    publishedDateTime: 2022-03-30T17:45:00Z
-    webUrl: "https://www.law.com/corpcounsel/2022/03/30/dont-blindly-rely-on-the-algorithms-how-firms-can-limit-liability-amid-ai-explosion/"
+  - title: "AI, algorithms, and accountability: the UK’s pilot on algorithmic impact assessments in healthcare"
+    excerpt: "For the past few years, the UK Government has grown to recognise that the increasing prevalence of AI within the public and private sector has led to an inescapable impact on the UK and its citizens."
+    publishedDateTime: 2022-04-04T10:13:00Z
+    webUrl: "https://www.scl.org/articles/12560-ai-algorithms-and-accountability-the-uk-s-pilot-on-algorithmic-impact-assessments-in-healthcare"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 29
+      name: Scl
+      domain: scl.org
+    quality: 42
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/390/2022/03/Artificial-intelligence_3-767x633-1.jpg"
-        width: 767
-        height: 633
+      - url: "https://www.scl.org:443//images/opengraph_logo_smaller.png"
+        width: 300
+        height: 300
         isCached: true
 
-secured: "F+T7a7UVKvnQhLowRCyb1SZCT/MNLHn9vx72cq46kc73LUSDfQwIXrQebe4vmBwuVQy/YEVOOCLodC7ibuD9PCu8GKW15hH+82A7G89IAebXokTiqdQwCrhNsQSSwBvzFXwS5xe6MjJpIOELk7KusXCRA91gvISTOtj0EPPhiszJXqAYZZNxhEn+77BARNF5BoqtSHlxeibsizj8PMlvmKGn3n1remclml8SRnmd7HLsf1TQ9XTR95L63KkE80qDOBMfJ+ez2czUvtPt2HId1xXbANJiMb+4y6g5iPKYK5fWy7gNf0TfU3qHzEmTgMg9u/mS12Uxks4XW0BbiW+0KfgysqpCguq/gtuuO+B/C6P324HqBC0T+DxFbQQCwq0RGy9bjOLIS3ScsMot+zLt6yWxTqKMLrt6iTRTiHwrhuFmm7s7/W47UkLX/pawXpab36ay3AyzUeB/6jpHkmo4iMBWbAgNk9P7uFqfBb+2rOXsazPrPKG7i9i9wFkcKc1ByfKbrpUK151mnZN0K7TisQ==;i4fDrB87z7KMQpvQ173YcQ=="
+secured: "WO07RrzErXrDDxZ7oKTjCQAUGPvHvukdk8WeYuvsIVJQrMG8Uiw+mn+U4zSYtnu1juoh37R9lPCJ36WVsYhE1hzpNTK/8Gs9YOsHnPbyXDJVhYbsxxKlfwoTpb0MHcOYS9gd9o17TEtaCQHFw9hm3m7bGjBOpoOrG+PEl1yKgYtyIs54Q+GvN68IRVn/qRvaJGzT+/ItU/C+xh0m01//3y/ws+M868O/ndRYMSHeMkrdz7rgVoxPVjtdpJ9lySwYDwXze6Wa5PdY+DEi6nSFJGp29iEQntDhksWNbdNn6e0Fb8aEHlOugH1Y+4sGLCM3HLAO4ja7OIOasB/6c/HB8kuj2dZUhef5MSbB1B5h3QM=;3yrEr3V3bwSm+EY986pIYA=="
 ---
 

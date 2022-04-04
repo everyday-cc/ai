@@ -46,6 +46,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-31-intel-arc-a-gpu-offers-full-av1-hardware-acceleration.md",
+      "title": "Intel Arc-A GPU offers full AV1 hardware acceleration",
+      "excerpt": "Introduced as Intel’s solution for both gamers and content creators, the new Arc-A graphic products are, the company says, “more than another piece of hardware in your PC” they are “your portal to play and create” on PC.",
+      "sourceUrl": null,
+      "webUrl": "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/",
+      "originalUrl": "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.provideocoalition.com/wp-content/uploads/intelarca000.jpg",
+          "width": 1420,
+          "height": 946,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/",
+      "cdnAmpWebUrl": "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/",
+      "publishedDateTime": "2022-03-31T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "provideocoalition.com",
+        "domain": "provideocoalition.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-intel-confirms-acquisition-of-granulate-reportedly-for-up-to-650m-bringing-ai-based-workload-optimization-into-its-fold.md",
       "title": "Intel confirms acquisition of Granulate, reportedly for up to $650M, bringing AI-based workload optimization into its fold",
       "excerpt": "Last year, when we wrote about new investment for Israeli startup Granulate — which applies AI to high-priority computing workloads to optimize how they travel across a customers’ cloud and on-premises networks — we noted that the network management space was going through some",
@@ -78,6 +121,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design.md",
+      "title": "Synopsys Launches Disruptive Cloud-Based SaaS Solution To Accelerate And Democratize Chip Design",
+      "excerpt": "In a move that could have broad-reaching implications for chip design and the Electronic Design Automation industry, Synopsys has launched a new cloud-based SaaS solution, dubbed Synopsys Cloud, which makes its cutting-edge design a tools available to a diverse spectrum of potential customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/",
+      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6244e7327f1720b840503f2b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/amp/",
+      "publishedDateTime": "2022-03-30T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1382,101 +1477,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-artificial-intelligence-in-chipset-market-to-hit-usd-3846-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027.md",
-      "title": "Artificial Intelligence in Chipset Market to Hit USD 38.46 Billion | AI Chipset Market Size, Share, Demand, Growth and Forecast 2027",
-      "excerpt": "Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices to support AI technologies. Increasing utilization of AI technologies is projected to boost the demand for these chipsets over the next couple of years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-chipset-market-to-hit-usd-38-46-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-chipset-market-to-hit-usd-38-46-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/311e103167631b53610564f3bef2b5e4678b5881-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-runai-lands-75m-to-dynamically-allocate-hardware-resources-for-ai-training.md",
-      "title": "Run:AI lands $75M to dynamically allocate hardware resources for AI training",
-      "excerpt": "This in turn enables models that would otherwise be constrained by hardware, chiefly GPU memory, to run ostensibly unimpeded on-premises, on public clouds, or at the edge. Exactly how Run ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/15/runai-lands-75m-to-dynamically-allocate-hardware-resources-for-ai-training/",
-      "originalUrl": "https://venturebeat.com/2022/03/15/runai-lands-75m-to-dynamically-allocate-hardware-resources-for-ai-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-582649612.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 839,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/15/runai-lands-75m-to-dynamically-allocate-hardware-resources-for-ai-training/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/15/runai-lands-75m-to-dynamically-allocate-hardware-resources-for-ai-training/amp/",
-      "publishedDateTime": "2022-03-15T19:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -19,104 +19,50 @@ topics:
   - AI
 
 related:
-  - title: "Chip Design Moves To The Cloud With Synopsys And Microsoft Azure"
-    excerpt: "The two companies have collaborated to enable engineers to design chips using cloud resources and dynamic licensing. Digital chips are the new lifeblood for nearly every human endeavor and currency for innovation. But design a chip is a very expensive ..."
-    publishedDateTime: 2022-03-30T17:32:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/amp/"
+  - title: "Finals Underway for OpenCV Spatial AI Contest Sponsored by Intel and Microsoft Azure"
+    excerpt: "LEGO® and OAK-D-LITE Edge AI hardware this spring. The top 3 teams will be chosen in April and featured at Microsoft Build 2022. PALO ALTO, Calif., April 1,"
+    publishedDateTime: 2022-04-01T23:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26435461/finals-underway-for-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26435461"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26435461"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 82
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/623e3bcc2e4fd6128c007e8d/0x0.jpg?format=jpg&crop=2201,1238,x119,y0,safe&width=1200"
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Intel Unveils First AI Incubator Lab"
+    excerpt: "Intel's AI for Workforce program, an effort to promote workforce skills in artificial intelligence through partnerships with community colleges, governments and other organizations, has announced its first AI incubator lab. Housed at Chandler-Gilbert ..."
+    publishedDateTime: 2022-04-03T15:39:00Z
+    webUrl: "https://campustechnology.com/Articles/2022/03/29/Intel-Unveils-First-AI-Incubator-Lab.aspx?p=1"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 37
+    images:
+      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Synopsys Launches Disruptive Cloud-Based SaaS Solution To Accelerate And Democratize Chip Design"
-    excerpt: "In a move that could have broad-reaching implications for chip design and the Electronic Design Automation industry, Synopsys has launched a new cloud-based SaaS solution, dubbed Synopsys Cloud, which makes its cutting-edge design a tools available to a diverse spectrum of potential customers."
-    publishedDateTime: 2022-03-30T23:33:00Z
-    webUrl: "https://www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/"
-    ampWebUrl: "https://www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/amp/"
+  - title: "Contact Center Intelligence Market to See Booming Growth | IBM, Google, Microsoft"
+    excerpt: "The latest study released on the Global Contact Center Intelligence Market by AMA Research evaluates market size, trend, and forecast to 2027. The Contact"
+    publishedDateTime: 2022-03-31T10:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/contact-center-intelligence-market-to-see-booming-growth-ibm-google-microsoft"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 36
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6244e7327f1720b840503f2b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 740
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/Covid-Testing-AFP-1K-600x337.jpeg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "You Can Now Translate To & From isiZulu Across the Entire Microsoft Ecosystem"
-    excerpt: "Microsoft has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from South Africa’s most-spoken official language across the entire Microsoft ecosystem of products and services."
-    publishedDateTime: 2022-03-31T07:34:00Z
-    webUrl: "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/"
-    ampWebUrl: "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/?amp"
-    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/?amp"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 73
-    images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Microsoft-.jpg"
-        width: 800
-        height: 520
-        isCached: true
-  - title: "Microsoft, Mlytics Partner To Scale AI Capabilities And Improve Web Performance"
-    excerpt: "further reiterating the importance of the decision to choose Microsoft as its AI cloud computing partner, and Azure Machine Learning as a key part of Mlytics’ AI strategies. Microsoft Azure Machine Learning has maintained agility, scalability ..."
-    publishedDateTime: 2022-04-02T09:23:00Z
-    webUrl: "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/"
-    ampWebUrl: "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 70
-    images:
-      - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
-  - title: "Synopsys launches pay-as-you-go chip design and verification tools on Azure"
-    excerpt: "Synopsys has picked Microsoft's Azure HBv3 cloud to offer pay-as-you-go on-line IC design and verification electronic design automation (EDA) tools, to be"
-    publishedDateTime: 2022-03-31T08:19:00Z
-    webUrl: "https://www.electronicsweekly.com/news/design/eda-and-ip/synopsys-launches-pay-go-chip-design-verification-tools-azure-2022-03/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 54
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/03/31092650/Synopsys-cloud2.jpg"
-        width: 810
-        height: 331
-        isCached: true
-  - title: "Microsoft Translator launches Zulu"
-    excerpt: "Microsoft has added Zulu to its Microsoft Azure Cognitive Services Translator. This enables text and documents to be translated to and from one of South Africa’s official languages across the entire Microsoft ecosystem of products and services,"
-    publishedDateTime: 2022-03-31T07:41:00Z
-    webUrl: "https://mybroadband.co.za/news/software/439476-microsoft-translator-launches-zulu.html"
-    ampWebUrl: "https://mybroadband.co.za/news/software/439476-microsoft-translator-launches-zulu.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/439476-microsoft-translator-launches-zulu.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
-  - title: "Microsoft launches Zulu translations"
-    excerpt: "Microsoft has added Zulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages across the entire Microsoft ecosystem of products and services."
-    publishedDateTime: 2022-03-31T09:22:00Z
-    webUrl: "https://it-online.co.za/2022/03/31/microsoft-launches-zulu-translations/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
 
 secured: "5aRrSUMmtAaXpIYgkwonYEK2o15iE7x8BjwhkunGIj5GZcw+bNWiHcMpxnUv2gRbAAtyLk+yT4/xtOCgvp0dANeD3lfYfhvaaGVvM+oIVnd2eisDlfSThrUbjNNBkqnGmFhpNCgKZqyHr05dTpiWUWwFzg1dPKbTjoFIW6maBbiwFd0P0qe5UQ8wZ80Fa5pJeD6rCwdZFQnz2U50FJvg+IicAijTeEqkzzeaM7o25tkWzizkc++LqFjxQMNaXIn9KAzqc8Kq0SB4JgqzmIgWEqFF5T+ug2c+lz6wCU8ekExckYIuYrQxkwLEm+B2/5AdPoEuT6NHdNY6D6BE02WE0UQ8m5fyB4cVQUay2ivpcYppUWgpr34xuJPqzlVdSnN8Z062v7W7wPy7a8WK9CODZCxQtYgKV9wLvLMvhkOjMOsRpgeIQ7DiT/W6ULVVaTFyKAwIt1YnC6r5Ku4dizTTQisus6oxYyE5jFZmn45bOF5O6nBH/1FqvJARJT/TIHT9Sjp309dF86ynMZZeqij0dw==;v5Fjbaqb0ixuHg8XdDgEPQ=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence in Drug Screening Market Size to Expand Significantly Through 2029"
+    excerpt: "According to the report by Allied Market Research, titled, ” Artificial Intelligence in Drug Screening Market by Product Type (Immunoassay"
+    publishedDateTime: 2022-04-04T11:26:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-drug-screening-market-size-to-expand-significantly-through-2029"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 29
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/bitcoin-illustration-DJC-1600px-600x337.jpeg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "e5zoVxP+SN9CnaYiaVXaPnp3SXTfNIm1iexLYDjnPa/CyWuJ1OK54V1ibk4SNB49MxMtbmukbF6DNUBsAvkkuele+VSWyVq8v7xCPe2ygRupchRDdIhOiOm8InYiNYagityROoN/b3gh0By7wS4ytcU6C/OpKNsc9AS2pmFekLTHSnOx0Rr4y3TxZEgy4MAu+rsqxPo33B+JA/kcIupfuUK6IwYaPzUlds+ogH2fLdSf8OsBqgpW1GXFaDXZRDn9uuAetFGI/SRrGuzOLTppnOi/dQTgZAt8oUpL/fq4uz5YtlUx//wj9MCZSoByjlRXaf3JgmM7BmplH7DyGHRbeM2qX4BHjgY+LlnHFZOnks8=;vymxwznMO0uwykrdQ9Pszw=="
 ---

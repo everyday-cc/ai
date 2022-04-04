@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: GizChina
@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Former DeepMind employee acuses company of mishandling sexual abuse complaint"
-    excerpt: "A former DeepMind employee has accused the company of mishandling a series of serious sexual harassment allegations.."
-    publishedDateTime: 2022-03-30T17:28:00Z
-    webUrl: "https://www.engadget.com/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html"
-    ampWebUrl: "https://www.engadget.com/amp/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html"
+  - title: "DeepMind 'grossly inadequate' at tackling sexual harassment, says former staffer"
+    excerpt: "A former DeepMind employee has blasted the AI lab for being, in her view, \"grossly inadequate\" in dealing with internal sexual harassment. She also urged the organization to end its policy of NDAs that prevent victims from speaking out."
+    publishedDateTime: 2022-04-01T01:14:00Z
+    webUrl: "https://www.theregister.com/2022/03/31/deepmind_harassment_open_letter/?td=rt-3a"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/03/31/deepmind_harassment_open_letter/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/31/deepmind_harassment_open_letter/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 101
+      name: theregister
+      domain: theregister.com
+    quality: 54
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-03/ad7e15c0-b04b-11ec-bff4-5322771aed2e"
-        width: 1600
-        height: 1000
+      - url: "https://regmedia.co.uk/2022/03/31/shutterstock_deepmind_logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Google’s DeepMind AI has taught itself to walk, and it’s as entertaining as it is fascinating"
+    excerpt: "Google’s artificial intelligence company has created a program capable of teaching itself how to walk and jump without prior input.DeepMind’s website says it is on a “scientific mission” to push boundaries in AI."
+    publishedDateTime: 2022-03-31T13:06:00Z
+    webUrl: "https://jerseyeveningpost.com/uncategorised/2022/03/31/googles-deepmind-ai-has-taught-itself-to-walk-and-its-as-entertaining-as-it-is-fascinating/"
+    type: article
+    provider:
+      name: Jersey Evening Post
+      domain: jerseyeveningpost.com
+    quality: 43
+    images:
+      - url: "https://jerseyeveningpost.com/wp-content/uploads/2022/03/31130640/Img32953519.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Deepmind rubbish at spotting sexual harassment"
     excerpt: "In this case it is a human problem It is starting to look like the humans behind AI are worse than the actual technology as a former DeepMind employee has blasted the AI lab for being “grossly inadequate\" in dealing with internal sexual harassment."

@@ -2,6 +2,492 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-03-23-trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai.md",
+      "title": "Trustworthy AI: How to ensure trust and ethics in AI",
+      "excerpt": "AI we can trust. Oftentimes discussions about ethics and trust in AI have a very narrow focus, limited to fairness and bias, which can be frustrating as a professional in the indu",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/",
+      "originalUrl": "https://venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-811140846-e1647972470657.jpg?fit=800%2C566&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/amp/",
+      "publishedDateTime": "2022-03-22T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-handheld-robot-uses-ai-to-help-first-responders-stem-bleeding.md",
+      "title": "Handheld robot uses AI to help first responders stem bleeding",
+      "excerpt": "Researchers at MIT's Lincoln Laboratory have developed a handheld robot that can help minimally trained responders to control severe internal bleeding in victims of traumatic injury, by helping them insert a needle and catheter into a major blood vessel.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/",
+      "originalUrl": "https://newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/450aa75/2147483647/strip/true/crop/900x600+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F66%2F91%2Fcc101cde4df58d8ff485eaec84a3%2Fai-guide.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/?amp=true",
+      "publishedDateTime": "2022-03-22T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles.md",
+      "title": "GTC 2022: NVIDIA flexes its GPU and platform muscles",
+      "excerpt": "NVIDIA's CEO Jensen Huang's 1 hour, 39-minute keynote covered a lot of ground but the unifying themes to the majority of the two dozen announcements were GPU-centered, and its platform approach to everything it builds.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/",
+      "originalUrl": "https://venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/nvidia.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/amp/",
+      "publishedDateTime": "2022-03-22T20:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-expedite-ivr-development-with-industry-grammars-on-amazon-lex.md",
+      "title": "Expedite IVR development with industry grammars on Amazon Lex",
+      "excerpt": "Amazon Lex is a service for building conversational interfaces into any application using voice and text. With Amazon Lex, you can easily build sophisticated, natural language, conversational bots (chatbots), virtual agents, and interactive voice response (IVR) systems. You can now use industry grammars",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-ivr-development-with-industry-grammars-on-amazon-lex/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-ivr-development-with-industry-grammars-on-amazon-lex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T18:17:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-chinas-quest-for-greater-technological-self-reliance.md",
+      "title": "China’s Quest for Greater Technological Self-Reliance",
+      "excerpt": "But what is driving this pursuit of self-reliance, especially for China ... world of e-commerce by leapfrogging from cash to cashless payment systems. Alibaba, Baidu, and other PRC firms are also active in cutting-edge artificial intelligence research.",
+      "sourceUrl": null,
+      "webUrl": "https://asiasociety.org/australia/chinas-quest-greater-technological-self-reliance",
+      "originalUrl": "https://asiasociety.org/australia/chinas-quest-greater-technological-self-reliance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://asiasociety.org/sites/default/files/styles/1200w/public/2021-03/Bates%20Gill%20essay%20-%20Made%20in%20China%20chip%20-%20ROMSVETNIK-%20shutterstock.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia Society",
+        "domain": "asiasociety.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-microsoft-claims-new-ai-model-architecture-improves-language-translation.md",
+      "title": "Microsoft claims new AI model architecture improves language translation",
+      "excerpt": "Microsoft claims that its new model architecture, Z-code Mixture of Experts (MoE), improves language translation quality.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/22/microsoft-claims-new-ai-model-architecture-improves-language-translation/",
+      "originalUrl": "https://venturebeat.com/2022/03/22/microsoft-claims-new-ai-model-architecture-improves-language-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/22/microsoft-claims-new-ai-model-architecture-improves-language-translation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/microsoft-claims-new-ai-model-architecture-improves-language-translation/amp/",
+      "publishedDateTime": "2022-03-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-banks-using-ai-are-ripe-for-russian-sabotage-report.md",
+      "title": "Banks Using AI Are Ripe for Russian Sabotage: Report",
+      "excerpt": "Experts worry machine learning's reliance on large data sets to train make them particularly vulnerable to data manipulation attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/banks-using-ai-are-ripe-for-russian-sabotage-report-1848687118",
+      "originalUrl": "https://gizmodo.com/banks-using-ai-are-ripe-for-russian-sabotage-report-1848687118",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/5d71f36ce0903f5bf93ce3b439ef76fe.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/banks-using-ai-are-ripe-for-russian-sabotage-report-1848687118/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/banks-using-ai-are-ripe-for-russian-sabotage-report-1848687118/amp",
+      "publishedDateTime": "2022-03-22T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-training-fundamentals-of-deep-learning-cuda.md",
+      "title": "Training: Fundamentals of Deep Learning & CUDA",
+      "excerpt": "Fundamentals of Deep Learning & CUDA, May 2 nd – May 4 th 2022 Content. Accelerators are ubiquitous in today's HPC landscape, offering much higher performance c",
+      "sourceUrl": null,
+      "webUrl": "https://www.uibk.ac.at/fz-hpc/news/fundamentals-of-deep-learning---cuda.html.en",
+      "originalUrl": "https://www.uibk.ac.at/fz-hpc/news/fundamentals-of-deep-learning---cuda.html.en",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.uibk.ac.at/images/900x-auto/fz-hpc/news/images/nvidia_course_news.png",
+          "width": 900,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "uibk.ac.at",
+        "domain": "uibk.ac.at",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more.md",
+      "title": "Companies are commercializing multimodal AI models to analyze videos and more",
+      "excerpt": "Multimodal AI systems, which can understand the relationships between video, text, audio, and more, are becoming commercialized.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/22/companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more/",
+      "originalUrl": "https://venturebeat.com/2022/03/22/companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/YouTube.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/22/companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more/amp/",
+      "publishedDateTime": "2022-03-22T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-massachusetts-commission-sets-facial-recognition-guidelines.md",
+      "title": "Massachusetts Commission Sets Facial Recognition Guidelines",
+      "excerpt": "Recommendations issued to the state Legislature include banning the technology from being used for live surveillance and that local police be prevented from using it unless explicitly allowed to do so by law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.governing.com/security/massachusetts-commission-sets-facial-recognition-guidelines",
+      "originalUrl": "https://www.governing.com/security/massachusetts-commission-sets-facial-recognition-guidelines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.governing.com/security/massachusetts-commission-sets-facial-recognition-guidelines?_amp=true",
+      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/massachusetts-commission-sets-facial-recognition-guidelines?_amp=true",
+      "publishedDateTime": "2022-03-22T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Governing",
+        "domain": "governing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-openshift-410-red-hat-teams-with-nvidia-to-add-ai-and-machine-learning.md",
       "title": "OpenShift 4.10: Red Hat teams with Nvidia to add AI and machine learning",
       "excerpt": "Red Hat is pulling this off by allying with Nvidia. Specifically, this latest OpenShift version is certified to work with NVIDIA AI Enterprise 2.0. Nvidia AI Enterprise is an AI s",
@@ -699,436 +1185,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-tifin-announces-the-expansion-of-its-fintech-platform-for-personalized-charitable-giving-to-democratize-access-to-donor-advised-funds.md",
-      "title": "TIFIN Announces the Expansion of its Fintech Platform for Personalized Charitable Giving to Democratize Access to Donor Advised Funds",
-      "excerpt": "TIFIN's Louise Platform that allows advisors to enable personalized giving for their client families acquires Amicus.io to broaden access and meet clients' giving needs without minimums BOULDER, Colo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/03/22/9568051.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/03/22/9568051.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-evisort-named-winner-in-2022-artificial-intelligence-excellence-awards.md",
-      "title": "Evisort Named Winner in 2022 Artificial Intelligence Excellence Awards",
-      "excerpt": "The Business Intelligence Group today announced that Evisort is a winner in its inaugural Artificial Intelligence Excellence Awards program. Evisort is the leading provider of artificial intelligence (AI) solutions for contract management and analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/evisort-named-winner-in-2022-artificial-intelligence-excellence-awards/article_5d8d9a85-9a49-5348-b76f-5902c734ec82.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/evisort-named-winner-in-2022-artificial-intelligence-excellence-awards/article_5d8d9a85-9a49-5348-b76f-5902c734ec82.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/f/ff/fff7e599-6920-5698-af49-458060661e82/6239ccec33715.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program.md",
-      "title": "FMG Suite Named \"Best Overall FinTech Mobile App\" in 2022 FinTech Breakthrough Awards Program",
-      "excerpt": "FMG Suite, a SaaS company specializing in marketing software and services for financial advisors and insurance agents, today announced that it has been named \"Best Overall FinTech Mobile App\" in the sixth annual FinTech Breakthrough Awards program conducted by FinTech Breakthrough,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program/article_e7c33434-e531-532a-8883-6f3cfb3de93f.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program/article_e7c33434-e531-532a-8883-6f3cfb3de93f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-press-ganeys-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards.md",
-      "title": "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards",
-      "excerpt": "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html",
-      "originalUrl": "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/2f/c2fe3e5e-68b4-11ec-b5b1-eb6d367dec1b/61cc72a6c74a5.image.jpg",
-          "width": 320,
-          "height": 325,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register-Herald",
-        "domain": "register-herald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-ujet-wins-prestigious-best-of-enterprise-connect-2022-overall-award.md",
-      "title": "UJET Wins Prestigious Best of Enterprise Connect 2022 Overall Award",
-      "excerpt": "Disruptive Contact Center Platform Also Recognized for Innovative Use of Artificial Intelligence in CX UJET, Inc., the world’s most advanced cloud contact center provider, today announced it was awarded the 2022 Best of Enterprise Connect Overall distinction for CX Intercloud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20220322005820/ujet-wins-prestigious-best-of-enterprise-connect-2022-overall-award",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220322005820/ujet-wins-prestigious-best-of-enterprise-connect-2022-overall-award",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-pasqal-quantum-computers-to-become-available-on-azure-quantum-this-year.md",
-      "title": "Pasqal quantum computers to become available on Azure Quantum this year",
-      "excerpt": "Microsoft has agreed a partnership with quantum startup Pasqal which will see its quantum computers become available on Azure Quantum later this year. This will provide users with cloud-based access to Azure’s first quantum processor based on neutral atom architecture,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/367139/pasqal-quantum-computers-to-become-available",
-      "originalUrl": "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/367139/pasqal-quantum-computers-to-become-available",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1581677441/itpro/Azure.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence.md",
-      "title": "Perseverance Rover To Self On Drive On Mars Soon, Thanks To Artificial Intelligence",
-      "excerpt": "Perseverance is collecting rock cores for return to Earth which makes for the first part of the Mars Sample Return campaign.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/science/29044/perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence",
-      "originalUrl": "https://in.mashable.com/science/29044/perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/news/n/nasas-pers/nasas-perseverance-has-a-little-family-portrait-easter-egg_enwu.620.png",
-          "width": 620,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/science/29044/perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/science/29044/perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence?amp=1",
-      "publishedDateTime": "2022-03-22T01:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-ai-experts-warn-of-potential-cyberwar-facing-banking-sector.md",
-      "title": "AI Experts Warn of Potential Cyberwar Facing Banking Sector",
-      "excerpt": "U.S. authorities have flagged the U.S. financial system, a central pillar in the U.S. sanctions regime, as an attractive target, and officials and security experts have warned for weeks about the possibility of retaliatory cyberattacks from Russia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-experts-warn-of-potential-cyberwar-facing-banking-sector-11647941402",
-      "originalUrl": "https://www.wsj.com/articles/ai-experts-warn-of-potential-cyberwar-facing-banking-sector-11647941402",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-509046/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-experts-warn-of-potential-cyberwar-facing-banking-sector-11647941402",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-experts-warn-of-potential-cyberwar-facing-banking-sector-11647941402",
-      "publishedDateTime": "2022-03-22T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-computer-vision-in-healthcare-market-size-to-grow-usd-1182-mn-by-2027.md",
-      "title": "Computer Vision in Healthcare Market Size To Grow USD 1182 Mn By 2027",
-      "excerpt": "As per our report, the global computer vision in healthcare market size was worth USD 475 million in 2022, and this value is further estimated to be",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/computer-vision-in-healthcare-market-size-to-grow-usd-1182-mn-by-2027",
-      "originalUrl": "https://www.digitaljournal.com/pr/computer-vision-in-healthcare-market-size-to-grow-usd-1182-mn-by-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-apac-firms-see-need-to-train-staff-in-digital-skills-but-few-actually-do-so.md",
-      "title": "APAC firms see need to train staff in digital skills, but few actually do so",
-      "excerpt": "Some 97% of organisations across seven Asia-Pacific markets, including Singapore and Australia, recognise the need to train their employees in digital skillsets, with cloud and cybersecurity the top-most in demand,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/apac-firms-see-need-to-train-staff-in-digital-skills-but-few-actually-do-so/",
-      "originalUrl": "https://www.zdnet.com/article/apac-firms-see-need-to-train-staff-in-digital-skills-but-few-actually-do-so/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/apac-firms-see-need-to-train-staff-in-digital-skills-but-few-actually-do-so/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apac-firms-see-need-to-train-staff-in-digital-skills-but-few-actually-do-so/",
-      "publishedDateTime": "2022-03-21T22:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

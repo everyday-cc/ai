@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Lumeo announces the integration of the Microsoft Azure Face Service with vision AI models and analytics"
+    excerpt: "Lumeo, a designer of computer vision solutions, announces the integration of the Microsoft Azure Face Service with its ever-growing library of vision AI (Artificial Intelligence) models and"
+    publishedDateTime: 2022-04-01T11:37:00Z
+    webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/lumeo-announces-integration-microsoft-azure-face-co-14053-ga-co-14411-ga-co-1648794885-ga.1648805569.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 33
 
 secured: "iuhdQAHAm8s0Amgi5NaXmdddJ5R766YeKR62k163VyuzNsxgojy3Ch78xvH2EkYExWsqpAhqavxUXV+nXjCRl0e+UhoXwMACJdK0vjhqjYA3JmA5rAcHGqyO6I3gaT3j5LXRsSsNBxVefaJqeuZNYf25ADnRiJPpZfu17d1B1I6zstxY/nN1+9cQhUU3EiA2/lXm5CZYPIISxdLLWzbB8YlD5EmAs6NSUOm0UoFlUGvLO/8DK3pDqkTuitPPAFWp8+tQi9cpQe3YU424GmiVQy0shPov8pLDswpbJfFioQUEQOX6BD7Sp39/wsItlJuL1SLpWCj2LHy19DphTl0CzGU7kzzdeyruyC4t/9C2vpE=;NGG/ENDfJZQk2VQoVdFPxg=="
 ---

@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "Dubai Police officer named among 30 leading Arab artificial intelligence experts"
-    excerpt: "UAE - Engineer Dr Major Issa Ibrahim Basaeed, head of artificial intelligence applications and emerging technologies at the General Department of Artificial Intelligence in Dubai Police, has been recognised among the region’s top 30 leading Arab experts in AI by MIT Technology Review Arabia."
-    publishedDateTime: 2022-04-04T05:23:00Z
-    webUrl: "https://www.zawya.com/en/legal/dubai-police-officer-named-among-30-leading-arab-artificial-intelligence-experts-e4uq8fyt"
+    excerpt: "Engineer Dr Major Issa Ibrahim Basaeed, head of artificial intelligence applications and emerging technologies at the General Department of Artificial Intelligence in Dubai Police, has been recognised among the region's top 30 leading Arab experts in AI by MIT Technology Review Arabia."
+    publishedDateTime: 2022-04-03T18:43:00Z
+    webUrl: "https://menafn.com/1103956202/Dubai-Police-officer-named-among-30-leading-Arab-artificial-intelligence-experts"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 47
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 49
     images:
-      - url: "https://static.zawya.com/version/c:YzI4MzkyN2QtNmM3YS00:ZDdkN2Q1/130417074814qcoy-jpg.jpg"
-        width: 800
-        height: 519
+      - url: "https://menafn.com/updates/pr/2022-04/03/KT_f28c3image_story.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Thought leaders and early adopters of AI to share insights at World AI Show in Dubai"
     excerpt: "Trescon's World AI Show will bring together pre-qualified CIOs, CEOs, CTOs, Heads of AI, Chief Digital Officers, Heads of Innovation and International AI experts, all under one roof"

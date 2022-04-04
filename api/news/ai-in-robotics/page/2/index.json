@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-23-handheld-robot-uses-ai-to-help-first-responders-stem-bleeding.md",
+      "title": "Handheld robot uses AI to help first responders stem bleeding",
+      "excerpt": "Researchers at MIT's Lincoln Laboratory have developed a handheld robot that can help minimally trained responders to control severe internal bleeding in victims of traumatic injury, by helping them insert a needle and catheter into a major blood vessel.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/",
+      "originalUrl": "https://newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/450aa75/2147483647/strip/true/crop/900x600+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F66%2F91%2Fcc101cde4df58d8ff485eaec84a3%2Fai-guide.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/?amp=true",
+      "publishedDateTime": "2022-03-22T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech.md",
       "title": "NVIDIA Unleashes Arsenal Of AI Innovation With Hopper GPU, Grace CPU, Interconnect And Robotics Tech",
       "excerpt": "This year's NVIDIA's GTC keynote was actually a live demo, delivered from the simulated constructs of the metaverse, and the announcements in silicon and AI innovation were more than impressive.",
@@ -1248,49 +1300,6 @@
       "provider": {
         "name": "finanzen",
         "domain": "finanzen.at",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-easing-financial-nerves-with-artificial-intelligence.md",
-      "title": "Easing Financial Nerves With Artificial Intelligence",
-      "excerpt": "In 2022, global anxiety feels unavoidable. From climate change to the continued impact of Covid-19, we are experiencing challenges affecting everyone across the globe. Business leaders are not exempt from this fear.",
-      "sourceUrl": null,
-      "webUrl": "https://internationalbanker.com/technology/easing-financial-nerves-with-artificial-intelligence/",
-      "originalUrl": "https://internationalbanker.com/technology/easing-financial-nerves-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://internationalbanker.com/wp-content/uploads/2022/03/Artificial-Intelligence.png",
-          "width": 1339,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Banker",
-        "domain": "internationalbanker.com",
         "images": null,
         "publishers": null,
         "authors": null
