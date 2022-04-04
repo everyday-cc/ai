@@ -28,17 +28,17 @@ images:
 related:
   - title: "Texas researchers tackle AI that gave us ‘White Obama’"
     excerpt: "Researchers at the University of Texas at Austin are leading the way when it comes to fine-tuning the accuracy of artificial intelligence."
-    publishedDateTime: 2022-04-02T21:55:00Z
-    webUrl: "https://www.wnct.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/"
-    ampWebUrl: "https://www.wnct.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
-    cdnAmpWebUrl: "https://www-wnct-com.cdn.ampproject.org/c/s/www.wnct.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
+    publishedDateTime: 2022-04-02T23:07:00Z
+    webUrl: "https://fox2now.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/"
+    ampWebUrl: "https://fox2now.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
+    cdnAmpWebUrl: "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
     type: article
     provider:
-      name: WNCT
-      domain: wnct.com
+      name: Fox2Now St. Louis
+      domain: fox2now.com
     quality: 57
     images:
-      - url: "https://www.wnct.com/wp-content/uploads/sites/99/2022/04/OBAMA-AI.jpg?w=1280"
+      - url: "https://fox2now.com/wp-content/uploads/sites/14/2022/04/OBAMA-AI.jpg?w=1280"
         width: 1122
         height: 629
         isCached: true

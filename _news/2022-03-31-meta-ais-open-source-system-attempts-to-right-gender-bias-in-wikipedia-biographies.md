@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/30/meta-ais-open-source-system-attem
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/amp/"
 type: article
 quality: 83
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-04/meta_wikipedia_010422-seo.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Meta researcher using AI to address Wikipedia's gender gap"
-    excerpt: "Meta researcher Angela Fan is employing a novel approach to get Wikipedia to include more biographies of women: She's using AI to write the rough drafts. Why it matters: Only about 20 percent of those profiled on the online encyclopedia are women,"
-    publishedDateTime: 2022-03-30T13:30:00Z
-    webUrl: "https://www.axios.com/meta-researcher-ai-wikipedia-gender-gap-fe6db4c3-f04b-4ce9-8516-8777234c1b74.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 39
-    images:
-      - url: "https://images.axios.com/axWSCh-Q9neVINgL4--hlzxmjUo=/0x0:1886x1061/1366x768/2022/03/30/1648604787861.png"
-        width: 1366
-        height: 768
         isCached: true
   - title: "Meta open-sources AI models to generate biographies for notable women on Wikipedia"
     excerpt: "Meta Platforms Inc.’s artificial intelligence research unit said today it has developed an AI model that can research and write drafts of Wikipedia-style biographical entries, in order to address a noticeable imbalance on the world’s most popular encyclopedia."

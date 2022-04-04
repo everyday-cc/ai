@@ -38,6 +38,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Why AI In Insurance Is The Key To Survival"
+    excerpt: "Insurance is one of these areas, with providers increasingly leveraging AI to understand risk and reduce costs. Examples within the consumer field include \"black box\" telematics platforms that allow providers to gather all the relevant data points necessary to understand someone's driving style and adjust their premiums."
+    publishedDateTime: 2022-04-01T17:20:00Z
+    webUrl: "https://insurancenewsnet.com/innarticle/why-ai-in-insurance-is-the-key-to-survival"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 17
   - title: "How Are Wearable Sensors and AI Technologies Being Used in Child Psychiatry Research?"
     excerpt: "Investigators from the Mayo Clinic searched publication databases with the goal of understanding how wearable devices were being used in child psychiatry research and how the understanding of pediatric psychiatric disorders has been enhanced by artificial intelligence technologies."
     publishedDateTime: 2022-03-31T14:09:00Z

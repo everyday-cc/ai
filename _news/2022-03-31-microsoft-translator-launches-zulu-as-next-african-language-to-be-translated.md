@@ -7,7 +7,7 @@ originalUrl: "https://za.investing.com/news/microsoft-translator-launches-zulu-a
 webUrl: "https://za.investing.com/news/microsoft-translator-launches-zulu-as-next-african-language-to-be-translated-2530103"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Adds IsiZulu To Cognitive Services Translator, Bing, LinkedIn"
+    excerpt: "Microsoft (NASDAQ: MSFT ) has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages. This development announced on Thursday is across the entire Microsoft ecosystem of products and services."
+    publishedDateTime: 2022-04-04T07:13:00Z
+    webUrl: "https://za.investing.com/news/microsoft-adds-isizulu-to-cognitive-services-translator-bing-linkedin-2531559"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 54
+    images:
+      - url: "https://d71-invdn-com.investing.com/content/pic843b8ee3e77e75b195875aa09f7635dc.jpg"
+        width: 559
+        height: 314
+        isCached: true
   - title: "Microsoft Translator launches Zulu as next African language to be translated"
     excerpt: "Microsoft has added Zulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages across the entire Microsoft ecosystem of products and services."
     publishedDateTime: 2022-04-01T22:00:00Z

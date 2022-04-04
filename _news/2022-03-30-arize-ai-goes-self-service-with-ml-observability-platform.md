@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - IBM AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-532029221.jpg?fit=800%2C596&strip=all"

@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Provenir Named 2022 Fintech Innovator of the Year Finalist by the Canadian Lenders Association"
+    excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced that it is a finalist in the “Fintech Innovator of the Year” category for the 2022 Leaders in Lending Awards by the Canadian Lenders Association (CLA)."
+    publishedDateTime: 2022-03-31T16:44:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-parsippany-0fd1764b36854eb29437338973f9aec1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 12
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "dISt0KiUEDDaN9h8U1gI1PbFCgnDfuHhpFmOAc1ar+59l/J/U9NDvw6LNe5Ha2VwEnlH06mr+o/QGxg4LRhtuNiLquQCPqPHDLRC+KhLIHKZOINgUc2oOOk2gi7QUoCw/taOJr9geFjDUIMZTLdvT+Z65U7xlsJTFP/258V7WjvHreYc4PEXLu0BnIl4nkP47ME4SqOG8f0kewQ8FDZsjwKNDBIClv+oEOsGsPxr8hLlO3bxwtGBncCdThbYerAx5m3beJzuI3sSc10glWv8xYim3Pgw4VqXHUYfR8dINaUhIDP+s8iNHTZFX2g/8QTXOEdsnU143t2AhH5TX61Akk3Y8CMguTXRjEvrNe1Wmyg=;ulSTbbGAzKZltM+n0L1VMw=="
 ---

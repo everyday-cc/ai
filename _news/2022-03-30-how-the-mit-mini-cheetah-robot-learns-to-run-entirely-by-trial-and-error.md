@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - IBM AI
 
 images:
   - url: "https://scitechdaily.com/images/MIT-Mini-Cheetah-777x518.jpg"

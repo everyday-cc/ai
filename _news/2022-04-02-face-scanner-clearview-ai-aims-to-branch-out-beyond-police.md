@@ -40,6 +40,20 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "Face scanner Clearview AI aims to branch out beyond police"
+    excerpt: "A controversial face recognition company that’s built a massive photographic dossier of the world's people for use by police, national governments and – most recently – the Ukrainian military is now planning to offer its technology to banks and other private businesses."
+    publishedDateTime: 2022-04-04T07:45:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/04/04/face-scanner-clearview-ai-aims-to-branch-out-beyond-police"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/04/04/1538710.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "zegVG5aeHM7R9JyMXnl2e+zU/LS0IOzbA4GMhV76ot8sPE+dBCxlWV2wVO+UvA3dsJZ34thK3eCeBIDgy30D62iM0TdpR1rR7SAq6VlGT+E2p/NjX9OpA4tN+lpLBq5xmcBgi95ZT87kK8kbPRO198ZOPTUOecVIUH8gGsd3zYfrJizkX6PoD+t/M1zwRAY6nKGQJfmW/GhCo4qdI2zvNkwwQLojT4rGO22iMiXeQNq+tw7zmMFxy/SKTABTMb8JV/H4jk5UwlPY3CcEsYhr+lkxyL6FsuxQ6LHLxrwAkBkscU/Ho3BqLUSA7KBbhacRAjMlvFJeY2WobLi17qauLJosQaykWbqY6sMcrSXSpQo=;ZNB+3fCYcxN4QMTw2FBaxw=="
 ---

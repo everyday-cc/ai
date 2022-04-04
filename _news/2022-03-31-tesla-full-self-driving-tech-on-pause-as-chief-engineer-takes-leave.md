@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla’s Full Self-Driving Beta Should Be Ready For Some Europeans In Summer"
-    excerpt: "Tesla's Tesla's Full Self-Driving Beta should be ready for some Europeans this summer. Here are all the details on this."
-    publishedDateTime: 2022-03-30T13:56:00Z
-    webUrl: "https://www.redmondpie.com/teslas-full-self-driving-beta-should-be-ready-for-some-europeans-in-summer/"
-    type: article
-    provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 37
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "B.C. resident amongst first group of drivers in Canada to receive Tesla's new self-driving software"
     excerpt: "Tesla starting to roll out the beta version of its self-driving system to owners in Canada. The new software is a level two semi-autonomous, meaning the vehicle can drive itself with some assistance from the driver."
     publishedDateTime: 2022-03-31T15:39:00Z

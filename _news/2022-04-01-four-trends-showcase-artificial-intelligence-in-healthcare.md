@@ -36,20 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "Fraud prevention is the biggest driver for investments in AI"
-    excerpt: "Provenir has found in its newest study that more than 90% of European fintechs will adopt AI-enabled risk decisioning to combat fraud"
-    publishedDateTime: 2022-03-30T15:00:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fraud-prevention-is-the-biggest-driver-for-investments-in-ai"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/320/bfca612340fe1f864902b119bca0d493:80e4dca0cc1926f25a00854946cb3bae/gettyimages-1222889675.jpg"
-        width: 320
-        height: 242
-        isCached: true
   - title: "AI Is Transforming Customer Experience Across Industries – But What About Healthcare?"
     excerpt: "Patients are wielding their power as consumers, and AI might just be the key for healthcare marketers to unlock the new patient economy."
     publishedDateTime: 2022-04-01T04:35:00Z

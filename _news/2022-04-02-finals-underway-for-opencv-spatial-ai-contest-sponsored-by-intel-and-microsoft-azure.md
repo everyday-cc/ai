@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26435461"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26435461"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intel Unveils First AI Incubator Lab"
+    excerpt: "Intel's AI for Workforce program, an effort to promote workforce skills in artificial intelligence through partnerships with community colleges, governments and other organizations, has announced its first AI incubator lab. Housed at Chandler-Gilbert ..."
+    publishedDateTime: 2022-04-03T15:39:00Z
+    webUrl: "https://campustechnology.com/Articles/2022/03/29/Intel-Unveils-First-AI-Incubator-Lab.aspx?p=1"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 37
+    images:
+      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Contact Center Intelligence Market to See Booming Growth | IBM, Google, Microsoft"
     excerpt: "The latest study released on the Global Contact Center Intelligence Market by AMA Research evaluates market size, trend, and forecast to 2027. The Contact"
     publishedDateTime: 2022-03-31T10:39:00Z

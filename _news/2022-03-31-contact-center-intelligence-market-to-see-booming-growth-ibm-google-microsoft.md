@@ -42,6 +42,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Intel Unveils First AI Incubator Lab"
+    excerpt: "Intel's AI for Workforce program, an effort to promote workforce skills in artificial intelligence through partnerships with community colleges, governments and other organizations, has announced its first AI incubator lab. Housed at Chandler-Gilbert ..."
+    publishedDateTime: 2022-04-03T15:39:00Z
+    webUrl: "https://campustechnology.com/Articles/2022/03/29/Intel-Unveils-First-AI-Incubator-Lab.aspx?p=1"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 37
+    images:
+      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "iuhdQAHAm8s0Amgi5NaXmdddJ5R766YeKR62k163VyuzNsxgojy3Ch78xvH2EkYExWsqpAhqavxUXV+nXjCRl0e+UhoXwMACJdK0vjhqjYA3JmA5rAcHGqyO6I3gaT3j5LXRsSsNBxVefaJqeuZNYf25ADnRiJPpZfu17d1B1I6zstxY/nN1+9cQhUU3EiA2/lXm5CZYPIISxdLLWzbB8YlD5EmAs6NSUOm0UoFlUGvLO/8DK3pDqkTuitPPAFWp8+tQi9cpQe3YU424GmiVQy0shPov8pLDswpbJfFioQUEQOX6BD7Sp39/wsItlJuL1SLpWCj2LHy19DphTl0CzGU7kzzdeyruyC4t/9C2vpE=;NGG/ENDfJZQk2VQoVdFPxg=="
 ---

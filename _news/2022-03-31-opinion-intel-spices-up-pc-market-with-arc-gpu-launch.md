@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techspot.com/amp/news/93984-opinion-intel-spices-up-pc-m
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 189
+published: true
 
 provider:
   name: TechSpot
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel ARC Invades The Dedicated GPU Market With Truly Exciting Features"
-    excerpt: "Everything you need to know about Intel Arc A-Series graphics. Plus: How Team Blue is doing things differently than AMD and Nvidia, while still catering to both gamers and content creators."
-    publishedDateTime: 2022-03-30T14:59:00Z
-    webUrl: "https://www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/"
-    ampWebUrl: "https://www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62443dfb55a2f5a5444ab6ab/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Intel teases first Arc A-series desktop GPU ahead of summer launch"
     excerpt: "Intel says it will release its first Arc A-series desktop GPU this summer, and has offered a brief peek at the card itself.."
     publishedDateTime: 2022-03-30T17:13:00Z
@@ -108,6 +92,20 @@ related:
       - url: "https://propakistani.pk/wp-content/uploads/2022/04/intel-1.jpg"
         width: 1000
         height: 560
+        isCached: true
+  - title: "Intel inadvertently leaks the details of its flagship Arc GPU"
+    excerpt: "Arc Control is the name of the software that Intel is set to introduce to support Arc GPUs. The Arc Control software includes GPU monitoring capabilities, which was the source of"
+    publishedDateTime: 2022-04-04T06:37:00Z
+    webUrl: "https://www.pcgamer.com/au/intel-inadvertently-leaks-the-details-of-its-flagship-arc-gpu/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/VoteNKabkNvagt7a9RJyMg-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Intel Shows off the First Arc A-Series Desktop GPU; Slated to Release in Summer 2022"
     excerpt: "Intel has revealed its first Intel Arc desktop GPU, along with its A-series Arc Gaming GPUs for laptops. Here are the details to know."
@@ -181,15 +179,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "AMD reminds us that its mobile GPU is more powerful than Intel's"
-    excerpt: "Intel had a pretty exciting week with the announcement of its Arc 3 laptop GPUs. During its presentation, Intel showed off several slides showing how the Arc 3 mobile graphics silicon fares against their own previous gen Iris X."
-    publishedDateTime: 2022-04-01T17:26:00Z
-    webUrl: "https://www.pcgamer.com/au/amd-reminds-us-that-its-mobile-gpu-is-more-powerful-than-intels/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 19
 
 secured: "6qhu18868PJU2JDNlqCXJV9V05LnotQ0gNE5hGg+CBe65HhD7aw1OQqZ+tjRWsy7Z6O+83LOx57b4FaNlloDMFFz+buKF4XZBt30XOgmpF9GReHyAIbxDubbs0okkKIatFyrhiurXbnt30oX8Zwox+l2nbsrPLbv/pHrDueZ6F4+KiGx89/xTTjhSaLXuatbnVwoiMMQCmm6k6VTSbuRZkkGAW9e1WKc4QMXAXrtb5801syJ9z8uxx3vDJJhyI6r0A4pkhsbAPjIBS4IAyeCbZCAITeCv/96L5rOD4JUK5vaBNnscVKcgz7ga2bNaTxn152Fvltpovot0Ct/bZ2VeRPP10uD7BDCmCokg7CgqGuE4FyKmKSxQu2RC2kKzxPlZsj4ENU9zlx4oge58HR/GZTmK+V5OZtaGs5my0kgmjfLkm7+D6Jo28LK1CTjDBvEjMQ0iN7r2EgFCD0Wh6bBL7SvFn6Yr/XegKFD8kpoAAkuIUCQ1IqSBL7C8iuQlWuabkU2M82DcHK6PwOoIVXGrA==;p2v66eTg8rh3OSFs0OKFLQ=="
 ---

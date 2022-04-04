@@ -9,7 +9,7 @@ ampWebUrl: "https://www.herald.ng/artificial-intelligence-and-robotics-in-legal-
 cdnAmpWebUrl: "https://www-herald-ng.cdn.ampproject.org/c/s/www.herald.ng/artificial-intelligence-and-robotics-in-legal-space/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Adversarial AI and the dystopian future of tech"
+    excerpt: "The occurrence of an adversarial attack on AI or machine learning highlights a deep crack in the AI mechanisms."
+    publishedDateTime: 2022-04-03T23:10:00Z
+    webUrl: "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/"
+    ampWebUrl: "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1304572540.jpg?w=1200&strip=all"
+        width: 1200
+        height: 626
+        isCached: true
   - title: "Scientists use AI and robotics to repair spinal injury symptoms"
     excerpt: "A team at Rutgers University have figured out how to regenerate tissue for spinal injury symptoms - using AI to create therapeutic proteins"
     publishedDateTime: 2022-04-01T11:43:00Z

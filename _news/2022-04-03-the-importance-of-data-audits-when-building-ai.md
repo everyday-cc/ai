@@ -30,19 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Importance of Ethics in Computer Science"
-    excerpt: "As society's reliance on technology increases, computer scientists are now placed at the forefront of new and unique ethical decisions. However, most computer science curricula don't require a substantial education in ethics,"
-    publishedDateTime: 2022-03-30T14:32:00Z
-    webUrl: "https://cns.utexas.edu/news/the-importance-of-ethics-in-computer-science"
+  - title: "The Age of Artificial Intelligence and Cloud Computing"
+    excerpt: "The use of AI in legacy modernization will reduce time-to-market, boost reliability, and motivate organizations to modernize applications at a faster pace."
+    publishedDateTime: 2022-04-02T11:08:00Z
+    webUrl: "https://www.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
+    ampWebUrl: "https://amp.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
+    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
     type: article
     provider:
-      name: The University of Texas at Austin
-      domain: utexas.edu
-    quality: 39
+      name: Ellen
+      domain: ibtimes.sg
+    quality: 59
     images:
-      - url: "https://cns.utexas.edu/images/easyblog_shared/2022/b2ap3_large_Ethics-in-Computer-Science-Hero.jpeg"
-        width: 700
-        height: 420
+      - url: "https://data.ibtimes.sg/en/full/56509/vaidyanathan-ganesa-sankaran.jpg"
+        width: 960
+        height: 675
         isCached: true
 
 secured: "EyrvtTQcXGaDJvYHqiCI8eW/8X1YKj41xIzoDHEDIBQkb0pjeP03e3P9XvZ/rwgeVFun622jpldy3tn8VKlSueYZLau1KDaydUsldVu3CxUwc3k9o8oBv3qXYKPeEAyIIQl6MfSKkFyr14eyHjz0BYLD9zQgbglV5+3U+Zz/b+ZoEyS+tRg5fgtvhjhGK8HC6PwJ1gZ2rrr6Ss5tMc/SF4TSv8cYUWOvyznzNKtMR2HDy+1bPAc4cL8z+pkAhgghOUZCuxCGCwYoXkhTrQ37yYuWVEepXu0SFsXU0HPpeAIQOuKQ5fDtVRo1m2jd4fpyF+fZN3MEETHzkbV3hkdhFkUQ6w3+ZN7rglsVhBLt73enHK7vPMPyXmfZUZifXwyDKoPTUWo6vHklO1lZ+zAMmi4EBJu3jhIsXsZeZ5ZCefX5jDnTGaxPagfptn742WkZVasttaOJI2W/hCXAHr+Gjd1afetNkBdsD5MgUkDcUdDohNH/+c68mQiMQMgAIlXBpkclK5Mzm9T0w/VJNRvS5g==;BeorfT5pHRJBi7guuLBgDg=="

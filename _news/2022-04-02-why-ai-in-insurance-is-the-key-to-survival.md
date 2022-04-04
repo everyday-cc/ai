@@ -18,77 +18,43 @@ topics:
   - AI
 
 related:
-  - title: "How to find the business value in AI and ML"
-    excerpt: "Despite the fact that businesses are increasingly undertaking initiatives to leverage ML and AI, many tools and projects lack appropriate resources, are far less productive than they should be, lag in deployment,"
-    publishedDateTime: 2022-03-30T13:11:00Z
-    webUrl: "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/"
-    ampWebUrl: "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/amp/"
+  - title: "Foresight Research: Consumer Resistance to Banking AI"
+    excerpt: "... and surveyed 400 consumers of banking products and services to find out the resistance to AI in 10 Southeast and Midwest markets. To start with, about 80% of all consumers are comfortable with asking banking questions or gathering advice on ..."
+    publishedDateTime: 2022-04-01T15:17:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/foresight-research-consumer-resistance-to-banking-ai/article_56c21e21-2ad4-5566-b1bd-45c397bffe74.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1336522614.jpg?w=1200&strip=all"
-        width: 1200
-        height: 620
-        isCached: true
-  - title: "Adversarial AI and the dystopian future of tech"
-    excerpt: "The occurrence of an adversarial attack on AI or machine learning highlights a deep crack in the AI mechanisms."
-    publishedDateTime: 2022-04-03T23:10:00Z
-    webUrl: "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/"
-    ampWebUrl: "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1304572540.jpg?w=1200&strip=all"
-        width: 1200
-        height: 626
-        isCached: true
-  - title: "The Age of Artificial Intelligence and Cloud Computing"
-    excerpt: "The use of AI in legacy modernization will reduce time-to-market, boost reliability, and motivate organizations to modernize applications at a faster pace."
-    publishedDateTime: 2022-04-02T11:08:00Z
-    webUrl: "https://www.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
-    ampWebUrl: "https://amp.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
-    type: article
-    provider:
-      name: Ellen
-      domain: ibtimes.sg
-    quality: 59
-    images:
-      - url: "https://data.ibtimes.sg/en/full/56509/vaidyanathan-ganesa-sankaran.jpg"
-        width: 960
-        height: 675
-        isCached: true
-  - title: "AI And The Secret To Employee Happiness"
-    excerpt: "People want a better work experience—and they’ll take their talents elsewhere if they don’t get it. AI can help you deliver."
-    publishedDateTime: 2022-04-01T18:14:00Z
-    webUrl: "https://www.forbes.com/sites/servicenow/2022/04/01/ai-and-the-secret-to-employee-happiness/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Hand-wringing about AI spreads to government and big business"
-    excerpt: "A UK justice committee has reacted with alarm at the lack of awareness, control and oversight of AI technologies including biometric surveillance."
-    publishedDateTime: 2022-04-01T16:37:00Z
-    webUrl: "https://www.biometricupdate.com/202204/hand-wringing-about-ai-spreads-to-government-and-big-business"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 37
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
-        width: 1600
-        height: 1109
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
+  - title: "Foresight Research: Consumer Resistance to Banking AI"
+    excerpt: "Few banks are disclosing the number of AI users that engage with their chatbots. Why? Bank of America reported about 20 million or about 30% of their customers arere using ERICA – their chatbot. ERICA has been in use for about 4 years,"
+    publishedDateTime: 2022-04-01T20:39:00Z
+    webUrl: "https://www.khon2.com/business/press-releases/cision/20220401DE10867/foresight-research-consumer-resistance-to-banking-ai/"
+    type: article
+    provider:
+      name: KHON2
+      domain: khon2.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/www.khon2.com/wp-content/uploads/sites/8/2022/04/0401.jpg?w=2000&#038;ssl=1"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "How Are Wearable Sensors and AI Technologies Being Used in Child Psychiatry Research?"
+    excerpt: "Investigators from the Mayo Clinic searched publication databases with the goal of understanding how wearable devices were being used in child psychiatry research and how the understanding of pediatric psychiatric disorders has been enhanced by artificial intelligence technologies."
+    publishedDateTime: 2022-03-31T14:09:00Z
+    webUrl: "https://www.psychiatryadvisor.com/home/topics/child-adolescent-psychiatry/wearable-sensors-and-ai-in-child-psychiatry-research/"
+    type: article
+    provider:
+      name: psychiatryadvisor.com
+      domain: psychiatryadvisor.com
+    quality: 10
 
 secured: "DMFwbVvNS2frenKq89SVMNuUAK6fBe95arpJOaT4qqB6/t5MoxuNu8fbZ9SjYUajU1+cfs6SHA9p+dp2QPXBnoMWjewKIbitZpdiPBSdGA8X1pTb1kAOsuxOpH0CmLDrAtd7vr9vT67fRxBUmARvXBR/PWaNxr68wVzCikvfVscRDVCua471+iZgfUmPYsxSFBeu38j8jySlI+sg4lcvzktWa2RBdiR4U8JNyENcqmpKMFGNbxX3bBphNqnfRTA93rIjZRLVz4lnJIs8OI+k0bR3AxgkloF1tirfyJobsT769vDo6CohvpkLJFYYv/U/vJH0Dq+0N+qav3LWoSfJpyypxSemcSwPdS+XCQQ7+6lWrRjeLV9phOTO+dO+VlCZ/KuJkbmWte2N3lLDOifofk8iNko0BIFWSMFhsr0CAL+tB7EXjkZ/RJvddd4c6umZTqzT7AS2LPg0zPFbnSwjiD6Nsxqp/zjMKO3EnqZMfbmrOJ8Nt00IZ/2vJ67bF71EDfiCVOLAd8gN7VHFZjsy8g==;W1GLJh1RmbJgHiQq4XhFrg=="
 ---

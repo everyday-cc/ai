@@ -7,7 +7,7 @@ originalUrl: "https://jerseyeveningpost.com/uncategorised/2022/03/31/a-berlin-tr
 webUrl: "https://jerseyeveningpost.com/uncategorised/2022/03/31/a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras/"
 type: article
 quality: 62
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Cameras To 'Keep An Eye' On Suspects In Kancheepuram"
-    excerpt: "The surveillance system will trigger an alert whenever suspects with criminal antecedents pass through dozens of sophisticated cameras, installed along the industrial belt of Oragadam in"
-    publishedDateTime: 2022-03-30T13:50:00Z
-    webUrl: "https://thelogicalindian.com/trending/facial-recognition-cameras-34740"
-    ampWebUrl: "https://thelogicalindian.com/amp/trending/facial-recognition-cameras-34740"
-    cdnAmpWebUrl: "https://thelogicalindian-com.cdn.ampproject.org/c/s/thelogicalindian.com/amp/trending/facial-recognition-cameras-34740"
-    type: article
-    provider:
-      name: The Logical Indian
-      domain: thelogicalindian.com
-    quality: 59
-    images:
-      - url: "https://thelogicalindian.com/h-upload/2022/03/30/214615-untitled-design-2022-03-30t162035427.jpg"
-        width: 1080
-        height: 1080
-        isCached: true
   - title: "Panel calls for tougher rules on facial recognition use"
     excerpt: "A state commission is recommending strict new limits on the use of facial recognition technology by law enforcement officials and a requirement that judges issue probable cause warrants"
     publishedDateTime: 2022-03-31T10:00:00Z

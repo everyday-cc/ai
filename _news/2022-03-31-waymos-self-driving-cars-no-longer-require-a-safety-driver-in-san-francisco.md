@@ -41,22 +41,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "'A ghost is driving the car' — my peaceful and productive experience in a Waymo self-driving van"
-    excerpt: "Riding in a self-driving van underscored the potential of autonomous vehicles, which some believe will be a multitrillion-dollar market for investors."
-    publishedDateTime: 2022-03-30T14:34:00Z
-    webUrl: "https://www.cnbc.com/2022/03/30/waymo-self-driving-experience-mostly-peaceful-and-productive.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/03/30/waymo-self-driving-experience-mostly-peaceful-and-productive.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/03/30/waymo-self-driving-experience-mostly-peaceful-and-productive.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 76
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107037293-IMG-9997.jpg?v=1648561728"
-        width: 4032
-        height: 3024
-        isCached: true
   - title: "Waymo’s self-driving ride-hailing service coming to San Francisco"
     excerpt: "The autonomous vehicle unit of Alphabet, Google’s parent company, said Wednesday that it started carrying employees in electric Jaguar I-Pace SUVs without human backup drivers. Previously the ..."
     publishedDateTime: 2022-03-30T15:21:00Z

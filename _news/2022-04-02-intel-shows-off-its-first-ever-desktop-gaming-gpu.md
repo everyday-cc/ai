@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel ARC Invades The Dedicated GPU Market With Truly Exciting Features"
-    excerpt: "Everything you need to know about Intel Arc A-Series graphics. Plus: How Team Blue is doing things differently than AMD and Nvidia, while still catering to both gamers and content creators."
-    publishedDateTime: 2022-03-30T14:59:00Z
-    webUrl: "https://www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/"
-    ampWebUrl: "https://www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jasonevangelho/2022/03/30/intel-arc-invades-the-dedicated-gpu-market-with-truly-exciting-features/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62443dfb55a2f5a5444ab6ab/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Opinion: Intel spices up PC market with Arc GPU launch"
     excerpt: "Intel officially announced today the Arc A series, which is targeted at laptops. A version of Arc for desktops has been promised for the second quarter,"
     publishedDateTime: 2022-03-30T18:36:00Z
@@ -104,6 +88,20 @@ related:
       - url: "https://d30xqvs6b65d10.cloudfront.net/wp-content/uploads/2022/03/intel-arc-a-series-1-16x9.jpg.rendition.intel_.web_.1648.927.jpg"
         width: 1648
         height: 927
+        isCached: true
+  - title: "Intel inadvertently leaks the details of its flagship Arc GPU"
+    excerpt: "Arc Control is the name of the software that Intel is set to introduce to support Arc GPUs. The Arc Control software includes GPU monitoring capabilities, which was the source of"
+    publishedDateTime: 2022-04-04T06:37:00Z
+    webUrl: "https://www.pcgamer.com/au/intel-inadvertently-leaks-the-details-of-its-flagship-arc-gpu/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/VoteNKabkNvagt7a9RJyMg-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Intel Shows off the First Arc A-Series Desktop GPU; Slated to Release in Summer 2022"
     excerpt: "Intel has revealed its first Intel Arc desktop GPU, along with its A-series Arc Gaming GPUs for laptops. Here are the details to know."
@@ -177,15 +175,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "AMD reminds us that its mobile GPU is more powerful than Intel's"
-    excerpt: "Intel had a pretty exciting week with the announcement of its Arc 3 laptop GPUs. During its presentation, Intel showed off several slides showing how the Arc 3 mobile graphics silicon fares against their own previous gen Iris X."
-    publishedDateTime: 2022-04-01T17:26:00Z
-    webUrl: "https://www.pcgamer.com/au/amd-reminds-us-that-its-mobile-gpu-is-more-powerful-than-intels/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 19
 
 secured: "KJOU7So1sEHxxxaUU7ozVGsksX2poA9IrYuSrtTAFiGrUTYTTILO5QXqypPaa7hYGcMX6e1+6UNdlKytlcc2GBZBg5KYfQ1+cz0xZZmf12IsxMt4BkLO3XZnmhsX0oBiMfyFFXWvuc8N/07d7whBqI/1ogvXqjoCllV7pN9/53oPOodDx6MoCyE7Y2ic0ELpt2sbbLjpRUd0RSDA4fuGHtRIP8sMBJwXLKHI8CzlsY6YJS9s/A6zT9rQgw1VDBMjLtQ6vtigw+qC1dZ3Dda+rkLkWBQbrmUKwEXqMbtsyCeyzf53BQYHNt0WCZejfK6Lah4YxSwCRy/mUX54M7fOU+5W1gBs/tV7pz8Tdh11pvi607DDfom8XT1q2z+ZwNQFmmJfYjq9w0dtCreoJxAfweQQ3tpARQU+5p6BXQwGIj1iZWZ3S/JXs47Rp3d4yj7bJ3R3e5YmAlVEwyTqM3a6iu98DEQXb74jo8vm30OmBL5PSUjhXu2WuyJahVyWFmaztIlnZ6Io5Os0L5Dw5sz7TA==;mJA6B0dlA3dwZxquUlLwDw=="
 ---

@@ -2,25 +2,25 @@
 category: news
 title: "Texas researchers tackle AI that gave us ‘White Obama’"
 excerpt: "Researchers at the University of Texas at Austin are leading the way when it comes to fine-tuning the accuracy of artificial intelligence."
-publishedDateTime: 2022-04-02T21:55:00Z
-originalUrl: "https://www.wnct.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/"
-webUrl: "https://www.wnct.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/"
-ampWebUrl: "https://www.wnct.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
-cdnAmpWebUrl: "https://www-wnct-com.cdn.ampproject.org/c/s/www.wnct.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
+publishedDateTime: 2022-04-02T23:07:00Z
+originalUrl: "https://fox2now.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/"
+webUrl: "https://fox2now.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/"
+ampWebUrl: "https://fox2now.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
+cdnAmpWebUrl: "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: WNCT
-  domain: wnct.com
+  name: Fox2Now St. Louis
+  domain: fox2now.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.wnct.com/wp-content/uploads/sites/99/2022/04/OBAMA-AI.jpg?w=1280"
+  - url: "https://fox2now.com/wp-content/uploads/sites/14/2022/04/OBAMA-AI.jpg?w=1280"
     width: 1122
     height: 629
     isCached: true
@@ -43,6 +43,6 @@ related:
         height: 629
         isCached: true
 
-secured: "vK55+Wt62/p8adqQob8ZkRLDL/q/d9puqLaTGIIg1EzE1HNNmp6zhuIxtIiTny7cQyVQ0YzLTvzqmmxHtIEQNTp6FljI69DlFg6AL5NiRfRmBaAoFkOR93Kqt7s9qRcszsGuGIo83eM8oUO4/bWXqnPVo39hQ4vZ+6aBblHcDpClMrCp0CmyOHrZiGnwvlFr3GnvbDyVGbpOg8nrmhrHg8vCKfpDGD8FCljxXuIggpPJsekDQxloXOsGGNy3/tA5Ge8RuXHVyMQdeWC0kxgc3klgW+TtoDij53vEQ1iLoyq7nqJz32TUej+3/ZEk00JbxeBZ2W03nss6gnB3psyibzxx86JqY+nJbHYOceJuFkw=;fn6UHwtTtPcboYkBxpAIow=="
+secured: "lWfb5nXdnqTKxJFQhwf7T+jmQhDAWRj2FQtX0vpDBqJusjLzvBi5du6qLh/FjyT0IosKaA3F8d0Zz09HbaqNc2B9ZRkHqrGs7R6DexkjY8Bstb1VMakC9G+msDAvN0KwxB5lYWNLsKVRKGm8HqcQk3iUnhwYCkS7KRTXhLTNMpgiGTYpM4Z6wEsN4scu+bIXZPXRgpEMNnQelQXLSTX/Vj1c4b3z+mEGkC+zJcbH3HDBFR1ghgKCXyol4Kx5oLFD7vYUUXX/5FwH61tariO595f4MCO4nV6EpjLjwCJ2uvqG2GtLuo2UbRqQddx9vqulTvcKCcdj9rLo0j4v+wEHIAOWQ93mON/kvgfonpN9MFE=;tEPHfi+CjADTDMJzUWRyRQ=="
 ---
 

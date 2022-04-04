@@ -18,15 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "Aera Technology Named Winner in 2022 Artificial Intelligence Excellence Awards"
-    excerpt: "Aera Technology, the Decision Intelligence company, today announced it has been named a winner in the Business Intelligence Group's Artificial Intelligence Excellence Awards. Aera was recognized for its innovative Aera Decision Cloud™ platform,"
-    publishedDateTime: 2022-03-30T13:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aera-technology-named-winner-2022-artificial-intelligence-excellence-/2022/03/30/9573441.htm"
+  - title: "Full Sail University's Computer Science Bachelor of Science Degree Program Launches Its Artificial Intelligence Concentration"
+    excerpt: "Full Sail University is an award-winning higher education institution for those pursuing careers in entertainment media and emerging technologies. Today, the university is proud to announce that the Computer Science Bachelor of Science degree program has launched its Artificial Intelligence (AI) concentration."
+    publishedDateTime: 2022-03-31T13:10:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/full-sail-universitys-computer-science-bachelor-of-science-degree-program-launches-its-artificial-intelligence-concentration/article_36ce6f40-25e1-5e17-8752-09a21a96e89b.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 27
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "University of Tübingen: Degree program combines radiation science with artificial intelligence"
+    excerpt: "From the 2022/23 winter semester, the University of Tübingen will be offering the first profile area in Germany, “Artificial Intelligence in Medical Radiation Sciences”. In the Medical Radiation Sciences master’s degree,"
+    publishedDateTime: 2022-03-31T02:24:00Z
+    webUrl: "https://indiaeducationdiary.in/university-of-tubingen-degree-program-combines-radiation-science-with-artificial-intelligence/"
+    ampWebUrl: "https://indiaeducationdiary.in/university-of-tubingen-degree-program-combines-radiation-science-with-artificial-intelligence/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-tubingen-degree-program-combines-radiation-science-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 27
 
 secured: "HFcgvHcSn/G34SkJODeB+D4JgHSZ/2yizNdCpb/qHygSlhN07QY0DolshjkZvlKCiI/EyIjfXkWE1TROzDaoLUoSBscNyzjcyl1ee1LBGzWU0GHKZ5qdPGcthKe4xmdgOVbHgdD/G5CuCKoID06qtqocFDkujefHbKY46dVAbFSxUS2ajMBLndDjgWTqVzcjgpNrJVM6iL1BMt1A6R0Z4YtUM1CZuK3i3aH3LkkcbzLOTnW0WY63iKsQ4MdP/XdOeaeC/c+OUd/lMLjwcij4oSotUg0B48PVX5W7OM9PUFmsIWMkkKy2w1251+MzfcxIyFSGnWX8z7QXi6L1ysnHGHONbhWfia7S+jbZ4cu3CUA=;5psCyBqZJtSL1VBgR5v9HQ=="
 ---

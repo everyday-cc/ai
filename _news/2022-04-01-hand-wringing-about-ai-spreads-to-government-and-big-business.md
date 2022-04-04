@@ -24,72 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "How to find the business value in AI and ML"
-    excerpt: "Despite the fact that businesses are increasingly undertaking initiatives to leverage ML and AI, many tools and projects lack appropriate resources, are far less productive than they should be, lag in deployment,"
-    publishedDateTime: 2022-03-30T13:11:00Z
-    webUrl: "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/"
-    ampWebUrl: "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/amp/"
+  - title: "The Federal Executive Forum’s Machine Learning and AI in Government 2022"
+    excerpt: "During this webinar, you will learn how federal IT practitioners from the Department of Veterans Affairs, Defense Intelligence Agency are implementing strategies and initiatives around"
+    publishedDateTime: 2022-04-01T16:30:00Z
+    webUrl: "https://federalnewsnetwork.com/cme-event/federal-executive-forum/the-federal-executive-forums-machine-learning-and-ai-in-government-2022/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 53
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1336522614.jpg?w=1200&strip=all"
-        width: 1200
-        height: 620
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2022/04/FamPhoto-033122.png"
+        width: 3584
+        height: 2240
         isCached: true
-  - title: "Adversarial AI and the dystopian future of tech"
-    excerpt: "The occurrence of an adversarial attack on AI or machine learning highlights a deep crack in the AI mechanisms."
-    publishedDateTime: 2022-04-03T23:10:00Z
-    webUrl: "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/"
-    ampWebUrl: "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1304572540.jpg?w=1200&strip=all"
-        width: 1200
-        height: 626
-        isCached: true
-  - title: "The Age of Artificial Intelligence and Cloud Computing"
-    excerpt: "The use of AI in legacy modernization will reduce time-to-market, boost reliability, and motivate organizations to modernize applications at a faster pace."
-    publishedDateTime: 2022-04-02T11:08:00Z
-    webUrl: "https://www.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
-    ampWebUrl: "https://amp.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
-    type: article
-    provider:
-      name: Ellen
-      domain: ibtimes.sg
-    quality: 59
-    images:
-      - url: "https://data.ibtimes.sg/en/full/56509/vaidyanathan-ganesa-sankaran.jpg"
-        width: 960
-        height: 675
-        isCached: true
-  - title: "AI And The Secret To Employee Happiness"
-    excerpt: "People want a better work experience—and they’ll take their talents elsewhere if they don’t get it. AI can help you deliver."
-    publishedDateTime: 2022-04-01T18:14:00Z
-    webUrl: "https://www.forbes.com/sites/servicenow/2022/04/01/ai-and-the-secret-to-employee-happiness/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Why AI In Insurance Is The Key To Survival"
-    excerpt: "Insurance is one of these areas, with providers increasingly leveraging AI to understand risk and reduce costs. Examples within the consumer field include \"black box\" telematics platforms that allow providers to gather all the relevant data points necessary to understand someone's driving style and adjust their premiums."
-    publishedDateTime: 2022-04-01T17:20:00Z
-    webUrl: "https://insurancenewsnet.com/innarticle/why-ai-in-insurance-is-the-key-to-survival"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 17
 
 secured: "sF/Mzg3HwsMaJ6k2MgmZKh10j1QApOmvqhc6NFlDkjjKwf1cd14lnF2ZTwejrUHkC1X29OhK8cixtJDra9V3Et6Vhp4+8hJA7UtQyc+KkmoBmqit9cro6GZAj8SfQ0ZMkSb+LcvSImXiGRf6DnVpwsK7+tHzdgAnllW1YWrFL3mrDBzX9ronlMEHJokugcJ4vt7YXd7xOxA/6jZ6swvNtvCeYL4vIwOk0HvLx85n8adfK9fyi2+qomI5TwhQfzkBHQ6AJ/2KA6YkPeTyvJ60UZMOwsouZc83gVzww50a59n5IiqBQHky+PHRKlF4+Ca4RqtlL3APwI0p8qmDUK5tcWHphwilWYAdUeLXjpo0OAhcRizXuhs9Tqla/4J5jCzAA+vubHoRqFgdfd00L3WzNRDLPb0h96wNmQeWEXT+zY9/XAw1qVRHv2K7k5CiBxkfz0cxqPv+EcvaTCLHrcUONLYIM2pVrUiV+/M46V/6VeCqVfybibid5WBXtbsEzVWEr7z7NTQEoPWaPc73f53Wxw==;jCz0PWgNuVUOFllC0YKdDA=="
 ---

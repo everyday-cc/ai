@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-03T21:39:00Z
 originalUrl: "https://menafn.com/1103954850/AI-in-Retail-and-e-Commerce-Market-2022-Growth-by-Opportunities-Application-Current-Trend-and-Forecast-by-2031"
 webUrl: "https://menafn.com/1103954850/AI-in-Retail-and-e-Commerce-Market-2022-Growth-by-Opportunities-Application-Current-Trend-and-Forecast-by-2031"
 type: article
-quality: 16
+quality: 18
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?757197"
@@ -39,8 +40,8 @@ related:
         height: 630
         isCached: true
   - title: "AI in Computer Vision Market Opportunity Analysis and Industry Forecast worth $51.3 billion by 2026"
-    excerpt: "\"AI in Computer Vision Market\" AI in computer vision market size is projected to grow from USD 15.9 billion in 2021 to USD 51.3 billion by 2026, at a CAGR"
-    publishedDateTime: 2022-03-30T23:10:00Z
+    excerpt: "[246 Pages Report] AI in computer vision market size is projected to grow from USD 15.9 billion in 2021 to USD 51.3 billion by 2026, at a CAGR of 26.3% from 2021 to 2026. The report “AI in ..."
+    publishedDateTime: 2022-03-30T23:11:00Z
     webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-opportunity-analysis-and-industry-forecast-worth-51-3-billion-by-2026"
     type: article
     provider:
@@ -48,7 +49,7 @@ related:
       domain: digitaljournal.com
     quality: 40
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/5993b720d9ef7071b8911094c233c01fc025ee40-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/bitcoin-illustration-DJC-1600px-600x337.jpeg"
         width: 600
         height: 337
         isCached: true

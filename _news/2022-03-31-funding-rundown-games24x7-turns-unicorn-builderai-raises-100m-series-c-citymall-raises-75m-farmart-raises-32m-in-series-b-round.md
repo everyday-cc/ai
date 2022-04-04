@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/startup/funding-rundown-games24x7-turns-uni
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/funding-rundown-games24x7-turns-unicorn-builderai-raises-100m-series-c-citymall-raises-75m--farmart-raises-32m-in-series-b-round-12999262.htm/amp"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1019
     height: 573
     isCached: true
+
+related:
+  - title: "Builder.ai Raises $100M in Series C Funding"
+    excerpt: "Builder.ai, a London, UK-based provider of an AI-powered low-code/no-code app development platform, raised $100M in Series C funding"
+    publishedDateTime: 2022-03-30T21:28:00Z
+    webUrl: "https://www.finsmes.com/2022/03/builder-ai-raises-100m-in-series-c-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/03/builder_ai.jpeg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "v65m5UdFBauVtGmXKXzNFsJXf3jErInHdrUZu8jIk89O8orW7oM3gxKixwRQZkfA4NRxgkbGXKCvW/iUMgxSrKu5M6tRADz09Nr8SEmNLLDR+/JY5DIlZgByNhULMNlJ9cpRiSblc++N4+WfT0s0WTGtcKLaEyUS6dK3E54QTEV6hiWwd3mzavElJKwNk5HJpIdD0UkxOmZ5bfwLaadwi8VLdOl+jJGxY/7MIdsm7xtHhWDczy11+rPzYh2Qj2RFvMgCzRtJRgPk0AfldUgtk5kfP88jnwTi9EzF+LPhDVV6AihKvAkPuPgN38if2VqzP/0pn05ECjlzwR2GFe81snEu+oKvFtsIE4n+6/CnTKA=;PhZF0lJzbL7QQOLfRwMCMA=="
 ---

@@ -1,8 +1,8 @@
 ---
 category: news
 title: "AI in Computer Vision Market Opportunity Analysis and Industry Forecast worth $51.3 billion by 2026"
-excerpt: "\"AI in Computer Vision Market\" AI in computer vision market size is projected to grow from USD 15.9 billion in 2021 to USD 51.3 billion by 2026, at a CAGR"
-publishedDateTime: 2022-03-30T23:10:00Z
+excerpt: "[246 Pages Report] AI in computer vision market size is projected to grow from USD 15.9 billion in 2021 to USD 51.3 billion by 2026, at a CAGR of 26.3% from 2021 to 2026. The report “AI in ..."
+publishedDateTime: 2022-03-30T23:11:00Z
 originalUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-opportunity-analysis-and-industry-forecast-worth-51-3-billion-by-2026"
 webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-opportunity-analysis-and-industry-forecast-worth-51-3-billion-by-2026"
 type: article
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/5993b720d9ef7071b8911094c233c01fc025ee40-600x337.jpg"
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/bitcoin-illustration-DJC-1600px-600x337.jpeg"
     width: 600
     height: 337
     isCached: true
@@ -75,13 +75,13 @@ related:
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 16
+    quality: 18
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?757197"
         width: 375
         height: 249
         isCached: true
 
-secured: "X0ypax8R8XLVIX8sXjGksN20U92p0VqcSjTVIEzLm7BYuThYQs/YQzkmfwQLtU54L23g9vI/z/eqTnz5dekpA52B45p+Cgv2kAPYND44D8PPcj2QAAn+kMyl/LQsh52DqIta/eWU2FHz5GVw9t/OR9pQAwPtgjT8qHGRU4KRkG7S6ksR8O/kPY6A3JhRSSgcQuzJVn4WDkKxQTHjO1jo/BM+lCRubIEZQKuiIC4ATMr0A0jknzL8MqyWkxv1j7XTdjISiSBRgZ3z7JyGDSY/I0bPfYsTqusAKQ/x5ImH2vvRvASwgLQkovfa4BptOF8lKD7kOXjqrAo/zLJDJ6wqSwa7redsPzbGwVY/GFlhhrH2KlPzuwL+gNbXPKbfj1YTmfjwMznHZ65KaRbpm3wWvioPV06YGl5i3T6wMkoOOlUM4XoyphCFcqNXBKdrDUUBIf5MDV5A22Hw6b+7YC46FfY7c6CO+XKTwcvf9KXO2Np4a6H4pas/a1nRc3TWapebfh6CrbJiwcvNMkQ2X3dz+Q==;J2RIEXvvTlmVVSGtPbRm/A=="
+secured: "jrJxcBU8sLTX94px8ne2SA26lItXjlH6CPFCLnC8/5yo3xh9F8/l1PBoOZa3GhQny3jdOTmxx+QRtnb5rC7XYvcDFn1c+parTmlrWPIYclLqj0ixRIRR0Lc/FubuCWL9P/QhDEuwL4d2q6MhKWTmcH8nMbj0uLhJR4wv37kldzs3FlFQJYukbiA8itAmoDKBK4ChF3KJmWOhelY5+bFv7xmXKqZx+zGfSt8hZwdy7ivmKIi86kWUhYfdAn3ftr2pwBTZoxD9oVWN2vA9NPSoOYPxSSdv8derdVX6LYbqYyYHrcvqbZnFy1Yyj4NxlZA21lSFxt7EttVeUV1NSnEXSH+Zhi9kMXXosiczstbNi+Y=;r2Sjo1JPvHtj522GgqczYA=="
 ---
 

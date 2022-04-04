@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "DBI-Braintoy to bring machine learning to Bangladesh businesses"
-    excerpt: "Bangladesh-based market research company DBI Research Private Limited and Canada-based technology company Braintoy have announced a partnership to promote and market Machine Learning and Artificial Intelligence-based products and services in Bangladesh market."
-    publishedDateTime: 2022-03-30T13:02:00Z
-    webUrl: "https://www.banglanews24.com/english/business/news/bd/94086.details"
+  - title: "DBI and Braintoy to bring machine learning solutions for Bangladeshi market"
+    excerpt: "Bangladesh-based market research company DBI Research Private Limited and Canada-based technology company Braintoy have announced a partnership to promote and market Machine Learning and Artificial Intelligence-based products and services in the Bangladesh market."
+    publishedDateTime: 2022-04-04T04:56:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606?amp"
     type: article
     provider:
-      name: Bangla News 24
-      domain: banglanews24.com
-    quality: 54
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 72
     images:
-      - url: "https://www.banglanews24.com/english/public/uploads/2022/03/30/1648643490.DBI.jpg"
-        width: 725
-        height: 400
+      - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/04/04/machine_learning_dbi_braintoy_bangladesh.jpeg?itok=HejUIn11"
+        width: 750
+        height: 393
         isCached: true
 
 secured: "e+Y5W/jqmtIgvhAkAZ99/I9IbqCEpMCsCdpBrRLo7mTAq/iXgBP56SJ+blIJVlRab+34j4ujL7ky3b8+xUdi0CxE7ETOdtgWWuk1fWKif83TitPfb3ysgyyy4GpE376WQzlUCDbLvKLV9748gbSzt3SaS17QNCoY1UxxULZPTt/R/idS9npoXp3JqSvhGRVYsTREpORlGzgLDGi8M2JBKrf+S5HPzEenqRYSa3LS/aoewfWUKf872I7PBlNISlWhb6augxDuk/80FmGxim3sqNTRm/24x3rkYnydNvXDITOVOQ5vrFIQlNiN33cyn/ELGSLmU2jW9OG3x3KoRC6A5K9/QW2egP6Bh/wp76NsiCFa02Fc7FaE/xfYpbaASEyIdKwj85Vio12u8gNsk2TYyU8aR8JRc53eseXPrlUiCgM1hv395PTbKfHD5PvNmhzvnRHrNr04FHlL9JowjxLJlKVRCgGFGqiM0nO4WMksyBhIzIpR1Y73/xE9clJEwcAHOP7axghKS+m/ofJflbQFPQ==;Ku0MHKiJuZZR6J7DdEfMow=="
