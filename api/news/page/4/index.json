@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-30-rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod.md",
+      "title": "RS21 Wins Spot on $241M Artificial Intelligence Contract for DoD",
+      "excerpt": "ALBUQUERQUE, N.M., March 29, 2022 /PRNewswire-PRWeb/ -- RS21, a data science company developing artificial intelligence (AI ... We navigate complex data issues in the fields of healthcare, defense, safety, urban planning, energy, cyber, land use, climate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/03/n26355645/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/n26355645/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26355645",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26355645",
+      "publishedDateTime": "2022-03-29T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-automated-scalable-and-cost-effective-ml-on-aws-detecting-invasive-australian-tree-ferns-in-hawaiian-forests.md",
       "title": "Automated, scalable, and cost-effective ML on AWS: Detecting invasive Australian tree ferns in Hawaiian forests",
       "excerpt": "This is blog post is co-written by Theresa Cabrera Menard, an Applied Scientist/Geographic Information Systems Specialist at The Nature Conservancy (TNC) in Hawaii. In recent years, Amazon and AWS have developed a series of sustainability initiatives with the overall goal of helping preserve the natural",
@@ -189,6 +232,49 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-artificial-intelligence-a-tool-for-the-future-of-mining.md",
+      "title": "Artificial intelligence: A tool for the future of mining",
+      "excerpt": "More than $379,000 in funding will support the development of a new deep learning approach for processing geophysical information. QUÉBEC and MONTRÉAL, March 29, 2022 /CNW Telbec/ - Given the massive amounts of information that must be analyzed in",
+      "sourceUrl": null,
+      "webUrl": "https://www.quebec.ca/en/news/actualites/detail/artificial-intelligence-a-tool-for-the-future-of-mining-38987",
+      "originalUrl": "https://www.quebec.ca/en/news/actualites/detail/artificial-intelligence-a-tool-for-the-future-of-mining-38987",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-contenu.quebec.ca/cdn-contenu/medias_sociaux/og-defaut-eng.png?1644250556",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "quebec",
+        "domain": "quebec.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -437,49 +523,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-artificial-intelligence-a-tool-for-the-future-of-mining.md",
-      "title": "Artificial intelligence: A tool for the future of mining",
-      "excerpt": "Given the massive amounts of information that must be analyzed in the early stages of mining exploration, data interpretation is a considerable challenge for geologists. Professor Erwan Gloaguen of Institut national de la recherche scientifique (INRS) and his research partners decided to take developments in this field a step further by adapting existing deep learning architectures to interpret data from airborne imagery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1775269/Institut_National_de_la_recherche_scientifique__INRS__Artificial.jpg",
-          "width": 400,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1144,49 +1187,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-accelerating-financial-services-with-ai.md",
-      "title": "Accelerating Financial Services With AI",
-      "excerpt": "AI is enabling brighter financial futures for consumers and businesses. From traditional banks to new fintechs, the financial services industry is powering use cases with AI such as preventing payments fraud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/accelerating-financial-services-with-ai/",
-      "originalUrl": "https://www.globalbankingandfinance.com/accelerating-financial-services-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/Accelerating-FSI_Image_700x500.jpg",
-          "width": 700,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/accelerating-financial-services-with-ai/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/accelerating-financial-services-with-ai/",
-      "publishedDateTime": "2022-03-28T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

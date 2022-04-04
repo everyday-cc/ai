@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-03-ai-based-advanced-analytics-is-making-credit-debit-cards-smarter.md",
+      "title": "AI-based advanced analytics is making credit, debit cards smarter",
+      "excerpt": "Banking and fintech firms have been using artificial intelligence (AI) for the last few years to improve fraud detection on credit and debit cards, analyze patterns of defaulters, caution users from overspending and even help them determine their spendings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/aibased-advanced-analytics-is-making-credit-debit-cards-smarter-11649003838074.html",
+      "originalUrl": "https://www.livemint.com/technology/aibased-advanced-analytics-is-making-credit-debit-cards-smarter-11649003838074.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/04/03/600x338/analytics_1649004420915_1649004436324.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/aibased-advanced-analytics-is-making-credit-debit-cards-smarter/amp-11649003838074.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/aibased-advanced-analytics-is-making-credit-debit-cards-smarter/amp-11649003838074.html",
+      "publishedDateTime": "2022-04-03T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-04-02-machine-learning-as-a-service-mlaas-market-next-big-thing-major-giants-ibm-aws-microsoft-hpe.md",
       "title": "Machine Learning as a Service (MLaaS) Market Next Big Thing : Major Giants IBM, AWS, Microsoft, HPE",
       "excerpt": "This press release was orginally distributed by SBWireNew Jersey, NJ -- (SBWIRE) -- 04/01/2022 -- The Latest research study released by HTF MI",
@@ -1274,50 +1317,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-deep-learning-and-the-future-of-finance.md",
-      "title": "Deep Learning and the Future of Finance",
-      "excerpt": "Deep learning is increasingly deployed by financial services providers across industries within the financial sector. It has the potential to transform business models and markets for trading, credit and blockchain-based finance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/deep-learning-and-the-future-of-finance",
-      "originalUrl": "https://www.bbntimes.com/technology/deep-learning-and-the-future-of-finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/companies/Deep_Learning_in_Finance.jpeg",
-          "width": 1200,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

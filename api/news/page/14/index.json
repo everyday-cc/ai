@@ -2,6 +2,57 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-03-18-ai-startup-aibee-becomes-unicorn-with-fresh-funds-from-xiaomi.md",
+      "title": "AI Startup Aibee Becomes Unicorn With Fresh Funds From Xiaomi",
+      "excerpt": "Aibee, a Chinese artificial intelligence startup, is getting fresh funding from smartphone maker Xiaomi Corp, which propels its valuation to more than $1 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2022-03-18/ai-startup-aibee-becomes-unicorn-with-fresh-funds-from-xiaomi",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2022-03-18/ai-startup-aibee-becomes-unicorn-with-fresh-funds-from-xiaomi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivTtsHgCl1wk/v1/1200x859.png",
+          "width": 1200,
+          "height": 859,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T20:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-speech-recognition-software-helps-tibetans-communicate-better.md",
       "title": "Speech recognition software helps Tibetans communicate better",
       "excerpt": "CHENGDU: When away from home, Gerong, who speaks only Kamba Tibetan, a Tibetan dialect, often found himself in awkward situa­tions where few people could understand him.",
@@ -1082,49 +1133,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-how-web-30-is-transforming-the-financial-services-industry.md",
-      "title": "How Web 3.0 is Transforming the Financial Services Industry?",
-      "excerpt": "Sabrina Akramova , Editor & Content Manager at Financial IT; 17.03.2022 04:45 pm ; #web #internet #web3. How Web 3.0 is Transforming the Financial Services Industry? We live in th",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/blog/web-internet-web3/how-web-30-transforming-financial-services-industry",
-      "originalUrl": "https://financialit.net/blog/web-internet-web3/how-web-30-transforming-financial-services-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/img_7407_3.jpeg",
-          "width": 3024,
-          "height": 3236,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

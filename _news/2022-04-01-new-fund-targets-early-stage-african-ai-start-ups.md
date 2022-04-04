@@ -32,17 +32,6 @@ related:
         width: 600
         height: 225
         isCached: true
-  - title: "Is RegTech the answer to South African financial institutions’ ineffective terrorist financing controls?"
-    excerpt: "Using machine learning, new transactional patterns that highlight potential terrorist financing can be detected without human intervention, says Francois Combrinck, capability architect at Ovations."
-    publishedDateTime: 2022-03-30T09:06:00Z
-    webUrl: "https://www.itweb.co.za/content/WnpNgM2KDm2qVrGd"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/WnpNgM2KDm2qVrGd"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/WnpNgM2KDm2qVrGd"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 7
 
 secured: "lFXSMB1vvWU6PNiKqbyQa4VyP7XsFEHp4JwntDqXZPSc2UAILsPYPVZAeU8wGxrlJbYNllHtxhtGZpHnNf1sBH/UykXnD/oN5GBzLMB0wiLtd0hBTQDUprjJenKSv3QG1aoAOjfl4LeOHV1AyAyaJDMG1wlIexwnJxMnaxtY85SuvJKJ6WHYnNLKX/Q/lwbVww0JllNFVfzFygRFj5hZRVtUm255fceaR60NmrEW36gtxSpUUoCcLKtjZAToF4OaGdn3rh/krhCaKtP4n5bq5K4BQSOmc2xVOEGGaBEHjpMcfO0EiEG3G1cwPjc9H79EcPxAlOUiHUD5gOdRvm0O35Lav0lWpzPuWy+o2xFiTsE=;SNwV/J+uZfIgwWMSGabfBg=="
 ---

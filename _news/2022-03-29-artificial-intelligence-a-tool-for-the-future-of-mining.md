@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Artificial intelligence: A tool for the future of mining"
-excerpt: "Given the massive amounts of information that must be analyzed in the early stages of mining exploration, data interpretation is a considerable challenge for geologists. Professor Erwan Gloaguen of Institut national de la recherche scientifique (INRS) and his research partners decided to take developments in this field a step further by adapting existing deep learning architectures to interpret data from airborne imagery."
-publishedDateTime: 2022-03-29T11:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm"
+excerpt: "More than $379,000 in funding will support the development of a new deep learning approach for processing geophysical information. QUÉBEC and MONTRÉAL, March 29, 2022 /CNW Telbec/ - Given the massive amounts of information that must be analyzed in"
+publishedDateTime: 2022-03-29T15:39:00Z
+originalUrl: "https://www.quebec.ca/en/news/actualites/detail/artificial-intelligence-a-tool-for-the-future-of-mining-38987"
+webUrl: "https://www.quebec.ca/en/news/actualites/detail/artificial-intelligence-a-tool-for-the-future-of-mining-38987"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: quebec
+  domain: quebec.ca
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1775269/Institut_National_de_la_recherche_scientifique__INRS__Artificial.jpg"
-    width: 400
-    height: 315
+  - url: "https://cdn-contenu.quebec.ca/cdn-contenu/medias_sociaux/og-defaut-eng.png?1644250556"
+    width: 1200
+    height: 627
     isCached: true
 
-secured: "cnR1gGSy6skgsRCPQJJfF0oJVR+S3ArrzdWCEW4WK5qaxAuOnTCRFP7KwjQkuBw+EbPeABvFJ8ho5NdPQ/IWHC4TxZ+K0htCB31KHGt7TOKFyvXaAldtm+LvlIvACmu+C4pH6/XPBsXkUB5exn6Hq8G7tLhvoUrQ0DySUNluLZma1AvzEqqiwnFnKy8SaDsKaoqbX4qmoHzlIzt11IjFeIMyo2AzB2aGx80hfXbtdUH6IZB6+qR5OZ1oFzSHYL+wmnGNWhtZTMGjygQAc3/Uz7U+Yq7rPRQkU7lmOfpKwD/ddT/Vi/lsnmVNjveyZ3r7o0HTTLv4chmpHqMYWImc9vWqTSCTwNcrSWl0xVGW64TH/3AzwABsSr1vp/3Jahbm3NCrf0qARrbHgBleQeJIvRFN6Nyt51g0JEr7Lf7AYqsefGySQY8D8QnsQQezipGfJJy+OzR/WNb4z+/id6pm9SaMI8y6syas7yryiX0kA79FWL39/uVXduGPLz//La0YAhv+5LJWhyfYYkrtmNinKg==;BBCC4gE0OovKMu46e4hCMQ=="
+secured: "lL+4ShKa9bSqA/w//6lJWs0ilgQlA2ZgsGXskay6/IxZZdJxOUnE6G31lexeDsIl/v/dQfWMnndhu+vjhNt+rjhq9DZ0Sihs9pGvBVmIx1fPS+7Wf9Jq35dgR2pWjoSuKuWG0CTD3zdGejPbfqYiwKfsgx3UyTFJnEzjwZh2p8S5oQyFHT8vCAmeqt+V/42+q5IHRysxHR07j5EzJQvwzlN5eFsQ1TatPGMpEdNMfXac8kUFYCehWhCGYF68Dxwj/a4a2Y5P8PqURYgoDYXa2DKDF14Ba5zYBH/qaIwVNGQSYuOaY2NNjUsNYLvLfUtT4PElP/nAJJtU4DTlGAn+wYDs3bc6r6EcTjh0noJ9Czo=;7m3nApVMJIHWM643hAuYYA=="
 ---
 

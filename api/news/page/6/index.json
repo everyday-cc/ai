@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-27-facial-scanning-coming-to-an-airport-near-you-raising-some-concerns.md",
+      "title": "Facial scanning coming to an airport near you, raising some concerns",
+      "excerpt": "It’s only a matter of time before New England air travelers join others across the country in experiencing a new airport screening method that seems ripped straight from the pages of Philip K.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sentinelandenterprise.com/2022/03/27/facial-scanning-coming-to-an-airport-near-you-raising-some-concerns/",
+      "originalUrl": "https://www.sentinelandenterprise.com/2022/03/27/facial-scanning-coming-to-an-airport-near-you-raising-some-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sentinelandenterprise.com/wp-content/uploads/2022/03/BHR-L-tsa1.jpg?w=1024&h=750",
+          "width": 1024,
+          "height": 749,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sentinelandenterprise.com/2022/03/27/facial-scanning-coming-to-an-airport-near-you-raising-some-concerns/amp/",
+      "cdnAmpWebUrl": "https://www-sentinelandenterprise-com.cdn.ampproject.org/c/s/www.sentinelandenterprise.com/2022/03/27/facial-scanning-coming-to-an-airport-near-you-raising-some-concerns/amp/",
+      "publishedDateTime": "2022-03-27T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sentinel & Enterprise",
+        "domain": "sentinelandenterprise.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-27-the-puzzling-reason-ai-may-never-compete-with-human-consciousness.md",
       "title": "The Puzzling Reason AI May Never Compete With Human Consciousness",
       "excerpt": "Two immersive thought experiments lead us right into a flurry of questions surrounding the human mind. You decide where you stand.",
@@ -1144,50 +1187,6 @@
         "AI",
         "Natural Language Processing",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-ai-model-may-help-predict-ovarian-cancer-treatment-outcomes.md",
-      "title": "AI model may help predict ovarian cancer treatment outcomes",
-      "excerpt": "An artificial intelligence (AI) model may help predict clinical outcomes at the time of laparoscopic assessment for advanced high-grade serous ovarian cancer (HGSOC), according to a study presented at the Society of Gynecologic Oncology's Annual Meeting on Women's Cancer,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-03-ai-ovarian-cancer-treatment-outcomes.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-03-ai-ovarian-cancer-treatment-outcomes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/ai-model-may-help-pred.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-03-ai-ovarian-cancer-treatment-outcomes.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-ai-ovarian-cancer-treatment-outcomes.amp",
-      "publishedDateTime": "2022-03-25T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

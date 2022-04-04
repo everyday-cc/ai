@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-inc
 ampWebUrl: "https://venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/amp/"
 type: article
-quality: 83
-heat: 83
+quality: 85
+heat: 85
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2016/06/chatbots-e1624470249681.jpg?w=1200&strip=all"

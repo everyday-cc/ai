@@ -2,6 +2,49 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2022-03-09-rackspace-technology-works-with-delta-thermal-to-help-electric-utilities-and-downstream-industrial-customers-protect-and-grow-the-power-grid.md",
+      "title": "Rackspace Technology Works with Delta Thermal to Help Electric Utilities and Downstream Industrial Customers Protect and Grow the Power Grid with AWS",
+      "excerpt": "Rackspace Technology ® (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company, today announced working with Delta Thermal to protect and grow the power grid enabled by Delta Thermal to help electric utilities and downstream industrial customers predict and prevent costly outages,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-software-utilities-electric-utilities-9bd204f806232bfe1eca2c69de86f3c7",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-software-utilities-electric-utilities-9bd204f806232bfe1eca2c69de86f3c7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-08T08:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-09-reid-hoffman-has-co-founded-his-first-new-company-since-linkedin-sale.md",
       "title": "Reid Hoffman has co-founded his first new company since LinkedIn sale",
       "excerpt": "He is creating the business with DeepMind co-founder Mustafa Suleyman and former DeepMind researcher Karén Simonyan. LinkedIn billionaire Reid Hoffman has co-founded a new artificial intelligence start-up called Inflection AI with DeepMind co-founder ...",
@@ -1145,49 +1188,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-future-of-tv-were-putting-new-personalised-features-into-shows-using-an-ethical-version-of-ai.md",
-      "title": "Future of TV: we’re putting new personalised features into shows using an ethical version of AI",
-      "excerpt": "Philip Jackson receives funding from UKRI via EPSRC and InnovateUK, including projects with BBC R&D, and from Bang & Olufsen, the Danish luxury consumer electronics brand. “Look away now if you ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/future-of-tv-were-putting-new-personalised-features-into-shows-using-an-ethical-version-of-ai-176996",
-      "originalUrl": "https://theconversation.com/future-of-tv-were-putting-new-personalised-features-into-shows-using-an-ethical-version-of-ai-176996",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/450098/original/file-20220304-25-1iigid3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=203&fit=crop",
-          "width": 320,
-          "height": 203,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/future-of-tv-were-putting-new-personalised-features-into-shows-using-an-ethical-version-of-ai-176996",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/future-of-tv-were-putting-new-personalised-features-into-shows-using-an-ethical-version-of-ai-176996",
-      "publishedDateTime": "2022-03-07T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

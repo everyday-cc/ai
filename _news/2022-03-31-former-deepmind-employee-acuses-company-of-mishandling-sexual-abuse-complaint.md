@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/deepmind-employee-accuses-company-misha
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html"
 type: article
 quality: 101
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/03/deepmind-760x380.jpeg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Former DeepMind employee claims AI firm mishandled sexual misconduct allegations"
-    excerpt: "A former employee at British artificial intelligence (AI) developer DeepMind has accused the firm of mishandling multiple sexual misconduct allegations."
-    publishedDateTime: 2022-03-30T10:48:00Z
-    webUrl: "https://www.cityam.com/former-deepmind-employee-claims-ai-firm-mishandled-sexual-misconduct-allegations/"
-    ampWebUrl: "https://www.cityam.com/former-deepmind-employee-claims-ai-firm-mishandled-sexual-misconduct-allegations/?amp=1"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/former-deepmind-employee-claims-ai-firm-mishandled-sexual-misconduct-allegations/?amp=1"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 69
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/09/Google-Announces-EUR-1-Billion-Investment-In-Germany-Including-Renewable-Energies-1337404394-1.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "DeepMind Appeared At The Center Of Sexual Harassment Scandal"
     excerpt: "Recently, DeepMind, an artificial intelligence company owned by Google-parent Alphabet has been the talk of the town. Several former employees were accusing the company of mishandling serious ..."

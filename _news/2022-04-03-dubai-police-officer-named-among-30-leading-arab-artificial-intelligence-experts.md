@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/tech/dubai-police-officer-named-among-3
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/tech/dubai-police-officer-named-among-30-leading-arab-artificial-intelligence-experts?amp=1"
 type: article
 quality: 67
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 27
-  - title: "Palestinian professor included in list of 30 Leading Arab Experts in AI"
-    excerpt: "MIT Technology Review Arabia has listed a Palestinian computer science professor in its first edition of “30 Leading Arab Experts in AI” list for 2022. MIT Technology Review Arabia included Mustafa Jarrar,"
-    publishedDateTime: 2022-03-30T09:57:00Z
-    webUrl: "https://english.wafa.ps/Pages/Details/128623"
-    type: article
-    provider:
-      name: Wafa
-      domain: wafa.ps
-    quality: 17
   - title: "Second Palestinian professor makes it to list of 30 Leading Arab Experts in AI"
     excerpt: "A second Palestinian professor has made it to MIT Technology Review Arabia’s first edition of “30 Leading Arab Experts in AI” list for 2022. Nizar Habash, a computer science professor at New York University Abu Dhabi and the director of the Computational Approaches to Modeling Language (CAMeL) Lab,"
     publishedDateTime: 2022-03-30T11:35:00Z

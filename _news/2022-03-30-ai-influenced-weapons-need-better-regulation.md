@@ -41,22 +41,6 @@ related:
         width: 375
         height: 210
         isCached: true
-  - title: "Otter.Ai, AI-Powered Speech Transcription Service, Unveils New Updates"
-    excerpt: "Otter.ai, a California-based firm , has announced a major update to its transcription-focused speech-to-text Otter platform."
-    publishedDateTime: 2022-03-30T10:39:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/otter-ai-ai-powered-speech-transcription-service-unveils-new-updates/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/otter-ai-ai-powered-speech-transcription-service-unveils-new-updates/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/otter-ai-ai-powered-speech-transcription-service-unveils-new-updates/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 57
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/03/Otter.Ai_-AI-Powered-Speech-Transcription-Service_-Unveils-New-Updates-01.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Lost in AI transcription: Adult words creep into YouTube children’s videos"
     excerpt: "Ten per cent of these videos contained at least one “highly inappropriate taboo word” for children, says US-based Ashique KhudaBukhsh, an assistant professor at Rochester Institute of Technology's software engineering department."
     publishedDateTime: 2022-04-02T22:30:00Z

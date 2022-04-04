@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/technology/aibased-advanced-analytics-is-ma
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/aibased-advanced-analytics-is-making-credit-debit-cards-smarter/amp-11649003838074.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Mint
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Will Zalatoris On Predictive Analytics, Fantasy Golf And Tips For Picking A Masters Winner"
-    excerpt: "Last year’s Masters runner-up Will Zalatoris offers tips to fantasy golf players on how to pick winners in Augusta."
-    publishedDateTime: 2022-03-30T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/"
-    ampWebUrl: "https://www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62434ef83c1a23cbed4ab6ab/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI-Augmented Analytics is Transforming Business Intelligence and Simplifying Data Complexity"
     excerpt: "In this contributed article, Ajay Khanna, CEO & Founder of Tellius, highlights that when it comes to business intelligence and data analytics, AI is a driving a new wave of innovation called augmented analytics that makes it easier for individuals of all technical skill levels to analyze volumes of data to accelerate more valuable business insights."
     publishedDateTime: 2022-04-01T13:00:00Z
@@ -52,6 +36,20 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 8
+  - title: "How Huupe’s Innovative Smart Basketball Hoop uses Machine Learning and Advanced Analytics to Revolutionize How Basketball Enthusiasts Play the Game"
+    excerpt: "LONDON, UK / ACCESSWIRE / March 31, 2022 / As the National Basketball Association (NBA) increases its domestic and international reach, the league and the"
+    publishedDateTime: 2022-03-31T07:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/how-huupes-innovative-smart-basketball-hoop-uses-machine-learning-and-advanced-analytics-to-revolutionize-how-basketball-enthusiasts-play-the-game"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 1
+    images:
+      - url: "https://www.accesswire.com/users/newswire/images/695440/Paloma-Rossano.jpg"
+        width: 750
+        height: 494
+        isCached: true
 
 secured: "V+XbsKrSzRxToSrFl/zZhuEMh9BRXQ74Z5cPJXpgPsaShdy9zAwMfPpuUMTeKw81roXdY8sy4zQtovgC5ABv2gGPBZQdNGQoqLR3HlwMlprnqHUWcwdiXuzJBCJnqE/o+66Ghzwru6zWnVETP98C3/gbJMLkcQrh+yFsyjZOcZnHvP2FC3tIUDhv86DosOvuvW5aXkC+WMthsG8SpUco51VDRwNZUulPMZkIEHtbS4x5Uc2yGC3hsHghf7qt6V3qTh+Bl3OSEqNxVhMEcNvvq6Ew4TofhrI5DOIGMWEUUqzAANVQGxkS3D3muTtnl7OcEh3vCeksUt72tvVamMEDnw/3/OlXbANn+h5Lml02+mrpAq9XmN1050qKSvDbMSxr4spZrysYJEPlPnBjDH3fL1LtoJ8R2sGZ2zpot4FisETrt1PpEHVx3bWbcUJRmE5lM2oQWkG18xh17Y9tLKLrJvEa0oUvvteq25weEZg4JuT1cB/qchkuXcM6l5izvEl+lsUHfVthoEfSsCN9/CZ5PA==;Uq+sECoD1lyWBLr+Gg3DLA=="
 ---

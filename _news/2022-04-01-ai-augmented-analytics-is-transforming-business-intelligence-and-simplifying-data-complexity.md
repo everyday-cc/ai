@@ -19,22 +19,6 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Will Zalatoris On Predictive Analytics, Fantasy Golf And Tips For Picking A Masters Winner"
-    excerpt: "Last year’s Masters runner-up Will Zalatoris offers tips to fantasy golf players on how to pick winners in Augusta."
-    publishedDateTime: 2022-03-30T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/"
-    ampWebUrl: "https://www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62434ef83c1a23cbed4ab6ab/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI-based advanced analytics is making credit, debit cards smarter"
     excerpt: "Banking and fintech firms have been using artificial intelligence (AI) for the last few years to improve fraud detection on credit and debit cards, analyze patterns of defaulters, caution users from overspending and even help them determine their spendings."
     publishedDateTime: 2022-04-03T16:49:00Z
@@ -50,6 +34,20 @@ related:
       - url: "https://images.livemint.com/img/2022/04/03/600x338/analytics_1649004420915_1649004436324.jpg"
         width: 600
         height: 338
+        isCached: true
+  - title: "How Huupe’s Innovative Smart Basketball Hoop uses Machine Learning and Advanced Analytics to Revolutionize How Basketball Enthusiasts Play the Game"
+    excerpt: "LONDON, UK / ACCESSWIRE / March 31, 2022 / As the National Basketball Association (NBA) increases its domestic and international reach, the league and the"
+    publishedDateTime: 2022-03-31T07:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/how-huupes-innovative-smart-basketball-hoop-uses-machine-learning-and-advanced-analytics-to-revolutionize-how-basketball-enthusiasts-play-the-game"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 1
+    images:
+      - url: "https://www.accesswire.com/users/newswire/images/695440/Paloma-Rossano.jpg"
+        width: 750
+        height: 494
         isCached: true
 
 secured: "umk18/srlP7EpZYRmMDvOVfr1cvNwPFstOBCoULUTd90Bu3bFDe7q+/yQcTlhqHvHq0FN4J4ovvunCfv1I1GH4daDXL7qR/tsx6Czhp67fgpQC3dZwYIIzRFrljqf445SSfCbmJCDZa0D/u+kFBbABR4q6iF8c8lQmNOTuit9Rbbpq25M/hmoj5a19lN1ZYEQMyMt5BIWAy6syXlG0NyhzkLB1ZnSDEZld2GeDhH9jyjJkGCfKnpQ2lBDqT2oFWhTE8l5meafSMrc8iS/trQQdApwOdXDFGazBAmV2hVcx+dwpekb6FE2MaYcfGfWhhVhOGTpVWLfL79CLXGvmp0VHnp8xYlf7zqfl1HiOGEKb0=;ATPcfyQYfKz39p/4EDV9BA=="
