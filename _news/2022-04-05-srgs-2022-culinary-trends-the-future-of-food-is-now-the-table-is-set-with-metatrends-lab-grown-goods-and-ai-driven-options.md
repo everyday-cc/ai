@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-04T18:50:00Z
 originalUrl: "https://www.marketingdive.com/press-release/20220404-2022-culinary-trends-the-future-of-food-is-now-the-table-is-set-with-meta/"
 webUrl: "https://www.marketingdive.com/press-release/20220404-2022-culinary-trends-the-future-of-food-is-now-the-table-is-set-with-meta/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Marketing Dive

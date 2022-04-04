@@ -8,8 +8,8 @@ webUrl: "https://www.govtech.com/education/higher-ed/university-at-albany-to-mak
 ampWebUrl: "https://www.govtech.com/education/higher-ed/university-at-albany-to-make-ai-part-of-everything-we-do?_amp=true"
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-at-albany-to-make-ai-part-of-everything-we-do?_amp=true"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:

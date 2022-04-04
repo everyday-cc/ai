@@ -23,7 +23,7 @@ related:
   - title: "Online abuse targeting footballers to be tackled by ‘world first’ AI software"
     excerpt: "The A-Leagues and players’ union will use new technology which acts as a filter to stop racist, homophobic, sexist and other harmful comments"
     publishedDateTime: 2022-04-03T23:58:00Z
-    webUrl: "https://www.theguardian.com/football/2022/apr/04/online-abuse-targeting-footballers-to-be-tackled-by-world-first-ai-software"
+    webUrl: "https://www.theguardian.com/football/2022/apr/04/online-abuse-targeting-footballers-to-be-tackled-by-world-first-ai-software?fr=operanews"
     ampWebUrl: "https://amp.theguardian.com/football/2022/apr/04/online-abuse-targeting-footballers-to-be-tackled-by-world-first-ai-software"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/football/2022/apr/04/online-abuse-targeting-footballers-to-be-tackled-by-world-first-ai-software"
     type: article

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-04T19:52:00Z
 originalUrl: "https://www.forbes.com/sites/davidteich/2022/04/04/integrating-artificial-intelligence-into-help-centers--it-is-more-than-adding-a-chatbot/"
 webUrl: "https://www.forbes.com/sites/davidteich/2022/04/04/integrating-artificial-intelligence-into-help-centers--it-is-more-than-adding-a-chatbot/"
 type: article
+quality: 38
+heat: 38
+published: false
 
 provider:
   name: Forbes

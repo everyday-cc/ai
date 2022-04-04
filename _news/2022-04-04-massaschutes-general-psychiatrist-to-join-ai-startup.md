@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-04T15:18:00Z
 originalUrl: "https://www.beckershospitalreview.com/innovation/massaschutes-general-psychiatrist-to-join-ai-startup.html"
 webUrl: "https://www.beckershospitalreview.com/innovation/massaschutes-general-psychiatrist-to-join-ai-startup.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Becker's Hospital Review

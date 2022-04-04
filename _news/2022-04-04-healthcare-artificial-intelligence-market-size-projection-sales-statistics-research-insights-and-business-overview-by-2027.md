@@ -44,6 +44,15 @@ related:
       name: Galleon News
       domain: galleonnews.com
     quality: 11
+  - title: "Deep Learning Chip Market Research Report Analysis 2021 – 2028 by Size, Share, Trends, Growth, Industry Analysis and Outlook"
+    excerpt: "The Global Deep Learning Chip Market Research Report added by Emergen Research to its expanding repository is an all-inclusive document containing"
+    publishedDateTime: 2022-04-04T19:28:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-research-report-analysis-2021-2028-by-size-share-trends-growth-industry-analysis-and-outlook"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 9
   - title: "Cognitive Computing Market 2028 Industry Analysis, Trends, Market Size and Forecasts"
     excerpt: "Key Companies Covered in the Cognitive Computing Market Research Report Are  3M, Google LLC, Hewlett Packard Enterprise Development LP, In"
     publishedDateTime: 2022-04-01T13:44:00Z

@@ -24,22 +24,6 @@ images:
     height: 420
     isCached: true
 
-related:
-  - title: "Why are Indian startup owners migrating to Chile?"
-    excerpt: "Lately, Indian startups have come to test the Chilean market. For example, data services firm Evalueserve to Toolyt, an AI-based personal assistance. In December 2021, the Indian startup DispatchTrack bought the Chilean Beetrack to grow its leadership in logistics technology in the country and in the Latin American region."
-    publishedDateTime: 2022-03-31T03:40:00Z
-    webUrl: "https://www.chron.com/business/article/Why-are-Indian-startup-owners-migrating-to-Chile-17047415.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 22
-    images:
-      - url: "https://s.hdnux.com/photos/01/25/00/51/22284922/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-
 secured: "wrkMw6Trcbu9rcqBYwk/gPuCTRk5q+ah96RAaUYkJETdm4tf4zefKdhB5gm+4ZqwIvTGbC0H7NJGEEF0xLQAm3/z6NWb+DPJVrf9M72NDK3I98GDvDtxhtJINtXLtKLp1xK46Z8xXjJ9dEJMMzo9aSUceb85Xrm2Kmp4B0RADLlGa1GU8ojtsaxmqgkssJYE9yfOJJ6LYSMFFgfJhu4+Q8Scj7N2y61BQ/xo+96jAuZWpcSFo5g2/7d3VTSk4LYEo5Oo8xCzMZevm5U6WWBMxEia2/3oCVfMqVj4+sglX+KJpRV+TNiymTcW9th075k4GtEDU8KDA24j8JSESEDSH5R+jPExJA6Y942R1murwTo=;xGAKyinpQdWIEzD/iV61Vw=="
 ---
 

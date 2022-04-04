@@ -51,6 +51,15 @@ related:
       name: Galleon News
       domain: galleonnews.com
     quality: 11
+  - title: "Deep Learning Chip Market Research Report Analysis 2021 – 2028 by Size, Share, Trends, Growth, Industry Analysis and Outlook"
+    excerpt: "The Global Deep Learning Chip Market Research Report added by Emergen Research to its expanding repository is an all-inclusive document containing"
+    publishedDateTime: 2022-04-04T19:28:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-research-report-analysis-2021-2028-by-size-share-trends-growth-industry-analysis-and-outlook"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 9
   - title: "Enterprise Manufacturing Intelligence Market Size, Share, Growth, Opportunity, Competitive Outlook and Industry Trends 2021-2026"
     excerpt: "According to IMARC Group’s latest report, titled “Enterprise Manufacturing Intelligence Market: Global Industry Trends, Share, Size, Growth, Opportunity"
     publishedDateTime: 2022-04-04T08:07:00Z

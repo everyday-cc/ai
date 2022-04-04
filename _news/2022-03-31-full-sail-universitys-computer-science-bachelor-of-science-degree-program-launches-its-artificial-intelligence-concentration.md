@@ -25,17 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "University of Tübingen: Degree program combines radiation science with artificial intelligence"
-    excerpt: "From the 2022/23 winter semester, the University of Tübingen will be offering the first profile area in Germany, “Artificial Intelligence in Medical Radiation Sciences”. In the Medical Radiation Sciences master’s degree,"
-    publishedDateTime: 2022-03-31T02:24:00Z
-    webUrl: "https://indiaeducationdiary.in/university-of-tubingen-degree-program-combines-radiation-science-with-artificial-intelligence/"
-    ampWebUrl: "https://indiaeducationdiary.in/university-of-tubingen-degree-program-combines-radiation-science-with-artificial-intelligence/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-tubingen-degree-program-combines-radiation-science-with-artificial-intelligence/"
+  - title: "UNESCO’s Information for All Programme launches the inaugural conference on Ethics of AI"
+    excerpt: "Adopted at UNESCO's 41 st session of the General Conference, the Recommendation on the Ethics of Artificial Intelligence is the first global standard-setting instrument, to ensure that digital transformation and innovation promote human rights and contribute to the achievement of the Sustainable Development Goals."
+    publishedDateTime: 2022-04-04T15:11:00Z
+    webUrl: "https://www.unesco.org/en/articles/unescos-information-all-programme-launches-inaugural-conference-ethics-ai"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 27
+      name: UNESCO
+      domain: unesco.org
+    quality: 25
   - title: "Marchex® Wins AI Excellence Award for Marchex Conversation Intelligence, Powered by Marchex Conversation DNA™"
     excerpt: "Marchex (NASDAQ: MCHX), the award-winning AI-powered conversation intelligence company that helps businesses turn strategic insights into the actions that drive their most valued sales outcomes, today announced that The Business Intelligence Group has named Marchex a winner in its second annual Artificial Intelligence Excellence Awards program."
     publishedDateTime: 2022-03-31T13:33:00Z

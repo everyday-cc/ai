@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-04T18:07:45Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/enable-amazon-kendra-search-for-a-scanned-or-image-based-text-document/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-amazon-kendra-search-for-a-scanned-or-image-based-text-document/"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: AWS

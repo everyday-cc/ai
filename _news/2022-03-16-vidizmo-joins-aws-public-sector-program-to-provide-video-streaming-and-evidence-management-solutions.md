@@ -1,24 +1,28 @@
 ---
 category: news
 title: "VIDIZMO Joins AWS Public Sector Program to Provide Video Streaming and Evidence Management Solutions"
-excerpt: "Amazon CloudFront, AWS Rekognition, and AWS Transcribe. \"To simplify things, VIDIZMO offers organizations a secure no-code YouTube-like web application for their video content,\" said Nadeem Khan ..."
-publishedDateTime: 2022-03-16T16:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vidizmo-joins-aws-public-sector-program-to-provide-video-streaming-and-evidence-management-solutions-1031285869"
-webUrl: "https://markets.businessinsider.com/news/stocks/vidizmo-joins-aws-public-sector-program-to-provide-video-streaming-and-evidence-management-solutions-1031285869"
+excerpt: "Public Sector Program (PSP) to provide its video content management and digital evidence management systems to government,"
+publishedDateTime: 2022-03-16T15:23:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/03/n26167948/vidizmo-joins-aws-public-sector-program-to-provide-video-streaming-and-evidence-management-solutio"
+webUrl: "https://www.benzinga.com/pressreleases/22/03/n26167948/vidizmo-joins-aws-public-sector-program-to-provide-video-streaming-and-evidence-management-solutio"
+ampWebUrl: "https://www.benzinga.com/amp/content/26167948"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26167948"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "+AJlyulUm1iqZJBxbhnJQ0Bjd+VQYvUOBieX3EvUSx/JkHVxFmsvVI3Oe+pnM3yWQqamoiyRMBap8iIt5io+L77K6PKr8/jhyucCHPWD423smz+PoOyfGe4cOSbs8r7Z0DV7RgILzcyiOAizZR8caKda0Y9UkulmQTghk1RpxR/ENj6WxDXjxliFF2eQp+ACY+WZv1wERg5/87rgUOrrOh7p235btlTzikWug5cxk88PkHFLYEXRraZIspUxpHJZ/H77KzweRysLTFpPrBt70nHhT6TtynOgYSbnZLJWIYkyItcnuzxIjoN4m6aExacUyEASLG+7FGL8b8TSTfdS7r/3uoygUvPcvskX2dbD/Cc=;hPlCIcrj4c5H3aObTd4h1A=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "Xe7F0Pr+wXXllX2EqqIXNdqD0B4dxfmJ/V7oTZmjBYPhWuC8aCNkCBPhnzH9AjAPvA+e9rFsPRSFVbMqYDkRksCFn6/1tYPlwubjs2YRxYpWk8GiYeH0W29S+liUNGYTAmepDfJ6v27QBwlzjq0C6j9y44OB3WdK/njK8W2ifex9N+RP/QE8zTFDS6lqzygMHRnFyOV7t7M/1GdKFY7NyeTFYkh4CL/jQ1+veMbqqZtMchkwwbFxi7Z1XjkjI+Tk9/5krc1txqIflVfx9vrLeLwfVZl46sWUlHw7VXSFrqsEuDarwE7HzbCjUMkxT7kIMzTKSWJX6RgKGyMCjp8/DGbMNKoT1kyWLG3isVDJuR4=;vX5kqTvJ89zkuNdouCyMhw=="
 ---
 

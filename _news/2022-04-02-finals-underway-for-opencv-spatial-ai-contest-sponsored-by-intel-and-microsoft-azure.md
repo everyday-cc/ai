@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26435461"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26435461"
 type: article
 quality: 82
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft and HPE put AI to the test on International Space Station … with gloves"
+    excerpt: "“We’re bringing AI to space and empowering space developers off the planet with Azure, and it’s enabling the ability to build in the cloud and then deploy in space,” Steve Kitay, senior director of Azure Space at Microsoft, told GeekWire. The glove ..."
+    publishedDateTime: 2022-04-04T18:01:00Z
+    webUrl: "https://www.geekwire.com/2022/microsoft-and-hpe-put-ai-to-the-test-on-international-space-station-with-gloves/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 59
   - title: "Intel Unveils First AI Incubator Lab"
     excerpt: "Intel's AI for Workforce program, an effort to promote workforce skills in artificial intelligence through partnerships with community colleges, governments and other organizations, has announced its first AI incubator lab. Housed at Chandler-Gilbert ..."
     publishedDateTime: 2022-04-03T15:39:00Z

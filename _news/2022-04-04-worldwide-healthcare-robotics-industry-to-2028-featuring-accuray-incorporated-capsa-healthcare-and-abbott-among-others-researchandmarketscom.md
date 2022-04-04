@@ -42,6 +42,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Worldwide Entertainment Robot Industry to 2026 - by Type, Component and Geography"
+    excerpt: "The \"Entertainment Robot Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The entertainment robot market is projected to"
+    publishedDateTime: 2022-04-04T18:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26457820/worldwide-entertainment-robot-industry-to-2026-by-type-component-and-geography"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
 
 secured: "iW6gPifi2rSS35lTb/RK+w8CONDKfe7KSC2EgYR80AU8WwUN0fHlmJ30z1eSVBetOlZS5Ok+cOeq62v985NN9URPXgPCTcahuOPiG3s+XF4z3h9SR6RjeCtL2pjDy9Y0HQxg69GhzbxPhUSm/P9VSbEz1VtFiIGhhxxSRk5Jn72ABN4Ux6uF8Dk6WerPzgqZn2TrMxzsE2ysbQUMyrWphYdh6BU4dxNbaOoG5HN4pFpoe5+gK0BeSu+tfWqLRYH07OuhY8/DUlYQZl4CSbqT8I4KDryc9X00OYQpvG17ZMyQa7VMt5gXr8BGBD/Bm2lbKzhAFTOc1bOEa4RCx7U/NHgjCCXUmFAf5SaCZ3ftg1U=;3sB+A0Fe1uVjXrAsXUclrA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/31/conversational-data-platform-taps
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How 8x8 uses conversational AI to improve customer, employee dialogues"
-    excerpt: "New contact center tools analyze conversations and extract insights from dialogues to understand the needs of customers."
-    publishedDateTime: 2022-03-31T03:13:00Z
-    webUrl: "https://www.zdnet.com/article/how-8x8-uses-conversational-ai-to-improve-customer-employee-dialogues/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/beb34b0aa6c0d38c595e934d50af9f0cc501598b/2018/06/14/1a189bbe-6536-4124-bdf0-c88e751581ca/8x8-picture.jpg?width=770&height=578&fit=crop&auto=webp"
-        width: 770
-        height: 578
-        isCached: true
   - title: "The Role of AI in Conversational Commerce"
     excerpt: "Artificial intelligence (AI) plays a crucial role in conversational commerce by providing businesses advanced chatbots and virtual assistants to engage in a personalized way with customers."
     publishedDateTime: 2022-04-01T09:42:00Z

@@ -40,20 +40,6 @@ related:
         width: 900
         height: 599
         isCached: true
-  - title: "How 8x8 uses conversational AI to improve customer, employee dialogues"
-    excerpt: "New contact center tools analyze conversations and extract insights from dialogues to understand the needs of customers."
-    publishedDateTime: 2022-03-31T03:13:00Z
-    webUrl: "https://www.zdnet.com/article/how-8x8-uses-conversational-ai-to-improve-customer-employee-dialogues/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/beb34b0aa6c0d38c595e934d50af9f0cc501598b/2018/06/14/1a189bbe-6536-4124-bdf0-c88e751581ca/8x8-picture.jpg?width=770&height=578&fit=crop&auto=webp"
-        width: 770
-        height: 578
-        isCached: true
 
 secured: "qTCA8swjKPzftca1xXj9G/Z2TiZpT+wI/7XVkzdx4vn8WL9tVU+3UnkFUQqotXbCDYoZCViZLu+8hLhoRtK5gA0C4YXttCnlzOe4hSHhfebRuQQV14qijaXlEMJqMMXlMzvHHxN23pbWMcOXftxRvs2uyVbzdHMU/+olgySbTIHdqz0Dsh4L1+lyKocT6osyUJCc2EjyqUk9P5Z5XkpMTfmT65aV+rG7JkoFXFRQDPtd8MT0V8WhDBtjdioVR4eeFt67pN4i28FxOv0CLPqshqovxZE9zI6JHCA6FXrXk62l6sgv5VFJK7nTzRB9xzU3f0As+skFdyqRzU5Sbwe4Mcp1yv4xmASrDNsTRS51EaU=;aMGYFhbEFn8mMmVNe0pI3A=="
 ---

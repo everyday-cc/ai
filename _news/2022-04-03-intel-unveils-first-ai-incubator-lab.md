@@ -40,6 +40,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Microsoft and HPE put AI to the test on International Space Station … with gloves"
+    excerpt: "“We’re bringing AI to space and empowering space developers off the planet with Azure, and it’s enabling the ability to build in the cloud and then deploy in space,” Steve Kitay, senior director of Azure Space at Microsoft, told GeekWire. The glove ..."
+    publishedDateTime: 2022-04-04T18:01:00Z
+    webUrl: "https://www.geekwire.com/2022/microsoft-and-hpe-put-ai-to-the-test-on-international-space-station-with-gloves/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 59
   - title: "Contact Center Intelligence Market to See Booming Growth | IBM, Google, Microsoft"
     excerpt: "The latest study released on the Global Contact Center Intelligence Market by AMA Research evaluates market size, trend, and forecast to 2027. The Contact"
     publishedDateTime: 2022-03-31T10:39:00Z

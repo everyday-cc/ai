@@ -32,17 +32,15 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "University of Tübingen: Degree program combines radiation science with artificial intelligence"
-    excerpt: "From the 2022/23 winter semester, the University of Tübingen will be offering the first profile area in Germany, “Artificial Intelligence in Medical Radiation Sciences”. In the Medical Radiation Sciences master’s degree,"
-    publishedDateTime: 2022-03-31T02:24:00Z
-    webUrl: "https://indiaeducationdiary.in/university-of-tubingen-degree-program-combines-radiation-science-with-artificial-intelligence/"
-    ampWebUrl: "https://indiaeducationdiary.in/university-of-tubingen-degree-program-combines-radiation-science-with-artificial-intelligence/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-tubingen-degree-program-combines-radiation-science-with-artificial-intelligence/"
+  - title: "UNESCO’s Information for All Programme launches the inaugural conference on Ethics of AI"
+    excerpt: "Adopted at UNESCO's 41 st session of the General Conference, the Recommendation on the Ethics of Artificial Intelligence is the first global standard-setting instrument, to ensure that digital transformation and innovation promote human rights and contribute to the achievement of the Sustainable Development Goals."
+    publishedDateTime: 2022-04-04T15:11:00Z
+    webUrl: "https://www.unesco.org/en/articles/unescos-information-all-programme-launches-inaugural-conference-ethics-ai"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 27
+      name: UNESCO
+      domain: unesco.org
+    quality: 25
 
 secured: "HFcgvHcSn/G34SkJODeB+D4JgHSZ/2yizNdCpb/qHygSlhN07QY0DolshjkZvlKCiI/EyIjfXkWE1TROzDaoLUoSBscNyzjcyl1ee1LBGzWU0GHKZ5qdPGcthKe4xmdgOVbHgdD/G5CuCKoID06qtqocFDkujefHbKY46dVAbFSxUS2ajMBLndDjgWTqVzcjgpNrJVM6iL1BMt1A6R0Z4YtUM1CZuK3i3aH3LkkcbzLOTnW0WY63iKsQ4MdP/XdOeaeC/c+OUd/lMLjwcij4oSotUg0B48PVX5W7OM9PUFmsIWMkkKy2w1251+MzfcxIyFSGnWX8z7QXi6L1ysnHGHONbhWfia7S+jbZ4cu3CUA=;5psCyBqZJtSL1VBgR5v9HQ=="
 ---

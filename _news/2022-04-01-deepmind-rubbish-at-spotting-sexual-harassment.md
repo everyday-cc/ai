@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Whistleblower says DeepMind waited months to fire a researcher accused of sexual misconduct"
+    excerpt: "A former employee at DeepMind, the Google-owned AI research lab, accuses the company’s human resources department of intentionally delaying its response to her complaints about sexual misconduct in the workplace,"
+    publishedDateTime: 2022-04-04T18:18:00Z
+    webUrl: "https://www.theverge.com/2022/4/4/23003311/deepmind-ai-sexual-misconduct-google-alphabet-fire-researcher-accused"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 54
   - title: "Google’s DeepMind AI has taught itself to walk, and it’s as entertaining as it is fascinating"
     excerpt: "Google’s artificial intelligence company has created a program capable of teaching itself how to walk and jump without prior input.DeepMind’s website says it is on a “scientific mission” to push boundaries in AI."
     publishedDateTime: 2022-03-31T13:06:00Z

@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Whistleblower says DeepMind waited months to fire a researcher accused of sexual misconduct"
+    excerpt: "A former employee at DeepMind, the Google-owned AI research lab, accuses the company’s human resources department of intentionally delaying its response to her complaints about sexual misconduct in the workplace,"
+    publishedDateTime: 2022-04-04T18:18:00Z
+    webUrl: "https://www.theverge.com/2022/4/4/23003311/deepmind-ai-sexual-misconduct-google-alphabet-fire-researcher-accused"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 54
   - title: "Deepmind rubbish at spotting sexual harassment"
     excerpt: "In this case it is a human problem It is starting to look like the humans behind AI are worse than the actual technology as a former DeepMind employee has blasted the AI lab for being “grossly inadequate\" in dealing with internal sexual harassment."
     publishedDateTime: 2022-04-01T09:56:00Z

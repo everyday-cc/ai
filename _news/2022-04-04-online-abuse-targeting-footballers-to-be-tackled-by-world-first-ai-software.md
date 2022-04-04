@@ -3,8 +3,8 @@ category: news
 title: "Online abuse targeting footballers to be tackled by ‘world first’ AI software"
 excerpt: "The A-Leagues and players’ union will use new technology which acts as a filter to stop racist, homophobic, sexist and other harmful comments"
 publishedDateTime: 2022-04-03T23:58:00Z
-originalUrl: "https://www.theguardian.com/football/2022/apr/04/online-abuse-targeting-footballers-to-be-tackled-by-world-first-ai-software"
-webUrl: "https://www.theguardian.com/football/2022/apr/04/online-abuse-targeting-footballers-to-be-tackled-by-world-first-ai-software"
+originalUrl: "https://www.theguardian.com/football/2022/apr/04/online-abuse-targeting-footballers-to-be-tackled-by-world-first-ai-software?fr=operanews"
+webUrl: "https://www.theguardian.com/football/2022/apr/04/online-abuse-targeting-footballers-to-be-tackled-by-world-first-ai-software?fr=operanews"
 ampWebUrl: "https://amp.theguardian.com/football/2022/apr/04/online-abuse-targeting-footballers-to-be-tackled-by-world-first-ai-software"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/football/2022/apr/04/online-abuse-targeting-footballers-to-be-tackled-by-world-first-ai-software"
 type: article
@@ -42,6 +42,6 @@ related:
       domain: mirror.co.uk
     quality: 31
 
-secured: "asM5PjhxBRU6H+JcrvLIc/VUke7z6BiH71SHiYnz/4OvzVlREn6V3NiuZlL2ekQRbQJqZcid+vZBd5VGT/OmsIdAoAzRoKqci8yX47OXH6d3hQsRxQd197RUfb5frGPIe7WiixZMmv/4C59GBQSGU3vYx/WfspoP0yoi9tthRGE/1IZCP7iUAOEF9idssKchn506CJV0Mr31I5tA/lcGvxl74ybrLgoT82aA8LPFemDdr9LGRhdKhjZ8cp3y4M9wLn71WnwfjYsNcQURMZ4zT8Y72lLNWw4YiQvtcw3XuaohSqnr3uEoefwGDXrpDWUs1vEmM5KNjvSYSfqCHmee9HuuyuXKe95T1p5NeKN+3ubvXipHyAeAAJmXjRmzgyLLRiGRnr5OI/YfPdkwvxHq4gTtCnu314k3AS0FRwyLdmaQpAJhGxfOP0J65An24qso2PQGuJIcgCk5OKuh40gWTvzt1SMqLYmHUsNxVdZLv5ZhohERU2IhSL4kK17v+qHSDN9/Z4R7d6AkONnUcGrEYA==;ToJns7xdxbQzYeAK2g0DTg=="
+secured: "NoEG26Kfgd/ebkOl6Bh9g7UM20j/qjA3acsHmGd851GovH5q3SsdWuIVEl3AaAzIhsH+PBv7ohj7imi4xjTnqIOVwkCJlB8XOIrRiumJI1k2JvVzwVs+YsvdHJvrgTwgWObrTBOiqBp01pLRu0KtZCO3XXnOu/fEyKf6TQmLAnRvUn/JxPuxgw21wHzMsxM0lVvlFmMB+brI992rm3zRKq9mnzNNPM0rzlrrfj6kbvzFtttkcDuw+PcUyty1rOwW9D7JO7b98DYWMvkGwcfjULYtLvv42ZfHESOTRHcpz8p19AAokdun8HSQdkuMf2KXcOpyXAB0fClmjgupYoSB43A+dW0H6U8Ofu6rOstN5Ao=;QuXuwkbYDw6VzM6YO6URaw=="
 ---
 

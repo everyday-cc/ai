@@ -1,19 +1,26 @@
 ---
 category: news
 title: "Artificial intelligence: A tool for the future of mining"
-excerpt: "Given the massive amounts of information that must be analyzed in the early stages of mining exploration, data interpretation is a considerable challenge for geologists. Professor Erwan Gloaguen of Institut national de la recherche scientifique (INRS) and his research partners decided to take developments in this field a step further by adapting existing deep learning architectures to interpret data from airborne imagery."
-publishedDateTime: 2022-03-29T11:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm"
+excerpt: "More than $379,000 in funding will support the development of a new deep learning approach for processing geophysical information. QUÉBEC and MONTRÉAL, March 29, 2022 /CNW Telbec/ - Given the massive amounts of information that must be analyzed in"
+publishedDateTime: 2022-03-29T15:39:00Z
+originalUrl: "https://www.quebec.ca/en/news/actualites/detail/artificial-intelligence-a-tool-for-the-future-of-mining-38987"
+webUrl: "https://www.quebec.ca/en/news/actualites/detail/artificial-intelligence-a-tool-for-the-future-of-mining-38987"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: quebec
+  domain: quebec.ca
 
 topics:
+  - Machine Learning
   - AI
 
-secured: "OYpywI8jGzwy2ZECBvjtjmHoBKtI4HkH/gRRcDvsQB00VRWUqtW6DZCpZRX7RZrkzaDmhKFqODkAEdPMXO7M/MEhB0vSsX91iG3K9zhlKmLkyfLbwBHxxu8PPGqfLCfK1G3DzixQGnr+Pu7eqWepKl1HLmrKBApOuxi77/ESzvqa3aeiBxDnJGa8RETq1SKeebNUGqJ8yv4mLKZQxubtojJChWbJG8wA/flPBgI4h27IwiFxiMz7RzbipawjdlOmrYfG3WCaqCL51BFlUxq8a0nWu8paRQ2E66/nMVpPfVftfGLXHRR3mk/oSODFDBUbEnEaJLmdUpV4EVuMh/TCOvgz3T/iDLqUfyTlWHRTyyxGIsPPwNDNwxTkvg2m6cEJaCtvUTtyJtdyfhy2PRBhoiXmHpRJHKAB3SDrqneQ8wfgoOIBgtA7F4weFYB24Lni6c9QwjWJRJi5MO01wFM5srrKQ93StSncTC6t2RAN2zzkyPuZqIhSXpdi3RXnkmFwWqgNsu3g0OuN9KG+csEIDw==;Ofa5jeR4TwcZtj3DFug1qg=="
+images:
+  - url: "https://cdn-contenu.quebec.ca/cdn-contenu/medias_sociaux/og-defaut-eng.png?1644250556"
+    width: 1200
+    height: 627
+    isCached: true
+
+secured: "O3yERfiZFLoVOP0cXwiujbJsgrjh1RLl0HMm2TEwNJf6D2FDn1AW8u6R7+O5fvWwajlM3j1wASNUTk3IyjIcJcQRJv76S6orIKpcjfhZgcWTBZ+IRao2kU3IRbh1Oef21fKCzBZW6SpTe3petwrFNYghamIqWr/9RL/jtFDBYDBQUXqOQKSqJyU+3Xa6rwXWw3hED4y7i6aZj6DWmyf2WXlBXr6x3vwn66CHY625GZYNocEjnGqJPGfmQ8dg8440g819PvpgaBgjmZWfGS5mhHW7cw9NyUJdbOsGV1xEc99HOVuzj26nthk90MWfC3QuQccpC+PWLlZG5m1qi56bBldp3XpNc9S+zIWTbgyNab8=;duOyxDmtoun0tj8G/BaCpg=="
 ---
 

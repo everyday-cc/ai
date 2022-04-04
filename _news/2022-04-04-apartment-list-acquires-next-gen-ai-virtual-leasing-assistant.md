@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-04T14:17:00Z
 originalUrl: "https://www.wearegreenbay.com/business/press-releases/cision/20220404SF12246/apartment-list-acquires-next-gen-ai-virtual-leasing-assistant/"
 webUrl: "https://www.wearegreenbay.com/business/press-releases/cision/20220404SF12246/apartment-list-acquires-next-gen-ai-virtual-leasing-assistant/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: We Are Green Bay

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-ha
 cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://beebom.com/wp-content/uploads/2022/03/Intel-Arc-desktop-GPU-feat..jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "Intel Arc GPU specs, release date, features and more"
-    excerpt: "Arc graphics cards are discrete GPUs that are more powerful than the Intel Iris Xe GPUs integrated into Intel CPUs. Now that they're here, Intel is in a position to challenge Nvid"
-    publishedDateTime: 2022-03-31T04:00:00Z
-    webUrl: "https://www.tomsguide.com/news/intel-arc-gpu-specs-release-date-features-and-more"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/VDHdG2hYWc7mJSeegAXAEb-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Intel teases first Arc desktop GPU"
     excerpt: "Intel Arc graphics include AI-enhanced XeSS upscaling, AI-accelerated media capabilities, Intel Deep Link technology, etc."
