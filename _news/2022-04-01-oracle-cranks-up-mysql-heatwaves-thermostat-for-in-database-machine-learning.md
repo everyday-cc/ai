@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Oracle releases new machine learning integrations with its MySQL HeatWave cloud service"
-    excerpt: "Oracle MySQL HeatWave now supports in-database machine learning (ML) in addition to the previously available transaction processing and analytics—the only MySQL cloud database service to do so. MySQL HeatWave ML fully automates the ML lifecycle and stores all trained models inside the MySQL database,"
-    publishedDateTime: 2022-03-30T08:59:00Z
-    webUrl: "https://analyticsindiamag.com/oracle-releases-new-machine-learning-integrations-with-its-mysql-heatwave-cloud-service/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 31
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Oracle-Offers-Free-Training-And-Certification-For-Oracle-Cloud-Infrastructure.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "0rckQSTVH/IQjhYc+bI/dbE9VuzQ5uw3w69ZbV4gu8+oIJf8mb7xK0W0EtM09qZWrYGZWzaT4qqtThRRi6uIPzuJsaVpUoJQgpyN+foeOnwJXRPBbV1nUweNazNm+f2Wh09SCw+0QS8V9JNP9rIIStWDFVat3SEF+cOBfiqh3BGDx/1kDJllbVY3hkDvm7bDWHbxBSKBlO31JatIxxacsTkSqSHIgaboMbgLYn32Qwf+ZEH+6QZHaAHxS7cWcLW3kydBwTVs9aEBO9z5DH6j4kxbep3l7ahCNHgxpRMFL4VF84jGU5ED29mq+f60OOqculRjUd/p8ZtWyb/8orqH3M+LkQe0+45a38ZKBTwBuS6mZojZIlHIMqsnc048sQezOVUeUaY+eJpVvzKUllOR9ACywzjXVB5VyU+8fdLUx9RbifmsqzVqwjPma59MvL8XhZ9EXTF73h6/FQMJ5FMsxv4+uxmysLpQ6S6JhIV1DyzV3o43tG+7LYUIZ7NKQE1bgAZL8bGhh/qJn7sCZvN/Rg==;JCQJuHFfF8piyKrDv/bkKg=="
 ---
