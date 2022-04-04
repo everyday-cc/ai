@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "slyceit"
   url: "https://twitter.com/slyceit"
-  followers: 2141
+  followers: 2142
 
 angelList:
   url: "https://angel.co/company/slyce"
