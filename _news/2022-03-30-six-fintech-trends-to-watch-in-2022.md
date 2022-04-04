@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Fintech-Blooming.jpg"
         width: 1600
         height: 1184
+        isCached: true
+  - title: "Bharat Bytes: Demand for tech talent; Google’s dual billing; ONDC launch; unlicensed fintech"
+    excerpt: "India to witness massive demand for tech talent. Digital transformation across telecom, engineering, and healthcare sectors has made software, big-tech, and data professionals’"
+    publishedDateTime: 2022-04-03T20:30:00Z
+    webUrl: "https://www.computerworld.com/article/3655930/bharat-bytes-demand-for-tech-talent-google-s-dual-billing-ondc-launch-unlicensed-fintech.html"
+    ampWebUrl: "https://www.computerworld.com/article/3655930/bharat-bytes-demand-for-tech-talent-google-s-dual-billing-ondc-launch-unlicensed-fintech.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3655930/bharat-bytes-demand-for-tech-talent-google-s-dual-billing-ondc-launch-unlicensed-fintech.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 33
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/11/bharat-bytes-100912564-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Future of fintech: Tech-driven access key to acquiring, delivering products and services to customers"
     excerpt: "This is expected to drive new business models to enable new customer acquisition, better customer engagement, provide newer financial products and add monetisation layers. India continues to grow and lead in the fintech sector globally,"

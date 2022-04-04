@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=12446
 webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1244638&cat=PRN"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit ?ambeq, Enhancing Accessibility"
-    excerpt: "The quantum natural language processing team at Quantinuum, the world's leading integrated quantum computing company, has released a major update to its open-source Python library and toolkit, ?ambeq (pronounced \"Lambek\")."
-    publishedDateTime: 2022-03-30T05:35:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/257319"
-    type: article
-    provider:
-      name: RYT9
-      domain: ryt9.com
-    quality: 1
   - title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit Î»ambeq, Enhancing Accessibility"
     excerpt: "The new release has been designed for a growing community of researchers, developers and users versed in quantum natural language processing (QNLP) and natural language processing (NLP)."
     publishedDateTime: 2022-04-03T18:38:00Z

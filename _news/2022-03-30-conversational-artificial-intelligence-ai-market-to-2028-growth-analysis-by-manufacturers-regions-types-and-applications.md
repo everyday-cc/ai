@@ -55,20 +55,6 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "Why does conversational AI matter in the metaverse?"
-    excerpt: "NVIDIA said that Riva 2.0 has been integrated into TAO, a low code product for deployment and customisation of speech applications."
-    publishedDateTime: 2022-03-30T05:48:00Z
-    webUrl: "https://analyticsindiamag.com/why-does-conversational-ai-matter-in-the-metaverse/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/AIM-illustrations.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "The Role of AI in Conversational Commerce"
     excerpt: "Artificial intelligence (AI) plays a crucial role in conversational commerce by providing businesses advanced chatbots and virtual assistants to engage in a personalized way with customers."
     publishedDateTime: 2022-04-01T09:42:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/South-Koreas-KT-debuts-AI-quarantine-ro
 webUrl: "https://www.econotimes.com/South-Koreas-KT-debuts-AI-quarantine-robots-to-fight-virus-disinfection-1630451"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -25,49 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "KT launches AI quarantine robot"
-    excerpt: "KT has launched an artificial intelligence (AI) quarantine robot intended for use at hospitals and other large facilities receiving many visitors. With quarantine robots being just the start of things to come,"
-    publishedDateTime: 2022-03-30T06:06:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2022/03/133_326427.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326427"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326427"
+  - title: "South Korean company debuts disinfection robots"
+    excerpt: "and are produced by vendors including Bear Robotics. Their artificial intelligence software will operate on the 4G network infrastructure or above. \"KT aims to build a bridge between robot solution providers and those in need of the new robot service ..."
+    publishedDateTime: 2022-03-31T05:24:00Z
+    webUrl: "https://www.straitstimes.com/asia/east-asia/south-korean-company-debuts-disinfection-robots"
     type: article
     provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 74
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
     images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202203/2b579531f9c14bba911005012964263f.jpg"
-        width: 980
-        height: 653
-        isCached: true
-  - title: "Meet Buddy, The AI Robot Helping Teach"
-    excerpt: "Buddy is an artificially intelligent robot that is being shown off at Bett 2022 as a way to help teach students. The smart robot is built to help communicate emotionally with children for connected learning engagement. That means that this little bot buddy ..."
-    publishedDateTime: 2022-03-30T09:30:00Z
-    webUrl: "https://www.techlearning.com/news/meet-buddy-the-ai-robot-helping-teach"
-    type: article
-    provider:
-      name: techlearning
-      domain: techlearning.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/bEAyqPUWEtdUVAKp2eewND-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nebula 41 launches AI powered art engine allowing anyone to become an artist"
-    excerpt: "The platform allows user to mint their created work on the Ethereum blockchain as an unchangeable and tamper-proof NFTLONDON, UK - 31 March, 2022 - Nebula"
-    publishedDateTime: 2022-03-31T23:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/nebula-41-launches-ai-powered-art-engine-allowing-anyone-to-become-an-artist"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 34
-    images:
-      - url: "https://www.abnewswire.com/uploads/f298cdad121b83f0bbbd8dc48439fd69.jpg"
-        width: 600
-        height: 277
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/03/31/AK_kt_310322.jpg?VersionId=1qKbTJn4IxKwFDfU2dpOuiGSXLefPtDV"
+        width: 860
+        height: 573
         isCached: true
 
 secured: "QLjTuafCTjpx5YyZHQFLQzGBL12x8Z6ycszP2RwSSryb4gC8RsigSJ8apGEQqWuRJxdnJWskK9CdFgJfYI80KX9m5ZChqrydKQSPinLgld/lMCszzl3ZUi00GGKzQmRXTjePww/z3HfwEPKrIcXK0t94uPysHwPyVsuusDVJvRSngIIk3fCFWGhe0P2KZahmaC7UOyiKg1u+j5wvMxpGMwao9mrdtB/+CVJI2UNjYljSiji1QGHELupvIynbvTS75QVC5KumzuJp8efIXwfyZyFWigRYvstFwq64s/2M2QXYQCpg/P04e+l5VzPre3VP9+ufyPc1gR6g39uIe5bDQxyiat7GaAiNGnGYjYBcZxLM/D1grAzH/be3MHzF0kfcAYE6FxopePBjW4/Fxw26iUqBAg4bRUpETT6rwMuYBkWJKAKnypJPJhqWkeT4FV73iwwkmEVFNaP61h2ihC+ypYW3/0M6rVqM0WJ6QFwTrVIJ3OtzE3aGfNerOIXt2su/NiBywaS12byztN1/3tgo2A==;9NxP0MnNNuac5/HxkrsLnw=="

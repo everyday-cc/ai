@@ -54,20 +54,6 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "Why does conversational AI matter in the metaverse?"
-    excerpt: "NVIDIA said that Riva 2.0 has been integrated into TAO, a low code product for deployment and customisation of speech applications."
-    publishedDateTime: 2022-03-30T05:48:00Z
-    webUrl: "https://analyticsindiamag.com/why-does-conversational-ai-matter-in-the-metaverse/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/AIM-illustrations.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Conversational Artificial Intelligence (AI) Market to 2028: Growth Analysis by Manufacturers, Regions, Types and Applications"
     excerpt: "The global conversational Artificial Intelligence (AI) market size reached USD 4.91 Billion in 2020 and is expected to register a CAGR of 22.6%, during"
     publishedDateTime: 2022-03-30T07:13:00Z

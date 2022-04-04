@@ -9,7 +9,7 @@ ampWebUrl: "https://www.herald.ng/artificial-intelligence-and-robotics-in-legal-
 cdnAmpWebUrl: "https://www-herald-ng.cdn.ampproject.org/c/s/www.herald.ng/artificial-intelligence-and-robotics-in-legal-space/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Watch: How Are AI and Robotics Changing Logistics?"
-    excerpt: "Oliver Hedgepeth, professor of logistics with American Public University System online, offers guidance on what warehouse employers and workers must do to adjust to the new age of automation."
-    publishedDateTime: 2022-03-30T05:09:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/34793-watch-how-are-ai-and-robotics-changing-logistics"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 69
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/How-are-AI-andRobotics-Changing-Logistics.jpg?height=635&t=1648616695&width=1200"
-        width: 640
-        height: 354
-        isCached: true
   - title: "Scientists use AI and robotics to repair spinal injury symptoms"
     excerpt: "A team at Rutgers University have figured out how to regenerate tissue for spinal injury symptoms - using AI to create therapeutic proteins"
     publishedDateTime: 2022-04-01T11:43:00Z

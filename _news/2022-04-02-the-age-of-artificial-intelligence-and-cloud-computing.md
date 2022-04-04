@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 620
         isCached: true
+  - title: "Adversarial AI and the dystopian future of tech"
+    excerpt: "The occurrence of an adversarial attack on AI or machine learning highlights a deep crack in the AI mechanisms."
+    publishedDateTime: 2022-04-03T23:10:00Z
+    webUrl: "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/"
+    ampWebUrl: "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1304572540.jpg?w=1200&strip=all"
+        width: 1200
+        height: 626
+        isCached: true
   - title: "AI And The Secret To Employee Happiness"
     excerpt: "People want a better work experience—and they’ll take their talents elsewhere if they don’t get it. AI can help you deliver."
     publishedDateTime: 2022-04-01T18:14:00Z

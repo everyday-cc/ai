@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/nebula-41-launches-ai-powered-ar
 webUrl: "https://www.digitaljournal.com/pr/nebula-41-launches-ai-powered-art-engine-allowing-anyone-to-become-an-artist"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -22,52 +22,6 @@ images:
     width: 600
     height: 277
     isCached: true
-
-related:
-  - title: "KT launches AI quarantine robot"
-    excerpt: "KT has launched an artificial intelligence (AI) quarantine robot intended for use at hospitals and other large facilities receiving many visitors. With quarantine robots being just the start of things to come,"
-    publishedDateTime: 2022-03-30T06:06:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2022/03/133_326427.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326427"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326427"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 74
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202203/2b579531f9c14bba911005012964263f.jpg"
-        width: 980
-        height: 653
-        isCached: true
-  - title: "Meet Buddy, The AI Robot Helping Teach"
-    excerpt: "Buddy is an artificially intelligent robot that is being shown off at Bett 2022 as a way to help teach students. The smart robot is built to help communicate emotionally with children for connected learning engagement. That means that this little bot buddy ..."
-    publishedDateTime: 2022-03-30T09:30:00Z
-    webUrl: "https://www.techlearning.com/news/meet-buddy-the-ai-robot-helping-teach"
-    type: article
-    provider:
-      name: techlearning
-      domain: techlearning.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/bEAyqPUWEtdUVAKp2eewND-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "South Korea’s KT debuts AI quarantine robots to fight virus disinfection"
-    excerpt: "KT, a South Korean company, launches another innovative robot designed for hotels and restaurants. This time it is announcing the arrival of its new AI Quarantine robot to help fight virus infections."
-    publishedDateTime: 2022-03-31T08:41:00Z
-    webUrl: "https://www.econotimes.com/South-Koreas-KT-debuts-AI-quarantine-robots-to-fight-virus-disinfection-1630451"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 53
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/2022033175c07e84673d7d807_th_1024x0.jpg"
-        width: 640
-        height: 420
-        isCached: true
 
 secured: "KIx2AfbKOxDtZFKl2jUFv2Xe1ufAOtyZkcL5IphqEtlivdlWSJ2Mebn/pfkeOpCe+cTLtwcLvm5mAqVWJtpfuPWzSI9OD0f7oU3TnjyB++S5uHITsrZJ/aqubaWjuYoxPBNDAcUvCLjWrNHlJ4gaeE2AdJKJVxzX3zZhgNd5U5GkUbbHEJEJCCfzAZJvFSH+MkD2ViQ/CyRkLWLl28noJe8vFRxZDKir0OmCc7OtWjwMq48gi9ZfYe45YZQ+s6m7WjornX6Ifqosx68ooVBmYbB/cgR7XnNoQfBc7AK+AfRf+SVkNLgW59xDaj24i8cfO3h2iN6sXbodYVtrNr9wWrKAqs0e5Q+4nNSma3ZwL0U6XnwwIK6F7z7JI3GXIHiOqAGY/2Bkq9BbI6+3W5FfjmBU7GM9XNvYlnInBspes30rQwaL837Vz0fq38Q/sTEvofUHdE1WzTX6vW7zqipZrOJ3Qeu8h3de9EGV1LWNI/4OHzKL2atME3XBRfk/hYmKdQPY3RirF64HhMvCAp0xtw==;W6IFopwi8V0CNfxmRN3foQ=="
 ---

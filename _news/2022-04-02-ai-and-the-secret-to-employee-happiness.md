@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 620
         isCached: true
+  - title: "Adversarial AI and the dystopian future of tech"
+    excerpt: "The occurrence of an adversarial attack on AI or machine learning highlights a deep crack in the AI mechanisms."
+    publishedDateTime: 2022-04-03T23:10:00Z
+    webUrl: "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/"
+    ampWebUrl: "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1304572540.jpg?w=1200&strip=all"
+        width: 1200
+        height: 626
+        isCached: true
   - title: "The Age of Artificial Intelligence and Cloud Computing"
     excerpt: "The use of AI in legacy modernization will reduce time-to-market, boost reliability, and motivate organizations to modernize applications at a faster pace."
     publishedDateTime: 2022-04-02T11:08:00Z
