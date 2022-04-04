@@ -2,25 +2,19 @@
 category: news
 title: "Supermicro Breakthrough Universal GPU System - Supports All Major CPU, GPU, and Fabric Architectures"
 excerpt: "(SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing technology, has announced a revolutionary technology that simplifies large scale GPU deployments and is a future proof design that supports yet to be announced technologies."
-publishedDateTime: 2022-03-21T13:41:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-san-jose-1d27a23535ea3776588e28dbf527a5c7"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-san-jose-1d27a23535ea3776588e28dbf527a5c7"
+publishedDateTime: 2022-03-21T14:15:00Z
+originalUrl: "https://www.myhighplains.com/business/press-releases/cision/20220321SF97343/supermicro-breakthrough-universal-gpu-system-supports-all-major-cpu-gpu-and-fabric-architectures/"
+webUrl: "https://www.myhighplains.com/business/press-releases/cision/20220321SF97343/supermicro-breakthrough-universal-gpu-system-supports-all-major-cpu-gpu-and-fabric-architectures/"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: myhighplains.com
+  domain: myhighplains.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "sKmYzlMT4w8pXb4EF2Tr2rdQiYHbXM5W+abN8lonPCxtb2X98W9lp/pcN0MBo9n3AykHMo8NT/dB17L4nJpvGVmmLLomjB1zKp8PWWk8ewBUDs0vJFUcvC7YK5h1jFdlO2+RjY7tVhgtbom9BEB3A8HHwNRVZW/duDC4YIY7fJt64EcSSJLvaMm5gF7u3KNF1loMcaVWxOty2qwyvGOrB4jL9C5B4IiGDzh+37bqvp52q/hSV33fCbbcyJx8pxkSqO2vEeLTj1Gk9QKreIl6ay/uX9iBahviZmcWckRVPBau+k4osUXLgV4eod9z3GiGDn5Hw9+xPCvhLM/z9Jj2GsdkKvSa7prGsCYqFAHQK2Q=;Y7i0OF+F+PjUvwgUVUdSCw=="
+secured: "REaAKR+fF7cRGyKUgrHi00m/ODMpWc9sL1HDFLIx18cw/4trByd+hVRnEuwU1dVyCrvzvmYzYzAMQheO55RKHll2BpeevRRS8K0MARiwtGGIRT+mbjDYydxEl8r6T4fmCb3toHmLicInoxWXbz5F7Xrr+hn/oVttL7PE/Kk82Kw0j/uOodHBSTdlaFGdukQcgipNoh5ggeRusI7zgNJYITHRNQBYCjJNJEm6zsY9KbW4XpbCFSfGC5uQ8VCxyy6PM9aY/ZfQ4672LIE2CClffwSzcFBPc8sctZsFUerAEKYTYWz3wz8bBQuoHpjt8N3/eGqV7Y5xQIxRXDZ56iWyorbtzmjJSUVn/qD/lgcC360=;UuAgmKhefQ3sLgweg6kIKg=="
 ---
 

@@ -3,10 +3,8 @@ category: news
 title: "How To Eliminate Ethical Bias From Machine Learning And Data Analytics"
 excerpt: "Julien Alteirac, Regional Vice President of UK&I at Snowflake explores... Over the next few years the increasing availability of tools such as AutoML will help democratise machine learning (ML) and em"
 publishedDateTime: 2022-03-24T09:35:00Z
-originalUrl: "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/"
-webUrl: "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/"
-ampWebUrl: "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/"
-cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/"
+originalUrl: "https://techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/"
+webUrl: "https://techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/"
 type: article
 
 provider:
@@ -18,12 +16,6 @@ topics:
   - AI
   - AI Ethics
 
-images:
-  - url: "https://techround.co.uk/wp-content/uploads/2022/03/possessed-photography-jIBMSMs4_kA-unsplash.jpg"
-    width: 2400
-    height: 1727
-    isCached: true
-
-secured: "Q+loh0YoQ3yfsEF4/cNPsSXgJ3FWMmzcDZsZHbCzNo/vTqe5icBzJH9Frdntbo4js1oC+JaXmrab2V3eia9d/bjfCBkMRYeC6XV4uwxFUv7nMIgVBltm/fVLhw0bF6hIslacEeozIHneRPtmh68TnZBPW0/0H9SchjKM422Gz9TlFAjFlsDuv8M5CNWcBw0sWRG9hQM9uFlJYAhNYAyRRPL8ObRKJXLuit4BbhDMcjIoVbipoIkyte3mxEWyBu7PcC2qmgMlFXBw+qFpcarmHqhTpz5Eu4nNJCsf4pljK6GdpJF62FFEvUINKtQnutFpK+GfjkSdwffYBjgu0yqNussbU5v5sMhfty2/lzUaOtES9AWLIzuq7Kju6iFt+SczMWrseBwrlgAlvnPYX8oikUevZc4QTxYiwNIknu8uLA+uvZHqR8em1AxKtIKugwB5whaM8SEqFU1pDUG3iryLEGbac6ZYRvyO9ArnDSEt79sti2rkubXRQtccnnvB+Nhw6YGoHrBU+P7ZIzNqi/Gq5w==;pJEzIRR0ScJbRBxvLLsBrQ=="
+secured: "IV15A7b4QiiQiGplOp2BawSzlk6Pp2KcnJanZZXEvUWeiDOQLPLyMytnjihVKe4zWVaaKQdYP+l2r5SV1CQNrr9xFxLuVXUDLYX1mTJ9PPcqBCQjQpLWmhh3lNsziPkCL9qXu2iVK734GfSmuVulQVjs+olMTwF6XSXi8GPIlR3WZCNbaCEOb9FLz04/Al8l2QitAbME54KSoc2dry0RgQbBoZzcaxIDmmDfn9wF1LlZSXFYlvM5WWwNzboIT9O4KkTGsnqRW734BKnURRlc9OcTwil6i9caddEIuNSU8YuAVGK4buGdUw3hMamNnoCi1/jQv5n4ScEF4MSG9ioychF+zQN39Nrr6msCNCrd5Uw7d6lr5+Wq9dBwIoLHMFapifrmFpIU98U4N8iVs5TMvQYBxT2uLtODHqidKWZ/q9IOV+XR8zYBuw0DNSpO3C+miA6jv0gewJJ6DTGT4AoMqJJuUbq6t+3XUjkycQF/8HPl7PySSqWZxSs/PCrqMG3gt+r9c5BpXEOgUDze/7nApA==;QI0urVwgbonGH0pHrsaIbA=="
 ---
 

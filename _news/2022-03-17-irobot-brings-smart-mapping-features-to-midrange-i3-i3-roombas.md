@@ -19,12 +19,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://sm.pcmag.com/t/pcmag_in/news/i/irobot-bri/irobot-brings-smart-mapping-features-to-midrange-i3-i3-roomb_hmh1.1200.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "z1EuzRAUeGVMv4ouBk1P4rL6zbhc1hDeDyfbhHhTCBPGaSCU/fRLlAekEki3A4O3KnZn60i8to0plDYc0yFl/h0hvTGMqoit86qc5OK1Vm9xsDspqo164QfmQtVznK+cxWBsAp4REOMUZ10PzyBhheUzrU0VsOct8UGeEdRNhMKIpz6alk9HFIlWx1m436MOTxla1DVbB2YLWTH0l2i8fCX0z+U33OZDsiWDAj1ZxsAE9zjeRpXoniEEJfwvqGXf448yBXqAoM+CGwXXgVJrEVOI2XmacfMN7UEWVexPNOms4nRmxsPTyvxFlZShjxZYgOQfvHJtzUIw5+kfgulJ78+DIXQ6pxQ2L5ecdaAljr8=;opkT/1orcRhhhkibu2IV7A=="
+secured: "chfhUwcjcJuRdYmTliqSG2pBoFq0BrHAatcEtzJN0bquxyVmeWc00ZShyAmh6hJG/YcAz4NuGdoJNnYDfvUm4bSEqU0OPgJ1AlsOaFI3JQJJyzB7OvaVyjL0q2yV0sSG/1yK/5PkpzgbYCVyUByAmbbAuvbKeBbVIDMpEwDjGDy6ZWqB2Nmza3fjFwuDAQS4Gun0yEXMygLsbWM4h6KUTXNQ/sthsB0U1MnDwWtKpLWeRuljdh04sFsxcBPGNAOK4AvHALxiDlwRnTqpoOhX+AliOsJ1P2YXJ+PmLGnURVW0ozuB7QVaK89sdGEnc2kKaOZg2+ICtiOyPfyyZouVgIML03/Z6x4QobJxgUF+lMs=;MGvZNWNA2iCsKKJyYmZR+g=="
 ---
 

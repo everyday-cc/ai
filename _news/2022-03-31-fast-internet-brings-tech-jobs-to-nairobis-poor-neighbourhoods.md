@@ -6,9 +6,6 @@ publishedDateTime: 2022-03-31T09:45:00Z
 originalUrl: "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/"
 webUrl: "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/"
 type: article
-quality: 69
-heat: 79
-published: true
 
 provider:
   name: Reuters
@@ -22,28 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.reuters.com/resizer/4M_ZfsExf_mvYT37MXUvNasYssQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OOEUTUKC2VNONJNEVBOTIYDQO4.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-related:
-  - title: "Fast internet brings tech jobs to the poor"
-    excerpt: "Daniel Nzoma’s face glows in the light of a computer screen as he reviews computer codes used for driverless cars and crop disease detection, an unusual job in Nairobi’s crowded Pipeline neighbourhood."
-    publishedDateTime: 2022-04-01T22:04:00Z
-    webUrl: "https://www.herald.co.zw/fast-internet-brings-tech-jobs-to-the-poor/"
-    type: article
-    provider:
-      name: The Herald-Zimbabwe
-      domain: herald.co.zw
-    quality: 24
-    images:
-      - url: "https://www.herald.co.zw/wp-content/uploads/sites/2/2019/04/3004-1-1-SAMSUNG-GALAXY-NOTE-5-INTERNET-PROBLEMS.jpg"
-        width: 680
-        height: 380
-        isCached: true
-
-secured: "df0siLhkSdK/yF956Dy6hg3s7zTnSdrwOvdrWNFQSns3oL/kujP8eGS3RAOo3TjzHoAQtAmB7CfdymScASRAH7sGVBu1fsp7uKlaXAH2LXlQg5o6hFGVZupT/9Nz6ykXvfai6/9T2oCbs9guGJLeUUAPr2PgUf4mUJs0r1GtUiA/w9li5JKsLd+zy77iNya/NuJqj4NKVrLo/psHReMG8PQbS+/pnT+BVbmOFdx8abYJUKYT2c2rBYeC4zd0Q3ERMFprqP8bO6a9yr+WMLJ7v6fwo0mxLEym+M9Hghq5GiAB+xON6VOgLTt27pl0NAbnILLmJR+n4IZpGnr+VL82MyjpqjH+XKpwSf94W1tjecU=;XQ1dCCU96YzpmD9xnRdkCg=="
+secured: "IuMYUmGT8+3IScqHTWM9G4fkWGWnin0O7hh+4uqAnSCcL48zzTXYqAIDqWWbDwaoC+7Rb9THIVt4LIPRTqvTVM6dZurQmNxeQ+hdxjVM3lxqDOmKRL7v/iJhTaaOQmfjxmncSDPPIPYTFU13w+nQfW+yC2PvQ4xiuuD4TW7141GHrVhtfbZiY8E/tFUxrzpQOIEv+K91qHbTGGmFeIo9Ez6Y4xHcfKFMClCc5SPXrbrm/12+ZAL4KCRqYLdNkpmBsbZBrCx+OAduMoafKeWDaqkA3C+IKdqnEaqVZmMypIecx1cFVqKPPkxN51W1xfud2Swe9qi6VFmzTPd9/4dWJ5OHceeUTwUTmQ3PHQgb8zE=;IF3UeDwX2jdq0dtOWBGTfg=="
 ---
 

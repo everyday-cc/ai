@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://images.idgesg.net/images/article/2022/03/nkridler-career-roadmaps-100923109-medium.jpg?auto=webp&quality=85,70"

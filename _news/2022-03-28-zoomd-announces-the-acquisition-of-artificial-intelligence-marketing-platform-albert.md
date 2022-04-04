@@ -1,46 +1,21 @@
 ---
 category: news
 title: "Zoomd Announces the Acquisition of Artificial Intelligence Marketing Platform \"Albert\""
-excerpt: "Zoomd Technologies Ltd. (TSXV: ZOMD) (OTC: ZMDTF) and its wholly-owned subsidiary Zoomd Ltd. (collectively, \"Zoomd\" or the \"Company\"), the marketing tech (MarTech) user-acquisition and engagement platform,"
+excerpt: "Zoomd acquires substantially all of Albert's assets in a cash & stock transactionThe acquisition adds several Fortune 500 companies to Zoomd's client baseAlbert's strong focus on Google and Facebook"
 publishedDateTime: 2022-03-28T12:45:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20220328io05315/zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20220328io05315/zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert"
+originalUrl: "https://www.benzinga.com/pressreleases/22/03/n26320115/zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert"
+webUrl: "https://www.benzinga.com/pressreleases/22/03/n26320115/zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert"
 type: article
-quality: 48
-heat: 48
-published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Facebook AI
+  - AI in Autos
   - AI
   - AI in Marketing
 
-images:
-  - url: "https://mma.prnewswire.com/media/1039696/Zoomd_Logo.jpg"
-    width: 400
-    height: 400
-    isCached: true
-
-related:
-  - title: "Zoomd Technologies Ltd.: Zoomd Announces the Acquisition of Artificial Intelligence Marketing Platform \"Albert\""
-    excerpt: "Zoomd acquires substantially all of Albert's assets in a cash & stock transactionThe acquisition adds several Fortune 500 companies to Zoomd's client baseAlbert's strong focus on Google and"
-    publishedDateTime: 2022-03-28T12:55:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-03/55618558-zoomd-technologies-ltd-zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/1039696/Zoomd_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
-
-secured: "kXe2EsJndLEQdFRTfZ4geR97UdpxioIa9XUmScCb/0ku2Z099sOFA1IQz8ZQ2Pw1FQ3U24+CLmR6JiNSPlZSp8HXmpE8mCgVUXu8NOaCHZo7j9YJscibla5IlKJRpAFWwGnE+3pgTh3mIAltq1eoxRz9c1F8qUcYri4J0qwnymtRPTlb90l9oVxM+N8t+Fua0taXJDGQ2a9nt3P/XPh3SOv2uR/wLxx+toOnDKMaPxBYKi0XCfatU5NYL7LmkFppZS54bdC1bpxEU4lOiAu7vsmFA9ncUmtu//+alSx/d2WbfoL7L5EnBZfHsi7TNszZ63q/oXFgu0ISn+eapw/61RdH6VIlGUYeg9nFmrFGYCc=;MlrtNqfRqFb7mIfeIm2yaA=="
+secured: "gaPZZjh5zGk5xYd5RMiZ0MEw9lgWU1D4Fmz80MLbBI9gdsVuksvIAklrT71GkcKJNYpXHo2x5djLXPXl0/t80Ky6SV8FyYFLhS7drjrowtrKWY/kTmBIJfXbuloSNhxylkslz+Drlj6vJUc8XHxovp2hunmYZb62w41QaBt3l85QVKgyn/ZWFIWe5O6M/Gg2qUU9TytEpTBlqHZzjVw9JL8poVkdCe24mrYTB2t8pgBeZxLG1Vgk5OJjU+Y3wSOIqYSqaDGrA9KXUWvl17w3Mm0bzx7MV1HH96ZVPlbeKEm6klndo1w6vY4PeBekhczHSWWwPj5zJCVgZ+9HR/nu0SF8A7bCuHLiUSA5bs3bfWDmFCVdbzFA536CpQ09mrl+lj0x/vWJ/3Ki+tPQP6p7eeCj7LSsJHUZOyATwKVg+aJrSSVq0z+nZb6cmgltmZpghpdPRHXiN9NgnccD/xfKAdEnEb12zJY/aWQMH72scBQLLQm676ZM+Ce9zHamNR5Guo1nQBEaZ1lgTebWEfqIAg==;a9TsEu8PN5qvsIIOa5dYUA=="
 ---
 
