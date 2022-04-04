@@ -2,6 +2,49 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2022-02-05-celestial-ai-raises-56m-for-its-hybrid-photonic-electronic-ai-chip.md",
+      "title": "Celestial AI raises $56M for its hybrid photonic-electronic AI chip",
+      "excerpt": "Celestial AI Inc., a startup developing photonics technology for artificial intelligence applications, has raised $56 million in funding to support its engineering efforts. Sunnyvale, California ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/02/04/celestial-ai-raises-56m-hybrid-photonic-electronic-ai-chip/",
+      "originalUrl": "https://siliconangle.com/2022/02/04/celestial-ai-raises-56m-hybrid-photonic-electronic-ai-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/unsplash.png",
+          "width": 870,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-04T11:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-02-05-google-owned-deepminds-alphacode-one-step-closer-to-autonomous-coding.md",
       "title": "Google-owned DeepMind's AlphaCode one step closer to autonomous coding",
       "excerpt": "Google-owned artificial intelligence company DeepMind has created a new coding engine called AlphaCode, that it says is as competent as an average programmer. The company tested AlphaCode by putting it through coding challenges used in competitions ...",
@@ -1106,58 +1149,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-air-force-taps-clearview-ai-to-research-face-identifying-augmented-reality-glasses.md",
-      "title": "Air Force taps Clearview AI to research face-identifying augmented reality glasses.",
-      "excerpt": "By Kashmir Hill The U.S. Air Force is looking into keeping its airfields safer with help from the facial recognition start-up Clearview AI. The Air Force Research Laboratory awarded Clearview $49,847 to research augmented reality glasses that could scan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.html",
-      "originalUrl": "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/02/03/multimedia/03economy-briefing-clearview/03economy-briefing-clearview-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html",
-      "publishedDateTime": "2022-02-03T17:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

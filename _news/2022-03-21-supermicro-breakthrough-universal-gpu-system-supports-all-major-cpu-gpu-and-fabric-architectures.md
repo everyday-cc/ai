@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Supermicro Breakthrough Universal GPU System - Supports All Major CPU, GPU, and Fabric Architectures"
-excerpt: "Simplifies Customer Deployments, Delivers Ultimate Modularity and Customization Options for AI, ML, and HPC SAN JOSE, Calif., March 21, 2022"
-publishedDateTime: 2022-03-21T14:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/supermicro-breakthrough-universal-gpu-system-supports-all-major-cpu-gpu-and-fabric-architectures-1031295157"
-webUrl: "https://markets.businessinsider.com/news/stocks/supermicro-breakthrough-universal-gpu-system-supports-all-major-cpu-gpu-and-fabric-architectures-1031295157"
+excerpt: "(SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing technology, has announced a revolutionary technology that simplifies large scale GPU deployments and is a future proof design that supports yet to be announced technologies."
+publishedDateTime: 2022-03-21T13:41:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-san-jose-1d27a23535ea3776588e28dbf527a5c7"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-san-jose-1d27a23535ea3776588e28dbf527a5c7"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg"
-    width: 400
-    height: 206
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "8BDYq2VMl7FzO5mHyLycCnXK9aJ8pV2Z8LKr5r13MMhi8SVzcOW+OcjlAiqsxTGMSlMSLQTF8xVL1h1kenvlmZ4FL/T5pYv/cqG3b3PZTDAZku+42lRuKq+LdcUbLw/Gm1kvRWssIYff/XPb3GL+RyUM+p6acrkmbDUwzbvtvNG4dCXzjsQ8OFK096E3j0bumgLiJKu+JZtuWZ9u5NKLTlkEksUUTIfM4bW2yqNrNwH892lUKo2YU2qpvq5qUqoer4FJ1JF3h0J8lMooZSW+UOUWexjmkemHDogkW66RX0BUs3bCs16iCNgm9CyqUMHhGZLUnuQPpntHV2dTNmF10uVnAh81Y1rbmv4YmBAZpS4=;A6GfYBknO/OXnBYC8L0cww=="
+secured: "sKmYzlMT4w8pXb4EF2Tr2rdQiYHbXM5W+abN8lonPCxtb2X98W9lp/pcN0MBo9n3AykHMo8NT/dB17L4nJpvGVmmLLomjB1zKp8PWWk8ewBUDs0vJFUcvC7YK5h1jFdlO2+RjY7tVhgtbom9BEB3A8HHwNRVZW/duDC4YIY7fJt64EcSSJLvaMm5gF7u3KNF1loMcaVWxOty2qwyvGOrB4jL9C5B4IiGDzh+37bqvp52q/hSV33fCbbcyJx8pxkSqO2vEeLTj1Gk9QKreIl6ay/uX9iBahviZmcWckRVPBau+k4osUXLgV4eod9z3GiGDn5Hw9+xPCvhLM/z9Jj2GsdkKvSa7prGsCYqFAHQK2Q=;Y7i0OF+F+PjUvwgUVUdSCw=="
 ---
 

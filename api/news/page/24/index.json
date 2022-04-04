@@ -2,6 +2,49 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-03-12-3-ways-natural-language-processing-is-changing-cybersecurity.md",
+      "title": "3 Ways Natural Language Processing is Changing Cybersecurity",
+      "excerpt": "If you’ve used a chatbot, predictive text to finish a thought in an email, or pressed “0” to speak to an operator, you’ve come across natural language processing (NLP). As more enterprises adopt NLP,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/306473/3-ways-natural-language-processing-is-changing-cybersecurity.html",
+      "originalUrl": "https://www.cio.com/article/306473/3-ways-natural-language-processing-is-changing-cybersecurity.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/03/iStock-1354205086.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/306473/3-ways-natural-language-processing-is-changing-cybersecurity.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/306473/3-ways-natural-language-processing-is-changing-cybersecurity.html/amp",
+      "publishedDateTime": "2022-03-11T10:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-12-cleveland-clinic-enters-artificial-intelligence-driven-pathology-collab.md",
       "title": "Cleveland Clinic Enters Artificial Intelligence-Driven Pathology Collab",
       "excerpt": "Cleveland Clinic is entering into a collaboration with PathAI to build a digital pathology infrastructure to research next-generation pathology diagnostics. Based in Boston, PathAI creates AI-powered research tools and pathology services.",
@@ -1061,49 +1104,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-5-high-profile-health-it-acquisitions-in-2022.md",
-      "title": "5 high-profile health IT acquisitions in 2022",
-      "excerpt": "Microsoft completed its $19.7 billion acquisition of AI speech recognition ... its data and assets from Watson Health, which might be an effort to streamline IBM's operations and focus the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/5-high-profile-health-it-acquisitions-in-2022.html",
-      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/5-high-profile-health-it-acquisitions-in-2022.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T15:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

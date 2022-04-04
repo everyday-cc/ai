@@ -42,6 +42,20 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 0
+  - title: "Enterprise Manufacturing Intelligence Market Size, Share, Growth, Opportunity, Competitive Outlook and Industry Trends 2021-2026"
+    excerpt: "According to IMARC Group’s latest report, titled “Enterprise Manufacturing Intelligence Market: Global Industry Trends, Share, Size, Growth, Opportunity"
+    publishedDateTime: 2022-04-04T08:07:00Z
+    webUrl: "https://www.digitaljournal.com/pr/enterprise-manufacturing-intelligence-market-size-share-growth-opportunity-competitive-outlook-and-industry-trends-2021-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/bitcoin-illustration-DJC-1600px-600x337.jpeg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "GCwdd9fgOODtj9qZPQm0q6C0sjCowSJHvBYMD9UpUJHw2XB7xmxaQdHCL/oSE5OCkBQLPWIaBEexIIRSnyM5JAWwyqpiI3boeUl9n0a63ITeXwnhf0TGyKxQHgGpzUe+2gXwvHfqwK4t9qkB2ZEUQZUYEewSM5nYbNvfycWeui4U6dYD1YbCvso3kyAYqMVwLFHPDk7KXkkAQDvi5w038XT09OpbvucoxUFnhufl3V5ikZnvB6nJ708iurz3TK/aDaif5PHlcnh5cNDd4NRrAFyJYIyY+IAaHD80d0ETVBeXKU+rXO/tBrHt58Dj0guCWQZt+bLKanXkGuQHhhYqdVGnciE2HiiQzq9Z8uv2+o8=;5kkXzrkpLuyyM5RRvTP9pg=="
 ---

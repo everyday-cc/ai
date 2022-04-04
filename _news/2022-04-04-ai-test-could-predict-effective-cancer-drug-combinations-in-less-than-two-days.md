@@ -1,28 +1,22 @@
 ---
 category: news
 title: "AI test could predict effective cancer drug combinations in less than two days"
-excerpt: "Scientists have created a prototype test that can predict which drug combinations are likely to work for cancer patients in as little as 24 to 48 hours."
-publishedDateTime: 2022-04-03T23:39:00Z
-originalUrl: "https://www.icr.ac.uk/news-archive/ai-test-could-predict-effective-cancer-drug-combinations-in-less-than-two-days"
-webUrl: "https://www.icr.ac.uk/news-archive/ai-test-could-predict-effective-cancer-drug-combinations-in-less-than-two-days"
+excerpt: "Study shows test combining AI and protein analysis can guide treatment in lung cancer First of its kind test is more accurate than current genetic approach for personalising treatment Can be carried out in less than 48 hours,"
+publishedDateTime: 2022-04-04T08:35:00Z
+originalUrl: "https://www.politics.co.uk/opinion-former/press-release/2022/04/04/ai-test-could-predict-effective-cancer-drug-combinations-in-less-than-two-days/"
+webUrl: "https://www.politics.co.uk/opinion-former/press-release/2022/04/04/ai-test-could-predict-effective-cancer-drug-combinations-in-less-than-two-days/"
 type: article
-quality: 33
-heat: 33
+quality: 13
+heat: 13
 published: false
 
 provider:
-  name: icr.ac.uk
-  domain: icr.ac.uk
+  name: Politics
+  domain: politics.co.uk
 
 topics:
   - AI
 
-images:
-  - url: "https://d1ijoxngr27nfi.cloudfront.net/images/default-source/default-album/test-tubes-purple-547x410.jpg?sfvrsn=e7843669_0"
-    width: 547
-    height: 410
-    isCached: true
-
-secured: "aUKrWyoOdQMZem1wsYoNDEy0gaLPAVsCrvo/1iwUfZ0LmJQOIjAMwSbhm5BHut2TmRpzVqJpS1piGVwKQYabVScLWXInq5EB24IK7yobX5E16wTVYsV4OOiaKQA2ZtIAbGC1+rlRCR93D4Q0eKGAFw5yleou5hYbPTokS51n31QqnQqy3JZW8SjHuuAZEFEg2AGzhc71LCaHbBgKbhs7/v/RG6mZruEuXxWQ5oPFaOpsqFwNc85AX8i5+e9uism6P+i8tI2XpYCxbwYba67A1tIBoLbJCYnC6Df7E/j5qVZRTQliB2DCL1x8m0IXJ9QyyOocCWSqoYJaMiPv5Cyq0JoDSTLUM8p1+c0tc41CL+s=;gupUMZrfSLBOJHKco0CzVQ=="
+secured: "DvPdWl7GlaG6xyFNV/bgRQoUPiciCWfcwRdLyU4IBnFBdsuAPGF6zfDVoMUCAZxdiQQ1oy3CPoF2/FQ6KyPeycv+e5Ey5ufZ0q6RHanhC2zhI5G8BQ1HEjF7o3ZssIupqxIXGP1F684EViIqsz4ucTAQ6UXzF9obQpGYzT7WgSwjUArx0rmm5ajKpm9xZCGFIiEcEY6BDkqX1Nw+3lb5m0DmSvBnK9Fx9O5IPIkai1EHifBznb8xD20jh1uycknz1id16cH3dlfBWy5u1tVJNzrXnZoFUG01nS9QaBLvxPhhj+CnmSwjCotbVKHoi+timxzEF8AXOZfhW2qe4XAZ2m+1ETDvNko7NwIgx+vEros=;vn/b7TOU6AY0gQFmD0PP+g=="
 ---
 

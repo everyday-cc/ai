@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Will Smith Would Face Little More Than a Slap on the Wrist If Charged, Legal Experts Say"
-    excerpt: "But what does that recognition say to us about the legitimacy and credibility ... Defense attorney Adam Braun said it's unrealistic Smith would face charges in the absence of serious injuries and without support from Rock. “Although a prosecution is ..."
-    publishedDateTime: 2022-03-30T15:49:00Z
-    webUrl: "https://www.nbcmiami.com/entertainment/entertainment-news/will-smith-would-face-little-more-than-a-slap-on-the-wrist-if-charged-legal-experts-say/2725164/"
-    ampWebUrl: "https://www.nbcmiami.com/entertainment/entertainment-news/will-smith-would-face-little-more-than-a-slap-on-the-wrist-if-charged-legal-experts-say/2725164/?amp"
-    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/entertainment/entertainment-news/will-smith-would-face-little-more-than-a-slap-on-the-wrist-if-charged-legal-experts-say/2725164/?amp"
-    type: article
-    provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 35
-    images:
-      - url: "https://media.nbcmiami.com/2022/03/GettyImages-1239555048.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Will Smith Would Face Little More Than A Slap If Charged"
     excerpt: "Will Smith’s slap seen ’round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap of his own — on the wrist."
     publishedDateTime: 2022-03-30T19:23:00Z

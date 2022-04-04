@@ -1138,20 +1138,20 @@
     },
     {
       "path": "_news/2022-03-17-dataikus-no-code-cloud-stack-accelerator-is-now-available-on-aws.md",
-      "title": "Dataiku’s No-Code Cloud Stack Accelerator Is Now Available on AWS",
-      "excerpt": "Dataiku, the platform for Everyday AI, today unveiled the Dataiku cloud stack accelerator on Amazon Web Services (AWS) — a new way of rapidly deploying and managing Dataiku’s data, analytics, and artificial intelligence (AI) platform on AWS.",
+      "title": "Dataiku's No-Code Cloud Stack Accelerator Is Now Available on AWS",
+      "excerpt": "today unveiled the Dataiku cloud stack accelerator on Amazon Web Services (AWS) — a new way of rapidly deploying and managing Dataiku's data, analytics, and artificial intelligence (AI ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-science-business-sports-artificial-intelligence-e0f753d39d82f8d9861fd13111e0a240",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-science-business-sports-artificial-intelligence-e0f753d39d82f8d9861fd13111e0a240",
+      "webUrl": "https://www.asiaone.com/business/dataikus-no-code-cloud-stack-accelerator-now-available-aws",
+      "originalUrl": "https://www.asiaone.com/business/dataikus-no-code-cloud-stack-accelerator-now-available-aws",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2022/pr-newswire_500_4_1256.jpg?h=7de12b8a&itok=Wc55GeeM",
+          "width": 600,
+          "height": 316,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1161,11 +1161,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T06:02:00-07:00",
+      "publishedDateTime": "2022-03-17T08:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Asia One",
+        "domain": "asiaone.com",
         "images": null,
         "publishers": null,
         "authors": null

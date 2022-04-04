@@ -8,8 +8,8 @@ webUrl: "https://arcticstartup.com/upsy-received-e1-2m-in-seed/"
 ampWebUrl: "https://arcticstartup.com/upsy-received-e1-2m-in-seed/"
 cdnAmpWebUrl: "https://arcticstartup-com.cdn.ampproject.org/c/s/arcticstartup.com/upsy-received-e1-2m-in-seed/"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://arcticstartup.com/wp-content/uploads/2022/04/upsy-received-e1-2m-in-seed-1024x768.jpg"
@@ -25,6 +26,6 @@ images:
     height: 768
     isCached: true
 
-secured: "Fqf2Z0I+wXnLcf1AbEVmmFMa5XQ/UJp9l33CXrSZX6KrLaYJE47E0FWZ8BFdN1fKRS0dxqOEuJzS/HPsMYZcatr5WM84NMASIpfltP8tyc4J01mYsjSHnaDf9PAaD4dULvLjnfuVv4RmvuDNInpFDSr1JtiFLrr+ULH48Z+B5b/vRbwS6EBDB/tRJnTkudtyiPH3PH9ON+Tah2xL52n+YcK9QNz6zKURuhatNvtnY/VER0tNWc2WquV5KWrsO+ccb+etyBqNEqV3B98wNsdS5EFmFDFTaip+BkLBlOMHxmxzm1nxsVXv7b9RH7CqYQK+ezES4GX9KIOIzMdCrTBRkGoBYrRPXylRNKxJz8pGnZg=;CDzOsNXHrKNir96EXx+c/A=="
+secured: "yZ7Q7HPumKODe7jDhIMVPjkJktbf41yVVLv9QCQ4OyPfDM72rogu13BY7SUImZlurKGrg8If43tLmHu0QfhHf82v7U4wN3DI0Ff0LvHj1TNmtbSVeXYALOnzkxtoclSL3Nun72+FDYYZ53ZHUZ8CHa589u1q3Vn2ol/mqA1zhrOyrtHbzYL6VsURv1aWPshc8AAPajU5AhHIRjU09Xpw5fPe4aZfA/3AW/88F3NaCKZSrgaWwbVMq4cDFhOOZCjZcH/35reo7zWXM9LCnCnt5MF1H4LBkvssnbSS3JDvL4/qlXhPo+pHF7Rj9eRB4loyP1+H3ocrK8ysQrgwkhgQ7w/m2649t3jdXlrNJV75qXgO1Tn454I2n8dUIgz6EszwjcLqwVQ6Zhtl7yfoc2tJ2vgkWKyf/ecXY9v6tMAL6O/0oI8rrZNq3+FuUDaNo+7Yz92vNfcy6OEIlUSDalnhfYLjUOGClixKdxOupAwzWICi8u/e3/LcV/yhTrcQIfOLyiQEBZOwth06eWqm6yEQNQ==;L4bGNX3CJhU1e90xMMeByA=="
 ---
 

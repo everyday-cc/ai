@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 679
         isCached: true
-  - title: "Revving Up Relational Databases For Scorching Native AI Performance"
-    excerpt: "There may not be as much structured data in the world as there is unstructured data, but one could easily argue that the structured data – mostly"
-    publishedDateTime: 2022-03-30T16:07:00Z
-    webUrl: "https://www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/"
-    ampWebUrl: "https://www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/30/revving-up-relational-databases-for-scorching-native-ai-performance/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 57
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/heatwave.jpg"
-        width: 1024
-        height: 768
-        isCached: true
 
 secured: "IhCRG18MI5lvqszHWBJ9JCqFia3/ShfsZ5b6hNhufira82FDv6iSxl4jFdKBejRxu0FnME8ROhXSjVHT7MT1Xc0KVQO6ismEhAvRbvi8C4Yj7+rmBzFyYVmwH8eNMObgNd2FswSFWGX6+pD3jiSuVdEkC9XTwRoUDckB2h8lrcF5atZVbNC8IHJA2ApWOeeYLHfnFYzjQLsHsMWrSghTZrF3J7y15w26Eh+oY9S46wJoyUZwIYFs8bYMpz8/hbzQdyIeNqMKLojPoCNppxfZ3qPC356D2MxjCB8Rdv1jwM75A8li8PhyFu/lPEivyeI90zKyxr4e9Ahi1Mqw3nAoA8fLp7T9qs+1aiBdPgQalbNvhMqHuv62u2LVamCU+N5YwiuCkffmaqsy2RcC0cGZdB9wGappLfxc/2UHM+mkXSHWn8nzVznHT9VeAekNPAHFhk7I54zB6oMd6zAzz3S2Z3viPeZx2GagmTVKLilGovbOtsz6RKdZ7/+Jj9/y20Nz8KoRAk1SPab556lejzmkrA==;a+otooUrkvB+5w6DQmRCzg=="
 ---

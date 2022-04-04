@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Kwant AI Raises $3.9M in Seed Funding"
+    excerpt: "Kwant AI, a New York-based software company that focuses on supporting industrial job sites, raised $3.9M in Seed funding"
+    publishedDateTime: 2022-04-04T08:36:00Z
+    webUrl: "https://www.finsmes.com/2022/04/kwant-ai-raises-3-9m-in-seed-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/04/kwant.jpg"
+        width: 374
+        height: 374
+        isCached: true
   - title: "Funding rundown: Games24x7 turns unicorn, Builder.ai raises $100M Series C, CityMall raises $75M & FarMart raises $32M in Series B round"
     excerpt: "Games24x7 turns unicorn at a valuation of $2.5Bn Multi game platform Games24x7 has entered the unicorn club after raising $75 million in a recent funding round led by Malabar Investment at a valuation of $2."
     publishedDateTime: 2022-03-30T17:20:00Z

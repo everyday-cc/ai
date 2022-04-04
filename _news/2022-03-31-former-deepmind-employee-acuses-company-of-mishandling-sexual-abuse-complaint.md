@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/deepmind-employee-accuses-company-misha
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html"
 type: article
 quality: 101
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind accused of mishandling sexual misconduct allegations"
-    excerpt: "A former DeepMind employee has accused the artificial intelligence group’s leadership of mishandling multiple allegations of sexual misconduct and harassment, raising concerns over how grievances are dealt with at the Google-acquired company."
-    publishedDateTime: 2022-03-30T15:35:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2022/03/deepmind-accused-of-mishandling-sexual-misconduct-allegations/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/03/deepmind-760x380.jpeg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "DeepMind Appeared At The Center Of Sexual Harassment Scandal"
     excerpt: "Recently, DeepMind, an artificial intelligence company owned by Google-parent Alphabet has been the talk of the town. Several former employees were accusing the company of mishandling serious ..."
     publishedDateTime: 2022-03-31T13:16:00Z

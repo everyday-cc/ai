@@ -43,20 +43,6 @@ related:
         width: 1600
         height: 1000
         isCached: true
-  - title: "DeepMind accused of mishandling sexual misconduct allegations"
-    excerpt: "A former DeepMind employee has accused the artificial intelligence group’s leadership of mishandling multiple allegations of sexual misconduct and harassment, raising concerns over how grievances are dealt with at the Google-acquired company."
-    publishedDateTime: 2022-03-30T15:35:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2022/03/deepmind-accused-of-mishandling-sexual-misconduct-allegations/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/03/deepmind-760x380.jpeg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Deepmind rubbish at spotting sexual harassment"
     excerpt: "In this case it is a human problem It is starting to look like the humans behind AI are worse than the actual technology as a former DeepMind employee has blasted the AI lab for being “grossly inadequate\" in dealing with internal sexual harassment."
     publishedDateTime: 2022-04-01T09:56:00Z

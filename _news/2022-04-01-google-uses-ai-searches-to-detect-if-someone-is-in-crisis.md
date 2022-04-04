@@ -58,52 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google applies advanced AI to suicide prevention and reducing graphic search results"
-    excerpt: "Google has been rolling out smarter Artificial Intelligence systems, and says it is now putting them to work to help keep people safe. In particular, the search giant shared new information Wednesday about how it is using these advanced systems for suicide and domestic violence prevention,"
-    publishedDateTime: 2022-03-30T16:00:00Z
-    webUrl: "https://mashable.com/article/google-suicide-domestic-violence-ai-prevention"
-    ampWebUrl: "https://mashable.com/article/google-suicide-domestic-violence-ai-prevention?amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/google-suicide-domestic-violence-ai-prevention?amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 80
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/06ejXjgqVaRZFxsW2g2uIL6/hero-image.fill.size_1200x675.v1648590637.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google is using AI to better detect searches from people in crisis"
-    excerpt: "Specifically, Google is integrating its latest machine learning model, MUM, into its search engine to “more accurately detect a wider range of personal crisis searches.” The company unveiled MUM at its IO conference last year, and has since used it to ..."
-    publishedDateTime: 2022-03-30T16:18:00Z
-    webUrl: "https://www.theverge.com/2022/3/30/23001468/google-search-ai-mum-personal-crisis-information"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 69
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/mDlCd6Mu3WvQRoqmpC0FmRYsjQI=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10802119/akrales_180508_2553_0015.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Google and Meta are using artificial intelligence to mitigate problems such as suicide, violence and machismo"
-    excerpt: "Google presented innovations in artificial intelligence systems that nourish its search engine. These improvements aim to optimize the content that users access when searching for information about suicide,"
-    publishedDateTime: 2022-03-30T16:00:00Z
-    webUrl: "https://www.infobae.com/en/2022/03/30/google-and-meta-are-using-artificial-intelligence-to-mitigate-problems-such-as-suicide-violence-and-machismo/"
-    ampWebUrl: "https://www.infobae.com/en/2022/03/30/google-and-meta-are-using-artificial-intelligence-to-mitigate-problems-such-as-suicide-violence-and-machismo/?outputType=amp-type"
-    cdnAmpWebUrl: "https://www-infobae-com.cdn.ampproject.org/c/s/www.infobae.com/en/2022/03/30/google-and-meta-are-using-artificial-intelligence-to-mitigate-problems-such-as-suicide-violence-and-machismo/?outputType=amp-type"
-    type: article
-    provider:
-      name: Infobae
-      domain: infobae.com
-    quality: 38
-    images:
-      - url: "https://www.infobae.com/new-resizer/7Ywmlp2b-31JXSukx1M-tYktDRQ=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/AA6Y3H4UCZHRJOCY4ACA42DMN4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "A2DA3vMPqBuuS/rEV3CLIpbzcc77y7vDPheQk0wWo8gIPtk4dAhEg58eeQnmfm2kZ4E/sl04TviT+Sod1029tYDnfA/v65nkOS5+rsMDIc1IXD59rtZG1HR3lokppVLg0lAewkW5qVISu1fPpwpsyLr94X971AqlxhKUNK3TwtPyAM2PcwDW8BRLPSpmsywabn6X8G0c9DveHzmT1H7kE/u53+jSjNkg7y6MyaAoNIEPg+/3lcG/WBZDM+jJ95/SFQKLCrnx7nQv75w1R6pysH5bMWdEU4GA5c11SyYYEkhj1EmmqE0zir5K2Lm6AHmaMPIf0HsSUb5Tr2ZhsztUY9vwIwpNmJFSUva4J1ppphM=;fW5fuoFkArTVwxEnKJGD5w=="
 ---

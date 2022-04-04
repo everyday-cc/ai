@@ -41,6 +41,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Kwant AI Raises $3.9M in Seed Funding"
+    excerpt: "Kwant AI, a New York-based software company that focuses on supporting industrial job sites, raised $3.9M in Seed funding"
+    publishedDateTime: 2022-04-04T08:36:00Z
+    webUrl: "https://www.finsmes.com/2022/04/kwant-ai-raises-3-9m-in-seed-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/04/kwant.jpg"
+        width: 374
+        height: 374
+        isCached: true
 
 secured: "v65m5UdFBauVtGmXKXzNFsJXf3jErInHdrUZu8jIk89O8orW7oM3gxKixwRQZkfA4NRxgkbGXKCvW/iUMgxSrKu5M6tRADz09Nr8SEmNLLDR+/JY5DIlZgByNhULMNlJ9cpRiSblc++N4+WfT0s0WTGtcKLaEyUS6dK3E54QTEV6hiWwd3mzavElJKwNk5HJpIdD0UkxOmZ5bfwLaadwi8VLdOl+jJGxY/7MIdsm7xtHhWDczy11+rPzYh2Qj2RFvMgCzRtJRgPk0AfldUgtk5kfP88jnwTi9EzF+LPhDVV6AihKvAkPuPgN38if2VqzP/0pn05ECjlzwR2GFe81snEu+oKvFtsIE4n+6/CnTKA=;PhZF0lJzbL7QQOLfRwMCMA=="
 ---

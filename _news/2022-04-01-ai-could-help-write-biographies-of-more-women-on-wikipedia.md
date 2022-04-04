@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meta open-sources AI models to generate biographies for notable women on Wikipedia"
-    excerpt: "Meta Platforms Inc.’s artificial intelligence research unit said today it has developed an AI model that can research and write drafts of Wikipedia-style biographical entries, in order to address a noticeable imbalance on the world’s most popular encyclopedia."
-    publishedDateTime: 2022-03-30T16:49:00Z
-    webUrl: "https://siliconangle.com/2022/03/30/meta-open-sources-ai-models-generate-biographies-notable-women-wikipedia/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/22.png"
-        width: 842
-        height: 472
-        isCached: true
 
 secured: "hyaTlvmFrCFrnFvMgYGHLwNX54SOZjluJ+byxq7SEOj0x+mp89ozyXow6fYnhnEvMN5p7mq7OInuIDuu7FDrx4YUpkG+61zhDtFu3BW/w4sNqW8/EXq0a9Mkigjqpr3eXU09UlFjjZceeJB224O75BImrULnZaNXWuDDLBcL17R3eQx3nkkGHdJqIgFaJlwYru44meQFADp3V8zlZgMtTnsH1NtQS55TGR6s1G2dISuHyk1cyPE5H3Hdpyz8ONdsNL3vuEeV6TJO0hSNmXJjEd6FfZ68gJNlARQPS0sUx+cwtN4uN3yc5XH5MnjQn1UGnc85dZ6NSopa6nPdiiDMho14Q/jBybZD1qpOxrQB8Q8=;LElEI+l+1NGy5pCWwYErJg=="
 ---

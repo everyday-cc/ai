@@ -41,38 +41,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Waymo’s self-driving ride-hailing service coming to San Francisco"
-    excerpt: "The autonomous vehicle unit of Alphabet, Google’s parent company, said Wednesday that it started carrying employees in electric Jaguar I-Pace SUVs without human backup drivers. Previously the ..."
-    publishedDateTime: 2022-03-30T15:21:00Z
-    webUrl: "https://ktla.com/news/california/waymos-self-driving-ride-hailing-service-coming-to-san-francisco/"
-    ampWebUrl: "https://ktla.com/news/california/waymos-self-driving-ride-hailing-service-coming-to-san-francisco/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/waymos-self-driving-ride-hailing-service-coming-to-san-francisco/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 74
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/03/GettyImages-1142591427.jpg?w=1280"
-        width: 1280
-        height: 838
-        isCached: true
-  - title: "Waymo to expand autonomous vehicle rides to San Francisco"
-    excerpt: "Waymo's self-driving ride-hailing service is branching out to San Francisco. The autonomous vehicle unit of Alphabet, Google's"
-    publishedDateTime: 2022-03-30T15:40:00Z
-    webUrl: "https://ktar.com/story/4977554/waymo-to-expand-autonomous-vehicle-rides-to-san-francisco/"
-    ampWebUrl: "https://ktar.com/story/4977554/waymo-to-expand-autonomous-vehicle-rides-to-san-francisco/amp/"
-    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4977554/waymo-to-expand-autonomous-vehicle-rides-to-san-francisco/amp/"
-    type: article
-    provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 59
-    images:
-      - url: "https://ktar.com/wp-content/uploads/2022/03/ap_3ce6b56f7dc54a5fbf81f12951ee1c54.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Waymo to expand autonomous vehicle rides to San Francisco"
     excerpt: "Waymo's self-driving ride-hailing service is branching out to San Francisco. The autonomous vehicle unit of Alphabet, Google's parent company, said Wednesday that it Previously the company had been testing the vehicles with a safety driver behind the wheel just in case."
     publishedDateTime: 2022-03-30T20:40:00Z

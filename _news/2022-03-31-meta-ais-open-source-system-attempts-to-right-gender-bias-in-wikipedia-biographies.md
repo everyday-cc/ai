@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/30/meta-ais-open-source-system-attem
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/amp/"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-04/meta_wikipedia_010422-seo.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Meta open-sources AI models to generate biographies for notable women on Wikipedia"
-    excerpt: "Meta Platforms Inc.’s artificial intelligence research unit said today it has developed an AI model that can research and write drafts of Wikipedia-style biographical entries, in order to address a noticeable imbalance on the world’s most popular encyclopedia."
-    publishedDateTime: 2022-03-30T16:49:00Z
-    webUrl: "https://siliconangle.com/2022/03/30/meta-open-sources-ai-models-generate-biographies-notable-women-wikipedia/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/22.png"
-        width: 842
-        height: 472
         isCached: true
   - title: "AI could help write biographies of more women on Wikipedia"
     excerpt: "An algorithm capable of writing biographies of women who deserve to be included in Wikipedia has been developed."

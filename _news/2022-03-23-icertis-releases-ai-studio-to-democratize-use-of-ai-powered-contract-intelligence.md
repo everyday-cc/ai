@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence"
-excerpt: "Innovation Extends Enterprise-wide Access to Next-Generation Contract Management, Coincides With Debut of New Platform User Experience BELLEVUE, Wash., March 23, 2022 /PRNewswire/ -- Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM),"
+excerpt: "Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM), today released AI Studio, a self-serve, self-learning cognitive tool."
 publishedDateTime: 2022-03-23T10:05:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20220323sf99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence"
+originalUrl: "https://fox59.com/business/press-releases/cision/20220323SF99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence/"
+webUrl: "https://fox59.com/business/press-releases/cision/20220323SF99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence/"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: FOX59 News
+  domain: fox59.com
 
 topics:
-  - Microsoft AI
+  - AI in Autos
   - AI
 
-secured: "f1htdQjAz01TpYUjq2ACVJbP0G7wdj8BljqgnjphdWfoBYV/gZ4b28CtjFefGZoyxi86Z+ScmIbIyZ5lKoyXm5PxgwyuOJFKYi5qz7vuo8QoWgYDu43jw1tqTsvOPNU3ag4x+ps9f4/uqmuKs6cbFyPO+EZC5h4Ncu7S19kMy+XQ4/0aCg1HYNMQ+MMfA3mWbvWmodFKu2mArYZ99nT3tW0n2B0YTISvfzsKHRAM+bq6sZtKKPP1UJGzYFXL3eD+czCJfbeFYYyJYp+ChmAdcnv/we2mECBTwkviWbIrfRiqjPL7D9Mi8dHgKIqv4wukAQt96z7HT9qtGLMymDQ8lJShprsYlceN6f/WTCD4OiE=;J5jcXdrSruVrn0rpUs/5Rg=="
+secured: "vQP59kn/BlIstzQzwaptWOfYPkfo+ebXPXPbwjZUA2ZyzMf2s4+hAjLg7eX+FbKaHV1hu6AWYLgEii+oW6egRAPBw85LmeVoh3ZxFKHrjh/Knib1Jr5r+hK8I42bu7p13cb9pw6E5GCgyzz2rYdaXpdwKWcVyCV+YflCx/TxsMzp8DXsoIYjCd7wA9IR1wv75Zvqv9QalGEkan+hH9GHyIq37S5YThBPIjbZHSu0V5VpwvH0KwTpSJnpfxuo93ZpGoIqcrh8l53x0VXVXWksHB8vykXGPFryGMwr4LpUUJdX+EUlp4kna74He7vXpTB0XLr/jZHn6H6M9NmZ9V1jrg3t76Xq6esnPVtwJI6Hgq8=;Y5SX7oLxZaj0uZBaNWeoPw=="
 ---
 

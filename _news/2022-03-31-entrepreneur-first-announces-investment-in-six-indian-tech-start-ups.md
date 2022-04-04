@@ -39,15 +39,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Impact Venture Capital Announces $425 Million in Follow-on Investments in Inaugural Fund"
-    excerpt: "Impact Venture Capital, a Silicon Valley-based venture capital firm focused on early-stage startups today announced a portfolio of companies validating that the future is closer than we think. Along with initial investments from Impact Venture Capital,"
-    publishedDateTime: 2022-03-30T15:39:00Z
-    webUrl: "https://foxlexington.com/business/press-releases/globenewswire/8512554/impact-venture-capital-announces-425-million-in-follow-on-investments-in-inaugural-fund/"
-    type: article
-    provider:
-      name: WDKY Fox 56
-      domain: foxlexington.com
-    quality: 0
 
 secured: "wrkMw6Trcbu9rcqBYwk/gPuCTRk5q+ah96RAaUYkJETdm4tf4zefKdhB5gm+4ZqwIvTGbC0H7NJGEEF0xLQAm3/z6NWb+DPJVrf9M72NDK3I98GDvDtxhtJINtXLtKLp1xK46Z8xXjJ9dEJMMzo9aSUceb85Xrm2Kmp4B0RADLlGa1GU8ojtsaxmqgkssJYE9yfOJJ6LYSMFFgfJhu4+Q8Scj7N2y61BQ/xo+96jAuZWpcSFo5g2/7d3VTSk4LYEo5Oo8xCzMZevm5U6WWBMxEia2/3oCVfMqVj4+sglX+KJpRV+TNiymTcW9th075k4GtEDU8KDA24j8JSESEDSH5R+jPExJA6Y942R1murwTo=;xGAKyinpQdWIEzD/iV61Vw=="
 ---
